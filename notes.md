@@ -36,3 +36,5 @@ To make the talent ratings more stable during the early stages of the regular se
 **Playing-time Projections**
 
 Team-level based combination (court time).
+
+combinaciones entre los mejores 5 jugadores??
