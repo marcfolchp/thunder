@@ -87,11 +87,14 @@ for season in season_links:
                                on=['match_id', 'team_id'], how='left')
     
     complete_df['season_id'] = season_counter
+
+    complete_df.to_csv(f'laliga_season_id_{2024 - season_counter}_{2025 - season_counter}')
+
     season_counter += 1
     
     # Append complete_df for the season to the season_df
     season_df = pd.concat([season_df, complete_df], ignore_index=True)
-    
+
     print(f"Completed season {season_counter - 1}")
 
 # Close the web driver once at the end
