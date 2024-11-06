@@ -88,7 +88,7 @@ for season in season_links:
     
     complete_df['season_id'] = season_counter
 
-    complete_df.to_csv(f'laliga_season_{2024 - season_counter}_{2025 - season_counter}')
+    complete_df.to_csv(f'tables/laliga_season_{2024 - season_counter}_{2025 - season_counter}')
 
     season_counter += 1
     
