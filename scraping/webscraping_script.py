@@ -48,10 +48,16 @@ for season in season_links:
     
     for counter, link in enumerate(links, start=1):
         
-        time.sleep(random.uniform(5, 10))  # Optional, if 429 errors are a concern
+        time.sleep(random.uniform(10, 20))  # Optional, if 429 errors are a concern ///// it was 5,10
         
-        tables = pd.read_html(link, attrs={'class': 'stats_table'})
+        try:
+            tables = pd.read_html(link, attrs={'class': 'stats_table'})
         
+        except requests.exceptions.HTTPError as http_err:
+            print(f"HTTP error occurred: {http_err}")
+            print("Esperando una hora antes de reintentar...")
+            time.sleep(3600)  # Pausa de 1 hora (3600 segundos)
+
         # Drop the top column level for all tables
         for table in tables:
             drop_top_column_level(table)
