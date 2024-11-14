@@ -138,4 +138,16 @@ for season in season_links:
     
     complete_df['season_id'] = season_counter
 
-    complete_df.to_csv(f'tables/la
+    complete_df.to_csv(f'tables/laliga_season_{2024 - season_counter}_{2025 - season_counter}')
+
+    season_counter += 1
+    
+    # Append complete_df for the season to the season_df
+    season_df = pd.concat([season_df, complete_df], ignore_index=True)
+
+    log_message(f"Completed season {season_counter - 1}")
+
+# Close the web driver once at the end
+driver.quit()
+
+season_df.to_csv('tables/laliga_all_seasons.csv')
