@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
 import requests
+from requests.exceptions import HTTPError
 from bs4 import BeautifulSoup
 import time
 import random
@@ -97,7 +98,8 @@ for season in season_links:
                 break  # Exit the retry loop after successful request
 
             except HTTPError as e:
-                if e.response.status_code in [403, 429] or 400 <= e.response.status_code < 600:
+                if e.response and (e.response.status_code in [403, 429] or 400 <= e.response.status_code < 600):
+                # if e.response.status_code in [403, 429] or 400 <= e.response.status_code < 600:
                     print(f"HTTP error {e.response.status_code} for match {counter}: {e}. Retrying in 1 hour...")
                     time.sleep(3600)
                 else:
