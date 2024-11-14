@@ -36,8 +36,23 @@ def merge_players(players, team_id):
 season_counter = 1
 season_df = pd.DataFrame()
 
+# Usar navegador en modo headless para no necesitar del navegador gráfico
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+
+options = Options()
+options.add_argument('--headless')
+options.add_argument('--no-sandbox')
+options.add_argument('--disable-dev-shm-usage')
+
+driver = webdriver.Chrome(options=options)
+
+# Tu código con Selenium...
+
+
 # Start the web driver once for all seasons
-driver = webdriver.Chrome()
+# driver = webdriver.Chrome()
 
 for season in season_links:
     
@@ -91,7 +106,7 @@ for season in season_links:
             except requests.exceptions.RequestException as e:
                 print(f"General request error for match {counter}: {e}. Retrying in 1 hour...")
                 time.sleep(3600)
-                
+
         # Optional sleep to avoid hitting request limits
         time.sleep(random.uniform(5, 10))
 
