@@ -55,46 +55,43 @@ for season in season_links:
     }
 
     for counter, link in enumerate(links, start=1):
-        
-        try:
-            response = requests.get(link, headers=headers)
-            
-            if response.status_code != 200:
-                print(f"Failed to retrieve content from {link}, status code: {response.status_code}")
-                continue
-            
-            # Parse the content with BeautifulSoup
-            soup = BeautifulSoup(response.content, 'html.parser')
+        while True:  # Retry loop
+            try:
+                response = requests.get(link, headers=headers)
+                response.raise_for_status()  # Raise an HTTPError for bad responses (4xx or 5xx)
 
-            # Find all tables with the specified class
-            tables_html = soup.find_all('table', {'class': 'stats_table'})
+                # Continue processing if the response is OK (200)
+                soup = BeautifulSoup(response.content, 'html.parser')
+                tables_html = soup.find_all('table', {'class': 'stats_table'})
+                tables = [pd.read_html(str(table))[0] for table in tables_html]
 
-            # Convert each found table to a DataFrame using pd.read_html
-            tables = [pd.read_html(str(table))[0] for table in tables_html]
+                for table in tables:
+                    drop_top_column_level(table)
 
-            # Drop the top column level for all tables
-            for table in tables:
-                drop_top_column_level(table)
+                home_players = tables[0:7]
+                away_players = tables[7:14]
 
-            # Process home and away player data
-            home_players = tables[0:7]
-            away_players = tables[7:14]
+                home_df = merge_players(home_players, 'H')[1:]
+                away_df = merge_players(away_players, 'A')[1:]
 
-            home_df = merge_players(home_players, 'H')[1:]
-            away_df = merge_players(away_players, 'A')[1:]
+                match_players = pd.concat([home_df, away_df]).reset_index(drop=True)
+                match_players['match_id'] = counter
+                match_data_list.append(match_players)
 
-            # Combine home and away data, assign match_id, and store it
-            match_players = pd.concat([home_df, away_df]).reset_index(drop=True)
-            match_players['match_id'] = counter
-            match_data_list.append(match_players)
+                print(f"Completed match {counter} of season {season_counter}")
+                break  # Exit the retry loop after successful request
 
-            print(f"Completed match {counter} of season {season_counter}")
-            
-        except requests.exceptions.RequestException as e:
-            print(f"Request error for match {counter}: {e}. Retrying in 1 hour...")
-            time.sleep(3600)
-            continue
-        
+            except HTTPError as e:
+                if e.response.status_code in [403, 429] or 400 <= e.response.status_code < 600:
+                    print(f"HTTP error {e.response.status_code} for match {counter}: {e}. Retrying in 1 hour...")
+                    time.sleep(3600)
+                else:
+                    print(f"HTTP error {e.response.status_code} for match {counter}: {e}. Skipping this match.")
+                    break  # Exit if it's an unexpected HTTP error
+            except requests.exceptions.RequestException as e:
+                print(f"General request error for match {counter}: {e}. Retrying in 1 hour...")
+                time.sleep(3600)
+                
         # Optional sleep to avoid hitting request limits
         time.sleep(random.uniform(5, 10))
 
