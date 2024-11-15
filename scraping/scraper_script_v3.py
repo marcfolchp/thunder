@@ -33,6 +33,18 @@ season_links = [
     'https://fbref.com/en/comps/9/2017-2018/schedule/2017-2018-Premier-League-Scores-and-Fixtures'
 ]
 
+# LINKS PARA LA BUNDESLIGA
+season_links = [
+    'https://fbref.com/en/comps/20/2023-2024/schedule/2023-2024-Bundesliga-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/20/2022-2023/schedule/2022-2023-Bundesliga-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/20/2021-2022/schedule/2021-2022-Bundesliga-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/20/2020-2021/schedule/2020-2021-Bundesliga-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/20/2019-2020/schedule/2019-2020-Bundesliga-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/20/2018-2019/schedule/2018-2019-Bundesliga-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/20/2017-2018/schedule/2017-2018-Bundesliga-Scores-and-Fixtures'
+]
+
+
 def drop_top_column_level(dataframe):
     dataframe.columns = dataframe.columns.droplevel(0)
 
@@ -64,7 +76,7 @@ driver = webdriver.Chrome(options=options)
 
 # Inicializar el nombre del archivo de log con un timestamp
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-log_file = f'output_log_{timestamp}.txt'
+log_file = f'logs/output_log_{timestamp}.txt'
 
 def log_message(message):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -150,7 +162,7 @@ for season in season_links:
     
     complete_df['season_id'] = season_counter
 
-    complete_df.to_csv(f'tables/premier_season_{2024 - season_counter}_{2025 - season_counter}.csv')
+    complete_df.to_csv(f'tables/bundesliga_season_{2024 - season_counter}_{2025 - season_counter}.csv')
 
     season_counter += 1
     
@@ -162,4 +174,4 @@ for season in season_links:
 # Close the web driver once at the end
 driver.quit()
 
-season_df.to_csv('tables/premier_all_seasons.csv')
+season_df.to_csv('tables/bundesliga_all_seasons.csv')
