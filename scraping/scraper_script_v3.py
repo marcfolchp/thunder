@@ -150,7 +150,7 @@ for season in season_links:
     
     complete_df['season_id'] = season_counter
 
-    complete_df.to_csv(f'tables/premier_season_{2024 - season_counter}_{2025 - season_counter}')
+    complete_df.to_csv(f'tables/premier_season_{2024 - season_counter}_{2025 - season_counter}.csv')
 
     season_counter += 1
     
