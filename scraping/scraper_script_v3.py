@@ -11,14 +11,26 @@ from datetime import datetime
 
 warnings.filterwarnings('ignore')
 
+# LINKS PARA LA LIGA
+# season_links = [
+#     'https://fbref.com/en/comps/12/2023-2024/schedule/2023-2024-La-Liga-Scores-and-Fixtures',
+#     'https://fbref.com/en/comps/12/2022-2023/schedule/2022-2023-La-Liga-Scores-and-Fixtures',
+#     'https://fbref.com/en/comps/12/2021-2022/schedule/2021-2022-La-Liga-Scores-and-Fixtures',
+#     'https://fbref.com/en/comps/12/2020-2021/schedule/2020-2021-La-Liga-Scores-and-Fixtures',
+#     'https://fbref.com/en/comps/12/2019-2020/schedule/2019-2020-La-Liga-Scores-and-Fixtures',
+#     'https://fbref.com/en/comps/12/2018-2019/schedule/2018-2019-La-Liga-Scores-and-Fixtures',
+#     'https://fbref.com/en/comps/12/2017-2018/schedule/2017-2018-La-Liga-Scores-and-Fixtures'
+# ]
+
+# LINKS PARA LA PREMIER
 season_links = [
-    'https://fbref.com/en/comps/12/2023-2024/schedule/2023-2024-La-Liga-Scores-and-Fixtures',
-    'https://fbref.com/en/comps/12/2022-2023/schedule/2022-2023-La-Liga-Scores-and-Fixtures',
-    'https://fbref.com/en/comps/12/2021-2022/schedule/2021-2022-La-Liga-Scores-and-Fixtures',
-    'https://fbref.com/en/comps/12/2020-2021/schedule/2020-2021-La-Liga-Scores-and-Fixtures',
-    'https://fbref.com/en/comps/12/2019-2020/schedule/2019-2020-La-Liga-Scores-and-Fixtures',
-    'https://fbref.com/en/comps/12/2018-2019/schedule/2018-2019-La-Liga-Scores-and-Fixtures',
-    'https://fbref.com/en/comps/12/2017-2018/schedule/2017-2018-La-Liga-Scores-and-Fixtures'
+    'https://fbref.com/en/comps/9/2023-2024/schedule/2023-2024-Premier-League-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/9/2022-2023/schedule/2022-2023-Premier-League-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/9/2021-2022/schedule/2021-2022-Premier-League-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/9/2020-2021/schedule/2020-2021-Premier-League-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/9/2019-2020/schedule/2019-2020-Premier-League-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/9/2018-2019/schedule/2018-2019-Premier-League-Scores-and-Fixtures',
+    'https://fbref.com/en/comps/9/2017-2018/schedule/2017-2018-Premier-League-Scores-and-Fixtures'
 ]
 
 def drop_top_column_level(dataframe):
@@ -138,7 +150,7 @@ for season in season_links:
     
     complete_df['season_id'] = season_counter
 
-    complete_df.to_csv(f'tables/laliga_season_{2024 - season_counter}_{2025 - season_counter}')
+    complete_df.to_csv(f'tables/premier_season_{2024 - season_counter}_{2025 - season_counter}')
 
     season_counter += 1
     
@@ -150,4 +162,4 @@ for season in season_links:
 # Close the web driver once at the end
 driver.quit()
 
-season_df.to_csv('tables/laliga_all_seasons.csv')
+season_df.to_csv('tables/premier_all_seasons.csv')
