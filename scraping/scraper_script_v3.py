@@ -130,10 +130,10 @@ for season in season_links:
                 break  # Exit the retry loop after successful request
 
             except HTTPError as e:
-                if e.response and (e.response.status_code in [403, 429] or 400 <= e.response.status_code < 600):
+                if e.response and e.response.status_code in [403, 429]:
                     log_message(f"HTTP error {e.response.status_code} for match {counter}: {e}. Retrying in 1 hour...")
                     time.sleep(3600)
-                else:
+                elif 400 <= e.response.status_code < 600:
                     log_message(f"HTTP error {e.response.status_code} for match {counter}: {e}. Skipping this match.")
                     break  # Exit if it's an unexpected HTTP error
             except requests.exceptions.RequestException as e:
