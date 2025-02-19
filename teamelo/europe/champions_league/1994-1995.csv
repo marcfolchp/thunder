@@ -1,0 +1,62 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1994-09-14,Manchester Utd,Göteborg,eng,se,4.0,2.0,0.0
+1,1994-09-14,Dynamo Kyiv,Spartak Moscow,ua,ru,3.0,2.0,0.0
+2,1994-09-14,Barcelona,Galatasaray,es,tr,2.0,1.0,0.0
+3,1994-09-14,Paris S-G,Bayern Munich,fr,de,2.0,0.0,0.0
+4,1994-09-14,Anderlecht,Steaua,be,ro,0.0,0.0,0.5
+5,1994-09-14,Ajax,Milan,nl,it,2.0,0.0,0.0
+6,1994-09-14,Austria Salzburg,AEK Athens,at,gr,0.0,0.0,0.5
+7,1994-09-14,Hajduk Split,Benfica,hr,pt,0.0,0.0,0.5
+9,1994-09-28,Bayern Munich,Dynamo Kyiv,de,ua,1.0,0.0,0.0
+10,1994-09-28,Milan,Austria Salzburg,it,at,3.0,0.0,0.0
+11,1994-09-28,Benfica,Anderlecht,pt,be,3.0,1.0,0.0
+12,1994-09-28,Göteborg,Barcelona,se,es,2.0,1.0,0.0
+13,1994-09-28,Spartak Moscow,Paris S-G,ru,fr,1.0,2.0,1.0
+14,1994-09-28,Galatasaray,Manchester Utd,tr,eng,0.0,0.0,0.5
+15,1994-09-28,Steaua,Hajduk Split,ro,hr,0.0,1.0,1.0
+16,1994-09-28,AEK Athens,Ajax,gr,nl,1.0,2.0,1.0
+18,1994-10-19,Hajduk Split,Anderlecht,hr,be,2.0,1.0,0.0
+19,1994-10-19,Göteborg,Galatasaray,se,tr,1.0,0.0,0.0
+20,1994-10-19,AEK Athens,Milan,gr,it,0.0,0.0,0.5
+21,1994-10-19,Spartak Moscow,Bayern Munich,ru,de,1.0,1.0,0.5
+22,1994-10-19,Benfica,Steaua,pt,ro,2.0,1.0,0.0
+23,1994-10-19,Austria Salzburg,Ajax,at,nl,0.0,0.0,0.5
+24,1994-10-19,Manchester Utd,Barcelona,eng,es,2.0,2.0,0.5
+25,1994-10-19,Dynamo Kyiv,Paris S-G,ua,fr,1.0,2.0,1.0
+27,1994-11-02,Barcelona,Manchester Utd,es,eng,4.0,0.0,0.0
+28,1994-11-02,Steaua,Benfica,ro,pt,1.0,1.0,0.5
+29,1994-11-02,Ajax,Austria Salzburg,nl,at,1.0,1.0,0.5
+30,1994-11-02,Milan,AEK Athens,it,gr,2.0,1.0,0.0
+31,1994-11-02,Anderlecht,Hajduk Split,be,hr,0.0,0.0,0.5
+32,1994-11-02,Paris S-G,Dynamo Kyiv,fr,ua,1.0,0.0,0.0
+33,1994-11-02,Bayern Munich,Spartak Moscow,de,ru,2.0,2.0,0.5
+34,1994-11-02,Galatasaray,Göteborg,tr,se,0.0,1.0,1.0
+36,1994-11-23,Milan,Ajax,it,nl,0.0,2.0,1.0
+37,1994-11-23,Benfica,Hajduk Split,pt,hr,2.0,1.0,0.0
+38,1994-11-23,Spartak Moscow,Dynamo Kyiv,ru,ua,1.0,0.0,0.0
+39,1994-11-23,AEK Athens,Austria Salzburg,gr,at,1.0,3.0,1.0
+40,1994-11-23,Galatasaray,Barcelona,tr,es,2.0,1.0,0.0
+41,1994-11-23,Steaua,Anderlecht,ro,be,1.0,1.0,0.5
+42,1994-11-23,Göteborg,Manchester Utd,se,eng,3.0,1.0,0.0
+43,1994-11-23,Bayern Munich,Paris S-G,de,fr,0.0,1.0,1.0
+45,1994-12-07,Barcelona,Göteborg,es,se,1.0,1.0,0.5
+46,1994-12-07,Anderlecht,Benfica,be,pt,1.0,1.0,0.5
+47,1994-12-07,Dynamo Kyiv,Bayern Munich,ua,de,1.0,4.0,1.0
+48,1994-12-07,Paris S-G,Spartak Moscow,fr,ru,4.0,1.0,0.0
+49,1994-12-07,Hajduk Split,Steaua,hr,ro,1.0,4.0,1.0
+50,1994-12-07,Austria Salzburg,Milan,at,it,0.0,1.0,1.0
+51,1994-12-07,Manchester Utd,Galatasaray,eng,tr,4.0,0.0,0.0
+52,1994-12-07,Ajax,AEK Athens,nl,gr,2.0,0.0,0.0
+54,1995-03-01,Milan,Benfica,it,pt,2.0,0.0,0.0
+55,1995-03-01,Bayern Munich,Göteborg,de,se,0.0,0.0,0.5
+56,1995-03-01,Hajduk Split,Ajax,hr,nl,0.0,0.0,0.5
+57,1995-03-01,Barcelona,Paris S-G,es,fr,1.0,1.0,0.5
+58,1995-03-15,Paris S-G,Barcelona,fr,es,2.0,1.0,0.0
+59,1995-03-15,Göteborg,Bayern Munich,se,de,2.0,2.0,0.5
+60,1995-03-15,Benfica,Milan,pt,it,0.0,0.0,0.5
+61,1995-03-15,Ajax,Hajduk Split,nl,hr,3.0,0.0,0.0
+62,1995-04-05,Bayern Munich,Ajax,de,nl,0.0,0.0,0.5
+63,1995-04-05,Paris S-G,Milan,fr,it,0.0,1.0,1.0
+64,1995-04-19,Milan,Paris S-G,it,fr,2.0,0.0,0.0
+65,1995-04-19,Ajax,Bayern Munich,nl,de,5.0,2.0,0.0
+66,1995-05-24,Ajax,Milan,nl,it,1.0,0.0,0.0

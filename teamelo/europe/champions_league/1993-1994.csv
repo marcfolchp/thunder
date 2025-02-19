@@ -1,0 +1,96 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1993-08-18,HJK Helsinki,FC Norma Tallinn,fi,ee,1.0,1.0,0.5
+1,1993-08-18,B68 Toftir,Croatia Zagreb,fo,hr,0.0,5.0,1.0
+2,1993-08-18,Skonto FC,NK Olimpija Ljubljana,lv,si,0.0,1.0,1.0
+3,1993-08-18,FC Dinamo Tbilisi,Linfield FC,ge,nir,2.0,1.0,0.0
+4,1993-08-18,FC Zimbru Chișinău,Beitar Jerusalem,md,il,1.0,1.0,0.5
+5,1993-08-18,AC Omonia,Aarau,cy,ch,2.0,1.0,0.0
+6,1993-08-18,FC Avenir Beggen,Rosenborg,lu,no,0.0,2.0,1.0
+7,1993-08-18,Cwmbrân Town AFC,Cork City FC,wls,ie,3.0,2.0,0.0
+8,1993-08-18,FK Ekranas,Floriana FC,lt,mt,0.0,1.0,1.0
+9,1993-08-22,Partizani Tirana,Íþróttabandalag Akraness,al,is,0.0,0.0,0.5
+10,1993-09-01,Croatia Zagreb,B68 Toftir,hr,fo,6.0,0.0,0.0
+11,1993-09-01,Cork City FC,Cwmbrân Town AFC,ie,wls,2.0,1.0,0.0
+12,1993-09-01,NK Olimpija Ljubljana,Skonto FC,si,lv,0.0,1.0,1.0
+13,1993-09-01,Linfield FC,FC Dinamo Tbilisi,nir,ge,1.0,1.0,0.5
+14,1993-09-01,Floriana FC,FK Ekranas,mt,lt,1.0,0.0,0.0
+15,1993-09-01,Íþróttabandalag Akraness,Partizani Tirana,is,al,3.0,0.0,0.0
+16,1993-09-01,Aarau,AC Omonia,ch,cy,2.0,0.0,0.0
+17,1993-09-01,FC Norma Tallinn,HJK Helsinki,ee,fi,0.0,1.0,1.0
+18,1993-09-01,Rosenborg,FC Avenir Beggen,no,lu,1.0,0.0,0.0
+19,1993-09-01,Beitar Jerusalem,FC Zimbru Chișinău,il,md,2.0,0.0,0.0
+20,1993-09-15,Lech Poznań,Beitar Jerusalem,pl,il,3.0,0.0,0.0
+21,1993-09-15,Galatasaray,Cork City FC,tr,ie,2.0,1.0,0.0
+22,1993-09-15,Dynamo Kyiv,Barcelona,ua,es,3.0,1.0,0.0
+23,1993-09-15,Rosenborg,Austria Wien,no,at,3.0,1.0,0.0
+24,1993-09-15,Monaco,AEK Athens,fr,gr,1.0,0.0,0.0
+25,1993-09-15,AIK Stockholm,Sparta Prague,se,cz,1.0,0.0,0.0
+26,1993-09-15,Honvéd,Manchester Utd,hu,eng,2.0,3.0,1.0
+27,1993-09-15,Steaua,Croatia Zagreb,ro,hr,1.0,2.0,1.0
+28,1993-09-15,Íþróttabandalag Akraness,Feyenoord,is,nl,1.0,0.0,0.0
+29,1993-09-15,HJK Helsinki,Anderlecht,fi,be,0.0,3.0,1.0
+30,1993-09-15,Porto,Floriana FC,pt,mt,2.0,0.0,0.0
+31,1993-09-15,Rangers,Levski Sofia,sct,bg,3.0,2.0,0.0
+32,1993-09-15,Aarau,Milan,ch,it,0.0,1.0,1.0
+33,1993-09-15,Skonto FC,Spartak Moscow,lv,ru,0.0,5.0,1.0
+34,1993-09-16,Linfield FC,FC Copenhagen,nir,dk,3.0,0.0,0.0
+35,1993-09-16,Werder Bremen,Dinamo Minsk,de,by,5.0,2.0,0.0
+36,1993-09-28,Croatia Zagreb,Steaua,hr,ro,2.0,3.0,1.0
+37,1993-09-29,Anderlecht,HJK Helsinki,be,fi,3.0,0.0,0.0
+38,1993-09-29,Milan,Aarau,it,ch,0.0,0.0,0.5
+39,1993-09-29,Manchester Utd,Honvéd,eng,hu,2.0,1.0,0.0
+40,1993-09-29,Sparta Prague,AIK Stockholm,cz,se,2.0,0.0,0.0
+41,1993-09-29,Dinamo Minsk,Werder Bremen,by,de,1.0,1.0,0.5
+42,1993-09-29,Cork City FC,Galatasaray,ie,tr,0.0,1.0,1.0
+43,1993-09-29,Levski Sofia,Rangers,bg,sct,2.0,1.0,0.0
+44,1993-09-29,Beitar Jerusalem,Lech Poznań,il,pl,2.0,4.0,1.0
+45,1993-09-29,Feyenoord,Íþróttabandalag Akraness,nl,is,3.0,0.0,0.0
+46,1993-09-29,Floriana FC,Porto,mt,pt,0.0,0.0,0.5
+47,1993-09-29,Barcelona,Dynamo Kyiv,es,ua,4.0,1.0,0.0
+48,1993-09-29,AEK Athens,Monaco,gr,fr,1.0,1.0,0.5
+49,1993-09-29,Spartak Moscow,Skonto FC,ru,lv,4.0,0.0,0.0
+50,1993-09-29,Austria Wien,Rosenborg,at,no,4.0,1.0,0.0
+51,1993-09-29,FC Copenhagen,Linfield FC,dk,nir,4.0,0.0,0.0
+52,1993-10-20,Manchester Utd,Galatasaray,eng,tr,3.0,3.0,0.5
+53,1993-10-20,Levski Sofia,Werder Bremen,bg,de,2.0,2.0,0.5
+54,1993-10-20,Lech Poznań,Spartak Moscow,pl,ru,1.0,5.0,1.0
+55,1993-10-20,Porto,Feyenoord,pt,nl,1.0,0.0,0.0
+56,1993-10-20,Sparta Prague,Anderlecht,cz,be,0.0,1.0,1.0
+57,1993-10-20,Barcelona,Austria Wien,es,at,3.0,0.0,0.0
+58,1993-10-20,FC Copenhagen,Milan,dk,it,0.0,6.0,1.0
+59,1993-10-20,Monaco,Steaua,fr,ro,4.0,1.0,0.0
+60,1993-11-03,Austria Wien,Barcelona,at,es,1.0,2.0,1.0
+61,1993-11-03,Spartak Moscow,Lech Poznań,ru,pl,2.0,1.0,0.0
+62,1993-11-03,Galatasaray,Manchester Utd,tr,eng,0.0,0.0,0.5
+63,1993-11-03,Anderlecht,Sparta Prague,be,cz,4.0,2.0,0.0
+64,1993-11-03,Steaua,Monaco,ro,fr,1.0,0.0,0.0
+65,1993-11-03,Werder Bremen,Levski Sofia,de,bg,1.0,0.0,0.0
+66,1993-11-03,Feyenoord,Porto,nl,pt,0.0,0.0,0.5
+67,1993-11-03,Milan,FC Copenhagen,it,dk,1.0,0.0,0.0
+68,1993-11-24,Porto,Werder Bremen,pt,de,3.0,2.0,0.0
+69,1993-11-24,Monaco,Spartak Moscow,fr,ru,4.0,1.0,0.0
+70,1993-11-24,Anderlecht,Milan,be,it,0.0,0.0,0.5
+71,1993-11-24,Galatasaray,Barcelona,tr,es,0.0,0.0,0.5
+73,1993-12-01,Milan,Porto,it,pt,3.0,0.0,0.0
+74,1993-12-08,Werder Bremen,Anderlecht,de,be,5.0,3.0,0.0
+75,1993-12-08,Barcelona,Monaco,es,fr,2.0,0.0,0.0
+76,1993-12-08,Spartak Moscow,Galatasaray,ru,tr,0.0,0.0,0.5
+78,1994-03-02,Milan,Werder Bremen,it,de,2.0,1.0,0.0
+79,1994-03-02,Spartak Moscow,Barcelona,ru,es,2.0,2.0,0.5
+80,1994-03-02,Monaco,Galatasaray,fr,tr,3.0,0.0,0.0
+81,1994-03-02,Anderlecht,Porto,be,pt,1.0,0.0,0.0
+83,1994-03-16,Porto,Anderlecht,pt,be,2.0,0.0,0.0
+84,1994-03-16,Barcelona,Spartak Moscow,es,ru,5.0,1.0,0.0
+85,1994-03-16,Galatasaray,Monaco,tr,fr,0.0,2.0,1.0
+86,1994-03-16,Werder Bremen,Milan,de,it,1.0,1.0,0.5
+88,1994-03-30,Barcelona,Galatasaray,es,tr,3.0,0.0,0.0
+89,1994-03-30,Milan,Anderlecht,it,be,0.0,0.0,0.5
+90,1994-03-30,Werder Bremen,Porto,de,pt,0.0,5.0,1.0
+91,1994-03-30,Spartak Moscow,Monaco,ru,fr,0.0,0.0,0.5
+93,1994-04-13,Monaco,Barcelona,fr,es,0.0,1.0,1.0
+94,1994-04-13,Galatasaray,Spartak Moscow,tr,ru,1.0,2.0,1.0
+95,1994-04-13,Porto,Milan,pt,it,0.0,0.0,0.5
+96,1994-04-13,Anderlecht,Werder Bremen,be,de,1.0,2.0,1.0
+98,1994-04-27,Barcelona,Porto,es,pt,3.0,0.0,0.0
+99,1994-04-27,Milan,Monaco,it,fr,3.0,0.0,0.0
+100,1994-05-18,Milan,Barcelona,it,es,4.0,0.0,0.0

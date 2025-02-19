@@ -1,0 +1,206 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2002-09-17,Vitesse,Rapid București,nl,ro,1,1,0.5
+1,2002-09-17,Austria Wien,Shakhtar Donetsk,at,ua,5,1,0.0
+2,2002-09-17,Bordeaux,FK Púchov,fr,sk,5,0,0.0
+3,2002-09-17,Viktoria Žižkov,Rangers,cz,sct,2,0,0.0
+4,2002-09-17,Aberdeen,Hertha BSC,sct,de,0,0,0.5
+5,2002-09-17,Leixões,PAOK,pt,gr,2,1,0.0
+6,2002-09-19,Željezničar,Málaga,ba,es,0,0,0.5
+7,2002-09-19,Maccabi Tel Aviv FC,Boavista,il,pt,1,0,0.0
+8,2002-09-19,Ipswich Town,Smederevo,eng,rs,1,1,0.5
+9,2002-09-19,Anderlecht,Stabæk,be,no,0,1,1.0
+10,2002-09-19,Metalurh Donetsk,Werder Bremen,ua,de,2,2,0.5
+11,2002-09-19,Levski Sofia,Brøndby,bg,dk,4,1,0.0
+12,2002-09-19,NK Primorje,Wisła Kraków,si,pl,0,2,1.0
+13,2002-09-19,Blackburn,CSKA Sofia,eng,bg,1,1,0.5
+14,2002-09-19,CSKA Moscow,Parma,ru,it,1,1,0.5
+15,2002-09-19,Sturm Graz,Livingston,at,sct,5,2,0.0
+16,2002-09-19,Celtic,FK Sūduva Marijampolė,sct,lt,8,1,0.0
+17,2002-09-19,FC Kärnten,Hapoel Tel Aviv,at,il,0,4,1.0
+18,2002-09-19,Grasshopper,Zenit,ch,ru,3,1,0.0
+19,2002-09-19,Chelsea,Viking,eng,no,2,1,0.0
+20,2002-09-19,Beşiktaş,Sarajevo,tr,ba,2,2,0.5
+21,2002-09-19,Slovan Liberec,Dinamo Tbilisi,cz,ge,3,2,0.0
+22,2002-09-19,FC Gomel,Schalke 04,by,de,1,4,1.0
+23,2002-09-19,Legia Warsaw,Utrecht,pl,nl,4,1,0.0
+24,2002-09-19,Iraklis,Anorthosis,gr,cy,4,2,0.0
+25,2002-09-19,Paris S-G,Újpest,fr,hu,3,0,0.0
+26,2002-09-19,Lazio,Skoda Xanthi,it,gr,4,0,0.0
+27,2002-09-19,Ankaragücü,Alavés,tr,es,1,2,1.0
+28,2002-09-19,APOEL FC,Grazer AK,cy,at,2,0,0.0
+29,2002-09-19,Ferencváros,Kocaelispor,hu,tr,4,0,0.0
+30,2002-09-19,Sparta Prague,Široki Brijeg,cz,ba,3,0,0.0
+31,2002-09-19,Servette,Amica Wronki,ch,pl,2,3,1.0
+32,2002-09-19,Mouscron,Slavia Prague,be,cz,2,2,0.5
+33,2002-09-19,Zimbru Chișinău,Betis,md,es,0,2,1.0
+34,2002-09-19,Celta Vigo,Odense,es,dk,2,0,0.0
+35,2002-09-19,Leeds United,Metalurh Zaporizhya,eng,ua,1,0,0.0
+36,2002-09-19,Midtjylland,Varaždin,dk,hr,1,0,0.0
+37,2002-09-19,Sporting CP,Partizan,pt,rs,1,3,1.0
+38,2002-09-19,Red Star,Chievo,rs,it,0,0,0.5
+39,2002-09-19,Porto,Polonia Warsaw,pt,pl,6,0,0.0
+40,2002-09-19,Stuttgart,FK Ventspils,de,lv,4,1,0.0
+41,2002-09-19,Progresul București,Heerenveen,ro,nl,3,0,0.0
+42,2002-09-19,Hajduk Split,Fulham,hr,eng,0,1,1.0
+43,2002-09-19,Litex Lovech,Panathinaikos,bg,gr,0,1,1.0
+44,2002-09-19,Dinamo Zagreb,Zalaegerszeg,hr,hu,6,0,0.0
+45,2002-09-19,AIK Stockholm,Fenerbahçe,se,tr,3,3,0.5
+46,2002-09-19,FC Copenhagen,Djurgården,dk,se,0,0,0.5
+47,2002-09-19,Denizlispor,Lorient,tr,fr,2,0,0.0
+48,2002-10-01,Hertha BSC,Aberdeen,de,sct,1,0,0.0
+49,2002-10-01,Shakhtar Donetsk,Austria Wien,ua,at,1,0,0.0
+50,2002-10-01,Amica Wronki,Servette,pl,ch,1,2,1.0
+51,2002-10-03,Hapoel Tel Aviv,FC Kärnten,il,at,0,1,1.0
+52,2002-10-03,Kocaelispor,Ferencváros,tr,hu,0,1,1.0
+53,2002-10-03,Wisła Kraków,NK Primorje,pl,si,6,1,0.0
+54,2002-10-03,Djurgården,FC Copenhagen,se,dk,3,1,0.0
+55,2002-10-03,Fenerbahçe,AIK Stockholm,tr,se,3,1,0.0
+56,2002-10-03,Zalaegerszeg,Dinamo Zagreb,hu,hr,1,3,1.0
+57,2002-10-03,Rapid București,Vitesse,ro,nl,0,1,1.0
+58,2002-10-03,Újpest,Paris S-G,hu,fr,0,1,1.0
+59,2002-10-03,Schalke 04,FC Gomel,de,by,4,0,0.0
+60,2002-10-03,Sarajevo,Beşiktaş,ba,tr,0,5,1.0
+61,2002-10-03,Boavista,Maccabi Tel Aviv FC,pt,il,4,1,0.0
+62,2002-10-03,Málaga,Željezničar,es,ba,1,0,0.0
+63,2002-10-03,Parma,CSKA Moscow,it,ru,3,2,0.0
+64,2002-10-03,Dinamo Tbilisi,Slovan Liberec,ge,cz,0,1,1.0
+65,2002-10-03,Široki Brijeg,Sparta Prague,ba,cz,0,1,1.0
+66,2002-10-03,Zenit,Grasshopper,ru,ch,2,1,0.0
+67,2002-10-03,FK Sūduva Marijampolė,Celtic,lt,sct,0,2,1.0
+68,2002-10-03,Anorthosis,Iraklis,cy,gr,3,1,0.0
+69,2002-10-03,Betis,Zimbru Chișinău,es,md,2,1,0.0
+70,2002-10-03,Grazer AK,APOEL FC,at,cy,0,1,1.0
+71,2002-10-03,Heerenveen,Progresul București,nl,ro,2,0,0.0
+72,2002-10-03,Lorient,Denizlispor,fr,tr,3,1,0.0
+73,2002-10-03,Skoda Xanthi,Lazio,gr,it,0,0,0.5
+74,2002-10-03,Chievo,Red Star,it,rs,0,2,1.0
+75,2002-10-03,Stabæk,Anderlecht,no,be,1,2,1.0
+76,2002-10-03,Brøndby,Levski Sofia,dk,bg,1,1,0.5
+77,2002-10-03,Rangers,Viktoria Žižkov,sct,cz,3,1,0.0
+78,2002-10-03,Viking,Chelsea,no,eng,4,2,0.0
+79,2002-10-03,Metalurh Zaporizhya,Leeds United,ua,eng,1,1,0.5
+80,2002-10-03,Partizan,Sporting CP,rs,pt,3,3,0.5
+81,2002-10-03,FK Ventspils,Stuttgart,lv,de,1,4,1.0
+82,2002-10-03,Fulham,Hajduk Split,eng,hr,2,2,0.5
+83,2002-10-03,Livingston,Sturm Graz,sct,at,4,3,0.0
+84,2002-10-03,Polonia Warsaw,Porto,pl,pt,1,0,0.0
+85,2002-10-03,FK Púchov,Bordeaux,sk,fr,1,3,1.0
+86,2002-10-03,CSKA Sofia,Blackburn,bg,eng,3,3,0.5
+87,2002-10-03,Smederevo,Ipswich Town,rs,eng,0,1,1.0
+88,2002-10-03,Alavés,Ankaragücü,es,tr,3,0,0.0
+89,2002-10-03,Varaždin,Midtjylland,hr,dk,1,1,0.5
+90,2002-10-03,Utrecht,Legia Warsaw,nl,pl,1,3,1.0
+91,2002-10-03,Slavia Prague,Mouscron,cz,be,4,1,0.0
+92,2002-10-03,PAOK,Leixões,gr,pt,4,1,0.0
+93,2002-10-03,Panathinaikos,Litex Lovech,gr,bg,2,1,0.0
+94,2002-10-03,Werder Bremen,Metalurh Donetsk,de,ua,8,0,0.0
+95,2002-10-03,Odense,Celta Vigo,dk,es,1,0,0.0
+96,2002-10-29,Djurgården,Bordeaux,se,fr,0,1,1.0
+97,2002-10-29,Viktoria Žižkov,Betis,cz,es,0,1,1.0
+98,2002-10-29,Legia Warsaw,Schalke 04,pl,de,2,3,1.0
+99,2002-10-31,Boavista,Anorthosis,pt,cy,2,1,0.0
+100,2002-10-31,Lazio,Red Star,it,rs,1,0,0.0
+101,2002-10-31,Ferencváros,Stuttgart,hu,de,0,0,0.5
+102,2002-10-31,APOEL FC,Hertha BSC,cy,de,0,1,1.0
+103,2002-10-31,Alavés,Beşiktaş,es,tr,1,1,0.5
+104,2002-10-31,Fenerbahçe,Panathinaikos,tr,gr,1,1,0.5
+105,2002-10-31,Austria Wien,Porto,at,pt,0,1,1.0
+106,2002-10-31,Dinamo Zagreb,Fulham,hr,eng,0,3,1.0
+107,2002-10-31,Parma,Wisła Kraków,it,pl,2,1,0.0
+108,2002-10-31,Málaga,Amica Wronki,es,pl,2,1,0.0
+109,2002-10-31,Vitesse,Werder Bremen,nl,de,2,1,0.0
+110,2002-10-31,Leeds United,Hapoel Tel Aviv,eng,il,1,0,0.0
+111,2002-10-31,Celtic,Blackburn,sct,eng,1,0,0.0
+112,2002-10-31,Progresul București,Paris S-G,ro,fr,0,2,1.0
+113,2002-10-31,Sturm Graz,Levski Sofia,at,bg,1,0,0.0
+114,2002-10-31,Partizan,Slavia Prague,rs,cz,3,1,0.0
+115,2002-10-31,Celta Vigo,Viking,es,no,3,0,0.0
+116,2002-10-31,Sparta Prague,Denizlispor,cz,tr,1,0,0.0
+117,2002-10-31,Ipswich Town,Slovan Liberec,eng,cz,1,0,0.0
+118,2002-10-31,PAOK,Grasshopper,gr,ch,2,1,0.0
+119,2002-10-31,Anderlecht,Midtjylland,be,dk,3,1,0.0
+120,2002-11-07,Hertha BSC,APOEL FC,de,cy,4,0,0.0
+121,2002-11-12,Bordeaux,Djurgården,fr,se,2,1,0.0
+122,2002-11-12,Amica Wronki,Málaga,pl,es,1,2,1.0
+123,2002-11-12,Stuttgart,Ferencváros,de,hu,2,0,0.0
+124,2002-11-14,Anorthosis,Boavista,cy,pt,0,1,1.0
+125,2002-11-14,Slovan Liberec,Ipswich Town,cz,eng,1,0,0.0
+126,2002-11-14,Denizlispor,Sparta Prague,tr,cz,2,0,0.0
+127,2002-11-14,Blackburn,Celtic,eng,sct,0,2,1.0
+128,2002-11-14,Viking,Celta Vigo,no,es,1,1,0.5
+129,2002-11-14,Beşiktaş,Alavés,tr,es,1,0,0.0
+130,2002-11-14,Betis,Viktoria Žižkov,es,cz,3,0,0.0
+131,2002-11-14,Levski Sofia,Sturm Graz,bg,at,1,0,0.0
+132,2002-11-14,Wisła Kraków,Parma,pl,it,4,1,0.0
+133,2002-11-14,Fulham,Dinamo Zagreb,eng,hr,2,1,0.0
+134,2002-11-14,Red Star,Lazio,rs,it,1,1,0.5
+135,2002-11-14,Porto,Austria Wien,pt,at,2,0,0.0
+136,2002-11-14,Slavia Prague,Partizan,cz,rs,4,1,0.0
+137,2002-11-14,Panathinaikos,Fenerbahçe,gr,tr,4,1,0.0
+138,2002-11-14,Werder Bremen,Vitesse,de,nl,3,3,0.5
+139,2002-11-14,Midtjylland,Anderlecht,dk,be,0,3,1.0
+140,2002-11-14,Schalke 04,Legia Warsaw,de,pl,0,0,0.5
+141,2002-11-14,Paris S-G,Progresul București,fr,ro,1,0,0.0
+142,2002-11-14,Hapoel Tel Aviv,Leeds United,il,eng,1,4,1.0
+143,2002-11-14,Grasshopper,PAOK,ch,gr,1,1,0.5
+144,2002-11-26,Hertha BSC,Fulham,de,eng,2,1,0.0
+145,2002-11-26,Paris S-G,Boavista,fr,pt,2,1,0.0
+146,2002-11-28,Sturm Graz,Lazio,at,it,1,3,1.0
+147,2002-11-28,Wisła Kraków,Schalke 04,pl,de,1,1,0.5
+148,2002-11-28,PAOK,Slavia Prague,gr,cz,1,0,0.0
+149,2002-11-28,AEK Athens,Maccabi Haifa,gr,il,4,0,0.0
+150,2002-11-28,Bordeaux,Anderlecht,fr,be,0,2,1.0
+151,2002-11-28,Celtic,Celta Vigo,sct,es,1,0,0.0
+152,2002-11-28,Vitesse,Liverpool,nl,eng,0,1,1.0
+153,2002-11-28,Club Brugge,Stuttgart,be,de,1,2,1.0
+154,2002-11-28,Porto,Lens,pt,fr,3,0,0.0
+155,2002-11-28,Betis,Auxerre,es,fr,1,0,0.0
+156,2002-11-28,Málaga,Leeds United,es,eng,0,0,0.5
+157,2002-11-28,Denizlispor,Lyon,tr,fr,0,0,0.5
+158,2002-11-28,Beşiktaş,Dynamo Kyiv,tr,ua,3,1,0.0
+159,2002-11-28,Slovan Liberec,Panathinaikos,cz,gr,2,2,0.5
+160,2002-12-10,Schalke 04,Wisła Kraków,de,pl,1,4,1.0
+161,2002-12-12,Slavia Prague,PAOK,cz,gr,4,0,0.0
+162,2002-12-12,Lazio,Sturm Graz,it,at,0,1,1.0
+163,2002-12-12,Anderlecht,Bordeaux,be,fr,2,2,0.5
+164,2002-12-12,Stuttgart,Club Brugge,de,be,1,0,0.0
+165,2002-12-12,Lens,Porto,fr,pt,1,0,0.0
+166,2002-12-12,Dynamo Kyiv,Beşiktaş,ua,tr,0,0,0.5
+167,2002-12-12,Fulham,Hertha BSC,eng,de,0,0,0.5
+168,2002-12-12,Lyon,Denizlispor,fr,tr,0,1,1.0
+169,2002-12-12,Liverpool,Vitesse,eng,nl,1,0,0.0
+170,2002-12-12,Maccabi Haifa,AEK Athens,il,gr,1,4,1.0
+171,2002-12-12,Leeds United,Málaga,eng,es,1,2,1.0
+172,2002-12-12,Auxerre,Betis,fr,es,2,0,0.0
+173,2002-12-12,Celta Vigo,Celtic,es,sct,2,1,0.0
+174,2002-12-12,Boavista,Paris S-G,pt,fr,1,0,0.0
+175,2002-12-12,Panathinaikos,Slovan Liberec,gr,cz,1,0,0.0
+176,2003-02-20,Auxerre,Liverpool,fr,eng,0,1,1.0
+177,2003-02-20,Panathinaikos,Anderlecht,gr,be,3,0,0.0
+178,2003-02-20,Celtic,Stuttgart,sct,de,3,1,0.0
+179,2003-02-20,Málaga,AEK Athens,es,gr,0,0,0.5
+180,2003-02-20,Porto,Denizlispor,pt,tr,6,1,0.0
+181,2003-02-20,Lazio,Wisła Kraków,it,pl,3,3,0.5
+182,2003-02-20,Slavia Prague,Beşiktaş,cz,tr,1,0,0.0
+183,2003-02-20,Hertha BSC,Boavista,de,pt,3,2,0.0
+184,2003-02-27,Liverpool,Auxerre,eng,fr,2,0,0.0
+185,2003-02-27,Stuttgart,Celtic,de,sct,3,2,0.0
+186,2003-02-27,Boavista,Hertha BSC,pt,de,1,0,0.0
+187,2003-02-27,Anderlecht,Panathinaikos,be,gr,2,0,0.0
+188,2003-02-27,Denizlispor,Porto,tr,pt,2,2,0.5
+189,2003-02-27,AEK Athens,Málaga,gr,es,0,1,1.0
+190,2003-02-27,Beşiktaş,Slavia Prague,tr,cz,4,2,0.0
+191,2003-03-05,Wisła Kraków,Lazio,pl,it,1,2,1.0
+192,2003-03-13,Porto,Panathinaikos,pt,gr,0,1,1.0
+193,2003-03-13,Celtic,Liverpool,sct,eng,1,1,0.5
+194,2003-03-13,Lazio,Beşiktaş,it,tr,1,0,0.0
+195,2003-03-13,Málaga,Boavista,es,pt,1,0,0.0
+196,2003-03-20,Boavista,Málaga,pt,es,1,0,0.0
+197,2003-03-20,Liverpool,Celtic,eng,sct,0,2,1.0
+198,2003-03-20,Beşiktaş,Lazio,tr,it,1,2,1.0
+199,2003-03-20,Panathinaikos,Porto,gr,pt,0,2,1.0
+200,2003-04-10,Celtic,Boavista,sct,pt,1,1,0.5
+201,2003-04-10,Porto,Lazio,pt,it,4,1,0.0
+202,2003-04-24,Lazio,Porto,it,pt,0,0,0.5
+203,2003-04-24,Boavista,Celtic,pt,sct,0,1,1.0
+204,2003-05-21,Celtic,Porto,sct,pt,2,3,1.0

@@ -1,0 +1,127 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1991-09-17,Hamburger SV,Górnik Zabrze,de,pl,1,1,0.5
+1,1991-09-17,Slavia Sofia,Osasuna,bg,es,1,0,0.0
+2,1991-09-17,Dinamo Zagreb,Trabzonspor,hr,tr,2,3,1.0
+3,1991-09-17,Ikast FS,Auxerre,dk,fr,0,1,1.0
+4,1991-09-17,Gent,Lausanne-Sport,be,ch,0,1,1.0
+5,1991-09-17,Anorthosis,Steaua,cy,ro,1,2,1.0
+6,1991-09-17,Xamax,Floriana FC,ch,mt,2,0,0.0
+7,1991-09-18,KF Vllaznia Shkodër,AEK Athens,al,gr,0,1,1.0
+8,1991-09-18,Sturm Graz,Utrecht,at,nl,0,1,1.0
+9,1991-09-18,Hallescher,Torpedo Moscow,de,ru,2,1,0.0
+10,1991-09-18,Celtic,Germinal Ekeren,sct,be,2,0,0.0
+11,1991-09-18,Stuttgart,Pecs,de,hu,4,1,0.0
+12,1991-09-18,PAOK,Mechelen,gr,be,1,1,0.5
+13,1991-09-18,Ajax,Örebro,nl,se,3,0,0.0
+14,1991-09-18,Eint Frankfurt,CA Spora Luxembourg,de,lu,6,1,0.0
+15,1991-09-18,Sporting CP,Dinamo București,pt,ro,1,0,0.0
+16,1991-09-18,Boavista,Inter,pt,it,2,1,0.0
+17,1991-09-18,Sporting Gijón,Partizan,es,rs,2,0,0.0
+18,1991-09-18,ŠK Slovan Bratislava,Real Madrid,sk,es,1,2,1.0
+19,1991-09-18,Groningen,Rot-Weiß Erfurt,nl,de,0,1,1.0
+20,1991-09-18,Vác,Dynamo Moscow,hu,ru,1,0,0.0
+21,1991-09-18,Liverpool,Lahti,eng,fi,6,1,0.0
+22,1991-09-18,Mikkelin Palloilijat,Spartak Moscow,fi,ru,0,2,1.0
+23,1991-09-18,Aberdeen,FC Copenhagen,sct,dk,0,1,1.0
+24,1991-09-18,Bangor FC,Sigma Olomouc,nir,cz,0,3,1.0
+25,1991-09-18,FC Tirol Innsbruck,Tromsø,at,no,2,1,0.0
+26,1991-09-18,Lyon,Öster,fr,se,1,0,0.0
+27,1991-09-18,Cork City FC,Bayern Munich,ie,de,1,1,0.5
+28,1991-09-19,KR,Torino,is,it,0,2,1.0
+29,1991-09-19,Oviedo,Genoa,es,it,1,0,0.0
+30,1991-09-19,CSKA Sofia,Parma,bg,it,0,0,0.5
+31,1991-09-19,SC Salgueiros,Cannes,pt,fr,1,0,0.0
+32,1991-10-01,Steaua,Anorthosis,ro,cy,2,2,0.5
+33,1991-10-01,Real Madrid,ŠK Slovan Bratislava,es,sk,1,1,0.5
+34,1991-10-01,Germinal Ekeren,Celtic,be,sct,1,1,0.5
+35,1991-10-01,CA Spora Luxembourg,Eint Frankfurt,lu,de,0,5,1.0
+36,1991-10-01,Floriana FC,Xamax,mt,ch,0,0,0.5
+37,1991-10-01,Bayern Munich,Cork City FC,de,ie,2,0,0.0
+38,1991-10-01,Torpedo Moscow,Hallescher,ru,de,3,0,0.0
+39,1991-10-02,Dinamo București,Sporting CP,ro,pt,2,0,0.0
+40,1991-10-02,Osasuna,Slavia Sofia,es,bg,4,0,0.0
+41,1991-10-02,Lahti,Liverpool,fi,eng,1,0,0.0
+42,1991-10-02,FC Copenhagen,Aberdeen,dk,sct,2,0,0.0
+43,1991-10-02,Inter,Boavista,it,pt,0,0,0.5
+44,1991-10-02,Mechelen,PAOK,be,gr,0,1,1.0
+45,1991-10-02,Tromsø,FC Tirol Innsbruck,no,at,1,1,0.5
+46,1991-10-02,Dynamo Moscow,Vác,ru,hu,4,1,0.0
+47,1991-10-02,Górnik Zabrze,Hamburger SV,pl,de,0,3,1.0
+48,1991-10-02,Trabzonspor,Dinamo Zagreb,tr,hr,1,1,0.5
+49,1991-10-02,Parma,CSKA Sofia,it,bg,1,1,0.5
+50,1991-10-02,Sigma Olomouc,Bangor FC,cz,nir,3,0,0.0
+51,1991-10-02,Auxerre,Ikast FS,fr,dk,5,1,0.0
+52,1991-10-02,Torino,KR,it,is,6,1,0.0
+53,1991-10-02,Örebro,Ajax,se,nl,0,1,1.0
+54,1991-10-02,Utrecht,Sturm Graz,nl,at,3,1,0.0
+55,1991-10-02,Pecs,Stuttgart,hu,de,2,2,0.5
+56,1991-10-02,Rot-Weiß Erfurt,Groningen,de,nl,1,0,0.0
+57,1991-10-02,Lausanne-Sport,Gent,ch,be,0,1,1.0
+58,1991-10-03,Öster,Lyon,se,fr,1,1,0.5
+59,1991-10-03,Cannes,SC Salgueiros,fr,pt,1,0,0.0
+60,1991-10-03,Spartak Moscow,Mikkelin Palloilijat,ru,fi,3,1,0.0
+61,1991-10-03,Genoa,Oviedo,it,es,3,1,0.0
+62,1991-10-03,Partizan,Sporting Gijón,rs,es,2,0,0.0
+63,1991-10-03,AEK Athens,KF Vllaznia Shkodër,gr,al,2,0,0.0
+64,1991-10-22,Hamburger SV,CSKA Sofia,de,bg,2,0,0.0
+65,1991-10-22,FC Copenhagen,Bayern Munich,dk,de,6,2,0.0
+66,1991-10-22,Osasuna,Stuttgart,es,de,0,0,0.5
+67,1991-10-22,Cannes,Dynamo Moscow,fr,ru,0,1,1.0
+68,1991-10-22,Xamax,Celtic,ch,sct,5,1,0.0
+69,1991-10-22,Gent,Eint Frankfurt,be,de,0,0,0.5
+70,1991-10-23,Utrecht,Real Madrid,nl,es,1,3,1.0
+71,1991-10-23,Genoa,Dinamo București,it,ro,3,1,0.0
+72,1991-10-23,Auxerre,Liverpool,fr,eng,2,0,0.0
+73,1991-10-23,Lyon,Trabzonspor,fr,tr,3,4,1.0
+74,1991-10-23,Sigma Olomouc,Torpedo Moscow,cz,ru,2,0,0.0
+75,1991-10-23,Spartak Moscow,AEK Athens,ru,gr,0,0,0.5
+76,1991-10-23,PAOK,FC Tirol Innsbruck,gr,at,0,2,1.0
+77,1991-10-23,Rot-Weiß Erfurt,Ajax,de,nl,1,2,1.0
+78,1991-10-24,Sporting Gijón,Steaua,es,ro,2,2,0.5
+79,1991-10-24,Torino,Boavista,it,pt,2,0,0.0
+80,1991-11-05,Bayern Munich,FC Copenhagen,de,dk,1,0,0.0
+81,1991-11-05,Stuttgart,Osasuna,de,es,2,3,1.0
+82,1991-11-06,CSKA Sofia,Hamburger SV,bg,de,1,4,1.0
+83,1991-11-06,Eint Frankfurt,Gent,de,be,0,1,1.0
+84,1991-11-06,Trabzonspor,Lyon,tr,fr,4,1,0.0
+85,1991-11-06,Boavista,Torino,pt,it,0,0,0.5
+86,1991-11-06,Ajax,Rot-Weiß Erfurt,nl,de,3,0,0.0
+87,1991-11-06,FC Tirol Innsbruck,PAOK,at,gr,2,0,0.0
+88,1991-11-06,Dinamo București,Genoa,ro,it,2,2,0.5
+89,1991-11-06,AEK Athens,Spartak Moscow,gr,ru,2,1,0.0
+90,1991-11-06,Dynamo Moscow,Cannes,ru,fr,1,1,0.5
+91,1991-11-06,Celtic,Xamax,sct,ch,1,0,0.0
+92,1991-11-06,Liverpool,Auxerre,eng,fr,3,0,0.0
+93,1991-11-06,Real Madrid,Utrecht,es,nl,1,0,0.0
+94,1991-11-07,Torpedo Moscow,Sigma Olomouc,ru,cz,0,0,0.5
+95,1991-11-07,Steaua,Sporting Gijón,ro,es,1,0,0.0
+96,1991-11-27,FC Copenhagen,Trabzonspor,dk,tr,1,0,0.0
+97,1991-11-27,FC Tirol Innsbruck,Liverpool,at,eng,0,2,1.0
+98,1991-11-27,Steaua,Genoa,ro,it,0,1,1.0
+99,1991-11-27,Xamax,Real Madrid,ch,es,1,0,0.0
+100,1991-11-27,Hamburger SV,Sigma Olomouc,de,cz,1,2,1.0
+101,1991-11-27,Gent,Dynamo Moscow,be,ru,2,0,0.0
+102,1991-11-27,AEK Athens,Torino,gr,it,2,2,0.5
+103,1991-11-27,Osasuna,Ajax,es,nl,0,1,1.0
+104,1991-12-10,Sigma Olomouc,Hamburger SV,cz,de,4,1,0.0
+105,1991-12-11,Dynamo Moscow,Gent,ru,be,0,0,0.5
+106,1991-12-11,Torino,AEK Athens,it,gr,1,0,0.0
+107,1991-12-11,Liverpool,FC Tirol Innsbruck,eng,at,4,0,0.0
+108,1991-12-11,Trabzonspor,FC Copenhagen,tr,dk,1,1,0.5
+109,1991-12-11,Genoa,Steaua,it,ro,1,0,0.0
+110,1991-12-11,Ajax,Osasuna,nl,es,1,0,0.0
+111,1991-12-12,Real Madrid,Xamax,es,ch,4,0,0.0
+112,1992-03-04,FC Copenhagen,Torino,dk,it,0,2,1.0
+113,1992-03-04,Sigma Olomouc,Real Madrid,cz,es,1,1,0.5
+114,1992-03-04,Gent,Ajax,be,nl,0,0,0.5
+115,1992-03-04,Genoa,Liverpool,it,eng,2,0,0.0
+116,1992-03-18,Ajax,Gent,nl,be,3,0,0.0
+117,1992-03-18,Liverpool,Genoa,eng,it,1,2,1.0
+118,1992-03-18,Real Madrid,Sigma Olomouc,es,cz,1,0,0.0
+119,1992-03-19,Torino,FC Copenhagen,it,dk,1,0,0.0
+120,1992-04-01,Real Madrid,Torino,es,it,2,1,0.0
+121,1992-04-01,Genoa,Ajax,it,nl,2,3,1.0
+122,1992-04-15,Torino,Real Madrid,it,es,2,0,0.0
+123,1992-04-15,Ajax,Genoa,nl,it,1,1,0.5
+124,1992-04-29,Torino,Ajax,it,nl,2,2,0.5
+125,1992-05-13,Ajax,Torino,nl,it,0,0,0.5

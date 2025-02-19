@@ -1,0 +1,158 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1999-09-14,Manchester Utd,Croatia Zagreb,eng,hr,0.0,0.0,0.5
+1,1999-09-14,Fiorentina,Arsenal,it,eng,0.0,0.0,0.5
+2,1999-09-14,Leverkusen,Lazio,de,it,1.0,1.0,0.5
+3,1999-09-14,Dynamo Kyiv,NK Maribor,ua,si,0.0,1.0,1.0
+4,1999-09-14,AIK Stockholm,Barcelona,se,es,1.0,2.0,1.0
+5,1999-09-14,Marseille,Sturm Graz,fr,at,2.0,0.0,0.0
+6,1999-09-14,Boavista,Rosenborg,pt,no,0.0,3.0,1.0
+7,1999-09-14,Feyenoord,Dortmund,nl,de,1.0,1.0,0.5
+8,1999-09-15,Willem II,Spartak Moscow,nl,ru,1.0,3.0,1.0
+9,1999-09-15,Molde,Porto,no,pt,0.0,1.0,1.0
+10,1999-09-15,Olympiacos,Real Madrid,gr,es,3.0,3.0,0.5
+11,1999-09-15,Chelsea,Milan,eng,it,0.0,0.0,0.5
+12,1999-09-15,Sparta Prague,Bordeaux,cz,fr,0.0,0.0,0.5
+13,1999-09-15,Valencia,Rangers,es,sct,2.0,0.0,0.0
+14,1999-09-15,Bayern Munich,PSV,de,nl,2.0,1.0,0.0
+15,1999-09-15,Galatasaray,Hertha BSC,tr,de,2.0,2.0,0.5
+17,1999-09-21,Porto,Olympiacos,pt,gr,2.0,0.0,0.0
+18,1999-09-21,Spartak Moscow,Sparta Prague,ru,cz,1.0,1.0,0.5
+19,1999-09-21,Bordeaux,Willem II,fr,nl,3.0,2.0,0.0
+20,1999-09-21,PSV,Valencia,nl,es,1.0,1.0,0.5
+21,1999-09-21,Milan,Galatasaray,it,tr,2.0,1.0,0.0
+22,1999-09-21,Rangers,Bayern Munich,sct,de,1.0,1.0,0.5
+23,1999-09-21,Hertha BSC,Chelsea,de,eng,2.0,1.0,0.0
+24,1999-09-21,Real Madrid,Molde,es,no,4.0,1.0,0.0
+25,1999-09-22,Dortmund,Boavista,de,pt,3.0,1.0,0.0
+26,1999-09-22,Lazio,Dynamo Kyiv,it,ua,2.0,1.0,0.0
+27,1999-09-22,Croatia Zagreb,Marseille,hr,fr,1.0,2.0,1.0
+28,1999-09-22,Sturm Graz,Manchester Utd,at,eng,0.0,3.0,1.0
+29,1999-09-22,Arsenal,AIK Stockholm,eng,se,3.0,1.0,0.0
+30,1999-09-22,Barcelona,Fiorentina,es,it,4.0,2.0,0.0
+31,1999-09-22,Rosenborg,Feyenoord,no,nl,2.0,2.0,0.5
+32,1999-09-22,NK Maribor,Leverkusen,si,de,0.0,2.0,1.0
+34,1999-09-28,Milan,Hertha BSC,it,de,1.0,1.0,0.5
+35,1999-09-28,Chelsea,Galatasaray,eng,tr,1.0,0.0,0.0
+36,1999-09-28,Bayern Munich,Valencia,de,es,1.0,1.0,0.5
+37,1999-09-28,Olympiacos,Molde,gr,no,3.0,1.0,0.0
+38,1999-09-28,PSV,Rangers,nl,sct,0.0,1.0,1.0
+39,1999-09-28,Bordeaux,Spartak Moscow,fr,ru,2.0,1.0,0.0
+40,1999-09-28,Real Madrid,Porto,es,pt,3.0,1.0,0.0
+41,1999-09-28,Sparta Prague,Willem II,cz,nl,4.0,0.0,0.0
+42,1999-09-29,Croatia Zagreb,Sturm Graz,hr,at,3.0,0.0,0.0
+43,1999-09-29,Manchester Utd,Marseille,eng,fr,2.0,1.0,0.0
+44,1999-09-29,AIK Stockholm,Fiorentina,se,it,0.0,0.0,0.5
+45,1999-09-29,Rosenborg,Dortmund,no,de,2.0,2.0,0.5
+46,1999-09-29,Lazio,NK Maribor,it,si,4.0,0.0,0.0
+47,1999-09-29,Leverkusen,Dynamo Kyiv,de,ua,1.0,1.0,0.5
+48,1999-09-29,Boavista,Feyenoord,pt,nl,1.0,1.0,0.5
+49,1999-09-29,Barcelona,Arsenal,es,eng,1.0,1.0,0.5
+51,1999-10-19,Marseille,Manchester Utd,fr,eng,1.0,0.0,0.0
+52,1999-10-19,NK Maribor,Lazio,si,it,0.0,4.0,1.0
+53,1999-10-19,Sturm Graz,Croatia Zagreb,at,hr,1.0,0.0,0.0
+54,1999-10-19,Dynamo Kyiv,Leverkusen,ua,de,4.0,2.0,0.0
+55,1999-10-19,Dortmund,Rosenborg,de,no,0.0,3.0,1.0
+56,1999-10-19,Feyenoord,Boavista,nl,pt,1.0,1.0,0.5
+57,1999-10-19,Arsenal,Barcelona,eng,es,2.0,4.0,1.0
+58,1999-10-19,Fiorentina,AIK Stockholm,it,se,3.0,0.0,0.0
+59,1999-10-20,Willem II,Sparta Prague,nl,cz,3.0,4.0,1.0
+60,1999-10-20,Spartak Moscow,Bordeaux,ru,fr,1.0,2.0,1.0
+61,1999-10-20,Porto,Real Madrid,pt,es,2.0,1.0,0.0
+62,1999-10-20,Valencia,Bayern Munich,es,de,1.0,1.0,0.5
+63,1999-10-20,Molde,Olympiacos,no,gr,3.0,2.0,0.0
+64,1999-10-20,Galatasaray,Chelsea,tr,eng,0.0,5.0,1.0
+65,1999-10-20,Rangers,PSV,sct,nl,4.0,1.0,0.0
+66,1999-10-20,Hertha BSC,Milan,de,it,1.0,0.0,0.0
+68,1999-10-26,Milan,Chelsea,it,eng,1.0,1.0,0.5
+69,1999-10-26,Porto,Molde,pt,no,3.0,1.0,0.0
+70,1999-10-26,PSV,Bayern Munich,nl,de,2.0,1.0,0.0
+71,1999-10-26,Bordeaux,Sparta Prague,fr,cz,0.0,0.0,0.5
+72,1999-10-26,Real Madrid,Olympiacos,es,gr,3.0,0.0,0.0
+73,1999-10-26,Hertha BSC,Galatasaray,de,tr,1.0,4.0,1.0
+74,1999-10-26,Rangers,Valencia,sct,es,1.0,2.0,1.0
+75,1999-10-26,Spartak Moscow,Willem II,ru,nl,1.0,1.0,0.5
+76,1999-10-27,Barcelona,AIK Stockholm,es,se,5.0,0.0,0.0
+77,1999-10-27,NK Maribor,Dynamo Kyiv,si,ua,1.0,2.0,1.0
+78,1999-10-27,Rosenborg,Boavista,no,pt,2.0,0.0,0.0
+79,1999-10-27,Lazio,Leverkusen,it,de,1.0,1.0,0.5
+80,1999-10-27,Croatia Zagreb,Manchester Utd,hr,eng,1.0,2.0,1.0
+81,1999-10-27,Sturm Graz,Marseille,at,fr,3.0,2.0,0.0
+82,1999-10-27,Arsenal,Fiorentina,eng,it,0.0,1.0,1.0
+83,1999-10-27,Dortmund,Feyenoord,de,nl,1.0,1.0,0.5
+85,1999-11-02,Dynamo Kyiv,Lazio,ua,it,0.0,1.0,1.0
+86,1999-11-02,Boavista,Dortmund,pt,de,1.0,0.0,0.0
+87,1999-11-02,Manchester Utd,Sturm Graz,eng,at,2.0,1.0,0.0
+88,1999-11-02,Marseille,Croatia Zagreb,fr,hr,2.0,2.0,0.5
+89,1999-11-02,Leverkusen,NK Maribor,de,si,0.0,0.0,0.5
+90,1999-11-02,Feyenoord,Rosenborg,nl,no,1.0,0.0,0.0
+91,1999-11-02,AIK Stockholm,Arsenal,se,eng,2.0,3.0,1.0
+92,1999-11-02,Fiorentina,Barcelona,it,es,3.0,3.0,0.5
+93,1999-11-03,Chelsea,Hertha BSC,eng,de,2.0,0.0,0.0
+94,1999-11-03,Olympiacos,Porto,gr,pt,1.0,0.0,0.0
+95,1999-11-03,Valencia,PSV,es,nl,1.0,0.0,0.0
+96,1999-11-03,Willem II,Bordeaux,nl,fr,0.0,0.0,0.5
+97,1999-11-03,Sparta Prague,Spartak Moscow,cz,ru,5.0,2.0,0.0
+98,1999-11-03,Bayern Munich,Rangers,de,sct,1.0,0.0,0.0
+99,1999-11-03,Molde,Real Madrid,no,es,0.0,1.0,1.0
+100,1999-11-03,Galatasaray,Milan,tr,it,3.0,2.0,0.0
+102,1999-11-23,Hertha BSC,Barcelona,de,es,1.0,1.0,0.5
+103,1999-11-23,Valencia,Bordeaux,es,fr,3.0,0.0,0.0
+104,1999-11-23,Sparta Prague,Porto,cz,pt,0.0,2.0,1.0
+105,1999-11-23,Fiorentina,Manchester Utd,it,eng,2.0,0.0,0.0
+106,1999-11-24,Rosenborg,Bayern Munich,no,de,1.0,1.0,0.5
+107,1999-11-24,Marseille,Lazio,fr,it,0.0,2.0,1.0
+108,1999-11-24,Dynamo Kyiv,Real Madrid,ua,es,1.0,2.0,1.0
+109,1999-11-24,Chelsea,Feyenoord,eng,nl,3.0,1.0,0.0
+111,1999-12-07,Feyenoord,Marseille,nl,fr,3.0,0.0,0.0
+112,1999-12-07,Real Madrid,Rosenborg,es,no,3.0,1.0,0.0
+113,1999-12-07,Lazio,Chelsea,it,eng,0.0,0.0,0.5
+114,1999-12-07,Bayern Munich,Dynamo Kyiv,de,ua,2.0,1.0,0.0
+115,1999-12-08,Manchester Utd,Valencia,eng,es,3.0,0.0,0.0
+116,1999-12-08,Porto,Hertha BSC,pt,de,1.0,0.0,0.0
+117,1999-12-08,Bordeaux,Fiorentina,fr,it,0.0,0.0,0.5
+118,1999-12-08,Barcelona,Sparta Prague,es,cz,5.0,0.0,0.0
+120,2000-02-29,Dynamo Kyiv,Rosenborg,ua,no,2.0,1.0,0.0
+121,2000-02-29,Marseille,Chelsea,fr,eng,1.0,0.0,0.0
+122,2000-02-29,Real Madrid,Bayern Munich,es,de,2.0,4.0,1.0
+123,2000-02-29,Lazio,Feyenoord,it,nl,1.0,2.0,1.0
+124,2000-03-01,Hertha BSC,Sparta Prague,de,cz,1.0,1.0,0.5
+125,2000-03-01,Fiorentina,Valencia,it,es,1.0,0.0,0.0
+126,2000-03-01,Barcelona,Porto,es,pt,4.0,2.0,0.0
+127,2000-03-01,Manchester Utd,Bordeaux,eng,fr,2.0,0.0,0.0
+129,2000-03-07,Valencia,Fiorentina,es,it,2.0,0.0,0.0
+130,2000-03-07,Porto,Barcelona,pt,es,0.0,2.0,1.0
+131,2000-03-07,Sparta Prague,Hertha BSC,cz,de,1.0,0.0,0.0
+132,2000-03-07,Bordeaux,Manchester Utd,fr,eng,1.0,2.0,1.0
+133,2000-03-08,Rosenborg,Dynamo Kyiv,no,ua,1.0,2.0,1.0
+134,2000-03-08,Feyenoord,Lazio,nl,it,0.0,0.0,0.5
+135,2000-03-08,Bayern Munich,Real Madrid,de,es,4.0,1.0,0.0
+136,2000-03-08,Chelsea,Marseille,eng,fr,1.0,0.0,0.0
+138,2000-03-14,Lazio,Marseille,it,fr,5.0,1.0,0.0
+139,2000-03-14,Bayern Munich,Rosenborg,de,no,2.0,1.0,0.0
+140,2000-03-14,Real Madrid,Dynamo Kyiv,es,ua,2.0,2.0,0.5
+141,2000-03-14,Feyenoord,Chelsea,nl,eng,1.0,3.0,1.0
+142,2000-03-15,Barcelona,Hertha BSC,es,de,3.0,1.0,0.0
+143,2000-03-15,Porto,Sparta Prague,pt,cz,2.0,2.0,0.5
+144,2000-03-15,Manchester Utd,Fiorentina,eng,it,3.0,1.0,0.0
+145,2000-03-15,Bordeaux,Valencia,fr,es,1.0,4.0,1.0
+147,2000-03-21,Valencia,Manchester Utd,es,eng,0.0,0.0,0.5
+148,2000-03-21,Sparta Prague,Barcelona,cz,es,1.0,2.0,1.0
+149,2000-03-21,Hertha BSC,Porto,de,pt,0.0,1.0,1.0
+150,2000-03-21,Fiorentina,Bordeaux,it,fr,3.0,3.0,0.5
+151,2000-03-22,Marseille,Feyenoord,fr,nl,0.0,0.0,0.5
+152,2000-03-22,Dynamo Kyiv,Bayern Munich,ua,de,2.0,0.0,0.0
+153,2000-03-22,Chelsea,Lazio,eng,it,1.0,2.0,1.0
+154,2000-03-22,Rosenborg,Real Madrid,no,es,0.0,1.0,1.0
+156,2000-04-04,Real Madrid,Manchester Utd,es,eng,0.0,0.0,0.5
+157,2000-04-04,Porto,Bayern Munich,pt,de,1.0,1.0,0.5
+158,2000-04-05,Valencia,Lazio,es,it,5.0,2.0,0.0
+159,2000-04-05,Chelsea,Barcelona,eng,es,3.0,1.0,0.0
+160,2000-04-18,Barcelona,Chelsea,es,eng,5.0,1.0,0.0
+161,2000-04-18,Lazio,Valencia,it,es,1.0,0.0,0.0
+162,2000-04-19,Bayern Munich,Porto,de,pt,2.0,1.0,0.0
+163,2000-04-19,Manchester Utd,Real Madrid,eng,es,2.0,3.0,1.0
+164,2000-05-02,Valencia,Barcelona,es,es,4.0,1.0,0.0
+165,2000-05-03,Real Madrid,Bayern Munich,es,de,2.0,0.0,0.0
+166,2000-05-09,Bayern Munich,Real Madrid,de,es,2.0,1.0,0.0
+167,2000-05-10,Barcelona,Valencia,es,es,2.0,1.0,0.0
+168,2000-05-24,Real Madrid,Valencia,es,es,3.0,0.0,0.0

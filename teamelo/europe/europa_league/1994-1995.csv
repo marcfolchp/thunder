@@ -1,0 +1,127 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1994-09-13,Napoli,Skonto FC,it,lv,2,0,0.0
+1,1994-09-13,Rotor Volgograd,Nantes,ru,fr,3,2,0.0
+2,1994-09-13,FC Dinamo Tbilisi,FC Tirol Innsbruck,ge,at,1,0,0.0
+3,1994-09-13,Linfield FC,Odense,nir,dk,1,1,0.5
+4,1994-09-13,AIK Stockholm,Slavia Prague,se,cz,0,0,0.5
+5,1994-09-13,ŠK Slovan Bratislava,FC Copenhagen,sk,dk,1,0,0.0
+6,1994-09-13,Olympiacos,Marseille,gr,fr,1,2,1.0
+7,1994-09-13,Apollon Limassol,Sion,cy,ch,1,3,1.0
+8,1994-09-13,Vitesse,Parma,nl,it,1,0,0.0
+9,1994-09-13,FC Tekstilshchik Kamyshin,Békéscsaba,ru,hu,6,1,0.0
+10,1994-09-13,Aarau,Marítimo,ch,pt,0,0,0.5
+11,1994-09-13,Katowice,Aris,pl,gr,1,0,0.0
+12,1994-09-13,Blackburn,Trelleborg,eng,se,0,1,1.0
+13,1994-09-13,Boavista,MYPA,pt,fi,2,1,0.0
+14,1994-09-13,Cannes,Fenerbahçe,fr,tr,4,0,0.0
+15,1994-09-13,Trabzonspor,Dinamo București,tr,ro,2,1,0.0
+16,1994-09-13,Twente,Honvéd,nl,hu,1,4,1.0
+17,1994-09-13,CSKA Sofia,Juventus,bg,it,0,3,1.0
+18,1994-09-13,R.F.C. Seraing,Dynamo Moscow,be,ru,3,4,1.0
+19,1994-09-13,Admira Wacker Mödling,Górnik Zabrze,at,pl,5,2,0.0
+20,1994-09-13,Dinamo Minsk,Lazio,by,it,0,0,0.5
+21,1994-09-13,Leverkusen,PSV,de,nl,5,4,0.0
+22,1994-09-13,Íþróttabandalag Akraness,Kaiserslautern,is,de,0,4,1.0
+23,1994-09-13,Anorthosis,Athletic Club,cy,es,2,0,0.0
+24,1994-09-13,Rosenborg,Dep La Coruña,no,es,1,0,0.0
+25,1994-09-13,Real Madrid,Sporting CP,es,pt,1,0,0.0
+26,1994-09-13,Antwerp,Newcastle Utd,be,eng,0,5,1.0
+27,1994-09-13,Bordeaux,Lillestrøm,fr,no,3,1,0.0
+28,1994-09-13,Dortmund,Motherwell,de,sct,1,0,0.0
+29,1994-09-13,Rapid București,Charleroi,ro,be,2,0,0.0
+30,1994-09-15,NK Olimpija Ljubljana,Eint Frankfurt,si,de,1,1,0.5
+31,1994-09-15,Inter,Aston Villa,it,eng,1,0,0.0
+32,1994-09-27,Trelleborg,Blackburn,se,eng,2,2,0.5
+33,1994-09-27,Newcastle Utd,Antwerp,eng,be,5,2,0.0
+34,1994-09-27,Parma,Vitesse,it,nl,2,0,0.0
+35,1994-09-27,Dynamo Moscow,R.F.C. Seraing,ru,be,0,1,1.0
+36,1994-09-27,Lillestrøm,Bordeaux,no,fr,0,2,1.0
+37,1994-09-27,Dep La Coruña,Rosenborg,es,no,4,1,0.0
+38,1994-09-27,Odense,Linfield FC,dk,nir,5,0,0.0
+39,1994-09-27,Charleroi,Rapid București,be,ro,2,1,0.0
+40,1994-09-27,Górnik Zabrze,Admira Wacker Mödling,pl,at,1,1,0.5
+41,1994-09-27,PSV,Leverkusen,nl,de,0,0,0.5
+42,1994-09-27,MYPA,Boavista,fi,pt,1,1,0.5
+43,1994-09-27,FC Copenhagen,ŠK Slovan Bratislava,dk,sk,1,1,0.5
+44,1994-09-27,FC Tirol Innsbruck,FC Dinamo Tbilisi,at,ge,5,1,0.0
+45,1994-09-27,Slavia Prague,AIK Stockholm,cz,se,2,2,0.5
+46,1994-09-27,Eint Frankfurt,NK Olimpija Ljubljana,de,si,2,0,0.0
+47,1994-09-27,Juventus,CSKA Sofia,it,bg,5,1,0.0
+48,1994-09-27,Fenerbahçe,Cannes,tr,fr,1,5,1.0
+49,1994-09-27,Aris,Katowice,gr,pl,1,0,0.0
+50,1994-09-27,Dinamo București,Trabzonspor,ro,tr,3,3,0.5
+51,1994-09-27,Marítimo,Aarau,pt,ch,1,0,0.0
+52,1994-09-27,Marseille,Olympiacos,fr,gr,3,0,0.0
+53,1994-09-27,Sporting CP,Real Madrid,pt,es,2,1,0.0
+54,1994-09-27,Sion,Apollon Limassol,ch,cy,2,3,1.0
+55,1994-09-27,Athletic Club,Anorthosis,es,cy,3,0,0.0
+56,1994-09-27,Békéscsaba,FC Tekstilshchik Kamyshin,hu,ru,1,0,0.0
+57,1994-09-27,Kaiserslautern,Íþróttabandalag Akraness,de,is,4,1,0.0
+58,1994-09-27,Skonto FC,Napoli,lv,it,0,1,1.0
+59,1994-09-27,Lazio,Dinamo Minsk,it,by,4,1,0.0
+60,1994-09-27,Honvéd,Twente,hu,nl,1,3,1.0
+61,1994-09-27,Nantes,Rotor Volgograd,fr,ru,3,0,0.0
+62,1994-09-28,Motherwell,Dortmund,sct,de,0,2,1.0
+63,1994-09-29,Aston Villa,Inter,eng,it,1,0,0.0
+64,1994-10-18,Admira Wacker Mödling,Cannes,at,fr,1,1,0.5
+65,1994-10-18,Trabzonspor,Aston Villa,tr,eng,1,0,0.0
+66,1994-10-18,Boavista,Napoli,pt,it,1,1,0.5
+67,1994-10-18,Newcastle Utd,Athletic Club,eng,es,3,2,0.0
+68,1994-10-18,Marítimo,Juventus,pt,it,0,1,1.0
+69,1994-10-18,Honvéd,Leverkusen,hu,de,0,2,1.0
+70,1994-10-18,Sion,Marseille,ch,fr,2,0,0.0
+71,1994-10-18,Dynamo Moscow,Real Madrid,ru,es,2,2,0.5
+72,1994-10-18,Kaiserslautern,Odense,de,dk,1,1,0.5
+73,1994-10-18,Trelleborg,Lazio,se,it,0,0,0.5
+74,1994-10-18,ŠK Slovan Bratislava,Dortmund,sk,de,2,1,0.0
+75,1994-10-18,FC Tirol Innsbruck,Dep La Coruña,at,es,2,0,0.0
+76,1994-10-18,Nantes,FC Tekstilshchik Kamyshin,fr,ru,2,0,0.0
+77,1994-10-18,Katowice,Bordeaux,pl,fr,1,0,0.0
+78,1994-10-19,Rapid București,Eint Frankfurt,ro,de,2,1,0.0
+79,1994-10-20,AIK Stockholm,Parma,se,it,0,1,1.0
+80,1994-11-01,Aston Villa,Trabzonspor,eng,tr,2,1,0.0
+81,1994-11-01,Lazio,Trelleborg,it,se,1,0,0.0
+82,1994-11-01,Marseille,Sion,fr,ch,3,1,0.0
+83,1994-11-01,Bordeaux,Katowice,fr,pl,1,1,0.5
+84,1994-11-01,Real Madrid,Dynamo Moscow,es,ru,4,0,0.0
+85,1994-11-01,Eint Frankfurt,Rapid București,de,ro,5,0,0.0
+86,1994-11-01,Leverkusen,Honvéd,de,hu,5,0,0.0
+87,1994-11-01,Napoli,Boavista,it,pt,2,1,0.0
+88,1994-11-01,Dep La Coruña,FC Tirol Innsbruck,es,at,4,0,0.0
+89,1994-11-01,Athletic Club,Newcastle Utd,es,eng,1,0,0.0
+90,1994-11-01,Cannes,Admira Wacker Mödling,fr,at,2,4,1.0
+91,1994-11-01,FC Tekstilshchik Kamyshin,Nantes,ru,fr,1,2,1.0
+92,1994-11-02,Odense,Kaiserslautern,dk,de,0,0,0.5
+93,1994-11-02,Juventus,Marítimo,it,pt,2,1,0.0
+94,1994-11-02,Parma,AIK Stockholm,it,se,2,0,0.0
+95,1994-11-03,Dortmund,ŠK Slovan Bratislava,de,sk,3,0,0.0
+96,1994-11-22,Athletic Club,Parma,es,it,1,0,0.0
+97,1994-11-22,Katowice,Leverkusen,pl,de,1,4,1.0
+98,1994-11-22,Odense,Real Madrid,dk,es,2,3,1.0
+99,1994-11-22,Trabzonspor,Lazio,tr,it,1,2,1.0
+100,1994-11-22,Dep La Coruña,Dortmund,es,de,1,0,0.0
+101,1994-11-24,Eint Frankfurt,Napoli,de,it,1,0,0.0
+102,1994-11-24,Nantes,Sion,fr,ch,4,0,0.0
+103,1994-11-24,Admira Wacker Mödling,Juventus,at,it,1,3,1.0
+104,1994-12-06,Parma,Athletic Club,it,es,4,2,0.0
+105,1994-12-06,Lazio,Trabzonspor,it,tr,2,1,0.0
+106,1994-12-06,Juventus,Admira Wacker Mödling,it,at,2,1,0.0
+107,1994-12-06,Leverkusen,Katowice,de,pl,4,0,0.0
+108,1994-12-06,Dortmund,Dep La Coruña,de,es,3,1,0.0
+109,1994-12-06,Real Madrid,Odense,es,dk,0,2,1.0
+110,1994-12-07,Napoli,Eint Frankfurt,it,de,0,1,1.0
+111,1994-12-08,Sion,Nantes,ch,fr,2,2,0.5
+112,1995-02-28,Leverkusen,Nantes,de,fr,5,1,0.0
+113,1995-02-28,Lazio,Dortmund,it,de,1,0,0.0
+114,1995-02-28,Eint Frankfurt,Juventus,de,it,1,1,0.5
+115,1995-03-02,Parma,Odense,it,dk,1,0,0.0
+116,1995-03-14,Nantes,Leverkusen,fr,de,0,0,0.5
+117,1995-03-14,Juventus,Eint Frankfurt,it,de,3,0,0.0
+118,1995-03-14,Dortmund,Lazio,de,it,2,0,0.0
+119,1995-03-14,Odense,Parma,dk,it,0,0,0.5
+120,1995-04-04,Juventus,Dortmund,it,de,2,2,0.5
+121,1995-04-04,Leverkusen,Parma,de,it,1,2,1.0
+122,1995-04-18,Parma,Leverkusen,it,de,3,0,0.0
+123,1995-04-18,Dortmund,Juventus,de,it,1,2,1.0
+124,1995-05-03,Parma,Juventus,it,it,1,0,0.0
+125,1995-05-17,Juventus,Parma,it,it,1,1,0.5

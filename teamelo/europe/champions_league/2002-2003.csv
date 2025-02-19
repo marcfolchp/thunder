@@ -1,0 +1,158 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2002-09-17,Auxerre,PSV Eindhoven,fr,nl,0.0,0.0,0.5
+1,2002-09-17,Rosenborg,Inter,no,it,2.0,2.0,0.5
+2,2002-09-17,Roma,Real Madrid,it,es,0.0,3.0,1.0
+3,2002-09-17,Basel,Spartak Moscow,ch,ru,2.0,0.0,0.0
+4,2002-09-17,Genk,AEK Athens,be,gr,0.0,0.0,0.5
+5,2002-09-17,Arsenal,Dortmund,eng,de,2.0,0.0,0.0
+6,2002-09-17,Ajax,Lyon,nl,fr,2.0,1.0,0.0
+7,2002-09-17,Valencia,Liverpool,es,eng,2.0,0.0,0.0
+8,2002-09-18,Bayern Munich,La Coruña,de,es,2.0,3.0,1.0
+9,2002-09-18,Milan,Lens,it,fr,2.0,1.0,0.0
+10,2002-09-18,Feyenoord,Juventus,nl,it,1.0,1.0,0.5
+11,2002-09-18,Manchester Utd,Maccabi Haifa,eng,il,5.0,2.0,0.0
+12,2002-09-18,Olympiacos,Leverkusen,gr,de,6.0,2.0,0.0
+13,2002-09-18,Dynamo Kyiv,Newcastle Utd,ua,eng,2.0,0.0,0.0
+14,2002-09-18,Barcelona,Club Brugge,es,be,3.0,2.0,0.0
+15,2002-09-18,Loko Moscow,Galatasaray,ru,tr,0.0,2.0,1.0
+17,2002-09-24,Galatasaray,Barcelona,tr,es,0.0,2.0,1.0
+18,2002-09-24,Lens,Bayern Munich,fr,de,1.0,1.0,0.5
+19,2002-09-24,Maccabi Haifa,Olympiacos,il,gr,3.0,0.0,0.0
+20,2002-09-24,Newcastle Utd,Feyenoord,eng,nl,0.0,1.0,1.0
+21,2002-09-24,Leverkusen,Manchester Utd,de,eng,1.0,2.0,1.0
+22,2002-09-24,Juventus,Dynamo Kyiv,it,ua,5.0,0.0,0.0
+23,2002-09-24,La Coruña,Milan,es,it,0.0,4.0,1.0
+24,2002-09-24,Club Brugge,Loko Moscow,be,ru,0.0,0.0,0.5
+25,2002-09-25,Liverpool,Basel,eng,ch,1.0,1.0,0.5
+26,2002-09-25,Dortmund,Auxerre,de,fr,2.0,1.0,0.0
+27,2002-09-25,Real Madrid,Genk,es,be,6.0,0.0,0.0
+28,2002-09-25,Lyon,Rosenborg,fr,no,5.0,0.0,0.0
+29,2002-09-25,AEK Athens,Roma,gr,it,0.0,0.0,0.5
+30,2002-09-25,Inter,Ajax,it,nl,1.0,0.0,0.0
+31,2002-09-25,Spartak Moscow,Valencia,ru,es,0.0,3.0,1.0
+32,2002-09-25,PSV Eindhoven,Arsenal,nl,eng,0.0,4.0,1.0
+34,2002-10-01,Manchester Utd,Olympiacos,eng,gr,4.0,0.0,0.0
+35,2002-10-01,Galatasaray,Club Brugge,tr,be,0.0,0.0,0.5
+36,2002-10-01,Juventus,Newcastle Utd,it,eng,2.0,0.0,0.0
+37,2002-10-01,Feyenoord,Dynamo Kyiv,nl,ua,0.0,0.0,0.5
+38,2002-10-01,Bayern Munich,Milan,de,it,1.0,2.0,1.0
+39,2002-10-01,La Coruña,Lens,es,fr,3.0,1.0,0.0
+40,2002-10-01,Loko Moscow,Barcelona,ru,es,1.0,3.0,1.0
+41,2002-10-01,Maccabi Haifa,Leverkusen,il,de,0.0,2.0,1.0
+42,2002-10-02,Auxerre,Arsenal,fr,eng,0.0,1.0,1.0
+43,2002-10-02,Inter,Lyon,it,fr,1.0,2.0,1.0
+44,2002-10-02,Valencia,Basel,es,ch,6.0,2.0,0.0
+45,2002-10-02,AEK Athens,Real Madrid,gr,es,3.0,3.0,0.5
+46,2002-10-02,Liverpool,Spartak Moscow,eng,ru,5.0,0.0,0.0
+47,2002-10-02,Genk,Roma,be,it,0.0,1.0,1.0
+48,2002-10-02,Rosenborg,Ajax,no,nl,0.0,0.0,0.5
+49,2002-10-02,PSV Eindhoven,Dortmund,nl,de,1.0,3.0,1.0
+51,2002-10-22,Lyon,Inter,fr,it,3.0,3.0,0.5
+52,2002-10-22,Roma,Genk,it,be,0.0,0.0,0.5
+53,2002-10-22,Real Madrid,AEK Athens,es,gr,2.0,2.0,0.5
+54,2002-10-22,Ajax,Rosenborg,nl,no,1.0,1.0,0.5
+55,2002-10-22,Dortmund,PSV Eindhoven,de,nl,1.0,1.0,0.5
+56,2002-10-22,Arsenal,Auxerre,eng,fr,1.0,2.0,1.0
+57,2002-10-22,Spartak Moscow,Liverpool,ru,eng,1.0,3.0,1.0
+58,2002-10-22,Basel,Valencia,ch,es,2.0,2.0,0.5
+59,2002-10-23,Barcelona,Loko Moscow,es,ru,1.0,0.0,0.0
+60,2002-10-23,Milan,Bayern Munich,it,de,2.0,1.0,0.0
+61,2002-10-23,Olympiacos,Manchester Utd,gr,eng,2.0,3.0,1.0
+62,2002-10-23,Club Brugge,Galatasaray,be,tr,3.0,1.0,0.0
+63,2002-10-23,Leverkusen,Maccabi Haifa,de,il,2.0,1.0,0.0
+64,2002-10-23,Dynamo Kyiv,Feyenoord,ua,nl,2.0,0.0,0.0
+65,2002-10-23,Lens,La Coruña,fr,es,3.0,1.0,0.0
+66,2002-10-23,Newcastle Utd,Juventus,eng,it,1.0,0.0,0.0
+68,2002-10-29,Club Brugge,Barcelona,be,es,0.0,1.0,1.0
+69,2002-10-29,Newcastle Utd,Dynamo Kyiv,eng,ua,2.0,1.0,0.0
+70,2002-10-29,Leverkusen,Olympiacos,de,gr,2.0,0.0,0.0
+71,2002-10-29,Maccabi Haifa,Manchester Utd,il,eng,3.0,0.0,0.0
+72,2002-10-29,Juventus,Feyenoord,it,nl,2.0,0.0,0.0
+73,2002-10-29,Galatasaray,Loko Moscow,tr,ru,1.0,2.0,1.0
+74,2002-10-29,La Coruña,Bayern Munich,es,de,2.0,1.0,0.0
+75,2002-10-29,Lens,Milan,fr,it,2.0,1.0,0.0
+76,2002-10-30,PSV Eindhoven,Auxerre,nl,fr,3.0,0.0,0.0
+77,2002-10-30,Dortmund,Arsenal,de,eng,2.0,1.0,0.0
+78,2002-10-30,Real Madrid,Roma,es,it,0.0,1.0,1.0
+79,2002-10-30,Inter,Rosenborg,it,no,3.0,0.0,0.0
+80,2002-10-30,Liverpool,Valencia,eng,es,0.0,1.0,1.0
+81,2002-10-30,Lyon,Ajax,fr,nl,0.0,2.0,1.0
+82,2002-10-30,AEK Athens,Genk,gr,be,1.0,1.0,0.5
+83,2002-11-05,Spartak Moscow,Basel,ru,ch,0.0,2.0,1.0
+85,2002-11-12,Ajax,Inter,nl,it,1.0,2.0,1.0
+86,2002-11-12,Roma,AEK Athens,it,gr,1.0,1.0,0.5
+87,2002-11-12,Rosenborg,Lyon,no,fr,1.0,1.0,0.5
+88,2002-11-12,Genk,Real Madrid,be,es,1.0,1.0,0.5
+89,2002-11-12,Valencia,Spartak Moscow,es,ru,3.0,0.0,0.0
+90,2002-11-12,Basel,Liverpool,ch,eng,3.0,3.0,0.5
+91,2002-11-12,Auxerre,Dortmund,fr,de,1.0,0.0,0.0
+92,2002-11-12,Arsenal,PSV Eindhoven,eng,nl,0.0,0.0,0.5
+93,2002-11-13,Dynamo Kyiv,Juventus,ua,it,1.0,2.0,1.0
+94,2002-11-13,Olympiacos,Maccabi Haifa,gr,il,3.0,3.0,0.5
+95,2002-11-13,Barcelona,Galatasaray,es,tr,3.0,1.0,0.0
+96,2002-11-13,Bayern Munich,Lens,de,fr,3.0,3.0,0.5
+97,2002-11-13,Manchester Utd,Leverkusen,eng,de,2.0,0.0,0.0
+98,2002-11-13,Feyenoord,Newcastle Utd,nl,eng,2.0,3.0,1.0
+99,2002-11-13,Loko Moscow,Club Brugge,ru,be,2.0,0.0,0.0
+100,2002-11-13,Milan,La Coruña,it,es,1.0,2.0,1.0
+102,2002-11-26,Loko Moscow,Dortmund,ru,de,1.0,2.0,1.0
+103,2002-11-26,Milan,Real Madrid,it,es,1.0,0.0,0.0
+104,2002-11-26,Basel,Manchester Utd,ch,eng,1.0,3.0,1.0
+105,2002-11-26,La Coruña,Juventus,es,it,2.0,2.0,0.5
+106,2002-11-27,Valencia,Ajax,es,nl,1.0,1.0,0.5
+107,2002-11-27,Roma,Arsenal,it,eng,1.0,3.0,1.0
+108,2002-11-27,Newcastle Utd,Inter,eng,it,1.0,4.0,1.0
+109,2002-11-27,Leverkusen,Barcelona,de,es,1.0,2.0,1.0
+111,2002-12-10,Inter,Leverkusen,it,de,3.0,2.0,0.0
+112,2002-12-10,Ajax,Roma,nl,it,2.0,1.0,0.0
+113,2002-12-10,Arsenal,Valencia,eng,es,0.0,0.0,0.5
+114,2002-12-11,Barcelona,Newcastle Utd,es,eng,3.0,1.0,0.0
+115,2002-12-11,Real Madrid,Loko Moscow,es,ru,2.0,2.0,0.5
+116,2002-12-11,Juventus,Basel,it,ch,4.0,0.0,0.0
+117,2002-12-11,Dortmund,Milan,de,it,0.0,1.0,1.0
+118,2002-12-11,Manchester Utd,La Coruña,eng,es,2.0,0.0,0.0
+120,2003-02-18,Roma,Valencia,it,es,0.0,1.0,1.0
+121,2003-02-18,Leverkusen,Newcastle Utd,de,eng,1.0,3.0,1.0
+122,2003-02-18,Barcelona,Inter,es,it,3.0,0.0,0.0
+123,2003-02-18,Arsenal,Ajax,eng,nl,1.0,1.0,0.5
+124,2003-02-19,Basel,La Coruña,ch,es,1.0,0.0,0.0
+125,2003-02-19,Manchester Utd,Juventus,eng,it,2.0,1.0,0.0
+126,2003-02-19,Real Madrid,Dortmund,es,de,2.0,1.0,0.0
+127,2003-02-19,Milan,Loko Moscow,it,ru,1.0,0.0,0.0
+129,2003-02-25,Juventus,Manchester Utd,it,eng,0.0,3.0,1.0
+130,2003-02-25,La Coruña,Basel,es,ch,1.0,0.0,0.0
+131,2003-02-25,Dortmund,Real Madrid,de,es,1.0,1.0,0.5
+132,2003-02-25,Loko Moscow,Milan,ru,it,0.0,1.0,1.0
+133,2003-02-26,Ajax,Arsenal,nl,eng,0.0,0.0,0.5
+134,2003-02-26,Inter,Barcelona,it,es,0.0,0.0,0.5
+135,2003-02-26,Valencia,Roma,es,it,0.0,3.0,1.0
+136,2003-02-26,Newcastle Utd,Leverkusen,eng,de,3.0,1.0,0.0
+138,2003-03-11,Ajax,Valencia,nl,es,1.0,1.0,0.5
+139,2003-03-11,Arsenal,Roma,eng,it,1.0,1.0,0.5
+140,2003-03-11,Inter,Newcastle Utd,it,eng,2.0,2.0,0.5
+141,2003-03-11,Barcelona,Leverkusen,es,de,2.0,0.0,0.0
+142,2003-03-12,Juventus,La Coruña,it,es,3.0,2.0,0.0
+143,2003-03-12,Dortmund,Loko Moscow,de,ru,3.0,0.0,0.0
+144,2003-03-12,Real Madrid,Milan,es,it,3.0,1.0,0.0
+145,2003-03-12,Manchester Utd,Basel,eng,ch,1.0,1.0,0.5
+147,2003-03-18,Milan,Dortmund,it,de,0.0,1.0,1.0
+148,2003-03-18,La Coruña,Manchester Utd,es,eng,2.0,0.0,0.0
+149,2003-03-18,Loko Moscow,Real Madrid,ru,es,0.0,1.0,1.0
+150,2003-03-18,Basel,Juventus,ch,it,2.0,1.0,0.0
+151,2003-03-19,Newcastle Utd,Barcelona,eng,es,0.0,2.0,1.0
+152,2003-03-19,Roma,Ajax,it,nl,1.0,1.0,0.5
+153,2003-03-19,Valencia,Arsenal,es,eng,2.0,1.0,0.0
+154,2003-03-19,Leverkusen,Inter,de,it,0.0,2.0,1.0
+156,2003-04-08,Ajax,Milan,nl,it,0.0,0.0,0.5
+157,2003-04-08,Real Madrid,Manchester Utd,es,eng,3.0,1.0,0.0
+158,2003-04-09,Inter,Valencia,it,es,1.0,0.0,0.0
+159,2003-04-09,Juventus,Barcelona,it,es,1.0,1.0,0.5
+160,2003-04-22,Barcelona,Juventus,es,it,1.0,2.0,1.0
+161,2003-04-22,Valencia,Inter,es,it,2.0,1.0,0.0
+162,2003-04-23,Manchester Utd,Real Madrid,eng,es,4.0,3.0,0.0
+163,2003-04-23,Milan,Ajax,it,nl,3.0,2.0,0.0
+164,2003-05-06,Real Madrid,Juventus,es,it,2.0,1.0,0.0
+165,2003-05-07,Milan,Inter,it,it,0.0,0.0,0.5
+166,2003-05-13,Inter,Milan,it,it,1.0,1.0,0.5
+167,2003-05-14,Juventus,Real Madrid,it,es,3.0,1.0,0.0
+168,2003-05-28,Juventus,Milan,it,it,0.0,0.0,0.5

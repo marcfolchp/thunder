@@ -1,0 +1,222 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2008-09-16,Nordsjælland,Olympiacos,dk,gr,0.0,2.0,1.0
+1,2008-09-16,APOEL FC,Schalke 04,cy,de,1.0,4.0,1.0
+2,2008-09-16,Hertha BSC,St Patrick's,de,ie,2.0,0.0,0.0
+3,2008-09-18,MŠK Žilina,Levski Sofia,sk,bg,1.0,1.0,0.5
+4,2008-09-18,Nancy,Motherwell,fr,sct,1.0,0.0,0.0
+5,2008-09-18,Napoli,Benfica,it,pt,3.0,2.0,0.0
+6,2008-09-18,Racing Sant,FC Honka,es,fi,1.0,0.0,0.0
+7,2008-09-18,Kayserispor,Paris S-G,tr,fr,1.0,2.0,1.0
+8,2008-09-18,AC Omonia,Manchester City,cy,eng,1.0,2.0,1.0
+9,2008-09-18,Politehnica Timișoara,Partizan,ro,rs,1.0,2.0,1.0
+10,2008-09-18,FC Moscow,FC Copenhagen,ru,dk,1.0,2.0,1.0
+11,2008-09-18,Milan,Zürich,it,ch,3.0,1.0,0.0
+12,2008-09-18,Bellinzona,Galatasaray,ch,tr,3.0,4.0,1.0
+13,2008-09-18,Brøndby,Rosenborg,dk,no,1.0,2.0,1.0
+14,2008-09-18,Austria Wien,Lech Poznań,at,pl,2.0,1.0,0.0
+15,2008-09-18,Rennes,Twente,fr,nl,2.0,1.0,0.0
+16,2008-09-18,Cherno More,Stuttgart,bg,de,1.0,2.0,1.0
+17,2008-09-18,Everton,Standard Liège,eng,be,2.0,2.0,0.5
+18,2008-09-18,Litex Lovech,Aston Villa,bg,eng,1.0,3.0,1.0
+19,2008-09-18,Feyenoord,Kalmar,nl,se,0.0,1.0,1.0
+20,2008-09-18,Hamburger SV,Unirea Urziceni,de,ro,0.0,0.0,0.5
+21,2008-09-18,Dortmund,Udinese,de,it,0.0,2.0,1.0
+22,2008-09-18,Tottenham,Wisła Kraków,eng,pl,2.0,1.0,0.0
+23,2008-09-18,Young Boys,Club Brugge,ch,be,2.0,2.0,0.5
+24,2008-09-18,Hapoel Tel Aviv,Saint-Étienne,il,fr,1.0,2.0,1.0
+25,2008-09-18,Baník Ostrava,Spartak Moscow,cz,ru,0.0,1.0,1.0
+26,2008-09-18,Borac Čačak,Ajax,rs,nl,1.0,4.0,1.0
+27,2008-09-18,Brann,La Coruña,no,es,2.0,0.0,0.0
+28,2008-09-18,Portsmouth,Vitória,eng,pt,2.0,0.0,0.0
+29,2008-09-18,Sevilla,RB Salzburg,es,at,2.0,0.0,0.0
+30,2008-09-18,NEC Nijmegen,Dinamo,nl,ro,1.0,0.0,0.0
+31,2008-09-18,Wolfsburg,Rapid București,de,ro,1.0,0.0,0.0
+32,2008-09-18,Slavia Prague,Vaslui,cz,ro,0.0,0.0,0.5
+33,2008-09-18,Vitória Setúbal,Heerenveen,pt,nl,1.0,1.0,0.5
+34,2008-09-18,Marítimo,Valencia,pt,es,0.0,1.0,1.0
+35,2008-09-18,Braga,FC Petržalka,pt,sk,4.0,0.0,0.0
+36,2008-09-18,Dinamo Zagreb,Sparta Prague,hr,cz,0.0,0.0,0.5
+37,2008-09-18,Sampdoria,FBK Kaunas,it,lt,5.0,0.0,0.0
+38,2008-09-18,Slaven Belupo,CSKA Moscow,hr,ru,1.0,2.0,1.0
+39,2008-09-18,Beşiktaş,Metalist Kharkiv,tr,ua,1.0,0.0,0.0
+40,2008-09-30,CSKA Moscow,Slaven Belupo,ru,hr,1.0,0.0,0.0
+41,2008-09-30,St Patrick's,Hertha BSC,ie,de,0.0,0.0,0.5
+42,2008-10-02,FC Honka,Racing Sant,fi,es,0.0,1.0,1.0
+43,2008-10-02,La Coruña,Brann,es,no,2.0,0.0,0.0
+44,2008-10-02,Spartak Moscow,Baník Ostrava,ru,cz,1.0,1.0,0.5
+45,2008-10-02,Benfica,Napoli,pt,it,2.0,0.0,0.0
+46,2008-10-02,Wisła Kraków,Tottenham,pl,eng,1.0,1.0,0.5
+47,2008-10-02,RB Salzburg,Sevilla,at,es,0.0,2.0,1.0
+48,2008-10-02,Twente,Rennes,nl,fr,1.0,0.0,0.0
+49,2008-10-02,Vitória,Portsmouth,pt,eng,2.0,2.0,0.5
+50,2008-10-02,Aston Villa,Litex Lovech,eng,bg,1.0,1.0,0.5
+51,2008-10-02,Dinamo,NEC Nijmegen,ro,nl,0.0,0.0,0.5
+52,2008-10-02,Rapid București,Wolfsburg,ro,de,1.0,1.0,0.5
+53,2008-10-02,Manchester City,AC Omonia,eng,cy,2.0,1.0,0.0
+54,2008-10-02,Stuttgart,Cherno More,de,bg,2.0,2.0,0.5
+55,2008-10-02,Partizan,Politehnica Timișoara,rs,ro,1.0,0.0,0.0
+56,2008-10-02,FC Copenhagen,FC Moscow,dk,ru,1.0,1.0,0.5
+57,2008-10-02,Unirea Urziceni,Hamburger SV,ro,de,0.0,2.0,1.0
+58,2008-10-02,Udinese,Dortmund,it,de,0.0,2.0,1.0
+59,2008-10-02,Valencia,Marítimo,es,pt,2.0,1.0,0.0
+60,2008-10-02,Olympiacos,Nordsjælland,gr,dk,5.0,0.0,0.0
+61,2008-10-02,Galatasaray,Bellinzona,tr,ch,2.0,1.0,0.0
+62,2008-10-02,FBK Kaunas,Sampdoria,lt,it,1.0,2.0,1.0
+63,2008-10-02,Lech Poznań,Austria Wien,pl,at,4.0,2.0,0.0
+64,2008-10-02,Standard Liège,Everton,be,eng,2.0,1.0,0.0
+65,2008-10-02,Zürich,Milan,ch,it,0.0,1.0,1.0
+66,2008-10-02,Rosenborg,Brøndby,no,dk,3.0,2.0,0.0
+67,2008-10-02,Levski Sofia,MŠK Žilina,bg,sk,0.0,1.0,1.0
+68,2008-10-02,Metalist Kharkiv,Beşiktaş,ua,tr,4.0,1.0,0.0
+69,2008-10-02,FC Petržalka,Braga,sk,pt,0.0,2.0,1.0
+70,2008-10-02,Kalmar,Feyenoord,se,nl,1.0,2.0,1.0
+71,2008-10-02,Club Brugge,Young Boys,be,ch,2.0,0.0,0.0
+72,2008-10-02,Vaslui,Slavia Prague,ro,cz,1.0,1.0,0.5
+73,2008-10-02,Heerenveen,Vitória Setúbal,nl,pt,5.0,2.0,0.0
+74,2008-10-02,Ajax,Borac Čačak,nl,rs,2.0,0.0,0.0
+75,2008-10-02,Paris S-G,Kayserispor,fr,tr,0.0,0.0,0.5
+76,2008-10-02,Schalke 04,APOEL FC,de,cy,1.0,1.0,0.5
+77,2008-10-02,Saint-Étienne,Hapoel Tel Aviv,fr,il,2.0,1.0,0.0
+78,2008-10-02,Motherwell,Nancy,sct,fr,0.0,2.0,1.0
+79,2008-10-02,Sparta Prague,Dinamo Zagreb,cz,hr,3.0,3.0,0.5
+80,2008-10-23,CSKA Moscow,La Coruña,ru,es,3.0,0.0,0.0
+81,2008-10-23,Twente,Racing Sant,nl,es,1.0,0.0,0.0
+82,2008-10-23,MŠK Žilina,Hamburger SV,sk,de,1.0,2.0,1.0
+83,2008-10-23,FC Copenhagen,Saint-Étienne,dk,fr,1.0,3.0,1.0
+84,2008-10-23,Nancy,Feyenoord,fr,nl,3.0,0.0,0.0
+85,2008-10-23,Dinamo Zagreb,NEC Nijmegen,hr,nl,3.0,2.0,0.0
+86,2008-10-23,Rosenborg,Club Brugge,no,be,0.0,0.0,0.5
+87,2008-10-23,Schalke 04,Paris S-G,de,fr,3.0,1.0,0.0
+88,2008-10-23,Sevilla,Stuttgart,es,de,2.0,0.0,0.0
+89,2008-10-23,Galatasaray,Olympiacos,tr,gr,1.0,0.0,0.0
+90,2008-10-23,Hertha BSC,Benfica,de,pt,1.0,1.0,0.5
+91,2008-10-23,Partizan,Sampdoria,rs,it,1.0,2.0,1.0
+92,2008-10-23,Braga,Portsmouth,pt,eng,3.0,0.0,0.0
+93,2008-10-23,Aston Villa,Ajax,eng,nl,2.0,1.0,0.0
+94,2008-10-23,Heerenveen,Milan,nl,it,1.0,3.0,1.0
+95,2008-10-23,Udinese,Tottenham,it,eng,2.0,0.0,0.0
+97,2008-11-06,Milan,Braga,it,pt,1.0,0.0,0.0
+98,2008-11-06,Metalist Kharkiv,Hertha BSC,ua,de,0.0,0.0,0.5
+99,2008-11-06,Racing Sant,Schalke 04,es,de,1.0,1.0,0.5
+100,2008-11-06,Standard Liège,Sevilla,be,es,1.0,0.0,0.0
+101,2008-11-06,Ajax,MŠK Žilina,nl,sk,1.0,0.0,0.0
+102,2008-11-06,Feyenoord,CSKA Moscow,nl,ru,1.0,3.0,1.0
+103,2008-11-06,Slavia Prague,Aston Villa,cz,eng,0.0,1.0,1.0
+104,2008-11-06,Lech Poznań,Nancy,pl,fr,2.0,2.0,0.5
+105,2008-11-06,Benfica,Galatasaray,pt,tr,0.0,2.0,1.0
+106,2008-11-06,Valencia,FC Copenhagen,es,dk,1.0,1.0,0.5
+107,2008-11-06,Tottenham,Dinamo Zagreb,eng,hr,4.0,0.0,0.0
+108,2008-11-06,Saint-Étienne,Rosenborg,fr,no,3.0,0.0,0.0
+109,2008-11-06,Stuttgart,Partizan,de,rs,2.0,0.0,0.0
+110,2008-11-06,Manchester City,Twente,eng,nl,3.0,2.0,0.0
+111,2008-11-06,Wolfsburg,Heerenveen,de,nl,5.0,1.0,0.0
+112,2008-11-06,Spartak Moscow,Udinese,ru,it,1.0,2.0,1.0
+114,2008-11-27,CSKA Moscow,Lech Poznań,ru,pl,2.0,1.0,0.0
+115,2008-11-27,La Coruña,Feyenoord,es,nl,3.0,0.0,0.0
+116,2008-11-27,Galatasaray,Metalist Kharkiv,tr,ua,0.0,1.0,1.0
+117,2008-11-27,Olympiacos,Benfica,gr,pt,5.0,1.0,0.0
+118,2008-11-27,Paris S-G,Racing Sant,fr,es,2.0,2.0,0.5
+119,2008-11-27,Dinamo Zagreb,Spartak Moscow,hr,ru,0.0,1.0,1.0
+120,2008-11-27,Braga,Wolfsburg,pt,de,2.0,3.0,1.0
+121,2008-11-27,Hamburger SV,Ajax,de,nl,0.0,1.0,1.0
+122,2008-11-27,MŠK Žilina,Slavia Prague,sk,cz,0.0,0.0,0.5
+123,2008-11-27,Schalke 04,Manchester City,de,eng,0.0,2.0,1.0
+124,2008-11-27,NEC Nijmegen,Tottenham,nl,eng,0.0,1.0,1.0
+125,2008-11-27,Sampdoria,Stuttgart,it,de,1.0,1.0,0.5
+126,2008-11-27,Club Brugge,Saint-Étienne,be,fr,1.0,1.0,0.5
+127,2008-11-27,Partizan,Standard Liège,rs,be,0.0,1.0,1.0
+128,2008-11-27,Rosenborg,Valencia,no,es,0.0,4.0,1.0
+129,2008-11-27,Portsmouth,Milan,eng,it,2.0,2.0,0.5
+131,2008-12-03,Udinese,Dinamo Zagreb,it,hr,2.0,1.0,0.0
+132,2008-12-03,Twente,Schalke 04,nl,de,2.0,1.0,0.0
+133,2008-12-03,Sevilla,Partizan,es,rs,3.0,0.0,0.0
+134,2008-12-03,Metalist Kharkiv,Olympiacos,ua,gr,1.0,0.0,0.0
+135,2008-12-03,Manchester City,Paris S-G,eng,fr,0.0,0.0,0.5
+136,2008-12-03,Hertha BSC,Galatasaray,de,tr,0.0,1.0,1.0
+137,2008-12-03,Spartak Moscow,NEC Nijmegen,ru,nl,1.0,2.0,1.0
+138,2008-12-03,Standard Liège,Sampdoria,be,it,3.0,0.0,0.0
+139,2008-12-04,Wolfsburg,Portsmouth,de,eng,3.0,2.0,0.0
+140,2008-12-04,Heerenveen,Braga,nl,pt,1.0,2.0,1.0
+141,2008-12-04,Valencia,Club Brugge,es,be,1.0,1.0,0.5
+142,2008-12-04,Slavia Prague,Hamburger SV,cz,de,0.0,2.0,1.0
+143,2008-12-04,Nancy,CSKA Moscow,fr,ru,3.0,4.0,1.0
+144,2008-12-04,Lech Poznań,La Coruña,pl,es,1.0,1.0,0.5
+145,2008-12-04,FC Copenhagen,Rosenborg,dk,no,1.0,1.0,0.5
+146,2008-12-04,Aston Villa,MŠK Žilina,eng,sk,1.0,2.0,1.0
+148,2008-12-17,Feyenoord,Lech Poznań,nl,pl,0.0,1.0,1.0
+149,2008-12-17,Milan,Wolfsburg,it,de,2.0,2.0,0.5
+150,2008-12-17,La Coruña,Nancy,es,fr,1.0,0.0,0.0
+151,2008-12-17,Ajax,Slavia Prague,nl,cz,2.0,2.0,0.5
+152,2008-12-17,Saint-Étienne,Valencia,fr,es,2.0,2.0,0.5
+153,2008-12-17,Hamburger SV,Aston Villa,de,eng,3.0,1.0,0.0
+154,2008-12-17,Portsmouth,Heerenveen,eng,nl,3.0,0.0,0.0
+155,2008-12-17,Club Brugge,FC Copenhagen,be,dk,0.0,1.0,1.0
+156,2008-12-18,Sampdoria,Sevilla,it,es,1.0,0.0,0.0
+157,2008-12-18,Racing Sant,Manchester City,es,eng,3.0,1.0,0.0
+158,2008-12-18,NEC Nijmegen,Udinese,nl,it,2.0,0.0,0.0
+159,2008-12-18,Olympiacos,Hertha BSC,gr,de,4.0,0.0,0.0
+160,2008-12-18,Benfica,Metalist Kharkiv,pt,ua,0.0,1.0,1.0
+161,2008-12-18,Paris S-G,Twente,fr,nl,4.0,0.0,0.0
+162,2008-12-18,Stuttgart,Standard Liège,de,be,3.0,0.0,0.0
+163,2008-12-18,Tottenham,Spartak Moscow,eng,ru,2.0,2.0,0.5
+165,2009-02-18,Sampdoria,Metalist Kharkiv,it,ua,0.0,1.0,1.0
+166,2009-02-18,Werder Bremen,Milan,de,it,1.0,1.0,0.5
+167,2009-02-18,Bordeaux,Galatasaray,fr,tr,0.0,0.0,0.5
+168,2009-02-18,NEC Nijmegen,Hamburger SV,nl,de,0.0,3.0,1.0
+169,2009-02-18,Aalborg,La Coruña,dk,es,3.0,0.0,0.0
+170,2009-02-18,Zenit,Stuttgart,ru,de,2.0,1.0,0.0
+171,2009-02-18,Aston Villa,CSKA Moscow,eng,ru,1.0,1.0,0.5
+172,2009-02-18,Olympiacos,Saint-Étienne,gr,fr,1.0,3.0,1.0
+173,2009-02-18,Paris S-G,Wolfsburg,fr,de,2.0,0.0,0.0
+174,2009-02-18,Braga,Standard Liège,pt,be,3.0,0.0,0.0
+175,2009-02-18,Dynamo Kyiv,Valencia,ua,es,1.0,1.0,0.5
+176,2009-02-19,Shakhtar,Tottenham,ua,eng,2.0,0.0,0.0
+177,2009-02-19,FC Copenhagen,Manchester City,dk,eng,2.0,2.0,0.5
+178,2009-02-19,Lech Poznań,Udinese,pl,it,2.0,2.0,0.5
+179,2009-02-19,Fiorentina,Ajax,it,nl,0.0,1.0,1.0
+180,2009-02-19,Marseille,Twente,fr,nl,0.0,1.0,1.0
+181,2009-02-26,Tottenham,Shakhtar,eng,ua,1.0,1.0,0.5
+182,2009-02-26,La Coruña,Aalborg,es,dk,1.0,3.0,1.0
+183,2009-02-26,Ajax,Fiorentina,nl,it,1.0,1.0,0.5
+184,2009-02-26,Hamburger SV,NEC Nijmegen,de,nl,1.0,0.0,0.0
+185,2009-02-26,Saint-Étienne,Olympiacos,fr,gr,2.0,1.0,0.0
+186,2009-02-26,Galatasaray,Bordeaux,tr,fr,4.0,3.0,0.0
+187,2009-02-26,Wolfsburg,Paris S-G,de,fr,1.0,3.0,1.0
+188,2009-02-26,Udinese,Lech Poznań,it,pl,2.0,1.0,0.0
+189,2009-02-26,Milan,Werder Bremen,it,de,2.0,2.0,0.5
+190,2009-02-26,Manchester City,FC Copenhagen,eng,dk,2.0,1.0,0.0
+191,2009-02-26,CSKA Moscow,Aston Villa,ru,eng,2.0,0.0,0.0
+192,2009-02-26,Valencia,Dynamo Kyiv,es,ua,2.0,2.0,0.5
+193,2009-02-26,Metalist Kharkiv,Sampdoria,ua,it,2.0,0.0,0.0
+194,2009-02-26,Standard Liège,Braga,be,pt,1.0,1.0,0.5
+195,2009-02-26,Stuttgart,Zenit,de,ru,1.0,2.0,1.0
+196,2009-02-26,Twente,Marseille,nl,fr,0.0,1.0,1.0
+197,2009-03-12,Paris S-G,Braga,fr,pt,0.0,0.0,0.5
+198,2009-03-12,Dynamo Kyiv,Metalist Kharkiv,ua,ua,1.0,0.0,0.0
+199,2009-03-12,Werder Bremen,Saint-Étienne,de,fr,1.0,0.0,0.0
+200,2009-03-12,Marseille,Ajax,fr,nl,2.0,1.0,0.0
+201,2009-03-12,CSKA Moscow,Shakhtar,ru,ua,1.0,0.0,0.0
+202,2009-03-12,Manchester City,Aalborg,eng,dk,2.0,0.0,0.0
+203,2009-03-12,Hamburger SV,Galatasaray,de,tr,1.0,1.0,0.5
+204,2009-03-12,Udinese,Zenit,it,ru,2.0,0.0,0.0
+205,2009-03-18,Ajax,Marseille,nl,fr,2.0,2.0,0.5
+206,2009-03-18,Saint-Étienne,Werder Bremen,fr,de,2.0,2.0,0.5
+207,2009-03-19,Metalist Kharkiv,Dynamo Kyiv,ua,ua,3.0,2.0,0.0
+208,2009-03-19,Zenit,Udinese,ru,it,1.0,0.0,0.0
+209,2009-03-19,Braga,Paris S-G,pt,fr,0.0,1.0,1.0
+210,2009-03-19,Shakhtar,CSKA Moscow,ua,ru,2.0,0.0,0.0
+211,2009-03-19,Galatasaray,Hamburger SV,tr,de,2.0,3.0,1.0
+212,2009-03-19,Aalborg,Manchester City,dk,eng,2.0,0.0,0.0
+213,2009-04-09,Shakhtar,Marseille,ua,fr,2.0,0.0,0.0
+214,2009-04-09,Paris S-G,Dynamo Kyiv,fr,ua,0.0,0.0,0.5
+215,2009-04-09,Werder Bremen,Udinese,de,it,3.0,1.0,0.0
+216,2009-04-09,Hamburger SV,Manchester City,de,eng,3.0,1.0,0.0
+217,2009-04-16,Udinese,Werder Bremen,it,de,3.0,3.0,0.5
+218,2009-04-16,Marseille,Shakhtar,fr,ua,1.0,2.0,1.0
+219,2009-04-16,Manchester City,Hamburger SV,eng,de,2.0,1.0,0.0
+220,2009-04-16,Dynamo Kyiv,Paris S-G,ua,fr,3.0,0.0,0.0
+221,2009-04-30,Dynamo Kyiv,Shakhtar,ua,ua,1.0,1.0,0.5
+222,2009-04-30,Werder Bremen,Hamburger SV,de,de,0.0,1.0,1.0
+223,2009-05-07,Hamburger SV,Werder Bremen,de,de,2.0,3.0,1.0
+224,2009-05-07,Shakhtar,Dynamo Kyiv,ua,ua,2.0,1.0,0.0
+225,2009-05-20,Shakhtar,Werder Bremen,ua,de,2.0,1.0,0.0

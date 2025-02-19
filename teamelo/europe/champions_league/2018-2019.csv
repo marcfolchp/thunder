@@ -1,0 +1,126 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2018-09-18,Barcelona,PSV Eindhoven,es,nl,4.0,0.0,0.0
+1,2018-09-18,Inter,Tottenham,it,eng,2.0,1.0,0.0
+2,2018-09-18,Liverpool,Paris S-G,eng,fr,3.0,2.0,0.0
+3,2018-09-18,Red Star,Napoli,rs,it,0.0,0.0,0.5
+4,2018-09-18,Club Brugge,Dortmund,be,de,0.0,1.0,1.0
+5,2018-09-18,Monaco,Atlético Madrid,fr,es,1.0,2.0,1.0
+6,2018-09-18,Schalke 04,Porto,de,pt,1.0,1.0,0.5
+7,2018-09-18,Galatasaray,Loko Moscow,tr,ru,3.0,0.0,0.0
+8,2018-09-19,Ajax,AEK Athens,nl,gr,3.0,0.0,0.0
+9,2018-09-19,Shakhtar,Hoffenheim,ua,de,2.0,2.0,0.5
+10,2018-09-19,Manchester City,Lyon,eng,fr,1.0,2.0,1.0
+11,2018-09-19,Benfica,Bayern Munich,pt,de,0.0,2.0,1.0
+12,2018-09-19,Valencia,Juventus,es,it,0.0,2.0,1.0
+13,2018-09-19,Real Madrid,Roma,es,it,3.0,0.0,0.0
+14,2018-09-19,Young Boys,Manchester Utd,ch,eng,0.0,3.0,1.0
+15,2018-09-19,Viktoria Plzeň,CSKA Moscow,cz,ru,2.0,2.0,0.5
+17,2018-10-02,Hoffenheim,Manchester City,de,eng,1.0,2.0,1.0
+18,2018-10-02,Juventus,Young Boys,it,ch,3.0,0.0,0.0
+19,2018-10-02,Manchester Utd,Valencia,eng,es,0.0,0.0,0.5
+20,2018-10-02,Bayern Munich,Ajax,de,nl,1.0,1.0,0.5
+21,2018-10-02,Lyon,Shakhtar,fr,ua,2.0,2.0,0.5
+22,2018-10-02,Roma,Viktoria Plzeň,it,cz,5.0,0.0,0.0
+23,2018-10-02,CSKA Moscow,Real Madrid,ru,es,1.0,0.0,0.0
+24,2018-10-02,AEK Athens,Benfica,gr,pt,2.0,3.0,1.0
+25,2018-10-03,Paris S-G,Red Star,fr,rs,6.0,1.0,0.0
+26,2018-10-03,Loko Moscow,Schalke 04,ru,de,0.0,1.0,1.0
+27,2018-10-03,Porto,Galatasaray,pt,tr,1.0,0.0,0.0
+28,2018-10-03,Tottenham,Barcelona,eng,es,2.0,4.0,1.0
+29,2018-10-03,Dortmund,Monaco,de,fr,3.0,0.0,0.0
+30,2018-10-03,PSV Eindhoven,Inter,nl,it,1.0,2.0,1.0
+31,2018-10-03,Napoli,Liverpool,it,eng,1.0,0.0,0.0
+32,2018-10-03,Atlético Madrid,Club Brugge,es,be,3.0,1.0,0.0
+34,2018-10-23,Young Boys,Valencia,ch,es,1.0,1.0,0.5
+35,2018-10-23,AEK Athens,Bayern Munich,gr,de,0.0,2.0,1.0
+36,2018-10-23,Manchester Utd,Juventus,eng,it,0.0,1.0,1.0
+37,2018-10-23,Real Madrid,Viktoria Plzeň,es,cz,2.0,1.0,0.0
+38,2018-10-23,Roma,CSKA Moscow,it,ru,3.0,0.0,0.0
+39,2018-10-23,Hoffenheim,Lyon,de,fr,3.0,3.0,0.5
+40,2018-10-23,Ajax,Benfica,nl,pt,1.0,0.0,0.0
+41,2018-10-23,Shakhtar,Manchester City,ua,eng,0.0,3.0,1.0
+42,2018-10-24,Club Brugge,Monaco,be,fr,1.0,1.0,0.5
+43,2018-10-24,PSV Eindhoven,Tottenham,nl,eng,2.0,2.0,0.5
+44,2018-10-24,Liverpool,Red Star,eng,rs,4.0,0.0,0.0
+45,2018-10-24,Barcelona,Inter,es,it,2.0,0.0,0.0
+46,2018-10-24,Paris S-G,Napoli,fr,it,2.0,2.0,0.5
+47,2018-10-24,Dortmund,Atlético Madrid,de,es,4.0,0.0,0.0
+48,2018-10-24,Loko Moscow,Porto,ru,pt,1.0,3.0,1.0
+49,2018-10-24,Galatasaray,Schalke 04,tr,de,0.0,0.0,0.5
+51,2018-11-06,Red Star,Liverpool,rs,eng,2.0,0.0,0.0
+52,2018-11-06,Monaco,Club Brugge,fr,be,0.0,4.0,1.0
+53,2018-11-06,Porto,Loko Moscow,pt,ru,4.0,1.0,0.0
+54,2018-11-06,Tottenham,PSV Eindhoven,eng,nl,2.0,1.0,0.0
+55,2018-11-06,Napoli,Paris S-G,it,fr,1.0,1.0,0.5
+56,2018-11-06,Schalke 04,Galatasaray,de,tr,2.0,0.0,0.0
+57,2018-11-06,Atlético Madrid,Dortmund,es,de,2.0,0.0,0.0
+58,2018-11-06,Inter,Barcelona,it,es,1.0,1.0,0.5
+59,2018-11-07,Valencia,Young Boys,es,ch,3.0,1.0,0.0
+60,2018-11-07,Benfica,Ajax,pt,nl,1.0,1.0,0.5
+61,2018-11-07,Manchester City,Shakhtar,eng,ua,6.0,0.0,0.0
+62,2018-11-07,CSKA Moscow,Roma,ru,it,1.0,2.0,1.0
+63,2018-11-07,Viktoria Plzeň,Real Madrid,cz,es,0.0,5.0,1.0
+64,2018-11-07,Bayern Munich,AEK Athens,de,gr,2.0,0.0,0.0
+65,2018-11-07,Lyon,Hoffenheim,fr,de,2.0,2.0,0.5
+66,2018-11-07,Juventus,Manchester Utd,it,eng,1.0,2.0,1.0
+68,2018-11-27,AEK Athens,Ajax,gr,nl,0.0,2.0,1.0
+69,2018-11-27,Manchester Utd,Young Boys,eng,ch,1.0,0.0,0.0
+70,2018-11-27,CSKA Moscow,Viktoria Plzeň,ru,cz,1.0,2.0,1.0
+71,2018-11-27,Roma,Real Madrid,it,es,0.0,2.0,1.0
+72,2018-11-27,Juventus,Valencia,it,es,1.0,0.0,0.0
+73,2018-11-27,Lyon,Manchester City,fr,eng,2.0,2.0,0.5
+74,2018-11-27,Hoffenheim,Shakhtar,de,ua,2.0,3.0,1.0
+75,2018-11-27,Bayern Munich,Benfica,de,pt,5.0,1.0,0.0
+76,2018-11-28,Atlético Madrid,Monaco,es,fr,2.0,0.0,0.0
+77,2018-11-28,Tottenham,Inter,eng,it,1.0,0.0,0.0
+78,2018-11-28,Porto,Schalke 04,pt,de,3.0,1.0,0.0
+79,2018-11-28,Loko Moscow,Galatasaray,ru,tr,2.0,0.0,0.0
+80,2018-11-28,Paris S-G,Liverpool,fr,eng,2.0,1.0,0.0
+81,2018-11-28,Dortmund,Club Brugge,de,be,0.0,0.0,0.5
+82,2018-11-28,Napoli,Red Star,it,rs,3.0,1.0,0.0
+83,2018-11-28,PSV Eindhoven,Barcelona,nl,es,1.0,2.0,1.0
+85,2018-12-11,Schalke 04,Loko Moscow,de,ru,1.0,0.0,0.0
+86,2018-12-11,Liverpool,Napoli,eng,it,1.0,0.0,0.0
+87,2018-12-11,Galatasaray,Porto,tr,pt,2.0,3.0,1.0
+88,2018-12-11,Red Star,Paris S-G,rs,fr,1.0,4.0,1.0
+89,2018-12-11,Monaco,Dortmund,fr,de,0.0,2.0,1.0
+90,2018-12-11,Club Brugge,Atlético Madrid,be,es,0.0,0.0,0.5
+91,2018-12-11,Barcelona,Tottenham,es,eng,1.0,1.0,0.5
+92,2018-12-11,Inter,PSV Eindhoven,it,nl,1.0,1.0,0.5
+93,2018-12-12,Viktoria Plzeň,Roma,cz,it,2.0,1.0,0.0
+94,2018-12-12,Real Madrid,CSKA Moscow,es,ru,0.0,3.0,1.0
+95,2018-12-12,Manchester City,Hoffenheim,eng,de,2.0,1.0,0.0
+96,2018-12-12,Benfica,AEK Athens,pt,gr,1.0,0.0,0.0
+97,2018-12-12,Valencia,Manchester Utd,es,eng,2.0,1.0,0.0
+98,2018-12-12,Young Boys,Juventus,ch,it,2.0,1.0,0.0
+99,2018-12-12,Ajax,Bayern Munich,nl,de,3.0,3.0,0.5
+100,2018-12-12,Shakhtar,Lyon,ua,fr,1.0,1.0,0.5
+102,2019-02-12,Manchester Utd,Paris S-G,eng,fr,0.0,2.0,1.0
+103,2019-02-12,Roma,Porto,it,pt,2.0,1.0,0.0
+104,2019-02-13,Tottenham,Dortmund,eng,de,3.0,0.0,0.0
+105,2019-02-13,Ajax,Real Madrid,nl,es,1.0,2.0,1.0
+106,2019-02-19,Liverpool,Bayern Munich,eng,de,0.0,0.0,0.5
+107,2019-02-19,Lyon,Barcelona,fr,es,0.0,0.0,0.5
+108,2019-02-20,Schalke 04,Manchester City,de,eng,2.0,3.0,1.0
+109,2019-02-20,Atlético Madrid,Juventus,es,it,2.0,0.0,0.0
+110,2019-03-05,Real Madrid,Ajax,es,nl,1.0,4.0,1.0
+111,2019-03-05,Dortmund,Tottenham,de,eng,0.0,1.0,1.0
+112,2019-03-06,Porto,Roma,pt,it,3.0,1.0,0.0
+113,2019-03-06,Paris S-G,Manchester Utd,fr,eng,1.0,3.0,1.0
+114,2019-03-12,Manchester City,Schalke 04,eng,de,7.0,0.0,0.0
+115,2019-03-12,Juventus,Atlético Madrid,it,es,3.0,0.0,0.0
+116,2019-03-13,Barcelona,Lyon,es,fr,5.0,1.0,0.0
+117,2019-03-13,Bayern Munich,Liverpool,de,eng,1.0,3.0,1.0
+118,2019-04-09,Liverpool,Porto,eng,pt,2.0,0.0,0.0
+119,2019-04-09,Tottenham,Manchester City,eng,eng,1.0,0.0,0.0
+120,2019-04-10,Manchester Utd,Barcelona,eng,es,0.0,1.0,1.0
+121,2019-04-10,Ajax,Juventus,nl,it,1.0,1.0,0.5
+122,2019-04-16,Juventus,Ajax,it,nl,1.0,2.0,1.0
+123,2019-04-16,Barcelona,Manchester Utd,es,eng,3.0,0.0,0.0
+124,2019-04-17,Porto,Liverpool,pt,eng,1.0,4.0,1.0
+125,2019-04-17,Manchester City,Tottenham,eng,eng,4.0,3.0,0.0
+126,2019-04-30,Tottenham,Ajax,eng,nl,0.0,1.0,1.0
+127,2019-05-01,Barcelona,Liverpool,es,eng,3.0,0.0,0.0
+128,2019-05-07,Liverpool,Barcelona,eng,es,4.0,0.0,0.0
+129,2019-05-08,Ajax,Tottenham,nl,eng,2.0,3.0,1.0
+130,2019-06-01,Tottenham,Liverpool,eng,eng,0.0,2.0,1.0

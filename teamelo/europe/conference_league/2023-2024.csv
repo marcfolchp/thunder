@@ -1,0 +1,142 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2023-09-20,Lille,Olimpija,fr,si,2.0,0.0,0.0
+1,2023-09-21,Legia Warsaw,Aston Villa,pl,eng,3.0,2.0,0.0
+2,2023-09-21,Zrinjski Mostar,AZ Alkmaar,ba,nl,4.0,3.0,0.0
+3,2023-09-21,Genk,Fiorentina,be,it,2.0,2.0,0.5
+4,2023-09-21,Ferencváros,Čukarički,hu,rs,3.0,1.0,0.0
+5,2023-09-21,Eint Frankfurt,Aberdeen,de,sct,2.0,1.0,0.0
+6,2023-09-21,HJK,PAOK,fi,gr,2.0,3.0,1.0
+7,2023-09-21,Ludogorets,Spartak Trnava,bg,sk,4.0,0.0,0.0
+8,2023-09-21,Fenerbahçe,Nordsjælland,tr,dk,3.0,1.0,0.0
+9,2023-09-21,Club Brugge,Beşiktaş,be,tr,1.0,1.0,0.5
+10,2023-09-21,Dinamo Zagreb,Astana FK,hr,kz,5.0,1.0,0.0
+11,2023-09-21,Lugano,Bodø/Glimt,ch,no,0.0,0.0,0.5
+12,2023-09-21,Viktoria Plzeň,KF Ballkani Therandë,cz,xk,1.0,0.0,0.0
+13,2023-09-21,Slovan Bratislava,KÍ,sk,fo,2.0,1.0,0.0
+14,2023-09-21,Zorya Luhansk,Gent,ua,be,1.0,1.0,0.5
+15,2023-09-21,Maccabi Tel Aviv,Breiðablik,il,is,3.0,2.0,0.0
+17,2023-10-05,Breiðablik,Zorya Luhansk,is,ua,0.0,1.0,1.0
+18,2023-10-05,KÍ,Lille,fo,fr,0.0,0.0,0.5
+19,2023-10-05,Gent,Maccabi Tel Aviv,be,il,2.0,0.0,0.0
+20,2023-10-05,KF Ballkani Therandë,Dinamo Zagreb,xk,hr,2.0,0.0,0.0
+21,2023-10-05,Bodø/Glimt,Club Brugge,no,be,0.0,1.0,1.0
+22,2023-10-05,Olimpija,Slovan Bratislava,si,sk,0.0,1.0,1.0
+23,2023-10-05,Beşiktaş,Lugano,tr,ch,2.0,3.0,1.0
+24,2023-10-05,Aston Villa,Zrinjski Mostar,eng,ba,1.0,0.0,0.0
+25,2023-10-05,Aberdeen,HJK,sct,fi,1.0,1.0,0.5
+26,2023-10-05,Astana FK,Viktoria Plzeň,kz,cz,1.0,2.0,1.0
+27,2023-10-05,Nordsjælland,Ludogorets,dk,bg,7.0,1.0,0.0
+28,2023-10-05,AZ Alkmaar,Legia Warsaw,nl,pl,1.0,0.0,0.0
+29,2023-10-05,Fiorentina,Ferencváros,it,hu,2.0,2.0,0.5
+30,2023-10-05,Spartak Trnava,Fenerbahçe,sk,tr,1.0,2.0,1.0
+31,2023-10-05,Čukarički,Genk,rs,be,0.0,2.0,1.0
+32,2023-10-05,PAOK,Eint Frankfurt,gr,de,2.0,1.0,0.0
+34,2023-10-26,KÍ,Olimpija,fo,si,3.0,0.0,0.0
+35,2023-10-26,Lille,Slovan Bratislava,fr,sk,2.0,1.0,0.0
+36,2023-10-26,Lugano,Club Brugge,ch,be,1.0,3.0,1.0
+37,2023-10-26,AZ Alkmaar,Aston Villa,nl,eng,1.0,4.0,1.0
+38,2023-10-26,KF Ballkani Therandë,Astana FK,xk,kz,1.0,2.0,1.0
+39,2023-10-26,Gent,Breiðablik,be,is,5.0,0.0,0.0
+40,2023-10-26,Fenerbahçe,Ludogorets,tr,bg,3.0,1.0,0.0
+41,2023-10-26,Aberdeen,PAOK,sct,gr,2.0,3.0,1.0
+42,2023-10-26,Genk,Ferencváros,be,hu,0.0,0.0,0.5
+43,2023-10-26,Eint Frankfurt,HJK,de,fi,6.0,0.0,0.0
+44,2023-10-26,Dinamo Zagreb,Viktoria Plzeň,hr,cz,0.0,1.0,1.0
+45,2023-10-26,Bodø/Glimt,Beşiktaş,no,tr,3.0,1.0,0.0
+46,2023-10-26,Spartak Trnava,Nordsjælland,sk,dk,0.0,2.0,1.0
+47,2023-10-26,Fiorentina,Čukarički,it,rs,6.0,0.0,0.0
+48,2023-10-26,Zrinjski Mostar,Legia Warsaw,ba,pl,1.0,2.0,1.0
+50,2023-11-09,Viktoria Plzeň,Dinamo Zagreb,cz,hr,1.0,0.0,0.0
+51,2023-11-09,Legia Warsaw,Zrinjski Mostar,pl,ba,2.0,0.0,0.0
+52,2023-11-09,Ferencváros,Genk,hu,be,1.0,1.0,0.5
+53,2023-11-09,Nordsjælland,Spartak Trnava,dk,sk,1.0,1.0,0.5
+54,2023-11-09,Čukarički,Fiorentina,rs,it,0.0,1.0,1.0
+55,2023-11-09,HJK,Eint Frankfurt,fi,de,0.0,1.0,1.0
+56,2023-11-09,PAOK,Aberdeen,gr,sct,2.0,2.0,0.5
+57,2023-11-09,Aston Villa,AZ Alkmaar,eng,nl,2.0,1.0,0.0
+58,2023-11-09,Breiðablik,Gent,is,be,2.0,3.0,1.0
+59,2023-11-09,Beşiktaş,Bodø/Glimt,tr,no,1.0,2.0,1.0
+60,2023-11-09,Slovan Bratislava,Lille,sk,fr,1.0,1.0,0.5
+61,2023-11-09,Olimpija,KÍ,si,fo,2.0,0.0,0.0
+62,2023-11-09,Club Brugge,Lugano,be,ch,2.0,0.0,0.0
+63,2023-11-09,Astana FK,KF Ballkani Therandë,kz,xk,0.0,0.0,0.5
+64,2023-11-09,Zorya Luhansk,Maccabi Tel Aviv,ua,il,1.0,3.0,1.0
+65,2023-11-09,Ludogorets,Fenerbahçe,bg,tr,2.0,0.0,0.0
+67,2023-11-25,Maccabi Tel Aviv,Zorya Luhansk,il,ua,3.0,2.0,0.0
+69,2023-11-30,Breiðablik,Maccabi Tel Aviv,is,il,1.0,2.0,1.0
+70,2023-11-30,KÍ,Slovan Bratislava,fo,sk,1.0,2.0,1.0
+71,2023-11-30,Bodø/Glimt,Lugano,no,ch,5.0,2.0,0.0
+72,2023-11-30,KF Ballkani Therandë,Viktoria Plzeň,xk,cz,0.0,1.0,1.0
+73,2023-11-30,Gent,Zorya Luhansk,be,ua,4.0,1.0,0.0
+74,2023-11-30,Olimpija,Lille,si,fr,0.0,2.0,1.0
+75,2023-11-30,AZ Alkmaar,Zrinjski Mostar,nl,ba,1.0,0.0,0.0
+76,2023-11-30,HJK,Aberdeen,fi,sct,2.0,2.0,0.5
+77,2023-11-30,Aston Villa,Legia Warsaw,eng,pl,2.0,1.0,0.0
+78,2023-11-30,Beşiktaş,Club Brugge,tr,be,0.0,5.0,1.0
+79,2023-11-30,Spartak Trnava,Ludogorets,sk,bg,1.0,2.0,1.0
+80,2023-11-30,Fiorentina,Genk,it,be,2.0,1.0,0.0
+81,2023-11-30,Čukarički,Ferencváros,rs,hu,1.0,2.0,1.0
+82,2023-11-30,Nordsjælland,Fenerbahçe,dk,tr,6.0,1.0,0.0
+83,2023-11-30,Eint Frankfurt,PAOK,de,gr,1.0,2.0,1.0
+84,2023-11-30,Astana FK,Dinamo Zagreb,kz,hr,0.0,2.0,1.0
+86,2023-12-14,Aberdeen,Eint Frankfurt,sct,de,2.0,0.0,0.0
+87,2023-12-14,Genk,Čukarički,be,rs,2.0,0.0,0.0
+88,2023-12-14,Zrinjski Mostar,Aston Villa,ba,eng,1.0,1.0,0.5
+89,2023-12-14,Legia Warsaw,AZ Alkmaar,pl,nl,2.0,0.0,0.0
+90,2023-12-14,Ferencváros,Fiorentina,hu,it,1.0,1.0,0.5
+91,2023-12-14,PAOK,HJK,gr,fi,4.0,2.0,0.0
+92,2023-12-14,Ludogorets,Nordsjælland,bg,dk,1.0,0.0,0.0
+93,2023-12-14,Fenerbahçe,Spartak Trnava,tr,sk,4.0,0.0,0.0
+94,2023-12-14,Club Brugge,Bodø/Glimt,be,no,3.0,1.0,0.0
+95,2023-12-14,Lugano,Beşiktaş,ch,tr,0.0,2.0,1.0
+96,2023-12-14,Lille,KÍ,fr,fo,3.0,0.0,0.0
+97,2023-12-14,Viktoria Plzeň,Astana FK,cz,kz,3.0,0.0,0.0
+98,2023-12-14,Dinamo Zagreb,KF Ballkani Therandë,hr,xk,3.0,0.0,0.0
+99,2023-12-14,Slovan Bratislava,Olimpija,sk,si,1.0,2.0,1.0
+100,2023-12-14,Maccabi Tel Aviv,Gent,il,be,3.0,1.0,0.0
+101,2023-12-14,Zorya Luhansk,Breiðablik,ua,is,4.0,0.0,0.0
+103,2024-02-15,Union SG,Eint Frankfurt,be,de,2.0,2.0,0.5
+104,2024-02-15,Sturm Graz,Slovan Bratislava,at,sk,4.0,1.0,0.0
+105,2024-02-15,Molde,Legia Warsaw,no,pl,3.0,2.0,0.0
+106,2024-02-15,Olympiacos,Ferencváros,gr,hu,1.0,0.0,0.0
+107,2024-02-15,Betis,Dinamo Zagreb,es,hr,0.0,1.0,1.0
+108,2024-02-15,Servette FC,Ludogorets,ch,bg,0.0,0.0,0.5
+109,2024-02-15,Ajax,Bodø/Glimt,nl,no,2.0,2.0,0.5
+110,2024-02-15,Maccabi Haifa,Gent,il,be,1.0,0.0,0.0
+111,2024-02-21,Gent,Maccabi Haifa,be,il,1.0,1.0,0.5
+112,2024-02-22,Dinamo Zagreb,Betis,hr,es,1.0,1.0,0.5
+113,2024-02-22,Bodø/Glimt,Ajax,no,nl,1.0,2.0,1.0
+114,2024-02-22,Ludogorets,Servette FC,bg,ch,0.0,1.0,1.0
+115,2024-02-22,Slovan Bratislava,Sturm Graz,sk,at,0.0,1.0,1.0
+116,2024-02-22,Legia Warsaw,Molde,pl,no,0.0,3.0,1.0
+117,2024-02-22,Eint Frankfurt,Union SG,de,be,1.0,2.0,1.0
+118,2024-02-22,Ferencváros,Olympiacos,hu,gr,0.0,1.0,1.0
+119,2024-03-07,Sturm Graz,Lille,at,fr,0.0,3.0,1.0
+120,2024-03-07,Molde,Club Brugge,no,be,2.0,1.0,0.0
+121,2024-03-07,Ajax,Aston Villa,nl,eng,0.0,0.0,0.5
+122,2024-03-07,Olympiacos,Maccabi Tel Aviv,gr,il,1.0,4.0,1.0
+123,2024-03-07,Dinamo Zagreb,PAOK,hr,gr,2.0,0.0,0.0
+124,2024-03-07,Servette FC,Viktoria Plzeň,ch,cz,0.0,0.0,0.5
+125,2024-03-07,Maccabi Haifa,Fiorentina,il,it,3.0,4.0,1.0
+126,2024-03-07,Union SG,Fenerbahçe,be,tr,0.0,3.0,1.0
+127,2024-03-14,Viktoria Plzeň,Servette FC,cz,ch,0.0,0.0,0.5
+128,2024-03-14,Fiorentina,Maccabi Haifa,it,il,1.0,1.0,0.5
+129,2024-03-14,PAOK,Dinamo Zagreb,gr,hr,5.0,1.0,0.0
+130,2024-03-14,Aston Villa,Ajax,eng,nl,4.0,0.0,0.0
+131,2024-03-14,Fenerbahçe,Union SG,tr,be,0.0,1.0,1.0
+132,2024-03-14,Lille,Sturm Graz,fr,at,1.0,1.0,0.5
+133,2024-03-14,Club Brugge,Molde,be,no,3.0,0.0,0.0
+134,2024-03-14,Maccabi Tel Aviv,Olympiacos,il,gr,1.0,6.0,1.0
+135,2024-04-11,Viktoria Plzeň,Fiorentina,cz,it,0.0,0.0,0.5
+136,2024-04-11,Olympiacos,Fenerbahçe,gr,tr,3.0,2.0,0.0
+137,2024-04-11,Aston Villa,Lille,eng,fr,2.0,1.0,0.0
+138,2024-04-11,Club Brugge,PAOK,be,gr,1.0,0.0,0.0
+139,2024-04-18,Fiorentina,Viktoria Plzeň,it,cz,2.0,0.0,0.0
+140,2024-04-18,Lille,Aston Villa,fr,eng,2.0,1.0,0.0
+141,2024-04-18,Fenerbahçe,Olympiacos,tr,gr,1.0,0.0,0.0
+142,2024-04-18,PAOK,Club Brugge,gr,be,0.0,2.0,1.0
+143,2024-05-02,Aston Villa,Olympiacos,eng,gr,2.0,4.0,1.0
+144,2024-05-02,Fiorentina,Club Brugge,it,be,3.0,2.0,0.0
+145,2024-05-08,Club Brugge,Fiorentina,be,it,1.0,1.0,0.5
+146,2024-05-09,Olympiacos,Aston Villa,gr,eng,2.0,0.0,0.0
+147,2024-05-29,Olympiacos,Fiorentina,gr,it,1.0,0.0,0.0

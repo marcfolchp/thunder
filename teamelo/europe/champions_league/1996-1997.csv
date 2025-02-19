@@ -1,0 +1,62 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1996-09-11,Juventus,Manchester Utd,it,eng,1.0,0.0,0.0
+1,1996-09-11,Atlético Madrid,Steaua,es,ro,4.0,0.0,0.0
+2,1996-09-11,Dortmund,Widzew Łódź,de,pl,2.0,1.0,0.0
+3,1996-09-11,Rapid Wien,Fenerbahçe,at,tr,1.0,1.0,0.5
+4,1996-09-11,Grasshopper,Rangers,ch,sct,3.0,0.0,0.0
+5,1996-09-11,Milan,Porto,it,pt,2.0,3.0,1.0
+6,1996-09-11,Göteborg,Rosenborg,se,no,2.0,3.0,1.0
+7,1996-09-11,Auxerre,Ajax,fr,nl,0.0,1.0,1.0
+9,1996-09-25,Ajax,Grasshopper,nl,ch,0.0,1.0,1.0
+10,1996-09-25,Rosenborg,Milan,no,it,1.0,4.0,1.0
+11,1996-09-25,Rangers,Auxerre,sct,fr,1.0,2.0,1.0
+12,1996-09-25,Manchester Utd,Rapid Wien,eng,at,2.0,0.0,0.0
+13,1996-09-25,Steaua,Dortmund,ro,de,0.0,3.0,1.0
+14,1996-09-25,Widzew Łódź,Atlético Madrid,pl,es,1.0,4.0,1.0
+15,1996-09-25,Porto,Göteborg,pt,se,2.0,1.0,0.0
+16,1996-09-25,Fenerbahçe,Juventus,tr,it,0.0,1.0,1.0
+18,1996-10-16,Ajax,Rangers,nl,sct,4.0,1.0,0.0
+19,1996-10-16,Rosenborg,Porto,no,pt,0.0,1.0,1.0
+20,1996-10-16,Rapid Wien,Juventus,at,it,1.0,1.0,0.5
+21,1996-10-16,Auxerre,Grasshopper,fr,ch,1.0,0.0,0.0
+22,1996-10-16,Fenerbahçe,Manchester Utd,tr,eng,0.0,2.0,1.0
+23,1996-10-16,Göteborg,Milan,se,it,2.0,1.0,0.0
+24,1996-10-16,Steaua,Widzew Łódź,ro,pl,1.0,0.0,0.0
+25,1996-10-16,Atlético Madrid,Dortmund,es,de,0.0,1.0,1.0
+27,1996-10-30,Rangers,Ajax,sct,nl,0.0,1.0,1.0
+28,1996-10-30,Manchester Utd,Fenerbahçe,eng,tr,0.0,1.0,1.0
+29,1996-10-30,Juventus,Rapid Wien,it,at,5.0,0.0,0.0
+30,1996-10-30,Grasshopper,Auxerre,ch,fr,3.0,1.0,0.0
+31,1996-10-30,Widzew Łódź,Steaua,pl,ro,2.0,0.0,0.0
+32,1996-10-30,Porto,Rosenborg,pt,no,3.0,0.0,0.0
+33,1996-10-30,Milan,Göteborg,it,se,4.0,2.0,0.0
+34,1996-10-30,Dortmund,Atlético Madrid,de,es,1.0,2.0,1.0
+36,1996-11-20,Widzew Łódź,Dortmund,pl,de,2.0,2.0,0.5
+37,1996-11-20,Manchester Utd,Juventus,eng,it,0.0,1.0,1.0
+38,1996-11-20,Steaua,Atlético Madrid,ro,es,1.0,1.0,0.5
+39,1996-11-20,Porto,Milan,pt,it,1.0,1.0,0.5
+40,1996-11-20,Rangers,Grasshopper,sct,ch,2.0,1.0,0.0
+41,1996-11-20,Fenerbahçe,Rapid Wien,tr,at,1.0,0.0,0.0
+42,1996-11-20,Rosenborg,Göteborg,no,se,1.0,0.0,0.0
+43,1996-11-20,Ajax,Auxerre,nl,fr,1.0,2.0,1.0
+45,1996-12-04,Milan,Rosenborg,it,no,1.0,2.0,1.0
+46,1996-12-04,Rapid Wien,Manchester Utd,at,eng,0.0,2.0,1.0
+47,1996-12-04,Dortmund,Steaua,de,ro,5.0,3.0,0.0
+48,1996-12-04,Göteborg,Porto,se,pt,0.0,2.0,1.0
+49,1996-12-04,Grasshopper,Ajax,ch,nl,0.0,1.0,1.0
+50,1996-12-04,Atlético Madrid,Widzew Łódź,es,pl,1.0,0.0,0.0
+51,1996-12-04,Auxerre,Rangers,fr,sct,2.0,1.0,0.0
+52,1996-12-04,Juventus,Fenerbahçe,it,tr,2.0,0.0,0.0
+54,1997-03-05,Manchester Utd,Porto,eng,pt,4.0,0.0,0.0
+55,1997-03-05,Ajax,Atlético Madrid,nl,es,1.0,1.0,0.5
+56,1997-03-05,Dortmund,Auxerre,de,fr,3.0,1.0,0.0
+57,1997-03-05,Rosenborg,Juventus,no,it,1.0,1.0,0.5
+58,1997-03-19,Auxerre,Dortmund,fr,de,0.0,1.0,1.0
+59,1997-03-19,Atlético Madrid,Ajax,es,nl,2.0,3.0,1.0
+60,1997-03-19,Porto,Manchester Utd,pt,eng,0.0,0.0,0.5
+61,1997-03-19,Juventus,Rosenborg,it,no,2.0,0.0,0.0
+62,1997-04-09,Ajax,Juventus,nl,it,1.0,2.0,1.0
+63,1997-04-09,Dortmund,Manchester Utd,de,eng,1.0,0.0,0.0
+64,1997-04-23,Manchester Utd,Dortmund,eng,de,0.0,1.0,1.0
+65,1997-04-23,Juventus,Ajax,it,nl,4.0,1.0,0.0
+66,1997-05-28,Dortmund,Juventus,de,it,3.0,1.0,0.0

@@ -1,0 +1,206 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2013-09-19,Zulte Waregem,Wigan Athletic,be,eng,0.0,0.0,0.5
+1,2013-09-19,Fiorentina,Paços,it,pt,3.0,0.0,0.0
+2,2013-09-19,PSV Eindhoven,Ludogorets,nl,bg,0.0,2.0,1.0
+3,2013-09-19,Maccabi Haifa,AZ Alkmaar,il,nl,0.0,1.0,1.0
+4,2013-09-19,Dynamo Kyiv,Genk,ua,be,0.0,1.0,1.0
+5,2013-09-19,Freiburg,Slovan Liberec,de,cz,2.0,2.0,0.5
+6,2013-09-19,Maccabi Tel Aviv,APOEL FC,il,cy,0.0,0.0,0.5
+7,2013-09-19,PAOK,Shakhter,gr,kz,2.0,1.0,0.0
+8,2013-09-19,Lazio,Legia Warsaw,it,pl,1.0,0.0,0.0
+9,2013-09-19,Eint Frankfurt,Bordeaux,de,fr,3.0,0.0,0.0
+10,2013-09-19,RB Salzburg,Elfsborg,at,se,4.0,0.0,0.0
+11,2013-09-19,Thun,Rapid Wien,ch,at,1.0,0.0,0.0
+12,2013-09-19,Apollon Limassol,Trabzonspor,cy,tr,1.0,2.0,1.0
+13,2013-09-19,Valencia,Swansea City,es,eng,0.0,3.0,1.0
+14,2013-09-19,Pandurii,Dnipro,ro,ua,0.0,1.0,1.0
+15,2013-09-19,Betis,Lyon,es,fr,0.0,0.0,0.5
+16,2013-09-19,Vitória,Rijeka,pt,hr,4.0,0.0,0.0
+17,2013-09-19,NK Maribor,Rubin Kazan,si,ru,2.0,5.0,1.0
+18,2013-09-19,Tottenham,Tromsø,eng,no,3.0,0.0,0.0
+19,2013-09-19,Dinamo Zagreb,Chornomorets,hr,ua,1.0,2.0,1.0
+20,2013-09-19,St. Gallen,Kuban,ch,ru,2.0,0.0,0.0
+21,2013-09-19,Estoril,Sevilla,pt,es,1.0,2.0,1.0
+22,2013-09-19,Sheriff Tiraspol,Anzhi,md,ru,0.0,0.0,0.5
+23,2013-09-19,Standard Liège,Esbjerg,be,dk,1.0,2.0,1.0
+25,2013-10-03,Tromsø,Sheriff Tiraspol,no,md,1.0,1.0,0.5
+26,2013-10-03,Rubin Kazan,Zulte Waregem,ru,be,4.0,0.0,0.0
+27,2013-10-03,Kuban,Valencia,ru,es,0.0,2.0,1.0
+28,2013-10-03,Sevilla,Freiburg,es,de,2.0,0.0,0.0
+29,2013-10-03,Esbjerg,RB Salzburg,dk,at,1.0,2.0,1.0
+30,2013-10-03,Chornomorets,PSV Eindhoven,ua,nl,0.0,2.0,1.0
+31,2013-10-03,Rijeka,Betis,hr,es,1.0,1.0,0.5
+32,2013-10-03,Lyon,Vitória,fr,pt,1.0,1.0,0.5
+33,2013-10-03,APOEL FC,Eint Frankfurt,cy,de,0.0,3.0,1.0
+34,2013-10-03,Anzhi,Tottenham,ru,eng,0.0,2.0,1.0
+35,2013-10-03,Legia Warsaw,Apollon Limassol,pl,cy,0.0,1.0,1.0
+36,2013-10-03,Shakhter,Maccabi Haifa,kz,il,2.0,2.0,0.5
+37,2013-10-03,Rapid Wien,Dynamo Kyiv,at,ua,2.0,2.0,0.5
+38,2013-10-03,Paços,Pandurii,pt,ro,1.0,1.0,0.5
+39,2013-10-03,Elfsborg,Standard Liège,se,be,1.0,1.0,0.5
+40,2013-10-03,Swansea City,St. Gallen,eng,ch,1.0,0.0,0.0
+41,2013-10-03,AZ Alkmaar,PAOK,nl,gr,1.0,1.0,0.5
+42,2013-10-03,Wigan Athletic,NK Maribor,eng,si,3.0,1.0,0.0
+43,2013-10-03,Trabzonspor,Lazio,tr,it,3.0,3.0,0.5
+44,2013-10-03,Ludogorets,Dinamo Zagreb,bg,hr,3.0,0.0,0.0
+45,2013-10-03,Dnipro,Fiorentina,ua,it,1.0,2.0,1.0
+46,2013-10-03,Genk,Thun,be,ch,2.0,1.0,0.0
+47,2013-10-03,Bordeaux,Maccabi Tel Aviv,fr,il,1.0,2.0,1.0
+48,2013-10-03,Slovan Liberec,Estoril,cz,pt,2.0,1.0,0.0
+50,2013-10-24,Sheriff Tiraspol,Tottenham,md,eng,0.0,2.0,1.0
+51,2013-10-24,Anzhi,Tromsø,ru,no,1.0,0.0,0.0
+52,2013-10-24,Eint Frankfurt,Maccabi Tel Aviv,de,il,2.0,0.0,0.0
+53,2013-10-24,Paços,Dnipro,pt,ua,0.0,2.0,1.0
+54,2013-10-24,Valencia,St. Gallen,es,ch,5.0,1.0,0.0
+55,2013-10-24,Shakhter,AZ Alkmaar,kz,nl,1.0,1.0,0.5
+56,2013-10-24,Betis,Vitória,es,pt,1.0,0.0,0.0
+57,2013-10-24,PAOK,Maccabi Haifa,gr,il,3.0,2.0,0.0
+58,2013-10-24,Dynamo Kyiv,Thun,ua,ch,3.0,0.0,0.0
+59,2013-10-24,Freiburg,Estoril,de,pt,1.0,1.0,0.5
+60,2013-10-24,Bordeaux,APOEL FC,fr,cy,2.0,1.0,0.0
+61,2013-10-24,Genk,Rapid Wien,be,at,1.0,1.0,0.5
+62,2013-10-24,Lyon,Rijeka,fr,hr,1.0,0.0,0.0
+63,2013-10-24,Zulte Waregem,NK Maribor,be,si,1.0,3.0,1.0
+64,2013-10-24,Trabzonspor,Legia Warsaw,tr,pl,2.0,0.0,0.0
+65,2013-10-24,Chornomorets,Ludogorets,ua,bg,0.0,1.0,1.0
+66,2013-10-24,RB Salzburg,Standard Liège,at,be,2.0,1.0,0.0
+67,2013-10-24,Swansea City,Kuban,eng,ru,1.0,1.0,0.5
+68,2013-10-24,Slovan Liberec,Sevilla,cz,es,1.0,1.0,0.5
+69,2013-10-24,Dinamo Zagreb,PSV Eindhoven,hr,nl,0.0,0.0,0.5
+70,2013-10-24,Fiorentina,Pandurii,it,ro,3.0,0.0,0.0
+71,2013-10-24,Apollon Limassol,Lazio,cy,it,0.0,0.0,0.5
+72,2013-10-24,Elfsborg,Esbjerg,se,dk,1.0,2.0,1.0
+73,2013-10-24,Wigan Athletic,Rubin Kazan,eng,ru,1.0,1.0,0.5
+75,2013-11-07,Kuban,Swansea City,ru,eng,1.0,1.0,0.5
+76,2013-11-07,Estoril,Freiburg,pt,de,0.0,0.0,0.5
+77,2013-11-07,Maccabi Tel Aviv,Eint Frankfurt,il,de,4.0,2.0,0.0
+78,2013-11-07,Sevilla,Slovan Liberec,es,cz,1.0,1.0,0.5
+79,2013-11-07,Tottenham,Sheriff Tiraspol,eng,md,2.0,1.0,0.0
+80,2013-11-07,Pandurii,Fiorentina,ro,it,1.0,2.0,1.0
+81,2013-11-07,Thun,Dynamo Kyiv,ch,ua,0.0,2.0,1.0
+82,2013-11-07,APOEL FC,Bordeaux,cy,fr,2.0,1.0,0.0
+83,2013-11-07,Standard Liège,RB Salzburg,be,at,1.0,3.0,1.0
+84,2013-11-07,AZ Alkmaar,Shakhter,nl,kz,1.0,0.0,0.0
+85,2013-11-07,Vitória,Betis,pt,es,0.0,1.0,1.0
+86,2013-11-07,Tromsø,Anzhi,no,ru,0.0,1.0,1.0
+87,2013-11-07,Rubin Kazan,Wigan Athletic,ru,eng,1.0,0.0,0.0
+88,2013-11-07,Rapid Wien,Genk,at,be,2.0,2.0,0.5
+89,2013-11-07,Dnipro,Paços,ua,pt,2.0,0.0,0.0
+90,2013-11-07,St. Gallen,Valencia,ch,es,2.0,3.0,1.0
+91,2013-11-07,PSV Eindhoven,Dinamo Zagreb,nl,hr,2.0,0.0,0.0
+92,2013-11-07,NK Maribor,Zulte Waregem,si,be,0.0,1.0,1.0
+93,2013-11-07,Ludogorets,Chornomorets,bg,ua,1.0,1.0,0.5
+94,2013-11-07,Esbjerg,Elfsborg,dk,se,1.0,0.0,0.0
+95,2013-11-07,Maccabi Haifa,PAOK,il,gr,0.0,0.0,0.5
+96,2013-11-07,Legia Warsaw,Trabzonspor,pl,tr,0.0,2.0,1.0
+97,2013-11-07,Lazio,Apollon Limassol,it,cy,2.0,1.0,0.0
+98,2013-11-07,Rijeka,Lyon,hr,fr,1.0,1.0,0.5
+100,2013-11-28,Dnipro,Pandurii,ua,ro,4.0,1.0,0.0
+101,2013-11-28,Anzhi,Sheriff Tiraspol,ru,md,1.0,1.0,0.5
+102,2013-11-28,Slovan Liberec,Freiburg,cz,de,1.0,2.0,1.0
+103,2013-11-28,Tromsø,Tottenham,no,eng,0.0,2.0,1.0
+104,2013-11-28,Swansea City,Valencia,eng,es,0.0,1.0,1.0
+105,2013-11-28,Trabzonspor,Apollon Limassol,tr,cy,4.0,2.0,0.0
+106,2013-11-28,Legia Warsaw,Lazio,pl,it,0.0,2.0,1.0
+107,2013-11-28,Shakhter,PAOK,kz,gr,0.0,2.0,1.0
+108,2013-11-28,APOEL FC,Maccabi Tel Aviv,cy,il,0.0,0.0,0.5
+109,2013-11-28,Wigan Athletic,Zulte Waregem,eng,be,1.0,2.0,1.0
+110,2013-11-28,Sevilla,Estoril,es,pt,1.0,1.0,0.5
+111,2013-11-28,Rubin Kazan,NK Maribor,ru,si,1.0,1.0,0.5
+112,2013-11-28,Lyon,Betis,fr,es,1.0,0.0,0.0
+113,2013-11-28,Esbjerg,Standard Liège,dk,be,2.0,1.0,0.0
+114,2013-11-28,Chornomorets,Dinamo Zagreb,ua,hr,2.0,1.0,0.0
+115,2013-11-28,Rapid Wien,Thun,at,ch,2.0,1.0,0.0
+116,2013-11-28,AZ Alkmaar,Maccabi Haifa,nl,il,2.0,0.0,0.0
+117,2013-11-28,Kuban,St. Gallen,ru,ch,4.0,0.0,0.0
+118,2013-11-28,Elfsborg,RB Salzburg,se,at,0.0,1.0,1.0
+119,2013-11-28,Bordeaux,Eint Frankfurt,fr,de,0.0,1.0,1.0
+120,2013-11-28,Ludogorets,PSV Eindhoven,bg,nl,2.0,0.0,0.0
+121,2013-11-28,Paços,Fiorentina,pt,it,0.0,0.0,0.5
+122,2013-11-28,Rijeka,Vitória,hr,pt,0.0,0.0,0.5
+123,2013-11-28,Genk,Dynamo Kyiv,be,ua,3.0,1.0,0.0
+125,2013-12-12,Valencia,Kuban,es,ru,1.0,1.0,0.5
+126,2013-12-12,Thun,Genk,ch,be,0.0,1.0,1.0
+127,2013-12-12,Freiburg,Sevilla,de,es,0.0,2.0,1.0
+128,2013-12-12,RB Salzburg,Esbjerg,at,dk,3.0,0.0,0.0
+129,2013-12-12,Dinamo Zagreb,Ludogorets,hr,bg,1.0,2.0,1.0
+130,2013-12-12,Lazio,Trabzonspor,it,tr,0.0,0.0,0.5
+131,2013-12-12,Dynamo Kyiv,Rapid Wien,ua,at,3.0,1.0,0.0
+132,2013-12-12,Estoril,Slovan Liberec,pt,cz,1.0,2.0,1.0
+133,2013-12-12,Sheriff Tiraspol,Tromsø,md,no,2.0,0.0,0.0
+134,2013-12-12,Zulte Waregem,Rubin Kazan,be,ru,0.0,2.0,1.0
+135,2013-12-12,Vitória,Lyon,pt,fr,1.0,2.0,1.0
+136,2013-12-12,PSV Eindhoven,Chornomorets,nl,ua,0.0,1.0,1.0
+137,2013-12-12,Eint Frankfurt,APOEL FC,de,cy,2.0,0.0,0.0
+138,2013-12-12,Fiorentina,Dnipro,it,ua,2.0,1.0,0.0
+139,2013-12-12,Maccabi Tel Aviv,Bordeaux,il,fr,1.0,0.0,0.0
+140,2013-12-12,Standard Liège,Elfsborg,be,se,1.0,3.0,1.0
+141,2013-12-12,Betis,Rijeka,es,hr,0.0,0.0,0.5
+142,2013-12-12,PAOK,AZ Alkmaar,gr,nl,2.0,2.0,0.5
+143,2013-12-12,Maccabi Haifa,Shakhter,il,kz,2.0,1.0,0.0
+144,2013-12-12,NK Maribor,Wigan Athletic,si,eng,2.0,1.0,0.0
+145,2013-12-12,Tottenham,Anzhi,eng,ru,4.0,1.0,0.0
+146,2013-12-12,St. Gallen,Swansea City,ch,eng,1.0,0.0,0.0
+147,2013-12-12,Apollon Limassol,Legia Warsaw,cy,pl,0.0,2.0,1.0
+148,2013-12-12,Pandurii,Paços,ro,pt,0.0,0.0,0.5
+150,2014-02-20,Betis,Rubin Kazan,es,ru,1.0,1.0,0.5
+151,2014-02-20,Ajax,RB Salzburg,nl,at,0.0,3.0,1.0
+152,2014-02-20,Dynamo Kyiv,Valencia,ua,es,0.0,2.0,1.0
+153,2014-02-20,Juventus,Trabzonspor,it,tr,2.0,0.0,0.0
+154,2014-02-20,Porto,Eint Frankfurt,pt,de,2.0,2.0,0.5
+155,2014-02-20,Dnipro,Tottenham,ua,eng,1.0,0.0,0.0
+156,2014-02-20,Esbjerg,Fiorentina,dk,it,1.0,3.0,1.0
+157,2014-02-20,PAOK,Benfica,gr,pt,0.0,1.0,1.0
+158,2014-02-20,NK Maribor,Sevilla,si,es,2.0,2.0,0.5
+159,2014-02-20,Maccabi Tel Aviv,Basel,il,ch,0.0,0.0,0.5
+160,2014-02-20,Lazio,Ludogorets,it,bg,0.0,1.0,1.0
+161,2014-02-20,Chornomorets,Lyon,ua,fr,0.0,0.0,0.5
+162,2014-02-20,Viktoria Plzeň,Shakhtar,cz,ua,1.0,1.0,0.5
+163,2014-02-20,Slovan Liberec,AZ Alkmaar,cz,nl,0.0,1.0,1.0
+164,2014-02-20,Anzhi,Genk,ru,be,0.0,0.0,0.5
+165,2014-02-20,Swansea City,Napoli,eng,it,0.0,0.0,0.5
+166,2014-02-27,Lyon,Chornomorets,fr,ua,1.0,0.0,0.0
+167,2014-02-27,RB Salzburg,Ajax,at,nl,3.0,1.0,0.0
+168,2014-02-27,Benfica,PAOK,pt,gr,3.0,0.0,0.0
+169,2014-02-27,Rubin Kazan,Betis,ru,es,0.0,2.0,1.0
+170,2014-02-27,Ludogorets,Lazio,bg,it,3.0,3.0,0.5
+171,2014-02-27,Eint Frankfurt,Porto,de,pt,3.0,3.0,0.5
+172,2014-02-27,Trabzonspor,Juventus,tr,it,0.0,2.0,1.0
+173,2014-02-27,Shakhtar,Viktoria Plzeň,ua,cz,1.0,2.0,1.0
+174,2014-02-27,Sevilla,NK Maribor,es,si,2.0,1.0,0.0
+175,2014-02-27,Valencia,Dynamo Kyiv,es,ua,0.0,0.0,0.5
+176,2014-02-27,Tottenham,Dnipro,eng,ua,3.0,1.0,0.0
+177,2014-02-27,Fiorentina,Esbjerg,it,dk,1.0,1.0,0.5
+178,2014-02-27,Genk,Anzhi,be,ru,0.0,2.0,1.0
+179,2014-02-27,Basel,Maccabi Tel Aviv,ch,il,3.0,0.0,0.0
+180,2014-02-27,Napoli,Swansea City,it,eng,3.0,1.0,0.0
+181,2014-02-27,AZ Alkmaar,Slovan Liberec,nl,cz,1.0,1.0,0.5
+182,2014-03-13,Porto,Napoli,pt,it,1.0,0.0,0.0
+183,2014-03-13,Tottenham,Benfica,eng,pt,1.0,3.0,1.0
+184,2014-03-13,Ludogorets,Valencia,bg,es,0.0,3.0,1.0
+185,2014-03-13,Lyon,Viktoria Plzeň,fr,cz,4.0,1.0,0.0
+186,2014-03-13,Sevilla,Betis,es,es,0.0,2.0,1.0
+187,2014-03-13,AZ Alkmaar,Anzhi,nl,ru,1.0,0.0,0.0
+188,2014-03-13,Basel,RB Salzburg,ch,at,0.0,0.0,0.5
+189,2014-03-13,Juventus,Fiorentina,it,it,1.0,1.0,0.5
+190,2014-03-20,Valencia,Ludogorets,es,bg,1.0,0.0,0.0
+191,2014-03-20,Fiorentina,Juventus,it,it,0.0,1.0,1.0
+192,2014-03-20,Viktoria Plzeň,Lyon,cz,fr,2.0,1.0,0.0
+193,2014-03-20,Benfica,Tottenham,pt,eng,2.0,2.0,0.5
+194,2014-03-20,RB Salzburg,Basel,at,ch,1.0,2.0,1.0
+195,2014-03-20,Betis,Sevilla,es,es,0.0,2.0,1.0
+196,2014-03-20,Napoli,Porto,it,pt,2.0,2.0,0.5
+197,2014-03-20,Anzhi,AZ Alkmaar,ru,nl,0.0,0.0,0.5
+198,2014-04-03,Porto,Sevilla,pt,es,1.0,0.0,0.0
+199,2014-04-03,Basel,Valencia,ch,es,3.0,0.0,0.0
+200,2014-04-03,AZ Alkmaar,Benfica,nl,pt,0.0,1.0,1.0
+201,2014-04-03,Lyon,Juventus,fr,it,0.0,1.0,1.0
+202,2014-04-10,Sevilla,Porto,es,pt,4.0,1.0,0.0
+203,2014-04-10,Juventus,Lyon,it,fr,2.0,1.0,0.0
+204,2014-04-10,Benfica,AZ Alkmaar,pt,nl,2.0,0.0,0.0
+205,2014-04-10,Valencia,Basel,es,ch,5.0,0.0,0.0
+206,2014-04-24,Sevilla,Valencia,es,es,2.0,0.0,0.0
+207,2014-04-24,Benfica,Juventus,pt,it,2.0,1.0,0.0
+208,2014-05-01,Valencia,Sevilla,es,es,3.0,1.0,0.0
+209,2014-05-01,Juventus,Benfica,it,pt,0.0,0.0,0.5
+210,2014-05-14,Sevilla,Benfica,es,pt,0.0,0.0,0.5

@@ -1,0 +1,206 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2014-09-18,Partizan,Tottenham,rs,eng,0.0,0.0,0.5
+1,2014-09-18,Gladbach,Villarreal,de,es,1.0,1.0,0.5
+2,2014-09-18,PSV Eindhoven,Estoril,nl,pt,1.0,0.0,0.0
+3,2014-09-18,Dinamo Zagreb,Astra Giurgiu,hr,ro,5.0,1.0,0.0
+4,2014-09-18,FC Copenhagen,HJK,dk,fi,2.0,0.0,0.0
+5,2014-09-18,RB Salzburg,Celtic,at,sct,2.0,2.0,0.5
+6,2014-09-18,Club Brugge,Torino,be,it,0.0,0.0,0.5
+7,2014-09-18,Panathinaikos,Dynamo Mosc,gr,ru,1.0,2.0,1.0
+8,2014-09-18,Dnipro,Inter,ua,it,0.0,1.0,1.0
+9,2014-09-18,Apollon Limassol,Zürich,cy,ch,3.0,2.0,0.0
+10,2014-09-18,Beşiktaş,Asteras Tripoli,tr,gr,1.0,1.0,0.5
+11,2014-09-18,Everton,Wolfsburg,eng,de,4.0,1.0,0.0
+12,2014-09-18,Rio Ave,Dynamo Kyiv,pt,ua,0.0,3.0,1.0
+13,2014-09-18,Qarabağ,Saint-Étienne,az,fr,0.0,0.0,0.5
+14,2014-09-18,Young Boys,ŠK Slovan Bratislava,ch,sk,5.0,0.0,0.0
+15,2014-09-18,Napoli,Sparta Prague,it,cz,3.0,1.0,0.0
+16,2014-09-18,Legia Warsaw,Lokeren,pl,be,1.0,0.0,0.0
+17,2014-09-18,Lille,Krasnodar,fr,ru,1.0,1.0,0.5
+18,2014-09-18,Standard Liège,Rijeka,be,hr,2.0,0.0,0.0
+19,2014-09-18,Fiorentina,Guingamp,it,fr,3.0,0.0,0.0
+20,2014-09-18,Sevilla,Feyenoord,es,nl,2.0,0.0,0.0
+21,2014-09-18,Steaua,Aalborg,ro,dk,6.0,0.0,0.0
+22,2014-09-18,Metalist Kharkiv,Trabzonspor,ua,tr,1.0,2.0,1.0
+23,2014-09-18,PAOK,Dinamo Minsk,gr,by,6.0,1.0,0.0
+25,2014-10-02,ŠK Slovan Bratislava,Napoli,sk,it,0.0,2.0,1.0
+26,2014-10-02,Guingamp,PAOK,fr,gr,2.0,0.0,0.0
+27,2014-10-02,Rijeka,Sevilla,hr,es,2.0,2.0,0.5
+28,2014-10-02,Dynamo Mosc,PSV Eindhoven,ru,nl,1.0,0.0,0.0
+29,2014-10-02,Wolfsburg,Lille,de,fr,1.0,1.0,0.5
+30,2014-10-02,Lokeren,Metalist Kharkiv,be,ua,1.0,0.0,0.0
+31,2014-10-02,Feyenoord,Standard Liège,nl,be,2.0,1.0,0.0
+32,2014-10-02,Aalborg,Rio Ave,dk,pt,1.0,0.0,0.0
+33,2014-10-02,Sparta Prague,Young Boys,cz,ch,3.0,1.0,0.0
+34,2014-10-02,Krasnodar,Everton,ru,eng,1.0,1.0,0.5
+35,2014-10-02,Dinamo Minsk,Fiorentina,by,it,0.0,3.0,1.0
+36,2014-10-02,Trabzonspor,Legia Warsaw,tr,pl,0.0,1.0,1.0
+37,2014-10-02,Dynamo Kyiv,Steaua,ua,ro,3.0,1.0,0.0
+38,2014-10-02,Estoril,Panathinaikos,pt,gr,2.0,0.0,0.0
+39,2014-10-02,Tottenham,Beşiktaş,eng,tr,1.0,1.0,0.5
+40,2014-10-02,Celtic,Dinamo Zagreb,sct,hr,1.0,0.0,0.0
+41,2014-10-02,Torino,FC Copenhagen,it,dk,1.0,0.0,0.0
+42,2014-10-02,Villarreal,Apollon Limassol,es,cy,4.0,0.0,0.0
+43,2014-10-02,Inter,Qarabağ,it,az,2.0,0.0,0.0
+44,2014-10-02,Saint-Étienne,Dnipro,fr,ua,0.0,0.0,0.5
+45,2014-10-02,Zürich,Gladbach,ch,de,1.0,1.0,0.5
+46,2014-10-02,Astra Giurgiu,RB Salzburg,ro,at,1.0,2.0,1.0
+47,2014-10-02,HJK,Club Brugge,fi,be,0.0,3.0,1.0
+48,2014-10-02,Asteras Tripoli,Partizan,gr,rs,2.0,0.0,0.0
+50,2014-10-22,Metalist Kharkiv,Legia Warsaw,ua,pl,0.0,1.0,1.0
+51,2014-10-23,ŠK Slovan Bratislava,Sparta Prague,sk,cz,0.0,3.0,1.0
+52,2014-10-23,Aalborg,Dynamo Kyiv,dk,ua,3.0,0.0,0.0
+53,2014-10-23,Young Boys,Napoli,ch,it,2.0,0.0,0.0
+54,2014-10-23,Standard Liège,Sevilla,be,es,0.0,0.0,0.5
+55,2014-10-23,Rijeka,Feyenoord,hr,nl,3.0,1.0,0.0
+56,2014-10-23,Lille,Everton,fr,eng,0.0,0.0,0.5
+57,2014-10-23,PAOK,Fiorentina,gr,it,0.0,1.0,1.0
+58,2014-10-23,Dinamo Minsk,Guingamp,by,fr,0.0,0.0,0.5
+59,2014-10-23,Trabzonspor,Lokeren,tr,be,2.0,0.0,0.0
+60,2014-10-23,Steaua,Rio Ave,ro,pt,2.0,1.0,0.0
+61,2014-10-23,Krasnodar,Wolfsburg,ru,de,2.0,4.0,1.0
+62,2014-10-23,Tottenham,Asteras Tripoli,eng,gr,5.0,1.0,0.0
+63,2014-10-23,Celtic,Astra Giurgiu,sct,ro,2.0,1.0,0.0
+64,2014-10-23,Estoril,Dynamo Mosc,pt,ru,1.0,2.0,1.0
+65,2014-10-23,Inter,Saint-Étienne,it,fr,0.0,0.0,0.5
+66,2014-10-23,Partizan,Beşiktaş,rs,tr,0.0,4.0,1.0
+67,2014-10-23,Torino,HJK,it,fi,2.0,0.0,0.0
+68,2014-10-23,RB Salzburg,Dinamo Zagreb,at,hr,4.0,2.0,0.0
+69,2014-10-23,Club Brugge,FC Copenhagen,be,dk,1.0,1.0,0.5
+70,2014-10-23,PSV Eindhoven,Panathinaikos,nl,gr,1.0,1.0,0.5
+71,2014-10-23,Villarreal,Zürich,es,ch,4.0,1.0,0.0
+72,2014-10-23,Gladbach,Apollon Limassol,de,cy,5.0,0.0,0.0
+73,2014-10-23,Dnipro,Qarabağ,ua,az,0.0,1.0,1.0
+75,2014-11-06,FC Copenhagen,Club Brugge,dk,be,0.0,4.0,1.0
+76,2014-11-06,Dinamo Zagreb,RB Salzburg,hr,at,1.0,5.0,1.0
+77,2014-11-06,Saint-Étienne,Inter,fr,it,1.0,1.0,0.5
+78,2014-11-06,Zürich,Villarreal,ch,es,3.0,2.0,0.0
+79,2014-11-06,Beşiktaş,Partizan,tr,rs,2.0,1.0,0.0
+80,2014-11-06,Apollon Limassol,Gladbach,cy,de,0.0,2.0,1.0
+81,2014-11-06,Astra Giurgiu,Celtic,ro,sct,1.0,1.0,0.5
+82,2014-11-06,Panathinaikos,PSV Eindhoven,gr,nl,2.0,3.0,1.0
+83,2014-11-06,HJK,Torino,fi,it,2.0,1.0,0.0
+84,2014-11-06,Dynamo Mosc,Estoril,ru,pt,1.0,0.0,0.0
+85,2014-11-06,Asteras Tripoli,Tottenham,gr,eng,1.0,2.0,1.0
+86,2014-11-06,Everton,Lille,eng,fr,3.0,0.0,0.0
+87,2014-11-06,Rio Ave,Steaua,pt,ro,2.0,2.0,0.5
+88,2014-11-06,Qarabağ,Dnipro,az,ua,1.0,2.0,1.0
+89,2014-11-06,Wolfsburg,Krasnodar,de,ru,5.0,1.0,0.0
+90,2014-11-06,Sevilla,Standard Liège,es,be,3.0,1.0,0.0
+91,2014-11-06,Lokeren,Trabzonspor,be,tr,1.0,1.0,0.5
+92,2014-11-06,Feyenoord,Rijeka,nl,hr,2.0,0.0,0.0
+93,2014-11-06,Fiorentina,PAOK,it,gr,1.0,1.0,0.5
+94,2014-11-06,Napoli,Young Boys,it,ch,3.0,0.0,0.0
+95,2014-11-06,Legia Warsaw,Metalist Kharkiv,pl,ua,2.0,1.0,0.0
+96,2014-11-06,Sparta Prague,ŠK Slovan Bratislava,cz,sk,4.0,0.0,0.0
+97,2014-11-06,Guingamp,Dinamo Minsk,fr,by,2.0,0.0,0.0
+98,2014-11-06,Dynamo Kyiv,Aalborg,ua,dk,2.0,0.0,0.0
+100,2014-11-27,Wolfsburg,Everton,de,eng,0.0,2.0,1.0
+101,2014-11-27,Aalborg,Steaua,dk,ro,1.0,0.0,0.0
+102,2014-11-27,Feyenoord,Sevilla,nl,es,2.0,0.0,0.0
+103,2014-11-27,Guingamp,Fiorentina,fr,it,1.0,2.0,1.0
+104,2014-11-27,Lokeren,Legia Warsaw,be,pl,1.0,0.0,0.0
+105,2014-11-27,Dynamo Mosc,Panathinaikos,ru,gr,2.0,1.0,0.0
+106,2014-11-27,ŠK Slovan Bratislava,Young Boys,sk,ch,1.0,3.0,1.0
+107,2014-11-27,Sparta Prague,Napoli,cz,it,0.0,0.0,0.5
+108,2014-11-27,Rijeka,Standard Liège,hr,be,2.0,0.0,0.0
+109,2014-11-27,Trabzonspor,Metalist Kharkiv,tr,ua,3.0,1.0,0.0
+110,2014-11-27,Dynamo Kyiv,Rio Ave,ua,pt,2.0,0.0,0.0
+111,2014-11-27,Krasnodar,Lille,ru,fr,1.0,1.0,0.5
+112,2014-11-27,Tottenham,Partizan,eng,rs,1.0,0.0,0.0
+113,2014-11-27,Celtic,RB Salzburg,sct,at,1.0,3.0,1.0
+114,2014-11-27,Dinamo Minsk,PAOK,by,gr,0.0,2.0,1.0
+115,2014-11-27,Zürich,Apollon Limassol,ch,cy,3.0,1.0,0.0
+116,2014-11-27,Torino,Club Brugge,it,be,0.0,0.0,0.5
+117,2014-11-27,Villarreal,Gladbach,es,de,2.0,2.0,0.5
+118,2014-11-27,Saint-Étienne,Qarabağ,fr,az,1.0,1.0,0.5
+119,2014-11-27,Inter,Dnipro,it,ua,2.0,1.0,0.0
+120,2014-11-27,Astra Giurgiu,Dinamo Zagreb,ro,hr,1.0,0.0,0.0
+121,2014-11-27,Asteras Tripoli,Beşiktaş,gr,tr,2.0,2.0,0.5
+122,2014-11-27,HJK,FC Copenhagen,fi,dk,2.0,1.0,0.0
+123,2014-11-28,Estoril,PSV Eindhoven,pt,nl,3.0,3.0,0.5
+125,2014-12-11,Dnipro,Saint-Étienne,ua,fr,1.0,0.0,0.0
+126,2014-12-11,PSV Eindhoven,Dynamo Mosc,nl,ru,0.0,1.0,1.0
+127,2014-12-11,FC Copenhagen,Torino,dk,it,1.0,5.0,1.0
+128,2014-12-11,Dinamo Zagreb,Celtic,hr,sct,4.0,3.0,0.0
+129,2014-12-11,Partizan,Asteras Tripoli,rs,gr,0.0,0.0,0.5
+130,2014-12-11,RB Salzburg,Astra Giurgiu,at,ro,5.0,1.0,0.0
+131,2014-12-11,Gladbach,Zürich,de,ch,3.0,0.0,0.0
+132,2014-12-11,Club Brugge,HJK,be,fi,2.0,1.0,0.0
+133,2014-12-11,Panathinaikos,Estoril,gr,pt,1.0,1.0,0.5
+134,2014-12-11,Beşiktaş,Tottenham,tr,eng,1.0,0.0,0.0
+135,2014-12-11,Apollon Limassol,Villarreal,cy,es,0.0,2.0,1.0
+136,2014-12-11,Everton,Krasnodar,eng,ru,0.0,1.0,1.0
+137,2014-12-11,Rio Ave,Aalborg,pt,dk,2.0,0.0,0.0
+138,2014-12-11,Qarabağ,Inter,az,it,0.0,0.0,0.5
+139,2014-12-11,Fiorentina,Dinamo Minsk,it,by,1.0,2.0,1.0
+140,2014-12-11,Young Boys,Sparta Prague,ch,cz,2.0,0.0,0.0
+141,2014-12-11,Lille,Wolfsburg,fr,de,0.0,3.0,1.0
+142,2014-12-11,Standard Liège,Feyenoord,be,nl,0.0,3.0,1.0
+143,2014-12-11,Legia Warsaw,Trabzonspor,pl,tr,2.0,0.0,0.0
+144,2014-12-11,Sevilla,Rijeka,es,hr,1.0,0.0,0.0
+145,2014-12-11,Napoli,ŠK Slovan Bratislava,it,sk,3.0,0.0,0.0
+146,2014-12-11,Metalist Kharkiv,Lokeren,ua,be,0.0,1.0,1.0
+147,2014-12-11,Steaua,Dynamo Kyiv,ro,ua,0.0,2.0,1.0
+148,2014-12-11,PAOK,Guingamp,gr,fr,1.0,2.0,1.0
+150,2015-02-19,Wolfsburg,Sporting CP,de,pt,2.0,0.0,0.0
+151,2015-02-19,Roma,Feyenoord,it,nl,1.0,1.0,0.5
+152,2015-02-19,Aalborg,Club Brugge,dk,be,1.0,3.0,1.0
+153,2015-02-19,PSV Eindhoven,Zenit,nl,ru,0.0,1.0,1.0
+154,2015-02-19,Torino,Athletic Club,it,es,2.0,2.0,0.5
+155,2015-02-19,Young Boys,Everton,ch,eng,1.0,4.0,1.0
+156,2015-02-19,Trabzonspor,Napoli,tr,it,0.0,4.0,1.0
+157,2015-02-19,Dnipro,Olympiacos,ua,gr,2.0,0.0,0.0
+158,2015-02-19,Liverpool,Beşiktaş,eng,tr,1.0,0.0,0.0
+159,2015-02-19,Tottenham,Fiorentina,eng,it,1.0,1.0,0.5
+160,2015-02-19,Celtic,Inter,sct,it,3.0,3.0,0.5
+161,2015-02-19,Guingamp,Dynamo Kyiv,fr,ua,2.0,1.0,0.0
+162,2015-02-19,Anderlecht,Dynamo Mosc,be,ru,0.0,0.0,0.5
+163,2015-02-19,Sevilla,Gladbach,es,de,1.0,0.0,0.0
+164,2015-02-19,Ajax,Legia Warsaw,nl,pl,1.0,0.0,0.0
+165,2015-02-19,Villarreal,RB Salzburg,es,at,2.0,1.0,0.0
+166,2015-02-26,Legia Warsaw,Ajax,pl,nl,0.0,3.0,1.0
+167,2015-02-26,Gladbach,Sevilla,de,es,2.0,3.0,1.0
+168,2015-02-26,RB Salzburg,Villarreal,at,es,1.0,3.0,1.0
+169,2015-02-26,Fiorentina,Tottenham,it,eng,2.0,0.0,0.0
+170,2015-02-26,Inter,Celtic,it,sct,1.0,0.0,0.0
+171,2015-02-26,Dynamo Kyiv,Guingamp,ua,fr,3.0,1.0,0.0
+172,2015-02-26,Beşiktaş,Liverpool,tr,eng,1.0,0.0,0.0
+173,2015-02-26,Zenit,PSV Eindhoven,ru,nl,3.0,0.0,0.0
+174,2015-02-26,Dynamo Mosc,Anderlecht,ru,be,3.0,1.0,0.0
+175,2015-02-26,Everton,Young Boys,eng,ch,3.0,1.0,0.0
+176,2015-02-26,Sporting CP,Wolfsburg,pt,de,0.0,0.0,0.5
+177,2015-02-26,Feyenoord,Roma,nl,it,1.0,2.0,1.0
+178,2015-02-26,Athletic Club,Torino,es,it,2.0,3.0,1.0
+179,2015-02-26,Club Brugge,Aalborg,be,dk,3.0,0.0,0.0
+180,2015-02-26,Napoli,Trabzonspor,it,tr,1.0,0.0,0.0
+181,2015-02-26,Olympiacos,Dnipro,gr,ua,2.0,2.0,0.5
+182,2015-03-12,Club Brugge,Beşiktaş,be,tr,2.0,1.0,0.0
+183,2015-03-12,Wolfsburg,Inter,de,it,3.0,1.0,0.0
+184,2015-03-12,Zenit,Torino,ru,it,2.0,0.0,0.0
+185,2015-03-12,Dnipro,Ajax,ua,nl,1.0,0.0,0.0
+186,2015-03-12,Everton,Dynamo Kyiv,eng,ua,2.0,1.0,0.0
+187,2015-03-12,Villarreal,Sevilla,es,es,1.0,3.0,1.0
+188,2015-03-12,Napoli,Dynamo Mosc,it,ru,3.0,1.0,0.0
+189,2015-03-12,Fiorentina,Roma,it,it,1.0,1.0,0.5
+190,2015-03-19,Roma,Fiorentina,it,it,0.0,3.0,1.0
+191,2015-03-19,Dynamo Kyiv,Everton,ua,eng,5.0,2.0,0.0
+192,2015-03-19,Dynamo Mosc,Napoli,ru,it,0.0,0.0,0.5
+193,2015-03-19,Sevilla,Villarreal,es,es,2.0,1.0,0.0
+194,2015-03-19,Torino,Zenit,it,ru,1.0,0.0,0.0
+195,2015-03-19,Inter,Wolfsburg,it,de,1.0,2.0,1.0
+196,2015-03-19,Ajax,Dnipro,nl,ua,2.0,1.0,0.0
+197,2015-03-19,Beşiktaş,Club Brugge,tr,be,1.0,3.0,1.0
+198,2015-04-16,Sevilla,Zenit,es,ru,2.0,1.0,0.0
+199,2015-04-16,Club Brugge,Dnipro,be,ua,0.0,0.0,0.5
+200,2015-04-16,Wolfsburg,Napoli,de,it,1.0,4.0,1.0
+201,2015-04-16,Dynamo Kyiv,Fiorentina,ua,it,1.0,1.0,0.5
+202,2015-04-23,Fiorentina,Dynamo Kyiv,it,ua,2.0,0.0,0.0
+203,2015-04-23,Napoli,Wolfsburg,it,de,2.0,2.0,0.5
+204,2015-04-23,Dnipro,Club Brugge,ua,be,1.0,0.0,0.0
+205,2015-04-23,Zenit,Sevilla,ru,es,2.0,2.0,0.5
+206,2015-05-07,Sevilla,Fiorentina,es,it,3.0,0.0,0.0
+207,2015-05-07,Napoli,Dnipro,it,ua,1.0,1.0,0.5
+208,2015-05-14,Fiorentina,Sevilla,it,es,0.0,2.0,1.0
+209,2015-05-14,Dnipro,Napoli,ua,it,1.0,0.0,0.0
+210,2015-05-27,Dnipro,Sevilla,ua,es,2.0,3.0,1.0

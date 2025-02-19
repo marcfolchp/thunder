@@ -1,0 +1,127 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1993-09-14,Vác,Apollon Limassol,hu,cy,2,0,0.0
+1,1993-09-14,Dynamo Moscow,Eint Frankfurt,ru,de,0,6,1.0
+2,1993-09-14,Austria Salzburg,FC DAC 1904 Dunajská Streda,at,sk,2,0,0.0
+3,1993-09-14,FC Dnipro,Admira Wacker Mödling,ua,at,1,0,0.0
+4,1993-09-14,Aalborg,Dep La Coruña,dk,es,1,0,0.0
+5,1993-09-14,Bohemian FC,Bordeaux,ie,fr,0,1,1.0
+6,1993-09-14,Young Boys,Celtic,ch,sct,0,0,0.5
+7,1993-09-14,Lahti,KSV Waregem,fi,be,4,0,0.0
+8,1993-09-14,Antwerp,Marítimo,be,pt,2,0,0.0
+9,1993-09-14,Karlsruher,PSV,de,nl,2,1,0.0
+10,1993-09-14,Union Luxembourg,Boavista,lu,pt,0,1,1.0
+11,1993-09-14,Hearts,Atlético Madrid,sct,es,2,1,0.0
+12,1993-09-14,Crusaders FC,Servette,nir,ch,0,0,0.5
+13,1993-09-15,Twente,Bayern Munich,nl,de,3,4,1.0
+14,1993-09-15,Lazio,Lokomotiv Plovdiv,it,bg,2,0,0.0
+15,1993-09-15,Gloria Bistrița,NK Maribor,ro,si,0,0,0.5
+16,1993-09-15,Norwich City,Vitesse,eng,nl,3,0,0.0
+17,1993-09-15,Botev Plovdiv,Olympiacos,bg,gr,2,3,1.0
+18,1993-09-15,Norrköping,Mechelen,se,be,0,1,1.0
+19,1993-09-15,Trabzonspor,Valletta FC,tr,mt,3,1,0.0
+20,1993-09-15,Tenerife,Auxerre,es,fr,2,2,0.5
+21,1993-09-15,Juventus,Lokomotiv Moscow,it,ru,3,0,0.0
+22,1993-09-15,Öster,Kongsvinger,se,no,1,3,1.0
+23,1993-09-15,Slavia Prague,OFI Crete,cz,gr,1,1,0.5
+24,1993-09-15,Inter,Rapid București,it,ro,3,1,0.0
+25,1993-09-15,Brøndby,Dundee United,dk,sct,2,0,0.0
+26,1993-09-15,Kocaelispor,Sporting CP,tr,pt,0,0,0.5
+27,1993-09-15,ŠK Slovan Bratislava,Aston Villa,sk,eng,0,0,0.5
+28,1993-09-15,Dortmund,Spartak Vladikavkaz,de,ru,0,0,0.5
+29,1993-09-16,Dinamo București,Cagliari,ro,it,3,2,0.0
+30,1993-09-16,Nantes,Valencia,fr,es,1,1,0.5
+31,1993-09-16,KR,MTK Budapest,is,hu,1,2,1.0
+32,1993-09-28,Dundee United,Brøndby,sct,dk,3,1,0.0
+33,1993-09-28,FC DAC 1904 Dunajská Streda,Austria Salzburg,sk,at,0,2,1.0
+34,1993-09-28,PSV,Karlsruher,nl,de,0,0,0.5
+35,1993-09-28,Servette,Crusaders FC,ch,nir,4,0,0.0
+36,1993-09-28,Lokomotiv Moscow,Juventus,ru,it,0,1,1.0
+37,1993-09-28,Admira Wacker Mödling,FC Dnipro,at,ua,2,3,1.0
+38,1993-09-28,Eint Frankfurt,Dynamo Moscow,de,ru,1,2,1.0
+39,1993-09-28,Marítimo,Antwerp,pt,be,2,2,0.5
+40,1993-09-28,Dep La Coruña,Aalborg,es,dk,5,0,0.0
+41,1993-09-28,Valletta FC,Trabzonspor,mt,tr,1,3,1.0
+42,1993-09-28,Mechelen,Norrköping,be,se,1,1,0.5
+43,1993-09-28,Spartak Vladikavkaz,Dortmund,ru,de,0,1,1.0
+44,1993-09-28,Atlético Madrid,Hearts,es,sct,3,0,0.0
+45,1993-09-28,Bordeaux,Bohemian FC,fr,ie,5,0,0.0
+46,1993-09-28,Boavista,Union Luxembourg,pt,lu,4,0,0.0
+47,1993-09-29,Rapid București,Inter,ro,it,0,2,1.0
+48,1993-09-29,Aston Villa,ŠK Slovan Bratislava,eng,sk,2,1,0.0
+49,1993-09-29,Olympiacos,Botev Plovdiv,gr,bg,5,1,0.0
+50,1993-09-29,NK Maribor,Gloria Bistrița,si,ro,2,0,0.0
+51,1993-09-29,Celtic,Young Boys,sct,ch,1,0,0.0
+52,1993-09-29,Cagliari,Dinamo București,it,ro,2,0,0.0
+53,1993-09-29,Bayern Munich,Twente,de,nl,3,0,0.0
+54,1993-09-29,Apollon Limassol,Vác,cy,hu,4,0,0.0
+55,1993-09-29,Auxerre,Tenerife,fr,es,0,1,1.0
+56,1993-09-29,KSV Waregem,Lahti,be,fi,1,2,1.0
+57,1993-09-29,MTK Budapest,KR,hu,is,0,0,0.5
+58,1993-09-29,Sporting CP,Kocaelispor,pt,tr,2,0,0.0
+59,1993-09-29,Lokomotiv Plovdiv,Lazio,bg,it,0,2,1.0
+60,1993-09-29,OFI Crete,Slavia Prague,gr,cz,1,0,0.0
+61,1993-09-29,Vitesse,Norwich City,nl,eng,0,0,0.5
+62,1993-09-29,Kongsvinger,Öster,no,se,4,1,0.0
+63,1993-09-30,Valencia,Nantes,es,fr,3,1,0.0
+64,1993-10-19,Bordeaux,Servette,fr,ch,2,1,0.0
+65,1993-10-19,Tenerife,Olympiacos,es,gr,2,1,0.0
+66,1993-10-19,Atlético Madrid,OFI Crete,es,gr,1,0,0.0
+67,1993-10-19,Bayern Munich,Norwich City,de,eng,1,2,1.0
+68,1993-10-19,Eint Frankfurt,FC Dnipro,de,ua,2,0,0.0
+69,1993-10-19,Lahti,Brøndby,fi,dk,1,4,1.0
+70,1993-10-19,Dep La Coruña,Aston Villa,es,eng,1,1,0.5
+71,1993-10-19,Austria Salzburg,Antwerp,at,be,1,0,0.0
+72,1993-10-20,Inter,Apollon Limassol,it,cy,1,0,0.0
+73,1993-10-20,NK Maribor,Dortmund,si,de,0,0,0.5
+74,1993-10-20,Valencia,Karlsruher,es,de,3,1,0.0
+75,1993-10-20,Mechelen,MTK Budapest,be,hu,5,0,0.0
+76,1993-10-20,Celtic,Sporting CP,sct,pt,1,0,0.0
+77,1993-10-20,Lazio,Boavista,it,pt,1,0,0.0
+78,1993-10-20,Trabzonspor,Cagliari,tr,it,1,1,0.5
+79,1993-10-20,Kongsvinger,Juventus,no,it,1,1,0.5
+80,1993-11-02,Dortmund,NK Maribor,de,si,2,1,0.0
+81,1993-11-02,Juventus,Kongsvinger,it,no,2,0,0.0
+82,1993-11-02,Karlsruher,Valencia,de,es,7,0,0.0
+83,1993-11-02,OFI Crete,Atlético Madrid,gr,es,2,0,0.0
+84,1993-11-02,MTK Budapest,Mechelen,hu,be,1,1,0.5
+85,1993-11-02,Antwerp,Austria Salzburg,be,at,0,1,1.0
+86,1993-11-03,Aston Villa,Dep La Coruña,eng,es,0,1,1.0
+87,1993-11-03,Brøndby,Lahti,dk,fi,3,1,0.0
+88,1993-11-03,Cagliari,Trabzonspor,it,tr,0,0,0.5
+89,1993-11-03,Servette,Bordeaux,ch,fr,0,1,1.0
+90,1993-11-03,Sporting CP,Celtic,pt,sct,2,0,0.0
+91,1993-11-03,FC Dnipro,Eint Frankfurt,ua,de,1,0,0.0
+92,1993-11-03,Norwich City,Bayern Munich,eng,de,1,1,0.5
+93,1993-11-03,Apollon Limassol,Inter,cy,it,3,3,0.5
+94,1993-11-04,Olympiacos,Tenerife,gr,es,4,3,0.0
+95,1993-11-04,Boavista,Lazio,pt,it,2,0,0.0
+96,1993-11-23,Eint Frankfurt,Dep La Coruña,de,es,1,0,0.0
+97,1993-11-23,Bordeaux,Karlsruher,fr,de,1,0,0.0
+98,1993-11-23,OFI Crete,Boavista,gr,pt,1,4,1.0
+99,1993-11-24,Norwich City,Inter,eng,it,0,1,1.0
+100,1993-11-24,Juventus,Tenerife,it,es,3,0,0.0
+101,1993-11-24,Sporting CP,Austria Salzburg,pt,at,2,0,0.0
+102,1993-11-24,Brøndby,Dortmund,dk,de,1,1,0.5
+103,1993-11-25,Mechelen,Cagliari,be,it,1,3,1.0
+104,1993-12-07,Dep La Coruña,Eint Frankfurt,es,de,0,1,1.0
+105,1993-12-07,Boavista,OFI Crete,pt,gr,2,0,0.0
+106,1993-12-07,Austria Salzburg,Sporting CP,at,pt,3,0,0.0
+107,1993-12-07,Karlsruher,Bordeaux,de,fr,3,0,0.0
+108,1993-12-08,Inter,Norwich City,it,eng,1,0,0.0
+109,1993-12-08,Tenerife,Juventus,es,it,2,1,0.0
+110,1993-12-08,Dortmund,Brøndby,de,dk,1,0,0.0
+111,1993-12-08,Cagliari,Mechelen,it,be,2,0,0.0
+112,1994-03-01,Cagliari,Juventus,it,it,1,0,0.0
+113,1994-03-01,Dortmund,Inter,de,it,1,3,1.0
+114,1994-03-02,Boavista,Karlsruher,pt,de,1,1,0.5
+115,1994-03-03,Austria Salzburg,Eint Frankfurt,at,de,1,0,0.0
+116,1994-03-15,Juventus,Cagliari,it,it,1,2,1.0
+117,1994-03-15,Eint Frankfurt,Austria Salzburg,de,at,1,0,0.0
+118,1994-03-16,Karlsruher,Boavista,de,pt,1,0,0.0
+119,1994-03-17,Inter,Dortmund,it,de,1,2,1.0
+120,1994-03-29,Austria Salzburg,Karlsruher,at,de,0,0,0.5
+121,1994-03-30,Cagliari,Inter,it,it,3,2,0.0
+122,1994-04-12,Inter,Cagliari,it,it,3,0,0.0
+123,1994-04-12,Karlsruher,Austria Salzburg,de,at,1,1,0.5
+124,1994-04-26,Austria Salzburg,Inter,at,it,0,1,1.0
+125,1994-05-11,Inter,Austria Salzburg,it,at,1,0,0.0

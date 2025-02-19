@@ -1,0 +1,62 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1995-09-13,Dortmund,Juventus,de,it,1.0,3.0,1.0
+1,1995-09-13,Blackburn,Spartak Moscow,eng,ru,0.0,1.0,1.0
+2,1995-09-13,Legia Warsaw,Rosenborg,pl,no,3.0,1.0,0.0
+3,1995-09-13,Ajax,Real Madrid,nl,es,1.0,0.0,0.0
+4,1995-09-13,Grasshopper,Ferencváros,ch,hu,0.0,3.0,1.0
+5,1995-09-13,Steaua,Rangers,ro,sct,1.0,0.0,0.0
+6,1995-09-13,Nantes,Porto,fr,pt,0.0,0.0,0.5
+7,1995-09-27,Spartak Moscow,Legia Warsaw,ru,pl,2.0,1.0,0.0
+9,1995-09-27,Juventus,Steaua,it,ro,3.0,0.0,0.0
+10,1995-09-27,Rangers,Dortmund,sct,de,2.0,2.0,0.5
+11,1995-09-27,Panathinaikos,Nantes,gr,fr,3.0,1.0,0.0
+12,1995-09-27,Ferencváros,Ajax,hu,nl,1.0,5.0,1.0
+13,1995-09-27,Rosenborg,Blackburn,no,eng,2.0,1.0,0.0
+14,1995-09-27,Real Madrid,Grasshopper,es,ch,2.0,0.0,0.0
+15,1995-09-27,Porto,Aalborg,pt,dk,2.0,0.0,0.0
+16,1995-10-18,Porto,Panathinaikos,pt,gr,0.0,1.0,1.0
+18,1995-10-18,Juventus,Rangers,it,sct,4.0,1.0,0.0
+19,1995-10-18,Ajax,Grasshopper,nl,ch,3.0,0.0,0.0
+20,1995-10-18,Dortmund,Steaua,de,ro,1.0,0.0,0.0
+21,1995-10-18,Rosenborg,Spartak Moscow,no,ru,2.0,4.0,1.0
+22,1995-10-18,Legia Warsaw,Blackburn,pl,eng,1.0,0.0,0.0
+23,1995-10-18,Nantes,Aalborg,fr,dk,3.0,1.0,0.0
+24,1995-10-18,Real Madrid,Ferencváros,es,hu,6.0,1.0,0.0
+25,1995-10-25,Aalborg,Panathinaikos,dk,gr,2.0,1.0,0.0
+27,1995-11-01,Aalborg,Nantes,dk,fr,0.0,2.0,1.0
+28,1995-11-01,Grasshopper,Ajax,ch,nl,0.0,0.0,0.5
+29,1995-11-01,Spartak Moscow,Rosenborg,ru,no,4.0,1.0,0.0
+30,1995-11-01,Steaua,Dortmund,ro,de,0.0,0.0,0.5
+31,1995-11-01,Blackburn,Legia Warsaw,eng,pl,0.0,0.0,0.5
+32,1995-11-01,Ferencváros,Real Madrid,hu,es,1.0,1.0,0.5
+33,1995-11-01,Rangers,Juventus,sct,it,0.0,4.0,1.0
+34,1995-11-01,Panathinaikos,Porto,gr,pt,0.0,0.0,0.5
+36,1995-11-22,Panathinaikos,Aalborg,gr,dk,2.0,0.0,0.0
+37,1995-11-22,Spartak Moscow,Blackburn,ru,eng,3.0,0.0,0.0
+38,1995-11-22,Rosenborg,Legia Warsaw,no,pl,4.0,0.0,0.0
+39,1995-11-22,Juventus,Dortmund,it,de,1.0,2.0,1.0
+40,1995-11-22,Porto,Nantes,pt,fr,2.0,2.0,0.5
+41,1995-11-22,Rangers,Steaua,sct,ro,1.0,1.0,0.5
+42,1995-11-22,Real Madrid,Ajax,es,nl,0.0,2.0,1.0
+43,1995-11-22,Ferencváros,Grasshopper,hu,ch,3.0,3.0,0.5
+45,1995-12-06,Dortmund,Rangers,de,sct,2.0,2.0,0.5
+46,1995-12-06,Aalborg,Porto,dk,pt,2.0,2.0,0.5
+47,1995-12-06,Blackburn,Rosenborg,eng,no,4.0,1.0,0.0
+48,1995-12-06,Nantes,Panathinaikos,fr,gr,0.0,0.0,0.5
+49,1995-12-06,Grasshopper,Real Madrid,ch,es,0.0,2.0,1.0
+50,1995-12-06,Steaua,Juventus,ro,it,0.0,0.0,0.5
+51,1995-12-06,Ajax,Ferencváros,nl,hu,4.0,0.0,0.0
+52,1995-12-06,Legia Warsaw,Spartak Moscow,pl,ru,0.0,1.0,1.0
+54,1996-03-06,Legia Warsaw,Panathinaikos,pl,gr,0.0,0.0,0.5
+55,1996-03-06,Real Madrid,Juventus,es,it,1.0,0.0,0.0
+56,1996-03-06,Dortmund,Ajax,de,nl,0.0,2.0,1.0
+57,1996-03-06,Nantes,Spartak Moscow,fr,ru,2.0,0.0,0.0
+58,1996-03-20,Panathinaikos,Legia Warsaw,gr,pl,3.0,0.0,0.0
+59,1996-03-20,Ajax,Dortmund,nl,de,1.0,0.0,0.0
+60,1996-03-20,Juventus,Real Madrid,it,es,2.0,0.0,0.0
+61,1996-03-20,Spartak Moscow,Nantes,ru,fr,2.0,2.0,0.5
+62,1996-04-03,Juventus,Nantes,it,fr,2.0,0.0,0.0
+63,1996-04-03,Ajax,Panathinaikos,nl,gr,0.0,1.0,1.0
+64,1996-04-17,Panathinaikos,Ajax,gr,nl,0.0,3.0,1.0
+65,1996-04-17,Nantes,Juventus,fr,it,3.0,2.0,0.0
+66,1996-05-22,Ajax,Juventus,nl,it,1.0,1.0,0.5

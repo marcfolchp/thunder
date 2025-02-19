@@ -1,0 +1,86 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1998-09-16,Panathinaikos,Dynamo Kyiv,gr,ua,2.0,1.0,0.0
+1,1998-09-16,Lens,Arsenal,fr,eng,1.0,1.0,0.5
+2,1998-09-16,Manchester Utd,Barcelona,eng,es,3.0,3.0,0.5
+3,1998-09-16,Kaiserslautern,Benfica,de,pt,1.0,0.0,0.0
+4,1998-09-16,Porto,Olympiacos,pt,gr,2.0,2.0,0.5
+5,1998-09-16,Athletic Club,Rosenborg,es,no,1.0,1.0,0.5
+6,1998-09-16,Brøndby,Bayern Munich,dk,de,2.0,1.0,0.0
+7,1998-09-16,Croatia Zagreb,Ajax,hr,nl,0.0,0.0,0.5
+8,1998-09-16,Sturm Graz,Spartak Moscow,at,ru,0.0,2.0,1.0
+9,1998-09-16,Real Madrid,Inter,es,it,2.0,0.0,0.0
+10,1998-09-16,PSV,HJK Helsinki,nl,fi,2.0,1.0,0.0
+11,1998-09-16,Juventus,Galatasaray,it,tr,2.0,2.0,0.5
+13,1998-09-30,Bayern Munich,Manchester Utd,de,eng,2.0,2.0,0.5
+14,1998-09-30,HJK Helsinki,Kaiserslautern,fi,de,0.0,0.0,0.5
+15,1998-09-30,Barcelona,Brøndby,es,dk,2.0,0.0,0.0
+16,1998-09-30,Olympiacos,Croatia Zagreb,gr,hr,2.0,0.0,0.0
+17,1998-09-30,Arsenal,Panathinaikos,eng,gr,2.0,1.0,0.0
+18,1998-09-30,Inter,Sturm Graz,it,at,1.0,0.0,0.0
+19,1998-09-30,Rosenborg,Juventus,no,it,1.0,1.0,0.5
+20,1998-09-30,Galatasaray,Athletic Club,tr,es,2.0,1.0,0.0
+21,1998-09-30,Dynamo Kyiv,Lens,ua,fr,1.0,1.0,0.5
+22,1998-09-30,Ajax,Porto,nl,pt,2.0,1.0,0.0
+23,1998-09-30,Spartak Moscow,Real Madrid,ru,es,2.0,1.0,0.0
+24,1998-09-30,Benfica,PSV,pt,nl,2.0,1.0,0.0
+26,1998-10-21,Brøndby,Manchester Utd,dk,eng,2.0,6.0,1.0
+27,1998-10-21,Real Madrid,Sturm Graz,es,at,6.0,1.0,0.0
+28,1998-10-21,Arsenal,Dynamo Kyiv,eng,ua,1.0,1.0,0.5
+29,1998-10-21,HJK Helsinki,Benfica,fi,pt,2.0,0.0,0.0
+30,1998-10-21,Rosenborg,Galatasaray,no,tr,3.0,0.0,0.0
+31,1998-10-21,Athletic Club,Juventus,es,it,0.0,0.0,0.5
+32,1998-10-21,Lens,Panathinaikos,fr,gr,1.0,0.0,0.0
+33,1998-10-21,Porto,Croatia Zagreb,pt,hr,3.0,0.0,0.0
+34,1998-10-21,Olympiacos,Ajax,gr,nl,1.0,0.0,0.0
+35,1998-10-21,PSV,Kaiserslautern,nl,de,1.0,2.0,1.0
+36,1998-10-21,Inter,Spartak Moscow,it,ru,2.0,1.0,0.0
+37,1998-10-21,Bayern Munich,Barcelona,de,es,1.0,0.0,0.0
+39,1998-11-04,Kaiserslautern,PSV,de,nl,3.0,1.0,0.0
+40,1998-11-04,Juventus,Athletic Club,it,es,1.0,1.0,0.5
+41,1998-11-04,Manchester Utd,Brøndby,eng,dk,5.0,0.0,0.0
+42,1998-11-04,Galatasaray,Rosenborg,tr,no,3.0,0.0,0.0
+43,1998-11-04,Barcelona,Bayern Munich,es,de,1.0,2.0,1.0
+44,1998-11-04,Ajax,Olympiacos,nl,gr,2.0,0.0,0.0
+45,1998-11-04,Croatia Zagreb,Porto,hr,pt,3.0,1.0,0.0
+46,1998-11-04,Panathinaikos,Lens,gr,fr,1.0,0.0,0.0
+47,1998-11-04,Dynamo Kyiv,Arsenal,ua,eng,3.0,1.0,0.0
+48,1998-11-04,Benfica,HJK Helsinki,pt,fi,2.0,2.0,0.5
+49,1998-11-04,Spartak Moscow,Inter,ru,it,1.0,1.0,0.5
+50,1998-11-05,Sturm Graz,Real Madrid,at,es,1.0,5.0,1.0
+52,1998-11-25,Inter,Real Madrid,it,es,3.0,1.0,0.0
+53,1998-11-25,Olympiacos,Porto,gr,pt,2.0,1.0,0.0
+54,1998-11-25,Rosenborg,Athletic Club,no,es,2.0,1.0,0.0
+55,1998-11-25,Spartak Moscow,Sturm Graz,ru,at,0.0,0.0,0.5
+56,1998-11-25,Arsenal,Lens,eng,fr,0.0,1.0,1.0
+57,1998-11-25,Bayern Munich,Brøndby,de,dk,2.0,0.0,0.0
+58,1998-11-25,Ajax,Croatia Zagreb,nl,hr,0.0,1.0,1.0
+59,1998-11-25,Barcelona,Manchester Utd,es,eng,3.0,3.0,0.5
+60,1998-11-25,Benfica,Kaiserslautern,pt,de,2.0,1.0,0.0
+61,1998-11-25,Dynamo Kyiv,Panathinaikos,ua,gr,2.0,1.0,0.0
+62,1998-11-25,HJK Helsinki,PSV,fi,nl,1.0,3.0,1.0
+63,1998-12-02,Galatasaray,Juventus,tr,it,1.0,1.0,0.5
+65,1998-12-09,Panathinaikos,Arsenal,gr,eng,1.0,3.0,1.0
+66,1998-12-09,Kaiserslautern,HJK Helsinki,de,fi,5.0,2.0,0.0
+67,1998-12-09,Lens,Dynamo Kyiv,fr,ua,1.0,3.0,1.0
+68,1998-12-09,Porto,Ajax,pt,nl,3.0,0.0,0.0
+69,1998-12-09,Athletic Club,Galatasaray,es,tr,1.0,0.0,0.0
+70,1998-12-09,Manchester Utd,Bayern Munich,eng,de,1.0,1.0,0.5
+71,1998-12-09,PSV,Benfica,nl,pt,2.0,2.0,0.5
+72,1998-12-09,Croatia Zagreb,Olympiacos,hr,gr,1.0,1.0,0.5
+73,1998-12-09,Juventus,Rosenborg,it,no,2.0,0.0,0.0
+74,1998-12-09,Brøndby,Barcelona,dk,es,0.0,2.0,1.0
+75,1998-12-09,Real Madrid,Spartak Moscow,es,ru,2.0,1.0,0.0
+76,1998-12-09,Sturm Graz,Inter,at,it,0.0,2.0,1.0
+78,1999-03-03,Real Madrid,Dynamo Kyiv,es,ua,1.0,1.0,0.5
+79,1999-03-03,Juventus,Olympiacos,it,gr,2.0,1.0,0.0
+80,1999-03-03,Manchester Utd,Inter,eng,it,2.0,0.0,0.0
+81,1999-03-03,Bayern Munich,Kaiserslautern,de,de,2.0,0.0,0.0
+82,1999-03-17,Kaiserslautern,Bayern Munich,de,de,0.0,4.0,1.0
+83,1999-03-17,Inter,Manchester Utd,it,eng,1.0,1.0,0.5
+84,1999-03-17,Olympiacos,Juventus,gr,it,1.0,1.0,0.5
+85,1999-03-17,Dynamo Kyiv,Real Madrid,ua,es,2.0,0.0,0.0
+86,1999-04-07,Dynamo Kyiv,Bayern Munich,ua,de,3.0,3.0,0.5
+87,1999-04-07,Manchester Utd,Juventus,eng,it,1.0,1.0,0.5
+88,1999-04-21,Bayern Munich,Dynamo Kyiv,de,ua,1.0,0.0,0.0
+89,1999-04-21,Juventus,Manchester Utd,it,eng,2.0,3.0,1.0
+90,1999-05-26,Manchester Utd,Bayern Munich,eng,de,2.0,1.0,0.0

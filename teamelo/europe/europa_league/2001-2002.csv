@@ -1,0 +1,205 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2001-09-11,Troyes,Ružomberok,fr,sk,6,1,0.0
+1,2001-09-11,Roda JC,Fylkir,nl,is,3,0,0.0
+2,2001-09-11,Viktoria Žižkov,Tirol Innsbruck,cz,at,0,0,0.5
+3,2001-09-11,FK Púchov,Freiburg,sk,de,0,0,0.5
+4,2001-09-11,ND Gorica,Osijek,si,hr,1,2,1.0
+5,2001-09-18,Paris S-G,Rapid București,fr,ro,0,0,0.5
+6,2001-09-19,Novorossiysk,Valencia,ru,es,0,1,1.0
+7,2001-09-19,Westerlo,Hertha BSC,be,de,0,2,1.0
+8,2001-09-20,Slovan Liberec,ŠK Slovan Bratislava,cz,sk,2,0,0.0
+9,2001-09-20,Utrecht,Grazer AK,nl,at,3,0,0.0
+10,2001-09-20,Standard Liège,Strasbourg,be,fr,2,0,0.0
+11,2001-09-20,Parma,HJK Helsinki,it,fi,1,0,0.0
+12,2001-09-20,Legia Warsaw,Elfsborg,pl,se,4,1,0.0
+13,2001-09-20,Bordeaux,Debrecen,fr,hu,5,1,0.0
+14,2001-09-20,Odd,Helsingborg,no,se,2,2,0.5
+15,2001-09-20,FC Dnipro,Fiorentina,ua,it,0,0,0.5
+16,2001-09-20,Zaragoza,Silkeborg,es,dk,3,0,0.0
+17,2001-09-20,FC Kärnten,PAOK,at,gr,0,0,0.5
+18,2001-09-20,AEK Athens,Hibernian,gr,sct,2,0,0.0
+19,2001-09-20,Servette,Slavia Prague,ch,cz,1,0,0.0
+20,2001-09-20,Marítimo,Leeds United,pt,eng,1,0,0.0
+21,2001-09-20,CSKA Sofia,Shakhtar Donetsk,bg,ua,3,0,0.0
+22,2001-09-20,Chelsea,Levski Sofia,eng,bg,3,0,0.0
+23,2001-09-20,Ipswich Town,Torpedo Moscow,eng,ru,1,1,0.5
+24,2001-09-20,Gençlerbirliği,Halmstad,tr,se,1,1,0.5
+25,2001-09-20,Inter Bratislava,Litex Lovech,sk,bg,1,0,0.0
+26,2001-09-20,BATE Borisov,Milan,by,it,0,2,1.0
+27,2001-09-20,St. Gallen,Steaua,ch,ro,2,1,0.0
+28,2001-09-20,Haka,Union Berlin,fi,de,1,1,0.5
+29,2001-09-20,Příbram,Sedan,cz,fr,4,0,0.0
+30,2001-09-20,Olympiakos Nicosia,Club Brugge,cy,be,2,2,0.5
+31,2001-09-20,Celta Vigo,Sigma Olomouc,es,cz,4,0,0.0
+32,2001-09-20,Partizan,Rapid Wien,rs,at,1,0,0.0
+33,2001-09-20,Arsenal Kyiv,Red Star,ua,rs,3,2,0.0
+34,2001-09-20,Inter,SR Brașov,it,ro,3,0,0.0
+35,2001-09-20,Ajax,Apollon Limassol,nl,cy,2,0,0.0
+36,2001-09-20,FC Copenhagen,FK Obilić,dk,rs,2,0,0.0
+37,2001-09-20,Dinamo București,Grasshopper,ro,ch,1,3,1.0
+38,2001-09-20,KS Polonia Warsaw,Twente,pl,nl,1,2,1.0
+39,2001-09-20,Dinamo Zagreb,Maccabi Tel Aviv FC,hr,il,2,2,0.5
+40,2001-09-20,Aston Villa,Varaždin,eng,hr,2,3,1.0
+41,2001-09-20,NK Olimpija Ljubljana,Brøndby,si,dk,2,4,1.0
+42,2001-09-20,Midtjylland,Sporting CP,dk,pt,0,3,1.0
+43,2001-09-20,Hapoel Tel Aviv,Gaziantepspor,il,tr,1,0,0.0
+44,2001-09-20,Hajduk Split,Wisła Kraków,hr,pl,2,2,0.5
+45,2001-09-20,Dynamo Mosc,Birkirkara FC,ru,mt,1,0,0.0
+46,2001-09-20,Kilmarnock,Viking,sct,no,1,1,0.5
+47,2001-09-25,Tirol Innsbruck,Viktoria Žižkov,at,cz,1,0,0.0
+48,2001-09-25,Maccabi Tel Aviv FC,Dinamo Zagreb,il,hr,1,1,0.5
+49,2001-09-25,Rapid București,Paris S-G,ro,fr,0,3,1.0
+50,2001-09-25,Hertha BSC,Westerlo,de,be,1,0,0.0
+51,2001-09-25,Fylkir,Roda JC,is,nl,1,3,1.0
+52,2001-09-25,Gaziantepspor,Hapoel Tel Aviv,tr,il,1,1,0.5
+53,2001-09-27,PAOK,FC Kärnten,gr,at,4,0,0.0
+54,2001-09-27,Rapid Wien,Partizan,at,rs,5,1,0.0
+55,2001-09-27,Sedan,Příbram,fr,cz,3,1,0.0
+56,2001-09-27,Hibernian,AEK Athens,sct,gr,3,2,0.0
+57,2001-09-27,Silkeborg,Zaragoza,dk,es,1,2,1.0
+58,2001-09-27,Twente,KS Polonia Warsaw,nl,pl,2,0,0.0
+59,2001-09-27,Freiburg,FK Púchov,de,sk,2,1,0.0
+60,2001-09-27,Apollon Limassol,Ajax,cy,nl,0,3,1.0
+61,2001-09-27,Union Berlin,Haka,de,fi,3,0,0.0
+62,2001-09-27,Club Brugge,Olympiakos Nicosia,be,cy,7,1,0.0
+63,2001-09-27,Sigma Olomouc,Celta Vigo,cz,es,4,3,0.0
+64,2001-09-27,Anzhi,Rangers,ru,sct,0,1,1.0
+65,2001-09-27,Leeds United,Marítimo,eng,pt,3,0,0.0
+66,2001-09-27,Helsingborg,Odd,se,no,1,1,0.5
+67,2001-09-27,Wisła Kraków,Hajduk Split,pl,hr,1,0,0.0
+68,2001-09-27,Birkirkara FC,Dynamo Mosc,mt,ru,0,0,0.5
+69,2001-09-27,Sporting CP,Midtjylland,pt,dk,3,2,0.0
+70,2001-09-27,Levski Sofia,Chelsea,bg,eng,0,2,1.0
+71,2001-09-27,FK Obilić,FC Copenhagen,rs,dk,2,2,0.5
+72,2001-09-27,Varaždin,Aston Villa,hr,eng,0,1,1.0
+73,2001-09-27,Valencia,Novorossiysk,es,ru,5,0,0.0
+74,2001-09-27,Steaua,St. Gallen,ro,ch,1,1,0.5
+75,2001-09-27,Torpedo Moscow,Ipswich Town,ru,eng,1,2,1.0
+76,2001-09-27,Fiorentina,FC Dnipro,it,ua,2,1,0.0
+77,2001-09-27,Milan,BATE Borisov,it,by,4,0,0.0
+78,2001-09-27,Elfsborg,Legia Warsaw,se,pl,1,6,1.0
+79,2001-09-27,Grazer AK,Utrecht,at,nl,3,3,0.5
+80,2001-09-27,HJK Helsinki,Parma,fi,it,0,2,1.0
+81,2001-09-27,Strasbourg,Standard Liège,fr,be,2,2,0.5
+82,2001-09-27,Debrecen,Bordeaux,hu,fr,3,1,0.0
+83,2001-09-27,Ružomberok,Troyes,sk,fr,1,0,0.0
+84,2001-09-27,Red Star,Arsenal Kyiv,rs,ua,0,0,0.5
+85,2001-09-27,Shakhtar Donetsk,CSKA Sofia,ua,bg,2,1,0.0
+86,2001-09-27,Osijek,ND Gorica,hr,si,1,0,0.0
+87,2001-09-27,SR Brașov,Inter,ro,it,0,3,1.0
+88,2001-09-27,Halmstad,Gençlerbirliği,se,tr,1,0,0.0
+89,2001-09-27,Litex Lovech,Inter Bratislava,bg,sk,3,0,0.0
+90,2001-09-27,Slavia Prague,Servette,cz,ch,1,1,0.5
+91,2001-09-27,ŠK Slovan Bratislava,Slovan Liberec,sk,cz,1,0,0.0
+92,2001-09-27,Viking,Kilmarnock,no,sct,2,0,0.0
+93,2001-09-27,Grasshopper,Dinamo București,ch,ro,3,1,0.0
+94,2001-09-27,Brøndby,NK Olimpija Ljubljana,dk,si,0,0,0.5
+95,2001-10-16,Roda JC,Maccabi Tel Aviv FC,nl,il,4,1,0.0
+96,2001-10-16,Viking,Hertha BSC,no,de,0,1,1.0
+97,2001-10-18,Paris S-G,Rapid Wien,fr,at,4,0,0.0
+98,2001-10-18,Milan,CSKA Sofia,it,bg,2,0,0.0
+99,2001-10-18,Union Berlin,Litex Lovech,de,bg,0,2,1.0
+100,2001-10-18,Ipswich Town,Helsingborg,eng,se,0,0,0.5
+101,2001-10-18,Leeds United,Troyes,eng,fr,4,2,0.0
+102,2001-10-18,Osijek,AEK Athens,hr,gr,1,2,1.0
+103,2001-10-18,PAOK,Příbram,gr,cz,6,1,0.0
+104,2001-10-18,Bordeaux,Standard Liège,fr,be,2,0,0.0
+105,2001-10-18,Zaragoza,Servette,es,ch,0,0,0.5
+106,2001-10-18,Arsenal Kyiv,Club Brugge,ua,be,0,2,1.0
+107,2001-10-18,Legia Warsaw,Valencia,pl,es,1,1,0.5
+108,2001-10-18,Freiburg,St. Gallen,de,ch,0,1,1.0
+109,2001-10-18,Inter,Wisła Kraków,it,pl,2,0,0.0
+110,2001-10-18,Celta Vigo,Slovan Liberec,es,cz,3,1,0.0
+111,2001-10-18,Fiorentina,Tirol Innsbruck,it,at,2,0,0.0
+112,2001-10-18,Varaždin,Brøndby,hr,dk,3,1,0.0
+113,2001-10-18,Hapoel Tel Aviv,Chelsea,il,eng,2,0,0.0
+114,2001-10-18,Halmstad,Sporting CP,se,pt,0,1,1.0
+115,2001-10-18,Grasshopper,Twente,ch,nl,4,1,0.0
+116,2001-10-18,Rangers,Dynamo Mosc,sct,ru,3,1,0.0
+117,2001-10-18,Utrecht,Parma,nl,it,1,3,1.0
+118,2001-10-18,FC Copenhagen,Ajax,dk,nl,0,0,0.5
+119,2001-10-30,Litex Lovech,Union Berlin,bg,de,0,0,0.5
+120,2001-10-30,AEK Athens,Osijek,gr,hr,3,2,0.0
+121,2001-10-30,Wisła Kraków,Inter,pl,it,1,0,0.0
+122,2001-11-01,Sporting CP,Halmstad,pt,se,6,1,0.0
+123,2001-11-01,Standard Liège,Bordeaux,be,fr,0,2,1.0
+124,2001-11-01,CSKA Sofia,Milan,bg,it,0,1,1.0
+125,2001-11-01,Hertha BSC,Viking,de,no,2,0,0.0
+126,2001-11-01,Servette,Zaragoza,ch,es,1,0,0.0
+127,2001-11-01,Příbram,PAOK,cz,gr,2,2,0.5
+128,2001-11-01,Parma,Utrecht,it,nl,0,0,0.5
+129,2001-11-01,Brøndby,Varaždin,dk,hr,5,0,0.0
+130,2001-11-01,Troyes,Leeds United,fr,eng,3,2,0.0
+131,2001-11-01,Helsingborg,Ipswich Town,se,eng,1,3,1.0
+132,2001-11-01,Club Brugge,Arsenal Kyiv,be,ua,5,0,0.0
+133,2001-11-01,Rapid Wien,Paris S-G,at,fr,2,2,0.5
+134,2001-11-01,Maccabi Tel Aviv FC,Roda JC,il,nl,2,1,0.0
+135,2001-11-01,Slovan Liberec,Celta Vigo,cz,es,3,0,0.0
+136,2001-11-01,St. Gallen,Freiburg,ch,de,1,4,1.0
+137,2001-11-01,Dynamo Mosc,Rangers,ru,sct,1,3,1.0
+138,2001-11-01,Tirol Innsbruck,Fiorentina,at,it,2,2,0.5
+139,2001-11-01,Chelsea,Hapoel Tel Aviv,eng,il,1,1,0.5
+140,2001-11-01,Ajax,FC Copenhagen,nl,dk,0,1,1.0
+141,2001-11-01,Valencia,Legia Warsaw,es,pl,6,1,0.0
+142,2001-11-01,Twente,Grasshopper,nl,ch,4,2,0.0
+143,2001-11-20,Bordeaux,Roda JC,fr,nl,1,0,0.0
+144,2001-11-20,Hapoel Tel Aviv,Loko Moscow,il,ru,2,1,0.0
+145,2001-11-22,Ipswich Town,Inter,eng,it,1,0,0.0
+146,2001-11-22,Club Brugge,Lyon,be,fr,4,1,0.0
+147,2001-11-22,PAOK,PSV Eindhoven,gr,nl,3,2,0.0
+148,2001-11-22,Fiorentina,Lille,it,fr,0,1,1.0
+149,2001-11-22,Rangers,Paris S-G,sct,fr,0,0,0.5
+150,2001-11-22,Slovan Liberec,Mallorca,cz,es,3,1,0.0
+151,2001-11-22,Milan,Sporting CP,it,pt,2,0,0.0
+152,2001-11-22,FC Copenhagen,Dortmund,dk,de,0,1,1.0
+153,2001-11-22,Feyenoord,Freiburg,nl,de,1,0,0.0
+154,2001-11-22,Grasshopper,Leeds United,ch,eng,1,2,1.0
+155,2001-11-22,AEK Athens,Litex Lovech,gr,bg,3,2,0.0
+156,2001-11-22,Parma,Brøndby,it,dk,1,1,0.5
+157,2001-11-22,Servette,Hertha BSC,ch,de,0,0,0.5
+158,2001-11-22,Valencia,Celtic,es,sct,1,0,0.0
+159,2001-12-04,Roda JC,Bordeaux,nl,fr,2,0,0.0
+160,2001-12-04,Loko Moscow,Hapoel Tel Aviv,ru,il,0,1,1.0
+161,2001-12-04,Dortmund,FC Copenhagen,de,dk,1,0,0.0
+162,2001-12-06,Hertha BSC,Servette,de,ch,0,3,1.0
+163,2001-12-06,Sporting CP,Milan,pt,it,1,1,0.5
+164,2001-12-06,Litex Lovech,AEK Athens,bg,gr,1,1,0.5
+165,2001-12-06,Inter,Ipswich Town,it,eng,4,1,0.0
+166,2001-12-06,Lille,Fiorentina,fr,it,2,0,0.0
+167,2001-12-06,Mallorca,Slovan Liberec,es,cz,1,2,1.0
+168,2001-12-06,Lyon,Club Brugge,fr,be,3,0,0.0
+169,2001-12-06,Leeds United,Grasshopper,eng,ch,2,2,0.5
+170,2001-12-06,Paris S-G,Rangers,fr,sct,0,0,0.5
+171,2001-12-06,PSV Eindhoven,PAOK,nl,gr,4,1,0.0
+172,2001-12-06,Brøndby,Parma,dk,it,0,3,1.0
+173,2001-12-06,Freiburg,Feyenoord,de,nl,2,2,0.5
+174,2001-12-06,Celtic,Valencia,sct,es,1,0,0.0
+175,2002-02-19,Valencia,Servette,es,ch,3,0,0.0
+176,2002-02-19,Roda JC,Milan,nl,it,0,1,1.0
+177,2002-02-21,Lille,Dortmund,fr,de,1,1,0.5
+178,2002-02-21,Lyon,Slovan Liberec,fr,cz,1,1,0.5
+179,2002-02-21,Hapoel Tel Aviv,Parma,il,it,0,0,0.5
+180,2002-02-21,PSV Eindhoven,Leeds United,nl,eng,0,0,0.5
+181,2002-02-21,Rangers,Feyenoord,sct,nl,1,1,0.5
+182,2002-02-21,Inter,AEK Athens,it,gr,3,1,0.0
+183,2002-02-28,Dortmund,Lille,de,fr,0,0,0.5
+184,2002-02-28,Slovan Liberec,Lyon,cz,fr,4,1,0.0
+185,2002-02-28,Parma,Hapoel Tel Aviv,it,il,1,2,1.0
+186,2002-02-28,Feyenoord,Rangers,nl,sct,3,2,0.0
+187,2002-02-28,Leeds United,PSV Eindhoven,eng,nl,0,1,1.0
+188,2002-02-28,AEK Athens,Inter,gr,it,2,2,0.5
+189,2002-02-28,Servette,Valencia,ch,es,2,2,0.5
+190,2002-02-28,Milan,Roda JC,it,nl,0,1,1.0
+191,2002-03-14,Slovan Liberec,Dortmund,cz,de,0,0,0.5
+192,2002-03-14,Hapoel Tel Aviv,Milan,il,it,1,0,0.0
+193,2002-03-14,Inter,Valencia,it,es,1,1,0.5
+194,2002-03-14,PSV Eindhoven,Feyenoord,nl,nl,1,1,0.5
+195,2002-03-21,Valencia,Inter,es,it,0,1,1.0
+196,2002-03-21,Feyenoord,PSV Eindhoven,nl,nl,1,1,0.5
+197,2002-03-21,Dortmund,Slovan Liberec,de,cz,4,0,0.0
+198,2002-03-21,Milan,Hapoel Tel Aviv,it,il,2,0,0.0
+199,2002-04-04,Dortmund,Milan,de,it,4,0,0.0
+200,2002-04-04,Inter,Feyenoord,it,nl,0,1,1.0
+201,2002-04-11,Feyenoord,Inter,nl,it,2,2,0.5
+202,2002-04-11,Milan,Dortmund,it,de,3,1,0.0
+203,2002-05-08,Feyenoord,Dortmund,nl,de,3,2,0.0

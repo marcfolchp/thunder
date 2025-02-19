@@ -1,0 +1,126 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2020-10-20,Zenit,Club Brugge,ru,be,1.0,2.0,1.0
+1,2020-10-20,Dynamo Kyiv,Juventus,ua,it,0.0,2.0,1.0
+2,2020-10-20,Chelsea,Sevilla,eng,es,0.0,0.0,0.5
+3,2020-10-20,Barcelona,Ferencváros,es,hu,5.0,1.0,0.0
+4,2020-10-20,RB Leipzig,Başakşehir,de,tr,2.0,0.0,0.0
+5,2020-10-20,Rennes,Krasnodar,fr,ru,1.0,1.0,0.5
+6,2020-10-20,Paris S-G,Manchester Utd,fr,eng,1.0,2.0,1.0
+7,2020-10-20,Lazio,Dortmund,it,de,3.0,1.0,0.0
+8,2020-10-21,Real Madrid,Shakhtar,es,ua,2.0,3.0,1.0
+9,2020-10-21,RB Salzburg,Loko Moscow,at,ru,2.0,2.0,0.5
+10,2020-10-21,Manchester City,Porto,eng,pt,3.0,1.0,0.0
+11,2020-10-21,Bayern Munich,Atlético Madrid,de,es,4.0,0.0,0.0
+12,2020-10-21,Inter,Gladbach,it,de,2.0,2.0,0.5
+13,2020-10-21,Ajax,Liverpool,nl,eng,0.0,1.0,1.0
+14,2020-10-21,Midtjylland,Atalanta,dk,it,0.0,4.0,1.0
+15,2020-10-21,Olympiacos,Marseille,gr,fr,1.0,0.0,0.0
+17,2020-10-27,Shakhtar,Inter,ua,it,0.0,0.0,0.5
+18,2020-10-27,Liverpool,Midtjylland,eng,dk,2.0,0.0,0.0
+19,2020-10-27,Porto,Olympiacos,pt,gr,2.0,0.0,0.0
+20,2020-10-27,Loko Moscow,Bayern Munich,ru,de,1.0,2.0,1.0
+21,2020-10-27,Marseille,Manchester City,fr,eng,0.0,3.0,1.0
+22,2020-10-27,Atalanta,Ajax,it,nl,2.0,2.0,0.5
+23,2020-10-27,Atlético Madrid,RB Salzburg,es,at,3.0,2.0,0.0
+24,2020-10-27,Gladbach,Real Madrid,de,es,2.0,2.0,0.5
+25,2020-10-28,Manchester Utd,RB Leipzig,eng,de,5.0,0.0,0.0
+26,2020-10-28,Krasnodar,Chelsea,ru,eng,0.0,4.0,1.0
+27,2020-10-28,Başakşehir,Paris S-G,tr,fr,0.0,2.0,1.0
+28,2020-10-28,Dortmund,Zenit,de,ru,2.0,0.0,0.0
+29,2020-10-28,Club Brugge,Lazio,be,it,1.0,1.0,0.5
+30,2020-10-28,Sevilla,Rennes,es,fr,1.0,0.0,0.0
+31,2020-10-28,Ferencváros,Dynamo Kyiv,hu,ua,2.0,2.0,0.5
+32,2020-10-28,Juventus,Barcelona,it,es,0.0,2.0,1.0
+34,2020-11-03,Shakhtar,Gladbach,ua,de,0.0,6.0,1.0
+35,2020-11-03,Porto,Marseille,pt,fr,3.0,0.0,0.0
+36,2020-11-03,Manchester City,Olympiacos,eng,gr,3.0,0.0,0.0
+37,2020-11-03,Loko Moscow,Atlético Madrid,ru,es,1.0,1.0,0.5
+38,2020-11-03,RB Salzburg,Bayern Munich,at,de,2.0,6.0,1.0
+39,2020-11-03,Midtjylland,Ajax,dk,nl,1.0,2.0,1.0
+40,2020-11-03,Real Madrid,Inter,es,it,3.0,2.0,0.0
+41,2020-11-03,Atalanta,Liverpool,it,eng,0.0,5.0,1.0
+42,2020-11-04,Chelsea,Rennes,eng,fr,3.0,0.0,0.0
+43,2020-11-04,Başakşehir,Manchester Utd,tr,eng,2.0,1.0,0.0
+44,2020-11-04,Zenit,Lazio,ru,it,1.0,1.0,0.5
+45,2020-11-04,Sevilla,Krasnodar,es,ru,3.0,2.0,0.0
+46,2020-11-04,Club Brugge,Dortmund,be,de,0.0,3.0,1.0
+47,2020-11-04,Ferencváros,Juventus,hu,it,1.0,4.0,1.0
+48,2020-11-04,Barcelona,Dynamo Kyiv,es,ua,2.0,1.0,0.0
+49,2020-11-04,RB Leipzig,Paris S-G,de,fr,2.0,1.0,0.0
+51,2020-11-24,Rennes,Chelsea,fr,eng,1.0,2.0,1.0
+52,2020-11-24,Manchester Utd,Başakşehir,eng,tr,4.0,1.0,0.0
+53,2020-11-24,Krasnodar,Sevilla,ru,es,1.0,2.0,1.0
+54,2020-11-24,Lazio,Zenit,it,ru,3.0,1.0,0.0
+55,2020-11-24,Paris S-G,RB Leipzig,fr,de,1.0,0.0,0.0
+56,2020-11-24,Dortmund,Club Brugge,de,be,3.0,0.0,0.0
+57,2020-11-24,Juventus,Ferencváros,it,hu,2.0,1.0,0.0
+58,2020-11-24,Dynamo Kyiv,Barcelona,ua,es,0.0,4.0,1.0
+59,2020-11-25,Gladbach,Shakhtar,de,ua,4.0,0.0,0.0
+60,2020-11-25,Olympiacos,Manchester City,gr,eng,0.0,1.0,1.0
+61,2020-11-25,Liverpool,Atalanta,eng,it,0.0,2.0,1.0
+62,2020-11-25,Marseille,Porto,fr,pt,0.0,2.0,1.0
+63,2020-11-25,Inter,Real Madrid,it,es,0.0,2.0,1.0
+64,2020-11-25,Ajax,Midtjylland,nl,dk,3.0,1.0,0.0
+65,2020-11-25,Atlético Madrid,Loko Moscow,es,ru,0.0,0.0,0.5
+66,2020-11-25,Bayern Munich,RB Salzburg,de,at,3.0,1.0,0.0
+68,2020-12-01,Shakhtar,Real Madrid,ua,es,2.0,0.0,0.0
+69,2020-12-01,Liverpool,Ajax,eng,nl,1.0,0.0,0.0
+70,2020-12-01,Porto,Manchester City,pt,eng,0.0,0.0,0.5
+71,2020-12-01,Loko Moscow,RB Salzburg,ru,at,1.0,3.0,1.0
+72,2020-12-01,Marseille,Olympiacos,fr,gr,2.0,1.0,0.0
+73,2020-12-01,Atalanta,Midtjylland,it,dk,1.0,1.0,0.5
+74,2020-12-01,Gladbach,Inter,de,it,2.0,3.0,1.0
+75,2020-12-01,Atlético Madrid,Bayern Munich,es,de,1.0,1.0,0.5
+76,2020-12-02,Manchester Utd,Paris S-G,eng,fr,1.0,3.0,1.0
+77,2020-12-02,Krasnodar,Rennes,ru,fr,1.0,0.0,0.0
+78,2020-12-02,Başakşehir,RB Leipzig,tr,de,3.0,4.0,1.0
+79,2020-12-02,Club Brugge,Zenit,be,ru,3.0,0.0,0.0
+80,2020-12-02,Juventus,Dynamo Kyiv,it,ua,3.0,0.0,0.0
+81,2020-12-02,Dortmund,Lazio,de,it,1.0,1.0,0.5
+82,2020-12-02,Ferencváros,Barcelona,hu,es,0.0,3.0,1.0
+83,2020-12-02,Sevilla,Chelsea,es,eng,0.0,4.0,1.0
+85,2020-12-08,Lazio,Club Brugge,it,be,2.0,2.0,0.5
+86,2020-12-08,Chelsea,Krasnodar,eng,ru,1.0,1.0,0.5
+87,2020-12-08,Zenit,Dortmund,ru,de,1.0,2.0,1.0
+88,2020-12-08,Barcelona,Juventus,es,it,0.0,3.0,1.0
+89,2020-12-08,Rennes,Sevilla,fr,es,1.0,3.0,1.0
+90,2020-12-08,RB Leipzig,Manchester Utd,de,eng,3.0,2.0,0.0
+91,2020-12-08,Dynamo Kyiv,Ferencváros,ua,hu,1.0,0.0,0.0
+92,2020-12-09,Ajax,Atalanta,nl,it,0.0,1.0,1.0
+93,2020-12-09,Paris S-G,Başakşehir,fr,tr,5.0,1.0,0.0
+94,2020-12-09,Midtjylland,Liverpool,dk,eng,1.0,1.0,0.5
+95,2020-12-09,Manchester City,Marseille,eng,fr,3.0,0.0,0.0
+96,2020-12-09,Real Madrid,Gladbach,es,de,2.0,0.0,0.0
+97,2020-12-09,Bayern Munich,Loko Moscow,de,ru,2.0,0.0,0.0
+98,2020-12-09,RB Salzburg,Atlético Madrid,at,es,0.0,2.0,1.0
+99,2020-12-09,Inter,Shakhtar,it,ua,0.0,0.0,0.5
+100,2020-12-09,Olympiacos,Porto,gr,pt,0.0,2.0,1.0
+102,2021-02-16,Barcelona,Paris S-G,es,fr,1.0,4.0,1.0
+103,2021-02-16,RB Leipzig,Liverpool,de,eng,0.0,2.0,1.0
+104,2021-02-17,Porto,Juventus,pt,it,2.0,1.0,0.0
+105,2021-02-17,Sevilla,Dortmund,es,de,2.0,3.0,1.0
+106,2021-02-23,Lazio,Bayern Munich,it,de,1.0,4.0,1.0
+107,2021-02-23,Atlético Madrid,Chelsea,es,eng,0.0,1.0,1.0
+108,2021-02-24,Gladbach,Manchester City,de,eng,0.0,2.0,1.0
+109,2021-02-24,Atalanta,Real Madrid,it,es,0.0,1.0,1.0
+110,2021-03-09,Juventus,Porto,it,pt,3.0,2.0,0.0
+111,2021-03-09,Dortmund,Sevilla,de,es,2.0,2.0,0.5
+112,2021-03-10,Liverpool,RB Leipzig,eng,de,2.0,0.0,0.0
+113,2021-03-10,Paris S-G,Barcelona,fr,es,1.0,1.0,0.5
+114,2021-03-16,Manchester City,Gladbach,eng,de,2.0,0.0,0.0
+115,2021-03-16,Real Madrid,Atalanta,es,it,3.0,1.0,0.0
+116,2021-03-17,Chelsea,Atlético Madrid,eng,es,2.0,0.0,0.0
+117,2021-03-17,Bayern Munich,Lazio,de,it,2.0,1.0,0.0
+118,2021-04-06,Manchester City,Dortmund,eng,de,2.0,1.0,0.0
+119,2021-04-06,Real Madrid,Liverpool,es,eng,3.0,1.0,0.0
+120,2021-04-07,Porto,Chelsea,pt,eng,0.0,2.0,1.0
+121,2021-04-07,Bayern Munich,Paris S-G,de,fr,2.0,3.0,1.0
+122,2021-04-13,Chelsea,Porto,eng,pt,0.0,1.0,1.0
+123,2021-04-13,Paris S-G,Bayern Munich,fr,de,0.0,1.0,1.0
+124,2021-04-14,Liverpool,Real Madrid,eng,es,0.0,0.0,0.5
+125,2021-04-14,Dortmund,Manchester City,de,eng,1.0,2.0,1.0
+126,2021-04-27,Real Madrid,Chelsea,es,eng,1.0,1.0,0.5
+127,2021-04-28,Paris S-G,Manchester City,fr,eng,1.0,2.0,1.0
+128,2021-05-04,Manchester City,Paris S-G,eng,fr,2.0,0.0,0.0
+129,2021-05-05,Chelsea,Real Madrid,eng,es,2.0,0.0,0.0
+130,2021-05-29,Manchester City,Chelsea,eng,eng,0.0,1.0,1.0

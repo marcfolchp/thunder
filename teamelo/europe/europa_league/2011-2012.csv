@@ -1,0 +1,206 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2011-09-15,AZ Alkmaar,Malmö,nl,se,4.0,1.0,0.0
+1,2011-09-15,Hannover 96,Standard Liège,de,be,0.0,0.0,0.5
+2,2011-09-15,Sturm Graz,Loko Moscow,at,ru,1.0,2.0,1.0
+3,2011-09-15,Udinese,Rennes,it,fr,2.0,1.0,0.0
+4,2011-09-15,Fulham,Twente,eng,nl,1.0,1.0,0.5
+5,2011-09-15,Anderlecht,AEK Athens,be,gr,4.0,1.0,0.0
+6,2011-09-15,Atlético Madrid,Celtic,es,sct,2.0,0.0,0.0
+7,2011-09-15,FC Copenhagen,Vorskla Poltava,dk,ua,1.0,0.0,0.0
+8,2011-09-15,Paris S-G,RB Salzburg,fr,at,3.0,1.0,0.0
+9,2011-09-15,Steaua,Schalke 04,ro,de,0.0,0.0,0.5
+10,2011-09-15,ŠK Slovan Bratislava,Athletic Club,sk,es,1.0,2.0,1.0
+11,2011-09-15,Hapoel Tel Aviv,Rapid București,il,ro,0.0,1.0,1.0
+12,2011-09-15,Austria Wien,Metalist Kharkiv,at,ua,1.0,2.0,1.0
+13,2011-09-15,Dynamo Kyiv,Stoke City,ua,eng,1.0,1.0,0.5
+14,2011-09-15,Wisła Kraków,Odense,pl,dk,1.0,3.0,1.0
+15,2011-09-15,Club Brugge,NK Maribor,be,si,2.0,0.0,0.0
+16,2011-09-15,Birmingham City,Braga,eng,pt,1.0,3.0,1.0
+17,2011-09-15,PAOK,Tottenham,gr,eng,0.0,0.0,0.5
+18,2011-09-15,Zürich,Sporting CP,ch,pt,0.0,2.0,1.0
+19,2011-09-15,Shamrock Rov,Rubin Kazan,ie,ru,0.0,3.0,1.0
+20,2011-09-15,PSV Eindhoven,Legia Warsaw,nl,pl,1.0,0.0,0.0
+21,2011-09-15,Beşiktaş,Maccabi Tel Aviv,tr,il,5.0,1.0,0.0
+22,2011-09-15,Maccabi Haifa,AEK Larnaca FC,il,cy,1.0,0.0,0.0
+23,2011-09-15,Lazio,Vaslui,it,ro,2.0,2.0,0.5
+25,2011-09-29,Tottenham,Shamrock Rov,eng,ie,3.0,1.0,0.0
+26,2011-09-29,Twente,Wisła Kraków,nl,pl,4.0,1.0,0.0
+27,2011-09-29,Malmö,Austria Wien,se,at,1.0,2.0,1.0
+28,2011-09-29,Rapid București,PSV Eindhoven,ro,nl,1.0,3.0,1.0
+29,2011-09-29,Sporting CP,Lazio,pt,it,2.0,1.0,0.0
+30,2011-09-29,AEK Larnaca FC,Steaua,cy,ro,1.0,1.0,0.5
+31,2011-09-29,Maccabi Tel Aviv,Dynamo Kyiv,il,ua,1.0,1.0,0.5
+32,2011-09-29,Schalke 04,Maccabi Haifa,de,il,3.0,1.0,0.0
+33,2011-09-29,Stoke City,Beşiktaş,eng,tr,2.0,1.0,0.0
+34,2011-09-29,Standard Liège,FC Copenhagen,be,dk,3.0,0.0,0.0
+35,2011-09-29,NK Maribor,Birmingham City,si,eng,1.0,2.0,1.0
+36,2011-09-29,RB Salzburg,ŠK Slovan Bratislava,at,sk,3.0,0.0,0.0
+37,2011-09-29,Legia Warsaw,Hapoel Tel Aviv,pl,il,3.0,2.0,0.0
+38,2011-09-29,Celtic,Udinese,sct,it,1.0,1.0,0.5
+39,2011-09-29,Loko Moscow,Anderlecht,ru,be,0.0,2.0,1.0
+40,2011-09-29,Rennes,Atlético Madrid,fr,es,1.0,1.0,0.5
+41,2011-09-29,Vaslui,Zürich,ro,ch,2.0,2.0,0.5
+42,2011-09-29,Athletic Club,Paris S-G,es,fr,2.0,0.0,0.0
+43,2011-09-29,Odense,Fulham,dk,eng,0.0,2.0,1.0
+44,2011-09-29,Rubin Kazan,PAOK,ru,gr,2.0,2.0,0.5
+45,2011-09-29,Braga,Club Brugge,pt,be,1.0,2.0,1.0
+46,2011-09-29,AEK Athens,Sturm Graz,gr,at,1.0,2.0,1.0
+47,2011-09-29,Metalist Kharkiv,AZ Alkmaar,ua,nl,1.0,1.0,0.5
+48,2011-09-29,Vorskla Poltava,Hannover 96,ua,de,1.0,2.0,1.0
+50,2011-10-20,Udinese,Atlético Madrid,it,es,2.0,0.0,0.0
+51,2011-10-20,Tottenham,Rubin Kazan,eng,ru,1.0,0.0,0.0
+52,2011-10-20,Stoke City,Maccabi Tel Aviv,eng,il,3.0,0.0,0.0
+53,2011-10-20,Wisła Kraków,Fulham,pl,eng,1.0,0.0,0.0
+54,2011-10-20,Malmö,Metalist Kharkiv,se,ua,1.0,4.0,1.0
+55,2011-10-20,Hapoel Tel Aviv,PSV Eindhoven,il,nl,0.0,1.0,1.0
+56,2011-10-20,Zürich,Lazio,ch,it,1.0,1.0,0.5
+57,2011-10-20,Club Brugge,Birmingham City,be,eng,1.0,2.0,1.0
+58,2011-10-20,AZ Alkmaar,Austria Wien,nl,at,2.0,2.0,0.5
+59,2011-10-20,Maccabi Haifa,Steaua,il,ro,5.0,0.0,0.0
+60,2011-10-20,Athletic Club,RB Salzburg,es,at,2.0,2.0,0.5
+61,2011-10-20,Odense,Twente,dk,nl,1.0,4.0,1.0
+62,2011-10-20,Hannover 96,FC Copenhagen,de,dk,2.0,2.0,0.5
+63,2011-10-20,Sturm Graz,Anderlecht,at,be,0.0,2.0,1.0
+64,2011-10-20,AEK Larnaca FC,Schalke 04,cy,de,0.0,5.0,1.0
+65,2011-10-20,PAOK,Shamrock Rov,gr,ie,2.0,1.0,0.0
+66,2011-10-20,NK Maribor,Braga,si,pt,1.0,1.0,0.5
+67,2011-10-20,Dynamo Kyiv,Beşiktaş,ua,tr,1.0,0.0,0.0
+68,2011-10-20,Standard Liège,Vorskla Poltava,be,ua,0.0,0.0,0.5
+69,2011-10-20,Rennes,Celtic,fr,sct,1.0,1.0,0.5
+70,2011-10-20,Sporting CP,Vaslui,pt,ro,2.0,0.0,0.0
+71,2011-10-20,Rapid București,Legia Warsaw,ro,pl,0.0,1.0,1.0
+72,2011-10-20,ŠK Slovan Bratislava,Paris S-G,sk,fr,0.0,0.0,0.5
+73,2011-10-20,Loko Moscow,AEK Athens,ru,gr,3.0,1.0,0.0
+75,2011-11-03,Metalist Kharkiv,Malmö,ua,se,3.0,1.0,0.0
+76,2011-11-03,Rubin Kazan,Tottenham,ru,eng,1.0,0.0,0.0
+77,2011-11-03,Legia Warsaw,Rapid București,pl,ro,3.0,1.0,0.0
+78,2011-11-03,Steaua,Maccabi Haifa,ro,il,4.0,2.0,0.0
+79,2011-11-03,Vorskla Poltava,Standard Liège,ua,be,1.0,3.0,1.0
+80,2011-11-03,Paris S-G,ŠK Slovan Bratislava,fr,sk,1.0,0.0,0.0
+81,2011-11-03,Fulham,Wisła Kraków,eng,pl,4.0,1.0,0.0
+82,2011-11-03,RB Salzburg,Athletic Club,at,es,0.0,1.0,1.0
+83,2011-11-03,AEK Athens,Loko Moscow,gr,ru,1.0,3.0,1.0
+84,2011-11-03,Birmingham City,Club Brugge,eng,be,2.0,2.0,0.5
+85,2011-11-03,Vaslui,Sporting CP,ro,pt,1.0,0.0,0.0
+86,2011-11-03,Lazio,Zürich,it,ch,1.0,0.0,0.0
+87,2011-11-03,Schalke 04,AEK Larnaca FC,de,cy,0.0,0.0,0.5
+88,2011-11-03,Atlético Madrid,Udinese,es,it,4.0,0.0,0.0
+89,2011-11-03,Celtic,Rennes,sct,fr,3.0,1.0,0.0
+90,2011-11-03,Maccabi Tel Aviv,Stoke City,il,eng,1.0,2.0,1.0
+91,2011-11-03,Shamrock Rov,PAOK,ie,gr,1.0,3.0,1.0
+92,2011-11-03,Anderlecht,Sturm Graz,be,at,3.0,0.0,0.0
+93,2011-11-03,Beşiktaş,Dynamo Kyiv,tr,ua,1.0,0.0,0.0
+94,2011-11-03,PSV Eindhoven,Hapoel Tel Aviv,nl,il,3.0,3.0,0.5
+95,2011-11-03,Austria Wien,AZ Alkmaar,at,nl,2.0,2.0,0.5
+96,2011-11-03,Braga,NK Maribor,pt,si,5.0,1.0,0.0
+97,2011-11-03,FC Copenhagen,Hannover 96,dk,de,1.0,2.0,1.0
+98,2011-11-03,Twente,Odense,nl,dk,3.0,2.0,0.0
+100,2011-11-30,Standard Liège,Hannover 96,be,de,2.0,0.0,0.0
+101,2011-11-30,Legia Warsaw,PSV Eindhoven,pl,nl,0.0,3.0,1.0
+102,2011-11-30,Metalist Kharkiv,Austria Wien,ua,at,4.0,1.0,0.0
+103,2011-11-30,Rennes,Udinese,fr,it,0.0,0.0,0.5
+104,2011-11-30,Vorskla Poltava,FC Copenhagen,ua,dk,1.0,1.0,0.5
+105,2011-11-30,Celtic,Atlético Madrid,sct,es,0.0,1.0,1.0
+106,2011-11-30,Braga,Birmingham City,pt,eng,1.0,0.0,0.0
+107,2011-11-30,Tottenham,PAOK,eng,gr,1.0,2.0,1.0
+108,2011-11-30,NK Maribor,Club Brugge,si,be,3.0,4.0,1.0
+109,2011-11-30,Rubin Kazan,Shamrock Rov,ru,ie,4.0,1.0,0.0
+110,2011-11-30,Malmö,AZ Alkmaar,se,nl,0.0,0.0,0.5
+111,2011-11-30,Rapid București,Hapoel Tel Aviv,ro,il,1.0,3.0,1.0
+112,2011-12-01,AEK Athens,Anderlecht,gr,be,1.0,2.0,1.0
+113,2011-12-01,Twente,Fulham,nl,eng,1.0,0.0,0.0
+114,2011-12-01,Schalke 04,Steaua,de,ro,2.0,1.0,0.0
+115,2011-12-01,RB Salzburg,Paris S-G,at,fr,2.0,0.0,0.0
+116,2011-12-01,AEK Larnaca FC,Maccabi Haifa,cy,il,2.0,1.0,0.0
+117,2011-12-01,Vaslui,Lazio,ro,it,0.0,0.0,0.5
+118,2011-12-01,Stoke City,Dynamo Kyiv,eng,ua,1.0,1.0,0.5
+119,2011-12-01,Maccabi Tel Aviv,Beşiktaş,il,tr,2.0,3.0,1.0
+120,2011-12-01,Athletic Club,ŠK Slovan Bratislava,es,sk,2.0,1.0,0.0
+121,2011-12-01,Loko Moscow,Sturm Graz,ru,at,3.0,1.0,0.0
+122,2011-12-01,Sporting CP,Zürich,pt,ch,2.0,0.0,0.0
+123,2011-12-01,Odense,Wisła Kraków,dk,pl,1.0,2.0,1.0
+125,2011-12-14,ŠK Slovan Bratislava,RB Salzburg,sk,at,2.0,3.0,1.0
+126,2011-12-14,Steaua,AEK Larnaca FC,ro,cy,3.0,1.0,0.0
+127,2011-12-14,Dynamo Kyiv,Maccabi Tel Aviv,ua,il,3.0,3.0,0.5
+128,2011-12-14,Fulham,Odense,eng,dk,2.0,2.0,0.5
+129,2011-12-14,Anderlecht,Loko Moscow,be,ru,5.0,3.0,0.0
+130,2011-12-14,Wisła Kraków,Twente,pl,nl,2.0,1.0,0.0
+131,2011-12-14,Lazio,Sporting CP,it,pt,2.0,0.0,0.0
+132,2011-12-14,Paris S-G,Athletic Club,fr,es,4.0,2.0,0.0
+133,2011-12-14,Maccabi Haifa,Schalke 04,il,de,0.0,3.0,1.0
+134,2011-12-14,Zürich,Vaslui,ch,ro,2.0,0.0,0.0
+135,2011-12-14,Sturm Graz,AEK Athens,at,gr,1.0,3.0,1.0
+136,2011-12-14,Beşiktaş,Stoke City,tr,eng,3.0,1.0,0.0
+137,2011-12-15,Shamrock Rov,Tottenham,ie,eng,0.0,4.0,1.0
+138,2011-12-15,Atlético Madrid,Rennes,es,fr,3.0,1.0,0.0
+139,2011-12-15,FC Copenhagen,Standard Liège,dk,be,0.0,1.0,1.0
+140,2011-12-15,Austria Wien,Malmö,at,se,2.0,0.0,0.0
+141,2011-12-15,Hapoel Tel Aviv,Legia Warsaw,il,pl,2.0,0.0,0.0
+142,2011-12-15,Hannover 96,Vorskla Poltava,de,ua,3.0,1.0,0.0
+143,2011-12-15,PAOK,Rubin Kazan,gr,ru,1.0,1.0,0.5
+144,2011-12-15,PSV Eindhoven,Rapid București,nl,ro,2.0,1.0,0.0
+145,2011-12-15,Birmingham City,NK Maribor,eng,si,1.0,0.0,0.0
+146,2011-12-15,Club Brugge,Braga,be,pt,1.0,1.0,0.5
+147,2011-12-15,Udinese,Celtic,it,sct,1.0,1.0,0.5
+148,2011-12-15,AZ Alkmaar,Metalist Kharkiv,nl,ua,1.0,1.0,0.5
+150,2012-02-14,Braga,Beşiktaş,pt,tr,0.0,2.0,1.0
+151,2012-02-14,Rubin Kazan,Olympiacos,ru,gr,0.0,1.0,1.0
+152,2012-02-16,Wisła Kraków,Standard Liège,pl,be,1.0,1.0,0.5
+153,2012-02-16,Stoke City,Valencia,eng,es,0.0,1.0,1.0
+154,2012-02-16,AZ Alkmaar,Anderlecht,nl,be,1.0,0.0,0.0
+155,2012-02-16,Loko Moscow,Athletic Club,ru,es,2.0,1.0,0.0
+156,2012-02-16,Lazio,Atlético Madrid,it,es,1.0,3.0,1.0
+157,2012-02-16,Udinese,PAOK,it,gr,0.0,0.0,0.5
+158,2012-02-16,Legia Warsaw,Sporting CP,pl,pt,2.0,2.0,0.5
+159,2012-02-16,Steaua,Twente,ro,nl,0.0,1.0,1.0
+160,2012-02-16,Trabzonspor,PSV Eindhoven,tr,nl,1.0,2.0,1.0
+161,2012-02-16,RB Salzburg,Metalist Kharkiv,at,ua,0.0,4.0,1.0
+162,2012-02-16,Viktoria Plzeň,Schalke 04,cz,de,1.0,1.0,0.5
+163,2012-02-16,Ajax,Manchester Utd,nl,eng,0.0,2.0,1.0
+164,2012-02-16,Porto,Manchester City,pt,eng,1.0,2.0,1.0
+165,2012-02-16,Hannover 96,Club Brugge,de,be,2.0,1.0,0.0
+166,2012-02-22,Manchester City,Porto,eng,pt,4.0,0.0,0.0
+167,2012-02-23,Valencia,Stoke City,es,eng,1.0,0.0,0.0
+168,2012-02-23,Beşiktaş,Braga,tr,pt,0.0,1.0,1.0
+169,2012-02-23,Metalist Kharkiv,RB Salzburg,ua,at,4.0,1.0,0.0
+170,2012-02-23,PAOK,Udinese,gr,it,0.0,3.0,1.0
+171,2012-02-23,PSV Eindhoven,Trabzonspor,nl,tr,4.0,1.0,0.0
+172,2012-02-23,Manchester Utd,Ajax,eng,nl,1.0,2.0,1.0
+173,2012-02-23,Schalke 04,Viktoria Plzeň,de,cz,3.0,1.0,0.0
+174,2012-02-23,Athletic Club,Loko Moscow,es,ru,1.0,0.0,0.0
+175,2012-02-23,Standard Liège,Wisła Kraków,be,pl,0.0,0.0,0.5
+176,2012-02-23,Twente,Steaua,nl,ro,1.0,0.0,0.0
+177,2012-02-23,Atlético Madrid,Lazio,es,it,1.0,0.0,0.0
+178,2012-02-23,Anderlecht,AZ Alkmaar,be,nl,0.0,1.0,1.0
+179,2012-02-23,Olympiacos,Rubin Kazan,gr,ru,1.0,0.0,0.0
+180,2012-02-23,Sporting CP,Legia Warsaw,pt,pl,1.0,0.0,0.0
+181,2012-02-23,Club Brugge,Hannover 96,be,de,0.0,1.0,1.0
+182,2012-03-08,Metalist Kharkiv,Olympiacos,ua,gr,0.0,1.0,1.0
+183,2012-03-08,Atlético Madrid,Beşiktaş,es,tr,3.0,1.0,0.0
+184,2012-03-08,Valencia,PSV Eindhoven,es,nl,4.0,2.0,0.0
+185,2012-03-08,AZ Alkmaar,Udinese,nl,it,2.0,0.0,0.0
+186,2012-03-08,Twente,Schalke 04,nl,de,1.0,0.0,0.0
+187,2012-03-08,Standard Liège,Hannover 96,be,de,2.0,2.0,0.5
+188,2012-03-08,Manchester Utd,Athletic Club,eng,es,2.0,3.0,1.0
+189,2012-03-08,Sporting CP,Manchester City,pt,eng,1.0,0.0,0.0
+190,2012-03-15,Udinese,AZ Alkmaar,it,nl,2.0,1.0,0.0
+191,2012-03-15,Beşiktaş,Atlético Madrid,tr,es,0.0,3.0,1.0
+192,2012-03-15,Athletic Club,Manchester Utd,es,eng,2.0,1.0,0.0
+193,2012-03-15,PSV Eindhoven,Valencia,nl,es,1.0,1.0,0.5
+194,2012-03-15,Olympiacos,Metalist Kharkiv,gr,ua,1.0,2.0,1.0
+195,2012-03-15,Manchester City,Sporting CP,eng,pt,3.0,2.0,0.0
+196,2012-03-15,Schalke 04,Twente,de,nl,4.0,1.0,0.0
+197,2012-03-15,Hannover 96,Standard Liège,de,be,4.0,0.0,0.0
+198,2012-03-29,Sporting CP,Metalist Kharkiv,pt,ua,2.0,1.0,0.0
+199,2012-03-29,AZ Alkmaar,Valencia,nl,es,2.0,1.0,0.0
+200,2012-03-29,Atlético Madrid,Hannover 96,es,de,2.0,1.0,0.0
+201,2012-03-29,Schalke 04,Athletic Club,de,es,2.0,4.0,1.0
+202,2012-04-05,Hannover 96,Atlético Madrid,de,es,1.0,2.0,1.0
+203,2012-04-05,Metalist Kharkiv,Sporting CP,ua,pt,1.0,1.0,0.5
+204,2012-04-05,Valencia,AZ Alkmaar,es,nl,4.0,0.0,0.0
+205,2012-04-05,Athletic Club,Schalke 04,es,de,2.0,2.0,0.5
+206,2012-04-19,Atlético Madrid,Valencia,es,es,4.0,2.0,0.0
+207,2012-04-19,Sporting CP,Athletic Club,pt,es,2.0,1.0,0.0
+208,2012-04-26,Athletic Club,Sporting CP,es,pt,3.0,1.0,0.0
+209,2012-04-26,Valencia,Atlético Madrid,es,es,0.0,1.0,1.0
+210,2012-05-09,Atlético Madrid,Athletic Club,es,es,3.0,0.0,0.0

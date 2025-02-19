@@ -1,0 +1,206 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2009-09-17,Partizan,Toulouse,rs,fr,2.0,3.0,1.0
+1,2009-09-17,Dinamo Zagreb,Anderlecht,hr,be,0.0,2.0,1.0
+2,2009-09-17,Sturm Graz,Dinamo,at,ro,0.0,1.0,1.0
+3,2009-09-17,Panathinaikos,Galatasaray,gr,tr,1.0,3.0,1.0
+4,2009-09-17,Fenerbahçe,Twente,tr,nl,1.0,2.0,1.0
+5,2009-09-17,Benfica,BATE Borisov,pt,by,2.0,0.0,0.0
+6,2009-09-17,CFR Cluj,FC Copenhagen,ro,dk,2.0,0.0,0.0
+7,2009-09-17,Hertha BSC,FK Ventspils,de,lv,1.0,1.0,0.5
+8,2009-09-17,Steaua,Sheriff Tiraspol,ro,md,0.0,0.0,0.5
+9,2009-09-17,Nacional,Werder Bremen,pt,de,2.0,3.0,1.0
+10,2009-09-17,Genoa,Slavia Prague,it,cz,2.0,0.0,0.0
+11,2009-09-17,Heerenveen,Sporting CP,nl,pt,2.0,3.0,1.0
+12,2009-09-17,Club Brugge,Shakhtar,be,ua,1.0,4.0,1.0
+13,2009-09-17,CSKA Sofia,Fulham,bg,eng,1.0,1.0,0.5
+14,2009-09-17,Athletic Club,Austria Wien,es,at,3.0,0.0,0.0
+15,2009-09-17,Basel,Roma,ch,it,2.0,0.0,0.0
+16,2009-09-17,Lille,Valencia,fr,es,1.0,1.0,0.5
+17,2009-09-17,Ajax,Politehnica Timișoara,nl,ro,0.0,0.0,0.5
+18,2009-09-17,Everton,AEK Athens,eng,gr,4.0,0.0,0.0
+19,2009-09-17,Lazio,RB Salzburg,it,at,1.0,2.0,1.0
+20,2009-09-17,Hapoel Tel Aviv,Celtic,il,sct,2.0,1.0,0.0
+21,2009-09-17,Sparta Prague,PSV Eindhoven,cz,nl,2.0,2.0,0.5
+22,2009-09-17,Rapid Wien,Hamburger SV,at,de,3.0,0.0,0.0
+23,2009-09-17,Villarreal,Levski Sofia,es,bg,1.0,0.0,0.0
+25,2009-10-01,Sporting CP,Hertha BSC,pt,de,1.0,0.0,0.0
+26,2009-10-01,Twente,Steaua,nl,ro,0.0,0.0,0.5
+27,2009-10-01,Politehnica Timișoara,Dinamo Zagreb,ro,hr,0.0,3.0,1.0
+28,2009-10-01,Hamburger SV,Hapoel Tel Aviv,de,il,4.0,2.0,0.0
+29,2009-10-01,FC Copenhagen,Sparta Prague,dk,cz,1.0,0.0,0.0
+30,2009-10-01,Anderlecht,Ajax,be,nl,1.0,1.0,0.5
+31,2009-10-01,Roma,CSKA Sofia,it,bg,2.0,0.0,0.0
+32,2009-10-01,Galatasaray,Sturm Graz,tr,at,1.0,1.0,0.5
+33,2009-10-01,Fulham,Basel,eng,ch,1.0,0.0,0.0
+34,2009-10-01,RB Salzburg,Villarreal,at,es,2.0,0.0,0.0
+35,2009-10-01,Werder Bremen,Athletic Club,de,es,3.0,1.0,0.0
+36,2009-10-01,PSV Eindhoven,CFR Cluj,nl,ro,1.0,0.0,0.0
+37,2009-10-01,BATE Borisov,Everton,by,eng,1.0,2.0,1.0
+38,2009-10-01,Valencia,Genoa,es,it,3.0,2.0,0.0
+39,2009-10-01,FK Ventspils,Heerenveen,lv,nl,0.0,0.0,0.5
+40,2009-10-01,Slavia Prague,Lille,cz,fr,1.0,5.0,1.0
+41,2009-10-01,Austria Wien,Nacional,at,pt,1.0,1.0,0.5
+42,2009-10-01,Toulouse,Club Brugge,fr,be,2.0,2.0,0.5
+43,2009-10-01,AEK Athens,Benfica,gr,pt,1.0,0.0,0.0
+44,2009-10-01,Celtic,Rapid Wien,sct,at,1.0,1.0,0.5
+45,2009-10-01,Shakhtar,Partizan,ua,rs,4.0,1.0,0.0
+46,2009-10-01,Levski Sofia,Lazio,bg,it,0.0,4.0,1.0
+47,2009-10-01,Sheriff Tiraspol,Fenerbahçe,md,tr,0.0,1.0,1.0
+48,2009-10-01,Dinamo,Panathinaikos,ro,gr,0.0,1.0,1.0
+50,2009-10-22,CSKA Sofia,Basel,bg,ch,0.0,2.0,1.0
+51,2009-10-22,BATE Borisov,AEK Athens,by,gr,2.0,1.0,0.0
+52,2009-10-22,Lille,Genoa,fr,it,3.0,0.0,0.0
+53,2009-10-22,FK Ventspils,Sporting CP,lv,pt,1.0,2.0,1.0
+54,2009-10-22,Hapoel Tel Aviv,Rapid Wien,il,at,5.0,1.0,0.0
+55,2009-10-22,Sheriff Tiraspol,Twente,md,nl,2.0,0.0,0.0
+56,2009-10-22,Austria Wien,Werder Bremen,at,de,2.0,2.0,0.5
+57,2009-10-22,Celtic,Hamburger SV,sct,de,0.0,1.0,1.0
+58,2009-10-22,Sparta Prague,CFR Cluj,cz,ro,2.0,0.0,0.0
+59,2009-10-22,Benfica,Everton,pt,eng,5.0,0.0,0.0
+60,2009-10-22,Shakhtar,Toulouse,ua,fr,4.0,0.0,0.0
+61,2009-10-22,RB Salzburg,Levski Sofia,at,bg,1.0,0.0,0.0
+62,2009-10-22,Galatasaray,Dinamo,tr,ro,4.0,1.0,0.0
+63,2009-10-22,Hertha BSC,Heerenveen,de,nl,0.0,1.0,1.0
+64,2009-10-22,PSV Eindhoven,FC Copenhagen,nl,dk,1.0,0.0,0.0
+65,2009-10-22,Ajax,Dinamo Zagreb,nl,hr,2.0,1.0,0.0
+66,2009-10-22,Steaua,Fenerbahçe,ro,tr,0.0,1.0,1.0
+67,2009-10-22,Lazio,Villarreal,it,es,2.0,1.0,0.0
+68,2009-10-22,Club Brugge,Partizan,be,rs,2.0,0.0,0.0
+69,2009-10-22,Panathinaikos,Sturm Graz,gr,at,1.0,0.0,0.0
+70,2009-10-22,Politehnica Timișoara,Anderlecht,ro,be,0.0,0.0,0.5
+71,2009-10-22,Fulham,Roma,eng,it,1.0,1.0,0.5
+72,2009-10-22,Valencia,Slavia Prague,es,cz,1.0,1.0,0.5
+73,2009-10-22,Athletic Club,Nacional,es,pt,2.0,1.0,0.0
+75,2009-11-05,Dinamo,Galatasaray,ro,tr,0.0,3.0,1.0
+76,2009-11-05,Roma,Fulham,it,eng,2.0,1.0,0.0
+77,2009-11-05,Basel,CSKA Sofia,ch,bg,3.0,1.0,0.0
+78,2009-11-05,Partizan,Club Brugge,rs,be,2.0,4.0,1.0
+79,2009-11-05,Hamburger SV,Celtic,de,sct,0.0,0.0,0.5
+80,2009-11-05,Anderlecht,Politehnica Timișoara,be,ro,3.0,1.0,0.0
+81,2009-11-05,Nacional,Athletic Club,pt,es,1.0,1.0,0.5
+82,2009-11-05,Werder Bremen,Austria Wien,de,at,2.0,0.0,0.0
+83,2009-11-05,CFR Cluj,Sparta Prague,ro,cz,2.0,3.0,1.0
+84,2009-11-05,FC Copenhagen,PSV Eindhoven,dk,nl,1.0,1.0,0.5
+85,2009-11-05,Fenerbahçe,Steaua,tr,ro,3.0,1.0,0.0
+86,2009-11-05,Everton,Benfica,eng,pt,0.0,2.0,1.0
+87,2009-11-05,Sturm Graz,Panathinaikos,at,gr,0.0,1.0,1.0
+88,2009-11-05,Levski Sofia,RB Salzburg,bg,at,0.0,1.0,1.0
+89,2009-11-05,Twente,Sheriff Tiraspol,nl,md,2.0,1.0,0.0
+90,2009-11-05,Dinamo Zagreb,Ajax,hr,nl,0.0,2.0,1.0
+91,2009-11-05,Toulouse,Shakhtar,fr,ua,0.0,2.0,1.0
+92,2009-11-05,AEK Athens,BATE Borisov,gr,by,2.0,2.0,0.5
+93,2009-11-05,Heerenveen,Hertha BSC,nl,de,2.0,3.0,1.0
+94,2009-11-05,Rapid Wien,Hapoel Tel Aviv,at,il,0.0,3.0,1.0
+95,2009-11-05,Slavia Prague,Valencia,cz,es,2.0,2.0,0.5
+96,2009-11-05,Sporting CP,FK Ventspils,pt,lv,1.0,1.0,0.5
+97,2009-11-05,Genoa,Lille,it,fr,3.0,2.0,0.0
+98,2009-11-05,Villarreal,Lazio,es,it,4.0,1.0,0.0
+100,2009-12-02,Politehnica Timișoara,Ajax,ro,nl,1.0,2.0,1.0
+101,2009-12-02,Levski Sofia,Villarreal,bg,es,0.0,2.0,1.0
+102,2009-12-02,Twente,Fenerbahçe,nl,tr,0.0,1.0,1.0
+103,2009-12-02,Anderlecht,Dinamo Zagreb,be,hr,0.0,1.0,1.0
+104,2009-12-02,Slavia Prague,Genoa,cz,it,0.0,0.0,0.5
+105,2009-12-02,AEK Athens,Everton,gr,eng,0.0,1.0,1.0
+106,2009-12-02,RB Salzburg,Lazio,at,it,2.0,1.0,0.0
+107,2009-12-02,Sheriff Tiraspol,Steaua,md,ro,1.0,1.0,0.5
+108,2009-12-02,BATE Borisov,Benfica,by,pt,1.0,2.0,1.0
+109,2009-12-02,Celtic,Hapoel Tel Aviv,sct,il,2.0,0.0,0.0
+110,2009-12-02,Hamburger SV,Rapid Wien,de,at,2.0,0.0,0.0
+111,2009-12-02,Valencia,Lille,es,fr,3.0,1.0,0.0
+112,2009-12-03,FK Ventspils,Hertha BSC,lv,de,0.0,1.0,1.0
+113,2009-12-03,Fulham,CSKA Sofia,eng,bg,1.0,0.0,0.0
+114,2009-12-03,PSV Eindhoven,Sparta Prague,nl,cz,1.0,0.0,0.0
+115,2009-12-03,Werder Bremen,Nacional,de,pt,4.0,1.0,0.0
+116,2009-12-03,Toulouse,Partizan,fr,rs,1.0,0.0,0.0
+117,2009-12-03,Roma,Basel,it,ch,2.0,1.0,0.0
+118,2009-12-03,Dinamo,Sturm Graz,ro,at,2.0,1.0,0.0
+119,2009-12-03,Shakhtar,Club Brugge,ua,be,0.0,0.0,0.5
+120,2009-12-03,FC Copenhagen,CFR Cluj,dk,ro,2.0,0.0,0.0
+121,2009-12-03,Galatasaray,Panathinaikos,tr,gr,1.0,0.0,0.0
+122,2009-12-03,Sporting CP,Heerenveen,pt,nl,1.0,1.0,0.5
+123,2009-12-03,Austria Wien,Athletic Club,at,es,0.0,3.0,1.0
+125,2009-12-16,Club Brugge,Toulouse,be,fr,1.0,0.0,0.0
+126,2009-12-16,CSKA Sofia,Roma,bg,it,0.0,3.0,1.0
+127,2009-12-16,Panathinaikos,Dinamo,gr,ro,3.0,0.0,0.0
+128,2009-12-16,Heerenveen,FK Ventspils,nl,lv,5.0,0.0,0.0
+129,2009-12-16,Partizan,Shakhtar,rs,ua,1.0,0.0,0.0
+130,2009-12-16,Basel,Fulham,ch,eng,2.0,3.0,1.0
+131,2009-12-16,Hertha BSC,Sporting CP,de,pt,1.0,0.0,0.0
+132,2009-12-16,Athletic Club,Werder Bremen,es,de,0.0,3.0,1.0
+133,2009-12-16,Nacional,Austria Wien,pt,at,5.0,1.0,0.0
+134,2009-12-16,CFR Cluj,PSV Eindhoven,ro,nl,0.0,2.0,1.0
+135,2009-12-16,Sturm Graz,Galatasaray,at,tr,1.0,0.0,0.0
+136,2009-12-16,Sparta Prague,FC Copenhagen,cz,dk,0.0,3.0,1.0
+137,2009-12-17,Ajax,Anderlecht,nl,be,1.0,3.0,1.0
+138,2009-12-17,Steaua,Twente,ro,nl,1.0,1.0,0.5
+139,2009-12-17,Dinamo Zagreb,Politehnica Timișoara,hr,ro,1.0,2.0,1.0
+140,2009-12-17,Rapid Wien,Celtic,at,sct,3.0,3.0,0.5
+141,2009-12-17,Benfica,AEK Athens,pt,gr,2.0,1.0,0.0
+142,2009-12-17,Villarreal,RB Salzburg,es,at,0.0,1.0,1.0
+143,2009-12-17,Lille,Slavia Prague,fr,cz,3.0,1.0,0.0
+144,2009-12-17,Fenerbahçe,Sheriff Tiraspol,tr,md,1.0,0.0,0.0
+145,2009-12-17,Everton,BATE Borisov,eng,by,0.0,1.0,1.0
+146,2009-12-17,Lazio,Levski Sofia,it,bg,0.0,1.0,1.0
+147,2009-12-17,Genoa,Valencia,it,es,1.0,2.0,1.0
+148,2009-12-17,Hapoel Tel Aviv,Hamburger SV,il,de,1.0,0.0,0.0
+150,2010-02-16,Everton,Sporting CP,eng,pt,2.0,1.0,0.0
+151,2010-02-18,Standard Liège,RB Salzburg,be,at,3.0,2.0,0.0
+152,2010-02-18,Twente,Werder Bremen,nl,de,1.0,0.0,0.0
+153,2010-02-18,Hertha BSC,Benfica,de,pt,1.0,1.0,0.5
+154,2010-02-18,Liverpool,Unirea Urziceni,eng,ro,1.0,0.0,0.0
+155,2010-02-18,Club Brugge,Valencia,be,es,1.0,0.0,0.0
+156,2010-02-18,FC Copenhagen,Marseille,dk,fr,1.0,3.0,1.0
+157,2010-02-18,Lille,Fenerbahçe,fr,tr,2.0,1.0,0.0
+158,2010-02-18,Rubin Kazan,Hapoel Tel Aviv,ru,il,3.0,0.0,0.0
+159,2010-02-18,Fulham,Shakhtar,eng,ua,2.0,1.0,0.0
+160,2010-02-18,Villarreal,Wolfsburg,es,de,2.0,2.0,0.5
+161,2010-02-18,Ajax,Juventus,nl,it,1.0,2.0,1.0
+162,2010-02-18,Atlético Madrid,Galatasaray,es,tr,1.0,1.0,0.5
+163,2010-02-18,Hamburger SV,PSV Eindhoven,de,nl,1.0,0.0,0.0
+164,2010-02-18,Panathinaikos,Roma,gr,it,3.0,2.0,0.0
+165,2010-02-18,Athletic Club,Anderlecht,es,be,1.0,1.0,0.5
+166,2010-02-23,Benfica,Hertha BSC,pt,de,4.0,0.0,0.0
+167,2010-02-25,Shakhtar,Fulham,ua,eng,1.0,1.0,0.5
+168,2010-02-25,Galatasaray,Atlético Madrid,tr,es,1.0,2.0,1.0
+169,2010-02-25,Marseille,FC Copenhagen,fr,dk,3.0,1.0,0.0
+170,2010-02-25,Fenerbahçe,Lille,tr,fr,1.0,1.0,0.5
+171,2010-02-25,Juventus,Ajax,it,nl,0.0,0.0,0.5
+172,2010-02-25,Unirea Urziceni,Liverpool,ro,eng,1.0,3.0,1.0
+173,2010-02-25,Wolfsburg,Villarreal,de,es,4.0,1.0,0.0
+174,2010-02-25,RB Salzburg,Standard Liège,at,be,0.0,0.0,0.5
+175,2010-02-25,Hapoel Tel Aviv,Rubin Kazan,il,ru,0.0,0.0,0.5
+176,2010-02-25,PSV Eindhoven,Hamburger SV,nl,de,3.0,2.0,0.0
+177,2010-02-25,Anderlecht,Athletic Club,be,es,4.0,0.0,0.0
+178,2010-02-25,Sporting CP,Everton,pt,eng,3.0,0.0,0.0
+179,2010-02-25,Roma,Panathinaikos,it,gr,2.0,3.0,1.0
+180,2010-02-25,Valencia,Club Brugge,es,be,3.0,0.0,0.0
+181,2010-02-25,Werder Bremen,Twente,de,nl,4.0,1.0,0.0
+182,2010-03-11,Valencia,Werder Bremen,es,de,1.0,1.0,0.5
+183,2010-03-11,Atlético Madrid,Sporting CP,es,pt,0.0,0.0,0.5
+184,2010-03-11,Juventus,Fulham,it,eng,3.0,1.0,0.0
+185,2010-03-11,Rubin Kazan,Wolfsburg,ru,de,1.0,1.0,0.5
+186,2010-03-11,Hamburger SV,Anderlecht,de,be,3.0,1.0,0.0
+187,2010-03-11,Benfica,Marseille,pt,fr,1.0,1.0,0.5
+188,2010-03-11,Lille,Liverpool,fr,eng,1.0,0.0,0.0
+189,2010-03-11,Panathinaikos,Standard Liège,gr,be,1.0,3.0,1.0
+190,2010-03-18,Anderlecht,Hamburger SV,be,de,4.0,3.0,0.0
+191,2010-03-18,Marseille,Benfica,fr,pt,1.0,2.0,1.0
+192,2010-03-18,Liverpool,Lille,eng,fr,3.0,0.0,0.0
+193,2010-03-18,Fulham,Juventus,eng,it,4.0,1.0,0.0
+194,2010-03-18,Werder Bremen,Valencia,de,es,4.0,4.0,0.5
+195,2010-03-18,Wolfsburg,Rubin Kazan,de,ru,2.0,1.0,0.0
+196,2010-03-18,Standard Liège,Panathinaikos,be,gr,1.0,0.0,0.0
+197,2010-03-18,Sporting CP,Atlético Madrid,pt,es,2.0,2.0,0.5
+198,2010-04-01,Fulham,Wolfsburg,eng,de,2.0,1.0,0.0
+199,2010-04-01,Benfica,Liverpool,pt,eng,2.0,1.0,0.0
+200,2010-04-01,Hamburger SV,Standard Liège,de,be,2.0,1.0,0.0
+201,2010-04-01,Valencia,Atlético Madrid,es,es,2.0,2.0,0.5
+202,2010-04-08,Wolfsburg,Fulham,de,eng,0.0,1.0,1.0
+203,2010-04-08,Atlético Madrid,Valencia,es,es,0.0,0.0,0.5
+204,2010-04-08,Standard Liège,Hamburger SV,be,de,1.0,3.0,1.0
+205,2010-04-08,Liverpool,Benfica,eng,pt,4.0,1.0,0.0
+206,2010-04-22,Hamburger SV,Fulham,de,eng,0.0,0.0,0.5
+207,2010-04-22,Atlético Madrid,Liverpool,es,eng,1.0,0.0,0.0
+208,2010-04-29,Liverpool,Atlético Madrid,eng,es,2.0,1.0,0.0
+209,2010-04-29,Fulham,Hamburger SV,eng,de,2.0,1.0,0.0
+210,2010-05-12,Atlético Madrid,Fulham,es,eng,2.0,1.0,0.0

@@ -1,0 +1,222 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2007-09-18,Litex Lovech,Hamburger SV,bg,de,0.0,1.0,1.0
+1,2007-09-19,Lens,FC Copenhagen,fr,dk,1.0,1.0,0.5
+2,2007-09-20,Sion,Galatasaray,ch,tr,3.0,2.0,0.0
+3,2007-09-20,Heerenveen,Helsingborg,nl,se,5.0,3.0,0.0
+4,2007-09-20,Larissa,Blackburn,gr,eng,2.0,0.0,0.0
+5,2007-09-20,Bayern Munich,Belenenses,de,pt,1.0,0.0,0.0
+6,2007-09-20,Tottenham,Anorthosis,eng,cy,6.0,1.0,0.0
+7,2007-09-20,Empoli,Zürich,it,ch,2.0,1.0,0.0
+8,2007-09-20,Hammarby,Braga,se,pt,2.0,1.0,0.0
+9,2007-09-20,Hapoel Tel Aviv,AIK Stockholm,il,se,0.0,0.0,0.5
+10,2007-09-20,Zenit,Standard Liège,ru,be,3.0,0.0,0.0
+11,2007-09-20,Nürnberg,Rapid București,de,ro,0.0,0.0,0.5
+12,2007-09-20,Dinamo Zagreb,Ajax,hr,nl,0.0,1.0,1.0
+13,2007-09-20,Artmedia,Panathinaikos,sk,gr,1.0,2.0,1.0
+14,2007-09-20,Anderlecht,Rapid Wien,be,at,1.0,1.0,0.5
+15,2007-09-20,Tampere United,Bordeaux,fi,fr,2.0,3.0,1.0
+16,2007-09-20,FK Rabotnički,Bolton,mk,eng,1.0,1.0,0.5
+17,2007-09-20,Mladá Boleslav,Palermo,cz,it,0.0,1.0,1.0
+18,2007-09-20,Aris,Zaragoza,gr,es,1.0,0.0,0.0
+19,2007-09-20,Paços,AZ Alkmaar,pt,nl,0.0,1.0,1.0
+20,2007-09-20,Leverkusen,União de Leiria,de,pt,3.0,1.0,0.0
+21,2007-09-20,Dinamo,Elfsborg,ro,se,1.0,2.0,1.0
+22,2007-09-20,Sochaux,Panionios,fr,gr,0.0,2.0,1.0
+23,2007-09-20,Dyskobolia,Red Star,pl,rs,0.0,1.0,1.0
+24,2007-09-20,Getafe,Twente,es,nl,1.0,0.0,0.0
+25,2007-09-20,Villarreal,BATE Borisov,es,by,4.0,1.0,0.0
+26,2007-09-20,Spartak Moscow,Häcken,ru,se,5.0,0.0,0.0
+27,2007-09-20,AEK Athens,RB Salzburg,gr,at,3.0,0.0,0.0
+28,2007-09-20,Midtjylland,Loko Moscow,dk,ru,1.0,3.0,1.0
+29,2007-09-20,Groningen,Fiorentina,nl,it,1.0,1.0,0.5
+30,2007-09-20,Toulouse,CSKA Sofia,fr,bg,0.0,0.0,0.5
+31,2007-09-20,Aberdeen,Dnipro,sct,ua,0.0,0.0,0.5
+32,2007-09-20,Austria Wien,Vålerenga,at,no,2.0,0.0,0.0
+33,2007-09-20,Everton,Metalist Kharkiv,eng,ua,1.0,1.0,0.5
+34,2007-09-20,Atlético Madrid,Kayseri Erciyes,es,tr,4.0,0.0,0.0
+35,2007-09-20,Brann,Club Brugge,no,be,0.0,1.0,1.0
+36,2007-09-20,Sampdoria,Aalborg,it,dk,2.0,2.0,0.5
+37,2007-09-20,Lokomotiv Sofia,Rennes,bg,fr,1.0,3.0,1.0
+38,2007-09-20,Sparta Prague,Odense,cz,dk,0.0,0.0,0.5
+39,2007-09-20,Sarajevo,Basel,ba,ch,1.0,2.0,1.0
+40,2007-10-02,Panathinaikos,Artmedia,gr,sk,3.0,0.0,0.0
+41,2007-10-04,Palermo,Mladá Boleslav,it,cz,0.0,1.0,1.0
+42,2007-10-04,Rapid București,Nürnberg,ro,de,2.0,2.0,0.5
+43,2007-10-04,Blackburn,Larissa,eng,gr,2.0,1.0,0.0
+44,2007-10-04,Fiorentina,Groningen,it,nl,1.0,1.0,0.5
+45,2007-10-04,Ajax,Dinamo Zagreb,nl,hr,2.0,3.0,1.0
+46,2007-10-04,BATE Borisov,Villarreal,by,es,0.0,2.0,1.0
+47,2007-10-04,AIK Stockholm,Hapoel Tel Aviv,se,il,0.0,1.0,1.0
+48,2007-10-04,Loko Moscow,Midtjylland,ru,dk,2.0,0.0,0.0
+49,2007-10-04,Metalist Kharkiv,Everton,ua,eng,2.0,3.0,1.0
+50,2007-10-04,RB Salzburg,AEK Athens,at,gr,1.0,0.0,0.0
+51,2007-10-04,Zaragoza,Aris,es,gr,2.0,1.0,0.0
+52,2007-10-04,Galatasaray,Sion,tr,ch,5.0,1.0,0.0
+53,2007-10-04,Anorthosis,Tottenham,cy,eng,1.0,1.0,0.5
+54,2007-10-04,Dnipro,Aberdeen,ua,sct,1.0,1.0,0.5
+55,2007-10-04,Red Star,Dyskobolia,rs,pl,1.0,0.0,0.0
+56,2007-10-04,Standard Liège,Zenit,be,ru,1.0,1.0,0.5
+57,2007-10-04,Twente,Getafe,nl,es,3.0,2.0,0.0
+58,2007-10-04,Club Brugge,Brann,be,no,1.0,2.0,1.0
+59,2007-10-04,Hamburger SV,Litex Lovech,de,bg,3.0,1.0,0.0
+60,2007-10-04,Zürich,Empoli,ch,it,3.0,0.0,0.0
+61,2007-10-04,Odense,Sparta Prague,dk,cz,0.0,0.0,0.5
+62,2007-10-04,Rennes,Lokomotiv Sofia,fr,bg,1.0,2.0,1.0
+63,2007-10-04,Elfsborg,Dinamo,se,ro,0.0,1.0,1.0
+64,2007-10-04,Bordeaux,Tampere United,fr,fi,1.0,1.0,0.5
+65,2007-10-04,FC Copenhagen,Lens,dk,fr,2.0,1.0,0.0
+66,2007-10-04,Helsingborg,Heerenveen,se,nl,5.0,1.0,0.0
+67,2007-10-04,Belenenses,Bayern Munich,pt,de,0.0,2.0,1.0
+68,2007-10-04,Aalborg,Sampdoria,dk,it,0.0,0.0,0.5
+69,2007-10-04,Häcken,Spartak Moscow,se,ru,1.0,3.0,1.0
+70,2007-10-04,Rapid Wien,Anderlecht,at,be,0.0,1.0,1.0
+71,2007-10-04,União de Leiria,Leverkusen,pt,de,3.0,2.0,0.0
+72,2007-10-04,Braga,Hammarby,pt,se,4.0,0.0,0.0
+73,2007-10-04,Vålerenga,Austria Wien,no,at,2.0,2.0,0.5
+74,2007-10-04,CSKA Sofia,Toulouse,bg,fr,1.0,1.0,0.5
+75,2007-10-04,AZ Alkmaar,Paços,nl,pt,0.0,0.0,0.5
+76,2007-10-04,Basel,Sarajevo,ch,ba,6.0,0.0,0.0
+77,2007-10-04,Bolton,FK Rabotnički,eng,mk,1.0,0.0,0.0
+78,2007-10-04,Panionios,Sochaux,gr,fr,0.0,1.0,1.0
+79,2007-10-04,Kayseri Erciyes,Atlético Madrid,tr,es,0.0,5.0,1.0
+80,2007-10-25,Red Star,Bayern Munich,rs,de,2.0,3.0,1.0
+81,2007-10-25,Leverkusen,Toulouse,de,fr,1.0,0.0,0.0
+82,2007-10-25,Helsingborg,Panionios,se,gr,1.0,1.0,0.5
+83,2007-10-25,Panathinaikos,Aberdeen,gr,sct,3.0,0.0,0.0
+84,2007-10-25,Villarreal,Fiorentina,es,it,1.0,1.0,0.5
+85,2007-10-25,Loko Moscow,Atlético Madrid,ru,es,3.0,3.0,0.5
+86,2007-10-25,Tottenham,Getafe,eng,es,1.0,2.0,1.0
+87,2007-10-25,Basel,Rennes,ch,fr,1.0,0.0,0.0
+88,2007-10-25,Elfsborg,AEK Athens,se,gr,1.0,1.0,0.5
+89,2007-10-25,Anderlecht,Hapoel Tel Aviv,be,il,2.0,0.0,0.0
+90,2007-10-25,Sparta Prague,Zürich,cz,ch,1.0,2.0,1.0
+91,2007-10-25,Zenit,AZ Alkmaar,ru,nl,1.0,1.0,0.5
+92,2007-10-25,Bordeaux,Galatasaray,fr,tr,2.0,1.0,0.0
+93,2007-10-25,Bolton,Braga,eng,pt,1.0,1.0,0.5
+94,2007-10-25,Everton,Larissa,eng,gr,3.0,1.0,0.0
+95,2007-10-25,Brann,Hamburger SV,no,de,0.0,1.0,1.0
+97,2007-11-08,Aris,Red Star,gr,rs,3.0,0.0,0.0
+98,2007-11-08,Dinamo Zagreb,Basel,hr,ch,0.0,0.0,0.5
+99,2007-11-08,Galatasaray,Helsingborg,tr,se,2.0,3.0,1.0
+100,2007-11-08,Mladá Boleslav,Villarreal,cz,es,1.0,2.0,1.0
+101,2007-11-08,Bayern Munich,Bolton,de,eng,2.0,2.0,0.5
+102,2007-11-08,Aalborg,Anderlecht,dk,be,1.0,1.0,0.5
+103,2007-11-08,Aberdeen,Loko Moscow,sct,ru,1.0,1.0,0.5
+104,2007-11-08,Fiorentina,Elfsborg,it,se,6.0,1.0,0.0
+105,2007-11-08,Rennes,Brann,fr,no,1.0,1.0,0.5
+106,2007-11-08,Larissa,Zenit,gr,ru,2.0,3.0,1.0
+107,2007-11-08,Nürnberg,Everton,de,eng,0.0,2.0,1.0
+108,2007-11-08,Hapoel Tel Aviv,Tottenham,il,eng,0.0,2.0,1.0
+109,2007-11-08,Austria Wien,Bordeaux,at,fr,1.0,2.0,1.0
+110,2007-11-08,FC Copenhagen,Panathinaikos,dk,gr,0.0,1.0,1.0
+111,2007-11-08,Spartak Moscow,Leverkusen,ru,de,2.0,1.0,0.0
+112,2007-11-08,Toulouse,Sparta Prague,fr,cz,2.0,3.0,1.0
+114,2007-11-29,Loko Moscow,FC Copenhagen,ru,dk,0.0,1.0,1.0
+115,2007-11-29,AEK Athens,Fiorentina,gr,it,1.0,1.0,0.5
+116,2007-11-29,Bolton,Aris,eng,gr,1.0,1.0,0.5
+117,2007-11-29,Tottenham,Aalborg,eng,dk,3.0,2.0,0.0
+118,2007-11-29,Panionios,Galatasaray,gr,tr,0.0,3.0,1.0
+119,2007-11-29,AZ Alkmaar,Larissa,nl,gr,1.0,0.0,0.0
+120,2007-11-29,Elfsborg,Mladá Boleslav,se,cz,1.0,3.0,1.0
+121,2007-11-29,Braga,Bayern Munich,pt,de,1.0,1.0,0.5
+122,2007-11-29,Brann,Dinamo Zagreb,no,hr,2.0,1.0,0.0
+123,2007-11-29,Zürich,Toulouse,ch,fr,2.0,0.0,0.0
+124,2007-11-29,Atlético Madrid,Aberdeen,es,sct,2.0,0.0,0.0
+125,2007-11-29,Hamburger SV,Rennes,de,fr,3.0,0.0,0.0
+126,2007-11-29,Helsingborg,Austria Wien,se,at,3.0,0.0,0.0
+127,2007-11-29,Getafe,Hapoel Tel Aviv,es,il,1.0,2.0,1.0
+128,2007-11-29,Sparta Prague,Spartak Moscow,cz,ru,0.0,0.0,0.5
+129,2007-11-29,Zenit,Nürnberg,ru,de,2.0,2.0,0.5
+131,2007-12-05,Panathinaikos,Loko Moscow,gr,ru,2.0,0.0,0.0
+132,2007-12-05,FC Copenhagen,Atlético Madrid,dk,es,0.0,2.0,1.0
+133,2007-12-05,Everton,Zenit,eng,ru,1.0,0.0,0.0
+134,2007-12-05,Nürnberg,AZ Alkmaar,de,nl,2.0,1.0,0.0
+135,2007-12-05,Basel,Brann,ch,no,1.0,0.0,0.0
+136,2007-12-05,Dinamo Zagreb,Hamburger SV,hr,de,0.0,2.0,1.0
+137,2007-12-05,Mladá Boleslav,AEK Athens,cz,gr,0.0,1.0,1.0
+138,2007-12-05,Villarreal,Elfsborg,es,se,2.0,0.0,0.0
+139,2007-12-06,Austria Wien,Panionios,at,gr,0.0,1.0,1.0
+140,2007-12-06,Spartak Moscow,Zürich,ru,ch,1.0,0.0,0.0
+141,2007-12-06,Aris,Braga,gr,pt,1.0,1.0,0.5
+142,2007-12-06,Bordeaux,Helsingborg,fr,se,2.0,1.0,0.0
+143,2007-12-06,Leverkusen,Sparta Prague,de,cz,1.0,0.0,0.0
+144,2007-12-06,Anderlecht,Tottenham,be,eng,1.0,1.0,0.5
+145,2007-12-06,Aalborg,Getafe,dk,es,1.0,2.0,1.0
+146,2007-12-06,Red Star,Bolton,rs,eng,0.0,1.0,1.0
+148,2007-12-19,Bayern Munich,Aris,de,gr,6.0,0.0,0.0
+149,2007-12-19,Toulouse,Spartak Moscow,fr,ru,2.0,1.0,0.0
+150,2007-12-19,Panionios,Bordeaux,gr,fr,2.0,3.0,1.0
+151,2007-12-19,Braga,Red Star,pt,rs,2.0,0.0,0.0
+152,2007-12-19,Galatasaray,Austria Wien,tr,at,0.0,0.0,0.5
+153,2007-12-19,Getafe,Anderlecht,es,be,2.0,1.0,0.0
+154,2007-12-19,Zürich,Leverkusen,ch,de,0.0,5.0,1.0
+155,2007-12-19,Hapoel Tel Aviv,Aalborg,il,dk,1.0,3.0,1.0
+156,2007-12-20,AZ Alkmaar,Everton,nl,eng,2.0,3.0,1.0
+157,2007-12-20,Larissa,Nürnberg,gr,de,1.0,3.0,1.0
+158,2007-12-20,AEK Athens,Villarreal,gr,es,1.0,2.0,1.0
+159,2007-12-20,Rennes,Dinamo Zagreb,fr,hr,1.0,1.0,0.5
+160,2007-12-20,Hamburger SV,Basel,de,ch,1.0,1.0,0.5
+161,2007-12-20,Aberdeen,FC Copenhagen,sct,dk,4.0,0.0,0.0
+162,2007-12-20,Atlético Madrid,Panathinaikos,es,gr,2.0,1.0,0.0
+163,2007-12-20,Fiorentina,Mladá Boleslav,it,cz,2.0,1.0,0.0
+165,2008-02-13,Sporting CP,Basel,pt,ch,2.0,0.0,0.0
+166,2008-02-13,Marseille,Spartak Moscow,fr,ru,3.0,0.0,0.0
+167,2008-02-13,Galatasaray,Leverkusen,tr,de,0.0,0.0,0.5
+168,2008-02-13,Anderlecht,Bordeaux,be,fr,2.0,1.0,0.0
+169,2008-02-13,PSV Eindhoven,Helsingborg,nl,se,2.0,0.0,0.0
+170,2008-02-13,Rangers,Panathinaikos,sct,gr,0.0,0.0,0.5
+171,2008-02-13,Brann,Everton,no,eng,0.0,2.0,1.0
+172,2008-02-13,Werder Bremen,Braga,de,pt,3.0,0.0,0.0
+173,2008-02-13,Zenit,Villarreal,ru,es,1.0,0.0,0.0
+174,2008-02-13,AEK Athens,Getafe,gr,es,1.0,1.0,0.5
+175,2008-02-14,Bolton,Atlético Madrid,eng,es,1.0,0.0,0.0
+176,2008-02-14,Rosenborg,Fiorentina,no,it,0.0,1.0,1.0
+177,2008-02-14,Aberdeen,Bayern Munich,sct,de,2.0,2.0,0.5
+178,2008-02-14,Slavia Prague,Tottenham,cz,eng,1.0,2.0,1.0
+179,2008-02-14,Benfica,Nürnberg,pt,de,1.0,0.0,0.0
+180,2008-02-14,Zürich,Hamburger SV,ch,de,1.0,3.0,1.0
+181,2008-02-21,Fiorentina,Rosenborg,it,no,2.0,1.0,0.0
+182,2008-02-21,Nürnberg,Benfica,de,pt,2.0,2.0,0.5
+183,2008-02-21,Everton,Brann,eng,no,6.0,1.0,0.0
+184,2008-02-21,Hamburger SV,Zürich,de,ch,0.0,0.0,0.5
+185,2008-02-21,Atlético Madrid,Bolton,es,eng,0.0,0.0,0.5
+186,2008-02-21,Villarreal,Zenit,es,ru,2.0,1.0,0.0
+187,2008-02-21,Basel,Sporting CP,ch,pt,0.0,3.0,1.0
+188,2008-02-21,Bordeaux,Anderlecht,fr,be,1.0,1.0,0.5
+189,2008-02-21,Spartak Moscow,Marseille,ru,fr,2.0,0.0,0.0
+190,2008-02-21,Bayern Munich,Aberdeen,de,sct,5.0,1.0,0.0
+191,2008-02-21,Leverkusen,Galatasaray,de,tr,5.0,1.0,0.0
+192,2008-02-21,Tottenham,Slavia Prague,eng,cz,1.0,1.0,0.5
+193,2008-02-21,Panathinaikos,Rangers,gr,sct,1.0,1.0,0.5
+194,2008-02-21,Helsingborg,PSV Eindhoven,se,nl,1.0,2.0,1.0
+195,2008-02-21,Getafe,AEK Athens,es,gr,3.0,0.0,0.0
+196,2008-02-21,Braga,Werder Bremen,pt,de,0.0,1.0,1.0
+197,2008-03-06,Rangers,Werder Bremen,sct,de,2.0,0.0,0.0
+198,2008-03-06,Anderlecht,Bayern Munich,be,de,0.0,5.0,1.0
+199,2008-03-06,Leverkusen,Hamburger SV,de,de,1.0,0.0,0.0
+200,2008-03-06,Tottenham,PSV Eindhoven,eng,nl,0.0,1.0,1.0
+201,2008-03-06,Benfica,Getafe,pt,es,1.0,2.0,1.0
+202,2008-03-06,Fiorentina,Everton,it,eng,2.0,0.0,0.0
+203,2008-03-06,Bolton,Sporting CP,eng,pt,1.0,1.0,0.5
+204,2008-03-06,Marseille,Zenit,fr,ru,3.0,1.0,0.0
+205,2008-03-12,Hamburger SV,Leverkusen,de,de,3.0,2.0,0.0
+206,2008-03-12,Bayern Munich,Anderlecht,de,be,1.0,2.0,1.0
+207,2008-03-12,PSV Eindhoven,Tottenham,nl,eng,0.0,1.0,1.0
+208,2008-03-12,Getafe,Benfica,es,pt,1.0,0.0,0.0
+209,2008-03-12,Everton,Fiorentina,eng,it,2.0,0.0,0.0
+210,2008-03-12,Zenit,Marseille,ru,fr,2.0,0.0,0.0
+211,2008-03-13,Sporting CP,Bolton,pt,eng,1.0,0.0,0.0
+212,2008-03-13,Werder Bremen,Rangers,de,sct,1.0,0.0,0.0
+213,2008-04-03,Rangers,Sporting CP,sct,pt,0.0,0.0,0.5
+214,2008-04-03,Leverkusen,Zenit,de,ru,1.0,4.0,1.0
+215,2008-04-03,Bayern Munich,Getafe,de,es,1.0,1.0,0.5
+216,2008-04-03,Fiorentina,PSV Eindhoven,it,nl,1.0,1.0,0.5
+217,2008-04-10,Sporting CP,Rangers,pt,sct,0.0,2.0,1.0
+218,2008-04-10,Getafe,Bayern Munich,es,de,3.0,3.0,0.5
+219,2008-04-10,PSV Eindhoven,Fiorentina,nl,it,0.0,2.0,1.0
+220,2008-04-10,Zenit,Leverkusen,ru,de,0.0,1.0,1.0
+221,2008-04-24,Rangers,Fiorentina,sct,it,0.0,0.0,0.5
+222,2008-04-24,Bayern Munich,Zenit,de,ru,1.0,1.0,0.5
+223,2008-05-01,Zenit,Bayern Munich,ru,de,4.0,0.0,0.0
+224,2008-05-01,Fiorentina,Rangers,it,sct,0.0,0.0,0.5
+225,2008-05-14,Zenit,Rangers,ru,sct,2.0,0.0,0.0

@@ -1,0 +1,140 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2021-09-15,Spartak Moscow,Legia Warsaw,ru,pl,0.0,1.0,1.0
+1,2021-09-16,Betis,Celtic,es,sct,4.0,3.0,0.0
+2,2021-09-16,Rapid Wien,Genk,at,be,0.0,1.0,1.0
+3,2021-09-16,Red Star,Braga,rs,pt,2.0,1.0,0.0
+4,2021-09-16,Leverkusen,Ferencváros,de,hu,2.0,1.0,0.0
+5,2021-09-16,Midtjylland,Ludogorets,dk,bg,1.0,1.0,0.5
+6,2021-09-16,Dinamo Zagreb,West Ham,hr,eng,0.0,2.0,1.0
+7,2021-09-16,Loko Moscow,Marseille,ru,fr,1.0,1.0,0.5
+8,2021-09-16,Galatasaray,Lazio,tr,it,1.0,0.0,0.0
+9,2021-09-16,Rangers,Lyon,sct,fr,0.0,2.0,1.0
+10,2021-09-16,Leicester City,Napoli,eng,it,2.0,2.0,0.5
+11,2021-09-16,PSV Eindhoven,Real Sociedad,nl,es,2.0,2.0,0.5
+12,2021-09-16,Brøndby,Sparta Prague,dk,cz,0.0,0.0,0.5
+13,2021-09-16,Eint Frankfurt,Fenerbahçe,de,tr,1.0,1.0,0.5
+14,2021-09-16,Monaco,Sturm Graz,fr,at,1.0,0.0,0.0
+15,2021-09-16,Olympiacos,Antwerp,gr,be,2.0,1.0,0.0
+17,2021-09-30,Lyon,Brøndby,fr,dk,3.0,0.0,0.0
+18,2021-09-30,Napoli,Spartak Moscow,it,ru,2.0,3.0,1.0
+19,2021-09-30,Sturm Graz,PSV Eindhoven,at,nl,1.0,4.0,1.0
+20,2021-09-30,Legia Warsaw,Leicester City,pl,eng,1.0,0.0,0.0
+21,2021-09-30,Real Sociedad,Monaco,es,fr,1.0,1.0,0.5
+22,2021-09-30,Sparta Prague,Rangers,cz,sct,1.0,0.0,0.0
+23,2021-09-30,Antwerp,Eint Frankfurt,be,de,0.0,1.0,1.0
+24,2021-09-30,Fenerbahçe,Olympiacos,tr,gr,0.0,3.0,1.0
+25,2021-09-30,Celtic,Leverkusen,sct,de,0.0,4.0,1.0
+26,2021-09-30,West Ham,Rapid Wien,eng,at,2.0,0.0,0.0
+27,2021-09-30,Braga,Midtjylland,pt,dk,3.0,1.0,0.0
+28,2021-09-30,Marseille,Galatasaray,fr,tr,0.0,0.0,0.5
+29,2021-09-30,Genk,Dinamo Zagreb,be,hr,0.0,3.0,1.0
+30,2021-09-30,Ferencváros,Betis,hu,es,1.0,3.0,1.0
+31,2021-09-30,Lazio,Loko Moscow,it,ru,2.0,0.0,0.0
+32,2021-09-30,Ludogorets,Red Star,bg,rs,0.0,1.0,1.0
+34,2021-10-19,Celtic,Ferencváros,sct,hu,2.0,0.0,0.0
+35,2021-10-20,Spartak Moscow,Leicester City,ru,eng,3.0,4.0,1.0
+36,2021-10-21,Betis,Leverkusen,es,de,1.0,1.0,0.5
+37,2021-10-21,Midtjylland,Red Star,dk,rs,1.0,1.0,0.5
+38,2021-10-21,Lazio,Marseille,it,fr,0.0,0.0,0.5
+39,2021-10-21,Rapid Wien,Dinamo Zagreb,at,hr,2.0,1.0,0.0
+40,2021-10-21,Fenerbahçe,Antwerp,tr,be,2.0,2.0,0.5
+41,2021-10-21,Ludogorets,Braga,bg,pt,0.0,1.0,1.0
+42,2021-10-21,West Ham,Genk,eng,be,3.0,0.0,0.0
+43,2021-10-21,Rangers,Brøndby,sct,dk,2.0,0.0,0.0
+44,2021-10-21,Eint Frankfurt,Olympiacos,de,gr,3.0,1.0,0.0
+45,2021-10-21,Sparta Prague,Lyon,cz,fr,3.0,4.0,1.0
+46,2021-10-21,Sturm Graz,Real Sociedad,at,es,0.0,1.0,1.0
+47,2021-10-21,PSV Eindhoven,Monaco,nl,fr,1.0,2.0,1.0
+48,2021-10-21,Napoli,Legia Warsaw,it,pl,3.0,0.0,0.0
+49,2021-10-21,Loko Moscow,Galatasaray,ru,tr,0.0,1.0,1.0
+51,2021-11-04,Real Sociedad,Sturm Graz,es,at,1.0,1.0,0.5
+52,2021-11-04,Brøndby,Rangers,dk,sct,1.0,1.0,0.5
+53,2021-11-04,Monaco,PSV Eindhoven,fr,nl,0.0,0.0,0.5
+54,2021-11-04,Legia Warsaw,Napoli,pl,it,1.0,4.0,1.0
+55,2021-11-04,Lyon,Sparta Prague,fr,cz,3.0,0.0,0.0
+56,2021-11-04,Genk,West Ham,be,eng,2.0,2.0,0.5
+57,2021-11-04,Olympiacos,Eint Frankfurt,gr,de,1.0,2.0,1.0
+58,2021-11-04,Braga,Ludogorets,pt,bg,4.0,2.0,0.0
+59,2021-11-04,Leicester City,Spartak Moscow,eng,ru,1.0,1.0,0.5
+60,2021-11-04,Galatasaray,Loko Moscow,tr,ru,1.0,1.0,0.5
+61,2021-11-04,Ferencváros,Celtic,hu,sct,2.0,3.0,1.0
+62,2021-11-04,Red Star,Midtjylland,rs,dk,0.0,1.0,1.0
+63,2021-11-04,Leverkusen,Betis,de,es,4.0,0.0,0.0
+64,2021-11-04,Antwerp,Fenerbahçe,be,tr,0.0,3.0,1.0
+65,2021-11-04,Marseille,Lazio,fr,it,2.0,2.0,0.5
+66,2021-11-04,Dinamo Zagreb,Rapid Wien,hr,at,3.0,1.0,0.0
+68,2021-11-24,Spartak Moscow,Napoli,ru,it,2.0,1.0,0.0
+69,2021-11-25,Rapid Wien,West Ham,at,eng,0.0,2.0,1.0
+70,2021-11-25,Betis,Ferencváros,es,hu,2.0,0.0,0.0
+71,2021-11-25,Red Star,Ludogorets,rs,bg,1.0,0.0,0.0
+72,2021-11-25,Leverkusen,Celtic,de,sct,3.0,2.0,0.0
+73,2021-11-25,Midtjylland,Braga,dk,pt,3.0,2.0,0.0
+74,2021-11-25,Dinamo Zagreb,Genk,hr,be,1.0,1.0,0.5
+75,2021-11-25,Leicester City,Legia Warsaw,eng,pl,3.0,1.0,0.0
+76,2021-11-25,Rangers,Sparta Prague,sct,cz,2.0,0.0,0.0
+77,2021-11-25,Galatasaray,Marseille,tr,fr,4.0,2.0,0.0
+78,2021-11-25,Loko Moscow,Lazio,ru,it,0.0,3.0,1.0
+79,2021-11-25,Eint Frankfurt,Antwerp,de,be,2.0,2.0,0.5
+80,2021-11-25,Monaco,Real Sociedad,fr,es,2.0,1.0,0.0
+81,2021-11-25,Brøndby,Lyon,dk,fr,1.0,3.0,1.0
+82,2021-11-25,PSV Eindhoven,Sturm Graz,nl,at,2.0,0.0,0.0
+83,2021-11-25,Olympiacos,Fenerbahçe,gr,tr,1.0,0.0,0.0
+85,2021-12-09,Legia Warsaw,Spartak Moscow,pl,ru,0.0,1.0,1.0
+86,2021-12-09,Antwerp,Olympiacos,be,gr,1.0,0.0,0.0
+87,2021-12-09,Sparta Prague,Brøndby,cz,dk,2.0,0.0,0.0
+88,2021-12-09,Sturm Graz,Monaco,at,fr,1.0,1.0,0.5
+89,2021-12-09,Lyon,Rangers,fr,sct,1.0,1.0,0.5
+90,2021-12-09,Napoli,Leicester City,it,eng,3.0,2.0,0.0
+91,2021-12-09,Real Sociedad,PSV Eindhoven,es,nl,3.0,0.0,0.0
+92,2021-12-09,West Ham,Dinamo Zagreb,eng,hr,0.0,1.0,1.0
+93,2021-12-09,Braga,Red Star,pt,rs,1.0,1.0,0.5
+94,2021-12-09,Celtic,Betis,sct,es,3.0,2.0,0.0
+95,2021-12-09,Fenerbahçe,Eint Frankfurt,tr,de,1.0,1.0,0.5
+96,2021-12-09,Lazio,Galatasaray,it,tr,0.0,0.0,0.5
+97,2021-12-09,Marseille,Loko Moscow,fr,ru,1.0,0.0,0.0
+98,2021-12-09,Ferencváros,Leverkusen,hu,de,1.0,0.0,0.0
+99,2021-12-09,Genk,Rapid Wien,be,at,0.0,1.0,1.0
+100,2021-12-09,Ludogorets,Midtjylland,bg,dk,0.0,0.0,0.5
+102,2022-02-17,Dortmund,Rangers,de,sct,2.0,4.0,1.0
+103,2022-02-17,Barcelona,Napoli,es,it,1.0,1.0,0.5
+104,2022-02-17,Sheriff Tiraspol,Braga,md,pt,2.0,0.0,0.0
+105,2022-02-17,Porto,Lazio,pt,it,2.0,1.0,0.0
+106,2022-02-17,Zenit,Betis,ru,es,2.0,3.0,1.0
+107,2022-02-17,Sevilla,Dinamo Zagreb,es,hr,3.0,1.0,0.0
+108,2022-02-17,RB Leipzig,Real Sociedad,de,es,2.0,2.0,0.5
+109,2022-02-17,Atalanta,Olympiacos,it,gr,2.0,1.0,0.0
+110,2022-02-24,Real Sociedad,RB Leipzig,es,de,1.0,3.0,1.0
+111,2022-02-24,Dinamo Zagreb,Sevilla,hr,es,1.0,0.0,0.0
+112,2022-02-24,Lazio,Porto,it,pt,2.0,2.0,0.5
+113,2022-02-24,Olympiacos,Atalanta,gr,it,0.0,3.0,1.0
+114,2022-02-24,Braga,Sheriff Tiraspol,pt,md,2.0,0.0,0.0
+115,2022-02-24,Rangers,Dortmund,sct,de,2.0,2.0,0.5
+116,2022-02-24,Napoli,Barcelona,it,es,2.0,4.0,1.0
+117,2022-02-24,Betis,Zenit,es,ru,0.0,0.0,0.5
+118,2022-03-09,Porto,Lyon,pt,fr,0.0,1.0,1.0
+119,2022-03-09,Betis,Eint Frankfurt,es,de,1.0,2.0,1.0
+121,2022-03-10,Sevilla,West Ham,es,eng,1.0,0.0,0.0
+122,2022-03-10,Braga,Monaco,pt,fr,2.0,0.0,0.0
+123,2022-03-10,Rangers,Red Star,sct,rs,3.0,0.0,0.0
+124,2022-03-10,Barcelona,Galatasaray,es,tr,0.0,0.0,0.5
+125,2022-03-10,Atalanta,Leverkusen,it,de,3.0,2.0,0.0
+127,2022-03-17,Leverkusen,Atalanta,de,it,0.0,1.0,1.0
+128,2022-03-17,Red Star,Rangers,rs,sct,2.0,1.0,0.0
+129,2022-03-17,Monaco,Braga,fr,pt,1.0,1.0,0.5
+130,2022-03-17,West Ham,Sevilla,eng,es,2.0,0.0,0.0
+131,2022-03-17,Galatasaray,Barcelona,tr,es,1.0,2.0,1.0
+132,2022-03-17,Lyon,Porto,fr,pt,1.0,1.0,0.5
+133,2022-03-17,Eint Frankfurt,Betis,de,es,1.0,1.0,0.5
+134,2022-04-07,RB Leipzig,Atalanta,de,it,1.0,1.0,0.5
+135,2022-04-07,Braga,Rangers,pt,sct,1.0,0.0,0.0
+136,2022-04-07,West Ham,Lyon,eng,fr,1.0,1.0,0.5
+137,2022-04-07,Eint Frankfurt,Barcelona,de,es,1.0,1.0,0.5
+138,2022-04-14,Atalanta,RB Leipzig,it,de,0.0,2.0,1.0
+139,2022-04-14,Rangers,Braga,sct,pt,3.0,1.0,0.0
+140,2022-04-14,Lyon,West Ham,fr,eng,0.0,3.0,1.0
+141,2022-04-14,Barcelona,Eint Frankfurt,es,de,2.0,3.0,1.0
+142,2022-04-28,West Ham,Eint Frankfurt,eng,de,1.0,2.0,1.0
+143,2022-04-28,RB Leipzig,Rangers,de,sct,1.0,0.0,0.0
+144,2022-05-05,Rangers,RB Leipzig,sct,de,3.0,1.0,0.0
+145,2022-05-05,Eint Frankfurt,West Ham,de,eng,1.0,0.0,0.0
+146,2022-05-18,Eint Frankfurt,Rangers,de,sct,1.0,1.0,0.5

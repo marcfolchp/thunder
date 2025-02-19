@@ -1,0 +1,127 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,1995-09-12,Sparta Prague,Silkeborg,cz,dk,0,1,1.0
+1,1995-09-12,Vitória Guimarães,Standard Liège,pt,be,3,1,0.0
+2,1995-09-12,Viking,Auxerre,no,fr,1,1,0.5
+3,1995-09-12,Strasbourg,Újpest,fr,hu,3,0,0.0
+4,1995-09-12,Freiburg,Slavia Prague,de,cz,1,2,1.0
+5,1995-09-12,Lierse,Benfica,be,pt,1,3,1.0
+6,1995-09-12,Hapoel Be'er Sheva FC,Barcelona,il,es,0,7,1.0
+7,1995-09-12,Rotor Volgograd,Manchester Utd,ru,eng,0,0,0.5
+8,1995-09-12,Milan,Zagłębie Lubin,it,pl,4,0,0.0
+9,1995-09-12,Xamax,Roma,ch,it,1,1,0.5
+10,1995-09-12,Spartak-Alania,Liverpool,ru,eng,1,2,1.0
+11,1995-09-12,FC Zimbru Chișinău,RAF Jelgava,md,lv,1,0,0.0
+12,1995-09-12,Austria Wien,Dinamo Minsk,at,by,1,2,1.0
+13,1995-09-12,Malmö,Nott'ham Forest,se,eng,2,1,0.0
+14,1995-09-12,Olympiacos,NK Maribor,gr,si,2,0,0.0
+15,1995-09-12,Monaco,Leeds United,fr,eng,0,3,1.0
+16,1995-09-12,Sevilla,Botev Plovdiv,es,bg,2,0,0.0
+17,1995-09-12,Lugano,Inter,ch,it,1,1,0.5
+18,1995-09-12,Fenerbahçe,Real Betis,tr,es,1,2,1.0
+19,1995-09-12,Levski Sofia,Eendracht Aalst,bg,be,1,2,1.0
+20,1995-09-12,Bayern Munich,Lokomotiv Moscow,de,ru,0,1,1.0
+21,1995-09-12,MYPA,PSV,fi,nl,1,1,0.5
+22,1995-09-12,ŠK Slovan Bratislava,Kaiserslautern,sk,de,2,1,0.0
+23,1995-09-12,Raith Rovers,Íþróttabandalag Akraness,sct,is,3,1,0.0
+24,1995-09-12,Roda JC Kerkrade,NK Olimpija Ljubljana,nl,si,5,0,0.0
+25,1995-09-12,Brøndby,Lillestrøm,dk,no,3,0,0.0
+26,1995-09-12,Lazio,AC Omonia,it,cy,5,0,0.0
+27,1995-09-12,Chornomorets Odesa,Widzew Łódź,ua,pl,1,0,0.0
+28,1995-09-13,Farense,Lyon,pt,fr,0,1,1.0
+29,1995-09-13,Glenavon FC,Werder Bremen,nir,de,0,2,1.0
+30,1995-09-14,Lens,FC Avenir Beggen,fr,lu,6,0,0.0
+31,1995-09-14,FK Vardar,Bordeaux,mk,fr,0,2,1.0
+32,1995-09-26,NK Maribor,Olympiacos,si,gr,1,3,1.0
+33,1995-09-26,Eendracht Aalst,Levski Sofia,be,bg,1,0,0.0
+34,1995-09-26,Botev Plovdiv,Sevilla,bg,es,1,1,0.5
+35,1995-09-26,Lokomotiv Moscow,Bayern Munich,ru,de,0,5,1.0
+36,1995-09-26,AC Omonia,Lazio,cy,it,1,2,1.0
+37,1995-09-26,Zagłębie Lubin,Milan,pl,it,1,4,1.0
+38,1995-09-26,Real Betis,Fenerbahçe,es,tr,2,0,0.0
+39,1995-09-26,Benfica,Lierse,pt,be,2,1,0.0
+40,1995-09-26,Manchester Utd,Rotor Volgograd,eng,ru,2,2,0.5
+41,1995-09-26,PSV,MYPA,nl,fi,7,1,0.0
+42,1995-09-26,Liverpool,Spartak-Alania,eng,ru,0,0,0.5
+43,1995-09-26,Nott'ham Forest,Malmö,eng,se,1,0,0.0
+44,1995-09-26,Slavia Prague,Freiburg,cz,de,0,0,0.5
+45,1995-09-26,Lillestrøm,Brøndby,no,dk,0,0,0.5
+46,1995-09-26,Inter,Lugano,it,ch,0,1,1.0
+47,1995-09-26,Auxerre,Viking,fr,no,1,0,0.0
+48,1995-09-26,Widzew Łódź,Chornomorets Odesa,pl,ua,1,0,0.0
+49,1995-09-26,NK Olimpija Ljubljana,Roda JC Kerkrade,si,nl,2,0,0.0
+50,1995-09-26,Standard Liège,Vitória Guimarães,be,pt,0,0,0.5
+51,1995-09-26,Leeds United,Monaco,eng,fr,0,1,1.0
+52,1995-09-26,Barcelona,Hapoel Be'er Sheva FC,es,il,5,0,0.0
+53,1995-09-26,Lyon,Farense,fr,pt,1,0,0.0
+54,1995-09-26,Roma,Xamax,it,ch,4,0,0.0
+55,1995-09-26,Kaiserslautern,ŠK Slovan Bratislava,de,sk,3,0,0.0
+56,1995-09-26,Dinamo Minsk,Austria Wien,by,at,1,0,0.0
+57,1995-09-26,Íþróttabandalag Akraness,Raith Rovers,is,sct,1,0,0.0
+58,1995-09-26,RAF Jelgava,FC Zimbru Chișinău,lv,md,1,2,1.0
+59,1995-09-26,Silkeborg,Sparta Prague,dk,cz,1,2,1.0
+60,1995-09-27,Werder Bremen,Glenavon FC,de,nir,5,0,0.0
+61,1995-09-27,FC Avenir Beggen,Lens,lu,fr,0,7,1.0
+62,1995-09-28,Bordeaux,FK Vardar,fr,mk,1,1,0.5
+63,1995-09-28,Újpest,Strasbourg,hu,fr,0,2,1.0
+64,1995-10-17,Leeds United,PSV,eng,nl,3,5,1.0
+65,1995-10-17,Brøndby,Liverpool,dk,eng,0,0,0.5
+66,1995-10-17,Benfica,Roda JC Kerkrade,pt,nl,1,0,0.0
+67,1995-10-17,Bordeaux,Rotor Volgograd,fr,ru,2,1,0.0
+68,1995-10-17,Raith Rovers,Bayern Munich,sct,de,0,2,1.0
+69,1995-10-17,Roma,Eendracht Aalst,it,be,4,0,0.0
+70,1995-10-17,Barcelona,Vitória Guimarães,es,pt,3,0,0.0
+71,1995-10-17,Lyon,Lazio,fr,it,2,1,0.0
+72,1995-10-17,Strasbourg,Milan,fr,it,0,1,1.0
+73,1995-10-17,Sevilla,Olympiacos,es,gr,1,0,0.0
+74,1995-10-17,Chornomorets Odesa,Lens,ua,fr,0,0,0.5
+75,1995-10-17,Lugano,Slavia Prague,ch,cz,1,2,1.0
+76,1995-10-17,Sparta Prague,FC Zimbru Chișinău,cz,md,4,3,0.0
+77,1995-10-17,Auxerre,Nott'ham Forest,fr,eng,0,1,1.0
+78,1995-10-17,Werder Bremen,Dinamo Minsk,de,by,5,0,0.0
+79,1995-10-18,Kaiserslautern,Real Betis,de,es,1,3,1.0
+80,1995-10-31,Bayern Munich,Raith Rovers,de,sct,2,1,0.0
+81,1995-10-31,PSV,Leeds United,nl,eng,3,0,0.0
+82,1995-10-31,Liverpool,Brøndby,eng,dk,0,1,1.0
+83,1995-10-31,Dinamo Minsk,Werder Bremen,by,de,2,1,0.0
+84,1995-10-31,Lazio,Lyon,it,fr,0,2,1.0
+85,1995-10-31,Roda JC Kerkrade,Benfica,nl,pt,2,2,0.5
+86,1995-10-31,Rotor Volgograd,Bordeaux,ru,fr,0,1,1.0
+87,1995-10-31,Olympiacos,Sevilla,gr,es,2,1,0.0
+88,1995-10-31,Vitória Guimarães,Barcelona,pt,es,0,4,1.0
+89,1995-10-31,Eendracht Aalst,Roma,be,it,0,0,0.5
+90,1995-10-31,Slavia Prague,Lugano,cz,ch,1,0,0.0
+91,1995-10-31,Nott'ham Forest,Auxerre,eng,fr,0,0,0.5
+92,1995-10-31,FC Zimbru Chișinău,Sparta Prague,md,cz,0,2,1.0
+93,1995-11-01,Real Betis,Kaiserslautern,es,de,1,0,0.0
+94,1995-11-01,Lens,Chornomorets Odesa,fr,ua,4,0,0.0
+95,1995-11-02,Milan,Strasbourg,it,fr,2,1,0.0
+96,1995-11-21,PSV,Werder Bremen,nl,de,2,1,0.0
+97,1995-11-21,Bordeaux,Real Betis,fr,es,2,0,0.0
+98,1995-11-21,Brøndby,Roma,dk,it,2,1,0.0
+99,1995-11-21,Bayern Munich,Benfica,de,pt,4,1,0.0
+100,1995-11-21,Slavia Prague,Lens,cz,fr,0,0,0.5
+101,1995-11-21,Sevilla,Barcelona,es,es,1,1,0.5
+102,1995-11-21,Nott'ham Forest,Lyon,eng,fr,1,0,0.0
+103,1995-11-23,Milan,Sparta Prague,it,cz,2,0,0.0
+104,1995-12-05,Lyon,Nott'ham Forest,fr,eng,0,0,0.5
+105,1995-12-05,Werder Bremen,PSV,de,nl,0,0,0.5
+106,1995-12-05,Barcelona,Sevilla,es,es,3,1,0.0
+107,1995-12-05,Benfica,Bayern Munich,pt,de,1,3,1.0
+108,1995-12-05,Roma,Brøndby,it,dk,3,1,0.0
+109,1995-12-06,Real Betis,Bordeaux,es,fr,2,1,0.0
+110,1995-12-07,Sparta Prague,Milan,cz,it,0,0,0.5
+111,1995-12-07,Lens,Slavia Prague,fr,cz,0,1,1.0
+112,1996-03-05,Barcelona,PSV,es,nl,2,2,0.5
+113,1996-03-05,Bayern Munich,Nott'ham Forest,de,eng,2,1,0.0
+114,1996-03-05,Milan,Bordeaux,it,fr,2,0,0.0
+115,1996-03-05,Slavia Prague,Roma,cz,it,2,0,0.0
+116,1996-03-19,Roma,Slavia Prague,it,cz,3,1,0.0
+117,1996-03-19,Bordeaux,Milan,fr,it,3,0,0.0
+118,1996-03-19,Nott'ham Forest,Bayern Munich,eng,de,1,5,1.0
+119,1996-03-19,PSV,Barcelona,nl,es,2,3,1.0
+120,1996-04-02,Slavia Prague,Bordeaux,cz,fr,0,1,1.0
+121,1996-04-02,Bayern Munich,Barcelona,de,es,2,2,0.5
+122,1996-04-16,Bordeaux,Slavia Prague,fr,cz,1,0,0.0
+123,1996-04-16,Barcelona,Bayern Munich,es,de,1,2,1.0
+124,1996-05-01,Bayern Munich,Bordeaux,de,fr,2,0,0.0
+125,1996-05-15,Bordeaux,Bayern Munich,fr,de,1,3,1.0

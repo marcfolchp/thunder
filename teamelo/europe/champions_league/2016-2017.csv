@@ -1,0 +1,126 @@
+,date,hometeam,awayteam,homecountry,awaycountry,homescore,awayscore,result
+0,2016-09-13,Benfica,Beşiktaş,pt,tr,1.0,1.0,0.5
+1,2016-09-13,Bayern Munich,Rostov,de,ru,5.0,0.0,0.0
+2,2016-09-13,Paris S-G,Arsenal,fr,eng,1.0,1.0,0.5
+3,2016-09-13,Barcelona,Celtic,es,sct,7.0,0.0,0.0
+4,2016-09-13,PSV Eindhoven,Atlético Madrid,nl,es,0.0,1.0,1.0
+5,2016-09-13,Basel,Ludogorets,ch,bg,1.0,1.0,0.5
+6,2016-09-13,Dynamo Kyiv,Napoli,ua,it,1.0,2.0,1.0
+7,2016-09-14,Porto,FC Copenhagen,pt,dk,1.0,1.0,0.5
+8,2016-09-14,Tottenham,Monaco,eng,fr,1.0,2.0,1.0
+9,2016-09-14,Manchester City,Gladbach,eng,de,4.0,0.0,0.0
+10,2016-09-14,Club Brugge,Leicester City,be,eng,0.0,3.0,1.0
+11,2016-09-14,Real Madrid,Sporting CP,es,pt,2.0,1.0,0.0
+12,2016-09-14,Legia Warsaw,Dortmund,pl,de,0.0,6.0,1.0
+13,2016-09-14,Leverkusen,CSKA Moscow,de,ru,2.0,2.0,0.5
+14,2016-09-14,Lyon,Dinamo Zagreb,fr,hr,3.0,0.0,0.0
+15,2016-09-14,Juventus,Sevilla,it,es,0.0,0.0,0.5
+17,2016-09-27,Sporting CP,Legia Warsaw,pt,pl,2.0,0.0,0.0
+18,2016-09-27,Leicester City,Porto,eng,pt,1.0,0.0,0.0
+19,2016-09-27,Sevilla,Lyon,es,fr,1.0,0.0,0.0
+20,2016-09-27,Monaco,Leverkusen,fr,de,1.0,1.0,0.5
+21,2016-09-27,FC Copenhagen,Club Brugge,dk,be,4.0,0.0,0.0
+22,2016-09-27,Dortmund,Real Madrid,de,es,2.0,2.0,0.5
+23,2016-09-27,Dinamo Zagreb,Juventus,hr,it,0.0,4.0,1.0
+24,2016-09-27,CSKA Moscow,Tottenham,ru,eng,0.0,1.0,1.0
+25,2016-09-28,Celtic,Manchester City,sct,eng,3.0,3.0,0.5
+26,2016-09-28,Arsenal,Basel,eng,ch,2.0,0.0,0.0
+27,2016-09-28,Gladbach,Barcelona,de,es,1.0,2.0,1.0
+28,2016-09-28,Napoli,Benfica,it,pt,4.0,2.0,0.0
+29,2016-09-28,Atlético Madrid,Bayern Munich,es,de,1.0,0.0,0.0
+30,2016-09-28,Beşiktaş,Dynamo Kyiv,tr,ua,1.0,1.0,0.5
+31,2016-09-28,Rostov,PSV Eindhoven,ru,nl,2.0,2.0,0.5
+32,2016-09-28,Ludogorets,Paris S-G,bg,fr,1.0,3.0,1.0
+34,2016-10-18,Sporting CP,Dortmund,pt,de,1.0,2.0,1.0
+35,2016-10-18,Leicester City,FC Copenhagen,eng,dk,1.0,0.0,0.0
+36,2016-10-18,Lyon,Juventus,fr,it,0.0,1.0,1.0
+37,2016-10-18,Leverkusen,Tottenham,de,eng,0.0,0.0,0.5
+38,2016-10-18,Club Brugge,Porto,be,pt,1.0,2.0,1.0
+39,2016-10-18,Real Madrid,Legia Warsaw,es,pl,5.0,1.0,0.0
+40,2016-10-18,Dinamo Zagreb,Sevilla,hr,es,0.0,1.0,1.0
+41,2016-10-18,CSKA Moscow,Monaco,ru,fr,1.0,1.0,0.5
+42,2016-10-19,Celtic,Gladbach,sct,de,0.0,2.0,1.0
+43,2016-10-19,Arsenal,Ludogorets,eng,bg,6.0,0.0,0.0
+44,2016-10-19,Paris S-G,Basel,fr,ch,3.0,0.0,0.0
+45,2016-10-19,Barcelona,Manchester City,es,eng,4.0,0.0,0.0
+46,2016-10-19,Bayern Munich,PSV Eindhoven,de,nl,4.0,1.0,0.0
+47,2016-10-19,Napoli,Beşiktaş,it,tr,2.0,3.0,1.0
+48,2016-10-19,Dynamo Kyiv,Benfica,ua,pt,0.0,2.0,1.0
+49,2016-10-19,Rostov,Atlético Madrid,ru,es,0.0,1.0,1.0
+51,2016-11-01,Manchester City,Barcelona,eng,es,3.0,1.0,0.0
+52,2016-11-01,Benfica,Dynamo Kyiv,pt,ua,1.0,0.0,0.0
+53,2016-11-01,PSV Eindhoven,Bayern Munich,nl,de,1.0,2.0,1.0
+54,2016-11-01,Basel,Paris S-G,ch,fr,1.0,2.0,1.0
+55,2016-11-01,Atlético Madrid,Rostov,es,ru,2.0,1.0,0.0
+56,2016-11-01,Beşiktaş,Napoli,tr,it,1.0,1.0,0.5
+57,2016-11-01,Gladbach,Celtic,de,sct,1.0,1.0,0.5
+58,2016-11-01,Ludogorets,Arsenal,bg,eng,2.0,3.0,1.0
+59,2016-11-02,Porto,Club Brugge,pt,be,1.0,0.0,0.0
+60,2016-11-02,Tottenham,Leverkusen,eng,de,0.0,1.0,1.0
+61,2016-11-02,Legia Warsaw,Real Madrid,pl,es,3.0,3.0,0.5
+62,2016-11-02,FC Copenhagen,Leicester City,dk,eng,0.0,0.0,0.5
+63,2016-11-02,Juventus,Lyon,it,fr,1.0,1.0,0.5
+64,2016-11-02,Monaco,CSKA Moscow,fr,ru,3.0,0.0,0.0
+65,2016-11-02,Sevilla,Dinamo Zagreb,es,hr,4.0,0.0,0.0
+66,2016-11-02,Dortmund,Sporting CP,de,pt,1.0,0.0,0.0
+68,2016-11-22,Sporting CP,Real Madrid,pt,es,1.0,2.0,1.0
+69,2016-11-22,Leicester City,Club Brugge,eng,be,2.0,1.0,0.0
+70,2016-11-22,CSKA Moscow,Leverkusen,ru,de,1.0,1.0,0.5
+71,2016-11-22,Dortmund,Legia Warsaw,de,pl,8.0,4.0,0.0
+72,2016-11-22,Monaco,Tottenham,fr,eng,2.0,1.0,0.0
+73,2016-11-22,FC Copenhagen,Porto,dk,pt,0.0,0.0,0.5
+74,2016-11-22,Sevilla,Juventus,es,it,1.0,3.0,1.0
+75,2016-11-22,Dinamo Zagreb,Lyon,hr,fr,0.0,1.0,1.0
+76,2016-11-23,Arsenal,Paris S-G,eng,fr,2.0,2.0,0.5
+77,2016-11-23,Celtic,Barcelona,sct,es,0.0,2.0,1.0
+78,2016-11-23,Rostov,Bayern Munich,ru,de,3.0,2.0,0.0
+79,2016-11-23,Gladbach,Manchester City,de,eng,1.0,1.0,0.5
+80,2016-11-23,Atlético Madrid,PSV Eindhoven,es,nl,2.0,0.0,0.0
+81,2016-11-23,Napoli,Dynamo Kyiv,it,ua,0.0,0.0,0.5
+82,2016-11-23,Beşiktaş,Benfica,tr,pt,3.0,3.0,0.5
+83,2016-11-23,Ludogorets,Basel,bg,ch,0.0,0.0,0.5
+85,2016-12-06,Manchester City,Celtic,eng,sct,1.0,1.0,0.5
+86,2016-12-06,Benfica,Napoli,pt,it,1.0,2.0,1.0
+87,2016-12-06,Basel,Arsenal,ch,eng,1.0,4.0,1.0
+88,2016-12-06,Paris S-G,Ludogorets,fr,bg,2.0,2.0,0.5
+89,2016-12-06,Barcelona,Gladbach,es,de,4.0,0.0,0.0
+90,2016-12-06,PSV Eindhoven,Rostov,nl,ru,0.0,0.0,0.5
+91,2016-12-06,Bayern Munich,Atlético Madrid,de,es,1.0,0.0,0.0
+92,2016-12-06,Dynamo Kyiv,Beşiktaş,ua,tr,6.0,0.0,0.0
+93,2016-12-07,Tottenham,CSKA Moscow,eng,ru,3.0,1.0,0.0
+94,2016-12-07,Porto,Leicester City,pt,eng,5.0,0.0,0.0
+95,2016-12-07,Legia Warsaw,Sporting CP,pl,pt,1.0,0.0,0.0
+96,2016-12-07,Lyon,Sevilla,fr,es,0.0,0.0,0.5
+97,2016-12-07,Real Madrid,Dortmund,es,de,2.0,2.0,0.5
+98,2016-12-07,Club Brugge,FC Copenhagen,be,dk,0.0,2.0,1.0
+99,2016-12-07,Leverkusen,Monaco,de,fr,3.0,0.0,0.0
+100,2016-12-07,Juventus,Dinamo Zagreb,it,hr,2.0,0.0,0.0
+102,2017-02-14,Benfica,Dortmund,pt,de,1.0,0.0,0.0
+103,2017-02-14,Paris S-G,Barcelona,fr,es,4.0,0.0,0.0
+104,2017-02-15,Bayern Munich,Arsenal,de,eng,5.0,1.0,0.0
+105,2017-02-15,Real Madrid,Napoli,es,it,3.0,1.0,0.0
+106,2017-02-21,Manchester City,Monaco,eng,fr,5.0,3.0,0.0
+107,2017-02-21,Leverkusen,Atlético Madrid,de,es,2.0,4.0,1.0
+108,2017-02-22,Porto,Juventus,pt,it,0.0,2.0,1.0
+109,2017-02-22,Sevilla,Leicester City,es,eng,2.0,1.0,0.0
+110,2017-03-07,Arsenal,Bayern Munich,eng,de,1.0,5.0,1.0
+111,2017-03-07,Napoli,Real Madrid,it,es,1.0,3.0,1.0
+112,2017-03-08,Barcelona,Paris S-G,es,fr,6.0,1.0,0.0
+113,2017-03-08,Dortmund,Benfica,de,pt,4.0,0.0,0.0
+114,2017-03-14,Leicester City,Sevilla,eng,es,2.0,0.0,0.0
+115,2017-03-14,Juventus,Porto,it,pt,1.0,0.0,0.0
+116,2017-03-15,Atlético Madrid,Leverkusen,es,de,0.0,0.0,0.5
+117,2017-03-15,Monaco,Manchester City,fr,eng,3.0,1.0,0.0
+118,2017-04-11,Juventus,Barcelona,it,es,3.0,0.0,0.0
+119,2017-04-12,Dortmund,Monaco,de,fr,2.0,3.0,1.0
+120,2017-04-12,Atlético Madrid,Leicester City,es,eng,1.0,0.0,0.0
+121,2017-04-12,Bayern Munich,Real Madrid,de,es,1.0,2.0,1.0
+122,2017-04-18,Leicester City,Atlético Madrid,eng,es,1.0,1.0,0.5
+123,2017-04-18,Real Madrid,Bayern Munich,es,de,4.0,2.0,0.0
+124,2017-04-19,Barcelona,Juventus,es,it,0.0,0.0,0.5
+125,2017-04-19,Monaco,Dortmund,fr,de,3.0,1.0,0.0
+126,2017-05-02,Real Madrid,Atlético Madrid,es,es,3.0,0.0,0.0
+127,2017-05-03,Monaco,Juventus,fr,it,0.0,2.0,1.0
+128,2017-05-09,Juventus,Monaco,it,fr,2.0,1.0,0.0
+129,2017-05-10,Atlético Madrid,Real Madrid,es,es,2.0,1.0,0.0
+130,2017-06-03,Juventus,Real Madrid,it,es,1.0,4.0,1.0
