@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2003-2004,1,2003-08-30,Albacete,Osasuna,0,2,1.0
+2003-2004,1,2003-08-30,Real Madrid,Betis,2,1,0.0
+2003-2004,1,2003-08-30,Athletic Club,Barcelona,0,1,1.0
+2003-2004,1,2003-08-30,Málaga,Villarreal,0,0,0.5
+2003-2004,1,2003-08-30,Espanyol,Real Sociedad,1,1,0.5
+2003-2004,1,2003-08-30,Valencia,Valladolid,1,1,0.5
+2003-2004,1,2003-08-31,Racing Sant,Mallorca,2,1,0.0
+2003-2004,1,2003-08-31,Zaragoza,La Coruña,0,1,1.0
+2003-2004,1,2003-08-31,Celta Vigo,Real Murcia,1,1,0.5
+2003-2004,1,2003-08-31,Sevilla,Atlético Madrid,1,0,0.0
+2003-2004,2,2003-09-02,Real Sociedad,Celta Vigo,1,1,0.5
+2003-2004,2,2003-09-02,Osasuna,Valencia,0,1,1.0
+2003-2004,2,2003-09-02,Villarreal,Real Madrid,1,1,0.5
+2003-2004,2,2003-09-03,Mallorca,Zaragoza,2,0,0.0
+2003-2004,2,2003-09-03,Betis,Espanyol,2,2,0.5
+2003-2004,2,2003-09-03,Barcelona,Sevilla,1,1,0.5
+2003-2004,2,2003-09-03,La Coruña,Athletic Club,2,0,0.0
+2003-2004,2,2003-09-03,Valladolid,Málaga,1,0,0.0
+2003-2004,2,2003-09-03,Atlético Madrid,Albacete,1,0,0.0
+2003-2004,2,2003-09-03,Real Murcia,Racing Sant,1,1,0.5
+2003-2004,3,2003-09-13,Real Madrid,Valladolid,7,2,0.0
+2003-2004,3,2003-09-13,Sevilla,La Coruña,1,2,1.0
+2003-2004,3,2003-09-13,Celta Vigo,Betis,0,2,1.0
+2003-2004,3,2003-09-13,Racing Sant,Real Sociedad,0,1,1.0
+2003-2004,3,2003-09-14,Osasuna,Atlético Madrid,1,0,0.0
+2003-2004,3,2003-09-14,Valencia,Málaga,1,0,0.0
+2003-2004,3,2003-09-14,Espanyol,Villarreal,1,2,1.0
+2003-2004,3,2003-09-14,Zaragoza,Real Murcia,3,0,0.0
+2003-2004,3,2003-09-14,Albacete,Barcelona,1,2,1.0
+2003-2004,3,2003-09-14,Athletic Club,Mallorca,4,0,0.0
+2003-2004,4,2003-09-20,Barcelona,Osasuna,1,1,0.5
+2003-2004,4,2003-09-20,Atlético Madrid,Valencia,0,3,1.0
+2003-2004,4,2003-09-21,Real Sociedad,Zaragoza,3,0,0.0
+2003-2004,4,2003-09-21,Betis,Racing Sant,0,0,0.5
+2003-2004,4,2003-09-21,Mallorca,Sevilla,1,1,0.5
+2003-2004,4,2003-09-21,Málaga,Real Madrid,1,3,1.0
+2003-2004,4,2003-09-21,Villarreal,Celta Vigo,1,1,0.5
+2003-2004,4,2003-09-21,La Coruña,Albacete,3,0,0.0
+2003-2004,4,2003-09-21,Valladolid,Espanyol,3,1,0.0
+2003-2004,4,2003-09-21,Real Murcia,Athletic Club,2,2,0.5
+2003-2004,5,2003-09-27,Valencia,Real Madrid,2,0,0.0
+2003-2004,5,2003-09-27,Celta Vigo,Valladolid,3,2,0.0
+2003-2004,5,2003-09-27,Osasuna,La Coruña,3,2,0.0
+2003-2004,5,2003-09-27,Athletic Club,Real Sociedad,1,0,0.0
+2003-2004,5,2003-09-28,Zaragoza,Betis,0,1,1.0
+2003-2004,5,2003-09-28,Albacete,Mallorca,2,0,0.0
+2003-2004,5,2003-09-28,Sevilla,Real Murcia,1,0,0.0
+2003-2004,5,2003-09-28,Racing Sant,Villarreal,0,2,1.0
+2003-2004,5,2003-09-28,Atlético Madrid,Barcelona,0,0,0.5
+2003-2004,5,2003-09-28,Espanyol,Málaga,1,2,1.0
+2003-2004,6,2003-10-04,Villarreal,Zaragoza,1,1,0.5
+2003-2004,6,2003-10-04,Betis,Athletic Club,1,1,0.5
+2003-2004,6,2003-10-04,La Coruña,Atlético Madrid,5,1,0.0
+2003-2004,6,2003-10-05,Málaga,Celta Vigo,2,1,0.0
+2003-2004,6,2003-10-05,Valladolid,Racing Sant,0,4,1.0
+2003-2004,6,2003-10-05,Barcelona,Valencia,0,1,1.0
+2003-2004,6,2003-10-05,Mallorca,Osasuna,1,1,0.5
+2003-2004,6,2003-10-05,Real Murcia,Albacete,1,0,0.0
+2003-2004,6,2003-10-05,Real Madrid,Espanyol,2,1,0.0
+2003-2004,6,2003-10-05,Real Sociedad,Sevilla,1,1,0.5
+2003-2004,7,2003-10-18,Albacete,Real Sociedad,3,1,0.0
+2003-2004,7,2003-10-18,Barcelona,La Coruña,0,2,1.0
+2003-2004,7,2003-10-18,Celta Vigo,Real Madrid,0,2,1.0
+2003-2004,7,2003-10-19,Zaragoza,Valladolid,1,0,0.0
+2003-2004,7,2003-10-19,Racing Sant,Málaga,4,2,0.0
+2003-2004,7,2003-10-19,Sevilla,Betis,2,2,0.5
+2003-2004,7,2003-10-19,Osasuna,Real Murcia,2,1,0.0
+2003-2004,7,2003-10-19,Valencia,Espanyol,4,0,0.0
+2003-2004,7,2003-10-19,Atlético Madrid,Mallorca,2,1,0.0
+2003-2004,7,2003-10-19,Athletic Club,Villarreal,2,0,0.0
+2003-2004,8,2003-10-25,Málaga,Zaragoza,2,1,0.0
+2003-2004,8,2003-10-25,La Coruña,Valencia,2,1,0.0
+2003-2004,8,2003-10-25,Real Madrid,Racing Sant,3,1,0.0
+2003-2004,8,2003-10-26,Espanyol,Celta Vigo,0,4,1.0
+2003-2004,8,2003-10-26,Mallorca,Barcelona,1,3,1.0
+2003-2004,8,2003-10-26,Betis,Albacete,3,2,0.0
+2003-2004,8,2003-10-26,Villarreal,Sevilla,3,3,0.5
+2003-2004,8,2003-10-26,Real Murcia,Atlético Madrid,1,3,1.0
+2003-2004,8,2003-10-26,Valladolid,Athletic Club,2,0,0.0
+2003-2004,8,2003-10-26,Real Sociedad,Osasuna,1,0,0.0
+2003-2004,9,2003-10-28,Zaragoza,Real Madrid,0,0,0.5
+2003-2004,9,2003-10-29,Valencia,Celta Vigo,2,2,0.5
+2003-2004,9,2003-10-29,Barcelona,Real Murcia,3,0,0.0
+2003-2004,9,2003-10-29,Osasuna,Betis,2,0,0.0
+2003-2004,9,2003-10-29,Athletic Club,Málaga,2,1,0.0
+2003-2004,9,2003-10-29,Albacete,Villarreal,2,0,0.0
+2003-2004,9,2003-10-29,La Coruña,Mallorca,0,2,1.0
+2003-2004,9,2003-10-29,Sevilla,Valladolid,1,1,0.5
+2003-2004,9,2003-10-29,Racing Sant,Espanyol,0,1,1.0
+2003-2004,9,2003-10-30,Atlético Madrid,Real Sociedad,4,0,0.0
+2003-2004,10,2003-11-01,Celta Vigo,Racing Sant,0,1,1.0
+2003-2004,10,2003-11-01,Real Madrid,Athletic Club,3,0,0.0
+2003-2004,10,2003-11-01,Real Murcia,La Coruña,0,0,0.5
+2003-2004,10,2003-11-02,Mallorca,Valencia,0,5,1.0
+2003-2004,10,2003-11-02,Real Sociedad,Barcelona,3,3,0.5
+2003-2004,10,2003-11-02,Valladolid,Albacete,2,0,0.0
+2003-2004,10,2003-11-02,Málaga,Sevilla,2,0,0.0
+2003-2004,10,2003-11-02,Betis,Atlético Madrid,1,2,1.0
+2003-2004,10,2003-11-02,Espanyol,Zaragoza,0,2,1.0
+2003-2004,10,2003-11-02,Villarreal,Osasuna,1,0,0.0
+2003-2004,11,2003-11-08,Zaragoza,Celta Vigo,1,1,0.5
+2003-2004,11,2003-11-08,La Coruña,Real Sociedad,2,1,0.0
+2003-2004,11,2003-11-08,Athletic Club,Espanyol,1,0,0.0
+2003-2004,11,2003-11-09,Osasuna,Valladolid,1,1,0.5
+2003-2004,11,2003-11-09,Atlético Madrid,Villarreal,1,0,0.0
+2003-2004,11,2003-11-09,Valencia,Racing Sant,1,2,1.0
+2003-2004,11,2003-11-09,Sevilla,Real Madrid,4,1,0.0
+2003-2004,11,2003-11-09,Mallorca,Real Murcia,4,1,0.0
+2003-2004,11,2003-11-09,Barcelona,Betis,2,1,0.0
+2003-2004,11,2003-11-09,Albacete,Málaga,0,1,1.0
+2003-2004,12,2003-11-22,Real Sociedad,Mallorca,0,1,1.0
+2003-2004,12,2003-11-22,Villarreal,Barcelona,2,1,0.0
+2003-2004,12,2003-11-22,Betis,La Coruña,0,0,0.5
+2003-2004,12,2003-11-23,Real Madrid,Albacete,2,1,0.0
+2003-2004,12,2003-11-23,Espanyol,Sevilla,1,0,0.0
+2003-2004,12,2003-11-23,Racing Sant,Zaragoza,1,2,1.0
+2003-2004,12,2003-11-23,Celta Vigo,Athletic Club,0,2,1.0
+2003-2004,12,2003-11-23,Málaga,Osasuna,0,0,0.5
+2003-2004,12,2003-11-23,Valladolid,Atlético Madrid,3,1,0.0
+2003-2004,12,2003-11-23,Real Murcia,Valencia,2,2,0.5
+2003-2004,13,2003-11-29,Valencia,Zaragoza,3,2,0.0
+2003-2004,13,2003-11-29,Real Murcia,Real Sociedad,2,2,0.5
+2003-2004,13,2003-11-29,Atlético Madrid,Málaga,2,0,0.0
+2003-2004,13,2003-11-29,Osasuna,Real Madrid,1,1,0.5
+2003-2004,13,2003-11-30,Athletic Club,Racing Sant,1,2,1.0
+2003-2004,13,2003-11-30,Albacete,Espanyol,2,1,0.0
+2003-2004,13,2003-11-30,La Coruña,Villarreal,0,1,1.0
+2003-2004,13,2003-11-30,Sevilla,Celta Vigo,0,1,1.0
+2003-2004,13,2003-11-30,Mallorca,Betis,2,1,0.0
+2003-2004,13,2003-11-30,Barcelona,Valladolid,0,0,0.5
+2003-2004,14,2003-12-02,Real Sociedad,Valencia,0,0,0.5
+2003-2004,14,2003-12-03,Málaga,Barcelona,5,1,0.0
+2003-2004,14,2003-12-03,Villarreal,Mallorca,0,2,1.0
+2003-2004,14,2003-12-03,Espanyol,Osasuna,0,1,1.0
+2003-2004,14,2003-12-03,Valladolid,La Coruña,1,1,0.5
+2003-2004,14,2003-12-03,Betis,Real Murcia,1,1,0.5
+2003-2004,14,2003-12-03,Celta Vigo,Albacete,2,2,0.5
+2003-2004,14,2003-12-03,Real Madrid,Atlético Madrid,2,0,0.0
+2003-2004,14,2003-12-04,Zaragoza,Athletic Club,2,2,0.5
+2003-2004,14,2003-12-04,Racing Sant,Sevilla,0,4,1.0
+2003-2004,15,2003-12-06,La Coruña,Málaga,1,0,0.0
+2003-2004,15,2003-12-06,Osasuna,Celta Vigo,3,2,0.0
+2003-2004,15,2003-12-06,Real Sociedad,Betis,0,4,1.0
+2003-2004,15,2003-12-06,Barcelona,Real Madrid,1,2,1.0
+2003-2004,15,2003-12-07,Albacete,Racing Sant,4,0,0.0
+2003-2004,15,2003-12-07,Atlético Madrid,Espanyol,2,0,0.0
+2003-2004,15,2003-12-07,Real Murcia,Villarreal,1,1,0.5
+2003-2004,15,2003-12-07,Mallorca,Valladolid,1,0,0.0
+2003-2004,15,2003-12-07,Valencia,Athletic Club,2,1,0.0
+2003-2004,15,2003-12-07,Sevilla,Zaragoza,3,2,0.0
+2003-2004,16,2003-12-13,Villarreal,Real Sociedad,2,0,0.0
+2003-2004,16,2003-12-13,Celta Vigo,Atlético Madrid,2,2,0.5
+2003-2004,16,2003-12-13,Espanyol,Barcelona,1,3,1.0
+2003-2004,16,2003-12-14,Racing Sant,Osasuna,0,0,0.5
+2003-2004,16,2003-12-14,Málaga,Mallorca,3,1,0.0
+2003-2004,16,2003-12-14,Zaragoza,Albacete,0,1,1.0
+2003-2004,16,2003-12-14,Athletic Club,Sevilla,2,1,0.0
+2003-2004,16,2003-12-14,Betis,Valencia,0,1,1.0
+2003-2004,16,2003-12-14,Real Madrid,La Coruña,2,1,0.0
+2003-2004,16,2003-12-14,Valladolid,Real Murcia,0,0,0.5
+2003-2004,17,2003-12-20,Atlético Madrid,Racing Sant,2,2,0.5
+2003-2004,17,2003-12-20,Valencia,Sevilla,1,0,0.0
+2003-2004,17,2003-12-20,Real Sociedad,Valladolid,1,3,1.0
+2003-2004,17,2003-12-21,Mallorca,Real Madrid,1,3,1.0
+2003-2004,17,2003-12-21,Real Murcia,Málaga,1,2,1.0
+2003-2004,17,2003-12-21,Albacete,Athletic Club,1,1,0.5
+2003-2004,17,2003-12-21,Barcelona,Celta Vigo,1,1,0.5
+2003-2004,17,2003-12-21,Osasuna,Zaragoza,0,1,1.0
+2003-2004,17,2003-12-21,La Coruña,Espanyol,2,1,0.0
+2003-2004,17,2003-12-21,Betis,Villarreal,1,3,1.0
+2003-2004,18,2004-01-03,Real Madrid,Real Murcia,1,0,0.0
+2003-2004,18,2004-01-03,Zaragoza,Atlético Madrid,0,0,0.5
+2003-2004,18,2004-01-03,Celta Vigo,La Coruña,0,5,1.0
+2003-2004,18,2004-01-04,Málaga,Real Sociedad,1,2,1.0
+2003-2004,18,2004-01-04,Sevilla,Albacete,2,0,0.0
+2003-2004,18,2004-01-04,Espanyol,Mallorca,2,0,0.0
+2003-2004,18,2004-01-04,Racing Sant,Barcelona,3,0,0.0
+2003-2004,18,2004-01-04,Valencia,Villarreal,4,2,0.0
+2003-2004,18,2004-01-04,Athletic Club,Osasuna,1,1,0.5
+2003-2004,18,2004-01-04,Valladolid,Betis,0,0,0.5
+2003-2004,19,2004-01-10,Real Sociedad,Real Madrid,1,0,0.0
+2003-2004,19,2004-01-10,Mallorca,Celta Vigo,2,4,1.0
+2003-2004,19,2004-01-10,Albacete,Valencia,0,1,1.0
+2003-2004,19,2004-01-11,Villarreal,Valladolid,3,1,0.0
+2003-2004,19,2004-01-11,La Coruña,Racing Sant,1,1,0.5
+2003-2004,19,2004-01-11,Betis,Málaga,3,0,0.0
+2003-2004,19,2004-01-11,Real Murcia,Espanyol,0,1,1.0
+2003-2004,19,2004-01-11,Barcelona,Zaragoza,3,0,0.0
+2003-2004,19,2004-01-11,Atlético Madrid,Athletic Club,3,0,0.0
+2003-2004,19,2004-01-11,Osasuna,Sevilla,1,1,0.5
+2003-2004,20,2004-01-17,Valladolid,Valencia,0,0,0.5
+2003-2004,20,2004-01-17,Real Murcia,Celta Vigo,2,2,0.5
+2003-2004,20,2004-01-17,Barcelona,Athletic Club,1,1,0.5
+2003-2004,20,2004-01-18,La Coruña,Zaragoza,4,1,0.0
+2003-2004,20,2004-01-18,Atlético Madrid,Sevilla,2,1,0.0
+2003-2004,20,2004-01-18,Mallorca,Racing Sant,1,1,0.5
+2003-2004,20,2004-01-18,Osasuna,Albacete,1,1,0.5
+2003-2004,20,2004-01-18,Villarreal,Málaga,2,0,0.0
+2003-2004,20,2004-01-18,Betis,Real Madrid,1,1,0.5
+2003-2004,20,2004-01-18,Real Sociedad,Espanyol,3,1,0.0
+2003-2004,21,2004-01-24,Albacete,Atlético Madrid,1,1,0.5
+2003-2004,21,2004-01-24,Real Madrid,Villarreal,2,1,0.0
+2003-2004,21,2004-01-25,Athletic Club,La Coruña,1,0,0.0
+2003-2004,21,2004-01-25,Espanyol,Betis,1,2,1.0
+2003-2004,21,2004-01-25,Valencia,Osasuna,0,1,1.0
+2003-2004,21,2004-01-25,Racing Sant,Real Murcia,3,2,0.0
+2003-2004,21,2004-01-25,Málaga,Valladolid,2,3,1.0
+2003-2004,21,2004-01-25,Celta Vigo,Real Sociedad,2,5,1.0
+2003-2004,21,2004-01-25,Sevilla,Barcelona,0,1,1.0
+2003-2004,21,2004-01-25,Zaragoza,Mallorca,1,3,1.0
+2003-2004,22,2004-01-31,Málaga,Valencia,1,6,1.0
+2003-2004,22,2004-01-31,Atlético Madrid,Osasuna,1,1,0.5
+2003-2004,22,2004-01-31,Betis,Celta Vigo,1,0,0.0
+2003-2004,22,2004-02-01,Villarreal,Espanyol,0,1,1.0
+2003-2004,22,2004-02-01,Mallorca,Athletic Club,1,3,1.0
+2003-2004,22,2004-02-01,La Coruña,Sevilla,1,0,0.0
+2003-2004,22,2004-02-01,Barcelona,Albacete,5,0,0.0
+2003-2004,22,2004-02-01,Real Sociedad,Racing Sant,1,0,0.0
+2003-2004,22,2004-02-01,Real Murcia,Zaragoza,1,0,0.0
+2003-2004,22,2004-02-01,Valladolid,Real Madrid,2,3,1.0
+2003-2004,23,2004-02-07,Valencia,Atlético Madrid,3,0,0.0
+2003-2004,23,2004-02-07,Real Madrid,Málaga,2,1,0.0
+2003-2004,23,2004-02-08,Sevilla,Mallorca,3,0,0.0
+2003-2004,23,2004-02-08,Racing Sant,Betis,1,2,1.0
+2003-2004,23,2004-02-08,Espanyol,Valladolid,2,0,0.0
+2003-2004,23,2004-02-08,Osasuna,Barcelona,1,2,1.0
+2003-2004,23,2004-02-08,Celta Vigo,Villarreal,2,1,0.0
+2003-2004,23,2004-02-08,Zaragoza,Real Sociedad,2,1,0.0
+2003-2004,23,2004-02-08,Albacete,La Coruña,0,2,1.0
+2003-2004,23,2004-02-08,Athletic Club,Real Murcia,2,1,0.0
+2003-2004,24,2004-02-14,Real Murcia,Sevilla,1,3,1.0
+2003-2004,24,2004-02-14,Real Sociedad,Athletic Club,1,1,0.5
+2003-2004,24,2004-02-15,Villarreal,Racing Sant,6,3,0.0
+2003-2004,24,2004-02-15,La Coruña,Osasuna,2,0,0.0
+2003-2004,24,2004-02-15,Mallorca,Albacete,0,0,0.5
+2003-2004,24,2004-02-15,Málaga,Espanyol,5,2,0.0
+2003-2004,24,2004-02-15,Valladolid,Celta Vigo,0,2,1.0
+2003-2004,24,2004-02-15,Betis,Zaragoza,2,1,0.0
+2003-2004,24,2004-02-15,Real Madrid,Valencia,1,1,0.5
+2003-2004,24,2004-02-15,Barcelona,Atlético Madrid,3,1,0.0
+2003-2004,25,2004-02-21,Celta Vigo,Málaga,0,2,1.0
+2003-2004,25,2004-02-21,Atlético Madrid,La Coruña,0,0,0.5
+2003-2004,25,2004-02-21,Sevilla,Real Sociedad,1,0,0.0
+2003-2004,25,2004-02-21,Valencia,Barcelona,0,1,1.0
+2003-2004,25,2004-02-21,Espanyol,Real Madrid,2,4,1.0
+2003-2004,25,2004-02-22,Racing Sant,Valladolid,1,0,0.0
+2003-2004,25,2004-02-22,Zaragoza,Villarreal,4,1,0.0
+2003-2004,25,2004-02-22,Osasuna,Mallorca,1,1,0.5
+2003-2004,25,2004-02-22,Albacete,Real Murcia,1,0,0.0
+2003-2004,25,2004-02-22,Athletic Club,Betis,1,1,0.5
+2003-2004,26,2004-02-28,Valladolid,Zaragoza,1,2,1.0
+2003-2004,26,2004-02-28,Betis,Sevilla,1,1,0.5
+2003-2004,26,2004-02-29,Villarreal,Athletic Club,0,1,1.0
+2003-2004,26,2004-02-29,Mallorca,Atlético Madrid,0,1,1.0
+2003-2004,26,2004-02-29,Real Sociedad,Albacete,0,1,1.0
+2003-2004,26,2004-02-29,Espanyol,Valencia,2,1,0.0
+2003-2004,26,2004-02-29,Málaga,Racing Sant,1,0,0.0
+2003-2004,26,2004-02-29,Real Madrid,Celta Vigo,4,2,0.0
+2003-2004,26,2004-02-29,Real Murcia,Osasuna,0,1,1.0
+2003-2004,26,2004-02-29,La Coruña,Barcelona,2,3,1.0
+2003-2004,27,2004-03-06,Celta Vigo,Espanyol,1,5,1.0
+2003-2004,27,2004-03-06,Osasuna,Real Sociedad,1,1,0.5
+2003-2004,27,2004-03-06,Racing Sant,Real Madrid,1,1,0.5
+2003-2004,27,2004-03-06,Valencia,La Coruña,3,0,0.0
+2003-2004,27,2004-03-07,Atlético Madrid,Real Murcia,1,1,0.5
+2003-2004,27,2004-03-07,Athletic Club,Valladolid,1,4,1.0
+2003-2004,27,2004-03-07,Albacete,Betis,1,0,0.0
+2003-2004,27,2004-03-07,Zaragoza,Málaga,1,0,0.0
+2003-2004,27,2004-03-07,Barcelona,Mallorca,3,2,0.0
+2003-2004,27,2004-03-07,Sevilla,Villarreal,2,0,0.0
+2003-2004,28,2004-03-13,Real Madrid,Zaragoza,1,1,0.5
+2003-2004,28,2004-03-13,Real Sociedad,Atlético Madrid,2,1,0.0
+2003-2004,28,2004-03-14,Real Murcia,Barcelona,0,2,1.0
+2003-2004,28,2004-03-14,Málaga,Athletic Club,2,1,0.0
+2003-2004,28,2004-03-14,Villarreal,Albacete,2,1,0.0
+2003-2004,28,2004-03-14,Valladolid,Sevilla,2,0,0.0
+2003-2004,28,2004-03-14,Mallorca,La Coruña,4,2,0.0
+2003-2004,28,2004-03-14,Celta Vigo,Valencia,0,2,1.0
+2003-2004,28,2004-03-14,Betis,Osasuna,1,1,0.5
+2003-2004,28,2004-03-14,Espanyol,Racing Sant,0,1,1.0
+2003-2004,29,2004-03-20,La Coruña,Real Murcia,1,0,0.0
+2003-2004,29,2004-03-20,Atlético Madrid,Betis,2,1,0.0
+2003-2004,29,2004-03-20,Athletic Club,Real Madrid,4,2,0.0
+2003-2004,29,2004-03-21,Albacete,Valladolid,2,0,0.0
+2003-2004,29,2004-03-21,Sevilla,Málaga,0,1,1.0
+2003-2004,29,2004-03-21,Valencia,Mallorca,5,1,0.0
+2003-2004,29,2004-03-21,Osasuna,Villarreal,2,1,0.0
+2003-2004,29,2004-03-21,Racing Sant,Celta Vigo,4,4,0.5
+2003-2004,29,2004-03-21,Barcelona,Real Sociedad,1,0,0.0
+2003-2004,29,2004-03-21,Zaragoza,Espanyol,1,1,0.5
+2003-2004,30,2004-03-27,Real Sociedad,La Coruña,1,2,1.0
+2003-2004,30,2004-03-27,Espanyol,Athletic Club,2,1,0.0
+2003-2004,30,2004-03-28,Villarreal,Atlético Madrid,0,0,0.5
+2003-2004,30,2004-03-28,Valladolid,Osasuna,1,1,0.5
+2003-2004,30,2004-03-28,Real Madrid,Sevilla,5,1,0.0
+2003-2004,30,2004-03-28,Málaga,Albacete,1,1,0.5
+2003-2004,30,2004-03-28,Racing Sant,Valencia,0,3,1.0
+2003-2004,30,2004-03-28,Celta Vigo,Zaragoza,0,2,1.0
+2003-2004,30,2004-03-28,Real Murcia,Mallorca,2,0,0.0
+2003-2004,31,2004-04-03,Sevilla,Espanyol,1,0,0.0
+2003-2004,31,2004-04-03,Barcelona,Villarreal,0,0,0.5
+2003-2004,31,2004-04-03,Albacete,Real Madrid,1,2,1.0
+2003-2004,31,2004-04-04,Mallorca,Real Sociedad,1,1,0.5
+2003-2004,31,2004-04-04,Valencia,Real Murcia,2,0,0.0
+2003-2004,31,2004-04-04,Athletic Club,Celta Vigo,0,0,0.5
+2003-2004,31,2004-04-04,Osasuna,Málaga,1,1,0.5
+2003-2004,31,2004-04-04,La Coruña,Betis,2,2,0.5
+2003-2004,31,2004-04-04,Atlético Madrid,Valladolid,2,1,0.0
+2003-2004,31,2004-04-04,Zaragoza,Racing Sant,2,2,0.5
+2003-2004,32,2004-04-10,Celta Vigo,Sevilla,0,0,0.5
+2003-2004,32,2004-04-10,Málaga,Atlético Madrid,3,1,0.0
+2003-2004,32,2004-04-10,Valladolid,Barcelona,1,3,1.0
+2003-2004,32,2004-04-11,Villarreal,La Coruña,0,2,1.0
+2003-2004,32,2004-04-11,Real Madrid,Osasuna,0,3,1.0
+2003-2004,32,2004-04-11,Espanyol,Albacete,1,1,0.5
+2003-2004,32,2004-04-11,Zaragoza,Valencia,0,1,1.0
+2003-2004,32,2004-04-11,Racing Sant,Athletic Club,1,2,1.0
+2003-2004,32,2004-04-11,Betis,Mallorca,0,2,1.0
+2003-2004,32,2004-04-11,Real Sociedad,Real Murcia,2,0,0.0
+2003-2004,30,2004-04-14,Betis,Barcelona,1,1,0.5
+2003-2004,33,2004-04-17,La Coruña,Valladolid,1,1,0.5
+2003-2004,33,2004-04-17,Athletic Club,Zaragoza,4,0,0.0
+2003-2004,33,2004-04-17,Atlético Madrid,Real Madrid,1,2,1.0
+2003-2004,33,2004-04-18,Valencia,Real Sociedad,2,2,0.5
+2003-2004,33,2004-04-18,Sevilla,Racing Sant,5,2,0.0
+2003-2004,33,2004-04-18,Osasuna,Espanyol,1,3,1.0
+2003-2004,33,2004-04-18,Real Murcia,Betis,0,1,1.0
+2003-2004,33,2004-04-18,Albacete,Celta Vigo,0,2,1.0
+2003-2004,33,2004-04-18,Mallorca,Villarreal,1,2,1.0
+2003-2004,33,2004-04-18,Barcelona,Málaga,3,0,0.0
+2003-2004,34,2004-04-24,Espanyol,Atlético Madrid,3,1,0.0
+2003-2004,34,2004-04-24,Málaga,La Coruña,1,1,0.5
+2003-2004,34,2004-04-25,Villarreal,Real Murcia,1,0,0.0
+2003-2004,34,2004-04-25,Zaragoza,Sevilla,4,4,0.5
+2003-2004,34,2004-04-25,Racing Sant,Albacete,0,2,1.0
+2003-2004,34,2004-04-25,Real Madrid,Barcelona,1,2,1.0
+2003-2004,34,2004-04-25,Athletic Club,Valencia,1,1,0.5
+2003-2004,34,2004-04-25,Valladolid,Mallorca,1,3,1.0
+2003-2004,34,2004-04-25,Betis,Real Sociedad,2,1,0.0
+2003-2004,34,2004-04-25,Celta Vigo,Osasuna,1,0,0.0
+2003-2004,35,2004-05-01,La Coruña,Real Madrid,2,0,0.0
+2003-2004,35,2004-05-01,Atlético Madrid,Celta Vigo,3,2,0.0
+2003-2004,35,2004-05-02,Mallorca,Málaga,2,1,0.0
+2003-2004,35,2004-05-02,Barcelona,Espanyol,4,1,0.0
+2003-2004,35,2004-05-02,Osasuna,Racing Sant,1,2,1.0
+2003-2004,35,2004-05-02,Valencia,Betis,2,0,0.0
+2003-2004,35,2004-05-02,Albacete,Zaragoza,3,1,0.0
+2003-2004,35,2004-05-02,Real Sociedad,Villarreal,2,2,0.5
+2003-2004,35,2004-05-02,Real Murcia,Valladolid,2,1,0.0
+2003-2004,35,2004-05-02,Sevilla,Athletic Club,2,0,0.0
+2003-2004,36,2004-05-08,Celta Vigo,Barcelona,1,0,0.0
+2003-2004,36,2004-05-08,Real Madrid,Mallorca,2,3,1.0
+2003-2004,36,2004-05-09,Villarreal,Betis,1,0,0.0
+2003-2004,36,2004-05-09,Sevilla,Valencia,0,2,1.0
+2003-2004,36,2004-05-09,Racing Sant,Atlético Madrid,2,2,0.5
+2003-2004,36,2004-05-09,Espanyol,La Coruña,2,0,0.0
+2003-2004,36,2004-05-09,Athletic Club,Albacete,1,1,0.5
+2003-2004,36,2004-05-09,Málaga,Real Murcia,1,0,0.0
+2003-2004,36,2004-05-09,Zaragoza,Osasuna,1,0,0.0
+2003-2004,36,2004-05-09,Valladolid,Real Sociedad,2,2,0.5
+2003-2004,37,2004-05-14,Villarreal,Valencia,2,1,0.0
+2003-2004,37,2004-05-15,La Coruña,Celta Vigo,3,0,0.0
+2003-2004,37,2004-05-15,Betis,Valladolid,1,0,0.0
+2003-2004,37,2004-05-16,Barcelona,Racing Sant,1,0,0.0
+2003-2004,37,2004-05-16,Real Murcia,Real Madrid,2,1,0.0
+2003-2004,37,2004-05-16,Osasuna,Athletic Club,1,2,1.0
+2003-2004,37,2004-05-16,Atlético Madrid,Zaragoza,1,2,1.0
+2003-2004,37,2004-05-16,Mallorca,Espanyol,4,2,0.0
+2003-2004,37,2004-05-16,Albacete,Sevilla,1,4,1.0
+2003-2004,37,2004-05-16,Real Sociedad,Málaga,1,1,0.5
+2003-2004,38,2004-05-23,Sevilla,Osasuna,1,0,0.0
+2003-2004,38,2004-05-23,Real Madrid,Real Sociedad,1,4,1.0
+2003-2004,38,2004-05-23,Espanyol,Real Murcia,2,0,0.0
+2003-2004,38,2004-05-23,Athletic Club,Atlético Madrid,3,4,1.0
+2003-2004,38,2004-05-23,Valladolid,Villarreal,3,0,0.0
+2003-2004,38,2004-05-23,Celta Vigo,Mallorca,1,2,1.0
+2003-2004,38,2004-05-23,Racing Sant,La Coruña,0,1,1.0
+2003-2004,38,2004-05-23,Valencia,Albacete,0,1,1.0
+2003-2004,38,2004-05-23,Zaragoza,Barcelona,2,1,0.0
+2003-2004,38,2004-05-23,Málaga,Betis,2,3,1.0

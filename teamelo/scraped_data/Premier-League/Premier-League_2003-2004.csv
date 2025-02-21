@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2003-2004,1,2003-08-16,Portsmouth,Aston Villa,2,1,0.0
+2003-2004,1,2003-08-16,Blackburn,Wolves,5,1,0.0
+2003-2004,1,2003-08-16,Leicester City,Southampton,2,2,0.5
+2003-2004,1,2003-08-16,Arsenal,Everton,2,1,0.0
+2003-2004,1,2003-08-16,Fulham,Middlesbrough,3,2,0.0
+2003-2004,1,2003-08-16,Manchester Utd,Bolton,4,0,0.0
+2003-2004,1,2003-08-16,Birmingham City,Tottenham,1,0,0.0
+2003-2004,1,2003-08-17,Charlton Ath,Manchester City,0,3,1.0
+2003-2004,1,2003-08-17,Liverpool,Chelsea,1,2,1.0
+2003-2004,1,2003-08-17,Leeds United,Newcastle Utd,2,2,0.5
+2003-2004,2,2003-08-23,Wolves,Charlton Ath,0,4,1.0
+2003-2004,2,2003-08-23,Tottenham,Leeds United,2,1,0.0
+2003-2004,2,2003-08-23,Newcastle Utd,Manchester Utd,1,2,1.0
+2003-2004,2,2003-08-23,Everton,Fulham,3,1,0.0
+2003-2004,2,2003-08-23,Chelsea,Leicester City,2,1,0.0
+2003-2004,2,2003-08-23,Manchester City,Portsmouth,1,1,0.5
+2003-2004,2,2003-08-23,Southampton,Birmingham City,0,0,0.5
+2003-2004,2,2003-08-23,Bolton,Blackburn,2,2,0.5
+2003-2004,2,2003-08-24,Middlesbrough,Arsenal,0,4,1.0
+2003-2004,2,2003-08-24,Aston Villa,Liverpool,0,0,0.5
+2003-2004,3,2003-08-25,Blackburn,Manchester City,2,3,1.0
+2003-2004,3,2003-08-26,Portsmouth,Bolton,4,0,0.0
+2003-2004,3,2003-08-26,Charlton Ath,Everton,2,2,0.5
+2003-2004,3,2003-08-26,Leicester City,Middlesbrough,0,0,0.5
+2003-2004,3,2003-08-26,Leeds United,Southampton,0,0,0.5
+2003-2004,3,2003-08-27,Liverpool,Tottenham,0,0,0.5
+2003-2004,3,2003-08-27,Arsenal,Aston Villa,2,0,0.0
+2003-2004,3,2003-08-27,Manchester Utd,Wolves,1,0,0.0
+2003-2004,4,2003-08-30,Wolves,Portsmouth,0,0,0.5
+2003-2004,4,2003-08-30,Bolton,Charlton Ath,0,0,0.5
+2003-2004,4,2003-08-30,Tottenham,Fulham,0,3,1.0
+2003-2004,4,2003-08-30,Chelsea,Blackburn,2,2,0.5
+2003-2004,4,2003-08-30,Newcastle Utd,Birmingham City,0,1,1.0
+2003-2004,4,2003-08-30,Aston Villa,Leicester City,3,1,0.0
+2003-2004,4,2003-08-30,Everton,Liverpool,0,3,1.0
+2003-2004,4,2003-08-30,Middlesbrough,Leeds United,2,3,1.0
+2003-2004,4,2003-08-31,Manchester City,Arsenal,1,2,1.0
+2003-2004,4,2003-08-31,Southampton,Manchester Utd,1,0,0.0
+2003-2004,5,2003-09-13,Bolton,Middlesbrough,2,0,0.0
+2003-2004,5,2003-09-13,Charlton Ath,Manchester Utd,0,2,1.0
+2003-2004,5,2003-09-13,Blackburn,Liverpool,1,3,1.0
+2003-2004,5,2003-09-13,Southampton,Wolves,2,0,0.0
+2003-2004,5,2003-09-13,Arsenal,Portsmouth,1,1,0.5
+2003-2004,5,2003-09-13,Chelsea,Tottenham,4,2,0.0
+2003-2004,5,2003-09-13,Everton,Newcastle Utd,2,2,0.5
+2003-2004,5,2003-09-14,Manchester City,Aston Villa,4,1,0.0
+2003-2004,5,2003-09-14,Birmingham City,Fulham,2,2,0.5
+2003-2004,5,2003-09-15,Leicester City,Leeds United,4,0,0.0
+2003-2004,6,2003-09-20,Wolves,Chelsea,0,5,1.0
+2003-2004,6,2003-09-20,Newcastle Utd,Bolton,0,0,0.5
+2003-2004,6,2003-09-20,Liverpool,Leicester City,2,1,0.0
+2003-2004,6,2003-09-20,Fulham,Manchester City,2,2,0.5
+2003-2004,6,2003-09-20,Portsmouth,Blackburn,1,2,1.0
+2003-2004,6,2003-09-20,Tottenham,Southampton,1,3,1.0
+2003-2004,6,2003-09-20,Leeds United,Birmingham City,0,2,1.0
+2003-2004,6,2003-09-20,Aston Villa,Charlton Ath,2,1,0.0
+2003-2004,6,2003-09-21,Middlesbrough,Everton,1,0,0.0
+2003-2004,6,2003-09-21,Manchester Utd,Arsenal,0,0,0.5
+2003-2004,7,2003-09-26,Arsenal,Newcastle Utd,3,2,0.0
+2003-2004,7,2003-09-27,Birmingham City,Portsmouth,2,0,0.0
+2003-2004,7,2003-09-27,Chelsea,Aston Villa,1,0,0.0
+2003-2004,7,2003-09-27,Leicester City,Manchester Utd,1,4,1.0
+2003-2004,7,2003-09-27,Bolton,Wolves,1,1,0.5
+2003-2004,7,2003-09-27,Southampton,Middlesbrough,0,1,1.0
+2003-2004,7,2003-09-28,Charlton Ath,Liverpool,3,2,0.0
+2003-2004,7,2003-09-28,Manchester City,Tottenham,0,0,0.5
+2003-2004,7,2003-09-28,Blackburn,Fulham,0,2,1.0
+2003-2004,7,2003-09-28,Everton,Leeds United,4,0,0.0
+2003-2004,8,2003-10-04,Fulham,Leicester City,2,0,0.0
+2003-2004,8,2003-10-04,Portsmouth,Charlton Ath,1,2,1.0
+2003-2004,8,2003-10-04,Leeds United,Blackburn,2,1,0.0
+2003-2004,8,2003-10-04,Manchester Utd,Birmingham City,3,0,0.0
+2003-2004,8,2003-10-04,Tottenham,Everton,3,0,0.0
+2003-2004,8,2003-10-04,Wolves,Manchester City,1,0,0.0
+2003-2004,8,2003-10-04,Liverpool,Arsenal,1,2,1.0
+2003-2004,8,2003-10-04,Newcastle Utd,Southampton,1,0,0.0
+2003-2004,8,2003-10-05,Aston Villa,Bolton,1,1,0.5
+2003-2004,8,2003-10-05,Middlesbrough,Chelsea,1,2,1.0
+2003-2004,3,2003-10-14,Birmingham City,Chelsea,0,0,0.5
+2003-2004,9,2003-10-18,Portsmouth,Liverpool,1,0,0.0
+2003-2004,9,2003-10-18,Leeds United,Manchester Utd,0,1,1.0
+2003-2004,9,2003-10-18,Fulham,Wolves,0,0,0.5
+2003-2004,9,2003-10-18,Middlesbrough,Newcastle Utd,0,1,1.0
+2003-2004,9,2003-10-18,Arsenal,Chelsea,2,1,0.0
+2003-2004,9,2003-10-18,Manchester City,Bolton,6,2,0.0
+2003-2004,9,2003-10-19,Everton,Southampton,0,0,0.5
+2003-2004,9,2003-10-19,Birmingham City,Aston Villa,0,0,0.5
+2003-2004,9,2003-10-19,Leicester City,Tottenham,1,2,1.0
+2003-2004,9,2003-10-20,Blackburn,Charlton Ath,0,1,1.0
+2003-2004,3,2003-10-21,Fulham,Newcastle Utd,2,3,1.0
+2003-2004,10,2003-10-25,Southampton,Blackburn,2,0,0.0
+2003-2004,10,2003-10-25,Manchester Utd,Fulham,1,3,1.0
+2003-2004,10,2003-10-25,Newcastle Utd,Portsmouth,3,0,0.0
+2003-2004,10,2003-10-25,Aston Villa,Everton,0,0,0.5
+2003-2004,10,2003-10-25,Wolves,Leicester City,4,3,0.0
+2003-2004,10,2003-10-25,Bolton,Birmingham City,0,1,1.0
+2003-2004,10,2003-10-25,Chelsea,Manchester City,1,0,0.0
+2003-2004,10,2003-10-25,Liverpool,Leeds United,3,1,0.0
+2003-2004,10,2003-10-26,Tottenham,Middlesbrough,0,0,0.5
+2003-2004,10,2003-10-26,Charlton Ath,Arsenal,1,1,0.5
+2003-2004,11,2003-11-01,Everton,Chelsea,0,1,1.0
+2003-2004,11,2003-11-01,Leeds United,Arsenal,1,4,1.0
+2003-2004,11,2003-11-01,Tottenham,Bolton,0,1,1.0
+2003-2004,11,2003-11-01,Southampton,Manchester City,0,2,1.0
+2003-2004,11,2003-11-01,Newcastle Utd,Aston Villa,1,1,0.5
+2003-2004,11,2003-11-01,Middlesbrough,Wolves,2,0,0.0
+2003-2004,11,2003-11-01,Manchester Utd,Portsmouth,3,0,0.0
+2003-2004,11,2003-11-02,Fulham,Liverpool,1,2,1.0
+2003-2004,11,2003-11-02,Leicester City,Blackburn,2,0,0.0
+2003-2004,11,2003-11-03,Birmingham City,Charlton Ath,1,2,1.0
+2003-2004,12,2003-11-08,Wolves,Birmingham City,1,1,0.5
+2003-2004,12,2003-11-08,Charlton Ath,Fulham,3,1,0.0
+2003-2004,12,2003-11-08,Arsenal,Tottenham,2,1,0.0
+2003-2004,12,2003-11-08,Aston Villa,Middlesbrough,0,2,1.0
+2003-2004,12,2003-11-08,Bolton,Southampton,0,0,0.5
+2003-2004,12,2003-11-08,Portsmouth,Leeds United,6,1,0.0
+2003-2004,12,2003-11-09,Chelsea,Newcastle Utd,5,0,0.0
+2003-2004,12,2003-11-09,Manchester City,Leicester City,0,3,1.0
+2003-2004,12,2003-11-09,Liverpool,Manchester Utd,1,2,1.0
+2003-2004,12,2003-11-10,Blackburn,Everton,2,1,0.0
+2003-2004,13,2003-11-22,Leicester City,Charlton Ath,1,1,0.5
+2003-2004,13,2003-11-22,Manchester Utd,Blackburn,2,1,0.0
+2003-2004,13,2003-11-22,Middlesbrough,Liverpool,0,0,0.5
+2003-2004,13,2003-11-22,Birmingham City,Arsenal,0,3,1.0
+2003-2004,13,2003-11-22,Newcastle Utd,Manchester City,3,0,0.0
+2003-2004,13,2003-11-22,Southampton,Chelsea,0,1,1.0
+2003-2004,13,2003-11-22,Everton,Wolves,2,0,0.0
+2003-2004,13,2003-11-22,Leeds United,Bolton,0,2,1.0
+2003-2004,13,2003-11-23,Tottenham,Aston Villa,2,1,0.0
+2003-2004,13,2003-11-24,Fulham,Portsmouth,2,0,0.0
+2003-2004,14,2003-11-29,Wolves,Newcastle Utd,1,1,0.5
+2003-2004,14,2003-11-29,Bolton,Everton,2,0,0.0
+2003-2004,14,2003-11-29,Blackburn,Tottenham,1,0,0.0
+2003-2004,14,2003-11-29,Portsmouth,Leicester City,0,2,1.0
+2003-2004,14,2003-11-29,Aston Villa,Southampton,1,0,0.0
+2003-2004,14,2003-11-29,Charlton Ath,Leeds United,0,1,1.0
+2003-2004,14,2003-11-30,Manchester City,Middlesbrough,0,1,1.0
+2003-2004,14,2003-11-30,Chelsea,Manchester Utd,1,0,0.0
+2003-2004,14,2003-11-30,Arsenal,Fulham,0,0,0.5
+2003-2004,14,2003-11-30,Liverpool,Birmingham City,3,1,0.0
+2003-2004,15,2003-12-06,Manchester Utd,Aston Villa,4,0,0.0
+2003-2004,15,2003-12-06,Middlesbrough,Portsmouth,0,0,0.5
+2003-2004,15,2003-12-06,Leeds United,Chelsea,1,1,0.5
+2003-2004,15,2003-12-06,Birmingham City,Blackburn,0,4,1.0
+2003-2004,15,2003-12-06,Newcastle Utd,Liverpool,1,1,0.5
+2003-2004,15,2003-12-06,Leicester City,Arsenal,1,1,0.5
+2003-2004,15,2003-12-06,Tottenham,Wolves,5,2,0.0
+2003-2004,15,2003-12-06,Fulham,Bolton,2,1,0.0
+2003-2004,15,2003-12-07,Everton,Manchester City,0,0,0.5
+2003-2004,15,2003-12-07,Southampton,Charlton Ath,3,2,0.0
+2003-2004,16,2003-12-13,Newcastle Utd,Tottenham,4,0,0.0
+2003-2004,16,2003-12-13,Chelsea,Bolton,1,2,1.0
+2003-2004,16,2003-12-13,Leicester City,Birmingham City,0,2,1.0
+2003-2004,16,2003-12-13,Portsmouth,Everton,1,2,1.0
+2003-2004,16,2003-12-13,Middlesbrough,Charlton Ath,0,0,0.5
+2003-2004,16,2003-12-13,Manchester Utd,Manchester City,3,1,0.0
+2003-2004,16,2003-12-13,Liverpool,Southampton,1,2,1.0
+2003-2004,16,2003-12-14,Arsenal,Blackburn,1,0,0.0
+2003-2004,16,2003-12-14,Aston Villa,Wolves,3,2,0.0
+2003-2004,16,2003-12-14,Leeds United,Fulham,3,2,0.0
+2003-2004,17,2003-12-20,Fulham,Chelsea,0,1,1.0
+2003-2004,17,2003-12-20,Blackburn,Aston Villa,0,2,1.0
+2003-2004,17,2003-12-20,Everton,Leicester City,3,2,0.0
+2003-2004,17,2003-12-20,Bolton,Arsenal,1,1,0.5
+2003-2004,17,2003-12-20,Charlton Ath,Newcastle Utd,0,0,0.5
+2003-2004,17,2003-12-21,Tottenham,Manchester Utd,1,2,1.0
+2003-2004,17,2003-12-21,Southampton,Portsmouth,3,0,0.0
+2003-2004,17,2003-12-22,Manchester City,Leeds United,1,1,0.5
+2003-2004,18,2003-12-26,Birmingham City,Manchester City,2,1,0.0
+2003-2004,18,2003-12-26,Manchester Utd,Everton,3,2,0.0
+2003-2004,18,2003-12-26,Arsenal,Wolves,3,0,0.0
+2003-2004,18,2003-12-26,Leicester City,Newcastle Utd,1,1,0.5
+2003-2004,18,2003-12-26,Leeds United,Aston Villa,0,0,0.5
+2003-2004,18,2003-12-26,Fulham,Southampton,2,0,0.0
+2003-2004,18,2003-12-26,Blackburn,Middlesbrough,2,2,0.5
+2003-2004,18,2003-12-26,Portsmouth,Tottenham,2,0,0.0
+2003-2004,18,2003-12-26,Liverpool,Bolton,3,1,0.0
+2003-2004,18,2003-12-26,Charlton Ath,Chelsea,4,2,0.0
+2003-2004,19,2003-12-28,Manchester City,Liverpool,2,2,0.5
+2003-2004,19,2003-12-28,Middlesbrough,Manchester Utd,0,1,1.0
+2003-2004,19,2003-12-28,Tottenham,Charlton Ath,0,1,1.0
+2003-2004,19,2003-12-28,Aston Villa,Fulham,3,0,0.0
+2003-2004,19,2003-12-28,Everton,Birmingham City,1,0,0.0
+2003-2004,19,2003-12-28,Wolves,Leeds United,3,1,0.0
+2003-2004,19,2003-12-28,Chelsea,Portsmouth,3,0,0.0
+2003-2004,19,2003-12-28,Bolton,Leicester City,2,2,0.5
+2003-2004,19,2003-12-28,Newcastle Utd,Blackburn,0,1,1.0
+2003-2004,19,2003-12-29,Southampton,Arsenal,0,1,1.0
+2003-2004,20,2004-01-06,Aston Villa,Portsmouth,2,1,0.0
+2003-2004,20,2004-01-07,Manchester City,Charlton Ath,1,1,0.5
+2003-2004,20,2004-01-07,Middlesbrough,Fulham,2,1,0.0
+2003-2004,20,2004-01-07,Newcastle Utd,Leeds United,1,0,0.0
+2003-2004,20,2004-01-07,Tottenham,Birmingham City,4,1,0.0
+2003-2004,20,2004-01-07,Chelsea,Liverpool,0,1,1.0
+2003-2004,20,2004-01-07,Southampton,Leicester City,0,0,0.5
+2003-2004,20,2004-01-07,Everton,Arsenal,1,1,0.5
+2003-2004,20,2004-01-07,Wolves,Blackburn,2,2,0.5
+2003-2004,20,2004-01-07,Bolton,Manchester Utd,1,2,1.0
+2003-2004,21,2004-01-10,Arsenal,Middlesbrough,4,1,0.0
+2003-2004,21,2004-01-10,Leeds United,Tottenham,0,1,1.0
+2003-2004,21,2004-01-10,Fulham,Everton,2,1,0.0
+2003-2004,21,2004-01-10,Birmingham City,Southampton,2,1,0.0
+2003-2004,21,2004-01-10,Blackburn,Bolton,3,4,1.0
+2003-2004,21,2004-01-10,Portsmouth,Manchester City,4,2,0.0
+2003-2004,21,2004-01-10,Liverpool,Aston Villa,1,0,0.0
+2003-2004,21,2004-01-10,Charlton Ath,Wolves,2,0,0.0
+2003-2004,21,2004-01-11,Leicester City,Chelsea,0,4,1.0
+2003-2004,21,2004-01-11,Manchester Utd,Newcastle Utd,0,0,0.5
+2003-2004,22,2004-01-17,Southampton,Leeds United,2,1,0.0
+2003-2004,22,2004-01-17,Wolves,Manchester Utd,1,0,0.0
+2003-2004,22,2004-01-17,Manchester City,Blackburn,1,1,0.5
+2003-2004,22,2004-01-17,Middlesbrough,Leicester City,3,3,0.5
+2003-2004,22,2004-01-17,Tottenham,Liverpool,2,1,0.0
+2003-2004,22,2004-01-17,Everton,Charlton Ath,0,1,1.0
+2003-2004,22,2004-01-17,Bolton,Portsmouth,1,0,0.0
+2003-2004,22,2004-01-18,Aston Villa,Arsenal,0,2,1.0
+2003-2004,22,2004-01-18,Chelsea,Birmingham City,0,0,0.5
+2003-2004,22,2004-01-19,Newcastle Utd,Fulham,3,1,0.0
+2003-2004,17,2004-01-21,Wolves,Liverpool,1,1,0.5
+2003-2004,23,2004-01-31,Portsmouth,Wolves,0,0,0.5
+2003-2004,23,2004-01-31,Leicester City,Aston Villa,0,5,1.0
+2003-2004,23,2004-01-31,Charlton Ath,Bolton,1,2,1.0
+2003-2004,23,2004-01-31,Fulham,Tottenham,2,1,0.0
+2003-2004,23,2004-01-31,Manchester Utd,Southampton,3,2,0.0
+2003-2004,23,2004-01-31,Leeds United,Middlesbrough,0,3,1.0
+2003-2004,23,2004-01-31,Birmingham City,Newcastle Utd,1,1,0.5
+2003-2004,23,2004-01-31,Liverpool,Everton,0,0,0.5
+2003-2004,23,2004-02-01,Blackburn,Chelsea,2,3,1.0
+2003-2004,23,2004-02-01,Arsenal,Manchester City,2,1,0.0
+2003-2004,24,2004-02-07,Middlesbrough,Blackburn,0,1,1.0
+2003-2004,24,2004-02-07,Southampton,Fulham,0,0,0.5
+2003-2004,24,2004-02-07,Tottenham,Portsmouth,4,3,0.0
+2003-2004,24,2004-02-07,Wolves,Arsenal,1,3,1.0
+2003-2004,24,2004-02-07,Everton,Manchester Utd,3,4,1.0
+2003-2004,24,2004-02-07,Bolton,Liverpool,2,2,0.5
+2003-2004,24,2004-02-07,Aston Villa,Leeds United,2,0,0.0
+2003-2004,24,2004-02-07,Newcastle Utd,Leicester City,3,1,0.0
+2003-2004,24,2004-02-08,Manchester City,Birmingham City,0,0,0.5
+2003-2004,24,2004-02-08,Chelsea,Charlton Ath,1,0,0.0
+2003-2004,25,2004-02-10,Arsenal,Southampton,2,0,0.0
+2003-2004,25,2004-02-10,Leicester City,Bolton,1,1,0.5
+2003-2004,25,2004-02-10,Leeds United,Wolves,4,1,0.0
+2003-2004,25,2004-02-11,Manchester Utd,Middlesbrough,2,3,1.0
+2003-2004,25,2004-02-11,Birmingham City,Everton,3,0,0.0
+2003-2004,25,2004-02-11,Liverpool,Manchester City,2,1,0.0
+2003-2004,25,2004-02-11,Portsmouth,Chelsea,0,2,1.0
+2003-2004,25,2004-02-11,Blackburn,Newcastle Utd,1,1,0.5
+2003-2004,25,2004-02-11,Charlton Ath,Tottenham,2,4,1.0
+2003-2004,25,2004-02-11,Fulham,Aston Villa,1,2,1.0
+2003-2004,26,2004-02-21,Charlton Ath,Blackburn,3,2,0.0
+2003-2004,26,2004-02-21,Manchester Utd,Leeds United,1,1,0.5
+2003-2004,26,2004-02-21,Bolton,Manchester City,1,3,1.0
+2003-2004,26,2004-02-21,Newcastle Utd,Middlesbrough,2,1,0.0
+2003-2004,26,2004-02-21,Chelsea,Arsenal,1,2,1.0
+2003-2004,26,2004-02-21,Southampton,Everton,3,3,0.5
+2003-2004,26,2004-02-21,Wolves,Fulham,2,1,0.0
+2003-2004,26,2004-02-22,Aston Villa,Birmingham City,2,2,0.5
+2003-2004,26,2004-02-22,Tottenham,Leicester City,4,4,0.5
+2003-2004,27,2004-02-28,Arsenal,Charlton Ath,2,1,0.0
+2003-2004,27,2004-02-28,Manchester City,Chelsea,0,1,1.0
+2003-2004,27,2004-02-28,Everton,Aston Villa,2,0,0.0
+2003-2004,27,2004-02-28,Blackburn,Southampton,1,1,0.5
+2003-2004,27,2004-02-28,Fulham,Manchester Utd,1,1,0.5
+2003-2004,27,2004-02-28,Leicester City,Wolves,0,0,0.5
+2003-2004,27,2004-02-29,Leeds United,Liverpool,2,2,0.5
+2003-2004,27,2004-02-29,Portsmouth,Newcastle Utd,1,1,0.5
+2003-2004,17,2004-03-03,Birmingham City,Middlesbrough,3,1,0.0
+2003-2004,27,2004-03-06,Birmingham City,Bolton,2,0,0.0
+2003-2004,27,2004-03-09,Middlesbrough,Tottenham,1,0,0.0
+2003-2004,28,2004-03-13,Birmingham City,Leicester City,0,1,1.0
+2003-2004,28,2004-03-13,Fulham,Leeds United,2,0,0.0
+2003-2004,28,2004-03-13,Blackburn,Arsenal,0,2,1.0
+2003-2004,28,2004-03-13,Bolton,Chelsea,0,2,1.0
+2003-2004,28,2004-03-13,Everton,Portsmouth,1,0,0.0
+2003-2004,28,2004-03-13,Charlton Ath,Middlesbrough,1,0,0.0
+2003-2004,28,2004-03-14,Southampton,Liverpool,2,0,0.0
+2003-2004,28,2004-03-14,Wolves,Aston Villa,0,4,1.0
+2003-2004,28,2004-03-14,Tottenham,Newcastle Utd,1,0,0.0
+2003-2004,28,2004-03-14,Manchester City,Manchester Utd,4,1,0.0
+2003-2004,26,2004-03-17,Liverpool,Portsmouth,3,0,0.0
+2003-2004,29,2004-03-20,Manchester Utd,Tottenham,3,0,0.0
+2003-2004,29,2004-03-20,Middlesbrough,Birmingham City,5,3,0.0
+2003-2004,29,2004-03-20,Leicester City,Everton,1,1,0.5
+2003-2004,29,2004-03-20,Arsenal,Bolton,2,1,0.0
+2003-2004,29,2004-03-20,Aston Villa,Blackburn,0,2,1.0
+2003-2004,29,2004-03-20,Newcastle Utd,Charlton Ath,3,1,0.0
+2003-2004,29,2004-03-20,Chelsea,Fulham,2,1,0.0
+2003-2004,29,2004-03-20,Liverpool,Wolves,1,0,0.0
+2003-2004,29,2004-03-21,Portsmouth,Southampton,1,0,0.0
+2003-2004,29,2004-03-22,Leeds United,Manchester City,2,1,0.0
+2003-2004,30,2004-03-27,Blackburn,Portsmouth,1,2,1.0
+2003-2004,30,2004-03-27,Birmingham City,Leeds United,4,1,0.0
+2003-2004,30,2004-03-27,Charlton Ath,Aston Villa,1,2,1.0
+2003-2004,30,2004-03-27,Chelsea,Wolves,5,2,0.0
+2003-2004,30,2004-03-27,Manchester City,Fulham,0,0,0.5
+2003-2004,30,2004-03-27,Everton,Middlesbrough,1,1,0.5
+2003-2004,30,2004-03-27,Southampton,Tottenham,1,0,0.0
+2003-2004,30,2004-03-28,Bolton,Newcastle Utd,1,0,0.0
+2003-2004,30,2004-03-28,Arsenal,Manchester Utd,1,1,0.5
+2003-2004,30,2004-03-28,Leicester City,Liverpool,0,0,0.5
+2003-2004,31,2004-04-03,Newcastle Utd,Everton,4,2,0.0
+2003-2004,31,2004-04-03,Tottenham,Chelsea,0,1,1.0
+2003-2004,31,2004-04-03,Fulham,Birmingham City,0,0,0.5
+2003-2004,31,2004-04-03,Middlesbrough,Bolton,2,0,0.0
+2003-2004,31,2004-04-03,Wolves,Southampton,1,4,1.0
+2003-2004,31,2004-04-04,Liverpool,Blackburn,4,0,0.0
+2003-2004,31,2004-04-04,Aston Villa,Manchester City,1,1,0.5
+2003-2004,31,2004-04-05,Leeds United,Leicester City,3,2,0.0
+2003-2004,32,2004-04-09,Arsenal,Liverpool,4,2,0.0
+2003-2004,32,2004-04-09,Everton,Tottenham,3,1,0.0
+2003-2004,32,2004-04-10,Chelsea,Middlesbrough,0,0,0.5
+2003-2004,32,2004-04-10,Blackburn,Leeds United,1,2,1.0
+2003-2004,32,2004-04-10,Manchester City,Wolves,3,3,0.5
+2003-2004,32,2004-04-10,Leicester City,Fulham,0,2,1.0
+2003-2004,32,2004-04-10,Birmingham City,Manchester Utd,1,2,1.0
+2003-2004,32,2004-04-10,Bolton,Aston Villa,2,2,0.5
+2003-2004,32,2004-04-10,Charlton Ath,Portsmouth,1,1,0.5
+2003-2004,33,2004-04-11,Newcastle Utd,Arsenal,0,0,0.5
+2003-2004,33,2004-04-12,Middlesbrough,Southampton,3,1,0.0
+2003-2004,33,2004-04-12,Tottenham,Manchester City,1,1,0.5
+2003-2004,33,2004-04-12,Portsmouth,Birmingham City,3,1,0.0
+2003-2004,33,2004-04-12,Liverpool,Charlton Ath,0,1,1.0
+2003-2004,33,2004-04-12,Wolves,Bolton,1,2,1.0
+2003-2004,33,2004-04-12,Fulham,Blackburn,3,4,1.0
+2003-2004,33,2004-04-12,Aston Villa,Chelsea,3,2,0.0
+2003-2004,33,2004-04-13,Leeds United,Everton,1,1,0.5
+2003-2004,33,2004-04-13,Manchester Utd,Leicester City,1,0,0.0
+2003-2004,34,2004-04-16,Arsenal,Leeds United,5,0,0.0
+2003-2004,34,2004-04-17,Blackburn,Leicester City,1,0,0.0
+2003-2004,34,2004-04-17,Chelsea,Everton,0,0,0.5
+2003-2004,34,2004-04-17,Portsmouth,Manchester Utd,1,0,0.0
+2003-2004,34,2004-04-17,Manchester City,Southampton,1,3,1.0
+2003-2004,34,2004-04-17,Liverpool,Fulham,0,0,0.5
+2003-2004,34,2004-04-17,Bolton,Tottenham,2,0,0.0
+2003-2004,34,2004-04-17,Charlton Ath,Birmingham City,1,1,0.5
+2003-2004,34,2004-04-17,Wolves,Middlesbrough,2,0,0.0
+2003-2004,34,2004-04-18,Aston Villa,Newcastle Utd,0,0,0.5
+2003-2004,31,2004-04-20,Manchester Utd,Charlton Ath,2,0,0.0
+2003-2004,35,2004-04-24,Southampton,Bolton,1,2,1.0
+2003-2004,35,2004-04-24,Leicester City,Manchester City,1,1,0.5
+2003-2004,35,2004-04-24,Fulham,Charlton Ath,2,0,0.0
+2003-2004,35,2004-04-24,Middlesbrough,Aston Villa,1,2,1.0
+2003-2004,35,2004-04-24,Everton,Blackburn,0,1,1.0
+2003-2004,35,2004-04-24,Manchester Utd,Liverpool,0,1,1.0
+2003-2004,35,2004-04-25,Newcastle Utd,Chelsea,2,1,0.0
+2003-2004,35,2004-04-25,Birmingham City,Wolves,2,2,0.5
+2003-2004,35,2004-04-25,Tottenham,Arsenal,2,2,0.5
+2003-2004,35,2004-04-25,Leeds United,Portsmouth,1,2,1.0
+2003-2004,36,2004-05-01,Blackburn,Manchester Utd,1,0,0.0
+2003-2004,36,2004-05-01,Portsmouth,Fulham,1,1,0.5
+2003-2004,36,2004-05-01,Wolves,Everton,2,1,0.0
+2003-2004,36,2004-05-01,Charlton Ath,Leicester City,2,2,0.5
+2003-2004,36,2004-05-01,Manchester City,Newcastle Utd,1,0,0.0
+2003-2004,36,2004-05-01,Arsenal,Birmingham City,0,0,0.5
+2003-2004,36,2004-05-01,Chelsea,Southampton,4,0,0.0
+2003-2004,36,2004-05-02,Bolton,Leeds United,4,1,0.0
+2003-2004,36,2004-05-02,Aston Villa,Tottenham,1,0,0.0
+2003-2004,36,2004-05-02,Liverpool,Middlesbrough,2,0,0.0
+2003-2004,31,2004-05-04,Portsmouth,Arsenal,1,1,0.5
+2003-2004,37,2004-05-08,Southampton,Aston Villa,1,1,0.5
+2003-2004,37,2004-05-08,Leeds United,Charlton Ath,3,3,0.5
+2003-2004,37,2004-05-08,Manchester Utd,Chelsea,1,1,0.5
+2003-2004,37,2004-05-08,Leicester City,Portsmouth,3,1,0.0
+2003-2004,37,2004-05-08,Everton,Bolton,1,2,1.0
+2003-2004,37,2004-05-08,Birmingham City,Liverpool,0,3,1.0
+2003-2004,37,2004-05-08,Middlesbrough,Manchester City,2,1,0.0
+2003-2004,37,2004-05-08,Tottenham,Blackburn,1,0,0.0
+2003-2004,37,2004-05-09,Fulham,Arsenal,0,1,1.0
+2003-2004,37,2004-05-09,Newcastle Utd,Wolves,1,1,0.5
+2003-2004,32,2004-05-12,Southampton,Newcastle Utd,3,3,0.5
+2003-2004,38,2004-05-15,Liverpool,Newcastle Utd,1,1,0.5
+2003-2004,38,2004-05-15,Bolton,Fulham,0,2,1.0
+2003-2004,38,2004-05-15,Manchester City,Everton,5,1,0.0
+2003-2004,38,2004-05-15,Aston Villa,Manchester Utd,0,2,1.0
+2003-2004,38,2004-05-15,Charlton Ath,Southampton,2,1,0.0
+2003-2004,38,2004-05-15,Blackburn,Birmingham City,1,1,0.5
+2003-2004,38,2004-05-15,Wolves,Tottenham,0,2,1.0
+2003-2004,38,2004-05-15,Portsmouth,Middlesbrough,5,1,0.0
+2003-2004,38,2004-05-15,Chelsea,Leeds United,1,0,0.0
+2003-2004,38,2004-05-15,Arsenal,Leicester City,2,1,0.0

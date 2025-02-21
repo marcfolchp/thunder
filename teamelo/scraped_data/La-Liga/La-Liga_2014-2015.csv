@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,1,2014-08-23,Málaga,Athletic Club,1,0,0.0
+2014-2015,1,2014-08-23,Granada,La Coruña,2,1,0.0
+2014-2015,1,2014-08-23,Sevilla,Valencia,1,1,0.5
+2014-2015,1,2014-08-23,Almería,Espanyol,1,1,0.5
+2014-2015,1,2014-08-24,Eibar,Real Sociedad,1,0,0.0
+2014-2015,1,2014-08-24,Celta Vigo,Getafe,3,1,0.0
+2014-2015,1,2014-08-24,Barcelona,Elche,3,0,0.0
+2014-2015,1,2014-08-24,Levante,Villarreal,0,2,1.0
+2014-2015,1,2014-08-25,Real Madrid,Córdoba,2,0,0.0
+2014-2015,1,2014-08-25,Rayo Vallecano,Atlético Madrid,0,0,0.5
+2014-2015,2,2014-08-29,Getafe,Almería,1,0,0.0
+2014-2015,2,2014-08-29,Valencia,Málaga,3,0,0.0
+2014-2015,2,2014-08-30,Córdoba,Celta Vigo,1,1,0.5
+2014-2015,2,2014-08-30,Athletic Club,Levante,3,0,0.0
+2014-2015,2,2014-08-30,Atlético Madrid,Eibar,2,1,0.0
+2014-2015,2,2014-08-30,Espanyol,Sevilla,1,2,1.0
+2014-2015,2,2014-08-31,Villarreal,Barcelona,0,1,1.0
+2014-2015,2,2014-08-31,La Coruña,Rayo Vallecano,2,2,0.5
+2014-2015,2,2014-08-31,Real Sociedad,Real Madrid,4,2,0.0
+2014-2015,2,2014-08-31,Elche,Granada,1,1,0.5
+2014-2015,3,2014-09-12,Almería,Córdoba,1,1,0.5
+2014-2015,3,2014-09-13,Barcelona,Athletic Club,2,0,0.0
+2014-2015,3,2014-09-13,Málaga,Levante,0,0,0.5
+2014-2015,3,2014-09-13,Real Madrid,Atlético Madrid,1,2,1.0
+2014-2015,3,2014-09-13,Celta Vigo,Real Sociedad,2,2,0.5
+2014-2015,3,2014-09-14,Rayo Vallecano,Elche,2,3,1.0
+2014-2015,3,2014-09-14,Valencia,Espanyol,3,1,0.0
+2014-2015,3,2014-09-14,Sevilla,Getafe,2,0,0.0
+2014-2015,3,2014-09-14,Granada,Villarreal,0,0,0.5
+2014-2015,3,2014-09-15,Eibar,La Coruña,0,1,1.0
+2014-2015,4,2014-09-19,Elche,Eibar,0,2,1.0
+2014-2015,4,2014-09-20,La Coruña,Real Madrid,2,8,1.0
+2014-2015,4,2014-09-20,Athletic Club,Granada,0,1,1.0
+2014-2015,4,2014-09-20,Atlético Madrid,Celta Vigo,2,2,0.5
+2014-2015,4,2014-09-20,Espanyol,Málaga,2,2,0.5
+2014-2015,4,2014-09-21,Real Sociedad,Almería,1,2,1.0
+2014-2015,4,2014-09-21,Villarreal,Rayo Vallecano,4,2,0.0
+2014-2015,4,2014-09-21,Córdoba,Sevilla,1,3,1.0
+2014-2015,4,2014-09-21,Levante,Barcelona,0,5,1.0
+2014-2015,4,2014-09-22,Getafe,Valencia,0,3,1.0
+2014-2015,5,2014-09-23,Real Madrid,Elche,5,1,0.0
+2014-2015,5,2014-09-23,Celta Vigo,La Coruña,2,1,0.0
+2014-2015,5,2014-09-24,Eibar,Villarreal,1,1,0.5
+2014-2015,5,2014-09-24,Rayo Vallecano,Athletic Club,2,1,0.0
+2014-2015,5,2014-09-24,Almería,Atlético Madrid,0,1,1.0
+2014-2015,5,2014-09-24,Málaga,Barcelona,0,0,0.5
+2014-2015,5,2014-09-24,Sevilla,Real Sociedad,1,0,0.0
+2014-2015,5,2014-09-24,Granada,Levante,0,1,1.0
+2014-2015,5,2014-09-25,Espanyol,Getafe,2,0,0.0
+2014-2015,5,2014-09-25,Valencia,Córdoba,3,0,0.0
+2014-2015,6,2014-09-26,Elche,Celta Vigo,0,1,1.0
+2014-2015,6,2014-09-27,Villarreal,Real Madrid,0,2,1.0
+2014-2015,6,2014-09-27,Barcelona,Granada,6,0,0.0
+2014-2015,6,2014-09-27,Atlético Madrid,Sevilla,4,0,0.0
+2014-2015,6,2014-09-27,Athletic Club,Eibar,0,0,0.5
+2014-2015,6,2014-09-27,Levante,Rayo Vallecano,0,2,1.0
+2014-2015,6,2014-09-28,Getafe,Málaga,1,0,0.0
+2014-2015,6,2014-09-28,La Coruña,Almería,0,1,1.0
+2014-2015,6,2014-09-28,Real Sociedad,Valencia,1,1,0.5
+2014-2015,6,2014-09-28,Córdoba,Espanyol,0,0,0.5
+2014-2015,7,2014-10-03,Getafe,Córdoba,1,1,0.5
+2014-2015,7,2014-10-04,Valencia,Atlético Madrid,3,1,0.0
+2014-2015,7,2014-10-04,Rayo Vallecano,Barcelona,0,2,1.0
+2014-2015,7,2014-10-04,Eibar,Levante,3,3,0.5
+2014-2015,7,2014-10-04,Málaga,Granada,2,1,0.0
+2014-2015,7,2014-10-04,Almería,Elche,2,2,0.5
+2014-2015,7,2014-10-05,Sevilla,La Coruña,4,1,0.0
+2014-2015,7,2014-10-05,Celta Vigo,Villarreal,1,3,1.0
+2014-2015,7,2014-10-05,Espanyol,Real Sociedad,2,0,0.0
+2014-2015,7,2014-10-05,Real Madrid,Athletic Club,5,0,0.0
+2014-2015,8,2014-10-17,Granada,Rayo Vallecano,0,1,1.0
+2014-2015,8,2014-10-18,Levante,Real Madrid,0,5,1.0
+2014-2015,8,2014-10-18,Athletic Club,Celta Vigo,1,1,0.5
+2014-2015,8,2014-10-18,Barcelona,Eibar,3,0,0.0
+2014-2015,8,2014-10-18,Córdoba,Málaga,1,2,1.0
+2014-2015,8,2014-10-19,Atlético Madrid,Espanyol,2,0,0.0
+2014-2015,8,2014-10-19,La Coruña,Valencia,3,0,0.0
+2014-2015,8,2014-10-19,Elche,Sevilla,0,2,1.0
+2014-2015,8,2014-10-19,Villarreal,Almería,2,0,0.0
+2014-2015,8,2014-10-20,Real Sociedad,Getafe,1,2,1.0
+2014-2015,9,2014-10-24,Celta Vigo,Levante,3,0,0.0
+2014-2015,9,2014-10-25,Almería,Athletic Club,0,1,1.0
+2014-2015,9,2014-10-25,Real Madrid,Barcelona,3,1,0.0
+2014-2015,9,2014-10-25,Valencia,Elche,3,1,0.0
+2014-2015,9,2014-10-25,Eibar,Granada,1,1,0.5
+2014-2015,9,2014-10-25,Córdoba,Real Sociedad,1,1,0.5
+2014-2015,9,2014-10-26,Málaga,Rayo Vallecano,4,0,0.0
+2014-2015,9,2014-10-26,Espanyol,La Coruña,0,0,0.5
+2014-2015,9,2014-10-26,Sevilla,Villarreal,2,1,0.0
+2014-2015,9,2014-10-26,Getafe,Atlético Madrid,0,1,1.0
+2014-2015,10,2014-10-31,La Coruña,Getafe,1,2,1.0
+2014-2015,10,2014-11-01,Granada,Real Madrid,0,4,1.0
+2014-2015,10,2014-11-01,Atlético Madrid,Córdoba,4,2,0.0
+2014-2015,10,2014-11-01,Barcelona,Celta Vigo,0,1,1.0
+2014-2015,10,2014-11-01,Real Sociedad,Málaga,0,1,1.0
+2014-2015,10,2014-11-02,Athletic Club,Sevilla,1,0,0.0
+2014-2015,10,2014-11-02,Villarreal,Valencia,1,3,1.0
+2014-2015,10,2014-11-02,Levante,Almería,2,1,0.0
+2014-2015,10,2014-11-02,Elche,Espanyol,2,1,0.0
+2014-2015,10,2014-11-03,Rayo Vallecano,Eibar,2,3,1.0
+2014-2015,11,2014-11-07,Córdoba,La Coruña,0,0,0.5
+2014-2015,11,2014-11-08,Almería,Barcelona,1,2,1.0
+2014-2015,11,2014-11-08,Getafe,Elche,0,0,0.5
+2014-2015,11,2014-11-08,Real Madrid,Rayo Vallecano,5,1,0.0
+2014-2015,11,2014-11-08,Málaga,Eibar,2,1,0.0
+2014-2015,11,2014-11-08,Celta Vigo,Granada,0,0,0.5
+2014-2015,11,2014-11-09,Sevilla,Levante,1,1,0.5
+2014-2015,11,2014-11-09,Espanyol,Villarreal,1,1,0.5
+2014-2015,11,2014-11-09,Valencia,Athletic Club,0,0,0.5
+2014-2015,11,2014-11-09,Real Sociedad,Atlético Madrid,2,1,0.0
+2014-2015,12,2014-11-21,Athletic Club,Espanyol,3,1,0.0
+2014-2015,12,2014-11-22,Atlético Madrid,Málaga,3,1,0.0
+2014-2015,12,2014-11-22,Eibar,Real Madrid,0,4,1.0
+2014-2015,12,2014-11-22,Barcelona,Sevilla,5,1,0.0
+2014-2015,12,2014-11-22,La Coruña,Real Sociedad,0,0,0.5
+2014-2015,12,2014-11-23,Rayo Vallecano,Celta Vigo,1,0,0.0
+2014-2015,12,2014-11-23,Levante,Valencia,2,1,0.0
+2014-2015,12,2014-11-23,Elche,Córdoba,2,2,0.5
+2014-2015,12,2014-11-23,Villarreal,Getafe,2,1,0.0
+2014-2015,12,2014-11-24,Granada,Almería,0,0,0.5
+2014-2015,13,2014-11-28,Real Sociedad,Elche,3,0,0.0
+2014-2015,13,2014-11-29,Getafe,Athletic Club,1,2,1.0
+2014-2015,13,2014-11-29,Espanyol,Levante,2,1,0.0
+2014-2015,13,2014-11-29,Málaga,Real Madrid,1,2,1.0
+2014-2015,13,2014-11-29,Celta Vigo,Eibar,0,1,1.0
+2014-2015,13,2014-11-30,Atlético Madrid,La Coruña,2,0,0.0
+2014-2015,13,2014-11-30,Sevilla,Granada,5,1,0.0
+2014-2015,13,2014-11-30,Córdoba,Villarreal,0,2,1.0
+2014-2015,13,2014-11-30,Valencia,Barcelona,0,1,1.0
+2014-2015,13,2014-12-01,Almería,Rayo Vallecano,0,1,1.0
+2014-2015,14,2014-12-06,Elche,Atlético Madrid,0,2,1.0
+2014-2015,14,2014-12-06,Athletic Club,Córdoba,0,1,1.0
+2014-2015,14,2014-12-06,Real Madrid,Celta Vigo,3,0,0.0
+2014-2015,14,2014-12-06,La Coruña,Málaga,0,1,1.0
+2014-2015,14,2014-12-07,Rayo Vallecano,Sevilla,0,1,1.0
+2014-2015,14,2014-12-07,Barcelona,Espanyol,5,1,0.0
+2014-2015,14,2014-12-07,Villarreal,Real Sociedad,4,0,0.0
+2014-2015,14,2014-12-07,Granada,Valencia,1,1,0.5
+2014-2015,14,2014-12-08,Eibar,Almería,5,2,0.0
+2014-2015,14,2014-12-08,Levante,Getafe,1,1,0.5
+2014-2015,15,2014-12-12,Almería,Real Madrid,1,4,1.0
+2014-2015,15,2014-12-13,Getafe,Barcelona,0,0,0.5
+2014-2015,15,2014-12-13,Valencia,Rayo Vallecano,3,0,0.0
+2014-2015,15,2014-12-13,Córdoba,Levante,0,0,0.5
+2014-2015,15,2014-12-13,Málaga,Celta Vigo,1,0,0.0
+2014-2015,15,2014-12-14,Espanyol,Granada,2,1,0.0
+2014-2015,15,2014-12-14,Sevilla,Eibar,0,0,0.5
+2014-2015,15,2014-12-14,Atlético Madrid,Villarreal,0,1,1.0
+2014-2015,15,2014-12-14,Real Sociedad,Athletic Club,1,1,0.5
+2014-2015,15,2014-12-15,La Coruña,Elche,1,0,0.0
+2014-2015,16,2014-12-19,Celta Vigo,Almería,0,1,1.0
+2014-2015,16,2014-12-20,Barcelona,Córdoba,5,0,0.0
+2014-2015,16,2014-12-20,Levante,Real Sociedad,1,1,0.5
+2014-2015,16,2014-12-20,Eibar,Valencia,0,1,1.0
+2014-2015,16,2014-12-20,Rayo Vallecano,Espanyol,1,3,1.0
+2014-2015,16,2014-12-21,Villarreal,La Coruña,3,0,0.0
+2014-2015,16,2014-12-21,Granada,Getafe,1,1,0.5
+2014-2015,16,2014-12-21,Elche,Málaga,1,2,1.0
+2014-2015,16,2014-12-21,Athletic Club,Atlético Madrid,1,4,1.0
+2014-2015,17,2015-01-03,Atlético Madrid,Levante,3,1,0.0
+2014-2015,17,2015-01-03,Sevilla,Celta Vigo,1,0,0.0
+2014-2015,17,2015-01-03,Elche,Villarreal,2,2,0.5
+2014-2015,17,2015-01-03,La Coruña,Athletic Club,1,0,0.0
+2014-2015,17,2015-01-03,Málaga,Almería,1,2,1.0
+2014-2015,17,2015-01-04,Getafe,Rayo Vallecano,1,2,1.0
+2014-2015,17,2015-01-04,Valencia,Real Madrid,2,1,0.0
+2014-2015,17,2015-01-04,Espanyol,Eibar,1,2,1.0
+2014-2015,17,2015-01-04,Real Sociedad,Barcelona,1,0,0.0
+2014-2015,17,2015-01-05,Córdoba,Granada,2,0,0.0
+2014-2015,18,2015-01-09,Levante,La Coruña,0,0,0.5
+2014-2015,18,2015-01-10,Real Madrid,Espanyol,3,0,0.0
+2014-2015,18,2015-01-10,Málaga,Villarreal,1,1,0.5
+2014-2015,18,2015-01-10,Celta Vigo,Valencia,1,1,0.5
+2014-2015,18,2015-01-10,Eibar,Getafe,2,1,0.0
+2014-2015,18,2015-01-11,Almería,Sevilla,0,2,1.0
+2014-2015,18,2015-01-11,Athletic Club,Elche,1,2,1.0
+2014-2015,18,2015-01-11,Granada,Real Sociedad,1,1,0.5
+2014-2015,18,2015-01-11,Barcelona,Atlético Madrid,3,1,0.0
+2014-2015,18,2015-01-12,Rayo Vallecano,Córdoba,0,1,1.0
+2014-2015,19,2015-01-16,Córdoba,Eibar,1,1,0.5
+2014-2015,19,2015-01-17,Real Sociedad,Rayo Vallecano,0,1,1.0
+2014-2015,19,2015-01-17,Valencia,Almería,3,2,0.0
+2014-2015,19,2015-01-17,Villarreal,Athletic Club,2,0,0.0
+2014-2015,19,2015-01-17,Espanyol,Celta Vigo,1,0,0.0
+2014-2015,19,2015-01-18,Getafe,Real Madrid,0,3,1.0
+2014-2015,19,2015-01-18,Atlético Madrid,Granada,2,0,0.0
+2014-2015,19,2015-01-18,La Coruña,Barcelona,0,4,1.0
+2014-2015,19,2015-01-18,Sevilla,Málaga,2,0,0.0
+2014-2015,19,2015-01-18,Elche,Levante,1,0,0.0
+2014-2015,20,2015-01-24,Córdoba,Real Madrid,1,2,1.0
+2014-2015,20,2015-01-24,Elche,Barcelona,0,6,1.0
+2014-2015,20,2015-01-24,Atlético Madrid,Rayo Vallecano,3,1,0.0
+2014-2015,20,2015-01-24,Real Sociedad,Eibar,1,0,0.0
+2014-2015,20,2015-01-24,Villarreal,Levante,1,0,0.0
+2014-2015,20,2015-01-25,La Coruña,Granada,2,2,0.5
+2014-2015,20,2015-01-25,Athletic Club,Málaga,1,1,0.5
+2014-2015,20,2015-01-25,Espanyol,Almería,3,0,0.0
+2014-2015,20,2015-01-25,Valencia,Sevilla,3,1,0.0
+2014-2015,20,2015-01-26,Getafe,Celta Vigo,2,1,0.0
+2014-2015,21,2015-01-30,Rayo Vallecano,La Coruña,1,2,1.0
+2014-2015,21,2015-01-31,Real Madrid,Real Sociedad,4,1,0.0
+2014-2015,21,2015-01-31,Eibar,Atlético Madrid,1,3,1.0
+2014-2015,21,2015-01-31,Granada,Elche,1,0,0.0
+2014-2015,21,2015-01-31,Celta Vigo,Córdoba,1,0,0.0
+2014-2015,21,2015-02-01,Levante,Athletic Club,0,2,1.0
+2014-2015,21,2015-02-01,Almería,Getafe,1,0,0.0
+2014-2015,21,2015-02-01,Sevilla,Espanyol,3,2,0.0
+2014-2015,21,2015-02-01,Barcelona,Villarreal,3,2,0.0
+2014-2015,21,2015-02-02,Málaga,Valencia,1,0,0.0
+2014-2015,16,2015-02-04,Real Madrid,Sevilla,2,1,0.0
+2014-2015,22,2015-02-06,La Coruña,Eibar,2,0,0.0
+2014-2015,22,2015-02-07,Atlético Madrid,Real Madrid,4,0,0.0
+2014-2015,22,2015-02-07,Villarreal,Granada,2,0,0.0
+2014-2015,22,2015-02-07,Levante,Málaga,4,1,0.0
+2014-2015,22,2015-02-07,Real Sociedad,Celta Vigo,1,1,0.5
+2014-2015,22,2015-02-08,Córdoba,Almería,1,2,1.0
+2014-2015,22,2015-02-08,Getafe,Sevilla,2,1,0.0
+2014-2015,22,2015-02-08,Espanyol,Valencia,1,2,1.0
+2014-2015,22,2015-02-08,Athletic Club,Barcelona,2,5,1.0
+2014-2015,22,2015-02-09,Elche,Rayo Vallecano,2,0,0.0
+2014-2015,23,2015-02-13,Almería,Real Sociedad,2,2,0.5
+2014-2015,23,2015-02-14,Sevilla,Córdoba,3,0,0.0
+2014-2015,23,2015-02-14,Real Madrid,La Coruña,2,0,0.0
+2014-2015,23,2015-02-14,Granada,Athletic Club,0,0,0.5
+2014-2015,23,2015-02-14,Málaga,Espanyol,0,2,1.0
+2014-2015,23,2015-02-15,Valencia,Getafe,1,0,0.0
+2014-2015,23,2015-02-15,Barcelona,Levante,5,0,0.0
+2014-2015,23,2015-02-15,Rayo Vallecano,Villarreal,2,0,0.0
+2014-2015,23,2015-02-15,Celta Vigo,Atlético Madrid,2,0,0.0
+2014-2015,23,2015-02-16,Eibar,Elche,0,1,1.0
+2014-2015,24,2015-02-20,Getafe,Espanyol,2,1,0.0
+2014-2015,24,2015-02-21,Barcelona,Málaga,0,1,1.0
+2014-2015,24,2015-02-21,Córdoba,Valencia,1,2,1.0
+2014-2015,24,2015-02-21,Atlético Madrid,Almería,3,0,0.0
+2014-2015,24,2015-02-21,La Coruña,Celta Vigo,0,2,1.0
+2014-2015,24,2015-02-22,Real Sociedad,Sevilla,4,3,0.0
+2014-2015,24,2015-02-22,Athletic Club,Rayo Vallecano,1,0,0.0
+2014-2015,24,2015-02-22,Villarreal,Eibar,1,0,0.0
+2014-2015,24,2015-02-22,Elche,Real Madrid,0,2,1.0
+2014-2015,24,2015-02-23,Levante,Granada,2,1,0.0
+2014-2015,25,2015-02-27,Espanyol,Córdoba,1,0,0.0
+2014-2015,25,2015-02-28,Granada,Barcelona,1,3,1.0
+2014-2015,25,2015-02-28,Rayo Vallecano,Levante,4,2,0.0
+2014-2015,25,2015-02-28,Almería,La Coruña,0,0,0.5
+2014-2015,25,2015-02-28,Málaga,Getafe,3,2,0.0
+2014-2015,25,2015-03-01,Valencia,Real Sociedad,2,0,0.0
+2014-2015,25,2015-03-01,Eibar,Athletic Club,0,1,1.0
+2014-2015,25,2015-03-01,Sevilla,Atlético Madrid,0,0,0.5
+2014-2015,25,2015-03-01,Real Madrid,Villarreal,1,1,0.5
+2014-2015,25,2015-03-02,Celta Vigo,Elche,1,1,0.5
+2014-2015,26,2015-03-06,Levante,Eibar,2,1,0.0
+2014-2015,26,2015-03-07,La Coruña,Sevilla,3,4,1.0
+2014-2015,26,2015-03-07,Athletic Club,Real Madrid,1,0,0.0
+2014-2015,26,2015-03-07,Elche,Almería,1,0,0.0
+2014-2015,26,2015-03-07,Granada,Málaga,1,0,0.0
+2014-2015,26,2015-03-08,Barcelona,Rayo Vallecano,6,1,0.0
+2014-2015,26,2015-03-08,Real Sociedad,Espanyol,1,0,0.0
+2014-2015,26,2015-03-08,Villarreal,Celta Vigo,4,1,0.0
+2014-2015,26,2015-03-08,Atlético Madrid,Valencia,1,1,0.5
+2014-2015,26,2015-03-09,Córdoba,Getafe,1,2,1.0
+2014-2015,27,2015-03-13,Valencia,La Coruña,2,0,0.0
+2014-2015,27,2015-03-14,Espanyol,Atlético Madrid,0,0,0.5
+2014-2015,27,2015-03-14,Eibar,Barcelona,0,2,1.0
+2014-2015,27,2015-03-14,Rayo Vallecano,Granada,3,1,0.0
+2014-2015,27,2015-03-14,Celta Vigo,Athletic Club,1,2,1.0
+2014-2015,27,2015-03-15,Almería,Villarreal,0,0,0.5
+2014-2015,27,2015-03-15,Málaga,Córdoba,2,0,0.0
+2014-2015,27,2015-03-15,Sevilla,Elche,3,0,0.0
+2014-2015,27,2015-03-15,Real Madrid,Levante,2,0,0.0
+2014-2015,27,2015-03-16,Getafe,Real Sociedad,0,1,1.0
+2014-2015,28,2015-03-20,Elche,Valencia,0,4,1.0
+2014-2015,28,2015-03-21,Atlético Madrid,Getafe,2,0,0.0
+2014-2015,28,2015-03-21,Rayo Vallecano,Málaga,1,0,0.0
+2014-2015,28,2015-03-21,Levante,Celta Vigo,0,1,1.0
+2014-2015,28,2015-03-21,Athletic Club,Almería,2,1,0.0
+2014-2015,28,2015-03-21,Granada,Eibar,0,0,0.5
+2014-2015,28,2015-03-22,La Coruña,Espanyol,0,0,0.5
+2014-2015,28,2015-03-22,Villarreal,Sevilla,0,2,1.0
+2014-2015,28,2015-03-22,Real Sociedad,Córdoba,3,1,0.0
+2014-2015,28,2015-03-22,Barcelona,Real Madrid,2,1,0.0
+2014-2015,29,2015-04-03,Eibar,Rayo Vallecano,1,2,1.0
+2014-2015,29,2015-04-04,Sevilla,Athletic Club,2,0,0.0
+2014-2015,29,2015-04-04,Córdoba,Atlético Madrid,0,2,1.0
+2014-2015,29,2015-04-04,Almería,Levante,1,4,1.0
+2014-2015,29,2015-04-04,Málaga,Real Sociedad,1,1,0.5
+2014-2015,29,2015-04-05,Real Madrid,Granada,9,1,0.0
+2014-2015,29,2015-04-05,Valencia,Villarreal,0,0,0.5
+2014-2015,29,2015-04-05,Getafe,La Coruña,2,1,0.0
+2014-2015,29,2015-04-05,Celta Vigo,Barcelona,0,1,1.0
+2014-2015,29,2015-04-06,Espanyol,Elche,1,1,0.5
+2014-2015,30,2015-04-07,Atlético Madrid,Real Sociedad,2,0,0.0
+2014-2015,30,2015-04-07,Levante,Sevilla,1,2,1.0
+2014-2015,30,2015-04-07,Eibar,Málaga,1,0,0.0
+2014-2015,30,2015-04-08,La Coruña,Córdoba,1,1,0.5
+2014-2015,30,2015-04-08,Barcelona,Almería,4,0,0.0
+2014-2015,30,2015-04-08,Granada,Celta Vigo,1,1,0.5
+2014-2015,30,2015-04-08,Rayo Vallecano,Real Madrid,0,2,1.0
+2014-2015,30,2015-04-09,Athletic Club,Valencia,1,1,0.5
+2014-2015,30,2015-04-09,Villarreal,Espanyol,0,3,1.0
+2014-2015,30,2015-04-09,Elche,Getafe,0,1,1.0
+2014-2015,31,2015-04-11,Real Madrid,Eibar,3,0,0.0
+2014-2015,31,2015-04-11,Málaga,Atlético Madrid,2,2,0.5
+2014-2015,31,2015-04-11,Sevilla,Barcelona,2,2,0.5
+2014-2015,31,2015-04-11,Almería,Granada,3,0,0.0
+2014-2015,31,2015-04-11,Celta Vigo,Rayo Vallecano,6,1,0.0
+2014-2015,31,2015-04-12,Getafe,Villarreal,1,1,0.5
+2014-2015,31,2015-04-12,Espanyol,Athletic Club,1,0,0.0
+2014-2015,31,2015-04-12,Real Sociedad,La Coruña,2,2,0.5
+2014-2015,31,2015-04-12,Córdoba,Elche,0,2,1.0
+2014-2015,31,2015-04-13,Valencia,Levante,3,0,0.0
+2014-2015,32,2015-04-17,Levante,Espanyol,2,2,0.5
+2014-2015,32,2015-04-18,Barcelona,Valencia,2,0,0.0
+2014-2015,32,2015-04-18,La Coruña,Atlético Madrid,1,2,1.0
+2014-2015,32,2015-04-18,Real Madrid,Málaga,3,1,0.0
+2014-2015,32,2015-04-18,Athletic Club,Getafe,4,0,0.0
+2014-2015,32,2015-04-19,Rayo Vallecano,Almería,2,0,0.0
+2014-2015,32,2015-04-19,Granada,Sevilla,1,1,0.5
+2014-2015,32,2015-04-19,Villarreal,Córdoba,0,0,0.5
+2014-2015,32,2015-04-19,Eibar,Celta Vigo,0,1,1.0
+2014-2015,32,2015-04-20,Elche,Real Sociedad,1,0,0.0
+2014-2015,33,2015-04-24,Córdoba,Athletic Club,0,1,1.0
+2014-2015,33,2015-04-25,Espanyol,Barcelona,0,2,1.0
+2014-2015,33,2015-04-25,Atlético Madrid,Elche,3,0,0.0
+2014-2015,33,2015-04-25,Getafe,Levante,0,1,1.0
+2014-2015,33,2015-04-25,Real Sociedad,Villarreal,0,0,0.5
+2014-2015,33,2015-04-26,Málaga,La Coruña,1,1,0.5
+2014-2015,33,2015-04-26,Almería,Eibar,2,0,0.0
+2014-2015,33,2015-04-26,Sevilla,Rayo Vallecano,2,0,0.0
+2014-2015,33,2015-04-26,Celta Vigo,Real Madrid,2,4,1.0
+2014-2015,33,2015-04-27,Valencia,Granada,4,0,0.0
+2014-2015,34,2015-04-28,Barcelona,Getafe,6,0,0.0
+2014-2015,34,2015-04-28,Levante,Córdoba,1,0,0.0
+2014-2015,34,2015-04-28,Athletic Club,Real Sociedad,1,1,0.5
+2014-2015,34,2015-04-29,Eibar,Sevilla,1,3,1.0
+2014-2015,34,2015-04-29,Celta Vigo,Málaga,1,0,0.0
+2014-2015,34,2015-04-29,Real Madrid,Almería,3,0,0.0
+2014-2015,34,2015-04-29,Villarreal,Atlético Madrid,0,1,1.0
+2014-2015,34,2015-04-29,Elche,La Coruña,4,0,0.0
+2014-2015,34,2015-04-30,Rayo Vallecano,Valencia,1,1,0.5
+2014-2015,34,2015-04-30,Granada,Espanyol,1,2,1.0
+2014-2015,35,2015-05-01,Real Sociedad,Levante,3,0,0.0
+2014-2015,35,2015-05-02,Córdoba,Barcelona,0,8,1.0
+2014-2015,35,2015-05-02,Atlético Madrid,Athletic Club,0,0,0.5
+2014-2015,35,2015-05-02,Sevilla,Real Madrid,2,3,1.0
+2014-2015,35,2015-05-02,La Coruña,Villarreal,1,1,0.5
+2014-2015,35,2015-05-03,Espanyol,Rayo Vallecano,1,1,0.5
+2014-2015,35,2015-05-03,Getafe,Granada,1,2,1.0
+2014-2015,35,2015-05-03,Valencia,Eibar,3,1,0.0
+2014-2015,35,2015-05-03,Málaga,Elche,1,2,1.0
+2014-2015,35,2015-05-04,Almería,Celta Vigo,2,2,0.5
+2014-2015,36,2015-05-08,Eibar,Espanyol,0,2,1.0
+2014-2015,36,2015-05-09,Granada,Córdoba,2,0,0.0
+2014-2015,36,2015-05-09,Barcelona,Real Sociedad,2,0,0.0
+2014-2015,36,2015-05-09,Real Madrid,Valencia,2,2,0.5
+2014-2015,36,2015-05-09,Athletic Club,La Coruña,1,1,0.5
+2014-2015,36,2015-05-10,Levante,Atlético Madrid,2,2,0.5
+2014-2015,36,2015-05-10,Villarreal,Elche,1,0,0.0
+2014-2015,36,2015-05-10,Almería,Málaga,1,2,1.0
+2014-2015,36,2015-05-10,Celta Vigo,Sevilla,1,1,0.5
+2014-2015,36,2015-05-11,Rayo Vallecano,Getafe,2,0,0.0
+2014-2015,37,2015-05-17,Villarreal,Málaga,2,1,0.0
+2014-2015,37,2015-05-17,Valencia,Celta Vigo,1,1,0.5
+2014-2015,37,2015-05-17,Getafe,Eibar,1,1,0.5
+2014-2015,37,2015-05-17,Córdoba,Rayo Vallecano,1,2,1.0
+2014-2015,37,2015-05-17,La Coruña,Levante,2,0,0.0
+2014-2015,37,2015-05-17,Atlético Madrid,Barcelona,0,1,1.0
+2014-2015,37,2015-05-17,Real Sociedad,Granada,0,3,1.0
+2014-2015,37,2015-05-17,Sevilla,Almería,2,1,0.0
+2014-2015,37,2015-05-17,Elche,Athletic Club,2,3,1.0
+2014-2015,37,2015-05-17,Espanyol,Real Madrid,1,4,1.0
+2014-2015,38,2015-05-23,Levante,Elche,0,0,0.5
+2014-2015,38,2015-05-23,Celta Vigo,Espanyol,3,2,0.0
+2014-2015,38,2015-05-23,Barcelona,La Coruña,2,2,0.5
+2014-2015,38,2015-05-23,Eibar,Córdoba,3,0,0.0
+2014-2015,38,2015-05-23,Athletic Club,Villarreal,4,0,0.0
+2014-2015,38,2015-05-23,Rayo Vallecano,Real Sociedad,2,4,1.0
+2014-2015,38,2015-05-23,Almería,Valencia,2,3,1.0
+2014-2015,38,2015-05-23,Granada,Atlético Madrid,0,0,0.5
+2014-2015,38,2015-05-23,Málaga,Sevilla,2,3,1.0
+2014-2015,38,2015-05-23,Real Madrid,Getafe,7,3,0.0

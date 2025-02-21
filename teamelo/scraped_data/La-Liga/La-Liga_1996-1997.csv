@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1996-1997,1,1996-08-31,Dep La Coruña,Real Madrid,1,1,0.5
+1996-1997,1,1996-09-01,Oviedo,Barcelona,2,4,1.0
+1996-1997,1,1996-09-01,Rayo Vallecano,Valladolid,1,2,1.0
+1996-1997,1,1996-09-01,Tenerife,Compostela,6,0,0.0
+1996-1997,1,1996-09-01,Real Sociedad,Sevilla,1,0,0.0
+1996-1997,1,1996-09-01,Zaragoza,Logroñés,2,2,0.5
+1996-1997,1,1996-09-01,Racing Sant,Valencia,3,2,0.0
+1996-1997,1,1996-09-01,Hércules,Extremadura,2,1,0.0
+1996-1997,1,1996-09-01,Real Betis,Athletic Club,3,0,0.0
+1996-1997,1,1996-09-01,Atlético Madrid,Celta Vigo,2,0,0.0
+1996-1997,1,1996-09-02,Espanyol,Sporting Gijón,2,3,1.0
+1996-1997,2,1996-09-07,Valencia,Real Sociedad,0,1,1.0
+1996-1997,2,1996-09-07,Compostela,Atlético Madrid,3,1,0.0
+1996-1997,2,1996-09-07,Logroñés,Tenerife,0,1,1.0
+1996-1997,2,1996-09-07,Barcelona,Espanyol,2,1,0.0
+1996-1997,2,1996-09-08,Real Madrid,Hércules,3,0,0.0
+1996-1997,2,1996-09-08,Celta Vigo,Dep La Coruña,1,1,0.5
+1996-1997,2,1996-09-08,Valladolid,Oviedo,0,1,1.0
+1996-1997,2,1996-09-08,Athletic Club,Rayo Vallecano,3,2,0.0
+1996-1997,2,1996-09-08,Sevilla,Zaragoza,1,2,1.0
+1996-1997,2,1996-09-08,Sporting Gijón,Racing Sant,0,1,1.0
+1996-1997,2,1996-09-09,Extremadura,Real Betis,0,3,1.0
+1996-1997,3,1996-09-14,Zaragoza,Valencia,1,1,0.5
+1996-1997,3,1996-09-15,Real Sociedad,Sporting Gijón,1,1,0.5
+1996-1997,3,1996-09-15,Oviedo,Athletic Club,2,0,0.0
+1996-1997,3,1996-09-15,Hércules,Celta Vigo,0,2,1.0
+1996-1997,3,1996-09-15,Racing Sant,Barcelona,1,1,0.5
+1996-1997,3,1996-09-15,Tenerife,Sevilla,0,2,1.0
+1996-1997,3,1996-09-15,Espanyol,Valladolid,1,0,0.0
+1996-1997,3,1996-09-15,Rayo Vallecano,Extremadura,3,0,0.0
+1996-1997,3,1996-09-15,Compostela,Logroñés,1,2,1.0
+1996-1997,3,1996-09-15,Atlético Madrid,Dep La Coruña,0,2,1.0
+1996-1997,3,1996-09-16,Real Betis,Real Madrid,1,1,0.5
+1996-1997,4,1996-09-21,Logroñés,Atlético Madrid,0,3,1.0
+1996-1997,4,1996-09-21,Valencia,Tenerife,2,1,0.0
+1996-1997,4,1996-09-21,Valladolid,Racing Sant,3,0,0.0
+1996-1997,4,1996-09-21,Athletic Club,Espanyol,2,2,0.5
+1996-1997,4,1996-09-22,Celta Vigo,Real Betis,0,2,1.0
+1996-1997,4,1996-09-22,Extremadura,Oviedo,0,2,1.0
+1996-1997,4,1996-09-22,Dep La Coruña,Hércules,4,0,0.0
+1996-1997,4,1996-09-22,Real Madrid,Rayo Vallecano,1,0,0.0
+1996-1997,4,1996-09-22,Barcelona,Real Sociedad,3,2,0.0
+1996-1997,4,1996-09-22,Sporting Gijón,Zaragoza,2,0,0.0
+1996-1997,4,1996-09-23,Sevilla,Compostela,0,1,1.0
+1996-1997,5,1996-09-28,Real Sociedad,Valladolid,0,0,0.5
+1996-1997,5,1996-09-28,Racing Sant,Athletic Club,1,2,1.0
+1996-1997,5,1996-09-28,Real Betis,Dep La Coruña,1,2,1.0
+1996-1997,5,1996-09-28,Espanyol,Extremadura,5,1,0.0
+1996-1997,5,1996-09-29,Compostela,Valencia,0,3,1.0
+1996-1997,5,1996-09-29,Oviedo,Real Madrid,2,3,1.0
+1996-1997,5,1996-09-29,Rayo Vallecano,Celta Vigo,3,0,0.0
+1996-1997,5,1996-09-29,Logroñés,Sevilla,2,0,0.0
+1996-1997,5,1996-09-29,Zaragoza,Barcelona,3,5,1.0
+1996-1997,5,1996-09-29,Tenerife,Sporting Gijón,6,0,0.0
+1996-1997,5,1996-09-30,Atlético Madrid,Hércules,3,0,0.0
+1996-1997,6,1996-10-01,Real Madrid,Espanyol,2,0,0.0
+1996-1997,6,1996-10-02,Valladolid,Zaragoza,1,1,0.5
+1996-1997,6,1996-10-02,Sporting Gijón,Compostela,1,1,0.5
+1996-1997,6,1996-10-02,Valencia,Logroñés,0,1,1.0
+1996-1997,6,1996-10-02,Hércules,Real Betis,0,1,1.0
+1996-1997,6,1996-10-02,Athletic Club,Real Sociedad,1,3,1.0
+1996-1997,6,1996-10-02,Dep La Coruña,Rayo Vallecano,1,1,0.5
+1996-1997,6,1996-10-02,Barcelona,Tenerife,1,1,0.5
+1996-1997,6,1996-10-02,Extremadura,Racing Sant,1,2,1.0
+1996-1997,6,1996-10-02,Celta Vigo,Oviedo,3,1,0.0
+1996-1997,6,1996-10-03,Sevilla,Atlético Madrid,0,0,0.5
+1996-1997,7,1996-10-12,Sevilla,Valencia,0,2,1.0
+1996-1997,7,1996-10-12,Tenerife,Valladolid,1,3,1.0
+1996-1997,7,1996-10-12,Atlético Madrid,Real Betis,2,2,0.5
+1996-1997,7,1996-10-12,Compostela,Barcelona,1,5,1.0
+1996-1997,7,1996-10-12,Espanyol,Celta Vigo,0,0,0.5
+1996-1997,7,1996-10-12,Zaragoza,Athletic Club,1,1,0.5
+1996-1997,7,1996-10-13,Real Sociedad,Extremadura,3,0,0.0
+1996-1997,7,1996-10-13,Oviedo,Dep La Coruña,0,1,1.0
+1996-1997,7,1996-10-13,Racing Sant,Real Madrid,2,2,0.5
+1996-1997,7,1996-10-13,Rayo Vallecano,Hércules,2,1,0.0
+1996-1997,7,1996-10-13,Logroñés,Sporting Gijón,0,2,1.0
+1996-1997,8,1996-10-19,Hércules,Oviedo,1,1,0.5
+1996-1997,8,1996-10-19,Dep La Coruña,Espanyol,2,0,0.0
+1996-1997,8,1996-10-19,Valladolid,Compostela,3,1,0.0
+1996-1997,8,1996-10-19,Real Madrid,Real Sociedad,6,1,0.0
+1996-1997,8,1996-10-19,Athletic Club,Tenerife,2,0,0.0
+1996-1997,8,1996-10-19,Extremadura,Zaragoza,2,1,0.0
+1996-1997,8,1996-10-20,Valencia,Atlético Madrid,3,1,0.0
+1996-1997,8,1996-10-20,Barcelona,Logroñés,8,0,0.0
+1996-1997,8,1996-10-20,Real Betis,Rayo Vallecano,3,0,0.0
+1996-1997,8,1996-10-20,Celta Vigo,Racing Sant,1,1,0.5
+1996-1997,8,1996-10-21,Sporting Gijón,Sevilla,1,1,0.5
+1996-1997,9,1996-10-22,Zaragoza,Real Madrid,1,2,1.0
+1996-1997,9,1996-10-23,Sevilla,Barcelona,0,1,1.0
+1996-1997,9,1996-10-23,Logroñés,Valladolid,0,1,1.0
+1996-1997,9,1996-10-23,Valencia,Sporting Gijón,2,1,0.0
+1996-1997,9,1996-10-23,Atlético Madrid,Rayo Vallecano,1,3,1.0
+1996-1997,9,1996-10-23,Espanyol,Hércules,2,1,0.0
+1996-1997,9,1996-10-23,Racing Sant,Dep La Coruña,1,1,0.5
+1996-1997,9,1996-10-23,Tenerife,Extremadura,2,1,0.0
+1996-1997,9,1996-10-23,Oviedo,Real Betis,1,1,0.5
+1996-1997,9,1996-10-23,Real Sociedad,Celta Vigo,1,2,1.0
+1996-1997,9,1996-10-23,Compostela,Athletic Club,1,1,0.5
+1996-1997,10,1996-10-26,Sporting Gijón,Atlético Madrid,0,1,1.0
+1996-1997,10,1996-10-26,Real Madrid,Tenerife,0,0,0.5
+1996-1997,10,1996-10-26,Real Betis,Espanyol,1,2,1.0
+1996-1997,10,1996-10-26,Barcelona,Valencia,3,2,0.0
+1996-1997,10,1996-10-27,Athletic Club,Logroñés,6,0,0.0
+1996-1997,10,1996-10-27,Rayo Vallecano,Oviedo,2,2,0.5
+1996-1997,10,1996-10-27,Extremadura,Compostela,1,1,0.5
+1996-1997,10,1996-10-27,Celta Vigo,Zaragoza,0,0,0.5
+1996-1997,10,1996-10-27,Hércules,Racing Sant,0,1,1.0
+1996-1997,10,1996-10-27,Dep La Coruña,Real Sociedad,1,0,0.0
+1996-1997,10,1996-10-28,Valladolid,Sevilla,0,1,1.0
+1996-1997,11,1996-11-02,Racing Sant,Real Betis,1,1,0.5
+1996-1997,11,1996-11-03,Real Sociedad,Hércules,2,1,0.0
+1996-1997,11,1996-11-03,Espanyol,Rayo Vallecano,0,0,0.5
+1996-1997,11,1996-11-03,Zaragoza,Dep La Coruña,1,2,1.0
+1996-1997,11,1996-11-03,Logroñés,Extremadura,0,0,0.5
+1996-1997,11,1996-11-03,Valencia,Valladolid,2,4,1.0
+1996-1997,11,1996-11-03,Sevilla,Athletic Club,4,2,0.0
+1996-1997,11,1996-11-03,Compostela,Real Madrid,1,2,1.0
+1996-1997,11,1996-11-03,Atlético Madrid,Oviedo,3,0,0.0
+1996-1997,11,1996-11-03,Tenerife,Celta Vigo,0,0,0.5
+1996-1997,11,1996-11-04,Sporting Gijón,Barcelona,0,0,0.5
+1996-1997,12,1996-11-09,Barcelona,Atlético Madrid,3,3,0.5
+1996-1997,12,1996-11-10,Rayo Vallecano,Racing Sant,0,0,0.5
+1996-1997,12,1996-11-10,Celta Vigo,Compostela,1,2,1.0
+1996-1997,12,1996-11-10,Athletic Club,Valencia,2,0,0.0
+1996-1997,12,1996-11-10,Real Betis,Real Sociedad,2,1,0.0
+1996-1997,12,1996-11-10,Extremadura,Sevilla,0,1,1.0
+1996-1997,12,1996-11-10,Oviedo,Espanyol,3,1,0.0
+1996-1997,12,1996-11-10,Dep La Coruña,Tenerife,0,0,0.5
+1996-1997,12,1996-11-10,Real Madrid,Logroñés,0,0,0.5
+1996-1997,12,1996-11-10,Hércules,Zaragoza,1,1,0.5
+1996-1997,12,1996-11-11,Valladolid,Sporting Gijón,1,0,0.0
+1996-1997,13,1996-11-16,Atlético Madrid,Espanyol,2,1,0.0
+1996-1997,13,1996-11-16,Tenerife,Hércules,3,1,0.0
+1996-1997,13,1996-11-16,Valencia,Extremadura,0,0,0.5
+1996-1997,13,1996-11-16,Compostela,Dep La Coruña,0,0,0.5
+1996-1997,13,1996-11-17,Sevilla,Real Madrid,1,3,1.0
+1996-1997,13,1996-11-17,Zaragoza,Real Betis,2,2,0.5
+1996-1997,13,1996-11-17,Logroñés,Celta Vigo,0,3,1.0
+1996-1997,13,1996-11-17,Sporting Gijón,Athletic Club,2,4,1.0
+1996-1997,13,1996-11-17,Racing Sant,Oviedo,1,0,0.0
+1996-1997,13,1996-11-17,Real Sociedad,Rayo Vallecano,3,1,0.0
+1996-1997,13,1996-11-18,Barcelona,Valladolid,6,1,0.0
+1996-1997,14,1996-11-23,Extremadura,Sporting Gijón,1,2,1.0
+1996-1997,14,1996-11-23,Athletic Club,Barcelona,2,1,0.0
+1996-1997,14,1996-11-24,Hércules,Compostela,1,0,0.0
+1996-1997,14,1996-11-24,Dep La Coruña,Logroñés,4,1,0.0
+1996-1997,14,1996-11-24,Oviedo,Real Sociedad,0,0,0.5
+1996-1997,14,1996-11-24,Celta Vigo,Sevilla,4,2,0.0
+1996-1997,14,1996-11-24,Real Madrid,Valencia,4,2,0.0
+1996-1997,14,1996-11-24,Espanyol,Racing Sant,0,0,0.5
+1996-1997,14,1996-11-24,Rayo Vallecano,Zaragoza,1,1,0.5
+1996-1997,14,1996-11-24,Real Betis,Tenerife,3,1,0.0
+1996-1997,14,1996-11-25,Valladolid,Atlético Madrid,0,3,1.0
+1996-1997,15,1996-11-30,Sporting Gijón,Real Madrid,0,1,1.0
+1996-1997,15,1996-11-30,Atlético Madrid,Racing Sant,1,0,0.0
+1996-1997,15,1996-11-30,Valencia,Celta Vigo,2,0,0.0
+1996-1997,15,1996-11-30,Tenerife,Rayo Vallecano,1,2,1.0
+1996-1997,15,1996-12-01,Compostela,Real Betis,0,2,1.0
+1996-1997,15,1996-12-01,Valladolid,Athletic Club,0,0,0.5
+1996-1997,15,1996-12-01,Logroñés,Hércules,3,2,0.0
+1996-1997,15,1996-12-01,Sevilla,Dep La Coruña,0,1,1.0
+1996-1997,15,1996-12-01,Real Sociedad,Espanyol,1,0,0.0
+1996-1997,15,1996-12-01,Zaragoza,Oviedo,1,0,0.0
+1996-1997,15,1996-12-02,Barcelona,Extremadura,3,0,0.0
+1996-1997,16,1996-12-07,Real Madrid,Barcelona,2,0,0.0
+1996-1997,16,1996-12-08,Rayo Vallecano,Compostela,0,1,1.0
+1996-1997,16,1996-12-08,Celta Vigo,Sporting Gijón,2,1,0.0
+1996-1997,16,1996-12-08,Racing Sant,Real Sociedad,1,2,1.0
+1996-1997,16,1996-12-08,Extremadura,Valladolid,1,1,0.5
+1996-1997,16,1996-12-08,Athletic Club,Atlético Madrid,1,1,0.5
+1996-1997,16,1996-12-08,Espanyol,Zaragoza,3,0,0.0
+1996-1997,16,1996-12-08,Real Betis,Logroñés,5,1,0.0
+1996-1997,16,1996-12-08,Oviedo,Tenerife,1,3,1.0
+1996-1997,16,1996-12-08,Dep La Coruña,Valencia,1,0,0.0
+1996-1997,16,1996-12-09,Hércules,Sevilla,3,0,0.0
+1996-1997,17,1996-12-21,Valladolid,Real Madrid,1,1,0.5
+1996-1997,17,1996-12-22,Sevilla,Real Betis,0,3,1.0
+1996-1997,17,1996-12-22,Tenerife,Espanyol,5,1,0.0
+1996-1997,17,1996-12-22,Athletic Club,Extremadura,0,0,0.5
+1996-1997,17,1996-12-22,Compostela,Oviedo,0,2,1.0
+1996-1997,17,1996-12-22,Sporting Gijón,Dep La Coruña,1,1,0.5
+1996-1997,17,1996-12-22,Atlético Madrid,Real Sociedad,2,2,0.5
+1996-1997,17,1996-12-22,Logroñés,Rayo Vallecano,0,2,1.0
+1996-1997,17,1996-12-22,Barcelona,Celta Vigo,1,0,0.0
+1996-1997,17,1996-12-22,Zaragoza,Racing Sant,0,2,1.0
+1996-1997,17,1996-12-23,Valencia,Hércules,3,0,0.0
+1996-1997,18,1997-01-04,Celta Vigo,Valladolid,0,2,1.0
+1996-1997,18,1997-01-04,Dep La Coruña,Barcelona,0,1,1.0
+1996-1997,18,1997-01-05,Real Madrid,Athletic Club,1,0,0.0
+1996-1997,18,1997-01-05,Oviedo,Logroñés,2,1,0.0
+1996-1997,18,1997-01-05,Real Sociedad,Zaragoza,1,0,0.0
+1996-1997,18,1997-01-05,Extremadura,Atlético Madrid,2,4,1.0
+1996-1997,18,1997-01-05,Hércules,Sporting Gijón,1,1,0.5
+1996-1997,18,1997-01-05,Racing Sant,Tenerife,1,2,1.0
+1996-1997,18,1997-01-05,Espanyol,Compostela,0,2,1.0
+1996-1997,18,1997-01-06,Real Betis,Valencia,1,1,0.5
+1996-1997,19,1997-01-11,Tenerife,Real Sociedad,0,1,1.0
+1996-1997,19,1997-01-12,Valladolid,Dep La Coruña,1,1,0.5
+1996-1997,19,1997-01-12,Sevilla,Oviedo,2,1,0.0
+1996-1997,19,1997-01-12,Valencia,Rayo Vallecano,1,0,0.0
+1996-1997,19,1997-01-12,Athletic Club,Celta Vigo,2,2,0.5
+1996-1997,19,1997-01-12,Logroñés,Espanyol,1,0,0.0
+1996-1997,19,1997-01-12,Compostela,Racing Sant,1,1,0.5
+1996-1997,19,1997-01-12,Atlético Madrid,Zaragoza,5,1,0.0
+1996-1997,19,1997-01-12,Extremadura,Real Madrid,0,0,0.5
+1996-1997,19,1997-01-13,Barcelona,Hércules,2,3,1.0
+1996-1997,20,1997-01-18,Atlético Madrid,Real Madrid,1,4,1.0
+1996-1997,20,1997-01-19,Oviedo,Valencia,3,0,0.0
+1996-1997,20,1997-01-19,Real Sociedad,Compostela,4,1,0.0
+1996-1997,20,1997-01-19,Real Betis,Barcelona,2,4,1.0
+1996-1997,20,1997-01-19,Rayo Vallecano,Sporting Gijón,0,1,1.0
+1996-1997,20,1997-01-19,Dep La Coruña,Athletic Club,2,2,0.5
+1996-1997,20,1997-01-19,Zaragoza,Tenerife,1,1,0.5
+1996-1997,20,1997-01-19,Celta Vigo,Extremadura,0,1,1.0
+1996-1997,20,1997-01-19,Hércules,Valladolid,1,0,0.0
+1996-1997,20,1997-01-19,Racing Sant,Logroñés,2,1,0.0
+1996-1997,20,1997-01-20,Espanyol,Sevilla,1,0,0.0
+1996-1997,21,1997-01-25,Extremadura,Dep La Coruña,1,0,0.0
+1996-1997,21,1997-01-25,Valencia,Espanyol,1,1,0.5
+1996-1997,21,1997-01-26,Real Madrid,Celta Vigo,4,0,0.0
+1996-1997,21,1997-01-26,Sevilla,Racing Sant,0,0,0.5
+1996-1997,21,1997-01-26,Athletic Club,Hércules,5,0,0.0
+1996-1997,21,1997-01-26,Barcelona,Rayo Vallecano,6,0,0.0
+1996-1997,21,1997-01-26,Sporting Gijón,Oviedo,0,0,0.5
+1996-1997,21,1997-01-26,Logroñés,Real Sociedad,1,0,0.0
+1996-1997,21,1997-01-26,Compostela,Zaragoza,2,1,0.0
+1996-1997,21,1997-01-27,Valladolid,Real Betis,1,3,1.0
+1996-1997,22,1997-02-01,Celta Vigo,Atlético Madrid,1,1,0.5
+1996-1997,22,1997-02-02,Real Madrid,Dep La Coruña,3,2,0.0
+1996-1997,22,1997-02-02,Sevilla,Real Sociedad,2,3,1.0
+1996-1997,22,1997-02-02,Valladolid,Rayo Vallecano,4,0,0.0
+1996-1997,22,1997-02-02,Logroñés,Zaragoza,1,2,1.0
+1996-1997,22,1997-02-02,Compostela,Tenerife,1,1,0.5
+1996-1997,22,1997-02-02,Valencia,Racing Sant,1,1,0.5
+1996-1997,22,1997-02-02,Barcelona,Oviedo,2,2,0.5
+1996-1997,22,1997-02-02,Sporting Gijón,Espanyol,4,3,0.0
+1996-1997,22,1997-02-02,Athletic Club,Real Betis,0,3,1.0
+1996-1997,22,1997-02-03,Extremadura,Hércules,0,0,0.5
+1996-1997,23,1997-02-08,Real Sociedad,Valencia,0,1,1.0
+1996-1997,23,1997-02-09,Hércules,Real Madrid,2,3,1.0
+1996-1997,23,1997-02-09,Tenerife,Logroñés,2,0,0.0
+1996-1997,23,1997-02-09,Real Betis,Extremadura,3,1,0.0
+1996-1997,23,1997-02-09,Espanyol,Barcelona,2,0,0.0
+1996-1997,23,1997-02-09,Oviedo,Valladolid,1,1,0.5
+1996-1997,23,1997-02-09,Dep La Coruña,Celta Vigo,2,2,0.5
+1996-1997,23,1997-02-09,Zaragoza,Sevilla,2,1,0.0
+1996-1997,23,1997-02-09,Racing Sant,Sporting Gijón,2,0,0.0
+1996-1997,23,1997-02-09,Atlético Madrid,Compostela,4,1,0.0
+1996-1997,23,1997-02-09,Rayo Vallecano,Athletic Club,1,1,0.5
+1996-1997,24,1997-02-15,Sevilla,Tenerife,2,1,0.0
+1996-1997,24,1997-02-15,Real Madrid,Real Betis,2,2,0.5
+1996-1997,24,1997-02-15,Valencia,Zaragoza,1,1,0.5
+1996-1997,24,1997-02-16,Dep La Coruña,Atlético Madrid,0,0,0.5
+1996-1997,24,1997-02-16,Valladolid,Espanyol,2,1,0.0
+1996-1997,24,1997-02-16,Celta Vigo,Hércules,3,0,0.0
+1996-1997,24,1997-02-16,Extremadura,Rayo Vallecano,1,0,0.0
+1996-1997,24,1997-02-16,Barcelona,Racing Sant,1,0,0.0
+1996-1997,24,1997-02-16,Athletic Club,Oviedo,3,2,0.0
+1996-1997,24,1997-02-16,Logroñés,Compostela,1,1,0.5
+1996-1997,24,1997-02-16,Sporting Gijón,Real Sociedad,0,0,0.5
+1996-1997,25,1997-02-18,Compostela,Sevilla,2,0,0.0
+1996-1997,25,1997-02-19,Atlético Madrid,Logroñés,2,0,0.0
+1996-1997,25,1997-02-19,Tenerife,Valencia,2,1,0.0
+1996-1997,25,1997-02-19,Oviedo,Extremadura,0,0,0.5
+1996-1997,25,1997-02-19,Espanyol,Athletic Club,0,2,1.0
+1996-1997,25,1997-02-19,Racing Sant,Valladolid,2,0,0.0
+1996-1997,25,1997-02-19,Rayo Vallecano,Real Madrid,1,0,0.0
+1996-1997,25,1997-02-19,Hércules,Dep La Coruña,1,3,1.0
+1996-1997,25,1997-02-19,Real Betis,Celta Vigo,1,1,0.5
+1996-1997,25,1997-02-19,Zaragoza,Sporting Gijón,5,0,0.0
+1996-1997,25,1997-02-20,Real Sociedad,Barcelona,2,0,0.0
+1996-1997,26,1997-02-22,Hércules,Atlético Madrid,0,2,1.0
+1996-1997,26,1997-02-23,Celta Vigo,Rayo Vallecano,2,0,0.0
+1996-1997,26,1997-02-23,Athletic Club,Racing Sant,2,2,0.5
+1996-1997,26,1997-02-23,Sevilla,Logroñés,1,4,1.0
+1996-1997,26,1997-02-23,Sporting Gijón,Tenerife,2,1,0.0
+1996-1997,26,1997-02-23,Valladolid,Real Sociedad,3,0,0.0
+1996-1997,26,1997-02-23,Barcelona,Zaragoza,4,1,0.0
+1996-1997,26,1997-02-23,Extremadura,Espanyol,3,0,0.0
+1996-1997,26,1997-02-23,Dep La Coruña,Real Betis,3,0,0.0
+1996-1997,26,1997-02-23,Real Madrid,Oviedo,6,1,0.0
+1996-1997,26,1997-02-24,Valencia,Compostela,2,1,0.0
+1996-1997,27,1997-03-01,Logroñés,Valencia,2,1,0.0
+1996-1997,27,1997-03-01,Tenerife,Barcelona,4,0,0.0
+1996-1997,27,1997-03-01,Rayo Vallecano,Dep La Coruña,1,2,1.0
+1996-1997,27,1997-03-01,Atlético Madrid,Sevilla,3,2,0.0
+1996-1997,27,1997-03-02,Real Betis,Hércules,2,1,0.0
+1996-1997,27,1997-03-02,Real Sociedad,Athletic Club,0,0,0.5
+1996-1997,27,1997-03-02,Oviedo,Celta Vigo,2,1,0.0
+1996-1997,27,1997-03-02,Racing Sant,Extremadura,2,3,1.0
+1996-1997,27,1997-03-02,Compostela,Sporting Gijón,2,1,0.0
+1996-1997,27,1997-03-02,Zaragoza,Valladolid,1,0,0.0
+1996-1997,27,1997-03-03,Espanyol,Real Madrid,0,2,1.0
+1996-1997,18,1997-03-05,Rayo Vallecano,Sevilla,2,0,0.0
+1996-1997,19,1997-03-06,Sporting Gijón,Real Betis,2,4,1.0
+1996-1997,28,1997-03-08,Valencia,Sevilla,4,2,0.0
+1996-1997,28,1997-03-09,Athletic Club,Zaragoza,2,2,0.5
+1996-1997,28,1997-03-09,Sporting Gijón,Logroñés,2,0,0.0
+1996-1997,28,1997-03-09,Dep La Coruña,Oviedo,3,0,0.0
+1996-1997,28,1997-03-09,Extremadura,Real Sociedad,1,0,0.0
+1996-1997,28,1997-03-09,Celta Vigo,Espanyol,2,2,0.5
+1996-1997,28,1997-03-09,Barcelona,Compostela,3,0,0.0
+1996-1997,28,1997-03-09,Real Betis,Atlético Madrid,3,2,0.0
+1996-1997,28,1997-03-09,Hércules,Rayo Vallecano,1,0,0.0
+1996-1997,28,1997-03-09,Valladolid,Tenerife,0,2,1.0
+1996-1997,28,1997-03-10,Real Madrid,Racing Sant,2,1,0.0
+1996-1997,29,1997-03-14,Tenerife,Athletic Club,3,3,0.5
+1996-1997,29,1997-03-15,Atlético Madrid,Valencia,1,4,1.0
+1996-1997,29,1997-03-15,Espanyol,Dep La Coruña,0,1,1.0
+1996-1997,29,1997-03-16,Oviedo,Hércules,2,0,0.0
+1996-1997,29,1997-03-16,Rayo Vallecano,Real Betis,0,4,1.0
+1996-1997,29,1997-03-16,Sevilla,Sporting Gijón,2,1,0.0
+1996-1997,29,1997-03-16,Racing Sant,Celta Vigo,1,0,0.0
+1996-1997,29,1997-03-16,Zaragoza,Extremadura,3,1,0.0
+1996-1997,29,1997-03-16,Compostela,Valladolid,1,1,0.5
+1996-1997,29,1997-03-16,Logroñés,Barcelona,0,1,1.0
+1996-1997,29,1997-03-17,Real Sociedad,Real Madrid,1,2,1.0
+1996-1997,30,1997-03-22,Celta Vigo,Real Sociedad,1,1,0.5
+1996-1997,30,1997-03-22,Real Betis,Oviedo,4,0,0.0
+1996-1997,30,1997-03-23,Rayo Vallecano,Atlético Madrid,1,2,1.0
+1996-1997,30,1997-03-23,Hércules,Espanyol,1,2,1.0
+1996-1997,30,1997-03-23,Valladolid,Logroñés,2,1,0.0
+1996-1997,30,1997-03-23,Real Madrid,Zaragoza,2,0,0.0
+1996-1997,30,1997-03-23,Dep La Coruña,Racing Sant,2,1,0.0
+1996-1997,30,1997-03-23,Athletic Club,Compostela,2,2,0.5
+1996-1997,30,1997-03-23,Barcelona,Sevilla,4,0,0.0
+1996-1997,30,1997-03-23,Extremadura,Tenerife,2,0,0.0
+1996-1997,30,1997-03-24,Sporting Gijón,Valencia,2,1,0.0
+1996-1997,31,1997-03-29,Real Sociedad,Dep La Coruña,1,1,0.5
+1996-1997,31,1997-03-30,Tenerife,Real Madrid,1,1,0.5
+1996-1997,31,1997-03-30,Sevilla,Valladolid,2,2,0.5
+1996-1997,31,1997-03-30,Espanyol,Real Betis,0,0,0.5
+1996-1997,31,1997-03-30,Racing Sant,Hércules,1,2,1.0
+1996-1997,31,1997-03-30,Compostela,Extremadura,4,0,0.0
+1996-1997,31,1997-03-30,Valencia,Barcelona,1,1,0.5
+1996-1997,31,1997-03-30,Logroñés,Athletic Club,1,4,1.0
+1996-1997,31,1997-03-30,Oviedo,Rayo Vallecano,0,2,1.0
+1996-1997,31,1997-03-30,Zaragoza,Celta Vigo,1,1,0.5
+1996-1997,31,1997-03-31,Atlético Madrid,Sporting Gijón,2,1,0.0
+1996-1997,32,1997-04-05,Oviedo,Atlético Madrid,4,1,0.0
+1996-1997,32,1997-04-05,Celta Vigo,Tenerife,3,1,0.0
+1996-1997,32,1997-04-06,Athletic Club,Sevilla,0,0,0.5
+1996-1997,32,1997-04-06,Barcelona,Sporting Gijón,4,0,0.0
+1996-1997,32,1997-04-06,Dep La Coruña,Zaragoza,1,0,0.0
+1996-1997,32,1997-04-06,Hércules,Real Sociedad,2,1,0.0
+1996-1997,32,1997-04-06,Extremadura,Logroñés,3,0,0.0
+1996-1997,32,1997-04-06,Valladolid,Valencia,4,1,0.0
+1996-1997,32,1997-04-06,Rayo Vallecano,Espanyol,0,1,1.0
+1996-1997,32,1997-04-06,Real Betis,Racing Sant,2,2,0.5
+1996-1997,32,1997-04-07,Real Madrid,Compostela,0,0,0.5
+1996-1997,33,1997-04-12,Sevilla,Extremadura,0,0,0.5
+1996-1997,33,1997-04-12,Valencia,Athletic Club,5,2,0.0
+1996-1997,33,1997-04-12,Tenerife,Dep La Coruña,2,1,0.0
+1996-1997,33,1997-04-13,Logroñés,Real Madrid,0,2,1.0
+1996-1997,33,1997-04-13,Racing Sant,Rayo Vallecano,1,2,1.0
+1996-1997,33,1997-04-13,Real Sociedad,Real Betis,0,1,1.0
+1996-1997,33,1997-04-13,Atlético Madrid,Barcelona,2,5,1.0
+1996-1997,33,1997-04-13,Sporting Gijón,Valladolid,1,2,1.0
+1996-1997,33,1997-04-13,Compostela,Celta Vigo,2,1,0.0
+1996-1997,33,1997-04-13,Zaragoza,Hércules,2,0,0.0
+1996-1997,33,1997-04-14,Espanyol,Oviedo,2,0,0.0
+1996-1997,34,1997-04-15,Extremadura,Valencia,1,0,0.0
+1996-1997,34,1997-04-16,Real Madrid,Sevilla,4,2,0.0
+1996-1997,34,1997-04-16,Dep La Coruña,Compostela,1,0,0.0
+1996-1997,34,1997-04-16,Celta Vigo,Logroñés,4,0,0.0
+1996-1997,34,1997-04-16,Hércules,Tenerife,3,1,0.0
+1996-1997,34,1997-04-16,Rayo Vallecano,Real Sociedad,1,0,0.0
+1996-1997,34,1997-04-16,Athletic Club,Sporting Gijón,4,0,0.0
+1996-1997,34,1997-04-16,Valladolid,Barcelona,3,1,0.0
+1996-1997,34,1997-04-16,Real Betis,Zaragoza,2,2,0.5
+1996-1997,34,1997-04-17,Oviedo,Racing Sant,1,5,1.0
+1996-1997,34,1997-04-17,Espanyol,Atlético Madrid,0,0,0.5
+1996-1997,35,1997-04-19,Tenerife,Real Betis,0,1,1.0
+1996-1997,35,1997-04-20,Sevilla,Celta Vigo,2,0,0.0
+1996-1997,35,1997-04-20,Racing Sant,Espanyol,1,1,0.5
+1996-1997,35,1997-04-20,Zaragoza,Rayo Vallecano,3,2,0.0
+1996-1997,35,1997-04-20,Real Sociedad,Oviedo,1,0,0.0
+1996-1997,35,1997-04-20,Atlético Madrid,Valladolid,3,1,0.0
+1996-1997,35,1997-04-20,Barcelona,Athletic Club,2,0,0.0
+1996-1997,35,1997-04-20,Compostela,Hércules,2,2,0.5
+1996-1997,35,1997-04-20,Sporting Gijón,Extremadura,1,1,0.5
+1996-1997,35,1997-04-20,Logroñés,Dep La Coruña,1,2,1.0
+1996-1997,35,1997-04-21,Valencia,Real Madrid,1,1,0.5
+1996-1997,36,1997-05-03,Dep La Coruña,Sevilla,3,0,0.0
+1996-1997,36,1997-05-04,Rayo Vallecano,Tenerife,1,2,1.0
+1996-1997,36,1997-05-04,Real Betis,Compostela,0,0,0.5
+1996-1997,36,1997-05-04,Athletic Club,Valladolid,0,0,0.5
+1996-1997,36,1997-05-04,Racing Sant,Atlético Madrid,1,1,0.5
+1996-1997,36,1997-05-04,Hércules,Logroñés,1,0,0.0
+1996-1997,36,1997-05-04,Oviedo,Zaragoza,1,0,0.0
+1996-1997,36,1997-05-04,Espanyol,Real Sociedad,3,0,0.0
+1996-1997,36,1997-05-04,Celta Vigo,Valencia,1,1,0.5
+1996-1997,36,1997-05-04,Real Madrid,Sporting Gijón,3,1,0.0
+1996-1997,36,1997-05-05,Extremadura,Barcelona,1,3,1.0
+1996-1997,37,1997-05-10,Barcelona,Real Madrid,1,0,0.0
+1996-1997,37,1997-05-10,Valladolid,Extremadura,4,0,0.0
+1996-1997,37,1997-05-11,Sevilla,Hércules,5,0,0.0
+1996-1997,37,1997-05-11,Atlético Madrid,Athletic Club,2,1,0.0
+1996-1997,37,1997-05-11,Tenerife,Oviedo,2,2,0.5
+1996-1997,37,1997-05-11,Zaragoza,Espanyol,1,0,0.0
+1996-1997,37,1997-05-11,Compostela,Rayo Vallecano,2,1,0.0
+1996-1997,37,1997-05-11,Sporting Gijón,Celta Vigo,2,1,0.0
+1996-1997,37,1997-05-11,Real Sociedad,Racing Sant,2,0,0.0
+1996-1997,37,1997-05-11,Logroñés,Real Betis,2,1,0.0
+1996-1997,37,1997-05-12,Valencia,Dep La Coruña,1,1,0.5
+1996-1997,21,1997-05-15,Tenerife,Atlético Madrid,2,3,1.0
+1996-1997,38,1997-05-17,Real Betis,Sevilla,3,3,0.5
+1996-1997,38,1997-05-18,Real Sociedad,Atlético Madrid,1,1,0.5
+1996-1997,38,1997-05-18,Extremadura,Athletic Club,1,2,1.0
+1996-1997,38,1997-05-18,Hércules,Valencia,0,2,1.0
+1996-1997,38,1997-05-18,Real Madrid,Valladolid,1,0,0.0
+1996-1997,38,1997-05-18,Racing Sant,Zaragoza,1,2,1.0
+1996-1997,38,1997-05-18,Dep La Coruña,Sporting Gijón,0,0,0.5
+1996-1997,38,1997-05-18,Oviedo,Compostela,2,2,0.5
+1996-1997,38,1997-05-18,Rayo Vallecano,Logroñés,1,0,0.0
+1996-1997,38,1997-05-18,Espanyol,Tenerife,1,0,0.0
+1996-1997,38,1997-05-19,Celta Vigo,Barcelona,1,3,1.0
+1996-1997,39,1997-05-24,Barcelona,Dep La Coruña,1,0,0.0
+1996-1997,39,1997-05-25,Tenerife,Racing Sant,2,2,0.5
+1996-1997,39,1997-05-25,Valladolid,Celta Vigo,0,1,1.0
+1996-1997,39,1997-05-25,Compostela,Espanyol,3,1,0.0
+1996-1997,39,1997-05-25,Athletic Club,Real Madrid,1,0,0.0
+1996-1997,39,1997-05-25,Atlético Madrid,Extremadura,1,1,0.5
+1996-1997,39,1997-05-25,Sevilla,Rayo Vallecano,2,0,0.0
+1996-1997,39,1997-05-25,Sporting Gijón,Hércules,2,0,0.0
+1996-1997,39,1997-05-25,Zaragoza,Real Sociedad,3,0,0.0
+1996-1997,39,1997-05-25,Logroñés,Oviedo,1,1,0.5
+1996-1997,39,1997-05-26,Valencia,Real Betis,1,1,0.5
+1996-1997,40,1997-05-31,Real Betis,Sporting Gijón,0,1,1.0
+1996-1997,40,1997-05-31,Rayo Vallecano,Valencia,3,1,0.0
+1996-1997,40,1997-06-01,Celta Vigo,Athletic Club,0,2,1.0
+1996-1997,40,1997-06-01,Hércules,Barcelona,2,1,0.0
+1996-1997,40,1997-06-01,Real Madrid,Extremadura,5,0,0.0
+1996-1997,40,1997-06-01,Oviedo,Sevilla,1,0,0.0
+1996-1997,40,1997-06-01,Racing Sant,Compostela,2,2,0.5
+1996-1997,40,1997-06-01,Dep La Coruña,Valladolid,0,2,1.0
+1996-1997,40,1997-06-01,Espanyol,Logroñés,5,1,0.0
+1996-1997,40,1997-06-02,Real Sociedad,Tenerife,3,0,0.0
+1996-1997,40,1997-06-02,Zaragoza,Atlético Madrid,2,3,1.0
+1996-1997,41,1997-06-14,Real Madrid,Atlético Madrid,3,1,0.0
+1996-1997,41,1997-06-15,Barcelona,Real Betis,3,0,0.0
+1996-1997,41,1997-06-15,Sevilla,Espanyol,3,1,0.0
+1996-1997,41,1997-06-15,Logroñés,Racing Sant,1,1,0.5
+1996-1997,41,1997-06-15,Extremadura,Celta Vigo,2,0,0.0
+1996-1997,41,1997-06-15,Valencia,Oviedo,2,1,0.0
+1996-1997,41,1997-06-15,Sporting Gijón,Rayo Vallecano,3,0,0.0
+1996-1997,41,1997-06-15,Compostela,Real Sociedad,1,2,1.0
+1996-1997,41,1997-06-15,Tenerife,Zaragoza,3,3,0.5
+1996-1997,41,1997-06-15,Valladolid,Hércules,1,0,0.0
+1996-1997,41,1997-06-16,Athletic Club,Dep La Coruña,1,0,0.0
+1996-1997,42,1997-06-21,Espanyol,Valencia,3,2,0.0
+1996-1997,42,1997-06-21,Real Betis,Valladolid,2,0,0.0
+1996-1997,42,1997-06-22,Oviedo,Sporting Gijón,0,0,0.5
+1996-1997,42,1997-06-22,Zaragoza,Compostela,1,3,1.0
+1996-1997,42,1997-06-22,Racing Sant,Sevilla,1,4,1.0
+1996-1997,42,1997-06-22,Dep La Coruña,Extremadura,1,0,0.0
+1996-1997,42,1997-06-22,Rayo Vallecano,Barcelona,1,2,1.0
+1996-1997,42,1997-06-22,Hércules,Athletic Club,3,2,0.0
+1996-1997,42,1997-06-22,Celta Vigo,Real Madrid,4,0,0.0
+1996-1997,42,1997-06-22,Real Sociedad,Logroñés,2,1,0.0
+1996-1997,42,1997-06-23,Atlético Madrid,Tenerife,0,3,1.0

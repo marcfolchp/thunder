@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1990-1991,1,1990-09-01,Espanyol,Barcelona,0,1,1.0
+1990-1991,1,1990-09-02,Oviedo,Sevilla,0,0,0.5
+1990-1991,1,1990-09-02,Valencia,Atlético Madrid,1,1,0.5
+1990-1991,1,1990-09-02,Logroñés,Mallorca,1,2,1.0
+1990-1991,1,1990-09-02,Valladolid,Osasuna,1,1,0.5
+1990-1991,1,1990-09-02,Real Burgos,Cádiz,1,0,0.0
+1990-1991,1,1990-09-02,Real Sociedad,Zaragoza,1,0,0.0
+1990-1991,1,1990-09-02,Real Betis,Sporting Gijón,2,2,0.5
+1990-1991,1,1990-09-02,Tenerife,Athletic Club,1,0,0.0
+1990-1991,1,1990-09-02,Real Madrid,Castellón,1,0,0.0
+1990-1991,2,1990-09-08,Sevilla,Real Madrid,2,0,0.0
+1990-1991,2,1990-09-09,Atlético Madrid,Real Betis,2,1,0.0
+1990-1991,2,1990-09-09,Barcelona,Valencia,3,1,0.0
+1990-1991,2,1990-09-09,Zaragoza,Logroñés,0,1,1.0
+1990-1991,2,1990-09-09,Osasuna,Tenerife,3,1,0.0
+1990-1991,2,1990-09-09,Cádiz,Real Sociedad,1,1,0.5
+1990-1991,2,1990-09-09,Castellón,Espanyol,1,1,0.5
+1990-1991,2,1990-09-09,Mallorca,Oviedo,1,1,0.5
+1990-1991,2,1990-09-09,Sporting Gijón,Valladolid,4,0,0.0
+1990-1991,2,1990-09-09,Athletic Club,Real Burgos,2,1,0.0
+1990-1991,3,1990-09-15,Valencia,Castellón,1,0,0.0
+1990-1991,3,1990-09-15,Valladolid,Atlético Madrid,0,0,0.5
+1990-1991,3,1990-09-15,Real Betis,Barcelona,2,3,1.0
+1990-1991,3,1990-09-15,Real Madrid,Mallorca,3,0,0.0
+1990-1991,3,1990-09-16,Oviedo,Zaragoza,2,1,0.0
+1990-1991,3,1990-09-16,Real Burgos,Real Sociedad,2,0,0.0
+1990-1991,3,1990-09-16,Espanyol,Sevilla,4,0,0.0
+1990-1991,3,1990-09-16,Logroñés,Cádiz,1,1,0.5
+1990-1991,3,1990-09-16,Athletic Club,Osasuna,2,0,0.0
+1990-1991,3,1990-09-16,Tenerife,Sporting Gijón,0,0,0.5
+1990-1991,4,1990-09-22,Zaragoza,Real Madrid,1,3,1.0
+1990-1991,4,1990-09-23,Osasuna,Real Burgos,1,0,0.0
+1990-1991,4,1990-09-23,Sevilla,Valencia,2,1,0.0
+1990-1991,4,1990-09-23,Atlético Madrid,Tenerife,1,1,0.5
+1990-1991,4,1990-09-23,Mallorca,Espanyol,4,0,0.0
+1990-1991,4,1990-09-23,Castellón,Real Betis,3,1,0.0
+1990-1991,4,1990-09-23,Barcelona,Valladolid,1,0,0.0
+1990-1991,4,1990-09-23,Real Sociedad,Logroñés,2,0,0.0
+1990-1991,4,1990-09-23,Cádiz,Oviedo,2,1,0.0
+1990-1991,4,1990-09-23,Sporting Gijón,Athletic Club,3,1,0.0
+1990-1991,5,1990-09-29,Valencia,Mallorca,1,0,0.0
+1990-1991,5,1990-09-29,Oviedo,Real Sociedad,2,1,0.0
+1990-1991,5,1990-09-29,Athletic Club,Atlético Madrid,2,1,0.0
+1990-1991,5,1990-09-30,Tenerife,Barcelona,0,1,1.0
+1990-1991,5,1990-09-30,Espanyol,Zaragoza,0,0,0.5
+1990-1991,5,1990-09-30,Valladolid,Castellón,0,0,0.5
+1990-1991,5,1990-09-30,Real Burgos,Logroñés,1,2,1.0
+1990-1991,5,1990-09-30,Osasuna,Sporting Gijón,2,1,0.0
+1990-1991,5,1990-09-30,Real Betis,Sevilla,0,3,1.0
+1990-1991,5,1990-09-30,Real Madrid,Cádiz,2,1,0.0
+1990-1991,6,1990-10-06,Barcelona,Athletic Club,4,1,0.0
+1990-1991,6,1990-10-07,Cádiz,Espanyol,0,0,0.5
+1990-1991,6,1990-10-07,Sporting Gijón,Real Burgos,0,0,0.5
+1990-1991,6,1990-10-07,Mallorca,Real Betis,1,0,0.0
+1990-1991,6,1990-10-07,Real Sociedad,Real Madrid,1,1,0.5
+1990-1991,6,1990-10-07,Atlético Madrid,Osasuna,2,2,0.5
+1990-1991,6,1990-10-07,Zaragoza,Valencia,2,1,0.0
+1990-1991,6,1990-10-07,Logroñés,Oviedo,1,0,0.0
+1990-1991,6,1990-10-07,Sevilla,Valladolid,1,0,0.0
+1990-1991,6,1990-10-07,Castellón,Tenerife,5,1,0.0
+1990-1991,7,1990-10-13,Osasuna,Barcelona,0,0,0.5
+1990-1991,7,1990-10-14,Espanyol,Real Sociedad,1,0,0.0
+1990-1991,7,1990-10-14,Tenerife,Sevilla,0,4,1.0
+1990-1991,7,1990-10-14,Sporting Gijón,Atlético Madrid,1,2,1.0
+1990-1991,7,1990-10-14,Athletic Club,Castellón,1,1,0.5
+1990-1991,7,1990-10-14,Valladolid,Mallorca,5,1,0.0
+1990-1991,7,1990-10-14,Real Burgos,Oviedo,4,0,0.0
+1990-1991,7,1990-10-14,Real Madrid,Logroñés,0,0,0.5
+1990-1991,7,1990-10-14,Valencia,Cádiz,2,1,0.0
+1990-1991,7,1990-10-14,Real Betis,Zaragoza,1,1,0.5
+1990-1991,8,1990-10-20,Real Sociedad,Valencia,1,0,0.0
+1990-1991,8,1990-10-20,Barcelona,Sporting Gijón,3,2,0.0
+1990-1991,8,1990-10-20,Sevilla,Athletic Club,3,0,0.0
+1990-1991,8,1990-10-21,Zaragoza,Valladolid,2,2,0.5
+1990-1991,8,1990-10-21,Oviedo,Real Madrid,0,0,0.5
+1990-1991,8,1990-10-21,Cádiz,Real Betis,1,2,1.0
+1990-1991,8,1990-10-21,Castellón,Osasuna,1,0,0.0
+1990-1991,8,1990-10-21,Logroñés,Espanyol,1,0,0.0
+1990-1991,8,1990-10-21,Mallorca,Tenerife,0,1,1.0
+1990-1991,8,1990-10-21,Atlético Madrid,Real Burgos,0,0,0.5
+1990-1991,9,1990-10-27,Atlético Madrid,Barcelona,2,1,0.0
+1990-1991,9,1990-10-28,Tenerife,Zaragoza,0,2,1.0
+1990-1991,9,1990-10-28,Espanyol,Oviedo,5,0,0.0
+1990-1991,9,1990-10-28,Osasuna,Sevilla,1,0,0.0
+1990-1991,9,1990-10-28,Real Burgos,Real Madrid,2,1,0.0
+1990-1991,9,1990-10-28,Valladolid,Cádiz,0,0,0.5
+1990-1991,9,1990-10-28,Athletic Club,Mallorca,2,0,0.0
+1990-1991,9,1990-10-28,Valencia,Logroñés,0,1,1.0
+1990-1991,9,1990-10-28,Real Betis,Real Sociedad,1,1,0.5
+1990-1991,9,1990-10-28,Sporting Gijón,Castellón,1,0,0.0
+1990-1991,10,1990-11-03,Sevilla,Sporting Gijón,1,0,0.0
+1990-1991,10,1990-11-03,Oviedo,Valencia,2,1,0.0
+1990-1991,10,1990-11-03,Barcelona,Real Burgos,0,0,0.5
+1990-1991,10,1990-11-04,Logroñés,Real Betis,1,0,0.0
+1990-1991,10,1990-11-04,Real Sociedad,Valladolid,1,1,0.5
+1990-1991,10,1990-11-04,Mallorca,Osasuna,1,1,0.5
+1990-1991,10,1990-11-04,Zaragoza,Athletic Club,1,0,0.0
+1990-1991,10,1990-11-04,Real Madrid,Espanyol,2,1,0.0
+1990-1991,10,1990-11-04,Cádiz,Tenerife,1,2,1.0
+1990-1991,10,1990-11-04,Castellón,Atlético Madrid,0,0,0.5
+1990-1991,11,1990-11-17,Valencia,Real Madrid,2,1,0.0
+1990-1991,11,1990-11-18,Tenerife,Real Sociedad,2,0,0.0
+1990-1991,11,1990-11-18,Atlético Madrid,Sevilla,1,0,0.0
+1990-1991,11,1990-11-18,Real Burgos,Espanyol,0,0,0.5
+1990-1991,11,1990-11-18,Valladolid,Logroñés,0,0,0.5
+1990-1991,11,1990-11-18,Athletic Club,Cádiz,1,0,0.0
+1990-1991,11,1990-11-18,Osasuna,Zaragoza,1,0,0.0
+1990-1991,11,1990-11-18,Sporting Gijón,Mallorca,1,1,0.5
+1990-1991,11,1990-11-18,Barcelona,Castellón,6,0,0.0
+1990-1991,11,1990-11-18,Real Betis,Oviedo,1,1,0.5
+1990-1991,12,1990-11-24,Sevilla,Barcelona,0,1,1.0
+1990-1991,12,1990-11-25,Logroñés,Tenerife,1,0,0.0
+1990-1991,12,1990-11-25,Mallorca,Atlético Madrid,1,0,0.0
+1990-1991,12,1990-11-25,Zaragoza,Sporting Gijón,4,0,0.0
+1990-1991,12,1990-11-25,Castellón,Real Burgos,0,0,0.5
+1990-1991,12,1990-11-25,Oviedo,Valladolid,1,0,0.0
+1990-1991,12,1990-11-25,Espanyol,Valencia,0,0,0.5
+1990-1991,12,1990-11-25,Real Madrid,Real Betis,3,0,0.0
+1990-1991,12,1990-11-25,Real Sociedad,Athletic Club,0,1,1.0
+1990-1991,12,1990-11-25,Cádiz,Osasuna,1,1,0.5
+1990-1991,13,1990-12-01,Valladolid,Real Madrid,0,1,1.0
+1990-1991,13,1990-12-02,Castellón,Sevilla,0,0,0.5
+1990-1991,13,1990-12-02,Atlético Madrid,Zaragoza,4,0,0.0
+1990-1991,13,1990-12-02,Real Betis,Espanyol,1,2,1.0
+1990-1991,13,1990-12-02,Barcelona,Mallorca,2,1,0.0
+1990-1991,13,1990-12-02,Athletic Club,Logroñés,1,1,0.5
+1990-1991,13,1990-12-02,Osasuna,Real Sociedad,3,1,0.0
+1990-1991,13,1990-12-02,Sporting Gijón,Cádiz,3,1,0.0
+1990-1991,13,1990-12-02,Tenerife,Oviedo,1,2,1.0
+1990-1991,13,1990-12-02,Real Burgos,Valencia,0,0,0.5
+1990-1991,14,1990-12-08,Cádiz,Atlético Madrid,0,1,1.0
+1990-1991,14,1990-12-09,Sevilla,Real Burgos,1,2,1.0
+1990-1991,14,1990-12-09,Real Sociedad,Sporting Gijón,1,0,0.0
+1990-1991,14,1990-12-09,Espanyol,Valladolid,2,0,0.0
+1990-1991,14,1990-12-09,Real Madrid,Tenerife,3,0,0.0
+1990-1991,14,1990-12-09,Valencia,Real Betis,3,1,0.0
+1990-1991,14,1990-12-09,Zaragoza,Barcelona,0,2,1.0
+1990-1991,14,1990-12-09,Mallorca,Castellón,0,0,0.5
+1990-1991,15,1990-12-15,Athletic Club,Real Madrid,1,0,0.0
+1990-1991,15,1990-12-16,Real Burgos,Real Betis,1,2,1.0
+1990-1991,15,1990-12-16,Sevilla,Mallorca,1,0,0.0
+1990-1991,15,1990-12-16,Osasuna,Oviedo,0,0,0.5
+1990-1991,15,1990-12-16,Tenerife,Espanyol,2,0,0.0
+1990-1991,15,1990-12-16,Sporting Gijón,Logroñés,1,0,0.0
+1990-1991,15,1990-12-16,Atlético Madrid,Real Sociedad,4,0,0.0
+1990-1991,15,1990-12-16,Castellón,Zaragoza,0,0,0.5
+1990-1991,15,1990-12-16,Barcelona,Cádiz,2,0,0.0
+1990-1991,15,1990-12-16,Valladolid,Valencia,3,1,0.0
+1990-1991,16,1990-12-29,Logroñés,Atlético Madrid,0,1,1.0
+1990-1991,16,1990-12-30,Oviedo,Sporting Gijón,0,0,0.5
+1990-1991,16,1990-12-30,Valencia,Tenerife,4,2,0.0
+1990-1991,16,1990-12-30,Real Sociedad,Barcelona,1,1,0.5
+1990-1991,16,1990-12-30,Zaragoza,Sevilla,2,0,0.0
+1990-1991,16,1990-12-30,Espanyol,Athletic Club,1,2,1.0
+1990-1991,16,1990-12-30,Real Madrid,Osasuna,0,4,1.0
+1990-1991,16,1990-12-30,Real Betis,Valladolid,0,0,0.5
+1990-1991,16,1990-12-30,Mallorca,Real Burgos,0,0,0.5
+1990-1991,16,1990-12-30,Cádiz,Castellón,0,0,0.5
+1990-1991,17,1991-01-05,Athletic Club,Valencia,0,2,1.0
+1990-1991,17,1991-01-06,Sevilla,Cádiz,2,1,0.0
+1990-1991,17,1991-01-06,Real Burgos,Valladolid,0,1,1.0
+1990-1991,17,1991-01-06,Atlético Madrid,Oviedo,0,0,0.5
+1990-1991,17,1991-01-06,Tenerife,Real Betis,1,1,0.5
+1990-1991,17,1991-01-06,Barcelona,Logroñés,2,1,0.0
+1990-1991,17,1991-01-06,Osasuna,Espanyol,1,0,0.0
+1990-1991,17,1991-01-06,Sporting Gijón,Real Madrid,0,2,1.0
+1990-1991,17,1991-01-06,Mallorca,Zaragoza,3,2,0.0
+1990-1991,17,1991-01-06,Castellón,Real Sociedad,1,1,0.5
+1990-1991,18,1991-01-12,Real Madrid,Atlético Madrid,0,3,1.0
+1990-1991,18,1991-01-13,Espanyol,Sporting Gijón,0,2,1.0
+1990-1991,18,1991-01-13,Cádiz,Mallorca,1,0,0.0
+1990-1991,18,1991-01-13,Real Betis,Athletic Club,1,0,0.0
+1990-1991,18,1991-01-13,Valencia,Osasuna,1,1,0.5
+1990-1991,18,1991-01-13,Valladolid,Tenerife,6,2,0.0
+1990-1991,18,1991-01-13,Real Burgos,Zaragoza,0,1,1.0
+1990-1991,18,1991-01-13,Oviedo,Barcelona,1,0,0.0
+1990-1991,18,1991-01-13,Real Sociedad,Sevilla,1,1,0.5
+1990-1991,18,1991-01-13,Logroñés,Castellón,2,1,0.0
+1990-1991,19,1991-01-19,Barcelona,Real Madrid,2,1,0.0
+1990-1991,19,1991-01-19,Mallorca,Real Sociedad,2,1,0.0
+1990-1991,19,1991-01-20,Sevilla,Logroñés,1,0,0.0
+1990-1991,19,1991-01-20,Sporting Gijón,Valencia,1,1,0.5
+1990-1991,19,1991-01-20,Tenerife,Real Burgos,1,0,0.0
+1990-1991,19,1991-01-20,Zaragoza,Cádiz,3,0,0.0
+1990-1991,19,1991-01-20,Osasuna,Real Betis,3,0,0.0
+1990-1991,19,1991-01-20,Atlético Madrid,Espanyol,4,0,0.0
+1990-1991,19,1991-01-20,Athletic Club,Valladolid,0,1,1.0
+1990-1991,19,1991-01-20,Castellón,Oviedo,1,0,0.0
+1990-1991,20,1991-01-26,Atlético Madrid,Valencia,2,0,0.0
+1990-1991,20,1991-01-27,Mallorca,Logroñés,2,0,0.0
+1990-1991,20,1991-01-27,Osasuna,Valladolid,2,1,0.0
+1990-1991,20,1991-01-27,Castellón,Real Madrid,0,3,1.0
+1990-1991,20,1991-01-27,Sporting Gijón,Real Betis,4,0,0.0
+1990-1991,20,1991-01-27,Cádiz,Real Burgos,0,0,0.5
+1990-1991,20,1991-01-27,Barcelona,Espanyol,5,2,0.0
+1990-1991,20,1991-01-27,Sevilla,Oviedo,3,0,0.0
+1990-1991,20,1991-01-27,Athletic Club,Tenerife,2,0,0.0
+1990-1991,20,1991-01-27,Zaragoza,Real Sociedad,1,1,0.5
+1990-1991,14,1991-01-30,Logroñés,Osasuna,2,0,0.0
+1990-1991,21,1991-02-02,Valencia,Barcelona,2,2,0.5
+1990-1991,21,1991-02-03,Real Betis,Atlético Madrid,0,0,0.5
+1990-1991,21,1991-02-03,Tenerife,Osasuna,2,1,0.0
+1990-1991,21,1991-02-03,Oviedo,Mallorca,1,0,0.0
+1990-1991,21,1991-02-03,Logroñés,Zaragoza,1,1,0.5
+1990-1991,21,1991-02-03,Real Burgos,Athletic Club,2,1,0.0
+1990-1991,21,1991-02-03,Real Madrid,Sevilla,7,0,0.0
+1990-1991,21,1991-02-03,Real Sociedad,Cádiz,0,0,0.5
+1990-1991,21,1991-02-03,Espanyol,Castellón,1,0,0.0
+1990-1991,21,1991-02-03,Valladolid,Sporting Gijón,0,0,0.5
+1990-1991,22,1991-02-09,Osasuna,Athletic Club,1,0,0.0
+1990-1991,22,1991-02-10,Castellón,Valencia,0,2,1.0
+1990-1991,22,1991-02-10,Barcelona,Real Betis,4,2,0.0
+1990-1991,22,1991-02-10,Cádiz,Logroñés,2,0,0.0
+1990-1991,22,1991-02-10,Sevilla,Espanyol,1,1,0.5
+1990-1991,22,1991-02-10,Zaragoza,Oviedo,0,1,1.0
+1990-1991,22,1991-02-10,Atlético Madrid,Valladolid,2,0,0.0
+1990-1991,22,1991-02-10,Sporting Gijón,Tenerife,2,1,0.0
+1990-1991,22,1991-02-10,Mallorca,Real Madrid,1,1,0.5
+1990-1991,22,1991-02-10,Real Sociedad,Real Burgos,3,1,0.0
+1990-1991,23,1991-02-23,Valencia,Sevilla,2,1,0.0
+1990-1991,23,1991-02-24,Tenerife,Atlético Madrid,0,0,0.5
+1990-1991,23,1991-02-24,Logroñés,Real Sociedad,0,0,0.5
+1990-1991,23,1991-02-24,Espanyol,Mallorca,3,0,0.0
+1990-1991,23,1991-02-24,Real Betis,Castellón,1,0,0.0
+1990-1991,23,1991-02-24,Valladolid,Barcelona,1,5,1.0
+1990-1991,23,1991-02-24,Real Madrid,Zaragoza,2,0,0.0
+1990-1991,23,1991-02-24,Oviedo,Cádiz,1,1,0.5
+1990-1991,23,1991-02-24,Real Burgos,Osasuna,1,1,0.5
+1990-1991,23,1991-02-24,Athletic Club,Sporting Gijón,1,2,1.0
+1990-1991,14,1991-02-27,Oviedo,Athletic Club,1,1,0.5
+1990-1991,24,1991-03-02,Cádiz,Real Madrid,1,0,0.0
+1990-1991,24,1991-03-02,Sevilla,Real Betis,3,2,0.0
+1990-1991,24,1991-03-02,Barcelona,Tenerife,1,0,0.0
+1990-1991,24,1991-03-03,Sporting Gijón,Osasuna,1,1,0.5
+1990-1991,24,1991-03-03,Mallorca,Valencia,0,1,1.0
+1990-1991,24,1991-03-03,Real Sociedad,Oviedo,3,1,0.0
+1990-1991,24,1991-03-03,Zaragoza,Espanyol,1,1,0.5
+1990-1991,24,1991-03-03,Atlético Madrid,Athletic Club,2,0,0.0
+1990-1991,24,1991-03-03,Castellón,Valladolid,4,2,0.0
+1990-1991,24,1991-03-03,Logroñés,Real Burgos,0,0,0.5
+1990-1991,25,1991-03-09,Osasuna,Atlético Madrid,0,3,1.0
+1990-1991,25,1991-03-10,Real Betis,Mallorca,2,2,0.5
+1990-1991,25,1991-03-10,Oviedo,Logroñés,0,0,0.5
+1990-1991,25,1991-03-10,Tenerife,Castellón,1,0,0.0
+1990-1991,25,1991-03-10,Real Burgos,Sporting Gijón,1,1,0.5
+1990-1991,25,1991-03-10,Espanyol,Cádiz,2,1,0.0
+1990-1991,25,1991-03-10,Valencia,Zaragoza,2,0,0.0
+1990-1991,25,1991-03-10,Valladolid,Sevilla,2,1,0.0
+1990-1991,25,1991-03-10,Real Madrid,Real Sociedad,2,3,1.0
+1990-1991,25,1991-03-10,Athletic Club,Barcelona,0,6,1.0
+1990-1991,26,1991-03-16,Logroñés,Real Madrid,1,0,0.0
+1990-1991,26,1991-03-16,Barcelona,Osasuna,2,0,0.0
+1990-1991,26,1991-03-16,Castellón,Athletic Club,2,0,0.0
+1990-1991,26,1991-03-17,Cádiz,Valencia,0,0,0.5
+1990-1991,26,1991-03-17,Mallorca,Valladolid,0,0,0.5
+1990-1991,26,1991-03-17,Atlético Madrid,Sporting Gijón,3,1,0.0
+1990-1991,26,1991-03-17,Zaragoza,Real Betis,2,0,0.0
+1990-1991,26,1991-03-17,Real Sociedad,Espanyol,0,0,0.5
+1990-1991,26,1991-03-17,Sevilla,Tenerife,2,2,0.5
+1990-1991,26,1991-03-17,Oviedo,Real Burgos,1,1,0.5
+1990-1991,27,1991-03-23,Real Burgos,Atlético Madrid,1,1,0.5
+1990-1991,27,1991-03-24,Valladolid,Zaragoza,0,0,0.5
+1990-1991,27,1991-03-24,Athletic Club,Sevilla,2,0,0.0
+1990-1991,27,1991-03-24,Real Betis,Cádiz,3,0,0.0
+1990-1991,27,1991-03-24,Osasuna,Castellón,2,0,0.0
+1990-1991,27,1991-03-24,Tenerife,Mallorca,2,1,0.0
+1990-1991,27,1991-03-24,Espanyol,Logroñés,0,1,1.0
+1990-1991,27,1991-03-24,Real Madrid,Oviedo,1,1,0.5
+1990-1991,27,1991-03-24,Sporting Gijón,Barcelona,1,0,0.0
+1990-1991,27,1991-03-24,Valencia,Real Sociedad,0,1,1.0
+1990-1991,28,1991-03-30,Barcelona,Atlético Madrid,1,1,0.5
+1990-1991,28,1991-03-31,Sevilla,Osasuna,2,1,0.0
+1990-1991,28,1991-03-31,Oviedo,Espanyol,4,1,0.0
+1990-1991,28,1991-03-31,Mallorca,Athletic Club,0,0,0.5
+1990-1991,28,1991-03-31,Logroñés,Valencia,1,0,0.0
+1990-1991,28,1991-03-31,Zaragoza,Tenerife,0,1,1.0
+1990-1991,28,1991-03-31,Real Madrid,Real Burgos,0,1,1.0
+1990-1991,28,1991-03-31,Cádiz,Valladolid,0,0,0.5
+1990-1991,28,1991-03-31,Real Sociedad,Real Betis,1,0,0.0
+1990-1991,28,1991-03-31,Castellón,Sporting Gijón,3,2,0.0
+1990-1991,29,1991-04-06,Sporting Gijón,Sevilla,2,0,0.0
+1990-1991,29,1991-04-06,Real Burgos,Barcelona,1,3,1.0
+1990-1991,29,1991-04-07,Valladolid,Real Sociedad,4,2,0.0
+1990-1991,29,1991-04-07,Athletic Club,Zaragoza,2,0,0.0
+1990-1991,29,1991-04-07,Real Betis,Logroñés,3,2,0.0
+1990-1991,29,1991-04-07,Valencia,Oviedo,1,1,0.5
+1990-1991,29,1991-04-07,Atlético Madrid,Castellón,3,1,0.0
+1990-1991,29,1991-04-07,Tenerife,Cádiz,1,0,0.0
+1990-1991,29,1991-04-07,Osasuna,Mallorca,1,0,0.0
+1990-1991,29,1991-04-07,Espanyol,Real Madrid,3,1,0.0
+1990-1991,30,1991-04-13,Sevilla,Atlético Madrid,1,1,0.5
+1990-1991,30,1991-04-14,Mallorca,Sporting Gijón,1,1,0.5
+1990-1991,30,1991-04-14,Real Madrid,Valencia,4,0,0.0
+1990-1991,30,1991-04-14,Cádiz,Athletic Club,2,3,1.0
+1990-1991,30,1991-04-14,Logroñés,Valladolid,1,2,1.0
+1990-1991,30,1991-04-14,Zaragoza,Osasuna,0,0,0.5
+1990-1991,30,1991-04-14,Oviedo,Real Betis,1,0,0.0
+1990-1991,30,1991-04-14,Real Sociedad,Tenerife,1,3,1.0
+1990-1991,30,1991-04-14,Castellón,Barcelona,0,1,1.0
+1990-1991,30,1991-04-14,Espanyol,Real Burgos,1,0,0.0
+1990-1991,31,1991-04-20,Athletic Club,Real Sociedad,2,1,0.0
+1990-1991,31,1991-04-20,Barcelona,Sevilla,3,0,0.0
+1990-1991,31,1991-04-20,Real Betis,Real Madrid,1,3,1.0
+1990-1991,31,1991-04-21,Osasuna,Cádiz,1,1,0.5
+1990-1991,31,1991-04-21,Tenerife,Logroñés,2,0,0.0
+1990-1991,31,1991-04-21,Real Burgos,Castellón,4,0,0.0
+1990-1991,31,1991-04-21,Valladolid,Oviedo,1,0,0.0
+1990-1991,31,1991-04-21,Valencia,Espanyol,2,0,0.0
+1990-1991,31,1991-04-21,Sporting Gijón,Zaragoza,1,0,0.0
+1990-1991,31,1991-04-21,Atlético Madrid,Mallorca,0,1,1.0
+1990-1991,32,1991-04-27,Mallorca,Barcelona,1,1,0.5
+1990-1991,32,1991-04-28,Espanyol,Real Betis,2,2,0.5
+1990-1991,32,1991-04-28,Logroñés,Athletic Club,1,1,0.5
+1990-1991,32,1991-04-28,Valencia,Real Burgos,0,1,1.0
+1990-1991,32,1991-04-28,Real Madrid,Valladolid,1,0,0.0
+1990-1991,32,1991-04-28,Real Sociedad,Osasuna,1,1,0.5
+1990-1991,32,1991-04-28,Zaragoza,Atlético Madrid,1,0,0.0
+1990-1991,32,1991-04-28,Sevilla,Castellón,3,0,0.0
+1990-1991,32,1991-04-28,Oviedo,Tenerife,3,1,0.0
+1990-1991,32,1991-04-28,Cádiz,Sporting Gijón,1,1,0.5
+1990-1991,33,1991-05-04,Real Betis,Valencia,2,2,0.5
+1990-1991,33,1991-05-05,Barcelona,Zaragoza,2,1,0.0
+1990-1991,33,1991-05-05,Osasuna,Logroñés,1,1,0.5
+1990-1991,33,1991-05-05,Valladolid,Espanyol,2,0,0.0
+1990-1991,33,1991-05-05,Atlético Madrid,Cádiz,0,0,0.5
+1990-1991,33,1991-05-05,Castellón,Mallorca,0,1,1.0
+1990-1991,33,1991-05-05,Tenerife,Real Madrid,0,1,1.0
+1990-1991,33,1991-05-05,Sporting Gijón,Real Sociedad,2,1,0.0
+1990-1991,33,1991-05-05,Real Burgos,Sevilla,1,1,0.5
+1990-1991,33,1991-05-05,Athletic Club,Oviedo,2,1,0.0
+1990-1991,34,1991-05-11,Real Madrid,Athletic Club,4,1,0.0
+1990-1991,34,1991-05-11,Logroñés,Sporting Gijón,1,2,1.0
+1990-1991,34,1991-05-11,Cádiz,Barcelona,4,0,0.0
+1990-1991,34,1991-05-12,Espanyol,Tenerife,1,0,0.0
+1990-1991,34,1991-05-12,Mallorca,Sevilla,1,1,0.5
+1990-1991,34,1991-05-12,Real Betis,Real Burgos,0,0,0.5
+1990-1991,34,1991-05-12,Oviedo,Osasuna,0,0,0.5
+1990-1991,34,1991-05-12,Valencia,Valladolid,2,0,0.0
+1990-1991,34,1991-05-12,Real Sociedad,Atlético Madrid,2,1,0.0
+1990-1991,34,1991-05-12,Zaragoza,Castellón,2,0,0.0
+1990-1991,35,1991-05-18,Barcelona,Real Sociedad,1,3,1.0
+1990-1991,35,1991-05-19,Athletic Club,Espanyol,1,1,0.5
+1990-1991,35,1991-05-19,Atlético Madrid,Logroñés,3,0,0.0
+1990-1991,35,1991-05-19,Tenerife,Valencia,1,1,0.5
+1990-1991,35,1991-05-19,Sporting Gijón,Oviedo,0,0,0.5
+1990-1991,35,1991-05-19,Valladolid,Real Betis,1,1,0.5
+1990-1991,35,1991-05-19,Osasuna,Real Madrid,3,3,0.5
+1990-1991,35,1991-05-19,Real Burgos,Mallorca,1,1,0.5
+1990-1991,35,1991-05-19,Castellón,Cádiz,2,0,0.0
+1990-1991,35,1991-05-19,Sevilla,Zaragoza,1,2,1.0
+1990-1991,36,1991-05-25,Real Madrid,Sporting Gijón,2,1,0.0
+1990-1991,36,1991-05-25,Valencia,Athletic Club,2,1,0.0
+1990-1991,36,1991-05-26,Espanyol,Osasuna,0,1,1.0
+1990-1991,36,1991-05-26,Logroñés,Barcelona,0,2,1.0
+1990-1991,36,1991-05-26,Real Betis,Tenerife,1,1,0.5
+1990-1991,36,1991-05-26,Real Sociedad,Castellón,1,1,0.5
+1990-1991,36,1991-05-26,Zaragoza,Mallorca,2,2,0.5
+1990-1991,36,1991-05-26,Cádiz,Sevilla,2,1,0.0
+1990-1991,36,1991-05-26,Valladolid,Real Burgos,1,0,0.0
+1990-1991,36,1991-05-26,Oviedo,Atlético Madrid,3,0,0.0
+1990-1991,37,1991-06-02,Athletic Club,Real Betis,4,0,0.0
+1990-1991,37,1991-06-02,Atlético Madrid,Real Madrid,0,3,1.0
+1990-1991,37,1991-06-02,Sporting Gijón,Espanyol,3,0,0.0
+1990-1991,37,1991-06-02,Osasuna,Valencia,0,2,1.0
+1990-1991,37,1991-06-02,Tenerife,Valladolid,1,0,0.0
+1990-1991,37,1991-06-02,Sevilla,Real Sociedad,1,0,0.0
+1990-1991,37,1991-06-02,Zaragoza,Real Burgos,0,0,0.5
+1990-1991,37,1991-06-02,Castellón,Logroñés,0,0,0.5
+1990-1991,37,1991-06-02,Mallorca,Cádiz,0,0,0.5
+1990-1991,37,1991-06-02,Barcelona,Oviedo,0,0,0.5
+1990-1991,38,1991-06-08,Logroñés,Sevilla,2,1,0.0
+1990-1991,38,1991-06-08,Real Madrid,Barcelona,1,0,0.0
+1990-1991,38,1991-06-09,Valencia,Sporting Gijón,0,1,1.0
+1990-1991,38,1991-06-09,Valladolid,Athletic Club,1,0,0.0
+1990-1991,38,1991-06-09,Cádiz,Zaragoza,2,1,0.0
+1990-1991,38,1991-06-09,Real Sociedad,Mallorca,0,0,0.5
+1990-1991,38,1991-06-09,Real Betis,Osasuna,0,1,1.0
+1990-1991,38,1991-06-09,Espanyol,Atlético Madrid,3,1,0.0
+1990-1991,38,1991-06-09,Real Burgos,Tenerife,2,0,0.0
+1990-1991,38,1991-06-09,Oviedo,Castellón,3,0,0.0

@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2002-2003,1,2002-08-31,Racing Sant,Valladolid,0,1,1.0
+2002-2003,1,2002-09-01,Barcelona,Atlético Madrid,2,2,0.5
+2002-2003,1,2002-09-01,Villarreal,Osasuna,2,2,0.5
+2002-2003,1,2002-09-01,Sevilla,Celta Vigo,0,1,1.0
+2002-2003,1,2002-09-01,Recreativo,Málaga,2,3,1.0
+2002-2003,1,2002-09-01,Rayo Vallecano,Alavés,2,2,0.5
+2002-2003,1,2002-09-01,La Coruña,Betis,2,4,1.0
+2002-2003,1,2002-09-01,Mallorca,Valencia,0,2,1.0
+2002-2003,1,2002-09-01,Real Sociedad,Athletic Club,4,2,0.0
+2002-2003,1,2002-09-02,Real Madrid,Espanyol,2,0,0.0
+2002-2003,2,2002-09-14,Málaga,Rayo Vallecano,2,1,0.0
+2002-2003,2,2002-09-14,Athletic Club,Barcelona,0,2,1.0
+2002-2003,2,2002-09-14,Valencia,Recreativo,3,0,0.0
+2002-2003,2,2002-09-14,Osasuna,La Coruña,1,2,1.0
+2002-2003,2,2002-09-15,Espanyol,Real Sociedad,1,3,1.0
+2002-2003,2,2002-09-15,Celta Vigo,Mallorca,3,1,0.0
+2002-2003,2,2002-09-15,Atlético Madrid,Sevilla,1,1,0.5
+2002-2003,2,2002-09-15,Alavés,Racing Sant,0,1,1.0
+2002-2003,2,2002-09-15,Valladolid,Villarreal,1,0,0.0
+2002-2003,3,2002-09-21,Barcelona,Espanyol,2,0,0.0
+2002-2003,3,2002-09-21,Real Madrid,Osasuna,4,1,0.0
+2002-2003,3,2002-09-21,La Coruña,Valladolid,2,0,0.0
+2002-2003,3,2002-09-22,Sevilla,Athletic Club,1,1,0.5
+2002-2003,3,2002-09-22,Real Sociedad,Betis,3,3,0.5
+2002-2003,3,2002-09-22,Recreativo,Celta Vigo,0,3,1.0
+2002-2003,3,2002-09-22,Villarreal,Alavés,0,1,1.0
+2002-2003,3,2002-09-22,Rayo Vallecano,Racing Sant,3,1,0.0
+2002-2003,3,2002-09-22,Málaga,Valencia,2,2,0.5
+2002-2003,3,2002-09-22,Mallorca,Atlético Madrid,0,4,1.0
+2002-2003,4,2002-09-28,Alavés,La Coruña,1,2,1.0
+2002-2003,4,2002-09-28,Valladolid,Real Madrid,1,1,0.5
+2002-2003,4,2002-09-28,Betis,Barcelona,3,0,0.0
+2002-2003,4,2002-09-29,Valencia,Rayo Vallecano,3,0,0.0
+2002-2003,4,2002-09-29,Celta Vigo,Málaga,2,2,0.5
+2002-2003,4,2002-09-29,Atlético Madrid,Recreativo,1,1,0.5
+2002-2003,4,2002-09-29,Espanyol,Sevilla,0,0,0.5
+2002-2003,4,2002-09-29,Racing Sant,Villarreal,1,1,0.5
+2002-2003,4,2002-09-29,Athletic Club,Mallorca,0,2,1.0
+2002-2003,4,2002-09-29,Osasuna,Real Sociedad,2,3,1.0
+2002-2003,5,2002-10-05,Recreativo,Athletic Club,1,2,1.0
+2002-2003,5,2002-10-06,Sevilla,Betis,1,1,0.5
+2002-2003,5,2002-10-06,Mallorca,Espanyol,2,0,0.0
+2002-2003,5,2002-10-06,Málaga,Atlético Madrid,3,1,0.0
+2002-2003,5,2002-10-06,Real Sociedad,Valladolid,2,1,0.0
+2002-2003,5,2002-10-06,Valencia,Celta Vigo,0,1,1.0
+2002-2003,5,2002-10-06,Real Madrid,Alavés,5,2,0.0
+2002-2003,5,2002-10-06,Barcelona,Osasuna,2,2,0.5
+2002-2003,5,2002-10-06,La Coruña,Racing Sant,0,2,1.0
+2002-2003,5,2002-10-06,Rayo Vallecano,Villarreal,2,2,0.5
+2002-2003,2,2002-10-08,Betis,Real Madrid,1,1,0.5
+2002-2003,6,2002-10-19,Villarreal,La Coruña,3,1,0.0
+2002-2003,6,2002-10-19,Racing Sant,Real Madrid,2,0,0.0
+2002-2003,6,2002-10-19,Atlético Madrid,Valencia,1,1,0.5
+2002-2003,6,2002-10-20,Betis,Mallorca,0,1,1.0
+2002-2003,6,2002-10-20,Valladolid,Barcelona,2,1,0.0
+2002-2003,6,2002-10-20,Espanyol,Recreativo,2,0,0.0
+2002-2003,6,2002-10-20,Celta Vigo,Rayo Vallecano,0,1,1.0
+2002-2003,6,2002-10-20,Osasuna,Sevilla,2,1,0.0
+2002-2003,6,2002-10-20,Athletic Club,Málaga,1,1,0.5
+2002-2003,6,2002-10-20,Alavés,Real Sociedad,2,2,0.5
+2002-2003,7,2002-10-26,Recreativo,Betis,1,1,0.5
+2002-2003,7,2002-10-26,Real Madrid,Villarreal,1,1,0.5
+2002-2003,7,2002-10-26,Barcelona,Alavés,6,1,0.0
+2002-2003,7,2002-10-26,Valencia,Athletic Club,5,1,0.0
+2002-2003,7,2002-10-26,Rayo Vallecano,La Coruña,1,2,1.0
+2002-2003,7,2002-10-26,Celta Vigo,Atlético Madrid,0,0,0.5
+2002-2003,7,2002-10-27,Málaga,Espanyol,3,4,1.0
+2002-2003,7,2002-10-27,Mallorca,Osasuna,2,0,0.0
+2002-2003,7,2002-10-27,Sevilla,Valladolid,2,1,0.0
+2002-2003,7,2002-10-27,Real Sociedad,Racing Sant,2,1,0.0
+2002-2003,8,2002-11-02,Valladolid,Mallorca,1,3,1.0
+2002-2003,8,2002-11-02,La Coruña,Real Madrid,0,0,0.5
+2002-2003,8,2002-11-02,Atlético Madrid,Rayo Vallecano,2,0,0.0
+2002-2003,8,2002-11-03,Athletic Club,Celta Vigo,2,1,0.0
+2002-2003,8,2002-11-03,Betis,Málaga,3,0,0.0
+2002-2003,8,2002-11-03,Racing Sant,Barcelona,1,1,0.5
+2002-2003,8,2002-11-03,Alavés,Sevilla,1,0,0.0
+2002-2003,8,2002-11-03,Osasuna,Recreativo,0,1,1.0
+2002-2003,8,2002-11-03,Villarreal,Real Sociedad,0,1,1.0
+2002-2003,8,2002-11-03,Espanyol,Valencia,0,1,1.0
+2002-2003,9,2002-11-09,Real Sociedad,La Coruña,1,1,0.5
+2002-2003,9,2002-11-09,Rayo Vallecano,Real Madrid,2,3,1.0
+2002-2003,9,2002-11-09,Valencia,Betis,1,1,0.5
+2002-2003,9,2002-11-09,Málaga,Osasuna,1,0,0.0
+2002-2003,9,2002-11-09,Barcelona,Villarreal,1,0,0.0
+2002-2003,9,2002-11-10,Atlético Madrid,Athletic Club,3,3,0.5
+2002-2003,9,2002-11-10,Celta Vigo,Espanyol,1,0,0.0
+2002-2003,9,2002-11-10,Recreativo,Valladolid,1,3,1.0
+2002-2003,9,2002-11-10,Sevilla,Racing Sant,1,0,0.0
+2002-2003,9,2002-11-10,Mallorca,Alavés,3,1,0.0
+2002-2003,10,2002-11-16,Villarreal,Sevilla,1,0,0.0
+2002-2003,10,2002-11-16,La Coruña,Barcelona,2,0,0.0
+2002-2003,10,2002-11-17,Espanyol,Atlético Madrid,1,2,1.0
+2002-2003,10,2002-11-17,Alavés,Recreativo,3,0,0.0
+2002-2003,10,2002-11-17,Osasuna,Valencia,1,0,0.0
+2002-2003,10,2002-11-17,Valladolid,Málaga,0,0,0.5
+2002-2003,10,2002-11-17,Real Madrid,Real Sociedad,0,0,0.5
+2002-2003,10,2002-11-17,Racing Sant,Mallorca,1,2,1.0
+2002-2003,10,2002-11-17,Athletic Club,Rayo Vallecano,2,1,0.0
+2002-2003,10,2002-11-17,Betis,Celta Vigo,2,1,0.0
+2002-2003,11,2002-11-23,Rayo Vallecano,Real Sociedad,0,0,0.5
+2002-2003,11,2002-11-23,Barcelona,Real Madrid,0,0,0.5
+2002-2003,11,2002-11-23,Sevilla,La Coruña,1,1,0.5
+2002-2003,11,2002-11-24,Málaga,Alavés,0,0,0.5
+2002-2003,11,2002-11-24,Mallorca,Villarreal,1,1,0.5
+2002-2003,11,2002-11-24,Recreativo,Racing Sant,2,1,0.0
+2002-2003,11,2002-11-24,Celta Vigo,Osasuna,0,0,0.5
+2002-2003,11,2002-11-24,Valencia,Valladolid,2,0,0.0
+2002-2003,11,2002-11-24,Atlético Madrid,Betis,1,0,0.0
+2002-2003,11,2002-11-24,Athletic Club,Espanyol,4,1,0.0
+2002-2003,12,2002-11-30,Osasuna,Atlético Madrid,1,0,0.0
+2002-2003,12,2002-12-01,Villarreal,Recreativo,1,0,0.0
+2002-2003,12,2002-12-01,Betis,Athletic Club,1,0,0.0
+2002-2003,12,2002-12-01,Real Sociedad,Barcelona,2,1,0.0
+2002-2003,12,2002-12-01,Espanyol,Rayo Vallecano,3,1,0.0
+2002-2003,12,2002-12-01,Racing Sant,Málaga,1,0,0.0
+2002-2003,12,2002-12-01,Valladolid,Celta Vigo,0,2,1.0
+2002-2003,12,2002-12-01,Alavés,Valencia,0,0,0.5
+2002-2003,12,2002-12-01,La Coruña,Mallorca,2,2,0.5
+2002-2003,13,2002-12-07,Málaga,Villarreal,1,1,0.5
+2002-2003,13,2002-12-07,Sevilla,Real Sociedad,0,1,1.0
+2002-2003,13,2002-12-07,Recreativo,La Coruña,1,1,0.5
+2002-2003,13,2002-12-07,Valencia,Racing Sant,2,0,0.0
+2002-2003,13,2002-12-07,Rayo Vallecano,Barcelona,1,0,0.0
+2002-2003,13,2002-12-08,Celta Vigo,Alavés,2,1,0.0
+2002-2003,13,2002-12-08,Mallorca,Real Madrid,1,5,1.0
+2002-2003,13,2002-12-08,Athletic Club,Osasuna,1,3,1.0
+2002-2003,13,2002-12-08,Espanyol,Betis,2,4,1.0
+2002-2003,13,2002-12-08,Atlético Madrid,Valladolid,1,0,0.0
+2002-2003,14,2002-12-14,Alavés,Atlético Madrid,2,0,0.0
+2002-2003,14,2002-12-14,Villarreal,Valencia,0,2,1.0
+2002-2003,14,2002-12-15,Racing Sant,Celta Vigo,3,0,0.0
+2002-2003,14,2002-12-15,Real Sociedad,Mallorca,2,1,0.0
+2002-2003,14,2002-12-15,Osasuna,Espanyol,1,0,0.0
+2002-2003,14,2002-12-15,Valladolid,Athletic Club,2,0,0.0
+2002-2003,14,2002-12-15,La Coruña,Málaga,1,0,0.0
+2002-2003,14,2002-12-15,Real Madrid,Recreativo,4,2,0.0
+2002-2003,14,2002-12-15,Betis,Rayo Vallecano,0,1,1.0
+2002-2003,14,2002-12-15,Barcelona,Sevilla,0,3,1.0
+2002-2003,15,2002-12-21,Mallorca,Barcelona,0,4,1.0
+2002-2003,15,2002-12-21,Rayo Vallecano,Sevilla,0,1,1.0
+2002-2003,15,2002-12-21,Atlético Madrid,Racing Sant,1,2,1.0
+2002-2003,15,2002-12-21,Celta Vigo,Villarreal,3,1,0.0
+2002-2003,15,2002-12-21,Málaga,Real Madrid,2,3,1.0
+2002-2003,15,2002-12-21,Athletic Club,Alavés,2,0,0.0
+2002-2003,15,2002-12-22,Betis,Osasuna,2,1,0.0
+2002-2003,15,2002-12-22,Valencia,La Coruña,0,1,1.0
+2002-2003,15,2002-12-22,Espanyol,Valladolid,1,0,0.0
+2002-2003,15,2002-12-22,Recreativo,Real Sociedad,1,3,1.0
+2002-2003,12,2003-01-02,Real Madrid,Sevilla,3,0,0.0
+2002-2003,16,2003-01-04,Valladolid,Betis,3,0,0.0
+2002-2003,16,2003-01-04,Racing Sant,Athletic Club,3,4,1.0
+2002-2003,16,2003-01-04,Osasuna,Rayo Vallecano,0,1,1.0
+2002-2003,16,2003-01-04,La Coruña,Celta Vigo,3,0,0.0
+2002-2003,16,2003-01-05,Real Sociedad,Málaga,2,2,0.5
+2002-2003,16,2003-01-05,Barcelona,Recreativo,3,0,0.0
+2002-2003,16,2003-01-05,Alavés,Espanyol,2,1,0.0
+2002-2003,16,2003-01-05,Real Madrid,Valencia,4,1,0.0
+2002-2003,16,2003-01-05,Villarreal,Atlético Madrid,4,3,0.0
+2002-2003,16,2003-01-05,Sevilla,Mallorca,3,0,0.0
+2002-2003,17,2003-01-11,Celta Vigo,Real Madrid,0,1,1.0
+2002-2003,17,2003-01-11,Valencia,Real Sociedad,2,2,0.5
+2002-2003,17,2003-01-12,Atlético Madrid,La Coruña,3,1,0.0
+2002-2003,17,2003-01-12,Málaga,Barcelona,0,0,0.5
+2002-2003,17,2003-01-12,Rayo Vallecano,Mallorca,1,2,1.0
+2002-2003,17,2003-01-12,Espanyol,Racing Sant,3,0,0.0
+2002-2003,17,2003-01-12,Recreativo,Sevilla,0,0,0.5
+2002-2003,17,2003-01-12,Osasuna,Valladolid,1,1,0.5
+2002-2003,17,2003-01-12,Betis,Alavés,2,2,0.5
+2002-2003,17,2003-01-12,Athletic Club,Villarreal,0,1,1.0
+2002-2003,18,2003-01-18,Real Sociedad,Celta Vigo,1,0,0.0
+2002-2003,18,2003-01-18,Barcelona,Valencia,2,4,1.0
+2002-2003,18,2003-01-19,Rayo Vallecano,Valladolid,0,1,1.0
+2002-2003,18,2003-01-19,Racing Sant,Betis,0,1,1.0
+2002-2003,18,2003-01-19,Sevilla,Málaga,0,0,0.5
+2002-2003,18,2003-01-19,La Coruña,Athletic Club,2,1,0.0
+2002-2003,18,2003-01-19,Alavés,Osasuna,1,1,0.5
+2002-2003,18,2003-01-19,Real Madrid,Atlético Madrid,2,2,0.5
+2002-2003,18,2003-01-19,Villarreal,Espanyol,0,0,0.5
+2002-2003,18,2003-01-19,Mallorca,Recreativo,1,1,0.5
+2002-2003,19,2003-01-25,Atlético Madrid,Real Sociedad,1,2,1.0
+2002-2003,19,2003-01-26,Recreativo,Rayo Vallecano,2,1,0.0
+2002-2003,19,2003-01-26,Espanyol,La Coruña,3,1,0.0
+2002-2003,19,2003-01-26,Celta Vigo,Barcelona,2,0,0.0
+2002-2003,19,2003-01-26,Osasuna,Racing Sant,3,1,0.0
+2002-2003,19,2003-01-26,Betis,Villarreal,2,1,0.0
+2002-2003,19,2003-01-26,Athletic Club,Real Madrid,1,1,0.5
+2002-2003,19,2003-01-26,Málaga,Mallorca,1,0,0.0
+2002-2003,19,2003-01-26,Valladolid,Alavés,1,3,1.0
+2002-2003,19,2003-01-26,Valencia,Sevilla,1,0,0.0
+2002-2003,20,2003-02-01,Atlético Madrid,Barcelona,3,0,0.0
+2002-2003,20,2003-02-02,Espanyol,Real Madrid,2,2,0.5
+2002-2003,20,2003-02-02,Celta Vigo,Sevilla,0,1,1.0
+2002-2003,20,2003-02-02,Valladolid,Racing Sant,2,1,0.0
+2002-2003,20,2003-02-02,Betis,La Coruña,0,2,1.0
+2002-2003,20,2003-02-02,Valencia,Mallorca,1,0,0.0
+2002-2003,20,2003-02-02,Alavés,Rayo Vallecano,1,1,0.5
+2002-2003,20,2003-02-02,Málaga,Recreativo,4,0,0.0
+2002-2003,20,2003-02-02,Athletic Club,Real Sociedad,3,0,0.0
+2002-2003,20,2003-02-02,Osasuna,Villarreal,0,1,1.0
+2002-2003,21,2003-02-08,Villarreal,Valladolid,1,0,0.0
+2002-2003,21,2003-02-08,Real Madrid,Betis,4,1,0.0
+2002-2003,21,2003-02-09,Recreativo,Valencia,1,1,0.5
+2002-2003,21,2003-02-09,Sevilla,Atlético Madrid,1,1,0.5
+2002-2003,21,2003-02-09,Real Sociedad,Espanyol,0,0,0.5
+2002-2003,21,2003-02-09,La Coruña,Osasuna,1,1,0.5
+2002-2003,21,2003-02-09,Barcelona,Athletic Club,2,2,0.5
+2002-2003,21,2003-02-09,Racing Sant,Alavés,2,0,0.0
+2002-2003,21,2003-02-09,Mallorca,Celta Vigo,0,2,1.0
+2002-2003,21,2003-02-09,Rayo Vallecano,Málaga,2,1,0.0
+2002-2003,22,2003-02-15,Valencia,Málaga,2,0,0.0
+2002-2003,22,2003-02-15,Valladolid,La Coruña,0,1,1.0
+2002-2003,22,2003-02-15,Espanyol,Barcelona,0,2,1.0
+2002-2003,22,2003-02-16,Racing Sant,Rayo Vallecano,2,0,0.0
+2002-2003,22,2003-02-16,Betis,Real Sociedad,3,2,0.0
+2002-2003,22,2003-02-16,Osasuna,Real Madrid,1,0,0.0
+2002-2003,22,2003-02-16,Athletic Club,Sevilla,2,0,0.0
+2002-2003,22,2003-02-16,Alavés,Villarreal,1,0,0.0
+2002-2003,22,2003-02-16,Celta Vigo,Recreativo,4,1,0.0
+2002-2003,22,2003-02-16,Atlético Madrid,Mallorca,2,1,0.0
+2002-2003,23,2003-02-22,Real Madrid,Valladolid,3,1,0.0
+2002-2003,23,2003-02-22,La Coruña,Alavés,6,0,0.0
+2002-2003,23,2003-02-22,Barcelona,Betis,4,0,0.0
+2002-2003,23,2003-02-23,Mallorca,Athletic Club,1,1,0.5
+2002-2003,23,2003-02-23,Recreativo,Atlético Madrid,3,0,0.0
+2002-2003,23,2003-02-23,Málaga,Celta Vigo,1,1,0.5
+2002-2003,23,2003-02-23,Real Sociedad,Osasuna,2,0,0.0
+2002-2003,23,2003-02-23,Sevilla,Espanyol,1,0,0.0
+2002-2003,23,2003-02-23,Rayo Vallecano,Valencia,0,4,1.0
+2002-2003,23,2003-02-23,Villarreal,Racing Sant,0,3,1.0
+2002-2003,24,2003-03-01,Espanyol,Mallorca,2,0,0.0
+2002-2003,24,2003-03-01,Alavés,Real Madrid,1,5,1.0
+2002-2003,24,2003-03-01,Athletic Club,Recreativo,2,3,1.0
+2002-2003,24,2003-03-02,Atlético Madrid,Málaga,2,1,0.0
+2002-2003,24,2003-03-02,Racing Sant,La Coruña,1,2,1.0
+2002-2003,24,2003-03-02,Betis,Sevilla,0,1,1.0
+2002-2003,24,2003-03-02,Valladolid,Real Sociedad,3,0,0.0
+2002-2003,24,2003-03-02,Celta Vigo,Valencia,1,1,0.5
+2002-2003,24,2003-03-02,Villarreal,Rayo Vallecano,2,1,0.0
+2002-2003,24,2003-03-02,Osasuna,Barcelona,2,2,0.5
+2002-2003,25,2003-03-08,La Coruña,Villarreal,2,1,0.0
+2002-2003,25,2003-03-08,Barcelona,Valladolid,1,1,0.5
+2002-2003,25,2003-03-08,Real Madrid,Racing Sant,4,1,0.0
+2002-2003,25,2003-03-08,Valencia,Atlético Madrid,0,1,1.0
+2002-2003,25,2003-03-09,Mallorca,Betis,2,1,0.0
+2002-2003,25,2003-03-09,Málaga,Athletic Club,3,0,0.0
+2002-2003,25,2003-03-09,Rayo Vallecano,Celta Vigo,1,0,0.0
+2002-2003,25,2003-03-09,Sevilla,Osasuna,2,0,0.0
+2002-2003,25,2003-03-09,Real Sociedad,Alavés,3,1,0.0
+2002-2003,25,2003-03-09,Recreativo,Espanyol,0,0,0.5
+2002-2003,26,2003-03-15,Racing Sant,Real Sociedad,1,2,1.0
+2002-2003,26,2003-03-15,Villarreal,Real Madrid,0,1,1.0
+2002-2003,26,2003-03-15,La Coruña,Rayo Vallecano,2,0,0.0
+2002-2003,26,2003-03-16,Valladolid,Sevilla,0,0,0.5
+2002-2003,26,2003-03-16,Athletic Club,Valencia,1,0,0.0
+2002-2003,26,2003-03-16,Betis,Recreativo,1,1,0.5
+2002-2003,26,2003-03-16,Espanyol,Málaga,2,1,0.0
+2002-2003,26,2003-03-16,Alavés,Barcelona,0,0,0.5
+2002-2003,26,2003-03-16,Osasuna,Mallorca,0,0,0.5
+2002-2003,26,2003-03-16,Atlético Madrid,Celta Vigo,0,1,1.0
+2002-2003,27,2003-03-22,Rayo Vallecano,Atlético Madrid,0,0,0.5
+2002-2003,27,2003-03-23,Barcelona,Racing Sant,6,1,0.0
+2002-2003,27,2003-03-23,Sevilla,Alavés,3,2,0.0
+2002-2003,27,2003-03-23,Recreativo,Osasuna,1,1,0.5
+2002-2003,27,2003-03-23,Celta Vigo,Athletic Club,2,1,0.0
+2002-2003,27,2003-03-23,Valencia,Espanyol,1,1,0.5
+2002-2003,27,2003-03-23,Málaga,Betis,0,0,0.5
+2002-2003,27,2003-03-23,Real Sociedad,Villarreal,2,2,0.5
+2002-2003,27,2003-03-23,Mallorca,Valladolid,2,1,0.0
+2002-2003,27,2003-03-23,Real Madrid,La Coruña,2,0,0.0
+2002-2003,28,2003-04-05,Real Madrid,Rayo Vallecano,3,1,0.0
+2002-2003,28,2003-04-05,Villarreal,Barcelona,2,0,0.0
+2002-2003,28,2003-04-05,Betis,Valencia,2,0,0.0
+2002-2003,28,2003-04-05,Espanyol,Celta Vigo,0,0,0.5
+2002-2003,28,2003-04-06,Alavés,Mallorca,0,0,0.5
+2002-2003,28,2003-04-06,Athletic Club,Atlético Madrid,1,0,0.0
+2002-2003,28,2003-04-06,Valladolid,Recreativo,0,1,1.0
+2002-2003,28,2003-04-06,Racing Sant,Sevilla,1,0,0.0
+2002-2003,28,2003-04-06,Osasuna,Málaga,0,1,1.0
+2002-2003,28,2003-04-06,La Coruña,Real Sociedad,2,1,0.0
+2002-2003,29,2003-04-12,Sevilla,Villarreal,3,1,0.0
+2002-2003,29,2003-04-12,Barcelona,La Coruña,2,4,1.0
+2002-2003,29,2003-04-13,Rayo Vallecano,Athletic Club,1,1,0.5
+2002-2003,29,2003-04-13,Valencia,Osasuna,1,0,0.0
+2002-2003,29,2003-04-13,Real Sociedad,Real Madrid,4,2,0.0
+2002-2003,29,2003-04-13,Málaga,Valladolid,1,0,0.0
+2002-2003,29,2003-04-13,Atlético Madrid,Espanyol,3,3,0.5
+2002-2003,29,2003-04-13,Celta Vigo,Betis,1,0,0.0
+2002-2003,29,2003-04-13,Mallorca,Racing Sant,3,3,0.5
+2002-2003,29,2003-04-13,Recreativo,Alavés,1,0,0.0
+2002-2003,30,2003-04-19,Villarreal,Mallorca,1,1,0.5
+2002-2003,30,2003-04-19,Valladolid,Valencia,1,0,0.0
+2002-2003,30,2003-04-19,Real Madrid,Barcelona,1,1,0.5
+2002-2003,30,2003-04-20,Alavés,Málaga,0,1,1.0
+2002-2003,30,2003-04-20,La Coruña,Sevilla,3,1,0.0
+2002-2003,30,2003-04-20,Espanyol,Athletic Club,3,3,0.5
+2002-2003,30,2003-04-20,Real Sociedad,Rayo Vallecano,5,0,0.0
+2002-2003,30,2003-04-20,Betis,Atlético Madrid,2,2,0.5
+2002-2003,30,2003-04-20,Racing Sant,Recreativo,1,0,0.0
+2002-2003,30,2003-04-20,Osasuna,Celta Vigo,0,2,1.0
+2002-2003,31,2003-04-26,Athletic Club,Betis,3,1,0.0
+2002-2003,31,2003-04-26,Atlético Madrid,Osasuna,0,1,1.0
+2002-2003,31,2003-04-27,Sevilla,Real Madrid,1,3,1.0
+2002-2003,31,2003-04-27,Rayo Vallecano,Espanyol,0,3,1.0
+2002-2003,31,2003-04-27,Barcelona,Real Sociedad,2,1,0.0
+2002-2003,31,2003-04-27,Málaga,Racing Sant,2,2,0.5
+2002-2003,31,2003-04-27,Mallorca,La Coruña,3,0,0.0
+2002-2003,31,2003-04-27,Celta Vigo,Valladolid,0,0,0.5
+2002-2003,31,2003-04-27,Recreativo,Villarreal,5,0,0.0
+2002-2003,31,2003-04-27,Valencia,Alavés,3,0,0.0
+2002-2003,32,2003-05-03,Real Madrid,Mallorca,1,5,1.0
+2002-2003,32,2003-05-03,Real Sociedad,Sevilla,1,0,0.0
+2002-2003,32,2003-05-04,Barcelona,Rayo Vallecano,3,0,0.0
+2002-2003,32,2003-05-04,Alavés,Celta Vigo,0,0,0.5
+2002-2003,32,2003-05-04,Betis,Espanyol,1,1,0.5
+2002-2003,32,2003-05-04,Racing Sant,Valencia,2,1,0.0
+2002-2003,32,2003-05-04,Valladolid,Atlético Madrid,3,1,0.0
+2002-2003,32,2003-05-04,Osasuna,Athletic Club,1,5,1.0
+2002-2003,32,2003-05-04,Villarreal,Málaga,0,0,0.5
+2002-2003,32,2003-05-04,La Coruña,Recreativo,5,0,0.0
+2002-2003,33,2003-05-10,Atlético Madrid,Alavés,0,1,1.0
+2002-2003,33,2003-05-10,Athletic Club,Valladolid,0,0,0.5
+2002-2003,33,2003-05-10,Málaga,La Coruña,0,2,1.0
+2002-2003,33,2003-05-10,Espanyol,Osasuna,0,0,0.5
+2002-2003,33,2003-05-10,Recreativo,Real Madrid,0,0,0.5
+2002-2003,33,2003-05-11,Mallorca,Real Sociedad,1,3,1.0
+2002-2003,33,2003-05-11,Rayo Vallecano,Betis,1,1,0.5
+2002-2003,33,2003-05-11,Sevilla,Barcelona,0,0,0.5
+2002-2003,33,2003-05-11,Valencia,Villarreal,1,2,1.0
+2002-2003,33,2003-05-11,Celta Vigo,Racing Sant,2,2,0.5
+2002-2003,34,2003-05-17,Racing Sant,Atlético Madrid,0,2,1.0
+2002-2003,34,2003-05-17,La Coruña,Valencia,1,2,1.0
+2002-2003,34,2003-05-18,Real Sociedad,Recreativo,1,0,0.0
+2002-2003,34,2003-05-18,Osasuna,Betis,2,1,0.0
+2002-2003,34,2003-05-18,Barcelona,Mallorca,1,2,1.0
+2002-2003,34,2003-05-18,Valladolid,Espanyol,1,1,0.5
+2002-2003,34,2003-05-18,Real Madrid,Málaga,5,1,0.0
+2002-2003,34,2003-05-18,Villarreal,Celta Vigo,5,0,0.0
+2002-2003,34,2003-05-18,Alavés,Athletic Club,2,4,1.0
+2002-2003,34,2003-05-18,Sevilla,Rayo Vallecano,3,3,0.5
+2002-2003,35,2003-05-24,Athletic Club,Racing Sant,2,1,0.0
+2002-2003,35,2003-05-24,Atlético Madrid,Villarreal,3,2,0.0
+2002-2003,35,2003-05-24,Celta Vigo,La Coruña,3,0,0.0
+2002-2003,35,2003-05-24,Rayo Vallecano,Osasuna,0,0,0.5
+2002-2003,35,2003-05-24,Valencia,Real Madrid,1,2,1.0
+2002-2003,35,2003-05-25,Recreativo,Barcelona,1,3,1.0
+2002-2003,35,2003-05-25,Málaga,Real Sociedad,0,2,1.0
+2002-2003,35,2003-05-25,Espanyol,Alavés,3,1,0.0
+2002-2003,35,2003-05-25,Mallorca,Sevilla,1,3,1.0
+2002-2003,35,2003-05-25,Betis,Valladolid,2,2,0.5
+2002-2003,36,2003-05-31,Real Madrid,Celta Vigo,1,1,0.5
+2002-2003,36,2003-06-01,Mallorca,Rayo Vallecano,1,1,0.5
+2002-2003,36,2003-06-01,Racing Sant,Espanyol,5,2,0.0
+2002-2003,36,2003-06-01,Barcelona,Málaga,2,1,0.0
+2002-2003,36,2003-06-01,Real Sociedad,Valencia,1,1,0.5
+2002-2003,36,2003-06-01,Sevilla,Recreativo,1,0,0.0
+2002-2003,36,2003-06-01,Villarreal,Athletic Club,1,1,0.5
+2002-2003,36,2003-06-01,Valladolid,Osasuna,0,2,1.0
+2002-2003,36,2003-06-01,La Coruña,Atlético Madrid,3,2,0.0
+2002-2003,36,2003-06-01,Alavés,Betis,0,1,1.0
+2002-2003,37,2003-06-14,Valladolid,Rayo Vallecano,2,0,0.0
+2002-2003,37,2003-06-15,Atlético Madrid,Real Madrid,0,4,1.0
+2002-2003,37,2003-06-15,Celta Vigo,Real Sociedad,3,2,0.0
+2002-2003,37,2003-06-15,Athletic Club,La Coruña,3,2,0.0
+2002-2003,37,2003-06-15,Espanyol,Villarreal,2,2,0.5
+2002-2003,37,2003-06-15,Osasuna,Alavés,4,2,0.0
+2002-2003,37,2003-06-15,Betis,Racing Sant,4,2,0.0
+2002-2003,37,2003-06-15,Valencia,Barcelona,1,3,1.0
+2002-2003,37,2003-06-15,Málaga,Sevilla,3,2,0.0
+2002-2003,37,2003-06-15,Recreativo,Mallorca,1,1,0.5
+2002-2003,38,2003-06-21,Sevilla,Valencia,0,3,1.0
+2002-2003,38,2003-06-21,Alavés,Valladolid,1,1,0.5
+2002-2003,38,2003-06-21,Racing Sant,Osasuna,2,3,1.0
+2002-2003,38,2003-06-21,La Coruña,Espanyol,2,1,0.0
+2002-2003,38,2003-06-21,Mallorca,Málaga,1,0,0.0
+2002-2003,38,2003-06-21,Rayo Vallecano,Recreativo,0,0,0.5
+2002-2003,38,2003-06-22,Real Sociedad,Atlético Madrid,3,0,0.0
+2002-2003,38,2003-06-22,Villarreal,Betis,1,4,1.0
+2002-2003,38,2003-06-22,Real Madrid,Athletic Club,3,1,0.0
+2002-2003,38,2003-06-22,Barcelona,Celta Vigo,2,0,0.0

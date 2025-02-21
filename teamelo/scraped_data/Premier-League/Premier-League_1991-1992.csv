@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1991-1992,1,1991-08-17,Manchester Utd,Notts County,2,0,0.0
+1991-1992,1,1991-08-17,Liverpool,Oldham Athletic,2,1,0.0
+1991-1992,1,1991-08-17,Chelsea,Wimbledon,2,2,0.5
+1991-1992,1,1991-08-17,Coventry City,Manchester City,0,1,1.0
+1991-1992,1,1991-08-17,Southampton,Tottenham,2,3,1.0
+1991-1992,1,1991-08-17,Arsenal,QPR,1,1,0.5
+1991-1992,1,1991-08-17,Sheffield Weds,Aston Villa,2,3,1.0
+1991-1992,1,1991-08-17,Norwich City,Sheffield Utd,2,2,0.5
+1991-1992,1,1991-08-17,Nott'ham Forest,Everton,2,1,0.0
+1991-1992,1,1991-08-17,West Ham,Luton Town,0,0,0.5
+1991-1992,2,1991-08-20,Sheffield Utd,West Ham,1,1,0.5
+1991-1992,2,1991-08-20,Leeds United,Nott'ham Forest,1,0,0.0
+1991-1992,2,1991-08-20,Notts County,Southampton,1,0,0.0
+1991-1992,2,1991-08-20,Everton,Arsenal,3,1,0.0
+1991-1992,2,1991-08-21,Oldham Athletic,Chelsea,3,0,0.0
+1991-1992,2,1991-08-21,Aston Villa,Manchester Utd,0,1,1.0
+1991-1992,2,1991-08-21,Manchester City,Liverpool,2,1,0.0
+1991-1992,2,1991-08-21,Coventry City,Luton Town,5,0,0.0
+1991-1992,2,1991-08-21,QPR,Norwich City,0,2,1.0
+1991-1992,3,1991-08-24,Aston Villa,Arsenal,3,1,0.0
+1991-1992,3,1991-08-24,Wimbledon,West Ham,2,0,0.0
+1991-1992,3,1991-08-24,Notts County,Nott'ham Forest,0,4,1.0
+1991-1992,3,1991-08-24,Everton,Manchester Utd,0,0,0.5
+1991-1992,3,1991-08-24,Leeds United,Sheffield Weds,1,1,0.5
+1991-1992,3,1991-08-24,Sheffield Utd,Southampton,0,2,1.0
+1991-1992,3,1991-08-24,Manchester City,Crystal Palace,3,2,0.0
+1991-1992,3,1991-08-24,QPR,Coventry City,1,1,0.5
+1991-1992,3,1991-08-24,Luton Town,Liverpool,0,0,0.5
+1991-1992,3,1991-08-24,Oldham Athletic,Norwich City,2,2,0.5
+1991-1992,3,1991-08-24,Tottenham,Chelsea,1,3,1.0
+1991-1992,4,1991-08-27,Liverpool,QPR,1,0,0.0
+1991-1992,4,1991-08-27,Arsenal,Luton Town,2,0,0.0
+1991-1992,4,1991-08-27,Crystal Palace,Wimbledon,3,2,0.0
+1991-1992,4,1991-08-28,West Ham,Aston Villa,3,1,0.0
+1991-1992,4,1991-08-28,Nott'ham Forest,Tottenham,1,3,1.0
+1991-1992,4,1991-08-28,Norwich City,Manchester City,0,0,0.5
+1991-1992,4,1991-08-28,Manchester Utd,Oldham Athletic,1,0,0.0
+1991-1992,4,1991-08-28,Sheffield Weds,Everton,2,1,0.0
+1991-1992,4,1991-08-28,Southampton,Leeds United,0,4,1.0
+1991-1992,4,1991-08-28,Chelsea,Notts County,2,2,0.5
+1991-1992,4,1991-08-28,Coventry City,Sheffield Utd,3,1,0.0
+1991-1992,5,1991-08-31,Norwich City,Tottenham,0,1,1.0
+1991-1992,5,1991-08-31,Liverpool,Everton,3,1,0.0
+1991-1992,5,1991-08-31,Crystal Palace,Sheffield Utd,2,1,0.0
+1991-1992,5,1991-08-31,West Ham,Notts County,0,2,1.0
+1991-1992,5,1991-08-31,Sheffield Weds,QPR,4,1,0.0
+1991-1992,5,1991-08-31,Manchester Utd,Leeds United,1,1,0.5
+1991-1992,5,1991-08-31,Arsenal,Manchester City,2,1,0.0
+1991-1992,5,1991-08-31,Nott'ham Forest,Oldham Athletic,3,1,0.0
+1991-1992,5,1991-08-31,Coventry City,Wimbledon,0,1,1.0
+1991-1992,5,1991-08-31,Chelsea,Luton Town,4,1,0.0
+1991-1992,5,1991-08-31,Southampton,Aston Villa,1,1,0.5
+1991-1992,6,1991-09-03,Wimbledon,Manchester Utd,1,2,1.0
+1991-1992,6,1991-09-03,Oldham Athletic,Coventry City,2,1,0.0
+1991-1992,6,1991-09-03,Notts County,Sheffield Weds,2,1,0.0
+1991-1992,6,1991-09-03,Everton,Norwich City,1,1,0.5
+1991-1992,6,1991-09-03,Leeds United,Arsenal,2,2,0.5
+1991-1992,6,1991-09-03,Sheffield Utd,Chelsea,0,1,1.0
+1991-1992,6,1991-09-04,QPR,West Ham,0,0,0.5
+1991-1992,6,1991-09-04,Luton Town,Southampton,2,1,0.0
+1991-1992,6,1991-09-04,Aston Villa,Crystal Palace,0,1,1.0
+1991-1992,6,1991-09-04,Manchester City,Nott'ham Forest,2,1,0.0
+1991-1992,7,1991-09-07,Oldham Athletic,Sheffield Utd,2,1,0.0
+1991-1992,7,1991-09-07,Leeds United,Manchester City,3,0,0.0
+1991-1992,7,1991-09-07,Notts County,Liverpool,1,2,1.0
+1991-1992,7,1991-09-07,QPR,Southampton,2,2,0.5
+1991-1992,7,1991-09-07,Everton,Crystal Palace,2,2,0.5
+1991-1992,7,1991-09-07,West Ham,Chelsea,1,1,0.5
+1991-1992,7,1991-09-07,Wimbledon,Luton Town,3,0,0.0
+1991-1992,7,1991-09-07,Sheffield Weds,Nott'ham Forest,2,1,0.0
+1991-1992,7,1991-09-07,Manchester Utd,Norwich City,3,0,0.0
+1991-1992,7,1991-09-07,Arsenal,Coventry City,1,2,1.0
+1991-1992,7,1991-09-07,Aston Villa,Tottenham,0,0,0.5
+1991-1992,8,1991-09-14,Luton Town,Oldham Athletic,2,1,0.0
+1991-1992,8,1991-09-14,Southampton,Manchester Utd,0,1,1.0
+1991-1992,8,1991-09-14,Coventry City,Notts County,1,0,0.0
+1991-1992,8,1991-09-14,Norwich City,West Ham,2,1,0.0
+1991-1992,8,1991-09-14,Chelsea,Leeds United,0,1,1.0
+1991-1992,8,1991-09-14,Nott'ham Forest,Wimbledon,4,2,0.0
+1991-1992,8,1991-09-14,Sheffield Utd,Everton,2,1,0.0
+1991-1992,8,1991-09-14,Liverpool,Aston Villa,1,1,0.5
+1991-1992,8,1991-09-14,Tottenham,QPR,2,0,0.0
+1991-1992,8,1991-09-14,Manchester City,Sheffield Weds,0,1,1.0
+1991-1992,8,1991-09-14,Crystal Palace,Arsenal,1,4,1.0
+1991-1992,9,1991-09-17,Crystal Palace,West Ham,2,3,1.0
+1991-1992,9,1991-09-17,Sheffield Utd,Notts County,1,3,1.0
+1991-1992,9,1991-09-17,Manchester City,Everton,0,1,1.0
+1991-1992,9,1991-09-17,Luton Town,QPR,0,1,1.0
+1991-1992,9,1991-09-18,Southampton,Wimbledon,1,0,0.0
+1991-1992,9,1991-09-18,Chelsea,Aston Villa,2,0,0.0
+1991-1992,9,1991-09-18,Norwich City,Sheffield Weds,1,0,0.0
+1991-1992,9,1991-09-18,Coventry City,Leeds United,0,0,0.5
+1991-1992,10,1991-09-21,Manchester Utd,Luton Town,5,0,0.0
+1991-1992,10,1991-09-21,Sheffield Weds,Southampton,2,0,0.0
+1991-1992,10,1991-09-21,Oldham Athletic,Crystal Palace,2,3,1.0
+1991-1992,10,1991-09-21,Everton,Coventry City,3,0,0.0
+1991-1992,10,1991-09-21,Wimbledon,Tottenham,3,5,1.0
+1991-1992,10,1991-09-21,QPR,Chelsea,2,2,0.5
+1991-1992,10,1991-09-21,Aston Villa,Nott'ham Forest,3,1,0.0
+1991-1992,10,1991-09-21,Notts County,Norwich City,2,2,0.5
+1991-1992,10,1991-09-21,Leeds United,Liverpool,1,0,0.0
+1991-1992,10,1991-09-21,West Ham,Manchester City,1,2,1.0
+1991-1992,10,1991-09-21,Arsenal,Sheffield Utd,5,2,0.0
+1991-1992,11,1991-09-28,Norwich City,Leeds United,2,2,0.5
+1991-1992,11,1991-09-28,Chelsea,Everton,2,2,0.5
+1991-1992,11,1991-09-28,Southampton,Arsenal,0,4,1.0
+1991-1992,11,1991-09-28,Sheffield Utd,Wimbledon,0,0,0.5
+1991-1992,11,1991-09-28,Coventry City,Aston Villa,1,0,0.0
+1991-1992,11,1991-09-28,Crystal Palace,QPR,2,2,0.5
+1991-1992,11,1991-09-28,Liverpool,Sheffield Weds,1,1,0.5
+1991-1992,11,1991-09-28,Manchester City,Oldham Athletic,1,2,1.0
+1991-1992,11,1991-09-28,Luton Town,Notts County,1,1,0.5
+1991-1992,11,1991-09-28,Tottenham,Manchester Utd,1,2,1.0
+1991-1992,11,1991-09-28,Nott'ham Forest,West Ham,2,2,0.5
+1991-1992,1,1991-10-01,Crystal Palace,Leeds United,1,0,0.0
+1991-1992,2,1991-10-02,Wimbledon,Sheffield Weds,2,1,0.0
+1991-1992,12,1991-10-05,Sheffield Weds,Crystal Palace,4,1,0.0
+1991-1992,12,1991-10-05,Leeds United,Sheffield Utd,4,3,0.0
+1991-1992,12,1991-10-05,Oldham Athletic,Southampton,1,1,0.5
+1991-1992,12,1991-10-05,Arsenal,Chelsea,3,2,0.0
+1991-1992,12,1991-10-05,QPR,Nott'ham Forest,0,2,1.0
+1991-1992,12,1991-10-05,Wimbledon,Norwich City,3,1,0.0
+1991-1992,12,1991-10-05,Aston Villa,Luton Town,4,0,0.0
+1991-1992,12,1991-10-05,Everton,Tottenham,3,1,0.0
+1991-1992,12,1991-10-05,West Ham,Coventry City,0,1,1.0
+1991-1992,12,1991-10-06,Notts County,Manchester City,1,3,1.0
+1991-1992,12,1991-10-06,Manchester Utd,Liverpool,0,0,0.5
+1991-1992,13,1991-10-19,Southampton,Norwich City,0,0,0.5
+1991-1992,13,1991-10-19,Wimbledon,QPR,0,1,1.0
+1991-1992,13,1991-10-19,Notts County,Leeds United,2,4,1.0
+1991-1992,13,1991-10-19,Manchester Utd,Arsenal,1,1,0.5
+1991-1992,13,1991-10-19,Coventry City,Crystal Palace,1,2,1.0
+1991-1992,13,1991-10-19,Everton,Aston Villa,0,2,1.0
+1991-1992,13,1991-10-19,Chelsea,Liverpool,2,2,0.5
+1991-1992,13,1991-10-19,Sheffield Utd,Nott'ham Forest,4,2,0.0
+1991-1992,13,1991-10-19,Luton Town,Sheffield Weds,2,2,0.5
+1991-1992,13,1991-10-19,Tottenham,Manchester City,0,1,1.0
+1991-1992,13,1991-10-19,Oldham Athletic,West Ham,2,2,0.5
+1991-1992,14,1991-10-26,Leeds United,Oldham Athletic,1,0,0.0
+1991-1992,14,1991-10-26,Sheffield Weds,Manchester Utd,3,2,0.0
+1991-1992,14,1991-10-26,Aston Villa,Wimbledon,2,1,0.0
+1991-1992,14,1991-10-26,Manchester City,Sheffield Utd,3,2,0.0
+1991-1992,14,1991-10-26,QPR,Everton,3,1,0.0
+1991-1992,14,1991-10-26,Liverpool,Coventry City,1,0,0.0
+1991-1992,14,1991-10-26,Nott'ham Forest,Southampton,1,3,1.0
+1991-1992,14,1991-10-26,Crystal Palace,Chelsea,0,0,0.5
+1991-1992,14,1991-10-26,Norwich City,Luton Town,1,0,0.0
+1991-1992,14,1991-10-26,Arsenal,Notts County,2,0,0.0
+1991-1992,14,1991-10-26,West Ham,Tottenham,2,1,0.0
+1991-1992,15,1991-11-02,Liverpool,Crystal Palace,1,2,1.0
+1991-1992,15,1991-11-02,QPR,Aston Villa,0,1,1.0
+1991-1992,15,1991-11-02,Luton Town,Everton,0,1,1.0
+1991-1992,15,1991-11-02,Wimbledon,Leeds United,0,0,0.5
+1991-1992,15,1991-11-02,Norwich City,Nott'ham Forest,0,0,0.5
+1991-1992,15,1991-11-02,Southampton,Manchester City,0,3,1.0
+1991-1992,15,1991-11-02,Sheffield Weds,Tottenham,0,0,0.5
+1991-1992,15,1991-11-02,Manchester Utd,Sheffield Utd,2,0,0.0
+1991-1992,15,1991-11-02,Coventry City,Chelsea,0,1,1.0
+1991-1992,15,1991-11-02,Arsenal,West Ham,0,1,1.0
+1991-1992,15,1991-11-02,Notts County,Oldham Athletic,2,0,0.0
+1991-1992,16,1991-11-16,Chelsea,Norwich City,0,3,1.0
+1991-1992,16,1991-11-16,Everton,Wimbledon,2,0,0.0
+1991-1992,16,1991-11-16,Oldham Athletic,Arsenal,1,1,0.5
+1991-1992,16,1991-11-16,Nott'ham Forest,Coventry City,1,0,0.0
+1991-1992,16,1991-11-16,Aston Villa,Notts County,1,0,0.0
+1991-1992,16,1991-11-16,Manchester City,Manchester Utd,0,0,0.5
+1991-1992,16,1991-11-16,Crystal Palace,Southampton,1,0,0.0
+1991-1992,16,1991-11-16,Leeds United,QPR,2,0,0.0
+1991-1992,16,1991-11-16,Tottenham,Luton Town,4,1,0.0
+1991-1992,16,1991-11-17,West Ham,Liverpool,0,0,0.5
+1991-1992,16,1991-11-17,Sheffield Utd,Sheffield Weds,2,0,0.0
+1991-1992,17,1991-11-23,Southampton,Chelsea,1,0,0.0
+1991-1992,17,1991-11-23,Tottenham,Sheffield Utd,0,1,1.0
+1991-1992,17,1991-11-23,Nott'ham Forest,Crystal Palace,5,1,0.0
+1991-1992,17,1991-11-23,Sheffield Weds,Arsenal,1,1,0.5
+1991-1992,17,1991-11-23,Luton Town,Manchester City,2,2,0.5
+1991-1992,17,1991-11-23,QPR,Oldham Athletic,1,3,1.0
+1991-1992,17,1991-11-23,Wimbledon,Liverpool,0,0,0.5
+1991-1992,17,1991-11-23,Norwich City,Coventry City,3,2,0.0
+1991-1992,17,1991-11-23,Everton,Notts County,1,0,0.0
+1991-1992,17,1991-11-23,Manchester Utd,West Ham,2,1,0.0
+1991-1992,17,1991-11-24,Aston Villa,Leeds United,1,4,1.0
+1991-1992,18,1991-11-30,Chelsea,Nott'ham Forest,1,0,0.0
+1991-1992,18,1991-11-30,Coventry City,Southampton,2,0,0.0
+1991-1992,18,1991-11-30,Notts County,QPR,0,1,1.0
+1991-1992,18,1991-11-30,Manchester City,Wimbledon,0,0,0.5
+1991-1992,18,1991-11-30,Liverpool,Norwich City,2,1,0.0
+1991-1992,18,1991-11-30,Crystal Palace,Manchester Utd,1,3,1.0
+1991-1992,18,1991-11-30,West Ham,Sheffield Weds,1,2,1.0
+1991-1992,18,1991-11-30,Oldham Athletic,Aston Villa,3,2,0.0
+1991-1992,18,1991-11-30,Leeds United,Everton,1,0,0.0
+1991-1992,18,1991-11-30,Sheffield Utd,Luton Town,1,1,0.5
+1991-1992,18,1991-12-01,Arsenal,Tottenham,2,0,0.0
+1991-1992,19,1991-12-07,Luton Town,Leeds United,0,2,1.0
+1991-1992,19,1991-12-07,Wimbledon,Oldham Athletic,2,1,0.0
+1991-1992,19,1991-12-07,Tottenham,Notts County,2,1,0.0
+1991-1992,19,1991-12-07,Southampton,Liverpool,1,1,0.5
+1991-1992,19,1991-12-07,Everton,West Ham,4,0,0.0
+1991-1992,19,1991-12-07,Sheffield Weds,Chelsea,3,0,0.0
+1991-1992,19,1991-12-07,Norwich City,Crystal Palace,3,3,0.5
+1991-1992,19,1991-12-07,QPR,Sheffield Utd,1,0,0.0
+1991-1992,19,1991-12-07,Aston Villa,Manchester City,3,1,0.0
+1991-1992,19,1991-12-07,Manchester Utd,Coventry City,4,0,0.0
+1991-1992,19,1991-12-08,Nott'ham Forest,Arsenal,3,2,0.0
+1991-1992,20,1991-12-14,Oldham Athletic,Everton,2,2,0.5
+1991-1992,20,1991-12-14,Liverpool,Nott'ham Forest,2,0,0.0
+1991-1992,20,1991-12-14,Sheffield Utd,Aston Villa,2,0,0.0
+1991-1992,20,1991-12-14,Leeds United,Tottenham,1,1,0.5
+1991-1992,20,1991-12-14,Manchester City,QPR,2,2,0.5
+1991-1992,20,1991-12-15,Chelsea,Manchester Utd,1,3,1.0
+1991-1992,6,1991-12-18,Tottenham,Liverpool,1,2,1.0
+1991-1992,21,1991-12-20,Southampton,Notts County,1,1,0.5
+1991-1992,21,1991-12-20,Luton Town,Coventry City,1,0,0.0
+1991-1992,21,1991-12-21,Liverpool,Manchester City,2,2,0.5
+1991-1992,21,1991-12-21,Norwich City,QPR,0,1,1.0
+1991-1992,21,1991-12-21,Sheffield Weds,Wimbledon,2,0,0.0
+1991-1992,21,1991-12-21,West Ham,Sheffield Utd,1,1,0.5
+1991-1992,21,1991-12-21,Arsenal,Everton,4,2,0.0
+1991-1992,21,1991-12-21,Chelsea,Oldham Athletic,4,2,0.0
+1991-1992,21,1991-12-22,Crystal Palace,Tottenham,1,2,1.0
+1991-1992,21,1991-12-22,Nott'ham Forest,Leeds United,0,0,0.5
+1991-1992,22,1991-12-26,Oldham Athletic,Manchester Utd,3,6,1.0
+1991-1992,22,1991-12-26,Manchester City,Norwich City,2,1,0.0
+1991-1992,22,1991-12-26,Sheffield Utd,Coventry City,0,3,1.0
+1991-1992,22,1991-12-26,Luton Town,Arsenal,1,0,0.0
+1991-1992,22,1991-12-26,Leeds United,Southampton,3,3,0.5
+1991-1992,22,1991-12-26,Tottenham,Nott'ham Forest,1,2,1.0
+1991-1992,22,1991-12-26,QPR,Liverpool,0,0,0.5
+1991-1992,22,1991-12-26,Notts County,Chelsea,2,0,0.0
+1991-1992,22,1991-12-26,Aston Villa,West Ham,3,1,0.0
+1991-1992,22,1991-12-26,Everton,Sheffield Weds,0,1,1.0
+1991-1992,22,1991-12-26,Wimbledon,Crystal Palace,1,1,0.5
+1991-1992,23,1991-12-28,Wimbledon,Coventry City,1,1,0.5
+1991-1992,23,1991-12-28,Everton,Liverpool,1,1,0.5
+1991-1992,23,1991-12-28,Manchester City,Arsenal,1,0,0.0
+1991-1992,23,1991-12-28,Oldham Athletic,Nott'ham Forest,2,1,0.0
+1991-1992,23,1991-12-28,QPR,Sheffield Weds,1,1,0.5
+1991-1992,23,1991-12-28,Tottenham,Norwich City,3,0,0.0
+1991-1992,23,1991-12-28,Aston Villa,Southampton,2,1,0.0
+1991-1992,23,1991-12-28,Notts County,West Ham,3,0,0.0
+1991-1992,23,1991-12-28,Sheffield Utd,Crystal Palace,1,1,0.5
+1991-1992,23,1991-12-28,Luton Town,Chelsea,2,0,0.0
+1991-1992,23,1991-12-29,Leeds United,Manchester Utd,1,1,0.5
+1991-1992,24,1992-01-01,Coventry City,Tottenham,1,2,1.0
+1991-1992,24,1992-01-01,Crystal Palace,Notts County,1,0,0.0
+1991-1992,24,1992-01-01,Southampton,Everton,1,2,1.0
+1991-1992,24,1992-01-01,Norwich City,Aston Villa,2,1,0.0
+1991-1992,24,1992-01-01,Arsenal,Wimbledon,1,1,0.5
+1991-1992,24,1992-01-01,Liverpool,Sheffield Utd,2,1,0.0
+1991-1992,24,1992-01-01,Manchester Utd,QPR,1,4,1.0
+1991-1992,24,1992-01-01,West Ham,Leeds United,1,3,1.0
+1991-1992,24,1992-01-01,Nott'ham Forest,Luton Town,1,1,0.5
+1991-1992,24,1992-01-01,Sheffield Weds,Oldham Athletic,1,1,0.5
+1991-1992,24,1992-01-01,Chelsea,Manchester City,1,1,0.5
+1991-1992,25,1992-01-11,Arsenal,Aston Villa,0,0,0.5
+1991-1992,25,1992-01-11,Chelsea,Tottenham,2,0,0.0
+1991-1992,25,1992-01-11,Coventry City,QPR,2,2,0.5
+1991-1992,25,1992-01-11,Manchester Utd,Everton,1,0,0.0
+1991-1992,25,1992-01-11,Liverpool,Luton Town,2,1,0.0
+1991-1992,25,1992-01-11,Nott'ham Forest,Notts County,1,1,0.5
+1991-1992,25,1992-01-11,Crystal Palace,Manchester City,1,1,0.5
+1991-1992,25,1992-01-11,West Ham,Wimbledon,1,1,0.5
+1991-1992,25,1992-01-11,Southampton,Sheffield Utd,2,4,1.0
+1991-1992,25,1992-01-11,Norwich City,Oldham Athletic,1,2,1.0
+1991-1992,25,1992-01-12,Sheffield Weds,Leeds United,1,6,1.0
+1991-1992,26,1992-01-18,Wimbledon,Chelsea,1,2,1.0
+1991-1992,26,1992-01-18,Tottenham,Southampton,1,2,1.0
+1991-1992,26,1992-01-18,Aston Villa,Sheffield Weds,0,1,1.0
+1991-1992,26,1992-01-18,Luton Town,West Ham,0,1,1.0
+1991-1992,26,1992-01-18,Oldham Athletic,Liverpool,2,3,1.0
+1991-1992,26,1992-01-18,Leeds United,Crystal Palace,1,1,0.5
+1991-1992,26,1992-01-18,Manchester City,Coventry City,1,0,0.0
+1991-1992,26,1992-01-18,Notts County,Manchester Utd,1,1,0.5
+1991-1992,26,1992-01-18,QPR,Arsenal,0,0,0.5
+1991-1992,26,1992-01-18,Sheffield Utd,Norwich City,1,0,0.0
+1991-1992,26,1992-01-19,Everton,Nott'ham Forest,1,1,0.5
+1991-1992,21,1992-01-22,Manchester Utd,Aston Villa,1,0,0.0
+1991-1992,9,1992-01-25,Tottenham,Oldham Athletic,0,0,0.5
+1991-1992,9,1992-01-29,Liverpool,Arsenal,2,0,0.0
+1991-1992,27,1992-02-01,Arsenal,Manchester Utd,1,1,0.5
+1991-1992,27,1992-02-01,Liverpool,Chelsea,1,2,1.0
+1991-1992,27,1992-02-01,QPR,Wimbledon,1,1,0.5
+1991-1992,27,1992-02-01,Leeds United,Notts County,3,0,0.0
+1991-1992,27,1992-02-01,Norwich City,Southampton,2,1,0.0
+1991-1992,27,1992-02-01,Nott'ham Forest,Sheffield Utd,2,5,1.0
+1991-1992,27,1992-02-01,Manchester City,Tottenham,1,0,0.0
+1991-1992,27,1992-02-01,Sheffield Weds,Luton Town,3,2,0.0
+1991-1992,27,1992-02-01,West Ham,Oldham Athletic,1,0,0.0
+1991-1992,27,1992-02-01,Crystal Palace,Coventry City,0,1,1.0
+1991-1992,27,1992-02-02,Aston Villa,Everton,0,0,0.5
+1991-1992,28,1992-02-08,Luton Town,Norwich City,2,0,0.0
+1991-1992,28,1992-02-08,Everton,QPR,0,0,0.5
+1991-1992,28,1992-02-08,Notts County,Arsenal,0,1,1.0
+1991-1992,28,1992-02-08,Sheffield Utd,Manchester City,4,2,0.0
+1991-1992,28,1992-02-08,Wimbledon,Aston Villa,2,0,0.0
+1991-1992,28,1992-02-08,Oldham Athletic,Leeds United,2,0,0.0
+1991-1992,28,1992-02-08,Manchester Utd,Sheffield Weds,1,1,0.5
+1991-1992,28,1992-02-08,Coventry City,Liverpool,0,0,0.5
+1991-1992,28,1992-02-08,Chelsea,Crystal Palace,1,1,0.5
+1991-1992,20,1992-02-11,Arsenal,Norwich City,1,1,0.5
+1991-1992,29,1992-02-12,Chelsea,Southampton,1,1,0.5
+1991-1992,29,1992-02-15,Oldham Athletic,QPR,2,1,0.0
+1991-1992,29,1992-02-15,Arsenal,Sheffield Weds,7,1,0.0
+1991-1992,29,1992-02-15,Manchester City,Luton Town,4,0,0.0
+1991-1992,2,1992-02-16,Tottenham,Crystal Palace,0,1,1.0
+1991-1992,30,1992-02-22,Luton Town,Sheffield Utd,2,1,0.0
+1991-1992,30,1992-02-22,Tottenham,Arsenal,1,1,0.5
+1991-1992,30,1992-02-22,Manchester Utd,Crystal Palace,2,0,0.0
+1991-1992,30,1992-02-22,Southampton,Coventry City,0,0,0.5
+1991-1992,30,1992-02-22,Nott'ham Forest,Chelsea,1,1,0.5
+1991-1992,30,1992-02-22,Norwich City,Liverpool,3,0,0.0
+1991-1992,30,1992-02-22,Wimbledon,Manchester City,2,1,0.0
+1991-1992,30,1992-02-22,QPR,Notts County,1,1,0.5
+1991-1992,30,1992-02-22,Aston Villa,Oldham Athletic,1,0,0.0
+1991-1992,30,1992-02-22,Sheffield Weds,West Ham,2,1,0.0
+1991-1992,30,1992-02-23,Everton,Leeds United,1,1,0.5
+1991-1992,20,1992-02-25,Notts County,Wimbledon,1,1,0.5
+1991-1992,20,1992-02-25,Crystal Palace,Luton Town,1,1,0.5
+1991-1992,32,1992-02-26,Manchester Utd,Chelsea,1,1,0.5
+1991-1992,31,1992-02-29,Liverpool,Southampton,0,0,0.5
+1991-1992,31,1992-02-29,West Ham,Everton,0,2,1.0
+1991-1992,31,1992-02-29,Coventry City,Manchester Utd,0,0,0.5
+1991-1992,31,1992-02-29,Leeds United,Luton Town,2,0,0.0
+1991-1992,31,1992-02-29,Chelsea,Sheffield Weds,0,3,1.0
+1991-1992,31,1992-02-29,Manchester City,Aston Villa,2,0,0.0
+1991-1992,31,1992-02-29,Crystal Palace,Norwich City,3,4,1.0
+1991-1992,31,1992-02-29,Oldham Athletic,Wimbledon,0,1,1.0
+1991-1992,31,1992-02-29,Sheffield Utd,QPR,0,0,0.5
+1991-1992,20,1992-03-03,Southampton,West Ham,1,0,0.0
+1991-1992,29,1992-03-03,Crystal Palace,Nott'ham Forest,0,0,0.5
+1991-1992,29,1992-03-03,Leeds United,Aston Villa,0,0,0.5
+1991-1992,29,1992-03-04,Coventry City,Norwich City,0,0,0.5
+1991-1992,32,1992-03-07,Sheffield Weds,Coventry City,1,1,0.5
+1991-1992,32,1992-03-07,Wimbledon,Notts County,2,0,0.0
+1991-1992,32,1992-03-07,Everton,Oldham Athletic,2,1,0.0
+1991-1992,32,1992-03-07,QPR,Manchester City,4,0,0.0
+1991-1992,32,1992-03-07,Luton Town,Crystal Palace,1,1,0.5
+1991-1992,32,1992-03-07,Tottenham,Leeds United,1,3,1.0
+1991-1992,33,1992-03-10,Wimbledon,Everton,0,0,0.5
+1991-1992,33,1992-03-10,Arsenal,Oldham Athletic,2,1,0.0
+1991-1992,33,1992-03-10,Notts County,Aston Villa,0,0,0.5
+1991-1992,33,1992-03-11,Luton Town,Tottenham,0,0,0.5
+1991-1992,33,1992-03-11,Sheffield Weds,Sheffield Utd,1,3,1.0
+1991-1992,33,1992-03-11,Liverpool,West Ham,1,0,0.0
+1991-1992,33,1992-03-11,Southampton,Crystal Palace,1,0,0.0
+1991-1992,33,1992-03-11,Norwich City,Chelsea,0,1,1.0
+1991-1992,33,1992-03-11,QPR,Leeds United,4,1,0.0
+1991-1992,33,1992-03-11,Coventry City,Nott'ham Forest,0,2,1.0
+1991-1992,34,1992-03-14,Nott'ham Forest,Norwich City,2,0,0.0
+1991-1992,34,1992-03-14,Crystal Palace,Liverpool,1,0,0.0
+1991-1992,34,1992-03-14,Tottenham,Sheffield Weds,0,2,1.0
+1991-1992,34,1992-03-14,Aston Villa,QPR,0,1,1.0
+1991-1992,34,1992-03-14,West Ham,Arsenal,0,2,1.0
+1991-1992,34,1992-03-14,Chelsea,Coventry City,0,1,1.0
+1991-1992,34,1992-03-14,Everton,Luton Town,1,1,0.5
+1991-1992,34,1992-03-14,Leeds United,Wimbledon,5,1,0.0
+1991-1992,34,1992-03-14,Sheffield Utd,Manchester Utd,1,2,1.0
+1991-1992,34,1992-03-14,Oldham Athletic,Notts County,4,3,0.0
+1991-1992,34,1992-03-15,Manchester City,Southampton,0,1,1.0
+1991-1992,29,1992-03-17,Notts County,Everton,0,0,0.5
+1991-1992,9,1992-03-18,Nott'ham Forest,Manchester Utd,1,0,0.0
+1991-1992,35,1992-03-21,Liverpool,Tottenham,2,1,0.0
+1991-1992,35,1992-03-21,Norwich City,Everton,4,3,0.0
+1991-1992,35,1992-03-21,Sheffield Weds,Notts County,1,0,0.0
+1991-1992,35,1992-03-21,Chelsea,Sheffield Utd,1,2,1.0
+1991-1992,35,1992-03-21,Manchester Utd,Wimbledon,0,0,0.5
+1991-1992,35,1992-03-21,Coventry City,Oldham Athletic,1,1,0.5
+1991-1992,35,1992-03-21,West Ham,QPR,2,2,0.5
+1991-1992,35,1992-03-21,Southampton,Luton Town,2,1,0.0
+1991-1992,35,1992-03-21,Crystal Palace,Aston Villa,0,0,0.5
+1991-1992,35,1992-03-21,Nott'ham Forest,Manchester City,2,0,0.0
+1991-1992,35,1992-03-22,Arsenal,Leeds United,1,1,0.5
+1991-1992,36,1992-03-28,Wimbledon,Arsenal,1,3,1.0
+1991-1992,36,1992-03-28,Leeds United,West Ham,0,0,0.5
+1991-1992,36,1992-03-28,Sheffield Utd,Liverpool,2,0,0.0
+1991-1992,36,1992-03-28,Oldham Athletic,Sheffield Weds,3,0,0.0
+1991-1992,36,1992-03-28,Tottenham,Coventry City,4,3,0.0
+1991-1992,36,1992-03-28,Notts County,Crystal Palace,2,3,1.0
+1991-1992,36,1992-03-28,Manchester City,Chelsea,0,0,0.5
+1991-1992,36,1992-03-28,Aston Villa,Norwich City,1,0,0.0
+1991-1992,36,1992-03-28,QPR,Manchester Utd,0,0,0.5
+1991-1992,31,1992-03-31,Arsenal,Nott'ham Forest,3,3,0.5
+1991-1992,32,1992-03-31,Aston Villa,Sheffield Utd,1,1,0.5
+1991-1992,37,1992-03-31,Norwich City,Manchester Utd,1,3,1.0
+1991-1992,37,1992-03-31,Liverpool,Notts County,4,0,0.0
+1991-1992,28,1992-04-01,Tottenham,West Ham,3,0,0.0
+1991-1992,36,1992-04-01,Everton,Southampton,0,1,1.0
+1991-1992,38,1992-04-02,Wimbledon,Nott'ham Forest,3,0,0.0
+1991-1992,37,1992-04-04,Crystal Palace,Everton,2,0,0.0
+1991-1992,37,1992-04-04,Chelsea,West Ham,2,1,0.0
+1991-1992,37,1992-04-04,Nott'ham Forest,Sheffield Weds,0,2,1.0
+1991-1992,37,1992-04-04,Coventry City,Arsenal,0,1,1.0
+1991-1992,37,1992-04-04,Southampton,QPR,2,1,0.0
+1991-1992,37,1992-04-04,Luton Town,Wimbledon,2,1,0.0
+1991-1992,37,1992-04-04,Sheffield Utd,Oldham Athletic,2,0,0.0
+1991-1992,37,1992-04-04,Tottenham,Aston Villa,2,5,1.0
+1991-1992,37,1992-04-04,Manchester City,Leeds United,4,0,0.0
+1991-1992,31,1992-04-07,Notts County,Tottenham,0,2,1.0
+1991-1992,33,1992-04-07,Manchester Utd,Manchester City,1,1,0.5
+1991-1992,20,1992-04-08,Coventry City,Sheffield Weds,0,0,0.5
+1991-1992,28,1992-04-08,Southampton,Nott'ham Forest,0,1,1.0
+1991-1992,29,1992-04-08,Liverpool,Wimbledon,2,3,1.0
+1991-1992,32,1992-04-08,Norwich City,Arsenal,1,3,1.0
+1991-1992,38,1992-04-11,Notts County,Coventry City,1,0,0.0
+1991-1992,38,1992-04-11,Sheffield Weds,Manchester City,2,0,0.0
+1991-1992,38,1992-04-11,Leeds United,Chelsea,3,0,0.0
+1991-1992,38,1992-04-11,Oldham Athletic,Luton Town,5,1,0.0
+1991-1992,38,1992-04-11,Arsenal,Crystal Palace,4,1,0.0
+1991-1992,38,1992-04-11,Everton,Sheffield Utd,0,2,1.0
+1991-1992,38,1992-04-11,West Ham,Norwich City,4,0,0.0
+1991-1992,38,1992-04-11,QPR,Tottenham,1,2,1.0
+1991-1992,38,1992-04-11,Aston Villa,Liverpool,1,0,0.0
+1991-1992,29,1992-04-14,Sheffield Utd,Tottenham,2,0,0.0
+1991-1992,32,1992-04-14,West Ham,Southampton,0,1,1.0
+1991-1992,36,1992-04-14,Luton Town,Nott'ham Forest,2,1,0.0
+1991-1992,38,1992-04-16,Manchester Utd,Southampton,1,0,0.0
+1991-1992,39,1992-04-18,Liverpool,Leeds United,0,0,0.5
+1991-1992,39,1992-04-18,Crystal Palace,Oldham Athletic,0,0,0.5
+1991-1992,39,1992-04-18,Sheffield Utd,Arsenal,1,1,0.5
+1991-1992,39,1992-04-18,Luton Town,Manchester Utd,1,1,0.5
+1991-1992,39,1992-04-18,Manchester City,West Ham,2,0,0.0
+1991-1992,39,1992-04-18,Chelsea,QPR,2,1,0.0
+1991-1992,39,1992-04-18,Norwich City,Notts County,0,1,1.0
+1991-1992,39,1992-04-18,Tottenham,Wimbledon,3,2,0.0
+1991-1992,39,1992-04-18,Southampton,Sheffield Weds,0,1,1.0
+1991-1992,39,1992-04-18,Nott'ham Forest,Aston Villa,2,0,0.0
+1991-1992,39,1992-04-18,Coventry City,Everton,0,1,1.0
+1991-1992,40,1992-04-20,West Ham,Crystal Palace,0,2,1.0
+1991-1992,40,1992-04-20,Leeds United,Coventry City,2,0,0.0
+1991-1992,40,1992-04-20,QPR,Luton Town,2,1,0.0
+1991-1992,40,1992-04-20,Manchester Utd,Nott'ham Forest,1,2,1.0
+1991-1992,40,1992-04-20,Everton,Manchester City,1,2,1.0
+1991-1992,40,1992-04-20,Arsenal,Liverpool,4,0,0.0
+1991-1992,40,1992-04-20,Sheffield Weds,Norwich City,2,0,0.0
+1991-1992,40,1992-04-20,Aston Villa,Chelsea,3,1,0.0
+1991-1992,40,1992-04-20,Wimbledon,Southampton,0,1,1.0
+1991-1992,40,1992-04-20,Oldham Athletic,Tottenham,1,0,0.0
+1991-1992,40,1992-04-20,Notts County,Sheffield Utd,1,3,1.0
+1991-1992,29,1992-04-22,West Ham,Manchester Utd,1,0,0.0
+1991-1992,32,1992-04-22,Nott'ham Forest,Liverpool,1,1,0.5
+1991-1992,41,1992-04-25,Luton Town,Aston Villa,2,0,0.0
+1991-1992,41,1992-04-25,Southampton,Oldham Athletic,1,0,0.0
+1991-1992,41,1992-04-25,Norwich City,Wimbledon,1,1,0.5
+1991-1992,41,1992-04-25,Crystal Palace,Sheffield Weds,1,1,0.5
+1991-1992,41,1992-04-25,Chelsea,Arsenal,1,1,0.5
+1991-1992,41,1992-04-25,Nott'ham Forest,QPR,1,1,0.5
+1991-1992,41,1992-04-25,Tottenham,Everton,3,3,0.5
+1991-1992,41,1992-04-25,Manchester City,Notts County,2,0,0.0
+1991-1992,41,1992-04-25,Coventry City,West Ham,1,0,0.0
+1991-1992,41,1992-04-26,Liverpool,Manchester Utd,2,0,0.0
+1991-1992,41,1992-04-26,Sheffield Utd,Leeds United,2,3,1.0
+1991-1992,42,1992-05-02,Oldham Athletic,Manchester City,2,5,1.0
+1991-1992,42,1992-05-02,Aston Villa,Coventry City,2,0,0.0
+1991-1992,42,1992-05-02,Wimbledon,Sheffield Utd,3,0,0.0
+1991-1992,42,1992-05-02,Leeds United,Norwich City,1,0,0.0
+1991-1992,42,1992-05-02,Everton,Chelsea,2,1,0.0
+1991-1992,42,1992-05-02,QPR,Crystal Palace,1,0,0.0
+1991-1992,42,1992-05-02,West Ham,Nott'ham Forest,3,0,0.0
+1991-1992,42,1992-05-02,Notts County,Luton Town,2,1,0.0
+1991-1992,42,1992-05-02,Sheffield Weds,Liverpool,0,0,0.5
+1991-1992,42,1992-05-02,Arsenal,Southampton,5,1,0.0
+1991-1992,42,1992-05-02,Manchester Utd,Tottenham,3,1,0.0

@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1998-1999,1,1998-08-29,Valencia,Atlético Madrid,1,0,0.0
+1998-1999,1,1998-08-29,Alavés,Real Betis,0,0,0.5
+1998-1999,1,1998-08-30,Racing Sant,Barcelona,0,0,0.5
+1998-1999,1,1998-08-30,Celta Vigo,Dep La Coruña,0,0,0.5
+1998-1999,1,1998-08-30,Real Sociedad,Oviedo,3,3,0.5
+1998-1999,1,1998-08-30,Espanyol,Tenerife,2,1,0.0
+1998-1999,1,1998-08-30,Salamanca,Mallorca,0,0,0.5
+1998-1999,1,1998-08-30,Zaragoza,Athletic Club,2,0,0.0
+1998-1999,1,1998-08-30,Extremadura,Valladolid,0,0,0.5
+1998-1999,1,1998-08-31,Real Madrid,Villarreal,4,1,0.0
+1998-1999,2,1998-09-12,Dep La Coruña,Valencia,1,0,0.0
+1998-1999,2,1998-09-12,Villarreal,Celta Vigo,1,1,0.5
+1998-1999,2,1998-09-12,Atlético Madrid,Salamanca,2,0,0.0
+1998-1999,2,1998-09-12,Real Betis,Zaragoza,1,3,1.0
+1998-1999,2,1998-09-12,Tenerife,Real Sociedad,2,2,0.5
+1998-1999,2,1998-09-12,Athletic Club,Racing Sant,2,0,0.0
+1998-1999,2,1998-09-12,Valladolid,Real Madrid,0,1,1.0
+1998-1999,2,1998-09-12,Barcelona,Extremadura,1,0,0.0
+1998-1999,2,1998-09-13,Mallorca,Espanyol,2,0,0.0
+1998-1999,2,1998-09-13,Oviedo,Alavés,1,0,0.0
+1998-1999,3,1998-09-19,Real Madrid,Barcelona,2,2,0.5
+1998-1999,3,1998-09-20,Extremadura,Athletic Club,0,1,1.0
+1998-1999,3,1998-09-20,Real Sociedad,Mallorca,0,1,1.0
+1998-1999,3,1998-09-20,Alavés,Zaragoza,1,0,0.0
+1998-1999,3,1998-09-20,Espanyol,Atlético Madrid,1,1,0.5
+1998-1999,3,1998-09-20,Celta Vigo,Valladolid,0,0,0.5
+1998-1999,3,1998-09-20,Oviedo,Tenerife,0,1,1.0
+1998-1999,3,1998-09-20,Racing Sant,Real Betis,1,0,0.0
+1998-1999,3,1998-09-20,Salamanca,Dep La Coruña,3,1,0.0
+1998-1999,3,1998-09-20,Valencia,Villarreal,1,0,0.0
+1998-1999,4,1998-09-26,Real Betis,Extremadura,1,1,0.5
+1998-1999,4,1998-09-26,Valladolid,Valencia,3,1,0.0
+1998-1999,4,1998-09-26,Atlético Madrid,Real Sociedad,4,1,0.0
+1998-1999,4,1998-09-26,Athletic Club,Real Madrid,2,3,1.0
+1998-1999,4,1998-09-26,Barcelona,Celta Vigo,2,2,0.5
+1998-1999,4,1998-09-27,Tenerife,Alavés,1,2,1.0
+1998-1999,4,1998-09-27,Mallorca,Oviedo,0,0,0.5
+1998-1999,4,1998-09-27,Dep La Coruña,Espanyol,1,0,0.0
+1998-1999,4,1998-09-27,Zaragoza,Racing Sant,3,1,0.0
+1998-1999,4,1998-09-27,Villarreal,Salamanca,5,0,0.0
+1998-1999,5,1998-10-03,Valencia,Barcelona,1,3,1.0
+1998-1999,5,1998-10-04,Real Sociedad,Dep La Coruña,2,0,0.0
+1998-1999,5,1998-10-04,Oviedo,Atlético Madrid,3,1,0.0
+1998-1999,5,1998-10-04,Extremadura,Zaragoza,0,2,1.0
+1998-1999,5,1998-10-04,Celta Vigo,Athletic Club,3,2,0.0
+1998-1999,5,1998-10-04,Alavés,Racing Sant,0,1,1.0
+1998-1999,5,1998-10-04,Salamanca,Valladolid,1,0,0.0
+1998-1999,5,1998-10-04,Real Madrid,Real Betis,0,1,1.0
+1998-1999,5,1998-10-04,Espanyol,Villarreal,1,1,0.5
+1998-1999,5,1998-10-04,Tenerife,Mallorca,1,1,0.5
+1998-1999,6,1998-10-17,Atlético Madrid,Tenerife,2,0,0.0
+1998-1999,6,1998-10-17,Athletic Club,Valencia,2,0,0.0
+1998-1999,6,1998-10-17,Villarreal,Real Sociedad,1,1,0.5
+1998-1999,6,1998-10-17,Zaragoza,Real Madrid,3,4,1.0
+1998-1999,6,1998-10-17,Real Betis,Celta Vigo,0,3,1.0
+1998-1999,6,1998-10-17,Barcelona,Salamanca,1,1,0.5
+1998-1999,6,1998-10-18,Valladolid,Espanyol,2,1,0.0
+1998-1999,6,1998-10-18,Racing Sant,Extremadura,3,1,0.0
+1998-1999,6,1998-10-18,Mallorca,Alavés,2,1,0.0
+1998-1999,6,1998-10-18,Dep La Coruña,Oviedo,4,0,0.0
+1998-1999,7,1998-10-24,Celta Vigo,Zaragoza,2,0,0.0
+1998-1999,7,1998-10-25,Real Madrid,Racing Sant,2,2,0.5
+1998-1999,7,1998-10-25,Salamanca,Athletic Club,2,1,0.0
+1998-1999,7,1998-10-25,Espanyol,Barcelona,1,2,1.0
+1998-1999,7,1998-10-25,Oviedo,Villarreal,0,0,0.5
+1998-1999,7,1998-10-25,Valencia,Real Betis,5,1,0.0
+1998-1999,7,1998-10-25,Mallorca,Atlético Madrid,4,0,0.0
+1998-1999,7,1998-10-25,Real Sociedad,Valladolid,1,0,0.0
+1998-1999,7,1998-10-25,Tenerife,Dep La Coruña,1,1,0.5
+1998-1999,7,1998-10-25,Alavés,Extremadura,0,1,1.0
+1998-1999,8,1998-10-31,Atlético Madrid,Alavés,3,0,0.0
+1998-1999,8,1998-10-31,Extremadura,Real Madrid,1,5,1.0
+1998-1999,8,1998-10-31,Barcelona,Real Sociedad,4,1,0.0
+1998-1999,8,1998-10-31,Athletic Club,Espanyol,2,2,0.5
+1998-1999,8,1998-10-31,Racing Sant,Celta Vigo,2,2,0.5
+1998-1999,8,1998-10-31,Real Betis,Salamanca,1,0,0.0
+1998-1999,8,1998-10-31,Zaragoza,Valencia,1,4,1.0
+1998-1999,8,1998-11-01,Villarreal,Tenerife,2,5,1.0
+1998-1999,8,1998-11-01,Valladolid,Oviedo,2,1,0.0
+1998-1999,8,1998-11-01,Dep La Coruña,Mallorca,1,1,0.5
+1998-1999,9,1998-11-07,Espanyol,Real Betis,1,0,0.0
+1998-1999,9,1998-11-08,Real Sociedad,Athletic Club,3,1,0.0
+1998-1999,9,1998-11-08,Atlético Madrid,Dep La Coruña,1,1,0.5
+1998-1999,9,1998-11-08,Tenerife,Valladolid,2,2,0.5
+1998-1999,9,1998-11-08,Celta Vigo,Extremadura,5,1,0.0
+1998-1999,9,1998-11-08,Valencia,Racing Sant,3,0,0.0
+1998-1999,9,1998-11-08,Salamanca,Zaragoza,1,2,1.0
+1998-1999,9,1998-11-08,Alavés,Real Madrid,1,1,0.5
+1998-1999,9,1998-11-08,Mallorca,Villarreal,1,0,0.0
+1998-1999,9,1998-11-08,Oviedo,Barcelona,2,1,0.0
+1998-1999,10,1998-11-14,Real Madrid,Celta Vigo,1,2,1.0
+1998-1999,10,1998-11-15,Real Betis,Real Sociedad,1,0,0.0
+1998-1999,10,1998-11-15,Barcelona,Tenerife,4,1,0.0
+1998-1999,10,1998-11-15,Zaragoza,Espanyol,0,3,1.0
+1998-1999,10,1998-11-15,Athletic Club,Oviedo,3,5,1.0
+1998-1999,10,1998-11-15,Dep La Coruña,Alavés,2,2,0.5
+1998-1999,10,1998-11-15,Valladolid,Mallorca,1,0,0.0
+1998-1999,10,1998-11-15,Racing Sant,Salamanca,4,1,0.0
+1998-1999,10,1998-11-15,Villarreal,Atlético Madrid,2,1,0.0
+1998-1999,10,1998-11-15,Extremadura,Valencia,1,0,0.0
+1998-1999,11,1998-11-20,Tenerife,Athletic Club,0,1,1.0
+1998-1999,11,1998-11-21,Alavés,Celta Vigo,2,0,0.0
+1998-1999,11,1998-11-21,Real Sociedad,Zaragoza,0,0,0.5
+1998-1999,11,1998-11-21,Oviedo,Real Betis,0,1,1.0
+1998-1999,11,1998-11-21,Atlético Madrid,Valladolid,6,1,0.0
+1998-1999,11,1998-11-21,Mallorca,Barcelona,1,0,0.0
+1998-1999,11,1998-11-21,Valencia,Real Madrid,3,1,0.0
+1998-1999,11,1998-11-22,Dep La Coruña,Villarreal,2,1,0.0
+1998-1999,11,1998-11-22,Salamanca,Extremadura,2,1,0.0
+1998-1999,11,1998-11-22,Espanyol,Racing Sant,1,1,0.5
+1998-1999,12,1998-11-28,Barcelona,Atlético Madrid,0,1,1.0
+1998-1999,12,1998-11-29,Extremadura,Espanyol,1,0,0.0
+1998-1999,12,1998-11-29,Real Betis,Tenerife,1,0,0.0
+1998-1999,12,1998-11-29,Villarreal,Alavés,2,0,0.0
+1998-1999,12,1998-11-29,Racing Sant,Real Sociedad,0,1,1.0
+1998-1999,12,1998-11-29,Athletic Club,Mallorca,1,0,0.0
+1998-1999,12,1998-11-29,Celta Vigo,Valencia,2,2,0.5
+1998-1999,12,1998-11-29,Valladolid,Dep La Coruña,0,1,1.0
+1998-1999,12,1998-11-29,Zaragoza,Oviedo,1,0,0.0
+1998-1999,13,1998-12-05,Espanyol,Real Madrid,0,0,0.5
+1998-1999,13,1998-12-05,Mallorca,Real Betis,1,0,0.0
+1998-1999,13,1998-12-05,Atlético Madrid,Athletic Club,0,0,0.5
+1998-1999,13,1998-12-05,Real Sociedad,Extremadura,2,0,0.0
+1998-1999,13,1998-12-05,Salamanca,Celta Vigo,1,1,0.5
+1998-1999,13,1998-12-05,Dep La Coruña,Barcelona,2,1,0.0
+1998-1999,13,1998-12-06,Oviedo,Racing Sant,1,0,0.0
+1998-1999,13,1998-12-06,Tenerife,Zaragoza,1,1,0.5
+1998-1999,13,1998-12-06,Alavés,Valencia,0,1,1.0
+1998-1999,13,1998-12-06,Villarreal,Valladolid,2,1,0.0
+1998-1999,14,1998-12-12,Real Betis,Atlético Madrid,0,0,0.5
+1998-1999,14,1998-12-13,Zaragoza,Mallorca,0,1,1.0
+1998-1999,14,1998-12-13,Real Madrid,Real Sociedad,3,2,0.0
+1998-1999,14,1998-12-13,Athletic Club,Dep La Coruña,2,1,0.0
+1998-1999,14,1998-12-13,Valencia,Salamanca,1,0,0.0
+1998-1999,14,1998-12-13,Racing Sant,Tenerife,0,0,0.5
+1998-1999,14,1998-12-13,Celta Vigo,Espanyol,2,0,0.0
+1998-1999,14,1998-12-13,Valladolid,Alavés,3,0,0.0
+1998-1999,14,1998-12-13,Barcelona,Villarreal,1,3,1.0
+1998-1999,14,1998-12-13,Extremadura,Oviedo,0,1,1.0
+1998-1999,15,1998-12-19,Dep La Coruña,Real Betis,2,2,0.5
+1998-1999,15,1998-12-20,Valladolid,Barcelona,0,1,1.0
+1998-1999,15,1998-12-20,Villarreal,Athletic Club,0,1,1.0
+1998-1999,15,1998-12-20,Espanyol,Valencia,2,1,0.0
+1998-1999,15,1998-12-20,Tenerife,Extremadura,1,1,0.5
+1998-1999,15,1998-12-20,Oviedo,Real Madrid,1,0,0.0
+1998-1999,15,1998-12-20,Atlético Madrid,Zaragoza,0,0,0.5
+1998-1999,15,1998-12-20,Mallorca,Racing Sant,1,1,0.5
+1998-1999,15,1998-12-20,Alavés,Salamanca,1,0,0.0
+1998-1999,15,1998-12-20,Real Sociedad,Celta Vigo,2,0,0.0
+1998-1999,16,1999-01-02,Valencia,Real Sociedad,2,0,0.0
+1998-1999,16,1999-01-03,Real Betis,Villarreal,4,1,0.0
+1998-1999,16,1999-01-03,Real Madrid,Tenerife,4,0,0.0
+1998-1999,16,1999-01-03,Extremadura,Mallorca,1,0,0.0
+1998-1999,16,1999-01-03,Racing Sant,Atlético Madrid,2,3,1.0
+1998-1999,16,1999-01-03,Barcelona,Alavés,7,1,0.0
+1998-1999,16,1999-01-03,Celta Vigo,Oviedo,6,2,0.0
+1998-1999,16,1999-01-03,Zaragoza,Dep La Coruña,3,1,0.0
+1998-1999,16,1999-01-03,Salamanca,Espanyol,2,3,1.0
+1998-1999,16,1999-01-03,Athletic Club,Valladolid,2,1,0.0
+1998-1999,12,1999-01-06,Real Madrid,Salamanca,3,1,0.0
+1998-1999,17,1999-01-09,Barcelona,Athletic Club,4,2,0.0
+1998-1999,17,1999-01-10,Dep La Coruña,Racing Sant,1,2,1.0
+1998-1999,17,1999-01-10,Valladolid,Real Betis,0,3,1.0
+1998-1999,17,1999-01-10,Mallorca,Real Madrid,2,1,0.0
+1998-1999,17,1999-01-10,Real Sociedad,Salamanca,4,0,0.0
+1998-1999,17,1999-01-10,Alavés,Espanyol,1,1,0.5
+1998-1999,17,1999-01-10,Tenerife,Celta Vigo,0,2,1.0
+1998-1999,17,1999-01-10,Oviedo,Valencia,2,2,0.5
+1998-1999,17,1999-01-10,Villarreal,Zaragoza,1,1,0.5
+1998-1999,17,1999-01-10,Atlético Madrid,Extremadura,5,0,0.0
+1998-1999,18,1999-01-16,Celta Vigo,Mallorca,4,2,0.0
+1998-1999,18,1999-01-17,Racing Sant,Villarreal,1,2,1.0
+1998-1999,18,1999-01-17,Extremadura,Dep La Coruña,1,2,1.0
+1998-1999,18,1999-01-17,Zaragoza,Valladolid,2,0,0.0
+1998-1999,18,1999-01-17,Alavés,Athletic Club,1,2,1.0
+1998-1999,18,1999-01-17,Real Betis,Barcelona,0,3,1.0
+1998-1999,18,1999-01-17,Valencia,Tenerife,1,1,0.5
+1998-1999,18,1999-01-17,Espanyol,Real Sociedad,0,0,0.5
+1998-1999,18,1999-01-17,Real Madrid,Atlético Madrid,4,2,0.0
+1998-1999,18,1999-01-17,Salamanca,Oviedo,1,1,0.5
+1998-1999,19,1999-01-23,Athletic Club,Real Betis,0,0,0.5
+1998-1999,19,1999-01-24,Tenerife,Salamanca,1,0,0.0
+1998-1999,19,1999-01-24,Real Sociedad,Alavés,2,1,0.0
+1998-1999,19,1999-01-24,Atlético Madrid,Celta Vigo,2,1,0.0
+1998-1999,19,1999-01-24,Barcelona,Zaragoza,3,1,0.0
+1998-1999,19,1999-01-24,Villarreal,Extremadura,1,1,0.5
+1998-1999,19,1999-01-24,Valladolid,Racing Sant,0,0,0.5
+1998-1999,19,1999-01-24,Mallorca,Valencia,0,1,1.0
+1998-1999,19,1999-01-24,Oviedo,Espanyol,1,1,0.5
+1998-1999,19,1999-01-24,Dep La Coruña,Real Madrid,4,0,0.0
+1998-1999,20,1999-01-30,Atlético Madrid,Valencia,1,2,1.0
+1998-1999,20,1999-01-30,Real Betis,Alavés,1,0,0.0
+1998-1999,20,1999-01-30,Villarreal,Real Madrid,0,2,1.0
+1998-1999,20,1999-01-30,Oviedo,Real Sociedad,2,1,0.0
+1998-1999,20,1999-01-30,Athletic Club,Zaragoza,2,0,0.0
+1998-1999,20,1999-01-30,Mallorca,Salamanca,1,0,0.0
+1998-1999,20,1999-01-31,Tenerife,Espanyol,0,0,0.5
+1998-1999,20,1999-01-31,Valladolid,Extremadura,0,0,0.5
+1998-1999,20,1999-01-31,Dep La Coruña,Celta Vigo,2,1,0.0
+1998-1999,20,1999-01-31,Barcelona,Racing Sant,3,2,0.0
+1998-1999,21,1999-02-06,Valencia,Dep La Coruña,0,0,0.5
+1998-1999,21,1999-02-07,Celta Vigo,Villarreal,4,1,0.0
+1998-1999,21,1999-02-07,Espanyol,Mallorca,1,0,0.0
+1998-1999,21,1999-02-07,Zaragoza,Real Betis,2,2,0.5
+1998-1999,21,1999-02-07,Alavés,Oviedo,2,2,0.5
+1998-1999,21,1999-02-07,Salamanca,Atlético Madrid,2,1,0.0
+1998-1999,21,1999-02-07,Real Sociedad,Tenerife,1,1,0.5
+1998-1999,21,1999-02-07,Real Madrid,Valladolid,3,2,0.0
+1998-1999,21,1999-02-07,Extremadura,Barcelona,1,2,1.0
+1998-1999,21,1999-02-07,Racing Sant,Athletic Club,2,0,0.0
+1998-1999,22,1999-02-13,Mallorca,Real Sociedad,1,0,0.0
+1998-1999,22,1999-02-13,Dep La Coruña,Salamanca,1,0,0.0
+1998-1999,22,1999-02-13,Atlético Madrid,Espanyol,1,2,1.0
+1998-1999,22,1999-02-14,Athletic Club,Extremadura,0,0,0.5
+1998-1999,22,1999-02-14,Tenerife,Oviedo,0,2,1.0
+1998-1999,22,1999-02-14,Barcelona,Real Madrid,3,0,0.0
+1998-1999,22,1999-02-14,Real Betis,Racing Sant,1,1,0.5
+1998-1999,22,1999-02-14,Villarreal,Valencia,1,0,0.0
+1998-1999,22,1999-02-14,Zaragoza,Alavés,1,1,0.5
+1998-1999,22,1999-02-14,Valladolid,Celta Vigo,2,1,0.0
+1998-1999,23,1999-02-20,Extremadura,Real Betis,2,1,0.0
+1998-1999,23,1999-02-20,Racing Sant,Zaragoza,2,4,1.0
+1998-1999,23,1999-02-20,Real Madrid,Athletic Club,0,1,1.0
+1998-1999,23,1999-02-21,Real Sociedad,Atlético Madrid,3,2,0.0
+1998-1999,23,1999-02-21,Oviedo,Mallorca,1,3,1.0
+1998-1999,23,1999-02-21,Celta Vigo,Barcelona,0,0,0.5
+1998-1999,23,1999-02-21,Salamanca,Villarreal,1,0,0.0
+1998-1999,23,1999-02-21,Valencia,Valladolid,0,1,1.0
+1998-1999,23,1999-02-21,Alavés,Tenerife,3,1,0.0
+1998-1999,23,1999-02-21,Espanyol,Dep La Coruña,2,2,0.5
+1998-1999,24,1999-02-27,Athletic Club,Celta Vigo,0,0,0.5
+1998-1999,24,1999-02-27,Real Betis,Real Madrid,3,2,0.0
+1998-1999,24,1999-02-27,Atlético Madrid,Oviedo,0,0,0.5
+1998-1999,24,1999-02-27,Barcelona,Valencia,2,4,1.0
+1998-1999,24,1999-02-28,Mallorca,Tenerife,1,1,0.5
+1998-1999,24,1999-02-28,Dep La Coruña,Real Sociedad,0,1,1.0
+1998-1999,24,1999-02-28,Villarreal,Espanyol,2,2,0.5
+1998-1999,24,1999-02-28,Valladolid,Salamanca,4,1,0.0
+1998-1999,24,1999-02-28,Zaragoza,Extremadura,3,1,0.0
+1998-1999,24,1999-02-28,Racing Sant,Alavés,2,0,0.0
+1998-1999,25,1999-03-06,Oviedo,Dep La Coruña,1,2,1.0
+1998-1999,25,1999-03-07,Valencia,Athletic Club,4,1,0.0
+1998-1999,25,1999-03-07,Salamanca,Barcelona,1,4,1.0
+1998-1999,25,1999-03-07,Alavés,Mallorca,2,0,0.0
+1998-1999,25,1999-03-07,Real Sociedad,Villarreal,1,1,0.5
+1998-1999,25,1999-03-07,Celta Vigo,Real Betis,4,0,0.0
+1998-1999,25,1999-03-07,Espanyol,Valladolid,0,2,1.0
+1998-1999,25,1999-03-07,Tenerife,Atlético Madrid,1,0,0.0
+1998-1999,25,1999-03-07,Real Madrid,Zaragoza,3,2,0.0
+1998-1999,25,1999-03-07,Extremadura,Racing Sant,0,3,1.0
+1998-1999,26,1999-03-13,Racing Sant,Real Madrid,1,3,1.0
+1998-1999,26,1999-03-13,Zaragoza,Celta Vigo,0,1,1.0
+1998-1999,26,1999-03-13,Atlético Madrid,Mallorca,1,2,1.0
+1998-1999,26,1999-03-13,Real Betis,Valencia,0,1,1.0
+1998-1999,26,1999-03-14,Athletic Club,Salamanca,1,0,0.0
+1998-1999,26,1999-03-14,Valladolid,Real Sociedad,0,0,0.5
+1998-1999,26,1999-03-14,Barcelona,Espanyol,3,0,0.0
+1998-1999,26,1999-03-14,Dep La Coruña,Tenerife,2,0,0.0
+1998-1999,26,1999-03-14,Extremadura,Alavés,1,0,0.0
+1998-1999,26,1999-03-14,Villarreal,Oviedo,0,0,0.5
+1998-1999,27,1999-03-20,Espanyol,Athletic Club,1,1,0.5
+1998-1999,27,1999-03-21,Valencia,Zaragoza,1,1,0.5
+1998-1999,27,1999-03-21,Alavés,Atlético Madrid,2,0,0.0
+1998-1999,27,1999-03-21,Celta Vigo,Racing Sant,3,0,0.0
+1998-1999,27,1999-03-21,Real Madrid,Extremadura,2,0,0.0
+1998-1999,27,1999-03-21,Tenerife,Villarreal,2,2,0.5
+1998-1999,27,1999-03-21,Oviedo,Valladolid,0,0,0.5
+1998-1999,27,1999-03-21,Salamanca,Real Betis,1,3,1.0
+1998-1999,27,1999-03-21,Mallorca,Dep La Coruña,1,2,1.0
+1998-1999,27,1999-03-21,Real Sociedad,Barcelona,0,2,1.0
+1998-1999,28,1999-04-03,Racing Sant,Valencia,0,1,1.0
+1998-1999,28,1999-04-03,Dep La Coruña,Atlético Madrid,1,1,0.5
+1998-1999,28,1999-04-04,Valladolid,Tenerife,2,1,0.0
+1998-1999,28,1999-04-04,Extremadura,Celta Vigo,1,1,0.5
+1998-1999,28,1999-04-04,Zaragoza,Salamanca,2,0,0.0
+1998-1999,28,1999-04-04,Athletic Club,Real Sociedad,0,0,0.5
+1998-1999,28,1999-04-04,Real Madrid,Alavés,3,2,0.0
+1998-1999,28,1999-04-04,Barcelona,Oviedo,3,1,0.0
+1998-1999,28,1999-04-04,Real Betis,Espanyol,0,1,1.0
+1998-1999,28,1999-04-04,Villarreal,Mallorca,0,2,1.0
+1998-1999,29,1999-04-10,Tenerife,Barcelona,2,3,1.0
+1998-1999,29,1999-04-11,Real Sociedad,Real Betis,1,0,0.0
+1998-1999,29,1999-04-11,Salamanca,Racing Sant,1,2,1.0
+1998-1999,29,1999-04-11,Celta Vigo,Real Madrid,5,1,0.0
+1998-1999,29,1999-04-11,Espanyol,Zaragoza,2,1,0.0
+1998-1999,29,1999-04-11,Atlético Madrid,Villarreal,2,2,0.5
+1998-1999,29,1999-04-11,Alavés,Dep La Coruña,2,1,0.0
+1998-1999,29,1999-04-11,Valencia,Extremadura,1,1,0.5
+1998-1999,29,1999-04-11,Oviedo,Athletic Club,0,0,0.5
+1998-1999,29,1999-04-11,Mallorca,Valladolid,1,0,0.0
+1998-1999,30,1999-04-17,Barcelona,Mallorca,2,1,0.0
+1998-1999,30,1999-04-17,Valladolid,Atlético Madrid,1,0,0.0
+1998-1999,30,1999-04-18,Real Betis,Oviedo,5,0,0.0
+1998-1999,30,1999-04-18,Athletic Club,Tenerife,2,0,0.0
+1998-1999,30,1999-04-18,Celta Vigo,Alavés,1,1,0.5
+1998-1999,30,1999-04-18,Real Madrid,Valencia,3,1,0.0
+1998-1999,30,1999-04-18,Villarreal,Dep La Coruña,1,2,1.0
+1998-1999,30,1999-04-18,Racing Sant,Espanyol,0,2,1.0
+1998-1999,30,1999-04-18,Zaragoza,Real Sociedad,1,1,0.5
+1998-1999,30,1999-04-18,Extremadura,Salamanca,1,1,0.5
+1998-1999,31,1999-04-24,Valencia,Celta Vigo,2,2,0.5
+1998-1999,31,1999-04-25,Atlético Madrid,Barcelona,1,1,0.5
+1998-1999,31,1999-04-25,Mallorca,Athletic Club,6,1,0.0
+1998-1999,31,1999-04-25,Tenerife,Real Betis,3,2,0.0
+1998-1999,31,1999-04-25,Salamanca,Real Madrid,1,1,0.5
+1998-1999,31,1999-04-25,Dep La Coruña,Valladolid,3,0,0.0
+1998-1999,31,1999-04-25,Oviedo,Zaragoza,1,2,1.0
+1998-1999,31,1999-04-25,Espanyol,Extremadura,0,0,0.5
+1998-1999,31,1999-04-25,Alavés,Villarreal,2,1,0.0
+1998-1999,31,1999-04-25,Real Sociedad,Racing Sant,2,0,0.0
+1998-1999,32,1999-05-01,Valencia,Alavés,5,0,0.0
+1998-1999,32,1999-05-01,Real Madrid,Espanyol,2,0,0.0
+1998-1999,32,1999-05-02,Real Betis,Mallorca,1,3,1.0
+1998-1999,32,1999-05-02,Extremadura,Real Sociedad,1,0,0.0
+1998-1999,32,1999-05-02,Athletic Club,Atlético Madrid,1,2,1.0
+1998-1999,32,1999-05-02,Celta Vigo,Salamanca,1,0,0.0
+1998-1999,32,1999-05-02,Zaragoza,Tenerife,3,1,0.0
+1998-1999,32,1999-05-02,Racing Sant,Oviedo,0,0,0.5
+1998-1999,32,1999-05-02,Valladolid,Villarreal,1,0,0.0
+1998-1999,32,1999-05-02,Barcelona,Dep La Coruña,4,0,0.0
+1998-1999,33,1999-05-08,Real Sociedad,Real Madrid,3,2,0.0
+1998-1999,33,1999-05-09,Salamanca,Valencia,0,1,1.0
+1998-1999,33,1999-05-09,Dep La Coruña,Athletic Club,1,1,0.5
+1998-1999,33,1999-05-09,Alavés,Valladolid,2,0,0.0
+1998-1999,33,1999-05-09,Espanyol,Celta Vigo,3,0,0.0
+1998-1999,33,1999-05-09,Oviedo,Extremadura,1,0,0.0
+1998-1999,33,1999-05-09,Tenerife,Racing Sant,2,2,0.5
+1998-1999,33,1999-05-09,Atlético Madrid,Real Betis,2,3,1.0
+1998-1999,33,1999-05-09,Villarreal,Barcelona,2,3,1.0
+1998-1999,33,1999-05-09,Mallorca,Zaragoza,1,0,0.0
+1998-1999,34,1999-05-14,Racing Sant,Mallorca,1,0,0.0
+1998-1999,34,1999-05-15,Barcelona,Valladolid,1,1,0.5
+1998-1999,34,1999-05-16,Real Betis,Dep La Coruña,0,3,1.0
+1998-1999,34,1999-05-16,Real Madrid,Oviedo,2,1,0.0
+1998-1999,34,1999-05-16,Zaragoza,Atlético Madrid,2,0,0.0
+1998-1999,34,1999-05-16,Valencia,Espanyol,1,2,1.0
+1998-1999,34,1999-05-16,Extremadura,Tenerife,1,0,0.0
+1998-1999,34,1999-05-16,Celta Vigo,Real Sociedad,2,2,0.5
+1998-1999,34,1999-05-16,Athletic Club,Villarreal,2,0,0.0
+1998-1999,34,1999-05-16,Salamanca,Alavés,1,0,0.0
+1998-1999,35,1999-05-22,Alavés,Barcelona,1,4,1.0
+1998-1999,35,1999-05-23,Villarreal,Real Betis,3,4,1.0
+1998-1999,35,1999-05-23,Mallorca,Extremadura,2,0,0.0
+1998-1999,35,1999-05-23,Valladolid,Athletic Club,0,3,1.0
+1998-1999,35,1999-05-23,Real Sociedad,Valencia,1,1,0.5
+1998-1999,35,1999-05-23,Dep La Coruña,Zaragoza,2,1,0.0
+1998-1999,35,1999-05-23,Espanyol,Salamanca,4,0,0.0
+1998-1999,35,1999-05-23,Oviedo,Celta Vigo,1,3,1.0
+1998-1999,35,1999-05-23,Tenerife,Real Madrid,2,3,1.0
+1998-1999,35,1999-05-23,Atlético Madrid,Racing Sant,1,1,0.5
+1998-1999,36,1999-05-29,Athletic Club,Barcelona,1,3,1.0
+1998-1999,36,1999-05-29,Valencia,Oviedo,3,0,0.0
+1998-1999,36,1999-05-30,Extremadura,Atlético Madrid,2,1,0.0
+1998-1999,36,1999-05-30,Espanyol,Alavés,3,0,0.0
+1998-1999,36,1999-05-30,Real Betis,Valladolid,2,0,0.0
+1998-1999,36,1999-05-30,Racing Sant,Dep La Coruña,1,1,0.5
+1998-1999,36,1999-05-30,Real Madrid,Mallorca,2,1,0.0
+1998-1999,36,1999-05-30,Celta Vigo,Tenerife,2,0,0.0
+1998-1999,36,1999-05-30,Salamanca,Real Sociedad,0,1,1.0
+1998-1999,36,1999-05-30,Zaragoza,Villarreal,4,0,0.0
+1998-1999,37,1999-06-12,Valladolid,Zaragoza,1,1,0.5
+1998-1999,37,1999-06-12,Dep La Coruña,Extremadura,1,1,0.5
+1998-1999,37,1999-06-12,Atlético Madrid,Real Madrid,3,1,0.0
+1998-1999,37,1999-06-13,Mallorca,Celta Vigo,2,0,0.0
+1998-1999,37,1999-06-13,Tenerife,Valencia,3,2,0.0
+1998-1999,37,1999-06-13,Villarreal,Racing Sant,3,0,0.0
+1998-1999,37,1999-06-13,Athletic Club,Alavés,5,0,0.0
+1998-1999,37,1999-06-13,Barcelona,Real Betis,4,1,0.0
+1998-1999,37,1999-06-13,Oviedo,Salamanca,3,2,0.0
+1998-1999,37,1999-06-13,Real Sociedad,Espanyol,1,2,1.0
+1998-1999,38,1999-06-19,Salamanca,Tenerife,1,2,1.0
+1998-1999,38,1999-06-19,Racing Sant,Valladolid,0,2,1.0
+1998-1999,38,1999-06-20,Zaragoza,Barcelona,2,0,0.0
+1998-1999,38,1999-06-20,Real Betis,Athletic Club,1,4,1.0
+1998-1999,38,1999-06-20,Espanyol,Oviedo,2,1,0.0
+1998-1999,38,1999-06-20,Celta Vigo,Atlético Madrid,0,1,1.0
+1998-1999,38,1999-06-20,Extremadura,Villarreal,2,2,0.5
+1998-1999,38,1999-06-20,Valencia,Mallorca,3,0,0.0
+1998-1999,38,1999-06-20,Alavés,Real Sociedad,2,1,0.0
+1998-1999,38,1999-06-20,Real Madrid,Dep La Coruña,3,1,0.0

@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2009-2010,1,2009-08-29,Zaragoza,Tenerife,1,0,0.0
+2009-2010,1,2009-08-29,Real Madrid,La Coruña,3,2,0.0
+2009-2010,1,2009-08-30,Málaga,Atlético Madrid,3,0,0.0
+2009-2010,1,2009-08-30,Mallorca,Xerez,2,0,0.0
+2009-2010,1,2009-08-30,Racing Sant,Getafe,1,4,1.0
+2009-2010,1,2009-08-30,Osasuna,Villarreal,1,1,0.5
+2009-2010,1,2009-08-30,Almería,Valladolid,0,0,0.5
+2009-2010,1,2009-08-30,Athletic Club,Espanyol,1,0,0.0
+2009-2010,1,2009-08-30,Valencia,Sevilla,2,0,0.0
+2009-2010,1,2009-08-31,Barcelona,Sporting Gijón,3,0,0.0
+2009-2010,2,2009-09-12,Atlético Madrid,Racing Sant,1,1,0.5
+2009-2010,2,2009-09-12,Sevilla,Zaragoza,4,1,0.0
+2009-2010,2,2009-09-12,Espanyol,Real Madrid,0,3,1.0
+2009-2010,2,2009-09-12,Getafe,Barcelona,0,2,1.0
+2009-2010,2,2009-09-13,La Coruña,Málaga,1,0,0.0
+2009-2010,2,2009-09-13,Valladolid,Valencia,2,4,1.0
+2009-2010,2,2009-09-13,Tenerife,Osasuna,2,1,0.0
+2009-2010,2,2009-09-13,Sporting Gijón,Almería,1,0,0.0
+2009-2010,2,2009-09-13,Villarreal,Mallorca,1,1,0.5
+2009-2010,2,2009-09-13,Xerez,Athletic Club,0,1,1.0
+2009-2010,3,2009-09-19,La Coruña,Espanyol,2,3,1.0
+2009-2010,3,2009-09-19,Málaga,Racing Sant,1,2,1.0
+2009-2010,3,2009-09-19,Barcelona,Atlético Madrid,5,2,0.0
+2009-2010,3,2009-09-19,Osasuna,Sevilla,0,2,1.0
+2009-2010,3,2009-09-19,Mallorca,Tenerife,4,0,0.0
+2009-2010,3,2009-09-20,Zaragoza,Valladolid,1,2,1.0
+2009-2010,3,2009-09-20,Real Madrid,Xerez,5,0,0.0
+2009-2010,3,2009-09-20,Athletic Club,Villarreal,3,2,0.0
+2009-2010,3,2009-09-20,Almería,Getafe,1,0,0.0
+2009-2010,3,2009-09-20,Valencia,Sporting Gijón,2,2,0.5
+2009-2010,4,2009-09-22,Racing Sant,Barcelona,1,4,1.0
+2009-2010,4,2009-09-22,Sevilla,Mallorca,2,0,0.0
+2009-2010,4,2009-09-23,Xerez,La Coruña,0,3,1.0
+2009-2010,4,2009-09-23,Espanyol,Málaga,2,1,0.0
+2009-2010,4,2009-09-23,Atlético Madrid,Almería,2,2,0.5
+2009-2010,4,2009-09-23,Getafe,Valencia,3,1,0.0
+2009-2010,4,2009-09-23,Tenerife,Athletic Club,1,0,0.0
+2009-2010,4,2009-09-23,Valladolid,Osasuna,1,2,1.0
+2009-2010,4,2009-09-23,Villarreal,Real Madrid,0,2,1.0
+2009-2010,4,2009-09-24,Sporting Gijón,Zaragoza,1,1,0.5
+2009-2010,5,2009-09-26,Valencia,Atlético Madrid,2,2,0.5
+2009-2010,5,2009-09-26,Real Madrid,Tenerife,3,0,0.0
+2009-2010,5,2009-09-26,Athletic Club,Sevilla,0,4,1.0
+2009-2010,5,2009-09-26,Málaga,Barcelona,0,2,1.0
+2009-2010,5,2009-09-27,Almería,Racing Sant,2,2,0.5
+2009-2010,5,2009-09-27,Mallorca,Valladolid,3,0,0.0
+2009-2010,5,2009-09-27,Espanyol,Xerez,0,0,0.5
+2009-2010,5,2009-09-27,Osasuna,Sporting Gijón,1,0,0.0
+2009-2010,5,2009-09-27,La Coruña,Villarreal,1,0,0.0
+2009-2010,5,2009-09-27,Zaragoza,Getafe,3,0,0.0
+2009-2010,6,2009-10-03,Tenerife,La Coruña,0,1,1.0
+2009-2010,6,2009-10-03,Atlético Madrid,Zaragoza,2,1,0.0
+2009-2010,6,2009-10-03,Barcelona,Almería,1,0,0.0
+2009-2010,6,2009-10-04,Valladolid,Athletic Club,2,2,0.5
+2009-2010,6,2009-10-04,Sporting Gijón,Mallorca,4,1,0.0
+2009-2010,6,2009-10-04,Sevilla,Real Madrid,2,1,0.0
+2009-2010,6,2009-10-04,Racing Sant,Valencia,0,1,1.0
+2009-2010,6,2009-10-04,Getafe,Osasuna,2,1,0.0
+2009-2010,6,2009-10-04,Xerez,Málaga,1,1,0.5
+2009-2010,6,2009-10-04,Villarreal,Espanyol,0,0,0.5
+2009-2010,7,2009-10-17,Real Madrid,Valladolid,4,2,0.0
+2009-2010,7,2009-10-17,Valencia,Barcelona,0,0,0.5
+2009-2010,7,2009-10-17,La Coruña,Sevilla,1,0,0.0
+2009-2010,7,2009-10-18,Athletic Club,Sporting Gijón,1,2,1.0
+2009-2010,7,2009-10-18,Osasuna,Atlético Madrid,3,0,0.0
+2009-2010,7,2009-10-18,Málaga,Almería,1,2,1.0
+2009-2010,7,2009-10-18,Zaragoza,Racing Sant,2,2,0.5
+2009-2010,7,2009-10-18,Mallorca,Getafe,3,1,0.0
+2009-2010,7,2009-10-18,Espanyol,Tenerife,2,1,0.0
+2009-2010,7,2009-10-18,Xerez,Villarreal,2,1,0.0
+2009-2010,8,2009-10-24,Sporting Gijón,Real Madrid,0,0,0.5
+2009-2010,8,2009-10-24,Sevilla,Espanyol,0,0,0.5
+2009-2010,8,2009-10-24,Atlético Madrid,Mallorca,1,1,0.5
+2009-2010,8,2009-10-25,Barcelona,Zaragoza,6,1,0.0
+2009-2010,8,2009-10-25,Valladolid,La Coruña,4,0,0.0
+2009-2010,8,2009-10-25,Villarreal,Málaga,2,1,0.0
+2009-2010,8,2009-10-25,Tenerife,Xerez,1,0,0.0
+2009-2010,8,2009-10-25,Getafe,Athletic Club,2,0,0.0
+2009-2010,8,2009-10-25,Almería,Valencia,0,3,1.0
+2009-2010,8,2009-10-25,Racing Sant,Osasuna,1,1,0.5
+2009-2010,9,2009-10-31,Real Madrid,Getafe,2,0,0.0
+2009-2010,9,2009-10-31,Athletic Club,Atlético Madrid,1,0,0.0
+2009-2010,9,2009-10-31,Osasuna,Barcelona,1,1,0.5
+2009-2010,9,2009-10-31,Xerez,Sevilla,0,2,1.0
+2009-2010,9,2009-11-01,Mallorca,Racing Sant,1,0,0.0
+2009-2010,9,2009-11-01,Villarreal,Tenerife,5,0,0.0
+2009-2010,9,2009-11-01,Espanyol,Valladolid,1,1,0.5
+2009-2010,9,2009-11-01,Málaga,Valencia,0,1,1.0
+2009-2010,9,2009-11-01,La Coruña,Sporting Gijón,1,1,0.5
+2009-2010,9,2009-11-01,Zaragoza,Almería,2,1,0.0
+2009-2010,10,2009-11-07,Tenerife,Málaga,2,2,0.5
+2009-2010,10,2009-11-07,Barcelona,Mallorca,4,2,0.0
+2009-2010,10,2009-11-07,Getafe,La Coruña,0,2,1.0
+2009-2010,10,2009-11-07,Atlético Madrid,Real Madrid,2,3,1.0
+2009-2010,10,2009-11-08,Sevilla,Villarreal,3,2,0.0
+2009-2010,10,2009-11-08,Almería,Osasuna,2,0,0.0
+2009-2010,10,2009-11-08,Valladolid,Xerez,0,0,0.5
+2009-2010,10,2009-11-08,Sporting Gijón,Espanyol,1,0,0.0
+2009-2010,10,2009-11-08,Racing Sant,Athletic Club,0,2,1.0
+2009-2010,10,2009-11-08,Valencia,Zaragoza,3,1,0.0
+2009-2010,11,2009-11-21,Athletic Club,Barcelona,1,1,0.5
+2009-2010,11,2009-11-21,Tenerife,Sevilla,1,2,1.0
+2009-2010,11,2009-11-21,Real Madrid,Racing Sant,1,0,0.0
+2009-2010,11,2009-11-21,La Coruña,Atlético Madrid,2,1,0.0
+2009-2010,11,2009-11-22,Villarreal,Valladolid,3,1,0.0
+2009-2010,11,2009-11-22,Osasuna,Valencia,1,3,1.0
+2009-2010,11,2009-11-22,Mallorca,Almería,3,1,0.0
+2009-2010,11,2009-11-22,Xerez,Sporting Gijón,0,0,0.5
+2009-2010,11,2009-11-22,Espanyol,Getafe,0,2,1.0
+2009-2010,11,2009-11-22,Málaga,Zaragoza,1,1,0.5
+2009-2010,12,2009-11-28,Sevilla,Málaga,2,2,0.5
+2009-2010,12,2009-11-28,Valencia,Mallorca,1,1,0.5
+2009-2010,12,2009-11-28,Sporting Gijón,Villarreal,1,0,0.0
+2009-2010,12,2009-11-29,Getafe,Xerez,5,1,0.0
+2009-2010,12,2009-11-29,Atlético Madrid,Espanyol,4,0,0.0
+2009-2010,12,2009-11-29,Racing Sant,La Coruña,0,1,1.0
+2009-2010,12,2009-11-29,Zaragoza,Osasuna,0,1,1.0
+2009-2010,12,2009-11-29,Almería,Athletic Club,1,4,1.0
+2009-2010,12,2009-11-29,Valladolid,Tenerife,3,3,0.5
+2009-2010,12,2009-11-29,Barcelona,Real Madrid,1,0,0.0
+2009-2010,15,2009-12-02,Xerez,Barcelona,0,2,1.0
+2009-2010,13,2009-12-05,Sevilla,Valladolid,1,1,0.5
+2009-2010,13,2009-12-05,La Coruña,Barcelona,1,3,1.0
+2009-2010,13,2009-12-05,Xerez,Atlético Madrid,0,2,1.0
+2009-2010,13,2009-12-05,Real Madrid,Almería,4,2,0.0
+2009-2010,13,2009-12-06,Villarreal,Getafe,3,2,0.0
+2009-2010,13,2009-12-06,Mallorca,Zaragoza,4,1,0.0
+2009-2010,13,2009-12-06,Espanyol,Racing Sant,0,4,1.0
+2009-2010,13,2009-12-06,Athletic Club,Valencia,1,2,1.0
+2009-2010,13,2009-12-06,Tenerife,Sporting Gijón,2,1,0.0
+2009-2010,13,2009-12-06,Málaga,Osasuna,1,1,0.5
+2009-2010,14,2009-12-12,Barcelona,Espanyol,1,0,0.0
+2009-2010,14,2009-12-12,Zaragoza,Athletic Club,1,2,1.0
+2009-2010,14,2009-12-12,Valencia,Real Madrid,2,3,1.0
+2009-2010,14,2009-12-13,Atlético Madrid,Villarreal,1,2,1.0
+2009-2010,14,2009-12-13,Racing Sant,Xerez,3,2,0.0
+2009-2010,14,2009-12-13,Sporting Gijón,Sevilla,0,1,1.0
+2009-2010,14,2009-12-13,Valladolid,Málaga,1,1,0.5
+2009-2010,14,2009-12-13,Osasuna,Mallorca,0,1,1.0
+2009-2010,14,2009-12-13,Getafe,Tenerife,2,1,0.0
+2009-2010,14,2009-12-13,Almería,La Coruña,1,1,0.5
+2009-2010,15,2009-12-19,Real Madrid,Zaragoza,6,0,0.0
+2009-2010,15,2009-12-19,Sevilla,Getafe,1,2,1.0
+2009-2010,15,2009-12-19,Athletic Club,Osasuna,2,0,0.0
+2009-2010,15,2009-12-20,Espanyol,Almería,2,0,0.0
+2009-2010,15,2009-12-20,Villarreal,Racing Sant,2,0,0.0
+2009-2010,15,2009-12-20,Málaga,Mallorca,2,1,0.0
+2009-2010,15,2009-12-20,La Coruña,Valencia,0,0,0.5
+2009-2010,15,2009-12-20,Valladolid,Sporting Gijón,2,1,0.0
+2009-2010,15,2009-12-20,Tenerife,Atlético Madrid,1,1,0.5
+2009-2010,16,2010-01-02,Valencia,Espanyol,1,0,0.0
+2009-2010,16,2010-01-02,Atlético Madrid,Sevilla,2,1,0.0
+2009-2010,16,2010-01-02,Barcelona,Villarreal,1,1,0.5
+2009-2010,16,2010-01-03,Sporting Gijón,Málaga,2,2,0.5
+2009-2010,16,2010-01-03,Almería,Xerez,1,0,0.0
+2009-2010,16,2010-01-03,Getafe,Valladolid,1,0,0.0
+2009-2010,16,2010-01-03,Zaragoza,La Coruña,0,0,0.5
+2009-2010,16,2010-01-03,Osasuna,Real Madrid,0,0,0.5
+2009-2010,16,2010-01-03,Mallorca,Athletic Club,2,0,0.0
+2009-2010,16,2010-01-03,Racing Sant,Tenerife,2,0,0.0
+2009-2010,17,2010-01-09,Sevilla,Racing Sant,1,2,1.0
+2009-2010,17,2010-01-09,Valladolid,Atlético Madrid,0,4,1.0
+2009-2010,17,2010-01-09,Villarreal,Almería,1,1,0.5
+2009-2010,17,2010-01-10,La Coruña,Osasuna,1,0,0.0
+2009-2010,17,2010-01-10,Real Madrid,Mallorca,2,0,0.0
+2009-2010,17,2010-01-10,Sporting Gijón,Getafe,1,0,0.0
+2009-2010,17,2010-01-10,Málaga,Athletic Club,1,1,0.5
+2009-2010,17,2010-01-10,Espanyol,Zaragoza,2,1,0.0
+2009-2010,17,2010-01-10,Tenerife,Barcelona,0,5,1.0
+2009-2010,17,2010-01-10,Xerez,Valencia,1,3,1.0
+2009-2010,18,2010-01-16,Osasuna,Espanyol,2,0,0.0
+2009-2010,18,2010-01-16,Barcelona,Sevilla,4,0,0.0
+2009-2010,18,2010-01-16,Athletic Club,Real Madrid,1,0,0.0
+2009-2010,18,2010-01-17,Zaragoza,Xerez,0,0,0.5
+2009-2010,18,2010-01-17,Atlético Madrid,Sporting Gijón,3,2,0.0
+2009-2010,18,2010-01-17,Mallorca,La Coruña,2,0,0.0
+2009-2010,18,2010-01-17,Racing Sant,Valladolid,1,1,0.5
+2009-2010,18,2010-01-17,Almería,Tenerife,1,1,0.5
+2009-2010,18,2010-01-17,Valencia,Villarreal,4,1,0.0
+2009-2010,18,2010-01-17,Málaga,Getafe,1,0,0.0
+2009-2010,19,2010-01-23,La Coruña,Athletic Club,3,1,0.0
+2009-2010,19,2010-01-23,Valladolid,Barcelona,0,3,1.0
+2009-2010,19,2010-01-23,Sevilla,Almería,1,0,0.0
+2009-2010,19,2010-01-24,Real Madrid,Málaga,2,0,0.0
+2009-2010,19,2010-01-24,Espanyol,Mallorca,1,1,0.5
+2009-2010,19,2010-01-24,Tenerife,Valencia,0,0,0.5
+2009-2010,19,2010-01-24,Sporting Gijón,Racing Sant,0,1,1.0
+2009-2010,19,2010-01-24,Villarreal,Zaragoza,4,2,0.0
+2009-2010,19,2010-01-24,Getafe,Atlético Madrid,1,0,0.0
+2009-2010,19,2010-01-24,Xerez,Osasuna,1,2,1.0
+2009-2010,20,2010-01-30,Sporting Gijón,Barcelona,0,1,1.0
+2009-2010,20,2010-01-30,Espanyol,Athletic Club,1,0,0.0
+2009-2010,20,2010-01-30,La Coruña,Real Madrid,1,3,1.0
+2009-2010,20,2010-01-31,Villarreal,Osasuna,0,2,1.0
+2009-2010,20,2010-01-31,Atlético Madrid,Málaga,0,2,1.0
+2009-2010,20,2010-01-31,Valladolid,Almería,1,1,0.5
+2009-2010,20,2010-01-31,Tenerife,Zaragoza,1,3,1.0
+2009-2010,20,2010-01-31,Sevilla,Valencia,2,1,0.0
+2009-2010,20,2010-01-31,Xerez,Mallorca,2,1,0.0
+2009-2010,20,2010-01-31,Getafe,Racing Sant,0,0,0.5
+2009-2010,21,2010-02-06,Barcelona,Getafe,2,1,0.0
+2009-2010,21,2010-02-06,Valencia,Valladolid,2,0,0.0
+2009-2010,21,2010-02-06,Real Madrid,Espanyol,3,0,0.0
+2009-2010,21,2010-02-07,Racing Sant,Atlético Madrid,1,1,0.5
+2009-2010,21,2010-02-07,Zaragoza,Sevilla,2,1,0.0
+2009-2010,21,2010-02-07,Málaga,La Coruña,0,0,0.5
+2009-2010,21,2010-02-07,Osasuna,Tenerife,1,0,0.0
+2009-2010,21,2010-02-07,Mallorca,Villarreal,1,0,0.0
+2009-2010,21,2010-02-07,Athletic Club,Xerez,3,2,0.0
+2009-2010,21,2010-02-07,Almería,Sporting Gijón,3,1,0.0
+2009-2010,22,2010-02-13,Xerez,Real Madrid,0,3,1.0
+2009-2010,22,2010-02-13,Villarreal,Athletic Club,2,1,0.0
+2009-2010,22,2010-02-13,Sporting Gijón,Valencia,1,1,0.5
+2009-2010,22,2010-02-14,Valladolid,Zaragoza,1,1,0.5
+2009-2010,22,2010-02-14,Racing Sant,Málaga,0,3,1.0
+2009-2010,22,2010-02-14,Sevilla,Osasuna,1,0,0.0
+2009-2010,22,2010-02-14,Atlético Madrid,Barcelona,2,1,0.0
+2009-2010,22,2010-02-14,Espanyol,La Coruña,2,0,0.0
+2009-2010,22,2010-02-14,Getafe,Almería,2,2,0.5
+2009-2010,22,2010-02-15,Tenerife,Mallorca,1,0,0.0
+2009-2010,23,2010-02-20,Mallorca,Sevilla,1,3,1.0
+2009-2010,23,2010-02-20,Barcelona,Racing Sant,4,0,0.0
+2009-2010,23,2010-02-20,La Coruña,Xerez,2,1,0.0
+2009-2010,23,2010-02-21,Athletic Club,Tenerife,4,1,0.0
+2009-2010,23,2010-02-21,Osasuna,Valladolid,1,1,0.5
+2009-2010,23,2010-02-21,Zaragoza,Sporting Gijón,1,3,1.0
+2009-2010,23,2010-02-21,Almería,Atlético Madrid,1,0,0.0
+2009-2010,23,2010-02-21,Málaga,Espanyol,2,1,0.0
+2009-2010,23,2010-02-21,Real Madrid,Villarreal,6,2,0.0
+2009-2010,23,2010-02-22,Valencia,Getafe,2,1,0.0
+2009-2010,24,2010-02-27,Tenerife,Real Madrid,1,5,1.0
+2009-2010,24,2010-02-27,Getafe,Zaragoza,0,2,1.0
+2009-2010,24,2010-02-27,Barcelona,Málaga,2,1,0.0
+2009-2010,24,2010-02-28,Villarreal,La Coruña,1,0,0.0
+2009-2010,24,2010-02-28,Atlético Madrid,Valencia,4,1,0.0
+2009-2010,24,2010-02-28,Xerez,Espanyol,1,1,0.5
+2009-2010,24,2010-02-28,Sevilla,Athletic Club,0,0,0.5
+2009-2010,24,2010-02-28,Sporting Gijón,Osasuna,3,2,0.0
+2009-2010,24,2010-02-28,Valladolid,Mallorca,1,2,1.0
+2009-2010,24,2010-02-28,Racing Sant,Almería,0,2,1.0
+2009-2010,25,2010-03-06,Real Madrid,Sevilla,3,2,0.0
+2009-2010,25,2010-03-06,Almería,Barcelona,2,2,0.5
+2009-2010,25,2010-03-06,La Coruña,Tenerife,3,1,0.0
+2009-2010,25,2010-03-07,Málaga,Xerez,2,4,1.0
+2009-2010,25,2010-03-07,Mallorca,Sporting Gijón,3,0,0.0
+2009-2010,25,2010-03-07,Zaragoza,Atlético Madrid,1,1,0.5
+2009-2010,25,2010-03-07,Athletic Club,Valladolid,2,0,0.0
+2009-2010,25,2010-03-07,Espanyol,Villarreal,0,0,0.5
+2009-2010,25,2010-03-07,Osasuna,Getafe,0,0,0.5
+2009-2010,25,2010-03-08,Valencia,Racing Sant,0,0,0.5
+2009-2010,26,2010-03-13,Sporting Gijón,Athletic Club,0,0,0.5
+2009-2010,26,2010-03-13,Sevilla,La Coruña,1,1,0.5
+2009-2010,26,2010-03-13,Getafe,Mallorca,3,0,0.0
+2009-2010,26,2010-03-14,Tenerife,Espanyol,4,1,0.0
+2009-2010,26,2010-03-14,Valladolid,Real Madrid,1,4,1.0
+2009-2010,26,2010-03-14,Villarreal,Xerez,2,0,0.0
+2009-2010,26,2010-03-14,Almería,Málaga,1,0,0.0
+2009-2010,26,2010-03-14,Racing Sant,Zaragoza,0,0,0.5
+2009-2010,26,2010-03-14,Barcelona,Valencia,3,0,0.0
+2009-2010,26,2010-03-15,Atlético Madrid,Osasuna,1,0,0.0
+2009-2010,27,2010-03-20,Real Madrid,Sporting Gijón,3,1,0.0
+2009-2010,27,2010-03-20,Athletic Club,Getafe,2,2,0.5
+2009-2010,27,2010-03-20,Espanyol,Sevilla,2,0,0.0
+2009-2010,27,2010-03-20,La Coruña,Valladolid,0,2,1.0
+2009-2010,27,2010-03-20,Xerez,Tenerife,2,1,0.0
+2009-2010,27,2010-03-21,Málaga,Villarreal,2,0,0.0
+2009-2010,27,2010-03-21,Valencia,Almería,2,0,0.0
+2009-2010,27,2010-03-21,Osasuna,Racing Sant,1,3,1.0
+2009-2010,27,2010-03-21,Zaragoza,Barcelona,2,4,1.0
+2009-2010,27,2010-03-21,Mallorca,Atlético Madrid,4,1,0.0
+2009-2010,28,2010-03-23,Sevilla,Xerez,1,1,0.5
+2009-2010,28,2010-03-23,Sporting Gijón,La Coruña,2,1,0.0
+2009-2010,28,2010-03-24,Almería,Zaragoza,1,0,0.0
+2009-2010,28,2010-03-24,Valladolid,Espanyol,0,0,0.5
+2009-2010,28,2010-03-24,Tenerife,Villarreal,2,2,0.5
+2009-2010,28,2010-03-24,Valencia,Málaga,1,0,0.0
+2009-2010,28,2010-03-24,Barcelona,Osasuna,2,0,0.0
+2009-2010,28,2010-03-24,Racing Sant,Mallorca,0,0,0.5
+2009-2010,28,2010-03-25,Getafe,Real Madrid,2,4,1.0
+2009-2010,28,2010-03-25,Atlético Madrid,Athletic Club,2,0,0.0
+2009-2010,29,2010-03-27,Mallorca,Barcelona,0,1,1.0
+2009-2010,29,2010-03-27,Zaragoza,Valencia,3,0,0.0
+2009-2010,29,2010-03-27,Málaga,Tenerife,1,1,0.5
+2009-2010,29,2010-03-28,Osasuna,Almería,1,0,0.0
+2009-2010,29,2010-03-28,Espanyol,Sporting Gijón,0,0,0.5
+2009-2010,29,2010-03-28,Real Madrid,Atlético Madrid,3,2,0.0
+2009-2010,29,2010-03-28,La Coruña,Getafe,1,3,1.0
+2009-2010,29,2010-03-28,Villarreal,Sevilla,3,0,0.0
+2009-2010,29,2010-03-28,Xerez,Valladolid,3,0,0.0
+2009-2010,29,2010-03-29,Athletic Club,Racing Sant,4,3,0.0
+2009-2010,30,2010-04-03,Sevilla,Tenerife,3,0,0.0
+2009-2010,30,2010-04-03,Barcelona,Athletic Club,4,1,0.0
+2009-2010,30,2010-04-03,Zaragoza,Málaga,2,0,0.0
+2009-2010,30,2010-04-04,Atlético Madrid,La Coruña,3,0,0.0
+2009-2010,30,2010-04-04,Valladolid,Villarreal,0,2,1.0
+2009-2010,30,2010-04-04,Almería,Mallorca,1,1,0.5
+2009-2010,30,2010-04-04,Sporting Gijón,Xerez,2,2,0.5
+2009-2010,30,2010-04-04,Racing Sant,Real Madrid,0,2,1.0
+2009-2010,30,2010-04-04,Getafe,Espanyol,1,1,0.5
+2009-2010,30,2010-04-04,Valencia,Osasuna,3,0,0.0
+2009-2010,31,2010-04-10,Xerez,Getafe,0,1,1.0
+2009-2010,31,2010-04-10,Málaga,Sevilla,1,2,1.0
+2009-2010,31,2010-04-10,Villarreal,Sporting Gijón,1,0,0.0
+2009-2010,31,2010-04-10,Tenerife,Valladolid,0,0,0.5
+2009-2010,31,2010-04-10,Real Madrid,Barcelona,0,2,1.0
+2009-2010,31,2010-04-11,La Coruña,Racing Sant,1,1,0.5
+2009-2010,31,2010-04-11,Espanyol,Atlético Madrid,3,0,0.0
+2009-2010,31,2010-04-11,Osasuna,Zaragoza,2,0,0.0
+2009-2010,31,2010-04-11,Athletic Club,Almería,4,1,0.0
+2009-2010,31,2010-04-11,Mallorca,Valencia,3,2,0.0
+2009-2010,32,2010-04-13,Valladolid,Sevilla,2,1,0.0
+2009-2010,32,2010-04-13,Sporting Gijón,Tenerife,0,2,1.0
+2009-2010,32,2010-04-13,Getafe,Villarreal,3,0,0.0
+2009-2010,32,2010-04-14,Zaragoza,Mallorca,1,1,0.5
+2009-2010,32,2010-04-14,Atlético Madrid,Xerez,1,2,1.0
+2009-2010,32,2010-04-14,Barcelona,La Coruña,3,0,0.0
+2009-2010,32,2010-04-14,Osasuna,Málaga,2,2,0.5
+2009-2010,32,2010-04-14,Racing Sant,Espanyol,3,1,0.0
+2009-2010,32,2010-04-15,Almería,Real Madrid,1,2,1.0
+2009-2010,32,2010-04-15,Valencia,Athletic Club,2,0,0.0
+2009-2010,33,2010-04-17,Villarreal,Atlético Madrid,2,1,0.0
+2009-2010,33,2010-04-17,Espanyol,Barcelona,0,0,0.5
+2009-2010,33,2010-04-17,Sevilla,Sporting Gijón,3,0,0.0
+2009-2010,33,2010-04-18,Málaga,Valladolid,0,0,0.5
+2009-2010,33,2010-04-18,Real Madrid,Valencia,2,0,0.0
+2009-2010,33,2010-04-18,Xerez,Racing Sant,2,2,0.5
+2009-2010,33,2010-04-18,Tenerife,Getafe,3,2,0.0
+2009-2010,33,2010-04-18,La Coruña,Almería,0,0,0.5
+2009-2010,33,2010-04-18,Athletic Club,Zaragoza,0,0,0.5
+2009-2010,33,2010-04-19,Mallorca,Osasuna,2,0,0.0
+2009-2010,34,2010-04-24,Barcelona,Xerez,3,1,0.0
+2009-2010,34,2010-04-24,Zaragoza,Real Madrid,1,2,1.0
+2009-2010,34,2010-04-24,Valencia,La Coruña,1,0,0.0
+2009-2010,34,2010-04-25,Sporting Gijón,Valladolid,0,2,1.0
+2009-2010,34,2010-04-25,Almería,Espanyol,0,1,1.0
+2009-2010,34,2010-04-25,Atlético Madrid,Tenerife,3,1,0.0
+2009-2010,34,2010-04-25,Mallorca,Málaga,1,1,0.5
+2009-2010,34,2010-04-25,Racing Sant,Villarreal,1,2,1.0
+2009-2010,34,2010-04-25,Getafe,Sevilla,4,3,0.0
+2009-2010,34,2010-04-26,Osasuna,Athletic Club,0,0,0.5
+2009-2010,35,2010-05-01,Málaga,Sporting Gijón,1,1,0.5
+2009-2010,35,2010-05-01,Villarreal,Barcelona,1,4,1.0
+2009-2010,35,2010-05-01,La Coruña,Zaragoza,0,1,1.0
+2009-2010,35,2010-05-01,Tenerife,Racing Sant,2,1,0.0
+2009-2010,35,2010-05-01,Valladolid,Getafe,0,0,0.5
+2009-2010,35,2010-05-01,Espanyol,Valencia,0,2,1.0
+2009-2010,35,2010-05-01,Xerez,Almería,2,1,0.0
+2009-2010,35,2010-05-02,Real Madrid,Osasuna,3,2,0.0
+2009-2010,35,2010-05-02,Athletic Club,Mallorca,1,3,1.0
+2009-2010,35,2010-05-02,Sevilla,Atlético Madrid,3,1,0.0
+2009-2010,36,2010-05-04,Almería,Villarreal,4,2,0.0
+2009-2010,36,2010-05-04,Getafe,Sporting Gijón,1,1,0.5
+2009-2010,36,2010-05-04,Valencia,Xerez,3,1,0.0
+2009-2010,36,2010-05-04,Barcelona,Tenerife,4,1,0.0
+2009-2010,36,2010-05-05,Athletic Club,Málaga,1,1,0.5
+2009-2010,36,2010-05-05,Osasuna,La Coruña,3,1,0.0
+2009-2010,36,2010-05-05,Atlético Madrid,Valladolid,3,1,0.0
+2009-2010,36,2010-05-05,Mallorca,Real Madrid,1,4,1.0
+2009-2010,36,2010-05-05,Zaragoza,Espanyol,1,0,0.0
+2009-2010,36,2010-05-05,Racing Sant,Sevilla,1,5,1.0
+2009-2010,37,2010-05-08,La Coruña,Mallorca,1,0,0.0
+2009-2010,37,2010-05-08,Real Madrid,Athletic Club,5,1,0.0
+2009-2010,37,2010-05-08,Espanyol,Osasuna,2,1,0.0
+2009-2010,37,2010-05-08,Valladolid,Racing Sant,2,1,0.0
+2009-2010,37,2010-05-08,Xerez,Zaragoza,3,2,0.0
+2009-2010,37,2010-05-08,Sevilla,Barcelona,2,3,1.0
+2009-2010,37,2010-05-08,Getafe,Málaga,2,1,0.0
+2009-2010,37,2010-05-08,Villarreal,Valencia,2,0,0.0
+2009-2010,37,2010-05-08,Tenerife,Almería,2,2,0.5
+2009-2010,37,2010-05-08,Sporting Gijón,Atlético Madrid,1,1,0.5
+2009-2010,38,2010-05-15,Mallorca,Espanyol,2,0,0.0
+2009-2010,38,2010-05-15,Zaragoza,Villarreal,3,3,0.5
+2009-2010,38,2010-05-15,Almería,Sevilla,2,3,1.0
+2009-2010,38,2010-05-15,Athletic Club,La Coruña,2,0,0.0
+2009-2010,38,2010-05-15,Atlético Madrid,Getafe,0,3,1.0
+2009-2010,38,2010-05-16,Valencia,Tenerife,1,0,0.0
+2009-2010,38,2010-05-16,Racing Sant,Sporting Gijón,2,0,0.0
+2009-2010,38,2010-05-16,Málaga,Real Madrid,1,1,0.5
+2009-2010,38,2010-05-16,Osasuna,Xerez,1,1,0.5
+2009-2010,38,2010-05-16,Barcelona,Valladolid,4,0,0.0

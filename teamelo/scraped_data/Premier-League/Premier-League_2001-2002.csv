@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2001-2002,1,2001-08-18,Derby County,Blackburn,2,1,0.0
+2001-2002,1,2001-08-18,Liverpool,West Ham,2,1,0.0
+2001-2002,1,2001-08-18,Middlesbrough,Arsenal,0,4,1.0
+2001-2002,1,2001-08-18,Charlton Ath,Everton,1,2,1.0
+2001-2002,1,2001-08-18,Leicester City,Bolton,0,5,1.0
+2001-2002,1,2001-08-18,Leeds United,Southampton,2,0,0.0
+2001-2002,1,2001-08-18,Sunderland,Ipswich Town,1,0,0.0
+2001-2002,1,2001-08-18,Tottenham,Aston Villa,0,0,0.5
+2001-2002,1,2001-08-19,Chelsea,Newcastle Utd,1,1,0.5
+2001-2002,1,2001-08-19,Manchester Utd,Fulham,3,2,0.0
+2001-2002,2,2001-08-20,Everton,Tottenham,1,1,0.5
+2001-2002,2,2001-08-21,Arsenal,Leeds United,1,2,1.0
+2001-2002,2,2001-08-21,Ipswich Town,Derby County,3,1,0.0
+2001-2002,2,2001-08-21,Bolton,Middlesbrough,1,0,0.0
+2001-2002,2,2001-08-22,Fulham,Sunderland,2,0,0.0
+2001-2002,2,2001-08-22,Blackburn,Manchester Utd,2,2,0.5
+2001-2002,3,2001-08-25,Ipswich Town,Charlton Ath,0,1,1.0
+2001-2002,3,2001-08-25,Arsenal,Leicester City,4,0,0.0
+2001-2002,3,2001-08-25,Southampton,Chelsea,0,2,1.0
+2001-2002,3,2001-08-25,Everton,Middlesbrough,2,0,0.0
+2001-2002,3,2001-08-25,West Ham,Leeds United,0,0,0.5
+2001-2002,3,2001-08-25,Blackburn,Tottenham,2,1,0.0
+2001-2002,3,2001-08-25,Fulham,Derby County,0,0,0.5
+2001-2002,3,2001-08-26,Aston Villa,Manchester Utd,1,1,0.5
+2001-2002,3,2001-08-26,Newcastle Utd,Sunderland,1,1,0.5
+2001-2002,3,2001-08-27,Bolton,Liverpool,2,1,0.0
+2001-2002,4,2001-09-08,Sunderland,Blackburn,1,0,0.0
+2001-2002,4,2001-09-08,Chelsea,Arsenal,1,1,0.5
+2001-2002,4,2001-09-08,Leicester City,Ipswich Town,1,1,0.5
+2001-2002,4,2001-09-08,Manchester Utd,Everton,4,1,0.0
+2001-2002,4,2001-09-08,Liverpool,Aston Villa,1,3,1.0
+2001-2002,4,2001-09-08,Derby County,West Ham,0,0,0.5
+2001-2002,4,2001-09-08,Middlesbrough,Newcastle Utd,1,4,1.0
+2001-2002,4,2001-09-08,Leeds United,Bolton,0,0,0.5
+2001-2002,4,2001-09-09,Tottenham,Southampton,2,0,0.0
+2001-2002,4,2001-09-09,Charlton Ath,Fulham,1,1,0.5
+2001-2002,5,2001-09-15,Newcastle Utd,Manchester Utd,4,3,0.0
+2001-2002,5,2001-09-15,Middlesbrough,West Ham,2,0,0.0
+2001-2002,5,2001-09-15,Everton,Liverpool,1,3,1.0
+2001-2002,5,2001-09-15,Derby County,Leicester City,2,3,1.0
+2001-2002,5,2001-09-15,Bolton,Southampton,0,1,1.0
+2001-2002,5,2001-09-15,Fulham,Arsenal,1,3,1.0
+2001-2002,5,2001-09-16,Tottenham,Chelsea,2,3,1.0
+2001-2002,5,2001-09-16,Charlton Ath,Leeds United,0,2,1.0
+2001-2002,5,2001-09-16,Aston Villa,Sunderland,0,0,0.5
+2001-2002,5,2001-09-16,Ipswich Town,Blackburn,1,1,0.5
+2001-2002,6,2001-09-17,Leicester City,Middlesbrough,1,2,1.0
+2001-2002,6,2001-09-19,Blackburn,Bolton,1,1,0.5
+2001-2002,6,2001-09-19,Sunderland,Tottenham,1,2,1.0
+2001-2002,7,2001-09-22,Sunderland,Charlton Ath,2,2,0.5
+2001-2002,7,2001-09-22,Liverpool,Tottenham,1,0,0.0
+2001-2002,7,2001-09-22,Leicester City,Fulham,0,0,0.5
+2001-2002,7,2001-09-22,Manchester Utd,Ipswich Town,4,0,0.0
+2001-2002,7,2001-09-22,Arsenal,Bolton,1,1,0.5
+2001-2002,7,2001-09-22,Blackburn,Everton,1,0,0.0
+2001-2002,7,2001-09-23,Chelsea,Middlesbrough,2,2,0.5
+2001-2002,7,2001-09-23,Leeds United,Derby County,3,0,0.0
+2001-2002,7,2001-09-23,West Ham,Newcastle Utd,3,0,0.0
+2001-2002,7,2001-09-24,Southampton,Aston Villa,1,3,1.0
+2001-2002,2,2001-09-26,Newcastle Utd,Leicester City,1,0,0.0
+2001-2002,8,2001-09-29,Tottenham,Manchester Utd,3,5,1.0
+2001-2002,8,2001-09-29,Charlton Ath,Leicester City,2,0,0.0
+2001-2002,8,2001-09-29,Bolton,Sunderland,0,2,1.0
+2001-2002,8,2001-09-29,Middlesbrough,Southampton,1,3,1.0
+2001-2002,8,2001-09-29,Everton,West Ham,5,0,0.0
+2001-2002,8,2001-09-29,Derby County,Arsenal,0,2,1.0
+2001-2002,8,2001-09-30,Newcastle Utd,Liverpool,0,2,1.0
+2001-2002,8,2001-09-30,Fulham,Chelsea,1,1,0.5
+2001-2002,8,2001-09-30,Ipswich Town,Leeds United,1,2,1.0
+2001-2002,8,2001-09-30,Aston Villa,Blackburn,2,0,0.0
+2001-2002,9,2001-10-13,Sunderland,Manchester Utd,1,3,1.0
+2001-2002,9,2001-10-13,Bolton,Newcastle Utd,0,4,1.0
+2001-2002,9,2001-10-13,Chelsea,Leicester City,2,0,0.0
+2001-2002,9,2001-10-13,Ipswich Town,Everton,0,0,0.5
+2001-2002,9,2001-10-13,Southampton,Arsenal,0,2,1.0
+2001-2002,9,2001-10-13,Liverpool,Leeds United,1,1,0.5
+2001-2002,9,2001-10-13,Charlton Ath,Middlesbrough,0,0,0.5
+2001-2002,9,2001-10-14,Aston Villa,Fulham,2,0,0.0
+2001-2002,9,2001-10-14,Blackburn,West Ham,7,1,0.0
+2001-2002,9,2001-10-15,Tottenham,Derby County,3,1,0.0
+2001-2002,10,2001-10-20,Manchester Utd,Bolton,1,2,1.0
+2001-2002,10,2001-10-20,Everton,Aston Villa,3,2,0.0
+2001-2002,10,2001-10-20,Derby County,Charlton Ath,1,1,0.5
+2001-2002,10,2001-10-20,West Ham,Southampton,2,0,0.0
+2001-2002,10,2001-10-20,Arsenal,Blackburn,3,3,0.5
+2001-2002,10,2001-10-20,Leicester City,Liverpool,1,4,1.0
+2001-2002,10,2001-10-21,Leeds United,Chelsea,0,0,0.5
+2001-2002,10,2001-10-21,Fulham,Ipswich Town,1,1,0.5
+2001-2002,10,2001-10-21,Newcastle Utd,Tottenham,0,2,1.0
+2001-2002,10,2001-10-22,Middlesbrough,Sunderland,2,0,0.0
+2001-2002,2,2001-10-24,West Ham,Chelsea,2,1,0.0
+2001-2002,2,2001-10-24,Aston Villa,Charlton Ath,1,0,0.0
+2001-2002,6,2001-10-24,Southampton,Ipswich Town,3,3,0.5
+2001-2002,11,2001-10-27,Manchester Utd,Leeds United,1,1,0.5
+2001-2002,11,2001-10-27,Fulham,Southampton,2,1,0.0
+2001-2002,11,2001-10-27,Aston Villa,Bolton,3,2,0.0
+2001-2002,11,2001-10-27,Everton,Newcastle Utd,1,3,1.0
+2001-2002,11,2001-10-27,Tottenham,Middlesbrough,2,1,0.0
+2001-2002,11,2001-10-27,Charlton Ath,Liverpool,0,2,1.0
+2001-2002,11,2001-10-27,Sunderland,Arsenal,1,1,0.5
+2001-2002,11,2001-10-28,Ipswich Town,West Ham,2,3,1.0
+2001-2002,11,2001-10-28,Derby County,Chelsea,1,1,0.5
+2001-2002,11,2001-10-29,Blackburn,Leicester City,0,0,0.5
+2001-2002,12,2001-11-03,Newcastle Utd,Aston Villa,3,0,0.0
+2001-2002,12,2001-11-03,Leicester City,Sunderland,1,0,0.0
+2001-2002,12,2001-11-03,West Ham,Fulham,0,2,1.0
+2001-2002,12,2001-11-03,Southampton,Blackburn,1,2,1.0
+2001-2002,12,2001-11-03,Middlesbrough,Derby County,5,1,0.0
+2001-2002,12,2001-11-03,Bolton,Everton,2,2,0.5
+2001-2002,12,2001-11-04,Chelsea,Ipswich Town,2,1,0.0
+2001-2002,12,2001-11-04,Leeds United,Tottenham,2,1,0.0
+2001-2002,12,2001-11-04,Liverpool,Manchester Utd,3,1,0.0
+2001-2002,12,2001-11-04,Arsenal,Charlton Ath,2,4,1.0
+2001-2002,13,2001-11-17,Derby County,Southampton,1,0,0.0
+2001-2002,13,2001-11-17,Tottenham,Arsenal,1,1,0.5
+2001-2002,13,2001-11-17,Fulham,Newcastle Utd,3,1,0.0
+2001-2002,13,2001-11-17,Aston Villa,Middlesbrough,0,0,0.5
+2001-2002,13,2001-11-17,Manchester Utd,Leicester City,2,0,0.0
+2001-2002,13,2001-11-17,Blackburn,Liverpool,1,1,0.5
+2001-2002,13,2001-11-18,Sunderland,Leeds United,2,0,0.0
+2001-2002,13,2001-11-18,Everton,Chelsea,0,0,0.5
+2001-2002,13,2001-11-18,Ipswich Town,Bolton,1,2,1.0
+2001-2002,13,2001-11-19,Charlton Ath,West Ham,4,4,0.5
+2001-2002,14,2001-11-24,Bolton,Fulham,0,0,0.5
+2001-2002,14,2001-11-24,Leicester City,Everton,0,0,0.5
+2001-2002,14,2001-11-24,West Ham,Tottenham,0,1,1.0
+2001-2002,14,2001-11-24,Chelsea,Blackburn,0,0,0.5
+2001-2002,14,2001-11-24,Southampton,Charlton Ath,1,0,0.0
+2001-2002,14,2001-11-24,Newcastle Utd,Derby County,1,0,0.0
+2001-2002,14,2001-11-25,Arsenal,Manchester Utd,3,1,0.0
+2001-2002,14,2001-11-25,Middlesbrough,Ipswich Town,0,0,0.5
+2001-2002,14,2001-11-25,Leeds United,Aston Villa,1,1,0.5
+2001-2002,14,2001-11-25,Liverpool,Sunderland,1,0,0.0
+2001-2002,15,2001-12-01,Aston Villa,Leicester City,0,2,1.0
+2001-2002,15,2001-12-01,Derby County,Liverpool,0,1,1.0
+2001-2002,15,2001-12-01,Blackburn,Middlesbrough,0,1,1.0
+2001-2002,15,2001-12-01,Sunderland,West Ham,1,0,0.0
+2001-2002,15,2001-12-01,Ipswich Town,Arsenal,0,2,1.0
+2001-2002,15,2001-12-01,Manchester Utd,Chelsea,0,3,1.0
+2001-2002,15,2001-12-01,Charlton Ath,Newcastle Utd,1,1,0.5
+2001-2002,15,2001-12-02,Fulham,Leeds United,0,0,0.5
+2001-2002,15,2001-12-02,Everton,Southampton,2,0,0.0
+2001-2002,15,2001-12-03,Tottenham,Bolton,3,2,0.0
+2001-2002,6,2001-12-05,West Ham,Aston Villa,1,1,0.5
+2001-2002,6,2001-12-05,Chelsea,Charlton Ath,0,1,1.0
+2001-2002,16,2001-12-08,Liverpool,Middlesbrough,2,0,0.0
+2001-2002,16,2001-12-08,Charlton Ath,Tottenham,3,1,0.0
+2001-2002,16,2001-12-08,Derby County,Bolton,1,0,0.0
+2001-2002,16,2001-12-08,Leicester City,Southampton,0,4,1.0
+2001-2002,16,2001-12-08,Fulham,Everton,2,0,0.0
+2001-2002,16,2001-12-08,Manchester Utd,West Ham,0,1,1.0
+2001-2002,16,2001-12-09,Arsenal,Aston Villa,3,2,0.0
+2001-2002,16,2001-12-09,Blackburn,Leeds United,1,2,1.0
+2001-2002,16,2001-12-09,Ipswich Town,Newcastle Utd,0,1,1.0
+2001-2002,16,2001-12-09,Sunderland,Chelsea,0,0,0.5
+2001-2002,6,2001-12-12,Manchester Utd,Derby County,5,0,0.0
+2001-2002,6,2001-12-12,Liverpool,Fulham,0,0,0.5
+2001-2002,17,2001-12-15,Everton,Derby County,1,0,0.0
+2001-2002,17,2001-12-15,Southampton,Sunderland,2,0,0.0
+2001-2002,17,2001-12-15,Newcastle Utd,Blackburn,2,1,0.0
+2001-2002,17,2001-12-15,West Ham,Arsenal,1,1,0.5
+2001-2002,17,2001-12-15,Bolton,Charlton Ath,0,0,0.5
+2001-2002,17,2001-12-15,Middlesbrough,Manchester Utd,0,1,1.0
+2001-2002,17,2001-12-15,Tottenham,Fulham,4,0,0.0
+2001-2002,17,2001-12-16,Chelsea,Liverpool,4,0,0.0
+2001-2002,17,2001-12-16,Leeds United,Leicester City,2,2,0.5
+2001-2002,17,2001-12-17,Aston Villa,Ipswich Town,2,1,0.0
+2001-2002,6,2001-12-18,Arsenal,Newcastle Utd,1,3,1.0
+2001-2002,6,2001-12-19,Leeds United,Everton,3,2,0.0
+2001-2002,18,2001-12-22,Manchester Utd,Southampton,6,1,0.0
+2001-2002,18,2001-12-22,Derby County,Aston Villa,3,1,0.0
+2001-2002,18,2001-12-22,Tottenham,Ipswich Town,1,2,1.0
+2001-2002,18,2001-12-22,Leeds United,Newcastle Utd,3,4,1.0
+2001-2002,18,2001-12-22,Leicester City,West Ham,1,1,0.5
+2001-2002,18,2001-12-22,Sunderland,Everton,1,0,0.0
+2001-2002,18,2001-12-22,Charlton Ath,Blackburn,0,2,1.0
+2001-2002,18,2001-12-23,Chelsea,Bolton,5,1,0.0
+2001-2002,18,2001-12-23,Liverpool,Arsenal,1,2,1.0
+2001-2002,19,2001-12-26,Bolton,Leeds United,0,3,1.0
+2001-2002,19,2001-12-26,Newcastle Utd,Middlesbrough,3,0,0.0
+2001-2002,19,2001-12-26,West Ham,Derby County,4,0,0.0
+2001-2002,19,2001-12-26,Fulham,Charlton Ath,0,0,0.5
+2001-2002,19,2001-12-26,Arsenal,Chelsea,2,1,0.0
+2001-2002,19,2001-12-26,Southampton,Tottenham,1,0,0.0
+2001-2002,19,2001-12-26,Aston Villa,Liverpool,1,2,1.0
+2001-2002,19,2001-12-26,Blackburn,Sunderland,0,3,1.0
+2001-2002,19,2001-12-26,Everton,Manchester Utd,0,2,1.0
+2001-2002,19,2001-12-26,Ipswich Town,Leicester City,2,0,0.0
+2001-2002,20,2001-12-29,Newcastle Utd,Chelsea,1,2,1.0
+2001-2002,20,2001-12-29,Arsenal,Middlesbrough,2,1,0.0
+2001-2002,20,2001-12-29,Everton,Charlton Ath,0,3,1.0
+2001-2002,20,2001-12-29,Southampton,Leeds United,0,1,1.0
+2001-2002,20,2001-12-29,Ipswich Town,Sunderland,5,0,0.0
+2001-2002,20,2001-12-29,West Ham,Liverpool,1,1,0.5
+2001-2002,20,2001-12-29,Bolton,Leicester City,2,2,0.5
+2001-2002,20,2001-12-29,Aston Villa,Tottenham,1,1,0.5
+2001-2002,20,2001-12-29,Blackburn,Derby County,0,1,1.0
+2001-2002,20,2001-12-30,Fulham,Manchester Utd,2,3,1.0
+2001-2002,21,2002-01-01,Sunderland,Aston Villa,1,1,0.5
+2001-2002,21,2002-01-01,Chelsea,Southampton,2,4,1.0
+2001-2002,21,2002-01-01,Leeds United,West Ham,3,0,0.0
+2001-2002,21,2002-01-01,Liverpool,Bolton,1,1,0.5
+2001-2002,21,2002-01-01,Tottenham,Blackburn,1,0,0.0
+2001-2002,21,2002-01-01,Charlton Ath,Ipswich Town,3,2,0.0
+2001-2002,21,2002-01-01,Middlesbrough,Everton,1,0,0.0
+2001-2002,21,2002-01-02,Derby County,Fulham,0,1,1.0
+2001-2002,21,2002-01-02,Manchester Utd,Newcastle Utd,3,1,0.0
+2001-2002,2,2002-01-09,Southampton,Liverpool,2,0,0.0
+2001-2002,22,2002-01-12,Blackburn,Charlton Ath,4,1,0.0
+2001-2002,22,2002-01-12,Newcastle Utd,Leeds United,3,1,0.0
+2001-2002,22,2002-01-12,West Ham,Leicester City,1,0,0.0
+2001-2002,22,2002-01-12,Bolton,Chelsea,2,2,0.5
+2001-2002,22,2002-01-12,Ipswich Town,Tottenham,2,1,0.0
+2001-2002,22,2002-01-12,Everton,Sunderland,1,0,0.0
+2001-2002,22,2002-01-12,Fulham,Middlesbrough,2,1,0.0
+2001-2002,22,2002-01-12,Aston Villa,Derby County,2,1,0.0
+2001-2002,22,2002-01-13,Arsenal,Liverpool,1,1,0.5
+2001-2002,22,2002-01-13,Southampton,Manchester Utd,1,3,1.0
+2001-2002,23,2002-01-19,Sunderland,Fulham,1,1,0.5
+2001-2002,23,2002-01-19,Tottenham,Everton,1,1,0.5
+2001-2002,23,2002-01-19,Derby County,Ipswich Town,1,3,1.0
+2001-2002,23,2002-01-19,Manchester Utd,Blackburn,2,1,0.0
+2001-2002,23,2002-01-19,Leicester City,Newcastle Utd,0,0,0.5
+2001-2002,23,2002-01-19,Middlesbrough,Bolton,1,1,0.5
+2001-2002,23,2002-01-19,Liverpool,Southampton,1,1,0.5
+2001-2002,23,2002-01-20,Leeds United,Arsenal,1,1,0.5
+2001-2002,23,2002-01-20,Chelsea,West Ham,5,1,0.0
+2001-2002,23,2002-01-21,Charlton Ath,Aston Villa,1,2,1.0
+2001-2002,33,2002-01-22,Manchester Utd,Liverpool,0,1,1.0
+2001-2002,21,2002-01-23,Leicester City,Arsenal,1,3,1.0
+2001-2002,24,2002-01-29,Bolton,Manchester Utd,0,4,1.0
+2001-2002,24,2002-01-29,Sunderland,Middlesbrough,0,1,1.0
+2001-2002,24,2002-01-29,Charlton Ath,Derby County,1,0,0.0
+2001-2002,24,2002-01-30,Chelsea,Leeds United,2,0,0.0
+2001-2002,24,2002-01-30,Ipswich Town,Fulham,1,0,0.0
+2001-2002,24,2002-01-30,Blackburn,Arsenal,2,3,1.0
+2001-2002,24,2002-01-30,Liverpool,Leicester City,1,0,0.0
+2001-2002,24,2002-01-30,Southampton,West Ham,2,0,0.0
+2001-2002,24,2002-01-30,Aston Villa,Everton,0,0,0.5
+2001-2002,24,2002-01-30,Tottenham,Newcastle Utd,1,3,1.0
+2001-2002,25,2002-02-02,Newcastle Utd,Bolton,3,2,0.0
+2001-2002,25,2002-02-02,Leicester City,Chelsea,2,3,1.0
+2001-2002,25,2002-02-02,Derby County,Tottenham,1,0,0.0
+2001-2002,25,2002-02-02,Manchester Utd,Sunderland,4,1,0.0
+2001-2002,25,2002-02-02,Fulham,Aston Villa,0,0,0.5
+2001-2002,25,2002-02-02,Arsenal,Southampton,1,1,0.5
+2001-2002,25,2002-02-02,Everton,Ipswich Town,1,2,1.0
+2001-2002,25,2002-02-02,West Ham,Blackburn,2,0,0.0
+2001-2002,25,2002-02-03,Leeds United,Liverpool,0,4,1.0
+2001-2002,25,2002-02-03,Middlesbrough,Charlton Ath,0,0,0.5
+2001-2002,26,2002-02-09,Derby County,Sunderland,0,1,1.0
+2001-2002,26,2002-02-09,Newcastle Utd,Southampton,3,1,0.0
+2001-2002,26,2002-02-09,Bolton,West Ham,1,0,0.0
+2001-2002,26,2002-02-09,Middlesbrough,Leeds United,2,2,0.5
+2001-2002,26,2002-02-09,Aston Villa,Chelsea,1,1,0.5
+2001-2002,26,2002-02-09,Ipswich Town,Liverpool,0,6,1.0
+2001-2002,26,2002-02-09,Fulham,Blackburn,2,0,0.0
+2001-2002,26,2002-02-09,Tottenham,Leicester City,2,1,0.0
+2001-2002,26,2002-02-10,Everton,Arsenal,0,1,1.0
+2001-2002,26,2002-02-10,Charlton Ath,Manchester Utd,0,2,1.0
+2001-2002,18,2002-02-19,Middlesbrough,Fulham,2,1,0.0
+2001-2002,27,2002-02-23,Manchester Utd,Aston Villa,1,0,0.0
+2001-2002,27,2002-02-23,West Ham,Middlesbrough,1,0,0.0
+2001-2002,27,2002-02-23,Arsenal,Fulham,4,1,0.0
+2001-2002,27,2002-02-23,Southampton,Bolton,0,0,0.5
+2001-2002,27,2002-02-23,Leicester City,Derby County,0,3,1.0
+2001-2002,27,2002-02-23,Liverpool,Everton,1,1,0.5
+2001-2002,27,2002-02-24,Leeds United,Charlton Ath,0,0,0.5
+2001-2002,27,2002-02-24,Sunderland,Newcastle Utd,0,1,1.0
+2001-2002,28,2002-03-02,Ipswich Town,Southampton,1,3,1.0
+2001-2002,28,2002-03-02,Middlesbrough,Leicester City,1,0,0.0
+2001-2002,28,2002-03-02,Newcastle Utd,Arsenal,0,2,1.0
+2001-2002,28,2002-03-02,Charlton Ath,Chelsea,2,1,0.0
+2001-2002,28,2002-03-02,Tottenham,Sunderland,2,1,0.0
+2001-2002,28,2002-03-02,Aston Villa,West Ham,2,1,0.0
+2001-2002,28,2002-03-02,Bolton,Blackburn,1,1,0.5
+2001-2002,28,2002-03-02,Fulham,Liverpool,0,2,1.0
+2001-2002,28,2002-03-03,Derby County,Manchester Utd,2,2,0.5
+2001-2002,28,2002-03-03,Everton,Leeds United,0,0,0.5
+2001-2002,29,2002-03-05,Blackburn,Aston Villa,3,0,0.0
+2001-2002,29,2002-03-05,Arsenal,Derby County,1,0,0.0
+2001-2002,29,2002-03-05,Sunderland,Bolton,1,0,0.0
+2001-2002,29,2002-03-06,Liverpool,Newcastle Utd,3,0,0.0
+2001-2002,29,2002-03-06,Manchester Utd,Tottenham,4,0,0.0
+2001-2002,29,2002-03-06,Leeds United,Ipswich Town,2,0,0.0
+2001-2002,29,2002-03-06,Southampton,Middlesbrough,1,1,0.5
+2001-2002,29,2002-03-06,West Ham,Everton,1,0,0.0
+2001-2002,29,2002-03-06,Chelsea,Fulham,3,2,0.0
+2001-2002,29,2002-03-09,Leicester City,Charlton Ath,1,1,0.5
+2001-2002,27,2002-03-13,Blackburn,Ipswich Town,2,1,0.0
+2001-2002,27,2002-03-13,Chelsea,Tottenham,4,0,0.0
+2001-2002,30,2002-03-16,West Ham,Manchester Utd,3,5,1.0
+2001-2002,30,2002-03-16,Bolton,Derby County,1,3,1.0
+2001-2002,30,2002-03-16,Newcastle Utd,Ipswich Town,2,2,0.5
+2001-2002,30,2002-03-16,Middlesbrough,Liverpool,1,2,1.0
+2001-2002,30,2002-03-16,Southampton,Leicester City,2,2,0.5
+2001-2002,30,2002-03-16,Chelsea,Sunderland,4,0,0.0
+2001-2002,30,2002-03-16,Everton,Fulham,2,1,0.0
+2001-2002,30,2002-03-17,Aston Villa,Arsenal,1,2,1.0
+2001-2002,30,2002-03-17,Leeds United,Blackburn,3,1,0.0
+2001-2002,30,2002-03-18,Tottenham,Charlton Ath,0,1,1.0
+2001-2002,31,2002-03-23,Derby County,Everton,3,4,1.0
+2001-2002,31,2002-03-23,Charlton Ath,Bolton,1,2,1.0
+2001-2002,31,2002-03-23,Ipswich Town,Aston Villa,0,0,0.5
+2001-2002,31,2002-03-23,Sunderland,Southampton,1,1,0.5
+2001-2002,31,2002-03-23,Leicester City,Leeds United,0,2,1.0
+2001-2002,31,2002-03-23,Manchester Utd,Middlesbrough,0,1,1.0
+2001-2002,31,2002-03-24,Fulham,Tottenham,0,2,1.0
+2001-2002,31,2002-03-24,Liverpool,Chelsea,1,0,0.0
+2001-2002,32,2002-03-29,Newcastle Utd,Everton,6,2,0.0
+2001-2002,32,2002-03-30,Leicester City,Blackburn,2,1,0.0
+2001-2002,32,2002-03-30,Leeds United,Manchester Utd,3,4,1.0
+2001-2002,32,2002-03-30,Liverpool,Charlton Ath,2,0,0.0
+2001-2002,32,2002-03-30,Chelsea,Derby County,2,1,0.0
+2001-2002,32,2002-03-30,Arsenal,Sunderland,3,0,0.0
+2001-2002,32,2002-03-30,Southampton,Fulham,1,1,0.5
+2001-2002,32,2002-03-30,Bolton,Aston Villa,3,2,0.0
+2001-2002,32,2002-03-30,West Ham,Ipswich Town,3,1,0.0
+2001-2002,32,2002-03-30,Middlesbrough,Tottenham,1,1,0.5
+2001-2002,33,2002-04-01,Derby County,Middlesbrough,0,1,1.0
+2001-2002,33,2002-04-01,Blackburn,Southampton,2,0,0.0
+2001-2002,33,2002-04-01,Ipswich Town,Chelsea,0,0,0.5
+2001-2002,33,2002-04-01,Tottenham,Leeds United,2,1,0.0
+2001-2002,33,2002-04-01,Everton,Bolton,3,1,0.0
+2001-2002,33,2002-04-01,Fulham,West Ham,0,1,1.0
+2001-2002,33,2002-04-01,Charlton Ath,Arsenal,0,3,1.0
+2001-2002,33,2002-04-01,Sunderland,Leicester City,2,1,0.0
+2001-2002,33,2002-04-02,Aston Villa,Newcastle Utd,1,1,0.5
+2001-2002,34,2002-04-06,Arsenal,Tottenham,2,1,0.0
+2001-2002,34,2002-04-06,Middlesbrough,Aston Villa,2,1,0.0
+2001-2002,34,2002-04-06,Chelsea,Everton,3,0,0.0
+2001-2002,34,2002-04-06,Bolton,Ipswich Town,4,1,0.0
+2001-2002,34,2002-04-06,Leicester City,Manchester Utd,0,1,1.0
+2001-2002,34,2002-04-06,Southampton,Derby County,2,0,0.0
+2001-2002,34,2002-04-06,West Ham,Charlton Ath,2,0,0.0
+2001-2002,34,2002-04-07,Leeds United,Sunderland,2,0,0.0
+2001-2002,34,2002-04-08,Newcastle Utd,Fulham,1,1,0.5
+2001-2002,35,2002-04-10,Blackburn,Chelsea,0,0,0.5
+2001-2002,35,2002-04-13,Derby County,Newcastle Utd,2,3,1.0
+2001-2002,35,2002-04-13,Tottenham,West Ham,1,1,0.5
+2001-2002,35,2002-04-13,Charlton Ath,Southampton,1,1,0.5
+2001-2002,35,2002-04-13,Sunderland,Liverpool,0,1,1.0
+2001-2002,35,2002-04-13,Everton,Leicester City,2,2,0.5
+2001-2002,35,2002-04-13,Aston Villa,Leeds United,0,1,1.0
+2001-2002,36,2002-04-20,Middlesbrough,Blackburn,1,3,1.0
+2001-2002,36,2002-04-20,Leeds United,Fulham,0,1,1.0
+2001-2002,36,2002-04-20,Leicester City,Aston Villa,2,2,0.5
+2001-2002,36,2002-04-20,Chelsea,Manchester Utd,0,3,1.0
+2001-2002,36,2002-04-20,West Ham,Sunderland,3,0,0.0
+2001-2002,36,2002-04-20,Bolton,Tottenham,1,1,0.5
+2001-2002,36,2002-04-20,Liverpool,Derby County,2,0,0.0
+2001-2002,36,2002-04-20,Southampton,Everton,0,1,1.0
+2001-2002,36,2002-04-20,Newcastle Utd,Charlton Ath,3,0,0.0
+2001-2002,36,2002-04-21,Arsenal,Ipswich Town,2,0,0.0
+2001-2002,31,2002-04-23,Blackburn,Newcastle Utd,2,2,0.5
+2001-2002,35,2002-04-23,Fulham,Bolton,3,0,0.0
+2001-2002,31,2002-04-24,Arsenal,West Ham,2,0,0.0
+2001-2002,35,2002-04-24,Ipswich Town,Middlesbrough,1,0,0.0
+2001-2002,37,2002-04-27,Middlesbrough,Chelsea,0,2,1.0
+2001-2002,37,2002-04-27,Newcastle Utd,West Ham,3,1,0.0
+2001-2002,37,2002-04-27,Aston Villa,Southampton,2,1,0.0
+2001-2002,37,2002-04-27,Fulham,Leicester City,0,0,0.5
+2001-2002,37,2002-04-27,Ipswich Town,Manchester Utd,0,1,1.0
+2001-2002,37,2002-04-27,Charlton Ath,Sunderland,2,2,0.5
+2001-2002,37,2002-04-27,Tottenham,Liverpool,1,0,0.0
+2001-2002,37,2002-04-27,Derby County,Leeds United,0,1,1.0
+2001-2002,37,2002-04-28,Everton,Blackburn,1,2,1.0
+2001-2002,37,2002-04-29,Bolton,Arsenal,0,2,1.0
+2001-2002,34,2002-05-08,Liverpool,Blackburn,4,3,0.0
+2001-2002,35,2002-05-08,Manchester Utd,Arsenal,0,1,1.0
+2001-2002,38,2002-05-11,Leicester City,Tottenham,2,1,0.0
+2001-2002,38,2002-05-11,Liverpool,Ipswich Town,5,0,0.0
+2001-2002,38,2002-05-11,Southampton,Newcastle Utd,3,1,0.0
+2001-2002,38,2002-05-11,West Ham,Bolton,2,1,0.0
+2001-2002,38,2002-05-11,Chelsea,Aston Villa,1,3,1.0
+2001-2002,38,2002-05-11,Leeds United,Middlesbrough,1,0,0.0
+2001-2002,38,2002-05-11,Blackburn,Fulham,3,0,0.0
+2001-2002,38,2002-05-11,Arsenal,Everton,4,3,0.0
+2001-2002,38,2002-05-11,Manchester Utd,Charlton Ath,0,0,0.5
+2001-2002,38,2002-05-11,Sunderland,Derby County,1,1,0.5

@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1997-1998,1,1997-08-30,Real Madrid,Atlético Madrid,1,1,0.5
+1997-1998,1,1997-08-31,Barcelona,Real Sociedad,3,0,0.0
+1997-1998,1,1997-08-31,Celta Vigo,Zaragoza,2,1,0.0
+1997-1998,1,1997-08-31,Athletic Club,Espanyol,1,3,1.0
+1997-1998,1,1997-08-31,Racing Sant,Salamanca,1,0,0.0
+1997-1998,1,1997-08-31,Tenerife,Dep La Coruña,0,0,0.5
+1997-1998,1,1997-08-31,Compostela,Sporting Gijón,2,0,0.0
+1997-1998,1,1997-08-31,Mallorca,Valencia,2,1,0.0
+1997-1998,1,1997-08-31,Oviedo,Mérida,2,0,0.0
+1997-1998,1,1997-09-01,Valladolid,Real Betis,1,3,1.0
+1997-1998,2,1997-09-06,Real Betis,Athletic Club,1,1,0.5
+1997-1998,2,1997-09-06,Atlético Madrid,Valladolid,5,0,0.0
+1997-1998,2,1997-09-07,Mérida,Compostela,3,3,0.5
+1997-1998,2,1997-09-07,Dep La Coruña,Mallorca,1,1,0.5
+1997-1998,2,1997-09-07,Sporting Gijón,Tenerife,0,2,1.0
+1997-1998,2,1997-09-07,Salamanca,Real Madrid,0,2,1.0
+1997-1998,2,1997-09-07,Real Sociedad,Racing Sant,1,0,0.0
+1997-1998,2,1997-09-07,Zaragoza,Oviedo,3,3,0.5
+1997-1998,2,1997-09-07,Espanyol,Celta Vigo,1,1,0.5
+1997-1998,2,1997-09-08,Valencia,Barcelona,0,3,1.0
+1997-1998,3,1997-09-13,Barcelona,Dep La Coruña,2,1,0.0
+1997-1998,3,1997-09-13,Valladolid,Salamanca,1,2,1.0
+1997-1998,3,1997-09-13,Real Madrid,Real Sociedad,2,0,0.0
+1997-1998,3,1997-09-13,Athletic Club,Atlético Madrid,1,0,0.0
+1997-1998,3,1997-09-14,Mérida,Zaragoza,0,1,1.0
+1997-1998,3,1997-09-14,Celta Vigo,Real Betis,2,0,0.0
+1997-1998,3,1997-09-14,Compostela,Tenerife,1,2,1.0
+1997-1998,3,1997-09-14,Oviedo,Espanyol,1,1,0.5
+1997-1998,3,1997-09-14,Racing Sant,Valencia,2,1,0.0
+1997-1998,3,1997-09-15,Mallorca,Sporting Gijón,6,2,0.0
+1997-1998,4,1997-09-27,Real Sociedad,Valladolid,3,0,0.0
+1997-1998,4,1997-09-27,Sporting Gijón,Barcelona,1,4,1.0
+1997-1998,4,1997-09-27,Salamanca,Athletic Club,0,0,0.5
+1997-1998,4,1997-09-27,Valencia,Real Madrid,0,2,1.0
+1997-1998,4,1997-09-27,Atlético Madrid,Celta Vigo,3,3,0.5
+1997-1998,4,1997-09-27,Dep La Coruña,Racing Sant,4,1,0.0
+1997-1998,4,1997-09-28,Zaragoza,Compostela,2,2,0.5
+1997-1998,4,1997-09-28,Real Betis,Oviedo,1,1,0.5
+1997-1998,4,1997-09-28,Tenerife,Mallorca,1,4,1.0
+1997-1998,4,1997-09-29,Espanyol,Mérida,0,0,0.5
+1997-1998,5,1997-10-04,Athletic Club,Real Sociedad,1,1,0.5
+1997-1998,5,1997-10-04,Zaragoza,Espanyol,1,1,0.5
+1997-1998,5,1997-10-05,Real Madrid,Dep La Coruña,0,0,0.5
+1997-1998,5,1997-10-05,Celta Vigo,Salamanca,4,1,0.0
+1997-1998,5,1997-10-05,Oviedo,Atlético Madrid,0,2,1.0
+1997-1998,5,1997-10-05,Valladolid,Valencia,0,3,1.0
+1997-1998,5,1997-10-05,Barcelona,Tenerife,3,2,0.0
+1997-1998,5,1997-10-05,Compostela,Mallorca,2,2,0.5
+1997-1998,5,1997-10-05,Racing Sant,Sporting Gijón,4,1,0.0
+1997-1998,5,1997-10-06,Mérida,Real Betis,1,3,1.0
+1997-1998,6,1997-10-14,Mallorca,Barcelona,0,1,1.0
+1997-1998,6,1997-10-15,Espanyol,Compostela,1,0,0.0
+1997-1998,6,1997-10-15,Atlético Madrid,Mérida,4,0,0.0
+1997-1998,6,1997-10-15,Real Sociedad,Celta Vigo,2,1,0.0
+1997-1998,6,1997-10-15,Salamanca,Oviedo,0,2,1.0
+1997-1998,6,1997-10-15,Sporting Gijón,Real Madrid,0,2,1.0
+1997-1998,6,1997-10-15,Valencia,Athletic Club,1,1,0.5
+1997-1998,6,1997-10-15,Tenerife,Racing Sant,2,2,0.5
+1997-1998,6,1997-10-15,Dep La Coruña,Valladolid,1,3,1.0
+1997-1998,6,1997-10-15,Real Betis,Zaragoza,3,3,0.5
+1997-1998,7,1997-10-18,Real Madrid,Tenerife,3,0,0.0
+1997-1998,7,1997-10-18,Athletic Club,Dep La Coruña,1,1,0.5
+1997-1998,7,1997-10-18,Zaragoza,Atlético Madrid,1,5,1.0
+1997-1998,7,1997-10-18,Valladolid,Sporting Gijón,1,1,0.5
+1997-1998,7,1997-10-18,Compostela,Barcelona,2,2,0.5
+1997-1998,7,1997-10-19,Racing Sant,Mallorca,0,1,1.0
+1997-1998,7,1997-10-19,Espanyol,Real Betis,5,0,0.0
+1997-1998,7,1997-10-19,Oviedo,Real Sociedad,0,5,1.0
+1997-1998,7,1997-10-19,Celta Vigo,Valencia,1,0,0.0
+1997-1998,7,1997-10-19,Mérida,Salamanca,1,0,0.0
+1997-1998,8,1997-10-25,Dep La Coruña,Celta Vigo,1,1,0.5
+1997-1998,8,1997-10-26,Barcelona,Racing Sant,2,0,0.0
+1997-1998,8,1997-10-26,Valencia,Oviedo,1,1,0.5
+1997-1998,8,1997-10-26,Atlético Madrid,Espanyol,0,2,1.0
+1997-1998,8,1997-10-26,Salamanca,Zaragoza,1,2,1.0
+1997-1998,8,1997-10-26,Real Betis,Compostela,1,0,0.0
+1997-1998,8,1997-10-26,Real Sociedad,Mérida,2,1,0.0
+1997-1998,8,1997-10-26,Sporting Gijón,Athletic Club,1,2,1.0
+1997-1998,8,1997-10-26,Tenerife,Valladolid,1,0,0.0
+1997-1998,8,1997-10-27,Mallorca,Real Madrid,0,0,0.5
+1997-1998,9,1997-11-01,Real Betis,Atlético Madrid,2,3,1.0
+1997-1998,9,1997-11-01,Athletic Club,Tenerife,3,0,0.0
+1997-1998,9,1997-11-01,Real Madrid,Barcelona,2,3,1.0
+1997-1998,9,1997-11-01,Valladolid,Mallorca,0,0,0.5
+1997-1998,9,1997-11-02,Espanyol,Salamanca,3,0,0.0
+1997-1998,9,1997-11-02,Oviedo,Dep La Coruña,1,1,0.5
+1997-1998,9,1997-11-02,Zaragoza,Real Sociedad,0,0,0.5
+1997-1998,9,1997-11-02,Compostela,Racing Sant,3,1,0.0
+1997-1998,9,1997-11-02,Celta Vigo,Sporting Gijón,1,0,0.0
+1997-1998,9,1997-11-03,Mérida,Valencia,1,0,0.0
+1997-1998,10,1997-11-08,Racing Sant,Real Madrid,1,2,1.0
+1997-1998,10,1997-11-09,Dep La Coruña,Mérida,0,1,1.0
+1997-1998,10,1997-11-09,Salamanca,Real Betis,0,0,0.5
+1997-1998,10,1997-11-09,Atlético Madrid,Compostela,3,1,0.0
+1997-1998,10,1997-11-09,Mallorca,Athletic Club,4,0,0.0
+1997-1998,10,1997-11-09,Real Sociedad,Espanyol,2,0,0.0
+1997-1998,10,1997-11-09,Valencia,Zaragoza,2,1,0.0
+1997-1998,10,1997-11-09,Barcelona,Valladolid,1,2,1.0
+1997-1998,10,1997-11-09,Tenerife,Celta Vigo,1,3,1.0
+1997-1998,10,1997-11-09,Sporting Gijón,Oviedo,1,2,1.0
+1997-1998,11,1997-11-11,Atlético Madrid,Salamanca,1,1,0.5
+1997-1998,11,1997-11-12,Mérida,Sporting Gijón,1,0,0.0
+1997-1998,11,1997-11-12,Oviedo,Tenerife,1,0,0.0
+1997-1998,11,1997-11-12,Espanyol,Valencia,3,0,0.0
+1997-1998,11,1997-11-12,Celta Vigo,Mallorca,1,0,0.0
+1997-1998,11,1997-11-12,Real Betis,Real Sociedad,0,0,0.5
+1997-1998,11,1997-11-12,Zaragoza,Dep La Coruña,1,2,1.0
+1997-1998,11,1997-11-12,Valladolid,Racing Sant,0,0,0.5
+1997-1998,11,1997-11-12,Compostela,Real Madrid,2,3,1.0
+1997-1998,11,1997-11-13,Athletic Club,Barcelona,3,0,0.0
+1997-1998,12,1997-11-15,Real Sociedad,Atlético Madrid,0,0,0.5
+1997-1998,12,1997-11-16,Salamanca,Compostela,0,1,1.0
+1997-1998,12,1997-11-16,Racing Sant,Athletic Club,0,0,0.5
+1997-1998,12,1997-11-16,Tenerife,Mérida,1,1,0.5
+1997-1998,12,1997-11-16,Valencia,Real Betis,1,0,0.0
+1997-1998,12,1997-11-16,Sporting Gijón,Zaragoza,2,3,1.0
+1997-1998,12,1997-11-16,Dep La Coruña,Espanyol,1,1,0.5
+1997-1998,12,1997-11-16,Mallorca,Oviedo,1,1,0.5
+1997-1998,12,1997-11-16,Barcelona,Celta Vigo,3,2,0.0
+1997-1998,12,1997-11-17,Real Madrid,Valladolid,3,1,0.0
+1997-1998,13,1997-11-22,Atlético Madrid,Valencia,3,1,0.0
+1997-1998,13,1997-11-22,Oviedo,Barcelona,1,0,0.0
+1997-1998,13,1997-11-22,Athletic Club,Real Madrid,1,1,0.5
+1997-1998,13,1997-11-23,Zaragoza,Tenerife,1,0,0.0
+1997-1998,13,1997-11-23,Salamanca,Real Sociedad,0,0,0.5
+1997-1998,13,1997-11-23,Celta Vigo,Racing Sant,1,2,1.0
+1997-1998,13,1997-11-23,Compostela,Valladolid,0,0,0.5
+1997-1998,13,1997-11-23,Real Betis,Dep La Coruña,1,0,0.0
+1997-1998,13,1997-11-23,Mérida,Mallorca,0,0,0.5
+1997-1998,13,1997-11-24,Espanyol,Sporting Gijón,1,1,0.5
+1997-1998,14,1997-11-29,Sporting Gijón,Real Betis,2,3,1.0
+1997-1998,14,1997-11-30,Racing Sant,Oviedo,0,0,0.5
+1997-1998,14,1997-11-30,Mallorca,Zaragoza,0,2,1.0
+1997-1998,14,1997-11-30,Valencia,Salamanca,0,1,1.0
+1997-1998,14,1997-11-30,Valladolid,Athletic Club,3,0,0.0
+1997-1998,14,1997-11-30,Real Sociedad,Compostela,5,1,0.0
+1997-1998,14,1997-11-30,Tenerife,Espanyol,0,0,0.5
+1997-1998,14,1997-11-30,Dep La Coruña,Atlético Madrid,2,2,0.5
+1997-1998,14,1997-11-30,Real Madrid,Celta Vigo,3,1,0.0
+1997-1998,14,1997-12-01,Barcelona,Mérida,3,1,0.0
+1997-1998,15,1997-12-06,Zaragoza,Barcelona,1,2,1.0
+1997-1998,15,1997-12-06,Atlético Madrid,Sporting Gijón,2,1,0.0
+1997-1998,15,1997-12-06,Oviedo,Real Madrid,1,1,0.5
+1997-1998,15,1997-12-06,Espanyol,Mallorca,1,0,0.0
+1997-1998,15,1997-12-07,Real Betis,Tenerife,3,0,0.0
+1997-1998,15,1997-12-07,Salamanca,Dep La Coruña,4,1,0.0
+1997-1998,15,1997-12-07,Mérida,Racing Sant,1,2,1.0
+1997-1998,15,1997-12-07,Compostela,Athletic Club,1,4,1.0
+1997-1998,15,1997-12-07,Real Sociedad,Valencia,1,1,0.5
+1997-1998,15,1997-12-07,Celta Vigo,Valladolid,2,0,0.0
+1997-1998,16,1997-12-13,Mallorca,Real Betis,1,2,1.0
+1997-1998,16,1997-12-13,Athletic Club,Celta Vigo,2,1,0.0
+1997-1998,16,1997-12-13,Barcelona,Espanyol,3,1,0.0
+1997-1998,16,1997-12-14,Tenerife,Atlético Madrid,2,2,0.5
+1997-1998,16,1997-12-14,Valladolid,Oviedo,1,0,0.0
+1997-1998,16,1997-12-14,Sporting Gijón,Salamanca,1,1,0.5
+1997-1998,16,1997-12-14,Dep La Coruña,Real Sociedad,1,1,0.5
+1997-1998,16,1997-12-14,Racing Sant,Zaragoza,2,3,1.0
+1997-1998,16,1997-12-14,Real Madrid,Mérida,1,0,0.0
+1997-1998,16,1997-12-14,Valencia,Compostela,4,1,0.0
+1997-1998,17,1997-12-17,Real Sociedad,Sporting Gijón,2,1,0.0
+1997-1998,17,1997-12-17,Mérida,Valladolid,0,0,0.5
+1997-1998,17,1997-12-17,Atlético Madrid,Mallorca,2,3,1.0
+1997-1998,17,1997-12-17,Espanyol,Racing Sant,0,0,0.5
+1997-1998,17,1997-12-17,Zaragoza,Real Madrid,2,2,0.5
+1997-1998,17,1997-12-17,Oviedo,Athletic Club,1,2,1.0
+1997-1998,17,1997-12-17,Compostela,Celta Vigo,0,0,0.5
+1997-1998,17,1997-12-17,Salamanca,Tenerife,2,0,0.0
+1997-1998,17,1997-12-18,Valencia,Dep La Coruña,1,0,0.0
+1997-1998,18,1997-12-20,Barcelona,Atlético Madrid,3,1,0.0
+1997-1998,18,1997-12-21,Sporting Gijón,Valencia,0,3,1.0
+1997-1998,18,1997-12-21,Celta Vigo,Oviedo,3,0,0.0
+1997-1998,18,1997-12-21,Valladolid,Zaragoza,4,0,0.0
+1997-1998,18,1997-12-21,Tenerife,Real Sociedad,0,0,0.5
+1997-1998,18,1997-12-21,Real Madrid,Espanyol,2,1,0.0
+1997-1998,18,1997-12-21,Compostela,Dep La Coruña,0,0,0.5
+1997-1998,18,1997-12-21,Racing Sant,Real Betis,2,0,0.0
+1997-1998,18,1997-12-21,Athletic Club,Mérida,5,1,0.0
+1997-1998,18,1997-12-22,Mallorca,Salamanca,1,0,0.0
+1997-1998,19,1998-01-03,Real Betis,Real Madrid,3,2,0.0
+1997-1998,19,1998-01-04,Real Sociedad,Mallorca,1,0,0.0
+1997-1998,19,1998-01-04,Atlético Madrid,Racing Sant,2,1,0.0
+1997-1998,19,1998-01-04,Valencia,Tenerife,1,2,1.0
+1997-1998,19,1998-01-04,Zaragoza,Athletic Club,1,1,0.5
+1997-1998,19,1998-01-04,Oviedo,Compostela,1,1,0.5
+1997-1998,19,1998-01-04,Dep La Coruña,Sporting Gijón,2,1,0.0
+1997-1998,19,1998-01-04,Mérida,Celta Vigo,4,0,0.0
+1997-1998,19,1998-01-04,Espanyol,Valladolid,2,0,0.0
+1997-1998,19,1998-01-05,Salamanca,Barcelona,4,3,0.0
+1997-1998,20,1998-01-10,Atlético Madrid,Real Madrid,1,1,0.5
+1997-1998,20,1998-01-11,Salamanca,Racing Sant,0,0,0.5
+1997-1998,20,1998-01-11,Espanyol,Athletic Club,0,1,1.0
+1997-1998,20,1998-01-11,Mérida,Oviedo,2,1,0.0
+1997-1998,20,1998-01-11,Sporting Gijón,Compostela,0,2,1.0
+1997-1998,20,1998-01-11,Zaragoza,Celta Vigo,1,0,0.0
+1997-1998,20,1998-01-11,Real Sociedad,Barcelona,2,2,0.5
+1997-1998,20,1998-01-11,Dep La Coruña,Tenerife,1,0,0.0
+1997-1998,20,1998-01-12,Valencia,Mallorca,0,0,0.5
+1997-1998,21,1998-01-17,Oviedo,Zaragoza,3,0,0.0
+1997-1998,21,1998-01-17,Valladolid,Atlético Madrid,2,1,0.0
+1997-1998,21,1998-01-17,Celta Vigo,Espanyol,1,0,0.0
+1997-1998,21,1998-01-18,Tenerife,Sporting Gijón,2,1,0.0
+1997-1998,21,1998-01-18,Racing Sant,Real Sociedad,3,1,0.0
+1997-1998,21,1998-01-18,Mallorca,Dep La Coruña,0,0,0.5
+1997-1998,21,1998-01-18,Compostela,Mérida,3,0,0.0
+1997-1998,21,1998-01-18,Athletic Club,Real Betis,0,0,0.5
+1997-1998,21,1998-01-18,Real Madrid,Salamanca,1,0,0.0
+1997-1998,21,1998-01-19,Barcelona,Valencia,3,4,1.0
+1997-1998,22,1998-01-24,Atlético Madrid,Athletic Club,3,0,0.0
+1997-1998,22,1998-01-25,Dep La Coruña,Barcelona,3,1,0.0
+1997-1998,22,1998-01-25,Espanyol,Oviedo,0,0,0.5
+1997-1998,22,1998-01-25,Real Sociedad,Real Madrid,4,2,0.0
+1997-1998,22,1998-01-25,Tenerife,Compostela,5,1,0.0
+1997-1998,22,1998-01-25,Zaragoza,Mérida,1,1,0.5
+1997-1998,22,1998-01-25,Valencia,Racing Sant,6,1,0.0
+1997-1998,22,1998-01-25,Real Betis,Celta Vigo,2,0,0.0
+1997-1998,22,1998-01-25,Sporting Gijón,Mallorca,1,3,1.0
+1997-1998,22,1998-01-26,Salamanca,Valladolid,1,0,0.0
+1997-1998,23,1998-01-31,Athletic Club,Salamanca,1,0,0.0
+1997-1998,23,1998-01-31,Oviedo,Real Betis,0,0,0.5
+1997-1998,23,1998-01-31,Mallorca,Tenerife,5,1,0.0
+1997-1998,23,1998-02-01,Racing Sant,Dep La Coruña,0,1,1.0
+1997-1998,23,1998-02-01,Compostela,Zaragoza,2,0,0.0
+1997-1998,23,1998-02-01,Valladolid,Real Sociedad,0,4,1.0
+1997-1998,23,1998-02-01,Barcelona,Sporting Gijón,2,1,0.0
+1997-1998,23,1998-02-01,Mérida,Espanyol,1,1,0.5
+1997-1998,23,1998-02-01,Celta Vigo,Atlético Madrid,1,1,0.5
+1997-1998,23,1998-02-02,Real Madrid,Valencia,1,2,1.0
+1997-1998,24,1998-02-07,Real Sociedad,Athletic Club,1,1,0.5
+1997-1998,24,1998-02-07,Mallorca,Compostela,2,1,0.0
+1997-1998,24,1998-02-08,Espanyol,Zaragoza,0,1,1.0
+1997-1998,24,1998-02-08,Salamanca,Celta Vigo,0,1,1.0
+1997-1998,24,1998-02-08,Tenerife,Barcelona,1,1,0.5
+1997-1998,24,1998-02-08,Valencia,Valladolid,1,2,1.0
+1997-1998,24,1998-02-08,Sporting Gijón,Racing Sant,2,1,0.0
+1997-1998,24,1998-02-08,Real Betis,Mérida,2,1,0.0
+1997-1998,24,1998-02-08,Dep La Coruña,Real Madrid,2,2,0.5
+1997-1998,24,1998-02-09,Atlético Madrid,Oviedo,4,1,0.0
+1997-1998,25,1998-02-14,Valladolid,Dep La Coruña,1,0,0.0
+1997-1998,25,1998-02-15,Real Madrid,Sporting Gijón,3,0,0.0
+1997-1998,25,1998-02-15,Zaragoza,Real Betis,3,1,0.0
+1997-1998,25,1998-02-15,Celta Vigo,Real Sociedad,2,1,0.0
+1997-1998,25,1998-02-15,Barcelona,Mallorca,0,0,0.5
+1997-1998,25,1998-02-15,Mérida,Atlético Madrid,2,1,0.0
+1997-1998,25,1998-02-15,Racing Sant,Tenerife,2,1,0.0
+1997-1998,25,1998-02-15,Athletic Club,Valencia,0,3,1.0
+1997-1998,25,1998-02-15,Oviedo,Salamanca,2,0,0.0
+1997-1998,25,1998-02-15,Compostela,Espanyol,1,1,0.5
+1997-1998,26,1998-02-21,Tenerife,Real Madrid,4,3,0.0
+1997-1998,26,1998-02-21,Sporting Gijón,Valladolid,1,2,1.0
+1997-1998,26,1998-02-22,Valencia,Celta Vigo,2,1,0.0
+1997-1998,26,1998-02-22,Barcelona,Compostela,2,0,0.0
+1997-1998,26,1998-02-22,Real Sociedad,Oviedo,2,2,0.5
+1997-1998,26,1998-02-22,Dep La Coruña,Athletic Club,3,0,0.0
+1997-1998,26,1998-02-22,Mallorca,Racing Sant,2,1,0.0
+1997-1998,26,1998-02-22,Salamanca,Mérida,3,1,0.0
+1997-1998,26,1998-02-22,Real Betis,Espanyol,1,3,1.0
+1997-1998,26,1998-02-23,Atlético Madrid,Zaragoza,2,1,0.0
+1997-1998,20,1998-02-25,Real Betis,Valladolid,3,0,0.0
+1997-1998,27,1998-02-28,Compostela,Real Betis,2,3,1.0
+1997-1998,27,1998-02-28,Real Madrid,Mallorca,2,0,0.0
+1997-1998,27,1998-02-28,Espanyol,Atlético Madrid,2,2,0.5
+1997-1998,27,1998-03-01,Athletic Club,Sporting Gijón,2,2,0.5
+1997-1998,27,1998-03-01,Mérida,Real Sociedad,3,1,0.0
+1997-1998,27,1998-03-01,Zaragoza,Salamanca,1,1,0.5
+1997-1998,27,1998-03-01,Oviedo,Valencia,0,0,0.5
+1997-1998,27,1998-03-01,Celta Vigo,Dep La Coruña,2,1,0.0
+1997-1998,27,1998-03-01,Valladolid,Tenerife,2,1,0.0
+1997-1998,27,1998-03-02,Racing Sant,Barcelona,2,4,1.0
+1997-1998,28,1998-03-07,Barcelona,Real Madrid,3,0,0.0
+1997-1998,28,1998-03-08,Salamanca,Espanyol,2,1,0.0
+1997-1998,28,1998-03-08,Sporting Gijón,Celta Vigo,0,1,1.0
+1997-1998,28,1998-03-08,Real Sociedad,Zaragoza,0,1,1.0
+1997-1998,28,1998-03-08,Dep La Coruña,Oviedo,2,1,0.0
+1997-1998,28,1998-03-08,Racing Sant,Compostela,1,1,0.5
+1997-1998,28,1998-03-08,Mallorca,Valladolid,1,1,0.5
+1997-1998,28,1998-03-08,Tenerife,Athletic Club,0,2,1.0
+1997-1998,28,1998-03-08,Atlético Madrid,Real Betis,0,0,0.5
+1997-1998,28,1998-03-09,Valencia,Mérida,3,0,0.0
+1997-1998,29,1998-03-14,Real Madrid,Racing Sant,2,2,0.5
+1997-1998,29,1998-03-14,Compostela,Atlético Madrid,2,1,0.0
+1997-1998,29,1998-03-15,Celta Vigo,Tenerife,0,0,0.5
+1997-1998,29,1998-03-15,Zaragoza,Valencia,0,2,1.0
+1997-1998,29,1998-03-15,Oviedo,Sporting Gijón,2,1,0.0
+1997-1998,29,1998-03-15,Espanyol,Real Sociedad,0,3,1.0
+1997-1998,29,1998-03-15,Mérida,Dep La Coruña,1,0,0.0
+1997-1998,29,1998-03-15,Real Betis,Salamanca,2,1,0.0
+1997-1998,29,1998-03-15,Valladolid,Barcelona,1,2,1.0
+1997-1998,29,1998-03-16,Athletic Club,Mallorca,3,1,0.0
+1997-1998,30,1998-03-21,Salamanca,Atlético Madrid,5,4,0.0
+1997-1998,30,1998-03-22,Sporting Gijón,Mérida,0,0,0.5
+1997-1998,30,1998-03-22,Barcelona,Athletic Club,4,0,0.0
+1997-1998,30,1998-03-22,Tenerife,Oviedo,1,0,0.0
+1997-1998,30,1998-03-22,Real Madrid,Compostela,2,1,0.0
+1997-1998,30,1998-03-22,Racing Sant,Valladolid,1,2,1.0
+1997-1998,30,1998-03-22,Real Sociedad,Real Betis,2,0,0.0
+1997-1998,30,1998-03-22,Mallorca,Celta Vigo,4,2,0.0
+1997-1998,30,1998-03-22,Dep La Coruña,Zaragoza,2,1,0.0
+1997-1998,30,1998-03-22,Valencia,Espanyol,0,0,0.5
+1997-1998,31,1998-03-28,Real Betis,Valencia,1,0,0.0
+1997-1998,31,1998-03-28,Valladolid,Real Madrid,1,1,0.5
+1997-1998,31,1998-03-28,Atlético Madrid,Real Sociedad,2,2,0.5
+1997-1998,31,1998-03-29,Celta Vigo,Barcelona,3,1,0.0
+1997-1998,31,1998-03-29,Mérida,Tenerife,1,1,0.5
+1997-1998,31,1998-03-29,Compostela,Salamanca,2,0,0.0
+1997-1998,31,1998-03-29,Espanyol,Dep La Coruña,2,0,0.0
+1997-1998,31,1998-03-29,Athletic Club,Racing Sant,4,3,0.0
+1997-1998,31,1998-03-29,Oviedo,Mallorca,0,1,1.0
+1997-1998,31,1998-03-29,Zaragoza,Sporting Gijón,0,0,0.5
+1997-1998,32,1998-04-04,Real Madrid,Athletic Club,0,0,0.5
+1997-1998,32,1998-04-04,Dep La Coruña,Real Betis,2,0,0.0
+1997-1998,32,1998-04-04,Barcelona,Oviedo,2,1,0.0
+1997-1998,32,1998-04-05,Valencia,Atlético Madrid,4,1,0.0
+1997-1998,32,1998-04-05,Mallorca,Mérida,1,0,0.0
+1997-1998,32,1998-04-05,Valladolid,Compostela,4,1,0.0
+1997-1998,32,1998-04-05,Sporting Gijón,Espanyol,1,0,0.0
+1997-1998,32,1998-04-05,Real Sociedad,Salamanca,1,1,0.5
+1997-1998,32,1998-04-05,Tenerife,Zaragoza,0,0,0.5
+1997-1998,32,1998-04-05,Racing Sant,Celta Vigo,2,1,0.0
+1997-1998,17,1998-04-07,Real Betis,Barcelona,0,2,1.0
+1997-1998,33,1998-04-11,Celta Vigo,Real Madrid,2,1,0.0
+1997-1998,33,1998-04-11,Atlético Madrid,Dep La Coruña,3,0,0.0
+1997-1998,33,1998-04-11,Mérida,Barcelona,1,2,1.0
+1997-1998,33,1998-04-12,Salamanca,Valencia,6,0,0.0
+1997-1998,33,1998-04-12,Oviedo,Racing Sant,0,1,1.0
+1997-1998,33,1998-04-12,Athletic Club,Valladolid,2,0,0.0
+1997-1998,33,1998-04-12,Compostela,Real Sociedad,1,3,1.0
+1997-1998,33,1998-04-12,Espanyol,Tenerife,2,0,0.0
+1997-1998,33,1998-04-12,Zaragoza,Mallorca,2,3,1.0
+1997-1998,33,1998-04-13,Real Betis,Sporting Gijón,2,1,0.0
+1997-1998,34,1998-04-18,Valencia,Real Sociedad,3,2,0.0
+1997-1998,34,1998-04-18,Barcelona,Zaragoza,1,0,0.0
+1997-1998,34,1998-04-19,Real Madrid,Oviedo,5,1,0.0
+1997-1998,34,1998-04-19,Mallorca,Espanyol,2,2,0.5
+1997-1998,34,1998-04-19,Athletic Club,Compostela,2,0,0.0
+1997-1998,34,1998-04-19,Sporting Gijón,Atlético Madrid,2,3,1.0
+1997-1998,34,1998-04-19,Valladolid,Celta Vigo,0,0,0.5
+1997-1998,34,1998-04-19,Tenerife,Real Betis,3,1,0.0
+1997-1998,34,1998-04-19,Dep La Coruña,Salamanca,1,0,0.0
+1997-1998,34,1998-04-19,Racing Sant,Mérida,2,0,0.0
+1997-1998,35,1998-04-25,Real Betis,Mallorca,2,1,0.0
+1997-1998,35,1998-04-25,Espanyol,Barcelona,1,1,0.5
+1997-1998,35,1998-04-26,Oviedo,Valladolid,0,1,1.0
+1997-1998,35,1998-04-26,Mérida,Real Madrid,2,2,0.5
+1997-1998,35,1998-04-26,Celta Vigo,Athletic Club,1,1,0.5
+1997-1998,35,1998-04-26,Compostela,Valencia,3,1,0.0
+1997-1998,35,1998-04-26,Zaragoza,Racing Sant,2,0,0.0
+1997-1998,35,1998-04-26,Atlético Madrid,Tenerife,2,2,0.5
+1997-1998,35,1998-04-26,Salamanca,Sporting Gijón,4,0,0.0
+1997-1998,35,1998-04-27,Real Sociedad,Dep La Coruña,1,1,0.5
+1997-1998,36,1998-05-02,Dep La Coruña,Valencia,1,2,1.0
+1997-1998,36,1998-05-03,Athletic Club,Oviedo,3,0,0.0
+1997-1998,36,1998-05-03,Mallorca,Atlético Madrid,2,1,0.0
+1997-1998,36,1998-05-03,Celta Vigo,Compostela,3,3,0.5
+1997-1998,36,1998-05-03,Sporting Gijón,Real Sociedad,0,2,1.0
+1997-1998,36,1998-05-03,Racing Sant,Espanyol,1,1,0.5
+1997-1998,36,1998-05-03,Tenerife,Salamanca,2,0,0.0
+1997-1998,36,1998-05-03,Barcelona,Real Betis,1,3,1.0
+1997-1998,36,1998-05-03,Valladolid,Mérida,0,0,0.5
+1997-1998,36,1998-05-04,Real Madrid,Zaragoza,0,2,1.0
+1997-1998,37,1998-05-09,Espanyol,Real Madrid,1,0,0.0
+1997-1998,37,1998-05-09,Valencia,Sporting Gijón,2,2,0.5
+1997-1998,37,1998-05-10,Atlético Madrid,Barcelona,5,2,0.0
+1997-1998,37,1998-05-10,Mérida,Athletic Club,0,0,0.5
+1997-1998,37,1998-05-10,Real Sociedad,Tenerife,1,1,0.5
+1997-1998,37,1998-05-10,Dep La Coruña,Compostela,2,6,1.0
+1997-1998,37,1998-05-10,Oviedo,Celta Vigo,3,1,0.0
+1997-1998,37,1998-05-10,Salamanca,Mallorca,1,1,0.5
+1997-1998,37,1998-05-10,Zaragoza,Valladolid,0,0,0.5
+1997-1998,37,1998-05-10,Real Betis,Racing Sant,0,2,1.0
+1997-1998,38,1998-05-15,Tenerife,Valencia,3,2,0.0
+1997-1998,38,1998-05-15,Barcelona,Salamanca,1,4,1.0
+1997-1998,38,1998-05-15,Valladolid,Espanyol,0,0,0.5
+1997-1998,38,1998-05-15,Real Madrid,Real Betis,1,0,0.0
+1997-1998,38,1998-05-15,Celta Vigo,Mérida,2,0,0.0
+1997-1998,38,1998-05-15,Racing Sant,Atlético Madrid,0,1,1.0
+1997-1998,38,1998-05-15,Compostela,Oviedo,1,0,0.0
+1997-1998,38,1998-05-15,Athletic Club,Zaragoza,1,0,0.0
+1997-1998,38,1998-05-15,Mallorca,Real Sociedad,0,1,1.0
+1997-1998,38,1998-05-16,Sporting Gijón,Dep La Coruña,0,3,1.0

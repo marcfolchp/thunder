@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,1,2015-08-21,Málaga,Sevilla,0,0,0.5
+2015-2016,1,2015-08-22,La Coruña,Real Sociedad,0,0,0.5
+2015-2016,1,2015-08-22,Espanyol,Getafe,1,0,0.0
+2015-2016,1,2015-08-22,Atlético Madrid,Las Palmas,1,0,0.0
+2015-2016,1,2015-08-22,Rayo Vallecano,Valencia,0,0,0.5
+2015-2016,1,2015-08-23,Athletic Club,Barcelona,0,1,1.0
+2015-2016,1,2015-08-23,Sporting Gijón,Real Madrid,0,0,0.5
+2015-2016,1,2015-08-23,Levante,Celta Vigo,1,2,1.0
+2015-2016,1,2015-08-23,Betis,Villarreal,1,1,0.5
+2015-2016,1,2015-08-24,Granada,Eibar,1,3,1.0
+2015-2016,2,2015-08-28,Villarreal,Espanyol,3,1,0.0
+2015-2016,2,2015-08-29,Real Sociedad,Sporting Gijón,0,0,0.5
+2015-2016,2,2015-08-29,Barcelona,Málaga,1,0,0.0
+2015-2016,2,2015-08-29,Celta Vigo,Rayo Vallecano,3,0,0.0
+2015-2016,2,2015-08-29,Real Madrid,Betis,5,0,0.0
+2015-2016,2,2015-08-30,Eibar,Athletic Club,2,0,0.0
+2015-2016,2,2015-08-30,Valencia,La Coruña,1,1,0.5
+2015-2016,2,2015-08-30,Sevilla,Atlético Madrid,0,3,1.0
+2015-2016,2,2015-08-30,Las Palmas,Levante,0,0,0.5
+2015-2016,2,2015-08-30,Getafe,Granada,1,2,1.0
+2015-2016,3,2015-09-11,Levante,Sevilla,1,1,0.5
+2015-2016,3,2015-09-12,Espanyol,Real Madrid,0,6,1.0
+2015-2016,3,2015-09-12,Sporting Gijón,Valencia,0,1,1.0
+2015-2016,3,2015-09-12,Atlético Madrid,Barcelona,1,2,1.0
+2015-2016,3,2015-09-12,Betis,Real Sociedad,1,0,0.0
+2015-2016,3,2015-09-13,Granada,Villarreal,1,3,1.0
+2015-2016,3,2015-09-13,Athletic Club,Getafe,3,1,0.0
+2015-2016,3,2015-09-13,Celta Vigo,Las Palmas,3,3,0.5
+2015-2016,3,2015-09-13,Málaga,Eibar,0,0,0.5
+2015-2016,3,2015-09-14,Rayo Vallecano,La Coruña,1,3,1.0
+2015-2016,4,2015-09-18,Getafe,Málaga,1,0,0.0
+2015-2016,4,2015-09-19,Real Madrid,Granada,1,0,0.0
+2015-2016,4,2015-09-19,Valencia,Betis,0,0,0.5
+2015-2016,4,2015-09-19,Eibar,Atlético Madrid,0,2,1.0
+2015-2016,4,2015-09-19,Real Sociedad,Espanyol,2,3,1.0
+2015-2016,4,2015-09-20,Sevilla,Celta Vigo,1,2,1.0
+2015-2016,4,2015-09-20,La Coruña,Sporting Gijón,2,3,1.0
+2015-2016,4,2015-09-20,Villarreal,Athletic Club,3,1,0.0
+2015-2016,4,2015-09-20,Las Palmas,Rayo Vallecano,0,1,1.0
+2015-2016,4,2015-09-20,Barcelona,Levante,4,1,0.0
+2015-2016,5,2015-09-22,Espanyol,Valencia,1,0,0.0
+2015-2016,5,2015-09-22,Atlético Madrid,Getafe,2,0,0.0
+2015-2016,5,2015-09-22,Granada,Real Sociedad,0,3,1.0
+2015-2016,5,2015-09-23,Levante,Eibar,2,2,0.5
+2015-2016,5,2015-09-23,Rayo Vallecano,Sporting Gijón,2,1,0.0
+2015-2016,5,2015-09-23,Celta Vigo,Barcelona,4,1,0.0
+2015-2016,5,2015-09-23,Las Palmas,Sevilla,2,0,0.0
+2015-2016,5,2015-09-23,Athletic Club,Real Madrid,1,2,1.0
+2015-2016,5,2015-09-23,Málaga,Villarreal,0,1,1.0
+2015-2016,5,2015-09-24,Betis,La Coruña,1,2,1.0
+2015-2016,6,2015-09-25,Valencia,Granada,1,0,0.0
+2015-2016,6,2015-09-26,Barcelona,Las Palmas,2,1,0.0
+2015-2016,6,2015-09-26,Real Madrid,Málaga,0,0,0.5
+2015-2016,6,2015-09-26,Villarreal,Atlético Madrid,1,0,0.0
+2015-2016,6,2015-09-26,Sevilla,Rayo Vallecano,3,2,0.0
+2015-2016,6,2015-09-26,Eibar,Celta Vigo,1,1,0.5
+2015-2016,6,2015-09-27,Sporting Gijón,Betis,1,2,1.0
+2015-2016,6,2015-09-27,La Coruña,Espanyol,3,0,0.0
+2015-2016,6,2015-09-27,Getafe,Levante,3,0,0.0
+2015-2016,6,2015-09-27,Real Sociedad,Athletic Club,0,0,0.5
+2015-2016,7,2015-10-02,Celta Vigo,Getafe,0,0,0.5
+2015-2016,7,2015-10-03,Sevilla,Barcelona,2,1,0.0
+2015-2016,7,2015-10-03,Granada,La Coruña,1,1,0.5
+2015-2016,7,2015-10-03,Espanyol,Sporting Gijón,1,2,1.0
+2015-2016,7,2015-10-03,Las Palmas,Eibar,0,2,1.0
+2015-2016,7,2015-10-03,Málaga,Real Sociedad,3,1,0.0
+2015-2016,7,2015-10-04,Rayo Vallecano,Betis,0,2,1.0
+2015-2016,7,2015-10-04,Athletic Club,Valencia,3,1,0.0
+2015-2016,7,2015-10-04,Levante,Villarreal,1,0,0.0
+2015-2016,7,2015-10-04,Atlético Madrid,Real Madrid,1,1,0.5
+2015-2016,8,2015-10-17,Real Madrid,Levante,3,0,0.0
+2015-2016,8,2015-10-17,Eibar,Sevilla,1,1,0.5
+2015-2016,8,2015-10-17,Barcelona,Rayo Vallecano,5,2,0.0
+2015-2016,8,2015-10-17,Valencia,Málaga,3,0,0.0
+2015-2016,8,2015-10-17,Betis,Espanyol,1,3,1.0
+2015-2016,8,2015-10-18,Villarreal,Celta Vigo,1,2,1.0
+2015-2016,8,2015-10-18,Real Sociedad,Atlético Madrid,0,2,1.0
+2015-2016,8,2015-10-18,Getafe,Las Palmas,4,0,0.0
+2015-2016,8,2015-10-18,La Coruña,Athletic Club,2,2,0.5
+2015-2016,8,2015-10-19,Sporting Gijón,Granada,3,3,0.5
+2015-2016,9,2015-10-23,Rayo Vallecano,Espanyol,3,0,0.0
+2015-2016,9,2015-10-24,Celta Vigo,Real Madrid,1,3,1.0
+2015-2016,9,2015-10-24,Granada,Betis,1,1,0.5
+2015-2016,9,2015-10-24,Sevilla,Getafe,5,0,0.0
+2015-2016,9,2015-10-24,Málaga,La Coruña,2,0,0.0
+2015-2016,9,2015-10-25,Levante,Real Sociedad,0,4,1.0
+2015-2016,9,2015-10-25,Las Palmas,Villarreal,0,0,0.5
+2015-2016,9,2015-10-25,Barcelona,Eibar,3,1,0.0
+2015-2016,9,2015-10-25,Atlético Madrid,Valencia,2,1,0.0
+2015-2016,9,2015-10-26,Athletic Club,Sporting Gijón,3,0,0.0
+2015-2016,10,2015-10-30,La Coruña,Atlético Madrid,1,1,0.5
+2015-2016,10,2015-10-31,Real Madrid,Las Palmas,3,1,0.0
+2015-2016,10,2015-10-31,Valencia,Levante,3,0,0.0
+2015-2016,10,2015-10-31,Villarreal,Sevilla,2,1,0.0
+2015-2016,10,2015-10-31,Getafe,Barcelona,0,2,1.0
+2015-2016,10,2015-10-31,Real Sociedad,Celta Vigo,2,3,1.0
+2015-2016,10,2015-11-01,Eibar,Rayo Vallecano,1,0,0.0
+2015-2016,10,2015-11-01,Espanyol,Granada,1,1,0.5
+2015-2016,10,2015-11-01,Sporting Gijón,Málaga,1,0,0.0
+2015-2016,10,2015-11-01,Betis,Athletic Club,1,3,1.0
+2015-2016,11,2015-11-06,Las Palmas,Real Sociedad,2,0,0.0
+2015-2016,11,2015-11-07,Celta Vigo,Valencia,1,5,1.0
+2015-2016,11,2015-11-07,Levante,La Coruña,1,1,0.5
+2015-2016,11,2015-11-07,Rayo Vallecano,Granada,2,1,0.0
+2015-2016,11,2015-11-07,Eibar,Getafe,3,1,0.0
+2015-2016,11,2015-11-07,Málaga,Betis,0,1,1.0
+2015-2016,11,2015-11-08,Athletic Club,Espanyol,2,1,0.0
+2015-2016,11,2015-11-08,Barcelona,Villarreal,3,0,0.0
+2015-2016,11,2015-11-08,Atlético Madrid,Sporting Gijón,1,0,0.0
+2015-2016,11,2015-11-08,Sevilla,Real Madrid,3,2,0.0
+2015-2016,12,2015-11-21,Real Sociedad,Sevilla,2,0,0.0
+2015-2016,12,2015-11-21,Real Madrid,Barcelona,0,4,1.0
+2015-2016,12,2015-11-21,Espanyol,Málaga,2,0,0.0
+2015-2016,12,2015-11-21,Valencia,Las Palmas,1,1,0.5
+2015-2016,12,2015-11-21,La Coruña,Celta Vigo,2,0,0.0
+2015-2016,12,2015-11-22,Sporting Gijón,Levante,0,3,1.0
+2015-2016,12,2015-11-22,Villarreal,Eibar,1,1,0.5
+2015-2016,12,2015-11-22,Granada,Athletic Club,2,0,0.0
+2015-2016,12,2015-11-22,Betis,Atlético Madrid,0,1,1.0
+2015-2016,12,2015-11-23,Getafe,Rayo Vallecano,1,1,0.5
+2015-2016,13,2015-11-27,Levante,Betis,0,1,1.0
+2015-2016,13,2015-11-28,Barcelona,Real Sociedad,4,0,0.0
+2015-2016,13,2015-11-28,Atlético Madrid,Espanyol,1,0,0.0
+2015-2016,13,2015-11-28,Málaga,Granada,2,2,0.5
+2015-2016,13,2015-11-28,Las Palmas,La Coruña,0,2,1.0
+2015-2016,13,2015-11-28,Celta Vigo,Sporting Gijón,2,1,0.0
+2015-2016,13,2015-11-29,Getafe,Villarreal,2,0,0.0
+2015-2016,13,2015-11-29,Eibar,Real Madrid,0,2,1.0
+2015-2016,13,2015-11-29,Rayo Vallecano,Athletic Club,0,3,1.0
+2015-2016,13,2015-11-29,Sevilla,Valencia,1,0,0.0
+2015-2016,14,2015-12-05,Real Madrid,Getafe,4,1,0.0
+2015-2016,14,2015-12-05,Granada,Atlético Madrid,0,2,1.0
+2015-2016,14,2015-12-05,Valencia,Barcelona,1,1,0.5
+2015-2016,14,2015-12-05,La Coruña,Sevilla,1,1,0.5
+2015-2016,14,2015-12-05,Betis,Celta Vigo,1,1,0.5
+2015-2016,14,2015-12-06,Real Sociedad,Eibar,2,1,0.0
+2015-2016,14,2015-12-06,Villarreal,Rayo Vallecano,2,1,0.0
+2015-2016,14,2015-12-06,Sporting Gijón,Las Palmas,3,1,0.0
+2015-2016,14,2015-12-06,Athletic Club,Málaga,0,0,0.5
+2015-2016,14,2015-12-07,Espanyol,Levante,1,1,0.5
+2015-2016,15,2015-12-11,Getafe,Real Sociedad,1,1,0.5
+2015-2016,15,2015-12-12,Barcelona,La Coruña,2,2,0.5
+2015-2016,15,2015-12-12,Levante,Granada,1,2,1.0
+2015-2016,15,2015-12-12,Celta Vigo,Espanyol,1,0,0.0
+2015-2016,15,2015-12-12,Sevilla,Sporting Gijón,2,0,0.0
+2015-2016,15,2015-12-12,Las Palmas,Betis,1,0,0.0
+2015-2016,15,2015-12-13,Rayo Vallecano,Málaga,1,2,1.0
+2015-2016,15,2015-12-13,Eibar,Valencia,1,1,0.5
+2015-2016,15,2015-12-13,Atlético Madrid,Athletic Club,2,1,0.0
+2015-2016,15,2015-12-13,Villarreal,Real Madrid,1,0,0.0
+2015-2016,16,2015-12-19,Valencia,Getafe,2,2,0.5
+2015-2016,16,2015-12-19,Espanyol,Las Palmas,1,0,0.0
+2015-2016,16,2015-12-19,Betis,Sevilla,0,0,0.5
+2015-2016,16,2015-12-19,La Coruña,Eibar,2,0,0.0
+2015-2016,16,2015-12-20,Real Madrid,Rayo Vallecano,10,2,0.0
+2015-2016,16,2015-12-20,Athletic Club,Levante,2,0,0.0
+2015-2016,16,2015-12-20,Granada,Celta Vigo,0,2,1.0
+2015-2016,16,2015-12-20,Real Sociedad,Villarreal,0,2,1.0
+2015-2016,16,2015-12-20,Málaga,Atlético Madrid,1,0,0.0
+2015-2016,17,2015-12-30,Levante,Málaga,0,1,1.0
+2015-2016,17,2015-12-30,Real Madrid,Real Sociedad,3,1,0.0
+2015-2016,17,2015-12-30,Sevilla,Espanyol,2,0,0.0
+2015-2016,17,2015-12-30,Rayo Vallecano,Atlético Madrid,0,2,1.0
+2015-2016,17,2015-12-30,Eibar,Sporting Gijón,2,0,0.0
+2015-2016,17,2015-12-30,Las Palmas,Granada,4,1,0.0
+2015-2016,17,2015-12-30,Barcelona,Betis,4,0,0.0
+2015-2016,17,2015-12-30,Celta Vigo,Athletic Club,0,1,1.0
+2015-2016,17,2015-12-30,Getafe,La Coruña,0,0,0.5
+2015-2016,17,2015-12-31,Villarreal,Valencia,1,0,0.0
+2015-2016,18,2016-01-02,Espanyol,Barcelona,0,0,0.5
+2015-2016,18,2016-01-02,Atlético Madrid,Levante,1,0,0.0
+2015-2016,18,2016-01-02,Málaga,Celta Vigo,2,0,0.0
+2015-2016,18,2016-01-03,Rayo Vallecano,Real Sociedad,2,2,0.5
+2015-2016,18,2016-01-03,Granada,Sevilla,2,1,0.0
+2015-2016,18,2016-01-03,Betis,Eibar,0,4,1.0
+2015-2016,18,2016-01-03,Athletic Club,Las Palmas,2,2,0.5
+2015-2016,18,2016-01-03,La Coruña,Villarreal,1,2,1.0
+2015-2016,18,2016-01-03,Valencia,Real Madrid,2,2,0.5
+2015-2016,18,2016-01-04,Sporting Gijón,Getafe,1,2,1.0
+2015-2016,19,2016-01-09,Barcelona,Granada,4,0,0.0
+2015-2016,19,2016-01-09,Getafe,Betis,1,0,0.0
+2015-2016,19,2016-01-09,Sevilla,Athletic Club,2,0,0.0
+2015-2016,19,2016-01-09,Real Madrid,La Coruña,5,0,0.0
+2015-2016,19,2016-01-09,Levante,Rayo Vallecano,2,1,0.0
+2015-2016,19,2016-01-10,Villarreal,Sporting Gijón,2,0,0.0
+2015-2016,19,2016-01-10,Real Sociedad,Valencia,2,0,0.0
+2015-2016,19,2016-01-10,Las Palmas,Málaga,1,1,0.5
+2015-2016,19,2016-01-10,Eibar,Espanyol,2,1,0.0
+2015-2016,19,2016-01-10,Celta Vigo,Atlético Madrid,0,2,1.0
+2015-2016,20,2016-01-16,Sevilla,Málaga,2,1,0.0
+2015-2016,20,2016-01-16,Celta Vigo,Levante,4,3,0.0
+2015-2016,20,2016-01-16,Villarreal,Betis,0,0,0.5
+2015-2016,20,2016-01-16,Real Sociedad,La Coruña,1,1,0.5
+2015-2016,20,2016-01-17,Valencia,Rayo Vallecano,2,2,0.5
+2015-2016,20,2016-01-17,Real Madrid,Sporting Gijón,5,1,0.0
+2015-2016,20,2016-01-17,Las Palmas,Atlético Madrid,0,3,1.0
+2015-2016,20,2016-01-17,Getafe,Espanyol,3,1,0.0
+2015-2016,20,2016-01-17,Barcelona,Athletic Club,6,0,0.0
+2015-2016,20,2016-01-18,Eibar,Granada,5,1,0.0
+2015-2016,21,2016-01-22,Sporting Gijón,Real Sociedad,5,1,0.0
+2015-2016,21,2016-01-23,Málaga,Barcelona,1,2,1.0
+2015-2016,21,2016-01-23,Espanyol,Villarreal,2,2,0.5
+2015-2016,21,2016-01-23,Granada,Getafe,3,2,0.0
+2015-2016,21,2016-01-23,Rayo Vallecano,Celta Vigo,3,0,0.0
+2015-2016,21,2016-01-24,Athletic Club,Eibar,5,2,0.0
+2015-2016,21,2016-01-24,Atlético Madrid,Sevilla,0,0,0.5
+2015-2016,21,2016-01-24,La Coruña,Valencia,1,1,0.5
+2015-2016,21,2016-01-24,Betis,Real Madrid,1,1,0.5
+2015-2016,21,2016-01-25,Levante,Las Palmas,3,2,0.0
+2015-2016,22,2016-01-30,Barcelona,Atlético Madrid,2,1,0.0
+2015-2016,22,2016-01-30,Getafe,Athletic Club,0,1,1.0
+2015-2016,22,2016-01-30,Eibar,Málaga,1,2,1.0
+2015-2016,22,2016-01-30,Villarreal,Granada,1,0,0.0
+2015-2016,22,2016-01-30,Real Sociedad,Betis,2,1,0.0
+2015-2016,22,2016-01-31,Sevilla,Levante,3,1,0.0
+2015-2016,22,2016-01-31,Valencia,Sporting Gijón,0,1,1.0
+2015-2016,22,2016-01-31,Las Palmas,Celta Vigo,2,1,0.0
+2015-2016,22,2016-01-31,Real Madrid,Espanyol,6,0,0.0
+2015-2016,22,2016-02-01,La Coruña,Rayo Vallecano,2,2,0.5
+2015-2016,23,2016-02-05,Málaga,Getafe,3,0,0.0
+2015-2016,23,2016-02-06,Atlético Madrid,Eibar,3,1,0.0
+2015-2016,23,2016-02-06,Rayo Vallecano,Las Palmas,2,0,0.0
+2015-2016,23,2016-02-06,Athletic Club,Villarreal,0,0,0.5
+2015-2016,23,2016-02-06,Sporting Gijón,La Coruña,1,1,0.5
+2015-2016,23,2016-02-07,Levante,Barcelona,0,2,1.0
+2015-2016,23,2016-02-07,Betis,Valencia,1,0,0.0
+2015-2016,23,2016-02-07,Celta Vigo,Sevilla,1,1,0.5
+2015-2016,23,2016-02-07,Granada,Real Madrid,1,2,1.0
+2015-2016,23,2016-02-08,Espanyol,Real Sociedad,0,5,1.0
+2015-2016,24,2016-02-12,Sporting Gijón,Rayo Vallecano,2,2,0.5
+2015-2016,24,2016-02-13,Real Madrid,Athletic Club,4,2,0.0
+2015-2016,24,2016-02-13,Villarreal,Málaga,1,0,0.0
+2015-2016,24,2016-02-13,Valencia,Espanyol,2,1,0.0
+2015-2016,24,2016-02-13,La Coruña,Betis,2,2,0.5
+2015-2016,24,2016-02-14,Real Sociedad,Granada,3,0,0.0
+2015-2016,24,2016-02-14,Sevilla,Las Palmas,2,0,0.0
+2015-2016,24,2016-02-14,Eibar,Levante,2,0,0.0
+2015-2016,24,2016-02-14,Getafe,Atlético Madrid,0,1,1.0
+2015-2016,24,2016-02-14,Barcelona,Celta Vigo,6,1,0.0
+2015-2016,16,2016-02-17,Sporting Gijón,Barcelona,1,3,1.0
+2015-2016,25,2016-02-19,Levante,Getafe,3,0,0.0
+2015-2016,25,2016-02-20,Las Palmas,Barcelona,1,2,1.0
+2015-2016,25,2016-02-20,Espanyol,La Coruña,1,0,0.0
+2015-2016,25,2016-02-20,Betis,Sporting Gijón,1,1,0.5
+2015-2016,25,2016-02-20,Celta Vigo,Eibar,3,2,0.0
+2015-2016,25,2016-02-21,Rayo Vallecano,Sevilla,2,2,0.5
+2015-2016,25,2016-02-21,Málaga,Real Madrid,1,1,0.5
+2015-2016,25,2016-02-21,Granada,Valencia,1,2,1.0
+2015-2016,25,2016-02-21,Athletic Club,Real Sociedad,0,1,1.0
+2015-2016,25,2016-02-21,Atlético Madrid,Villarreal,0,0,0.5
+2015-2016,26,2016-02-26,Eibar,Las Palmas,0,1,1.0
+2015-2016,26,2016-02-27,Real Madrid,Atlético Madrid,0,1,1.0
+2015-2016,26,2016-02-27,Sporting Gijón,Espanyol,2,4,1.0
+2015-2016,26,2016-02-27,Getafe,Celta Vigo,0,1,1.0
+2015-2016,26,2016-02-27,Betis,Rayo Vallecano,2,2,0.5
+2015-2016,26,2016-02-27,Real Sociedad,Málaga,1,1,0.5
+2015-2016,26,2016-02-28,Villarreal,Levante,3,0,0.0
+2015-2016,26,2016-02-28,Valencia,Athletic Club,0,3,1.0
+2015-2016,26,2016-02-28,La Coruña,Granada,0,1,1.0
+2015-2016,26,2016-02-28,Barcelona,Sevilla,2,1,0.0
+2015-2016,27,2016-03-01,Atlético Madrid,Real Sociedad,3,0,0.0
+2015-2016,27,2016-03-01,Las Palmas,Getafe,4,0,0.0
+2015-2016,27,2016-03-02,Celta Vigo,Villarreal,0,0,0.5
+2015-2016,27,2016-03-02,Málaga,Valencia,1,2,1.0
+2015-2016,27,2016-03-02,Athletic Club,La Coruña,4,1,0.0
+2015-2016,27,2016-03-02,Sevilla,Eibar,1,0,0.0
+2015-2016,27,2016-03-02,Levante,Real Madrid,1,3,1.0
+2015-2016,27,2016-03-03,Granada,Sporting Gijón,2,0,0.0
+2015-2016,27,2016-03-03,Espanyol,Betis,0,3,1.0
+2015-2016,27,2016-03-03,Rayo Vallecano,Barcelona,1,5,1.0
+2015-2016,28,2016-03-05,Real Madrid,Celta Vigo,7,1,0.0
+2015-2016,28,2016-03-05,Villarreal,Las Palmas,0,1,1.0
+2015-2016,28,2016-03-05,Getafe,Sevilla,1,1,0.5
+2015-2016,28,2016-03-05,La Coruña,Málaga,3,3,0.5
+2015-2016,28,2016-03-06,Betis,Granada,2,0,0.0
+2015-2016,28,2016-03-06,Eibar,Barcelona,0,4,1.0
+2015-2016,28,2016-03-06,Real Sociedad,Levante,1,1,0.5
+2015-2016,28,2016-03-06,Sporting Gijón,Athletic Club,0,2,1.0
+2015-2016,28,2016-03-06,Valencia,Atlético Madrid,1,3,1.0
+2015-2016,28,2016-03-07,Espanyol,Rayo Vallecano,2,1,0.0
+2015-2016,29,2016-03-11,Málaga,Sporting Gijón,1,0,0.0
+2015-2016,29,2016-03-12,Barcelona,Getafe,6,0,0.0
+2015-2016,29,2016-03-12,Celta Vigo,Real Sociedad,1,0,0.0
+2015-2016,29,2016-03-12,Atlético Madrid,La Coruña,3,0,0.0
+2015-2016,29,2016-03-12,Rayo Vallecano,Eibar,1,1,0.5
+2015-2016,29,2016-03-13,Levante,Valencia,1,0,0.0
+2015-2016,29,2016-03-13,Sevilla,Villarreal,4,2,0.0
+2015-2016,29,2016-03-13,Athletic Club,Betis,3,1,0.0
+2015-2016,29,2016-03-13,Las Palmas,Real Madrid,1,2,1.0
+2015-2016,29,2016-03-14,Granada,Espanyol,1,1,0.5
+2015-2016,30,2016-03-18,Getafe,Eibar,1,1,0.5
+2015-2016,30,2016-03-19,Sporting Gijón,Atlético Madrid,2,1,0.0
+2015-2016,30,2016-03-19,Real Sociedad,Las Palmas,0,1,1.0
+2015-2016,30,2016-03-19,Granada,Rayo Vallecano,2,2,0.5
+2015-2016,30,2016-03-19,La Coruña,Levante,2,1,0.0
+2015-2016,30,2016-03-19,Betis,Málaga,0,1,1.0
+2015-2016,30,2016-03-20,Espanyol,Athletic Club,2,1,0.0
+2015-2016,30,2016-03-20,Villarreal,Barcelona,2,2,0.5
+2015-2016,30,2016-03-20,Valencia,Celta Vigo,0,2,1.0
+2015-2016,30,2016-03-20,Real Madrid,Sevilla,4,0,0.0
+2015-2016,31,2016-04-01,Rayo Vallecano,Getafe,2,0,0.0
+2015-2016,31,2016-04-02,Atlético Madrid,Betis,5,1,0.0
+2015-2016,31,2016-04-02,Las Palmas,Valencia,2,1,0.0
+2015-2016,31,2016-04-02,Barcelona,Real Madrid,1,2,1.0
+2015-2016,31,2016-04-02,Celta Vigo,La Coruña,1,1,0.5
+2015-2016,31,2016-04-03,Athletic Club,Granada,1,1,0.5
+2015-2016,31,2016-04-03,Málaga,Espanyol,1,1,0.5
+2015-2016,31,2016-04-03,Eibar,Villarreal,1,2,1.0
+2015-2016,31,2016-04-03,Sevilla,Real Sociedad,1,2,1.0
+2015-2016,31,2016-04-04,Levante,Sporting Gijón,0,0,0.5
+2015-2016,32,2016-04-08,Granada,Málaga,0,0,0.5
+2015-2016,32,2016-04-09,Real Madrid,Eibar,4,0,0.0
+2015-2016,32,2016-04-09,Espanyol,Atlético Madrid,1,3,1.0
+2015-2016,32,2016-04-09,Real Sociedad,Barcelona,1,0,0.0
+2015-2016,32,2016-04-09,Betis,Levante,1,0,0.0
+2015-2016,32,2016-04-10,Sporting Gijón,Celta Vigo,0,1,1.0
+2015-2016,32,2016-04-10,Valencia,Sevilla,2,1,0.0
+2015-2016,32,2016-04-10,Villarreal,Getafe,2,0,0.0
+2015-2016,32,2016-04-10,Athletic Club,Rayo Vallecano,1,0,0.0
+2015-2016,32,2016-04-11,La Coruña,Las Palmas,1,3,1.0
+2015-2016,33,2016-04-15,Levante,Espanyol,2,1,0.0
+2015-2016,33,2016-04-16,Getafe,Real Madrid,1,5,1.0
+2015-2016,33,2016-04-16,Las Palmas,Sporting Gijón,1,1,0.5
+2015-2016,33,2016-04-16,Eibar,Real Sociedad,2,1,0.0
+2015-2016,33,2016-04-16,Celta Vigo,Betis,1,1,0.5
+2015-2016,33,2016-04-17,Málaga,Athletic Club,0,1,1.0
+2015-2016,33,2016-04-17,Sevilla,La Coruña,1,1,0.5
+2015-2016,33,2016-04-17,Rayo Vallecano,Villarreal,2,1,0.0
+2015-2016,33,2016-04-17,Atlético Madrid,Granada,3,0,0.0
+2015-2016,33,2016-04-17,Barcelona,Valencia,1,2,1.0
+2015-2016,34,2016-04-19,Espanyol,Celta Vigo,1,1,0.5
+2015-2016,34,2016-04-19,Betis,Las Palmas,1,0,0.0
+2015-2016,34,2016-04-20,La Coruña,Barcelona,0,8,1.0
+2015-2016,34,2016-04-20,Valencia,Eibar,4,0,0.0
+2015-2016,34,2016-04-20,Athletic Club,Atlético Madrid,0,1,1.0
+2015-2016,34,2016-04-20,Sporting Gijón,Sevilla,2,1,0.0
+2015-2016,34,2016-04-20,Málaga,Rayo Vallecano,1,1,0.5
+2015-2016,34,2016-04-20,Real Madrid,Villarreal,3,0,0.0
+2015-2016,34,2016-04-21,Real Sociedad,Getafe,1,2,1.0
+2015-2016,34,2016-04-21,Granada,Levante,5,1,0.0
+2015-2016,35,2016-04-22,Las Palmas,Espanyol,4,0,0.0
+2015-2016,35,2016-04-23,Rayo Vallecano,Real Madrid,2,3,1.0
+2015-2016,35,2016-04-23,Atlético Madrid,Málaga,1,0,0.0
+2015-2016,35,2016-04-23,Barcelona,Sporting Gijón,6,0,0.0
+2015-2016,35,2016-04-23,Eibar,La Coruña,1,1,0.5
+2015-2016,35,2016-04-24,Levante,Athletic Club,2,2,0.5
+2015-2016,35,2016-04-24,Sevilla,Betis,2,0,0.0
+2015-2016,35,2016-04-24,Getafe,Valencia,2,2,0.5
+2015-2016,35,2016-04-24,Villarreal,Real Sociedad,0,0,0.5
+2015-2016,35,2016-04-25,Celta Vigo,Granada,2,1,0.0
+2015-2016,36,2016-04-29,Sporting Gijón,Eibar,2,0,0.0
+2015-2016,36,2016-04-30,Real Sociedad,Real Madrid,0,1,1.0
+2015-2016,36,2016-04-30,Atlético Madrid,Rayo Vallecano,1,0,0.0
+2015-2016,36,2016-04-30,Betis,Barcelona,0,2,1.0
+2015-2016,36,2016-04-30,Granada,Las Palmas,3,2,0.0
+2015-2016,36,2016-05-01,Athletic Club,Celta Vigo,2,1,0.0
+2015-2016,36,2016-05-01,Espanyol,Sevilla,1,0,0.0
+2015-2016,36,2016-05-01,La Coruña,Getafe,0,2,1.0
+2015-2016,36,2016-05-01,Valencia,Villarreal,0,2,1.0
+2015-2016,36,2016-05-02,Málaga,Levante,3,1,0.0
+2015-2016,37,2016-05-08,Las Palmas,Athletic Club,0,0,0.5
+2015-2016,37,2016-05-08,Real Madrid,Valencia,3,2,0.0
+2015-2016,37,2016-05-08,Barcelona,Espanyol,5,0,0.0
+2015-2016,37,2016-05-08,Getafe,Sporting Gijón,1,1,0.5
+2015-2016,37,2016-05-08,Eibar,Betis,1,1,0.5
+2015-2016,37,2016-05-08,Celta Vigo,Málaga,1,0,0.0
+2015-2016,37,2016-05-08,Real Sociedad,Rayo Vallecano,2,1,0.0
+2015-2016,37,2016-05-08,Villarreal,La Coruña,0,2,1.0
+2015-2016,37,2016-05-08,Sevilla,Granada,1,4,1.0
+2015-2016,37,2016-05-08,Levante,Atlético Madrid,2,1,0.0
+2015-2016,38,2016-05-13,Valencia,Real Sociedad,0,1,1.0
+2015-2016,38,2016-05-14,Granada,Barcelona,0,3,1.0
+2015-2016,38,2016-05-14,La Coruña,Real Madrid,0,2,1.0
+2015-2016,38,2016-05-14,Atlético Madrid,Celta Vigo,2,0,0.0
+2015-2016,38,2016-05-14,Athletic Club,Sevilla,3,1,0.0
+2015-2016,38,2016-05-15,Málaga,Las Palmas,4,1,0.0
+2015-2016,38,2016-05-15,Espanyol,Eibar,4,2,0.0
+2015-2016,38,2016-05-15,Betis,Getafe,2,1,0.0
+2015-2016,38,2016-05-15,Sporting Gijón,Villarreal,2,0,0.0
+2015-2016,38,2016-05-15,Rayo Vallecano,Levante,3,1,0.0

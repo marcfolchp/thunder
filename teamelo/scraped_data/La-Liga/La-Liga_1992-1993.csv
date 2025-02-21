@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1992-1993,1,1992-09-05,Valencia,Rayo Vallecano,1,0,0.0
+1992-1993,1,1992-09-05,Barcelona,Real Madrid,2,1,0.0
+1992-1993,1,1992-09-06,Logroñés,Oviedo,1,0,0.0
+1992-1993,1,1992-09-06,Albacete,Sevilla,3,4,1.0
+1992-1993,1,1992-09-06,Sporting Gijón,Osasuna,0,0,0.5
+1992-1993,1,1992-09-06,Dep La Coruña,Celta Vigo,2,0,0.0
+1992-1993,1,1992-09-06,Atlético Madrid,Tenerife,3,2,0.0
+1992-1993,1,1992-09-06,Zaragoza,Espanyol,2,1,0.0
+1992-1993,1,1992-09-06,Athletic Club,Cádiz,2,1,0.0
+1992-1993,1,1992-09-06,Real Burgos,Real Sociedad,4,0,0.0
+1992-1993,2,1992-09-12,Tenerife,Barcelona,1,1,0.5
+1992-1993,2,1992-09-12,Real Sociedad,Sporting Gijón,1,2,1.0
+1992-1993,2,1992-09-13,Espanyol,Atlético Madrid,1,3,1.0
+1992-1993,2,1992-09-13,Sevilla,Dep La Coruña,1,3,1.0
+1992-1993,2,1992-09-13,Rayo Vallecano,Logroñés,2,1,0.0
+1992-1993,2,1992-09-13,Cádiz,Zaragoza,1,1,0.5
+1992-1993,2,1992-09-13,Celta Vigo,Valencia,0,0,0.5
+1992-1993,2,1992-09-13,Osasuna,Albacete,3,0,0.0
+1992-1993,2,1992-09-13,Real Madrid,Real Burgos,3,0,0.0
+1992-1993,2,1992-09-13,Oviedo,Athletic Club,1,0,0.0
+1992-1993,3,1992-09-19,Valencia,Sevilla,1,1,0.5
+1992-1993,3,1992-09-19,Logroñés,Celta Vigo,0,1,1.0
+1992-1993,3,1992-09-19,Atlético Madrid,Barcelona,1,4,1.0
+1992-1993,3,1992-09-20,Zaragoza,Oviedo,1,0,0.0
+1992-1993,3,1992-09-20,Albacete,Real Sociedad,1,2,1.0
+1992-1993,3,1992-09-20,Real Burgos,Tenerife,0,3,1.0
+1992-1993,3,1992-09-20,Espanyol,Cádiz,1,2,1.0
+1992-1993,3,1992-09-20,Dep La Coruña,Osasuna,2,1,0.0
+1992-1993,3,1992-09-20,Sporting Gijón,Real Madrid,0,0,0.5
+1992-1993,3,1992-09-20,Athletic Club,Rayo Vallecano,4,2,0.0
+1992-1993,4,1992-09-26,Sevilla,Logroñés,3,0,0.0
+1992-1993,4,1992-09-26,Real Sociedad,Dep La Coruña,0,2,1.0
+1992-1993,4,1992-09-26,Osasuna,Valencia,2,2,0.5
+1992-1993,4,1992-09-26,Real Madrid,Albacete,3,0,0.0
+1992-1993,4,1992-09-27,Rayo Vallecano,Zaragoza,0,0,0.5
+1992-1993,4,1992-09-27,Cádiz,Atlético Madrid,1,1,0.5
+1992-1993,4,1992-09-27,Barcelona,Real Burgos,4,1,0.0
+1992-1993,4,1992-09-27,Oviedo,Espanyol,2,2,0.5
+1992-1993,4,1992-09-27,Celta Vigo,Athletic Club,1,0,0.0
+1992-1993,4,1992-09-27,Tenerife,Sporting Gijón,0,2,1.0
+1992-1993,5,1992-10-03,Dep La Coruña,Real Madrid,3,2,0.0
+1992-1993,5,1992-10-04,Espanyol,Rayo Vallecano,2,2,0.5
+1992-1993,5,1992-10-04,Sporting Gijón,Barcelona,1,1,0.5
+1992-1993,5,1992-10-04,Valencia,Real Sociedad,1,0,0.0
+1992-1993,5,1992-10-04,Atlético Madrid,Real Burgos,2,0,0.0
+1992-1993,5,1992-10-04,Athletic Club,Sevilla,2,1,0.0
+1992-1993,5,1992-10-04,Cádiz,Oviedo,0,2,1.0
+1992-1993,5,1992-10-04,Logroñés,Osasuna,1,1,0.5
+1992-1993,5,1992-10-04,Albacete,Tenerife,1,0,0.0
+1992-1993,5,1992-10-04,Zaragoza,Celta Vigo,0,0,0.5
+1992-1993,6,1992-10-07,Sevilla,Zaragoza,1,0,0.0
+1992-1993,6,1992-10-07,Real Sociedad,Logroñés,3,0,0.0
+1992-1993,6,1992-10-07,Celta Vigo,Espanyol,0,1,1.0
+1992-1993,6,1992-10-07,Tenerife,Dep La Coruña,3,1,0.0
+1992-1993,6,1992-10-07,Osasuna,Athletic Club,1,2,1.0
+1992-1993,6,1992-10-07,Barcelona,Albacete,3,3,0.5
+1992-1993,6,1992-10-07,Rayo Vallecano,Cádiz,1,1,0.5
+1992-1993,6,1992-10-07,Real Burgos,Sporting Gijón,2,1,0.0
+1992-1993,6,1992-10-07,Oviedo,Atlético Madrid,1,4,1.0
+1992-1993,6,1992-10-08,Real Madrid,Valencia,2,0,0.0
+1992-1993,7,1992-10-17,Dep La Coruña,Barcelona,1,0,0.0
+1992-1993,7,1992-10-18,Valencia,Tenerife,2,1,0.0
+1992-1993,7,1992-10-18,Athletic Club,Real Sociedad,2,0,0.0
+1992-1993,7,1992-10-18,Atlético Madrid,Sporting Gijón,1,1,0.5
+1992-1993,7,1992-10-18,Cádiz,Celta Vigo,1,1,0.5
+1992-1993,7,1992-10-18,Espanyol,Sevilla,1,1,0.5
+1992-1993,7,1992-10-18,Zaragoza,Osasuna,3,2,0.0
+1992-1993,7,1992-10-18,Albacete,Real Burgos,4,0,0.0
+1992-1993,7,1992-10-18,Oviedo,Rayo Vallecano,1,1,0.5
+1992-1993,7,1992-10-18,Logroñés,Real Madrid,0,3,1.0
+1992-1993,8,1992-10-24,Real Madrid,Athletic Club,2,0,0.0
+1992-1993,8,1992-10-25,Osasuna,Espanyol,1,3,1.0
+1992-1993,8,1992-10-25,Real Sociedad,Zaragoza,1,1,0.5
+1992-1993,8,1992-10-25,Sevilla,Cádiz,1,0,0.0
+1992-1993,8,1992-10-25,Barcelona,Valencia,3,0,0.0
+1992-1993,8,1992-10-25,Rayo Vallecano,Atlético Madrid,2,0,0.0
+1992-1993,8,1992-10-25,Real Burgos,Dep La Coruña,0,0,0.5
+1992-1993,8,1992-10-25,Celta Vigo,Oviedo,0,0,0.5
+1992-1993,8,1992-10-25,Tenerife,Logroñés,1,1,0.5
+1992-1993,8,1992-10-25,Sporting Gijón,Albacete,1,0,0.0
+1992-1993,9,1992-10-31,Zaragoza,Real Madrid,0,1,1.0
+1992-1993,9,1992-10-31,Logroñés,Barcelona,1,2,1.0
+1992-1993,9,1992-11-01,Espanyol,Real Sociedad,4,1,0.0
+1992-1993,9,1992-11-01,Dep La Coruña,Sporting Gijón,2,1,0.0
+1992-1993,9,1992-11-01,Valencia,Real Burgos,5,0,0.0
+1992-1993,9,1992-11-01,Cádiz,Osasuna,0,2,1.0
+1992-1993,9,1992-11-01,Oviedo,Sevilla,1,1,0.5
+1992-1993,9,1992-11-01,Atlético Madrid,Albacete,3,2,0.0
+1992-1993,9,1992-11-01,Rayo Vallecano,Celta Vigo,0,1,1.0
+1992-1993,9,1992-11-01,Athletic Club,Tenerife,2,2,0.5
+1992-1993,10,1992-11-07,Barcelona,Athletic Club,2,1,0.0
+1992-1993,10,1992-11-08,Osasuna,Oviedo,2,1,0.0
+1992-1993,10,1992-11-08,Sevilla,Rayo Vallecano,3,2,0.0
+1992-1993,10,1992-11-08,Tenerife,Zaragoza,2,2,0.5
+1992-1993,10,1992-11-08,Albacete,Dep La Coruña,1,1,0.5
+1992-1993,10,1992-11-08,Celta Vigo,Atlético Madrid,0,2,1.0
+1992-1993,10,1992-11-08,Real Sociedad,Cádiz,3,0,0.0
+1992-1993,10,1992-11-08,Real Burgos,Logroñés,2,2,0.5
+1992-1993,10,1992-11-08,Real Madrid,Espanyol,3,1,0.0
+1992-1993,10,1992-11-08,Sporting Gijón,Valencia,1,0,0.0
+1992-1993,11,1992-11-21,Cádiz,Real Madrid,1,1,0.5
+1992-1993,11,1992-11-21,Zaragoza,Barcelona,1,6,1.0
+1992-1993,11,1992-11-22,Oviedo,Real Sociedad,2,2,0.5
+1992-1993,11,1992-11-22,Logroñés,Sporting Gijón,1,2,1.0
+1992-1993,11,1992-11-22,Athletic Club,Real Burgos,1,1,0.5
+1992-1993,11,1992-11-22,Atlético Madrid,Dep La Coruña,2,1,0.0
+1992-1993,11,1992-11-22,Rayo Vallecano,Osasuna,1,0,0.0
+1992-1993,11,1992-11-22,Celta Vigo,Sevilla,1,2,1.0
+1992-1993,11,1992-11-22,Espanyol,Tenerife,0,0,0.5
+1992-1993,11,1992-11-22,Valencia,Albacete,2,0,0.0
+1992-1993,12,1992-11-28,Sevilla,Atlético Madrid,1,3,1.0
+1992-1993,12,1992-11-29,Osasuna,Celta Vigo,3,0,0.0
+1992-1993,12,1992-11-29,Real Madrid,Oviedo,3,2,0.0
+1992-1993,12,1992-11-29,Real Sociedad,Rayo Vallecano,1,2,1.0
+1992-1993,12,1992-11-29,Barcelona,Espanyol,5,0,0.0
+1992-1993,12,1992-11-29,Albacete,Logroñés,3,1,0.0
+1992-1993,12,1992-11-29,Dep La Coruña,Valencia,0,0,0.5
+1992-1993,12,1992-11-29,Tenerife,Cádiz,1,1,0.5
+1992-1993,12,1992-11-29,Sporting Gijón,Athletic Club,0,4,1.0
+1992-1993,12,1992-11-29,Real Burgos,Zaragoza,1,1,0.5
+1992-1993,13,1992-12-05,Zaragoza,Sporting Gijón,1,1,0.5
+1992-1993,13,1992-12-05,Atlético Madrid,Valencia,1,1,0.5
+1992-1993,13,1992-12-06,Celta Vigo,Real Sociedad,2,1,0.0
+1992-1993,13,1992-12-06,Oviedo,Tenerife,1,2,1.0
+1992-1993,13,1992-12-06,Espanyol,Real Burgos,3,1,0.0
+1992-1993,13,1992-12-06,Athletic Club,Albacete,3,1,0.0
+1992-1993,13,1992-12-06,Logroñés,Dep La Coruña,0,3,1.0
+1992-1993,13,1992-12-06,Sevilla,Osasuna,0,0,0.5
+1992-1993,13,1992-12-06,Cádiz,Barcelona,0,4,1.0
+1992-1993,13,1992-12-06,Rayo Vallecano,Real Madrid,2,0,0.0
+1992-1993,14,1992-12-12,Real Sociedad,Sevilla,1,0,0.0
+1992-1993,14,1992-12-13,Real Burgos,Cádiz,0,2,1.0
+1992-1993,14,1992-12-13,Valencia,Logroñés,2,1,0.0
+1992-1993,14,1992-12-13,Sporting Gijón,Espanyol,1,1,0.5
+1992-1993,14,1992-12-13,Real Madrid,Celta Vigo,1,0,0.0
+1992-1993,14,1992-12-13,Dep La Coruña,Athletic Club,3,0,0.0
+1992-1993,14,1992-12-13,Osasuna,Atlético Madrid,1,0,0.0
+1992-1993,14,1992-12-13,Tenerife,Rayo Vallecano,4,0,0.0
+1992-1993,14,1992-12-13,Albacete,Zaragoza,1,3,1.0
+1992-1993,15,1992-12-19,Sevilla,Real Madrid,2,0,0.0
+1992-1993,15,1992-12-20,Cádiz,Sporting Gijón,2,3,1.0
+1992-1993,15,1992-12-20,Atlético Madrid,Logroñés,0,1,1.0
+1992-1993,15,1992-12-20,Oviedo,Real Burgos,3,0,0.0
+1992-1993,15,1992-12-20,Celta Vigo,Tenerife,0,1,1.0
+1992-1993,15,1992-12-20,Athletic Club,Valencia,1,4,1.0
+1992-1993,15,1992-12-20,Zaragoza,Dep La Coruña,0,2,1.0
+1992-1993,15,1992-12-20,Rayo Vallecano,Barcelona,3,3,0.5
+1992-1993,15,1992-12-20,Espanyol,Albacete,2,0,0.0
+1992-1993,15,1992-12-20,Osasuna,Real Sociedad,2,0,0.0
+1992-1993,16,1993-01-02,Real Sociedad,Atlético Madrid,1,0,0.0
+1992-1993,16,1993-01-03,Barcelona,Celta Vigo,2,0,0.0
+1992-1993,16,1993-01-03,Sporting Gijón,Oviedo,0,1,1.0
+1992-1993,16,1993-01-03,Real Burgos,Rayo Vallecano,0,3,1.0
+1992-1993,16,1993-01-03,Valencia,Zaragoza,0,1,1.0
+1992-1993,16,1993-01-03,Dep La Coruña,Espanyol,3,0,0.0
+1992-1993,16,1993-01-03,Tenerife,Sevilla,3,0,0.0
+1992-1993,16,1993-01-03,Logroñés,Athletic Club,0,1,1.0
+1992-1993,16,1993-01-03,Albacete,Cádiz,5,0,0.0
+1992-1993,16,1993-01-03,Real Madrid,Osasuna,3,0,0.0
+1992-1993,17,1993-01-09,Espanyol,Valencia,1,1,0.5
+1992-1993,17,1993-01-10,Osasuna,Tenerife,1,2,1.0
+1992-1993,17,1993-01-10,Celta Vigo,Real Burgos,1,1,0.5
+1992-1993,17,1993-01-10,Rayo Vallecano,Sporting Gijón,2,2,0.5
+1992-1993,17,1993-01-10,Oviedo,Albacete,0,0,0.5
+1992-1993,17,1993-01-10,Real Sociedad,Real Madrid,1,5,1.0
+1992-1993,17,1993-01-10,Sevilla,Barcelona,0,0,0.5
+1992-1993,17,1993-01-10,Atlético Madrid,Athletic Club,1,1,0.5
+1992-1993,17,1993-01-10,Cádiz,Dep La Coruña,0,3,1.0
+1992-1993,17,1993-01-10,Zaragoza,Logroñés,1,1,0.5
+1992-1993,18,1993-01-16,Atlético Madrid,Real Madrid,1,1,0.5
+1992-1993,18,1993-01-17,Athletic Club,Zaragoza,3,2,0.0
+1992-1993,18,1993-01-17,Sporting Gijón,Celta Vigo,0,3,1.0
+1992-1993,18,1993-01-17,Valencia,Cádiz,5,0,0.0
+1992-1993,18,1993-01-17,Tenerife,Real Sociedad,1,0,0.0
+1992-1993,18,1993-01-17,Barcelona,Osasuna,2,1,0.0
+1992-1993,18,1993-01-17,Real Burgos,Sevilla,0,2,1.0
+1992-1993,18,1993-01-17,Albacete,Rayo Vallecano,1,0,0.0
+1992-1993,18,1993-01-17,Dep La Coruña,Oviedo,2,1,0.0
+1992-1993,18,1993-01-17,Logroñés,Espanyol,0,0,0.5
+1992-1993,19,1993-01-23,Rayo Vallecano,Dep La Coruña,1,1,0.5
+1992-1993,19,1993-01-24,Osasuna,Real Burgos,1,0,0.0
+1992-1993,19,1993-01-24,Espanyol,Athletic Club,2,0,0.0
+1992-1993,19,1993-01-24,Real Madrid,Tenerife,3,0,0.0
+1992-1993,19,1993-01-24,Oviedo,Valencia,0,1,1.0
+1992-1993,19,1993-01-24,Sevilla,Sporting Gijón,1,0,0.0
+1992-1993,19,1993-01-24,Celta Vigo,Albacete,1,1,0.5
+1992-1993,19,1993-01-24,Cádiz,Logroñés,2,2,0.5
+1992-1993,19,1993-01-24,Real Sociedad,Barcelona,2,2,0.5
+1992-1993,19,1993-01-24,Zaragoza,Atlético Madrid,1,0,0.0
+1992-1993,20,1993-01-30,Real Madrid,Barcelona,2,1,0.0
+1992-1993,20,1993-01-31,Osasuna,Sporting Gijón,3,0,0.0
+1992-1993,20,1993-01-31,Real Sociedad,Real Burgos,2,2,0.5
+1992-1993,20,1993-01-31,Sevilla,Albacete,2,1,0.0
+1992-1993,20,1993-01-31,Espanyol,Zaragoza,2,0,0.0
+1992-1993,20,1993-01-31,Tenerife,Atlético Madrid,2,2,0.5
+1992-1993,20,1993-01-31,Celta Vigo,Dep La Coruña,0,0,0.5
+1992-1993,20,1993-01-31,Cádiz,Athletic Club,2,3,1.0
+1992-1993,20,1993-01-31,Oviedo,Logroñés,0,0,0.5
+1992-1993,20,1993-01-31,Rayo Vallecano,Valencia,0,1,1.0
+1992-1993,21,1993-02-06,Dep La Coruña,Sevilla,2,0,0.0
+1992-1993,21,1993-02-07,Atlético Madrid,Espanyol,2,1,0.0
+1992-1993,21,1993-02-07,Real Burgos,Real Madrid,1,2,1.0
+1992-1993,21,1993-02-07,Athletic Club,Oviedo,1,0,0.0
+1992-1993,21,1993-02-07,Logroñés,Rayo Vallecano,0,0,0.5
+1992-1993,21,1993-02-07,Valencia,Celta Vigo,1,1,0.5
+1992-1993,21,1993-02-07,Barcelona,Tenerife,1,1,0.5
+1992-1993,21,1993-02-07,Zaragoza,Cádiz,0,0,0.5
+1992-1993,21,1993-02-07,Albacete,Osasuna,0,0,0.5
+1992-1993,21,1993-02-07,Sporting Gijón,Real Sociedad,2,4,1.0
+1992-1993,22,1993-02-13,Rayo Vallecano,Athletic Club,1,0,0.0
+1992-1993,22,1993-02-13,Barcelona,Atlético Madrid,1,1,0.5
+1992-1993,22,1993-02-14,Cádiz,Espanyol,1,0,0.0
+1992-1993,22,1993-02-14,Osasuna,Dep La Coruña,1,1,0.5
+1992-1993,22,1993-02-14,Tenerife,Real Burgos,3,1,0.0
+1992-1993,22,1993-02-14,Oviedo,Zaragoza,4,1,0.0
+1992-1993,22,1993-02-14,Real Sociedad,Albacete,2,1,0.0
+1992-1993,22,1993-02-14,Sevilla,Valencia,2,2,0.5
+1992-1993,22,1993-02-14,Real Madrid,Sporting Gijón,0,0,0.5
+1992-1993,22,1993-02-14,Celta Vigo,Logroñés,2,0,0.0
+1992-1993,23,1993-02-20,Sporting Gijón,Tenerife,1,2,1.0
+1992-1993,23,1993-02-21,Logroñés,Sevilla,2,0,0.0
+1992-1993,23,1993-02-21,Atlético Madrid,Cádiz,2,0,0.0
+1992-1993,23,1993-02-21,Albacete,Real Madrid,0,3,1.0
+1992-1993,23,1993-02-21,Espanyol,Oviedo,2,0,0.0
+1992-1993,23,1993-02-21,Dep La Coruña,Real Sociedad,5,1,0.0
+1992-1993,23,1993-02-21,Zaragoza,Rayo Vallecano,2,0,0.0
+1992-1993,23,1993-02-21,Real Burgos,Barcelona,0,1,1.0
+1992-1993,23,1993-02-21,Valencia,Osasuna,3,1,0.0
+1992-1993,23,1993-02-21,Athletic Club,Celta Vigo,0,1,1.0
+1992-1993,24,1993-02-27,Real Madrid,Dep La Coruña,2,1,0.0
+1992-1993,24,1993-02-28,Barcelona,Sporting Gijón,7,2,0.0
+1992-1993,24,1993-02-28,Sevilla,Athletic Club,3,1,0.0
+1992-1993,24,1993-02-28,Osasuna,Logroñés,1,2,1.0
+1992-1993,24,1993-02-28,Rayo Vallecano,Espanyol,1,1,0.5
+1992-1993,24,1993-02-28,Tenerife,Albacete,2,2,0.5
+1992-1993,24,1993-02-28,Celta Vigo,Zaragoza,0,1,1.0
+1992-1993,24,1993-02-28,Real Sociedad,Valencia,1,0,0.0
+1992-1993,14,1993-03-03,Barcelona,Oviedo,2,0,0.0
+1992-1993,25,1993-03-06,Athletic Club,Osasuna,1,0,0.0
+1992-1993,25,1993-03-07,Logroñés,Real Sociedad,0,1,1.0
+1992-1993,25,1993-03-07,Zaragoza,Sevilla,2,1,0.0
+1992-1993,25,1993-03-07,Albacete,Barcelona,0,2,1.0
+1992-1993,25,1993-03-07,Valencia,Real Madrid,1,2,1.0
+1992-1993,25,1993-03-07,Sporting Gijón,Real Burgos,0,0,0.5
+1992-1993,25,1993-03-07,Atlético Madrid,Oviedo,2,1,0.0
+1992-1993,25,1993-03-07,Espanyol,Celta Vigo,0,0,0.5
+1992-1993,25,1993-03-07,Dep La Coruña,Tenerife,2,2,0.5
+1992-1993,25,1993-03-07,Cádiz,Rayo Vallecano,1,1,0.5
+1992-1993,24,1993-03-11,Oviedo,Cádiz,2,1,0.0
+1992-1993,26,1993-03-13,Barcelona,Dep La Coruña,3,0,0.0
+1992-1993,26,1993-03-14,Tenerife,Valencia,0,0,0.5
+1992-1993,26,1993-03-14,Real Sociedad,Athletic Club,1,0,0.0
+1992-1993,26,1993-03-14,Real Burgos,Albacete,0,0,0.5
+1992-1993,26,1993-03-14,Sporting Gijón,Atlético Madrid,2,1,0.0
+1992-1993,26,1993-03-14,Osasuna,Zaragoza,1,0,0.0
+1992-1993,26,1993-03-14,Sevilla,Espanyol,1,1,0.5
+1992-1993,26,1993-03-14,Real Madrid,Logroñés,2,2,0.5
+1992-1993,26,1993-03-14,Rayo Vallecano,Oviedo,2,2,0.5
+1992-1993,26,1993-03-14,Celta Vigo,Cádiz,1,0,0.0
+1992-1993,27,1993-03-20,Valencia,Barcelona,3,4,1.0
+1992-1993,27,1993-03-21,Atlético Madrid,Rayo Vallecano,1,0,0.0
+1992-1993,27,1993-03-21,Espanyol,Osasuna,2,1,0.0
+1992-1993,27,1993-03-21,Albacete,Sporting Gijón,6,2,0.0
+1992-1993,27,1993-03-21,Zaragoza,Real Sociedad,1,1,0.5
+1992-1993,27,1993-03-21,Cádiz,Sevilla,0,0,0.5
+1992-1993,27,1993-03-21,Dep La Coruña,Real Burgos,5,0,0.0
+1992-1993,27,1993-03-21,Athletic Club,Real Madrid,1,1,0.5
+1992-1993,27,1993-03-21,Logroñés,Tenerife,2,0,0.0
+1992-1993,27,1993-03-21,Oviedo,Celta Vigo,3,1,0.0
+1992-1993,24,1993-03-25,Real Burgos,Atlético Madrid,0,2,1.0
+1992-1993,28,1993-04-03,Albacete,Atlético Madrid,2,1,0.0
+1992-1993,28,1993-04-04,Sporting Gijón,Dep La Coruña,0,1,1.0
+1992-1993,28,1993-04-04,Osasuna,Cádiz,1,1,0.5
+1992-1993,28,1993-04-04,Barcelona,Logroñés,3,0,0.0
+1992-1993,28,1993-04-04,Real Burgos,Valencia,1,1,0.5
+1992-1993,28,1993-04-04,Tenerife,Athletic Club,2,1,0.0
+1992-1993,28,1993-04-04,Sevilla,Oviedo,0,1,1.0
+1992-1993,28,1993-04-04,Celta Vigo,Rayo Vallecano,0,0,0.5
+1992-1993,28,1993-04-04,Real Sociedad,Espanyol,4,1,0.0
+1992-1993,28,1993-04-04,Real Madrid,Zaragoza,4,0,0.0
+1992-1993,29,1993-04-10,Athletic Club,Barcelona,1,0,0.0
+1992-1993,29,1993-04-11,Zaragoza,Tenerife,2,2,0.5
+1992-1993,29,1993-04-11,Logroñés,Real Burgos,0,1,1.0
+1992-1993,29,1993-04-11,Cádiz,Real Sociedad,2,1,0.0
+1992-1993,29,1993-04-11,Espanyol,Real Madrid,1,3,1.0
+1992-1993,29,1993-04-11,Rayo Vallecano,Sevilla,0,1,1.0
+1992-1993,29,1993-04-11,Atlético Madrid,Celta Vigo,1,1,0.5
+1992-1993,29,1993-04-11,Oviedo,Osasuna,1,2,1.0
+1992-1993,29,1993-04-11,Dep La Coruña,Albacete,3,2,0.0
+1992-1993,29,1993-04-11,Valencia,Sporting Gijón,2,0,0.0
+1992-1993,30,1993-04-17,Dep La Coruña,Atlético Madrid,1,1,0.5
+1992-1993,30,1993-04-17,Real Burgos,Athletic Club,1,1,0.5
+1992-1993,30,1993-04-18,Tenerife,Espanyol,2,1,0.0
+1992-1993,30,1993-04-18,Barcelona,Zaragoza,1,0,0.0
+1992-1993,30,1993-04-18,Sevilla,Celta Vigo,1,0,0.0
+1992-1993,30,1993-04-18,Real Sociedad,Oviedo,1,0,0.0
+1992-1993,30,1993-04-18,Osasuna,Rayo Vallecano,1,0,0.0
+1992-1993,30,1993-04-18,Sporting Gijón,Logroñés,1,1,0.5
+1992-1993,30,1993-04-18,Real Madrid,Cádiz,3,1,0.0
+1992-1993,30,1993-04-18,Albacete,Valencia,0,1,1.0
+1992-1993,31,1993-05-01,Valencia,Dep La Coruña,3,0,0.0
+1992-1993,31,1993-05-01,Oviedo,Real Madrid,0,4,1.0
+1992-1993,31,1993-05-01,Rayo Vallecano,Real Sociedad,1,1,0.5
+1992-1993,31,1993-05-02,Athletic Club,Sporting Gijón,0,0,0.5
+1992-1993,31,1993-05-02,Cádiz,Tenerife,1,3,1.0
+1992-1993,31,1993-05-02,Logroñés,Albacete,1,0,0.0
+1992-1993,31,1993-05-02,Espanyol,Barcelona,0,1,1.0
+1992-1993,31,1993-05-02,Celta Vigo,Osasuna,0,0,0.5
+1992-1993,31,1993-05-02,Atlético Madrid,Sevilla,1,0,0.0
+1992-1993,31,1993-05-02,Zaragoza,Real Burgos,2,1,0.0
+1992-1993,32,1993-05-08,Sporting Gijón,Zaragoza,3,1,0.0
+1992-1993,32,1993-05-08,Valencia,Atlético Madrid,1,0,0.0
+1992-1993,32,1993-05-09,Real Burgos,Espanyol,1,1,0.5
+1992-1993,32,1993-05-09,Osasuna,Sevilla,0,1,1.0
+1992-1993,32,1993-05-09,Dep La Coruña,Logroñés,0,1,1.0
+1992-1993,32,1993-05-09,Real Sociedad,Celta Vigo,1,1,0.5
+1992-1993,32,1993-05-09,Real Madrid,Rayo Vallecano,1,1,0.5
+1992-1993,32,1993-05-09,Barcelona,Cádiz,4,1,0.0
+1992-1993,32,1993-05-09,Tenerife,Oviedo,1,2,1.0
+1992-1993,33,1993-05-15,Oviedo,Barcelona,1,0,0.0
+1992-1993,33,1993-05-15,Atlético Madrid,Osasuna,2,1,0.0
+1992-1993,33,1993-05-15,Celta Vigo,Real Madrid,1,1,0.5
+1992-1993,33,1993-05-16,Zaragoza,Albacete,0,1,1.0
+1992-1993,33,1993-05-16,Athletic Club,Dep La Coruña,0,1,1.0
+1992-1993,33,1993-05-16,Logroñés,Valencia,3,2,0.0
+1992-1993,33,1993-05-16,Espanyol,Sporting Gijón,1,2,1.0
+1992-1993,33,1993-05-16,Sevilla,Real Sociedad,3,1,0.0
+1992-1993,33,1993-05-16,Rayo Vallecano,Tenerife,2,2,0.5
+1992-1993,33,1993-05-16,Cádiz,Real Burgos,3,2,0.0
+1992-1993,34,1993-05-22,Valencia,Athletic Club,3,1,0.0
+1992-1993,34,1993-05-23,Albacete,Espanyol,2,0,0.0
+1992-1993,34,1993-05-23,Dep La Coruña,Zaragoza,1,0,0.0
+1992-1993,34,1993-05-23,Real Madrid,Sevilla,5,0,0.0
+1992-1993,34,1993-05-23,Real Sociedad,Osasuna,1,3,1.0
+1992-1993,34,1993-05-23,Real Burgos,Oviedo,1,1,0.5
+1992-1993,34,1993-05-23,Tenerife,Celta Vigo,1,0,0.0
+1992-1993,34,1993-05-23,Sporting Gijón,Cádiz,1,0,0.0
+1992-1993,34,1993-05-23,Barcelona,Rayo Vallecano,4,0,0.0
+1992-1993,34,1993-05-23,Logroñés,Atlético Madrid,2,1,0.0
+1992-1993,32,1993-05-26,Albacete,Athletic Club,4,5,1.0
+1992-1993,35,1993-05-29,Oviedo,Sporting Gijón,2,1,0.0
+1992-1993,35,1993-05-29,Sevilla,Tenerife,1,0,0.0
+1992-1993,35,1993-05-30,Cádiz,Albacete,1,1,0.5
+1992-1993,35,1993-05-30,Osasuna,Real Madrid,0,0,0.5
+1992-1993,35,1993-05-30,Athletic Club,Logroñés,2,0,0.0
+1992-1993,35,1993-05-30,Espanyol,Dep La Coruña,0,2,1.0
+1992-1993,35,1993-05-30,Atlético Madrid,Real Sociedad,0,0,0.5
+1992-1993,35,1993-05-30,Rayo Vallecano,Real Burgos,2,1,0.0
+1992-1993,35,1993-05-30,Zaragoza,Valencia,2,1,0.0
+1992-1993,35,1993-05-30,Celta Vigo,Barcelona,3,2,0.0
+1992-1993,36,1993-06-05,Barcelona,Sevilla,2,1,0.0
+1992-1993,36,1993-06-05,Dep La Coruña,Cádiz,3,0,0.0
+1992-1993,36,1993-06-05,Real Madrid,Real Sociedad,2,0,0.0
+1992-1993,36,1993-06-06,Athletic Club,Atlético Madrid,1,2,1.0
+1992-1993,36,1993-06-06,Albacete,Oviedo,2,0,0.0
+1992-1993,36,1993-06-06,Real Burgos,Celta Vigo,1,1,0.5
+1992-1993,36,1993-06-06,Sporting Gijón,Rayo Vallecano,1,0,0.0
+1992-1993,36,1993-06-06,Tenerife,Osasuna,2,2,0.5
+1992-1993,36,1993-06-06,Logroñés,Zaragoza,0,0,0.5
+1992-1993,36,1993-06-06,Valencia,Espanyol,2,0,0.0
+1992-1993,37,1993-06-12,Real Madrid,Atlético Madrid,1,0,0.0
+1992-1993,37,1993-06-13,Oviedo,Dep La Coruña,3,3,0.5
+1992-1993,37,1993-06-13,Rayo Vallecano,Albacete,2,2,0.5
+1992-1993,37,1993-06-13,Celta Vigo,Sporting Gijón,0,0,0.5
+1992-1993,37,1993-06-13,Espanyol,Logroñés,0,1,1.0
+1992-1993,37,1993-06-13,Real Sociedad,Tenerife,3,1,0.0
+1992-1993,37,1993-06-13,Sevilla,Real Burgos,1,1,0.5
+1992-1993,37,1993-06-13,Zaragoza,Athletic Club,0,3,1.0
+1992-1993,37,1993-06-13,Cádiz,Valencia,0,2,1.0
+1992-1993,37,1993-06-13,Osasuna,Barcelona,0,1,1.0
+1992-1993,38,1993-06-19,Real Burgos,Osasuna,1,0,0.0
+1992-1993,38,1993-06-19,Dep La Coruña,Rayo Vallecano,1,1,0.5
+1992-1993,38,1993-06-20,Tenerife,Real Madrid,2,0,0.0
+1992-1993,38,1993-06-20,Athletic Club,Espanyol,2,0,0.0
+1992-1993,38,1993-06-20,Albacete,Celta Vigo,1,0,0.0
+1992-1993,38,1993-06-20,Logroñés,Cádiz,1,0,0.0
+1992-1993,38,1993-06-20,Sporting Gijón,Sevilla,1,3,1.0
+1992-1993,38,1993-06-20,Barcelona,Real Sociedad,1,0,0.0
+1992-1993,38,1993-06-20,Atlético Madrid,Zaragoza,2,2,0.5
+1992-1993,38,1993-06-20,Valencia,Oviedo,3,0,0.0

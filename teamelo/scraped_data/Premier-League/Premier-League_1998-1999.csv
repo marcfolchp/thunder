@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1998-1999,1,1998-08-15,Blackburn,Derby County,0,0,0.5
+1998-1999,1,1998-08-15,Coventry City,Chelsea,2,1,0.0
+1998-1999,1,1998-08-15,Sheffield Weds,West Ham,0,1,1.0
+1998-1999,1,1998-08-15,Manchester Utd,Leicester City,2,2,0.5
+1998-1999,1,1998-08-15,Newcastle Utd,Charlton Ath,0,0,0.5
+1998-1999,1,1998-08-15,Middlesbrough,Leeds United,0,0,0.5
+1998-1999,1,1998-08-15,Wimbledon,Tottenham,3,1,0.0
+1998-1999,1,1998-08-15,Everton,Aston Villa,0,0,0.5
+1998-1999,1,1998-08-16,Southampton,Liverpool,1,2,1.0
+1998-1999,1,1998-08-17,Arsenal,Nott'ham Forest,2,1,0.0
+1998-1999,2,1998-08-22,Derby County,Wimbledon,0,0,0.5
+1998-1999,2,1998-08-22,Charlton Ath,Southampton,5,0,0.0
+1998-1999,2,1998-08-22,Tottenham,Sheffield Weds,0,3,1.0
+1998-1999,2,1998-08-22,Chelsea,Newcastle Utd,1,1,0.5
+1998-1999,2,1998-08-22,Leicester City,Everton,2,0,0.0
+1998-1999,2,1998-08-22,West Ham,Manchester Utd,0,0,0.5
+1998-1999,2,1998-08-22,Liverpool,Arsenal,0,0,0.5
+1998-1999,2,1998-08-22,Nott'ham Forest,Coventry City,1,0,0.0
+1998-1999,2,1998-08-23,Aston Villa,Middlesbrough,3,1,0.0
+1998-1999,2,1998-08-24,Leeds United,Blackburn,1,0,0.0
+1998-1999,3,1998-08-29,Arsenal,Charlton Ath,0,0,0.5
+1998-1999,3,1998-08-29,Sheffield Weds,Aston Villa,0,1,1.0
+1998-1999,3,1998-08-29,Coventry City,West Ham,0,0,0.5
+1998-1999,3,1998-08-29,Blackburn,Leicester City,1,0,0.0
+1998-1999,3,1998-08-29,Southampton,Nott'ham Forest,1,2,1.0
+1998-1999,3,1998-08-29,Wimbledon,Leeds United,1,1,0.5
+1998-1999,3,1998-08-29,Everton,Tottenham,0,1,1.0
+1998-1999,3,1998-08-29,Middlesbrough,Derby County,1,1,0.5
+1998-1999,3,1998-08-30,Newcastle Utd,Liverpool,1,4,1.0
+1998-1999,4,1998-09-08,Nott'ham Forest,Everton,0,2,1.0
+1998-1999,4,1998-09-08,Leeds United,Southampton,3,0,0.0
+1998-1999,4,1998-09-09,Aston Villa,Newcastle Utd,1,0,0.0
+1998-1999,4,1998-09-09,Tottenham,Blackburn,2,1,0.0
+1998-1999,4,1998-09-09,Derby County,Sheffield Weds,1,0,0.0
+1998-1999,4,1998-09-09,Liverpool,Coventry City,2,0,0.0
+1998-1999,4,1998-09-09,West Ham,Wimbledon,3,4,1.0
+1998-1999,4,1998-09-09,Leicester City,Middlesbrough,0,1,1.0
+1998-1999,4,1998-09-09,Manchester Utd,Charlton Ath,4,1,0.0
+1998-1999,4,1998-09-09,Chelsea,Arsenal,0,0,0.5
+1998-1999,5,1998-09-12,Manchester Utd,Coventry City,2,0,0.0
+1998-1999,5,1998-09-12,Aston Villa,Wimbledon,2,0,0.0
+1998-1999,5,1998-09-12,Leicester City,Arsenal,1,1,0.5
+1998-1999,5,1998-09-12,Everton,Leeds United,0,0,0.5
+1998-1999,5,1998-09-12,West Ham,Liverpool,2,1,0.0
+1998-1999,5,1998-09-12,Sheffield Weds,Blackburn,3,0,0.0
+1998-1999,5,1998-09-12,Charlton Ath,Derby County,1,2,1.0
+1998-1999,5,1998-09-12,Newcastle Utd,Southampton,4,0,0.0
+1998-1999,5,1998-09-12,Chelsea,Nott'ham Forest,2,1,0.0
+1998-1999,5,1998-09-13,Tottenham,Middlesbrough,0,3,1.0
+1998-1999,6,1998-09-19,Coventry City,Newcastle Utd,1,5,1.0
+1998-1999,6,1998-09-19,Leeds United,Aston Villa,0,0,0.5
+1998-1999,6,1998-09-19,Middlesbrough,Everton,2,2,0.5
+1998-1999,6,1998-09-19,Wimbledon,Sheffield Weds,2,1,0.0
+1998-1999,6,1998-09-19,Derby County,Leicester City,2,0,0.0
+1998-1999,6,1998-09-19,Southampton,Tottenham,1,1,0.5
+1998-1999,6,1998-09-19,Liverpool,Charlton Ath,3,3,0.5
+1998-1999,6,1998-09-19,Nott'ham Forest,West Ham,0,0,0.5
+1998-1999,6,1998-09-20,Arsenal,Manchester Utd,3,0,0.0
+1998-1999,6,1998-09-21,Blackburn,Chelsea,3,4,1.0
+1998-1999,7,1998-09-24,Manchester Utd,Liverpool,2,0,0.0
+1998-1999,7,1998-09-26,Tottenham,Leeds United,3,3,0.5
+1998-1999,7,1998-09-26,Aston Villa,Derby County,1,0,0.0
+1998-1999,7,1998-09-26,Newcastle Utd,Nott'ham Forest,2,0,0.0
+1998-1999,7,1998-09-26,Sheffield Weds,Arsenal,1,0,0.0
+1998-1999,7,1998-09-26,Chelsea,Middlesbrough,2,0,0.0
+1998-1999,7,1998-09-26,Everton,Blackburn,0,0,0.5
+1998-1999,7,1998-09-26,Charlton Ath,Coventry City,1,1,0.5
+1998-1999,7,1998-09-27,Leicester City,Wimbledon,1,1,0.5
+1998-1999,7,1998-09-28,West Ham,Southampton,1,0,0.0
+1998-1999,8,1998-10-03,Blackburn,West Ham,3,0,0.0
+1998-1999,8,1998-10-03,Leeds United,Leicester City,0,1,1.0
+1998-1999,8,1998-10-03,Coventry City,Aston Villa,1,2,1.0
+1998-1999,8,1998-10-03,Middlesbrough,Sheffield Weds,4,0,0.0
+1998-1999,8,1998-10-03,Southampton,Manchester Utd,0,3,1.0
+1998-1999,8,1998-10-03,Derby County,Tottenham,0,1,1.0
+1998-1999,8,1998-10-03,Wimbledon,Everton,1,2,1.0
+1998-1999,8,1998-10-03,Nott'ham Forest,Charlton Ath,0,1,1.0
+1998-1999,8,1998-10-04,Arsenal,Newcastle Utd,3,0,0.0
+1998-1999,8,1998-10-04,Liverpool,Chelsea,1,1,0.5
+1998-1999,9,1998-10-17,Newcastle Utd,Derby County,2,1,0.0
+1998-1999,9,1998-10-17,Nott'ham Forest,Leeds United,1,1,0.5
+1998-1999,9,1998-10-17,Manchester Utd,Wimbledon,5,1,0.0
+1998-1999,9,1998-10-17,West Ham,Aston Villa,0,0,0.5
+1998-1999,9,1998-10-17,Everton,Liverpool,0,0,0.5
+1998-1999,9,1998-10-17,Middlesbrough,Blackburn,2,1,0.0
+1998-1999,9,1998-10-17,Chelsea,Charlton Ath,2,1,0.0
+1998-1999,9,1998-10-17,Arsenal,Southampton,1,1,0.5
+1998-1999,9,1998-10-18,Coventry City,Sheffield Weds,1,0,0.0
+1998-1999,9,1998-10-19,Leicester City,Tottenham,2,1,0.0
+1998-1999,10,1998-10-24,Southampton,Coventry City,2,1,0.0
+1998-1999,10,1998-10-24,Sheffield Weds,Everton,0,0,0.5
+1998-1999,10,1998-10-24,Aston Villa,Leicester City,1,1,0.5
+1998-1999,10,1998-10-24,Tottenham,Newcastle Utd,2,0,0.0
+1998-1999,10,1998-10-24,Derby County,Manchester Utd,1,1,0.5
+1998-1999,10,1998-10-24,Charlton Ath,West Ham,4,2,0.0
+1998-1999,10,1998-10-24,Wimbledon,Middlesbrough,2,2,0.5
+1998-1999,10,1998-10-24,Liverpool,Nott'ham Forest,5,1,0.0
+1998-1999,10,1998-10-25,Blackburn,Arsenal,1,2,1.0
+1998-1999,10,1998-10-25,Leeds United,Chelsea,0,0,0.5
+1998-1999,11,1998-10-31,Derby County,Leeds United,2,2,0.5
+1998-1999,11,1998-10-31,Leicester City,Liverpool,1,0,0.0
+1998-1999,11,1998-10-31,Wimbledon,Blackburn,1,1,0.5
+1998-1999,11,1998-10-31,Sheffield Weds,Southampton,0,0,0.5
+1998-1999,11,1998-10-31,Coventry City,Arsenal,0,1,1.0
+1998-1999,11,1998-10-31,Everton,Manchester Utd,1,4,1.0
+1998-1999,11,1998-10-31,Newcastle Utd,West Ham,0,3,1.0
+1998-1999,11,1998-11-01,Middlesbrough,Nott'ham Forest,1,1,0.5
+1998-1999,11,1998-11-02,Tottenham,Charlton Ath,2,2,0.5
+1998-1999,12,1998-11-07,Southampton,Middlesbrough,3,3,0.5
+1998-1999,12,1998-11-07,Aston Villa,Tottenham,3,2,0.0
+1998-1999,12,1998-11-07,Nott'ham Forest,Wimbledon,0,1,1.0
+1998-1999,12,1998-11-07,Liverpool,Derby County,1,2,1.0
+1998-1999,12,1998-11-07,Blackburn,Coventry City,1,2,1.0
+1998-1999,12,1998-11-07,Charlton Ath,Leicester City,0,0,0.5
+1998-1999,12,1998-11-08,Arsenal,Everton,1,0,0.0
+1998-1999,12,1998-11-08,Manchester Utd,Newcastle Utd,0,0,0.5
+1998-1999,12,1998-11-08,West Ham,Chelsea,1,1,0.5
+1998-1999,12,1998-11-08,Leeds United,Sheffield Weds,2,1,0.0
+1998-1999,13,1998-11-14,Charlton Ath,Middlesbrough,1,1,0.5
+1998-1999,13,1998-11-14,Southampton,Aston Villa,1,4,1.0
+1998-1999,13,1998-11-14,Arsenal,Tottenham,0,0,0.5
+1998-1999,13,1998-11-14,Liverpool,Leeds United,1,3,1.0
+1998-1999,13,1998-11-14,West Ham,Leicester City,3,2,0.0
+1998-1999,13,1998-11-14,Chelsea,Wimbledon,3,0,0.0
+1998-1999,13,1998-11-14,Manchester Utd,Blackburn,3,2,0.0
+1998-1999,13,1998-11-14,Newcastle Utd,Sheffield Weds,1,1,0.5
+1998-1999,13,1998-11-15,Coventry City,Everton,3,0,0.0
+1998-1999,13,1998-11-16,Nott'ham Forest,Derby County,2,2,0.5
+1998-1999,14,1998-11-21,Wimbledon,Arsenal,1,0,0.0
+1998-1999,14,1998-11-21,Blackburn,Southampton,0,2,1.0
+1998-1999,14,1998-11-21,Leicester City,Chelsea,2,4,1.0
+1998-1999,14,1998-11-21,Sheffield Weds,Manchester Utd,3,1,0.0
+1998-1999,14,1998-11-21,Tottenham,Nott'ham Forest,2,0,0.0
+1998-1999,14,1998-11-21,Leeds United,Charlton Ath,4,1,0.0
+1998-1999,14,1998-11-21,Aston Villa,Liverpool,2,4,1.0
+1998-1999,14,1998-11-21,Middlesbrough,Coventry City,2,0,0.0
+1998-1999,14,1998-11-22,Derby County,West Ham,0,2,1.0
+1998-1999,14,1998-11-23,Everton,Newcastle Utd,1,0,0.0
+1998-1999,15,1998-11-28,Newcastle Utd,Wimbledon,3,1,0.0
+1998-1999,15,1998-11-28,Southampton,Derby County,0,1,1.0
+1998-1999,15,1998-11-28,West Ham,Tottenham,2,1,0.0
+1998-1999,15,1998-11-28,Coventry City,Leicester City,1,1,0.5
+1998-1999,15,1998-11-28,Charlton Ath,Everton,1,2,1.0
+1998-1999,15,1998-11-28,Nott'ham Forest,Aston Villa,2,2,0.5
+1998-1999,15,1998-11-28,Chelsea,Sheffield Weds,1,1,0.5
+1998-1999,15,1998-11-29,Manchester Utd,Leeds United,3,2,0.0
+1998-1999,15,1998-11-29,Liverpool,Blackburn,2,0,0.0
+1998-1999,15,1998-11-29,Arsenal,Middlesbrough,1,1,0.5
+1998-1999,16,1998-12-05,Leeds United,West Ham,4,0,0.0
+1998-1999,16,1998-12-05,Tottenham,Liverpool,2,1,0.0
+1998-1999,16,1998-12-05,Derby County,Arsenal,0,0,0.5
+1998-1999,16,1998-12-05,Leicester City,Southampton,2,0,0.0
+1998-1999,16,1998-12-05,Wimbledon,Coventry City,2,1,0.0
+1998-1999,16,1998-12-05,Blackburn,Charlton Ath,1,0,0.0
+1998-1999,16,1998-12-05,Everton,Chelsea,0,0,0.5
+1998-1999,16,1998-12-05,Aston Villa,Manchester Utd,1,1,0.5
+1998-1999,16,1998-12-06,Middlesbrough,Newcastle Utd,2,2,0.5
+1998-1999,16,1998-12-07,Sheffield Weds,Nott'ham Forest,3,2,0.0
+1998-1999,11,1998-12-09,Chelsea,Aston Villa,2,1,0.0
+1998-1999,17,1998-12-12,Blackburn,Newcastle Utd,0,0,0.5
+1998-1999,17,1998-12-12,Tottenham,Manchester Utd,2,2,0.5
+1998-1999,17,1998-12-12,Everton,Southampton,1,0,0.0
+1998-1999,17,1998-12-12,Middlesbrough,West Ham,1,0,0.0
+1998-1999,17,1998-12-12,Leicester City,Nott'ham Forest,3,1,0.0
+1998-1999,17,1998-12-12,Sheffield Weds,Charlton Ath,3,0,0.0
+1998-1999,17,1998-12-12,Derby County,Chelsea,2,2,0.5
+1998-1999,17,1998-12-13,Wimbledon,Liverpool,1,0,0.0
+1998-1999,17,1998-12-13,Aston Villa,Arsenal,3,2,0.0
+1998-1999,17,1998-12-14,Leeds United,Coventry City,2,0,0.0
+1998-1999,3,1998-12-16,Manchester Utd,Chelsea,1,1,0.5
+1998-1999,18,1998-12-19,Liverpool,Sheffield Weds,2,0,0.0
+1998-1999,18,1998-12-19,Southampton,Wimbledon,3,1,0.0
+1998-1999,18,1998-12-19,Nott'ham Forest,Blackburn,2,2,0.5
+1998-1999,18,1998-12-19,West Ham,Everton,2,1,0.0
+1998-1999,18,1998-12-19,Newcastle Utd,Leicester City,1,0,0.0
+1998-1999,18,1998-12-19,Manchester Utd,Middlesbrough,2,3,1.0
+1998-1999,18,1998-12-19,Coventry City,Derby County,1,1,0.5
+1998-1999,18,1998-12-19,Chelsea,Tottenham,2,0,0.0
+1998-1999,18,1998-12-20,Arsenal,Leeds United,3,1,0.0
+1998-1999,18,1998-12-21,Charlton Ath,Aston Villa,0,1,1.0
+1998-1999,19,1998-12-26,Middlesbrough,Liverpool,1,3,1.0
+1998-1999,19,1998-12-26,Everton,Derby County,0,0,0.5
+1998-1999,19,1998-12-26,Southampton,Chelsea,0,2,1.0
+1998-1999,19,1998-12-26,Blackburn,Aston Villa,2,1,0.0
+1998-1999,19,1998-12-26,Sheffield Weds,Leicester City,0,1,1.0
+1998-1999,19,1998-12-26,Newcastle Utd,Leeds United,0,3,1.0
+1998-1999,19,1998-12-26,Wimbledon,Charlton Ath,2,1,0.0
+1998-1999,19,1998-12-26,Arsenal,West Ham,1,0,0.0
+1998-1999,19,1998-12-26,Coventry City,Tottenham,1,1,0.5
+1998-1999,19,1998-12-26,Manchester Utd,Nott'ham Forest,3,0,0.0
+1998-1999,20,1998-12-28,Derby County,Middlesbrough,2,1,0.0
+1998-1999,20,1998-12-28,Liverpool,Newcastle Utd,4,2,0.0
+1998-1999,20,1998-12-28,West Ham,Coventry City,2,0,0.0
+1998-1999,20,1998-12-28,Tottenham,Everton,4,1,0.0
+1998-1999,20,1998-12-28,Charlton Ath,Arsenal,0,1,1.0
+1998-1999,20,1998-12-28,Nott'ham Forest,Southampton,1,1,0.5
+1998-1999,20,1998-12-28,Leicester City,Blackburn,1,1,0.5
+1998-1999,20,1998-12-28,Aston Villa,Sheffield Weds,2,1,0.0
+1998-1999,20,1998-12-29,Leeds United,Wimbledon,2,2,0.5
+1998-1999,20,1998-12-29,Chelsea,Manchester Utd,0,0,0.5
+1998-1999,21,1999-01-09,Coventry City,Nott'ham Forest,4,0,0.0
+1998-1999,21,1999-01-09,Sheffield Weds,Tottenham,0,0,0.5
+1998-1999,21,1999-01-09,Wimbledon,Derby County,2,1,0.0
+1998-1999,21,1999-01-09,Arsenal,Liverpool,0,0,0.5
+1998-1999,21,1999-01-09,Southampton,Charlton Ath,3,1,0.0
+1998-1999,21,1999-01-09,Newcastle Utd,Chelsea,0,1,1.0
+1998-1999,21,1999-01-09,Everton,Leicester City,0,0,0.5
+1998-1999,21,1999-01-09,Middlesbrough,Aston Villa,0,0,0.5
+1998-1999,21,1999-01-09,Blackburn,Leeds United,1,0,0.0
+1998-1999,21,1999-01-10,Manchester Utd,West Ham,4,1,0.0
+1998-1999,22,1999-01-16,Leicester City,Manchester Utd,2,6,1.0
+1998-1999,22,1999-01-16,Derby County,Blackburn,1,0,0.0
+1998-1999,22,1999-01-16,Chelsea,Coventry City,2,1,0.0
+1998-1999,22,1999-01-16,Nott'ham Forest,Arsenal,0,1,1.0
+1998-1999,22,1999-01-16,Tottenham,Wimbledon,0,0,0.5
+1998-1999,22,1999-01-16,Leeds United,Middlesbrough,2,0,0.0
+1998-1999,22,1999-01-16,Liverpool,Southampton,7,1,0.0
+1998-1999,22,1999-01-16,West Ham,Sheffield Weds,0,4,1.0
+1998-1999,22,1999-01-17,Charlton Ath,Newcastle Utd,2,2,0.5
+1998-1999,22,1999-01-18,Aston Villa,Everton,3,0,0.0
+1998-1999,23,1999-01-30,Southampton,Leeds United,3,0,0.0
+1998-1999,23,1999-01-30,Blackburn,Tottenham,1,1,0.5
+1998-1999,23,1999-01-30,Newcastle Utd,Aston Villa,2,1,0.0
+1998-1999,23,1999-01-30,Middlesbrough,Leicester City,0,0,0.5
+1998-1999,23,1999-01-30,Everton,Nott'ham Forest,0,1,1.0
+1998-1999,23,1999-01-30,Coventry City,Liverpool,2,1,0.0
+1998-1999,23,1999-01-30,Wimbledon,West Ham,0,0,0.5
+1998-1999,23,1999-01-30,Sheffield Weds,Derby County,0,1,1.0
+1998-1999,23,1999-01-31,Arsenal,Chelsea,1,0,0.0
+1998-1999,23,1999-01-31,Charlton Ath,Manchester Utd,0,1,1.0
+1998-1999,32,1999-02-03,Manchester Utd,Derby County,1,0,0.0
+1998-1999,24,1999-02-06,Leicester City,Sheffield Weds,0,2,1.0
+1998-1999,24,1999-02-06,Tottenham,Coventry City,0,0,0.5
+1998-1999,24,1999-02-06,Chelsea,Southampton,1,0,0.0
+1998-1999,24,1999-02-06,West Ham,Arsenal,0,4,1.0
+1998-1999,24,1999-02-06,Nott'ham Forest,Manchester Utd,1,8,1.0
+1998-1999,24,1999-02-06,Leeds United,Newcastle Utd,0,1,1.0
+1998-1999,24,1999-02-06,Aston Villa,Blackburn,1,3,1.0
+1998-1999,24,1999-02-06,Liverpool,Middlesbrough,3,1,0.0
+1998-1999,24,1999-02-07,Derby County,Everton,2,1,0.0
+1998-1999,24,1999-02-08,Charlton Ath,Wimbledon,2,0,0.0
+1998-1999,25,1999-02-13,West Ham,Nott'ham Forest,2,1,0.0
+1998-1999,25,1999-02-13,Charlton Ath,Liverpool,1,0,0.0
+1998-1999,25,1999-02-17,Aston Villa,Leeds United,1,2,1.0
+1998-1999,25,1999-02-17,Chelsea,Blackburn,1,1,0.5
+1998-1999,25,1999-02-17,Everton,Middlesbrough,5,0,0.0
+1998-1999,25,1999-02-17,Newcastle Utd,Coventry City,4,1,0.0
+1998-1999,25,1999-02-17,Manchester Utd,Arsenal,1,1,0.5
+1998-1999,26,1999-02-20,Leeds United,Everton,1,0,0.0
+1998-1999,26,1999-02-20,Middlesbrough,Tottenham,0,0,0.5
+1998-1999,26,1999-02-20,Southampton,Newcastle Utd,2,1,0.0
+1998-1999,26,1999-02-20,Derby County,Charlton Ath,0,2,1.0
+1998-1999,26,1999-02-20,Blackburn,Sheffield Weds,1,4,1.0
+1998-1999,26,1999-02-20,Liverpool,West Ham,2,2,0.5
+1998-1999,26,1999-02-20,Arsenal,Leicester City,5,0,0.0
+1998-1999,26,1999-02-20,Nott'ham Forest,Chelsea,1,3,1.0
+1998-1999,26,1999-02-20,Coventry City,Manchester Utd,0,1,1.0
+1998-1999,26,1999-02-21,Wimbledon,Aston Villa,0,0,0.5
+1998-1999,27,1999-02-27,Tottenham,Derby County,1,1,0.5
+1998-1999,27,1999-02-27,Aston Villa,Coventry City,1,4,1.0
+1998-1999,27,1999-02-27,Everton,Wimbledon,1,1,0.5
+1998-1999,27,1999-02-27,West Ham,Blackburn,2,0,0.0
+1998-1999,27,1999-02-27,Manchester Utd,Southampton,2,1,0.0
+1998-1999,27,1999-02-27,Chelsea,Liverpool,2,1,0.0
+1998-1999,27,1999-02-27,Charlton Ath,Nott'ham Forest,0,0,0.5
+1998-1999,27,1999-02-27,Sheffield Weds,Middlesbrough,3,1,0.0
+1998-1999,27,1999-02-28,Newcastle Utd,Arsenal,1,1,0.5
+1998-1999,27,1999-03-01,Leicester City,Leeds United,1,2,1.0
+1998-1999,25,1999-03-02,Tottenham,Southampton,3,0,0.0
+1998-1999,25,1999-03-03,Sheffield Weds,Wimbledon,1,2,1.0
+1998-1999,28,1999-03-06,Coventry City,Charlton Ath,2,1,0.0
+1998-1999,28,1999-03-06,Wimbledon,Leicester City,0,1,1.0
+1998-1999,28,1999-03-06,Southampton,West Ham,1,0,0.0
+1998-1999,28,1999-03-09,Arsenal,Sheffield Weds,3,0,0.0
+1998-1999,28,1999-03-10,Nott'ham Forest,Newcastle Utd,1,2,1.0
+1998-1999,28,1999-03-10,Blackburn,Everton,1,2,1.0
+1998-1999,28,1999-03-10,Leeds United,Tottenham,2,0,0.0
+1998-1999,28,1999-03-10,Derby County,Aston Villa,2,1,0.0
+1998-1999,29,1999-03-13,Leicester City,Charlton Ath,1,1,0.5
+1998-1999,29,1999-03-13,Chelsea,West Ham,0,1,1.0
+1998-1999,29,1999-03-13,Derby County,Liverpool,3,2,0.0
+1998-1999,29,1999-03-13,Coventry City,Blackburn,1,1,0.5
+1998-1999,29,1999-03-13,Sheffield Weds,Leeds United,0,2,1.0
+1998-1999,29,1999-03-13,Everton,Arsenal,0,2,1.0
+1998-1999,29,1999-03-13,Tottenham,Aston Villa,1,0,0.0
+1998-1999,29,1999-03-13,Newcastle Utd,Manchester Utd,1,2,1.0
+1998-1999,29,1999-03-13,Wimbledon,Nott'ham Forest,1,3,1.0
+1998-1999,29,1999-03-14,Middlesbrough,Southampton,3,0,0.0
+1998-1999,30,1999-03-20,Blackburn,Wimbledon,3,1,0.0
+1998-1999,30,1999-03-20,Arsenal,Coventry City,2,0,0.0
+1998-1999,30,1999-03-20,West Ham,Newcastle Utd,2,0,0.0
+1998-1999,30,1999-03-20,Nott'ham Forest,Middlesbrough,1,2,1.0
+1998-1999,30,1999-03-20,Southampton,Sheffield Weds,1,0,0.0
+1998-1999,30,1999-03-20,Leeds United,Derby County,4,1,0.0
+1998-1999,30,1999-03-21,Aston Villa,Chelsea,0,3,1.0
+1998-1999,30,1999-03-21,Manchester Utd,Everton,3,1,0.0
+1998-1999,31,1999-04-02,Aston Villa,West Ham,0,0,0.5
+1998-1999,31,1999-04-03,Sheffield Weds,Coventry City,1,2,1.0
+1998-1999,31,1999-04-03,Tottenham,Leicester City,0,2,1.0
+1998-1999,31,1999-04-03,Charlton Ath,Chelsea,0,1,1.0
+1998-1999,31,1999-04-03,Liverpool,Everton,3,2,0.0
+1998-1999,31,1999-04-03,Blackburn,Middlesbrough,0,0,0.5
+1998-1999,31,1999-04-03,Wimbledon,Manchester Utd,1,1,0.5
+1998-1999,31,1999-04-03,Southampton,Arsenal,0,0,0.5
+1998-1999,31,1999-04-03,Leeds United,Nott'ham Forest,3,1,0.0
+1998-1999,31,1999-04-03,Derby County,Newcastle Utd,3,4,1.0
+1998-1999,32,1999-04-05,Everton,Sheffield Weds,1,2,1.0
+1998-1999,32,1999-04-05,Coventry City,Southampton,1,0,0.0
+1998-1999,32,1999-04-05,Middlesbrough,Wimbledon,3,1,0.0
+1998-1999,32,1999-04-05,Nott'ham Forest,Liverpool,2,2,0.5
+1998-1999,32,1999-04-05,Newcastle Utd,Tottenham,1,1,0.5
+1998-1999,32,1999-04-05,West Ham,Charlton Ath,0,1,1.0
+1998-1999,32,1999-04-06,Leicester City,Aston Villa,2,2,0.5
+1998-1999,32,1999-04-06,Arsenal,Blackburn,1,0,0.0
+1998-1999,33,1999-04-10,Aston Villa,Southampton,3,0,0.0
+1998-1999,33,1999-04-10,Middlesbrough,Charlton Ath,2,0,0.0
+1998-1999,33,1999-04-10,Leicester City,West Ham,0,0,0.5
+1998-1999,33,1999-04-10,Derby County,Nott'ham Forest,1,0,0.0
+1998-1999,33,1999-04-11,Wimbledon,Chelsea,1,2,1.0
+1998-1999,33,1999-04-11,Everton,Coventry City,2,0,0.0
+1998-1999,33,1999-04-12,Leeds United,Liverpool,0,0,0.5
+1998-1999,28,1999-04-14,Middlesbrough,Chelsea,0,0,0.5
+1998-1999,34,1999-04-17,Newcastle Utd,Everton,1,3,1.0
+1998-1999,34,1999-04-17,Nott'ham Forest,Tottenham,0,1,1.0
+1998-1999,34,1999-04-17,Southampton,Blackburn,3,3,0.5
+1998-1999,34,1999-04-17,Manchester Utd,Sheffield Weds,3,0,0.0
+1998-1999,34,1999-04-17,Coventry City,Middlesbrough,1,2,1.0
+1998-1999,34,1999-04-17,Charlton Ath,Leeds United,1,1,0.5
+1998-1999,34,1999-04-17,Liverpool,Aston Villa,0,1,1.0
+1998-1999,34,1999-04-17,West Ham,Derby County,5,1,0.0
+1998-1999,34,1999-04-18,Chelsea,Leicester City,2,2,0.5
+1998-1999,34,1999-04-19,Arsenal,Wimbledon,5,1,0.0
+1998-1999,30,1999-04-20,Charlton Ath,Tottenham,1,4,1.0
+1998-1999,30,1999-04-21,Liverpool,Leicester City,0,1,1.0
+1998-1999,33,1999-04-21,Sheffield Weds,Newcastle Utd,1,1,0.5
+1998-1999,35,1999-04-24,Derby County,Southampton,0,0,0.5
+1998-1999,35,1999-04-24,Blackburn,Liverpool,1,3,1.0
+1998-1999,35,1999-04-24,Tottenham,West Ham,1,2,1.0
+1998-1999,35,1999-04-24,Leicester City,Coventry City,1,0,0.0
+1998-1999,35,1999-04-24,Everton,Charlton Ath,4,1,0.0
+1998-1999,35,1999-04-24,Wimbledon,Newcastle Utd,1,1,0.5
+1998-1999,35,1999-04-24,Middlesbrough,Arsenal,1,6,1.0
+1998-1999,35,1999-04-24,Aston Villa,Nott'ham Forest,2,0,0.0
+1998-1999,35,1999-04-25,Leeds United,Manchester Utd,1,1,0.5
+1998-1999,35,1999-04-25,Sheffield Weds,Chelsea,0,0,0.5
+1998-1999,36,1999-05-01,Coventry City,Wimbledon,2,1,0.0
+1998-1999,36,1999-05-01,Nott'ham Forest,Sheffield Weds,2,0,0.0
+1998-1999,36,1999-05-01,Liverpool,Tottenham,3,2,0.0
+1998-1999,36,1999-05-01,West Ham,Leeds United,1,5,1.0
+1998-1999,36,1999-05-01,Newcastle Utd,Middlesbrough,1,1,0.5
+1998-1999,36,1999-05-01,Manchester Utd,Aston Villa,2,1,0.0
+1998-1999,36,1999-05-01,Southampton,Leicester City,2,1,0.0
+1998-1999,36,1999-05-01,Chelsea,Everton,3,1,0.0
+1998-1999,36,1999-05-01,Charlton Ath,Blackburn,0,0,0.5
+1998-1999,36,1999-05-02,Arsenal,Derby County,1,0,0.0
+1998-1999,25,1999-05-05,Leicester City,Derby County,1,2,1.0
+1998-1999,28,1999-05-05,Liverpool,Manchester Utd,2,2,0.5
+1998-1999,32,1999-05-05,Chelsea,Leeds United,1,0,0.0
+1998-1999,33,1999-05-05,Tottenham,Arsenal,1,3,1.0
+1998-1999,37,1999-05-08,Wimbledon,Southampton,0,2,1.0
+1998-1999,37,1999-05-08,Sheffield Weds,Liverpool,1,0,0.0
+1998-1999,37,1999-05-08,Everton,West Ham,6,0,0.0
+1998-1999,37,1999-05-08,Aston Villa,Charlton Ath,3,4,1.0
+1998-1999,37,1999-05-08,Blackburn,Nott'ham Forest,1,2,1.0
+1998-1999,37,1999-05-08,Leicester City,Newcastle Utd,2,0,0.0
+1998-1999,37,1999-05-08,Derby County,Coventry City,0,0,0.5
+1998-1999,37,1999-05-09,Middlesbrough,Manchester Utd,0,1,1.0
+1998-1999,37,1999-05-10,Tottenham,Chelsea,2,2,0.5
+1998-1999,37,1999-05-11,Leeds United,Arsenal,1,0,0.0
+1998-1999,33,1999-05-12,Blackburn,Manchester Utd,0,0,0.5
+1998-1999,38,1999-05-16,Nott'ham Forest,Leicester City,1,0,0.0
+1998-1999,38,1999-05-16,Charlton Ath,Sheffield Weds,0,1,1.0
+1998-1999,38,1999-05-16,Coventry City,Leeds United,2,2,0.5
+1998-1999,38,1999-05-16,Liverpool,Wimbledon,3,0,0.0
+1998-1999,38,1999-05-16,Newcastle Utd,Blackburn,1,1,0.5
+1998-1999,38,1999-05-16,Southampton,Everton,2,0,0.0
+1998-1999,38,1999-05-16,Arsenal,Aston Villa,1,0,0.0
+1998-1999,38,1999-05-16,Manchester Utd,Tottenham,2,1,0.0
+1998-1999,38,1999-05-16,Chelsea,Derby County,2,1,0.0
+1998-1999,38,1999-05-16,West Ham,Middlesbrough,4,0,0.0
