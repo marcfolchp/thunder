@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2005-2006,1,2005-08-27,Alavés,Barcelona,0,0,0.5
+2005-2006,1,2005-08-27,Valencia,Betis,1,0,0.0
+2005-2006,1,2005-08-27,Athletic Club,Real Sociedad,3,0,0.0
+2005-2006,1,2005-08-28,Atlético Madrid,Zaragoza,0,0,0.5
+2005-2006,1,2005-08-28,Espanyol,Getafe,0,2,1.0
+2005-2006,1,2005-08-28,Celta Vigo,Málaga,2,0,0.0
+2005-2006,1,2005-08-28,Osasuna,Villarreal,2,1,0.0
+2005-2006,1,2005-08-28,Mallorca,La Coruña,0,1,1.0
+2005-2006,1,2005-08-28,Sevilla,Racing Sant,1,0,0.0
+2005-2006,1,2005-08-28,Cádiz,Real Madrid,1,2,1.0
+2005-2006,2,2005-09-10,Real Madrid,Celta Vigo,2,3,1.0
+2005-2006,2,2005-09-10,Betis,Osasuna,1,0,0.0
+2005-2006,2,2005-09-10,La Coruña,Atlético Madrid,1,0,0.0
+2005-2006,2,2005-09-11,Racing Sant,Cádiz,0,1,1.0
+2005-2006,2,2005-09-11,Real Sociedad,Alavés,2,1,0.0
+2005-2006,2,2005-09-11,Barcelona,Mallorca,2,0,0.0
+2005-2006,2,2005-09-11,Getafe,Athletic Club,1,1,0.5
+2005-2006,2,2005-09-11,Villarreal,Sevilla,1,1,0.5
+2005-2006,2,2005-09-11,Zaragoza,Valencia,2,2,0.5
+2005-2006,2,2005-09-11,Málaga,Espanyol,1,2,1.0
+2005-2006,3,2005-09-17,Valencia,La Coruña,2,2,0.5
+2005-2006,3,2005-09-17,Mallorca,Real Sociedad,5,2,0.0
+2005-2006,3,2005-09-18,Osasuna,Sevilla,1,0,0.0
+2005-2006,3,2005-09-18,Athletic Club,Málaga,1,2,1.0
+2005-2006,3,2005-09-18,Espanyol,Real Madrid,1,0,0.0
+2005-2006,3,2005-09-18,Atlético Madrid,Barcelona,2,1,0.0
+2005-2006,3,2005-09-18,Betis,Zaragoza,0,0,0.5
+2005-2006,3,2005-09-18,Celta Vigo,Racing Sant,0,1,1.0
+2005-2006,3,2005-09-18,Cádiz,Villarreal,1,1,0.5
+2005-2006,3,2005-09-18,Alavés,Getafe,3,4,1.0
+2005-2006,4,2005-09-21,Sevilla,Cádiz,0,0,0.5
+2005-2006,4,2005-09-21,La Coruña,Betis,1,1,0.5
+2005-2006,4,2005-09-21,Barcelona,Valencia,2,2,0.5
+2005-2006,4,2005-09-21,Zaragoza,Osasuna,3,1,0.0
+2005-2006,4,2005-09-21,Real Sociedad,Atlético Madrid,3,2,0.0
+2005-2006,4,2005-09-21,Málaga,Alavés,0,0,0.5
+2005-2006,4,2005-09-21,Getafe,Mallorca,1,1,0.5
+2005-2006,4,2005-09-21,Villarreal,Celta Vigo,1,2,1.0
+2005-2006,4,2005-09-21,Racing Sant,Espanyol,1,0,0.0
+2005-2006,4,2005-09-22,Real Madrid,Athletic Club,3,1,0.0
+2005-2006,5,2005-09-24,Atlético Madrid,Getafe,0,1,1.0
+2005-2006,5,2005-09-24,Zaragoza,La Coruña,1,1,0.5
+2005-2006,5,2005-09-24,Valencia,Real Sociedad,2,1,0.0
+2005-2006,5,2005-09-24,Espanyol,Villarreal,1,2,1.0
+2005-2006,5,2005-09-24,Betis,Barcelona,1,4,1.0
+2005-2006,5,2005-09-25,Celta Vigo,Sevilla,2,1,0.0
+2005-2006,5,2005-09-25,Athletic Club,Racing Sant,0,0,0.5
+2005-2006,5,2005-09-25,Mallorca,Málaga,1,4,1.0
+2005-2006,5,2005-09-25,Osasuna,Cádiz,2,0,0.0
+2005-2006,5,2005-09-25,Alavés,Real Madrid,0,3,1.0
+2005-2006,6,2005-10-01,Getafe,Valencia,2,1,0.0
+2005-2006,6,2005-10-01,Barcelona,Zaragoza,2,2,0.5
+2005-2006,6,2005-10-02,Real Madrid,Mallorca,4,0,0.0
+2005-2006,6,2005-10-02,Sevilla,Espanyol,1,1,0.5
+2005-2006,6,2005-10-02,La Coruña,Osasuna,0,1,1.0
+2005-2006,6,2005-10-02,Real Sociedad,Betis,1,1,0.5
+2005-2006,6,2005-10-02,Málaga,Atlético Madrid,0,2,1.0
+2005-2006,6,2005-10-02,Cádiz,Celta Vigo,1,1,0.5
+2005-2006,6,2005-10-02,Villarreal,Athletic Club,3,1,0.0
+2005-2006,6,2005-10-02,Racing Sant,Alavés,1,2,1.0
+2005-2006,7,2005-10-15,Atlético Madrid,Real Madrid,0,3,1.0
+2005-2006,7,2005-10-15,Alavés,Villarreal,1,1,0.5
+2005-2006,7,2005-10-15,La Coruña,Barcelona,3,3,0.5
+2005-2006,7,2005-10-16,Zaragoza,Real Sociedad,0,1,1.0
+2005-2006,7,2005-10-16,Mallorca,Racing Sant,0,0,0.5
+2005-2006,7,2005-10-16,Valencia,Málaga,2,1,0.0
+2005-2006,7,2005-10-16,Osasuna,Celta Vigo,2,0,0.0
+2005-2006,7,2005-10-16,Betis,Getafe,1,0,0.0
+2005-2006,7,2005-10-16,Athletic Club,Sevilla,0,1,1.0
+2005-2006,7,2005-10-16,Espanyol,Cádiz,0,2,1.0
+2005-2006,8,2005-10-22,Sevilla,Alavés,2,0,0.0
+2005-2006,8,2005-10-22,Barcelona,Osasuna,3,0,0.0
+2005-2006,8,2005-10-23,Real Madrid,Valencia,1,2,1.0
+2005-2006,8,2005-10-23,Villarreal,Mallorca,3,0,0.0
+2005-2006,8,2005-10-23,Cádiz,Athletic Club,1,0,0.0
+2005-2006,8,2005-10-23,Málaga,Betis,5,0,0.0
+2005-2006,8,2005-10-23,Real Sociedad,La Coruña,2,0,0.0
+2005-2006,8,2005-10-23,Getafe,Zaragoza,5,2,0.0
+2005-2006,8,2005-10-23,Racing Sant,Atlético Madrid,0,1,1.0
+2005-2006,8,2005-10-23,Celta Vigo,Espanyol,1,0,0.0
+2005-2006,11,2005-10-26,La Coruña,Real Madrid,3,1,0.0
+2005-2006,11,2005-10-26,Barcelona,Málaga,2,0,0.0
+2005-2006,11,2005-10-26,Betis,Villarreal,2,3,1.0
+2005-2006,11,2005-10-26,Mallorca,Celta Vigo,1,0,0.0
+2005-2006,11,2005-10-26,Osasuna,Athletic Club,3,2,0.0
+2005-2006,11,2005-10-27,Valencia,Sevilla,0,2,1.0
+2005-2006,11,2005-10-27,Alavés,Espanyol,1,1,0.5
+2005-2006,11,2005-10-27,Zaragoza,Racing Sant,1,1,0.5
+2005-2006,11,2005-10-27,Atlético Madrid,Cádiz,3,0,0.0
+2005-2006,11,2005-10-27,Real Sociedad,Getafe,3,0,0.0
+2005-2006,9,2005-10-29,Betis,Real Madrid,0,2,1.0
+2005-2006,9,2005-10-29,Athletic Club,Celta Vigo,1,1,0.5
+2005-2006,9,2005-10-30,La Coruña,Getafe,1,0,0.0
+2005-2006,9,2005-10-30,Atlético Madrid,Villarreal,1,1,0.5
+2005-2006,9,2005-10-30,Zaragoza,Málaga,1,1,0.5
+2005-2006,9,2005-10-30,Barcelona,Real Sociedad,5,0,0.0
+2005-2006,9,2005-10-30,Alavés,Cádiz,0,0,0.5
+2005-2006,9,2005-10-30,Valencia,Racing Sant,1,1,0.5
+2005-2006,9,2005-10-30,Mallorca,Sevilla,1,1,0.5
+2005-2006,9,2005-10-30,Osasuna,Espanyol,2,0,0.0
+2005-2006,10,2005-11-05,Real Sociedad,Osasuna,1,2,1.0
+2005-2006,10,2005-11-05,Espanyol,Athletic Club,1,1,0.5
+2005-2006,10,2005-11-05,Villarreal,Valencia,1,0,0.0
+2005-2006,10,2005-11-06,Sevilla,Atlético Madrid,0,0,0.5
+2005-2006,10,2005-11-06,Racing Sant,Betis,1,1,0.5
+2005-2006,10,2005-11-06,Cádiz,Mallorca,1,2,1.0
+2005-2006,10,2005-11-06,Real Madrid,Zaragoza,1,0,0.0
+2005-2006,10,2005-11-06,Celta Vigo,Alavés,2,1,0.0
+2005-2006,10,2005-11-06,Málaga,La Coruña,1,1,0.5
+2005-2006,10,2005-11-06,Getafe,Barcelona,1,3,1.0
+2005-2006,12,2005-11-19,Real Madrid,Barcelona,0,3,1.0
+2005-2006,12,2005-11-19,Sevilla,Betis,1,0,0.0
+2005-2006,12,2005-11-19,Villarreal,Zaragoza,0,0,0.5
+2005-2006,12,2005-11-19,Getafe,Osasuna,0,0,0.5
+2005-2006,12,2005-11-20,Málaga,Real Sociedad,3,1,0.0
+2005-2006,12,2005-11-20,Celta Vigo,Atlético Madrid,2,1,0.0
+2005-2006,12,2005-11-20,Athletic Club,Alavés,0,2,1.0
+2005-2006,12,2005-11-20,Racing Sant,La Coruña,0,3,1.0
+2005-2006,12,2005-11-20,Espanyol,Mallorca,2,0,0.0
+2005-2006,12,2005-11-20,Cádiz,Valencia,0,1,1.0
+2005-2006,13,2005-11-26,Valencia,Celta Vigo,2,0,0.0
+2005-2006,13,2005-11-26,Mallorca,Athletic Club,0,1,1.0
+2005-2006,13,2005-11-27,Atlético Madrid,Espanyol,1,1,0.5
+2005-2006,13,2005-11-27,Real Sociedad,Real Madrid,2,2,0.5
+2005-2006,13,2005-11-27,La Coruña,Villarreal,0,2,1.0
+2005-2006,13,2005-11-27,Zaragoza,Sevilla,0,2,1.0
+2005-2006,13,2005-11-27,Osasuna,Alavés,3,2,0.0
+2005-2006,13,2005-11-27,Barcelona,Racing Sant,4,1,0.0
+2005-2006,13,2005-11-27,Betis,Cádiz,1,1,0.5
+2005-2006,13,2005-11-27,Getafe,Málaga,3,2,0.0
+2005-2006,14,2005-12-03,Real Madrid,Getafe,1,0,0.0
+2005-2006,14,2005-12-03,Celta Vigo,Betis,2,1,0.0
+2005-2006,14,2005-12-03,Athletic Club,Atlético Madrid,1,1,0.5
+2005-2006,14,2005-12-04,Alavés,Mallorca,0,3,1.0
+2005-2006,14,2005-12-04,Cádiz,Zaragoza,1,2,1.0
+2005-2006,14,2005-12-04,Villarreal,Barcelona,0,2,1.0
+2005-2006,14,2005-12-04,Espanyol,Valencia,1,3,1.0
+2005-2006,14,2005-12-04,Racing Sant,Real Sociedad,2,2,0.5
+2005-2006,14,2005-12-04,Sevilla,La Coruña,0,2,1.0
+2005-2006,14,2005-12-04,Málaga,Osasuna,1,2,1.0
+2005-2006,15,2005-12-10,Valencia,Athletic Club,1,1,0.5
+2005-2006,15,2005-12-10,Real Sociedad,Villarreal,1,3,1.0
+2005-2006,15,2005-12-11,Betis,Espanyol,0,0,0.5
+2005-2006,15,2005-12-11,Barcelona,Sevilla,2,1,0.0
+2005-2006,15,2005-12-11,Osasuna,Mallorca,1,0,0.0
+2005-2006,15,2005-12-11,Getafe,Racing Sant,1,2,1.0
+2005-2006,15,2005-12-11,Zaragoza,Celta Vigo,1,0,0.0
+2005-2006,15,2005-12-11,Málaga,Real Madrid,0,2,1.0
+2005-2006,15,2005-12-11,Atlético Madrid,Alavés,1,1,0.5
+2005-2006,15,2005-12-11,La Coruña,Cádiz,1,0,0.0
+2005-2006,16,2005-12-17,Celta Vigo,La Coruña,0,3,1.0
+2005-2006,16,2005-12-17,Cádiz,Barcelona,1,3,1.0
+2005-2006,16,2005-12-17,Athletic Club,Betis,2,0,0.0
+2005-2006,16,2005-12-18,Villarreal,Getafe,2,1,0.0
+2005-2006,16,2005-12-18,Racing Sant,Málaga,1,1,0.5
+2005-2006,16,2005-12-18,Mallorca,Atlético Madrid,2,2,0.5
+2005-2006,16,2005-12-18,Sevilla,Real Sociedad,3,2,0.0
+2005-2006,16,2005-12-18,Alavés,Valencia,0,1,1.0
+2005-2006,16,2005-12-18,Real Madrid,Osasuna,1,1,0.5
+2005-2006,16,2005-12-18,Espanyol,Zaragoza,2,2,0.5
+2005-2006,17,2005-12-20,Barcelona,Celta Vigo,2,0,0.0
+2005-2006,17,2005-12-21,Real Sociedad,Cádiz,2,0,0.0
+2005-2006,17,2005-12-21,Málaga,Villarreal,0,0,0.5
+2005-2006,17,2005-12-21,Valencia,Mallorca,3,0,0.0
+2005-2006,17,2005-12-21,Betis,Alavés,3,0,0.0
+2005-2006,17,2005-12-21,Zaragoza,Athletic Club,3,2,0.0
+2005-2006,17,2005-12-21,Getafe,Sevilla,1,0,0.0
+2005-2006,17,2005-12-21,La Coruña,Espanyol,1,2,1.0
+2005-2006,17,2005-12-21,Real Madrid,Racing Sant,1,2,1.0
+2005-2006,17,2005-12-22,Osasuna,Atlético Madrid,2,1,0.0
+2005-2006,18,2006-01-07,Athletic Club,La Coruña,1,2,1.0
+2005-2006,18,2006-01-07,Espanyol,Barcelona,1,2,1.0
+2005-2006,18,2006-01-08,Villarreal,Real Madrid,0,0,0.5
+2005-2006,18,2006-01-08,Alavés,Zaragoza,0,2,1.0
+2005-2006,18,2006-01-08,Atlético Madrid,Valencia,0,0,0.5
+2005-2006,18,2006-01-08,Mallorca,Betis,1,1,0.5
+2005-2006,18,2006-01-08,Osasuna,Racing Sant,1,1,0.5
+2005-2006,18,2006-01-08,Cádiz,Getafe,1,0,0.0
+2005-2006,18,2006-01-08,Sevilla,Málaga,3,1,0.0
+2005-2006,18,2006-01-08,Celta Vigo,Real Sociedad,1,0,0.0
+2005-2006,19,2006-01-14,Valencia,Osasuna,2,0,0.0
+2005-2006,19,2006-01-14,Betis,Atlético Madrid,1,0,0.0
+2005-2006,19,2006-01-15,Málaga,Cádiz,0,2,1.0
+2005-2006,19,2006-01-15,Zaragoza,Mallorca,3,1,0.0
+2005-2006,19,2006-01-15,La Coruña,Alavés,0,2,1.0
+2005-2006,19,2006-01-15,Racing Sant,Villarreal,1,0,0.0
+2005-2006,19,2006-01-15,Barcelona,Athletic Club,2,1,0.0
+2005-2006,19,2006-01-15,Real Madrid,Sevilla,4,2,0.0
+2005-2006,19,2006-01-15,Getafe,Celta Vigo,1,1,0.5
+2005-2006,19,2006-01-15,Real Sociedad,Espanyol,0,1,1.0
+2005-2006,20,2006-01-21,Real Madrid,Cádiz,3,1,0.0
+2005-2006,20,2006-01-21,Zaragoza,Atlético Madrid,0,2,1.0
+2005-2006,20,2006-01-22,Málaga,Celta Vigo,0,2,1.0
+2005-2006,20,2006-01-22,Betis,Valencia,0,2,1.0
+2005-2006,20,2006-01-22,Getafe,Espanyol,5,0,0.0
+2005-2006,20,2006-01-22,La Coruña,Mallorca,2,2,0.5
+2005-2006,20,2006-01-22,Real Sociedad,Athletic Club,3,3,0.5
+2005-2006,20,2006-01-22,Barcelona,Alavés,2,0,0.0
+2005-2006,20,2006-01-22,Villarreal,Osasuna,2,1,0.0
+2005-2006,20,2006-01-22,Racing Sant,Sevilla,2,3,1.0
+2005-2006,21,2006-01-28,Athletic Club,Getafe,1,0,0.0
+2005-2006,21,2006-01-28,Atlético Madrid,La Coruña,3,2,0.0
+2005-2006,21,2006-01-28,Cádiz,Racing Sant,1,1,0.5
+2005-2006,21,2006-01-29,Espanyol,Málaga,3,1,0.0
+2005-2006,21,2006-01-29,Celta Vigo,Real Madrid,1,2,1.0
+2005-2006,21,2006-01-29,Sevilla,Villarreal,2,0,0.0
+2005-2006,21,2006-01-29,Osasuna,Betis,0,2,1.0
+2005-2006,21,2006-01-29,Valencia,Zaragoza,2,2,0.5
+2005-2006,21,2006-01-29,Mallorca,Barcelona,0,3,1.0
+2005-2006,21,2006-01-29,Alavés,Real Sociedad,3,1,0.0
+2005-2006,22,2006-02-04,La Coruña,Valencia,0,1,1.0
+2005-2006,22,2006-02-04,Real Madrid,Espanyol,4,0,0.0
+2005-2006,22,2006-02-04,Málaga,Athletic Club,2,1,0.0
+2005-2006,22,2006-02-05,Sevilla,Osasuna,0,1,1.0
+2005-2006,22,2006-02-05,Zaragoza,Betis,4,3,0.0
+2005-2006,22,2006-02-05,Barcelona,Atlético Madrid,1,3,1.0
+2005-2006,22,2006-02-05,Real Sociedad,Mallorca,2,1,0.0
+2005-2006,22,2006-02-05,Villarreal,Cádiz,1,1,0.5
+2005-2006,22,2006-02-05,Racing Sant,Celta Vigo,0,1,1.0
+2005-2006,22,2006-02-05,Getafe,Alavés,2,2,0.5
+2005-2006,23,2006-02-11,Osasuna,Zaragoza,1,1,0.5
+2005-2006,23,2006-02-11,Athletic Club,Real Madrid,0,2,1.0
+2005-2006,23,2006-02-11,Cádiz,Sevilla,0,4,1.0
+2005-2006,23,2006-02-12,Espanyol,Racing Sant,0,2,1.0
+2005-2006,23,2006-02-12,Valencia,Barcelona,1,0,0.0
+2005-2006,23,2006-02-12,Alavés,Málaga,3,2,0.0
+2005-2006,23,2006-02-12,Atlético Madrid,Real Sociedad,1,0,0.0
+2005-2006,23,2006-02-12,Mallorca,Getafe,1,1,0.5
+2005-2006,23,2006-02-12,Celta Vigo,Villarreal,1,0,0.0
+2005-2006,23,2006-02-12,Betis,La Coruña,0,1,1.0
+2005-2006,24,2006-02-18,Real Madrid,Alavés,3,0,0.0
+2005-2006,24,2006-02-18,Barcelona,Betis,5,1,0.0
+2005-2006,24,2006-02-18,Villarreal,Espanyol,4,0,0.0
+2005-2006,24,2006-02-18,Sevilla,Celta Vigo,1,0,0.0
+2005-2006,24,2006-02-19,Getafe,Atlético Madrid,0,3,1.0
+2005-2006,24,2006-02-19,Real Sociedad,Valencia,1,2,1.0
+2005-2006,24,2006-02-19,Málaga,Mallorca,0,2,1.0
+2005-2006,24,2006-02-19,Cádiz,Osasuna,1,3,1.0
+2005-2006,24,2006-02-19,Racing Sant,Athletic Club,0,1,1.0
+2005-2006,24,2006-02-19,La Coruña,Zaragoza,1,1,0.5
+2005-2006,25,2006-02-25,Atlético Madrid,Málaga,5,0,0.0
+2005-2006,25,2006-02-25,Zaragoza,Barcelona,0,2,1.0
+2005-2006,25,2006-02-26,Valencia,Getafe,1,1,0.5
+2005-2006,25,2006-02-26,Athletic Club,Villarreal,1,1,0.5
+2005-2006,25,2006-02-26,Betis,Real Sociedad,2,0,0.0
+2005-2006,25,2006-02-26,Alavés,Racing Sant,2,2,0.5
+2005-2006,25,2006-02-26,Celta Vigo,Cádiz,2,0,0.0
+2005-2006,25,2006-02-26,Mallorca,Real Madrid,2,1,0.0
+2005-2006,25,2006-02-26,Espanyol,Sevilla,5,0,0.0
+2005-2006,25,2006-02-26,Osasuna,La Coruña,1,2,1.0
+2005-2006,26,2006-03-04,Cádiz,Espanyol,2,0,0.0
+2005-2006,26,2006-03-04,Barcelona,La Coruña,3,2,0.0
+2005-2006,26,2006-03-04,Villarreal,Alavés,3,2,0.0
+2005-2006,26,2006-03-04,Real Madrid,Atlético Madrid,2,1,0.0
+2005-2006,26,2006-03-05,Málaga,Valencia,0,0,0.5
+2005-2006,26,2006-03-05,Celta Vigo,Osasuna,2,0,0.0
+2005-2006,26,2006-03-05,Racing Sant,Mallorca,0,0,0.5
+2005-2006,26,2006-03-05,Sevilla,Athletic Club,2,1,0.0
+2005-2006,26,2006-03-05,Getafe,Betis,1,0,0.0
+2005-2006,26,2006-03-05,Real Sociedad,Zaragoza,1,3,1.0
+2005-2006,27,2006-03-11,Valencia,Real Madrid,0,0,0.5
+2005-2006,27,2006-03-11,La Coruña,Real Sociedad,0,1,1.0
+2005-2006,27,2006-03-11,Espanyol,Celta Vigo,2,0,0.0
+2005-2006,27,2006-03-12,Osasuna,Barcelona,2,1,0.0
+2005-2006,27,2006-03-12,Mallorca,Villarreal,1,1,0.5
+2005-2006,27,2006-03-12,Athletic Club,Cádiz,1,0,0.0
+2005-2006,27,2006-03-12,Atlético Madrid,Racing Sant,2,1,0.0
+2005-2006,27,2006-03-12,Alavés,Sevilla,2,1,0.0
+2005-2006,27,2006-03-12,Zaragoza,Getafe,1,2,1.0
+2005-2006,27,2006-03-12,Betis,Málaga,1,1,0.5
+2005-2006,28,2006-03-18,Real Sociedad,Barcelona,0,2,1.0
+2005-2006,28,2006-03-18,Villarreal,Atlético Madrid,1,1,0.5
+2005-2006,28,2006-03-18,Getafe,La Coruña,1,2,1.0
+2005-2006,28,2006-03-19,Real Madrid,Betis,0,0,0.5
+2005-2006,28,2006-03-19,Cádiz,Alavés,0,0,0.5
+2005-2006,28,2006-03-19,Celta Vigo,Athletic Club,0,1,1.0
+2005-2006,28,2006-03-19,Racing Sant,Valencia,2,1,0.0
+2005-2006,28,2006-03-19,Sevilla,Mallorca,1,1,0.5
+2005-2006,28,2006-03-19,Málaga,Zaragoza,0,1,1.0
+2005-2006,28,2006-03-19,Espanyol,Osasuna,2,4,1.0
+2005-2006,29,2006-03-21,Barcelona,Getafe,3,1,0.0
+2005-2006,29,2006-03-22,Betis,Racing Sant,1,0,0.0
+2005-2006,29,2006-03-22,Zaragoza,Real Madrid,1,1,0.5
+2005-2006,29,2006-03-22,Mallorca,Cádiz,1,0,0.0
+2005-2006,29,2006-03-22,Valencia,Villarreal,1,1,0.5
+2005-2006,29,2006-03-22,La Coruña,Málaga,2,1,0.0
+2005-2006,29,2006-03-22,Alavés,Celta Vigo,1,0,0.0
+2005-2006,29,2006-03-22,Athletic Club,Espanyol,1,1,0.5
+2005-2006,29,2006-03-22,Osasuna,Real Sociedad,2,0,0.0
+2005-2006,29,2006-03-23,Atlético Madrid,Sevilla,0,1,1.0
+2005-2006,30,2006-03-25,Athletic Club,Osasuna,1,0,0.0
+2005-2006,30,2006-03-25,Málaga,Barcelona,0,0,0.5
+2005-2006,30,2006-03-25,Villarreal,Betis,1,2,1.0
+2005-2006,30,2006-03-26,Sevilla,Valencia,1,0,0.0
+2005-2006,30,2006-03-26,Real Madrid,La Coruña,4,0,0.0
+2005-2006,30,2006-03-26,Celta Vigo,Mallorca,2,0,0.0
+2005-2006,30,2006-03-26,Getafe,Real Sociedad,2,1,0.0
+2005-2006,30,2006-03-26,Racing Sant,Zaragoza,0,0,0.5
+2005-2006,30,2006-03-26,Espanyol,Alavés,0,0,0.5
+2005-2006,30,2006-03-26,Cádiz,Atlético Madrid,1,1,0.5
+2005-2006,31,2006-04-01,Real Sociedad,Málaga,3,0,0.0
+2005-2006,31,2006-04-01,Zaragoza,Villarreal,0,1,1.0
+2005-2006,31,2006-04-01,Barcelona,Real Madrid,1,1,0.5
+2005-2006,31,2006-04-02,Osasuna,Getafe,0,4,1.0
+2005-2006,31,2006-04-02,La Coruña,Racing Sant,2,0,0.0
+2005-2006,31,2006-04-02,Alavés,Athletic Club,0,0,0.5
+2005-2006,31,2006-04-02,Betis,Sevilla,2,1,0.0
+2005-2006,31,2006-04-02,Valencia,Cádiz,5,3,0.0
+2005-2006,31,2006-04-02,Atlético Madrid,Celta Vigo,0,3,1.0
+2005-2006,31,2006-04-02,Mallorca,Espanyol,0,0,0.5
+2005-2006,32,2006-04-08,Celta Vigo,Valencia,0,1,1.0
+2005-2006,32,2006-04-08,Cádiz,Betis,1,1,0.5
+2005-2006,32,2006-04-08,Málaga,Getafe,1,2,1.0
+2005-2006,32,2006-04-08,Real Madrid,Real Sociedad,1,1,0.5
+2005-2006,32,2006-04-09,Athletic Club,Mallorca,1,1,0.5
+2005-2006,32,2006-04-09,Espanyol,Atlético Madrid,1,1,0.5
+2005-2006,32,2006-04-09,Racing Sant,Barcelona,2,2,0.5
+2005-2006,32,2006-04-09,Sevilla,Zaragoza,1,1,0.5
+2005-2006,32,2006-04-09,Villarreal,La Coruña,1,1,0.5
+2005-2006,32,2006-04-09,Alavés,Osasuna,1,2,1.0
+2005-2006,33,2006-04-14,Barcelona,Villarreal,1,0,0.0
+2005-2006,33,2006-04-15,Mallorca,Alavés,0,0,0.5
+2005-2006,33,2006-04-15,Real Sociedad,Racing Sant,1,0,0.0
+2005-2006,33,2006-04-15,La Coruña,Sevilla,0,0,0.5
+2005-2006,33,2006-04-16,Zaragoza,Cádiz,1,2,1.0
+2005-2006,33,2006-04-16,Betis,Celta Vigo,0,2,1.0
+2005-2006,33,2006-04-16,Valencia,Espanyol,4,0,0.0
+2005-2006,33,2006-04-16,Atlético Madrid,Athletic Club,1,0,0.0
+2005-2006,33,2006-04-16,Osasuna,Málaga,1,1,0.5
+2005-2006,33,2006-04-16,Getafe,Real Madrid,1,1,0.5
+2005-2006,34,2006-04-22,Villarreal,Real Sociedad,0,2,1.0
+2005-2006,34,2006-04-22,Celta Vigo,Zaragoza,4,0,0.0
+2005-2006,34,2006-04-22,Alavés,Atlético Madrid,0,1,1.0
+2005-2006,34,2006-04-23,Mallorca,Osasuna,0,1,1.0
+2005-2006,34,2006-04-23,Real Madrid,Málaga,2,1,0.0
+2005-2006,34,2006-04-23,Racing Sant,Getafe,1,3,1.0
+2005-2006,34,2006-04-23,Espanyol,Betis,2,0,0.0
+2005-2006,34,2006-04-23,Athletic Club,Valencia,0,3,1.0
+2005-2006,34,2006-04-23,Cádiz,La Coruña,1,1,0.5
+2005-2006,35,2006-04-29,Barcelona,Cádiz,1,0,0.0
+2005-2006,35,2006-04-29,Betis,Athletic Club,1,1,0.5
+2005-2006,35,2006-04-29,La Coruña,Celta Vigo,0,2,1.0
+2005-2006,35,2006-04-30,Zaragoza,Espanyol,1,1,0.5
+2005-2006,35,2006-04-30,Osasuna,Real Madrid,0,1,1.0
+2005-2006,35,2006-04-30,Real Sociedad,Sevilla,1,2,1.0
+2005-2006,35,2006-04-30,Málaga,Racing Sant,2,3,1.0
+2005-2006,35,2006-04-30,Valencia,Alavés,3,0,0.0
+2005-2006,35,2006-04-30,Getafe,Villarreal,1,1,0.5
+2005-2006,35,2006-04-30,Atlético Madrid,Mallorca,0,1,1.0
+2005-2006,36,2006-05-03,Mallorca,Valencia,2,1,0.0
+2005-2006,36,2006-05-03,Atlético Madrid,Osasuna,0,1,1.0
+2005-2006,36,2006-05-03,Villarreal,Málaga,2,1,0.0
+2005-2006,36,2006-05-03,Athletic Club,Zaragoza,1,0,0.0
+2005-2006,36,2006-05-03,Espanyol,La Coruña,1,2,1.0
+2005-2006,36,2006-05-03,Cádiz,Real Sociedad,2,2,0.5
+2005-2006,36,2006-05-03,Alavés,Betis,2,0,0.0
+2005-2006,36,2006-05-03,Celta Vigo,Barcelona,0,1,1.0
+2005-2006,36,2006-05-03,Sevilla,Getafe,3,0,0.0
+2005-2006,36,2006-05-04,Racing Sant,Real Madrid,2,3,1.0
+2005-2006,37,2006-05-06,Valencia,Atlético Madrid,1,1,0.5
+2005-2006,37,2006-05-06,Barcelona,Espanyol,2,0,0.0
+2005-2006,37,2006-05-06,Málaga,Sevilla,0,2,1.0
+2005-2006,37,2006-05-07,Racing Sant,Osasuna,2,1,0.0
+2005-2006,37,2006-05-07,Real Sociedad,Celta Vigo,2,2,0.5
+2005-2006,37,2006-05-07,La Coruña,Athletic Club,1,2,1.0
+2005-2006,37,2006-05-07,Betis,Mallorca,2,1,0.0
+2005-2006,37,2006-05-07,Real Madrid,Villarreal,3,3,0.5
+2005-2006,37,2006-05-07,Zaragoza,Alavés,3,0,0.0
+2005-2006,37,2006-05-07,Getafe,Cádiz,3,1,0.0
+2005-2006,34,2006-05-13,Sevilla,Barcelona,3,2,0.0
+2005-2006,38,2006-05-13,Alavés,La Coruña,1,0,0.0
+2005-2006,38,2006-05-13,Atlético Madrid,Betis,1,1,0.5
+2005-2006,38,2006-05-13,Celta Vigo,Getafe,1,0,0.0
+2005-2006,38,2006-05-13,Cádiz,Málaga,5,0,0.0
+2005-2006,38,2006-05-13,Espanyol,Real Sociedad,1,0,0.0
+2005-2006,38,2006-05-13,Villarreal,Racing Sant,2,0,0.0
+2005-2006,38,2006-05-13,Mallorca,Zaragoza,3,1,0.0
+2005-2006,38,2006-05-16,Osasuna,Valencia,2,1,0.0
+2005-2006,38,2006-05-16,Sevilla,Real Madrid,4,3,0.0
+2005-2006,38,2006-05-20,Athletic Club,Barcelona,3,1,0.0

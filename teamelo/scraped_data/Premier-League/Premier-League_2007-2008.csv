@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2007-2008,1,2007-08-11,Middlesbrough,Blackburn,1,2,1.0
+2007-2008,1,2007-08-11,Everton,Wigan Athletic,2,1,0.0
+2007-2008,1,2007-08-11,West Ham,Manchester City,0,2,1.0
+2007-2008,1,2007-08-11,Bolton,Newcastle Utd,1,3,1.0
+2007-2008,1,2007-08-11,Aston Villa,Liverpool,1,2,1.0
+2007-2008,1,2007-08-11,Sunderland,Tottenham,1,0,0.0
+2007-2008,1,2007-08-11,Derby County,Portsmouth,2,2,0.5
+2007-2008,1,2007-08-12,Manchester Utd,Reading,0,0,0.5
+2007-2008,1,2007-08-12,Arsenal,Fulham,2,1,0.0
+2007-2008,1,2007-08-12,Chelsea,Birmingham City,3,2,0.0
+2007-2008,2,2007-08-14,Tottenham,Everton,1,3,1.0
+2007-2008,2,2007-08-15,Birmingham City,Sunderland,2,2,0.5
+2007-2008,2,2007-08-15,Portsmouth,Manchester Utd,1,1,0.5
+2007-2008,2,2007-08-15,Fulham,Bolton,2,1,0.0
+2007-2008,2,2007-08-15,Manchester City,Derby County,1,0,0.0
+2007-2008,2,2007-08-15,Wigan Athletic,Middlesbrough,1,0,0.0
+2007-2008,2,2007-08-15,Reading,Chelsea,1,2,1.0
+2007-2008,3,2007-08-18,Birmingham City,West Ham,0,1,1.0
+2007-2008,3,2007-08-18,Tottenham,Derby County,4,0,0.0
+2007-2008,3,2007-08-18,Portsmouth,Bolton,3,1,0.0
+2007-2008,3,2007-08-18,Fulham,Middlesbrough,1,2,1.0
+2007-2008,3,2007-08-18,Wigan Athletic,Sunderland,3,0,0.0
+2007-2008,3,2007-08-18,Newcastle Utd,Aston Villa,0,0,0.5
+2007-2008,3,2007-08-18,Reading,Everton,1,0,0.0
+2007-2008,3,2007-08-19,Manchester City,Manchester Utd,1,0,0.0
+2007-2008,3,2007-08-19,Liverpool,Chelsea,1,1,0.5
+2007-2008,3,2007-08-19,Blackburn,Arsenal,1,1,0.5
+2007-2008,4,2007-08-25,Arsenal,Manchester City,1,0,0.0
+2007-2008,4,2007-08-25,Sunderland,Liverpool,0,2,1.0
+2007-2008,4,2007-08-25,Chelsea,Portsmouth,1,0,0.0
+2007-2008,4,2007-08-25,West Ham,Wigan Athletic,1,1,0.5
+2007-2008,4,2007-08-25,Aston Villa,Fulham,2,1,0.0
+2007-2008,4,2007-08-25,Bolton,Reading,3,0,0.0
+2007-2008,4,2007-08-25,Derby County,Birmingham City,1,2,1.0
+2007-2008,4,2007-08-25,Everton,Blackburn,1,1,0.5
+2007-2008,4,2007-08-26,Manchester Utd,Tottenham,1,0,0.0
+2007-2008,4,2007-08-26,Middlesbrough,Newcastle Utd,2,2,0.5
+2007-2008,5,2007-09-01,Middlesbrough,Birmingham City,2,0,0.0
+2007-2008,5,2007-09-01,Manchester Utd,Sunderland,1,0,0.0
+2007-2008,5,2007-09-01,Newcastle Utd,Wigan Athletic,1,0,0.0
+2007-2008,5,2007-09-01,Bolton,Everton,1,2,1.0
+2007-2008,5,2007-09-01,Liverpool,Derby County,6,0,0.0
+2007-2008,5,2007-09-01,Reading,West Ham,0,3,1.0
+2007-2008,5,2007-09-01,Fulham,Tottenham,3,3,0.5
+2007-2008,5,2007-09-02,Aston Villa,Chelsea,2,0,0.0
+2007-2008,5,2007-09-02,Arsenal,Portsmouth,3,1,0.0
+2007-2008,5,2007-09-02,Blackburn,Manchester City,1,0,0.0
+2007-2008,6,2007-09-15,West Ham,Middlesbrough,3,0,0.0
+2007-2008,6,2007-09-15,Birmingham City,Bolton,1,0,0.0
+2007-2008,6,2007-09-15,Portsmouth,Liverpool,0,0,0.5
+2007-2008,6,2007-09-15,Chelsea,Blackburn,0,0,0.5
+2007-2008,6,2007-09-15,Tottenham,Arsenal,1,3,1.0
+2007-2008,6,2007-09-15,Sunderland,Reading,2,1,0.0
+2007-2008,6,2007-09-15,Wigan Athletic,Fulham,1,1,0.5
+2007-2008,6,2007-09-15,Everton,Manchester Utd,0,1,1.0
+2007-2008,6,2007-09-16,Manchester City,Aston Villa,1,0,0.0
+2007-2008,6,2007-09-17,Derby County,Newcastle Utd,1,0,0.0
+2007-2008,7,2007-09-22,Arsenal,Derby County,5,0,0.0
+2007-2008,7,2007-09-22,Liverpool,Birmingham City,0,0,0.5
+2007-2008,7,2007-09-22,Middlesbrough,Sunderland,2,2,0.5
+2007-2008,7,2007-09-22,Fulham,Manchester City,3,3,0.5
+2007-2008,7,2007-09-22,Reading,Wigan Athletic,2,1,0.0
+2007-2008,7,2007-09-23,Aston Villa,Everton,2,0,0.0
+2007-2008,7,2007-09-23,Manchester Utd,Chelsea,2,0,0.0
+2007-2008,7,2007-09-23,Bolton,Tottenham,1,1,0.5
+2007-2008,7,2007-09-23,Newcastle Utd,West Ham,3,1,0.0
+2007-2008,7,2007-09-23,Blackburn,Portsmouth,0,1,1.0
+2007-2008,8,2007-09-29,Sunderland,Blackburn,1,2,1.0
+2007-2008,8,2007-09-29,West Ham,Arsenal,0,1,1.0
+2007-2008,8,2007-09-29,Derby County,Bolton,1,1,0.5
+2007-2008,8,2007-09-29,Wigan Athletic,Liverpool,0,1,1.0
+2007-2008,8,2007-09-29,Portsmouth,Reading,7,4,0.0
+2007-2008,8,2007-09-29,Chelsea,Fulham,0,0,0.5
+2007-2008,8,2007-09-29,Birmingham City,Manchester Utd,0,1,1.0
+2007-2008,8,2007-09-29,Manchester City,Newcastle Utd,3,1,0.0
+2007-2008,8,2007-09-30,Everton,Middlesbrough,2,0,0.0
+2007-2008,8,2007-10-01,Tottenham,Aston Villa,4,4,0.5
+2007-2008,9,2007-10-06,Manchester Utd,Wigan Athletic,4,0,0.0
+2007-2008,9,2007-10-06,Aston Villa,West Ham,1,0,0.0
+2007-2008,9,2007-10-07,Blackburn,Birmingham City,2,1,0.0
+2007-2008,9,2007-10-07,Liverpool,Tottenham,2,2,0.5
+2007-2008,9,2007-10-07,Bolton,Chelsea,0,1,1.0
+2007-2008,9,2007-10-07,Arsenal,Sunderland,3,2,0.0
+2007-2008,9,2007-10-07,Manchester City,Middlesbrough,3,1,0.0
+2007-2008,9,2007-10-07,Fulham,Portsmouth,0,2,1.0
+2007-2008,9,2007-10-07,Reading,Derby County,1,0,0.0
+2007-2008,9,2007-10-07,Newcastle Utd,Everton,3,2,0.0
+2007-2008,10,2007-10-20,Aston Villa,Manchester Utd,1,4,1.0
+2007-2008,10,2007-10-20,Everton,Liverpool,1,2,1.0
+2007-2008,10,2007-10-20,Middlesbrough,Chelsea,0,2,1.0
+2007-2008,10,2007-10-20,Wigan Athletic,Portsmouth,0,2,1.0
+2007-2008,10,2007-10-20,Arsenal,Bolton,2,0,0.0
+2007-2008,10,2007-10-20,Blackburn,Reading,4,2,0.0
+2007-2008,10,2007-10-20,Fulham,Derby County,0,0,0.5
+2007-2008,10,2007-10-20,Manchester City,Birmingham City,1,0,0.0
+2007-2008,10,2007-10-21,West Ham,Sunderland,3,1,0.0
+2007-2008,10,2007-10-22,Newcastle Utd,Tottenham,3,1,0.0
+2007-2008,11,2007-10-27,Portsmouth,West Ham,0,0,0.5
+2007-2008,11,2007-10-27,Manchester Utd,Middlesbrough,4,1,0.0
+2007-2008,11,2007-10-27,Reading,Newcastle Utd,2,1,0.0
+2007-2008,11,2007-10-27,Sunderland,Fulham,1,1,0.5
+2007-2008,11,2007-10-27,Birmingham City,Wigan Athletic,3,2,0.0
+2007-2008,11,2007-10-27,Chelsea,Manchester City,6,0,0.0
+2007-2008,11,2007-10-28,Bolton,Aston Villa,1,1,0.5
+2007-2008,11,2007-10-28,Tottenham,Blackburn,1,2,1.0
+2007-2008,11,2007-10-28,Derby County,Everton,0,2,1.0
+2007-2008,11,2007-10-28,Liverpool,Arsenal,1,1,0.5
+2007-2008,12,2007-11-03,Middlesbrough,Tottenham,1,1,0.5
+2007-2008,12,2007-11-03,Aston Villa,Derby County,2,0,0.0
+2007-2008,12,2007-11-03,Everton,Birmingham City,3,1,0.0
+2007-2008,12,2007-11-03,Arsenal,Manchester Utd,2,2,0.5
+2007-2008,12,2007-11-03,Blackburn,Liverpool,0,0,0.5
+2007-2008,12,2007-11-03,Newcastle Utd,Portsmouth,1,4,1.0
+2007-2008,12,2007-11-03,Wigan Athletic,Chelsea,0,2,1.0
+2007-2008,12,2007-11-03,Fulham,Reading,3,1,0.0
+2007-2008,12,2007-11-04,West Ham,Bolton,1,1,0.5
+2007-2008,12,2007-11-05,Manchester City,Sunderland,1,0,0.0
+2007-2008,13,2007-11-10,Sunderland,Newcastle Utd,1,1,0.5
+2007-2008,13,2007-11-10,Liverpool,Fulham,2,0,0.0
+2007-2008,13,2007-11-10,Derby County,West Ham,0,5,1.0
+2007-2008,13,2007-11-11,Tottenham,Wigan Athletic,4,0,0.0
+2007-2008,13,2007-11-11,Portsmouth,Manchester City,0,0,0.5
+2007-2008,13,2007-11-11,Birmingham City,Aston Villa,1,2,1.0
+2007-2008,13,2007-11-11,Bolton,Middlesbrough,0,0,0.5
+2007-2008,13,2007-11-11,Manchester Utd,Blackburn,2,0,0.0
+2007-2008,13,2007-11-11,Chelsea,Everton,1,1,0.5
+2007-2008,13,2007-11-12,Reading,Arsenal,1,3,1.0
+2007-2008,14,2007-11-24,Arsenal,Wigan Athletic,2,0,0.0
+2007-2008,14,2007-11-24,Bolton,Manchester Utd,1,0,0.0
+2007-2008,14,2007-11-24,Manchester City,Reading,2,1,0.0
+2007-2008,14,2007-11-24,Birmingham City,Portsmouth,0,2,1.0
+2007-2008,14,2007-11-24,Middlesbrough,Aston Villa,0,3,1.0
+2007-2008,14,2007-11-24,Derby County,Chelsea,0,2,1.0
+2007-2008,14,2007-11-24,Newcastle Utd,Liverpool,0,3,1.0
+2007-2008,14,2007-11-24,Everton,Sunderland,7,1,0.0
+2007-2008,14,2007-11-25,Fulham,Blackburn,2,2,0.5
+2007-2008,14,2007-11-25,West Ham,Tottenham,1,1,0.5
+2007-2008,2,2007-11-28,Blackburn,Aston Villa,0,4,1.0
+2007-2008,15,2007-12-01,Portsmouth,Everton,0,0,0.5
+2007-2008,15,2007-12-01,Wigan Athletic,Manchester City,1,1,0.5
+2007-2008,15,2007-12-01,Aston Villa,Arsenal,1,2,1.0
+2007-2008,15,2007-12-01,Reading,Middlesbrough,1,1,0.5
+2007-2008,15,2007-12-01,Sunderland,Derby County,1,0,0.0
+2007-2008,15,2007-12-01,Chelsea,West Ham,1,0,0.0
+2007-2008,15,2007-12-01,Blackburn,Newcastle Utd,3,1,0.0
+2007-2008,15,2007-12-02,Liverpool,Bolton,4,0,0.0
+2007-2008,15,2007-12-02,Tottenham,Birmingham City,2,3,1.0
+2007-2008,15,2007-12-03,Manchester Utd,Fulham,2,0,0.0
+2007-2008,2,2007-12-05,Newcastle Utd,Arsenal,1,1,0.5
+2007-2008,16,2007-12-08,Aston Villa,Portsmouth,1,3,1.0
+2007-2008,16,2007-12-08,Chelsea,Sunderland,2,0,0.0
+2007-2008,16,2007-12-08,Newcastle Utd,Birmingham City,2,1,0.0
+2007-2008,16,2007-12-08,Everton,Fulham,3,0,0.0
+2007-2008,16,2007-12-08,Reading,Liverpool,3,1,0.0
+2007-2008,16,2007-12-08,Manchester Utd,Derby County,4,1,0.0
+2007-2008,16,2007-12-09,Bolton,Wigan Athletic,4,1,0.0
+2007-2008,16,2007-12-09,Blackburn,West Ham,0,1,1.0
+2007-2008,16,2007-12-09,Middlesbrough,Arsenal,2,1,0.0
+2007-2008,16,2007-12-09,Tottenham,Manchester City,2,1,0.0
+2007-2008,17,2007-12-15,Manchester City,Bolton,4,2,0.0
+2007-2008,17,2007-12-15,Birmingham City,Reading,1,1,0.5
+2007-2008,17,2007-12-15,West Ham,Everton,0,2,1.0
+2007-2008,17,2007-12-15,Sunderland,Aston Villa,1,1,0.5
+2007-2008,17,2007-12-15,Wigan Athletic,Blackburn,5,3,0.0
+2007-2008,17,2007-12-15,Portsmouth,Tottenham,0,1,1.0
+2007-2008,17,2007-12-15,Fulham,Newcastle Utd,0,1,1.0
+2007-2008,17,2007-12-15,Derby County,Middlesbrough,0,1,1.0
+2007-2008,17,2007-12-16,Arsenal,Chelsea,1,0,0.0
+2007-2008,17,2007-12-16,Liverpool,Manchester Utd,0,1,1.0
+2007-2008,18,2007-12-22,Fulham,Wigan Athletic,1,1,0.5
+2007-2008,18,2007-12-22,Reading,Sunderland,2,1,0.0
+2007-2008,18,2007-12-22,Liverpool,Portsmouth,4,1,0.0
+2007-2008,18,2007-12-22,Bolton,Birmingham City,3,0,0.0
+2007-2008,18,2007-12-22,Aston Villa,Manchester City,1,1,0.5
+2007-2008,18,2007-12-22,Arsenal,Tottenham,2,1,0.0
+2007-2008,18,2007-12-22,Middlesbrough,West Ham,1,2,1.0
+2007-2008,18,2007-12-23,Newcastle Utd,Derby County,2,2,0.5
+2007-2008,18,2007-12-23,Blackburn,Chelsea,0,1,1.0
+2007-2008,18,2007-12-23,Manchester Utd,Everton,2,1,0.0
+2007-2008,19,2007-12-26,Derby County,Liverpool,1,2,1.0
+2007-2008,19,2007-12-26,Portsmouth,Arsenal,0,0,0.5
+2007-2008,19,2007-12-26,Birmingham City,Middlesbrough,3,0,0.0
+2007-2008,19,2007-12-26,West Ham,Reading,1,1,0.5
+2007-2008,19,2007-12-26,Wigan Athletic,Newcastle Utd,1,0,0.0
+2007-2008,19,2007-12-26,Everton,Bolton,2,0,0.0
+2007-2008,19,2007-12-26,Tottenham,Fulham,5,1,0.0
+2007-2008,19,2007-12-26,Chelsea,Aston Villa,4,4,0.5
+2007-2008,19,2007-12-26,Sunderland,Manchester Utd,0,4,1.0
+2007-2008,19,2007-12-27,Manchester City,Blackburn,2,2,0.5
+2007-2008,20,2007-12-29,Birmingham City,Fulham,1,1,0.5
+2007-2008,20,2007-12-29,Everton,Arsenal,1,4,1.0
+2007-2008,20,2007-12-29,Sunderland,Bolton,3,1,0.0
+2007-2008,20,2007-12-29,Tottenham,Reading,6,4,0.0
+2007-2008,20,2007-12-29,Portsmouth,Middlesbrough,0,1,1.0
+2007-2008,20,2007-12-29,West Ham,Manchester Utd,2,1,0.0
+2007-2008,20,2007-12-29,Chelsea,Newcastle Utd,2,1,0.0
+2007-2008,20,2007-12-29,Wigan Athletic,Aston Villa,1,2,1.0
+2007-2008,20,2007-12-30,Manchester City,Liverpool,0,0,0.5
+2007-2008,20,2007-12-30,Derby County,Blackburn,1,2,1.0
+2007-2008,21,2008-01-01,Manchester Utd,Birmingham City,1,0,0.0
+2007-2008,21,2008-01-01,Reading,Portsmouth,0,2,1.0
+2007-2008,21,2008-01-01,Middlesbrough,Everton,0,2,1.0
+2007-2008,21,2008-01-01,Fulham,Chelsea,1,2,1.0
+2007-2008,21,2008-01-01,Arsenal,West Ham,2,0,0.0
+2007-2008,21,2008-01-01,Aston Villa,Tottenham,2,1,0.0
+2007-2008,21,2008-01-02,Blackburn,Sunderland,1,0,0.0
+2007-2008,21,2008-01-02,Bolton,Derby County,1,0,0.0
+2007-2008,21,2008-01-02,Liverpool,Wigan Athletic,1,1,0.5
+2007-2008,21,2008-01-02,Newcastle Utd,Manchester City,0,2,1.0
+2007-2008,22,2008-01-12,West Ham,Fulham,2,1,0.0
+2007-2008,22,2008-01-12,Manchester Utd,Newcastle Utd,6,0,0.0
+2007-2008,22,2008-01-12,Aston Villa,Reading,3,1,0.0
+2007-2008,22,2008-01-12,Derby County,Wigan Athletic,0,1,1.0
+2007-2008,22,2008-01-12,Chelsea,Tottenham,2,0,0.0
+2007-2008,22,2008-01-12,Everton,Manchester City,1,0,0.0
+2007-2008,22,2008-01-12,Arsenal,Birmingham City,1,1,0.5
+2007-2008,22,2008-01-12,Middlesbrough,Liverpool,1,1,0.5
+2007-2008,22,2008-01-13,Sunderland,Portsmouth,2,0,0.0
+2007-2008,22,2008-01-13,Bolton,Blackburn,1,2,1.0
+2007-2008,23,2008-01-19,Fulham,Arsenal,0,3,1.0
+2007-2008,23,2008-01-19,Newcastle Utd,Bolton,0,0,0.5
+2007-2008,23,2008-01-19,Blackburn,Middlesbrough,1,1,0.5
+2007-2008,23,2008-01-19,Birmingham City,Chelsea,0,1,1.0
+2007-2008,23,2008-01-19,Tottenham,Sunderland,2,0,0.0
+2007-2008,23,2008-01-19,Portsmouth,Derby County,3,1,0.0
+2007-2008,23,2008-01-19,Reading,Manchester Utd,0,2,1.0
+2007-2008,23,2008-01-20,Wigan Athletic,Everton,1,2,1.0
+2007-2008,23,2008-01-20,Manchester City,West Ham,1,1,0.5
+2007-2008,23,2008-01-21,Liverpool,Aston Villa,2,2,0.5
+2007-2008,24,2008-01-26,Aston Villa,Blackburn,1,1,0.5
+2007-2008,24,2008-01-29,Arsenal,Newcastle Utd,3,0,0.0
+2007-2008,24,2008-01-29,Bolton,Fulham,0,0,0.5
+2007-2008,24,2008-01-29,Sunderland,Birmingham City,2,0,0.0
+2007-2008,24,2008-01-29,Middlesbrough,Wigan Athletic,1,0,0.0
+2007-2008,24,2008-01-30,Chelsea,Reading,1,0,0.0
+2007-2008,24,2008-01-30,Everton,Tottenham,0,0,0.5
+2007-2008,24,2008-01-30,Manchester Utd,Portsmouth,2,0,0.0
+2007-2008,24,2008-01-30,Derby County,Manchester City,1,1,0.5
+2007-2008,24,2008-01-30,West Ham,Liverpool,1,0,0.0
+2007-2008,25,2008-02-02,Birmingham City,Derby County,1,1,0.5
+2007-2008,25,2008-02-02,Tottenham,Manchester Utd,1,1,0.5
+2007-2008,25,2008-02-02,Wigan Athletic,West Ham,1,0,0.0
+2007-2008,25,2008-02-02,Liverpool,Sunderland,3,0,0.0
+2007-2008,25,2008-02-02,Blackburn,Everton,0,0,0.5
+2007-2008,25,2008-02-02,Reading,Bolton,0,2,1.0
+2007-2008,25,2008-02-02,Manchester City,Arsenal,1,3,1.0
+2007-2008,25,2008-02-02,Portsmouth,Chelsea,1,1,0.5
+2007-2008,25,2008-02-03,Fulham,Aston Villa,2,1,0.0
+2007-2008,25,2008-02-03,Newcastle Utd,Middlesbrough,1,1,0.5
+2007-2008,26,2008-02-09,Aston Villa,Newcastle Utd,4,1,0.0
+2007-2008,26,2008-02-09,Derby County,Tottenham,0,3,1.0
+2007-2008,26,2008-02-09,Bolton,Portsmouth,0,1,1.0
+2007-2008,26,2008-02-09,West Ham,Birmingham City,1,1,0.5
+2007-2008,26,2008-02-09,Middlesbrough,Fulham,1,0,0.0
+2007-2008,26,2008-02-09,Everton,Reading,1,0,0.0
+2007-2008,26,2008-02-09,Sunderland,Wigan Athletic,2,0,0.0
+2007-2008,26,2008-02-10,Manchester Utd,Manchester City,1,2,1.0
+2007-2008,26,2008-02-10,Chelsea,Liverpool,0,0,0.5
+2007-2008,26,2008-02-11,Arsenal,Blackburn,2,0,0.0
+2007-2008,27,2008-02-23,Birmingham City,Arsenal,2,2,0.5
+2007-2008,27,2008-02-23,Portsmouth,Sunderland,1,0,0.0
+2007-2008,27,2008-02-23,Wigan Athletic,Derby County,2,0,0.0
+2007-2008,27,2008-02-23,Liverpool,Middlesbrough,3,2,0.0
+2007-2008,27,2008-02-23,Newcastle Utd,Manchester Utd,1,5,1.0
+2007-2008,27,2008-02-23,Fulham,West Ham,0,1,1.0
+2007-2008,27,2008-02-24,Blackburn,Bolton,4,1,0.0
+2007-2008,27,2008-02-24,Reading,Aston Villa,1,2,1.0
+2007-2008,27,2008-02-25,Manchester City,Everton,0,2,1.0
+2007-2008,28,2008-03-01,Arsenal,Aston Villa,1,1,0.5
+2007-2008,28,2008-03-01,Fulham,Manchester Utd,0,3,1.0
+2007-2008,28,2008-03-01,Newcastle Utd,Blackburn,0,1,1.0
+2007-2008,28,2008-03-01,Manchester City,Wigan Athletic,0,0,0.5
+2007-2008,28,2008-03-01,Birmingham City,Tottenham,4,1,0.0
+2007-2008,28,2008-03-01,Derby County,Sunderland,0,0,0.5
+2007-2008,28,2008-03-01,West Ham,Chelsea,0,4,1.0
+2007-2008,28,2008-03-01,Middlesbrough,Reading,0,1,1.0
+2007-2008,28,2008-03-02,Bolton,Liverpool,1,3,1.0
+2007-2008,28,2008-03-02,Everton,Portsmouth,3,1,0.0
+2007-2008,2,2008-03-05,Liverpool,West Ham,4,0,0.0
+2007-2008,29,2008-03-08,Liverpool,Newcastle Utd,3,0,0.0
+2007-2008,29,2008-03-08,Reading,Manchester City,2,0,0.0
+2007-2008,29,2008-03-08,Blackburn,Fulham,1,1,0.5
+2007-2008,29,2008-03-09,Wigan Athletic,Arsenal,0,0,0.5
+2007-2008,29,2008-03-09,Sunderland,Everton,0,1,1.0
+2007-2008,29,2008-03-09,Tottenham,West Ham,4,0,0.0
+2007-2008,29,2008-03-12,Portsmouth,Birmingham City,4,2,0.0
+2007-2008,29,2008-03-12,Chelsea,Derby County,6,1,0.0
+2007-2008,29,2008-03-12,Aston Villa,Middlesbrough,1,1,0.5
+2007-2008,30,2008-03-15,Arsenal,Middlesbrough,1,1,0.5
+2007-2008,30,2008-03-15,Derby County,Manchester Utd,0,1,1.0
+2007-2008,30,2008-03-15,Sunderland,Chelsea,0,1,1.0
+2007-2008,30,2008-03-15,West Ham,Blackburn,2,1,0.0
+2007-2008,30,2008-03-15,Liverpool,Reading,2,1,0.0
+2007-2008,30,2008-03-15,Portsmouth,Aston Villa,2,0,0.0
+2007-2008,30,2008-03-16,Wigan Athletic,Bolton,1,0,0.0
+2007-2008,30,2008-03-16,Manchester City,Tottenham,2,1,0.0
+2007-2008,30,2008-03-16,Fulham,Everton,1,0,0.0
+2007-2008,30,2008-03-17,Birmingham City,Newcastle Utd,1,1,0.5
+2007-2008,27,2008-03-19,Tottenham,Chelsea,4,4,0.5
+2007-2008,29,2008-03-19,Manchester Utd,Bolton,2,0,0.0
+2007-2008,31,2008-03-22,Tottenham,Portsmouth,2,0,0.0
+2007-2008,31,2008-03-22,Reading,Birmingham City,2,1,0.0
+2007-2008,31,2008-03-22,Everton,West Ham,1,1,0.5
+2007-2008,31,2008-03-22,Aston Villa,Sunderland,0,1,1.0
+2007-2008,31,2008-03-22,Blackburn,Wigan Athletic,3,1,0.0
+2007-2008,31,2008-03-22,Newcastle Utd,Fulham,2,0,0.0
+2007-2008,31,2008-03-22,Middlesbrough,Derby County,1,0,0.0
+2007-2008,31,2008-03-22,Bolton,Manchester City,0,0,0.5
+2007-2008,31,2008-03-23,Chelsea,Arsenal,2,1,0.0
+2007-2008,31,2008-03-23,Manchester Utd,Liverpool,3,0,0.0
+2007-2008,32,2008-03-29,Sunderland,West Ham,2,1,0.0
+2007-2008,32,2008-03-29,Portsmouth,Wigan Athletic,2,0,0.0
+2007-2008,32,2008-03-29,Birmingham City,Manchester City,3,1,0.0
+2007-2008,32,2008-03-29,Manchester Utd,Aston Villa,4,0,0.0
+2007-2008,32,2008-03-29,Bolton,Arsenal,2,3,1.0
+2007-2008,32,2008-03-29,Reading,Blackburn,0,0,0.5
+2007-2008,32,2008-03-29,Derby County,Fulham,2,2,0.5
+2007-2008,32,2008-03-30,Tottenham,Newcastle Utd,1,4,1.0
+2007-2008,32,2008-03-30,Chelsea,Middlesbrough,1,0,0.0
+2007-2008,32,2008-03-30,Liverpool,Everton,1,0,0.0
+2007-2008,33,2008-04-05,Aston Villa,Bolton,4,0,0.0
+2007-2008,33,2008-04-05,Arsenal,Liverpool,1,1,0.5
+2007-2008,33,2008-04-05,Fulham,Sunderland,1,3,1.0
+2007-2008,33,2008-04-05,Manchester City,Chelsea,0,2,1.0
+2007-2008,33,2008-04-05,Blackburn,Tottenham,1,1,0.5
+2007-2008,33,2008-04-05,Newcastle Utd,Reading,3,0,0.0
+2007-2008,33,2008-04-05,Wigan Athletic,Birmingham City,2,0,0.0
+2007-2008,33,2008-04-06,Middlesbrough,Manchester Utd,2,2,0.5
+2007-2008,33,2008-04-06,Everton,Derby County,1,0,0.0
+2007-2008,33,2008-04-08,West Ham,Portsmouth,0,1,1.0
+2007-2008,34,2008-04-12,Portsmouth,Newcastle Utd,0,0,0.5
+2007-2008,34,2008-04-12,Birmingham City,Everton,1,1,0.5
+2007-2008,34,2008-04-12,Sunderland,Manchester City,1,2,1.0
+2007-2008,34,2008-04-12,Bolton,West Ham,1,0,0.0
+2007-2008,34,2008-04-12,Tottenham,Middlesbrough,1,1,0.5
+2007-2008,34,2008-04-12,Reading,Fulham,0,2,1.0
+2007-2008,34,2008-04-12,Derby County,Aston Villa,0,6,1.0
+2007-2008,34,2008-04-13,Manchester Utd,Arsenal,2,1,0.0
+2007-2008,34,2008-04-13,Liverpool,Blackburn,3,1,0.0
+2007-2008,34,2008-04-14,Chelsea,Wigan Athletic,1,1,0.5
+2007-2008,35,2008-04-17,Everton,Chelsea,0,1,1.0
+2007-2008,35,2008-04-19,Arsenal,Reading,2,0,0.0
+2007-2008,35,2008-04-19,Wigan Athletic,Tottenham,1,1,0.5
+2007-2008,35,2008-04-19,Middlesbrough,Bolton,0,1,1.0
+2007-2008,35,2008-04-19,Fulham,Liverpool,0,2,1.0
+2007-2008,35,2008-04-19,West Ham,Derby County,2,1,0.0
+2007-2008,35,2008-04-19,Blackburn,Manchester Utd,1,1,0.5
+2007-2008,35,2008-04-20,Newcastle Utd,Sunderland,2,0,0.0
+2007-2008,35,2008-04-20,Aston Villa,Birmingham City,5,1,0.0
+2007-2008,35,2008-04-20,Manchester City,Portsmouth,3,1,0.0
+2007-2008,36,2008-04-26,Sunderland,Middlesbrough,3,2,0.0
+2007-2008,36,2008-04-26,Wigan Athletic,Reading,0,0,0.5
+2007-2008,36,2008-04-26,West Ham,Newcastle Utd,2,2,0.5
+2007-2008,36,2008-04-26,Tottenham,Bolton,1,1,0.5
+2007-2008,36,2008-04-26,Birmingham City,Liverpool,2,2,0.5
+2007-2008,36,2008-04-26,Manchester City,Fulham,2,3,1.0
+2007-2008,36,2008-04-26,Chelsea,Manchester Utd,2,1,0.0
+2007-2008,36,2008-04-27,Everton,Aston Villa,2,2,0.5
+2007-2008,36,2008-04-27,Portsmouth,Blackburn,0,1,1.0
+2007-2008,36,2008-04-28,Derby County,Arsenal,2,6,1.0
+2007-2008,37,2008-05-03,Manchester Utd,West Ham,4,1,0.0
+2007-2008,37,2008-05-03,Fulham,Birmingham City,2,0,0.0
+2007-2008,37,2008-05-03,Bolton,Sunderland,2,0,0.0
+2007-2008,37,2008-05-03,Aston Villa,Wigan Athletic,0,2,1.0
+2007-2008,37,2008-05-03,Reading,Tottenham,0,1,1.0
+2007-2008,37,2008-05-03,Blackburn,Derby County,3,1,0.0
+2007-2008,37,2008-05-03,Middlesbrough,Portsmouth,2,0,0.0
+2007-2008,37,2008-05-04,Liverpool,Manchester City,1,0,0.0
+2007-2008,37,2008-05-04,Arsenal,Everton,1,0,0.0
+2007-2008,37,2008-05-05,Newcastle Utd,Chelsea,0,2,1.0
+2007-2008,38,2008-05-11,Wigan Athletic,Manchester Utd,0,2,1.0
+2007-2008,38,2008-05-11,West Ham,Aston Villa,2,2,0.5
+2007-2008,38,2008-05-11,Middlesbrough,Manchester City,8,1,0.0
+2007-2008,38,2008-05-11,Birmingham City,Blackburn,4,1,0.0
+2007-2008,38,2008-05-11,Derby County,Reading,0,4,1.0
+2007-2008,38,2008-05-11,Portsmouth,Fulham,0,1,1.0
+2007-2008,38,2008-05-11,Chelsea,Bolton,1,1,0.5
+2007-2008,38,2008-05-11,Sunderland,Arsenal,0,1,1.0
+2007-2008,38,2008-05-11,Tottenham,Liverpool,0,2,1.0
+2007-2008,38,2008-05-11,Everton,Newcastle Utd,3,1,0.0

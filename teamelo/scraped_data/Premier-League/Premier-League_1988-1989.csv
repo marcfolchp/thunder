@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1988-1989,1,1988-08-27,Derby County,Middlesbrough,1,0,0.0
+1988-1989,1,1988-08-27,Everton,Newcastle Utd,4,0,0.0
+1988-1989,1,1988-08-27,Aston Villa,Millwall,2,2,0.5
+1988-1989,1,1988-08-27,Charlton Ath,Liverpool,0,3,1.0
+1988-1989,1,1988-08-27,Manchester Utd,QPR,0,0,0.5
+1988-1989,1,1988-08-27,Norwich City,Nott'ham Forest,2,1,0.0
+1988-1989,1,1988-08-27,Southampton,West Ham,4,0,0.0
+1988-1989,1,1988-08-27,Sheffield Weds,Luton Town,1,0,0.0
+1988-1989,1,1988-08-27,Wimbledon,Arsenal,1,5,1.0
+1988-1989,2,1988-09-03,Coventry City,Everton,0,1,1.0
+1988-1989,2,1988-09-03,Arsenal,Aston Villa,2,3,1.0
+1988-1989,2,1988-09-03,Newcastle Utd,Tottenham,2,2,0.5
+1988-1989,2,1988-09-03,Liverpool,Manchester Utd,1,0,0.0
+1988-1989,2,1988-09-03,QPR,Southampton,0,1,1.0
+1988-1989,2,1988-09-03,Luton Town,Wimbledon,2,2,0.5
+1988-1989,2,1988-09-03,West Ham,Charlton Ath,1,3,1.0
+1988-1989,2,1988-09-03,Middlesbrough,Norwich City,2,3,1.0
+1988-1989,2,1988-09-03,Millwall,Derby County,1,0,0.0
+1988-1989,2,1988-09-03,Nott'ham Forest,Sheffield Weds,1,1,0.5
+1988-1989,3,1988-09-10,Sheffield Weds,Coventry City,1,2,1.0
+1988-1989,3,1988-09-10,Southampton,Luton Town,2,1,0.0
+1988-1989,3,1988-09-10,Everton,Nott'ham Forest,1,1,0.5
+1988-1989,3,1988-09-10,Norwich City,QPR,1,0,0.0
+1988-1989,3,1988-09-10,Manchester Utd,Middlesbrough,1,0,0.0
+1988-1989,3,1988-09-10,Tottenham,Arsenal,2,3,1.0
+1988-1989,3,1988-09-10,Aston Villa,Liverpool,1,1,0.5
+1988-1989,3,1988-09-10,Wimbledon,West Ham,0,1,1.0
+1988-1989,3,1988-09-10,Charlton Ath,Millwall,0,3,1.0
+1988-1989,3,1988-09-10,Derby County,Newcastle Utd,2,0,0.0
+1988-1989,4,1988-09-17,West Ham,Aston Villa,2,2,0.5
+1988-1989,4,1988-09-17,QPR,Sheffield Weds,2,0,0.0
+1988-1989,4,1988-09-17,Liverpool,Tottenham,1,1,0.5
+1988-1989,4,1988-09-17,Newcastle Utd,Norwich City,0,2,1.0
+1988-1989,4,1988-09-17,Millwall,Everton,2,1,0.0
+1988-1989,4,1988-09-17,Luton Town,Manchester Utd,0,2,1.0
+1988-1989,4,1988-09-17,Middlesbrough,Wimbledon,1,0,0.0
+1988-1989,4,1988-09-17,Nott'ham Forest,Derby County,1,1,0.5
+1988-1989,4,1988-09-17,Coventry City,Charlton Ath,3,0,0.0
+1988-1989,4,1988-09-17,Arsenal,Southampton,2,2,0.5
+1988-1989,5,1988-09-24,Charlton Ath,Newcastle Utd,2,2,0.5
+1988-1989,5,1988-09-24,Sheffield Weds,Arsenal,2,1,0.0
+1988-1989,5,1988-09-24,Southampton,Liverpool,1,3,1.0
+1988-1989,5,1988-09-24,Norwich City,Millwall,2,2,0.5
+1988-1989,5,1988-09-24,Manchester Utd,West Ham,2,0,0.0
+1988-1989,5,1988-09-24,Derby County,QPR,0,1,1.0
+1988-1989,5,1988-09-24,Everton,Luton Town,0,2,1.0
+1988-1989,5,1988-09-24,Wimbledon,Coventry City,0,1,1.0
+1988-1989,5,1988-09-24,Aston Villa,Nott'ham Forest,1,1,0.5
+1988-1989,5,1988-09-24,Tottenham,Middlesbrough,3,2,0.0
+1988-1989,6,1988-10-01,Tottenham,Manchester Utd,2,2,0.5
+1988-1989,6,1988-10-01,Southampton,Derby County,0,0,0.5
+1988-1989,6,1988-10-01,Norwich City,Charlton Ath,1,3,1.0
+1988-1989,6,1988-10-01,West Ham,Arsenal,1,4,1.0
+1988-1989,6,1988-10-01,Millwall,QPR,3,2,0.0
+1988-1989,6,1988-10-01,Sheffield Weds,Aston Villa,1,0,0.0
+1988-1989,6,1988-10-01,Wimbledon,Everton,2,1,0.0
+1988-1989,6,1988-10-01,Coventry City,Middlesbrough,3,4,1.0
+1988-1989,6,1988-10-01,Nott'ham Forest,Luton Town,0,0,0.5
+1988-1989,6,1988-10-01,Liverpool,Newcastle Utd,1,2,1.0
+1988-1989,7,1988-10-08,Derby County,Norwich City,0,1,1.0
+1988-1989,7,1988-10-08,Newcastle Utd,Coventry City,0,3,1.0
+1988-1989,7,1988-10-08,Luton Town,Liverpool,1,0,0.0
+1988-1989,7,1988-10-08,Middlesbrough,West Ham,1,0,0.0
+1988-1989,7,1988-10-08,Everton,Southampton,4,1,0.0
+1988-1989,7,1988-10-08,Aston Villa,Wimbledon,0,1,1.0
+1988-1989,7,1988-10-08,QPR,Nott'ham Forest,1,2,1.0
+1988-1989,7,1988-10-08,Charlton Ath,Tottenham,2,2,0.5
+1988-1989,8,1988-10-15,Coventry City,Millwall,0,0,0.5
+1988-1989,8,1988-10-15,QPR,West Ham,2,1,0.0
+1988-1989,8,1988-10-15,Charlton Ath,Aston Villa,2,2,0.5
+1988-1989,9,1988-10-22,Norwich City,Tottenham,3,1,0.0
+1988-1989,9,1988-10-22,Middlesbrough,Luton Town,2,1,0.0
+1988-1989,9,1988-10-22,Southampton,Sheffield Weds,1,2,1.0
+1988-1989,9,1988-10-22,Millwall,Nott'ham Forest,2,2,0.5
+1988-1989,9,1988-10-22,Aston Villa,Everton,2,0,0.0
+1988-1989,9,1988-10-22,Liverpool,Coventry City,0,0,0.5
+1988-1989,9,1988-10-22,West Ham,Newcastle Utd,2,0,0.0
+1988-1989,9,1988-10-22,Arsenal,QPR,2,1,0.0
+1988-1989,9,1988-10-22,Wimbledon,Manchester Utd,1,1,0.5
+1988-1989,9,1988-10-22,Derby County,Charlton Ath,0,0,0.5
+1988-1989,8,1988-10-25,Tottenham,Southampton,1,2,1.0
+1988-1989,8,1988-10-25,Luton Town,Arsenal,1,1,0.5
+1988-1989,8,1988-10-26,Manchester Utd,Norwich City,1,2,1.0
+1988-1989,8,1988-10-26,Newcastle Utd,Middlesbrough,3,0,0.0
+1988-1989,8,1988-10-26,Nott'ham Forest,Liverpool,2,1,0.0
+1988-1989,10,1988-10-29,Norwich City,Southampton,1,1,0.5
+1988-1989,10,1988-10-29,Arsenal,Coventry City,2,0,0.0
+1988-1989,10,1988-10-29,Aston Villa,Tottenham,2,1,0.0
+1988-1989,10,1988-10-29,Charlton Ath,Sheffield Weds,2,1,0.0
+1988-1989,10,1988-10-29,Derby County,Wimbledon,4,1,0.0
+1988-1989,10,1988-10-29,West Ham,Liverpool,0,2,1.0
+1988-1989,10,1988-10-29,Luton Town,QPR,0,0,0.5
+1988-1989,10,1988-10-29,Middlesbrough,Millwall,4,2,0.0
+1988-1989,10,1988-10-29,Newcastle Utd,Nott'ham Forest,0,1,1.0
+1988-1989,10,1988-10-30,Everton,Manchester Utd,1,1,0.5
+1988-1989,11,1988-11-05,Millwall,Luton Town,3,1,0.0
+1988-1989,11,1988-11-05,QPR,Newcastle Utd,3,0,0.0
+1988-1989,11,1988-11-05,Tottenham,Derby County,1,3,1.0
+1988-1989,11,1988-11-05,Coventry City,West Ham,1,1,0.5
+1988-1989,11,1988-11-05,Liverpool,Middlesbrough,3,0,0.0
+1988-1989,11,1988-11-05,Sheffield Weds,Everton,1,1,0.5
+1988-1989,11,1988-11-05,Southampton,Charlton Ath,2,0,0.0
+1988-1989,11,1988-11-05,Manchester Utd,Aston Villa,1,1,0.5
+1988-1989,11,1988-11-05,Wimbledon,Norwich City,0,2,1.0
+1988-1989,11,1988-11-06,Nott'ham Forest,Arsenal,1,4,1.0
+1988-1989,12,1988-11-12,Norwich City,Sheffield Weds,1,1,0.5
+1988-1989,12,1988-11-12,Coventry City,Luton Town,1,0,0.0
+1988-1989,12,1988-11-12,Southampton,Aston Villa,3,1,0.0
+1988-1989,12,1988-11-12,Tottenham,Wimbledon,3,2,0.0
+1988-1989,12,1988-11-12,Derby County,Manchester Utd,2,2,0.5
+1988-1989,12,1988-11-12,West Ham,Nott'ham Forest,3,3,0.5
+1988-1989,12,1988-11-12,Liverpool,Millwall,1,1,0.5
+1988-1989,12,1988-11-12,Middlesbrough,QPR,1,0,0.0
+1988-1989,12,1988-11-12,Newcastle Utd,Arsenal,0,1,1.0
+1988-1989,12,1988-11-12,Charlton Ath,Everton,1,2,1.0
+1988-1989,13,1988-11-19,Everton,Norwich City,1,1,0.5
+1988-1989,13,1988-11-19,Wimbledon,Charlton Ath,1,1,0.5
+1988-1989,13,1988-11-19,QPR,Liverpool,0,1,1.0
+1988-1989,13,1988-11-19,Aston Villa,Derby County,1,2,1.0
+1988-1989,13,1988-11-19,Nott'ham Forest,Coventry City,0,0,0.5
+1988-1989,13,1988-11-19,Manchester Utd,Southampton,2,2,0.5
+1988-1989,13,1988-11-19,Arsenal,Middlesbrough,3,0,0.0
+1988-1989,13,1988-11-19,Luton Town,West Ham,4,1,0.0
+1988-1989,13,1988-11-19,Millwall,Newcastle Utd,4,0,0.0
+1988-1989,13,1988-11-20,Sheffield Weds,Tottenham,0,2,1.0
+1988-1989,1,1988-11-23,Tottenham,Coventry City,1,1,0.5
+1988-1989,7,1988-11-23,Manchester Utd,Sheffield Weds,1,1,0.5
+1988-1989,14,1988-11-26,Southampton,Millwall,2,2,0.5
+1988-1989,14,1988-11-26,Norwich City,Luton Town,2,2,0.5
+1988-1989,14,1988-11-26,Charlton Ath,Nott'ham Forest,0,1,1.0
+1988-1989,14,1988-11-26,Middlesbrough,Sheffield Weds,0,1,1.0
+1988-1989,14,1988-11-26,Coventry City,Aston Villa,2,1,0.0
+1988-1989,14,1988-11-26,Liverpool,Wimbledon,1,1,0.5
+1988-1989,14,1988-11-26,Tottenham,QPR,2,2,0.5
+1988-1989,14,1988-11-26,West Ham,Everton,0,1,1.0
+1988-1989,14,1988-11-26,Derby County,Arsenal,2,1,0.0
+1988-1989,14,1988-11-27,Newcastle Utd,Manchester Utd,0,0,0.5
+1988-1989,15,1988-12-03,Everton,Tottenham,1,0,0.0
+1988-1989,15,1988-12-03,Wimbledon,Southampton,2,1,0.0
+1988-1989,15,1988-12-03,Millwall,West Ham,0,1,1.0
+1988-1989,15,1988-12-03,Nott'ham Forest,Middlesbrough,2,2,0.5
+1988-1989,15,1988-12-03,Manchester Utd,Charlton Ath,3,0,0.0
+1988-1989,15,1988-12-03,Aston Villa,Norwich City,3,1,0.0
+1988-1989,15,1988-12-03,QPR,Coventry City,2,1,0.0
+1988-1989,15,1988-12-03,Luton Town,Newcastle Utd,0,0,0.5
+1988-1989,15,1988-12-03,Sheffield Weds,Derby County,1,1,0.5
+1988-1989,15,1988-12-04,Arsenal,Liverpool,1,1,0.5
+1988-1989,16,1988-12-10,West Ham,Sheffield Weds,0,0,0.5
+1988-1989,16,1988-12-10,Charlton Ath,QPR,1,1,0.5
+1988-1989,16,1988-12-10,Newcastle Utd,Wimbledon,2,1,0.0
+1988-1989,16,1988-12-10,Derby County,Luton Town,0,1,1.0
+1988-1989,16,1988-12-10,Coventry City,Manchester Utd,1,0,0.0
+1988-1989,16,1988-12-10,Middlesbrough,Aston Villa,3,3,0.5
+1988-1989,16,1988-12-10,Tottenham,Millwall,2,0,0.0
+1988-1989,16,1988-12-10,Norwich City,Arsenal,0,0,0.5
+1988-1989,16,1988-12-10,Southampton,Nott'ham Forest,1,1,0.5
+1988-1989,16,1988-12-11,Liverpool,Everton,1,1,0.5
+1988-1989,17,1988-12-17,Millwall,Sheffield Weds,1,0,0.0
+1988-1989,17,1988-12-17,Luton Town,Aston Villa,1,1,0.5
+1988-1989,17,1988-12-17,Arsenal,Manchester Utd,2,1,0.0
+1988-1989,17,1988-12-17,West Ham,Tottenham,0,2,1.0
+1988-1989,17,1988-12-17,Middlesbrough,Charlton Ath,0,0,0.5
+1988-1989,17,1988-12-17,QPR,Everton,0,0,0.5
+1988-1989,17,1988-12-17,Newcastle Utd,Southampton,3,3,0.5
+1988-1989,17,1988-12-17,Coventry City,Derby County,0,2,1.0
+1988-1989,17,1988-12-17,Liverpool,Norwich City,0,1,1.0
+1988-1989,17,1988-12-18,Nott'ham Forest,Wimbledon,0,1,1.0
+1988-1989,18,1988-12-26,Southampton,Coventry City,2,2,0.5
+1988-1989,18,1988-12-26,Aston Villa,QPR,2,1,0.0
+1988-1989,18,1988-12-26,Sheffield Weds,Newcastle Utd,1,2,1.0
+1988-1989,18,1988-12-26,Wimbledon,Millwall,1,0,0.0
+1988-1989,18,1988-12-26,Derby County,Liverpool,0,1,1.0
+1988-1989,18,1988-12-26,Charlton Ath,Arsenal,2,3,1.0
+1988-1989,18,1988-12-26,Manchester Utd,Nott'ham Forest,2,0,0.0
+1988-1989,18,1988-12-26,Tottenham,Luton Town,0,0,0.5
+1988-1989,18,1988-12-26,Everton,Middlesbrough,2,1,0.0
+1988-1989,18,1988-12-27,Norwich City,West Ham,2,1,0.0
+1988-1989,19,1988-12-31,Tottenham,Newcastle Utd,2,0,0.0
+1988-1989,19,1988-12-31,Derby County,Millwall,0,1,1.0
+1988-1989,19,1988-12-31,Aston Villa,Arsenal,0,3,1.0
+1988-1989,19,1988-12-31,Norwich City,Middlesbrough,0,0,0.5
+1988-1989,19,1988-12-31,Sheffield Weds,Nott'ham Forest,0,3,1.0
+1988-1989,19,1988-12-31,Wimbledon,Luton Town,4,0,0.0
+1988-1989,19,1988-12-31,Southampton,QPR,1,4,1.0
+1988-1989,19,1988-12-31,Charlton Ath,West Ham,0,0,0.5
+1988-1989,19,1988-12-31,Everton,Coventry City,3,1,0.0
+1988-1989,19,1989-01-01,Manchester Utd,Liverpool,3,1,0.0
+1988-1989,20,1989-01-02,Newcastle Utd,Derby County,0,1,1.0
+1988-1989,20,1989-01-02,Coventry City,Sheffield Weds,5,0,0.0
+1988-1989,20,1989-01-02,Millwall,Charlton Ath,1,0,0.0
+1988-1989,20,1989-01-02,Luton Town,Southampton,6,1,0.0
+1988-1989,20,1989-01-02,Arsenal,Tottenham,2,0,0.0
+1988-1989,20,1989-01-02,Middlesbrough,Manchester Utd,1,0,0.0
+1988-1989,20,1989-01-02,Nott'ham Forest,Everton,2,0,0.0
+1988-1989,20,1989-01-02,QPR,Norwich City,1,1,0.5
+1988-1989,20,1989-01-02,West Ham,Wimbledon,1,2,1.0
+1988-1989,20,1989-01-03,Liverpool,Aston Villa,1,0,0.0
+1988-1989,21,1989-01-14,Norwich City,Coventry City,1,2,1.0
+1988-1989,21,1989-01-14,Derby County,West Ham,1,2,1.0
+1988-1989,21,1989-01-14,Wimbledon,QPR,1,0,0.0
+1988-1989,21,1989-01-14,Manchester Utd,Millwall,3,0,0.0
+1988-1989,21,1989-01-14,Aston Villa,Newcastle Utd,3,1,0.0
+1988-1989,21,1989-01-14,Everton,Arsenal,1,3,1.0
+1988-1989,21,1989-01-14,Southampton,Middlesbrough,1,3,1.0
+1988-1989,21,1989-01-14,Charlton Ath,Luton Town,3,0,0.0
+1988-1989,21,1989-01-14,Sheffield Weds,Liverpool,2,2,0.5
+1988-1989,21,1989-01-15,Tottenham,Nott'ham Forest,1,2,1.0
+1988-1989,22,1989-01-21,Newcastle Utd,Charlton Ath,0,2,1.0
+1988-1989,22,1989-01-21,Coventry City,Wimbledon,2,1,0.0
+1988-1989,22,1989-01-21,Luton Town,Everton,1,0,0.0
+1988-1989,22,1989-01-21,Middlesbrough,Tottenham,2,2,0.5
+1988-1989,22,1989-01-21,West Ham,Manchester Utd,1,3,1.0
+1988-1989,22,1989-01-21,Liverpool,Southampton,2,0,0.0
+1988-1989,22,1989-01-21,QPR,Derby County,0,1,1.0
+1988-1989,22,1989-01-21,Nott'ham Forest,Aston Villa,4,0,0.0
+1988-1989,22,1989-01-21,Arsenal,Sheffield Weds,1,1,0.5
+1988-1989,22,1989-01-22,Millwall,Norwich City,2,3,1.0
+1988-1989,23,1989-02-04,Arsenal,West Ham,2,1,0.0
+1988-1989,23,1989-02-04,Luton Town,Nott'ham Forest,2,3,1.0
+1988-1989,23,1989-02-04,QPR,Millwall,1,2,1.0
+1988-1989,23,1989-02-04,Middlesbrough,Coventry City,1,1,0.5
+1988-1989,23,1989-02-04,Everton,Wimbledon,1,1,0.5
+1988-1989,23,1989-02-04,Charlton Ath,Norwich City,1,2,1.0
+1988-1989,23,1989-02-04,Derby County,Southampton,3,1,0.0
+1988-1989,23,1989-02-04,Newcastle Utd,Liverpool,2,2,0.5
+1988-1989,23,1989-02-04,Aston Villa,Sheffield Weds,2,0,0.0
+1988-1989,23,1989-02-05,Manchester Utd,Tottenham,1,0,0.0
+1988-1989,24,1989-02-11,Norwich City,Derby County,1,0,0.0
+1988-1989,24,1989-02-11,Tottenham,Charlton Ath,1,1,0.5
+1988-1989,24,1989-02-11,Nott'ham Forest,QPR,0,0,0.5
+1988-1989,24,1989-02-11,Millwall,Arsenal,1,2,1.0
+1988-1989,24,1989-02-11,Wimbledon,Aston Villa,1,0,0.0
+1988-1989,24,1989-02-11,Coventry City,Newcastle Utd,1,2,1.0
+1988-1989,24,1989-02-11,Southampton,Everton,1,1,0.5
+1988-1989,24,1989-02-11,Sheffield Weds,Manchester Utd,0,2,1.0
+1988-1989,25,1989-02-14,Everton,Aston Villa,1,1,0.5
+1988-1989,25,1989-02-18,Luton Town,Middlesbrough,1,0,0.0
+1988-1989,25,1989-02-18,QPR,Arsenal,0,0,0.5
+1988-1989,25,1989-02-18,Sheffield Weds,Southampton,1,1,0.5
+1988-1989,25,1989-02-21,Tottenham,Norwich City,2,1,0.0
+1988-1989,26,1989-02-21,Millwall,Middlesbrough,2,0,0.0
+1988-1989,26,1989-02-21,Coventry City,Arsenal,1,0,0.0
+1988-1989,27,1989-02-25,Millwall,Coventry City,1,0,0.0
+1988-1989,27,1989-02-25,Southampton,Tottenham,0,2,1.0
+1988-1989,27,1989-02-25,Norwich City,Manchester Utd,2,1,0.0
+1988-1989,27,1989-02-25,Wimbledon,Sheffield Weds,1,0,0.0
+1988-1989,27,1989-02-25,West Ham,QPR,0,0,0.5
+1988-1989,27,1989-02-25,Aston Villa,Charlton Ath,1,2,1.0
+1988-1989,27,1989-02-25,Derby County,Everton,3,2,0.0
+1988-1989,27,1989-02-25,Arsenal,Luton Town,2,0,0.0
+1988-1989,27,1989-02-26,Middlesbrough,Newcastle Utd,1,1,0.5
+1988-1989,7,1989-02-28,Arsenal,Millwall,0,0,0.5
+1988-1989,26,1989-03-01,Wimbledon,Derby County,4,0,0.0
+1988-1989,26,1989-03-01,Tottenham,Aston Villa,2,0,0.0
+1988-1989,29,1989-03-01,Liverpool,Charlton Ath,2,0,0.0
+1988-1989,26,1989-03-04,Sheffield Weds,Charlton Ath,3,1,0.0
+1988-1989,28,1989-03-11,Luton Town,Millwall,1,2,1.0
+1988-1989,28,1989-03-11,West Ham,Coventry City,1,1,0.5
+1988-1989,28,1989-03-11,Norwich City,Wimbledon,1,0,0.0
+1988-1989,28,1989-03-11,Everton,Sheffield Weds,1,0,0.0
+1988-1989,28,1989-03-11,Arsenal,Nott'ham Forest,1,3,1.0
+1988-1989,28,1989-03-11,Charlton Ath,Southampton,2,2,0.5
+1988-1989,28,1989-03-11,Derby County,Tottenham,1,1,0.5
+1988-1989,28,1989-03-11,Newcastle Utd,QPR,1,2,1.0
+1988-1989,28,1989-03-11,Middlesbrough,Liverpool,0,4,1.0
+1988-1989,28,1989-03-12,Aston Villa,Manchester Utd,0,0,0.5
+1988-1989,24,1989-03-14,Liverpool,Luton Town,5,0,0.0
+1988-1989,26,1989-03-15,Nott'ham Forest,Newcastle Utd,1,1,0.5
+1988-1989,29,1989-03-18,Middlesbrough,Derby County,0,1,1.0
+1988-1989,29,1989-03-18,Coventry City,Tottenham,1,1,0.5
+1988-1989,29,1989-03-18,Millwall,Aston Villa,2,0,0.0
+1988-1989,29,1989-03-18,Luton Town,Sheffield Weds,0,1,1.0
+1988-1989,26,1989-03-21,QPR,Luton Town,1,1,0.5
+1988-1989,31,1989-03-21,Arsenal,Charlton Ath,2,2,0.5
+1988-1989,25,1989-03-22,Coventry City,Liverpool,1,3,1.0
+1988-1989,29,1989-03-22,Newcastle Utd,Everton,2,0,0.0
+1988-1989,33,1989-03-22,Nott'ham Forest,Tottenham,1,2,1.0
+1988-1989,30,1989-03-25,Manchester Utd,Luton Town,2,0,0.0
+1988-1989,30,1989-03-25,Derby County,Nott'ham Forest,0,2,1.0
+1988-1989,30,1989-03-25,Everton,Millwall,1,1,0.5
+1988-1989,30,1989-03-25,Sheffield Weds,QPR,0,2,1.0
+1988-1989,30,1989-03-25,Wimbledon,Middlesbrough,1,1,0.5
+1988-1989,30,1989-03-25,Norwich City,Newcastle Utd,0,2,1.0
+1988-1989,30,1989-03-25,Southampton,Arsenal,1,3,1.0
+1988-1989,30,1989-03-25,Charlton Ath,Coventry City,0,0,0.5
+1988-1989,30,1989-03-25,Aston Villa,West Ham,0,1,1.0
+1988-1989,30,1989-03-26,Tottenham,Liverpool,1,2,1.0
+1988-1989,31,1989-03-27,QPR,Aston Villa,1,0,0.0
+1988-1989,31,1989-03-27,Nott'ham Forest,Manchester Utd,2,0,0.0
+1988-1989,31,1989-03-27,Newcastle Utd,Sheffield Weds,1,3,1.0
+1988-1989,31,1989-03-27,Millwall,Wimbledon,0,1,1.0
+1988-1989,31,1989-03-27,Middlesbrough,Everton,3,3,0.5
+1988-1989,31,1989-03-27,West Ham,Norwich City,0,2,1.0
+1988-1989,31,1989-03-27,Coventry City,Southampton,2,1,0.0
+1988-1989,31,1989-03-28,Luton Town,Tottenham,1,3,1.0
+1988-1989,31,1989-03-29,Liverpool,Derby County,1,0,0.0
+1988-1989,32,1989-04-01,Aston Villa,Luton Town,2,1,0.0
+1988-1989,32,1989-04-01,Norwich City,Liverpool,0,1,1.0
+1988-1989,32,1989-04-01,Tottenham,West Ham,3,0,0.0
+1988-1989,32,1989-04-01,Charlton Ath,Middlesbrough,2,0,0.0
+1988-1989,32,1989-04-01,Sheffield Weds,Millwall,3,0,0.0
+1988-1989,32,1989-04-01,Wimbledon,Nott'ham Forest,4,1,0.0
+1988-1989,32,1989-04-01,Southampton,Newcastle Utd,1,0,0.0
+1988-1989,32,1989-04-01,Everton,QPR,4,1,0.0
+1988-1989,32,1989-04-01,Derby County,Coventry City,1,0,0.0
+1988-1989,32,1989-04-02,Manchester Utd,Arsenal,1,1,0.5
+1988-1989,8,1989-04-05,Sheffield Weds,Wimbledon,1,1,0.5
+1988-1989,29,1989-04-05,Nott'ham Forest,Norwich City,2,0,0.0
+1988-1989,33,1989-04-08,Newcastle Utd,Aston Villa,1,2,1.0
+1988-1989,33,1989-04-08,West Ham,Derby County,1,1,0.5
+1988-1989,33,1989-04-08,Middlesbrough,Southampton,3,3,0.5
+1988-1989,33,1989-04-08,QPR,Wimbledon,4,3,0.0
+1988-1989,33,1989-04-08,Liverpool,Sheffield Weds,5,1,0.0
+1988-1989,33,1989-04-08,Millwall,Manchester Utd,0,0,0.5
+1988-1989,33,1989-04-08,Arsenal,Everton,2,0,0.0
+1988-1989,33,1989-04-08,Coventry City,Norwich City,2,1,0.0
+1988-1989,34,1989-04-10,Everton,Charlton Ath,3,2,0.0
+1988-1989,24,1989-04-11,West Ham,Middlesbrough,1,2,1.0
+1988-1989,34,1989-04-11,Millwall,Liverpool,1,2,1.0
+1988-1989,36,1989-04-12,Nott'ham Forest,Southampton,3,0,0.0
+1988-1989,37,1989-04-12,Tottenham,Sheffield Weds,0,0,0.5
+1988-1989,29,1989-04-15,West Ham,Southampton,1,2,1.0
+1988-1989,34,1989-04-15,Manchester Utd,Derby County,0,2,1.0
+1988-1989,34,1989-04-15,Wimbledon,Tottenham,1,2,1.0
+1988-1989,34,1989-04-15,Arsenal,Newcastle Utd,1,0,0.0
+1988-1989,34,1989-04-15,QPR,Middlesbrough,0,0,0.5
+1988-1989,34,1989-04-15,Luton Town,Coventry City,2,2,0.5
+1988-1989,26,1989-04-19,Southampton,Norwich City,0,0,0.5
+1988-1989,35,1989-04-22,Coventry City,QPR,0,3,1.0
+1988-1989,35,1989-04-22,Southampton,Wimbledon,0,0,0.5
+1988-1989,35,1989-04-22,Charlton Ath,Manchester Utd,1,0,0.0
+1988-1989,35,1989-04-22,Tottenham,Everton,2,1,0.0
+1988-1989,35,1989-04-22,Middlesbrough,Nott'ham Forest,3,4,1.0
+1988-1989,35,1989-04-22,Newcastle Utd,Luton Town,0,0,0.5
+1988-1989,35,1989-04-22,Norwich City,Aston Villa,2,2,0.5
+1988-1989,35,1989-04-22,Derby County,Sheffield Weds,1,0,0.0
+1988-1989,35,1989-04-22,West Ham,Millwall,3,0,0.0
+1988-1989,36,1989-04-29,QPR,Charlton Ath,1,0,0.0
+1988-1989,36,1989-04-29,Wimbledon,Newcastle Utd,4,0,0.0
+1988-1989,36,1989-04-29,Manchester Utd,Coventry City,0,1,1.0
+1988-1989,36,1989-04-29,Luton Town,Derby County,3,0,0.0
+1988-1989,36,1989-04-29,Aston Villa,Middlesbrough,1,1,0.5
+1988-1989,36,1989-04-29,Millwall,Tottenham,0,5,1.0
+1988-1989,36,1989-05-01,Arsenal,Norwich City,5,0,0.0
+1988-1989,25,1989-05-02,Manchester Utd,Wimbledon,1,0,0.0
+1988-1989,33,1989-05-02,Luton Town,Charlton Ath,5,2,0.0
+1988-1989,34,1989-05-02,Aston Villa,Southampton,1,2,1.0
+1988-1989,25,1989-05-03,Nott'ham Forest,Millwall,4,1,0.0
+1988-1989,25,1989-05-03,Newcastle Utd,West Ham,1,2,1.0
+1988-1989,36,1989-05-03,Everton,Liverpool,0,0,0.5
+1988-1989,37,1989-05-06,Charlton Ath,Wimbledon,1,0,0.0
+1988-1989,37,1989-05-06,Southampton,Manchester Utd,2,1,0.0
+1988-1989,37,1989-05-06,Newcastle Utd,Millwall,1,1,0.5
+1988-1989,37,1989-05-06,Derby County,Aston Villa,2,1,0.0
+1988-1989,37,1989-05-06,Norwich City,Everton,1,0,0.0
+1988-1989,37,1989-05-06,West Ham,Luton Town,1,0,0.0
+1988-1989,37,1989-05-06,Middlesbrough,Arsenal,0,1,1.0
+1988-1989,29,1989-05-08,QPR,Manchester Utd,3,2,0.0
+1988-1989,36,1989-05-09,Sheffield Weds,West Ham,0,2,1.0
+1988-1989,25,1989-05-10,Charlton Ath,Derby County,3,0,0.0
+1988-1989,26,1989-05-10,Manchester Utd,Everton,1,2,1.0
+1988-1989,27,1989-05-10,Liverpool,Nott'ham Forest,1,0,0.0
+1988-1989,38,1989-05-13,Sheffield Weds,Middlesbrough,1,0,0.0
+1988-1989,38,1989-05-13,Luton Town,Norwich City,1,0,0.0
+1988-1989,38,1989-05-13,Arsenal,Derby County,1,2,1.0
+1988-1989,38,1989-05-13,Aston Villa,Coventry City,1,1,0.5
+1988-1989,38,1989-05-13,Nott'ham Forest,Charlton Ath,4,0,0.0
+1988-1989,38,1989-05-13,QPR,Tottenham,1,0,0.0
+1988-1989,38,1989-05-13,Manchester Utd,Newcastle Utd,2,0,0.0
+1988-1989,38,1989-05-13,Everton,West Ham,3,1,0.0
+1988-1989,38,1989-05-13,Millwall,Southampton,1,1,0.5
+1988-1989,38,1989-05-13,Wimbledon,Liverpool,1,2,1.0
+1988-1989,8,1989-05-15,Everton,Derby County,1,0,0.0
+1988-1989,37,1989-05-15,Coventry City,Nott'ham Forest,2,2,0.5
+1988-1989,37,1989-05-16,Liverpool,QPR,2,0,0.0
+1988-1989,29,1989-05-17,Arsenal,Wimbledon,2,2,0.5
+1988-1989,34,1989-05-17,Sheffield Weds,Norwich City,2,2,0.5
+1988-1989,34,1989-05-18,Nott'ham Forest,West Ham,1,2,1.0
+1988-1989,26,1989-05-23,Liverpool,West Ham,5,1,0.0
+1988-1989,35,1989-05-26,Liverpool,Arsenal,0,2,1.0

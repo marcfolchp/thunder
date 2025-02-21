@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-08-15,Athletic Club,Getafe,1.0,1.0,0.5
+2024-2025,1,2024-08-15,Betis,Girona,1.0,1.0,0.5
+2024-2025,1,2024-08-16,Celta Vigo,Alavés,2.0,1.0,0.0
+2024-2025,1,2024-08-16,Las Palmas,Sevilla,2.0,2.0,0.5
+2024-2025,1,2024-08-17,Osasuna,Leganés,1.0,1.0,0.5
+2024-2025,1,2024-08-17,Valencia,Barcelona,1.0,2.0,1.0
+2024-2025,1,2024-08-18,Real Sociedad,Rayo Vallecano,1.0,2.0,1.0
+2024-2025,1,2024-08-18,Mallorca,Real Madrid,1.0,1.0,0.5
+2024-2025,1,2024-08-19,Valladolid,Espanyol,1.0,0.0,0.0
+2024-2025,1,2024-08-19,Villarreal,Atlético Madrid,2.0,2.0,0.5
+2024-2025,2,2024-08-23,Celta Vigo,Valencia,3.0,1.0,0.0
+2024-2025,2,2024-08-23,Sevilla,Villarreal,1.0,2.0,1.0
+2024-2025,2,2024-08-24,Osasuna,Mallorca,1.0,0.0,0.0
+2024-2025,2,2024-08-24,Barcelona,Athletic Club,2.0,1.0,0.0
+2024-2025,2,2024-08-24,Espanyol,Real Sociedad,0.0,1.0,1.0
+2024-2025,2,2024-08-24,Getafe,Rayo Vallecano,0.0,0.0,0.5
+2024-2025,2,2024-08-25,Real Madrid,Valladolid,3.0,0.0,0.0
+2024-2025,2,2024-08-25,Leganés,Las Palmas,2.0,1.0,0.0
+2024-2025,2,2024-08-25,Alavés,Betis,0.0,0.0,0.5
+2024-2025,2,2024-08-25,Atlético Madrid,Girona,3.0,0.0,0.0
+2024-2025,3,2024-08-26,Villarreal,Celta Vigo,4.0,3.0,0.0
+2024-2025,3,2024-08-27,Mallorca,Sevilla,0.0,0.0,0.5
+2024-2025,3,2024-08-27,Rayo Vallecano,Barcelona,1.0,2.0,1.0
+2024-2025,3,2024-08-28,Valladolid,Leganés,0.0,0.0,0.5
+2024-2025,3,2024-08-28,Athletic Club,Valencia,1.0,0.0,0.0
+2024-2025,3,2024-08-28,Real Sociedad,Alavés,1.0,2.0,1.0
+2024-2025,3,2024-08-28,Atlético Madrid,Espanyol,0.0,0.0,0.5
+2024-2025,3,2024-08-29,Girona,Osasuna,4.0,0.0,0.0
+2024-2025,3,2024-08-29,Las Palmas,Real Madrid,1.0,1.0,0.5
+2024-2025,4,2024-08-31,Barcelona,Valladolid,7.0,0.0,0.0
+2024-2025,4,2024-08-31,Athletic Club,Atlético Madrid,0.0,1.0,1.0
+2024-2025,4,2024-08-31,Espanyol,Rayo Vallecano,2.0,1.0,0.0
+2024-2025,4,2024-08-31,Leganés,Mallorca,0.0,1.0,1.0
+2024-2025,4,2024-08-31,Valencia,Villarreal,1.0,1.0,0.5
+2024-2025,4,2024-09-01,Alavés,Las Palmas,2.0,0.0,0.0
+2024-2025,4,2024-09-01,Osasuna,Celta Vigo,3.0,2.0,0.0
+2024-2025,4,2024-09-01,Sevilla,Girona,0.0,2.0,1.0
+2024-2025,4,2024-09-01,Getafe,Real Sociedad,0.0,0.0,0.5
+2024-2025,4,2024-09-01,Real Madrid,Betis,2.0,0.0,0.0
+2024-2025,5,2024-09-13,Betis,Leganés,2.0,0.0,0.0
+2024-2025,5,2024-09-14,Mallorca,Villarreal,1.0,2.0,1.0
+2024-2025,5,2024-09-14,Espanyol,Alavés,3.0,2.0,0.0
+2024-2025,5,2024-09-14,Sevilla,Getafe,1.0,0.0,0.0
+2024-2025,5,2024-09-14,Real Sociedad,Real Madrid,0.0,2.0,1.0
+2024-2025,5,2024-09-15,Celta Vigo,Valladolid,3.0,1.0,0.0
+2024-2025,5,2024-09-15,Girona,Barcelona,1.0,4.0,1.0
+2024-2025,5,2024-09-15,Las Palmas,Athletic Club,2.0,3.0,1.0
+2024-2025,5,2024-09-15,Atlético Madrid,Valencia,3.0,0.0,0.0
+2024-2025,5,2024-09-16,Rayo Vallecano,Osasuna,3.0,1.0,0.0
+2024-2025,7,2024-09-17,Mallorca,Real Sociedad,1.0,0.0,0.0
+2024-2025,3,2024-09-18,Betis,Getafe,2.0,1.0,0.0
+2024-2025,7,2024-09-19,Leganés,Athletic Club,0.0,2.0,1.0
+2024-2025,6,2024-09-20,Alavés,Sevilla,2.0,1.0,0.0
+2024-2025,6,2024-09-21,Valladolid,Real Sociedad,0.0,0.0,0.5
+2024-2025,6,2024-09-21,Osasuna,Las Palmas,2.0,1.0,0.0
+2024-2025,6,2024-09-21,Valencia,Girona,2.0,0.0,0.0
+2024-2025,6,2024-09-21,Real Madrid,Espanyol,4.0,1.0,0.0
+2024-2025,6,2024-09-22,Getafe,Leganés,1.0,1.0,0.5
+2024-2025,6,2024-09-22,Athletic Club,Celta Vigo,3.0,1.0,0.0
+2024-2025,6,2024-09-22,Villarreal,Barcelona,1.0,5.0,1.0
+2024-2025,6,2024-09-22,Rayo Vallecano,Atlético Madrid,1.0,1.0,0.5
+2024-2025,6,2024-09-23,Betis,Mallorca,1.0,2.0,1.0
+2024-2025,7,2024-09-24,Sevilla,Valladolid,2.0,1.0,0.0
+2024-2025,7,2024-09-24,Valencia,Osasuna,0.0,0.0,0.5
+2024-2025,7,2024-09-24,Real Madrid,Alavés,3.0,2.0,0.0
+2024-2025,7,2024-09-25,Girona,Rayo Vallecano,0.0,0.0,0.5
+2024-2025,7,2024-09-25,Barcelona,Getafe,1.0,0.0,0.0
+2024-2025,7,2024-09-26,Las Palmas,Betis,1.0,1.0,0.5
+2024-2025,7,2024-09-26,Espanyol,Villarreal,1.0,2.0,1.0
+2024-2025,7,2024-09-26,Celta Vigo,Atlético Madrid,0.0,1.0,1.0
+2024-2025,8,2024-09-27,Valladolid,Mallorca,1.0,2.0,1.0
+2024-2025,8,2024-09-28,Getafe,Alavés,2.0,0.0,0.0
+2024-2025,8,2024-09-28,Rayo Vallecano,Leganés,1.0,1.0,0.5
+2024-2025,8,2024-09-28,Real Sociedad,Valencia,3.0,0.0,0.0
+2024-2025,8,2024-09-28,Osasuna,Barcelona,4.0,2.0,0.0
+2024-2025,8,2024-09-29,Celta Vigo,Girona,1.0,1.0,0.5
+2024-2025,8,2024-09-29,Athletic Club,Sevilla,1.0,1.0,0.5
+2024-2025,8,2024-09-29,Betis,Espanyol,1.0,0.0,0.0
+2024-2025,8,2024-09-29,Atlético Madrid,Real Madrid,1.0,1.0,0.5
+2024-2025,8,2024-09-30,Villarreal,Las Palmas,3.0,1.0,0.0
+2024-2025,9,2024-10-04,Leganés,Valencia,0.0,0.0,0.5
+2024-2025,9,2024-10-05,Espanyol,Mallorca,2.0,1.0,0.0
+2024-2025,9,2024-10-05,Getafe,Osasuna,1.0,1.0,0.5
+2024-2025,9,2024-10-05,Las Palmas,Celta Vigo,0.0,1.0,1.0
+2024-2025,9,2024-10-05,Valladolid,Rayo Vallecano,1.0,2.0,1.0
+2024-2025,9,2024-10-05,Real Madrid,Villarreal,2.0,0.0,0.0
+2024-2025,9,2024-10-06,Girona,Athletic Club,2.0,1.0,0.0
+2024-2025,9,2024-10-06,Alavés,Barcelona,0.0,3.0,1.0
+2024-2025,9,2024-10-06,Sevilla,Betis,1.0,0.0,0.0
+2024-2025,9,2024-10-06,Real Sociedad,Atlético Madrid,1.0,1.0,0.5
+2024-2025,10,2024-10-18,Alavés,Valladolid,2.0,3.0,1.0
+2024-2025,10,2024-10-19,Athletic Club,Espanyol,4.0,1.0,0.0
+2024-2025,10,2024-10-19,Osasuna,Betis,1.0,2.0,1.0
+2024-2025,10,2024-10-19,Girona,Real Sociedad,0.0,1.0,1.0
+2024-2025,10,2024-10-19,Celta Vigo,Real Madrid,1.0,2.0,1.0
+2024-2025,10,2024-10-20,Mallorca,Rayo Vallecano,1.0,0.0,0.0
+2024-2025,10,2024-10-20,Atlético Madrid,Leganés,3.0,1.0,0.0
+2024-2025,10,2024-10-20,Villarreal,Getafe,1.0,1.0,0.5
+2024-2025,10,2024-10-20,Barcelona,Sevilla,5.0,1.0,0.0
+2024-2025,10,2024-10-21,Valencia,Las Palmas,2.0,3.0,1.0
+2024-2025,11,2024-10-25,Espanyol,Sevilla,0.0,2.0,1.0
+2024-2025,11,2024-10-26,Valladolid,Villarreal,1.0,2.0,1.0
+2024-2025,11,2024-10-26,Rayo Vallecano,Alavés,1.0,0.0,0.0
+2024-2025,11,2024-10-26,Las Palmas,Girona,1.0,0.0,0.0
+2024-2025,11,2024-10-26,Real Madrid,Barcelona,0.0,4.0,1.0
+2024-2025,11,2024-10-27,Leganés,Celta Vigo,3.0,0.0,0.0
+2024-2025,11,2024-10-27,Getafe,Valencia,1.0,1.0,0.5
+2024-2025,11,2024-10-27,Betis,Atlético Madrid,1.0,0.0,0.0
+2024-2025,11,2024-10-27,Real Sociedad,Osasuna,0.0,2.0,1.0
+2024-2025,11,2024-10-28,Mallorca,Athletic Club,0.0,0.0,0.5
+2024-2025,12,2024-11-01,Alavés,Mallorca,1.0,0.0,0.0
+2024-2025,12,2024-11-02,Osasuna,Valladolid,1.0,0.0,0.0
+2024-2025,12,2024-11-02,Girona,Leganés,4.0,3.0,0.0
+2024-2025,12,2024-11-03,Atlético Madrid,Las Palmas,2.0,0.0,0.0
+2024-2025,12,2024-11-03,Barcelona,Espanyol,3.0,1.0,0.0
+2024-2025,12,2024-11-03,Sevilla,Real Sociedad,0.0,2.0,1.0
+2024-2025,12,2024-11-03,Athletic Club,Betis,1.0,1.0,0.5
+2024-2025,12,2024-11-04,Celta Vigo,Getafe,1.0,0.0,0.0
+2024-2025,13,2024-11-08,Rayo Vallecano,Las Palmas,1.0,3.0,1.0
+2024-2025,13,2024-11-09,Real Madrid,Osasuna,4.0,0.0,0.0
+2024-2025,13,2024-11-09,Villarreal,Alavés,3.0,0.0,0.0
+2024-2025,13,2024-11-09,Leganés,Sevilla,1.0,0.0,0.0
+2024-2025,13,2024-11-10,Betis,Celta Vigo,2.0,2.0,0.5
+2024-2025,13,2024-11-10,Mallorca,Atlético Madrid,0.0,1.0,1.0
+2024-2025,13,2024-11-10,Getafe,Girona,0.0,1.0,1.0
+2024-2025,13,2024-11-10,Valladolid,Athletic Club,1.0,1.0,0.5
+2024-2025,13,2024-11-10,Real Sociedad,Barcelona,1.0,0.0,0.0
+2024-2025,14,2024-11-22,Getafe,Valladolid,2.0,0.0,0.0
+2024-2025,14,2024-11-23,Valencia,Betis,4.0,2.0,0.0
+2024-2025,14,2024-11-23,Atlético Madrid,Alavés,2.0,1.0,0.0
+2024-2025,14,2024-11-23,Las Palmas,Mallorca,2.0,3.0,1.0
+2024-2025,14,2024-11-23,Girona,Espanyol,4.0,1.0,0.0
+2024-2025,14,2024-11-23,Celta Vigo,Barcelona,2.0,2.0,0.5
+2024-2025,14,2024-11-24,Osasuna,Villarreal,2.0,2.0,0.5
+2024-2025,14,2024-11-24,Sevilla,Rayo Vallecano,1.0,0.0,0.0
+2024-2025,14,2024-11-24,Leganés,Real Madrid,0.0,3.0,1.0
+2024-2025,14,2024-11-24,Athletic Club,Real Sociedad,1.0,0.0,0.0
+2024-2025,15,2024-11-29,Mallorca,Valencia,2.0,1.0,0.0
+2024-2025,15,2024-11-30,Barcelona,Las Palmas,1.0,2.0,1.0
+2024-2025,15,2024-11-30,Alavés,Leganés,1.0,1.0,0.5
+2024-2025,15,2024-11-30,Espanyol,Celta Vigo,3.0,1.0,0.0
+2024-2025,15,2024-11-30,Valladolid,Atlético Madrid,0.0,5.0,1.0
+2024-2025,15,2024-12-01,Villarreal,Girona,2.0,2.0,0.5
+2024-2025,15,2024-12-01,Real Madrid,Getafe,2.0,0.0,0.0
+2024-2025,15,2024-12-01,Rayo Vallecano,Athletic Club,1.0,2.0,1.0
+2024-2025,15,2024-12-01,Real Sociedad,Betis,2.0,0.0,0.0
+2024-2025,15,2024-12-02,Sevilla,Osasuna,1.0,1.0,0.5
+2024-2025,19,2024-12-03,Mallorca,Barcelona,1.0,5.0,1.0
+2024-2025,19,2024-12-04,Athletic Club,Real Madrid,2.0,1.0,0.0
+2024-2025,16,2024-12-06,Celta Vigo,Mallorca,2.0,0.0,0.0
+2024-2025,16,2024-12-07,Las Palmas,Valladolid,2.0,1.0,0.0
+2024-2025,16,2024-12-07,Betis,Barcelona,2.0,2.0,0.5
+2024-2025,16,2024-12-07,Valencia,Rayo Vallecano,0.0,1.0,1.0
+2024-2025,16,2024-12-07,Girona,Real Madrid,0.0,3.0,1.0
+2024-2025,16,2024-12-08,Leganés,Real Sociedad,0.0,3.0,1.0
+2024-2025,16,2024-12-08,Athletic Club,Villarreal,2.0,0.0,0.0
+2024-2025,16,2024-12-08,Osasuna,Alavés,2.0,2.0,0.5
+2024-2025,16,2024-12-08,Atlético Madrid,Sevilla,4.0,3.0,0.0
+2024-2025,16,2024-12-09,Getafe,Espanyol,1.0,0.0,0.0
+2024-2025,17,2024-12-13,Valladolid,Valencia,1.0,0.0,0.0
+2024-2025,17,2024-12-14,Espanyol,Osasuna,0.0,0.0,0.5
+2024-2025,17,2024-12-14,Mallorca,Girona,2.0,1.0,0.0
+2024-2025,17,2024-12-14,Sevilla,Celta Vigo,1.0,0.0,0.0
+2024-2025,17,2024-12-14,Rayo Vallecano,Real Madrid,3.0,3.0,0.5
+2024-2025,17,2024-12-15,Atlético Madrid,Getafe,1.0,0.0,0.0
+2024-2025,17,2024-12-15,Alavés,Athletic Club,1.0,1.0,0.5
+2024-2025,17,2024-12-15,Real Sociedad,Las Palmas,0.0,0.0,0.5
+2024-2025,17,2024-12-15,Villarreal,Betis,1.0,2.0,1.0
+2024-2025,17,2024-12-15,Barcelona,Leganés,0.0,1.0,1.0
+2024-2025,12,2024-12-18,Villarreal,Rayo Vallecano,1.0,1.0,0.5
+2024-2025,13,2024-12-18,Espanyol,Valencia,1.0,1.0,0.5
+2024-2025,18,2024-12-20,Girona,Valladolid,3.0,0.0,0.0
+2024-2025,18,2024-12-21,Getafe,Mallorca,0.0,1.0,1.0
+2024-2025,18,2024-12-21,Celta Vigo,Real Sociedad,2.0,0.0,0.0
+2024-2025,18,2024-12-21,Osasuna,Athletic Club,1.0,2.0,1.0
+2024-2025,18,2024-12-21,Barcelona,Atlético Madrid,1.0,2.0,1.0
+2024-2025,18,2024-12-22,Valencia,Alavés,2.0,2.0,0.5
+2024-2025,18,2024-12-22,Real Madrid,Sevilla,4.0,2.0,0.0
+2024-2025,18,2024-12-22,Las Palmas,Espanyol,1.0,0.0,0.0
+2024-2025,18,2024-12-22,Leganés,Villarreal,2.0,5.0,1.0
+2024-2025,18,2024-12-22,Betis,Rayo Vallecano,1.0,1.0,0.5
+2024-2025,12,2025-01-03,Valencia,Real Madrid,1.0,2.0,1.0
+2024-2025,19,2025-01-10,Rayo Vallecano,Celta Vigo,2.0,1.0,0.0
+2024-2025,19,2025-01-11,Alavés,Girona,0.0,1.0,1.0
+2024-2025,19,2025-01-11,Valladolid,Betis,1.0,0.0,0.0
+2024-2025,19,2025-01-11,Espanyol,Leganés,1.0,1.0,0.5
+2024-2025,19,2025-01-11,Sevilla,Valencia,1.0,1.0,0.5
+2024-2025,19,2025-01-12,Las Palmas,Getafe,1.0,2.0,1.0
+2024-2025,19,2025-01-12,Atlético Madrid,Osasuna,1.0,0.0,0.0
+2024-2025,19,2025-01-13,Real Sociedad,Villarreal,1.0,0.0,0.0
+2024-2025,20,2025-01-17,Espanyol,Valladolid,2.0,1.0,0.0
+2024-2025,20,2025-01-18,Girona,Sevilla,1.0,2.0,1.0
+2024-2025,20,2025-01-18,Leganés,Atlético Madrid,1.0,0.0,0.0
+2024-2025,20,2025-01-18,Betis,Alavés,1.0,3.0,1.0
+2024-2025,20,2025-01-18,Getafe,Barcelona,1.0,1.0,0.5
+2024-2025,20,2025-01-19,Celta Vigo,Athletic Club,1.0,2.0,1.0
+2024-2025,20,2025-01-19,Real Madrid,Las Palmas,4.0,1.0,0.0
+2024-2025,20,2025-01-19,Osasuna,Rayo Vallecano,1.0,1.0,0.5
+2024-2025,20,2025-01-19,Valencia,Real Sociedad,1.0,0.0,0.0
+2024-2025,20,2025-01-20,Villarreal,Mallorca,4.0,0.0,0.0
+2024-2025,21,2025-01-24,Las Palmas,Osasuna,1.0,1.0,0.5
+2024-2025,21,2025-01-25,Mallorca,Betis,0.0,1.0,1.0
+2024-2025,21,2025-01-25,Atlético Madrid,Villarreal,1.0,1.0,0.5
+2024-2025,21,2025-01-25,Sevilla,Espanyol,1.0,1.0,0.5
+2024-2025,21,2025-01-25,Valladolid,Real Madrid,0.0,3.0,1.0
+2024-2025,21,2025-01-26,Rayo Vallecano,Girona,2.0,1.0,0.0
+2024-2025,21,2025-01-26,Real Sociedad,Getafe,0.0,3.0,1.0
+2024-2025,21,2025-01-26,Athletic Club,Leganés,0.0,0.0,0.5
+2024-2025,21,2025-01-26,Barcelona,Valencia,7.0,1.0,0.0
+2024-2025,21,2025-01-27,Alavés,Celta Vigo,1.0,1.0,0.5
+2024-2025,22,2025-01-31,Leganés,Rayo Vallecano,0.0,1.0,1.0
+2024-2025,22,2025-02-01,Getafe,Sevilla,0.0,0.0,0.5
+2024-2025,22,2025-02-01,Villarreal,Valladolid,5.0,1.0,0.0
+2024-2025,22,2025-02-01,Atlético Madrid,Mallorca,2.0,0.0,0.0
+2024-2025,22,2025-02-01,Espanyol,Real Madrid,1.0,0.0,0.0
+2024-2025,22,2025-02-02,Barcelona,Alavés,1.0,0.0,0.0
+2024-2025,22,2025-02-02,Valencia,Celta Vigo,2.0,1.0,0.0
+2024-2025,22,2025-02-02,Osasuna,Real Sociedad,2.0,1.0,0.0
+2024-2025,22,2025-02-02,Betis,Athletic Club,2.0,2.0,0.5
+2024-2025,22,2025-02-03,Girona,Las Palmas,2.0,1.0,0.0
+2024-2025,23,2025-02-07,Rayo Vallecano,Valladolid,1.0,0.0,0.0
+2024-2025,23,2025-02-08,Celta Vigo,Betis,3.0,2.0,0.0
+2024-2025,23,2025-02-08,Athletic Club,Girona,3.0,0.0,0.0
+2024-2025,23,2025-02-08,Las Palmas,Villarreal,1.0,2.0,1.0
+2024-2025,23,2025-02-08,Real Madrid,Atlético Madrid,1.0,1.0,0.5
+2024-2025,23,2025-02-09,Alavés,Getafe,0.0,1.0,1.0
+2024-2025,23,2025-02-09,Valencia,Leganés,2.0,0.0,0.0
+2024-2025,23,2025-02-09,Real Sociedad,Espanyol,2.0,1.0,0.0
+2024-2025,23,2025-02-09,Sevilla,Barcelona,1.0,4.0,1.0
+2024-2025,23,2025-02-10,Mallorca,Osasuna,1.0,1.0,0.5
+2024-2025,24,2025-02-14,Girona,Getafe,1.0,2.0,1.0
+2024-2025,24,2025-02-15,Leganés,Alavés,3.0,3.0,0.5
+2024-2025,24,2025-02-15,Osasuna,Real Madrid,1.0,1.0,0.5
+2024-2025,24,2025-02-15,Atlético Madrid,Celta Vigo,1.0,1.0,0.5
+2024-2025,24,2025-02-15,Villarreal,Valencia,1.0,1.0,0.5
+2024-2025,24,2025-02-16,Espanyol,Athletic Club,1.0,1.0,0.5
+2024-2025,24,2025-02-16,Valladolid,Sevilla,0.0,4.0,1.0
+2024-2025,24,2025-02-16,Mallorca,Las Palmas,3.0,1.0,0.0
+2024-2025,24,2025-02-16,Betis,Real Sociedad,3.0,0.0,0.0
+2024-2025,24,2025-02-17,Barcelona,Rayo Vallecano,1.0,0.0,0.0
+2024-2025,25,2025-02-21,Celta Vigo,Osasuna,,,0.5
+2024-2025,25,2025-02-22,Alavés,Espanyol,,,0.5
+2024-2025,25,2025-02-22,Rayo Vallecano,Villarreal,,,0.5
+2024-2025,25,2025-02-22,Valencia,Atlético Madrid,,,0.5
+2024-2025,25,2025-02-22,Las Palmas,Barcelona,,,0.5
+2024-2025,25,2025-02-23,Athletic Club,Valladolid,,,0.5
+2024-2025,25,2025-02-23,Real Madrid,Girona,,,0.5
+2024-2025,25,2025-02-23,Getafe,Betis,,,0.5
+2024-2025,25,2025-02-23,Real Sociedad,Leganés,,,0.5
+2024-2025,25,2025-02-24,Sevilla,Mallorca,,,0.5
+2024-2025,26,2025-02-28,Valladolid,Las Palmas,,,0.5
+2024-2025,26,2025-03-01,Girona,Celta Vigo,,,0.5
+2024-2025,26,2025-03-01,Rayo Vallecano,Sevilla,,,0.5
+2024-2025,26,2025-03-01,Barcelona,Real Sociedad,,,0.5
+2024-2025,26,2025-03-01,Atlético Madrid,Athletic Club,,,0.5
+2024-2025,26,2025-03-02,Leganés,Getafe,,,0.5
+2024-2025,26,2025-03-02,Betis,Real Madrid,,,0.5
+2024-2025,26,2025-03-02,Mallorca,Alavés,,,0.5
+2024-2025,26,2025-03-02,Osasuna,Valencia,,,0.5
+2024-2025,26,2025-03-03,Villarreal,Espanyol,,,0.5
+2024-2025,27,2025-03-09,Getafe,Atlético Madrid,,,0.5
+2024-2025,27,2025-03-09,Espanyol,Girona,,,0.5
+2024-2025,27,2025-03-09,Athletic Club,Mallorca,,,0.5
+2024-2025,27,2025-03-09,Valencia,Valladolid,,,0.5
+2024-2025,27,2025-03-09,Betis,Las Palmas,,,0.5
+2024-2025,27,2025-03-09,Barcelona,Osasuna,,,0.5
+2024-2025,27,2025-03-09,Celta Vigo,Leganés,,,0.5
+2024-2025,27,2025-03-09,Real Madrid,Rayo Vallecano,,,0.5
+2024-2025,27,2025-03-09,Real Sociedad,Sevilla,,,0.5
+2024-2025,27,2025-03-09,Alavés,Villarreal,,,0.5
+2024-2025,28,2025-03-16,Valladolid,Celta Vigo,,,0.5
+2024-2025,28,2025-03-16,Leganés,Betis,,,0.5
+2024-2025,28,2025-03-16,Villarreal,Real Madrid,,,0.5
+2024-2025,28,2025-03-16,Rayo Vallecano,Real Sociedad,,,0.5
+2024-2025,28,2025-03-16,Atlético Madrid,Barcelona,,,0.5
+2024-2025,28,2025-03-16,Las Palmas,Alavés,,,0.5
+2024-2025,28,2025-03-16,Mallorca,Espanyol,,,0.5
+2024-2025,28,2025-03-16,Sevilla,Athletic Club,,,0.5
+2024-2025,28,2025-03-16,Osasuna,Getafe,,,0.5
+2024-2025,28,2025-03-16,Girona,Valencia,,,0.5
+2024-2025,29,2025-03-30,Real Madrid,Leganés,,,0.5
+2024-2025,29,2025-03-30,Celta Vigo,Las Palmas,,,0.5
+2024-2025,29,2025-03-30,Valencia,Mallorca,,,0.5
+2024-2025,29,2025-03-30,Betis,Sevilla,,,0.5
+2024-2025,29,2025-03-30,Espanyol,Atlético Madrid,,,0.5
+2024-2025,29,2025-03-30,Barcelona,Girona,,,0.5
+2024-2025,29,2025-03-30,Athletic Club,Osasuna,,,0.5
+2024-2025,29,2025-03-30,Real Sociedad,Valladolid,,,0.5
+2024-2025,29,2025-03-30,Getafe,Villarreal,,,0.5
+2024-2025,29,2025-03-30,Alavés,Rayo Vallecano,,,0.5
+2024-2025,30,2025-04-06,Sevilla,Atlético Madrid,,,0.5
+2024-2025,30,2025-04-06,Real Madrid,Valencia,,,0.5
+2024-2025,30,2025-04-06,Leganés,Osasuna,,,0.5
+2024-2025,30,2025-04-06,Villarreal,Athletic Club,,,0.5
+2024-2025,30,2025-04-06,Barcelona,Betis,,,0.5
+2024-2025,30,2025-04-06,Las Palmas,Real Sociedad,,,0.5
+2024-2025,30,2025-04-06,Mallorca,Celta Vigo,,,0.5
+2024-2025,30,2025-04-06,Valladolid,Getafe,,,0.5
+2024-2025,30,2025-04-06,Girona,Alavés,,,0.5
+2024-2025,30,2025-04-06,Rayo Vallecano,Espanyol,,,0.5
+2024-2025,31,2025-04-13,Betis,Villarreal,,,0.5
+2024-2025,31,2025-04-13,Valencia,Sevilla,,,0.5
+2024-2025,31,2025-04-13,Celta Vigo,Espanyol,,,0.5
+2024-2025,31,2025-04-13,Leganés,Barcelona,,,0.5
+2024-2025,31,2025-04-13,Osasuna,Girona,,,0.5
+2024-2025,31,2025-04-13,Getafe,Las Palmas,,,0.5
+2024-2025,31,2025-04-13,Athletic Club,Rayo Vallecano,,,0.5
+2024-2025,31,2025-04-13,Alavés,Real Madrid,,,0.5
+2024-2025,31,2025-04-13,Real Sociedad,Mallorca,,,0.5
+2024-2025,31,2025-04-13,Atlético Madrid,Valladolid,,,0.5
+2024-2025,32,2025-04-20,Girona,Betis,,,0.5
+2024-2025,32,2025-04-20,Mallorca,Leganés,,,0.5
+2024-2025,32,2025-04-20,Espanyol,Getafe,,,0.5
+2024-2025,32,2025-04-20,Villarreal,Real Sociedad,,,0.5
+2024-2025,32,2025-04-20,Valladolid,Osasuna,,,0.5
+2024-2025,32,2025-04-20,Rayo Vallecano,Valencia,,,0.5
+2024-2025,32,2025-04-20,Las Palmas,Atlético Madrid,,,0.5
+2024-2025,32,2025-04-20,Barcelona,Celta Vigo,,,0.5
+2024-2025,32,2025-04-20,Real Madrid,Athletic Club,,,0.5
+2024-2025,32,2025-04-20,Sevilla,Alavés,,,0.5
+2024-2025,33,2025-04-23,Leganés,Girona,,,0.5
+2024-2025,33,2025-04-23,Alavés,Real Sociedad,,,0.5
+2024-2025,33,2025-04-23,Valencia,Espanyol,,,0.5
+2024-2025,33,2025-04-23,Celta Vigo,Villarreal,,,0.5
+2024-2025,33,2025-04-23,Osasuna,Sevilla,,,0.5
+2024-2025,33,2025-04-23,Getafe,Real Madrid,,,0.5
+2024-2025,33,2025-04-23,Athletic Club,Las Palmas,,,0.5
+2024-2025,33,2025-04-23,Atlético Madrid,Rayo Vallecano,,,0.5
+2024-2025,33,2025-04-23,Barcelona,Mallorca,,,0.5
+2024-2025,33,2025-04-23,Betis,Valladolid,,,0.5
+2024-2025,34,2025-05-04,Real Madrid,Celta Vigo,,,0.5
+2024-2025,34,2025-05-04,Rayo Vallecano,Getafe,,,0.5
+2024-2025,34,2025-05-04,Sevilla,Leganés,,,0.5
+2024-2025,34,2025-05-04,Girona,Mallorca,,,0.5
+2024-2025,34,2025-05-04,Villarreal,Osasuna,,,0.5
+2024-2025,34,2025-05-04,Alavés,Atlético Madrid,,,0.5
+2024-2025,34,2025-05-04,Valladolid,Barcelona,,,0.5
+2024-2025,34,2025-05-04,Las Palmas,Valencia,,,0.5
+2024-2025,34,2025-05-04,Espanyol,Betis,,,0.5
+2024-2025,34,2025-05-04,Real Sociedad,Athletic Club,,,0.5
+2024-2025,35,2025-05-11,Betis,Osasuna,,,0.5
+2024-2025,35,2025-05-11,Celta Vigo,Sevilla,,,0.5
+2024-2025,35,2025-05-11,Girona,Villarreal,,,0.5
+2024-2025,35,2025-05-11,Athletic Club,Alavés,,,0.5
+2024-2025,35,2025-05-11,Las Palmas,Rayo Vallecano,,,0.5
+2024-2025,35,2025-05-11,Atlético Madrid,Real Sociedad,,,0.5
+2024-2025,35,2025-05-11,Mallorca,Valladolid,,,0.5
+2024-2025,35,2025-05-11,Valencia,Getafe,,,0.5
+2024-2025,35,2025-05-11,Barcelona,Real Madrid,,,0.5
+2024-2025,35,2025-05-11,Leganés,Espanyol,,,0.5
+2024-2025,36,2025-05-14,Sevilla,Las Palmas,,,0.5
+2024-2025,36,2025-05-14,Real Madrid,Mallorca,,,0.5
+2024-2025,36,2025-05-14,Valladolid,Girona,,,0.5
+2024-2025,36,2025-05-14,Espanyol,Barcelona,,,0.5
+2024-2025,36,2025-05-14,Getafe,Athletic Club,,,0.5
+2024-2025,36,2025-05-14,Rayo Vallecano,Betis,,,0.5
+2024-2025,36,2025-05-14,Alavés,Valencia,,,0.5
+2024-2025,36,2025-05-14,Osasuna,Atlético Madrid,,,0.5
+2024-2025,36,2025-05-14,Villarreal,Leganés,,,0.5
+2024-2025,36,2025-05-14,Real Sociedad,Celta Vigo,,,0.5
+2024-2025,37,2025-05-18,Mallorca,Getafe,,,0.5
+2024-2025,37,2025-05-18,Atlético Madrid,Betis,,,0.5
+2024-2025,37,2025-05-18,Celta Vigo,Rayo Vallecano,,,0.5
+2024-2025,37,2025-05-18,Real Sociedad,Girona,,,0.5
+2024-2025,37,2025-05-18,Las Palmas,Leganés,,,0.5
+2024-2025,37,2025-05-18,Valladolid,Alavés,,,0.5
+2024-2025,37,2025-05-18,Sevilla,Real Madrid,,,0.5
+2024-2025,37,2025-05-18,Barcelona,Villarreal,,,0.5
+2024-2025,37,2025-05-18,Osasuna,Espanyol,,,0.5
+2024-2025,37,2025-05-18,Valencia,Athletic Club,,,0.5
+2024-2025,38,2025-05-25,Leganés,Valladolid,,,0.5
+2024-2025,38,2025-05-25,Real Madrid,Real Sociedad,,,0.5
+2024-2025,38,2025-05-25,Athletic Club,Barcelona,,,0.5
+2024-2025,38,2025-05-25,Getafe,Celta Vigo,,,0.5
+2024-2025,38,2025-05-25,Espanyol,Las Palmas,,,0.5
+2024-2025,38,2025-05-25,Betis,Valencia,,,0.5
+2024-2025,38,2025-05-25,Villarreal,Sevilla,,,0.5
+2024-2025,38,2025-05-25,Girona,Atlético Madrid,,,0.5
+2024-2025,38,2025-05-25,Alavés,Osasuna,,,0.5
+2024-2025,38,2025-05-25,Rayo Vallecano,Mallorca,,,0.5

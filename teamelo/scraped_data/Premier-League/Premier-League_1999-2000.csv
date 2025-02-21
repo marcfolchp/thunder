@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1999-2000,1,1999-08-07,Middlesbrough,Bradford City,0,1,1.0
+1999-2000,1,1999-08-07,Watford,Wimbledon,2,3,1.0
+1999-2000,1,1999-08-07,Sheffield Weds,Liverpool,1,2,1.0
+1999-2000,1,1999-08-07,Arsenal,Leicester City,2,1,0.0
+1999-2000,1,1999-08-07,Newcastle Utd,Aston Villa,0,1,1.0
+1999-2000,1,1999-08-07,Chelsea,Sunderland,4,0,0.0
+1999-2000,1,1999-08-07,Coventry City,Southampton,0,1,1.0
+1999-2000,1,1999-08-07,West Ham,Tottenham,1,0,0.0
+1999-2000,1,1999-08-07,Leeds United,Derby County,0,0,0.5
+1999-2000,1,1999-08-08,Everton,Manchester Utd,1,1,0.5
+1999-2000,2,1999-08-09,Tottenham,Newcastle Utd,3,1,0.0
+1999-2000,2,1999-08-10,Wimbledon,Middlesbrough,2,3,1.0
+1999-2000,2,1999-08-10,Derby County,Arsenal,1,2,1.0
+1999-2000,2,1999-08-10,Sunderland,Watford,2,0,0.0
+1999-2000,2,1999-08-11,Aston Villa,Everton,3,0,0.0
+1999-2000,2,1999-08-11,Leicester City,Coventry City,1,0,0.0
+1999-2000,2,1999-08-11,Manchester Utd,Sheffield Weds,4,0,0.0
+1999-2000,2,1999-08-11,Southampton,Leeds United,0,3,1.0
+1999-2000,3,1999-08-14,Sunderland,Arsenal,0,0,0.5
+1999-2000,3,1999-08-14,Leicester City,Chelsea,2,2,0.5
+1999-2000,3,1999-08-14,Liverpool,Watford,0,1,1.0
+1999-2000,3,1999-08-14,Manchester Utd,Leeds United,2,0,0.0
+1999-2000,3,1999-08-14,Wimbledon,Coventry City,1,1,0.5
+1999-2000,3,1999-08-14,Derby County,Middlesbrough,1,3,1.0
+1999-2000,3,1999-08-14,Bradford City,Sheffield Weds,1,1,0.5
+1999-2000,3,1999-08-14,Tottenham,Everton,3,2,0.0
+1999-2000,3,1999-08-15,Southampton,Newcastle Utd,4,2,0.0
+1999-2000,3,1999-08-16,Aston Villa,West Ham,2,2,0.5
+1999-2000,4,1999-08-21,Chelsea,Aston Villa,1,0,0.0
+1999-2000,4,1999-08-21,West Ham,Leicester City,2,1,0.0
+1999-2000,4,1999-08-21,Coventry City,Derby County,2,0,0.0
+1999-2000,4,1999-08-21,Sheffield Weds,Tottenham,1,2,1.0
+1999-2000,4,1999-08-21,Leeds United,Sunderland,2,1,0.0
+1999-2000,4,1999-08-21,Everton,Southampton,4,1,0.0
+1999-2000,4,1999-08-21,Newcastle Utd,Wimbledon,3,3,0.5
+1999-2000,4,1999-08-21,Watford,Bradford City,1,0,0.0
+1999-2000,4,1999-08-21,Middlesbrough,Liverpool,1,0,0.0
+1999-2000,4,1999-08-22,Arsenal,Manchester Utd,1,2,1.0
+1999-2000,5,1999-08-23,Leeds United,Liverpool,1,2,1.0
+1999-2000,5,1999-08-24,Watford,Aston Villa,0,1,1.0
+1999-2000,5,1999-08-24,Middlesbrough,Leicester City,0,3,1.0
+1999-2000,5,1999-08-25,Everton,Wimbledon,4,0,0.0
+1999-2000,5,1999-08-25,Coventry City,Manchester Utd,1,2,1.0
+1999-2000,5,1999-08-25,Newcastle Utd,Sunderland,1,2,1.0
+1999-2000,5,1999-08-25,Sheffield Weds,Derby County,0,2,1.0
+1999-2000,5,1999-08-25,Arsenal,Bradford City,2,0,0.0
+1999-2000,6,1999-08-28,Derby County,Everton,1,0,0.0
+1999-2000,6,1999-08-28,Tottenham,Leeds United,1,2,1.0
+1999-2000,6,1999-08-28,Southampton,Sheffield Weds,2,0,0.0
+1999-2000,6,1999-08-28,Liverpool,Arsenal,2,0,0.0
+1999-2000,6,1999-08-28,Aston Villa,Middlesbrough,1,0,0.0
+1999-2000,6,1999-08-28,Wimbledon,Chelsea,0,1,1.0
+1999-2000,6,1999-08-28,Bradford City,West Ham,0,3,1.0
+1999-2000,6,1999-08-29,Sunderland,Coventry City,1,1,0.5
+1999-2000,6,1999-08-30,Leicester City,Watford,1,0,0.0
+1999-2000,6,1999-08-30,Manchester Utd,Newcastle Utd,5,1,0.0
+1999-2000,7,1999-09-11,West Ham,Watford,1,0,0.0
+1999-2000,7,1999-09-11,Sheffield Weds,Everton,0,2,1.0
+1999-2000,7,1999-09-11,Coventry City,Leeds United,3,4,1.0
+1999-2000,7,1999-09-11,Middlesbrough,Southampton,3,2,0.0
+1999-2000,7,1999-09-11,Arsenal,Aston Villa,3,1,0.0
+1999-2000,7,1999-09-11,Sunderland,Leicester City,2,0,0.0
+1999-2000,7,1999-09-11,Liverpool,Manchester Utd,2,3,1.0
+1999-2000,7,1999-09-11,Wimbledon,Derby County,2,2,0.5
+1999-2000,7,1999-09-11,Chelsea,Newcastle Utd,1,0,0.0
+1999-2000,7,1999-09-12,Bradford City,Tottenham,1,1,0.5
+1999-2000,8,1999-09-18,Leicester City,Liverpool,2,2,0.5
+1999-2000,8,1999-09-18,Derby County,Sunderland,0,5,1.0
+1999-2000,8,1999-09-18,Aston Villa,Bradford City,1,0,0.0
+1999-2000,8,1999-09-18,Manchester Utd,Wimbledon,1,1,0.5
+1999-2000,8,1999-09-18,Southampton,Arsenal,0,1,1.0
+1999-2000,8,1999-09-18,Watford,Chelsea,1,0,0.0
+1999-2000,8,1999-09-19,Everton,West Ham,1,0,0.0
+1999-2000,8,1999-09-19,Newcastle Utd,Sheffield Weds,8,0,0.0
+1999-2000,8,1999-09-19,Leeds United,Middlesbrough,2,0,0.0
+1999-2000,8,1999-09-19,Tottenham,Coventry City,3,2,0.0
+1999-2000,9,1999-09-25,Leicester City,Aston Villa,3,1,0.0
+1999-2000,9,1999-09-25,Coventry City,West Ham,1,0,0.0
+1999-2000,9,1999-09-25,Derby County,Bradford City,0,1,1.0
+1999-2000,9,1999-09-25,Sunderland,Sheffield Weds,1,0,0.0
+1999-2000,9,1999-09-25,Middlesbrough,Chelsea,0,1,1.0
+1999-2000,9,1999-09-25,Manchester Utd,Southampton,3,3,0.5
+1999-2000,9,1999-09-25,Leeds United,Newcastle Utd,3,2,0.0
+1999-2000,9,1999-09-25,Arsenal,Watford,1,0,0.0
+1999-2000,9,1999-09-26,Wimbledon,Tottenham,1,1,0.5
+1999-2000,9,1999-09-27,Liverpool,Everton,0,1,1.0
+1999-2000,10,1999-10-02,Bradford City,Sunderland,0,4,1.0
+1999-2000,10,1999-10-02,Everton,Coventry City,1,1,0.5
+1999-2000,10,1999-10-02,Aston Villa,Liverpool,0,0,0.5
+1999-2000,10,1999-10-02,Sheffield Weds,Wimbledon,5,1,0.0
+1999-2000,10,1999-10-03,Watford,Leeds United,1,2,1.0
+1999-2000,10,1999-10-03,Newcastle Utd,Middlesbrough,2,1,0.0
+1999-2000,10,1999-10-03,Tottenham,Leicester City,2,3,1.0
+1999-2000,10,1999-10-03,West Ham,Arsenal,2,1,0.0
+1999-2000,10,1999-10-03,Chelsea,Manchester Utd,5,0,0.0
+1999-2000,10,1999-10-04,Southampton,Derby County,3,3,0.5
+1999-2000,11,1999-10-16,Liverpool,Chelsea,1,0,0.0
+1999-2000,11,1999-10-16,Manchester Utd,Watford,4,1,0.0
+1999-2000,11,1999-10-16,Derby County,Tottenham,0,1,1.0
+1999-2000,11,1999-10-16,Coventry City,Newcastle Utd,4,1,0.0
+1999-2000,11,1999-10-16,Leicester City,Southampton,2,1,0.0
+1999-2000,11,1999-10-16,Leeds United,Sheffield Weds,2,0,0.0
+1999-2000,11,1999-10-16,Wimbledon,Bradford City,3,2,0.0
+1999-2000,11,1999-10-16,Arsenal,Everton,4,1,0.0
+1999-2000,11,1999-10-17,Middlesbrough,West Ham,2,0,0.0
+1999-2000,11,1999-10-18,Sunderland,Aston Villa,2,1,0.0
+1999-2000,12,1999-10-23,Southampton,Liverpool,1,1,0.5
+1999-2000,12,1999-10-23,Chelsea,Arsenal,2,3,1.0
+1999-2000,12,1999-10-23,Tottenham,Manchester Utd,3,1,0.0
+1999-2000,12,1999-10-23,Bradford City,Leicester City,3,1,0.0
+1999-2000,12,1999-10-23,Sheffield Weds,Coventry City,0,0,0.5
+1999-2000,12,1999-10-23,Aston Villa,Wimbledon,1,1,0.5
+1999-2000,12,1999-10-24,Watford,Middlesbrough,1,3,1.0
+1999-2000,12,1999-10-24,West Ham,Sunderland,1,1,0.5
+1999-2000,12,1999-10-24,Everton,Leeds United,4,4,0.5
+1999-2000,12,1999-10-25,Newcastle Utd,Derby County,2,0,0.0
+1999-2000,2,1999-10-27,Liverpool,West Ham,1,0,0.0
+1999-2000,13,1999-10-30,Derby County,Chelsea,3,1,0.0
+1999-2000,13,1999-10-30,Leicester City,Sheffield Weds,3,0,0.0
+1999-2000,13,1999-10-30,Arsenal,Newcastle Utd,0,0,0.5
+1999-2000,13,1999-10-30,Manchester Utd,Aston Villa,3,0,0.0
+1999-2000,13,1999-10-30,Wimbledon,Southampton,1,1,0.5
+1999-2000,13,1999-10-30,Leeds United,West Ham,1,0,0.0
+1999-2000,13,1999-10-30,Middlesbrough,Everton,2,1,0.0
+1999-2000,13,1999-10-31,Sunderland,Tottenham,2,1,0.0
+1999-2000,13,1999-10-31,Coventry City,Watford,4,0,0.0
+1999-2000,13,1999-11-01,Liverpool,Bradford City,3,1,0.0
+1999-2000,14,1999-11-06,Middlesbrough,Sunderland,1,1,0.5
+1999-2000,14,1999-11-06,Bradford City,Coventry City,1,1,0.5
+1999-2000,14,1999-11-06,Liverpool,Derby County,2,0,0.0
+1999-2000,14,1999-11-06,Aston Villa,Southampton,0,1,1.0
+1999-2000,14,1999-11-06,Manchester Utd,Leicester City,2,0,0.0
+1999-2000,14,1999-11-06,Sheffield Weds,Watford,2,2,0.5
+1999-2000,14,1999-11-07,Newcastle Utd,Everton,1,1,0.5
+1999-2000,14,1999-11-07,Wimbledon,Leeds United,2,0,0.0
+1999-2000,14,1999-11-07,Chelsea,West Ham,0,0,0.5
+1999-2000,14,1999-11-07,Tottenham,Arsenal,2,1,0.0
+1999-2000,15,1999-11-20,Everton,Chelsea,1,1,0.5
+1999-2000,15,1999-11-20,Derby County,Manchester Utd,1,2,1.0
+1999-2000,15,1999-11-20,Arsenal,Middlesbrough,5,1,0.0
+1999-2000,15,1999-11-20,Sunderland,Liverpool,0,2,1.0
+1999-2000,15,1999-11-20,Southampton,Tottenham,0,1,1.0
+1999-2000,15,1999-11-20,Watford,Newcastle Utd,1,1,0.5
+1999-2000,15,1999-11-20,Leicester City,Wimbledon,2,1,0.0
+1999-2000,15,1999-11-20,Leeds United,Bradford City,2,1,0.0
+1999-2000,15,1999-11-21,West Ham,Sheffield Weds,4,3,0.0
+1999-2000,15,1999-11-22,Coventry City,Aston Villa,2,1,0.0
+1999-2000,16,1999-11-27,Watford,Sunderland,2,3,1.0
+1999-2000,16,1999-11-27,West Ham,Liverpool,1,0,0.0
+1999-2000,16,1999-11-27,Coventry City,Leicester City,0,1,1.0
+1999-2000,16,1999-11-27,Middlesbrough,Wimbledon,0,0,0.5
+1999-2000,16,1999-11-27,Everton,Aston Villa,0,0,0.5
+1999-2000,16,1999-11-28,Leeds United,Southampton,1,0,0.0
+1999-2000,16,1999-11-28,Arsenal,Derby County,2,1,0.0
+1999-2000,16,1999-11-28,Newcastle Utd,Tottenham,2,1,0.0
+1999-2000,16,1999-11-28,Chelsea,Bradford City,1,0,0.0
+1999-2000,17,1999-12-04,Sunderland,Chelsea,4,1,0.0
+1999-2000,17,1999-12-04,Southampton,Coventry City,0,0,0.5
+1999-2000,17,1999-12-04,Aston Villa,Newcastle Utd,0,1,1.0
+1999-2000,17,1999-12-04,Manchester Utd,Everton,5,1,0.0
+1999-2000,17,1999-12-04,Leicester City,Arsenal,0,3,1.0
+1999-2000,17,1999-12-04,Bradford City,Middlesbrough,1,1,0.5
+1999-2000,17,1999-12-04,Wimbledon,Watford,5,0,0.0
+1999-2000,17,1999-12-05,Liverpool,Sheffield Weds,4,1,0.0
+1999-2000,17,1999-12-05,Derby County,Leeds United,0,1,1.0
+1999-2000,17,1999-12-06,Tottenham,West Ham,0,0,0.5
+1999-2000,18,1999-12-18,Arsenal,Wimbledon,1,1,0.5
+1999-2000,18,1999-12-18,Sunderland,Southampton,2,0,0.0
+1999-2000,18,1999-12-18,Leicester City,Derby County,0,1,1.0
+1999-2000,18,1999-12-18,Middlesbrough,Tottenham,2,1,0.0
+1999-2000,18,1999-12-18,Bradford City,Newcastle Utd,2,0,0.0
+1999-2000,18,1999-12-18,Liverpool,Coventry City,2,0,0.0
+1999-2000,18,1999-12-18,West Ham,Manchester Utd,2,4,1.0
+1999-2000,18,1999-12-18,Watford,Everton,1,3,1.0
+1999-2000,18,1999-12-18,Aston Villa,Sheffield Weds,2,1,0.0
+1999-2000,18,1999-12-19,Chelsea,Leeds United,0,2,1.0
+1999-2000,19,1999-12-26,Sheffield Weds,Middlesbrough,1,0,0.0
+1999-2000,19,1999-12-26,Everton,Sunderland,5,0,0.0
+1999-2000,19,1999-12-26,Tottenham,Watford,4,0,0.0
+1999-2000,19,1999-12-26,Newcastle Utd,Liverpool,2,2,0.5
+1999-2000,19,1999-12-26,Southampton,Chelsea,1,2,1.0
+1999-2000,19,1999-12-26,Derby County,Aston Villa,0,2,1.0
+1999-2000,19,1999-12-26,Leeds United,Leicester City,2,1,0.0
+1999-2000,19,1999-12-26,Coventry City,Arsenal,3,2,0.0
+1999-2000,19,1999-12-26,Manchester Utd,Bradford City,4,0,0.0
+1999-2000,19,1999-12-26,Wimbledon,West Ham,2,2,0.5
+1999-2000,20,1999-12-28,Sunderland,Manchester Utd,2,2,0.5
+1999-2000,20,1999-12-28,West Ham,Derby County,1,1,0.5
+1999-2000,20,1999-12-28,Liverpool,Wimbledon,3,1,0.0
+1999-2000,20,1999-12-28,Bradford City,Everton,0,0,0.5
+1999-2000,20,1999-12-28,Watford,Southampton,3,2,0.0
+1999-2000,20,1999-12-28,Leicester City,Newcastle Utd,1,2,1.0
+1999-2000,20,1999-12-28,Arsenal,Leeds United,2,0,0.0
+1999-2000,20,1999-12-29,Aston Villa,Tottenham,1,1,0.5
+1999-2000,20,1999-12-29,Chelsea,Sheffield Weds,3,0,0.0
+1999-2000,21,2000-01-03,Leeds United,Aston Villa,1,2,1.0
+1999-2000,21,2000-01-03,Tottenham,Liverpool,1,0,0.0
+1999-2000,21,2000-01-03,Southampton,Bradford City,1,0,0.0
+1999-2000,21,2000-01-03,Sheffield Weds,Arsenal,1,1,0.5
+1999-2000,21,2000-01-03,Everton,Leicester City,2,2,0.5
+1999-2000,21,2000-01-03,Wimbledon,Sunderland,1,0,0.0
+1999-2000,21,2000-01-03,Newcastle Utd,West Ham,2,2,0.5
+1999-2000,21,2000-01-03,Derby County,Watford,2,0,0.0
+1999-2000,21,2000-01-04,Coventry City,Chelsea,2,2,0.5
+1999-2000,2,2000-01-08,Bradford City,Chelsea,1,1,0.5
+1999-2000,5,2000-01-12,Chelsea,Tottenham,1,0,0.0
+1999-2000,22,2000-01-15,Middlesbrough,Derby County,1,4,1.0
+1999-2000,22,2000-01-15,Arsenal,Sunderland,4,1,0.0
+1999-2000,22,2000-01-15,Chelsea,Leicester City,1,1,0.5
+1999-2000,22,2000-01-15,Watford,Liverpool,2,3,1.0
+1999-2000,22,2000-01-15,Sheffield Weds,Bradford City,2,0,0.0
+1999-2000,22,2000-01-15,West Ham,Aston Villa,1,1,0.5
+1999-2000,22,2000-01-15,Coventry City,Wimbledon,2,0,0.0
+1999-2000,22,2000-01-15,Everton,Tottenham,2,2,0.5
+1999-2000,22,2000-01-16,Newcastle Utd,Southampton,5,0,0.0
+1999-2000,23,2000-01-22,Bradford City,Watford,3,2,0.0
+1999-2000,23,2000-01-22,Tottenham,Sheffield Weds,0,1,1.0
+1999-2000,23,2000-01-22,Aston Villa,Chelsea,0,0,0.5
+1999-2000,23,2000-01-22,Wimbledon,Newcastle Utd,2,0,0.0
+1999-2000,23,2000-01-22,Derby County,Coventry City,0,0,0.5
+1999-2000,23,2000-01-22,Liverpool,Middlesbrough,0,0,0.5
+1999-2000,23,2000-01-22,Southampton,Everton,2,0,0.0
+1999-2000,23,2000-01-22,Leicester City,West Ham,1,3,1.0
+1999-2000,23,2000-01-23,Sunderland,Leeds United,1,2,1.0
+1999-2000,23,2000-01-24,Manchester Utd,Arsenal,1,1,0.5
+1999-2000,21,2000-01-29,Manchester Utd,Middlesbrough,1,0,0.0
+1999-2000,16,2000-02-02,Sheffield Weds,Manchester Utd,0,1,1.0
+1999-2000,24,2000-02-05,Liverpool,Leeds United,3,1,0.0
+1999-2000,24,2000-02-05,Sunderland,Newcastle Utd,2,2,0.5
+1999-2000,24,2000-02-05,Tottenham,Chelsea,0,1,1.0
+1999-2000,24,2000-02-05,Manchester Utd,Coventry City,3,2,0.0
+1999-2000,24,2000-02-05,Derby County,Sheffield Weds,3,3,0.5
+1999-2000,24,2000-02-05,Aston Villa,Watford,4,0,0.0
+1999-2000,24,2000-02-05,Leicester City,Middlesbrough,2,1,0.0
+1999-2000,24,2000-02-05,Bradford City,Arsenal,2,1,0.0
+1999-2000,24,2000-02-05,Southampton,West Ham,2,1,0.0
+1999-2000,24,2000-02-06,Wimbledon,Everton,0,3,1.0
+1999-2000,25,2000-02-12,Newcastle Utd,Manchester Utd,3,0,0.0
+1999-2000,25,2000-02-12,Leeds United,Tottenham,1,0,0.0
+1999-2000,25,2000-02-12,West Ham,Bradford City,5,4,0.0
+1999-2000,25,2000-02-12,Watford,Leicester City,1,1,0.5
+1999-2000,25,2000-02-12,Chelsea,Wimbledon,3,1,0.0
+1999-2000,25,2000-02-12,Coventry City,Sunderland,3,2,0.0
+1999-2000,25,2000-02-12,Everton,Derby County,2,1,0.0
+1999-2000,25,2000-02-12,Sheffield Weds,Southampton,0,1,1.0
+1999-2000,25,2000-02-13,Arsenal,Liverpool,0,1,1.0
+1999-2000,25,2000-02-14,Middlesbrough,Aston Villa,0,4,1.0
+1999-2000,20,2000-02-19,Middlesbrough,Coventry City,2,0,0.0
+1999-2000,22,2000-02-20,Leeds United,Manchester Utd,0,1,1.0
+1999-2000,26,2000-02-26,Sheffield Weds,Newcastle Utd,0,2,1.0
+1999-2000,26,2000-02-26,Sunderland,Derby County,1,1,0.5
+1999-2000,26,2000-02-26,Wimbledon,Manchester Utd,2,2,0.5
+1999-2000,26,2000-02-26,West Ham,Everton,0,4,1.0
+1999-2000,26,2000-02-26,Chelsea,Watford,2,1,0.0
+1999-2000,26,2000-02-26,Middlesbrough,Leeds United,0,0,0.5
+1999-2000,26,2000-02-26,Coventry City,Tottenham,0,1,1.0
+1999-2000,26,2000-02-26,Arsenal,Southampton,3,1,0.0
+1999-2000,26,2000-02-26,Bradford City,Aston Villa,1,1,0.5
+1999-2000,27,2000-03-04,Newcastle Utd,Chelsea,0,1,1.0
+1999-2000,27,2000-03-04,Derby County,Wimbledon,4,0,0.0
+1999-2000,27,2000-03-04,Everton,Sheffield Weds,1,1,0.5
+1999-2000,27,2000-03-04,Watford,West Ham,1,2,1.0
+1999-2000,27,2000-03-04,Tottenham,Bradford City,1,1,0.5
+1999-2000,27,2000-03-04,Manchester Utd,Liverpool,1,1,0.5
+1999-2000,27,2000-03-04,Southampton,Middlesbrough,1,1,0.5
+1999-2000,27,2000-03-05,Leeds United,Coventry City,3,0,0.0
+1999-2000,27,2000-03-05,Leicester City,Sunderland,5,2,0.0
+1999-2000,27,2000-03-05,Aston Villa,Arsenal,1,1,0.5
+1999-2000,5,2000-03-08,West Ham,Southampton,2,0,0.0
+1999-2000,28,2000-03-11,Wimbledon,Leicester City,2,1,0.0
+1999-2000,28,2000-03-11,Aston Villa,Coventry City,1,0,0.0
+1999-2000,28,2000-03-11,Chelsea,Everton,1,1,0.5
+1999-2000,28,2000-03-11,Manchester Utd,Derby County,3,1,0.0
+1999-2000,28,2000-03-11,Tottenham,Southampton,7,2,0.0
+1999-2000,28,2000-03-11,Sheffield Weds,West Ham,3,1,0.0
+1999-2000,28,2000-03-11,Newcastle Utd,Watford,1,0,0.0
+1999-2000,28,2000-03-11,Liverpool,Sunderland,1,1,0.5
+1999-2000,28,2000-03-12,Bradford City,Leeds United,1,2,1.0
+1999-2000,28,2000-03-12,Middlesbrough,Arsenal,2,1,0.0
+1999-2000,35,2000-03-15,Liverpool,Aston Villa,0,0,0.5
+1999-2000,35,2000-03-15,Coventry City,Everton,1,0,0.0
+1999-2000,29,2000-03-18,Southampton,Aston Villa,2,0,0.0
+1999-2000,29,2000-03-18,West Ham,Chelsea,0,0,0.5
+1999-2000,29,2000-03-18,Leicester City,Manchester Utd,0,2,1.0
+1999-2000,29,2000-03-18,Coventry City,Bradford City,4,0,0.0
+1999-2000,29,2000-03-18,Sunderland,Middlesbrough,1,1,0.5
+1999-2000,29,2000-03-18,Watford,Sheffield Weds,1,0,0.0
+1999-2000,29,2000-03-18,Derby County,Liverpool,0,2,1.0
+1999-2000,29,2000-03-19,Arsenal,Tottenham,2,1,0.0
+1999-2000,29,2000-03-19,Leeds United,Wimbledon,4,1,0.0
+1999-2000,29,2000-03-19,Everton,Newcastle Utd,0,2,1.0
+1999-2000,30,2000-03-25,Sunderland,Everton,2,1,0.0
+1999-2000,30,2000-03-25,Bradford City,Manchester Utd,0,4,1.0
+1999-2000,30,2000-03-25,Liverpool,Newcastle Utd,2,1,0.0
+1999-2000,30,2000-03-25,Middlesbrough,Sheffield Weds,1,0,0.0
+1999-2000,30,2000-03-25,Chelsea,Southampton,1,1,0.5
+1999-2000,30,2000-03-25,Aston Villa,Derby County,2,0,0.0
+1999-2000,30,2000-03-25,Watford,Tottenham,1,1,0.5
+1999-2000,30,2000-03-26,Leicester City,Leeds United,2,1,0.0
+1999-2000,30,2000-03-26,Arsenal,Coventry City,3,0,0.0
+1999-2000,30,2000-03-26,West Ham,Wimbledon,2,1,0.0
+1999-2000,31,2000-04-01,Southampton,Sunderland,1,2,1.0
+1999-2000,31,2000-04-01,Newcastle Utd,Bradford City,2,0,0.0
+1999-2000,31,2000-04-01,Coventry City,Liverpool,0,3,1.0
+1999-2000,31,2000-04-01,Wimbledon,Arsenal,1,3,1.0
+1999-2000,31,2000-04-01,Everton,Watford,4,2,0.0
+1999-2000,31,2000-04-01,Leeds United,Chelsea,0,1,1.0
+1999-2000,31,2000-04-01,Manchester Utd,West Ham,7,1,0.0
+1999-2000,31,2000-04-02,Derby County,Leicester City,3,0,0.0
+1999-2000,31,2000-04-03,Tottenham,Middlesbrough,2,3,1.0
+1999-2000,31,2000-04-05,Sheffield Weds,Aston Villa,0,1,1.0
+1999-2000,32,2000-04-08,Sunderland,Wimbledon,2,1,0.0
+1999-2000,32,2000-04-08,Bradford City,Southampton,1,2,1.0
+1999-2000,32,2000-04-08,Leicester City,Everton,1,1,0.5
+1999-2000,32,2000-04-08,Watford,Derby County,0,0,0.5
+1999-2000,32,2000-04-09,Aston Villa,Leeds United,1,0,0.0
+1999-2000,32,2000-04-09,Liverpool,Tottenham,2,0,0.0
+1999-2000,32,2000-04-10,Middlesbrough,Manchester Utd,3,4,1.0
+1999-2000,32,2000-04-12,West Ham,Newcastle Utd,2,1,0.0
+1999-2000,32,2000-04-12,Chelsea,Coventry City,2,1,0.0
+1999-2000,35,2000-04-12,Wimbledon,Sheffield Weds,0,2,1.0
+1999-2000,33,2000-04-15,Derby County,West Ham,1,2,1.0
+1999-2000,33,2000-04-15,Everton,Bradford City,4,0,0.0
+1999-2000,33,2000-04-15,Coventry City,Middlesbrough,2,1,0.0
+1999-2000,33,2000-04-15,Tottenham,Aston Villa,2,4,1.0
+1999-2000,33,2000-04-15,Sheffield Weds,Chelsea,1,0,0.0
+1999-2000,33,2000-04-15,Newcastle Utd,Leicester City,0,2,1.0
+1999-2000,33,2000-04-15,Southampton,Watford,2,0,0.0
+1999-2000,33,2000-04-15,Manchester Utd,Sunderland,4,0,0.0
+1999-2000,33,2000-04-16,Wimbledon,Liverpool,1,2,1.0
+1999-2000,33,2000-04-16,Leeds United,Arsenal,0,4,1.0
+1999-2000,35,2000-04-19,Leicester City,Tottenham,0,1,1.0
+1999-2000,34,2000-04-21,Bradford City,Derby County,4,4,0.5
+1999-2000,34,2000-04-21,Everton,Liverpool,0,0,0.5
+1999-2000,34,2000-04-22,Sheffield Weds,Sunderland,0,2,1.0
+1999-2000,34,2000-04-22,Tottenham,Wimbledon,2,0,0.0
+1999-2000,34,2000-04-22,West Ham,Coventry City,5,0,0.0
+1999-2000,34,2000-04-22,Southampton,Manchester Utd,1,3,1.0
+1999-2000,34,2000-04-22,Chelsea,Middlesbrough,1,1,0.5
+1999-2000,34,2000-04-22,Aston Villa,Leicester City,2,2,0.5
+1999-2000,34,2000-04-23,Watford,Arsenal,2,3,1.0
+1999-2000,34,2000-04-23,Newcastle Utd,Leeds United,2,2,0.5
+1999-2000,35,2000-04-24,Sunderland,Bradford City,0,1,1.0
+1999-2000,35,2000-04-24,Manchester Utd,Chelsea,3,2,0.0
+1999-2000,35,2000-04-24,Derby County,Southampton,2,0,0.0
+1999-2000,36,2000-04-29,Southampton,Leicester City,1,2,1.0
+1999-2000,36,2000-04-29,West Ham,Middlesbrough,0,1,1.0
+1999-2000,36,2000-04-29,Watford,Manchester Utd,2,3,1.0
+1999-2000,36,2000-04-29,Chelsea,Liverpool,2,0,0.0
+1999-2000,36,2000-04-29,Tottenham,Derby County,1,1,0.5
+1999-2000,36,2000-04-29,Everton,Arsenal,0,1,1.0
+1999-2000,36,2000-04-29,Newcastle Utd,Coventry City,2,0,0.0
+1999-2000,36,2000-04-29,Aston Villa,Sunderland,1,1,0.5
+1999-2000,36,2000-04-30,Sheffield Weds,Leeds United,0,3,1.0
+1999-2000,36,2000-04-30,Bradford City,Wimbledon,3,0,0.0
+1999-2000,35,2000-05-02,Middlesbrough,Newcastle Utd,2,2,0.5
+1999-2000,35,2000-05-02,Arsenal,West Ham,2,1,0.0
+1999-2000,26,2000-05-03,Liverpool,Leicester City,0,2,1.0
+1999-2000,35,2000-05-03,Leeds United,Watford,3,1,0.0
+1999-2000,37,2000-05-06,Middlesbrough,Watford,1,1,0.5
+1999-2000,37,2000-05-06,Derby County,Newcastle Utd,0,0,0.5
+1999-2000,37,2000-05-06,Sunderland,West Ham,1,0,0.0
+1999-2000,37,2000-05-06,Leicester City,Bradford City,3,0,0.0
+1999-2000,37,2000-05-06,Manchester Utd,Tottenham,3,1,0.0
+1999-2000,37,2000-05-06,Wimbledon,Aston Villa,2,2,0.5
+1999-2000,37,2000-05-06,Arsenal,Chelsea,2,1,0.0
+1999-2000,37,2000-05-06,Coventry City,Sheffield Weds,4,1,0.0
+1999-2000,37,2000-05-07,Liverpool,Southampton,0,0,0.5
+1999-2000,37,2000-05-08,Leeds United,Everton,1,1,0.5
+1999-2000,32,2000-05-09,Arsenal,Sheffield Weds,3,3,0.5
+1999-2000,38,2000-05-14,Watford,Coventry City,1,0,0.0
+1999-2000,38,2000-05-14,Bradford City,Liverpool,1,0,0.0
+1999-2000,38,2000-05-14,Sheffield Weds,Leicester City,4,0,0.0
+1999-2000,38,2000-05-14,Tottenham,Sunderland,3,1,0.0
+1999-2000,38,2000-05-14,Newcastle Utd,Arsenal,4,2,0.0
+1999-2000,38,2000-05-14,Southampton,Wimbledon,2,0,0.0
+1999-2000,38,2000-05-14,Chelsea,Derby County,4,0,0.0
+1999-2000,38,2000-05-14,West Ham,Leeds United,0,0,0.5
+1999-2000,38,2000-05-14,Everton,Middlesbrough,0,2,1.0
+1999-2000,38,2000-05-14,Aston Villa,Manchester Utd,0,1,1.0

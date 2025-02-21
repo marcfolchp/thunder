@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1993-1994,1,1993-09-04,Osasuna,Real Madrid,1,4,1.0
+1993-1994,1,1993-09-05,Athletic Club,Albacete,4,1,0.0
+1993-1994,1,1993-09-05,Atlético Madrid,Logroñés,1,0,0.0
+1993-1994,1,1993-09-05,Valladolid,Sporting Gijón,0,1,1.0
+1993-1994,1,1993-09-05,Zaragoza,Sevilla,1,2,1.0
+1993-1994,1,1993-09-05,Tenerife,Lleida,1,0,0.0
+1993-1994,1,1993-09-05,Barcelona,Real Sociedad,3,0,0.0
+1993-1994,1,1993-09-05,Dep La Coruña,Celta Vigo,0,0,0.5
+1993-1994,1,1993-09-05,Racing Sant,Rayo Vallecano,1,0,0.0
+1993-1994,1,1993-09-05,Oviedo,Valencia,0,3,1.0
+1993-1994,2,1993-09-11,Valencia,Atlético Madrid,2,2,0.5
+1993-1994,2,1993-09-11,Albacete,Barcelona,0,0,0.5
+1993-1994,2,1993-09-11,Sporting Gijón,Dep La Coruña,0,2,1.0
+1993-1994,2,1993-09-12,Rayo Vallecano,Tenerife,4,3,0.0
+1993-1994,2,1993-09-12,Real Madrid,Valladolid,1,3,1.0
+1993-1994,2,1993-09-12,Real Sociedad,Zaragoza,2,2,0.5
+1993-1994,2,1993-09-12,Logroñés,Racing Sant,0,1,1.0
+1993-1994,2,1993-09-12,Celta Vigo,Oviedo,1,1,0.5
+1993-1994,2,1993-09-12,Sevilla,Osasuna,1,1,0.5
+1993-1994,2,1993-09-12,Lleida,Athletic Club,1,2,1.0
+1993-1994,3,1993-09-18,Dep La Coruña,Real Madrid,4,0,0.0
+1993-1994,3,1993-09-18,Valladolid,Sevilla,2,2,0.5
+1993-1994,3,1993-09-19,Atlético Madrid,Celta Vigo,3,2,0.0
+1993-1994,3,1993-09-19,Racing Sant,Valencia,0,1,1.0
+1993-1994,3,1993-09-19,Osasuna,Real Sociedad,0,2,1.0
+1993-1994,3,1993-09-19,Tenerife,Logroñés,2,0,0.0
+1993-1994,3,1993-09-19,Oviedo,Sporting Gijón,0,1,1.0
+1993-1994,3,1993-09-19,Zaragoza,Albacete,1,1,0.5
+1993-1994,3,1993-09-19,Lleida,Rayo Vallecano,0,1,1.0
+1993-1994,3,1993-09-19,Athletic Club,Barcelona,0,0,0.5
+1993-1994,4,1993-09-25,Logroñés,Lleida,2,1,0.0
+1993-1994,4,1993-09-25,Sevilla,Dep La Coruña,0,0,0.5
+1993-1994,4,1993-09-25,Sporting Gijón,Atlético Madrid,1,1,0.5
+1993-1994,4,1993-09-25,Valencia,Tenerife,3,2,0.0
+1993-1994,4,1993-09-26,Real Sociedad,Valladolid,1,0,0.0
+1993-1994,4,1993-09-26,Albacete,Osasuna,2,1,0.0
+1993-1994,4,1993-09-26,Barcelona,Zaragoza,4,1,0.0
+1993-1994,4,1993-09-26,Real Madrid,Oviedo,0,1,1.0
+1993-1994,4,1993-09-26,Rayo Vallecano,Athletic Club,1,2,1.0
+1993-1994,4,1993-09-26,Celta Vigo,Racing Sant,0,0,0.5
+1993-1994,5,1993-10-02,Atlético Madrid,Real Madrid,0,0,0.5
+1993-1994,5,1993-10-03,Lleida,Valencia,1,1,0.5
+1993-1994,5,1993-10-03,Osasuna,Barcelona,2,3,1.0
+1993-1994,5,1993-10-03,Dep La Coruña,Real Sociedad,0,1,1.0
+1993-1994,5,1993-10-03,Athletic Club,Zaragoza,2,1,0.0
+1993-1994,5,1993-10-03,Rayo Vallecano,Logroñés,3,1,0.0
+1993-1994,5,1993-10-03,Oviedo,Sevilla,0,2,1.0
+1993-1994,5,1993-10-03,Valladolid,Albacete,1,0,0.0
+1993-1994,5,1993-10-03,Tenerife,Celta Vigo,0,0,0.5
+1993-1994,5,1993-10-03,Racing Sant,Sporting Gijón,2,0,0.0
+1993-1994,6,1993-10-06,Barcelona,Valladolid,3,0,0.0
+1993-1994,6,1993-10-06,Real Madrid,Racing Sant,2,1,0.0
+1993-1994,6,1993-10-06,Sevilla,Atlético Madrid,2,1,0.0
+1993-1994,6,1993-10-06,Real Sociedad,Oviedo,2,2,0.5
+1993-1994,6,1993-10-06,Valencia,Rayo Vallecano,3,1,0.0
+1993-1994,6,1993-10-06,Celta Vigo,Lleida,1,0,0.0
+1993-1994,6,1993-10-06,Sporting Gijón,Tenerife,1,2,1.0
+1993-1994,6,1993-10-06,Albacete,Dep La Coruña,0,0,0.5
+1993-1994,6,1993-10-06,Zaragoza,Osasuna,2,1,0.0
+1993-1994,6,1993-10-07,Logroñés,Athletic Club,4,2,0.0
+1993-1994,7,1993-10-16,Dep La Coruña,Barcelona,1,0,0.0
+1993-1994,7,1993-10-16,Tenerife,Real Madrid,0,0,0.5
+1993-1994,7,1993-10-16,Atlético Madrid,Real Sociedad,1,2,1.0
+1993-1994,7,1993-10-17,Rayo Vallecano,Celta Vigo,1,1,0.5
+1993-1994,7,1993-10-17,Valladolid,Zaragoza,0,0,0.5
+1993-1994,7,1993-10-17,Racing Sant,Sevilla,1,0,0.0
+1993-1994,7,1993-10-17,Lleida,Sporting Gijón,1,1,0.5
+1993-1994,7,1993-10-17,Logroñés,Valencia,2,0,0.0
+1993-1994,7,1993-10-17,Athletic Club,Osasuna,1,2,1.0
+1993-1994,7,1993-10-17,Oviedo,Albacete,1,1,0.5
+1993-1994,8,1993-10-23,Valencia,Athletic Club,1,0,0.0
+1993-1994,8,1993-10-24,Sevilla,Tenerife,4,0,0.0
+1993-1994,8,1993-10-24,Real Madrid,Lleida,5,0,0.0
+1993-1994,8,1993-10-24,Celta Vigo,Logroñés,2,0,0.0
+1993-1994,8,1993-10-24,Osasuna,Valladolid,2,0,0.0
+1993-1994,8,1993-10-24,Barcelona,Oviedo,1,0,0.0
+1993-1994,8,1993-10-24,Zaragoza,Dep La Coruña,0,1,1.0
+1993-1994,8,1993-10-24,Real Sociedad,Racing Sant,2,0,0.0
+1993-1994,8,1993-10-24,Albacete,Atlético Madrid,2,2,0.5
+1993-1994,8,1993-10-24,Sporting Gijón,Rayo Vallecano,2,0,0.0
+1993-1994,9,1993-10-30,Valencia,Celta Vigo,3,0,0.0
+1993-1994,9,1993-10-30,Dep La Coruña,Osasuna,3,1,0.0
+1993-1994,9,1993-10-30,Atlético Madrid,Barcelona,4,3,0.0
+1993-1994,9,1993-10-31,Rayo Vallecano,Real Madrid,0,2,1.0
+1993-1994,9,1993-10-31,Logroñés,Sporting Gijón,1,2,1.0
+1993-1994,9,1993-10-31,Lleida,Sevilla,0,3,1.0
+1993-1994,9,1993-10-31,Tenerife,Real Sociedad,2,1,0.0
+1993-1994,9,1993-10-31,Athletic Club,Valladolid,3,0,0.0
+1993-1994,9,1993-10-31,Oviedo,Zaragoza,2,1,0.0
+1993-1994,9,1993-10-31,Racing Sant,Albacete,1,1,0.5
+1993-1994,10,1993-11-06,Zaragoza,Atlético Madrid,2,1,0.0
+1993-1994,10,1993-11-07,Valladolid,Dep La Coruña,0,0,0.5
+1993-1994,10,1993-11-07,Real Madrid,Logroñés,2,1,0.0
+1993-1994,10,1993-11-07,Real Sociedad,Lleida,1,3,1.0
+1993-1994,10,1993-11-07,Sporting Gijón,Valencia,2,0,0.0
+1993-1994,10,1993-11-07,Osasuna,Oviedo,2,0,0.0
+1993-1994,10,1993-11-07,Celta Vigo,Athletic Club,1,1,0.5
+1993-1994,10,1993-11-07,Sevilla,Rayo Vallecano,3,1,0.0
+1993-1994,10,1993-11-07,Albacete,Tenerife,2,3,1.0
+1993-1994,10,1993-11-07,Barcelona,Racing Sant,2,1,0.0
+1993-1994,11,1993-11-10,Lleida,Albacete,0,1,1.0
+1993-1994,11,1993-11-10,Logroñés,Sevilla,1,1,0.5
+1993-1994,11,1993-11-10,Tenerife,Barcelona,2,3,1.0
+1993-1994,11,1993-11-10,Atlético Madrid,Osasuna,3,0,0.0
+1993-1994,11,1993-11-10,Rayo Vallecano,Real Sociedad,4,1,0.0
+1993-1994,11,1993-11-10,Racing Sant,Zaragoza,2,0,0.0
+1993-1994,11,1993-11-10,Celta Vigo,Sporting Gijón,0,2,1.0
+1993-1994,11,1993-11-10,Oviedo,Valladolid,1,0,0.0
+1993-1994,11,1993-11-10,Athletic Club,Dep La Coruña,3,1,0.0
+1993-1994,11,1993-11-11,Valencia,Real Madrid,0,3,1.0
+1993-1994,12,1993-11-20,Dep La Coruña,Oviedo,4,0,0.0
+1993-1994,12,1993-11-20,Zaragoza,Tenerife,6,2,0.0
+1993-1994,12,1993-11-20,Barcelona,Lleida,0,1,1.0
+1993-1994,12,1993-11-20,Sevilla,Valencia,0,1,1.0
+1993-1994,12,1993-11-21,Real Madrid,Celta Vigo,2,1,0.0
+1993-1994,12,1993-11-21,Real Sociedad,Logroñés,2,2,0.5
+1993-1994,12,1993-11-21,Valladolid,Atlético Madrid,1,1,0.5
+1993-1994,12,1993-11-21,Osasuna,Racing Sant,0,0,0.5
+1993-1994,12,1993-11-21,Sporting Gijón,Athletic Club,0,1,1.0
+1993-1994,12,1993-11-21,Albacete,Rayo Vallecano,1,1,0.5
+1993-1994,13,1993-11-27,Atlético Madrid,Dep La Coruña,0,1,1.0
+1993-1994,13,1993-11-28,Lleida,Zaragoza,0,1,1.0
+1993-1994,13,1993-11-28,Sporting Gijón,Real Madrid,2,1,0.0
+1993-1994,13,1993-11-28,Valencia,Real Sociedad,0,0,0.5
+1993-1994,13,1993-11-28,Athletic Club,Oviedo,1,1,0.5
+1993-1994,13,1993-11-28,Celta Vigo,Sevilla,2,1,0.0
+1993-1994,13,1993-11-28,Racing Sant,Valladolid,5,1,0.0
+1993-1994,13,1993-11-28,Rayo Vallecano,Barcelona,2,4,1.0
+1993-1994,13,1993-11-28,Tenerife,Osasuna,1,0,0.0
+1993-1994,13,1993-11-28,Logroñés,Albacete,2,2,0.5
+1993-1994,14,1993-12-04,Valladolid,Tenerife,2,0,0.0
+1993-1994,14,1993-12-04,Barcelona,Logroñés,2,2,0.5
+1993-1994,14,1993-12-04,Oviedo,Atlético Madrid,1,1,0.5
+1993-1994,14,1993-12-04,Dep La Coruña,Racing Sant,1,0,0.0
+1993-1994,14,1993-12-05,Real Sociedad,Celta Vigo,2,1,0.0
+1993-1994,14,1993-12-05,Osasuna,Lleida,1,0,0.0
+1993-1994,14,1993-12-05,Sevilla,Sporting Gijón,1,2,1.0
+1993-1994,14,1993-12-05,Real Madrid,Athletic Club,2,1,0.0
+1993-1994,14,1993-12-05,Albacete,Valencia,3,1,0.0
+1993-1994,14,1993-12-05,Zaragoza,Rayo Vallecano,4,1,0.0
+1993-1994,15,1993-12-11,Valencia,Barcelona,0,4,1.0
+1993-1994,15,1993-12-12,Racing Sant,Oviedo,1,2,1.0
+1993-1994,15,1993-12-12,Celta Vigo,Albacete,1,4,1.0
+1993-1994,15,1993-12-12,Athletic Club,Atlético Madrid,3,2,0.0
+1993-1994,15,1993-12-12,Tenerife,Dep La Coruña,0,1,1.0
+1993-1994,15,1993-12-12,Lleida,Valladolid,1,0,0.0
+1993-1994,15,1993-12-12,Logroñés,Zaragoza,2,2,0.5
+1993-1994,15,1993-12-12,Real Madrid,Sevilla,0,0,0.5
+1993-1994,15,1993-12-12,Rayo Vallecano,Osasuna,1,0,0.0
+1993-1994,15,1993-12-12,Sporting Gijón,Real Sociedad,3,2,0.0
+1993-1994,16,1993-12-18,Sevilla,Athletic Club,1,3,1.0
+1993-1994,16,1993-12-19,Atlético Madrid,Racing Sant,4,0,0.0
+1993-1994,16,1993-12-19,Albacete,Sporting Gijón,3,1,0.0
+1993-1994,16,1993-12-19,Valladolid,Rayo Vallecano,1,3,1.0
+1993-1994,16,1993-12-19,Real Sociedad,Real Madrid,2,0,0.0
+1993-1994,16,1993-12-19,Osasuna,Logroñés,1,3,1.0
+1993-1994,16,1993-12-19,Dep La Coruña,Lleida,2,0,0.0
+1993-1994,16,1993-12-19,Zaragoza,Valencia,1,0,0.0
+1993-1994,16,1993-12-19,Oviedo,Tenerife,1,0,0.0
+1993-1994,16,1993-12-19,Barcelona,Celta Vigo,1,0,0.0
+1993-1994,17,1994-01-01,Rayo Vallecano,Dep La Coruña,0,0,0.5
+1993-1994,17,1994-01-02,Real Madrid,Albacete,2,0,0.0
+1993-1994,17,1994-01-02,Sevilla,Real Sociedad,1,0,0.0
+1993-1994,17,1994-01-02,Sporting Gijón,Barcelona,2,0,0.0
+1993-1994,17,1994-01-02,Celta Vigo,Zaragoza,1,0,0.0
+1993-1994,17,1994-01-02,Tenerife,Atlético Madrid,1,1,0.5
+1993-1994,17,1994-01-02,Valencia,Osasuna,0,0,0.5
+1993-1994,17,1994-01-02,Lleida,Oviedo,1,1,0.5
+1993-1994,17,1994-01-02,Logroñés,Valladolid,0,0,0.5
+1993-1994,17,1994-01-02,Athletic Club,Racing Sant,1,2,1.0
+1993-1994,18,1994-01-08,Barcelona,Real Madrid,5,0,0.0
+1993-1994,18,1994-01-09,Dep La Coruña,Logroñés,3,0,0.0
+1993-1994,18,1994-01-09,Zaragoza,Sporting Gijón,3,0,0.0
+1993-1994,18,1994-01-09,Valladolid,Valencia,1,1,0.5
+1993-1994,18,1994-01-09,Racing Sant,Tenerife,1,0,0.0
+1993-1994,18,1994-01-09,Atlético Madrid,Lleida,0,0,0.5
+1993-1994,18,1994-01-09,Osasuna,Celta Vigo,0,1,1.0
+1993-1994,18,1994-01-09,Albacete,Sevilla,2,2,0.5
+1993-1994,18,1994-01-09,Athletic Club,Real Sociedad,0,0,0.5
+1993-1994,18,1994-01-09,Oviedo,Rayo Vallecano,5,0,0.0
+1993-1994,19,1994-01-15,Valencia,Dep La Coruña,1,3,1.0
+1993-1994,19,1994-01-16,Lleida,Racing Sant,0,0,0.5
+1993-1994,19,1994-01-16,Tenerife,Athletic Club,2,1,0.0
+1993-1994,19,1994-01-16,Real Madrid,Zaragoza,3,2,0.0
+1993-1994,19,1994-01-16,Sporting Gijón,Osasuna,7,1,0.0
+1993-1994,19,1994-01-16,Real Sociedad,Albacete,1,1,0.5
+1993-1994,19,1994-01-16,Celta Vigo,Valladolid,1,2,1.0
+1993-1994,19,1994-01-16,Logroñés,Oviedo,2,2,0.5
+1993-1994,19,1994-01-16,Rayo Vallecano,Atlético Madrid,2,1,0.0
+1993-1994,19,1994-01-16,Sevilla,Barcelona,0,0,0.5
+1993-1994,20,1994-01-22,Real Sociedad,Barcelona,2,1,0.0
+1993-1994,20,1994-01-23,Logroñés,Atlético Madrid,1,0,0.0
+1993-1994,20,1994-01-23,Celta Vigo,Dep La Coruña,0,0,0.5
+1993-1994,20,1994-01-23,Albacete,Athletic Club,1,0,0.0
+1993-1994,20,1994-01-23,Sevilla,Zaragoza,0,1,1.0
+1993-1994,20,1994-01-23,Real Madrid,Osasuna,0,0,0.5
+1993-1994,20,1994-01-23,Sporting Gijón,Valladolid,2,0,0.0
+1993-1994,20,1994-01-23,Rayo Vallecano,Racing Sant,1,1,0.5
+1993-1994,20,1994-01-23,Valencia,Oviedo,2,2,0.5
+1993-1994,20,1994-01-23,Lleida,Tenerife,1,1,0.5
+1993-1994,21,1994-01-29,Atlético Madrid,Valencia,2,0,0.0
+1993-1994,21,1994-01-30,Zaragoza,Real Sociedad,3,0,0.0
+1993-1994,21,1994-01-30,Athletic Club,Lleida,4,0,0.0
+1993-1994,21,1994-01-30,Osasuna,Sevilla,0,0,0.5
+1993-1994,21,1994-01-30,Racing Sant,Logroñés,0,0,0.5
+1993-1994,21,1994-01-30,Oviedo,Celta Vigo,1,0,0.0
+1993-1994,21,1994-01-30,Tenerife,Rayo Vallecano,3,1,0.0
+1993-1994,21,1994-01-30,Valladolid,Real Madrid,0,0,0.5
+1993-1994,21,1994-01-30,Dep La Coruña,Sporting Gijón,2,1,0.0
+1993-1994,21,1994-01-30,Barcelona,Albacete,2,1,0.0
+1993-1994,22,1994-02-05,Real Madrid,Dep La Coruña,2,0,0.0
+1993-1994,22,1994-02-06,Barcelona,Athletic Club,2,3,1.0
+1993-1994,22,1994-02-06,Celta Vigo,Atlético Madrid,3,2,0.0
+1993-1994,22,1994-02-06,Rayo Vallecano,Lleida,1,2,1.0
+1993-1994,22,1994-02-06,Real Sociedad,Osasuna,1,0,0.0
+1993-1994,22,1994-02-06,Valencia,Racing Sant,2,1,0.0
+1993-1994,22,1994-02-06,Sevilla,Valladolid,3,3,0.5
+1993-1994,22,1994-02-06,Sporting Gijón,Oviedo,0,0,0.5
+1993-1994,22,1994-02-06,Albacete,Zaragoza,2,1,0.0
+1993-1994,22,1994-02-06,Logroñés,Tenerife,1,2,1.0
+1993-1994,23,1994-02-12,Dep La Coruña,Sevilla,2,0,0.0
+1993-1994,23,1994-02-13,Valladolid,Real Sociedad,0,0,0.5
+1993-1994,23,1994-02-13,Oviedo,Real Madrid,0,1,1.0
+1993-1994,23,1994-02-13,Tenerife,Valencia,1,0,0.0
+1993-1994,23,1994-02-13,Zaragoza,Barcelona,6,3,0.0
+1993-1994,23,1994-02-13,Atlético Madrid,Sporting Gijón,2,0,0.0
+1993-1994,23,1994-02-13,Athletic Club,Rayo Vallecano,0,0,0.5
+1993-1994,23,1994-02-13,Racing Sant,Celta Vigo,2,1,0.0
+1993-1994,23,1994-02-13,Osasuna,Albacete,3,1,0.0
+1993-1994,23,1994-02-13,Lleida,Logroñés,1,1,0.5
+1993-1994,24,1994-02-19,Real Madrid,Atlético Madrid,1,0,0.0
+1993-1994,24,1994-02-19,Barcelona,Osasuna,8,1,0.0
+1993-1994,24,1994-02-20,Sporting Gijón,Racing Sant,0,2,1.0
+1993-1994,24,1994-02-20,Zaragoza,Athletic Club,1,0,0.0
+1993-1994,24,1994-02-20,Real Sociedad,Dep La Coruña,0,1,1.0
+1993-1994,24,1994-02-20,Albacete,Valladolid,1,1,0.5
+1993-1994,24,1994-02-20,Logroñés,Rayo Vallecano,1,1,0.5
+1993-1994,24,1994-02-20,Valencia,Lleida,3,3,0.5
+1993-1994,24,1994-02-20,Celta Vigo,Tenerife,1,0,0.0
+1993-1994,24,1994-02-20,Sevilla,Oviedo,2,0,0.0
+1993-1994,25,1994-02-22,Valladolid,Barcelona,1,3,1.0
+1993-1994,25,1994-02-23,Atlético Madrid,Sevilla,2,4,1.0
+1993-1994,25,1994-02-23,Oviedo,Real Sociedad,2,1,0.0
+1993-1994,25,1994-02-23,Dep La Coruña,Albacete,5,1,0.0
+1993-1994,25,1994-02-23,Osasuna,Zaragoza,0,0,0.5
+1993-1994,25,1994-02-23,Lleida,Celta Vigo,0,0,0.5
+1993-1994,25,1994-02-23,Racing Sant,Real Madrid,1,3,1.0
+1993-1994,25,1994-02-23,Athletic Club,Logroñés,0,0,0.5
+1993-1994,25,1994-02-23,Tenerife,Sporting Gijón,3,0,0.0
+1993-1994,25,1994-02-24,Rayo Vallecano,Valencia,1,1,0.5
+1993-1994,26,1994-02-26,Barcelona,Dep La Coruña,3,0,0.0
+1993-1994,26,1994-02-27,Valencia,Logroñés,3,1,0.0
+1993-1994,26,1994-02-27,Albacete,Oviedo,5,0,0.0
+1993-1994,26,1994-02-27,Sporting Gijón,Lleida,1,1,0.5
+1993-1994,26,1994-02-27,Sevilla,Racing Sant,2,1,0.0
+1993-1994,26,1994-02-27,Real Sociedad,Atlético Madrid,2,1,0.0
+1993-1994,26,1994-02-27,Real Madrid,Tenerife,1,1,0.5
+1993-1994,26,1994-02-27,Celta Vigo,Rayo Vallecano,0,0,0.5
+1993-1994,26,1994-02-27,Osasuna,Athletic Club,0,0,0.5
+1993-1994,26,1994-02-27,Zaragoza,Valladolid,2,0,0.0
+1993-1994,27,1994-03-05,Athletic Club,Valencia,2,1,0.0
+1993-1994,27,1994-03-05,Tenerife,Sevilla,2,1,0.0
+1993-1994,27,1994-03-06,Racing Sant,Real Sociedad,4,1,0.0
+1993-1994,27,1994-03-06,Rayo Vallecano,Sporting Gijón,2,1,0.0
+1993-1994,27,1994-03-06,Atlético Madrid,Albacete,0,0,0.5
+1993-1994,27,1994-03-06,Lleida,Real Madrid,2,1,0.0
+1993-1994,27,1994-03-06,Dep La Coruña,Zaragoza,1,1,0.5
+1993-1994,27,1994-03-06,Oviedo,Barcelona,1,3,1.0
+1993-1994,27,1994-03-06,Valladolid,Osasuna,2,1,0.0
+1993-1994,27,1994-03-06,Logroñés,Celta Vigo,1,1,0.5
+1993-1994,28,1994-03-12,Barcelona,Atlético Madrid,5,3,0.0
+1993-1994,28,1994-03-12,Real Madrid,Rayo Vallecano,5,2,0.0
+1993-1994,28,1994-03-13,Valladolid,Athletic Club,1,1,0.5
+1993-1994,28,1994-03-13,Zaragoza,Oviedo,2,1,0.0
+1993-1994,28,1994-03-13,Sevilla,Lleida,2,1,0.0
+1993-1994,28,1994-03-13,Albacete,Racing Sant,3,0,0.0
+1993-1994,28,1994-03-13,Celta Vigo,Valencia,1,2,1.0
+1993-1994,28,1994-03-13,Real Sociedad,Tenerife,2,1,0.0
+1993-1994,28,1994-03-13,Osasuna,Dep La Coruña,0,0,0.5
+1993-1994,28,1994-03-13,Sporting Gijón,Logroñés,1,2,1.0
+1993-1994,29,1994-03-19,Racing Sant,Barcelona,1,1,0.5
+1993-1994,29,1994-03-20,Rayo Vallecano,Sevilla,2,1,0.0
+1993-1994,29,1994-03-20,Tenerife,Albacete,2,1,0.0
+1993-1994,29,1994-03-20,Oviedo,Osasuna,1,0,0.0
+1993-1994,29,1994-03-20,Lleida,Real Sociedad,1,0,0.0
+1993-1994,29,1994-03-20,Valencia,Sporting Gijón,1,0,0.0
+1993-1994,29,1994-03-20,Athletic Club,Celta Vigo,2,1,0.0
+1993-1994,29,1994-03-20,Logroñés,Real Madrid,3,4,1.0
+1993-1994,29,1994-03-20,Atlético Madrid,Zaragoza,0,4,1.0
+1993-1994,29,1994-03-20,Dep La Coruña,Valladolid,0,0,0.5
+1993-1994,30,1994-03-26,Barcelona,Tenerife,2,1,0.0
+1993-1994,30,1994-03-26,Real Madrid,Valencia,3,2,0.0
+1993-1994,30,1994-03-26,Sevilla,Logroñés,4,1,0.0
+1993-1994,30,1994-03-27,Albacete,Lleida,2,1,0.0
+1993-1994,30,1994-03-27,Sporting Gijón,Celta Vigo,2,1,0.0
+1993-1994,30,1994-03-27,Zaragoza,Racing Sant,2,0,0.0
+1993-1994,30,1994-03-27,Dep La Coruña,Athletic Club,4,1,0.0
+1993-1994,30,1994-03-27,Real Sociedad,Rayo Vallecano,1,1,0.5
+1993-1994,30,1994-03-27,Valladolid,Oviedo,0,0,0.5
+1993-1994,30,1994-03-27,Osasuna,Atlético Madrid,0,1,1.0
+1993-1994,31,1994-04-02,Celta Vigo,Real Madrid,3,2,0.0
+1993-1994,31,1994-04-02,Lleida,Barcelona,1,2,1.0
+1993-1994,31,1994-04-03,Valencia,Sevilla,1,1,0.5
+1993-1994,31,1994-04-03,Atlético Madrid,Valladolid,2,0,0.0
+1993-1994,31,1994-04-03,Racing Sant,Osasuna,3,1,0.0
+1993-1994,31,1994-04-03,Logroñés,Real Sociedad,2,0,0.0
+1993-1994,31,1994-04-03,Rayo Vallecano,Albacete,0,0,0.5
+1993-1994,31,1994-04-03,Oviedo,Dep La Coruña,2,5,1.0
+1993-1994,31,1994-04-03,Athletic Club,Sporting Gijón,7,0,0.0
+1993-1994,31,1994-04-03,Tenerife,Zaragoza,5,3,0.0
+1993-1994,32,1994-04-06,Barcelona,Rayo Vallecano,1,0,0.0
+1993-1994,32,1994-04-06,Real Sociedad,Valencia,0,0,0.5
+1993-1994,32,1994-04-06,Zaragoza,Lleida,1,1,0.5
+1993-1994,32,1994-04-06,Oviedo,Athletic Club,3,0,0.0
+1993-1994,32,1994-04-06,Osasuna,Tenerife,1,0,0.0
+1993-1994,32,1994-04-06,Valladolid,Racing Sant,0,3,1.0
+1993-1994,32,1994-04-06,Real Madrid,Sporting Gijón,2,2,0.5
+1993-1994,32,1994-04-06,Sevilla,Celta Vigo,4,1,0.0
+1993-1994,32,1994-04-06,Albacete,Logroñés,2,2,0.5
+1993-1994,32,1994-04-07,Dep La Coruña,Atlético Madrid,2,1,0.0
+1993-1994,33,1994-04-09,Sporting Gijón,Sevilla,0,1,1.0
+1993-1994,33,1994-04-09,Logroñés,Barcelona,0,0,0.5
+1993-1994,33,1994-04-09,Athletic Club,Real Madrid,2,1,0.0
+1993-1994,33,1994-04-10,Atlético Madrid,Oviedo,0,3,1.0
+1993-1994,33,1994-04-10,Racing Sant,Dep La Coruña,0,1,1.0
+1993-1994,33,1994-04-10,Valencia,Albacete,4,0,0.0
+1993-1994,33,1994-04-10,Tenerife,Valladolid,0,2,1.0
+1993-1994,33,1994-04-10,Lleida,Osasuna,1,2,1.0
+1993-1994,33,1994-04-10,Rayo Vallecano,Zaragoza,1,2,1.0
+1993-1994,33,1994-04-10,Celta Vigo,Real Sociedad,3,2,0.0
+1993-1994,34,1994-04-16,Albacete,Celta Vigo,0,4,1.0
+1993-1994,34,1994-04-16,Barcelona,Valencia,3,1,0.0
+1993-1994,34,1994-04-16,Zaragoza,Logroñés,1,1,0.5
+1993-1994,34,1994-04-17,Real Sociedad,Sporting Gijón,0,1,1.0
+1993-1994,34,1994-04-17,Sevilla,Real Madrid,0,1,1.0
+1993-1994,34,1994-04-17,Dep La Coruña,Tenerife,2,0,0.0
+1993-1994,34,1994-04-17,Osasuna,Rayo Vallecano,1,1,0.5
+1993-1994,34,1994-04-17,Atlético Madrid,Athletic Club,4,2,0.0
+1993-1994,34,1994-04-17,Oviedo,Racing Sant,3,0,0.0
+1993-1994,34,1994-04-17,Valladolid,Lleida,0,2,1.0
+1993-1994,35,1994-04-23,Celta Vigo,Barcelona,0,4,1.0
+1993-1994,35,1994-04-23,Lleida,Dep La Coruña,0,0,0.5
+1993-1994,35,1994-04-24,Sporting Gijón,Albacete,1,0,0.0
+1993-1994,35,1994-04-24,Rayo Vallecano,Valladolid,0,1,1.0
+1993-1994,35,1994-04-24,Real Madrid,Real Sociedad,0,2,1.0
+1993-1994,35,1994-04-24,Valencia,Zaragoza,3,0,0.0
+1993-1994,35,1994-04-24,Logroñés,Osasuna,3,2,0.0
+1993-1994,35,1994-04-24,Tenerife,Oviedo,2,2,0.5
+1993-1994,35,1994-04-24,Athletic Club,Sevilla,1,1,0.5
+1993-1994,35,1994-04-24,Racing Sant,Atlético Madrid,2,0,0.0
+1993-1994,36,1994-04-30,Dep La Coruña,Rayo Vallecano,0,0,0.5
+1993-1994,36,1994-05-01,Racing Sant,Athletic Club,2,2,0.5
+1993-1994,36,1994-05-01,Oviedo,Lleida,0,0,0.5
+1993-1994,36,1994-05-01,Barcelona,Sporting Gijón,4,0,0.0
+1993-1994,36,1994-05-01,Zaragoza,Celta Vigo,4,1,0.0
+1993-1994,36,1994-05-01,Atlético Madrid,Tenerife,2,0,0.0
+1993-1994,36,1994-05-01,Albacete,Real Madrid,1,4,1.0
+1993-1994,36,1994-05-01,Osasuna,Valencia,3,3,0.5
+1993-1994,36,1994-05-01,Real Sociedad,Sevilla,0,0,0.5
+1993-1994,36,1994-05-01,Valladolid,Logroñés,2,0,0.0
+1993-1994,37,1994-05-07,Real Madrid,Barcelona,0,1,1.0
+1993-1994,37,1994-05-08,Tenerife,Racing Sant,1,0,0.0
+1993-1994,37,1994-05-08,Real Sociedad,Athletic Club,0,0,0.5
+1993-1994,37,1994-05-08,Celta Vigo,Osasuna,4,0,0.0
+1993-1994,37,1994-05-08,Sevilla,Albacete,2,0,0.0
+1993-1994,37,1994-05-08,Lleida,Atlético Madrid,0,1,1.0
+1993-1994,37,1994-05-08,Valencia,Valladolid,5,1,0.0
+1993-1994,37,1994-05-08,Rayo Vallecano,Oviedo,0,0,0.5
+1993-1994,37,1994-05-08,Logroñés,Dep La Coruña,0,2,1.0
+1993-1994,37,1994-05-08,Sporting Gijón,Zaragoza,0,3,1.0
+1993-1994,38,1994-05-14,Athletic Club,Tenerife,3,2,0.0
+1993-1994,38,1994-05-14,Dep La Coruña,Valencia,0,0,0.5
+1993-1994,38,1994-05-14,Barcelona,Sevilla,5,2,0.0
+1993-1994,38,1994-05-15,Albacete,Real Sociedad,1,1,0.5
+1993-1994,38,1994-05-15,Valladolid,Celta Vigo,0,0,0.5
+1993-1994,38,1994-05-15,Oviedo,Logroñés,1,2,1.0
+1993-1994,38,1994-05-15,Osasuna,Sporting Gijón,3,0,0.0
+1993-1994,38,1994-05-15,Zaragoza,Real Madrid,4,1,0.0
+1993-1994,38,1994-05-15,Racing Sant,Lleida,2,1,0.0
+1993-1994,38,1994-05-15,Atlético Madrid,Rayo Vallecano,2,0,0.0

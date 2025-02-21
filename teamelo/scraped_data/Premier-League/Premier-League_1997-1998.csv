@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1997-1998,1,1997-08-09,Coventry City,Chelsea,3,2,0.0
+1997-1998,1,1997-08-09,Leicester City,Aston Villa,1,0,0.0
+1997-1998,1,1997-08-09,Blackburn,Derby County,1,0,0.0
+1997-1998,1,1997-08-09,Southampton,Bolton,0,1,1.0
+1997-1998,1,1997-08-09,Newcastle Utd,Sheffield Weds,2,1,0.0
+1997-1998,1,1997-08-09,Leeds United,Arsenal,1,1,0.5
+1997-1998,1,1997-08-09,Everton,Crystal Palace,1,2,1.0
+1997-1998,1,1997-08-09,Barnsley,West Ham,1,2,1.0
+1997-1998,1,1997-08-09,Wimbledon,Liverpool,1,1,0.5
+1997-1998,1,1997-08-10,Tottenham,Manchester Utd,0,2,1.0
+1997-1998,2,1997-08-11,Arsenal,Coventry City,2,0,0.0
+1997-1998,2,1997-08-12,Crystal Palace,Barnsley,0,1,1.0
+1997-1998,2,1997-08-13,Manchester Utd,Southampton,1,0,0.0
+1997-1998,2,1997-08-13,Aston Villa,Blackburn,0,4,1.0
+1997-1998,2,1997-08-13,Liverpool,Leicester City,1,2,1.0
+1997-1998,2,1997-08-13,West Ham,Tottenham,2,1,0.0
+1997-1998,2,1997-08-13,Sheffield Weds,Leeds United,1,3,1.0
+1997-1998,3,1997-08-23,Leicester City,Manchester Utd,0,0,0.5
+1997-1998,3,1997-08-23,Newcastle Utd,Aston Villa,1,0,0.0
+1997-1998,3,1997-08-23,Blackburn,Liverpool,1,1,0.5
+1997-1998,3,1997-08-23,Southampton,Arsenal,1,3,1.0
+1997-1998,3,1997-08-23,Tottenham,Derby County,1,0,0.0
+1997-1998,3,1997-08-23,Coventry City,Bolton,2,2,0.5
+1997-1998,3,1997-08-23,Wimbledon,Sheffield Weds,1,1,0.5
+1997-1998,3,1997-08-23,Leeds United,Crystal Palace,0,2,1.0
+1997-1998,3,1997-08-23,Everton,West Ham,2,1,0.0
+1997-1998,3,1997-08-24,Barnsley,Chelsea,0,6,1.0
+1997-1998,4,1997-08-25,Blackburn,Sheffield Weds,7,2,0.0
+1997-1998,4,1997-08-26,Leeds United,Liverpool,0,2,1.0
+1997-1998,4,1997-08-27,Tottenham,Aston Villa,3,2,0.0
+1997-1998,4,1997-08-27,Barnsley,Bolton,2,1,0.0
+1997-1998,4,1997-08-27,Leicester City,Arsenal,3,3,0.5
+1997-1998,4,1997-08-27,Southampton,Crystal Palace,1,0,0.0
+1997-1998,4,1997-08-27,Coventry City,West Ham,1,1,0.5
+1997-1998,4,1997-08-27,Everton,Manchester Utd,0,2,1.0
+1997-1998,4,1997-08-27,Wimbledon,Chelsea,0,2,1.0
+1997-1998,5,1997-08-30,Crystal Palace,Blackburn,1,2,1.0
+1997-1998,5,1997-08-30,Chelsea,Southampton,4,2,0.0
+1997-1998,5,1997-08-30,Derby County,Barnsley,1,0,0.0
+1997-1998,5,1997-08-30,Sheffield Weds,Leicester City,1,0,0.0
+1997-1998,5,1997-08-30,Manchester Utd,Coventry City,3,0,0.0
+1997-1998,5,1997-08-30,Arsenal,Tottenham,0,0,0.5
+1997-1998,5,1997-08-30,West Ham,Wimbledon,3,1,0.0
+1997-1998,5,1997-08-30,Aston Villa,Leeds United,1,0,0.0
+1997-1998,5,1997-09-01,Bolton,Everton,0,0,0.5
+1997-1998,6,1997-09-13,Leicester City,Tottenham,3,0,0.0
+1997-1998,6,1997-09-13,Crystal Palace,Chelsea,0,3,1.0
+1997-1998,6,1997-09-13,Derby County,Everton,3,1,0.0
+1997-1998,6,1997-09-13,Coventry City,Southampton,1,0,0.0
+1997-1998,6,1997-09-13,Newcastle Utd,Wimbledon,1,3,1.0
+1997-1998,6,1997-09-13,Liverpool,Sheffield Weds,2,1,0.0
+1997-1998,6,1997-09-13,Barnsley,Aston Villa,0,3,1.0
+1997-1998,6,1997-09-13,Manchester Utd,West Ham,2,1,0.0
+1997-1998,6,1997-09-13,Arsenal,Bolton,4,1,0.0
+1997-1998,6,1997-09-14,Blackburn,Leeds United,3,4,1.0
+1997-1998,7,1997-09-20,Aston Villa,Derby County,2,1,0.0
+1997-1998,7,1997-09-20,Everton,Barnsley,4,2,0.0
+1997-1998,7,1997-09-20,Wimbledon,Crystal Palace,0,1,1.0
+1997-1998,7,1997-09-20,Leeds United,Leicester City,0,1,1.0
+1997-1998,7,1997-09-20,West Ham,Newcastle Utd,0,1,1.0
+1997-1998,7,1997-09-20,Southampton,Liverpool,1,1,0.5
+1997-1998,7,1997-09-20,Bolton,Manchester Utd,0,0,0.5
+1997-1998,7,1997-09-20,Sheffield Weds,Coventry City,0,0,0.5
+1997-1998,7,1997-09-20,Tottenham,Blackburn,0,0,0.5
+1997-1998,7,1997-09-21,Chelsea,Arsenal,2,3,1.0
+1997-1998,8,1997-09-22,Liverpool,Aston Villa,3,0,0.0
+1997-1998,8,1997-09-23,Bolton,Tottenham,1,1,0.5
+1997-1998,8,1997-09-23,Wimbledon,Barnsley,4,1,0.0
+1997-1998,8,1997-09-24,Leicester City,Blackburn,1,1,0.5
+1997-1998,8,1997-09-24,Manchester Utd,Chelsea,2,2,0.5
+1997-1998,8,1997-09-24,Coventry City,Crystal Palace,1,1,0.5
+1997-1998,8,1997-09-24,Sheffield Weds,Derby County,2,5,1.0
+1997-1998,8,1997-09-24,Southampton,Leeds United,0,2,1.0
+1997-1998,8,1997-09-24,Arsenal,West Ham,4,0,0.0
+1997-1998,8,1997-09-24,Newcastle Utd,Everton,1,0,0.0
+1997-1998,9,1997-09-27,Leeds United,Manchester Utd,1,0,0.0
+1997-1998,9,1997-09-27,Barnsley,Leicester City,0,2,1.0
+1997-1998,9,1997-09-27,Tottenham,Wimbledon,0,0,0.5
+1997-1998,9,1997-09-27,Crystal Palace,Bolton,2,2,0.5
+1997-1998,9,1997-09-27,Aston Villa,Sheffield Weds,2,2,0.5
+1997-1998,9,1997-09-27,Chelsea,Newcastle Utd,1,0,0.0
+1997-1998,9,1997-09-27,West Ham,Liverpool,2,1,0.0
+1997-1998,9,1997-09-27,Everton,Arsenal,2,2,0.5
+1997-1998,9,1997-09-27,Derby County,Southampton,4,0,0.0
+1997-1998,9,1997-09-28,Blackburn,Coventry City,0,0,0.5
+1997-1998,10,1997-10-04,Bolton,Aston Villa,0,1,1.0
+1997-1998,10,1997-10-04,Southampton,West Ham,3,0,0.0
+1997-1998,10,1997-10-04,Manchester Utd,Crystal Palace,2,0,0.0
+1997-1998,10,1997-10-04,Sheffield Weds,Everton,3,1,0.0
+1997-1998,10,1997-10-04,Wimbledon,Blackburn,0,1,1.0
+1997-1998,10,1997-10-04,Arsenal,Barnsley,5,0,0.0
+1997-1998,10,1997-10-04,Newcastle Utd,Tottenham,1,0,0.0
+1997-1998,10,1997-10-04,Coventry City,Leeds United,0,0,0.5
+1997-1998,10,1997-10-05,Liverpool,Chelsea,4,2,0.0
+1997-1998,10,1997-10-06,Leicester City,Derby County,1,2,1.0
+1997-1998,11,1997-10-18,Aston Villa,Wimbledon,1,2,1.0
+1997-1998,11,1997-10-18,Blackburn,Southampton,1,0,0.0
+1997-1998,11,1997-10-18,Derby County,Manchester Utd,2,2,0.5
+1997-1998,11,1997-10-18,West Ham,Bolton,3,0,0.0
+1997-1998,11,1997-10-18,Crystal Palace,Arsenal,0,0,0.5
+1997-1998,11,1997-10-18,Everton,Liverpool,2,0,0.0
+1997-1998,11,1997-10-18,Leeds United,Newcastle Utd,4,1,0.0
+1997-1998,11,1997-10-18,Chelsea,Leicester City,1,0,0.0
+1997-1998,11,1997-10-19,Tottenham,Sheffield Weds,3,2,0.0
+1997-1998,11,1997-10-20,Barnsley,Coventry City,2,0,0.0
+1997-1998,2,1997-10-22,Derby County,Wimbledon,1,1,0.5
+1997-1998,12,1997-10-25,Manchester Utd,Barnsley,7,0,0.0
+1997-1998,12,1997-10-25,Coventry City,Everton,0,0,0.5
+1997-1998,12,1997-10-25,Newcastle Utd,Blackburn,1,1,0.5
+1997-1998,12,1997-10-25,Southampton,Tottenham,3,2,0.0
+1997-1998,12,1997-10-25,Sheffield Weds,Crystal Palace,1,3,1.0
+1997-1998,12,1997-10-25,Liverpool,Derby County,4,0,0.0
+1997-1998,12,1997-10-25,Wimbledon,Leeds United,1,0,0.0
+1997-1998,12,1997-10-26,Bolton,Chelsea,1,0,0.0
+1997-1998,12,1997-10-26,Arsenal,Aston Villa,0,0,0.5
+1997-1998,12,1997-10-27,Leicester City,West Ham,2,1,0.0
+1997-1998,13,1997-11-01,Bolton,Liverpool,1,1,0.5
+1997-1998,13,1997-11-01,Barnsley,Blackburn,1,1,0.5
+1997-1998,13,1997-11-01,Aston Villa,Chelsea,0,2,1.0
+1997-1998,13,1997-11-01,Derby County,Arsenal,3,0,0.0
+1997-1998,13,1997-11-01,Wimbledon,Coventry City,1,2,1.0
+1997-1998,13,1997-11-01,Manchester Utd,Sheffield Weds,6,1,0.0
+1997-1998,13,1997-11-01,Newcastle Utd,Leicester City,3,3,0.5
+1997-1998,13,1997-11-01,Tottenham,Leeds United,0,1,1.0
+1997-1998,13,1997-11-02,Everton,Southampton,0,2,1.0
+1997-1998,14,1997-11-08,Leeds United,Derby County,4,3,0.0
+1997-1998,14,1997-11-08,Liverpool,Tottenham,4,0,0.0
+1997-1998,14,1997-11-08,Blackburn,Everton,3,2,0.0
+1997-1998,14,1997-11-08,Crystal Palace,Aston Villa,1,1,0.5
+1997-1998,14,1997-11-08,Sheffield Weds,Bolton,5,0,0.0
+1997-1998,14,1997-11-08,Southampton,Barnsley,4,1,0.0
+1997-1998,14,1997-11-08,Coventry City,Newcastle Utd,2,2,0.5
+1997-1998,14,1997-11-09,Arsenal,Manchester Utd,3,2,0.0
+1997-1998,14,1997-11-09,Chelsea,West Ham,2,1,0.0
+1997-1998,14,1997-11-10,Leicester City,Wimbledon,0,1,1.0
+1997-1998,15,1997-11-22,Newcastle Utd,Southampton,2,1,0.0
+1997-1998,15,1997-11-22,Aston Villa,Everton,2,1,0.0
+1997-1998,15,1997-11-22,Sheffield Weds,Arsenal,2,0,0.0
+1997-1998,15,1997-11-22,Leicester City,Bolton,0,0,0.5
+1997-1998,15,1997-11-22,Derby County,Coventry City,3,1,0.0
+1997-1998,15,1997-11-22,Liverpool,Barnsley,0,1,1.0
+1997-1998,15,1997-11-22,Wimbledon,Manchester Utd,2,5,1.0
+1997-1998,15,1997-11-22,Blackburn,Chelsea,1,0,0.0
+1997-1998,15,1997-11-23,Leeds United,West Ham,3,1,0.0
+1997-1998,15,1997-11-24,Tottenham,Crystal Palace,0,1,1.0
+1997-1998,2,1997-11-26,Chelsea,Everton,2,0,0.0
+1997-1998,16,1997-11-29,Bolton,Wimbledon,1,0,0.0
+1997-1998,16,1997-11-29,Crystal Palace,Newcastle Utd,1,2,1.0
+1997-1998,16,1997-11-29,Coventry City,Leicester City,0,2,1.0
+1997-1998,16,1997-11-29,West Ham,Aston Villa,2,1,0.0
+1997-1998,16,1997-11-29,Everton,Tottenham,0,2,1.0
+1997-1998,16,1997-11-29,Southampton,Sheffield Weds,2,3,1.0
+1997-1998,16,1997-11-29,Barnsley,Leeds United,2,3,1.0
+1997-1998,16,1997-11-29,Chelsea,Derby County,4,0,0.0
+1997-1998,16,1997-11-30,Manchester Utd,Blackburn,4,0,0.0
+1997-1998,16,1997-11-30,Arsenal,Liverpool,0,1,1.0
+1997-1998,2,1997-12-01,Bolton,Newcastle Utd,1,0,0.0
+1997-1998,13,1997-12-03,West Ham,Crystal Palace,4,1,0.0
+1997-1998,17,1997-12-06,Leeds United,Everton,0,0,0.5
+1997-1998,17,1997-12-06,Derby County,West Ham,2,0,0.0
+1997-1998,17,1997-12-06,Leicester City,Crystal Palace,1,1,0.5
+1997-1998,17,1997-12-06,Blackburn,Bolton,3,1,0.0
+1997-1998,17,1997-12-06,Tottenham,Chelsea,1,6,1.0
+1997-1998,17,1997-12-06,Newcastle Utd,Arsenal,0,1,1.0
+1997-1998,17,1997-12-06,Liverpool,Manchester Utd,1,3,1.0
+1997-1998,17,1997-12-06,Aston Villa,Coventry City,3,0,0.0
+1997-1998,17,1997-12-07,Wimbledon,Southampton,1,0,0.0
+1997-1998,17,1997-12-08,Sheffield Weds,Barnsley,2,1,0.0
+1997-1998,18,1997-12-13,Coventry City,Tottenham,4,0,0.0
+1997-1998,18,1997-12-13,Barnsley,Newcastle Utd,2,2,0.5
+1997-1998,18,1997-12-13,Southampton,Leicester City,2,1,0.0
+1997-1998,18,1997-12-13,Crystal Palace,Liverpool,0,3,1.0
+1997-1998,18,1997-12-13,West Ham,Sheffield Weds,1,0,0.0
+1997-1998,18,1997-12-13,Arsenal,Blackburn,1,3,1.0
+1997-1998,18,1997-12-13,Chelsea,Leeds United,0,0,0.5
+1997-1998,18,1997-12-13,Everton,Wimbledon,0,0,0.5
+1997-1998,18,1997-12-14,Bolton,Derby County,3,3,0.5
+1997-1998,18,1997-12-15,Manchester Utd,Aston Villa,1,0,0.0
+1997-1998,4,1997-12-17,Newcastle Utd,Derby County,0,0,0.5
+1997-1998,19,1997-12-20,Liverpool,Coventry City,1,0,0.0
+1997-1998,19,1997-12-20,Sheffield Weds,Chelsea,1,4,1.0
+1997-1998,19,1997-12-20,Tottenham,Barnsley,3,0,0.0
+1997-1998,19,1997-12-20,Aston Villa,Southampton,1,1,0.5
+1997-1998,19,1997-12-20,Leeds United,Bolton,2,0,0.0
+1997-1998,19,1997-12-20,Derby County,Crystal Palace,0,0,0.5
+1997-1998,19,1997-12-20,Leicester City,Everton,0,1,1.0
+1997-1998,19,1997-12-20,Blackburn,West Ham,3,0,0.0
+1997-1998,19,1997-12-21,Newcastle Utd,Manchester Utd,0,1,1.0
+1997-1998,20,1997-12-26,Crystal Palace,Southampton,1,1,0.5
+1997-1998,20,1997-12-26,Derby County,Newcastle Utd,1,0,0.0
+1997-1998,20,1997-12-26,Arsenal,Leicester City,2,1,0.0
+1997-1998,20,1997-12-26,West Ham,Coventry City,1,0,0.0
+1997-1998,20,1997-12-26,Sheffield Weds,Blackburn,0,0,0.5
+1997-1998,20,1997-12-26,Aston Villa,Tottenham,4,1,0.0
+1997-1998,20,1997-12-26,Bolton,Barnsley,1,1,0.5
+1997-1998,20,1997-12-26,Chelsea,Wimbledon,1,1,0.5
+1997-1998,20,1997-12-26,Liverpool,Leeds United,3,1,0.0
+1997-1998,20,1997-12-26,Manchester Utd,Everton,2,0,0.0
+1997-1998,21,1997-12-28,Barnsley,Derby County,1,0,0.0
+1997-1998,21,1997-12-28,Coventry City,Manchester Utd,3,2,0.0
+1997-1998,21,1997-12-28,Newcastle Utd,Liverpool,1,2,1.0
+1997-1998,21,1997-12-28,Everton,Bolton,3,2,0.0
+1997-1998,21,1997-12-28,Tottenham,Arsenal,1,1,0.5
+1997-1998,21,1997-12-28,Leicester City,Sheffield Weds,1,1,0.5
+1997-1998,21,1997-12-28,Leeds United,Aston Villa,1,1,0.5
+1997-1998,21,1997-12-28,Wimbledon,West Ham,1,2,1.0
+1997-1998,21,1997-12-28,Blackburn,Crystal Palace,2,2,0.5
+1997-1998,21,1997-12-29,Southampton,Chelsea,1,0,0.0
+1997-1998,22,1998-01-10,Manchester Utd,Tottenham,2,0,0.0
+1997-1998,22,1998-01-10,Bolton,Southampton,0,0,0.5
+1997-1998,22,1998-01-10,Aston Villa,Leicester City,1,1,0.5
+1997-1998,22,1998-01-10,West Ham,Barnsley,6,0,0.0
+1997-1998,22,1998-01-10,Sheffield Weds,Newcastle Utd,2,1,0.0
+1997-1998,22,1998-01-10,Liverpool,Wimbledon,2,0,0.0
+1997-1998,22,1998-01-10,Crystal Palace,Everton,1,3,1.0
+1997-1998,22,1998-01-10,Chelsea,Coventry City,3,1,0.0
+1997-1998,22,1998-01-10,Arsenal,Leeds United,2,1,0.0
+1997-1998,22,1998-01-11,Derby County,Blackburn,3,1,0.0
+1997-1998,23,1998-01-17,Wimbledon,Derby County,0,0,0.5
+1997-1998,23,1998-01-17,Blackburn,Aston Villa,5,0,0.0
+1997-1998,23,1998-01-17,Coventry City,Arsenal,2,2,0.5
+1997-1998,23,1998-01-17,Leeds United,Sheffield Weds,1,2,1.0
+1997-1998,23,1998-01-17,Tottenham,West Ham,1,0,0.0
+1997-1998,23,1998-01-17,Leicester City,Liverpool,0,0,0.5
+1997-1998,23,1998-01-17,Barnsley,Crystal Palace,1,0,0.0
+1997-1998,23,1998-01-17,Newcastle Utd,Bolton,2,1,0.0
+1997-1998,23,1998-01-18,Everton,Chelsea,3,1,0.0
+1997-1998,23,1998-01-19,Southampton,Manchester Utd,1,0,0.0
+1997-1998,5,1998-01-20,Liverpool,Newcastle Utd,1,0,0.0
+1997-1998,24,1998-01-31,West Ham,Everton,2,2,0.5
+1997-1998,24,1998-01-31,Derby County,Tottenham,2,1,0.0
+1997-1998,24,1998-01-31,Bolton,Coventry City,1,5,1.0
+1997-1998,24,1998-01-31,Manchester Utd,Leicester City,0,1,1.0
+1997-1998,24,1998-01-31,Liverpool,Blackburn,0,0,0.5
+1997-1998,24,1998-01-31,Sheffield Weds,Wimbledon,1,1,0.5
+1997-1998,24,1998-01-31,Chelsea,Barnsley,2,0,0.0
+1997-1998,24,1998-01-31,Crystal Palace,Leeds United,0,2,1.0
+1997-1998,24,1998-01-31,Arsenal,Southampton,3,0,0.0
+1997-1998,24,1998-02-01,Aston Villa,Newcastle Utd,0,1,1.0
+1997-1998,25,1998-02-07,Blackburn,Tottenham,0,3,1.0
+1997-1998,25,1998-02-07,Barnsley,Everton,2,2,0.5
+1997-1998,25,1998-02-07,Manchester Utd,Bolton,1,1,0.5
+1997-1998,25,1998-02-07,Derby County,Aston Villa,0,1,1.0
+1997-1998,25,1998-02-07,Newcastle Utd,West Ham,0,1,1.0
+1997-1998,25,1998-02-07,Liverpool,Southampton,2,3,1.0
+1997-1998,25,1998-02-07,Leicester City,Leeds United,1,0,0.0
+1997-1998,25,1998-02-07,Coventry City,Sheffield Weds,1,0,0.0
+1997-1998,25,1998-02-08,Arsenal,Chelsea,2,0,0.0
+1997-1998,25,1998-02-09,Crystal Palace,Wimbledon,0,3,1.0
+1997-1998,26,1998-02-14,Everton,Derby County,1,2,1.0
+1997-1998,26,1998-02-14,Tottenham,Leicester City,1,1,0.5
+1997-1998,26,1998-02-14,Sheffield Weds,Liverpool,3,3,0.5
+1997-1998,26,1998-02-18,Southampton,Coventry City,1,2,1.0
+1997-1998,34,1998-02-18,Aston Villa,Manchester Utd,0,2,1.0
+1997-1998,27,1998-02-21,Manchester Utd,Derby County,2,0,0.0
+1997-1998,27,1998-02-21,Wimbledon,Aston Villa,2,1,0.0
+1997-1998,27,1998-02-21,Leicester City,Chelsea,2,0,0.0
+1997-1998,27,1998-02-21,Southampton,Blackburn,3,0,0.0
+1997-1998,27,1998-02-21,Coventry City,Barnsley,1,0,0.0
+1997-1998,27,1998-02-21,Arsenal,Crystal Palace,1,0,0.0
+1997-1998,27,1998-02-21,Bolton,West Ham,1,1,0.5
+1997-1998,27,1998-02-21,Sheffield Weds,Tottenham,1,0,0.0
+1997-1998,27,1998-02-22,Newcastle Utd,Leeds United,1,1,0.5
+1997-1998,27,1998-02-23,Liverpool,Everton,1,1,0.5
+1997-1998,28,1998-02-28,Aston Villa,Liverpool,2,1,0.0
+1997-1998,28,1998-02-28,Chelsea,Manchester Utd,0,1,1.0
+1997-1998,28,1998-02-28,Derby County,Sheffield Weds,3,0,0.0
+1997-1998,28,1998-02-28,Crystal Palace,Coventry City,0,3,1.0
+1997-1998,28,1998-02-28,Leeds United,Southampton,0,1,1.0
+1997-1998,28,1998-02-28,Blackburn,Leicester City,5,3,0.0
+1997-1998,28,1998-02-28,Everton,Newcastle Utd,0,0,0.5
+1997-1998,28,1998-02-28,Barnsley,Wimbledon,2,1,0.0
+1997-1998,28,1998-03-01,Tottenham,Bolton,1,0,0.0
+1997-1998,28,1998-03-02,West Ham,Arsenal,0,0,0.5
+1997-1998,29,1998-03-04,Leeds United,Tottenham,1,0,0.0
+1997-1998,29,1998-03-07,Sheffield Weds,Manchester Utd,2,0,0.0
+1997-1998,29,1998-03-07,Southampton,Everton,2,1,0.0
+1997-1998,29,1998-03-07,Liverpool,Bolton,2,1,0.0
+1997-1998,29,1998-03-08,Chelsea,Aston Villa,0,1,1.0
+1997-1998,19,1998-03-11,Wimbledon,Arsenal,0,1,1.0
+1997-1998,26,1998-03-11,Chelsea,Crystal Palace,6,2,0.0
+1997-1998,26,1998-03-11,Leeds United,Blackburn,4,0,0.0
+1997-1998,26,1998-03-11,West Ham,Manchester Utd,1,1,0.5
+1997-1998,26,1998-03-11,Aston Villa,Barnsley,0,1,1.0
+1997-1998,30,1998-03-14,Bolton,Sheffield Weds,3,2,0.0
+1997-1998,30,1998-03-14,Wimbledon,Leicester City,2,1,0.0
+1997-1998,30,1998-03-14,West Ham,Chelsea,2,1,0.0
+1997-1998,30,1998-03-14,Everton,Blackburn,1,0,0.0
+1997-1998,30,1998-03-14,Tottenham,Liverpool,3,3,0.5
+1997-1998,30,1998-03-14,Aston Villa,Crystal Palace,3,1,0.0
+1997-1998,30,1998-03-14,Manchester Utd,Arsenal,0,1,1.0
+1997-1998,30,1998-03-14,Barnsley,Southampton,4,3,0.0
+1997-1998,30,1998-03-14,Newcastle Utd,Coventry City,0,0,0.5
+1997-1998,30,1998-03-15,Derby County,Leeds United,0,5,1.0
+1997-1998,32,1998-03-18,Newcastle Utd,Crystal Palace,1,2,1.0
+1997-1998,31,1998-03-28,Crystal Palace,Tottenham,1,3,1.0
+1997-1998,31,1998-03-28,Southampton,Newcastle Utd,2,1,0.0
+1997-1998,31,1998-03-28,Bolton,Leicester City,2,0,0.0
+1997-1998,31,1998-03-28,Arsenal,Sheffield Weds,1,0,0.0
+1997-1998,31,1998-03-28,Everton,Aston Villa,1,4,1.0
+1997-1998,31,1998-03-28,Manchester Utd,Wimbledon,2,0,0.0
+1997-1998,31,1998-03-28,Barnsley,Liverpool,2,3,1.0
+1997-1998,31,1998-03-28,Coventry City,Derby County,1,0,0.0
+1997-1998,31,1998-03-30,West Ham,Leeds United,3,0,0.0
+1997-1998,26,1998-03-31,Bolton,Arsenal,0,1,1.0
+1997-1998,26,1998-03-31,Wimbledon,Newcastle Utd,0,0,0.5
+1997-1998,29,1998-03-31,Blackburn,Barnsley,2,1,0.0
+1997-1998,32,1998-04-04,Wimbledon,Bolton,0,0,0.5
+1997-1998,32,1998-04-04,Leeds United,Barnsley,2,1,0.0
+1997-1998,32,1998-04-04,Aston Villa,West Ham,2,0,0.0
+1997-1998,32,1998-04-04,Leicester City,Coventry City,1,1,0.5
+1997-1998,32,1998-04-04,Tottenham,Everton,1,1,0.5
+1997-1998,32,1998-04-04,Sheffield Weds,Southampton,1,0,0.0
+1997-1998,32,1998-04-05,Derby County,Chelsea,0,1,1.0
+1997-1998,32,1998-04-06,Blackburn,Manchester Utd,1,3,1.0
+1997-1998,34,1998-04-08,Leeds United,Chelsea,3,1,0.0
+1997-1998,33,1998-04-10,Manchester Utd,Liverpool,1,1,0.5
+1997-1998,33,1998-04-11,Everton,Leeds United,2,0,0.0
+1997-1998,33,1998-04-11,Chelsea,Tottenham,2,0,0.0
+1997-1998,33,1998-04-11,Southampton,Wimbledon,0,1,1.0
+1997-1998,33,1998-04-11,Crystal Palace,Leicester City,0,3,1.0
+1997-1998,33,1998-04-11,Barnsley,Sheffield Weds,2,1,0.0
+1997-1998,33,1998-04-11,West Ham,Derby County,0,0,0.5
+1997-1998,33,1998-04-11,Arsenal,Newcastle Utd,3,1,0.0
+1997-1998,33,1998-04-11,Bolton,Blackburn,2,1,0.0
+1997-1998,33,1998-04-11,Coventry City,Aston Villa,1,2,1.0
+1997-1998,34,1998-04-13,Tottenham,Coventry City,1,1,0.5
+1997-1998,34,1998-04-13,Newcastle Utd,Barnsley,2,1,0.0
+1997-1998,34,1998-04-13,Sheffield Weds,West Ham,1,1,0.5
+1997-1998,34,1998-04-13,Derby County,Bolton,4,0,0.0
+1997-1998,34,1998-04-13,Liverpool,Crystal Palace,2,1,0.0
+1997-1998,34,1998-04-13,Blackburn,Arsenal,1,4,1.0
+1997-1998,34,1998-04-13,Wimbledon,Everton,0,0,0.5
+1997-1998,34,1998-04-14,Leicester City,Southampton,3,3,0.5
+1997-1998,35,1998-04-18,Crystal Palace,Derby County,3,1,0.0
+1997-1998,35,1998-04-18,Barnsley,Tottenham,1,1,0.5
+1997-1998,35,1998-04-18,Bolton,Leeds United,2,3,1.0
+1997-1998,35,1998-04-18,Manchester Utd,Newcastle Utd,1,1,0.5
+1997-1998,35,1998-04-18,Arsenal,Wimbledon,5,0,0.0
+1997-1998,35,1998-04-18,Everton,Leicester City,1,1,0.5
+1997-1998,35,1998-04-18,Southampton,Aston Villa,1,2,1.0
+1997-1998,35,1998-04-18,West Ham,Blackburn,2,1,0.0
+1997-1998,35,1998-04-19,Chelsea,Sheffield Weds,1,0,0.0
+1997-1998,35,1998-04-19,Coventry City,Liverpool,1,1,0.5
+1997-1998,36,1998-04-25,Blackburn,Wimbledon,0,0,0.5
+1997-1998,36,1998-04-25,Everton,Sheffield Weds,1,3,1.0
+1997-1998,36,1998-04-25,West Ham,Southampton,2,4,1.0
+1997-1998,36,1998-04-25,Aston Villa,Bolton,1,3,1.0
+1997-1998,36,1998-04-25,Leeds United,Coventry City,3,3,0.5
+1997-1998,36,1998-04-25,Barnsley,Arsenal,0,2,1.0
+1997-1998,36,1998-04-25,Chelsea,Liverpool,4,1,0.0
+1997-1998,36,1998-04-25,Tottenham,Newcastle Utd,2,0,0.0
+1997-1998,36,1998-04-26,Derby County,Leicester City,0,4,1.0
+1997-1998,36,1998-04-27,Crystal Palace,Manchester Utd,0,3,1.0
+1997-1998,29,1998-04-29,Leicester City,Newcastle Utd,0,0,0.5
+1997-1998,29,1998-04-29,Arsenal,Derby County,1,0,0.0
+1997-1998,29,1998-04-29,Coventry City,Wimbledon,0,0,0.5
+1997-1998,31,1998-04-29,Chelsea,Blackburn,0,1,1.0
+1997-1998,37,1998-05-02,Coventry City,Blackburn,2,0,0.0
+1997-1998,37,1998-05-02,Liverpool,West Ham,5,0,0.0
+1997-1998,37,1998-05-02,Leicester City,Barnsley,1,0,0.0
+1997-1998,37,1998-05-02,Wimbledon,Tottenham,2,6,1.0
+1997-1998,37,1998-05-02,Newcastle Utd,Chelsea,3,1,0.0
+1997-1998,37,1998-05-02,Sheffield Weds,Aston Villa,1,3,1.0
+1997-1998,37,1998-05-02,Southampton,Derby County,0,2,1.0
+1997-1998,37,1998-05-02,Bolton,Crystal Palace,5,2,0.0
+1997-1998,37,1998-05-03,Arsenal,Everton,4,0,0.0
+1997-1998,37,1998-05-04,Manchester Utd,Leeds United,3,0,0.0
+1997-1998,29,1998-05-05,Crystal Palace,West Ham,3,3,0.5
+1997-1998,32,1998-05-06,Liverpool,Arsenal,4,0,0.0
+1997-1998,38,1998-05-10,Derby County,Liverpool,1,0,0.0
+1997-1998,38,1998-05-10,West Ham,Leicester City,4,3,0.0
+1997-1998,38,1998-05-10,Crystal Palace,Sheffield Weds,1,0,0.0
+1997-1998,38,1998-05-10,Barnsley,Manchester Utd,0,2,1.0
+1997-1998,38,1998-05-10,Leeds United,Wimbledon,1,1,0.5
+1997-1998,38,1998-05-10,Aston Villa,Arsenal,1,0,0.0
+1997-1998,38,1998-05-10,Chelsea,Bolton,2,0,0.0
+1997-1998,38,1998-05-10,Everton,Coventry City,1,1,0.5
+1997-1998,38,1998-05-10,Blackburn,Newcastle Utd,1,0,0.0
+1997-1998,38,1998-05-10,Tottenham,Southampton,1,1,0.5

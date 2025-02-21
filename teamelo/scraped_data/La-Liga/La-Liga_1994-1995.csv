@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1994-1995,1,1994-09-03,Sevilla,Real Madrid,1,4,1.0
+1994-1995,1,1994-09-04,Logroñés,Real Betis,0,0,0.5
+1994-1995,1,1994-09-04,Albacete,Celta Vigo,1,1,0.5
+1994-1995,1,1994-09-04,Racing Sant,Valladolid,0,0,0.5
+1994-1995,1,1994-09-04,Zaragoza,Tenerife,2,2,0.5
+1994-1995,1,1994-09-04,Atlético Madrid,Valencia,2,4,1.0
+1994-1995,1,1994-09-04,Espanyol,Oviedo,4,2,0.0
+1994-1995,1,1994-09-04,Athletic Club,Dep La Coruña,0,2,1.0
+1994-1995,1,1994-09-04,Compostela,Real Sociedad,0,2,1.0
+1994-1995,1,1994-09-04,Sporting Gijón,Barcelona,2,1,0.0
+1994-1995,2,1994-09-10,Celta Vigo,Athletic Club,1,1,0.5
+1994-1995,2,1994-09-10,Tenerife,Atlético Madrid,1,0,0.0
+1994-1995,2,1994-09-10,Barcelona,Racing Sant,2,1,0.0
+1994-1995,2,1994-09-10,Real Madrid,Logroñés,2,0,0.0
+1994-1995,2,1994-09-10,Dep La Coruña,Sporting Gijón,2,1,0.0
+1994-1995,2,1994-09-11,Valladolid,Espanyol,0,4,1.0
+1994-1995,2,1994-09-11,Valencia,Sevilla,0,1,1.0
+1994-1995,2,1994-09-11,Oviedo,Compostela,2,2,0.5
+1994-1995,2,1994-09-11,Real Betis,Albacete,4,1,0.0
+1994-1995,2,1994-09-11,Real Sociedad,Zaragoza,1,2,1.0
+1994-1995,3,1994-09-17,Valencia,Tenerife,2,1,0.0
+1994-1995,3,1994-09-17,Espanyol,Barcelona,0,0,0.5
+1994-1995,3,1994-09-18,Albacete,Real Madrid,1,1,0.5
+1994-1995,3,1994-09-18,Racing Sant,Dep La Coruña,1,2,1.0
+1994-1995,3,1994-09-18,Atlético Madrid,Real Sociedad,2,1,0.0
+1994-1995,3,1994-09-18,Athletic Club,Real Betis,1,0,0.0
+1994-1995,3,1994-09-18,Zaragoza,Oviedo,2,1,0.0
+1994-1995,3,1994-09-18,Sporting Gijón,Celta Vigo,0,0,0.5
+1994-1995,3,1994-09-18,Sevilla,Logroñés,1,0,0.0
+1994-1995,3,1994-09-18,Compostela,Valladolid,1,0,0.0
+1994-1995,4,1994-09-24,Dep La Coruña,Espanyol,1,1,0.5
+1994-1995,4,1994-09-24,Valladolid,Zaragoza,2,0,0.0
+1994-1995,4,1994-09-24,Logroñés,Albacete,1,1,0.5
+1994-1995,4,1994-09-24,Real Madrid,Athletic Club,4,0,0.0
+1994-1995,4,1994-09-24,Barcelona,Compostela,4,0,0.0
+1994-1995,4,1994-09-25,Tenerife,Sevilla,0,0,0.5
+1994-1995,4,1994-09-25,Real Sociedad,Valencia,0,2,1.0
+1994-1995,4,1994-09-25,Celta Vigo,Racing Sant,2,1,0.0
+1994-1995,4,1994-09-25,Real Betis,Sporting Gijón,5,0,0.0
+1994-1995,4,1994-09-25,Oviedo,Atlético Madrid,1,0,0.0
+1994-1995,5,1994-10-01,Compostela,Dep La Coruña,0,1,1.0
+1994-1995,5,1994-10-01,Valencia,Oviedo,1,0,0.0
+1994-1995,5,1994-10-02,Athletic Club,Logroñés,1,0,0.0
+1994-1995,5,1994-10-02,Sevilla,Albacete,0,2,1.0
+1994-1995,5,1994-10-02,Zaragoza,Barcelona,2,1,0.0
+1994-1995,5,1994-10-02,Racing Sant,Real Betis,0,0,0.5
+1994-1995,5,1994-10-02,Espanyol,Celta Vigo,0,0,0.5
+1994-1995,5,1994-10-02,Tenerife,Real Sociedad,3,0,0.0
+1994-1995,5,1994-10-02,Sporting Gijón,Real Madrid,1,0,0.0
+1994-1995,5,1994-10-02,Atlético Madrid,Valladolid,6,0,0.0
+1994-1995,6,1994-10-08,Barcelona,Atlético Madrid,4,3,0.0
+1994-1995,6,1994-10-09,Logroñés,Sporting Gijón,1,3,1.0
+1994-1995,6,1994-10-09,Valladolid,Valencia,2,0,0.0
+1994-1995,6,1994-10-09,Real Betis,Espanyol,3,1,0.0
+1994-1995,6,1994-10-09,Albacete,Athletic Club,1,2,1.0
+1994-1995,6,1994-10-09,Dep La Coruña,Zaragoza,3,3,0.5
+1994-1995,6,1994-10-09,Oviedo,Tenerife,1,2,1.0
+1994-1995,6,1994-10-09,Real Madrid,Racing Sant,3,1,0.0
+1994-1995,6,1994-10-09,Celta Vigo,Compostela,1,2,1.0
+1994-1995,6,1994-10-09,Real Sociedad,Sevilla,0,0,0.5
+1994-1995,7,1994-10-15,Atlético Madrid,Dep La Coruña,1,1,0.5
+1994-1995,7,1994-10-15,Sevilla,Athletic Club,0,0,0.5
+1994-1995,7,1994-10-15,Espanyol,Real Madrid,1,2,1.0
+1994-1995,7,1994-10-15,Valencia,Barcelona,1,2,1.0
+1994-1995,7,1994-10-16,Compostela,Real Betis,1,1,0.5
+1994-1995,7,1994-10-16,Racing Sant,Logroñés,3,0,0.0
+1994-1995,7,1994-10-16,Sporting Gijón,Albacete,3,2,0.0
+1994-1995,7,1994-10-16,Zaragoza,Celta Vigo,4,0,0.0
+1994-1995,7,1994-10-16,Tenerife,Valladolid,0,0,0.5
+1994-1995,7,1994-10-16,Real Sociedad,Oviedo,3,1,0.0
+1994-1995,8,1994-10-22,Celta Vigo,Atlético Madrid,1,0,0.0
+1994-1995,8,1994-10-23,Oviedo,Sevilla,1,0,0.0
+1994-1995,8,1994-10-23,Real Madrid,Compostela,1,1,0.5
+1994-1995,8,1994-10-23,Albacete,Racing Sant,2,0,0.0
+1994-1995,8,1994-10-23,Barcelona,Tenerife,1,0,0.0
+1994-1995,8,1994-10-23,Valladolid,Real Sociedad,1,1,0.5
+1994-1995,8,1994-10-23,Athletic Club,Sporting Gijón,2,0,0.0
+1994-1995,8,1994-10-23,Real Betis,Zaragoza,0,1,1.0
+1994-1995,8,1994-10-23,Logroñés,Espanyol,1,1,0.5
+1994-1995,8,1994-10-23,Dep La Coruña,Valencia,3,1,0.0
+1994-1995,9,1994-10-29,Zaragoza,Real Madrid,3,2,0.0
+1994-1995,9,1994-10-29,Real Sociedad,Barcelona,1,1,0.5
+1994-1995,9,1994-10-29,Valencia,Celta Vigo,1,0,0.0
+1994-1995,9,1994-10-29,Tenerife,Dep La Coruña,1,1,0.5
+1994-1995,9,1994-10-29,Racing Sant,Athletic Club,0,2,1.0
+1994-1995,9,1994-10-30,Compostela,Logroñés,2,0,0.0
+1994-1995,9,1994-10-30,Sevilla,Sporting Gijón,5,1,0.0
+1994-1995,9,1994-10-30,Espanyol,Albacete,5,1,0.0
+1994-1995,9,1994-10-30,Oviedo,Valladolid,1,0,0.0
+1994-1995,9,1994-10-30,Atlético Madrid,Real Betis,0,2,1.0
+1994-1995,10,1994-11-05,Real Madrid,Atlético Madrid,4,2,0.0
+1994-1995,10,1994-11-06,Sporting Gijón,Racing Sant,2,3,1.0
+1994-1995,10,1994-11-06,Logroñés,Zaragoza,0,0,0.5
+1994-1995,10,1994-11-06,Barcelona,Oviedo,1,0,0.0
+1994-1995,10,1994-11-06,Valladolid,Sevilla,0,4,1.0
+1994-1995,10,1994-11-06,Athletic Club,Espanyol,1,3,1.0
+1994-1995,10,1994-11-06,Dep La Coruña,Real Sociedad,3,1,0.0
+1994-1995,10,1994-11-06,Albacete,Compostela,1,3,1.0
+1994-1995,10,1994-11-06,Real Betis,Valencia,1,1,0.5
+1994-1995,10,1994-11-06,Celta Vigo,Tenerife,3,2,0.0
+1994-1995,11,1994-11-19,Compostela,Athletic Club,0,1,1.0
+1994-1995,11,1994-11-19,Valencia,Real Madrid,1,2,1.0
+1994-1995,11,1994-11-19,Valladolid,Barcelona,1,3,1.0
+1994-1995,11,1994-11-19,Oviedo,Dep La Coruña,2,0,0.0
+1994-1995,11,1994-11-20,Tenerife,Real Betis,1,4,1.0
+1994-1995,11,1994-11-20,Real Sociedad,Celta Vigo,2,3,1.0
+1994-1995,11,1994-11-20,Sevilla,Racing Sant,1,3,1.0
+1994-1995,11,1994-11-20,Espanyol,Sporting Gijón,1,1,0.5
+1994-1995,11,1994-11-20,Atlético Madrid,Logroñés,3,0,0.0
+1994-1995,11,1994-11-20,Zaragoza,Albacete,1,0,0.0
+1994-1995,12,1994-11-26,Real Betis,Real Sociedad,0,0,0.5
+1994-1995,12,1994-11-27,Celta Vigo,Oviedo,0,0,0.5
+1994-1995,12,1994-11-27,Real Madrid,Tenerife,4,2,0.0
+1994-1995,12,1994-11-27,Barcelona,Sevilla,0,1,1.0
+1994-1995,12,1994-11-27,Albacete,Atlético Madrid,2,2,0.5
+1994-1995,12,1994-11-27,Dep La Coruña,Valladolid,4,0,0.0
+1994-1995,12,1994-11-27,Logroñés,Valencia,2,2,0.5
+1994-1995,12,1994-11-27,Sporting Gijón,Compostela,1,1,0.5
+1994-1995,12,1994-11-27,Racing Sant,Espanyol,0,0,0.5
+1994-1995,12,1994-11-27,Athletic Club,Zaragoza,1,0,0.0
+1994-1995,13,1994-12-03,Barcelona,Dep La Coruña,1,1,0.5
+1994-1995,13,1994-12-03,Valencia,Albacete,3,3,0.5
+1994-1995,13,1994-12-03,Real Sociedad,Real Madrid,1,1,0.5
+1994-1995,13,1994-12-03,Atlético Madrid,Athletic Club,2,1,0.0
+1994-1995,13,1994-12-04,Oviedo,Real Betis,0,0,0.5
+1994-1995,13,1994-12-04,Compostela,Racing Sant,2,1,0.0
+1994-1995,13,1994-12-04,Sevilla,Espanyol,3,0,0.0
+1994-1995,13,1994-12-04,Tenerife,Logroñés,4,0,0.0
+1994-1995,13,1994-12-04,Valladolid,Celta Vigo,1,1,0.5
+1994-1995,13,1994-12-04,Zaragoza,Sporting Gijón,3,2,0.0
+1994-1995,14,1994-12-10,Athletic Club,Valencia,2,1,0.0
+1994-1995,14,1994-12-11,Albacete,Tenerife,2,1,0.0
+1994-1995,14,1994-12-11,Sporting Gijón,Atlético Madrid,0,2,1.0
+1994-1995,14,1994-12-11,Celta Vigo,Barcelona,2,4,1.0
+1994-1995,14,1994-12-11,Dep La Coruña,Sevilla,5,1,0.0
+1994-1995,14,1994-12-11,Real Madrid,Oviedo,2,0,0.0
+1994-1995,14,1994-12-11,Racing Sant,Zaragoza,0,1,1.0
+1994-1995,14,1994-12-11,Logroñés,Real Sociedad,0,4,1.0
+1994-1995,14,1994-12-11,Espanyol,Compostela,2,0,0.0
+1994-1995,14,1994-12-11,Real Betis,Valladolid,1,2,1.0
+1994-1995,15,1994-12-21,Dep La Coruña,Celta Vigo,1,2,1.0
+1994-1995,15,1994-12-21,Real Sociedad,Albacete,2,0,0.0
+1994-1995,15,1994-12-21,Sevilla,Compostela,3,0,0.0
+1994-1995,15,1994-12-21,Barcelona,Real Betis,1,1,0.5
+1994-1995,15,1994-12-21,Tenerife,Athletic Club,1,0,0.0
+1994-1995,15,1994-12-21,Valencia,Sporting Gijón,0,0,0.5
+1994-1995,15,1994-12-21,Oviedo,Logroñés,1,0,0.0
+1994-1995,15,1994-12-21,Zaragoza,Espanyol,1,0,0.0
+1994-1995,15,1994-12-21,Atlético Madrid,Racing Sant,0,1,1.0
+1994-1995,15,1994-12-22,Valladolid,Real Madrid,0,5,1.0
+1994-1995,16,1995-01-07,Real Madrid,Barcelona,5,0,0.0
+1994-1995,16,1995-01-08,Logroñés,Valladolid,0,0,0.5
+1994-1995,16,1995-01-08,Espanyol,Atlético Madrid,2,0,0.0
+1994-1995,16,1995-01-08,Compostela,Zaragoza,3,2,0.0
+1994-1995,16,1995-01-08,Real Betis,Dep La Coruña,0,0,0.5
+1994-1995,16,1995-01-08,Sporting Gijón,Tenerife,1,1,0.5
+1994-1995,16,1995-01-08,Athletic Club,Real Sociedad,0,0,0.5
+1994-1995,16,1995-01-08,Racing Sant,Valencia,3,2,0.0
+1994-1995,16,1995-01-08,Celta Vigo,Sevilla,0,0,0.5
+1994-1995,16,1995-01-08,Albacete,Oviedo,1,0,0.0
+1994-1995,17,1995-01-14,Dep La Coruña,Real Madrid,0,0,0.5
+1994-1995,17,1995-01-15,Valladolid,Albacete,1,1,0.5
+1994-1995,17,1995-01-15,Tenerife,Racing Sant,3,0,0.0
+1994-1995,17,1995-01-15,Real Sociedad,Sporting Gijón,2,2,0.5
+1994-1995,17,1995-01-15,Atlético Madrid,Compostela,1,1,0.5
+1994-1995,17,1995-01-15,Oviedo,Athletic Club,1,1,0.5
+1994-1995,17,1995-01-15,Barcelona,Logroñés,3,0,0.0
+1994-1995,17,1995-01-15,Sevilla,Zaragoza,2,1,0.0
+1994-1995,17,1995-01-15,Celta Vigo,Real Betis,0,2,1.0
+1994-1995,17,1995-01-15,Valencia,Espanyol,0,0,0.5
+1994-1995,18,1995-01-21,Logroñés,Dep La Coruña,0,1,1.0
+1994-1995,18,1995-01-22,Albacete,Barcelona,2,2,0.5
+1994-1995,18,1995-01-22,Espanyol,Tenerife,0,0,0.5
+1994-1995,18,1995-01-22,Athletic Club,Valladolid,1,1,0.5
+1994-1995,18,1995-01-22,Sporting Gijón,Oviedo,1,1,0.5
+1994-1995,18,1995-01-22,Compostela,Valencia,1,1,0.5
+1994-1995,18,1995-01-22,Racing Sant,Real Sociedad,0,0,0.5
+1994-1995,18,1995-01-22,Real Madrid,Celta Vigo,4,0,0.0
+1994-1995,18,1995-01-22,Zaragoza,Atlético Madrid,3,1,0.0
+1994-1995,18,1995-01-22,Sevilla,Real Betis,0,1,1.0
+1994-1995,19,1995-01-28,Barcelona,Athletic Club,1,0,0.0
+1994-1995,19,1995-01-29,Tenerife,Compostela,2,0,0.0
+1994-1995,19,1995-01-29,Valladolid,Sporting Gijón,2,0,0.0
+1994-1995,19,1995-01-29,Real Sociedad,Espanyol,2,0,0.0
+1994-1995,19,1995-01-29,Oviedo,Racing Sant,3,1,0.0
+1994-1995,19,1995-01-29,Celta Vigo,Logroñés,0,1,1.0
+1994-1995,19,1995-01-29,Atlético Madrid,Sevilla,2,2,0.5
+1994-1995,19,1995-01-29,Real Betis,Real Madrid,0,0,0.5
+1994-1995,19,1995-01-29,Dep La Coruña,Albacete,2,1,0.0
+1994-1995,19,1995-01-29,Valencia,Zaragoza,3,0,0.0
+1994-1995,20,1995-02-04,Dep La Coruña,Athletic Club,0,0,0.5
+1994-1995,20,1995-02-05,Valladolid,Racing Sant,1,1,0.5
+1994-1995,20,1995-02-05,Barcelona,Sporting Gijón,3,1,0.0
+1994-1995,20,1995-02-05,Tenerife,Zaragoza,2,0,0.0
+1994-1995,20,1995-02-05,Real Madrid,Sevilla,2,0,0.0
+1994-1995,20,1995-02-05,Real Betis,Logroñés,1,0,0.0
+1994-1995,20,1995-02-05,Valencia,Atlético Madrid,0,0,0.5
+1994-1995,20,1995-02-05,Real Sociedad,Compostela,1,1,0.5
+1994-1995,20,1995-02-05,Celta Vigo,Albacete,0,0,0.5
+1994-1995,20,1995-02-05,Oviedo,Espanyol,3,0,0.0
+1994-1995,21,1995-02-11,Racing Sant,Barcelona,5,0,0.0
+1994-1995,21,1995-02-11,Atlético Madrid,Tenerife,3,1,0.0
+1994-1995,21,1995-02-12,Albacete,Real Betis,3,1,0.0
+1994-1995,21,1995-02-12,Sevilla,Valencia,1,1,0.5
+1994-1995,21,1995-02-12,Sporting Gijón,Dep La Coruña,3,1,0.0
+1994-1995,21,1995-02-12,Logroñés,Real Madrid,1,4,1.0
+1994-1995,21,1995-02-12,Athletic Club,Celta Vigo,1,1,0.5
+1994-1995,21,1995-02-12,Compostela,Oviedo,1,1,0.5
+1994-1995,21,1995-02-12,Espanyol,Valladolid,3,0,0.0
+1994-1995,21,1995-02-12,Zaragoza,Real Sociedad,1,1,0.5
+1994-1995,22,1995-02-18,Barcelona,Espanyol,3,0,0.0
+1994-1995,22,1995-02-19,Celta Vigo,Sporting Gijón,2,0,0.0
+1994-1995,22,1995-02-19,Valladolid,Compostela,2,0,0.0
+1994-1995,22,1995-02-19,Real Betis,Athletic Club,0,0,0.5
+1994-1995,22,1995-02-19,Dep La Coruña,Racing Sant,3,0,0.0
+1994-1995,22,1995-02-19,Real Madrid,Albacete,0,0,0.5
+1994-1995,22,1995-02-19,Tenerife,Valencia,1,2,1.0
+1994-1995,22,1995-02-19,Logroñés,Sevilla,0,2,1.0
+1994-1995,22,1995-02-19,Real Sociedad,Atlético Madrid,3,1,0.0
+1994-1995,22,1995-02-19,Oviedo,Zaragoza,2,1,0.0
+1994-1995,23,1995-02-25,Zaragoza,Valladolid,1,0,0.0
+1994-1995,23,1995-02-25,Sporting Gijón,Real Betis,1,1,0.5
+1994-1995,23,1995-02-25,Compostela,Barcelona,1,2,1.0
+1994-1995,23,1995-02-26,Albacete,Logroñés,0,0,0.5
+1994-1995,23,1995-02-26,Espanyol,Dep La Coruña,1,0,0.0
+1994-1995,23,1995-02-26,Atlético Madrid,Oviedo,3,3,0.5
+1994-1995,23,1995-02-26,Racing Sant,Celta Vigo,2,0,0.0
+1994-1995,23,1995-02-26,Sevilla,Tenerife,1,2,1.0
+1994-1995,23,1995-02-26,Valencia,Real Sociedad,4,2,0.0
+1994-1995,23,1995-02-26,Athletic Club,Real Madrid,1,1,0.5
+1994-1995,24,1995-03-04,Oviedo,Valencia,1,0,0.0
+1994-1995,24,1995-03-05,Albacete,Sevilla,1,1,0.5
+1994-1995,24,1995-03-05,Logroñés,Athletic Club,0,1,1.0
+1994-1995,24,1995-03-05,Real Madrid,Sporting Gijón,4,0,0.0
+1994-1995,24,1995-03-05,Real Sociedad,Tenerife,5,2,0.0
+1994-1995,24,1995-03-05,Valladolid,Atlético Madrid,0,1,1.0
+1994-1995,24,1995-03-05,Dep La Coruña,Compostela,1,0,0.0
+1994-1995,24,1995-03-05,Real Betis,Racing Sant,2,0,0.0
+1994-1995,24,1995-03-05,Celta Vigo,Espanyol,1,2,1.0
+1994-1995,24,1995-03-05,Barcelona,Zaragoza,3,0,0.0
+1994-1995,25,1995-03-11,Atlético Madrid,Barcelona,2,0,0.0
+1994-1995,25,1995-03-12,Valencia,Valladolid,3,0,0.0
+1994-1995,25,1995-03-12,Sevilla,Real Sociedad,2,0,0.0
+1994-1995,25,1995-03-12,Tenerife,Oviedo,1,1,0.5
+1994-1995,25,1995-03-12,Athletic Club,Albacete,1,2,1.0
+1994-1995,25,1995-03-12,Zaragoza,Dep La Coruña,1,0,0.0
+1994-1995,25,1995-03-12,Compostela,Celta Vigo,2,0,0.0
+1994-1995,25,1995-03-12,Espanyol,Real Betis,0,0,0.5
+1994-1995,25,1995-03-12,Racing Sant,Real Madrid,3,1,0.0
+1994-1995,25,1995-03-12,Sporting Gijón,Logroñés,2,2,0.5
+1994-1995,26,1995-03-18,Athletic Club,Sevilla,0,2,1.0
+1994-1995,26,1995-03-18,Dep La Coruña,Atlético Madrid,0,1,1.0
+1994-1995,26,1995-03-19,Albacete,Sporting Gijón,1,2,1.0
+1994-1995,26,1995-03-19,Oviedo,Real Sociedad,3,0,0.0
+1994-1995,26,1995-03-19,Real Betis,Compostela,1,0,0.0
+1994-1995,26,1995-03-19,Logroñés,Racing Sant,0,1,1.0
+1994-1995,26,1995-03-19,Celta Vigo,Zaragoza,0,0,0.5
+1994-1995,26,1995-03-19,Valladolid,Tenerife,1,4,1.0
+1994-1995,26,1995-03-19,Barcelona,Valencia,0,0,0.5
+1994-1995,26,1995-03-19,Real Madrid,Espanyol,1,0,0.0
+1994-1995,27,1995-04-01,Valencia,Dep La Coruña,1,2,1.0
+1994-1995,27,1995-04-01,Zaragoza,Real Betis,3,0,0.0
+1994-1995,27,1995-04-02,Espanyol,Logroñés,2,0,0.0
+1994-1995,27,1995-04-02,Compostela,Real Madrid,1,1,0.5
+1994-1995,27,1995-04-02,Tenerife,Barcelona,2,1,0.0
+1994-1995,27,1995-04-02,Racing Sant,Albacete,2,1,0.0
+1994-1995,27,1995-04-02,Sporting Gijón,Athletic Club,1,1,0.5
+1994-1995,27,1995-04-02,Atlético Madrid,Celta Vigo,0,2,1.0
+1994-1995,27,1995-04-02,Sevilla,Oviedo,1,1,0.5
+1994-1995,27,1995-04-02,Real Sociedad,Valladolid,3,0,0.0
+1994-1995,28,1995-04-08,Real Betis,Atlético Madrid,2,0,0.0
+1994-1995,28,1995-04-09,Valladolid,Oviedo,2,1,0.0
+1994-1995,28,1995-04-09,Albacete,Espanyol,1,1,0.5
+1994-1995,28,1995-04-09,Barcelona,Real Sociedad,1,1,0.5
+1994-1995,28,1995-04-09,Dep La Coruña,Tenerife,4,1,0.0
+1994-1995,28,1995-04-09,Sporting Gijón,Sevilla,3,0,0.0
+1994-1995,28,1995-04-09,Real Madrid,Zaragoza,3,0,0.0
+1994-1995,28,1995-04-09,Logroñés,Compostela,0,4,1.0
+1994-1995,28,1995-04-09,Celta Vigo,Valencia,0,0,0.5
+1994-1995,28,1995-04-09,Athletic Club,Racing Sant,2,0,0.0
+1994-1995,29,1995-04-15,Zaragoza,Logroñés,3,0,0.0
+1994-1995,29,1995-04-15,Atlético Madrid,Real Madrid,0,2,1.0
+1994-1995,29,1995-04-16,Racing Sant,Sporting Gijón,0,0,0.5
+1994-1995,29,1995-04-16,Valencia,Real Betis,2,1,0.0
+1994-1995,29,1995-04-16,Oviedo,Barcelona,0,0,0.5
+1994-1995,29,1995-04-16,Tenerife,Celta Vigo,3,0,0.0
+1994-1995,29,1995-04-16,Compostela,Albacete,0,0,0.5
+1994-1995,29,1995-04-16,Espanyol,Athletic Club,3,1,0.0
+1994-1995,29,1995-04-16,Sevilla,Valladolid,1,0,0.0
+1994-1995,29,1995-04-16,Real Sociedad,Dep La Coruña,1,3,1.0
+1994-1995,30,1995-04-22,Real Madrid,Valencia,3,1,0.0
+1994-1995,30,1995-04-23,Sporting Gijón,Espanyol,0,0,0.5
+1994-1995,30,1995-04-23,Athletic Club,Compostela,1,0,0.0
+1994-1995,30,1995-04-23,Barcelona,Valladolid,4,1,0.0
+1994-1995,30,1995-04-23,Real Betis,Tenerife,3,0,0.0
+1994-1995,30,1995-04-23,Logroñés,Atlético Madrid,0,0,0.5
+1994-1995,30,1995-04-23,Dep La Coruña,Oviedo,2,2,0.5
+1994-1995,30,1995-04-23,Racing Sant,Sevilla,0,3,1.0
+1994-1995,30,1995-04-23,Albacete,Zaragoza,0,3,1.0
+1994-1995,30,1995-04-23,Celta Vigo,Real Sociedad,2,1,0.0
+1994-1995,31,1995-04-29,Zaragoza,Athletic Club,1,4,1.0
+1994-1995,31,1995-04-30,Real Sociedad,Real Betis,1,1,0.5
+1994-1995,31,1995-04-30,Compostela,Sporting Gijón,3,2,0.0
+1994-1995,31,1995-04-30,Espanyol,Racing Sant,2,0,0.0
+1994-1995,31,1995-04-30,Valladolid,Dep La Coruña,0,0,0.5
+1994-1995,31,1995-04-30,Oviedo,Celta Vigo,2,2,0.5
+1994-1995,31,1995-04-30,Valencia,Logroñés,3,0,0.0
+1994-1995,31,1995-04-30,Sevilla,Barcelona,4,2,0.0
+1994-1995,31,1995-04-30,Atlético Madrid,Albacete,4,0,0.0
+1994-1995,31,1995-04-30,Tenerife,Real Madrid,0,1,1.0
+1994-1995,32,1995-05-06,Sporting Gijón,Zaragoza,1,3,1.0
+1994-1995,32,1995-05-06,Dep La Coruña,Barcelona,1,0,0.0
+1994-1995,32,1995-05-07,Celta Vigo,Valladolid,1,0,0.0
+1994-1995,32,1995-05-07,Real Betis,Oviedo,0,0,0.5
+1994-1995,32,1995-05-07,Athletic Club,Atlético Madrid,3,1,0.0
+1994-1995,32,1995-05-07,Espanyol,Sevilla,2,2,0.5
+1994-1995,32,1995-05-07,Albacete,Valencia,1,0,0.0
+1994-1995,32,1995-05-07,Real Madrid,Real Sociedad,0,0,0.5
+1994-1995,32,1995-05-07,Logroñés,Tenerife,4,2,0.0
+1994-1995,32,1995-05-07,Racing Sant,Compostela,2,2,0.5
+1994-1995,33,1995-05-13,Valencia,Athletic Club,3,1,0.0
+1994-1995,33,1995-05-13,Sevilla,Dep La Coruña,0,0,0.5
+1994-1995,33,1995-05-14,Oviedo,Real Madrid,3,2,0.0
+1994-1995,33,1995-05-14,Valladolid,Real Betis,0,2,1.0
+1994-1995,33,1995-05-14,Zaragoza,Racing Sant,1,1,0.5
+1994-1995,33,1995-05-14,Tenerife,Albacete,2,2,0.5
+1994-1995,33,1995-05-14,Real Sociedad,Logroñés,6,0,0.0
+1994-1995,33,1995-05-14,Atlético Madrid,Sporting Gijón,3,2,0.0
+1994-1995,33,1995-05-14,Barcelona,Celta Vigo,1,1,0.5
+1994-1995,33,1995-05-14,Compostela,Espanyol,1,1,0.5
+1994-1995,34,1995-05-20,Espanyol,Zaragoza,2,0,0.0
+1994-1995,34,1995-05-21,Athletic Club,Tenerife,3,2,0.0
+1994-1995,34,1995-05-21,Logroñés,Oviedo,0,2,1.0
+1994-1995,34,1995-05-21,Real Betis,Barcelona,1,1,0.5
+1994-1995,34,1995-05-21,Compostela,Sevilla,0,4,1.0
+1994-1995,34,1995-05-21,Racing Sant,Atlético Madrid,0,0,0.5
+1994-1995,34,1995-05-21,Albacete,Real Sociedad,0,1,1.0
+1994-1995,34,1995-05-21,Celta Vigo,Dep La Coruña,0,2,1.0
+1994-1995,34,1995-05-21,Sporting Gijón,Valencia,1,0,0.0
+1994-1995,34,1995-05-21,Real Madrid,Valladolid,1,0,0.0
+1994-1995,35,1995-05-27,Dep La Coruña,Real Betis,2,0,0.0
+1994-1995,35,1995-05-27,Oviedo,Albacete,1,3,1.0
+1994-1995,35,1995-05-27,Barcelona,Real Madrid,1,0,0.0
+1994-1995,35,1995-05-27,Valencia,Racing Sant,1,1,0.5
+1994-1995,35,1995-05-27,Tenerife,Sporting Gijón,3,0,0.0
+1994-1995,35,1995-05-28,Atlético Madrid,Espanyol,3,1,0.0
+1994-1995,35,1995-05-28,Valladolid,Logroñés,2,1,0.0
+1994-1995,35,1995-05-28,Zaragoza,Compostela,5,3,0.0
+1994-1995,35,1995-05-28,Sevilla,Celta Vigo,2,3,1.0
+1994-1995,35,1995-05-28,Real Sociedad,Athletic Club,5,0,0.0
+1994-1995,36,1995-06-03,Real Madrid,Dep La Coruña,2,1,0.0
+1994-1995,36,1995-06-03,Espanyol,Valencia,5,0,0.0
+1994-1995,36,1995-06-04,Athletic Club,Oviedo,1,0,0.0
+1994-1995,36,1995-06-04,Logroñés,Barcelona,1,4,1.0
+1994-1995,36,1995-06-04,Sporting Gijón,Real Sociedad,1,2,1.0
+1994-1995,36,1995-06-04,Albacete,Valladolid,1,0,0.0
+1994-1995,36,1995-06-04,Real Betis,Celta Vigo,1,1,0.5
+1994-1995,36,1995-06-04,Racing Sant,Tenerife,2,1,0.0
+1994-1995,36,1995-06-04,Zaragoza,Sevilla,0,1,1.0
+1994-1995,36,1995-06-04,Compostela,Atlético Madrid,2,1,0.0
+1994-1995,37,1995-06-10,Celta Vigo,Real Madrid,0,2,1.0
+1994-1995,37,1995-06-10,Barcelona,Albacete,0,1,1.0
+1994-1995,37,1995-06-10,Valencia,Compostela,4,1,0.0
+1994-1995,37,1995-06-10,Dep La Coruña,Logroñés,5,0,0.0
+1994-1995,37,1995-06-11,Oviedo,Sporting Gijón,1,0,0.0
+1994-1995,37,1995-06-11,Atlético Madrid,Zaragoza,2,0,0.0
+1994-1995,37,1995-06-11,Real Betis,Sevilla,2,1,0.0
+1994-1995,37,1995-06-11,Valladolid,Athletic Club,0,1,1.0
+1994-1995,37,1995-06-11,Tenerife,Espanyol,1,1,0.5
+1994-1995,37,1995-06-11,Real Sociedad,Racing Sant,0,1,1.0
+1994-1995,38,1995-06-17,Sporting Gijón,Valladolid,1,3,1.0
+1994-1995,38,1995-06-18,Racing Sant,Oviedo,2,0,0.0
+1994-1995,38,1995-06-18,Real Madrid,Real Betis,0,2,1.0
+1994-1995,38,1995-06-18,Espanyol,Real Sociedad,0,0,0.5
+1994-1995,38,1995-06-18,Albacete,Dep La Coruña,2,8,1.0
+1994-1995,38,1995-06-18,Zaragoza,Valencia,2,2,0.5
+1994-1995,38,1995-06-18,Compostela,Tenerife,2,0,0.0
+1994-1995,38,1995-06-18,Sevilla,Atlético Madrid,2,2,0.5
+1994-1995,38,1995-06-18,Athletic Club,Barcelona,0,2,1.0
+1994-1995,38,1995-06-18,Logroñés,Celta Vigo,0,3,1.0

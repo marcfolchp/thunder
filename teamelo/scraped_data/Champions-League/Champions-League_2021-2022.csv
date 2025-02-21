@@ -1,0 +1,126 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2021-2022,Group stage,1,2021-09-14,Sevilla,RB Salzburg,es,at,1,1,0.5
+2021-2022,Group stage,1,2021-09-14,Young Boys,Manchester Utd,ch,eng,2,1,0.0
+2021-2022,Group stage,1,2021-09-14,Chelsea,Zenit,eng,ru,1,0,0.0
+2021-2022,Group stage,1,2021-09-14,Villarreal,Atalanta,es,it,2,2,0.5
+2021-2022,Group stage,1,2021-09-14,Barcelona,Bayern Munich,es,de,0,3,1.0
+2021-2022,Group stage,1,2021-09-14,Lille,Wolfsburg,fr,de,0,0,0.5
+2021-2022,Group stage,1,2021-09-14,Malmö,Juventus,se,it,0,3,1.0
+2021-2022,Group stage,1,2021-09-14,Dynamo Kyiv,Benfica,ua,pt,0,0,0.5
+2021-2022,Group stage,1,2021-09-15,Sheriff Tiraspol,Shakhtar,md,ua,2,0,0.0
+2021-2022,Group stage,1,2021-09-15,Beşiktaş,Dortmund,tr,de,1,2,1.0
+2021-2022,Group stage,1,2021-09-15,Sporting CP,Ajax,pt,nl,1,5,1.0
+2021-2022,Group stage,1,2021-09-15,Manchester City,RB Leipzig,eng,de,6,3,0.0
+2021-2022,Group stage,1,2021-09-15,Liverpool,Milan,eng,it,3,2,0.0
+2021-2022,Group stage,1,2021-09-15,Inter,Real Madrid,it,es,0,1,1.0
+2021-2022,Group stage,1,2021-09-15,Club Brugge,Paris S-G,be,fr,1,1,0.5
+2021-2022,Group stage,1,2021-09-15,Atlético Madrid,Porto,es,pt,0,0,0.5
+2021-2022,Group stage,2,2021-09-28,Ajax,Beşiktaş,nl,tr,2,0,0.0
+2021-2022,Group stage,2,2021-09-28,Shakhtar,Inter,ua,it,0,0,0.5
+2021-2022,Group stage,2,2021-09-28,Porto,Liverpool,pt,eng,1,5,1.0
+2021-2022,Group stage,2,2021-09-28,Real Madrid,Sheriff Tiraspol,es,md,1,2,1.0
+2021-2022,Group stage,2,2021-09-28,RB Leipzig,Club Brugge,de,be,1,2,1.0
+2021-2022,Group stage,2,2021-09-28,Dortmund,Sporting CP,de,pt,1,0,0.0
+2021-2022,Group stage,2,2021-09-28,Paris S-G,Manchester City,fr,eng,2,0,0.0
+2021-2022,Group stage,2,2021-09-28,Milan,Atlético Madrid,it,es,1,2,1.0
+2021-2022,Group stage,2,2021-09-29,Atalanta,Young Boys,it,ch,1,0,0.0
+2021-2022,Group stage,2,2021-09-29,Zenit,Malmö,ru,se,4,0,0.0
+2021-2022,Group stage,2,2021-09-29,Manchester Utd,Villarreal,eng,es,2,1,0.0
+2021-2022,Group stage,2,2021-09-29,Benfica,Barcelona,pt,es,3,0,0.0
+2021-2022,Group stage,2,2021-09-29,RB Salzburg,Lille,at,fr,2,1,0.0
+2021-2022,Group stage,2,2021-09-29,Juventus,Chelsea,it,eng,1,0,0.0
+2021-2022,Group stage,2,2021-09-29,Bayern Munich,Dynamo Kyiv,de,ua,5,0,0.0
+2021-2022,Group stage,2,2021-09-29,Wolfsburg,Sevilla,de,es,1,1,0.5
+2021-2022,Group stage,3,2021-10-19,Club Brugge,Manchester City,be,eng,1,5,1.0
+2021-2022,Group stage,3,2021-10-19,Beşiktaş,Sporting CP,tr,pt,1,4,1.0
+2021-2022,Group stage,3,2021-10-19,Porto,Milan,pt,it,1,0,0.0
+2021-2022,Group stage,3,2021-10-19,Atlético Madrid,Liverpool,es,eng,2,3,1.0
+2021-2022,Group stage,3,2021-10-19,Inter,Sheriff Tiraspol,it,md,3,1,0.0
+2021-2022,Group stage,3,2021-10-19,Paris S-G,RB Leipzig,fr,de,3,2,0.0
+2021-2022,Group stage,3,2021-10-19,Ajax,Dortmund,nl,de,4,0,0.0
+2021-2022,Group stage,3,2021-10-19,Shakhtar,Real Madrid,ua,es,0,5,1.0
+2021-2022,Group stage,3,2021-10-20,RB Salzburg,Wolfsburg,at,de,3,1,0.0
+2021-2022,Group stage,3,2021-10-20,Barcelona,Dynamo Kyiv,es,ua,1,0,0.0
+2021-2022,Group stage,3,2021-10-20,Manchester Utd,Atalanta,eng,it,3,2,0.0
+2021-2022,Group stage,3,2021-10-20,Benfica,Bayern Munich,pt,de,0,4,1.0
+2021-2022,Group stage,3,2021-10-20,Chelsea,Malmö,eng,se,4,0,0.0
+2021-2022,Group stage,3,2021-10-20,Lille,Sevilla,fr,es,0,0,0.5
+2021-2022,Group stage,3,2021-10-20,Young Boys,Villarreal,ch,es,1,4,1.0
+2021-2022,Group stage,3,2021-10-20,Zenit,Juventus,ru,it,0,1,1.0
+2021-2022,Group stage,4,2021-11-02,Wolfsburg,RB Salzburg,de,at,2,1,0.0
+2021-2022,Group stage,4,2021-11-02,Malmö,Chelsea,se,eng,0,1,1.0
+2021-2022,Group stage,4,2021-11-02,Bayern Munich,Benfica,de,pt,5,2,0.0
+2021-2022,Group stage,4,2021-11-02,Atalanta,Manchester Utd,it,eng,2,2,0.5
+2021-2022,Group stage,4,2021-11-02,Villarreal,Young Boys,es,ch,2,0,0.0
+2021-2022,Group stage,4,2021-11-02,Juventus,Zenit,it,ru,4,2,0.0
+2021-2022,Group stage,4,2021-11-02,Sevilla,Lille,es,fr,1,2,1.0
+2021-2022,Group stage,4,2021-11-02,Dynamo Kyiv,Barcelona,ua,es,0,1,1.0
+2021-2022,Group stage,4,2021-11-03,Milan,Porto,it,pt,1,1,0.5
+2021-2022,Group stage,4,2021-11-03,Real Madrid,Shakhtar,es,ua,2,1,0.0
+2021-2022,Group stage,4,2021-11-03,Manchester City,Club Brugge,eng,be,4,1,0.0
+2021-2022,Group stage,4,2021-11-03,Sporting CP,Beşiktaş,pt,tr,4,0,0.0
+2021-2022,Group stage,4,2021-11-03,Liverpool,Atlético Madrid,eng,es,2,0,0.0
+2021-2022,Group stage,4,2021-11-03,RB Leipzig,Paris S-G,de,fr,2,2,0.5
+2021-2022,Group stage,4,2021-11-03,Dortmund,Ajax,de,nl,1,3,1.0
+2021-2022,Group stage,4,2021-11-03,Sheriff Tiraspol,Inter,md,it,1,3,1.0
+2021-2022,Group stage,5,2021-11-23,Villarreal,Manchester Utd,es,eng,0,2,1.0
+2021-2022,Group stage,5,2021-11-23,Dynamo Kyiv,Bayern Munich,ua,de,1,2,1.0
+2021-2022,Group stage,5,2021-11-23,Chelsea,Juventus,eng,it,4,0,0.0
+2021-2022,Group stage,5,2021-11-23,Barcelona,Benfica,es,pt,0,0,0.5
+2021-2022,Group stage,5,2021-11-23,Lille,RB Salzburg,fr,at,1,0,0.0
+2021-2022,Group stage,5,2021-11-23,Young Boys,Atalanta,ch,it,3,3,0.5
+2021-2022,Group stage,5,2021-11-23,Sevilla,Wolfsburg,es,de,2,0,0.0
+2021-2022,Group stage,5,2021-11-23,Malmö,Zenit,se,ru,1,1,0.5
+2021-2022,Group stage,5,2021-11-24,Inter,Shakhtar,it,ua,2,0,0.0
+2021-2022,Group stage,5,2021-11-24,Manchester City,Paris S-G,eng,fr,2,1,0.0
+2021-2022,Group stage,5,2021-11-24,Sporting CP,Dortmund,pt,de,3,1,0.0
+2021-2022,Group stage,5,2021-11-24,Liverpool,Porto,eng,pt,2,0,0.0
+2021-2022,Group stage,5,2021-11-24,Beşiktaş,Ajax,tr,nl,1,2,1.0
+2021-2022,Group stage,5,2021-11-24,Atlético Madrid,Milan,es,it,0,1,1.0
+2021-2022,Group stage,5,2021-11-24,Club Brugge,RB Leipzig,be,de,0,5,1.0
+2021-2022,Group stage,5,2021-11-24,Sheriff Tiraspol,Real Madrid,md,es,0,3,1.0
+2021-2022,Group stage,6,2021-12-07,Paris S-G,Club Brugge,fr,be,4,1,0.0
+2021-2022,Group stage,6,2021-12-07,RB Leipzig,Manchester City,de,eng,2,1,0.0
+2021-2022,Group stage,6,2021-12-07,Porto,Atlético Madrid,pt,es,1,3,1.0
+2021-2022,Group stage,6,2021-12-07,Real Madrid,Inter,es,it,2,0,0.0
+2021-2022,Group stage,6,2021-12-07,Dortmund,Beşiktaş,de,tr,5,0,0.0
+2021-2022,Group stage,6,2021-12-07,Ajax,Sporting CP,nl,pt,4,2,0.0
+2021-2022,Group stage,6,2021-12-07,Milan,Liverpool,it,eng,1,2,1.0
+2021-2022,Group stage,6,2021-12-07,Shakhtar,Sheriff Tiraspol,ua,md,1,1,0.5
+2021-2022,Group stage,6,2021-12-08,Juventus,Malmö,it,se,1,0,0.0
+2021-2022,Group stage,6,2021-12-08,Benfica,Dynamo Kyiv,pt,ua,2,0,0.0
+2021-2022,Group stage,6,2021-12-08,Manchester Utd,Young Boys,eng,ch,1,1,0.5
+2021-2022,Group stage,6,2021-12-08,Zenit,Chelsea,ru,eng,3,3,0.5
+2021-2022,Group stage,6,2021-12-08,Bayern Munich,Barcelona,de,es,3,0,0.0
+2021-2022,Group stage,6,2021-12-08,Wolfsburg,Lille,de,fr,1,3,1.0
+2021-2022,Group stage,6,2021-12-08,RB Salzburg,Sevilla,at,es,1,0,0.0
+2021-2022,Group stage,6,2021-12-09,Atalanta,Villarreal,it,es,2,3,1.0
+2021-2022,Round of 16,,2022-02-15,Sporting CP,Manchester City,pt,eng,0,5,1.0
+2021-2022,Round of 16,,2022-02-15,Paris S-G,Real Madrid,fr,es,1,0,0.0
+2021-2022,Round of 16,,2022-02-16,RB Salzburg,Bayern Munich,at,de,1,1,0.5
+2021-2022,Round of 16,,2022-02-16,Inter,Liverpool,it,eng,0,2,1.0
+2021-2022,Round of 16,,2022-02-22,Chelsea,Lille,eng,fr,2,0,0.0
+2021-2022,Round of 16,,2022-02-22,Villarreal,Juventus,es,it,1,1,0.5
+2021-2022,Round of 16,,2022-02-23,Benfica,Ajax,pt,nl,2,2,0.5
+2021-2022,Round of 16,,2022-02-23,Atlético Madrid,Manchester Utd,es,eng,1,1,0.5
+2021-2022,Round of 16,,2022-03-08,Liverpool,Inter,eng,it,0,1,1.0
+2021-2022,Round of 16,,2022-03-08,Bayern Munich,RB Salzburg,de,at,7,1,0.0
+2021-2022,Round of 16,,2022-03-09,Manchester City,Sporting CP,eng,pt,0,0,0.5
+2021-2022,Round of 16,,2022-03-09,Real Madrid,Paris S-G,es,fr,3,1,0.0
+2021-2022,Round of 16,,2022-03-15,Manchester Utd,Atlético Madrid,eng,es,0,1,1.0
+2021-2022,Round of 16,,2022-03-15,Ajax,Benfica,nl,pt,0,1,1.0
+2021-2022,Round of 16,,2022-03-16,Lille,Chelsea,fr,eng,1,2,1.0
+2021-2022,Round of 16,,2022-03-16,Juventus,Villarreal,it,es,0,3,1.0
+2021-2022,Quarter-finals,,2022-04-05,Benfica,Liverpool,pt,eng,1,3,1.0
+2021-2022,Quarter-finals,,2022-04-05,Manchester City,Atlético Madrid,eng,es,1,0,0.0
+2021-2022,Quarter-finals,,2022-04-06,Chelsea,Real Madrid,eng,es,1,3,1.0
+2021-2022,Quarter-finals,,2022-04-06,Villarreal,Bayern Munich,es,de,1,0,0.0
+2021-2022,Quarter-finals,,2022-04-12,Bayern Munich,Villarreal,de,es,1,1,0.5
+2021-2022,Quarter-finals,,2022-04-12,Real Madrid,Chelsea,es,eng,2,3,1.0
+2021-2022,Quarter-finals,,2022-04-13,Liverpool,Benfica,eng,pt,3,3,0.5
+2021-2022,Quarter-finals,,2022-04-13,Atlético Madrid,Manchester City,es,eng,0,0,0.5
+2021-2022,Semi-finals,,2022-04-26,Manchester City,Real Madrid,eng,es,4,3,0.0
+2021-2022,Semi-finals,,2022-04-27,Liverpool,Villarreal,eng,es,2,0,0.0
+2021-2022,Semi-finals,,2022-05-03,Villarreal,Liverpool,es,eng,2,3,1.0
+2021-2022,Semi-finals,,2022-05-04,Real Madrid,Manchester City,es,eng,3,1,0.0
+2021-2022,Final,,2022-05-28,Liverpool,Real Madrid,eng,es,0,1,1.0

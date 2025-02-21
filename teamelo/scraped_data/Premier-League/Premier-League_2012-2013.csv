@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2012-2013,1,2012-08-18,Arsenal,Sunderland,0,0,0.5
+2012-2013,1,2012-08-18,West Brom,Liverpool,3,0,0.0
+2012-2013,1,2012-08-18,West Ham,Aston Villa,1,0,0.0
+2012-2013,1,2012-08-18,Reading,Stoke City,1,1,0.5
+2012-2013,1,2012-08-18,QPR,Swansea City,0,5,1.0
+2012-2013,1,2012-08-18,Newcastle Utd,Tottenham,2,1,0.0
+2012-2013,1,2012-08-18,Fulham,Norwich City,5,0,0.0
+2012-2013,1,2012-08-19,Manchester City,Southampton,3,2,0.0
+2012-2013,1,2012-08-19,Wigan Athletic,Chelsea,0,2,1.0
+2012-2013,1,2012-08-20,Everton,Manchester Utd,1,0,0.0
+2012-2013,3,2012-08-22,Chelsea,Reading,4,2,0.0
+2012-2013,2,2012-08-25,Southampton,Wigan Athletic,0,2,1.0
+2012-2013,2,2012-08-25,Manchester Utd,Fulham,3,2,0.0
+2012-2013,2,2012-08-25,Norwich City,QPR,1,1,0.5
+2012-2013,2,2012-08-25,Chelsea,Newcastle Utd,2,0,0.0
+2012-2013,2,2012-08-25,Aston Villa,Everton,1,3,1.0
+2012-2013,2,2012-08-25,Swansea City,West Ham,3,0,0.0
+2012-2013,2,2012-08-25,Tottenham,West Brom,1,1,0.5
+2012-2013,2,2012-08-26,Liverpool,Manchester City,2,2,0.5
+2012-2013,2,2012-08-26,Stoke City,Arsenal,0,0,0.5
+2012-2013,3,2012-09-01,Manchester City,QPR,3,1,0.0
+2012-2013,3,2012-09-01,Wigan Athletic,Stoke City,2,2,0.5
+2012-2013,3,2012-09-01,West Brom,Everton,2,0,0.0
+2012-2013,3,2012-09-01,Swansea City,Sunderland,2,2,0.5
+2012-2013,3,2012-09-01,West Ham,Fulham,3,0,0.0
+2012-2013,3,2012-09-01,Tottenham,Norwich City,1,1,0.5
+2012-2013,3,2012-09-02,Liverpool,Arsenal,0,2,1.0
+2012-2013,3,2012-09-02,Newcastle Utd,Aston Villa,1,1,0.5
+2012-2013,3,2012-09-02,Southampton,Manchester Utd,2,3,1.0
+2012-2013,4,2012-09-15,Stoke City,Manchester City,1,1,0.5
+2012-2013,4,2012-09-15,Fulham,West Brom,3,0,0.0
+2012-2013,4,2012-09-15,QPR,Chelsea,0,0,0.5
+2012-2013,4,2012-09-15,Norwich City,West Ham,0,0,0.5
+2012-2013,4,2012-09-15,Sunderland,Liverpool,1,1,0.5
+2012-2013,4,2012-09-15,Arsenal,Southampton,6,1,0.0
+2012-2013,4,2012-09-15,Manchester Utd,Wigan Athletic,4,0,0.0
+2012-2013,4,2012-09-15,Aston Villa,Swansea City,2,0,0.0
+2012-2013,4,2012-09-16,Reading,Tottenham,1,3,1.0
+2012-2013,4,2012-09-17,Everton,Newcastle Utd,2,2,0.5
+2012-2013,5,2012-09-22,Chelsea,Stoke City,1,0,0.0
+2012-2013,5,2012-09-22,Wigan Athletic,Fulham,1,2,1.0
+2012-2013,5,2012-09-22,West Ham,Sunderland,1,1,0.5
+2012-2013,5,2012-09-22,Swansea City,Everton,0,3,1.0
+2012-2013,5,2012-09-22,West Brom,Reading,1,0,0.0
+2012-2013,5,2012-09-22,Southampton,Aston Villa,4,1,0.0
+2012-2013,5,2012-09-23,Manchester City,Arsenal,1,1,0.5
+2012-2013,5,2012-09-23,Liverpool,Manchester Utd,1,2,1.0
+2012-2013,5,2012-09-23,Tottenham,QPR,2,1,0.0
+2012-2013,5,2012-09-23,Newcastle Utd,Norwich City,1,0,0.0
+2012-2013,6,2012-09-29,Arsenal,Chelsea,1,2,1.0
+2012-2013,6,2012-09-29,Sunderland,Wigan Athletic,1,0,0.0
+2012-2013,6,2012-09-29,Norwich City,Liverpool,2,5,1.0
+2012-2013,6,2012-09-29,Reading,Newcastle Utd,2,2,0.5
+2012-2013,6,2012-09-29,Fulham,Manchester City,1,2,1.0
+2012-2013,6,2012-09-29,Everton,Southampton,3,1,0.0
+2012-2013,6,2012-09-29,Stoke City,Swansea City,2,0,0.0
+2012-2013,6,2012-09-29,Manchester Utd,Tottenham,2,3,1.0
+2012-2013,6,2012-09-30,Aston Villa,West Brom,1,1,0.5
+2012-2013,6,2012-10-01,QPR,West Ham,1,2,1.0
+2012-2013,7,2012-10-06,West Brom,QPR,3,2,0.0
+2012-2013,7,2012-10-06,Chelsea,Norwich City,4,1,0.0
+2012-2013,7,2012-10-06,Swansea City,Reading,2,2,0.5
+2012-2013,7,2012-10-06,West Ham,Arsenal,1,3,1.0
+2012-2013,7,2012-10-06,Wigan Athletic,Everton,2,2,0.5
+2012-2013,7,2012-10-06,Manchester City,Sunderland,3,0,0.0
+2012-2013,7,2012-10-07,Liverpool,Stoke City,0,0,0.5
+2012-2013,7,2012-10-07,Newcastle Utd,Manchester Utd,0,3,1.0
+2012-2013,7,2012-10-07,Tottenham,Aston Villa,2,0,0.0
+2012-2013,7,2012-10-07,Southampton,Fulham,2,2,0.5
+2012-2013,8,2012-10-20,Fulham,Aston Villa,1,0,0.0
+2012-2013,8,2012-10-20,Norwich City,Arsenal,1,0,0.0
+2012-2013,8,2012-10-20,Swansea City,Wigan Athletic,2,1,0.0
+2012-2013,8,2012-10-20,Liverpool,Reading,1,0,0.0
+2012-2013,8,2012-10-20,Manchester Utd,Stoke City,4,2,0.0
+2012-2013,8,2012-10-20,West Ham,Southampton,4,1,0.0
+2012-2013,8,2012-10-20,West Brom,Manchester City,1,2,1.0
+2012-2013,8,2012-10-20,Tottenham,Chelsea,2,4,1.0
+2012-2013,8,2012-10-21,QPR,Everton,1,1,0.5
+2012-2013,8,2012-10-21,Sunderland,Newcastle Utd,1,1,0.5
+2012-2013,9,2012-10-27,Manchester City,Swansea City,1,0,0.0
+2012-2013,9,2012-10-27,Stoke City,Sunderland,0,0,0.5
+2012-2013,9,2012-10-27,Aston Villa,Norwich City,1,1,0.5
+2012-2013,9,2012-10-27,Arsenal,QPR,1,0,0.0
+2012-2013,9,2012-10-27,Reading,Fulham,3,3,0.5
+2012-2013,9,2012-10-27,Wigan Athletic,West Ham,2,1,0.0
+2012-2013,9,2012-10-28,Newcastle Utd,West Brom,2,1,0.0
+2012-2013,9,2012-10-28,Chelsea,Manchester Utd,2,3,1.0
+2012-2013,9,2012-10-28,Southampton,Tottenham,1,2,1.0
+2012-2013,9,2012-10-28,Everton,Liverpool,2,2,0.5
+2012-2013,10,2012-11-03,Fulham,Everton,2,2,0.5
+2012-2013,10,2012-11-03,Swansea City,Chelsea,1,1,0.5
+2012-2013,10,2012-11-03,Tottenham,Wigan Athletic,0,1,1.0
+2012-2013,10,2012-11-03,Sunderland,Aston Villa,0,1,1.0
+2012-2013,10,2012-11-03,Manchester Utd,Arsenal,2,1,0.0
+2012-2013,10,2012-11-03,West Ham,Manchester City,0,0,0.5
+2012-2013,10,2012-11-03,Norwich City,Stoke City,1,0,0.0
+2012-2013,10,2012-11-04,Liverpool,Newcastle Utd,1,1,0.5
+2012-2013,10,2012-11-04,QPR,Reading,1,1,0.5
+2012-2013,10,2012-11-05,West Brom,Southampton,2,0,0.0
+2012-2013,11,2012-11-10,Wigan Athletic,West Brom,1,2,1.0
+2012-2013,11,2012-11-10,Arsenal,Fulham,3,3,0.5
+2012-2013,11,2012-11-10,Everton,Sunderland,2,1,0.0
+2012-2013,11,2012-11-10,Stoke City,QPR,1,0,0.0
+2012-2013,11,2012-11-10,Aston Villa,Manchester Utd,2,3,1.0
+2012-2013,11,2012-11-10,Southampton,Swansea City,1,1,0.5
+2012-2013,11,2012-11-10,Reading,Norwich City,0,0,0.5
+2012-2013,11,2012-11-11,Manchester City,Tottenham,2,1,0.0
+2012-2013,11,2012-11-11,Chelsea,Liverpool,1,1,0.5
+2012-2013,11,2012-11-11,Newcastle Utd,West Ham,0,1,1.0
+2012-2013,12,2012-11-17,Norwich City,Manchester Utd,1,0,0.0
+2012-2013,12,2012-11-17,Liverpool,Wigan Athletic,3,0,0.0
+2012-2013,12,2012-11-17,Manchester City,Aston Villa,5,0,0.0
+2012-2013,12,2012-11-17,West Brom,Chelsea,2,1,0.0
+2012-2013,12,2012-11-17,Reading,Everton,2,1,0.0
+2012-2013,12,2012-11-17,QPR,Southampton,1,3,1.0
+2012-2013,12,2012-11-17,Newcastle Utd,Swansea City,1,2,1.0
+2012-2013,12,2012-11-17,Arsenal,Tottenham,5,2,0.0
+2012-2013,12,2012-11-18,Fulham,Sunderland,1,3,1.0
+2012-2013,12,2012-11-19,West Ham,Stoke City,1,1,0.5
+2012-2013,13,2012-11-24,Sunderland,West Brom,2,4,1.0
+2012-2013,13,2012-11-24,Wigan Athletic,Reading,3,2,0.0
+2012-2013,13,2012-11-24,Manchester Utd,QPR,3,1,0.0
+2012-2013,13,2012-11-24,Stoke City,Fulham,1,0,0.0
+2012-2013,13,2012-11-24,Everton,Norwich City,1,1,0.5
+2012-2013,13,2012-11-24,Aston Villa,Arsenal,0,0,0.5
+2012-2013,13,2012-11-25,Chelsea,Manchester City,0,0,0.5
+2012-2013,13,2012-11-25,Swansea City,Liverpool,0,0,0.5
+2012-2013,13,2012-11-25,Southampton,Newcastle Utd,2,0,0.0
+2012-2013,13,2012-11-25,Tottenham,West Ham,3,1,0.0
+2012-2013,14,2012-11-27,Aston Villa,Reading,1,0,0.0
+2012-2013,14,2012-11-27,Sunderland,QPR,0,0,0.5
+2012-2013,14,2012-11-28,Swansea City,West Brom,3,1,0.0
+2012-2013,14,2012-11-28,Manchester Utd,West Ham,1,0,0.0
+2012-2013,14,2012-11-28,Stoke City,Newcastle Utd,2,1,0.0
+2012-2013,14,2012-11-28,Everton,Arsenal,1,1,0.5
+2012-2013,14,2012-11-28,Tottenham,Liverpool,2,1,0.0
+2012-2013,14,2012-11-28,Wigan Athletic,Manchester City,0,2,1.0
+2012-2013,14,2012-11-28,Southampton,Norwich City,1,1,0.5
+2012-2013,14,2012-11-28,Chelsea,Fulham,0,0,0.5
+2012-2013,15,2012-12-01,Fulham,Tottenham,0,3,1.0
+2012-2013,15,2012-12-01,West Brom,Stoke City,0,1,1.0
+2012-2013,15,2012-12-01,Liverpool,Southampton,1,0,0.0
+2012-2013,15,2012-12-01,Arsenal,Swansea City,0,2,1.0
+2012-2013,15,2012-12-01,QPR,Aston Villa,1,1,0.5
+2012-2013,15,2012-12-01,Manchester City,Everton,1,1,0.5
+2012-2013,15,2012-12-01,West Ham,Chelsea,3,1,0.0
+2012-2013,15,2012-12-01,Reading,Manchester Utd,3,4,1.0
+2012-2013,15,2012-12-02,Norwich City,Sunderland,2,1,0.0
+2012-2013,15,2012-12-03,Newcastle Utd,Wigan Athletic,3,0,0.0
+2012-2013,16,2012-12-08,Arsenal,West Brom,2,0,0.0
+2012-2013,16,2012-12-08,Swansea City,Norwich City,3,4,1.0
+2012-2013,16,2012-12-08,Aston Villa,Stoke City,0,0,0.5
+2012-2013,16,2012-12-08,Wigan Athletic,QPR,2,2,0.5
+2012-2013,16,2012-12-08,Sunderland,Chelsea,1,3,1.0
+2012-2013,16,2012-12-08,Southampton,Reading,1,0,0.0
+2012-2013,16,2012-12-09,Manchester City,Manchester Utd,2,3,1.0
+2012-2013,16,2012-12-09,Everton,Tottenham,2,1,0.0
+2012-2013,16,2012-12-09,West Ham,Liverpool,2,3,1.0
+2012-2013,16,2012-12-10,Fulham,Newcastle Utd,2,1,0.0
+2012-2013,2,2012-12-11,Sunderland,Reading,3,0,0.0
+2012-2013,17,2012-12-15,QPR,Fulham,2,1,0.0
+2012-2013,17,2012-12-15,Norwich City,Wigan Athletic,2,1,0.0
+2012-2013,17,2012-12-15,Manchester Utd,Sunderland,3,1,0.0
+2012-2013,17,2012-12-15,Stoke City,Everton,1,1,0.5
+2012-2013,17,2012-12-15,Newcastle Utd,Manchester City,1,3,1.0
+2012-2013,17,2012-12-15,Liverpool,Aston Villa,1,3,1.0
+2012-2013,17,2012-12-16,Tottenham,Swansea City,1,0,0.0
+2012-2013,17,2012-12-16,West Brom,West Ham,0,0,0.5
+2012-2013,17,2012-12-17,Reading,Arsenal,2,5,1.0
+2012-2013,18,2012-12-22,Manchester City,Reading,1,0,0.0
+2012-2013,18,2012-12-22,West Brom,Norwich City,2,1,0.0
+2012-2013,18,2012-12-22,Liverpool,Fulham,4,0,0.0
+2012-2013,18,2012-12-22,Wigan Athletic,Arsenal,0,1,1.0
+2012-2013,18,2012-12-22,West Ham,Everton,1,2,1.0
+2012-2013,18,2012-12-22,Newcastle Utd,QPR,1,0,0.0
+2012-2013,18,2012-12-22,Southampton,Sunderland,0,1,1.0
+2012-2013,18,2012-12-22,Tottenham,Stoke City,0,0,0.5
+2012-2013,18,2012-12-23,Swansea City,Manchester Utd,1,1,0.5
+2012-2013,18,2012-12-23,Chelsea,Aston Villa,8,0,0.0
+2012-2013,19,2012-12-26,Sunderland,Manchester City,1,0,0.0
+2012-2013,19,2012-12-26,Aston Villa,Tottenham,0,4,1.0
+2012-2013,19,2012-12-26,Manchester Utd,Newcastle Utd,4,3,0.0
+2012-2013,19,2012-12-26,Everton,Wigan Athletic,2,1,0.0
+2012-2013,19,2012-12-26,Norwich City,Chelsea,0,1,1.0
+2012-2013,19,2012-12-26,Stoke City,Liverpool,3,1,0.0
+2012-2013,19,2012-12-26,Reading,Swansea City,0,0,0.5
+2012-2013,19,2012-12-26,QPR,West Brom,1,2,1.0
+2012-2013,19,2012-12-26,Fulham,Southampton,1,1,0.5
+2012-2013,20,2012-12-29,Stoke City,Southampton,3,3,0.5
+2012-2013,20,2012-12-29,Manchester Utd,West Brom,2,0,0.0
+2012-2013,20,2012-12-29,Fulham,Swansea City,1,2,1.0
+2012-2013,20,2012-12-29,Arsenal,Newcastle Utd,7,3,0.0
+2012-2013,20,2012-12-29,Aston Villa,Wigan Athletic,0,3,1.0
+2012-2013,20,2012-12-29,Norwich City,Manchester City,3,4,1.0
+2012-2013,20,2012-12-29,Sunderland,Tottenham,1,2,1.0
+2012-2013,20,2012-12-29,Reading,West Ham,1,0,0.0
+2012-2013,20,2012-12-30,Everton,Chelsea,1,2,1.0
+2012-2013,20,2012-12-30,QPR,Liverpool,0,3,1.0
+2012-2013,21,2013-01-01,West Ham,Norwich City,2,1,0.0
+2012-2013,21,2013-01-01,Tottenham,Reading,3,1,0.0
+2012-2013,21,2013-01-01,Swansea City,Aston Villa,2,2,0.5
+2012-2013,21,2013-01-01,West Brom,Fulham,1,2,1.0
+2012-2013,21,2013-01-01,Southampton,Arsenal,1,1,0.5
+2012-2013,21,2013-01-01,Manchester City,Stoke City,3,0,0.0
+2012-2013,21,2013-01-01,Wigan Athletic,Manchester Utd,0,4,1.0
+2012-2013,21,2013-01-02,Newcastle Utd,Everton,1,2,1.0
+2012-2013,21,2013-01-02,Liverpool,Sunderland,3,0,0.0
+2012-2013,21,2013-01-02,Chelsea,QPR,0,1,1.0
+2012-2013,22,2013-01-12,Norwich City,Newcastle Utd,0,0,0.5
+2012-2013,22,2013-01-12,Aston Villa,Southampton,0,1,1.0
+2012-2013,22,2013-01-12,Stoke City,Chelsea,0,4,1.0
+2012-2013,22,2013-01-12,Sunderland,West Ham,3,0,0.0
+2012-2013,22,2013-01-12,Fulham,Wigan Athletic,1,1,0.5
+2012-2013,22,2013-01-12,Everton,Swansea City,0,0,0.5
+2012-2013,22,2013-01-12,QPR,Tottenham,0,0,0.5
+2012-2013,22,2013-01-12,Reading,West Brom,3,2,0.0
+2012-2013,22,2013-01-13,Arsenal,Manchester City,0,2,1.0
+2012-2013,22,2013-01-13,Manchester Utd,Liverpool,2,1,0.0
+2012-2013,17,2013-01-16,Chelsea,Southampton,2,2,0.5
+2012-2013,23,2013-01-19,Swansea City,Stoke City,3,1,0.0
+2012-2013,23,2013-01-19,Newcastle Utd,Reading,1,2,1.0
+2012-2013,23,2013-01-19,Wigan Athletic,Sunderland,2,3,1.0
+2012-2013,23,2013-01-19,Manchester City,Fulham,2,0,0.0
+2012-2013,23,2013-01-19,West Ham,QPR,1,1,0.5
+2012-2013,23,2013-01-19,West Brom,Aston Villa,2,2,0.5
+2012-2013,23,2013-01-19,Liverpool,Norwich City,5,0,0.0
+2012-2013,23,2013-01-20,Tottenham,Manchester Utd,1,1,0.5
+2012-2013,23,2013-01-20,Chelsea,Arsenal,2,1,0.0
+2012-2013,23,2013-01-21,Southampton,Everton,0,0,0.5
+2012-2013,19,2013-01-23,Arsenal,West Ham,5,1,0.0
+2012-2013,24,2013-01-29,QPR,Manchester City,0,0,0.5
+2012-2013,24,2013-01-29,Stoke City,Wigan Athletic,2,2,0.5
+2012-2013,24,2013-01-29,Aston Villa,Newcastle Utd,1,2,1.0
+2012-2013,24,2013-01-29,Sunderland,Swansea City,0,0,0.5
+2012-2013,24,2013-01-30,Manchester Utd,Southampton,2,1,0.0
+2012-2013,24,2013-01-30,Everton,West Brom,2,1,0.0
+2012-2013,24,2013-01-30,Arsenal,Liverpool,2,2,0.5
+2012-2013,24,2013-01-30,Fulham,West Ham,3,1,0.0
+2012-2013,24,2013-01-30,Norwich City,Tottenham,1,1,0.5
+2012-2013,24,2013-01-30,Reading,Chelsea,2,2,0.5
+2012-2013,25,2013-02-02,West Ham,Swansea City,1,0,0.0
+2012-2013,25,2013-02-02,Reading,Sunderland,2,1,0.0
+2012-2013,25,2013-02-02,Fulham,Manchester Utd,0,1,1.0
+2012-2013,25,2013-02-02,Wigan Athletic,Southampton,2,2,0.5
+2012-2013,25,2013-02-02,QPR,Norwich City,0,0,0.5
+2012-2013,25,2013-02-02,Everton,Aston Villa,3,3,0.5
+2012-2013,25,2013-02-02,Arsenal,Stoke City,1,0,0.0
+2012-2013,25,2013-02-02,Newcastle Utd,Chelsea,3,2,0.0
+2012-2013,25,2013-02-03,Manchester City,Liverpool,2,2,0.5
+2012-2013,25,2013-02-03,West Brom,Tottenham,0,1,1.0
+2012-2013,26,2013-02-09,Tottenham,Newcastle Utd,2,1,0.0
+2012-2013,26,2013-02-09,Norwich City,Fulham,0,0,0.5
+2012-2013,26,2013-02-09,Stoke City,Reading,2,1,0.0
+2012-2013,26,2013-02-09,Swansea City,QPR,4,1,0.0
+2012-2013,26,2013-02-09,Chelsea,Wigan Athletic,4,1,0.0
+2012-2013,26,2013-02-09,Southampton,Manchester City,3,1,0.0
+2012-2013,26,2013-02-09,Sunderland,Arsenal,0,1,1.0
+2012-2013,26,2013-02-10,Aston Villa,West Ham,2,1,0.0
+2012-2013,26,2013-02-10,Manchester Utd,Everton,2,0,0.0
+2012-2013,26,2013-02-11,Liverpool,West Brom,0,2,1.0
+2012-2013,27,2013-02-17,Liverpool,Swansea City,5,0,0.0
+2012-2013,27,2013-02-23,Reading,Wigan Athletic,0,3,1.0
+2012-2013,27,2013-02-23,West Brom,Sunderland,2,1,0.0
+2012-2013,27,2013-02-23,Norwich City,Everton,2,1,0.0
+2012-2013,27,2013-02-23,Arsenal,Aston Villa,2,1,0.0
+2012-2013,27,2013-02-23,Fulham,Stoke City,1,0,0.0
+2012-2013,27,2013-02-23,QPR,Manchester Utd,0,2,1.0
+2012-2013,27,2013-02-24,Newcastle Utd,Southampton,4,2,0.0
+2012-2013,27,2013-02-24,Manchester City,Chelsea,2,0,0.0
+2012-2013,27,2013-02-25,West Ham,Tottenham,2,3,1.0
+2012-2013,28,2013-03-02,Swansea City,Newcastle Utd,1,0,0.0
+2012-2013,28,2013-03-02,Everton,Reading,3,1,0.0
+2012-2013,28,2013-03-02,Chelsea,West Brom,1,0,0.0
+2012-2013,28,2013-03-02,Southampton,QPR,1,2,1.0
+2012-2013,28,2013-03-02,Sunderland,Fulham,2,2,0.5
+2012-2013,28,2013-03-02,Wigan Athletic,Liverpool,0,4,1.0
+2012-2013,28,2013-03-02,Manchester Utd,Norwich City,4,0,0.0
+2012-2013,28,2013-03-02,Stoke City,West Ham,0,1,1.0
+2012-2013,28,2013-03-03,Tottenham,Arsenal,2,1,0.0
+2012-2013,28,2013-03-04,Aston Villa,Manchester City,0,1,1.0
+2012-2013,29,2013-03-09,Reading,Aston Villa,1,2,1.0
+2012-2013,29,2013-03-09,West Brom,Swansea City,2,1,0.0
+2012-2013,29,2013-03-09,Norwich City,Southampton,0,0,0.5
+2012-2013,29,2013-03-09,QPR,Sunderland,3,1,0.0
+2012-2013,29,2013-03-10,Newcastle Utd,Stoke City,2,1,0.0
+2012-2013,29,2013-03-10,Liverpool,Tottenham,3,2,0.0
+2012-2013,30,2013-03-16,Southampton,Liverpool,3,1,0.0
+2012-2013,30,2013-03-16,Aston Villa,QPR,3,2,0.0
+2012-2013,30,2013-03-16,Manchester Utd,Reading,1,0,0.0
+2012-2013,30,2013-03-16,Swansea City,Arsenal,0,2,1.0
+2012-2013,30,2013-03-16,Stoke City,West Brom,0,0,0.5
+2012-2013,30,2013-03-16,Everton,Manchester City,2,0,0.0
+2012-2013,30,2013-03-17,Sunderland,Norwich City,1,1,0.5
+2012-2013,30,2013-03-17,Tottenham,Fulham,0,1,1.0
+2012-2013,30,2013-03-17,Wigan Athletic,Newcastle Utd,2,1,0.0
+2012-2013,30,2013-03-17,Chelsea,West Ham,2,0,0.0
+2012-2013,31,2013-03-30,Wigan Athletic,Norwich City,1,0,0.0
+2012-2013,31,2013-03-30,Southampton,Chelsea,2,1,0.0
+2012-2013,31,2013-03-30,West Ham,West Brom,3,1,0.0
+2012-2013,31,2013-03-30,Arsenal,Reading,4,1,0.0
+2012-2013,31,2013-03-30,Swansea City,Tottenham,1,2,1.0
+2012-2013,31,2013-03-30,Manchester City,Newcastle Utd,4,0,0.0
+2012-2013,31,2013-03-30,Everton,Stoke City,1,0,0.0
+2012-2013,31,2013-03-30,Sunderland,Manchester Utd,0,1,1.0
+2012-2013,31,2013-03-31,Aston Villa,Liverpool,1,2,1.0
+2012-2013,31,2013-04-01,Fulham,QPR,3,2,0.0
+2012-2013,32,2013-04-06,Reading,Southampton,0,2,1.0
+2012-2013,32,2013-04-06,Stoke City,Aston Villa,1,3,1.0
+2012-2013,32,2013-04-06,Norwich City,Swansea City,2,2,0.5
+2012-2013,32,2013-04-06,West Brom,Arsenal,1,2,1.0
+2012-2013,32,2013-04-07,Newcastle Utd,Fulham,1,0,0.0
+2012-2013,32,2013-04-07,QPR,Wigan Athletic,1,1,0.5
+2012-2013,32,2013-04-07,Liverpool,West Ham,0,0,0.5
+2012-2013,32,2013-04-07,Chelsea,Sunderland,2,1,0.0
+2012-2013,32,2013-04-07,Tottenham,Everton,2,2,0.5
+2012-2013,32,2013-04-08,Manchester Utd,Manchester City,1,2,1.0
+2012-2013,33,2013-04-13,Reading,Liverpool,0,0,0.5
+2012-2013,33,2013-04-13,Everton,QPR,2,0,0.0
+2012-2013,33,2013-04-13,Southampton,West Ham,1,1,0.5
+2012-2013,33,2013-04-13,Arsenal,Norwich City,3,1,0.0
+2012-2013,33,2013-04-13,Aston Villa,Fulham,1,1,0.5
+2012-2013,33,2013-04-14,Newcastle Utd,Sunderland,0,3,1.0
+2012-2013,33,2013-04-14,Stoke City,Manchester Utd,0,2,1.0
+2012-2013,29,2013-04-16,Arsenal,Everton,0,0,0.5
+2012-2013,29,2013-04-17,Manchester City,Wigan Athletic,1,0,0.0
+2012-2013,29,2013-04-17,West Ham,Manchester Utd,2,2,0.5
+2012-2013,29,2013-04-17,Fulham,Chelsea,0,3,1.0
+2012-2013,34,2013-04-20,QPR,Stoke City,0,2,1.0
+2012-2013,34,2013-04-20,Sunderland,Everton,1,0,0.0
+2012-2013,34,2013-04-20,Norwich City,Reading,2,1,0.0
+2012-2013,34,2013-04-20,Swansea City,Southampton,0,0,0.5
+2012-2013,34,2013-04-20,Fulham,Arsenal,0,1,1.0
+2012-2013,34,2013-04-20,West Brom,Newcastle Utd,1,1,0.5
+2012-2013,34,2013-04-20,West Ham,Wigan Athletic,2,0,0.0
+2012-2013,34,2013-04-21,Tottenham,Manchester City,3,1,0.0
+2012-2013,34,2013-04-21,Liverpool,Chelsea,2,2,0.5
+2012-2013,34,2013-04-22,Manchester Utd,Aston Villa,3,0,0.0
+2012-2013,35,2013-04-27,Wigan Athletic,Tottenham,2,2,0.5
+2012-2013,35,2013-04-27,Newcastle Utd,Liverpool,0,6,1.0
+2012-2013,35,2013-04-27,Stoke City,Norwich City,1,0,0.0
+2012-2013,35,2013-04-27,Everton,Fulham,1,0,0.0
+2012-2013,35,2013-04-27,Southampton,West Brom,0,3,1.0
+2012-2013,35,2013-04-27,Manchester City,West Ham,2,1,0.0
+2012-2013,35,2013-04-28,Reading,QPR,0,0,0.5
+2012-2013,35,2013-04-28,Chelsea,Swansea City,2,0,0.0
+2012-2013,35,2013-04-28,Arsenal,Manchester Utd,1,1,0.5
+2012-2013,35,2013-04-29,Aston Villa,Sunderland,6,1,0.0
+2012-2013,36,2013-05-04,West Brom,Wigan Athletic,2,3,1.0
+2012-2013,36,2013-05-04,Swansea City,Manchester City,0,0,0.5
+2012-2013,36,2013-05-04,Norwich City,Aston Villa,1,2,1.0
+2012-2013,36,2013-05-04,Fulham,Reading,2,4,1.0
+2012-2013,36,2013-05-04,Tottenham,Southampton,1,0,0.0
+2012-2013,36,2013-05-04,QPR,Arsenal,0,1,1.0
+2012-2013,36,2013-05-04,West Ham,Newcastle Utd,0,0,0.5
+2012-2013,36,2013-05-05,Manchester Utd,Chelsea,0,1,1.0
+2012-2013,36,2013-05-05,Liverpool,Everton,0,0,0.5
+2012-2013,36,2013-05-06,Sunderland,Stoke City,1,1,0.5
+2012-2013,33,2013-05-07,Manchester City,West Brom,1,0,0.0
+2012-2013,33,2013-05-07,Wigan Athletic,Swansea City,2,3,1.0
+2012-2013,33,2013-05-08,Chelsea,Tottenham,2,2,0.5
+2012-2013,37,2013-05-11,Aston Villa,Chelsea,1,2,1.0
+2012-2013,37,2013-05-12,Sunderland,Southampton,1,1,0.5
+2012-2013,37,2013-05-12,Norwich City,West Brom,4,0,0.0
+2012-2013,37,2013-05-12,Manchester Utd,Swansea City,2,1,0.0
+2012-2013,37,2013-05-12,Stoke City,Tottenham,1,2,1.0
+2012-2013,37,2013-05-12,QPR,Newcastle Utd,1,2,1.0
+2012-2013,37,2013-05-12,Everton,West Ham,2,0,0.0
+2012-2013,37,2013-05-12,Fulham,Liverpool,1,3,1.0
+2012-2013,37,2013-05-14,Arsenal,Wigan Athletic,4,1,0.0
+2012-2013,37,2013-05-14,Reading,Manchester City,0,2,1.0
+2012-2013,38,2013-05-19,West Brom,Manchester Utd,5,5,0.5
+2012-2013,38,2013-05-19,Manchester City,Norwich City,2,3,1.0
+2012-2013,38,2013-05-19,Chelsea,Everton,2,1,0.0
+2012-2013,38,2013-05-19,Wigan Athletic,Aston Villa,2,2,0.5
+2012-2013,38,2013-05-19,Liverpool,QPR,1,0,0.0
+2012-2013,38,2013-05-19,Newcastle Utd,Arsenal,0,1,1.0
+2012-2013,38,2013-05-19,Swansea City,Fulham,0,3,1.0
+2012-2013,38,2013-05-19,West Ham,Reading,4,2,0.0
+2012-2013,38,2013-05-19,Tottenham,Sunderland,1,0,0.0
+2012-2013,38,2013-05-19,Southampton,Stoke City,1,1,0.5

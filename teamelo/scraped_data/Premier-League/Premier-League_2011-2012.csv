@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2011-2012,1,2011-08-13,QPR,Bolton,0,4,1.0
+2011-2012,1,2011-08-13,Liverpool,Sunderland,1,1,0.5
+2011-2012,1,2011-08-13,Wigan Athletic,Norwich City,1,1,0.5
+2011-2012,1,2011-08-13,Fulham,Aston Villa,0,0,0.5
+2011-2012,1,2011-08-13,Newcastle Utd,Arsenal,0,0,0.5
+2011-2012,1,2011-08-13,Blackburn,Wolves,1,2,1.0
+2011-2012,1,2011-08-14,West Brom,Manchester Utd,1,2,1.0
+2011-2012,1,2011-08-14,Stoke City,Chelsea,0,0,0.5
+2011-2012,1,2011-08-15,Manchester City,Swansea City,4,0,0.0
+2011-2012,2,2011-08-20,Swansea City,Wigan Athletic,0,0,0.5
+2011-2012,2,2011-08-20,Arsenal,Liverpool,0,2,1.0
+2011-2012,2,2011-08-20,Chelsea,West Brom,2,1,0.0
+2011-2012,2,2011-08-20,Aston Villa,Blackburn,3,1,0.0
+2011-2012,2,2011-08-20,Everton,QPR,0,1,1.0
+2011-2012,2,2011-08-20,Sunderland,Newcastle Utd,0,1,1.0
+2011-2012,2,2011-08-21,Wolves,Fulham,2,0,0.0
+2011-2012,2,2011-08-21,Bolton,Manchester City,2,3,1.0
+2011-2012,2,2011-08-21,Norwich City,Stoke City,1,1,0.5
+2011-2012,2,2011-08-22,Manchester Utd,Tottenham,3,0,0.0
+2011-2012,3,2011-08-27,Aston Villa,Wolves,0,0,0.5
+2011-2012,3,2011-08-27,Chelsea,Norwich City,3,1,0.0
+2011-2012,3,2011-08-27,Liverpool,Bolton,3,1,0.0
+2011-2012,3,2011-08-27,Swansea City,Sunderland,0,0,0.5
+2011-2012,3,2011-08-27,Wigan Athletic,QPR,2,0,0.0
+2011-2012,3,2011-08-27,Blackburn,Everton,0,1,1.0
+2011-2012,3,2011-08-28,West Brom,Stoke City,0,1,1.0
+2011-2012,3,2011-08-28,Tottenham,Manchester City,1,5,1.0
+2011-2012,3,2011-08-28,Manchester Utd,Arsenal,8,2,0.0
+2011-2012,3,2011-08-28,Newcastle Utd,Fulham,2,1,0.0
+2011-2012,4,2011-09-10,Sunderland,Chelsea,1,2,1.0
+2011-2012,4,2011-09-10,Arsenal,Swansea City,1,0,0.0
+2011-2012,4,2011-09-10,Manchester City,Wigan Athletic,3,0,0.0
+2011-2012,4,2011-09-10,Bolton,Manchester Utd,0,5,1.0
+2011-2012,4,2011-09-10,Stoke City,Liverpool,1,0,0.0
+2011-2012,4,2011-09-10,Wolves,Tottenham,0,2,1.0
+2011-2012,4,2011-09-10,Everton,Aston Villa,2,2,0.5
+2011-2012,4,2011-09-11,Fulham,Blackburn,1,1,0.5
+2011-2012,4,2011-09-11,Norwich City,West Brom,0,1,1.0
+2011-2012,4,2011-09-12,QPR,Newcastle Utd,0,0,0.5
+2011-2012,5,2011-09-17,Aston Villa,Newcastle Utd,1,1,0.5
+2011-2012,5,2011-09-17,Wolves,QPR,0,3,1.0
+2011-2012,5,2011-09-17,Everton,Wigan Athletic,3,1,0.0
+2011-2012,5,2011-09-17,Swansea City,West Brom,3,0,0.0
+2011-2012,5,2011-09-17,Bolton,Norwich City,1,2,1.0
+2011-2012,5,2011-09-17,Blackburn,Arsenal,4,3,0.0
+2011-2012,5,2011-09-18,Fulham,Manchester City,2,2,0.5
+2011-2012,5,2011-09-18,Manchester Utd,Chelsea,3,1,0.0
+2011-2012,5,2011-09-18,Tottenham,Liverpool,4,0,0.0
+2011-2012,5,2011-09-18,Sunderland,Stoke City,4,0,0.0
+2011-2012,6,2011-09-24,Stoke City,Manchester Utd,1,1,0.5
+2011-2012,6,2011-09-24,Liverpool,Wolves,2,1,0.0
+2011-2012,6,2011-09-24,West Brom,Fulham,0,0,0.5
+2011-2012,6,2011-09-24,Chelsea,Swansea City,4,1,0.0
+2011-2012,6,2011-09-24,Wigan Athletic,Tottenham,1,2,1.0
+2011-2012,6,2011-09-24,Newcastle Utd,Blackburn,3,1,0.0
+2011-2012,6,2011-09-24,Arsenal,Bolton,3,0,0.0
+2011-2012,6,2011-09-24,Manchester City,Everton,2,0,0.0
+2011-2012,6,2011-09-25,QPR,Aston Villa,1,1,0.5
+2011-2012,6,2011-09-26,Norwich City,Sunderland,2,1,0.0
+2011-2012,7,2011-10-01,Wolves,Newcastle Utd,1,2,1.0
+2011-2012,7,2011-10-01,Sunderland,West Brom,2,2,0.5
+2011-2012,7,2011-10-01,Manchester Utd,Norwich City,2,0,0.0
+2011-2012,7,2011-10-01,Blackburn,Manchester City,0,4,1.0
+2011-2012,7,2011-10-01,Everton,Liverpool,0,2,1.0
+2011-2012,7,2011-10-01,Aston Villa,Wigan Athletic,2,0,0.0
+2011-2012,7,2011-10-02,Bolton,Chelsea,1,5,1.0
+2011-2012,7,2011-10-02,Tottenham,Arsenal,2,1,0.0
+2011-2012,7,2011-10-02,Fulham,QPR,6,0,0.0
+2011-2012,7,2011-10-02,Swansea City,Stoke City,2,0,0.0
+2011-2012,8,2011-10-15,Wigan Athletic,Bolton,1,3,1.0
+2011-2012,8,2011-10-15,Norwich City,Swansea City,3,1,0.0
+2011-2012,8,2011-10-15,Stoke City,Fulham,2,0,0.0
+2011-2012,8,2011-10-15,Chelsea,Everton,3,1,0.0
+2011-2012,8,2011-10-15,QPR,Blackburn,1,1,0.5
+2011-2012,8,2011-10-15,Liverpool,Manchester Utd,1,1,0.5
+2011-2012,8,2011-10-15,Manchester City,Aston Villa,4,1,0.0
+2011-2012,8,2011-10-16,Newcastle Utd,Tottenham,2,2,0.5
+2011-2012,8,2011-10-16,Arsenal,Sunderland,2,1,0.0
+2011-2012,8,2011-10-16,West Brom,Wolves,2,0,0.0
+2011-2012,9,2011-10-22,Liverpool,Norwich City,1,1,0.5
+2011-2012,9,2011-10-22,Bolton,Sunderland,0,2,1.0
+2011-2012,9,2011-10-22,Newcastle Utd,Wigan Athletic,1,0,0.0
+2011-2012,9,2011-10-22,Wolves,Swansea City,2,2,0.5
+2011-2012,9,2011-10-22,Aston Villa,West Brom,1,2,1.0
+2011-2012,9,2011-10-23,Fulham,Everton,1,3,1.0
+2011-2012,9,2011-10-23,QPR,Chelsea,1,0,0.0
+2011-2012,9,2011-10-23,Blackburn,Tottenham,1,2,1.0
+2011-2012,9,2011-10-23,Arsenal,Stoke City,3,1,0.0
+2011-2012,9,2011-10-23,Manchester Utd,Manchester City,1,6,1.0
+2011-2012,10,2011-10-29,Manchester City,Wolves,3,1,0.0
+2011-2012,10,2011-10-29,West Brom,Liverpool,0,2,1.0
+2011-2012,10,2011-10-29,Chelsea,Arsenal,3,5,1.0
+2011-2012,10,2011-10-29,Everton,Manchester Utd,0,1,1.0
+2011-2012,10,2011-10-29,Sunderland,Aston Villa,2,2,0.5
+2011-2012,10,2011-10-29,Swansea City,Bolton,3,1,0.0
+2011-2012,10,2011-10-29,Norwich City,Blackburn,3,3,0.5
+2011-2012,10,2011-10-29,Wigan Athletic,Fulham,0,2,1.0
+2011-2012,10,2011-10-30,Tottenham,QPR,3,1,0.0
+2011-2012,10,2011-10-31,Stoke City,Newcastle Utd,1,3,1.0
+2011-2012,11,2011-11-05,Aston Villa,Norwich City,3,2,0.0
+2011-2012,11,2011-11-05,Blackburn,Chelsea,0,1,1.0
+2011-2012,11,2011-11-05,Newcastle Utd,Everton,2,1,0.0
+2011-2012,11,2011-11-05,Liverpool,Swansea City,0,0,0.5
+2011-2012,11,2011-11-05,QPR,Manchester City,2,3,1.0
+2011-2012,11,2011-11-05,Manchester Utd,Sunderland,1,0,0.0
+2011-2012,11,2011-11-05,Arsenal,West Brom,3,0,0.0
+2011-2012,11,2011-11-06,Fulham,Tottenham,1,3,1.0
+2011-2012,11,2011-11-06,Bolton,Stoke City,5,0,0.0
+2011-2012,11,2011-11-06,Wolves,Wigan Athletic,3,1,0.0
+2011-2012,12,2011-11-19,West Brom,Bolton,2,1,0.0
+2011-2012,12,2011-11-19,Wigan Athletic,Blackburn,3,3,0.5
+2011-2012,12,2011-11-19,Norwich City,Arsenal,1,2,1.0
+2011-2012,12,2011-11-19,Stoke City,QPR,2,3,1.0
+2011-2012,12,2011-11-19,Sunderland,Fulham,0,0,0.5
+2011-2012,12,2011-11-19,Swansea City,Manchester Utd,0,1,1.0
+2011-2012,12,2011-11-19,Everton,Wolves,2,1,0.0
+2011-2012,12,2011-11-19,Manchester City,Newcastle Utd,3,1,0.0
+2011-2012,12,2011-11-20,Chelsea,Liverpool,1,2,1.0
+2011-2012,12,2011-11-21,Tottenham,Aston Villa,2,0,0.0
+2011-2012,13,2011-11-26,Norwich City,QPR,2,1,0.0
+2011-2012,13,2011-11-26,Manchester Utd,Newcastle Utd,1,1,0.5
+2011-2012,13,2011-11-26,Stoke City,Blackburn,3,1,0.0
+2011-2012,13,2011-11-26,West Brom,Tottenham,1,3,1.0
+2011-2012,13,2011-11-26,Sunderland,Wigan Athletic,1,2,1.0
+2011-2012,13,2011-11-26,Arsenal,Fulham,1,1,0.5
+2011-2012,13,2011-11-26,Bolton,Everton,0,2,1.0
+2011-2012,13,2011-11-26,Chelsea,Wolves,3,0,0.0
+2011-2012,13,2011-11-27,Liverpool,Manchester City,1,1,0.5
+2011-2012,13,2011-11-27,Swansea City,Aston Villa,0,0,0.5
+2011-2012,14,2011-12-03,Tottenham,Bolton,3,0,0.0
+2011-2012,14,2011-12-03,Aston Villa,Manchester Utd,0,1,1.0
+2011-2012,14,2011-12-03,Blackburn,Swansea City,4,2,0.0
+2011-2012,14,2011-12-03,Newcastle Utd,Chelsea,0,3,1.0
+2011-2012,14,2011-12-03,Wigan Athletic,Arsenal,0,4,1.0
+2011-2012,14,2011-12-03,QPR,West Brom,1,1,0.5
+2011-2012,14,2011-12-03,Manchester City,Norwich City,5,1,0.0
+2011-2012,14,2011-12-04,Wolves,Sunderland,2,1,0.0
+2011-2012,14,2011-12-04,Everton,Stoke City,0,1,1.0
+2011-2012,14,2011-12-05,Fulham,Liverpool,1,0,0.0
+2011-2012,15,2011-12-10,West Brom,Wigan Athletic,1,2,1.0
+2011-2012,15,2011-12-10,Norwich City,Newcastle Utd,4,2,0.0
+2011-2012,15,2011-12-10,Liverpool,QPR,1,0,0.0
+2011-2012,15,2011-12-10,Bolton,Aston Villa,1,2,1.0
+2011-2012,15,2011-12-10,Swansea City,Fulham,2,0,0.0
+2011-2012,15,2011-12-10,Manchester Utd,Wolves,4,1,0.0
+2011-2012,15,2011-12-10,Arsenal,Everton,1,0,0.0
+2011-2012,15,2011-12-11,Sunderland,Blackburn,2,1,0.0
+2011-2012,15,2011-12-11,Stoke City,Tottenham,2,1,0.0
+2011-2012,15,2011-12-12,Chelsea,Manchester City,2,1,0.0
+2011-2012,16,2011-12-17,Blackburn,West Brom,1,2,1.0
+2011-2012,16,2011-12-17,Newcastle Utd,Swansea City,0,0,0.5
+2011-2012,16,2011-12-17,Wigan Athletic,Chelsea,1,1,0.5
+2011-2012,16,2011-12-17,Wolves,Stoke City,1,2,1.0
+2011-2012,16,2011-12-17,Everton,Norwich City,1,1,0.5
+2011-2012,16,2011-12-17,Fulham,Bolton,2,0,0.0
+2011-2012,16,2011-12-18,QPR,Manchester Utd,0,2,1.0
+2011-2012,16,2011-12-18,Tottenham,Sunderland,1,0,0.0
+2011-2012,16,2011-12-18,Manchester City,Arsenal,1,0,0.0
+2011-2012,16,2011-12-18,Aston Villa,Liverpool,0,2,1.0
+2011-2012,17,2011-12-20,Wolves,Norwich City,2,2,0.5
+2011-2012,17,2011-12-20,Blackburn,Bolton,1,2,1.0
+2011-2012,17,2011-12-21,Everton,Swansea City,1,0,0.0
+2011-2012,17,2011-12-21,Fulham,Manchester Utd,0,5,1.0
+2011-2012,17,2011-12-21,QPR,Sunderland,2,3,1.0
+2011-2012,17,2011-12-21,Aston Villa,Arsenal,1,2,1.0
+2011-2012,17,2011-12-21,Manchester City,Stoke City,3,0,0.0
+2011-2012,17,2011-12-21,Wigan Athletic,Liverpool,0,0,0.5
+2011-2012,17,2011-12-21,Newcastle Utd,West Brom,2,3,1.0
+2011-2012,17,2011-12-22,Tottenham,Chelsea,1,1,0.5
+2011-2012,18,2011-12-26,Liverpool,Blackburn,1,1,0.5
+2011-2012,18,2011-12-26,Sunderland,Everton,1,1,0.5
+2011-2012,18,2011-12-26,West Brom,Manchester City,0,0,0.5
+2011-2012,18,2011-12-26,Manchester Utd,Wigan Athletic,5,0,0.0
+2011-2012,18,2011-12-26,Bolton,Newcastle Utd,0,2,1.0
+2011-2012,18,2011-12-26,Chelsea,Fulham,1,1,0.5
+2011-2012,18,2011-12-26,Stoke City,Aston Villa,0,0,0.5
+2011-2012,18,2011-12-27,Arsenal,Wolves,1,1,0.5
+2011-2012,18,2011-12-27,Swansea City,QPR,1,1,0.5
+2011-2012,18,2011-12-27,Norwich City,Tottenham,0,2,1.0
+2011-2012,19,2011-12-30,Liverpool,Newcastle Utd,3,1,0.0
+2011-2012,19,2011-12-31,Arsenal,QPR,1,0,0.0
+2011-2012,19,2011-12-31,Bolton,Wolves,1,1,0.5
+2011-2012,19,2011-12-31,Norwich City,Fulham,1,1,0.5
+2011-2012,19,2011-12-31,Chelsea,Aston Villa,1,3,1.0
+2011-2012,19,2011-12-31,Manchester Utd,Blackburn,2,3,1.0
+2011-2012,19,2011-12-31,Swansea City,Tottenham,1,1,0.5
+2011-2012,19,2011-12-31,Stoke City,Wigan Athletic,2,2,0.5
+2011-2012,19,2012-01-01,West Brom,Everton,0,1,1.0
+2011-2012,19,2012-01-01,Sunderland,Manchester City,1,0,0.0
+2011-2012,20,2012-01-02,Blackburn,Stoke City,1,2,1.0
+2011-2012,20,2012-01-02,Aston Villa,Swansea City,0,2,1.0
+2011-2012,20,2012-01-02,Wolves,Chelsea,1,2,1.0
+2011-2012,20,2012-01-02,QPR,Norwich City,1,2,1.0
+2011-2012,20,2012-01-02,Fulham,Arsenal,2,1,0.0
+2011-2012,20,2012-01-03,Tottenham,West Brom,1,0,0.0
+2011-2012,20,2012-01-03,Manchester City,Liverpool,3,0,0.0
+2011-2012,20,2012-01-03,Wigan Athletic,Sunderland,1,4,1.0
+2011-2012,20,2012-01-04,Everton,Bolton,1,2,1.0
+2011-2012,20,2012-01-04,Newcastle Utd,Manchester Utd,3,0,0.0
+2011-2012,1,2012-01-11,Tottenham,Everton,2,0,0.0
+2011-2012,21,2012-01-14,Chelsea,Sunderland,1,0,0.0
+2011-2012,21,2012-01-14,Tottenham,Wolves,1,1,0.5
+2011-2012,21,2012-01-14,West Brom,Norwich City,1,2,1.0
+2011-2012,21,2012-01-14,Liverpool,Stoke City,0,0,0.5
+2011-2012,21,2012-01-14,Manchester Utd,Bolton,3,0,0.0
+2011-2012,21,2012-01-14,Blackburn,Fulham,3,1,0.0
+2011-2012,21,2012-01-14,Aston Villa,Everton,1,1,0.5
+2011-2012,21,2012-01-15,Swansea City,Arsenal,3,2,0.0
+2011-2012,21,2012-01-15,Newcastle Utd,QPR,1,0,0.0
+2011-2012,21,2012-01-16,Wigan Athletic,Manchester City,0,1,1.0
+2011-2012,22,2012-01-21,Bolton,Liverpool,3,1,0.0
+2011-2012,22,2012-01-21,Everton,Blackburn,1,1,0.5
+2011-2012,22,2012-01-21,Fulham,Newcastle Utd,5,2,0.0
+2011-2012,22,2012-01-21,Norwich City,Chelsea,0,0,0.5
+2011-2012,22,2012-01-21,Stoke City,West Brom,1,2,1.0
+2011-2012,22,2012-01-21,Sunderland,Swansea City,2,0,0.0
+2011-2012,22,2012-01-21,Wolves,Aston Villa,2,3,1.0
+2011-2012,22,2012-01-21,QPR,Wigan Athletic,3,1,0.0
+2011-2012,22,2012-01-22,Arsenal,Manchester Utd,1,2,1.0
+2011-2012,22,2012-01-22,Manchester City,Tottenham,3,2,0.0
+2011-2012,23,2012-01-31,Manchester Utd,Stoke City,2,0,0.0
+2011-2012,23,2012-01-31,Everton,Manchester City,1,0,0.0
+2011-2012,23,2012-01-31,Wolves,Liverpool,0,3,1.0
+2011-2012,23,2012-01-31,Tottenham,Wigan Athletic,3,1,0.0
+2011-2012,23,2012-01-31,Swansea City,Chelsea,1,1,0.5
+2011-2012,23,2012-02-01,Sunderland,Norwich City,3,0,0.0
+2011-2012,23,2012-02-01,Fulham,West Brom,1,1,0.5
+2011-2012,23,2012-02-01,Aston Villa,QPR,2,2,0.5
+2011-2012,23,2012-02-01,Bolton,Arsenal,0,0,0.5
+2011-2012,23,2012-02-01,Blackburn,Newcastle Utd,0,2,1.0
+2011-2012,24,2012-02-04,Stoke City,Sunderland,0,1,1.0
+2011-2012,24,2012-02-04,Arsenal,Blackburn,7,1,0.0
+2011-2012,24,2012-02-04,Wigan Athletic,Everton,1,1,0.5
+2011-2012,24,2012-02-04,Norwich City,Bolton,2,0,0.0
+2011-2012,24,2012-02-04,Manchester City,Fulham,3,0,0.0
+2011-2012,24,2012-02-04,QPR,Wolves,1,2,1.0
+2011-2012,24,2012-02-04,West Brom,Swansea City,1,2,1.0
+2011-2012,24,2012-02-05,Newcastle Utd,Aston Villa,2,1,0.0
+2011-2012,24,2012-02-05,Chelsea,Manchester Utd,3,3,0.5
+2011-2012,24,2012-02-06,Liverpool,Tottenham,0,0,0.5
+2011-2012,25,2012-02-11,Sunderland,Arsenal,1,2,1.0
+2011-2012,25,2012-02-11,Blackburn,QPR,3,2,0.0
+2011-2012,25,2012-02-11,Fulham,Stoke City,2,1,0.0
+2011-2012,25,2012-02-11,Bolton,Wigan Athletic,1,2,1.0
+2011-2012,25,2012-02-11,Manchester Utd,Liverpool,2,1,0.0
+2011-2012,25,2012-02-11,Swansea City,Norwich City,2,3,1.0
+2011-2012,25,2012-02-11,Everton,Chelsea,2,0,0.0
+2011-2012,25,2012-02-11,Tottenham,Newcastle Utd,5,0,0.0
+2011-2012,25,2012-02-12,Aston Villa,Manchester City,0,1,1.0
+2011-2012,25,2012-02-12,Wolves,West Brom,1,5,1.0
+2011-2012,26,2012-02-25,Manchester City,Blackburn,3,0,0.0
+2011-2012,26,2012-02-25,Newcastle Utd,Wolves,2,2,0.5
+2011-2012,26,2012-02-25,Chelsea,Bolton,3,0,0.0
+2011-2012,26,2012-02-25,Wigan Athletic,Aston Villa,0,0,0.5
+2011-2012,26,2012-02-25,QPR,Fulham,0,1,1.0
+2011-2012,26,2012-02-25,West Brom,Sunderland,4,0,0.0
+2011-2012,26,2012-02-26,Norwich City,Manchester Utd,1,2,1.0
+2011-2012,26,2012-02-26,Arsenal,Tottenham,5,2,0.0
+2011-2012,26,2012-02-26,Stoke City,Swansea City,2,0,0.0
+2011-2012,27,2012-03-03,West Brom,Chelsea,1,0,0.0
+2011-2012,27,2012-03-03,QPR,Everton,1,1,0.5
+2011-2012,27,2012-03-03,Liverpool,Arsenal,1,2,1.0
+2011-2012,27,2012-03-03,Wigan Athletic,Swansea City,0,2,1.0
+2011-2012,27,2012-03-03,Stoke City,Norwich City,1,0,0.0
+2011-2012,27,2012-03-03,Blackburn,Aston Villa,1,1,0.5
+2011-2012,27,2012-03-03,Manchester City,Bolton,2,0,0.0
+2011-2012,27,2012-03-04,Fulham,Wolves,5,0,0.0
+2011-2012,27,2012-03-04,Newcastle Utd,Sunderland,1,1,0.5
+2011-2012,27,2012-03-04,Tottenham,Manchester Utd,1,3,1.0
+2011-2012,28,2012-03-10,Wolves,Blackburn,0,2,1.0
+2011-2012,28,2012-03-10,Sunderland,Liverpool,1,0,0.0
+2011-2012,28,2012-03-10,Aston Villa,Fulham,1,0,0.0
+2011-2012,28,2012-03-10,Bolton,QPR,2,1,0.0
+2011-2012,28,2012-03-10,Chelsea,Stoke City,1,0,0.0
+2011-2012,28,2012-03-10,Everton,Tottenham,1,0,0.0
+2011-2012,28,2012-03-11,Manchester Utd,West Brom,2,0,0.0
+2011-2012,28,2012-03-11,Swansea City,Manchester City,1,0,0.0
+2011-2012,28,2012-03-11,Norwich City,Wigan Athletic,1,1,0.5
+2011-2012,28,2012-03-12,Arsenal,Newcastle Utd,2,1,0.0
+2011-2012,26,2012-03-13,Liverpool,Everton,3,0,0.0
+2011-2012,29,2012-03-17,Fulham,Swansea City,0,3,1.0
+2011-2012,29,2012-03-17,Wigan Athletic,West Brom,1,1,0.5
+2011-2012,29,2012-03-18,Wolves,Manchester Utd,0,5,1.0
+2011-2012,29,2012-03-18,Newcastle Utd,Norwich City,1,0,0.0
+2011-2012,29,2012-03-20,Blackburn,Sunderland,2,0,0.0
+2011-2012,29,2012-03-21,Manchester City,Chelsea,2,1,0.0
+2011-2012,29,2012-03-21,Everton,Arsenal,0,1,1.0
+2011-2012,29,2012-03-21,Tottenham,Stoke City,1,1,0.5
+2011-2012,29,2012-03-21,QPR,Liverpool,3,2,0.0
+2011-2012,30,2012-03-24,Sunderland,QPR,3,1,0.0
+2011-2012,30,2012-03-24,Chelsea,Tottenham,0,0,0.5
+2011-2012,30,2012-03-24,Arsenal,Aston Villa,3,0,0.0
+2011-2012,30,2012-03-24,Norwich City,Wolves,2,1,0.0
+2011-2012,30,2012-03-24,Stoke City,Manchester City,1,1,0.5
+2011-2012,30,2012-03-24,Liverpool,Wigan Athletic,1,2,1.0
+2011-2012,30,2012-03-24,Bolton,Blackburn,2,1,0.0
+2011-2012,30,2012-03-24,Swansea City,Everton,0,2,1.0
+2011-2012,30,2012-03-25,West Brom,Newcastle Utd,1,3,1.0
+2011-2012,30,2012-03-26,Manchester Utd,Fulham,1,0,0.0
+2011-2012,31,2012-03-31,QPR,Arsenal,2,1,0.0
+2011-2012,31,2012-03-31,Fulham,Norwich City,2,1,0.0
+2011-2012,31,2012-03-31,Wigan Athletic,Stoke City,2,0,0.0
+2011-2012,31,2012-03-31,Everton,West Brom,2,0,0.0
+2011-2012,31,2012-03-31,Wolves,Bolton,2,3,1.0
+2011-2012,31,2012-03-31,Aston Villa,Chelsea,2,4,1.0
+2011-2012,31,2012-03-31,Manchester City,Sunderland,3,3,0.5
+2011-2012,31,2012-04-01,Newcastle Utd,Liverpool,2,0,0.0
+2011-2012,31,2012-04-01,Tottenham,Swansea City,3,1,0.0
+2011-2012,31,2012-04-02,Blackburn,Manchester Utd,0,2,1.0
+2011-2012,32,2012-04-06,Swansea City,Newcastle Utd,0,2,1.0
+2011-2012,32,2012-04-07,Norwich City,Everton,2,2,0.5
+2011-2012,32,2012-04-07,Stoke City,Wolves,2,1,0.0
+2011-2012,32,2012-04-07,Sunderland,Tottenham,0,0,0.5
+2011-2012,32,2012-04-07,West Brom,Blackburn,3,0,0.0
+2011-2012,32,2012-04-07,Bolton,Fulham,0,3,1.0
+2011-2012,32,2012-04-07,Liverpool,Aston Villa,1,1,0.5
+2011-2012,32,2012-04-07,Chelsea,Wigan Athletic,2,1,0.0
+2011-2012,32,2012-04-08,Arsenal,Manchester City,1,0,0.0
+2011-2012,32,2012-04-08,Manchester Utd,QPR,2,0,0.0
+2011-2012,33,2012-04-09,Tottenham,Norwich City,1,2,1.0
+2011-2012,33,2012-04-09,Aston Villa,Stoke City,1,1,0.5
+2011-2012,33,2012-04-09,Everton,Sunderland,4,0,0.0
+2011-2012,33,2012-04-09,Fulham,Chelsea,1,1,0.5
+2011-2012,33,2012-04-09,Newcastle Utd,Bolton,2,0,0.0
+2011-2012,33,2012-04-10,Blackburn,Liverpool,2,3,1.0
+2011-2012,33,2012-04-11,Wolves,Arsenal,0,3,1.0
+2011-2012,33,2012-04-11,QPR,Swansea City,3,0,0.0
+2011-2012,33,2012-04-11,Manchester City,West Brom,4,0,0.0
+2011-2012,33,2012-04-11,Wigan Athletic,Manchester Utd,1,0,0.0
+2011-2012,34,2012-04-14,Norwich City,Manchester City,1,6,1.0
+2011-2012,34,2012-04-14,Swansea City,Blackburn,3,0,0.0
+2011-2012,34,2012-04-14,West Brom,QPR,1,0,0.0
+2011-2012,34,2012-04-14,Sunderland,Wolves,0,0,0.5
+2011-2012,34,2012-04-15,Manchester Utd,Aston Villa,4,0,0.0
+2011-2012,34,2012-04-16,Arsenal,Wigan Athletic,1,2,1.0
+2011-2012,35,2012-04-21,QPR,Tottenham,1,0,0.0
+2011-2012,35,2012-04-21,Fulham,Wigan Athletic,2,1,0.0
+2011-2012,35,2012-04-21,Bolton,Swansea City,1,1,0.5
+2011-2012,35,2012-04-21,Newcastle Utd,Stoke City,3,0,0.0
+2011-2012,35,2012-04-21,Arsenal,Chelsea,0,0,0.5
+2011-2012,35,2012-04-21,Aston Villa,Sunderland,0,0,0.5
+2011-2012,35,2012-04-21,Blackburn,Norwich City,2,0,0.0
+2011-2012,35,2012-04-22,Wolves,Manchester City,0,2,1.0
+2011-2012,35,2012-04-22,Manchester Utd,Everton,4,4,0.5
+2011-2012,35,2012-04-22,Liverpool,West Brom,0,1,1.0
+2011-2012,29,2012-04-24,Aston Villa,Bolton,1,2,1.0
+2011-2012,36,2012-04-28,Stoke City,Arsenal,1,1,0.5
+2011-2012,36,2012-04-28,Norwich City,Liverpool,0,3,1.0
+2011-2012,36,2012-04-28,Sunderland,Bolton,2,2,0.5
+2011-2012,36,2012-04-28,Everton,Fulham,4,0,0.0
+2011-2012,36,2012-04-28,Swansea City,Wolves,4,4,0.5
+2011-2012,36,2012-04-28,West Brom,Aston Villa,0,0,0.5
+2011-2012,36,2012-04-28,Wigan Athletic,Newcastle Utd,4,0,0.0
+2011-2012,36,2012-04-29,Chelsea,QPR,6,1,0.0
+2011-2012,36,2012-04-29,Tottenham,Blackburn,2,0,0.0
+2011-2012,36,2012-04-30,Manchester City,Manchester Utd,1,0,0.0
+2011-2012,34,2012-05-01,Liverpool,Fulham,0,1,1.0
+2011-2012,34,2012-05-01,Stoke City,Everton,1,1,0.5
+2011-2012,34,2012-05-02,Bolton,Tottenham,1,4,1.0
+2011-2012,34,2012-05-02,Chelsea,Newcastle Utd,0,2,1.0
+2011-2012,37,2012-05-05,Arsenal,Norwich City,3,3,0.5
+2011-2012,37,2012-05-06,Manchester Utd,Swansea City,2,0,0.0
+2011-2012,37,2012-05-06,Wolves,Everton,0,0,0.5
+2011-2012,37,2012-05-06,Fulham,Sunderland,2,1,0.0
+2011-2012,37,2012-05-06,Newcastle Utd,Manchester City,0,2,1.0
+2011-2012,37,2012-05-06,Aston Villa,Tottenham,1,1,0.5
+2011-2012,37,2012-05-06,Bolton,West Brom,2,2,0.5
+2011-2012,37,2012-05-06,QPR,Stoke City,1,0,0.0
+2011-2012,37,2012-05-07,Blackburn,Wigan Athletic,0,1,1.0
+2011-2012,37,2012-05-08,Liverpool,Chelsea,4,1,0.0
+2011-2012,38,2012-05-13,Norwich City,Aston Villa,2,0,0.0
+2011-2012,38,2012-05-13,Sunderland,Manchester Utd,0,1,1.0
+2011-2012,38,2012-05-13,Tottenham,Fulham,2,0,0.0
+2011-2012,38,2012-05-13,West Brom,Arsenal,2,3,1.0
+2011-2012,38,2012-05-13,Chelsea,Blackburn,2,1,0.0
+2011-2012,38,2012-05-13,Wigan Athletic,Wolves,3,2,0.0
+2011-2012,38,2012-05-13,Everton,Newcastle Utd,3,1,0.0
+2011-2012,38,2012-05-13,Swansea City,Liverpool,1,0,0.0
+2011-2012,38,2012-05-13,Stoke City,Bolton,2,2,0.5
+2011-2012,38,2012-05-13,Manchester City,QPR,3,2,0.0

@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2016-2017,1,2016-08-19,Málaga,Osasuna,1,1,0.5
+2016-2017,1,2016-08-19,La Coruña,Eibar,2,1,0.0
+2016-2017,1,2016-08-20,Barcelona,Betis,6,2,0.0
+2016-2017,1,2016-08-20,Granada,Villarreal,1,1,0.5
+2016-2017,1,2016-08-20,Sevilla,Espanyol,6,4,0.0
+2016-2017,1,2016-08-21,Sporting Gijón,Athletic Club,2,1,0.0
+2016-2017,1,2016-08-21,Real Sociedad,Real Madrid,0,3,1.0
+2016-2017,1,2016-08-21,Atlético Madrid,Alavés,1,1,0.5
+2016-2017,1,2016-08-22,Celta Vigo,Leganés,0,1,1.0
+2016-2017,1,2016-08-22,Valencia,Las Palmas,2,4,1.0
+2016-2017,2,2016-08-26,Betis,La Coruña,0,0,0.5
+2016-2017,2,2016-08-26,Espanyol,Málaga,2,2,0.5
+2016-2017,2,2016-08-27,Eibar,Valencia,1,0,0.0
+2016-2017,2,2016-08-27,Osasuna,Real Sociedad,0,2,1.0
+2016-2017,2,2016-08-27,Real Madrid,Celta Vigo,2,1,0.0
+2016-2017,2,2016-08-27,Leganés,Atlético Madrid,0,0,0.5
+2016-2017,2,2016-08-28,Las Palmas,Granada,5,1,0.0
+2016-2017,2,2016-08-28,Alavés,Sporting Gijón,0,0,0.5
+2016-2017,2,2016-08-28,Athletic Club,Barcelona,0,1,1.0
+2016-2017,2,2016-08-28,Villarreal,Sevilla,0,0,0.5
+2016-2017,3,2016-09-09,Real Sociedad,Espanyol,1,1,0.5
+2016-2017,3,2016-09-10,Celta Vigo,Atlético Madrid,0,4,1.0
+2016-2017,3,2016-09-10,Real Madrid,Osasuna,5,2,0.0
+2016-2017,3,2016-09-10,Málaga,Villarreal,0,2,1.0
+2016-2017,3,2016-09-10,Sevilla,Las Palmas,2,1,0.0
+2016-2017,3,2016-09-10,Barcelona,Alavés,1,2,1.0
+2016-2017,3,2016-09-11,Sporting Gijón,Leganés,2,1,0.0
+2016-2017,3,2016-09-11,Valencia,Betis,2,3,1.0
+2016-2017,3,2016-09-11,Granada,Eibar,1,2,1.0
+2016-2017,3,2016-09-11,La Coruña,Athletic Club,0,1,1.0
+2016-2017,4,2016-09-16,Betis,Granada,2,2,0.5
+2016-2017,4,2016-09-17,Leganés,Barcelona,1,5,1.0
+2016-2017,4,2016-09-17,Atlético Madrid,Sporting Gijón,5,0,0.0
+2016-2017,4,2016-09-17,Eibar,Sevilla,1,1,0.5
+2016-2017,4,2016-09-17,Las Palmas,Málaga,1,0,0.0
+2016-2017,4,2016-09-18,Osasuna,Celta Vigo,0,0,0.5
+2016-2017,4,2016-09-18,Athletic Club,Valencia,2,1,0.0
+2016-2017,4,2016-09-18,Villarreal,Real Sociedad,2,1,0.0
+2016-2017,4,2016-09-18,Espanyol,Real Madrid,0,2,1.0
+2016-2017,4,2016-09-19,Alavés,La Coruña,0,0,0.5
+2016-2017,5,2016-09-20,Málaga,Eibar,2,1,0.0
+2016-2017,5,2016-09-20,Sevilla,Betis,1,0,0.0
+2016-2017,5,2016-09-21,Real Madrid,Villarreal,1,1,0.5
+2016-2017,5,2016-09-21,Celta Vigo,Sporting Gijón,2,1,0.0
+2016-2017,5,2016-09-21,Granada,Athletic Club,1,2,1.0
+2016-2017,5,2016-09-21,Real Sociedad,Las Palmas,4,1,0.0
+2016-2017,5,2016-09-21,Barcelona,Atlético Madrid,1,1,0.5
+2016-2017,5,2016-09-22,Osasuna,Espanyol,1,2,1.0
+2016-2017,5,2016-09-22,La Coruña,Leganés,1,2,1.0
+2016-2017,5,2016-09-22,Valencia,Alavés,2,1,0.0
+2016-2017,6,2016-09-23,Betis,Málaga,1,0,0.0
+2016-2017,6,2016-09-24,Eibar,Real Sociedad,2,0,0.0
+2016-2017,6,2016-09-24,Sporting Gijón,Barcelona,0,5,1.0
+2016-2017,6,2016-09-24,Athletic Club,Sevilla,3,1,0.0
+2016-2017,6,2016-09-24,Las Palmas,Real Madrid,2,2,0.5
+2016-2017,6,2016-09-25,Leganés,Valencia,1,2,1.0
+2016-2017,6,2016-09-25,Atlético Madrid,La Coruña,1,0,0.0
+2016-2017,6,2016-09-25,Villarreal,Osasuna,3,1,0.0
+2016-2017,6,2016-09-25,Espanyol,Celta Vigo,0,2,1.0
+2016-2017,6,2016-09-26,Alavés,Granada,3,1,0.0
+2016-2017,7,2016-09-30,Real Sociedad,Betis,1,0,0.0
+2016-2017,7,2016-10-01,Granada,Leganés,0,1,1.0
+2016-2017,7,2016-10-01,Sevilla,Alavés,2,1,0.0
+2016-2017,7,2016-10-01,Osasuna,Las Palmas,2,2,0.5
+2016-2017,7,2016-10-01,La Coruña,Sporting Gijón,2,1,0.0
+2016-2017,7,2016-10-02,Valencia,Atlético Madrid,0,2,1.0
+2016-2017,7,2016-10-02,Real Madrid,Eibar,1,1,0.5
+2016-2017,7,2016-10-02,Espanyol,Villarreal,0,0,0.5
+2016-2017,7,2016-10-02,Málaga,Athletic Club,2,1,0.0
+2016-2017,7,2016-10-02,Celta Vigo,Barcelona,4,3,0.0
+2016-2017,8,2016-10-14,Las Palmas,Espanyol,0,0,0.5
+2016-2017,8,2016-10-15,Leganés,Sevilla,2,3,1.0
+2016-2017,8,2016-10-15,Barcelona,La Coruña,4,0,0.0
+2016-2017,8,2016-10-15,Atlético Madrid,Granada,7,1,0.0
+2016-2017,8,2016-10-15,Betis,Real Madrid,1,6,1.0
+2016-2017,8,2016-10-16,Alavés,Málaga,1,1,0.5
+2016-2017,8,2016-10-16,Athletic Club,Real Sociedad,3,2,0.0
+2016-2017,8,2016-10-16,Sporting Gijón,Valencia,1,2,1.0
+2016-2017,8,2016-10-16,Villarreal,Celta Vigo,5,0,0.0
+2016-2017,8,2016-10-17,Eibar,Osasuna,2,3,1.0
+2016-2017,9,2016-10-21,Osasuna,Betis,1,2,1.0
+2016-2017,9,2016-10-22,Espanyol,Eibar,3,3,0.5
+2016-2017,9,2016-10-22,Valencia,Barcelona,2,3,1.0
+2016-2017,9,2016-10-22,Real Sociedad,Alavés,3,0,0.0
+2016-2017,9,2016-10-22,Granada,Sporting Gijón,0,0,0.5
+2016-2017,9,2016-10-23,Celta Vigo,La Coruña,4,1,0.0
+2016-2017,9,2016-10-23,Sevilla,Atlético Madrid,1,0,0.0
+2016-2017,9,2016-10-23,Villarreal,Las Palmas,2,1,0.0
+2016-2017,9,2016-10-23,Málaga,Leganés,4,0,0.0
+2016-2017,9,2016-10-23,Real Madrid,Athletic Club,2,1,0.0
+2016-2017,10,2016-10-28,Leganés,Real Sociedad,0,2,1.0
+2016-2017,10,2016-10-29,Sporting Gijón,Sevilla,1,1,0.5
+2016-2017,10,2016-10-29,Alavés,Real Madrid,1,4,1.0
+2016-2017,10,2016-10-29,Atlético Madrid,Málaga,4,2,0.0
+2016-2017,10,2016-10-29,Barcelona,Granada,1,0,0.0
+2016-2017,10,2016-10-30,Eibar,Villarreal,2,1,0.0
+2016-2017,10,2016-10-30,Athletic Club,Osasuna,1,1,0.5
+2016-2017,10,2016-10-30,Betis,Espanyol,0,1,1.0
+2016-2017,10,2016-10-30,Las Palmas,Celta Vigo,3,3,0.5
+2016-2017,10,2016-10-31,La Coruña,Valencia,1,1,0.5
+2016-2017,11,2016-11-04,Málaga,Sporting Gijón,3,2,0.0
+2016-2017,11,2016-11-05,Granada,La Coruña,1,1,0.5
+2016-2017,11,2016-11-05,Real Sociedad,Atlético Madrid,2,0,0.0
+2016-2017,11,2016-11-05,Osasuna,Alavés,0,1,1.0
+2016-2017,11,2016-11-05,Las Palmas,Eibar,1,0,0.0
+2016-2017,11,2016-11-06,Real Madrid,Leganés,3,0,0.0
+2016-2017,11,2016-11-06,Espanyol,Athletic Club,0,0,0.5
+2016-2017,11,2016-11-06,Celta Vigo,Valencia,2,1,0.0
+2016-2017,11,2016-11-06,Villarreal,Betis,2,0,0.0
+2016-2017,11,2016-11-06,Sevilla,Barcelona,1,2,1.0
+2016-2017,12,2016-11-18,Betis,Las Palmas,2,0,0.0
+2016-2017,12,2016-11-19,La Coruña,Sevilla,2,3,1.0
+2016-2017,12,2016-11-19,Barcelona,Málaga,0,0,0.5
+2016-2017,12,2016-11-19,Eibar,Celta Vigo,1,0,0.0
+2016-2017,12,2016-11-19,Atlético Madrid,Real Madrid,0,3,1.0
+2016-2017,12,2016-11-20,Alavés,Espanyol,0,1,1.0
+2016-2017,12,2016-11-20,Valencia,Granada,1,1,0.5
+2016-2017,12,2016-11-20,Sporting Gijón,Real Sociedad,1,3,1.0
+2016-2017,12,2016-11-20,Athletic Club,Villarreal,1,0,0.0
+2016-2017,12,2016-11-21,Leganés,Osasuna,2,0,0.0
+2016-2017,13,2016-11-25,Eibar,Betis,3,1,0.0
+2016-2017,13,2016-11-26,Málaga,La Coruña,4,3,0.0
+2016-2017,13,2016-11-26,Real Madrid,Sporting Gijón,2,1,0.0
+2016-2017,13,2016-11-26,Espanyol,Leganés,3,0,0.0
+2016-2017,13,2016-11-26,Sevilla,Valencia,2,1,0.0
+2016-2017,13,2016-11-27,Villarreal,Alavés,0,2,1.0
+2016-2017,13,2016-11-27,Osasuna,Atlético Madrid,0,3,1.0
+2016-2017,13,2016-11-27,Celta Vigo,Granada,3,1,0.0
+2016-2017,13,2016-11-27,Real Sociedad,Barcelona,1,1,0.5
+2016-2017,13,2016-11-28,Las Palmas,Athletic Club,3,1,0.0
+2016-2017,14,2016-12-03,Granada,Sevilla,2,1,0.0
+2016-2017,14,2016-12-03,Barcelona,Real Madrid,1,1,0.5
+2016-2017,14,2016-12-03,Leganés,Villarreal,0,0,0.5
+2016-2017,14,2016-12-03,Atlético Madrid,Espanyol,0,0,0.5
+2016-2017,14,2016-12-04,Betis,Celta Vigo,3,3,0.5
+2016-2017,14,2016-12-04,Athletic Club,Eibar,3,1,0.0
+2016-2017,14,2016-12-04,Alavés,Las Palmas,1,1,0.5
+2016-2017,14,2016-12-04,Sporting Gijón,Osasuna,3,1,0.0
+2016-2017,14,2016-12-04,Valencia,Málaga,2,2,0.5
+2016-2017,14,2016-12-05,La Coruña,Real Sociedad,5,1,0.0
+2016-2017,15,2016-12-09,Málaga,Granada,1,1,0.5
+2016-2017,15,2016-12-10,Osasuna,Barcelona,0,3,1.0
+2016-2017,15,2016-12-10,Real Sociedad,Valencia,3,2,0.0
+2016-2017,15,2016-12-10,Las Palmas,Leganés,1,1,0.5
+2016-2017,15,2016-12-10,Real Madrid,La Coruña,3,2,0.0
+2016-2017,15,2016-12-11,Eibar,Alavés,0,0,0.5
+2016-2017,15,2016-12-11,Celta Vigo,Sevilla,0,3,1.0
+2016-2017,15,2016-12-11,Espanyol,Sporting Gijón,2,1,0.0
+2016-2017,15,2016-12-11,Betis,Athletic Club,1,0,0.0
+2016-2017,15,2016-12-12,Villarreal,Atlético Madrid,3,0,0.0
+2016-2017,16,2016-12-16,Alavés,Betis,1,0,0.0
+2016-2017,16,2016-12-17,Sporting Gijón,Villarreal,1,3,1.0
+2016-2017,16,2016-12-17,Atlético Madrid,Las Palmas,1,0,0.0
+2016-2017,16,2016-12-17,Granada,Real Sociedad,0,2,1.0
+2016-2017,16,2016-12-17,Sevilla,Málaga,4,1,0.0
+2016-2017,16,2016-12-18,Leganés,Eibar,1,1,0.5
+2016-2017,16,2016-12-18,La Coruña,Osasuna,2,0,0.0
+2016-2017,16,2016-12-18,Barcelona,Espanyol,4,1,0.0
+2016-2017,16,2016-12-19,Athletic Club,Celta Vigo,2,1,0.0
+2016-2017,17,2017-01-06,Espanyol,La Coruña,1,1,0.5
+2016-2017,17,2017-01-07,Real Madrid,Granada,5,0,0.0
+2016-2017,17,2017-01-07,Eibar,Atlético Madrid,0,2,1.0
+2016-2017,17,2017-01-07,Las Palmas,Sporting Gijón,1,0,0.0
+2016-2017,17,2017-01-07,Real Sociedad,Sevilla,0,4,1.0
+2016-2017,17,2017-01-08,Athletic Club,Alavés,0,0,0.5
+2016-2017,17,2017-01-08,Betis,Leganés,2,0,0.0
+2016-2017,17,2017-01-08,Celta Vigo,Málaga,3,1,0.0
+2016-2017,17,2017-01-08,Villarreal,Barcelona,1,1,0.5
+2016-2017,17,2017-01-09,Osasuna,Valencia,3,3,0.5
+2016-2017,18,2017-01-14,Leganés,Athletic Club,0,0,0.5
+2016-2017,18,2017-01-14,Barcelona,Las Palmas,5,0,0.0
+2016-2017,18,2017-01-14,Atlético Madrid,Betis,1,0,0.0
+2016-2017,18,2017-01-14,La Coruña,Villarreal,0,0,0.5
+2016-2017,18,2017-01-15,Valencia,Espanyol,2,1,0.0
+2016-2017,18,2017-01-15,Celta Vigo,Alavés,1,0,0.0
+2016-2017,18,2017-01-15,Sporting Gijón,Eibar,2,3,1.0
+2016-2017,18,2017-01-15,Granada,Osasuna,1,1,0.5
+2016-2017,18,2017-01-15,Sevilla,Real Madrid,2,1,0.0
+2016-2017,18,2017-01-16,Málaga,Real Sociedad,0,2,1.0
+2016-2017,19,2017-01-20,Las Palmas,La Coruña,1,1,0.5
+2016-2017,19,2017-01-21,Espanyol,Granada,3,1,0.0
+2016-2017,19,2017-01-21,Real Madrid,Málaga,2,1,0.0
+2016-2017,19,2017-01-21,Alavés,Leganés,2,2,0.5
+2016-2017,19,2017-01-21,Villarreal,Valencia,0,2,1.0
+2016-2017,19,2017-01-22,Osasuna,Sevilla,3,4,1.0
+2016-2017,19,2017-01-22,Athletic Club,Atlético Madrid,2,2,0.5
+2016-2017,19,2017-01-22,Real Sociedad,Celta Vigo,1,0,0.0
+2016-2017,19,2017-01-22,Betis,Sporting Gijón,0,0,0.5
+2016-2017,19,2017-01-22,Eibar,Barcelona,0,4,1.0
+2016-2017,20,2017-01-27,Osasuna,Málaga,1,1,0.5
+2016-2017,20,2017-01-28,Villarreal,Granada,2,0,0.0
+2016-2017,20,2017-01-28,Alavés,Atlético Madrid,0,0,0.5
+2016-2017,20,2017-01-28,Eibar,La Coruña,3,1,0.0
+2016-2017,20,2017-01-28,Leganés,Celta Vigo,0,2,1.0
+2016-2017,20,2017-01-29,Betis,Barcelona,1,1,0.5
+2016-2017,20,2017-01-29,Espanyol,Sevilla,3,1,0.0
+2016-2017,20,2017-01-29,Athletic Club,Sporting Gijón,2,1,0.0
+2016-2017,20,2017-01-29,Real Madrid,Real Sociedad,3,0,0.0
+2016-2017,20,2017-01-30,Las Palmas,Valencia,3,1,0.0
+2016-2017,21,2017-02-04,Málaga,Espanyol,0,1,1.0
+2016-2017,21,2017-02-04,Barcelona,Athletic Club,3,0,0.0
+2016-2017,21,2017-02-04,Atlético Madrid,Leganés,2,0,0.0
+2016-2017,21,2017-02-04,Valencia,Eibar,0,4,1.0
+2016-2017,21,2017-02-05,Sevilla,Villarreal,0,0,0.5
+2016-2017,21,2017-02-05,Sporting Gijón,Alavés,2,4,1.0
+2016-2017,21,2017-02-05,Real Sociedad,Osasuna,3,2,0.0
+2016-2017,21,2017-02-06,Granada,Las Palmas,1,0,0.0
+2016-2017,22,2017-02-10,Espanyol,Real Sociedad,1,2,1.0
+2016-2017,22,2017-02-11,Betis,Valencia,0,0,0.5
+2016-2017,22,2017-02-11,Alavés,Barcelona,0,6,1.0
+2016-2017,22,2017-02-11,Athletic Club,La Coruña,2,1,0.0
+2016-2017,22,2017-02-11,Osasuna,Real Madrid,1,3,1.0
+2016-2017,22,2017-02-12,Villarreal,Málaga,1,1,0.5
+2016-2017,22,2017-02-12,Leganés,Sporting Gijón,0,2,1.0
+2016-2017,22,2017-02-12,Las Palmas,Sevilla,0,1,1.0
+2016-2017,22,2017-02-12,Atlético Madrid,Celta Vigo,3,2,0.0
+2016-2017,22,2017-02-13,Eibar,Granada,4,0,0.0
+2016-2017,23,2017-02-17,Granada,Betis,4,1,0.0
+2016-2017,23,2017-02-18,Sporting Gijón,Atlético Madrid,1,4,1.0
+2016-2017,23,2017-02-18,Real Madrid,Espanyol,2,0,0.0
+2016-2017,23,2017-02-18,La Coruña,Alavés,0,1,1.0
+2016-2017,23,2017-02-18,Sevilla,Eibar,2,0,0.0
+2016-2017,23,2017-02-19,Real Sociedad,Villarreal,0,1,1.0
+2016-2017,23,2017-02-19,Valencia,Athletic Club,2,0,0.0
+2016-2017,23,2017-02-19,Celta Vigo,Osasuna,3,0,0.0
+2016-2017,23,2017-02-19,Barcelona,Leganés,2,1,0.0
+2016-2017,23,2017-02-20,Málaga,Las Palmas,2,1,0.0
+2016-2017,16,2017-02-22,Valencia,Real Madrid,2,1,0.0
+2016-2017,24,2017-02-24,Las Palmas,Real Sociedad,0,1,1.0
+2016-2017,24,2017-02-25,Alavés,Valencia,2,1,0.0
+2016-2017,24,2017-02-25,Betis,Sevilla,1,2,1.0
+2016-2017,24,2017-02-25,Leganés,La Coruña,4,0,0.0
+2016-2017,24,2017-02-25,Eibar,Málaga,3,0,0.0
+2016-2017,24,2017-02-26,Espanyol,Osasuna,3,0,0.0
+2016-2017,24,2017-02-26,Atlético Madrid,Barcelona,1,2,1.0
+2016-2017,24,2017-02-26,Sporting Gijón,Celta Vigo,1,1,0.5
+2016-2017,24,2017-02-26,Athletic Club,Granada,3,1,0.0
+2016-2017,24,2017-02-26,Villarreal,Real Madrid,2,3,1.0
+2016-2017,25,2017-02-28,Real Sociedad,Eibar,2,2,0.5
+2016-2017,25,2017-02-28,Valencia,Leganés,1,0,0.0
+2016-2017,25,2017-02-28,Málaga,Betis,1,2,1.0
+2016-2017,25,2017-03-01,Barcelona,Sporting Gijón,6,1,0.0
+2016-2017,25,2017-03-01,Osasuna,Villarreal,1,4,1.0
+2016-2017,25,2017-03-01,Granada,Alavés,2,1,0.0
+2016-2017,25,2017-03-01,Real Madrid,Las Palmas,3,3,0.5
+2016-2017,25,2017-03-01,Celta Vigo,Espanyol,2,2,0.5
+2016-2017,25,2017-03-02,La Coruña,Atlético Madrid,1,1,0.5
+2016-2017,25,2017-03-02,Sevilla,Athletic Club,1,0,0.0
+2016-2017,26,2017-03-03,Betis,Real Sociedad,2,3,1.0
+2016-2017,26,2017-03-04,Leganés,Granada,1,0,0.0
+2016-2017,26,2017-03-04,Eibar,Real Madrid,1,4,1.0
+2016-2017,26,2017-03-04,Villarreal,Espanyol,2,0,0.0
+2016-2017,26,2017-03-04,Barcelona,Celta Vigo,5,0,0.0
+2016-2017,26,2017-03-05,Sporting Gijón,La Coruña,0,1,1.0
+2016-2017,26,2017-03-05,Atlético Madrid,Valencia,3,0,0.0
+2016-2017,26,2017-03-05,Las Palmas,Osasuna,5,2,0.0
+2016-2017,26,2017-03-05,Athletic Club,Málaga,1,0,0.0
+2016-2017,26,2017-03-06,Alavés,Sevilla,1,1,0.5
+2016-2017,21,2017-03-08,La Coruña,Betis,1,1,0.5
+2016-2017,27,2017-03-10,Espanyol,Las Palmas,4,3,0.0
+2016-2017,27,2017-03-11,Valencia,Sporting Gijón,1,1,0.5
+2016-2017,27,2017-03-11,Sevilla,Leganés,1,1,0.5
+2016-2017,27,2017-03-11,Málaga,Alavés,1,2,1.0
+2016-2017,27,2017-03-11,Granada,Atlético Madrid,0,1,1.0
+2016-2017,27,2017-03-12,Real Sociedad,Athletic Club,0,2,1.0
+2016-2017,27,2017-03-12,La Coruña,Barcelona,2,1,0.0
+2016-2017,27,2017-03-12,Celta Vigo,Villarreal,0,1,1.0
+2016-2017,27,2017-03-12,Real Madrid,Betis,2,1,0.0
+2016-2017,27,2017-03-13,Osasuna,Eibar,1,1,0.5
+2016-2017,28,2017-03-17,Las Palmas,Villarreal,1,0,0.0
+2016-2017,28,2017-03-18,Eibar,Espanyol,1,1,0.5
+2016-2017,28,2017-03-18,Athletic Club,Real Madrid,1,2,1.0
+2016-2017,28,2017-03-18,Alavés,Real Sociedad,1,0,0.0
+2016-2017,28,2017-03-18,Betis,Osasuna,2,0,0.0
+2016-2017,28,2017-03-19,Leganés,Málaga,0,0,0.5
+2016-2017,28,2017-03-19,Atlético Madrid,Sevilla,3,1,0.0
+2016-2017,28,2017-03-19,La Coruña,Celta Vigo,0,1,1.0
+2016-2017,28,2017-03-19,Sporting Gijón,Granada,3,1,0.0
+2016-2017,28,2017-03-19,Barcelona,Valencia,4,2,0.0
+2016-2017,29,2017-03-31,Espanyol,Betis,2,1,0.0
+2016-2017,29,2017-04-01,Villarreal,Eibar,2,3,1.0
+2016-2017,29,2017-04-01,Osasuna,Athletic Club,1,2,1.0
+2016-2017,29,2017-04-01,Real Sociedad,Leganés,1,1,0.5
+2016-2017,29,2017-04-01,Málaga,Atlético Madrid,0,2,1.0
+2016-2017,29,2017-04-02,Sevilla,Sporting Gijón,0,0,0.5
+2016-2017,29,2017-04-02,Real Madrid,Alavés,3,0,0.0
+2016-2017,29,2017-04-02,Valencia,La Coruña,3,0,0.0
+2016-2017,29,2017-04-02,Granada,Barcelona,1,4,1.0
+2016-2017,29,2017-04-03,Celta Vigo,Las Palmas,3,1,0.0
+2016-2017,30,2017-04-04,Athletic Club,Espanyol,2,0,0.0
+2016-2017,30,2017-04-04,Atlético Madrid,Real Sociedad,1,0,0.0
+2016-2017,30,2017-04-04,Betis,Villarreal,0,1,1.0
+2016-2017,30,2017-04-05,Barcelona,Sevilla,3,0,0.0
+2016-2017,30,2017-04-05,Alavés,Osasuna,0,1,1.0
+2016-2017,30,2017-04-05,La Coruña,Granada,0,0,0.5
+2016-2017,30,2017-04-05,Sporting Gijón,Málaga,0,1,1.0
+2016-2017,30,2017-04-05,Leganés,Real Madrid,2,4,1.0
+2016-2017,30,2017-04-06,Eibar,Las Palmas,3,1,0.0
+2016-2017,30,2017-04-06,Valencia,Celta Vigo,3,2,0.0
+2016-2017,31,2017-04-07,Villarreal,Athletic Club,3,1,0.0
+2016-2017,31,2017-04-08,Espanyol,Alavés,1,0,0.0
+2016-2017,31,2017-04-08,Real Madrid,Atlético Madrid,1,1,0.5
+2016-2017,31,2017-04-08,Sevilla,La Coruña,4,2,0.0
+2016-2017,31,2017-04-08,Málaga,Barcelona,2,0,0.0
+2016-2017,31,2017-04-09,Granada,Valencia,1,3,1.0
+2016-2017,31,2017-04-09,Celta Vigo,Eibar,0,2,1.0
+2016-2017,31,2017-04-09,Osasuna,Leganés,2,1,0.0
+2016-2017,31,2017-04-09,Las Palmas,Betis,4,1,0.0
+2016-2017,31,2017-04-10,Real Sociedad,Sporting Gijón,3,1,0.0
+2016-2017,32,2017-04-14,Athletic Club,Las Palmas,5,1,0.0
+2016-2017,32,2017-04-15,La Coruña,Málaga,2,0,0.0
+2016-2017,32,2017-04-15,Sporting Gijón,Real Madrid,2,3,1.0
+2016-2017,32,2017-04-15,Atlético Madrid,Osasuna,3,0,0.0
+2016-2017,32,2017-04-15,Barcelona,Real Sociedad,3,2,0.0
+2016-2017,32,2017-04-16,Leganés,Espanyol,0,1,1.0
+2016-2017,32,2017-04-16,Valencia,Sevilla,0,0,0.5
+2016-2017,32,2017-04-16,Betis,Eibar,2,0,0.0
+2016-2017,32,2017-04-16,Granada,Celta Vigo,0,3,1.0
+2016-2017,32,2017-04-17,Alavés,Villarreal,2,1,0.0
+2016-2017,33,2017-04-21,Sevilla,Granada,2,0,0.0
+2016-2017,33,2017-04-22,Málaga,Valencia,2,0,0.0
+2016-2017,33,2017-04-22,Villarreal,Leganés,2,1,0.0
+2016-2017,33,2017-04-22,Osasuna,Sporting Gijón,2,2,0.5
+2016-2017,33,2017-04-22,Espanyol,Atlético Madrid,0,1,1.0
+2016-2017,33,2017-04-23,Real Sociedad,La Coruña,1,0,0.0
+2016-2017,33,2017-04-23,Celta Vigo,Betis,0,1,1.0
+2016-2017,33,2017-04-23,Las Palmas,Alavés,1,1,0.5
+2016-2017,33,2017-04-23,Real Madrid,Barcelona,2,3,1.0
+2016-2017,33,2017-04-24,Eibar,Athletic Club,0,1,1.0
+2016-2017,34,2017-04-25,Sporting Gijón,Espanyol,1,1,0.5
+2016-2017,34,2017-04-25,Granada,Málaga,0,2,1.0
+2016-2017,34,2017-04-25,Atlético Madrid,Villarreal,0,1,1.0
+2016-2017,34,2017-04-26,Barcelona,Osasuna,7,1,0.0
+2016-2017,34,2017-04-26,Valencia,Real Sociedad,2,3,1.0
+2016-2017,34,2017-04-26,Leganés,Las Palmas,3,0,0.0
+2016-2017,34,2017-04-26,La Coruña,Real Madrid,2,6,1.0
+2016-2017,34,2017-04-27,Alavés,Eibar,0,0,0.5
+2016-2017,34,2017-04-27,Sevilla,Celta Vigo,2,1,0.0
+2016-2017,34,2017-04-27,Athletic Club,Betis,2,1,0.0
+2016-2017,35,2017-04-28,Villarreal,Sporting Gijón,3,1,0.0
+2016-2017,35,2017-04-29,Real Sociedad,Granada,2,1,0.0
+2016-2017,35,2017-04-29,Real Madrid,Valencia,2,1,0.0
+2016-2017,35,2017-04-29,Las Palmas,Atlético Madrid,0,5,1.0
+2016-2017,35,2017-04-29,Espanyol,Barcelona,0,3,1.0
+2016-2017,35,2017-04-30,Osasuna,La Coruña,2,2,0.5
+2016-2017,35,2017-04-30,Betis,Alavés,1,4,1.0
+2016-2017,35,2017-04-30,Eibar,Leganés,2,0,0.0
+2016-2017,35,2017-04-30,Celta Vigo,Athletic Club,0,3,1.0
+2016-2017,35,2017-05-01,Málaga,Sevilla,4,2,0.0
+2016-2017,36,2017-05-05,Sevilla,Real Sociedad,1,1,0.5
+2016-2017,36,2017-05-06,Sporting Gijón,Las Palmas,1,0,0.0
+2016-2017,36,2017-05-06,Atlético Madrid,Eibar,1,0,0.0
+2016-2017,36,2017-05-06,Barcelona,Villarreal,4,1,0.0
+2016-2017,36,2017-05-06,Granada,Real Madrid,0,4,1.0
+2016-2017,36,2017-05-07,Alavés,Athletic Club,1,0,0.0
+2016-2017,36,2017-05-07,Valencia,Osasuna,4,1,0.0
+2016-2017,36,2017-05-07,La Coruña,Espanyol,1,2,1.0
+2016-2017,36,2017-05-07,Málaga,Celta Vigo,3,0,0.0
+2016-2017,36,2017-05-08,Leganés,Betis,4,0,0.0
+2016-2017,37,2017-05-13,Espanyol,Valencia,0,1,1.0
+2016-2017,37,2017-05-13,Osasuna,Granada,2,1,0.0
+2016-2017,37,2017-05-14,Alavés,Celta Vigo,3,1,0.0
+2016-2017,37,2017-05-14,Las Palmas,Barcelona,1,4,1.0
+2016-2017,37,2017-05-14,Betis,Atlético Madrid,1,1,0.5
+2016-2017,37,2017-05-14,Real Sociedad,Málaga,2,2,0.5
+2016-2017,37,2017-05-14,Real Madrid,Sevilla,4,1,0.0
+2016-2017,37,2017-05-14,Villarreal,La Coruña,0,0,0.5
+2016-2017,37,2017-05-14,Athletic Club,Leganés,1,1,0.5
+2016-2017,37,2017-05-14,Eibar,Sporting Gijón,0,1,1.0
+2016-2017,21,2017-05-17,Celta Vigo,Real Madrid,1,4,1.0
+2016-2017,38,2017-05-19,Granada,Espanyol,1,2,1.0
+2016-2017,38,2017-05-20,Sporting Gijón,Betis,2,2,0.5
+2016-2017,38,2017-05-20,La Coruña,Las Palmas,3,0,0.0
+2016-2017,38,2017-05-20,Leganés,Alavés,1,1,0.5
+2016-2017,38,2017-05-20,Sevilla,Osasuna,5,0,0.0
+2016-2017,38,2017-05-21,Celta Vigo,Real Sociedad,2,2,0.5
+2016-2017,38,2017-05-21,Atlético Madrid,Athletic Club,3,1,0.0
+2016-2017,38,2017-05-21,Valencia,Villarreal,1,3,1.0
+2016-2017,38,2017-05-21,Málaga,Real Madrid,0,2,1.0
+2016-2017,38,2017-05-21,Barcelona,Eibar,4,2,0.0
