@@ -1,0 +1,120 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2019-2020,Group stage,1,2019-09-17,Lyon,Zenit,fr,ru,1,1,0.5
+2019-2020,Group stage,1,2019-09-17,Inter,Slavia Prague,it,cz,1,1,0.5
+2019-2020,Group stage,1,2019-09-17,Chelsea,Valencia,eng,es,0,1,0.0
+2019-2020,Group stage,1,2019-09-17,Benfica,RB Leipzig,pt,de,1,2,0.0
+2019-2020,Group stage,1,2019-09-17,Dortmund,Barcelona,de,es,0,0,0.5
+2019-2020,Group stage,1,2019-09-17,RB Salzburg,Genk,at,be,6,2,1.0
+2019-2020,Group stage,1,2019-09-17,Ajax,Lille,nl,fr,3,0,1.0
+2019-2020,Group stage,1,2019-09-17,Napoli,Liverpool,it,eng,2,0,1.0
+2019-2020,Group stage,1,2019-09-18,Club Brugge,Galatasaray,be,tr,0,0,0.5
+2019-2020,Group stage,1,2019-09-18,Olympiacos,Tottenham,gr,eng,2,2,0.5
+2019-2020,Group stage,1,2019-09-18,Atlético Madrid,Juventus,es,it,2,2,0.5
+2019-2020,Group stage,1,2019-09-18,Paris S-G,Real Madrid,fr,es,3,0,1.0
+2019-2020,Group stage,1,2019-09-18,Bayern Munich,Red Star,de,rs,3,0,1.0
+2019-2020,Group stage,1,2019-09-18,Dinamo Zagreb,Atalanta,hr,it,4,0,1.0
+2019-2020,Group stage,1,2019-09-18,Leverkusen,Loko Moscow,de,ru,1,2,0.0
+2019-2020,Group stage,1,2019-09-18,Shakhtar,Manchester City,ua,eng,0,3,0.0
+2019-2020,Group stage,2,2019-10-01,Atalanta,Shakhtar,it,ua,1,2,0.0
+2019-2020,Group stage,2,2019-10-01,Real Madrid,Club Brugge,es,be,2,2,0.5
+2019-2020,Group stage,2,2019-10-01,Manchester City,Dinamo Zagreb,eng,hr,2,0,1.0
+2019-2020,Group stage,2,2019-10-01,Tottenham,Bayern Munich,eng,de,2,7,0.0
+2019-2020,Group stage,2,2019-10-01,Juventus,Leverkusen,it,de,3,0,1.0
+2019-2020,Group stage,2,2019-10-01,Red Star,Olympiacos,rs,gr,3,1,1.0
+2019-2020,Group stage,2,2019-10-01,Loko Moscow,Atlético Madrid,ru,es,0,2,0.0
+2019-2020,Group stage,2,2019-10-01,Galatasaray,Paris S-G,tr,fr,0,1,0.0
+2019-2020,Group stage,2,2019-10-02,Genk,Napoli,be,it,0,0,0.5
+2019-2020,Group stage,2,2019-10-02,Slavia Prague,Dortmund,cz,de,0,2,0.0
+2019-2020,Group stage,2,2019-10-02,Liverpool,RB Salzburg,eng,at,4,3,1.0
+2019-2020,Group stage,2,2019-10-02,Barcelona,Inter,es,it,2,1,1.0
+2019-2020,Group stage,2,2019-10-02,RB Leipzig,Lyon,de,fr,0,2,0.0
+2019-2020,Group stage,2,2019-10-02,Lille,Chelsea,fr,eng,1,2,0.0
+2019-2020,Group stage,2,2019-10-02,Valencia,Ajax,es,nl,0,3,0.0
+2019-2020,Group stage,2,2019-10-02,Zenit,Benfica,ru,pt,3,1,1.0
+2019-2020,Group stage,3,2019-10-22,Atlético Madrid,Leverkusen,es,de,1,0,1.0
+2019-2020,Group stage,3,2019-10-22,Shakhtar,Dinamo Zagreb,ua,hr,2,2,0.5
+2019-2020,Group stage,3,2019-10-22,Tottenham,Red Star,eng,rs,5,0,1.0
+2019-2020,Group stage,3,2019-10-22,Manchester City,Atalanta,eng,it,5,1,1.0
+2019-2020,Group stage,3,2019-10-22,Club Brugge,Paris S-G,be,fr,0,5,0.0
+2019-2020,Group stage,3,2019-10-22,Juventus,Loko Moscow,it,ru,2,1,1.0
+2019-2020,Group stage,3,2019-10-22,Olympiacos,Bayern Munich,gr,de,2,3,0.0
+2019-2020,Group stage,3,2019-10-22,Galatasaray,Real Madrid,tr,es,0,1,0.0
+2019-2020,Group stage,3,2019-10-23,RB Leipzig,Zenit,de,ru,2,1,1.0
+2019-2020,Group stage,3,2019-10-23,Ajax,Chelsea,nl,eng,0,1,0.0
+2019-2020,Group stage,3,2019-10-23,Benfica,Lyon,pt,fr,2,1,1.0
+2019-2020,Group stage,3,2019-10-23,Inter,Dortmund,it,de,2,0,1.0
+2019-2020,Group stage,3,2019-10-23,RB Salzburg,Napoli,at,it,2,3,0.0
+2019-2020,Group stage,3,2019-10-23,Lille,Valencia,fr,es,1,1,0.5
+2019-2020,Group stage,3,2019-10-23,Genk,Liverpool,be,eng,1,4,0.0
+2019-2020,Group stage,3,2019-10-23,Slavia Prague,Barcelona,cz,es,1,2,0.0
+2019-2020,Group stage,4,2019-11-05,Barcelona,Slavia Prague,es,cz,0,0,0.5
+2019-2020,Group stage,4,2019-11-05,Liverpool,Genk,eng,be,2,1,1.0
+2019-2020,Group stage,4,2019-11-05,Chelsea,Ajax,eng,nl,4,4,0.5
+2019-2020,Group stage,4,2019-11-05,Zenit,RB Leipzig,ru,de,0,2,0.0
+2019-2020,Group stage,4,2019-11-05,Valencia,Lille,es,fr,4,1,1.0
+2019-2020,Group stage,4,2019-11-05,Napoli,RB Salzburg,it,at,1,1,0.5
+2019-2020,Group stage,4,2019-11-05,Dortmund,Inter,de,it,3,2,1.0
+2019-2020,Group stage,4,2019-11-05,Lyon,Benfica,fr,pt,3,1,1.0
+2019-2020,Group stage,4,2019-11-06,Bayern Munich,Olympiacos,de,gr,2,0,1.0
+2019-2020,Group stage,4,2019-11-06,Loko Moscow,Juventus,ru,it,1,2,0.0
+2019-2020,Group stage,4,2019-11-06,Atalanta,Manchester City,it,eng,1,1,0.5
+2019-2020,Group stage,4,2019-11-06,Leverkusen,Atlético Madrid,de,es,2,1,1.0
+2019-2020,Group stage,4,2019-11-06,Paris S-G,Club Brugge,fr,be,1,0,1.0
+2019-2020,Group stage,4,2019-11-06,Real Madrid,Galatasaray,es,tr,6,0,1.0
+2019-2020,Group stage,4,2019-11-06,Red Star,Tottenham,rs,eng,0,4,0.0
+2019-2020,Group stage,4,2019-11-06,Dinamo Zagreb,Shakhtar,hr,ua,3,3,0.5
+2019-2020,Group stage,5,2019-11-26,Manchester City,Shakhtar,eng,ua,1,1,0.5
+2019-2020,Group stage,5,2019-11-26,Tottenham,Olympiacos,eng,gr,4,2,1.0
+2019-2020,Group stage,5,2019-11-26,Galatasaray,Club Brugge,tr,be,1,1,0.5
+2019-2020,Group stage,5,2019-11-26,Loko Moscow,Leverkusen,ru,de,0,2,0.0
+2019-2020,Group stage,5,2019-11-26,Real Madrid,Paris S-G,es,fr,2,2,0.5
+2019-2020,Group stage,5,2019-11-26,Red Star,Bayern Munich,rs,de,0,6,0.0
+2019-2020,Group stage,5,2019-11-26,Juventus,Atlético Madrid,it,es,1,0,1.0
+2019-2020,Group stage,5,2019-11-26,Atalanta,Dinamo Zagreb,it,hr,2,0,1.0
+2019-2020,Group stage,5,2019-11-27,Valencia,Chelsea,es,eng,2,2,0.5
+2019-2020,Group stage,5,2019-11-27,Liverpool,Napoli,eng,it,1,1,0.5
+2019-2020,Group stage,5,2019-11-27,Zenit,Lyon,ru,fr,2,0,1.0
+2019-2020,Group stage,5,2019-11-27,Slavia Prague,Inter,cz,it,1,3,0.0
+2019-2020,Group stage,5,2019-11-27,Genk,RB Salzburg,be,at,1,4,0.0
+2019-2020,Group stage,5,2019-11-27,Lille,Ajax,fr,nl,0,2,0.0
+2019-2020,Group stage,5,2019-11-27,RB Leipzig,Benfica,de,pt,2,2,0.5
+2019-2020,Group stage,5,2019-11-27,Barcelona,Dortmund,es,de,3,1,1.0
+2019-2020,Group stage,6,2019-12-10,Napoli,Genk,it,be,4,0,1.0
+2019-2020,Group stage,6,2019-12-10,RB Salzburg,Liverpool,at,eng,0,2,0.0
+2019-2020,Group stage,6,2019-12-10,Benfica,Zenit,pt,ru,3,0,1.0
+2019-2020,Group stage,6,2019-12-10,Chelsea,Lille,eng,fr,2,1,1.0
+2019-2020,Group stage,6,2019-12-10,Inter,Barcelona,it,es,1,2,0.0
+2019-2020,Group stage,6,2019-12-10,Lyon,RB Leipzig,fr,de,2,2,0.5
+2019-2020,Group stage,6,2019-12-10,Ajax,Valencia,nl,es,0,1,0.0
+2019-2020,Group stage,6,2019-12-10,Dortmund,Slavia Prague,de,cz,2,1,1.0
+2019-2020,Group stage,6,2019-12-11,Dinamo Zagreb,Manchester City,hr,eng,1,4,0.0
+2019-2020,Group stage,6,2019-12-11,Shakhtar,Atalanta,ua,it,0,3,0.0
+2019-2020,Group stage,6,2019-12-11,Paris S-G,Galatasaray,fr,tr,5,0,1.0
+2019-2020,Group stage,6,2019-12-11,Bayern Munich,Tottenham,de,eng,3,1,1.0
+2019-2020,Group stage,6,2019-12-11,Atlético Madrid,Loko Moscow,es,ru,2,0,1.0
+2019-2020,Group stage,6,2019-12-11,Leverkusen,Juventus,de,it,0,2,0.0
+2019-2020,Group stage,6,2019-12-11,Club Brugge,Real Madrid,be,es,1,3,0.0
+2019-2020,Group stage,6,2019-12-11,Olympiacos,Red Star,gr,rs,1,0,1.0
+2019-2020,Round of 16,,2020-02-18,Dortmund,Paris S-G,de,fr,2,1,1.0
+2019-2020,Round of 16,,2020-02-18,Atlético Madrid,Liverpool,es,eng,1,0,1.0
+2019-2020,Round of 16,,2020-02-19,Tottenham,RB Leipzig,eng,de,0,1,0.0
+2019-2020,Round of 16,,2020-02-19,Atalanta,Valencia,it,es,4,1,1.0
+2019-2020,Round of 16,,2020-02-25,Chelsea,Bayern Munich,eng,de,0,3,0.0
+2019-2020,Round of 16,,2020-02-25,Napoli,Barcelona,it,es,1,1,0.5
+2019-2020,Round of 16,,2020-02-26,Real Madrid,Manchester City,es,eng,1,2,0.0
+2019-2020,Round of 16,,2020-02-26,Lyon,Juventus,fr,it,1,0,1.0
+2019-2020,Round of 16,,2020-03-10,Valencia,Atalanta,es,it,3,4,0.0
+2019-2020,Round of 16,,2020-03-10,RB Leipzig,Tottenham,de,eng,3,0,1.0
+2019-2020,Round of 16,,2020-03-11,Liverpool,Atlético Madrid,eng,es,2,3,0.0
+2019-2020,Round of 16,,2020-03-11,Paris S-G,Dortmund,fr,de,2,0,1.0
+2019-2020,Round of 16,,2020-08-07,Manchester City,Real Madrid,eng,es,2,1,1.0
+2019-2020,Round of 16,,2020-08-07,Juventus,Lyon,it,fr,2,1,1.0
+2019-2020,Round of 16,,2020-08-08,Barcelona,Napoli,es,it,3,1,1.0
+2019-2020,Round of 16,,2020-08-08,Bayern Munich,Chelsea,de,eng,4,1,1.0
+2019-2020,Quarter-finals,,2020-08-12,Atalanta,Paris S-G,it,fr,1,2,0.0
+2019-2020,Quarter-finals,,2020-08-13,RB Leipzig,Atlético Madrid,de,es,2,1,1.0
+2019-2020,Quarter-finals,,2020-08-14,Barcelona,Bayern Munich,es,de,2,8,0.0
+2019-2020,Quarter-finals,,2020-08-15,Manchester City,Lyon,eng,fr,1,3,0.0
+2019-2020,Semi-finals,,2020-08-18,RB Leipzig,Paris S-G,de,fr,0,3,0.0
+2019-2020,Semi-finals,,2020-08-19,Lyon,Bayern Munich,fr,de,0,3,0.0
+2019-2020,Final,,2020-08-23,Paris S-G,Bayern Munich,fr,de,0,1,0.0

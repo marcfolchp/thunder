@@ -1,0 +1,245 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022-2023,Ukrainian Premier League,1,2022-08-23,Shakhtar,FK Metalist 1925 Kharkiv,0,0,0.5
+2022-2023,Ukrainian Premier League,1,2022-08-23,Chornomorets Odesa,Veres Rivne,0,1,0.0
+2022-2023,Ukrainian Premier League,1,2022-08-23,Zorya Luhansk,Vorskla Poltava,3,1,1.0
+2022-2023,Ukrainian Premier League,1,2022-08-23,FK Kolos,Kryvbas Kryvyi Rih,1,0,1.0
+2022-2023,Ukrainian Premier League,1,2022-08-24,Рух,FK Metalist Kharkiv,1,2,0.0
+2022-2023,Ukrainian Premier League,7,2022-08-25,FK Inhulets,FC Oleksandriya,1,2,0.0
+2022-2023,Ukrainian Premier League,2,2022-08-27,Vorskla Poltava,Veres Rivne,1,2,0.0
+2022-2023,Ukrainian Premier League,2,2022-08-27,FC Lviv,Zorya Luhansk,2,3,0.0
+2022-2023,Ukrainian Premier League,2,2022-08-27,FK Metalist 1925 Kharkiv,Chornomorets Odesa,0,0,0.5
+2022-2023,Ukrainian Premier League,2,2022-08-28,FK Kolos,Рух,2,0,1.0
+2022-2023,Ukrainian Premier League,2,2022-08-28,Shakhtar,Kryvbas Kryvyi Rih,1,0,1.0
+2022-2023,Ukrainian Premier League,2,2022-08-28,Dynamo Kyiv,SK Dnipro-1,0,3,0.0
+2022-2023,Ukrainian Premier League,2,2022-08-29,FK Metalist Kharkiv,FK Inhulets,1,1,0.5
+2022-2023,Ukrainian Premier League,2,2022-08-29,FC Oleksandriya,FK Mynai,2,1,1.0
+2022-2023,Ukrainian Premier League,3,2022-09-02,Рух,Shakhtar,0,1,0.0
+2022-2023,Ukrainian Premier League,3,2022-09-03,Zorya Luhansk,Dynamo Kyiv,3,2,1.0
+2022-2023,Ukrainian Premier League,3,2022-09-03,SK Dnipro-1,Veres Rivne,2,0,1.0
+2022-2023,Ukrainian Premier League,3,2022-09-03,FK Metalist 1925 Kharkiv,Vorskla Poltava,3,2,1.0
+2022-2023,Ukrainian Premier League,3,2022-09-04,Chornomorets Odesa,FK Inhulets,1,1,0.5
+2022-2023,Ukrainian Premier League,3,2022-09-04,Kryvbas Kryvyi Rih,FC Lviv,0,0,0.5
+2022-2023,Ukrainian Premier League,3,2022-09-05,FK Mynai,FK Kolos,1,1,0.5
+2022-2023,Ukrainian Premier League,3,2022-09-05,FC Oleksandriya,FK Metalist Kharkiv,1,3,0.0
+2022-2023,Ukrainian Premier League,4,2022-09-09,Рух,Zorya Luhansk,3,1,1.0
+2022-2023,Ukrainian Premier League,4,2022-09-10,Kryvbas Kryvyi Rih,Veres Rivne,0,1,0.0
+2022-2023,Ukrainian Premier League,4,2022-09-10,Shakhtar,Chornomorets Odesa,2,1,1.0
+2022-2023,Ukrainian Premier League,4,2022-09-11,SK Dnipro-1,FK Metalist 1925 Kharkiv,3,0,1.0
+2022-2023,Ukrainian Premier League,4,2022-09-11,FK Kolos,FK Metalist Kharkiv,1,0,1.0
+2022-2023,Ukrainian Premier League,4,2022-09-11,Dynamo Kyiv,FC Lviv,1,0,1.0
+2022-2023,Ukrainian Premier League,4,2022-09-12,Vorskla Poltava,FC Oleksandriya,0,0,0.5
+2022-2023,Ukrainian Premier League,4,2022-09-12,FK Inhulets,FK Mynai,1,2,0.0
+2022-2023,Ukrainian Premier League,1,2022-09-25,FK Mynai,FC Lviv,0,1,0.0
+2022-2023,Ukrainian Premier League,5,2022-09-30,Veres Rivne,Рух,2,2,0.5
+2022-2023,Ukrainian Premier League,5,2022-09-30,FK Metalist 1925 Kharkiv,FK Kolos,2,0,1.0
+2022-2023,Ukrainian Premier League,5,2022-10-01,FK Inhulets,Vorskla Poltava,0,1,0.0
+2022-2023,Ukrainian Premier League,5,2022-10-01,FC Lviv,SK Dnipro-1,0,3,0.0
+2022-2023,Ukrainian Premier League,5,2022-10-01,FK Metalist Kharkiv,Shakhtar,1,6,0.0
+2022-2023,Ukrainian Premier League,5,2022-10-02,FK Mynai,Dynamo Kyiv,0,1,0.0
+2022-2023,Ukrainian Premier League,5,2022-10-02,Chornomorets Odesa,FC Oleksandriya,1,2,0.0
+2022-2023,Ukrainian Premier League,5,2022-10-02,Zorya Luhansk,Kryvbas Kryvyi Rih,2,2,0.5
+2022-2023,Ukrainian Premier League,6,2022-10-07,Veres Rivne,FK Metalist Kharkiv,1,2,0.0
+2022-2023,Ukrainian Premier League,6,2022-10-07,FK Kolos,FK Inhulets,0,0,0.5
+2022-2023,Ukrainian Premier League,6,2022-10-08,Vorskla Poltava,Chornomorets Odesa,2,1,1.0
+2022-2023,Ukrainian Premier League,6,2022-10-09,SK Dnipro-1,Zorya Luhansk,3,0,1.0
+2022-2023,Ukrainian Premier League,6,2022-10-09,Kryvbas Kryvyi Rih,FK Mynai,0,0,0.5
+2022-2023,Ukrainian Premier League,6,2022-10-09,Dynamo Kyiv,Рух,3,0,1.0
+2022-2023,Ukrainian Premier League,7,2022-10-14,FK Mynai,Veres Rivne,1,1,0.5
+2022-2023,Ukrainian Premier League,7,2022-10-15,FK Metalist 1925 Kharkiv,FC Lviv,2,2,0.5
+2022-2023,Ukrainian Premier League,7,2022-10-15,FK Metalist Kharkiv,Vorskla Poltava,3,2,1.0
+2022-2023,Ukrainian Premier League,7,2022-10-16,Рух,SK Dnipro-1,2,3,0.0
+2022-2023,Ukrainian Premier League,7,2022-10-16,Shakhtar,Dynamo Kyiv,3,1,1.0
+2022-2023,Ukrainian Premier League,8,2022-10-18,FC Lviv,Veres Rivne,1,3,0.0
+2022-2023,Ukrainian Premier League,8,2022-10-18,Chornomorets Odesa,Zorya Luhansk,0,4,0.0
+2022-2023,Ukrainian Premier League,8,2022-10-18,FC Oleksandriya,Kryvbas Kryvyi Rih,2,0,1.0
+2022-2023,Ukrainian Premier League,8,2022-10-19,SK Dnipro-1,FK Inhulets,2,2,0.5
+2022-2023,Ukrainian Premier League,8,2022-10-19,Vorskla Poltava,Рух,0,1,0.0
+2022-2023,Ukrainian Premier League,8,2022-10-19,FK Metalist 1925 Kharkiv,FK Mynai,0,1,0.0
+2022-2023,Ukrainian Premier League,8,2022-10-19,Shakhtar,FK Kolos,3,0,1.0
+2022-2023,Ukrainian Premier League,9,2022-10-22,FC Oleksandriya,FC Lviv,2,0,1.0
+2022-2023,Ukrainian Premier League,9,2022-10-23,Veres Rivne,Zorya Luhansk,0,1,0.0
+2022-2023,Ukrainian Premier League,9,2022-10-23,Dynamo Kyiv,Vorskla Poltava,1,1,0.5
+2022-2023,Ukrainian Premier League,9,2022-10-23,FK Metalist Kharkiv,SK Dnipro-1,0,1,0.0
+2022-2023,Ukrainian Premier League,9,2022-10-23,Рух,FK Metalist 1925 Kharkiv,1,1,0.5
+2022-2023,Ukrainian Premier League,9,2022-10-24,Kryvbas Kryvyi Rih,FK Inhulets,2,1,1.0
+2022-2023,Ukrainian Premier League,9,2022-10-24,FK Kolos,Chornomorets Odesa,1,1,0.5
+2022-2023,Ukrainian Premier League,10,2022-10-28,FK Metalist 1925 Kharkiv,Zorya Luhansk,0,3,0.0
+2022-2023,Ukrainian Premier League,10,2022-10-29,Vorskla Poltava,FK Mynai,2,0,1.0
+2022-2023,Ukrainian Premier League,10,2022-10-29,Shakhtar,FC Oleksandriya,2,2,0.5
+2022-2023,Ukrainian Premier League,10,2022-10-30,SK Dnipro-1,Chornomorets Odesa,1,0,1.0
+2022-2023,Ukrainian Premier League,10,2022-10-30,FC Lviv,FK Metalist Kharkiv,1,1,0.5
+2022-2023,Ukrainian Premier League,10,2022-10-30,Dynamo Kyiv,Kryvbas Kryvyi Rih,3,1,1.0
+2022-2023,Ukrainian Premier League,10,2022-10-31,FK Kolos,Veres Rivne,2,0,1.0
+2022-2023,Ukrainian Premier League,11,2022-11-04,Vorskla Poltava,FC Lviv,1,0,1.0
+2022-2023,Ukrainian Premier League,11,2022-11-05,Zorya Luhansk,FK Metalist Kharkiv,3,2,1.0
+2022-2023,Ukrainian Premier League,11,2022-11-05,FC Oleksandriya,FK Kolos,4,1,1.0
+2022-2023,Ukrainian Premier League,11,2022-11-05,FK Metalist 1925 Kharkiv,Veres Rivne,1,4,0.0
+2022-2023,Ukrainian Premier League,11,2022-11-05,Shakhtar,FK Inhulets,3,0,1.0
+2022-2023,Ukrainian Premier League,11,2022-11-06,SK Dnipro-1,FK Mynai,3,1,1.0
+2022-2023,Ukrainian Premier League,11,2022-11-06,Chornomorets Odesa,Dynamo Kyiv,0,3,0.0
+2022-2023,Ukrainian Premier League,11,2022-11-06,Рух,Kryvbas Kryvyi Rih,2,1,1.0
+2022-2023,Ukrainian Premier League,12,2022-11-08,FK Inhulets,Zorya Luhansk,1,0,1.0
+2022-2023,Ukrainian Premier League,12,2022-11-08,FK Metalist Kharkiv,FK Metalist 1925 Kharkiv,0,0,0.5
+2022-2023,Ukrainian Premier League,12,2022-11-09,FK Kolos,SK Dnipro-1,1,3,0.0
+2022-2023,Ukrainian Premier League,12,2022-11-09,Kryvbas Kryvyi Rih,Vorskla Poltava,1,0,1.0
+2022-2023,Ukrainian Premier League,12,2022-11-09,Veres Rivne,Shakhtar,0,2,0.0
+2022-2023,Ukrainian Premier League,12,2022-11-10,FC Lviv,Рух,2,1,1.0
+2022-2023,Ukrainian Premier League,12,2022-11-10,FK Mynai,Chornomorets Odesa,0,1,0.0
+2022-2023,Ukrainian Premier League,12,2022-11-10,Dynamo Kyiv,FC Oleksandriya,3,1,1.0
+2022-2023,Ukrainian Premier League,13,2022-11-13,FC Oleksandriya,Veres Rivne,3,2,1.0
+2022-2023,Ukrainian Premier League,13,2022-11-13,Vorskla Poltava,SK Dnipro-1,1,1,0.5
+2022-2023,Ukrainian Premier League,13,2022-11-13,Shakhtar,Zorya Luhansk,2,2,0.5
+2022-2023,Ukrainian Premier League,13,2022-11-13,Dynamo Kyiv,FK Kolos,0,0,0.5
+2022-2023,Ukrainian Premier League,13,2022-11-13,FK Metalist 1925 Kharkiv,FK Inhulets,2,1,1.0
+2022-2023,Ukrainian Premier League,13,2022-11-14,FK Metalist Kharkiv,Kryvbas Kryvyi Rih,0,1,0.0
+2022-2023,Ukrainian Premier League,13,2022-11-14,Рух,FK Mynai,1,1,0.5
+2022-2023,Ukrainian Premier League,13,2022-11-14,Chornomorets Odesa,FC Lviv,2,0,1.0
+2022-2023,Ukrainian Premier League,1,2022-11-17,FK Inhulets,Dynamo Kyiv,1,2,0.0
+2022-2023,Ukrainian Premier League,14,2022-11-18,Zorya Luhansk,FC Oleksandriya,4,1,1.0
+2022-2023,Ukrainian Premier League,14,2022-11-19,SK Dnipro-1,Shakhtar,2,1,1.0
+2022-2023,Ukrainian Premier League,14,2022-11-19,FK Kolos,Vorskla Poltava,1,2,0.0
+2022-2023,Ukrainian Premier League,14,2022-11-20,FK Mynai,FK Metalist Kharkiv,1,0,1.0
+2022-2023,Ukrainian Premier League,14,2022-11-20,Kryvbas Kryvyi Rih,FK Metalist 1925 Kharkiv,0,2,0.0
+2022-2023,Ukrainian Premier League,14,2022-11-21,FK Inhulets,FC Lviv,1,0,1.0
+2022-2023,Ukrainian Premier League,14,2022-11-21,Veres Rivne,Dynamo Kyiv,0,1,0.0
+2022-2023,Ukrainian Premier League,15,2022-11-23,Shakhtar,Vorskla Poltava,3,2,1.0
+2022-2023,Ukrainian Premier League,15,2022-11-25,Chornomorets Odesa,FK Metalist Kharkiv,0,0,0.5
+2022-2023,Ukrainian Premier League,15,2022-11-26,FK Inhulets,Veres Rivne,1,0,1.0
+2022-2023,Ukrainian Premier League,15,2022-11-26,Dynamo Kyiv,FK Metalist 1925 Kharkiv,0,0,0.5
+2022-2023,Ukrainian Premier League,15,2022-11-27,FC Lviv,FK Kolos,0,1,0.0
+2022-2023,Ukrainian Premier League,15,2022-11-27,Zorya Luhansk,FK Mynai,1,1,0.5
+2022-2023,Ukrainian Premier League,15,2022-11-28,FC Oleksandriya,Рух,1,1,0.5
+2022-2023,Ukrainian Premier League,15,2022-11-28,Kryvbas Kryvyi Rih,SK Dnipro-1,2,1,1.0
+2022-2023,Ukrainian Premier League,8,2022-11-30,Dynamo Kyiv,FK Metalist Kharkiv,3,0,1.0
+2022-2023,Ukrainian Premier League,7,2022-12-01,Zorya Luhansk,FK Kolos,2,2,0.5
+2022-2023,Ukrainian Premier League,7,2022-12-02,Chornomorets Odesa,Kryvbas Kryvyi Rih,0,1,0.0
+2022-2023,Ukrainian Premier League,14,2022-12-07,Рух,Chornomorets Odesa,2,2,0.5
+2022-2023,Ukrainian Premier League,6,2023-02-27,FC Oleksandriya,FK Metalist 1925 Kharkiv,3,3,0.5
+2022-2023,Ukrainian Premier League,9,2023-02-28,FK Mynai,Shakhtar,1,4,0.0
+2022-2023,Ukrainian Premier League,16,2023-03-03,Kryvbas Kryvyi Rih,FK Kolos,1,0,1.0
+2022-2023,Ukrainian Premier League,16,2023-03-04,FC Oleksandriya,SK Dnipro-1,2,2,0.5
+2022-2023,Ukrainian Premier League,16,2023-03-04,Dynamo Kyiv,FK Inhulets,0,2,0.0
+2022-2023,Ukrainian Premier League,16,2023-03-04,Veres Rivne,Chornomorets Odesa,1,3,0.0
+2022-2023,Ukrainian Premier League,16,2023-03-05,FK Metalist Kharkiv,Рух,1,2,0.0
+2022-2023,Ukrainian Premier League,16,2023-03-05,Vorskla Poltava,Zorya Luhansk,2,3,0.0
+2022-2023,Ukrainian Premier League,16,2023-03-05,FK Metalist 1925 Kharkiv,Shakhtar,0,7,0.0
+2022-2023,Ukrainian Premier League,16,2023-03-06,FC Lviv,FK Mynai,1,0,1.0
+2022-2023,Ukrainian Premier League,17,2023-03-11,FK Mynai,FC Oleksandriya,1,1,0.5
+2022-2023,Ukrainian Premier League,17,2023-03-11,FK Inhulets,FK Metalist Kharkiv,2,1,1.0
+2022-2023,Ukrainian Premier League,17,2023-03-11,Zorya Luhansk,FC Lviv,3,1,1.0
+2022-2023,Ukrainian Premier League,17,2023-03-11,Chornomorets Odesa,FK Metalist 1925 Kharkiv,1,1,0.5
+2022-2023,Ukrainian Premier League,17,2023-03-12,Veres Rivne,Vorskla Poltava,2,2,0.5
+2022-2023,Ukrainian Premier League,17,2023-03-12,SK Dnipro-1,Dynamo Kyiv,0,1,0.0
+2022-2023,Ukrainian Premier League,17,2023-03-12,Kryvbas Kryvyi Rih,Shakhtar,0,3,0.0
+2022-2023,Ukrainian Premier League,17,2023-03-12,Рух,FK Kolos,0,1,0.0
+2022-2023,Ukrainian Premier League,18,2023-03-17,FK Metalist Kharkiv,FC Oleksandriya,0,0,0.5
+2022-2023,Ukrainian Premier League,18,2023-03-18,Vorskla Poltava,FK Metalist 1925 Kharkiv,0,0,0.5
+2022-2023,Ukrainian Premier League,18,2023-03-18,FC Lviv,Kryvbas Kryvyi Rih,2,2,0.5
+2022-2023,Ukrainian Premier League,18,2023-03-18,Dynamo Kyiv,Zorya Luhansk,0,1,0.0
+2022-2023,Ukrainian Premier League,18,2023-03-18,Veres Rivne,SK Dnipro-1,0,1,0.0
+2022-2023,Ukrainian Premier League,18,2023-03-19,FK Inhulets,Chornomorets Odesa,1,2,0.0
+2022-2023,Ukrainian Premier League,18,2023-03-19,FK Kolos,FK Mynai,0,1,0.0
+2022-2023,Ukrainian Premier League,18,2023-03-19,Shakhtar,Рух,2,0,1.0
+2022-2023,Ukrainian Premier League,19,2023-04-01,FK Mynai,FK Inhulets,1,2,0.0
+2022-2023,Ukrainian Premier League,19,2023-04-01,FK Metalist Kharkiv,FK Kolos,0,0,0.5
+2022-2023,Ukrainian Premier League,19,2023-04-01,Veres Rivne,Kryvbas Kryvyi Rih,1,2,0.0
+2022-2023,Ukrainian Premier League,19,2023-04-01,FC Oleksandriya,Vorskla Poltava,3,0,1.0
+2022-2023,Ukrainian Premier League,19,2023-04-02,FC Lviv,Dynamo Kyiv,0,2,0.0
+2022-2023,Ukrainian Premier League,19,2023-04-02,FK Metalist 1925 Kharkiv,SK Dnipro-1,0,3,0.0
+2022-2023,Ukrainian Premier League,19,2023-04-02,Chornomorets Odesa,Shakhtar,2,2,0.5
+2022-2023,Ukrainian Premier League,19,2023-04-02,Zorya Luhansk,Рух,3,0,1.0
+2022-2023,Ukrainian Premier League,20,2023-04-07,Vorskla Poltava,FK Inhulets,1,0,1.0
+2022-2023,Ukrainian Premier League,20,2023-04-08,Kryvbas Kryvyi Rih,Zorya Luhansk,1,0,1.0
+2022-2023,Ukrainian Premier League,20,2023-04-08,Dynamo Kyiv,FK Mynai,2,0,1.0
+2022-2023,Ukrainian Premier League,20,2023-04-08,Shakhtar,FK Metalist Kharkiv,1,0,1.0
+2022-2023,Ukrainian Premier League,20,2023-04-08,Рух,Veres Rivne,0,0,0.5
+2022-2023,Ukrainian Premier League,20,2023-04-09,FC Oleksandriya,Chornomorets Odesa,1,1,0.5
+2022-2023,Ukrainian Premier League,20,2023-04-09,SK Dnipro-1,FC Lviv,5,2,1.0
+2022-2023,Ukrainian Premier League,20,2023-04-09,FK Kolos,FK Metalist 1925 Kharkiv,3,0,1.0
+2022-2023,Ukrainian Premier League,6,2023-04-12,FC Lviv,Shakhtar,1,2,0.0
+2022-2023,Ukrainian Premier League,21,2023-04-14,FK Mynai,Kryvbas Kryvyi Rih,1,0,1.0
+2022-2023,Ukrainian Premier League,21,2023-04-14,FK Inhulets,FK Kolos,0,1,0.0
+2022-2023,Ukrainian Premier League,21,2023-04-14,Рух,Dynamo Kyiv,1,1,0.5
+2022-2023,Ukrainian Premier League,21,2023-04-15,FK Metalist Kharkiv,Veres Rivne,5,5,0.5
+2022-2023,Ukrainian Premier League,21,2023-04-15,FK Metalist 1925 Kharkiv,FC Oleksandriya,0,0,0.5
+2022-2023,Ukrainian Premier League,21,2023-04-15,Zorya Luhansk,SK Dnipro-1,2,1,1.0
+2022-2023,Ukrainian Premier League,21,2023-04-16,Shakhtar,FC Lviv,2,0,1.0
+2022-2023,Ukrainian Premier League,21,2023-04-16,Chornomorets Odesa,Vorskla Poltava,0,1,0.0
+2022-2023,Ukrainian Premier League,10,2023-04-19,FK Inhulets,Рух,1,0,1.0
+2022-2023,Ukrainian Premier League,22,2023-04-21,FK Kolos,Zorya Luhansk,0,1,0.0
+2022-2023,Ukrainian Premier League,22,2023-04-22,Vorskla Poltava,FK Metalist Kharkiv,3,2,1.0
+2022-2023,Ukrainian Premier League,22,2023-04-22,Veres Rivne,FK Mynai,1,1,0.5
+2022-2023,Ukrainian Premier League,22,2023-04-22,Dynamo Kyiv,Shakhtar,1,1,0.5
+2022-2023,Ukrainian Premier League,22,2023-04-23,FC Lviv,FK Metalist 1925 Kharkiv,0,2,0.0
+2022-2023,Ukrainian Premier League,22,2023-04-23,Kryvbas Kryvyi Rih,Chornomorets Odesa,2,3,0.0
+2022-2023,Ukrainian Premier League,22,2023-04-24,SK Dnipro-1,Рух,3,2,1.0
+2022-2023,Ukrainian Premier League,22,2023-04-24,FC Oleksandriya,FK Inhulets,0,0,0.5
+2022-2023,Ukrainian Premier League,23,2023-04-28,Veres Rivne,FC Lviv,3,2,1.0
+2022-2023,Ukrainian Premier League,23,2023-04-28,FK Metalist Kharkiv,Dynamo Kyiv,1,3,0.0
+2022-2023,Ukrainian Premier League,23,2023-04-28,FK Kolos,Shakhtar,1,3,0.0
+2022-2023,Ukrainian Premier League,23,2023-04-29,Zorya Luhansk,Chornomorets Odesa,3,1,1.0
+2022-2023,Ukrainian Premier League,23,2023-04-29,FK Mynai,FK Metalist 1925 Kharkiv,1,1,0.5
+2022-2023,Ukrainian Premier League,23,2023-04-29,FK Inhulets,SK Dnipro-1,0,2,0.0
+2022-2023,Ukrainian Premier League,23,2023-04-29,Рух,Vorskla Poltava,1,1,0.5
+2022-2023,Ukrainian Premier League,23,2023-04-29,Kryvbas Kryvyi Rih,FC Oleksandriya,2,1,1.0
+2022-2023,Ukrainian Premier League,24,2023-05-03,Shakhtar,FK Mynai,1,0,1.0
+2022-2023,Ukrainian Premier League,24,2023-05-03,SK Dnipro-1,FK Metalist Kharkiv,5,0,1.0
+2022-2023,Ukrainian Premier League,24,2023-05-03,FC Lviv,FC Oleksandriya,0,1,0.0
+2022-2023,Ukrainian Premier League,24,2023-05-03,Zorya Luhansk,Veres Rivne,1,0,1.0
+2022-2023,Ukrainian Premier League,24,2023-05-03,Chornomorets Odesa,FK Kolos,3,0,1.0
+2022-2023,Ukrainian Premier League,24,2023-05-04,FK Metalist 1925 Kharkiv,Рух,0,0,0.5
+2022-2023,Ukrainian Premier League,24,2023-05-04,FK Inhulets,Kryvbas Kryvyi Rih,0,0,0.5
+2022-2023,Ukrainian Premier League,24,2023-05-04,Vorskla Poltava,Dynamo Kyiv,1,2,0.0
+2022-2023,Ukrainian Premier League,25,2023-05-07,Chornomorets Odesa,SK Dnipro-1,1,2,0.0
+2022-2023,Ukrainian Premier League,25,2023-05-07,FK Metalist Kharkiv,FC Lviv,1,0,1.0
+2022-2023,Ukrainian Premier League,25,2023-05-07,FC Oleksandriya,Shakhtar,1,1,0.5
+2022-2023,Ukrainian Premier League,25,2023-05-08,Kryvbas Kryvyi Rih,Dynamo Kyiv,0,1,0.0
+2022-2023,Ukrainian Premier League,25,2023-05-08,FK Mynai,Vorskla Poltava,2,0,1.0
+2022-2023,Ukrainian Premier League,25,2023-05-08,Veres Rivne,FK Kolos,0,1,0.0
+2022-2023,Ukrainian Premier League,25,2023-05-08,Рух,FK Inhulets,3,0,1.0
+2022-2023,Ukrainian Premier League,25,2023-05-08,Zorya Luhansk,FK Metalist 1925 Kharkiv,3,0,1.0
+2022-2023,Ukrainian Premier League,1,2023-05-11,SK Dnipro-1,FC Oleksandriya,1,1,0.5
+2022-2023,Ukrainian Premier League,26,2023-05-13,Dynamo Kyiv,Chornomorets Odesa,2,3,0.0
+2022-2023,Ukrainian Premier League,26,2023-05-13,FK Inhulets,Shakhtar,0,2,0.0
+2022-2023,Ukrainian Premier League,26,2023-05-14,FC Lviv,Vorskla Poltava,0,2,0.0
+2022-2023,Ukrainian Premier League,26,2023-05-14,FK Metalist Kharkiv,Zorya Luhansk,0,5,0.0
+2022-2023,Ukrainian Premier League,26,2023-05-14,Veres Rivne,FK Metalist 1925 Kharkiv,1,0,1.0
+2022-2023,Ukrainian Premier League,26,2023-05-14,Kryvbas Kryvyi Rih,Рух,1,0,1.0
+2022-2023,Ukrainian Premier League,26,2023-05-15,FK Mynai,SK Dnipro-1,0,1,0.0
+2022-2023,Ukrainian Premier League,26,2023-05-15,FK Kolos,FC Oleksandriya,0,2,0.0
+2022-2023,Ukrainian Premier League,27,2023-05-19,SK Dnipro-1,FK Kolos,2,1,1.0
+2022-2023,Ukrainian Premier League,27,2023-05-19,Vorskla Poltava,Kryvbas Kryvyi Rih,1,0,1.0
+2022-2023,Ukrainian Premier League,27,2023-05-19,Shakhtar,Veres Rivne,2,1,1.0
+2022-2023,Ukrainian Premier League,27,2023-05-20,Chornomorets Odesa,FK Mynai,0,1,0.0
+2022-2023,Ukrainian Premier League,27,2023-05-20,Zorya Luhansk,FK Inhulets,2,0,1.0
+2022-2023,Ukrainian Premier League,27,2023-05-20,FC Oleksandriya,Dynamo Kyiv,1,5,0.0
+2022-2023,Ukrainian Premier League,27,2023-05-21,FK Metalist 1925 Kharkiv,FK Metalist Kharkiv,2,0,1.0
+2022-2023,Ukrainian Premier League,27,2023-05-21,Рух,FC Lviv,2,0,1.0
+2022-2023,Ukrainian Premier League,28,2023-05-24,FK Kolos,Dynamo Kyiv,0,3,0.0
+2022-2023,Ukrainian Premier League,28,2023-05-24,SK Dnipro-1,Vorskla Poltava,1,2,0.0
+2022-2023,Ukrainian Premier League,28,2023-05-24,Veres Rivne,FC Oleksandriya,2,2,0.5
+2022-2023,Ukrainian Premier League,28,2023-05-24,Zorya Luhansk,Shakhtar,0,3,0.0
+2022-2023,Ukrainian Premier League,28,2023-05-25,FK Mynai,Рух,0,0,0.5
+2022-2023,Ukrainian Premier League,28,2023-05-25,FC Lviv,Chornomorets Odesa,0,1,0.0
+2022-2023,Ukrainian Premier League,28,2023-05-25,FK Inhulets,FK Metalist 1925 Kharkiv,0,0,0.5
+2022-2023,Ukrainian Premier League,28,2023-05-25,Kryvbas Kryvyi Rih,FK Metalist Kharkiv,2,0,1.0
+2022-2023,Ukrainian Premier League,29,2023-05-28,Shakhtar,SK Dnipro-1,3,0,1.0
+2022-2023,Ukrainian Premier League,29,2023-05-28,FC Oleksandriya,Zorya Luhansk,0,2,0.0
+2022-2023,Ukrainian Premier League,29,2023-05-29,FC Lviv,FK Inhulets,0,2,0.0
+2022-2023,Ukrainian Premier League,29,2023-05-29,Dynamo Kyiv,Veres Rivne,3,0,1.0
+2022-2023,Ukrainian Premier League,29,2023-05-29,FK Metalist Kharkiv,FK Mynai,1,2,0.0
+2022-2023,Ukrainian Premier League,29,2023-05-29,Chornomorets Odesa,Рух,1,3,0.0
+2022-2023,Ukrainian Premier League,29,2023-05-29,FK Metalist 1925 Kharkiv,Kryvbas Kryvyi Rih,0,2,0.0
+2022-2023,Ukrainian Premier League,29,2023-05-29,Vorskla Poltava,FK Kolos,2,0,1.0
+2022-2023,Ukrainian Premier League,30,2023-06-04,FK Kolos,FC Lviv,1,0,1.0
+2022-2023,Ukrainian Premier League,30,2023-06-04,FK Metalist Kharkiv,Chornomorets Odesa,0,3,0.0
+2022-2023,Ukrainian Premier League,30,2023-06-04,Veres Rivne,FK Inhulets,1,0,1.0
+2022-2023,Ukrainian Premier League,30,2023-06-04,FK Metalist 1925 Kharkiv,Dynamo Kyiv,1,1,0.5
+2022-2023,Ukrainian Premier League,30,2023-06-04,FK Mynai,Zorya Luhansk,0,3,0.0
+2022-2023,Ukrainian Premier League,30,2023-06-04,Рух,FC Oleksandriya,0,0,0.5
+2022-2023,Ukrainian Premier League,30,2023-06-04,SK Dnipro-1,Kryvbas Kryvyi Rih,1,0,1.0
+2022-2023,Ukrainian Premier League,30,2023-06-04,Vorskla Poltava,Shakhtar,2,1,1.0
+2022-2023,Ukrainian 1/2 Relegation/Promotion Playoffs,,2023-06-10,MFK Metalurh Zaporizhzhia,Veres Rivne,1,0,1.0
+2022-2023,Ukrainian 1/2 Relegation/Promotion Playoffs,,2023-06-10,FK Inhulets,FC LNZ Cherkasy,1,1,0.5
+2022-2023,Ukrainian 1/2 Relegation/Promotion Playoffs,,2023-06-14,Veres Rivne,MFK Metalurh Zaporizhzhia,6,1,1.0
+2022-2023,Ukrainian 1/2 Relegation/Promotion Playoffs,,2023-06-14,FC LNZ Cherkasy,FK Inhulets,2,1,1.0

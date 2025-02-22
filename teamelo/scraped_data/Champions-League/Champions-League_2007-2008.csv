@@ -1,0 +1,126 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2007-2008,Group stage,1,2007-09-18,Olympiacos,Lazio,gr,it,1.0,1.0,0.5
+2007-2008,Group stage,1,2007-09-18,Marseille,Beşiktaş,fr,tr,2.0,0.0,1.0
+2007-2008,Group stage,1,2007-09-18,Schalke 04,Valencia,de,es,0.0,1.0,0.0
+2007-2008,Group stage,1,2007-09-18,Porto,Liverpool,pt,eng,1.0,1.0,0.5
+2007-2008,Group stage,1,2007-09-18,Shakhtar,Celtic,ua,sct,2.0,0.0,1.0
+2007-2008,Group stage,1,2007-09-18,Chelsea,Rosenborg,eng,no,1.0,1.0,0.5
+2007-2008,Group stage,1,2007-09-18,Milan,Benfica,it,pt,2.0,1.0,1.0
+2007-2008,Group stage,1,2007-09-18,Real Madrid,Werder Bremen,es,de,2.0,1.0,1.0
+2007-2008,Group stage,1,2007-09-19,Roma,Dynamo Kyiv,it,ua,2.0,0.0,1.0
+2007-2008,Group stage,1,2007-09-19,Sporting CP,Manchester Utd,pt,eng,0.0,1.0,0.0
+2007-2008,Group stage,1,2007-09-19,PSV Eindhoven,CSKA Moscow,nl,ru,2.0,1.0,1.0
+2007-2008,Group stage,1,2007-09-19,Barcelona,Lyon,es,fr,3.0,0.0,1.0
+2007-2008,Group stage,1,2007-09-19,Arsenal,Sevilla,eng,es,3.0,0.0,1.0
+2007-2008,Group stage,1,2007-09-19,Slavia Prague,Steaua,cz,ro,2.0,1.0,1.0
+2007-2008,Group stage,1,2007-09-19,Fenerbahçe,Inter,tr,it,1.0,0.0,1.0
+2007-2008,Group stage,1,2007-09-19,Rangers,Stuttgart,sct,de,2.0,1.0,1.0
+2007-2008,Group stage,2,2007-10-02,Sevilla,Slavia Prague,es,cz,4.0,2.0,1.0
+2007-2008,Group stage,2,2007-10-02,CSKA Moscow,Fenerbahçe,ru,tr,2.0,2.0,0.5
+2007-2008,Group stage,2,2007-10-02,Stuttgart,Barcelona,de,es,0.0,2.0,0.0
+2007-2008,Group stage,2,2007-10-02,Dynamo Kyiv,Sporting CP,ua,pt,1.0,2.0,0.0
+2007-2008,Group stage,2,2007-10-02,Inter,PSV Eindhoven,it,nl,2.0,0.0,1.0
+2007-2008,Group stage,2,2007-10-02,Steaua,Arsenal,ro,eng,0.0,1.0,0.0
+2007-2008,Group stage,2,2007-10-02,Lyon,Rangers,fr,sct,0.0,3.0,0.0
+2007-2008,Group stage,2,2007-10-02,Manchester Utd,Roma,eng,it,1.0,0.0,1.0
+2007-2008,Group stage,2,2007-10-03,Werder Bremen,Olympiacos,de,gr,1.0,3.0,0.0
+2007-2008,Group stage,2,2007-10-03,Valencia,Chelsea,es,eng,1.0,2.0,0.0
+2007-2008,Group stage,2,2007-10-03,Celtic,Milan,sct,it,2.0,1.0,1.0
+2007-2008,Group stage,2,2007-10-03,Lazio,Real Madrid,it,es,2.0,2.0,0.5
+2007-2008,Group stage,2,2007-10-03,Rosenborg,Schalke 04,no,de,0.0,2.0,0.0
+2007-2008,Group stage,2,2007-10-03,Benfica,Shakhtar,pt,ua,0.0,1.0,0.0
+2007-2008,Group stage,2,2007-10-03,Beşiktaş,Porto,tr,pt,0.0,1.0,0.0
+2007-2008,Group stage,2,2007-10-03,Liverpool,Marseille,eng,fr,0.0,1.0,0.0
+2007-2008,Group stage,3,2007-10-23,Rangers,Barcelona,sct,es,0.0,0.0,0.5
+2007-2008,Group stage,3,2007-10-23,Sevilla,Steaua,es,ro,2.0,1.0,1.0
+2007-2008,Group stage,3,2007-10-23,PSV Eindhoven,Fenerbahçe,nl,tr,0.0,0.0,0.5
+2007-2008,Group stage,3,2007-10-23,Roma,Sporting CP,it,pt,2.0,1.0,1.0
+2007-2008,Group stage,3,2007-10-23,CSKA Moscow,Inter,ru,it,1.0,2.0,0.0
+2007-2008,Group stage,3,2007-10-23,Dynamo Kyiv,Manchester Utd,ua,eng,2.0,4.0,0.0
+2007-2008,Group stage,3,2007-10-23,Stuttgart,Lyon,de,fr,0.0,2.0,0.0
+2007-2008,Group stage,3,2007-10-23,Arsenal,Slavia Prague,eng,cz,7.0,0.0,1.0
+2007-2008,Group stage,3,2007-10-24,Milan,Shakhtar,it,ua,4.0,1.0,1.0
+2007-2008,Group stage,3,2007-10-24,Benfica,Celtic,pt,sct,1.0,0.0,1.0
+2007-2008,Group stage,3,2007-10-24,Rosenborg,Valencia,no,es,2.0,0.0,1.0
+2007-2008,Group stage,3,2007-10-24,Marseille,Porto,fr,pt,1.0,1.0,0.5
+2007-2008,Group stage,3,2007-10-24,Chelsea,Schalke 04,eng,de,2.0,0.0,1.0
+2007-2008,Group stage,3,2007-10-24,Beşiktaş,Liverpool,tr,eng,2.0,1.0,1.0
+2007-2008,Group stage,3,2007-10-24,Real Madrid,Olympiacos,es,gr,4.0,2.0,1.0
+2007-2008,Group stage,3,2007-10-24,Werder Bremen,Lazio,de,it,2.0,1.0,1.0
+2007-2008,Group stage,4,2007-11-06,Lazio,Werder Bremen,it,de,2.0,1.0,1.0
+2007-2008,Group stage,4,2007-11-06,Olympiacos,Real Madrid,gr,es,0.0,0.0,0.5
+2007-2008,Group stage,4,2007-11-06,Schalke 04,Chelsea,de,eng,0.0,0.0,0.5
+2007-2008,Group stage,4,2007-11-06,Porto,Marseille,pt,fr,2.0,1.0,1.0
+2007-2008,Group stage,4,2007-11-06,Valencia,Rosenborg,es,no,0.0,2.0,0.0
+2007-2008,Group stage,4,2007-11-06,Shakhtar,Milan,ua,it,0.0,3.0,0.0
+2007-2008,Group stage,4,2007-11-06,Liverpool,Beşiktaş,eng,tr,8.0,0.0,1.0
+2007-2008,Group stage,4,2007-11-06,Celtic,Benfica,sct,pt,1.0,0.0,1.0
+2007-2008,Group stage,4,2007-11-07,Manchester Utd,Dynamo Kyiv,eng,ua,4.0,0.0,1.0
+2007-2008,Group stage,4,2007-11-07,Inter,CSKA Moscow,it,ru,4.0,2.0,1.0
+2007-2008,Group stage,4,2007-11-07,Lyon,Stuttgart,fr,de,4.0,2.0,1.0
+2007-2008,Group stage,4,2007-11-07,Fenerbahçe,PSV Eindhoven,tr,nl,2.0,0.0,1.0
+2007-2008,Group stage,4,2007-11-07,Steaua,Sevilla,ro,es,0.0,2.0,0.0
+2007-2008,Group stage,4,2007-11-07,Slavia Prague,Arsenal,cz,eng,0.0,0.0,0.5
+2007-2008,Group stage,4,2007-11-07,Sporting CP,Roma,pt,it,2.0,2.0,0.5
+2007-2008,Group stage,4,2007-11-07,Barcelona,Rangers,es,sct,2.0,0.0,1.0
+2007-2008,Group stage,5,2007-11-27,Manchester Utd,Sporting CP,eng,pt,2.0,1.0,1.0
+2007-2008,Group stage,5,2007-11-27,Stuttgart,Rangers,de,sct,3.0,2.0,1.0
+2007-2008,Group stage,5,2007-11-27,Inter,Fenerbahçe,it,tr,3.0,0.0,1.0
+2007-2008,Group stage,5,2007-11-27,CSKA Moscow,PSV Eindhoven,ru,nl,0.0,1.0,0.0
+2007-2008,Group stage,5,2007-11-27,Lyon,Barcelona,fr,es,2.0,2.0,0.5
+2007-2008,Group stage,5,2007-11-27,Steaua,Slavia Prague,ro,cz,1.0,1.0,0.5
+2007-2008,Group stage,5,2007-11-27,Dynamo Kyiv,Roma,ua,it,1.0,4.0,0.0
+2007-2008,Group stage,5,2007-11-27,Sevilla,Arsenal,es,eng,3.0,1.0,1.0
+2007-2008,Group stage,5,2007-11-28,Celtic,Shakhtar,sct,ua,2.0,1.0,1.0
+2007-2008,Group stage,5,2007-11-28,Lazio,Olympiacos,it,gr,1.0,2.0,0.0
+2007-2008,Group stage,5,2007-11-28,Beşiktaş,Marseille,tr,fr,2.0,1.0,1.0
+2007-2008,Group stage,5,2007-11-28,Rosenborg,Chelsea,no,eng,0.0,4.0,0.0
+2007-2008,Group stage,5,2007-11-28,Benfica,Milan,pt,it,1.0,1.0,0.5
+2007-2008,Group stage,5,2007-11-28,Valencia,Schalke 04,es,de,0.0,0.0,0.5
+2007-2008,Group stage,5,2007-11-28,Liverpool,Porto,eng,pt,4.0,1.0,1.0
+2007-2008,Group stage,5,2007-11-28,Werder Bremen,Real Madrid,de,es,3.0,2.0,1.0
+2007-2008,Group stage,6,2007-12-04,Milan,Celtic,it,sct,1.0,0.0,1.0
+2007-2008,Group stage,6,2007-12-04,Shakhtar,Benfica,ua,pt,1.0,2.0,0.0
+2007-2008,Group stage,6,2007-12-11,Porto,Beşiktaş,pt,tr,2.0,0.0,1.0
+2007-2008,Group stage,6,2007-12-11,Chelsea,Valencia,eng,es,0.0,0.0,0.5
+2007-2008,Group stage,6,2007-12-11,Schalke 04,Rosenborg,de,no,3.0,1.0,1.0
+2007-2008,Group stage,6,2007-12-11,Olympiacos,Werder Bremen,gr,de,3.0,0.0,1.0
+2007-2008,Group stage,6,2007-12-11,Marseille,Liverpool,fr,eng,0.0,4.0,0.0
+2007-2008,Group stage,6,2007-12-11,Real Madrid,Lazio,es,it,3.0,1.0,1.0
+2007-2008,Group stage,6,2007-12-12,Fenerbahçe,CSKA Moscow,tr,ru,3.0,1.0,1.0
+2007-2008,Group stage,6,2007-12-12,PSV Eindhoven,Inter,nl,it,0.0,1.0,0.0
+2007-2008,Group stage,6,2007-12-12,Barcelona,Stuttgart,es,de,3.0,1.0,1.0
+2007-2008,Group stage,6,2007-12-12,Slavia Prague,Sevilla,cz,es,0.0,3.0,0.0
+2007-2008,Group stage,6,2007-12-12,Rangers,Lyon,sct,fr,0.0,3.0,0.0
+2007-2008,Group stage,6,2007-12-12,Sporting CP,Dynamo Kyiv,pt,ua,3.0,0.0,1.0
+2007-2008,Group stage,6,2007-12-12,Roma,Manchester Utd,it,eng,1.0,1.0,0.5
+2007-2008,Group stage,6,2007-12-12,Arsenal,Steaua,eng,ro,2.0,1.0,1.0
+2007-2008,Round of 16,,2008-02-19,Liverpool,Inter,eng,it,2.0,0.0,1.0
+2007-2008,Round of 16,,2008-02-19,Roma,Real Madrid,it,es,2.0,1.0,1.0
+2007-2008,Round of 16,,2008-02-19,Olympiacos,Chelsea,gr,eng,0.0,0.0,0.5
+2007-2008,Round of 16,,2008-02-19,Schalke 04,Porto,de,pt,1.0,0.0,1.0
+2007-2008,Round of 16,,2008-02-20,Arsenal,Milan,eng,it,0.0,0.0,0.5
+2007-2008,Round of 16,,2008-02-20,Fenerbahçe,Sevilla,tr,es,3.0,2.0,1.0
+2007-2008,Round of 16,,2008-02-20,Lyon,Manchester Utd,fr,eng,1.0,1.0,0.5
+2007-2008,Round of 16,,2008-02-20,Celtic,Barcelona,sct,es,2.0,3.0,0.0
+2007-2008,Round of 16,,2008-03-04,Manchester Utd,Lyon,eng,fr,1.0,0.0,1.0
+2007-2008,Round of 16,,2008-03-04,Milan,Arsenal,it,eng,0.0,2.0,0.0
+2007-2008,Round of 16,,2008-03-04,Barcelona,Celtic,es,sct,1.0,0.0,1.0
+2007-2008,Round of 16,,2008-03-04,Sevilla,Fenerbahçe,es,tr,,,0.5
+2007-2008,Round of 16,,2008-03-05,Real Madrid,Roma,es,it,1.0,2.0,0.0
+2007-2008,Round of 16,,2008-03-05,Porto,Schalke 04,pt,de,,,0.5
+2007-2008,Round of 16,,2008-03-05,Chelsea,Olympiacos,eng,gr,3.0,0.0,1.0
+2007-2008,Round of 16,,2008-03-11,Inter,Liverpool,it,eng,0.0,1.0,0.0
+2007-2008,Quarter-finals,,2008-04-01,Schalke 04,Barcelona,de,es,0.0,1.0,0.0
+2007-2008,Quarter-finals,,2008-04-01,Roma,Manchester Utd,it,eng,0.0,2.0,0.0
+2007-2008,Quarter-finals,,2008-04-02,Fenerbahçe,Chelsea,tr,eng,2.0,1.0,1.0
+2007-2008,Quarter-finals,,2008-04-02,Arsenal,Liverpool,eng,eng,1.0,1.0,0.5
+2007-2008,Quarter-finals,,2008-04-08,Liverpool,Arsenal,eng,eng,4.0,2.0,1.0
+2007-2008,Quarter-finals,,2008-04-08,Chelsea,Fenerbahçe,eng,tr,2.0,0.0,1.0
+2007-2008,Quarter-finals,,2008-04-09,Barcelona,Schalke 04,es,de,1.0,0.0,1.0
+2007-2008,Quarter-finals,,2008-04-09,Manchester Utd,Roma,eng,it,1.0,0.0,1.0
+2007-2008,Semi-finals,,2008-04-22,Liverpool,Chelsea,eng,eng,1.0,1.0,0.5
+2007-2008,Semi-finals,,2008-04-23,Barcelona,Manchester Utd,es,eng,0.0,0.0,0.5
+2007-2008,Semi-finals,,2008-04-29,Manchester Utd,Barcelona,eng,es,1.0,0.0,1.0
+2007-2008,Semi-finals,,2008-04-30,Chelsea,Liverpool,eng,eng,3.0,2.0,1.0
+2007-2008,Final,,2008-05-21,Manchester Utd,Chelsea,eng,eng,,,0.5

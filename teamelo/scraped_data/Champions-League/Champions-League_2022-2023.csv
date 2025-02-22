@@ -1,126 +1,126 @@
 Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
-2022-2023,Group stage,1,2022-09-06,Dinamo Zagreb,Chelsea,hr,eng,1,0,0.0
-2022-2023,Group stage,1,2022-09-06,Dortmund,FC Copenhagen,de,dk,3,0,0.0
-2022-2023,Group stage,1,2022-09-06,Celtic,Real Madrid,sct,es,0,3,1.0
-2022-2023,Group stage,1,2022-09-06,Benfica,Maccabi Haifa,pt,il,2,0,0.0
+2022-2023,Group stage,1,2022-09-06,Dinamo Zagreb,Chelsea,hr,eng,1,0,1.0
+2022-2023,Group stage,1,2022-09-06,Dortmund,FC Copenhagen,de,dk,3,0,1.0
+2022-2023,Group stage,1,2022-09-06,Celtic,Real Madrid,sct,es,0,3,0.0
+2022-2023,Group stage,1,2022-09-06,Benfica,Maccabi Haifa,pt,il,2,0,1.0
 2022-2023,Group stage,1,2022-09-06,RB Salzburg,Milan,at,it,1,1,0.5
-2022-2023,Group stage,1,2022-09-06,Sevilla,Manchester City,es,eng,0,4,1.0
-2022-2023,Group stage,1,2022-09-06,RB Leipzig,Shakhtar,de,ua,1,4,1.0
-2022-2023,Group stage,1,2022-09-06,Paris S-G,Juventus,fr,it,2,1,0.0
-2022-2023,Group stage,1,2022-09-07,Ajax,Rangers,nl,sct,4,0,0.0
-2022-2023,Group stage,1,2022-09-07,Eint Frankfurt,Sporting CP,de,pt,0,3,1.0
-2022-2023,Group stage,1,2022-09-07,Tottenham,Marseille,eng,fr,2,0,0.0
-2022-2023,Group stage,1,2022-09-07,Napoli,Liverpool,it,eng,4,1,0.0
-2022-2023,Group stage,1,2022-09-07,Atlético Madrid,Porto,es,pt,2,1,0.0
-2022-2023,Group stage,1,2022-09-07,Barcelona,Viktoria Plzeň,es,cz,5,1,0.0
-2022-2023,Group stage,1,2022-09-07,Inter,Bayern Munich,it,de,0,2,1.0
-2022-2023,Group stage,1,2022-09-07,Club Brugge,Leverkusen,be,de,1,0,0.0
-2022-2023,Group stage,2,2022-09-13,Sporting CP,Tottenham,pt,eng,2,0,0.0
-2022-2023,Group stage,2,2022-09-13,Viktoria Plzeň,Inter,cz,it,0,2,1.0
-2022-2023,Group stage,2,2022-09-13,Liverpool,Ajax,eng,nl,2,1,0.0
-2022-2023,Group stage,2,2022-09-13,Porto,Club Brugge,pt,be,0,4,1.0
-2022-2023,Group stage,2,2022-09-13,Leverkusen,Atlético Madrid,de,es,2,0,0.0
-2022-2023,Group stage,2,2022-09-13,Marseille,Eint Frankfurt,fr,de,0,1,1.0
-2022-2023,Group stage,2,2022-09-13,Bayern Munich,Barcelona,de,es,2,0,0.0
-2022-2023,Group stage,2,2022-09-14,Milan,Dinamo Zagreb,it,hr,3,1,0.0
+2022-2023,Group stage,1,2022-09-06,Sevilla,Manchester City,es,eng,0,4,0.0
+2022-2023,Group stage,1,2022-09-06,RB Leipzig,Shakhtar,de,ua,1,4,0.0
+2022-2023,Group stage,1,2022-09-06,Paris S-G,Juventus,fr,it,2,1,1.0
+2022-2023,Group stage,1,2022-09-07,Ajax,Rangers,nl,sct,4,0,1.0
+2022-2023,Group stage,1,2022-09-07,Eint Frankfurt,Sporting CP,de,pt,0,3,0.0
+2022-2023,Group stage,1,2022-09-07,Tottenham,Marseille,eng,fr,2,0,1.0
+2022-2023,Group stage,1,2022-09-07,Napoli,Liverpool,it,eng,4,1,1.0
+2022-2023,Group stage,1,2022-09-07,Atlético Madrid,Porto,es,pt,2,1,1.0
+2022-2023,Group stage,1,2022-09-07,Barcelona,Viktoria Plzeň,es,cz,5,1,1.0
+2022-2023,Group stage,1,2022-09-07,Inter,Bayern Munich,it,de,0,2,0.0
+2022-2023,Group stage,1,2022-09-07,Club Brugge,Leverkusen,be,de,1,0,1.0
+2022-2023,Group stage,2,2022-09-13,Sporting CP,Tottenham,pt,eng,2,0,1.0
+2022-2023,Group stage,2,2022-09-13,Viktoria Plzeň,Inter,cz,it,0,2,0.0
+2022-2023,Group stage,2,2022-09-13,Liverpool,Ajax,eng,nl,2,1,1.0
+2022-2023,Group stage,2,2022-09-13,Porto,Club Brugge,pt,be,0,4,0.0
+2022-2023,Group stage,2,2022-09-13,Leverkusen,Atlético Madrid,de,es,2,0,1.0
+2022-2023,Group stage,2,2022-09-13,Marseille,Eint Frankfurt,fr,de,0,1,0.0
+2022-2023,Group stage,2,2022-09-13,Bayern Munich,Barcelona,de,es,2,0,1.0
+2022-2023,Group stage,2,2022-09-14,Milan,Dinamo Zagreb,it,hr,3,1,1.0
 2022-2023,Group stage,2,2022-09-14,Shakhtar,Celtic,ua,sct,1,1,0.5
-2022-2023,Group stage,2,2022-09-14,Rangers,Napoli,sct,it,0,3,1.0
+2022-2023,Group stage,2,2022-09-14,Rangers,Napoli,sct,it,0,3,0.0
 2022-2023,Group stage,2,2022-09-14,Chelsea,RB Salzburg,eng,at,1,1,0.5
-2022-2023,Group stage,2,2022-09-14,Manchester City,Dortmund,eng,de,2,1,0.0
+2022-2023,Group stage,2,2022-09-14,Manchester City,Dortmund,eng,de,2,1,1.0
 2022-2023,Group stage,2,2022-09-14,FC Copenhagen,Sevilla,dk,es,0,0,0.5
-2022-2023,Group stage,2,2022-09-14,Juventus,Benfica,it,pt,1,2,1.0
-2022-2023,Group stage,2,2022-09-14,Real Madrid,RB Leipzig,es,de,2,0,0.0
-2022-2023,Group stage,2,2022-09-14,Maccabi Haifa,Paris S-G,il,fr,1,3,1.0
-2022-2023,Group stage,3,2022-10-04,Bayern Munich,Viktoria Plzeň,de,cz,5,0,0.0
-2022-2023,Group stage,3,2022-10-04,Marseille,Sporting CP,fr,pt,4,1,0.0
-2022-2023,Group stage,3,2022-10-04,Liverpool,Rangers,eng,sct,2,0,0.0
-2022-2023,Group stage,3,2022-10-04,Porto,Leverkusen,pt,de,2,0,0.0
+2022-2023,Group stage,2,2022-09-14,Juventus,Benfica,it,pt,1,2,0.0
+2022-2023,Group stage,2,2022-09-14,Real Madrid,RB Leipzig,es,de,2,0,1.0
+2022-2023,Group stage,2,2022-09-14,Maccabi Haifa,Paris S-G,il,fr,1,3,0.0
+2022-2023,Group stage,3,2022-10-04,Bayern Munich,Viktoria Plzeň,de,cz,5,0,1.0
+2022-2023,Group stage,3,2022-10-04,Marseille,Sporting CP,fr,pt,4,1,1.0
+2022-2023,Group stage,3,2022-10-04,Liverpool,Rangers,eng,sct,2,0,1.0
+2022-2023,Group stage,3,2022-10-04,Porto,Leverkusen,pt,de,2,0,1.0
 2022-2023,Group stage,3,2022-10-04,Eint Frankfurt,Tottenham,de,eng,0,0,0.5
-2022-2023,Group stage,3,2022-10-04,Inter,Barcelona,it,es,1,0,0.0
-2022-2023,Group stage,3,2022-10-04,Ajax,Napoli,nl,it,1,6,1.0
-2022-2023,Group stage,3,2022-10-04,Club Brugge,Atlético Madrid,be,es,2,0,0.0
-2022-2023,Group stage,3,2022-10-05,RB Leipzig,Celtic,de,sct,3,1,0.0
-2022-2023,Group stage,3,2022-10-05,RB Salzburg,Dinamo Zagreb,at,hr,1,0,0.0
-2022-2023,Group stage,3,2022-10-05,Chelsea,Milan,eng,it,3,0,0.0
+2022-2023,Group stage,3,2022-10-04,Inter,Barcelona,it,es,1,0,1.0
+2022-2023,Group stage,3,2022-10-04,Ajax,Napoli,nl,it,1,6,0.0
+2022-2023,Group stage,3,2022-10-04,Club Brugge,Atlético Madrid,be,es,2,0,1.0
+2022-2023,Group stage,3,2022-10-05,RB Leipzig,Celtic,de,sct,3,1,1.0
+2022-2023,Group stage,3,2022-10-05,RB Salzburg,Dinamo Zagreb,at,hr,1,0,1.0
+2022-2023,Group stage,3,2022-10-05,Chelsea,Milan,eng,it,3,0,1.0
 2022-2023,Group stage,3,2022-10-05,Benfica,Paris S-G,pt,fr,1,1,0.5
-2022-2023,Group stage,3,2022-10-05,Manchester City,FC Copenhagen,eng,dk,5,0,0.0
-2022-2023,Group stage,3,2022-10-05,Real Madrid,Shakhtar,es,ua,2,1,0.0
-2022-2023,Group stage,3,2022-10-05,Sevilla,Dortmund,es,de,1,4,1.0
-2022-2023,Group stage,3,2022-10-05,Juventus,Maccabi Haifa,it,il,3,1,0.0
+2022-2023,Group stage,3,2022-10-05,Manchester City,FC Copenhagen,eng,dk,5,0,1.0
+2022-2023,Group stage,3,2022-10-05,Real Madrid,Shakhtar,es,ua,2,1,1.0
+2022-2023,Group stage,3,2022-10-05,Sevilla,Dortmund,es,de,1,4,0.0
+2022-2023,Group stage,3,2022-10-05,Juventus,Maccabi Haifa,it,il,3,1,1.0
 2022-2023,Group stage,4,2022-10-11,FC Copenhagen,Manchester City,dk,eng,0,0,0.5
-2022-2023,Group stage,4,2022-10-11,Maccabi Haifa,Juventus,il,it,2,0,0.0
-2022-2023,Group stage,4,2022-10-11,Celtic,RB Leipzig,sct,de,0,2,1.0
+2022-2023,Group stage,4,2022-10-11,Maccabi Haifa,Juventus,il,it,2,0,1.0
+2022-2023,Group stage,4,2022-10-11,Celtic,RB Leipzig,sct,de,0,2,0.0
 2022-2023,Group stage,4,2022-10-11,Dortmund,Sevilla,de,es,1,1,0.5
 2022-2023,Group stage,4,2022-10-11,Paris S-G,Benfica,fr,pt,1,1,0.5
-2022-2023,Group stage,4,2022-10-11,Milan,Chelsea,it,eng,0,2,1.0
+2022-2023,Group stage,4,2022-10-11,Milan,Chelsea,it,eng,0,2,0.0
 2022-2023,Group stage,4,2022-10-11,Dinamo Zagreb,RB Salzburg,hr,at,1,1,0.5
 2022-2023,Group stage,4,2022-10-11,Shakhtar,Real Madrid,ua,es,1,1,0.5
-2022-2023,Group stage,4,2022-10-12,Napoli,Ajax,it,nl,4,2,0.0
+2022-2023,Group stage,4,2022-10-12,Napoli,Ajax,it,nl,4,2,1.0
 2022-2023,Group stage,4,2022-10-12,Atlético Madrid,Club Brugge,es,be,0,0,0.5
-2022-2023,Group stage,4,2022-10-12,Sporting CP,Marseille,pt,fr,0,2,1.0
-2022-2023,Group stage,4,2022-10-12,Rangers,Liverpool,sct,eng,1,7,1.0
-2022-2023,Group stage,4,2022-10-12,Tottenham,Eint Frankfurt,eng,de,3,2,0.0
-2022-2023,Group stage,4,2022-10-12,Viktoria Plzeň,Bayern Munich,cz,de,2,4,1.0
-2022-2023,Group stage,4,2022-10-12,Leverkusen,Porto,de,pt,0,3,1.0
+2022-2023,Group stage,4,2022-10-12,Sporting CP,Marseille,pt,fr,0,2,0.0
+2022-2023,Group stage,4,2022-10-12,Rangers,Liverpool,sct,eng,1,7,0.0
+2022-2023,Group stage,4,2022-10-12,Tottenham,Eint Frankfurt,eng,de,3,2,1.0
+2022-2023,Group stage,4,2022-10-12,Viktoria Plzeň,Bayern Munich,cz,de,2,4,0.0
+2022-2023,Group stage,4,2022-10-12,Leverkusen,Porto,de,pt,0,3,0.0
 2022-2023,Group stage,4,2022-10-12,Barcelona,Inter,es,it,3,3,0.5
-2022-2023,Group stage,5,2022-10-25,Sevilla,FC Copenhagen,es,dk,3,0,0.0
-2022-2023,Group stage,5,2022-10-25,RB Salzburg,Chelsea,at,eng,1,2,1.0
-2022-2023,Group stage,5,2022-10-25,Benfica,Juventus,pt,it,4,3,0.0
+2022-2023,Group stage,5,2022-10-25,Sevilla,FC Copenhagen,es,dk,3,0,1.0
+2022-2023,Group stage,5,2022-10-25,RB Salzburg,Chelsea,at,eng,1,2,0.0
+2022-2023,Group stage,5,2022-10-25,Benfica,Juventus,pt,it,4,3,1.0
 2022-2023,Group stage,5,2022-10-25,Celtic,Shakhtar,sct,ua,1,1,0.5
-2022-2023,Group stage,5,2022-10-25,Paris S-G,Maccabi Haifa,fr,il,7,2,0.0
+2022-2023,Group stage,5,2022-10-25,Paris S-G,Maccabi Haifa,fr,il,7,2,1.0
 2022-2023,Group stage,5,2022-10-25,Dortmund,Manchester City,de,eng,0,0,0.5
-2022-2023,Group stage,5,2022-10-25,RB Leipzig,Real Madrid,de,es,3,2,0.0
-2022-2023,Group stage,5,2022-10-25,Dinamo Zagreb,Milan,hr,it,0,4,1.0
-2022-2023,Group stage,5,2022-10-26,Club Brugge,Porto,be,pt,0,4,1.0
-2022-2023,Group stage,5,2022-10-26,Inter,Viktoria Plzeň,it,cz,4,0,0.0
+2022-2023,Group stage,5,2022-10-25,RB Leipzig,Real Madrid,de,es,3,2,1.0
+2022-2023,Group stage,5,2022-10-25,Dinamo Zagreb,Milan,hr,it,0,4,0.0
+2022-2023,Group stage,5,2022-10-26,Club Brugge,Porto,be,pt,0,4,0.0
+2022-2023,Group stage,5,2022-10-26,Inter,Viktoria Plzeň,it,cz,4,0,1.0
 2022-2023,Group stage,5,2022-10-26,Tottenham,Sporting CP,eng,pt,1,1,0.5
-2022-2023,Group stage,5,2022-10-26,Eint Frankfurt,Marseille,de,fr,2,1,0.0
+2022-2023,Group stage,5,2022-10-26,Eint Frankfurt,Marseille,de,fr,2,1,1.0
 2022-2023,Group stage,5,2022-10-26,Atlético Madrid,Leverkusen,es,de,2,2,0.5
-2022-2023,Group stage,5,2022-10-26,Barcelona,Bayern Munich,es,de,0,3,1.0
-2022-2023,Group stage,5,2022-10-26,Ajax,Liverpool,nl,eng,0,3,1.0
-2022-2023,Group stage,5,2022-10-26,Napoli,Rangers,it,sct,3,0,0.0
-2022-2023,Group stage,6,2022-11-01,Porto,Atlético Madrid,pt,es,2,1,0.0
+2022-2023,Group stage,5,2022-10-26,Barcelona,Bayern Munich,es,de,0,3,0.0
+2022-2023,Group stage,5,2022-10-26,Ajax,Liverpool,nl,eng,0,3,0.0
+2022-2023,Group stage,5,2022-10-26,Napoli,Rangers,it,sct,3,0,1.0
+2022-2023,Group stage,6,2022-11-01,Porto,Atlético Madrid,pt,es,2,1,1.0
 2022-2023,Group stage,6,2022-11-01,Leverkusen,Club Brugge,de,be,0,0,0.5
-2022-2023,Group stage,6,2022-11-01,Liverpool,Napoli,eng,it,2,0,0.0
-2022-2023,Group stage,6,2022-11-01,Rangers,Ajax,sct,nl,1,3,1.0
-2022-2023,Group stage,6,2022-11-01,Sporting CP,Eint Frankfurt,pt,de,1,2,1.0
-2022-2023,Group stage,6,2022-11-01,Marseille,Tottenham,fr,eng,1,2,1.0
-2022-2023,Group stage,6,2022-11-01,Bayern Munich,Inter,de,it,2,0,0.0
-2022-2023,Group stage,6,2022-11-01,Viktoria Plzeň,Barcelona,cz,es,2,4,1.0
-2022-2023,Group stage,6,2022-11-02,Real Madrid,Celtic,es,sct,5,1,0.0
-2022-2023,Group stage,6,2022-11-02,Shakhtar,RB Leipzig,ua,de,0,4,1.0
-2022-2023,Group stage,6,2022-11-02,Manchester City,Sevilla,eng,es,3,1,0.0
-2022-2023,Group stage,6,2022-11-02,Chelsea,Dinamo Zagreb,eng,hr,2,1,0.0
+2022-2023,Group stage,6,2022-11-01,Liverpool,Napoli,eng,it,2,0,1.0
+2022-2023,Group stage,6,2022-11-01,Rangers,Ajax,sct,nl,1,3,0.0
+2022-2023,Group stage,6,2022-11-01,Sporting CP,Eint Frankfurt,pt,de,1,2,0.0
+2022-2023,Group stage,6,2022-11-01,Marseille,Tottenham,fr,eng,1,2,0.0
+2022-2023,Group stage,6,2022-11-01,Bayern Munich,Inter,de,it,2,0,1.0
+2022-2023,Group stage,6,2022-11-01,Viktoria Plzeň,Barcelona,cz,es,2,4,0.0
+2022-2023,Group stage,6,2022-11-02,Real Madrid,Celtic,es,sct,5,1,1.0
+2022-2023,Group stage,6,2022-11-02,Shakhtar,RB Leipzig,ua,de,0,4,0.0
+2022-2023,Group stage,6,2022-11-02,Manchester City,Sevilla,eng,es,3,1,1.0
+2022-2023,Group stage,6,2022-11-02,Chelsea,Dinamo Zagreb,eng,hr,2,1,1.0
 2022-2023,Group stage,6,2022-11-02,FC Copenhagen,Dortmund,dk,de,1,1,0.5
-2022-2023,Group stage,6,2022-11-02,Juventus,Paris S-G,it,fr,1,2,1.0
-2022-2023,Group stage,6,2022-11-02,Milan,RB Salzburg,it,at,4,0,0.0
-2022-2023,Group stage,6,2022-11-02,Maccabi Haifa,Benfica,il,pt,1,6,1.0
-2022-2023,Round of 16,,2023-02-14,Paris S-G,Bayern Munich,fr,de,0,1,1.0
-2022-2023,Round of 16,,2023-02-14,Milan,Tottenham,it,eng,1,0,0.0
-2022-2023,Round of 16,,2023-02-15,Dortmund,Chelsea,de,eng,1,0,0.0
-2022-2023,Round of 16,,2023-02-15,Club Brugge,Benfica,be,pt,0,2,1.0
-2022-2023,Round of 16,,2023-02-21,Liverpool,Real Madrid,eng,es,2,5,1.0
-2022-2023,Round of 16,,2023-02-21,Eint Frankfurt,Napoli,de,it,0,2,1.0
+2022-2023,Group stage,6,2022-11-02,Juventus,Paris S-G,it,fr,1,2,0.0
+2022-2023,Group stage,6,2022-11-02,Milan,RB Salzburg,it,at,4,0,1.0
+2022-2023,Group stage,6,2022-11-02,Maccabi Haifa,Benfica,il,pt,1,6,0.0
+2022-2023,Round of 16,,2023-02-14,Paris S-G,Bayern Munich,fr,de,0,1,0.0
+2022-2023,Round of 16,,2023-02-14,Milan,Tottenham,it,eng,1,0,1.0
+2022-2023,Round of 16,,2023-02-15,Dortmund,Chelsea,de,eng,1,0,1.0
+2022-2023,Round of 16,,2023-02-15,Club Brugge,Benfica,be,pt,0,2,0.0
+2022-2023,Round of 16,,2023-02-21,Liverpool,Real Madrid,eng,es,2,5,0.0
+2022-2023,Round of 16,,2023-02-21,Eint Frankfurt,Napoli,de,it,0,2,0.0
 2022-2023,Round of 16,,2023-02-22,RB Leipzig,Manchester City,de,eng,1,1,0.5
-2022-2023,Round of 16,,2023-02-22,Inter,Porto,it,pt,1,0,0.0
-2022-2023,Round of 16,,2023-03-07,Chelsea,Dortmund,eng,de,2,0,0.0
-2022-2023,Round of 16,,2023-03-07,Benfica,Club Brugge,pt,be,5,1,0.0
+2022-2023,Round of 16,,2023-02-22,Inter,Porto,it,pt,1,0,1.0
+2022-2023,Round of 16,,2023-03-07,Chelsea,Dortmund,eng,de,2,0,1.0
+2022-2023,Round of 16,,2023-03-07,Benfica,Club Brugge,pt,be,5,1,1.0
 2022-2023,Round of 16,,2023-03-08,Tottenham,Milan,eng,it,0,0,0.5
-2022-2023,Round of 16,,2023-03-08,Bayern Munich,Paris S-G,de,fr,2,0,0.0
+2022-2023,Round of 16,,2023-03-08,Bayern Munich,Paris S-G,de,fr,2,0,1.0
 2022-2023,Round of 16,,2023-03-14,Porto,Inter,pt,it,0,0,0.5
-2022-2023,Round of 16,,2023-03-14,Manchester City,RB Leipzig,eng,de,7,0,0.0
-2022-2023,Round of 16,,2023-03-15,Napoli,Eint Frankfurt,it,de,3,0,0.0
-2022-2023,Round of 16,,2023-03-15,Real Madrid,Liverpool,es,eng,1,0,0.0
-2022-2023,Quarter-finals,,2023-04-11,Benfica,Inter,pt,it,0,2,1.0
-2022-2023,Quarter-finals,,2023-04-11,Manchester City,Bayern Munich,eng,de,3,0,0.0
-2022-2023,Quarter-finals,,2023-04-12,Real Madrid,Chelsea,es,eng,2,0,0.0
-2022-2023,Quarter-finals,,2023-04-12,Milan,Napoli,it,it,1,0,0.0
-2022-2023,Quarter-finals,,2023-04-18,Chelsea,Real Madrid,eng,es,0,2,1.0
+2022-2023,Round of 16,,2023-03-14,Manchester City,RB Leipzig,eng,de,7,0,1.0
+2022-2023,Round of 16,,2023-03-15,Napoli,Eint Frankfurt,it,de,3,0,1.0
+2022-2023,Round of 16,,2023-03-15,Real Madrid,Liverpool,es,eng,1,0,1.0
+2022-2023,Quarter-finals,,2023-04-11,Benfica,Inter,pt,it,0,2,0.0
+2022-2023,Quarter-finals,,2023-04-11,Manchester City,Bayern Munich,eng,de,3,0,1.0
+2022-2023,Quarter-finals,,2023-04-12,Real Madrid,Chelsea,es,eng,2,0,1.0
+2022-2023,Quarter-finals,,2023-04-12,Milan,Napoli,it,it,1,0,1.0
+2022-2023,Quarter-finals,,2023-04-18,Chelsea,Real Madrid,eng,es,0,2,0.0
 2022-2023,Quarter-finals,,2023-04-18,Napoli,Milan,it,it,1,1,0.5
 2022-2023,Quarter-finals,,2023-04-19,Bayern Munich,Manchester City,de,eng,1,1,0.5
 2022-2023,Quarter-finals,,2023-04-19,Inter,Benfica,it,pt,3,3,0.5
 2022-2023,Semi-finals,,2023-05-09,Real Madrid,Manchester City,es,eng,1,1,0.5
-2022-2023,Semi-finals,,2023-05-10,Milan,Inter,it,it,0,2,1.0
-2022-2023,Semi-finals,,2023-05-16,Inter,Milan,it,it,1,0,0.0
-2022-2023,Semi-finals,,2023-05-17,Manchester City,Real Madrid,eng,es,4,0,0.0
-2022-2023,Final,,2023-06-10,Manchester City,Inter,eng,it,1,0,0.0
+2022-2023,Semi-finals,,2023-05-10,Milan,Inter,it,it,0,2,0.0
+2022-2023,Semi-finals,,2023-05-16,Inter,Milan,it,it,1,0,1.0
+2022-2023,Semi-finals,,2023-05-17,Manchester City,Real Madrid,eng,es,4,0,1.0
+2022-2023,Final,,2023-06-10,Manchester City,Inter,eng,it,1,0,1.0

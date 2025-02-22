@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,1,2021-07-23,FC Lviv,FC Mariupol,1.0,1.0,0.5
+2021-2022,1,2021-07-24,Veres Rivne,FK Kolos,0.0,0.0,0.5
+2021-2022,1,2021-07-24,Shakhtar,FK Inhulets,2.0,1.0,1.0
+2021-2022,1,2021-07-25,FK Metalist 1925 Kharkiv,Рух,2.0,1.0,1.0
+2021-2022,1,2021-07-25,Desna Chernihiv,Chornomorets Odesa,3.0,0.0,1.0
+2021-2022,1,2021-07-25,Zorya Luhansk,FC Oleksandriya,0.0,1.0,0.0
+2021-2022,1,2021-07-26,Vorskla Poltava,SK Dnipro-1,2.0,2.0,0.5
+2021-2022,2,2021-07-30,FC Lviv,Shakhtar,0.0,3.0,0.0
+2021-2022,2,2021-07-30,FK Kolos,FK Metalist 1925 Kharkiv,1.0,0.0,1.0
+2021-2022,2,2021-07-31,FK Mynai,FC Oleksandriya,1.0,0.0,1.0
+2021-2022,2,2021-07-31,Chornomorets Odesa,SK Dnipro-1,0.0,3.0,0.0
+2021-2022,2,2021-08-01,FC Mariupol,Desna Chernihiv,1.0,2.0,0.0
+2021-2022,2,2021-08-01,Dynamo Kyiv,Veres Rivne,4.0,0.0,1.0
+2021-2022,2,2021-08-01,Vorskla Poltava,Рух,2.0,0.0,1.0
+2021-2022,2,2021-08-02,FK Inhulets,Zorya Luhansk,1.0,5.0,0.0
+2021-2022,3,2021-08-06,FK Metalist 1925 Kharkiv,Chornomorets Odesa,3.0,2.0,1.0
+2021-2022,3,2021-08-07,Рух,Veres Rivne,2.0,1.0,1.0
+2021-2022,3,2021-08-07,SK Dnipro-1,FC Mariupol,2.0,1.0,1.0
+2021-2022,3,2021-08-07,Shakhtar,FC Oleksandriya,1.0,2.0,0.0
+2021-2022,3,2021-08-08,Vorskla Poltava,FC Lviv,4.0,1.0,1.0
+2021-2022,3,2021-08-08,Zorya Luhansk,Dynamo Kyiv,1.0,2.0,0.0
+2021-2022,3,2021-08-09,Desna Chernihiv,FK Inhulets,2.0,0.0,1.0
+2021-2022,1,2021-08-11,Dynamo Kyiv,FK Mynai,2.0,0.0,1.0
+2021-2022,4,2021-08-13,Shakhtar,FK Metalist 1925 Kharkiv,2.0,0.0,1.0
+2021-2022,4,2021-08-14,Veres Rivne,Vorskla Poltava,1.0,1.0,0.5
+2021-2022,4,2021-08-14,Zorya Luhansk,FK Mynai,1.0,1.0,0.5
+2021-2022,4,2021-08-14,Desna Chernihiv,SK Dnipro-1,2.0,1.0,1.0
+2021-2022,4,2021-08-15,FK Kolos,Рух,1.0,1.0,0.5
+2021-2022,4,2021-08-15,FC Lviv,FC Oleksandriya,1.0,1.0,0.5
+2021-2022,4,2021-08-16,FC Mariupol,Chornomorets Odesa,2.0,3.0,0.0
+2021-2022,4,2021-08-18,FK Inhulets,Dynamo Kyiv,1.0,1.0,0.5
+2021-2022,5,2021-08-20,Vorskla Poltava,FK Metalist 1925 Kharkiv,2.0,0.0,1.0
+2021-2022,5,2021-08-21,Veres Rivne,FK Mynai,1.0,0.0,1.0
+2021-2022,5,2021-08-21,Chornomorets Odesa,Shakhtar,0.0,3.0,0.0
+2021-2022,5,2021-08-21,SK Dnipro-1,Рух,2.0,0.0,1.0
+2021-2022,5,2021-08-22,FC Mariupol,Zorya Luhansk,3.0,4.0,0.0
+2021-2022,5,2021-08-22,FK Kolos,FC Oleksandriya,0.0,1.0,0.0
+2021-2022,5,2021-08-22,Dynamo Kyiv,Desna Chernihiv,4.0,0.0,1.0
+2021-2022,5,2021-08-23,FC Lviv,FK Inhulets,1.0,2.0,0.0
+2021-2022,6,2021-08-27,Chornomorets Odesa,FC Oleksandriya,2.0,2.0,0.5
+2021-2022,6,2021-08-28,FK Inhulets,FC Mariupol,3.0,0.0,1.0
+2021-2022,6,2021-08-28,FK Metalist 1925 Kharkiv,SK Dnipro-1,1.0,2.0,0.0
+2021-2022,6,2021-08-28,Dynamo Kyiv,FK Kolos,7.0,0.0,1.0
+2021-2022,6,2021-08-29,Desna Chernihiv,Veres Rivne,0.0,4.0,0.0
+2021-2022,6,2021-08-29,FK Mynai,Shakhtar,1.0,1.0,0.5
+2021-2022,6,2021-08-29,Рух,FC Lviv,1.0,0.0,1.0
+2021-2022,6,2021-08-29,Zorya Luhansk,Vorskla Poltava,1.0,0.0,1.0
+2021-2022,7,2021-09-10,FC Oleksandriya,FK Inhulets,1.0,0.0,1.0
+2021-2022,7,2021-09-11,Рух,Zorya Luhansk,1.0,1.0,0.5
+2021-2022,7,2021-09-11,FK Metalist 1925 Kharkiv,Dynamo Kyiv,0.0,2.0,0.0
+2021-2022,7,2021-09-11,Shakhtar,SK Dnipro-1,2.0,0.0,1.0
+2021-2022,7,2021-09-12,FK Mynai,Chornomorets Odesa,2.0,2.0,0.5
+2021-2022,7,2021-09-12,FK Kolos,FC Mariupol,1.0,3.0,0.0
+2021-2022,7,2021-09-12,Vorskla Poltava,Desna Chernihiv,2.0,2.0,0.5
+2021-2022,7,2021-09-13,Veres Rivne,FC Lviv,1.0,0.0,1.0
+2021-2022,8,2021-09-17,Desna Chernihiv,Рух,1.0,0.0,1.0
+2021-2022,8,2021-09-18,FK Inhulets,FK Kolos,0.0,2.0,0.0
+2021-2022,8,2021-09-18,SK Dnipro-1,Veres Rivne,1.0,0.0,1.0
+2021-2022,8,2021-09-18,FC Mariupol,Shakhtar,0.0,5.0,0.0
+2021-2022,8,2021-09-18,Dynamo Kyiv,FC Oleksandriya,1.0,0.0,1.0
+2021-2022,8,2021-09-19,Vorskla Poltava,FK Mynai,2.0,0.0,1.0
+2021-2022,8,2021-09-19,FC Lviv,FK Metalist 1925 Kharkiv,0.0,0.0,0.5
+2021-2022,8,2021-09-19,Zorya Luhansk,Chornomorets Odesa,3.0,0.0,1.0
+2021-2022,9,2021-09-24,FK Kolos,Vorskla Poltava,0.0,1.0,0.0
+2021-2022,9,2021-09-25,FC Oleksandriya,FC Mariupol,2.0,1.0,1.0
+2021-2022,9,2021-09-25,Shakhtar,Veres Rivne,4.0,1.0,1.0
+2021-2022,9,2021-09-25,Рух,Dynamo Kyiv,0.0,2.0,0.0
+2021-2022,9,2021-09-26,FK Mynai,FC Lviv,1.0,2.0,0.0
+2021-2022,9,2021-09-26,SK Dnipro-1,Zorya Luhansk,0.0,4.0,0.0
+2021-2022,9,2021-09-26,Desna Chernihiv,FK Metalist 1925 Kharkiv,1.0,2.0,0.0
+2021-2022,9,2021-09-27,Chornomorets Odesa,FK Inhulets,1.0,1.0,0.5
+2021-2022,10,2021-10-01,FC Mariupol,Рух,0.0,2.0,0.0
+2021-2022,10,2021-10-02,FK Kolos,Chornomorets Odesa,2.0,1.0,1.0
+2021-2022,10,2021-10-02,FC Lviv,SK Dnipro-1,0.0,1.0,0.0
+2021-2022,10,2021-10-02,Vorskla Poltava,FK Inhulets,3.0,0.0,1.0
+2021-2022,10,2021-10-03,Veres Rivne,FC Oleksandriya,0.0,0.0,0.5
+2021-2022,10,2021-10-03,FK Metalist 1925 Kharkiv,FK Mynai,1.0,0.0,1.0
+2021-2022,10,2021-10-03,Zorya Luhansk,Desna Chernihiv,2.0,0.0,1.0
+2021-2022,10,2021-10-03,Dynamo Kyiv,Shakhtar,0.0,0.0,0.5
+2021-2022,11,2021-10-15,Shakhtar,Zorya Luhansk,6.0,1.0,1.0
+2021-2022,11,2021-10-16,FC Mariupol,FK Metalist 1925 Kharkiv,1.0,2.0,0.0
+2021-2022,11,2021-10-16,FC Lviv,Dynamo Kyiv,1.0,4.0,0.0
+2021-2022,11,2021-10-16,SK Dnipro-1,FK Kolos,2.0,0.0,1.0
+2021-2022,11,2021-10-17,FK Mynai,Desna Chernihiv,0.0,0.0,0.5
+2021-2022,11,2021-10-17,FC Oleksandriya,Vorskla Poltava,1.0,2.0,0.0
+2021-2022,11,2021-10-18,Chornomorets Odesa,Veres Rivne,0.0,1.0,0.0
+2021-2022,12,2021-10-22,Desna Chernihiv,FC Oleksandriya,1.0,1.0,0.5
+2021-2022,12,2021-10-22,FK Metalist 1925 Kharkiv,FK Inhulets,4.0,0.0,1.0
+2021-2022,12,2021-10-23,Veres Rivne,FC Mariupol,2.0,0.0,1.0
+2021-2022,12,2021-10-23,Vorskla Poltava,Shakhtar,0.0,2.0,0.0
+2021-2022,12,2021-10-23,Chornomorets Odesa,FC Lviv,1.0,1.0,0.5
+2021-2022,12,2021-10-24,Рух,FK Mynai,2.0,2.0,0.5
+2021-2022,12,2021-10-24,Dynamo Kyiv,SK Dnipro-1,2.0,0.0,1.0
+2021-2022,12,2021-10-24,Zorya Luhansk,FK Kolos,1.0,0.0,1.0
+2021-2022,13,2021-10-30,FC Mariupol,Dynamo Kyiv,2.0,3.0,0.0
+2021-2022,13,2021-10-30,Shakhtar,Desna Chernihiv,4.0,1.0,1.0
+2021-2022,13,2021-10-30,FK Inhulets,Veres Rivne,0.0,0.0,0.5
+2021-2022,13,2021-10-31,FK Kolos,FC Lviv,0.0,1.0,0.0
+2021-2022,13,2021-10-31,Рух,FC Oleksandriya,0.0,0.0,0.5
+2021-2022,13,2021-10-31,FK Metalist 1925 Kharkiv,Zorya Luhansk,1.0,6.0,0.0
+2021-2022,13,2021-11-01,SK Dnipro-1,FK Mynai,4.0,0.0,1.0
+2021-2022,13,2021-11-01,Vorskla Poltava,Chornomorets Odesa,0.0,0.0,0.5
+2021-2022,14,2021-11-05,FC Oleksandriya,FK Metalist 1925 Kharkiv,2.0,0.0,1.0
+2021-2022,14,2021-11-06,FK Mynai,FC Mariupol,0.0,2.0,0.0
+2021-2022,14,2021-11-06,Dynamo Kyiv,Vorskla Poltava,1.0,2.0,0.0
+2021-2022,14,2021-11-06,Chornomorets Odesa,Рух,4.0,3.0,1.0
+2021-2022,14,2021-11-07,FK Inhulets,SK Dnipro-1,0.0,1.0,0.0
+2021-2022,14,2021-11-07,FK Kolos,Shakhtar,1.0,3.0,0.0
+2021-2022,14,2021-11-07,Zorya Luhansk,Veres Rivne,3.0,0.0,1.0
+2021-2022,14,2021-11-07,FC Lviv,Desna Chernihiv,0.0,2.0,0.0
+2021-2022,15,2021-11-19,Chornomorets Odesa,Dynamo Kyiv,1.0,6.0,0.0
+2021-2022,15,2021-11-20,FC Lviv,Zorya Luhansk,2.0,1.0,1.0
+2021-2022,15,2021-11-20,Shakhtar,Рух,2.0,0.0,1.0
+2021-2022,15,2021-11-20,SK Dnipro-1,FC Oleksandriya,3.0,1.0,1.0
+2021-2022,15,2021-11-21,FK Mynai,FK Inhulets,2.0,2.0,0.5
+2021-2022,15,2021-11-21,Vorskla Poltava,FC Mariupol,5.0,1.0,1.0
+2021-2022,15,2021-11-21,Desna Chernihiv,FK Kolos,0.0,1.0,0.0
+2021-2022,15,2021-11-22,Veres Rivne,FK Metalist 1925 Kharkiv,2.0,0.0,1.0
+2021-2022,3,2021-11-24,FK Mynai,FK Kolos,1.0,1.0,0.5
+2021-2022,16,2021-11-26,FC Mariupol,FC Lviv,0.0,1.0,0.0
+2021-2022,16,2021-11-27,FK Mynai,Dynamo Kyiv,0.0,2.0,0.0
+2021-2022,16,2021-11-27,Chornomorets Odesa,Desna Chernihiv,0.0,1.0,0.0
+2021-2022,16,2021-11-27,SK Dnipro-1,Vorskla Poltava,5.0,1.0,1.0
+2021-2022,16,2021-11-28,FK Inhulets,Shakhtar,0.0,1.0,0.0
+2021-2022,16,2021-11-28,Рух,FK Metalist 1925 Kharkiv,2.0,0.0,1.0
+2021-2022,16,2021-11-28,FK Kolos,Veres Rivne,1.0,0.0,1.0
+2021-2022,16,2021-11-29,FC Oleksandriya,Zorya Luhansk,0.0,1.0,0.0
+2021-2022,17,2021-12-03,Shakhtar,FC Lviv,6.0,1.0,1.0
+2021-2022,17,2021-12-04,Veres Rivne,Dynamo Kyiv,0.0,3.0,0.0
+2021-2022,17,2021-12-04,Рух,Vorskla Poltava,0.0,0.0,0.5
+2021-2022,17,2021-12-04,FK Metalist 1925 Kharkiv,FK Kolos,0.0,1.0,0.0
+2021-2022,17,2021-12-05,Zorya Luhansk,FK Inhulets,1.0,0.0,1.0
+2021-2022,17,2021-12-05,FC Oleksandriya,FK Mynai,3.0,0.0,1.0
+2021-2022,17,2021-12-05,Desna Chernihiv,FC Mariupol,3.0,3.0,0.5
+2021-2022,17,2021-12-06,SK Dnipro-1,Chornomorets Odesa,3.0,1.0,1.0
+2021-2022,18,2021-12-10,FC Mariupol,SK Dnipro-1,0.0,3.0,0.0
+2021-2022,18,2021-12-10,FK Inhulets,Desna Chernihiv,2.0,1.0,1.0
+2021-2022,18,2021-12-11,FC Oleksandriya,Shakhtar,1.0,2.0,0.0
+2021-2022,18,2021-12-11,Veres Rivne,Рух,1.0,1.0,0.5
+2021-2022,18,2021-12-11,FC Lviv,Vorskla Poltava,1.0,1.0,0.5
+2021-2022,18,2021-12-12,Chornomorets Odesa,FK Metalist 1925 Kharkiv,2.0,1.0,1.0
+2021-2022,18,2021-12-12,Dynamo Kyiv,Zorya Luhansk,1.0,1.0,0.5
+2021-2022,18,2021-12-12,FK Kolos,FK Mynai,2.0,1.0,1.0
+2021-2022,11,2021-12-16,FK Inhulets,Рух,,,0.5
+2021-2022,19,2022-02-25,FK Mynai,Zorya Luhansk,,,0.5
+2021-2022,19,2022-02-26,Dynamo Kyiv,FK Inhulets,,,0.5
+2021-2022,19,2022-02-26,FK Metalist 1925 Kharkiv,Shakhtar,,,0.5
+2021-2022,19,2022-02-26,FC Oleksandriya,FC Lviv,,,0.5
+2021-2022,19,2022-02-27,Vorskla Poltava,Veres Rivne,,,0.5
+2021-2022,19,2022-02-27,SK Dnipro-1,Desna Chernihiv,,,0.5
+2021-2022,19,2022-02-27,Chornomorets Odesa,FC Mariupol,,,0.5
+2021-2022,19,2022-02-28,Рух,FK Kolos,,,0.5
+2021-2022,20,2022-03-05,FK Mynai,Veres Rivne,,,0.5
+2021-2022,20,2022-03-05,FC Oleksandriya,FK Kolos,,,0.5
+2021-2022,20,2022-03-05,Zorya Luhansk,FC Mariupol,,,0.5
+2021-2022,20,2022-03-06,FK Inhulets,FC Lviv,,,0.5
+2021-2022,20,2022-03-06,Shakhtar,Chornomorets Odesa,,,0.5
+2021-2022,20,2022-03-06,Desna Chernihiv,Dynamo Kyiv,,,0.5
+2021-2022,20,2022-03-07,Рух,SK Dnipro-1,,,0.5
+2021-2022,20,2022-03-07,FK Metalist 1925 Kharkiv,Vorskla Poltava,,,0.5
+2021-2022,21,2022-03-11,FC Mariupol,FK Inhulets,,,0.5
+2021-2022,21,2022-03-12,SK Dnipro-1,FK Metalist 1925 Kharkiv,,,0.5
+2021-2022,21,2022-03-12,Shakhtar,FK Mynai,,,0.5
+2021-2022,21,2022-03-12,FK Kolos,Dynamo Kyiv,,,0.5
+2021-2022,21,2022-03-13,Veres Rivne,Desna Chernihiv,,,0.5
+2021-2022,21,2022-03-13,FC Lviv,Рух,,,0.5
+2021-2022,21,2022-03-13,Vorskla Poltava,Zorya Luhansk,,,0.5
+2021-2022,21,2022-03-14,FC Oleksandriya,Chornomorets Odesa,,,0.5
+2021-2022,22,2022-03-16,SK Dnipro-1,Shakhtar,,,0.5
+2021-2022,22,2022-03-17,Dynamo Kyiv,FK Metalist 1925 Kharkiv,,,0.5
+2021-2022,22,2022-03-17,Desna Chernihiv,Vorskla Poltava,,,0.5
+2021-2022,22,2022-03-18,Zorya Luhansk,Рух,,,0.5
+2021-2022,22,2022-03-19,FC Mariupol,FK Kolos,,,0.5
+2021-2022,22,2022-03-19,Chornomorets Odesa,FK Mynai,,,0.5
+2021-2022,22,2022-03-20,FK Inhulets,FC Oleksandriya,,,0.5
+2021-2022,22,2022-03-20,FC Lviv,Veres Rivne,,,0.5
+2021-2022,23,2022-04-02,Рух,Desna Chernihiv,,,0.5
+2021-2022,23,2022-04-02,Veres Rivne,SK Dnipro-1,,,0.5
+2021-2022,23,2022-04-02,FK Metalist 1925 Kharkiv,FC Lviv,,,0.5
+2021-2022,23,2022-04-02,FK Mynai,Vorskla Poltava,,,0.5
+2021-2022,23,2022-04-02,Shakhtar,FC Mariupol,,,0.5
+2021-2022,23,2022-04-02,Chornomorets Odesa,Zorya Luhansk,,,0.5
+2021-2022,23,2022-04-02,FC Oleksandriya,Dynamo Kyiv,,,0.5
+2021-2022,23,2022-04-02,FK Kolos,FK Inhulets,,,0.5
+2021-2022,24,2022-04-09,FC Mariupol,FC Oleksandriya,,,0.5
+2021-2022,24,2022-04-09,Zorya Luhansk,SK Dnipro-1,,,0.5
+2021-2022,24,2022-04-09,FK Metalist 1925 Kharkiv,Desna Chernihiv,,,0.5
+2021-2022,24,2022-04-09,Vorskla Poltava,FK Kolos,,,0.5
+2021-2022,24,2022-04-09,FC Lviv,FK Mynai,,,0.5
+2021-2022,24,2022-04-09,Dynamo Kyiv,Рух,,,0.5
+2021-2022,24,2022-04-09,FK Inhulets,Chornomorets Odesa,,,0.5
+2021-2022,24,2022-04-09,Veres Rivne,Shakhtar,,,0.5
+2021-2022,25,2022-04-16,Рух,FC Mariupol,,,0.5
+2021-2022,25,2022-04-16,FK Inhulets,Vorskla Poltava,,,0.5
+2021-2022,25,2022-04-16,Desna Chernihiv,Zorya Luhansk,,,0.5
+2021-2022,25,2022-04-16,SK Dnipro-1,FC Lviv,,,0.5
+2021-2022,25,2022-04-16,Chornomorets Odesa,FK Kolos,,,0.5
+2021-2022,25,2022-04-16,FC Oleksandriya,Veres Rivne,,,0.5
+2021-2022,25,2022-04-16,Shakhtar,Dynamo Kyiv,,,0.5
+2021-2022,25,2022-04-16,FK Mynai,FK Metalist 1925 Kharkiv,,,0.5
+2021-2022,26,2022-04-23,Dynamo Kyiv,FC Lviv,,,0.5
+2021-2022,26,2022-04-23,Zorya Luhansk,Shakhtar,,,0.5
+2021-2022,26,2022-04-23,Vorskla Poltava,FC Oleksandriya,,,0.5
+2021-2022,26,2022-04-23,FK Kolos,SK Dnipro-1,,,0.5
+2021-2022,26,2022-04-23,Рух,FK Inhulets,,,0.5
+2021-2022,26,2022-04-23,Desna Chernihiv,FK Mynai,,,0.5
+2021-2022,26,2022-04-23,Veres Rivne,Chornomorets Odesa,,,0.5
+2021-2022,26,2022-04-23,FK Metalist 1925 Kharkiv,FC Mariupol,,,0.5
+2021-2022,27,2022-04-30,FK Kolos,Zorya Luhansk,,,0.5
+2021-2022,27,2022-04-30,Shakhtar,Vorskla Poltava,,,0.5
+2021-2022,27,2022-04-30,SK Dnipro-1,Dynamo Kyiv,,,0.5
+2021-2022,27,2022-04-30,FC Oleksandriya,Desna Chernihiv,,,0.5
+2021-2022,27,2022-04-30,FC Lviv,Chornomorets Odesa,,,0.5
+2021-2022,27,2022-04-30,FK Mynai,Рух,,,0.5
+2021-2022,27,2022-04-30,FC Mariupol,Veres Rivne,,,0.5
+2021-2022,27,2022-04-30,FK Inhulets,FK Metalist 1925 Kharkiv,,,0.5
+2021-2022,28,2022-05-07,Zorya Luhansk,FK Metalist 1925 Kharkiv,,,0.5
+2021-2022,28,2022-05-07,Chornomorets Odesa,Vorskla Poltava,,,0.5
+2021-2022,28,2022-05-07,FC Oleksandriya,Рух,,,0.5
+2021-2022,28,2022-05-07,FC Lviv,FK Kolos,,,0.5
+2021-2022,28,2022-05-07,FK Mynai,SK Dnipro-1,,,0.5
+2021-2022,28,2022-05-07,Dynamo Kyiv,FC Mariupol,,,0.5
+2021-2022,28,2022-05-07,Veres Rivne,FK Inhulets,,,0.5
+2021-2022,28,2022-05-07,Desna Chernihiv,Shakhtar,,,0.5
+2021-2022,29,2022-05-14,Рух,Chornomorets Odesa,,,0.5
+2021-2022,29,2022-05-14,FC Mariupol,FK Mynai,,,0.5
+2021-2022,29,2022-05-14,Shakhtar,FK Kolos,,,0.5
+2021-2022,29,2022-05-14,FK Metalist 1925 Kharkiv,FC Oleksandriya,,,0.5
+2021-2022,29,2022-05-14,Vorskla Poltava,Dynamo Kyiv,,,0.5
+2021-2022,29,2022-05-14,Veres Rivne,Zorya Luhansk,,,0.5
+2021-2022,29,2022-05-14,SK Dnipro-1,FK Inhulets,,,0.5
+2021-2022,29,2022-05-14,Desna Chernihiv,FC Lviv,,,0.5
+2021-2022,30,2022-05-21,FK Metalist 1925 Kharkiv,Veres Rivne,,,0.5
+2021-2022,30,2022-05-21,FC Mariupol,Vorskla Poltava,,,0.5
+2021-2022,30,2022-05-21,FK Inhulets,FK Mynai,,,0.5
+2021-2022,30,2022-05-21,FC Oleksandriya,SK Dnipro-1,,,0.5
+2021-2022,30,2022-05-21,FK Kolos,Desna Chernihiv,,,0.5
+2021-2022,30,2022-05-21,Zorya Luhansk,FC Lviv,,,0.5
+2021-2022,30,2022-05-21,Dynamo Kyiv,Chornomorets Odesa,,,0.5
+2021-2022,30,2022-05-21,Рух,Shakhtar,,,0.5

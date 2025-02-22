@@ -1,0 +1,193 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2016-2017,Regular season,1,2016-07-22,Shakhtar,Zirka,4,1,1.0
+2016-2017,Regular season,1,2016-07-23,Stal Kamianske,Karpaty Lviv,0,3,0.0
+2016-2017,Regular season,1,2016-07-23,Vorskla Poltava,Chornomorets,1,0,1.0
+2016-2017,Regular season,1,2016-07-23,Dynamo Kyiv,FC Oleksandriya,5,1,1.0
+2016-2017,Regular season,1,2016-07-24,Zorya Luhansk,Olimpik Donetsk,3,0,1.0
+2016-2017,Regular season,1,2016-07-24,FC Dnipro,Volyn Lutsk,5,0,1.0
+2016-2017,Regular season,2,2016-07-30,Volyn Lutsk,Olimpik Donetsk,2,2,0.5
+2016-2017,Regular season,2,2016-07-30,Zirka,Zorya Luhansk,1,1,0.5
+2016-2017,Regular season,2,2016-07-30,Chornomorets,Shakhtar,1,4,0.0
+2016-2017,Regular season,2,2016-07-31,FC Dnipro,Stal Kamianske,1,1,0.5
+2016-2017,Regular season,2,2016-07-31,Karpaty Lviv,Dynamo Kyiv,0,2,0.0
+2016-2017,Regular season,2,2016-07-31,FC Oleksandriya,Vorskla Poltava,3,2,1.0
+2016-2017,Regular season,3,2016-08-06,Stal Kamianske,Volyn Lutsk,1,0,1.0
+2016-2017,Regular season,3,2016-08-06,Dynamo Kyiv,FC Dnipro,1,0,1.0
+2016-2017,Regular season,3,2016-08-07,Olimpik Donetsk,Zirka,4,2,1.0
+2016-2017,Regular season,3,2016-08-07,Shakhtar,FC Oleksandriya,1,0,1.0
+2016-2017,Regular season,3,2016-08-07,Vorskla Poltava,Karpaty Lviv,1,1,0.5
+2016-2017,Regular season,3,2016-08-07,Zorya Luhansk,Chornomorets,4,0,1.0
+2016-2017,Regular season,4,2016-08-12,Karpaty Lviv,Shakhtar,2,3,0.0
+2016-2017,Regular season,4,2016-08-13,Volyn Lutsk,Zirka,1,0,1.0
+2016-2017,Regular season,4,2016-08-13,FC Oleksandriya,Zorya Luhansk,0,1,0.0
+2016-2017,Regular season,4,2016-08-13,FC Dnipro,Vorskla Poltava,1,1,0.5
+2016-2017,Regular season,4,2016-08-14,Chornomorets,Olimpik Donetsk,3,0,1.0
+2016-2017,Regular season,4,2016-08-14,Stal Kamianske,Dynamo Kyiv,1,2,0.0
+2016-2017,Regular season,5,2016-08-20,Olimpik Donetsk,FC Oleksandriya,0,2,0.0
+2016-2017,Regular season,5,2016-08-20,Dynamo Kyiv,Volyn Lutsk,2,1,1.0
+2016-2017,Regular season,5,2016-08-21,Shakhtar,FC Dnipro,4,0,1.0
+2016-2017,Regular season,5,2016-08-21,Vorskla Poltava,Stal Kamianske,0,0,0.5
+2016-2017,Regular season,5,2016-08-21,Zirka,Chornomorets,0,1,0.0
+2016-2017,Regular season,5,2016-08-21,Zorya Luhansk,Karpaty Lviv,2,1,1.0
+2016-2017,Regular season,6,2016-08-26,FC Dnipro,Zorya Luhansk,2,0,1.0
+2016-2017,Regular season,6,2016-08-27,Volyn Lutsk,Chornomorets,0,1,0.0
+2016-2017,Regular season,6,2016-08-27,Dynamo Kyiv,Vorskla Poltava,0,2,0.0
+2016-2017,Regular season,6,2016-08-28,Karpaty Lviv,Olimpik Donetsk,0,2,0.0
+2016-2017,Regular season,6,2016-08-28,FC Oleksandriya,Zirka,4,0,1.0
+2016-2017,Regular season,6,2016-08-28,Stal Kamianske,Shakhtar,0,1,0.0
+2016-2017,Regular season,7,2016-09-09,Shakhtar,Dynamo Kyiv,1,1,0.5
+2016-2017,Regular season,7,2016-09-10,Zorya Luhansk,Stal Kamianske,2,2,0.5
+2016-2017,Regular season,7,2016-09-11,Zirka,Karpaty Lviv,1,0,1.0
+2016-2017,Regular season,7,2016-09-11,Vorskla Poltava,Volyn Lutsk,2,1,1.0
+2016-2017,Regular season,7,2016-09-11,Chornomorets,FC Oleksandriya,1,0,1.0
+2016-2017,Regular season,7,2016-09-11,Olimpik Donetsk,FC Dnipro,3,0,1.0
+2016-2017,Regular season,8,2016-09-17,Stal Kamianske,Olimpik Donetsk,2,3,0.0
+2016-2017,Regular season,8,2016-09-17,Karpaty Lviv,Chornomorets,0,0,0.5
+2016-2017,Regular season,8,2016-09-17,FC Dnipro,Zirka,0,1,0.0
+2016-2017,Regular season,8,2016-09-18,Volyn Lutsk,FC Oleksandriya,1,1,0.5
+2016-2017,Regular season,8,2016-09-18,Vorskla Poltava,Shakhtar,0,1,0.0
+2016-2017,Regular season,8,2016-09-18,Dynamo Kyiv,Zorya Luhansk,0,1,0.0
+2016-2017,Regular season,9,2016-09-24,Olimpik Donetsk,Dynamo Kyiv,0,4,0.0
+2016-2017,Regular season,9,2016-09-24,Shakhtar,Volyn Lutsk,3,0,1.0
+2016-2017,Regular season,9,2016-09-24,Zorya Luhansk,Vorskla Poltava,2,1,1.0
+2016-2017,Regular season,9,2016-09-25,Zirka,Stal Kamianske,0,0,0.5
+2016-2017,Regular season,9,2016-09-25,Chornomorets,FC Dnipro,0,0,0.5
+2016-2017,Regular season,9,2016-09-25,FC Oleksandriya,Karpaty Lviv,3,2,1.0
+2016-2017,Regular season,10,2016-10-01,Stal Kamianske,Chornomorets,1,2,0.0
+2016-2017,Regular season,10,2016-10-01,FC Dnipro,FC Oleksandriya,1,4,0.0
+2016-2017,Regular season,10,2016-10-01,Vorskla Poltava,Olimpik Donetsk,1,2,0.0
+2016-2017,Regular season,10,2016-10-02,Volyn Lutsk,Karpaty Lviv,1,1,0.5
+2016-2017,Regular season,10,2016-10-02,Shakhtar,Zorya Luhansk,1,0,1.0
+2016-2017,Regular season,10,2016-10-02,Dynamo Kyiv,Zirka,2,0,1.0
+2016-2017,Regular season,11,2016-10-15,Zorya Luhansk,Volyn Lutsk,2,0,1.0
+2016-2017,Regular season,11,2016-10-15,Olimpik Donetsk,Shakhtar,1,1,0.5
+2016-2017,Regular season,11,2016-10-15,Chornomorets,Dynamo Kyiv,1,1,0.5
+2016-2017,Regular season,11,2016-10-16,FC Oleksandriya,Stal Kamianske,2,0,1.0
+2016-2017,Regular season,11,2016-10-16,Zirka,Vorskla Poltava,2,0,1.0
+2016-2017,Regular season,11,2016-10-16,Karpaty Lviv,FC Dnipro,1,1,0.5
+2016-2017,Regular season,12,2016-10-22,Karpaty Lviv,Stal Kamianske,0,1,0.0
+2016-2017,Regular season,12,2016-10-22,Volyn Lutsk,FC Dnipro,3,0,1.0
+2016-2017,Regular season,12,2016-10-23,FC Oleksandriya,Dynamo Kyiv,1,1,0.5
+2016-2017,Regular season,12,2016-10-23,Olimpik Donetsk,Zorya Luhansk,0,2,0.0
+2016-2017,Regular season,12,2016-10-23,Chornomorets,Vorskla Poltava,1,2,0.0
+2016-2017,Regular season,12,2016-10-23,Zirka,Shakhtar,0,3,0.0
+2016-2017,Regular season,13,2016-10-29,Olimpik Donetsk,Volyn Lutsk,2,1,1.0
+2016-2017,Regular season,13,2016-10-29,Shakhtar,Chornomorets,2,0,1.0
+2016-2017,Regular season,13,2016-10-29,Dynamo Kyiv,Karpaty Lviv,4,1,1.0
+2016-2017,Regular season,13,2016-10-30,Zorya Luhansk,Zirka,2,1,1.0
+2016-2017,Regular season,13,2016-10-30,Vorskla Poltava,FC Oleksandriya,2,2,0.5
+2016-2017,Regular season,13,2016-10-30,Stal Kamianske,FC Dnipro,1,1,0.5
+2016-2017,Regular season,14,2016-11-04,Volyn Lutsk,Stal Kamianske,0,1,0.0
+2016-2017,Regular season,14,2016-11-05,Zirka,Olimpik Donetsk,1,2,0.0
+2016-2017,Regular season,14,2016-11-05,Karpaty Lviv,Vorskla Poltava,1,0,1.0
+2016-2017,Regular season,14,2016-11-06,Chornomorets,Zorya Luhansk,0,0,0.5
+2016-2017,Regular season,14,2016-11-06,FC Dnipro,Dynamo Kyiv,1,2,0.0
+2016-2017,Regular season,14,2016-11-06,FC Oleksandriya,Shakhtar,1,2,0.0
+2016-2017,Regular season,15,2016-11-19,Olimpik Donetsk,Chornomorets,1,0,1.0
+2016-2017,Regular season,15,2016-11-19,Zorya Luhansk,FC Oleksandriya,1,2,0.0
+2016-2017,Regular season,15,2016-11-19,Dynamo Kyiv,Stal Kamianske,2,1,1.0
+2016-2017,Regular season,15,2016-11-19,Shakhtar,Karpaty Lviv,2,1,1.0
+2016-2017,Regular season,15,2016-11-20,Zirka,Volyn Lutsk,2,0,1.0
+2016-2017,Regular season,15,2016-11-20,Vorskla Poltava,FC Dnipro,1,2,0.0
+2016-2017,Regular season,16,2016-11-26,Stal Kamianske,Vorskla Poltava,0,1,0.0
+2016-2017,Regular season,16,2016-11-26,Chornomorets,Zirka,2,1,1.0
+2016-2017,Regular season,16,2016-11-26,Volyn Lutsk,Dynamo Kyiv,1,4,0.0
+2016-2017,Regular season,16,2016-11-27,FC Oleksandriya,Olimpik Donetsk,1,1,0.5
+2016-2017,Regular season,16,2016-11-27,Karpaty Lviv,Zorya Luhansk,2,2,0.5
+2016-2017,Regular season,16,2016-11-27,FC Dnipro,Shakhtar,0,2,0.0
+2016-2017,Regular season,17,2016-12-03,Vorskla Poltava,Dynamo Kyiv,2,2,0.5
+2016-2017,Regular season,17,2016-12-03,Chornomorets,Volyn Lutsk,0,0,0.5
+2016-2017,Regular season,17,2016-12-03,Zorya Luhansk,FC Dnipro,2,3,0.0
+2016-2017,Regular season,17,2016-12-04,Shakhtar,Stal Kamianske,2,0,1.0
+2016-2017,Regular season,17,2016-12-04,Zirka,FC Oleksandriya,1,1,0.5
+2016-2017,Regular season,18,2016-12-09,FC Dnipro,Olimpik Donetsk,1,1,0.5
+2016-2017,Regular season,18,2016-12-10,Volyn Lutsk,Vorskla Poltava,0,1,0.0
+2016-2017,Regular season,18,2016-12-11,Karpaty Lviv,Zirka,2,3,0.0
+2016-2017,Regular season,18,2016-12-11,FC Oleksandriya,Chornomorets,2,1,1.0
+2016-2017,Regular season,18,2016-12-11,Stal Kamianske,Zorya Luhansk,0,2,0.0
+2016-2017,Regular season,18,2016-12-12,Dynamo Kyiv,Shakhtar,3,4,0.0
+2016-2017,Regular season,19,2017-02-25,Olimpik Donetsk,Stal Kamianske,0,0,0.5
+2016-2017,Regular season,19,2017-02-25,Zorya Luhansk,Dynamo Kyiv,1,2,0.0
+2016-2017,Regular season,19,2017-02-25,FC Oleksandriya,Volyn Lutsk,6,0,1.0
+2016-2017,Regular season,19,2017-02-26,Zirka,FC Dnipro,1,1,0.5
+2016-2017,Regular season,19,2017-02-26,Chornomorets,Karpaty Lviv,1,0,1.0
+2016-2017,Regular season,19,2017-02-26,Shakhtar,Vorskla Poltava,2,1,1.0
+2016-2017,Regular season,20,2017-03-04,FC Dnipro,Chornomorets,1,1,0.5
+2016-2017,Regular season,20,2017-03-04,Dynamo Kyiv,Olimpik Donetsk,1,0,1.0
+2016-2017,Regular season,20,2017-03-05,Karpaty Lviv,FC Oleksandriya,1,0,1.0
+2016-2017,Regular season,20,2017-03-05,Vorskla Poltava,Zorya Luhansk,1,2,0.0
+2016-2017,Regular season,20,2017-03-05,Stal Kamianske,Zirka,3,0,1.0
+2016-2017,Regular season,20,2017-03-05,Volyn Lutsk,Shakhtar,0,1,0.0
+2016-2017,Regular season,21,2017-03-11,Olimpik Donetsk,Vorskla Poltava,3,2,1.0
+2016-2017,Regular season,21,2017-03-11,Chornomorets,Stal Kamianske,0,1,0.0
+2016-2017,Regular season,21,2017-03-11,Karpaty Lviv,Volyn Lutsk,2,1,1.0
+2016-2017,Regular season,21,2017-03-11,FC Oleksandriya,FC Dnipro,0,0,0.5
+2016-2017,Regular season,21,2017-03-12,Zirka,Dynamo Kyiv,2,0,1.0
+2016-2017,Regular season,21,2017-03-12,Zorya Luhansk,Shakhtar,1,2,0.0
+2016-2017,Regular season,22,2017-03-17,FC Dnipro,Karpaty Lviv,0,0,0.5
+2016-2017,Regular season,22,2017-03-17,Dynamo Kyiv,Chornomorets,2,1,1.0
+2016-2017,Regular season,22,2017-03-17,Shakhtar,Olimpik Donetsk,1,1,0.5
+2016-2017,Regular season,22,2017-03-18,Stal Kamianske,FC Oleksandriya,4,1,1.0
+2016-2017,Regular season,22,2017-03-18,Vorskla Poltava,Zirka,0,0,0.5
+2016-2017,Regular season,22,2017-03-19,Volyn Lutsk,Zorya Luhansk,0,1,0.0
+2016-2017,Regular season,17,2017-03-26,Olimpik Donetsk,Karpaty Lviv,0,0,0.5
+2016-2017,Relegation round,1,2017-04-01,FC Dnipro,Zirka,1,0,1.0
+2016-2017,Championship round,1,2017-04-01,Chornomorets,Olimpik Donetsk,0,0,0.5
+2016-2017,Relegation round,1,2017-04-01,Vorskla Poltava,Volyn Lutsk,2,0,1.0
+2016-2017,Championship round,1,2017-04-02,FC Oleksandriya,Dynamo Kyiv,1,4,0.0
+2016-2017,Relegation round,1,2017-04-02,Karpaty Lviv,Stal Kamianske,2,0,1.0
+2016-2017,Championship round,1,2017-04-02,Zorya Luhansk,Shakhtar,1,2,0.0
+2016-2017,Relegation round,2,2017-04-08,Stal Kamianske,Volyn Lutsk,2,0,1.0
+2016-2017,Relegation round,2,2017-04-08,Zirka,Vorskla Poltava,1,0,1.0
+2016-2017,Championship round,2,2017-04-09,FC Oleksandriya,Zorya Luhansk,0,0,0.5
+2016-2017,Relegation round,2,2017-04-09,Karpaty Lviv,FC Dnipro,2,2,0.5
+2016-2017,Championship round,2,2017-04-09,Shakhtar,Chornomorets,1,2,0.0
+2016-2017,Championship round,2,2017-04-09,Dynamo Kyiv,Olimpik Donetsk,4,0,1.0
+2016-2017,Championship round,3,2017-04-14,Zorya Luhansk,Dynamo Kyiv,0,1,0.0
+2016-2017,Relegation round,3,2017-04-15,Vorskla Poltava,Karpaty Lviv,0,0,0.5
+2016-2017,Championship round,3,2017-04-15,Olimpik Donetsk,Shakhtar,0,4,0.0
+2016-2017,Relegation round,3,2017-04-15,FC Dnipro,Stal Kamianske,0,0,0.5
+2016-2017,Relegation round,3,2017-04-16,Volyn Lutsk,Zirka,1,0,1.0
+2016-2017,Championship round,3,2017-04-16,Chornomorets,FC Oleksandriya,1,0,1.0
+2016-2017,Championship round,4,2017-04-21,Dynamo Kyiv,Shakhtar,0,1,0.0
+2016-2017,Championship round,4,2017-04-22,FC Oleksandriya,Olimpik Donetsk,1,0,1.0
+2016-2017,Relegation round,4,2017-04-22,FC Dnipro,Vorskla Poltava,2,0,1.0
+2016-2017,Relegation round,4,2017-04-23,Stal Kamianske,Zirka,1,0,1.0
+2016-2017,Relegation round,4,2017-04-23,Karpaty Lviv,Volyn Lutsk,1,0,1.0
+2016-2017,Championship round,4,2017-04-23,Zorya Luhansk,Chornomorets,1,2,0.0
+2016-2017,Relegation round,5,2017-04-29,Zirka,Karpaty Lviv,3,2,1.0
+2016-2017,Relegation round,5,2017-04-29,Vorskla Poltava,Stal Kamianske,2,0,1.0
+2016-2017,Championship round,5,2017-04-30,Olimpik Donetsk,Zorya Luhansk,1,1,0.5
+2016-2017,Relegation round,5,2017-04-30,Volyn Lutsk,FC Dnipro,0,1,0.0
+2016-2017,Championship round,5,2017-04-30,Shakhtar,FC Oleksandriya,1,0,1.0
+2016-2017,Championship round,5,2017-04-30,Chornomorets,Dynamo Kyiv,1,4,0.0
+2016-2017,Relegation round,6,2017-05-05,Volyn Lutsk,Vorskla Poltava,0,1,0.0
+2016-2017,Championship round,6,2017-05-06,Olimpik Donetsk,Chornomorets,1,0,1.0
+2016-2017,Championship round,6,2017-05-06,Shakhtar,Zorya Luhansk,3,2,1.0
+2016-2017,Relegation round,6,2017-05-07,Stal Kamianske,Karpaty Lviv,2,1,1.0
+2016-2017,Relegation round,6,2017-05-07,Zirka,FC Dnipro,1,1,0.5
+2016-2017,Championship round,6,2017-05-07,Dynamo Kyiv,FC Oleksandriya,6,0,1.0
+2016-2017,Relegation round,7,2017-05-12,Volyn Lutsk,Stal Kamianske,0,1,0.0
+2016-2017,Championship round,7,2017-05-13,Zorya Luhansk,FC Oleksandriya,1,0,1.0
+2016-2017,Championship round,7,2017-05-13,Olimpik Donetsk,Dynamo Kyiv,2,1,1.0
+2016-2017,Championship round,7,2017-05-13,Chornomorets,Shakhtar,0,3,0.0
+2016-2017,Relegation round,7,2017-05-14,Vorskla Poltava,Zirka,1,1,0.5
+2016-2017,Relegation round,7,2017-05-14,FC Dnipro,Karpaty Lviv,2,3,0.0
+2016-2017,Relegation round,8,2017-05-20,Zirka,Volyn Lutsk,2,0,1.0
+2016-2017,Relegation round,8,2017-05-20,Stal Kamianske,FC Dnipro,0,1,0.0
+2016-2017,Relegation round,8,2017-05-21,Karpaty Lviv,Vorskla Poltava,0,1,0.0
+2016-2017,Championship round,8,2017-05-21,Shakhtar,Olimpik Donetsk,1,1,0.5
+2016-2017,Championship round,8,2017-05-21,Dynamo Kyiv,Zorya Luhansk,1,2,0.0
+2016-2017,Championship round,8,2017-05-21,FC Oleksandriya,Chornomorets,1,1,0.5
+2016-2017,Championship round,9,2017-05-26,Chornomorets,Zorya Luhansk,0,1,0.0
+2016-2017,Championship round,9,2017-05-26,Olimpik Donetsk,FC Oleksandriya,0,0,0.5
+2016-2017,Championship round,9,2017-05-26,Shakhtar,Dynamo Kyiv,2,3,0.0
+2016-2017,Relegation round,9,2017-05-27,Vorskla Poltava,FC Dnipro,1,0,1.0
+2016-2017,Relegation round,9,2017-05-27,Zirka,Stal Kamianske,0,1,0.0
+2016-2017,Relegation round,9,2017-05-27,Volyn Lutsk,Karpaty Lviv,0,1,0.0
+2016-2017,Relegation round,10,2017-05-31,Stal Kamianske,Vorskla Poltava,0,0,0.5
+2016-2017,Relegation round,10,2017-05-31,Karpaty Lviv,Zirka,2,1,1.0
+2016-2017,Relegation round,10,2017-05-31,FC Dnipro,Volyn Lutsk,1,0,1.0
+2016-2017,Championship round,10,2017-05-31,FC Oleksandriya,Shakhtar,1,1,0.5
+2016-2017,Championship round,10,2017-05-31,Zorya Luhansk,Olimpik Donetsk,2,0,1.0
+2016-2017,Championship round,10,2017-05-31,Dynamo Kyiv,Chornomorets,2,1,1.0

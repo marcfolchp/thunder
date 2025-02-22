@@ -1,0 +1,158 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+1999-2000,First group stage,1,1999-09-14,Manchester Utd,Croatia Zagreb,eng,hr,0,0,0.5
+1999-2000,First group stage,1,1999-09-14,Fiorentina,Arsenal,it,eng,0,0,0.5
+1999-2000,First group stage,1,1999-09-14,Leverkusen,Lazio,de,it,1,1,0.5
+1999-2000,First group stage,1,1999-09-14,Dynamo Kyiv,NK Maribor,ua,si,0,1,0.0
+1999-2000,First group stage,1,1999-09-14,AIK Stockholm,Barcelona,se,es,1,2,0.0
+1999-2000,First group stage,1,1999-09-14,Marseille,Sturm Graz,fr,at,2,0,1.0
+1999-2000,First group stage,1,1999-09-14,Boavista,Rosenborg,pt,no,0,3,0.0
+1999-2000,First group stage,1,1999-09-14,Feyenoord,Dortmund,nl,de,1,1,0.5
+1999-2000,First group stage,1,1999-09-15,Willem II,Spartak Moscow,nl,ru,1,3,0.0
+1999-2000,First group stage,1,1999-09-15,Molde,Porto,no,pt,0,1,0.0
+1999-2000,First group stage,1,1999-09-15,Olympiacos,Real Madrid,gr,es,3,3,0.5
+1999-2000,First group stage,1,1999-09-15,Chelsea,Milan,eng,it,0,0,0.5
+1999-2000,First group stage,1,1999-09-15,Sparta Prague,Bordeaux,cz,fr,0,0,0.5
+1999-2000,First group stage,1,1999-09-15,Valencia,Rangers,es,sct,2,0,1.0
+1999-2000,First group stage,1,1999-09-15,Bayern Munich,PSV,de,nl,2,1,1.0
+1999-2000,First group stage,1,1999-09-15,Galatasaray,Hertha BSC,tr,de,2,2,0.5
+1999-2000,First group stage,2,1999-09-21,Porto,Olympiacos,pt,gr,2,0,1.0
+1999-2000,First group stage,2,1999-09-21,Spartak Moscow,Sparta Prague,ru,cz,1,1,0.5
+1999-2000,First group stage,2,1999-09-21,Bordeaux,Willem II,fr,nl,3,2,1.0
+1999-2000,First group stage,2,1999-09-21,PSV,Valencia,nl,es,1,1,0.5
+1999-2000,First group stage,2,1999-09-21,Milan,Galatasaray,it,tr,2,1,1.0
+1999-2000,First group stage,2,1999-09-21,Rangers,Bayern Munich,sct,de,1,1,0.5
+1999-2000,First group stage,2,1999-09-21,Hertha BSC,Chelsea,de,eng,2,1,1.0
+1999-2000,First group stage,2,1999-09-21,Real Madrid,Molde,es,no,4,1,1.0
+1999-2000,First group stage,2,1999-09-22,Dortmund,Boavista,de,pt,3,1,1.0
+1999-2000,First group stage,2,1999-09-22,Lazio,Dynamo Kyiv,it,ua,2,1,1.0
+1999-2000,First group stage,2,1999-09-22,Croatia Zagreb,Marseille,hr,fr,1,2,0.0
+1999-2000,First group stage,2,1999-09-22,Sturm Graz,Manchester Utd,at,eng,0,3,0.0
+1999-2000,First group stage,2,1999-09-22,Arsenal,AIK Stockholm,eng,se,3,1,1.0
+1999-2000,First group stage,2,1999-09-22,Barcelona,Fiorentina,es,it,4,2,1.0
+1999-2000,First group stage,2,1999-09-22,Rosenborg,Feyenoord,no,nl,2,2,0.5
+1999-2000,First group stage,2,1999-09-22,NK Maribor,Leverkusen,si,de,0,2,0.0
+1999-2000,First group stage,3,1999-09-28,Milan,Hertha BSC,it,de,1,1,0.5
+1999-2000,First group stage,3,1999-09-28,Chelsea,Galatasaray,eng,tr,1,0,1.0
+1999-2000,First group stage,3,1999-09-28,Bayern Munich,Valencia,de,es,1,1,0.5
+1999-2000,First group stage,3,1999-09-28,Olympiacos,Molde,gr,no,3,1,1.0
+1999-2000,First group stage,3,1999-09-28,PSV,Rangers,nl,sct,0,1,0.0
+1999-2000,First group stage,3,1999-09-28,Bordeaux,Spartak Moscow,fr,ru,2,1,1.0
+1999-2000,First group stage,3,1999-09-28,Real Madrid,Porto,es,pt,3,1,1.0
+1999-2000,First group stage,3,1999-09-28,Sparta Prague,Willem II,cz,nl,4,0,1.0
+1999-2000,First group stage,3,1999-09-29,Croatia Zagreb,Sturm Graz,hr,at,3,0,1.0
+1999-2000,First group stage,3,1999-09-29,Manchester Utd,Marseille,eng,fr,2,1,1.0
+1999-2000,First group stage,3,1999-09-29,AIK Stockholm,Fiorentina,se,it,0,0,0.5
+1999-2000,First group stage,3,1999-09-29,Rosenborg,Dortmund,no,de,2,2,0.5
+1999-2000,First group stage,3,1999-09-29,Lazio,NK Maribor,it,si,4,0,1.0
+1999-2000,First group stage,3,1999-09-29,Leverkusen,Dynamo Kyiv,de,ua,1,1,0.5
+1999-2000,First group stage,3,1999-09-29,Boavista,Feyenoord,pt,nl,1,1,0.5
+1999-2000,First group stage,3,1999-09-29,Barcelona,Arsenal,es,eng,1,1,0.5
+1999-2000,First group stage,4,1999-10-19,Marseille,Manchester Utd,fr,eng,1,0,1.0
+1999-2000,First group stage,4,1999-10-19,NK Maribor,Lazio,si,it,0,4,0.0
+1999-2000,First group stage,4,1999-10-19,Sturm Graz,Croatia Zagreb,at,hr,1,0,1.0
+1999-2000,First group stage,4,1999-10-19,Dynamo Kyiv,Leverkusen,ua,de,4,2,1.0
+1999-2000,First group stage,4,1999-10-19,Dortmund,Rosenborg,de,no,0,3,0.0
+1999-2000,First group stage,4,1999-10-19,Feyenoord,Boavista,nl,pt,1,1,0.5
+1999-2000,First group stage,4,1999-10-19,Arsenal,Barcelona,eng,es,2,4,0.0
+1999-2000,First group stage,4,1999-10-19,Fiorentina,AIK Stockholm,it,se,3,0,1.0
+1999-2000,First group stage,4,1999-10-20,Willem II,Sparta Prague,nl,cz,3,4,0.0
+1999-2000,First group stage,4,1999-10-20,Spartak Moscow,Bordeaux,ru,fr,1,2,0.0
+1999-2000,First group stage,4,1999-10-20,Porto,Real Madrid,pt,es,2,1,1.0
+1999-2000,First group stage,4,1999-10-20,Valencia,Bayern Munich,es,de,1,1,0.5
+1999-2000,First group stage,4,1999-10-20,Molde,Olympiacos,no,gr,3,2,1.0
+1999-2000,First group stage,4,1999-10-20,Galatasaray,Chelsea,tr,eng,0,5,0.0
+1999-2000,First group stage,4,1999-10-20,Rangers,PSV,sct,nl,4,1,1.0
+1999-2000,First group stage,4,1999-10-20,Hertha BSC,Milan,de,it,1,0,1.0
+1999-2000,First group stage,5,1999-10-26,Milan,Chelsea,it,eng,1,1,0.5
+1999-2000,First group stage,5,1999-10-26,Porto,Molde,pt,no,3,1,1.0
+1999-2000,First group stage,5,1999-10-26,PSV,Bayern Munich,nl,de,2,1,1.0
+1999-2000,First group stage,5,1999-10-26,Bordeaux,Sparta Prague,fr,cz,0,0,0.5
+1999-2000,First group stage,5,1999-10-26,Real Madrid,Olympiacos,es,gr,3,0,1.0
+1999-2000,First group stage,5,1999-10-26,Hertha BSC,Galatasaray,de,tr,1,4,0.0
+1999-2000,First group stage,5,1999-10-26,Rangers,Valencia,sct,es,1,2,0.0
+1999-2000,First group stage,5,1999-10-26,Spartak Moscow,Willem II,ru,nl,1,1,0.5
+1999-2000,First group stage,5,1999-10-27,Barcelona,AIK Stockholm,es,se,5,0,1.0
+1999-2000,First group stage,5,1999-10-27,NK Maribor,Dynamo Kyiv,si,ua,1,2,0.0
+1999-2000,First group stage,5,1999-10-27,Rosenborg,Boavista,no,pt,2,0,1.0
+1999-2000,First group stage,5,1999-10-27,Lazio,Leverkusen,it,de,1,1,0.5
+1999-2000,First group stage,5,1999-10-27,Croatia Zagreb,Manchester Utd,hr,eng,1,2,0.0
+1999-2000,First group stage,5,1999-10-27,Sturm Graz,Marseille,at,fr,3,2,1.0
+1999-2000,First group stage,5,1999-10-27,Arsenal,Fiorentina,eng,it,0,1,0.0
+1999-2000,First group stage,5,1999-10-27,Dortmund,Feyenoord,de,nl,1,1,0.5
+1999-2000,First group stage,6,1999-11-02,Dynamo Kyiv,Lazio,ua,it,0,1,0.0
+1999-2000,First group stage,6,1999-11-02,Boavista,Dortmund,pt,de,1,0,1.0
+1999-2000,First group stage,6,1999-11-02,Manchester Utd,Sturm Graz,eng,at,2,1,1.0
+1999-2000,First group stage,6,1999-11-02,Marseille,Croatia Zagreb,fr,hr,2,2,0.5
+1999-2000,First group stage,6,1999-11-02,Leverkusen,NK Maribor,de,si,0,0,0.5
+1999-2000,First group stage,6,1999-11-02,Feyenoord,Rosenborg,nl,no,1,0,1.0
+1999-2000,First group stage,6,1999-11-02,AIK Stockholm,Arsenal,se,eng,2,3,0.0
+1999-2000,First group stage,6,1999-11-02,Fiorentina,Barcelona,it,es,3,3,0.5
+1999-2000,First group stage,6,1999-11-03,Chelsea,Hertha BSC,eng,de,2,0,1.0
+1999-2000,First group stage,6,1999-11-03,Olympiacos,Porto,gr,pt,1,0,1.0
+1999-2000,First group stage,6,1999-11-03,Valencia,PSV,es,nl,1,0,1.0
+1999-2000,First group stage,6,1999-11-03,Willem II,Bordeaux,nl,fr,0,0,0.5
+1999-2000,First group stage,6,1999-11-03,Sparta Prague,Spartak Moscow,cz,ru,5,2,1.0
+1999-2000,First group stage,6,1999-11-03,Bayern Munich,Rangers,de,sct,1,0,1.0
+1999-2000,First group stage,6,1999-11-03,Molde,Real Madrid,no,es,0,1,0.0
+1999-2000,First group stage,6,1999-11-03,Galatasaray,Milan,tr,it,3,2,1.0
+1999-2000,Second group stage,7,1999-11-23,Hertha BSC,Barcelona,de,es,1,1,0.5
+1999-2000,Second group stage,7,1999-11-23,Valencia,Bordeaux,es,fr,3,0,1.0
+1999-2000,Second group stage,7,1999-11-23,Sparta Prague,Porto,cz,pt,0,2,0.0
+1999-2000,Second group stage,7,1999-11-23,Fiorentina,Manchester Utd,it,eng,2,0,1.0
+1999-2000,Second group stage,7,1999-11-24,Rosenborg,Bayern Munich,no,de,1,1,0.5
+1999-2000,Second group stage,7,1999-11-24,Marseille,Lazio,fr,it,0,2,0.0
+1999-2000,Second group stage,7,1999-11-24,Dynamo Kyiv,Real Madrid,ua,es,1,2,0.0
+1999-2000,Second group stage,7,1999-11-24,Chelsea,Feyenoord,eng,nl,3,1,1.0
+1999-2000,Second group stage,8,1999-12-07,Feyenoord,Marseille,nl,fr,3,0,1.0
+1999-2000,Second group stage,8,1999-12-07,Real Madrid,Rosenborg,es,no,3,1,1.0
+1999-2000,Second group stage,8,1999-12-07,Lazio,Chelsea,it,eng,0,0,0.5
+1999-2000,Second group stage,8,1999-12-07,Bayern Munich,Dynamo Kyiv,de,ua,2,1,1.0
+1999-2000,Second group stage,8,1999-12-08,Manchester Utd,Valencia,eng,es,3,0,1.0
+1999-2000,Second group stage,8,1999-12-08,Porto,Hertha BSC,pt,de,1,0,1.0
+1999-2000,Second group stage,8,1999-12-08,Bordeaux,Fiorentina,fr,it,0,0,0.5
+1999-2000,Second group stage,8,1999-12-08,Barcelona,Sparta Prague,es,cz,5,0,1.0
+1999-2000,Second group stage,9,2000-02-29,Dynamo Kyiv,Rosenborg,ua,no,2,1,1.0
+1999-2000,Second group stage,9,2000-02-29,Marseille,Chelsea,fr,eng,1,0,1.0
+1999-2000,Second group stage,9,2000-02-29,Real Madrid,Bayern Munich,es,de,2,4,0.0
+1999-2000,Second group stage,9,2000-02-29,Lazio,Feyenoord,it,nl,1,2,0.0
+1999-2000,Second group stage,9,2000-03-01,Hertha BSC,Sparta Prague,de,cz,1,1,0.5
+1999-2000,Second group stage,9,2000-03-01,Fiorentina,Valencia,it,es,1,0,1.0
+1999-2000,Second group stage,9,2000-03-01,Barcelona,Porto,es,pt,4,2,1.0
+1999-2000,Second group stage,9,2000-03-01,Manchester Utd,Bordeaux,eng,fr,2,0,1.0
+1999-2000,Second group stage,10,2000-03-07,Valencia,Fiorentina,es,it,2,0,1.0
+1999-2000,Second group stage,10,2000-03-07,Porto,Barcelona,pt,es,0,2,0.0
+1999-2000,Second group stage,10,2000-03-07,Sparta Prague,Hertha BSC,cz,de,1,0,1.0
+1999-2000,Second group stage,10,2000-03-07,Bordeaux,Manchester Utd,fr,eng,1,2,0.0
+1999-2000,Second group stage,10,2000-03-08,Rosenborg,Dynamo Kyiv,no,ua,1,2,0.0
+1999-2000,Second group stage,10,2000-03-08,Feyenoord,Lazio,nl,it,0,0,0.5
+1999-2000,Second group stage,10,2000-03-08,Bayern Munich,Real Madrid,de,es,4,1,1.0
+1999-2000,Second group stage,10,2000-03-08,Chelsea,Marseille,eng,fr,1,0,1.0
+1999-2000,Second group stage,11,2000-03-14,Lazio,Marseille,it,fr,5,1,1.0
+1999-2000,Second group stage,11,2000-03-14,Bayern Munich,Rosenborg,de,no,2,1,1.0
+1999-2000,Second group stage,11,2000-03-14,Real Madrid,Dynamo Kyiv,es,ua,2,2,0.5
+1999-2000,Second group stage,11,2000-03-14,Feyenoord,Chelsea,nl,eng,1,3,0.0
+1999-2000,Second group stage,11,2000-03-15,Barcelona,Hertha BSC,es,de,3,1,1.0
+1999-2000,Second group stage,11,2000-03-15,Porto,Sparta Prague,pt,cz,2,2,0.5
+1999-2000,Second group stage,11,2000-03-15,Manchester Utd,Fiorentina,eng,it,3,1,1.0
+1999-2000,Second group stage,11,2000-03-15,Bordeaux,Valencia,fr,es,1,4,0.0
+1999-2000,Second group stage,12,2000-03-21,Valencia,Manchester Utd,es,eng,0,0,0.5
+1999-2000,Second group stage,12,2000-03-21,Sparta Prague,Barcelona,cz,es,1,2,0.0
+1999-2000,Second group stage,12,2000-03-21,Hertha BSC,Porto,de,pt,0,1,0.0
+1999-2000,Second group stage,12,2000-03-21,Fiorentina,Bordeaux,it,fr,3,3,0.5
+1999-2000,Second group stage,12,2000-03-22,Marseille,Feyenoord,fr,nl,0,0,0.5
+1999-2000,Second group stage,12,2000-03-22,Dynamo Kyiv,Bayern Munich,ua,de,2,0,1.0
+1999-2000,Second group stage,12,2000-03-22,Chelsea,Lazio,eng,it,1,2,0.0
+1999-2000,Second group stage,12,2000-03-22,Rosenborg,Real Madrid,no,es,0,1,0.0
+1999-2000,Quarter-finals,,2000-04-04,Real Madrid,Manchester Utd,es,eng,0,0,0.5
+1999-2000,Quarter-finals,,2000-04-04,Porto,Bayern Munich,pt,de,1,1,0.5
+1999-2000,Quarter-finals,,2000-04-05,Valencia,Lazio,es,it,5,2,1.0
+1999-2000,Quarter-finals,,2000-04-05,Chelsea,Barcelona,eng,es,3,1,1.0
+1999-2000,Quarter-finals,,2000-04-18,Barcelona,Chelsea,es,eng,5,1,1.0
+1999-2000,Quarter-finals,,2000-04-18,Lazio,Valencia,it,es,1,0,1.0
+1999-2000,Quarter-finals,,2000-04-19,Bayern Munich,Porto,de,pt,2,1,1.0
+1999-2000,Quarter-finals,,2000-04-19,Manchester Utd,Real Madrid,eng,es,2,3,0.0
+1999-2000,Semi-finals,,2000-05-02,Valencia,Barcelona,es,es,4,1,1.0
+1999-2000,Semi-finals,,2000-05-03,Real Madrid,Bayern Munich,es,de,2,0,1.0
+1999-2000,Semi-finals,,2000-05-09,Bayern Munich,Real Madrid,de,es,2,1,1.0
+1999-2000,Semi-finals,,2000-05-10,Barcelona,Valencia,es,es,2,1,1.0
+1999-2000,Final,,2000-05-24,Real Madrid,Valencia,es,es,3,0,1.0

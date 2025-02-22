@@ -1,126 +1,126 @@
 Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
 2023-2024,Group stage,1,2023-09-19,Milan,Newcastle Utd,it,eng,0.0,0.0,0.5
-2023-2024,Group stage,1,2023-09-19,Young Boys,RB Leipzig,ch,de,1.0,3.0,1.0
-2023-2024,Group stage,1,2023-09-19,Manchester City,Red Star,eng,rs,3.0,1.0,0.0
-2023-2024,Group stage,1,2023-09-19,Paris S-G,Dortmund,fr,de,2.0,0.0,0.0
+2023-2024,Group stage,1,2023-09-19,Young Boys,RB Leipzig,ch,de,1.0,3.0,0.0
+2023-2024,Group stage,1,2023-09-19,Manchester City,Red Star,eng,rs,3.0,1.0,1.0
+2023-2024,Group stage,1,2023-09-19,Paris S-G,Dortmund,fr,de,2.0,0.0,1.0
 2023-2024,Group stage,1,2023-09-19,Lazio,Atlético Madrid,it,es,1.0,1.0,0.5
-2023-2024,Group stage,1,2023-09-19,Feyenoord,Celtic,nl,sct,2.0,0.0,0.0
-2023-2024,Group stage,1,2023-09-19,Barcelona,Antwerp,es,be,5.0,0.0,0.0
-2023-2024,Group stage,1,2023-09-19,Shakhtar,Porto,ua,pt,1.0,3.0,1.0
-2023-2024,Group stage,1,2023-09-20,Real Madrid,Union Berlin,es,de,1.0,0.0,0.0
+2023-2024,Group stage,1,2023-09-19,Feyenoord,Celtic,nl,sct,2.0,0.0,1.0
+2023-2024,Group stage,1,2023-09-19,Barcelona,Antwerp,es,be,5.0,0.0,1.0
+2023-2024,Group stage,1,2023-09-19,Shakhtar,Porto,ua,pt,1.0,3.0,0.0
+2023-2024,Group stage,1,2023-09-20,Real Madrid,Union Berlin,es,de,1.0,0.0,1.0
 2023-2024,Group stage,1,2023-09-20,Galatasaray,FC Copenhagen,tr,dk,2.0,2.0,0.5
-2023-2024,Group stage,1,2023-09-20,Braga,Napoli,pt,it,1.0,2.0,1.0
-2023-2024,Group stage,1,2023-09-20,Arsenal,PSV Eindhoven,eng,nl,4.0,0.0,0.0
-2023-2024,Group stage,1,2023-09-20,Benfica,RB Salzburg,pt,at,0.0,2.0,1.0
+2023-2024,Group stage,1,2023-09-20,Braga,Napoli,pt,it,1.0,2.0,0.0
+2023-2024,Group stage,1,2023-09-20,Arsenal,PSV Eindhoven,eng,nl,4.0,0.0,1.0
+2023-2024,Group stage,1,2023-09-20,Benfica,RB Salzburg,pt,at,0.0,2.0,0.0
 2023-2024,Group stage,1,2023-09-20,Sevilla,Lens,es,fr,1.0,1.0,0.5
-2023-2024,Group stage,1,2023-09-20,Bayern Munich,Manchester Utd,de,eng,4.0,3.0,0.0
+2023-2024,Group stage,1,2023-09-20,Bayern Munich,Manchester Utd,de,eng,4.0,3.0,1.0
 2023-2024,Group stage,1,2023-09-20,Real Sociedad,Inter,es,it,1.0,1.0,0.5
-2023-2024,Group stage,2,2023-10-03,RB Salzburg,Real Sociedad,at,es,0.0,2.0,1.0
-2023-2024,Group stage,2,2023-10-03,Union Berlin,Braga,de,pt,2.0,3.0,1.0
-2023-2024,Group stage,2,2023-10-03,Manchester Utd,Galatasaray,eng,tr,2.0,3.0,1.0
+2023-2024,Group stage,2,2023-10-03,RB Salzburg,Real Sociedad,at,es,0.0,2.0,0.0
+2023-2024,Group stage,2,2023-10-03,Union Berlin,Braga,de,pt,2.0,3.0,0.0
+2023-2024,Group stage,2,2023-10-03,Manchester Utd,Galatasaray,eng,tr,2.0,3.0,0.0
 2023-2024,Group stage,2,2023-10-03,PSV Eindhoven,Sevilla,nl,es,2.0,2.0,0.5
-2023-2024,Group stage,2,2023-10-03,Inter,Benfica,it,pt,1.0,0.0,0.0
-2023-2024,Group stage,2,2023-10-03,FC Copenhagen,Bayern Munich,dk,de,1.0,2.0,1.0
-2023-2024,Group stage,2,2023-10-03,Napoli,Real Madrid,it,es,2.0,3.0,1.0
-2023-2024,Group stage,2,2023-10-03,Lens,Arsenal,fr,eng,2.0,1.0,0.0
-2023-2024,Group stage,2,2023-10-04,Atlético Madrid,Feyenoord,es,nl,3.0,2.0,0.0
-2023-2024,Group stage,2,2023-10-04,Antwerp,Shakhtar,be,ua,2.0,3.0,1.0
-2023-2024,Group stage,2,2023-10-04,Newcastle Utd,Paris S-G,eng,fr,4.0,1.0,0.0
-2023-2024,Group stage,2,2023-10-04,Porto,Barcelona,pt,es,0.0,1.0,1.0
-2023-2024,Group stage,2,2023-10-04,Celtic,Lazio,sct,it,1.0,2.0,1.0
-2023-2024,Group stage,2,2023-10-04,RB Leipzig,Manchester City,de,eng,1.0,3.0,1.0
+2023-2024,Group stage,2,2023-10-03,Inter,Benfica,it,pt,1.0,0.0,1.0
+2023-2024,Group stage,2,2023-10-03,FC Copenhagen,Bayern Munich,dk,de,1.0,2.0,0.0
+2023-2024,Group stage,2,2023-10-03,Napoli,Real Madrid,it,es,2.0,3.0,0.0
+2023-2024,Group stage,2,2023-10-03,Lens,Arsenal,fr,eng,2.0,1.0,1.0
+2023-2024,Group stage,2,2023-10-04,Atlético Madrid,Feyenoord,es,nl,3.0,2.0,1.0
+2023-2024,Group stage,2,2023-10-04,Antwerp,Shakhtar,be,ua,2.0,3.0,0.0
+2023-2024,Group stage,2,2023-10-04,Newcastle Utd,Paris S-G,eng,fr,4.0,1.0,1.0
+2023-2024,Group stage,2,2023-10-04,Porto,Barcelona,pt,es,0.0,1.0,0.0
+2023-2024,Group stage,2,2023-10-04,Celtic,Lazio,sct,it,1.0,2.0,0.0
+2023-2024,Group stage,2,2023-10-04,RB Leipzig,Manchester City,de,eng,1.0,3.0,0.0
 2023-2024,Group stage,2,2023-10-04,Dortmund,Milan,de,it,0.0,0.0,0.5
 2023-2024,Group stage,2,2023-10-04,Red Star,Young Boys,rs,ch,2.0,2.0,0.5
-2023-2024,Group stage,3,2023-10-24,Inter,RB Salzburg,it,at,2.0,1.0,0.0
-2023-2024,Group stage,3,2023-10-24,Galatasaray,Bayern Munich,tr,de,1.0,3.0,1.0
-2023-2024,Group stage,3,2023-10-24,Manchester Utd,FC Copenhagen,eng,dk,1.0,0.0,0.0
-2023-2024,Group stage,3,2023-10-24,Benfica,Real Sociedad,pt,es,0.0,1.0,1.0
-2023-2024,Group stage,3,2023-10-24,Braga,Real Madrid,pt,es,1.0,2.0,1.0
-2023-2024,Group stage,3,2023-10-24,Sevilla,Arsenal,es,eng,1.0,2.0,1.0
+2023-2024,Group stage,3,2023-10-24,Inter,RB Salzburg,it,at,2.0,1.0,1.0
+2023-2024,Group stage,3,2023-10-24,Galatasaray,Bayern Munich,tr,de,1.0,3.0,0.0
+2023-2024,Group stage,3,2023-10-24,Manchester Utd,FC Copenhagen,eng,dk,1.0,0.0,1.0
+2023-2024,Group stage,3,2023-10-24,Benfica,Real Sociedad,pt,es,0.0,1.0,0.0
+2023-2024,Group stage,3,2023-10-24,Braga,Real Madrid,pt,es,1.0,2.0,0.0
+2023-2024,Group stage,3,2023-10-24,Sevilla,Arsenal,es,eng,1.0,2.0,0.0
 2023-2024,Group stage,3,2023-10-24,Lens,PSV Eindhoven,fr,nl,1.0,1.0,0.5
-2023-2024,Group stage,3,2023-10-24,Union Berlin,Napoli,de,it,0.0,1.0,1.0
-2023-2024,Group stage,3,2023-10-25,Barcelona,Shakhtar,es,ua,2.0,1.0,0.0
-2023-2024,Group stage,3,2023-10-25,Feyenoord,Lazio,nl,it,3.0,1.0,0.0
+2023-2024,Group stage,3,2023-10-24,Union Berlin,Napoli,de,it,0.0,1.0,0.0
+2023-2024,Group stage,3,2023-10-25,Barcelona,Shakhtar,es,ua,2.0,1.0,1.0
+2023-2024,Group stage,3,2023-10-25,Feyenoord,Lazio,nl,it,3.0,1.0,1.0
 2023-2024,Group stage,3,2023-10-25,Celtic,Atlético Madrid,sct,es,2.0,2.0,0.5
-2023-2024,Group stage,3,2023-10-25,Newcastle Utd,Dortmund,eng,de,0.0,1.0,1.0
-2023-2024,Group stage,3,2023-10-25,Antwerp,Porto,be,pt,1.0,4.0,1.0
-2023-2024,Group stage,3,2023-10-25,Young Boys,Manchester City,ch,eng,1.0,3.0,1.0
-2023-2024,Group stage,3,2023-10-25,Paris S-G,Milan,fr,it,3.0,0.0,0.0
-2023-2024,Group stage,3,2023-10-25,RB Leipzig,Red Star,de,rs,3.0,1.0,0.0
-2023-2024,Group stage,4,2023-11-07,Dortmund,Newcastle Utd,de,eng,2.0,0.0,0.0
-2023-2024,Group stage,4,2023-11-07,Shakhtar,Barcelona,ua,es,1.0,0.0,0.0
-2023-2024,Group stage,4,2023-11-07,Manchester City,Young Boys,eng,ch,3.0,0.0,0.0
-2023-2024,Group stage,4,2023-11-07,Porto,Antwerp,pt,be,2.0,0.0,0.0
-2023-2024,Group stage,4,2023-11-07,Red Star,RB Leipzig,rs,de,1.0,2.0,1.0
-2023-2024,Group stage,4,2023-11-07,Milan,Paris S-G,it,fr,2.0,1.0,0.0
-2023-2024,Group stage,4,2023-11-07,Atlético Madrid,Celtic,es,sct,6.0,0.0,0.0
-2023-2024,Group stage,4,2023-11-07,Lazio,Feyenoord,it,nl,1.0,0.0,0.0
-2023-2024,Group stage,4,2023-11-08,Real Sociedad,Benfica,es,pt,3.0,1.0,0.0
+2023-2024,Group stage,3,2023-10-25,Newcastle Utd,Dortmund,eng,de,0.0,1.0,0.0
+2023-2024,Group stage,3,2023-10-25,Antwerp,Porto,be,pt,1.0,4.0,0.0
+2023-2024,Group stage,3,2023-10-25,Young Boys,Manchester City,ch,eng,1.0,3.0,0.0
+2023-2024,Group stage,3,2023-10-25,Paris S-G,Milan,fr,it,3.0,0.0,1.0
+2023-2024,Group stage,3,2023-10-25,RB Leipzig,Red Star,de,rs,3.0,1.0,1.0
+2023-2024,Group stage,4,2023-11-07,Dortmund,Newcastle Utd,de,eng,2.0,0.0,1.0
+2023-2024,Group stage,4,2023-11-07,Shakhtar,Barcelona,ua,es,1.0,0.0,1.0
+2023-2024,Group stage,4,2023-11-07,Manchester City,Young Boys,eng,ch,3.0,0.0,1.0
+2023-2024,Group stage,4,2023-11-07,Porto,Antwerp,pt,be,2.0,0.0,1.0
+2023-2024,Group stage,4,2023-11-07,Red Star,RB Leipzig,rs,de,1.0,2.0,0.0
+2023-2024,Group stage,4,2023-11-07,Milan,Paris S-G,it,fr,2.0,1.0,1.0
+2023-2024,Group stage,4,2023-11-07,Atlético Madrid,Celtic,es,sct,6.0,0.0,1.0
+2023-2024,Group stage,4,2023-11-07,Lazio,Feyenoord,it,nl,1.0,0.0,1.0
+2023-2024,Group stage,4,2023-11-08,Real Sociedad,Benfica,es,pt,3.0,1.0,1.0
 2023-2024,Group stage,4,2023-11-08,Napoli,Union Berlin,it,de,1.0,1.0,0.5
-2023-2024,Group stage,4,2023-11-08,Arsenal,Sevilla,eng,es,2.0,0.0,0.0
-2023-2024,Group stage,4,2023-11-08,PSV Eindhoven,Lens,nl,fr,1.0,0.0,0.0
-2023-2024,Group stage,4,2023-11-08,RB Salzburg,Inter,at,it,0.0,1.0,1.0
-2023-2024,Group stage,4,2023-11-08,FC Copenhagen,Manchester Utd,dk,eng,4.0,3.0,0.0
-2023-2024,Group stage,4,2023-11-08,Bayern Munich,Galatasaray,de,tr,2.0,1.0,0.0
-2023-2024,Group stage,4,2023-11-08,Real Madrid,Braga,es,pt,3.0,0.0,0.0
-2023-2024,Group stage,5,2023-11-28,Lazio,Celtic,it,sct,2.0,0.0,0.0
-2023-2024,Group stage,5,2023-11-28,Shakhtar,Antwerp,ua,be,1.0,0.0,0.0
-2023-2024,Group stage,5,2023-11-28,Manchester City,RB Leipzig,eng,de,3.0,2.0,0.0
-2023-2024,Group stage,5,2023-11-28,Milan,Dortmund,it,de,1.0,3.0,1.0
+2023-2024,Group stage,4,2023-11-08,Arsenal,Sevilla,eng,es,2.0,0.0,1.0
+2023-2024,Group stage,4,2023-11-08,PSV Eindhoven,Lens,nl,fr,1.0,0.0,1.0
+2023-2024,Group stage,4,2023-11-08,RB Salzburg,Inter,at,it,0.0,1.0,0.0
+2023-2024,Group stage,4,2023-11-08,FC Copenhagen,Manchester Utd,dk,eng,4.0,3.0,1.0
+2023-2024,Group stage,4,2023-11-08,Bayern Munich,Galatasaray,de,tr,2.0,1.0,1.0
+2023-2024,Group stage,4,2023-11-08,Real Madrid,Braga,es,pt,3.0,0.0,1.0
+2023-2024,Group stage,5,2023-11-28,Lazio,Celtic,it,sct,2.0,0.0,1.0
+2023-2024,Group stage,5,2023-11-28,Shakhtar,Antwerp,ua,be,1.0,0.0,1.0
+2023-2024,Group stage,5,2023-11-28,Manchester City,RB Leipzig,eng,de,3.0,2.0,1.0
+2023-2024,Group stage,5,2023-11-28,Milan,Dortmund,it,de,1.0,3.0,0.0
 2023-2024,Group stage,5,2023-11-28,Paris S-G,Newcastle Utd,fr,eng,1.0,1.0,0.5
-2023-2024,Group stage,5,2023-11-28,Feyenoord,Atlético Madrid,nl,es,1.0,3.0,1.0
-2023-2024,Group stage,5,2023-11-28,Young Boys,Red Star,ch,rs,2.0,0.0,0.0
-2023-2024,Group stage,5,2023-11-28,Barcelona,Porto,es,pt,2.0,1.0,0.0
-2023-2024,Group stage,5,2023-11-29,Sevilla,PSV Eindhoven,es,nl,2.0,3.0,1.0
+2023-2024,Group stage,5,2023-11-28,Feyenoord,Atlético Madrid,nl,es,1.0,3.0,0.0
+2023-2024,Group stage,5,2023-11-28,Young Boys,Red Star,ch,rs,2.0,0.0,1.0
+2023-2024,Group stage,5,2023-11-28,Barcelona,Porto,es,pt,2.0,1.0,1.0
+2023-2024,Group stage,5,2023-11-29,Sevilla,PSV Eindhoven,es,nl,2.0,3.0,0.0
 2023-2024,Group stage,5,2023-11-29,Benfica,Inter,pt,it,3.0,3.0,0.5
 2023-2024,Group stage,5,2023-11-29,Braga,Union Berlin,pt,de,1.0,1.0,0.5
-2023-2024,Group stage,5,2023-11-29,Arsenal,Lens,eng,fr,6.0,0.0,0.0
+2023-2024,Group stage,5,2023-11-29,Arsenal,Lens,eng,fr,6.0,0.0,1.0
 2023-2024,Group stage,5,2023-11-29,Galatasaray,Manchester Utd,tr,eng,3.0,3.0,0.5
 2023-2024,Group stage,5,2023-11-29,Bayern Munich,FC Copenhagen,de,dk,0.0,0.0,0.5
-2023-2024,Group stage,5,2023-11-29,Real Madrid,Napoli,es,it,4.0,2.0,0.0
+2023-2024,Group stage,5,2023-11-29,Real Madrid,Napoli,es,it,4.0,2.0,1.0
 2023-2024,Group stage,5,2023-11-29,Real Sociedad,RB Salzburg,es,at,0.0,0.0,0.5
-2023-2024,Group stage,6,2023-12-12,Lens,Sevilla,fr,es,2.0,1.0,0.0
+2023-2024,Group stage,6,2023-12-12,Lens,Sevilla,fr,es,2.0,1.0,1.0
 2023-2024,Group stage,6,2023-12-12,PSV Eindhoven,Arsenal,nl,eng,1.0,1.0,0.5
-2023-2024,Group stage,6,2023-12-12,Manchester Utd,Bayern Munich,eng,de,0.0,1.0,1.0
-2023-2024,Group stage,6,2023-12-12,FC Copenhagen,Galatasaray,dk,tr,1.0,0.0,0.0
+2023-2024,Group stage,6,2023-12-12,Manchester Utd,Bayern Munich,eng,de,0.0,1.0,0.0
+2023-2024,Group stage,6,2023-12-12,FC Copenhagen,Galatasaray,dk,tr,1.0,0.0,1.0
 2023-2024,Group stage,6,2023-12-12,Inter,Real Sociedad,it,es,0.0,0.0,0.5
-2023-2024,Group stage,6,2023-12-12,RB Salzburg,Benfica,at,pt,1.0,3.0,1.0
-2023-2024,Group stage,6,2023-12-12,Union Berlin,Real Madrid,de,es,2.0,3.0,1.0
-2023-2024,Group stage,6,2023-12-12,Napoli,Braga,it,pt,2.0,0.0,0.0
-2023-2024,Group stage,6,2023-12-13,RB Leipzig,Young Boys,de,ch,2.0,1.0,0.0
-2023-2024,Group stage,6,2023-12-13,Red Star,Manchester City,rs,eng,2.0,3.0,1.0
-2023-2024,Group stage,6,2023-12-13,Newcastle Utd,Milan,eng,it,1.0,2.0,1.0
-2023-2024,Group stage,6,2023-12-13,Porto,Shakhtar,pt,ua,5.0,3.0,0.0
-2023-2024,Group stage,6,2023-12-13,Celtic,Feyenoord,sct,nl,2.0,1.0,0.0
-2023-2024,Group stage,6,2023-12-13,Antwerp,Barcelona,be,es,3.0,2.0,0.0
+2023-2024,Group stage,6,2023-12-12,RB Salzburg,Benfica,at,pt,1.0,3.0,0.0
+2023-2024,Group stage,6,2023-12-12,Union Berlin,Real Madrid,de,es,2.0,3.0,0.0
+2023-2024,Group stage,6,2023-12-12,Napoli,Braga,it,pt,2.0,0.0,1.0
+2023-2024,Group stage,6,2023-12-13,RB Leipzig,Young Boys,de,ch,2.0,1.0,1.0
+2023-2024,Group stage,6,2023-12-13,Red Star,Manchester City,rs,eng,2.0,3.0,0.0
+2023-2024,Group stage,6,2023-12-13,Newcastle Utd,Milan,eng,it,1.0,2.0,0.0
+2023-2024,Group stage,6,2023-12-13,Porto,Shakhtar,pt,ua,5.0,3.0,1.0
+2023-2024,Group stage,6,2023-12-13,Celtic,Feyenoord,sct,nl,2.0,1.0,1.0
+2023-2024,Group stage,6,2023-12-13,Antwerp,Barcelona,be,es,3.0,2.0,1.0
 2023-2024,Group stage,6,2023-12-13,Dortmund,Paris S-G,de,fr,1.0,1.0,0.5
-2023-2024,Group stage,6,2023-12-13,Atlético Madrid,Lazio,es,it,2.0,0.0,0.0
-2023-2024,Round of 16,,2024-02-13,RB Leipzig,Real Madrid,de,es,0.0,1.0,1.0
-2023-2024,Round of 16,,2024-02-13,FC Copenhagen,Manchester City,dk,eng,1.0,3.0,1.0
-2023-2024,Round of 16,,2024-02-14,Lazio,Bayern Munich,it,de,1.0,0.0,0.0
-2023-2024,Round of 16,,2024-02-14,Paris S-G,Real Sociedad,fr,es,2.0,0.0,0.0
+2023-2024,Group stage,6,2023-12-13,Atlético Madrid,Lazio,es,it,2.0,0.0,1.0
+2023-2024,Round of 16,,2024-02-13,RB Leipzig,Real Madrid,de,es,0.0,1.0,0.0
+2023-2024,Round of 16,,2024-02-13,FC Copenhagen,Manchester City,dk,eng,1.0,3.0,0.0
+2023-2024,Round of 16,,2024-02-14,Lazio,Bayern Munich,it,de,1.0,0.0,1.0
+2023-2024,Round of 16,,2024-02-14,Paris S-G,Real Sociedad,fr,es,2.0,0.0,1.0
 2023-2024,Round of 16,,2024-02-20,PSV Eindhoven,Dortmund,nl,de,1.0,1.0,0.5
-2023-2024,Round of 16,,2024-02-20,Inter,Atlético Madrid,it,es,1.0,0.0,0.0
-2023-2024,Round of 16,,2024-02-21,Porto,Arsenal,pt,eng,1.0,0.0,0.0
+2023-2024,Round of 16,,2024-02-20,Inter,Atlético Madrid,it,es,1.0,0.0,1.0
+2023-2024,Round of 16,,2024-02-21,Porto,Arsenal,pt,eng,1.0,0.0,1.0
 2023-2024,Round of 16,,2024-02-21,Napoli,Barcelona,it,es,1.0,1.0,0.5
-2023-2024,Round of 16,,2024-03-05,Bayern Munich,Lazio,de,it,3.0,0.0,0.0
-2023-2024,Round of 16,,2024-03-05,Real Sociedad,Paris S-G,es,fr,1.0,2.0,1.0
-2023-2024,Round of 16,,2024-03-06,Manchester City,FC Copenhagen,eng,dk,3.0,1.0,0.0
+2023-2024,Round of 16,,2024-03-05,Bayern Munich,Lazio,de,it,3.0,0.0,1.0
+2023-2024,Round of 16,,2024-03-05,Real Sociedad,Paris S-G,es,fr,1.0,2.0,0.0
+2023-2024,Round of 16,,2024-03-06,Manchester City,FC Copenhagen,eng,dk,3.0,1.0,1.0
 2023-2024,Round of 16,,2024-03-06,Real Madrid,RB Leipzig,es,de,1.0,1.0,0.5
 2023-2024,Round of 16,,2024-03-12,Arsenal,Porto,eng,pt,,,0.5
-2023-2024,Round of 16,,2024-03-12,Barcelona,Napoli,es,it,3.0,1.0,0.0
-2023-2024,Round of 16,,2024-03-13,Dortmund,PSV Eindhoven,de,nl,2.0,0.0,0.0
+2023-2024,Round of 16,,2024-03-12,Barcelona,Napoli,es,it,3.0,1.0,1.0
+2023-2024,Round of 16,,2024-03-13,Dortmund,PSV Eindhoven,de,nl,2.0,0.0,1.0
 2023-2024,Round of 16,,2024-03-13,Atlético Madrid,Inter,es,it,,,0.5
 2023-2024,Quarter-finals,,2024-04-09,Arsenal,Bayern Munich,eng,de,2.0,2.0,0.5
 2023-2024,Quarter-finals,,2024-04-09,Real Madrid,Manchester City,es,eng,3.0,3.0,0.5
-2023-2024,Quarter-finals,,2024-04-10,Atlético Madrid,Dortmund,es,de,2.0,1.0,0.0
-2023-2024,Quarter-finals,,2024-04-10,Paris S-G,Barcelona,fr,es,2.0,3.0,1.0
-2023-2024,Quarter-finals,,2024-04-16,Barcelona,Paris S-G,es,fr,1.0,4.0,1.0
-2023-2024,Quarter-finals,,2024-04-16,Dortmund,Atlético Madrid,de,es,4.0,2.0,0.0
+2023-2024,Quarter-finals,,2024-04-10,Atlético Madrid,Dortmund,es,de,2.0,1.0,1.0
+2023-2024,Quarter-finals,,2024-04-10,Paris S-G,Barcelona,fr,es,2.0,3.0,0.0
+2023-2024,Quarter-finals,,2024-04-16,Barcelona,Paris S-G,es,fr,1.0,4.0,0.0
+2023-2024,Quarter-finals,,2024-04-16,Dortmund,Atlético Madrid,de,es,4.0,2.0,1.0
 2023-2024,Quarter-finals,,2024-04-17,Manchester City,Real Madrid,eng,es,,,0.5
-2023-2024,Quarter-finals,,2024-04-17,Bayern Munich,Arsenal,de,eng,1.0,0.0,0.0
+2023-2024,Quarter-finals,,2024-04-17,Bayern Munich,Arsenal,de,eng,1.0,0.0,1.0
 2023-2024,Semi-finals,,2024-04-30,Bayern Munich,Real Madrid,de,es,2.0,2.0,0.5
-2023-2024,Semi-finals,,2024-05-01,Dortmund,Paris S-G,de,fr,1.0,0.0,0.0
-2023-2024,Semi-finals,,2024-05-07,Paris S-G,Dortmund,fr,de,0.0,1.0,1.0
-2023-2024,Semi-finals,,2024-05-08,Real Madrid,Bayern Munich,es,de,2.0,1.0,0.0
-2023-2024,Final,,2024-06-01,Dortmund,Real Madrid,de,es,0.0,2.0,1.0
+2023-2024,Semi-finals,,2024-05-01,Dortmund,Paris S-G,de,fr,1.0,0.0,1.0
+2023-2024,Semi-finals,,2024-05-07,Paris S-G,Dortmund,fr,de,0.0,1.0,0.0
+2023-2024,Semi-finals,,2024-05-08,Real Madrid,Bayern Munich,es,de,2.0,1.0,1.0
+2023-2024,Final,,2024-06-01,Dortmund,Real Madrid,de,es,0.0,2.0,0.0

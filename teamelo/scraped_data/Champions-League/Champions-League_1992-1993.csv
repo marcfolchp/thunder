@@ -1,0 +1,83 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+1992-1993,Preliminary round,,1992-08-19,NK Olimpija Ljubljana,FC Norma Tallinn,si,ee,3,0,1.0
+1992-1993,Preliminary round,,1992-08-19,Valletta FC,Maccabi Tel Aviv FC,mt,il,1,2,0.0
+1992-1993,Preliminary round,,1992-08-19,KÍ Klaksvík,Skonto FC,fo,lv,1,3,0.0
+1992-1993,Preliminary round,,1992-08-19,Shelbourne FC,Tavriya Simferopol,ie,ua,0,0,0.5
+1992-1993,Preliminary round,,1992-09-02,FC Norma Tallinn,NK Olimpija Ljubljana,ee,si,0,2,0.0
+1992-1993,Preliminary round,,1992-09-02,Maccabi Tel Aviv FC,Valletta FC,il,mt,1,0,1.0
+1992-1993,Preliminary round,,1992-09-02,Tavriya Simferopol,Shelbourne FC,ua,ie,2,1,1.0
+1992-1993,Preliminary round,,1992-09-02,Skonto FC,KÍ Klaksvík,lv,fo,3,0,1.0
+1992-1993,First round,,1992-09-16,Glentoran,Marseille,nir,fr,0,5,0.0
+1992-1993,First round,,1992-09-16,Lech Poznań,Skonto FC,pl,lv,2,0,1.0
+1992-1993,First round,,1992-09-16,Göteborg,Beşiktaş,se,tr,2,0,1.0
+1992-1993,First round,,1992-09-16,ŠK Slovan Bratislava,Ferencváros,sk,hu,4,1,1.0
+1992-1993,First round,,1992-09-16,Union Luxembourg,Porto,lu,pt,1,4,0.0
+1992-1993,First round,,1992-09-16,PSV,Žalgiris,nl,lt,6,0,1.0
+1992-1993,First round,,1992-09-16,Sion,Tavriya Simferopol,ch,ua,4,1,1.0
+1992-1993,First round,,1992-09-16,Austria Wien,CSKA Sofia,at,bg,3,1,1.0
+1992-1993,First round,,1992-09-16,Maccabi Tel Aviv FC,Club Brugge,il,be,0,1,0.0
+1992-1993,First round,,1992-09-16,KV,CSKA Moscow,is,ru,0,1,0.0
+1992-1993,First round,,1992-09-16,Lahti,Dinamo București,fi,ro,1,0,1.0
+1992-1993,First round,,1992-09-16,AEK Athens,APOEL FC,gr,cy,1,1,0.5
+1992-1993,First round,,1992-09-16,Stuttgart,Leeds United,de,eng,3,0,1.0
+1992-1993,First round,,1992-09-16,Barcelona,Viking,es,no,1,0,1.0
+1992-1993,First round,,1992-09-16,Rangers,Lyngby,sct,dk,2,0,1.0
+1992-1993,First round,,1992-09-16,Milan,NK Olimpija Ljubljana,it,si,4,0,1.0
+1992-1993,First round,,1992-09-30,Marseille,Glentoran,fr,nir,3,0,1.0
+1992-1993,First round,,1992-09-30,Žalgiris,PSV,lt,nl,0,2,0.0
+1992-1993,First round,,1992-09-30,Ferencváros,ŠK Slovan Bratislava,hu,sk,0,0,0.5
+1992-1993,First round,,1992-09-30,APOEL FC,AEK Athens,cy,gr,2,2,0.5
+1992-1993,First round,,1992-09-30,Lyngby,Rangers,dk,sct,0,1,0.0
+1992-1993,First round,,1992-09-30,Viking,Barcelona,no,es,0,0,0.5
+1992-1993,First round,,1992-09-30,NK Olimpija Ljubljana,Milan,si,it,0,3,0.0
+1992-1993,First round,,1992-09-30,CSKA Sofia,Austria Wien,bg,at,3,2,1.0
+1992-1993,First round,,1992-09-30,CSKA Moscow,KV,ru,is,4,2,1.0
+1992-1993,First round,,1992-09-30,Leeds United,Stuttgart,eng,de,3,0,1.0
+1992-1993,First round,,1992-09-30,Beşiktaş,Göteborg,tr,se,2,1,1.0
+1992-1993,First round,,1992-09-30,Porto,Union Luxembourg,pt,lu,5,0,1.0
+1992-1993,First round,,1992-09-30,Skonto FC,Lech Poznań,lv,pl,0,0,0.5
+1992-1993,First round,,1992-09-30,Tavriya Simferopol,Sion,ua,ch,1,3,0.0
+1992-1993,First round,,1992-09-30,Club Brugge,Maccabi Tel Aviv FC,be,il,3,0,1.0
+1992-1993,First round,,1992-09-30,Dinamo București,Lahti,ro,fi,2,0,1.0
+1992-1993,First round,,1992-10-09,Leeds United,Stuttgart,eng,de,2,1,1.0
+1992-1993,Second round,,1992-10-21,Sion,Porto,ch,pt,2,2,0.5
+1992-1993,Second round,,1992-10-21,Rangers,Leeds United,sct,eng,2,1,1.0
+1992-1993,Second round,,1992-10-21,Göteborg,Lech Poznań,se,pl,1,0,1.0
+1992-1993,Second round,,1992-10-21,AEK Athens,PSV,gr,nl,1,0,1.0
+1992-1993,Second round,,1992-10-21,Dinamo București,Marseille,ro,fr,0,0,0.5
+1992-1993,Second round,,1992-10-21,CSKA Moscow,Barcelona,ru,es,1,1,0.5
+1992-1993,Second round,,1992-10-21,Club Brugge,Austria Wien,be,at,2,0,1.0
+1992-1993,Second round,,1992-10-21,ŠK Slovan Bratislava,Milan,sk,it,0,1,0.0
+1992-1993,Second round,,1992-11-04,Leeds United,Rangers,eng,sct,1,2,0.0
+1992-1993,Second round,,1992-11-04,Porto,Sion,pt,ch,4,0,1.0
+1992-1993,Second round,,1992-11-04,Milan,ŠK Slovan Bratislava,it,sk,4,0,1.0
+1992-1993,Second round,,1992-11-04,Marseille,Dinamo București,fr,ro,2,0,1.0
+1992-1993,Second round,,1992-11-04,Barcelona,CSKA Moscow,es,ru,2,3,0.0
+1992-1993,Second round,,1992-11-04,Austria Wien,Club Brugge,at,be,3,1,1.0
+1992-1993,Second round,,1992-11-04,Lech Poznań,Göteborg,pl,se,0,3,0.0
+1992-1993,Second round,,1992-11-04,PSV,AEK Athens,nl,gr,3,0,1.0
+1992-1993,Group stage,1,1992-11-25,Rangers,Marseille,sct,fr,2,2,0.5
+1992-1993,Group stage,1,1992-11-25,Milan,Göteborg,it,se,4,0,1.0
+1992-1993,Group stage,1,1992-11-25,Porto,PSV,pt,nl,2,2,0.5
+1992-1993,Group stage,1,1992-11-25,Club Brugge,CSKA Moscow,be,ru,1,0,1.0
+1992-1993,Group stage,2,1992-12-09,PSV,Milan,nl,it,1,2,0.0
+1992-1993,Group stage,2,1992-12-09,Marseille,Club Brugge,fr,be,3,0,1.0
+1992-1993,Group stage,2,1992-12-09,Göteborg,Porto,se,pt,1,0,1.0
+1992-1993,Group stage,2,1992-12-09,CSKA Moscow,Rangers,ru,sct,0,1,0.0
+1992-1993,Group stage,3,1993-03-03,CSKA Moscow,Marseille,ru,fr,1,1,0.5
+1992-1993,Group stage,3,1993-03-03,PSV,Göteborg,nl,se,1,3,0.0
+1992-1993,Group stage,3,1993-03-03,Porto,Milan,pt,it,0,1,0.0
+1992-1993,Group stage,3,1993-03-03,Club Brugge,Rangers,be,sct,1,1,0.5
+1992-1993,Group stage,4,1993-03-17,Milan,Porto,it,pt,1,0,1.0
+1992-1993,Group stage,4,1993-03-17,Rangers,Club Brugge,sct,be,2,1,1.0
+1992-1993,Group stage,4,1993-03-17,Göteborg,PSV,se,nl,3,0,1.0
+1992-1993,Group stage,4,1993-03-17,Marseille,CSKA Moscow,fr,ru,6,0,1.0
+1992-1993,Group stage,5,1993-04-07,PSV,Porto,nl,pt,0,1,0.0
+1992-1993,Group stage,5,1993-04-07,Göteborg,Milan,se,it,0,1,0.0
+1992-1993,Group stage,5,1993-04-07,CSKA Moscow,Club Brugge,ru,be,1,2,0.0
+1992-1993,Group stage,5,1993-04-07,Marseille,Rangers,fr,sct,1,1,0.5
+1992-1993,Group stage,6,1993-04-21,Porto,Göteborg,pt,se,2,0,1.0
+1992-1993,Group stage,6,1993-04-21,Milan,PSV,it,nl,2,0,1.0
+1992-1993,Group stage,6,1993-04-21,Rangers,CSKA Moscow,sct,ru,0,0,0.5
+1992-1993,Group stage,6,1993-04-21,Club Brugge,Marseille,be,fr,0,1,0.0
+1992-1993,Final,,1993-05-26,Marseille,Milan,fr,it,1,0,1.0

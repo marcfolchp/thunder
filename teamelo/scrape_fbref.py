@@ -8,7 +8,7 @@ import os
 
 
 # Crear carpetas para logs y datos si no existen
-os.makedirs('scraped_logs', exist_ok=True)
+os.makedirs('scraping_logs', exist_ok=True)
 
 # Inicializar archivo de log con timestamp
 timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -97,6 +97,10 @@ def scrape_season(season: int, competition: str, comp_code: int) -> pd.DataFrame
 
     df = pd.DataFrame(rows, columns=headers)
 
+    # Manejar empates
+    df['Score'] = df['Score'].str.replace(r'\(.*?\)\s*', '', regex=True)
+
+
     # Reordenar columnas para que 'Round' (si existe) esté antes de 'Wk'
     if 'Round' in df.columns and 'Wk' in df.columns:
         columns = list(df.columns)
@@ -109,29 +113,46 @@ def scrape_season(season: int, competition: str, comp_code: int) -> pd.DataFrame
         df[['Away_Country', 'Away']] = df['Away'].str.split(n=1, expand=True)
 
     df = df.replace(r'^\s*$', pd.NA, regex=True)
-    df = df.dropna(subset=['Wk', 'Date', 'Home', 'Away'], how='all')
 
-    # NUEVO: Eliminar filas donde alguna columna clave tenga un valor igual al nombre de la columna
-    columns_to_check = ['Wk', 'Date', 'Home', 'Away']
+    # Definir columnas a verificar
+    columns_to_check = ['Date', 'Home', 'Away']
+    if 'Wk' in df.columns:
+        columns_to_check.insert(0, 'Wk')  # Incluir 'Wk' si existe
+    if 'Round' in df.columns:
+        columns_to_check.insert(0, 'Round')  # Incluir 'Wk' si existe
+
+    # Eliminar filas donde todas las columnas clave estén vacías
+    df = df.dropna(subset=columns_to_check, how='all')
+    
+    # Eliminar filas donde alguna columna clave tenga un valor igual al nombre de la columna
     df = df[~df[columns_to_check].apply(lambda row: any(pd.notna(row[col]) and row[col] == col for col in columns_to_check), axis=1)]
 
-    if not {'Wk', 'Date', 'Home', 'Score', 'Away'}.issubset(df.columns):
-        log_message(f"⚠️ Columnas requeridas faltantes para {season}-{season+1}.")
+    # Definir las columnas requeridas mínimas
+    required_columns = {'Date', 'Home', 'Away', 'Score'}
+
+    # Verificar si faltan columnas requeridas
+    if not required_columns.issubset(df.columns):
+        missing_cols = required_columns - set(df.columns)
+        log_message(f"⚠️ Columnas requeridas faltantes para {season}-{season+1}: {', '.join(missing_cols)}.")
         return pd.DataFrame()
 
+
     if competition in ["Champions-League", "Europa-League", "Conference-League"]:
-        base_columns = ['Wk', 'Date', 'Home', 'Away', 'Home_Country', 'Away_Country', 'Score']
+        base_columns = ['Date', 'Home', 'Away', 'Home_Country', 'Away_Country', 'Score']
     else:
-        base_columns = ['Wk', 'Date', 'Home', 'Score', 'Away']
+        base_columns = ['Date', 'Home', 'Score', 'Away']
 
-    # Si 'Round' existe y no está en base_columns, se inserta antes de 'Wk'
+    # Insertar 'Wk' si existe en el DataFrame y no está en base_columns
+    if 'Wk' in df.columns and 'Wk' not in base_columns:
+        base_columns.insert(0, 'Wk')
+
+    # Insertar 'Round' si existe
     if 'Round' in df.columns and 'Round' not in base_columns:
-        base_columns.insert(base_columns.index('Wk'), 'Round')
+        base_columns.insert(base_columns.index('Wk') if 'Wk' in base_columns else 0, 'Round')
 
-    # Filtrar para mantener solo las columnas existentes en el DataFrame
+    # Filtrar solo columnas existentes
     base_columns = [col for col in base_columns if col in df.columns]
     df = df[base_columns]
-
 
 
     # Formatear la columna 'Date' al formato 'YYYY-MM-DD'
@@ -176,7 +197,8 @@ def scrape_all_seasons(competition: str, comp_code: int):
     log_message(f"🚀 Iniciando scraping de {competition} para todas las temporadas disponibles, desde {all_seasons[0]} hasta {all_seasons[-1]}...")
     for season in range(int(all_seasons[0][:4]), int(all_seasons[-1][:4])):
         scrape_season(season, competition, comp_code)
-        time.sleep(random.uniform(15, 30))
+        # time.sleep(random.uniform(15, 30))
+        time.sleep(random.uniform(1, 3))
     log_message("🏁 Scraping de todas las temporadas disponibles completado.")
 
 def update_latest_season(competition: str, comp_code: int):
@@ -185,24 +207,26 @@ def update_latest_season(competition: str, comp_code: int):
     season = current_year - 1 if datetime.now().month >= 7 else current_year - 2
     log_message(f"🔄 Actualizando temporada más reciente: {season}-{season+1}")
     scrape_season(season, competition, comp_code)
-    log_message(f"🔄 Temporada más reciente {season}-{season+1} actualizada")
+    log_message(f"✅ Temporada más reciente {season}-{season+1} actualizada")
 
 
 if __name__ == "__main__":
     # Ejemplos de uso
     # competition = "Ligue-1"
-    competition = "Champions-League"
+    # competition = "Champions-League"
+    competition = "Ukrainian-Premier-League"
     # comp_code = 13
-    comp_code = 8
+    # comp_code = 8
+    comp_code = 39
 
     # Scraping de todas las temporadas
     scrape_all_seasons(competition, comp_code)
 
     # Scraping de una temporada
-    # scrape_season(2022, competition, comp_code)
+    # scrape_season(1995, competition, comp_code)
 
     # Scraping de varias temporadas
     # scrape_multiple_seasons(2021, 2023, competition, comp_code)
 
     # Actualizar última temporada
-    update_latest_season(competition, comp_code)
+    # update_latest_season(competition, comp_code)

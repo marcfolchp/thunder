@@ -1,0 +1,183 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,1,2015-07-17,Met Zaporizhya,Zorya Luhansk,0,6,0.0
+2015-2016,1,2015-07-18,Olimpik Donetsk,Chornomorets,2,2,0.5
+2015-2016,1,2015-07-18,Metalist Kharkiv,Karpaty Lviv,2,0,1.0
+2015-2016,1,2015-07-18,Vorskla Poltava,Volyn Lutsk,1,1,0.5
+2015-2016,1,2015-07-19,Shakhtar,FC Oleksandriya,2,0,1.0
+2015-2016,1,2015-07-19,D'zerzhynsk,Dynamo Kyiv,1,2,0.0
+2015-2016,1,2015-07-19,Hoverla,Dnipro,1,1,0.5
+2015-2016,2,2015-07-23,Volyn Lutsk,Shakhtar,1,4,0.0
+2015-2016,2,2015-07-25,Karpaty Lviv,D'zerzhynsk,1,0,1.0
+2015-2016,2,2015-07-25,Hoverla,Vorskla Poltava,1,1,0.5
+2015-2016,2,2015-07-25,Zorya Luhansk,Metalist Kharkiv,0,0,0.5
+2015-2016,2,2015-07-25,Dynamo Kyiv,Olimpik Donetsk,2,0,1.0
+2015-2016,2,2015-07-26,FC Oleksandriya,Met Zaporizhya,1,0,1.0
+2015-2016,2,2015-07-26,Dnipro,Chornomorets,4,2,1.0
+2015-2016,3,2015-08-01,Olimpik Donetsk,Karpaty Lviv,0,1,0.0
+2015-2016,3,2015-08-01,Shakhtar,Hoverla,2,0,1.0
+2015-2016,3,2015-08-02,Metalist Kharkiv,FC Oleksandriya,1,1,0.5
+2015-2016,3,2015-08-02,Met Zaporizhya,Volyn Lutsk,0,2,0.0
+2015-2016,3,2015-08-02,Chornomorets,Dynamo Kyiv,0,2,0.0
+2015-2016,3,2015-08-02,D'zerzhynsk,Zorya Luhansk,2,0,1.0
+2015-2016,3,2015-08-02,Vorskla Poltava,Dnipro,1,1,0.5
+2015-2016,4,2015-08-07,Volyn Lutsk,Metalist Kharkiv,2,2,0.5
+2015-2016,4,2015-08-08,Hoverla,Met Zaporizhya,1,1,0.5
+2015-2016,4,2015-08-08,Karpaty Lviv,Chornomorets,4,0,1.0
+2015-2016,4,2015-08-08,FC Oleksandriya,D'zerzhynsk,0,1,0.0
+2015-2016,4,2015-08-09,Dnipro,Dynamo Kyiv,1,2,0.0
+2015-2016,4,2015-08-09,Vorskla Poltava,Shakhtar,2,2,0.5
+2015-2016,4,2015-08-09,Zorya Luhansk,Olimpik Donetsk,4,0,1.0
+2015-2016,5,2015-08-14,Shakhtar,Dnipro,0,2,0.0
+2015-2016,5,2015-08-15,Olimpik Donetsk,FC Oleksandriya,1,0,1.0
+2015-2016,5,2015-08-15,Met Zaporizhya,Vorskla Poltava,1,1,0.5
+2015-2016,5,2015-08-15,Dynamo Kyiv,Karpaty Lviv,3,0,1.0
+2015-2016,5,2015-08-16,D'zerzhynsk,Volyn Lutsk,1,2,0.0
+2015-2016,5,2015-08-16,Metalist Kharkiv,Hoverla,2,2,0.5
+2015-2016,5,2015-08-16,Chornomorets,Zorya Luhansk,0,2,0.0
+2015-2016,6,2015-08-28,Shakhtar,Met Zaporizhya,2,0,1.0
+2015-2016,6,2015-08-29,Hoverla,D'zerzhynsk,0,0,0.5
+2015-2016,6,2015-08-29,Vorskla Poltava,Metalist Kharkiv,1,0,1.0
+2015-2016,6,2015-08-29,Volyn Lutsk,Olimpik Donetsk,1,0,1.0
+2015-2016,6,2015-08-30,FC Oleksandriya,Chornomorets,0,0,0.5
+2015-2016,6,2015-08-30,Dnipro,Karpaty Lviv,2,0,1.0
+2015-2016,6,2015-08-30,Zorya Luhansk,Dynamo Kyiv,0,0,0.5
+2015-2016,7,2015-09-11,Metalist Kharkiv,Shakhtar,0,5,0.0
+2015-2016,7,2015-09-12,Olimpik Donetsk,Hoverla,0,1,0.0
+2015-2016,7,2015-09-12,Dynamo Kyiv,FC Oleksandriya,3,0,1.0
+2015-2016,7,2015-09-12,Met Zaporizhya,Dnipro,1,4,0.0
+2015-2016,7,2015-09-13,D'zerzhynsk,Vorskla Poltava,1,2,0.0
+2015-2016,7,2015-09-13,Chornomorets,Volyn Lutsk,1,2,0.0
+2015-2016,7,2015-09-13,Karpaty Lviv,Zorya Luhansk,1,1,0.5
+2015-2016,8,2015-09-19,Shakhtar,D'zerzhynsk,2,0,1.0
+2015-2016,8,2015-09-19,Met Zaporizhya,Metalist Kharkiv,0,0,0.5
+2015-2016,8,2015-09-19,Vorskla Poltava,Olimpik Donetsk,2,1,1.0
+2015-2016,8,2015-09-20,Hoverla,Chornomorets,1,1,0.5
+2015-2016,8,2015-09-20,FC Oleksandriya,Karpaty Lviv,4,1,1.0
+2015-2016,8,2015-09-20,Volyn Lutsk,Dynamo Kyiv,0,2,0.0
+2015-2016,8,2015-09-20,Dnipro,Zorya Luhansk,0,3,0.0
+2015-2016,9,2015-09-26,Olimpik Donetsk,Shakhtar,2,3,0.0
+2015-2016,9,2015-09-26,Dynamo Kyiv,Hoverla,2,0,1.0
+2015-2016,9,2015-09-27,D'zerzhynsk,Met Zaporizhya,3,0,1.0
+2015-2016,9,2015-09-27,Zorya Luhansk,FC Oleksandriya,1,1,0.5
+2015-2016,9,2015-09-27,Chornomorets,Vorskla Poltava,0,0,0.5
+2015-2016,9,2015-09-27,Metalist Kharkiv,Dnipro,1,2,0.0
+2015-2016,9,2015-09-27,Karpaty Lviv,Volyn Lutsk,0,2,0.0
+2015-2016,10,2015-10-03,Metalist Kharkiv,D'zerzhynsk,1,1,0.5
+2015-2016,10,2015-10-03,Shakhtar,Chornomorets,2,0,1.0
+2015-2016,10,2015-10-03,Met Zaporizhya,Olimpik Donetsk,0,3,0.0
+2015-2016,10,2015-10-04,Hoverla,Karpaty Lviv,0,2,0.0
+2015-2016,10,2015-10-04,Dnipro,FC Oleksandriya,2,0,1.0
+2015-2016,10,2015-10-04,Volyn Lutsk,Zorya Luhansk,0,3,0.0
+2015-2016,10,2015-10-04,Vorskla Poltava,Dynamo Kyiv,0,4,0.0
+2015-2016,11,2015-10-16,Dynamo Kyiv,Shakhtar,0,3,0.0
+2015-2016,11,2015-10-17,D'zerzhynsk,Dnipro,0,6,0.0
+2015-2016,11,2015-10-18,Olimpik Donetsk,Metalist Kharkiv,3,0,1.0
+2015-2016,11,2015-10-18,FC Oleksandriya,Volyn Lutsk,3,1,1.0
+2015-2016,11,2015-10-18,Chornomorets,Met Zaporizhya,5,2,1.0
+2015-2016,11,2015-10-18,Karpaty Lviv,Vorskla Poltava,1,3,0.0
+2015-2016,11,2015-10-18,Zorya Luhansk,Hoverla,2,1,1.0
+2015-2016,13,2015-10-30,Zorya Luhansk,Shakhtar,1,7,0.0
+2015-2016,13,2015-10-31,Olimpik Donetsk,Dnipro,1,1,0.5
+2015-2016,13,2015-10-31,Dynamo Kyiv,Metalist Kharkiv,2,0,1.0
+2015-2016,13,2015-10-31,Karpaty Lviv,Met Zaporizhya,1,0,1.0
+2015-2016,13,2015-11-01,Chornomorets,D'zerzhynsk,1,1,0.5
+2015-2016,13,2015-11-01,FC Oleksandriya,Vorskla Poltava,1,1,0.5
+2015-2016,13,2015-11-01,Volyn Lutsk,Hoverla,0,0,0.5
+2015-2016,14,2015-11-07,Zorya Luhansk,Met Zaporizhya,4,1,1.0
+2015-2016,14,2015-11-07,Chornomorets,Olimpik Donetsk,0,2,0.0
+2015-2016,14,2015-11-07,Karpaty Lviv,Metalist Kharkiv,1,1,0.5
+2015-2016,14,2015-11-07,FC Oleksandriya,Shakhtar,2,3,0.0
+2015-2016,14,2015-11-08,Volyn Lutsk,Vorskla Poltava,2,1,1.0
+2015-2016,14,2015-11-08,Dnipro,Hoverla,2,0,1.0
+2015-2016,14,2015-11-08,Dynamo Kyiv,D'zerzhynsk,2,0,1.0
+2015-2016,15,2015-11-20,Olimpik Donetsk,Dynamo Kyiv,0,3,0.0
+2015-2016,15,2015-11-21,Vorskla Poltava,Hoverla,2,1,1.0
+2015-2016,15,2015-11-21,Chornomorets,Dnipro,0,0,0.5
+2015-2016,15,2015-11-21,Shakhtar,Volyn Lutsk,4,0,1.0
+2015-2016,15,2015-11-22,Met Zaporizhya,FC Oleksandriya,0,2,0.0
+2015-2016,15,2015-11-22,D'zerzhynsk,Karpaty Lviv,1,1,0.5
+2015-2016,15,2015-11-22,Metalist Kharkiv,Zorya Luhansk,0,1,0.0
+2015-2016,16,2015-11-28,Karpaty Lviv,Olimpik Donetsk,4,1,1.0
+2015-2016,16,2015-11-28,Zorya Luhansk,D'zerzhynsk,2,1,1.0
+2015-2016,16,2015-11-28,FC Oleksandriya,Metalist Kharkiv,2,0,1.0
+2015-2016,16,2015-11-29,Volyn Lutsk,Met Zaporizhya,9,1,1.0
+2015-2016,16,2015-11-29,Hoverla,Shakhtar,1,6,0.0
+2015-2016,16,2015-11-29,Dynamo Kyiv,Chornomorets,2,1,1.0
+2015-2016,16,2015-11-30,Dnipro,Vorskla Poltava,0,2,0.0
+2015-2016,12,2015-12-03,Shakhtar,Karpaty Lviv,3,0,1.0
+2015-2016,12,2015-12-04,Met Zaporizhya,Dynamo Kyiv,0,6,0.0
+2015-2016,12,2015-12-05,Vorskla Poltava,Zorya Luhansk,0,2,0.0
+2015-2016,12,2015-12-05,Hoverla,FC Oleksandriya,1,2,0.0
+2015-2016,12,2015-12-05,Dnipro,Volyn Lutsk,0,1,0.0
+2015-2016,12,2015-12-06,D'zerzhynsk,Olimpik Donetsk,1,0,1.0
+2015-2016,12,2015-12-06,Metalist Kharkiv,Chornomorets,2,2,0.5
+2015-2016,17,2016-03-05,Met Zaporizhya,Hoverla,0,0,0.5
+2015-2016,17,2016-03-05,D'zerzhynsk,FC Oleksandriya,2,2,0.5
+2015-2016,17,2016-03-05,Chornomorets,Karpaty Lviv,0,0,0.5
+2015-2016,17,2016-03-05,Dynamo Kyiv,Dnipro,2,0,1.0
+2015-2016,17,2016-03-06,Olimpik Donetsk,Zorya Luhansk,1,1,0.5
+2015-2016,17,2016-03-06,Shakhtar,Vorskla Poltava,3,1,1.0
+2015-2016,17,2016-03-06,Metalist Kharkiv,Volyn Lutsk,3,0,1.0
+2015-2016,18,2016-03-11,Karpaty Lviv,Dynamo Kyiv,1,2,0.0
+2015-2016,18,2016-03-12,Vorskla Poltava,Met Zaporizhya,0,0,0.5
+2015-2016,18,2016-03-12,FC Oleksandriya,Olimpik Donetsk,0,0,0.5
+2015-2016,18,2016-03-12,Zorya Luhansk,Chornomorets,4,0,1.0
+2015-2016,18,2016-03-13,Hoverla,Metalist Kharkiv,1,0,1.0
+2015-2016,18,2016-03-13,Volyn Lutsk,D'zerzhynsk,1,0,1.0
+2015-2016,18,2016-03-13,Dnipro,Shakhtar,4,1,1.0
+2015-2016,19,2016-03-19,Chornomorets,FC Oleksandriya,1,2,0.0
+2015-2016,19,2016-03-19,D'zerzhynsk,Hoverla,1,0,1.0
+2015-2016,19,2016-03-19,Met Zaporizhya,Shakhtar,0,0,0.5
+2015-2016,19,2016-03-19,Metalist Kharkiv,Vorskla Poltava,0,3,0.0
+2015-2016,19,2016-03-20,Olimpik Donetsk,Volyn Lutsk,1,1,0.5
+2015-2016,19,2016-03-20,Karpaty Lviv,Dnipro,0,1,0.0
+2015-2016,19,2016-03-20,Dynamo Kyiv,Zorya Luhansk,1,0,1.0
+2015-2016,20,2016-04-01,Shakhtar,Metalist Kharkiv,8,1,1.0
+2015-2016,20,2016-04-02,Dnipro,Met Zaporizhya,0,0,0.5
+2015-2016,20,2016-04-02,Vorskla Poltava,D'zerzhynsk,0,0,0.5
+2015-2016,20,2016-04-02,Zorya Luhansk,Karpaty Lviv,4,1,1.0
+2015-2016,20,2016-04-02,FC Oleksandriya,Dynamo Kyiv,0,2,0.0
+2015-2016,20,2016-04-03,Volyn Lutsk,Chornomorets,1,1,0.5
+2015-2016,20,2016-04-03,Hoverla,Olimpik Donetsk,0,2,0.0
+2015-2016,21,2016-04-09,Metalist Kharkiv,Met Zaporizhya,0,0,0.5
+2015-2016,21,2016-04-09,Olimpik Donetsk,Vorskla Poltava,1,1,0.5
+2015-2016,21,2016-04-09,Chornomorets,Hoverla,1,0,1.0
+2015-2016,21,2016-04-10,Karpaty Lviv,FC Oleksandriya,2,2,0.5
+2015-2016,21,2016-04-10,D'zerzhynsk,Shakhtar,3,3,0.5
+2015-2016,21,2016-04-10,Dynamo Kyiv,Volyn Lutsk,3,0,1.0
+2015-2016,21,2016-04-10,Zorya Luhansk,Dnipro,1,2,0.0
+2015-2016,22,2016-04-16,Met Zaporizhya,D'zerzhynsk,0,0,0.5
+2015-2016,22,2016-04-16,FC Oleksandriya,Zorya Luhansk,2,0,1.0
+2015-2016,22,2016-04-16,Hoverla,Dynamo Kyiv,0,2,0.0
+2015-2016,22,2016-04-16,Dnipro,Metalist Kharkiv,5,0,1.0
+2015-2016,22,2016-04-17,Volyn Lutsk,Karpaty Lviv,0,0,0.5
+2015-2016,22,2016-04-17,Shakhtar,Olimpik Donetsk,3,0,1.0
+2015-2016,22,2016-04-17,Vorskla Poltava,Chornomorets,2,0,1.0
+2015-2016,23,2016-04-23,Olimpik Donetsk,Met Zaporizhya,0,0,0.5
+2015-2016,23,2016-04-23,Karpaty Lviv,Hoverla,3,0,1.0
+2015-2016,23,2016-04-23,D'zerzhynsk,Metalist Kharkiv,0,0,0.5
+2015-2016,23,2016-04-23,Chornomorets,Shakhtar,1,1,0.5
+2015-2016,23,2016-04-24,Zorya Luhansk,Volyn Lutsk,1,1,0.5
+2015-2016,23,2016-04-24,Dynamo Kyiv,Vorskla Poltava,1,0,1.0
+2015-2016,23,2016-04-24,FC Oleksandriya,Dnipro,0,4,0.0
+2015-2016,24,2016-04-29,Volyn Lutsk,FC Oleksandriya,0,0,0.5
+2015-2016,24,2016-04-30,Met Zaporizhya,Chornomorets,0,0,0.5
+2015-2016,24,2016-04-30,Hoverla,Zorya Luhansk,0,4,0.0
+2015-2016,24,2016-04-30,Vorskla Poltava,Karpaty Lviv,3,0,1.0
+2015-2016,24,2016-04-30,Metalist Kharkiv,Olimpik Donetsk,1,0,1.0
+2015-2016,24,2016-04-30,Dnipro,D'zerzhynsk,2,0,1.0
+2015-2016,24,2016-05-01,Shakhtar,Dynamo Kyiv,3,0,1.0
+2015-2016,25,2016-05-07,Dynamo Kyiv,Met Zaporizhya,0,0,0.5
+2015-2016,25,2016-05-07,Chornomorets,Metalist Kharkiv,0,1,0.0
+2015-2016,25,2016-05-07,FC Oleksandriya,Hoverla,2,0,1.0
+2015-2016,25,2016-05-07,Volyn Lutsk,Dnipro,2,3,0.0
+2015-2016,25,2016-05-07,Zorya Luhansk,Vorskla Poltava,1,2,0.0
+2015-2016,25,2016-05-08,Olimpik Donetsk,D'zerzhynsk,0,2,0.0
+2015-2016,25,2016-05-08,Karpaty Lviv,Shakhtar,1,2,0.0
+2015-2016,26,2016-05-14,Hoverla,Volyn Lutsk,1,4,0.0
+2015-2016,26,2016-05-14,D'zerzhynsk,Chornomorets,0,1,0.0
+2015-2016,26,2016-05-14,Metalist Kharkiv,Dynamo Kyiv,1,4,0.0
+2015-2016,26,2016-05-15,Met Zaporizhya,Karpaty Lviv,0,0,0.5
+2015-2016,26,2016-05-15,Shakhtar,Zorya Luhansk,2,3,0.0
+2015-2016,26,2016-05-15,Vorskla Poltava,FC Oleksandriya,0,1,0.0
+2015-2016,26,2016-05-15,Dnipro,Olimpik Donetsk,1,1,0.5

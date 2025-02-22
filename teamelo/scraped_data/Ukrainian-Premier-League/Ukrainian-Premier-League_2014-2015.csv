@@ -1,0 +1,183 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,1,2014-07-25,Met Donetsk,Dnipro,0,2,0.0
+2014-2015,1,2014-07-26,Mariupol,Volyn Lutsk,1,2,0.0
+2014-2015,1,2014-07-26,Chornomorets,Olimpik Donetsk,4,0,1.0
+2014-2015,1,2014-07-27,Hoverla,Karpaty Lviv,2,2,0.5
+2014-2015,1,2014-07-27,Dynamo Kyiv,Vorskla Poltava,1,0,1.0
+2014-2015,1,2014-07-27,Shakhtar,Met Zaporizhya,2,0,1.0
+2014-2015,1,2014-07-27,Zorya Luhansk,Metalist Kharkiv,1,2,0.0
+2014-2015,2,2014-08-01,Vorskla Poltava,Shakhtar,1,2,0.0
+2014-2015,2,2014-08-02,Metalist Kharkiv,Dynamo Kyiv,1,2,0.0
+2014-2015,2,2014-08-02,Volyn Lutsk,Dnipro,0,1,0.0
+2014-2015,2,2014-08-02,Met Zaporizhya,Hoverla,2,1,1.0
+2014-2015,2,2014-08-03,Olimpik Donetsk,Zorya Luhansk,1,0,1.0
+2014-2015,2,2014-08-03,Karpaty Lviv,Met Donetsk,0,1,0.0
+2014-2015,2,2014-08-04,Mariupol,Chornomorets,3,3,0.5
+2014-2015,3,2014-08-08,Hoverla,Vorskla Poltava,0,0,0.5
+2014-2015,3,2014-08-09,Met Donetsk,Met Zaporizhya,1,1,0.5
+2014-2015,3,2014-08-09,Dynamo Kyiv,Olimpik Donetsk,0,0,0.5
+2014-2015,3,2014-08-09,Shakhtar,Metalist Kharkiv,1,0,1.0
+2014-2015,3,2014-08-10,Dnipro,Karpaty Lviv,4,0,1.0
+2014-2015,3,2014-08-11,Chornomorets,Volyn Lutsk,1,0,1.0
+2014-2015,3,2014-08-11,Zorya Luhansk,Mariupol,1,0,1.0
+2014-2015,4,2014-08-15,Olimpik Donetsk,Shakhtar,0,5,0.0
+2014-2015,4,2014-08-15,Met Zaporizhya,Dnipro,0,1,0.0
+2014-2015,4,2014-08-16,Vorskla Poltava,Met Donetsk,2,1,1.0
+2014-2015,4,2014-08-16,Chornomorets,Zorya Luhansk,0,0,0.5
+2014-2015,4,2014-08-16,Metalist Kharkiv,Hoverla,1,0,1.0
+2014-2015,4,2014-08-17,Volyn Lutsk,Karpaty Lviv,0,2,0.0
+2014-2015,4,2014-08-17,Mariupol,Dynamo Kyiv,1,4,0.0
+2014-2015,5,2014-08-29,Shakhtar,Mariupol,3,0,1.0
+2014-2015,5,2014-08-30,Hoverla,Olimpik Donetsk,0,1,0.0
+2014-2015,5,2014-08-30,Dynamo Kyiv,Chornomorets,2,0,1.0
+2014-2015,5,2014-08-31,Karpaty Lviv,Met Zaporizhya,1,2,0.0
+2014-2015,5,2014-08-31,Zorya Luhansk,Volyn Lutsk,1,2,0.0
+2014-2015,5,2014-08-31,Met Donetsk,Metalist Kharkiv,1,1,0.5
+2014-2015,5,2014-08-31,Dnipro,Vorskla Poltava,1,1,0.5
+2014-2015,6,2014-09-13,Olimpik Donetsk,Met Donetsk,3,2,1.0
+2014-2015,6,2014-09-13,Metalist Kharkiv,Dnipro,2,5,0.0
+2014-2015,6,2014-09-13,Zorya Luhansk,Dynamo Kyiv,2,2,0.5
+2014-2015,6,2014-09-13,Chornomorets,Shakhtar,0,2,0.0
+2014-2015,6,2014-09-14,Volyn Lutsk,Met Zaporizhya,3,0,1.0
+2014-2015,6,2014-09-14,Mariupol,Hoverla,2,2,0.5
+2014-2015,6,2014-09-14,Vorskla Poltava,Karpaty Lviv,2,0,1.0
+2014-2015,7,2014-09-20,Met Donetsk,Mariupol,3,0,1.0
+2014-2015,7,2014-09-20,Met Zaporizhya,Vorskla Poltava,0,3,0.0
+2014-2015,7,2014-09-21,Shakhtar,Zorya Luhansk,0,1,0.0
+2014-2015,7,2014-09-21,Karpaty Lviv,Metalist Kharkiv,3,3,0.5
+2014-2015,7,2014-09-21,Hoverla,Chornomorets,0,0,0.5
+2014-2015,7,2014-09-22,Dynamo Kyiv,Volyn Lutsk,4,1,1.0
+2014-2015,7,2014-09-22,Dnipro,Olimpik Donetsk,5,0,1.0
+2014-2015,8,2014-10-03,Volyn Lutsk,Vorskla Poltava,2,2,0.5
+2014-2015,8,2014-10-04,Olimpik Donetsk,Karpaty Lviv,1,0,1.0
+2014-2015,8,2014-10-04,Zorya Luhansk,Hoverla,2,1,1.0
+2014-2015,8,2014-10-04,Chornomorets,Met Donetsk,2,2,0.5
+2014-2015,8,2014-10-05,Mariupol,Dnipro,0,1,0.0
+2014-2015,8,2014-10-05,Metalist Kharkiv,Met Zaporizhya,2,1,1.0
+2014-2015,8,2014-10-05,Dynamo Kyiv,Shakhtar,1,0,1.0
+2014-2015,9,2014-10-17,Shakhtar,Volyn Lutsk,6,2,1.0
+2014-2015,9,2014-10-18,Met Zaporizhya,Olimpik Donetsk,2,2,0.5
+2014-2015,9,2014-10-18,Vorskla Poltava,Metalist Kharkiv,0,0,0.5
+2014-2015,9,2014-10-18,Hoverla,Dynamo Kyiv,0,4,0.0
+2014-2015,9,2014-10-19,Karpaty Lviv,Mariupol,1,0,1.0
+2014-2015,9,2014-10-19,Met Donetsk,Zorya Luhansk,0,0,0.5
+2014-2015,9,2014-10-19,Dnipro,Chornomorets,2,1,1.0
+2014-2015,11,2014-10-31,Met Donetsk,Shakhtar,2,1,1.0
+2014-2015,11,2014-11-01,Vorskla Poltava,Mariupol,0,0,0.5
+2014-2015,11,2014-11-01,Met Zaporizhya,Chornomorets,0,0,0.5
+2014-2015,11,2014-11-02,Karpaty Lviv,Zorya Luhansk,1,2,0.0
+2014-2015,11,2014-11-02,Metalist Kharkiv,Olimpik Donetsk,0,0,0.5
+2014-2015,11,2014-11-02,Dnipro,Dynamo Kyiv,0,3,0.0
+2014-2015,11,2014-11-03,Hoverla,Volyn Lutsk,0,0,0.5
+2014-2015,12,2014-11-08,Hoverla,Met Donetsk,1,0,1.0
+2014-2015,12,2014-11-08,Zorya Luhansk,Met Zaporizhya,3,0,1.0
+2014-2015,12,2014-11-08,Chornomorets,Vorskla Poltava,1,0,1.0
+2014-2015,12,2014-11-09,Volyn Lutsk,Olimpik Donetsk,4,0,1.0
+2014-2015,12,2014-11-09,Shakhtar,Dnipro,0,0,0.5
+2014-2015,12,2014-11-09,Mariupol,Metalist Kharkiv,1,3,0.0
+2014-2015,12,2014-11-09,Dynamo Kyiv,Karpaty Lviv,0,0,0.5
+2014-2015,13,2014-11-21,Karpaty Lviv,Shakhtar,0,2,0.0
+2014-2015,13,2014-11-22,Olimpik Donetsk,Mariupol,3,2,1.0
+2014-2015,13,2014-11-22,Dnipro,Hoverla,1,1,0.5
+2014-2015,13,2014-11-23,Met Donetsk,Volyn Lutsk,1,2,0.0
+2014-2015,13,2014-11-23,Vorskla Poltava,Zorya Luhansk,2,0,1.0
+2014-2015,13,2014-11-23,Met Zaporizhya,Dynamo Kyiv,2,4,0.0
+2014-2015,14,2014-11-29,Olimpik Donetsk,Chornomorets,2,1,1.0
+2014-2015,14,2014-11-30,Met Zaporizhya,Shakhtar,0,4,0.0
+2014-2015,14,2014-11-30,Volyn Lutsk,Mariupol,3,1,1.0
+2014-2015,14,2014-11-30,Metalist Kharkiv,Zorya Luhansk,4,2,1.0
+2014-2015,14,2014-11-30,Vorskla Poltava,Dynamo Kyiv,0,3,0.0
+2014-2015,14,2014-11-30,Karpaty Lviv,Hoverla,1,0,1.0
+2014-2015,14,2014-12-01,Dnipro,Met Donetsk,1,1,0.5
+2014-2015,10,2014-12-05,Shakhtar,Hoverla,4,1,1.0
+2014-2015,10,2014-12-05,Dynamo Kyiv,Met Donetsk,3,0,1.0
+2014-2015,10,2014-12-06,Olimpik Donetsk,Vorskla Poltava,1,1,0.5
+2014-2015,10,2014-12-06,Zorya Luhansk,Dnipro,2,1,1.0
+2014-2015,10,2014-12-07,Mariupol,Met Zaporizhya,1,2,0.0
+2014-2015,10,2014-12-07,Volyn Lutsk,Metalist Kharkiv,0,3,0.0
+2014-2015,10,2014-12-07,Chornomorets,Karpaty Lviv,0,0,0.5
+2014-2015,15,2015-02-27,Chornomorets,Mariupol,0,0,0.5
+2014-2015,15,2015-02-28,Zorya Luhansk,Olimpik Donetsk,5,1,1.0
+2014-2015,15,2015-02-28,Shakhtar,Vorskla Poltava,3,0,1.0
+2014-2015,15,2015-03-01,Hoverla,Met Zaporizhya,0,1,0.0
+2014-2015,15,2015-03-01,Dnipro,Volyn Lutsk,5,0,1.0
+2014-2015,15,2015-03-01,Met Donetsk,Karpaty Lviv,1,1,0.5
+2014-2015,15,2015-03-01,Dynamo Kyiv,Metalist Kharkiv,3,0,1.0
+2014-2015,16,2015-03-07,Mariupol,Zorya Luhansk,2,1,1.0
+2014-2015,16,2015-03-07,Metalist Kharkiv,Shakhtar,2,2,0.5
+2014-2015,16,2015-03-07,Met Zaporizhya,Met Donetsk,0,1,0.0
+2014-2015,16,2015-03-08,Olimpik Donetsk,Dynamo Kyiv,0,1,0.0
+2014-2015,16,2015-03-08,Volyn Lutsk,Chornomorets,1,1,0.5
+2014-2015,16,2015-03-08,Vorskla Poltava,Hoverla,2,0,1.0
+2014-2015,16,2015-03-08,Karpaty Lviv,Dnipro,0,1,0.0
+2014-2015,17,2015-03-13,Karpaty Lviv,Volyn Lutsk,0,2,0.0
+2014-2015,17,2015-03-14,Met Donetsk,Vorskla Poltava,1,1,0.5
+2014-2015,17,2015-03-14,Hoverla,Metalist Kharkiv,2,2,0.5
+2014-2015,17,2015-03-15,Zorya Luhansk,Chornomorets,1,0,1.0
+2014-2015,17,2015-03-15,Shakhtar,Olimpik Donetsk,6,0,1.0
+2014-2015,17,2015-03-15,Dnipro,Met Zaporizhya,1,0,1.0
+2014-2015,17,2015-03-15,Dynamo Kyiv,Mariupol,5,0,1.0
+2014-2015,18,2015-04-03,Olimpik Donetsk,Hoverla,1,2,0.0
+2014-2015,18,2015-04-04,Metalist Kharkiv,Met Donetsk,1,0,1.0
+2014-2015,18,2015-04-04,Vorskla Poltava,Dnipro,1,3,0.0
+2014-2015,18,2015-04-04,Chornomorets,Dynamo Kyiv,0,2,0.0
+2014-2015,18,2015-04-05,Volyn Lutsk,Zorya Luhansk,1,2,0.0
+2014-2015,18,2015-04-05,Mariupol,Shakhtar,2,6,0.0
+2014-2015,18,2015-04-05,Met Zaporizhya,Karpaty Lviv,2,1,1.0
+2014-2015,19,2015-04-10,Hoverla,Mariupol,2,1,1.0
+2014-2015,19,2015-04-10,Met Zaporizhya,Volyn Lutsk,1,1,0.5
+2014-2015,19,2015-04-11,Met Donetsk,Olimpik Donetsk,4,2,1.0
+2014-2015,19,2015-04-11,Shakhtar,Chornomorets,5,0,1.0
+2014-2015,19,2015-04-11,Dnipro,Metalist Kharkiv,0,0,0.5
+2014-2015,19,2015-04-12,Dynamo Kyiv,Zorya Luhansk,2,2,0.5
+2014-2015,19,2015-04-13,Karpaty Lviv,Vorskla Poltava,0,0,0.5
+2014-2015,20,2015-04-18,Metalist Kharkiv,Karpaty Lviv,0,0,0.5
+2014-2015,20,2015-04-18,Mariupol,Met Donetsk,1,1,0.5
+2014-2015,20,2015-04-18,Zorya Luhansk,Shakhtar,1,4,0.0
+2014-2015,20,2015-04-19,Olimpik Donetsk,Dnipro,0,5,0.0
+2014-2015,20,2015-04-19,Chornomorets,Hoverla,1,1,0.5
+2014-2015,20,2015-04-19,Vorskla Poltava,Met Zaporizhya,5,0,1.0
+2014-2015,20,2015-04-19,Volyn Lutsk,Dynamo Kyiv,1,3,0.0
+2014-2015,21,2015-04-25,Hoverla,Zorya Luhansk,1,2,0.0
+2014-2015,21,2015-04-25,Vorskla Poltava,Volyn Lutsk,2,0,1.0
+2014-2015,21,2015-04-25,Met Donetsk,Chornomorets,1,0,1.0
+2014-2015,21,2015-04-26,Met Zaporizhya,Metalist Kharkiv,0,0,0.5
+2014-2015,21,2015-04-26,Karpaty Lviv,Olimpik Donetsk,4,1,1.0
+2014-2015,21,2015-04-26,Dnipro,Mariupol,1,0,1.0
+2014-2015,21,2015-04-26,Shakhtar,Dynamo Kyiv,0,0,0.5
+2014-2015,22,2015-05-02,Mariupol,Karpaty Lviv,1,0,1.0
+2014-2015,22,2015-05-02,Zorya Luhansk,Met Donetsk,4,2,1.0
+2014-2015,22,2015-05-03,Metalist Kharkiv,Vorskla Poltava,0,2,0.0
+2014-2015,22,2015-05-03,Chornomorets,Dnipro,0,3,0.0
+2014-2015,22,2015-05-04,Olimpik Donetsk,Met Zaporizhya,0,0,0.5
+2014-2015,22,2015-05-04,Dynamo Kyiv,Hoverla,6,0,1.0
+2014-2015,22,2015-05-04,Volyn Lutsk,Shakhtar,0,0,0.5
+2014-2015,23,2015-05-09,Hoverla,Shakhtar,3,7,0.0
+2014-2015,23,2015-05-09,Vorskla Poltava,Olimpik Donetsk,3,1,1.0
+2014-2015,23,2015-05-10,Met Zaporizhya,Mariupol,2,0,1.0
+2014-2015,23,2015-05-10,Karpaty Lviv,Chornomorets,2,0,1.0
+2014-2015,23,2015-05-10,Dnipro,Zorya Luhansk,0,2,0.0
+2014-2015,23,2015-05-10,Met Donetsk,Dynamo Kyiv,0,6,0.0
+2014-2015,23,2015-05-11,Metalist Kharkiv,Volyn Lutsk,3,3,0.5
+2014-2015,24,2015-05-15,Chornomorets,Met Zaporizhya,0,0,0.5
+2014-2015,24,2015-05-16,Mariupol,Vorskla Poltava,1,2,0.0
+2014-2015,24,2015-05-16,Shakhtar,Met Donetsk,2,0,1.0
+2014-2015,24,2015-05-16,Zorya Luhansk,Karpaty Lviv,1,1,0.5
+2014-2015,24,2015-05-17,Olimpik Donetsk,Metalist Kharkiv,2,1,1.0
+2014-2015,24,2015-05-17,Volyn Lutsk,Hoverla,4,2,1.0
+2014-2015,24,2015-05-17,Dynamo Kyiv,Dnipro,1,0,1.0
+2014-2015,13,2015-05-20,Metalist Kharkiv,Chornomorets,0,0,0.5
+2014-2015,25,2015-05-23,Olimpik Donetsk,Volyn Lutsk,1,3,0.0
+2014-2015,25,2015-05-23,Met Donetsk,Hoverla,0,0,0.5
+2014-2015,25,2015-05-23,Dnipro,Shakhtar,3,2,1.0
+2014-2015,25,2015-05-24,Metalist Kharkiv,Mariupol,3,1,1.0
+2014-2015,25,2015-05-24,Vorskla Poltava,Chornomorets,2,0,1.0
+2014-2015,25,2015-05-24,Karpaty Lviv,Dynamo Kyiv,0,1,0.0
+2014-2015,25,2015-05-24,Met Zaporizhya,Zorya Luhansk,0,1,0.0
+2014-2015,26,2015-05-29,Volyn Lutsk,Met Donetsk,1,1,0.5
+2014-2015,26,2015-05-29,Zorya Luhansk,Vorskla Poltava,1,1,0.5
+2014-2015,26,2015-05-30,Dynamo Kyiv,Met Zaporizhya,2,2,0.5
+2014-2015,26,2015-05-30,Mariupol,Olimpik Donetsk,4,1,1.0
+2014-2015,26,2015-05-30,Shakhtar,Karpaty Lviv,2,2,0.5
+2014-2015,26,2015-05-30,Hoverla,Dnipro,0,0,0.5
+2014-2015,26,2015-05-31,Chornomorets,Metalist Kharkiv,0,0,0.5

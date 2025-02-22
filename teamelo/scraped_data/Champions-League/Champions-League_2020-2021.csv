@@ -1,0 +1,126 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2020-2021,Group stage,1,2020-10-20,Zenit,Club Brugge,ru,be,1,2,0.0
+2020-2021,Group stage,1,2020-10-20,Dynamo Kyiv,Juventus,ua,it,0,2,0.0
+2020-2021,Group stage,1,2020-10-20,Chelsea,Sevilla,eng,es,0,0,0.5
+2020-2021,Group stage,1,2020-10-20,Barcelona,Ferencváros,es,hu,5,1,1.0
+2020-2021,Group stage,1,2020-10-20,RB Leipzig,Başakşehir,de,tr,2,0,1.0
+2020-2021,Group stage,1,2020-10-20,Rennes,Krasnodar,fr,ru,1,1,0.5
+2020-2021,Group stage,1,2020-10-20,Paris S-G,Manchester Utd,fr,eng,1,2,0.0
+2020-2021,Group stage,1,2020-10-20,Lazio,Dortmund,it,de,3,1,1.0
+2020-2021,Group stage,1,2020-10-21,Real Madrid,Shakhtar,es,ua,2,3,0.0
+2020-2021,Group stage,1,2020-10-21,RB Salzburg,Loko Moscow,at,ru,2,2,0.5
+2020-2021,Group stage,1,2020-10-21,Manchester City,Porto,eng,pt,3,1,1.0
+2020-2021,Group stage,1,2020-10-21,Bayern Munich,Atlético Madrid,de,es,4,0,1.0
+2020-2021,Group stage,1,2020-10-21,Inter,Gladbach,it,de,2,2,0.5
+2020-2021,Group stage,1,2020-10-21,Ajax,Liverpool,nl,eng,0,1,0.0
+2020-2021,Group stage,1,2020-10-21,Midtjylland,Atalanta,dk,it,0,4,0.0
+2020-2021,Group stage,1,2020-10-21,Olympiacos,Marseille,gr,fr,1,0,1.0
+2020-2021,Group stage,2,2020-10-27,Shakhtar,Inter,ua,it,0,0,0.5
+2020-2021,Group stage,2,2020-10-27,Liverpool,Midtjylland,eng,dk,2,0,1.0
+2020-2021,Group stage,2,2020-10-27,Porto,Olympiacos,pt,gr,2,0,1.0
+2020-2021,Group stage,2,2020-10-27,Loko Moscow,Bayern Munich,ru,de,1,2,0.0
+2020-2021,Group stage,2,2020-10-27,Marseille,Manchester City,fr,eng,0,3,0.0
+2020-2021,Group stage,2,2020-10-27,Atalanta,Ajax,it,nl,2,2,0.5
+2020-2021,Group stage,2,2020-10-27,Atlético Madrid,RB Salzburg,es,at,3,2,1.0
+2020-2021,Group stage,2,2020-10-27,Gladbach,Real Madrid,de,es,2,2,0.5
+2020-2021,Group stage,2,2020-10-28,Manchester Utd,RB Leipzig,eng,de,5,0,1.0
+2020-2021,Group stage,2,2020-10-28,Krasnodar,Chelsea,ru,eng,0,4,0.0
+2020-2021,Group stage,2,2020-10-28,Başakşehir,Paris S-G,tr,fr,0,2,0.0
+2020-2021,Group stage,2,2020-10-28,Dortmund,Zenit,de,ru,2,0,1.0
+2020-2021,Group stage,2,2020-10-28,Club Brugge,Lazio,be,it,1,1,0.5
+2020-2021,Group stage,2,2020-10-28,Sevilla,Rennes,es,fr,1,0,1.0
+2020-2021,Group stage,2,2020-10-28,Ferencváros,Dynamo Kyiv,hu,ua,2,2,0.5
+2020-2021,Group stage,2,2020-10-28,Juventus,Barcelona,it,es,0,2,0.0
+2020-2021,Group stage,3,2020-11-03,Shakhtar,Gladbach,ua,de,0,6,0.0
+2020-2021,Group stage,3,2020-11-03,Porto,Marseille,pt,fr,3,0,1.0
+2020-2021,Group stage,3,2020-11-03,Manchester City,Olympiacos,eng,gr,3,0,1.0
+2020-2021,Group stage,3,2020-11-03,Loko Moscow,Atlético Madrid,ru,es,1,1,0.5
+2020-2021,Group stage,3,2020-11-03,RB Salzburg,Bayern Munich,at,de,2,6,0.0
+2020-2021,Group stage,3,2020-11-03,Midtjylland,Ajax,dk,nl,1,2,0.0
+2020-2021,Group stage,3,2020-11-03,Real Madrid,Inter,es,it,3,2,1.0
+2020-2021,Group stage,3,2020-11-03,Atalanta,Liverpool,it,eng,0,5,0.0
+2020-2021,Group stage,3,2020-11-04,Chelsea,Rennes,eng,fr,3,0,1.0
+2020-2021,Group stage,3,2020-11-04,Başakşehir,Manchester Utd,tr,eng,2,1,1.0
+2020-2021,Group stage,3,2020-11-04,Zenit,Lazio,ru,it,1,1,0.5
+2020-2021,Group stage,3,2020-11-04,Sevilla,Krasnodar,es,ru,3,2,1.0
+2020-2021,Group stage,3,2020-11-04,Club Brugge,Dortmund,be,de,0,3,0.0
+2020-2021,Group stage,3,2020-11-04,Ferencváros,Juventus,hu,it,1,4,0.0
+2020-2021,Group stage,3,2020-11-04,Barcelona,Dynamo Kyiv,es,ua,2,1,1.0
+2020-2021,Group stage,3,2020-11-04,RB Leipzig,Paris S-G,de,fr,2,1,1.0
+2020-2021,Group stage,4,2020-11-24,Rennes,Chelsea,fr,eng,1,2,0.0
+2020-2021,Group stage,4,2020-11-24,Manchester Utd,Başakşehir,eng,tr,4,1,1.0
+2020-2021,Group stage,4,2020-11-24,Krasnodar,Sevilla,ru,es,1,2,0.0
+2020-2021,Group stage,4,2020-11-24,Lazio,Zenit,it,ru,3,1,1.0
+2020-2021,Group stage,4,2020-11-24,Paris S-G,RB Leipzig,fr,de,1,0,1.0
+2020-2021,Group stage,4,2020-11-24,Dortmund,Club Brugge,de,be,3,0,1.0
+2020-2021,Group stage,4,2020-11-24,Juventus,Ferencváros,it,hu,2,1,1.0
+2020-2021,Group stage,4,2020-11-24,Dynamo Kyiv,Barcelona,ua,es,0,4,0.0
+2020-2021,Group stage,4,2020-11-25,Gladbach,Shakhtar,de,ua,4,0,1.0
+2020-2021,Group stage,4,2020-11-25,Olympiacos,Manchester City,gr,eng,0,1,0.0
+2020-2021,Group stage,4,2020-11-25,Liverpool,Atalanta,eng,it,0,2,0.0
+2020-2021,Group stage,4,2020-11-25,Marseille,Porto,fr,pt,0,2,0.0
+2020-2021,Group stage,4,2020-11-25,Inter,Real Madrid,it,es,0,2,0.0
+2020-2021,Group stage,4,2020-11-25,Ajax,Midtjylland,nl,dk,3,1,1.0
+2020-2021,Group stage,4,2020-11-25,Atlético Madrid,Loko Moscow,es,ru,0,0,0.5
+2020-2021,Group stage,4,2020-11-25,Bayern Munich,RB Salzburg,de,at,3,1,1.0
+2020-2021,Group stage,5,2020-12-01,Shakhtar,Real Madrid,ua,es,2,0,1.0
+2020-2021,Group stage,5,2020-12-01,Liverpool,Ajax,eng,nl,1,0,1.0
+2020-2021,Group stage,5,2020-12-01,Porto,Manchester City,pt,eng,0,0,0.5
+2020-2021,Group stage,5,2020-12-01,Loko Moscow,RB Salzburg,ru,at,1,3,0.0
+2020-2021,Group stage,5,2020-12-01,Marseille,Olympiacos,fr,gr,2,1,1.0
+2020-2021,Group stage,5,2020-12-01,Atalanta,Midtjylland,it,dk,1,1,0.5
+2020-2021,Group stage,5,2020-12-01,Gladbach,Inter,de,it,2,3,0.0
+2020-2021,Group stage,5,2020-12-01,Atlético Madrid,Bayern Munich,es,de,1,1,0.5
+2020-2021,Group stage,5,2020-12-02,Manchester Utd,Paris S-G,eng,fr,1,3,0.0
+2020-2021,Group stage,5,2020-12-02,Krasnodar,Rennes,ru,fr,1,0,1.0
+2020-2021,Group stage,5,2020-12-02,Başakşehir,RB Leipzig,tr,de,3,4,0.0
+2020-2021,Group stage,5,2020-12-02,Club Brugge,Zenit,be,ru,3,0,1.0
+2020-2021,Group stage,5,2020-12-02,Juventus,Dynamo Kyiv,it,ua,3,0,1.0
+2020-2021,Group stage,5,2020-12-02,Dortmund,Lazio,de,it,1,1,0.5
+2020-2021,Group stage,5,2020-12-02,Ferencváros,Barcelona,hu,es,0,3,0.0
+2020-2021,Group stage,5,2020-12-02,Sevilla,Chelsea,es,eng,0,4,0.0
+2020-2021,Group stage,6,2020-12-08,Lazio,Club Brugge,it,be,2,2,0.5
+2020-2021,Group stage,6,2020-12-08,Chelsea,Krasnodar,eng,ru,1,1,0.5
+2020-2021,Group stage,6,2020-12-08,Zenit,Dortmund,ru,de,1,2,0.0
+2020-2021,Group stage,6,2020-12-08,Barcelona,Juventus,es,it,0,3,0.0
+2020-2021,Group stage,6,2020-12-08,Rennes,Sevilla,fr,es,1,3,0.0
+2020-2021,Group stage,6,2020-12-08,RB Leipzig,Manchester Utd,de,eng,3,2,1.0
+2020-2021,Group stage,6,2020-12-08,Dynamo Kyiv,Ferencváros,ua,hu,1,0,1.0
+2020-2021,Group stage,6,2020-12-09,Ajax,Atalanta,nl,it,0,1,0.0
+2020-2021,Group stage,6,2020-12-09,Paris S-G,Başakşehir,fr,tr,5,1,1.0
+2020-2021,Group stage,6,2020-12-09,Midtjylland,Liverpool,dk,eng,1,1,0.5
+2020-2021,Group stage,6,2020-12-09,Manchester City,Marseille,eng,fr,3,0,1.0
+2020-2021,Group stage,6,2020-12-09,Real Madrid,Gladbach,es,de,2,0,1.0
+2020-2021,Group stage,6,2020-12-09,Bayern Munich,Loko Moscow,de,ru,2,0,1.0
+2020-2021,Group stage,6,2020-12-09,RB Salzburg,Atlético Madrid,at,es,0,2,0.0
+2020-2021,Group stage,6,2020-12-09,Inter,Shakhtar,it,ua,0,0,0.5
+2020-2021,Group stage,6,2020-12-09,Olympiacos,Porto,gr,pt,0,2,0.0
+2020-2021,Round of 16,,2021-02-16,Barcelona,Paris S-G,es,fr,1,4,0.0
+2020-2021,Round of 16,,2021-02-16,RB Leipzig,Liverpool,de,eng,0,2,0.0
+2020-2021,Round of 16,,2021-02-17,Porto,Juventus,pt,it,2,1,1.0
+2020-2021,Round of 16,,2021-02-17,Sevilla,Dortmund,es,de,2,3,0.0
+2020-2021,Round of 16,,2021-02-23,Lazio,Bayern Munich,it,de,1,4,0.0
+2020-2021,Round of 16,,2021-02-23,Atlético Madrid,Chelsea,es,eng,0,1,0.0
+2020-2021,Round of 16,,2021-02-24,Gladbach,Manchester City,de,eng,0,2,0.0
+2020-2021,Round of 16,,2021-02-24,Atalanta,Real Madrid,it,es,0,1,0.0
+2020-2021,Round of 16,,2021-03-09,Juventus,Porto,it,pt,3,2,1.0
+2020-2021,Round of 16,,2021-03-09,Dortmund,Sevilla,de,es,2,2,0.5
+2020-2021,Round of 16,,2021-03-10,Liverpool,RB Leipzig,eng,de,2,0,1.0
+2020-2021,Round of 16,,2021-03-10,Paris S-G,Barcelona,fr,es,1,1,0.5
+2020-2021,Round of 16,,2021-03-16,Manchester City,Gladbach,eng,de,2,0,1.0
+2020-2021,Round of 16,,2021-03-16,Real Madrid,Atalanta,es,it,3,1,1.0
+2020-2021,Round of 16,,2021-03-17,Chelsea,Atlético Madrid,eng,es,2,0,1.0
+2020-2021,Round of 16,,2021-03-17,Bayern Munich,Lazio,de,it,2,1,1.0
+2020-2021,Quarter-finals,,2021-04-06,Manchester City,Dortmund,eng,de,2,1,1.0
+2020-2021,Quarter-finals,,2021-04-06,Real Madrid,Liverpool,es,eng,3,1,1.0
+2020-2021,Quarter-finals,,2021-04-07,Porto,Chelsea,pt,eng,0,2,0.0
+2020-2021,Quarter-finals,,2021-04-07,Bayern Munich,Paris S-G,de,fr,2,3,0.0
+2020-2021,Quarter-finals,,2021-04-13,Chelsea,Porto,eng,pt,0,1,0.0
+2020-2021,Quarter-finals,,2021-04-13,Paris S-G,Bayern Munich,fr,de,0,1,0.0
+2020-2021,Quarter-finals,,2021-04-14,Liverpool,Real Madrid,eng,es,0,0,0.5
+2020-2021,Quarter-finals,,2021-04-14,Dortmund,Manchester City,de,eng,1,2,0.0
+2020-2021,Semi-finals,,2021-04-27,Real Madrid,Chelsea,es,eng,1,1,0.5
+2020-2021,Semi-finals,,2021-04-28,Paris S-G,Manchester City,fr,eng,1,2,0.0
+2020-2021,Semi-finals,,2021-05-04,Manchester City,Paris S-G,eng,fr,2,0,1.0
+2020-2021,Semi-finals,,2021-05-05,Chelsea,Real Madrid,eng,es,2,0,1.0
+2020-2021,Final,,2021-05-29,Manchester City,Chelsea,eng,eng,0,1,0.0

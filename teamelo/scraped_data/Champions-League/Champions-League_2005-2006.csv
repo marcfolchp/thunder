@@ -1,0 +1,126 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2005-2006,Group stage,1,2005-09-13,Milan,Fenerbahçe,it,tr,3,1,1.0
+2005-2006,Group stage,1,2005-09-13,Artmedia,Inter,sk,it,0,1,0.0
+2005-2006,Group stage,1,2005-09-13,Lyon,Real Madrid,fr,es,3,0,1.0
+2005-2006,Group stage,1,2005-09-13,Rangers,Porto,sct,pt,3,2,1.0
+2005-2006,Group stage,1,2005-09-13,Olympiacos,Rosenborg,gr,no,1,3,0.0
+2005-2006,Group stage,1,2005-09-13,PSV Eindhoven,Schalke 04,nl,de,1,0,1.0
+2005-2006,Group stage,1,2005-09-13,Betis,Liverpool,es,eng,1,2,0.0
+2005-2006,Group stage,1,2005-09-13,Chelsea,Anderlecht,eng,be,1,0,1.0
+2005-2006,Group stage,1,2005-09-14,Arsenal,Thun,eng,ch,2,1,1.0
+2005-2006,Group stage,1,2005-09-14,Benfica,Lille,pt,fr,1,0,1.0
+2005-2006,Group stage,1,2005-09-14,Sparta Prague,Ajax,cz,nl,1,1,0.5
+2005-2006,Group stage,1,2005-09-14,Villarreal,Manchester Utd,es,eng,0,0,0.5
+2005-2006,Group stage,1,2005-09-14,Rapid Wien,Bayern Munich,at,de,0,1,0.0
+2005-2006,Group stage,1,2005-09-14,Club Brugge,Juventus,be,it,1,2,0.0
+2005-2006,Group stage,1,2005-09-14,Udinese,Panathinaikos,it,gr,3,0,1.0
+2005-2006,Group stage,1,2005-09-14,Werder Bremen,Barcelona,de,es,0,2,0.0
+2005-2006,Group stage,2,2005-09-27,Panathinaikos,Werder Bremen,gr,de,2,1,1.0
+2005-2006,Group stage,2,2005-09-27,Barcelona,Udinese,es,it,4,1,1.0
+2005-2006,Group stage,2,2005-09-27,Thun,Sparta Prague,ch,cz,1,0,1.0
+2005-2006,Group stage,2,2005-09-27,Manchester Utd,Benfica,eng,pt,2,1,1.0
+2005-2006,Group stage,2,2005-09-27,Lille,Villarreal,fr,es,0,0,0.5
+2005-2006,Group stage,2,2005-09-27,Juventus,Rapid Wien,it,at,3,0,1.0
+2005-2006,Group stage,2,2005-09-27,Bayern Munich,Club Brugge,de,be,1,0,1.0
+2005-2006,Group stage,2,2005-09-27,Ajax,Arsenal,nl,eng,1,2,0.0
+2005-2006,Group stage,2,2005-09-28,Fenerbahçe,PSV Eindhoven,tr,nl,3,0,1.0
+2005-2006,Group stage,2,2005-09-28,Liverpool,Chelsea,eng,eng,0,0,0.5
+2005-2006,Group stage,2,2005-09-28,Anderlecht,Betis,be,es,0,1,0.0
+2005-2006,Group stage,2,2005-09-28,Inter,Rangers,it,sct,1,0,1.0
+2005-2006,Group stage,2,2005-09-28,Porto,Artmedia,pt,sk,2,3,0.0
+2005-2006,Group stage,2,2005-09-28,Rosenborg,Lyon,no,fr,0,1,0.0
+2005-2006,Group stage,2,2005-09-28,Schalke 04,Milan,de,it,2,2,0.5
+2005-2006,Group stage,2,2005-09-28,Real Madrid,Olympiacos,es,gr,2,1,1.0
+2005-2006,Group stage,3,2005-10-18,Villarreal,Benfica,es,pt,1,1,0.5
+2005-2006,Group stage,3,2005-10-18,Rapid Wien,Club Brugge,at,be,0,1,0.0
+2005-2006,Group stage,3,2005-10-18,Sparta Prague,Arsenal,cz,eng,0,2,0.0
+2005-2006,Group stage,3,2005-10-18,Panathinaikos,Barcelona,gr,es,0,0,0.5
+2005-2006,Group stage,3,2005-10-18,Manchester Utd,Lille,eng,fr,0,0,0.5
+2005-2006,Group stage,3,2005-10-18,Bayern Munich,Juventus,de,it,2,1,1.0
+2005-2006,Group stage,3,2005-10-18,Ajax,Thun,nl,ch,2,0,1.0
+2005-2006,Group stage,3,2005-10-18,Udinese,Werder Bremen,it,de,1,1,0.5
+2005-2006,Group stage,3,2005-10-19,Real Madrid,Rosenborg,es,no,4,1,1.0
+2005-2006,Group stage,3,2005-10-19,Lyon,Olympiacos,fr,gr,2,1,1.0
+2005-2006,Group stage,3,2005-10-19,Chelsea,Betis,eng,es,4,0,1.0
+2005-2006,Group stage,3,2005-10-19,Rangers,Artmedia,sct,sk,0,0,0.5
+2005-2006,Group stage,3,2005-10-19,Fenerbahçe,Schalke 04,tr,de,3,3,0.5
+2005-2006,Group stage,3,2005-10-19,Milan,PSV Eindhoven,it,nl,0,0,0.5
+2005-2006,Group stage,3,2005-10-19,Porto,Inter,pt,it,2,0,1.0
+2005-2006,Group stage,3,2005-10-19,Anderlecht,Liverpool,be,eng,0,1,0.0
+2005-2006,Group stage,4,2005-11-01,PSV Eindhoven,Milan,nl,it,1,0,1.0
+2005-2006,Group stage,4,2005-11-01,Liverpool,Anderlecht,eng,be,3,0,1.0
+2005-2006,Group stage,4,2005-11-01,Schalke 04,Fenerbahçe,de,tr,2,0,1.0
+2005-2006,Group stage,4,2005-11-01,Olympiacos,Lyon,gr,fr,1,4,0.0
+2005-2006,Group stage,4,2005-11-01,Inter,Porto,it,pt,2,1,1.0
+2005-2006,Group stage,4,2005-11-01,Betis,Chelsea,es,eng,1,0,1.0
+2005-2006,Group stage,4,2005-11-01,Rosenborg,Real Madrid,no,es,0,2,0.0
+2005-2006,Group stage,4,2005-11-01,Artmedia,Rangers,sk,sct,2,2,0.5
+2005-2006,Group stage,4,2005-11-02,Juventus,Bayern Munich,it,de,2,1,1.0
+2005-2006,Group stage,4,2005-11-02,Werder Bremen,Udinese,de,it,4,3,1.0
+2005-2006,Group stage,4,2005-11-02,Club Brugge,Rapid Wien,be,at,3,2,1.0
+2005-2006,Group stage,4,2005-11-02,Benfica,Villarreal,pt,es,0,1,0.0
+2005-2006,Group stage,4,2005-11-02,Barcelona,Panathinaikos,es,gr,5,0,1.0
+2005-2006,Group stage,4,2005-11-02,Lille,Manchester Utd,fr,eng,1,0,1.0
+2005-2006,Group stage,4,2005-11-02,Arsenal,Sparta Prague,eng,cz,3,0,1.0
+2005-2006,Group stage,4,2005-11-02,Thun,Ajax,ch,nl,2,4,0.0
+2005-2006,Group stage,5,2005-11-22,Lille,Benfica,fr,pt,0,0,0.5
+2005-2006,Group stage,5,2005-11-22,Panathinaikos,Udinese,gr,it,1,2,0.0
+2005-2006,Group stage,5,2005-11-22,Manchester Utd,Villarreal,eng,es,0,0,0.5
+2005-2006,Group stage,5,2005-11-22,Bayern Munich,Rapid Wien,de,at,4,0,1.0
+2005-2006,Group stage,5,2005-11-22,Juventus,Club Brugge,it,be,1,0,1.0
+2005-2006,Group stage,5,2005-11-22,Thun,Arsenal,ch,eng,0,1,0.0
+2005-2006,Group stage,5,2005-11-22,Ajax,Sparta Prague,nl,cz,2,1,1.0
+2005-2006,Group stage,5,2005-11-22,Barcelona,Werder Bremen,es,de,3,1,1.0
+2005-2006,Group stage,5,2005-11-23,Liverpool,Betis,eng,es,0,0,0.5
+2005-2006,Group stage,5,2005-11-23,Real Madrid,Lyon,es,fr,1,1,0.5
+2005-2006,Group stage,5,2005-11-23,Rosenborg,Olympiacos,no,gr,1,1,0.5
+2005-2006,Group stage,5,2005-11-23,Anderlecht,Chelsea,be,eng,0,2,0.0
+2005-2006,Group stage,5,2005-11-23,Porto,Rangers,pt,sct,1,1,0.5
+2005-2006,Group stage,5,2005-11-23,Schalke 04,PSV Eindhoven,de,nl,3,0,1.0
+2005-2006,Group stage,5,2005-11-23,Fenerbahçe,Milan,tr,it,0,4,0.0
+2005-2006,Group stage,5,2005-11-23,Inter,Artmedia,it,sk,4,0,1.0
+2005-2006,Group stage,6,2005-12-06,Chelsea,Liverpool,eng,eng,0,0,0.5
+2005-2006,Group stage,6,2005-12-06,Betis,Anderlecht,es,be,0,1,0.0
+2005-2006,Group stage,6,2005-12-06,Lyon,Rosenborg,fr,no,2,1,1.0
+2005-2006,Group stage,6,2005-12-06,Artmedia,Porto,sk,pt,0,0,0.5
+2005-2006,Group stage,6,2005-12-06,Rangers,Inter,sct,it,1,1,0.5
+2005-2006,Group stage,6,2005-12-06,Milan,Schalke 04,it,de,3,2,1.0
+2005-2006,Group stage,6,2005-12-06,Olympiacos,Real Madrid,gr,es,2,1,1.0
+2005-2006,Group stage,6,2005-12-06,PSV Eindhoven,Fenerbahçe,nl,tr,2,0,1.0
+2005-2006,Group stage,6,2005-12-07,Benfica,Manchester Utd,pt,eng,2,1,1.0
+2005-2006,Group stage,6,2005-12-07,Arsenal,Ajax,eng,nl,0,0,0.5
+2005-2006,Group stage,6,2005-12-07,Rapid Wien,Juventus,at,it,1,3,0.0
+2005-2006,Group stage,6,2005-12-07,Werder Bremen,Panathinaikos,de,gr,5,1,1.0
+2005-2006,Group stage,6,2005-12-07,Club Brugge,Bayern Munich,be,de,1,1,0.5
+2005-2006,Group stage,6,2005-12-07,Udinese,Barcelona,it,es,0,2,0.0
+2005-2006,Group stage,6,2005-12-07,Sparta Prague,Thun,cz,ch,0,0,0.5
+2005-2006,Group stage,6,2005-12-07,Villarreal,Lille,es,fr,1,0,1.0
+2005-2006,Round of 16,,2006-02-21,Benfica,Liverpool,pt,eng,1,0,1.0
+2005-2006,Round of 16,,2006-02-21,Real Madrid,Arsenal,es,eng,0,1,0.0
+2005-2006,Round of 16,,2006-02-21,Bayern Munich,Milan,de,it,1,1,0.5
+2005-2006,Round of 16,,2006-02-21,PSV Eindhoven,Lyon,nl,fr,0,1,0.0
+2005-2006,Round of 16,,2006-02-22,Chelsea,Barcelona,eng,es,1,2,0.0
+2005-2006,Round of 16,,2006-02-22,Ajax,Inter,nl,it,2,2,0.5
+2005-2006,Round of 16,,2006-02-22,Rangers,Villarreal,sct,es,2,2,0.5
+2005-2006,Round of 16,,2006-02-22,Werder Bremen,Juventus,de,it,3,2,1.0
+2005-2006,Round of 16,,2006-03-07,Juventus,Werder Bremen,it,de,2,1,1.0
+2005-2006,Round of 16,,2006-03-07,Villarreal,Rangers,es,sct,1,1,0.5
+2005-2006,Round of 16,,2006-03-07,Barcelona,Chelsea,es,eng,1,1,0.5
+2005-2006,Round of 16,,2006-03-08,Milan,Bayern Munich,it,de,4,1,1.0
+2005-2006,Round of 16,,2006-03-08,Lyon,PSV Eindhoven,fr,nl,4,0,1.0
+2005-2006,Round of 16,,2006-03-08,Liverpool,Benfica,eng,pt,0,2,0.0
+2005-2006,Round of 16,,2006-03-08,Arsenal,Real Madrid,eng,es,0,0,0.5
+2005-2006,Round of 16,,2006-03-14,Inter,Ajax,it,nl,1,0,1.0
+2005-2006,Quarter-finals,,2006-03-28,Arsenal,Juventus,eng,it,2,0,1.0
+2005-2006,Quarter-finals,,2006-03-28,Benfica,Barcelona,pt,es,0,0,0.5
+2005-2006,Quarter-finals,,2006-03-29,Lyon,Milan,fr,it,0,0,0.5
+2005-2006,Quarter-finals,,2006-03-29,Inter,Villarreal,it,es,2,1,1.0
+2005-2006,Quarter-finals,,2006-04-04,Villarreal,Inter,es,it,1,0,1.0
+2005-2006,Quarter-finals,,2006-04-04,Milan,Lyon,it,fr,3,1,1.0
+2005-2006,Quarter-finals,,2006-04-05,Juventus,Arsenal,it,eng,0,0,0.5
+2005-2006,Quarter-finals,,2006-04-05,Barcelona,Benfica,es,pt,2,0,1.0
+2005-2006,Semi-finals,,2006-04-18,Milan,Barcelona,it,es,0,1,0.0
+2005-2006,Semi-finals,,2006-04-19,Arsenal,Villarreal,eng,es,1,0,1.0
+2005-2006,Semi-finals,,2006-04-25,Villarreal,Arsenal,es,eng,0,0,0.5
+2005-2006,Semi-finals,,2006-04-26,Barcelona,Milan,es,it,0,0,0.5
+2005-2006,Final,,2006-05-17,Barcelona,Arsenal,es,eng,2,1,1.0

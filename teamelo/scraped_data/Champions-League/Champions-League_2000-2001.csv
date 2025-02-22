@@ -1,0 +1,158 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2000-2001,First group stage,1,2000-09-12,Sporting CP,Real Madrid,pt,es,2,2,0.5
+2000-2001,First group stage,1,2000-09-12,Lyon,Heerenveen,fr,nl,3,1,1.0
+2000-2001,First group stage,1,2000-09-12,Galatasaray,Monaco,tr,fr,3,2,1.0
+2000-2001,First group stage,1,2000-09-12,Rangers,Sturm Graz,sct,at,5,0,1.0
+2000-2001,First group stage,1,2000-09-12,Sparta Prague,Arsenal,cz,eng,0,1,0.0
+2000-2001,First group stage,1,2000-09-12,Valencia,Olympiacos,es,gr,2,1,1.0
+2000-2001,First group stage,1,2000-09-12,Spartak Moscow,Leverkusen,ru,de,2,0,1.0
+2000-2001,First group stage,1,2000-09-12,Shakhtar Donetsk,Lazio,ua,it,0,3,0.0
+2000-2001,First group stage,1,2000-09-13,Manchester Utd,Anderlecht,eng,be,5,1,1.0
+2000-2001,First group stage,1,2000-09-13,Panathinaikos,La Coruña,gr,es,1,1,0.5
+2000-2001,First group stage,1,2000-09-13,Rosenborg,Paris S-G,no,fr,3,1,1.0
+2000-2001,First group stage,1,2000-09-13,Helsingborg,Bayern Munich,se,de,1,3,0.0
+2000-2001,First group stage,1,2000-09-13,Hamburger SV,Juventus,de,it,4,4,0.5
+2000-2001,First group stage,1,2000-09-13,Barcelona,Leeds United,es,eng,4,0,1.0
+2000-2001,First group stage,1,2000-09-13,PSV Eindhoven,Dynamo Kyiv,nl,ua,2,1,1.0
+2000-2001,First group stage,1,2000-09-13,Milan,Beşiktaş,it,tr,4,1,1.0
+2000-2001,First group stage,2,2000-09-19,Bayern Munich,Rosenborg,de,no,3,1,1.0
+2000-2001,First group stage,2,2000-09-19,Paris S-G,Helsingborg,fr,se,4,1,1.0
+2000-2001,First group stage,2,2000-09-19,Beşiktaş,Barcelona,tr,es,3,0,1.0
+2000-2001,First group stage,2,2000-09-19,Dynamo Kyiv,Manchester Utd,ua,eng,0,0,0.5
+2000-2001,First group stage,2,2000-09-19,Juventus,Panathinaikos,it,gr,2,1,1.0
+2000-2001,First group stage,2,2000-09-19,Leeds United,Milan,eng,it,1,0,1.0
+2000-2001,First group stage,2,2000-09-19,Anderlecht,PSV Eindhoven,be,nl,1,0,1.0
+2000-2001,First group stage,2,2000-09-19,La Coruña,Hamburger SV,es,de,2,1,1.0
+2000-2001,First group stage,2,2000-09-20,Sturm Graz,Galatasaray,at,tr,3,0,1.0
+2000-2001,First group stage,2,2000-09-20,Leverkusen,Sporting CP,de,pt,3,2,1.0
+2000-2001,First group stage,2,2000-09-20,Heerenveen,Valencia,nl,es,0,1,0.0
+2000-2001,First group stage,2,2000-09-20,Olympiacos,Lyon,gr,fr,2,1,1.0
+2000-2001,First group stage,2,2000-09-20,Monaco,Rangers,fr,sct,0,1,0.0
+2000-2001,First group stage,2,2000-09-20,Lazio,Sparta Prague,it,cz,3,0,1.0
+2000-2001,First group stage,2,2000-09-20,Real Madrid,Spartak Moscow,es,ru,1,0,1.0
+2000-2001,First group stage,2,2000-09-20,Arsenal,Shakhtar Donetsk,eng,ua,3,2,1.0
+2000-2001,First group stage,3,2000-09-26,Barcelona,Milan,es,it,0,2,0.0
+2000-2001,First group stage,3,2000-09-26,Dynamo Kyiv,Anderlecht,ua,be,4,0,1.0
+2000-2001,First group stage,3,2000-09-26,Juventus,La Coruña,it,es,0,0,0.5
+2000-2001,First group stage,3,2000-09-26,Rosenborg,Helsingborg,no,se,6,1,1.0
+2000-2001,First group stage,3,2000-09-26,Leeds United,Beşiktaş,eng,tr,6,0,1.0
+2000-2001,First group stage,3,2000-09-26,Hamburger SV,Panathinaikos,de,gr,0,1,0.0
+2000-2001,First group stage,3,2000-09-26,PSV Eindhoven,Manchester Utd,nl,eng,3,1,1.0
+2000-2001,First group stage,3,2000-09-26,Paris S-G,Bayern Munich,fr,de,1,0,1.0
+2000-2001,First group stage,3,2000-09-27,Sparta Prague,Shakhtar Donetsk,cz,ua,3,2,1.0
+2000-2001,First group stage,3,2000-09-27,Monaco,Sturm Graz,fr,at,5,0,1.0
+2000-2001,First group stage,3,2000-09-27,Spartak Moscow,Sporting CP,ru,pt,3,1,1.0
+2000-2001,First group stage,3,2000-09-27,Olympiacos,Heerenveen,gr,nl,2,0,1.0
+2000-2001,First group stage,3,2000-09-27,Valencia,Lyon,es,fr,1,0,1.0
+2000-2001,First group stage,3,2000-09-27,Arsenal,Lazio,eng,it,2,0,1.0
+2000-2001,First group stage,3,2000-09-27,Galatasaray,Rangers,tr,sct,3,2,1.0
+2000-2001,First group stage,3,2000-09-27,Leverkusen,Real Madrid,de,es,2,3,0.0
+2000-2001,First group stage,4,2000-10-17,Sporting CP,Spartak Moscow,pt,ru,0,3,0.0
+2000-2001,First group stage,4,2000-10-17,Rangers,Galatasaray,sct,tr,0,0,0.5
+2000-2001,First group stage,4,2000-10-17,Lyon,Valencia,fr,es,1,2,0.0
+2000-2001,First group stage,4,2000-10-17,Heerenveen,Olympiacos,nl,gr,1,0,1.0
+2000-2001,First group stage,4,2000-10-17,Shakhtar Donetsk,Sparta Prague,ua,cz,2,1,1.0
+2000-2001,First group stage,4,2000-10-17,Real Madrid,Leverkusen,es,de,5,3,1.0
+2000-2001,First group stage,4,2000-10-17,Sturm Graz,Monaco,at,fr,2,0,1.0
+2000-2001,First group stage,4,2000-10-17,Lazio,Arsenal,it,eng,1,1,0.5
+2000-2001,First group stage,4,2000-10-18,Manchester Utd,PSV Eindhoven,eng,nl,3,1,1.0
+2000-2001,First group stage,4,2000-10-18,Panathinaikos,Hamburger SV,gr,de,0,0,0.5
+2000-2001,First group stage,4,2000-10-18,La Coruña,Juventus,es,it,1,1,0.5
+2000-2001,First group stage,4,2000-10-18,Helsingborg,Rosenborg,se,no,2,0,1.0
+2000-2001,First group stage,4,2000-10-18,Bayern Munich,Paris S-G,de,fr,2,0,1.0
+2000-2001,First group stage,4,2000-10-18,Anderlecht,Dynamo Kyiv,be,ua,4,2,1.0
+2000-2001,First group stage,4,2000-10-18,Milan,Barcelona,it,es,3,3,0.5
+2000-2001,First group stage,4,2000-10-18,Beşiktaş,Leeds United,tr,eng,0,0,0.5
+2000-2001,First group stage,5,2000-10-24,Beşiktaş,Milan,tr,it,0,2,0.0
+2000-2001,First group stage,5,2000-10-24,Dynamo Kyiv,PSV Eindhoven,ua,nl,0,1,0.0
+2000-2001,First group stage,5,2000-10-24,La Coruña,Panathinaikos,es,gr,1,0,1.0
+2000-2001,First group stage,5,2000-10-24,Paris S-G,Rosenborg,fr,no,7,2,1.0
+2000-2001,First group stage,5,2000-10-24,Juventus,Hamburger SV,it,de,1,3,0.0
+2000-2001,First group stage,5,2000-10-24,Leeds United,Barcelona,eng,es,1,1,0.5
+2000-2001,First group stage,5,2000-10-24,Anderlecht,Manchester Utd,be,eng,2,1,1.0
+2000-2001,First group stage,5,2000-10-24,Bayern Munich,Helsingborg,de,se,0,0,0.5
+2000-2001,First group stage,5,2000-10-25,Leverkusen,Spartak Moscow,de,ru,1,0,1.0
+2000-2001,First group stage,5,2000-10-25,Sturm Graz,Rangers,at,sct,2,0,1.0
+2000-2001,First group stage,5,2000-10-25,Arsenal,Sparta Prague,eng,cz,4,2,1.0
+2000-2001,First group stage,5,2000-10-25,Lazio,Shakhtar Donetsk,it,ua,5,1,1.0
+2000-2001,First group stage,5,2000-10-25,Olympiacos,Valencia,gr,es,1,0,1.0
+2000-2001,First group stage,5,2000-10-25,Real Madrid,Sporting CP,es,pt,4,0,1.0
+2000-2001,First group stage,5,2000-10-25,Heerenveen,Lyon,nl,fr,0,2,0.0
+2000-2001,First group stage,5,2000-10-25,Monaco,Galatasaray,fr,tr,4,2,1.0
+2000-2001,First group stage,6,2000-11-07,Rangers,Monaco,sct,fr,2,2,0.5
+2000-2001,First group stage,6,2000-11-07,Shakhtar Donetsk,Arsenal,ua,eng,3,0,1.0
+2000-2001,First group stage,6,2000-11-07,Sparta Prague,Lazio,cz,it,0,1,0.0
+2000-2001,First group stage,6,2000-11-07,Sporting CP,Leverkusen,pt,de,0,0,0.5
+2000-2001,First group stage,6,2000-11-07,Spartak Moscow,Real Madrid,ru,es,1,0,1.0
+2000-2001,First group stage,6,2000-11-07,Lyon,Olympiacos,fr,gr,1,0,1.0
+2000-2001,First group stage,6,2000-11-07,Valencia,Heerenveen,es,nl,1,1,0.5
+2000-2001,First group stage,6,2000-11-07,Galatasaray,Sturm Graz,tr,at,2,2,0.5
+2000-2001,First group stage,6,2000-11-08,Helsingborg,Paris S-G,se,fr,1,1,0.5
+2000-2001,First group stage,6,2000-11-08,PSV Eindhoven,Anderlecht,nl,be,2,3,0.0
+2000-2001,First group stage,6,2000-11-08,Manchester Utd,Dynamo Kyiv,eng,ua,1,0,1.0
+2000-2001,First group stage,6,2000-11-08,Hamburger SV,La Coruña,de,es,1,1,0.5
+2000-2001,First group stage,6,2000-11-08,Rosenborg,Bayern Munich,no,de,1,1,0.5
+2000-2001,First group stage,6,2000-11-08,Barcelona,Beşiktaş,es,tr,5,0,1.0
+2000-2001,First group stage,6,2000-11-08,Milan,Leeds United,it,eng,1,1,0.5
+2000-2001,First group stage,6,2000-11-08,Panathinaikos,Juventus,gr,it,3,1,1.0
+2000-2001,Second group stage,7,2000-11-21,Milan,Galatasaray,it,tr,2,2,0.5
+2000-2001,Second group stage,7,2000-11-21,Manchester Utd,Panathinaikos,eng,gr,3,1,1.0
+2000-2001,Second group stage,7,2000-11-21,Paris S-G,La Coruña,fr,es,1,3,0.0
+2000-2001,Second group stage,7,2000-11-21,Valencia,Sturm Graz,es,at,2,0,1.0
+2000-2001,Second group stage,7,2000-11-22,Leeds United,Real Madrid,eng,es,0,2,0.0
+2000-2001,Second group stage,7,2000-11-22,Anderlecht,Lazio,be,it,1,0,1.0
+2000-2001,Second group stage,7,2000-11-22,Spartak Moscow,Arsenal,ru,eng,4,1,1.0
+2000-2001,Second group stage,7,2000-11-22,Bayern Munich,Lyon,de,fr,1,0,1.0
+2000-2001,Second group stage,8,2000-12-05,Lyon,Spartak Moscow,fr,ru,3,0,1.0
+2000-2001,Second group stage,8,2000-12-05,Arsenal,Bayern Munich,eng,de,2,2,0.5
+2000-2001,Second group stage,8,2000-12-05,Real Madrid,Anderlecht,es,be,4,1,1.0
+2000-2001,Second group stage,8,2000-12-05,Lazio,Leeds United,it,eng,0,1,0.0
+2000-2001,Second group stage,8,2000-12-06,Galatasaray,Paris S-G,tr,fr,1,0,1.0
+2000-2001,Second group stage,8,2000-12-06,Panathinaikos,Valencia,gr,es,0,0,0.5
+2000-2001,Second group stage,8,2000-12-06,La Coruña,Milan,es,it,0,1,0.0
+2000-2001,Second group stage,8,2000-12-06,Sturm Graz,Manchester Utd,at,eng,0,2,0.0
+2000-2001,Second group stage,9,2001-02-13,Lyon,Arsenal,fr,eng,0,1,0.0
+2000-2001,Second group stage,9,2001-02-13,Leeds United,Anderlecht,eng,be,2,1,1.0
+2000-2001,Second group stage,9,2001-02-13,Real Madrid,Lazio,es,it,3,2,1.0
+2000-2001,Second group stage,9,2001-02-13,Bayern Munich,Spartak Moscow,de,ru,1,0,1.0
+2000-2001,Second group stage,9,2001-02-14,Valencia,Manchester Utd,es,eng,0,0,0.5
+2000-2001,Second group stage,9,2001-02-14,Milan,Paris S-G,it,fr,1,1,0.5
+2000-2001,Second group stage,9,2001-02-14,Galatasaray,La Coruña,tr,es,1,0,1.0
+2000-2001,Second group stage,9,2001-02-14,Sturm Graz,Panathinaikos,at,gr,2,0,1.0
+2000-2001,Second group stage,10,2001-02-20,Panathinaikos,Sturm Graz,gr,at,1,2,0.0
+2000-2001,Second group stage,10,2001-02-20,La Coruña,Galatasaray,es,tr,2,0,1.0
+2000-2001,Second group stage,10,2001-02-20,Paris S-G,Milan,fr,it,1,1,0.5
+2000-2001,Second group stage,10,2001-02-20,Manchester Utd,Valencia,eng,es,1,1,0.5
+2000-2001,Second group stage,10,2001-02-21,Spartak Moscow,Bayern Munich,ru,de,0,3,0.0
+2000-2001,Second group stage,10,2001-02-21,Anderlecht,Leeds United,be,eng,1,4,0.0
+2000-2001,Second group stage,10,2001-02-21,Arsenal,Lyon,eng,fr,1,1,0.5
+2000-2001,Second group stage,10,2001-02-21,Lazio,Real Madrid,it,es,2,2,0.5
+2000-2001,Second group stage,11,2001-03-06,Arsenal,Spartak Moscow,eng,ru,1,0,1.0
+2000-2001,Second group stage,11,2001-03-06,Lazio,Anderlecht,it,be,2,1,1.0
+2000-2001,Second group stage,11,2001-03-06,Real Madrid,Leeds United,es,eng,3,2,1.0
+2000-2001,Second group stage,11,2001-03-06,Lyon,Bayern Munich,fr,de,3,0,1.0
+2000-2001,Second group stage,11,2001-03-07,La Coruña,Paris S-G,es,fr,4,3,1.0
+2000-2001,Second group stage,11,2001-03-07,Sturm Graz,Valencia,at,es,0,5,0.0
+2000-2001,Second group stage,11,2001-03-07,Galatasaray,Milan,tr,it,2,0,1.0
+2000-2001,Second group stage,11,2001-03-07,Panathinaikos,Manchester Utd,gr,eng,1,1,0.5
+2000-2001,Second group stage,12,2001-03-13,Valencia,Panathinaikos,es,gr,2,1,1.0
+2000-2001,Second group stage,12,2001-03-13,Manchester Utd,Sturm Graz,eng,at,3,0,1.0
+2000-2001,Second group stage,12,2001-03-13,Paris S-G,Galatasaray,fr,tr,2,0,1.0
+2000-2001,Second group stage,12,2001-03-13,Milan,La Coruña,it,es,1,1,0.5
+2000-2001,Second group stage,12,2001-03-14,Spartak Moscow,Lyon,ru,fr,1,1,0.5
+2000-2001,Second group stage,12,2001-03-14,Leeds United,Lazio,eng,it,3,3,0.5
+2000-2001,Second group stage,12,2001-03-14,Anderlecht,Real Madrid,be,es,2,0,1.0
+2000-2001,Second group stage,12,2001-03-14,Bayern Munich,Arsenal,de,eng,1,0,1.0
+2000-2001,Quarter-finals,,2001-04-03,Galatasaray,Real Madrid,tr,es,3,2,1.0
+2000-2001,Quarter-finals,,2001-04-03,Manchester Utd,Bayern Munich,eng,de,0,1,0.0
+2000-2001,Quarter-finals,,2001-04-04,Arsenal,Valencia,eng,es,2,1,1.0
+2000-2001,Quarter-finals,,2001-04-04,Leeds United,La Coruña,eng,es,3,0,1.0
+2000-2001,Quarter-finals,,2001-04-17,Valencia,Arsenal,es,eng,1,0,1.0
+2000-2001,Quarter-finals,,2001-04-17,La Coruña,Leeds United,es,eng,2,0,1.0
+2000-2001,Quarter-finals,,2001-04-18,Real Madrid,Galatasaray,es,tr,3,0,1.0
+2000-2001,Quarter-finals,,2001-04-18,Bayern Munich,Manchester Utd,de,eng,2,1,1.0
+2000-2001,Semi-finals,,2001-05-01,Real Madrid,Bayern Munich,es,de,0,1,0.0
+2000-2001,Semi-finals,,2001-05-02,Leeds United,Valencia,eng,es,0,0,0.5
+2000-2001,Semi-finals,,2001-05-08,Valencia,Leeds United,es,eng,3,0,1.0
+2000-2001,Semi-finals,,2001-05-09,Bayern Munich,Real Madrid,de,es,2,1,1.0
+2000-2001,Final,,2001-05-23,Bayern Munich,Valencia,de,es,1,1,0.5

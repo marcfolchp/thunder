@@ -1,0 +1,126 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2006-2007,Group stage,1,2006-09-12,Roma,Shakhtar,it,ua,4.0,0.0,1.0
+2006-2007,Group stage,1,2006-09-12,Olympiacos,Valencia,gr,es,2.0,4.0,0.0
+2006-2007,Group stage,1,2006-09-12,Sporting CP,Inter,pt,it,1.0,0.0,1.0
+2006-2007,Group stage,1,2006-09-12,Barcelona,Levski Sofia,es,bg,5.0,0.0,1.0
+2006-2007,Group stage,1,2006-09-12,Galatasaray,Bordeaux,tr,fr,0.0,0.0,0.5
+2006-2007,Group stage,1,2006-09-12,PSV Eindhoven,Liverpool,nl,eng,0.0,0.0,0.5
+2006-2007,Group stage,1,2006-09-12,Bayern Munich,Spartak Moscow,de,ru,4.0,0.0,1.0
+2006-2007,Group stage,1,2006-09-12,Chelsea,Werder Bremen,eng,de,2.0,0.0,1.0
+2006-2007,Group stage,1,2006-09-13,Porto,CSKA Moscow,pt,ru,0.0,0.0,0.5
+2006-2007,Group stage,1,2006-09-13,FC Copenhagen,Benfica,dk,pt,0.0,0.0,0.5
+2006-2007,Group stage,1,2006-09-13,Anderlecht,Lille,be,fr,1.0,1.0,0.5
+2006-2007,Group stage,1,2006-09-13,Hamburger SV,Arsenal,de,eng,1.0,2.0,0.0
+2006-2007,Group stage,1,2006-09-13,Dynamo Kyiv,Steaua,ua,ro,1.0,4.0,0.0
+2006-2007,Group stage,1,2006-09-13,Lyon,Real Madrid,fr,es,2.0,0.0,1.0
+2006-2007,Group stage,1,2006-09-13,Manchester Utd,Celtic,eng,sct,3.0,2.0,1.0
+2006-2007,Group stage,1,2006-09-13,Milan,AEK Athens,it,gr,3.0,0.0,1.0
+2006-2007,Group stage,2,2006-09-26,Steaua,Lyon,ro,fr,0.0,3.0,0.0
+2006-2007,Group stage,2,2006-09-26,AEK Athens,Anderlecht,gr,be,1.0,1.0,0.5
+2006-2007,Group stage,2,2006-09-26,Real Madrid,Dynamo Kyiv,es,ua,5.0,1.0,1.0
+2006-2007,Group stage,2,2006-09-26,Celtic,FC Copenhagen,sct,dk,1.0,0.0,1.0
+2006-2007,Group stage,2,2006-09-26,Arsenal,Porto,eng,pt,2.0,0.0,1.0
+2006-2007,Group stage,2,2006-09-26,CSKA Moscow,Hamburger SV,ru,de,1.0,0.0,1.0
+2006-2007,Group stage,2,2006-09-26,Benfica,Manchester Utd,pt,eng,0.0,1.0,0.0
+2006-2007,Group stage,2,2006-09-26,Lille,Milan,fr,it,0.0,0.0,0.5
+2006-2007,Group stage,2,2006-09-27,Bordeaux,PSV Eindhoven,fr,nl,0.0,1.0,0.0
+2006-2007,Group stage,2,2006-09-27,Inter,Bayern Munich,it,de,0.0,2.0,0.0
+2006-2007,Group stage,2,2006-09-27,Levski Sofia,Chelsea,bg,eng,1.0,3.0,0.0
+2006-2007,Group stage,2,2006-09-27,Valencia,Roma,es,it,2.0,1.0,1.0
+2006-2007,Group stage,2,2006-09-27,Liverpool,Galatasaray,eng,tr,3.0,2.0,1.0
+2006-2007,Group stage,2,2006-09-27,Werder Bremen,Barcelona,de,es,1.0,1.0,0.5
+2006-2007,Group stage,2,2006-09-27,Shakhtar,Olympiacos,ua,gr,2.0,2.0,0.5
+2006-2007,Group stage,2,2006-09-27,Spartak Moscow,Sporting CP,ru,pt,1.0,1.0,0.5
+2006-2007,Group stage,3,2006-10-17,Manchester Utd,FC Copenhagen,eng,dk,3.0,0.0,1.0
+2006-2007,Group stage,3,2006-10-17,Anderlecht,Milan,be,it,0.0,1.0,0.0
+2006-2007,Group stage,3,2006-10-17,CSKA Moscow,Arsenal,ru,eng,1.0,0.0,1.0
+2006-2007,Group stage,3,2006-10-17,Celtic,Benfica,sct,pt,3.0,0.0,1.0
+2006-2007,Group stage,3,2006-10-17,Porto,Hamburger SV,pt,de,4.0,1.0,1.0
+2006-2007,Group stage,3,2006-10-17,Steaua,Real Madrid,ro,es,1.0,4.0,0.0
+2006-2007,Group stage,3,2006-10-17,Dynamo Kyiv,Lyon,ua,fr,0.0,3.0,0.0
+2006-2007,Group stage,3,2006-10-17,Lille,AEK Athens,fr,gr,3.0,1.0,1.0
+2006-2007,Group stage,3,2006-10-18,Bordeaux,Liverpool,fr,eng,0.0,1.0,0.0
+2006-2007,Group stage,3,2006-10-18,Werder Bremen,Levski Sofia,de,bg,2.0,0.0,1.0
+2006-2007,Group stage,3,2006-10-18,Chelsea,Barcelona,eng,es,1.0,0.0,1.0
+2006-2007,Group stage,3,2006-10-18,Galatasaray,PSV Eindhoven,tr,nl,1.0,2.0,0.0
+2006-2007,Group stage,3,2006-10-18,Valencia,Shakhtar,es,ua,2.0,0.0,1.0
+2006-2007,Group stage,3,2006-10-18,Sporting CP,Bayern Munich,pt,de,0.0,1.0,0.0
+2006-2007,Group stage,3,2006-10-18,Inter,Spartak Moscow,it,ru,2.0,1.0,1.0
+2006-2007,Group stage,3,2006-10-18,Olympiacos,Roma,gr,it,0.0,1.0,0.0
+2006-2007,Group stage,4,2006-10-31,Bayern Munich,Sporting CP,de,pt,0.0,0.0,0.5
+2006-2007,Group stage,4,2006-10-31,Roma,Olympiacos,it,gr,1.0,1.0,0.5
+2006-2007,Group stage,4,2006-10-31,Levski Sofia,Werder Bremen,bg,de,0.0,3.0,0.0
+2006-2007,Group stage,4,2006-10-31,Liverpool,Bordeaux,eng,fr,3.0,0.0,1.0
+2006-2007,Group stage,4,2006-10-31,Spartak Moscow,Inter,ru,it,0.0,1.0,0.0
+2006-2007,Group stage,4,2006-10-31,PSV Eindhoven,Galatasaray,nl,tr,2.0,0.0,1.0
+2006-2007,Group stage,4,2006-10-31,Barcelona,Chelsea,es,eng,2.0,2.0,0.5
+2006-2007,Group stage,4,2006-10-31,Shakhtar,Valencia,ua,es,2.0,2.0,0.5
+2006-2007,Group stage,4,2006-11-01,Milan,Anderlecht,it,be,4.0,1.0,1.0
+2006-2007,Group stage,4,2006-11-01,Real Madrid,Steaua,es,ro,1.0,0.0,1.0
+2006-2007,Group stage,4,2006-11-01,FC Copenhagen,Manchester Utd,dk,eng,1.0,0.0,1.0
+2006-2007,Group stage,4,2006-11-01,Hamburger SV,Porto,de,pt,1.0,3.0,0.0
+2006-2007,Group stage,4,2006-11-01,Arsenal,CSKA Moscow,eng,ru,0.0,0.0,0.5
+2006-2007,Group stage,4,2006-11-01,Lyon,Dynamo Kyiv,fr,ua,1.0,0.0,1.0
+2006-2007,Group stage,4,2006-11-01,Benfica,Celtic,pt,sct,3.0,0.0,1.0
+2006-2007,Group stage,4,2006-11-01,AEK Athens,Lille,gr,fr,1.0,0.0,1.0
+2006-2007,Group stage,5,2006-11-21,CSKA Moscow,Porto,ru,pt,0.0,2.0,0.0
+2006-2007,Group stage,5,2006-11-21,Lille,Anderlecht,fr,be,2.0,2.0,0.5
+2006-2007,Group stage,5,2006-11-21,Arsenal,Hamburger SV,eng,de,3.0,1.0,1.0
+2006-2007,Group stage,5,2006-11-21,AEK Athens,Milan,gr,it,1.0,0.0,1.0
+2006-2007,Group stage,5,2006-11-21,Celtic,Manchester Utd,sct,eng,1.0,0.0,1.0
+2006-2007,Group stage,5,2006-11-21,Real Madrid,Lyon,es,fr,2.0,2.0,0.5
+2006-2007,Group stage,5,2006-11-21,Steaua,Dynamo Kyiv,ro,ua,1.0,1.0,0.5
+2006-2007,Group stage,5,2006-11-21,Benfica,FC Copenhagen,pt,dk,3.0,1.0,1.0
+2006-2007,Group stage,5,2006-11-22,Bordeaux,Galatasaray,fr,tr,3.0,1.0,1.0
+2006-2007,Group stage,5,2006-11-22,Werder Bremen,Chelsea,de,eng,1.0,0.0,1.0
+2006-2007,Group stage,5,2006-11-22,Levski Sofia,Barcelona,bg,es,0.0,2.0,0.0
+2006-2007,Group stage,5,2006-11-22,Valencia,Olympiacos,es,gr,2.0,0.0,1.0
+2006-2007,Group stage,5,2006-11-22,Shakhtar,Roma,ua,it,1.0,0.0,1.0
+2006-2007,Group stage,5,2006-11-22,Inter,Sporting CP,it,pt,1.0,0.0,1.0
+2006-2007,Group stage,5,2006-11-22,Liverpool,PSV Eindhoven,eng,nl,2.0,0.0,1.0
+2006-2007,Group stage,5,2006-11-22,Spartak Moscow,Bayern Munich,ru,de,2.0,2.0,0.5
+2006-2007,Group stage,6,2006-12-05,Olympiacos,Shakhtar,gr,ua,1.0,1.0,0.5
+2006-2007,Group stage,6,2006-12-05,Bayern Munich,Inter,de,it,1.0,1.0,0.5
+2006-2007,Group stage,6,2006-12-05,PSV Eindhoven,Bordeaux,nl,fr,1.0,3.0,0.0
+2006-2007,Group stage,6,2006-12-05,Galatasaray,Liverpool,tr,eng,3.0,2.0,1.0
+2006-2007,Group stage,6,2006-12-05,Chelsea,Levski Sofia,eng,bg,2.0,0.0,1.0
+2006-2007,Group stage,6,2006-12-05,Roma,Valencia,it,es,1.0,0.0,1.0
+2006-2007,Group stage,6,2006-12-05,Barcelona,Werder Bremen,es,de,2.0,0.0,1.0
+2006-2007,Group stage,6,2006-12-05,Sporting CP,Spartak Moscow,pt,ru,1.0,3.0,0.0
+2006-2007,Group stage,6,2006-12-06,Milan,Lille,it,fr,0.0,2.0,0.0
+2006-2007,Group stage,6,2006-12-06,Anderlecht,AEK Athens,be,gr,2.0,2.0,0.5
+2006-2007,Group stage,6,2006-12-06,Manchester Utd,Benfica,eng,pt,3.0,1.0,1.0
+2006-2007,Group stage,6,2006-12-06,FC Copenhagen,Celtic,dk,sct,3.0,1.0,1.0
+2006-2007,Group stage,6,2006-12-06,Dynamo Kyiv,Real Madrid,ua,es,2.0,2.0,0.5
+2006-2007,Group stage,6,2006-12-06,Hamburger SV,CSKA Moscow,de,ru,3.0,2.0,1.0
+2006-2007,Group stage,6,2006-12-06,Lyon,Steaua,fr,ro,1.0,1.0,0.5
+2006-2007,Group stage,6,2006-12-06,Porto,Arsenal,pt,eng,0.0,0.0,0.5
+2006-2007,Round of 16,,2007-02-20,Lille,Manchester Utd,fr,eng,0.0,1.0,0.0
+2006-2007,Round of 16,,2007-02-20,Real Madrid,Bayern Munich,es,de,3.0,2.0,1.0
+2006-2007,Round of 16,,2007-02-20,Celtic,Milan,sct,it,0.0,0.0,0.5
+2006-2007,Round of 16,,2007-02-20,PSV Eindhoven,Arsenal,nl,eng,1.0,0.0,1.0
+2006-2007,Round of 16,,2007-02-21,Porto,Chelsea,pt,eng,1.0,1.0,0.5
+2006-2007,Round of 16,,2007-02-21,Barcelona,Liverpool,es,eng,1.0,2.0,0.0
+2006-2007,Round of 16,,2007-02-21,Roma,Lyon,it,fr,0.0,0.0,0.5
+2006-2007,Round of 16,,2007-02-21,Inter,Valencia,it,es,2.0,2.0,0.5
+2006-2007,Round of 16,,2007-03-06,Valencia,Inter,es,it,0.0,0.0,0.5
+2006-2007,Round of 16,,2007-03-06,Lyon,Roma,fr,it,0.0,2.0,0.0
+2006-2007,Round of 16,,2007-03-06,Liverpool,Barcelona,eng,es,0.0,1.0,0.0
+2006-2007,Round of 16,,2007-03-06,Chelsea,Porto,eng,pt,2.0,1.0,1.0
+2006-2007,Round of 16,,2007-03-07,Milan,Celtic,it,sct,1.0,0.0,1.0
+2006-2007,Round of 16,,2007-03-07,Manchester Utd,Lille,eng,fr,1.0,0.0,1.0
+2006-2007,Round of 16,,2007-03-07,Bayern Munich,Real Madrid,de,es,2.0,1.0,1.0
+2006-2007,Round of 16,,2007-03-07,Arsenal,PSV Eindhoven,eng,nl,1.0,1.0,0.5
+2006-2007,Quarter-finals,,2007-04-03,PSV Eindhoven,Liverpool,nl,eng,0.0,3.0,0.0
+2006-2007,Quarter-finals,,2007-04-03,Milan,Bayern Munich,it,de,2.0,2.0,0.5
+2006-2007,Quarter-finals,,2007-04-04,Roma,Manchester Utd,it,eng,2.0,1.0,1.0
+2006-2007,Quarter-finals,,2007-04-04,Chelsea,Valencia,eng,es,1.0,1.0,0.5
+2006-2007,Quarter-finals,,2007-04-10,Manchester Utd,Roma,eng,it,7.0,1.0,1.0
+2006-2007,Quarter-finals,,2007-04-10,Valencia,Chelsea,es,eng,1.0,2.0,0.0
+2006-2007,Quarter-finals,,2007-04-11,Liverpool,PSV Eindhoven,eng,nl,1.0,0.0,1.0
+2006-2007,Quarter-finals,,2007-04-11,Bayern Munich,Milan,de,it,0.0,2.0,0.0
+2006-2007,Semi-finals,,2007-04-24,Manchester Utd,Milan,eng,it,3.0,2.0,1.0
+2006-2007,Semi-finals,,2007-04-25,Chelsea,Liverpool,eng,eng,1.0,0.0,1.0
+2006-2007,Semi-finals,,2007-05-01,Liverpool,Chelsea,eng,eng,,,0.5
+2006-2007,Semi-finals,,2007-05-02,Milan,Manchester Utd,it,eng,3.0,0.0,1.0
+2006-2007,Final,,2007-05-23,Milan,Liverpool,it,eng,2.0,1.0,1.0

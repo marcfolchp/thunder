@@ -1,0 +1,126 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2010-2011,Group stage,1,2010-09-14,Lyon,Schalke 04,fr,de,1,0,1.0
+2010-2011,Group stage,1,2010-09-14,Manchester Utd,Rangers,eng,sct,0,0,0.5
+2010-2011,Group stage,1,2010-09-14,Bursaspor,Valencia,tr,es,0,4,0.0
+2010-2011,Group stage,1,2010-09-14,Benfica,Hapoel Tel Aviv,pt,il,2,0,1.0
+2010-2011,Group stage,1,2010-09-14,FC Copenhagen,Rubin Kazan,dk,ru,1,0,1.0
+2010-2011,Group stage,1,2010-09-14,Barcelona,Panathinaikos,es,gr,5,1,1.0
+2010-2011,Group stage,1,2010-09-14,Twente,Inter,nl,it,2,2,0.5
+2010-2011,Group stage,1,2010-09-14,Werder Bremen,Tottenham,de,eng,2,2,0.5
+2010-2011,Group stage,1,2010-09-15,Arsenal,Braga,eng,pt,6,0,1.0
+2010-2011,Group stage,1,2010-09-15,Real Madrid,Ajax,es,nl,2,0,1.0
+2010-2011,Group stage,1,2010-09-15,Shakhtar,Partizan,ua,rs,1,0,1.0
+2010-2011,Group stage,1,2010-09-15,MŠK Žilina,Chelsea,sk,eng,1,4,0.0
+2010-2011,Group stage,1,2010-09-15,Marseille,Spartak Moscow,fr,ru,0,1,0.0
+2010-2011,Group stage,1,2010-09-15,Bayern Munich,Roma,de,it,2,0,1.0
+2010-2011,Group stage,1,2010-09-15,Milan,Auxerre,it,fr,2,0,1.0
+2010-2011,Group stage,1,2010-09-15,CFR Cluj,Basel,ro,ch,2,1,1.0
+2010-2011,Group stage,2,2010-09-28,Basel,Bayern Munich,ch,de,1,2,0.0
+2010-2011,Group stage,2,2010-09-28,Chelsea,Marseille,eng,fr,2,0,1.0
+2010-2011,Group stage,2,2010-09-28,Braga,Shakhtar,pt,ua,0,3,0.0
+2010-2011,Group stage,2,2010-09-28,Ajax,Milan,nl,it,1,1,0.5
+2010-2011,Group stage,2,2010-09-28,Spartak Moscow,MŠK Žilina,ru,sk,3,0,1.0
+2010-2011,Group stage,2,2010-09-28,Auxerre,Real Madrid,fr,es,0,1,0.0
+2010-2011,Group stage,2,2010-09-28,Partizan,Arsenal,rs,eng,1,3,0.0
+2010-2011,Group stage,2,2010-09-28,Roma,CFR Cluj,it,ro,2,1,1.0
+2010-2011,Group stage,2,2010-09-29,Hapoel Tel Aviv,Lyon,il,fr,1,3,0.0
+2010-2011,Group stage,2,2010-09-29,Rubin Kazan,Barcelona,ru,es,1,1,0.5
+2010-2011,Group stage,2,2010-09-29,Rangers,Bursaspor,sct,tr,1,0,1.0
+2010-2011,Group stage,2,2010-09-29,Panathinaikos,FC Copenhagen,gr,dk,0,2,0.0
+2010-2011,Group stage,2,2010-09-29,Tottenham,Twente,eng,nl,4,1,1.0
+2010-2011,Group stage,2,2010-09-29,Inter,Werder Bremen,it,de,4,0,1.0
+2010-2011,Group stage,2,2010-09-29,Schalke 04,Benfica,de,pt,2,0,1.0
+2010-2011,Group stage,2,2010-09-29,Valencia,Manchester Utd,es,eng,0,1,0.0
+2010-2011,Group stage,3,2010-10-19,Arsenal,Shakhtar,eng,ua,5,1,1.0
+2010-2011,Group stage,3,2010-10-19,Marseille,MŠK Žilina,fr,sk,1,0,1.0
+2010-2011,Group stage,3,2010-10-19,Real Madrid,Milan,es,it,2,0,1.0
+2010-2011,Group stage,3,2010-10-19,Spartak Moscow,Chelsea,ru,eng,0,2,0.0
+2010-2011,Group stage,3,2010-10-19,Braga,Partizan,pt,rs,2,0,1.0
+2010-2011,Group stage,3,2010-10-19,Ajax,Auxerre,nl,fr,2,1,1.0
+2010-2011,Group stage,3,2010-10-19,Roma,Basel,it,ch,1,3,0.0
+2010-2011,Group stage,3,2010-10-19,Bayern Munich,CFR Cluj,de,ro,3,2,1.0
+2010-2011,Group stage,3,2010-10-20,Barcelona,FC Copenhagen,es,dk,2,0,1.0
+2010-2011,Group stage,3,2010-10-20,Lyon,Benfica,fr,pt,2,0,1.0
+2010-2011,Group stage,3,2010-10-20,Schalke 04,Hapoel Tel Aviv,de,il,3,1,1.0
+2010-2011,Group stage,3,2010-10-20,Inter,Tottenham,it,eng,4,3,1.0
+2010-2011,Group stage,3,2010-10-20,Manchester Utd,Bursaspor,eng,tr,1,0,1.0
+2010-2011,Group stage,3,2010-10-20,Panathinaikos,Rubin Kazan,gr,ru,0,0,0.5
+2010-2011,Group stage,3,2010-10-20,Twente,Werder Bremen,nl,de,1,1,0.5
+2010-2011,Group stage,3,2010-10-20,Rangers,Valencia,sct,es,1,1,0.5
+2010-2011,Group stage,4,2010-11-02,Bursaspor,Manchester Utd,tr,eng,0,3,0.0
+2010-2011,Group stage,4,2010-11-02,Rubin Kazan,Panathinaikos,ru,gr,0,0,0.5
+2010-2011,Group stage,4,2010-11-02,Werder Bremen,Twente,de,nl,0,2,0.0
+2010-2011,Group stage,4,2010-11-02,FC Copenhagen,Barcelona,dk,es,1,1,0.5
+2010-2011,Group stage,4,2010-11-02,Hapoel Tel Aviv,Schalke 04,il,de,0,0,0.5
+2010-2011,Group stage,4,2010-11-02,Valencia,Rangers,es,sct,3,0,1.0
+2010-2011,Group stage,4,2010-11-02,Tottenham,Inter,eng,it,3,1,1.0
+2010-2011,Group stage,4,2010-11-02,Benfica,Lyon,pt,fr,4,3,1.0
+2010-2011,Group stage,4,2010-11-03,MŠK Žilina,Marseille,sk,fr,0,7,0.0
+2010-2011,Group stage,4,2010-11-03,Chelsea,Spartak Moscow,eng,ru,4,1,1.0
+2010-2011,Group stage,4,2010-11-03,Shakhtar,Arsenal,ua,eng,2,1,1.0
+2010-2011,Group stage,4,2010-11-03,Milan,Real Madrid,it,es,2,2,0.5
+2010-2011,Group stage,4,2010-11-03,Partizan,Braga,rs,pt,0,1,0.0
+2010-2011,Group stage,4,2010-11-03,Auxerre,Ajax,fr,nl,2,1,1.0
+2010-2011,Group stage,4,2010-11-03,CFR Cluj,Bayern Munich,ro,de,0,4,0.0
+2010-2011,Group stage,4,2010-11-03,Basel,Roma,ch,it,2,3,0.0
+2010-2011,Group stage,5,2010-11-23,Auxerre,Milan,fr,it,0,2,0.0
+2010-2011,Group stage,5,2010-11-23,Roma,Bayern Munich,it,de,3,2,1.0
+2010-2011,Group stage,5,2010-11-23,Chelsea,MŠK Žilina,eng,sk,2,1,1.0
+2010-2011,Group stage,5,2010-11-23,Braga,Arsenal,pt,eng,2,0,1.0
+2010-2011,Group stage,5,2010-11-23,Partizan,Shakhtar,rs,ua,0,3,0.0
+2010-2011,Group stage,5,2010-11-23,Spartak Moscow,Marseille,ru,fr,0,3,0.0
+2010-2011,Group stage,5,2010-11-23,Basel,CFR Cluj,ch,ro,1,0,1.0
+2010-2011,Group stage,5,2010-11-23,Ajax,Real Madrid,nl,es,0,4,0.0
+2010-2011,Group stage,5,2010-11-24,Valencia,Bursaspor,es,tr,6,1,1.0
+2010-2011,Group stage,5,2010-11-24,Panathinaikos,Barcelona,gr,es,0,3,0.0
+2010-2011,Group stage,5,2010-11-24,Rubin Kazan,FC Copenhagen,ru,dk,1,0,1.0
+2010-2011,Group stage,5,2010-11-24,Rangers,Manchester Utd,sct,eng,0,1,0.0
+2010-2011,Group stage,5,2010-11-24,Tottenham,Werder Bremen,eng,de,3,0,1.0
+2010-2011,Group stage,5,2010-11-24,Inter,Twente,it,nl,1,0,1.0
+2010-2011,Group stage,5,2010-11-24,Hapoel Tel Aviv,Benfica,il,pt,3,0,1.0
+2010-2011,Group stage,5,2010-11-24,Schalke 04,Lyon,de,fr,3,0,1.0
+2010-2011,Group stage,6,2010-12-07,Benfica,Schalke 04,pt,de,1,2,0.0
+2010-2011,Group stage,6,2010-12-07,Twente,Tottenham,nl,eng,3,3,0.5
+2010-2011,Group stage,6,2010-12-07,Manchester Utd,Valencia,eng,es,1,1,0.5
+2010-2011,Group stage,6,2010-12-07,FC Copenhagen,Panathinaikos,dk,gr,3,1,1.0
+2010-2011,Group stage,6,2010-12-07,Barcelona,Rubin Kazan,es,ru,2,0,1.0
+2010-2011,Group stage,6,2010-12-07,Werder Bremen,Inter,de,it,3,0,1.0
+2010-2011,Group stage,6,2010-12-07,Bursaspor,Rangers,tr,sct,1,1,0.5
+2010-2011,Group stage,6,2010-12-07,Lyon,Hapoel Tel Aviv,fr,il,2,2,0.5
+2010-2011,Group stage,6,2010-12-08,Shakhtar,Braga,ua,pt,2,0,1.0
+2010-2011,Group stage,6,2010-12-08,Marseille,Chelsea,fr,eng,1,0,1.0
+2010-2011,Group stage,6,2010-12-08,MŠK Žilina,Spartak Moscow,sk,ru,1,2,0.0
+2010-2011,Group stage,6,2010-12-08,CFR Cluj,Roma,ro,it,1,1,0.5
+2010-2011,Group stage,6,2010-12-08,Milan,Ajax,it,nl,0,2,0.0
+2010-2011,Group stage,6,2010-12-08,Arsenal,Partizan,eng,rs,3,1,1.0
+2010-2011,Group stage,6,2010-12-08,Bayern Munich,Basel,de,ch,3,0,1.0
+2010-2011,Group stage,6,2010-12-08,Real Madrid,Auxerre,es,fr,4,0,1.0
+2010-2011,Round of 16,,2011-02-15,Valencia,Schalke 04,es,de,1,1,0.5
+2010-2011,Round of 16,,2011-02-15,Milan,Tottenham,it,eng,0,1,0.0
+2010-2011,Round of 16,,2011-02-16,Arsenal,Barcelona,eng,es,2,1,1.0
+2010-2011,Round of 16,,2011-02-16,Roma,Shakhtar,it,ua,2,3,0.0
+2010-2011,Round of 16,,2011-02-22,FC Copenhagen,Chelsea,dk,eng,0,2,0.0
+2010-2011,Round of 16,,2011-02-22,Lyon,Real Madrid,fr,es,1,1,0.5
+2010-2011,Round of 16,,2011-02-23,Marseille,Manchester Utd,fr,eng,0,0,0.5
+2010-2011,Round of 16,,2011-02-23,Inter,Bayern Munich,it,de,0,1,0.0
+2010-2011,Round of 16,,2011-03-08,Shakhtar,Roma,ua,it,3,0,1.0
+2010-2011,Round of 16,,2011-03-08,Barcelona,Arsenal,es,eng,3,1,1.0
+2010-2011,Round of 16,,2011-03-09,Tottenham,Milan,eng,it,0,0,0.5
+2010-2011,Round of 16,,2011-03-09,Schalke 04,Valencia,de,es,3,1,1.0
+2010-2011,Round of 16,,2011-03-15,Bayern Munich,Inter,de,it,2,3,0.0
+2010-2011,Round of 16,,2011-03-15,Manchester Utd,Marseille,eng,fr,2,1,1.0
+2010-2011,Round of 16,,2011-03-16,Chelsea,FC Copenhagen,eng,dk,0,0,0.5
+2010-2011,Round of 16,,2011-03-16,Real Madrid,Lyon,es,fr,3,0,1.0
+2010-2011,Quarter-finals,,2011-04-05,Inter,Schalke 04,it,de,2,5,0.0
+2010-2011,Quarter-finals,,2011-04-05,Real Madrid,Tottenham,es,eng,4,0,1.0
+2010-2011,Quarter-finals,,2011-04-06,Chelsea,Manchester Utd,eng,eng,0,1,0.0
+2010-2011,Quarter-finals,,2011-04-06,Barcelona,Shakhtar,es,ua,5,1,1.0
+2010-2011,Quarter-finals,,2011-04-12,Shakhtar,Barcelona,ua,es,0,1,0.0
+2010-2011,Quarter-finals,,2011-04-12,Manchester Utd,Chelsea,eng,eng,2,1,1.0
+2010-2011,Quarter-finals,,2011-04-13,Tottenham,Real Madrid,eng,es,0,1,0.0
+2010-2011,Quarter-finals,,2011-04-13,Schalke 04,Inter,de,it,2,1,1.0
+2010-2011,Semi-finals,,2011-04-26,Schalke 04,Manchester Utd,de,eng,0,2,0.0
+2010-2011,Semi-finals,,2011-04-27,Real Madrid,Barcelona,es,es,0,2,0.0
+2010-2011,Semi-finals,,2011-05-03,Barcelona,Real Madrid,es,es,1,1,0.5
+2010-2011,Semi-finals,,2011-05-04,Manchester Utd,Schalke 04,eng,de,4,1,1.0
+2010-2011,Final,,2011-05-28,Barcelona,Manchester Utd,es,eng,3,1,1.0

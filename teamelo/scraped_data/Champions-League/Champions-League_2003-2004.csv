@@ -1,0 +1,126 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2003-2004,Group stage,1,2003-09-16,Club Brugge,Celta Vigo,be,es,1,1,0.5
+2003-2004,Group stage,1,2003-09-16,Sparta Prague,Chelsea,cz,eng,0,1,0.0
+2003-2004,Group stage,1,2003-09-16,Partizan,Porto,rs,pt,1,1,0.5
+2003-2004,Group stage,1,2003-09-16,Rangers,Stuttgart,sct,de,2,1,1.0
+2003-2004,Group stage,1,2003-09-16,Beşiktaş,Lazio,tr,it,0,2,0.0
+2003-2004,Group stage,1,2003-09-16,Manchester Utd,Panathinaikos,eng,gr,5,0,1.0
+2003-2004,Group stage,1,2003-09-16,Real Madrid,Marseille,es,fr,4,2,1.0
+2003-2004,Group stage,1,2003-09-16,Milan,Ajax,it,nl,1,0,1.0
+2003-2004,Group stage,1,2003-09-17,Real Sociedad,Olympiacos,es,gr,1,0,1.0
+2003-2004,Group stage,1,2003-09-17,Bayern Munich,Celtic,de,sct,2,1,1.0
+2003-2004,Group stage,1,2003-09-17,Arsenal,Inter,eng,it,0,3,0.0
+2003-2004,Group stage,1,2003-09-17,PSV Eindhoven,Monaco,nl,fr,1,2,0.0
+2003-2004,Group stage,1,2003-09-17,Lyon,Anderlecht,fr,be,1,0,1.0
+2003-2004,Group stage,1,2003-09-17,Dynamo Kyiv,Loko Moscow,ua,ru,2,0,1.0
+2003-2004,Group stage,1,2003-09-17,Juventus,Galatasaray,it,tr,2,1,1.0
+2003-2004,Group stage,1,2003-09-17,AEK Athens,La Coruña,gr,es,1,1,0.5
+2003-2004,Group stage,2,2003-09-30,La Coruña,PSV Eindhoven,es,nl,2,0,1.0
+2003-2004,Group stage,2,2003-09-30,Anderlecht,Bayern Munich,be,de,1,1,0.5
+2003-2004,Group stage,2,2003-09-30,Loko Moscow,Arsenal,ru,eng,0,0,0.5
+2003-2004,Group stage,2,2003-09-30,Inter,Dynamo Kyiv,it,ua,2,1,1.0
+2003-2004,Group stage,2,2003-09-30,Olympiacos,Juventus,gr,it,1,2,0.0
+2003-2004,Group stage,2,2003-09-30,Galatasaray,Real Sociedad,tr,es,1,2,0.0
+2003-2004,Group stage,2,2003-09-30,Monaco,AEK Athens,fr,gr,4,0,1.0
+2003-2004,Group stage,2,2003-09-30,Celtic,Lyon,sct,fr,2,0,1.0
+2003-2004,Group stage,2,2003-10-01,Porto,Real Madrid,pt,es,1,3,0.0
+2003-2004,Group stage,2,2003-10-01,Ajax,Club Brugge,nl,be,2,0,1.0
+2003-2004,Group stage,2,2003-10-01,Lazio,Sparta Prague,it,cz,2,2,0.5
+2003-2004,Group stage,2,2003-10-01,Chelsea,Beşiktaş,eng,tr,0,2,0.0
+2003-2004,Group stage,2,2003-10-01,Marseille,Partizan,fr,rs,3,0,1.0
+2003-2004,Group stage,2,2003-10-01,Celta Vigo,Milan,es,it,0,0,0.5
+2003-2004,Group stage,2,2003-10-01,Stuttgart,Manchester Utd,de,eng,2,1,1.0
+2003-2004,Group stage,2,2003-10-01,Panathinaikos,Rangers,gr,sct,1,1,0.5
+2003-2004,Group stage,3,2003-10-21,Dynamo Kyiv,Arsenal,ua,eng,2,1,1.0
+2003-2004,Group stage,3,2003-10-21,Loko Moscow,Inter,ru,it,3,0,1.0
+2003-2004,Group stage,3,2003-10-21,La Coruña,Monaco,es,fr,1,0,1.0
+2003-2004,Group stage,3,2003-10-21,AEK Athens,PSV Eindhoven,gr,nl,0,1,0.0
+2003-2004,Group stage,3,2003-10-21,Lyon,Bayern Munich,fr,de,1,1,0.5
+2003-2004,Group stage,3,2003-10-21,Juventus,Real Sociedad,it,es,4,2,1.0
+2003-2004,Group stage,3,2003-10-21,Galatasaray,Olympiacos,tr,gr,1,0,1.0
+2003-2004,Group stage,3,2003-10-21,Anderlecht,Celtic,be,sct,1,0,1.0
+2003-2004,Group stage,3,2003-10-22,Rangers,Manchester Utd,sct,eng,0,1,0.0
+2003-2004,Group stage,3,2003-10-22,Real Madrid,Partizan,es,rs,1,0,1.0
+2003-2004,Group stage,3,2003-10-22,Milan,Club Brugge,it,be,0,1,0.0
+2003-2004,Group stage,3,2003-10-22,Ajax,Celta Vigo,nl,es,1,0,1.0
+2003-2004,Group stage,3,2003-10-22,Stuttgart,Panathinaikos,de,gr,2,0,1.0
+2003-2004,Group stage,3,2003-10-22,Chelsea,Lazio,eng,it,2,1,1.0
+2003-2004,Group stage,3,2003-10-22,Sparta Prague,Beşiktaş,cz,tr,2,1,1.0
+2003-2004,Group stage,3,2003-10-22,Marseille,Porto,fr,pt,2,3,0.0
+2003-2004,Group stage,4,2003-11-04,Panathinaikos,Stuttgart,gr,de,1,3,0.0
+2003-2004,Group stage,4,2003-11-04,Porto,Marseille,pt,fr,1,0,1.0
+2003-2004,Group stage,4,2003-11-04,Manchester Utd,Rangers,eng,sct,3,0,1.0
+2003-2004,Group stage,4,2003-11-04,Beşiktaş,Sparta Prague,tr,cz,1,0,1.0
+2003-2004,Group stage,4,2003-11-04,Lazio,Chelsea,it,eng,0,4,0.0
+2003-2004,Group stage,4,2003-11-04,Club Brugge,Milan,be,it,0,1,0.0
+2003-2004,Group stage,4,2003-11-04,Celta Vigo,Ajax,es,nl,3,2,1.0
+2003-2004,Group stage,4,2003-11-04,Partizan,Real Madrid,rs,es,0,0,0.5
+2003-2004,Group stage,4,2003-11-05,Bayern Munich,Lyon,de,fr,1,2,0.0
+2003-2004,Group stage,4,2003-11-05,Arsenal,Dynamo Kyiv,eng,ua,1,0,1.0
+2003-2004,Group stage,4,2003-11-05,Monaco,La Coruña,fr,es,8,3,1.0
+2003-2004,Group stage,4,2003-11-05,Real Sociedad,Juventus,es,it,0,0,0.5
+2003-2004,Group stage,4,2003-11-05,PSV Eindhoven,AEK Athens,nl,gr,2,0,1.0
+2003-2004,Group stage,4,2003-11-05,Celtic,Anderlecht,sct,be,3,1,1.0
+2003-2004,Group stage,4,2003-11-05,Olympiacos,Galatasaray,gr,tr,3,0,1.0
+2003-2004,Group stage,4,2003-11-05,Inter,Loko Moscow,it,ru,1,1,0.5
+2003-2004,Group stage,5,2003-11-25,Celtic,Bayern Munich,sct,de,0,0,0.5
+2003-2004,Group stage,5,2003-11-25,Monaco,PSV Eindhoven,fr,nl,1,1,0.5
+2003-2004,Group stage,5,2003-11-25,Anderlecht,Lyon,be,fr,1,0,1.0
+2003-2004,Group stage,5,2003-11-25,Olympiacos,Real Sociedad,gr,es,2,2,0.5
+2003-2004,Group stage,5,2003-11-25,La Coruña,AEK Athens,es,gr,3,0,1.0
+2003-2004,Group stage,5,2003-11-25,Inter,Arsenal,it,eng,1,5,0.0
+2003-2004,Group stage,5,2003-11-25,Loko Moscow,Dynamo Kyiv,ru,ua,3,2,1.0
+2003-2004,Group stage,5,2003-11-26,Stuttgart,Rangers,de,sct,1,0,1.0
+2003-2004,Group stage,5,2003-11-26,Porto,Partizan,pt,rs,2,1,1.0
+2003-2004,Group stage,5,2003-11-26,Chelsea,Sparta Prague,eng,cz,0,0,0.5
+2003-2004,Group stage,5,2003-11-26,Lazio,Beşiktaş,it,tr,1,1,0.5
+2003-2004,Group stage,5,2003-11-26,Ajax,Milan,nl,it,0,1,0.0
+2003-2004,Group stage,5,2003-11-26,Celta Vigo,Club Brugge,es,be,1,1,0.5
+2003-2004,Group stage,5,2003-11-26,Marseille,Real Madrid,fr,es,1,2,0.0
+2003-2004,Group stage,5,2003-11-26,Panathinaikos,Manchester Utd,gr,eng,0,1,0.0
+2003-2004,Group stage,5,2003-12-02,Galatasaray,Juventus,tr,it,2,0,1.0
+2003-2004,Group stage,6,2003-12-09,Rangers,Panathinaikos,sct,gr,1,3,0.0
+2003-2004,Group stage,6,2003-12-09,Partizan,Marseille,rs,fr,1,1,0.5
+2003-2004,Group stage,6,2003-12-09,Milan,Celta Vigo,it,es,1,2,0.0
+2003-2004,Group stage,6,2003-12-09,Sparta Prague,Lazio,cz,it,1,0,1.0
+2003-2004,Group stage,6,2003-12-09,Manchester Utd,Stuttgart,eng,de,2,0,1.0
+2003-2004,Group stage,6,2003-12-09,Club Brugge,Ajax,be,nl,2,1,1.0
+2003-2004,Group stage,6,2003-12-09,Beşiktaş,Chelsea,tr,eng,0,2,0.0
+2003-2004,Group stage,6,2003-12-09,Real Madrid,Porto,es,pt,1,1,0.5
+2003-2004,Group stage,6,2003-12-10,Juventus,Olympiacos,it,gr,7,0,1.0
+2003-2004,Group stage,6,2003-12-10,PSV Eindhoven,La Coruña,nl,es,3,2,1.0
+2003-2004,Group stage,6,2003-12-10,Dynamo Kyiv,Inter,ua,it,1,1,0.5
+2003-2004,Group stage,6,2003-12-10,Arsenal,Loko Moscow,eng,ru,2,0,1.0
+2003-2004,Group stage,6,2003-12-10,Lyon,Celtic,fr,sct,3,2,1.0
+2003-2004,Group stage,6,2003-12-10,Real Sociedad,Galatasaray,es,tr,1,1,0.5
+2003-2004,Group stage,6,2003-12-10,AEK Athens,Monaco,gr,fr,0,0,0.5
+2003-2004,Group stage,6,2003-12-10,Bayern Munich,Anderlecht,de,be,1,0,1.0
+2003-2004,Round of 16,,2004-02-24,Bayern Munich,Real Madrid,de,es,1,1,0.5
+2003-2004,Round of 16,,2004-02-24,Celta Vigo,Arsenal,es,eng,2,3,0.0
+2003-2004,Round of 16,,2004-02-24,Sparta Prague,Milan,cz,it,0,0,0.5
+2003-2004,Round of 16,,2004-02-24,Loko Moscow,Monaco,ru,fr,2,1,1.0
+2003-2004,Round of 16,,2004-02-25,La Coruña,Juventus,es,it,1,0,1.0
+2003-2004,Round of 16,,2004-02-25,Stuttgart,Chelsea,de,eng,0,1,0.0
+2003-2004,Round of 16,,2004-02-25,Real Sociedad,Lyon,es,fr,0,1,0.0
+2003-2004,Round of 16,,2004-02-25,Porto,Manchester Utd,pt,eng,2,1,1.0
+2003-2004,Round of 16,,2004-03-09,Juventus,La Coruña,it,es,0,1,0.0
+2003-2004,Round of 16,,2004-03-09,Chelsea,Stuttgart,eng,de,0,0,0.5
+2003-2004,Round of 16,,2004-03-09,Lyon,Real Sociedad,fr,es,1,0,1.0
+2003-2004,Round of 16,,2004-03-09,Manchester Utd,Porto,eng,pt,1,1,0.5
+2003-2004,Round of 16,,2004-03-10,Milan,Sparta Prague,it,cz,4,1,1.0
+2003-2004,Round of 16,,2004-03-10,Arsenal,Celta Vigo,eng,es,2,0,1.0
+2003-2004,Round of 16,,2004-03-10,Monaco,Loko Moscow,fr,ru,1,0,1.0
+2003-2004,Round of 16,,2004-03-10,Real Madrid,Bayern Munich,es,de,1,0,1.0
+2003-2004,Quarter-finals,,2004-03-23,Porto,Lyon,pt,fr,2,0,1.0
+2003-2004,Quarter-finals,,2004-03-23,Milan,La Coruña,it,es,4,1,1.0
+2003-2004,Quarter-finals,,2004-03-24,Chelsea,Arsenal,eng,eng,1,1,0.5
+2003-2004,Quarter-finals,,2004-03-24,Real Madrid,Monaco,es,fr,4,2,1.0
+2003-2004,Quarter-finals,,2004-04-06,Arsenal,Chelsea,eng,eng,1,2,0.0
+2003-2004,Quarter-finals,,2004-04-06,Monaco,Real Madrid,fr,es,3,1,1.0
+2003-2004,Quarter-finals,,2004-04-07,Lyon,Porto,fr,pt,2,2,0.5
+2003-2004,Quarter-finals,,2004-04-07,La Coruña,Milan,es,it,4,0,1.0
+2003-2004,Semi-finals,,2004-04-20,Monaco,Chelsea,fr,eng,3,1,1.0
+2003-2004,Semi-finals,,2004-04-21,Porto,La Coruña,pt,es,0,0,0.5
+2003-2004,Semi-finals,,2004-05-04,La Coruña,Porto,es,pt,0,1,0.0
+2003-2004,Semi-finals,,2004-05-05,Chelsea,Monaco,eng,fr,2,2,0.5
+2003-2004,Final,,2004-05-26,Monaco,Porto,fr,pt,0,3,0.0

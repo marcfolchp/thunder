@@ -1,0 +1,196 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,Ukrainian Premier League,1,2019-07-28,Vorskla Poltava,Zorya Luhansk,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,1,2019-07-30,FK Kolos,FC Mariupol,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,1,2019-07-30,Desna Chernihiv,FC Lviv,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,1,2019-07-31,FC Oleksandriya,Shakhtar,1.0,3.0,0.0
+2019-2020,Ukrainian Premier League,1,2019-07-31,SK Dnipro-1,Olimpik Donetsk,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,1,2019-07-31,Karpaty Lviv,Dynamo Kyiv,0.0,2.0,0.0
+2019-2020,Ukrainian Premier League,2,2019-08-03,FC Mariupol,FC Oleksandriya,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,2,2019-08-03,FC Lviv,Dynamo Kyiv,0.0,3.0,0.0
+2019-2020,Ukrainian Premier League,2,2019-08-03,Desna Chernihiv,Vorskla Poltava,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,2,2019-08-04,Olimpik Donetsk,FK Kolos,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,2,2019-08-04,Shakhtar,Karpaty Lviv,3.0,0.0,1.0
+2019-2020,Ukrainian Premier League,2,2019-08-04,Zorya Luhansk,SK Dnipro-1,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,3,2019-08-10,Dynamo Kyiv,Shakhtar,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,3,2019-08-10,Vorskla Poltava,FC Lviv,3.0,2.0,1.0
+2019-2020,Ukrainian Premier League,3,2019-08-10,FC Oleksandriya,Olimpik Donetsk,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,3,2019-08-11,SK Dnipro-1,Desna Chernihiv,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,3,2019-08-11,FK Kolos,Zorya Luhansk,1.0,3.0,0.0
+2019-2020,Ukrainian Premier League,3,2019-08-11,Karpaty Lviv,FC Mariupol,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,4,2019-08-17,Vorskla Poltava,SK Dnipro-1,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,4,2019-08-17,Desna Chernihiv,FK Kolos,0.0,0.0,0.5
+2019-2020,Ukrainian Premier League,4,2019-08-18,Olimpik Donetsk,Karpaty Lviv,1.0,3.0,0.0
+2019-2020,Ukrainian Premier League,4,2019-08-18,Zorya Luhansk,FC Oleksandriya,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,4,2019-08-18,FC Lviv,Shakhtar,0.0,2.0,0.0
+2019-2020,Ukrainian Premier League,5,2019-08-24,FK Kolos,Vorskla Poltava,0.0,3.0,0.0
+2019-2020,Ukrainian Premier League,5,2019-08-24,FC Oleksandriya,Desna Chernihiv,0.0,3.0,0.0
+2019-2020,Ukrainian Premier League,5,2019-08-24,Dynamo Kyiv,Olimpik Donetsk,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,5,2019-08-25,Karpaty Lviv,Zorya Luhansk,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,5,2019-08-25,Shakhtar,FC Mariupol,5.0,1.0,1.0
+2019-2020,Ukrainian Premier League,5,2019-08-26,SK Dnipro-1,FC Lviv,2.0,3.0,0.0
+2019-2020,Ukrainian Premier League,6,2019-08-30,Desna Chernihiv,Karpaty Lviv,0.0,0.0,0.5
+2019-2020,Ukrainian Premier League,6,2019-08-31,Vorskla Poltava,FC Oleksandriya,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,6,2019-08-31,SK Dnipro-1,FK Kolos,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,6,2019-08-31,FC Lviv,FC Mariupol,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,6,2019-09-01,Olimpik Donetsk,Shakhtar,0.0,4.0,0.0
+2019-2020,Ukrainian Premier League,6,2019-09-01,Zorya Luhansk,Dynamo Kyiv,2.0,2.0,0.5
+2019-2020,Ukrainian Premier League,7,2019-09-14,FC Oleksandriya,SK Dnipro-1,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,7,2019-09-14,Shakhtar,Zorya Luhansk,4.0,3.0,1.0
+2019-2020,Ukrainian Premier League,7,2019-09-14,Karpaty Lviv,Vorskla Poltava,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,7,2019-09-15,FC Mariupol,Olimpik Donetsk,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,7,2019-09-15,Dynamo Kyiv,Desna Chernihiv,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,7,2019-09-15,FK Kolos,FC Lviv,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,8,2019-09-20,SK Dnipro-1,Karpaty Lviv,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,8,2019-09-21,FC Lviv,Olimpik Donetsk,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,8,2019-09-21,Zorya Luhansk,FC Mariupol,0.0,0.0,0.5
+2019-2020,Ukrainian Premier League,8,2019-09-22,Desna Chernihiv,Shakhtar,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,8,2019-09-22,Vorskla Poltava,Dynamo Kyiv,0.0,5.0,0.0
+2019-2020,Ukrainian Premier League,8,2019-09-22,FK Kolos,FC Oleksandriya,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,4,2019-09-25,FC Mariupol,Dynamo Kyiv,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,9,2019-09-27,Shakhtar,Vorskla Poltava,4.0,0.0,1.0
+2019-2020,Ukrainian Premier League,9,2019-09-28,Karpaty Lviv,FK Kolos,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,9,2019-09-28,FC Oleksandriya,FC Lviv,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,9,2019-09-29,FC Mariupol,Desna Chernihiv,0.0,4.0,0.0
+2019-2020,Ukrainian Premier League,9,2019-09-29,Dynamo Kyiv,SK Dnipro-1,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,9,2019-09-29,Olimpik Donetsk,Zorya Luhansk,0.0,5.0,0.0
+2019-2020,Ukrainian Premier League,10,2019-10-05,Vorskla Poltava,FC Mariupol,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,10,2019-10-05,Desna Chernihiv,Olimpik Donetsk,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,10,2019-10-05,FC Lviv,Zorya Luhansk,0.0,0.0,0.5
+2019-2020,Ukrainian Premier League,10,2019-10-06,SK Dnipro-1,Shakhtar,0.0,2.0,0.0
+2019-2020,Ukrainian Premier League,10,2019-10-06,FK Kolos,Dynamo Kyiv,0.0,4.0,0.0
+2019-2020,Ukrainian Premier League,10,2019-10-06,FC Oleksandriya,Karpaty Lviv,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,11,2019-10-18,Shakhtar,FK Kolos,6.0,0.0,1.0
+2019-2020,Ukrainian Premier League,11,2019-10-19,Karpaty Lviv,FC Lviv,0.0,0.0,0.5
+2019-2020,Ukrainian Premier League,11,2019-10-19,Zorya Luhansk,Desna Chernihiv,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,11,2019-10-20,FC Mariupol,SK Dnipro-1,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,11,2019-10-20,Dynamo Kyiv,FC Oleksandriya,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,11,2019-10-20,Olimpik Donetsk,Vorskla Poltava,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,12,2019-10-26,FC Mariupol,FK Kolos,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,12,2019-10-26,Zorya Luhansk,Vorskla Poltava,4.0,0.0,1.0
+2019-2020,Ukrainian Premier League,12,2019-10-26,Olimpik Donetsk,SK Dnipro-1,3.0,2.0,1.0
+2019-2020,Ukrainian Premier League,12,2019-10-27,FC Lviv,Desna Chernihiv,1.0,4.0,0.0
+2019-2020,Ukrainian Premier League,12,2019-10-27,Shakhtar,FC Oleksandriya,0.0,0.0,0.5
+2019-2020,Ukrainian Premier League,12,2019-10-27,Dynamo Kyiv,Karpaty Lviv,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,13,2019-11-02,Karpaty Lviv,Shakhtar,0.0,3.0,0.0
+2019-2020,Ukrainian Premier League,13,2019-11-02,Vorskla Poltava,Desna Chernihiv,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,13,2019-11-03,SK Dnipro-1,Zorya Luhansk,1.0,4.0,0.0
+2019-2020,Ukrainian Premier League,13,2019-11-03,FC Oleksandriya,FC Mariupol,3.0,1.0,1.0
+2019-2020,Ukrainian Premier League,13,2019-11-03,Dynamo Kyiv,FC Lviv,4.0,0.0,1.0
+2019-2020,Ukrainian Premier League,13,2019-11-03,FK Kolos,Olimpik Donetsk,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,14,2019-11-09,FC Mariupol,Karpaty Lviv,2.0,2.0,0.5
+2019-2020,Ukrainian Premier League,14,2019-11-09,Desna Chernihiv,SK Dnipro-1,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,14,2019-11-09,FC Lviv,Vorskla Poltava,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,14,2019-11-10,Zorya Luhansk,FK Kolos,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,14,2019-11-10,Shakhtar,Dynamo Kyiv,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,14,2019-11-10,Olimpik Donetsk,FC Oleksandriya,0.0,0.0,0.5
+2019-2020,Ukrainian Premier League,15,2019-11-22,Shakhtar,FC Lviv,4.0,1.0,1.0
+2019-2020,Ukrainian Premier League,15,2019-11-23,FC Oleksandriya,Zorya Luhansk,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,15,2019-11-23,SK Dnipro-1,Vorskla Poltava,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,15,2019-11-24,Karpaty Lviv,Olimpik Donetsk,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,15,2019-11-24,FK Kolos,Desna Chernihiv,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,15,2019-11-24,Dynamo Kyiv,FC Mariupol,3.0,0.0,1.0
+2019-2020,Ukrainian Premier League,16,2019-11-30,Zorya Luhansk,Karpaty Lviv,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,16,2019-11-30,FC Lviv,SK Dnipro-1,0.0,2.0,0.0
+2019-2020,Ukrainian Premier League,16,2019-11-30,Vorskla Poltava,FK Kolos,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,16,2019-12-01,FC Mariupol,Shakhtar,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,16,2019-12-01,Desna Chernihiv,FC Oleksandriya,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,16,2019-12-01,Olimpik Donetsk,Dynamo Kyiv,1.0,3.0,0.0
+2019-2020,Ukrainian Premier League,17,2019-12-06,Shakhtar,Olimpik Donetsk,3.0,0.0,1.0
+2019-2020,Ukrainian Premier League,17,2019-12-07,FC Oleksandriya,Vorskla Poltava,3.0,0.0,1.0
+2019-2020,Ukrainian Premier League,17,2019-12-07,FK Kolos,SK Dnipro-1,4.0,0.0,1.0
+2019-2020,Ukrainian Premier League,17,2019-12-08,FC Mariupol,FC Lviv,0.0,0.0,0.5
+2019-2020,Ukrainian Premier League,17,2019-12-08,Karpaty Lviv,Desna Chernihiv,2.0,6.0,0.0
+2019-2020,Ukrainian Premier League,17,2019-12-08,Dynamo Kyiv,Zorya Luhansk,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,18,2019-12-14,FC Lviv,FK Kolos,3.0,2.0,1.0
+2019-2020,Ukrainian Premier League,18,2019-12-14,Zorya Luhansk,Shakhtar,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,18,2019-12-14,Olimpik Donetsk,FC Mariupol,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,18,2019-12-15,Desna Chernihiv,Dynamo Kyiv,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,18,2019-12-15,Vorskla Poltava,Karpaty Lviv,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,18,2019-12-15,SK Dnipro-1,FC Oleksandriya,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,19,2020-02-22,FC Mariupol,Zorya Luhansk,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,19,2020-02-22,Dynamo Kyiv,Vorskla Poltava,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,19,2020-02-23,FC Oleksandriya,FK Kolos,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,19,2020-02-23,Karpaty Lviv,SK Dnipro-1,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,19,2020-02-23,Shakhtar,Desna Chernihiv,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,19,2020-02-23,Olimpik Donetsk,FC Lviv,0.0,1.0,0.0
+2019-2020,Ukrainian Premier League,20,2020-02-28,SK Dnipro-1,Dynamo Kyiv,3.0,1.0,1.0
+2019-2020,Ukrainian Premier League,20,2020-02-29,Desna Chernihiv,FC Mariupol,4.0,0.0,1.0
+2019-2020,Ukrainian Premier League,20,2020-02-29,FC Lviv,FC Oleksandriya,1.0,1.0,0.5
+2019-2020,Ukrainian Premier League,20,2020-02-29,FK Kolos,Karpaty Lviv,2.0,1.0,1.0
+2019-2020,Ukrainian Premier League,20,2020-03-01,Zorya Luhansk,Olimpik Donetsk,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,20,2020-03-01,Vorskla Poltava,Shakhtar,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,21,2020-03-03,Dynamo Kyiv,FK Kolos,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,21,2020-03-04,FC Mariupol,Vorskla Poltava,3.0,0.0,1.0
+2019-2020,Ukrainian Premier League,21,2020-03-04,Zorya Luhansk,FC Lviv,2.0,0.0,1.0
+2019-2020,Ukrainian Premier League,21,2020-03-04,Olimpik Donetsk,Desna Chernihiv,1.0,2.0,0.0
+2019-2020,Ukrainian Premier League,21,2020-03-04,Shakhtar,SK Dnipro-1,4.0,1.0,1.0
+2019-2020,Ukrainian Premier League,21,2020-03-04,Karpaty Lviv,FC Oleksandriya,0.0,4.0,0.0
+2019-2020,Ukrainian Premier League,22,2020-03-07,Vorskla Poltava,Olimpik Donetsk,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,22,2020-03-07,Desna Chernihiv,Zorya Luhansk,1.0,0.0,1.0
+2019-2020,Ukrainian Premier League,22,2020-03-07,FC Oleksandriya,Dynamo Kyiv,1.0,3.0,0.0
+2019-2020,Ukrainian Premier League,22,2020-03-08,FC Lviv,Karpaty Lviv,0.0,0.0,0.5
+2019-2020,Ukrainian Premier League,22,2020-03-08,FK Kolos,Shakhtar,3.0,4.0,0.0
+2019-2020,Ukrainian Premier League,22,2020-03-08,SK Dnipro-1,FC Mariupol,3.0,0.0,1.0
+2019-2020,Relegation round,1,2020-03-14,FC Lviv,Karpaty Lviv,1.0,1.0,0.5
+2019-2020,Championship round,1,2020-03-14,FC Oleksandriya,FK Kolos,4.0,2.0,1.0
+2019-2020,Relegation round,1,2020-03-14,SK Dnipro-1,FC Mariupol,2.0,0.0,1.0
+2019-2020,Championship round,1,2020-03-15,Zorya Luhansk,Shakhtar,1.0,0.0,1.0
+2019-2020,Championship round,1,2020-03-15,Dynamo Kyiv,Desna Chernihiv,1.0,1.0,0.5
+2019-2020,Relegation round,1,2020-03-15,Olimpik Donetsk,Vorskla Poltava,1.0,1.0,0.5
+2019-2020,Championship round,2,2020-05-30,FK Kolos,Desna Chernihiv,0.0,2.0,0.0
+2019-2020,Championship round,2,2020-05-30,FC Oleksandriya,Zorya Luhansk,1.0,0.0,1.0
+2019-2020,Relegation round,2,2020-05-30,SK Dnipro-1,Olimpik Donetsk,3.0,1.0,1.0
+2019-2020,Relegation round,2,2020-05-31,Vorskla Poltava,FC Lviv,1.0,1.0,0.5
+2019-2020,Championship round,2,2020-05-31,Shakhtar,Dynamo Kyiv,3.0,1.0,1.0
+2019-2020,Championship round,3,2020-06-06,Zorya Luhansk,FK Kolos,1.0,0.0,1.0
+2019-2020,Championship round,3,2020-06-06,Shakhtar,Desna Chernihiv,3.0,2.0,1.0
+2019-2020,Relegation round,3,2020-06-07,Olimpik Donetsk,FC Mariupol,2.0,2.0,0.5
+2019-2020,Championship round,3,2020-06-07,Dynamo Kyiv,FC Oleksandriya,5.0,1.0,1.0
+2019-2020,Relegation round,3,2020-06-07,Vorskla Poltava,Karpaty Lviv,,,0.5
+2019-2020,Relegation round,3,2020-06-07,FC Lviv,SK Dnipro-1,1.0,2.0,0.0
+2019-2020,Relegation round,4,2020-06-13,FC Mariupol,Vorskla Poltava,1.0,1.0,0.5
+2019-2020,Championship round,4,2020-06-13,Zorya Luhansk,Dynamo Kyiv,1.0,3.0,0.0
+2019-2020,Relegation round,4,2020-06-13,Olimpik Donetsk,FC Lviv,2.0,0.0,1.0
+2019-2020,Championship round,4,2020-06-14,FK Kolos,Shakhtar,0.0,1.0,0.0
+2019-2020,Championship round,4,2020-06-14,FC Oleksandriya,Desna Chernihiv,1.0,5.0,0.0
+2019-2020,Relegation round,5,2020-06-19,FC Mariupol,FC Lviv,3.0,0.0,1.0
+2019-2020,Relegation round,5,2020-06-19,Vorskla Poltava,SK Dnipro-1,2.0,0.0,1.0
+2019-2020,Championship round,5,2020-06-20,Shakhtar,FC Oleksandriya,3.0,2.0,1.0
+2019-2020,Relegation round,5,2020-06-21,Karpaty Lviv,Olimpik Donetsk,,,0.5
+2019-2020,Championship round,5,2020-06-21,Desna Chernihiv,Zorya Luhansk,1.0,2.0,0.0
+2019-2020,Championship round,5,2020-06-22,Dynamo Kyiv,FK Kolos,2.0,1.0,1.0
+2019-2020,Championship round,6,2020-06-27,FK Kolos,FC Oleksandriya,2.0,1.0,1.0
+2019-2020,Relegation round,6,2020-06-27,Karpaty Lviv,FC Lviv,1.0,1.0,0.5
+2019-2020,Championship round,6,2020-06-27,Shakhtar,Zorya Luhansk,0.0,0.0,0.5
+2019-2020,Relegation round,6,2020-06-28,FC Mariupol,SK Dnipro-1,2.0,1.0,1.0
+2019-2020,Championship round,6,2020-06-28,Desna Chernihiv,Dynamo Kyiv,3.0,2.0,1.0
+2019-2020,Relegation round,6,2020-06-28,Vorskla Poltava,Olimpik Donetsk,0.0,0.0,0.5
+2019-2020,Relegation round,2,2020-07-01,Karpaty Lviv,FC Mariupol,0.0,3.0,0.0
+2019-2020,Relegation round,7,2020-07-03,FC Lviv,Vorskla Poltava,2.0,2.0,0.5
+2019-2020,Relegation round,7,2020-07-04,FC Mariupol,Karpaty Lviv,3.0,0.0,1.0
+2019-2020,Championship round,7,2020-07-04,Dynamo Kyiv,Shakhtar,2.0,3.0,0.0
+2019-2020,Championship round,7,2020-07-05,Desna Chernihiv,FK Kolos,5.0,1.0,1.0
+2019-2020,Championship round,7,2020-07-05,Zorya Luhansk,FC Oleksandriya,2.0,2.0,0.5
+2019-2020,Relegation round,7,2020-07-05,Olimpik Donetsk,SK Dnipro-1,0.0,2.0,0.0
+2019-2020,Relegation round,4,2020-07-08,Karpaty Lviv,SK Dnipro-1,,,0.5
+2019-2020,Championship round,8,2020-07-11,FK Kolos,Zorya Luhansk,0.0,2.0,0.0
+2019-2020,Relegation round,8,2020-07-11,SK Dnipro-1,FC Lviv,3.0,2.0,1.0
+2019-2020,Relegation round,8,2020-07-12,FC Mariupol,Olimpik Donetsk,1.0,4.0,0.0
+2019-2020,Relegation round,8,2020-07-12,Karpaty Lviv,Vorskla Poltava,,,0.5
+2019-2020,Championship round,8,2020-07-12,FC Oleksandriya,Dynamo Kyiv,2.0,2.0,0.5
+2019-2020,Championship round,8,2020-07-12,Desna Chernihiv,Shakhtar,2.0,4.0,0.0
+2019-2020,Relegation round,9,2020-07-15,Karpaty Lviv,SK Dnipro-1,,,0.5
+2019-2020,Championship round,9,2020-07-15,Shakhtar,FK Kolos,2.0,0.0,1.0
+2019-2020,Relegation round,9,2020-07-16,Vorskla Poltava,FC Mariupol,1.0,2.0,0.0
+2019-2020,Relegation round,9,2020-07-16,FC Lviv,Olimpik Donetsk,1.0,5.0,0.0
+2019-2020,Championship round,9,2020-07-16,Desna Chernihiv,FC Oleksandriya,1.0,3.0,0.0
+2019-2020,Championship round,9,2020-07-16,Dynamo Kyiv,Zorya Luhansk,3.0,1.0,1.0
+2019-2020,Relegation round,10,2020-07-19,Olimpik Donetsk,Karpaty Lviv,,,0.5
+2019-2020,Relegation round,10,2020-07-19,SK Dnipro-1,Vorskla Poltava,3.0,0.0,1.0
+2019-2020,Relegation round,10,2020-07-19,FC Lviv,FC Mariupol,0.0,2.0,0.0
+2019-2020,Championship round,10,2020-07-19,Zorya Luhansk,Desna Chernihiv,1.0,1.0,0.5
+2019-2020,Championship round,10,2020-07-19,FC Oleksandriya,Shakhtar,2.0,2.0,0.5
+2019-2020,Championship round,10,2020-07-19,FK Kolos,Dynamo Kyiv,2.0,0.0,1.0
+2019-2020,Semi-finals,,2020-07-25,FK Kolos,SK Dnipro-1,4.0,1.0,1.0
+2019-2020,Semi-finals,,2020-07-25,FC Oleksandriya,FC Mariupol,1.0,2.0,0.0
+2019-2020,Final,,2020-07-29,FK Kolos,FC Mariupol,1.0,0.0,1.0

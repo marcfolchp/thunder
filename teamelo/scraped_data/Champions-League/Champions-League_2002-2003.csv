@@ -1,0 +1,158 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2002-2003,First group stage,1,2002-09-17,Auxerre,PSV Eindhoven,fr,nl,0.0,0.0,0.5
+2002-2003,First group stage,1,2002-09-17,Rosenborg,Inter,no,it,2.0,2.0,0.5
+2002-2003,First group stage,1,2002-09-17,Roma,Real Madrid,it,es,0.0,3.0,0.0
+2002-2003,First group stage,1,2002-09-17,Basel,Spartak Moscow,ch,ru,2.0,0.0,1.0
+2002-2003,First group stage,1,2002-09-17,Genk,AEK Athens,be,gr,0.0,0.0,0.5
+2002-2003,First group stage,1,2002-09-17,Arsenal,Dortmund,eng,de,2.0,0.0,1.0
+2002-2003,First group stage,1,2002-09-17,Ajax,Lyon,nl,fr,2.0,1.0,1.0
+2002-2003,First group stage,1,2002-09-17,Valencia,Liverpool,es,eng,2.0,0.0,1.0
+2002-2003,First group stage,1,2002-09-18,Bayern Munich,La Coruña,de,es,2.0,3.0,0.0
+2002-2003,First group stage,1,2002-09-18,Milan,Lens,it,fr,2.0,1.0,1.0
+2002-2003,First group stage,1,2002-09-18,Feyenoord,Juventus,nl,it,1.0,1.0,0.5
+2002-2003,First group stage,1,2002-09-18,Manchester Utd,Maccabi Haifa,eng,il,5.0,2.0,1.0
+2002-2003,First group stage,1,2002-09-18,Olympiacos,Leverkusen,gr,de,6.0,2.0,1.0
+2002-2003,First group stage,1,2002-09-18,Dynamo Kyiv,Newcastle Utd,ua,eng,2.0,0.0,1.0
+2002-2003,First group stage,1,2002-09-18,Barcelona,Club Brugge,es,be,3.0,2.0,1.0
+2002-2003,First group stage,1,2002-09-18,Loko Moscow,Galatasaray,ru,tr,0.0,2.0,0.0
+2002-2003,First group stage,2,2002-09-24,Galatasaray,Barcelona,tr,es,0.0,2.0,0.0
+2002-2003,First group stage,2,2002-09-24,Lens,Bayern Munich,fr,de,1.0,1.0,0.5
+2002-2003,First group stage,2,2002-09-24,Maccabi Haifa,Olympiacos,il,gr,3.0,0.0,1.0
+2002-2003,First group stage,2,2002-09-24,Newcastle Utd,Feyenoord,eng,nl,0.0,1.0,0.0
+2002-2003,First group stage,2,2002-09-24,Leverkusen,Manchester Utd,de,eng,1.0,2.0,0.0
+2002-2003,First group stage,2,2002-09-24,Juventus,Dynamo Kyiv,it,ua,5.0,0.0,1.0
+2002-2003,First group stage,2,2002-09-24,La Coruña,Milan,es,it,0.0,4.0,0.0
+2002-2003,First group stage,2,2002-09-24,Club Brugge,Loko Moscow,be,ru,0.0,0.0,0.5
+2002-2003,First group stage,2,2002-09-25,Liverpool,Basel,eng,ch,1.0,1.0,0.5
+2002-2003,First group stage,2,2002-09-25,Dortmund,Auxerre,de,fr,2.0,1.0,1.0
+2002-2003,First group stage,2,2002-09-25,Real Madrid,Genk,es,be,6.0,0.0,1.0
+2002-2003,First group stage,2,2002-09-25,Lyon,Rosenborg,fr,no,5.0,0.0,1.0
+2002-2003,First group stage,2,2002-09-25,AEK Athens,Roma,gr,it,0.0,0.0,0.5
+2002-2003,First group stage,2,2002-09-25,Inter,Ajax,it,nl,1.0,0.0,1.0
+2002-2003,First group stage,2,2002-09-25,Spartak Moscow,Valencia,ru,es,0.0,3.0,0.0
+2002-2003,First group stage,2,2002-09-25,PSV Eindhoven,Arsenal,nl,eng,0.0,4.0,0.0
+2002-2003,First group stage,3,2002-10-01,Manchester Utd,Olympiacos,eng,gr,4.0,0.0,1.0
+2002-2003,First group stage,3,2002-10-01,Galatasaray,Club Brugge,tr,be,0.0,0.0,0.5
+2002-2003,First group stage,3,2002-10-01,Juventus,Newcastle Utd,it,eng,2.0,0.0,1.0
+2002-2003,First group stage,3,2002-10-01,Feyenoord,Dynamo Kyiv,nl,ua,0.0,0.0,0.5
+2002-2003,First group stage,3,2002-10-01,Bayern Munich,Milan,de,it,1.0,2.0,0.0
+2002-2003,First group stage,3,2002-10-01,La Coruña,Lens,es,fr,3.0,1.0,1.0
+2002-2003,First group stage,3,2002-10-01,Loko Moscow,Barcelona,ru,es,1.0,3.0,0.0
+2002-2003,First group stage,3,2002-10-01,Maccabi Haifa,Leverkusen,il,de,0.0,2.0,0.0
+2002-2003,First group stage,3,2002-10-02,Auxerre,Arsenal,fr,eng,0.0,1.0,0.0
+2002-2003,First group stage,3,2002-10-02,Inter,Lyon,it,fr,1.0,2.0,0.0
+2002-2003,First group stage,3,2002-10-02,Valencia,Basel,es,ch,6.0,2.0,1.0
+2002-2003,First group stage,3,2002-10-02,AEK Athens,Real Madrid,gr,es,3.0,3.0,0.5
+2002-2003,First group stage,3,2002-10-02,Liverpool,Spartak Moscow,eng,ru,5.0,0.0,1.0
+2002-2003,First group stage,3,2002-10-02,Genk,Roma,be,it,0.0,1.0,0.0
+2002-2003,First group stage,3,2002-10-02,Rosenborg,Ajax,no,nl,0.0,0.0,0.5
+2002-2003,First group stage,3,2002-10-02,PSV Eindhoven,Dortmund,nl,de,1.0,3.0,0.0
+2002-2003,First group stage,4,2002-10-22,Lyon,Inter,fr,it,3.0,3.0,0.5
+2002-2003,First group stage,4,2002-10-22,Roma,Genk,it,be,0.0,0.0,0.5
+2002-2003,First group stage,4,2002-10-22,Real Madrid,AEK Athens,es,gr,2.0,2.0,0.5
+2002-2003,First group stage,4,2002-10-22,Ajax,Rosenborg,nl,no,1.0,1.0,0.5
+2002-2003,First group stage,4,2002-10-22,Dortmund,PSV Eindhoven,de,nl,1.0,1.0,0.5
+2002-2003,First group stage,4,2002-10-22,Arsenal,Auxerre,eng,fr,1.0,2.0,0.0
+2002-2003,First group stage,4,2002-10-22,Spartak Moscow,Liverpool,ru,eng,1.0,3.0,0.0
+2002-2003,First group stage,4,2002-10-22,Basel,Valencia,ch,es,2.0,2.0,0.5
+2002-2003,First group stage,4,2002-10-23,Barcelona,Loko Moscow,es,ru,1.0,0.0,1.0
+2002-2003,First group stage,4,2002-10-23,Milan,Bayern Munich,it,de,2.0,1.0,1.0
+2002-2003,First group stage,4,2002-10-23,Olympiacos,Manchester Utd,gr,eng,2.0,3.0,0.0
+2002-2003,First group stage,4,2002-10-23,Club Brugge,Galatasaray,be,tr,3.0,1.0,1.0
+2002-2003,First group stage,4,2002-10-23,Leverkusen,Maccabi Haifa,de,il,2.0,1.0,1.0
+2002-2003,First group stage,4,2002-10-23,Dynamo Kyiv,Feyenoord,ua,nl,2.0,0.0,1.0
+2002-2003,First group stage,4,2002-10-23,Lens,La Coruña,fr,es,3.0,1.0,1.0
+2002-2003,First group stage,4,2002-10-23,Newcastle Utd,Juventus,eng,it,1.0,0.0,1.0
+2002-2003,First group stage,5,2002-10-29,Club Brugge,Barcelona,be,es,0.0,1.0,0.0
+2002-2003,First group stage,5,2002-10-29,Newcastle Utd,Dynamo Kyiv,eng,ua,2.0,1.0,1.0
+2002-2003,First group stage,5,2002-10-29,Leverkusen,Olympiacos,de,gr,2.0,0.0,1.0
+2002-2003,First group stage,5,2002-10-29,Maccabi Haifa,Manchester Utd,il,eng,3.0,0.0,1.0
+2002-2003,First group stage,5,2002-10-29,Juventus,Feyenoord,it,nl,2.0,0.0,1.0
+2002-2003,First group stage,5,2002-10-29,Galatasaray,Loko Moscow,tr,ru,1.0,2.0,0.0
+2002-2003,First group stage,5,2002-10-29,La Coruña,Bayern Munich,es,de,2.0,1.0,1.0
+2002-2003,First group stage,5,2002-10-29,Lens,Milan,fr,it,2.0,1.0,1.0
+2002-2003,First group stage,5,2002-10-30,PSV Eindhoven,Auxerre,nl,fr,3.0,0.0,1.0
+2002-2003,First group stage,5,2002-10-30,Dortmund,Arsenal,de,eng,2.0,1.0,1.0
+2002-2003,First group stage,5,2002-10-30,Real Madrid,Roma,es,it,0.0,1.0,0.0
+2002-2003,First group stage,5,2002-10-30,Inter,Rosenborg,it,no,3.0,0.0,1.0
+2002-2003,First group stage,5,2002-10-30,Liverpool,Valencia,eng,es,0.0,1.0,0.0
+2002-2003,First group stage,5,2002-10-30,Lyon,Ajax,fr,nl,0.0,2.0,0.0
+2002-2003,First group stage,5,2002-10-30,AEK Athens,Genk,gr,be,1.0,1.0,0.5
+2002-2003,First group stage,5,2002-11-05,Spartak Moscow,Basel,ru,ch,0.0,2.0,0.0
+2002-2003,First group stage,6,2002-11-12,Ajax,Inter,nl,it,1.0,2.0,0.0
+2002-2003,First group stage,6,2002-11-12,Roma,AEK Athens,it,gr,1.0,1.0,0.5
+2002-2003,First group stage,6,2002-11-12,Rosenborg,Lyon,no,fr,1.0,1.0,0.5
+2002-2003,First group stage,6,2002-11-12,Genk,Real Madrid,be,es,1.0,1.0,0.5
+2002-2003,First group stage,6,2002-11-12,Valencia,Spartak Moscow,es,ru,3.0,0.0,1.0
+2002-2003,First group stage,6,2002-11-12,Basel,Liverpool,ch,eng,3.0,3.0,0.5
+2002-2003,First group stage,6,2002-11-12,Auxerre,Dortmund,fr,de,1.0,0.0,1.0
+2002-2003,First group stage,6,2002-11-12,Arsenal,PSV Eindhoven,eng,nl,0.0,0.0,0.5
+2002-2003,First group stage,6,2002-11-13,Dynamo Kyiv,Juventus,ua,it,1.0,2.0,0.0
+2002-2003,First group stage,6,2002-11-13,Olympiacos,Maccabi Haifa,gr,il,3.0,3.0,0.5
+2002-2003,First group stage,6,2002-11-13,Barcelona,Galatasaray,es,tr,3.0,1.0,1.0
+2002-2003,First group stage,6,2002-11-13,Bayern Munich,Lens,de,fr,3.0,3.0,0.5
+2002-2003,First group stage,6,2002-11-13,Manchester Utd,Leverkusen,eng,de,2.0,0.0,1.0
+2002-2003,First group stage,6,2002-11-13,Feyenoord,Newcastle Utd,nl,eng,2.0,3.0,0.0
+2002-2003,First group stage,6,2002-11-13,Loko Moscow,Club Brugge,ru,be,2.0,0.0,1.0
+2002-2003,First group stage,6,2002-11-13,Milan,La Coruña,it,es,1.0,2.0,0.0
+2002-2003,Second group stage,7,2002-11-26,Loko Moscow,Dortmund,ru,de,1.0,2.0,0.0
+2002-2003,Second group stage,7,2002-11-26,Milan,Real Madrid,it,es,1.0,0.0,1.0
+2002-2003,Second group stage,7,2002-11-26,Basel,Manchester Utd,ch,eng,1.0,3.0,0.0
+2002-2003,Second group stage,7,2002-11-26,La Coruña,Juventus,es,it,2.0,2.0,0.5
+2002-2003,Second group stage,7,2002-11-27,Valencia,Ajax,es,nl,1.0,1.0,0.5
+2002-2003,Second group stage,7,2002-11-27,Roma,Arsenal,it,eng,1.0,3.0,0.0
+2002-2003,Second group stage,7,2002-11-27,Newcastle Utd,Inter,eng,it,1.0,4.0,0.0
+2002-2003,Second group stage,7,2002-11-27,Leverkusen,Barcelona,de,es,1.0,2.0,0.0
+2002-2003,Second group stage,8,2002-12-10,Inter,Leverkusen,it,de,3.0,2.0,1.0
+2002-2003,Second group stage,8,2002-12-10,Ajax,Roma,nl,it,2.0,1.0,1.0
+2002-2003,Second group stage,8,2002-12-10,Arsenal,Valencia,eng,es,0.0,0.0,0.5
+2002-2003,Second group stage,8,2002-12-11,Barcelona,Newcastle Utd,es,eng,3.0,1.0,1.0
+2002-2003,Second group stage,8,2002-12-11,Real Madrid,Loko Moscow,es,ru,2.0,2.0,0.5
+2002-2003,Second group stage,8,2002-12-11,Juventus,Basel,it,ch,4.0,0.0,1.0
+2002-2003,Second group stage,8,2002-12-11,Dortmund,Milan,de,it,0.0,1.0,0.0
+2002-2003,Second group stage,8,2002-12-11,Manchester Utd,La Coruña,eng,es,2.0,0.0,1.0
+2002-2003,Second group stage,9,2003-02-18,Roma,Valencia,it,es,0.0,1.0,0.0
+2002-2003,Second group stage,9,2003-02-18,Leverkusen,Newcastle Utd,de,eng,1.0,3.0,0.0
+2002-2003,Second group stage,9,2003-02-18,Barcelona,Inter,es,it,3.0,0.0,1.0
+2002-2003,Second group stage,9,2003-02-18,Arsenal,Ajax,eng,nl,1.0,1.0,0.5
+2002-2003,Second group stage,9,2003-02-19,Basel,La Coruña,ch,es,1.0,0.0,1.0
+2002-2003,Second group stage,9,2003-02-19,Manchester Utd,Juventus,eng,it,2.0,1.0,1.0
+2002-2003,Second group stage,9,2003-02-19,Real Madrid,Dortmund,es,de,2.0,1.0,1.0
+2002-2003,Second group stage,9,2003-02-19,Milan,Loko Moscow,it,ru,1.0,0.0,1.0
+2002-2003,Second group stage,10,2003-02-25,Juventus,Manchester Utd,it,eng,0.0,3.0,0.0
+2002-2003,Second group stage,10,2003-02-25,La Coruña,Basel,es,ch,1.0,0.0,1.0
+2002-2003,Second group stage,10,2003-02-25,Dortmund,Real Madrid,de,es,1.0,1.0,0.5
+2002-2003,Second group stage,10,2003-02-25,Loko Moscow,Milan,ru,it,0.0,1.0,0.0
+2002-2003,Second group stage,10,2003-02-26,Ajax,Arsenal,nl,eng,0.0,0.0,0.5
+2002-2003,Second group stage,10,2003-02-26,Inter,Barcelona,it,es,0.0,0.0,0.5
+2002-2003,Second group stage,10,2003-02-26,Valencia,Roma,es,it,0.0,3.0,0.0
+2002-2003,Second group stage,10,2003-02-26,Newcastle Utd,Leverkusen,eng,de,3.0,1.0,1.0
+2002-2003,Second group stage,11,2003-03-11,Ajax,Valencia,nl,es,1.0,1.0,0.5
+2002-2003,Second group stage,11,2003-03-11,Arsenal,Roma,eng,it,1.0,1.0,0.5
+2002-2003,Second group stage,11,2003-03-11,Inter,Newcastle Utd,it,eng,2.0,2.0,0.5
+2002-2003,Second group stage,11,2003-03-11,Barcelona,Leverkusen,es,de,2.0,0.0,1.0
+2002-2003,Second group stage,11,2003-03-12,Juventus,La Coruña,it,es,3.0,2.0,1.0
+2002-2003,Second group stage,11,2003-03-12,Dortmund,Loko Moscow,de,ru,3.0,0.0,1.0
+2002-2003,Second group stage,11,2003-03-12,Real Madrid,Milan,es,it,3.0,1.0,1.0
+2002-2003,Second group stage,11,2003-03-12,Manchester Utd,Basel,eng,ch,1.0,1.0,0.5
+2002-2003,Second group stage,12,2003-03-18,Milan,Dortmund,it,de,0.0,1.0,0.0
+2002-2003,Second group stage,12,2003-03-18,La Coruña,Manchester Utd,es,eng,2.0,0.0,1.0
+2002-2003,Second group stage,12,2003-03-18,Loko Moscow,Real Madrid,ru,es,0.0,1.0,0.0
+2002-2003,Second group stage,12,2003-03-18,Basel,Juventus,ch,it,2.0,1.0,1.0
+2002-2003,Second group stage,12,2003-03-19,Newcastle Utd,Barcelona,eng,es,0.0,2.0,0.0
+2002-2003,Second group stage,12,2003-03-19,Roma,Ajax,it,nl,1.0,1.0,0.5
+2002-2003,Second group stage,12,2003-03-19,Valencia,Arsenal,es,eng,2.0,1.0,1.0
+2002-2003,Second group stage,12,2003-03-19,Leverkusen,Inter,de,it,0.0,2.0,0.0
+2002-2003,Quarter-finals,,2003-04-08,Ajax,Milan,nl,it,0.0,0.0,0.5
+2002-2003,Quarter-finals,,2003-04-08,Real Madrid,Manchester Utd,es,eng,3.0,1.0,1.0
+2002-2003,Quarter-finals,,2003-04-09,Inter,Valencia,it,es,1.0,0.0,1.0
+2002-2003,Quarter-finals,,2003-04-09,Juventus,Barcelona,it,es,1.0,1.0,0.5
+2002-2003,Quarter-finals,,2003-04-22,Barcelona,Juventus,es,it,1.0,2.0,0.0
+2002-2003,Quarter-finals,,2003-04-22,Valencia,Inter,es,it,2.0,1.0,1.0
+2002-2003,Quarter-finals,,2003-04-23,Manchester Utd,Real Madrid,eng,es,4.0,3.0,1.0
+2002-2003,Quarter-finals,,2003-04-23,Milan,Ajax,it,nl,3.0,2.0,1.0
+2002-2003,Semi-finals,,2003-05-06,Real Madrid,Juventus,es,it,2.0,1.0,1.0
+2002-2003,Semi-finals,,2003-05-07,Milan,Inter,it,it,0.0,0.0,0.5
+2002-2003,Semi-finals,,2003-05-13,Inter,Milan,it,it,1.0,1.0,0.5
+2002-2003,Semi-finals,,2003-05-14,Juventus,Real Madrid,it,es,3.0,1.0,1.0
+2002-2003,Final,,2003-05-28,Juventus,Milan,it,it,,,0.5

@@ -1,0 +1,158 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2001-2002,First group stage,1,2001-09-11,Liverpool,Boavista,eng,pt,1,1,0.5
+2001-2002,First group stage,1,2001-09-11,Nantes,PSV Eindhoven,fr,nl,4,1,1.0
+2001-2002,First group stage,1,2001-09-11,Galatasaray,Lazio,tr,it,1,0,1.0
+2001-2002,First group stage,1,2001-09-11,Roma,Real Madrid,it,es,1,2,0.0
+2001-2002,First group stage,1,2001-09-11,Loko Moscow,Anderlecht,ru,be,1,1,0.5
+2001-2002,First group stage,1,2001-09-11,Schalke 04,Panathinaikos,de,gr,0,2,0.0
+2001-2002,First group stage,1,2001-09-11,Mallorca,Arsenal,es,eng,1,0,1.0
+2001-2002,First group stage,1,2001-09-11,Dynamo Kyiv,Dortmund,ua,de,2,2,0.5
+2001-2002,First group stage,1,2001-09-18,Fenerbahçe,Barcelona,tr,es,0,3,0.0
+2001-2002,First group stage,1,2001-09-18,Manchester Utd,Lille,eng,fr,1,0,1.0
+2001-2002,First group stage,1,2001-09-18,Spartak Moscow,Feyenoord,ru,nl,2,2,0.5
+2001-2002,First group stage,1,2001-09-18,Bayern Munich,Sparta Prague,de,cz,0,0,0.5
+2001-2002,First group stage,1,2001-09-18,Juventus,Celtic,it,sct,3,2,1.0
+2001-2002,First group stage,1,2001-09-18,Lyon,Leverkusen,fr,de,0,1,0.0
+2001-2002,First group stage,1,2001-09-18,Rosenborg,Porto,no,pt,1,2,0.0
+2001-2002,First group stage,1,2001-09-18,La Coruña,Olympiacos,es,gr,2,2,0.5
+2001-2002,First group stage,2,2001-09-19,Lazio,Nantes,it,fr,1,3,0.0
+2001-2002,First group stage,2,2001-09-19,Real Madrid,Loko Moscow,es,ru,4,0,1.0
+2001-2002,First group stage,2,2001-09-19,Anderlecht,Roma,be,it,0,0,0.5
+2001-2002,First group stage,2,2001-09-19,Arsenal,Schalke 04,eng,de,3,2,1.0
+2001-2002,First group stage,2,2001-09-19,Dortmund,Liverpool,de,eng,0,0,0.5
+2001-2002,First group stage,2,2001-09-19,PSV Eindhoven,Galatasaray,nl,tr,3,1,1.0
+2001-2002,First group stage,2,2001-09-19,Boavista,Dynamo Kyiv,pt,ua,3,1,1.0
+2001-2002,First group stage,2,2001-09-19,Panathinaikos,Mallorca,gr,es,2,0,1.0
+2001-2002,First group stage,2,2001-09-25,Fenerbahçe,Lyon,tr,fr,0,1,0.0
+2001-2002,First group stage,2,2001-09-25,La Coruña,Manchester Utd,es,eng,2,1,1.0
+2001-2002,First group stage,2,2001-09-25,Spartak Moscow,Bayern Munich,ru,de,1,3,0.0
+2001-2002,First group stage,2,2001-09-25,Lille,Olympiacos,fr,gr,3,1,1.0
+2001-2002,First group stage,2,2001-09-25,Sparta Prague,Feyenoord,cz,nl,4,0,1.0
+2001-2002,First group stage,2,2001-09-25,Rosenborg,Juventus,no,it,1,1,0.5
+2001-2002,First group stage,2,2001-09-25,Celtic,Porto,sct,pt,1,0,1.0
+2001-2002,First group stage,2,2001-09-25,Leverkusen,Barcelona,de,es,2,1,1.0
+2001-2002,First group stage,3,2001-09-26,PSV Eindhoven,Lazio,nl,it,1,0,1.0
+2001-2002,First group stage,3,2001-09-26,Boavista,Dortmund,pt,de,2,1,1.0
+2001-2002,First group stage,3,2001-09-26,Real Madrid,Anderlecht,es,be,4,1,1.0
+2001-2002,First group stage,3,2001-09-26,Schalke 04,Mallorca,de,es,0,1,0.0
+2001-2002,First group stage,3,2001-09-26,Liverpool,Dynamo Kyiv,eng,ua,1,0,1.0
+2001-2002,First group stage,3,2001-09-26,Nantes,Galatasaray,fr,tr,0,1,0.0
+2001-2002,First group stage,3,2001-09-26,Roma,Loko Moscow,it,ru,2,1,1.0
+2001-2002,First group stage,3,2001-09-26,Panathinaikos,Arsenal,gr,eng,1,0,1.0
+2001-2002,First group stage,3,2001-10-10,Celtic,Rosenborg,sct,no,1,0,1.0
+2001-2002,First group stage,3,2001-10-10,Lille,La Coruña,fr,es,1,1,0.5
+2001-2002,First group stage,3,2001-10-10,Olympiacos,Manchester Utd,gr,eng,0,2,0.0
+2001-2002,First group stage,3,2001-10-10,Barcelona,Lyon,es,fr,2,0,1.0
+2001-2002,First group stage,3,2001-10-10,Sparta Prague,Spartak Moscow,cz,ru,2,0,1.0
+2001-2002,First group stage,3,2001-10-10,Leverkusen,Fenerbahçe,de,tr,2,1,1.0
+2001-2002,First group stage,3,2001-10-10,Porto,Juventus,pt,it,0,0,0.5
+2001-2002,First group stage,3,2001-10-10,Feyenoord,Bayern Munich,nl,de,2,2,0.5
+2001-2002,First group stage,4,2001-10-16,Dortmund,Boavista,de,pt,2,1,1.0
+2001-2002,First group stage,4,2001-10-16,Mallorca,Schalke 04,es,de,0,4,0.0
+2001-2002,First group stage,4,2001-10-16,Loko Moscow,Roma,ru,it,0,1,0.0
+2001-2002,First group stage,4,2001-10-16,Lazio,PSV Eindhoven,it,nl,2,1,1.0
+2001-2002,First group stage,4,2001-10-16,Galatasaray,Nantes,tr,fr,0,0,0.5
+2001-2002,First group stage,4,2001-10-16,Arsenal,Panathinaikos,eng,gr,2,1,1.0
+2001-2002,First group stage,4,2001-10-16,Dynamo Kyiv,Liverpool,ua,eng,1,2,0.0
+2001-2002,First group stage,4,2001-10-16,Anderlecht,Real Madrid,be,es,0,2,0.0
+2001-2002,First group stage,4,2001-10-17,Feyenoord,Sparta Prague,nl,cz,0,2,0.0
+2001-2002,First group stage,4,2001-10-17,Porto,Celtic,pt,sct,3,0,1.0
+2001-2002,First group stage,4,2001-10-17,Bayern Munich,Spartak Moscow,de,ru,5,1,1.0
+2001-2002,First group stage,4,2001-10-17,Olympiacos,Lille,gr,fr,2,1,1.0
+2001-2002,First group stage,4,2001-10-17,Manchester Utd,La Coruña,eng,es,2,3,0.0
+2001-2002,First group stage,4,2001-10-17,Lyon,Fenerbahçe,fr,tr,3,1,1.0
+2001-2002,First group stage,4,2001-10-17,Juventus,Rosenborg,it,no,1,0,1.0
+2001-2002,First group stage,4,2001-10-17,Barcelona,Leverkusen,es,de,2,1,1.0
+2001-2002,First group stage,5,2001-10-23,La Coruña,Lille,es,fr,1,1,0.5
+2001-2002,First group stage,5,2001-10-23,Rosenborg,Celtic,no,sct,2,0,1.0
+2001-2002,First group stage,5,2001-10-23,Lyon,Barcelona,fr,es,2,3,0.0
+2001-2002,First group stage,5,2001-10-23,Fenerbahçe,Leverkusen,tr,de,1,2,0.0
+2001-2002,First group stage,5,2001-10-23,Bayern Munich,Feyenoord,de,nl,3,1,1.0
+2001-2002,First group stage,5,2001-10-23,Juventus,Porto,it,pt,3,1,1.0
+2001-2002,First group stage,5,2001-10-23,Manchester Utd,Olympiacos,eng,gr,3,0,1.0
+2001-2002,First group stage,5,2001-10-23,Spartak Moscow,Sparta Prague,ru,cz,2,2,0.5
+2001-2002,First group stage,5,2001-10-24,Anderlecht,Loko Moscow,be,ru,1,5,0.0
+2001-2002,First group stage,5,2001-10-24,Arsenal,Mallorca,eng,es,3,1,1.0
+2001-2002,First group stage,5,2001-10-24,Dortmund,Dynamo Kyiv,de,ua,1,0,1.0
+2001-2002,First group stage,5,2001-10-24,Real Madrid,Roma,es,it,1,1,0.5
+2001-2002,First group stage,5,2001-10-24,Lazio,Galatasaray,it,tr,1,0,1.0
+2001-2002,First group stage,5,2001-10-24,PSV Eindhoven,Nantes,nl,fr,0,0,0.5
+2001-2002,First group stage,5,2001-10-24,Panathinaikos,Schalke 04,gr,de,2,0,1.0
+2001-2002,First group stage,5,2001-10-24,Boavista,Liverpool,pt,eng,1,1,0.5
+2001-2002,First group stage,6,2001-10-30,Roma,Anderlecht,it,be,1,1,0.5
+2001-2002,First group stage,6,2001-10-30,Schalke 04,Arsenal,de,eng,3,1,1.0
+2001-2002,First group stage,6,2001-10-30,Liverpool,Dortmund,eng,de,2,0,1.0
+2001-2002,First group stage,6,2001-10-30,Galatasaray,PSV Eindhoven,tr,nl,2,0,1.0
+2001-2002,First group stage,6,2001-10-30,Dynamo Kyiv,Boavista,ua,pt,1,0,1.0
+2001-2002,First group stage,6,2001-10-30,Loko Moscow,Real Madrid,ru,es,2,0,1.0
+2001-2002,First group stage,6,2001-10-30,Mallorca,Panathinaikos,es,gr,1,0,1.0
+2001-2002,First group stage,6,2001-10-30,Nantes,Lazio,fr,it,1,0,1.0
+2001-2002,First group stage,6,2001-10-31,Sparta Prague,Bayern Munich,cz,de,0,1,0.0
+2001-2002,First group stage,6,2001-10-31,Porto,Rosenborg,pt,no,1,0,1.0
+2001-2002,First group stage,6,2001-10-31,Olympiacos,La Coruña,gr,es,1,1,0.5
+2001-2002,First group stage,6,2001-10-31,Leverkusen,Lyon,de,fr,2,4,0.0
+2001-2002,First group stage,6,2001-10-31,Celtic,Juventus,sct,it,4,3,1.0
+2001-2002,First group stage,6,2001-10-31,Feyenoord,Spartak Moscow,nl,ru,2,1,1.0
+2001-2002,First group stage,6,2001-10-31,Lille,Manchester Utd,fr,eng,1,1,0.5
+2001-2002,First group stage,6,2001-10-31,Barcelona,Fenerbahçe,es,tr,1,0,1.0
+2001-2002,Second group stage,7,2001-11-20,Galatasaray,Roma,tr,it,1,1,0.5
+2001-2002,Second group stage,7,2001-11-20,Bayern Munich,Manchester Utd,de,eng,1,1,0.5
+2001-2002,Second group stage,7,2001-11-20,Boavista,Nantes,pt,fr,1,0,1.0
+2001-2002,Second group stage,7,2001-11-20,Liverpool,Barcelona,eng,es,1,3,0.0
+2001-2002,Second group stage,7,2001-11-21,La Coruña,Arsenal,es,eng,2,0,1.0
+2001-2002,Second group stage,7,2001-11-21,Sparta Prague,Real Madrid,cz,es,2,3,0.0
+2001-2002,Second group stage,7,2001-11-21,Panathinaikos,Porto,gr,pt,0,0,0.5
+2001-2002,Second group stage,7,2001-11-29,Juventus,Leverkusen,it,de,4,0,1.0
+2001-2002,Second group stage,8,2001-12-04,Porto,Sparta Prague,pt,cz,0,1,0.0
+2001-2002,Second group stage,8,2001-12-04,Arsenal,Juventus,eng,it,3,1,1.0
+2001-2002,Second group stage,8,2001-12-04,Leverkusen,La Coruña,de,es,3,0,1.0
+2001-2002,Second group stage,8,2001-12-04,Real Madrid,Panathinaikos,es,gr,3,0,1.0
+2001-2002,Second group stage,8,2001-12-05,Manchester Utd,Boavista,eng,pt,3,0,1.0
+2001-2002,Second group stage,8,2001-12-05,Nantes,Bayern Munich,fr,de,0,1,0.0
+2001-2002,Second group stage,8,2001-12-05,Roma,Liverpool,it,eng,0,0,0.5
+2001-2002,Second group stage,8,2001-12-05,Barcelona,Galatasaray,es,tr,2,2,0.5
+2001-2002,Second group stage,9,2002-02-19,Juventus,La Coruña,it,es,0,0,0.5
+2001-2002,Second group stage,9,2002-02-19,Leverkusen,Arsenal,de,eng,1,1,0.5
+2001-2002,Second group stage,9,2002-02-19,Real Madrid,Porto,es,pt,1,0,1.0
+2001-2002,Second group stage,9,2002-02-19,Sparta Prague,Panathinaikos,cz,gr,0,2,0.0
+2001-2002,Second group stage,9,2002-02-20,Nantes,Manchester Utd,fr,eng,1,1,0.5
+2001-2002,Second group stage,9,2002-02-20,Boavista,Bayern Munich,pt,de,0,0,0.5
+2001-2002,Second group stage,9,2002-02-20,Barcelona,Roma,es,it,1,1,0.5
+2001-2002,Second group stage,9,2002-02-20,Liverpool,Galatasaray,eng,tr,0,0,0.5
+2001-2002,Second group stage,10,2002-02-26,Galatasaray,Liverpool,tr,eng,1,1,0.5
+2001-2002,Second group stage,10,2002-02-26,Roma,Barcelona,it,es,3,0,1.0
+2001-2002,Second group stage,10,2002-02-26,Bayern Munich,Boavista,de,pt,1,0,1.0
+2001-2002,Second group stage,10,2002-02-26,Manchester Utd,Nantes,eng,fr,5,1,1.0
+2001-2002,Second group stage,10,2002-02-27,La Coruña,Juventus,es,it,2,0,1.0
+2001-2002,Second group stage,10,2002-02-27,Panathinaikos,Sparta Prague,gr,cz,2,1,1.0
+2001-2002,Second group stage,10,2002-02-27,Porto,Real Madrid,pt,es,1,2,0.0
+2001-2002,Second group stage,10,2002-02-27,Arsenal,Leverkusen,eng,de,4,1,1.0
+2001-2002,Second group stage,11,2002-03-12,Real Madrid,Sparta Prague,es,cz,3,0,1.0
+2001-2002,Second group stage,11,2002-03-12,Arsenal,La Coruña,eng,es,0,2,0.0
+2001-2002,Second group stage,11,2002-03-12,Porto,Panathinaikos,pt,gr,2,1,1.0
+2001-2002,Second group stage,11,2002-03-12,Leverkusen,Juventus,de,it,3,1,1.0
+2001-2002,Second group stage,11,2002-03-13,Nantes,Boavista,fr,pt,1,1,0.5
+2001-2002,Second group stage,11,2002-03-13,Manchester Utd,Bayern Munich,eng,de,0,0,0.5
+2001-2002,Second group stage,11,2002-03-13,Barcelona,Liverpool,es,eng,0,0,0.5
+2001-2002,Second group stage,11,2002-03-13,Roma,Galatasaray,it,tr,1,1,0.5
+2001-2002,Second group stage,12,2002-03-19,Boavista,Manchester Utd,pt,eng,0,3,0.0
+2001-2002,Second group stage,12,2002-03-19,Galatasaray,Barcelona,tr,es,0,1,0.0
+2001-2002,Second group stage,12,2002-03-19,Liverpool,Roma,eng,it,2,0,1.0
+2001-2002,Second group stage,12,2002-03-19,Bayern Munich,Nantes,de,fr,2,1,1.0
+2001-2002,Second group stage,12,2002-03-20,Juventus,Arsenal,it,eng,1,0,1.0
+2001-2002,Second group stage,12,2002-03-20,La Coruña,Leverkusen,es,de,1,3,0.0
+2001-2002,Second group stage,12,2002-03-20,Panathinaikos,Real Madrid,gr,es,2,2,0.5
+2001-2002,Second group stage,12,2002-03-20,Sparta Prague,Porto,cz,pt,2,0,1.0
+2001-2002,Quarter-finals,,2002-04-02,Bayern Munich,Real Madrid,de,es,2,1,1.0
+2001-2002,Quarter-finals,,2002-04-02,La Coruña,Manchester Utd,es,eng,0,2,0.0
+2001-2002,Quarter-finals,,2002-04-03,Panathinaikos,Barcelona,gr,es,1,0,1.0
+2001-2002,Quarter-finals,,2002-04-03,Liverpool,Leverkusen,eng,de,1,0,1.0
+2001-2002,Quarter-finals,,2002-04-09,Leverkusen,Liverpool,de,eng,4,2,1.0
+2001-2002,Quarter-finals,,2002-04-09,Barcelona,Panathinaikos,es,gr,3,1,1.0
+2001-2002,Quarter-finals,,2002-04-10,Real Madrid,Bayern Munich,es,de,2,0,1.0
+2001-2002,Quarter-finals,,2002-04-10,Manchester Utd,La Coruña,eng,es,3,2,1.0
+2001-2002,Semi-finals,,2002-04-23,Barcelona,Real Madrid,es,es,0,2,0.0
+2001-2002,Semi-finals,,2002-04-24,Manchester Utd,Leverkusen,eng,de,2,2,0.5
+2001-2002,Semi-finals,,2002-04-30,Leverkusen,Manchester Utd,de,eng,1,1,0.5
+2001-2002,Semi-finals,,2002-05-01,Real Madrid,Barcelona,es,es,1,1,0.5
+2001-2002,Final,,2002-05-15,Leverkusen,Real Madrid,de,es,1,2,0.0

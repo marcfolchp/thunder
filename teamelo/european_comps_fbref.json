@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Champions-League",
+    "code": 8,
+    "country": null,
+    "type": "continental",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "Europa-League",
+    "code": 19,
+    "country": null,
+    "type": "continental",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "Conference-League",
+    "code": 882,
+    "country": null,
+    "type": "continental",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "La-Liga",
+    "code": 12,
+    "country": "Spain",
+    "type": "national",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "Premier-League",
+    "code": 9,
+    "country": "England",
+    "type": "national",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "Bundesliga",
+    "code": 20,
+    "country": "Germany",
+    "type": "national",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "Serie-A",
+    "code": 11,
+    "country": "Italy",
+    "type": "national",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "Ligue-1",
+    "code": 13,
+    "country": "France",
+    "type": "national",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "Austrian-Bundesliga",
+    "code": 56,
+    "country": "Austria",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Belgian-Pro-League",
+    "code": 37,
+    "country": "Belgium",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Russian-Premier",
+    "code": 30,
+    "country": "Russia",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": true
+  },
+  {
+    "name": "Liga-I",
+    "code": 47,
+    "country": "Romania",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Primeira-Liga",
+    "code": 32,
+    "country": "Portugal",
+    "type": "national",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "Ekstraklasa",
+    "code": 36,
+    "country": "Poland",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Eliteserien",
+    "code": 28,
+    "country": "Norway",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": true
+  },
+  {
+    "name": "Eredivisie",
+    "code": 23,
+    "country": "Netherlands",
+    "type": "national",
+    "all_scores_fixtures": "True",
+    "summer_seasons": false
+  },
+  {
+    "name": "NB-I",
+    "code": 46,
+    "country": "Hungary",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Super-League-Greece",
+    "code": 27,
+    "country": "Greece",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Veikkausliiga",
+    "code": 43,
+    "country": "Finland",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": true
+  },
+  {
+    "name": "Danish-Superliga",
+    "code": 50,
+    "country": "Denmark",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Czech-First-League",
+    "code": 66,
+    "country": "Czech Republic",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Hrvatska-NL",
+    "code": 63,
+    "country": "Croatia",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Bulgarian-First-League",
+    "code": 67,
+    "country": "Bulgaria",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Serbian-SuperLiga",
+    "code": 54,
+    "country": "Serbia",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Scottish-Premiership",
+    "code": 40,
+    "country": "Scotland",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Super-Lig",
+    "code": 26,
+    "country": "T\u00fcrkiye",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Allsvenskan",
+    "code": 29,
+    "country": "Sweden",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": true
+  },
+  {
+    "name": "Swiss-Super-League",
+    "code": 57,
+    "country": "Switzerland",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  },
+  {
+    "name": "Ukrainian-Premier-League",
+    "code": 39,
+    "country": "Ukraine",
+    "type": "national",
+    "all_scores_fixtures": "False",
+    "summer_seasons": false
+  }
+]

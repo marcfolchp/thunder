@@ -1,0 +1,74 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+1991-1992,First round,,1991-09-17,Kaiserslautern,Etar,de,bg,2,0,1.0
+1991-1992,First round,,1991-09-17,Red Star,Portadown FC,rs,nir,4,0,1.0
+1991-1992,First round,,1991-09-18,Union Luxembourg,Marseille,lu,fr,0,5,0.0
+1991-1992,First round,,1991-09-18,Brøndby,Zagłębie Lubin,dk,pl,3,0,1.0
+1991-1992,First round,,1991-09-18,Barcelona,Hansa Rostock,es,de,3,0,1.0
+1991-1992,First round,,1991-09-18,Anderlecht,Grasshopper,be,ch,1,1,0.5
+1991-1992,First round,,1991-09-18,Ħamrun Spartans FC,Benfica,mt,pt,0,6,0.0
+1991-1992,First round,,1991-09-18,HJK Helsinki,Dynamo Kyiv,fi,ua,0,1,0.0
+1991-1992,First round,,1991-09-18,Knattspyrnufélagið Fram,Panathinaikos,is,gr,2,2,0.5
+1991-1992,First round,,1991-09-18,Sparta Prague,Rangers,cz,sct,1,0,1.0
+1991-1992,First round,,1991-09-18,Göteborg,Flamurtari Vlorë,se,al,0,0,0.5
+1991-1992,First round,,1991-09-18,Arsenal,Austria Wien,eng,at,6,1,1.0
+1991-1992,First round,,1991-09-18,Honvéd,Dundalk FC,hu,ie,1,1,0.5
+1991-1992,First round,,1991-09-18,FC U Craiova,Apollon Limassol,ro,cy,2,0,1.0
+1991-1992,First round,,1991-09-18,Sampdoria,Rosenborg,it,no,5,0,1.0
+1991-1992,First round,,1991-09-18,Beşiktaş,PSV,tr,nl,1,1,0.5
+1991-1992,First round,,1991-10-02,Dundalk FC,Honvéd,ie,hu,0,2,0.0
+1991-1992,First round,,1991-10-02,Zagłębie Lubin,Brøndby,pl,dk,2,1,1.0
+1991-1992,First round,,1991-10-02,Grasshopper,Anderlecht,ch,be,0,3,0.0
+1991-1992,First round,,1991-10-02,Portadown FC,Red Star,nir,rs,0,4,0.0
+1991-1992,First round,,1991-10-02,Hansa Rostock,Barcelona,de,es,1,0,1.0
+1991-1992,First round,,1991-10-02,Flamurtari Vlorë,Göteborg,al,se,1,1,0.5
+1991-1992,First round,,1991-10-02,Rosenborg,Sampdoria,no,it,1,2,0.0
+1991-1992,First round,,1991-10-02,Marseille,Union Luxembourg,fr,lu,5,0,1.0
+1991-1992,First round,,1991-10-02,PSV,Beşiktaş,nl,tr,2,1,1.0
+1991-1992,First round,,1991-10-02,Austria Wien,Arsenal,at,eng,1,0,1.0
+1991-1992,First round,,1991-10-02,Benfica,Ħamrun Spartans FC,pt,mt,4,0,1.0
+1991-1992,First round,,1991-10-02,Dynamo Kyiv,HJK Helsinki,ua,fi,3,0,1.0
+1991-1992,First round,,1991-10-02,Apollon Limassol,FC U Craiova,cy,ro,3,0,1.0
+1991-1992,First round,,1991-10-02,Etar,Kaiserslautern,bg,de,1,1,0.5
+1991-1992,First round,,1991-10-02,Panathinaikos,Knattspyrnufélagið Fram,gr,is,0,0,0.5
+1991-1992,First round,,1991-10-02,Rangers,Sparta Prague,sct,cz,2,1,1.0
+1991-1992,Second round,,1991-10-23,Barcelona,Kaiserslautern,es,de,2,0,1.0
+1991-1992,Second round,,1991-10-23,Dynamo Kyiv,Brøndby,ua,dk,1,1,0.5
+1991-1992,Second round,,1991-10-23,Red Star,Apollon Limassol,rs,cy,3,1,1.0
+1991-1992,Second round,,1991-10-23,Marseille,Sparta Prague,fr,cz,3,2,1.0
+1991-1992,Second round,,1991-10-23,Honvéd,Sampdoria,hu,it,2,1,1.0
+1991-1992,Second round,,1991-10-23,Panathinaikos,Göteborg,gr,se,2,0,1.0
+1991-1992,Second round,,1991-10-23,PSV,Anderlecht,nl,be,0,0,0.5
+1991-1992,Second round,,1991-10-23,Benfica,Arsenal,pt,eng,1,1,0.5
+1991-1992,Second round,,1991-11-06,Apollon Limassol,Red Star,cy,rs,0,2,0.0
+1991-1992,Second round,,1991-11-06,Kaiserslautern,Barcelona,de,es,3,1,1.0
+1991-1992,Second round,,1991-11-06,Arsenal,Benfica,eng,pt,1,3,0.0
+1991-1992,Second round,,1991-11-06,Sampdoria,Honvéd,it,hu,3,1,1.0
+1991-1992,Second round,,1991-11-06,Sparta Prague,Marseille,cz,fr,2,1,1.0
+1991-1992,Second round,,1991-11-06,Anderlecht,PSV,be,nl,2,0,1.0
+1991-1992,Second round,,1991-11-06,Brøndby,Dynamo Kyiv,dk,ua,0,1,0.0
+1991-1992,Second round,,1991-11-06,Göteborg,Panathinaikos,se,gr,2,2,0.5
+1991-1992,Group stage,1,1991-11-27,Dynamo Kyiv,Benfica,ua,pt,1,0,1.0
+1991-1992,Group stage,1,1991-11-27,Sampdoria,Red Star,it,rs,2,0,1.0
+1991-1992,Group stage,1,1991-11-27,Barcelona,Sparta Prague,es,cz,3,2,1.0
+1991-1992,Group stage,1,1991-11-27,Anderlecht,Panathinaikos,be,gr,0,0,0.5
+1991-1992,Group stage,2,1991-12-11,Benfica,Barcelona,pt,es,0,0,0.5
+1991-1992,Group stage,2,1991-12-11,Panathinaikos,Sampdoria,gr,it,0,0,0.5
+1991-1992,Group stage,2,1991-12-11,Sparta Prague,Dynamo Kyiv,cz,ua,2,1,1.0
+1991-1992,Group stage,2,1991-12-12,Red Star,Anderlecht,rs,be,3,2,1.0
+1991-1992,Group stage,3,1992-03-04,Dynamo Kyiv,Barcelona,ua,es,0,2,0.0
+1991-1992,Group stage,3,1992-03-04,Benfica,Sparta Prague,pt,cz,1,1,0.5
+1991-1992,Group stage,3,1992-03-04,Anderlecht,Sampdoria,be,it,3,2,1.0
+1991-1992,Group stage,3,1992-03-04,Panathinaikos,Red Star,gr,rs,0,2,0.0
+1991-1992,Group stage,4,1992-03-18,Red Star,Panathinaikos,rs,gr,1,0,1.0
+1991-1992,Group stage,4,1992-03-18,Sampdoria,Anderlecht,it,be,2,0,1.0
+1991-1992,Group stage,4,1992-03-18,Sparta Prague,Benfica,cz,pt,1,1,0.5
+1991-1992,Group stage,4,1992-03-18,Barcelona,Dynamo Kyiv,es,ua,3,0,1.0
+1991-1992,Group stage,5,1992-04-01,Red Star,Sampdoria,rs,it,1,3,0.0
+1991-1992,Group stage,5,1992-04-01,Panathinaikos,Anderlecht,gr,be,0,0,0.5
+1991-1992,Group stage,5,1992-04-01,Sparta Prague,Barcelona,cz,es,1,0,1.0
+1991-1992,Group stage,5,1992-04-01,Benfica,Dynamo Kyiv,pt,ua,5,0,1.0
+1991-1992,Group stage,6,1992-04-15,Anderlecht,Red Star,be,rs,3,2,1.0
+1991-1992,Group stage,6,1992-04-15,Barcelona,Benfica,es,pt,2,1,1.0
+1991-1992,Group stage,6,1992-04-15,Sampdoria,Panathinaikos,it,gr,1,1,0.5
+1991-1992,Group stage,6,1992-04-15,Dynamo Kyiv,Sparta Prague,ua,cz,1,0,1.0
+1991-1992,Final,,1992-05-20,Sampdoria,Barcelona,it,es,0,1,0.0

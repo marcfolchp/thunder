@@ -1,0 +1,126 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2017-2018,Group stage,1,2017-09-12,Chelsea,Qarabağ,eng,az,6,0,1.0
+2017-2018,Group stage,1,2017-09-12,Celtic,Paris S-G,sct,fr,0,5,0.0
+2017-2018,Group stage,1,2017-09-12,Manchester Utd,Basel,eng,ch,3,0,1.0
+2017-2018,Group stage,1,2017-09-12,Benfica,CSKA Moscow,pt,ru,1,2,0.0
+2017-2018,Group stage,1,2017-09-12,Roma,Atlético Madrid,it,es,0,0,0.5
+2017-2018,Group stage,1,2017-09-12,Barcelona,Juventus,es,it,3,0,1.0
+2017-2018,Group stage,1,2017-09-12,Bayern Munich,Anderlecht,de,be,3,0,1.0
+2017-2018,Group stage,1,2017-09-12,Olympiacos,Sporting CP,gr,pt,2,3,0.0
+2017-2018,Group stage,1,2017-09-13,Porto,Beşiktaş,pt,tr,1,3,0.0
+2017-2018,Group stage,1,2017-09-13,Liverpool,Sevilla,eng,es,2,2,0.5
+2017-2018,Group stage,1,2017-09-13,Tottenham,Dortmund,eng,de,3,1,1.0
+2017-2018,Group stage,1,2017-09-13,NK Maribor,Spartak Moscow,si,ru,1,1,0.5
+2017-2018,Group stage,1,2017-09-13,Feyenoord,Manchester City,nl,eng,0,4,0.0
+2017-2018,Group stage,1,2017-09-13,RB Leipzig,Monaco,de,fr,1,1,0.5
+2017-2018,Group stage,1,2017-09-13,Real Madrid,APOEL FC,es,cy,3,0,1.0
+2017-2018,Group stage,1,2017-09-13,Shakhtar,Napoli,ua,it,2,1,1.0
+2017-2018,Group stage,2,2017-09-26,Manchester City,Shakhtar,eng,ua,2,0,1.0
+2017-2018,Group stage,2,2017-09-26,Sevilla,NK Maribor,es,si,3,0,1.0
+2017-2018,Group stage,2,2017-09-26,Dortmund,Real Madrid,de,es,1,3,0.0
+2017-2018,Group stage,2,2017-09-26,Monaco,Porto,fr,pt,0,3,0.0
+2017-2018,Group stage,2,2017-09-26,Napoli,Feyenoord,it,nl,3,1,1.0
+2017-2018,Group stage,2,2017-09-26,Spartak Moscow,Liverpool,ru,eng,1,1,0.5
+2017-2018,Group stage,2,2017-09-26,Beşiktaş,RB Leipzig,tr,de,2,0,1.0
+2017-2018,Group stage,2,2017-09-26,APOEL FC,Tottenham,cy,eng,0,3,0.0
+2017-2018,Group stage,2,2017-09-28,CSKA Moscow,Manchester Utd,ru,eng,1,4,0.0
+2017-2018,Group stage,2,2017-09-27,Sporting CP,Barcelona,pt,es,0,1,0.0
+2017-2018,Group stage,2,2017-09-27,Qarabağ,Roma,az,it,1,2,0.0
+2017-2018,Group stage,2,2017-09-27,Atlético Madrid,Chelsea,es,eng,1,2,0.0
+2017-2018,Group stage,2,2017-09-27,Juventus,Olympiacos,it,gr,2,0,1.0
+2017-2018,Group stage,2,2017-09-27,Basel,Benfica,ch,pt,5,0,1.0
+2017-2018,Group stage,2,2017-09-27,Paris S-G,Bayern Munich,fr,de,3,0,1.0
+2017-2018,Group stage,2,2017-09-27,Anderlecht,Celtic,be,sct,0,3,0.0
+2017-2018,Group stage,3,2017-10-17,Manchester City,Napoli,eng,it,2,1,1.0
+2017-2018,Group stage,3,2017-10-17,Feyenoord,Shakhtar,nl,ua,1,2,0.0
+2017-2018,Group stage,3,2017-10-17,Monaco,Beşiktaş,fr,tr,1,2,0.0
+2017-2018,Group stage,3,2017-10-17,RB Leipzig,Porto,de,pt,3,2,1.0
+2017-2018,Group stage,3,2017-10-17,Real Madrid,Tottenham,es,eng,1,1,0.5
+2017-2018,Group stage,3,2017-10-17,NK Maribor,Liverpool,si,eng,0,7,0.0
+2017-2018,Group stage,3,2017-10-17,Spartak Moscow,Sevilla,ru,es,5,1,1.0
+2017-2018,Group stage,3,2017-10-17,APOEL FC,Dortmund,cy,de,1,1,0.5
+2017-2018,Group stage,3,2017-10-18,Benfica,Manchester Utd,pt,eng,0,1,0.0
+2017-2018,Group stage,3,2017-10-18,Chelsea,Roma,eng,it,3,3,0.5
+2017-2018,Group stage,3,2017-10-18,Qarabağ,Atlético Madrid,az,es,0,0,0.5
+2017-2018,Group stage,3,2017-10-18,Barcelona,Olympiacos,es,gr,3,1,1.0
+2017-2018,Group stage,3,2017-10-18,Anderlecht,Paris S-G,be,fr,0,4,0.0
+2017-2018,Group stage,3,2017-10-18,Bayern Munich,Celtic,de,sct,3,0,1.0
+2017-2018,Group stage,3,2017-10-18,Juventus,Sporting CP,it,pt,2,1,1.0
+2017-2018,Group stage,3,2017-10-18,CSKA Moscow,Basel,ru,ch,0,2,0.0
+2017-2018,Group stage,4,2017-10-31,Celtic,Bayern Munich,sct,de,1,2,0.0
+2017-2018,Group stage,4,2017-10-31,Sporting CP,Juventus,pt,it,1,1,0.5
+2017-2018,Group stage,4,2017-10-31,Manchester Utd,Benfica,eng,pt,2,0,1.0
+2017-2018,Group stage,4,2017-10-31,Paris S-G,Anderlecht,fr,be,5,0,1.0
+2017-2018,Group stage,4,2017-10-31,Atlético Madrid,Qarabağ,es,az,1,1,0.5
+2017-2018,Group stage,4,2017-10-31,Roma,Chelsea,it,eng,3,0,1.0
+2017-2018,Group stage,4,2017-10-31,Basel,CSKA Moscow,ch,ru,1,2,0.0
+2017-2018,Group stage,4,2017-10-31,Olympiacos,Barcelona,gr,es,0,0,0.5
+2017-2018,Group stage,4,2017-11-01,Tottenham,Real Madrid,eng,es,3,1,1.0
+2017-2018,Group stage,4,2017-11-01,Porto,RB Leipzig,pt,de,3,1,1.0
+2017-2018,Group stage,4,2017-11-01,Liverpool,NK Maribor,eng,si,3,0,1.0
+2017-2018,Group stage,4,2017-11-01,Beşiktaş,Monaco,tr,fr,1,1,0.5
+2017-2018,Group stage,4,2017-11-01,Sevilla,Spartak Moscow,es,ru,2,1,1.0
+2017-2018,Group stage,4,2017-11-01,Dortmund,APOEL FC,de,cy,1,1,0.5
+2017-2018,Group stage,4,2017-11-01,Napoli,Manchester City,it,eng,2,4,0.0
+2017-2018,Group stage,4,2017-11-01,Shakhtar,Feyenoord,ua,nl,3,1,1.0
+2017-2018,Group stage,5,2017-11-21,Manchester City,Feyenoord,eng,nl,1,0,1.0
+2017-2018,Group stage,5,2017-11-21,Beşiktaş,Porto,tr,pt,1,1,0.5
+2017-2018,Group stage,5,2017-11-21,Spartak Moscow,NK Maribor,ru,si,1,1,0.5
+2017-2018,Group stage,5,2017-11-21,Sevilla,Liverpool,es,eng,3,3,0.5
+2017-2018,Group stage,5,2017-11-21,Napoli,Shakhtar,it,ua,3,0,1.0
+2017-2018,Group stage,5,2017-11-21,Dortmund,Tottenham,de,eng,1,2,0.0
+2017-2018,Group stage,5,2017-11-21,Monaco,RB Leipzig,fr,de,1,4,0.0
+2017-2018,Group stage,5,2017-11-21,APOEL FC,Real Madrid,cy,es,0,6,0.0
+2017-2018,Group stage,5,2017-11-22,Sporting CP,Olympiacos,pt,gr,3,1,1.0
+2017-2018,Group stage,5,2017-11-22,CSKA Moscow,Benfica,ru,pt,2,0,1.0
+2017-2018,Group stage,5,2017-11-22,Juventus,Barcelona,it,es,0,0,0.5
+2017-2018,Group stage,5,2017-11-22,Basel,Manchester Utd,ch,eng,1,0,1.0
+2017-2018,Group stage,5,2017-11-22,Anderlecht,Bayern Munich,be,de,1,2,0.0
+2017-2018,Group stage,5,2017-11-22,Paris S-G,Celtic,fr,sct,7,1,1.0
+2017-2018,Group stage,5,2017-11-22,Atlético Madrid,Roma,es,it,2,0,1.0
+2017-2018,Group stage,5,2017-11-22,Qarabağ,Chelsea,az,eng,0,4,0.0
+2017-2018,Group stage,6,2017-12-05,Chelsea,Atlético Madrid,eng,es,1,1,0.5
+2017-2018,Group stage,6,2017-12-05,Celtic,Anderlecht,sct,be,0,1,0.0
+2017-2018,Group stage,6,2017-12-05,Manchester Utd,CSKA Moscow,eng,ru,2,1,1.0
+2017-2018,Group stage,6,2017-12-05,Benfica,Basel,pt,ch,0,2,0.0
+2017-2018,Group stage,6,2017-12-05,Barcelona,Sporting CP,es,pt,2,0,1.0
+2017-2018,Group stage,6,2017-12-05,Roma,Qarabağ,it,az,1,0,1.0
+2017-2018,Group stage,6,2017-12-05,Bayern Munich,Paris S-G,de,fr,3,1,1.0
+2017-2018,Group stage,6,2017-12-05,Olympiacos,Juventus,gr,it,0,2,0.0
+2017-2018,Group stage,6,2017-12-06,Tottenham,APOEL FC,eng,cy,3,0,1.0
+2017-2018,Group stage,6,2017-12-06,Porto,Monaco,pt,fr,5,2,1.0
+2017-2018,Group stage,6,2017-12-06,Liverpool,Spartak Moscow,eng,ru,7,0,1.0
+2017-2018,Group stage,6,2017-12-06,RB Leipzig,Beşiktaş,de,tr,1,2,0.0
+2017-2018,Group stage,6,2017-12-06,Feyenoord,Napoli,nl,it,2,1,1.0
+2017-2018,Group stage,6,2017-12-06,NK Maribor,Sevilla,si,es,1,1,0.5
+2017-2018,Group stage,6,2017-12-06,Real Madrid,Dortmund,es,de,3,2,1.0
+2017-2018,Group stage,6,2017-12-06,Shakhtar,Manchester City,ua,eng,2,1,1.0
+2017-2018,Round of 16,,2018-02-13,Basel,Manchester City,ch,eng,0,4,0.0
+2017-2018,Round of 16,,2018-02-13,Juventus,Tottenham,it,eng,2,2,0.5
+2017-2018,Round of 16,,2018-02-14,Porto,Liverpool,pt,eng,0,5,0.0
+2017-2018,Round of 16,,2018-02-14,Real Madrid,Paris S-G,es,fr,3,1,1.0
+2017-2018,Round of 16,,2018-02-20,Chelsea,Barcelona,eng,es,1,1,0.5
+2017-2018,Round of 16,,2018-02-20,Bayern Munich,Beşiktaş,de,tr,5,0,1.0
+2017-2018,Round of 16,,2018-02-21,Sevilla,Manchester Utd,es,eng,0,0,0.5
+2017-2018,Round of 16,,2018-02-21,Shakhtar,Roma,ua,it,2,1,1.0
+2017-2018,Round of 16,,2018-03-06,Liverpool,Porto,eng,pt,0,0,0.5
+2017-2018,Round of 16,,2018-03-06,Paris S-G,Real Madrid,fr,es,1,2,0.0
+2017-2018,Round of 16,,2018-03-07,Tottenham,Juventus,eng,it,1,2,0.0
+2017-2018,Round of 16,,2018-03-07,Manchester City,Basel,eng,ch,1,2,0.0
+2017-2018,Round of 16,,2018-03-13,Manchester Utd,Sevilla,eng,es,1,2,0.0
+2017-2018,Round of 16,,2018-03-13,Roma,Shakhtar,it,ua,1,0,1.0
+2017-2018,Round of 16,,2018-03-14,Beşiktaş,Bayern Munich,tr,de,1,3,0.0
+2017-2018,Round of 16,,2018-03-14,Barcelona,Chelsea,es,eng,3,0,1.0
+2017-2018,Quarter-finals,,2018-04-03,Sevilla,Bayern Munich,es,de,1,2,0.0
+2017-2018,Quarter-finals,,2018-04-03,Juventus,Real Madrid,it,es,0,3,0.0
+2017-2018,Quarter-finals,,2018-04-04,Liverpool,Manchester City,eng,eng,3,0,1.0
+2017-2018,Quarter-finals,,2018-04-04,Barcelona,Roma,es,it,4,1,1.0
+2017-2018,Quarter-finals,,2018-04-10,Manchester City,Liverpool,eng,eng,1,2,0.0
+2017-2018,Quarter-finals,,2018-04-10,Roma,Barcelona,it,es,3,0,1.0
+2017-2018,Quarter-finals,,2018-04-11,Bayern Munich,Sevilla,de,es,0,0,0.5
+2017-2018,Quarter-finals,,2018-04-11,Real Madrid,Juventus,es,it,1,3,0.0
+2017-2018,Semi-finals,,2018-04-24,Liverpool,Roma,eng,it,5,2,1.0
+2017-2018,Semi-finals,,2018-04-25,Bayern Munich,Real Madrid,de,es,1,2,0.0
+2017-2018,Semi-finals,,2018-05-01,Real Madrid,Bayern Munich,es,de,2,2,0.5
+2017-2018,Semi-finals,,2018-05-02,Roma,Liverpool,it,eng,4,2,1.0
+2017-2018,Final,,2018-05-26,Real Madrid,Liverpool,es,eng,3,1,1.0

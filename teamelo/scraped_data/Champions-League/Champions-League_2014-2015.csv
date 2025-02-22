@@ -1,0 +1,126 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2014-2015,Group stage,1,2014-09-16,Benfica,Zenit,pt,ru,0.0,2.0,0.0
+2014-2015,Group stage,1,2014-09-16,Liverpool,Ludogorets,eng,bg,2.0,1.0,1.0
+2014-2015,Group stage,1,2014-09-16,Dortmund,Arsenal,de,eng,2.0,0.0,1.0
+2014-2015,Group stage,1,2014-09-16,Monaco,Leverkusen,fr,de,1.0,0.0,1.0
+2014-2015,Group stage,1,2014-09-16,Real Madrid,Basel,es,ch,5.0,1.0,1.0
+2014-2015,Group stage,1,2014-09-16,Juventus,Malmö,it,se,2.0,0.0,1.0
+2014-2015,Group stage,1,2014-09-16,Galatasaray,Anderlecht,tr,be,1.0,1.0,0.5
+2014-2015,Group stage,1,2014-09-16,Olympiacos,Atlético Madrid,gr,es,3.0,2.0,1.0
+2014-2015,Group stage,1,2014-09-17,Chelsea,Schalke 04,eng,de,1.0,1.0,0.5
+2014-2015,Group stage,1,2014-09-17,Porto,BATE Borisov,pt,by,6.0,0.0,1.0
+2014-2015,Group stage,1,2014-09-17,Roma,CSKA Moscow,it,ru,5.0,1.0,1.0
+2014-2015,Group stage,1,2014-09-17,Barcelona,APOEL FC,es,cy,1.0,0.0,1.0
+2014-2015,Group stage,1,2014-09-17,Ajax,Paris S-G,nl,fr,1.0,1.0,0.5
+2014-2015,Group stage,1,2014-09-17,NK Maribor,Sporting CP,si,pt,1.0,1.0,0.5
+2014-2015,Group stage,1,2014-09-17,Athletic Club,Shakhtar,es,ua,0.0,0.0,0.5
+2014-2015,Group stage,1,2014-09-17,Bayern Munich,Manchester City,de,eng,1.0,0.0,1.0
+2014-2015,Group stage,2,2014-09-30,Sporting CP,Chelsea,pt,eng,0.0,1.0,0.0
+2014-2015,Group stage,2,2014-09-30,Manchester City,Roma,eng,it,1.0,1.0,0.5
+2014-2015,Group stage,2,2014-09-30,CSKA Moscow,Bayern Munich,ru,de,0.0,1.0,0.0
+2014-2015,Group stage,2,2014-09-30,Schalke 04,NK Maribor,de,si,1.0,1.0,0.5
+2014-2015,Group stage,2,2014-09-30,Paris S-G,Barcelona,fr,es,3.0,2.0,1.0
+2014-2015,Group stage,2,2014-09-30,Shakhtar,Porto,ua,pt,2.0,2.0,0.5
+2014-2015,Group stage,2,2014-09-30,APOEL FC,Ajax,cy,nl,1.0,1.0,0.5
+2014-2015,Group stage,2,2014-09-30,BATE Borisov,Athletic Club,by,es,2.0,1.0,1.0
+2014-2015,Group stage,2,2014-10-01,Arsenal,Galatasaray,eng,tr,4.0,1.0,1.0
+2014-2015,Group stage,2,2014-10-01,Zenit,Monaco,ru,fr,0.0,0.0,0.5
+2014-2015,Group stage,2,2014-10-01,Leverkusen,Benfica,de,pt,3.0,1.0,1.0
+2014-2015,Group stage,2,2014-10-01,Malmö,Olympiacos,se,gr,2.0,0.0,1.0
+2014-2015,Group stage,2,2014-10-01,Atlético Madrid,Juventus,es,it,1.0,0.0,1.0
+2014-2015,Group stage,2,2014-10-01,Basel,Liverpool,ch,eng,1.0,0.0,1.0
+2014-2015,Group stage,2,2014-10-01,Anderlecht,Dortmund,be,de,0.0,3.0,0.0
+2014-2015,Group stage,2,2014-10-01,Ludogorets,Real Madrid,bg,es,1.0,2.0,0.0
+2014-2015,Group stage,3,2014-10-21,Chelsea,NK Maribor,eng,si,6.0,0.0,1.0
+2014-2015,Group stage,3,2014-10-21,Porto,Athletic Club,pt,es,2.0,1.0,1.0
+2014-2015,Group stage,3,2014-10-21,CSKA Moscow,Manchester City,ru,eng,2.0,2.0,0.5
+2014-2015,Group stage,3,2014-10-21,Roma,Bayern Munich,it,de,1.0,7.0,0.0
+2014-2015,Group stage,3,2014-10-21,Schalke 04,Sporting CP,de,pt,4.0,3.0,1.0
+2014-2015,Group stage,3,2014-10-21,Barcelona,Ajax,es,nl,3.0,1.0,1.0
+2014-2015,Group stage,3,2014-10-21,APOEL FC,Paris S-G,cy,fr,0.0,1.0,0.0
+2014-2015,Group stage,3,2014-10-21,BATE Borisov,Shakhtar,by,ua,0.0,7.0,0.0
+2014-2015,Group stage,3,2014-10-22,Liverpool,Real Madrid,eng,es,0.0,3.0,0.0
+2014-2015,Group stage,3,2014-10-22,Monaco,Benfica,fr,pt,0.0,0.0,0.5
+2014-2015,Group stage,3,2014-10-22,Atlético Madrid,Malmö,es,se,5.0,0.0,1.0
+2014-2015,Group stage,3,2014-10-22,Leverkusen,Zenit,de,ru,2.0,0.0,1.0
+2014-2015,Group stage,3,2014-10-22,Anderlecht,Arsenal,be,eng,1.0,2.0,0.0
+2014-2015,Group stage,3,2014-10-22,Olympiacos,Juventus,gr,it,1.0,0.0,1.0
+2014-2015,Group stage,3,2014-10-22,Ludogorets,Basel,bg,ch,1.0,0.0,1.0
+2014-2015,Group stage,3,2014-10-22,Galatasaray,Dortmund,tr,de,0.0,4.0,0.0
+2014-2015,Group stage,4,2014-11-04,Arsenal,Anderlecht,eng,be,3.0,3.0,0.5
+2014-2015,Group stage,4,2014-11-04,Benfica,Monaco,pt,fr,1.0,0.0,1.0
+2014-2015,Group stage,4,2014-11-04,Zenit,Leverkusen,ru,de,1.0,2.0,0.0
+2014-2015,Group stage,4,2014-11-04,Dortmund,Galatasaray,de,tr,4.0,1.0,1.0
+2014-2015,Group stage,4,2014-11-04,Basel,Ludogorets,ch,bg,4.0,0.0,1.0
+2014-2015,Group stage,4,2014-11-04,Real Madrid,Liverpool,es,eng,1.0,0.0,1.0
+2014-2015,Group stage,4,2014-11-04,Malmö,Atlético Madrid,se,es,0.0,2.0,0.0
+2014-2015,Group stage,4,2014-11-04,Juventus,Olympiacos,it,gr,3.0,2.0,1.0
+2014-2015,Group stage,4,2014-11-05,Sporting CP,Schalke 04,pt,de,4.0,2.0,1.0
+2014-2015,Group stage,4,2014-11-05,Manchester City,CSKA Moscow,eng,ru,1.0,2.0,0.0
+2014-2015,Group stage,4,2014-11-05,Athletic Club,Porto,es,pt,0.0,2.0,0.0
+2014-2015,Group stage,4,2014-11-05,Paris S-G,APOEL FC,fr,cy,1.0,0.0,1.0
+2014-2015,Group stage,4,2014-11-05,Bayern Munich,Roma,de,it,2.0,0.0,1.0
+2014-2015,Group stage,4,2014-11-05,NK Maribor,Chelsea,si,eng,1.0,1.0,0.5
+2014-2015,Group stage,4,2014-11-05,Ajax,Barcelona,nl,es,0.0,2.0,0.0
+2014-2015,Group stage,4,2014-11-05,Shakhtar,BATE Borisov,ua,by,5.0,0.0,1.0
+2014-2015,Group stage,5,2014-11-25,Manchester City,Bayern Munich,eng,de,3.0,2.0,1.0
+2014-2015,Group stage,5,2014-11-25,Sporting CP,NK Maribor,pt,si,3.0,1.0,1.0
+2014-2015,Group stage,5,2014-11-25,BATE Borisov,Porto,by,pt,0.0,3.0,0.0
+2014-2015,Group stage,5,2014-11-25,CSKA Moscow,Roma,ru,it,1.0,1.0,0.5
+2014-2015,Group stage,5,2014-11-25,Schalke 04,Chelsea,de,eng,0.0,5.0,0.0
+2014-2015,Group stage,5,2014-11-25,Paris S-G,Ajax,fr,nl,3.0,1.0,1.0
+2014-2015,Group stage,5,2014-11-25,APOEL FC,Barcelona,cy,es,0.0,4.0,0.0
+2014-2015,Group stage,5,2014-11-25,Shakhtar,Athletic Club,ua,es,0.0,1.0,0.0
+2014-2015,Group stage,5,2014-11-26,Arsenal,Dortmund,eng,de,2.0,0.0,1.0
+2014-2015,Group stage,5,2014-11-26,Zenit,Benfica,ru,pt,1.0,0.0,1.0
+2014-2015,Group stage,5,2014-11-26,Leverkusen,Monaco,de,fr,0.0,1.0,0.0
+2014-2015,Group stage,5,2014-11-26,Malmö,Juventus,se,it,0.0,2.0,0.0
+2014-2015,Group stage,5,2014-11-26,Atlético Madrid,Olympiacos,es,gr,4.0,0.0,1.0
+2014-2015,Group stage,5,2014-11-26,Basel,Real Madrid,ch,es,0.0,1.0,0.0
+2014-2015,Group stage,5,2014-11-26,Anderlecht,Galatasaray,be,tr,2.0,0.0,1.0
+2014-2015,Group stage,5,2014-11-26,Ludogorets,Liverpool,bg,eng,2.0,2.0,0.5
+2014-2015,Group stage,6,2014-12-09,Liverpool,Basel,eng,ch,1.0,1.0,0.5
+2014-2015,Group stage,6,2014-12-09,Benfica,Leverkusen,pt,de,0.0,0.0,0.5
+2014-2015,Group stage,6,2014-12-09,Juventus,Atlético Madrid,it,es,0.0,0.0,0.5
+2014-2015,Group stage,6,2014-12-09,Dortmund,Anderlecht,de,be,1.0,1.0,0.5
+2014-2015,Group stage,6,2014-12-09,Real Madrid,Ludogorets,es,bg,4.0,0.0,1.0
+2014-2015,Group stage,6,2014-12-09,Monaco,Zenit,fr,ru,2.0,0.0,1.0
+2014-2015,Group stage,6,2014-12-09,Olympiacos,Malmö,gr,se,4.0,2.0,1.0
+2014-2015,Group stage,6,2014-12-09,Galatasaray,Arsenal,tr,eng,1.0,4.0,0.0
+2014-2015,Group stage,6,2014-12-10,Chelsea,Sporting CP,eng,pt,3.0,1.0,1.0
+2014-2015,Group stage,6,2014-12-10,Porto,Shakhtar,pt,ua,1.0,1.0,0.5
+2014-2015,Group stage,6,2014-12-10,Bayern Munich,CSKA Moscow,de,ru,3.0,0.0,1.0
+2014-2015,Group stage,6,2014-12-10,Barcelona,Paris S-G,es,fr,3.0,1.0,1.0
+2014-2015,Group stage,6,2014-12-10,NK Maribor,Schalke 04,si,de,0.0,1.0,0.0
+2014-2015,Group stage,6,2014-12-10,Roma,Manchester City,it,eng,0.0,2.0,0.0
+2014-2015,Group stage,6,2014-12-10,Athletic Club,BATE Borisov,es,by,2.0,0.0,1.0
+2014-2015,Group stage,6,2014-12-10,Ajax,APOEL FC,nl,cy,4.0,0.0,1.0
+2014-2015,Round of 16,,2015-02-17,Paris S-G,Chelsea,fr,eng,1.0,1.0,0.5
+2014-2015,Round of 16,,2015-02-17,Shakhtar,Bayern Munich,ua,de,0.0,0.0,0.5
+2014-2015,Round of 16,,2015-02-18,Basel,Porto,ch,pt,1.0,1.0,0.5
+2014-2015,Round of 16,,2015-02-18,Schalke 04,Real Madrid,de,es,0.0,2.0,0.0
+2014-2015,Round of 16,,2015-02-24,Manchester City,Barcelona,eng,es,1.0,2.0,0.0
+2014-2015,Round of 16,,2015-02-24,Juventus,Dortmund,it,de,2.0,1.0,1.0
+2014-2015,Round of 16,,2015-02-25,Arsenal,Monaco,eng,fr,1.0,3.0,0.0
+2014-2015,Round of 16,,2015-02-25,Leverkusen,Atlético Madrid,de,es,1.0,0.0,1.0
+2014-2015,Round of 16,,2015-03-10,Porto,Basel,pt,ch,4.0,0.0,1.0
+2014-2015,Round of 16,,2015-03-10,Real Madrid,Schalke 04,es,de,3.0,4.0,0.0
+2014-2015,Round of 16,,2015-03-11,Chelsea,Paris S-G,eng,fr,2.0,2.0,0.5
+2014-2015,Round of 16,,2015-03-11,Bayern Munich,Shakhtar,de,ua,7.0,0.0,1.0
+2014-2015,Round of 16,,2015-03-17,Atlético Madrid,Leverkusen,es,de,,,0.5
+2014-2015,Round of 16,,2015-03-17,Monaco,Arsenal,fr,eng,0.0,2.0,0.0
+2014-2015,Round of 16,,2015-03-18,Barcelona,Manchester City,es,eng,1.0,0.0,1.0
+2014-2015,Round of 16,,2015-03-18,Dortmund,Juventus,de,it,0.0,3.0,0.0
+2014-2015,Quarter-finals,,2015-04-14,Atlético Madrid,Real Madrid,es,es,0.0,0.0,0.5
+2014-2015,Quarter-finals,,2015-04-14,Juventus,Monaco,it,fr,1.0,0.0,1.0
+2014-2015,Quarter-finals,,2015-04-15,Porto,Bayern Munich,pt,de,3.0,1.0,1.0
+2014-2015,Quarter-finals,,2015-04-15,Paris S-G,Barcelona,fr,es,1.0,3.0,0.0
+2014-2015,Quarter-finals,,2015-04-21,Barcelona,Paris S-G,es,fr,2.0,0.0,1.0
+2014-2015,Quarter-finals,,2015-04-21,Bayern Munich,Porto,de,pt,6.0,1.0,1.0
+2014-2015,Quarter-finals,,2015-04-22,Real Madrid,Atlético Madrid,es,es,1.0,0.0,1.0
+2014-2015,Quarter-finals,,2015-04-22,Monaco,Juventus,fr,it,0.0,0.0,0.5
+2014-2015,Semi-finals,,2015-05-05,Juventus,Real Madrid,it,es,2.0,1.0,1.0
+2014-2015,Semi-finals,,2015-05-06,Barcelona,Bayern Munich,es,de,3.0,0.0,1.0
+2014-2015,Semi-finals,,2015-05-12,Bayern Munich,Barcelona,de,es,3.0,2.0,1.0
+2014-2015,Semi-finals,,2015-05-13,Real Madrid,Juventus,es,it,1.0,1.0,0.5
+2014-2015,Final,,2015-06-06,Juventus,Barcelona,it,es,1.0,3.0,0.0
