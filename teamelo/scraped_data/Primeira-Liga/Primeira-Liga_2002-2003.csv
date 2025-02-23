@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2002-2003,1,2002-08-22,Vitória Setúbal,Boavista,1,1,0.5
+2002-2003,1,2002-08-23,Académica,Sporting CP,0,2,0.0
+2002-2003,1,2002-08-24,Santa Clara,Braga,0,0,0.5
+2002-2003,1,2002-08-24,Benfica,Marítimo,3,0,1.0
+2002-2003,1,2002-08-24,União de Leiria,Vitória,1,2,0.0
+2002-2003,1,2002-08-25,Moreirense,Beira-Mar,1,2,0.0
+2002-2003,1,2002-08-25,Porto,Belenenses,2,2,0.5
+2002-2003,1,2002-08-25,Paços,Varzim,3,1,1.0
+2002-2003,1,2002-08-25,Nacional,Gil Vicente,0,1,0.0
+2002-2003,2,2002-08-30,Braga,Paços,1,0,1.0
+2002-2003,2,2002-08-31,Belenenses,Académica,2,0,1.0
+2002-2003,2,2002-08-31,Vitória,Nacional,3,2,1.0
+2002-2003,2,2002-08-31,Beira-Mar,Benfica,0,2,0.0
+2002-2003,2,2002-09-01,Gil Vicente,Vitória Setúbal,0,1,0.0
+2002-2003,2,2002-09-01,Marítimo,União de Leiria,2,0,1.0
+2002-2003,2,2002-09-01,Varzim,Moreirense,1,0,1.0
+2002-2003,2,2002-09-01,Sporting CP,Santa Clara,2,1,1.0
+2002-2003,2,2002-09-02,Boavista,Porto,0,1,0.0
+2002-2003,3,2002-09-13,Académica,Boavista,0,1,0.0
+2002-2003,3,2002-09-14,União de Leiria,Beira-Mar,1,0,1.0
+2002-2003,3,2002-09-14,Moreirense,Benfica,2,3,0.0
+2002-2003,3,2002-09-14,Paços,Sporting CP,4,0,1.0
+2002-2003,3,2002-09-15,Santa Clara,Belenenses,3,1,1.0
+2002-2003,3,2002-09-15,Porto,Gil Vicente,3,1,1.0
+2002-2003,3,2002-09-15,Varzim,Braga,2,0,1.0
+2002-2003,3,2002-09-15,Nacional,Marítimo,0,0,0.5
+2002-2003,3,2002-09-16,Vitória Setúbal,Vitória,1,2,0.0
+2002-2003,4,2002-09-21,Belenenses,Paços,1,0,1.0
+2002-2003,4,2002-09-21,Benfica,União de Leiria,3,1,1.0
+2002-2003,4,2002-09-22,Gil Vicente,Académica,1,1,0.5
+2002-2003,4,2002-09-22,Braga,Moreirense,2,1,1.0
+2002-2003,4,2002-09-22,Beira-Mar,Nacional,0,2,0.0
+2002-2003,4,2002-09-22,Marítimo,Vitória Setúbal,0,5,0.0
+2002-2003,4,2002-09-23,Vitória,Porto,0,2,0.0
+2002-2003,4,2002-09-23,Sporting CP,Varzim,0,0,0.5
+2002-2003,4,2002-09-24,Boavista,Santa Clara,1,0,1.0
+2002-2003,5,2002-09-28,Nacional,Benfica,1,0,1.0
+2002-2003,5,2002-09-28,Porto,Marítimo,1,0,1.0
+2002-2003,5,2002-09-29,Santa Clara,Gil Vicente,4,2,1.0
+2002-2003,5,2002-09-29,Braga,Sporting CP,4,2,1.0
+2002-2003,5,2002-09-29,Varzim,Belenenses,0,2,0.0
+2002-2003,5,2002-09-29,Vitória Setúbal,Beira-Mar,1,1,0.5
+2002-2003,5,2002-09-29,Moreirense,União de Leiria,2,1,1.0
+2002-2003,5,2002-09-29,Paços,Boavista,3,1,1.0
+2002-2003,5,2002-09-30,Académica,Vitória,2,2,0.5
+2002-2003,6,2002-10-05,União de Leiria,Nacional,1,0,1.0
+2002-2003,6,2002-10-05,Belenenses,Braga,3,2,1.0
+2002-2003,6,2002-10-05,Benfica,Vitória Setúbal,1,1,0.5
+2002-2003,6,2002-10-06,Gil Vicente,Paços,1,1,0.5
+2002-2003,6,2002-10-06,Vitória,Santa Clara,5,0,1.0
+2002-2003,6,2002-10-06,Marítimo,Académica,2,1,1.0
+2002-2003,6,2002-10-07,Beira-Mar,Porto,1,1,0.5
+2002-2003,6,2002-10-07,Sporting CP,Moreirense,3,0,1.0
+2002-2003,6,2002-10-08,Boavista,Varzim,2,1,1.0
+2002-2003,7,2002-10-19,Braga,Boavista,1,0,1.0
+2002-2003,7,2002-10-20,Vitória Setúbal,União de Leiria,0,0,0.5
+2002-2003,7,2002-10-20,Moreirense,Nacional,2,0,1.0
+2002-2003,7,2002-10-20,Sporting CP,Belenenses,2,0,1.0
+2002-2003,7,2002-10-20,Académica,Beira-Mar,1,1,0.5
+2002-2003,7,2002-10-20,Varzim,Gil Vicente,3,0,1.0
+2002-2003,7,2002-10-20,Porto,Benfica,2,1,1.0
+2002-2003,7,2002-10-21,Paços,Vitória,1,2,0.0
+2002-2003,8,2002-10-25,Belenenses,Moreirense,1,0,1.0
+2002-2003,8,2002-10-26,Benfica,Académica,1,1,0.5
+2002-2003,8,2002-10-26,Boavista,Sporting CP,1,2,0.0
+2002-2003,8,2002-10-26,União de Leiria,Porto,2,2,0.5
+2002-2003,8,2002-10-27,Beira-Mar,Santa Clara,2,1,1.0
+2002-2003,8,2002-10-27,Nacional,Vitória Setúbal,1,1,0.5
+2002-2003,8,2002-10-27,Marítimo,Paços,2,0,1.0
+2002-2003,8,2002-10-27,Vitória,Varzim,2,3,0.0
+2002-2003,8,2002-10-28,Gil Vicente,Braga,3,0,1.0
+2002-2003,9,2002-11-02,Braga,Vitória,2,4,0.0
+2002-2003,9,2002-11-02,Sporting CP,Gil Vicente,0,3,0.0
+2002-2003,9,2002-11-03,Moreirense,Vitória Setúbal,2,2,0.5
+2002-2003,9,2002-11-03,Santa Clara,Benfica,1,2,0.0
+2002-2003,9,2002-11-03,Académica,União de Leiria,3,2,1.0
+2002-2003,9,2002-11-03,Varzim,Marítimo,4,1,1.0
+2002-2003,9,2002-11-03,Paços,Beira-Mar,1,0,1.0
+2002-2003,9,2002-11-04,Porto,Nacional,5,2,1.0
+2002-2003,9,2002-11-04,Belenenses,Boavista,0,0,0.5
+2002-2003,10,2002-11-08,Vitória,Sporting CP,1,3,0.0
+2002-2003,10,2002-11-09,Vitória Setúbal,Porto,0,1,0.0
+2002-2003,10,2002-11-09,Marítimo,Braga,3,0,1.0
+2002-2003,10,2002-11-09,Boavista,Moreirense,0,0,0.5
+2002-2003,10,2002-11-10,União de Leiria,Santa Clara,3,1,1.0
+2002-2003,10,2002-11-10,Benfica,Paços,7,0,1.0
+2002-2003,10,2002-11-10,Beira-Mar,Varzim,2,1,1.0
+2002-2003,10,2002-11-10,Nacional,Académica,3,2,1.0
+2002-2003,10,2002-11-11,Gil Vicente,Belenenses,3,1,1.0
+2002-2003,11,2002-11-15,Sporting CP,Marítimo,2,0,1.0
+2002-2003,11,2002-11-16,Varzim,Benfica,2,1,1.0
+2002-2003,11,2002-11-17,Braga,Beira-Mar,0,0,0.5
+2002-2003,11,2002-11-17,Paços,União de Leiria,1,0,1.0
+2002-2003,11,2002-11-17,Académica,Vitória Setúbal,1,1,0.5
+2002-2003,11,2002-11-17,Belenenses,Vitória,1,0,1.0
+2002-2003,11,2002-11-17,Santa Clara,Nacional,2,3,0.0
+2002-2003,11,2002-11-18,Moreirense,Porto,0,1,0.0
+2002-2003,11,2002-11-18,Boavista,Gil Vicente,0,1,0.0
+2002-2003,12,2002-11-30,Beira-Mar,Sporting CP,1,3,0.0
+2002-2003,12,2002-11-30,Vitória Setúbal,Santa Clara,0,0,0.5
+2002-2003,12,2002-11-30,Gil Vicente,Moreirense,2,1,1.0
+2002-2003,12,2002-11-30,Benfica,Braga,3,0,1.0
+2002-2003,12,2002-12-01,Nacional,Paços,4,0,1.0
+2002-2003,12,2002-12-01,União de Leiria,Varzim,3,1,1.0
+2002-2003,12,2002-12-01,Marítimo,Belenenses,2,1,1.0
+2002-2003,12,2002-12-02,Vitória,Boavista,3,1,1.0
+2002-2003,12,2002-12-02,Porto,Académica,4,1,1.0
+2002-2003,7,2002-12-04,Santa Clara,Marítimo,2,1,1.0
+2002-2003,16,2002-12-04,Benfica,Gil Vicente,3,1,1.0
+2002-2003,13,2002-12-06,Belenenses,Beira-Mar,3,2,1.0
+2002-2003,13,2002-12-07,Sporting CP,Benfica,0,2,0.0
+2002-2003,13,2002-12-08,Paços,Vitória Setúbal,1,2,0.0
+2002-2003,13,2002-12-08,Boavista,Marítimo,3,0,1.0
+2002-2003,13,2002-12-08,Varzim,Nacional,1,0,1.0
+2002-2003,13,2002-12-08,Moreirense,Académica,1,0,1.0
+2002-2003,13,2002-12-08,Santa Clara,Porto,1,3,0.0
+2002-2003,13,2002-12-08,Braga,União de Leiria,1,1,0.5
+2002-2003,13,2002-12-09,Gil Vicente,Vitória,0,2,0.0
+2002-2003,14,2002-12-13,Vitória Setúbal,Varzim,2,4,0.0
+2002-2003,14,2002-12-14,Vitória,Moreirense,1,1,0.5
+2002-2003,14,2002-12-14,Académica,Santa Clara,3,2,1.0
+2002-2003,14,2002-12-14,Benfica,Belenenses,1,0,1.0
+2002-2003,14,2002-12-14,União de Leiria,Sporting CP,3,2,1.0
+2002-2003,14,2002-12-15,Nacional,Braga,0,0,0.5
+2002-2003,14,2002-12-15,Marítimo,Gil Vicente,3,1,1.0
+2002-2003,14,2002-12-16,Porto,Paços,2,1,1.0
+2002-2003,14,2002-12-16,Beira-Mar,Boavista,3,3,0.5
+2002-2003,15,2002-12-21,Belenenses,União de Leiria,1,3,0.0
+2002-2003,15,2002-12-21,Boavista,Benfica,0,0,0.5
+2002-2003,15,2002-12-22,Braga,Vitória Setúbal,1,0,1.0
+2002-2003,15,2002-12-22,Sporting CP,Nacional,2,0,1.0
+2002-2003,15,2002-12-22,Paços,Académica,0,0,0.5
+2002-2003,15,2002-12-22,Moreirense,Santa Clara,2,2,0.5
+2002-2003,15,2002-12-22,Gil Vicente,Beira-Mar,3,1,1.0
+2002-2003,15,2002-12-22,Varzim,Porto,0,2,0.0
+2002-2003,15,2002-12-23,Vitória,Marítimo,2,0,1.0
+2002-2003,16,2003-01-04,União de Leiria,Boavista,1,0,1.0
+2002-2003,16,2003-01-04,Vitória Setúbal,Sporting CP,1,2,0.0
+2002-2003,16,2003-01-04,Beira-Mar,Vitória,1,1,0.5
+2002-2003,16,2003-01-05,Académica,Varzim,2,1,1.0
+2002-2003,16,2003-01-05,Moreirense,Marítimo,2,2,0.5
+2002-2003,16,2003-01-05,Porto,Braga,3,0,1.0
+2002-2003,16,2003-01-05,Santa Clara,Paços,0,0,0.5
+2002-2003,16,2003-01-06,Nacional,Belenenses,1,1,0.5
+2002-2003,17,2003-01-10,Braga,Académica,1,1,0.5
+2002-2003,17,2003-01-11,Vitória,Benfica,1,1,0.5
+2002-2003,17,2003-01-11,Sporting CP,Porto,0,1,0.0
+2002-2003,17,2003-01-11,Gil Vicente,União de Leiria,3,1,1.0
+2002-2003,17,2003-01-12,Varzim,Santa Clara,0,0,0.5
+2002-2003,17,2003-01-12,Boavista,Nacional,0,0,0.5
+2002-2003,17,2003-01-12,Paços,Moreirense,1,1,0.5
+2002-2003,17,2003-01-12,Marítimo,Beira-Mar,3,0,1.0
+2002-2003,17,2003-01-13,Belenenses,Vitória Setúbal,0,0,0.5
+2002-2003,18,2003-01-17,Vitória,União de Leiria,1,2,0.0
+2002-2003,18,2003-01-18,Marítimo,Benfica,1,2,0.0
+2002-2003,18,2003-01-19,Beira-Mar,Moreirense,1,2,0.0
+2002-2003,18,2003-01-19,Varzim,Paços,0,0,0.5
+2002-2003,18,2003-01-19,Braga,Santa Clara,1,1,0.5
+2002-2003,18,2003-01-19,Belenenses,Porto,1,3,0.0
+2002-2003,18,2003-01-19,Boavista,Vitória Setúbal,1,0,1.0
+2002-2003,18,2003-01-20,Gil Vicente,Nacional,2,0,1.0
+2002-2003,19,2003-01-24,Académica,Belenenses,2,1,1.0
+2002-2003,19,2003-01-25,Porto,Boavista,1,0,1.0
+2002-2003,19,2003-01-25,Santa Clara,Sporting CP,0,1,0.0
+2002-2003,19,2003-01-25,União de Leiria,Marítimo,3,0,1.0
+2002-2003,19,2003-01-26,Vitória Setúbal,Gil Vicente,0,1,0.0
+2002-2003,19,2003-01-26,Benfica,Beira-Mar,1,0,1.0
+2002-2003,19,2003-01-26,Paços,Braga,0,1,0.0
+2002-2003,19,2003-01-26,Nacional,Vitória,0,0,0.5
+2002-2003,19,2003-01-26,Moreirense,Varzim,1,0,1.0
+2002-2003,20,2003-02-01,Boavista,Académica,4,1,1.0
+2002-2003,20,2003-02-02,Belenenses,Santa Clara,1,1,0.5
+2002-2003,20,2003-02-02,Gil Vicente,Porto,3,5,0.0
+2002-2003,20,2003-02-02,Sporting CP,Paços,4,0,1.0
+2002-2003,20,2003-02-02,Marítimo,Nacional,2,3,0.0
+2002-2003,20,2003-02-02,Braga,Varzim,1,0,1.0
+2002-2003,20,2003-02-02,Beira-Mar,União de Leiria,2,2,0.5
+2002-2003,20,2003-02-03,Vitória,Vitória Setúbal,1,0,1.0
+2002-2003,20,2003-02-03,Benfica,Moreirense,1,1,0.5
+2002-2003,18,2003-02-05,Sporting CP,Académica,1,0,1.0
+2002-2003,21,2003-02-07,Santa Clara,Boavista,1,1,0.5
+2002-2003,21,2003-02-08,Varzim,Sporting CP,1,1,0.5
+2002-2003,21,2003-02-08,União de Leiria,Benfica,0,3,0.0
+2002-2003,21,2003-02-09,Académica,Gil Vicente,2,0,1.0
+2002-2003,21,2003-02-09,Porto,Vitória,2,1,1.0
+2002-2003,21,2003-02-09,Paços,Belenenses,3,2,1.0
+2002-2003,21,2003-02-09,Vitória Setúbal,Marítimo,1,0,1.0
+2002-2003,21,2003-02-09,Moreirense,Braga,2,2,0.5
+2002-2003,21,2003-02-09,Nacional,Beira-Mar,1,0,1.0
+2002-2003,22,2003-02-15,Marítimo,Porto,2,1,1.0
+2002-2003,22,2003-02-15,Boavista,Paços,0,0,0.5
+2002-2003,22,2003-02-16,Benfica,Nacional,2,0,1.0
+2002-2003,22,2003-02-16,Belenenses,Varzim,4,1,1.0
+2002-2003,22,2003-02-16,Sporting CP,Braga,2,0,1.0
+2002-2003,22,2003-02-16,Gil Vicente,Santa Clara,1,2,0.0
+2002-2003,22,2003-02-16,Beira-Mar,Vitória Setúbal,5,3,1.0
+2002-2003,22,2003-02-16,União de Leiria,Moreirense,2,2,0.5
+2002-2003,22,2003-02-17,Vitória,Académica,1,0,1.0
+2002-2003,23,2003-02-21,Braga,Belenenses,1,1,0.5
+2002-2003,23,2003-02-22,Vitória Setúbal,Benfica,2,6,0.0
+2002-2003,23,2003-02-23,Santa Clara,Vitória,2,1,1.0
+2002-2003,23,2003-02-23,Varzim,Boavista,1,1,0.5
+2002-2003,23,2003-02-23,Académica,Marítimo,2,0,1.0
+2002-2003,23,2003-02-23,Paços,Gil Vicente,2,0,1.0
+2002-2003,23,2003-02-23,Porto,Beira-Mar,3,0,1.0
+2002-2003,23,2003-02-24,Moreirense,Sporting CP,1,2,0.0
+2002-2003,23,2003-02-24,Nacional,União de Leiria,2,2,0.5
+2002-2003,24,2003-02-28,Marítimo,Santa Clara,1,1,0.5
+2002-2003,24,2003-03-01,Belenenses,Sporting CP,1,1,0.5
+2002-2003,24,2003-03-01,União de Leiria,Vitória Setúbal,1,1,0.5
+2002-2003,24,2003-03-02,Beira-Mar,Académica,1,0,1.0
+2002-2003,24,2003-03-02,Vitória,Paços,1,4,0.0
+2002-2003,24,2003-03-02,Gil Vicente,Varzim,2,1,1.0
+2002-2003,24,2003-03-02,Nacional,Moreirense,1,1,0.5
+2002-2003,24,2003-03-03,Boavista,Braga,2,1,1.0
+2002-2003,24,2003-03-04,Benfica,Porto,0,1,0.0
+2002-2003,25,2003-03-14,Moreirense,Belenenses,3,1,1.0
+2002-2003,25,2003-03-15,Académica,Benfica,1,4,0.0
+2002-2003,25,2003-03-16,Santa Clara,Beira-Mar,3,1,1.0
+2002-2003,25,2003-03-16,Vitória Setúbal,Nacional,2,2,0.5
+2002-2003,25,2003-03-16,Paços,Marítimo,0,0,0.5
+2002-2003,25,2003-03-16,Sporting CP,Boavista,1,1,0.5
+2002-2003,25,2003-03-16,Porto,União de Leiria,2,0,1.0
+2002-2003,25,2003-03-16,Braga,Gil Vicente,0,0,0.5
+2002-2003,25,2003-03-17,Varzim,Vitória,0,1,0.0
+2002-2003,26,2003-03-21,Gil Vicente,Sporting CP,1,0,1.0
+2002-2003,26,2003-03-22,Benfica,Santa Clara,1,0,1.0
+2002-2003,26,2003-03-23,Marítimo,Varzim,2,0,1.0
+2002-2003,26,2003-03-23,União de Leiria,Académica,0,0,0.5
+2002-2003,26,2003-03-23,Vitória,Braga,1,1,0.5
+2002-2003,26,2003-03-23,Beira-Mar,Paços,3,1,1.0
+2002-2003,26,2003-03-23,Vitória Setúbal,Moreirense,0,2,0.0
+2002-2003,26,2003-03-24,Nacional,Porto,1,2,0.0
+2002-2003,26,2003-03-24,Boavista,Belenenses,1,3,0.0
+2002-2003,27,2003-04-05,Moreirense,Boavista,1,1,0.5
+2002-2003,27,2003-04-05,Paços,Benfica,1,3,0.0
+2002-2003,27,2003-04-06,Braga,Marítimo,0,1,0.0
+2002-2003,27,2003-04-06,Porto,Vitória Setúbal,3,0,1.0
+2002-2003,27,2003-04-06,Varzim,Beira-Mar,1,0,1.0
+2002-2003,27,2003-04-06,Académica,Nacional,2,2,0.5
+2002-2003,27,2003-04-06,Sporting CP,Vitória,1,1,0.5
+2002-2003,27,2003-04-06,Santa Clara,União de Leiria,1,3,0.0
+2002-2003,27,2003-04-07,Belenenses,Gil Vicente,1,1,0.5
+2002-2003,28,2003-04-18,Gil Vicente,Boavista,1,0,1.0
+2002-2003,28,2003-04-18,União de Leiria,Paços,0,1,0.0
+2002-2003,28,2003-04-19,Nacional,Santa Clara,2,1,1.0
+2002-2003,28,2003-04-19,Beira-Mar,Braga,2,2,0.5
+2002-2003,28,2003-04-19,Marítimo,Sporting CP,0,3,0.0
+2002-2003,28,2003-04-19,Vitória Setúbal,Académica,3,1,1.0
+2002-2003,28,2003-04-19,Porto,Moreirense,2,1,1.0
+2002-2003,28,2003-04-21,Vitória,Belenenses,1,0,1.0
+2002-2003,28,2003-04-21,Benfica,Varzim,2,1,1.0
+2002-2003,29,2003-04-25,Sporting CP,Beira-Mar,1,1,0.5
+2002-2003,29,2003-04-26,Belenenses,Marítimo,3,1,1.0
+2002-2003,29,2003-04-26,Braga,Benfica,1,3,0.0
+2002-2003,29,2003-04-27,Varzim,União de Leiria,0,2,0.0
+2002-2003,29,2003-04-27,Moreirense,Gil Vicente,2,1,1.0
+2002-2003,29,2003-04-27,Santa Clara,Vitória Setúbal,1,0,1.0
+2002-2003,29,2003-04-27,Paços,Nacional,3,3,0.5
+2002-2003,29,2003-04-28,Boavista,Vitória,3,1,1.0
+2002-2003,29,2003-04-28,Académica,Porto,1,1,0.5
+2002-2003,30,2003-05-02,Beira-Mar,Belenenses,2,1,1.0
+2002-2003,30,2003-05-03,Benfica,Sporting CP,1,2,0.0
+2002-2003,30,2003-05-04,Académica,Moreirense,1,1,0.5
+2002-2003,30,2003-05-04,União de Leiria,Braga,1,1,0.5
+2002-2003,30,2003-05-04,Porto,Santa Clara,5,0,1.0
+2002-2003,30,2003-05-04,Marítimo,Boavista,0,0,0.5
+2002-2003,30,2003-05-04,Nacional,Varzim,2,0,1.0
+2002-2003,30,2003-05-04,Vitória Setúbal,Paços,0,2,0.0
+2002-2003,30,2003-05-05,Vitória,Gil Vicente,1,1,0.5
+2002-2003,31,2003-05-09,Boavista,Beira-Mar,1,0,1.0
+2002-2003,31,2003-05-10,Moreirense,Vitória,1,2,0.0
+2002-2003,31,2003-05-10,Belenenses,Benfica,2,4,0.0
+2002-2003,31,2003-05-11,Paços,Porto,1,0,1.0
+2002-2003,31,2003-05-11,Varzim,Vitória Setúbal,3,2,1.0
+2002-2003,31,2003-05-11,Braga,Nacional,4,1,1.0
+2002-2003,31,2003-05-11,Gil Vicente,Marítimo,0,1,0.0
+2002-2003,31,2003-05-11,Santa Clara,Académica,0,0,0.5
+2002-2003,31,2003-05-12,Sporting CP,União de Leiria,1,1,0.5
+2002-2003,32,2003-05-16,Marítimo,Vitória,1,0,1.0
+2002-2003,32,2003-05-17,Porto,Varzim,3,2,1.0
+2002-2003,32,2003-05-17,União de Leiria,Belenenses,1,4,0.0
+2002-2003,32,2003-05-17,Nacional,Sporting CP,1,1,0.5
+2002-2003,32,2003-05-18,Beira-Mar,Gil Vicente,5,0,1.0
+2002-2003,32,2003-05-18,Académica,Paços,2,2,0.5
+2002-2003,32,2003-05-18,Santa Clara,Moreirense,2,0,1.0
+2002-2003,32,2003-05-18,Benfica,Boavista,1,1,0.5
+2002-2003,32,2003-05-19,Vitória Setúbal,Braga,2,2,0.5
+2002-2003,33,2003-05-23,Vitória,Beira-Mar,0,2,0.0
+2002-2003,33,2003-05-24,Sporting CP,Vitória Setúbal,3,4,0.0
+2002-2003,33,2003-05-25,Braga,Porto,1,1,0.5
+2002-2003,33,2003-05-25,Gil Vicente,Benfica,0,2,0.0
+2002-2003,33,2003-05-25,Marítimo,Moreirense,3,1,1.0
+2002-2003,33,2003-05-25,Belenenses,Nacional,0,0,0.5
+2002-2003,33,2003-05-25,Varzim,Académica,0,3,0.0
+2002-2003,33,2003-05-25,Paços,Santa Clara,3,1,1.0
+2002-2003,33,2003-05-26,Boavista,União de Leiria,0,1,0.0
+2002-2003,34,2003-06-01,Vitória Setúbal,Belenenses,1,1,0.5
+2002-2003,34,2003-06-01,União de Leiria,Gil Vicente,4,2,1.0
+2002-2003,34,2003-06-01,Nacional,Boavista,0,1,0.0
+2002-2003,34,2003-06-01,Benfica,Vitória,4,0,1.0
+2002-2003,34,2003-06-01,Porto,Sporting CP,2,0,1.0
+2002-2003,34,2003-06-01,Santa Clara,Varzim,2,2,0.5
+2002-2003,34,2003-06-01,Moreirense,Paços,2,0,1.0
+2002-2003,34,2003-06-01,Académica,Braga,1,0,1.0
+2002-2003,34,2003-06-01,Beira-Mar,Marítimo,1,0,1.0

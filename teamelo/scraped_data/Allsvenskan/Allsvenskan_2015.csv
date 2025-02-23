@@ -1,0 +1,243 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015,Allsvenskan,1,2015-04-04,Hammarby,Häcken,2,0,1.0
+2015,Allsvenskan,1,2015-04-04,Kalmar,Helsingborg,0,0,0.5
+2015,Allsvenskan,1,2015-04-05,Falkenberg,Gefle,0,2,0.0
+2015,Allsvenskan,1,2015-04-05,Göteborg,Åtvidaberg,1,0,1.0
+2015,Allsvenskan,1,2015-04-05,Norrköping,Örebro,1,1,0.5
+2015,Allsvenskan,1,2015-04-05,Djurgården,Elfsborg,1,2,0.0
+2015,Allsvenskan,1,2015-04-06,AIK Stockholm,Halmstad,2,1,1.0
+2015,Allsvenskan,1,2015-04-06,Sundsvall,Malmö,1,4,0.0
+2015,Allsvenskan,2,2015-04-08,Helsingborg,Falkenberg,0,0,0.5
+2015,Allsvenskan,2,2015-04-08,Gefle,Kalmar,2,0,1.0
+2015,Allsvenskan,2,2015-04-08,Örebro,Göteborg,0,2,0.0
+2015,Allsvenskan,2,2015-04-08,Elfsborg,Hammarby,1,1,0.5
+2015,Allsvenskan,2,2015-04-09,Åtvidaberg,Sundsvall,2,3,0.0
+2015,Allsvenskan,2,2015-04-09,Halmstad,Norrköping,0,3,0.0
+2015,Allsvenskan,2,2015-04-09,Häcken,Djurgården,1,1,0.5
+2015,Allsvenskan,2,2015-04-09,Malmö,AIK Stockholm,0,0,0.5
+2015,Allsvenskan,3,2015-04-12,Falkenberg,Örebro,2,0,1.0
+2015,Allsvenskan,3,2015-04-12,Halmstad,Helsingborg,1,2,0.0
+2015,Allsvenskan,3,2015-04-12,AIK Stockholm,Gefle,3,1,1.0
+2015,Allsvenskan,3,2015-04-12,Göteborg,Malmö,0,1,0.0
+2015,Allsvenskan,3,2015-04-13,Norrköping,Elfsborg,0,4,0.0
+2015,Allsvenskan,3,2015-04-13,Kalmar,Åtvidaberg,2,1,1.0
+2015,Allsvenskan,3,2015-04-13,Sundsvall,Häcken,1,1,0.5
+2015,Allsvenskan,3,2015-04-13,Hammarby,Djurgården,2,1,1.0
+2015,Allsvenskan,4,2015-04-17,Djurgården,Kalmar,1,0,1.0
+2015,Allsvenskan,4,2015-04-18,Gefle,Halmstad,0,0,0.5
+2015,Allsvenskan,4,2015-04-19,Åtvidaberg,Falkenberg,3,1,1.0
+2015,Allsvenskan,4,2015-04-19,Häcken,Göteborg,1,2,0.0
+2015,Allsvenskan,4,2015-04-20,Örebro,Sundsvall,1,3,0.0
+2015,Allsvenskan,4,2015-04-20,Helsingborg,Norrköping,3,1,1.0
+2015,Allsvenskan,4,2015-04-20,Malmö,Hammarby,3,1,1.0
+2015,Allsvenskan,4,2015-04-21,Elfsborg,AIK Stockholm,3,2,1.0
+2015,Allsvenskan,5,2015-04-24,Falkenberg,Malmö,3,3,0.5
+2015,Allsvenskan,5,2015-04-25,Hammarby,Åtvidaberg,2,1,1.0
+2015,Allsvenskan,5,2015-04-26,Sundsvall,Djurgården,0,2,0.0
+2015,Allsvenskan,5,2015-04-26,Halmstad,Elfsborg,1,0,1.0
+2015,Allsvenskan,5,2015-04-26,Kalmar,Häcken,0,1,0.0
+2015,Allsvenskan,5,2015-04-26,AIK Stockholm,Örebro,3,0,1.0
+2015,Allsvenskan,5,2015-04-27,Norrköping,Gefle,4,1,1.0
+2015,Allsvenskan,5,2015-04-27,Göteborg,Helsingborg,3,1,1.0
+2015,Allsvenskan,6,2015-04-29,Malmö,Halmstad,3,1,1.0
+2015,Allsvenskan,6,2015-04-29,Djurgården,Falkenberg,3,1,1.0
+2015,Allsvenskan,6,2015-04-29,Elfsborg,Kalmar,2,1,1.0
+2015,Allsvenskan,6,2015-04-29,Åtvidaberg,AIK Stockholm,1,1,0.5
+2015,Allsvenskan,6,2015-04-30,Häcken,Norrköping,0,2,0.0
+2015,Allsvenskan,6,2015-04-30,Gefle,Göteborg,0,0,0.5
+2015,Allsvenskan,6,2015-04-30,Helsingborg,Sundsvall,2,0,1.0
+2015,Allsvenskan,6,2015-04-30,Örebro,Hammarby,2,2,0.5
+2015,Allsvenskan,7,2015-05-03,Norrköping,Åtvidaberg,2,1,1.0
+2015,Allsvenskan,7,2015-05-03,Sundsvall,Elfsborg,0,1,0.0
+2015,Allsvenskan,7,2015-05-03,Malmö,Helsingborg,3,1,1.0
+2015,Allsvenskan,7,2015-05-03,Djurgården,Gefle,5,1,1.0
+2015,Allsvenskan,7,2015-05-04,Halmstad,Häcken,0,2,0.0
+2015,Allsvenskan,7,2015-05-04,Kalmar,Örebro,3,0,1.0
+2015,Allsvenskan,7,2015-05-04,Göteborg,Falkenberg,2,1,1.0
+2015,Allsvenskan,7,2015-05-04,AIK Stockholm,Hammarby,2,0,1.0
+2015,Allsvenskan,8,2015-05-08,Kalmar,Göteborg,0,2,0.0
+2015,Allsvenskan,8,2015-05-09,Helsingborg,Gefle,1,2,0.0
+2015,Allsvenskan,8,2015-05-10,Falkenberg,Halmstad,1,0,1.0
+2015,Allsvenskan,8,2015-05-10,AIK Stockholm,Norrköping,2,2,0.5
+2015,Allsvenskan,8,2015-05-10,Häcken,Örebro,2,0,1.0
+2015,Allsvenskan,8,2015-05-11,Hammarby,Sundsvall,1,2,0.0
+2015,Allsvenskan,8,2015-05-11,Åtvidaberg,Djurgården,2,3,0.0
+2015,Allsvenskan,8,2015-05-11,Elfsborg,Malmö,2,2,0.5
+2015,Allsvenskan,9,2015-05-18,Halmstad,Djurgården,2,3,0.0
+2015,Allsvenskan,9,2015-05-19,Falkenberg,Kalmar,1,3,0.0
+2015,Allsvenskan,9,2015-05-20,Norrköping,Hammarby,1,0,1.0
+2015,Allsvenskan,9,2015-05-20,Örebro,Åtvidaberg,2,1,1.0
+2015,Allsvenskan,9,2015-05-20,Elfsborg,Helsingborg,2,1,1.0
+2015,Allsvenskan,9,2015-05-20,Gefle,Sundsvall,3,1,1.0
+2015,Allsvenskan,9,2015-05-21,Malmö,Häcken,0,3,0.0
+2015,Allsvenskan,9,2015-05-21,Göteborg,AIK Stockholm,3,0,1.0
+2015,Allsvenskan,10,2015-05-24,Örebro,Gefle,1,0,1.0
+2015,Allsvenskan,10,2015-05-24,Halmstad,Göteborg,1,2,0.0
+2015,Allsvenskan,10,2015-05-24,Åtvidaberg,Elfsborg,1,2,0.0
+2015,Allsvenskan,10,2015-05-24,Kalmar,Malmö,2,1,1.0
+2015,Allsvenskan,10,2015-05-25,Häcken,Falkenberg,0,2,0.0
+2015,Allsvenskan,10,2015-05-25,Helsingborg,Hammarby,1,0,1.0
+2015,Allsvenskan,10,2015-05-25,Sundsvall,Norrköping,0,1,0.0
+2015,Allsvenskan,10,2015-05-25,Djurgården,AIK Stockholm,2,2,0.5
+2015,Allsvenskan,11,2015-05-29,Gefle,Häcken,2,0,1.0
+2015,Allsvenskan,11,2015-05-30,Norrköping,Kalmar,2,1,1.0
+2015,Allsvenskan,11,2015-05-30,Hammarby,Halmstad,2,2,0.5
+2015,Allsvenskan,11,2015-05-30,Falkenberg,Sundsvall,1,1,0.5
+2015,Allsvenskan,11,2015-05-31,AIK Stockholm,Helsingborg,3,1,1.0
+2015,Allsvenskan,11,2015-05-31,Malmö,Åtvidaberg,3,0,1.0
+2015,Allsvenskan,11,2015-05-31,Elfsborg,Örebro,2,2,0.5
+2015,Allsvenskan,11,2015-06-01,Göteborg,Djurgården,0,0,0.5
+2015,Allsvenskan,12,2015-06-03,Åtvidaberg,Häcken,1,1,0.5
+2015,Allsvenskan,12,2015-06-03,Örebro,Helsingborg,0,0,0.5
+2015,Allsvenskan,12,2015-06-03,AIK Stockholm,Falkenberg,4,3,1.0
+2015,Allsvenskan,12,2015-06-03,Halmstad,Sundsvall,1,0,1.0
+2015,Allsvenskan,12,2015-06-03,Gefle,Malmö,1,2,0.0
+2015,Allsvenskan,12,2015-06-04,Kalmar,Hammarby,2,2,0.5
+2015,Allsvenskan,12,2015-06-04,Djurgården,Norrköping,1,1,0.5
+2015,Allsvenskan,12,2015-06-04,Göteborg,Elfsborg,1,0,1.0
+2015,Allsvenskan,13,2015-06-06,Örebro,Halmstad,1,1,0.5
+2015,Allsvenskan,13,2015-06-06,Helsingborg,Åtvidaberg,3,0,1.0
+2015,Allsvenskan,13,2015-06-06,Häcken,AIK Stockholm,0,0,0.5
+2015,Allsvenskan,13,2015-06-07,Sundsvall,Kalmar,1,1,0.5
+2015,Allsvenskan,13,2015-06-07,Hammarby,Göteborg,0,1,0.0
+2015,Allsvenskan,13,2015-06-07,Elfsborg,Gefle,5,1,1.0
+2015,Allsvenskan,13,2015-06-07,Norrköping,Falkenberg,2,0,1.0
+2015,Allsvenskan,13,2015-06-07,Malmö,Djurgården,1,1,0.5
+2015,Allsvenskan,14,2015-07-04,Åtvidaberg,Halmstad,0,0,0.5
+2015,Allsvenskan,14,2015-07-04,Djurgården,Örebro,2,0,1.0
+2015,Allsvenskan,14,2015-07-04,Norrköping,Malmö,3,1,1.0
+2015,Allsvenskan,14,2015-07-05,Falkenberg,Elfsborg,2,2,0.5
+2015,Allsvenskan,14,2015-07-05,Sundsvall,Göteborg,2,2,0.5
+2015,Allsvenskan,14,2015-07-05,Kalmar,AIK Stockholm,0,0,0.5
+2015,Allsvenskan,14,2015-07-05,Häcken,Helsingborg,3,2,1.0
+2015,Allsvenskan,14,2015-07-06,Gefle,Hammarby,1,1,0.5
+2015,Allsvenskan,15,2015-07-11,Malmö,Örebro,2,2,0.5
+2015,Allsvenskan,15,2015-07-11,Halmstad,Kalmar,1,0,1.0
+2015,Allsvenskan,15,2015-07-11,Åtvidaberg,Gefle,1,1,0.5
+2015,Allsvenskan,15,2015-07-12,Elfsborg,Häcken,1,0,1.0
+2015,Allsvenskan,15,2015-07-12,AIK Stockholm,Sundsvall,4,1,1.0
+2015,Allsvenskan,15,2015-07-12,Göteborg,Norrköping,0,0,0.5
+2015,Allsvenskan,15,2015-07-13,Hammarby,Falkenberg,3,0,1.0
+2015,Allsvenskan,15,2015-07-13,Helsingborg,Djurgården,0,1,0.0
+2015,Allsvenskan,16,2015-07-18,Kalmar,Falkenberg,4,0,1.0
+2015,Allsvenskan,16,2015-07-18,Sundsvall,Halmstad,0,0,0.5
+2015,Allsvenskan,16,2015-07-18,Örebro,Malmö,1,1,0.5
+2015,Allsvenskan,16,2015-07-19,Norrköping,Göteborg,2,2,0.5
+2015,Allsvenskan,16,2015-07-19,Helsingborg,AIK Stockholm,3,1,1.0
+2015,Allsvenskan,16,2015-07-20,Djurgården,Åtvidaberg,0,0,0.5
+2015,Allsvenskan,16,2015-07-20,Häcken,Hammarby,3,3,0.5
+2015,Allsvenskan,17,2015-07-25,Malmö,Sundsvall,3,0,1.0
+2015,Allsvenskan,17,2015-07-25,Åtvidaberg,Helsingborg,1,2,0.0
+2015,Allsvenskan,17,2015-07-25,Häcken,Kalmar,3,0,1.0
+2015,Allsvenskan,17,2015-07-26,Falkenberg,Göteborg,1,0,1.0
+2015,Allsvenskan,17,2015-07-26,AIK Stockholm,Elfsborg,4,2,1.0
+2015,Allsvenskan,17,2015-07-27,Hammarby,Norrköping,0,1,0.0
+2015,Allsvenskan,17,2015-07-27,Halmstad,Gefle,0,1,0.0
+2015,Allsvenskan,17,2015-07-27,Örebro,Djurgården,0,1,0.0
+2015,Allsvenskan,18,2015-07-31,Helsingborg,Kalmar,1,2,0.0
+2015,Allsvenskan,18,2015-08-01,Djurgården,Häcken,2,1,1.0
+2015,Allsvenskan,18,2015-08-01,Gefle,Falkenberg,1,0,1.0
+2015,Allsvenskan,18,2015-08-01,Åtvidaberg,Malmö,2,2,0.5
+2015,Allsvenskan,18,2015-08-02,Norrköping,AIK Stockholm,1,2,0.0
+2015,Allsvenskan,18,2015-08-02,Elfsborg,Halmstad,2,0,1.0
+2015,Allsvenskan,18,2015-08-02,Göteborg,Örebro,6,0,1.0
+2015,Allsvenskan,18,2015-08-03,Sundsvall,Hammarby,3,0,1.0
+2015,Allsvenskan,19,2015-08-08,Falkenberg,Helsingborg,2,3,0.0
+2015,Allsvenskan,19,2015-08-08,Häcken,Gefle,1,1,0.5
+2015,Allsvenskan,19,2015-08-09,Örebro,Norrköping,1,3,0.0
+2015,Allsvenskan,19,2015-08-09,Malmö,Göteborg,2,1,1.0
+2015,Allsvenskan,19,2015-08-09,Halmstad,Åtvidaberg,0,0,0.5
+2015,Allsvenskan,19,2015-08-09,Hammarby,Elfsborg,0,0,0.5
+2015,Allsvenskan,19,2015-08-10,Kalmar,Sundsvall,0,2,0.0
+2015,Allsvenskan,19,2015-08-10,AIK Stockholm,Djurgården,1,0,1.0
+2015,Allsvenskan,16,2015-08-12,Gefle,Elfsborg,2,3,0.0
+2015,Allsvenskan,20,2015-08-15,Sundsvall,Örebro,1,0,1.0
+2015,Allsvenskan,20,2015-08-15,Malmö,Gefle,2,0,1.0
+2015,Allsvenskan,20,2015-08-16,AIK Stockholm,Kalmar,2,1,1.0
+2015,Allsvenskan,20,2015-08-16,Göteborg,Häcken,4,0,1.0
+2015,Allsvenskan,20,2015-08-16,Elfsborg,Djurgården,2,0,1.0
+2015,Allsvenskan,20,2015-08-17,Falkenberg,Hammarby,0,1,0.0
+2015,Allsvenskan,20,2015-08-17,Helsingborg,Halmstad,2,0,1.0
+2015,Allsvenskan,20,2015-08-17,Åtvidaberg,Norrköping,1,1,0.5
+2015,Allsvenskan,21,2015-08-22,Häcken,Malmö,1,0,1.0
+2015,Allsvenskan,21,2015-08-23,Åtvidaberg,Göteborg,0,1,0.0
+2015,Allsvenskan,21,2015-08-23,Gefle,AIK Stockholm,1,2,0.0
+2015,Allsvenskan,21,2015-08-23,Halmstad,Örebro,2,2,0.5
+2015,Allsvenskan,21,2015-08-23,Kalmar,Elfsborg,0,3,0.0
+2015,Allsvenskan,21,2015-08-24,Norrköping,Helsingborg,3,2,1.0
+2015,Allsvenskan,21,2015-08-24,Sundsvall,Falkenberg,0,1,0.0
+2015,Allsvenskan,21,2015-08-24,Djurgården,Hammarby,2,2,0.5
+2015,Allsvenskan,22,2015-08-28,Hammarby,Kalmar,0,0,0.5
+2015,Allsvenskan,22,2015-08-29,Falkenberg,Norrköping,0,1,0.0
+2015,Allsvenskan,22,2015-08-29,Örebro,Häcken,2,0,1.0
+2015,Allsvenskan,22,2015-08-29,Djurgården,Halmstad,4,2,1.0
+2015,Allsvenskan,22,2015-08-30,AIK Stockholm,Åtvidaberg,1,0,1.0
+2015,Allsvenskan,22,2015-08-30,Göteborg,Gefle,3,0,1.0
+2015,Allsvenskan,22,2015-08-30,Helsingborg,Malmö,0,3,0.0
+2015,Allsvenskan,22,2015-08-30,Elfsborg,Sundsvall,1,2,0.0
+2015,Allsvenskan,23,2015-09-11,Kalmar,Norrköping,1,2,0.0
+2015,Allsvenskan,23,2015-09-12,Falkenberg,AIK Stockholm,2,4,0.0
+2015,Allsvenskan,23,2015-09-12,Malmö,Elfsborg,1,1,0.5
+2015,Allsvenskan,23,2015-09-13,Hammarby,Örebro,1,2,0.0
+2015,Allsvenskan,23,2015-09-13,Helsingborg,Göteborg,1,2,0.0
+2015,Allsvenskan,23,2015-09-14,Sundsvall,Åtvidaberg,0,1,0.0
+2015,Allsvenskan,23,2015-09-14,Häcken,Halmstad,4,1,1.0
+2015,Allsvenskan,23,2015-09-14,Gefle,Djurgården,2,1,1.0
+2015,Allsvenskan,24,2015-09-18,Halmstad,Falkenberg,0,1,0.0
+2015,Allsvenskan,24,2015-09-19,AIK Stockholm,Häcken,2,1,1.0
+2015,Allsvenskan,24,2015-09-20,Gefle,Helsingborg,2,1,1.0
+2015,Allsvenskan,24,2015-09-20,Djurgården,Malmö,0,2,0.0
+2015,Allsvenskan,24,2015-09-20,Åtvidaberg,Kalmar,1,1,0.5
+2015,Allsvenskan,24,2015-09-20,Norrköping,Sundsvall,5,1,1.0
+2015,Allsvenskan,24,2015-09-20,Göteborg,Hammarby,1,0,1.0
+2015,Allsvenskan,24,2015-09-21,Örebro,Elfsborg,4,2,1.0
+2015,Allsvenskan,25,2015-09-23,Hammarby,Gefle,3,0,1.0
+2015,Allsvenskan,25,2015-09-23,Kalmar,Halmstad,1,0,1.0
+2015,Allsvenskan,25,2015-09-23,Malmö,Falkenberg,4,3,1.0
+2015,Allsvenskan,25,2015-09-23,Norrköping,Djurgården,4,2,1.0
+2015,Allsvenskan,25,2015-09-23,Sundsvall,AIK Stockholm,0,2,0.0
+2015,Allsvenskan,25,2015-09-24,Häcken,Åtvidaberg,3,0,1.0
+2015,Allsvenskan,25,2015-09-24,Helsingborg,Örebro,0,2,0.0
+2015,Allsvenskan,25,2015-09-24,Elfsborg,Göteborg,1,1,0.5
+2015,Allsvenskan,26,2015-09-26,Halmstad,Malmö,0,0,0.5
+2015,Allsvenskan,26,2015-09-27,Falkenberg,Häcken,1,2,0.0
+2015,Allsvenskan,26,2015-09-27,Hammarby,AIK Stockholm,1,0,1.0
+2015,Allsvenskan,26,2015-09-27,Gefle,Norrköping,1,2,0.0
+2015,Allsvenskan,26,2015-09-28,Djurgården,Helsingborg,2,2,0.5
+2015,Allsvenskan,26,2015-09-28,Elfsborg,Åtvidaberg,3,1,1.0
+2015,Allsvenskan,26,2015-09-28,Örebro,Kalmar,2,1,1.0
+2015,Allsvenskan,26,2015-09-28,Göteborg,Sundsvall,3,2,1.0
+2015,Allsvenskan,27,2015-10-02,Åtvidaberg,Hammarby,0,3,0.0
+2015,Allsvenskan,27,2015-10-03,Sundsvall,Gefle,2,1,1.0
+2015,Allsvenskan,27,2015-10-03,Örebro,Falkenberg,2,1,1.0
+2015,Allsvenskan,27,2015-10-04,Helsingborg,Elfsborg,2,1,1.0
+2015,Allsvenskan,27,2015-10-04,Göteborg,Halmstad,1,1,0.5
+2015,Allsvenskan,27,2015-10-04,Kalmar,Djurgården,0,3,0.0
+2015,Allsvenskan,27,2015-10-04,Norrköping,Häcken,3,1,1.0
+2015,Allsvenskan,27,2015-10-04,AIK Stockholm,Malmö,2,1,1.0
+2015,Allsvenskan,28,2015-10-17,Malmö,Kalmar,3,0,1.0
+2015,Allsvenskan,28,2015-10-18,Halmstad,AIK Stockholm,0,1,0.0
+2015,Allsvenskan,28,2015-10-18,Hammarby,Helsingborg,1,4,0.0
+2015,Allsvenskan,28,2015-10-18,Falkenberg,Åtvidaberg,6,0,1.0
+2015,Allsvenskan,28,2015-10-19,Gefle,Örebro,2,2,0.5
+2015,Allsvenskan,28,2015-10-19,Häcken,Sundsvall,3,1,1.0
+2015,Allsvenskan,28,2015-10-19,Djurgården,Göteborg,2,2,0.5
+2015,Allsvenskan,28,2015-10-19,Elfsborg,Norrköping,3,2,1.0
+2015,Allsvenskan,29,2015-10-24,Falkenberg,Djurgården,0,2,0.0
+2015,Allsvenskan,29,2015-10-25,Hammarby,Malmö,0,1,0.0
+2015,Allsvenskan,29,2015-10-25,Sundsvall,Helsingborg,2,1,1.0
+2015,Allsvenskan,29,2015-10-25,Häcken,Elfsborg,5,2,1.0
+2015,Allsvenskan,29,2015-10-25,Norrköping,Halmstad,3,1,1.0
+2015,Allsvenskan,29,2015-10-26,Kalmar,Gefle,3,1,1.0
+2015,Allsvenskan,29,2015-10-26,Åtvidaberg,Örebro,2,3,0.0
+2015,Allsvenskan,29,2015-10-26,AIK Stockholm,Göteborg,1,2,0.0
+2015,Allsvenskan,30,2015-10-31,Örebro,AIK Stockholm,1,1,0.5
+2015,Allsvenskan,30,2015-10-31,Halmstad,Hammarby,2,1,1.0
+2015,Allsvenskan,30,2015-10-31,Djurgården,Sundsvall,4,2,1.0
+2015,Allsvenskan,30,2015-10-31,Gefle,Åtvidaberg,2,1,1.0
+2015,Allsvenskan,30,2015-10-31,Elfsborg,Falkenberg,4,2,1.0
+2015,Allsvenskan,30,2015-10-31,Göteborg,Kalmar,2,2,0.5
+2015,Allsvenskan,30,2015-10-31,Helsingborg,Häcken,1,2,0.0
+2015,Allsvenskan,30,2015-10-31,Malmö,Norrköping,0,2,0.0
+2015,Swedish 1/2 Relegation/Promotion Playoffs,,2015-11-05,Sirius,Falkenberg,2,2,0.5
+2015,Swedish 1/2 Relegation/Promotion Playoffs,,2015-11-08,Falkenberg,Sirius,1,1,0.5

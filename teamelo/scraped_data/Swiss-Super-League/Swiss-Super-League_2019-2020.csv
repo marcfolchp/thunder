@@ -1,0 +1,183 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,Swiss Super League,1,2019-07-19,Sion,Basel,1,4,0.0
+2019-2020,Swiss Super League,1,2019-07-20,St. Gallen,Luzern,0,2,0.0
+2019-2020,Swiss Super League,1,2019-07-20,Thun,Xamax,2,2,0.5
+2019-2020,Swiss Super League,1,2019-07-21,Young Boys,Servette FC,1,1,0.5
+2019-2020,Swiss Super League,1,2019-07-21,Zürich,Lugano,0,4,0.0
+2019-2020,Swiss Super League,2,2019-07-27,Servette FC,Sion,0,0,0.5
+2019-2020,Swiss Super League,2,2019-07-27,Basel,St. Gallen,1,2,0.0
+2019-2020,Swiss Super League,2,2019-07-28,Xamax,Young Boys,0,1,0.0
+2019-2020,Swiss Super League,2,2019-07-28,Luzern,Zürich,0,0,0.5
+2019-2020,Swiss Super League,2,2019-07-28,Lugano,Thun,0,0,0.5
+2019-2020,Swiss Super League,3,2019-08-03,Thun,Basel,2,3,0.0
+2019-2020,Swiss Super League,3,2019-08-03,Sion,Zürich,3,1,1.0
+2019-2020,Swiss Super League,3,2019-08-04,Young Boys,Lugano,2,0,1.0
+2019-2020,Swiss Super League,3,2019-08-04,Servette FC,Luzern,1,0,1.0
+2019-2020,Swiss Super League,3,2019-08-04,Xamax,St. Gallen,1,1,0.5
+2019-2020,Swiss Super League,4,2019-08-10,St. Gallen,Young Boys,2,3,0.0
+2019-2020,Swiss Super League,4,2019-08-10,Basel,Servette FC,3,1,1.0
+2019-2020,Swiss Super League,4,2019-08-11,Luzern,Thun,0,2,0.0
+2019-2020,Swiss Super League,4,2019-08-11,Zürich,Xamax,2,2,0.5
+2019-2020,Swiss Super League,4,2019-08-11,Lugano,Sion,0,1,0.0
+2019-2020,Swiss Super League,6,2019-08-14,Zürich,St. Gallen,2,1,1.0
+2019-2020,Swiss Super League,5,2019-08-24,Xamax,Basel,0,3,0.0
+2019-2020,Swiss Super League,5,2019-08-24,Young Boys,Zürich,4,0,1.0
+2019-2020,Swiss Super League,5,2019-08-25,St. Gallen,Lugano,3,2,1.0
+2019-2020,Swiss Super League,5,2019-08-25,Sion,Luzern,2,1,1.0
+2019-2020,Swiss Super League,5,2019-08-25,Thun,Servette FC,0,4,0.0
+2019-2020,Swiss Super League,6,2019-08-31,Servette FC,Xamax,2,2,0.5
+2019-2020,Swiss Super League,6,2019-09-01,Thun,Sion,0,1,0.0
+2019-2020,Swiss Super League,6,2019-09-01,Basel,Lugano,2,1,1.0
+2019-2020,Swiss Super League,6,2019-09-01,Luzern,Young Boys,2,2,0.5
+2019-2020,Swiss Super League,7,2019-09-21,St. Gallen,Servette FC,3,1,1.0
+2019-2020,Swiss Super League,7,2019-09-21,Xamax,Sion,1,3,0.0
+2019-2020,Swiss Super League,7,2019-09-22,Young Boys,Basel,1,1,0.5
+2019-2020,Swiss Super League,7,2019-09-22,Zürich,Thun,2,0,1.0
+2019-2020,Swiss Super League,7,2019-09-22,Lugano,Luzern,1,1,0.5
+2019-2020,Swiss Super League,8,2019-09-25,Thun,Young Boys,1,1,0.5
+2019-2020,Swiss Super League,8,2019-09-25,Sion,St. Gallen,1,2,0.0
+2019-2020,Swiss Super League,8,2019-09-25,Basel,Zürich,4,0,1.0
+2019-2020,Swiss Super League,8,2019-09-26,Luzern,Xamax,1,0,1.0
+2019-2020,Swiss Super League,8,2019-09-26,Servette FC,Lugano,0,0,0.5
+2019-2020,Swiss Super League,9,2019-09-28,St. Gallen,Thun,4,0,1.0
+2019-2020,Swiss Super League,9,2019-09-28,Young Boys,Sion,3,2,1.0
+2019-2020,Swiss Super League,9,2019-09-29,Basel,Luzern,3,0,1.0
+2019-2020,Swiss Super League,9,2019-09-29,Lugano,Xamax,0,1,0.0
+2019-2020,Swiss Super League,9,2019-09-29,Servette FC,Zürich,0,1,0.0
+2019-2020,Swiss Super League,10,2019-10-05,Xamax,Servette FC,2,2,0.5
+2019-2020,Swiss Super League,10,2019-10-05,Thun,Luzern,0,2,0.0
+2019-2020,Swiss Super League,10,2019-10-06,Zürich,Young Boys,0,4,0.0
+2019-2020,Swiss Super League,10,2019-10-06,St. Gallen,Basel,0,0,0.5
+2019-2020,Swiss Super League,10,2019-10-06,Sion,Lugano,1,2,0.0
+2019-2020,Swiss Super League,11,2019-10-19,Basel,Thun,3,1,1.0
+2019-2020,Swiss Super League,11,2019-10-19,Young Boys,Xamax,4,1,1.0
+2019-2020,Swiss Super League,11,2019-10-20,Luzern,Sion,3,1,1.0
+2019-2020,Swiss Super League,11,2019-10-20,Servette FC,St. Gallen,1,2,0.0
+2019-2020,Swiss Super League,11,2019-10-20,Lugano,Zürich,0,0,0.5
+2019-2020,Swiss Super League,12,2019-10-26,Sion,Servette FC,1,1,0.5
+2019-2020,Swiss Super League,12,2019-10-26,Xamax,Luzern,2,0,1.0
+2019-2020,Swiss Super League,12,2019-10-27,Zürich,Basel,3,2,1.0
+2019-2020,Swiss Super League,12,2019-10-27,Young Boys,Thun,4,2,1.0
+2019-2020,Swiss Super League,12,2019-10-27,Lugano,St. Gallen,1,3,0.0
+2019-2020,Swiss Super League,13,2019-11-02,St. Gallen,Sion,3,0,1.0
+2019-2020,Swiss Super League,13,2019-11-02,Thun,Zürich,0,1,0.0
+2019-2020,Swiss Super League,13,2019-11-03,Luzern,Lugano,1,2,0.0
+2019-2020,Swiss Super League,13,2019-11-03,Basel,Xamax,1,1,0.5
+2019-2020,Swiss Super League,13,2019-11-03,Servette FC,Young Boys,3,0,1.0
+2019-2020,Swiss Super League,14,2019-11-09,Xamax,Thun,2,3,0.0
+2019-2020,Swiss Super League,14,2019-11-09,Luzern,Servette FC,1,2,0.0
+2019-2020,Swiss Super League,14,2019-11-10,Zürich,Sion,4,2,1.0
+2019-2020,Swiss Super League,14,2019-11-10,Lugano,Basel,0,3,0.0
+2019-2020,Swiss Super League,14,2019-11-10,Young Boys,St. Gallen,4,3,1.0
+2019-2020,Swiss Super League,15,2019-11-23,Zürich,Luzern,3,0,1.0
+2019-2020,Swiss Super League,15,2019-11-23,Servette FC,Basel,2,0,1.0
+2019-2020,Swiss Super League,15,2019-11-24,Thun,Lugano,0,3,0.0
+2019-2020,Swiss Super League,15,2019-11-24,Sion,Young Boys,3,4,0.0
+2019-2020,Swiss Super League,15,2019-11-24,St. Gallen,Xamax,4,1,1.0
+2019-2020,Swiss Super League,16,2019-11-30,Xamax,Zürich,0,1,0.0
+2019-2020,Swiss Super League,16,2019-11-30,Sion,Thun,2,1,1.0
+2019-2020,Swiss Super League,16,2019-12-01,Luzern,St. Gallen,1,4,0.0
+2019-2020,Swiss Super League,16,2019-12-01,Lugano,Servette FC,1,0,1.0
+2019-2020,Swiss Super League,16,2019-12-01,Basel,Young Boys,3,0,1.0
+2019-2020,Swiss Super League,17,2019-12-07,Xamax,Lugano,1,1,0.5
+2019-2020,Swiss Super League,17,2019-12-07,Young Boys,Luzern,1,0,1.0
+2019-2020,Swiss Super League,17,2019-12-08,Basel,Sion,4,0,1.0
+2019-2020,Swiss Super League,17,2019-12-08,Zürich,Servette FC,0,5,0.0
+2019-2020,Swiss Super League,17,2019-12-08,Thun,St. Gallen,1,4,0.0
+2019-2020,Swiss Super League,18,2019-12-14,Servette FC,Thun,2,1,1.0
+2019-2020,Swiss Super League,18,2019-12-14,St. Gallen,Zürich,1,3,0.0
+2019-2020,Swiss Super League,18,2019-12-15,Lugano,Young Boys,0,0,0.5
+2019-2020,Swiss Super League,18,2019-12-15,Sion,Xamax,1,1,0.5
+2019-2020,Swiss Super League,18,2019-12-15,Luzern,Basel,2,1,1.0
+2019-2020,Swiss Super League,19,2020-01-25,Zürich,Luzern,2,3,0.0
+2019-2020,Swiss Super League,19,2020-01-25,Xamax,Servette FC,1,2,0.0
+2019-2020,Swiss Super League,19,2020-01-26,Thun,Sion,2,1,1.0
+2019-2020,Swiss Super League,19,2020-01-26,Young Boys,Basel,2,0,1.0
+2019-2020,Swiss Super League,19,2020-01-26,St. Gallen,Lugano,3,1,1.0
+2019-2020,Swiss Super League,20,2020-02-01,Lugano,Xamax,1,1,0.5
+2019-2020,Swiss Super League,20,2020-02-01,Luzern,Young Boys,2,0,1.0
+2019-2020,Swiss Super League,20,2020-02-02,Sion,Zürich,1,1,0.5
+2019-2020,Swiss Super League,20,2020-02-02,Servette FC,Thun,2,0,1.0
+2019-2020,Swiss Super League,20,2020-02-02,Basel,St. Gallen,1,2,0.0
+2019-2020,Swiss Super League,21,2020-02-08,Zürich,Basel,0,4,0.0
+2019-2020,Swiss Super League,21,2020-02-08,Young Boys,Sion,1,0,1.0
+2019-2020,Swiss Super League,21,2020-02-09,St. Gallen,Servette FC,1,0,1.0
+2019-2020,Swiss Super League,21,2020-02-09,Thun,Lugano,3,2,1.0
+2019-2020,Swiss Super League,21,2020-02-09,Xamax,Luzern,0,1,0.0
+2019-2020,Swiss Super League,22,2020-02-15,Basel,Thun,0,1,0.0
+2019-2020,Swiss Super League,22,2020-02-15,Sion,Xamax,1,2,0.0
+2019-2020,Swiss Super League,22,2020-02-16,Luzern,St. Gallen,1,0,1.0
+2019-2020,Swiss Super League,22,2020-02-16,Servette FC,Zürich,4,1,1.0
+2019-2020,Swiss Super League,22,2020-02-16,Lugano,Young Boys,2,1,1.0
+2019-2020,Swiss Super League,23,2020-02-22,Zürich,Xamax,1,1,0.5
+2019-2020,Swiss Super League,23,2020-02-22,Thun,Luzern,1,1,0.5
+2019-2020,Swiss Super League,23,2020-02-23,St. Gallen,Young Boys,3,3,0.5
+2019-2020,Swiss Super League,23,2020-02-23,Basel,Servette FC,2,2,0.5
+2019-2020,Swiss Super League,23,2020-02-23,Lugano,Sion,0,0,0.5
+2019-2020,Swiss Super League,24,2020-06-19,Young Boys,Zürich,3,2,1.0
+2019-2020,Swiss Super League,24,2020-06-20,Xamax,Thun,2,1,1.0
+2019-2020,Swiss Super League,24,2020-06-20,Sion,St. Gallen,1,2,0.0
+2019-2020,Swiss Super League,24,2020-06-21,Servette FC,Lugano,1,1,0.5
+2019-2020,Swiss Super League,24,2020-06-21,Luzern,Basel,2,1,1.0
+2019-2020,Swiss Super League,25,2020-06-23,Thun,Young Boys,1,0,1.0
+2019-2020,Swiss Super League,25,2020-06-24,Xamax,Basel,1,2,0.0
+2019-2020,Swiss Super League,25,2020-06-24,Lugano,Luzern,2,0,1.0
+2019-2020,Swiss Super League,25,2020-06-24,Sion,Servette FC,1,1,0.5
+2019-2020,Swiss Super League,25,2020-06-25,St. Gallen,Zürich,0,4,0.0
+2019-2020,Swiss Super League,26,2020-06-27,Luzern,Servette FC,2,2,0.5
+2019-2020,Swiss Super League,26,2020-06-27,Young Boys,Xamax,6,0,1.0
+2019-2020,Swiss Super League,26,2020-06-28,St. Gallen,Thun,3,2,1.0
+2019-2020,Swiss Super League,26,2020-06-28,Basel,Sion,2,0,1.0
+2019-2020,Swiss Super League,26,2020-06-28,Zürich,Lugano,1,0,1.0
+2019-2020,Swiss Super League,27,2020-06-30,Servette FC,Young Boys,1,1,0.5
+2019-2020,Swiss Super League,27,2020-07-01,Lugano,Basel,2,1,1.0
+2019-2020,Swiss Super League,27,2020-07-01,Xamax,St. Gallen,1,2,0.0
+2019-2020,Swiss Super League,27,2020-07-01,Thun,Zürich,3,2,1.0
+2019-2020,Swiss Super League,27,2020-07-02,Sion,Luzern,0,2,0.0
+2019-2020,Swiss Super League,28,2020-07-04,Basel,Xamax,2,0,1.0
+2019-2020,Swiss Super League,28,2020-07-04,Zürich,Servette FC,2,0,1.0
+2019-2020,Swiss Super League,28,2020-07-05,Young Boys,Lugano,3,0,1.0
+2019-2020,Swiss Super League,28,2020-07-05,Luzern,Thun,3,0,1.0
+2019-2020,Swiss Super League,28,2020-07-05,St. Gallen,Sion,2,1,1.0
+2019-2020,Swiss Super League,29,2020-07-07,Xamax,Zürich,1,1,0.5
+2019-2020,Swiss Super League,29,2020-07-08,Young Boys,Thun,4,0,1.0
+2019-2020,Swiss Super League,29,2020-07-08,Servette FC,Luzern,2,0,1.0
+2019-2020,Swiss Super League,29,2020-07-08,Sion,Basel,1,0,1.0
+2019-2020,Swiss Super League,29,2020-07-09,Lugano,St. Gallen,3,3,0.5
+2019-2020,Swiss Super League,30,2020-07-11,Basel,Young Boys,3,2,1.0
+2019-2020,Swiss Super League,30,2020-07-12,Luzern,Lugano,3,3,0.5
+2019-2020,Swiss Super League,30,2020-07-12,Thun,Xamax,3,0,1.0
+2019-2020,Swiss Super League,30,2020-07-12,Servette FC,St. Gallen,1,1,0.5
+2019-2020,Swiss Super League,31,2020-07-14,Basel,Zürich,4,0,1.0
+2019-2020,Swiss Super League,31,2020-07-15,Lugano,Thun,1,1,0.5
+2019-2020,Swiss Super League,31,2020-07-15,Young Boys,Servette FC,4,2,1.0
+2019-2020,Swiss Super League,31,2020-07-16,Xamax,Sion,0,0,0.5
+2019-2020,Swiss Super League,31,2020-07-16,St. Gallen,Luzern,4,1,1.0
+2019-2020,Swiss Super League,32,2020-07-18,Zürich,Young Boys,0,5,0.0
+2019-2020,Swiss Super League,32,2020-07-19,Servette FC,Basel,2,2,0.5
+2019-2020,Swiss Super League,32,2020-07-19,Thun,St. Gallen,2,1,1.0
+2019-2020,Swiss Super League,32,2020-07-19,Sion,Lugano,1,1,0.5
+2019-2020,Swiss Super League,32,2020-07-19,Luzern,Xamax,1,2,0.0
+2019-2020,Swiss Super League,33,2020-07-22,Thun,Servette FC,5,1,1.0
+2019-2020,Swiss Super League,33,2020-07-22,Lugano,Zürich,1,0,1.0
+2019-2020,Swiss Super League,33,2020-07-22,Luzern,Sion,1,2,0.0
+2019-2020,Swiss Super League,33,2020-07-22,St. Gallen,Basel,0,5,0.0
+2019-2020,Swiss Super League,33,2020-07-23,Xamax,Young Boys,0,1,0.0
+2019-2020,Swiss Super League,34,2020-07-25,Sion,Thun,1,1,0.5
+2019-2020,Swiss Super League,34,2020-07-25,Zürich,St. Gallen,1,3,0.0
+2019-2020,Swiss Super League,34,2020-07-26,Young Boys,Luzern,1,0,1.0
+2019-2020,Swiss Super League,34,2020-07-26,Basel,Lugano,4,4,0.5
+2019-2020,Swiss Super League,34,2020-07-26,Servette FC,Xamax,4,1,1.0
+2019-2020,Swiss Super League,30,2020-07-28,Zürich,Sion,0,2,0.0
+2019-2020,Swiss Super League,35,2020-07-31,Thun,Basel,0,0,0.5
+2019-2020,Swiss Super League,35,2020-07-31,St. Gallen,Xamax,6,0,1.0
+2019-2020,Swiss Super League,35,2020-07-31,Lugano,Servette FC,3,1,1.0
+2019-2020,Swiss Super League,35,2020-07-31,Luzern,Zürich,2,1,1.0
+2019-2020,Swiss Super League,35,2020-07-31,Sion,Young Boys,0,1,0.0
+2019-2020,Swiss Super League,36,2020-08-03,Zürich,Thun,3,3,0.5
+2019-2020,Swiss Super League,36,2020-08-03,Young Boys,St. Gallen,3,1,1.0
+2019-2020,Swiss Super League,36,2020-08-03,Xamax,Lugano,0,1,0.0
+2019-2020,Swiss Super League,36,2020-08-03,Basel,Luzern,0,0,0.5
+2019-2020,Swiss Super League,36,2020-08-03,Servette FC,Sion,1,2,0.0
+2019-2020,Swiss 1/2 Relegation/Promotion Playoffs,,2020-08-07,Vaduz,Thun,2,0,1.0
+2019-2020,Swiss 1/2 Relegation/Promotion Playoffs,,2020-08-10,Thun,Vaduz,4,3,1.0

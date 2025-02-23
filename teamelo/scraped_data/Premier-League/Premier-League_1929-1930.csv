@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1929-1930,1,1929-08-31,Blackburn,West Ham,3,3,0.5
+1929-1930,1,1929-08-31,Manchester City,Burnley,2,2,0.5
+1929-1930,1,1929-08-31,Derby County,Sunderland,3,0,1.0
+1929-1930,1,1929-08-31,Arsenal,Leeds United,4,0,1.0
+1929-1930,1,1929-08-31,Aston Villa,Birmingham,2,1,1.0
+1929-1930,1,1929-08-31,Huddersfield,Leicester City,3,2,1.0
+1929-1930,1,1929-08-31,Middlesbrough,Liverpool,5,0,1.0
+1929-1930,1,1929-08-31,Everton,Bolton,3,3,0.5
+1929-1930,1,1929-08-31,Newcastle Utd,Manchester Utd,4,1,1.0
+1929-1930,1,1929-08-31,Portsmouth,Sheffield Weds,0,4,0.0
+1929-1930,1,1929-08-31,Sheffield Utd,Grimsby Town,2,3,0.0
+1929-1930,2,1929-09-02,Leicester City,Manchester Utd,4,1,1.0
+1929-1930,2,1929-09-02,Sheffield Weds,Bolton,1,0,1.0
+1929-1930,40,1929-09-02,Burnley,Everton,1,1,0.5
+1929-1930,2,1929-09-04,Newcastle Utd,Blackburn,5,1,1.0
+1929-1930,2,1929-09-04,Birmingham,West Ham,4,2,1.0
+1929-1930,2,1929-09-04,Derby County,Aston Villa,4,0,1.0
+1929-1930,2,1929-09-04,Liverpool,Huddersfield,3,0,1.0
+1929-1930,2,1929-09-04,Manchester City,Arsenal,3,1,1.0
+1929-1930,2,1929-09-04,Middlesbrough,Sheffield Utd,3,1,1.0
+1929-1930,2,1929-09-04,Grimsby Town,Portsmouth,1,1,0.5
+1929-1930,3,1929-09-07,Burnley,Portsmouth,4,0,1.0
+1929-1930,3,1929-09-07,Birmingham,Huddersfield,4,1,1.0
+1929-1930,3,1929-09-07,Sunderland,Manchester City,5,2,1.0
+1929-1930,3,1929-09-07,Leicester City,Sheffield Utd,3,3,0.5
+1929-1930,3,1929-09-07,Grimsby Town,Newcastle Utd,4,0,1.0
+1929-1930,3,1929-09-07,Bolton,Derby County,1,2,0.0
+1929-1930,3,1929-09-07,Liverpool,Everton,0,3,0.0
+1929-1930,3,1929-09-07,West Ham,Middlesbrough,5,3,1.0
+1929-1930,3,1929-09-07,Manchester Utd,Blackburn,1,0,1.0
+1929-1930,3,1929-09-07,Sheffield Weds,Arsenal,0,2,0.0
+1929-1930,3,1929-09-07,Leeds United,Aston Villa,4,1,1.0
+1929-1930,4,1929-09-09,Aston Villa,Derby County,2,2,0.5
+1929-1930,4,1929-09-09,Sheffield Utd,Middlesbrough,1,3,0.0
+1929-1930,7,1929-09-09,West Ham,Newcastle Utd,5,1,1.0
+1929-1930,4,1929-09-10,Burnley,Sunderland,2,0,1.0
+1929-1930,4,1929-09-11,Arsenal,Manchester City,3,2,1.0
+1929-1930,4,1929-09-11,Portsmouth,Grimsby Town,1,1,0.5
+1929-1930,4,1929-09-11,Everton,Leeds United,1,1,0.5
+1929-1930,4,1929-09-11,Manchester Utd,Leicester City,2,1,1.0
+1929-1930,5,1929-09-14,Manchester City,Bolton,2,0,1.0
+1929-1930,5,1929-09-14,Sheffield Utd,Birmingham,4,2,1.0
+1929-1930,5,1929-09-14,Blackburn,Grimsby Town,4,1,1.0
+1929-1930,5,1929-09-14,Huddersfield,Leeds United,1,0,1.0
+1929-1930,5,1929-09-14,Arsenal,Burnley,6,1,1.0
+1929-1930,5,1929-09-14,Liverpool,West Ham,3,1,1.0
+1929-1930,5,1929-09-14,Aston Villa,Sheffield Weds,1,3,0.0
+1929-1930,5,1929-09-14,Middlesbrough,Manchester Utd,2,3,0.0
+1929-1930,5,1929-09-14,Derby County,Everton,2,1,1.0
+1929-1930,5,1929-09-14,Portsmouth,Sunderland,1,1,0.5
+1929-1930,5,1929-09-14,Newcastle Utd,Leicester City,2,1,1.0
+1929-1930,2,1929-09-16,Leeds United,Everton,2,1,1.0
+1929-1930,4,1929-09-16,Blackburn,Newcastle Utd,4,2,1.0
+1929-1930,4,1929-09-16,West Ham,Birmingham,0,1,0.0
+1929-1930,4,1929-09-16,Huddersfield,Liverpool,3,0,1.0
+1929-1930,7,1929-09-18,Bolton,Middlesbrough,2,2,0.5
+1929-1930,6,1929-09-21,Sheffield Weds,Leeds United,1,2,0.0
+1929-1930,6,1929-09-21,Birmingham,Newcastle Utd,5,1,1.0
+1929-1930,6,1929-09-21,Grimsby Town,Middlesbrough,0,3,0.0
+1929-1930,6,1929-09-21,Everton,Manchester City,2,3,0.0
+1929-1930,6,1929-09-21,Leicester City,Blackburn,1,1,0.5
+1929-1930,6,1929-09-21,Huddersfield,Sheffield Utd,2,2,0.5
+1929-1930,6,1929-09-21,Bolton,Portsmouth,2,1,1.0
+1929-1930,6,1929-09-21,Burnley,Aston Villa,1,4,0.0
+1929-1930,6,1929-09-21,Manchester Utd,Liverpool,1,2,0.0
+1929-1930,6,1929-09-21,Sunderland,Arsenal,0,1,0.0
+1929-1930,6,1929-09-21,West Ham,Derby County,2,0,1.0
+1929-1930,7,1929-09-23,Leeds United,Portsmouth,1,0,1.0
+1929-1930,7,1929-09-24,Grimsby Town,Huddersfield,4,2,1.0
+1929-1930,4,1929-09-25,Bolton,Sheffield Weds,1,3,0.0
+1929-1930,7,1929-09-25,Derby County,Burnley,1,3,0.0
+1929-1930,7,1929-09-25,Aston Villa,Arsenal,5,2,1.0
+1929-1930,8,1929-09-28,Portsmouth,Everton,1,4,0.0
+1929-1930,8,1929-09-28,Arsenal,Bolton,1,2,0.0
+1929-1930,8,1929-09-28,Sheffield Utd,Sheffield Weds,2,2,0.5
+1929-1930,8,1929-09-28,Blackburn,Birmingham,7,5,1.0
+1929-1930,8,1929-09-28,Middlesbrough,Leicester City,0,2,0.0
+1929-1930,8,1929-09-28,Aston Villa,Sunderland,2,1,1.0
+1929-1930,8,1929-09-28,Manchester City,Derby County,3,0,1.0
+1929-1930,8,1929-09-28,Newcastle Utd,Huddersfield,5,2,1.0
+1929-1930,8,1929-09-28,Liverpool,Grimsby Town,2,0,1.0
+1929-1930,8,1929-09-28,West Ham,Manchester Utd,2,1,1.0
+1929-1930,8,1929-09-28,Leeds United,Burnley,3,0,1.0
+1929-1930,7,1929-10-02,Sunderland,Everton,2,2,0.5
+1929-1930,9,1929-10-05,Everton,Arsenal,1,1,0.5
+1929-1930,9,1929-10-05,Sunderland,Leeds United,1,4,0.0
+1929-1930,9,1929-10-05,Grimsby Town,West Ham,2,2,0.5
+1929-1930,9,1929-10-05,Bolton,Aston Villa,3,0,1.0
+1929-1930,9,1929-10-05,Birmingham,Middlesbrough,1,1,0.5
+1929-1930,9,1929-10-05,Leicester City,Liverpool,2,1,1.0
+1929-1930,9,1929-10-05,Manchester Utd,Manchester City,1,3,0.0
+1929-1930,9,1929-10-05,Derby County,Portsmouth,3,2,1.0
+1929-1930,9,1929-10-05,Sheffield Utd,Newcastle Utd,1,0,1.0
+1929-1930,9,1929-10-05,Huddersfield,Blackburn,0,0,0.5
+1929-1930,9,1929-10-05,Burnley,Sheffield Weds,2,4,0.0
+1929-1930,7,1929-10-07,Sheffield Utd,Manchester Utd,3,1,1.0
+1929-1930,7,1929-10-09,Liverpool,Blackburn,1,1,0.5
+1929-1930,10,1929-10-12,Liverpool,Birmingham,1,1,0.5
+1929-1930,10,1929-10-12,Portsmouth,Manchester City,2,2,0.5
+1929-1930,10,1929-10-12,Aston Villa,Everton,5,2,1.0
+1929-1930,10,1929-10-12,Middlesbrough,Huddersfield,1,3,0.0
+1929-1930,10,1929-10-12,Newcastle Utd,Burnley,2,1,1.0
+1929-1930,10,1929-10-12,West Ham,Leicester City,1,2,0.0
+1929-1930,10,1929-10-12,Sheffield Weds,Sunderland,1,1,0.5
+1929-1930,10,1929-10-12,Blackburn,Sheffield Utd,0,1,0.0
+1929-1930,10,1929-10-12,Arsenal,Derby County,1,1,0.5
+1929-1930,10,1929-10-12,Leeds United,Bolton,2,1,1.0
+1929-1930,10,1929-10-12,Manchester Utd,Grimsby Town,2,5,0.0
+1929-1930,7,1929-10-17,Leicester City,Birmingham,2,1,1.0
+1929-1930,11,1929-10-19,Sheffield Weds,Huddersfield,3,1,1.0
+1929-1930,11,1929-10-19,Aston Villa,Leicester City,3,0,1.0
+1929-1930,11,1929-10-19,Sunderland,Newcastle Utd,1,0,1.0
+1929-1930,11,1929-10-19,Leeds United,Birmingham,1,0,1.0
+1929-1930,11,1929-10-19,Arsenal,Grimsby Town,4,1,1.0
+1929-1930,11,1929-10-19,Manchester City,West Ham,4,3,1.0
+1929-1930,11,1929-10-19,Burnley,Sheffield Utd,5,0,1.0
+1929-1930,11,1929-10-19,Portsmouth,Manchester Utd,3,0,1.0
+1929-1930,11,1929-10-19,Derby County,Liverpool,2,2,0.5
+1929-1930,11,1929-10-19,Everton,Middlesbrough,3,2,1.0
+1929-1930,11,1929-10-19,Bolton,Blackburn,2,1,1.0
+1929-1930,12,1929-10-26,Huddersfield,Burnley,3,0,1.0
+1929-1930,12,1929-10-26,West Ham,Portsmouth,0,1,0.0
+1929-1930,12,1929-10-26,Manchester Utd,Arsenal,1,0,1.0
+1929-1930,12,1929-10-26,Newcastle Utd,Bolton,2,3,0.0
+1929-1930,12,1929-10-26,Grimsby Town,Aston Villa,0,2,0.0
+1929-1930,12,1929-10-26,Sheffield Utd,Sunderland,4,2,1.0
+1929-1930,12,1929-10-26,Liverpool,Manchester City,1,6,0.0
+1929-1930,12,1929-10-26,Leicester City,Leeds United,2,2,0.5
+1929-1930,12,1929-10-26,Blackburn,Everton,3,1,1.0
+1929-1930,12,1929-10-26,Middlesbrough,Derby County,4,0,1.0
+1929-1930,12,1929-10-26,Birmingham,Sheffield Weds,1,0,1.0
+1929-1930,13,1929-11-02,Sheffield Weds,Leicester City,4,0,1.0
+1929-1930,13,1929-11-02,Derby County,Blackburn,4,3,1.0
+1929-1930,13,1929-11-02,Bolton,Sheffield Utd,2,1,1.0
+1929-1930,13,1929-11-02,Manchester City,Middlesbrough,3,1,1.0
+1929-1930,13,1929-11-02,Leeds United,Grimsby Town,6,0,1.0
+1929-1930,13,1929-11-02,Aston Villa,Manchester Utd,1,0,1.0
+1929-1930,13,1929-11-02,Portsmouth,Liverpool,3,3,0.5
+1929-1930,13,1929-11-02,Everton,Newcastle Utd,5,2,1.0
+1929-1930,13,1929-11-02,Sunderland,Huddersfield,1,0,1.0
+1929-1930,13,1929-11-02,Arsenal,West Ham,0,1,0.0
+1929-1930,13,1929-11-02,Burnley,Birmingham,3,1,1.0
+1929-1930,14,1929-11-09,Huddersfield,Aston Villa,1,1,0.5
+1929-1930,14,1929-11-09,Leicester City,Portsmouth,0,5,0.0
+1929-1930,14,1929-11-09,Manchester Utd,Derby County,3,2,1.0
+1929-1930,14,1929-11-09,Grimsby Town,Manchester City,2,2,0.5
+1929-1930,14,1929-11-09,Middlesbrough,Sunderland,3,0,1.0
+1929-1930,14,1929-11-09,Liverpool,Bolton,3,0,1.0
+1929-1930,14,1929-11-09,Newcastle Utd,Sheffield Weds,1,3,0.0
+1929-1930,14,1929-11-09,Blackburn,Burnley,8,3,1.0
+1929-1930,14,1929-11-09,West Ham,Everton,3,1,1.0
+1929-1930,14,1929-11-09,Birmingham,Arsenal,2,3,0.0
+1929-1930,14,1929-11-09,Sheffield Utd,Leeds United,3,2,1.0
+1929-1930,15,1929-11-16,Portsmouth,Blackburn,4,0,1.0
+1929-1930,15,1929-11-16,Sheffield Weds,Manchester Utd,7,2,1.0
+1929-1930,15,1929-11-16,Burnley,Grimsby Town,3,1,1.0
+1929-1930,15,1929-11-16,Sunderland,Leicester City,2,1,1.0
+1929-1930,15,1929-11-16,Aston Villa,Liverpool,2,3,0.0
+1929-1930,15,1929-11-16,Leeds United,West Ham,1,3,0.0
+1929-1930,15,1929-11-16,Derby County,Sheffield Utd,2,1,1.0
+1929-1930,15,1929-11-16,Everton,Huddersfield,0,2,0.0
+1929-1930,15,1929-11-16,Bolton,Birmingham,0,0,0.5
+1929-1930,15,1929-11-16,Manchester City,Newcastle Utd,3,0,1.0
+1929-1930,16,1929-11-23,Leicester City,Bolton,5,2,1.0
+1929-1930,16,1929-11-23,West Ham,Sheffield Weds,1,1,0.5
+1929-1930,16,1929-11-23,Birmingham,Everton,0,0,0.5
+1929-1930,16,1929-11-23,Liverpool,Leeds United,1,0,1.0
+1929-1930,16,1929-11-23,Huddersfield,Derby County,0,1,0.0
+1929-1930,16,1929-11-23,Blackburn,Arsenal,1,1,0.5
+1929-1930,16,1929-11-23,Grimsby Town,Sunderland,0,1,0.0
+1929-1930,16,1929-11-23,Manchester Utd,Burnley,1,0,1.0
+1929-1930,16,1929-11-23,Newcastle Utd,Portsmouth,4,1,1.0
+1929-1930,16,1929-11-23,Middlesbrough,Aston Villa,2,3,0.0
+1929-1930,16,1929-11-23,Sheffield Utd,Manchester City,1,2,0.0
+1929-1930,15,1929-11-27,Arsenal,Middlesbrough,1,2,0.0
+1929-1930,17,1929-11-30,Aston Villa,Blackburn,3,0,1.0
+1929-1930,17,1929-11-30,Burnley,West Ham,1,1,0.5
+1929-1930,17,1929-11-30,Bolton,Grimsby Town,2,3,0.0
+1929-1930,17,1929-11-30,Derby County,Birmingham,3,1,1.0
+1929-1930,17,1929-11-30,Arsenal,Newcastle Utd,0,1,0.0
+1929-1930,17,1929-11-30,Sunderland,Manchester Utd,2,4,0.0
+1929-1930,17,1929-11-30,Everton,Leicester City,4,5,0.0
+1929-1930,17,1929-11-30,Leeds United,Middlesbrough,1,2,0.0
+1929-1930,17,1929-11-30,Portsmouth,Sheffield Utd,3,1,1.0
+1929-1930,17,1929-11-30,Manchester City,Huddersfield,1,1,0.5
+1929-1930,17,1929-11-30,Sheffield Weds,Liverpool,2,1,1.0
+1929-1930,18,1929-12-07,West Ham,Sunderland,1,1,0.5
+1929-1930,18,1929-12-07,Middlesbrough,Sheffield Weds,4,1,1.0
+1929-1930,18,1929-12-07,Grimsby Town,Everton,0,3,0.0
+1929-1930,18,1929-12-07,Huddersfield,Portsmouth,2,1,1.0
+1929-1930,18,1929-12-07,Leicester City,Derby County,0,0,0.5
+1929-1930,18,1929-12-07,Blackburn,Leeds United,2,1,1.0
+1929-1930,18,1929-12-07,Manchester Utd,Bolton,1,1,0.5
+1929-1930,18,1929-12-07,Newcastle Utd,Aston Villa,2,2,0.5
+1929-1930,18,1929-12-07,Birmingham,Manchester City,3,0,1.0
+1929-1930,18,1929-12-07,Liverpool,Burnley,1,3,0.0
+1929-1930,19,1929-12-14,Portsmouth,Birmingham,2,1,1.0
+1929-1930,19,1929-12-14,Derby County,Grimsby Town,5,4,1.0
+1929-1930,19,1929-12-14,Sheffield Weds,Blackburn,4,0,1.0
+1929-1930,19,1929-12-14,Leeds United,Newcastle Utd,5,2,1.0
+1929-1930,19,1929-12-14,Bolton,West Ham,4,1,1.0
+1929-1930,19,1929-12-14,Arsenal,Huddersfield,2,0,1.0
+1929-1930,19,1929-12-14,Everton,Manchester Utd,0,0,0.5
+1929-1930,19,1929-12-14,Aston Villa,Sheffield Utd,5,1,1.0
+1929-1930,19,1929-12-14,Burnley,Middlesbrough,4,1,1.0
+1929-1930,19,1929-12-14,Manchester City,Leicester City,3,2,1.0
+1929-1930,19,1929-12-14,Sunderland,Liverpool,2,3,0.0
+1929-1930,18,1929-12-16,Sheffield Utd,Arsenal,4,1,1.0
+1929-1930,20,1929-12-21,Middlesbrough,Portsmouth,2,0,1.0
+1929-1930,20,1929-12-21,Sheffield Utd,Everton,2,0,1.0
+1929-1930,20,1929-12-21,Leicester City,Burnley,4,3,1.0
+1929-1930,20,1929-12-21,Newcastle Utd,Derby County,2,3,0.0
+1929-1930,20,1929-12-21,Huddersfield,Bolton,0,2,0.0
+1929-1930,20,1929-12-21,Blackburn,Manchester City,1,3,0.0
+1929-1930,20,1929-12-21,West Ham,Aston Villa,5,2,1.0
+1929-1930,20,1929-12-21,Birmingham,Sunderland,3,1,1.0
+1929-1930,20,1929-12-21,Liverpool,Arsenal,1,0,1.0
+1929-1930,20,1929-12-21,Manchester Utd,Leeds United,3,1,1.0
+1929-1930,21,1929-12-25,Leeds United,Derby County,2,1,1.0
+1929-1930,21,1929-12-25,Portsmouth,Arsenal,0,1,0.0
+1929-1930,21,1929-12-25,Grimsby Town,Leicester City,1,4,0.0
+1929-1930,21,1929-12-25,Newcastle Utd,Middlesbrough,3,2,1.0
+1929-1930,21,1929-12-25,West Ham,Huddersfield,2,3,0.0
+1929-1930,21,1929-12-25,Everton,Sheffield Weds,1,4,0.0
+1929-1930,21,1929-12-25,Blackburn,Sunderland,5,3,1.0
+1929-1930,21,1929-12-25,Aston Villa,Manchester City,0,2,0.0
+1929-1930,21,1929-12-25,Sheffield Utd,Liverpool,4,0,1.0
+1929-1930,21,1929-12-25,Bolton,Burnley,1,1,0.5
+1929-1930,21,1929-12-25,Manchester Utd,Birmingham,0,0,0.5
+1929-1930,22,1929-12-26,Birmingham,Manchester Utd,0,1,0.0
+1929-1930,22,1929-12-26,Arsenal,Portsmouth,1,2,0.0
+1929-1930,22,1929-12-26,Middlesbrough,Newcastle Utd,2,2,0.5
+1929-1930,22,1929-12-26,Sheffield Weds,Everton,4,0,1.0
+1929-1930,22,1929-12-26,Liverpool,Sheffield Utd,2,0,1.0
+1929-1930,22,1929-12-26,Leicester City,Grimsby Town,1,0,1.0
+1929-1930,22,1929-12-26,Huddersfield,West Ham,3,0,1.0
+1929-1930,22,1929-12-26,Burnley,Bolton,2,2,0.5
+1929-1930,22,1929-12-26,Manchester City,Aston Villa,1,2,0.0
+1929-1930,22,1929-12-26,Sunderland,Blackburn,3,1,1.0
+1929-1930,22,1929-12-26,Derby County,Leeds United,3,0,1.0
+1929-1930,23,1929-12-28,Sunderland,Derby County,3,1,1.0
+1929-1930,23,1929-12-28,Liverpool,Middlesbrough,5,2,1.0
+1929-1930,23,1929-12-28,Manchester Utd,Newcastle Utd,5,0,1.0
+1929-1930,23,1929-12-28,Leicester City,Huddersfield,1,2,0.0
+1929-1930,23,1929-12-28,Grimsby Town,Sheffield Utd,4,1,1.0
+1929-1930,23,1929-12-28,Sheffield Weds,Portsmouth,1,1,0.5
+1929-1930,23,1929-12-28,Bolton,Everton,5,0,1.0
+1929-1930,23,1929-12-28,West Ham,Blackburn,2,3,0.0
+1929-1930,23,1929-12-28,Burnley,Manchester City,4,2,1.0
+1929-1930,23,1929-12-28,Leeds United,Arsenal,2,0,1.0
+1929-1930,23,1929-12-28,Birmingham,Aston Villa,1,1,0.5
+1929-1930,2,1930-01-01,Sunderland,Burnley,3,3,0.5
+1929-1930,7,1930-01-01,Manchester City,Sheffield Weds,3,3,0.5
+1929-1930,38,1930-01-01,Blackburn,Middlesbrough,7,0,1.0
+1929-1930,40,1930-01-01,Sheffield Utd,West Ham,4,2,1.0
+1929-1930,41,1930-01-01,Bolton,Huddersfield,7,1,1.0
+1929-1930,24,1930-01-04,Arsenal,Sheffield Weds,2,3,0.0
+1929-1930,24,1930-01-04,Sheffield Utd,Leicester City,7,1,1.0
+1929-1930,24,1930-01-04,Huddersfield,Birmingham,1,1,0.5
+1929-1930,24,1930-01-04,Middlesbrough,West Ham,2,0,1.0
+1929-1930,24,1930-01-04,Newcastle Utd,Grimsby Town,3,1,1.0
+1929-1930,24,1930-01-04,Derby County,Bolton,2,1,1.0
+1929-1930,24,1930-01-04,Portsmouth,Burnley,7,1,1.0
+1929-1930,24,1930-01-04,Manchester City,Sunderland,2,2,0.5
+1929-1930,24,1930-01-04,Everton,Liverpool,3,3,0.5
+1929-1930,24,1930-01-04,Blackburn,Manchester Utd,5,4,1.0
+1929-1930,24,1930-01-04,Aston Villa,Leeds United,3,4,0.0
+1929-1930,25,1930-01-18,Manchester Utd,Middlesbrough,0,3,0.0
+1929-1930,25,1930-01-18,Burnley,Arsenal,2,2,0.5
+1929-1930,25,1930-01-18,Leicester City,Newcastle Utd,6,1,1.0
+1929-1930,25,1930-01-18,Sunderland,Portsmouth,1,1,0.5
+1929-1930,25,1930-01-18,Leeds United,Huddersfield,0,1,0.0
+1929-1930,25,1930-01-18,Birmingham,Sheffield Utd,2,1,1.0
+1929-1930,25,1930-01-18,Sheffield Weds,Aston Villa,3,0,1.0
+1929-1930,25,1930-01-18,Everton,Derby County,4,0,1.0
+1929-1930,25,1930-01-18,Bolton,Manchester City,1,2,0.0
+1929-1930,25,1930-01-18,Grimsby Town,Blackburn,5,3,1.0
+1929-1930,25,1930-01-18,West Ham,Liverpool,4,1,1.0
+1929-1930,26,1930-01-25,Liverpool,Manchester Utd,1,0,1.0
+1929-1930,26,1930-01-27,Blackburn,Leicester City,3,1,1.0
+1929-1930,27,1930-02-01,Grimsby Town,Liverpool,3,2,1.0
+1929-1930,27,1930-02-01,Huddersfield,Newcastle Utd,2,0,1.0
+1929-1930,27,1930-02-01,Birmingham,Blackburn,1,2,0.0
+1929-1930,27,1930-02-01,Sheffield Weds,Sheffield Utd,1,1,0.5
+1929-1930,27,1930-02-01,Sunderland,Aston Villa,4,1,1.0
+1929-1930,27,1930-02-01,Leicester City,Middlesbrough,4,1,1.0
+1929-1930,27,1930-02-01,Manchester Utd,West Ham,4,2,1.0
+1929-1930,27,1930-02-01,Derby County,Manchester City,4,2,1.0
+1929-1930,27,1930-02-01,Bolton,Arsenal,0,0,0.5
+1929-1930,27,1930-02-01,Everton,Portsmouth,1,1,0.5
+1929-1930,27,1930-02-01,Burnley,Leeds United,0,3,0.0
+1929-1930,20,1930-02-05,Grimsby Town,Sheffield Weds,0,5,0.0
+1929-1930,26,1930-02-05,Derby County,West Ham,4,3,1.0
+1929-1930,26,1930-02-05,Aston Villa,Burnley,1,2,0.0
+1929-1930,26,1930-02-05,Portsmouth,Bolton,3,0,1.0
+1929-1930,26,1930-02-05,Manchester City,Everton,1,2,0.0
+1929-1930,28,1930-02-08,Newcastle Utd,Sheffield Utd,3,5,0.0
+1929-1930,28,1930-02-08,Sheffield Weds,Burnley,4,1,1.0
+1929-1930,28,1930-02-08,Manchester City,Manchester Utd,0,1,0.0
+1929-1930,28,1930-02-08,Aston Villa,Bolton,2,0,1.0
+1929-1930,28,1930-02-08,Leeds United,Sunderland,5,0,1.0
+1929-1930,28,1930-02-08,Portsmouth,Derby County,3,1,1.0
+1929-1930,28,1930-02-08,Liverpool,Leicester City,1,1,0.5
+1929-1930,28,1930-02-08,Middlesbrough,Birmingham,5,1,1.0
+1929-1930,28,1930-02-08,West Ham,Grimsby Town,2,0,1.0
+1929-1930,28,1930-02-08,Blackburn,Huddersfield,5,2,1.0
+1929-1930,28,1930-02-08,Arsenal,Everton,4,0,1.0
+1929-1930,29,1930-02-15,Grimsby Town,Manchester Utd,2,2,0.5
+1929-1930,29,1930-02-15,Bolton,Leeds United,4,2,1.0
+1929-1930,29,1930-02-15,Birmingham,Liverpool,1,0,1.0
+1929-1930,41,1930-02-15,Burnley,Leicester City,1,1,0.5
+1929-1930,26,1930-02-17,Sheffield Utd,Huddersfield,0,1,0.0
+1929-1930,29,1930-02-19,Derby County,Arsenal,4,1,1.0
+1929-1930,29,1930-02-20,Leicester City,West Ham,1,2,0.0
+1929-1930,30,1930-02-22,West Ham,Manchester City,3,0,1.0
+1929-1930,30,1930-02-22,Leicester City,Aston Villa,4,3,1.0
+1929-1930,30,1930-02-22,Birmingham,Leeds United,1,0,1.0
+1929-1930,30,1930-02-22,Middlesbrough,Everton,1,2,0.0
+1929-1930,30,1930-02-22,Blackburn,Bolton,3,1,1.0
+1929-1930,30,1930-02-22,Sheffield Utd,Burnley,3,1,1.0
+1929-1930,30,1930-02-22,Manchester Utd,Portsmouth,3,0,1.0
+1929-1930,30,1930-02-22,Liverpool,Derby County,2,2,0.5
+1929-1930,30,1930-02-22,Grimsby Town,Arsenal,1,1,0.5
+1929-1930,30,1930-02-22,Newcastle Utd,Sunderland,3,0,1.0
+1929-1930,30,1930-02-22,Huddersfield,Sheffield Weds,4,1,1.0
+1929-1930,29,1930-02-26,Manchester City,Portsmouth,5,2,1.0
+1929-1930,31,1930-03-01,Sunderland,Sheffield Utd,3,2,1.0
+1929-1930,31,1930-03-01,Manchester City,Liverpool,4,3,1.0
+1929-1930,31,1930-03-01,Derby County,Middlesbrough,3,1,1.0
+1929-1930,31,1930-03-01,Everton,Blackburn,2,2,0.5
+1929-1930,31,1930-03-01,Leeds United,Leicester City,1,2,0.0
+1929-1930,37,1930-03-01,Bolton,Manchester Utd,4,1,1.0
+1929-1930,29,1930-03-03,Sheffield Utd,Blackburn,5,7,0.0
+1929-1930,26,1930-03-05,Middlesbrough,Grimsby Town,1,5,0.0
+1929-1930,29,1930-03-05,Everton,Aston Villa,3,4,0.0
+1929-1930,32,1930-03-08,Liverpool,Portsmouth,2,0,1.0
+1929-1930,32,1930-03-08,Sheffield Utd,Bolton,2,3,0.0
+1929-1930,32,1930-03-08,Manchester Utd,Aston Villa,2,3,0.0
+1929-1930,32,1930-03-08,Birmingham,Burnley,2,0,1.0
+1929-1930,32,1930-03-08,Huddersfield,Sunderland,0,2,0.0
+1929-1930,32,1930-03-08,Blackburn,Derby County,0,3,0.0
+1929-1930,32,1930-03-08,Newcastle Utd,Everton,1,0,1.0
+1929-1930,32,1930-03-08,Leicester City,Sheffield Weds,2,1,1.0
+1929-1930,32,1930-03-08,Middlesbrough,Manchester City,1,0,1.0
+1929-1930,32,1930-03-08,West Ham,Arsenal,3,2,1.0
+1929-1930,32,1930-03-08,Grimsby Town,Leeds United,1,2,0.0
+1929-1930,29,1930-03-11,Burnley,Newcastle Utd,0,3,0.0
+1929-1930,31,1930-03-12,Arsenal,Manchester Utd,4,2,1.0
+1929-1930,31,1930-03-12,Portsmouth,West Ham,3,1,1.0
+1929-1930,33,1930-03-15,Sheffield Weds,Newcastle Utd,4,2,1.0
+1929-1930,33,1930-03-15,Derby County,Manchester Utd,1,1,0.5
+1929-1930,33,1930-03-15,Arsenal,Birmingham,1,0,1.0
+1929-1930,33,1930-03-15,Sunderland,Middlesbrough,3,2,1.0
+1929-1930,33,1930-03-15,Burnley,Blackburn,3,2,1.0
+1929-1930,33,1930-03-15,Leeds United,Sheffield Utd,2,2,0.5
+1929-1930,33,1930-03-15,Bolton,Liverpool,0,2,0.0
+1929-1930,33,1930-03-15,Portsmouth,Leicester City,3,0,1.0
+1929-1930,33,1930-03-15,Aston Villa,Huddersfield,5,3,1.0
+1929-1930,33,1930-03-15,Everton,West Ham,1,2,0.0
+1929-1930,33,1930-03-15,Manchester City,Grimsby Town,3,1,1.0
+1929-1930,34,1930-03-22,Sheffield Utd,Derby County,2,0,1.0
+1929-1930,34,1930-03-22,Liverpool,Aston Villa,2,0,1.0
+1929-1930,34,1930-03-22,Birmingham,Bolton,3,1,1.0
+1929-1930,34,1930-03-22,Leicester City,Sunderland,1,2,0.0
+1929-1930,34,1930-03-22,Grimsby Town,Burnley,4,0,1.0
+1929-1930,34,1930-03-22,Blackburn,Portsmouth,1,0,1.0
+1929-1930,34,1930-03-22,West Ham,Leeds United,3,0,1.0
+1929-1930,34,1930-03-22,Newcastle Utd,Manchester City,2,2,0.5
+1929-1930,29,1930-03-26,Huddersfield,Middlesbrough,1,0,1.0
+1929-1930,35,1930-03-29,Burnley,Manchester Utd,4,0,1.0
+1929-1930,35,1930-03-29,Aston Villa,Middlesbrough,4,2,1.0
+1929-1930,35,1930-03-29,Sheffield Weds,West Ham,2,1,1.0
+1929-1930,35,1930-03-29,Manchester City,Sheffield Utd,2,1,1.0
+1929-1930,35,1930-03-29,Bolton,Leicester City,1,0,1.0
+1929-1930,35,1930-03-29,Portsmouth,Newcastle Utd,2,0,1.0
+1929-1930,35,1930-03-29,Sunderland,Grimsby Town,2,0,1.0
+1929-1930,35,1930-03-29,Derby County,Huddersfield,2,2,0.5
+1929-1930,35,1930-03-29,Leeds United,Liverpool,1,1,0.5
+1929-1930,35,1930-03-29,Arsenal,Blackburn,4,0,1.0
+1929-1930,35,1930-03-29,Everton,Birmingham,2,4,0.0
+1929-1930,31,1930-04-01,Burnley,Huddersfield,1,3,0.0
+1929-1930,26,1930-04-02,Newcastle Utd,Birmingham,1,1,0.5
+1929-1930,31,1930-04-02,Aston Villa,Grimsby Town,4,1,1.0
+1929-1930,41,1930-04-02,Arsenal,Liverpool,0,1,0.0
+1929-1930,36,1930-04-05,West Ham,Burnley,1,0,1.0
+1929-1930,36,1930-04-05,Huddersfield,Manchester City,1,1,0.5
+1929-1930,36,1930-04-05,Sheffield Utd,Portsmouth,2,3,0.0
+1929-1930,36,1930-04-05,Leicester City,Everton,5,4,1.0
+1929-1930,36,1930-04-05,Grimsby Town,Bolton,1,1,0.5
+1929-1930,36,1930-04-05,Birmingham,Derby County,2,4,0.0
+1929-1930,36,1930-04-05,Liverpool,Sheffield Weds,1,3,0.0
+1929-1930,36,1930-04-05,Blackburn,Aston Villa,2,0,1.0
+1929-1930,36,1930-04-05,Newcastle Utd,Arsenal,1,1,0.5
+1929-1930,36,1930-04-05,Manchester Utd,Sunderland,2,1,1.0
+1929-1930,36,1930-04-05,Middlesbrough,Leeds United,1,1,0.5
+1929-1930,26,1930-04-09,Leeds United,Sheffield Weds,3,0,1.0
+1929-1930,31,1930-04-09,Bolton,Newcastle Utd,1,1,0.5
+1929-1930,34,1930-04-09,Middlesbrough,Arsenal,1,1,0.5
+1929-1930,37,1930-04-12,Sunderland,West Ham,4,2,1.0
+1929-1930,37,1930-04-12,Everton,Grimsby Town,2,4,0.0
+1929-1930,37,1930-04-12,Leeds United,Blackburn,4,2,1.0
+1929-1930,37,1930-04-12,Manchester City,Birmingham,1,4,0.0
+1929-1930,37,1930-04-12,Burnley,Liverpool,4,1,1.0
+1929-1930,37,1930-04-12,Arsenal,Sheffield Utd,8,1,1.0
+1929-1930,37,1930-04-12,Derby County,Leicester City,2,2,0.5
+1929-1930,37,1930-04-12,Portsmouth,Huddersfield,0,1,0.0
+1929-1930,37,1930-04-12,Sheffield Weds,Middlesbrough,1,0,1.0
+1929-1930,37,1930-04-12,Aston Villa,Newcastle Utd,2,0,1.0
+1929-1930,34,1930-04-14,Manchester Utd,Sheffield Weds,2,2,0.5
+1929-1930,38,1930-04-18,Bolton,Sunderland,3,0,1.0
+1929-1930,38,1930-04-18,Arsenal,Leicester City,1,1,0.5
+1929-1930,38,1930-04-18,Grimsby Town,Birmingham,2,1,1.0
+1929-1930,38,1930-04-18,Manchester Utd,Huddersfield,1,0,1.0
+1929-1930,38,1930-04-18,Everton,Burnley,3,0,1.0
+1929-1930,38,1930-04-18,Portsmouth,Aston Villa,1,2,0.0
+1929-1930,38,1930-04-18,Newcastle Utd,Liverpool,3,1,1.0
+1929-1930,38,1930-04-18,West Ham,Sheffield Utd,1,0,1.0
+1929-1930,39,1930-04-19,Liverpool,Sunderland,0,6,0.0
+1929-1930,39,1930-04-19,Sheffield Utd,Aston Villa,3,3,0.5
+1929-1930,39,1930-04-19,Leicester City,Manchester City,3,1,1.0
+1929-1930,39,1930-04-19,Grimsby Town,Derby County,2,1,1.0
+1929-1930,39,1930-04-19,Manchester Utd,Everton,3,3,0.5
+1929-1930,39,1930-04-19,Middlesbrough,Burnley,3,1,1.0
+1929-1930,39,1930-04-19,Birmingham,Portsmouth,1,0,1.0
+1929-1930,39,1930-04-19,Newcastle Utd,Leeds United,2,1,1.0
+1929-1930,39,1930-04-19,Huddersfield,Arsenal,2,2,0.5
+1929-1930,39,1930-04-19,West Ham,Bolton,5,3,1.0
+1929-1930,39,1930-04-19,Blackburn,Sheffield Weds,0,1,0.0
+1929-1930,38,1930-04-21,Derby County,Sheffield Weds,4,1,1.0
+1929-1930,38,1930-04-21,Manchester City,Leeds United,4,1,1.0
+1929-1930,40,1930-04-21,Aston Villa,Portsmouth,0,1,0.0
+1929-1930,40,1930-04-21,Leicester City,Arsenal,6,6,0.5
+1929-1930,40,1930-04-21,Middlesbrough,Blackburn,2,4,0.0
+1929-1930,40,1930-04-21,Liverpool,Newcastle Utd,0,0,0.5
+1929-1930,40,1930-04-21,Sunderland,Bolton,4,1,1.0
+1929-1930,40,1930-04-22,Sheffield Weds,Derby County,6,3,1.0
+1929-1930,40,1930-04-22,Leeds United,Manchester City,3,2,1.0
+1929-1930,40,1930-04-22,Huddersfield,Manchester Utd,2,2,0.5
+1929-1930,40,1930-04-22,Birmingham,Grimsby Town,0,2,0.0
+1929-1930,41,1930-04-26,Leeds United,Manchester Utd,3,1,1.0
+1929-1930,41,1930-04-26,Sheffield Weds,Grimsby Town,1,0,1.0
+1929-1930,41,1930-04-26,Portsmouth,Middlesbrough,1,1,0.5
+1929-1930,41,1930-04-26,Manchester City,Blackburn,1,1,0.5
+1929-1930,41,1930-04-26,Everton,Sheffield Utd,3,2,1.0
+1929-1930,41,1930-04-26,Aston Villa,West Ham,2,3,0.0
+1929-1930,41,1930-04-26,Sunderland,Birmingham,2,0,1.0
+1929-1930,41,1930-04-26,Derby County,Newcastle Utd,3,1,1.0
+1929-1930,26,1930-04-28,Arsenal,Sunderland,0,1,0.0
+1929-1930,31,1930-04-28,Sheffield Weds,Birmingham,1,1,0.5
+1929-1930,34,1930-04-28,Huddersfield,Everton,1,2,0.0
+1929-1930,29,1930-04-30,Sunderland,Sheffield Weds,2,4,0.0
+1929-1930,42,1930-05-03,Huddersfield,Grimsby Town,0,1,0.0
+1929-1930,42,1930-05-03,Newcastle Utd,West Ham,1,0,1.0
+1929-1930,42,1930-05-03,Arsenal,Aston Villa,2,4,0.0
+1929-1930,42,1930-05-03,Everton,Sunderland,4,1,1.0
+1929-1930,42,1930-05-03,Birmingham,Leicester City,3,0,1.0
+1929-1930,42,1930-05-03,Manchester Utd,Sheffield Utd,1,5,0.0
+1929-1930,42,1930-05-03,Middlesbrough,Bolton,3,1,1.0
+1929-1930,42,1930-05-03,Sheffield Weds,Manchester City,5,1,1.0
+1929-1930,42,1930-05-03,Blackburn,Liverpool,1,0,1.0
+1929-1930,42,1930-05-03,Burnley,Derby County,6,2,1.0
+1929-1930,42,1930-05-03,Portsmouth,Leeds United,0,0,0.5

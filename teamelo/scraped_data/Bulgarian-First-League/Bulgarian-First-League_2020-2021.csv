@@ -1,0 +1,224 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,Regular season,1,2020-08-07,CSKA 1948,CSKA Sofia,2,2,0.5
+2020-2021,Regular season,1,2020-08-08,Montana,Arda,3,3,0.5
+2020-2021,Regular season,1,2020-08-08,Botev Vratsa,Ludogorets,3,1,1.0
+2020-2021,Regular season,1,2020-08-09,Botev Plovdiv,Loko Plovdiv,2,0,1.0
+2020-2021,Regular season,1,2020-08-09,Slavia Sofia,Cherno More,1,1,0.5
+2020-2021,Regular season,1,2020-08-10,Levski Sofia,Beroe,0,2,0.0
+2020-2021,Regular season,1,2020-08-11,Tsarsko Selo,Etar,3,0,1.0
+2020-2021,Regular season,2,2020-08-14,Ludogorets,Slavia Sofia,3,0,1.0
+2020-2021,Regular season,2,2020-08-15,Loko Plovdiv,Botev Vratsa,2,1,1.0
+2020-2021,Regular season,2,2020-08-15,Arda,Levski Sofia,1,1,0.5
+2020-2021,Regular season,2,2020-08-16,Etar,Cherno More,0,4,0.0
+2020-2021,Regular season,2,2020-08-16,CSKA Sofia,Botev Plovdiv,2,1,1.0
+2020-2021,Regular season,2,2020-08-17,Tsarsko Selo,Montana,0,0,0.5
+2020-2021,Regular season,2,2020-08-17,Beroe,CSKA 1948,0,0,0.5
+2020-2021,Regular season,3,2020-08-21,Slavia Sofia,Loko Plovdiv,0,2,0.0
+2020-2021,Regular season,3,2020-08-22,Botev Vratsa,CSKA Sofia,1,2,0.0
+2020-2021,Regular season,3,2020-08-22,Cherno More,Ludogorets,1,4,0.0
+2020-2021,Regular season,3,2020-08-23,Levski Sofia,Tsarsko Selo,0,1,0.0
+2020-2021,Regular season,3,2020-08-23,Botev Plovdiv,Beroe,3,3,0.5
+2020-2021,Regular season,3,2020-08-24,Montana,Etar,1,0,1.0
+2020-2021,Regular season,3,2020-08-24,CSKA 1948,Arda,0,2,0.0
+2020-2021,Regular season,4,2020-08-28,Tsarsko Selo,CSKA 1948,0,0,0.5
+2020-2021,Regular season,4,2020-08-28,Beroe,Botev Vratsa,6,0,1.0
+2020-2021,Regular season,4,2020-08-29,Arda,Botev Plovdiv,3,2,1.0
+2020-2021,Regular season,4,2020-08-29,Montana,Levski Sofia,0,4,0.0
+2020-2021,Regular season,4,2020-08-29,Etar,Ludogorets,0,2,0.0
+2020-2021,Regular season,4,2020-08-30,Loko Plovdiv,Cherno More,2,1,1.0
+2020-2021,Regular season,4,2020-08-30,CSKA Sofia,Slavia Sofia,1,0,1.0
+2020-2021,Regular season,5,2020-09-11,Botev Vratsa,Arda,0,0,0.5
+2020-2021,Regular season,5,2020-09-11,Botev Plovdiv,Tsarsko Selo,0,0,0.5
+2020-2021,Regular season,5,2020-09-12,Cherno More,CSKA Sofia,1,1,0.5
+2020-2021,Regular season,5,2020-09-12,Ludogorets,Loko Plovdiv,3,1,1.0
+2020-2021,Regular season,5,2020-09-13,CSKA 1948,Montana,2,0,1.0
+2020-2021,Regular season,5,2020-09-13,Levski Sofia,Etar,2,1,1.0
+2020-2021,Regular season,5,2020-09-14,Slavia Sofia,Beroe,0,2,0.0
+2020-2021,Regular season,6,2020-09-18,Tsarsko Selo,Botev Vratsa,1,2,0.0
+2020-2021,Regular season,6,2020-09-18,Montana,Botev Plovdiv,3,1,1.0
+2020-2021,Regular season,6,2020-09-19,Beroe,Cherno More,4,0,1.0
+2020-2021,Regular season,6,2020-09-19,Levski Sofia,CSKA 1948,3,0,1.0
+2020-2021,Regular season,6,2020-09-20,Etar,Loko Plovdiv,1,3,0.0
+2020-2021,Regular season,6,2020-09-20,CSKA Sofia,Ludogorets,2,2,0.5
+2020-2021,Regular season,6,2020-09-21,Arda,Slavia Sofia,2,1,1.0
+2020-2021,Regular season,7,2020-09-25,Botev Vratsa,Montana,2,0,1.0
+2020-2021,Regular season,7,2020-09-25,CSKA 1948,Etar,5,1,1.0
+2020-2021,Regular season,7,2020-09-26,Ludogorets,Beroe,2,0,1.0
+2020-2021,Regular season,7,2020-09-26,Botev Plovdiv,Levski Sofia,2,1,1.0
+2020-2021,Regular season,7,2020-09-27,Cherno More,Arda,2,0,1.0
+2020-2021,Regular season,7,2020-09-27,Loko Plovdiv,CSKA Sofia,2,1,1.0
+2020-2021,Regular season,7,2020-09-28,Slavia Sofia,Tsarsko Selo,1,0,1.0
+2020-2021,Regular season,8,2020-10-02,Tsarsko Selo,Cherno More,1,0,1.0
+2020-2021,Regular season,8,2020-10-02,CSKA 1948,Botev Plovdiv,5,0,1.0
+2020-2021,Regular season,8,2020-10-03,Montana,Slavia Sofia,2,1,1.0
+2020-2021,Regular season,8,2020-10-03,Levski Sofia,Botev Vratsa,0,0,0.5
+2020-2021,Regular season,8,2020-10-04,Beroe,Loko Plovdiv,1,3,0.0
+2020-2021,Regular season,8,2020-10-04,Etar,CSKA Sofia,2,2,0.5
+2020-2021,Regular season,9,2020-10-17,Ludogorets,Tsarsko Selo,1,1,0.5
+2020-2021,Regular season,9,2020-10-17,CSKA Sofia,Beroe,1,1,0.5
+2020-2021,Regular season,9,2020-10-18,Botev Vratsa,CSKA 1948,0,0,0.5
+2020-2021,Regular season,9,2020-10-18,Cherno More,Montana,3,0,1.0
+2020-2021,Regular season,9,2020-10-18,Slavia Sofia,Levski Sofia,1,0,1.0
+2020-2021,Regular season,9,2020-10-19,Botev Plovdiv,Etar,1,1,0.5
+2020-2021,Regular season,9,2020-10-20,Loko Plovdiv,Arda,0,0,0.5
+2020-2021,Regular season,10,2020-10-24,Tsarsko Selo,Loko Plovdiv,0,3,0.0
+2020-2021,Regular season,10,2020-10-24,Levski Sofia,Cherno More,1,2,0.0
+2020-2021,Regular season,10,2020-10-25,CSKA 1948,Slavia Sofia,5,1,1.0
+2020-2021,Regular season,10,2020-10-25,Arda,CSKA Sofia,1,1,0.5
+2020-2021,Regular season,10,2020-10-25,Montana,Ludogorets,1,3,0.0
+2020-2021,Regular season,10,2020-10-26,Botev Plovdiv,Botev Vratsa,2,0,1.0
+2020-2021,Regular season,10,2020-10-26,Etar,Beroe,2,3,0.0
+2020-2021,Regular season,11,2020-10-30,Cherno More,CSKA 1948,1,2,0.0
+2020-2021,Regular season,11,2020-10-30,Loko Plovdiv,Montana,2,2,0.5
+2020-2021,Regular season,11,2020-10-31,Beroe,Arda,0,1,0.0
+2020-2021,Regular season,11,2020-11-01,CSKA Sofia,Tsarsko Selo,1,0,1.0
+2020-2021,Regular season,11,2020-11-01,Ludogorets,Levski Sofia,1,0,1.0
+2020-2021,Regular season,11,2020-11-02,Botev Vratsa,Etar,5,1,1.0
+2020-2021,Regular season,12,2020-11-07,Botev Plovdiv,Cherno More,0,0,0.5
+2020-2021,Regular season,12,2020-11-08,Etar,Arda,0,0,0.5
+2020-2021,Regular season,12,2020-11-08,Montana,CSKA Sofia,1,2,0.0
+2020-2021,Regular season,12,2020-11-08,CSKA 1948,Ludogorets,0,3,0.0
+2020-2021,Regular season,13,2020-11-21,Slavia Sofia,Etar,0,0,0.5
+2020-2021,Regular season,13,2020-11-22,Cherno More,Botev Vratsa,2,1,1.0
+2020-2021,Regular season,13,2020-11-22,Loko Plovdiv,CSKA 1948,1,1,0.5
+2020-2021,Regular season,13,2020-11-23,Arda,Tsarsko Selo,2,0,1.0
+2020-2021,Regular season,14,2020-11-27,Cherno More,Slavia Sofia,3,2,1.0
+2020-2021,Regular season,14,2020-11-28,Arda,Montana,3,0,1.0
+2020-2021,Regular season,14,2020-11-28,Loko Plovdiv,Botev Plovdiv,6,0,1.0
+2020-2021,Regular season,14,2020-11-29,Ludogorets,Botev Vratsa,2,1,1.0
+2020-2021,Regular season,14,2020-11-29,CSKA Sofia,CSKA 1948,2,0,1.0
+2020-2021,Regular season,14,2020-12-01,Etar,Tsarsko Selo,1,0,1.0
+2020-2021,Regular season,11,2020-12-02,Slavia Sofia,Botev Plovdiv,0,0,0.5
+2020-2021,Regular season,12,2020-12-02,Levski Sofia,Loko Plovdiv,1,0,1.0
+2020-2021,Regular season,15,2020-12-04,Cherno More,Etar,0,1,0.0
+2020-2021,Regular season,15,2020-12-05,CSKA 1948,Beroe,1,0,1.0
+2020-2021,Regular season,15,2020-12-05,Levski Sofia,Arda,1,2,0.0
+2020-2021,Regular season,15,2020-12-06,Botev Vratsa,Loko Plovdiv,0,1,0.0
+2020-2021,Regular season,15,2020-12-06,Botev Plovdiv,CSKA Sofia,0,3,0.0
+2020-2021,Regular season,15,2020-12-06,Slavia Sofia,Ludogorets,0,2,0.0
+2020-2021,Regular season,15,2020-12-07,Montana,Tsarsko Selo,3,4,0.0
+2020-2021,Regular season,14,2020-12-09,Beroe,Levski Sofia,2,1,1.0
+2020-2021,Regular season,12,2020-12-10,Botev Vratsa,Slavia Sofia,1,2,0.0
+2020-2021,Regular season,16,2020-12-11,Arda,CSKA 1948,1,1,0.5
+2020-2021,Regular season,16,2020-12-12,Beroe,Botev Plovdiv,3,0,1.0
+2020-2021,Regular season,16,2020-12-12,Tsarsko Selo,Levski Sofia,2,2,0.5
+2020-2021,Regular season,16,2020-12-13,CSKA Sofia,Botev Vratsa,2,1,1.0
+2020-2021,Regular season,16,2020-12-13,Ludogorets,Cherno More,1,0,1.0
+2020-2021,Regular season,16,2020-12-14,Loko Plovdiv,Slavia Sofia,2,0,1.0
+2020-2021,Regular season,16,2020-12-15,Etar,Montana,0,0,0.5
+2020-2021,Regular season,12,2020-12-16,Tsarsko Selo,Beroe,0,2,0.0
+2020-2021,Regular season,8,2020-12-17,Arda,Ludogorets,2,2,0.5
+2020-2021,Regular season,13,2020-12-18,CSKA Sofia,Levski Sofia,1,0,1.0
+2020-2021,Regular season,13,2020-12-19,Beroe,Montana,0,0,0.5
+2020-2021,Regular season,13,2020-12-20,Ludogorets,Botev Plovdiv,2,1,1.0
+2020-2021,Regular season,17,2021-02-12,Botev Plovdiv,Arda,0,2,0.0
+2020-2021,Regular season,17,2021-02-13,Botev Vratsa,Beroe,1,2,0.0
+2020-2021,Regular season,17,2021-02-13,Cherno More,Loko Plovdiv,0,0,0.5
+2020-2021,Regular season,17,2021-02-13,Slavia Sofia,CSKA Sofia,0,1,0.0
+2020-2021,Regular season,17,2021-02-14,CSKA 1948,Tsarsko Selo,2,1,1.0
+2020-2021,Regular season,17,2021-02-14,Levski Sofia,Montana,2,0,1.0
+2020-2021,Regular season,17,2021-02-15,Ludogorets,Etar,6,0,1.0
+2020-2021,Regular season,18,2021-02-19,Montana,CSKA 1948,1,0,1.0
+2020-2021,Regular season,18,2021-02-20,Arda,Botev Vratsa,3,2,1.0
+2020-2021,Regular season,18,2021-02-20,Loko Plovdiv,Ludogorets,3,2,1.0
+2020-2021,Regular season,18,2021-02-20,CSKA Sofia,Cherno More,1,0,1.0
+2020-2021,Regular season,18,2021-02-21,Beroe,Slavia Sofia,1,1,0.5
+2020-2021,Regular season,18,2021-02-21,Etar,Levski Sofia,0,0,0.5
+2020-2021,Regular season,18,2021-02-22,Tsarsko Selo,Botev Plovdiv,2,2,0.5
+2020-2021,Regular season,19,2021-02-26,Loko Plovdiv,Etar,1,1,0.5
+2020-2021,Regular season,19,2021-02-27,Slavia Sofia,Arda,3,2,1.0
+2020-2021,Regular season,19,2021-02-27,Ludogorets,CSKA Sofia,1,0,1.0
+2020-2021,Regular season,19,2021-02-27,Cherno More,Beroe,2,1,1.0
+2020-2021,Regular season,19,2021-02-28,Botev Vratsa,Tsarsko Selo,0,3,0.0
+2020-2021,Regular season,19,2021-02-28,Botev Plovdiv,Montana,1,1,0.5
+2020-2021,Regular season,19,2021-02-28,CSKA 1948,Levski Sofia,0,0,0.5
+2020-2021,Regular season,20,2021-03-06,Arda,Cherno More,1,0,1.0
+2020-2021,Regular season,20,2021-03-06,CSKA Sofia,Loko Plovdiv,0,0,0.5
+2020-2021,Regular season,20,2021-03-07,Etar,CSKA 1948,3,1,1.0
+2020-2021,Regular season,20,2021-03-07,Beroe,Ludogorets,1,4,0.0
+2020-2021,Regular season,20,2021-03-07,Levski Sofia,Botev Plovdiv,2,2,0.5
+2020-2021,Regular season,20,2021-03-08,Tsarsko Selo,Slavia Sofia,2,0,1.0
+2020-2021,Regular season,20,2021-03-09,Montana,Botev Vratsa,0,1,0.0
+2020-2021,Regular season,21,2021-03-12,Ludogorets,Arda,1,0,1.0
+2020-2021,Regular season,21,2021-03-12,Loko Plovdiv,Beroe,1,1,0.5
+2020-2021,Regular season,21,2021-03-13,Slavia Sofia,Montana,2,1,1.0
+2020-2021,Regular season,21,2021-03-13,Botev Plovdiv,CSKA 1948,3,2,1.0
+2020-2021,Regular season,21,2021-03-13,Botev Vratsa,Levski Sofia,1,3,0.0
+2020-2021,Regular season,21,2021-03-14,CSKA Sofia,Etar,1,0,1.0
+2020-2021,Regular season,21,2021-03-15,Cherno More,Tsarsko Selo,1,0,1.0
+2020-2021,Regular season,22,2021-03-19,Etar,Botev Plovdiv,0,0,0.5
+2020-2021,Regular season,22,2021-03-20,Montana,Cherno More,1,1,0.5
+2020-2021,Regular season,22,2021-03-20,Arda,Loko Plovdiv,0,2,0.0
+2020-2021,Regular season,22,2021-03-20,Tsarsko Selo,Ludogorets,1,1,0.5
+2020-2021,Regular season,22,2021-03-21,CSKA 1948,Botev Vratsa,1,0,1.0
+2020-2021,Regular season,22,2021-03-21,Beroe,CSKA Sofia,1,0,1.0
+2020-2021,Regular season,22,2021-03-21,Levski Sofia,Slavia Sofia,1,0,1.0
+2020-2021,Regular season,23,2021-04-08,Botev Vratsa,Botev Plovdiv,1,2,0.0
+2020-2021,Regular season,23,2021-04-08,Loko Plovdiv,Tsarsko Selo,2,0,1.0
+2020-2021,Regular season,23,2021-04-09,Slavia Sofia,CSKA 1948,1,3,0.0
+2020-2021,Regular season,23,2021-04-10,Ludogorets,Montana,1,0,1.0
+2020-2021,Regular season,23,2021-04-10,CSKA Sofia,Arda,1,1,0.5
+2020-2021,Regular season,23,2021-04-11,Cherno More,Levski Sofia,0,0,0.5
+2020-2021,Regular season,23,2021-04-12,Beroe,Etar,1,2,0.0
+2020-2021,Regular season,24,2021-04-15,Montana,Loko Plovdiv,0,1,0.0
+2020-2021,Regular season,24,2021-04-16,Etar,Botev Vratsa,0,0,0.5
+2020-2021,Regular season,24,2021-04-16,CSKA 1948,Cherno More,0,0,0.5
+2020-2021,Regular season,24,2021-04-17,Botev Plovdiv,Slavia Sofia,0,1,0.0
+2020-2021,Regular season,24,2021-04-17,Arda,Beroe,1,0,1.0
+2020-2021,Regular season,24,2021-04-18,Tsarsko Selo,CSKA Sofia,2,1,1.0
+2020-2021,Regular season,24,2021-04-18,Levski Sofia,Ludogorets,0,3,0.0
+2020-2021,Regular season,25,2021-04-20,Slavia Sofia,Botev Vratsa,0,2,0.0
+2020-2021,Regular season,25,2021-04-20,Arda,Etar,3,2,1.0
+2020-2021,Regular season,25,2021-04-20,Cherno More,Botev Plovdiv,1,0,1.0
+2020-2021,Regular season,25,2021-04-21,Beroe,Tsarsko Selo,0,1,0.0
+2020-2021,Regular season,25,2021-04-21,CSKA Sofia,Montana,6,0,1.0
+2020-2021,Regular season,25,2021-04-21,Loko Plovdiv,Levski Sofia,1,0,1.0
+2020-2021,Regular season,25,2021-04-22,Ludogorets,CSKA 1948,4,0,1.0
+2020-2021,Regular season,26,2021-04-23,Botev Vratsa,Cherno More,0,1,0.0
+2020-2021,Regular season,26,2021-04-24,Etar,Slavia Sofia,1,1,0.5
+2020-2021,Regular season,26,2021-04-24,Montana,Beroe,1,1,0.5
+2020-2021,Regular season,26,2021-04-25,Levski Sofia,CSKA Sofia,0,2,0.0
+2020-2021,Regular season,26,2021-04-25,Tsarsko Selo,Arda,4,0,1.0
+2020-2021,Regular season,26,2021-04-26,CSKA 1948,Loko Plovdiv,1,0,1.0
+2020-2021,Regular season,26,2021-04-26,Botev Plovdiv,Ludogorets,0,2,0.0
+2020-2021,Relegation group,27,2021-05-03,Botev Vratsa,Etar,2,0,1.0
+2020-2021,Relegation group,27,2021-05-03,Slavia Sofia,Montana,1,1,0.5
+2020-2021,Championship group,27,2021-05-03,CSKA Sofia,Arda,1,0,1.0
+2020-2021,Championship group,27,2021-05-04,Ludogorets,Beroe,3,1,1.0
+2020-2021,Europa Conference League group,27,2021-05-05,Cherno More,Botev Plovdiv,3,1,1.0
+2020-2021,Europa Conference League group,27,2021-05-05,Tsarsko Selo,Levski Sofia,0,2,0.0
+2020-2021,Relegation group,28,2021-05-06,Montana,Etar,1,0,1.0
+2020-2021,Relegation group,28,2021-05-06,Slavia Sofia,Botev Vratsa,2,0,1.0
+2020-2021,Championship group,28,2021-05-07,Beroe,Arda,0,2,0.0
+2020-2021,Championship group,28,2021-05-08,Ludogorets,Loko Plovdiv,1,2,0.0
+2020-2021,Europa Conference League group,28,2021-05-09,Cherno More,Tsarsko Selo,3,3,0.5
+2020-2021,Europa Conference League group,28,2021-05-09,Botev Plovdiv,Levski Sofia,0,1,0.0
+2020-2021,Relegation group,29,2021-05-10,Botev Vratsa,Montana,1,0,1.0
+2020-2021,Relegation group,29,2021-05-10,Etar,Slavia Sofia,0,3,0.0
+2020-2021,Championship group,29,2021-05-11,Loko Plovdiv,Beroe,0,0,0.5
+2020-2021,Championship group,29,2021-05-12,Arda,CSKA 1948,0,0,0.5
+2020-2021,Championship group,29,2021-05-12,CSKA Sofia,Ludogorets,4,1,1.0
+2020-2021,Europa Conference League group,29,2021-05-13,Tsarsko Selo,Botev Plovdiv,0,0,0.5
+2020-2021,Europa Conference League group,29,2021-05-13,Levski Sofia,Cherno More,2,1,1.0
+2020-2021,Relegation group,30,2021-05-14,Etar,Botev Vratsa,2,0,1.0
+2020-2021,Relegation group,30,2021-05-14,Montana,Slavia Sofia,0,2,0.0
+2020-2021,Championship group,30,2021-05-15,Ludogorets,Arda,4,1,1.0
+2020-2021,Championship group,30,2021-05-15,Loko Plovdiv,CSKA Sofia,2,0,1.0
+2020-2021,Championship group,30,2021-05-16,Beroe,CSKA 1948,3,3,0.5
+2020-2021,Europa Conference League group,30,2021-05-17,Botev Plovdiv,Cherno More,1,1,0.5
+2020-2021,Europa Conference League group,30,2021-05-17,Levski Sofia,Tsarsko Selo,1,1,0.5
+2020-2021,Relegation group,31,2021-05-18,Etar,Montana,1,2,0.0
+2020-2021,Relegation group,31,2021-05-18,Botev Vratsa,Slavia Sofia,1,1,0.5
+2020-2021,Championship group,27,2021-05-19,Loko Plovdiv,CSKA 1948,0,0,0.5
+2020-2021,Europa Conference League group,31,2021-05-20,Tsarsko Selo,Cherno More,0,1,0.0
+2020-2021,Europa Conference League group,31,2021-05-20,Levski Sofia,Botev Plovdiv,1,2,0.0
+2020-2021,Relegation group,32,2021-05-21,Slavia Sofia,Etar,0,2,0.0
+2020-2021,Relegation group,32,2021-05-21,Montana,Botev Vratsa,1,1,0.5
+2020-2021,Championship group,28,2021-05-22,CSKA 1948,CSKA Sofia,1,0,1.0
+2020-2021,Europa Conference League group,32,2021-05-23,Cherno More,Levski Sofia,1,2,0.0
+2020-2021,Europa Conference League group,32,2021-05-23,Botev Plovdiv,Tsarsko Selo,5,0,1.0
+2020-2021,Championship group,31,2021-05-26,CSKA 1948,Ludogorets,3,1,1.0
+2020-2021,Championship group,31,2021-05-26,Arda,Loko Plovdiv,3,3,0.5
+2020-2021,Championship group,31,2021-05-26,CSKA Sofia,Beroe,2,0,1.0
+2020-2021,Bulgarian 1/2 Relegation/Promotion Play-offs,,2021-05-28,Botev Vratsa,Septemvri Sofia,1,0,1.0
+2020-2021,Europa Conference League play-off,,2021-05-30,Arda,Cherno More,1,0,1.0

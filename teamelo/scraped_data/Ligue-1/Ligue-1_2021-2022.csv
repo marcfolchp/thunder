@@ -1,0 +1,383 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,Ligue 1,1,2021-08-06,Monaco,Nantes,1,1,0.5
+2021-2022,Ligue 1,1,2021-08-07,Lyon,Brest,1,1,0.5
+2021-2022,Ligue 1,1,2021-08-07,Troyes,Paris S-G,1,2,0.0
+2021-2022,Ligue 1,1,2021-08-08,Rennes,Lens,1,1,0.5
+2021-2022,Ligue 1,1,2021-08-08,Bordeaux,Clermont Foot,0,2,0.0
+2021-2022,Ligue 1,1,2021-08-08,Strasbourg,Angers,0,2,0.0
+2021-2022,Ligue 1,1,2021-08-08,Nice,Reims,0,0,0.5
+2021-2022,Ligue 1,1,2021-08-08,Saint-Étienne,Lorient,1,1,0.5
+2021-2022,Ligue 1,1,2021-08-08,Metz,Lille,3,3,0.5
+2021-2022,Ligue 1,1,2021-08-08,Montpellier,Marseille,2,3,0.0
+2021-2022,Ligue 1,2,2021-08-13,Lorient,Monaco,1,0,1.0
+2021-2022,Ligue 1,2,2021-08-14,Lille,Nice,0,4,0.0
+2021-2022,Ligue 1,2,2021-08-14,Paris S-G,Strasbourg,4,2,1.0
+2021-2022,Ligue 1,2,2021-08-15,Angers,Lyon,3,0,1.0
+2021-2022,Ligue 1,2,2021-08-15,Clermont Foot,Troyes,2,0,1.0
+2021-2022,Ligue 1,2,2021-08-15,Brest,Rennes,1,1,0.5
+2021-2022,Ligue 1,2,2021-08-15,Nantes,Metz,2,0,1.0
+2021-2022,Ligue 1,2,2021-08-15,Reims,Montpellier,3,3,0.5
+2021-2022,Ligue 1,2,2021-08-15,Lens,Saint-Étienne,2,2,0.5
+2021-2022,Ligue 1,2,2021-08-15,Marseille,Bordeaux,2,2,0.5
+2021-2022,Ligue 1,3,2021-08-20,Brest,Paris S-G,2,4,0.0
+2021-2022,Ligue 1,3,2021-08-21,Monaco,Lens,0,2,0.0
+2021-2022,Ligue 1,3,2021-08-21,Saint-Étienne,Lille,1,1,0.5
+2021-2022,Ligue 1,3,2021-08-22,Lyon,Clermont Foot,3,3,0.5
+2021-2022,Ligue 1,3,2021-08-22,Strasbourg,Troyes,1,1,0.5
+2021-2022,Ligue 1,3,2021-08-22,Metz,Reims,1,1,0.5
+2021-2022,Ligue 1,3,2021-08-22,Montpellier,Lorient,3,1,1.0
+2021-2022,Ligue 1,3,2021-08-22,Bordeaux,Angers,1,1,0.5
+2021-2022,Ligue 1,3,2021-08-22,Rennes,Nantes,1,0,1.0
+2021-2022,Ligue 1,4,2021-08-27,Nantes,Lyon,0,1,0.0
+2021-2022,Ligue 1,4,2021-08-28,Nice,Bordeaux,4,0,1.0
+2021-2022,Ligue 1,4,2021-08-28,Marseille,Saint-Étienne,3,1,1.0
+2021-2022,Ligue 1,4,2021-08-29,Troyes,Monaco,1,2,0.0
+2021-2022,Ligue 1,4,2021-08-29,Strasbourg,Brest,3,1,1.0
+2021-2022,Ligue 1,4,2021-08-29,Angers,Rennes,2,0,1.0
+2021-2022,Ligue 1,4,2021-08-29,Lens,Lorient,2,2,0.5
+2021-2022,Ligue 1,4,2021-08-29,Clermont Foot,Metz,2,2,0.5
+2021-2022,Ligue 1,4,2021-08-29,Lille,Montpellier,2,1,1.0
+2021-2022,Ligue 1,4,2021-08-29,Reims,Paris S-G,0,2,0.0
+2021-2022,Ligue 1,5,2021-09-10,Lorient,Lille,2,1,1.0
+2021-2022,Ligue 1,5,2021-09-11,Paris S-G,Clermont Foot,4,0,1.0
+2021-2022,Ligue 1,5,2021-09-11,Monaco,Marseille,0,2,0.0
+2021-2022,Ligue 1,5,2021-09-12,Montpellier,Saint-Étienne,2,0,1.0
+2021-2022,Ligue 1,5,2021-09-12,Rennes,Reims,0,2,0.0
+2021-2022,Ligue 1,5,2021-09-12,Bordeaux,Lens,2,3,0.0
+2021-2022,Ligue 1,5,2021-09-12,Brest,Angers,1,1,0.5
+2021-2022,Ligue 1,5,2021-09-12,Metz,Troyes,0,2,0.0
+2021-2022,Ligue 1,5,2021-09-12,Nantes,Nice,0,2,0.0
+2021-2022,Ligue 1,5,2021-09-12,Lyon,Strasbourg,3,1,1.0
+2021-2022,Ligue 1,6,2021-09-17,Strasbourg,Metz,3,0,1.0
+2021-2022,Ligue 1,6,2021-09-18,Lens,Lille,1,0,1.0
+2021-2022,Ligue 1,6,2021-09-18,Saint-Étienne,Bordeaux,1,2,0.0
+2021-2022,Ligue 1,6,2021-09-19,Nice,Monaco,2,2,0.5
+2021-2022,Ligue 1,6,2021-09-19,Troyes,Montpellier,1,1,0.5
+2021-2022,Ligue 1,6,2021-09-19,Clermont Foot,Brest,1,1,0.5
+2021-2022,Ligue 1,6,2021-09-19,Reims,Lorient,0,0,0.5
+2021-2022,Ligue 1,6,2021-09-19,Angers,Nantes,1,4,0.0
+2021-2022,Ligue 1,6,2021-09-19,Marseille,Rennes,2,0,1.0
+2021-2022,Ligue 1,6,2021-09-19,Paris S-G,Lyon,2,1,1.0
+2021-2022,Ligue 1,7,2021-09-22,Rennes,Clermont Foot,6,0,1.0
+2021-2022,Ligue 1,7,2021-09-22,Nantes,Brest,3,1,1.0
+2021-2022,Ligue 1,7,2021-09-22,Lille,Reims,2,1,1.0
+2021-2022,Ligue 1,7,2021-09-22,Montpellier,Bordeaux,3,3,0.5
+2021-2022,Ligue 1,7,2021-09-22,Monaco,Saint-Étienne,3,1,1.0
+2021-2022,Ligue 1,7,2021-09-22,Lyon,Troyes,3,1,1.0
+2021-2022,Ligue 1,7,2021-09-22,Lens,Strasbourg,0,1,0.0
+2021-2022,Ligue 1,7,2021-09-22,Lorient,Nice,1,0,1.0
+2021-2022,Ligue 1,7,2021-09-22,Angers,Marseille,0,0,0.5
+2021-2022,Ligue 1,7,2021-09-22,Metz,Paris S-G,1,2,0.0
+2021-2022,Ligue 1,8,2021-09-25,Saint-Étienne,Nice,0,3,0.0
+2021-2022,Ligue 1,8,2021-09-25,Strasbourg,Lille,1,2,0.0
+2021-2022,Ligue 1,8,2021-09-25,Paris S-G,Montpellier,2,0,1.0
+2021-2022,Ligue 1,8,2021-09-25,Lyon,Lorient,1,1,0.5
+2021-2022,Ligue 1,8,2021-09-26,Bordeaux,Rennes,1,1,0.5
+2021-2022,Ligue 1,8,2021-09-26,Troyes,Angers,1,1,0.5
+2021-2022,Ligue 1,8,2021-09-26,Brest,Metz,1,2,0.0
+2021-2022,Ligue 1,8,2021-09-26,Reims,Nantes,3,1,1.0
+2021-2022,Ligue 1,8,2021-09-26,Clermont Foot,Monaco,1,3,0.0
+2021-2022,Ligue 1,8,2021-09-26,Marseille,Lens,2,3,0.0
+2021-2022,Ligue 1,9,2021-10-01,Lens,Reims,2,0,1.0
+2021-2022,Ligue 1,9,2021-10-02,Montpellier,Strasbourg,1,1,0.5
+2021-2022,Ligue 1,9,2021-10-02,Nice,Brest,2,1,1.0
+2021-2022,Ligue 1,9,2021-10-03,Rennes,Paris S-G,2,0,1.0
+2021-2022,Ligue 1,9,2021-10-03,Lorient,Clermont Foot,1,1,0.5
+2021-2022,Ligue 1,9,2021-10-03,Monaco,Bordeaux,3,0,1.0
+2021-2022,Ligue 1,9,2021-10-03,Angers,Metz,3,2,1.0
+2021-2022,Ligue 1,9,2021-10-03,Nantes,Troyes,2,0,1.0
+2021-2022,Ligue 1,9,2021-10-03,Lille,Marseille,2,0,1.0
+2021-2022,Ligue 1,9,2021-10-03,Saint-Étienne,Lyon,1,1,0.5
+2021-2022,Ligue 1,10,2021-10-15,Paris S-G,Angers,2,1,1.0
+2021-2022,Ligue 1,10,2021-10-16,Clermont Foot,Lille,1,0,1.0
+2021-2022,Ligue 1,10,2021-10-16,Lyon,Monaco,2,0,1.0
+2021-2022,Ligue 1,10,2021-10-17,Troyes,Nice,1,0,1.0
+2021-2022,Ligue 1,10,2021-10-17,Brest,Reims,1,1,0.5
+2021-2022,Ligue 1,10,2021-10-17,Bordeaux,Nantes,1,1,0.5
+2021-2022,Ligue 1,10,2021-10-17,Metz,Rennes,0,3,0.0
+2021-2022,Ligue 1,10,2021-10-17,Strasbourg,Saint-Étienne,5,1,1.0
+2021-2022,Ligue 1,10,2021-10-17,Montpellier,Lens,1,0,1.0
+2021-2022,Ligue 1,10,2021-10-17,Marseille,Lorient,4,1,1.0
+2021-2022,Ligue 1,11,2021-10-22,Saint-Étienne,Angers,2,2,0.5
+2021-2022,Ligue 1,11,2021-10-23,Nantes,Clermont Foot,2,1,1.0
+2021-2022,Ligue 1,11,2021-10-23,Lille,Brest,1,1,0.5
+2021-2022,Ligue 1,11,2021-10-24,Nice,Lyon,3,2,1.0
+2021-2022,Ligue 1,11,2021-10-24,Rennes,Strasbourg,1,0,1.0
+2021-2022,Ligue 1,11,2021-10-24,Lens,Metz,4,1,1.0
+2021-2022,Ligue 1,11,2021-10-24,Lorient,Bordeaux,1,1,0.5
+2021-2022,Ligue 1,11,2021-10-24,Reims,Troyes,1,2,0.0
+2021-2022,Ligue 1,11,2021-10-24,Monaco,Montpellier,3,1,1.0
+2021-2022,Ligue 1,11,2021-10-24,Marseille,Paris S-G,0,0,0.5
+2021-2022,Ligue 1,3,2021-10-27,Nice,Marseille,1,1,0.5
+2021-2022,Ligue 1,12,2021-10-29,Paris S-G,Lille,2,1,1.0
+2021-2022,Ligue 1,12,2021-10-30,Metz,Saint-Étienne,1,1,0.5
+2021-2022,Ligue 1,12,2021-10-30,Lyon,Lens,2,1,1.0
+2021-2022,Ligue 1,12,2021-10-31,Angers,Nice,1,2,0.0
+2021-2022,Ligue 1,12,2021-10-31,Bordeaux,Reims,3,2,1.0
+2021-2022,Ligue 1,12,2021-10-31,Troyes,Rennes,2,2,0.5
+2021-2022,Ligue 1,12,2021-10-31,Montpellier,Nantes,2,0,1.0
+2021-2022,Ligue 1,12,2021-10-31,Strasbourg,Lorient,4,0,1.0
+2021-2022,Ligue 1,12,2021-10-31,Brest,Monaco,2,0,1.0
+2021-2022,Ligue 1,12,2021-10-31,Clermont Foot,Marseille,0,1,0.0
+2021-2022,Ligue 1,13,2021-11-05,Lens,Troyes,4,0,1.0
+2021-2022,Ligue 1,13,2021-11-06,Lille,Angers,1,1,0.5
+2021-2022,Ligue 1,13,2021-11-06,Bordeaux,Paris S-G,2,3,0.0
+2021-2022,Ligue 1,13,2021-11-07,Marseille,Metz,0,0,0.5
+2021-2022,Ligue 1,13,2021-11-07,Saint-Étienne,Clermont Foot,3,2,1.0
+2021-2022,Ligue 1,13,2021-11-07,Lorient,Brest,1,2,0.0
+2021-2022,Ligue 1,13,2021-11-07,Reims,Monaco,0,0,0.5
+2021-2022,Ligue 1,13,2021-11-07,Nantes,Strasbourg,2,2,0.5
+2021-2022,Ligue 1,13,2021-11-07,Nice,Montpellier,0,1,0.0
+2021-2022,Ligue 1,13,2021-11-07,Rennes,Lyon,4,1,1.0
+2021-2022,Ligue 1,14,2021-11-19,Monaco,Lille,2,2,0.5
+2021-2022,Ligue 1,14,2021-11-20,Paris S-G,Nantes,3,1,1.0
+2021-2022,Ligue 1,14,2021-11-20,Rennes,Montpellier,2,0,1.0
+2021-2022,Ligue 1,14,2021-11-21,Brest,Lens,4,0,1.0
+2021-2022,Ligue 1,14,2021-11-21,Metz,Bordeaux,3,3,0.5
+2021-2022,Ligue 1,14,2021-11-21,Angers,Lorient,1,0,1.0
+2021-2022,Ligue 1,14,2021-11-21,Troyes,Saint-Étienne,0,1,0.0
+2021-2022,Ligue 1,14,2021-11-21,Strasbourg,Reims,1,1,0.5
+2021-2022,Ligue 1,14,2021-11-21,Clermont Foot,Nice,1,2,0.0
+2021-2022,Ligue 1,15,2021-11-26,Lens,Angers,2,2,0.5
+2021-2022,Ligue 1,15,2021-11-27,Lille,Nantes,1,1,0.5
+2021-2022,Ligue 1,15,2021-11-27,Nice,Metz,0,1,0.0
+2021-2022,Ligue 1,15,2021-11-28,Saint-Étienne,Paris S-G,1,3,0.0
+2021-2022,Ligue 1,15,2021-11-28,Reims,Clermont Foot,1,0,1.0
+2021-2022,Ligue 1,15,2021-11-28,Lorient,Rennes,0,2,0.0
+2021-2022,Ligue 1,15,2021-11-28,Bordeaux,Brest,1,2,0.0
+2021-2022,Ligue 1,15,2021-11-28,Monaco,Strasbourg,1,1,0.5
+2021-2022,Ligue 1,15,2021-11-28,Montpellier,Lyon,0,1,0.0
+2021-2022,Ligue 1,15,2021-11-28,Marseille,Troyes,1,0,1.0
+2021-2022,Ligue 1,16,2021-12-01,Angers,Monaco,1,3,0.0
+2021-2022,Ligue 1,16,2021-12-01,Troyes,Lorient,2,0,1.0
+2021-2022,Ligue 1,16,2021-12-01,Strasbourg,Bordeaux,5,2,1.0
+2021-2022,Ligue 1,16,2021-12-01,Brest,Saint-Étienne,1,0,1.0
+2021-2022,Ligue 1,16,2021-12-01,Metz,Montpellier,1,3,0.0
+2021-2022,Ligue 1,16,2021-12-01,Rennes,Lille,1,2,0.0
+2021-2022,Ligue 1,16,2021-12-01,Nantes,Marseille,0,1,0.0
+2021-2022,Ligue 1,16,2021-12-01,Paris S-G,Nice,0,0,0.5
+2021-2022,Ligue 1,16,2021-12-01,Lyon,Reims,1,2,0.0
+2021-2022,Ligue 1,16,2021-12-01,Clermont Foot,Lens,2,2,0.5
+2021-2022,Ligue 1,17,2021-12-04,Marseille,Brest,1,2,0.0
+2021-2022,Ligue 1,17,2021-12-04,Lille,Troyes,2,1,1.0
+2021-2022,Ligue 1,17,2021-12-04,Lens,Paris S-G,1,1,0.5
+2021-2022,Ligue 1,17,2021-12-05,Saint-Étienne,Rennes,0,5,0.0
+2021-2022,Ligue 1,17,2021-12-05,Montpellier,Clermont Foot,1,0,1.0
+2021-2022,Ligue 1,17,2021-12-05,Monaco,Metz,4,0,1.0
+2021-2022,Ligue 1,17,2021-12-05,Reims,Angers,1,2,0.0
+2021-2022,Ligue 1,17,2021-12-05,Lorient,Nantes,0,1,0.0
+2021-2022,Ligue 1,17,2021-12-05,Nice,Strasbourg,0,3,0.0
+2021-2022,Ligue 1,17,2021-12-05,Bordeaux,Lyon,2,2,0.5
+2021-2022,Ligue 1,18,2021-12-10,Nantes,Lens,3,2,1.0
+2021-2022,Ligue 1,18,2021-12-11,Brest,Montpellier,0,4,0.0
+2021-2022,Ligue 1,18,2021-12-11,Reims,Saint-Étienne,2,0,1.0
+2021-2022,Ligue 1,18,2021-12-12,Lille,Lyon,0,0,0.5
+2021-2022,Ligue 1,18,2021-12-12,Angers,Clermont Foot,0,1,0.0
+2021-2022,Ligue 1,18,2021-12-12,Rennes,Nice,1,2,0.0
+2021-2022,Ligue 1,18,2021-12-12,Troyes,Bordeaux,1,2,0.0
+2021-2022,Ligue 1,18,2021-12-12,Metz,Lorient,4,1,1.0
+2021-2022,Ligue 1,18,2021-12-12,Strasbourg,Marseille,0,2,0.0
+2021-2022,Ligue 1,18,2021-12-12,Paris S-G,Monaco,2,0,1.0
+2021-2022,Ligue 1,19,2021-12-22,Lyon,Metz,1,1,0.5
+2021-2022,Ligue 1,19,2021-12-22,Saint-Étienne,Nantes,0,1,0.0
+2021-2022,Ligue 1,19,2021-12-22,Lorient,Paris S-G,1,1,0.5
+2021-2022,Ligue 1,19,2021-12-22,Nice,Lens,2,1,1.0
+2021-2022,Ligue 1,19,2021-12-22,Monaco,Rennes,2,1,1.0
+2021-2022,Ligue 1,19,2021-12-22,Marseille,Reims,1,1,0.5
+2021-2022,Ligue 1,19,2021-12-22,Montpellier,Angers,4,1,1.0
+2021-2022,Ligue 1,19,2021-12-22,Troyes,Brest,1,1,0.5
+2021-2022,Ligue 1,19,2021-12-22,Bordeaux,Lille,2,3,0.0
+2021-2022,Ligue 1,20,2022-01-07,Bordeaux,Marseille,0,1,0.0
+2021-2022,Ligue 1,20,2022-01-08,Lens,Rennes,1,0,1.0
+2021-2022,Ligue 1,20,2022-01-09,Brest,Nice,0,3,0.0
+2021-2022,Ligue 1,20,2022-01-09,Metz,Strasbourg,0,2,0.0
+2021-2022,Ligue 1,20,2022-01-09,Clermont Foot,Reims,0,0,0.5
+2021-2022,Ligue 1,20,2022-01-09,Nantes,Monaco,0,0,0.5
+2021-2022,Ligue 1,20,2022-01-09,Lyon,Paris S-G,1,1,0.5
+2021-2022,Ligue 1,21,2022-01-14,Nice,Nantes,2,1,1.0
+2021-2022,Ligue 1,21,2022-01-15,Saint-Étienne,Lens,1,2,0.0
+2021-2022,Ligue 1,21,2022-01-15,Paris S-G,Brest,2,0,1.0
+2021-2022,Ligue 1,21,2022-01-16,Rennes,Bordeaux,6,0,1.0
+2021-2022,Ligue 1,21,2022-01-16,Reims,Metz,0,1,0.0
+2021-2022,Ligue 1,21,2022-01-16,Monaco,Clermont Foot,4,0,1.0
+2021-2022,Ligue 1,21,2022-01-16,Lorient,Angers,0,0,0.5
+2021-2022,Ligue 1,21,2022-01-16,Strasbourg,Montpellier,3,1,1.0
+2021-2022,Ligue 1,21,2022-01-16,Troyes,Lyon,0,1,0.0
+2021-2022,Ligue 1,21,2022-01-16,Marseille,Lille,1,1,0.5
+2021-2022,Ligue 1,19,2022-01-19,Clermont Foot,Strasbourg,0,2,0.0
+2021-2022,Ligue 1,20,2022-01-19,Montpellier,Troyes,0,1,0.0
+2021-2022,Ligue 1,20,2022-01-19,Lille,Lorient,3,1,1.0
+2021-2022,Ligue 1,22,2022-01-21,Lyon,Saint-Étienne,1,0,1.0
+2021-2022,Ligue 1,22,2022-01-22,Brest,Lille,2,0,1.0
+2021-2022,Ligue 1,22,2022-01-22,Lens,Marseille,0,2,0.0
+2021-2022,Ligue 1,22,2022-01-23,Metz,Nice,0,2,0.0
+2021-2022,Ligue 1,22,2022-01-23,Clermont Foot,Rennes,2,1,1.0
+2021-2022,Ligue 1,22,2022-01-23,Nantes,Lorient,4,2,1.0
+2021-2022,Ligue 1,22,2022-01-23,Angers,Troyes,2,1,1.0
+2021-2022,Ligue 1,22,2022-01-23,Bordeaux,Strasbourg,4,3,1.0
+2021-2022,Ligue 1,22,2022-01-23,Montpellier,Monaco,3,2,1.0
+2021-2022,Ligue 1,22,2022-01-23,Paris S-G,Reims,4,0,1.0
+2021-2022,Ligue 1,20,2022-01-26,Angers,Saint-Étienne,0,1,0.0
+2021-2022,Ligue 1,14,2022-02-01,Lyon,Marseille,2,1,1.0
+2021-2022,Ligue 1,23,2022-02-04,Marseille,Angers,5,2,1.0
+2021-2022,Ligue 1,23,2022-02-05,Saint-Étienne,Montpellier,3,1,1.0
+2021-2022,Ligue 1,23,2022-02-05,Monaco,Lyon,2,0,1.0
+2021-2022,Ligue 1,23,2022-02-06,Lorient,Lens,2,0,1.0
+2021-2022,Ligue 1,23,2022-02-06,Reims,Bordeaux,5,0,1.0
+2021-2022,Ligue 1,23,2022-02-06,Nice,Clermont Foot,0,1,0.0
+2021-2022,Ligue 1,23,2022-02-06,Troyes,Metz,0,0,0.5
+2021-2022,Ligue 1,23,2022-02-06,Strasbourg,Nantes,1,0,1.0
+2021-2022,Ligue 1,23,2022-02-06,Rennes,Brest,2,0,1.0
+2021-2022,Ligue 1,23,2022-02-06,Lille,Paris S-G,1,5,0.0
+2021-2022,Ligue 1,24,2022-02-11,Paris S-G,Rennes,1,0,1.0
+2021-2022,Ligue 1,24,2022-02-12,Montpellier,Lille,0,1,0.0
+2021-2022,Ligue 1,24,2022-02-12,Lyon,Nice,2,0,1.0
+2021-2022,Ligue 1,24,2022-02-13,Monaco,Lorient,0,0,0.5
+2021-2022,Ligue 1,24,2022-02-13,Angers,Strasbourg,0,1,0.0
+2021-2022,Ligue 1,24,2022-02-13,Brest,Troyes,5,1,1.0
+2021-2022,Ligue 1,24,2022-02-13,Nantes,Reims,1,0,1.0
+2021-2022,Ligue 1,24,2022-02-13,Clermont Foot,Saint-Étienne,1,2,0.0
+2021-2022,Ligue 1,24,2022-02-13,Lens,Bordeaux,3,2,1.0
+2021-2022,Ligue 1,24,2022-02-13,Metz,Marseille,1,2,0.0
+2021-2022,Ligue 1,25,2022-02-18,Lille,Metz,0,0,0.5
+2021-2022,Ligue 1,25,2022-02-19,Lens,Lyon,1,1,0.5
+2021-2022,Ligue 1,25,2022-02-19,Nantes,Paris S-G,3,1,1.0
+2021-2022,Ligue 1,25,2022-02-20,Nice,Angers,1,0,1.0
+2021-2022,Ligue 1,25,2022-02-20,Saint-Étienne,Strasbourg,2,2,0.5
+2021-2022,Ligue 1,25,2022-02-20,Reims,Brest,1,1,0.5
+2021-2022,Ligue 1,25,2022-02-20,Rennes,Troyes,4,1,1.0
+2021-2022,Ligue 1,25,2022-02-20,Lorient,Montpellier,0,1,0.0
+2021-2022,Ligue 1,25,2022-02-20,Bordeaux,Monaco,1,1,0.5
+2021-2022,Ligue 1,25,2022-02-20,Marseille,Clermont Foot,0,2,0.0
+2021-2022,Ligue 1,26,2022-02-25,Montpellier,Rennes,2,4,0.0
+2021-2022,Ligue 1,26,2022-02-26,Strasbourg,Nice,0,0,0.5
+2021-2022,Ligue 1,26,2022-02-26,Paris S-G,Saint-Étienne,3,1,1.0
+2021-2022,Ligue 1,26,2022-02-27,Monaco,Reims,1,2,0.0
+2021-2022,Ligue 1,26,2022-02-27,Angers,Lens,1,2,0.0
+2021-2022,Ligue 1,26,2022-02-27,Metz,Nantes,0,0,0.5
+2021-2022,Ligue 1,26,2022-02-27,Clermont Foot,Bordeaux,1,1,0.5
+2021-2022,Ligue 1,26,2022-02-27,Brest,Lorient,0,1,0.0
+2021-2022,Ligue 1,26,2022-02-27,Troyes,Marseille,1,1,0.5
+2021-2022,Ligue 1,26,2022-02-27,Lyon,Lille,0,1,0.0
+2021-2022,Ligue 1,27,2022-03-04,Lorient,Lyon,1,4,0.0
+2021-2022,Ligue 1,27,2022-03-05,Lens,Brest,0,1,0.0
+2021-2022,Ligue 1,27,2022-03-05,Nice,Paris S-G,1,0,1.0
+2021-2022,Ligue 1,27,2022-03-06,Saint-Étienne,Metz,1,0,1.0
+2021-2022,Ligue 1,27,2022-03-06,Nantes,Montpellier,2,0,1.0
+2021-2022,Ligue 1,27,2022-03-06,Reims,Strasbourg,1,1,0.5
+2021-2022,Ligue 1,27,2022-03-06,Rennes,Angers,2,0,1.0
+2021-2022,Ligue 1,27,2022-03-06,Bordeaux,Troyes,0,2,0.0
+2021-2022,Ligue 1,27,2022-03-06,Lille,Clermont Foot,4,0,1.0
+2021-2022,Ligue 1,27,2022-03-06,Marseille,Monaco,0,1,0.0
+2021-2022,Ligue 1,28,2022-03-11,Lille,Saint-Étienne,0,0,0.5
+2021-2022,Ligue 1,28,2022-03-12,Montpellier,Nice,0,0,0.5
+2021-2022,Ligue 1,28,2022-03-12,Troyes,Nantes,1,0,1.0
+2021-2022,Ligue 1,28,2022-03-13,Paris S-G,Bordeaux,3,0,1.0
+2021-2022,Ligue 1,28,2022-03-13,Strasbourg,Monaco,1,0,1.0
+2021-2022,Ligue 1,28,2022-03-13,Clermont Foot,Lorient,0,2,0.0
+2021-2022,Ligue 1,28,2022-03-13,Metz,Lens,0,0,0.5
+2021-2022,Ligue 1,28,2022-03-13,Angers,Reims,0,1,0.0
+2021-2022,Ligue 1,28,2022-03-13,Lyon,Rennes,2,4,0.0
+2021-2022,Ligue 1,28,2022-03-13,Brest,Marseille,1,4,0.0
+2021-2022,Ligue 1,29,2022-03-18,Saint-Étienne,Troyes,1,1,0.5
+2021-2022,Ligue 1,29,2022-03-19,Lens,Clermont Foot,3,1,1.0
+2021-2022,Ligue 1,29,2022-03-19,Nantes,Lille,0,1,0.0
+2021-2022,Ligue 1,29,2022-03-20,Monaco,Paris S-G,3,0,1.0
+2021-2022,Ligue 1,29,2022-03-20,Angers,Brest,1,0,1.0
+2021-2022,Ligue 1,29,2022-03-20,Rennes,Metz,6,1,1.0
+2021-2022,Ligue 1,29,2022-03-20,Bordeaux,Montpellier,0,2,0.0
+2021-2022,Ligue 1,29,2022-03-20,Lorient,Strasbourg,0,0,0.5
+2021-2022,Ligue 1,29,2022-03-20,Reims,Lyon,0,0,0.5
+2021-2022,Ligue 1,29,2022-03-20,Marseille,Nice,2,1,1.0
+2021-2022,Ligue 1,30,2022-04-02,Nice,Rennes,1,1,0.5
+2021-2022,Ligue 1,30,2022-04-02,Lille,Bordeaux,0,0,0.5
+2021-2022,Ligue 1,30,2022-04-03,Strasbourg,Lens,1,0,1.0
+2021-2022,Ligue 1,30,2022-04-03,Metz,Monaco,1,2,0.0
+2021-2022,Ligue 1,30,2022-04-03,Saint-Étienne,Marseille,2,4,0.0
+2021-2022,Ligue 1,30,2022-04-03,Troyes,Reims,1,0,1.0
+2021-2022,Ligue 1,30,2022-04-03,Montpellier,Brest,1,2,0.0
+2021-2022,Ligue 1,30,2022-04-03,Clermont Foot,Nantes,2,3,0.0
+2021-2022,Ligue 1,30,2022-04-03,Lyon,Angers,3,2,1.0
+2021-2022,Ligue 1,30,2022-04-03,Paris S-G,Lorient,5,1,1.0
+2021-2022,Ligue 1,31,2022-04-08,Lorient,Saint-Étienne,6,2,1.0
+2021-2022,Ligue 1,31,2022-04-09,Reims,Rennes,2,3,0.0
+2021-2022,Ligue 1,31,2022-04-09,Clermont Foot,Paris S-G,1,6,0.0
+2021-2022,Ligue 1,31,2022-04-10,Bordeaux,Metz,3,1,1.0
+2021-2022,Ligue 1,31,2022-04-10,Monaco,Troyes,2,1,1.0
+2021-2022,Ligue 1,31,2022-04-10,Angers,Lille,1,1,0.5
+2021-2022,Ligue 1,31,2022-04-10,Brest,Nantes,1,1,0.5
+2021-2022,Ligue 1,31,2022-04-10,Lens,Nice,3,0,1.0
+2021-2022,Ligue 1,31,2022-04-10,Strasbourg,Lyon,1,1,0.5
+2021-2022,Ligue 1,31,2022-04-10,Marseille,Montpellier,2,0,1.0
+2021-2022,Ligue 1,32,2022-04-15,Rennes,Monaco,2,3,0.0
+2021-2022,Ligue 1,32,2022-04-16,Saint-Étienne,Brest,2,1,1.0
+2021-2022,Ligue 1,32,2022-04-16,Lille,Lens,1,2,0.0
+2021-2022,Ligue 1,32,2022-04-17,Nice,Lorient,2,1,1.0
+2021-2022,Ligue 1,32,2022-04-17,Nantes,Angers,1,1,0.5
+2021-2022,Ligue 1,32,2022-04-17,Metz,Clermont Foot,1,1,0.5
+2021-2022,Ligue 1,32,2022-04-17,Montpellier,Reims,0,0,0.5
+2021-2022,Ligue 1,32,2022-04-17,Troyes,Strasbourg,1,1,0.5
+2021-2022,Ligue 1,32,2022-04-17,Lyon,Bordeaux,6,1,1.0
+2021-2022,Ligue 1,32,2022-04-17,Paris S-G,Marseille,2,1,1.0
+2021-2022,Ligue 1,33,2022-04-20,Reims,Lille,2,1,1.0
+2021-2022,Ligue 1,33,2022-04-20,Monaco,Nice,1,0,1.0
+2021-2022,Ligue 1,33,2022-04-20,Bordeaux,Saint-Étienne,2,2,0.5
+2021-2022,Ligue 1,33,2022-04-20,Lorient,Metz,1,0,1.0
+2021-2022,Ligue 1,33,2022-04-20,Troyes,Clermont Foot,0,1,0.0
+2021-2022,Ligue 1,33,2022-04-20,Angers,Paris S-G,0,3,0.0
+2021-2022,Ligue 1,33,2022-04-20,Strasbourg,Rennes,2,1,1.0
+2021-2022,Ligue 1,33,2022-04-20,Lens,Montpellier,2,0,1.0
+2021-2022,Ligue 1,33,2022-04-20,Brest,Lyon,2,1,1.0
+2021-2022,Ligue 1,33,2022-04-20,Marseille,Nantes,3,2,1.0
+2021-2022,Ligue 1,34,2022-04-23,Lyon,Montpellier,5,2,1.0
+2021-2022,Ligue 1,34,2022-04-23,Saint-Étienne,Monaco,1,4,0.0
+2021-2022,Ligue 1,34,2022-04-23,Paris S-G,Lens,1,1,0.5
+2021-2022,Ligue 1,34,2022-04-24,Rennes,Lorient,5,0,1.0
+2021-2022,Ligue 1,34,2022-04-24,Metz,Brest,0,1,0.0
+2021-2022,Ligue 1,34,2022-04-24,Nantes,Bordeaux,5,3,1.0
+2021-2022,Ligue 1,34,2022-04-24,Nice,Troyes,1,0,1.0
+2021-2022,Ligue 1,34,2022-04-24,Clermont Foot,Angers,2,2,0.5
+2021-2022,Ligue 1,34,2022-04-24,Lille,Strasbourg,1,0,1.0
+2021-2022,Ligue 1,34,2022-04-24,Reims,Marseille,0,1,0.0
+2021-2022,Ligue 1,35,2022-04-29,Strasbourg,Paris S-G,3,3,0.5
+2021-2022,Ligue 1,35,2022-04-30,Lens,Nantes,2,2,0.5
+2021-2022,Ligue 1,35,2022-04-30,Rennes,Saint-Étienne,2,0,1.0
+2021-2022,Ligue 1,35,2022-05-01,Troyes,Lille,3,0,1.0
+2021-2022,Ligue 1,35,2022-05-01,Brest,Clermont Foot,2,0,1.0
+2021-2022,Ligue 1,35,2022-05-01,Monaco,Angers,2,0,1.0
+2021-2022,Ligue 1,35,2022-05-01,Montpellier,Metz,2,2,0.5
+2021-2022,Ligue 1,35,2022-05-01,Lorient,Reims,1,2,0.0
+2021-2022,Ligue 1,35,2022-05-01,Bordeaux,Nice,0,1,0.0
+2021-2022,Ligue 1,35,2022-05-01,Marseille,Lyon,0,3,0.0
+2021-2022,Ligue 1,36,2022-05-06,Lille,Monaco,1,2,0.0
+2021-2022,Ligue 1,36,2022-05-07,Brest,Strasbourg,0,1,0.0
+2021-2022,Ligue 1,36,2022-05-08,Metz,Lyon,3,2,1.0
+2021-2022,Ligue 1,36,2022-05-08,Clermont Foot,Montpellier,2,1,1.0
+2021-2022,Ligue 1,36,2022-05-08,Angers,Bordeaux,4,1,1.0
+2021-2022,Ligue 1,36,2022-05-08,Reims,Lens,1,2,0.0
+2021-2022,Ligue 1,36,2022-05-08,Lorient,Marseille,0,3,0.0
+2021-2022,Ligue 1,36,2022-05-08,Paris S-G,Troyes,2,2,0.5
+2021-2022,Ligue 1,36,2022-05-11,Nice,Saint-Étienne,4,2,1.0
+2021-2022,Ligue 1,36,2022-05-11,Nantes,Rennes,2,1,1.0
+2021-2022,Ligue 1,37,2022-05-14,Nice,Lille,1,3,0.0
+2021-2022,Ligue 1,37,2022-05-14,Bordeaux,Lorient,0,0,0.5
+2021-2022,Ligue 1,37,2022-05-14,Montpellier,Paris S-G,0,4,0.0
+2021-2022,Ligue 1,37,2022-05-14,Rennes,Marseille,2,0,1.0
+2021-2022,Ligue 1,37,2022-05-14,Monaco,Brest,4,2,1.0
+2021-2022,Ligue 1,37,2022-05-14,Troyes,Lens,1,3,0.0
+2021-2022,Ligue 1,37,2022-05-14,Strasbourg,Clermont Foot,1,0,1.0
+2021-2022,Ligue 1,37,2022-05-14,Metz,Angers,1,0,1.0
+2021-2022,Ligue 1,37,2022-05-14,Lyon,Nantes,3,2,1.0
+2021-2022,Ligue 1,37,2022-05-14,Saint-Étienne,Reims,1,2,0.0
+2021-2022,Ligue 1,38,2022-05-21,Lille,Rennes,2,2,0.5
+2021-2022,Ligue 1,38,2022-05-21,Brest,Bordeaux,2,4,0.0
+2021-2022,Ligue 1,38,2022-05-21,Nantes,Saint-Étienne,1,1,0.5
+2021-2022,Ligue 1,38,2022-05-21,Clermont Foot,Lyon,1,2,0.0
+2021-2022,Ligue 1,38,2022-05-21,Angers,Montpellier,2,0,1.0
+2021-2022,Ligue 1,38,2022-05-21,Lorient,Troyes,1,1,0.5
+2021-2022,Ligue 1,38,2022-05-21,Paris S-G,Metz,5,0,1.0
+2021-2022,Ligue 1,38,2022-05-21,Reims,Nice,2,3,0.0
+2021-2022,Ligue 1,38,2022-05-21,Marseille,Strasbourg,4,0,1.0
+2021-2022,Ligue 1,38,2022-05-21,Lens,Monaco,2,2,0.5
+2021-2022,French 1/2 Relegation/Promotion Play-off,,2022-05-26,Auxerre,Saint-Étienne,1,1,0.5
+2021-2022,French 1/2 Relegation/Promotion Play-off,,2022-05-29,Saint-Étienne,Auxerre,1,1,0.5

@@ -1,0 +1,183 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,Swiss Super League,1,2020-09-19,Lugano,Luzern,2,1,1.0
+2020-2021,Swiss Super League,1,2020-09-19,Young Boys,Zürich,2,1,1.0
+2020-2021,Swiss Super League,1,2020-09-20,Lausanne-Sport,Servette FC,2,1,1.0
+2020-2021,Swiss Super League,1,2020-09-20,Basel,Vaduz,2,2,0.5
+2020-2021,Swiss Super League,1,2020-09-20,St. Gallen,Sion,1,0,1.0
+2020-2021,Swiss Super League,2,2020-09-26,Sion,Young Boys,0,0,0.5
+2020-2021,Swiss Super League,2,2020-09-26,Zürich,Lugano,2,2,0.5
+2020-2021,Swiss Super League,2,2020-09-27,Servette FC,Basel,1,0,1.0
+2020-2021,Swiss Super League,2,2020-09-27,Vaduz,St. Gallen,0,1,0.0
+2020-2021,Swiss Super League,2,2020-09-27,Luzern,Lausanne-Sport,2,2,0.5
+2020-2021,Swiss Super League,3,2020-10-03,Lugano,Sion,2,2,0.5
+2020-2021,Swiss Super League,3,2020-10-03,Lausanne-Sport,Zürich,4,0,1.0
+2020-2021,Swiss Super League,3,2020-10-04,Young Boys,Vaduz,1,0,1.0
+2020-2021,Swiss Super League,3,2020-10-04,St. Gallen,Servette FC,1,0,1.0
+2020-2021,Swiss Super League,3,2020-10-04,Basel,Luzern,3,2,1.0
+2020-2021,Swiss Super League,4,2020-10-17,Vaduz,Lugano,1,1,0.5
+2020-2021,Swiss Super League,4,2020-10-17,Servette FC,Young Boys,0,0,0.5
+2020-2021,Swiss Super League,4,2020-10-18,Sion,Lausanne-Sport,0,0,0.5
+2020-2021,Swiss Super League,4,2020-10-18,Luzern,St. Gallen,2,2,0.5
+2020-2021,Swiss Super League,5,2020-10-24,Lugano,St. Gallen,1,0,1.0
+2020-2021,Swiss Super League,5,2020-10-24,Vaduz,Zürich,1,4,0.0
+2020-2021,Swiss Super League,5,2020-10-25,Young Boys,Luzern,2,1,1.0
+2020-2021,Swiss Super League,6,2020-11-01,St. Gallen,Basel,1,3,0.0
+2020-2021,Swiss Super League,4,2020-11-04,Zürich,Basel,1,0,1.0
+2020-2021,Swiss Super League,7,2020-11-07,Lausanne-Sport,Lugano,0,1,0.0
+2020-2021,Swiss Super League,7,2020-11-07,Zürich,Luzern,2,0,1.0
+2020-2021,Swiss Super League,7,2020-11-08,Young Boys,St. Gallen,0,0,0.5
+2020-2021,Swiss Super League,8,2020-11-21,Luzern,Vaduz,1,1,0.5
+2020-2021,Swiss Super League,8,2020-11-21,Young Boys,Basel,2,1,1.0
+2020-2021,Swiss Super League,8,2020-11-22,Servette FC,Lugano,1,1,0.5
+2020-2021,Swiss Super League,8,2020-11-22,Sion,Zürich,2,2,0.5
+2020-2021,Swiss Super League,8,2020-11-22,St. Gallen,Lausanne-Sport,2,2,0.5
+2020-2021,Swiss Super League,5,2020-11-25,Sion,Servette FC,2,0,1.0
+2020-2021,Swiss Super League,5,2020-11-25,Basel,Lausanne-Sport,2,1,1.0
+2020-2021,Swiss Super League,9,2020-11-28,Vaduz,Sion,4,1,1.0
+2020-2021,Swiss Super League,9,2020-11-28,Servette FC,Luzern,1,3,0.0
+2020-2021,Swiss Super League,9,2020-11-29,Lugano,Basel,1,0,1.0
+2020-2021,Swiss Super League,9,2020-11-29,Lausanne-Sport,Young Boys,0,3,0.0
+2020-2021,Swiss Super League,6,2020-12-02,Luzern,Sion,2,0,1.0
+2020-2021,Swiss Super League,6,2020-12-02,Lausanne-Sport,Vaduz,3,0,1.0
+2020-2021,Swiss Super League,6,2020-12-02,Servette FC,Zürich,2,1,1.0
+2020-2021,Swiss Super League,10,2020-12-05,Basel,Servette FC,1,0,1.0
+2020-2021,Swiss Super League,10,2020-12-06,Zürich,Lausanne-Sport,4,0,1.0
+2020-2021,Swiss Super League,10,2020-12-06,Luzern,Young Boys,2,3,0.0
+2020-2021,Swiss Super League,7,2020-12-09,Vaduz,Servette FC,0,2,0.0
+2020-2021,Swiss Super League,7,2020-12-09,Basel,Sion,4,2,1.0
+2020-2021,Swiss Super League,9,2020-12-09,Zürich,St. Gallen,1,2,0.0
+2020-2021,Swiss Super League,11,2020-12-12,Sion,Luzern,1,2,0.0
+2020-2021,Swiss Super League,11,2020-12-12,Vaduz,Basel,0,2,0.0
+2020-2021,Swiss Super League,11,2020-12-13,Lausanne-Sport,St. Gallen,0,1,0.0
+2020-2021,Swiss Super League,11,2020-12-13,Young Boys,Servette FC,1,2,0.0
+2020-2021,Swiss Super League,11,2020-12-13,Lugano,Zürich,0,1,0.0
+2020-2021,Swiss Super League,12,2020-12-16,Luzern,Zürich,0,0,0.5
+2020-2021,Swiss Super League,12,2020-12-16,Basel,Young Boys,0,2,0.0
+2020-2021,Swiss Super League,12,2020-12-16,St. Gallen,Lugano,0,0,0.5
+2020-2021,Swiss Super League,12,2020-12-17,Vaduz,Lausanne-Sport,0,2,0.0
+2020-2021,Swiss Super League,12,2020-12-17,Servette FC,Sion,1,1,0.5
+2020-2021,Swiss Super League,13,2020-12-19,Young Boys,Lugano,2,2,0.5
+2020-2021,Swiss Super League,13,2020-12-19,Basel,St. Gallen,0,0,0.5
+2020-2021,Swiss Super League,13,2020-12-20,Zürich,Servette FC,0,1,0.0
+2020-2021,Swiss Super League,13,2020-12-20,Lausanne-Sport,Luzern,2,1,1.0
+2020-2021,Swiss Super League,13,2020-12-20,Sion,Vaduz,2,1,1.0
+2020-2021,Swiss Super League,14,2020-12-22,St. Gallen,Young Boys,1,2,0.0
+2020-2021,Swiss Super League,14,2020-12-23,Servette FC,Vaduz,1,1,0.5
+2020-2021,Swiss Super League,14,2020-12-23,Luzern,Basel,1,2,0.0
+2020-2021,Swiss Super League,14,2020-12-23,Lugano,Lausanne-Sport,0,0,0.5
+2020-2021,Swiss Super League,14,2020-12-23,Zürich,Sion,0,0,0.5
+2020-2021,Swiss Super League,10,2021-01-17,Sion,Lugano,1,1,0.5
+2020-2021,Swiss Super League,6,2021-01-20,Lugano,Young Boys,0,2,0.0
+2020-2021,Swiss Super League,10,2021-01-20,St. Gallen,Vaduz,2,0,1.0
+2020-2021,Swiss Super League,15,2021-01-23,Lausanne-Sport,Sion,0,1,0.0
+2020-2021,Swiss Super League,15,2021-01-23,Basel,Zürich,1,4,0.0
+2020-2021,Swiss Super League,15,2021-01-24,Vaduz,Young Boys,0,0,0.5
+2020-2021,Swiss Super League,19,2021-01-24,St. Gallen,Lugano,0,1,0.0
+2020-2021,Swiss Super League,16,2021-01-27,Zürich,Vaduz,0,1,0.0
+2020-2021,Swiss Super League,16,2021-01-28,Sion,Basel,2,3,0.0
+2020-2021,Swiss Super League,17,2021-01-30,St. Gallen,Zürich,2,3,0.0
+2020-2021,Swiss Super League,17,2021-01-31,Servette FC,Lausanne-Sport,1,1,0.5
+2020-2021,Swiss Super League,17,2021-01-31,Basel,Lugano,2,2,0.5
+2020-2021,Swiss Super League,17,2021-01-31,Young Boys,Sion,2,1,1.0
+2020-2021,Swiss Super League,18,2021-02-03,Zürich,Young Boys,1,4,0.0
+2020-2021,Swiss Super League,18,2021-02-03,Lugano,Vaduz,1,1,0.5
+2020-2021,Swiss Super League,18,2021-02-03,Sion,St. Gallen,3,2,1.0
+2020-2021,Swiss Super League,18,2021-02-04,Luzern,Servette FC,3,0,1.0
+2020-2021,Swiss Super League,18,2021-02-04,Lausanne-Sport,Basel,1,3,0.0
+2020-2021,Swiss Super League,19,2021-02-06,Vaduz,Zürich,3,2,1.0
+2020-2021,Swiss Super League,19,2021-02-07,Servette FC,Luzern,4,2,1.0
+2020-2021,Swiss Super League,19,2021-02-07,Basel,Sion,2,2,0.5
+2020-2021,Swiss Super League,19,2021-02-07,Young Boys,Lausanne-Sport,4,2,1.0
+2020-2021,Swiss Super League,15,2021-02-10,Servette FC,St. Gallen,2,2,0.5
+2020-2021,Swiss Super League,15,2021-02-10,Luzern,Lugano,1,1,0.5
+2020-2021,Swiss Super League,16,2021-02-10,Young Boys,Lausanne-Sport,1,0,1.0
+2020-2021,Swiss Super League,20,2021-02-13,Lausanne-Sport,Servette FC,3,1,1.0
+2020-2021,Swiss Super League,20,2021-02-13,Sion,St. Gallen,1,1,0.5
+2020-2021,Swiss Super League,20,2021-02-14,Lugano,Young Boys,1,3,0.0
+2020-2021,Swiss Super League,20,2021-02-14,Zürich,Basel,2,0,1.0
+2020-2021,Swiss Super League,20,2021-02-14,Luzern,Vaduz,4,0,1.0
+2020-2021,Swiss Super League,16,2021-02-17,Lugano,Servette FC,1,1,0.5
+2020-2021,Swiss Super League,16,2021-02-17,St. Gallen,Luzern,2,1,1.0
+2020-2021,Swiss Super League,21,2021-02-20,Vaduz,St. Gallen,2,1,1.0
+2020-2021,Swiss Super League,21,2021-02-20,Basel,Lausanne-Sport,0,0,0.5
+2020-2021,Swiss Super League,21,2021-02-21,Lugano,Luzern,2,3,0.0
+2020-2021,Swiss Super League,21,2021-02-21,Young Boys,Servette FC,2,0,1.0
+2020-2021,Swiss Super League,21,2021-02-21,Zürich,Sion,1,1,0.5
+2020-2021,Swiss Super League,17,2021-02-24,Vaduz,Luzern,1,1,0.5
+2020-2021,Swiss Super League,22,2021-02-27,Servette FC,Zürich,3,1,1.0
+2020-2021,Swiss Super League,22,2021-02-27,St. Gallen,Basel,3,1,1.0
+2020-2021,Swiss Super League,22,2021-02-28,Luzern,Young Boys,2,2,0.5
+2020-2021,Swiss Super League,22,2021-02-28,Sion,Vaduz,0,2,0.0
+2020-2021,Swiss Super League,22,2021-02-28,Lausanne-Sport,Lugano,2,0,1.0
+2020-2021,Swiss Super League,23,2021-03-03,St. Gallen,Servette FC,0,1,0.0
+2020-2021,Swiss Super League,23,2021-03-03,Basel,Young Boys,1,1,0.5
+2020-2021,Swiss Super League,23,2021-03-03,Vaduz,Lausanne-Sport,0,3,0.0
+2020-2021,Swiss Super League,23,2021-03-04,Sion,Lugano,0,3,0.0
+2020-2021,Swiss Super League,23,2021-03-04,Zürich,Luzern,1,2,0.0
+2020-2021,Swiss Super League,24,2021-03-06,Young Boys,Vaduz,1,1,0.5
+2020-2021,Swiss Super League,24,2021-03-06,Servette FC,Basel,2,1,1.0
+2020-2021,Swiss Super League,24,2021-03-07,Lugano,Zürich,0,1,0.0
+2020-2021,Swiss Super League,24,2021-03-07,Luzern,St. Gallen,4,2,1.0
+2020-2021,Swiss Super League,24,2021-03-07,Lausanne-Sport,Sion,1,3,0.0
+2020-2021,Swiss Super League,25,2021-03-13,Zürich,Lausanne-Sport,1,1,0.5
+2020-2021,Swiss Super League,25,2021-03-13,Basel,Luzern,4,1,1.0
+2020-2021,Swiss Super League,25,2021-03-14,St. Gallen,Young Boys,2,2,0.5
+2020-2021,Swiss Super League,25,2021-03-14,Sion,Servette FC,1,2,0.0
+2020-2021,Swiss Super League,25,2021-03-14,Vaduz,Lugano,0,3,0.0
+2020-2021,Swiss Super League,26,2021-03-20,Lausanne-Sport,St. Gallen,4,3,1.0
+2020-2021,Swiss Super League,26,2021-03-20,Lugano,Basel,2,1,1.0
+2020-2021,Swiss Super League,26,2021-03-21,Young Boys,Zürich,4,0,1.0
+2020-2021,Swiss Super League,26,2021-03-21,Luzern,Sion,1,1,0.5
+2020-2021,Swiss Super League,26,2021-03-21,Servette FC,Vaduz,1,2,0.0
+2020-2021,Swiss Super League,27,2021-04-03,Lausanne-Sport,Luzern,2,1,1.0
+2020-2021,Swiss Super League,27,2021-04-03,St. Gallen,Zürich,1,1,0.5
+2020-2021,Swiss Super League,27,2021-04-04,Sion,Young Boys,0,3,0.0
+2020-2021,Swiss Super League,27,2021-04-04,Servette FC,Lugano,1,1,0.5
+2020-2021,Swiss Super League,27,2021-04-05,Basel,Vaduz,1,2,0.0
+2020-2021,Swiss Super League,28,2021-04-10,Lugano,Lausanne-Sport,1,0,1.0
+2020-2021,Swiss Super League,28,2021-04-10,Luzern,Basel,3,4,0.0
+2020-2021,Swiss Super League,28,2021-04-11,Young Boys,St. Gallen,2,0,1.0
+2020-2021,Swiss Super League,28,2021-04-11,Vaduz,Sion,3,0,1.0
+2020-2021,Swiss Super League,28,2021-04-11,Zürich,Servette FC,1,2,0.0
+2020-2021,Swiss Super League,29,2021-04-17,Sion,Zürich,2,2,0.5
+2020-2021,Swiss Super League,29,2021-04-17,St. Gallen,Luzern,0,0,0.5
+2020-2021,Swiss Super League,29,2021-04-18,Young Boys,Lugano,3,0,1.0
+2020-2021,Swiss Super League,29,2021-04-18,Basel,Servette FC,5,0,1.0
+2020-2021,Swiss Super League,29,2021-04-18,Lausanne-Sport,Vaduz,2,1,1.0
+2020-2021,Swiss Super League,30,2021-04-21,Luzern,Lausanne-Sport,1,0,1.0
+2020-2021,Swiss Super League,30,2021-04-21,Lugano,St. Gallen,2,0,1.0
+2020-2021,Swiss Super League,30,2021-04-21,Vaduz,Basel,1,1,0.5
+2020-2021,Swiss Super League,30,2021-04-22,Servette FC,Sion,3,5,0.0
+2020-2021,Swiss Super League,30,2021-04-22,Zürich,Young Boys,1,2,0.0
+2020-2021,Swiss Super League,31,2021-04-24,St. Gallen,Vaduz,1,0,1.0
+2020-2021,Swiss Super League,31,2021-04-24,Lausanne-Sport,Basel,3,3,0.5
+2020-2021,Swiss Super League,31,2021-04-25,Young Boys,Sion,2,1,1.0
+2020-2021,Swiss Super League,31,2021-04-25,Luzern,Zürich,3,1,1.0
+2020-2021,Swiss Super League,31,2021-04-25,Lugano,Servette FC,0,1,0.0
+2020-2021,Swiss Super League,32,2021-05-01,Vaduz,Luzern,1,2,0.0
+2020-2021,Swiss Super League,32,2021-05-01,Basel,St. Gallen,1,0,1.0
+2020-2021,Swiss Super League,32,2021-05-02,Zürich,Lugano,3,0,1.0
+2020-2021,Swiss Super League,32,2021-05-02,Servette FC,Young Boys,2,1,1.0
+2020-2021,Swiss Super League,32,2021-05-02,Sion,Lausanne-Sport,1,1,0.5
+2020-2021,Swiss Super League,33,2021-05-08,Lugano,Vaduz,0,2,0.0
+2020-2021,Swiss Super League,33,2021-05-08,Young Boys,Basel,2,0,1.0
+2020-2021,Swiss Super League,33,2021-05-09,St. Gallen,Sion,0,3,0.0
+2020-2021,Swiss Super League,33,2021-05-09,Luzern,Servette FC,3,0,1.0
+2020-2021,Swiss Super League,33,2021-05-09,Lausanne-Sport,Zürich,2,2,0.5
+2020-2021,Swiss Super League,34,2021-05-11,Vaduz,Young Boys,0,2,0.0
+2020-2021,Swiss Super League,34,2021-05-11,Basel,Lugano,2,0,1.0
+2020-2021,Swiss Super League,34,2021-05-12,Servette FC,Lausanne-Sport,1,4,0.0
+2020-2021,Swiss Super League,34,2021-05-12,Zürich,St. Gallen,2,2,0.5
+2020-2021,Swiss Super League,34,2021-05-12,Sion,Luzern,1,1,0.5
+2020-2021,Swiss Super League,35,2021-05-15,Basel,Zürich,4,0,1.0
+2020-2021,Swiss Super League,35,2021-05-15,Young Boys,Luzern,5,2,1.0
+2020-2021,Swiss Super League,35,2021-05-15,St. Gallen,Lausanne-Sport,5,0,1.0
+2020-2021,Swiss Super League,35,2021-05-15,Lugano,Sion,3,1,1.0
+2020-2021,Swiss Super League,35,2021-05-15,Vaduz,Servette FC,1,3,0.0
+2020-2021,Swiss Super League,36,2021-05-21,Luzern,Lugano,1,2,0.0
+2020-2021,Swiss Super League,36,2021-05-21,Zürich,Vaduz,4,1,1.0
+2020-2021,Swiss Super League,36,2021-05-21,Sion,Basel,4,0,1.0
+2020-2021,Swiss Super League,36,2021-05-21,Lausanne-Sport,Young Boys,2,4,0.0
+2020-2021,Swiss Super League,36,2021-05-21,Servette FC,St. Gallen,1,2,0.0
+2020-2021,Swiss 1/2 Relegation/Promotion Play-offs,,2021-05-27,Thun,Sion,1,4,0.0
+2020-2021,Swiss 1/2 Relegation/Promotion Play-offs,,2021-05-30,Sion,Thun,2,3,0.0

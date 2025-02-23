@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1910-1911,1,1910-09-01,Preston,Nott'ham Forest,0,2,0.0
+1910-1911,1,1910-09-01,Blackburn,Notts County,1,1,0.5
+1910-1911,1,1910-09-01,Sunderland,Newcastle Utd,2,1,1.0
+1910-1911,1,1910-09-01,Manchester City,Bury,5,1,1.0
+1910-1911,1,1910-09-01,Arsenal,Manchester Utd,1,2,0.0
+1910-1911,1,1910-09-01,Everton,Tottenham,2,0,1.0
+1910-1911,1,1910-09-03,Aston Villa,Oldham Athletic,1,1,0.5
+1910-1911,1,1910-09-03,Liverpool,Bradford City,1,2,0.0
+1910-1911,2,1910-09-03,Newcastle Utd,Bristol City,0,1,0.0
+1910-1911,2,1910-09-03,Manchester Utd,Blackburn,3,2,1.0
+1910-1911,2,1910-09-03,Tottenham,The Wednesday,3,1,1.0
+1910-1911,2,1910-09-03,Notts County,Nott'ham Forest,1,1,0.5
+1910-1911,2,1910-09-03,Middlesbrough,Everton,1,0,1.0
+1910-1911,2,1910-09-03,Bury,Arsenal,1,1,0.5
+1910-1911,2,1910-09-03,Sheffield Utd,Sunderland,1,2,0.0
+1910-1911,2,1910-09-03,Preston,Manchester City,1,1,0.5
+1910-1911,2,1910-09-10,The Wednesday,Middlesbrough,1,1,0.5
+1910-1911,3,1910-09-10,Bristol City,Tottenham,0,2,0.0
+1910-1911,3,1910-09-10,Sunderland,Aston Villa,3,2,1.0
+1910-1911,3,1910-09-10,Manchester City,Notts County,0,1,0.0
+1910-1911,3,1910-09-10,Blackburn,Liverpool,1,2,0.0
+1910-1911,3,1910-09-10,Everton,Preston,2,0,1.0
+1910-1911,3,1910-09-10,Arsenal,Sheffield Utd,0,0,0.5
+1910-1911,3,1910-09-10,Oldham Athletic,Newcastle Utd,0,2,0.0
+1910-1911,3,1910-09-10,Nott'ham Forest,Manchester Utd,2,1,1.0
+1910-1911,3,1910-09-10,Bradford City,Bury,2,2,0.5
+1910-1911,3,1910-09-17,Middlesbrough,Bristol City,3,0,1.0
+1910-1911,3,1910-09-17,Sheffield Utd,Bradford City,0,1,0.0
+1910-1911,3,1910-09-17,Liverpool,Nott'ham Forest,2,3,0.0
+1910-1911,4,1910-09-17,Tottenham,Newcastle Utd,1,2,0.0
+1910-1911,4,1910-09-17,Sunderland,Oldham Athletic,2,1,1.0
+1910-1911,4,1910-09-17,Notts County,Everton,0,0,0.5
+1910-1911,4,1910-09-17,Preston,The Wednesday,1,3,0.0
+1910-1911,4,1910-09-17,Aston Villa,Arsenal,3,0,1.0
+1910-1911,4,1910-09-17,Manchester Utd,Manchester City,2,1,1.0
+1910-1911,4,1910-09-17,Bury,Blackburn,2,2,0.5
+1910-1911,4,1910-09-19,Sheffield Utd,Liverpool,2,0,1.0
+1910-1911,4,1910-09-24,Newcastle Utd,Middlesbrough,0,0,0.5
+1910-1911,4,1910-09-24,Bradford City,Aston Villa,1,2,0.0
+1910-1911,5,1910-09-24,Everton,Manchester Utd,0,1,0.0
+1910-1911,5,1910-09-24,The Wednesday,Notts County,1,3,0.0
+1910-1911,5,1910-09-24,Arsenal,Sunderland,0,0,0.5
+1910-1911,5,1910-09-24,Nott'ham Forest,Bury,1,2,0.0
+1910-1911,5,1910-09-24,Bristol City,Preston,0,0,0.5
+1910-1911,5,1910-09-24,Oldham Athletic,Tottenham,2,0,1.0
+1910-1911,5,1910-09-24,Blackburn,Sheffield Utd,1,2,0.0
+1910-1911,5,1910-09-24,Manchester City,Liverpool,1,2,0.0
+1910-1911,5,1910-10-01,Middlesbrough,Tottenham,2,0,1.0
+1910-1911,6,1910-10-01,Preston,Newcastle Utd,2,1,1.0
+1910-1911,6,1910-10-01,Bury,Manchester City,5,2,1.0
+1910-1911,6,1910-10-01,Sunderland,Bradford City,1,1,0.5
+1910-1911,6,1910-10-01,Arsenal,Oldham Athletic,0,0,0.5
+1910-1911,6,1910-10-01,Aston Villa,Blackburn,2,2,0.5
+1910-1911,6,1910-10-01,Notts County,Bristol City,2,0,1.0
+1910-1911,6,1910-10-01,Manchester Utd,The Wednesday,3,2,1.0
+1910-1911,6,1910-10-01,Liverpool,Everton,0,2,0.0
+1910-1911,6,1910-10-01,Sheffield Utd,Nott'ham Forest,0,1,0.0
+1910-1911,7,1910-10-06,Nott'ham Forest,Preston,1,3,0.0
+1910-1911,6,1910-10-08,Oldham Athletic,Middlesbrough,1,1,0.5
+1910-1911,6,1910-10-08,Nott'ham Forest,Aston Villa,3,1,1.0
+1910-1911,7,1910-10-08,The Wednesday,Liverpool,1,0,1.0
+1910-1911,7,1910-10-08,Manchester City,Sheffield Utd,0,4,0.0
+1910-1911,7,1910-10-08,Everton,Bury,2,1,1.0
+1910-1911,7,1910-10-08,Bradford City,Arsenal,3,0,1.0
+1910-1911,7,1910-10-08,Newcastle Utd,Notts County,2,0,1.0
+1910-1911,7,1910-10-08,Bristol City,Manchester Utd,0,1,0.0
+1910-1911,7,1910-10-08,Blackburn,Sunderland,0,1,0.0
+1910-1911,8,1910-10-08,Tottenham,Preston,1,1,0.5
+1910-1911,7,1910-10-15,Bradford City,Oldham Athletic,1,2,0.0
+1910-1911,8,1910-10-15,Arsenal,Blackburn,4,1,1.0
+1910-1911,8,1910-10-15,Manchester Utd,Newcastle Utd,2,0,1.0
+1910-1911,8,1910-10-15,Aston Villa,Manchester City,2,1,1.0
+1910-1911,8,1910-10-15,Notts County,Tottenham,1,0,1.0
+1910-1911,8,1910-10-15,Sunderland,Nott'ham Forest,2,2,0.5
+1910-1911,8,1910-10-15,Bury,The Wednesday,1,1,0.5
+1910-1911,8,1910-10-15,Liverpool,Bristol City,4,0,1.0
+1910-1911,8,1910-10-15,Sheffield Utd,Everton,0,1,0.0
+1910-1911,9,1910-10-15,Preston,Middlesbrough,1,1,0.5
+1910-1911,8,1910-10-22,Middlesbrough,Notts County,4,1,1.0
+1910-1911,9,1910-10-22,Blackburn,Bradford City,3,0,1.0
+1910-1911,9,1910-10-22,Bristol City,Bury,2,0,1.0
+1910-1911,9,1910-10-22,Everton,Aston Villa,0,1,0.0
+1910-1911,9,1910-10-22,Manchester City,Sunderland,3,3,0.5
+1910-1911,9,1910-10-22,Nott'ham Forest,Arsenal,2,3,0.0
+1910-1911,9,1910-10-22,Tottenham,Manchester Utd,2,2,0.5
+1910-1911,9,1910-10-22,Newcastle Utd,Liverpool,6,1,1.0
+1910-1911,9,1910-10-22,The Wednesday,Sheffield Utd,2,0,1.0
+1910-1911,10,1910-10-22,Oldham Athletic,Preston,2,1,1.0
+1910-1911,9,1910-10-29,Aston Villa,The Wednesday,2,1,1.0
+1910-1911,9,1910-10-29,Bradford City,Nott'ham Forest,2,1,1.0
+1910-1911,10,1910-10-29,Manchester Utd,Middlesbrough,1,2,0.0
+1910-1911,10,1910-10-29,Arsenal,Manchester City,0,1,0.0
+1910-1911,10,1910-10-29,Blackburn,Oldham Athletic,1,0,1.0
+1910-1911,10,1910-10-29,Bury,Newcastle Utd,1,1,0.5
+1910-1911,10,1910-10-29,Sunderland,Everton,4,0,1.0
+1910-1911,10,1910-10-29,Sheffield Utd,Bristol City,0,4,0.0
+1910-1911,10,1910-10-29,Liverpool,Tottenham,1,2,0.0
+1910-1911,11,1910-10-29,Notts County,Preston,3,3,0.5
+1910-1911,10,1910-11-05,Bristol City,Aston Villa,1,2,0.0
+1910-1911,11,1910-11-05,Middlesbrough,Liverpool,2,2,0.5
+1910-1911,11,1910-11-05,Oldham Athletic,Notts County,2,1,1.0
+1910-1911,11,1910-11-05,Manchester City,Bradford City,1,3,0.0
+1910-1911,11,1910-11-05,The Wednesday,Sunderland,1,1,0.5
+1910-1911,11,1910-11-05,Newcastle Utd,Sheffield Utd,1,1,0.5
+1910-1911,11,1910-11-05,Nott'ham Forest,Blackburn,5,2,1.0
+1910-1911,11,1910-11-05,Tottenham,Bury,5,0,1.0
+1910-1911,11,1910-11-05,Everton,Arsenal,2,0,1.0
+1910-1911,12,1910-11-05,Preston,Manchester Utd,0,2,0.0
+1910-1911,11,1910-11-12,Aston Villa,Newcastle Utd,3,2,1.0
+1910-1911,12,1910-11-12,Manchester Utd,Notts County,0,0,0.5
+1910-1911,12,1910-11-12,Bury,Middlesbrough,4,2,1.0
+1910-1911,12,1910-11-12,Arsenal,The Wednesday,1,0,1.0
+1910-1911,12,1910-11-12,Sheffield Utd,Tottenham,3,0,1.0
+1910-1911,12,1910-11-12,Blackburn,Manchester City,2,0,1.0
+1910-1911,12,1910-11-12,Bradford City,Everton,3,1,1.0
+1910-1911,12,1910-11-12,Sunderland,Bristol City,3,1,1.0
+1910-1911,13,1910-11-12,Nott'ham Forest,Oldham Athletic,4,1,1.0
+1910-1911,13,1910-11-12,Liverpool,Preston,3,0,1.0
+1910-1911,12,1910-11-19,Middlesbrough,Sheffield Utd,3,1,1.0
+1910-1911,12,1910-11-19,The Wednesday,Bradford City,0,1,0.0
+1910-1911,12,1910-11-19,Tottenham,Aston Villa,1,2,0.0
+1910-1911,13,1910-11-19,Everton,Blackburn,6,1,1.0
+1910-1911,13,1910-11-19,Newcastle Utd,Sunderland,1,1,0.5
+1910-1911,13,1910-11-19,Notts County,Liverpool,1,0,1.0
+1910-1911,13,1910-11-19,Manchester City,Nott'ham Forest,1,0,1.0
+1910-1911,13,1910-11-19,Oldham Athletic,Manchester Utd,1,3,0.0
+1910-1911,13,1910-11-19,Bristol City,Arsenal,0,1,0.0
+1910-1911,14,1910-11-19,Preston,Bury,2,0,1.0
+1910-1911,13,1910-11-26,Aston Villa,Middlesbrough,5,0,1.0
+1910-1911,13,1910-11-26,Bradford City,Bristol City,3,1,1.0
+1910-1911,14,1910-11-26,Manchester City,Oldham Athletic,2,0,1.0
+1910-1911,14,1910-11-26,Nott'ham Forest,Everton,1,1,0.5
+1910-1911,14,1910-11-26,Bury,Notts County,0,0,0.5
+1910-1911,14,1910-11-26,Blackburn,The Wednesday,6,1,1.0
+1910-1911,14,1910-11-26,Liverpool,Manchester Utd,3,2,1.0
+1910-1911,14,1910-11-26,Arsenal,Newcastle Utd,1,2,0.0
+1910-1911,14,1910-11-26,Sunderland,Tottenham,4,0,1.0
+1910-1911,15,1910-11-26,Sheffield Utd,Preston,5,0,1.0
+1910-1911,15,1910-12-03,Oldham Athletic,Liverpool,3,1,1.0
+1910-1911,15,1910-12-03,Manchester Utd,Bury,3,2,1.0
+1910-1911,15,1910-12-03,Tottenham,Arsenal,3,1,1.0
+1910-1911,15,1910-12-03,Everton,Manchester City,1,0,1.0
+1910-1911,15,1910-12-03,Notts County,Sheffield Utd,0,3,0.0
+1910-1911,15,1910-12-03,Bristol City,Blackburn,1,0,1.0
+1910-1911,15,1910-12-03,Middlesbrough,Sunderland,1,0,1.0
+1910-1911,15,1910-12-03,Newcastle Utd,Bradford City,6,1,1.0
+1910-1911,16,1910-12-03,The Wednesday,Nott'ham Forest,5,2,1.0
+1910-1911,16,1910-12-03,Preston,Aston Villa,0,1,0.0
+1910-1911,15,1910-12-10,Aston Villa,Notts County,3,1,1.0
+1910-1911,15,1910-12-10,Nott'ham Forest,Bristol City,3,3,0.5
+1910-1911,16,1910-12-10,Bury,Liverpool,3,0,1.0
+1910-1911,16,1910-12-10,Arsenal,Middlesbrough,0,2,0.0
+1910-1911,16,1910-12-10,Everton,Oldham Athletic,1,0,1.0
+1910-1911,16,1910-12-10,Blackburn,Newcastle Utd,3,1,1.0
+1910-1911,16,1910-12-10,Manchester City,The Wednesday,1,2,0.0
+1910-1911,16,1910-12-10,Bradford City,Tottenham,3,0,1.0
+1910-1911,16,1910-12-10,Sheffield Utd,Manchester Utd,2,0,1.0
+1910-1911,17,1910-12-10,Sunderland,Preston,1,1,0.5
+1910-1911,16,1910-12-17,Middlesbrough,Bradford City,3,2,1.0
+1910-1911,16,1910-12-17,Manchester Utd,Aston Villa,2,0,1.0
+1910-1911,17,1910-12-17,Bury,Oldham Athletic,2,2,0.5
+1910-1911,17,1910-12-17,The Wednesday,Everton,0,2,0.0
+1910-1911,17,1910-12-17,Bristol City,Manchester City,2,1,1.0
+1910-1911,17,1910-12-17,Tottenham,Blackburn,2,2,0.5
+1910-1911,17,1910-12-17,Newcastle Utd,Nott'ham Forest,4,1,1.0
+1910-1911,17,1910-12-17,Preston,Arsenal,4,1,1.0
+1910-1911,17,1910-12-17,Liverpool,Sheffield Utd,2,0,1.0
+1910-1911,17,1910-12-17,Notts County,Sunderland,1,1,0.5
+1910-1911,17,1910-12-24,Oldham Athletic,The Wednesday,1,0,1.0
+1910-1911,17,1910-12-24,Aston Villa,Liverpool,1,1,0.5
+1910-1911,18,1910-12-24,Nott'ham Forest,Tottenham,1,2,0.0
+1910-1911,18,1910-12-24,Sunderland,Manchester Utd,1,2,0.0
+1910-1911,18,1910-12-24,Sheffield Utd,Bury,3,0,1.0
+1910-1911,18,1910-12-24,Arsenal,Notts County,2,1,1.0
+1910-1911,18,1910-12-24,Manchester City,Newcastle Utd,2,0,1.0
+1910-1911,18,1910-12-24,Blackburn,Middlesbrough,5,1,1.0
+1910-1911,18,1910-12-24,Everton,Bristol City,4,3,1.0
+1910-1911,19,1910-12-24,Bradford City,Preston,1,0,1.0
+1910-1911,18,1910-12-26,Bristol City,The Wednesday,2,2,0.5
+1910-1911,18,1910-12-26,Aston Villa,Bury,4,1,1.0
+1910-1911,19,1910-12-26,Manchester Utd,Arsenal,5,0,1.0
+1910-1911,19,1910-12-26,Notts County,Bradford City,1,1,0.5
+1910-1911,19,1910-12-26,Liverpool,Sunderland,1,2,0.0
+1910-1911,19,1910-12-26,Middlesbrough,Manchester City,0,0,0.5
+1910-1911,19,1910-12-26,Newcastle Utd,Everton,1,0,1.0
+1910-1911,19,1910-12-26,Preston,Blackburn,0,0,0.5
+1910-1911,19,1910-12-26,Tottenham,Nott'ham Forest,1,4,0.0
+1910-1911,19,1910-12-26,Sheffield Utd,Oldham Athletic,1,2,0.0
+1910-1911,19,1910-12-27,Bristol City,Oldham Athletic,3,2,1.0
+1910-1911,19,1910-12-27,Nott'ham Forest,Middlesbrough,1,1,0.5
+1910-1911,20,1910-12-27,Everton,Liverpool,0,1,0.0
+1910-1911,20,1910-12-27,Tottenham,Manchester City,1,1,0.5
+1910-1911,20,1910-12-27,Bradford City,Manchester Utd,1,0,1.0
+1910-1911,20,1910-12-27,The Wednesday,Newcastle Utd,0,2,0.0
+1910-1911,19,1910-12-28,Sheffield Utd,Aston Villa,2,1,1.0
+1910-1911,20,1910-12-31,Nott'ham Forest,Notts County,0,2,0.0
+1910-1911,20,1910-12-31,Arsenal,Bury,3,2,1.0
+1910-1911,20,1910-12-31,Oldham Athletic,Aston Villa,1,1,0.5
+1910-1911,20,1910-12-31,Blackburn,Manchester Utd,1,0,1.0
+1910-1911,20,1910-12-31,Sunderland,Sheffield Utd,0,2,0.0
+1910-1911,21,1910-12-31,Manchester City,Preston,0,2,0.0
+1910-1911,21,1910-12-31,Bradford City,Liverpool,1,3,0.0
+1910-1911,21,1910-12-31,The Wednesday,Tottenham,2,1,1.0
+1910-1911,21,1910-12-31,Bristol City,Newcastle Utd,1,0,1.0
+1910-1911,21,1910-12-31,Everton,Middlesbrough,2,0,1.0
+1910-1911,21,1911-01-02,Middlesbrough,Nott'ham Forest,2,2,0.5
+1910-1911,21,1911-01-02,Blackburn,Preston,0,1,0.0
+1910-1911,21,1911-01-02,Bury,Aston Villa,1,0,1.0
+1910-1911,21,1911-01-02,The Wednesday,Bristol City,2,1,1.0
+1910-1911,21,1911-01-02,Sunderland,Liverpool,4,0,1.0
+1910-1911,22,1911-01-02,Manchester Utd,Bradford City,1,0,1.0
+1910-1911,22,1911-01-02,Everton,Newcastle Utd,1,5,0.0
+1910-1911,22,1911-01-03,Manchester City,Tottenham,2,1,1.0
+1910-1911,23,1911-01-03,Newcastle Utd,Preston,1,1,0.5
+1910-1911,21,1911-01-07,Sheffield Utd,Arsenal,3,2,1.0
+1910-1911,22,1911-01-07,Aston Villa,Sunderland,2,1,1.0
+1910-1911,22,1911-01-07,Bury,Bradford City,0,1,0.0
+1910-1911,22,1911-01-07,Liverpool,Blackburn,2,2,0.5
+1910-1911,22,1911-01-07,Middlesbrough,The Wednesday,0,1,0.0
+1910-1911,23,1911-01-07,Manchester Utd,Nott'ham Forest,4,2,1.0
+1910-1911,23,1911-01-07,Preston,Everton,0,2,0.0
+1910-1911,23,1911-01-07,Tottenham,Bristol City,3,2,1.0
+1910-1911,23,1911-01-07,Notts County,Manchester City,0,1,0.0
+1910-1911,24,1911-01-07,Newcastle Utd,Oldham Athletic,3,0,1.0
+1910-1911,23,1911-01-21,Bradford City,Sheffield Utd,0,1,0.0
+1910-1911,23,1911-01-21,Bristol City,Middlesbrough,3,2,1.0
+1910-1911,23,1911-01-21,Blackburn,Bury,6,2,1.0
+1910-1911,23,1911-01-21,Oldham Athletic,Sunderland,2,1,1.0
+1910-1911,24,1911-01-21,Everton,Notts County,5,0,1.0
+1910-1911,24,1911-01-21,Nott'ham Forest,Liverpool,2,0,1.0
+1910-1911,24,1911-01-21,Manchester City,Manchester Utd,1,1,0.5
+1910-1911,25,1911-01-21,The Wednesday,Preston,0,0,0.5
+1910-1911,25,1911-01-21,Newcastle Utd,Tottenham,1,1,0.5
+1910-1911,22,1911-01-28,Sunderland,Arsenal,2,2,0.5
+1910-1911,23,1911-01-28,Aston Villa,Bradford City,4,1,1.0
+1910-1911,23,1911-01-28,Notts County,The Wednesday,2,0,1.0
+1910-1911,24,1911-01-28,Sheffield Utd,Blackburn,1,1,0.5
+1910-1911,24,1911-01-28,Bury,Nott'ham Forest,1,0,1.0
+1910-1911,24,1911-01-28,Middlesbrough,Newcastle Utd,0,2,0.0
+1910-1911,25,1911-01-28,Manchester Utd,Everton,2,2,0.5
+1910-1911,25,1911-01-28,Liverpool,Manchester City,1,1,0.5
+1910-1911,26,1911-01-28,Preston,Bristol City,4,0,1.0
+1910-1911,24,1911-02-04,Bristol City,Notts County,1,0,1.0
+1910-1911,25,1911-02-04,Sunderland,Bury,4,1,1.0
+1910-1911,25,1911-02-04,Nott'ham Forest,Sheffield Utd,1,2,0.0
+1910-1911,23,1911-02-11,Arsenal,Bradford City,0,0,0.5
+1910-1911,24,1911-02-11,Aston Villa,Nott'ham Forest,3,1,1.0
+1910-1911,25,1911-02-11,Middlesbrough,Oldham Athletic,1,2,0.0
+1910-1911,25,1911-02-11,Sunderland,Blackburn,2,2,0.5
+1910-1911,26,1911-02-11,Bury,Everton,0,0,0.5
+1910-1911,26,1911-02-11,Sheffield Utd,Manchester City,2,2,0.5
+1910-1911,26,1911-02-11,Liverpool,The Wednesday,3,0,1.0
+1910-1911,26,1911-02-11,Manchester Utd,Bristol City,3,1,1.0
+1910-1911,27,1911-02-11,Notts County,Newcastle Utd,2,2,0.5
+1910-1911,27,1911-02-11,Preston,Tottenham,2,0,1.0
+1910-1911,26,1911-02-13,Tottenham,Middlesbrough,6,2,1.0
+1910-1911,24,1911-02-18,Blackburn,Arsenal,1,0,1.0
+1910-1911,26,1911-02-18,Tottenham,Notts County,3,0,1.0
+1910-1911,26,1911-02-18,Oldham Athletic,Bradford City,1,0,1.0
+1910-1911,27,1911-02-18,The Wednesday,Bury,1,0,1.0
+1910-1911,27,1911-02-18,Everton,Sheffield Utd,1,0,1.0
+1910-1911,27,1911-02-18,Newcastle Utd,Manchester Utd,0,1,0.0
+1910-1911,27,1911-02-18,Nott'ham Forest,Sunderland,1,3,0.0
+1910-1911,27,1911-02-18,Bristol City,Liverpool,1,1,0.5
+1910-1911,27,1911-02-18,Manchester City,Aston Villa,1,1,0.5
+1910-1911,28,1911-02-18,Middlesbrough,Preston,2,0,1.0
+1910-1911,25,1911-02-25,Arsenal,Nott'ham Forest,3,2,1.0
+1910-1911,26,1911-02-25,Aston Villa,Tottenham,4,0,1.0
+1910-1911,28,1911-02-25,Bury,Bristol City,2,1,1.0
+1910-1911,28,1911-02-25,Sunderland,Manchester City,4,0,1.0
+1910-1911,28,1911-02-25,Sheffield Utd,The Wednesday,0,1,0.0
+1910-1911,29,1911-02-25,Preston,Oldham Athletic,1,1,0.5
+1910-1911,28,1911-02-27,Liverpool,Newcastle Utd,3,0,1.0
+1910-1911,27,1911-02-28,Bradford City,Blackburn,1,0,1.0
+1910-1911,26,1911-03-04,Manchester City,Arsenal,1,1,0.5
+1910-1911,27,1911-03-04,The Wednesday,Aston Villa,1,0,1.0
+1910-1911,28,1911-03-04,Middlesbrough,Manchester Utd,2,2,0.5
+1910-1911,28,1911-03-04,Nott'ham Forest,Bradford City,0,2,0.0
+1910-1911,28,1911-03-04,Everton,Sunderland,2,2,0.5
+1910-1911,28,1911-03-04,Oldham Athletic,Blackburn,2,0,1.0
+1910-1911,29,1911-03-04,Bristol City,Sheffield Utd,0,2,0.0
+1910-1911,29,1911-03-04,Tottenham,Liverpool,1,0,1.0
+1910-1911,29,1911-03-04,Newcastle Utd,Bury,5,1,1.0
+1910-1911,30,1911-03-04,Preston,Notts County,2,0,1.0
+1910-1911,27,1911-03-06,Oldham Athletic,Arsenal,3,0,1.0
+1910-1911,28,1911-03-11,Aston Villa,Bristol City,2,0,1.0
+1910-1911,28,1911-03-11,Arsenal,Everton,1,0,1.0
+1910-1911,28,1911-03-11,Notts County,Oldham Athletic,1,0,1.0
+1910-1911,30,1911-03-11,Liverpool,Middlesbrough,3,0,1.0
+1910-1911,30,1911-03-11,Sunderland,The Wednesday,1,2,0.0
+1910-1911,30,1911-03-11,Bury,Tottenham,2,1,1.0
+1910-1911,31,1911-03-11,Manchester Utd,Preston,5,0,1.0
+1910-1911,30,1911-03-14,Bradford City,Manchester City,1,0,1.0
+1910-1911,29,1911-03-15,Arsenal,Aston Villa,1,1,0.5
+1910-1911,30,1911-03-15,Manchester Utd,Tottenham,3,2,1.0
+1910-1911,29,1911-03-18,Manchester City,Blackburn,0,0,0.5
+1910-1911,30,1911-03-18,Tottenham,Sheffield Utd,2,1,1.0
+1910-1911,30,1911-03-18,The Wednesday,Arsenal,0,0,0.5
+1910-1911,30,1911-03-18,Newcastle Utd,Aston Villa,1,0,1.0
+1910-1911,30,1911-03-18,Everton,Bradford City,0,0,0.5
+1910-1911,31,1911-03-18,Bristol City,Sunderland,1,1,0.5
+1910-1911,31,1911-03-18,Middlesbrough,Bury,2,1,1.0
+1910-1911,31,1911-03-18,Notts County,Manchester Utd,1,0,1.0
+1910-1911,32,1911-03-18,Preston,Liverpool,2,1,1.0
+1910-1911,32,1911-03-18,Oldham Athletic,Nott'ham Forest,2,0,1.0
+1910-1911,31,1911-03-25,Arsenal,Bristol City,3,0,1.0
+1910-1911,32,1911-03-25,Liverpool,Notts County,2,1,1.0
+1910-1911,32,1911-03-25,Manchester Utd,Oldham Athletic,0,0,0.5
+1910-1911,32,1911-03-25,Nott'ham Forest,Manchester City,0,0,0.5
+1910-1911,33,1911-03-25,Bury,Preston,1,0,1.0
+1910-1911,30,1911-03-27,Blackburn,Nott'ham Forest,4,1,1.0
+1910-1911,31,1911-03-27,Sheffield Utd,Middlesbrough,2,1,1.0
+1910-1911,31,1911-03-27,Aston Villa,Everton,2,1,1.0
+1910-1911,33,1911-03-27,Tottenham,Oldham Athletic,2,0,1.0
+1910-1911,31,1911-04-01,The Wednesday,Blackburn,1,0,1.0
+1910-1911,31,1911-04-01,Bristol City,Bradford City,0,2,0.0
+1910-1911,32,1911-04-01,Newcastle Utd,Arsenal,0,1,0.0
+1910-1911,32,1911-04-01,Tottenham,Sunderland,1,1,0.5
+1910-1911,32,1911-04-01,Middlesbrough,Aston Villa,0,1,0.0
+1910-1911,33,1911-04-01,Manchester Utd,Liverpool,2,0,1.0
+1910-1911,33,1911-04-01,Oldham Athletic,Manchester City,1,1,0.5
+1910-1911,33,1911-04-01,Notts County,Bury,1,0,1.0
+1910-1911,34,1911-04-01,Preston,Sheffield Utd,1,1,0.5
+1910-1911,33,1911-04-03,Sheffield Utd,Newcastle Utd,0,0,0.5
+1910-1911,32,1911-04-04,Bradford City,The Wednesday,5,2,1.0
+1910-1911,34,1911-04-05,Nott'ham Forest,Newcastle Utd,0,1,0.0
+1910-1911,32,1911-04-06,Blackburn,Everton,0,1,0.0
+1910-1911,32,1911-04-08,Sheffield Utd,Notts County,0,2,0.0
+1910-1911,33,1911-04-08,Arsenal,Tottenham,2,0,1.0
+1910-1911,33,1911-04-08,Manchester City,Everton,2,1,1.0
+1910-1911,33,1911-04-08,Sunderland,Middlesbrough,3,1,1.0
+1910-1911,33,1911-04-08,Blackburn,Bristol City,2,0,1.0
+1910-1911,34,1911-04-08,Liverpool,Oldham Athletic,1,0,1.0
+1910-1911,34,1911-04-08,Bury,Manchester Utd,0,3,0.0
+1910-1911,35,1911-04-08,Bradford City,Newcastle Utd,1,0,1.0
+1910-1911,35,1911-04-08,Aston Villa,Preston,0,2,0.0
+1910-1911,36,1911-04-08,Nott'ham Forest,The Wednesday,0,1,0.0
+1910-1911,34,1911-04-11,Bradford City,Sunderland,3,0,1.0
+1910-1911,34,1911-04-14,Arsenal,Liverpool,0,0,0.5
+1910-1911,34,1911-04-14,Notts County,Blackburn,2,0,1.0
+1910-1911,34,1911-04-14,Aston Villa,Sheffield Utd,3,0,1.0
+1910-1911,34,1911-04-14,Everton,Nott'ham Forest,2,1,1.0
+1910-1911,35,1911-04-14,Manchester City,Middlesbrough,2,1,1.0
+1910-1911,35,1911-04-14,Oldham Athletic,Bristol City,1,0,1.0
+1910-1911,35,1911-04-14,Bury,Sunderland,0,0,0.5
+1910-1911,36,1911-04-14,Newcastle Utd,The Wednesday,0,2,0.0
+1910-1911,35,1911-04-15,Manchester Utd,Sheffield Utd,1,1,0.5
+1910-1911,35,1911-04-15,Notts County,Aston Villa,1,2,0.0
+1910-1911,35,1911-04-15,Oldham Athletic,Everton,2,0,1.0
+1910-1911,35,1911-04-15,Middlesbrough,Arsenal,1,1,0.5
+1910-1911,35,1911-04-15,Newcastle Utd,Blackburn,2,2,0.5
+1910-1911,36,1911-04-15,The Wednesday,Manchester City,4,1,1.0
+1910-1911,36,1911-04-15,Tottenham,Bradford City,2,0,1.0
+1910-1911,36,1911-04-15,Liverpool,Bury,2,0,1.0
+1910-1911,36,1911-04-15,Preston,Sunderland,0,2,0.0
+1910-1911,36,1911-04-15,Bristol City,Nott'ham Forest,5,1,1.0
+1910-1911,35,1911-04-17,Bradford City,Notts County,0,1,0.0
+1910-1911,36,1911-04-17,Liverpool,Arsenal,1,1,0.5
+1910-1911,36,1911-04-17,Tottenham,Everton,0,1,0.0
+1910-1911,36,1911-04-17,The Wednesday,Manchester Utd,0,0,0.5
+1910-1911,37,1911-04-17,Oldham Athletic,Sheffield Utd,3,0,1.0
+1910-1911,36,1911-04-18,Notts County,Middlesbrough,1,0,1.0
+1910-1911,36,1911-04-22,Aston Villa,Manchester Utd,4,2,1.0
+1910-1911,36,1911-04-22,Blackburn,Tottenham,3,0,1.0
+1910-1911,37,1911-04-22,Arsenal,Preston,2,0,1.0
+1910-1911,37,1911-04-22,Sunderland,Notts County,1,1,0.5
+1910-1911,37,1911-04-22,Manchester City,Bristol City,1,2,0.0
+1910-1911,37,1911-04-22,Everton,The Wednesday,1,1,0.5
+1910-1911,37,1911-04-22,Oldham Athletic,Bury,0,0,0.5
+1910-1911,37,1911-04-24,Blackburn,Aston Villa,0,0,0.5
+1910-1911,37,1911-04-27,Bradford City,Middlesbrough,1,0,1.0
+1910-1911,38,1911-04-29,Bristol City,Everton,0,1,0.0
+1910-1911,38,1911-04-29,Middlesbrough,Blackburn,2,3,0.0
+1910-1911,38,1911-04-29,Preston,Bradford City,2,0,1.0
+1910-1911,38,1911-04-29,The Wednesday,Oldham Athletic,2,0,1.0
+1910-1911,38,1911-04-29,Notts County,Arsenal,0,2,0.0
+1910-1911,38,1911-04-29,Manchester Utd,Sunderland,5,1,1.0
+1910-1911,38,1911-04-29,Liverpool,Aston Villa,3,1,1.0
+1910-1911,38,1911-04-29,Bury,Sheffield Utd,1,1,0.5
+1910-1911,38,1911-04-29,Newcastle Utd,Manchester City,3,3,0.5

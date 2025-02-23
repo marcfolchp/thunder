@@ -1,0 +1,297 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,Regular season,1,2015-07-17,Wisła Kraków,Górnik Zabrze,1,1,0.5
+2015-2016,Regular season,1,2015-07-17,Lechia Gdańsk,Cracovia,0,1,0.0
+2015-2016,Regular season,1,2015-07-18,Ruch Chorzów,Górnik Łęczna,0,2,0.0
+2015-2016,Regular season,1,2015-07-18,Zagłębie Lubin,Podbeskidzie,1,1,0.5
+2015-2016,Regular season,1,2015-07-18,Lech Poznań,Pogoń Szczecin,1,2,0.0
+2015-2016,Regular season,1,2015-07-19,Korona Kielce,Jagiellonia,3,2,1.0
+2015-2016,Regular season,1,2015-07-19,Śląsk Wrocław,Legia Warsaw,1,4,0.0
+2015-2016,Regular season,1,2015-07-20,Piast Gliwice,Nieciecza,1,0,1.0
+2015-2016,Regular season,2,2015-07-24,Ruch Chorzów,Piast Gliwice,2,0,1.0
+2015-2016,Regular season,2,2015-07-24,Cracovia,Wisła Kraków,1,1,0.5
+2015-2016,Regular season,2,2015-07-25,Zagłębie Lubin,Korona Kielce,0,2,0.0
+2015-2016,Regular season,2,2015-07-25,Lech Poznań,Lechia Gdańsk,2,1,1.0
+2015-2016,Regular season,2,2015-07-26,Jagiellonia,Nieciecza,2,0,1.0
+2015-2016,Regular season,2,2015-07-26,Pogoń Szczecin,Śląsk Wrocław,1,1,0.5
+2015-2016,Regular season,2,2015-07-26,Legia Warsaw,Podbeskidzie,5,0,1.0
+2015-2016,Regular season,2,2015-07-27,Górnik Łęczna,Górnik Zabrze,2,1,1.0
+2015-2016,Regular season,3,2015-07-31,Piast Gliwice,Górnik Zabrze,3,2,1.0
+2015-2016,Regular season,3,2015-07-31,Lechia Gdańsk,Pogoń Szczecin,1,1,0.5
+2015-2016,Regular season,3,2015-08-01,Podbeskidzie,Cracovia,0,1,0.0
+2015-2016,Regular season,3,2015-08-01,Wisła Kraków,Lech Poznań,2,0,1.0
+2015-2016,Regular season,3,2015-08-02,Śląsk Wrocław,Nieciecza,2,0,1.0
+2015-2016,Regular season,3,2015-08-02,Jagiellonia,Zagłębie Lubin,1,2,0.0
+2015-2016,Regular season,3,2015-08-02,Górnik Łęczna,Legia Warsaw,0,2,0.0
+2015-2016,Regular season,3,2015-08-03,Korona Kielce,Ruch Chorzów,1,2,0.0
+2015-2016,Regular season,4,2015-08-07,Cracovia,Piast Gliwice,1,2,0.0
+2015-2016,Regular season,4,2015-08-07,Nieciecza,Zagłębie Lubin,1,0,1.0
+2015-2016,Regular season,4,2015-08-08,Górnik Zabrze,Jagiellonia,1,3,0.0
+2015-2016,Regular season,4,2015-08-08,Pogoń Szczecin,Górnik Łęczna,0,0,0.5
+2015-2016,Regular season,4,2015-08-08,Lech Poznań,Korona Kielce,0,0,0.5
+2015-2016,Regular season,4,2015-08-09,Śląsk Wrocław,Lechia Gdańsk,0,0,0.5
+2015-2016,Regular season,4,2015-08-09,Legia Warsaw,Wisła Kraków,1,1,0.5
+2015-2016,Regular season,4,2015-08-10,Ruch Chorzów,Podbeskidzie,1,1,0.5
+2015-2016,Regular season,5,2015-08-14,Korona Kielce,Cracovia,0,3,0.0
+2015-2016,Regular season,5,2015-08-14,Zagłębie Lubin,Lech Poznań,2,1,1.0
+2015-2016,Regular season,5,2015-08-15,Nieciecza,Górnik Zabrze,3,0,1.0
+2015-2016,Regular season,5,2015-08-15,Górnik Łęczna,Śląsk Wrocław,2,3,0.0
+2015-2016,Regular season,5,2015-08-15,Piast Gliwice,Legia Warsaw,2,1,1.0
+2015-2016,Regular season,5,2015-08-16,Jagiellonia,Ruch Chorzów,2,1,1.0
+2015-2016,Regular season,5,2015-08-16,Wisła Kraków,Lechia Gdańsk,3,3,0.5
+2015-2016,Regular season,5,2015-08-17,Podbeskidzie,Pogoń Szczecin,2,3,0.0
+2015-2016,Regular season,6,2015-08-21,Pogoń Szczecin,Wisła Kraków,1,1,0.5
+2015-2016,Regular season,6,2015-08-21,Lechia Gdańsk,Górnik Łęczna,3,1,1.0
+2015-2016,Regular season,6,2015-08-22,Ruch Chorzów,Nieciecza,4,1,1.0
+2015-2016,Regular season,6,2015-08-22,Śląsk Wrocław,Podbeskidzie,1,1,0.5
+2015-2016,Regular season,6,2015-08-22,Cracovia,Jagiellonia,1,1,0.5
+2015-2016,Regular season,6,2015-08-23,Lech Poznań,Piast Gliwice,0,1,0.0
+2015-2016,Regular season,6,2015-08-23,Legia Warsaw,Korona Kielce,1,2,0.0
+2015-2016,Regular season,6,2015-08-24,Górnik Zabrze,Zagłębie Lubin,2,2,0.5
+2015-2016,Regular season,7,2015-08-28,Podbeskidzie,Lechia Gdańsk,1,1,0.5
+2015-2016,Regular season,7,2015-08-28,Wisła Kraków,Śląsk Wrocław,4,2,1.0
+2015-2016,Regular season,7,2015-08-29,Piast Gliwice,Górnik Łęczna,3,0,1.0
+2015-2016,Regular season,7,2015-08-29,Zagłębie Lubin,Ruch Chorzów,3,1,1.0
+2015-2016,Regular season,7,2015-08-29,Korona Kielce,Pogoń Szczecin,1,1,0.5
+2015-2016,Regular season,7,2015-08-30,Nieciecza,Lech Poznań,3,1,1.0
+2015-2016,Regular season,7,2015-08-30,Górnik Zabrze,Cracovia,1,1,0.5
+2015-2016,Regular season,7,2015-08-30,Jagiellonia,Legia Warsaw,1,1,0.5
+2015-2016,Regular season,8,2015-09-11,Lechia Gdańsk,Korona Kielce,0,0,0.5
+2015-2016,Regular season,8,2015-09-11,Legia Warsaw,Zagłębie Lubin,2,2,0.5
+2015-2016,Regular season,8,2015-09-12,Śląsk Wrocław,Jagiellonia,3,1,1.0
+2015-2016,Regular season,8,2015-09-12,Cracovia,Nieciecza,2,3,0.0
+2015-2016,Regular season,8,2015-09-12,Lech Poznań,Podbeskidzie,0,1,0.0
+2015-2016,Regular season,8,2015-09-13,Pogoń Szczecin,Piast Gliwice,3,1,1.0
+2015-2016,Regular season,8,2015-09-13,Ruch Chorzów,Górnik Zabrze,1,0,1.0
+2015-2016,Regular season,8,2015-09-14,Górnik Łęczna,Wisła Kraków,1,0,1.0
+2015-2016,Regular season,9,2015-09-18,Górnik Zabrze,Śląsk Wrocław,2,0,1.0
+2015-2016,Regular season,9,2015-09-18,Zagłębie Lubin,Cracovia,4,2,1.0
+2015-2016,Regular season,9,2015-09-19,Nieciecza,Pogoń Szczecin,1,1,0.5
+2015-2016,Regular season,9,2015-09-19,Podbeskidzie,Wisła Kraków,0,6,0.0
+2015-2016,Regular season,9,2015-09-19,Piast Gliwice,Lechia Gdańsk,2,1,1.0
+2015-2016,Regular season,9,2015-09-20,Ruch Chorzów,Legia Warsaw,1,4,0.0
+2015-2016,Regular season,9,2015-09-20,Jagiellonia,Lech Poznań,1,0,1.0
+2015-2016,Regular season,9,2015-09-21,Korona Kielce,Górnik Łęczna,0,2,0.0
+2015-2016,Regular season,10,2015-09-25,Wisła Kraków,Korona Kielce,0,0,0.5
+2015-2016,Regular season,10,2015-09-25,Śląsk Wrocław,Piast Gliwice,1,2,0.0
+2015-2016,Regular season,10,2015-09-26,Górnik Łęczna,Podbeskidzie,1,2,0.0
+2015-2016,Regular season,10,2015-09-26,Cracovia,Ruch Chorzów,2,1,1.0
+2015-2016,Regular season,10,2015-09-26,Lech Poznań,Górnik Zabrze,1,1,0.5
+2015-2016,Regular season,10,2015-09-27,Lechia Gdańsk,Zagłębie Lubin,3,1,1.0
+2015-2016,Regular season,10,2015-09-27,Legia Warsaw,Nieciecza,1,1,0.5
+2015-2016,Regular season,10,2015-09-28,Pogoń Szczecin,Jagiellonia,2,1,1.0
+2015-2016,Regular season,11,2015-10-02,Ruch Chorzów,Pogoń Szczecin,0,2,0.0
+2015-2016,Regular season,11,2015-10-02,Jagiellonia,Lechia Gdańsk,0,3,0.0
+2015-2016,Regular season,11,2015-10-03,Nieciecza,Górnik Łęczna,1,1,0.5
+2015-2016,Regular season,11,2015-10-03,Korona Kielce,Podbeskidzie,0,0,0.5
+2015-2016,Regular season,11,2015-10-03,Piast Gliwice,Wisła Kraków,1,0,1.0
+2015-2016,Regular season,11,2015-10-04,Górnik Zabrze,Legia Warsaw,2,2,0.5
+2015-2016,Regular season,11,2015-10-04,Zagłębie Lubin,Śląsk Wrocław,1,1,0.5
+2015-2016,Regular season,11,2015-10-04,Cracovia,Lech Poznań,5,2,1.0
+2015-2016,Regular season,12,2015-10-16,Lechia Gdańsk,Górnik Zabrze,1,1,0.5
+2015-2016,Regular season,12,2015-10-16,Śląsk Wrocław,Korona Kielce,0,1,0.0
+2015-2016,Regular season,12,2015-10-17,Podbeskidzie,Piast Gliwice,2,2,0.5
+2015-2016,Regular season,12,2015-10-17,Lech Poznań,Ruch Chorzów,2,2,0.5
+2015-2016,Regular season,12,2015-10-17,Górnik Łęczna,Jagiellonia,3,2,1.0
+2015-2016,Regular season,12,2015-10-18,Wisła Kraków,Nieciecza,0,0,0.5
+2015-2016,Regular season,12,2015-10-18,Legia Warsaw,Cracovia,3,1,1.0
+2015-2016,Regular season,12,2015-10-19,Pogoń Szczecin,Zagłębie Lubin,0,0,0.5
+2015-2016,Regular season,13,2015-10-23,Ruch Chorzów,Śląsk Wrocław,1,0,1.0
+2015-2016,Regular season,13,2015-10-23,Jagiellonia,Wisła Kraków,1,4,0.0
+2015-2016,Regular season,13,2015-10-24,Cracovia,Pogoń Szczecin,4,1,1.0
+2015-2016,Regular season,13,2015-10-24,Zagłębie Lubin,Górnik Łęczna,0,0,0.5
+2015-2016,Regular season,13,2015-10-24,Piast Gliwice,Korona Kielce,0,1,0.0
+2015-2016,Regular season,13,2015-10-25,Nieciecza,Lechia Gdańsk,0,1,0.0
+2015-2016,Regular season,13,2015-10-25,Legia Warsaw,Lech Poznań,0,1,0.0
+2015-2016,Regular season,13,2015-10-26,Górnik Zabrze,Podbeskidzie,0,2,0.0
+2015-2016,Regular season,14,2015-10-30,Pogoń Szczecin,Górnik Zabrze,1,1,0.5
+2015-2016,Regular season,14,2015-10-30,Górnik Łęczna,Cracovia,1,0,1.0
+2015-2016,Regular season,14,2015-10-30,Wisła Kraków,Ruch Chorzów,0,0,0.5
+2015-2016,Regular season,14,2015-10-31,Piast Gliwice,Zagłębie Lubin,2,0,1.0
+2015-2016,Regular season,14,2015-10-31,Lechia Gdańsk,Legia Warsaw,1,3,0.0
+2015-2016,Regular season,14,2015-10-31,Śląsk Wrocław,Lech Poznań,1,1,0.5
+2015-2016,Regular season,14,2015-11-02,Korona Kielce,Nieciecza,0,1,0.0
+2015-2016,Regular season,14,2015-11-02,Podbeskidzie,Jagiellonia,1,1,0.5
+2015-2016,Regular season,15,2015-11-06,Zagłębie Lubin,Wisła Kraków,1,3,0.0
+2015-2016,Regular season,15,2015-11-06,Cracovia,Śląsk Wrocław,4,1,1.0
+2015-2016,Regular season,15,2015-11-07,Nieciecza,Podbeskidzie,0,2,0.0
+2015-2016,Regular season,15,2015-11-07,Ruch Chorzów,Lechia Gdańsk,3,2,1.0
+2015-2016,Regular season,15,2015-11-07,Jagiellonia,Piast Gliwice,0,2,0.0
+2015-2016,Regular season,15,2015-11-08,Lech Poznań,Górnik Łęczna,3,1,1.0
+2015-2016,Regular season,15,2015-11-08,Górnik Zabrze,Korona Kielce,0,1,0.0
+2015-2016,Regular season,15,2015-11-08,Legia Warsaw,Pogoń Szczecin,1,0,1.0
+2015-2016,Regular season,16,2015-11-20,Nieciecza,Piast Gliwice,3,5,0.0
+2015-2016,Regular season,16,2015-11-20,Górnik Zabrze,Wisła Kraków,1,1,0.5
+2015-2016,Regular season,16,2015-11-21,Jagiellonia,Korona Kielce,1,0,1.0
+2015-2016,Regular season,16,2015-11-21,Górnik Łęczna,Ruch Chorzów,0,3,0.0
+2015-2016,Regular season,16,2015-11-21,Legia Warsaw,Śląsk Wrocław,1,0,1.0
+2015-2016,Regular season,16,2015-11-22,Podbeskidzie,Zagłębie Lubin,1,2,0.0
+2015-2016,Regular season,16,2015-11-22,Pogoń Szczecin,Lech Poznań,0,2,0.0
+2015-2016,Regular season,16,2015-11-23,Cracovia,Lechia Gdańsk,3,0,1.0
+2015-2016,Regular season,17,2015-11-27,Korona Kielce,Zagłębie Lubin,0,2,0.0
+2015-2016,Regular season,17,2015-11-27,Piast Gliwice,Ruch Chorzów,3,0,1.0
+2015-2016,Regular season,17,2015-11-28,Górnik Zabrze,Górnik Łęczna,1,1,0.5
+2015-2016,Regular season,17,2015-11-28,Śląsk Wrocław,Pogoń Szczecin,0,0,0.5
+2015-2016,Regular season,17,2015-11-29,Lechia Gdańsk,Lech Poznań,0,1,0.0
+2015-2016,Regular season,17,2015-11-29,Podbeskidzie,Legia Warsaw,2,2,0.5
+2015-2016,Regular season,17,2015-11-29,Wisła Kraków,Cracovia,1,2,0.0
+2015-2016,Regular season,18,2015-12-01,Nieciecza,Śląsk Wrocław,1,1,0.5
+2015-2016,Regular season,18,2015-12-01,Ruch Chorzów,Korona Kielce,2,1,1.0
+2015-2016,Regular season,18,2015-12-01,Górnik Zabrze,Piast Gliwice,5,2,1.0
+2015-2016,Regular season,18,2015-12-01,Zagłębie Lubin,Jagiellonia,0,2,0.0
+2015-2016,Regular season,18,2015-12-02,Legia Warsaw,Górnik Łęczna,2,1,1.0
+2015-2016,Regular season,18,2015-12-02,Pogoń Szczecin,Lechia Gdańsk,1,0,1.0
+2015-2016,Regular season,18,2015-12-02,Cracovia,Podbeskidzie,4,1,1.0
+2015-2016,Regular season,18,2015-12-02,Lech Poznań,Wisła Kraków,2,0,1.0
+2015-2016,Regular season,19,2015-12-04,Zagłębie Lubin,Nieciecza,2,0,1.0
+2015-2016,Regular season,19,2015-12-04,Jagiellonia,Górnik Zabrze,2,3,0.0
+2015-2016,Regular season,19,2015-12-05,Korona Kielce,Lech Poznań,0,1,0.0
+2015-2016,Regular season,19,2015-12-05,Piast Gliwice,Cracovia,2,2,0.5
+2015-2016,Regular season,19,2015-12-05,Podbeskidzie,Ruch Chorzów,1,1,0.5
+2015-2016,Regular season,19,2015-12-06,Lechia Gdańsk,Śląsk Wrocław,1,0,1.0
+2015-2016,Regular season,19,2015-12-06,Wisła Kraków,Legia Warsaw,0,2,0.0
+2015-2016,Regular season,19,2015-12-07,Górnik Łęczna,Pogoń Szczecin,2,3,0.0
+2015-2016,Regular season,20,2015-12-11,Śląsk Wrocław,Górnik Łęczna,2,1,1.0
+2015-2016,Regular season,20,2015-12-11,Ruch Chorzów,Jagiellonia,0,4,0.0
+2015-2016,Regular season,20,2015-12-12,Pogoń Szczecin,Podbeskidzie,2,0,1.0
+2015-2016,Regular season,20,2015-12-12,Lechia Gdańsk,Wisła Kraków,2,0,1.0
+2015-2016,Regular season,20,2015-12-12,Górnik Zabrze,Nieciecza,0,0,0.5
+2015-2016,Regular season,20,2015-12-13,Lech Poznań,Zagłębie Lubin,2,0,1.0
+2015-2016,Regular season,20,2015-12-13,Legia Warsaw,Piast Gliwice,1,1,0.5
+2015-2016,Regular season,20,2015-12-14,Cracovia,Korona Kielce,2,2,0.5
+2015-2016,Regular season,17,2015-12-16,Nieciecza,Jagiellonia,2,0,1.0
+2015-2016,Regular season,21,2015-12-18,Zagłębie Lubin,Górnik Zabrze,2,4,0.0
+2015-2016,Regular season,21,2015-12-18,Wisła Kraków,Pogoń Szczecin,0,1,0.0
+2015-2016,Regular season,21,2015-12-19,Nieciecza,Ruch Chorzów,0,1,0.0
+2015-2016,Regular season,21,2015-12-19,Górnik Łęczna,Lechia Gdańsk,3,1,1.0
+2015-2016,Regular season,21,2015-12-19,Jagiellonia,Cracovia,2,2,0.5
+2015-2016,Regular season,21,2015-12-20,Korona Kielce,Legia Warsaw,1,3,0.0
+2015-2016,Regular season,21,2015-12-20,Piast Gliwice,Lech Poznań,2,0,1.0
+2015-2016,Regular season,21,2015-12-21,Podbeskidzie,Śląsk Wrocław,0,1,0.0
+2015-2016,Regular season,22,2016-02-12,Ruch Chorzów,Zagłębie Lubin,0,0,0.5
+2015-2016,Regular season,22,2016-02-12,Śląsk Wrocław,Wisła Kraków,1,0,1.0
+2015-2016,Regular season,22,2016-02-13,Górnik Łęczna,Piast Gliwice,0,0,0.5
+2015-2016,Regular season,22,2016-02-13,Lechia Gdańsk,Podbeskidzie,5,0,1.0
+2015-2016,Regular season,22,2016-02-13,Cracovia,Górnik Zabrze,3,0,1.0
+2015-2016,Regular season,22,2016-02-14,Lech Poznań,Nieciecza,5,2,1.0
+2015-2016,Regular season,22,2016-02-14,Legia Warsaw,Jagiellonia,4,0,1.0
+2015-2016,Regular season,22,2016-02-15,Pogoń Szczecin,Korona Kielce,3,2,1.0
+2015-2016,Regular season,23,2016-02-19,Jagiellonia,Śląsk Wrocław,2,1,1.0
+2015-2016,Regular season,23,2016-02-19,Piast Gliwice,Pogoń Szczecin,0,0,0.5
+2015-2016,Regular season,23,2016-02-20,Korona Kielce,Lechia Gdańsk,4,2,1.0
+2015-2016,Regular season,23,2016-02-20,Nieciecza,Cracovia,1,1,0.5
+2015-2016,Regular season,23,2016-02-20,Podbeskidzie,Lech Poznań,4,1,1.0
+2015-2016,Regular season,23,2016-02-21,Zagłębie Lubin,Legia Warsaw,1,2,0.0
+2015-2016,Regular season,23,2016-02-21,Górnik Zabrze,Ruch Chorzów,0,2,0.0
+2015-2016,Regular season,23,2016-02-22,Wisła Kraków,Górnik Łęczna,1,1,0.5
+2015-2016,Regular season,24,2016-02-26,Śląsk Wrocław,Górnik Zabrze,0,0,0.5
+2015-2016,Regular season,24,2016-02-26,Cracovia,Zagłębie Lubin,1,2,0.0
+2015-2016,Regular season,24,2016-02-27,Górnik Łęczna,Korona Kielce,3,2,1.0
+2015-2016,Regular season,24,2016-02-27,Lechia Gdańsk,Piast Gliwice,3,1,1.0
+2015-2016,Regular season,24,2016-02-27,Wisła Kraków,Podbeskidzie,1,2,0.0
+2015-2016,Regular season,24,2016-02-28,Pogoń Szczecin,Nieciecza,1,1,0.5
+2015-2016,Regular season,24,2016-02-28,Lech Poznań,Jagiellonia,0,2,0.0
+2015-2016,Regular season,24,2016-02-28,Legia Warsaw,Ruch Chorzów,2,0,1.0
+2015-2016,Regular season,25,2016-03-01,Podbeskidzie,Górnik Łęczna,2,0,1.0
+2015-2016,Regular season,25,2016-03-01,Zagłębie Lubin,Lechia Gdańsk,1,0,1.0
+2015-2016,Regular season,25,2016-03-02,Nieciecza,Legia Warsaw,3,0,1.0
+2015-2016,Regular season,25,2016-03-02,Ruch Chorzów,Cracovia,2,3,0.0
+2015-2016,Regular season,25,2016-03-02,Jagiellonia,Pogoń Szczecin,0,0,0.5
+2015-2016,Regular season,25,2016-03-02,Górnik Zabrze,Lech Poznań,0,2,0.0
+2015-2016,Regular season,26,2016-03-04,Podbeskidzie,Korona Kielce,1,1,0.5
+2015-2016,Regular season,26,2016-03-04,Wisła Kraków,Piast Gliwice,1,1,0.5
+2015-2016,Regular season,26,2016-03-05,Górnik Łęczna,Nieciecza,1,2,0.0
+2015-2016,Regular season,26,2016-03-05,Śląsk Wrocław,Zagłębie Lubin,0,2,0.0
+2015-2016,Regular season,26,2016-03-05,Legia Warsaw,Górnik Zabrze,3,1,1.0
+2015-2016,Regular season,26,2016-03-06,Lechia Gdańsk,Jagiellonia,5,1,1.0
+2015-2016,Regular season,26,2016-03-06,Lech Poznań,Cracovia,2,1,1.0
+2015-2016,Regular season,26,2016-03-07,Pogoń Szczecin,Ruch Chorzów,2,3,0.0
+2015-2016,Regular season,25,2016-03-08,Piast Gliwice,Śląsk Wrocław,1,0,1.0
+2015-2016,Regular season,25,2016-03-08,Korona Kielce,Wisła Kraków,1,1,0.5
+2015-2016,Regular season,27,2016-03-11,Korona Kielce,Śląsk Wrocław,2,2,0.5
+2015-2016,Regular season,27,2016-03-11,Piast Gliwice,Podbeskidzie,3,2,1.0
+2015-2016,Regular season,27,2016-03-12,Jagiellonia,Górnik Łęczna,1,0,1.0
+2015-2016,Regular season,27,2016-03-12,Cracovia,Legia Warsaw,1,2,0.0
+2015-2016,Regular season,27,2016-03-12,Ruch Chorzów,Lech Poznań,1,3,0.0
+2015-2016,Regular season,27,2016-03-13,Zagłębie Lubin,Pogoń Szczecin,1,1,0.5
+2015-2016,Regular season,27,2016-03-13,Górnik Zabrze,Lechia Gdańsk,1,1,0.5
+2015-2016,Regular season,27,2016-03-14,Nieciecza,Wisła Kraków,2,4,0.0
+2015-2016,Regular season,28,2016-03-18,Korona Kielce,Piast Gliwice,1,1,0.5
+2015-2016,Regular season,28,2016-03-18,Wisła Kraków,Jagiellonia,5,1,1.0
+2015-2016,Regular season,28,2016-03-19,Podbeskidzie,Górnik Zabrze,0,0,0.5
+2015-2016,Regular season,28,2016-03-19,Śląsk Wrocław,Ruch Chorzów,0,0,0.5
+2015-2016,Regular season,28,2016-03-19,Lech Poznań,Legia Warsaw,0,2,0.0
+2015-2016,Regular season,28,2016-03-20,Lechia Gdańsk,Nieciecza,1,1,0.5
+2015-2016,Regular season,28,2016-03-20,Górnik Łęczna,Zagłębie Lubin,0,2,0.0
+2015-2016,Regular season,28,2016-03-20,Pogoń Szczecin,Cracovia,2,2,0.5
+2015-2016,Regular season,29,2016-04-01,Górnik Zabrze,Pogoń Szczecin,1,1,0.5
+2015-2016,Regular season,29,2016-04-01,Lech Poznań,Śląsk Wrocław,0,1,0.0
+2015-2016,Regular season,29,2016-04-02,Nieciecza,Korona Kielce,0,1,0.0
+2015-2016,Regular season,29,2016-04-02,Cracovia,Górnik Łęczna,0,0,0.5
+2015-2016,Regular season,29,2016-04-02,Legia Warsaw,Lechia Gdańsk,1,1,0.5
+2015-2016,Regular season,29,2016-04-03,Zagłębie Lubin,Piast Gliwice,4,1,1.0
+2015-2016,Regular season,29,2016-04-03,Ruch Chorzów,Wisła Kraków,2,3,0.0
+2015-2016,Regular season,29,2016-04-04,Jagiellonia,Podbeskidzie,0,3,0.0
+2015-2016,Regular season,30,2016-04-09,Podbeskidzie,Nieciecza,2,0,1.0
+2015-2016,Regular season,30,2016-04-09,Lechia Gdańsk,Ruch Chorzów,2,0,1.0
+2015-2016,Regular season,30,2016-04-09,Wisła Kraków,Zagłębie Lubin,1,1,0.5
+2015-2016,Regular season,30,2016-04-09,Piast Gliwice,Jagiellonia,2,0,1.0
+2015-2016,Regular season,30,2016-04-09,Górnik Łęczna,Lech Poznań,0,1,0.0
+2015-2016,Regular season,30,2016-04-09,Pogoń Szczecin,Legia Warsaw,0,0,0.5
+2015-2016,Regular season,30,2016-04-09,Śląsk Wrocław,Cracovia,2,1,1.0
+2015-2016,Regular season,30,2016-04-09,Korona Kielce,Górnik Zabrze,2,1,1.0
+2015-2016,Championship round,31,2016-04-15,Pogoń Szczecin,Ruch Chorzów,1,1,0.5
+2015-2016,Championship round,31,2016-04-15,Legia Warsaw,Lech Poznań,1,0,1.0
+2015-2016,Relegation round,31,2016-04-16,Korona Kielce,Śląsk Wrocław,1,1,0.5
+2015-2016,Championship round,31,2016-04-16,Zagłębie Lubin,Lechia Gdańsk,1,2,0.0
+2015-2016,Championship round,31,2016-04-16,Piast Gliwice,Cracovia,1,1,0.5
+2015-2016,Relegation round,31,2016-04-17,Podbeskidzie,Nieciecza,0,1,0.0
+2015-2016,Relegation round,31,2016-04-17,Jagiellonia,Górnik Łęczna,2,0,1.0
+2015-2016,Relegation round,31,2016-04-17,Wisła Kraków,Górnik Zabrze,3,1,1.0
+2015-2016,Championship round,32,2016-04-19,Cracovia,Zagłębie Lubin,1,0,1.0
+2015-2016,Championship round,32,2016-04-19,Lech Poznań,Piast Gliwice,2,2,0.5
+2015-2016,Championship round,32,2016-04-19,Lechia Gdańsk,Pogoń Szczecin,2,0,1.0
+2015-2016,Championship round,32,2016-04-19,Ruch Chorzów,Legia Warsaw,0,0,0.5
+2015-2016,Relegation round,32,2016-04-20,Górnik Łęczna,Wisła Kraków,0,3,0.0
+2015-2016,Relegation round,32,2016-04-20,Nieciecza,Korona Kielce,0,0,0.5
+2015-2016,Relegation round,32,2016-04-20,Śląsk Wrocław,Jagiellonia,3,1,1.0
+2015-2016,Relegation round,32,2016-04-20,Górnik Zabrze,Podbeskidzie,1,0,1.0
+2015-2016,Championship round,33,2016-04-22,Zagłębie Lubin,Ruch Chorzów,4,1,1.0
+2015-2016,Championship round,33,2016-04-22,Legia Warsaw,Cracovia,4,0,1.0
+2015-2016,Relegation round,33,2016-04-23,Korona Kielce,Górnik Łęczna,1,1,0.5
+2015-2016,Relegation round,33,2016-04-23,Podbeskidzie,Śląsk Wrocław,1,2,0.0
+2015-2016,Championship round,33,2016-04-23,Pogoń Szczecin,Lech Poznań,1,0,1.0
+2015-2016,Relegation round,33,2016-04-24,Jagiellonia,Górnik Zabrze,0,0,0.5
+2015-2016,Championship round,33,2016-04-24,Piast Gliwice,Lechia Gdańsk,3,0,1.0
+2015-2016,Relegation round,33,2016-04-25,Wisła Kraków,Nieciecza,2,2,0.5
+2015-2016,Championship round,34,2016-04-28,Zagłębie Lubin,Legia Warsaw,2,0,1.0
+2015-2016,Championship round,34,2016-04-28,Lech Poznań,Lechia Gdańsk,0,0,0.5
+2015-2016,Relegation round,34,2016-04-29,Górnik Zabrze,Śląsk Wrocław,2,1,1.0
+2015-2016,Championship round,34,2016-04-29,Ruch Chorzów,Cracovia,0,1,0.0
+2015-2016,Relegation round,34,2016-04-30,Nieciecza,Górnik Łęczna,0,2,0.0
+2015-2016,Relegation round,34,2016-04-30,Korona Kielce,Wisła Kraków,3,2,1.0
+2015-2016,Relegation round,34,2016-05-01,Jagiellonia,Podbeskidzie,3,2,1.0
+2015-2016,Championship round,34,2016-05-01,Piast Gliwice,Pogoń Szczecin,2,1,1.0
+2015-2016,Relegation round,35,2016-05-06,Podbeskidzie,Korona Kielce,1,1,0.5
+2015-2016,Relegation round,35,2016-05-06,Wisła Kraków,Jagiellonia,1,0,1.0
+2015-2016,Relegation round,35,2016-05-07,Śląsk Wrocław,Nieciecza,2,1,1.0
+2015-2016,Relegation round,35,2016-05-07,Górnik Łęczna,Górnik Zabrze,0,0,0.5
+2015-2016,Championship round,35,2016-05-07,Lechia Gdańsk,Ruch Chorzów,2,1,1.0
+2015-2016,Championship round,35,2016-05-08,Pogoń Szczecin,Zagłębie Lubin,1,3,0.0
+2015-2016,Championship round,35,2016-05-08,Cracovia,Lech Poznań,2,0,1.0
+2015-2016,Championship round,35,2016-05-08,Legia Warsaw,Piast Gliwice,4,0,1.0
+2015-2016,Relegation round,36,2016-05-10,Górnik Łęczna,Podbeskidzie,5,1,1.0
+2015-2016,Relegation round,36,2016-05-10,Jagiellonia,Nieciecza,0,1,0.0
+2015-2016,Relegation round,36,2016-05-10,Wisła Kraków,Śląsk Wrocław,1,1,0.5
+2015-2016,Relegation round,36,2016-05-10,Górnik Zabrze,Korona Kielce,0,0,0.5
+2015-2016,Championship round,36,2016-05-11,Ruch Chorzów,Piast Gliwice,0,3,0.0
+2015-2016,Championship round,36,2016-05-11,Zagłębie Lubin,Lech Poznań,3,0,1.0
+2015-2016,Championship round,36,2016-05-11,Lechia Gdańsk,Legia Warsaw,2,0,1.0
+2015-2016,Championship round,36,2016-05-11,Pogoń Szczecin,Cracovia,3,2,1.0
+2015-2016,Relegation round,37,2016-05-14,Śląsk Wrocław,Górnik Łęczna,3,2,1.0
+2015-2016,Relegation round,37,2016-05-14,Podbeskidzie,Wisła Kraków,3,4,0.0
+2015-2016,Relegation round,37,2016-05-14,Korona Kielce,Jagiellonia,1,3,0.0
+2015-2016,Relegation round,37,2016-05-14,Nieciecza,Górnik Zabrze,1,1,0.5
+2015-2016,Championship round,37,2016-05-15,Cracovia,Lechia Gdańsk,2,0,1.0
+2015-2016,Championship round,37,2016-05-15,Legia Warsaw,Pogoń Szczecin,3,0,1.0
+2015-2016,Championship round,37,2016-05-15,Piast Gliwice,Zagłębie Lubin,0,1,0.0
+2015-2016,Championship round,37,2016-05-15,Lech Poznań,Ruch Chorzów,3,0,1.0

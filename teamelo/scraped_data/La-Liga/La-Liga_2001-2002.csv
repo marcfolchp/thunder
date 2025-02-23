@@ -1,381 +1,381 @@
 Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
-2001-2002,1,2001-08-25,Valencia,Real Madrid,1,0,0.0
-2001-2002,1,2001-08-26,Mallorca,Las Palmas,0,3,1.0
-2001-2002,1,2001-08-26,Osasuna,Celta Vigo,0,3,1.0
-2001-2002,1,2001-08-26,Tenerife,Alavés,0,2,1.0
-2001-2002,1,2001-08-26,Real Sociedad,Athletic Club,1,3,1.0
-2001-2002,1,2001-08-26,Sevilla,Barcelona,1,2,1.0
-2001-2002,1,2001-08-26,La Coruña,Valladolid,4,0,0.0
-2001-2002,1,2001-08-26,Rayo Vallecano,Villarreal,1,2,1.0
-2001-2002,1,2001-08-26,Espanyol,Zaragoza,2,1,0.0
-2001-2002,1,2001-08-26,Málaga,Betis,3,2,0.0
-2001-2002,2,2001-09-08,Villarreal,Osasuna,3,0,0.0
+2001-2002,1,2001-08-25,Valencia,Real Madrid,1,0,1.0
+2001-2002,1,2001-08-26,Mallorca,Las Palmas,0,3,0.0
+2001-2002,1,2001-08-26,Osasuna,Celta Vigo,0,3,0.0
+2001-2002,1,2001-08-26,Tenerife,Alavés,0,2,0.0
+2001-2002,1,2001-08-26,Real Sociedad,Athletic Club,1,3,0.0
+2001-2002,1,2001-08-26,Sevilla,Barcelona,1,2,0.0
+2001-2002,1,2001-08-26,La Coruña,Valladolid,4,0,1.0
+2001-2002,1,2001-08-26,Rayo Vallecano,Villarreal,1,2,0.0
+2001-2002,1,2001-08-26,Espanyol,Zaragoza,2,1,1.0
+2001-2002,1,2001-08-26,Málaga,Betis,3,2,1.0
+2001-2002,2,2001-09-08,Villarreal,Osasuna,3,0,1.0
 2001-2002,2,2001-09-08,Real Madrid,Málaga,1,1,0.5
-2001-2002,2,2001-09-08,Athletic Club,Mallorca,0,1,1.0
-2001-2002,2,2001-09-08,Las Palmas,La Coruña,0,1,1.0
+2001-2002,2,2001-09-08,Athletic Club,Mallorca,0,1,0.0
+2001-2002,2,2001-09-08,Las Palmas,La Coruña,0,1,0.0
 2001-2002,2,2001-09-09,Valladolid,Valencia,1,1,0.5
 2001-2002,2,2001-09-09,Barcelona,Rayo Vallecano,1,1,0.5
-2001-2002,2,2001-09-09,Alavés,Real Sociedad,2,0,0.0
-2001-2002,2,2001-09-09,Celta Vigo,Tenerife,3,0,0.0
-2001-2002,2,2001-09-09,Betis,Espanyol,2,0,0.0
+2001-2002,2,2001-09-09,Alavés,Real Sociedad,2,0,1.0
+2001-2002,2,2001-09-09,Celta Vigo,Tenerife,3,0,1.0
+2001-2002,2,2001-09-09,Betis,Espanyol,2,0,1.0
 2001-2002,2,2001-09-09,Zaragoza,Sevilla,1,1,0.5
 2001-2002,3,2001-09-15,Mallorca,Alavés,0,0,0.5
-2001-2002,3,2001-09-15,Betis,Real Madrid,3,1,0.0
-2001-2002,3,2001-09-15,La Coruña,Athletic Club,1,2,1.0
+2001-2002,3,2001-09-15,Betis,Real Madrid,3,1,1.0
+2001-2002,3,2001-09-15,La Coruña,Athletic Club,1,2,0.0
 2001-2002,3,2001-09-15,Osasuna,Barcelona,0,0,0.5
-2001-2002,3,2001-09-16,Málaga,Valladolid,1,2,1.0
-2001-2002,3,2001-09-16,Rayo Vallecano,Zaragoza,1,2,1.0
+2001-2002,3,2001-09-16,Málaga,Valladolid,1,2,0.0
+2001-2002,3,2001-09-16,Rayo Vallecano,Zaragoza,1,2,0.0
 2001-2002,3,2001-09-16,Real Sociedad,Celta Vigo,0,0,0.5
-2001-2002,3,2001-09-16,Tenerife,Villarreal,2,0,0.0
-2001-2002,3,2001-09-16,Espanyol,Sevilla,2,3,1.0
-2001-2002,3,2001-09-16,Valencia,Las Palmas,1,0,0.0
+2001-2002,3,2001-09-16,Tenerife,Villarreal,2,0,1.0
+2001-2002,3,2001-09-16,Espanyol,Sevilla,2,3,0.0
+2001-2002,3,2001-09-16,Valencia,Las Palmas,1,0,1.0
 2001-2002,4,2001-09-22,Las Palmas,Málaga,0,0,0.5
-2001-2002,4,2001-09-22,Real Madrid,Espanyol,5,1,0.0
-2001-2002,4,2001-09-22,Alavés,La Coruña,2,3,1.0
-2001-2002,4,2001-09-22,Villarreal,Real Sociedad,1,0,0.0
-2001-2002,4,2001-09-22,Barcelona,Tenerife,2,0,0.0
-2001-2002,4,2001-09-23,Valladolid,Betis,0,2,1.0
-2001-2002,4,2001-09-23,Zaragoza,Osasuna,0,1,1.0
+2001-2002,4,2001-09-22,Real Madrid,Espanyol,5,1,1.0
+2001-2002,4,2001-09-22,Alavés,La Coruña,2,3,0.0
+2001-2002,4,2001-09-22,Villarreal,Real Sociedad,1,0,1.0
+2001-2002,4,2001-09-22,Barcelona,Tenerife,2,0,1.0
+2001-2002,4,2001-09-23,Valladolid,Betis,0,2,0.0
+2001-2002,4,2001-09-23,Zaragoza,Osasuna,0,1,0.0
 2001-2002,4,2001-09-23,Athletic Club,Valencia,2,2,0.5
-2001-2002,4,2001-09-23,Sevilla,Rayo Vallecano,2,1,0.0
-2001-2002,4,2001-09-23,Celta Vigo,Mallorca,2,0,0.0
+2001-2002,4,2001-09-23,Sevilla,Rayo Vallecano,2,1,1.0
+2001-2002,4,2001-09-23,Celta Vigo,Mallorca,2,0,1.0
 2001-2002,5,2001-09-29,Real Madrid,Valladolid,2,2,0.5
-2001-2002,5,2001-09-29,Real Sociedad,Barcelona,0,2,1.0
-2001-2002,5,2001-09-29,Málaga,Athletic Club,1,2,1.0
-2001-2002,5,2001-09-29,Espanyol,Rayo Vallecano,3,1,0.0
-2001-2002,5,2001-09-30,Osasuna,Sevilla,1,0,0.0
-2001-2002,5,2001-09-30,Betis,Las Palmas,1,0,0.0
+2001-2002,5,2001-09-29,Real Sociedad,Barcelona,0,2,0.0
+2001-2002,5,2001-09-29,Málaga,Athletic Club,1,2,0.0
+2001-2002,5,2001-09-29,Espanyol,Rayo Vallecano,3,1,1.0
+2001-2002,5,2001-09-30,Osasuna,Sevilla,1,0,1.0
+2001-2002,5,2001-09-30,Betis,Las Palmas,1,0,1.0
 2001-2002,5,2001-09-30,La Coruña,Celta Vigo,2,2,0.5
 2001-2002,5,2001-09-30,Valencia,Alavés,0,0,0.5
-2001-2002,5,2001-09-30,Mallorca,Villarreal,0,1,1.0
+2001-2002,5,2001-09-30,Mallorca,Villarreal,0,1,0.0
 2001-2002,5,2001-09-30,Tenerife,Zaragoza,0,0,0.5
-2001-2002,6,2001-10-03,Rayo Vallecano,Osasuna,0,1,1.0
-2001-2002,6,2001-10-03,Las Palmas,Real Madrid,4,2,0.0
-2001-2002,6,2001-10-03,Alavés,Málaga,1,0,0.0
-2001-2002,6,2001-10-03,Sevilla,Tenerife,2,0,0.0
-2001-2002,6,2001-10-03,Barcelona,Mallorca,3,0,0.0
+2001-2002,6,2001-10-03,Rayo Vallecano,Osasuna,0,1,0.0
+2001-2002,6,2001-10-03,Las Palmas,Real Madrid,4,2,1.0
+2001-2002,6,2001-10-03,Alavés,Málaga,1,0,1.0
+2001-2002,6,2001-10-03,Sevilla,Tenerife,2,0,1.0
+2001-2002,6,2001-10-03,Barcelona,Mallorca,3,0,1.0
 2001-2002,6,2001-10-03,Athletic Club,Betis,0,0,0.5
 2001-2002,6,2001-10-03,Villarreal,La Coruña,1,1,0.5
-2001-2002,6,2001-10-03,Zaragoza,Real Sociedad,3,2,0.0
-2001-2002,6,2001-10-03,Valladolid,Espanyol,0,1,1.0
+2001-2002,6,2001-10-03,Zaragoza,Real Sociedad,3,2,1.0
+2001-2002,6,2001-10-03,Valladolid,Espanyol,0,1,0.0
 2001-2002,6,2001-10-04,Celta Vigo,Valencia,1,1,0.5
-2001-2002,7,2001-10-06,La Coruña,Barcelona,2,1,0.0
-2001-2002,7,2001-10-06,Real Madrid,Athletic Club,2,0,0.0
-2001-2002,7,2001-10-07,Betis,Alavés,1,0,0.0
-2001-2002,7,2001-10-07,Tenerife,Rayo Vallecano,3,1,0.0
+2001-2002,7,2001-10-06,La Coruña,Barcelona,2,1,1.0
+2001-2002,7,2001-10-06,Real Madrid,Athletic Club,2,0,1.0
+2001-2002,7,2001-10-07,Betis,Alavés,1,0,1.0
+2001-2002,7,2001-10-07,Tenerife,Rayo Vallecano,3,1,1.0
 2001-2002,7,2001-10-07,Real Sociedad,Sevilla,3,3,0.5
-2001-2002,7,2001-10-07,Valencia,Villarreal,1,0,0.0
-2001-2002,7,2001-10-07,Mallorca,Zaragoza,0,1,1.0
+2001-2002,7,2001-10-07,Valencia,Villarreal,1,0,1.0
+2001-2002,7,2001-10-07,Mallorca,Zaragoza,0,1,0.0
 2001-2002,7,2001-10-07,Málaga,Celta Vigo,2,2,0.5
-2001-2002,7,2001-10-07,Valladolid,Las Palmas,1,0,0.0
+2001-2002,7,2001-10-07,Valladolid,Las Palmas,1,0,1.0
 2001-2002,7,2001-10-07,Espanyol,Osasuna,1,1,0.5
 2001-2002,8,2001-10-13,Sevilla,Mallorca,2,2,0.5
 2001-2002,8,2001-10-13,Alavés,Real Madrid,0,0,0.5
-2001-2002,8,2001-10-13,Zaragoza,La Coruña,1,2,1.0
-2001-2002,8,2001-10-14,Athletic Club,Valladolid,1,4,1.0
+2001-2002,8,2001-10-13,Zaragoza,La Coruña,1,2,0.0
+2001-2002,8,2001-10-14,Athletic Club,Valladolid,1,4,0.0
 2001-2002,8,2001-10-14,Barcelona,Valencia,2,2,0.5
-2001-2002,8,2001-10-14,Villarreal,Málaga,1,2,1.0
-2001-2002,8,2001-10-14,Rayo Vallecano,Real Sociedad,2,1,0.0
-2001-2002,8,2001-10-14,Celta Vigo,Betis,3,1,0.0
-2001-2002,8,2001-10-14,Las Palmas,Espanyol,2,0,0.0
-2001-2002,8,2001-10-14,Osasuna,Tenerife,0,2,1.0
-2001-2002,9,2001-10-20,Real Sociedad,Osasuna,2,1,0.0
+2001-2002,8,2001-10-14,Villarreal,Málaga,1,2,0.0
+2001-2002,8,2001-10-14,Rayo Vallecano,Real Sociedad,2,1,1.0
+2001-2002,8,2001-10-14,Celta Vigo,Betis,3,1,1.0
+2001-2002,8,2001-10-14,Las Palmas,Espanyol,2,0,1.0
+2001-2002,8,2001-10-14,Osasuna,Tenerife,0,2,0.0
+2001-2002,9,2001-10-20,Real Sociedad,Osasuna,2,1,1.0
 2001-2002,9,2001-10-20,Málaga,Barcelona,1,1,0.5
 2001-2002,9,2001-10-20,Betis,Villarreal,1,1,0.5
-2001-2002,9,2001-10-20,La Coruña,Sevilla,1,0,0.0
+2001-2002,9,2001-10-20,La Coruña,Sevilla,1,0,1.0
 2001-2002,9,2001-10-20,Las Palmas,Athletic Club,1,1,0.5
-2001-2002,9,2001-10-21,Valladolid,Alavés,1,3,1.0
-2001-2002,9,2001-10-21,Mallorca,Rayo Vallecano,3,0,0.0
+2001-2002,9,2001-10-21,Valladolid,Alavés,1,3,0.0
+2001-2002,9,2001-10-21,Mallorca,Rayo Vallecano,3,0,1.0
 2001-2002,9,2001-10-21,Real Madrid,Celta Vigo,1,1,0.5
-2001-2002,9,2001-10-21,Espanyol,Tenerife,2,0,0.0
-2001-2002,9,2001-10-21,Valencia,Zaragoza,2,0,0.0
-2001-2002,10,2001-10-27,Villarreal,Real Madrid,2,3,1.0
-2001-2002,10,2001-10-27,Barcelona,Betis,3,0,0.0
-2001-2002,10,2001-10-27,Osasuna,Mallorca,4,0,0.0
-2001-2002,10,2001-10-27,Tenerife,Real Sociedad,0,1,1.0
-2001-2002,10,2001-10-27,Rayo Vallecano,La Coruña,2,1,0.0
+2001-2002,9,2001-10-21,Espanyol,Tenerife,2,0,1.0
+2001-2002,9,2001-10-21,Valencia,Zaragoza,2,0,1.0
+2001-2002,10,2001-10-27,Villarreal,Real Madrid,2,3,0.0
+2001-2002,10,2001-10-27,Barcelona,Betis,3,0,1.0
+2001-2002,10,2001-10-27,Osasuna,Mallorca,4,0,1.0
+2001-2002,10,2001-10-27,Tenerife,Real Sociedad,0,1,0.0
+2001-2002,10,2001-10-27,Rayo Vallecano,La Coruña,2,1,1.0
 2001-2002,10,2001-10-28,Athletic Club,Espanyol,1,1,0.5
-2001-2002,10,2001-10-28,Alavés,Las Palmas,1,0,0.0
+2001-2002,10,2001-10-28,Alavés,Las Palmas,1,0,1.0
 2001-2002,10,2001-10-28,Celta Vigo,Valladolid,1,1,0.5
-2001-2002,10,2001-10-28,Zaragoza,Málaga,0,2,1.0
+2001-2002,10,2001-10-28,Zaragoza,Málaga,0,2,0.0
 2001-2002,10,2001-10-28,Sevilla,Valencia,1,1,0.5
-2001-2002,11,2001-11-03,Athletic Club,Alavés,2,1,0.0
-2001-2002,11,2001-11-04,Valencia,Rayo Vallecano,2,1,0.0
-2001-2002,11,2001-11-04,Málaga,Sevilla,1,3,1.0
-2001-2002,11,2001-11-04,Valladolid,Villarreal,1,0,0.0
-2001-2002,11,2001-11-04,Real Madrid,Barcelona,2,0,0.0
-2001-2002,11,2001-11-04,Espanyol,Real Sociedad,1,2,1.0
-2001-2002,11,2001-11-04,Las Palmas,Celta Vigo,4,2,0.0
-2001-2002,11,2001-11-04,Mallorca,Tenerife,2,0,0.0
-2001-2002,11,2001-11-04,Betis,Zaragoza,0,1,1.0
-2001-2002,11,2001-11-04,La Coruña,Osasuna,5,1,0.0
+2001-2002,11,2001-11-03,Athletic Club,Alavés,2,1,1.0
+2001-2002,11,2001-11-04,Valencia,Rayo Vallecano,2,1,1.0
+2001-2002,11,2001-11-04,Málaga,Sevilla,1,3,0.0
+2001-2002,11,2001-11-04,Valladolid,Villarreal,1,0,1.0
+2001-2002,11,2001-11-04,Real Madrid,Barcelona,2,0,1.0
+2001-2002,11,2001-11-04,Espanyol,Real Sociedad,1,2,0.0
+2001-2002,11,2001-11-04,Las Palmas,Celta Vigo,4,2,1.0
+2001-2002,11,2001-11-04,Mallorca,Tenerife,2,0,1.0
+2001-2002,11,2001-11-04,Betis,Zaragoza,0,1,0.0
+2001-2002,11,2001-11-04,La Coruña,Osasuna,5,1,1.0
 2001-2002,12,2001-11-10,Sevilla,Betis,0,0,0.5
 2001-2002,12,2001-11-11,Osasuna,Valencia,0,0,0.5
-2001-2002,12,2001-11-11,Barcelona,Valladolid,4,0,0.0
-2001-2002,12,2001-11-11,Celta Vigo,Athletic Club,2,3,1.0
-2001-2002,12,2001-11-11,Villarreal,Las Palmas,2,0,0.0
-2001-2002,12,2001-11-11,Real Sociedad,Mallorca,1,2,1.0
-2001-2002,12,2001-11-11,Rayo Vallecano,Málaga,3,0,0.0
-2001-2002,12,2001-11-11,Alavés,Espanyol,2,1,0.0
-2001-2002,12,2001-11-11,Tenerife,La Coruña,3,1,0.0
-2001-2002,12,2001-11-11,Zaragoza,Real Madrid,2,1,0.0
+2001-2002,12,2001-11-11,Barcelona,Valladolid,4,0,1.0
+2001-2002,12,2001-11-11,Celta Vigo,Athletic Club,2,3,0.0
+2001-2002,12,2001-11-11,Villarreal,Las Palmas,2,0,1.0
+2001-2002,12,2001-11-11,Real Sociedad,Mallorca,1,2,0.0
+2001-2002,12,2001-11-11,Rayo Vallecano,Málaga,3,0,1.0
+2001-2002,12,2001-11-11,Alavés,Espanyol,2,1,1.0
+2001-2002,12,2001-11-11,Tenerife,La Coruña,3,1,1.0
+2001-2002,12,2001-11-11,Zaragoza,Real Madrid,2,1,1.0
 2001-2002,13,2001-11-17,Las Palmas,Barcelona,0,0,0.5
-2001-2002,13,2001-11-17,Real Madrid,Sevilla,2,1,0.0
-2001-2002,13,2001-11-17,La Coruña,Real Sociedad,3,1,0.0
-2001-2002,13,2001-11-18,Valladolid,Zaragoza,2,0,0.0
-2001-2002,13,2001-11-18,Alavés,Celta Vigo,1,0,0.0
+2001-2002,13,2001-11-17,Real Madrid,Sevilla,2,1,1.0
+2001-2002,13,2001-11-17,La Coruña,Real Sociedad,3,1,1.0
+2001-2002,13,2001-11-18,Valladolid,Zaragoza,2,0,1.0
+2001-2002,13,2001-11-18,Alavés,Celta Vigo,1,0,1.0
 2001-2002,13,2001-11-18,Valencia,Tenerife,0,0,0.5
 2001-2002,13,2001-11-18,Athletic Club,Villarreal,0,0,0.5
-2001-2002,13,2001-11-18,Málaga,Osasuna,2,1,0.0
-2001-2002,13,2001-11-18,Betis,Rayo Vallecano,2,0,0.0
-2001-2002,13,2001-11-18,Espanyol,Mallorca,2,1,0.0
-2001-2002,14,2001-11-24,Barcelona,Athletic Club,1,2,1.0
-2001-2002,14,2001-11-25,Osasuna,Betis,1,2,1.0
-2001-2002,14,2001-11-25,Zaragoza,Las Palmas,2,1,0.0
-2001-2002,14,2001-11-25,Tenerife,Málaga,1,0,0.0
-2001-2002,14,2001-11-25,Villarreal,Alavés,1,0,0.0
-2001-2002,14,2001-11-25,Rayo Vallecano,Real Madrid,0,3,1.0
-2001-2002,14,2001-11-25,Celta Vigo,Espanyol,4,1,0.0
-2001-2002,14,2001-11-25,Real Sociedad,Valencia,2,0,0.0
-2001-2002,14,2001-11-25,Mallorca,La Coruña,4,1,0.0
-2001-2002,14,2001-11-25,Sevilla,Valladolid,4,0,0.0
+2001-2002,13,2001-11-18,Málaga,Osasuna,2,1,1.0
+2001-2002,13,2001-11-18,Betis,Rayo Vallecano,2,0,1.0
+2001-2002,13,2001-11-18,Espanyol,Mallorca,2,1,1.0
+2001-2002,14,2001-11-24,Barcelona,Athletic Club,1,2,0.0
+2001-2002,14,2001-11-25,Osasuna,Betis,1,2,0.0
+2001-2002,14,2001-11-25,Zaragoza,Las Palmas,2,1,1.0
+2001-2002,14,2001-11-25,Tenerife,Málaga,1,0,1.0
+2001-2002,14,2001-11-25,Villarreal,Alavés,1,0,1.0
+2001-2002,14,2001-11-25,Rayo Vallecano,Real Madrid,0,3,0.0
+2001-2002,14,2001-11-25,Celta Vigo,Espanyol,4,1,1.0
+2001-2002,14,2001-11-25,Real Sociedad,Valencia,2,0,1.0
+2001-2002,14,2001-11-25,Mallorca,La Coruña,4,1,1.0
+2001-2002,14,2001-11-25,Sevilla,Valladolid,4,0,1.0
 2001-2002,15,2001-12-01,Valencia,Mallorca,1,1,0.5
-2001-2002,15,2001-12-01,Real Madrid,Osasuna,2,1,0.0
-2001-2002,15,2001-12-01,Espanyol,La Coruña,1,0,0.0
-2001-2002,15,2001-12-01,Alavés,Barcelona,2,0,0.0
-2001-2002,15,2001-12-02,Málaga,Real Sociedad,1,0,0.0
-2001-2002,15,2001-12-02,Athletic Club,Zaragoza,2,1,0.0
-2001-2002,15,2001-12-02,Valladolid,Rayo Vallecano,3,1,0.0
-2001-2002,15,2001-12-02,Celta Vigo,Villarreal,3,1,0.0
-2001-2002,15,2001-12-02,Las Palmas,Sevilla,1,0,0.0
-2001-2002,15,2001-12-02,Betis,Tenerife,1,0,0.0
-2001-2002,16,2001-12-08,Tenerife,Real Madrid,0,2,1.0
+2001-2002,15,2001-12-01,Real Madrid,Osasuna,2,1,1.0
+2001-2002,15,2001-12-01,Espanyol,La Coruña,1,0,1.0
+2001-2002,15,2001-12-01,Alavés,Barcelona,2,0,1.0
+2001-2002,15,2001-12-02,Málaga,Real Sociedad,1,0,1.0
+2001-2002,15,2001-12-02,Athletic Club,Zaragoza,2,1,1.0
+2001-2002,15,2001-12-02,Valladolid,Rayo Vallecano,3,1,1.0
+2001-2002,15,2001-12-02,Celta Vigo,Villarreal,3,1,1.0
+2001-2002,15,2001-12-02,Las Palmas,Sevilla,1,0,1.0
+2001-2002,15,2001-12-02,Betis,Tenerife,1,0,1.0
+2001-2002,16,2001-12-08,Tenerife,Real Madrid,0,2,0.0
 2001-2002,16,2001-12-08,Sevilla,Athletic Club,3,3,0.5
-2001-2002,16,2001-12-09,Zaragoza,Alavés,0,2,1.0
+2001-2002,16,2001-12-09,Zaragoza,Alavés,0,2,0.0
 2001-2002,16,2001-12-09,Villarreal,Espanyol,1,1,0.5
 2001-2002,16,2001-12-09,Mallorca,Málaga,1,1,0.5
 2001-2002,16,2001-12-09,Rayo Vallecano,Las Palmas,0,0,0.5
-2001-2002,16,2001-12-09,Osasuna,Valladolid,1,0,0.0
-2001-2002,16,2001-12-09,La Coruña,Valencia,1,0,0.0
+2001-2002,16,2001-12-09,Osasuna,Valladolid,1,0,1.0
+2001-2002,16,2001-12-09,La Coruña,Valencia,1,0,1.0
 2001-2002,16,2001-12-09,Real Sociedad,Betis,0,0,0.5
 2001-2002,16,2001-12-09,Barcelona,Celta Vigo,2,2,0.5
 2001-2002,17,2001-12-15,Las Palmas,Osasuna,1,1,0.5
-2001-2002,17,2001-12-15,Espanyol,Valencia,2,3,1.0
-2001-2002,17,2001-12-15,Real Madrid,Real Sociedad,3,1,0.0
-2001-2002,17,2001-12-16,Celta Vigo,Zaragoza,2,0,0.0
+2001-2002,17,2001-12-15,Espanyol,Valencia,2,3,0.0
+2001-2002,17,2001-12-15,Real Madrid,Real Sociedad,3,1,1.0
+2001-2002,17,2001-12-16,Celta Vigo,Zaragoza,2,0,1.0
 2001-2002,17,2001-12-16,Valladolid,Tenerife,0,0,0.5
 2001-2002,17,2001-12-16,Athletic Club,Rayo Vallecano,1,1,0.5
 2001-2002,17,2001-12-16,Málaga,La Coruña,1,1,0.5
-2001-2002,17,2001-12-16,Villarreal,Barcelona,0,1,1.0
-2001-2002,17,2001-12-16,Betis,Mallorca,1,0,0.0
-2001-2002,17,2001-12-16,Alavés,Sevilla,0,1,1.0
-2001-2002,18,2001-12-22,Espanyol,Barcelona,2,0,0.0
-2001-2002,18,2001-12-22,Real Sociedad,Valladolid,6,0,0.0
-2001-2002,18,2001-12-22,Tenerife,Las Palmas,1,3,1.0
-2001-2002,18,2001-12-22,Valencia,Málaga,2,1,0.0
-2001-2002,18,2001-12-22,Sevilla,Celta Vigo,0,1,1.0
-2001-2002,18,2001-12-22,La Coruña,Betis,2,0,0.0
-2001-2002,18,2001-12-23,Osasuna,Athletic Club,0,1,1.0
+2001-2002,17,2001-12-16,Villarreal,Barcelona,0,1,0.0
+2001-2002,17,2001-12-16,Betis,Mallorca,1,0,1.0
+2001-2002,17,2001-12-16,Alavés,Sevilla,0,1,0.0
+2001-2002,18,2001-12-22,Espanyol,Barcelona,2,0,1.0
+2001-2002,18,2001-12-22,Real Sociedad,Valladolid,6,0,1.0
+2001-2002,18,2001-12-22,Tenerife,Las Palmas,1,3,0.0
+2001-2002,18,2001-12-22,Valencia,Málaga,2,1,1.0
+2001-2002,18,2001-12-22,Sevilla,Celta Vigo,0,1,0.0
+2001-2002,18,2001-12-22,La Coruña,Betis,2,0,1.0
+2001-2002,18,2001-12-23,Osasuna,Athletic Club,0,1,0.0
 2001-2002,18,2001-12-23,Mallorca,Real Madrid,1,1,0.5
-2001-2002,18,2001-12-23,Zaragoza,Villarreal,3,2,0.0
-2001-2002,19,2002-01-05,Villarreal,Sevilla,0,2,1.0
-2001-2002,19,2002-01-05,Real Madrid,La Coruña,3,1,0.0
+2001-2002,18,2001-12-23,Zaragoza,Villarreal,3,2,1.0
+2001-2002,19,2002-01-05,Villarreal,Sevilla,0,2,0.0
+2001-2002,19,2002-01-05,Real Madrid,La Coruña,3,1,1.0
 2001-2002,19,2002-01-05,Celta Vigo,Rayo Vallecano,2,2,0.5
 2001-2002,19,2002-01-05,Las Palmas,Real Sociedad,0,0,0.5
-2001-2002,19,2002-01-06,Betis,Valencia,1,3,1.0
-2001-2002,19,2002-01-06,Alavés,Osasuna,0,2,1.0
-2001-2002,19,2002-01-06,Málaga,Espanyol,2,0,0.0
-2001-2002,19,2002-01-06,Athletic Club,Tenerife,1,2,1.0
-2001-2002,19,2002-01-06,Barcelona,Zaragoza,2,0,0.0
-2001-2002,19,2002-01-06,Valladolid,Mallorca,2,1,0.0
-2001-2002,20,2002-01-12,Athletic Club,Real Sociedad,2,1,0.0
+2001-2002,19,2002-01-06,Betis,Valencia,1,3,0.0
+2001-2002,19,2002-01-06,Alavés,Osasuna,0,2,0.0
+2001-2002,19,2002-01-06,Málaga,Espanyol,2,0,1.0
+2001-2002,19,2002-01-06,Athletic Club,Tenerife,1,2,0.0
+2001-2002,19,2002-01-06,Barcelona,Zaragoza,2,0,1.0
+2001-2002,19,2002-01-06,Valladolid,Mallorca,2,1,1.0
+2001-2002,20,2002-01-12,Athletic Club,Real Sociedad,2,1,1.0
 2001-2002,20,2002-01-12,Villarreal,Rayo Vallecano,1,1,0.5
 2001-2002,20,2002-01-13,Celta Vigo,Osasuna,1,1,0.5
-2001-2002,20,2002-01-13,Barcelona,Sevilla,3,1,0.0
+2001-2002,20,2002-01-13,Barcelona,Sevilla,3,1,1.0
 2001-2002,20,2002-01-13,Zaragoza,Espanyol,0,0,0.5
-2001-2002,20,2002-01-13,Real Madrid,Valencia,1,0,0.0
-2001-2002,20,2002-01-13,Las Palmas,Mallorca,3,1,0.0
-2001-2002,20,2002-01-13,Alavés,Tenerife,1,0,0.0
-2001-2002,20,2002-01-13,Valladolid,La Coruña,3,0,0.0
+2001-2002,20,2002-01-13,Real Madrid,Valencia,1,0,1.0
+2001-2002,20,2002-01-13,Las Palmas,Mallorca,3,1,1.0
+2001-2002,20,2002-01-13,Alavés,Tenerife,1,0,1.0
+2001-2002,20,2002-01-13,Valladolid,La Coruña,3,0,1.0
 2001-2002,20,2002-01-13,Betis,Málaga,1,1,0.5
-2001-2002,21,2002-01-19,Real Sociedad,Alavés,1,2,1.0
+2001-2002,21,2002-01-19,Real Sociedad,Alavés,1,2,0.0
 2001-2002,21,2002-01-19,Málaga,Real Madrid,1,1,0.5
-2001-2002,21,2002-01-20,Mallorca,Athletic Club,3,0,0.0
+2001-2002,21,2002-01-20,Mallorca,Athletic Club,3,0,1.0
 2001-2002,21,2002-01-20,Tenerife,Celta Vigo,1,1,0.5
 2001-2002,21,2002-01-20,Osasuna,Villarreal,2,2,0.5
-2001-2002,21,2002-01-20,Rayo Vallecano,Barcelona,2,1,0.0
-2001-2002,21,2002-01-20,Sevilla,Zaragoza,4,2,0.0
-2001-2002,21,2002-01-20,La Coruña,Las Palmas,1,0,0.0
-2001-2002,21,2002-01-20,Valencia,Valladolid,1,2,1.0
+2001-2002,21,2002-01-20,Rayo Vallecano,Barcelona,2,1,1.0
+2001-2002,21,2002-01-20,Sevilla,Zaragoza,4,2,1.0
+2001-2002,21,2002-01-20,La Coruña,Las Palmas,1,0,1.0
+2001-2002,21,2002-01-20,Valencia,Valladolid,1,2,0.0
 2001-2002,21,2002-01-20,Espanyol,Betis,1,1,0.5
-2001-2002,18,2002-01-23,Rayo Vallecano,Alavés,2,0,0.0
-2001-2002,22,2002-01-26,Las Palmas,Valencia,0,1,1.0
-2001-2002,22,2002-01-26,Celta Vigo,Real Sociedad,3,1,0.0
+2001-2002,18,2002-01-23,Rayo Vallecano,Alavés,2,0,1.0
+2001-2002,22,2002-01-26,Las Palmas,Valencia,0,1,0.0
+2001-2002,22,2002-01-26,Celta Vigo,Real Sociedad,3,1,1.0
 2001-2002,22,2002-01-27,Athletic Club,La Coruña,1,1,0.5
 2001-2002,22,2002-01-27,Valladolid,Málaga,0,0,0.5
-2001-2002,22,2002-01-27,Barcelona,Osasuna,0,1,1.0
+2001-2002,22,2002-01-27,Barcelona,Osasuna,0,1,0.0
 2001-2002,22,2002-01-27,Real Madrid,Betis,1,1,0.5
-2001-2002,22,2002-01-27,Sevilla,Espanyol,3,0,0.0
-2001-2002,22,2002-01-27,Villarreal,Tenerife,2,1,0.0
-2001-2002,22,2002-01-27,Alavés,Mallorca,0,4,1.0
-2001-2002,22,2002-01-27,Zaragoza,Rayo Vallecano,3,2,0.0
-2001-2002,23,2002-02-02,Rayo Vallecano,Sevilla,2,1,0.0
-2001-2002,23,2002-02-02,Tenerife,Barcelona,0,6,1.0
-2001-2002,23,2002-02-02,Mallorca,Celta Vigo,0,1,1.0
-2001-2002,23,2002-02-02,La Coruña,Alavés,0,1,1.0
-2001-2002,23,2002-02-02,Real Sociedad,Villarreal,2,1,0.0
-2001-2002,23,2002-02-03,Valencia,Athletic Club,2,1,0.0
-2001-2002,23,2002-02-03,Betis,Valladolid,2,0,0.0
+2001-2002,22,2002-01-27,Sevilla,Espanyol,3,0,1.0
+2001-2002,22,2002-01-27,Villarreal,Tenerife,2,1,1.0
+2001-2002,22,2002-01-27,Alavés,Mallorca,0,4,0.0
+2001-2002,22,2002-01-27,Zaragoza,Rayo Vallecano,3,2,1.0
+2001-2002,23,2002-02-02,Rayo Vallecano,Sevilla,2,1,1.0
+2001-2002,23,2002-02-02,Tenerife,Barcelona,0,6,0.0
+2001-2002,23,2002-02-02,Mallorca,Celta Vigo,0,1,0.0
+2001-2002,23,2002-02-02,La Coruña,Alavés,0,1,0.0
+2001-2002,23,2002-02-02,Real Sociedad,Villarreal,2,1,1.0
+2001-2002,23,2002-02-03,Valencia,Athletic Club,2,1,1.0
+2001-2002,23,2002-02-03,Betis,Valladolid,2,0,1.0
 2001-2002,23,2002-02-03,Osasuna,Zaragoza,0,0,0.5
-2001-2002,23,2002-02-03,Espanyol,Real Madrid,2,1,0.0
+2001-2002,23,2002-02-03,Espanyol,Real Madrid,2,1,1.0
 2001-2002,23,2002-02-03,Málaga,Las Palmas,1,1,0.5
-2001-2002,24,2002-02-05,Celta Vigo,La Coruña,0,2,1.0
-2001-2002,24,2002-02-06,Barcelona,Real Sociedad,2,0,0.0
+2001-2002,24,2002-02-05,Celta Vigo,La Coruña,0,2,0.0
+2001-2002,24,2002-02-06,Barcelona,Real Sociedad,2,0,1.0
 2001-2002,24,2002-02-06,Las Palmas,Betis,0,0,0.5
-2001-2002,24,2002-02-06,Alavés,Valencia,1,2,1.0
-2001-2002,24,2002-02-06,Athletic Club,Málaga,3,2,0.0
+2001-2002,24,2002-02-06,Alavés,Valencia,1,2,0.0
+2001-2002,24,2002-02-06,Athletic Club,Málaga,3,2,1.0
 2001-2002,24,2002-02-06,Zaragoza,Tenerife,1,1,0.5
 2001-2002,24,2002-02-06,Rayo Vallecano,Espanyol,2,2,0.5
-2001-2002,24,2002-02-06,Villarreal,Mallorca,2,1,0.0
+2001-2002,24,2002-02-06,Villarreal,Mallorca,2,1,1.0
 2001-2002,24,2002-02-06,Sevilla,Osasuna,0,0,0.5
-2001-2002,24,2002-02-06,Valladolid,Real Madrid,2,1,0.0
+2001-2002,24,2002-02-06,Valladolid,Real Madrid,2,1,1.0
 2001-2002,25,2002-02-09,Valencia,Celta Vigo,0,0,0.5
 2001-2002,25,2002-02-09,Mallorca,Barcelona,0,0,0.5
-2001-2002,25,2002-02-10,Osasuna,Rayo Vallecano,1,0,0.0
-2001-2002,25,2002-02-10,Málaga,Alavés,1,0,0.0
+2001-2002,25,2002-02-10,Osasuna,Rayo Vallecano,1,0,1.0
+2001-2002,25,2002-02-10,Málaga,Alavés,1,0,1.0
 2001-2002,25,2002-02-10,La Coruña,Villarreal,0,0,0.5
 2001-2002,25,2002-02-10,Tenerife,Sevilla,1,1,0.5
-2001-2002,25,2002-02-10,Real Sociedad,Zaragoza,3,1,0.0
-2001-2002,25,2002-02-10,Real Madrid,Las Palmas,7,0,0.0
+2001-2002,25,2002-02-10,Real Sociedad,Zaragoza,3,1,1.0
+2001-2002,25,2002-02-10,Real Madrid,Las Palmas,7,0,1.0
 2001-2002,25,2002-02-10,Betis,Athletic Club,1,1,0.5
-2001-2002,25,2002-02-10,Espanyol,Valladolid,1,0,0.0
+2001-2002,25,2002-02-10,Espanyol,Valladolid,1,0,1.0
 2001-2002,26,2002-02-16,Villarreal,Valencia,1,1,0.5
-2001-2002,26,2002-02-16,Athletic Club,Real Madrid,2,1,0.0
-2001-2002,26,2002-02-16,Barcelona,La Coruña,3,2,0.0
+2001-2002,26,2002-02-16,Athletic Club,Real Madrid,2,1,1.0
+2001-2002,26,2002-02-16,Barcelona,La Coruña,3,2,1.0
 2001-2002,26,2002-02-17,Celta Vigo,Málaga,0,0,0.5
-2001-2002,26,2002-02-17,Alavés,Betis,0,1,1.0
-2001-2002,26,2002-02-17,Sevilla,Real Sociedad,0,1,1.0
-2001-2002,26,2002-02-17,Zaragoza,Mallorca,1,0,0.0
-2001-2002,26,2002-02-17,Rayo Vallecano,Tenerife,2,0,0.0
+2001-2002,26,2002-02-17,Alavés,Betis,0,1,0.0
+2001-2002,26,2002-02-17,Sevilla,Real Sociedad,0,1,0.0
+2001-2002,26,2002-02-17,Zaragoza,Mallorca,1,0,1.0
+2001-2002,26,2002-02-17,Rayo Vallecano,Tenerife,2,0,1.0
 2001-2002,26,2002-02-17,Osasuna,Espanyol,1,1,0.5
 2001-2002,26,2002-02-17,Las Palmas,Valladolid,1,1,0.5
-2001-2002,27,2002-02-23,Valencia,Barcelona,2,0,0.0
-2001-2002,27,2002-02-23,La Coruña,Zaragoza,1,0,0.0
-2001-2002,27,2002-02-23,Real Madrid,Alavés,3,1,0.0
-2001-2002,27,2002-02-24,Valladolid,Athletic Club,2,0,0.0
-2001-2002,27,2002-02-24,Betis,Celta Vigo,4,1,0.0
-2001-2002,27,2002-02-24,Tenerife,Osasuna,3,1,0.0
+2001-2002,27,2002-02-23,Valencia,Barcelona,2,0,1.0
+2001-2002,27,2002-02-23,La Coruña,Zaragoza,1,0,1.0
+2001-2002,27,2002-02-23,Real Madrid,Alavés,3,1,1.0
+2001-2002,27,2002-02-24,Valladolid,Athletic Club,2,0,1.0
+2001-2002,27,2002-02-24,Betis,Celta Vigo,4,1,1.0
+2001-2002,27,2002-02-24,Tenerife,Osasuna,3,1,1.0
 2001-2002,27,2002-02-24,Real Sociedad,Rayo Vallecano,2,2,0.5
-2001-2002,27,2002-02-24,Málaga,Villarreal,2,1,0.0
-2001-2002,27,2002-02-24,Espanyol,Las Palmas,3,1,0.0
-2001-2002,27,2002-02-24,Mallorca,Sevilla,0,4,1.0
-2001-2002,28,2002-03-02,Sevilla,La Coruña,0,1,1.0
-2001-2002,28,2002-03-02,Celta Vigo,Real Madrid,0,1,1.0
+2001-2002,27,2002-02-24,Málaga,Villarreal,2,1,1.0
+2001-2002,27,2002-02-24,Espanyol,Las Palmas,3,1,1.0
+2001-2002,27,2002-02-24,Mallorca,Sevilla,0,4,0.0
+2001-2002,28,2002-03-02,Sevilla,La Coruña,0,1,0.0
+2001-2002,28,2002-03-02,Celta Vigo,Real Madrid,0,1,0.0
 2001-2002,28,2002-03-02,Villarreal,Betis,1,1,0.5
-2001-2002,28,2002-03-03,Zaragoza,Valencia,0,1,1.0
-2001-2002,28,2002-03-03,Barcelona,Málaga,5,1,0.0
-2001-2002,28,2002-03-03,Rayo Vallecano,Mallorca,0,2,1.0
+2001-2002,28,2002-03-03,Zaragoza,Valencia,0,1,0.0
+2001-2002,28,2002-03-03,Barcelona,Málaga,5,1,1.0
+2001-2002,28,2002-03-03,Rayo Vallecano,Mallorca,0,2,0.0
 2001-2002,28,2002-03-03,Osasuna,Real Sociedad,1,1,0.5
 2001-2002,28,2002-03-03,Tenerife,Espanyol,1,1,0.5
-2001-2002,28,2002-03-03,Athletic Club,Las Palmas,3,1,0.0
-2001-2002,28,2002-03-03,Alavés,Valladolid,3,1,0.0
-2001-2002,29,2002-03-09,Las Palmas,Alavés,2,1,0.0
-2001-2002,29,2002-03-09,Real Madrid,Villarreal,3,0,0.0
+2001-2002,28,2002-03-03,Athletic Club,Las Palmas,3,1,1.0
+2001-2002,28,2002-03-03,Alavés,Valladolid,3,1,1.0
+2001-2002,29,2002-03-09,Las Palmas,Alavés,2,1,1.0
+2001-2002,29,2002-03-09,Real Madrid,Villarreal,3,0,1.0
 2001-2002,29,2002-03-09,La Coruña,Rayo Vallecano,1,1,0.5
-2001-2002,29,2002-03-09,Betis,Barcelona,2,1,0.0
-2001-2002,29,2002-03-10,Real Sociedad,Tenerife,0,2,1.0
-2001-2002,29,2002-03-10,Valladolid,Celta Vigo,2,4,1.0
-2001-2002,29,2002-03-10,Mallorca,Osasuna,4,2,0.0
-2001-2002,29,2002-03-10,Valencia,Sevilla,2,0,0.0
-2001-2002,29,2002-03-10,Espanyol,Athletic Club,2,0,0.0
-2001-2002,29,2002-03-10,Málaga,Zaragoza,2,1,0.0
-2001-2002,30,2002-03-16,Osasuna,La Coruña,1,3,1.0
+2001-2002,29,2002-03-09,Betis,Barcelona,2,1,1.0
+2001-2002,29,2002-03-10,Real Sociedad,Tenerife,0,2,0.0
+2001-2002,29,2002-03-10,Valladolid,Celta Vigo,2,4,0.0
+2001-2002,29,2002-03-10,Mallorca,Osasuna,4,2,1.0
+2001-2002,29,2002-03-10,Valencia,Sevilla,2,0,1.0
+2001-2002,29,2002-03-10,Espanyol,Athletic Club,2,0,1.0
+2001-2002,29,2002-03-10,Málaga,Zaragoza,2,1,1.0
+2001-2002,30,2002-03-16,Osasuna,La Coruña,1,3,0.0
 2001-2002,30,2002-03-16,Barcelona,Real Madrid,1,1,0.5
-2001-2002,30,2002-03-17,Rayo Vallecano,Valencia,2,1,0.0
+2001-2002,30,2002-03-17,Rayo Vallecano,Valencia,2,1,1.0
 2001-2002,30,2002-03-17,Tenerife,Mallorca,0,0,0.5
-2001-2002,30,2002-03-17,Real Sociedad,Espanyol,1,0,0.0
+2001-2002,30,2002-03-17,Real Sociedad,Espanyol,1,0,1.0
 2001-2002,30,2002-03-17,Villarreal,Valladolid,2,2,0.5
-2001-2002,30,2002-03-17,Celta Vigo,Las Palmas,3,2,0.0
-2001-2002,30,2002-03-17,Alavés,Athletic Club,2,3,1.0
+2001-2002,30,2002-03-17,Celta Vigo,Las Palmas,3,2,1.0
+2001-2002,30,2002-03-17,Alavés,Athletic Club,2,3,0.0
 2001-2002,30,2002-03-17,Zaragoza,Betis,1,1,0.5
-2001-2002,30,2002-03-17,Sevilla,Málaga,0,2,1.0
+2001-2002,30,2002-03-17,Sevilla,Málaga,0,2,0.0
 2001-2002,31,2002-03-23,Betis,Sevilla,0,0,0.5
-2001-2002,31,2002-03-23,Las Palmas,Villarreal,3,2,0.0
+2001-2002,31,2002-03-23,Las Palmas,Villarreal,3,2,1.0
 2001-2002,31,2002-03-23,Málaga,Rayo Vallecano,0,0,0.5
-2001-2002,31,2002-03-24,Valladolid,Barcelona,1,2,1.0
-2001-2002,31,2002-03-24,Real Madrid,Zaragoza,3,1,0.0
-2001-2002,31,2002-03-24,Espanyol,Alavés,1,2,1.0
-2001-2002,31,2002-03-24,La Coruña,Tenerife,3,1,0.0
-2001-2002,31,2002-03-24,Mallorca,Real Sociedad,0,2,1.0
-2001-2002,31,2002-03-24,Athletic Club,Celta Vigo,1,6,1.0
-2001-2002,31,2002-03-24,Valencia,Osasuna,2,1,0.0
-2001-2002,32,2002-03-30,Celta Vigo,Alavés,3,1,0.0
+2001-2002,31,2002-03-24,Valladolid,Barcelona,1,2,0.0
+2001-2002,31,2002-03-24,Real Madrid,Zaragoza,3,1,1.0
+2001-2002,31,2002-03-24,Espanyol,Alavés,1,2,0.0
+2001-2002,31,2002-03-24,La Coruña,Tenerife,3,1,1.0
+2001-2002,31,2002-03-24,Mallorca,Real Sociedad,0,2,0.0
+2001-2002,31,2002-03-24,Athletic Club,Celta Vigo,1,6,0.0
+2001-2002,31,2002-03-24,Valencia,Osasuna,2,1,1.0
+2001-2002,32,2002-03-30,Celta Vigo,Alavés,3,1,1.0
 2001-2002,32,2002-03-30,Barcelona,Las Palmas,1,1,0.5
-2001-2002,32,2002-03-30,Tenerife,Valencia,0,1,1.0
-2001-2002,32,2002-03-30,Sevilla,Real Madrid,0,1,1.0
+2001-2002,32,2002-03-30,Tenerife,Valencia,0,1,0.0
+2001-2002,32,2002-03-30,Sevilla,Real Madrid,0,1,0.0
 2001-2002,32,2002-03-30,Real Sociedad,La Coruña,1,1,0.5
 2001-2002,32,2002-03-31,Zaragoza,Valladolid,0,0,0.5
-2001-2002,32,2002-03-31,Osasuna,Málaga,0,2,1.0
-2001-2002,32,2002-03-31,Mallorca,Espanyol,2,1,0.0
-2001-2002,32,2002-03-31,Villarreal,Athletic Club,5,2,0.0
+2001-2002,32,2002-03-31,Osasuna,Málaga,0,2,0.0
+2001-2002,32,2002-03-31,Mallorca,Espanyol,2,1,1.0
+2001-2002,32,2002-03-31,Villarreal,Athletic Club,5,2,1.0
 2001-2002,32,2002-03-31,Rayo Vallecano,Betis,0,0,0.5
 2001-2002,33,2002-04-06,Las Palmas,Zaragoza,1,1,0.5
-2001-2002,33,2002-04-06,Athletic Club,Barcelona,0,2,1.0
-2001-2002,33,2002-04-06,Real Madrid,Rayo Vallecano,3,1,0.0
-2001-2002,33,2002-04-06,La Coruña,Mallorca,5,0,0.0
-2001-2002,33,2002-04-07,Alavés,Villarreal,2,1,0.0
-2001-2002,33,2002-04-07,Valencia,Real Sociedad,4,0,0.0
-2001-2002,33,2002-04-07,Espanyol,Celta Vigo,2,0,0.0
+2001-2002,33,2002-04-06,Athletic Club,Barcelona,0,2,0.0
+2001-2002,33,2002-04-06,Real Madrid,Rayo Vallecano,3,1,1.0
+2001-2002,33,2002-04-06,La Coruña,Mallorca,5,0,1.0
+2001-2002,33,2002-04-07,Alavés,Villarreal,2,1,1.0
+2001-2002,33,2002-04-07,Valencia,Real Sociedad,4,0,1.0
+2001-2002,33,2002-04-07,Espanyol,Celta Vigo,2,0,1.0
 2001-2002,33,2002-04-07,Betis,Osasuna,0,0,0.5
 2001-2002,33,2002-04-07,Valladolid,Sevilla,1,1,0.5
-2001-2002,33,2002-04-07,Málaga,Tenerife,2,0,0.0
+2001-2002,33,2002-04-07,Málaga,Tenerife,2,0,1.0
 2001-2002,34,2002-04-13,Mallorca,Valencia,1,1,0.5
 2001-2002,34,2002-04-14,Sevilla,Las Palmas,1,1,0.5
-2001-2002,34,2002-04-14,Tenerife,Betis,2,1,0.0
-2001-2002,34,2002-04-14,Rayo Vallecano,Valladolid,1,0,0.0
-2001-2002,34,2002-04-14,La Coruña,Espanyol,3,1,0.0
-2001-2002,34,2002-04-14,Real Sociedad,Málaga,2,1,0.0
-2001-2002,34,2002-04-14,Osasuna,Real Madrid,3,1,0.0
-2001-2002,34,2002-04-14,Villarreal,Celta Vigo,2,1,0.0
+2001-2002,34,2002-04-14,Tenerife,Betis,2,1,1.0
+2001-2002,34,2002-04-14,Rayo Vallecano,Valladolid,1,0,1.0
+2001-2002,34,2002-04-14,La Coruña,Espanyol,3,1,1.0
+2001-2002,34,2002-04-14,Real Sociedad,Málaga,2,1,1.0
+2001-2002,34,2002-04-14,Osasuna,Real Madrid,3,1,1.0
+2001-2002,34,2002-04-14,Villarreal,Celta Vigo,2,1,1.0
 2001-2002,34,2002-04-14,Zaragoza,Athletic Club,2,2,0.5
-2001-2002,34,2002-04-14,Barcelona,Alavés,3,2,0.0
-2001-2002,35,2002-04-20,Celta Vigo,Barcelona,2,1,0.0
-2001-2002,35,2002-04-20,Real Madrid,Tenerife,4,1,0.0
-2001-2002,35,2002-04-20,Las Palmas,Rayo Vallecano,0,2,1.0
-2001-2002,35,2002-04-21,Espanyol,Villarreal,3,1,0.0
-2001-2002,35,2002-04-21,Alavés,Zaragoza,2,1,0.0
-2001-2002,35,2002-04-21,Athletic Club,Sevilla,0,1,1.0
-2001-2002,35,2002-04-21,Valladolid,Osasuna,1,0,0.0
+2001-2002,34,2002-04-14,Barcelona,Alavés,3,2,1.0
+2001-2002,35,2002-04-20,Celta Vigo,Barcelona,2,1,1.0
+2001-2002,35,2002-04-20,Real Madrid,Tenerife,4,1,1.0
+2001-2002,35,2002-04-20,Las Palmas,Rayo Vallecano,0,2,0.0
+2001-2002,35,2002-04-21,Espanyol,Villarreal,3,1,1.0
+2001-2002,35,2002-04-21,Alavés,Zaragoza,2,1,1.0
+2001-2002,35,2002-04-21,Athletic Club,Sevilla,0,1,0.0
+2001-2002,35,2002-04-21,Valladolid,Osasuna,1,0,1.0
 2001-2002,35,2002-04-21,Málaga,Mallorca,0,0,0.5
-2001-2002,35,2002-04-21,Betis,Real Sociedad,3,0,0.0
-2001-2002,35,2002-04-21,Valencia,La Coruña,1,0,0.0
-2001-2002,36,2002-04-27,Valencia,Espanyol,2,1,0.0
-2001-2002,36,2002-04-27,Barcelona,Villarreal,4,1,0.0
-2001-2002,36,2002-04-27,Real Sociedad,Real Madrid,3,0,0.0
-2001-2002,36,2002-04-28,Sevilla,Alavés,2,0,0.0
-2001-2002,36,2002-04-28,Mallorca,Betis,1,3,1.0
-2001-2002,36,2002-04-28,Tenerife,Valladolid,1,5,1.0
-2001-2002,36,2002-04-28,Osasuna,Las Palmas,3,2,0.0
-2001-2002,36,2002-04-28,Zaragoza,Celta Vigo,0,1,1.0
-2001-2002,36,2002-04-28,Rayo Vallecano,Athletic Club,4,2,0.0
+2001-2002,35,2002-04-21,Betis,Real Sociedad,3,0,1.0
+2001-2002,35,2002-04-21,Valencia,La Coruña,1,0,1.0
+2001-2002,36,2002-04-27,Valencia,Espanyol,2,1,1.0
+2001-2002,36,2002-04-27,Barcelona,Villarreal,4,1,1.0
+2001-2002,36,2002-04-27,Real Sociedad,Real Madrid,3,0,1.0
+2001-2002,36,2002-04-28,Sevilla,Alavés,2,0,1.0
+2001-2002,36,2002-04-28,Mallorca,Betis,1,3,0.0
+2001-2002,36,2002-04-28,Tenerife,Valladolid,1,5,0.0
+2001-2002,36,2002-04-28,Osasuna,Las Palmas,3,2,1.0
+2001-2002,36,2002-04-28,Zaragoza,Celta Vigo,0,1,0.0
+2001-2002,36,2002-04-28,Rayo Vallecano,Athletic Club,4,2,1.0
 2001-2002,36,2002-04-28,La Coruña,Málaga,2,2,0.5
 2001-2002,37,2002-05-05,Athletic Club,Osasuna,1,1,0.5
 2001-2002,37,2002-05-05,Real Madrid,Mallorca,0,0,0.5
-2001-2002,37,2002-05-05,Las Palmas,Tenerife,0,1,1.0
-2001-2002,37,2002-05-05,Betis,La Coruña,0,3,1.0
-2001-2002,37,2002-05-05,Valladolid,Real Sociedad,1,3,1.0
-2001-2002,37,2002-05-05,Alavés,Rayo Vallecano,0,1,1.0
-2001-2002,37,2002-05-05,Málaga,Valencia,0,2,1.0
-2001-2002,37,2002-05-05,Barcelona,Espanyol,2,0,0.0
-2001-2002,37,2002-05-05,Celta Vigo,Sevilla,1,2,1.0
-2001-2002,37,2002-05-05,Villarreal,Zaragoza,2,1,0.0
-2001-2002,38,2002-05-10,La Coruña,Real Madrid,3,0,0.0
-2001-2002,38,2002-05-11,Rayo Vallecano,Celta Vigo,1,0,0.0
-2001-2002,38,2002-05-11,Mallorca,Valladolid,2,1,0.0
+2001-2002,37,2002-05-05,Las Palmas,Tenerife,0,1,0.0
+2001-2002,37,2002-05-05,Betis,La Coruña,0,3,0.0
+2001-2002,37,2002-05-05,Valladolid,Real Sociedad,1,3,0.0
+2001-2002,37,2002-05-05,Alavés,Rayo Vallecano,0,1,0.0
+2001-2002,37,2002-05-05,Málaga,Valencia,0,2,0.0
+2001-2002,37,2002-05-05,Barcelona,Espanyol,2,0,1.0
+2001-2002,37,2002-05-05,Celta Vigo,Sevilla,1,2,0.0
+2001-2002,37,2002-05-05,Villarreal,Zaragoza,2,1,1.0
+2001-2002,38,2002-05-10,La Coruña,Real Madrid,3,0,1.0
+2001-2002,38,2002-05-11,Rayo Vallecano,Celta Vigo,1,0,1.0
+2001-2002,38,2002-05-11,Mallorca,Valladolid,2,1,1.0
 2001-2002,38,2002-05-11,Real Sociedad,Las Palmas,1,1,0.5
-2001-2002,38,2002-05-11,Valencia,Betis,2,0,0.0
-2001-2002,38,2002-05-11,Sevilla,Villarreal,1,0,0.0
-2001-2002,38,2002-05-11,Osasuna,Alavés,0,1,1.0
-2001-2002,38,2002-05-11,Espanyol,Málaga,1,2,1.0
-2001-2002,38,2002-05-11,Tenerife,Athletic Club,2,3,1.0
+2001-2002,38,2002-05-11,Valencia,Betis,2,0,1.0
+2001-2002,38,2002-05-11,Sevilla,Villarreal,1,0,1.0
+2001-2002,38,2002-05-11,Osasuna,Alavés,0,1,0.0
+2001-2002,38,2002-05-11,Espanyol,Málaga,1,2,0.0
+2001-2002,38,2002-05-11,Tenerife,Athletic Club,2,3,0.0
 2001-2002,38,2002-05-11,Zaragoza,Barcelona,1,1,0.5

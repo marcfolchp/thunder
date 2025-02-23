@@ -1,0 +1,271 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,Regular season,1,2019-07-12,Voluntari,Sepsi,0.0,0.0,0.5
+2019-2020,Regular season,1,2019-07-13,Astra Giurgiu,Botoșani,2.0,2.0,0.5
+2019-2020,Regular season,1,2019-07-13,CFR Cluj,Poli Iași,1.0,1.0,0.5
+2019-2020,Regular season,1,2019-07-14,CS U Craiova,Clinceni,3.0,2.0,1.0
+2019-2020,Regular season,1,2019-07-14,FCSB,Hermannstadt,4.0,3.0,1.0
+2019-2020,Regular season,1,2019-07-15,Gaz Metan,Chindia,2.0,2.0,0.5
+2019-2020,Regular season,1,2019-07-15,Viitorul,Dinamo,5.0,0.0,1.0
+2019-2020,Regular season,2,2019-07-19,Hermannstadt,Gaz Metan,0.0,2.0,0.0
+2019-2020,Regular season,2,2019-07-19,Chindia,Viitorul,0.0,1.0,0.0
+2019-2020,Regular season,2,2019-07-20,Botoșani,Voluntari,4.0,1.0,1.0
+2019-2020,Regular season,2,2019-07-20,Clinceni,CFR Cluj,1.0,4.0,0.0
+2019-2020,Regular season,2,2019-07-21,Poli Iași,Astra Giurgiu,1.0,0.0,1.0
+2019-2020,Regular season,2,2019-07-21,Dinamo,CS U Craiova,0.0,2.0,0.0
+2019-2020,Regular season,2,2019-07-22,Sepsi,FCSB,0.0,0.0,0.5
+2019-2020,Regular season,3,2019-07-26,Poli Iași,Clinceni,2.0,0.0,1.0
+2019-2020,Regular season,3,2019-07-26,Voluntari,Astra Giurgiu,1.0,2.0,0.0
+2019-2020,Regular season,3,2019-07-27,Gaz Metan,Sepsi,1.0,1.0,0.5
+2019-2020,Regular season,3,2019-07-27,CFR Cluj,Dinamo,1.0,0.0,1.0
+2019-2020,Regular season,3,2019-07-28,CS U Craiova,Chindia,1.0,0.0,1.0
+2019-2020,Regular season,3,2019-07-28,Viitorul,Hermannstadt,3.0,2.0,1.0
+2019-2020,Regular season,3,2019-07-29,FCSB,Botoșani,0.0,2.0,0.0
+2019-2020,Regular season,4,2019-08-02,Dinamo,Clinceni,4.0,2.0,1.0
+2019-2020,Regular season,4,2019-08-03,Botoșani,Gaz Metan,1.0,1.0,0.5
+2019-2020,Regular season,4,2019-08-03,Chindia,CFR Cluj,1.0,4.0,0.0
+2019-2020,Regular season,4,2019-08-04,Hermannstadt,CS U Craiova,2.0,1.0,1.0
+2019-2020,Regular season,4,2019-08-04,Sepsi,Viitorul,2.0,2.0,0.5
+2019-2020,Regular season,4,2019-08-05,Voluntari,Poli Iași,0.0,0.0,0.5
+2019-2020,Regular season,4,2019-08-05,Astra Giurgiu,FCSB,2.0,1.0,1.0
+2019-2020,Regular season,5,2019-08-09,Clinceni,Chindia,3.0,1.0,1.0
+2019-2020,Regular season,5,2019-08-09,Poli Iași,Dinamo,2.0,0.0,1.0
+2019-2020,Regular season,5,2019-08-10,Gaz Metan,Astra Giurgiu,1.0,0.0,1.0
+2019-2020,Regular season,5,2019-08-10,CFR Cluj,Hermannstadt,3.0,0.0,1.0
+2019-2020,Regular season,5,2019-08-11,CS U Craiova,Sepsi,0.0,1.0,0.0
+2019-2020,Regular season,5,2019-08-11,FCSB,Voluntari,1.0,3.0,0.0
+2019-2020,Regular season,5,2019-08-12,Viitorul,Botoșani,2.0,2.0,0.5
+2019-2020,Regular season,6,2019-08-16,Hermannstadt,Clinceni,2.0,1.0,1.0
+2019-2020,Regular season,6,2019-08-16,Chindia,Dinamo,3.0,2.0,1.0
+2019-2020,Regular season,6,2019-08-17,Sepsi,CFR Cluj,1.0,1.0,0.5
+2019-2020,Regular season,6,2019-08-18,Botoșani,CS U Craiova,1.0,1.0,0.5
+2019-2020,Regular season,6,2019-08-18,FCSB,Poli Iași,1.0,2.0,0.0
+2019-2020,Regular season,6,2019-08-19,Voluntari,Gaz Metan,0.0,3.0,0.0
+2019-2020,Regular season,6,2019-08-19,Astra Giurgiu,Viitorul,1.0,1.0,0.5
+2019-2020,Regular season,7,2019-08-23,Poli Iași,Chindia,2.0,2.0,0.5
+2019-2020,Regular season,7,2019-08-23,CS U Craiova,Astra Giurgiu,1.0,0.0,1.0
+2019-2020,Regular season,7,2019-08-24,Clinceni,Sepsi,1.0,1.0,0.5
+2019-2020,Regular season,7,2019-08-24,CFR Cluj,Botoșani,4.0,1.0,1.0
+2019-2020,Regular season,7,2019-08-25,Viitorul,Voluntari,4.0,0.0,1.0
+2019-2020,Regular season,7,2019-08-25,Gaz Metan,FCSB,4.0,0.0,1.0
+2019-2020,Regular season,7,2019-08-26,Dinamo,Hermannstadt,3.0,0.0,1.0
+2019-2020,Regular season,8,2019-08-30,Botoșani,Clinceni,2.0,2.0,0.5
+2019-2020,Regular season,8,2019-08-30,Voluntari,CS U Craiova,1.0,2.0,0.0
+2019-2020,Regular season,8,2019-08-31,Gaz Metan,Poli Iași,3.0,2.0,1.0
+2019-2020,Regular season,8,2019-08-31,Astra Giurgiu,CFR Cluj,3.0,2.0,1.0
+2019-2020,Regular season,8,2019-09-01,Hermannstadt,Chindia,2.0,1.0,1.0
+2019-2020,Regular season,8,2019-09-01,FCSB,Viitorul,2.0,1.0,1.0
+2019-2020,Regular season,8,2019-09-02,Sepsi,Dinamo,0.0,1.0,0.0
+2019-2020,Regular season,9,2019-09-13,Clinceni,Astra Giurgiu,1.0,1.0,0.5
+2019-2020,Regular season,9,2019-09-13,CFR Cluj,Voluntari,5.0,0.0,1.0
+2019-2020,Regular season,9,2019-09-14,Chindia,Sepsi,0.0,0.0,0.5
+2019-2020,Regular season,9,2019-09-14,Dinamo,Botoșani,1.0,1.0,0.5
+2019-2020,Regular season,9,2019-09-15,Poli Iași,Hermannstadt,0.0,0.0,0.5
+2019-2020,Regular season,9,2019-09-15,CS U Craiova,FCSB,0.0,1.0,0.0
+2019-2020,Regular season,9,2019-09-16,Viitorul,Gaz Metan,4.0,1.0,1.0
+2019-2020,Regular season,10,2019-09-20,Gaz Metan,CS U Craiova,2.0,3.0,0.0
+2019-2020,Regular season,10,2019-09-21,Voluntari,Clinceni,1.0,2.0,0.0
+2019-2020,Regular season,10,2019-09-21,Sepsi,Hermannstadt,3.0,0.0,1.0
+2019-2020,Regular season,10,2019-09-21,Astra Giurgiu,Dinamo,3.0,2.0,1.0
+2019-2020,Regular season,10,2019-09-22,Botoșani,Chindia,0.0,3.0,0.0
+2019-2020,Regular season,10,2019-09-22,FCSB,CFR Cluj,0.0,0.0,0.5
+2019-2020,Regular season,10,2019-09-23,Viitorul,Poli Iași,2.0,1.0,1.0
+2019-2020,Regular season,11,2019-09-27,Dinamo,Voluntari,2.0,1.0,1.0
+2019-2020,Regular season,11,2019-09-28,Hermannstadt,Botoșani,0.0,1.0,0.0
+2019-2020,Regular season,11,2019-09-28,Chindia,Astra Giurgiu,1.0,0.0,1.0
+2019-2020,Regular season,11,2019-09-29,Clinceni,FCSB,0.0,3.0,0.0
+2019-2020,Regular season,11,2019-09-29,CFR Cluj,Gaz Metan,3.0,0.0,1.0
+2019-2020,Regular season,11,2019-09-30,Poli Iași,Sepsi,1.0,1.0,0.5
+2019-2020,Regular season,11,2019-09-30,CS U Craiova,Viitorul,3.0,1.0,1.0
+2019-2020,Regular season,12,2019-10-04,Botoșani,Sepsi,1.0,1.0,0.5
+2019-2020,Regular season,12,2019-10-04,CS U Craiova,Poli Iași,1.0,1.0,0.5
+2019-2020,Regular season,12,2019-10-05,Gaz Metan,Clinceni,2.0,1.0,1.0
+2019-2020,Regular season,12,2019-10-05,FCSB,Dinamo,1.0,1.0,0.5
+2019-2020,Regular season,12,2019-10-06,Viitorul,CFR Cluj,3.0,1.0,1.0
+2019-2020,Regular season,12,2019-10-07,Voluntari,Chindia,0.0,1.0,0.0
+2019-2020,Regular season,12,2019-10-07,Astra Giurgiu,Hermannstadt,0.0,0.0,0.5
+2019-2020,Regular season,13,2019-10-18,Hermannstadt,Voluntari,0.0,0.0,0.5
+2019-2020,Regular season,13,2019-10-18,Dinamo,Gaz Metan,2.0,0.0,1.0
+2019-2020,Regular season,13,2019-10-19,CFR Cluj,CS U Craiova,2.0,0.0,1.0
+2019-2020,Regular season,13,2019-10-20,Clinceni,Viitorul,0.0,0.0,0.5
+2019-2020,Regular season,13,2019-10-20,Sepsi,Astra Giurgiu,2.0,3.0,0.0
+2019-2020,Regular season,13,2019-10-20,Chindia,FCSB,1.0,2.0,0.0
+2019-2020,Regular season,13,2019-10-21,Poli Iași,Botoșani,0.0,3.0,0.0
+2019-2020,Regular season,14,2019-10-25,Sepsi,Voluntari,0.0,0.0,0.5
+2019-2020,Regular season,14,2019-10-26,Chindia,Gaz Metan,1.0,1.0,0.5
+2019-2020,Regular season,14,2019-10-26,Hermannstadt,FCSB,0.0,4.0,0.0
+2019-2020,Regular season,14,2019-10-27,Clinceni,CS U Craiova,0.0,0.0,0.5
+2019-2020,Regular season,14,2019-10-27,Botoșani,Astra Giurgiu,1.0,2.0,0.0
+2019-2020,Regular season,14,2019-10-27,Dinamo,Viitorul,3.0,2.0,1.0
+2019-2020,Regular season,14,2019-10-28,Poli Iași,CFR Cluj,2.0,1.0,1.0
+2019-2020,Regular season,15,2019-11-01,Viitorul,Chindia,3.0,0.0,1.0
+2019-2020,Regular season,15,2019-11-02,Gaz Metan,Hermannstadt,1.0,1.0,0.5
+2019-2020,Regular season,15,2019-11-02,CFR Cluj,Clinceni,3.0,0.0,1.0
+2019-2020,Regular season,15,2019-11-03,Voluntari,Botoșani,1.0,2.0,0.0
+2019-2020,Regular season,15,2019-11-03,FCSB,Sepsi,2.0,1.0,1.0
+2019-2020,Regular season,15,2019-11-04,Astra Giurgiu,Poli Iași,4.0,0.0,1.0
+2019-2020,Regular season,15,2019-11-04,CS U Craiova,Dinamo,4.0,1.0,1.0
+2019-2020,Regular season,16,2019-11-08,Astra Giurgiu,Voluntari,1.0,0.0,1.0
+2019-2020,Regular season,16,2019-11-08,Hermannstadt,Viitorul,1.0,1.0,0.5
+2019-2020,Regular season,16,2019-11-09,Clinceni,Poli Iași,1.0,0.0,1.0
+2019-2020,Regular season,16,2019-11-09,Chindia,CS U Craiova,1.0,1.0,0.5
+2019-2020,Regular season,16,2019-11-09,Botoșani,FCSB,0.0,2.0,0.0
+2019-2020,Regular season,16,2019-11-10,Sepsi,Gaz Metan,0.0,1.0,0.0
+2019-2020,Regular season,16,2019-11-10,Dinamo,CFR Cluj,0.0,0.0,0.5
+2019-2020,Regular season,17,2019-11-22,CFR Cluj,Chindia,4.0,0.0,1.0
+2019-2020,Regular season,17,2019-11-23,Poli Iași,Voluntari,2.0,2.0,0.5
+2019-2020,Regular season,17,2019-11-23,FCSB,Astra Giurgiu,1.0,3.0,0.0
+2019-2020,Regular season,17,2019-11-24,Clinceni,Dinamo,2.0,2.0,0.5
+2019-2020,Regular season,17,2019-11-24,Gaz Metan,Botoșani,0.0,0.0,0.5
+2019-2020,Regular season,17,2019-11-24,CS U Craiova,Hermannstadt,3.0,0.0,1.0
+2019-2020,Regular season,17,2019-11-25,Viitorul,Sepsi,4.0,1.0,1.0
+2019-2020,Regular season,18,2019-11-29,Astra Giurgiu,Gaz Metan,1.0,0.0,1.0
+2019-2020,Regular season,18,2019-11-29,Dinamo,Poli Iași,1.0,0.0,1.0
+2019-2020,Regular season,18,2019-11-30,Sepsi,CS U Craiova,1.0,0.0,1.0
+2019-2020,Regular season,18,2019-12-01,Chindia,Clinceni,2.0,5.0,0.0
+2019-2020,Regular season,18,2019-12-01,Hermannstadt,CFR Cluj,1.0,1.0,0.5
+2019-2020,Regular season,18,2019-12-02,Botoșani,Viitorul,1.0,0.0,1.0
+2019-2020,Regular season,19,2019-12-03,Gaz Metan,Voluntari,1.0,0.0,1.0
+2019-2020,Regular season,19,2019-12-03,Poli Iași,FCSB,1.0,2.0,0.0
+2019-2020,Regular season,19,2019-12-04,Clinceni,Hermannstadt,1.0,1.0,0.5
+2019-2020,Regular season,19,2019-12-04,CFR Cluj,Sepsi,1.0,0.0,1.0
+2019-2020,Regular season,19,2019-12-04,Dinamo,Chindia,4.0,1.0,1.0
+2019-2020,Regular season,19,2019-12-05,CS U Craiova,Botoșani,3.0,1.0,1.0
+2019-2020,Regular season,19,2019-12-05,Viitorul,Astra Giurgiu,0.0,1.0,0.0
+2019-2020,Regular season,20,2019-12-06,FCSB,Gaz Metan,2.0,0.0,1.0
+2019-2020,Regular season,20,2019-12-07,Chindia,Poli Iași,2.0,1.0,1.0
+2019-2020,Regular season,20,2019-12-07,Hermannstadt,Dinamo,4.0,2.0,1.0
+2019-2020,Regular season,20,2019-12-08,Botoșani,CFR Cluj,2.0,1.0,1.0
+2019-2020,Regular season,20,2019-12-08,Astra Giurgiu,CS U Craiova,1.0,0.0,1.0
+2019-2020,Regular season,20,2019-12-09,Sepsi,Clinceni,4.0,0.0,1.0
+2019-2020,Regular season,20,2019-12-09,Voluntari,Viitorul,1.0,2.0,0.0
+2019-2020,Regular season,21,2019-12-13,Dinamo,Sepsi,1.0,2.0,0.0
+2019-2020,Regular season,21,2019-12-14,Clinceni,Botoșani,1.0,1.0,0.5
+2019-2020,Regular season,21,2019-12-14,Poli Iași,Gaz Metan,1.0,2.0,0.0
+2019-2020,Regular season,21,2019-12-14,CS U Craiova,Voluntari,2.0,1.0,1.0
+2019-2020,Regular season,21,2019-12-15,Chindia,Hermannstadt,1.0,1.0,0.5
+2019-2020,Regular season,21,2019-12-15,Viitorul,FCSB,0.0,2.0,0.0
+2019-2020,Regular season,21,2019-12-16,CFR Cluj,Astra Giurgiu,2.0,0.0,1.0
+2019-2020,Regular season,22,2019-12-19,Botoșani,Dinamo,1.0,0.0,1.0
+2019-2020,Regular season,22,2019-12-20,Astra Giurgiu,Clinceni,3.0,1.0,1.0
+2019-2020,Regular season,22,2019-12-20,Gaz Metan,Viitorul,1.0,0.0,1.0
+2019-2020,Regular season,22,2019-12-21,Hermannstadt,Poli Iași,1.0,0.0,1.0
+2019-2020,Regular season,22,2019-12-21,Voluntari,CFR Cluj,0.0,4.0,0.0
+2019-2020,Regular season,22,2019-12-22,Sepsi,Chindia,3.0,1.0,1.0
+2019-2020,Regular season,22,2019-12-22,FCSB,CS U Craiova,2.0,0.0,1.0
+2019-2020,Regular season,23,2020-01-31,CS U Craiova,Gaz Metan,3.0,1.0,1.0
+2019-2020,Regular season,23,2020-02-01,Clinceni,Voluntari,1.0,2.0,0.0
+2019-2020,Regular season,23,2020-02-01,Hermannstadt,Sepsi,2.0,2.0,0.5
+2019-2020,Regular season,23,2020-02-01,Dinamo,Astra Giurgiu,2.0,0.0,1.0
+2019-2020,Regular season,23,2020-02-02,Chindia,Botoșani,0.0,1.0,0.0
+2019-2020,Regular season,23,2020-02-02,CFR Cluj,FCSB,1.0,0.0,1.0
+2019-2020,Regular season,23,2020-02-03,Poli Iași,Viitorul,1.0,2.0,0.0
+2019-2020,Regular season,18,2020-02-06,Voluntari,FCSB,1.0,2.0,0.0
+2019-2020,Regular season,24,2020-02-07,Astra Giurgiu,Chindia,1.0,2.0,0.0
+2019-2020,Regular season,24,2020-02-08,Gaz Metan,CFR Cluj,0.0,0.0,0.5
+2019-2020,Regular season,24,2020-02-09,Sepsi,Poli Iași,1.0,0.0,1.0
+2019-2020,Regular season,24,2020-02-09,Voluntari,Dinamo,2.0,1.0,1.0
+2019-2020,Regular season,24,2020-02-09,Viitorul,CS U Craiova,1.0,2.0,0.0
+2019-2020,Regular season,24,2020-02-10,Botoșani,Hermannstadt,2.0,1.0,1.0
+2019-2020,Regular season,24,2020-02-10,FCSB,Clinceni,0.0,0.0,0.5
+2019-2020,Regular season,25,2020-02-14,Chindia,Voluntari,1.0,2.0,0.0
+2019-2020,Regular season,25,2020-02-14,CFR Cluj,Viitorul,0.0,0.0,0.5
+2019-2020,Regular season,25,2020-02-15,Clinceni,Gaz Metan,2.0,3.0,0.0
+2019-2020,Regular season,25,2020-02-15,Poli Iași,CS U Craiova,2.0,5.0,0.0
+2019-2020,Regular season,25,2020-02-16,Sepsi,Botoșani,0.0,1.0,0.0
+2019-2020,Regular season,25,2020-02-16,Dinamo,FCSB,2.0,1.0,1.0
+2019-2020,Regular season,25,2020-02-17,Hermannstadt,Astra Giurgiu,2.0,2.0,0.5
+2019-2020,Regular season,26,2020-02-22,Voluntari,Hermannstadt,2.0,0.0,1.0
+2019-2020,Regular season,26,2020-02-22,FCSB,Chindia,1.0,1.0,0.5
+2019-2020,Regular season,26,2020-02-23,Viitorul,Clinceni,0.0,0.0,0.5
+2019-2020,Regular season,26,2020-02-23,Astra Giurgiu,Sepsi,2.0,2.0,0.5
+2019-2020,Regular season,26,2020-02-23,Gaz Metan,Dinamo,1.0,0.0,1.0
+2019-2020,Regular season,26,2020-02-23,CS U Craiova,CFR Cluj,0.0,2.0,0.0
+2019-2020,Regular season,26,2020-02-24,Botoșani,Poli Iași,2.0,1.0,1.0
+2019-2020,Relegation round,1,2020-02-28,Sepsi,Poli Iași,1.0,1.0,0.5
+2019-2020,Relegation round,1,2020-02-28,Dinamo,Clinceni,0.0,1.0,0.0
+2019-2020,Relegation round,1,2020-02-29,Viitorul,Voluntari,0.0,0.0,0.5
+2019-2020,Championship round,1,2020-02-29,Botoșani,FCSB,2.0,2.0,0.5
+2019-2020,Championship round,1,2020-03-01,CS U Craiova,Gaz Metan,2.0,1.0,1.0
+2019-2020,Relegation round,1,2020-03-02,Hermannstadt,Chindia,1.0,0.0,1.0
+2019-2020,Championship round,1,2020-03-02,CFR Cluj,Astra Giurgiu,2.0,1.0,1.0
+2019-2020,Championship round,2,2020-03-06,Astra Giurgiu,Botoșani,1.0,0.0,1.0
+2019-2020,Relegation round,2,2020-03-07,Clinceni,Viitorul,2.0,3.0,0.0
+2019-2020,Relegation round,2,2020-03-07,Poli Iași,Dinamo,1.0,0.0,1.0
+2019-2020,Relegation round,2,2020-03-08,Chindia,Sepsi,1.0,1.0,0.5
+2019-2020,Championship round,2,2020-03-08,FCSB,CS U Craiova,4.0,1.0,1.0
+2019-2020,Relegation round,2,2020-03-09,Voluntari,Hermannstadt,1.0,1.0,0.5
+2019-2020,Championship round,2,2020-03-09,Gaz Metan,CFR Cluj,0.0,0.0,0.5
+2019-2020,Relegation round,3,2020-06-13,Voluntari,Clinceni,3.0,0.0,1.0
+2019-2020,Relegation round,3,2020-06-13,Sepsi,Hermannstadt,1.0,1.0,0.5
+2019-2020,Relegation round,3,2020-06-14,Viitorul,Poli Iași,2.0,1.0,1.0
+2019-2020,Championship round,3,2020-06-14,CFR Cluj,FCSB,1.0,0.0,1.0
+2019-2020,Championship round,3,2020-06-15,Astra Giurgiu,Gaz Metan,0.0,0.0,0.5
+2019-2020,Relegation round,4,2020-06-16,Sepsi,Voluntari,1.0,2.0,0.0
+2019-2020,Relegation round,4,2020-06-17,Chindia,Viitorul,2.0,1.0,1.0
+2019-2020,Relegation round,4,2020-06-18,Poli Iași,Clinceni,0.0,1.0,0.0
+2019-2020,Championship round,4,2020-06-19,CS U Craiova,Astra Giurgiu,2.0,1.0,1.0
+2019-2020,Championship round,4,2020-06-20,Botoșani,CFR Cluj,0.0,2.0,0.0
+2019-2020,Relegation round,5,2020-06-21,Voluntari,Poli Iași,1.0,0.0,1.0
+2019-2020,Relegation round,5,2020-06-21,Dinamo,Sepsi,1.0,3.0,0.0
+2019-2020,Championship round,4,2020-06-21,FCSB,Gaz Metan,2.0,2.0,0.5
+2019-2020,Relegation round,5,2020-06-22,Clinceni,Chindia,1.0,0.0,1.0
+2019-2020,Relegation round,5,2020-06-22,Viitorul,Hermannstadt,4.0,1.0,1.0
+2019-2020,Championship round,3,2020-06-23,CS U Craiova,Botoșani,2.0,1.0,1.0
+2019-2020,Relegation round,6,2020-06-26,Hermannstadt,Clinceni,0.0,1.0,0.0
+2019-2020,Championship round,5,2020-06-26,Gaz Metan,Botoșani,0.0,2.0,0.0
+2019-2020,Relegation round,6,2020-06-27,Chindia,Poli Iași,0.0,2.0,0.0
+2019-2020,Relegation round,6,2020-06-27,Sepsi,Viitorul,3.0,3.0,0.5
+2019-2020,Relegation round,6,2020-06-28,Dinamo,Voluntari,0.0,1.0,0.0
+2019-2020,Championship round,5,2020-06-28,CFR Cluj,CS U Craiova,2.0,3.0,0.0
+2019-2020,Championship round,5,2020-06-29,Astra Giurgiu,FCSB,3.0,2.0,1.0
+2019-2020,Relegation round,7,2020-06-30,Poli Iași,Hermannstadt,2.0,3.0,0.0
+2019-2020,Relegation round,7,2020-07-01,Clinceni,Sepsi,1.0,0.0,1.0
+2019-2020,Relegation round,7,2020-07-01,Voluntari,Chindia,2.0,0.0,1.0
+2019-2020,Relegation round,7,2020-07-02,Viitorul,Dinamo,1.0,0.0,1.0
+2019-2020,Championship round,6,2020-07-03,Gaz Metan,CS U Craiova,1.0,2.0,0.0
+2019-2020,Championship round,6,2020-07-04,FCSB,Botoșani,1.0,1.0,0.5
+2019-2020,Relegation round,8,2020-07-05,Poli Iași,Sepsi,3.0,1.0,1.0
+2019-2020,Relegation round,8,2020-07-05,Clinceni,Dinamo,1.0,3.0,0.0
+2019-2020,Championship round,6,2020-07-05,Astra Giurgiu,CFR Cluj,2.0,2.0,0.5
+2019-2020,Relegation round,8,2020-07-06,Chindia,Hermannstadt,0.0,1.0,0.0
+2019-2020,Relegation round,8,2020-07-06,Voluntari,Viitorul,0.0,0.0,0.5
+2019-2020,Championship round,7,2020-07-10,Botoșani,Astra Giurgiu,0.0,0.0,0.5
+2019-2020,Relegation round,9,2020-07-11,Viitorul,Clinceni,5.0,0.0,1.0
+2019-2020,Relegation round,9,2020-07-11,Hermannstadt,Voluntari,2.0,1.0,1.0
+2019-2020,Relegation round,9,2020-07-12,Dinamo,Poli Iași,1.0,1.0,0.5
+2019-2020,Championship round,7,2020-07-12,CS U Craiova,FCSB,2.0,1.0,1.0
+2019-2020,Relegation round,9,2020-07-13,Sepsi,Chindia,2.0,0.0,1.0
+2019-2020,Championship round,7,2020-07-13,CFR Cluj,Gaz Metan,2.0,0.0,1.0
+2019-2020,Relegation round,3,2020-07-16,Dinamo,Chindia,,,0.5
+2019-2020,Relegation round,10,2020-07-17,Clinceni,Voluntari,2.0,1.0,1.0
+2019-2020,Championship round,8,2020-07-17,Gaz Metan,Astra Giurgiu,0.0,4.0,0.0
+2019-2020,Relegation round,10,2020-07-18,Hermannstadt,Sepsi,2.0,2.0,0.5
+2019-2020,Relegation round,10,2020-07-19,Chindia,Dinamo,,,0.5
+2019-2020,Championship round,8,2020-07-19,Botoșani,CS U Craiova,0.0,2.0,0.0
+2019-2020,Relegation round,10,2020-07-20,Poli Iași,Viitorul,1.0,1.0,0.5
+2019-2020,Relegation round,11,2020-07-24,Dinamo,Hermannstadt,,,0.5
+2019-2020,Relegation round,11,2020-07-25,Viitorul,Chindia,4.0,1.0,1.0
+2019-2020,Championship round,9,2020-07-25,Gaz Metan,FCSB,0.0,1.0,0.0
+2019-2020,Relegation round,11,2020-07-26,Clinceni,Poli Iași,3.0,0.0,1.0
+2019-2020,Relegation round,11,2020-07-26,Voluntari,Sepsi,2.0,0.0,1.0
+2019-2020,Relegation round,4,2020-07-27,Hermannstadt,Dinamo,,,0.5
+2019-2020,Championship round,9,2020-07-28,CFR Cluj,Botoșani,1.0,0.0,1.0
+2019-2020,Relegation round,12,2020-07-29,Chindia,Clinceni,3.0,1.0,1.0
+2019-2020,Relegation round,12,2020-07-29,Hermannstadt,Viitorul,2.0,0.0,1.0
+2019-2020,Relegation round,12,2020-07-29,Sepsi,Dinamo,,,0.5
+2019-2020,Championship round,9,2020-07-29,Astra Giurgiu,CS U Craiova,,,0.5
+2019-2020,Relegation round,12,2020-07-30,Poli Iași,Voluntari,2.0,1.0,1.0
+2019-2020,Championship round,8,2020-07-31,FCSB,CFR Cluj,0.0,2.0,0.0
+2019-2020,Relegation round,13,2020-08-01,Clinceni,Hermannstadt,0.0,2.0,0.0
+2019-2020,Relegation round,13,2020-08-01,Viitorul,Sepsi,0.0,3.0,0.0
+2019-2020,Championship round,10,2020-08-01,FCSB,Astra Giurgiu,,,0.5
+2019-2020,Championship round,10,2020-08-01,Botoșani,Gaz Metan,4.0,1.0,1.0
+2019-2020,Relegation round,13,2020-08-02,Poli Iași,Chindia,1.0,0.0,1.0
+2019-2020,Relegation round,13,2020-08-02,Voluntari,Dinamo,1.0,2.0,0.0
+2019-2020,Championship round,10,2020-08-03,CS U Craiova,CFR Cluj,1.0,3.0,0.0
+2019-2020,Relegation round,14,2020-08-05,Sepsi,Clinceni,1.0,0.0,1.0
+2019-2020,Relegation round,14,2020-08-05,Dinamo,Viitorul,1.0,1.0,0.5
+2019-2020,Relegation round,14,2020-08-05,Hermannstadt,Poli Iași,2.0,2.0,0.5
+2019-2020,Relegation round,14,2020-08-05,Chindia,Voluntari,2.0,0.0,1.0
+2019-2020,Romanian 1/2 Relegation/Promotion Playoffs,,2020-08-09,Chindia,Mioveni,2.0,0.0,1.0
+2019-2020,Romanian 1/2 Relegation/Promotion Playoffs,,2020-08-12,Mioveni,Chindia,1.0,1.0,0.5

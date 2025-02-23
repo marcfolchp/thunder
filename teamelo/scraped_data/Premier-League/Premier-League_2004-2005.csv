@@ -3,379 +3,379 @@ Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
 2004-2005,1,2004-08-14,Manchester City,Fulham,1,1,0.5
 2004-2005,1,2004-08-14,Middlesbrough,Newcastle Utd,2,2,0.5
 2004-2005,1,2004-08-14,Portsmouth,Birmingham City,1,1,0.5
-2004-2005,1,2004-08-14,Bolton,Charlton Ath,4,1,0.0
+2004-2005,1,2004-08-14,Bolton,Charlton Ath,4,1,1.0
 2004-2005,1,2004-08-14,Tottenham,Liverpool,1,1,0.5
-2004-2005,1,2004-08-14,Aston Villa,Southampton,2,0,0.0
+2004-2005,1,2004-08-14,Aston Villa,Southampton,2,0,1.0
 2004-2005,1,2004-08-14,Blackburn,West Brom,1,1,0.5
-2004-2005,1,2004-08-15,Chelsea,Manchester Utd,1,0,0.0
-2004-2005,1,2004-08-15,Everton,Arsenal,1,4,1.0
-2004-2005,2,2004-08-21,Southampton,Blackburn,3,2,0.0
-2004-2005,2,2004-08-21,Charlton Ath,Portsmouth,2,1,0.0
-2004-2005,2,2004-08-21,Crystal Palace,Everton,1,3,1.0
-2004-2005,2,2004-08-21,Birmingham City,Chelsea,0,1,1.0
-2004-2005,2,2004-08-21,Newcastle Utd,Tottenham,0,1,1.0
-2004-2005,2,2004-08-21,Manchester Utd,Norwich City,2,1,0.0
-2004-2005,2,2004-08-21,Fulham,Bolton,2,0,0.0
-2004-2005,2,2004-08-21,Liverpool,Manchester City,2,1,0.0
-2004-2005,2,2004-08-22,Arsenal,Middlesbrough,5,3,0.0
+2004-2005,1,2004-08-15,Chelsea,Manchester Utd,1,0,1.0
+2004-2005,1,2004-08-15,Everton,Arsenal,1,4,0.0
+2004-2005,2,2004-08-21,Southampton,Blackburn,3,2,1.0
+2004-2005,2,2004-08-21,Charlton Ath,Portsmouth,2,1,1.0
+2004-2005,2,2004-08-21,Crystal Palace,Everton,1,3,0.0
+2004-2005,2,2004-08-21,Birmingham City,Chelsea,0,1,0.0
+2004-2005,2,2004-08-21,Newcastle Utd,Tottenham,0,1,0.0
+2004-2005,2,2004-08-21,Manchester Utd,Norwich City,2,1,1.0
+2004-2005,2,2004-08-21,Fulham,Bolton,2,0,1.0
+2004-2005,2,2004-08-21,Liverpool,Manchester City,2,1,1.0
+2004-2005,2,2004-08-22,Arsenal,Middlesbrough,5,3,1.0
 2004-2005,2,2004-08-22,West Brom,Aston Villa,1,1,0.5
-2004-2005,3,2004-08-24,Crystal Palace,Chelsea,0,2,1.0
-2004-2005,3,2004-08-24,Birmingham City,Manchester City,1,0,0.0
-2004-2005,3,2004-08-25,Fulham,Middlesbrough,0,2,1.0
+2004-2005,3,2004-08-24,Crystal Palace,Chelsea,0,2,0.0
+2004-2005,3,2004-08-24,Birmingham City,Manchester City,1,0,1.0
+2004-2005,3,2004-08-25,Fulham,Middlesbrough,0,2,0.0
 2004-2005,3,2004-08-25,West Brom,Tottenham,1,1,0.5
-2004-2005,3,2004-08-25,Southampton,Bolton,1,2,1.0
-2004-2005,3,2004-08-25,Arsenal,Blackburn,3,0,0.0
-2004-2005,3,2004-08-25,Charlton Ath,Aston Villa,3,0,0.0
+2004-2005,3,2004-08-25,Southampton,Bolton,1,2,0.0
+2004-2005,3,2004-08-25,Arsenal,Blackburn,3,0,1.0
+2004-2005,3,2004-08-25,Charlton Ath,Aston Villa,3,0,1.0
 2004-2005,3,2004-08-25,Newcastle Utd,Norwich City,2,2,0.5
-2004-2005,4,2004-08-28,Middlesbrough,Crystal Palace,2,1,0.0
-2004-2005,4,2004-08-28,Everton,West Brom,2,1,0.0
+2004-2005,4,2004-08-28,Middlesbrough,Crystal Palace,2,1,1.0
+2004-2005,4,2004-08-28,Everton,West Brom,2,1,1.0
 2004-2005,4,2004-08-28,Blackburn,Manchester Utd,1,1,0.5
-2004-2005,4,2004-08-28,Tottenham,Birmingham City,1,0,0.0
-2004-2005,4,2004-08-28,Chelsea,Southampton,2,1,0.0
-2004-2005,4,2004-08-28,Manchester City,Charlton Ath,4,0,0.0
-2004-2005,4,2004-08-28,Aston Villa,Newcastle Utd,4,2,0.0
-2004-2005,4,2004-08-28,Norwich City,Arsenal,1,4,1.0
-2004-2005,4,2004-08-29,Bolton,Liverpool,1,0,0.0
+2004-2005,4,2004-08-28,Tottenham,Birmingham City,1,0,1.0
+2004-2005,4,2004-08-28,Chelsea,Southampton,2,1,1.0
+2004-2005,4,2004-08-28,Manchester City,Charlton Ath,4,0,1.0
+2004-2005,4,2004-08-28,Aston Villa,Newcastle Utd,4,2,1.0
+2004-2005,4,2004-08-28,Norwich City,Arsenal,1,4,0.0
+2004-2005,4,2004-08-29,Bolton,Liverpool,1,0,1.0
 2004-2005,3,2004-08-30,Manchester Utd,Everton,0,0,0.5
-2004-2005,4,2004-08-30,Portsmouth,Fulham,4,3,0.0
-2004-2005,5,2004-09-11,Liverpool,West Brom,3,0,0.0
+2004-2005,4,2004-08-30,Portsmouth,Fulham,4,3,1.0
+2004-2005,5,2004-09-11,Liverpool,West Brom,3,0,1.0
 2004-2005,5,2004-09-11,Aston Villa,Chelsea,0,0,0.5
-2004-2005,5,2004-09-11,Fulham,Arsenal,0,3,1.0
+2004-2005,5,2004-09-11,Fulham,Arsenal,0,3,0.0
 2004-2005,5,2004-09-11,Bolton,Manchester Utd,2,2,0.5
-2004-2005,5,2004-09-11,Manchester City,Everton,0,1,1.0
-2004-2005,5,2004-09-11,Middlesbrough,Birmingham City,2,1,0.0
-2004-2005,5,2004-09-11,Portsmouth,Crystal Palace,3,1,0.0
-2004-2005,5,2004-09-11,Newcastle Utd,Blackburn,3,0,0.0
+2004-2005,5,2004-09-11,Manchester City,Everton,0,1,0.0
+2004-2005,5,2004-09-11,Middlesbrough,Birmingham City,2,1,1.0
+2004-2005,5,2004-09-11,Portsmouth,Crystal Palace,3,1,1.0
+2004-2005,5,2004-09-11,Newcastle Utd,Blackburn,3,0,1.0
 2004-2005,5,2004-09-12,Tottenham,Norwich City,0,0,0.5
 2004-2005,5,2004-09-13,Charlton Ath,Southampton,0,0,0.5
 2004-2005,6,2004-09-18,West Brom,Fulham,1,1,0.5
 2004-2005,6,2004-09-18,Birmingham City,Charlton Ath,1,1,0.5
-2004-2005,6,2004-09-18,Crystal Palace,Manchester City,1,2,1.0
+2004-2005,6,2004-09-18,Crystal Palace,Manchester City,1,2,0.0
 2004-2005,6,2004-09-18,Norwich City,Aston Villa,0,0,0.5
 2004-2005,6,2004-09-18,Arsenal,Bolton,2,2,0.5
-2004-2005,6,2004-09-18,Blackburn,Portsmouth,1,0,0.0
-2004-2005,6,2004-09-19,Everton,Middlesbrough,1,0,0.0
-2004-2005,6,2004-09-19,Southampton,Newcastle Utd,1,2,1.0
+2004-2005,6,2004-09-18,Blackburn,Portsmouth,1,0,1.0
+2004-2005,6,2004-09-19,Everton,Middlesbrough,1,0,1.0
+2004-2005,6,2004-09-19,Southampton,Newcastle Utd,1,2,0.0
 2004-2005,6,2004-09-19,Chelsea,Tottenham,0,0,0.5
-2004-2005,6,2004-09-20,Manchester Utd,Liverpool,2,1,0.0
-2004-2005,7,2004-09-25,Tottenham,Manchester Utd,0,1,1.0
+2004-2005,6,2004-09-20,Manchester Utd,Liverpool,2,1,1.0
+2004-2005,7,2004-09-25,Tottenham,Manchester Utd,0,1,0.0
 2004-2005,7,2004-09-25,Bolton,Birmingham City,1,1,0.5
-2004-2005,7,2004-09-25,Fulham,Southampton,1,0,0.0
+2004-2005,7,2004-09-25,Fulham,Southampton,1,0,1.0
 2004-2005,7,2004-09-25,Aston Villa,Crystal Palace,1,1,0.5
-2004-2005,7,2004-09-25,Liverpool,Norwich City,3,0,0.0
-2004-2005,7,2004-09-25,Middlesbrough,Chelsea,0,1,1.0
-2004-2005,7,2004-09-25,Manchester City,Arsenal,0,1,1.0
-2004-2005,7,2004-09-25,Newcastle Utd,West Brom,3,1,0.0
-2004-2005,7,2004-09-26,Portsmouth,Everton,0,1,1.0
-2004-2005,7,2004-09-27,Charlton Ath,Blackburn,1,0,0.0
-2004-2005,8,2004-10-02,Everton,Tottenham,0,1,1.0
+2004-2005,7,2004-09-25,Liverpool,Norwich City,3,0,1.0
+2004-2005,7,2004-09-25,Middlesbrough,Chelsea,0,1,0.0
+2004-2005,7,2004-09-25,Manchester City,Arsenal,0,1,0.0
+2004-2005,7,2004-09-25,Newcastle Utd,West Brom,3,1,1.0
+2004-2005,7,2004-09-26,Portsmouth,Everton,0,1,0.0
+2004-2005,7,2004-09-27,Charlton Ath,Blackburn,1,0,1.0
+2004-2005,8,2004-10-02,Everton,Tottenham,0,1,0.0
 2004-2005,8,2004-10-02,Norwich City,Portsmouth,2,2,0.5
-2004-2005,8,2004-10-02,Arsenal,Charlton Ath,4,0,0.0
+2004-2005,8,2004-10-02,Arsenal,Charlton Ath,4,0,1.0
 2004-2005,8,2004-10-02,Southampton,Manchester City,0,0,0.5
-2004-2005,8,2004-10-02,West Brom,Bolton,2,1,0.0
+2004-2005,8,2004-10-02,West Brom,Bolton,2,1,1.0
 2004-2005,8,2004-10-02,Blackburn,Aston Villa,2,2,0.5
 2004-2005,8,2004-10-03,Manchester Utd,Middlesbrough,1,1,0.5
 2004-2005,8,2004-10-03,Birmingham City,Newcastle Utd,2,2,0.5
-2004-2005,8,2004-10-03,Chelsea,Liverpool,1,0,0.0
-2004-2005,8,2004-10-04,Crystal Palace,Fulham,2,0,0.0
-2004-2005,9,2004-10-16,Fulham,Liverpool,2,4,1.0
+2004-2005,8,2004-10-03,Chelsea,Liverpool,1,0,1.0
+2004-2005,8,2004-10-04,Crystal Palace,Fulham,2,0,1.0
+2004-2005,9,2004-10-16,Fulham,Liverpool,2,4,0.0
 2004-2005,9,2004-10-16,West Brom,Norwich City,0,0,0.5
-2004-2005,9,2004-10-16,Bolton,Crystal Palace,1,0,0.0
-2004-2005,9,2004-10-16,Arsenal,Aston Villa,3,1,0.0
-2004-2005,9,2004-10-16,Manchester City,Chelsea,1,0,0.0
-2004-2005,9,2004-10-16,Blackburn,Middlesbrough,0,4,1.0
-2004-2005,9,2004-10-16,Everton,Southampton,1,0,0.0
+2004-2005,9,2004-10-16,Bolton,Crystal Palace,1,0,1.0
+2004-2005,9,2004-10-16,Arsenal,Aston Villa,3,1,1.0
+2004-2005,9,2004-10-16,Manchester City,Chelsea,1,0,1.0
+2004-2005,9,2004-10-16,Blackburn,Middlesbrough,0,4,0.0
+2004-2005,9,2004-10-16,Everton,Southampton,1,0,1.0
 2004-2005,9,2004-10-16,Birmingham City,Manchester Utd,0,0,0.5
 2004-2005,9,2004-10-17,Charlton Ath,Newcastle Utd,1,1,0.5
-2004-2005,9,2004-10-18,Portsmouth,Tottenham,1,0,0.0
-2004-2005,10,2004-10-23,Chelsea,Blackburn,4,0,0.0
-2004-2005,10,2004-10-23,Crystal Palace,West Brom,3,0,0.0
-2004-2005,10,2004-10-23,Liverpool,Charlton Ath,2,0,0.0
-2004-2005,10,2004-10-23,Norwich City,Everton,2,3,1.0
-2004-2005,10,2004-10-23,Tottenham,Bolton,1,2,1.0
-2004-2005,10,2004-10-23,Aston Villa,Fulham,2,0,0.0
-2004-2005,10,2004-10-24,Newcastle Utd,Manchester City,4,3,0.0
+2004-2005,9,2004-10-18,Portsmouth,Tottenham,1,0,1.0
+2004-2005,10,2004-10-23,Chelsea,Blackburn,4,0,1.0
+2004-2005,10,2004-10-23,Crystal Palace,West Brom,3,0,1.0
+2004-2005,10,2004-10-23,Liverpool,Charlton Ath,2,0,1.0
+2004-2005,10,2004-10-23,Norwich City,Everton,2,3,0.0
+2004-2005,10,2004-10-23,Tottenham,Bolton,1,2,0.0
+2004-2005,10,2004-10-23,Aston Villa,Fulham,2,0,1.0
+2004-2005,10,2004-10-24,Newcastle Utd,Manchester City,4,3,1.0
 2004-2005,10,2004-10-24,Middlesbrough,Portsmouth,1,1,0.5
 2004-2005,10,2004-10-24,Southampton,Birmingham City,0,0,0.5
-2004-2005,10,2004-10-24,Manchester Utd,Arsenal,2,0,0.0
-2004-2005,11,2004-10-30,West Brom,Chelsea,1,4,1.0
-2004-2005,11,2004-10-30,Charlton Ath,Middlesbrough,1,2,1.0
+2004-2005,10,2004-10-24,Manchester Utd,Arsenal,2,0,1.0
+2004-2005,11,2004-10-30,West Brom,Chelsea,1,4,0.0
+2004-2005,11,2004-10-30,Charlton Ath,Middlesbrough,1,2,0.0
 2004-2005,11,2004-10-30,Arsenal,Southampton,2,2,0.5
-2004-2005,11,2004-10-30,Portsmouth,Manchester Utd,2,0,0.0
-2004-2005,11,2004-10-30,Fulham,Tottenham,2,0,0.0
+2004-2005,11,2004-10-30,Portsmouth,Manchester Utd,2,0,1.0
+2004-2005,11,2004-10-30,Fulham,Tottenham,2,0,1.0
 2004-2005,11,2004-10-30,Everton,Aston Villa,1,1,0.5
-2004-2005,11,2004-10-30,Birmingham City,Crystal Palace,0,1,1.0
+2004-2005,11,2004-10-30,Birmingham City,Crystal Palace,0,1,0.0
 2004-2005,11,2004-10-30,Blackburn,Liverpool,2,2,0.5
-2004-2005,11,2004-10-31,Bolton,Newcastle Utd,2,1,0.0
+2004-2005,11,2004-10-31,Bolton,Newcastle Utd,2,1,1.0
 2004-2005,11,2004-11-01,Manchester City,Norwich City,1,1,0.5
-2004-2005,12,2004-11-06,Tottenham,Charlton Ath,2,3,1.0
+2004-2005,12,2004-11-06,Tottenham,Charlton Ath,2,3,0.0
 2004-2005,12,2004-11-06,Norwich City,Blackburn,1,1,0.5
 2004-2005,12,2004-11-06,Crystal Palace,Arsenal,1,1,0.5
-2004-2005,12,2004-11-06,Liverpool,Birmingham City,0,1,1.0
-2004-2005,12,2004-11-06,Chelsea,Everton,1,0,0.0
+2004-2005,12,2004-11-06,Liverpool,Birmingham City,0,1,0.0
+2004-2005,12,2004-11-06,Chelsea,Everton,1,0,1.0
 2004-2005,12,2004-11-06,Southampton,West Brom,2,2,0.5
-2004-2005,12,2004-11-06,Aston Villa,Portsmouth,3,0,0.0
-2004-2005,12,2004-11-07,Newcastle Utd,Fulham,1,4,1.0
+2004-2005,12,2004-11-06,Aston Villa,Portsmouth,3,0,1.0
+2004-2005,12,2004-11-07,Newcastle Utd,Fulham,1,4,0.0
 2004-2005,12,2004-11-07,Middlesbrough,Bolton,1,1,0.5
 2004-2005,12,2004-11-07,Manchester Utd,Manchester City,0,0,0.5
-2004-2005,13,2004-11-13,Tottenham,Arsenal,4,5,1.0
-2004-2005,13,2004-11-13,Birmingham City,Everton,0,1,1.0
-2004-2005,13,2004-11-13,Liverpool,Crystal Palace,3,2,0.0
-2004-2005,13,2004-11-13,Southampton,Portsmouth,2,1,0.0
-2004-2005,13,2004-11-13,Charlton Ath,Norwich City,4,0,0.0
-2004-2005,13,2004-11-13,Bolton,Aston Villa,1,2,1.0
+2004-2005,13,2004-11-13,Tottenham,Arsenal,4,5,0.0
+2004-2005,13,2004-11-13,Birmingham City,Everton,0,1,0.0
+2004-2005,13,2004-11-13,Liverpool,Crystal Palace,3,2,1.0
+2004-2005,13,2004-11-13,Southampton,Portsmouth,2,1,1.0
+2004-2005,13,2004-11-13,Charlton Ath,Norwich City,4,0,1.0
+2004-2005,13,2004-11-13,Bolton,Aston Villa,1,2,0.0
 2004-2005,13,2004-11-13,Manchester City,Blackburn,1,1,0.5
-2004-2005,13,2004-11-13,Fulham,Chelsea,1,4,1.0
-2004-2005,13,2004-11-14,West Brom,Middlesbrough,1,2,1.0
-2004-2005,13,2004-11-14,Newcastle Utd,Manchester Utd,1,3,1.0
-2004-2005,14,2004-11-20,Norwich City,Southampton,2,1,0.0
-2004-2005,14,2004-11-20,Everton,Fulham,1,0,0.0
+2004-2005,13,2004-11-13,Fulham,Chelsea,1,4,0.0
+2004-2005,13,2004-11-14,West Brom,Middlesbrough,1,2,0.0
+2004-2005,13,2004-11-14,Newcastle Utd,Manchester Utd,1,3,0.0
+2004-2005,14,2004-11-20,Norwich City,Southampton,2,1,1.0
+2004-2005,14,2004-11-20,Everton,Fulham,1,0,1.0
 2004-2005,14,2004-11-20,Arsenal,West Brom,1,1,0.5
-2004-2005,14,2004-11-20,Crystal Palace,Newcastle Utd,0,2,1.0
+2004-2005,14,2004-11-20,Crystal Palace,Newcastle Utd,0,2,0.0
 2004-2005,14,2004-11-20,Chelsea,Bolton,2,2,0.5
-2004-2005,14,2004-11-20,Middlesbrough,Liverpool,2,0,0.0
-2004-2005,14,2004-11-20,Manchester Utd,Charlton Ath,2,0,0.0
-2004-2005,14,2004-11-20,Portsmouth,Manchester City,1,3,1.0
+2004-2005,14,2004-11-20,Middlesbrough,Liverpool,2,0,1.0
+2004-2005,14,2004-11-20,Manchester Utd,Charlton Ath,2,0,1.0
+2004-2005,14,2004-11-20,Portsmouth,Manchester City,1,3,0.0
 2004-2005,14,2004-11-21,Blackburn,Birmingham City,3,3,0.5
-2004-2005,14,2004-11-22,Aston Villa,Tottenham,1,0,0.0
-2004-2005,15,2004-11-27,Manchester City,Aston Villa,2,0,0.0
+2004-2005,14,2004-11-22,Aston Villa,Tottenham,1,0,1.0
+2004-2005,15,2004-11-27,Manchester City,Aston Villa,2,0,1.0
 2004-2005,15,2004-11-27,Birmingham City,Norwich City,1,1,0.5
-2004-2005,15,2004-11-27,Fulham,Blackburn,0,2,1.0
+2004-2005,15,2004-11-27,Fulham,Blackburn,0,2,0.0
 2004-2005,15,2004-11-27,Southampton,Crystal Palace,2,2,0.5
-2004-2005,15,2004-11-27,West Brom,Manchester Utd,0,3,1.0
-2004-2005,15,2004-11-27,Bolton,Portsmouth,0,1,1.0
-2004-2005,15,2004-11-27,Charlton Ath,Chelsea,0,4,1.0
-2004-2005,15,2004-11-28,Liverpool,Arsenal,2,1,0.0
+2004-2005,15,2004-11-27,West Brom,Manchester Utd,0,3,0.0
+2004-2005,15,2004-11-27,Bolton,Portsmouth,0,1,0.0
+2004-2005,15,2004-11-27,Charlton Ath,Chelsea,0,4,0.0
+2004-2005,15,2004-11-28,Liverpool,Arsenal,2,1,1.0
 2004-2005,15,2004-11-28,Newcastle Utd,Everton,1,1,0.5
-2004-2005,15,2004-11-28,Tottenham,Middlesbrough,2,0,0.0
-2004-2005,16,2004-12-04,Everton,Bolton,3,2,0.0
-2004-2005,16,2004-12-04,Chelsea,Newcastle Utd,4,0,0.0
-2004-2005,16,2004-12-04,Portsmouth,West Brom,3,2,0.0
-2004-2005,16,2004-12-04,Norwich City,Fulham,0,1,1.0
+2004-2005,15,2004-11-28,Tottenham,Middlesbrough,2,0,1.0
+2004-2005,16,2004-12-04,Everton,Bolton,3,2,1.0
+2004-2005,16,2004-12-04,Chelsea,Newcastle Utd,4,0,1.0
+2004-2005,16,2004-12-04,Portsmouth,West Brom,3,2,1.0
+2004-2005,16,2004-12-04,Norwich City,Fulham,0,1,0.0
 2004-2005,16,2004-12-04,Aston Villa,Liverpool,1,1,0.5
-2004-2005,16,2004-12-04,Arsenal,Birmingham City,3,0,0.0
-2004-2005,16,2004-12-04,Blackburn,Tottenham,0,1,1.0
-2004-2005,16,2004-12-04,Manchester Utd,Southampton,3,0,0.0
-2004-2005,16,2004-12-05,Crystal Palace,Charlton Ath,0,1,1.0
-2004-2005,16,2004-12-06,Middlesbrough,Manchester City,3,2,0.0
+2004-2005,16,2004-12-04,Arsenal,Birmingham City,3,0,1.0
+2004-2005,16,2004-12-04,Blackburn,Tottenham,0,1,0.0
+2004-2005,16,2004-12-04,Manchester Utd,Southampton,3,0,1.0
+2004-2005,16,2004-12-05,Crystal Palace,Charlton Ath,0,1,0.0
+2004-2005,16,2004-12-06,Middlesbrough,Manchester City,3,2,1.0
 2004-2005,17,2004-12-11,Newcastle Utd,Portsmouth,1,1,0.5
-2004-2005,17,2004-12-11,West Brom,Charlton Ath,0,1,1.0
-2004-2005,17,2004-12-11,Everton,Liverpool,1,0,0.0
-2004-2005,17,2004-12-11,Manchester City,Tottenham,0,1,1.0
+2004-2005,17,2004-12-11,West Brom,Charlton Ath,0,1,0.0
+2004-2005,17,2004-12-11,Everton,Liverpool,1,0,1.0
+2004-2005,17,2004-12-11,Manchester City,Tottenham,0,1,0.0
 2004-2005,17,2004-12-11,Southampton,Middlesbrough,2,2,0.5
 2004-2005,17,2004-12-11,Crystal Palace,Blackburn,0,0,0.5
-2004-2005,17,2004-12-11,Norwich City,Bolton,3,2,0.0
-2004-2005,17,2004-12-12,Aston Villa,Birmingham City,1,2,1.0
+2004-2005,17,2004-12-11,Norwich City,Bolton,3,2,1.0
+2004-2005,17,2004-12-12,Aston Villa,Birmingham City,1,2,0.0
 2004-2005,17,2004-12-12,Arsenal,Chelsea,2,2,0.5
 2004-2005,17,2004-12-13,Fulham,Manchester Utd,1,1,0.5
 2004-2005,3,2004-12-14,Liverpool,Portsmouth,1,1,0.5
-2004-2005,18,2004-12-18,Middlesbrough,Aston Villa,3,0,0.0
+2004-2005,18,2004-12-18,Middlesbrough,Aston Villa,3,0,1.0
 2004-2005,18,2004-12-18,Blackburn,Everton,0,0,0.5
-2004-2005,18,2004-12-18,Birmingham City,West Brom,4,0,0.0
-2004-2005,18,2004-12-18,Bolton,Manchester City,0,1,1.0
-2004-2005,18,2004-12-18,Chelsea,Norwich City,4,0,0.0
-2004-2005,18,2004-12-18,Manchester Utd,Crystal Palace,5,2,0.0
-2004-2005,18,2004-12-18,Tottenham,Southampton,5,1,0.0
-2004-2005,18,2004-12-19,Portsmouth,Arsenal,0,1,1.0
-2004-2005,18,2004-12-19,Liverpool,Newcastle Utd,3,1,0.0
-2004-2005,18,2004-12-20,Charlton Ath,Fulham,2,1,0.0
-2004-2005,19,2004-12-26,Crystal Palace,Portsmouth,0,1,1.0
-2004-2005,19,2004-12-26,Manchester Utd,Bolton,2,0,0.0
-2004-2005,19,2004-12-26,Chelsea,Aston Villa,1,0,0.0
-2004-2005,19,2004-12-26,Norwich City,Tottenham,0,2,1.0
+2004-2005,18,2004-12-18,Birmingham City,West Brom,4,0,1.0
+2004-2005,18,2004-12-18,Bolton,Manchester City,0,1,0.0
+2004-2005,18,2004-12-18,Chelsea,Norwich City,4,0,1.0
+2004-2005,18,2004-12-18,Manchester Utd,Crystal Palace,5,2,1.0
+2004-2005,18,2004-12-18,Tottenham,Southampton,5,1,1.0
+2004-2005,18,2004-12-19,Portsmouth,Arsenal,0,1,0.0
+2004-2005,18,2004-12-19,Liverpool,Newcastle Utd,3,1,1.0
+2004-2005,18,2004-12-20,Charlton Ath,Fulham,2,1,1.0
+2004-2005,19,2004-12-26,Crystal Palace,Portsmouth,0,1,0.0
+2004-2005,19,2004-12-26,Manchester Utd,Bolton,2,0,1.0
+2004-2005,19,2004-12-26,Chelsea,Aston Villa,1,0,1.0
+2004-2005,19,2004-12-26,Norwich City,Tottenham,0,2,0.0
 2004-2005,19,2004-12-26,Southampton,Charlton Ath,0,0,0.5
 2004-2005,19,2004-12-26,Blackburn,Newcastle Utd,2,2,0.5
-2004-2005,19,2004-12-26,West Brom,Liverpool,0,5,1.0
-2004-2005,19,2004-12-26,Birmingham City,Middlesbrough,2,0,0.0
-2004-2005,19,2004-12-26,Everton,Manchester City,2,1,0.0
-2004-2005,19,2004-12-26,Arsenal,Fulham,2,0,0.0
-2004-2005,20,2004-12-28,Portsmouth,Chelsea,0,2,1.0
-2004-2005,20,2004-12-28,Aston Villa,Manchester Utd,0,1,1.0
+2004-2005,19,2004-12-26,West Brom,Liverpool,0,5,0.0
+2004-2005,19,2004-12-26,Birmingham City,Middlesbrough,2,0,1.0
+2004-2005,19,2004-12-26,Everton,Manchester City,2,1,1.0
+2004-2005,19,2004-12-26,Arsenal,Fulham,2,0,1.0
+2004-2005,20,2004-12-28,Portsmouth,Chelsea,0,2,0.0
+2004-2005,20,2004-12-28,Aston Villa,Manchester Utd,0,1,0.0
 2004-2005,20,2004-12-28,Tottenham,Crystal Palace,1,1,0.5
-2004-2005,20,2004-12-28,Fulham,Birmingham City,2,3,1.0
-2004-2005,20,2004-12-28,Charlton Ath,Everton,2,0,0.0
-2004-2005,20,2004-12-28,Liverpool,Southampton,1,0,0.0
-2004-2005,20,2004-12-28,Middlesbrough,Norwich City,2,0,0.0
+2004-2005,20,2004-12-28,Fulham,Birmingham City,2,3,0.0
+2004-2005,20,2004-12-28,Charlton Ath,Everton,2,0,1.0
+2004-2005,20,2004-12-28,Liverpool,Southampton,1,0,1.0
+2004-2005,20,2004-12-28,Middlesbrough,Norwich City,2,0,1.0
 2004-2005,20,2004-12-28,Manchester City,West Brom,1,1,0.5
-2004-2005,20,2004-12-28,Bolton,Blackburn,0,1,1.0
-2004-2005,20,2004-12-29,Newcastle Utd,Arsenal,0,1,1.0
-2004-2005,21,2005-01-01,Tottenham,Everton,5,2,0.0
+2004-2005,20,2004-12-28,Bolton,Blackburn,0,1,0.0
+2004-2005,20,2004-12-29,Newcastle Utd,Arsenal,0,1,0.0
+2004-2005,21,2005-01-01,Tottenham,Everton,5,2,1.0
 2004-2005,21,2005-01-01,Portsmouth,Norwich City,1,1,0.5
-2004-2005,21,2005-01-01,Middlesbrough,Manchester Utd,0,2,1.0
-2004-2005,21,2005-01-01,Newcastle Utd,Birmingham City,2,1,0.0
+2004-2005,21,2005-01-01,Middlesbrough,Manchester Utd,0,2,0.0
+2004-2005,21,2005-01-01,Newcastle Utd,Birmingham City,2,1,1.0
 2004-2005,21,2005-01-01,Bolton,West Brom,1,1,0.5
-2004-2005,21,2005-01-01,Fulham,Crystal Palace,3,1,0.0
-2004-2005,21,2005-01-01,Liverpool,Chelsea,0,1,1.0
-2004-2005,21,2005-01-01,Aston Villa,Blackburn,1,0,0.0
-2004-2005,21,2005-01-01,Manchester City,Southampton,2,1,0.0
-2004-2005,21,2005-01-01,Charlton Ath,Arsenal,1,3,1.0
-2004-2005,22,2005-01-03,Norwich City,Liverpool,1,2,1.0
-2004-2005,22,2005-01-03,Crystal Palace,Aston Villa,2,0,0.0
-2004-2005,22,2005-01-03,Blackburn,Charlton Ath,1,0,0.0
+2004-2005,21,2005-01-01,Fulham,Crystal Palace,3,1,1.0
+2004-2005,21,2005-01-01,Liverpool,Chelsea,0,1,0.0
+2004-2005,21,2005-01-01,Aston Villa,Blackburn,1,0,1.0
+2004-2005,21,2005-01-01,Manchester City,Southampton,2,1,1.0
+2004-2005,21,2005-01-01,Charlton Ath,Arsenal,1,3,0.0
+2004-2005,22,2005-01-03,Norwich City,Liverpool,1,2,0.0
+2004-2005,22,2005-01-03,Crystal Palace,Aston Villa,2,0,1.0
+2004-2005,22,2005-01-03,Blackburn,Charlton Ath,1,0,1.0
 2004-2005,22,2005-01-03,West Brom,Newcastle Utd,0,0,0.5
-2004-2005,22,2005-01-04,Everton,Portsmouth,2,1,0.0
+2004-2005,22,2005-01-04,Everton,Portsmouth,2,1,1.0
 2004-2005,22,2005-01-04,Manchester Utd,Tottenham,0,0,0.5
 2004-2005,22,2005-01-04,Arsenal,Manchester City,1,1,0.5
-2004-2005,22,2005-01-04,Birmingham City,Bolton,1,2,1.0
-2004-2005,22,2005-01-04,Chelsea,Middlesbrough,2,0,0.0
+2004-2005,22,2005-01-04,Birmingham City,Bolton,1,2,0.0
+2004-2005,22,2005-01-04,Chelsea,Middlesbrough,2,0,1.0
 2004-2005,22,2005-01-05,Southampton,Fulham,3,3,0.5
-2004-2005,23,2005-01-15,Tottenham,Chelsea,0,2,1.0
-2004-2005,23,2005-01-15,Portsmouth,Blackburn,0,1,1.0
-2004-2005,23,2005-01-15,Newcastle Utd,Southampton,2,1,0.0
-2004-2005,23,2005-01-15,Liverpool,Manchester Utd,0,1,1.0
-2004-2005,23,2005-01-15,Charlton Ath,Birmingham City,3,1,0.0
-2004-2005,23,2005-01-15,Aston Villa,Norwich City,3,0,0.0
-2004-2005,23,2005-01-15,Manchester City,Crystal Palace,3,1,0.0
-2004-2005,23,2005-01-15,Bolton,Arsenal,1,0,0.0
+2004-2005,23,2005-01-15,Tottenham,Chelsea,0,2,0.0
+2004-2005,23,2005-01-15,Portsmouth,Blackburn,0,1,0.0
+2004-2005,23,2005-01-15,Newcastle Utd,Southampton,2,1,1.0
+2004-2005,23,2005-01-15,Liverpool,Manchester Utd,0,1,0.0
+2004-2005,23,2005-01-15,Charlton Ath,Birmingham City,3,1,1.0
+2004-2005,23,2005-01-15,Aston Villa,Norwich City,3,0,1.0
+2004-2005,23,2005-01-15,Manchester City,Crystal Palace,3,1,1.0
+2004-2005,23,2005-01-15,Bolton,Arsenal,1,0,1.0
 2004-2005,23,2005-01-16,Middlesbrough,Everton,1,1,0.5
-2004-2005,23,2005-01-16,Fulham,West Brom,1,0,0.0
-2004-2005,24,2005-01-22,Manchester Utd,Aston Villa,3,1,0.0
-2004-2005,24,2005-01-22,Everton,Charlton Ath,0,1,1.0
-2004-2005,24,2005-01-22,Crystal Palace,Tottenham,3,0,0.0
-2004-2005,24,2005-01-22,Chelsea,Portsmouth,3,0,0.0
-2004-2005,24,2005-01-22,Southampton,Liverpool,2,0,0.0
-2004-2005,24,2005-01-22,West Brom,Manchester City,2,0,0.0
-2004-2005,24,2005-01-22,Birmingham City,Fulham,1,2,1.0
+2004-2005,23,2005-01-16,Fulham,West Brom,1,0,1.0
+2004-2005,24,2005-01-22,Manchester Utd,Aston Villa,3,1,1.0
+2004-2005,24,2005-01-22,Everton,Charlton Ath,0,1,0.0
+2004-2005,24,2005-01-22,Crystal Palace,Tottenham,3,0,1.0
+2004-2005,24,2005-01-22,Chelsea,Portsmouth,3,0,1.0
+2004-2005,24,2005-01-22,Southampton,Liverpool,2,0,1.0
+2004-2005,24,2005-01-22,West Brom,Manchester City,2,0,1.0
+2004-2005,24,2005-01-22,Birmingham City,Fulham,1,2,0.0
 2004-2005,24,2005-01-22,Norwich City,Middlesbrough,4,4,0.5
-2004-2005,24,2005-01-23,Arsenal,Newcastle Utd,1,0,0.0
-2004-2005,24,2005-01-24,Blackburn,Bolton,0,1,1.0
-2004-2005,25,2005-02-01,Arsenal,Manchester Utd,2,4,1.0
-2004-2005,25,2005-02-01,Bolton,Tottenham,3,1,0.0
-2004-2005,25,2005-02-01,Portsmouth,Middlesbrough,2,1,0.0
+2004-2005,24,2005-01-23,Arsenal,Newcastle Utd,1,0,1.0
+2004-2005,24,2005-01-24,Blackburn,Bolton,0,1,0.0
+2004-2005,25,2005-02-01,Arsenal,Manchester Utd,2,4,0.0
+2004-2005,25,2005-02-01,Bolton,Tottenham,3,1,1.0
+2004-2005,25,2005-02-01,Portsmouth,Middlesbrough,2,1,1.0
 2004-2005,25,2005-02-01,West Brom,Crystal Palace,2,2,0.5
-2004-2005,25,2005-02-01,Charlton Ath,Liverpool,1,2,1.0
-2004-2005,25,2005-02-02,Birmingham City,Southampton,2,1,0.0
-2004-2005,25,2005-02-02,Blackburn,Chelsea,0,1,1.0
-2004-2005,25,2005-02-02,Everton,Norwich City,1,0,0.0
+2004-2005,25,2005-02-01,Charlton Ath,Liverpool,1,2,0.0
+2004-2005,25,2005-02-02,Birmingham City,Southampton,2,1,1.0
+2004-2005,25,2005-02-02,Blackburn,Chelsea,0,1,0.0
+2004-2005,25,2005-02-02,Everton,Norwich City,1,0,1.0
 2004-2005,25,2005-02-02,Fulham,Aston Villa,1,1,0.5
 2004-2005,25,2005-02-02,Manchester City,Newcastle Utd,1,1,0.5
-2004-2005,26,2005-02-05,Liverpool,Fulham,3,1,0.0
-2004-2005,26,2005-02-05,Norwich City,West Brom,3,2,0.0
-2004-2005,26,2005-02-05,Aston Villa,Arsenal,1,3,1.0
-2004-2005,26,2005-02-05,Tottenham,Portsmouth,3,1,0.0
-2004-2005,26,2005-02-05,Crystal Palace,Bolton,0,1,1.0
+2004-2005,26,2005-02-05,Liverpool,Fulham,3,1,1.0
+2004-2005,26,2005-02-05,Norwich City,West Brom,3,2,1.0
+2004-2005,26,2005-02-05,Aston Villa,Arsenal,1,3,0.0
+2004-2005,26,2005-02-05,Tottenham,Portsmouth,3,1,1.0
+2004-2005,26,2005-02-05,Crystal Palace,Bolton,0,1,0.0
 2004-2005,26,2005-02-05,Newcastle Utd,Charlton Ath,1,1,0.5
-2004-2005,26,2005-02-05,Middlesbrough,Blackburn,1,0,0.0
-2004-2005,26,2005-02-05,Manchester Utd,Birmingham City,2,0,0.0
+2004-2005,26,2005-02-05,Middlesbrough,Blackburn,1,0,1.0
+2004-2005,26,2005-02-05,Manchester Utd,Birmingham City,2,0,1.0
 2004-2005,26,2005-02-06,Chelsea,Manchester City,0,0,0.5
 2004-2005,26,2005-02-06,Southampton,Everton,2,2,0.5
-2004-2005,27,2005-02-12,Blackburn,Norwich City,3,0,0.0
-2004-2005,27,2005-02-12,Portsmouth,Aston Villa,1,2,1.0
-2004-2005,27,2005-02-12,Birmingham City,Liverpool,2,0,0.0
+2004-2005,27,2005-02-12,Blackburn,Norwich City,3,0,1.0
+2004-2005,27,2005-02-12,Portsmouth,Aston Villa,1,2,0.0
+2004-2005,27,2005-02-12,Birmingham City,Liverpool,2,0,1.0
 2004-2005,27,2005-02-12,Bolton,Middlesbrough,0,0,0.5
-2004-2005,27,2005-02-12,Everton,Chelsea,0,1,1.0
-2004-2005,27,2005-02-13,Manchester City,Manchester Utd,0,2,1.0
-2004-2005,27,2005-02-14,Arsenal,Crystal Palace,5,1,0.0
+2004-2005,27,2005-02-12,Everton,Chelsea,0,1,0.0
+2004-2005,27,2005-02-13,Manchester City,Manchester Utd,0,2,0.0
+2004-2005,27,2005-02-14,Arsenal,Crystal Palace,5,1,1.0
 2004-2005,27,2005-02-22,West Brom,Southampton,0,0,0.5
-2004-2005,28,2005-02-26,Tottenham,Fulham,2,0,0.0
+2004-2005,28,2005-02-26,Tottenham,Fulham,2,0,1.0
 2004-2005,28,2005-02-26,Southampton,Arsenal,1,1,0.5
-2004-2005,28,2005-02-26,Aston Villa,Everton,1,3,1.0
-2004-2005,28,2005-02-26,Manchester Utd,Portsmouth,2,1,0.0
-2004-2005,28,2005-02-26,Crystal Palace,Birmingham City,2,0,0.0
+2004-2005,28,2005-02-26,Aston Villa,Everton,1,3,0.0
+2004-2005,28,2005-02-26,Manchester Utd,Portsmouth,2,1,1.0
+2004-2005,28,2005-02-26,Crystal Palace,Birmingham City,2,0,1.0
 2004-2005,28,2005-02-27,Middlesbrough,Charlton Ath,2,2,0.5
-2004-2005,28,2005-02-27,Newcastle Utd,Bolton,2,1,0.0
-2004-2005,28,2005-02-28,Norwich City,Manchester City,2,3,1.0
-2004-2005,29,2005-03-05,Southampton,Tottenham,1,0,0.0
+2004-2005,28,2005-02-27,Newcastle Utd,Bolton,2,1,1.0
+2004-2005,28,2005-02-28,Norwich City,Manchester City,2,3,0.0
+2004-2005,29,2005-03-05,Southampton,Tottenham,1,0,1.0
 2004-2005,29,2005-03-05,Crystal Palace,Manchester Utd,0,0,0.5
 2004-2005,29,2005-03-05,Fulham,Charlton Ath,0,0,0.5
-2004-2005,29,2005-03-05,Aston Villa,Middlesbrough,2,0,0.0
-2004-2005,29,2005-03-05,Arsenal,Portsmouth,3,0,0.0
-2004-2005,29,2005-03-05,Newcastle Utd,Liverpool,1,0,0.0
-2004-2005,29,2005-03-05,Norwich City,Chelsea,1,3,1.0
-2004-2005,29,2005-03-06,West Brom,Birmingham City,2,0,0.0
-2004-2005,29,2005-03-06,Everton,Blackburn,0,1,1.0
-2004-2005,29,2005-03-07,Manchester City,Bolton,0,1,1.0
-2004-2005,28,2005-03-15,Chelsea,West Brom,1,0,0.0
-2004-2005,27,2005-03-16,Charlton Ath,Tottenham,2,0,0.0
+2004-2005,29,2005-03-05,Aston Villa,Middlesbrough,2,0,1.0
+2004-2005,29,2005-03-05,Arsenal,Portsmouth,3,0,1.0
+2004-2005,29,2005-03-05,Newcastle Utd,Liverpool,1,0,1.0
+2004-2005,29,2005-03-05,Norwich City,Chelsea,1,3,0.0
+2004-2005,29,2005-03-06,West Brom,Birmingham City,2,0,1.0
+2004-2005,29,2005-03-06,Everton,Blackburn,0,1,0.0
+2004-2005,29,2005-03-07,Manchester City,Bolton,0,1,0.0
+2004-2005,28,2005-03-15,Chelsea,West Brom,1,0,1.0
+2004-2005,27,2005-03-16,Charlton Ath,Tottenham,2,0,1.0
 2004-2005,28,2005-03-16,Liverpool,Blackburn,0,0,0.5
-2004-2005,30,2005-03-19,Blackburn,Arsenal,0,1,1.0
-2004-2005,30,2005-03-19,Chelsea,Crystal Palace,4,1,0.0
+2004-2005,30,2005-03-19,Blackburn,Arsenal,0,1,0.0
+2004-2005,30,2005-03-19,Chelsea,Crystal Palace,4,1,1.0
 2004-2005,30,2005-03-19,Portsmouth,Newcastle Utd,1,1,0.5
-2004-2005,30,2005-03-19,Charlton Ath,West Brom,1,4,1.0
-2004-2005,30,2005-03-19,Bolton,Norwich City,1,0,0.0
-2004-2005,30,2005-03-19,Manchester Utd,Fulham,1,0,0.0
-2004-2005,30,2005-03-19,Tottenham,Manchester City,2,1,0.0
-2004-2005,30,2005-03-20,Liverpool,Everton,2,1,0.0
-2004-2005,30,2005-03-20,Birmingham City,Aston Villa,2,0,0.0
-2004-2005,30,2005-03-20,Middlesbrough,Southampton,1,3,1.0
+2004-2005,30,2005-03-19,Charlton Ath,West Brom,1,4,0.0
+2004-2005,30,2005-03-19,Bolton,Norwich City,1,0,1.0
+2004-2005,30,2005-03-19,Manchester Utd,Fulham,1,0,1.0
+2004-2005,30,2005-03-19,Tottenham,Manchester City,2,1,1.0
+2004-2005,30,2005-03-20,Liverpool,Everton,2,1,1.0
+2004-2005,30,2005-03-20,Birmingham City,Aston Villa,2,0,1.0
+2004-2005,30,2005-03-20,Middlesbrough,Southampton,1,3,0.0
 2004-2005,31,2005-04-02,Charlton Ath,Manchester City,2,2,0.5
-2004-2005,31,2005-04-02,Crystal Palace,Middlesbrough,0,1,1.0
-2004-2005,31,2005-04-02,Liverpool,Bolton,1,0,0.0
-2004-2005,31,2005-04-02,Newcastle Utd,Aston Villa,0,3,1.0
-2004-2005,31,2005-04-02,Southampton,Chelsea,1,3,1.0
+2004-2005,31,2005-04-02,Crystal Palace,Middlesbrough,0,1,0.0
+2004-2005,31,2005-04-02,Liverpool,Bolton,1,0,1.0
+2004-2005,31,2005-04-02,Newcastle Utd,Aston Villa,0,3,0.0
+2004-2005,31,2005-04-02,Southampton,Chelsea,1,3,0.0
 2004-2005,31,2005-04-02,Manchester Utd,Blackburn,0,0,0.5
 2004-2005,31,2005-04-02,Birmingham City,Tottenham,1,1,0.5
-2004-2005,31,2005-04-02,Arsenal,Norwich City,4,1,0.0
-2004-2005,31,2005-04-03,Fulham,Portsmouth,3,1,0.0
-2004-2005,31,2005-04-03,West Brom,Everton,1,0,0.0
-2004-2005,32,2005-04-09,Middlesbrough,Arsenal,0,1,1.0
-2004-2005,32,2005-04-09,Portsmouth,Charlton Ath,4,2,0.0
+2004-2005,31,2005-04-02,Arsenal,Norwich City,4,1,1.0
+2004-2005,31,2005-04-03,Fulham,Portsmouth,3,1,1.0
+2004-2005,31,2005-04-03,West Brom,Everton,1,0,1.0
+2004-2005,32,2005-04-09,Middlesbrough,Arsenal,0,1,0.0
+2004-2005,32,2005-04-09,Portsmouth,Charlton Ath,4,2,1.0
 2004-2005,32,2005-04-09,Chelsea,Birmingham City,1,1,0.5
-2004-2005,32,2005-04-09,Manchester City,Liverpool,1,0,0.0
-2004-2005,32,2005-04-09,Norwich City,Manchester Utd,2,0,0.0
-2004-2005,32,2005-04-09,Bolton,Fulham,3,1,0.0
-2004-2005,32,2005-04-09,Blackburn,Southampton,3,0,0.0
-2004-2005,32,2005-04-10,Everton,Crystal Palace,4,0,0.0
-2004-2005,32,2005-04-10,Tottenham,Newcastle Utd,1,0,0.0
+2004-2005,32,2005-04-09,Manchester City,Liverpool,1,0,1.0
+2004-2005,32,2005-04-09,Norwich City,Manchester Utd,2,0,1.0
+2004-2005,32,2005-04-09,Bolton,Fulham,3,1,1.0
+2004-2005,32,2005-04-09,Blackburn,Southampton,3,0,1.0
+2004-2005,32,2005-04-10,Everton,Crystal Palace,4,0,1.0
+2004-2005,32,2005-04-10,Tottenham,Newcastle Utd,1,0,1.0
 2004-2005,32,2005-04-10,Aston Villa,West Brom,1,1,0.5
 2004-2005,33,2005-04-16,Fulham,Manchester City,1,1,0.5
 2004-2005,33,2005-04-16,Liverpool,Tottenham,2,2,0.5
-2004-2005,33,2005-04-16,Southampton,Aston Villa,2,3,1.0
+2004-2005,33,2005-04-16,Southampton,Aston Villa,2,3,0.0
 2004-2005,33,2005-04-16,Birmingham City,Portsmouth,0,0,0.5
 2004-2005,33,2005-04-16,Crystal Palace,Norwich City,3,3,0.5
-2004-2005,33,2005-04-16,Charlton Ath,Bolton,1,2,1.0
+2004-2005,33,2005-04-16,Charlton Ath,Bolton,1,2,0.0
 2004-2005,34,2005-04-19,Bolton,Southampton,1,1,0.5
 2004-2005,34,2005-04-19,Middlesbrough,Fulham,1,1,0.5
-2004-2005,34,2005-04-20,Manchester City,Birmingham City,3,0,0.0
+2004-2005,34,2005-04-20,Manchester City,Birmingham City,3,0,1.0
 2004-2005,34,2005-04-20,Chelsea,Arsenal,0,0,0.5
 2004-2005,34,2005-04-20,Tottenham,West Brom,1,1,0.5
 2004-2005,34,2005-04-20,Aston Villa,Charlton Ath,0,0,0.5
-2004-2005,34,2005-04-20,Norwich City,Newcastle Utd,2,1,0.0
-2004-2005,34,2005-04-20,Portsmouth,Liverpool,1,2,1.0
-2004-2005,34,2005-04-20,Blackburn,Crystal Palace,1,0,0.0
-2004-2005,34,2005-04-20,Everton,Manchester Utd,1,0,0.0
-2004-2005,35,2005-04-23,Middlesbrough,West Brom,4,0,0.0
+2004-2005,34,2005-04-20,Norwich City,Newcastle Utd,2,1,1.0
+2004-2005,34,2005-04-20,Portsmouth,Liverpool,1,2,0.0
+2004-2005,34,2005-04-20,Blackburn,Crystal Palace,1,0,1.0
+2004-2005,34,2005-04-20,Everton,Manchester Utd,1,0,1.0
+2004-2005,35,2005-04-23,Middlesbrough,West Brom,4,0,1.0
 2004-2005,35,2005-04-23,Everton,Birmingham City,1,1,0.5
-2004-2005,35,2005-04-23,Crystal Palace,Liverpool,1,0,0.0
+2004-2005,35,2005-04-23,Crystal Palace,Liverpool,1,0,1.0
 2004-2005,35,2005-04-23,Aston Villa,Bolton,1,1,0.5
 2004-2005,35,2005-04-23,Blackburn,Manchester City,0,0,0.5
-2004-2005,35,2005-04-23,Chelsea,Fulham,3,1,0.0
-2004-2005,35,2005-04-23,Norwich City,Charlton Ath,1,0,0.0
-2004-2005,35,2005-04-24,Portsmouth,Southampton,4,1,0.0
-2004-2005,35,2005-04-24,Manchester Utd,Newcastle Utd,2,1,0.0
-2004-2005,35,2005-04-25,Arsenal,Tottenham,1,0,0.0
+2004-2005,35,2005-04-23,Chelsea,Fulham,3,1,1.0
+2004-2005,35,2005-04-23,Norwich City,Charlton Ath,1,0,1.0
+2004-2005,35,2005-04-24,Portsmouth,Southampton,4,1,1.0
+2004-2005,35,2005-04-24,Manchester Utd,Newcastle Utd,2,1,1.0
+2004-2005,35,2005-04-25,Arsenal,Tottenham,1,0,1.0
 2004-2005,33,2005-04-26,West Brom,Blackburn,1,1,0.5
 2004-2005,33,2005-04-27,Newcastle Utd,Middlesbrough,0,0,0.5
 2004-2005,36,2005-04-30,Liverpool,Middlesbrough,1,1,0.5
-2004-2005,36,2005-04-30,Fulham,Everton,2,0,0.0
+2004-2005,36,2005-04-30,Fulham,Everton,2,0,1.0
 2004-2005,36,2005-04-30,Newcastle Utd,Crystal Palace,0,0,0.5
-2004-2005,36,2005-04-30,Birmingham City,Blackburn,2,1,0.0
-2004-2005,36,2005-04-30,Southampton,Norwich City,4,3,0.0
-2004-2005,36,2005-04-30,Bolton,Chelsea,0,2,1.0
-2004-2005,36,2005-04-30,Manchester City,Portsmouth,2,0,0.0
-2004-2005,36,2005-05-01,Charlton Ath,Manchester Utd,0,4,1.0
-2004-2005,36,2005-05-01,Tottenham,Aston Villa,5,1,0.0
-2004-2005,36,2005-05-02,West Brom,Arsenal,0,2,1.0
-2004-2005,27,2005-05-04,Fulham,Newcastle Utd,1,3,1.0
-2004-2005,37,2005-05-07,Aston Villa,Manchester City,1,2,1.0
+2004-2005,36,2005-04-30,Birmingham City,Blackburn,2,1,1.0
+2004-2005,36,2005-04-30,Southampton,Norwich City,4,3,1.0
+2004-2005,36,2005-04-30,Bolton,Chelsea,0,2,0.0
+2004-2005,36,2005-04-30,Manchester City,Portsmouth,2,0,1.0
+2004-2005,36,2005-05-01,Charlton Ath,Manchester Utd,0,4,0.0
+2004-2005,36,2005-05-01,Tottenham,Aston Villa,5,1,1.0
+2004-2005,36,2005-05-02,West Brom,Arsenal,0,2,0.0
+2004-2005,27,2005-05-04,Fulham,Newcastle Utd,1,3,0.0
+2004-2005,37,2005-05-07,Aston Villa,Manchester City,1,2,0.0
 2004-2005,37,2005-05-07,Crystal Palace,Southampton,2,2,0.5
-2004-2005,37,2005-05-07,Norwich City,Birmingham City,1,0,0.0
-2004-2005,37,2005-05-07,Blackburn,Fulham,1,3,1.0
-2004-2005,37,2005-05-07,Everton,Newcastle Utd,2,0,0.0
+2004-2005,37,2005-05-07,Norwich City,Birmingham City,1,0,1.0
+2004-2005,37,2005-05-07,Blackburn,Fulham,1,3,0.0
+2004-2005,37,2005-05-07,Everton,Newcastle Utd,2,0,1.0
 2004-2005,37,2005-05-07,Portsmouth,Bolton,1,1,0.5
-2004-2005,37,2005-05-07,Middlesbrough,Tottenham,1,0,0.0
+2004-2005,37,2005-05-07,Middlesbrough,Tottenham,1,0,1.0
 2004-2005,37,2005-05-07,Manchester Utd,West Brom,1,1,0.5
-2004-2005,37,2005-05-07,Chelsea,Charlton Ath,1,0,0.0
-2004-2005,37,2005-05-08,Arsenal,Liverpool,3,1,0.0
-2004-2005,33,2005-05-10,Manchester Utd,Chelsea,1,3,1.0
-2004-2005,33,2005-05-11,Arsenal,Everton,7,0,0.0
+2004-2005,37,2005-05-07,Chelsea,Charlton Ath,1,0,1.0
+2004-2005,37,2005-05-08,Arsenal,Liverpool,3,1,1.0
+2004-2005,33,2005-05-10,Manchester Utd,Chelsea,1,3,0.0
+2004-2005,33,2005-05-11,Arsenal,Everton,7,0,1.0
 2004-2005,38,2005-05-15,Manchester City,Middlesbrough,1,1,0.5
-2004-2005,38,2005-05-15,Southampton,Manchester Utd,1,2,1.0
+2004-2005,38,2005-05-15,Southampton,Manchester Utd,1,2,0.0
 2004-2005,38,2005-05-15,Newcastle Utd,Chelsea,1,1,0.5
 2004-2005,38,2005-05-15,Tottenham,Blackburn,0,0,0.5
-2004-2005,38,2005-05-15,Fulham,Norwich City,6,0,0.0
-2004-2005,38,2005-05-15,Bolton,Everton,3,2,0.0
+2004-2005,38,2005-05-15,Fulham,Norwich City,6,0,1.0
+2004-2005,38,2005-05-15,Bolton,Everton,3,2,1.0
 2004-2005,38,2005-05-15,Charlton Ath,Crystal Palace,2,2,0.5
-2004-2005,38,2005-05-15,Birmingham City,Arsenal,2,1,0.0
-2004-2005,38,2005-05-15,Liverpool,Aston Villa,2,1,0.0
-2004-2005,38,2005-05-15,West Brom,Portsmouth,2,0,0.0
+2004-2005,38,2005-05-15,Birmingham City,Arsenal,2,1,1.0
+2004-2005,38,2005-05-15,Liverpool,Aston Villa,2,1,1.0
+2004-2005,38,2005-05-15,West Brom,Portsmouth,2,0,1.0

@@ -1,381 +1,381 @@
 Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
-2002-2003,1,2002-08-17,Manchester Utd,West Brom,1,0,0.0
-2002-2003,1,2002-08-17,Leeds United,Manchester City,3,0,0.0
+2002-2003,1,2002-08-17,Manchester Utd,West Brom,1,0,1.0
+2002-2003,1,2002-08-17,Leeds United,Manchester City,3,0,1.0
 2002-2003,1,2002-08-17,Everton,Tottenham,2,2,0.5
-2002-2003,1,2002-08-17,Fulham,Bolton,4,1,0.0
-2002-2003,1,2002-08-17,Charlton Ath,Chelsea,2,3,1.0
+2002-2003,1,2002-08-17,Fulham,Bolton,4,1,1.0
+2002-2003,1,2002-08-17,Charlton Ath,Chelsea,2,3,0.0
 2002-2003,1,2002-08-17,Southampton,Middlesbrough,0,0,0.5
 2002-2003,1,2002-08-17,Blackburn,Sunderland,0,0,0.5
-2002-2003,1,2002-08-18,Aston Villa,Liverpool,0,1,1.0
-2002-2003,1,2002-08-18,Arsenal,Birmingham City,2,0,0.0
-2002-2003,1,2002-08-19,Newcastle Utd,West Ham,4,0,0.0
+2002-2003,1,2002-08-18,Aston Villa,Liverpool,0,1,0.0
+2002-2003,1,2002-08-18,Arsenal,Birmingham City,2,0,1.0
+2002-2003,1,2002-08-19,Newcastle Utd,West Ham,4,0,1.0
 2002-2003,2,2002-08-23,Chelsea,Manchester Utd,2,2,0.5
-2002-2003,2,2002-08-24,Sunderland,Everton,0,1,1.0
+2002-2003,2,2002-08-24,Sunderland,Everton,0,1,0.0
 2002-2003,2,2002-08-24,Middlesbrough,Fulham,2,2,0.5
 2002-2003,2,2002-08-24,West Ham,Arsenal,2,2,0.5
-2002-2003,2,2002-08-24,Manchester City,Newcastle Utd,1,0,0.0
-2002-2003,2,2002-08-24,Birmingham City,Blackburn,0,1,1.0
-2002-2003,2,2002-08-24,Tottenham,Aston Villa,1,0,0.0
-2002-2003,2,2002-08-24,Liverpool,Southampton,3,0,0.0
-2002-2003,2,2002-08-24,West Brom,Leeds United,1,3,1.0
-2002-2003,2,2002-08-24,Bolton,Charlton Ath,1,2,1.0
-2002-2003,3,2002-08-27,Arsenal,West Brom,5,2,0.0
-2002-2003,3,2002-08-27,Charlton Ath,Tottenham,0,1,1.0
+2002-2003,2,2002-08-24,Manchester City,Newcastle Utd,1,0,1.0
+2002-2003,2,2002-08-24,Birmingham City,Blackburn,0,1,0.0
+2002-2003,2,2002-08-24,Tottenham,Aston Villa,1,0,1.0
+2002-2003,2,2002-08-24,Liverpool,Southampton,3,0,1.0
+2002-2003,2,2002-08-24,West Brom,Leeds United,1,3,0.0
+2002-2003,2,2002-08-24,Bolton,Charlton Ath,1,2,0.0
+2002-2003,3,2002-08-27,Arsenal,West Brom,5,2,1.0
+2002-2003,3,2002-08-27,Charlton Ath,Tottenham,0,1,0.0
 2002-2003,3,2002-08-28,Everton,Birmingham City,1,1,0.5
 2002-2003,3,2002-08-28,Southampton,Chelsea,1,1,0.5
-2002-2003,3,2002-08-28,Aston Villa,Manchester City,1,0,0.0
+2002-2003,3,2002-08-28,Aston Villa,Manchester City,1,0,1.0
 2002-2003,3,2002-08-28,Blackburn,Liverpool,2,2,0.5
-2002-2003,3,2002-08-28,Leeds United,Sunderland,0,1,1.0
-2002-2003,4,2002-08-31,Middlesbrough,Blackburn,1,0,0.0
+2002-2003,3,2002-08-28,Leeds United,Sunderland,0,1,0.0
+2002-2003,4,2002-08-31,Middlesbrough,Blackburn,1,0,1.0
 2002-2003,4,2002-08-31,Sunderland,Manchester Utd,1,1,0.5
-2002-2003,4,2002-08-31,Manchester City,Everton,3,1,0.0
-2002-2003,4,2002-08-31,Tottenham,Southampton,2,1,0.0
-2002-2003,4,2002-08-31,West Ham,Charlton Ath,0,2,1.0
-2002-2003,4,2002-08-31,West Brom,Fulham,1,0,0.0
-2002-2003,4,2002-08-31,Birmingham City,Leeds United,2,1,0.0
-2002-2003,4,2002-09-01,Bolton,Aston Villa,1,0,0.0
+2002-2003,4,2002-08-31,Manchester City,Everton,3,1,1.0
+2002-2003,4,2002-08-31,Tottenham,Southampton,2,1,1.0
+2002-2003,4,2002-08-31,West Ham,Charlton Ath,0,2,0.0
+2002-2003,4,2002-08-31,West Brom,Fulham,1,0,1.0
+2002-2003,4,2002-08-31,Birmingham City,Leeds United,2,1,1.0
+2002-2003,4,2002-09-01,Bolton,Aston Villa,1,0,1.0
 2002-2003,4,2002-09-01,Chelsea,Arsenal,1,1,0.5
 2002-2003,4,2002-09-02,Liverpool,Newcastle Utd,2,2,0.5
-2002-2003,3,2002-09-03,Manchester Utd,Middlesbrough,1,0,0.0
-2002-2003,5,2002-09-10,Arsenal,Manchester City,2,1,0.0
-2002-2003,5,2002-09-10,Middlesbrough,Sunderland,3,0,0.0
-2002-2003,5,2002-09-11,West Ham,West Brom,0,1,1.0
+2002-2003,3,2002-09-03,Manchester Utd,Middlesbrough,1,0,1.0
+2002-2003,5,2002-09-10,Arsenal,Manchester City,2,1,1.0
+2002-2003,5,2002-09-10,Middlesbrough,Sunderland,3,0,1.0
+2002-2003,5,2002-09-11,West Ham,West Brom,0,1,0.0
 2002-2003,5,2002-09-11,Liverpool,Birmingham City,2,2,0.5
-2002-2003,5,2002-09-11,Newcastle Utd,Leeds United,0,2,1.0
-2002-2003,5,2002-09-11,Manchester Utd,Bolton,0,1,1.0
-2002-2003,5,2002-09-11,Blackburn,Chelsea,2,3,1.0
-2002-2003,5,2002-09-11,Southampton,Everton,1,0,0.0
-2002-2003,5,2002-09-11,Fulham,Tottenham,3,2,0.0
-2002-2003,5,2002-09-11,Aston Villa,Charlton Ath,2,0,0.0
-2002-2003,6,2002-09-14,Sunderland,Fulham,0,3,1.0
-2002-2003,6,2002-09-14,Charlton Ath,Arsenal,0,3,1.0
-2002-2003,6,2002-09-14,Chelsea,Newcastle Utd,3,0,0.0
-2002-2003,6,2002-09-14,Everton,Middlesbrough,2,1,0.0
-2002-2003,6,2002-09-14,Bolton,Liverpool,2,3,1.0
-2002-2003,6,2002-09-14,West Brom,Southampton,1,0,0.0
-2002-2003,6,2002-09-14,Leeds United,Manchester Utd,1,0,0.0
-2002-2003,6,2002-09-15,Tottenham,West Ham,3,2,0.0
+2002-2003,5,2002-09-11,Newcastle Utd,Leeds United,0,2,0.0
+2002-2003,5,2002-09-11,Manchester Utd,Bolton,0,1,0.0
+2002-2003,5,2002-09-11,Blackburn,Chelsea,2,3,0.0
+2002-2003,5,2002-09-11,Southampton,Everton,1,0,1.0
+2002-2003,5,2002-09-11,Fulham,Tottenham,3,2,1.0
+2002-2003,5,2002-09-11,Aston Villa,Charlton Ath,2,0,1.0
+2002-2003,6,2002-09-14,Sunderland,Fulham,0,3,0.0
+2002-2003,6,2002-09-14,Charlton Ath,Arsenal,0,3,0.0
+2002-2003,6,2002-09-14,Chelsea,Newcastle Utd,3,0,1.0
+2002-2003,6,2002-09-14,Everton,Middlesbrough,2,1,1.0
+2002-2003,6,2002-09-14,Bolton,Liverpool,2,3,0.0
+2002-2003,6,2002-09-14,West Brom,Southampton,1,0,1.0
+2002-2003,6,2002-09-14,Leeds United,Manchester Utd,1,0,1.0
+2002-2003,6,2002-09-15,Tottenham,West Ham,3,2,1.0
 2002-2003,6,2002-09-15,Manchester City,Blackburn,2,2,0.5
-2002-2003,6,2002-09-16,Birmingham City,Aston Villa,3,0,0.0
-2002-2003,7,2002-09-21,Arsenal,Bolton,2,1,0.0
-2002-2003,7,2002-09-21,Newcastle Utd,Sunderland,2,0,0.0
-2002-2003,7,2002-09-21,Manchester Utd,Tottenham,1,0,0.0
+2002-2003,6,2002-09-16,Birmingham City,Aston Villa,3,0,1.0
+2002-2003,7,2002-09-21,Arsenal,Bolton,2,1,1.0
+2002-2003,7,2002-09-21,Newcastle Utd,Sunderland,2,0,1.0
+2002-2003,7,2002-09-21,Manchester Utd,Tottenham,1,0,1.0
 2002-2003,7,2002-09-21,Southampton,Charlton Ath,0,0,0.5
-2002-2003,7,2002-09-21,Liverpool,West Brom,2,0,0.0
+2002-2003,7,2002-09-21,Liverpool,West Brom,2,0,1.0
 2002-2003,7,2002-09-21,West Ham,Manchester City,0,0,0.5
-2002-2003,7,2002-09-21,Middlesbrough,Birmingham City,1,0,0.0
-2002-2003,7,2002-09-22,Aston Villa,Everton,3,2,0.0
-2002-2003,7,2002-09-22,Blackburn,Leeds United,1,0,0.0
+2002-2003,7,2002-09-21,Middlesbrough,Birmingham City,1,0,1.0
+2002-2003,7,2002-09-22,Aston Villa,Everton,3,2,1.0
+2002-2003,7,2002-09-22,Blackburn,Leeds United,1,0,1.0
 2002-2003,7,2002-09-23,Fulham,Chelsea,0,0,0.5
-2002-2003,8,2002-09-28,Sunderland,Aston Villa,1,0,0.0
-2002-2003,8,2002-09-28,Chelsea,West Ham,2,3,1.0
-2002-2003,8,2002-09-28,Leeds United,Arsenal,1,4,1.0
-2002-2003,8,2002-09-28,Manchester City,Liverpool,0,3,1.0
-2002-2003,8,2002-09-28,Birmingham City,Newcastle Utd,0,2,1.0
+2002-2003,8,2002-09-28,Sunderland,Aston Villa,1,0,1.0
+2002-2003,8,2002-09-28,Chelsea,West Ham,2,3,0.0
+2002-2003,8,2002-09-28,Leeds United,Arsenal,1,4,0.0
+2002-2003,8,2002-09-28,Manchester City,Liverpool,0,3,0.0
+2002-2003,8,2002-09-28,Birmingham City,Newcastle Utd,0,2,0.0
 2002-2003,8,2002-09-28,Bolton,Southampton,1,1,0.5
-2002-2003,8,2002-09-28,Tottenham,Middlesbrough,0,3,1.0
-2002-2003,8,2002-09-28,Charlton Ath,Manchester Utd,1,3,1.0
-2002-2003,8,2002-09-28,Everton,Fulham,2,0,0.0
-2002-2003,8,2002-09-30,West Brom,Blackburn,0,2,1.0
-2002-2003,9,2002-10-05,Middlesbrough,Bolton,2,0,0.0
-2002-2003,9,2002-10-05,Southampton,Manchester City,2,0,0.0
-2002-2003,9,2002-10-05,Newcastle Utd,West Brom,2,1,0.0
-2002-2003,9,2002-10-05,West Ham,Birmingham City,1,2,1.0
-2002-2003,9,2002-10-06,Fulham,Charlton Ath,1,0,0.0
-2002-2003,9,2002-10-06,Arsenal,Sunderland,3,1,0.0
-2002-2003,9,2002-10-06,Blackburn,Tottenham,1,2,1.0
-2002-2003,9,2002-10-06,Liverpool,Chelsea,1,0,0.0
+2002-2003,8,2002-09-28,Tottenham,Middlesbrough,0,3,0.0
+2002-2003,8,2002-09-28,Charlton Ath,Manchester Utd,1,3,0.0
+2002-2003,8,2002-09-28,Everton,Fulham,2,0,1.0
+2002-2003,8,2002-09-30,West Brom,Blackburn,0,2,0.0
+2002-2003,9,2002-10-05,Middlesbrough,Bolton,2,0,1.0
+2002-2003,9,2002-10-05,Southampton,Manchester City,2,0,1.0
+2002-2003,9,2002-10-05,Newcastle Utd,West Brom,2,1,1.0
+2002-2003,9,2002-10-05,West Ham,Birmingham City,1,2,0.0
+2002-2003,9,2002-10-06,Fulham,Charlton Ath,1,0,1.0
+2002-2003,9,2002-10-06,Arsenal,Sunderland,3,1,1.0
+2002-2003,9,2002-10-06,Blackburn,Tottenham,1,2,0.0
+2002-2003,9,2002-10-06,Liverpool,Chelsea,1,0,1.0
 2002-2003,9,2002-10-06,Aston Villa,Leeds United,0,0,0.5
-2002-2003,9,2002-10-07,Manchester Utd,Everton,3,0,0.0
-2002-2003,10,2002-10-19,Sunderland,West Ham,0,1,1.0
-2002-2003,10,2002-10-19,Everton,Arsenal,2,1,0.0
+2002-2003,9,2002-10-07,Manchester Utd,Everton,3,0,1.0
+2002-2003,10,2002-10-19,Sunderland,West Ham,0,1,0.0
+2002-2003,10,2002-10-19,Everton,Arsenal,2,1,1.0
 2002-2003,10,2002-10-19,Fulham,Manchester Utd,1,1,0.5
-2002-2003,10,2002-10-19,Leeds United,Liverpool,0,1,1.0
-2002-2003,10,2002-10-19,Blackburn,Newcastle Utd,5,2,0.0
+2002-2003,10,2002-10-19,Leeds United,Liverpool,0,1,0.0
+2002-2003,10,2002-10-19,Blackburn,Newcastle Utd,5,2,1.0
 2002-2003,10,2002-10-19,West Brom,Birmingham City,1,1,0.5
-2002-2003,10,2002-10-19,Manchester City,Chelsea,0,3,1.0
-2002-2003,10,2002-10-20,Tottenham,Bolton,3,1,0.0
-2002-2003,10,2002-10-20,Charlton Ath,Middlesbrough,1,0,0.0
-2002-2003,10,2002-10-21,Aston Villa,Southampton,0,1,1.0
-2002-2003,3,2002-10-23,Fulham,West Ham,0,1,1.0
-2002-2003,11,2002-10-26,Birmingham City,Manchester City,0,2,1.0
-2002-2003,11,2002-10-26,Arsenal,Blackburn,1,2,1.0
+2002-2003,10,2002-10-19,Manchester City,Chelsea,0,3,0.0
+2002-2003,10,2002-10-20,Tottenham,Bolton,3,1,1.0
+2002-2003,10,2002-10-20,Charlton Ath,Middlesbrough,1,0,1.0
+2002-2003,10,2002-10-21,Aston Villa,Southampton,0,1,0.0
+2002-2003,3,2002-10-23,Fulham,West Ham,0,1,0.0
+2002-2003,11,2002-10-26,Birmingham City,Manchester City,0,2,0.0
+2002-2003,11,2002-10-26,Arsenal,Blackburn,1,2,0.0
 2002-2003,11,2002-10-26,Middlesbrough,Leeds United,2,2,0.5
-2002-2003,11,2002-10-26,Newcastle Utd,Charlton Ath,2,1,0.0
-2002-2003,11,2002-10-26,Chelsea,West Brom,2,0,0.0
-2002-2003,11,2002-10-26,Liverpool,Tottenham,2,1,0.0
+2002-2003,11,2002-10-26,Newcastle Utd,Charlton Ath,2,1,1.0
+2002-2003,11,2002-10-26,Chelsea,West Brom,2,0,1.0
+2002-2003,11,2002-10-26,Liverpool,Tottenham,2,1,1.0
 2002-2003,11,2002-10-26,Manchester Utd,Aston Villa,1,1,0.5
-2002-2003,11,2002-10-27,West Ham,Everton,0,1,1.0
-2002-2003,11,2002-10-27,Southampton,Fulham,4,2,0.0
+2002-2003,11,2002-10-27,West Ham,Everton,0,1,0.0
+2002-2003,11,2002-10-27,Southampton,Fulham,4,2,1.0
 2002-2003,11,2002-10-28,Bolton,Sunderland,1,1,0.5
-2002-2003,12,2002-11-02,Liverpool,West Ham,2,0,0.0
-2002-2003,12,2002-11-02,West Brom,Manchester City,1,2,1.0
-2002-2003,12,2002-11-02,Birmingham City,Bolton,3,1,0.0
-2002-2003,12,2002-11-02,Manchester Utd,Southampton,2,1,0.0
+2002-2003,12,2002-11-02,Liverpool,West Ham,2,0,1.0
+2002-2003,12,2002-11-02,West Brom,Manchester City,1,2,0.0
+2002-2003,12,2002-11-02,Birmingham City,Bolton,3,1,1.0
+2002-2003,12,2002-11-02,Manchester Utd,Southampton,2,1,1.0
 2002-2003,12,2002-11-03,Blackburn,Aston Villa,0,0,0.5
 2002-2003,12,2002-11-03,Charlton Ath,Sunderland,1,1,0.5
 2002-2003,12,2002-11-03,Tottenham,Chelsea,0,0,0.5
-2002-2003,12,2002-11-03,Leeds United,Everton,0,1,1.0
-2002-2003,12,2002-11-03,Fulham,Arsenal,0,1,1.0
-2002-2003,12,2002-11-04,Newcastle Utd,Middlesbrough,2,0,0.0
+2002-2003,12,2002-11-03,Leeds United,Everton,0,1,0.0
+2002-2003,12,2002-11-03,Fulham,Arsenal,0,1,0.0
+2002-2003,12,2002-11-04,Newcastle Utd,Middlesbrough,2,0,1.0
 2002-2003,13,2002-11-09,Bolton,West Brom,1,1,0.5
-2002-2003,13,2002-11-09,Arsenal,Newcastle Utd,1,0,0.0
+2002-2003,13,2002-11-09,Arsenal,Newcastle Utd,1,0,1.0
 2002-2003,13,2002-11-09,Southampton,Blackburn,1,1,0.5
-2002-2003,13,2002-11-09,Chelsea,Birmingham City,3,0,0.0
-2002-2003,13,2002-11-09,Middlesbrough,Liverpool,1,0,0.0
-2002-2003,13,2002-11-09,Aston Villa,Fulham,3,1,0.0
-2002-2003,13,2002-11-09,Everton,Charlton Ath,1,0,0.0
-2002-2003,13,2002-11-09,Manchester City,Manchester Utd,3,1,0.0
-2002-2003,13,2002-11-10,West Ham,Leeds United,3,4,1.0
-2002-2003,13,2002-11-10,Sunderland,Tottenham,2,0,0.0
-2002-2003,14,2002-11-16,Manchester City,Charlton Ath,0,1,1.0
-2002-2003,14,2002-11-16,Arsenal,Tottenham,3,0,0.0
-2002-2003,14,2002-11-16,Chelsea,Middlesbrough,1,0,0.0
-2002-2003,14,2002-11-16,Newcastle Utd,Southampton,2,1,0.0
+2002-2003,13,2002-11-09,Chelsea,Birmingham City,3,0,1.0
+2002-2003,13,2002-11-09,Middlesbrough,Liverpool,1,0,1.0
+2002-2003,13,2002-11-09,Aston Villa,Fulham,3,1,1.0
+2002-2003,13,2002-11-09,Everton,Charlton Ath,1,0,1.0
+2002-2003,13,2002-11-09,Manchester City,Manchester Utd,3,1,1.0
+2002-2003,13,2002-11-10,West Ham,Leeds United,3,4,0.0
+2002-2003,13,2002-11-10,Sunderland,Tottenham,2,0,1.0
+2002-2003,14,2002-11-16,Manchester City,Charlton Ath,0,1,0.0
+2002-2003,14,2002-11-16,Arsenal,Tottenham,3,0,1.0
+2002-2003,14,2002-11-16,Chelsea,Middlesbrough,1,0,1.0
+2002-2003,14,2002-11-16,Newcastle Utd,Southampton,2,1,1.0
 2002-2003,14,2002-11-16,West Brom,Aston Villa,0,0,0.5
 2002-2003,14,2002-11-17,Liverpool,Sunderland,0,0,0.5
-2002-2003,14,2002-11-17,Leeds United,Bolton,2,4,1.0
+2002-2003,14,2002-11-17,Leeds United,Bolton,2,4,0.0
 2002-2003,14,2002-11-17,West Ham,Manchester Utd,1,1,0.5
 2002-2003,14,2002-11-17,Birmingham City,Fulham,0,0,0.5
-2002-2003,14,2002-11-17,Blackburn,Everton,0,1,1.0
-2002-2003,15,2002-11-23,Southampton,Arsenal,3,2,0.0
-2002-2003,15,2002-11-23,Everton,West Brom,1,0,0.0
+2002-2003,14,2002-11-17,Blackburn,Everton,0,1,0.0
+2002-2003,15,2002-11-23,Southampton,Arsenal,3,2,1.0
+2002-2003,15,2002-11-23,Everton,West Brom,1,0,1.0
 2002-2003,15,2002-11-23,Bolton,Chelsea,1,1,0.5
-2002-2003,15,2002-11-23,Middlesbrough,Manchester City,3,1,0.0
-2002-2003,15,2002-11-23,Aston Villa,West Ham,4,1,0.0
-2002-2003,15,2002-11-23,Manchester Utd,Newcastle Utd,5,3,0.0
-2002-2003,15,2002-11-23,Sunderland,Birmingham City,0,1,1.0
-2002-2003,15,2002-11-23,Fulham,Liverpool,3,2,0.0
-2002-2003,15,2002-11-24,Tottenham,Leeds United,2,0,0.0
-2002-2003,15,2002-11-24,Charlton Ath,Blackburn,3,1,0.0
-2002-2003,16,2002-11-30,Blackburn,Fulham,2,1,0.0
-2002-2003,16,2002-11-30,Arsenal,Aston Villa,3,1,0.0
-2002-2003,16,2002-11-30,Manchester City,Bolton,2,0,0.0
-2002-2003,16,2002-11-30,West Brom,Middlesbrough,1,0,0.0
+2002-2003,15,2002-11-23,Middlesbrough,Manchester City,3,1,1.0
+2002-2003,15,2002-11-23,Aston Villa,West Ham,4,1,1.0
+2002-2003,15,2002-11-23,Manchester Utd,Newcastle Utd,5,3,1.0
+2002-2003,15,2002-11-23,Sunderland,Birmingham City,0,1,0.0
+2002-2003,15,2002-11-23,Fulham,Liverpool,3,2,1.0
+2002-2003,15,2002-11-24,Tottenham,Leeds United,2,0,1.0
+2002-2003,15,2002-11-24,Charlton Ath,Blackburn,3,1,1.0
+2002-2003,16,2002-11-30,Blackburn,Fulham,2,1,1.0
+2002-2003,16,2002-11-30,Arsenal,Aston Villa,3,1,1.0
+2002-2003,16,2002-11-30,Manchester City,Bolton,2,0,1.0
+2002-2003,16,2002-11-30,West Brom,Middlesbrough,1,0,1.0
 2002-2003,16,2002-11-30,Birmingham City,Tottenham,1,1,0.5
-2002-2003,16,2002-11-30,Chelsea,Sunderland,3,0,0.0
-2002-2003,16,2002-12-01,Liverpool,Manchester Utd,1,2,1.0
-2002-2003,16,2002-12-01,Leeds United,Charlton Ath,1,2,1.0
-2002-2003,16,2002-12-01,Newcastle Utd,Everton,2,1,0.0
-2002-2003,16,2002-12-02,West Ham,Southampton,0,1,1.0
+2002-2003,16,2002-11-30,Chelsea,Sunderland,3,0,1.0
+2002-2003,16,2002-12-01,Liverpool,Manchester Utd,1,2,0.0
+2002-2003,16,2002-12-01,Leeds United,Charlton Ath,1,2,0.0
+2002-2003,16,2002-12-01,Newcastle Utd,Everton,2,1,1.0
+2002-2003,16,2002-12-02,West Ham,Southampton,0,1,0.0
 2002-2003,17,2002-12-07,Bolton,Blackburn,1,1,0.5
-2002-2003,17,2002-12-07,Southampton,Birmingham City,2,0,0.0
-2002-2003,17,2002-12-07,Fulham,Leeds United,1,0,0.0
-2002-2003,17,2002-12-07,Manchester Utd,Arsenal,2,0,0.0
+2002-2003,17,2002-12-07,Southampton,Birmingham City,2,0,1.0
+2002-2003,17,2002-12-07,Fulham,Leeds United,1,0,1.0
+2002-2003,17,2002-12-07,Manchester Utd,Arsenal,2,0,1.0
 2002-2003,17,2002-12-07,Middlesbrough,West Ham,2,2,0.5
-2002-2003,17,2002-12-07,Charlton Ath,Liverpool,2,0,0.0
-2002-2003,17,2002-12-07,Everton,Chelsea,1,3,1.0
-2002-2003,17,2002-12-07,Aston Villa,Newcastle Utd,0,1,1.0
-2002-2003,17,2002-12-08,Tottenham,West Brom,3,1,0.0
-2002-2003,17,2002-12-09,Sunderland,Manchester City,0,3,1.0
-2002-2003,18,2002-12-14,Manchester Utd,West Ham,3,0,0.0
+2002-2003,17,2002-12-07,Charlton Ath,Liverpool,2,0,1.0
+2002-2003,17,2002-12-07,Everton,Chelsea,1,3,0.0
+2002-2003,17,2002-12-07,Aston Villa,Newcastle Utd,0,1,0.0
+2002-2003,17,2002-12-08,Tottenham,West Brom,3,1,1.0
+2002-2003,17,2002-12-09,Sunderland,Manchester City,0,3,0.0
+2002-2003,18,2002-12-14,Manchester Utd,West Ham,3,0,1.0
 2002-2003,18,2002-12-14,Middlesbrough,Chelsea,1,1,0.5
-2002-2003,18,2002-12-14,Aston Villa,West Brom,2,1,0.0
+2002-2003,18,2002-12-14,Aston Villa,West Brom,2,1,1.0
 2002-2003,18,2002-12-14,Southampton,Newcastle Utd,1,1,0.5
-2002-2003,18,2002-12-14,Everton,Blackburn,2,1,0.0
+2002-2003,18,2002-12-14,Everton,Blackburn,2,1,1.0
 2002-2003,18,2002-12-14,Charlton Ath,Manchester City,2,2,0.5
 2002-2003,18,2002-12-15,Tottenham,Arsenal,1,1,0.5
-2002-2003,18,2002-12-15,Fulham,Birmingham City,0,1,1.0
-2002-2003,18,2002-12-15,Sunderland,Liverpool,2,1,0.0
-2002-2003,18,2002-12-16,Bolton,Leeds United,0,3,1.0
+2002-2003,18,2002-12-15,Fulham,Birmingham City,0,1,0.0
+2002-2003,18,2002-12-15,Sunderland,Liverpool,2,1,1.0
+2002-2003,18,2002-12-16,Bolton,Leeds United,0,3,0.0
 2002-2003,19,2002-12-21,West Brom,Sunderland,2,2,0.5
-2002-2003,19,2002-12-21,Newcastle Utd,Fulham,2,0,0.0
+2002-2003,19,2002-12-21,Newcastle Utd,Fulham,2,0,1.0
 2002-2003,19,2002-12-21,West Ham,Bolton,1,1,0.5
 2002-2003,19,2002-12-21,Birmingham City,Charlton Ath,1,1,0.5
 2002-2003,19,2002-12-21,Leeds United,Southampton,1,1,0.5
-2002-2003,19,2002-12-21,Arsenal,Middlesbrough,2,0,0.0
-2002-2003,19,2002-12-21,Chelsea,Aston Villa,2,0,0.0
-2002-2003,19,2002-12-22,Blackburn,Manchester Utd,1,0,0.0
+2002-2003,19,2002-12-21,Arsenal,Middlesbrough,2,0,1.0
+2002-2003,19,2002-12-21,Chelsea,Aston Villa,2,0,1.0
+2002-2003,19,2002-12-22,Blackburn,Manchester Utd,1,0,1.0
 2002-2003,19,2002-12-22,Liverpool,Everton,0,0,0.5
-2002-2003,19,2002-12-23,Manchester City,Tottenham,2,3,1.0
+2002-2003,19,2002-12-23,Manchester City,Tottenham,2,3,0.0
 2002-2003,20,2002-12-26,Birmingham City,Everton,1,1,0.5
 2002-2003,20,2002-12-26,Chelsea,Southampton,0,0,0.5
-2002-2003,20,2002-12-26,Manchester City,Aston Villa,3,1,0.0
-2002-2003,20,2002-12-26,West Brom,Arsenal,1,2,1.0
+2002-2003,20,2002-12-26,Manchester City,Aston Villa,3,1,1.0
+2002-2003,20,2002-12-26,West Brom,Arsenal,1,2,0.0
 2002-2003,20,2002-12-26,Tottenham,Charlton Ath,2,2,0.5
-2002-2003,20,2002-12-26,Sunderland,Leeds United,1,2,1.0
+2002-2003,20,2002-12-26,Sunderland,Leeds United,1,2,0.0
 2002-2003,20,2002-12-26,Liverpool,Blackburn,1,1,0.5
-2002-2003,20,2002-12-26,Bolton,Newcastle Utd,4,3,0.0
+2002-2003,20,2002-12-26,Bolton,Newcastle Utd,4,3,1.0
 2002-2003,20,2002-12-26,West Ham,Fulham,1,1,0.5
-2002-2003,20,2002-12-26,Middlesbrough,Manchester Utd,3,1,0.0
-2002-2003,21,2002-12-28,Southampton,Sunderland,2,1,0.0
-2002-2003,21,2002-12-28,Manchester Utd,Birmingham City,2,0,0.0
-2002-2003,21,2002-12-28,Fulham,Manchester City,0,1,1.0
-2002-2003,21,2002-12-28,Leeds United,Chelsea,2,0,0.0
-2002-2003,21,2002-12-28,Charlton Ath,West Brom,1,0,0.0
+2002-2003,20,2002-12-26,Middlesbrough,Manchester Utd,3,1,1.0
+2002-2003,21,2002-12-28,Southampton,Sunderland,2,1,1.0
+2002-2003,21,2002-12-28,Manchester Utd,Birmingham City,2,0,1.0
+2002-2003,21,2002-12-28,Fulham,Manchester City,0,1,0.0
+2002-2003,21,2002-12-28,Leeds United,Chelsea,2,0,1.0
+2002-2003,21,2002-12-28,Charlton Ath,West Brom,1,0,1.0
 2002-2003,21,2002-12-28,Blackburn,West Ham,2,2,0.5
 2002-2003,21,2002-12-28,Everton,Bolton,0,0,0.5
-2002-2003,21,2002-12-28,Aston Villa,Middlesbrough,1,0,0.0
-2002-2003,21,2002-12-29,Newcastle Utd,Tottenham,2,1,0.0
+2002-2003,21,2002-12-28,Aston Villa,Middlesbrough,1,0,1.0
+2002-2003,21,2002-12-29,Newcastle Utd,Tottenham,2,1,1.0
 2002-2003,21,2002-12-29,Arsenal,Liverpool,1,1,0.5
-2002-2003,22,2003-01-01,Newcastle Utd,Liverpool,1,0,0.0
+2002-2003,22,2003-01-01,Newcastle Utd,Liverpool,1,0,1.0
 2002-2003,22,2003-01-01,Everton,Manchester City,2,2,0.5
-2002-2003,22,2003-01-01,Arsenal,Chelsea,3,2,0.0
-2002-2003,22,2003-01-01,Blackburn,Middlesbrough,1,0,0.0
-2002-2003,22,2003-01-01,Aston Villa,Bolton,2,0,0.0
-2002-2003,22,2003-01-01,Southampton,Tottenham,1,0,0.0
-2002-2003,22,2003-01-01,Manchester Utd,Sunderland,2,1,0.0
-2002-2003,22,2003-01-01,Leeds United,Birmingham City,2,0,0.0
+2002-2003,22,2003-01-01,Arsenal,Chelsea,3,2,1.0
+2002-2003,22,2003-01-01,Blackburn,Middlesbrough,1,0,1.0
+2002-2003,22,2003-01-01,Aston Villa,Bolton,2,0,1.0
+2002-2003,22,2003-01-01,Southampton,Tottenham,1,0,1.0
+2002-2003,22,2003-01-01,Manchester Utd,Sunderland,2,1,1.0
+2002-2003,22,2003-01-01,Leeds United,Birmingham City,2,0,1.0
 2002-2003,23,2003-01-11,Bolton,Fulham,0,0,0.5
-2002-2003,23,2003-01-11,Chelsea,Charlton Ath,4,1,0.0
+2002-2003,23,2003-01-11,Chelsea,Charlton Ath,4,1,1.0
 2002-2003,23,2003-01-11,Middlesbrough,Southampton,2,2,0.5
 2002-2003,23,2003-01-11,West Ham,Newcastle Utd,2,2,0.5
-2002-2003,23,2003-01-11,Manchester City,Leeds United,2,1,0.0
+2002-2003,23,2003-01-11,Manchester City,Leeds United,2,1,1.0
 2002-2003,23,2003-01-11,Liverpool,Aston Villa,1,1,0.5
-2002-2003,23,2003-01-11,West Brom,Manchester Utd,1,3,1.0
+2002-2003,23,2003-01-11,West Brom,Manchester Utd,1,3,0.0
 2002-2003,23,2003-01-11,Sunderland,Blackburn,0,0,0.5
-2002-2003,23,2003-01-12,Tottenham,Everton,4,3,0.0
-2002-2003,23,2003-01-12,Birmingham City,Arsenal,0,4,1.0
-2002-2003,24,2003-01-18,Southampton,Liverpool,0,1,1.0
+2002-2003,23,2003-01-12,Tottenham,Everton,4,3,1.0
+2002-2003,23,2003-01-12,Birmingham City,Arsenal,0,4,0.0
+2002-2003,24,2003-01-18,Southampton,Liverpool,0,1,0.0
 2002-2003,24,2003-01-18,Leeds United,West Brom,0,0,0.5
 2002-2003,24,2003-01-18,Blackburn,Birmingham City,1,1,0.5
-2002-2003,24,2003-01-18,Newcastle Utd,Manchester City,2,0,0.0
-2002-2003,24,2003-01-18,Manchester Utd,Chelsea,2,1,0.0
+2002-2003,24,2003-01-18,Newcastle Utd,Manchester City,2,0,1.0
+2002-2003,24,2003-01-18,Manchester Utd,Chelsea,2,1,1.0
 2002-2003,24,2003-01-18,Charlton Ath,Bolton,1,1,0.5
-2002-2003,24,2003-01-18,Everton,Sunderland,2,1,0.0
-2002-2003,24,2003-01-18,Aston Villa,Tottenham,0,1,1.0
-2002-2003,24,2003-01-19,Fulham,Middlesbrough,1,0,0.0
-2002-2003,24,2003-01-19,Arsenal,West Ham,3,1,0.0
-2002-2003,3,2003-01-22,Newcastle Utd,Bolton,1,0,0.0
-2002-2003,22,2003-01-22,Charlton Ath,West Ham,4,2,0.0
-2002-2003,25,2003-01-28,Bolton,Everton,1,2,1.0
-2002-2003,25,2003-01-28,Chelsea,Leeds United,3,2,0.0
-2002-2003,25,2003-01-28,Sunderland,Southampton,0,1,1.0
-2002-2003,25,2003-01-28,Middlesbrough,Aston Villa,2,5,1.0
-2002-2003,25,2003-01-29,West Ham,Blackburn,2,1,0.0
-2002-2003,25,2003-01-29,Manchester City,Fulham,4,1,0.0
+2002-2003,24,2003-01-18,Everton,Sunderland,2,1,1.0
+2002-2003,24,2003-01-18,Aston Villa,Tottenham,0,1,0.0
+2002-2003,24,2003-01-19,Fulham,Middlesbrough,1,0,1.0
+2002-2003,24,2003-01-19,Arsenal,West Ham,3,1,1.0
+2002-2003,3,2003-01-22,Newcastle Utd,Bolton,1,0,1.0
+2002-2003,22,2003-01-22,Charlton Ath,West Ham,4,2,1.0
+2002-2003,25,2003-01-28,Bolton,Everton,1,2,0.0
+2002-2003,25,2003-01-28,Chelsea,Leeds United,3,2,1.0
+2002-2003,25,2003-01-28,Sunderland,Southampton,0,1,0.0
+2002-2003,25,2003-01-28,Middlesbrough,Aston Villa,2,5,0.0
+2002-2003,25,2003-01-29,West Ham,Blackburn,2,1,1.0
+2002-2003,25,2003-01-29,Manchester City,Fulham,4,1,1.0
 2002-2003,25,2003-01-29,Liverpool,Arsenal,2,2,0.5
-2002-2003,25,2003-01-29,Tottenham,Newcastle Utd,0,1,1.0
-2002-2003,25,2003-01-29,West Brom,Charlton Ath,0,1,1.0
-2002-2003,26,2003-02-01,Everton,Leeds United,2,0,0.0
-2002-2003,26,2003-02-01,Arsenal,Fulham,2,1,0.0
+2002-2003,25,2003-01-29,Tottenham,Newcastle Utd,0,1,0.0
+2002-2003,25,2003-01-29,West Brom,Charlton Ath,0,1,0.0
+2002-2003,26,2003-02-01,Everton,Leeds United,2,0,1.0
+2002-2003,26,2003-02-01,Arsenal,Fulham,2,1,1.0
 2002-2003,26,2003-02-01,Chelsea,Tottenham,1,1,0.5
-2002-2003,26,2003-02-01,Southampton,Manchester Utd,0,2,1.0
-2002-2003,26,2003-02-01,Sunderland,Charlton Ath,1,3,1.0
-2002-2003,26,2003-02-01,Bolton,Birmingham City,4,2,0.0
-2002-2003,26,2003-02-01,Manchester City,West Brom,1,2,1.0
-2002-2003,26,2003-02-02,Aston Villa,Blackburn,3,0,0.0
-2002-2003,26,2003-02-02,West Ham,Liverpool,0,3,1.0
-2002-2003,25,2003-02-04,Birmingham City,Manchester Utd,0,1,1.0
-2002-2003,27,2003-02-08,Blackburn,Southampton,1,0,0.0
-2002-2003,27,2003-02-08,Tottenham,Sunderland,4,1,0.0
+2002-2003,26,2003-02-01,Southampton,Manchester Utd,0,2,0.0
+2002-2003,26,2003-02-01,Sunderland,Charlton Ath,1,3,0.0
+2002-2003,26,2003-02-01,Bolton,Birmingham City,4,2,1.0
+2002-2003,26,2003-02-01,Manchester City,West Brom,1,2,0.0
+2002-2003,26,2003-02-02,Aston Villa,Blackburn,3,0,1.0
+2002-2003,26,2003-02-02,West Ham,Liverpool,0,3,0.0
+2002-2003,25,2003-02-04,Birmingham City,Manchester Utd,0,1,0.0
+2002-2003,27,2003-02-08,Blackburn,Southampton,1,0,1.0
+2002-2003,27,2003-02-08,Tottenham,Sunderland,4,1,1.0
 2002-2003,27,2003-02-08,Liverpool,Middlesbrough,1,1,0.5
 2002-2003,27,2003-02-08,West Brom,Bolton,1,1,0.5
-2002-2003,27,2003-02-08,Fulham,Aston Villa,2,1,0.0
-2002-2003,27,2003-02-08,Charlton Ath,Everton,2,1,0.0
-2002-2003,27,2003-02-08,Leeds United,West Ham,1,0,0.0
-2002-2003,27,2003-02-08,Birmingham City,Chelsea,1,3,1.0
+2002-2003,27,2003-02-08,Fulham,Aston Villa,2,1,1.0
+2002-2003,27,2003-02-08,Charlton Ath,Everton,2,1,1.0
+2002-2003,27,2003-02-08,Leeds United,West Ham,1,0,1.0
+2002-2003,27,2003-02-08,Birmingham City,Chelsea,1,3,0.0
 2002-2003,27,2003-02-09,Manchester Utd,Manchester City,1,1,0.5
 2002-2003,27,2003-02-09,Newcastle Utd,Arsenal,1,1,0.5
-2002-2003,22,2003-02-19,Fulham,West Brom,3,0,0.0
-2002-2003,28,2003-02-22,Chelsea,Blackburn,1,2,1.0
-2002-2003,28,2003-02-22,Everton,Southampton,2,1,0.0
-2002-2003,28,2003-02-22,Leeds United,Newcastle Utd,0,3,1.0
-2002-2003,28,2003-02-22,Manchester City,Arsenal,1,5,1.0
+2002-2003,22,2003-02-19,Fulham,West Brom,3,0,1.0
+2002-2003,28,2003-02-22,Chelsea,Blackburn,1,2,0.0
+2002-2003,28,2003-02-22,Everton,Southampton,2,1,1.0
+2002-2003,28,2003-02-22,Leeds United,Newcastle Utd,0,3,0.0
+2002-2003,28,2003-02-22,Manchester City,Arsenal,1,5,0.0
 2002-2003,28,2003-02-22,Bolton,Manchester Utd,1,1,0.5
-2002-2003,28,2003-02-22,Charlton Ath,Aston Villa,3,0,0.0
-2002-2003,28,2003-02-22,Sunderland,Middlesbrough,1,3,1.0
-2002-2003,28,2003-02-23,Birmingham City,Liverpool,2,1,0.0
-2002-2003,28,2003-02-23,West Brom,West Ham,1,2,1.0
+2002-2003,28,2003-02-22,Charlton Ath,Aston Villa,3,0,1.0
+2002-2003,28,2003-02-22,Sunderland,Middlesbrough,1,3,0.0
+2002-2003,28,2003-02-23,Birmingham City,Liverpool,2,1,1.0
+2002-2003,28,2003-02-23,West Brom,West Ham,1,2,0.0
 2002-2003,28,2003-02-24,Tottenham,Fulham,1,1,0.5
-2002-2003,29,2003-03-01,Southampton,West Brom,1,0,0.0
-2002-2003,29,2003-03-01,Fulham,Sunderland,1,0,0.0
-2002-2003,29,2003-03-01,Blackburn,Manchester City,1,0,0.0
-2002-2003,29,2003-03-01,West Ham,Tottenham,2,0,0.0
-2002-2003,29,2003-03-01,Newcastle Utd,Chelsea,2,1,0.0
+2002-2003,29,2003-03-01,Southampton,West Brom,1,0,1.0
+2002-2003,29,2003-03-01,Fulham,Sunderland,1,0,1.0
+2002-2003,29,2003-03-01,Blackburn,Manchester City,1,0,1.0
+2002-2003,29,2003-03-01,West Ham,Tottenham,2,0,1.0
+2002-2003,29,2003-03-01,Newcastle Utd,Chelsea,2,1,1.0
 2002-2003,29,2003-03-01,Middlesbrough,Everton,1,1,0.5
-2002-2003,29,2003-03-02,Arsenal,Charlton Ath,2,0,0.0
-2002-2003,29,2003-03-03,Aston Villa,Birmingham City,0,2,1.0
-2002-2003,26,2003-03-05,Middlesbrough,Newcastle Utd,1,0,0.0
-2002-2003,29,2003-03-05,Manchester Utd,Leeds United,2,1,0.0
-2002-2003,29,2003-03-08,Liverpool,Bolton,2,0,0.0
-2002-2003,30,2003-03-15,Aston Villa,Manchester Utd,0,1,1.0
-2002-2003,30,2003-03-15,Sunderland,Bolton,0,2,1.0
+2002-2003,29,2003-03-02,Arsenal,Charlton Ath,2,0,1.0
+2002-2003,29,2003-03-03,Aston Villa,Birmingham City,0,2,0.0
+2002-2003,26,2003-03-05,Middlesbrough,Newcastle Utd,1,0,1.0
+2002-2003,29,2003-03-05,Manchester Utd,Leeds United,2,1,1.0
+2002-2003,29,2003-03-08,Liverpool,Bolton,2,0,1.0
+2002-2003,30,2003-03-15,Aston Villa,Manchester Utd,0,1,0.0
+2002-2003,30,2003-03-15,Sunderland,Bolton,0,2,0.0
 2002-2003,30,2003-03-15,Fulham,Southampton,2,2,0.5
-2002-2003,30,2003-03-15,Blackburn,Arsenal,2,0,0.0
-2002-2003,30,2003-03-15,Leeds United,Middlesbrough,2,3,1.0
+2002-2003,30,2003-03-15,Blackburn,Arsenal,2,0,1.0
+2002-2003,30,2003-03-15,Leeds United,Middlesbrough,2,3,0.0
 2002-2003,30,2003-03-15,Everton,West Ham,0,0,0.5
-2002-2003,30,2003-03-15,Charlton Ath,Newcastle Utd,0,2,1.0
-2002-2003,30,2003-03-16,West Brom,Chelsea,0,2,1.0
-2002-2003,30,2003-03-16,Tottenham,Liverpool,2,3,1.0
-2002-2003,30,2003-03-16,Manchester City,Birmingham City,1,0,0.0
-2002-2003,31,2003-03-22,Manchester Utd,Fulham,3,0,0.0
-2002-2003,31,2003-03-22,Birmingham City,West Brom,1,0,0.0
-2002-2003,31,2003-03-22,Newcastle Utd,Blackburn,5,1,0.0
-2002-2003,31,2003-03-22,West Ham,Sunderland,2,0,0.0
-2002-2003,31,2003-03-22,Chelsea,Manchester City,5,0,0.0
+2002-2003,30,2003-03-15,Charlton Ath,Newcastle Utd,0,2,0.0
+2002-2003,30,2003-03-16,West Brom,Chelsea,0,2,0.0
+2002-2003,30,2003-03-16,Tottenham,Liverpool,2,3,0.0
+2002-2003,30,2003-03-16,Manchester City,Birmingham City,1,0,1.0
+2002-2003,31,2003-03-22,Manchester Utd,Fulham,3,0,1.0
+2002-2003,31,2003-03-22,Birmingham City,West Brom,1,0,1.0
+2002-2003,31,2003-03-22,Newcastle Utd,Blackburn,5,1,1.0
+2002-2003,31,2003-03-22,West Ham,Sunderland,2,0,1.0
+2002-2003,31,2003-03-22,Chelsea,Manchester City,5,0,1.0
 2002-2003,31,2003-03-22,Middlesbrough,Charlton Ath,1,1,0.5
 2002-2003,31,2003-03-22,Southampton,Aston Villa,2,2,0.5
-2002-2003,31,2003-03-23,Liverpool,Leeds United,3,1,0.0
-2002-2003,31,2003-03-23,Arsenal,Everton,2,1,0.0
-2002-2003,31,2003-03-24,Bolton,Tottenham,1,0,0.0
-2002-2003,32,2003-04-05,Sunderland,Chelsea,1,2,1.0
+2002-2003,31,2003-03-23,Liverpool,Leeds United,3,1,1.0
+2002-2003,31,2003-03-23,Arsenal,Everton,2,1,1.0
+2002-2003,31,2003-03-24,Bolton,Tottenham,1,0,1.0
+2002-2003,32,2003-04-05,Sunderland,Chelsea,1,2,0.0
 2002-2003,32,2003-04-05,Southampton,West Ham,1,1,0.5
-2002-2003,32,2003-04-05,Middlesbrough,West Brom,3,0,0.0
-2002-2003,32,2003-04-05,Tottenham,Birmingham City,2,1,0.0
+2002-2003,32,2003-04-05,Middlesbrough,West Brom,3,0,1.0
+2002-2003,32,2003-04-05,Tottenham,Birmingham City,2,1,1.0
 2002-2003,32,2003-04-05,Aston Villa,Arsenal,1,1,0.5
-2002-2003,32,2003-04-05,Manchester Utd,Liverpool,4,0,0.0
-2002-2003,32,2003-04-05,Charlton Ath,Leeds United,1,6,1.0
-2002-2003,32,2003-04-05,Bolton,Manchester City,2,0,0.0
-2002-2003,32,2003-04-06,Everton,Newcastle Utd,2,1,0.0
-2002-2003,32,2003-04-07,Fulham,Blackburn,0,4,1.0
+2002-2003,32,2003-04-05,Manchester Utd,Liverpool,4,0,1.0
+2002-2003,32,2003-04-05,Charlton Ath,Leeds United,1,6,0.0
+2002-2003,32,2003-04-05,Bolton,Manchester City,2,0,1.0
+2002-2003,32,2003-04-06,Everton,Newcastle Utd,2,1,1.0
+2002-2003,32,2003-04-07,Fulham,Blackburn,0,4,0.0
 2002-2003,33,2003-04-12,Leeds United,Tottenham,2,2,0.5
 2002-2003,33,2003-04-12,West Ham,Aston Villa,2,2,0.5
 2002-2003,33,2003-04-12,Manchester City,Middlesbrough,0,0,0.5
-2002-2003,33,2003-04-12,Birmingham City,Sunderland,2,0,0.0
-2002-2003,33,2003-04-12,Liverpool,Fulham,2,0,0.0
-2002-2003,33,2003-04-12,Chelsea,Bolton,1,0,0.0
-2002-2003,33,2003-04-12,West Brom,Everton,1,2,1.0
-2002-2003,33,2003-04-12,Newcastle Utd,Manchester Utd,2,6,1.0
-2002-2003,33,2003-04-12,Blackburn,Charlton Ath,1,0,0.0
+2002-2003,33,2003-04-12,Birmingham City,Sunderland,2,0,1.0
+2002-2003,33,2003-04-12,Liverpool,Fulham,2,0,1.0
+2002-2003,33,2003-04-12,Chelsea,Bolton,1,0,1.0
+2002-2003,33,2003-04-12,West Brom,Everton,1,2,0.0
+2002-2003,33,2003-04-12,Newcastle Utd,Manchester Utd,2,6,0.0
+2002-2003,33,2003-04-12,Blackburn,Charlton Ath,1,0,1.0
 2002-2003,35,2003-04-16,Arsenal,Manchester Utd,2,2,0.5
-2002-2003,34,2003-04-18,Tottenham,Manchester City,0,2,1.0
-2002-2003,34,2003-04-19,Bolton,West Ham,1,0,0.0
-2002-2003,34,2003-04-19,Middlesbrough,Arsenal,0,2,1.0
-2002-2003,34,2003-04-19,Everton,Liverpool,1,2,1.0
-2002-2003,34,2003-04-19,Charlton Ath,Birmingham City,0,2,1.0
-2002-2003,34,2003-04-19,Sunderland,West Brom,1,2,1.0
-2002-2003,34,2003-04-19,Manchester Utd,Blackburn,3,1,0.0
-2002-2003,34,2003-04-19,Southampton,Leeds United,3,2,0.0
-2002-2003,34,2003-04-19,Fulham,Newcastle Utd,2,1,0.0
-2002-2003,34,2003-04-19,Aston Villa,Chelsea,2,1,0.0
-2002-2003,35,2003-04-21,Birmingham City,Southampton,3,2,0.0
-2002-2003,35,2003-04-21,West Ham,Middlesbrough,1,0,0.0
-2002-2003,35,2003-04-21,Manchester City,Sunderland,3,0,0.0
-2002-2003,35,2003-04-21,West Brom,Tottenham,2,3,1.0
+2002-2003,34,2003-04-18,Tottenham,Manchester City,0,2,0.0
+2002-2003,34,2003-04-19,Bolton,West Ham,1,0,1.0
+2002-2003,34,2003-04-19,Middlesbrough,Arsenal,0,2,0.0
+2002-2003,34,2003-04-19,Everton,Liverpool,1,2,0.0
+2002-2003,34,2003-04-19,Charlton Ath,Birmingham City,0,2,0.0
+2002-2003,34,2003-04-19,Sunderland,West Brom,1,2,0.0
+2002-2003,34,2003-04-19,Manchester Utd,Blackburn,3,1,1.0
+2002-2003,34,2003-04-19,Southampton,Leeds United,3,2,1.0
+2002-2003,34,2003-04-19,Fulham,Newcastle Utd,2,1,1.0
+2002-2003,34,2003-04-19,Aston Villa,Chelsea,2,1,1.0
+2002-2003,35,2003-04-21,Birmingham City,Southampton,3,2,1.0
+2002-2003,35,2003-04-21,West Ham,Middlesbrough,1,0,1.0
+2002-2003,35,2003-04-21,Manchester City,Sunderland,3,0,1.0
+2002-2003,35,2003-04-21,West Brom,Tottenham,2,3,0.0
 2002-2003,35,2003-04-21,Newcastle Utd,Aston Villa,1,1,0.5
-2002-2003,35,2003-04-21,Liverpool,Charlton Ath,2,1,0.0
-2002-2003,35,2003-04-21,Chelsea,Everton,4,1,0.0
+2002-2003,35,2003-04-21,Liverpool,Charlton Ath,2,1,1.0
+2002-2003,35,2003-04-21,Chelsea,Everton,4,1,1.0
 2002-2003,35,2003-04-21,Blackburn,Bolton,0,0,0.5
-2002-2003,35,2003-04-22,Leeds United,Fulham,2,0,0.0
-2002-2003,36,2003-04-26,Leeds United,Blackburn,2,3,1.0
+2002-2003,35,2003-04-22,Leeds United,Fulham,2,0,1.0
+2002-2003,36,2003-04-26,Leeds United,Blackburn,2,3,0.0
 2002-2003,36,2003-04-26,Bolton,Arsenal,2,2,0.5
-2002-2003,36,2003-04-26,Everton,Aston Villa,2,1,0.0
+2002-2003,36,2003-04-26,Everton,Aston Villa,2,1,1.0
 2002-2003,36,2003-04-26,Chelsea,Fulham,1,1,0.5
-2002-2003,36,2003-04-26,Charlton Ath,Southampton,2,1,0.0
-2002-2003,36,2003-04-26,Sunderland,Newcastle Utd,0,1,1.0
-2002-2003,36,2003-04-26,Birmingham City,Middlesbrough,3,0,0.0
-2002-2003,36,2003-04-26,West Brom,Liverpool,0,6,1.0
-2002-2003,36,2003-04-27,Tottenham,Manchester Utd,0,2,1.0
-2002-2003,36,2003-04-27,Manchester City,West Ham,0,1,1.0
-2002-2003,37,2003-05-03,Fulham,Everton,2,0,0.0
-2002-2003,37,2003-05-03,West Ham,Chelsea,1,0,0.0
+2002-2003,36,2003-04-26,Charlton Ath,Southampton,2,1,1.0
+2002-2003,36,2003-04-26,Sunderland,Newcastle Utd,0,1,0.0
+2002-2003,36,2003-04-26,Birmingham City,Middlesbrough,3,0,1.0
+2002-2003,36,2003-04-26,West Brom,Liverpool,0,6,0.0
+2002-2003,36,2003-04-27,Tottenham,Manchester Utd,0,2,0.0
+2002-2003,36,2003-04-27,Manchester City,West Ham,0,1,0.0
+2002-2003,37,2003-05-03,Fulham,Everton,2,0,1.0
+2002-2003,37,2003-05-03,West Ham,Chelsea,1,0,1.0
 2002-2003,37,2003-05-03,Blackburn,West Brom,1,1,0.5
-2002-2003,37,2003-05-03,Middlesbrough,Tottenham,5,1,0.0
-2002-2003,37,2003-05-03,Newcastle Utd,Birmingham City,1,0,0.0
+2002-2003,37,2003-05-03,Middlesbrough,Tottenham,5,1,1.0
+2002-2003,37,2003-05-03,Newcastle Utd,Birmingham City,1,0,1.0
 2002-2003,37,2003-05-03,Southampton,Bolton,0,0,0.5
-2002-2003,37,2003-05-03,Aston Villa,Sunderland,1,0,0.0
-2002-2003,37,2003-05-03,Manchester Utd,Charlton Ath,4,1,0.0
-2002-2003,37,2003-05-03,Liverpool,Manchester City,1,2,1.0
-2002-2003,37,2003-05-04,Arsenal,Leeds United,2,3,1.0
-2002-2003,33,2003-05-07,Arsenal,Southampton,6,1,0.0
-2002-2003,38,2003-05-11,Manchester City,Southampton,0,1,1.0
-2002-2003,38,2003-05-11,Charlton Ath,Fulham,0,1,1.0
+2002-2003,37,2003-05-03,Aston Villa,Sunderland,1,0,1.0
+2002-2003,37,2003-05-03,Manchester Utd,Charlton Ath,4,1,1.0
+2002-2003,37,2003-05-03,Liverpool,Manchester City,1,2,0.0
+2002-2003,37,2003-05-04,Arsenal,Leeds United,2,3,0.0
+2002-2003,33,2003-05-07,Arsenal,Southampton,6,1,1.0
+2002-2003,38,2003-05-11,Manchester City,Southampton,0,1,0.0
+2002-2003,38,2003-05-11,Charlton Ath,Fulham,0,1,0.0
 2002-2003,38,2003-05-11,West Brom,Newcastle Utd,2,2,0.5
-2002-2003,38,2003-05-11,Leeds United,Aston Villa,3,1,0.0
-2002-2003,38,2003-05-11,Tottenham,Blackburn,0,4,1.0
-2002-2003,38,2003-05-11,Sunderland,Arsenal,0,4,1.0
+2002-2003,38,2003-05-11,Leeds United,Aston Villa,3,1,1.0
+2002-2003,38,2003-05-11,Tottenham,Blackburn,0,4,0.0
+2002-2003,38,2003-05-11,Sunderland,Arsenal,0,4,0.0
 2002-2003,38,2003-05-11,Birmingham City,West Ham,2,2,0.5
-2002-2003,38,2003-05-11,Bolton,Middlesbrough,2,1,0.0
-2002-2003,38,2003-05-11,Everton,Manchester Utd,1,2,1.0
-2002-2003,38,2003-05-11,Chelsea,Liverpool,2,1,0.0
+2002-2003,38,2003-05-11,Bolton,Middlesbrough,2,1,1.0
+2002-2003,38,2003-05-11,Everton,Manchester Utd,1,2,0.0
+2002-2003,38,2003-05-11,Chelsea,Liverpool,2,1,1.0

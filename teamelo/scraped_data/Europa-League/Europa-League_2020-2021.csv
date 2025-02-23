@@ -1,0 +1,206 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2020-2021,Group stage,1,2020-10-22,Dundalk,Molde,ie,no,1,2,0.0
+2020-2021,Group stage,1,2020-10-22,Leverkusen,Nice,de,fr,6,2,1.0
+2020-2021,Group stage,1,2020-10-22,Napoli,AZ Alkmaar,it,nl,0,1,0.0
+2020-2021,Group stage,1,2020-10-22,PSV Eindhoven,Granada,nl,es,1,2,0.0
+2020-2021,Group stage,1,2020-10-22,Young Boys,Roma,ch,it,1,2,0.0
+2020-2021,Group stage,1,2020-10-22,Rijeka,Real Sociedad,hr,es,0,1,0.0
+2020-2021,Group stage,1,2020-10-22,Standard Liège,Rangers,be,sct,0,2,0.0
+2020-2021,Group stage,1,2020-10-22,Lech Poznań,Benfica,pl,pt,2,4,0.0
+2020-2021,Group stage,1,2020-10-22,Rapid Wien,Arsenal,at,eng,1,2,0.0
+2020-2021,Group stage,1,2020-10-22,CSKA Sofia,CFR Cluj,bg,ro,0,2,0.0
+2020-2021,Group stage,1,2020-10-22,Be'er Sheva,Slavia Prague,il,cz,3,1,1.0
+2020-2021,Group stage,1,2020-10-22,PAOK,AC Omonia,gr,cy,1,1,0.5
+2020-2021,Group stage,1,2020-10-22,Celtic,Milan,sct,it,1,3,0.0
+2020-2021,Group stage,1,2020-10-22,Leicester City,Zorya Luhansk,eng,ua,3,0,1.0
+2020-2021,Group stage,1,2020-10-22,Tottenham,LASK,eng,at,3,0,1.0
+2020-2021,Group stage,1,2020-10-22,Braga,AEK Athens,pt,gr,3,0,1.0
+2020-2021,Group stage,1,2020-10-22,Slovan Liberec,Gent,cz,be,1,0,1.0
+2020-2021,Group stage,1,2020-10-22,Wolfsberger AC,CSKA Moscow,at,ru,1,1,0.5
+2020-2021,Group stage,1,2020-10-22,Dinamo Zagreb,Feyenoord,hr,nl,0,0,0.5
+2020-2021,Group stage,1,2020-10-22,Sparta Prague,Lille,cz,fr,1,4,0.0
+2020-2021,Group stage,1,2020-10-22,Villarreal,Sivasspor,es,tr,5,3,1.0
+2020-2021,Group stage,1,2020-10-22,Hoffenheim,Red Star,de,rs,2,0,1.0
+2020-2021,Group stage,1,2020-10-22,Ludogorets,Antwerp,bg,be,1,2,0.0
+2020-2021,Group stage,1,2020-10-22,Maccabi Tel Aviv,Qarabağ,il,az,1,0,1.0
+2020-2021,Group stage,2,2020-10-29,Lille,Celtic,fr,sct,2,2,0.5
+2020-2021,Group stage,2,2020-10-29,Antwerp,Tottenham,be,eng,1,0,1.0
+2020-2021,Group stage,2,2020-10-29,Red Star,Slovan Liberec,rs,cz,5,1,1.0
+2020-2021,Group stage,2,2020-10-29,Feyenoord,Wolfsberger AC,nl,at,1,4,0.0
+2020-2021,Group stage,2,2020-10-29,Gent,Hoffenheim,be,de,1,4,0.0
+2020-2021,Group stage,2,2020-10-29,LASK,Ludogorets,at,bg,4,3,1.0
+2020-2021,Group stage,2,2020-10-29,Milan,Sparta Prague,it,cz,3,0,1.0
+2020-2021,Group stage,2,2020-10-29,Zorya Luhansk,Braga,ua,pt,1,2,0.0
+2020-2021,Group stage,2,2020-10-29,AEK Athens,Leicester City,gr,eng,1,2,0.0
+2020-2021,Group stage,2,2020-10-29,Rangers,Lech Poznań,sct,pl,1,0,1.0
+2020-2021,Group stage,2,2020-10-29,Benfica,Standard Liège,pt,be,3,0,1.0
+2020-2021,Group stage,2,2020-10-29,Arsenal,Dundalk,eng,ie,3,0,1.0
+2020-2021,Group stage,2,2020-10-29,Sivasspor,Maccabi Tel Aviv,tr,il,1,2,0.0
+2020-2021,Group stage,2,2020-10-29,CSKA Moscow,Dinamo Zagreb,ru,hr,0,0,0.5
+2020-2021,Group stage,2,2020-10-29,Slavia Prague,Leverkusen,cz,de,1,0,1.0
+2020-2021,Group stage,2,2020-10-29,Roma,CSKA Sofia,it,bg,0,0,0.5
+2020-2021,Group stage,2,2020-10-29,Granada,PAOK,es,gr,0,0,0.5
+2020-2021,Group stage,2,2020-10-29,Nice,Be'er Sheva,fr,il,1,0,1.0
+2020-2021,Group stage,2,2020-10-29,Real Sociedad,Napoli,es,it,0,1,0.0
+2020-2021,Group stage,2,2020-10-29,Molde,Rapid Wien,no,at,1,0,1.0
+2020-2021,Group stage,2,2020-10-29,AZ Alkmaar,Rijeka,nl,hr,4,1,1.0
+2020-2021,Group stage,2,2020-10-29,Qarabağ,Villarreal,az,es,1,3,0.0
+2020-2021,Group stage,2,2020-10-29,CFR Cluj,Young Boys,ro,ch,1,1,0.5
+2020-2021,Group stage,2,2020-10-29,AC Omonia,PSV Eindhoven,cy,nl,1,2,0.0
+2020-2021,Group stage,3,2020-11-05,Benfica,Rangers,pt,sct,3,3,0.5
+2020-2021,Group stage,3,2020-11-05,Slavia Prague,Nice,cz,fr,3,2,1.0
+2020-2021,Group stage,3,2020-11-05,Rijeka,Napoli,hr,it,1,2,0.0
+2020-2021,Group stage,3,2020-11-05,Real Sociedad,AZ Alkmaar,es,nl,1,0,1.0
+2020-2021,Group stage,3,2020-11-05,Rapid Wien,Dundalk,at,ie,4,3,1.0
+2020-2021,Group stage,3,2020-11-05,Roma,CFR Cluj,it,ro,5,0,1.0
+2020-2021,Group stage,3,2020-11-05,Lech Poznań,Standard Liège,pl,be,3,1,1.0
+2020-2021,Group stage,3,2020-11-05,PAOK,PSV Eindhoven,gr,nl,4,1,1.0
+2020-2021,Group stage,3,2020-11-05,Ludogorets,Tottenham,bg,eng,1,3,0.0
+2020-2021,Group stage,3,2020-11-05,Be'er Sheva,Leverkusen,il,de,2,4,0.0
+2020-2021,Group stage,3,2020-11-05,AC Omonia,Granada,cy,es,0,2,0.0
+2020-2021,Group stage,3,2020-11-05,Arsenal,Molde,eng,no,4,1,1.0
+2020-2021,Group stage,3,2020-11-05,Leicester City,Braga,eng,pt,4,0,1.0
+2020-2021,Group stage,3,2020-11-05,Celtic,Sparta Prague,sct,cz,1,4,0.0
+2020-2021,Group stage,3,2020-11-05,Sivasspor,Qarabağ,tr,az,2,0,1.0
+2020-2021,Group stage,3,2020-11-05,Red Star,Gent,rs,be,2,1,1.0
+2020-2021,Group stage,3,2020-11-05,Young Boys,CSKA Sofia,ch,bg,3,0,1.0
+2020-2021,Group stage,3,2020-11-05,Hoffenheim,Slovan Liberec,de,cz,5,0,1.0
+2020-2021,Group stage,3,2020-11-05,Milan,Lille,it,fr,0,3,0.0
+2020-2021,Group stage,3,2020-11-05,Feyenoord,CSKA Moscow,nl,ru,3,1,1.0
+2020-2021,Group stage,3,2020-11-05,Antwerp,LASK,be,at,0,1,0.0
+2020-2021,Group stage,3,2020-11-05,Villarreal,Maccabi Tel Aviv,es,il,4,0,1.0
+2020-2021,Group stage,3,2020-11-05,Dinamo Zagreb,Wolfsberger AC,hr,at,1,0,1.0
+2020-2021,Group stage,3,2020-11-05,Zorya Luhansk,AEK Athens,ua,gr,1,4,0.0
+2020-2021,Group stage,4,2020-11-26,Braga,Leicester City,pt,eng,3,3,0.5
+2020-2021,Group stage,4,2020-11-26,Wolfsberger AC,Dinamo Zagreb,at,hr,0,3,0.0
+2020-2021,Group stage,4,2020-11-26,Gent,Red Star,be,rs,0,2,0.0
+2020-2021,Group stage,4,2020-11-26,LASK,Antwerp,at,be,0,2,0.0
+2020-2021,Group stage,4,2020-11-26,Molde,Arsenal,no,eng,0,3,0.0
+2020-2021,Group stage,4,2020-11-26,Lille,Milan,fr,it,1,1,0.5
+2020-2021,Group stage,4,2020-11-26,Slovan Liberec,Hoffenheim,cz,de,0,2,0.0
+2020-2021,Group stage,4,2020-11-26,Sparta Prague,Celtic,cz,sct,4,1,1.0
+2020-2021,Group stage,4,2020-11-26,AEK Athens,Zorya Luhansk,gr,ua,0,3,0.0
+2020-2021,Group stage,4,2020-11-26,CSKA Sofia,Young Boys,bg,ch,0,1,0.0
+2020-2021,Group stage,4,2020-11-26,Maccabi Tel Aviv,Villarreal,il,es,1,1,0.5
+2020-2021,Group stage,4,2020-11-26,Tottenham,Ludogorets,eng,bg,4,0,1.0
+2020-2021,Group stage,4,2020-11-26,Dundalk,Rapid Wien,ie,at,1,3,0.0
+2020-2021,Group stage,4,2020-11-26,Rangers,Benfica,sct,pt,2,2,0.5
+2020-2021,Group stage,4,2020-11-26,CSKA Moscow,Feyenoord,ru,nl,0,0,0.5
+2020-2021,Group stage,4,2020-11-26,Granada,AC Omonia,es,cy,2,1,1.0
+2020-2021,Group stage,4,2020-11-26,PSV Eindhoven,PAOK,nl,gr,3,2,1.0
+2020-2021,Group stage,4,2020-11-26,Napoli,Rijeka,it,hr,2,0,1.0
+2020-2021,Group stage,4,2020-11-26,Standard Liège,Lech Poznań,be,pl,2,1,1.0
+2020-2021,Group stage,4,2020-11-26,Leverkusen,Be'er Sheva,de,il,4,1,1.0
+2020-2021,Group stage,4,2020-11-26,Nice,Slavia Prague,fr,cz,1,3,0.0
+2020-2021,Group stage,4,2020-11-26,AZ Alkmaar,Real Sociedad,nl,es,0,0,0.5
+2020-2021,Group stage,4,2020-11-26,Qarabağ,Sivasspor,az,tr,2,3,0.0
+2020-2021,Group stage,4,2020-11-26,CFR Cluj,Roma,ro,it,0,2,0.0
+2020-2021,Group stage,5,2020-12-03,Gent,Slovan Liberec,be,cz,1,2,0.0
+2020-2021,Group stage,5,2020-12-03,Antwerp,Ludogorets,be,bg,3,1,1.0
+2020-2021,Group stage,5,2020-12-03,Feyenoord,Dinamo Zagreb,nl,hr,0,2,0.0
+2020-2021,Group stage,5,2020-12-03,Milan,Celtic,it,sct,4,2,1.0
+2020-2021,Group stage,5,2020-12-03,Red Star,Hoffenheim,rs,de,0,0,0.5
+2020-2021,Group stage,5,2020-12-03,Lille,Sparta Prague,fr,cz,2,1,1.0
+2020-2021,Group stage,5,2020-12-03,LASK,Tottenham,at,eng,3,3,0.5
+2020-2021,Group stage,5,2020-12-03,AEK Athens,Braga,gr,pt,2,4,0.0
+2020-2021,Group stage,5,2020-12-03,Zorya Luhansk,Leicester City,ua,eng,1,0,1.0
+2020-2021,Group stage,5,2020-12-03,Benfica,Lech Poznań,pt,pl,4,0,1.0
+2020-2021,Group stage,5,2020-12-03,Arsenal,Rapid Wien,eng,at,4,1,1.0
+2020-2021,Group stage,5,2020-12-03,Rangers,Standard Liège,sct,be,3,2,1.0
+2020-2021,Group stage,5,2020-12-03,Sivasspor,Villarreal,tr,es,0,1,0.0
+2020-2021,Group stage,5,2020-12-03,CSKA Moscow,Wolfsberger AC,ru,at,0,1,0.0
+2020-2021,Group stage,5,2020-12-03,Roma,Young Boys,it,ch,3,1,1.0
+2020-2021,Group stage,5,2020-12-03,Real Sociedad,Rijeka,es,hr,2,2,0.5
+2020-2021,Group stage,5,2020-12-03,Molde,Dundalk,no,ie,3,1,1.0
+2020-2021,Group stage,5,2020-12-03,Granada,PSV Eindhoven,es,nl,0,1,0.0
+2020-2021,Group stage,5,2020-12-03,Nice,Leverkusen,fr,de,2,3,0.0
+2020-2021,Group stage,5,2020-12-03,AZ Alkmaar,Napoli,nl,it,1,1,0.5
+2020-2021,Group stage,5,2020-12-03,Slavia Prague,Be'er Sheva,cz,il,3,0,1.0
+2020-2021,Group stage,5,2020-12-03,Qarabağ,Maccabi Tel Aviv,az,il,1,1,0.5
+2020-2021,Group stage,5,2020-12-03,CFR Cluj,CSKA Sofia,ro,bg,0,0,0.5
+2020-2021,Group stage,5,2020-12-03,AC Omonia,PAOK,cy,gr,2,1,1.0
+2020-2021,Group stage,6,2020-12-10,Dundalk,Arsenal,ie,eng,2,4,0.0
+2020-2021,Group stage,6,2020-12-10,Rapid Wien,Molde,at,no,2,2,0.5
+2020-2021,Group stage,6,2020-12-10,Napoli,Real Sociedad,it,es,1,1,0.5
+2020-2021,Group stage,6,2020-12-10,Young Boys,CFR Cluj,ch,ro,2,1,1.0
+2020-2021,Group stage,6,2020-12-10,PSV Eindhoven,AC Omonia,nl,cy,4,0,1.0
+2020-2021,Group stage,6,2020-12-10,Leverkusen,Slavia Prague,de,cz,4,0,1.0
+2020-2021,Group stage,6,2020-12-10,Standard Liège,Benfica,be,pt,2,2,0.5
+2020-2021,Group stage,6,2020-12-10,Lech Poznań,Rangers,pl,sct,0,2,0.0
+2020-2021,Group stage,6,2020-12-10,Rijeka,AZ Alkmaar,hr,nl,2,1,1.0
+2020-2021,Group stage,6,2020-12-10,Be'er Sheva,Nice,il,fr,1,0,1.0
+2020-2021,Group stage,6,2020-12-10,CSKA Sofia,Roma,bg,it,3,1,1.0
+2020-2021,Group stage,6,2020-12-10,PAOK,Granada,gr,es,0,0,0.5
+2020-2021,Group stage,6,2020-12-10,Leicester City,AEK Athens,eng,gr,2,0,1.0
+2020-2021,Group stage,6,2020-12-10,Celtic,Lille,sct,fr,3,2,1.0
+2020-2021,Group stage,6,2020-12-10,Tottenham,Antwerp,eng,be,2,0,1.0
+2020-2021,Group stage,6,2020-12-10,Braga,Zorya Luhansk,pt,ua,2,0,1.0
+2020-2021,Group stage,6,2020-12-10,Villarreal,Qarabağ,es,az,3,0,1.0
+2020-2021,Group stage,6,2020-12-10,Slovan Liberec,Red Star,cz,rs,0,0,0.5
+2020-2021,Group stage,6,2020-12-10,Dinamo Zagreb,CSKA Moscow,hr,ru,3,1,1.0
+2020-2021,Group stage,6,2020-12-10,Wolfsberger AC,Feyenoord,at,nl,1,0,1.0
+2020-2021,Group stage,6,2020-12-10,Hoffenheim,Gent,de,be,4,1,1.0
+2020-2021,Group stage,6,2020-12-10,Sparta Prague,Milan,cz,it,0,1,0.0
+2020-2021,Group stage,6,2020-12-10,Ludogorets,LASK,bg,at,1,3,0.0
+2020-2021,Group stage,6,2020-12-10,Maccabi Tel Aviv,Sivasspor,il,tr,1,0,1.0
+2020-2021,Round of 32,,2021-02-18,Dynamo Kyiv,Club Brugge,ua,be,1,1,0.5
+2020-2021,Round of 32,,2021-02-18,Braga,Roma,pt,it,0,2,0.0
+2020-2021,Round of 32,,2021-02-18,Red Star,Milan,rs,it,2,2,0.5
+2020-2021,Round of 32,,2021-02-18,Wolfsberger AC,Tottenham,at,eng,1,4,0.0
+2020-2021,Round of 32,,2021-02-18,Young Boys,Leverkusen,ch,de,4,3,1.0
+2020-2021,Round of 32,,2021-02-18,Slavia Prague,Leicester City,cz,eng,0,0,0.5
+2020-2021,Round of 32,,2021-02-18,Real Sociedad,Manchester Utd,es,eng,0,4,0.0
+2020-2021,Round of 32,,2021-02-18,Olympiacos,PSV Eindhoven,gr,nl,4,2,1.0
+2020-2021,Round of 32,,2021-02-18,Benfica,Arsenal,pt,eng,1,1,0.5
+2020-2021,Round of 32,,2021-02-18,Krasnodar,Dinamo Zagreb,ru,hr,2,3,0.0
+2020-2021,Round of 32,,2021-02-18,Lille,Ajax,fr,nl,1,2,0.0
+2020-2021,Round of 32,,2021-02-18,Antwerp,Rangers,be,sct,3,4,0.0
+2020-2021,Round of 32,,2021-02-18,Granada,Napoli,es,it,2,0,1.0
+2020-2021,Round of 32,,2021-02-18,Molde,Hoffenheim,no,de,3,3,0.5
+2020-2021,Round of 32,,2021-02-18,RB Salzburg,Villarreal,at,es,0,2,0.0
+2020-2021,Round of 32,,2021-02-18,Maccabi Tel Aviv,Shakhtar,il,ua,0,2,0.0
+2020-2021,Round of 32,,2021-02-24,Tottenham,Wolfsberger AC,eng,at,4,0,1.0
+2020-2021,Round of 32,,2021-02-25,Arsenal,Benfica,eng,pt,3,2,1.0
+2020-2021,Round of 32,,2021-02-25,Rangers,Antwerp,sct,be,5,2,1.0
+2020-2021,Round of 32,,2021-02-25,Ajax,Lille,nl,fr,2,1,1.0
+2020-2021,Round of 32,,2021-02-25,Hoffenheim,Molde,de,no,0,2,0.0
+2020-2021,Round of 32,,2021-02-25,Villarreal,RB Salzburg,es,at,2,1,1.0
+2020-2021,Round of 32,,2021-02-25,Napoli,Granada,it,es,2,1,1.0
+2020-2021,Round of 32,,2021-02-25,Shakhtar,Maccabi Tel Aviv,ua,il,1,0,1.0
+2020-2021,Round of 32,,2021-02-25,Manchester Utd,Real Sociedad,eng,es,0,0,0.5
+2020-2021,Round of 32,,2021-02-25,Leicester City,Slavia Prague,eng,cz,0,2,0.0
+2020-2021,Round of 32,,2021-02-25,Roma,Braga,it,pt,3,1,1.0
+2020-2021,Round of 32,,2021-02-25,PSV Eindhoven,Olympiacos,nl,gr,2,1,1.0
+2020-2021,Round of 32,,2021-02-25,Club Brugge,Dynamo Kyiv,be,ua,0,1,0.0
+2020-2021,Round of 32,,2021-02-25,Leverkusen,Young Boys,de,ch,0,2,0.0
+2020-2021,Round of 32,,2021-02-25,Milan,Red Star,it,rs,1,1,0.5
+2020-2021,Round of 32,,2021-02-25,Dinamo Zagreb,Krasnodar,hr,ru,1,0,1.0
+2020-2021,Round of 16,,2021-03-11,Manchester Utd,Milan,eng,it,1,1,0.5
+2020-2021,Round of 16,,2021-03-11,Slavia Prague,Rangers,cz,sct,1,1,0.5
+2020-2021,Round of 16,,2021-03-11,Ajax,Young Boys,nl,ch,3,0,1.0
+2020-2021,Round of 16,,2021-03-11,Dynamo Kyiv,Villarreal,ua,es,0,2,0.0
+2020-2021,Round of 16,,2021-03-11,Tottenham,Dinamo Zagreb,eng,hr,2,0,1.0
+2020-2021,Round of 16,,2021-03-11,Granada,Molde,es,no,2,0,1.0
+2020-2021,Round of 16,,2021-03-11,Roma,Shakhtar,it,ua,3,0,1.0
+2020-2021,Round of 16,,2021-03-11,Olympiacos,Arsenal,gr,eng,1,3,0.0
+2020-2021,Round of 16,,2021-03-18,Arsenal,Olympiacos,eng,gr,0,1,0.0
+2020-2021,Round of 16,,2021-03-18,Molde,Granada,no,es,2,1,1.0
+2020-2021,Round of 16,,2021-03-18,Dinamo Zagreb,Tottenham,hr,eng,3,0,1.0
+2020-2021,Round of 16,,2021-03-18,Shakhtar,Roma,ua,it,1,2,0.0
+2020-2021,Round of 16,,2021-03-18,Rangers,Slavia Prague,sct,cz,0,2,0.0
+2020-2021,Round of 16,,2021-03-18,Young Boys,Ajax,ch,nl,0,2,0.0
+2020-2021,Round of 16,,2021-03-18,Milan,Manchester Utd,it,eng,0,1,0.0
+2020-2021,Round of 16,,2021-03-18,Villarreal,Dynamo Kyiv,es,ua,2,0,1.0
+2020-2021,Quarter-finals,,2021-04-08,Arsenal,Slavia Prague,eng,cz,1,1,0.5
+2020-2021,Quarter-finals,,2021-04-08,Ajax,Roma,nl,it,1,2,0.0
+2020-2021,Quarter-finals,,2021-04-08,Granada,Manchester Utd,es,eng,0,2,0.0
+2020-2021,Quarter-finals,,2021-04-08,Dinamo Zagreb,Villarreal,hr,es,0,1,0.0
+2020-2021,Quarter-finals,,2021-04-15,Manchester Utd,Granada,eng,es,2,0,1.0
+2020-2021,Quarter-finals,,2021-04-15,Roma,Ajax,it,nl,1,1,0.5
+2020-2021,Quarter-finals,,2021-04-15,Villarreal,Dinamo Zagreb,es,hr,2,1,1.0
+2020-2021,Quarter-finals,,2021-04-15,Slavia Prague,Arsenal,cz,eng,0,4,0.0
+2020-2021,Semi-finals,,2021-04-29,Manchester Utd,Roma,eng,it,6,2,1.0
+2020-2021,Semi-finals,,2021-04-29,Villarreal,Arsenal,es,eng,2,1,1.0
+2020-2021,Semi-finals,,2021-05-06,Arsenal,Villarreal,eng,es,0,0,0.5
+2020-2021,Semi-finals,,2021-05-06,Roma,Manchester Utd,it,eng,3,2,1.0
+2020-2021,Final,,2021-05-26,Villarreal,Manchester Utd,es,eng,1,1,0.5

@@ -1,0 +1,231 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022-2023,Regular season,1,2022-07-30,Livingston,Rangers,1,2,0.0
+2022-2023,Regular season,1,2022-07-30,Kilmarnock,Dundee United,1,1,0.5
+2022-2023,Regular season,1,2022-07-30,Hearts,Ross County,2,1,1.0
+2022-2023,Regular season,1,2022-07-30,St Johnstone,Hibernian,0,1,0.0
+2022-2023,Regular season,1,2022-07-31,St Mirren,Motherwell,0,1,0.0
+2022-2023,Regular season,1,2022-07-31,Celtic,Aberdeen,2,0,1.0
+2022-2023,Regular season,2,2022-08-06,Ross County,Celtic,1,3,0.0
+2022-2023,Regular season,2,2022-08-06,Motherwell,St Johnstone,1,2,0.0
+2022-2023,Regular season,2,2022-08-06,Aberdeen,St Mirren,4,1,1.0
+2022-2023,Regular season,2,2022-08-06,Rangers,Kilmarnock,2,0,1.0
+2022-2023,Regular season,2,2022-08-07,Hibernian,Hearts,1,1,0.5
+2022-2023,Regular season,2,2022-08-07,Dundee United,Livingston,0,1,0.0
+2022-2023,Regular season,3,2022-08-13,Aberdeen,Motherwell,2,3,0.0
+2022-2023,Regular season,3,2022-08-13,Rangers,St Johnstone,4,0,1.0
+2022-2023,Regular season,3,2022-08-13,St Mirren,Ross County,1,0,1.0
+2022-2023,Regular season,3,2022-08-13,Livingston,Hibernian,2,1,1.0
+2022-2023,Regular season,3,2022-08-14,Kilmarnock,Celtic,0,5,0.0
+2022-2023,Regular season,3,2022-08-14,Hearts,Dundee United,4,1,1.0
+2022-2023,Regular season,4,2022-08-20,Hibernian,Rangers,2,2,0.5
+2022-2023,Regular season,4,2022-08-20,Ross County,Kilmarnock,1,0,1.0
+2022-2023,Regular season,4,2022-08-20,St Johnstone,Aberdeen,0,1,0.0
+2022-2023,Regular season,4,2022-08-20,Dundee United,St Mirren,0,3,0.0
+2022-2023,Regular season,4,2022-08-20,Motherwell,Livingston,1,0,1.0
+2022-2023,Regular season,4,2022-08-21,Celtic,Hearts,2,0,1.0
+2022-2023,Regular season,5,2022-08-27,Aberdeen,Livingston,5,0,1.0
+2022-2023,Regular season,5,2022-08-27,St Mirren,Hibernian,1,0,1.0
+2022-2023,Regular season,5,2022-08-27,Rangers,Ross County,4,0,1.0
+2022-2023,Regular season,5,2022-08-27,Kilmarnock,Motherwell,2,1,1.0
+2022-2023,Regular season,5,2022-08-28,Dundee United,Celtic,0,9,0.0
+2022-2023,Regular season,5,2022-08-28,Hearts,St Johnstone,3,2,1.0
+2022-2023,Regular season,6,2022-09-03,Celtic,Rangers,4,0,1.0
+2022-2023,Regular season,6,2022-09-03,Livingston,Hearts,1,0,1.0
+2022-2023,Regular season,6,2022-09-03,St Johnstone,St Mirren,3,0,1.0
+2022-2023,Regular season,6,2022-09-03,Hibernian,Kilmarnock,1,0,1.0
+2022-2023,Regular season,6,2022-09-03,Motherwell,Dundee United,0,0,0.5
+2022-2023,Regular season,6,2022-09-03,Ross County,Aberdeen,1,1,0.5
+2022-2023,Regular season,8,2022-09-17,Rangers,Dundee United,2,1,1.0
+2022-2023,Regular season,8,2022-09-17,Hibernian,Aberdeen,3,1,1.0
+2022-2023,Regular season,8,2022-09-17,Livingston,Kilmarnock,1,0,1.0
+2022-2023,Regular season,8,2022-09-17,St Johnstone,Ross County,0,0,0.5
+2022-2023,Regular season,8,2022-09-18,St Mirren,Celtic,2,0,1.0
+2022-2023,Regular season,8,2022-09-18,Motherwell,Hearts,0,3,0.0
+2022-2023,Regular season,9,2022-10-01,Hearts,Rangers,0,4,0.0
+2022-2023,Regular season,9,2022-10-01,Dundee United,St Johnstone,1,2,0.0
+2022-2023,Regular season,9,2022-10-01,St Mirren,Livingston,2,1,1.0
+2022-2023,Regular season,9,2022-10-01,Celtic,Motherwell,2,1,1.0
+2022-2023,Regular season,9,2022-10-01,Ross County,Hibernian,0,2,0.0
+2022-2023,Regular season,9,2022-10-01,Aberdeen,Kilmarnock,4,1,1.0
+2022-2023,Regular season,7,2022-10-04,Ross County,Motherwell,0,5,0.0
+2022-2023,Regular season,7,2022-10-05,Kilmarnock,St Johnstone,2,1,1.0
+2022-2023,Regular season,10,2022-10-08,St Johnstone,Celtic,1,2,0.0
+2022-2023,Regular season,10,2022-10-08,Rangers,St Mirren,4,0,1.0
+2022-2023,Regular season,10,2022-10-08,Livingston,Ross County,0,1,0.0
+2022-2023,Regular season,10,2022-10-08,Hibernian,Motherwell,1,0,1.0
+2022-2023,Regular season,10,2022-10-08,Dundee United,Aberdeen,4,0,1.0
+2022-2023,Regular season,10,2022-10-09,Kilmarnock,Hearts,2,2,0.5
+2022-2023,Regular season,7,2022-10-11,Dundee United,Hibernian,1,0,1.0
+2022-2023,Regular season,11,2022-10-15,Celtic,Hibernian,6,1,1.0
+2022-2023,Regular season,11,2022-10-15,Livingston,St Johnstone,1,0,1.0
+2022-2023,Regular season,11,2022-10-15,Ross County,Dundee United,1,1,0.5
+2022-2023,Regular season,11,2022-10-15,St Mirren,Kilmarnock,0,0,0.5
+2022-2023,Regular season,11,2022-10-16,Motherwell,Rangers,1,2,0.0
+2022-2023,Regular season,11,2022-10-16,Aberdeen,Hearts,2,0,1.0
+2022-2023,Regular season,12,2022-10-21,Hibernian,St Johnstone,1,2,0.0
+2022-2023,Regular season,12,2022-10-22,Hearts,Celtic,3,4,0.0
+2022-2023,Regular season,12,2022-10-22,Kilmarnock,Ross County,1,0,1.0
+2022-2023,Regular season,12,2022-10-22,Rangers,Livingston,1,1,0.5
+2022-2023,Regular season,12,2022-10-22,Motherwell,Aberdeen,1,2,0.0
+2022-2023,Regular season,12,2022-10-22,St Mirren,Dundee United,2,1,1.0
+2022-2023,Regular season,13,2022-10-29,Dundee United,Motherwell,0,1,0.0
+2022-2023,Regular season,13,2022-10-29,Hibernian,St Mirren,3,0,1.0
+2022-2023,Regular season,13,2022-10-29,St Johnstone,Kilmarnock,1,0,1.0
+2022-2023,Regular season,13,2022-10-29,Rangers,Aberdeen,4,1,1.0
+2022-2023,Regular season,13,2022-10-30,Livingston,Celtic,0,3,0.0
+2022-2023,Regular season,13,2022-10-30,Ross County,Hearts,1,2,0.0
+2022-2023,Regular season,14,2022-11-04,Aberdeen,Hibernian,4,1,1.0
+2022-2023,Regular season,14,2022-11-04,Kilmarnock,Livingston,2,3,0.0
+2022-2023,Regular season,14,2022-11-05,Celtic,Dundee United,4,2,1.0
+2022-2023,Regular season,14,2022-11-05,Ross County,St Mirren,3,2,1.0
+2022-2023,Regular season,14,2022-11-06,St Johnstone,Rangers,2,1,1.0
+2022-2023,Regular season,14,2022-11-06,Hearts,Motherwell,3,2,1.0
+2022-2023,Regular season,15,2022-11-08,Livingston,Aberdeen,2,1,1.0
+2022-2023,Regular season,15,2022-11-08,Hibernian,Ross County,0,2,0.0
+2022-2023,Regular season,15,2022-11-09,Dundee United,Kilmarnock,4,0,1.0
+2022-2023,Regular season,15,2022-11-09,Motherwell,Celtic,1,2,0.0
+2022-2023,Regular season,15,2022-11-09,Rangers,Hearts,1,0,1.0
+2022-2023,Regular season,15,2022-11-09,St Mirren,St Johnstone,2,2,0.5
+2022-2023,Regular season,16,2022-11-12,St Mirren,Rangers,1,1,0.5
+2022-2023,Regular season,16,2022-11-12,St Johnstone,Motherwell,1,1,0.5
+2022-2023,Regular season,16,2022-11-12,Hearts,Livingston,1,1,0.5
+2022-2023,Regular season,16,2022-11-12,Kilmarnock,Hibernian,1,0,1.0
+2022-2023,Regular season,16,2022-11-12,Celtic,Ross County,2,1,1.0
+2022-2023,Regular season,16,2022-11-12,Aberdeen,Dundee United,1,0,1.0
+2022-2023,Regular season,17,2022-12-15,Rangers,Hibernian,3,2,1.0
+2022-2023,Regular season,17,2022-12-17,Aberdeen,Celtic,0,1,0.0
+2022-2023,Regular season,17,2022-12-17,Hearts,Kilmarnock,3,1,1.0
+2022-2023,Regular season,17,2022-12-17,Ross County,St Johnstone,1,2,0.0
+2022-2023,Regular season,7,2022-12-20,Aberdeen,Rangers,2,3,0.0
+2022-2023,Regular season,7,2022-12-21,Celtic,Livingston,2,1,1.0
+2022-2023,Regular season,18,2022-12-23,Ross County,Rangers,0,1,0.0
+2022-2023,Regular season,18,2022-12-23,Motherwell,Kilmarnock,2,2,0.5
+2022-2023,Regular season,18,2022-12-24,Celtic,St Johnstone,4,1,1.0
+2022-2023,Regular season,18,2022-12-24,St Mirren,Aberdeen,3,1,1.0
+2022-2023,Regular season,18,2022-12-24,Hibernian,Livingston,4,0,1.0
+2022-2023,Regular season,18,2022-12-24,Dundee United,Hearts,2,2,0.5
+2022-2023,Regular season,19,2022-12-28,St Johnstone,Hearts,2,3,0.0
+2022-2023,Regular season,19,2022-12-28,Dundee United,Ross County,3,0,1.0
+2022-2023,Regular season,19,2022-12-28,Livingston,St Mirren,1,1,0.5
+2022-2023,Regular season,19,2022-12-28,Kilmarnock,Aberdeen,2,1,1.0
+2022-2023,Regular season,19,2022-12-28,Rangers,Motherwell,3,0,1.0
+2022-2023,Regular season,19,2022-12-28,Hibernian,Celtic,0,4,0.0
+2022-2023,Regular season,20,2023-01-02,Rangers,Celtic,2,2,0.5
+2022-2023,Regular season,20,2023-01-02,Hearts,Hibernian,3,0,1.0
+2022-2023,Regular season,20,2023-01-02,Livingston,Motherwell,1,1,0.5
+2022-2023,Regular season,20,2023-01-02,Aberdeen,Ross County,0,0,0.5
+2022-2023,Regular season,20,2023-01-02,St Johnstone,Dundee United,0,1,0.0
+2022-2023,Regular season,20,2023-01-02,Kilmarnock,St Mirren,0,0,0.5
+2022-2023,Regular season,21,2023-01-07,Aberdeen,St Johnstone,2,0,1.0
+2022-2023,Regular season,21,2023-01-07,Ross County,Livingston,0,2,0.0
+2022-2023,Regular season,21,2023-01-07,Celtic,Kilmarnock,2,0,1.0
+2022-2023,Regular season,21,2023-01-07,St Mirren,Hearts,1,1,0.5
+2022-2023,Regular season,21,2023-01-08,Motherwell,Hibernian,2,3,0.0
+2022-2023,Regular season,21,2023-01-08,Dundee United,Rangers,0,2,0.0
+2022-2023,Regular season,7,2023-01-13,Hearts,St Mirren,1,0,1.0
+2022-2023,Regular season,22,2023-01-14,Hibernian,Dundee United,2,2,0.5
+2022-2023,Regular season,22,2023-01-14,Motherwell,Ross County,1,1,0.5
+2022-2023,Regular season,22,2023-01-14,St Johnstone,Livingston,2,4,0.0
+2022-2023,Regular season,22,2023-01-18,Hearts,Aberdeen,5,0,1.0
+2022-2023,Regular season,22,2023-01-18,Celtic,St Mirren,4,0,1.0
+2022-2023,Regular season,22,2023-01-18,Kilmarnock,Rangers,2,3,0.0
+2022-2023,Regular season,23,2023-01-28,Rangers,St Johnstone,2,0,1.0
+2022-2023,Regular season,23,2023-01-28,Ross County,Kilmarnock,3,0,1.0
+2022-2023,Regular season,23,2023-01-28,St Mirren,Motherwell,1,0,1.0
+2022-2023,Regular season,23,2023-01-28,Hibernian,Aberdeen,6,0,1.0
+2022-2023,Regular season,23,2023-01-29,Livingston,Hearts,0,0,0.5
+2022-2023,Regular season,23,2023-01-29,Dundee United,Celtic,0,2,0.0
+2022-2023,Regular season,24,2023-01-31,Ross County,Hibernian,1,1,0.5
+2022-2023,Regular season,24,2023-02-01,Kilmarnock,Dundee United,1,0,1.0
+2022-2023,Regular season,24,2023-02-01,Hearts,Rangers,0,3,0.0
+2022-2023,Regular season,24,2023-02-01,Aberdeen,St Mirren,1,3,0.0
+2022-2023,Regular season,24,2023-02-01,Motherwell,St Johnstone,0,2,0.0
+2022-2023,Regular season,24,2023-02-01,Celtic,Livingston,3,0,1.0
+2022-2023,Regular season,25,2023-02-04,Rangers,Ross County,2,1,1.0
+2022-2023,Regular season,25,2023-02-04,Hearts,Dundee United,3,1,1.0
+2022-2023,Regular season,25,2023-02-04,St Mirren,Hibernian,0,1,0.0
+2022-2023,Regular season,25,2023-02-04,Livingston,Kilmarnock,3,1,1.0
+2022-2023,Regular season,25,2023-02-04,Aberdeen,Motherwell,3,1,1.0
+2022-2023,Regular season,25,2023-02-05,St Johnstone,Celtic,1,4,0.0
+2022-2023,Regular season,17,2023-02-15,Motherwell,St Mirren,2,1,1.0
+2022-2023,Regular season,26,2023-02-18,Dundee United,St Johnstone,1,2,0.0
+2022-2023,Regular season,26,2023-02-18,Celtic,Aberdeen,4,0,1.0
+2022-2023,Regular season,26,2023-02-18,Livingston,Rangers,0,3,0.0
+2022-2023,Regular season,26,2023-02-18,St Mirren,Ross County,1,0,1.0
+2022-2023,Regular season,26,2023-02-18,Hibernian,Kilmarnock,2,0,1.0
+2022-2023,Regular season,26,2023-02-19,Motherwell,Hearts,2,0,1.0
+2022-2023,Regular season,27,2023-02-25,St Johnstone,St Mirren,1,1,0.5
+2022-2023,Regular season,27,2023-02-25,Aberdeen,Livingston,1,0,1.0
+2022-2023,Regular season,27,2023-02-25,Kilmarnock,Motherwell,1,1,0.5
+2022-2023,Regular season,27,2023-02-25,Ross County,Dundee United,4,0,1.0
+2022-2023,Regular season,28,2023-03-04,Ross County,Motherwell,0,2,0.0
+2022-2023,Regular season,28,2023-03-04,Livingston,Hibernian,1,4,0.0
+2022-2023,Regular season,28,2023-03-04,Rangers,Kilmarnock,3,1,1.0
+2022-2023,Regular season,28,2023-03-04,Hearts,St Johnstone,3,0,1.0
+2022-2023,Regular season,28,2023-03-04,Dundee United,Aberdeen,1,3,0.0
+2022-2023,Regular season,28,2023-03-05,St Mirren,Celtic,1,5,0.0
+2022-2023,Regular season,17,2023-03-08,Livingston,Dundee United,1,1,0.5
+2022-2023,Regular season,27,2023-03-08,Celtic,Hearts,3,1,1.0
+2022-2023,Regular season,27,2023-03-08,Hibernian,Rangers,1,4,0.0
+2022-2023,Regular season,29,2023-03-18,Motherwell,Rangers,2,4,0.0
+2022-2023,Regular season,29,2023-03-18,Celtic,Hibernian,3,1,1.0
+2022-2023,Regular season,29,2023-03-18,Aberdeen,Hearts,3,0,1.0
+2022-2023,Regular season,29,2023-03-18,Kilmarnock,St Johnstone,1,1,0.5
+2022-2023,Regular season,29,2023-03-18,Livingston,Ross County,2,1,1.0
+2022-2023,Regular season,29,2023-03-18,Dundee United,St Mirren,1,1,0.5
+2022-2023,Regular season,30,2023-04-01,St Johnstone,Aberdeen,0,1,0.0
+2022-2023,Regular season,30,2023-04-01,St Mirren,Livingston,3,0,1.0
+2022-2023,Regular season,30,2023-04-01,Hibernian,Motherwell,1,3,0.0
+2022-2023,Regular season,30,2023-04-01,Kilmarnock,Hearts,2,1,1.0
+2022-2023,Regular season,30,2023-04-01,Rangers,Dundee United,2,0,1.0
+2022-2023,Regular season,30,2023-04-02,Ross County,Celtic,0,2,0.0
+2022-2023,Regular season,31,2023-04-08,Celtic,Rangers,3,2,1.0
+2022-2023,Regular season,31,2023-04-08,St Johnstone,Ross County,0,2,0.0
+2022-2023,Regular season,31,2023-04-08,Aberdeen,Kilmarnock,2,0,1.0
+2022-2023,Regular season,31,2023-04-08,Motherwell,Livingston,3,0,1.0
+2022-2023,Regular season,31,2023-04-08,Hearts,St Mirren,0,2,0.0
+2022-2023,Regular season,31,2023-04-09,Dundee United,Hibernian,2,1,1.0
+2022-2023,Regular season,32,2023-04-14,Ross County,Aberdeen,0,1,0.0
+2022-2023,Regular season,32,2023-04-15,Hibernian,Hearts,1,0,1.0
+2022-2023,Regular season,32,2023-04-15,Rangers,St Mirren,5,2,1.0
+2022-2023,Regular season,32,2023-04-15,Motherwell,Dundee United,1,2,0.0
+2022-2023,Regular season,32,2023-04-15,Livingston,St Johnstone,2,0,1.0
+2022-2023,Regular season,32,2023-04-16,Kilmarnock,Celtic,1,4,0.0
+2022-2023,Regular season,33,2023-04-22,Hearts,Ross County,6,1,1.0
+2022-2023,Regular season,33,2023-04-22,St Mirren,Kilmarnock,0,2,0.0
+2022-2023,Regular season,33,2023-04-22,Celtic,Motherwell,1,1,0.5
+2022-2023,Regular season,33,2023-04-22,St Johnstone,Hibernian,1,1,0.5
+2022-2023,Regular season,33,2023-04-22,Dundee United,Livingston,2,0,1.0
+2022-2023,Regular season,33,2023-04-23,Aberdeen,Rangers,2,0,1.0
+2022-2023,Championship round,1,2023-05-06,Hibernian,St Mirren,2,1,1.0
+2022-2023,Relegation round,1,2023-05-06,Ross County,Livingston,2,0,1.0
+2022-2023,Relegation round,1,2023-05-06,St Johnstone,Dundee United,1,0,1.0
+2022-2023,Relegation round,1,2023-05-06,Motherwell,Kilmarnock,2,0,1.0
+2022-2023,Championship round,1,2023-05-07,Hearts,Celtic,0,2,0.0
+2022-2023,Championship round,1,2023-05-07,Rangers,Aberdeen,1,0,1.0
+2022-2023,Championship round,2,2023-05-13,Rangers,Celtic,3,0,1.0
+2022-2023,Championship round,2,2023-05-13,St Mirren,Hearts,2,2,0.5
+2022-2023,Championship round,2,2023-05-13,Aberdeen,Hibernian,0,0,0.5
+2022-2023,Relegation round,2,2023-05-13,Dundee United,Ross County,1,3,0.0
+2022-2023,Relegation round,2,2023-05-13,Kilmarnock,Livingston,2,0,1.0
+2022-2023,Relegation round,2,2023-05-13,St Johnstone,Motherwell,0,2,0.0
+2022-2023,Championship round,3,2023-05-20,Hearts,Aberdeen,2,1,1.0
+2022-2023,Championship round,3,2023-05-20,Celtic,St Mirren,2,2,0.5
+2022-2023,Relegation round,3,2023-05-20,Kilmarnock,St Johnstone,0,1,0.0
+2022-2023,Relegation round,3,2023-05-20,Livingston,Dundee United,2,1,1.0
+2022-2023,Relegation round,3,2023-05-20,Motherwell,Ross County,1,0,1.0
+2022-2023,Championship round,3,2023-05-21,Hibernian,Rangers,1,3,0.0
+2022-2023,Championship round,4,2023-05-24,Aberdeen,St Mirren,3,0,1.0
+2022-2023,Championship round,4,2023-05-24,Rangers,Hearts,2,2,0.5
+2022-2023,Championship round,4,2023-05-24,Hibernian,Celtic,4,2,1.0
+2022-2023,Relegation round,4,2023-05-24,Dundee United,Kilmarnock,0,3,0.0
+2022-2023,Relegation round,4,2023-05-24,Livingston,Motherwell,1,1,0.5
+2022-2023,Relegation round,4,2023-05-24,Ross County,St Johnstone,3,3,0.5
+2022-2023,Championship round,5,2023-05-27,Celtic,Aberdeen,5,0,1.0
+2022-2023,Championship round,5,2023-05-27,St Mirren,Rangers,0,3,0.0
+2022-2023,Championship round,5,2023-05-27,Hearts,Hibernian,1,1,0.5
+2022-2023,Relegation round,5,2023-05-28,Motherwell,Dundee United,3,2,1.0
+2022-2023,Relegation round,5,2023-05-28,St Johnstone,Livingston,2,0,1.0
+2022-2023,Relegation round,5,2023-05-28,Kilmarnock,Ross County,3,1,1.0
+2022-2023,Finals,,2023-06-01,Partick Thistle,Ross County,2,0,1.0
+2022-2023,Finals,,2023-06-04,Ross County,Partick Thistle,3,1,1.0

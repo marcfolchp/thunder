@@ -1,0 +1,231 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,Regular season,1,2020-08-01,Aberdeen,Rangers,0,1,0.0
+2020-2021,Regular season,1,2020-08-01,Hibernian,Kilmarnock,2,1,1.0
+2020-2021,Regular season,1,2020-08-01,Dundee United,St Johnstone,1,1,0.5
+2020-2021,Regular season,1,2020-08-01,St Mirren,Livingston,1,0,1.0
+2020-2021,Regular season,1,2020-08-02,Celtic,Hamilton,5,1,1.0
+2020-2021,Regular season,1,2020-08-03,Ross County,Motherwell,1,0,1.0
+2020-2021,Regular season,2,2020-08-08,Motherwell,Dundee United,0,1,0.0
+2020-2021,Regular season,2,2020-08-08,Hamilton,Ross County,0,1,0.0
+2020-2021,Regular season,2,2020-08-08,Livingston,Hibernian,1,4,0.0
+2020-2021,Regular season,2,2020-08-09,Rangers,St Mirren,3,0,1.0
+2020-2021,Regular season,2,2020-08-09,Kilmarnock,Celtic,1,1,0.5
+2020-2021,Regular season,3,2020-08-11,Dundee United,Hibernian,0,1,0.0
+2020-2021,Regular season,3,2020-08-12,Ross County,Kilmarnock,2,2,0.5
+2020-2021,Regular season,3,2020-08-12,Rangers,St Johnstone,3,0,1.0
+2020-2021,Regular season,3,2020-08-12,Motherwell,Livingston,2,2,0.5
+2020-2021,Regular season,4,2020-08-15,Ross County,Dundee United,1,2,0.0
+2020-2021,Regular season,4,2020-08-15,Kilmarnock,St Johnstone,1,2,0.0
+2020-2021,Regular season,4,2020-08-15,Hamilton,St Mirren,0,1,0.0
+2020-2021,Regular season,4,2020-08-15,Hibernian,Motherwell,0,0,0.5
+2020-2021,Regular season,4,2020-08-16,Livingston,Rangers,0,0,0.5
+2020-2021,Regular season,2,2020-08-20,St Johnstone,Aberdeen,0,1,0.0
+2020-2021,Regular season,5,2020-08-22,Rangers,Kilmarnock,2,0,1.0
+2020-2021,Regular season,5,2020-08-22,St Mirren,Ross County,1,1,0.5
+2020-2021,Regular season,5,2020-08-22,Motherwell,Hamilton,0,1,0.0
+2020-2021,Regular season,5,2020-08-22,Dundee United,Celtic,0,1,0.0
+2020-2021,Regular season,5,2020-08-23,Aberdeen,Livingston,2,1,1.0
+2020-2021,Regular season,5,2020-08-23,St Johnstone,Hibernian,0,1,0.0
+2020-2021,Regular season,6,2020-08-29,Livingston,Ross County,1,0,1.0
+2020-2021,Regular season,6,2020-08-29,St Johnstone,St Mirren,1,0,1.0
+2020-2021,Regular season,6,2020-08-29,Kilmarnock,Dundee United,4,0,1.0
+2020-2021,Regular season,6,2020-08-29,Hamilton,Rangers,0,2,0.0
+2020-2021,Regular season,6,2020-08-30,Celtic,Motherwell,3,0,1.0
+2020-2021,Regular season,6,2020-08-30,Hibernian,Aberdeen,0,1,0.0
+2020-2021,Regular season,7,2020-09-12,Aberdeen,Kilmarnock,1,0,1.0
+2020-2021,Regular season,7,2020-09-12,St Mirren,Hibernian,0,3,0.0
+2020-2021,Regular season,7,2020-09-12,Motherwell,St Johnstone,1,0,1.0
+2020-2021,Regular season,7,2020-09-12,Rangers,Dundee United,4,0,1.0
+2020-2021,Regular season,7,2020-09-12,Ross County,Celtic,0,5,0.0
+2020-2021,Regular season,7,2020-09-12,Livingston,Hamilton,1,2,0.0
+2020-2021,Regular season,3,2020-09-16,St Mirren,Celtic,1,2,0.0
+2020-2021,Regular season,8,2020-09-19,Dundee United,St Mirren,2,1,1.0
+2020-2021,Regular season,8,2020-09-19,Kilmarnock,Hamilton,2,1,1.0
+2020-2021,Regular season,8,2020-09-19,Celtic,Livingston,3,2,1.0
+2020-2021,Regular season,8,2020-09-19,St Johnstone,Ross County,0,1,0.0
+2020-2021,Regular season,8,2020-09-20,Hibernian,Rangers,2,2,0.5
+2020-2021,Regular season,8,2020-09-20,Aberdeen,Motherwell,0,3,0.0
+2020-2021,Regular season,9,2020-09-26,Livingston,St Johnstone,2,0,1.0
+2020-2021,Regular season,9,2020-09-26,Hamilton,Dundee United,1,1,0.5
+2020-2021,Regular season,9,2020-09-26,St Mirren,Kilmarnock,0,1,0.0
+2020-2021,Regular season,9,2020-09-27,Motherwell,Rangers,1,5,0.0
+2020-2021,Regular season,9,2020-09-27,Ross County,Aberdeen,0,3,0.0
+2020-2021,Regular season,9,2020-09-27,Celtic,Hibernian,3,0,1.0
+2020-2021,Regular season,10,2020-10-02,Aberdeen,St Mirren,2,1,1.0
+2020-2021,Regular season,10,2020-10-02,Hibernian,Hamilton,3,2,1.0
+2020-2021,Regular season,10,2020-10-02,Dundee United,Livingston,1,2,0.0
+2020-2021,Regular season,10,2020-10-04,St Johnstone,Celtic,0,2,0.0
+2020-2021,Regular season,10,2020-10-04,Rangers,Ross County,2,0,1.0
+2020-2021,Regular season,11,2020-10-17,Celtic,Rangers,0,2,0.0
+2020-2021,Regular season,11,2020-10-17,Dundee United,Aberdeen,0,0,0.5
+2020-2021,Regular season,11,2020-10-17,Ross County,Hibernian,0,0,0.5
+2020-2021,Regular season,11,2020-10-17,Hamilton,St Johnstone,3,5,0.0
+2020-2021,Regular season,11,2020-10-17,Livingston,Kilmarnock,1,3,0.0
+2020-2021,Regular season,3,2020-10-20,Aberdeen,Hamilton,4,2,1.0
+2020-2021,Regular season,12,2020-10-24,St Johnstone,Dundee United,0,0,0.5
+2020-2021,Regular season,12,2020-10-24,Kilmarnock,Hibernian,0,1,0.0
+2020-2021,Regular season,12,2020-10-24,Motherwell,Ross County,4,0,1.0
+2020-2021,Regular season,12,2020-10-25,Aberdeen,Celtic,3,3,0.5
+2020-2021,Regular season,12,2020-10-25,Rangers,Livingston,2,0,1.0
+2020-2021,Regular season,13,2020-10-31,Dundee United,Ross County,2,1,1.0
+2020-2021,Regular season,13,2020-10-31,Livingston,Motherwell,0,2,0.0
+2020-2021,Regular season,13,2020-11-01,Kilmarnock,Rangers,0,1,0.0
+2020-2021,Regular season,14,2020-11-06,St Johnstone,Kilmarnock,1,0,1.0
+2020-2021,Regular season,14,2020-11-06,St Mirren,Dundee United,0,0,0.5
+2020-2021,Regular season,14,2020-11-06,Ross County,Livingston,1,1,0.5
+2020-2021,Regular season,14,2020-11-06,Aberdeen,Hibernian,2,0,1.0
+2020-2021,Regular season,14,2020-11-08,Motherwell,Celtic,1,4,0.0
+2020-2021,Regular season,14,2020-11-08,Rangers,Hamilton,8,0,1.0
+2020-2021,Regular season,15,2020-11-21,Livingston,St Mirren,0,1,0.0
+2020-2021,Regular season,15,2020-11-21,Dundee United,Hamilton,2,1,1.0
+2020-2021,Regular season,15,2020-11-21,Kilmarnock,Ross County,3,1,1.0
+2020-2021,Regular season,15,2020-11-21,Hibernian,Celtic,2,2,0.5
+2020-2021,Regular season,15,2020-11-21,St Johnstone,Motherwell,1,1,0.5
+2020-2021,Regular season,15,2020-11-22,Rangers,Aberdeen,4,0,1.0
+2020-2021,Regular season,13,2020-11-24,Hibernian,St Johnstone,2,2,0.5
+2020-2021,Regular season,13,2020-11-25,Hamilton,Aberdeen,1,1,0.5
+2020-2021,Regular season,16,2020-12-05,St Mirren,Aberdeen,1,1,0.5
+2020-2021,Regular season,16,2020-12-05,Livingston,Dundee United,2,0,1.0
+2020-2021,Regular season,16,2020-12-05,Hamilton,Kilmarnock,1,0,1.0
+2020-2021,Regular season,16,2020-12-05,Motherwell,Hibernian,0,3,0.0
+2020-2021,Regular season,16,2020-12-06,Ross County,Rangers,0,4,0.0
+2020-2021,Regular season,16,2020-12-06,Celtic,St Johnstone,1,1,0.5
+2020-2021,Regular season,17,2020-12-12,Hamilton,Hibernian,0,4,0.0
+2020-2021,Regular season,17,2020-12-12,St Johnstone,Livingston,1,2,0.0
+2020-2021,Regular season,17,2020-12-12,Aberdeen,Ross County,2,0,1.0
+2020-2021,Regular season,17,2020-12-12,Motherwell,St Mirren,0,1,0.0
+2020-2021,Regular season,17,2020-12-13,Dundee United,Rangers,1,2,0.0
+2020-2021,Regular season,17,2020-12-13,Celtic,Kilmarnock,2,0,1.0
+2020-2021,Regular season,18,2020-12-19,St Mirren,St Johnstone,3,2,1.0
+2020-2021,Regular season,18,2020-12-19,Ross County,Hamilton,0,2,0.0
+2020-2021,Regular season,18,2020-12-19,Hibernian,Dundee United,1,1,0.5
+2020-2021,Regular season,18,2020-12-19,Rangers,Motherwell,3,1,1.0
+2020-2021,Regular season,18,2020-12-20,Kilmarnock,Aberdeen,0,2,0.0
+2020-2021,Regular season,19,2020-12-23,Celtic,Ross County,2,0,1.0
+2020-2021,Regular season,19,2020-12-23,Hibernian,St Mirren,1,0,1.0
+2020-2021,Regular season,19,2020-12-23,St Johnstone,Rangers,0,3,0.0
+2020-2021,Regular season,19,2020-12-23,Hamilton,Livingston,0,2,0.0
+2020-2021,Regular season,19,2020-12-23,Motherwell,Aberdeen,0,0,0.5
+2020-2021,Regular season,19,2020-12-23,Dundee United,Kilmarnock,2,0,1.0
+2020-2021,Regular season,20,2020-12-26,Rangers,Hibernian,1,0,1.0
+2020-2021,Regular season,20,2020-12-26,Kilmarnock,Livingston,1,2,0.0
+2020-2021,Regular season,20,2020-12-26,Hamilton,Celtic,0,3,0.0
+2020-2021,Regular season,20,2020-12-26,Ross County,St Mirren,0,2,0.0
+2020-2021,Regular season,20,2020-12-26,Aberdeen,St Johnstone,2,1,1.0
+2020-2021,Regular season,20,2020-12-26,Dundee United,Motherwell,1,1,0.5
+2020-2021,Regular season,21,2020-12-30,St Johnstone,Hamilton,0,0,0.5
+2020-2021,Regular season,21,2020-12-30,St Mirren,Rangers,0,2,0.0
+2020-2021,Regular season,21,2020-12-30,Celtic,Dundee United,3,0,1.0
+2020-2021,Regular season,21,2020-12-30,Hibernian,Ross County,0,2,0.0
+2020-2021,Regular season,21,2020-12-30,Motherwell,Kilmarnock,0,2,0.0
+2020-2021,Regular season,22,2021-01-02,Rangers,Celtic,1,0,1.0
+2020-2021,Regular season,22,2021-01-02,Ross County,St Johnstone,1,1,0.5
+2020-2021,Regular season,22,2021-01-02,Hibernian,Livingston,0,3,0.0
+2020-2021,Regular season,22,2021-01-02,Aberdeen,Dundee United,0,0,0.5
+2020-2021,Regular season,22,2021-01-02,Hamilton,Motherwell,3,0,1.0
+2020-2021,Regular season,22,2021-01-02,Kilmarnock,St Mirren,1,1,0.5
+2020-2021,Regular season,23,2021-01-09,St Mirren,Motherwell,1,1,0.5
+2020-2021,Regular season,23,2021-01-09,Kilmarnock,Hamilton,2,0,1.0
+2020-2021,Regular season,23,2021-01-10,Aberdeen,Rangers,1,2,0.0
+2020-2021,Regular season,23,2021-01-10,Livingston,Ross County,3,1,1.0
+2020-2021,Regular season,23,2021-01-11,Celtic,Hibernian,1,1,0.5
+2020-2021,Regular season,23,2021-01-12,Dundee United,St Johnstone,2,2,0.5
+2020-2021,Regular season,24,2021-01-16,Ross County,Aberdeen,4,1,1.0
+2020-2021,Regular season,24,2021-01-16,Hibernian,Kilmarnock,2,0,1.0
+2020-2021,Regular season,24,2021-01-16,Celtic,Livingston,0,0,0.5
+2020-2021,Regular season,24,2021-01-16,Hamilton,Dundee United,0,0,0.5
+2020-2021,Regular season,24,2021-01-16,St Johnstone,St Mirren,1,0,1.0
+2020-2021,Regular season,24,2021-01-17,Motherwell,Rangers,1,1,0.5
+2020-2021,Regular season,18,2021-01-20,Livingston,Celtic,2,2,0.5
+2020-2021,Regular season,25,2021-01-23,Aberdeen,Motherwell,2,0,1.0
+2020-2021,Regular season,25,2021-01-23,Rangers,Ross County,5,0,1.0
+2020-2021,Regular season,26,2021-01-27,St Johnstone,Aberdeen,0,0,0.5
+2020-2021,Regular season,26,2021-01-27,Ross County,Motherwell,1,2,0.0
+2020-2021,Regular season,26,2021-01-27,Dundee United,St Mirren,1,5,0.0
+2020-2021,Regular season,26,2021-01-27,Livingston,Kilmarnock,2,0,1.0
+2020-2021,Regular season,26,2021-01-27,Hibernian,Rangers,0,1,0.0
+2020-2021,Regular season,26,2021-01-27,Celtic,Hamilton,2,0,1.0
+2020-2021,Regular season,13,2021-01-30,Celtic,St Mirren,1,2,0.0
+2020-2021,Regular season,21,2021-01-30,Livingston,Aberdeen,0,0,0.5
+2020-2021,Regular season,25,2021-01-30,Kilmarnock,St Johnstone,2,3,0.0
+2020-2021,Regular season,25,2021-01-30,Dundee United,Hibernian,0,2,0.0
+2020-2021,Regular season,27,2021-02-02,Aberdeen,Livingston,0,2,0.0
+2020-2021,Regular season,27,2021-02-02,St Mirren,Hibernian,1,2,0.0
+2020-2021,Regular season,27,2021-02-02,Kilmarnock,Celtic,0,4,0.0
+2020-2021,Regular season,27,2021-02-03,Motherwell,Dundee United,2,1,1.0
+2020-2021,Regular season,27,2021-02-03,Hamilton,Ross County,1,2,0.0
+2020-2021,Regular season,27,2021-02-03,Rangers,St Johnstone,1,0,1.0
+2020-2021,Regular season,28,2021-02-06,Ross County,Dundee United,0,2,0.0
+2020-2021,Regular season,28,2021-02-06,Celtic,Motherwell,2,1,1.0
+2020-2021,Regular season,28,2021-02-06,Livingston,St Johnstone,1,2,0.0
+2020-2021,Regular season,28,2021-02-06,St Mirren,Kilmarnock,2,0,1.0
+2020-2021,Regular season,28,2021-02-06,Hibernian,Aberdeen,2,0,1.0
+2020-2021,Regular season,28,2021-02-07,Hamilton,Rangers,1,1,0.5
+2020-2021,Regular season,10,2021-02-10,Kilmarnock,Motherwell,0,1,0.0
+2020-2021,Regular season,25,2021-02-10,St Mirren,Celtic,0,4,0.0
+2020-2021,Regular season,29,2021-02-13,Aberdeen,St Mirren,0,0,0.5
+2020-2021,Regular season,29,2021-02-13,Dundee United,Livingston,3,0,1.0
+2020-2021,Regular season,29,2021-02-13,Motherwell,Hamilton,1,4,0.0
+2020-2021,Regular season,29,2021-02-13,Rangers,Kilmarnock,1,0,1.0
+2020-2021,Regular season,29,2021-02-14,St Johnstone,Celtic,1,2,0.0
+2020-2021,Regular season,4,2021-02-17,Celtic,Aberdeen,1,0,1.0
+2020-2021,Regular season,12,2021-02-17,St Mirren,Hamilton,1,1,0.5
+2020-2021,Regular season,33,2021-02-20,Aberdeen,Kilmarnock,1,0,1.0
+2020-2021,Regular season,33,2021-02-20,St Mirren,Livingston,1,1,0.5
+2020-2021,Regular season,33,2021-02-20,Hibernian,Hamilton,2,0,1.0
+2020-2021,Regular season,33,2021-02-20,Motherwell,St Johnstone,0,3,0.0
+2020-2021,Regular season,33,2021-02-21,Rangers,Dundee United,4,1,1.0
+2020-2021,Regular season,33,2021-02-21,Ross County,Celtic,1,0,1.0
+2020-2021,Regular season,11,2021-02-24,St Mirren,Motherwell,0,0,0.5
+2020-2021,Regular season,30,2021-02-27,Celtic,Aberdeen,1,0,1.0
+2020-2021,Regular season,30,2021-02-27,St Mirren,Ross County,1,0,1.0
+2020-2021,Regular season,30,2021-02-27,Hibernian,Motherwell,0,2,0.0
+2020-2021,Regular season,30,2021-02-27,Kilmarnock,Dundee United,1,1,0.5
+2020-2021,Regular season,30,2021-03-03,Hamilton,St Johnstone,1,1,0.5
+2020-2021,Regular season,30,2021-03-03,Livingston,Rangers,0,1,0.0
+2020-2021,Regular season,31,2021-03-06,Rangers,St Mirren,3,0,1.0
+2020-2021,Regular season,31,2021-03-06,St Johnstone,Hibernian,1,0,1.0
+2020-2021,Regular season,31,2021-03-06,Ross County,Kilmarnock,3,2,1.0
+2020-2021,Regular season,31,2021-03-06,Aberdeen,Hamilton,0,0,0.5
+2020-2021,Regular season,31,2021-03-06,Motherwell,Livingston,3,1,1.0
+2020-2021,Regular season,31,2021-03-07,Dundee United,Celtic,0,0,0.5
+2020-2021,Regular season,25,2021-03-13,Livingston,Hamilton,2,1,1.0
+2020-2021,Regular season,29,2021-03-13,Ross County,Hibernian,1,2,0.0
+2020-2021,Regular season,32,2021-03-20,Kilmarnock,Motherwell,4,1,1.0
+2020-2021,Regular season,32,2021-03-20,Dundee United,Aberdeen,1,0,1.0
+2020-2021,Regular season,32,2021-03-20,Hamilton,St Mirren,1,1,0.5
+2020-2021,Regular season,32,2021-03-20,Livingston,Hibernian,1,1,0.5
+2020-2021,Regular season,32,2021-03-20,St Johnstone,Ross County,1,0,1.0
+2020-2021,Regular season,32,2021-03-21,Celtic,Rangers,1,1,0.5
+2020-2021,Championship round,1,2021-04-10,Celtic,Livingston,6,0,1.0
+2020-2021,Championship round,1,2021-04-10,St Johnstone,Aberdeen,0,1,0.0
+2020-2021,Relegation round,1,2021-04-10,Hamilton,Dundee United,0,1,0.0
+2020-2021,Relegation round,1,2021-04-10,Motherwell,St Mirren,1,0,1.0
+2020-2021,Relegation round,1,2021-04-10,Kilmarnock,Ross County,2,2,0.5
+2020-2021,Championship round,1,2021-04-11,Rangers,Hibernian,2,1,1.0
+2020-2021,Championship round,2,2021-04-21,Hibernian,Livingston,2,1,1.0
+2020-2021,Relegation round,2,2021-04-21,Hamilton,Motherwell,0,1,0.0
+2020-2021,Championship round,2,2021-04-21,St Johnstone,Rangers,1,1,0.5
+2020-2021,Championship round,2,2021-04-21,Aberdeen,Celtic,1,1,0.5
+2020-2021,Relegation round,2,2021-04-21,Kilmarnock,Dundee United,3,0,1.0
+2020-2021,Relegation round,2,2021-04-21,Ross County,St Mirren,1,3,0.0
+2020-2021,Championship round,3,2021-05-01,Hibernian,St Johnstone,0,1,0.0
+2020-2021,Championship round,3,2021-05-01,Livingston,Aberdeen,1,2,0.0
+2020-2021,Relegation round,3,2021-05-01,St Mirren,Hamilton,1,2,0.0
+2020-2021,Relegation round,3,2021-05-01,Motherwell,Kilmarnock,2,0,1.0
+2020-2021,Relegation round,3,2021-05-01,Dundee United,Ross County,0,2,0.0
+2020-2021,Championship round,3,2021-05-02,Rangers,Celtic,4,1,1.0
+2020-2021,Championship round,4,2021-05-12,Livingston,Rangers,0,3,0.0
+2020-2021,Relegation round,4,2021-05-12,Dundee United,Motherwell,2,2,0.5
+2020-2021,Championship round,4,2021-05-12,Celtic,St Johnstone,4,0,1.0
+2020-2021,Championship round,4,2021-05-12,Aberdeen,Hibernian,0,1,0.0
+2020-2021,Relegation round,4,2021-05-12,Ross County,Hamilton,2,1,1.0
+2020-2021,Relegation round,4,2021-05-12,Kilmarnock,St Mirren,3,3,0.5
+2020-2021,Championship round,5,2021-05-15,Hibernian,Celtic,0,0,0.5
+2020-2021,Championship round,5,2021-05-15,St Johnstone,Livingston,0,0,0.5
+2020-2021,Championship round,5,2021-05-15,Rangers,Aberdeen,4,0,1.0
+2020-2021,Relegation round,5,2021-05-16,Hamilton,Kilmarnock,0,2,0.0
+2020-2021,Relegation round,5,2021-05-16,St Mirren,Dundee United,0,0,0.5
+2020-2021,Relegation round,5,2021-05-16,Motherwell,Ross County,1,2,0.0
+2020-2021,Finals,,2021-05-20,Dundee,Kilmarnock,2,1,1.0
+2020-2021,Finals,,2021-05-24,Kilmarnock,Dundee,1,2,0.0

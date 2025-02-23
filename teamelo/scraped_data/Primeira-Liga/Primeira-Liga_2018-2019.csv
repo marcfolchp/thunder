@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2018-2019,1,2018-08-10,Benfica,Vitória,3,2,1.0
+2018-2019,1,2018-08-11,Vitória Setúbal,Aves,2,0,1.0
+2018-2019,1,2018-08-11,Tondela,B-SAD,0,1,0.0
+2018-2019,1,2018-08-11,Porto,Chaves,5,0,1.0
+2018-2019,1,2018-08-12,Marítimo,Santa Clara,1,0,1.0
+2018-2019,1,2018-08-12,Feirense,Rio Ave,2,0,1.0
+2018-2019,1,2018-08-12,Moreirense,Sporting CP,1,3,0.0
+2018-2019,1,2018-08-12,Braga,Nacional,4,2,1.0
+2018-2019,1,2018-08-13,Portimonense,Boavista,0,2,0.0
+2018-2019,2,2018-08-17,Aves,Tondela,2,2,0.5
+2018-2019,2,2018-08-18,Chaves,Portimonense,2,0,1.0
+2018-2019,2,2018-08-18,Boavista,Benfica,0,2,0.0
+2018-2019,2,2018-08-18,Sporting CP,Vitória Setúbal,2,1,1.0
+2018-2019,2,2018-08-19,Rio Ave,Marítimo,3,1,1.0
+2018-2019,2,2018-08-19,Nacional,Moreirense,1,2,0.0
+2018-2019,2,2018-08-19,B-SAD,Porto,2,3,0.0
+2018-2019,2,2018-08-19,Santa Clara,Braga,3,3,0.5
+2018-2019,2,2018-08-20,Vitória,Feirense,0,1,0.0
+2018-2019,3,2018-08-24,Marítimo,Chaves,2,1,1.0
+2018-2019,3,2018-08-25,Portimonense,Santa Clara,2,2,0.5
+2018-2019,3,2018-08-25,Benfica,Sporting CP,1,1,0.5
+2018-2019,3,2018-08-25,Porto,Vitória,2,3,0.0
+2018-2019,3,2018-08-26,Vitória Setúbal,Nacional,1,2,0.0
+2018-2019,3,2018-08-26,Feirense,Boavista,1,1,0.5
+2018-2019,3,2018-08-26,Tondela,Rio Ave,1,1,0.5
+2018-2019,3,2018-08-26,Braga,Aves,3,1,1.0
+2018-2019,3,2018-08-27,Moreirense,B-SAD,1,1,0.5
+2018-2019,4,2018-08-31,Chaves,Braga,0,1,0.0
+2018-2019,4,2018-08-31,Vitória,Tondela,1,0,1.0
+2018-2019,4,2018-09-01,B-SAD,Vitória Setúbal,0,0,0.5
+2018-2019,4,2018-09-01,Santa Clara,Boavista,4,2,1.0
+2018-2019,4,2018-09-01,Sporting CP,Feirense,1,0,1.0
+2018-2019,4,2018-09-02,Rio Ave,Portimonense,2,1,1.0
+2018-2019,4,2018-09-02,Aves,Marítimo,0,1,0.0
+2018-2019,4,2018-09-02,Nacional,Benfica,0,4,0.0
+2018-2019,4,2018-09-02,Porto,Moreirense,3,0,1.0
+2018-2019,5,2018-09-21,Boavista,Chaves,1,2,0.0
+2018-2019,5,2018-09-22,Santa Clara,Rio Ave,1,3,0.0
+2018-2019,5,2018-09-22,Marítimo,B-SAD,0,0,0.5
+2018-2019,5,2018-09-22,Vitória Setúbal,Porto,0,2,0.0
+2018-2019,5,2018-09-23,Feirense,Nacional,0,0,0.5
+2018-2019,5,2018-09-23,Tondela,Moreirense,2,0,1.0
+2018-2019,5,2018-09-23,Benfica,Aves,2,0,1.0
+2018-2019,5,2018-09-23,Portimonense,Vitória,3,2,1.0
+2018-2019,5,2018-09-24,Braga,Sporting CP,1,0,1.0
+2018-2019,6,2018-09-27,Chaves,Benfica,2,2,0.5
+2018-2019,6,2018-09-28,Porto,Tondela,1,0,1.0
+2018-2019,6,2018-09-29,Moreirense,Feirense,1,0,1.0
+2018-2019,6,2018-09-29,Rio Ave,Boavista,2,1,1.0
+2018-2019,6,2018-09-29,Sporting CP,Marítimo,2,0,1.0
+2018-2019,6,2018-09-30,Nacional,Santa Clara,0,3,0.0
+2018-2019,6,2018-09-30,Vitória,Vitória Setúbal,1,1,0.5
+2018-2019,6,2018-09-30,B-SAD,Braga,0,3,0.0
+2018-2019,6,2018-10-01,Aves,Portimonense,3,0,1.0
+2018-2019,7,2018-10-05,Tondela,Nacional,1,1,0.5
+2018-2019,7,2018-10-05,Santa Clara,Chaves,1,0,1.0
+2018-2019,7,2018-10-05,Feirense,B-SAD,0,0,0.5
+2018-2019,7,2018-10-06,Vitória Setúbal,Moreirense,3,0,1.0
+2018-2019,7,2018-10-06,Marítimo,Vitória,1,3,0.0
+2018-2019,7,2018-10-06,Braga,Rio Ave,1,1,0.5
+2018-2019,7,2018-10-07,Boavista,Aves,1,0,1.0
+2018-2019,7,2018-10-07,Benfica,Porto,1,0,1.0
+2018-2019,7,2018-10-07,Portimonense,Sporting CP,4,2,1.0
+2018-2019,8,2018-10-26,Nacional,Portimonense,0,1,0.0
+2018-2019,8,2018-10-26,Vitória,Braga,1,1,0.5
+2018-2019,8,2018-10-27,Aves,Santa Clara,1,2,0.0
+2018-2019,8,2018-10-27,Rio Ave,Chaves,1,0,1.0
+2018-2019,8,2018-10-27,B-SAD,Benfica,2,0,1.0
+2018-2019,8,2018-10-28,Moreirense,Marítimo,1,0,1.0
+2018-2019,8,2018-10-28,Tondela,Vitória Setúbal,1,2,0.0
+2018-2019,8,2018-10-28,Porto,Feirense,2,0,1.0
+2018-2019,8,2018-10-28,Sporting CP,Boavista,3,0,1.0
+2018-2019,9,2018-11-02,Benfica,Moreirense,1,3,0.0
+2018-2019,9,2018-11-03,Portimonense,B-SAD,1,1,0.5
+2018-2019,9,2018-11-03,Marítimo,Porto,0,2,0.0
+2018-2019,9,2018-11-03,Boavista,Vitória,0,0,0.5
+2018-2019,9,2018-11-04,Feirense,Tondela,2,4,0.0
+2018-2019,9,2018-11-04,Santa Clara,Sporting CP,1,2,0.0
+2018-2019,9,2018-11-04,Braga,Vitória Setúbal,2,1,1.0
+2018-2019,9,2018-11-05,Rio Ave,Nacional,3,3,0.5
+2018-2019,9,2018-11-05,Chaves,Aves,1,2,0.0
+2018-2019,10,2018-11-09,Moreirense,Portimonense,2,0,1.0
+2018-2019,10,2018-11-09,Vitória Setúbal,Feirense,2,1,1.0
+2018-2019,10,2018-11-10,Aves,Rio Ave,2,1,1.0
+2018-2019,10,2018-11-10,B-SAD,Boavista,0,0,0.5
+2018-2019,10,2018-11-10,Nacional,Marítimo,1,0,1.0
+2018-2019,10,2018-11-10,Porto,Braga,1,0,1.0
+2018-2019,10,2018-11-11,Vitória,Santa Clara,2,0,1.0
+2018-2019,10,2018-11-11,Tondela,Benfica,1,3,0.0
+2018-2019,10,2018-11-11,Sporting CP,Chaves,2,1,1.0
+2018-2019,11,2018-11-30,Santa Clara,B-SAD,2,3,0.0
+2018-2019,11,2018-12-01,Marítimo,Vitória Setúbal,0,1,0.0
+2018-2019,11,2018-12-01,Benfica,Feirense,4,0,1.0
+2018-2019,11,2018-12-01,Braga,Moreirense,2,0,1.0
+2018-2019,11,2018-12-02,Portimonense,Tondela,3,2,1.0
+2018-2019,11,2018-12-02,Aves,Nacional,2,3,0.0
+2018-2019,11,2018-12-02,Chaves,Vitória,0,1,0.0
+2018-2019,11,2018-12-02,Boavista,Porto,0,1,0.0
+2018-2019,11,2018-12-03,Rio Ave,Sporting CP,1,3,0.0
+2018-2019,12,2018-12-07,Porto,Portimonense,4,1,1.0
+2018-2019,12,2018-12-08,B-SAD,Chaves,1,0,1.0
+2018-2019,12,2018-12-08,Tondela,Braga,0,1,0.0
+2018-2019,12,2018-12-08,Vitória Setúbal,Benfica,0,1,0.0
+2018-2019,12,2018-12-09,Moreirense,Santa Clara,0,1,0.0
+2018-2019,12,2018-12-09,Nacional,Boavista,0,0,0.5
+2018-2019,12,2018-12-09,Vitória,Rio Ave,3,2,1.0
+2018-2019,12,2018-12-09,Sporting CP,Aves,4,1,1.0
+2018-2019,12,2018-12-10,Feirense,Marítimo,1,1,0.5
+2018-2019,13,2018-12-14,Portimonense,Vitória Setúbal,3,1,1.0
+2018-2019,13,2018-12-14,Braga,Feirense,4,0,1.0
+2018-2019,13,2018-12-15,Boavista,Tondela,2,0,1.0
+2018-2019,13,2018-12-15,Chaves,Moreirense,1,2,0.0
+2018-2019,13,2018-12-15,Aves,Vitória,1,1,0.5
+2018-2019,13,2018-12-15,Santa Clara,Porto,1,2,0.0
+2018-2019,13,2018-12-16,Rio Ave,B-SAD,2,2,0.5
+2018-2019,13,2018-12-16,Marítimo,Benfica,0,1,0.0
+2018-2019,13,2018-12-16,Sporting CP,Nacional,5,2,1.0
+2018-2019,14,2018-12-22,Feirense,Portimonense,0,1,0.0
+2018-2019,14,2018-12-22,Vitória Setúbal,Santa Clara,0,2,0.0
+2018-2019,14,2018-12-22,Tondela,Marítimo,2,1,1.0
+2018-2019,14,2018-12-22,B-SAD,Aves,5,2,1.0
+2018-2019,14,2018-12-22,Moreirense,Boavista,2,1,1.0
+2018-2019,14,2018-12-23,Porto,Rio Ave,2,1,1.0
+2018-2019,14,2018-12-23,Nacional,Chaves,2,0,1.0
+2018-2019,14,2018-12-23,Benfica,Braga,6,2,1.0
+2018-2019,14,2018-12-23,Vitória,Sporting CP,1,0,1.0
+2018-2019,15,2019-01-02,Santa Clara,Tondela,1,2,0.0
+2018-2019,15,2019-01-02,Boavista,Vitória Setúbal,1,0,1.0
+2018-2019,15,2019-01-02,Braga,Marítimo,2,0,1.0
+2018-2019,15,2019-01-02,Nacional,Vitória,1,0,1.0
+2018-2019,15,2019-01-02,Rio Ave,Moreirense,1,2,0.0
+2018-2019,15,2019-01-02,Portimonense,Benfica,2,0,1.0
+2018-2019,15,2019-01-03,Chaves,Feirense,0,0,0.5
+2018-2019,15,2019-01-03,Sporting CP,B-SAD,2,1,1.0
+2018-2019,15,2019-01-03,Aves,Porto,0,1,0.0
+2018-2019,16,2019-01-05,Marítimo,Portimonense,2,1,1.0
+2018-2019,16,2019-01-06,Feirense,Santa Clara,2,2,0.5
+2018-2019,16,2019-01-06,B-SAD,Vitória,1,0,1.0
+2018-2019,16,2019-01-06,Vitória Setúbal,Chaves,0,0,0.5
+2018-2019,16,2019-01-06,Benfica,Rio Ave,4,2,1.0
+2018-2019,16,2019-01-06,Braga,Boavista,1,0,1.0
+2018-2019,16,2019-01-07,Moreirense,Aves,1,0,1.0
+2018-2019,16,2019-01-07,Tondela,Sporting CP,2,1,1.0
+2018-2019,16,2019-01-07,Porto,Nacional,3,1,1.0
+2018-2019,17,2019-01-10,Portimonense,Braga,1,1,0.5
+2018-2019,17,2019-01-11,Santa Clara,Benfica,0,2,0.0
+2018-2019,17,2019-01-11,Aves,Feirense,1,1,0.5
+2018-2019,17,2019-01-11,Vitória,Moreirense,1,0,1.0
+2018-2019,17,2019-01-12,Sporting CP,Porto,0,0,0.5
+2018-2019,17,2019-01-12,Boavista,Marítimo,0,1,0.0
+2018-2019,17,2019-01-13,Nacional,B-SAD,0,1,0.0
+2018-2019,17,2019-01-13,Chaves,Tondela,2,1,1.0
+2018-2019,17,2019-01-13,Rio Ave,Vitória Setúbal,1,1,0.5
+2018-2019,18,2019-01-18,Nacional,Braga,0,3,0.0
+2018-2019,18,2019-01-18,Chaves,Porto,1,4,0.0
+2018-2019,18,2019-01-18,Vitória,Benfica,0,1,0.0
+2018-2019,18,2019-01-19,B-SAD,Tondela,2,2,0.5
+2018-2019,18,2019-01-19,Sporting CP,Moreirense,2,1,1.0
+2018-2019,18,2019-01-19,Santa Clara,Marítimo,0,1,0.0
+2018-2019,18,2019-01-20,Aves,Vitória Setúbal,2,1,1.0
+2018-2019,18,2019-01-20,Boavista,Portimonense,0,2,0.0
+2018-2019,18,2019-01-20,Rio Ave,Feirense,0,0,0.5
+2018-2019,19,2019-01-28,Marítimo,Rio Ave,0,2,0.0
+2018-2019,19,2019-01-28,Tondela,Aves,0,2,0.0
+2018-2019,19,2019-01-28,Moreirense,Nacional,2,1,1.0
+2018-2019,19,2019-01-28,Feirense,Vitória,1,2,0.0
+2018-2019,19,2019-01-29,Benfica,Boavista,5,1,1.0
+2018-2019,19,2019-01-29,Portimonense,Chaves,0,1,0.0
+2018-2019,19,2019-01-29,Braga,Santa Clara,1,0,1.0
+2018-2019,19,2019-01-30,Vitória Setúbal,Sporting CP,1,1,0.5
+2018-2019,19,2019-01-30,Porto,B-SAD,3,0,1.0
+2018-2019,20,2019-02-01,Rio Ave,Tondela,2,2,0.5
+2018-2019,20,2019-02-02,Chaves,Marítimo,1,0,1.0
+2018-2019,20,2019-02-02,Boavista,Feirense,2,0,1.0
+2018-2019,20,2019-02-02,Aves,Braga,0,2,0.0
+2018-2019,20,2019-02-03,Santa Clara,Portimonense,2,1,1.0
+2018-2019,20,2019-02-03,Nacional,Vitória Setúbal,0,0,0.5
+2018-2019,20,2019-02-03,Sporting CP,Benfica,2,4,0.0
+2018-2019,20,2019-02-03,Vitória,Porto,0,0,0.5
+2018-2019,20,2019-02-04,B-SAD,Moreirense,0,1,0.0
+2018-2019,21,2019-02-08,Moreirense,Porto,1,1,0.5
+2018-2019,21,2019-02-09,Marítimo,Aves,0,1,0.0
+2018-2019,21,2019-02-09,Portimonense,Rio Ave,0,1,0.0
+2018-2019,21,2019-02-09,Tondela,Vitória,1,0,1.0
+2018-2019,21,2019-02-10,Braga,Chaves,2,1,1.0
+2018-2019,21,2019-02-10,Boavista,Santa Clara,1,0,1.0
+2018-2019,21,2019-02-10,Benfica,Nacional,10,0,1.0
+2018-2019,21,2019-02-10,Feirense,Sporting CP,1,3,0.0
+2018-2019,21,2019-02-11,Vitória Setúbal,B-SAD,0,0,0.5
+2018-2019,22,2019-02-15,Rio Ave,Santa Clara,1,2,0.0
+2018-2019,22,2019-02-16,Nacional,Feirense,4,0,1.0
+2018-2019,22,2019-02-16,Vitória,Portimonense,2,0,1.0
+2018-2019,22,2019-02-16,Porto,Vitória Setúbal,2,0,1.0
+2018-2019,22,2019-02-17,B-SAD,Marítimo,0,1,0.0
+2018-2019,22,2019-02-17,Moreirense,Tondela,2,0,1.0
+2018-2019,22,2019-02-17,Chaves,Boavista,1,1,0.5
+2018-2019,22,2019-02-17,Sporting CP,Braga,3,0,1.0
+2018-2019,22,2019-02-18,Aves,Benfica,0,3,0.0
+2018-2019,23,2019-02-22,Braga,B-SAD,0,2,0.0
+2018-2019,23,2019-02-22,Tondela,Porto,0,3,0.0
+2018-2019,23,2019-02-23,Feirense,Moreirense,1,3,0.0
+2018-2019,23,2019-02-23,Portimonense,Aves,1,1,0.5
+2018-2019,23,2019-02-23,Vitória Setúbal,Vitória,1,1,0.5
+2018-2019,23,2019-02-24,Santa Clara,Nacional,2,0,1.0
+2018-2019,23,2019-02-24,Boavista,Rio Ave,1,0,1.0
+2018-2019,23,2019-02-25,Marítimo,Sporting CP,0,0,0.5
+2018-2019,23,2019-02-25,Benfica,Chaves,4,0,1.0
+2018-2019,24,2019-03-01,Aves,Boavista,2,0,1.0
+2018-2019,24,2019-03-02,Nacional,Tondela,3,2,1.0
+2018-2019,24,2019-03-02,Moreirense,Vitória Setúbal,1,1,0.5
+2018-2019,24,2019-03-02,Porto,Benfica,1,2,0.0
+2018-2019,24,2019-03-03,B-SAD,Feirense,4,0,1.0
+2018-2019,24,2019-03-03,Chaves,Santa Clara,0,0,0.5
+2018-2019,24,2019-03-03,Rio Ave,Braga,1,2,0.0
+2018-2019,24,2019-03-03,Sporting CP,Portimonense,3,1,1.0
+2018-2019,24,2019-03-04,Vitória,Marítimo,1,0,1.0
+2018-2019,25,2019-03-08,Chaves,Rio Ave,1,1,0.5
+2018-2019,25,2019-03-09,Marítimo,Moreirense,3,2,1.0
+2018-2019,25,2019-03-09,Braga,Vitória,1,0,1.0
+2018-2019,25,2019-03-09,Boavista,Sporting CP,1,2,0.0
+2018-2019,25,2019-03-10,Santa Clara,Aves,0,0,0.5
+2018-2019,25,2019-03-10,Portimonense,Nacional,5,1,1.0
+2018-2019,25,2019-03-10,Vitória Setúbal,Tondela,0,0,0.5
+2018-2019,25,2019-03-10,Feirense,Porto,1,2,0.0
+2018-2019,25,2019-03-11,Benfica,B-SAD,2,2,0.5
+2018-2019,26,2019-03-15,Sporting CP,Santa Clara,1,0,1.0
+2018-2019,26,2019-03-16,B-SAD,Portimonense,2,2,0.5
+2018-2019,26,2019-03-16,Vitória Setúbal,Braga,0,1,0.0
+2018-2019,26,2019-03-16,Vitória,Boavista,3,1,1.0
+2018-2019,26,2019-03-16,Porto,Marítimo,3,0,1.0
+2018-2019,26,2019-03-17,Aves,Chaves,0,1,0.0
+2018-2019,26,2019-03-17,Nacional,Rio Ave,0,1,0.0
+2018-2019,26,2019-03-17,Moreirense,Benfica,0,4,0.0
+2018-2019,26,2019-03-17,Tondela,Feirense,1,1,0.5
+2018-2019,27,2019-03-29,Portimonense,Moreirense,0,2,0.0
+2018-2019,27,2019-03-30,Braga,Porto,2,3,0.0
+2018-2019,27,2019-03-30,Chaves,Sporting CP,1,3,0.0
+2018-2019,27,2019-03-30,Santa Clara,Vitória,1,0,1.0
+2018-2019,27,2019-03-30,Benfica,Tondela,1,0,1.0
+2018-2019,27,2019-03-31,Marítimo,Nacional,3,2,1.0
+2018-2019,27,2019-03-31,Rio Ave,Aves,0,2,0.0
+2018-2019,27,2019-03-31,Boavista,B-SAD,2,0,1.0
+2018-2019,27,2019-04-01,Feirense,Vitória Setúbal,0,1,0.0
+2018-2019,28,2019-04-05,Porto,Boavista,2,0,1.0
+2018-2019,28,2019-04-06,Nacional,Aves,0,0,0.5
+2018-2019,28,2019-04-06,B-SAD,Santa Clara,1,1,0.5
+2018-2019,28,2019-04-06,Vitória,Chaves,4,0,1.0
+2018-2019,28,2019-04-06,Moreirense,Braga,1,0,1.0
+2018-2019,28,2019-04-07,Vitória Setúbal,Marítimo,1,0,1.0
+2018-2019,28,2019-04-07,Feirense,Benfica,1,4,0.0
+2018-2019,28,2019-04-07,Sporting CP,Rio Ave,3,0,1.0
+2018-2019,28,2019-04-08,Tondela,Portimonense,3,2,1.0
+2018-2019,29,2019-04-12,Chaves,B-SAD,2,2,0.5
+2018-2019,29,2019-04-13,Santa Clara,Moreirense,1,1,0.5
+2018-2019,29,2019-04-13,Portimonense,Porto,0,3,0.0
+2018-2019,29,2019-04-13,Aves,Sporting CP,1,3,0.0
+2018-2019,29,2019-04-14,Marítimo,Feirense,2,0,1.0
+2018-2019,29,2019-04-14,Rio Ave,Vitória,2,1,1.0
+2018-2019,29,2019-04-14,Braga,Tondela,3,0,1.0
+2018-2019,29,2019-04-14,Boavista,Nacional,1,0,1.0
+2018-2019,29,2019-04-14,Benfica,Vitória Setúbal,4,2,1.0
+2018-2019,30,2019-04-19,Tondela,Boavista,1,0,1.0
+2018-2019,30,2019-04-19,Vitória Setúbal,Portimonense,1,1,0.5
+2018-2019,30,2019-04-19,Nacional,Sporting CP,0,1,0.0
+2018-2019,30,2019-04-19,Vitória,Aves,0,2,0.0
+2018-2019,30,2019-04-20,Moreirense,Chaves,0,1,0.0
+2018-2019,30,2019-04-20,B-SAD,Rio Ave,1,3,0.0
+2018-2019,30,2019-04-20,Feirense,Braga,0,2,0.0
+2018-2019,30,2019-04-20,Porto,Santa Clara,1,0,1.0
+2018-2019,30,2019-04-22,Benfica,Marítimo,6,0,1.0
+2018-2019,31,2019-04-26,Rio Ave,Porto,2,2,0.5
+2018-2019,31,2019-04-27,Santa Clara,Vitória Setúbal,0,0,0.5
+2018-2019,31,2019-04-27,Portimonense,Feirense,1,0,1.0
+2018-2019,31,2019-04-27,Sporting CP,Vitória,2,0,1.0
+2018-2019,31,2019-04-27,Aves,B-SAD,3,0,1.0
+2018-2019,31,2019-04-28,Marítimo,Tondela,2,0,1.0
+2018-2019,31,2019-04-28,Chaves,Nacional,4,1,1.0
+2018-2019,31,2019-04-28,Braga,Benfica,1,4,0.0
+2018-2019,31,2019-04-28,Boavista,Moreirense,3,1,1.0
+2018-2019,32,2019-05-03,Moreirense,Rio Ave,1,2,0.0
+2018-2019,32,2019-05-04,Marítimo,Braga,1,0,1.0
+2018-2019,32,2019-05-04,Feirense,Chaves,4,4,0.5
+2018-2019,32,2019-05-04,Benfica,Portimonense,5,1,1.0
+2018-2019,32,2019-05-04,Porto,Aves,4,0,1.0
+2018-2019,32,2019-05-05,Tondela,Santa Clara,1,3,0.0
+2018-2019,32,2019-05-05,B-SAD,Sporting CP,1,8,0.0
+2018-2019,32,2019-05-05,Vitória,Nacional,2,2,0.5
+2018-2019,32,2019-05-06,Vitória Setúbal,Boavista,0,3,0.0
+2018-2019,33,2019-05-10,Aves,Moreirense,0,1,0.0
+2018-2019,33,2019-05-11,Santa Clara,Feirense,4,4,0.5
+2018-2019,33,2019-05-11,Portimonense,Marítimo,3,2,1.0
+2018-2019,33,2019-05-11,Boavista,Braga,4,2,1.0
+2018-2019,33,2019-05-11,Sporting CP,Tondela,1,1,0.5
+2018-2019,33,2019-05-12,Chaves,Vitória Setúbal,1,2,0.0
+2018-2019,33,2019-05-12,Vitória,B-SAD,5,1,1.0
+2018-2019,33,2019-05-12,Nacional,Porto,0,4,0.0
+2018-2019,33,2019-05-12,Rio Ave,Benfica,2,3,0.0
+2018-2019,34,2019-05-16,B-SAD,Nacional,3,0,1.0
+2018-2019,34,2019-05-17,Braga,Portimonense,2,0,1.0
+2018-2019,34,2019-05-18,Marítimo,Boavista,0,1,0.0
+2018-2019,34,2019-05-18,Feirense,Aves,2,1,1.0
+2018-2019,34,2019-05-18,Vitória Setúbal,Rio Ave,1,3,0.0
+2018-2019,34,2019-05-18,Porto,Sporting CP,2,1,1.0
+2018-2019,34,2019-05-18,Benfica,Santa Clara,4,1,1.0
+2018-2019,34,2019-05-19,Tondela,Chaves,5,2,1.0
+2018-2019,34,2019-05-19,Moreirense,Vitória,1,3,0.0

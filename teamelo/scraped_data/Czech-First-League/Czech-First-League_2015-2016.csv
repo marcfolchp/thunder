@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,1,2015-07-24,Viktoria Plzeň,Slavia Prague,2,1,1.0
+2015-2016,1,2015-07-24,Vysočina Jihlava,Sparta Prague,0,0,0.5
+2015-2016,1,2015-07-25,Zbrojovka Brno,Baník Ostrava,2,1,1.0
+2015-2016,1,2015-07-25,Slovácko,Dukla Prague,4,3,1.0
+2015-2016,1,2015-07-25,Příbram,Jablonec,2,3,0.0
+2015-2016,1,2015-07-25,Teplice,Sigma Olomouc,2,2,0.5
+2015-2016,1,2015-07-26,Bohemians 1905,Fastav Zlín,0,1,0.0
+2015-2016,1,2015-07-26,Slovan Liberec,Mladá Boleslav,4,2,1.0
+2015-2016,2,2015-08-01,Sparta Prague,Baník Ostrava,3,1,1.0
+2015-2016,2,2015-08-01,Fastav Zlín,Vysočina Jihlava,1,0,1.0
+2015-2016,2,2015-08-01,Teplice,Slovácko,2,0,1.0
+2015-2016,2,2015-08-01,Sigma Olomouc,Příbram,1,3,0.0
+2015-2016,2,2015-08-01,Dukla Prague,Viktoria Plzeň,1,0,1.0
+2015-2016,2,2015-08-02,Mladá Boleslav,Zbrojovka Brno,2,0,1.0
+2015-2016,2,2015-08-02,Slavia Prague,Slovan Liberec,2,2,0.5
+2015-2016,2,2015-08-02,Jablonec,Bohemians 1905,2,2,0.5
+2015-2016,3,2015-08-07,Zbrojovka Brno,Slavia Prague,1,0,1.0
+2015-2016,3,2015-08-08,Bohemians 1905,Sigma Olomouc,1,1,0.5
+2015-2016,3,2015-08-08,Příbram,Teplice,3,2,1.0
+2015-2016,3,2015-08-08,Baník Ostrava,Mladá Boleslav,2,2,0.5
+2015-2016,3,2015-08-09,Viktoria Plzeň,Slovácko,2,2,0.5
+2015-2016,3,2015-08-09,Sparta Prague,Fastav Zlín,3,0,1.0
+2015-2016,3,2015-08-10,Slovan Liberec,Dukla Prague,1,1,0.5
+2015-2016,3,2015-08-10,Vysočina Jihlava,Jablonec,1,0,1.0
+2015-2016,4,2015-08-14,Teplice,Viktoria Plzeň,2,2,0.5
+2015-2016,4,2015-08-14,Mladá Boleslav,Sparta Prague,2,4,0.0
+2015-2016,4,2015-08-15,Sigma Olomouc,Zbrojovka Brno,1,1,0.5
+2015-2016,4,2015-08-15,Fastav Zlín,Baník Ostrava,2,0,1.0
+2015-2016,4,2015-08-15,Dukla Prague,Bohemians 1905,2,2,0.5
+2015-2016,4,2015-08-16,Slavia Prague,Vysočina Jihlava,4,0,1.0
+2015-2016,4,2015-08-16,Slovácko,Příbram,2,1,1.0
+2015-2016,4,2015-08-16,Jablonec,Slovan Liberec,1,1,0.5
+2015-2016,5,2015-08-21,Mladá Boleslav,Fastav Zlín,5,2,1.0
+2015-2016,5,2015-08-22,Vysočina Jihlava,Slovácko,1,2,0.0
+2015-2016,5,2015-08-22,Bohemians 1905,Příbram,1,1,0.5
+2015-2016,5,2015-08-22,Baník Ostrava,Slavia Prague,1,3,0.0
+2015-2016,5,2015-08-23,Slovan Liberec,Teplice,2,0,1.0
+2015-2016,5,2015-08-23,Zbrojovka Brno,Jablonec,0,3,0.0
+2015-2016,5,2015-08-23,Viktoria Plzeň,Sigma Olomouc,2,0,1.0
+2015-2016,5,2015-08-23,Sparta Prague,Dukla Prague,2,0,1.0
+2015-2016,6,2015-09-12,Sigma Olomouc,Vysočina Jihlava,2,1,1.0
+2015-2016,6,2015-09-12,Slovácko,Slovan Liberec,1,2,0.0
+2015-2016,6,2015-09-12,Teplice,Bohemians 1905,2,1,1.0
+2015-2016,6,2015-09-12,Fastav Zlín,Zbrojovka Brno,2,1,1.0
+2015-2016,6,2015-09-12,Slavia Prague,Mladá Boleslav,1,1,0.5
+2015-2016,6,2015-09-13,Jablonec,Sparta Prague,1,1,0.5
+2015-2016,6,2015-09-13,Příbram,Viktoria Plzeň,0,4,0.0
+2015-2016,6,2015-09-14,Dukla Prague,Baník Ostrava,4,1,1.0
+2015-2016,7,2015-09-18,Vysočina Jihlava,Dukla Prague,2,2,0.5
+2015-2016,7,2015-09-19,Zbrojovka Brno,Slovácko,2,0,1.0
+2015-2016,7,2015-09-19,Fastav Zlín,Slavia Prague,0,2,0.0
+2015-2016,7,2015-09-19,Baník Ostrava,Jablonec,1,2,0.0
+2015-2016,7,2015-09-19,Mladá Boleslav,Teplice,4,3,1.0
+2015-2016,7,2015-09-20,Bohemians 1905,Viktoria Plzeň,0,1,0.0
+2015-2016,7,2015-09-20,Sparta Prague,Sigma Olomouc,4,0,1.0
+2015-2016,7,2015-09-20,Slovan Liberec,Příbram,3,0,1.0
+2015-2016,8,2015-09-25,Jablonec,Mladá Boleslav,1,2,0.0
+2015-2016,8,2015-09-26,Sigma Olomouc,Fastav Zlín,1,1,0.5
+2015-2016,8,2015-09-26,Dukla Prague,Zbrojovka Brno,1,2,0.0
+2015-2016,8,2015-09-26,Slovácko,Bohemians 1905,1,0,1.0
+2015-2016,8,2015-09-26,Teplice,Baník Ostrava,1,0,1.0
+2015-2016,8,2015-09-26,Příbram,Vysočina Jihlava,4,1,1.0
+2015-2016,8,2015-09-26,Viktoria Plzeň,Slovan Liberec,2,1,1.0
+2015-2016,8,2015-09-27,Slavia Prague,Sparta Prague,1,0,1.0
+2015-2016,9,2015-10-02,Baník Ostrava,Sigma Olomouc,1,0,1.0
+2015-2016,9,2015-10-03,Mladá Boleslav,Příbram,4,0,1.0
+2015-2016,9,2015-10-03,Zbrojovka Brno,Teplice,0,4,0.0
+2015-2016,9,2015-10-03,Fastav Zlín,Jablonec,2,2,0.5
+2015-2016,9,2015-10-04,Slavia Prague,Dukla Prague,1,1,0.5
+2015-2016,9,2015-10-04,Sparta Prague,Slovácko,4,0,1.0
+2015-2016,9,2015-10-04,Slovan Liberec,Bohemians 1905,3,1,1.0
+2015-2016,9,2015-10-04,Vysočina Jihlava,Viktoria Plzeň,2,4,0.0
+2015-2016,10,2015-10-16,Dukla Prague,Mladá Boleslav,1,1,0.5
+2015-2016,10,2015-10-17,Jablonec,Slavia Prague,0,0,0.5
+2015-2016,10,2015-10-17,Teplice,Vysočina Jihlava,0,1,0.0
+2015-2016,10,2015-10-17,Sigma Olomouc,Slovan Liberec,1,1,0.5
+2015-2016,10,2015-10-17,Slovácko,Baník Ostrava,2,1,1.0
+2015-2016,10,2015-10-17,Bohemians 1905,Zbrojovka Brno,1,1,0.5
+2015-2016,10,2015-10-17,Viktoria Plzeň,Fastav Zlín,4,2,1.0
+2015-2016,10,2015-10-18,Příbram,Sparta Prague,0,4,0.0
+2015-2016,11,2015-10-23,Slavia Prague,Sigma Olomouc,0,2,0.0
+2015-2016,11,2015-10-24,Fastav Zlín,Teplice,1,2,0.0
+2015-2016,11,2015-10-24,Baník Ostrava,Příbram,0,2,0.0
+2015-2016,11,2015-10-24,Mladá Boleslav,Slovácko,4,1,1.0
+2015-2016,11,2015-10-24,Jablonec,Dukla Prague,3,3,0.5
+2015-2016,11,2015-10-25,Zbrojovka Brno,Viktoria Plzeň,1,0,1.0
+2015-2016,11,2015-10-25,Vysočina Jihlava,Slovan Liberec,1,1,0.5
+2015-2016,11,2015-10-25,Sparta Prague,Bohemians 1905,3,0,1.0
+2015-2016,12,2015-10-30,Dukla Prague,Fastav Zlín,1,0,1.0
+2015-2016,12,2015-10-31,Příbram,Zbrojovka Brno,1,1,0.5
+2015-2016,12,2015-10-31,Bohemians 1905,Vysočina Jihlava,2,1,1.0
+2015-2016,12,2015-10-31,Sigma Olomouc,Mladá Boleslav,1,2,0.0
+2015-2016,12,2015-10-31,Slovácko,Jablonec,1,1,0.5
+2015-2016,12,2015-10-31,Slovan Liberec,Baník Ostrava,2,1,1.0
+2015-2016,12,2015-11-01,Viktoria Plzeň,Sparta Prague,2,1,1.0
+2015-2016,12,2015-11-01,Teplice,Slavia Prague,0,1,0.0
+2015-2016,13,2015-11-06,Jablonec,Sigma Olomouc,4,0,1.0
+2015-2016,13,2015-11-07,Dukla Prague,Příbram,0,1,0.0
+2015-2016,13,2015-11-07,Fastav Zlín,Slovácko,2,1,1.0
+2015-2016,13,2015-11-07,Mladá Boleslav,Vysočina Jihlava,6,1,1.0
+2015-2016,13,2015-11-08,Slavia Prague,Bohemians 1905,2,2,0.5
+2015-2016,13,2015-11-08,Baník Ostrava,Viktoria Plzeň,0,4,0.0
+2015-2016,13,2015-11-08,Zbrojovka Brno,Slovan Liberec,3,1,1.0
+2015-2016,13,2015-11-08,Sparta Prague,Teplice,3,1,1.0
+2015-2016,14,2015-11-20,Vysočina Jihlava,Zbrojovka Brno,2,0,1.0
+2015-2016,14,2015-11-21,Bohemians 1905,Baník Ostrava,3,1,1.0
+2015-2016,14,2015-11-21,Příbram,Fastav Zlín,1,2,0.0
+2015-2016,14,2015-11-21,Slovácko,Slavia Prague,0,2,0.0
+2015-2016,14,2015-11-21,Sigma Olomouc,Dukla Prague,0,0,0.5
+2015-2016,14,2015-11-21,Viktoria Plzeň,Mladá Boleslav,1,0,1.0
+2015-2016,14,2015-11-22,Slovan Liberec,Sparta Prague,1,0,1.0
+2015-2016,14,2015-11-22,Teplice,Jablonec,2,2,0.5
+2015-2016,15,2015-11-27,Dukla Prague,Teplice,4,0,1.0
+2015-2016,15,2015-11-28,Sigma Olomouc,Slovácko,2,0,1.0
+2015-2016,15,2015-11-28,Slavia Prague,Příbram,2,1,1.0
+2015-2016,15,2015-11-28,Baník Ostrava,Vysočina Jihlava,1,2,0.0
+2015-2016,15,2015-11-28,Mladá Boleslav,Bohemians 1905,1,1,0.5
+2015-2016,15,2015-11-30,Jablonec,Viktoria Plzeň,0,1,0.0
+2015-2016,15,2015-11-30,Fastav Zlín,Slovan Liberec,2,0,1.0
+2015-2016,15,2015-11-30,Sparta Prague,Zbrojovka Brno,2,1,1.0
+2015-2016,16,2015-12-04,Slovácko,Teplice,4,2,1.0
+2015-2016,16,2015-12-05,Příbram,Sigma Olomouc,3,0,1.0
+2015-2016,16,2015-12-05,Bohemians 1905,Jablonec,2,1,1.0
+2015-2016,16,2015-12-06,Zbrojovka Brno,Mladá Boleslav,1,1,0.5
+2015-2016,16,2015-12-06,Slovan Liberec,Slavia Prague,2,1,1.0
+2015-2016,16,2015-12-06,Baník Ostrava,Sparta Prague,0,1,0.0
+2015-2016,16,2015-12-06,Vysočina Jihlava,Fastav Zlín,2,2,0.5
+2015-2016,16,2015-12-06,Viktoria Plzeň,Dukla Prague,3,0,1.0
+2015-2016,17,2016-02-12,Dukla Prague,Slovan Liberec,2,0,1.0
+2015-2016,17,2016-02-13,Fastav Zlín,Sparta Prague,1,2,0.0
+2015-2016,17,2016-02-13,Jablonec,Vysočina Jihlava,2,0,1.0
+2015-2016,17,2016-02-13,Sigma Olomouc,Bohemians 1905,2,2,0.5
+2015-2016,17,2016-02-13,Teplice,Příbram,2,0,1.0
+2015-2016,17,2016-02-13,Slavia Prague,Zbrojovka Brno,2,0,1.0
+2015-2016,17,2016-02-14,Mladá Boleslav,Baník Ostrava,3,0,1.0
+2015-2016,17,2016-02-14,Slovácko,Viktoria Plzeň,1,2,0.0
+2015-2016,18,2016-02-19,Vysočina Jihlava,Slavia Prague,0,0,0.5
+2015-2016,18,2016-02-19,Viktoria Plzeň,Teplice,1,0,1.0
+2015-2016,18,2016-02-20,Příbram,Slovácko,0,1,0.0
+2015-2016,18,2016-02-20,Zbrojovka Brno,Sigma Olomouc,2,0,1.0
+2015-2016,18,2016-02-20,Bohemians 1905,Dukla Prague,1,0,1.0
+2015-2016,18,2016-02-20,Baník Ostrava,Fastav Zlín,3,0,1.0
+2015-2016,18,2016-02-20,Slovan Liberec,Jablonec,3,2,1.0
+2015-2016,18,2016-02-21,Sparta Prague,Mladá Boleslav,2,0,1.0
+2015-2016,19,2016-02-27,Slovácko,Vysočina Jihlava,3,1,1.0
+2015-2016,19,2016-02-27,Teplice,Slovan Liberec,0,3,0.0
+2015-2016,19,2016-02-27,Příbram,Bohemians 1905,0,0,0.5
+2015-2016,19,2016-02-27,Jablonec,Zbrojovka Brno,3,0,1.0
+2015-2016,19,2016-02-27,Fastav Zlín,Mladá Boleslav,0,2,0.0
+2015-2016,19,2016-02-27,Sigma Olomouc,Viktoria Plzeň,0,1,0.0
+2015-2016,19,2016-02-28,Slavia Prague,Baník Ostrava,3,1,1.0
+2015-2016,20,2016-03-05,Vysočina Jihlava,Sigma Olomouc,2,1,1.0
+2015-2016,20,2016-03-05,Bohemians 1905,Teplice,1,1,0.5
+2015-2016,20,2016-03-05,Zbrojovka Brno,Fastav Zlín,2,0,1.0
+2015-2016,20,2016-03-05,Mladá Boleslav,Slavia Prague,2,1,1.0
+2015-2016,20,2016-03-06,Baník Ostrava,Dukla Prague,1,2,0.0
+2015-2016,20,2016-03-06,Sparta Prague,Jablonec,2,1,1.0
+2015-2016,20,2016-03-06,Slovan Liberec,Slovácko,0,0,0.5
+2015-2016,20,2016-03-06,Viktoria Plzeň,Příbram,4,0,1.0
+2015-2016,21,2016-03-11,Jablonec,Baník Ostrava,1,1,0.5
+2015-2016,21,2016-03-11,Slavia Prague,Fastav Zlín,1,0,1.0
+2015-2016,21,2016-03-12,Příbram,Slovan Liberec,0,1,0.0
+2015-2016,21,2016-03-12,Teplice,Mladá Boleslav,0,0,0.5
+2015-2016,21,2016-03-12,Slovácko,Zbrojovka Brno,2,1,1.0
+2015-2016,21,2016-03-12,Dukla Prague,Vysočina Jihlava,0,1,0.0
+2015-2016,21,2016-03-12,Viktoria Plzeň,Bohemians 1905,2,0,1.0
+2015-2016,21,2016-03-13,Sigma Olomouc,Sparta Prague,0,2,0.0
+2015-2016,22,2016-03-18,Vysočina Jihlava,Příbram,1,3,0.0
+2015-2016,22,2016-03-19,Bohemians 1905,Slovácko,2,0,1.0
+2015-2016,22,2016-03-19,Zbrojovka Brno,Dukla Prague,3,0,1.0
+2015-2016,22,2016-03-19,Baník Ostrava,Teplice,1,2,0.0
+2015-2016,22,2016-03-19,Fastav Zlín,Sigma Olomouc,0,0,0.5
+2015-2016,22,2016-03-19,Mladá Boleslav,Jablonec,1,0,1.0
+2015-2016,22,2016-03-20,Slovan Liberec,Viktoria Plzeň,0,1,0.0
+2015-2016,22,2016-03-20,Sparta Prague,Slavia Prague,3,1,1.0
+2015-2016,23,2016-04-01,Sigma Olomouc,Baník Ostrava,6,2,1.0
+2015-2016,23,2016-04-02,Teplice,Zbrojovka Brno,0,1,0.0
+2015-2016,23,2016-04-02,Slovácko,Sparta Prague,2,0,1.0
+2015-2016,23,2016-04-02,Jablonec,Fastav Zlín,3,1,1.0
+2015-2016,23,2016-04-02,Příbram,Mladá Boleslav,2,3,0.0
+2015-2016,23,2016-04-02,Bohemians 1905,Slovan Liberec,0,1,0.0
+2015-2016,23,2016-04-02,Viktoria Plzeň,Vysočina Jihlava,2,0,1.0
+2015-2016,23,2016-04-03,Dukla Prague,Slavia Prague,0,1,0.0
+2015-2016,24,2016-04-08,Zbrojovka Brno,Bohemians 1905,2,1,1.0
+2015-2016,24,2016-04-09,Slavia Prague,Jablonec,0,0,0.5
+2015-2016,24,2016-04-09,Vysočina Jihlava,Teplice,2,1,1.0
+2015-2016,24,2016-04-09,Slovan Liberec,Sigma Olomouc,2,1,1.0
+2015-2016,24,2016-04-09,Baník Ostrava,Slovácko,2,1,1.0
+2015-2016,24,2016-04-09,Mladá Boleslav,Dukla Prague,2,2,0.5
+2015-2016,24,2016-04-09,Fastav Zlín,Viktoria Plzeň,1,2,0.0
+2015-2016,24,2016-04-10,Sparta Prague,Příbram,2,1,1.0
+2015-2016,25,2016-04-15,Dukla Prague,Jablonec,6,1,1.0
+2015-2016,25,2016-04-16,Příbram,Baník Ostrava,1,2,0.0
+2015-2016,25,2016-04-16,Teplice,Fastav Zlín,2,2,0.5
+2015-2016,25,2016-04-16,Slovácko,Mladá Boleslav,0,2,0.0
+2015-2016,25,2016-04-16,Sigma Olomouc,Slavia Prague,1,1,0.5
+2015-2016,25,2016-04-16,Slovan Liberec,Vysočina Jihlava,2,0,1.0
+2015-2016,25,2016-04-17,Viktoria Plzeň,Zbrojovka Brno,2,1,1.0
+2015-2016,25,2016-04-17,Bohemians 1905,Sparta Prague,2,2,0.5
+2015-2016,19,2016-04-20,Dukla Prague,Sparta Prague,1,2,0.0
+2015-2016,26,2016-04-22,Mladá Boleslav,Sigma Olomouc,4,1,1.0
+2015-2016,26,2016-04-23,Vysočina Jihlava,Bohemians 1905,1,2,0.0
+2015-2016,26,2016-04-23,Jablonec,Slovácko,3,1,1.0
+2015-2016,26,2016-04-23,Baník Ostrava,Slovan Liberec,0,2,0.0
+2015-2016,26,2016-04-23,Slavia Prague,Teplice,2,2,0.5
+2015-2016,26,2016-04-24,Fastav Zlín,Dukla Prague,2,2,0.5
+2015-2016,26,2016-04-24,Zbrojovka Brno,Příbram,2,0,1.0
+2015-2016,26,2016-04-24,Sparta Prague,Viktoria Plzeň,0,3,0.0
+2015-2016,27,2016-04-29,Vysočina Jihlava,Mladá Boleslav,1,1,0.5
+2015-2016,27,2016-04-30,Slovan Liberec,Zbrojovka Brno,4,2,1.0
+2015-2016,27,2016-04-30,Slovácko,Fastav Zlín,1,1,0.5
+2015-2016,27,2016-04-30,Příbram,Dukla Prague,2,2,0.5
+2015-2016,27,2016-04-30,Sigma Olomouc,Jablonec,2,1,1.0
+2015-2016,27,2016-04-30,Viktoria Plzeň,Baník Ostrava,2,0,1.0
+2015-2016,27,2016-05-01,Teplice,Sparta Prague,1,1,0.5
+2015-2016,27,2016-05-01,Bohemians 1905,Slavia Prague,0,0,0.5
+2015-2016,28,2016-05-06,Dukla Prague,Sigma Olomouc,2,0,1.0
+2015-2016,28,2016-05-06,Zbrojovka Brno,Vysočina Jihlava,1,1,0.5
+2015-2016,28,2016-05-07,Mladá Boleslav,Viktoria Plzeň,2,0,1.0
+2015-2016,28,2016-05-07,Baník Ostrava,Bohemians 1905,1,2,0.0
+2015-2016,28,2016-05-07,Sparta Prague,Slovan Liberec,3,0,1.0
+2015-2016,28,2016-05-07,Fastav Zlín,Příbram,0,0,0.5
+2015-2016,28,2016-05-08,Slavia Prague,Slovácko,5,1,1.0
+2015-2016,28,2016-05-08,Jablonec,Teplice,1,0,1.0
+2015-2016,29,2016-05-11,Vysočina Jihlava,Baník Ostrava,3,0,1.0
+2015-2016,29,2016-05-11,Příbram,Slavia Prague,1,3,0.0
+2015-2016,29,2016-05-11,Teplice,Dukla Prague,1,1,0.5
+2015-2016,29,2016-05-11,Slovácko,Sigma Olomouc,2,1,1.0
+2015-2016,29,2016-05-11,Bohemians 1905,Mladá Boleslav,2,0,1.0
+2015-2016,29,2016-05-11,Viktoria Plzeň,Jablonec,1,2,0.0
+2015-2016,29,2016-05-11,Zbrojovka Brno,Sparta Prague,1,0,1.0
+2015-2016,29,2016-05-11,Slovan Liberec,Fastav Zlín,4,3,1.0
+2015-2016,30,2016-05-14,Mladá Boleslav,Slovan Liberec,2,2,0.5
+2015-2016,30,2016-05-14,Sparta Prague,Vysočina Jihlava,5,0,1.0
+2015-2016,30,2016-05-14,Slavia Prague,Viktoria Plzeň,5,0,1.0
+2015-2016,30,2016-05-14,Fastav Zlín,Bohemians 1905,1,1,0.5
+2015-2016,30,2016-05-14,Sigma Olomouc,Teplice,6,0,1.0
+2015-2016,30,2016-05-14,Dukla Prague,Slovácko,0,1,0.0
+2015-2016,30,2016-05-14,Baník Ostrava,Zbrojovka Brno,1,2,0.0
+2015-2016,30,2016-05-14,Jablonec,Příbram,0,0,0.5

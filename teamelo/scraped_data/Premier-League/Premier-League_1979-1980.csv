@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1979-1980,1,1979-08-18,Brighton,Arsenal,0,4,0.0
+1979-1980,1,1979-08-18,Southampton,Manchester Utd,1,1,0.5
+1979-1980,1,1979-08-18,Bristol City,Leeds United,2,2,0.5
+1979-1980,1,1979-08-18,Tottenham,Middlesbrough,1,3,0.0
+1979-1980,1,1979-08-18,Bolton,Aston Villa,1,1,0.5
+1979-1980,1,1979-08-18,Stoke City,Coventry City,3,2,1.0
+1979-1980,1,1979-08-18,Manchester City,Crystal Palace,0,0,0.5
+1979-1980,1,1979-08-18,West Brom,Derby County,0,0,0.5
+1979-1980,1,1979-08-18,Everton,Norwich City,2,4,0.0
+1979-1980,1,1979-08-18,Ipswich Town,Nott'ham Forest,0,1,0.0
+1979-1980,2,1979-08-21,Middlesbrough,Manchester City,3,0,1.0
+1979-1980,2,1979-08-21,Crystal Palace,Southampton,0,0,0.5
+1979-1980,2,1979-08-21,Liverpool,Bolton,0,0,0.5
+1979-1980,2,1979-08-21,Arsenal,Ipswich Town,0,2,0.0
+1979-1980,2,1979-08-21,Coventry City,Bristol City,3,1,1.0
+1979-1980,2,1979-08-22,Nott'ham Forest,Stoke City,1,0,1.0
+1979-1980,2,1979-08-22,Norwich City,Tottenham,4,0,1.0
+1979-1980,2,1979-08-22,Leeds United,Everton,2,0,1.0
+1979-1980,2,1979-08-22,Manchester Utd,West Brom,2,0,1.0
+1979-1980,2,1979-08-22,Aston Villa,Brighton,2,1,1.0
+1979-1980,2,1979-08-22,Derby County,Wolves,0,1,0.0
+1979-1980,3,1979-08-25,Liverpool,West Brom,3,1,1.0
+1979-1980,3,1979-08-25,Arsenal,Manchester Utd,0,0,0.5
+1979-1980,3,1979-08-25,Norwich City,Leeds United,2,1,1.0
+1979-1980,3,1979-08-25,Aston Villa,Bristol City,0,2,0.0
+1979-1980,3,1979-08-25,Bolton,Southampton,2,1,1.0
+1979-1980,3,1979-08-25,Wolves,Ipswich Town,3,0,1.0
+1979-1980,3,1979-08-25,Middlesbrough,Crystal Palace,1,1,0.5
+1979-1980,3,1979-08-25,Manchester City,Brighton,3,2,1.0
+1979-1980,3,1979-08-25,Nott'ham Forest,Coventry City,4,1,1.0
+1979-1980,3,1979-08-25,Derby County,Everton,0,1,0.0
+1979-1980,3,1979-08-25,Stoke City,Tottenham,3,1,1.0
+1979-1980,4,1979-09-01,Manchester Utd,Middlesbrough,2,1,1.0
+1979-1980,4,1979-09-01,Ipswich Town,Stoke City,3,1,1.0
+1979-1980,4,1979-09-01,Coventry City,Norwich City,2,0,1.0
+1979-1980,4,1979-09-01,Brighton,Bolton,3,1,1.0
+1979-1980,4,1979-09-01,Everton,Aston Villa,1,1,0.5
+1979-1980,4,1979-09-01,Leeds United,Arsenal,1,1,0.5
+1979-1980,4,1979-09-01,Crystal Palace,Derby County,4,0,1.0
+1979-1980,4,1979-09-01,West Brom,Nott'ham Forest,1,5,0.0
+1979-1980,4,1979-09-01,Southampton,Liverpool,3,2,1.0
+1979-1980,4,1979-09-01,Tottenham,Manchester City,2,1,1.0
+1979-1980,4,1979-09-01,Bristol City,Wolves,2,0,1.0
+1979-1980,5,1979-09-08,Middlesbrough,Norwich City,1,0,1.0
+1979-1980,5,1979-09-08,Nott'ham Forest,Leeds United,0,0,0.5
+1979-1980,5,1979-09-08,Derby County,Arsenal,3,2,1.0
+1979-1980,5,1979-09-08,Ipswich Town,Bristol City,1,0,1.0
+1979-1980,5,1979-09-08,Liverpool,Coventry City,4,0,1.0
+1979-1980,5,1979-09-08,Stoke City,Everton,2,3,0.0
+1979-1980,5,1979-09-08,Manchester City,Southampton,0,1,0.0
+1979-1980,5,1979-09-08,Tottenham,Brighton,2,1,1.0
+1979-1980,5,1979-09-08,Aston Villa,Manchester Utd,0,3,0.0
+1979-1980,5,1979-09-08,Wolves,Crystal Palace,1,1,0.5
+1979-1980,5,1979-09-08,Bolton,West Brom,0,0,0.5
+1979-1980,6,1979-09-15,Crystal Palace,Aston Villa,2,0,1.0
+1979-1980,6,1979-09-15,Everton,Wolves,2,3,0.0
+1979-1980,6,1979-09-15,Coventry City,Bolton,3,1,1.0
+1979-1980,6,1979-09-15,Leeds United,Liverpool,1,1,0.5
+1979-1980,6,1979-09-15,Bristol City,Stoke City,0,0,0.5
+1979-1980,6,1979-09-15,West Brom,Manchester City,4,0,1.0
+1979-1980,6,1979-09-15,Southampton,Tottenham,5,2,1.0
+1979-1980,6,1979-09-15,Manchester Utd,Derby County,1,0,1.0
+1979-1980,6,1979-09-15,Arsenal,Middlesbrough,2,0,1.0
+1979-1980,6,1979-09-15,Norwich City,Nott'ham Forest,3,1,1.0
+1979-1980,6,1979-09-15,Brighton,Ipswich Town,2,0,1.0
+1979-1980,7,1979-09-22,Derby County,Middlesbrough,1,0,1.0
+1979-1980,7,1979-09-22,Tottenham,West Brom,1,1,0.5
+1979-1980,7,1979-09-22,Bristol City,Nott'ham Forest,1,1,0.5
+1979-1980,7,1979-09-22,Ipswich Town,Everton,1,1,0.5
+1979-1980,7,1979-09-22,Liverpool,Norwich City,0,0,0.5
+1979-1980,7,1979-09-22,Aston Villa,Arsenal,0,0,0.5
+1979-1980,7,1979-09-22,Wolves,Manchester Utd,3,1,1.0
+1979-1980,7,1979-09-22,Stoke City,Crystal Palace,1,2,0.0
+1979-1980,7,1979-09-22,Bolton,Leeds United,1,1,0.5
+1979-1980,7,1979-09-22,Brighton,Southampton,0,0,0.5
+1979-1980,7,1979-09-22,Manchester City,Coventry City,3,0,1.0
+1979-1980,8,1979-09-29,Leeds United,Manchester City,1,2,0.0
+1979-1980,8,1979-09-29,Arsenal,Wolves,2,3,0.0
+1979-1980,8,1979-09-29,Middlesbrough,Aston Villa,0,0,0.5
+1979-1980,8,1979-09-29,Manchester Utd,Stoke City,4,0,1.0
+1979-1980,8,1979-09-29,Crystal Palace,Ipswich Town,4,1,1.0
+1979-1980,8,1979-09-29,Nott'ham Forest,Liverpool,1,0,1.0
+1979-1980,8,1979-09-29,Southampton,Derby County,4,0,1.0
+1979-1980,8,1979-09-29,West Brom,Brighton,2,2,0.5
+1979-1980,8,1979-09-29,Norwich City,Bolton,2,1,1.0
+1979-1980,8,1979-09-29,Everton,Bristol City,0,0,0.5
+1979-1980,8,1979-09-29,Coventry City,Tottenham,1,1,0.5
+1979-1980,9,1979-10-06,Nott'ham Forest,Wolves,3,2,1.0
+1979-1980,9,1979-10-06,Aston Villa,Southampton,3,0,1.0
+1979-1980,9,1979-10-06,Crystal Palace,Tottenham,1,1,0.5
+1979-1980,9,1979-10-06,Derby County,Bolton,4,0,1.0
+1979-1980,9,1979-10-06,Liverpool,Bristol City,4,0,1.0
+1979-1980,9,1979-10-06,Arsenal,Manchester City,0,0,0.5
+1979-1980,9,1979-10-06,Middlesbrough,West Brom,2,1,1.0
+1979-1980,9,1979-10-06,Coventry City,Everton,2,1,1.0
+1979-1980,9,1979-10-06,Manchester Utd,Brighton,2,0,1.0
+1979-1980,9,1979-10-06,Norwich City,Stoke City,2,2,0.5
+1979-1980,9,1979-10-06,Leeds United,Ipswich Town,2,1,1.0
+1979-1980,10,1979-10-09,Wolves,Derby County,0,0,0.5
+1979-1980,10,1979-10-09,Bristol City,Coventry City,1,0,1.0
+1979-1980,10,1979-10-09,Ipswich Town,Arsenal,1,2,0.0
+1979-1980,10,1979-10-09,Bolton,Liverpool,1,1,0.5
+1979-1980,10,1979-10-09,Southampton,Crystal Palace,4,1,1.0
+1979-1980,10,1979-10-10,Manchester City,Middlesbrough,1,0,1.0
+1979-1980,10,1979-10-10,Stoke City,Nott'ham Forest,1,1,0.5
+1979-1980,10,1979-10-10,West Brom,Manchester Utd,2,0,1.0
+1979-1980,10,1979-10-10,Tottenham,Norwich City,3,2,1.0
+1979-1980,11,1979-10-13,Bolton,Arsenal,0,0,0.5
+1979-1980,11,1979-10-13,Aston Villa,West Brom,0,0,0.5
+1979-1980,11,1979-10-13,Southampton,Coventry City,2,3,0.0
+1979-1980,11,1979-10-13,Wolves,Norwich City,1,0,1.0
+1979-1980,11,1979-10-13,Ipswich Town,Liverpool,1,2,0.0
+1979-1980,11,1979-10-13,Stoke City,Middlesbrough,0,0,0.5
+1979-1980,11,1979-10-13,Brighton,Leeds United,0,0,0.5
+1979-1980,11,1979-10-13,Tottenham,Derby County,1,0,1.0
+1979-1980,11,1979-10-13,Manchester City,Nott'ham Forest,1,0,1.0
+1979-1980,11,1979-10-13,Bristol City,Manchester Utd,1,1,0.5
+1979-1980,11,1979-10-13,Everton,Crystal Palace,3,1,1.0
+1979-1980,12,1979-10-20,Manchester Utd,Ipswich Town,1,0,1.0
+1979-1980,12,1979-10-20,Liverpool,Everton,2,2,0.5
+1979-1980,12,1979-10-20,Crystal Palace,Bristol City,1,1,0.5
+1979-1980,12,1979-10-20,Nott'ham Forest,Bolton,5,2,1.0
+1979-1980,12,1979-10-20,Arsenal,Stoke City,0,0,0.5
+1979-1980,12,1979-10-20,Coventry City,Brighton,2,1,1.0
+1979-1980,12,1979-10-20,West Brom,Southampton,4,0,1.0
+1979-1980,12,1979-10-20,Derby County,Aston Villa,1,3,0.0
+1979-1980,12,1979-10-20,Middlesbrough,Wolves,1,0,1.0
+1979-1980,12,1979-10-20,Leeds United,Tottenham,1,2,0.0
+1979-1980,12,1979-10-20,Norwich City,Manchester City,2,2,0.5
+1979-1980,13,1979-10-27,Southampton,Leeds United,1,2,0.0
+1979-1980,13,1979-10-27,Wolves,Aston Villa,1,1,0.5
+1979-1980,13,1979-10-27,Everton,Manchester Utd,0,0,0.5
+1979-1980,13,1979-10-27,Manchester City,Liverpool,0,4,0.0
+1979-1980,13,1979-10-27,Tottenham,Nott'ham Forest,1,0,1.0
+1979-1980,13,1979-10-27,Brighton,Norwich City,2,4,0.0
+1979-1980,13,1979-10-27,Ipswich Town,Middlesbrough,1,0,1.0
+1979-1980,13,1979-10-27,Bolton,Crystal Palace,1,1,0.5
+1979-1980,13,1979-10-27,Bristol City,Arsenal,0,1,0.0
+1979-1980,13,1979-10-27,West Brom,Coventry City,4,1,1.0
+1979-1980,13,1979-10-27,Stoke City,Derby County,3,2,1.0
+1979-1980,14,1979-11-03,Derby County,West Brom,2,1,1.0
+1979-1980,14,1979-11-03,Liverpool,Wolves,3,0,1.0
+1979-1980,14,1979-11-03,Manchester Utd,Southampton,1,0,1.0
+1979-1980,14,1979-11-03,Arsenal,Brighton,3,0,1.0
+1979-1980,14,1979-11-03,Nott'ham Forest,Ipswich Town,2,0,1.0
+1979-1980,14,1979-11-03,Crystal Palace,Manchester City,2,0,1.0
+1979-1980,14,1979-11-03,Aston Villa,Bolton,3,1,1.0
+1979-1980,14,1979-11-03,Norwich City,Everton,0,0,0.5
+1979-1980,14,1979-11-03,Leeds United,Bristol City,1,3,0.0
+1979-1980,14,1979-11-03,Coventry City,Stoke City,1,3,0.0
+1979-1980,14,1979-11-03,Middlesbrough,Tottenham,0,0,0.5
+1979-1980,15,1979-11-10,Tottenham,Bolton,2,0,1.0
+1979-1980,15,1979-11-10,Bristol City,Derby County,0,2,0.0
+1979-1980,15,1979-11-10,Coventry City,Leeds United,3,0,1.0
+1979-1980,15,1979-11-10,Ipswich Town,Aston Villa,0,0,0.5
+1979-1980,15,1979-11-10,Crystal Palace,Arsenal,1,0,1.0
+1979-1980,15,1979-11-10,West Brom,Norwich City,2,1,1.0
+1979-1980,15,1979-11-10,Everton,Middlesbrough,0,2,0.0
+1979-1980,15,1979-11-10,Southampton,Nott'ham Forest,4,1,1.0
+1979-1980,15,1979-11-10,Manchester City,Manchester Utd,2,0,1.0
+1979-1980,15,1979-11-10,Brighton,Liverpool,1,4,0.0
+1979-1980,15,1979-11-10,Stoke City,Wolves,0,1,0.0
+1979-1980,10,1979-11-13,Everton,Leeds United,5,1,1.0
+1979-1980,16,1979-11-17,Middlesbrough,Bristol City,1,0,1.0
+1979-1980,16,1979-11-17,Wolves,Coventry City,0,3,0.0
+1979-1980,16,1979-11-17,Aston Villa,Stoke City,2,1,1.0
+1979-1980,16,1979-11-17,Liverpool,Tottenham,2,1,1.0
+1979-1980,16,1979-11-17,Arsenal,Everton,2,0,1.0
+1979-1980,16,1979-11-17,Manchester Utd,Crystal Palace,1,1,0.5
+1979-1980,16,1979-11-17,Norwich City,Southampton,2,1,1.0
+1979-1980,16,1979-11-17,Derby County,Ipswich Town,0,1,0.0
+1979-1980,16,1979-11-17,Nott'ham Forest,Brighton,0,1,0.0
+1979-1980,16,1979-11-17,Bolton,Manchester City,0,1,0.0
+1979-1980,16,1979-11-17,Leeds United,West Brom,1,0,1.0
+1979-1980,17,1979-11-24,Arsenal,Liverpool,0,0,0.5
+1979-1980,17,1979-11-24,Wolves,West Brom,0,0,0.5
+1979-1980,17,1979-11-24,Crystal Palace,Coventry City,0,0,0.5
+1979-1980,17,1979-11-24,Middlesbrough,Brighton,1,1,0.5
+1979-1980,17,1979-11-24,Derby County,Nott'ham Forest,4,1,1.0
+1979-1980,17,1979-11-24,Ipswich Town,Southampton,3,1,1.0
+1979-1980,17,1979-11-24,Aston Villa,Leeds United,0,0,0.5
+1979-1980,17,1979-11-24,Bristol City,Manchester City,1,0,1.0
+1979-1980,17,1979-11-24,Everton,Tottenham,1,1,0.5
+1979-1980,17,1979-11-24,Manchester Utd,Norwich City,5,0,1.0
+1979-1980,17,1979-11-24,Stoke City,Bolton,1,0,1.0
+1979-1980,18,1979-12-01,West Brom,Everton,1,1,0.5
+1979-1980,18,1979-12-01,Nott'ham Forest,Arsenal,1,1,0.5
+1979-1980,18,1979-12-01,Tottenham,Manchester Utd,1,2,0.0
+1979-1980,18,1979-12-01,Liverpool,Middlesbrough,4,0,1.0
+1979-1980,18,1979-12-01,Coventry City,Ipswich Town,4,1,1.0
+1979-1980,18,1979-12-01,Brighton,Derby County,2,0,1.0
+1979-1980,18,1979-12-01,Norwich City,Aston Villa,1,1,0.5
+1979-1980,18,1979-12-01,Manchester City,Wolves,2,3,0.0
+1979-1980,18,1979-12-01,Southampton,Stoke City,3,1,1.0
+1979-1980,18,1979-12-01,Bolton,Bristol City,1,1,0.5
+1979-1980,18,1979-12-01,Leeds United,Crystal Palace,1,0,1.0
+1979-1980,19,1979-12-08,Middlesbrough,Southampton,0,1,0.0
+1979-1980,19,1979-12-08,Derby County,Norwich City,0,0,0.5
+1979-1980,19,1979-12-08,Stoke City,West Brom,3,2,1.0
+1979-1980,19,1979-12-08,Arsenal,Coventry City,3,1,1.0
+1979-1980,19,1979-12-08,Aston Villa,Liverpool,1,3,0.0
+1979-1980,19,1979-12-08,Bristol City,Tottenham,1,3,0.0
+1979-1980,19,1979-12-08,Crystal Palace,Nott'ham Forest,1,0,1.0
+1979-1980,19,1979-12-08,Ipswich Town,Manchester City,4,0,1.0
+1979-1980,19,1979-12-08,Everton,Brighton,2,0,1.0
+1979-1980,19,1979-12-08,Manchester Utd,Leeds United,1,1,0.5
+1979-1980,19,1979-12-08,Wolves,Bolton,3,1,1.0
+1979-1980,20,1979-12-15,Bolton,Ipswich Town,0,1,0.0
+1979-1980,20,1979-12-15,Liverpool,Crystal Palace,3,0,1.0
+1979-1980,20,1979-12-15,Norwich City,Bristol City,2,0,1.0
+1979-1980,20,1979-12-15,Leeds United,Wolves,3,0,1.0
+1979-1980,20,1979-12-15,Coventry City,Manchester Utd,1,2,0.0
+1979-1980,20,1979-12-15,Manchester City,Derby County,3,0,1.0
+1979-1980,20,1979-12-15,West Brom,Arsenal,2,2,0.5
+1979-1980,20,1979-12-15,Brighton,Stoke City,0,0,0.5
+1979-1980,20,1979-12-15,Southampton,Everton,1,0,1.0
+1979-1980,20,1979-12-15,Tottenham,Aston Villa,1,2,0.0
+1979-1980,21,1979-12-19,Aston Villa,Coventry City,3,0,1.0
+1979-1980,21,1979-12-21,Bristol City,Southampton,0,1,0.0
+1979-1980,21,1979-12-21,Ipswich Town,Tottenham,3,1,1.0
+1979-1980,21,1979-12-21,Middlesbrough,Bolton,3,1,1.0
+1979-1980,21,1979-12-21,Wolves,Brighton,1,3,0.0
+1979-1980,21,1979-12-21,Stoke City,Leeds United,0,2,0.0
+1979-1980,21,1979-12-21,Arsenal,Norwich City,1,1,0.5
+1979-1980,21,1979-12-22,Derby County,Liverpool,1,3,0.0
+1979-1980,21,1979-12-22,Manchester Utd,Nott'ham Forest,3,0,1.0
+1979-1980,21,1979-12-22,Everton,Manchester City,1,2,0.0
+1979-1980,22,1979-12-26,Bolton,Everton,1,1,0.5
+1979-1980,22,1979-12-26,Nott'ham Forest,Aston Villa,2,1,1.0
+1979-1980,22,1979-12-26,Derby County,Coventry City,1,2,0.0
+1979-1980,22,1979-12-26,Brighton,Crystal Palace,3,0,1.0
+1979-1980,22,1979-12-26,Manchester City,Stoke City,1,1,0.5
+1979-1980,22,1979-12-26,Norwich City,Ipswich Town,3,3,0.5
+1979-1980,22,1979-12-26,Wolves,Southampton,0,0,0.5
+1979-1980,22,1979-12-26,Arsenal,Tottenham,1,0,1.0
+1979-1980,22,1979-12-26,Middlesbrough,Leeds United,3,1,1.0
+1979-1980,22,1979-12-26,West Brom,Bristol City,3,0,1.0
+1979-1980,22,1979-12-26,Liverpool,Manchester Utd,2,0,1.0
+1979-1980,23,1979-12-29,Coventry City,Nott'ham Forest,0,3,0.0
+1979-1980,23,1979-12-29,Brighton,Manchester City,4,1,1.0
+1979-1980,23,1979-12-29,Southampton,Bolton,2,0,1.0
+1979-1980,23,1979-12-29,Crystal Palace,Middlesbrough,1,2,0.0
+1979-1980,23,1979-12-29,West Brom,Liverpool,0,2,0.0
+1979-1980,23,1979-12-29,Ipswich Town,Wolves,1,0,1.0
+1979-1980,23,1979-12-29,Everton,Derby County,1,1,0.5
+1979-1980,23,1979-12-29,Bristol City,Aston Villa,1,3,0.0
+1979-1980,23,1979-12-29,Tottenham,Stoke City,1,0,1.0
+1979-1980,23,1979-12-29,Leeds United,Norwich City,2,2,0.5
+1979-1980,23,1979-12-29,Manchester Utd,Arsenal,3,0,1.0
+1979-1980,24,1980-01-01,Southampton,Arsenal,0,1,0.0
+1979-1980,24,1980-01-01,Leeds United,Derby County,1,0,1.0
+1979-1980,24,1980-01-01,Crystal Palace,Norwich City,0,0,0.5
+1979-1980,24,1980-01-01,Bristol City,Brighton,2,2,0.5
+1979-1980,24,1980-01-01,Ipswich Town,West Brom,4,0,1.0
+1979-1980,24,1980-01-01,Coventry City,Middlesbrough,2,0,1.0
+1979-1980,24,1980-01-01,Everton,Nott'ham Forest,1,0,1.0
+1979-1980,25,1980-01-12,Nott'ham Forest,West Brom,3,1,1.0
+1979-1980,25,1980-01-12,Arsenal,Leeds United,0,1,0.0
+1979-1980,25,1980-01-12,Bolton,Brighton,0,2,0.0
+1979-1980,25,1980-01-12,Aston Villa,Everton,2,1,1.0
+1979-1980,25,1980-01-12,Stoke City,Ipswich Town,0,1,0.0
+1979-1980,25,1980-01-12,Norwich City,Coventry City,1,0,1.0
+1979-1980,25,1980-01-12,Liverpool,Southampton,1,1,0.5
+1979-1980,25,1980-01-12,Middlesbrough,Manchester Utd,1,1,0.5
+1979-1980,25,1980-01-12,Manchester City,Tottenham,1,1,0.5
+1979-1980,25,1980-01-12,Wolves,Bristol City,3,0,1.0
+1979-1980,25,1980-01-12,Derby County,Crystal Palace,1,2,0.0
+1979-1980,26,1980-01-19,Southampton,Manchester City,4,1,1.0
+1979-1980,26,1980-01-19,Crystal Palace,Wolves,1,0,1.0
+1979-1980,26,1980-01-19,Leeds United,Nott'ham Forest,1,2,0.0
+1979-1980,26,1980-01-19,Coventry City,Liverpool,1,0,1.0
+1979-1980,26,1980-01-19,Arsenal,Derby County,2,0,1.0
+1979-1980,26,1980-01-19,Bristol City,Ipswich Town,0,3,0.0
+1979-1980,26,1980-01-19,Brighton,Tottenham,0,2,0.0
+1979-1980,21,1980-01-26,Crystal Palace,West Brom,2,2,0.5
+1979-1980,27,1980-02-02,Derby County,Manchester Utd,1,3,0.0
+1979-1980,27,1980-02-02,Manchester City,West Brom,1,3,0.0
+1979-1980,27,1980-02-02,Ipswich Town,Brighton,1,1,0.5
+1979-1980,27,1980-02-02,Wolves,Everton,0,0,0.5
+1979-1980,27,1980-02-02,Aston Villa,Crystal Palace,2,0,1.0
+1979-1980,27,1980-02-02,Tottenham,Southampton,0,0,0.5
+1979-1980,27,1980-02-02,Stoke City,Bristol City,1,0,1.0
+1979-1980,28,1980-02-09,Arsenal,Aston Villa,3,1,1.0
+1979-1980,28,1980-02-09,Norwich City,Liverpool,3,5,0.0
+1979-1980,28,1980-02-09,Crystal Palace,Stoke City,0,1,0.0
+1979-1980,28,1980-02-09,Coventry City,Manchester City,0,0,0.5
+1979-1980,28,1980-02-09,Manchester Utd,Wolves,0,1,0.0
+1979-1980,28,1980-02-09,Leeds United,Bolton,2,2,0.5
+1979-1980,28,1980-02-09,Southampton,Brighton,5,1,1.0
+1979-1980,28,1980-02-09,West Brom,Tottenham,2,1,1.0
+1979-1980,28,1980-02-09,Everton,Ipswich Town,0,4,0.0
+1979-1980,28,1980-02-09,Middlesbrough,Derby County,3,0,1.0
+1979-1980,28,1980-02-09,Nott'ham Forest,Bristol City,0,0,0.5
+1979-1980,20,1980-02-16,Nott'ham Forest,Middlesbrough,2,2,0.5
+1979-1980,29,1980-02-16,Stoke City,Manchester Utd,1,1,0.5
+1979-1980,29,1980-02-16,Manchester City,Leeds United,1,1,0.5
+1979-1980,29,1980-02-16,Derby County,Southampton,2,2,0.5
+1979-1980,29,1980-02-16,Brighton,West Brom,0,0,0.5
+1979-1980,29,1980-02-19,Ipswich Town,Crystal Palace,3,0,1.0
+1979-1980,29,1980-02-19,Liverpool,Nott'ham Forest,2,0,1.0
+1979-1980,29,1980-02-19,Bristol City,Everton,2,1,1.0
+1979-1980,30,1980-02-23,Liverpool,Ipswich Town,1,1,0.5
+1979-1980,30,1980-02-23,Derby County,Tottenham,2,1,1.0
+1979-1980,30,1980-02-23,Coventry City,Southampton,3,0,1.0
+1979-1980,30,1980-02-23,Arsenal,Bolton,2,0,1.0
+1979-1980,30,1980-02-23,Norwich City,Wolves,0,4,0.0
+1979-1980,30,1980-02-23,West Brom,Aston Villa,1,2,0.0
+1979-1980,30,1980-02-23,Middlesbrough,Stoke City,1,3,0.0
+1979-1980,30,1980-02-23,Nott'ham Forest,Manchester City,4,0,1.0
+1979-1980,30,1980-02-23,Leeds United,Brighton,1,1,0.5
+1979-1980,30,1980-02-23,Manchester Utd,Bristol City,4,0,1.0
+1979-1980,30,1980-02-23,Crystal Palace,Everton,1,1,0.5
+1979-1980,1,1980-02-26,Wolves,Liverpool,1,0,1.0
+1979-1980,24,1980-02-27,Manchester Utd,Bolton,2,0,1.0
+1979-1980,24,1980-02-27,Aston Villa,Manchester City,2,2,0.5
+1979-1980,26,1980-02-27,Norwich City,Middlesbrough,0,0,0.5
+1979-1980,29,1980-02-27,Tottenham,Coventry City,4,3,1.0
+1979-1980,31,1980-03-01,Aston Villa,Derby County,1,0,1.0
+1979-1980,31,1980-03-01,Ipswich Town,Manchester Utd,6,0,1.0
+1979-1980,31,1980-03-01,Everton,Liverpool,1,2,0.0
+1979-1980,31,1980-03-01,Brighton,Coventry City,1,1,0.5
+1979-1980,31,1980-03-01,Wolves,Middlesbrough,0,2,0.0
+1979-1980,31,1980-03-01,Bolton,Nott'ham Forest,1,0,1.0
+1979-1980,31,1980-03-01,Stoke City,Arsenal,2,3,0.0
+1979-1980,31,1980-03-01,Manchester City,Norwich City,0,0,0.5
+1979-1980,31,1980-03-01,Bristol City,Crystal Palace,0,2,0.0
+1979-1980,31,1980-03-01,Tottenham,Leeds United,2,1,1.0
+1979-1980,31,1980-03-01,Southampton,West Brom,1,1,0.5
+1979-1980,10,1980-03-03,Brighton,Aston Villa,1,1,0.5
+1979-1980,32,1980-03-08,Crystal Palace,Bolton,3,1,1.0
+1979-1980,32,1980-03-08,Leeds United,Southampton,2,0,1.0
+1979-1980,32,1980-03-08,Norwich City,Brighton,2,2,0.5
+1979-1980,32,1980-03-08,Derby County,Stoke City,2,2,0.5
+1979-1980,32,1980-03-08,Coventry City,West Brom,0,2,0.0
+1979-1980,32,1980-03-10,Aston Villa,Wolves,1,3,0.0
+1979-1980,29,1980-03-11,Bolton,Norwich City,1,0,1.0
+1979-1980,32,1980-03-11,Nott'ham Forest,Tottenham,4,0,1.0
+1979-1980,32,1980-03-11,Liverpool,Manchester City,2,0,1.0
+1979-1980,32,1980-03-11,Middlesbrough,Ipswich Town,1,1,0.5
+1979-1980,32,1980-03-11,Arsenal,Bristol City,0,0,0.5
+1979-1980,32,1980-03-12,Manchester Utd,Everton,0,0,0.5
+1979-1980,33,1980-03-14,West Brom,Middlesbrough,0,0,0.5
+1979-1980,33,1980-03-14,Ipswich Town,Leeds United,1,0,1.0
+1979-1980,33,1980-03-15,Bolton,Derby County,1,2,0.0
+1979-1980,33,1980-03-15,Southampton,Aston Villa,2,0,1.0
+1979-1980,33,1980-03-15,Tottenham,Crystal Palace,0,0,0.5
+1979-1980,33,1980-03-15,Everton,Coventry City,1,1,0.5
+1979-1980,33,1980-03-15,Bristol City,Liverpool,1,3,0.0
+1979-1980,33,1980-03-15,Stoke City,Norwich City,2,1,1.0
+1979-1980,33,1980-03-15,Manchester City,Arsenal,0,3,0.0
+1979-1980,33,1980-03-15,Brighton,Manchester Utd,0,0,0.5
+1979-1980,26,1980-03-18,Everton,Stoke City,2,0,1.0
+1979-1980,26,1980-03-18,West Brom,Bolton,4,4,0.5
+1979-1980,27,1980-03-19,Liverpool,Leeds United,3,0,1.0
+1979-1980,29,1980-03-19,Aston Villa,Middlesbrough,0,2,0.0
+1979-1980,34,1980-03-22,Arsenal,Crystal Palace,1,1,0.5
+1979-1980,34,1980-03-22,Derby County,Bristol City,3,3,0.5
+1979-1980,34,1980-03-22,Liverpool,Brighton,1,0,1.0
+1979-1980,34,1980-03-22,Aston Villa,Ipswich Town,1,1,0.5
+1979-1980,34,1980-03-22,Nott'ham Forest,Southampton,2,0,1.0
+1979-1980,34,1980-03-22,Middlesbrough,Everton,2,1,1.0
+1979-1980,34,1980-03-22,Manchester Utd,Manchester City,1,0,1.0
+1979-1980,34,1980-03-22,Bolton,Tottenham,2,1,1.0
+1979-1980,34,1980-03-22,Wolves,Stoke City,3,0,1.0
+1979-1980,34,1980-03-22,Norwich City,West Brom,1,1,0.5
+1979-1980,34,1980-03-22,Leeds United,Coventry City,0,0,0.5
+1979-1980,39,1980-03-26,Aston Villa,Norwich City,2,0,1.0
+1979-1980,35,1980-03-28,Everton,Arsenal,0,1,0.0
+1979-1980,35,1980-03-29,Crystal Palace,Manchester Utd,0,2,0.0
+1979-1980,35,1980-03-29,Tottenham,Liverpool,2,0,1.0
+1979-1980,35,1980-03-29,Southampton,Norwich City,2,0,1.0
+1979-1980,35,1980-03-29,Manchester City,Bolton,2,2,0.5
+1979-1980,35,1980-03-29,West Brom,Leeds United,2,1,1.0
+1979-1980,35,1980-03-29,Brighton,Nott'ham Forest,1,0,1.0
+1979-1980,35,1980-03-29,Stoke City,Aston Villa,2,0,1.0
+1979-1980,35,1980-03-29,Ipswich Town,Derby County,1,1,0.5
+1979-1980,35,1980-03-29,Coventry City,Wolves,1,3,0.0
+1979-1980,24,1980-04-01,Liverpool,Stoke City,1,0,1.0
+1979-1980,36,1980-04-01,West Brom,Crystal Palace,3,0,1.0
+1979-1980,36,1980-04-02,Norwich City,Arsenal,2,1,1.0
+1979-1980,36,1980-04-02,Manchester City,Everton,1,1,0.5
+1979-1980,36,1980-04-02,Nott'ham Forest,Manchester Utd,2,0,1.0
+1979-1980,36,1980-04-02,Tottenham,Ipswich Town,0,2,0.0
+1979-1980,37,1980-04-02,Leeds United,Middlesbrough,2,0,1.0
+1979-1980,37,1980-04-05,Everton,Bolton,3,1,1.0
+1979-1980,37,1980-04-05,Manchester Utd,Liverpool,2,1,1.0
+1979-1980,37,1980-04-05,Ipswich Town,Norwich City,4,2,1.0
+1979-1980,37,1980-04-05,Stoke City,Manchester City,0,0,0.5
+1979-1980,37,1980-04-05,Bristol City,West Brom,0,0,0.5
+1979-1980,37,1980-04-05,Crystal Palace,Brighton,1,1,0.5
+1979-1980,37,1980-04-05,Aston Villa,Nott'ham Forest,3,2,1.0
+1979-1980,38,1980-04-05,Middlesbrough,Coventry City,1,2,0.0
+1979-1980,38,1980-04-05,Derby County,Leeds United,2,0,1.0
+1979-1980,38,1980-04-05,Wolves,Tottenham,1,2,0.0
+1979-1980,38,1980-04-05,Arsenal,Southampton,1,1,0.5
+1979-1980,37,1980-04-07,Coventry City,Derby County,2,1,1.0
+1979-1980,37,1980-04-07,Southampton,Wolves,0,3,0.0
+1979-1980,37,1980-04-07,Tottenham,Arsenal,1,2,0.0
+1979-1980,38,1980-04-07,Bolton,Manchester Utd,1,3,0.0
+1979-1980,38,1980-04-07,Norwich City,Crystal Palace,2,1,1.0
+1979-1980,38,1980-04-07,Brighton,Bristol City,0,1,0.0
+1979-1980,38,1980-04-07,West Brom,Ipswich Town,0,0,0.5
+1979-1980,38,1980-04-07,Manchester City,Aston Villa,1,1,0.5
+1979-1980,36,1980-04-08,Bolton,Middlesbrough,2,2,0.5
+1979-1980,36,1980-04-08,Brighton,Wolves,3,0,1.0
+1979-1980,36,1980-04-08,Leeds United,Stoke City,3,0,1.0
+1979-1980,36,1980-04-08,Liverpool,Derby County,3,0,1.0
+1979-1980,39,1980-04-12,Manchester Utd,Tottenham,4,1,1.0
+1979-1980,39,1980-04-12,Bristol City,Bolton,2,1,1.0
+1979-1980,39,1980-04-12,Crystal Palace,Leeds United,1,0,1.0
+1979-1980,39,1980-04-12,Wolves,Manchester City,1,2,0.0
+1979-1980,39,1980-04-12,Derby County,Brighton,3,0,1.0
+1979-1980,39,1980-04-12,Stoke City,Southampton,1,2,0.0
+1979-1980,39,1980-04-12,Ipswich Town,Coventry City,3,0,1.0
+1979-1980,27,1980-04-15,Bolton,Coventry City,1,1,0.5
+1979-1980,40,1980-04-19,Southampton,Ipswich Town,0,1,0.0
+1979-1980,40,1980-04-19,Leeds United,Aston Villa,0,0,0.5
+1979-1980,40,1980-04-19,Bolton,Stoke City,2,1,1.0
+1979-1980,40,1980-04-19,Manchester City,Bristol City,3,1,1.0
+1979-1980,40,1980-04-19,Norwich City,Manchester Utd,0,2,0.0
+1979-1980,40,1980-04-19,Nott'ham Forest,Derby County,1,0,1.0
+1979-1980,40,1980-04-19,Liverpool,Arsenal,1,1,0.5
+1979-1980,40,1980-04-19,Tottenham,Everton,3,0,1.0
+1979-1980,40,1980-04-19,West Brom,Wolves,0,0,0.5
+1979-1980,40,1980-04-19,Coventry City,Crystal Palace,2,1,1.0
+1979-1980,40,1980-04-19,Brighton,Middlesbrough,2,1,1.0
+1979-1980,35,1980-04-22,Bristol City,Middlesbrough,3,1,1.0
+1979-1980,24,1980-04-23,Tottenham,Wolves,2,2,0.5
+1979-1980,26,1980-04-23,Manchester Utd,Aston Villa,2,1,1.0
+1979-1980,38,1980-04-23,Stoke City,Liverpool,0,2,0.0
+1979-1980,41,1980-04-26,Ipswich Town,Bolton,1,0,1.0
+1979-1980,41,1980-04-26,Manchester Utd,Coventry City,2,1,1.0
+1979-1980,41,1980-04-26,Derby County,Manchester City,3,1,1.0
+1979-1980,41,1980-04-26,Everton,Southampton,2,0,1.0
+1979-1980,41,1980-04-26,Arsenal,West Brom,1,1,0.5
+1979-1980,41,1980-04-26,Middlesbrough,Nott'ham Forest,0,0,0.5
+1979-1980,41,1980-04-26,Bristol City,Norwich City,2,3,0.0
+1979-1980,41,1980-04-26,Crystal Palace,Liverpool,0,0,0.5
+1979-1980,41,1980-04-26,Stoke City,Brighton,1,0,1.0
+1979-1980,41,1980-04-26,Aston Villa,Tottenham,1,0,1.0
+1979-1980,41,1980-04-26,Wolves,Leeds United,3,1,1.0
+1979-1980,39,1980-04-28,Everton,West Brom,0,0,0.5
+1979-1980,36,1980-04-29,Coventry City,Aston Villa,1,2,0.0
+1979-1980,36,1980-04-29,Southampton,Bristol City,5,2,1.0
+1979-1980,27,1980-04-30,Nott'ham Forest,Norwich City,2,0,1.0
+1979-1980,42,1980-05-03,Manchester City,Ipswich Town,2,1,1.0
+1979-1980,42,1980-05-03,Brighton,Everton,0,0,0.5
+1979-1980,42,1980-05-03,Norwich City,Derby County,4,2,1.0
+1979-1980,42,1980-05-03,Liverpool,Aston Villa,4,1,1.0
+1979-1980,42,1980-05-03,Leeds United,Manchester Utd,2,0,1.0
+1979-1980,42,1980-05-03,Nott'ham Forest,Crystal Palace,4,0,1.0
+1979-1980,42,1980-05-03,Southampton,Middlesbrough,4,1,1.0
+1979-1980,42,1980-05-03,Coventry City,Arsenal,0,1,0.0
+1979-1980,42,1980-05-03,Tottenham,Bristol City,0,0,0.5
+1979-1980,42,1980-05-03,West Brom,Stoke City,0,1,0.0
+1979-1980,42,1980-05-03,Bolton,Wolves,0,0,0.5
+1979-1980,39,1980-05-05,Arsenal,Nott'ham Forest,0,0,0.5
+1979-1980,39,1980-05-06,Middlesbrough,Liverpool,1,0,1.0
+1979-1980,38,1980-05-09,Nott'ham Forest,Everton,1,0,1.0
+1979-1980,33,1980-05-12,Wolves,Nott'ham Forest,3,1,1.0
+1979-1980,29,1980-05-16,Wolves,Arsenal,1,2,0.0
+1979-1980,27,1980-05-19,Middlesbrough,Arsenal,5,0,1.0

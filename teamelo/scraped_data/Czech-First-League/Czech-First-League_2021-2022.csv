@@ -1,0 +1,281 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,Regular season,1,2021-07-24,FK Pardubice,Karviná,2,2,0.5
+2021-2022,Regular season,1,2021-07-24,Jablonec,Baník Ostrava,1,0,1.0
+2021-2022,Regular season,1,2021-07-24,Hradec Králové,Bohemians 1905,1,1,0.5
+2021-2022,Regular season,1,2021-07-24,Sparta Prague,Sigma Olomouc,3,2,1.0
+2021-2022,Regular season,1,2021-07-25,Viktoria Plzeň,Mladá Boleslav,2,1,1.0
+2021-2022,Regular season,1,2021-07-25,České Budĕjov.,Teplice,1,0,1.0
+2021-2022,Regular season,1,2021-07-25,Slovan Liberec,Slovácko,0,1,0.0
+2021-2022,Regular season,1,2021-07-25,Fastav Zlín,Slavia Prague,0,1,0.0
+2021-2022,Regular season,2,2021-07-30,Teplice,Slavia Prague,1,3,0.0
+2021-2022,Regular season,2,2021-07-31,Mladá Boleslav,Jablonec,3,0,1.0
+2021-2022,Regular season,2,2021-07-31,Sigma Olomouc,FK Pardubice,3,2,1.0
+2021-2022,Regular season,2,2021-07-31,Karviná,Hradec Králové,1,1,0.5
+2021-2022,Regular season,2,2021-07-31,Slovan Liberec,Sparta Prague,0,5,0.0
+2021-2022,Regular season,2,2021-08-01,Slovácko,České Budĕjov.,1,0,1.0
+2021-2022,Regular season,2,2021-08-01,Baník Ostrava,Fastav Zlín,5,1,1.0
+2021-2022,Regular season,2,2021-08-01,Bohemians 1905,Viktoria Plzeň,1,2,0.0
+2021-2022,Regular season,3,2021-08-07,Fastav Zlín,Teplice,3,0,1.0
+2021-2022,Regular season,3,2021-08-07,Hradec Králové,Slovan Liberec,1,1,0.5
+2021-2022,Regular season,3,2021-08-07,Sparta Prague,Karviná,2,0,1.0
+2021-2022,Regular season,3,2021-08-07,České Budĕjov.,Baník Ostrava,1,3,0.0
+2021-2022,Regular season,3,2021-08-08,Jablonec,Bohemians 1905,2,2,0.5
+2021-2022,Regular season,3,2021-08-08,FK Pardubice,Mladá Boleslav,1,1,0.5
+2021-2022,Regular season,3,2021-08-08,Viktoria Plzeň,Slovácko,2,1,1.0
+2021-2022,Regular season,4,2021-08-14,Sigma Olomouc,České Budĕjov.,3,3,0.5
+2021-2022,Regular season,4,2021-08-14,Karviná,Fastav Zlín,2,3,0.0
+2021-2022,Regular season,4,2021-08-14,Mladá Boleslav,Slavia Prague,0,2,0.0
+2021-2022,Regular season,4,2021-08-14,Bohemians 1905,Sparta Prague,1,1,0.5
+2021-2022,Regular season,4,2021-08-15,Teplice,Jablonec,1,0,1.0
+2021-2022,Regular season,4,2021-08-15,Slovácko,Hradec Králové,1,0,1.0
+2021-2022,Regular season,4,2021-08-15,Baník Ostrava,FK Pardubice,3,1,1.0
+2021-2022,Regular season,4,2021-08-15,Slovan Liberec,Viktoria Plzeň,0,1,0.0
+2021-2022,Regular season,5,2021-08-21,Mladá Boleslav,Teplice,3,1,1.0
+2021-2022,Regular season,5,2021-08-21,FK Pardubice,Bohemians 1905,3,0,1.0
+2021-2022,Regular season,5,2021-08-21,Fastav Zlín,Sigma Olomouc,1,4,0.0
+2021-2022,Regular season,5,2021-08-21,Sparta Prague,Hradec Králové,4,0,1.0
+2021-2022,Regular season,5,2021-08-22,Viktoria Plzeň,Karviná,2,0,1.0
+2021-2022,Regular season,5,2021-08-22,České Budĕjov.,Slovan Liberec,1,0,1.0
+2021-2022,Regular season,5,2021-08-22,Jablonec,Slovácko,1,1,0.5
+2021-2022,Regular season,5,2021-08-22,Slavia Prague,Baník Ostrava,4,0,1.0
+2021-2022,Regular season,6,2021-08-28,Slovan Liberec,Fastav Zlín,0,1,0.0
+2021-2022,Regular season,6,2021-08-28,Baník Ostrava,Mladá Boleslav,1,0,1.0
+2021-2022,Regular season,6,2021-08-28,Slovácko,FK Pardubice,2,1,1.0
+2021-2022,Regular season,6,2021-08-28,Sparta Prague,České Budĕjov.,1,0,1.0
+2021-2022,Regular season,6,2021-08-29,Hradec Králové,Viktoria Plzeň,1,0,1.0
+2021-2022,Regular season,6,2021-08-29,Bohemians 1905,Teplice,4,2,1.0
+2021-2022,Regular season,6,2021-08-29,Sigma Olomouc,Jablonec,4,0,1.0
+2021-2022,Regular season,6,2021-08-29,Karviná,Slavia Prague,3,3,0.5
+2021-2022,Regular season,7,2021-09-11,FK Pardubice,Slovan Liberec,2,2,0.5
+2021-2022,Regular season,7,2021-09-11,Teplice,Baník Ostrava,1,2,0.0
+2021-2022,Regular season,7,2021-09-11,Fastav Zlín,Bohemians 1905,1,3,0.0
+2021-2022,Regular season,7,2021-09-11,Viktoria Plzeň,Sparta Prague,3,2,1.0
+2021-2022,Regular season,7,2021-09-12,České Budĕjov.,Hradec Králové,0,1,0.0
+2021-2022,Regular season,7,2021-09-12,Jablonec,Karviná,1,0,1.0
+2021-2022,Regular season,7,2021-09-12,Mladá Boleslav,Sigma Olomouc,3,3,0.5
+2021-2022,Regular season,7,2021-09-12,Slavia Prague,Slovácko,2,1,1.0
+2021-2022,Regular season,8,2021-09-17,Hradec Králové,FK Pardubice,2,0,1.0
+2021-2022,Regular season,8,2021-09-17,Sigma Olomouc,Baník Ostrava,1,1,0.5
+2021-2022,Regular season,8,2021-09-18,Slovan Liberec,Mladá Boleslav,2,1,1.0
+2021-2022,Regular season,8,2021-09-18,Slovácko,Fastav Zlín,3,0,1.0
+2021-2022,Regular season,8,2021-09-18,Viktoria Plzeň,České Budĕjov.,2,1,1.0
+2021-2022,Regular season,8,2021-09-19,Karviná,Teplice,1,1,0.5
+2021-2022,Regular season,8,2021-09-19,Sparta Prague,Jablonec,1,1,0.5
+2021-2022,Regular season,8,2021-09-19,Bohemians 1905,Slavia Prague,1,5,0.0
+2021-2022,Regular season,9,2021-09-25,Baník Ostrava,Bohemians 1905,4,1,1.0
+2021-2022,Regular season,9,2021-09-25,České Budĕjov.,Karviná,3,1,1.0
+2021-2022,Regular season,9,2021-09-25,FK Pardubice,Viktoria Plzeň,0,1,0.0
+2021-2022,Regular season,9,2021-09-25,Fastav Zlín,Sparta Prague,2,5,0.0
+2021-2022,Regular season,9,2021-09-26,Jablonec,Slovan Liberec,0,1,0.0
+2021-2022,Regular season,9,2021-09-26,Teplice,Sigma Olomouc,0,0,0.5
+2021-2022,Regular season,9,2021-09-26,Mladá Boleslav,Slovácko,3,5,0.0
+2021-2022,Regular season,9,2021-09-26,Slavia Prague,Hradec Králové,4,1,1.0
+2021-2022,Regular season,10,2021-10-02,Slovácko,Teplice,3,2,1.0
+2021-2022,Regular season,10,2021-10-02,České Budĕjov.,FK Pardubice,3,1,1.0
+2021-2022,Regular season,10,2021-10-02,Bohemians 1905,Sigma Olomouc,2,0,1.0
+2021-2022,Regular season,10,2021-10-02,Viktoria Plzeň,Fastav Zlín,2,1,1.0
+2021-2022,Regular season,10,2021-10-03,Karviná,Mladá Boleslav,0,1,0.0
+2021-2022,Regular season,10,2021-10-03,Hradec Králové,Jablonec,2,2,0.5
+2021-2022,Regular season,10,2021-10-03,Slovan Liberec,Baník Ostrava,0,2,0.0
+2021-2022,Regular season,10,2021-10-03,Sparta Prague,Slavia Prague,1,0,1.0
+2021-2022,Regular season,11,2021-10-16,Jablonec,České Budĕjov.,2,2,0.5
+2021-2022,Regular season,11,2021-10-16,Baník Ostrava,Slovácko,1,2,0.0
+2021-2022,Regular season,11,2021-10-16,Mladá Boleslav,Bohemians 1905,4,1,1.0
+2021-2022,Regular season,11,2021-10-16,Slavia Prague,Slovan Liberec,3,1,1.0
+2021-2022,Regular season,11,2021-10-17,Sigma Olomouc,Karviná,2,0,1.0
+2021-2022,Regular season,11,2021-10-17,Teplice,Viktoria Plzeň,0,1,0.0
+2021-2022,Regular season,11,2021-10-17,Fastav Zlín,Hradec Králové,2,3,0.0
+2021-2022,Regular season,11,2021-10-17,FK Pardubice,Sparta Prague,2,4,0.0
+2021-2022,Regular season,12,2021-10-23,Slovan Liberec,Sigma Olomouc,2,0,1.0
+2021-2022,Regular season,12,2021-10-23,Slovácko,Bohemians 1905,1,0,1.0
+2021-2022,Regular season,12,2021-10-23,FK Pardubice,Fastav Zlín,0,0,0.5
+2021-2022,Regular season,12,2021-10-24,Hradec Králové,Teplice,3,0,1.0
+2021-2022,Regular season,12,2021-10-24,Viktoria Plzeň,Jablonec,5,0,1.0
+2021-2022,Regular season,12,2021-10-24,České Budĕjov.,Slavia Prague,2,2,0.5
+2021-2022,Regular season,12,2021-10-24,Sparta Prague,Mladá Boleslav,1,0,1.0
+2021-2022,Regular season,3,2021-10-27,Slavia Prague,Sigma Olomouc,1,0,1.0
+2021-2022,Regular season,13,2021-10-30,Teplice,Slovan Liberec,1,2,0.0
+2021-2022,Regular season,13,2021-10-30,Fastav Zlín,České Budĕjov.,2,0,1.0
+2021-2022,Regular season,13,2021-10-30,Sigma Olomouc,Slovácko,0,3,0.0
+2021-2022,Regular season,13,2021-10-31,Baník Ostrava,Sparta Prague,2,2,0.5
+2021-2022,Regular season,13,2021-10-31,Jablonec,FK Pardubice,1,1,0.5
+2021-2022,Regular season,13,2021-10-31,Mladá Boleslav,Hradec Králové,3,2,1.0
+2021-2022,Regular season,13,2021-10-31,Slavia Prague,Viktoria Plzeň,2,0,1.0
+2021-2022,Regular season,14,2021-11-06,Slovan Liberec,Bohemians 1905,2,1,1.0
+2021-2022,Regular season,14,2021-11-06,České Budĕjov.,Mladá Boleslav,2,1,1.0
+2021-2022,Regular season,14,2021-11-06,Hradec Králové,Baník Ostrava,1,1,0.5
+2021-2022,Regular season,14,2021-11-06,Viktoria Plzeň,Sigma Olomouc,0,0,0.5
+2021-2022,Regular season,14,2021-11-07,FK Pardubice,Slavia Prague,0,5,0.0
+2021-2022,Regular season,14,2021-11-07,Fastav Zlín,Jablonec,0,0,0.5
+2021-2022,Regular season,14,2021-11-07,Karviná,Slovácko,2,2,0.5
+2021-2022,Regular season,14,2021-11-07,Sparta Prague,Teplice,4,2,1.0
+2021-2022,Regular season,15,2021-11-20,Bohemians 1905,České Budĕjov.,3,1,1.0
+2021-2022,Regular season,15,2021-11-20,Sigma Olomouc,Hradec Králové,2,2,0.5
+2021-2022,Regular season,15,2021-11-20,Mladá Boleslav,Fastav Zlín,1,0,1.0
+2021-2022,Regular season,15,2021-11-20,Baník Ostrava,Viktoria Plzeň,2,2,0.5
+2021-2022,Regular season,15,2021-11-21,Slovácko,Sparta Prague,4,0,1.0
+2021-2022,Regular season,15,2021-11-21,Teplice,FK Pardubice,1,2,0.0
+2021-2022,Regular season,15,2021-11-21,Karviná,Slovan Liberec,1,2,0.0
+2021-2022,Regular season,15,2021-11-21,Slavia Prague,Jablonec,5,0,1.0
+2021-2022,Regular season,12,2021-11-24,Karviná,Baník Ostrava,1,2,0.0
+2021-2022,Regular season,16,2021-11-27,Fastav Zlín,Baník Ostrava,2,2,0.5
+2021-2022,Regular season,16,2021-11-27,FK Pardubice,Sigma Olomouc,1,5,0.0
+2021-2022,Regular season,16,2021-11-27,České Budĕjov.,Slovácko,3,2,1.0
+2021-2022,Regular season,16,2021-11-27,Viktoria Plzeň,Bohemians 1905,6,0,1.0
+2021-2022,Regular season,16,2021-11-28,Jablonec,Mladá Boleslav,0,1,0.0
+2021-2022,Regular season,16,2021-11-28,Slavia Prague,Teplice,3,0,1.0
+2021-2022,Regular season,16,2021-11-28,Hradec Králové,Karviná,1,0,1.0
+2021-2022,Regular season,16,2021-11-28,Sparta Prague,Slovan Liberec,2,1,1.0
+2021-2022,Regular season,13,2021-12-01,Bohemians 1905,Karviná,3,0,1.0
+2021-2022,Regular season,17,2021-12-04,Teplice,Fastav Zlín,4,1,1.0
+2021-2022,Regular season,17,2021-12-04,Karviná,Sparta Prague,1,2,0.0
+2021-2022,Regular season,17,2021-12-04,Slovan Liberec,Hradec Králové,1,0,1.0
+2021-2022,Regular season,17,2021-12-04,Sigma Olomouc,Slavia Prague,0,1,0.0
+2021-2022,Regular season,17,2021-12-05,Baník Ostrava,České Budĕjov.,4,1,1.0
+2021-2022,Regular season,17,2021-12-05,Mladá Boleslav,FK Pardubice,2,3,0.0
+2021-2022,Regular season,17,2021-12-05,Bohemians 1905,Jablonec,1,2,0.0
+2021-2022,Regular season,17,2021-12-05,Slovácko,Viktoria Plzeň,1,2,0.0
+2021-2022,Regular season,18,2021-12-11,Hradec Králové,Slovácko,2,2,0.5
+2021-2022,Regular season,18,2021-12-11,Fastav Zlín,Karviná,2,1,1.0
+2021-2022,Regular season,18,2021-12-11,FK Pardubice,Baník Ostrava,0,3,0.0
+2021-2022,Regular season,18,2021-12-11,Viktoria Plzeň,Slovan Liberec,2,0,1.0
+2021-2022,Regular season,18,2021-12-12,Jablonec,Teplice,0,2,0.0
+2021-2022,Regular season,18,2021-12-12,České Budĕjov.,Sigma Olomouc,2,1,1.0
+2021-2022,Regular season,18,2021-12-12,Slavia Prague,Mladá Boleslav,2,0,1.0
+2021-2022,Regular season,18,2021-12-12,Sparta Prague,Bohemians 1905,5,1,1.0
+2021-2022,Regular season,19,2021-12-18,Slovácko,Jablonec,2,1,1.0
+2021-2022,Regular season,19,2021-12-18,Bohemians 1905,FK Pardubice,1,2,0.0
+2021-2022,Regular season,19,2021-12-18,Karviná,Viktoria Plzeň,0,1,0.0
+2021-2022,Regular season,19,2021-12-18,Hradec Králové,Sparta Prague,0,1,0.0
+2021-2022,Regular season,19,2021-12-19,Teplice,Mladá Boleslav,0,1,0.0
+2021-2022,Regular season,19,2021-12-19,Sigma Olomouc,Fastav Zlín,1,1,0.5
+2021-2022,Regular season,19,2021-12-19,Slovan Liberec,České Budĕjov.,0,0,0.5
+2021-2022,Regular season,19,2021-12-19,Baník Ostrava,Slavia Prague,3,3,0.5
+2021-2022,Regular season,20,2022-02-05,Slavia Prague,Karviná,0,1,0.0
+2021-2022,Regular season,20,2022-02-05,Jablonec,Sigma Olomouc,1,0,1.0
+2021-2022,Regular season,20,2022-02-05,Teplice,Bohemians 1905,1,0,1.0
+2021-2022,Regular season,20,2022-02-05,České Budĕjov.,Sparta Prague,0,0,0.5
+2021-2022,Regular season,20,2022-02-06,Mladá Boleslav,Baník Ostrava,2,3,0.0
+2021-2022,Regular season,20,2022-02-06,Viktoria Plzeň,Hradec Králové,1,0,1.0
+2021-2022,Regular season,21,2022-02-12,Hradec Králové,České Budĕjov.,2,2,0.5
+2021-2022,Regular season,21,2022-02-12,Bohemians 1905,Fastav Zlín,1,0,1.0
+2021-2022,Regular season,21,2022-02-12,Baník Ostrava,Teplice,2,4,0.0
+2021-2022,Regular season,21,2022-02-13,Karviná,Jablonec,1,1,0.5
+2021-2022,Regular season,21,2022-02-13,Slovácko,Slavia Prague,0,1,0.0
+2021-2022,Regular season,21,2022-02-13,Sigma Olomouc,Mladá Boleslav,2,1,1.0
+2021-2022,Regular season,21,2022-02-13,Sparta Prague,Viktoria Plzeň,2,2,0.5
+2021-2022,Regular season,20,2022-02-15,Fastav Zlín,Slovan Liberec,2,0,1.0
+2021-2022,Regular season,22,2022-02-19,FK Pardubice,Hradec Králové,0,0,0.5
+2021-2022,Regular season,22,2022-02-19,Fastav Zlín,Slovácko,1,0,1.0
+2021-2022,Regular season,22,2022-02-19,Baník Ostrava,Sigma Olomouc,1,0,1.0
+2021-2022,Regular season,22,2022-02-19,České Budĕjov.,Viktoria Plzeň,0,1,0.0
+2021-2022,Regular season,22,2022-02-20,Teplice,Karviná,1,0,1.0
+2021-2022,Regular season,22,2022-02-20,Mladá Boleslav,Slovan Liberec,3,3,0.5
+2021-2022,Regular season,22,2022-02-20,Slavia Prague,Bohemians 1905,1,0,1.0
+2021-2022,Regular season,20,2022-02-22,FK Pardubice,Slovácko,0,0,0.5
+2021-2022,Regular season,23,2022-02-26,Bohemians 1905,Baník Ostrava,0,2,0.0
+2021-2022,Regular season,23,2022-02-26,Slovácko,Mladá Boleslav,2,1,1.0
+2021-2022,Regular season,23,2022-02-26,Slovan Liberec,Jablonec,1,1,0.5
+2021-2022,Regular season,23,2022-02-26,Viktoria Plzeň,FK Pardubice,4,0,1.0
+2021-2022,Regular season,23,2022-02-27,Karviná,České Budĕjov.,2,2,0.5
+2021-2022,Regular season,23,2022-02-27,Hradec Králové,Slavia Prague,1,5,0.0
+2021-2022,Regular season,23,2022-02-27,Sigma Olomouc,Teplice,0,0,0.5
+2021-2022,Regular season,23,2022-02-27,Sparta Prague,Fastav Zlín,2,0,1.0
+2021-2022,Regular season,24,2022-03-05,Fastav Zlín,Viktoria Plzeň,1,2,0.0
+2021-2022,Regular season,24,2022-03-05,Sigma Olomouc,Bohemians 1905,0,0,0.5
+2021-2022,Regular season,24,2022-03-05,FK Pardubice,České Budĕjov.,3,3,0.5
+2021-2022,Regular season,24,2022-03-05,Baník Ostrava,Slovan Liberec,1,1,0.5
+2021-2022,Regular season,24,2022-03-06,Mladá Boleslav,Karviná,1,0,1.0
+2021-2022,Regular season,24,2022-03-06,Teplice,Slovácko,0,1,0.0
+2021-2022,Regular season,24,2022-03-06,Jablonec,Hradec Králové,1,1,0.5
+2021-2022,Regular season,24,2022-03-06,Slavia Prague,Sparta Prague,2,0,1.0
+2021-2022,Regular season,21,2022-03-09,Slovan Liberec,FK Pardubice,4,1,1.0
+2021-2022,Regular season,22,2022-03-09,Jablonec,Sparta Prague,1,1,0.5
+2021-2022,Regular season,25,2022-03-12,Bohemians 1905,Mladá Boleslav,2,2,0.5
+2021-2022,Regular season,25,2022-03-12,Hradec Králové,Fastav Zlín,2,1,1.0
+2021-2022,Regular season,25,2022-03-12,Slovácko,Baník Ostrava,0,0,0.5
+2021-2022,Regular season,25,2022-03-12,Viktoria Plzeň,Teplice,1,0,1.0
+2021-2022,Regular season,25,2022-03-13,České Budĕjov.,Jablonec,2,0,1.0
+2021-2022,Regular season,25,2022-03-13,Karviná,Sigma Olomouc,1,2,0.0
+2021-2022,Regular season,25,2022-03-13,Slovan Liberec,Slavia Prague,1,0,1.0
+2021-2022,Regular season,25,2022-03-13,Sparta Prague,FK Pardubice,3,1,1.0
+2021-2022,Regular season,26,2022-03-19,Baník Ostrava,Karviná,1,3,0.0
+2021-2022,Regular season,26,2022-03-19,Bohemians 1905,Slovácko,1,2,0.0
+2021-2022,Regular season,26,2022-03-19,Fastav Zlín,FK Pardubice,4,1,1.0
+2021-2022,Regular season,26,2022-03-19,Jablonec,Viktoria Plzeň,0,0,0.5
+2021-2022,Regular season,26,2022-03-20,Sigma Olomouc,Slovan Liberec,1,0,1.0
+2021-2022,Regular season,26,2022-03-20,Mladá Boleslav,Sparta Prague,0,3,0.0
+2021-2022,Regular season,26,2022-03-20,Teplice,Hradec Králové,1,2,0.0
+2021-2022,Regular season,26,2022-03-20,Slavia Prague,České Budĕjov.,1,0,1.0
+2021-2022,Regular season,27,2022-04-02,České Budĕjov.,Fastav Zlín,2,2,0.5
+2021-2022,Regular season,27,2022-04-02,Slovan Liberec,Teplice,0,1,0.0
+2021-2022,Regular season,27,2022-04-02,Slovácko,Sigma Olomouc,1,0,1.0
+2021-2022,Regular season,27,2022-04-02,Sparta Prague,Baník Ostrava,2,1,1.0
+2021-2022,Regular season,27,2022-04-03,FK Pardubice,Jablonec,1,1,0.5
+2021-2022,Regular season,27,2022-04-03,Karviná,Bohemians 1905,1,1,0.5
+2021-2022,Regular season,27,2022-04-03,Hradec Králové,Mladá Boleslav,2,2,0.5
+2021-2022,Regular season,27,2022-04-03,Viktoria Plzeň,Slavia Prague,1,1,0.5
+2021-2022,Regular season,28,2022-04-09,Slovácko,Karviná,3,1,1.0
+2021-2022,Regular season,28,2022-04-09,Bohemians 1905,Slovan Liberec,0,0,0.5
+2021-2022,Regular season,28,2022-04-09,Sigma Olomouc,Viktoria Plzeň,1,1,0.5
+2021-2022,Regular season,28,2022-04-09,Teplice,Sparta Prague,0,3,0.0
+2021-2022,Regular season,28,2022-04-10,Baník Ostrava,Hradec Králové,0,0,0.5
+2021-2022,Regular season,28,2022-04-10,Mladá Boleslav,České Budĕjov.,2,0,1.0
+2021-2022,Regular season,28,2022-04-10,Jablonec,Fastav Zlín,1,1,0.5
+2021-2022,Regular season,28,2022-04-10,Slavia Prague,FK Pardubice,4,0,1.0
+2021-2022,Regular season,29,2022-04-17,FK Pardubice,Teplice,2,0,1.0
+2021-2022,Regular season,29,2022-04-17,Slovan Liberec,Karviná,2,1,1.0
+2021-2022,Regular season,29,2022-04-17,Sparta Prague,Slovácko,3,1,1.0
+2021-2022,Regular season,29,2022-04-17,Fastav Zlín,Mladá Boleslav,1,2,0.0
+2021-2022,Regular season,29,2022-04-17,Hradec Králové,Sigma Olomouc,3,0,1.0
+2021-2022,Regular season,29,2022-04-17,Jablonec,Slavia Prague,1,2,0.0
+2021-2022,Regular season,29,2022-04-17,Viktoria Plzeň,Baník Ostrava,2,1,1.0
+2021-2022,Regular season,29,2022-04-17,České Budĕjov.,Bohemians 1905,2,1,1.0
+2021-2022,Regular season,30,2022-04-20,Slovácko,Slovan Liberec,2,0,1.0
+2021-2022,Regular season,30,2022-04-20,Mladá Boleslav,Viktoria Plzeň,0,2,0.0
+2021-2022,Regular season,30,2022-04-20,Sigma Olomouc,Sparta Prague,2,0,1.0
+2021-2022,Regular season,30,2022-04-20,Baník Ostrava,Jablonec,1,0,1.0
+2021-2022,Regular season,30,2022-04-20,Bohemians 1905,Hradec Králové,1,1,0.5
+2021-2022,Regular season,30,2022-04-20,Teplice,České Budĕjov.,2,1,1.0
+2021-2022,Regular season,30,2022-04-20,Slavia Prague,Fastav Zlín,3,0,1.0
+2021-2022,Regular season,30,2022-04-20,Karviná,FK Pardubice,3,2,1.0
+2021-2022,Relegation round,1,2022-04-23,Karviná,Fastav Zlín,1,1,0.5
+2021-2022,Relegation round,1,2022-04-23,Jablonec,FK Pardubice,0,1,0.0
+2021-2022,Relegation round,1,2022-04-23,Teplice,Bohemians 1905,2,2,0.5
+2021-2022,Championship round,1,2022-04-23,Sparta Prague,Baník Ostrava,3,1,1.0
+2021-2022,Semi-finals,,2022-04-24,Sigma Olomouc,Slovan Liberec,1,0,1.0
+2021-2022,Semi-finals,,2022-04-24,České Budĕjov.,Mladá Boleslav,2,3,0.0
+2021-2022,Championship round,1,2022-04-24,Viktoria Plzeň,Slovácko,3,1,1.0
+2021-2022,Championship round,1,2022-04-24,Hradec Králové,Slavia Prague,4,3,1.0
+2021-2022,Semi-finals,,2022-04-30,Slovan Liberec,Sigma Olomouc,0,2,0.0
+2021-2022,Semi-finals,,2022-04-30,Mladá Boleslav,České Budĕjov.,1,0,1.0
+2021-2022,Championship round,2,2022-04-30,Slovácko,Baník Ostrava,3,1,1.0
+2021-2022,Championship round,2,2022-04-30,Sparta Prague,Hradec Králové,1,1,0.5
+2021-2022,Relegation round,2,2022-05-01,Jablonec,Karviná,2,0,1.0
+2021-2022,Relegation round,2,2022-05-01,Bohemians 1905,FK Pardubice,0,1,0.0
+2021-2022,Relegation round,2,2022-05-01,Fastav Zlín,Teplice,3,0,1.0
+2021-2022,Championship round,2,2022-05-01,Slavia Prague,Viktoria Plzeň,1,1,0.5
+2021-2022,Final,,2022-05-06,Sigma Olomouc,Mladá Boleslav,1,2,0.0
+2021-2022,Relegation round,3,2022-05-07,Teplice,Jablonec,0,1,0.0
+2021-2022,Relegation round,3,2022-05-07,Fastav Zlín,Bohemians 1905,1,4,0.0
+2021-2022,Relegation round,3,2022-05-07,FK Pardubice,Karviná,2,0,1.0
+2021-2022,Championship round,3,2022-05-07,Baník Ostrava,Hradec Králové,3,1,1.0
+2021-2022,Championship round,3,2022-05-08,Viktoria Plzeň,Sparta Prague,3,0,1.0
+2021-2022,Championship round,3,2022-05-08,Slavia Prague,Slovácko,3,0,1.0
+2021-2022,Relegation round,4,2022-05-10,Jablonec,Bohemians 1905,1,1,0.5
+2021-2022,Relegation round,4,2022-05-10,FK Pardubice,Fastav Zlín,1,1,0.5
+2021-2022,Relegation round,4,2022-05-10,Karviná,Teplice,2,2,0.5
+2021-2022,Championship round,4,2022-05-11,Hradec Králové,Viktoria Plzeň,0,2,0.0
+2021-2022,Championship round,4,2022-05-11,Baník Ostrava,Slavia Prague,1,1,0.5
+2021-2022,Championship round,4,2022-05-11,Sparta Prague,Slovácko,1,2,0.0
+2021-2022,Final,,2022-05-13,Mladá Boleslav,Sigma Olomouc,2,2,0.5
+2021-2022,Relegation round,5,2022-05-14,Teplice,FK Pardubice,0,2,0.0
+2021-2022,Relegation round,5,2022-05-14,Bohemians 1905,Karviná,4,0,1.0
+2021-2022,Relegation round,5,2022-05-14,Fastav Zlín,Jablonec,1,1,0.5
+2021-2022,Championship round,5,2022-05-15,Viktoria Plzeň,Baník Ostrava,1,0,1.0
+2021-2022,Championship round,5,2022-05-15,Slovácko,Hradec Králové,3,0,1.0
+2021-2022,Championship round,5,2022-05-15,Slavia Prague,Sparta Prague,1,2,0.0
+2021-2022,Czech 1/2 Relegation/Promotion Playoffs,,2022-05-19,Teplice,FC Graffin Vlašim,3,0,1.0
+2021-2022,Czech 1/2 Relegation/Promotion Playoffs,,2022-05-19,Opava,Bohemians 1905,0,1,0.0
+2021-2022,Czech 1/2 Relegation/Promotion Playoffs,,2022-05-22,FC Graffin Vlašim,Teplice,2,2,0.5
+2021-2022,Czech 1/2 Relegation/Promotion Playoffs,,2022-05-22,Bohemians 1905,Opava,2,0,1.0

@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2004-2005,1,2004-08-06,Werder Bremen,Schalke 04,1,0,1.0
+2004-2005,1,2004-08-07,Freiburg,Hansa Rostock,0,0,0.5
+2004-2005,1,2004-08-07,Hamburger SV,Bayern Munich,0,2,0.0
+2004-2005,1,2004-08-07,Leverkusen,Hannover 96,2,1,1.0
+2004-2005,1,2004-08-07,Dortmund,Wolfsburg,1,2,0.0
+2004-2005,1,2004-08-07,Hertha BSC,Bochum,2,2,0.5
+2004-2005,1,2004-08-07,Kaiserslautern,Nürnberg,1,3,0.0
+2004-2005,1,2004-08-08,Stuttgart,Mainz 05,4,2,1.0
+2004-2005,1,2004-08-08,Arminia,Gladbach,0,0,0.5
+2004-2005,2,2004-08-14,Mainz 05,Hamburger SV,2,1,1.0
+2004-2005,2,2004-08-14,Nürnberg,Stuttgart,1,1,0.5
+2004-2005,2,2004-08-14,Schalke 04,Kaiserslautern,2,1,1.0
+2004-2005,2,2004-08-14,Bayern Munich,Hertha BSC,1,1,0.5
+2004-2005,2,2004-08-14,Gladbach,Dortmund,2,3,0.0
+2004-2005,2,2004-08-14,Hansa Rostock,Werder Bremen,0,4,0.0
+2004-2005,2,2004-08-15,Bochum,Leverkusen,2,2,0.5
+2004-2005,2,2004-08-15,Wolfsburg,Freiburg,0,1,0.0
+2004-2005,3,2004-08-28,Freiburg,Gladbach,1,1,0.5
+2004-2005,3,2004-08-28,Arminia,Bochum,1,2,0.0
+2004-2005,3,2004-08-28,Hertha BSC,Mainz 05,1,1,0.5
+2004-2005,3,2004-08-28,Leverkusen,Bayern Munich,4,1,1.0
+2004-2005,3,2004-08-28,Kaiserslautern,Stuttgart,2,3,0.0
+2004-2005,3,2004-08-28,Hamburger SV,Nürnberg,4,3,1.0
+2004-2005,3,2004-08-28,Schalke 04,Hansa Rostock,0,2,0.0
+2004-2005,3,2004-08-29,Werder Bremen,Wolfsburg,1,2,0.0
+2004-2005,3,2004-08-29,Dortmund,Hannover 96,1,1,0.5
+2004-2005,4,2004-09-11,Nürnberg,Hertha BSC,0,0,0.5
+2004-2005,4,2004-09-11,Stuttgart,Hamburger SV,2,0,1.0
+2004-2005,4,2004-09-11,Wolfsburg,Schalke 04,3,0,1.0
+2004-2005,4,2004-09-11,Bochum,Dortmund,2,2,0.5
+2004-2005,4,2004-09-11,Bayern Munich,Arminia,1,0,1.0
+2004-2005,4,2004-09-11,Gladbach,Werder Bremen,3,1,1.0
+2004-2005,4,2004-09-11,Mainz 05,Leverkusen,2,0,1.0
+2004-2005,4,2004-09-12,Hannover 96,Freiburg,2,2,0.5
+2004-2005,4,2004-09-12,Hansa Rostock,Kaiserslautern,2,3,0.0
+2004-2005,5,2004-09-18,Schalke 04,Gladbach,3,2,1.0
+2004-2005,5,2004-09-18,Hansa Rostock,Wolfsburg,1,2,0.0
+2004-2005,5,2004-09-18,Dortmund,Bayern Munich,2,2,0.5
+2004-2005,5,2004-09-18,Leverkusen,Nürnberg,2,2,0.5
+2004-2005,5,2004-09-18,Arminia,Mainz 05,1,1,0.5
+2004-2005,5,2004-09-18,Kaiserslautern,Hamburger SV,2,1,1.0
+2004-2005,5,2004-09-18,Werder Bremen,Hannover 96,3,0,1.0
+2004-2005,5,2004-09-19,Hertha BSC,Stuttgart,0,0,0.5
+2004-2005,5,2004-09-19,Freiburg,Bochum,1,1,0.5
+2004-2005,6,2004-09-25,Bochum,Werder Bremen,1,4,0.0
+2004-2005,6,2004-09-25,Gladbach,Hansa Rostock,2,2,0.5
+2004-2005,6,2004-09-25,Hannover 96,Schalke 04,1,0,1.0
+2004-2005,6,2004-09-25,Nürnberg,Arminia,1,2,0.0
+2004-2005,6,2004-09-25,Stuttgart,Leverkusen,3,0,1.0
+2004-2005,6,2004-09-25,Bayern Munich,Freiburg,3,1,1.0
+2004-2005,6,2004-09-25,Wolfsburg,Kaiserslautern,2,1,1.0
+2004-2005,6,2004-09-26,Mainz 05,Dortmund,1,1,0.5
+2004-2005,6,2004-09-26,Hamburger SV,Hertha BSC,2,1,1.0
+2004-2005,2,2004-09-28,Hannover 96,Arminia,0,1,0.0
+2004-2005,7,2004-10-02,Werder Bremen,Bayern Munich,1,2,0.0
+2004-2005,7,2004-10-02,Hansa Rostock,Hannover 96,1,3,0.0
+2004-2005,7,2004-10-02,Kaiserslautern,Hertha BSC,0,2,0.0
+2004-2005,7,2004-10-02,Leverkusen,Hamburger SV,3,0,1.0
+2004-2005,7,2004-10-02,Freiburg,Mainz 05,1,2,0.0
+2004-2005,7,2004-10-02,Wolfsburg,Gladbach,2,1,1.0
+2004-2005,7,2004-10-02,Dortmund,Nürnberg,2,2,0.5
+2004-2005,7,2004-10-03,Arminia,Stuttgart,0,2,0.0
+2004-2005,7,2004-10-03,Schalke 04,Bochum,3,2,1.0
+2004-2005,8,2004-10-16,Bayern Munich,Schalke 04,0,1,0.0
+2004-2005,8,2004-10-16,Mainz 05,Werder Bremen,2,1,1.0
+2004-2005,8,2004-10-16,Hertha BSC,Leverkusen,3,1,1.0
+2004-2005,8,2004-10-16,Bochum,Hansa Rostock,0,1,0.0
+2004-2005,8,2004-10-16,Hamburger SV,Arminia,0,2,0.0
+2004-2005,8,2004-10-16,Stuttgart,Dortmund,2,0,1.0
+2004-2005,8,2004-10-16,Nürnberg,Freiburg,3,0,1.0
+2004-2005,8,2004-10-17,Hannover 96,Wolfsburg,3,0,1.0
+2004-2005,8,2004-10-17,Gladbach,Kaiserslautern,2,0,1.0
+2004-2005,9,2004-10-23,Kaiserslautern,Leverkusen,0,0,0.5
+2004-2005,9,2004-10-23,Arminia,Hertha BSC,1,0,1.0
+2004-2005,9,2004-10-23,Werder Bremen,Nürnberg,4,1,1.0
+2004-2005,9,2004-10-23,Wolfsburg,Bochum,3,0,1.0
+2004-2005,9,2004-10-23,Gladbach,Hannover 96,0,2,0.0
+2004-2005,9,2004-10-23,Dortmund,Hamburger SV,0,2,0.0
+2004-2005,9,2004-10-23,Hansa Rostock,Bayern Munich,0,2,0.0
+2004-2005,9,2004-10-24,Freiburg,Stuttgart,2,0,1.0
+2004-2005,9,2004-10-24,Schalke 04,Mainz 05,2,1,1.0
+2004-2005,10,2004-10-26,Bayern Munich,Wolfsburg,2,0,1.0
+2004-2005,10,2004-10-26,Hannover 96,Kaiserslautern,3,1,1.0
+2004-2005,10,2004-10-26,Hertha BSC,Dortmund,0,1,0.0
+2004-2005,10,2004-10-26,Bochum,Gladbach,3,0,1.0
+2004-2005,10,2004-10-27,Hamburger SV,Freiburg,4,0,1.0
+2004-2005,10,2004-10-27,Stuttgart,Werder Bremen,1,2,0.0
+2004-2005,10,2004-10-27,Mainz 05,Hansa Rostock,3,1,1.0
+2004-2005,10,2004-10-27,Leverkusen,Arminia,3,2,1.0
+2004-2005,10,2004-10-27,Nürnberg,Schalke 04,0,2,0.0
+2004-2005,11,2004-10-30,Freiburg,Hertha BSC,1,3,0.0
+2004-2005,11,2004-10-30,Gladbach,Bayern Munich,2,0,1.0
+2004-2005,11,2004-10-30,Wolfsburg,Mainz 05,4,3,1.0
+2004-2005,11,2004-10-30,Schalke 04,Stuttgart,3,2,1.0
+2004-2005,11,2004-10-30,Hannover 96,Bochum,3,0,1.0
+2004-2005,11,2004-10-30,Werder Bremen,Hamburger SV,1,1,0.5
+2004-2005,11,2004-10-30,Dortmund,Leverkusen,1,0,1.0
+2004-2005,11,2004-10-31,Kaiserslautern,Arminia,2,1,1.0
+2004-2005,11,2004-10-31,Hansa Rostock,Nürnberg,0,2,0.0
+2004-2005,12,2004-11-06,Nürnberg,Wolfsburg,4,0,1.0
+2004-2005,12,2004-11-06,Leverkusen,Freiburg,4,1,1.0
+2004-2005,12,2004-11-06,Arminia,Dortmund,1,0,1.0
+2004-2005,12,2004-11-06,Bayern Munich,Hannover 96,3,0,1.0
+2004-2005,12,2004-11-06,Hertha BSC,Werder Bremen,1,1,0.5
+2004-2005,12,2004-11-06,Bochum,Kaiserslautern,1,1,0.5
+2004-2005,12,2004-11-06,Mainz 05,Gladbach,1,1,0.5
+2004-2005,12,2004-11-07,Stuttgart,Hansa Rostock,4,0,1.0
+2004-2005,12,2004-11-07,Hamburger SV,Schalke 04,1,2,0.0
+2004-2005,13,2004-11-13,Wolfsburg,Stuttgart,3,0,1.0
+2004-2005,13,2004-11-13,Schalke 04,Hertha BSC,1,3,0.0
+2004-2005,13,2004-11-13,Freiburg,Arminia,2,3,0.0
+2004-2005,13,2004-11-13,Kaiserslautern,Dortmund,1,0,1.0
+2004-2005,13,2004-11-13,Werder Bremen,Leverkusen,2,2,0.5
+2004-2005,13,2004-11-13,Hannover 96,Mainz 05,2,0,1.0
+2004-2005,13,2004-11-13,Gladbach,Nürnberg,2,1,1.0
+2004-2005,13,2004-11-14,Hansa Rostock,Hamburger SV,0,6,0.0
+2004-2005,13,2004-11-14,Bochum,Bayern Munich,1,3,0.0
+2004-2005,14,2004-11-20,Mainz 05,Bochum,1,0,1.0
+2004-2005,14,2004-11-20,Arminia,Werder Bremen,2,1,1.0
+2004-2005,14,2004-11-20,Dortmund,Freiburg,2,0,1.0
+2004-2005,14,2004-11-20,Hertha BSC,Hansa Rostock,1,1,0.5
+2004-2005,14,2004-11-20,Stuttgart,Gladbach,1,0,1.0
+2004-2005,14,2004-11-20,Leverkusen,Schalke 04,0,3,0.0
+2004-2005,14,2004-11-20,Bayern Munich,Kaiserslautern,3,1,1.0
+2004-2005,14,2004-11-21,Hamburger SV,Wolfsburg,3,1,1.0
+2004-2005,14,2004-11-21,Nürnberg,Hannover 96,1,1,0.5
+2004-2005,15,2004-11-27,Wolfsburg,Hertha BSC,2,3,0.0
+2004-2005,15,2004-11-27,Bochum,Nürnberg,3,1,1.0
+2004-2005,15,2004-11-27,Bayern Munich,Mainz 05,4,2,1.0
+2004-2005,15,2004-11-27,Gladbach,Hamburger SV,1,3,0.0
+2004-2005,15,2004-11-27,Hansa Rostock,Leverkusen,0,2,0.0
+2004-2005,15,2004-11-27,Werder Bremen,Dortmund,2,0,1.0
+2004-2005,15,2004-11-27,Kaiserslautern,Freiburg,3,0,1.0
+2004-2005,15,2004-11-28,Hannover 96,Stuttgart,0,0,0.5
+2004-2005,15,2004-11-28,Schalke 04,Arminia,2,1,1.0
+2004-2005,16,2004-12-04,Leverkusen,Wolfsburg,2,1,1.0
+2004-2005,16,2004-12-04,Stuttgart,Bochum,5,2,1.0
+2004-2005,16,2004-12-04,Hamburger SV,Hannover 96,0,2,0.0
+2004-2005,16,2004-12-04,Freiburg,Werder Bremen,0,6,0.0
+2004-2005,16,2004-12-04,Nürnberg,Bayern Munich,2,2,0.5
+2004-2005,16,2004-12-04,Hertha BSC,Gladbach,6,0,1.0
+2004-2005,16,2004-12-04,Arminia,Hansa Rostock,1,1,0.5
+2004-2005,16,2004-12-05,Dortmund,Schalke 04,0,1,0.0
+2004-2005,16,2004-12-05,Kaiserslautern,Mainz 05,2,0,1.0
+2004-2005,17,2004-12-11,Schalke 04,Freiburg,1,1,0.5
+2004-2005,17,2004-12-11,Mainz 05,Nürnberg,0,1,0.0
+2004-2005,17,2004-12-11,Bayern Munich,Stuttgart,2,2,0.5
+2004-2005,17,2004-12-11,Hannover 96,Hertha BSC,0,1,0.0
+2004-2005,17,2004-12-11,Hansa Rostock,Dortmund,1,1,0.5
+2004-2005,17,2004-12-11,Werder Bremen,Kaiserslautern,1,1,0.5
+2004-2005,17,2004-12-11,Bochum,Hamburger SV,1,2,0.0
+2004-2005,17,2004-12-12,Gladbach,Leverkusen,1,1,0.5
+2004-2005,17,2004-12-12,Wolfsburg,Arminia,5,0,1.0
+2004-2005,18,2005-01-21,Bayern Munich,Hamburger SV,3,0,1.0
+2004-2005,18,2005-01-22,Hansa Rostock,Freiburg,0,0,0.5
+2004-2005,18,2005-01-22,Mainz 05,Stuttgart,2,3,0.0
+2004-2005,18,2005-01-22,Schalke 04,Werder Bremen,2,1,1.0
+2004-2005,18,2005-01-22,Nürnberg,Kaiserslautern,1,3,0.0
+2004-2005,18,2005-01-22,Wolfsburg,Dortmund,1,2,0.0
+2004-2005,18,2005-01-22,Gladbach,Arminia,1,0,1.0
+2004-2005,18,2005-01-23,Hannover 96,Leverkusen,0,3,0.0
+2004-2005,18,2005-01-23,Bochum,Hertha BSC,2,2,0.5
+2004-2005,19,2005-01-29,Arminia,Hannover 96,0,1,0.0
+2004-2005,19,2005-01-29,Stuttgart,Nürnberg,2,4,0.0
+2004-2005,19,2005-01-29,Kaiserslautern,Schalke 04,2,0,1.0
+2004-2005,19,2005-01-29,Hamburger SV,Mainz 05,2,1,1.0
+2004-2005,19,2005-01-29,Leverkusen,Bochum,4,0,1.0
+2004-2005,19,2005-01-29,Dortmund,Gladbach,1,1,0.5
+2004-2005,19,2005-01-29,Freiburg,Wolfsburg,1,0,1.0
+2004-2005,19,2005-01-30,Werder Bremen,Hansa Rostock,3,2,1.0
+2004-2005,19,2005-01-30,Hertha BSC,Bayern Munich,0,0,0.5
+2004-2005,20,2005-02-05,Hannover 96,Dortmund,1,3,0.0
+2004-2005,20,2005-02-05,Bayern Munich,Leverkusen,2,0,1.0
+2004-2005,20,2005-02-05,Nürnberg,Hamburger SV,1,3,0.0
+2004-2005,20,2005-02-05,Hansa Rostock,Schalke 04,2,2,0.5
+2004-2005,20,2005-02-05,Stuttgart,Kaiserslautern,1,1,0.5
+2004-2005,20,2005-02-05,Mainz 05,Hertha BSC,0,3,0.0
+2004-2005,20,2005-02-05,Bochum,Arminia,1,1,0.5
+2004-2005,20,2005-02-06,Wolfsburg,Werder Bremen,2,3,0.0
+2004-2005,20,2005-02-06,Gladbach,Freiburg,3,2,1.0
+2004-2005,21,2005-02-12,Hertha BSC,Nürnberg,2,1,1.0
+2004-2005,21,2005-02-12,Freiburg,Hannover 96,0,0,0.5
+2004-2005,21,2005-02-12,Kaiserslautern,Hansa Rostock,2,1,1.0
+2004-2005,21,2005-02-12,Schalke 04,Wolfsburg,3,0,1.0
+2004-2005,21,2005-02-12,Werder Bremen,Gladbach,2,0,1.0
+2004-2005,21,2005-02-12,Dortmund,Bochum,1,0,1.0
+2004-2005,21,2005-02-12,Hamburger SV,Stuttgart,2,1,1.0
+2004-2005,21,2005-02-13,Arminia,Bayern Munich,3,1,1.0
+2004-2005,21,2005-02-13,Leverkusen,Mainz 05,2,0,1.0
+2004-2005,22,2005-02-19,Hannover 96,Werder Bremen,1,4,0.0
+2004-2005,22,2005-02-19,Bochum,Freiburg,3,1,1.0
+2004-2005,22,2005-02-19,Nürnberg,Leverkusen,2,4,0.0
+2004-2005,22,2005-02-19,Bayern Munich,Dortmund,5,0,1.0
+2004-2005,22,2005-02-19,Wolfsburg,Hansa Rostock,4,0,1.0
+2004-2005,22,2005-02-19,Hamburger SV,Kaiserslautern,2,1,1.0
+2004-2005,22,2005-02-19,Mainz 05,Arminia,0,0,0.5
+2004-2005,22,2005-02-20,Gladbach,Schalke 04,1,3,0.0
+2004-2005,22,2005-02-20,Stuttgart,Hertha BSC,1,0,1.0
+2004-2005,23,2005-02-26,Dortmund,Mainz 05,3,0,1.0
+2004-2005,23,2005-02-26,Werder Bremen,Bochum,4,0,1.0
+2004-2005,23,2005-02-26,Freiburg,Bayern Munich,0,1,0.0
+2004-2005,23,2005-02-26,Hansa Rostock,Gladbach,0,0,0.5
+2004-2005,23,2005-02-26,Arminia,Nürnberg,3,1,1.0
+2004-2005,23,2005-02-26,Kaiserslautern,Wolfsburg,0,0,0.5
+2004-2005,23,2005-02-26,Hertha BSC,Hamburger SV,4,1,1.0
+2004-2005,23,2005-02-27,Schalke 04,Hannover 96,1,0,1.0
+2004-2005,23,2005-02-27,Leverkusen,Stuttgart,1,1,0.5
+2004-2005,24,2005-03-05,Bayern Munich,Werder Bremen,1,0,1.0
+2004-2005,24,2005-03-05,Bochum,Schalke 04,0,2,0.0
+2004-2005,24,2005-03-05,Hannover 96,Hansa Rostock,0,1,0.0
+2004-2005,24,2005-03-05,Mainz 05,Freiburg,5,0,1.0
+2004-2005,24,2005-03-05,Gladbach,Wolfsburg,1,0,1.0
+2004-2005,24,2005-03-05,Stuttgart,Arminia,2,1,1.0
+2004-2005,24,2005-03-05,Hamburger SV,Leverkusen,1,0,1.0
+2004-2005,24,2005-03-06,Nürnberg,Dortmund,2,2,0.5
+2004-2005,24,2005-03-06,Hertha BSC,Kaiserslautern,1,1,0.5
+2004-2005,25,2005-03-12,Werder Bremen,Mainz 05,0,0,0.5
+2004-2005,25,2005-03-12,Freiburg,Nürnberg,2,3,0.0
+2004-2005,25,2005-03-12,Wolfsburg,Hannover 96,1,0,1.0
+2004-2005,25,2005-03-12,Kaiserslautern,Gladbach,1,0,1.0
+2004-2005,25,2005-03-12,Hansa Rostock,Bochum,3,1,1.0
+2004-2005,25,2005-03-12,Leverkusen,Hertha BSC,3,3,0.5
+2004-2005,25,2005-03-12,Arminia,Hamburger SV,3,4,0.0
+2004-2005,25,2005-03-13,Dortmund,Stuttgart,0,2,0.0
+2004-2005,25,2005-03-13,Schalke 04,Bayern Munich,1,0,1.0
+2004-2005,26,2005-03-19,Hertha BSC,Arminia,3,0,1.0
+2004-2005,26,2005-03-19,Hannover 96,Gladbach,2,1,1.0
+2004-2005,26,2005-03-19,Leverkusen,Kaiserslautern,2,0,1.0
+2004-2005,26,2005-03-19,Bochum,Wolfsburg,5,1,1.0
+2004-2005,26,2005-03-19,Nürnberg,Werder Bremen,1,2,0.0
+2004-2005,26,2005-03-19,Bayern Munich,Hansa Rostock,3,1,1.0
+2004-2005,26,2005-03-19,Hamburger SV,Dortmund,2,3,0.0
+2004-2005,26,2005-03-20,Stuttgart,Freiburg,1,0,1.0
+2004-2005,26,2005-03-20,Mainz 05,Schalke 04,2,1,1.0
+2004-2005,27,2005-04-02,Hansa Rostock,Mainz 05,2,0,1.0
+2004-2005,27,2005-04-02,Werder Bremen,Stuttgart,1,2,0.0
+2004-2005,27,2005-04-02,Wolfsburg,Bayern Munich,0,3,0.0
+2004-2005,27,2005-04-02,Kaiserslautern,Hannover 96,0,2,0.0
+2004-2005,27,2005-04-02,Arminia,Leverkusen,1,0,1.0
+2004-2005,27,2005-04-02,Schalke 04,Nürnberg,4,1,1.0
+2004-2005,27,2005-04-02,Freiburg,Hamburger SV,1,1,0.5
+2004-2005,27,2005-04-03,Gladbach,Bochum,2,2,0.5
+2004-2005,27,2005-04-03,Dortmund,Hertha BSC,2,1,1.0
+2004-2005,28,2005-04-09,Bochum,Hannover 96,1,0,1.0
+2004-2005,28,2005-04-09,Stuttgart,Schalke 04,3,0,1.0
+2004-2005,28,2005-04-09,Mainz 05,Wolfsburg,0,2,0.0
+2004-2005,28,2005-04-09,Bayern Munich,Gladbach,2,1,1.0
+2004-2005,28,2005-04-09,Hertha BSC,Freiburg,3,1,1.0
+2004-2005,28,2005-04-09,Leverkusen,Dortmund,0,1,0.0
+2004-2005,28,2005-04-09,Hamburger SV,Werder Bremen,1,2,0.0
+2004-2005,28,2005-04-10,Nürnberg,Hansa Rostock,3,0,1.0
+2004-2005,28,2005-04-10,Arminia,Kaiserslautern,0,2,0.0
+2004-2005,29,2005-04-16,Gladbach,Mainz 05,1,1,0.5
+2004-2005,29,2005-04-16,Schalke 04,Hamburger SV,1,2,0.0
+2004-2005,29,2005-04-16,Freiburg,Leverkusen,1,3,0.0
+2004-2005,29,2005-04-16,Hannover 96,Bayern Munich,0,1,0.0
+2004-2005,29,2005-04-16,Hansa Rostock,Stuttgart,2,1,1.0
+2004-2005,29,2005-04-16,Werder Bremen,Hertha BSC,0,1,0.0
+2004-2005,29,2005-04-16,Dortmund,Arminia,1,1,0.5
+2004-2005,29,2005-04-17,Wolfsburg,Nürnberg,0,1,0.0
+2004-2005,29,2005-04-17,Kaiserslautern,Bochum,1,2,0.0
+2004-2005,30,2005-04-23,Mainz 05,Hannover 96,2,0,1.0
+2004-2005,30,2005-04-23,Hertha BSC,Schalke 04,4,1,1.0
+2004-2005,30,2005-04-23,Stuttgart,Wolfsburg,0,0,0.5
+2004-2005,30,2005-04-23,Bayern Munich,Bochum,3,1,1.0
+2004-2005,30,2005-04-23,Dortmund,Kaiserslautern,4,2,1.0
+2004-2005,30,2005-04-23,Arminia,Freiburg,3,1,1.0
+2004-2005,30,2005-04-23,Hamburger SV,Hansa Rostock,3,0,1.0
+2004-2005,30,2005-04-24,Nürnberg,Gladbach,0,0,0.5
+2004-2005,30,2005-04-24,Leverkusen,Werder Bremen,2,1,1.0
+2004-2005,31,2005-04-30,Werder Bremen,Arminia,3,0,1.0
+2004-2005,31,2005-04-30,Freiburg,Dortmund,2,2,0.5
+2004-2005,31,2005-04-30,Bochum,Mainz 05,2,6,0.0
+2004-2005,31,2005-04-30,Schalke 04,Leverkusen,3,3,0.5
+2004-2005,31,2005-04-30,Kaiserslautern,Bayern Munich,0,4,0.0
+2004-2005,31,2005-04-30,Gladbach,Stuttgart,2,0,1.0
+2004-2005,31,2005-04-30,Hansa Rostock,Hertha BSC,2,1,1.0
+2004-2005,31,2005-05-01,Wolfsburg,Hamburger SV,1,0,1.0
+2004-2005,31,2005-05-01,Hannover 96,Nürnberg,1,0,1.0
+2004-2005,32,2005-05-07,Hertha BSC,Wolfsburg,3,1,1.0
+2004-2005,32,2005-05-07,Freiburg,Kaiserslautern,1,2,0.0
+2004-2005,32,2005-05-07,Stuttgart,Hannover 96,1,0,1.0
+2004-2005,32,2005-05-07,Nürnberg,Bochum,2,1,1.0
+2004-2005,32,2005-05-07,Arminia,Schalke 04,0,2,0.0
+2004-2005,32,2005-05-07,Leverkusen,Hansa Rostock,3,0,1.0
+2004-2005,32,2005-05-07,Mainz 05,Bayern Munich,2,4,0.0
+2004-2005,32,2005-05-08,Hamburger SV,Gladbach,0,0,0.5
+2004-2005,32,2005-05-08,Dortmund,Werder Bremen,1,0,1.0
+2004-2005,33,2005-05-14,Mainz 05,Kaiserslautern,3,2,1.0
+2004-2005,33,2005-05-14,Bochum,Stuttgart,2,0,1.0
+2004-2005,33,2005-05-14,Werder Bremen,Freiburg,4,1,1.0
+2004-2005,33,2005-05-14,Hansa Rostock,Arminia,1,1,0.5
+2004-2005,33,2005-05-14,Bayern Munich,Nürnberg,6,3,1.0
+2004-2005,33,2005-05-14,Gladbach,Hertha BSC,0,0,0.5
+2004-2005,33,2005-05-14,Schalke 04,Dortmund,1,2,0.0
+2004-2005,33,2005-05-14,Wolfsburg,Leverkusen,2,2,0.5
+2004-2005,33,2005-05-14,Hannover 96,Hamburger SV,2,1,1.0
+2004-2005,34,2005-05-21,Kaiserslautern,Werder Bremen,1,2,0.0
+2004-2005,34,2005-05-21,Nürnberg,Mainz 05,1,2,0.0
+2004-2005,34,2005-05-21,Hamburger SV,Bochum,0,1,0.0
+2004-2005,34,2005-05-21,Leverkusen,Gladbach,5,1,1.0
+2004-2005,34,2005-05-21,Arminia,Wolfsburg,1,2,0.0
+2004-2005,34,2005-05-21,Hertha BSC,Hannover 96,0,0,0.5
+2004-2005,34,2005-05-21,Freiburg,Schalke 04,2,3,0.0
+2004-2005,34,2005-05-21,Stuttgart,Bayern Munich,1,3,0.0
+2004-2005,34,2005-05-21,Dortmund,Hansa Rostock,2,1,1.0

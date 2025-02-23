@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-07-19,Radnički Kragujevac,FK Železničar Pančevo,2.0,3.0,0.0
+2024-2025,1,2024-07-19,Napredak Kruš,Partizan,0.0,1.0,0.0
+2024-2025,1,2024-07-20,Čukarički,Radnički Niš,2.0,0.0,1.0
+2024-2025,1,2024-07-20,Mladost Lučani,OFK Beograd,1.0,2.0,0.0
+2024-2025,1,2024-07-20,Red Star,FK Jedinstvo Ub,4.0,0.0,1.0
+2024-2025,1,2024-07-21,Novi Pazar,Spartak Subotic,3.0,2.0,1.0
+2024-2025,1,2024-07-21,Tekstilac Odžaci,Vojvodina,1.0,3.0,0.0
+2024-2025,1,2024-07-21,TSC Bačka Top,FK IMT Novi Beograd,1.0,0.0,1.0
+2024-2025,2,2024-07-27,FK Jedinstvo Ub,Partizan,0.0,4.0,0.0
+2024-2025,2,2024-07-27,Red Star,Mladost Lučani,2.0,2.0,0.5
+2024-2025,2,2024-07-27,FK Železničar Pančevo,Napredak Kruš,1.0,1.0,0.5
+2024-2025,2,2024-07-28,Radnički Niš,TSC Bačka Top,1.0,0.0,1.0
+2024-2025,2,2024-07-28,Spartak Subotic,Čukarički,1.0,1.0,0.5
+2024-2025,2,2024-07-29,OFK Beograd,Tekstilac Odžaci,1.0,0.0,1.0
+2024-2025,3,2024-08-02,Napredak Kruš,FK IMT Novi Beograd,1.0,1.0,0.5
+2024-2025,3,2024-08-03,Novi Pazar,OFK Beograd,0.0,0.0,0.5
+2024-2025,3,2024-08-03,Tekstilac Odžaci,Red Star,0.0,4.0,0.0
+2024-2025,3,2024-08-03,Mladost Lučani,FK Jedinstvo Ub,2.0,1.0,1.0
+2024-2025,3,2024-08-04,TSC Bačka Top,Spartak Subotic,0.0,0.0,0.5
+2024-2025,3,2024-08-04,Čukarički,Vojvodina,3.0,1.0,1.0
+2024-2025,3,2024-08-04,Partizan,FK Železničar Pančevo,2.0,0.0,1.0
+2024-2025,3,2024-08-04,Radnički Kragujevac,Radnički Niš,4.0,0.0,1.0
+2024-2025,4,2024-08-09,OFK Beograd,Čukarički,1.0,2.0,0.0
+2024-2025,4,2024-08-09,Radnički Niš,Napredak Kruš,3.0,1.0,1.0
+2024-2025,4,2024-08-10,Spartak Subotic,Radnički Kragujevac,1.0,0.0,1.0
+2024-2025,4,2024-08-10,Mladost Lučani,Tekstilac Odžaci,1.0,2.0,0.0
+2024-2025,4,2024-08-10,Red Star,Novi Pazar,4.0,1.0,1.0
+2024-2025,4,2024-08-11,FK Jedinstvo Ub,FK Železničar Pančevo,0.0,1.0,0.0
+2024-2025,4,2024-08-11,Vojvodina,TSC Bačka Top,1.0,3.0,0.0
+2024-2025,4,2024-08-11,FK IMT Novi Beograd,Partizan,0.0,0.0,0.5
+2024-2025,5,2024-08-15,Čukarički,Red Star,1.0,4.0,0.0
+2024-2025,5,2024-08-16,TSC Bačka Top,OFK Beograd,0.0,1.0,0.0
+2024-2025,5,2024-08-17,Novi Pazar,Mladost Lučani,0.0,1.0,0.0
+2024-2025,5,2024-08-17,Napredak Kruš,Spartak Subotic,2.0,0.0,1.0
+2024-2025,5,2024-08-17,Tekstilac Odžaci,FK Jedinstvo Ub,1.0,1.0,0.5
+2024-2025,5,2024-08-18,FK Železničar Pančevo,FK IMT Novi Beograd,2.0,1.0,1.0
+2024-2025,5,2024-08-19,Radnički Kragujevac,Vojvodina,2.0,2.0,0.5
+2024-2025,6,2024-08-23,Mladost Lučani,Čukarički,3.0,1.0,1.0
+2024-2025,6,2024-08-24,Radnički Niš,FK Železničar Pančevo,2.0,1.0,1.0
+2024-2025,6,2024-08-24,Tekstilac Odžaci,Novi Pazar,2.0,1.0,1.0
+2024-2025,6,2024-08-24,FK Jedinstvo Ub,FK IMT Novi Beograd,2.0,3.0,0.0
+2024-2025,6,2024-08-25,OFK Beograd,Radnički Kragujevac,3.0,5.0,0.0
+2024-2025,6,2024-08-25,Vojvodina,Napredak Kruš,1.0,2.0,0.0
+2024-2025,7,2024-08-30,FK IMT Novi Beograd,Radnički Niš,3.0,1.0,1.0
+2024-2025,7,2024-08-30,Čukarički,Tekstilac Odžaci,3.0,0.0,1.0
+2024-2025,7,2024-08-31,Novi Pazar,FK Jedinstvo Ub,3.0,1.0,1.0
+2024-2025,7,2024-08-31,Napredak Kruš,OFK Beograd,1.0,3.0,0.0
+2024-2025,7,2024-08-31,FK Železničar Pančevo,Spartak Subotic,2.0,0.0,1.0
+2024-2025,7,2024-09-01,Radnički Kragujevac,Red Star,0.0,1.0,0.0
+2024-2025,7,2024-09-01,TSC Bačka Top,Mladost Lučani,1.0,2.0,0.0
+2024-2025,7,2024-09-01,Partizan,Vojvodina,0.0,0.0,0.5
+2024-2025,8,2024-09-13,Spartak Subotic,FK IMT Novi Beograd,2.0,0.0,1.0
+2024-2025,8,2024-09-14,Vojvodina,FK Železničar Pančevo,2.0,0.0,1.0
+2024-2025,8,2024-09-14,Mladost Lučani,Radnički Kragujevac,2.0,1.0,1.0
+2024-2025,8,2024-09-14,Red Star,Napredak Kruš,2.0,0.0,1.0
+2024-2025,8,2024-09-15,Novi Pazar,Čukarički,2.0,2.0,0.5
+2024-2025,8,2024-09-15,Tekstilac Odžaci,TSC Bačka Top,2.0,1.0,1.0
+2024-2025,8,2024-09-15,OFK Beograd,Partizan,3.0,2.0,1.0
+2024-2025,8,2024-09-16,FK Jedinstvo Ub,Radnički Niš,0.0,2.0,0.0
+2024-2025,2,2024-09-18,FK IMT Novi Beograd,Radnički Kragujevac,0.0,4.0,0.0
+2024-2025,9,2024-09-21,Čukarički,FK Jedinstvo Ub,2.0,1.0,1.0
+2024-2025,9,2024-09-21,TSC Bačka Top,Novi Pazar,5.0,2.0,1.0
+2024-2025,9,2024-09-21,Napredak Kruš,Mladost Lučani,1.0,2.0,0.0
+2024-2025,9,2024-09-22,FK IMT Novi Beograd,Vojvodina,0.0,3.0,0.0
+2024-2025,9,2024-09-22,Radnički Niš,Spartak Subotic,3.0,2.0,1.0
+2024-2025,9,2024-09-22,FK Železničar Pančevo,OFK Beograd,0.0,1.0,0.0
+2024-2025,9,2024-09-23,Radnički Kragujevac,Tekstilac Odžaci,1.0,0.0,1.0
+2024-2025,9,2024-09-23,Partizan,Red Star,0.0,4.0,0.0
+2024-2025,10,2024-09-27,Red Star,FK Železničar Pančevo,2.0,1.0,1.0
+2024-2025,10,2024-09-28,OFK Beograd,FK IMT Novi Beograd,4.0,3.0,1.0
+2024-2025,10,2024-09-28,Novi Pazar,Radnički Kragujevac,2.0,0.0,1.0
+2024-2025,10,2024-09-28,Čukarički,TSC Bačka Top,1.0,2.0,0.0
+2024-2025,10,2024-09-28,Vojvodina,Radnički Niš,3.0,3.0,0.5
+2024-2025,10,2024-09-29,Tekstilac Odžaci,Napredak Kruš,0.0,0.0,0.5
+2024-2025,10,2024-09-29,Mladost Lučani,Partizan,1.0,3.0,0.0
+2024-2025,10,2024-09-29,FK Jedinstvo Ub,Spartak Subotic,2.0,0.0,1.0
+2024-2025,2,2024-10-02,Vojvodina,Novi Pazar,0.0,1.0,0.0
+2024-2025,11,2024-10-04,Radnički Niš,OFK Beograd,1.0,1.0,0.5
+2024-2025,11,2024-10-05,Radnički Kragujevac,Čukarički,1.0,1.0,0.5
+2024-2025,11,2024-10-05,FK Železničar Pančevo,Mladost Lučani,1.0,2.0,0.0
+2024-2025,11,2024-10-05,Partizan,Tekstilac Odžaci,4.0,1.0,1.0
+2024-2025,11,2024-10-06,Napredak Kruš,Novi Pazar,2.0,1.0,1.0
+2024-2025,11,2024-10-06,Spartak Subotic,Vojvodina,0.0,4.0,0.0
+2024-2025,11,2024-10-06,FK IMT Novi Beograd,Red Star,1.0,3.0,0.0
+2024-2025,11,2024-10-06,TSC Bačka Top,FK Jedinstvo Ub,2.0,0.0,1.0
+2024-2025,12,2024-10-18,Red Star,Radnički Niš,5.0,1.0,1.0
+2024-2025,12,2024-10-18,Čukarički,Napredak Kruš,0.0,0.0,0.5
+2024-2025,12,2024-10-18,TSC Bačka Top,Radnički Kragujevac,0.0,2.0,0.0
+2024-2025,12,2024-10-19,OFK Beograd,Spartak Subotic,1.0,1.0,0.5
+2024-2025,12,2024-10-19,Tekstilac Odžaci,FK Železničar Pančevo,0.0,2.0,0.0
+2024-2025,12,2024-10-19,FK Jedinstvo Ub,Vojvodina,1.0,1.0,0.5
+2024-2025,12,2024-10-20,Mladost Lučani,FK IMT Novi Beograd,1.0,0.0,1.0
+2024-2025,12,2024-10-21,Novi Pazar,Partizan,3.0,4.0,0.0
+2024-2025,13,2024-10-25,FK IMT Novi Beograd,Tekstilac Odžaci,3.0,0.0,1.0
+2024-2025,13,2024-10-25,Radnički Kragujevac,FK Jedinstvo Ub,4.0,0.0,1.0
+2024-2025,13,2024-10-26,Partizan,Čukarički,3.0,1.0,1.0
+2024-2025,13,2024-10-26,FK Železničar Pančevo,Novi Pazar,0.0,1.0,0.0
+2024-2025,13,2024-10-26,Spartak Subotic,Red Star,1.0,5.0,0.0
+2024-2025,13,2024-10-26,Vojvodina,OFK Beograd,2.0,1.0,1.0
+2024-2025,13,2024-10-27,Napredak Kruš,TSC Bačka Top,0.0,3.0,0.0
+2024-2025,13,2024-10-27,Radnički Niš,Mladost Lučani,1.0,1.0,0.5
+2024-2025,14,2024-11-03,Tekstilac Odžaci,Radnički Niš,1.0,3.0,0.0
+2024-2025,14,2024-11-03,Novi Pazar,FK IMT Novi Beograd,3.0,1.0,1.0
+2024-2025,14,2024-11-03,Red Star,Vojvodina,3.0,0.0,1.0
+2024-2025,14,2024-11-03,Radnički Kragujevac,Napredak Kruš,1.0,0.0,1.0
+2024-2025,14,2024-11-03,TSC Bačka Top,Partizan,1.0,2.0,0.0
+2024-2025,14,2024-11-04,Mladost Lučani,Spartak Subotic,0.0,0.0,0.5
+2024-2025,14,2024-11-04,FK Jedinstvo Ub,OFK Beograd,0.0,1.0,0.0
+2024-2025,14,2024-11-04,Čukarički,FK Železničar Pančevo,2.0,0.0,1.0
+2024-2025,15,2024-11-09,Radnički Niš,Novi Pazar,2.0,1.0,1.0
+2024-2025,15,2024-11-09,FK IMT Novi Beograd,Čukarički,1.0,1.0,0.5
+2024-2025,15,2024-11-09,Spartak Subotic,Tekstilac Odžaci,1.0,0.0,1.0
+2024-2025,15,2024-11-09,Vojvodina,Mladost Lučani,0.0,0.0,0.5
+2024-2025,15,2024-11-10,Napredak Kruš,FK Jedinstvo Ub,2.0,1.0,1.0
+2024-2025,15,2024-11-10,Partizan,Radnički Kragujevac,2.0,2.0,0.5
+2024-2025,15,2024-11-10,FK Železničar Pančevo,TSC Bačka Top,3.0,3.0,0.5
+2024-2025,15,2024-11-10,OFK Beograd,Red Star,0.0,1.0,0.0
+2024-2025,16,2024-11-23,Radnički Niš,Čukarički,2.0,2.0,0.5
+2024-2025,16,2024-11-23,Spartak Subotic,Novi Pazar,1.0,1.0,0.5
+2024-2025,16,2024-11-23,Vojvodina,Tekstilac Odžaci,0.0,0.0,0.5
+2024-2025,16,2024-11-24,OFK Beograd,Mladost Lučani,0.0,0.0,0.5
+2024-2025,16,2024-11-24,Partizan,Napredak Kruš,0.0,0.0,0.5
+2024-2025,16,2024-11-24,FK Železničar Pančevo,Radnički Kragujevac,1.0,1.0,0.5
+2024-2025,17,2024-11-29,Novi Pazar,Vojvodina,0.0,4.0,0.0
+2024-2025,17,2024-11-29,Čukarički,Spartak Subotic,1.0,2.0,0.0
+2024-2025,17,2024-11-29,Tekstilac Odžaci,OFK Beograd,2.0,0.0,1.0
+2024-2025,17,2024-11-30,Radnički Kragujevac,FK IMT Novi Beograd,1.0,3.0,0.0
+2024-2025,17,2024-11-30,Napredak Kruš,FK Železničar Pančevo,1.0,2.0,0.0
+2024-2025,17,2024-11-30,Partizan,FK Jedinstvo Ub,3.0,0.0,1.0
+2024-2025,17,2024-11-30,Mladost Lučani,Red Star,0.0,2.0,0.0
+2024-2025,17,2024-12-01,TSC Bačka Top,Radnički Niš,4.0,1.0,1.0
+2024-2025,5,2024-12-04,Partizan,Radnički Niš,3.0,1.0,1.0
+2024-2025,6,2024-12-04,Red Star,TSC Bačka Top,3.0,1.0,1.0
+2024-2025,18,2024-12-07,Red Star,Tekstilac Odžaci,6.0,0.0,1.0
+2024-2025,18,2024-12-08,FK Jedinstvo Ub,Mladost Lučani,1.0,2.0,0.0
+2024-2025,18,2024-12-08,Vojvodina,Čukarički,0.0,1.0,0.0
+2024-2025,18,2024-12-08,Spartak Subotic,TSC Bačka Top,0.0,0.0,0.5
+2024-2025,18,2024-12-08,FK Železničar Pančevo,Partizan,0.0,1.0,0.0
+2024-2025,18,2024-12-09,OFK Beograd,Novi Pazar,1.0,1.0,0.5
+2024-2025,18,2024-12-09,FK IMT Novi Beograd,Napredak Kruš,3.0,2.0,1.0
+2024-2025,18,2024-12-09,Radnički Niš,Radnički Kragujevac,1.0,2.0,0.0
+2024-2025,6,2024-12-12,Spartak Subotic,Partizan,2.0,1.0,1.0
+2024-2025,19,2024-12-14,Tekstilac Odžaci,Mladost Lučani,1.0,0.0,1.0
+2024-2025,19,2024-12-14,FK Železničar Pančevo,FK Jedinstvo Ub,6.0,0.0,1.0
+2024-2025,19,2024-12-15,Napredak Kruš,Radnički Niš,2.0,1.0,1.0
+2024-2025,19,2024-12-15,Čukarički,OFK Beograd,0.0,1.0,0.0
+2024-2025,19,2024-12-15,Novi Pazar,Red Star,1.0,7.0,0.0
+2024-2025,19,2024-12-15,TSC Bačka Top,Vojvodina,1.0,3.0,0.0
+2024-2025,19,2024-12-16,Radnički Kragujevac,Spartak Subotic,2.0,0.0,1.0
+2024-2025,19,2024-12-16,Partizan,FK IMT Novi Beograd,1.0,1.0,0.5
+2024-2025,16,2024-12-18,FK Jedinstvo Ub,Red Star,0.0,4.0,0.0
+2024-2025,20,2024-12-20,Mladost Lučani,Novi Pazar,1.0,3.0,0.0
+2024-2025,20,2024-12-21,FK IMT Novi Beograd,FK Železničar Pančevo,1.0,1.0,0.5
+2024-2025,20,2024-12-21,Vojvodina,Radnički Kragujevac,3.0,2.0,1.0
+2024-2025,20,2024-12-21,Radnički Niš,Partizan,0.0,1.0,0.0
+2024-2025,20,2024-12-22,FK Jedinstvo Ub,Tekstilac Odžaci,1.0,0.0,1.0
+2024-2025,20,2024-12-22,Red Star,Čukarički,5.0,2.0,1.0
+2024-2025,20,2024-12-22,Spartak Subotic,Napredak Kruš,0.0,2.0,0.0
+2024-2025,20,2024-12-23,OFK Beograd,TSC Bačka Top,2.0,2.0,0.5
+2024-2025,16,2024-12-26,FK IMT Novi Beograd,TSC Bačka Top,0.0,2.0,0.0
+2024-2025,21,2025-01-31,Napredak Kruš,Vojvodina,1.0,1.0,0.5
+2024-2025,21,2025-02-01,Čukarički,Mladost Lučani,0.0,0.0,0.5
+2024-2025,21,2025-02-01,Novi Pazar,Tekstilac Odžaci,2.0,3.0,0.0
+2024-2025,21,2025-02-01,Partizan,Spartak Subotic,2.0,2.0,0.5
+2024-2025,21,2025-02-02,FK IMT Novi Beograd,FK Jedinstvo Ub,2.0,0.0,1.0
+2024-2025,21,2025-02-02,TSC Bačka Top,Red Star,1.0,2.0,0.0
+2024-2025,21,2025-02-02,FK Železničar Pančevo,Radnički Niš,0.0,0.0,0.5
+2024-2025,21,2025-02-03,Radnički Kragujevac,OFK Beograd,2.0,0.0,1.0
+2024-2025,22,2025-02-07,Tekstilac Odžaci,Čukarički,0.0,1.0,0.0
+2024-2025,22,2025-02-08,Mladost Lučani,TSC Bačka Top,4.0,1.0,1.0
+2024-2025,22,2025-02-08,Red Star,Radnički Kragujevac,6.0,0.0,1.0
+2024-2025,22,2025-02-08,Vojvodina,Partizan,0.0,0.0,0.5
+2024-2025,22,2025-02-09,FK Jedinstvo Ub,Novi Pazar,0.0,1.0,0.0
+2024-2025,22,2025-02-09,OFK Beograd,Napredak Kruš,0.0,2.0,0.0
+2024-2025,22,2025-02-09,Radnički Niš,FK IMT Novi Beograd,3.0,0.0,1.0
+2024-2025,22,2025-02-09,Spartak Subotic,FK Železničar Pančevo,0.0,0.0,0.5
+2024-2025,23,2025-02-15,FK IMT Novi Beograd,Spartak Subotic,1.0,2.0,0.0
+2024-2025,23,2025-02-15,Partizan,OFK Beograd,4.0,1.0,1.0
+2024-2025,23,2025-02-15,Napredak Kruš,Red Star,0.0,4.0,0.0
+2024-2025,23,2025-02-16,Radnički Kragujevac,Mladost Lučani,1.0,0.0,1.0
+2024-2025,23,2025-02-16,Radnički Niš,FK Jedinstvo Ub,1.0,4.0,0.0
+2024-2025,23,2025-02-16,TSC Bačka Top,Tekstilac Odžaci,1.0,2.0,0.0
+2024-2025,23,2025-02-17,Čukarički,Novi Pazar,1.0,1.0,0.5
+2024-2025,23,2025-02-17,FK Železničar Pančevo,Vojvodina,1.0,1.0,0.5
+2024-2025,24,2025-02-21,Spartak Subotic,Radnički Niš,1.0,1.0,0.5
+2024-2025,24,2025-02-21,Tekstilac Odžaci,Radnički Kragujevac,0.0,1.0,0.0
+2024-2025,24,2025-02-22,Vojvodina,FK IMT Novi Beograd,0.0,1.0,0.0
+2024-2025,24,2025-02-22,OFK Beograd,FK Železničar Pančevo,,,
+2024-2025,24,2025-02-22,Red Star,Partizan,3.0,3.0,0.5
+2024-2025,24,2025-02-23,Mladost Lučani,Napredak Kruš,,,
+2024-2025,24,2025-02-23,FK Jedinstvo Ub,Čukarički,,,
+2024-2025,24,2025-02-24,Novi Pazar,TSC Bačka Top,,,
+2024-2025,25,2025-02-26,TSC Bačka Top,Čukarički,,,
+2024-2025,25,2025-02-26,FK IMT Novi Beograd,OFK Beograd,,,
+2024-2025,25,2025-02-26,Partizan,Mladost Lučani,,,
+2024-2025,25,2025-02-26,FK Železničar Pančevo,Red Star,,,
+2024-2025,25,2025-02-26,Spartak Subotic,FK Jedinstvo Ub,,,
+2024-2025,25,2025-02-26,Napredak Kruš,Tekstilac Odžaci,,,
+2024-2025,25,2025-02-26,Radnički Kragujevac,Novi Pazar,,,
+2024-2025,25,2025-02-26,Radnički Niš,Vojvodina,,,
+2024-2025,26,2025-03-02,Čukarički,Radnički Kragujevac,,,
+2024-2025,26,2025-03-02,Novi Pazar,Napredak Kruš,,,
+2024-2025,26,2025-03-02,Mladost Lučani,FK Železničar Pančevo,,,
+2024-2025,26,2025-03-02,Red Star,FK IMT Novi Beograd,,,
+2024-2025,26,2025-03-02,Tekstilac Odžaci,Partizan,,,
+2024-2025,26,2025-03-02,OFK Beograd,Radnički Niš,,,
+2024-2025,26,2025-03-02,Vojvodina,Spartak Subotic,,,
+2024-2025,26,2025-03-02,FK Jedinstvo Ub,TSC Bačka Top,,,
+2024-2025,27,2025-03-08,Partizan,Novi Pazar,,,
+2024-2025,27,2025-03-08,Napredak Kruš,Čukarički,,,
+2024-2025,27,2025-03-08,Radnički Kragujevac,TSC Bačka Top,,,
+2024-2025,27,2025-03-08,Vojvodina,FK Jedinstvo Ub,,,
+2024-2025,27,2025-03-08,FK IMT Novi Beograd,Mladost Lučani,,,
+2024-2025,27,2025-03-08,Spartak Subotic,OFK Beograd,,,
+2024-2025,27,2025-03-08,FK Železničar Pančevo,Tekstilac Odžaci,,,
+2024-2025,27,2025-03-08,Radnički Niš,Red Star,,,
+2024-2025,28,2025-03-15,FK Jedinstvo Ub,Radnički Kragujevac,,,
+2024-2025,28,2025-03-15,Tekstilac Odžaci,FK IMT Novi Beograd,,,
+2024-2025,28,2025-03-15,Čukarički,Partizan,,,
+2024-2025,28,2025-03-15,TSC Bačka Top,Napredak Kruš,,,
+2024-2025,28,2025-03-15,Novi Pazar,FK Železničar Pančevo,,,
+2024-2025,28,2025-03-15,Red Star,Spartak Subotic,,,
+2024-2025,28,2025-03-15,Mladost Lučani,Radnički Niš,,,
+2024-2025,28,2025-03-15,OFK Beograd,Vojvodina,,,
+2024-2025,29,2025-03-29,OFK Beograd,FK Jedinstvo Ub,,,
+2024-2025,29,2025-03-29,Radnički Niš,Tekstilac Odžaci,,,
+2024-2025,29,2025-03-29,Vojvodina,Red Star,,,
+2024-2025,29,2025-03-29,FK IMT Novi Beograd,Novi Pazar,,,
+2024-2025,29,2025-03-29,Spartak Subotic,Mladost Lučani,,,
+2024-2025,29,2025-03-29,Napredak Kruš,Radnički Kragujevac,,,
+2024-2025,29,2025-03-29,FK Železničar Pančevo,Čukarički,,,
+2024-2025,29,2025-03-29,Partizan,TSC Bačka Top,,,
+2024-2025,30,2025-04-05,Radnički Kragujevac,Partizan,,,
+2024-2025,30,2025-04-05,Red Star,OFK Beograd,,,
+2024-2025,30,2025-04-05,Novi Pazar,Radnički Niš,,,
+2024-2025,30,2025-04-05,Čukarički,FK IMT Novi Beograd,,,
+2024-2025,30,2025-04-05,Mladost Lučani,Vojvodina,,,
+2024-2025,30,2025-04-05,FK Jedinstvo Ub,Napredak Kruš,,,
+2024-2025,30,2025-04-05,TSC Bačka Top,FK Železničar Pančevo,,,
+2024-2025,30,2025-04-05,Tekstilac Odžaci,Spartak Subotic,,,

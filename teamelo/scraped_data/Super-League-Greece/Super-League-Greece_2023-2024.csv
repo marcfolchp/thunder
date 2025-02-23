@@ -1,0 +1,241 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023-2024,Regular season,1,2023-08-18,Volos NFC,PAS Lamia,2,2,0.5
+2023-2024,Regular season,1,2023-08-20,PAS Giannina,AO Kifisia,3,0,1.0
+2023-2024,Regular season,1,2023-08-20,OFI Crete,Aris,3,2,1.0
+2023-2024,Regular season,1,2023-08-20,PAOK,Asteras Tripoli,3,0,1.0
+2023-2024,Regular season,1,2023-08-20,Olympiacos,Panserraikos,2,0,1.0
+2023-2024,Regular season,2,2023-08-25,Panetolikos,PAS Giannina,0,0,0.5
+2023-2024,Regular season,2,2023-08-26,Asteras Tripoli,OFI Crete,3,0,1.0
+2023-2024,Regular season,2,2023-08-26,Panathinaikos,Volos NFC,3,0,1.0
+2023-2024,Regular season,2,2023-08-26,AEK Athens,Panserraikos,1,1,0.5
+2023-2024,Regular season,2,2023-08-27,PAS Lamia,Aris,1,0,1.0
+2023-2024,Regular season,2,2023-08-27,PAOK,AO Kifisia,2,1,1.0
+2023-2024,Regular season,2,2023-08-27,Olympiacos,Atromitos,4,0,1.0
+2023-2024,Regular season,3,2023-09-01,AO Kifisia,Atromitos,2,1,1.0
+2023-2024,Regular season,3,2023-09-02,Panserraikos,Panetolikos,1,1,0.5
+2023-2024,Regular season,3,2023-09-03,Aris,Asteras Tripoli,3,2,1.0
+2023-2024,Regular season,3,2023-09-03,Olympiacos,PAS Lamia,4,0,1.0
+2023-2024,Regular season,3,2023-09-03,OFI Crete,PAOK,1,0,1.0
+2023-2024,Regular season,3,2023-09-03,Volos NFC,AEK Athens,2,3,0.0
+2023-2024,Regular season,3,2023-09-03,PAS Giannina,Panathinaikos,0,1,0.0
+2023-2024,Regular season,4,2023-09-16,PAS Lamia,OFI Crete,2,2,0.5
+2023-2024,Regular season,4,2023-09-16,Panetolikos,Panathinaikos,0,5,0.0
+2023-2024,Regular season,4,2023-09-17,Asteras Tripoli,PAS Giannina,2,2,0.5
+2023-2024,Regular season,4,2023-09-17,AO Kifisia,Panserraikos,4,4,0.5
+2023-2024,Regular season,4,2023-09-17,PAOK,Aris,0,0,0.5
+2023-2024,Regular season,4,2023-09-17,AEK Athens,Olympiacos,1,1,0.5
+2023-2024,Regular season,4,2023-09-18,Atromitos,Volos NFC,1,1,0.5
+2023-2024,Regular season,5,2023-09-23,OFI Crete,Atromitos,1,1,0.5
+2023-2024,Regular season,5,2023-09-23,Panserraikos,PAS Lamia,2,0,1.0
+2023-2024,Regular season,5,2023-09-24,Olympiacos,AO Kifisia,4,0,1.0
+2023-2024,Regular season,5,2023-09-24,Aris,Panetolikos,3,0,1.0
+2023-2024,Regular season,5,2023-09-24,Volos NFC,Asteras Tripoli,1,2,0.0
+2023-2024,Regular season,5,2023-09-24,PAS Giannina,PAOK,1,3,0.0
+2023-2024,Regular season,5,2023-09-25,Panathinaikos,AEK Athens,1,2,0.0
+2023-2024,Regular season,6,2023-09-27,Panetolikos,OFI Crete,1,1,0.5
+2023-2024,Regular season,6,2023-09-27,AO Kifisia,PAS Lamia,1,1,0.5
+2023-2024,Regular season,6,2023-09-27,PAOK,Volos NFC,3,0,1.0
+2023-2024,Regular season,6,2023-09-27,Olympiacos,Aris,4,1,1.0
+2023-2024,Regular season,6,2023-09-28,Panserraikos,PAS Giannina,3,2,1.0
+2023-2024,Regular season,6,2023-09-28,Asteras Tripoli,Panathinaikos,1,4,0.0
+2023-2024,Regular season,6,2023-09-28,AEK Athens,Atromitos,2,1,1.0
+2023-2024,Regular season,7,2023-10-01,PAS Lamia,Panetolikos,1,0,1.0
+2023-2024,Regular season,7,2023-10-01,Aris,AO Kifisia,1,1,0.5
+2023-2024,Regular season,7,2023-10-01,Panathinaikos,PAOK,2,2,0.5
+2023-2024,Regular season,7,2023-10-01,PAS Giannina,Olympiacos,0,3,0.0
+2023-2024,Regular season,7,2023-10-02,Atromitos,Asteras Tripoli,0,0,0.5
+2023-2024,Regular season,7,2023-10-02,OFI Crete,AEK Athens,2,0,1.0
+2023-2024,Regular season,1,2023-10-08,AEK Athens,Panetolikos,3,0,1.0
+2023-2024,Regular season,1,2023-10-08,Panathinaikos,Atromitos,5,0,1.0
+2023-2024,Regular season,8,2023-10-20,PAS Lamia,PAS Giannina,2,1,1.0
+2023-2024,Regular season,8,2023-10-21,Panetolikos,Volos NFC,2,0,1.0
+2023-2024,Regular season,8,2023-10-21,Aris,Panserraikos,1,0,1.0
+2023-2024,Regular season,8,2023-10-22,Asteras Tripoli,AEK Athens,0,3,0.0
+2023-2024,Regular season,8,2023-10-22,AO Kifisia,OFI Crete,0,0,0.5
+2023-2024,Regular season,8,2023-10-22,PAOK,Atromitos,2,0,1.0
+2023-2024,Regular season,8,2023-10-22,Olympiacos,Panathinaikos,0,3,0.0
+2023-2024,Regular season,9,2023-10-28,Volos NFC,AO Kifisia,2,1,1.0
+2023-2024,Regular season,9,2023-10-28,Atromitos,Panetolikos,3,2,1.0
+2023-2024,Regular season,9,2023-10-29,Asteras Tripoli,PAS Lamia,0,1,0.0
+2023-2024,Regular season,9,2023-10-29,Panathinaikos,Panserraikos,5,0,1.0
+2023-2024,Regular season,9,2023-10-29,Aris,PAS Giannina,2,0,1.0
+2023-2024,Regular season,9,2023-10-30,AEK Athens,PAOK,2,0,1.0
+2023-2024,Regular season,9,2023-10-30,OFI Crete,Olympiacos,0,2,0.0
+2023-2024,Regular season,10,2023-11-04,PAS Lamia,Panathinaikos,1,2,0.0
+2023-2024,Regular season,10,2023-11-04,AO Kifisia,AEK Athens,1,1,0.5
+2023-2024,Regular season,10,2023-11-05,Panetolikos,Asteras Tripoli,0,1,0.0
+2023-2024,Regular season,10,2023-11-05,PAS Giannina,Volos NFC,1,1,0.5
+2023-2024,Regular season,10,2023-11-05,Olympiacos,PAOK,2,4,0.0
+2023-2024,Regular season,10,2023-11-05,Aris,Atromitos,1,3,0.0
+2023-2024,Regular season,10,2023-11-06,Panserraikos,OFI Crete,2,1,1.0
+2023-2024,Regular season,11,2023-11-11,OFI Crete,PAS Giannina,1,1,0.5
+2023-2024,Regular season,11,2023-11-11,Atromitos,Panserraikos,1,1,0.5
+2023-2024,Regular season,11,2023-11-11,Volos NFC,Aris,0,2,0.0
+2023-2024,Regular season,11,2023-11-12,PAOK,Panetolikos,2,1,1.0
+2023-2024,Regular season,11,2023-11-12,AEK Athens,PAS Lamia,3,0,1.0
+2023-2024,Regular season,11,2023-11-12,Asteras Tripoli,Olympiacos,0,2,0.0
+2023-2024,Regular season,11,2023-11-12,AO Kifisia,Panathinaikos,0,1,0.0
+2023-2024,Regular season,12,2023-11-24,OFI Crete,Volos NFC,1,1,0.5
+2023-2024,Regular season,12,2023-11-25,Olympiacos,Panetolikos,3,1,1.0
+2023-2024,Regular season,12,2023-11-25,PAOK,Panserraikos,5,0,1.0
+2023-2024,Regular season,12,2023-11-26,AO Kifisia,Asteras Tripoli,1,3,0.0
+2023-2024,Regular season,12,2023-11-26,PAS Giannina,AEK Athens,0,1,0.0
+2023-2024,Regular season,12,2023-11-26,PAS Lamia,Atromitos,3,3,0.5
+2023-2024,Regular season,12,2023-11-26,Aris,Panathinaikos,2,0,1.0
+2023-2024,Regular season,7,2023-11-29,Volos NFC,Panserraikos,1,0,1.0
+2023-2024,Regular season,13,2023-12-02,Panetolikos,AO Kifisia,3,0,1.0
+2023-2024,Regular season,13,2023-12-02,Asteras Tripoli,Panserraikos,1,0,1.0
+2023-2024,Regular season,13,2023-12-03,Volos NFC,Olympiacos,2,2,0.5
+2023-2024,Regular season,13,2023-12-03,Atromitos,PAS Giannina,1,1,0.5
+2023-2024,Regular season,13,2023-12-03,Panathinaikos,OFI Crete,4,0,1.0
+2023-2024,Regular season,13,2023-12-04,PAOK,PAS Lamia,3,0,1.0
+2023-2024,Regular season,13,2023-12-04,AEK Athens,Aris,1,0,1.0
+2023-2024,Regular season,14,2023-12-16,AO Kifisia,PAS Giannina,4,2,1.0
+2023-2024,Regular season,14,2023-12-17,Aris,OFI Crete,1,0,1.0
+2023-2024,Regular season,14,2023-12-17,Asteras Tripoli,PAOK,1,4,0.0
+2023-2024,Regular season,14,2023-12-17,PAS Lamia,Volos NFC,1,2,0.0
+2023-2024,Regular season,14,2023-12-17,Atromitos,Panathinaikos,3,2,1.0
+2023-2024,Regular season,14,2023-12-18,Panetolikos,AEK Athens,2,2,0.5
+2023-2024,Regular season,14,2023-12-18,Panserraikos,Olympiacos,0,1,0.0
+2023-2024,Regular season,15,2023-12-20,Aris,PAS Lamia,2,2,0.5
+2023-2024,Regular season,15,2023-12-20,Volos NFC,Panathinaikos,0,3,0.0
+2023-2024,Regular season,15,2023-12-21,PAS Giannina,Panetolikos,0,0,0.5
+2023-2024,Regular season,15,2023-12-21,Panserraikos,AEK Athens,2,2,0.5
+2023-2024,Regular season,15,2023-12-21,OFI Crete,Asteras Tripoli,0,2,0.0
+2023-2024,Regular season,15,2023-12-21,AO Kifisia,PAOK,0,6,0.0
+2023-2024,Regular season,15,2023-12-21,Atromitos,Olympiacos,0,0,0.5
+2023-2024,Regular season,16,2024-01-03,Asteras Tripoli,Aris,3,2,1.0
+2023-2024,Regular season,16,2024-01-03,PAS Lamia,Olympiacos,1,0,1.0
+2023-2024,Regular season,16,2024-01-03,AEK Athens,Volos NFC,3,0,1.0
+2023-2024,Regular season,16,2024-01-03,PAOK,OFI Crete,4,0,1.0
+2023-2024,Regular season,16,2024-01-03,Panathinaikos,PAS Giannina,2,0,1.0
+2023-2024,Regular season,16,2024-01-04,Panetolikos,Panserraikos,3,2,1.0
+2023-2024,Regular season,16,2024-01-04,Atromitos,AO Kifisia,3,0,1.0
+2023-2024,Regular season,17,2024-01-07,Volos NFC,Atromitos,1,2,0.0
+2023-2024,Regular season,17,2024-01-07,Panserraikos,AO Kifisia,1,1,0.5
+2023-2024,Regular season,17,2024-01-07,Panathinaikos,Panetolikos,2,1,1.0
+2023-2024,Regular season,17,2024-01-07,PAS Giannina,Asteras Tripoli,2,1,1.0
+2023-2024,Regular season,17,2024-01-07,Aris,PAOK,2,1,1.0
+2023-2024,Regular season,17,2024-01-07,Olympiacos,AEK Athens,1,2,0.0
+2023-2024,Regular season,17,2024-01-08,OFI Crete,PAS Lamia,1,1,0.5
+2023-2024,Regular season,18,2024-01-13,Atromitos,OFI Crete,1,1,0.5
+2023-2024,Regular season,18,2024-01-13,PAS Lamia,Panserraikos,0,2,0.0
+2023-2024,Regular season,18,2024-01-14,Panetolikos,Aris,0,4,0.0
+2023-2024,Regular season,18,2024-01-14,AO Kifisia,Olympiacos,2,3,0.0
+2023-2024,Regular season,18,2024-01-14,Asteras Tripoli,Volos NFC,1,0,1.0
+2023-2024,Regular season,18,2024-01-14,PAOK,PAS Giannina,4,0,1.0
+2023-2024,Regular season,18,2024-01-14,AEK Athens,Panathinaikos,2,2,0.5
+2023-2024,Regular season,19,2024-01-20,PAS Lamia,AO Kifisia,4,1,1.0
+2023-2024,Regular season,19,2024-01-20,PAS Giannina,Panserraikos,0,2,0.0
+2023-2024,Regular season,19,2024-01-20,OFI Crete,Panetolikos,1,0,1.0
+2023-2024,Regular season,19,2024-01-21,Volos NFC,PAOK,1,5,0.0
+2023-2024,Regular season,19,2024-01-21,Atromitos,AEK Athens,0,5,0.0
+2023-2024,Regular season,19,2024-01-21,Panathinaikos,Asteras Tripoli,2,0,1.0
+2023-2024,Regular season,19,2024-01-21,Aris,Olympiacos,1,2,0.0
+2023-2024,Regular season,20,2024-01-27,Panetolikos,PAS Lamia,1,2,0.0
+2023-2024,Regular season,20,2024-01-27,Panserraikos,Volos NFC,2,2,0.5
+2023-2024,Regular season,20,2024-01-27,AO Kifisia,Aris,0,1,0.0
+2023-2024,Regular season,20,2024-01-28,AEK Athens,OFI Crete,3,0,1.0
+2023-2024,Regular season,20,2024-01-28,Asteras Tripoli,Atromitos,3,1,1.0
+2023-2024,Regular season,20,2024-01-28,Olympiacos,PAS Giannina,3,1,1.0
+2023-2024,Regular season,20,2024-01-28,PAOK,Panathinaikos,2,1,1.0
+2023-2024,Regular season,21,2024-02-03,Volos NFC,Panetolikos,1,1,0.5
+2023-2024,Regular season,21,2024-02-03,Panserraikos,Aris,1,1,0.5
+2023-2024,Regular season,21,2024-02-04,OFI Crete,AO Kifisia,1,2,0.0
+2023-2024,Regular season,21,2024-02-04,AEK Athens,Asteras Tripoli,4,2,1.0
+2023-2024,Regular season,21,2024-02-04,PAS Giannina,PAS Lamia,1,4,0.0
+2023-2024,Regular season,21,2024-02-04,Atromitos,PAOK,0,2,0.0
+2023-2024,Regular season,21,2024-02-04,Panathinaikos,Olympiacos,2,0,1.0
+2023-2024,Regular season,22,2024-02-10,Olympiacos,OFI Crete,4,0,1.0
+2023-2024,Regular season,22,2024-02-10,PAS Giannina,Aris,0,0,0.5
+2023-2024,Regular season,22,2024-02-10,Panetolikos,Atromitos,1,0,1.0
+2023-2024,Regular season,22,2024-02-11,AO Kifisia,Volos NFC,3,0,1.0
+2023-2024,Regular season,22,2024-02-11,Panserraikos,Panathinaikos,0,3,0.0
+2023-2024,Regular season,22,2024-02-11,PAS Lamia,Asteras Tripoli,2,1,1.0
+2023-2024,Regular season,22,2024-02-11,PAOK,AEK Athens,1,1,0.5
+2023-2024,Regular season,23,2024-02-17,Atromitos,Aris,0,2,0.0
+2023-2024,Regular season,23,2024-02-17,Panathinaikos,PAS Lamia,2,2,0.5
+2023-2024,Regular season,23,2024-02-18,Volos NFC,PAS Giannina,1,2,0.0
+2023-2024,Regular season,23,2024-02-18,AEK Athens,AO Kifisia,3,0,1.0
+2023-2024,Regular season,23,2024-02-18,PAOK,Olympiacos,1,4,0.0
+2023-2024,Regular season,23,2024-02-19,OFI Crete,Panserraikos,4,0,1.0
+2023-2024,Regular season,23,2024-02-19,Asteras Tripoli,Panetolikos,2,2,0.5
+2023-2024,Regular season,24,2024-02-24,PAS Lamia,AEK Athens,1,3,0.0
+2023-2024,Regular season,24,2024-02-24,Panserraikos,Atromitos,0,0,0.5
+2023-2024,Regular season,24,2024-02-25,PAS Giannina,OFI Crete,2,2,0.5
+2023-2024,Regular season,24,2024-02-25,Panetolikos,PAOK,1,3,0.0
+2023-2024,Regular season,24,2024-02-25,Olympiacos,Asteras Tripoli,2,1,1.0
+2023-2024,Regular season,24,2024-02-25,Aris,Volos NFC,2,0,1.0
+2023-2024,Regular season,24,2024-02-25,Panathinaikos,AO Kifisia,1,1,0.5
+2023-2024,Regular season,25,2024-02-28,Volos NFC,OFI Crete,3,1,1.0
+2023-2024,Regular season,25,2024-02-28,Asteras Tripoli,AO Kifisia,3,3,0.5
+2023-2024,Regular season,25,2024-02-28,Panetolikos,Olympiacos,1,2,0.0
+2023-2024,Regular season,25,2024-02-28,Atromitos,PAS Lamia,3,1,1.0
+2023-2024,Regular season,25,2024-02-28,AEK Athens,PAS Giannina,4,2,1.0
+2023-2024,Regular season,25,2024-02-28,Panserraikos,PAOK,0,2,0.0
+2023-2024,Regular season,25,2024-02-28,Panathinaikos,Aris,2,0,1.0
+2023-2024,Regular season,26,2024-03-03,Panserraikos,Asteras Tripoli,2,1,1.0
+2023-2024,Regular season,26,2024-03-03,Olympiacos,Volos NFC,3,0,1.0
+2023-2024,Regular season,26,2024-03-03,AO Kifisia,Panetolikos,2,2,0.5
+2023-2024,Regular season,26,2024-03-03,OFI Crete,Panathinaikos,2,2,0.5
+2023-2024,Regular season,26,2024-03-03,PAS Lamia,PAOK,0,2,0.0
+2023-2024,Regular season,26,2024-03-03,PAS Giannina,Atromitos,1,1,0.5
+2023-2024,Regular season,26,2024-03-03,Aris,AEK Athens,3,3,0.5
+2023-2024,Championship round,1,2024-03-10,PAS Lamia,AEK Athens,0,4,0.0
+2023-2024,Championship round,1,2024-03-10,Olympiacos,Panathinaikos,1,3,0.0
+2023-2024,Championship round,1,2024-03-10,PAOK,Aris,0,1,0.0
+2023-2024,Relegation round,1,2024-03-16,Asteras Tripoli,Volos NFC,0,2,0.0
+2023-2024,Relegation round,1,2024-03-16,AO Kifisia,OFI Crete,0,0,0.5
+2023-2024,Relegation round,1,2024-03-16,Atromitos,PAS Giannina,3,2,1.0
+2023-2024,Relegation round,1,2024-03-16,Panetolikos,Panserraikos,3,0,1.0
+2023-2024,Relegation round,2,2024-03-30,Panserraikos,Asteras Tripoli,2,0,1.0
+2023-2024,Relegation round,2,2024-03-30,Volos NFC,AO Kifisia,4,1,1.0
+2023-2024,Relegation round,2,2024-03-30,PAS Giannina,Panetolikos,1,1,0.5
+2023-2024,Relegation round,2,2024-03-30,OFI Crete,Atromitos,0,0,0.5
+2023-2024,Championship round,2,2024-03-31,Panathinaikos,PAOK,2,3,0.0
+2023-2024,Championship round,2,2024-03-31,Aris,PAS Lamia,3,1,1.0
+2023-2024,Championship round,2,2024-03-31,AEK Athens,Olympiacos,1,0,1.0
+2023-2024,Championship round,3,2024-04-03,Olympiacos,Aris,3,0,1.0
+2023-2024,Championship round,3,2024-04-03,PAOK,PAS Lamia,3,1,1.0
+2023-2024,Championship round,3,2024-04-03,Panathinaikos,AEK Athens,2,1,1.0
+2023-2024,Relegation round,3,2024-04-06,Atromitos,Panserraikos,1,1,0.5
+2023-2024,Relegation round,3,2024-04-06,Asteras Tripoli,AO Kifisia,1,2,0.0
+2023-2024,Relegation round,3,2024-04-06,Panetolikos,Volos NFC,0,1,0.0
+2023-2024,Relegation round,3,2024-04-06,OFI Crete,PAS Giannina,4,0,1.0
+2023-2024,Championship round,4,2024-04-07,PAS Lamia,Olympiacos,1,5,0.0
+2023-2024,Championship round,4,2024-04-07,Aris,Panathinaikos,0,2,0.0
+2023-2024,Championship round,4,2024-04-07,AEK Athens,PAOK,2,2,0.5
+2023-2024,Relegation round,4,2024-04-13,Panserraikos,OFI Crete,2,2,0.5
+2023-2024,Relegation round,4,2024-04-13,Volos NFC,Atromitos,2,2,0.5
+2023-2024,Relegation round,4,2024-04-13,PAS Giannina,Asteras Tripoli,0,1,0.0
+2023-2024,Relegation round,4,2024-04-13,AO Kifisia,Panetolikos,0,1,0.0
+2023-2024,Championship round,5,2024-04-14,Panathinaikos,PAS Lamia,3,1,1.0
+2023-2024,Championship round,5,2024-04-14,AEK Athens,Aris,2,0,1.0
+2023-2024,Relegation round,5,2024-04-20,OFI Crete,Volos NFC,2,1,1.0
+2023-2024,Relegation round,5,2024-04-20,Atromitos,AO Kifisia,1,2,0.0
+2023-2024,Relegation round,5,2024-04-20,Asteras Tripoli,Panetolikos,0,2,0.0
+2023-2024,Relegation round,5,2024-04-21,Panserraikos,PAS Giannina,2,1,1.0
+2023-2024,Championship round,6,2024-04-21,PAS Lamia,Panathinaikos,0,5,0.0
+2023-2024,Championship round,6,2024-04-21,Aris,AEK Athens,1,2,0.0
+2023-2024,Championship round,6,2024-04-21,Olympiacos,PAOK,2,1,1.0
+2023-2024,Championship round,7,2024-04-24,PAS Lamia,PAOK,1,1,0.5
+2023-2024,Championship round,7,2024-04-24,Aris,Olympiacos,1,1,0.5
+2023-2024,Championship round,7,2024-04-24,AEK Athens,Panathinaikos,3,0,1.0
+2023-2024,Relegation round,6,2024-04-27,Panetolikos,Atromitos,1,0,1.0
+2023-2024,Relegation round,6,2024-04-27,Asteras Tripoli,OFI Crete,1,1,0.5
+2023-2024,Relegation round,6,2024-04-27,Volos NFC,Panserraikos,1,0,1.0
+2023-2024,Relegation round,6,2024-04-27,AO Kifisia,PAS Giannina,2,3,0.0
+2023-2024,Championship round,8,2024-04-28,Olympiacos,PAS Lamia,4,1,1.0
+2023-2024,Championship round,8,2024-04-28,PAOK,AEK Athens,3,2,1.0
+2023-2024,Championship round,8,2024-04-28,Panathinaikos,Aris,0,1,0.0
+2023-2024,Relegation round,7,2024-05-11,PAS Giannina,Volos NFC,1,1,0.5
+2023-2024,Relegation round,7,2024-05-11,OFI Crete,Panetolikos,1,2,0.0
+2023-2024,Relegation round,7,2024-05-11,Panserraikos,AO Kifisia,2,0,1.0
+2023-2024,Relegation round,7,2024-05-11,Atromitos,Asteras Tripoli,0,1,0.0
+2023-2024,Championship round,5,2024-05-12,PAOK,Olympiacos,2,0,1.0
+2023-2024,Championship round,9,2024-05-15,PAS Lamia,Aris,2,4,0.0
+2023-2024,Championship round,9,2024-05-15,Olympiacos,AEK Athens,2,0,1.0
+2023-2024,Championship round,9,2024-05-15,PAOK,Panathinaikos,4,1,1.0
+2023-2024,Championship round,10,2024-05-19,Aris,PAOK,1,2,0.0
+2023-2024,Championship round,10,2024-05-19,AEK Athens,PAS Lamia,3,0,1.0
+2023-2024,Championship round,10,2024-05-19,Panathinaikos,Olympiacos,2,2,0.5

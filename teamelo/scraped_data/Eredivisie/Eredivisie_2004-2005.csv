@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2004-2005,1,2004-08-13,Roda JC,Vitesse,2,3,0.0
+2004-2005,1,2004-08-14,NEC Nijmegen,Willem II,2,0,1.0
+2004-2005,1,2004-08-14,RBC Roosendaal,PSV Eindhoven,2,5,0.0
+2004-2005,1,2004-08-14,AZ Alkmaar,Heerenveen,1,1,0.5
+2004-2005,1,2004-08-14,NAC Breda,Utrecht,3,2,1.0
+2004-2005,1,2004-08-15,Groningen,RKC Waalwijk,0,0,0.5
+2004-2005,1,2004-08-15,Feyenoord,De Graafschap,6,1,1.0
+2004-2005,1,2004-08-15,Twente,Ajax,2,3,0.0
+2004-2005,1,2004-08-15,Den Bosch,ADO Den Haag,1,0,1.0
+2004-2005,2,2004-08-20,Vitesse,Groningen,1,0,1.0
+2004-2005,2,2004-08-21,PSV Eindhoven,AZ Alkmaar,5,1,1.0
+2004-2005,2,2004-08-21,RKC Waalwijk,Twente,1,0,1.0
+2004-2005,2,2004-08-21,ADO Den Haag,NEC Nijmegen,1,2,0.0
+2004-2005,2,2004-08-21,Heerenveen,Roda JC,3,4,0.0
+2004-2005,2,2004-08-22,Willem II,Feyenoord,0,4,0.0
+2004-2005,2,2004-08-22,Ajax,NAC Breda,6,2,1.0
+2004-2005,2,2004-08-22,Utrecht,RBC Roosendaal,5,1,1.0
+2004-2005,2,2004-08-22,De Graafschap,Den Bosch,1,1,0.5
+2004-2005,3,2004-08-27,Den Bosch,Willem II,1,2,0.0
+2004-2005,3,2004-08-28,NAC Breda,PSV Eindhoven,2,2,0.5
+2004-2005,3,2004-08-28,Twente,Heerenveen,4,1,1.0
+2004-2005,3,2004-08-28,NEC Nijmegen,AZ Alkmaar,1,2,0.0
+2004-2005,3,2004-08-28,Roda JC,De Graafschap,2,1,1.0
+2004-2005,3,2004-08-29,RBC Roosendaal,Groningen,2,2,0.5
+2004-2005,3,2004-08-29,Vitesse,Feyenoord,1,1,0.5
+2004-2005,3,2004-08-29,RKC Waalwijk,ADO Den Haag,1,3,0.0
+2004-2005,3,2004-08-29,Ajax,Utrecht,1,1,0.5
+2004-2005,4,2004-09-10,AZ Alkmaar,Den Bosch,5,0,1.0
+2004-2005,4,2004-09-11,Heerenveen,De Graafschap,2,0,1.0
+2004-2005,4,2004-09-11,RBC Roosendaal,Vitesse,4,1,1.0
+2004-2005,4,2004-09-11,Willem II,Roda JC,3,1,1.0
+2004-2005,4,2004-09-11,PSV Eindhoven,RKC Waalwijk,1,0,1.0
+2004-2005,4,2004-09-12,Groningen,NAC Breda,2,3,0.0
+2004-2005,4,2004-09-12,Utrecht,NEC Nijmegen,1,0,1.0
+2004-2005,4,2004-09-12,ADO Den Haag,Ajax,3,3,0.5
+2004-2005,4,2004-09-12,Feyenoord,Twente,3,1,1.0
+2004-2005,5,2004-09-17,ADO Den Haag,Vitesse,0,4,0.0
+2004-2005,5,2004-09-18,Twente,Willem II,0,0,0.5
+2004-2005,5,2004-09-18,De Graafschap,Groningen,2,2,0.5
+2004-2005,5,2004-09-18,RKC Waalwijk,RBC Roosendaal,2,0,1.0
+2004-2005,5,2004-09-18,Heerenveen,NAC Breda,3,0,1.0
+2004-2005,5,2004-09-18,NEC Nijmegen,PSV Eindhoven,0,3,0.0
+2004-2005,5,2004-09-19,Roda JC,AZ Alkmaar,1,1,0.5
+2004-2005,5,2004-09-19,Feyenoord,Utrecht,0,3,0.0
+2004-2005,5,2004-09-19,Den Bosch,Ajax,0,5,0.0
+2004-2005,6,2004-09-25,RBC Roosendaal,Feyenoord,0,4,0.0
+2004-2005,6,2004-09-25,Ajax,Roda JC,1,0,1.0
+2004-2005,6,2004-09-25,Vitesse,Den Bosch,0,0,0.5
+2004-2005,6,2004-09-25,AZ Alkmaar,Willem II,3,1,1.0
+2004-2005,6,2004-09-25,PSV Eindhoven,Heerenveen,4,0,1.0
+2004-2005,6,2004-09-26,De Graafschap,Twente,0,0,0.5
+2004-2005,6,2004-09-26,Utrecht,ADO Den Haag,2,0,1.0
+2004-2005,6,2004-09-26,NAC Breda,RKC Waalwijk,0,4,0.0
+2004-2005,6,2004-09-26,Groningen,NEC Nijmegen,0,0,0.5
+2004-2005,7,2004-10-01,NEC Nijmegen,RBC Roosendaal,3,0,1.0
+2004-2005,7,2004-10-02,NAC Breda,De Graafschap,3,2,1.0
+2004-2005,7,2004-10-02,Twente,Roda JC,2,3,0.0
+2004-2005,7,2004-10-02,Willem II,Vitesse,3,2,1.0
+2004-2005,7,2004-10-02,PSV Eindhoven,Groningen,3,0,1.0
+2004-2005,7,2004-10-03,AZ Alkmaar,Ajax,0,0,0.5
+2004-2005,7,2004-10-03,Utrecht,RKC Waalwijk,3,2,1.0
+2004-2005,7,2004-10-03,Heerenveen,ADO Den Haag,1,0,1.0
+2004-2005,7,2004-10-03,Feyenoord,Den Bosch,4,2,1.0
+2004-2005,8,2004-10-15,De Graafschap,AZ Alkmaar,1,3,0.0
+2004-2005,8,2004-10-16,Ajax,Heerenveen,1,3,0.0
+2004-2005,8,2004-10-16,ADO Den Haag,PSV Eindhoven,0,2,0.0
+2004-2005,8,2004-10-16,Den Bosch,RBC Roosendaal,2,1,1.0
+2004-2005,8,2004-10-17,Vitesse,NAC Breda,1,2,0.0
+2004-2005,8,2004-10-17,Groningen,Utrecht,3,0,1.0
+2004-2005,8,2004-10-17,RKC Waalwijk,NEC Nijmegen,2,2,0.5
+2004-2005,8,2004-10-17,Roda JC,Feyenoord,0,2,0.0
+2004-2005,9,2004-10-22,Willem II,Groningen,4,2,1.0
+2004-2005,9,2004-10-23,RBC Roosendaal,Twente,0,1,0.0
+2004-2005,9,2004-10-23,Vitesse,AZ Alkmaar,0,3,0.0
+2004-2005,9,2004-10-23,NEC Nijmegen,NAC Breda,3,3,0.5
+2004-2005,9,2004-10-24,Heerenveen,Utrecht,2,1,1.0
+2004-2005,9,2004-10-24,PSV Eindhoven,Ajax,2,0,1.0
+2004-2005,9,2004-10-24,De Graafschap,ADO Den Haag,1,2,0.0
+2004-2005,9,2004-10-24,Roda JC,Den Bosch,5,0,1.0
+2004-2005,9,2004-10-24,Feyenoord,RKC Waalwijk,4,0,1.0
+2004-2005,9,2004-10-27,De Graafschap,Willem II,2,2,0.5
+2004-2005,9,2004-10-27,NAC Breda,Roda JC,4,0,1.0
+2004-2005,9,2004-10-27,ADO Den Haag,Twente,0,1,0.0
+2004-2005,10,2004-10-29,Utrecht,PSV Eindhoven,0,0,0.5
+2004-2005,10,2004-10-30,Willem II,RBC Roosendaal,3,0,1.0
+2004-2005,10,2004-10-30,Twente,Vitesse,1,4,0.0
+2004-2005,10,2004-10-30,Roda JC,RKC Waalwijk,1,1,0.5
+2004-2005,10,2004-10-31,Groningen,ADO Den Haag,4,3,1.0
+2004-2005,10,2004-10-31,Den Bosch,Heerenveen,2,4,0.0
+2004-2005,10,2004-10-31,Ajax,NEC Nijmegen,1,0,1.0
+2004-2005,10,2004-10-31,AZ Alkmaar,Feyenoord,4,1,1.0
+2004-2005,11,2004-11-05,RBC Roosendaal,De Graafschap,3,0,1.0
+2004-2005,11,2004-11-06,RKC Waalwijk,Heerenveen,0,0,0.5
+2004-2005,11,2004-11-07,Den Bosch,PSV Eindhoven,0,3,0.0
+2004-2005,11,2004-11-07,AZ Alkmaar,Utrecht,4,0,1.0
+2004-2005,11,2004-11-07,Vitesse,NEC Nijmegen,1,0,1.0
+2004-2005,11,2004-11-07,Willem II,Ajax,1,3,0.0
+2004-2005,11,2004-11-07,Feyenoord,NAC Breda,4,0,1.0
+2004-2005,11,2004-11-07,Twente,Groningen,1,2,0.0
+2004-2005,12,2004-11-12,ADO Den Haag,RBC Roosendaal,5,1,1.0
+2004-2005,12,2004-11-13,NEC Nijmegen,Twente,0,2,0.0
+2004-2005,12,2004-11-13,PSV Eindhoven,Willem II,1,0,1.0
+2004-2005,12,2004-11-13,Heerenveen,Vitesse,0,3,0.0
+2004-2005,12,2004-11-13,NAC Breda,AZ Alkmaar,0,3,0.0
+2004-2005,12,2004-11-14,Groningen,Den Bosch,3,1,1.0
+2004-2005,12,2004-11-14,Ajax,Feyenoord,1,1,0.5
+2004-2005,12,2004-11-14,RKC Waalwijk,De Graafschap,2,2,0.5
+2004-2005,12,2004-11-14,Utrecht,Roda JC,1,1,0.5
+2004-2005,13,2004-11-19,Roda JC,ADO Den Haag,1,1,0.5
+2004-2005,13,2004-11-20,RBC Roosendaal,Heerenveen,1,3,0.0
+2004-2005,13,2004-11-20,AZ Alkmaar,RKC Waalwijk,3,0,1.0
+2004-2005,13,2004-11-20,De Graafschap,Ajax,0,5,0.0
+2004-2005,13,2004-11-21,Vitesse,PSV Eindhoven,0,2,0.0
+2004-2005,13,2004-11-21,Willem II,NAC Breda,0,1,0.0
+2004-2005,13,2004-11-21,Den Bosch,NEC Nijmegen,0,0,0.5
+2004-2005,13,2004-11-21,Twente,Utrecht,0,1,0.0
+2004-2005,13,2004-11-21,Feyenoord,Groningen,1,2,0.0
+2004-2005,14,2004-11-26,RKC Waalwijk,Vitesse,2,2,0.5
+2004-2005,14,2004-11-27,PSV Eindhoven,Twente,2,0,1.0
+2004-2005,14,2004-11-27,ADO Den Haag,Willem II,0,1,0.0
+2004-2005,14,2004-11-27,NEC Nijmegen,Roda JC,1,1,0.5
+2004-2005,14,2004-11-28,NAC Breda,Den Bosch,3,0,1.0
+2004-2005,14,2004-11-28,Utrecht,De Graafschap,1,0,1.0
+2004-2005,14,2004-11-28,Groningen,AZ Alkmaar,1,2,0.0
+2004-2005,14,2004-11-28,Ajax,RBC Roosendaal,4,1,1.0
+2004-2005,14,2004-11-28,Heerenveen,Feyenoord,2,2,0.5
+2004-2005,15,2004-12-03,RKC Waalwijk,Ajax,1,2,0.0
+2004-2005,15,2004-12-04,Twente,Den Bosch,4,0,1.0
+2004-2005,15,2004-12-04,Roda JC,Groningen,5,1,1.0
+2004-2005,15,2004-12-04,De Graafschap,PSV Eindhoven,0,4,0.0
+2004-2005,15,2004-12-04,RBC Roosendaal,NAC Breda,0,0,0.5
+2004-2005,15,2004-12-05,Feyenoord,NEC Nijmegen,2,1,1.0
+2004-2005,15,2004-12-05,AZ Alkmaar,ADO Den Haag,2,0,1.0
+2004-2005,15,2004-12-05,Vitesse,Utrecht,2,1,1.0
+2004-2005,15,2004-12-05,Willem II,Heerenveen,2,2,0.5
+2004-2005,16,2004-12-10,Heerenveen,Groningen,1,0,1.0
+2004-2005,16,2004-12-11,Den Bosch,RKC Waalwijk,0,2,0.0
+2004-2005,16,2004-12-11,AZ Alkmaar,Twente,5,0,1.0
+2004-2005,16,2004-12-11,Roda JC,RBC Roosendaal,3,1,1.0
+2004-2005,16,2004-12-11,Willem II,Utrecht,0,0,0.5
+2004-2005,16,2004-12-12,De Graafschap,NEC Nijmegen,3,2,1.0
+2004-2005,16,2004-12-12,Feyenoord,PSV Eindhoven,3,3,0.5
+2004-2005,16,2004-12-12,Ajax,Vitesse,1,0,1.0
+2004-2005,16,2004-12-12,NAC Breda,ADO Den Haag,1,1,0.5
+2004-2005,17,2004-12-16,Vitesse,De Graafschap,3,1,1.0
+2004-2005,17,2004-12-17,Twente,NAC Breda,0,0,0.5
+2004-2005,17,2004-12-18,RKC Waalwijk,Willem II,1,0,1.0
+2004-2005,17,2004-12-18,PSV Eindhoven,Roda JC,0,2,0.0
+2004-2005,17,2004-12-18,RBC Roosendaal,AZ Alkmaar,0,2,0.0
+2004-2005,17,2004-12-19,NEC Nijmegen,Heerenveen,3,2,1.0
+2004-2005,17,2004-12-19,Utrecht,Den Bosch,1,0,1.0
+2004-2005,17,2004-12-19,Groningen,Ajax,0,4,0.0
+2004-2005,17,2004-12-19,ADO Den Haag,Feyenoord,2,0,1.0
+2004-2005,18,2005-01-21,AZ Alkmaar,NEC Nijmegen,1,1,0.5
+2004-2005,18,2005-01-22,Heerenveen,Den Bosch,2,1,1.0
+2004-2005,18,2005-01-22,Willem II,Twente,0,3,0.0
+2004-2005,18,2005-01-22,PSV Eindhoven,NAC Breda,4,0,1.0
+2004-2005,18,2005-01-22,De Graafschap,Roda JC,2,0,1.0
+2004-2005,18,2005-01-23,RBC Roosendaal,RKC Waalwijk,0,1,0.0
+2004-2005,18,2005-01-23,Feyenoord,Vitesse,1,2,0.0
+2004-2005,18,2005-01-23,Utrecht,Ajax,0,2,0.0
+2004-2005,18,2005-01-23,ADO Den Haag,Groningen,0,3,0.0
+2004-2005,19,2005-01-28,Roda JC,Willem II,4,0,1.0
+2004-2005,19,2005-01-29,Twente,Feyenoord,0,0,0.5
+2004-2005,19,2005-01-29,Vitesse,RBC Roosendaal,1,3,0.0
+2004-2005,19,2005-01-29,Den Bosch,AZ Alkmaar,0,1,0.0
+2004-2005,19,2005-01-30,RKC Waalwijk,PSV Eindhoven,1,4,0.0
+2004-2005,19,2005-01-30,Ajax,ADO Den Haag,0,0,0.5
+2004-2005,19,2005-01-30,NEC Nijmegen,Utrecht,0,0,0.5
+2004-2005,19,2005-01-30,Groningen,De Graafschap,1,0,1.0
+2004-2005,19,2005-01-30,NAC Breda,Heerenveen,1,1,0.5
+2004-2005,20,2005-02-02,PSV Eindhoven,RBC Roosendaal,4,1,1.0
+2004-2005,20,2005-02-04,De Graafschap,Feyenoord,2,7,0.0
+2004-2005,20,2005-02-04,Willem II,NEC Nijmegen,3,1,1.0
+2004-2005,20,2005-02-05,ADO Den Haag,Den Bosch,2,0,1.0
+2004-2005,20,2005-02-05,Heerenveen,AZ Alkmaar,1,3,0.0
+2004-2005,20,2005-02-06,Utrecht,NAC Breda,2,0,1.0
+2004-2005,20,2005-02-06,Vitesse,Roda JC,3,0,1.0
+2004-2005,20,2005-02-06,RKC Waalwijk,Groningen,3,0,1.0
+2004-2005,20,2005-02-06,Ajax,Twente,1,2,0.0
+2004-2005,21,2005-02-11,Groningen,Vitesse,0,0,0.5
+2004-2005,21,2005-02-12,RBC Roosendaal,Utrecht,0,1,0.0
+2004-2005,21,2005-02-12,AZ Alkmaar,PSV Eindhoven,0,0,0.5
+2004-2005,21,2005-02-12,Roda JC,Heerenveen,2,3,0.0
+2004-2005,21,2005-02-12,Twente,RKC Waalwijk,3,1,1.0
+2004-2005,21,2005-02-13,NEC Nijmegen,ADO Den Haag,1,1,0.5
+2004-2005,21,2005-02-13,NAC Breda,Ajax,1,2,0.0
+2004-2005,21,2005-02-13,Feyenoord,Willem II,7,0,1.0
+2004-2005,21,2005-02-13,Den Bosch,De Graafschap,0,2,0.0
+2004-2005,22,2005-02-18,RBC Roosendaal,Willem II,2,0,1.0
+2004-2005,22,2005-02-19,PSV Eindhoven,NEC Nijmegen,4,1,1.0
+2004-2005,22,2005-02-20,Utrecht,Feyenoord,0,2,0.0
+2004-2005,22,2005-02-20,RKC Waalwijk,NAC Breda,1,0,1.0
+2004-2005,22,2005-02-20,Vitesse,ADO Den Haag,3,4,0.0
+2004-2005,22,2005-02-20,Groningen,Twente,0,1,0.0
+2004-2005,22,2005-02-20,Ajax,Den Bosch,2,0,1.0
+2004-2005,22,2005-02-20,AZ Alkmaar,Roda JC,1,1,0.5
+2004-2005,22,2005-02-20,De Graafschap,Heerenveen,2,1,1.0
+2004-2005,23,2005-02-25,NEC Nijmegen,RKC Waalwijk,1,0,1.0
+2004-2005,23,2005-02-26,NAC Breda,Groningen,1,4,0.0
+2004-2005,23,2005-02-26,Twente,De Graafschap,0,0,0.5
+2004-2005,23,2005-02-27,Willem II,AZ Alkmaar,1,3,0.0
+2004-2005,23,2005-02-27,Den Bosch,Vitesse,1,2,0.0
+2004-2005,23,2005-02-27,Heerenveen,PSV Eindhoven,0,3,0.0
+2004-2005,23,2005-02-27,Roda JC,Ajax,1,2,0.0
+2004-2005,23,2005-02-27,Feyenoord,RBC Roosendaal,3,0,1.0
+2004-2005,23,2005-02-27,ADO Den Haag,Utrecht,1,0,1.0
+2004-2005,24,2005-03-04,RBC Roosendaal,NEC Nijmegen,1,0,1.0
+2004-2005,24,2005-03-05,RKC Waalwijk,Utrecht,2,2,0.5
+2004-2005,24,2005-03-05,Vitesse,Willem II,2,0,1.0
+2004-2005,24,2005-03-06,De Graafschap,NAC Breda,0,2,0.0
+2004-2005,24,2005-03-06,Roda JC,Twente,1,2,0.0
+2004-2005,25,2005-03-11,Twente,RBC Roosendaal,3,0,1.0
+2004-2005,25,2005-03-12,NAC Breda,Vitesse,1,2,0.0
+2004-2005,25,2005-03-12,Willem II,Den Bosch,2,1,1.0
+2004-2005,25,2005-03-12,Heerenveen,RKC Waalwijk,1,2,0.0
+2004-2005,25,2005-03-13,Feyenoord,Roda JC,4,1,1.0
+2004-2005,25,2005-03-13,NEC Nijmegen,Ajax,0,1,0.0
+2004-2005,25,2005-03-13,Utrecht,Groningen,1,2,0.0
+2004-2005,25,2005-03-13,PSV Eindhoven,ADO Den Haag,4,0,1.0
+2004-2005,25,2005-03-13,AZ Alkmaar,De Graafschap,3,2,1.0
+2004-2005,24,2005-03-16,ADO Den Haag,Heerenveen,0,2,0.0
+2004-2005,24,2005-03-17,Groningen,PSV Eindhoven,0,1,0.0
+2004-2005,26,2005-03-18,Den Bosch,Roda JC,0,3,0.0
+2004-2005,26,2005-03-19,RKC Waalwijk,Feyenoord,2,4,0.0
+2004-2005,26,2005-03-19,De Graafschap,RBC Roosendaal,0,1,0.0
+2004-2005,26,2005-03-19,NAC Breda,NEC Nijmegen,1,2,0.0
+2004-2005,26,2005-03-19,AZ Alkmaar,Vitesse,3,0,1.0
+2004-2005,26,2005-03-20,Twente,ADO Den Haag,2,1,1.0
+2004-2005,26,2005-03-20,Utrecht,Heerenveen,0,1,0.0
+2004-2005,26,2005-03-20,Groningen,Willem II,1,1,0.5
+2004-2005,26,2005-03-20,Ajax,PSV Eindhoven,0,4,0.0
+2004-2005,27,2005-04-01,Vitesse,Twente,1,1,0.5
+2004-2005,27,2005-04-02,Heerenveen,Ajax,2,1,1.0
+2004-2005,27,2005-04-02,PSV Eindhoven,Utrecht,2,0,1.0
+2004-2005,27,2005-04-02,ADO Den Haag,RKC Waalwijk,0,0,0.5
+2004-2005,27,2005-04-02,Willem II,De Graafschap,4,1,1.0
+2004-2005,27,2005-04-03,NEC Nijmegen,Groningen,4,3,1.0
+2004-2005,27,2005-04-03,Roda JC,NAC Breda,2,1,1.0
+2004-2005,27,2005-04-03,Feyenoord,AZ Alkmaar,4,2,1.0
+2004-2005,27,2005-04-03,RBC Roosendaal,Den Bosch,1,2,0.0
+2004-2005,28,2005-04-07,Ajax,Willem II,2,0,1.0
+2004-2005,28,2005-04-08,ADO Den Haag,De Graafschap,2,0,1.0
+2004-2005,28,2005-04-09,PSV Eindhoven,Den Bosch,3,0,1.0
+2004-2005,28,2005-04-09,Heerenveen,Twente,1,2,0.0
+2004-2005,28,2005-04-09,Groningen,RBC Roosendaal,3,0,1.0
+2004-2005,24,2005-04-10,Ajax,AZ Alkmaar,4,2,1.0
+2004-2005,28,2005-04-10,NEC Nijmegen,Vitesse,1,1,0.5
+2004-2005,28,2005-04-10,NAC Breda,Feyenoord,0,2,0.0
+2004-2005,28,2005-04-10,RKC Waalwijk,Roda JC,1,0,1.0
+2004-2005,24,2005-04-13,Den Bosch,Feyenoord,4,1,1.0
+2004-2005,29,2005-04-15,Roda JC,Utrecht,3,2,1.0
+2004-2005,29,2005-04-16,RBC Roosendaal,ADO Den Haag,2,0,1.0
+2004-2005,29,2005-04-16,Vitesse,Heerenveen,1,3,0.0
+2004-2005,29,2005-04-16,De Graafschap,RKC Waalwijk,2,4,0.0
+2004-2005,29,2005-04-17,AZ Alkmaar,NAC Breda,1,1,0.5
+2004-2005,29,2005-04-17,Twente,NEC Nijmegen,2,1,1.0
+2004-2005,29,2005-04-17,Den Bosch,Groningen,1,2,0.0
+2004-2005,29,2005-04-17,Feyenoord,Ajax,2,3,0.0
+2004-2005,29,2005-04-17,Willem II,PSV Eindhoven,0,1,0.0
+2004-2005,28,2005-04-20,Utrecht,AZ Alkmaar,3,2,1.0
+2004-2005,30,2005-04-22,Heerenveen,RBC Roosendaal,7,1,1.0
+2004-2005,30,2005-04-23,ADO Den Haag,Roda JC,1,4,0.0
+2004-2005,30,2005-04-23,PSV Eindhoven,Vitesse,3,0,1.0
+2004-2005,30,2005-04-23,RKC Waalwijk,AZ Alkmaar,2,1,1.0
+2004-2005,30,2005-04-24,Ajax,De Graafschap,1,0,1.0
+2004-2005,30,2005-04-24,Utrecht,Twente,2,2,0.5
+2004-2005,30,2005-04-24,NAC Breda,Willem II,1,2,0.0
+2004-2005,30,2005-04-24,NEC Nijmegen,Den Bosch,2,2,0.5
+2004-2005,30,2005-04-24,Groningen,Feyenoord,0,2,0.0
+2004-2005,31,2005-04-29,Twente,PSV Eindhoven,2,2,0.5
+2004-2005,31,2005-04-29,Roda JC,NEC Nijmegen,1,0,1.0
+2004-2005,31,2005-04-30,RBC Roosendaal,Ajax,1,4,0.0
+2004-2005,31,2005-05-01,Vitesse,RKC Waalwijk,3,1,1.0
+2004-2005,31,2005-05-01,AZ Alkmaar,Groningen,2,1,1.0
+2004-2005,31,2005-05-01,Feyenoord,Heerenveen,1,3,0.0
+2004-2005,31,2005-05-01,Willem II,ADO Den Haag,1,0,1.0
+2004-2005,31,2005-05-01,Den Bosch,NAC Breda,0,2,0.0
+2004-2005,31,2005-05-01,De Graafschap,Utrecht,0,0,0.5
+2004-2005,32,2005-05-06,NAC Breda,RBC Roosendaal,1,2,0.0
+2004-2005,32,2005-05-07,Heerenveen,Willem II,2,2,0.5
+2004-2005,32,2005-05-07,Ajax,RKC Waalwijk,4,0,1.0
+2004-2005,32,2005-05-07,Den Bosch,Twente,1,0,1.0
+2004-2005,32,2005-05-08,ADO Den Haag,AZ Alkmaar,2,1,1.0
+2004-2005,32,2005-05-08,Groningen,Roda JC,4,4,0.5
+2004-2005,32,2005-05-08,NEC Nijmegen,Feyenoord,2,0,1.0
+2004-2005,32,2005-05-08,PSV Eindhoven,De Graafschap,4,1,1.0
+2004-2005,32,2005-05-08,Utrecht,Vitesse,1,2,0.0
+2004-2005,33,2005-05-15,RKC Waalwijk,Den Bosch,2,0,1.0
+2004-2005,33,2005-05-15,Groningen,Heerenveen,1,2,0.0
+2004-2005,33,2005-05-15,PSV Eindhoven,Feyenoord,4,2,1.0
+2004-2005,33,2005-05-15,Utrecht,Willem II,0,3,0.0
+2004-2005,33,2005-05-15,RBC Roosendaal,Roda JC,3,1,1.0
+2004-2005,33,2005-05-15,NEC Nijmegen,De Graafschap,3,0,1.0
+2004-2005,33,2005-05-15,ADO Den Haag,NAC Breda,6,2,1.0
+2004-2005,33,2005-05-15,Vitesse,Ajax,0,2,0.0
+2004-2005,33,2005-05-15,Twente,AZ Alkmaar,3,0,1.0
+2004-2005,34,2005-05-22,Den Bosch,Utrecht,0,3,0.0
+2004-2005,34,2005-05-22,NAC Breda,Twente,1,1,0.5
+2004-2005,34,2005-05-22,Roda JC,PSV Eindhoven,0,0,0.5
+2004-2005,34,2005-05-22,Feyenoord,ADO Den Haag,6,3,1.0
+2004-2005,34,2005-05-22,Ajax,Groningen,2,1,1.0
+2004-2005,34,2005-05-22,Willem II,RKC Waalwijk,3,0,1.0
+2004-2005,34,2005-05-22,De Graafschap,Vitesse,1,2,0.0
+2004-2005,34,2005-05-22,AZ Alkmaar,RBC Roosendaal,1,3,0.0
+2004-2005,34,2005-05-22,Heerenveen,NEC Nijmegen,2,1,1.0

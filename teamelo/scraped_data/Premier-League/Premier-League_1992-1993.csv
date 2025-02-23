@@ -1,463 +1,463 @@
 Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
 1992-1993,1,1992-08-15,Southampton,Tottenham,0,0,0.5
-1992-1993,1,1992-08-15,Coventry City,Middlesbrough,2,1,0.0
-1992-1993,1,1992-08-15,Sheffield Utd,Manchester Utd,2,1,0.0
-1992-1993,1,1992-08-15,Arsenal,Norwich City,2,4,1.0
+1992-1993,1,1992-08-15,Coventry City,Middlesbrough,2,1,1.0
+1992-1993,1,1992-08-15,Sheffield Utd,Manchester Utd,2,1,1.0
+1992-1993,1,1992-08-15,Arsenal,Norwich City,2,4,0.0
 1992-1993,1,1992-08-15,Crystal Palace,Blackburn,3,3,0.5
 1992-1993,1,1992-08-15,Chelsea,Oldham Athletic,1,1,0.5
-1992-1993,1,1992-08-15,Leeds United,Wimbledon,2,1,0.0
+1992-1993,1,1992-08-15,Leeds United,Wimbledon,2,1,1.0
 1992-1993,1,1992-08-15,Ipswich Town,Aston Villa,1,1,0.5
 1992-1993,1,1992-08-15,Everton,Sheffield Weds,1,1,0.5
-1992-1993,1,1992-08-16,Nott'ham Forest,Liverpool,1,0,0.0
+1992-1993,1,1992-08-16,Nott'ham Forest,Liverpool,1,0,1.0
 1992-1993,1,1992-08-17,Manchester City,QPR,1,1,0.5
-1992-1993,2,1992-08-18,Wimbledon,Ipswich Town,0,1,1.0
-1992-1993,2,1992-08-18,Blackburn,Arsenal,1,0,0.0
-1992-1993,2,1992-08-19,Sheffield Weds,Nott'ham Forest,2,0,0.0
+1992-1993,2,1992-08-18,Wimbledon,Ipswich Town,0,1,0.0
+1992-1993,2,1992-08-18,Blackburn,Arsenal,1,0,1.0
+1992-1993,2,1992-08-19,Sheffield Weds,Nott'ham Forest,2,0,1.0
 1992-1993,2,1992-08-19,Oldham Athletic,Crystal Palace,1,1,0.5
 1992-1993,2,1992-08-19,Aston Villa,Leeds United,1,1,0.5
-1992-1993,2,1992-08-19,QPR,Southampton,3,1,0.0
-1992-1993,2,1992-08-19,Norwich City,Chelsea,2,1,0.0
-1992-1993,2,1992-08-19,Middlesbrough,Manchester City,2,0,0.0
-1992-1993,2,1992-08-19,Liverpool,Sheffield Utd,2,1,0.0
-1992-1993,2,1992-08-19,Tottenham,Coventry City,0,2,1.0
-1992-1993,2,1992-08-19,Manchester Utd,Everton,0,3,1.0
-1992-1993,3,1992-08-22,Wimbledon,Coventry City,1,2,1.0
+1992-1993,2,1992-08-19,QPR,Southampton,3,1,1.0
+1992-1993,2,1992-08-19,Norwich City,Chelsea,2,1,1.0
+1992-1993,2,1992-08-19,Middlesbrough,Manchester City,2,0,1.0
+1992-1993,2,1992-08-19,Liverpool,Sheffield Utd,2,1,1.0
+1992-1993,2,1992-08-19,Tottenham,Coventry City,0,2,0.0
+1992-1993,2,1992-08-19,Manchester Utd,Everton,0,3,0.0
+1992-1993,3,1992-08-22,Wimbledon,Coventry City,1,2,0.0
 1992-1993,3,1992-08-22,Manchester Utd,Ipswich Town,1,1,0.5
 1992-1993,3,1992-08-22,Sheffield Weds,Chelsea,3,3,0.5
-1992-1993,3,1992-08-22,Blackburn,Manchester City,1,0,0.0
+1992-1993,3,1992-08-22,Blackburn,Manchester City,1,0,1.0
 1992-1993,3,1992-08-22,Aston Villa,Southampton,1,1,0.5
-1992-1993,3,1992-08-22,Middlesbrough,Leeds United,4,1,0.0
-1992-1993,3,1992-08-22,QPR,Sheffield Utd,3,2,0.0
-1992-1993,3,1992-08-22,Oldham Athletic,Nott'ham Forest,5,3,0.0
+1992-1993,3,1992-08-22,Middlesbrough,Leeds United,4,1,1.0
+1992-1993,3,1992-08-22,QPR,Sheffield Utd,3,2,1.0
+1992-1993,3,1992-08-22,Oldham Athletic,Nott'ham Forest,5,3,1.0
 1992-1993,3,1992-08-22,Norwich City,Everton,1,1,0.5
 1992-1993,3,1992-08-22,Tottenham,Crystal Palace,2,2,0.5
-1992-1993,3,1992-08-23,Liverpool,Arsenal,0,2,1.0
-1992-1993,4,1992-08-24,Southampton,Manchester Utd,0,1,1.0
+1992-1993,3,1992-08-23,Liverpool,Arsenal,0,2,0.0
+1992-1993,4,1992-08-24,Southampton,Manchester Utd,0,1,0.0
 1992-1993,4,1992-08-25,Ipswich Town,Liverpool,2,2,0.5
 1992-1993,4,1992-08-25,Sheffield Utd,Wimbledon,2,2,0.5
-1992-1993,4,1992-08-25,Leeds United,Tottenham,5,0,0.0
+1992-1993,4,1992-08-25,Leeds United,Tottenham,5,0,1.0
 1992-1993,4,1992-08-25,Crystal Palace,Sheffield Weds,1,1,0.5
-1992-1993,4,1992-08-25,Everton,Aston Villa,1,0,0.0
-1992-1993,4,1992-08-26,Arsenal,Oldham Athletic,2,0,0.0
-1992-1993,4,1992-08-26,Manchester City,Norwich City,3,1,0.0
+1992-1993,4,1992-08-25,Everton,Aston Villa,1,0,1.0
+1992-1993,4,1992-08-26,Arsenal,Oldham Athletic,2,0,1.0
+1992-1993,4,1992-08-26,Manchester City,Norwich City,3,1,1.0
 1992-1993,4,1992-08-26,Chelsea,Blackburn,0,0,0.5
-1992-1993,4,1992-08-26,Coventry City,QPR,0,1,1.0
+1992-1993,4,1992-08-26,Coventry City,QPR,0,1,0.0
 1992-1993,5,1992-08-29,Manchester City,Oldham Athletic,3,3,0.5
-1992-1993,5,1992-08-29,Crystal Palace,Norwich City,1,2,1.0
-1992-1993,5,1992-08-29,Arsenal,Sheffield Weds,2,1,0.0
-1992-1993,5,1992-08-29,Southampton,Middlesbrough,2,1,0.0
+1992-1993,5,1992-08-29,Crystal Palace,Norwich City,1,2,0.0
+1992-1993,5,1992-08-29,Arsenal,Sheffield Weds,2,1,1.0
+1992-1993,5,1992-08-29,Southampton,Middlesbrough,2,1,1.0
 1992-1993,5,1992-08-29,Everton,Wimbledon,0,0,0.5
-1992-1993,5,1992-08-29,Chelsea,QPR,1,0,0.0
-1992-1993,5,1992-08-29,Coventry City,Blackburn,0,2,1.0
-1992-1993,5,1992-08-29,Sheffield Utd,Aston Villa,0,2,1.0
-1992-1993,5,1992-08-29,Nott'ham Forest,Manchester Utd,0,2,1.0
+1992-1993,5,1992-08-29,Chelsea,QPR,1,0,1.0
+1992-1993,5,1992-08-29,Coventry City,Blackburn,0,2,0.0
+1992-1993,5,1992-08-29,Sheffield Utd,Aston Villa,0,2,0.0
+1992-1993,5,1992-08-29,Nott'ham Forest,Manchester Utd,0,2,0.0
 1992-1993,5,1992-08-29,Leeds United,Liverpool,2,2,0.5
 1992-1993,5,1992-08-30,Ipswich Town,Tottenham,1,1,0.5
-1992-1993,6,1992-08-31,Norwich City,Nott'ham Forest,3,1,0.0
+1992-1993,6,1992-08-31,Norwich City,Nott'ham Forest,3,1,1.0
 1992-1993,6,1992-09-01,Oldham Athletic,Leeds United,2,2,0.5
 1992-1993,6,1992-09-01,Middlesbrough,Ipswich Town,2,2,0.5
 1992-1993,6,1992-09-01,Liverpool,Southampton,1,1,0.5
-1992-1993,6,1992-09-01,Wimbledon,Manchester City,0,1,1.0
-1992-1993,6,1992-09-02,Aston Villa,Chelsea,1,3,1.0
+1992-1993,6,1992-09-01,Wimbledon,Manchester City,0,1,0.0
+1992-1993,6,1992-09-02,Aston Villa,Chelsea,1,3,0.0
 1992-1993,6,1992-09-02,QPR,Arsenal,0,0,0.5
-1992-1993,6,1992-09-02,Sheffield Weds,Coventry City,1,2,1.0
-1992-1993,6,1992-09-02,Manchester Utd,Crystal Palace,1,0,0.0
-1992-1993,6,1992-09-02,Tottenham,Sheffield Utd,2,0,0.0
-1992-1993,7,1992-09-05,Oldham Athletic,Coventry City,0,1,1.0
-1992-1993,7,1992-09-05,Tottenham,Everton,2,1,0.0
-1992-1993,7,1992-09-05,Sheffield Weds,Manchester City,0,3,1.0
+1992-1993,6,1992-09-02,Sheffield Weds,Coventry City,1,2,0.0
+1992-1993,6,1992-09-02,Manchester Utd,Crystal Palace,1,0,1.0
+1992-1993,6,1992-09-02,Tottenham,Sheffield Utd,2,0,1.0
+1992-1993,7,1992-09-05,Oldham Athletic,Coventry City,0,1,0.0
+1992-1993,7,1992-09-05,Tottenham,Everton,2,1,1.0
+1992-1993,7,1992-09-05,Sheffield Weds,Manchester City,0,3,0.0
 1992-1993,7,1992-09-05,QPR,Ipswich Town,0,0,0.5
-1992-1993,7,1992-09-05,Blackburn,Nott'ham Forest,4,1,0.0
-1992-1993,7,1992-09-05,Aston Villa,Crystal Palace,3,0,0.0
-1992-1993,7,1992-09-05,Norwich City,Southampton,1,0,0.0
-1992-1993,7,1992-09-05,Wimbledon,Arsenal,3,2,0.0
-1992-1993,7,1992-09-05,Middlesbrough,Sheffield Utd,2,0,0.0
-1992-1993,7,1992-09-05,Liverpool,Chelsea,2,1,0.0
-1992-1993,7,1992-09-06,Manchester Utd,Leeds United,2,0,0.0
-1992-1993,8,1992-09-12,Sheffield Utd,Liverpool,1,0,0.0
-1992-1993,8,1992-09-12,Everton,Manchester Utd,0,2,1.0
-1992-1993,8,1992-09-12,Manchester City,Middlesbrough,0,1,1.0
+1992-1993,7,1992-09-05,Blackburn,Nott'ham Forest,4,1,1.0
+1992-1993,7,1992-09-05,Aston Villa,Crystal Palace,3,0,1.0
+1992-1993,7,1992-09-05,Norwich City,Southampton,1,0,1.0
+1992-1993,7,1992-09-05,Wimbledon,Arsenal,3,2,1.0
+1992-1993,7,1992-09-05,Middlesbrough,Sheffield Utd,2,0,1.0
+1992-1993,7,1992-09-05,Liverpool,Chelsea,2,1,1.0
+1992-1993,7,1992-09-06,Manchester Utd,Leeds United,2,0,1.0
+1992-1993,8,1992-09-12,Sheffield Utd,Liverpool,1,0,1.0
+1992-1993,8,1992-09-12,Everton,Manchester Utd,0,2,0.0
+1992-1993,8,1992-09-12,Manchester City,Middlesbrough,0,1,0.0
 1992-1993,8,1992-09-12,Crystal Palace,Oldham Athletic,2,2,0.5
-1992-1993,8,1992-09-12,Arsenal,Blackburn,0,1,1.0
-1992-1993,8,1992-09-12,Nott'ham Forest,Sheffield Weds,1,2,1.0
-1992-1993,8,1992-09-12,Southampton,QPR,1,2,1.0
-1992-1993,8,1992-09-12,Chelsea,Norwich City,2,3,1.0
-1992-1993,8,1992-09-12,Ipswich Town,Wimbledon,2,1,0.0
+1992-1993,8,1992-09-12,Arsenal,Blackburn,0,1,0.0
+1992-1993,8,1992-09-12,Nott'ham Forest,Sheffield Weds,1,2,0.0
+1992-1993,8,1992-09-12,Southampton,QPR,1,2,0.0
+1992-1993,8,1992-09-12,Chelsea,Norwich City,2,3,0.0
+1992-1993,8,1992-09-12,Ipswich Town,Wimbledon,2,1,1.0
 1992-1993,8,1992-09-13,Leeds United,Aston Villa,1,1,0.5
-1992-1993,8,1992-09-14,Coventry City,Tottenham,1,0,0.0
-1992-1993,6,1992-09-15,Blackburn,Everton,2,3,1.0
-1992-1993,9,1992-09-19,Oldham Athletic,Ipswich Town,4,2,0.0
+1992-1993,8,1992-09-14,Coventry City,Tottenham,1,0,1.0
+1992-1993,6,1992-09-15,Blackburn,Everton,2,3,0.0
+1992-1993,9,1992-09-19,Oldham Athletic,Ipswich Town,4,2,1.0
 1992-1993,9,1992-09-19,Sheffield Utd,Arsenal,1,1,0.5
 1992-1993,9,1992-09-19,Southampton,Leeds United,1,1,0.5
 1992-1993,9,1992-09-19,Wimbledon,Blackburn,1,1,0.5
 1992-1993,9,1992-09-19,Tottenham,Manchester Utd,1,1,0.5
-1992-1993,9,1992-09-19,Aston Villa,Liverpool,4,2,0.0
-1992-1993,9,1992-09-19,Norwich City,Sheffield Weds,1,0,0.0
+1992-1993,9,1992-09-19,Aston Villa,Liverpool,4,2,1.0
+1992-1993,9,1992-09-19,Norwich City,Sheffield Weds,1,0,1.0
 1992-1993,9,1992-09-19,QPR,Middlesbrough,3,3,0.5
-1992-1993,9,1992-09-19,Everton,Crystal Palace,0,2,1.0
-1992-1993,9,1992-09-20,Manchester City,Chelsea,0,1,1.0
+1992-1993,9,1992-09-19,Everton,Crystal Palace,0,2,0.0
+1992-1993,9,1992-09-20,Manchester City,Chelsea,0,1,0.0
 1992-1993,9,1992-09-21,Nott'ham Forest,Coventry City,1,1,0.5
 1992-1993,10,1992-09-26,Ipswich Town,Sheffield Utd,0,0,0.5
 1992-1993,10,1992-09-26,Chelsea,Nott'ham Forest,0,0,0.5
-1992-1993,10,1992-09-26,Middlesbrough,Aston Villa,2,3,1.0
+1992-1993,10,1992-09-26,Middlesbrough,Aston Villa,2,3,0.0
 1992-1993,10,1992-09-26,Coventry City,Norwich City,1,1,0.5
 1992-1993,10,1992-09-26,Manchester Utd,QPR,0,0,0.5
-1992-1993,10,1992-09-26,Liverpool,Wimbledon,2,3,1.0
-1992-1993,10,1992-09-26,Crystal Palace,Southampton,1,2,1.0
-1992-1993,10,1992-09-26,Blackburn,Oldham Athletic,2,0,0.0
-1992-1993,10,1992-09-26,Leeds United,Everton,2,0,0.0
-1992-1993,10,1992-09-27,Sheffield Weds,Tottenham,2,0,0.0
-1992-1993,10,1992-09-28,Arsenal,Manchester City,1,0,0.0
-1992-1993,11,1992-10-03,Wimbledon,Aston Villa,2,3,1.0
-1992-1993,11,1992-10-03,Ipswich Town,Leeds United,4,2,0.0
-1992-1993,11,1992-10-03,Blackburn,Norwich City,7,1,0.0
-1992-1993,11,1992-10-03,Liverpool,Sheffield Weds,1,0,0.0
+1992-1993,10,1992-09-26,Liverpool,Wimbledon,2,3,0.0
+1992-1993,10,1992-09-26,Crystal Palace,Southampton,1,2,0.0
+1992-1993,10,1992-09-26,Blackburn,Oldham Athletic,2,0,1.0
+1992-1993,10,1992-09-26,Leeds United,Everton,2,0,1.0
+1992-1993,10,1992-09-27,Sheffield Weds,Tottenham,2,0,1.0
+1992-1993,10,1992-09-28,Arsenal,Manchester City,1,0,1.0
+1992-1993,11,1992-10-03,Wimbledon,Aston Villa,2,3,0.0
+1992-1993,11,1992-10-03,Ipswich Town,Leeds United,4,2,1.0
+1992-1993,11,1992-10-03,Blackburn,Norwich City,7,1,1.0
+1992-1993,11,1992-10-03,Liverpool,Sheffield Weds,1,0,1.0
 1992-1993,11,1992-10-03,Manchester City,Nott'ham Forest,2,2,0.5
 1992-1993,11,1992-10-03,Middlesbrough,Manchester Utd,1,1,0.5
 1992-1993,11,1992-10-03,Coventry City,Crystal Palace,2,2,0.5
-1992-1993,11,1992-10-03,Sheffield Utd,Southampton,2,0,0.0
-1992-1993,11,1992-10-03,Arsenal,Chelsea,2,1,0.0
-1992-1993,11,1992-10-03,QPR,Tottenham,4,1,0.0
-1992-1993,11,1992-10-04,Oldham Athletic,Everton,1,0,0.0
+1992-1993,11,1992-10-03,Sheffield Utd,Southampton,2,0,1.0
+1992-1993,11,1992-10-03,Arsenal,Chelsea,2,1,1.0
+1992-1993,11,1992-10-03,QPR,Tottenham,4,1,1.0
+1992-1993,11,1992-10-04,Oldham Athletic,Everton,1,0,1.0
 1992-1993,12,1992-10-17,Everton,Coventry City,1,1,0.5
-1992-1993,12,1992-10-17,Nott'ham Forest,Arsenal,0,1,1.0
+1992-1993,12,1992-10-17,Nott'ham Forest,Arsenal,0,1,0.0
 1992-1993,12,1992-10-17,Tottenham,Middlesbrough,2,2,0.5
-1992-1993,12,1992-10-17,Leeds United,Sheffield Utd,3,1,0.0
+1992-1993,12,1992-10-17,Leeds United,Sheffield Utd,3,1,1.0
 1992-1993,12,1992-10-17,Southampton,Wimbledon,2,2,0.5
-1992-1993,12,1992-10-17,Chelsea,Ipswich Town,2,1,0.0
+1992-1993,12,1992-10-17,Chelsea,Ipswich Town,2,1,1.0
 1992-1993,12,1992-10-17,Crystal Palace,Manchester City,0,0,0.5
-1992-1993,12,1992-10-17,Sheffield Weds,Oldham Athletic,2,1,0.0
-1992-1993,12,1992-10-17,Norwich City,QPR,2,1,0.0
+1992-1993,12,1992-10-17,Sheffield Weds,Oldham Athletic,2,1,1.0
+1992-1993,12,1992-10-17,Norwich City,QPR,2,1,1.0
 1992-1993,12,1992-10-18,Manchester Utd,Liverpool,2,2,0.5
 1992-1993,12,1992-10-19,Aston Villa,Blackburn,0,0,0.5
-1992-1993,4,1992-10-21,Nott'ham Forest,Middlesbrough,1,0,0.0
-1992-1993,13,1992-10-24,Arsenal,Everton,2,0,0.0
-1992-1993,13,1992-10-24,Coventry City,Chelsea,1,2,1.0
+1992-1993,4,1992-10-21,Nott'ham Forest,Middlesbrough,1,0,1.0
+1992-1993,13,1992-10-24,Arsenal,Everton,2,0,1.0
+1992-1993,13,1992-10-24,Coventry City,Chelsea,1,2,0.0
 1992-1993,13,1992-10-24,Sheffield Utd,Nott'ham Forest,0,0,0.5
 1992-1993,13,1992-10-24,Oldham Athletic,Aston Villa,1,1,0.5
-1992-1993,13,1992-10-24,Manchester City,Southampton,1,0,0.0
+1992-1993,13,1992-10-24,Manchester City,Southampton,1,0,1.0
 1992-1993,13,1992-10-24,Blackburn,Manchester Utd,0,0,0.5
-1992-1993,13,1992-10-24,QPR,Leeds United,2,1,0.0
+1992-1993,13,1992-10-24,QPR,Leeds United,2,1,1.0
 1992-1993,13,1992-10-24,Ipswich Town,Crystal Palace,2,2,0.5
 1992-1993,13,1992-10-24,Middlesbrough,Sheffield Weds,1,1,0.5
 1992-1993,13,1992-10-25,Wimbledon,Tottenham,1,1,0.5
-1992-1993,13,1992-10-25,Liverpool,Norwich City,4,1,0.0
+1992-1993,13,1992-10-25,Liverpool,Norwich City,4,1,1.0
 1992-1993,14,1992-10-31,Norwich City,Middlesbrough,1,1,0.5
-1992-1993,14,1992-10-31,Manchester Utd,Wimbledon,0,1,1.0
+1992-1993,14,1992-10-31,Manchester Utd,Wimbledon,0,1,0.0
 1992-1993,14,1992-10-31,Sheffield Weds,Blackburn,0,0,0.5
-1992-1993,14,1992-10-31,Nott'ham Forest,Ipswich Town,0,1,1.0
-1992-1993,14,1992-10-31,Chelsea,Sheffield Utd,1,2,1.0
-1992-1993,14,1992-10-31,Southampton,Oldham Athletic,1,0,0.0
-1992-1993,14,1992-10-31,Tottenham,Liverpool,2,0,0.0
+1992-1993,14,1992-10-31,Nott'ham Forest,Ipswich Town,0,1,0.0
+1992-1993,14,1992-10-31,Chelsea,Sheffield Utd,1,2,0.0
+1992-1993,14,1992-10-31,Southampton,Oldham Athletic,1,0,1.0
+1992-1993,14,1992-10-31,Tottenham,Liverpool,2,0,1.0
 1992-1993,14,1992-10-31,Leeds United,Coventry City,2,2,0.5
-1992-1993,14,1992-10-31,Everton,Manchester City,1,3,1.0
-1992-1993,14,1992-11-01,Aston Villa,QPR,2,0,0.0
-1992-1993,14,1992-11-02,Crystal Palace,Arsenal,1,2,1.0
-1992-1993,15,1992-11-07,Manchester City,Leeds United,4,0,0.0
-1992-1993,15,1992-11-07,Liverpool,Middlesbrough,4,1,0.0
-1992-1993,15,1992-11-07,Chelsea,Crystal Palace,3,1,0.0
+1992-1993,14,1992-10-31,Everton,Manchester City,1,3,0.0
+1992-1993,14,1992-11-01,Aston Villa,QPR,2,0,1.0
+1992-1993,14,1992-11-02,Crystal Palace,Arsenal,1,2,0.0
+1992-1993,15,1992-11-07,Manchester City,Leeds United,4,0,1.0
+1992-1993,15,1992-11-07,Liverpool,Middlesbrough,4,1,1.0
+1992-1993,15,1992-11-07,Chelsea,Crystal Palace,3,1,1.0
 1992-1993,15,1992-11-07,Ipswich Town,Southampton,0,0,0.5
-1992-1993,15,1992-11-07,Aston Villa,Manchester Utd,1,0,0.0
-1992-1993,15,1992-11-07,Blackburn,Tottenham,0,2,1.0
-1992-1993,15,1992-11-07,Arsenal,Coventry City,3,0,0.0
-1992-1993,15,1992-11-07,Nott'ham Forest,Everton,0,1,1.0
-1992-1993,15,1992-11-07,Wimbledon,QPR,0,2,1.0
+1992-1993,15,1992-11-07,Aston Villa,Manchester Utd,1,0,1.0
+1992-1993,15,1992-11-07,Blackburn,Tottenham,0,2,0.0
+1992-1993,15,1992-11-07,Arsenal,Coventry City,3,0,1.0
+1992-1993,15,1992-11-07,Nott'ham Forest,Everton,0,1,0.0
+1992-1993,15,1992-11-07,Wimbledon,QPR,0,2,0.0
 1992-1993,15,1992-11-08,Sheffield Utd,Sheffield Weds,1,1,0.5
-1992-1993,15,1992-11-09,Oldham Athletic,Norwich City,2,3,1.0
-1992-1993,16,1992-11-21,Norwich City,Sheffield Utd,2,1,0.0
-1992-1993,16,1992-11-21,Coventry City,Manchester City,2,3,1.0
+1992-1993,15,1992-11-09,Oldham Athletic,Norwich City,2,3,0.0
+1992-1993,16,1992-11-21,Norwich City,Sheffield Utd,2,1,1.0
+1992-1993,16,1992-11-21,Coventry City,Manchester City,2,3,0.0
 1992-1993,16,1992-11-21,Crystal Palace,Nott'ham Forest,1,1,0.5
 1992-1993,16,1992-11-21,Sheffield Weds,Ipswich Town,1,1,0.5
-1992-1993,16,1992-11-21,Everton,Chelsea,0,1,1.0
-1992-1993,16,1992-11-21,Middlesbrough,Wimbledon,2,0,0.0
-1992-1993,16,1992-11-21,Leeds United,Arsenal,3,0,0.0
-1992-1993,16,1992-11-21,Manchester Utd,Oldham Athletic,3,0,0.0
+1992-1993,16,1992-11-21,Everton,Chelsea,0,1,0.0
+1992-1993,16,1992-11-21,Middlesbrough,Wimbledon,2,0,1.0
+1992-1993,16,1992-11-21,Leeds United,Arsenal,3,0,1.0
+1992-1993,16,1992-11-21,Manchester Utd,Oldham Athletic,3,0,1.0
 1992-1993,16,1992-11-21,Tottenham,Aston Villa,0,0,0.5
 1992-1993,16,1992-11-22,Southampton,Blackburn,1,1,0.5
-1992-1993,16,1992-11-23,QPR,Liverpool,0,1,1.0
-1992-1993,17,1992-11-28,Ipswich Town,Everton,1,0,0.0
-1992-1993,17,1992-11-28,Manchester City,Tottenham,0,1,1.0
-1992-1993,17,1992-11-28,Nott'ham Forest,Southampton,1,2,1.0
+1992-1993,16,1992-11-23,QPR,Liverpool,0,1,0.0
+1992-1993,17,1992-11-28,Ipswich Town,Everton,1,0,1.0
+1992-1993,17,1992-11-28,Manchester City,Tottenham,0,1,0.0
+1992-1993,17,1992-11-28,Nott'ham Forest,Southampton,1,2,0.0
 1992-1993,17,1992-11-28,Wimbledon,Sheffield Weds,1,1,0.5
-1992-1993,17,1992-11-28,Arsenal,Manchester Utd,0,1,1.0
+1992-1993,17,1992-11-28,Arsenal,Manchester Utd,0,1,0.0
 1992-1993,17,1992-11-28,Sheffield Utd,Coventry City,1,1,0.5
-1992-1993,17,1992-11-28,Aston Villa,Norwich City,2,3,1.0
-1992-1993,17,1992-11-28,Liverpool,Crystal Palace,5,0,0.0
-1992-1993,17,1992-11-28,Blackburn,QPR,1,0,0.0
-1992-1993,17,1992-11-28,Oldham Athletic,Middlesbrough,4,1,0.0
-1992-1993,17,1992-11-29,Chelsea,Leeds United,1,0,0.0
+1992-1993,17,1992-11-28,Aston Villa,Norwich City,2,3,0.0
+1992-1993,17,1992-11-28,Liverpool,Crystal Palace,5,0,1.0
+1992-1993,17,1992-11-28,Blackburn,QPR,1,0,1.0
+1992-1993,17,1992-11-28,Oldham Athletic,Middlesbrough,4,1,1.0
+1992-1993,17,1992-11-29,Chelsea,Leeds United,1,0,1.0
 1992-1993,18,1992-12-05,Coventry City,Ipswich Town,2,2,0.5
-1992-1993,18,1992-12-05,Middlesbrough,Blackburn,3,2,0.0
-1992-1993,18,1992-12-05,Leeds United,Nott'ham Forest,1,4,1.0
-1992-1993,18,1992-12-05,Crystal Palace,Sheffield Utd,2,0,0.0
-1992-1993,18,1992-12-05,Southampton,Arsenal,2,0,0.0
-1992-1993,18,1992-12-05,QPR,Oldham Athletic,3,2,0.0
-1992-1993,18,1992-12-05,Norwich City,Wimbledon,2,1,0.0
-1992-1993,18,1992-12-05,Sheffield Weds,Aston Villa,1,2,1.0
-1992-1993,18,1992-12-05,Tottenham,Chelsea,1,2,1.0
-1992-1993,18,1992-12-06,Manchester Utd,Manchester City,2,1,0.0
-1992-1993,18,1992-12-07,Everton,Liverpool,2,1,0.0
+1992-1993,18,1992-12-05,Middlesbrough,Blackburn,3,2,1.0
+1992-1993,18,1992-12-05,Leeds United,Nott'ham Forest,1,4,0.0
+1992-1993,18,1992-12-05,Crystal Palace,Sheffield Utd,2,0,1.0
+1992-1993,18,1992-12-05,Southampton,Arsenal,2,0,1.0
+1992-1993,18,1992-12-05,QPR,Oldham Athletic,3,2,1.0
+1992-1993,18,1992-12-05,Norwich City,Wimbledon,2,1,1.0
+1992-1993,18,1992-12-05,Sheffield Weds,Aston Villa,1,2,0.0
+1992-1993,18,1992-12-05,Tottenham,Chelsea,1,2,0.0
+1992-1993,18,1992-12-06,Manchester Utd,Manchester City,2,1,1.0
+1992-1993,18,1992-12-07,Everton,Liverpool,2,1,1.0
 1992-1993,19,1992-12-11,Middlesbrough,Chelsea,0,0,0.5
-1992-1993,19,1992-12-12,Manchester Utd,Norwich City,1,0,0.0
-1992-1993,19,1992-12-12,Wimbledon,Oldham Athletic,5,2,0.0
+1992-1993,19,1992-12-12,Manchester Utd,Norwich City,1,0,1.0
+1992-1993,19,1992-12-12,Wimbledon,Oldham Athletic,5,2,1.0
 1992-1993,19,1992-12-12,Southampton,Coventry City,2,2,0.5
-1992-1993,19,1992-12-12,Sheffield Utd,Everton,1,0,0.0
-1992-1993,19,1992-12-12,QPR,Crystal Palace,1,3,1.0
-1992-1993,19,1992-12-12,Tottenham,Arsenal,1,0,0.0
-1992-1993,19,1992-12-12,Aston Villa,Nott'ham Forest,2,1,0.0
-1992-1993,19,1992-12-12,Leeds United,Sheffield Weds,3,1,0.0
-1992-1993,19,1992-12-12,Ipswich Town,Manchester City,3,1,0.0
-1992-1993,19,1992-12-13,Liverpool,Blackburn,2,1,0.0
-1992-1993,20,1992-12-19,Sheffield Weds,QPR,1,0,0.0
-1992-1993,20,1992-12-19,Everton,Southampton,2,1,0.0
-1992-1993,20,1992-12-19,Oldham Athletic,Tottenham,2,1,0.0
-1992-1993,20,1992-12-19,Blackburn,Sheffield Utd,1,0,0.0
+1992-1993,19,1992-12-12,Sheffield Utd,Everton,1,0,1.0
+1992-1993,19,1992-12-12,QPR,Crystal Palace,1,3,0.0
+1992-1993,19,1992-12-12,Tottenham,Arsenal,1,0,1.0
+1992-1993,19,1992-12-12,Aston Villa,Nott'ham Forest,2,1,1.0
+1992-1993,19,1992-12-12,Leeds United,Sheffield Weds,3,1,1.0
+1992-1993,19,1992-12-12,Ipswich Town,Manchester City,3,1,1.0
+1992-1993,19,1992-12-13,Liverpool,Blackburn,2,1,1.0
+1992-1993,20,1992-12-19,Sheffield Weds,QPR,1,0,1.0
+1992-1993,20,1992-12-19,Everton,Southampton,2,1,1.0
+1992-1993,20,1992-12-19,Oldham Athletic,Tottenham,2,1,1.0
+1992-1993,20,1992-12-19,Blackburn,Sheffield Utd,1,0,1.0
 1992-1993,20,1992-12-19,Arsenal,Middlesbrough,1,1,0.5
 1992-1993,20,1992-12-19,Manchester City,Aston Villa,1,1,0.5
 1992-1993,20,1992-12-19,Chelsea,Manchester Utd,1,1,0.5
-1992-1993,20,1992-12-19,Coventry City,Liverpool,5,1,0.0
-1992-1993,20,1992-12-20,Crystal Palace,Leeds United,1,0,0.0
+1992-1993,20,1992-12-19,Coventry City,Liverpool,5,1,1.0
+1992-1993,20,1992-12-20,Crystal Palace,Leeds United,1,0,1.0
 1992-1993,20,1992-12-20,Nott'ham Forest,Wimbledon,1,1,0.5
-1992-1993,20,1992-12-21,Norwich City,Ipswich Town,0,2,1.0
-1992-1993,21,1992-12-26,Blackburn,Leeds United,3,1,0.0
+1992-1993,20,1992-12-21,Norwich City,Ipswich Town,0,2,0.0
+1992-1993,21,1992-12-26,Blackburn,Leeds United,3,1,1.0
 1992-1993,21,1992-12-26,Norwich City,Tottenham,0,0,0.5
-1992-1993,21,1992-12-26,Coventry City,Aston Villa,3,0,0.0
-1992-1993,21,1992-12-26,Crystal Palace,Wimbledon,2,0,0.0
+1992-1993,21,1992-12-26,Coventry City,Aston Villa,3,0,1.0
+1992-1993,21,1992-12-26,Crystal Palace,Wimbledon,2,0,1.0
 1992-1993,21,1992-12-26,Chelsea,Southampton,1,1,0.5
 1992-1993,21,1992-12-26,Arsenal,Ipswich Town,0,0,0.5
 1992-1993,21,1992-12-26,Everton,Middlesbrough,2,2,0.5
 1992-1993,21,1992-12-26,Sheffield Weds,Manchester Utd,3,3,0.5
-1992-1993,21,1992-12-26,Manchester City,Sheffield Utd,2,0,0.0
-1992-1993,22,1992-12-28,Aston Villa,Arsenal,1,0,0.0
-1992-1993,22,1992-12-28,Manchester Utd,Coventry City,5,0,0.0
-1992-1993,22,1992-12-28,QPR,Everton,4,2,0.0
-1992-1993,22,1992-12-28,Southampton,Sheffield Weds,1,2,1.0
-1992-1993,22,1992-12-28,Middlesbrough,Crystal Palace,0,1,1.0
-1992-1993,22,1992-12-28,Ipswich Town,Blackburn,2,1,0.0
-1992-1993,22,1992-12-28,Tottenham,Nott'ham Forest,2,1,0.0
+1992-1993,21,1992-12-26,Manchester City,Sheffield Utd,2,0,1.0
+1992-1993,22,1992-12-28,Aston Villa,Arsenal,1,0,1.0
+1992-1993,22,1992-12-28,Manchester Utd,Coventry City,5,0,1.0
+1992-1993,22,1992-12-28,QPR,Everton,4,2,1.0
+1992-1993,22,1992-12-28,Southampton,Sheffield Weds,1,2,0.0
+1992-1993,22,1992-12-28,Middlesbrough,Crystal Palace,0,1,0.0
+1992-1993,22,1992-12-28,Ipswich Town,Blackburn,2,1,1.0
+1992-1993,22,1992-12-28,Tottenham,Nott'ham Forest,2,1,1.0
 1992-1993,22,1992-12-28,Leeds United,Norwich City,0,0,0.5
 1992-1993,22,1992-12-28,Wimbledon,Chelsea,0,0,0.5
 1992-1993,22,1992-12-28,Liverpool,Manchester City,1,1,0.5
-1992-1993,23,1993-01-09,Coventry City,Nott'ham Forest,0,1,1.0
-1992-1993,23,1993-01-09,Middlesbrough,QPR,0,1,1.0
-1992-1993,23,1993-01-09,Manchester Utd,Tottenham,4,1,0.0
-1992-1993,23,1993-01-09,Crystal Palace,Everton,0,2,1.0
+1992-1993,23,1993-01-09,Coventry City,Nott'ham Forest,0,1,0.0
+1992-1993,23,1993-01-09,Middlesbrough,QPR,0,1,0.0
+1992-1993,23,1993-01-09,Manchester Utd,Tottenham,4,1,1.0
+1992-1993,23,1993-01-09,Crystal Palace,Everton,0,2,0.0
 1992-1993,23,1993-01-09,Blackburn,Wimbledon,0,0,0.5
-1992-1993,23,1993-01-09,Liverpool,Aston Villa,1,2,1.0
-1992-1993,23,1993-01-09,Leeds United,Southampton,2,1,0.0
-1992-1993,23,1993-01-09,Chelsea,Manchester City,2,4,1.0
+1992-1993,23,1993-01-09,Liverpool,Aston Villa,1,2,0.0
+1992-1993,23,1993-01-09,Leeds United,Southampton,2,1,1.0
+1992-1993,23,1993-01-09,Chelsea,Manchester City,2,4,0.0
 1992-1993,23,1993-01-09,Arsenal,Sheffield Utd,1,1,0.5
-1992-1993,23,1993-01-09,Ipswich Town,Oldham Athletic,1,2,1.0
-1992-1993,23,1993-01-10,Sheffield Weds,Norwich City,1,0,0.0
-1992-1993,24,1993-01-16,Wimbledon,Liverpool,2,0,0.0
-1992-1993,24,1993-01-16,Nott'ham Forest,Chelsea,3,0,0.0
-1992-1993,24,1993-01-16,Oldham Athletic,Blackburn,0,1,1.0
-1992-1993,24,1993-01-16,Sheffield Utd,Ipswich Town,3,0,0.0
+1992-1993,23,1993-01-09,Ipswich Town,Oldham Athletic,1,2,0.0
+1992-1993,23,1993-01-10,Sheffield Weds,Norwich City,1,0,1.0
+1992-1993,24,1993-01-16,Wimbledon,Liverpool,2,0,1.0
+1992-1993,24,1993-01-16,Nott'ham Forest,Chelsea,3,0,1.0
+1992-1993,24,1993-01-16,Oldham Athletic,Blackburn,0,1,0.0
+1992-1993,24,1993-01-16,Sheffield Utd,Ipswich Town,3,0,1.0
 1992-1993,24,1993-01-16,Norwich City,Coventry City,1,1,0.5
-1992-1993,24,1993-01-16,Manchester City,Arsenal,0,1,1.0
-1992-1993,24,1993-01-16,Southampton,Crystal Palace,1,0,0.0
-1992-1993,24,1993-01-16,Tottenham,Sheffield Weds,0,2,1.0
-1992-1993,24,1993-01-16,Everton,Leeds United,2,0,0.0
-1992-1993,24,1993-01-17,Aston Villa,Middlesbrough,5,1,0.0
-1992-1993,24,1993-01-18,QPR,Manchester Utd,1,3,1.0
-1992-1993,28,1993-01-23,Coventry City,Oldham Athletic,3,0,0.0
-1992-1993,25,1993-01-26,Wimbledon,Everton,1,3,1.0
-1992-1993,25,1993-01-26,Blackburn,Coventry City,2,5,1.0
-1992-1993,25,1993-01-26,Middlesbrough,Southampton,2,1,0.0
-1992-1993,25,1993-01-26,Oldham Athletic,Manchester City,0,1,1.0
-1992-1993,25,1993-01-27,Tottenham,Ipswich Town,0,2,1.0
-1992-1993,25,1993-01-27,Norwich City,Crystal Palace,4,2,0.0
-1992-1993,25,1993-01-27,Manchester Utd,Nott'ham Forest,2,0,0.0
+1992-1993,24,1993-01-16,Manchester City,Arsenal,0,1,0.0
+1992-1993,24,1993-01-16,Southampton,Crystal Palace,1,0,1.0
+1992-1993,24,1993-01-16,Tottenham,Sheffield Weds,0,2,0.0
+1992-1993,24,1993-01-16,Everton,Leeds United,2,0,1.0
+1992-1993,24,1993-01-17,Aston Villa,Middlesbrough,5,1,1.0
+1992-1993,24,1993-01-18,QPR,Manchester Utd,1,3,0.0
+1992-1993,28,1993-01-23,Coventry City,Oldham Athletic,3,0,1.0
+1992-1993,25,1993-01-26,Wimbledon,Everton,1,3,0.0
+1992-1993,25,1993-01-26,Blackburn,Coventry City,2,5,0.0
+1992-1993,25,1993-01-26,Middlesbrough,Southampton,2,1,1.0
+1992-1993,25,1993-01-26,Oldham Athletic,Manchester City,0,1,0.0
+1992-1993,25,1993-01-27,Tottenham,Ipswich Town,0,2,0.0
+1992-1993,25,1993-01-27,Norwich City,Crystal Palace,4,2,1.0
+1992-1993,25,1993-01-27,Manchester Utd,Nott'ham Forest,2,0,1.0
 1992-1993,25,1993-01-27,QPR,Chelsea,1,1,0.5
-1992-1993,25,1993-01-27,Aston Villa,Sheffield Utd,3,1,0.0
-1992-1993,26,1993-01-30,Leeds United,Middlesbrough,3,0,0.0
-1992-1993,26,1993-01-30,Everton,Norwich City,0,1,1.0
-1992-1993,26,1993-01-30,Chelsea,Sheffield Weds,0,2,1.0
-1992-1993,26,1993-01-30,Nott'ham Forest,Oldham Athletic,2,0,0.0
-1992-1993,26,1993-01-30,Southampton,Aston Villa,2,0,0.0
-1992-1993,26,1993-01-30,Crystal Palace,Tottenham,1,3,1.0
-1992-1993,26,1993-01-30,Coventry City,Wimbledon,0,2,1.0
-1992-1993,26,1993-01-30,Ipswich Town,Manchester Utd,2,1,0.0
-1992-1993,26,1993-01-30,Sheffield Utd,QPR,1,2,1.0
-1992-1993,26,1993-01-30,Manchester City,Blackburn,3,2,0.0
-1992-1993,26,1993-01-31,Arsenal,Liverpool,0,1,1.0
-1992-1993,27,1993-02-02,Blackburn,Crystal Palace,1,2,1.0
-1992-1993,27,1993-02-06,Manchester Utd,Sheffield Utd,2,1,0.0
-1992-1993,27,1993-02-06,Middlesbrough,Coventry City,0,2,1.0
+1992-1993,25,1993-01-27,Aston Villa,Sheffield Utd,3,1,1.0
+1992-1993,26,1993-01-30,Leeds United,Middlesbrough,3,0,1.0
+1992-1993,26,1993-01-30,Everton,Norwich City,0,1,0.0
+1992-1993,26,1993-01-30,Chelsea,Sheffield Weds,0,2,0.0
+1992-1993,26,1993-01-30,Nott'ham Forest,Oldham Athletic,2,0,1.0
+1992-1993,26,1993-01-30,Southampton,Aston Villa,2,0,1.0
+1992-1993,26,1993-01-30,Crystal Palace,Tottenham,1,3,0.0
+1992-1993,26,1993-01-30,Coventry City,Wimbledon,0,2,0.0
+1992-1993,26,1993-01-30,Ipswich Town,Manchester Utd,2,1,1.0
+1992-1993,26,1993-01-30,Sheffield Utd,QPR,1,2,0.0
+1992-1993,26,1993-01-30,Manchester City,Blackburn,3,2,1.0
+1992-1993,26,1993-01-31,Arsenal,Liverpool,0,1,0.0
+1992-1993,27,1993-02-02,Blackburn,Crystal Palace,1,2,0.0
+1992-1993,27,1993-02-06,Manchester Utd,Sheffield Utd,2,1,1.0
+1992-1993,27,1993-02-06,Middlesbrough,Coventry City,0,2,0.0
 1992-1993,27,1993-02-06,QPR,Manchester City,1,1,0.5
-1992-1993,27,1993-02-06,Sheffield Weds,Everton,3,1,0.0
-1992-1993,27,1993-02-06,Aston Villa,Ipswich Town,2,0,0.0
-1992-1993,27,1993-02-06,Oldham Athletic,Chelsea,3,1,0.0
+1992-1993,27,1993-02-06,Sheffield Weds,Everton,3,1,1.0
+1992-1993,27,1993-02-06,Aston Villa,Ipswich Town,2,0,1.0
+1992-1993,27,1993-02-06,Oldham Athletic,Chelsea,3,1,1.0
 1992-1993,27,1993-02-06,Liverpool,Nott'ham Forest,0,0,0.5
-1992-1993,27,1993-02-06,Wimbledon,Leeds United,1,0,0.0
-1992-1993,27,1993-02-07,Tottenham,Southampton,4,2,0.0
+1992-1993,27,1993-02-06,Wimbledon,Leeds United,1,0,1.0
+1992-1993,27,1993-02-07,Tottenham,Southampton,4,2,1.0
 1992-1993,28,1993-02-08,Leeds United,Manchester Utd,0,0,0.5
-1992-1993,28,1993-02-09,Sheffield Utd,Middlesbrough,2,0,0.0
+1992-1993,28,1993-02-09,Sheffield Utd,Middlesbrough,2,0,1.0
 1992-1993,28,1993-02-09,Ipswich Town,QPR,1,1,0.5
-1992-1993,28,1993-02-10,Everton,Tottenham,1,2,1.0
-1992-1993,28,1993-02-10,Arsenal,Wimbledon,0,1,1.0
-1992-1993,28,1993-02-10,Crystal Palace,Aston Villa,1,0,0.0
+1992-1993,28,1993-02-10,Everton,Tottenham,1,2,0.0
+1992-1993,28,1993-02-10,Arsenal,Wimbledon,0,1,0.0
+1992-1993,28,1993-02-10,Crystal Palace,Aston Villa,1,0,1.0
 1992-1993,28,1993-02-10,Chelsea,Liverpool,0,0,0.5
-1992-1993,28,1993-02-10,Southampton,Norwich City,3,0,0.0
-1992-1993,29,1993-02-13,Leeds United,Oldham Athletic,2,0,0.0
-1992-1993,29,1993-02-13,Chelsea,Aston Villa,0,1,1.0
-1992-1993,29,1993-02-13,Southampton,Liverpool,2,1,0.0
-1992-1993,30,1993-02-20,Norwich City,Manchester City,2,1,0.0
-1992-1993,30,1993-02-20,Middlesbrough,Nott'ham Forest,1,2,1.0
-1992-1993,30,1993-02-20,Tottenham,Leeds United,4,0,0.0
-1992-1993,30,1993-02-20,Aston Villa,Everton,2,1,0.0
-1992-1993,30,1993-02-20,Wimbledon,Sheffield Utd,2,0,0.0
-1992-1993,30,1993-02-20,Sheffield Weds,Crystal Palace,2,1,0.0
+1992-1993,28,1993-02-10,Southampton,Norwich City,3,0,1.0
+1992-1993,29,1993-02-13,Leeds United,Oldham Athletic,2,0,1.0
+1992-1993,29,1993-02-13,Chelsea,Aston Villa,0,1,0.0
+1992-1993,29,1993-02-13,Southampton,Liverpool,2,1,1.0
+1992-1993,30,1993-02-20,Norwich City,Manchester City,2,1,1.0
+1992-1993,30,1993-02-20,Middlesbrough,Nott'ham Forest,1,2,0.0
+1992-1993,30,1993-02-20,Tottenham,Leeds United,4,0,1.0
+1992-1993,30,1993-02-20,Aston Villa,Everton,2,1,1.0
+1992-1993,30,1993-02-20,Wimbledon,Sheffield Utd,2,0,1.0
+1992-1993,30,1993-02-20,Sheffield Weds,Crystal Palace,2,1,1.0
 1992-1993,30,1993-02-20,Liverpool,Ipswich Town,0,0,0.5
-1992-1993,30,1993-02-20,Oldham Athletic,Arsenal,0,1,1.0
-1992-1993,30,1993-02-20,QPR,Coventry City,2,0,0.0
-1992-1993,30,1993-02-20,Manchester Utd,Southampton,2,1,0.0
-1992-1993,30,1993-02-21,Blackburn,Chelsea,2,0,0.0
-1992-1993,22,1993-02-22,Sheffield Utd,Oldham Athletic,2,0,0.0
-1992-1993,28,1993-02-23,Manchester City,Sheffield Weds,1,2,1.0
-1992-1993,21,1993-02-24,Nott'ham Forest,QPR,1,0,0.0
+1992-1993,30,1993-02-20,Oldham Athletic,Arsenal,0,1,0.0
+1992-1993,30,1993-02-20,QPR,Coventry City,2,0,1.0
+1992-1993,30,1993-02-20,Manchester Utd,Southampton,2,1,1.0
+1992-1993,30,1993-02-21,Blackburn,Chelsea,2,0,1.0
+1992-1993,22,1993-02-22,Sheffield Utd,Oldham Athletic,2,0,1.0
+1992-1993,28,1993-02-23,Manchester City,Sheffield Weds,1,2,0.0
+1992-1993,21,1993-02-24,Nott'ham Forest,QPR,1,0,1.0
 1992-1993,33,1993-02-24,Arsenal,Leeds United,0,0,0.5
-1992-1993,31,1993-02-27,Nott'ham Forest,Manchester City,0,2,1.0
+1992-1993,31,1993-02-27,Nott'ham Forest,Manchester City,0,2,0.0
 1992-1993,31,1993-02-27,Crystal Palace,Coventry City,0,0,0.5
-1992-1993,31,1993-02-27,Leeds United,Ipswich Town,1,0,0.0
-1992-1993,31,1993-02-27,Southampton,Sheffield Utd,3,2,0.0
-1992-1993,31,1993-02-27,Tottenham,QPR,3,2,0.0
+1992-1993,31,1993-02-27,Leeds United,Ipswich Town,1,0,1.0
+1992-1993,31,1993-02-27,Southampton,Sheffield Utd,3,2,1.0
+1992-1993,31,1993-02-27,Tottenham,QPR,3,2,1.0
 1992-1993,31,1993-02-27,Everton,Oldham Athletic,2,2,0.5
 1992-1993,31,1993-02-27,Sheffield Weds,Liverpool,1,1,0.5
-1992-1993,31,1993-02-27,Manchester Utd,Middlesbrough,3,0,0.0
-1992-1993,31,1993-02-27,Aston Villa,Wimbledon,1,0,0.0
+1992-1993,31,1993-02-27,Manchester Utd,Middlesbrough,3,0,1.0
+1992-1993,31,1993-02-27,Aston Villa,Wimbledon,1,0,1.0
 1992-1993,31,1993-02-28,Norwich City,Blackburn,0,0,0.5
-1992-1993,31,1993-03-01,Chelsea,Arsenal,1,0,0.0
-1992-1993,29,1993-03-02,Ipswich Town,Middlesbrough,0,1,1.0
-1992-1993,29,1993-03-02,Sheffield Utd,Tottenham,6,0,0.0
+1992-1993,31,1993-03-01,Chelsea,Arsenal,1,0,1.0
+1992-1993,29,1993-03-02,Ipswich Town,Middlesbrough,0,1,0.0
+1992-1993,29,1993-03-02,Sheffield Utd,Tottenham,6,0,1.0
 1992-1993,27,1993-03-03,Norwich City,Arsenal,1,1,0.5
-1992-1993,29,1993-03-03,Coventry City,Sheffield Weds,1,0,0.0
-1992-1993,29,1993-03-03,Everton,Blackburn,2,1,0.0
+1992-1993,29,1993-03-03,Coventry City,Sheffield Weds,1,0,1.0
+1992-1993,29,1993-03-03,Everton,Blackburn,2,1,1.0
 1992-1993,33,1993-03-03,Nott'ham Forest,Crystal Palace,1,1,0.5
-1992-1993,32,1993-03-06,Liverpool,Manchester Utd,1,2,1.0
-1992-1993,32,1993-03-06,QPR,Norwich City,3,1,0.0
-1992-1993,32,1993-03-06,Wimbledon,Southampton,1,2,1.0
-1992-1993,32,1993-03-07,Coventry City,Everton,0,1,1.0
-1992-1993,33,1993-03-09,Wimbledon,Middlesbrough,2,0,0.0
+1992-1993,32,1993-03-06,Liverpool,Manchester Utd,1,2,0.0
+1992-1993,32,1993-03-06,QPR,Norwich City,3,1,1.0
+1992-1993,32,1993-03-06,Wimbledon,Southampton,1,2,0.0
+1992-1993,32,1993-03-07,Coventry City,Everton,0,1,0.0
+1992-1993,33,1993-03-09,Wimbledon,Middlesbrough,2,0,1.0
 1992-1993,33,1993-03-09,Blackburn,Southampton,0,0,0.5
-1992-1993,33,1993-03-09,Oldham Athletic,Manchester Utd,1,0,0.0
+1992-1993,33,1993-03-09,Oldham Athletic,Manchester Utd,1,0,1.0
 1992-1993,33,1993-03-10,Aston Villa,Tottenham,0,0,0.5
-1992-1993,33,1993-03-10,Sheffield Utd,Norwich City,0,1,1.0
-1992-1993,33,1993-03-10,Chelsea,Everton,2,1,0.0
-1992-1993,33,1993-03-10,Manchester City,Coventry City,1,0,0.0
-1992-1993,33,1993-03-10,Liverpool,QPR,1,0,0.0
-1992-1993,33,1993-03-10,Ipswich Town,Sheffield Weds,0,1,1.0
-1992-1993,34,1993-03-13,QPR,Wimbledon,1,2,1.0
-1992-1993,34,1993-03-13,Everton,Nott'ham Forest,3,0,0.0
-1992-1993,34,1993-03-13,Middlesbrough,Liverpool,1,2,1.0
-1992-1993,34,1993-03-13,Coventry City,Arsenal,0,2,1.0
-1992-1993,34,1993-03-13,Southampton,Ipswich Town,4,3,0.0
-1992-1993,34,1993-03-13,Leeds United,Manchester City,1,0,0.0
-1992-1993,34,1993-03-13,Norwich City,Oldham Athletic,1,0,0.0
+1992-1993,33,1993-03-10,Sheffield Utd,Norwich City,0,1,0.0
+1992-1993,33,1993-03-10,Chelsea,Everton,2,1,1.0
+1992-1993,33,1993-03-10,Manchester City,Coventry City,1,0,1.0
+1992-1993,33,1993-03-10,Liverpool,QPR,1,0,1.0
+1992-1993,33,1993-03-10,Ipswich Town,Sheffield Weds,0,1,0.0
+1992-1993,34,1993-03-13,QPR,Wimbledon,1,2,0.0
+1992-1993,34,1993-03-13,Everton,Nott'ham Forest,3,0,1.0
+1992-1993,34,1993-03-13,Middlesbrough,Liverpool,1,2,0.0
+1992-1993,34,1993-03-13,Coventry City,Arsenal,0,2,0.0
+1992-1993,34,1993-03-13,Southampton,Ipswich Town,4,3,1.0
+1992-1993,34,1993-03-13,Leeds United,Manchester City,1,0,1.0
+1992-1993,34,1993-03-13,Norwich City,Oldham Athletic,1,0,1.0
 1992-1993,34,1993-03-14,Manchester Utd,Aston Villa,1,1,0.5
 1992-1993,34,1993-03-15,Crystal Palace,Chelsea,1,1,0.5
-1992-1993,29,1993-03-17,Nott'ham Forest,Norwich City,0,3,1.0
+1992-1993,29,1993-03-17,Nott'ham Forest,Norwich City,0,3,0.0
 1992-1993,35,1993-03-20,Oldham Athletic,QPR,2,2,0.5
 1992-1993,35,1993-03-20,Manchester City,Manchester Utd,1,1,0.5
 1992-1993,35,1993-03-20,Chelsea,Tottenham,1,1,0.5
-1992-1993,35,1993-03-20,Aston Villa,Sheffield Weds,2,0,0.0
-1992-1993,35,1993-03-20,Arsenal,Southampton,4,3,0.0
-1992-1993,35,1993-03-20,Wimbledon,Norwich City,3,0,0.0
+1992-1993,35,1993-03-20,Aston Villa,Sheffield Weds,2,0,1.0
+1992-1993,35,1993-03-20,Arsenal,Southampton,4,3,1.0
+1992-1993,35,1993-03-20,Wimbledon,Norwich City,3,0,1.0
 1992-1993,35,1993-03-20,Blackburn,Middlesbrough,1,1,0.5
 1992-1993,35,1993-03-20,Ipswich Town,Coventry City,0,0,0.5
-1992-1993,35,1993-03-20,Liverpool,Everton,1,0,0.0
-1992-1993,35,1993-03-20,Sheffield Utd,Crystal Palace,0,1,1.0
+1992-1993,35,1993-03-20,Liverpool,Everton,1,0,1.0
+1992-1993,35,1993-03-20,Sheffield Utd,Crystal Palace,0,1,0.0
 1992-1993,35,1993-03-21,Nott'ham Forest,Leeds United,1,1,0.5
-1992-1993,36,1993-03-22,Middlesbrough,Oldham Athletic,2,3,1.0
+1992-1993,36,1993-03-22,Middlesbrough,Oldham Athletic,2,3,0.0
 1992-1993,36,1993-03-23,Crystal Palace,Liverpool,1,1,0.5
 1992-1993,36,1993-03-24,Manchester Utd,Arsenal,0,0,0.5
-1992-1993,36,1993-03-24,Tottenham,Manchester City,3,1,0.0
-1992-1993,36,1993-03-24,QPR,Blackburn,0,3,1.0
-1992-1993,36,1993-03-24,Southampton,Nott'ham Forest,1,2,1.0
-1992-1993,36,1993-03-24,Everton,Ipswich Town,3,0,0.0
-1992-1993,36,1993-03-24,Norwich City,Aston Villa,1,0,0.0
+1992-1993,36,1993-03-24,Tottenham,Manchester City,3,1,1.0
+1992-1993,36,1993-03-24,QPR,Blackburn,0,3,0.0
+1992-1993,36,1993-03-24,Southampton,Nott'ham Forest,1,2,0.0
+1992-1993,36,1993-03-24,Everton,Ipswich Town,3,0,1.0
+1992-1993,36,1993-03-24,Norwich City,Aston Villa,1,0,1.0
 1992-1993,36,1993-03-24,Leeds United,Chelsea,1,1,0.5
 1992-1993,36,1993-03-24,Sheffield Weds,Wimbledon,1,1,0.5
-1992-1993,36,1993-03-24,Coventry City,Sheffield Utd,1,3,1.0
-1992-1993,37,1993-04-03,Oldham Athletic,Wimbledon,6,2,0.0
-1992-1993,37,1993-04-03,Manchester City,Ipswich Town,3,1,0.0
+1992-1993,36,1993-03-24,Coventry City,Sheffield Utd,1,3,0.0
+1992-1993,37,1993-04-03,Oldham Athletic,Wimbledon,6,2,1.0
+1992-1993,37,1993-04-03,Manchester City,Ipswich Town,3,1,1.0
 1992-1993,37,1993-04-03,Crystal Palace,QPR,1,1,0.5
-1992-1993,37,1993-04-03,Coventry City,Southampton,2,0,0.0
-1992-1993,37,1993-04-03,Blackburn,Liverpool,4,1,0.0
-1992-1993,37,1993-04-03,Chelsea,Middlesbrough,4,0,0.0
-1992-1993,37,1993-04-04,Nott'ham Forest,Aston Villa,0,1,1.0
-1992-1993,37,1993-04-05,Norwich City,Manchester Utd,1,3,1.0
-1992-1993,32,1993-04-06,Sheffield Utd,Leeds United,2,1,0.0
+1992-1993,37,1993-04-03,Coventry City,Southampton,2,0,1.0
+1992-1993,37,1993-04-03,Blackburn,Liverpool,4,1,1.0
+1992-1993,37,1993-04-03,Chelsea,Middlesbrough,4,0,1.0
+1992-1993,37,1993-04-04,Nott'ham Forest,Aston Villa,0,1,0.0
+1992-1993,37,1993-04-05,Norwich City,Manchester Utd,1,3,0.0
+1992-1993,32,1993-04-06,Sheffield Utd,Leeds United,2,1,1.0
 1992-1993,32,1993-04-06,Ipswich Town,Chelsea,1,1,0.5
-1992-1993,40,1993-04-06,Middlesbrough,Arsenal,1,0,0.0
-1992-1993,28,1993-04-07,Nott'ham Forest,Blackburn,1,3,1.0
+1992-1993,40,1993-04-06,Middlesbrough,Arsenal,1,0,1.0
+1992-1993,28,1993-04-07,Nott'ham Forest,Blackburn,1,3,0.0
 1992-1993,32,1993-04-07,Oldham Athletic,Sheffield Weds,1,1,0.5
 1992-1993,38,1993-04-09,Sheffield Utd,Manchester City,1,1,0.5
-1992-1993,38,1993-04-09,Tottenham,Norwich City,5,1,0.0
-1992-1993,38,1993-04-09,Wimbledon,Crystal Palace,4,0,0.0
-1992-1993,38,1993-04-10,Middlesbrough,Everton,1,2,1.0
+1992-1993,38,1993-04-09,Tottenham,Norwich City,5,1,1.0
+1992-1993,38,1993-04-09,Wimbledon,Crystal Palace,4,0,1.0
+1992-1993,38,1993-04-10,Middlesbrough,Everton,1,2,0.0
 1992-1993,38,1993-04-10,Aston Villa,Coventry City,0,0,0.5
-1992-1993,38,1993-04-10,Liverpool,Oldham Athletic,1,0,0.0
-1992-1993,38,1993-04-10,Ipswich Town,Arsenal,1,2,1.0
-1992-1993,38,1993-04-10,Leeds United,Blackburn,5,2,0.0
-1992-1993,38,1993-04-10,QPR,Nott'ham Forest,4,3,0.0
-1992-1993,38,1993-04-10,Southampton,Chelsea,1,0,0.0
-1992-1993,38,1993-04-10,Manchester Utd,Sheffield Weds,2,1,0.0
+1992-1993,38,1993-04-10,Liverpool,Oldham Athletic,1,0,1.0
+1992-1993,38,1993-04-10,Ipswich Town,Arsenal,1,2,0.0
+1992-1993,38,1993-04-10,Leeds United,Blackburn,5,2,1.0
+1992-1993,38,1993-04-10,QPR,Nott'ham Forest,4,3,1.0
+1992-1993,38,1993-04-10,Southampton,Chelsea,1,0,1.0
+1992-1993,38,1993-04-10,Manchester Utd,Sheffield Weds,2,1,1.0
 1992-1993,39,1993-04-12,Manchester City,Liverpool,1,1,0.5
-1992-1993,39,1993-04-12,Sheffield Weds,Southampton,5,2,0.0
-1992-1993,39,1993-04-12,Coventry City,Manchester Utd,0,1,1.0
-1992-1993,39,1993-04-12,Everton,QPR,3,5,1.0
-1992-1993,39,1993-04-12,Crystal Palace,Middlesbrough,4,1,0.0
-1992-1993,39,1993-04-12,Arsenal,Aston Villa,0,1,1.0
-1992-1993,39,1993-04-12,Blackburn,Ipswich Town,2,1,0.0
-1992-1993,39,1993-04-12,Nott'ham Forest,Tottenham,2,1,0.0
-1992-1993,39,1993-04-12,Chelsea,Wimbledon,4,2,0.0
+1992-1993,39,1993-04-12,Sheffield Weds,Southampton,5,2,1.0
+1992-1993,39,1993-04-12,Coventry City,Manchester Utd,0,1,0.0
+1992-1993,39,1993-04-12,Everton,QPR,3,5,0.0
+1992-1993,39,1993-04-12,Crystal Palace,Middlesbrough,4,1,1.0
+1992-1993,39,1993-04-12,Arsenal,Aston Villa,0,1,0.0
+1992-1993,39,1993-04-12,Blackburn,Ipswich Town,2,1,1.0
+1992-1993,39,1993-04-12,Nott'ham Forest,Tottenham,2,1,1.0
+1992-1993,39,1993-04-12,Chelsea,Wimbledon,4,2,1.0
 1992-1993,39,1993-04-13,Oldham Athletic,Sheffield Utd,1,1,0.5
-1992-1993,39,1993-04-14,Norwich City,Leeds United,4,2,0.0
-1992-1993,40,1993-04-17,Liverpool,Coventry City,4,0,0.0
-1992-1993,40,1993-04-17,Tottenham,Oldham Athletic,4,1,0.0
-1992-1993,40,1993-04-17,Wimbledon,Nott'ham Forest,1,0,0.0
+1992-1993,39,1993-04-14,Norwich City,Leeds United,4,2,1.0
+1992-1993,40,1993-04-17,Liverpool,Coventry City,4,0,1.0
+1992-1993,40,1993-04-17,Tottenham,Oldham Athletic,4,1,1.0
+1992-1993,40,1993-04-17,Wimbledon,Nott'ham Forest,1,0,1.0
 1992-1993,40,1993-04-17,Leeds United,Crystal Palace,0,0,0.5
-1992-1993,40,1993-04-17,Manchester Utd,Chelsea,3,0,0.0
+1992-1993,40,1993-04-17,Manchester Utd,Chelsea,3,0,1.0
 1992-1993,40,1993-04-17,Southampton,Everton,0,0,0.5
-1992-1993,40,1993-04-17,Sheffield Utd,Blackburn,1,3,1.0
-1992-1993,40,1993-04-18,Aston Villa,Manchester City,3,1,0.0
-1992-1993,40,1993-04-19,Ipswich Town,Norwich City,3,1,0.0
-1992-1993,32,1993-04-20,Middlesbrough,Tottenham,3,0,0.0
-1992-1993,25,1993-04-21,Liverpool,Leeds United,2,0,0.0
-1992-1993,29,1993-04-21,Crystal Palace,Manchester Utd,0,2,1.0
+1992-1993,40,1993-04-17,Sheffield Utd,Blackburn,1,3,0.0
+1992-1993,40,1993-04-18,Aston Villa,Manchester City,3,1,1.0
+1992-1993,40,1993-04-19,Ipswich Town,Norwich City,3,1,1.0
+1992-1993,32,1993-04-20,Middlesbrough,Tottenham,3,0,1.0
+1992-1993,25,1993-04-21,Liverpool,Leeds United,2,0,1.0
+1992-1993,29,1993-04-21,Crystal Palace,Manchester Utd,0,2,0.0
 1992-1993,29,1993-04-21,Manchester City,Wimbledon,1,1,0.5
-1992-1993,32,1993-04-21,Blackburn,Aston Villa,3,0,0.0
+1992-1993,32,1993-04-21,Blackburn,Aston Villa,3,0,1.0
 1992-1993,32,1993-04-21,Arsenal,Nott'ham Forest,1,1,0.5
 1992-1993,34,1993-04-21,Sheffield Weds,Sheffield Utd,1,1,0.5
-1992-1993,41,1993-05-01,Nott'ham Forest,Sheffield Utd,0,2,1.0
+1992-1993,41,1993-05-01,Nott'ham Forest,Sheffield Utd,0,2,0.0
 1992-1993,41,1993-05-01,Everton,Arsenal,0,0,0.5
-1992-1993,41,1993-05-01,Sheffield Weds,Middlesbrough,2,3,1.0
-1992-1993,41,1993-05-01,Crystal Palace,Ipswich Town,3,1,0.0
-1992-1993,41,1993-05-01,Norwich City,Liverpool,1,0,0.0
+1992-1993,41,1993-05-01,Sheffield Weds,Middlesbrough,2,3,0.0
+1992-1993,41,1993-05-01,Crystal Palace,Ipswich Town,3,1,1.0
+1992-1993,41,1993-05-01,Norwich City,Liverpool,1,0,1.0
 1992-1993,41,1993-05-01,Tottenham,Wimbledon,1,1,0.5
 1992-1993,41,1993-05-01,Leeds United,QPR,1,1,0.5
-1992-1993,41,1993-05-01,Southampton,Manchester City,0,1,1.0
-1992-1993,41,1993-05-01,Chelsea,Coventry City,2,1,0.0
-1992-1993,41,1993-05-02,Aston Villa,Oldham Athletic,0,1,1.0
-1992-1993,41,1993-05-03,Manchester Utd,Blackburn,3,1,0.0
+1992-1993,41,1993-05-01,Southampton,Manchester City,0,1,0.0
+1992-1993,41,1993-05-01,Chelsea,Coventry City,2,1,1.0
+1992-1993,41,1993-05-02,Aston Villa,Oldham Athletic,0,1,0.0
+1992-1993,41,1993-05-03,Manchester Utd,Blackburn,3,1,1.0
 1992-1993,29,1993-05-04,Arsenal,QPR,0,0,0.5
-1992-1993,37,1993-05-04,Everton,Sheffield Utd,0,2,1.0
+1992-1993,37,1993-05-04,Everton,Sheffield Utd,0,2,0.0
 1992-1993,37,1993-05-04,Sheffield Weds,Leeds United,1,1,0.5
-1992-1993,21,1993-05-05,Oldham Athletic,Liverpool,3,2,0.0
+1992-1993,21,1993-05-05,Oldham Athletic,Liverpool,3,2,1.0
 1992-1993,32,1993-05-05,Manchester City,Crystal Palace,0,0,0.5
-1992-1993,34,1993-05-05,Tottenham,Blackburn,1,2,1.0
-1992-1993,25,1993-05-06,Sheffield Weds,Arsenal,1,0,0.0
-1992-1993,42,1993-05-08,Sheffield Utd,Chelsea,4,2,0.0
-1992-1993,42,1993-05-08,Liverpool,Tottenham,6,2,0.0
-1992-1993,42,1993-05-08,Ipswich Town,Nott'ham Forest,2,1,0.0
+1992-1993,34,1993-05-05,Tottenham,Blackburn,1,2,0.0
+1992-1993,25,1993-05-06,Sheffield Weds,Arsenal,1,0,1.0
+1992-1993,42,1993-05-08,Sheffield Utd,Chelsea,4,2,1.0
+1992-1993,42,1993-05-08,Liverpool,Tottenham,6,2,1.0
+1992-1993,42,1993-05-08,Ipswich Town,Nott'ham Forest,2,1,1.0
 1992-1993,42,1993-05-08,Coventry City,Leeds United,3,3,0.5
 1992-1993,42,1993-05-08,Middlesbrough,Norwich City,3,3,0.5
-1992-1993,42,1993-05-08,Arsenal,Crystal Palace,3,0,0.0
-1992-1993,42,1993-05-08,Manchester City,Everton,2,5,1.0
-1992-1993,42,1993-05-08,Blackburn,Sheffield Weds,1,0,0.0
-1992-1993,42,1993-05-08,Oldham Athletic,Southampton,4,3,0.0
-1992-1993,42,1993-05-09,Wimbledon,Manchester Utd,1,2,1.0
-1992-1993,42,1993-05-09,QPR,Aston Villa,2,1,0.0
-1992-1993,37,1993-05-11,Arsenal,Tottenham,1,3,1.0
-1992-1993,40,1993-05-11,QPR,Sheffield Weds,3,1,0.0
+1992-1993,42,1993-05-08,Arsenal,Crystal Palace,3,0,1.0
+1992-1993,42,1993-05-08,Manchester City,Everton,2,5,0.0
+1992-1993,42,1993-05-08,Blackburn,Sheffield Weds,1,0,1.0
+1992-1993,42,1993-05-08,Oldham Athletic,Southampton,4,3,1.0
+1992-1993,42,1993-05-09,Wimbledon,Manchester Utd,1,2,0.0
+1992-1993,42,1993-05-09,QPR,Aston Villa,2,1,1.0
+1992-1993,37,1993-05-11,Arsenal,Tottenham,1,3,0.0
+1992-1993,40,1993-05-11,QPR,Sheffield Weds,3,1,1.0

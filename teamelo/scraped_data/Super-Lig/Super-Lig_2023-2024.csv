@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023-2024,1,2023-08-11,Trabzonspor,Antalyaspor,1,0,1.0
+2023-2024,1,2023-08-12,Kasımpaşa,Ankaragücü,3,2,1.0
+2023-2024,1,2023-08-12,Konyaspor,İstanbulspor,1,1,0.5
+2023-2024,1,2023-08-12,Pendikspor,Hatayspor,1,5,0.0
+2023-2024,1,2023-08-12,Kayserispor,Galatasaray,0,0,0.5
+2023-2024,1,2023-08-13,Sivasspor,Samsunspor,1,1,0.5
+2023-2024,1,2023-08-13,Fenerbahçe,Gaziantep FK,2,1,1.0
+2023-2024,1,2023-08-13,Adana Demirspor,Rizespor,2,1,1.0
+2023-2024,1,2023-08-14,Alanyaspor,Başakşehir,2,0,1.0
+2023-2024,1,2023-08-14,Fatih Karagümrük,Beşiktaş,0,1,0.0
+2023-2024,2,2023-08-18,İstanbulspor,Kayserispor,1,1,0.5
+2023-2024,2,2023-08-18,Antalyaspor,Konyaspor,1,1,0.5
+2023-2024,2,2023-08-19,Rizespor,Alanyaspor,0,0,0.5
+2023-2024,2,2023-08-19,Galatasaray,Trabzonspor,2,0,1.0
+2023-2024,2,2023-08-19,Hatayspor,Kasımpaşa,0,0,0.5
+2023-2024,2,2023-08-20,Başakşehir,Fatih Karagümrük,0,2,0.0
+2023-2024,2,2023-08-20,Gaziantep FK,Sivasspor,1,3,0.0
+2023-2024,2,2023-08-20,Beşiktaş,Pendikspor,1,1,0.5
+2023-2024,2,2023-08-21,Samsunspor,Fenerbahçe,0,2,0.0
+2023-2024,2,2023-08-21,Ankaragücü,Adana Demirspor,1,1,0.5
+2023-2024,3,2023-08-25,Konyaspor,Gaziantep FK,2,0,1.0
+2023-2024,3,2023-08-26,Trabzonspor,Rizespor,2,3,0.0
+2023-2024,3,2023-08-26,Kasımpaşa,Pendikspor,1,1,0.5
+2023-2024,3,2023-08-26,Sivasspor,Antalyaspor,1,1,0.5
+2023-2024,3,2023-08-27,Fatih Karagümrük,Ankaragücü,1,1,0.5
+2023-2024,3,2023-08-27,Kayserispor,Samsunspor,2,1,1.0
+2023-2024,3,2023-08-27,Alanyaspor,Hatayspor,0,0,0.5
+2023-2024,4,2023-09-01,Rizespor,Fatih Karagümrük,1,0,1.0
+2023-2024,4,2023-09-01,Kasımpaşa,Trabzonspor,1,5,0.0
+2023-2024,4,2023-09-02,Pendikspor,Alanyaspor,1,1,0.5
+2023-2024,4,2023-09-02,Başakşehir,Konyaspor,0,1,0.0
+2023-2024,4,2023-09-02,Gaziantep FK,Galatasaray,0,3,0.0
+2023-2024,4,2023-09-02,Antalyaspor,Kayserispor,1,1,0.5
+2023-2024,4,2023-09-03,Beşiktaş,Sivasspor,2,0,1.0
+2023-2024,4,2023-09-03,Hatayspor,Adana Demirspor,3,3,0.5
+2023-2024,4,2023-09-03,Ankaragücü,Fenerbahçe,0,1,0.0
+2023-2024,5,2023-09-16,Konyaspor,Rizespor,1,2,0.0
+2023-2024,5,2023-09-16,Kayserispor,Gaziantep FK,2,0,1.0
+2023-2024,5,2023-09-16,Adana Demirspor,Pendikspor,3,0,1.0
+2023-2024,5,2023-09-16,Galatasaray,Samsunspor,4,2,1.0
+2023-2024,5,2023-09-17,İstanbulspor,Başakşehir,0,2,0.0
+2023-2024,5,2023-09-17,Fenerbahçe,Antalyaspor,3,2,1.0
+2023-2024,5,2023-09-17,Trabzonspor,Beşiktaş,3,0,1.0
+2023-2024,5,2023-09-17,Alanyaspor,Kasımpaşa,3,3,0.5
+2023-2024,5,2023-09-18,Fatih Karagümrük,Hatayspor,0,0,0.5
+2023-2024,5,2023-09-18,Sivasspor,Ankaragücü,1,3,0.0
+2023-2024,6,2023-09-22,Gaziantep FK,İstanbulspor,2,0,1.0
+2023-2024,6,2023-09-23,Pendikspor,Fatih Karagümrük,1,1,0.5
+2023-2024,6,2023-09-23,Rizespor,Sivasspor,1,1,0.5
+2023-2024,6,2023-09-23,Antalyaspor,Samsunspor,2,0,1.0
+2023-2024,6,2023-09-23,Başakşehir,Galatasaray,1,2,0.0
+2023-2024,6,2023-09-24,Ankaragücü,Konyaspor,1,1,0.5
+2023-2024,6,2023-09-24,Beşiktaş,Kayserispor,2,1,1.0
+2023-2024,6,2023-09-24,Kasımpaşa,Adana Demirspor,2,1,1.0
+2023-2024,6,2023-09-24,Alanyaspor,Fenerbahçe,0,1,0.0
+2023-2024,6,2023-09-25,Hatayspor,Trabzonspor,3,2,1.0
+2023-2024,3,2023-09-26,İstanbulspor,Galatasaray,0,1,0.0
+2023-2024,3,2023-09-27,Adana Demirspor,Beşiktaş,4,2,1.0
+2023-2024,3,2023-09-28,Fenerbahçe,Başakşehir,4,0,1.0
+2023-2024,7,2023-09-29,Samsunspor,Gaziantep FK,1,2,0.0
+2023-2024,7,2023-09-30,Sivasspor,Hatayspor,0,0,0.5
+2023-2024,7,2023-09-30,Trabzonspor,Pendikspor,2,1,1.0
+2023-2024,7,2023-09-30,İstanbulspor,Antalyaspor,1,2,0.0
+2023-2024,7,2023-09-30,Galatasaray,Ankaragücü,2,1,1.0
+2023-2024,7,2023-10-01,Fatih Karagümrük,Kasımpaşa,2,3,0.0
+2023-2024,7,2023-10-01,Fenerbahçe,Rizespor,5,0,1.0
+2023-2024,7,2023-10-01,Adana Demirspor,Alanyaspor,4,0,1.0
+2023-2024,7,2023-10-01,Konyaspor,Beşiktaş,0,2,0.0
+2023-2024,7,2023-10-02,Kayserispor,Başakşehir,0,0,0.5
+2023-2024,8,2023-10-06,Alanyaspor,Fatih Karagümrük,2,1,1.0
+2023-2024,8,2023-10-06,Adana Demirspor,Trabzonspor,1,0,1.0
+2023-2024,8,2023-10-07,Pendikspor,Sivasspor,2,3,0.0
+2023-2024,8,2023-10-07,Ankaragücü,Kayserispor,3,0,1.0
+2023-2024,8,2023-10-07,Başakşehir,Gaziantep FK,2,0,1.0
+2023-2024,8,2023-10-07,Antalyaspor,Galatasaray,0,2,0.0
+2023-2024,8,2023-10-08,Rizespor,Samsunspor,1,0,1.0
+2023-2024,8,2023-10-08,Beşiktaş,İstanbulspor,2,0,1.0
+2023-2024,8,2023-10-08,Hatayspor,Konyaspor,3,1,1.0
+2023-2024,8,2023-10-08,Kasımpaşa,Fenerbahçe,0,2,0.0
+2023-2024,9,2023-10-21,Kayserispor,Rizespor,3,1,1.0
+2023-2024,9,2023-10-21,Konyaspor,Pendikspor,1,2,0.0
+2023-2024,9,2023-10-21,Gaziantep FK,Antalyaspor,1,0,1.0
+2023-2024,9,2023-10-21,Galatasaray,Beşiktaş,2,1,1.0
+2023-2024,9,2023-10-22,Sivasspor,Kasımpaşa,0,1,0.0
+2023-2024,9,2023-10-22,İstanbulspor,Ankaragücü,2,1,1.0
+2023-2024,9,2023-10-22,Samsunspor,Başakşehir,0,0,0.5
+2023-2024,9,2023-10-22,Fenerbahçe,Hatayspor,4,2,1.0
+2023-2024,9,2023-10-23,Trabzonspor,Alanyaspor,1,0,1.0
+2023-2024,9,2023-10-23,Fatih Karagümrük,Adana Demirspor,2,0,1.0
+2023-2024,10,2023-10-27,Kasımpaşa,İstanbulspor,3,1,1.0
+2023-2024,10,2023-10-27,Hatayspor,Kayserispor,1,2,0.0
+2023-2024,10,2023-10-28,Alanyaspor,Sivasspor,1,2,0.0
+2023-2024,10,2023-10-28,Adana Demirspor,Konyaspor,3,0,1.0
+2023-2024,10,2023-10-28,Rizespor,Galatasaray,0,1,0.0
+2023-2024,10,2023-10-29,Fatih Karagümrük,Trabzonspor,0,0,0.5
+2023-2024,10,2023-10-29,Pendikspor,Fenerbahçe,0,5,0.0
+2023-2024,10,2023-10-29,Ankaragücü,Samsunspor,2,0,1.0
+2023-2024,10,2023-10-29,Antalyaspor,Başakşehir,1,0,1.0
+2023-2024,10,2023-10-30,Beşiktaş,Gaziantep FK,2,0,1.0
+2023-2024,11,2023-11-03,Galatasaray,Kasımpaşa,2,1,1.0
+2023-2024,11,2023-11-04,İstanbulspor,Pendikspor,2,4,0.0
+2023-2024,11,2023-11-04,Samsunspor,Hatayspor,2,1,1.0
+2023-2024,11,2023-11-04,Fenerbahçe,Trabzonspor,2,3,0.0
+2023-2024,11,2023-11-05,Sivasspor,Adana Demirspor,1,1,0.5
+2023-2024,11,2023-11-05,Başakşehir,Ankaragücü,3,3,0.5
+2023-2024,11,2023-11-05,Konyaspor,Fatih Karagümrük,1,1,0.5
+2023-2024,11,2023-11-05,Antalyaspor,Beşiktaş,3,2,1.0
+2023-2024,11,2023-11-06,Kayserispor,Alanyaspor,1,0,1.0
+2023-2024,11,2023-11-06,Gaziantep FK,Rizespor,2,0,1.0
+2023-2024,4,2023-11-08,Samsunspor,İstanbulspor,2,1,1.0
+2023-2024,12,2023-11-10,Trabzonspor,Konyaspor,2,1,1.0
+2023-2024,12,2023-11-10,Ankaragücü,Antalyaspor,0,4,0.0
+2023-2024,12,2023-11-11,Kasımpaşa,Kayserispor,3,4,0.0
+2023-2024,12,2023-11-11,Alanyaspor,Gaziantep FK,0,3,0.0
+2023-2024,12,2023-11-11,Fatih Karagümrük,Sivasspor,3,0,1.0
+2023-2024,12,2023-11-11,Hatayspor,Galatasaray,2,1,1.0
+2023-2024,12,2023-11-12,Pendikspor,Samsunspor,1,0,1.0
+2023-2024,12,2023-11-12,Rizespor,İstanbulspor,1,0,1.0
+2023-2024,12,2023-11-12,Beşiktaş,Başakşehir,1,0,1.0
+2023-2024,12,2023-11-12,Adana Demirspor,Fenerbahçe,0,0,0.5
+2023-2024,13,2023-11-25,İstanbulspor,Hatayspor,2,1,1.0
+2023-2024,13,2023-11-25,Gaziantep FK,Ankaragücü,0,1,0.0
+2023-2024,13,2023-11-25,Konyaspor,Kasımpaşa,2,0,1.0
+2023-2024,13,2023-11-25,Galatasaray,Alanyaspor,4,0,1.0
+2023-2024,13,2023-11-26,Kayserispor,Adana Demirspor,1,1,0.5
+2023-2024,13,2023-11-26,Samsunspor,Beşiktaş,1,2,0.0
+2023-2024,13,2023-11-26,Antalyaspor,Rizespor,0,0,0.5
+2023-2024,13,2023-11-26,Fenerbahçe,Fatih Karagümrük,2,1,1.0
+2023-2024,13,2023-11-27,Sivasspor,Trabzonspor,3,3,0.5
+2023-2024,13,2023-11-27,Başakşehir,Pendikspor,4,1,1.0
+2023-2024,14,2023-12-01,Fatih Karagümrük,İstanbulspor,3,0,1.0
+2023-2024,14,2023-12-01,Hatayspor,Antalyaspor,3,3,0.5
+2023-2024,14,2023-12-02,Alanyaspor,Konyaspor,2,2,0.5
+2023-2024,14,2023-12-02,Rizespor,Başakşehir,3,2,1.0
+2023-2024,14,2023-12-02,Pendikspor,Galatasaray,0,2,0.0
+2023-2024,14,2023-12-02,Adana Demirspor,Samsunspor,2,3,0.0
+2023-2024,14,2023-12-03,Kasımpaşa,Gaziantep FK,4,2,1.0
+2023-2024,14,2023-12-03,Trabzonspor,Kayserispor,0,1,0.0
+2023-2024,14,2023-12-03,Ankaragücü,Beşiktaş,1,1,0.5
+2023-2024,14,2023-12-04,Fenerbahçe,Sivasspor,4,1,1.0
+2023-2024,15,2023-12-08,Galatasaray,Adana Demirspor,3,1,1.0
+2023-2024,15,2023-12-09,Antalyaspor,Fatih Karagümrük,2,1,1.0
+2023-2024,15,2023-12-09,Samsunspor,Kasımpaşa,4,2,1.0
+2023-2024,15,2023-12-09,Beşiktaş,Fenerbahçe,1,3,0.0
+2023-2024,15,2023-12-10,İstanbulspor,Alanyaspor,0,1,0.0
+2023-2024,15,2023-12-10,Kayserispor,Pendikspor,2,0,1.0
+2023-2024,15,2023-12-10,Başakşehir,Hatayspor,1,0,1.0
+2023-2024,15,2023-12-10,Gaziantep FK,Trabzonspor,1,3,0.0
+2023-2024,15,2023-12-11,Konyaspor,Sivasspor,0,1,0.0
+2023-2024,15,2023-12-11,Ankaragücü,Rizespor,1,1,0.5
+2023-2024,17,2023-12-19,Başakşehir,Sivasspor,3,1,1.0
+2023-2024,17,2023-12-19,İstanbulspor,Trabzonspor,0,3,0.0
+2023-2024,17,2023-12-19,Gaziantep FK,Adana Demirspor,2,2,0.5
+2023-2024,17,2023-12-20,Kayserispor,Fenerbahçe,3,4,0.0
+2023-2024,17,2023-12-20,Galatasaray,Fatih Karagümrük,1,0,1.0
+2023-2024,17,2023-12-20,Antalyaspor,Kasımpaşa,0,0,0.5
+2023-2024,17,2023-12-21,Samsunspor,Konyaspor,1,1,0.5
+2023-2024,17,2023-12-21,Rizespor,Pendikspor,5,1,1.0
+2023-2024,17,2023-12-21,Beşiktaş,Alanyaspor,1,3,0.0
+2023-2024,17,2023-12-21,Ankaragücü,Hatayspor,0,0,0.5
+2023-2024,18,2023-12-23,Sivasspor,İstanbulspor,1,0,1.0
+2023-2024,18,2023-12-23,Fatih Karagümrük,Gaziantep FK,0,3,0.0
+2023-2024,18,2023-12-23,Trabzonspor,Başakşehir,1,1,0.5
+2023-2024,18,2023-12-24,Konyaspor,Kayserispor,2,0,1.0
+2023-2024,18,2023-12-24,Adana Demirspor,Antalyaspor,2,1,1.0
+2023-2024,18,2023-12-24,Fenerbahçe,Galatasaray,0,0,0.5
+2023-2024,18,2023-12-25,Kasımpaşa,Rizespor,2,2,0.5
+2023-2024,18,2023-12-25,Alanyaspor,Samsunspor,3,1,1.0
+2023-2024,18,2023-12-25,Hatayspor,Beşiktaş,1,2,0.0
+2023-2024,18,2023-12-25,Pendikspor,Ankaragücü,1,1,0.5
+2023-2024,19,2024-01-05,Gaziantep FK,Pendikspor,2,2,0.5
+2023-2024,19,2024-01-05,Beşiktaş,Kasımpaşa,1,3,0.0
+2023-2024,19,2024-01-05,Antalyaspor,Alanyaspor,0,0,0.5
+2023-2024,19,2024-01-06,Rizespor,Hatayspor,2,0,1.0
+2023-2024,19,2024-01-06,Başakşehir,Adana Demirspor,0,0,0.5
+2023-2024,19,2024-01-06,Ankaragücü,Trabzonspor,0,1,0.0
+2023-2024,19,2024-01-06,Samsunspor,Fatih Karagümrük,1,0,1.0
+2023-2024,19,2024-01-07,Kayserispor,Sivasspor,1,3,0.0
+2023-2024,19,2024-01-07,İstanbulspor,Fenerbahçe,1,5,0.0
+2023-2024,19,2024-01-07,Galatasaray,Konyaspor,3,0,1.0
+2023-2024,16,2024-01-09,Pendikspor,Antalyaspor,0,1,0.0
+2023-2024,16,2024-01-09,Alanyaspor,Ankaragücü,1,1,0.5
+2023-2024,16,2024-01-09,Rizespor,Beşiktaş,0,4,0.0
+2023-2024,16,2024-01-09,Kasımpaşa,Başakşehir,0,3,0.0
+2023-2024,16,2024-01-10,Fatih Karagümrük,Kayserispor,4,1,1.0
+2023-2024,16,2024-01-10,Hatayspor,Gaziantep FK,0,0,0.5
+2023-2024,16,2024-01-10,Adana Demirspor,İstanbulspor,2,2,0.5
+2023-2024,16,2024-01-10,Fenerbahçe,Konyaspor,7,1,1.0
+2023-2024,16,2024-01-11,Sivasspor,Galatasaray,1,1,0.5
+2023-2024,16,2024-01-11,Trabzonspor,Samsunspor,2,1,1.0
+2023-2024,20,2024-01-13,Hatayspor,Pendikspor,1,1,0.5
+2023-2024,20,2024-01-13,Ankaragücü,Kasımpaşa,3,1,1.0
+2023-2024,20,2024-01-13,Başakşehir,Alanyaspor,3,2,1.0
+2023-2024,20,2024-01-13,Beşiktaş,Fatih Karagümrük,3,0,1.0
+2023-2024,20,2024-01-13,Rizespor,Adana Demirspor,1,0,1.0
+2023-2024,20,2024-01-14,İstanbulspor,Konyaspor,0,0,0.5
+2023-2024,20,2024-01-14,Samsunspor,Sivasspor,2,0,1.0
+2023-2024,20,2024-01-14,Antalyaspor,Trabzonspor,1,1,0.5
+2023-2024,20,2024-01-14,Gaziantep FK,Fenerbahçe,0,1,0.0
+2023-2024,20,2024-01-15,Galatasaray,Kayserispor,2,1,1.0
+2023-2024,21,2024-01-20,Kasımpaşa,Hatayspor,3,0,1.0
+2023-2024,21,2024-01-20,Fatih Karagümrük,Başakşehir,1,1,0.5
+2023-2024,21,2024-01-20,Alanyaspor,Rizespor,2,1,1.0
+2023-2024,21,2024-01-20,Adana Demirspor,Ankaragücü,1,1,0.5
+2023-2024,21,2024-01-20,Pendikspor,Beşiktaş,4,0,1.0
+2023-2024,21,2024-01-21,Sivasspor,Gaziantep FK,2,2,0.5
+2023-2024,21,2024-01-21,Konyaspor,Antalyaspor,1,1,0.5
+2023-2024,21,2024-01-21,Fenerbahçe,Samsunspor,1,1,0.5
+2023-2024,21,2024-01-21,Trabzonspor,Galatasaray,1,5,0.0
+2023-2024,21,2024-01-22,Kayserispor,İstanbulspor,0,1,0.0
+2023-2024,22,2024-01-23,Hatayspor,Alanyaspor,1,1,0.5
+2023-2024,22,2024-01-23,Pendikspor,Kasımpaşa,3,2,1.0
+2023-2024,22,2024-01-23,Beşiktaş,Adana Demirspor,0,0,0.5
+2023-2024,22,2024-01-24,Gaziantep FK,Konyaspor,1,1,0.5
+2023-2024,22,2024-01-24,Ankaragücü,Fatih Karagümrük,2,0,1.0
+2023-2024,22,2024-01-24,Antalyaspor,Sivasspor,2,1,1.0
+2023-2024,22,2024-01-24,Başakşehir,Fenerbahçe,0,1,0.0
+2023-2024,22,2024-01-25,Samsunspor,Kayserispor,2,0,1.0
+2023-2024,22,2024-01-25,Galatasaray,İstanbulspor,3,1,1.0
+2023-2024,22,2024-01-25,Rizespor,Trabzonspor,1,0,1.0
+2023-2024,23,2024-01-27,Alanyaspor,Pendikspor,1,1,0.5
+2023-2024,23,2024-01-27,Adana Demirspor,Hatayspor,0,1,0.0
+2023-2024,23,2024-01-28,Konyaspor,Başakşehir,2,3,0.0
+2023-2024,23,2024-01-28,Fatih Karagümrük,Rizespor,4,0,1.0
+2023-2024,23,2024-01-28,Sivasspor,Beşiktaş,1,0,1.0
+2023-2024,23,2024-01-28,Fenerbahçe,Ankaragücü,2,1,1.0
+2023-2024,23,2024-01-29,İstanbulspor,Samsunspor,1,1,0.5
+2023-2024,23,2024-01-29,Kayserispor,Antalyaspor,1,1,0.5
+2023-2024,23,2024-01-29,Trabzonspor,Kasımpaşa,2,3,0.0
+2023-2024,23,2024-01-29,Galatasaray,Gaziantep FK,2,1,1.0
+2023-2024,24,2024-02-02,Ankaragücü,Sivasspor,0,0,0.5
+2023-2024,24,2024-02-02,Hatayspor,Fatih Karagümrük,3,1,1.0
+2023-2024,24,2024-02-02,Samsunspor,Galatasaray,0,2,0.0
+2023-2024,24,2024-02-03,Rizespor,Konyaspor,0,0,0.5
+2023-2024,24,2024-02-03,Başakşehir,İstanbulspor,2,0,1.0
+2023-2024,24,2024-02-03,Gaziantep FK,Kayserispor,1,1,0.5
+2023-2024,24,2024-02-03,Antalyaspor,Fenerbahçe,0,2,0.0
+2023-2024,24,2024-02-04,Pendikspor,Adana Demirspor,2,1,1.0
+2023-2024,24,2024-02-04,Kasımpaşa,Alanyaspor,2,1,1.0
+2023-2024,24,2024-02-04,Beşiktaş,Trabzonspor,2,0,1.0
+2023-2024,25,2024-02-09,Adana Demirspor,Kasımpaşa,1,3,0.0
+2023-2024,25,2024-02-10,Fatih Karagümrük,Pendikspor,2,0,1.0
+2023-2024,25,2024-02-10,Galatasaray,Başakşehir,2,0,1.0
+2023-2024,25,2024-02-11,Sivasspor,Rizespor,1,0,1.0
+2023-2024,25,2024-02-11,İstanbulspor,Gaziantep FK,1,3,0.0
+2023-2024,25,2024-02-11,Konyaspor,Ankaragücü,1,0,1.0
+2023-2024,25,2024-02-11,Fenerbahçe,Alanyaspor,2,2,0.5
+2023-2024,25,2024-02-12,Trabzonspor,Hatayspor,2,0,1.0
+2023-2024,25,2024-02-12,Samsunspor,Antalyaspor,2,0,1.0
+2023-2024,25,2024-02-12,Kayserispor,Beşiktaş,0,0,0.5
+2023-2024,26,2024-02-16,Kasımpaşa,Fatih Karagümrük,1,1,0.5
+2023-2024,26,2024-02-17,Antalyaspor,İstanbulspor,2,2,0.5
+2023-2024,26,2024-02-17,Hatayspor,Sivasspor,1,1,0.5
+2023-2024,26,2024-02-17,Rizespor,Fenerbahçe,1,3,0.0
+2023-2024,26,2024-02-18,Alanyaspor,Adana Demirspor,3,3,0.5
+2023-2024,26,2024-02-18,Gaziantep FK,Samsunspor,1,1,0.5
+2023-2024,26,2024-02-18,Pendikspor,Trabzonspor,0,2,0.0
+2023-2024,26,2024-02-18,Ankaragücü,Galatasaray,0,3,0.0
+2023-2024,26,2024-02-19,Beşiktaş,Konyaspor,2,0,1.0
+2023-2024,26,2024-02-19,Başakşehir,Kayserispor,2,3,0.0
+2023-2024,27,2024-02-23,Samsunspor,Rizespor,3,0,1.0
+2023-2024,27,2024-02-24,Kayserispor,Ankaragücü,3,2,1.0
+2023-2024,27,2024-02-24,Gaziantep FK,Başakşehir,0,2,0.0
+2023-2024,27,2024-02-24,Konyaspor,Hatayspor,2,0,1.0
+2023-2024,27,2024-02-24,Fenerbahçe,Kasımpaşa,2,1,1.0
+2023-2024,27,2024-02-25,Sivasspor,Pendikspor,4,1,1.0
+2023-2024,27,2024-02-25,Fatih Karagümrük,Alanyaspor,1,1,0.5
+2023-2024,27,2024-02-25,Trabzonspor,Adana Demirspor,1,0,1.0
+2023-2024,27,2024-02-25,İstanbulspor,Beşiktaş,0,2,0.0
+2023-2024,27,2024-02-26,Galatasaray,Antalyaspor,2,1,1.0
+2023-2024,28,2024-03-01,Kasımpaşa,Sivasspor,0,0,0.5
+2023-2024,28,2024-03-02,Ankaragücü,İstanbulspor,1,1,0.5
+2023-2024,28,2024-03-02,Rizespor,Kayserispor,3,0,1.0
+2023-2024,28,2024-03-02,Hatayspor,Fenerbahçe,0,2,0.0
+2023-2024,28,2024-03-03,Başakşehir,Samsunspor,1,0,1.0
+2023-2024,28,2024-03-03,Pendikspor,Konyaspor,0,2,0.0
+2023-2024,28,2024-03-03,Beşiktaş,Galatasaray,0,1,0.0
+2023-2024,28,2024-03-04,Adana Demirspor,Fatih Karagümrük,1,0,1.0
+2023-2024,28,2024-03-04,Antalyaspor,Gaziantep FK,1,0,1.0
+2023-2024,28,2024-03-04,Alanyaspor,Trabzonspor,3,1,1.0
+2023-2024,29,2024-03-08,Galatasaray,Rizespor,6,2,1.0
+2023-2024,29,2024-03-09,Sivasspor,Alanyaspor,1,2,0.0
+2023-2024,29,2024-03-09,Konyaspor,Adana Demirspor,2,2,0.5
+2023-2024,29,2024-03-09,Trabzonspor,Fatih Karagümrük,5,1,1.0
+2023-2024,29,2024-03-09,Başakşehir,Antalyaspor,1,0,1.0
+2023-2024,29,2024-03-10,Kayserispor,Hatayspor,1,1,0.5
+2023-2024,29,2024-03-10,İstanbulspor,Kasımpaşa,1,2,0.0
+2023-2024,29,2024-03-10,Samsunspor,Ankaragücü,2,1,1.0
+2023-2024,29,2024-03-10,Fenerbahçe,Pendikspor,4,1,1.0
+2023-2024,29,2024-03-11,Gaziantep FK,Beşiktaş,2,0,1.0
+2023-2024,30,2024-03-15,Pendikspor,İstanbulspor,1,0,1.0
+2023-2024,30,2024-03-15,Fatih Karagümrük,Konyaspor,1,1,0.5
+2023-2024,30,2024-03-16,Alanyaspor,Kayserispor,1,0,1.0
+2023-2024,30,2024-03-16,Ankaragücü,Başakşehir,2,1,1.0
+2023-2024,30,2024-03-16,Beşiktaş,Antalyaspor,1,2,0.0
+2023-2024,30,2024-03-16,Adana Demirspor,Sivasspor,4,1,1.0
+2023-2024,30,2024-03-17,Rizespor,Gaziantep FK,3,1,1.0
+2023-2024,30,2024-03-17,Kasımpaşa,Galatasaray,3,4,0.0
+2023-2024,30,2024-03-17,Hatayspor,Samsunspor,3,0,1.0
+2023-2024,30,2024-03-17,Trabzonspor,Fenerbahçe,2,3,0.0
+2023-2024,31,2024-04-02,İstanbulspor,Rizespor,0,4,0.0
+2023-2024,31,2024-04-02,Gaziantep FK,Alanyaspor,0,3,0.0
+2023-2024,31,2024-04-02,Antalyaspor,Ankaragücü,1,1,0.5
+2023-2024,31,2024-04-02,Galatasaray,Hatayspor,1,0,1.0
+2023-2024,31,2024-04-03,Sivasspor,Fatih Karagümrük,1,0,1.0
+2023-2024,31,2024-04-03,Konyaspor,Trabzonspor,1,3,0.0
+2023-2024,31,2024-04-03,Fenerbahçe,Adana Demirspor,4,2,1.0
+2023-2024,31,2024-04-03,Kayserispor,Kasımpaşa,0,2,0.0
+2023-2024,31,2024-04-04,Başakşehir,Beşiktaş,1,1,0.5
+2023-2024,31,2024-04-04,Samsunspor,Pendikspor,0,0,0.5
+2023-2024,32,2024-04-12,Trabzonspor,Sivasspor,0,1,0.0
+2023-2024,32,2024-04-13,Kasımpaşa,Konyaspor,0,2,0.0
+2023-2024,32,2024-04-13,Ankaragücü,Gaziantep FK,3,1,1.0
+2023-2024,32,2024-04-13,Beşiktaş,Samsunspor,1,1,0.5
+2023-2024,32,2024-04-13,Adana Demirspor,Kayserispor,0,0,0.5
+2023-2024,32,2024-04-14,Pendikspor,Başakşehir,2,3,0.0
+2023-2024,32,2024-04-14,Hatayspor,İstanbulspor,0,3,0.0
+2023-2024,32,2024-04-14,Rizespor,Antalyaspor,3,0,1.0
+2023-2024,32,2024-04-14,Fatih Karagümrük,Fenerbahçe,1,2,0.0
+2023-2024,32,2024-04-15,Alanyaspor,Galatasaray,0,4,0.0
+2023-2024,33,2024-04-19,Beşiktaş,Ankaragücü,2,0,1.0
+2023-2024,33,2024-04-20,İstanbulspor,Fatih Karagümrük,1,2,0.0
+2023-2024,33,2024-04-20,Konyaspor,Alanyaspor,0,2,0.0
+2023-2024,33,2024-04-20,Samsunspor,Adana Demirspor,1,1,0.5
+2023-2024,33,2024-04-20,Kayserispor,Trabzonspor,1,2,0.0
+2023-2024,33,2024-04-21,Başakşehir,Rizespor,2,0,1.0
+2023-2024,33,2024-04-21,Gaziantep FK,Kasımpaşa,2,0,1.0
+2023-2024,33,2024-04-21,Antalyaspor,Hatayspor,2,1,1.0
+2023-2024,33,2024-04-21,Galatasaray,Pendikspor,4,1,1.0
+2023-2024,33,2024-04-22,Sivasspor,Fenerbahçe,2,2,0.5
+2023-2024,34,2024-04-26,Adana Demirspor,Galatasaray,0,3,0.0
+2023-2024,34,2024-04-27,Kasımpaşa,Samsunspor,1,0,1.0
+2023-2024,34,2024-04-27,Sivasspor,Konyaspor,1,0,1.0
+2023-2024,34,2024-04-27,Hatayspor,Başakşehir,1,2,0.0
+2023-2024,34,2024-04-27,Fenerbahçe,Beşiktaş,2,1,1.0
+2023-2024,34,2024-04-28,Alanyaspor,İstanbulspor,6,0,1.0
+2023-2024,34,2024-04-28,Pendikspor,Kayserispor,1,2,0.0
+2023-2024,34,2024-04-28,Trabzonspor,Gaziantep FK,4,2,1.0
+2023-2024,34,2024-04-28,Rizespor,Ankaragücü,2,2,0.5
+2023-2024,34,2024-04-29,Fatih Karagümrük,Antalyaspor,4,1,1.0
+2023-2024,35,2024-05-03,Ankaragücü,Alanyaspor,1,1,0.5
+2023-2024,35,2024-05-03,Beşiktaş,Rizespor,3,2,1.0
+2023-2024,35,2024-05-04,İstanbulspor,Adana Demirspor,0,1,0.0
+2023-2024,35,2024-05-04,Kayserispor,Fatih Karagümrük,2,2,0.5
+2023-2024,35,2024-05-04,Samsunspor,Trabzonspor,3,1,1.0
+2023-2024,35,2024-05-05,Başakşehir,Kasımpaşa,4,1,1.0
+2023-2024,35,2024-05-05,Gaziantep FK,Hatayspor,1,1,0.5
+2023-2024,35,2024-05-05,Galatasaray,Sivasspor,6,1,1.0
+2023-2024,35,2024-05-06,Konyaspor,Fenerbahçe,0,0,0.5
+2023-2024,35,2024-05-06,Antalyaspor,Pendikspor,1,2,0.0
+2023-2024,36,2024-05-12,Konyaspor,Samsunspor,3,0,1.0
+2023-2024,36,2024-05-12,Adana Demirspor,Gaziantep FK,1,6,0.0
+2023-2024,36,2024-05-12,Alanyaspor,Beşiktaş,1,1,0.5
+2023-2024,36,2024-05-12,Trabzonspor,İstanbulspor,3,0,1.0
+2023-2024,36,2024-05-12,Kasımpaşa,Antalyaspor,3,1,1.0
+2023-2024,36,2024-05-12,Fatih Karagümrük,Galatasaray,2,3,0.0
+2023-2024,36,2024-05-12,Hatayspor,Ankaragücü,2,1,1.0
+2023-2024,36,2024-05-12,Fenerbahçe,Kayserispor,3,0,1.0
+2023-2024,36,2024-05-12,Pendikspor,Rizespor,2,1,1.0
+2023-2024,36,2024-05-12,Sivasspor,Başakşehir,0,1,0.0
+2023-2024,37,2024-05-17,İstanbulspor,Sivasspor,1,3,0.0
+2023-2024,37,2024-05-17,Antalyaspor,Adana Demirspor,2,1,1.0
+2023-2024,37,2024-05-18,Kayserispor,Konyaspor,2,2,0.5
+2023-2024,37,2024-05-18,Rizespor,Kasımpaşa,0,0,0.5
+2023-2024,37,2024-05-18,Beşiktaş,Hatayspor,2,2,0.5
+2023-2024,37,2024-05-18,Samsunspor,Alanyaspor,1,1,0.5
+2023-2024,37,2024-05-18,Gaziantep FK,Fatih Karagümrük,3,1,1.0
+2023-2024,37,2024-05-18,Başakşehir,Trabzonspor,0,1,0.0
+2023-2024,37,2024-05-18,Ankaragücü,Pendikspor,0,0,0.5
+2023-2024,37,2024-05-19,Galatasaray,Fenerbahçe,0,1,0.0
+2023-2024,38,2024-05-24,Alanyaspor,Antalyaspor,1,1,0.5
+2023-2024,38,2024-05-25,Fatih Karagümrük,Samsunspor,3,1,1.0
+2023-2024,38,2024-05-25,Sivasspor,Kayserispor,2,1,1.0
+2023-2024,38,2024-05-26,Adana Demirspor,Başakşehir,2,6,0.0
+2023-2024,38,2024-05-26,Fenerbahçe,İstanbulspor,6,0,1.0
+2023-2024,38,2024-05-26,Pendikspor,Gaziantep FK,0,1,0.0
+2023-2024,38,2024-05-26,Trabzonspor,Ankaragücü,4,2,1.0
+2023-2024,38,2024-05-26,Konyaspor,Galatasaray,1,3,0.0
+2023-2024,38,2024-05-26,Kasımpaşa,Beşiktaş,2,1,1.0
+2023-2024,38,2024-05-26,Hatayspor,Rizespor,2,0,1.0

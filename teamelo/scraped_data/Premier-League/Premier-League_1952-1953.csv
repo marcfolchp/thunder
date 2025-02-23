@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1952-1953,1,1952-08-23,Wolves,Cardiff City,1,0,1.0
+1952-1953,1,1952-08-23,Stoke City,Manchester City,2,1,1.0
+1952-1953,1,1952-08-23,Aston Villa,Arsenal,1,2,0.0
+1952-1953,1,1952-08-23,Sheffield Weds,Newcastle Utd,2,2,0.5
+1952-1953,1,1952-08-23,Sunderland,Charlton Ath,2,1,1.0
+1952-1953,1,1952-08-23,Bolton,Derby County,2,0,1.0
+1952-1953,1,1952-08-23,Portsmouth,Blackpool,0,2,0.0
+1952-1953,1,1952-08-23,Tottenham,West Brom,3,4,0.0
+1952-1953,1,1952-08-23,Manchester Utd,Chelsea,2,0,1.0
+1952-1953,1,1952-08-23,Preston,Liverpool,1,1,0.5
+1952-1953,1,1952-08-23,Burnley,Middlesbrough,0,1,0.0
+1952-1953,2,1952-08-25,Blackpool,Preston,1,1,0.5
+1952-1953,2,1952-08-25,Wolves,Bolton,3,1,1.0
+1952-1953,2,1952-08-26,Burnley,Stoke City,3,2,1.0
+1952-1953,2,1952-08-27,Charlton Ath,Portsmouth,2,2,0.5
+1952-1953,2,1952-08-27,Manchester City,Tottenham,0,1,0.0
+1952-1953,2,1952-08-27,Middlesbrough,Cardiff City,3,0,1.0
+1952-1953,2,1952-08-27,Chelsea,Derby County,1,1,0.5
+1952-1953,2,1952-08-27,Liverpool,Sheffield Weds,1,0,1.0
+1952-1953,2,1952-08-27,Arsenal,Manchester Utd,2,1,1.0
+1952-1953,2,1952-08-27,West Brom,Newcastle Utd,1,0,1.0
+1952-1953,3,1952-08-30,Liverpool,Stoke City,3,2,1.0
+1952-1953,3,1952-08-30,West Brom,Burnley,1,2,0.0
+1952-1953,3,1952-08-30,Cardiff City,Sheffield Weds,4,0,1.0
+1952-1953,3,1952-08-30,Blackpool,Bolton,3,0,1.0
+1952-1953,3,1952-08-30,Chelsea,Portsmouth,2,0,1.0
+1952-1953,3,1952-08-30,Arsenal,Sunderland,1,2,0.0
+1952-1953,3,1952-08-30,Middlesbrough,Preston,1,1,0.5
+1952-1953,3,1952-08-30,Newcastle Utd,Tottenham,1,1,0.5
+1952-1953,3,1952-08-30,Manchester City,Manchester Utd,2,1,1.0
+1952-1953,3,1952-08-30,Derby County,Aston Villa,0,1,0.0
+1952-1953,3,1952-08-30,Charlton Ath,Wolves,2,2,0.5
+1952-1953,4,1952-09-01,Bolton,Wolves,2,1,1.0
+1952-1953,4,1952-09-01,Aston Villa,Sunderland,3,0,1.0
+1952-1953,4,1952-09-01,Stoke City,Burnley,1,3,0.0
+1952-1953,4,1952-09-01,Tottenham,Manchester City,3,3,0.5
+1952-1953,4,1952-09-03,Sheffield Weds,Liverpool,0,2,0.0
+1952-1953,4,1952-09-03,Cardiff City,Middlesbrough,1,1,0.5
+1952-1953,4,1952-09-03,Manchester Utd,Arsenal,0,0,0.5
+1952-1953,4,1952-09-03,Derby County,Chelsea,3,2,1.0
+1952-1953,4,1952-09-03,Portsmouth,Charlton Ath,1,1,0.5
+1952-1953,5,1952-09-06,Sunderland,Derby County,2,1,1.0
+1952-1953,5,1952-09-06,Manchester City,Liverpool,0,2,0.0
+1952-1953,5,1952-09-06,Portsmouth,Manchester Utd,2,0,1.0
+1952-1953,5,1952-09-06,Burnley,Newcastle Utd,2,1,1.0
+1952-1953,5,1952-09-06,Aston Villa,Blackpool,1,5,0.0
+1952-1953,5,1952-09-06,Preston,West Brom,1,0,1.0
+1952-1953,5,1952-09-06,Bolton,Chelsea,1,1,0.5
+1952-1953,5,1952-09-06,Tottenham,Cardiff City,2,1,1.0
+1952-1953,5,1952-09-06,Stoke City,Middlesbrough,1,0,1.0
+1952-1953,5,1952-09-06,Sheffield Weds,Charlton Ath,0,3,0.0
+1952-1953,5,1952-09-06,Wolves,Arsenal,1,1,0.5
+1952-1953,6,1952-09-08,Burnley,Manchester City,2,1,1.0
+1952-1953,6,1952-09-08,Wolves,Aston Villa,2,1,1.0
+1952-1953,6,1952-09-10,Derby County,Manchester Utd,2,3,0.0
+1952-1953,6,1952-09-10,Chelsea,Blackpool,4,0,1.0
+1952-1953,6,1952-09-10,Preston,Stoke City,3,0,1.0
+1952-1953,6,1952-09-10,West Brom,Cardiff City,1,0,1.0
+1952-1953,6,1952-09-10,Charlton Ath,Bolton,2,0,1.0
+1952-1953,6,1952-09-10,Arsenal,Portsmouth,3,1,1.0
+1952-1953,6,1952-09-10,Newcastle Utd,Sunderland,2,2,0.5
+1952-1953,6,1952-09-10,Liverpool,Tottenham,2,1,1.0
+1952-1953,7,1952-09-13,Manchester Utd,Bolton,1,0,1.0
+1952-1953,7,1952-09-13,Blackpool,Sunderland,2,0,1.0
+1952-1953,7,1952-09-13,Sheffield Weds,Tottenham,2,0,1.0
+1952-1953,7,1952-09-13,Liverpool,Portsmouth,1,1,0.5
+1952-1953,7,1952-09-13,Arsenal,Charlton Ath,3,4,0.0
+1952-1953,7,1952-09-13,West Brom,Stoke City,3,2,1.0
+1952-1953,7,1952-09-13,Cardiff City,Burnley,0,0,0.5
+1952-1953,7,1952-09-13,Derby County,Wolves,2,3,0.0
+1952-1953,7,1952-09-13,Middlesbrough,Manchester City,5,4,1.0
+1952-1953,7,1952-09-13,Newcastle Utd,Preston,4,3,1.0
+1952-1953,7,1952-09-13,Chelsea,Aston Villa,4,0,1.0
+1952-1953,8,1952-09-15,Tottenham,Liverpool,3,1,1.0
+1952-1953,8,1952-09-15,Aston Villa,Wolves,0,1,0.0
+1952-1953,8,1952-09-15,Blackpool,Chelsea,3,1,1.0
+1952-1953,8,1952-09-15,Stoke City,Preston,0,0,0.5
+1952-1953,8,1952-09-17,Sheffield Weds,Middlesbrough,2,0,1.0
+1952-1953,8,1952-09-17,Manchester City,Burnley,0,0,0.5
+1952-1953,8,1952-09-17,Sunderland,Newcastle Utd,0,2,0.0
+1952-1953,8,1952-09-17,Portsmouth,Arsenal,2,2,0.5
+1952-1953,8,1952-09-17,Cardiff City,West Brom,1,2,0.0
+1952-1953,9,1952-09-20,Wolves,Blackpool,2,5,0.0
+1952-1953,9,1952-09-20,Bolton,Portsmouth,0,5,0.0
+1952-1953,9,1952-09-20,Charlton Ath,Derby County,3,1,1.0
+1952-1953,9,1952-09-20,Manchester City,West Brom,0,1,0.0
+1952-1953,9,1952-09-20,Sunderland,Chelsea,2,1,1.0
+1952-1953,9,1952-09-20,Burnley,Sheffield Weds,1,1,0.5
+1952-1953,9,1952-09-20,Tottenham,Arsenal,1,3,0.0
+1952-1953,9,1952-09-20,Preston,Cardiff City,2,3,0.0
+1952-1953,9,1952-09-20,Stoke City,Newcastle Utd,1,0,1.0
+1952-1953,9,1952-09-20,Aston Villa,Manchester Utd,3,3,0.5
+1952-1953,9,1952-09-20,Liverpool,Middlesbrough,4,1,1.0
+1952-1953,10,1952-09-27,Portsmouth,Aston Villa,1,1,0.5
+1952-1953,10,1952-09-27,West Brom,Liverpool,3,0,1.0
+1952-1953,10,1952-09-27,Sheffield Weds,Preston,1,1,0.5
+1952-1953,10,1952-09-27,Manchester Utd,Sunderland,0,1,0.0
+1952-1953,10,1952-09-27,Blackpool,Charlton Ath,8,4,1.0
+1952-1953,10,1952-09-27,Derby County,Arsenal,2,0,1.0
+1952-1953,10,1952-09-27,Middlesbrough,Bolton,1,2,0.0
+1952-1953,10,1952-09-27,Chelsea,Wolves,1,2,0.0
+1952-1953,10,1952-09-27,Tottenham,Burnley,2,1,1.0
+1952-1953,10,1952-09-27,Newcastle Utd,Manchester City,2,0,1.0
+1952-1953,10,1952-09-27,Cardiff City,Stoke City,2,0,1.0
+1952-1953,11,1952-10-04,Liverpool,Newcastle Utd,5,3,1.0
+1952-1953,11,1952-10-04,Preston,Tottenham,1,0,1.0
+1952-1953,11,1952-10-04,Stoke City,Sheffield Weds,1,3,0.0
+1952-1953,11,1952-10-04,Wolves,Manchester Utd,6,2,1.0
+1952-1953,11,1952-10-04,Charlton Ath,Chelsea,2,2,0.5
+1952-1953,11,1952-10-04,Burnley,Derby County,1,2,0.0
+1952-1953,11,1952-10-04,Middlesbrough,West Brom,4,2,1.0
+1952-1953,11,1952-10-04,Arsenal,Blackpool,3,1,1.0
+1952-1953,11,1952-10-04,Sunderland,Portsmouth,1,1,0.5
+1952-1953,11,1952-10-04,Aston Villa,Bolton,1,1,0.5
+1952-1953,11,1952-10-04,Manchester City,Cardiff City,2,2,0.5
+1952-1953,12,1952-10-11,Manchester Utd,Stoke City,0,2,0.0
+1952-1953,12,1952-10-11,Derby County,Tottenham,0,0,0.5
+1952-1953,12,1952-10-11,Blackpool,Burnley,4,2,1.0
+1952-1953,12,1952-10-11,Bolton,Liverpool,2,2,0.5
+1952-1953,12,1952-10-11,Aston Villa,Middlesbrough,1,0,1.0
+1952-1953,12,1952-10-11,Charlton Ath,Cardiff City,3,1,1.0
+1952-1953,12,1952-10-11,Chelsea,Preston,5,3,1.0
+1952-1953,12,1952-10-11,Wolves,Newcastle Utd,2,0,1.0
+1952-1953,12,1952-10-11,Portsmouth,Manchester City,2,1,1.0
+1952-1953,12,1952-10-11,Sunderland,West Brom,1,0,1.0
+1952-1953,12,1952-10-11,Arsenal,Sheffield Weds,2,2,0.5
+1952-1953,13,1952-10-18,Burnley,Chelsea,1,1,0.5
+1952-1953,13,1952-10-18,Preston,Manchester Utd,0,5,0.0
+1952-1953,13,1952-10-18,Middlesbrough,Sunderland,1,2,0.0
+1952-1953,13,1952-10-18,Manchester City,Bolton,1,2,0.0
+1952-1953,13,1952-10-18,Tottenham,Blackpool,4,0,1.0
+1952-1953,13,1952-10-18,West Brom,Wolves,1,1,0.5
+1952-1953,13,1952-10-18,Newcastle Utd,Charlton Ath,3,2,1.0
+1952-1953,13,1952-10-18,Liverpool,Aston Villa,0,2,0.0
+1952-1953,13,1952-10-18,Stoke City,Portsmouth,2,4,0.0
+1952-1953,13,1952-10-18,Sheffield Weds,Derby County,2,0,1.0
+1952-1953,14,1952-10-25,Chelsea,Tottenham,2,1,1.0
+1952-1953,14,1952-10-25,Derby County,Cardiff City,1,1,0.5
+1952-1953,14,1952-10-25,Manchester Utd,Burnley,1,3,0.0
+1952-1953,14,1952-10-25,Blackpool,Sheffield Weds,0,1,0.0
+1952-1953,14,1952-10-25,Arsenal,Newcastle Utd,3,0,1.0
+1952-1953,14,1952-10-25,Bolton,Stoke City,2,1,1.0
+1952-1953,14,1952-10-25,Sunderland,Liverpool,3,1,1.0
+1952-1953,14,1952-10-25,Portsmouth,Preston,2,5,0.0
+1952-1953,14,1952-10-25,Charlton Ath,West Brom,0,0,0.5
+1952-1953,14,1952-10-25,Wolves,Middlesbrough,3,3,0.5
+1952-1953,14,1952-10-25,Aston Villa,Manchester City,0,0,0.5
+1952-1953,15,1952-11-01,West Brom,Arsenal,2,0,1.0
+1952-1953,15,1952-11-01,Burnley,Portsmouth,3,2,1.0
+1952-1953,15,1952-11-01,Middlesbrough,Charlton Ath,1,0,1.0
+1952-1953,15,1952-11-01,Stoke City,Aston Villa,1,4,0.0
+1952-1953,15,1952-11-01,Tottenham,Manchester Utd,1,2,0.0
+1952-1953,15,1952-11-01,Cardiff City,Blackpool,2,2,0.5
+1952-1953,15,1952-11-01,Manchester City,Sunderland,2,5,0.0
+1952-1953,15,1952-11-01,Preston,Bolton,2,2,0.5
+1952-1953,15,1952-11-01,Newcastle Utd,Derby County,1,0,1.0
+1952-1953,15,1952-11-01,Sheffield Weds,Chelsea,1,0,1.0
+1952-1953,15,1952-11-01,Liverpool,Wolves,2,1,1.0
+1952-1953,17,1952-11-05,Preston,Sunderland,3,2,1.0
+1952-1953,17,1952-11-05,Cardiff City,Manchester Utd,1,2,0.0
+1952-1953,17,1952-11-05,West Brom,Blackpool,0,1,0.0
+1952-1953,17,1952-11-05,Newcastle Utd,Chelsea,2,1,1.0
+1952-1953,17,1952-11-05,Manchester City,Charlton Ath,5,1,1.0
+1952-1953,17,1952-11-05,Middlesbrough,Derby County,1,0,1.0
+1952-1953,17,1952-11-05,Sheffield Weds,Portsmouth,3,4,0.0
+1952-1953,17,1952-11-05,Liverpool,Arsenal,1,5,0.0
+1952-1953,17,1952-11-05,Burnley,Aston Villa,1,0,1.0
+1952-1953,17,1952-11-05,Stoke City,Wolves,1,2,0.0
+1952-1953,17,1952-11-05,Tottenham,Bolton,1,1,0.5
+1952-1953,16,1952-11-08,Chelsea,Cardiff City,0,2,0.0
+1952-1953,16,1952-11-08,Bolton,Burnley,1,2,0.0
+1952-1953,16,1952-11-08,Derby County,West Brom,1,1,0.5
+1952-1953,16,1952-11-08,Portsmouth,Tottenham,2,1,1.0
+1952-1953,16,1952-11-08,Arsenal,Middlesbrough,2,1,1.0
+1952-1953,16,1952-11-08,Manchester Utd,Sheffield Weds,1,1,0.5
+1952-1953,16,1952-11-08,Aston Villa,Preston,1,0,1.0
+1952-1953,16,1952-11-08,Charlton Ath,Liverpool,3,2,1.0
+1952-1953,16,1952-11-08,Sunderland,Stoke City,1,1,0.5
+1952-1953,16,1952-11-08,Wolves,Manchester City,7,3,1.0
+1952-1953,16,1952-11-08,Blackpool,Newcastle Utd,0,2,0.0
+1952-1953,18,1952-11-22,Bolton,Sheffield Weds,1,1,0.5
+1952-1953,18,1952-11-22,Charlton Ath,Stoke City,5,1,1.0
+1952-1953,18,1952-11-22,Manchester Utd,Newcastle Utd,2,2,0.5
+1952-1953,18,1952-11-22,Portsmouth,Cardiff City,0,2,0.0
+1952-1953,18,1952-11-22,Chelsea,West Brom,0,2,0.0
+1952-1953,18,1952-11-22,Arsenal,Manchester City,3,1,1.0
+1952-1953,18,1952-11-22,Derby County,Liverpool,3,2,1.0
+1952-1953,18,1952-11-22,Wolves,Preston,0,2,0.0
+1952-1953,18,1952-11-22,Aston Villa,Tottenham,0,3,0.0
+1952-1953,18,1952-11-22,Blackpool,Middlesbrough,1,1,0.5
+1952-1953,18,1952-11-22,Sunderland,Burnley,2,1,1.0
+1952-1953,19,1952-11-29,Manchester City,Derby County,1,0,1.0
+1952-1953,19,1952-11-29,Sheffield Weds,Aston Villa,2,2,0.5
+1952-1953,19,1952-11-29,Newcastle Utd,Portsmouth,1,0,1.0
+1952-1953,19,1952-11-29,Stoke City,Arsenal,1,1,0.5
+1952-1953,19,1952-11-29,Tottenham,Sunderland,2,2,0.5
+1952-1953,19,1952-11-29,Middlesbrough,Chelsea,4,0,1.0
+1952-1953,19,1952-11-29,Liverpool,Blackpool,2,2,0.5
+1952-1953,19,1952-11-29,West Brom,Manchester Utd,3,1,1.0
+1952-1953,19,1952-11-29,Burnley,Wolves,0,0,0.5
+1952-1953,19,1952-11-29,Preston,Charlton Ath,2,1,1.0
+1952-1953,20,1952-12-06,Sunderland,Sheffield Weds,2,1,1.0
+1952-1953,20,1952-12-06,Wolves,Tottenham,0,0,0.5
+1952-1953,20,1952-12-06,Blackpool,Manchester City,4,1,1.0
+1952-1953,20,1952-12-06,Manchester Utd,Middlesbrough,3,2,1.0
+1952-1953,20,1952-12-06,Portsmouth,West Brom,1,2,0.0
+1952-1953,20,1952-12-06,Bolton,Newcastle Utd,4,2,1.0
+1952-1953,20,1952-12-06,Derby County,Stoke City,4,0,1.0
+1952-1953,21,1952-12-13,Tottenham,Charlton Ath,2,0,1.0
+1952-1953,21,1952-12-13,West Brom,Bolton,0,1,0.0
+1952-1953,21,1952-12-13,Cardiff City,Sunderland,4,1,1.0
+1952-1953,21,1952-12-13,Manchester City,Chelsea,4,0,1.0
+1952-1953,21,1952-12-13,Stoke City,Blackpool,4,0,1.0
+1952-1953,21,1952-12-13,Burnley,Arsenal,1,1,0.5
+1952-1953,21,1952-12-13,Middlesbrough,Portsmouth,3,2,1.0
+1952-1953,21,1952-12-13,Preston,Derby County,3,0,1.0
+1952-1953,21,1952-12-13,Liverpool,Manchester Utd,1,2,0.0
+1952-1953,21,1952-12-13,Sheffield Weds,Wolves,2,3,0.0
+1952-1953,21,1952-12-13,Newcastle Utd,Aston Villa,2,1,1.0
+1952-1953,22,1952-12-20,Newcastle Utd,Sheffield Weds,1,5,0.0
+1952-1953,22,1952-12-20,Chelsea,Manchester Utd,2,3,0.0
+1952-1953,22,1952-12-20,Manchester City,Stoke City,2,1,1.0
+1952-1953,22,1952-12-20,Charlton Ath,Sunderland,3,1,1.0
+1952-1953,22,1952-12-20,Middlesbrough,Burnley,2,2,0.5
+1952-1953,22,1952-12-20,Derby County,Bolton,4,3,1.0
+1952-1953,22,1952-12-20,Arsenal,Aston Villa,3,1,1.0
+1952-1953,22,1952-12-20,Blackpool,Portsmouth,3,2,1.0
+1952-1953,22,1952-12-20,Liverpool,Preston,2,2,0.5
+1952-1953,22,1952-12-20,Cardiff City,Wolves,0,0,0.5
+1952-1953,22,1952-12-20,West Brom,Tottenham,2,1,1.0
+1952-1953,23,1952-12-25,Burnley,Liverpool,2,0,1.0
+1952-1953,23,1952-12-25,Tottenham,Middlesbrough,7,1,1.0
+1952-1953,23,1952-12-25,Bolton,Arsenal,4,6,0.0
+1952-1953,23,1952-12-25,Blackpool,Manchester Utd,0,0,0.5
+1952-1953,23,1952-12-25,Newcastle Utd,Cardiff City,3,0,1.0
+1952-1953,23,1952-12-26,Preston,Manchester City,6,2,1.0
+1952-1953,23,1952-12-26,Aston Villa,Charlton Ath,1,1,0.5
+1952-1953,23,1952-12-26,Derby County,Portsmouth,3,0,1.0
+1952-1953,23,1952-12-26,Wolves,Sunderland,1,1,0.5
+1952-1953,23,1952-12-26,Sheffield Weds,West Brom,4,5,0.0
+1952-1953,23,1952-12-26,Stoke City,Chelsea,1,1,0.5
+1952-1953,24,1952-12-26,Liverpool,Burnley,1,1,0.5
+1952-1953,24,1952-12-26,Manchester Utd,Blackpool,2,1,1.0
+1952-1953,24,1952-12-27,Portsmouth,Derby County,2,2,0.5
+1952-1953,24,1952-12-27,Chelsea,Stoke City,0,0,0.5
+1952-1953,24,1952-12-27,Cardiff City,Newcastle Utd,0,0,0.5
+1952-1953,24,1952-12-27,Middlesbrough,Tottenham,0,4,0.0
+1952-1953,24,1952-12-27,West Brom,Sheffield Weds,0,1,0.0
+1952-1953,24,1952-12-27,Sunderland,Wolves,5,2,1.0
+1952-1953,2,1953-01-01,Sunderland,Aston Villa,2,2,0.5
+1952-1953,4,1953-01-01,Newcastle Utd,West Brom,3,5,0.0
+1952-1953,4,1953-01-01,Preston,Blackpool,4,2,1.0
+1952-1953,6,1953-01-01,Middlesbrough,Sheffield Weds,2,2,0.5
+1952-1953,8,1953-01-01,Bolton,Charlton Ath,1,2,0.0
+1952-1953,8,1953-01-01,Manchester Utd,Derby County,1,0,1.0
+1952-1953,25,1953-01-03,Portsmouth,Chelsea,2,0,1.0
+1952-1953,25,1953-01-03,Tottenham,Newcastle Utd,3,2,1.0
+1952-1953,25,1953-01-03,Manchester Utd,Manchester City,1,1,0.5
+1952-1953,25,1953-01-03,Wolves,Charlton Ath,1,2,0.0
+1952-1953,25,1953-01-03,Preston,Middlesbrough,3,0,1.0
+1952-1953,25,1953-01-03,Stoke City,Liverpool,3,1,1.0
+1952-1953,25,1953-01-03,Burnley,West Brom,5,0,1.0
+1952-1953,25,1953-01-03,Sheffield Weds,Cardiff City,2,0,1.0
+1952-1953,25,1953-01-03,Sunderland,Arsenal,3,1,1.0
+1952-1953,25,1953-01-03,Aston Villa,Derby County,3,0,1.0
+1952-1953,25,1953-01-03,Bolton,Blackpool,4,0,1.0
+1952-1953,26,1953-01-17,Cardiff City,Tottenham,0,0,0.5
+1952-1953,26,1953-01-17,Derby County,Sunderland,3,1,1.0
+1952-1953,26,1953-01-17,Manchester Utd,Portsmouth,1,0,1.0
+1952-1953,26,1953-01-17,West Brom,Preston,2,1,1.0
+1952-1953,26,1953-01-17,Liverpool,Manchester City,0,1,0.0
+1952-1953,26,1953-01-17,Newcastle Utd,Burnley,0,0,0.5
+1952-1953,26,1953-01-17,Middlesbrough,Stoke City,0,0,0.5
+1952-1953,26,1953-01-17,Arsenal,Wolves,5,3,1.0
+1952-1953,26,1953-01-17,Charlton Ath,Sheffield Weds,3,0,1.0
+1952-1953,26,1953-01-17,Blackpool,Aston Villa,1,1,0.5
+1952-1953,26,1953-01-17,Chelsea,Bolton,1,0,1.0
+1952-1953,27,1953-01-24,Tottenham,Sheffield Weds,2,1,1.0
+1952-1953,27,1953-01-24,Manchester City,Middlesbrough,5,1,1.0
+1952-1953,27,1953-01-24,Stoke City,West Brom,5,1,1.0
+1952-1953,27,1953-01-24,Preston,Newcastle Utd,2,1,1.0
+1952-1953,27,1953-01-24,Charlton Ath,Arsenal,2,2,0.5
+1952-1953,27,1953-01-24,Aston Villa,Chelsea,1,1,0.5
+1952-1953,27,1953-01-24,Wolves,Derby County,3,1,1.0
+1952-1953,27,1953-01-24,Burnley,Cardiff City,0,0,0.5
+1952-1953,27,1953-01-24,Sunderland,Blackpool,1,1,0.5
+1952-1953,27,1953-01-24,Bolton,Manchester Utd,2,1,1.0
+1952-1953,27,1953-01-24,Portsmouth,Liverpool,3,1,1.0
+1952-1953,42,1953-01-31,Wolves,Sheffield Weds,3,1,1.0
+1952-1953,28,1953-02-07,Manchester Utd,Aston Villa,3,1,1.0
+1952-1953,28,1953-02-07,West Brom,Manchester City,2,1,1.0
+1952-1953,28,1953-02-07,Newcastle Utd,Stoke City,1,2,0.0
+1952-1953,28,1953-02-07,Cardiff City,Preston,0,2,0.0
+1952-1953,28,1953-02-07,Sheffield Weds,Burnley,2,4,0.0
+1952-1953,28,1953-02-07,Portsmouth,Bolton,3,1,1.0
+1952-1953,28,1953-02-07,Middlesbrough,Liverpool,2,3,0.0
+1952-1953,28,1953-02-07,Derby County,Charlton Ath,1,1,0.5
+1952-1953,28,1953-02-07,Chelsea,Sunderland,3,2,1.0
+1952-1953,28,1953-02-07,Blackpool,Wolves,2,0,1.0
+1952-1953,28,1953-02-07,Arsenal,Tottenham,4,0,1.0
+1952-1953,29,1953-02-14,Stoke City,Cardiff City,0,0,0.5
+1952-1953,29,1953-02-14,Manchester City,Newcastle Utd,2,1,1.0
+1952-1953,29,1953-02-14,Preston,Sheffield Weds,1,0,1.0
+1952-1953,29,1953-02-14,Liverpool,West Brom,3,0,1.0
+1952-1953,29,1953-02-17,Burnley,Tottenham,3,2,1.0
+1952-1953,29,1953-02-18,Aston Villa,Portsmouth,6,0,1.0
+1952-1953,29,1953-02-18,Bolton,Middlesbrough,5,3,1.0
+1952-1953,29,1953-02-18,Wolves,Chelsea,2,2,0.5
+1952-1953,29,1953-02-18,Sunderland,Manchester Utd,2,2,0.5
+1952-1953,29,1953-02-18,Arsenal,Derby County,6,2,1.0
+1952-1953,30,1953-02-21,Portsmouth,Sunderland,5,2,1.0
+1952-1953,30,1953-02-21,West Brom,Middlesbrough,3,0,1.0
+1952-1953,30,1953-02-21,Chelsea,Charlton Ath,0,1,0.0
+1952-1953,30,1953-02-21,Sheffield Weds,Stoke City,1,0,1.0
+1952-1953,30,1953-02-21,Bolton,Aston Villa,0,0,0.5
+1952-1953,30,1953-02-21,Manchester Utd,Wolves,0,3,0.0
+1952-1953,30,1953-02-21,Newcastle Utd,Liverpool,1,2,0.0
+1952-1953,30,1953-02-21,Cardiff City,Manchester City,6,0,1.0
+1952-1953,30,1953-02-21,Tottenham,Preston,4,4,0.5
+1952-1953,30,1953-02-21,Derby County,Burnley,1,3,0.0
+1952-1953,30,1953-02-21,Blackpool,Arsenal,3,2,1.0
+1952-1953,29,1953-02-23,Charlton Ath,Blackpool,2,0,1.0
+1952-1953,31,1953-02-28,Cardiff City,Charlton Ath,0,1,0.0
+1952-1953,31,1953-02-28,Stoke City,Manchester Utd,3,1,1.0
+1952-1953,31,1953-02-28,West Brom,Sunderland,1,1,0.5
+1952-1953,31,1953-02-28,Manchester City,Portsmouth,2,1,1.0
+1952-1953,31,1953-02-28,Newcastle Utd,Wolves,1,1,0.5
+1952-1953,31,1953-02-28,Preston,Chelsea,2,1,1.0
+1952-1953,31,1953-03-02,Sheffield Weds,Arsenal,1,4,0.0
+1952-1953,31,1953-03-03,Burnley,Blackpool,0,1,0.0
+1952-1953,31,1953-03-04,Liverpool,Bolton,0,0,0.5
+1952-1953,31,1953-03-04,Middlesbrough,Aston Villa,1,0,1.0
+1952-1953,32,1953-03-07,Manchester Utd,Preston,5,2,1.0
+1952-1953,32,1953-03-07,Wolves,West Brom,2,0,1.0
+1952-1953,32,1953-03-07,Chelsea,Burnley,0,2,0.0
+1952-1953,32,1953-03-07,Derby County,Sheffield Weds,2,1,1.0
+1952-1953,32,1953-03-07,Bolton,Manchester City,1,0,1.0
+1952-1953,32,1953-03-07,Blackpool,Tottenham,2,0,1.0
+1952-1953,32,1953-03-07,Aston Villa,Liverpool,4,0,1.0
+1952-1953,32,1953-03-07,Portsmouth,Stoke City,1,1,0.5
+1952-1953,32,1953-03-07,Arsenal,Cardiff City,0,1,0.0
+1952-1953,32,1953-03-07,Sunderland,Middlesbrough,1,1,0.5
+1952-1953,32,1953-03-07,Charlton Ath,Newcastle Utd,0,0,0.5
+1952-1953,19,1953-03-11,Cardiff City,Bolton,1,0,1.0
+1952-1953,31,1953-03-12,Tottenham,Derby County,5,2,1.0
+1952-1953,33,1953-03-14,Cardiff City,Derby County,2,0,1.0
+1952-1953,33,1953-03-14,Manchester City,Aston Villa,4,1,1.0
+1952-1953,33,1953-03-14,Middlesbrough,Wolves,1,1,0.5
+1952-1953,33,1953-03-14,Tottenham,Chelsea,2,3,0.0
+1952-1953,33,1953-03-14,West Brom,Charlton Ath,3,1,1.0
+1952-1953,33,1953-03-14,Stoke City,Bolton,1,2,0.0
+1952-1953,33,1953-03-14,Liverpool,Sunderland,2,0,1.0
+1952-1953,33,1953-03-14,Preston,Portsmouth,4,0,1.0
+1952-1953,33,1953-03-14,Sheffield Weds,Blackpool,2,0,1.0
+1952-1953,33,1953-03-14,Newcastle Utd,Arsenal,2,2,0.5
+1952-1953,33,1953-03-14,Burnley,Manchester Utd,2,1,1.0
+1952-1953,24,1953-03-18,Charlton Ath,Aston Villa,5,1,1.0
+1952-1953,20,1953-03-19,Arsenal,Preston,1,1,0.5
+1952-1953,34,1953-03-21,Derby County,Newcastle Utd,0,2,0.0
+1952-1953,34,1953-03-21,Chelsea,Sheffield Weds,1,0,1.0
+1952-1953,34,1953-03-21,Charlton Ath,Middlesbrough,2,0,1.0
+1952-1953,34,1953-03-21,Sunderland,Manchester City,3,3,0.5
+1952-1953,34,1953-03-21,Wolves,Liverpool,3,0,1.0
+1952-1953,34,1953-03-21,Arsenal,West Brom,2,2,0.5
+1952-1953,34,1953-03-21,Portsmouth,Burnley,2,1,1.0
+1952-1953,20,1953-03-23,Chelsea,Liverpool,3,0,1.0
+1952-1953,34,1953-03-25,Aston Villa,Stoke City,1,1,0.5
+1952-1953,34,1953-03-25,Manchester Utd,Tottenham,3,2,1.0
+1952-1953,34,1953-03-25,Blackpool,Cardiff City,0,1,0.0
+1952-1953,34,1953-03-25,Bolton,Preston,0,3,0.0
+1952-1953,35,1953-03-28,Preston,Aston Villa,1,3,0.0
+1952-1953,35,1953-03-28,Manchester City,Wolves,3,1,1.0
+1952-1953,35,1953-03-28,Newcastle Utd,Blackpool,0,1,0.0
+1952-1953,35,1953-03-28,West Brom,Derby County,2,2,0.5
+1952-1953,35,1953-03-28,Middlesbrough,Arsenal,2,0,1.0
+1952-1953,35,1953-03-28,Stoke City,Sunderland,3,0,1.0
+1952-1953,35,1953-03-28,Cardiff City,Chelsea,3,3,0.5
+1952-1953,35,1953-03-28,Liverpool,Charlton Ath,1,2,0.0
+1952-1953,35,1953-03-28,Burnley,Bolton,0,1,0.0
+1952-1953,35,1953-03-28,Sheffield Weds,Manchester Utd,0,0,0.5
+1952-1953,35,1953-03-28,Tottenham,Portsmouth,3,3,0.5
+1952-1953,36,1953-04-03,Liverpool,Cardiff City,2,1,1.0
+1952-1953,36,1953-04-03,Bolton,Sunderland,5,0,1.0
+1952-1953,36,1953-04-03,Burnley,Preston,2,2,0.5
+1952-1953,36,1953-04-03,Tottenham,Stoke City,1,0,1.0
+1952-1953,36,1953-04-03,Chelsea,Arsenal,1,1,0.5
+1952-1953,36,1953-04-03,Newcastle Utd,Middlesbrough,1,0,1.0
+1952-1953,36,1953-04-03,Blackpool,Derby County,2,1,1.0
+1952-1953,36,1953-04-03,Manchester City,Sheffield Weds,3,1,1.0
+1952-1953,36,1953-04-03,Charlton Ath,Manchester Utd,2,2,0.5
+1952-1953,36,1953-04-03,Portsmouth,Wolves,2,2,0.5
+1952-1953,37,1953-04-04,Manchester Utd,Cardiff City,1,4,0.0
+1952-1953,37,1953-04-04,Bolton,Tottenham,2,3,0.0
+1952-1953,37,1953-04-04,Wolves,Stoke City,3,0,1.0
+1952-1953,37,1953-04-04,Charlton Ath,Manchester City,1,2,0.0
+1952-1953,37,1953-04-04,Arsenal,Liverpool,5,3,1.0
+1952-1953,37,1953-04-04,Blackpool,West Brom,2,0,1.0
+1952-1953,37,1953-04-04,Aston Villa,Burnley,2,0,1.0
+1952-1953,37,1953-04-04,Portsmouth,Sheffield Weds,5,2,1.0
+1952-1953,37,1953-04-04,Chelsea,Newcastle Utd,1,2,0.0
+1952-1953,37,1953-04-04,Derby County,Middlesbrough,3,3,0.5
+1952-1953,37,1953-04-04,Sunderland,Preston,2,2,0.5
+1952-1953,36,1953-04-06,West Brom,Aston Villa,3,2,1.0
+1952-1953,38,1953-04-06,Cardiff City,Liverpool,4,0,1.0
+1952-1953,38,1953-04-06,Wolves,Portsmouth,4,1,1.0
+1952-1953,38,1953-04-06,Stoke City,Tottenham,2,0,1.0
+1952-1953,38,1953-04-06,Preston,Burnley,2,1,1.0
+1952-1953,38,1953-04-06,Sunderland,Bolton,2,0,1.0
+1952-1953,38,1953-04-06,Middlesbrough,Newcastle Utd,2,1,1.0
+1952-1953,38,1953-04-06,Manchester Utd,Charlton Ath,3,2,1.0
+1952-1953,38,1953-04-06,Derby County,Blackpool,1,1,0.5
+1952-1953,38,1953-04-06,Sheffield Weds,Manchester City,1,1,0.5
+1952-1953,38,1953-04-06,Arsenal,Chelsea,2,0,1.0
+1952-1953,38,1953-04-07,Aston Villa,West Brom,1,1,0.5
+1952-1953,39,1953-04-11,West Brom,Chelsea,0,1,0.0
+1952-1953,39,1953-04-11,Manchester City,Arsenal,2,4,0.0
+1952-1953,39,1953-04-11,Newcastle Utd,Manchester Utd,1,2,0.0
+1952-1953,39,1953-04-11,Preston,Wolves,1,1,0.5
+1952-1953,39,1953-04-11,Middlesbrough,Blackpool,5,1,1.0
+1952-1953,39,1953-04-11,Liverpool,Derby County,1,1,0.5
+1952-1953,39,1953-04-11,Sheffield Weds,Bolton,1,1,0.5
+1952-1953,39,1953-04-11,Stoke City,Charlton Ath,1,0,1.0
+1952-1953,39,1953-04-11,Cardiff City,Portsmouth,0,1,0.0
+1952-1953,39,1953-04-11,Burnley,Sunderland,5,1,1.0
+1952-1953,39,1953-04-11,Tottenham,Aston Villa,1,1,0.5
+1952-1953,24,1953-04-15,Arsenal,Bolton,4,1,1.0
+1952-1953,42,1953-04-15,Blackpool,Stoke City,1,1,0.5
+1952-1953,40,1953-04-18,Derby County,Manchester City,5,0,1.0
+1952-1953,40,1953-04-18,Blackpool,Liverpool,3,1,1.0
+1952-1953,40,1953-04-18,Manchester Utd,West Brom,2,2,0.5
+1952-1953,40,1953-04-18,Aston Villa,Sheffield Weds,4,3,1.0
+1952-1953,40,1953-04-18,Bolton,Cardiff City,0,1,0.0
+1952-1953,40,1953-04-18,Chelsea,Middlesbrough,1,1,0.5
+1952-1953,40,1953-04-18,Wolves,Burnley,5,1,1.0
+1952-1953,40,1953-04-18,Sunderland,Tottenham,1,1,0.5
+1952-1953,40,1953-04-18,Charlton Ath,Preston,2,1,1.0
+1952-1953,40,1953-04-18,Arsenal,Stoke City,3,1,1.0
+1952-1953,40,1953-04-18,Portsmouth,Newcastle Utd,5,1,1.0
+1952-1953,42,1953-04-20,Manchester Utd,Liverpool,3,1,1.0
+1952-1953,13,1953-04-22,Cardiff City,Arsenal,0,0,0.5
+1952-1953,20,1953-04-22,Charlton Ath,Burnley,0,0,0.5
+1952-1953,24,1953-04-22,Manchester City,Preston,0,2,0.0
+1952-1953,42,1953-04-22,Bolton,West Brom,0,1,0.0
+1952-1953,41,1953-04-25,Liverpool,Chelsea,2,0,1.0
+1952-1953,41,1953-04-25,Cardiff City,Aston Villa,1,2,0.0
+1952-1953,41,1953-04-25,Manchester City,Blackpool,5,0,1.0
+1952-1953,41,1953-04-25,Middlesbrough,Manchester Utd,5,0,1.0
+1952-1953,41,1953-04-25,West Brom,Portsmouth,2,0,1.0
+1952-1953,41,1953-04-25,Sheffield Weds,Sunderland,4,0,1.0
+1952-1953,41,1953-04-25,Tottenham,Wolves,3,2,1.0
+1952-1953,41,1953-04-25,Stoke City,Derby County,1,2,0.0
+1952-1953,41,1953-04-25,Burnley,Charlton Ath,2,0,1.0
+1952-1953,41,1953-04-25,Newcastle Utd,Bolton,2,3,0.0
+1952-1953,41,1953-04-25,Preston,Arsenal,2,0,1.0
+1952-1953,42,1953-04-27,Sunderland,Cardiff City,4,2,1.0
+1952-1953,20,1953-04-29,Aston Villa,Cardiff City,2,0,1.0
+1952-1953,42,1953-04-29,Derby County,Preston,0,1,0.0
+1952-1953,42,1953-04-29,Chelsea,Manchester City,3,1,1.0
+1952-1953,42,1953-04-30,Charlton Ath,Tottenham,3,2,1.0
+1952-1953,42,1953-05-01,Aston Villa,Newcastle Utd,0,1,0.0
+1952-1953,42,1953-05-01,Arsenal,Burnley,3,2,1.0
+1952-1953,42,1953-05-02,Portsmouth,Middlesbrough,1,4,0.0

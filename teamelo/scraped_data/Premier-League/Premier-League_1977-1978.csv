@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1977-1978,1,1977-08-20,Manchester City,Leicester City,0,0,0.5
+1977-1978,1,1977-08-20,West Brom,Chelsea,3,0,1.0
+1977-1978,1,1977-08-20,Everton,Nott'ham Forest,1,3,0.0
+1977-1978,1,1977-08-20,Ipswich Town,Arsenal,1,0,1.0
+1977-1978,1,1977-08-20,Birmingham City,Manchester Utd,1,4,0.0
+1977-1978,1,1977-08-20,QPR,Aston Villa,1,2,0.0
+1977-1978,1,1977-08-20,Bristol City,Wolves,2,3,0.0
+1977-1978,1,1977-08-20,Middlesbrough,Liverpool,1,1,0.5
+1977-1978,1,1977-08-20,West Ham,Norwich City,1,3,0.0
+1977-1978,1,1977-08-20,Coventry City,Derby County,3,1,1.0
+1977-1978,1,1977-08-20,Newcastle Utd,Leeds United,3,2,1.0
+1977-1978,2,1977-08-23,Wolves,QPR,1,0,1.0
+1977-1978,2,1977-08-23,Arsenal,Everton,1,0,1.0
+1977-1978,2,1977-08-23,Nott'ham Forest,Bristol City,1,0,1.0
+1977-1978,2,1977-08-23,Liverpool,Newcastle Utd,2,0,1.0
+1977-1978,2,1977-08-24,Leicester City,West Ham,1,0,1.0
+1977-1978,2,1977-08-24,Leeds United,West Brom,2,2,0.5
+1977-1978,2,1977-08-24,Chelsea,Birmingham City,2,0,1.0
+1977-1978,2,1977-08-24,Norwich City,Middlesbrough,1,1,0.5
+1977-1978,2,1977-08-24,Manchester Utd,Coventry City,2,1,1.0
+1977-1978,2,1977-08-24,Aston Villa,Manchester City,1,4,0.0
+1977-1978,2,1977-08-24,Derby County,Ipswich Town,0,0,0.5
+1977-1978,3,1977-08-27,Chelsea,Coventry City,1,2,0.0
+1977-1978,3,1977-08-27,Wolves,Arsenal,1,1,0.5
+1977-1978,3,1977-08-27,Manchester Utd,Ipswich Town,0,0,0.5
+1977-1978,3,1977-08-27,Liverpool,West Brom,3,0,1.0
+1977-1978,3,1977-08-27,Leeds United,Birmingham City,1,0,1.0
+1977-1978,3,1977-08-27,Norwich City,QPR,1,1,0.5
+1977-1978,3,1977-08-27,Nott'ham Forest,Derby County,3,0,1.0
+1977-1978,3,1977-08-27,Middlesbrough,Newcastle Utd,2,0,1.0
+1977-1978,3,1977-08-27,West Ham,Manchester City,0,1,0.0
+1977-1978,3,1977-08-27,Leicester City,Bristol City,0,0,0.5
+1977-1978,3,1977-08-27,Aston Villa,Everton,1,2,0.0
+1977-1978,4,1977-09-03,West Brom,Middlesbrough,2,1,1.0
+1977-1978,4,1977-09-03,Birmingham City,Liverpool,0,1,0.0
+1977-1978,4,1977-09-03,Newcastle Utd,West Ham,2,3,0.0
+1977-1978,4,1977-09-03,Manchester City,Norwich City,4,0,1.0
+1977-1978,4,1977-09-03,Derby County,Manchester Utd,0,1,0.0
+1977-1978,4,1977-09-03,QPR,Leicester City,3,0,1.0
+1977-1978,4,1977-09-03,Ipswich Town,Chelsea,1,0,1.0
+1977-1978,4,1977-09-03,Arsenal,Nott'ham Forest,3,0,1.0
+1977-1978,4,1977-09-03,Everton,Wolves,0,0,0.5
+1977-1978,4,1977-09-03,Bristol City,Aston Villa,1,1,0.5
+1977-1978,4,1977-09-03,Coventry City,Leeds United,2,2,0.5
+1977-1978,5,1977-09-10,Liverpool,Coventry City,2,0,1.0
+1977-1978,5,1977-09-10,Newcastle Utd,West Brom,0,3,0.0
+1977-1978,5,1977-09-10,Aston Villa,Arsenal,1,0,1.0
+1977-1978,5,1977-09-10,West Ham,QPR,2,2,0.5
+1977-1978,5,1977-09-10,Manchester City,Manchester Utd,3,1,1.0
+1977-1978,5,1977-09-10,Chelsea,Derby County,1,1,0.5
+1977-1978,5,1977-09-10,Leicester City,Everton,1,5,0.0
+1977-1978,5,1977-09-10,Norwich City,Bristol City,1,0,1.0
+1977-1978,5,1977-09-10,Wolves,Nott'ham Forest,2,3,0.0
+1977-1978,5,1977-09-10,Middlesbrough,Birmingham City,1,2,0.0
+1977-1978,5,1977-09-10,Leeds United,Ipswich Town,2,1,1.0
+1977-1978,6,1977-09-17,Derby County,Leeds United,2,2,0.5
+1977-1978,6,1977-09-17,Everton,Norwich City,3,0,1.0
+1977-1978,6,1977-09-17,Coventry City,Middlesbrough,2,1,1.0
+1977-1978,6,1977-09-17,Nott'ham Forest,Aston Villa,2,0,1.0
+1977-1978,6,1977-09-17,Manchester Utd,Chelsea,0,1,0.0
+1977-1978,6,1977-09-17,Birmingham City,Newcastle Utd,3,0,1.0
+1977-1978,6,1977-09-17,Ipswich Town,Liverpool,1,1,0.5
+1977-1978,6,1977-09-17,Bristol City,West Ham,3,2,1.0
+1977-1978,6,1977-09-17,QPR,Manchester City,1,1,0.5
+1977-1978,6,1977-09-17,West Brom,Wolves,2,2,0.5
+1977-1978,6,1977-09-17,Arsenal,Leicester City,2,1,1.0
+1977-1978,7,1977-09-23,Aston Villa,Wolves,2,0,1.0
+1977-1978,7,1977-09-24,Leeds United,Manchester Utd,1,1,0.5
+1977-1978,7,1977-09-24,QPR,Chelsea,1,1,0.5
+1977-1978,7,1977-09-24,West Ham,Everton,1,1,0.5
+1977-1978,7,1977-09-24,Norwich City,Arsenal,1,0,1.0
+1977-1978,7,1977-09-24,Leicester City,Nott'ham Forest,0,3,0.0
+1977-1978,7,1977-09-24,Liverpool,Derby County,1,0,1.0
+1977-1978,7,1977-09-24,West Brom,Birmingham City,3,1,1.0
+1977-1978,7,1977-09-24,Middlesbrough,Ipswich Town,1,1,0.5
+1977-1978,7,1977-09-24,Newcastle Utd,Coventry City,1,2,0.0
+1977-1978,7,1977-09-24,Manchester City,Bristol City,2,0,1.0
+1977-1978,8,1977-10-01,Nott'ham Forest,Norwich City,1,1,0.5
+1977-1978,8,1977-10-01,Chelsea,Leeds United,1,2,0.0
+1977-1978,8,1977-10-01,Everton,Manchester City,1,1,0.5
+1977-1978,8,1977-10-01,Derby County,Middlesbrough,4,1,1.0
+1977-1978,8,1977-10-01,Ipswich Town,Newcastle Utd,2,1,1.0
+1977-1978,8,1977-10-01,Manchester Utd,Liverpool,2,0,1.0
+1977-1978,8,1977-10-01,Aston Villa,Birmingham City,0,1,0.0
+1977-1978,8,1977-10-01,Coventry City,West Brom,1,2,0.0
+1977-1978,8,1977-10-01,Arsenal,West Ham,3,0,1.0
+1977-1978,8,1977-10-01,Wolves,Leicester City,3,0,1.0
+1977-1978,8,1977-10-01,Bristol City,QPR,2,2,0.5
+1977-1978,9,1977-10-03,West Ham,Middlesbrough,0,2,0.0
+1977-1978,9,1977-10-04,Wolves,Derby County,1,2,0.0
+1977-1978,9,1977-10-04,Nott'ham Forest,Ipswich Town,4,0,1.0
+1977-1978,9,1977-10-04,Arsenal,Liverpool,0,0,0.5
+1977-1978,9,1977-10-04,Everton,West Brom,3,1,1.0
+1977-1978,9,1977-10-04,Coventry City,Manchester City,4,2,1.0
+1977-1978,9,1977-10-04,Birmingham City,QPR,2,1,1.0
+1977-1978,9,1977-10-05,Norwich City,Newcastle Utd,2,1,1.0
+1977-1978,9,1977-10-05,Leeds United,Aston Villa,1,1,0.5
+1977-1978,9,1977-10-05,Chelsea,Leicester City,0,0,0.5
+1977-1978,10,1977-10-08,Middlesbrough,Manchester Utd,2,1,1.0
+1977-1978,10,1977-10-08,QPR,Everton,1,5,0.0
+1977-1978,10,1977-10-08,West Ham,Nott'ham Forest,0,0,0.5
+1977-1978,10,1977-10-08,Birmingham City,Coventry City,1,1,0.5
+1977-1978,10,1977-10-08,Manchester City,Arsenal,2,1,1.0
+1977-1978,10,1977-10-08,Bristol City,Leeds United,3,2,1.0
+1977-1978,10,1977-10-08,Newcastle Utd,Derby County,1,2,0.0
+1977-1978,10,1977-10-08,Leicester City,Aston Villa,0,2,0.0
+1977-1978,10,1977-10-08,West Brom,Ipswich Town,1,0,1.0
+1977-1978,10,1977-10-08,Liverpool,Chelsea,2,0,1.0
+1977-1978,10,1977-10-08,Norwich City,Wolves,2,1,1.0
+1977-1978,11,1977-10-15,Wolves,West Ham,2,2,0.5
+1977-1978,11,1977-10-15,Everton,Bristol City,1,0,1.0
+1977-1978,11,1977-10-15,Manchester Utd,Newcastle Utd,3,2,1.0
+1977-1978,11,1977-10-15,Chelsea,Middlesbrough,0,0,0.5
+1977-1978,11,1977-10-15,Derby County,West Brom,1,1,0.5
+1977-1978,11,1977-10-15,Ipswich Town,Birmingham City,5,2,1.0
+1977-1978,11,1977-10-15,Arsenal,QPR,1,0,1.0
+1977-1978,11,1977-10-15,Leicester City,Coventry City,1,2,0.0
+1977-1978,11,1977-10-15,Nott'ham Forest,Manchester City,2,1,1.0
+1977-1978,11,1977-10-15,Aston Villa,Norwich City,3,0,1.0
+1977-1978,11,1977-10-15,Leeds United,Liverpool,1,2,0.0
+1977-1978,12,1977-10-22,Bristol City,Arsenal,0,2,0.0
+1977-1978,12,1977-10-22,Middlesbrough,Leeds United,2,1,1.0
+1977-1978,12,1977-10-22,Coventry City,Ipswich Town,1,1,0.5
+1977-1978,12,1977-10-22,Liverpool,Everton,0,0,0.5
+1977-1978,12,1977-10-22,West Brom,Manchester Utd,4,0,1.0
+1977-1978,12,1977-10-22,West Ham,Aston Villa,2,2,0.5
+1977-1978,12,1977-10-22,Birmingham City,Derby County,3,1,1.0
+1977-1978,12,1977-10-22,QPR,Nott'ham Forest,0,2,0.0
+1977-1978,12,1977-10-22,Norwich City,Leicester City,2,0,1.0
+1977-1978,12,1977-10-22,Manchester City,Wolves,0,2,0.0
+1977-1978,12,1977-10-22,Newcastle Utd,Chelsea,1,0,1.0
+1977-1978,13,1977-10-29,Leicester City,Leeds United,0,0,0.5
+1977-1978,13,1977-10-29,Wolves,Coventry City,1,3,0.0
+1977-1978,13,1977-10-29,Aston Villa,Manchester Utd,2,1,1.0
+1977-1978,13,1977-10-29,Nott'ham Forest,Middlesbrough,4,0,1.0
+1977-1978,13,1977-10-29,Everton,Newcastle Utd,4,4,0.5
+1977-1978,13,1977-10-29,Arsenal,Birmingham City,1,1,0.5
+1977-1978,13,1977-10-29,Ipswich Town,West Ham,0,2,0.0
+1977-1978,13,1977-10-29,Manchester City,Liverpool,3,1,1.0
+1977-1978,13,1977-10-29,Derby County,Norwich City,2,2,0.5
+1977-1978,13,1977-10-29,QPR,West Brom,2,1,1.0
+1977-1978,13,1977-10-29,Chelsea,Bristol City,1,0,1.0
+1977-1978,14,1977-11-05,Manchester Utd,Arsenal,1,2,0.0
+1977-1978,14,1977-11-05,Birmingham City,Wolves,2,1,1.0
+1977-1978,14,1977-11-05,Middlesbrough,QPR,1,1,0.5
+1977-1978,14,1977-11-05,Liverpool,Aston Villa,1,2,0.0
+1977-1978,14,1977-11-05,Chelsea,Nott'ham Forest,1,0,1.0
+1977-1978,14,1977-11-05,West Brom,Leicester City,2,0,1.0
+1977-1978,14,1977-11-05,Newcastle Utd,Bristol City,1,1,0.5
+1977-1978,14,1977-11-05,Ipswich Town,Manchester City,1,0,1.0
+1977-1978,14,1977-11-05,Coventry City,West Ham,1,0,1.0
+1977-1978,14,1977-11-05,Derby County,Everton,0,1,0.0
+1977-1978,14,1977-11-05,Leeds United,Norwich City,2,2,0.5
+1977-1978,15,1977-11-12,Wolves,Newcastle Utd,1,0,1.0
+1977-1978,15,1977-11-12,Norwich City,Chelsea,0,0,0.5
+1977-1978,15,1977-11-12,Aston Villa,Middlesbrough,0,1,0.0
+1977-1978,15,1977-11-12,Bristol City,Derby County,3,1,1.0
+1977-1978,15,1977-11-12,Leicester City,Ipswich Town,2,1,1.0
+1977-1978,15,1977-11-12,Nott'ham Forest,Manchester Utd,2,1,1.0
+1977-1978,15,1977-11-12,Arsenal,Coventry City,1,1,0.5
+1977-1978,15,1977-11-12,Manchester City,Leeds United,2,3,0.0
+1977-1978,15,1977-11-12,QPR,Liverpool,2,0,1.0
+1977-1978,15,1977-11-12,West Ham,West Brom,3,3,0.5
+1977-1978,15,1977-11-12,Everton,Birmingham City,2,1,1.0
+1977-1978,16,1977-11-19,Chelsea,Aston Villa,0,0,0.5
+1977-1978,16,1977-11-19,Birmingham City,Leicester City,1,1,0.5
+1977-1978,16,1977-11-19,Manchester Utd,Norwich City,1,0,1.0
+1977-1978,16,1977-11-19,West Brom,Manchester City,0,0,0.5
+1977-1978,16,1977-11-19,Newcastle Utd,Arsenal,1,2,0.0
+1977-1978,16,1977-11-19,Liverpool,Bristol City,1,1,0.5
+1977-1978,16,1977-11-19,Coventry City,QPR,4,1,1.0
+1977-1978,16,1977-11-19,Ipswich Town,Everton,3,3,0.5
+1977-1978,16,1977-11-19,Middlesbrough,Wolves,0,0,0.5
+1977-1978,16,1977-11-19,Leeds United,Nott'ham Forest,1,0,1.0
+1977-1978,16,1977-11-19,Derby County,West Ham,2,1,1.0
+1977-1978,17,1977-11-26,Everton,Coventry City,6,0,1.0
+1977-1978,17,1977-11-26,Wolves,Ipswich Town,0,0,0.5
+1977-1978,17,1977-11-26,Bristol City,Middlesbrough,4,1,1.0
+1977-1978,17,1977-11-26,Norwich City,Birmingham City,1,0,1.0
+1977-1978,17,1977-11-26,Manchester City,Chelsea,6,2,1.0
+1977-1978,17,1977-11-26,Nott'ham Forest,West Brom,0,0,0.5
+1977-1978,17,1977-11-26,QPR,Manchester Utd,2,2,0.5
+1977-1978,17,1977-11-26,Arsenal,Derby County,1,3,0.0
+1977-1978,17,1977-11-26,Leicester City,Liverpool,0,4,0.0
+1977-1978,17,1977-11-26,West Ham,Leeds United,0,1,0.0
+1977-1978,18,1977-12-03,Leeds United,QPR,3,0,1.0
+1977-1978,18,1977-12-03,West Brom,Norwich City,0,0,0.5
+1977-1978,18,1977-12-03,Derby County,Manchester City,2,1,1.0
+1977-1978,18,1977-12-03,Chelsea,Everton,0,1,0.0
+1977-1978,18,1977-12-03,Coventry City,Bristol City,1,1,0.5
+1977-1978,18,1977-12-03,Manchester Utd,Wolves,3,1,1.0
+1977-1978,18,1977-12-03,Birmingham City,Nott'ham Forest,0,2,0.0
+1977-1978,18,1977-12-03,Middlesbrough,Arsenal,0,1,0.0
+1977-1978,18,1977-12-03,Liverpool,West Ham,2,0,1.0
+1977-1978,18,1977-12-03,Ipswich Town,Aston Villa,2,0,1.0
+1977-1978,18,1977-12-03,Newcastle Utd,Leicester City,2,0,1.0
+1977-1978,19,1977-12-10,Wolves,Chelsea,1,3,0.0
+1977-1978,19,1977-12-10,Nott'ham Forest,Coventry City,2,1,1.0
+1977-1978,19,1977-12-10,QPR,Newcastle Utd,0,1,0.0
+1977-1978,19,1977-12-10,Leicester City,Derby County,1,1,0.5
+1977-1978,19,1977-12-10,Bristol City,Ipswich Town,2,0,1.0
+1977-1978,19,1977-12-10,Manchester City,Birmingham City,3,0,1.0
+1977-1978,19,1977-12-10,Aston Villa,West Brom,3,0,1.0
+1977-1978,19,1977-12-10,Arsenal,Leeds United,1,1,0.5
+1977-1978,19,1977-12-10,West Ham,Manchester Utd,2,1,1.0
+1977-1978,19,1977-12-10,Norwich City,Liverpool,2,1,1.0
+1977-1978,19,1977-12-10,Everton,Middlesbrough,3,0,1.0
+1977-1978,20,1977-12-17,West Brom,West Ham,1,0,1.0
+1977-1978,20,1977-12-17,Leeds United,Manchester City,2,0,1.0
+1977-1978,20,1977-12-17,Manchester Utd,Nott'ham Forest,0,4,0.0
+1977-1978,20,1977-12-17,Coventry City,Arsenal,1,2,0.0
+1977-1978,20,1977-12-17,Middlesbrough,Aston Villa,1,0,1.0
+1977-1978,20,1977-12-17,Ipswich Town,Leicester City,1,0,1.0
+1977-1978,20,1977-12-17,Liverpool,QPR,1,0,1.0
+1977-1978,20,1977-12-17,Newcastle Utd,Wolves,4,0,1.0
+1977-1978,20,1977-12-17,Birmingham City,Everton,0,0,0.5
+1977-1978,20,1977-12-17,Chelsea,Norwich City,1,1,0.5
+1977-1978,20,1977-12-17,Derby County,Bristol City,1,0,1.0
+1977-1978,21,1977-12-26,Leicester City,Middlesbrough,0,0,0.5
+1977-1978,21,1977-12-26,West Ham,Birmingham City,1,0,1.0
+1977-1978,21,1977-12-26,Everton,Manchester Utd,2,6,0.0
+1977-1978,21,1977-12-26,Wolves,Leeds United,3,1,1.0
+1977-1978,21,1977-12-26,Nott'ham Forest,Liverpool,1,1,0.5
+1977-1978,21,1977-12-26,Bristol City,West Brom,3,1,1.0
+1977-1978,21,1977-12-26,QPR,Derby County,0,0,0.5
+1977-1978,21,1977-12-26,Manchester City,Newcastle Utd,4,0,1.0
+1977-1978,21,1977-12-26,Aston Villa,Coventry City,1,1,0.5
+1977-1978,21,1977-12-26,Norwich City,Ipswich Town,1,0,1.0
+1977-1978,21,1977-12-26,Arsenal,Chelsea,3,0,1.0
+1977-1978,22,1977-12-27,Leeds United,Everton,3,1,1.0
+1977-1978,22,1977-12-27,Liverpool,Wolves,1,0,1.0
+1977-1978,22,1977-12-27,Chelsea,West Ham,2,1,1.0
+1977-1978,22,1977-12-27,Coventry City,Norwich City,5,4,1.0
+1977-1978,22,1977-12-27,Manchester Utd,Leicester City,3,1,1.0
+1977-1978,22,1977-12-27,Birmingham City,Bristol City,3,0,1.0
+1977-1978,22,1977-12-27,West Brom,Arsenal,1,3,0.0
+1977-1978,22,1977-12-27,Derby County,Aston Villa,0,3,0.0
+1977-1978,22,1977-12-27,Ipswich Town,QPR,3,2,1.0
+1977-1978,22,1977-12-27,Middlesbrough,Manchester City,0,2,0.0
+1977-1978,22,1977-12-28,Newcastle Utd,Nott'ham Forest,0,2,0.0
+1977-1978,23,1977-12-31,Bristol City,Nott'ham Forest,1,3,0.0
+1977-1978,23,1977-12-31,Ipswich Town,Derby County,1,2,0.0
+1977-1978,23,1977-12-31,West Ham,Leicester City,3,2,1.0
+1977-1978,23,1977-12-31,West Brom,Leeds United,1,0,1.0
+1977-1978,23,1977-12-31,Middlesbrough,Norwich City,2,2,0.5
+1977-1978,23,1977-12-31,QPR,Wolves,1,3,0.0
+1977-1978,23,1977-12-31,Birmingham City,Chelsea,4,5,0.0
+1977-1978,23,1977-12-31,Newcastle Utd,Liverpool,0,2,0.0
+1977-1978,23,1977-12-31,Manchester City,Aston Villa,2,0,1.0
+1977-1978,23,1977-12-31,Coventry City,Manchester Utd,3,0,1.0
+1977-1978,23,1977-12-31,Everton,Arsenal,2,0,1.0
+1977-1978,24,1978-01-02,Nott'ham Forest,Everton,1,1,0.5
+1977-1978,24,1978-01-02,Arsenal,Ipswich Town,1,0,1.0
+1977-1978,24,1978-01-02,Derby County,Coventry City,4,2,1.0
+1977-1978,24,1978-01-02,Leicester City,Manchester City,0,1,0.0
+1977-1978,24,1978-01-02,Wolves,Bristol City,0,0,0.5
+1977-1978,24,1978-01-02,Aston Villa,QPR,1,1,0.5
+1977-1978,24,1978-01-02,Leeds United,Newcastle Utd,0,2,0.0
+1977-1978,24,1978-01-02,Norwich City,West Ham,2,2,0.5
+1977-1978,24,1978-01-02,Manchester Utd,Birmingham City,1,2,0.0
+1977-1978,24,1978-01-02,Chelsea,West Brom,2,2,0.5
+1977-1978,24,1978-01-02,Liverpool,Middlesbrough,2,0,1.0
+1977-1978,25,1978-01-14,Ipswich Town,Manchester Utd,1,2,0.0
+1977-1978,25,1978-01-14,QPR,Norwich City,2,1,1.0
+1977-1978,25,1978-01-14,Birmingham City,Leeds United,2,3,0.0
+1977-1978,25,1978-01-14,Arsenal,Wolves,3,1,1.0
+1977-1978,25,1978-01-14,Manchester City,West Ham,3,2,1.0
+1977-1978,25,1978-01-14,Everton,Aston Villa,1,0,1.0
+1977-1978,25,1978-01-14,Bristol City,Leicester City,0,0,0.5
+1977-1978,25,1978-01-14,Coventry City,Chelsea,5,1,1.0
+1977-1978,25,1978-01-14,Derby County,Nott'ham Forest,0,0,0.5
+1977-1978,25,1978-01-14,West Brom,Liverpool,0,1,0.0
+1977-1978,25,1978-01-14,Newcastle Utd,Middlesbrough,2,4,0.0
+1977-1978,26,1978-01-21,Leicester City,QPR,0,0,0.5
+1977-1978,26,1978-01-21,Nott'ham Forest,Arsenal,2,0,1.0
+1977-1978,26,1978-01-21,Middlesbrough,West Brom,1,0,1.0
+1977-1978,26,1978-01-21,Wolves,Everton,3,1,1.0
+1977-1978,26,1978-01-21,Manchester Utd,Derby County,4,0,1.0
+1977-1978,26,1978-01-21,Chelsea,Ipswich Town,5,3,1.0
+1977-1978,26,1978-01-21,West Ham,Newcastle Utd,1,0,1.0
+1977-1978,26,1978-01-21,Liverpool,Birmingham City,2,3,0.0
+1977-1978,26,1978-01-21,Norwich City,Manchester City,1,3,0.0
+1977-1978,26,1978-01-21,Leeds United,Coventry City,2,0,1.0
+1977-1978,26,1978-01-28,Aston Villa,Bristol City,1,0,1.0
+1977-1978,9,1978-02-08,Manchester Utd,Bristol City,1,1,0.5
+1977-1978,28,1978-02-11,Chelsea,Manchester Utd,2,2,0.5
+1977-1978,28,1978-02-11,West Ham,Bristol City,1,2,0.0
+1977-1978,28,1978-02-11,Leicester City,Arsenal,1,1,0.5
+1977-1978,28,1978-02-11,Manchester City,QPR,2,1,1.0
+1977-1978,29,1978-02-17,Bristol City,Manchester City,2,2,0.5
+1977-1978,29,1978-02-18,Everton,West Ham,2,1,1.0
+1977-1978,30,1978-02-25,West Brom,Coventry City,3,3,0.5
+1977-1978,30,1978-02-25,Birmingham City,Aston Villa,1,0,1.0
+1977-1978,30,1978-02-25,Norwich City,Nott'ham Forest,3,3,0.5
+1977-1978,30,1978-02-25,Middlesbrough,Derby County,3,1,1.0
+1977-1978,30,1978-02-25,QPR,Bristol City,2,2,0.5
+1977-1978,30,1978-02-25,Leicester City,Wolves,1,0,1.0
+1977-1978,30,1978-02-25,Manchester City,Everton,1,0,1.0
+1977-1978,30,1978-02-25,Liverpool,Manchester Utd,3,1,1.0
+1977-1978,30,1978-02-25,Leeds United,Chelsea,2,0,1.0
+1977-1978,30,1978-02-25,West Ham,Arsenal,2,2,0.5
+1977-1978,30,1978-02-25,Newcastle Utd,Ipswich Town,0,1,0.0
+1977-1978,29,1978-02-28,Arsenal,Norwich City,0,0,0.5
+1977-1978,29,1978-02-28,Birmingham City,West Brom,1,2,0.0
+1977-1978,29,1978-03-01,Manchester Utd,Leeds United,0,1,0.0
+1977-1978,31,1978-03-04,Wolves,Norwich City,3,3,0.5
+1977-1978,31,1978-03-04,Chelsea,Liverpool,3,1,1.0
+1977-1978,31,1978-03-04,Leeds United,Bristol City,0,2,0.0
+1977-1978,31,1978-03-04,Everton,QPR,3,3,0.5
+1977-1978,31,1978-03-04,Coventry City,Birmingham City,4,0,1.0
+1977-1978,31,1978-03-04,Ipswich Town,West Brom,2,2,0.5
+1977-1978,31,1978-03-04,Derby County,Newcastle Utd,1,1,0.5
+1977-1978,31,1978-03-04,Arsenal,Manchester City,3,0,1.0
+1977-1978,31,1978-03-04,Manchester Utd,Middlesbrough,0,0,0.5
+1977-1978,31,1978-03-04,Nott'ham Forest,West Ham,2,0,1.0
+1977-1978,31,1978-03-04,Aston Villa,Leicester City,0,0,0.5
+1977-1978,29,1978-03-08,Derby County,Liverpool,4,2,1.0
+1977-1978,27,1978-03-11,Derby County,Chelsea,1,1,0.5
+1977-1978,32,1978-03-11,Bristol City,Everton,0,1,0.0
+1977-1978,32,1978-03-11,Newcastle Utd,Manchester Utd,2,2,0.5
+1977-1978,32,1978-03-11,Coventry City,Leicester City,1,0,1.0
+1977-1978,32,1978-03-11,Liverpool,Leeds United,1,0,1.0
+1977-1978,32,1978-03-11,Norwich City,Aston Villa,2,1,1.0
+1977-1978,32,1978-03-11,West Ham,Wolves,1,2,0.0
+1977-1978,27,1978-03-14,QPR,West Ham,1,0,1.0
+1977-1978,28,1978-03-14,Wolves,West Brom,1,1,0.5
+1977-1978,29,1978-03-14,Nott'ham Forest,Leicester City,1,0,1.0
+1977-1978,27,1978-03-15,Manchester Utd,Manchester City,2,2,0.5
+1977-1978,28,1978-03-15,Norwich City,Everton,0,0,0.5
+1977-1978,28,1978-03-15,Newcastle Utd,Birmingham City,1,1,0.5
+1977-1978,33,1978-03-18,Derby County,Birmingham City,1,3,0.0
+1977-1978,33,1978-03-18,Arsenal,Bristol City,4,1,1.0
+1977-1978,33,1978-03-18,Manchester Utd,West Brom,1,1,0.5
+1977-1978,33,1978-03-18,Chelsea,Newcastle Utd,2,2,0.5
+1977-1978,33,1978-03-18,Leicester City,Norwich City,2,2,0.5
+1977-1978,33,1978-03-18,Leeds United,Middlesbrough,5,0,1.0
+1977-1978,33,1978-03-18,Wolves,Manchester City,1,1,0.5
+1977-1978,33,1978-03-18,Aston Villa,West Ham,4,1,1.0
+1977-1978,33,1978-03-18,Ipswich Town,Coventry City,1,1,0.5
+1977-1978,29,1978-03-21,Ipswich Town,Middlesbrough,1,1,0.5
+1977-1978,35,1978-03-21,Coventry City,Aston Villa,2,3,0.0
+1977-1978,36,1978-03-21,Bristol City,Chelsea,3,0,1.0
+1977-1978,36,1978-03-21,Birmingham City,Arsenal,1,1,0.5
+1977-1978,36,1978-03-22,West Brom,QPR,2,0,1.0
+1977-1978,36,1978-03-24,West Ham,Ipswich Town,3,0,1.0
+1977-1978,36,1978-03-24,Newcastle Utd,Everton,0,2,0.0
+1977-1978,34,1978-03-25,Everton,Leeds United,2,0,1.0
+1977-1978,34,1978-03-25,Wolves,Liverpool,1,3,0.0
+1977-1978,34,1978-03-25,Leicester City,Manchester Utd,2,3,0.0
+1977-1978,34,1978-03-25,Aston Villa,Derby County,0,0,0.5
+1977-1978,34,1978-03-25,Arsenal,West Brom,4,0,1.0
+1977-1978,34,1978-03-25,Norwich City,Coventry City,1,2,0.0
+1977-1978,34,1978-03-25,QPR,Ipswich Town,3,3,0.5
+1977-1978,34,1978-03-25,Bristol City,Birmingham City,0,1,0.0
+1977-1978,34,1978-03-25,West Ham,Chelsea,3,1,1.0
+1977-1978,34,1978-03-25,Nott'ham Forest,Newcastle Utd,2,0,1.0
+1977-1978,34,1978-03-25,Manchester City,Middlesbrough,2,2,0.5
+1977-1978,35,1978-03-27,Ipswich Town,Norwich City,4,0,1.0
+1977-1978,35,1978-03-27,Derby County,QPR,2,0,1.0
+1977-1978,35,1978-03-27,West Brom,Bristol City,2,1,1.0
+1977-1978,35,1978-03-27,Leeds United,Wolves,2,1,1.0
+1977-1978,35,1978-03-27,Manchester Utd,Everton,1,2,0.0
+1977-1978,35,1978-03-27,Middlesbrough,Leicester City,0,1,0.0
+1977-1978,35,1978-03-27,Chelsea,Arsenal,0,0,0.5
+1977-1978,35,1978-03-28,Birmingham City,West Ham,3,0,1.0
+1977-1978,36,1978-03-28,Leeds United,Leicester City,5,1,1.0
+1977-1978,36,1978-03-28,Coventry City,Wolves,4,0,1.0
+1977-1978,35,1978-03-29,Newcastle Utd,Manchester City,2,2,0.5
+1977-1978,36,1978-03-29,Norwich City,Derby County,0,0,0.5
+1977-1978,36,1978-03-29,Manchester Utd,Aston Villa,1,1,0.5
+1977-1978,36,1978-03-29,Middlesbrough,Nott'ham Forest,2,2,0.5
+1977-1978,37,1978-04-01,Manchester City,Ipswich Town,2,1,1.0
+1977-1978,37,1978-04-01,Wolves,Birmingham City,0,1,0.0
+1977-1978,37,1978-04-01,Arsenal,Manchester Utd,3,1,1.0
+1977-1978,37,1978-04-01,Nott'ham Forest,Chelsea,3,1,1.0
+1977-1978,37,1978-04-01,Norwich City,Leeds United,3,0,1.0
+1977-1978,37,1978-04-01,Aston Villa,Liverpool,0,3,0.0
+1977-1978,37,1978-04-01,Everton,Derby County,2,1,1.0
+1977-1978,37,1978-04-01,QPR,Middlesbrough,1,0,1.0
+1977-1978,37,1978-04-01,Leicester City,West Brom,0,1,0.0
+1977-1978,37,1978-04-01,West Ham,Coventry City,2,1,1.0
+1977-1978,37,1978-04-01,Bristol City,Newcastle Utd,3,1,1.0
+1977-1978,27,1978-04-02,Bristol City,Norwich City,3,0,1.0
+1977-1978,27,1978-04-02,Birmingham City,Middlesbrough,1,2,0.0
+1977-1978,27,1978-04-02,Arsenal,Aston Villa,0,1,0.0
+1977-1978,27,1978-04-02,Everton,Leicester City,2,0,1.0
+1977-1978,27,1978-04-02,Nott'ham Forest,Wolves,2,0,1.0
+1977-1978,27,1978-04-02,Coventry City,Liverpool,1,0,1.0
+1977-1978,27,1978-04-02,Ipswich Town,Leeds United,0,1,0.0
+1977-1978,29,1978-04-04,Coventry City,Newcastle Utd,0,0,0.5
+1977-1978,32,1978-04-04,Middlesbrough,Chelsea,2,0,1.0
+1977-1978,28,1978-04-05,Aston Villa,Nott'ham Forest,0,1,0.0
+1977-1978,33,1978-04-05,Everton,Liverpool,0,1,0.0
+1977-1978,35,1978-04-05,Liverpool,Nott'ham Forest,0,0,0.5
+1977-1978,38,1978-04-08,Newcastle Utd,Aston Villa,1,1,0.5
+1977-1978,38,1978-04-08,Liverpool,Leicester City,3,2,1.0
+1977-1978,38,1978-04-08,Birmingham City,Norwich City,2,1,1.0
+1977-1978,38,1978-04-08,Manchester Utd,QPR,3,1,1.0
+1977-1978,38,1978-04-08,Middlesbrough,Bristol City,2,0,1.0
+1977-1978,38,1978-04-08,Leeds United,West Ham,1,2,0.0
+1977-1978,38,1978-04-08,Coventry City,Everton,3,2,1.0
+1977-1978,41,1978-04-08,Derby County,Wolves,3,1,1.0
+1977-1978,28,1978-04-11,Middlesbrough,Coventry City,1,1,0.5
+1977-1978,32,1978-04-11,Manchester City,Nott'ham Forest,0,0,0.5
+1977-1978,32,1978-04-11,Birmingham City,Ipswich Town,0,0,0.5
+1977-1978,32,1978-04-11,QPR,Arsenal,2,1,1.0
+1977-1978,27,1978-04-12,West Brom,Newcastle Utd,2,0,1.0
+1977-1978,28,1978-04-12,Leeds United,Derby County,2,0,1.0
+1977-1978,39,1978-04-15,Wolves,Middlesbrough,0,0,0.5
+1977-1978,39,1978-04-15,Aston Villa,Chelsea,2,0,1.0
+1977-1978,39,1978-04-15,West Ham,Derby County,3,0,1.0
+1977-1978,39,1978-04-15,Norwich City,Manchester Utd,1,3,0.0
+1977-1978,39,1978-04-15,Arsenal,Newcastle Utd,2,1,1.0
+1977-1978,39,1978-04-15,Bristol City,Liverpool,1,1,0.5
+1977-1978,39,1978-04-15,QPR,Coventry City,2,1,1.0
+1977-1978,39,1978-04-15,Leicester City,Birmingham City,1,4,0.0
+1977-1978,39,1978-04-15,Manchester City,West Brom,1,3,0.0
+1977-1978,39,1978-04-15,Everton,Ipswich Town,1,0,1.0
+1977-1978,39,1978-04-15,Nott'ham Forest,Leeds United,1,1,0.5
+1977-1978,17,1978-04-17,Aston Villa,Newcastle Utd,2,0,1.0
+1977-1978,28,1978-04-18,Liverpool,Ipswich Town,2,2,0.5
+1977-1978,32,1978-04-18,West Brom,Derby County,1,0,1.0
+1977-1978,33,1978-04-18,Nott'ham Forest,QPR,1,0,1.0
+1977-1978,40,1978-04-22,Middlesbrough,Everton,0,0,0.5
+1977-1978,40,1978-04-22,Coventry City,Nott'ham Forest,0,0,0.5
+1977-1978,40,1978-04-22,Birmingham City,Manchester City,1,4,0.0
+1977-1978,40,1978-04-22,West Brom,Aston Villa,0,3,0.0
+1977-1978,40,1978-04-22,Leeds United,Arsenal,1,3,0.0
+1977-1978,40,1978-04-22,Ipswich Town,Bristol City,1,0,1.0
+1977-1978,40,1978-04-22,Manchester Utd,West Ham,3,0,1.0
+1977-1978,40,1978-04-22,Derby County,Leicester City,4,1,1.0
+1977-1978,40,1978-04-22,Chelsea,Wolves,1,1,0.5
+1977-1978,40,1978-04-22,Newcastle Utd,QPR,0,3,0.0
+1977-1978,40,1978-04-22,Liverpool,Norwich City,3,0,1.0
+1977-1978,41,1978-04-25,Middlesbrough,West Ham,1,2,0.0
+1977-1978,41,1978-04-25,Liverpool,Arsenal,1,0,1.0
+1977-1978,41,1978-04-25,West Brom,Everton,3,1,1.0
+1977-1978,41,1978-04-25,Manchester City,Coventry City,3,1,1.0
+1977-1978,41,1978-04-25,Bristol City,Manchester Utd,0,1,0.0
+1977-1978,41,1978-04-25,Ipswich Town,Nott'ham Forest,0,2,0.0
+1977-1978,41,1978-04-25,QPR,Birmingham City,0,0,0.5
+1977-1978,41,1978-04-26,Leicester City,Chelsea,0,2,0.0
+1977-1978,41,1978-04-26,Newcastle Utd,Norwich City,2,2,0.5
+1977-1978,41,1978-04-26,Aston Villa,Leeds United,3,1,1.0
+1977-1978,42,1978-04-29,Bristol City,Coventry City,1,1,0.5
+1977-1978,42,1978-04-29,Nott'ham Forest,Birmingham City,0,0,0.5
+1977-1978,42,1978-04-29,Norwich City,West Brom,1,1,0.5
+1977-1978,42,1978-04-29,West Ham,Liverpool,0,2,0.0
+1977-1978,42,1978-04-29,Aston Villa,Ipswich Town,6,1,1.0
+1977-1978,42,1978-04-29,Wolves,Manchester Utd,2,1,1.0
+1977-1978,42,1978-04-29,Manchester City,Derby County,1,1,0.5
+1977-1978,42,1978-04-29,Leicester City,Newcastle Utd,3,0,1.0
+1977-1978,42,1978-04-29,Everton,Chelsea,6,0,1.0
+1977-1978,42,1978-04-29,Arsenal,Middlesbrough,1,0,1.0
+1977-1978,42,1978-04-29,QPR,Leeds United,0,0,0.5
+1977-1978,36,1978-05-01,Liverpool,Manchester City,4,0,1.0
+1977-1978,29,1978-05-02,Wolves,Aston Villa,3,1,1.0
+1977-1978,29,1978-05-02,Chelsea,QPR,3,1,1.0
+1977-1978,38,1978-05-02,West Brom,Nott'ham Forest,2,2,0.5
+1977-1978,38,1978-05-05,Chelsea,Manchester City,0,0,0.5
+1977-1978,38,1978-05-09,Derby County,Arsenal,3,0,1.0
+1977-1978,38,1978-05-09,Ipswich Town,Wolves,1,2,0.0

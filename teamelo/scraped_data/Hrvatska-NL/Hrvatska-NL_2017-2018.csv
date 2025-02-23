@@ -1,0 +1,181 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,1,2017-07-14,Inter Zaprešić,Cibalia,3,1,1.0
+2017-2018,1,2017-07-15,Dinamo Zagreb,Istra 1961,2,0,1.0
+2017-2018,1,2017-07-15,Rijeka,Slaven Belupo,2,0,1.0
+2017-2018,1,2017-07-16,Lokomotiva,Hajduk Split,1,3,0.0
+2017-2018,1,2017-07-16,Osijek,Rudeš,1,1,0.5
+2017-2018,2,2017-07-21,Dinamo Zagreb,Cibalia,4,0,1.0
+2017-2018,2,2017-07-22,Slaven Belupo,Lokomotiva,1,0,1.0
+2017-2018,2,2017-07-22,Rijeka,Rudeš,4,1,1.0
+2017-2018,2,2017-07-23,Inter Zaprešić,Hajduk Split,2,2,0.5
+2017-2018,2,2017-07-23,Istra 1961,Osijek,1,1,0.5
+2017-2018,3,2017-07-28,Lokomotiva,Rudeš,1,1,0.5
+2017-2018,3,2017-07-29,Inter Zaprešić,Slaven Belupo,0,1,0.0
+2017-2018,3,2017-07-29,Rijeka,Istra 1961,2,0,1.0
+2017-2018,3,2017-07-30,Cibalia,Hajduk Split,1,2,0.0
+2017-2018,3,2017-07-30,Osijek,Dinamo Zagreb,1,1,0.5
+2017-2018,4,2017-08-04,Istra 1961,Lokomotiva,1,2,0.0
+2017-2018,4,2017-08-05,Rudeš,Inter Zaprešić,0,2,0.0
+2017-2018,4,2017-08-05,Slaven Belupo,Cibalia,2,1,1.0
+2017-2018,4,2017-08-06,Dinamo Zagreb,Hajduk Split,3,1,1.0
+2017-2018,4,2017-08-07,Osijek,Rijeka,1,0,1.0
+2017-2018,5,2017-08-11,Rijeka,Dinamo Zagreb,0,2,0.0
+2017-2018,5,2017-08-11,Hajduk Split,Slaven Belupo,1,0,1.0
+2017-2018,5,2017-08-12,Lokomotiva,Osijek,2,3,0.0
+2017-2018,5,2017-08-12,Inter Zaprešić,Istra 1961,2,2,0.5
+2017-2018,5,2017-08-13,Cibalia,Rudeš,3,0,1.0
+2017-2018,6,2017-08-18,Istra 1961,Cibalia,0,1,0.0
+2017-2018,6,2017-08-19,Rijeka,Lokomotiva,2,1,1.0
+2017-2018,6,2017-08-20,Rudeš,Hajduk Split,0,4,0.0
+2017-2018,6,2017-08-20,Osijek,Inter Zaprešić,3,0,1.0
+2017-2018,6,2017-08-20,Dinamo Zagreb,Slaven Belupo,2,0,1.0
+2017-2018,7,2017-08-26,Slaven Belupo,Rudeš,2,2,0.5
+2017-2018,7,2017-08-26,Inter Zaprešić,Rijeka,1,3,0.0
+2017-2018,7,2017-08-27,Lokomotiva,Dinamo Zagreb,0,3,0.0
+2017-2018,7,2017-08-27,Hajduk Split,Istra 1961,2,0,1.0
+2017-2018,7,2017-08-27,Cibalia,Osijek,2,1,1.0
+2017-2018,8,2017-09-08,Istra 1961,Slaven Belupo,1,0,1.0
+2017-2018,8,2017-09-09,Rijeka,Cibalia,7,0,1.0
+2017-2018,8,2017-09-09,Osijek,Hajduk Split,2,1,1.0
+2017-2018,8,2017-09-10,Lokomotiva,Inter Zaprešić,3,0,1.0
+2017-2018,8,2017-09-10,Dinamo Zagreb,Rudeš,3,2,1.0
+2017-2018,9,2017-09-15,Cibalia,Lokomotiva,0,1,0.0
+2017-2018,9,2017-09-16,Slaven Belupo,Osijek,1,1,0.5
+2017-2018,9,2017-09-16,Inter Zaprešić,Dinamo Zagreb,1,3,0.0
+2017-2018,9,2017-09-17,Hajduk Split,Rijeka,0,2,0.0
+2017-2018,9,2017-09-17,Rudeš,Istra 1961,1,0,1.0
+2017-2018,10,2017-09-23,Cibalia,Inter Zaprešić,1,2,0.0
+2017-2018,10,2017-09-23,Slaven Belupo,Rijeka,1,1,0.5
+2017-2018,10,2017-09-24,Istra 1961,Dinamo Zagreb,0,0,0.5
+2017-2018,10,2017-09-24,Hajduk Split,Lokomotiva,2,2,0.5
+2017-2018,10,2017-09-25,Rudeš,Osijek,1,1,0.5
+2017-2018,11,2017-09-29,Lokomotiva,Slaven Belupo,0,0,0.5
+2017-2018,11,2017-09-30,Cibalia,Dinamo Zagreb,2,5,0.0
+2017-2018,11,2017-09-30,Hajduk Split,Inter Zaprešić,2,0,1.0
+2017-2018,11,2017-10-01,Osijek,Istra 1961,2,1,1.0
+2017-2018,11,2017-10-01,Rudeš,Rijeka,1,5,0.0
+2017-2018,12,2017-10-13,Rudeš,Lokomotiva,0,1,0.0
+2017-2018,12,2017-10-14,Istra 1961,Rijeka,1,0,1.0
+2017-2018,12,2017-10-14,Dinamo Zagreb,Osijek,1,1,0.5
+2017-2018,12,2017-10-15,Slaven Belupo,Inter Zaprešić,1,2,0.0
+2017-2018,12,2017-10-15,Hajduk Split,Cibalia,2,1,1.0
+2017-2018,13,2017-10-20,Inter Zaprešić,Rudeš,3,1,1.0
+2017-2018,13,2017-10-21,Cibalia,Slaven Belupo,1,0,1.0
+2017-2018,13,2017-10-21,Hajduk Split,Dinamo Zagreb,2,2,0.5
+2017-2018,13,2017-10-22,Lokomotiva,Istra 1961,1,0,1.0
+2017-2018,13,2017-10-22,Rijeka,Osijek,1,2,0.0
+2017-2018,14,2017-10-28,Dinamo Zagreb,Rijeka,3,1,1.0
+2017-2018,14,2017-10-28,Osijek,Lokomotiva,3,0,1.0
+2017-2018,14,2017-10-29,Slaven Belupo,Hajduk Split,0,0,0.5
+2017-2018,14,2017-10-29,Rudeš,Cibalia,1,1,0.5
+2017-2018,14,2017-10-30,Istra 1961,Inter Zaprešić,1,1,0.5
+2017-2018,15,2017-11-03,Inter Zaprešić,Osijek,3,1,1.0
+2017-2018,15,2017-11-04,Cibalia,Istra 1961,1,4,0.0
+2017-2018,15,2017-11-04,Hajduk Split,Rudeš,2,3,0.0
+2017-2018,15,2017-11-05,Lokomotiva,Rijeka,1,0,1.0
+2017-2018,15,2017-11-05,Slaven Belupo,Dinamo Zagreb,0,1,0.0
+2017-2018,16,2017-11-17,Rudeš,Slaven Belupo,1,2,0.0
+2017-2018,16,2017-11-18,Osijek,Cibalia,1,1,0.5
+2017-2018,16,2017-11-18,Rijeka,Inter Zaprešić,0,0,0.5
+2017-2018,16,2017-11-19,Dinamo Zagreb,Lokomotiva,2,0,1.0
+2017-2018,16,2017-11-19,Istra 1961,Hajduk Split,1,3,0.0
+2017-2018,17,2017-11-24,Inter Zaprešić,Lokomotiva,1,1,0.5
+2017-2018,17,2017-11-25,Slaven Belupo,Istra 1961,2,0,1.0
+2017-2018,17,2017-11-25,Hajduk Split,Osijek,1,1,0.5
+2017-2018,17,2017-11-26,Rudeš,Dinamo Zagreb,1,1,0.5
+2017-2018,17,2017-11-26,Cibalia,Rijeka,1,2,0.0
+2017-2018,18,2017-12-02,Osijek,Slaven Belupo,2,0,1.0
+2017-2018,18,2017-12-02,Rijeka,Hajduk Split,1,2,0.0
+2017-2018,18,2017-12-03,Lokomotiva,Cibalia,1,3,0.0
+2017-2018,18,2017-12-03,Dinamo Zagreb,Inter Zaprešić,1,0,1.0
+2017-2018,18,2017-12-04,Istra 1961,Rudeš,2,1,1.0
+2017-2018,19,2017-12-08,Inter Zaprešić,Cibalia,3,2,1.0
+2017-2018,19,2017-12-09,Dinamo Zagreb,Istra 1961,5,1,1.0
+2017-2018,19,2017-12-09,Osijek,Rudeš,3,0,1.0
+2017-2018,19,2017-12-10,Lokomotiva,Hajduk Split,0,2,0.0
+2017-2018,19,2017-12-10,Rijeka,Slaven Belupo,2,0,1.0
+2017-2018,20,2017-12-16,Dinamo Zagreb,Cibalia,1,0,1.0
+2017-2018,20,2017-12-16,Istra 1961,Osijek,1,1,0.5
+2017-2018,20,2017-12-17,Hajduk Split,Inter Zaprešić,5,0,1.0
+2017-2018,20,2017-12-17,Rijeka,Rudeš,3,0,1.0
+2017-2018,20,2017-12-18,Slaven Belupo,Lokomotiva,2,2,0.5
+2017-2018,21,2018-02-09,Inter Zaprešić,Slaven Belupo,0,0,0.5
+2017-2018,21,2018-02-10,Rijeka,Istra 1961,4,0,1.0
+2017-2018,21,2018-02-10,Osijek,Dinamo Zagreb,2,4,0.0
+2017-2018,21,2018-02-11,Cibalia,Hajduk Split,0,5,0.0
+2017-2018,21,2018-02-11,Lokomotiva,Rudeš,2,2,0.5
+2017-2018,22,2018-02-16,Rudeš,Inter Zaprešić,2,0,1.0
+2017-2018,22,2018-02-17,Osijek,Rijeka,2,1,1.0
+2017-2018,22,2018-02-17,Istra 1961,Lokomotiva,1,0,1.0
+2017-2018,22,2018-02-18,Dinamo Zagreb,Hajduk Split,0,1,0.0
+2017-2018,22,2018-02-18,Slaven Belupo,Cibalia,2,0,1.0
+2017-2018,23,2018-02-24,Hajduk Split,Slaven Belupo,0,1,0.0
+2017-2018,24,2018-03-02,Istra 1961,Cibalia,0,0,0.5
+2017-2018,24,2018-03-03,Hajduk Split,Rudeš,1,0,1.0
+2017-2018,24,2018-03-04,Dinamo Zagreb,Slaven Belupo,1,0,1.0
+2017-2018,24,2018-03-04,Rijeka,Lokomotiva,3,1,1.0
+2017-2018,23,2018-03-07,Rijeka,Dinamo Zagreb,4,1,1.0
+2017-2018,25,2018-03-09,Slaven Belupo,Rudeš,2,0,1.0
+2017-2018,25,2018-03-10,Dinamo Zagreb,Lokomotiva,1,4,0.0
+2017-2018,25,2018-03-10,Hajduk Split,Istra 1961,3,2,1.0
+2017-2018,25,2018-03-11,Inter Zaprešić,Rijeka,0,3,0.0
+2017-2018,25,2018-03-11,Cibalia,Osijek,1,1,0.5
+2017-2018,23,2018-03-14,Cibalia,Rudeš,1,1,0.5
+2017-2018,24,2018-03-14,Osijek,Inter Zaprešić,1,1,0.5
+2017-2018,26,2018-03-16,Istra 1961,Slaven Belupo,2,1,1.0
+2017-2018,26,2018-03-17,Lokomotiva,Inter Zaprešić,2,3,0.0
+2017-2018,26,2018-03-17,Dinamo Zagreb,Rudeš,2,0,1.0
+2017-2018,26,2018-03-18,Osijek,Hajduk Split,3,3,0.5
+2017-2018,26,2018-03-18,Rijeka,Cibalia,5,1,1.0
+2017-2018,23,2018-03-24,Inter Zaprešić,Istra 1961,1,0,1.0
+2017-2018,27,2018-03-29,Rudeš,Istra 1961,2,1,1.0
+2017-2018,27,2018-03-30,Cibalia,Lokomotiva,1,1,0.5
+2017-2018,27,2018-03-30,Osijek,Slaven Belupo,3,0,1.0
+2017-2018,27,2018-03-31,Hajduk Split,Rijeka,1,1,0.5
+2017-2018,27,2018-03-31,Inter Zaprešić,Dinamo Zagreb,0,0,0.5
+2017-2018,23,2018-04-03,Lokomotiva,Osijek,1,1,0.5
+2017-2018,28,2018-04-06,Cibalia,Inter Zaprešić,3,0,1.0
+2017-2018,28,2018-04-07,Rudeš,Osijek,1,0,1.0
+2017-2018,28,2018-04-07,Hajduk Split,Lokomotiva,1,0,1.0
+2017-2018,28,2018-04-08,Slaven Belupo,Rijeka,1,3,0.0
+2017-2018,28,2018-04-08,Istra 1961,Dinamo Zagreb,0,4,0.0
+2017-2018,29,2018-04-13,Osijek,Istra 1961,2,0,1.0
+2017-2018,29,2018-04-13,Rudeš,Rijeka,4,2,1.0
+2017-2018,29,2018-04-14,Cibalia,Dinamo Zagreb,0,2,0.0
+2017-2018,29,2018-04-14,Inter Zaprešić,Hajduk Split,0,3,0.0
+2017-2018,29,2018-04-15,Lokomotiva,Slaven Belupo,5,2,1.0
+2017-2018,30,2018-04-17,Istra 1961,Rijeka,0,1,0.0
+2017-2018,30,2018-04-18,Rudeš,Lokomotiva,1,2,0.0
+2017-2018,30,2018-04-18,Dinamo Zagreb,Osijek,0,1,0.0
+2017-2018,30,2018-04-18,Hajduk Split,Cibalia,4,0,1.0
+2017-2018,30,2018-04-19,Slaven Belupo,Inter Zaprešić,3,3,0.5
+2017-2018,31,2018-04-21,Rijeka,Osijek,1,0,1.0
+2017-2018,31,2018-04-22,Hajduk Split,Dinamo Zagreb,1,2,0.0
+2017-2018,31,2018-04-22,Lokomotiva,Istra 1961,0,0,0.5
+2017-2018,31,2018-04-23,Inter Zaprešić,Rudeš,1,1,0.5
+2017-2018,31,2018-04-23,Cibalia,Slaven Belupo,1,3,0.0
+2017-2018,32,2018-04-27,Istra 1961,Inter Zaprešić,2,4,0.0
+2017-2018,32,2018-04-28,Dinamo Zagreb,Rijeka,0,1,0.0
+2017-2018,32,2018-04-28,Osijek,Lokomotiva,0,1,0.0
+2017-2018,32,2018-04-29,Rudeš,Cibalia,3,2,1.0
+2017-2018,32,2018-04-29,Slaven Belupo,Hajduk Split,0,0,0.5
+2017-2018,33,2018-05-04,Lokomotiva,Rijeka,1,0,1.0
+2017-2018,33,2018-05-04,Slaven Belupo,Dinamo Zagreb,2,2,0.5
+2017-2018,33,2018-05-05,Inter Zaprešić,Osijek,1,0,1.0
+2017-2018,33,2018-05-05,Cibalia,Istra 1961,1,1,0.5
+2017-2018,33,2018-05-06,Rudeš,Hajduk Split,2,1,1.0
+2017-2018,34,2018-05-08,Lokomotiva,Dinamo Zagreb,3,1,1.0
+2017-2018,34,2018-05-08,Rijeka,Inter Zaprešić,5,1,1.0
+2017-2018,34,2018-05-09,Istra 1961,Hajduk Split,1,5,0.0
+2017-2018,34,2018-05-09,Osijek,Cibalia,3,1,1.0
+2017-2018,34,2018-05-10,Rudeš,Slaven Belupo,2,0,1.0
+2017-2018,35,2018-05-13,Cibalia,Rijeka,0,0,0.5
+2017-2018,35,2018-05-13,Hajduk Split,Osijek,1,1,0.5
+2017-2018,35,2018-05-13,Inter Zaprešić,Lokomotiva,1,2,0.0
+2017-2018,35,2018-05-14,Slaven Belupo,Istra 1961,1,0,1.0
+2017-2018,35,2018-05-14,Rudeš,Dinamo Zagreb,1,0,1.0
+2017-2018,36,2018-05-18,Slaven Belupo,Osijek,2,1,1.0
+2017-2018,36,2018-05-18,Lokomotiva,Cibalia,2,1,1.0
+2017-2018,36,2018-05-18,Istra 1961,Rudeš,1,1,0.5
+2017-2018,36,2018-05-19,Rijeka,Hajduk Split,3,1,1.0
+2017-2018,36,2018-05-19,Dinamo Zagreb,Inter Zaprešić,3,1,1.0

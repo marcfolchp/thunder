@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1991-1992,1,1991-08-02,Leverkusen,Gladbach,1,0,1.0
+1991-1992,1,1991-08-02,MSV Duisburg,Stuttgart,1,0,1.0
+1991-1992,1,1991-08-02,Bochum,Köln,2,2,0.5
+1991-1992,1,1991-08-03,Hansa Rostock,Nürnberg,4,0,1.0
+1991-1992,1,1991-08-03,S'gart Kickers,Wattenscheid,3,0,1.0
+1991-1992,1,1991-08-03,Karlsruher,Dortmund,2,2,0.5
+1991-1992,1,1991-08-03,Werder Bremen,Bayern Munich,1,1,0.5
+1991-1992,1,1991-08-03,Dresden,Kaiserslautern,0,1,0.0
+1991-1992,1,1991-08-03,Schalke 04,Hamburger SV,0,0,0.5
+1991-1992,1,1991-08-03,Düsseldorf,Eint Frankfurt,1,2,0.0
+1991-1992,2,1991-08-09,Hamburger SV,Dresden,2,0,1.0
+1991-1992,2,1991-08-09,Gladbach,MSV Duisburg,0,0,0.5
+1991-1992,2,1991-08-09,Wattenscheid,Leverkusen,3,0,1.0
+1991-1992,2,1991-08-10,Nürnberg,Düsseldorf,3,1,1.0
+1991-1992,2,1991-08-10,Kaiserslautern,Bochum,1,1,0.5
+1991-1992,2,1991-08-10,Eint Frankfurt,Schalke 04,5,0,1.0
+1991-1992,2,1991-08-10,Stuttgart,Karlsruher,1,0,1.0
+1991-1992,2,1991-08-10,Dortmund,Werder Bremen,2,1,1.0
+1991-1992,2,1991-08-10,Köln,S'gart Kickers,0,0,0.5
+1991-1992,2,1991-08-10,Bayern Munich,Hansa Rostock,1,2,0.0
+1991-1992,3,1991-08-13,Karlsruher,Gladbach,2,0,1.0
+1991-1992,3,1991-08-13,Bochum,Hamburger SV,2,3,0.0
+1991-1992,3,1991-08-13,Dresden,Eint Frankfurt,2,1,1.0
+1991-1992,3,1991-08-13,MSV Duisburg,Wattenscheid,0,0,0.5
+1991-1992,3,1991-08-14,Köln,Kaiserslautern,1,1,0.5
+1991-1992,3,1991-08-14,Schalke 04,Nürnberg,1,0,1.0
+1991-1992,3,1991-08-14,Werder Bremen,Stuttgart,1,1,0.5
+1991-1992,3,1991-08-14,S'gart Kickers,Leverkusen,0,1,0.0
+1991-1992,3,1991-08-14,Hansa Rostock,Dortmund,5,1,1.0
+1991-1992,3,1991-08-14,Düsseldorf,Bayern Munich,0,1,0.0
+1991-1992,4,1991-08-20,Gladbach,Werder Bremen,0,2,0.0
+1991-1992,4,1991-08-20,Bayern Munich,Schalke 04,3,2,1.0
+1991-1992,4,1991-08-20,Dortmund,Düsseldorf,3,1,1.0
+1991-1992,4,1991-08-20,Nürnberg,Dresden,1,1,0.5
+1991-1992,4,1991-08-21,Eint Frankfurt,Bochum,2,1,1.0
+1991-1992,4,1991-08-21,Hamburger SV,Köln,1,1,0.5
+1991-1992,4,1991-08-21,Leverkusen,MSV Duisburg,2,1,1.0
+1991-1992,4,1991-08-21,Wattenscheid,Karlsruher,1,1,0.5
+1991-1992,4,1991-08-21,Kaiserslautern,S'gart Kickers,4,3,1.0
+1991-1992,4,1991-08-21,Stuttgart,Hansa Rostock,3,0,1.0
+1991-1992,5,1991-08-23,Dresden,Bayern Munich,0,2,0.0
+1991-1992,5,1991-08-24,Schalke 04,Dortmund,5,2,1.0
+1991-1992,5,1991-08-24,Werder Bremen,Wattenscheid,2,2,0.5
+1991-1992,5,1991-08-24,Karlsruher,Leverkusen,0,0,0.5
+1991-1992,5,1991-08-24,Köln,Eint Frankfurt,1,1,0.5
+1991-1992,5,1991-08-24,Düsseldorf,Stuttgart,0,3,0.0
+1991-1992,5,1991-08-24,Kaiserslautern,Hamburger SV,0,0,0.5
+1991-1992,5,1991-08-24,Hansa Rostock,Gladbach,2,1,1.0
+1991-1992,5,1991-08-25,Bochum,Nürnberg,0,3,0.0
+1991-1992,6,1991-08-27,MSV Duisburg,Karlsruher,6,2,1.0
+1991-1992,6,1991-08-27,Wattenscheid,Hansa Rostock,0,0,0.5
+1991-1992,6,1991-08-27,Stuttgart,Schalke 04,1,0,1.0
+1991-1992,6,1991-08-27,Leverkusen,Werder Bremen,0,0,0.5
+1991-1992,6,1991-08-27,Gladbach,Düsseldorf,3,1,1.0
+1991-1992,6,1991-08-28,Nürnberg,Köln,4,0,1.0
+1991-1992,6,1991-08-28,Bayern Munich,Bochum,0,2,0.0
+1991-1992,6,1991-08-28,Dortmund,Dresden,4,0,1.0
+1991-1992,6,1991-08-28,Eint Frankfurt,Kaiserslautern,2,0,1.0
+1991-1992,6,1991-08-28,Hamburger SV,S'gart Kickers,0,3,0.0
+1991-1992,7,1991-08-30,Werder Bremen,MSV Duisburg,5,1,1.0
+1991-1992,7,1991-08-30,Düsseldorf,Wattenscheid,4,3,1.0
+1991-1992,7,1991-08-30,Schalke 04,Gladbach,3,1,1.0
+1991-1992,7,1991-08-31,Dresden,Stuttgart,1,0,1.0
+1991-1992,7,1991-08-31,Köln,Bayern Munich,1,1,0.5
+1991-1992,7,1991-08-31,S'gart Kickers,Karlsruher,1,1,0.5
+1991-1992,7,1991-08-31,Bochum,Dortmund,0,0,0.5
+1991-1992,7,1991-08-31,Hansa Rostock,Leverkusen,2,2,0.5
+1991-1992,7,1991-08-31,Kaiserslautern,Nürnberg,3,0,1.0
+1991-1992,7,1991-08-31,Hamburger SV,Eint Frankfurt,2,1,1.0
+1991-1992,8,1991-09-06,Dortmund,Köln,3,1,1.0
+1991-1992,8,1991-09-06,Eint Frankfurt,S'gart Kickers,6,1,1.0
+1991-1992,8,1991-09-07,Stuttgart,Bochum,4,1,1.0
+1991-1992,8,1991-09-07,Bayern Munich,Kaiserslautern,1,0,1.0
+1991-1992,8,1991-09-07,Nürnberg,Hamburger SV,1,1,0.5
+1991-1992,8,1991-09-07,Leverkusen,Düsseldorf,1,1,0.5
+1991-1992,8,1991-09-07,Wattenscheid,Schalke 04,1,2,0.0
+1991-1992,8,1991-09-07,Gladbach,Dresden,1,0,1.0
+1991-1992,8,1991-09-07,Karlsruher,Werder Bremen,2,1,1.0
+1991-1992,8,1991-09-08,MSV Duisburg,Hansa Rostock,2,0,1.0
+1991-1992,9,1991-09-13,Bochum,Gladbach,3,1,1.0
+1991-1992,9,1991-09-13,Düsseldorf,MSV Duisburg,1,1,0.5
+1991-1992,9,1991-09-13,Hansa Rostock,Karlsruher,1,2,0.0
+1991-1992,9,1991-09-14,Schalke 04,Leverkusen,0,0,0.5
+1991-1992,9,1991-09-14,Hamburger SV,Bayern Munich,1,0,1.0
+1991-1992,9,1991-09-14,Kaiserslautern,Dortmund,4,0,1.0
+1991-1992,9,1991-09-14,S'gart Kickers,Werder Bremen,2,1,1.0
+1991-1992,9,1991-09-14,Köln,Stuttgart,1,1,0.5
+1991-1992,9,1991-09-14,Dresden,Wattenscheid,3,0,1.0
+1991-1992,9,1991-09-14,Eint Frankfurt,Nürnberg,2,2,0.5
+1991-1992,10,1991-09-20,Karlsruher,Düsseldorf,1,5,0.0
+1991-1992,10,1991-09-20,Wattenscheid,Bochum,1,2,0.0
+1991-1992,10,1991-09-20,Gladbach,Köln,2,2,0.5
+1991-1992,10,1991-09-21,Werder Bremen,Hansa Rostock,1,0,1.0
+1991-1992,10,1991-09-21,Nürnberg,S'gart Kickers,2,0,1.0
+1991-1992,10,1991-09-21,Dortmund,Hamburger SV,2,2,0.5
+1991-1992,10,1991-09-21,Bayern Munich,Eint Frankfurt,3,3,0.5
+1991-1992,10,1991-09-21,Leverkusen,Dresden,4,0,1.0
+1991-1992,10,1991-09-21,Stuttgart,Kaiserslautern,4,1,1.0
+1991-1992,10,1991-09-22,MSV Duisburg,Schalke 04,2,0,1.0
+1991-1992,11,1991-09-27,Nürnberg,Bayern Munich,1,1,0.5
+1991-1992,11,1991-09-27,Köln,Wattenscheid,1,1,0.5
+1991-1992,11,1991-09-27,Bochum,Leverkusen,0,2,0.0
+1991-1992,11,1991-09-28,Eint Frankfurt,Dortmund,3,0,1.0
+1991-1992,11,1991-09-28,Dresden,MSV Duisburg,0,0,0.5
+1991-1992,11,1991-09-28,Schalke 04,Karlsruher,3,1,1.0
+1991-1992,11,1991-09-28,Düsseldorf,Werder Bremen,0,0,0.5
+1991-1992,11,1991-09-28,Kaiserslautern,Gladbach,4,2,1.0
+1991-1992,11,1991-09-28,Hamburger SV,Stuttgart,1,1,0.5
+1991-1992,11,1991-09-28,S'gart Kickers,Hansa Rostock,1,1,0.5
+1991-1992,12,1991-10-04,Dortmund,Nürnberg,3,2,1.0
+1991-1992,12,1991-10-04,Karlsruher,Dresden,1,0,1.0
+1991-1992,12,1991-10-04,MSV Duisburg,Bochum,1,1,0.5
+1991-1992,12,1991-10-05,Hansa Rostock,Düsseldorf,3,1,1.0
+1991-1992,12,1991-10-05,Werder Bremen,Schalke 04,2,1,1.0
+1991-1992,12,1991-10-05,Wattenscheid,Kaiserslautern,1,0,1.0
+1991-1992,12,1991-10-05,Gladbach,Hamburger SV,1,0,1.0
+1991-1992,12,1991-10-05,Stuttgart,Eint Frankfurt,1,2,0.0
+1991-1992,12,1991-10-05,Leverkusen,Köln,1,1,0.5
+1991-1992,12,1991-10-05,Bayern Munich,S'gart Kickers,1,4,0.0
+1991-1992,5,1991-10-09,S'gart Kickers,MSV Duisburg,0,1,0.0
+1991-1992,13,1991-10-11,Eint Frankfurt,Gladbach,0,0,0.5
+1991-1992,13,1991-10-11,Nürnberg,Stuttgart,4,3,1.0
+1991-1992,13,1991-10-11,Bochum,Karlsruher,1,3,0.0
+1991-1992,13,1991-10-12,Schalke 04,Hansa Rostock,5,0,1.0
+1991-1992,13,1991-10-12,Dresden,Werder Bremen,2,1,1.0
+1991-1992,13,1991-10-12,Kaiserslautern,Leverkusen,2,1,1.0
+1991-1992,13,1991-10-12,Hamburger SV,Wattenscheid,0,1,0.0
+1991-1992,13,1991-10-12,S'gart Kickers,Düsseldorf,0,1,0.0
+1991-1992,13,1991-10-12,Köln,MSV Duisburg,1,1,0.5
+1991-1992,13,1991-10-12,Bayern Munich,Dortmund,0,3,0.0
+1991-1992,14,1991-10-18,Gladbach,Nürnberg,1,0,1.0
+1991-1992,14,1991-10-18,Werder Bremen,Bochum,3,0,1.0
+1991-1992,14,1991-10-18,MSV Duisburg,Kaiserslautern,1,1,0.5
+1991-1992,14,1991-10-19,Stuttgart,Bayern Munich,3,2,1.0
+1991-1992,14,1991-10-19,Düsseldorf,Schalke 04,1,1,0.5
+1991-1992,14,1991-10-19,Leverkusen,Hamburger SV,1,1,0.5
+1991-1992,14,1991-10-19,Karlsruher,Köln,0,1,0.0
+1991-1992,14,1991-10-19,Wattenscheid,Eint Frankfurt,2,4,0.0
+1991-1992,14,1991-10-19,Hansa Rostock,Dresden,3,0,1.0
+1991-1992,14,1991-10-20,Dortmund,S'gart Kickers,3,1,1.0
+1991-1992,15,1991-10-25,Bochum,Hansa Rostock,3,2,1.0
+1991-1992,15,1991-10-25,Nürnberg,Wattenscheid,3,1,1.0
+1991-1992,15,1991-10-25,Dresden,Düsseldorf,2,0,1.0
+1991-1992,15,1991-10-26,Kaiserslautern,Karlsruher,3,0,1.0
+1991-1992,15,1991-10-26,Eint Frankfurt,Leverkusen,0,1,0.0
+1991-1992,15,1991-10-26,Bayern Munich,Gladbach,3,0,1.0
+1991-1992,15,1991-10-26,S'gart Kickers,Schalke 04,1,1,0.5
+1991-1992,15,1991-10-26,Köln,Werder Bremen,5,0,1.0
+1991-1992,15,1991-10-26,Dortmund,Stuttgart,0,0,0.5
+1991-1992,15,1991-10-26,Hamburger SV,MSV Duisburg,1,1,0.5
+1991-1992,16,1991-11-01,Wattenscheid,Bayern Munich,0,0,0.5
+1991-1992,16,1991-11-01,MSV Duisburg,Eint Frankfurt,3,6,0.0
+1991-1992,16,1991-11-01,Werder Bremen,Kaiserslautern,0,2,0.0
+1991-1992,16,1991-11-02,Leverkusen,Nürnberg,0,1,0.0
+1991-1992,16,1991-11-02,Gladbach,Dortmund,1,1,0.5
+1991-1992,16,1991-11-02,Schalke 04,Dresden,1,1,0.5
+1991-1992,16,1991-11-02,Karlsruher,Hamburger SV,4,1,1.0
+1991-1992,16,1991-11-02,Düsseldorf,Bochum,3,0,1.0
+1991-1992,16,1991-11-02,Stuttgart,S'gart Kickers,3,1,1.0
+1991-1992,16,1991-11-02,Hansa Rostock,Köln,1,1,0.5
+1991-1992,17,1991-11-08,Nürnberg,MSV Duisburg,1,1,0.5
+1991-1992,17,1991-11-08,Dortmund,Wattenscheid,1,1,0.5
+1991-1992,17,1991-11-09,Köln,Düsseldorf,4,1,1.0
+1991-1992,17,1991-11-09,Dresden,S'gart Kickers,2,2,0.5
+1991-1992,17,1991-11-09,Bayern Munich,Leverkusen,2,2,0.5
+1991-1992,17,1991-11-09,Kaiserslautern,Hansa Rostock,3,0,1.0
+1991-1992,17,1991-11-09,Eint Frankfurt,Karlsruher,1,1,0.5
+1991-1992,17,1991-11-09,Bochum,Schalke 04,1,0,1.0
+1991-1992,17,1991-11-09,Stuttgart,Gladbach,0,1,0.0
+1991-1992,17,1991-11-10,Hamburger SV,Werder Bremen,0,1,0.0
+1991-1992,18,1991-11-15,MSV Duisburg,Bayern Munich,1,1,0.5
+1991-1992,18,1991-11-15,Werder Bremen,Eint Frankfurt,1,0,1.0
+1991-1992,18,1991-11-15,Wattenscheid,Stuttgart,1,3,0.0
+1991-1992,18,1991-11-16,Düsseldorf,Kaiserslautern,1,0,1.0
+1991-1992,18,1991-11-16,Dresden,Bochum,0,0,0.5
+1991-1992,18,1991-11-16,Schalke 04,Köln,3,0,1.0
+1991-1992,18,1991-11-16,Hansa Rostock,Hamburger SV,1,2,0.0
+1991-1992,18,1991-11-16,Karlsruher,Nürnberg,1,0,1.0
+1991-1992,18,1991-11-16,Leverkusen,Dortmund,0,2,0.0
+1991-1992,18,1991-11-16,S'gart Kickers,Gladbach,3,0,1.0
+1991-1992,19,1991-11-22,Gladbach,Wattenscheid,1,0,1.0
+1991-1992,19,1991-11-22,Bochum,S'gart Kickers,2,2,0.5
+1991-1992,19,1991-11-23,Hamburger SV,Düsseldorf,1,1,0.5
+1991-1992,19,1991-11-23,Kaiserslautern,Schalke 04,1,1,0.5
+1991-1992,19,1991-11-23,Nürnberg,Werder Bremen,1,0,1.0
+1991-1992,19,1991-11-23,Bayern Munich,Karlsruher,1,0,1.0
+1991-1992,19,1991-11-23,Stuttgart,Leverkusen,2,0,1.0
+1991-1992,19,1991-11-23,Dortmund,MSV Duisburg,2,1,1.0
+1991-1992,19,1991-11-23,Eint Frankfurt,Hansa Rostock,2,0,1.0
+1991-1992,20,1991-11-29,Wattenscheid,S'gart Kickers,4,1,1.0
+1991-1992,20,1991-11-29,Dortmund,Karlsruher,1,0,1.0
+1991-1992,20,1991-11-29,Gladbach,Leverkusen,2,2,0.5
+1991-1992,20,1991-11-30,Nürnberg,Hansa Rostock,0,0,0.5
+1991-1992,20,1991-11-30,Köln,Bochum,1,0,1.0
+1991-1992,20,1991-11-30,Bayern Munich,Werder Bremen,3,4,0.0
+1991-1992,20,1991-11-30,Eint Frankfurt,Düsseldorf,1,1,0.5
+1991-1992,20,1991-11-30,Stuttgart,MSV Duisburg,2,0,1.0
+1991-1992,20,1991-11-30,Kaiserslautern,Dresden,4,1,1.0
+1991-1992,20,1991-11-30,Hamburger SV,Schalke 04,2,1,1.0
+1991-1992,21,1991-12-05,Schalke 04,Eint Frankfurt,1,1,0.5
+1991-1992,21,1991-12-06,Werder Bremen,Dortmund,0,1,0.0
+1991-1992,21,1991-12-06,Düsseldorf,Nürnberg,1,2,0.0
+1991-1992,21,1991-12-07,Karlsruher,Stuttgart,0,0,0.5
+1991-1992,21,1991-12-07,Hansa Rostock,Bayern Munich,2,1,1.0
+1991-1992,21,1991-12-07,Leverkusen,Wattenscheid,6,1,1.0
+1991-1992,21,1991-12-07,Bochum,Kaiserslautern,0,0,0.5
+1991-1992,21,1991-12-07,S'gart Kickers,Köln,0,3,0.0
+1991-1992,21,1991-12-07,Dresden,Hamburger SV,3,0,1.0
+1991-1992,21,1991-12-08,MSV Duisburg,Gladbach,1,1,0.5
+1991-1992,19,1991-12-10,Köln,Dresden,1,1,0.5
+1991-1992,22,1991-12-13,Dortmund,Hansa Rostock,4,1,1.0
+1991-1992,22,1991-12-13,Gladbach,Karlsruher,1,0,1.0
+1991-1992,22,1991-12-13,Hamburger SV,Bochum,0,0,0.5
+1991-1992,22,1991-12-14,Kaiserslautern,Köln,2,1,1.0
+1991-1992,22,1991-12-14,Stuttgart,Werder Bremen,1,1,0.5
+1991-1992,22,1991-12-14,Wattenscheid,MSV Duisburg,2,0,1.0
+1991-1992,22,1991-12-14,Nürnberg,Schalke 04,0,1,0.0
+1991-1992,22,1991-12-14,Eint Frankfurt,Dresden,3,0,1.0
+1991-1992,22,1991-12-14,Leverkusen,S'gart Kickers,3,1,1.0
+1991-1992,22,1991-12-14,Bayern Munich,Düsseldorf,3,1,1.0
+1991-1992,23,1992-02-07,Dresden,Nürnberg,1,2,0.0
+1991-1992,23,1992-02-07,Karlsruher,Wattenscheid,1,2,0.0
+1991-1992,23,1992-02-07,Bochum,Eint Frankfurt,0,0,0.5
+1991-1992,23,1992-02-08,Hansa Rostock,Stuttgart,2,0,1.0
+1991-1992,23,1992-02-08,Köln,Hamburger SV,0,0,0.5
+1991-1992,23,1992-02-08,S'gart Kickers,Kaiserslautern,1,1,0.5
+1991-1992,23,1992-02-08,Schalke 04,Bayern Munich,1,1,0.5
+1991-1992,23,1992-02-08,Werder Bremen,Gladbach,0,0,0.5
+1991-1992,23,1992-02-08,Düsseldorf,Dortmund,1,1,0.5
+1991-1992,23,1992-02-09,MSV Duisburg,Leverkusen,1,2,0.0
+1991-1992,24,1992-02-14,Wattenscheid,Werder Bremen,0,1,0.0
+1991-1992,24,1992-02-14,Nürnberg,Bochum,1,0,1.0
+1991-1992,24,1992-02-14,MSV Duisburg,S'gart Kickers,1,1,0.5
+1991-1992,24,1992-02-15,Leverkusen,Karlsruher,2,0,1.0
+1991-1992,24,1992-02-15,Dortmund,Schalke 04,2,0,1.0
+1991-1992,24,1992-02-15,Gladbach,Hansa Rostock,1,1,0.5
+1991-1992,24,1992-02-15,Stuttgart,Düsseldorf,3,1,1.0
+1991-1992,24,1992-02-15,Bayern Munich,Dresden,1,2,0.0
+1991-1992,24,1992-02-15,Eint Frankfurt,Köln,1,2,0.0
+1991-1992,24,1992-02-16,Hamburger SV,Kaiserslautern,0,1,0.0
+1991-1992,25,1992-02-20,Bochum,Bayern Munich,0,5,0.0
+1991-1992,25,1992-02-21,Karlsruher,MSV Duisburg,2,2,0.5
+1991-1992,25,1992-02-21,Werder Bremen,Leverkusen,1,1,0.5
+1991-1992,25,1992-02-22,Hansa Rostock,Wattenscheid,1,1,0.5
+1991-1992,25,1992-02-22,Dresden,Dortmund,0,0,0.5
+1991-1992,25,1992-02-22,Köln,Nürnberg,4,0,1.0
+1991-1992,25,1992-02-22,Kaiserslautern,Eint Frankfurt,1,1,0.5
+1991-1992,25,1992-02-22,S'gart Kickers,Hamburger SV,1,1,0.5
+1991-1992,25,1992-02-22,Düsseldorf,Gladbach,1,1,0.5
+1991-1992,25,1992-02-22,Schalke 04,Stuttgart,0,1,0.0
+1991-1992,26,1992-02-28,Wattenscheid,Düsseldorf,4,1,1.0
+1991-1992,26,1992-02-28,MSV Duisburg,Werder Bremen,0,0,0.5
+1991-1992,26,1992-02-28,Leverkusen,Hansa Rostock,3,0,1.0
+1991-1992,26,1992-02-29,Nürnberg,Kaiserslautern,3,2,1.0
+1991-1992,26,1992-02-29,Eint Frankfurt,Hamburger SV,2,1,1.0
+1991-1992,26,1992-02-29,Bayern Munich,Köln,0,0,0.5
+1991-1992,26,1992-02-29,Karlsruher,S'gart Kickers,3,1,1.0
+1991-1992,26,1992-02-29,Dortmund,Bochum,1,1,0.5
+1991-1992,26,1992-02-29,Stuttgart,Dresden,1,1,0.5
+1991-1992,26,1992-02-29,Gladbach,Schalke 04,1,1,0.5
+1991-1992,27,1992-03-06,Hansa Rostock,MSV Duisburg,0,0,0.5
+1991-1992,27,1992-03-06,Dresden,Gladbach,1,2,0.0
+1991-1992,27,1992-03-06,Schalke 04,Wattenscheid,1,1,0.5
+1991-1992,27,1992-03-07,Bochum,Stuttgart,0,2,0.0
+1991-1992,27,1992-03-07,Köln,Dortmund,1,2,0.0
+1991-1992,27,1992-03-07,S'gart Kickers,Eint Frankfurt,0,2,0.0
+1991-1992,27,1992-03-07,Kaiserslautern,Bayern Munich,4,0,1.0
+1991-1992,27,1992-03-07,Werder Bremen,Karlsruher,0,0,0.5
+1991-1992,27,1992-03-07,Düsseldorf,Leverkusen,1,1,0.5
+1991-1992,27,1992-03-08,Hamburger SV,Nürnberg,0,2,0.0
+1991-1992,28,1992-03-13,Werder Bremen,S'gart Kickers,1,3,0.0
+1991-1992,28,1992-03-13,Gladbach,Bochum,1,2,0.0
+1991-1992,28,1992-03-13,Nürnberg,Eint Frankfurt,1,3,0.0
+1991-1992,28,1992-03-14,Karlsruher,Hansa Rostock,2,1,1.0
+1991-1992,28,1992-03-14,Bayern Munich,Hamburger SV,2,0,1.0
+1991-1992,28,1992-03-14,Stuttgart,Köln,1,0,1.0
+1991-1992,28,1992-03-14,Dortmund,Kaiserslautern,3,1,1.0
+1991-1992,28,1992-03-14,Leverkusen,Schalke 04,2,1,1.0
+1991-1992,28,1992-03-17,MSV Duisburg,Düsseldorf,2,2,0.5
+1991-1992,29,1992-03-20,Dresden,Leverkusen,1,0,1.0
+1991-1992,29,1992-03-20,Bochum,Wattenscheid,1,1,0.5
+1991-1992,29,1992-03-20,Hamburger SV,Dortmund,1,1,0.5
+1991-1992,29,1992-03-21,Eint Frankfurt,Bayern Munich,3,2,1.0
+1991-1992,29,1992-03-21,Köln,Gladbach,1,1,0.5
+1991-1992,29,1992-03-21,S'gart Kickers,Nürnberg,3,1,1.0
+1991-1992,29,1992-03-21,Kaiserslautern,Stuttgart,0,0,0.5
+1991-1992,29,1992-03-21,Schalke 04,MSV Duisburg,3,0,1.0
+1991-1992,29,1992-03-21,Hansa Rostock,Werder Bremen,0,0,0.5
+1991-1992,29,1992-03-21,Düsseldorf,Karlsruher,2,3,0.0
+1991-1992,30,1992-03-27,MSV Duisburg,Dresden,3,0,1.0
+1991-1992,30,1992-03-27,Wattenscheid,Köln,1,2,0.0
+1991-1992,30,1992-03-27,Werder Bremen,Düsseldorf,2,1,1.0
+1991-1992,30,1992-03-28,Hansa Rostock,S'gart Kickers,2,2,0.5
+1991-1992,30,1992-03-28,Leverkusen,Bochum,2,0,1.0
+1991-1992,30,1992-03-28,Gladbach,Kaiserslautern,1,0,1.0
+1991-1992,30,1992-03-28,Bayern Munich,Nürnberg,1,3,0.0
+1991-1992,30,1992-03-28,Dortmund,Eint Frankfurt,2,2,0.5
+1991-1992,30,1992-03-28,Karlsruher,Schalke 04,1,0,1.0
+1991-1992,30,1992-03-28,Stuttgart,Hamburger SV,3,2,1.0
+1991-1992,28,1992-03-31,Wattenscheid,Dresden,3,0,1.0
+1991-1992,31,1992-04-03,Nürnberg,Dortmund,2,1,1.0
+1991-1992,31,1992-04-03,Dresden,Karlsruher,2,0,1.0
+1991-1992,31,1992-04-03,Bochum,MSV Duisburg,2,1,1.0
+1991-1992,31,1992-04-04,Düsseldorf,Hansa Rostock,0,0,0.5
+1991-1992,31,1992-04-04,Schalke 04,Werder Bremen,0,0,0.5
+1991-1992,31,1992-04-04,Köln,Leverkusen,1,1,0.5
+1991-1992,31,1992-04-04,Hamburger SV,Gladbach,1,0,1.0
+1991-1992,31,1992-04-04,Kaiserslautern,Wattenscheid,3,2,1.0
+1991-1992,31,1992-04-04,Eint Frankfurt,Stuttgart,1,1,0.5
+1991-1992,31,1992-04-04,S'gart Kickers,Bayern Munich,2,4,0.0
+1991-1992,32,1992-04-10,Hansa Rostock,Schalke 04,2,0,1.0
+1991-1992,32,1992-04-10,Dortmund,Bayern Munich,3,0,1.0
+1991-1992,32,1992-04-10,Düsseldorf,S'gart Kickers,1,3,0.0
+1991-1992,32,1992-04-11,MSV Duisburg,Köln,1,3,0.0
+1991-1992,32,1992-04-11,Wattenscheid,Hamburger SV,1,1,0.5
+1991-1992,32,1992-04-11,Gladbach,Eint Frankfurt,1,1,0.5
+1991-1992,32,1992-04-11,Leverkusen,Kaiserslautern,3,0,1.0
+1991-1992,32,1992-04-11,Werder Bremen,Dresden,2,0,1.0
+1991-1992,32,1992-04-11,Karlsruher,Bochum,1,1,0.5
+1991-1992,32,1992-04-11,Stuttgart,Nürnberg,2,0,1.0
+1991-1992,33,1992-04-16,Dresden,Hansa Rostock,2,1,1.0
+1991-1992,33,1992-04-16,S'gart Kickers,Dortmund,0,1,0.0
+1991-1992,33,1992-04-18,Bochum,Werder Bremen,2,2,0.5
+1991-1992,33,1992-04-18,Eint Frankfurt,Wattenscheid,1,1,0.5
+1991-1992,33,1992-04-18,Nürnberg,Gladbach,2,1,1.0
+1991-1992,33,1992-04-18,Schalke 04,Düsseldorf,0,0,0.5
+1991-1992,33,1992-04-18,Kaiserslautern,MSV Duisburg,2,1,1.0
+1991-1992,33,1992-04-18,Hamburger SV,Leverkusen,1,1,0.5
+1991-1992,33,1992-04-18,Köln,Karlsruher,2,3,0.0
+1991-1992,33,1992-04-18,Bayern Munich,Stuttgart,1,0,1.0
+1991-1992,34,1992-04-24,Hansa Rostock,Bochum,0,2,0.0
+1991-1992,34,1992-04-24,Düsseldorf,Dresden,1,3,0.0
+1991-1992,34,1992-04-24,Wattenscheid,Nürnberg,1,1,0.5
+1991-1992,34,1992-04-25,Werder Bremen,Köln,1,3,0.0
+1991-1992,34,1992-04-25,Karlsruher,Kaiserslautern,2,1,1.0
+1991-1992,34,1992-04-25,Schalke 04,S'gart Kickers,1,2,0.0
+1991-1992,34,1992-04-25,MSV Duisburg,Hamburger SV,0,1,0.0
+1991-1992,34,1992-04-25,Stuttgart,Dortmund,4,2,1.0
+1991-1992,34,1992-04-25,Leverkusen,Eint Frankfurt,1,3,0.0
+1991-1992,34,1992-04-25,Gladbach,Bayern Munich,1,1,0.5
+1991-1992,36,1992-04-28,Werder Bremen,Hamburger SV,1,1,0.5
+1991-1992,35,1992-05-01,Bochum,Düsseldorf,3,0,1.0
+1991-1992,35,1992-05-01,Kaiserslautern,Werder Bremen,2,2,0.5
+1991-1992,35,1992-05-01,Nürnberg,Leverkusen,1,0,1.0
+1991-1992,35,1992-05-01,Bayern Munich,Wattenscheid,5,2,1.0
+1991-1992,35,1992-05-02,S'gart Kickers,Stuttgart,1,3,0.0
+1991-1992,35,1992-05-02,Dortmund,Gladbach,2,2,0.5
+1991-1992,35,1992-05-02,Dresden,Schalke 04,2,1,1.0
+1991-1992,35,1992-05-02,Köln,Hansa Rostock,3,1,1.0
+1991-1992,35,1992-05-02,Eint Frankfurt,MSV Duisburg,3,0,1.0
+1991-1992,35,1992-05-02,Hamburger SV,Karlsruher,0,1,0.0
+1991-1992,36,1992-05-05,Hansa Rostock,Kaiserslautern,0,1,0.0
+1991-1992,36,1992-05-05,Wattenscheid,Dortmund,0,1,0.0
+1991-1992,36,1992-05-05,Schalke 04,Bochum,2,1,1.0
+1991-1992,36,1992-05-05,Düsseldorf,Köln,1,3,0.0
+1991-1992,36,1992-05-05,Karlsruher,Eint Frankfurt,0,2,0.0
+1991-1992,36,1992-05-05,MSV Duisburg,Nürnberg,3,0,1.0
+1991-1992,36,1992-05-05,Gladbach,Stuttgart,0,1,0.0
+1991-1992,36,1992-05-05,Leverkusen,Bayern Munich,2,1,1.0
+1991-1992,36,1992-05-05,S'gart Kickers,Dresden,0,0,0.5
+1991-1992,37,1992-05-09,Bochum,Dresden,1,0,1.0
+1991-1992,37,1992-05-09,Gladbach,S'gart Kickers,2,1,1.0
+1991-1992,37,1992-05-09,Hamburger SV,Hansa Rostock,1,0,1.0
+1991-1992,37,1992-05-09,Eint Frankfurt,Werder Bremen,2,2,0.5
+1991-1992,37,1992-05-09,Kaiserslautern,Düsseldorf,2,0,1.0
+1991-1992,37,1992-05-09,Stuttgart,Wattenscheid,1,1,0.5
+1991-1992,37,1992-05-09,Dortmund,Leverkusen,3,1,1.0
+1991-1992,37,1992-05-09,Köln,Schalke 04,3,0,1.0
+1991-1992,37,1992-05-09,Bayern Munich,MSV Duisburg,4,2,1.0
+1991-1992,37,1992-05-09,Nürnberg,Karlsruher,1,2,0.0
+1991-1992,38,1992-05-16,S'gart Kickers,Bochum,2,0,1.0
+1991-1992,38,1992-05-16,Wattenscheid,Gladbach,3,2,1.0
+1991-1992,38,1992-05-16,Werder Bremen,Nürnberg,1,3,0.0
+1991-1992,38,1992-05-16,Leverkusen,Stuttgart,1,2,0.0
+1991-1992,38,1992-05-16,MSV Duisburg,Dortmund,0,1,0.0
+1991-1992,38,1992-05-16,Dresden,Köln,0,0,0.5
+1991-1992,38,1992-05-16,Hansa Rostock,Eint Frankfurt,2,1,1.0
+1991-1992,38,1992-05-16,Düsseldorf,Hamburger SV,1,0,1.0
+1991-1992,38,1992-05-16,Schalke 04,Kaiserslautern,2,0,1.0
+1991-1992,38,1992-05-16,Karlsruher,Bayern Munich,3,0,1.0

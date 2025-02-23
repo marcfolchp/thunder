@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1994-1995,1,1994-08-19,Schalke 04,Gladbach,1,1,0.5
+1994-1995,1,1994-08-19,Leverkusen,Kaiserslautern,0,1,0.0
+1994-1995,1,1994-08-19,Stuttgart,Hamburger SV,2,1,1.0
+1994-1995,1,1994-08-20,Uerdingen,MSV Duisburg,1,1,0.5
+1994-1995,1,1994-08-20,Eint Frankfurt,Köln,0,0,0.5
+1994-1995,1,1994-08-20,Dresden,Werder Bremen,1,1,0.5
+1994-1995,1,1994-08-20,Karlsruher,Freiburg,2,0,1.0
+1994-1995,1,1994-08-20,Dortmund,1860 Munich,4,0,1.0
+1994-1995,1,1994-08-20,Bayern Munich,Bochum,3,1,1.0
+1994-1995,2,1994-08-23,1860 Munich,Stuttgart,0,2,0.0
+1994-1995,2,1994-08-23,Köln,Dortmund,1,6,0.0
+1994-1995,2,1994-08-23,Bochum,Dresden,2,0,1.0
+1994-1995,2,1994-08-23,Freiburg,Bayern Munich,5,1,1.0
+1994-1995,2,1994-08-23,Kaiserslautern,Eint Frankfurt,1,1,0.5
+1994-1995,2,1994-08-24,MSV Duisburg,Schalke 04,2,2,0.5
+1994-1995,2,1994-08-24,Werder Bremen,Leverkusen,3,2,1.0
+1994-1995,2,1994-08-24,Hamburger SV,Uerdingen,0,0,0.5
+1994-1995,2,1994-08-24,Gladbach,Karlsruher,2,2,0.5
+1994-1995,3,1994-08-26,Dortmund,Kaiserslautern,2,1,1.0
+1994-1995,3,1994-08-26,Dresden,Freiburg,1,3,0.0
+1994-1995,3,1994-08-27,Schalke 04,Hamburger SV,0,1,0.0
+1994-1995,3,1994-08-27,Karlsruher,MSV Duisburg,4,1,1.0
+1994-1995,3,1994-08-27,Bayern Munich,Gladbach,3,0,1.0
+1994-1995,3,1994-08-27,Uerdingen,1860 Munich,1,1,0.5
+1994-1995,3,1994-08-27,Werder Bremen,Bochum,3,0,1.0
+1994-1995,3,1994-08-27,Stuttgart,Köln,2,2,0.5
+1994-1995,3,1994-08-28,Leverkusen,Eint Frankfurt,4,0,1.0
+1994-1995,4,1994-09-02,Freiburg,Werder Bremen,1,3,0.0
+1994-1995,4,1994-09-02,MSV Duisburg,Bayern Munich,0,3,0.0
+1994-1995,4,1994-09-02,Gladbach,Dresden,2,0,1.0
+1994-1995,4,1994-09-03,1860 Munich,Schalke 04,0,1,0.0
+1994-1995,4,1994-09-03,Köln,Uerdingen,2,0,1.0
+1994-1995,4,1994-09-03,Eint Frankfurt,Dortmund,4,1,1.0
+1994-1995,4,1994-09-03,Kaiserslautern,Stuttgart,3,2,1.0
+1994-1995,4,1994-09-03,Bochum,Leverkusen,1,3,0.0
+1994-1995,4,1994-09-03,Hamburger SV,Karlsruher,3,1,1.0
+1994-1995,5,1994-09-16,Bochum,Freiburg,1,3,0.0
+1994-1995,5,1994-09-16,Karlsruher,1860 Munich,3,1,1.0
+1994-1995,5,1994-09-17,Schalke 04,Köln,3,1,1.0
+1994-1995,5,1994-09-17,Werder Bremen,Gladbach,1,0,1.0
+1994-1995,5,1994-09-17,Dresden,MSV Duisburg,4,2,1.0
+1994-1995,5,1994-09-17,Leverkusen,Dortmund,2,2,0.5
+1994-1995,5,1994-09-17,Uerdingen,Kaiserslautern,1,3,0.0
+1994-1995,5,1994-09-17,Bayern Munich,Hamburger SV,1,1,0.5
+1994-1995,5,1994-09-18,Stuttgart,Eint Frankfurt,4,1,1.0
+1994-1995,6,1994-09-21,1860 Munich,Bayern Munich,1,3,0.0
+1994-1995,6,1994-09-23,Eint Frankfurt,Uerdingen,0,3,0.0
+1994-1995,6,1994-09-23,MSV Duisburg,Werder Bremen,0,2,0.0
+1994-1995,6,1994-09-24,Köln,Karlsruher,3,4,0.0
+1994-1995,6,1994-09-24,Dortmund,Stuttgart,5,0,1.0
+1994-1995,6,1994-09-24,Freiburg,Leverkusen,1,1,0.5
+1994-1995,6,1994-09-24,Gladbach,Bochum,7,1,1.0
+1994-1995,6,1994-09-24,Kaiserslautern,Schalke 04,3,1,1.0
+1994-1995,6,1994-09-24,Hamburger SV,Dresden,2,1,1.0
+1994-1995,7,1994-09-30,Dresden,1860 Munich,1,1,0.5
+1994-1995,7,1994-09-30,Bochum,MSV Duisburg,1,0,1.0
+1994-1995,7,1994-10-01,Karlsruher,Kaiserslautern,3,3,0.5
+1994-1995,7,1994-10-01,Leverkusen,Stuttgart,3,1,1.0
+1994-1995,7,1994-10-01,Uerdingen,Dortmund,0,2,0.0
+1994-1995,7,1994-10-01,Bayern Munich,Köln,2,2,0.5
+1994-1995,7,1994-10-01,Schalke 04,Eint Frankfurt,0,0,0.5
+1994-1995,7,1994-10-02,Freiburg,Gladbach,1,1,0.5
+1994-1995,8,1994-10-05,Kaiserslautern,Bayern Munich,1,1,0.5
+1994-1995,7,1994-10-06,Werder Bremen,Hamburger SV,1,4,0.0
+1994-1995,8,1994-10-07,Gladbach,Leverkusen,3,3,0.5
+1994-1995,8,1994-10-07,Eint Frankfurt,Karlsruher,1,0,1.0
+1994-1995,8,1994-10-08,MSV Duisburg,Freiburg,1,2,0.0
+1994-1995,8,1994-10-08,Dortmund,Schalke 04,3,2,1.0
+1994-1995,8,1994-10-08,Köln,Dresden,1,2,0.0
+1994-1995,8,1994-10-08,Stuttgart,Uerdingen,3,1,1.0
+1994-1995,8,1994-10-09,1860 Munich,Werder Bremen,1,2,0.0
+1994-1995,8,1994-10-09,Hamburger SV,Bochum,3,1,1.0
+1994-1995,9,1994-10-14,Freiburg,Hamburger SV,3,0,1.0
+1994-1995,9,1994-10-14,Bochum,1860 Munich,2,2,0.5
+1994-1995,9,1994-10-15,Leverkusen,Uerdingen,1,1,0.5
+1994-1995,9,1994-10-15,Bayern Munich,Eint Frankfurt,3,3,0.5
+1994-1995,9,1994-10-15,Dresden,Kaiserslautern,1,0,1.0
+1994-1995,9,1994-10-15,Karlsruher,Dortmund,0,0,0.5
+1994-1995,9,1994-10-15,Werder Bremen,Köln,2,2,0.5
+1994-1995,9,1994-10-15,Gladbach,MSV Duisburg,1,0,1.0
+1994-1995,9,1994-10-15,Schalke 04,Stuttgart,1,1,0.5
+1994-1995,10,1994-10-21,Hamburger SV,Gladbach,1,2,0.0
+1994-1995,10,1994-10-21,Köln,Bochum,2,1,1.0
+1994-1995,10,1994-10-22,Stuttgart,Karlsruher,4,0,1.0
+1994-1995,10,1994-10-22,Eint Frankfurt,Dresden,2,0,1.0
+1994-1995,10,1994-10-22,MSV Duisburg,Leverkusen,0,2,0.0
+1994-1995,10,1994-10-22,1860 Munich,Freiburg,4,0,1.0
+1994-1995,10,1994-10-22,Uerdingen,Schalke 04,1,1,0.5
+1994-1995,10,1994-10-22,Dortmund,Bayern Munich,1,0,1.0
+1994-1995,10,1994-10-23,Kaiserslautern,Werder Bremen,1,1,0.5
+1994-1995,11,1994-10-28,Bochum,Kaiserslautern,0,2,0.0
+1994-1995,11,1994-10-28,Karlsruher,Uerdingen,2,1,1.0
+1994-1995,11,1994-10-29,Dresden,Dortmund,0,1,0.0
+1994-1995,11,1994-10-29,Bayern Munich,Stuttgart,2,2,0.5
+1994-1995,11,1994-10-29,Gladbach,1860 Munich,2,0,1.0
+1994-1995,11,1994-10-29,Freiburg,Köln,4,2,1.0
+1994-1995,11,1994-10-29,Werder Bremen,Eint Frankfurt,2,0,1.0
+1994-1995,11,1994-10-29,Leverkusen,Schalke 04,2,2,0.5
+1994-1995,11,1994-10-30,MSV Duisburg,Hamburger SV,0,5,0.0
+1994-1995,12,1994-11-04,Stuttgart,Dresden,4,2,1.0
+1994-1995,12,1994-11-04,Schalke 04,Karlsruher,0,0,0.5
+1994-1995,12,1994-11-05,Eint Frankfurt,Bochum,2,1,1.0
+1994-1995,12,1994-11-05,Uerdingen,Bayern Munich,1,1,0.5
+1994-1995,12,1994-11-05,Hamburger SV,Leverkusen,1,2,0.0
+1994-1995,12,1994-11-05,1860 Munich,MSV Duisburg,1,1,0.5
+1994-1995,12,1994-11-05,Köln,Gladbach,1,3,0.0
+1994-1995,12,1994-11-05,Kaiserslautern,Freiburg,3,2,1.0
+1994-1995,12,1994-11-06,Dortmund,Werder Bremen,2,0,1.0
+1994-1995,13,1994-11-11,Bochum,Dortmund,0,2,0.0
+1994-1995,13,1994-11-11,Gladbach,Kaiserslautern,4,0,1.0
+1994-1995,13,1994-11-12,Dresden,Uerdingen,1,2,0.0
+1994-1995,13,1994-11-12,MSV Duisburg,Köln,1,3,0.0
+1994-1995,13,1994-11-12,Freiburg,Eint Frankfurt,2,0,1.0
+1994-1995,13,1994-11-12,Leverkusen,Karlsruher,0,0,0.5
+1994-1995,13,1994-11-12,Bayern Munich,Schalke 04,2,0,1.0
+1994-1995,13,1994-11-12,Werder Bremen,Stuttgart,4,0,1.0
+1994-1995,13,1994-11-13,Hamburger SV,1860 Munich,3,0,1.0
+1994-1995,14,1994-11-18,Köln,Hamburger SV,1,1,0.5
+1994-1995,14,1994-11-18,Schalke 04,Dresden,4,0,1.0
+1994-1995,14,1994-11-19,Dortmund,Freiburg,1,1,0.5
+1994-1995,14,1994-11-19,Eint Frankfurt,Gladbach,2,1,1.0
+1994-1995,14,1994-11-19,Uerdingen,Werder Bremen,1,3,0.0
+1994-1995,14,1994-11-19,Kaiserslautern,MSV Duisburg,1,0,1.0
+1994-1995,14,1994-11-19,Stuttgart,Bochum,2,2,0.5
+1994-1995,14,1994-11-19,Karlsruher,Bayern Munich,2,2,0.5
+1994-1995,14,1994-11-19,1860 Munich,Leverkusen,1,1,0.5
+1994-1995,15,1994-11-25,Werder Bremen,Schalke 04,2,1,1.0
+1994-1995,15,1994-11-25,Bochum,Uerdingen,2,1,1.0
+1994-1995,15,1994-11-26,Gladbach,Dortmund,3,3,0.5
+1994-1995,15,1994-11-26,Bayern Munich,Leverkusen,2,1,1.0
+1994-1995,15,1994-11-26,Hamburger SV,Kaiserslautern,0,0,0.5
+1994-1995,15,1994-11-26,Freiburg,Stuttgart,2,0,1.0
+1994-1995,15,1994-11-26,Dresden,Karlsruher,1,1,0.5
+1994-1995,15,1994-11-26,Köln,1860 Munich,2,1,1.0
+1994-1995,15,1994-11-27,MSV Duisburg,Eint Frankfurt,1,0,1.0
+1994-1995,17,1994-11-29,Gladbach,Uerdingen,1,0,1.0
+1994-1995,17,1994-11-29,Bochum,Karlsruher,0,1,0.0
+1994-1995,17,1994-11-29,Köln,Kaiserslautern,0,1,0.0
+1994-1995,16,1994-12-02,Dortmund,MSV Duisburg,1,0,1.0
+1994-1995,16,1994-12-02,Kaiserslautern,1860 Munich,1,1,0.5
+1994-1995,16,1994-12-03,Leverkusen,Köln,3,1,1.0
+1994-1995,16,1994-12-03,Eint Frankfurt,Hamburger SV,2,0,1.0
+1994-1995,16,1994-12-03,Stuttgart,Gladbach,2,4,0.0
+1994-1995,16,1994-12-03,Bayern Munich,Dresden,2,1,1.0
+1994-1995,16,1994-12-03,Karlsruher,Werder Bremen,3,1,1.0
+1994-1995,16,1994-12-03,Uerdingen,Freiburg,0,2,0.0
+1994-1995,16,1994-12-04,Schalke 04,Bochum,3,2,1.0
+1994-1995,17,1994-12-09,Freiburg,Schalke 04,3,0,1.0
+1994-1995,17,1994-12-10,Hamburger SV,Dortmund,0,4,0.0
+1994-1995,17,1994-12-10,Dresden,Leverkusen,1,1,0.5
+1994-1995,17,1994-12-10,MSV Duisburg,Stuttgart,2,0,1.0
+1994-1995,17,1994-12-10,1860 Munich,Eint Frankfurt,2,1,1.0
+1994-1995,17,1994-12-10,Werder Bremen,Bayern Munich,0,0,0.5
+1994-1995,18,1995-02-17,Freiburg,Karlsruher,2,1,1.0
+1994-1995,18,1995-02-17,MSV Duisburg,Uerdingen,2,0,1.0
+1994-1995,18,1995-02-17,Köln,Eint Frankfurt,3,0,1.0
+1994-1995,18,1995-02-18,Hamburger SV,Stuttgart,0,2,0.0
+1994-1995,18,1995-02-18,1860 Munich,Dortmund,1,5,0.0
+1994-1995,18,1995-02-18,Gladbach,Schalke 04,0,1,0.0
+1994-1995,18,1995-02-18,Werder Bremen,Dresden,1,0,1.0
+1994-1995,18,1995-02-18,Bochum,Bayern Munich,1,2,0.0
+1994-1995,18,1995-02-18,Kaiserslautern,Leverkusen,1,0,1.0
+1994-1995,19,1995-02-24,Uerdingen,Hamburger SV,4,1,1.0
+1994-1995,19,1995-02-24,Dresden,Bochum,0,2,0.0
+1994-1995,19,1995-02-25,Eint Frankfurt,Kaiserslautern,1,3,0.0
+1994-1995,19,1995-02-25,Schalke 04,MSV Duisburg,0,0,0.5
+1994-1995,19,1995-02-25,Leverkusen,Werder Bremen,1,2,0.0
+1994-1995,19,1995-02-25,Dortmund,Köln,2,1,1.0
+1994-1995,19,1995-02-25,Stuttgart,1860 Munich,1,1,0.5
+1994-1995,19,1995-02-25,Bayern Munich,Freiburg,2,2,0.5
+1994-1995,19,1995-02-26,Karlsruher,Gladbach,2,4,0.0
+1994-1995,20,1995-03-03,Bochum,Werder Bremen,1,3,0.0
+1994-1995,20,1995-03-03,MSV Duisburg,Karlsruher,0,0,0.5
+1994-1995,20,1995-03-04,Freiburg,Dresden,3,1,1.0
+1994-1995,20,1995-03-04,Kaiserslautern,Dortmund,1,0,1.0
+1994-1995,20,1995-03-04,Gladbach,Bayern Munich,2,2,0.5
+1994-1995,20,1995-03-04,Eint Frankfurt,Leverkusen,2,0,1.0
+1994-1995,20,1995-03-04,Hamburger SV,Schalke 04,3,0,1.0
+1994-1995,20,1995-03-05,Köln,Stuttgart,1,0,1.0
+1994-1995,21,1995-03-10,Werder Bremen,Freiburg,5,1,1.0
+1994-1995,21,1995-03-10,Bayern Munich,MSV Duisburg,1,1,0.5
+1994-1995,21,1995-03-11,Leverkusen,Bochum,1,3,0.0
+1994-1995,21,1995-03-11,Uerdingen,Köln,0,0,0.5
+1994-1995,21,1995-03-11,Dresden,Gladbach,0,3,0.0
+1994-1995,21,1995-03-11,Dortmund,Eint Frankfurt,1,1,0.5
+1994-1995,21,1995-03-11,Karlsruher,Hamburger SV,2,0,1.0
+1994-1995,21,1995-03-11,Stuttgart,Kaiserslautern,2,2,0.5
+1994-1995,21,1995-03-12,Schalke 04,1860 Munich,6,2,1.0
+1994-1995,22,1995-03-17,Gladbach,Werder Bremen,2,0,1.0
+1994-1995,22,1995-03-17,Kaiserslautern,Uerdingen,1,1,0.5
+1994-1995,22,1995-03-18,Freiburg,Bochum,1,2,0.0
+1994-1995,22,1995-03-18,Köln,Schalke 04,5,1,1.0
+1994-1995,22,1995-03-18,1860 Munich,Karlsruher,1,0,1.0
+1994-1995,22,1995-03-18,Dortmund,Leverkusen,0,3,0.0
+1994-1995,22,1995-03-18,Hamburger SV,Bayern Munich,1,1,0.5
+1994-1995,22,1995-03-18,Eint Frankfurt,Stuttgart,2,2,0.5
+1994-1995,22,1995-03-19,MSV Duisburg,Dresden,1,1,0.5
+1994-1995,20,1995-03-21,1860 Munich,Uerdingen,1,1,0.5
+1994-1995,23,1995-03-24,Werder Bremen,MSV Duisburg,5,1,1.0
+1994-1995,23,1995-03-24,Uerdingen,Eint Frankfurt,1,1,0.5
+1994-1995,23,1995-03-24,Leverkusen,Freiburg,2,4,0.0
+1994-1995,23,1995-03-25,Bayern Munich,1860 Munich,1,0,1.0
+1994-1995,23,1995-03-25,Karlsruher,Köln,0,0,0.5
+1994-1995,23,1995-03-25,Bochum,Gladbach,0,2,0.0
+1994-1995,23,1995-03-25,Stuttgart,Dortmund,0,0,0.5
+1994-1995,23,1995-03-25,Schalke 04,Kaiserslautern,0,1,0.0
+1994-1995,23,1995-03-25,Dresden,Hamburger SV,1,1,0.5
+1994-1995,24,1995-03-31,Eint Frankfurt,Schalke 04,0,3,0.0
+1994-1995,24,1995-03-31,MSV Duisburg,Bochum,3,1,1.0
+1994-1995,24,1995-04-01,Kaiserslautern,Karlsruher,0,0,0.5
+1994-1995,24,1995-04-01,Gladbach,Freiburg,1,2,0.0
+1994-1995,24,1995-04-01,1860 Munich,Dresden,3,1,1.0
+1994-1995,24,1995-04-01,Stuttgart,Leverkusen,4,2,1.0
+1994-1995,24,1995-04-01,Köln,Bayern Munich,3,1,1.0
+1994-1995,24,1995-04-01,Dortmund,Uerdingen,3,1,1.0
+1994-1995,24,1995-04-02,Hamburger SV,Werder Bremen,0,0,0.5
+1994-1995,25,1995-04-07,Bochum,Hamburger SV,0,0,0.5
+1994-1995,25,1995-04-07,Uerdingen,Stuttgart,4,1,1.0
+1994-1995,25,1995-04-08,Freiburg,MSV Duisburg,3,0,1.0
+1994-1995,25,1995-04-08,Bayern Munich,Kaiserslautern,1,1,0.5
+1994-1995,25,1995-04-08,Karlsruher,Eint Frankfurt,1,1,0.5
+1994-1995,25,1995-04-08,Dresden,Köln,1,3,0.0
+1994-1995,25,1995-04-08,Leverkusen,Gladbach,3,1,1.0
+1994-1995,25,1995-04-08,Schalke 04,Dortmund,0,0,0.5
+1994-1995,25,1995-04-09,Werder Bremen,1860 Munich,2,0,1.0
+1994-1995,26,1995-04-13,Hamburger SV,Freiburg,1,2,0.0
+1994-1995,26,1995-04-13,Dortmund,Karlsruher,2,1,1.0
+1994-1995,26,1995-04-13,Uerdingen,Leverkusen,0,1,0.0
+1994-1995,26,1995-04-15,Eint Frankfurt,Bayern Munich,2,0,1.0
+1994-1995,26,1995-04-15,Köln,Werder Bremen,1,1,0.5
+1994-1995,26,1995-04-15,MSV Duisburg,Gladbach,0,2,0.0
+1994-1995,26,1995-04-15,Stuttgart,Schalke 04,1,1,0.5
+1994-1995,26,1995-04-15,Kaiserslautern,Dresden,3,1,1.0
+1994-1995,26,1995-04-16,1860 Munich,Bochum,4,0,1.0
+1994-1995,27,1995-04-21,Bochum,Köln,1,0,1.0
+1994-1995,27,1995-04-21,Gladbach,Hamburger SV,2,1,1.0
+1994-1995,27,1995-04-21,Karlsruher,Stuttgart,3,1,1.0
+1994-1995,27,1995-04-22,Schalke 04,Uerdingen,2,0,1.0
+1994-1995,27,1995-04-22,Freiburg,1860 Munich,1,1,0.5
+1994-1995,27,1995-04-22,Werder Bremen,Kaiserslautern,2,2,0.5
+1994-1995,27,1995-04-22,Dresden,Eint Frankfurt,1,2,0.0
+1994-1995,27,1995-04-22,Leverkusen,MSV Duisburg,2,0,1.0
+1994-1995,27,1995-04-22,Bayern Munich,Dortmund,2,1,1.0
+1994-1995,28,1995-04-28,Köln,Freiburg,2,0,1.0
+1994-1995,28,1995-04-28,Hamburger SV,MSV Duisburg,3,0,1.0
+1994-1995,28,1995-04-29,1860 Munich,Gladbach,2,0,1.0
+1994-1995,28,1995-04-29,Stuttgart,Bayern Munich,0,2,0.0
+1994-1995,28,1995-04-29,Kaiserslautern,Bochum,3,1,1.0
+1994-1995,28,1995-04-29,Dortmund,Dresden,2,0,1.0
+1994-1995,28,1995-04-29,Uerdingen,Karlsruher,0,0,0.5
+1994-1995,28,1995-04-29,Schalke 04,Leverkusen,3,2,1.0
+1994-1995,28,1995-04-30,Eint Frankfurt,Werder Bremen,0,0,0.5
+1994-1995,29,1995-05-05,MSV Duisburg,1860 Munich,1,1,0.5
+1994-1995,29,1995-05-05,Freiburg,Kaiserslautern,4,1,1.0
+1994-1995,29,1995-05-06,Leverkusen,Hamburger SV,3,1,1.0
+1994-1995,29,1995-05-06,Bayern Munich,Uerdingen,2,1,1.0
+1994-1995,29,1995-05-06,Bochum,Eint Frankfurt,0,1,0.0
+1994-1995,29,1995-05-06,Gladbach,Köln,0,0,0.5
+1994-1995,29,1995-05-06,Dresden,Stuttgart,1,1,0.5
+1994-1995,29,1995-05-06,Karlsruher,Schalke 04,2,2,0.5
+1994-1995,29,1995-05-07,Werder Bremen,Dortmund,3,1,1.0
+1994-1995,30,1995-05-12,Uerdingen,Dresden,3,1,1.0
+1994-1995,30,1995-05-12,Karlsruher,Leverkusen,2,4,0.0
+1994-1995,30,1995-05-13,Stuttgart,Werder Bremen,1,4,0.0
+1994-1995,30,1995-05-13,Dortmund,Bochum,3,1,1.0
+1994-1995,30,1995-05-13,Kaiserslautern,Gladbach,2,2,0.5
+1994-1995,30,1995-05-13,Köln,MSV Duisburg,0,3,0.0
+1994-1995,30,1995-05-13,Eint Frankfurt,Freiburg,1,2,0.0
+1994-1995,30,1995-05-13,1860 Munich,Hamburger SV,1,1,0.5
+1994-1995,30,1995-05-14,Schalke 04,Bayern Munich,0,3,0.0
+1994-1995,31,1995-05-19,Hamburger SV,Köln,0,4,0.0
+1994-1995,31,1995-05-19,Leverkusen,1860 Munich,0,2,0.0
+1994-1995,31,1995-05-20,Freiburg,Dortmund,1,1,0.5
+1994-1995,31,1995-05-20,Bayern Munich,Karlsruher,0,1,0.0
+1994-1995,31,1995-05-20,MSV Duisburg,Kaiserslautern,3,2,1.0
+1994-1995,31,1995-05-20,Dresden,Schalke 04,2,1,1.0
+1994-1995,31,1995-05-20,Bochum,Stuttgart,4,0,1.0
+1994-1995,31,1995-05-20,Werder Bremen,Uerdingen,6,1,1.0
+1994-1995,31,1995-05-21,Gladbach,Eint Frankfurt,2,0,1.0
+1994-1995,32,1995-05-26,Kaiserslautern,Hamburger SV,4,1,1.0
+1994-1995,32,1995-05-26,1860 Munich,Köln,2,1,1.0
+1994-1995,32,1995-05-27,Uerdingen,Bochum,2,1,1.0
+1994-1995,32,1995-05-27,Karlsruher,Dresden,5,3,1.0
+1994-1995,32,1995-05-27,Eint Frankfurt,MSV Duisburg,4,1,1.0
+1994-1995,32,1995-05-27,Leverkusen,Bayern Munich,2,0,1.0
+1994-1995,32,1995-05-27,Schalke 04,Werder Bremen,4,2,1.0
+1994-1995,32,1995-05-27,Stuttgart,Freiburg,1,0,1.0
+1994-1995,32,1995-05-28,Dortmund,Gladbach,1,1,0.5
+1994-1995,33,1995-06-10,Gladbach,Stuttgart,3,1,1.0
+1994-1995,33,1995-06-10,Hamburger SV,Eint Frankfurt,3,1,1.0
+1994-1995,33,1995-06-10,1860 Munich,Kaiserslautern,1,3,0.0
+1994-1995,33,1995-06-10,MSV Duisburg,Dortmund,2,3,0.0
+1994-1995,33,1995-06-10,Dresden,Bayern Munich,0,1,0.0
+1994-1995,33,1995-06-10,Köln,Leverkusen,3,3,0.5
+1994-1995,33,1995-06-10,Werder Bremen,Karlsruher,2,1,1.0
+1994-1995,33,1995-06-10,Bochum,Schalke 04,5,1,1.0
+1994-1995,33,1995-06-10,Freiburg,Uerdingen,1,0,1.0
+1994-1995,34,1995-06-17,Leverkusen,Dresden,2,2,0.5
+1994-1995,34,1995-06-17,Bayern Munich,Werder Bremen,3,1,1.0
+1994-1995,34,1995-06-17,Eint Frankfurt,1860 Munich,3,1,1.0
+1994-1995,34,1995-06-17,Karlsruher,Bochum,2,2,0.5
+1994-1995,34,1995-06-17,Dortmund,Hamburger SV,2,0,1.0
+1994-1995,34,1995-06-17,Kaiserslautern,Köln,3,1,1.0
+1994-1995,34,1995-06-17,Uerdingen,Gladbach,3,2,1.0
+1994-1995,34,1995-06-17,Schalke 04,Freiburg,1,2,0.0
+1994-1995,34,1995-06-17,Stuttgart,MSV Duisburg,3,1,1.0

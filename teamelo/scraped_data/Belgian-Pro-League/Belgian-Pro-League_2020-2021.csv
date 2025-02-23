@@ -1,0 +1,333 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,Regular season,1,2020-08-08,Club Brugge,Charleroi,0,1,0.0
+2020-2021,Regular season,1,2020-08-08,Antwerp,Excel Mouscron,1,1,0.5
+2020-2021,Regular season,1,2020-08-08,Standard Liège,Cercle Brugge,1,0,1.0
+2020-2021,Regular season,1,2020-08-09,Sint-Truiden,Gent,2,1,1.0
+2020-2021,Regular season,1,2020-08-09,Zulte Waregem,Genk,1,2,0.0
+2020-2021,Regular season,1,2020-08-09,Mechelen,Anderlecht,2,2,0.5
+2020-2021,Regular season,1,2020-08-09,Kortrijk,Waasland-Bev,1,3,0.0
+2020-2021,Regular season,1,2020-08-10,Oostende,Beerschot,1,2,0.0
+2020-2021,Regular season,1,2020-08-10,OH Leuven,Eupen,1,1,0.5
+2020-2021,Regular season,2,2020-08-14,Excel Mouscron,Mechelen,0,1,0.0
+2020-2021,Regular season,2,2020-08-15,Genk,OH Leuven,1,1,0.5
+2020-2021,Regular season,2,2020-08-15,Charleroi,Oostende,1,0,1.0
+2020-2021,Regular season,2,2020-08-15,Gent,Kortrijk,1,2,0.0
+2020-2021,Regular season,2,2020-08-16,Cercle Brugge,Antwerp,2,1,1.0
+2020-2021,Regular season,2,2020-08-16,Eupen,Club Brugge,0,4,0.0
+2020-2021,Regular season,2,2020-08-16,Beerschot,Zulte Waregem,3,1,1.0
+2020-2021,Regular season,2,2020-08-16,Anderlecht,Sint-Truiden,3,1,1.0
+2020-2021,Regular season,2,2020-08-17,Waasland-Bev,Standard Liège,1,2,0.0
+2020-2021,Regular season,3,2020-08-21,Kortrijk,Eupen,0,0,0.5
+2020-2021,Regular season,3,2020-08-22,Zulte Waregem,Waasland-Bev,4,1,1.0
+2020-2021,Regular season,3,2020-08-22,Mechelen,Cercle Brugge,2,3,0.0
+2020-2021,Regular season,3,2020-08-22,OH Leuven,Charleroi,1,3,0.0
+2020-2021,Regular season,3,2020-08-22,Antwerp,Gent,1,0,1.0
+2020-2021,Regular season,3,2020-08-23,Standard Liège,Genk,0,0,0.5
+2020-2021,Regular season,3,2020-08-23,Club Brugge,Beerschot,0,1,0.0
+2020-2021,Regular season,3,2020-08-23,Anderlecht,Excel Mouscron,1,1,0.5
+2020-2021,Regular season,3,2020-08-24,Sint-Truiden,Oostende,0,0,0.5
+2020-2021,Regular season,4,2020-08-28,Oostende,Anderlecht,2,2,0.5
+2020-2021,Regular season,4,2020-08-29,Eupen,Sint-Truiden,1,1,0.5
+2020-2021,Regular season,4,2020-08-29,Waasland-Bev,OH Leuven,1,3,0.0
+2020-2021,Regular season,4,2020-08-29,Cercle Brugge,Kortrijk,0,1,0.0
+2020-2021,Regular season,4,2020-08-29,Excel Mouscron,Zulte Waregem,0,1,0.0
+2020-2021,Regular season,4,2020-08-30,Genk,Club Brugge,1,2,0.0
+2020-2021,Regular season,4,2020-08-30,Beerschot,Standard Liège,0,3,0.0
+2020-2021,Regular season,4,2020-08-30,Charleroi,Antwerp,2,0,1.0
+2020-2021,Regular season,4,2020-08-30,Gent,Mechelen,1,0,1.0
+2020-2021,Regular season,5,2020-09-11,Eupen,Gent,2,1,1.0
+2020-2021,Regular season,5,2020-09-12,Mechelen,Oostende,0,1,0.0
+2020-2021,Regular season,5,2020-09-12,OH Leuven,Standard Liège,1,0,1.0
+2020-2021,Regular season,5,2020-09-12,Club Brugge,Waasland-Bev,4,1,1.0
+2020-2021,Regular season,5,2020-09-13,Anderlecht,Cercle Brugge,2,0,1.0
+2020-2021,Regular season,5,2020-09-13,Sint-Truiden,Antwerp,2,3,0.0
+2020-2021,Regular season,5,2020-09-13,Zulte Waregem,Charleroi,0,2,0.0
+2020-2021,Regular season,5,2020-09-13,Kortrijk,Excel Mouscron,3,0,1.0
+2020-2021,Regular season,5,2020-09-14,Beerschot,Genk,5,2,1.0
+2020-2021,Regular season,6,2020-09-18,Charleroi,Beerschot,3,1,1.0
+2020-2021,Regular season,6,2020-09-19,Oostende,OH Leuven,3,1,1.0
+2020-2021,Regular season,6,2020-09-19,Excel Mouscron,Gent,0,1,0.0
+2020-2021,Regular season,6,2020-09-19,Waasland-Bev,Anderlecht,2,4,0.0
+2020-2021,Regular season,6,2020-09-20,Zulte Waregem,Club Brugge,0,6,0.0
+2020-2021,Regular season,6,2020-09-20,Standard Liège,Kortrijk,2,1,1.0
+2020-2021,Regular season,6,2020-09-20,Genk,Mechelen,3,1,1.0
+2020-2021,Regular season,6,2020-09-20,Antwerp,Eupen,2,2,0.5
+2020-2021,Regular season,6,2020-09-21,Cercle Brugge,Sint-Truiden,3,0,1.0
+2020-2021,Regular season,7,2020-09-25,Kortrijk,Antwerp,1,3,0.0
+2020-2021,Regular season,7,2020-09-26,Beerschot,Waasland-Bev,3,2,1.0
+2020-2021,Regular season,7,2020-09-26,Mechelen,Sint-Truiden,2,0,1.0
+2020-2021,Regular season,7,2020-09-26,Gent,OH Leuven,2,3,0.0
+2020-2021,Regular season,7,2020-09-27,Standard Liège,Zulte Waregem,2,2,0.5
+2020-2021,Regular season,7,2020-09-27,Anderlecht,Eupen,1,1,0.5
+2020-2021,Regular season,7,2020-09-27,Club Brugge,Cercle Brugge,2,1,1.0
+2020-2021,Regular season,7,2020-09-27,Excel Mouscron,Charleroi,1,1,0.5
+2020-2021,Regular season,7,2020-09-28,Genk,Oostende,2,2,0.5
+2020-2021,Regular season,8,2020-10-02,Antwerp,Mechelen,4,1,1.0
+2020-2021,Regular season,8,2020-10-03,Waasland-Bev,Genk,1,1,0.5
+2020-2021,Regular season,8,2020-10-03,OH Leuven,Zulte Waregem,2,1,1.0
+2020-2021,Regular season,8,2020-10-03,Eupen,Cercle Brugge,1,2,0.0
+2020-2021,Regular season,8,2020-10-03,Sint-Truiden,Kortrijk,0,0,0.5
+2020-2021,Regular season,8,2020-10-04,Club Brugge,Anderlecht,3,0,1.0
+2020-2021,Regular season,8,2020-10-04,Gent,Beerschot,5,1,1.0
+2020-2021,Regular season,8,2020-10-04,Charleroi,Standard Liège,1,2,0.0
+2020-2021,Regular season,8,2020-10-04,Oostende,Excel Mouscron,3,0,1.0
+2020-2021,Regular season,9,2020-10-17,Cercle Brugge,Gent,5,2,1.0
+2020-2021,Regular season,9,2020-10-17,Beerschot,Sint-Truiden,6,3,1.0
+2020-2021,Regular season,9,2020-10-17,Mechelen,Kortrijk,1,2,0.0
+2020-2021,Regular season,9,2020-10-17,Standard Liège,Club Brugge,1,1,0.5
+2020-2021,Regular season,9,2020-10-18,Zulte Waregem,Antwerp,1,3,0.0
+2020-2021,Regular season,9,2020-10-18,Excel Mouscron,Eupen,0,2,0.0
+2020-2021,Regular season,9,2020-10-18,Genk,Charleroi,2,1,1.0
+2020-2021,Regular season,9,2020-10-18,Anderlecht,OH Leuven,2,2,0.5
+2020-2021,Regular season,10,2020-10-23,Kortrijk,Anderlecht,1,3,0.0
+2020-2021,Regular season,10,2020-10-24,OH Leuven,Club Brugge,2,1,1.0
+2020-2021,Regular season,10,2020-10-25,Antwerp,Beerschot,3,2,1.0
+2020-2021,Regular season,10,2020-10-25,Oostende,Zulte Waregem,3,0,1.0
+2020-2021,Regular season,10,2020-10-25,Sint-Truiden,Standard Liège,2,0,1.0
+2020-2021,Regular season,10,2020-10-26,Gent,Genk,1,2,0.0
+2020-2021,Regular season,11,2020-10-30,Genk,Eupen,4,0,1.0
+2020-2021,Regular season,11,2020-10-31,Beerschot,OH Leuven,4,2,1.0
+2020-2021,Regular season,11,2020-10-31,Charleroi,Cercle Brugge,3,0,1.0
+2020-2021,Regular season,11,2020-10-31,Club Brugge,Mechelen,2,2,0.5
+2020-2021,Regular season,11,2020-11-01,Anderlecht,Antwerp,1,0,1.0
+2020-2021,Regular season,11,2020-11-01,Standard Liège,Oostende,1,0,1.0
+2020-2021,Regular season,11,2020-11-01,Waasland-Bev,Gent,1,4,0.0
+2020-2021,Regular season,11,2020-11-02,Zulte Waregem,Kortrijk,1,1,0.5
+2020-2021,Regular season,12,2020-11-06,Mechelen,Charleroi,3,3,0.5
+2020-2021,Regular season,12,2020-11-07,Kortrijk,Beerschot,5,5,0.5
+2020-2021,Regular season,12,2020-11-07,Eupen,Waasland-Bev,1,1,0.5
+2020-2021,Regular season,12,2020-11-07,Sint-Truiden,Genk,1,2,0.0
+2020-2021,Regular season,12,2020-11-08,Antwerp,Standard Liège,1,1,0.5
+2020-2021,Regular season,12,2020-11-08,Oostende,Club Brugge,1,3,0.0
+2020-2021,Regular season,12,2020-11-08,Gent,Anderlecht,1,1,0.5
+2020-2021,Regular season,12,2020-11-08,Cercle Brugge,Zulte Waregem,1,3,0.0
+2020-2021,Regular season,13,2020-11-21,Standard Liège,Eupen,2,2,0.5
+2020-2021,Regular season,13,2020-11-21,Waasland-Bev,Cercle Brugge,0,2,0.0
+2020-2021,Regular season,13,2020-11-21,Oostende,Antwerp,1,1,0.5
+2020-2021,Regular season,13,2020-11-21,Club Brugge,Kortrijk,1,0,1.0
+2020-2021,Regular season,13,2020-11-22,Beerschot,Anderlecht,2,1,1.0
+2020-2021,Regular season,13,2020-11-22,Zulte Waregem,Mechelen,1,2,0.0
+2020-2021,Regular season,13,2020-11-22,Charleroi,Gent,0,1,0.0
+2020-2021,Regular season,13,2020-11-22,Genk,Excel Mouscron,4,1,1.0
+2020-2021,Regular season,13,2020-11-23,OH Leuven,Sint-Truiden,2,2,0.5
+2020-2021,Regular season,9,2020-11-24,Waasland-Bev,Oostende,2,0,1.0
+2020-2021,Regular season,10,2020-11-25,Cercle Brugge,Excel Mouscron,1,2,0.0
+2020-2021,Regular season,14,2020-11-27,Eupen,Charleroi,3,1,1.0
+2020-2021,Regular season,14,2020-11-28,Sint-Truiden,Waasland-Bev,1,1,0.5
+2020-2021,Regular season,14,2020-11-28,Cercle Brugge,Genk,1,5,0.0
+2020-2021,Regular season,14,2020-11-28,Excel Mouscron,Club Brugge,0,0,0.5
+2020-2021,Regular season,14,2020-11-29,Mechelen,Beerschot,2,3,0.0
+2020-2021,Regular season,14,2020-11-29,Gent,Zulte Waregem,0,3,0.0
+2020-2021,Regular season,14,2020-11-29,Anderlecht,Standard Liège,0,0,0.5
+2020-2021,Regular season,14,2020-11-29,Kortrijk,Oostende,3,1,1.0
+2020-2021,Regular season,14,2020-11-30,Antwerp,OH Leuven,3,2,1.0
+2020-2021,Regular season,11,2020-12-01,Excel Mouscron,Sint-Truiden,3,2,1.0
+2020-2021,Regular season,10,2020-12-02,Charleroi,Waasland-Bev,0,2,0.0
+2020-2021,Regular season,10,2020-12-03,Eupen,Mechelen,1,1,0.5
+2020-2021,Regular season,15,2020-12-04,Zulte Waregem,Anderlecht,2,2,0.5
+2020-2021,Regular season,15,2020-12-05,Waasland-Bev,Excel Mouscron,2,0,1.0
+2020-2021,Regular season,15,2020-12-05,OH Leuven,Cercle Brugge,2,1,1.0
+2020-2021,Regular season,15,2020-12-05,Club Brugge,Sint-Truiden,1,0,1.0
+2020-2021,Regular season,15,2020-12-06,Genk,Antwerp,4,2,1.0
+2020-2021,Regular season,15,2020-12-06,Beerschot,Eupen,0,1,0.0
+2020-2021,Regular season,15,2020-12-06,Standard Liège,Mechelen,2,2,0.5
+2020-2021,Regular season,15,2020-12-06,Oostende,Gent,2,1,1.0
+2020-2021,Regular season,15,2020-12-07,Charleroi,Kortrijk,0,0,0.5
+2020-2021,Regular season,12,2020-12-08,OH Leuven,Excel Mouscron,2,0,1.0
+2020-2021,Regular season,16,2020-12-11,Anderlecht,Genk,1,0,1.0
+2020-2021,Regular season,16,2020-12-12,Excel Mouscron,Beerschot,3,1,1.0
+2020-2021,Regular season,16,2020-12-12,Kortrijk,OH Leuven,0,3,0.0
+2020-2021,Regular season,16,2020-12-12,Cercle Brugge,Oostende,0,1,0.0
+2020-2021,Regular season,16,2020-12-12,Sint-Truiden,Charleroi,1,2,0.0
+2020-2021,Regular season,16,2020-12-13,Antwerp,Club Brugge,0,2,0.0
+2020-2021,Regular season,16,2020-12-13,Gent,Standard Liège,2,1,1.0
+2020-2021,Regular season,16,2020-12-13,Mechelen,Waasland-Bev,2,3,0.0
+2020-2021,Regular season,18,2020-12-15,Excel Mouscron,OH Leuven,2,2,0.5
+2020-2021,Regular season,18,2020-12-15,Cercle Brugge,Charleroi,3,4,0.0
+2020-2021,Regular season,18,2020-12-15,Anderlecht,Oostende,2,1,1.0
+2020-2021,Regular season,18,2020-12-16,Antwerp,Zulte Waregem,0,1,0.0
+2020-2021,Regular season,18,2020-12-16,Gent,Waasland-Bev,3,0,1.0
+2020-2021,Regular season,18,2020-12-16,Kortrijk,Standard Liège,2,1,1.0
+2020-2021,Regular season,18,2020-12-17,Mechelen,Club Brugge,0,3,0.0
+2020-2021,Regular season,17,2020-12-18,Charleroi,Anderlecht,1,0,1.0
+2020-2021,Regular season,17,2020-12-19,Zulte Waregem,Sint-Truiden,0,2,0.0
+2020-2021,Regular season,17,2020-12-19,Genk,Kortrijk,2,0,1.0
+2020-2021,Regular season,17,2020-12-20,Club Brugge,Gent,0,1,0.0
+2020-2021,Regular season,17,2020-12-20,OH Leuven,Mechelen,1,2,0.0
+2020-2021,Regular season,17,2020-12-20,Standard Liège,Excel Mouscron,0,1,0.0
+2020-2021,Regular season,17,2020-12-20,Waasland-Bev,Antwerp,0,3,0.0
+2020-2021,Regular season,19,2020-12-26,Club Brugge,Eupen,3,0,1.0
+2020-2021,Regular season,19,2020-12-26,Zulte Waregem,Cercle Brugge,1,0,1.0
+2020-2021,Regular season,19,2020-12-26,OH Leuven,Oostende,1,2,0.0
+2020-2021,Regular season,19,2020-12-26,Kortrijk,Gent,1,0,1.0
+2020-2021,Regular season,19,2020-12-26,Standard Liège,Sint-Truiden,1,2,0.0
+2020-2021,Regular season,19,2020-12-27,Antwerp,Charleroi,2,1,1.0
+2020-2021,Regular season,19,2020-12-27,Genk,Waasland-Bev,1,1,0.5
+2020-2021,Regular season,19,2020-12-27,Anderlecht,Beerschot,2,0,1.0
+2020-2021,Regular season,19,2020-12-27,Mechelen,Excel Mouscron,2,1,1.0
+2020-2021,Regular season,16,2020-12-29,Eupen,Zulte Waregem,2,3,0.0
+2020-2021,Regular season,18,2020-12-30,Sint-Truiden,Beerschot,1,0,1.0
+2020-2021,Regular season,18,2021-01-06,Eupen,Genk,1,4,0.0
+2020-2021,Regular season,30,2021-01-09,Zulte Waregem,Excel Mouscron,1,0,1.0
+2020-2021,Regular season,30,2021-01-09,Kortrijk,Genk,2,1,1.0
+2020-2021,Regular season,30,2021-01-09,Cercle Brugge,Eupen,1,2,0.0
+2020-2021,Regular season,30,2021-01-09,Oostende,Charleroi,3,2,1.0
+2020-2021,Regular season,30,2021-01-10,Mechelen,Antwerp,3,0,1.0
+2020-2021,Regular season,30,2021-01-10,Beerschot,Gent,1,1,0.5
+2020-2021,Regular season,30,2021-01-10,OH Leuven,Anderlecht,1,0,1.0
+2020-2021,Regular season,30,2021-01-10,Sint-Truiden,Club Brugge,1,2,0.0
+2020-2021,Regular season,30,2021-01-11,Standard Liège,Waasland-Bev,3,1,1.0
+2020-2021,Regular season,17,2021-01-12,Oostende,Eupen,1,1,0.5
+2020-2021,Regular season,17,2021-01-13,Beerschot,Cercle Brugge,1,1,0.5
+2020-2021,Regular season,20,2021-01-15,Eupen,Anderlecht,2,0,1.0
+2020-2021,Regular season,20,2021-01-16,Oostende,Kortrijk,2,1,1.0
+2020-2021,Regular season,20,2021-01-16,Waasland-Bev,Zulte Waregem,1,5,0.0
+2020-2021,Regular season,20,2021-01-16,Excel Mouscron,Genk,2,0,1.0
+2020-2021,Regular season,20,2021-01-16,Charleroi,Mechelen,0,1,0.0
+2020-2021,Regular season,20,2021-01-17,Gent,Antwerp,0,1,0.0
+2020-2021,Regular season,20,2021-01-17,Cercle Brugge,Standard Liège,0,1,0.0
+2020-2021,Regular season,20,2021-01-17,Beerschot,Club Brugge,0,3,0.0
+2020-2021,Regular season,20,2021-01-17,Sint-Truiden,OH Leuven,3,1,1.0
+2020-2021,Regular season,25,2021-01-19,Excel Mouscron,Waasland-Bev,1,1,0.5
+2020-2021,Regular season,25,2021-01-19,Anderlecht,Charleroi,3,0,1.0
+2020-2021,Regular season,25,2021-01-20,Kortrijk,Sint-Truiden,0,2,0.0
+2020-2021,Regular season,25,2021-01-20,Eupen,Beerschot,3,1,1.0
+2020-2021,Regular season,25,2021-01-20,Mechelen,Standard Liège,0,4,0.0
+2020-2021,Regular season,25,2021-01-20,Club Brugge,Oostende,2,1,1.0
+2020-2021,Regular season,25,2021-01-20,Antwerp,Cercle Brugge,1,0,1.0
+2020-2021,Regular season,25,2021-01-21,Zulte Waregem,OH Leuven,2,3,0.0
+2020-2021,Regular season,25,2021-01-21,Genk,Gent,1,1,0.5
+2020-2021,Regular season,21,2021-01-22,Anderlecht,Waasland-Bev,0,0,0.5
+2020-2021,Regular season,21,2021-01-23,Mechelen,Eupen,3,0,1.0
+2020-2021,Regular season,21,2021-01-23,Sint-Truiden,Excel Mouscron,0,2,0.0
+2020-2021,Regular season,21,2021-01-23,Kortrijk,Cercle Brugge,1,2,0.0
+2020-2021,Regular season,21,2021-01-23,Antwerp,Oostende,1,2,0.0
+2020-2021,Regular season,21,2021-01-24,Club Brugge,Genk,3,2,1.0
+2020-2021,Regular season,21,2021-01-24,Zulte Waregem,Beerschot,0,3,0.0
+2020-2021,Regular season,21,2021-01-24,Standard Liège,Charleroi,3,2,1.0
+2020-2021,Regular season,21,2021-01-24,OH Leuven,Gent,0,3,0.0
+2020-2021,Regular season,22,2021-01-26,Eupen,Antwerp,0,2,0.0
+2020-2021,Regular season,22,2021-01-26,Waasland-Bev,Mechelen,2,3,0.0
+2020-2021,Regular season,22,2021-01-26,Excel Mouscron,Anderlecht,1,1,0.5
+2020-2021,Regular season,22,2021-01-27,Beerschot,Kortrijk,0,0,0.5
+2020-2021,Regular season,22,2021-01-27,Genk,Zulte Waregem,3,2,1.0
+2020-2021,Regular season,22,2021-01-27,Gent,Sint-Truiden,1,1,0.5
+2020-2021,Regular season,22,2021-01-27,Charleroi,OH Leuven,1,1,0.5
+2020-2021,Regular season,22,2021-01-28,Cercle Brugge,Club Brugge,1,2,0.0
+2020-2021,Regular season,22,2021-01-28,Oostende,Standard Liège,2,2,0.5
+2020-2021,Regular season,23,2021-01-29,Antwerp,Waasland-Bev,3,2,1.0
+2020-2021,Regular season,23,2021-01-30,Mechelen,Genk,0,0,0.5
+2020-2021,Regular season,23,2021-01-30,OH Leuven,Beerschot,0,1,0.0
+2020-2021,Regular season,23,2021-01-30,Eupen,Excel Mouscron,1,1,0.5
+2020-2021,Regular season,23,2021-01-30,Kortrijk,Charleroi,1,3,0.0
+2020-2021,Regular season,23,2021-01-31,Club Brugge,Standard Liège,3,1,1.0
+2020-2021,Regular season,23,2021-01-31,Zulte Waregem,Oostende,2,1,1.0
+2020-2021,Regular season,23,2021-01-31,Anderlecht,Gent,0,0,0.5
+2020-2021,Regular season,23,2021-01-31,Sint-Truiden,Cercle Brugge,3,0,1.0
+2020-2021,Regular season,24,2021-02-05,Excel Mouscron,Kortrijk,0,3,0.0
+2020-2021,Regular season,24,2021-02-06,Oostende,Sint-Truiden,3,1,1.0
+2020-2021,Regular season,24,2021-02-06,Waasland-Bev,Club Brugge,0,2,0.0
+2020-2021,Regular season,24,2021-02-06,Cercle Brugge,Mechelen,0,1,0.0
+2020-2021,Regular season,24,2021-02-06,Standard Liège,OH Leuven,1,1,0.5
+2020-2021,Regular season,24,2021-02-07,Beerschot,Antwerp,1,2,0.0
+2020-2021,Regular season,24,2021-02-07,Charleroi,Zulte Waregem,1,1,0.5
+2020-2021,Regular season,24,2021-02-07,Genk,Anderlecht,1,2,0.0
+2020-2021,Regular season,24,2021-02-07,Gent,Eupen,2,2,0.5
+2020-2021,Regular season,26,2021-02-12,OH Leuven,Kortrijk,3,1,1.0
+2020-2021,Regular season,26,2021-02-13,Sint-Truiden,Zulte Waregem,1,2,0.0
+2020-2021,Regular season,26,2021-02-14,Standard Liège,Antwerp,1,1,0.5
+2020-2021,Regular season,26,2021-02-14,Beerschot,Mechelen,1,2,0.0
+2020-2021,Regular season,26,2021-02-14,Cercle Brugge,Anderlecht,0,0,0.5
+2020-2021,Regular season,26,2021-02-15,Gent,Excel Mouscron,4,0,1.0
+2020-2021,Regular season,26,2021-02-17,Waasland-Bev,Eupen,1,0,1.0
+2020-2021,Regular season,26,2021-02-17,Oostende,Genk,3,1,1.0
+2020-2021,Regular season,27,2021-02-19,Mechelen,Gent,1,1,0.5
+2020-2021,Regular season,27,2021-02-20,Eupen,Oostende,1,1,0.5
+2020-2021,Regular season,27,2021-02-20,Excel Mouscron,Cercle Brugge,1,2,0.0
+2020-2021,Regular season,27,2021-02-20,Waasland-Bev,Charleroi,1,1,0.5
+2020-2021,Regular season,27,2021-02-21,Anderlecht,Kortrijk,0,2,0.0
+2020-2021,Regular season,27,2021-02-21,Zulte Waregem,Standard Liège,3,2,1.0
+2020-2021,Regular season,27,2021-02-21,Genk,Beerschot,1,2,0.0
+2020-2021,Regular season,27,2021-02-21,Antwerp,Sint-Truiden,0,0,0.5
+2020-2021,Regular season,27,2021-02-22,Club Brugge,OH Leuven,3,0,1.0
+2020-2021,Regular season,28,2021-02-26,Charleroi,Genk,1,2,0.0
+2020-2021,Regular season,28,2021-02-27,Cercle Brugge,Waasland-Bev,2,0,1.0
+2020-2021,Regular season,28,2021-02-27,Oostende,Mechelen,2,0,1.0
+2020-2021,Regular season,28,2021-02-27,Kortrijk,Zulte Waregem,1,2,0.0
+2020-2021,Regular season,28,2021-02-28,Standard Liège,Anderlecht,1,3,0.0
+2020-2021,Regular season,28,2021-02-28,Beerschot,Excel Mouscron,2,2,0.5
+2020-2021,Regular season,28,2021-02-28,Sint-Truiden,Eupen,0,2,0.0
+2020-2021,Regular season,28,2021-03-01,OH Leuven,Antwerp,2,0,1.0
+2020-2021,Regular season,29,2021-03-05,Charleroi,Sint-Truiden,0,0,0.5
+2020-2021,Regular season,29,2021-03-06,Eupen,OH Leuven,3,3,0.5
+2020-2021,Regular season,29,2021-03-06,Waasland-Bev,Beerschot,1,2,0.0
+2020-2021,Regular season,29,2021-03-06,Antwerp,Kortrijk,4,2,1.0
+2020-2021,Regular season,29,2021-03-07,Excel Mouscron,Standard Liège,1,0,1.0
+2020-2021,Regular season,29,2021-03-07,Club Brugge,Zulte Waregem,3,0,1.0
+2020-2021,Regular season,29,2021-03-07,Anderlecht,Mechelen,1,1,0.5
+2020-2021,Regular season,29,2021-03-07,Genk,Cercle Brugge,2,0,1.0
+2020-2021,Regular season,29,2021-03-08,Gent,Oostende,1,0,1.0
+2020-2021,Regular season,26,2021-03-12,Charleroi,Club Brugge,1,1,0.5
+2020-2021,Regular season,28,2021-03-15,Gent,Club Brugge,0,4,0.0
+2020-2021,Regular season,31,2021-03-19,Genk,Standard Liège,2,2,0.5
+2020-2021,Regular season,31,2021-03-20,Excel Mouscron,Oostende,0,1,0.0
+2020-2021,Regular season,31,2021-03-20,Eupen,Kortrijk,2,0,1.0
+2020-2021,Regular season,31,2021-03-21,Club Brugge,Antwerp,0,2,0.0
+2020-2021,Regular season,31,2021-03-21,Mechelen,OH Leuven,2,2,0.5
+2020-2021,Regular season,31,2021-03-21,Anderlecht,Zulte Waregem,4,1,1.0
+2020-2021,Regular season,31,2021-03-21,Gent,Cercle Brugge,1,0,1.0
+2020-2021,Regular season,32,2021-04-03,Oostende,Waasland-Bev,0,2,0.0
+2020-2021,Regular season,32,2021-04-03,Sint-Truiden,Mechelen,2,1,1.0
+2020-2021,Regular season,32,2021-04-03,Kortrijk,Club Brugge,1,2,0.0
+2020-2021,Regular season,32,2021-04-04,Cercle Brugge,Beerschot,2,1,1.0
+2020-2021,Regular season,32,2021-04-04,Standard Liège,Gent,2,1,1.0
+2020-2021,Regular season,32,2021-04-04,Charleroi,Excel Mouscron,1,1,0.5
+2020-2021,Regular season,32,2021-04-05,OH Leuven,Genk,2,3,0.0
+2020-2021,Regular season,32,2021-04-05,Zulte Waregem,Eupen,2,1,1.0
+2020-2021,Regular season,32,2021-04-05,Antwerp,Anderlecht,1,4,0.0
+2020-2021,Regular season,31,2021-04-06,Waasland-Bev,Sint-Truiden,2,4,0.0
+2020-2021,Regular season,31,2021-04-07,Beerschot,Charleroi,2,1,1.0
+2020-2021,Regular season,33,2021-04-09,Eupen,Standard Liège,0,4,0.0
+2020-2021,Regular season,33,2021-04-10,Cercle Brugge,OH Leuven,3,0,1.0
+2020-2021,Regular season,33,2021-04-10,Mechelen,Zulte Waregem,4,2,1.0
+2020-2021,Regular season,33,2021-04-10,Gent,Charleroi,4,0,1.0
+2020-2021,Regular season,33,2021-04-11,Genk,Sint-Truiden,4,0,1.0
+2020-2021,Regular season,33,2021-04-11,Waasland-Bev,Kortrijk,3,4,0.0
+2020-2021,Regular season,33,2021-04-11,Anderlecht,Club Brugge,2,1,1.0
+2020-2021,Regular season,33,2021-04-11,Beerschot,Oostende,1,2,0.0
+2020-2021,Regular season,33,2021-04-12,Excel Mouscron,Antwerp,2,3,0.0
+2020-2021,Regular season,34,2021-04-17,Charleroi,Eupen,2,3,0.0
+2020-2021,Regular season,34,2021-04-17,Antwerp,Genk,3,2,1.0
+2020-2021,Regular season,34,2021-04-18,Sint-Truiden,Anderlecht,0,1,0.0
+2020-2021,Regular season,34,2021-04-18,OH Leuven,Waasland-Bev,1,2,0.0
+2020-2021,Regular season,34,2021-04-18,Standard Liège,Beerschot,3,0,1.0
+2020-2021,Regular season,34,2021-04-18,Kortrijk,Mechelen,1,4,0.0
+2020-2021,Regular season,34,2021-04-18,Zulte Waregem,Gent,2,7,0.0
+2020-2021,Regular season,34,2021-04-18,Club Brugge,Excel Mouscron,4,2,1.0
+2020-2021,Regular season,34,2021-04-18,Oostende,Cercle Brugge,1,1,0.5
+2020-2021,Play-off I,1,2021-04-30,Antwerp,Genk,2,3,0.0
+2020-2021,Belgian 1/2 Relegation/Promotion Playoff,,2021-05-01,R.F.C. Seraing,Waasland-Bev,1,1,0.5
+2020-2021,Play-off II,1,2021-05-01,Oostende,Standard Liège,6,2,1.0
+2020-2021,Play-off II,1,2021-05-02,Gent,Mechelen,2,2,0.5
+2020-2021,Play-off I,1,2021-05-02,Club Brugge,Anderlecht,2,2,0.5
+2020-2021,Play-off I,2,2021-05-07,Genk,Club Brugge,3,0,1.0
+2020-2021,Play-off II,2,2021-05-08,Standard Liège,Gent,2,1,1.0
+2020-2021,Belgian 1/2 Relegation/Promotion Playoff,,2021-05-08,Waasland-Bev,R.F.C. Seraing,2,5,0.0
+2020-2021,Play-off I,2,2021-05-08,Anderlecht,Antwerp,2,2,0.5
+2020-2021,Play-off II,2,2021-05-09,Mechelen,Oostende,5,3,1.0
+2020-2021,Play-off I,3,2021-05-12,Genk,Anderlecht,1,1,0.5
+2020-2021,Play-off II,3,2021-05-13,Gent,Oostende,2,1,1.0
+2020-2021,Play-off II,3,2021-05-13,Standard Liège,Mechelen,1,2,0.0
+2020-2021,Play-off I,3,2021-05-13,Antwerp,Club Brugge,0,0,0.5
+2020-2021,Play-off I,4,2021-05-15,Anderlecht,Genk,1,2,0.0
+2020-2021,Play-off II,4,2021-05-16,Oostende,Gent,0,4,0.0
+2020-2021,Play-off II,4,2021-05-16,Mechelen,Standard Liège,3,1,1.0
+2020-2021,Play-off I,4,2021-05-16,Club Brugge,Antwerp,2,1,1.0
+2020-2021,Play-off II,5,2021-05-19,Oostende,Mechelen,2,2,0.5
+2020-2021,Play-off II,5,2021-05-19,Gent,Standard Liège,2,0,1.0
+2020-2021,Play-off I,5,2021-05-20,Genk,Antwerp,4,0,1.0
+2020-2021,Play-off I,5,2021-05-20,Anderlecht,Club Brugge,3,3,0.5
+2020-2021,Play-off II,6,2021-05-22,Standard Liège,Oostende,1,3,0.0
+2020-2021,Play-off II,6,2021-05-22,Mechelen,Gent,1,2,0.0
+2020-2021,Play-off I,6,2021-05-23,Antwerp,Anderlecht,1,0,1.0
+2020-2021,Play-off I,6,2021-05-23,Club Brugge,Genk,1,2,0.0

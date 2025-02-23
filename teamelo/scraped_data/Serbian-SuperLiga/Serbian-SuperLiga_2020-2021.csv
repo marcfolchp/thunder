@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,1,2020-07-31,Spartak Subotic,Zlatibor Čajetina,3,0,1.0
+2020-2021,1,2020-07-31,TSC Bačka Top,Vojvodina,2,2,0.5
+2020-2021,1,2020-07-31,Mladost Lučani,Javor Ivanjica,2,1,1.0
+2020-2021,1,2020-08-01,Napredak Kruš,Partizan,1,3,0.0
+2020-2021,1,2020-08-01,Proleter NS,Rad,2,0,1.0
+2020-2021,1,2020-08-01,Voždovac,Radnik Surdulica,1,3,0.0
+2020-2021,1,2020-08-01,Mačva Šabac,OFK Bačka,1,0,1.0
+2020-2021,1,2020-08-01,Radnički Niš,Metalac GM,3,0,1.0
+2020-2021,1,2020-08-01,Čukarički,Inđija,3,0,1.0
+2020-2021,1,2020-08-01,Red Star,Novi Pazar,3,0,1.0
+2020-2021,2,2020-08-05,Inđija,Voždovac,0,1,0.0
+2020-2021,2,2020-08-05,Novi Pazar,Partizan,3,2,1.0
+2020-2021,2,2020-08-05,Metalac GM,Mačva Šabac,2,1,1.0
+2020-2021,2,2020-08-05,Radnik Surdulica,Mladost Lučani,2,3,0.0
+2020-2021,2,2020-08-05,Rad,TSC Bačka Top,1,3,0.0
+2020-2021,2,2020-08-05,Zlatibor Čajetina,Proleter NS,0,2,0.0
+2020-2021,2,2020-08-05,OFK Bačka,Spartak Subotic,1,3,0.0
+2020-2021,2,2020-08-05,Red Star,Radnički Niš,3,0,1.0
+2020-2021,2,2020-08-05,Javor Ivanjica,Napredak Kruš,3,0,1.0
+2020-2021,2,2020-08-05,Vojvodina,Čukarički,2,2,0.5
+2020-2021,3,2020-08-09,Mačva Šabac,Red Star,0,3,0.0
+2020-2021,3,2020-08-09,Radnički Niš,Novi Pazar,2,1,1.0
+2020-2021,3,2020-08-09,Napredak Kruš,Radnik Surdulica,2,1,1.0
+2020-2021,3,2020-08-09,Mladost Lučani,Inđija,2,0,1.0
+2020-2021,3,2020-08-09,Spartak Subotic,Metalac GM,4,1,1.0
+2020-2021,3,2020-08-09,TSC Bačka Top,Zlatibor Čajetina,5,1,1.0
+2020-2021,3,2020-08-09,Proleter NS,OFK Bačka,1,1,0.5
+2020-2021,3,2020-08-09,Čukarički,Rad,3,0,1.0
+2020-2021,3,2020-08-09,Partizan,Javor Ivanjica,4,0,1.0
+2020-2021,3,2020-08-09,Voždovac,Vojvodina,1,3,0.0
+2020-2021,4,2020-08-14,Red Star,Spartak Subotic,3,2,1.0
+2020-2021,4,2020-08-15,Inđija,Napredak Kruš,1,0,1.0
+2020-2021,4,2020-08-15,Radnik Surdulica,Partizan,0,2,0.0
+2020-2021,4,2020-08-15,Radnički Niš,Mačva Šabac,1,0,1.0
+2020-2021,4,2020-08-15,Zlatibor Čajetina,Čukarički,1,5,0.0
+2020-2021,4,2020-08-15,Novi Pazar,Javor Ivanjica,2,3,0.0
+2020-2021,4,2020-08-16,OFK Bačka,TSC Bačka Top,1,1,0.5
+2020-2021,4,2020-08-16,Vojvodina,Mladost Lučani,3,0,1.0
+2020-2021,4,2020-08-16,Rad,Voždovac,1,3,0.0
+2020-2021,4,2020-08-16,Metalac GM,Proleter NS,1,1,0.5
+2020-2021,5,2020-08-21,Proleter NS,Red Star,0,1,0.0
+2020-2021,5,2020-08-21,TSC Bačka Top,Metalac GM,2,3,0.0
+2020-2021,5,2020-08-22,Čukarički,OFK Bačka,1,0,1.0
+2020-2021,5,2020-08-22,Javor Ivanjica,Radnik Surdulica,2,1,1.0
+2020-2021,5,2020-08-22,Spartak Subotic,Radnički Niš,2,0,1.0
+2020-2021,5,2020-08-22,Partizan,Inđija,5,0,1.0
+2020-2021,5,2020-08-23,Napredak Kruš,Vojvodina,0,1,0.0
+2020-2021,5,2020-08-23,Mladost Lučani,Rad,1,0,1.0
+2020-2021,5,2020-08-23,Mačva Šabac,Novi Pazar,1,1,0.5
+2020-2021,5,2020-08-23,Voždovac,Zlatibor Čajetina,1,1,0.5
+2020-2021,6,2020-08-28,Inđija,Javor Ivanjica,3,2,1.0
+2020-2021,6,2020-08-28,Metalac GM,Čukarički,0,0,0.5
+2020-2021,6,2020-08-29,Rad,Napredak Kruš,3,1,1.0
+2020-2021,6,2020-08-29,OFK Bačka,Voždovac,2,1,1.0
+2020-2021,6,2020-08-29,Novi Pazar,Radnik Surdulica,0,0,0.5
+2020-2021,6,2020-08-29,Zlatibor Čajetina,Mladost Lučani,1,0,1.0
+2020-2021,6,2020-08-29,Radnički Niš,Proleter NS,3,0,1.0
+2020-2021,6,2020-08-30,Vojvodina,Partizan,3,2,1.0
+2020-2021,6,2020-08-30,Mačva Šabac,Spartak Subotic,0,4,0.0
+2020-2021,6,2020-08-30,Red Star,TSC Bačka Top,5,0,1.0
+2020-2021,7,2020-09-11,Čukarički,Red Star,1,3,0.0
+2020-2021,7,2020-09-12,Voždovac,Metalac GM,4,0,1.0
+2020-2021,7,2020-09-12,Spartak Subotic,Novi Pazar,1,1,0.5
+2020-2021,7,2020-09-12,Radnik Surdulica,Inđija,0,2,0.0
+2020-2021,7,2020-09-12,TSC Bačka Top,Radnički Niš,1,3,0.0
+2020-2021,7,2020-09-12,Partizan,Rad,3,0,1.0
+2020-2021,7,2020-09-13,Napredak Kruš,Zlatibor Čajetina,1,1,0.5
+2020-2021,7,2020-09-13,Proleter NS,Mačva Šabac,0,0,0.5
+2020-2021,7,2020-09-13,Javor Ivanjica,Vojvodina,2,1,1.0
+2020-2021,7,2020-09-13,Mladost Lučani,OFK Bačka,2,1,1.0
+2020-2021,8,2020-09-18,Vojvodina,Radnik Surdulica,2,0,1.0
+2020-2021,8,2020-09-19,OFK Bačka,Napredak Kruš,0,0,0.5
+2020-2021,8,2020-09-19,Radnički Niš,Čukarički,0,0,0.5
+2020-2021,8,2020-09-19,Metalac GM,Mladost Lučani,1,1,0.5
+2020-2021,8,2020-09-20,Rad,Javor Ivanjica,1,0,1.0
+2020-2021,8,2020-09-20,Novi Pazar,Inđija,1,0,1.0
+2020-2021,8,2020-09-20,Spartak Subotic,Proleter NS,1,2,0.0
+2020-2021,8,2020-09-20,Zlatibor Čajetina,Partizan,0,1,0.0
+2020-2021,8,2020-09-20,Red Star,Voždovac,6,0,1.0
+2020-2021,8,2020-09-21,Mačva Šabac,TSC Bačka Top,1,4,0.0
+2020-2021,9,2020-09-25,Voždovac,Radnički Niš,5,0,1.0
+2020-2021,9,2020-09-26,Čukarički,Mačva Šabac,4,0,1.0
+2020-2021,9,2020-09-26,Javor Ivanjica,Zlatibor Čajetina,1,1,0.5
+2020-2021,9,2020-09-26,TSC Bačka Top,Spartak Subotic,3,0,1.0
+2020-2021,9,2020-09-26,Radnik Surdulica,Rad,4,2,1.0
+2020-2021,9,2020-09-26,Mladost Lučani,Red Star,0,4,0.0
+2020-2021,9,2020-09-27,Napredak Kruš,Metalac GM,1,2,0.0
+2020-2021,9,2020-09-27,Proleter NS,Novi Pazar,1,0,1.0
+2020-2021,9,2020-09-28,Inđija,Vojvodina,0,2,0.0
+2020-2021,9,2020-09-28,Partizan,OFK Bačka,2,1,1.0
+2020-2021,10,2020-10-02,Radnički Niš,Mladost Lučani,1,1,0.5
+2020-2021,10,2020-10-03,Novi Pazar,Vojvodina,3,1,1.0
+2020-2021,10,2020-10-03,OFK Bačka,Javor Ivanjica,2,2,0.5
+2020-2021,10,2020-10-03,Mačva Šabac,Voždovac,0,2,0.0
+2020-2021,10,2020-10-03,Spartak Subotic,Čukarički,4,2,1.0
+2020-2021,10,2020-10-03,Metalac GM,Partizan,1,1,0.5
+2020-2021,10,2020-10-04,Proleter NS,TSC Bačka Top,1,0,1.0
+2020-2021,10,2020-10-04,Rad,Inđija,2,1,1.0
+2020-2021,10,2020-10-04,Zlatibor Čajetina,Radnik Surdulica,1,4,0.0
+2020-2021,10,2020-10-04,Red Star,Napredak Kruš,3,0,1.0
+2020-2021,11,2020-10-16,Radnik Surdulica,OFK Bačka,1,0,1.0
+2020-2021,11,2020-10-16,Čukarički,Proleter NS,1,2,0.0
+2020-2021,11,2020-10-16,Vojvodina,Rad,4,1,1.0
+2020-2021,11,2020-10-16,TSC Bačka Top,Novi Pazar,7,0,1.0
+2020-2021,11,2020-10-17,Inđija,Zlatibor Čajetina,1,0,1.0
+2020-2021,11,2020-10-17,Mladost Lučani,Mačva Šabac,2,1,1.0
+2020-2021,11,2020-10-17,Javor Ivanjica,Metalac GM,1,3,0.0
+2020-2021,11,2020-10-17,Voždovac,Spartak Subotic,2,1,1.0
+2020-2021,11,2020-10-17,Napredak Kruš,Radnički Niš,0,0,0.5
+2020-2021,11,2020-10-18,Partizan,Red Star,1,1,0.5
+2020-2021,12,2020-10-25,OFK Bačka,Inđija,1,2,0.0
+2020-2021,12,2020-10-25,Novi Pazar,Rad,2,1,1.0
+2020-2021,12,2020-10-25,Zlatibor Čajetina,Vojvodina,0,2,0.0
+2020-2021,12,2020-10-25,Mačva Šabac,Napredak Kruš,1,2,0.0
+2020-2021,12,2020-10-25,Proleter NS,Voždovac,1,1,0.5
+2020-2021,12,2020-10-25,Red Star,Javor Ivanjica,0,0,0.5
+2020-2021,12,2020-10-26,Metalac GM,Radnik Surdulica,1,1,0.5
+2020-2021,12,2020-10-26,Spartak Subotic,Mladost Lučani,1,0,1.0
+2020-2021,12,2020-10-26,Radnički Niš,Partizan,1,0,1.0
+2020-2021,12,2020-10-26,TSC Bačka Top,Čukarički,0,0,0.5
+2020-2021,13,2020-10-30,Vojvodina,OFK Bačka,3,1,1.0
+2020-2021,13,2020-10-31,Inđija,Metalac GM,0,1,0.0
+2020-2021,13,2020-10-31,Rad,Zlatibor Čajetina,0,2,0.0
+2020-2021,13,2020-10-31,Čukarički,Novi Pazar,4,0,1.0
+2020-2021,13,2020-10-31,Voždovac,TSC Bačka Top,2,0,1.0
+2020-2021,13,2020-10-31,Partizan,Mačva Šabac,2,0,1.0
+2020-2021,13,2020-11-01,Mladost Lučani,Proleter NS,0,0,0.5
+2020-2021,13,2020-11-01,Napredak Kruš,Spartak Subotic,1,1,0.5
+2020-2021,13,2020-11-01,Javor Ivanjica,Radnički Niš,1,0,1.0
+2020-2021,13,2020-11-01,Radnik Surdulica,Red Star,1,4,0.0
+2020-2021,14,2020-11-06,Metalac GM,Vojvodina,3,3,0.5
+2020-2021,14,2020-11-07,OFK Bačka,Rad,0,1,0.0
+2020-2021,14,2020-11-07,Novi Pazar,Zlatibor Čajetina,1,2,0.0
+2020-2021,14,2020-11-07,Proleter NS,Napredak Kruš,1,0,1.0
+2020-2021,14,2020-11-07,Čukarički,Voždovac,3,2,1.0
+2020-2021,14,2020-11-07,Mačva Šabac,Javor Ivanjica,1,0,1.0
+2020-2021,14,2020-11-07,Radnički Niš,Radnik Surdulica,0,1,0.0
+2020-2021,14,2020-11-07,TSC Bačka Top,Mladost Lučani,5,0,1.0
+2020-2021,14,2020-11-07,Spartak Subotic,Partizan,1,2,0.0
+2020-2021,14,2020-11-08,Red Star,Inđija,3,2,1.0
+2020-2021,15,2020-11-20,Mladost Lučani,Čukarički,1,1,0.5
+2020-2021,15,2020-11-20,Javor Ivanjica,Spartak Subotic,1,3,0.0
+2020-2021,15,2020-11-20,Radnik Surdulica,Mačva Šabac,3,0,1.0
+2020-2021,15,2020-11-21,Inđija,Radnički Niš,1,0,1.0
+2020-2021,15,2020-11-21,Voždovac,Novi Pazar,1,1,0.5
+2020-2021,15,2020-11-21,Napredak Kruš,TSC Bačka Top,2,1,1.0
+2020-2021,15,2020-11-21,Partizan,Proleter NS,1,0,1.0
+2020-2021,15,2020-11-22,Zlatibor Čajetina,OFK Bačka,1,0,1.0
+2020-2021,15,2020-11-22,Vojvodina,Red Star,0,2,0.0
+2020-2021,16,2020-11-28,Mačva Šabac,Inđija,3,0,1.0
+2020-2021,16,2020-11-29,Novi Pazar,OFK Bačka,0,0,0.5
+2020-2021,16,2020-11-29,Voždovac,Mladost Lučani,3,2,1.0
+2020-2021,16,2020-11-29,Čukarički,Napredak Kruš,3,0,1.0
+2020-2021,16,2020-11-29,Metalac GM,Zlatibor Čajetina,2,0,1.0
+2020-2021,16,2020-11-29,TSC Bačka Top,Partizan,0,4,0.0
+2020-2021,16,2020-11-29,Red Star,Rad,3,0,1.0
+2020-2021,16,2020-11-30,Spartak Subotic,Radnik Surdulica,0,0,0.5
+2020-2021,16,2020-11-30,Radnički Niš,Vojvodina,0,1,0.0
+2020-2021,16,2020-11-30,Proleter NS,Javor Ivanjica,2,1,1.0
+2020-2021,15,2020-12-03,Rad,Metalac GM,1,1,0.5
+2020-2021,17,2020-12-04,Napredak Kruš,Voždovac,3,1,1.0
+2020-2021,17,2020-12-05,Vojvodina,Mačva Šabac,1,0,1.0
+2020-2021,17,2020-12-05,Partizan,Čukarički,1,0,1.0
+2020-2021,17,2020-12-06,Inđija,Spartak Subotic,3,4,0.0
+2020-2021,17,2020-12-06,Mladost Lučani,Novi Pazar,3,2,1.0
+2020-2021,17,2020-12-06,Radnik Surdulica,Proleter NS,2,0,1.0
+2020-2021,17,2020-12-06,Zlatibor Čajetina,Red Star,0,1,0.0
+2020-2021,17,2020-12-07,OFK Bačka,Metalac GM,3,1,1.0
+2020-2021,17,2020-12-07,Rad,Radnički Niš,0,1,0.0
+2020-2021,18,2020-12-11,Mladost Lučani,Napredak Kruš,0,0,0.5
+2020-2021,18,2020-12-11,Proleter NS,Inđija,1,0,1.0
+2020-2021,18,2020-12-11,TSC Bačka Top,Radnik Surdulica,1,3,0.0
+2020-2021,18,2020-12-11,Čukarički,Javor Ivanjica,3,0,1.0
+2020-2021,18,2020-12-12,Novi Pazar,Metalac GM,1,0,1.0
+2020-2021,18,2020-12-12,Mačva Šabac,Rad,0,1,0.0
+2020-2021,18,2020-12-12,Spartak Subotic,Vojvodina,0,1,0.0
+2020-2021,18,2020-12-12,Radnički Niš,Zlatibor Čajetina,2,1,1.0
+2020-2021,18,2020-12-12,Voždovac,Partizan,0,2,0.0
+2020-2021,18,2020-12-13,Red Star,OFK Bačka,2,0,1.0
+2020-2021,19,2020-12-16,OFK Bačka,Radnički Niš,1,2,0.0
+2020-2021,19,2020-12-16,Partizan,Mladost Lučani,4,0,1.0
+2020-2021,19,2020-12-16,Zlatibor Čajetina,Mačva Šabac,0,1,0.0
+2020-2021,19,2020-12-16,Rad,Spartak Subotic,0,1,0.0
+2020-2021,19,2020-12-16,Radnik Surdulica,Čukarički,0,1,0.0
+2020-2021,19,2020-12-16,Metalac GM,Red Star,0,1,0.0
+2020-2021,19,2020-12-16,Javor Ivanjica,Voždovac,3,1,1.0
+2020-2021,19,2020-12-16,Napredak Kruš,Novi Pazar,0,0,0.5
+2020-2021,19,2020-12-17,Inđija,TSC Bačka Top,0,3,0.0
+2020-2021,19,2020-12-17,Vojvodina,Proleter NS,2,0,1.0
+2020-2021,17,2020-12-20,Javor Ivanjica,TSC Bačka Top,1,2,0.0
+2020-2021,20,2021-02-05,Vojvodina,TSC Bačka Top,0,1,0.0
+2020-2021,20,2021-02-06,Inđija,Čukarički,0,1,0.0
+2020-2021,20,2021-02-06,Metalac GM,Radnički Niš,1,1,0.5
+2020-2021,20,2021-02-06,Radnik Surdulica,Voždovac,1,1,0.5
+2020-2021,20,2021-02-06,Zlatibor Čajetina,Spartak Subotic,1,1,0.5
+2020-2021,20,2021-02-06,Partizan,Napredak Kruš,3,0,1.0
+2020-2021,20,2021-02-07,Novi Pazar,Red Star,1,3,0.0
+2020-2021,20,2021-02-07,OFK Bačka,Mačva Šabac,2,0,1.0
+2020-2021,20,2021-02-07,Javor Ivanjica,Mladost Lučani,4,1,1.0
+2020-2021,20,2021-02-07,Rad,Proleter NS,1,0,1.0
+2020-2021,21,2021-02-12,TSC Bačka Top,Rad,0,0,0.5
+2020-2021,21,2021-02-12,Spartak Subotic,OFK Bačka,1,0,1.0
+2020-2021,21,2021-02-12,Proleter NS,Zlatibor Čajetina,2,2,0.5
+2020-2021,21,2021-02-12,Napredak Kruš,Javor Ivanjica,1,1,0.5
+2020-2021,21,2021-02-12,Partizan,Novi Pazar,4,1,1.0
+2020-2021,21,2021-02-12,Čukarički,Vojvodina,3,3,0.5
+2020-2021,21,2021-02-13,Voždovac,Inđija,1,1,0.5
+2020-2021,21,2021-02-13,Mačva Šabac,Metalac GM,2,1,1.0
+2020-2021,21,2021-02-13,Mladost Lučani,Radnik Surdulica,2,2,0.5
+2020-2021,21,2021-02-13,Radnički Niš,Red Star,0,1,0.0
+2020-2021,22,2021-02-16,Zlatibor Čajetina,TSC Bačka Top,0,1,0.0
+2020-2021,22,2021-02-16,Rad,Čukarički,0,2,0.0
+2020-2021,22,2021-02-17,Javor Ivanjica,Partizan,0,1,0.0
+2020-2021,22,2021-02-17,Inđija,Mladost Lučani,1,0,1.0
+2020-2021,22,2021-02-17,OFK Bačka,Proleter NS,0,2,0.0
+2020-2021,22,2021-02-17,Vojvodina,Voždovac,2,0,1.0
+2020-2021,22,2021-02-17,Novi Pazar,Radnički Niš,3,1,1.0
+2020-2021,22,2021-02-17,Radnik Surdulica,Napredak Kruš,2,1,1.0
+2020-2021,22,2021-02-17,Metalac GM,Spartak Subotic,3,0,1.0
+2020-2021,23,2021-02-20,Čukarički,Zlatibor Čajetina,2,0,1.0
+2020-2021,23,2021-02-21,Proleter NS,Metalac GM,1,2,0.0
+2020-2021,23,2021-02-21,Mladost Lučani,Vojvodina,1,1,0.5
+2020-2021,23,2021-02-21,Partizan,Radnik Surdulica,3,0,1.0
+2020-2021,23,2021-02-21,Napredak Kruš,Inđija,1,0,1.0
+2020-2021,23,2021-02-21,Spartak Subotic,Red Star,1,2,0.0
+2020-2021,23,2021-02-22,Javor Ivanjica,Novi Pazar,1,0,1.0
+2020-2021,23,2021-02-22,Voždovac,Rad,0,1,0.0
+2020-2021,23,2021-02-22,Mačva Šabac,Radnički Niš,0,2,0.0
+2020-2021,23,2021-02-22,TSC Bačka Top,OFK Bačka,3,0,1.0
+2020-2021,24,2021-02-26,Inđija,Partizan,0,6,0.0
+2020-2021,24,2021-02-26,Vojvodina,Napredak Kruš,1,0,1.0
+2020-2021,24,2021-02-27,Novi Pazar,Mačva Šabac,4,0,1.0
+2020-2021,24,2021-02-27,Radnik Surdulica,Javor Ivanjica,2,0,1.0
+2020-2021,24,2021-02-27,OFK Bačka,Čukarički,1,2,0.0
+2020-2021,24,2021-02-27,Radnički Niš,Spartak Subotic,0,1,0.0
+2020-2021,24,2021-02-27,Metalac GM,TSC Bačka Top,0,0,0.5
+2020-2021,24,2021-02-27,Zlatibor Čajetina,Voždovac,0,0,0.5
+2020-2021,24,2021-02-27,Rad,Mladost Lučani,0,1,0.0
+2020-2021,24,2021-02-28,Red Star,Proleter NS,4,0,1.0
+2020-2021,25,2021-03-02,Partizan,Vojvodina,2,0,1.0
+2020-2021,25,2021-03-03,Čukarički,Metalac GM,2,0,1.0
+2020-2021,25,2021-03-03,Mladost Lučani,Zlatibor Čajetina,0,2,0.0
+2020-2021,25,2021-03-03,Voždovac,OFK Bačka,2,1,1.0
+2020-2021,25,2021-03-03,Radnik Surdulica,Novi Pazar,4,1,1.0
+2020-2021,25,2021-03-03,Napredak Kruš,Rad,0,2,0.0
+2020-2021,25,2021-03-03,Javor Ivanjica,Inđija,1,1,0.5
+2020-2021,25,2021-03-03,Proleter NS,Radnički Niš,2,1,1.0
+2020-2021,25,2021-03-03,Spartak Subotic,Mačva Šabac,3,2,1.0
+2020-2021,25,2021-03-03,TSC Bačka Top,Red Star,1,3,0.0
+2020-2021,26,2021-03-07,Inđija,Radnik Surdulica,0,1,0.0
+2020-2021,26,2021-03-07,Radnički Niš,TSC Bačka Top,2,0,1.0
+2020-2021,26,2021-03-07,Vojvodina,Javor Ivanjica,2,0,1.0
+2020-2021,26,2021-03-07,Novi Pazar,Spartak Subotic,2,1,1.0
+2020-2021,26,2021-03-07,Mačva Šabac,Proleter NS,3,1,1.0
+2020-2021,26,2021-03-07,Metalac GM,Voždovac,2,1,1.0
+2020-2021,26,2021-03-07,Rad,Partizan,0,5,0.0
+2020-2021,26,2021-03-07,Red Star,Čukarički,2,0,1.0
+2020-2021,26,2021-03-08,OFK Bačka,Mladost Lučani,1,1,0.5
+2020-2021,26,2021-03-08,Zlatibor Čajetina,Napredak Kruš,1,2,0.0
+2020-2021,22,2021-03-11,Red Star,Mačva Šabac,4,0,1.0
+2020-2021,27,2021-03-13,Čukarički,Radnički Niš,0,0,0.5
+2020-2021,27,2021-03-14,Javor Ivanjica,Rad,1,1,0.5
+2020-2021,27,2021-03-14,Napredak Kruš,OFK Bačka,2,1,1.0
+2020-2021,27,2021-03-14,Mladost Lučani,Metalac GM,1,1,0.5
+2020-2021,27,2021-03-14,Inđija,Novi Pazar,1,0,1.0
+2020-2021,27,2021-03-15,TSC Bačka Top,Mačva Šabac,3,0,1.0
+2020-2021,27,2021-03-15,Radnik Surdulica,Vojvodina,2,2,0.5
+2020-2021,27,2021-03-15,Proleter NS,Spartak Subotic,2,0,1.0
+2020-2021,27,2021-03-15,Voždovac,Red Star,1,4,0.0
+2020-2021,27,2021-03-15,Partizan,Zlatibor Čajetina,5,1,1.0
+2020-2021,28,2021-03-19,Metalac GM,Napredak Kruš,2,2,0.5
+2020-2021,28,2021-03-20,Zlatibor Čajetina,Javor Ivanjica,0,2,0.0
+2020-2021,28,2021-03-20,OFK Bačka,Partizan,0,4,0.0
+2020-2021,28,2021-03-20,Spartak Subotic,TSC Bačka Top,2,2,0.5
+2020-2021,28,2021-03-20,Radnički Niš,Voždovac,0,1,0.0
+2020-2021,28,2021-03-20,Red Star,Mladost Lučani,4,1,1.0
+2020-2021,28,2021-03-21,Novi Pazar,Proleter NS,5,0,1.0
+2020-2021,28,2021-03-21,Mačva Šabac,Čukarički,1,2,0.0
+2020-2021,28,2021-03-21,Rad,Radnik Surdulica,2,0,1.0
+2020-2021,28,2021-03-21,Vojvodina,Inđija,2,1,1.0
+2020-2021,29,2021-04-02,TSC Bačka Top,Proleter NS,2,0,1.0
+2020-2021,29,2021-04-02,Mladost Lučani,Radnički Niš,4,1,1.0
+2020-2021,29,2021-04-02,Voždovac,Mačva Šabac,0,0,0.5
+2020-2021,29,2021-04-02,Vojvodina,Novi Pazar,1,0,1.0
+2020-2021,29,2021-04-02,Čukarički,Spartak Subotic,5,1,1.0
+2020-2021,29,2021-04-03,Javor Ivanjica,OFK Bačka,1,1,0.5
+2020-2021,29,2021-04-03,Radnik Surdulica,Zlatibor Čajetina,2,1,1.0
+2020-2021,29,2021-04-03,Inđija,Rad,1,0,1.0
+2020-2021,29,2021-04-03,Napredak Kruš,Red Star,1,4,0.0
+2020-2021,29,2021-04-03,Partizan,Metalac GM,3,0,1.0
+2020-2021,30,2021-04-06,Spartak Subotic,Voždovac,3,0,1.0
+2020-2021,30,2021-04-06,Proleter NS,Čukarički,0,1,0.0
+2020-2021,30,2021-04-06,Novi Pazar,TSC Bačka Top,2,1,1.0
+2020-2021,30,2021-04-06,Mačva Šabac,Mladost Lučani,0,2,0.0
+2020-2021,30,2021-04-07,OFK Bačka,Radnik Surdulica,0,2,0.0
+2020-2021,30,2021-04-07,Radnički Niš,Napredak Kruš,1,2,0.0
+2020-2021,30,2021-04-07,Rad,Vojvodina,2,0,1.0
+2020-2021,30,2021-04-07,Red Star,Partizan,1,0,1.0
+2020-2021,30,2021-04-08,Zlatibor Čajetina,Inđija,2,2,0.5
+2020-2021,30,2021-04-08,Metalac GM,Javor Ivanjica,1,2,0.0
+2020-2021,31,2021-04-10,Voždovac,Proleter NS,1,1,0.5
+2020-2021,31,2021-04-10,Mladost Lučani,Spartak Subotic,1,0,1.0
+2020-2021,31,2021-04-10,Čukarički,TSC Bačka Top,0,0,0.5
+2020-2021,31,2021-04-11,Javor Ivanjica,Red Star,1,5,0.0
+2020-2021,31,2021-04-11,Partizan,Radnički Niš,2,0,1.0
+2020-2021,31,2021-04-12,Inđija,OFK Bačka,1,0,1.0
+2020-2021,31,2021-04-12,Radnik Surdulica,Metalac GM,1,2,0.0
+2020-2021,31,2021-04-12,Rad,Novi Pazar,3,2,1.0
+2020-2021,31,2021-04-12,Napredak Kruš,Mačva Šabac,2,0,1.0
+2020-2021,31,2021-04-12,Vojvodina,Zlatibor Čajetina,2,1,1.0
+2020-2021,32,2021-04-16,OFK Bačka,Vojvodina,1,2,0.0
+2020-2021,32,2021-04-16,Mačva Šabac,Partizan,1,2,0.0
+2020-2021,32,2021-04-17,Red Star,Radnik Surdulica,2,1,1.0
+2020-2021,32,2021-04-18,Metalac GM,Inđija,0,0,0.5
+2020-2021,32,2021-04-18,Zlatibor Čajetina,Rad,1,2,0.0
+2020-2021,32,2021-04-18,Novi Pazar,Čukarički,1,3,0.0
+2020-2021,32,2021-04-18,Radnički Niš,Javor Ivanjica,0,0,0.5
+2020-2021,32,2021-04-18,Spartak Subotic,Napredak Kruš,0,2,0.0
+2020-2021,32,2021-04-18,Proleter NS,Mladost Lučani,0,1,0.0
+2020-2021,32,2021-04-18,TSC Bačka Top,Voždovac,4,1,1.0
+2020-2021,33,2021-04-23,Zlatibor Čajetina,Novi Pazar,0,1,0.0
+2020-2021,33,2021-04-24,Voždovac,Čukarički,2,1,1.0
+2020-2021,33,2021-04-24,Rad,OFK Bačka,3,0,1.0
+2020-2021,33,2021-04-24,Mladost Lučani,TSC Bačka Top,2,1,1.0
+2020-2021,33,2021-04-24,Napredak Kruš,Proleter NS,5,0,1.0
+2020-2021,33,2021-04-24,Javor Ivanjica,Mačva Šabac,2,0,1.0
+2020-2021,33,2021-04-25,Vojvodina,Metalac GM,1,2,0.0
+2020-2021,33,2021-04-25,Radnik Surdulica,Radnički Niš,0,0,0.5
+2020-2021,33,2021-04-25,Inđija,Red Star,1,5,0.0
+2020-2021,33,2021-04-25,Partizan,Spartak Subotic,2,1,1.0
+2020-2021,34,2021-04-28,Čukarički,Mladost Lučani,4,2,1.0
+2020-2021,34,2021-04-28,Novi Pazar,Voždovac,0,2,0.0
+2020-2021,34,2021-04-28,OFK Bačka,Zlatibor Čajetina,0,1,0.0
+2020-2021,34,2021-04-29,Radnički Niš,Inđija,2,0,1.0
+2020-2021,34,2021-04-29,Metalac GM,Rad,3,0,1.0
+2020-2021,34,2021-04-29,Mačva Šabac,Radnik Surdulica,0,5,0.0
+2020-2021,34,2021-04-29,TSC Bačka Top,Napredak Kruš,1,3,0.0
+2020-2021,34,2021-04-29,Spartak Subotic,Javor Ivanjica,0,2,0.0
+2020-2021,34,2021-04-29,Proleter NS,Partizan,1,3,0.0
+2020-2021,34,2021-04-29,Red Star,Vojvodina,1,0,1.0
+2020-2021,35,2021-05-04,Javor Ivanjica,Proleter NS,1,1,0.5
+2020-2021,35,2021-05-04,Napredak Kruš,Čukarički,1,0,1.0
+2020-2021,35,2021-05-04,OFK Bačka,Novi Pazar,0,1,0.0
+2020-2021,35,2021-05-04,Radnik Surdulica,Spartak Subotic,2,0,1.0
+2020-2021,35,2021-05-04,Mladost Lučani,Voždovac,1,0,1.0
+2020-2021,35,2021-05-05,Inđija,Mačva Šabac,2,2,0.5
+2020-2021,35,2021-05-05,Zlatibor Čajetina,Metalac GM,1,0,1.0
+2020-2021,35,2021-05-05,Vojvodina,Radnički Niš,0,0,0.5
+2020-2021,35,2021-05-05,Partizan,TSC Bačka Top,3,1,1.0
+2020-2021,35,2021-05-05,Rad,Red Star,2,2,0.5
+2020-2021,36,2021-05-08,Proleter NS,Radnik Surdulica,3,0,1.0
+2020-2021,36,2021-05-08,Novi Pazar,Mladost Lučani,4,1,1.0
+2020-2021,36,2021-05-08,Voždovac,Napredak Kruš,4,2,1.0
+2020-2021,36,2021-05-09,Spartak Subotic,Inđija,1,0,1.0
+2020-2021,36,2021-05-09,Mačva Šabac,Vojvodina,2,5,0.0
+2020-2021,36,2021-05-09,TSC Bačka Top,Javor Ivanjica,2,1,1.0
+2020-2021,36,2021-05-09,Metalac GM,OFK Bačka,3,0,1.0
+2020-2021,36,2021-05-09,Radnički Niš,Rad,2,2,0.5
+2020-2021,36,2021-05-09,Čukarički,Partizan,0,2,0.0
+2020-2021,36,2021-05-09,Red Star,Zlatibor Čajetina,6,1,1.0
+2020-2021,37,2021-05-14,Vojvodina,Spartak Subotic,1,1,0.5
+2020-2021,37,2021-05-14,Radnik Surdulica,TSC Bačka Top,0,3,0.0
+2020-2021,37,2021-05-14,OFK Bačka,Red Star,0,5,0.0
+2020-2021,37,2021-05-15,Napredak Kruš,Mladost Lučani,2,0,1.0
+2020-2021,37,2021-05-15,Zlatibor Čajetina,Radnički Niš,0,0,0.5
+2020-2021,37,2021-05-15,Metalac GM,Novi Pazar,1,1,0.5
+2020-2021,37,2021-05-15,Javor Ivanjica,Čukarički,1,2,0.0
+2020-2021,37,2021-05-15,Inđija,Proleter NS,0,5,0.0
+2020-2021,37,2021-05-15,Rad,Mačva Šabac,7,1,1.0
+2020-2021,37,2021-05-15,Partizan,Voždovac,3,0,1.0
+2020-2021,38,2021-05-18,Čukarički,Radnik Surdulica,2,1,1.0
+2020-2021,38,2021-05-18,Mačva Šabac,Zlatibor Čajetina,1,0,1.0
+2020-2021,38,2021-05-18,TSC Bačka Top,Inđija,2,1,1.0
+2020-2021,38,2021-05-18,Mladost Lučani,Partizan,1,0,1.0
+2020-2021,38,2021-05-19,Red Star,Metalac GM,5,1,1.0
+2020-2021,38,2021-05-19,Radnički Niš,OFK Bačka,5,1,1.0
+2020-2021,38,2021-05-19,Proleter NS,Vojvodina,2,0,1.0
+2020-2021,38,2021-05-19,Spartak Subotic,Rad,1,1,0.5
+2020-2021,38,2021-05-19,Voždovac,Javor Ivanjica,0,0,0.5
+2020-2021,38,2021-05-19,Novi Pazar,Napredak Kruš,2,1,1.0

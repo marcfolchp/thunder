@@ -1,0 +1,206 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2013-2014,Group stage,1,2013-09-19,Zulte Waregem,Wigan Athletic,be,eng,0,0,0.5
+2013-2014,Group stage,1,2013-09-19,Fiorentina,Paços,it,pt,3,0,1.0
+2013-2014,Group stage,1,2013-09-19,PSV Eindhoven,Ludogorets,nl,bg,0,2,0.0
+2013-2014,Group stage,1,2013-09-19,Maccabi Haifa,AZ Alkmaar,il,nl,0,1,0.0
+2013-2014,Group stage,1,2013-09-19,Dynamo Kyiv,Genk,ua,be,0,1,0.0
+2013-2014,Group stage,1,2013-09-19,Freiburg,Slovan Liberec,de,cz,2,2,0.5
+2013-2014,Group stage,1,2013-09-19,Maccabi Tel Aviv,APOEL FC,il,cy,0,0,0.5
+2013-2014,Group stage,1,2013-09-19,PAOK,Shakhter,gr,kz,2,1,1.0
+2013-2014,Group stage,1,2013-09-19,Lazio,Legia Warsaw,it,pl,1,0,1.0
+2013-2014,Group stage,1,2013-09-19,Eint Frankfurt,Bordeaux,de,fr,3,0,1.0
+2013-2014,Group stage,1,2013-09-19,RB Salzburg,Elfsborg,at,se,4,0,1.0
+2013-2014,Group stage,1,2013-09-19,Thun,Rapid Wien,ch,at,1,0,1.0
+2013-2014,Group stage,1,2013-09-19,Apollon Limassol,Trabzonspor,cy,tr,1,2,0.0
+2013-2014,Group stage,1,2013-09-19,Valencia,Swansea City,es,eng,0,3,0.0
+2013-2014,Group stage,1,2013-09-19,Pandurii,Dnipro,ro,ua,0,1,0.0
+2013-2014,Group stage,1,2013-09-19,Betis,Lyon,es,fr,0,0,0.5
+2013-2014,Group stage,1,2013-09-19,Vitória,Rijeka,pt,hr,4,0,1.0
+2013-2014,Group stage,1,2013-09-19,NK Maribor,Rubin Kazan,si,ru,2,5,0.0
+2013-2014,Group stage,1,2013-09-19,Tottenham,Tromsø,eng,no,3,0,1.0
+2013-2014,Group stage,1,2013-09-19,Dinamo Zagreb,Chornomorets,hr,ua,1,2,0.0
+2013-2014,Group stage,1,2013-09-19,St. Gallen,Kuban,ch,ru,2,0,1.0
+2013-2014,Group stage,1,2013-09-19,Estoril,Sevilla,pt,es,1,2,0.0
+2013-2014,Group stage,1,2013-09-19,Sheriff Tiraspol,Anzhi,md,ru,0,0,0.5
+2013-2014,Group stage,1,2013-09-19,Standard Liège,Esbjerg,be,dk,1,2,0.0
+2013-2014,Group stage,2,2013-10-03,Tromsø,Sheriff Tiraspol,no,md,1,1,0.5
+2013-2014,Group stage,2,2013-10-03,Rubin Kazan,Zulte Waregem,ru,be,4,0,1.0
+2013-2014,Group stage,2,2013-10-03,Kuban,Valencia,ru,es,0,2,0.0
+2013-2014,Group stage,2,2013-10-03,Sevilla,Freiburg,es,de,2,0,1.0
+2013-2014,Group stage,2,2013-10-03,Esbjerg,RB Salzburg,dk,at,1,2,0.0
+2013-2014,Group stage,2,2013-10-03,Chornomorets,PSV Eindhoven,ua,nl,0,2,0.0
+2013-2014,Group stage,2,2013-10-03,Rijeka,Betis,hr,es,1,1,0.5
+2013-2014,Group stage,2,2013-10-03,Lyon,Vitória,fr,pt,1,1,0.5
+2013-2014,Group stage,2,2013-10-03,APOEL FC,Eint Frankfurt,cy,de,0,3,0.0
+2013-2014,Group stage,2,2013-10-03,Anzhi,Tottenham,ru,eng,0,2,0.0
+2013-2014,Group stage,2,2013-10-03,Legia Warsaw,Apollon Limassol,pl,cy,0,1,0.0
+2013-2014,Group stage,2,2013-10-03,Shakhter,Maccabi Haifa,kz,il,2,2,0.5
+2013-2014,Group stage,2,2013-10-03,Rapid Wien,Dynamo Kyiv,at,ua,2,2,0.5
+2013-2014,Group stage,2,2013-10-03,Paços,Pandurii,pt,ro,1,1,0.5
+2013-2014,Group stage,2,2013-10-03,Elfsborg,Standard Liège,se,be,1,1,0.5
+2013-2014,Group stage,2,2013-10-03,Swansea City,St. Gallen,eng,ch,1,0,1.0
+2013-2014,Group stage,2,2013-10-03,AZ Alkmaar,PAOK,nl,gr,1,1,0.5
+2013-2014,Group stage,2,2013-10-03,Wigan Athletic,NK Maribor,eng,si,3,1,1.0
+2013-2014,Group stage,2,2013-10-03,Trabzonspor,Lazio,tr,it,3,3,0.5
+2013-2014,Group stage,2,2013-10-03,Ludogorets,Dinamo Zagreb,bg,hr,3,0,1.0
+2013-2014,Group stage,2,2013-10-03,Dnipro,Fiorentina,ua,it,1,2,0.0
+2013-2014,Group stage,2,2013-10-03,Genk,Thun,be,ch,2,1,1.0
+2013-2014,Group stage,2,2013-10-03,Bordeaux,Maccabi Tel Aviv,fr,il,1,2,0.0
+2013-2014,Group stage,2,2013-10-03,Slovan Liberec,Estoril,cz,pt,2,1,1.0
+2013-2014,Group stage,3,2013-10-24,Sheriff Tiraspol,Tottenham,md,eng,0,2,0.0
+2013-2014,Group stage,3,2013-10-24,Anzhi,Tromsø,ru,no,1,0,1.0
+2013-2014,Group stage,3,2013-10-24,Eint Frankfurt,Maccabi Tel Aviv,de,il,2,0,1.0
+2013-2014,Group stage,3,2013-10-24,Paços,Dnipro,pt,ua,0,2,0.0
+2013-2014,Group stage,3,2013-10-24,Valencia,St. Gallen,es,ch,5,1,1.0
+2013-2014,Group stage,3,2013-10-24,Shakhter,AZ Alkmaar,kz,nl,1,1,0.5
+2013-2014,Group stage,3,2013-10-24,Betis,Vitória,es,pt,1,0,1.0
+2013-2014,Group stage,3,2013-10-24,PAOK,Maccabi Haifa,gr,il,3,2,1.0
+2013-2014,Group stage,3,2013-10-24,Dynamo Kyiv,Thun,ua,ch,3,0,1.0
+2013-2014,Group stage,3,2013-10-24,Freiburg,Estoril,de,pt,1,1,0.5
+2013-2014,Group stage,3,2013-10-24,Bordeaux,APOEL FC,fr,cy,2,1,1.0
+2013-2014,Group stage,3,2013-10-24,Genk,Rapid Wien,be,at,1,1,0.5
+2013-2014,Group stage,3,2013-10-24,Lyon,Rijeka,fr,hr,1,0,1.0
+2013-2014,Group stage,3,2013-10-24,Zulte Waregem,NK Maribor,be,si,1,3,0.0
+2013-2014,Group stage,3,2013-10-24,Trabzonspor,Legia Warsaw,tr,pl,2,0,1.0
+2013-2014,Group stage,3,2013-10-24,Chornomorets,Ludogorets,ua,bg,0,1,0.0
+2013-2014,Group stage,3,2013-10-24,RB Salzburg,Standard Liège,at,be,2,1,1.0
+2013-2014,Group stage,3,2013-10-24,Swansea City,Kuban,eng,ru,1,1,0.5
+2013-2014,Group stage,3,2013-10-24,Slovan Liberec,Sevilla,cz,es,1,1,0.5
+2013-2014,Group stage,3,2013-10-24,Dinamo Zagreb,PSV Eindhoven,hr,nl,0,0,0.5
+2013-2014,Group stage,3,2013-10-24,Fiorentina,Pandurii,it,ro,3,0,1.0
+2013-2014,Group stage,3,2013-10-24,Apollon Limassol,Lazio,cy,it,0,0,0.5
+2013-2014,Group stage,3,2013-10-24,Elfsborg,Esbjerg,se,dk,1,2,0.0
+2013-2014,Group stage,3,2013-10-24,Wigan Athletic,Rubin Kazan,eng,ru,1,1,0.5
+2013-2014,Group stage,4,2013-11-07,Kuban,Swansea City,ru,eng,1,1,0.5
+2013-2014,Group stage,4,2013-11-07,Estoril,Freiburg,pt,de,0,0,0.5
+2013-2014,Group stage,4,2013-11-07,Maccabi Tel Aviv,Eint Frankfurt,il,de,4,2,1.0
+2013-2014,Group stage,4,2013-11-07,Sevilla,Slovan Liberec,es,cz,1,1,0.5
+2013-2014,Group stage,4,2013-11-07,Tottenham,Sheriff Tiraspol,eng,md,2,1,1.0
+2013-2014,Group stage,4,2013-11-07,Pandurii,Fiorentina,ro,it,1,2,0.0
+2013-2014,Group stage,4,2013-11-07,Thun,Dynamo Kyiv,ch,ua,0,2,0.0
+2013-2014,Group stage,4,2013-11-07,APOEL FC,Bordeaux,cy,fr,2,1,1.0
+2013-2014,Group stage,4,2013-11-07,Standard Liège,RB Salzburg,be,at,1,3,0.0
+2013-2014,Group stage,4,2013-11-07,AZ Alkmaar,Shakhter,nl,kz,1,0,1.0
+2013-2014,Group stage,4,2013-11-07,Vitória,Betis,pt,es,0,1,0.0
+2013-2014,Group stage,4,2013-11-07,Tromsø,Anzhi,no,ru,0,1,0.0
+2013-2014,Group stage,4,2013-11-07,Rubin Kazan,Wigan Athletic,ru,eng,1,0,1.0
+2013-2014,Group stage,4,2013-11-07,Rapid Wien,Genk,at,be,2,2,0.5
+2013-2014,Group stage,4,2013-11-07,Dnipro,Paços,ua,pt,2,0,1.0
+2013-2014,Group stage,4,2013-11-07,St. Gallen,Valencia,ch,es,2,3,0.0
+2013-2014,Group stage,4,2013-11-07,PSV Eindhoven,Dinamo Zagreb,nl,hr,2,0,1.0
+2013-2014,Group stage,4,2013-11-07,NK Maribor,Zulte Waregem,si,be,0,1,0.0
+2013-2014,Group stage,4,2013-11-07,Ludogorets,Chornomorets,bg,ua,1,1,0.5
+2013-2014,Group stage,4,2013-11-07,Esbjerg,Elfsborg,dk,se,1,0,1.0
+2013-2014,Group stage,4,2013-11-07,Maccabi Haifa,PAOK,il,gr,0,0,0.5
+2013-2014,Group stage,4,2013-11-07,Legia Warsaw,Trabzonspor,pl,tr,0,2,0.0
+2013-2014,Group stage,4,2013-11-07,Lazio,Apollon Limassol,it,cy,2,1,1.0
+2013-2014,Group stage,4,2013-11-07,Rijeka,Lyon,hr,fr,1,1,0.5
+2013-2014,Group stage,5,2013-11-28,Dnipro,Pandurii,ua,ro,4,1,1.0
+2013-2014,Group stage,5,2013-11-28,Anzhi,Sheriff Tiraspol,ru,md,1,1,0.5
+2013-2014,Group stage,5,2013-11-28,Slovan Liberec,Freiburg,cz,de,1,2,0.0
+2013-2014,Group stage,5,2013-11-28,Tromsø,Tottenham,no,eng,0,2,0.0
+2013-2014,Group stage,5,2013-11-28,Swansea City,Valencia,eng,es,0,1,0.0
+2013-2014,Group stage,5,2013-11-28,Trabzonspor,Apollon Limassol,tr,cy,4,2,1.0
+2013-2014,Group stage,5,2013-11-28,Legia Warsaw,Lazio,pl,it,0,2,0.0
+2013-2014,Group stage,5,2013-11-28,Shakhter,PAOK,kz,gr,0,2,0.0
+2013-2014,Group stage,5,2013-11-28,APOEL FC,Maccabi Tel Aviv,cy,il,0,0,0.5
+2013-2014,Group stage,5,2013-11-28,Wigan Athletic,Zulte Waregem,eng,be,1,2,0.0
+2013-2014,Group stage,5,2013-11-28,Sevilla,Estoril,es,pt,1,1,0.5
+2013-2014,Group stage,5,2013-11-28,Rubin Kazan,NK Maribor,ru,si,1,1,0.5
+2013-2014,Group stage,5,2013-11-28,Lyon,Betis,fr,es,1,0,1.0
+2013-2014,Group stage,5,2013-11-28,Esbjerg,Standard Liège,dk,be,2,1,1.0
+2013-2014,Group stage,5,2013-11-28,Chornomorets,Dinamo Zagreb,ua,hr,2,1,1.0
+2013-2014,Group stage,5,2013-11-28,Rapid Wien,Thun,at,ch,2,1,1.0
+2013-2014,Group stage,5,2013-11-28,AZ Alkmaar,Maccabi Haifa,nl,il,2,0,1.0
+2013-2014,Group stage,5,2013-11-28,Kuban,St. Gallen,ru,ch,4,0,1.0
+2013-2014,Group stage,5,2013-11-28,Elfsborg,RB Salzburg,se,at,0,1,0.0
+2013-2014,Group stage,5,2013-11-28,Bordeaux,Eint Frankfurt,fr,de,0,1,0.0
+2013-2014,Group stage,5,2013-11-28,Ludogorets,PSV Eindhoven,bg,nl,2,0,1.0
+2013-2014,Group stage,5,2013-11-28,Paços,Fiorentina,pt,it,0,0,0.5
+2013-2014,Group stage,5,2013-11-28,Rijeka,Vitória,hr,pt,0,0,0.5
+2013-2014,Group stage,5,2013-11-28,Genk,Dynamo Kyiv,be,ua,3,1,1.0
+2013-2014,Group stage,6,2013-12-12,Valencia,Kuban,es,ru,1,1,0.5
+2013-2014,Group stage,6,2013-12-12,Thun,Genk,ch,be,0,1,0.0
+2013-2014,Group stage,6,2013-12-12,Freiburg,Sevilla,de,es,0,2,0.0
+2013-2014,Group stage,6,2013-12-12,RB Salzburg,Esbjerg,at,dk,3,0,1.0
+2013-2014,Group stage,6,2013-12-12,Dinamo Zagreb,Ludogorets,hr,bg,1,2,0.0
+2013-2014,Group stage,6,2013-12-12,Lazio,Trabzonspor,it,tr,0,0,0.5
+2013-2014,Group stage,6,2013-12-12,Dynamo Kyiv,Rapid Wien,ua,at,3,1,1.0
+2013-2014,Group stage,6,2013-12-12,Estoril,Slovan Liberec,pt,cz,1,2,0.0
+2013-2014,Group stage,6,2013-12-12,Sheriff Tiraspol,Tromsø,md,no,2,0,1.0
+2013-2014,Group stage,6,2013-12-12,Zulte Waregem,Rubin Kazan,be,ru,0,2,0.0
+2013-2014,Group stage,6,2013-12-12,Vitória,Lyon,pt,fr,1,2,0.0
+2013-2014,Group stage,6,2013-12-12,PSV Eindhoven,Chornomorets,nl,ua,0,1,0.0
+2013-2014,Group stage,6,2013-12-12,Eint Frankfurt,APOEL FC,de,cy,2,0,1.0
+2013-2014,Group stage,6,2013-12-12,Fiorentina,Dnipro,it,ua,2,1,1.0
+2013-2014,Group stage,6,2013-12-12,Maccabi Tel Aviv,Bordeaux,il,fr,1,0,1.0
+2013-2014,Group stage,6,2013-12-12,Standard Liège,Elfsborg,be,se,1,3,0.0
+2013-2014,Group stage,6,2013-12-12,Betis,Rijeka,es,hr,0,0,0.5
+2013-2014,Group stage,6,2013-12-12,PAOK,AZ Alkmaar,gr,nl,2,2,0.5
+2013-2014,Group stage,6,2013-12-12,Maccabi Haifa,Shakhter,il,kz,2,1,1.0
+2013-2014,Group stage,6,2013-12-12,NK Maribor,Wigan Athletic,si,eng,2,1,1.0
+2013-2014,Group stage,6,2013-12-12,Tottenham,Anzhi,eng,ru,4,1,1.0
+2013-2014,Group stage,6,2013-12-12,St. Gallen,Swansea City,ch,eng,1,0,1.0
+2013-2014,Group stage,6,2013-12-12,Apollon Limassol,Legia Warsaw,cy,pl,0,2,0.0
+2013-2014,Group stage,6,2013-12-12,Pandurii,Paços,ro,pt,0,0,0.5
+2013-2014,Round of 32,,2014-02-20,Betis,Rubin Kazan,es,ru,1,1,0.5
+2013-2014,Round of 32,,2014-02-20,Ajax,RB Salzburg,nl,at,0,3,0.0
+2013-2014,Round of 32,,2014-02-20,Dynamo Kyiv,Valencia,ua,es,0,2,0.0
+2013-2014,Round of 32,,2014-02-20,Juventus,Trabzonspor,it,tr,2,0,1.0
+2013-2014,Round of 32,,2014-02-20,Porto,Eint Frankfurt,pt,de,2,2,0.5
+2013-2014,Round of 32,,2014-02-20,Dnipro,Tottenham,ua,eng,1,0,1.0
+2013-2014,Round of 32,,2014-02-20,Esbjerg,Fiorentina,dk,it,1,3,0.0
+2013-2014,Round of 32,,2014-02-20,PAOK,Benfica,gr,pt,0,1,0.0
+2013-2014,Round of 32,,2014-02-20,NK Maribor,Sevilla,si,es,2,2,0.5
+2013-2014,Round of 32,,2014-02-20,Maccabi Tel Aviv,Basel,il,ch,0,0,0.5
+2013-2014,Round of 32,,2014-02-20,Lazio,Ludogorets,it,bg,0,1,0.0
+2013-2014,Round of 32,,2014-02-20,Chornomorets,Lyon,ua,fr,0,0,0.5
+2013-2014,Round of 32,,2014-02-20,Viktoria Plzeň,Shakhtar,cz,ua,1,1,0.5
+2013-2014,Round of 32,,2014-02-20,Slovan Liberec,AZ Alkmaar,cz,nl,0,1,0.0
+2013-2014,Round of 32,,2014-02-20,Anzhi,Genk,ru,be,0,0,0.5
+2013-2014,Round of 32,,2014-02-20,Swansea City,Napoli,eng,it,0,0,0.5
+2013-2014,Round of 32,,2014-02-27,Lyon,Chornomorets,fr,ua,1,0,1.0
+2013-2014,Round of 32,,2014-02-27,RB Salzburg,Ajax,at,nl,3,1,1.0
+2013-2014,Round of 32,,2014-02-27,Benfica,PAOK,pt,gr,3,0,1.0
+2013-2014,Round of 32,,2014-02-27,Rubin Kazan,Betis,ru,es,0,2,0.0
+2013-2014,Round of 32,,2014-02-27,Ludogorets,Lazio,bg,it,3,3,0.5
+2013-2014,Round of 32,,2014-02-27,Eint Frankfurt,Porto,de,pt,3,3,0.5
+2013-2014,Round of 32,,2014-02-27,Trabzonspor,Juventus,tr,it,0,2,0.0
+2013-2014,Round of 32,,2014-02-27,Shakhtar,Viktoria Plzeň,ua,cz,1,2,0.0
+2013-2014,Round of 32,,2014-02-27,Sevilla,NK Maribor,es,si,2,1,1.0
+2013-2014,Round of 32,,2014-02-27,Valencia,Dynamo Kyiv,es,ua,0,0,0.5
+2013-2014,Round of 32,,2014-02-27,Tottenham,Dnipro,eng,ua,3,1,1.0
+2013-2014,Round of 32,,2014-02-27,Fiorentina,Esbjerg,it,dk,1,1,0.5
+2013-2014,Round of 32,,2014-02-27,Genk,Anzhi,be,ru,0,2,0.0
+2013-2014,Round of 32,,2014-02-27,Basel,Maccabi Tel Aviv,ch,il,3,0,1.0
+2013-2014,Round of 32,,2014-02-27,Napoli,Swansea City,it,eng,3,1,1.0
+2013-2014,Round of 32,,2014-02-27,AZ Alkmaar,Slovan Liberec,nl,cz,1,1,0.5
+2013-2014,Round of 16,,2014-03-13,Porto,Napoli,pt,it,1,0,1.0
+2013-2014,Round of 16,,2014-03-13,Tottenham,Benfica,eng,pt,1,3,0.0
+2013-2014,Round of 16,,2014-03-13,Ludogorets,Valencia,bg,es,0,3,0.0
+2013-2014,Round of 16,,2014-03-13,Lyon,Viktoria Plzeň,fr,cz,4,1,1.0
+2013-2014,Round of 16,,2014-03-13,Sevilla,Betis,es,es,0,2,0.0
+2013-2014,Round of 16,,2014-03-13,AZ Alkmaar,Anzhi,nl,ru,1,0,1.0
+2013-2014,Round of 16,,2014-03-13,Basel,RB Salzburg,ch,at,0,0,0.5
+2013-2014,Round of 16,,2014-03-13,Juventus,Fiorentina,it,it,1,1,0.5
+2013-2014,Round of 16,,2014-03-20,Valencia,Ludogorets,es,bg,1,0,1.0
+2013-2014,Round of 16,,2014-03-20,Fiorentina,Juventus,it,it,0,1,0.0
+2013-2014,Round of 16,,2014-03-20,Viktoria Plzeň,Lyon,cz,fr,2,1,1.0
+2013-2014,Round of 16,,2014-03-20,Benfica,Tottenham,pt,eng,2,2,0.5
+2013-2014,Round of 16,,2014-03-20,RB Salzburg,Basel,at,ch,1,2,0.0
+2013-2014,Round of 16,,2014-03-20,Betis,Sevilla,es,es,0,2,0.0
+2013-2014,Round of 16,,2014-03-20,Napoli,Porto,it,pt,2,2,0.5
+2013-2014,Round of 16,,2014-03-20,Anzhi,AZ Alkmaar,ru,nl,0,0,0.5
+2013-2014,Quarter-finals,,2014-04-03,Porto,Sevilla,pt,es,1,0,1.0
+2013-2014,Quarter-finals,,2014-04-03,Basel,Valencia,ch,es,3,0,1.0
+2013-2014,Quarter-finals,,2014-04-03,AZ Alkmaar,Benfica,nl,pt,0,1,0.0
+2013-2014,Quarter-finals,,2014-04-03,Lyon,Juventus,fr,it,0,1,0.0
+2013-2014,Quarter-finals,,2014-04-10,Sevilla,Porto,es,pt,4,1,1.0
+2013-2014,Quarter-finals,,2014-04-10,Juventus,Lyon,it,fr,2,1,1.0
+2013-2014,Quarter-finals,,2014-04-10,Benfica,AZ Alkmaar,pt,nl,2,0,1.0
+2013-2014,Quarter-finals,,2014-04-10,Valencia,Basel,es,ch,5,0,1.0
+2013-2014,Semi-finals,,2014-04-24,Sevilla,Valencia,es,es,2,0,1.0
+2013-2014,Semi-finals,,2014-04-24,Benfica,Juventus,pt,it,2,1,1.0
+2013-2014,Semi-finals,,2014-05-01,Valencia,Sevilla,es,es,3,1,1.0
+2013-2014,Semi-finals,,2014-05-01,Juventus,Benfica,it,pt,0,0,0.5
+2013-2014,Final,,2014-05-14,Sevilla,Benfica,es,pt,0,0,0.5

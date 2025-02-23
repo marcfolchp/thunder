@@ -1,0 +1,231 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,Regular season,1,2015-08-01,Celtic,Ross County,2,0,1.0
+2015-2016,Regular season,1,2015-08-01,Inverness CT,Motherwell,0,1,0.0
+2015-2016,Regular season,1,2015-08-01,Kilmarnock,Dundee,0,4,0.0
+2015-2016,Regular season,1,2015-08-01,Hamilton,Partick Thistle,0,0,0.5
+2015-2016,Regular season,1,2015-08-02,Hearts,St Johnstone,4,3,1.0
+2015-2016,Regular season,1,2015-08-02,Dundee United,Aberdeen,0,1,0.0
+2015-2016,Regular season,2,2015-08-08,Motherwell,Dundee United,0,2,0.0
+2015-2016,Regular season,2,2015-08-08,Ross County,Hamilton,2,0,1.0
+2015-2016,Regular season,2,2015-08-08,St Johnstone,Inverness CT,1,1,0.5
+2015-2016,Regular season,2,2015-08-08,Dundee,Hearts,1,2,0.0
+2015-2016,Regular season,2,2015-08-09,Partick Thistle,Celtic,0,2,0.0
+2015-2016,Regular season,2,2015-08-09,Aberdeen,Kilmarnock,2,0,1.0
+2015-2016,Regular season,3,2015-08-11,St Johnstone,Ross County,1,1,0.5
+2015-2016,Regular season,3,2015-08-11,Dundee United,Dundee,2,2,0.5
+2015-2016,Regular season,3,2015-08-12,Kilmarnock,Celtic,2,2,0.5
+2015-2016,Regular season,3,2015-08-12,Inverness CT,Partick Thistle,0,0,0.5
+2015-2016,Regular season,3,2015-08-12,Hearts,Motherwell,2,0,1.0
+2015-2016,Regular season,4,2015-08-15,Motherwell,Aberdeen,1,2,0.0
+2015-2016,Regular season,4,2015-08-15,Ross County,Hearts,1,2,0.0
+2015-2016,Regular season,4,2015-08-15,Celtic,Inverness CT,4,2,1.0
+2015-2016,Regular season,4,2015-08-15,Hamilton,Dundee United,4,0,1.0
+2015-2016,Regular season,4,2015-08-15,Dundee,St Johnstone,2,1,1.0
+2015-2016,Regular season,4,2015-08-15,Partick Thistle,Kilmarnock,2,2,0.5
+2015-2016,Regular season,5,2015-08-22,Dundee United,Celtic,1,3,0.0
+2015-2016,Regular season,5,2015-08-22,Hearts,Partick Thistle,3,0,1.0
+2015-2016,Regular season,5,2015-08-22,St Johnstone,Motherwell,2,1,1.0
+2015-2016,Regular season,5,2015-08-22,Kilmarnock,Ross County,0,4,0.0
+2015-2016,Regular season,5,2015-08-22,Aberdeen,Dundee,2,0,1.0
+2015-2016,Regular season,5,2015-08-22,Inverness CT,Hamilton,0,2,0.0
+2015-2016,Regular season,6,2015-08-29,Celtic,St Johnstone,3,1,1.0
+2015-2016,Regular season,6,2015-08-29,Motherwell,Kilmarnock,1,0,1.0
+2015-2016,Regular season,6,2015-08-29,Partick Thistle,Aberdeen,0,2,0.0
+2015-2016,Regular season,6,2015-08-29,Dundee,Inverness CT,1,1,0.5
+2015-2016,Regular season,6,2015-08-29,Hamilton,Hearts,3,2,1.0
+2015-2016,Regular season,6,2015-08-29,Ross County,Dundee United,2,1,1.0
+2015-2016,Regular season,7,2015-09-11,Inverness CT,Hearts,2,0,1.0
+2015-2016,Regular season,7,2015-09-12,Aberdeen,Celtic,2,1,1.0
+2015-2016,Regular season,7,2015-09-12,Partick Thistle,Dundee,0,1,0.0
+2015-2016,Regular season,7,2015-09-12,Motherwell,Ross County,1,1,0.5
+2015-2016,Regular season,7,2015-09-12,Dundee United,Kilmarnock,1,2,0.0
+2015-2016,Regular season,7,2015-09-12,St Johnstone,Hamilton,4,1,1.0
+2015-2016,Regular season,3,2015-09-15,Aberdeen,Hamilton,1,0,1.0
+2015-2016,Regular season,8,2015-09-19,Ross County,Partick Thistle,1,0,1.0
+2015-2016,Regular season,8,2015-09-19,Dundee United,Inverness CT,1,1,0.5
+2015-2016,Regular season,8,2015-09-19,Kilmarnock,St Johnstone,2,1,1.0
+2015-2016,Regular season,8,2015-09-19,Hamilton,Motherwell,1,0,1.0
+2015-2016,Regular season,8,2015-09-20,Hearts,Aberdeen,1,3,0.0
+2015-2016,Regular season,8,2015-09-20,Celtic,Dundee,6,0,1.0
+2015-2016,Regular season,9,2015-09-26,Inverness CT,Aberdeen,2,1,1.0
+2015-2016,Regular season,9,2015-09-26,Motherwell,Partick Thistle,2,1,1.0
+2015-2016,Regular season,9,2015-09-26,Dundee,Ross County,3,3,0.5
+2015-2016,Regular season,9,2015-09-26,Kilmarnock,Hamilton,1,2,0.0
+2015-2016,Regular season,9,2015-09-26,Celtic,Hearts,0,0,0.5
+2015-2016,Regular season,9,2015-09-26,St Johnstone,Dundee United,2,1,1.0
+2015-2016,Regular season,10,2015-10-03,Hearts,Kilmarnock,1,1,0.5
+2015-2016,Regular season,10,2015-10-03,Aberdeen,St Johnstone,1,5,0.0
+2015-2016,Regular season,10,2015-10-03,Dundee,Motherwell,2,1,1.0
+2015-2016,Regular season,10,2015-10-03,Ross County,Inverness CT,1,2,0.0
+2015-2016,Regular season,10,2015-10-03,Partick Thistle,Dundee United,3,0,1.0
+2015-2016,Regular season,10,2015-10-04,Hamilton,Celtic,1,2,0.0
+2015-2016,Regular season,11,2015-10-16,Ross County,Aberdeen,2,0,1.0
+2015-2016,Regular season,11,2015-10-17,Motherwell,Celtic,0,1,0.0
+2015-2016,Regular season,11,2015-10-17,St Johnstone,Partick Thistle,1,2,0.0
+2015-2016,Regular season,11,2015-10-17,Kilmarnock,Inverness CT,2,0,1.0
+2015-2016,Regular season,11,2015-10-17,Hamilton,Dundee,1,1,0.5
+2015-2016,Regular season,11,2015-10-18,Dundee United,Hearts,0,1,0.0
+2015-2016,Regular season,12,2015-10-24,Aberdeen,Motherwell,1,1,0.5
+2015-2016,Regular season,12,2015-10-24,Partick Thistle,Hamilton,1,1,0.5
+2015-2016,Regular season,12,2015-10-24,Dundee,Kilmarnock,1,2,0.0
+2015-2016,Regular season,12,2015-10-24,Hearts,Ross County,2,0,1.0
+2015-2016,Regular season,12,2015-10-24,Inverness CT,St Johnstone,0,1,0.0
+2015-2016,Regular season,12,2015-10-25,Celtic,Dundee United,5,0,1.0
+2015-2016,Regular season,13,2015-10-31,Celtic,Aberdeen,3,1,1.0
+2015-2016,Regular season,13,2015-10-31,Inverness CT,Dundee,1,1,0.5
+2015-2016,Regular season,13,2015-10-31,Dundee United,Ross County,1,0,1.0
+2015-2016,Regular season,13,2015-10-31,Hamilton,St Johnstone,2,4,0.0
+2015-2016,Regular season,13,2015-10-31,Kilmarnock,Motherwell,0,1,0.0
+2015-2016,Regular season,13,2015-10-31,Partick Thistle,Hearts,0,4,0.0
+2015-2016,Regular season,14,2015-11-07,Motherwell,Inverness CT,1,3,0.0
+2015-2016,Regular season,14,2015-11-07,Dundee,Partick Thistle,1,1,0.5
+2015-2016,Regular season,14,2015-11-07,Hearts,Hamilton,2,0,1.0
+2015-2016,Regular season,14,2015-11-07,Aberdeen,Dundee United,2,0,1.0
+2015-2016,Regular season,14,2015-11-07,St Johnstone,Kilmarnock,2,1,1.0
+2015-2016,Regular season,14,2015-11-08,Ross County,Celtic,1,4,0.0
+2015-2016,Regular season,15,2015-11-21,Dundee United,St Johnstone,1,2,0.0
+2015-2016,Regular season,15,2015-11-21,Hearts,Dundee,1,1,0.5
+2015-2016,Regular season,15,2015-11-21,Celtic,Kilmarnock,0,0,0.5
+2015-2016,Regular season,15,2015-11-21,Partick Thistle,Inverness CT,2,1,1.0
+2015-2016,Regular season,15,2015-11-21,Ross County,Motherwell,3,0,1.0
+2015-2016,Regular season,15,2015-11-22,Hamilton,Aberdeen,1,1,0.5
+2015-2016,Regular season,16,2015-11-27,St Johnstone,Dundee,1,1,0.5
+2015-2016,Regular season,16,2015-11-28,Dundee United,Hamilton,1,2,0.0
+2015-2016,Regular season,16,2015-11-28,Kilmarnock,Partick Thistle,2,5,0.0
+2015-2016,Regular season,16,2015-11-28,Motherwell,Hearts,2,2,0.5
+2015-2016,Regular season,16,2015-11-28,Aberdeen,Ross County,3,1,1.0
+2015-2016,Regular season,16,2015-11-29,Inverness CT,Celtic,1,3,0.0
+2015-2016,Regular season,17,2015-12-05,Dundee,Aberdeen,0,2,0.0
+2015-2016,Regular season,17,2015-12-05,Ross County,St Johnstone,2,3,0.0
+2015-2016,Regular season,17,2015-12-05,Kilmarnock,Dundee United,1,1,0.5
+2015-2016,Regular season,18,2015-12-12,Aberdeen,Hearts,1,0,1.0
+2015-2016,Regular season,18,2015-12-12,Hamilton,Ross County,1,3,0.0
+2015-2016,Regular season,18,2015-12-12,Inverness CT,Kilmarnock,2,1,1.0
+2015-2016,Regular season,18,2015-12-12,Motherwell,Dundee,3,1,1.0
+2015-2016,Regular season,18,2015-12-12,Dundee United,Partick Thistle,0,1,0.0
+2015-2016,Regular season,18,2015-12-13,St Johnstone,Celtic,0,3,0.0
+2015-2016,Regular season,19,2015-12-19,Partick Thistle,Ross County,1,0,1.0
+2015-2016,Regular season,19,2015-12-19,Dundee,Hamilton,4,0,1.0
+2015-2016,Regular season,19,2015-12-19,Inverness CT,Dundee United,2,2,0.5
+2015-2016,Regular season,19,2015-12-19,Celtic,Motherwell,1,2,0.0
+2015-2016,Regular season,19,2015-12-19,St Johnstone,Hearts,0,0,0.5
+2015-2016,Regular season,19,2015-12-19,Kilmarnock,Aberdeen,0,4,0.0
+2015-2016,Regular season,20,2015-12-26,Hamilton,Kilmarnock,0,1,0.0
+2015-2016,Regular season,20,2015-12-26,Ross County,Dundee,5,2,1.0
+2015-2016,Regular season,20,2015-12-26,Aberdeen,Inverness CT,2,2,0.5
+2015-2016,Regular season,20,2015-12-27,Hearts,Celtic,2,2,0.5
+2015-2016,Regular season,21,2015-12-29,Ross County,Kilmarnock,3,2,1.0
+2015-2016,Regular season,21,2015-12-30,Hamilton,Inverness CT,3,4,0.0
+2015-2016,Regular season,21,2015-12-30,Aberdeen,Partick Thistle,0,0,0.5
+2015-2016,Regular season,21,2015-12-30,Motherwell,St Johnstone,2,0,1.0
+2015-2016,Regular season,21,2015-12-30,Hearts,Dundee United,3,2,1.0
+2015-2016,Regular season,22,2016-01-02,Dundee,Dundee United,2,1,1.0
+2015-2016,Regular season,22,2016-01-02,Celtic,Partick Thistle,1,0,1.0
+2015-2016,Regular season,22,2016-01-02,Inverness CT,Ross County,2,0,1.0
+2015-2016,Regular season,22,2016-01-02,Motherwell,Hamilton,3,3,0.5
+2015-2016,Regular season,22,2016-01-02,Kilmarnock,Hearts,2,2,0.5
+2015-2016,Regular season,23,2016-01-15,Dundee United,Celtic,1,4,0.0
+2015-2016,Regular season,23,2016-01-16,St Johnstone,Hamilton,0,0,0.5
+2015-2016,Regular season,23,2016-01-16,Hearts,Motherwell,6,0,1.0
+2015-2016,Regular season,23,2016-01-16,Partick Thistle,Dundee,2,4,0.0
+2015-2016,Regular season,23,2016-01-16,Kilmarnock,Inverness CT,2,1,1.0
+2015-2016,Regular season,23,2016-01-17,Ross County,Aberdeen,2,3,0.0
+2015-2016,Regular season,17,2016-01-19,Celtic,Hamilton,8,1,1.0
+2015-2016,Regular season,24,2016-01-22,Aberdeen,Dundee,1,0,1.0
+2015-2016,Regular season,24,2016-01-23,Dundee United,Kilmarnock,5,1,1.0
+2015-2016,Regular season,24,2016-01-23,Celtic,St Johnstone,3,1,1.0
+2015-2016,Regular season,24,2016-01-23,Inverness CT,Partick Thistle,0,0,0.5
+2015-2016,Regular season,24,2016-01-23,Motherwell,Ross County,1,2,0.0
+2015-2016,Regular season,24,2016-01-24,Hamilton,Hearts,0,0,0.5
+2015-2016,Regular season,25,2016-01-30,Kilmarnock,Hamilton,0,1,0.0
+2015-2016,Regular season,25,2016-01-30,Dundee,Motherwell,2,2,0.5
+2015-2016,Regular season,17,2016-02-02,Partick Thistle,Motherwell,1,0,1.0
+2015-2016,Regular season,25,2016-02-03,Aberdeen,Celtic,2,1,1.0
+2015-2016,Regular season,22,2016-02-06,St Johnstone,Aberdeen,3,4,0.0
+2015-2016,Regular season,25,2016-02-10,Ross County,Hearts,0,3,0.0
+2015-2016,Regular season,26,2016-02-12,Dundee,St Johnstone,2,0,1.0
+2015-2016,Regular season,26,2016-02-13,Celtic,Ross County,2,0,1.0
+2015-2016,Regular season,26,2016-02-13,Motherwell,Kilmarnock,0,2,0.0
+2015-2016,Regular season,26,2016-02-13,Hamilton,Dundee United,0,0,0.5
+2015-2016,Regular season,26,2016-02-15,Inverness CT,Aberdeen,3,1,1.0
+2015-2016,Regular season,20,2016-02-16,Dundee United,Motherwell,0,3,0.0
+2015-2016,Regular season,27,2016-02-20,St Johnstone,Motherwell,2,1,1.0
+2015-2016,Regular season,27,2016-02-20,Kilmarnock,Dundee,0,0,0.5
+2015-2016,Regular season,27,2016-02-20,Ross County,Hamilton,2,1,1.0
+2015-2016,Regular season,27,2016-02-20,Celtic,Inverness CT,3,0,1.0
+2015-2016,Regular season,27,2016-02-20,Dundee United,Hearts,2,1,1.0
+2015-2016,Regular season,20,2016-02-23,Partick Thistle,St Johnstone,2,0,1.0
+2015-2016,Regular season,28,2016-02-26,Hamilton,Celtic,1,1,0.5
+2015-2016,Regular season,28,2016-02-27,Hearts,Kilmarnock,1,0,1.0
+2015-2016,Regular season,28,2016-02-27,Dundee,Inverness CT,1,1,0.5
+2015-2016,Regular season,28,2016-02-27,Motherwell,Partick Thistle,3,1,1.0
+2015-2016,Regular season,28,2016-02-27,Aberdeen,St Johnstone,1,1,0.5
+2015-2016,Regular season,28,2016-02-27,Ross County,Dundee United,0,3,0.0
+2015-2016,Regular season,17,2016-03-01,Hearts,Inverness CT,2,0,1.0
+2015-2016,Regular season,29,2016-03-01,Kilmarnock,Ross County,0,2,0.0
+2015-2016,Regular season,29,2016-03-02,St Johnstone,Partick Thistle,1,2,0.0
+2015-2016,Regular season,29,2016-03-02,Celtic,Dundee,0,0,0.5
+2015-2016,Regular season,29,2016-03-02,Dundee United,Aberdeen,0,1,0.0
+2015-2016,Regular season,26,2016-03-05,Hearts,Partick Thistle,1,0,1.0
+2015-2016,Regular season,29,2016-03-05,Hamilton,Motherwell,0,1,0.0
+2015-2016,Regular season,27,2016-03-08,Partick Thistle,Aberdeen,1,2,0.0
+2015-2016,Regular season,25,2016-03-09,St Johnstone,Inverness CT,1,0,1.0
+2015-2016,Regular season,30,2016-03-11,Motherwell,Dundee United,2,1,1.0
+2015-2016,Regular season,30,2016-03-12,Partick Thistle,Celtic,1,2,0.0
+2015-2016,Regular season,30,2016-03-12,Inverness CT,Hamilton,0,1,0.0
+2015-2016,Regular season,30,2016-03-12,Aberdeen,Kilmarnock,2,1,1.0
+2015-2016,Regular season,30,2016-03-12,Dundee,Hearts,0,1,0.0
+2015-2016,Regular season,30,2016-03-16,St Johnstone,Ross County,1,1,0.5
+2015-2016,Regular season,31,2016-03-19,Kilmarnock,Celtic,0,1,0.0
+2015-2016,Regular season,31,2016-03-19,Motherwell,Aberdeen,2,1,1.0
+2015-2016,Regular season,31,2016-03-19,Hearts,St Johnstone,0,3,0.0
+2015-2016,Regular season,31,2016-03-19,Ross County,Inverness CT,0,3,0.0
+2015-2016,Regular season,31,2016-03-19,Hamilton,Partick Thistle,1,2,0.0
+2015-2016,Regular season,31,2016-03-20,Dundee United,Dundee,2,2,0.5
+2015-2016,Regular season,32,2016-04-02,Celtic,Hearts,3,1,1.0
+2015-2016,Regular season,32,2016-04-02,Partick Thistle,Kilmarnock,0,0,0.5
+2015-2016,Regular season,32,2016-04-02,St Johnstone,Dundee United,0,1,0.0
+2015-2016,Regular season,32,2016-04-02,Dundee,Ross County,5,2,1.0
+2015-2016,Regular season,32,2016-04-02,Inverness CT,Motherwell,1,2,0.0
+2015-2016,Regular season,32,2016-04-03,Aberdeen,Hamilton,3,0,1.0
+2015-2016,Regular season,21,2016-04-05,Dundee,Celtic,0,0,0.5
+2015-2016,Regular season,25,2016-04-05,Partick Thistle,Dundee United,1,0,1.0
+2015-2016,Regular season,33,2016-04-08,Hearts,Aberdeen,2,1,1.0
+2015-2016,Regular season,33,2016-04-09,Motherwell,Celtic,1,2,0.0
+2015-2016,Regular season,33,2016-04-09,Dundee United,Inverness CT,0,2,0.0
+2015-2016,Regular season,33,2016-04-09,Ross County,Partick Thistle,1,0,1.0
+2015-2016,Regular season,33,2016-04-09,Kilmarnock,St Johnstone,3,0,1.0
+2015-2016,Regular season,33,2016-04-09,Hamilton,Dundee,2,1,1.0
+2015-2016,Regular season,29,2016-04-12,Inverness CT,Hearts,0,0,0.5
+2015-2016,Championship round,1,2016-04-22,St Johnstone,Aberdeen,3,0,1.0
+2015-2016,Championship round,1,2016-04-23,Motherwell,Hearts,1,0,1.0
+2015-2016,Relegation round,1,2016-04-23,Partick Thistle,Dundee,1,2,0.0
+2015-2016,Relegation round,1,2016-04-24,Inverness CT,Kilmarnock,3,1,1.0
+2015-2016,Championship round,1,2016-04-24,Celtic,Ross County,1,1,0.5
+2015-2016,Relegation round,1,2016-04-24,Dundee United,Hamilton,1,3,0.0
+2015-2016,Championship round,2,2016-04-30,Hearts,Celtic,1,3,0.0
+2015-2016,Championship round,2,2016-04-30,Aberdeen,Motherwell,4,1,1.0
+2015-2016,Championship round,2,2016-04-30,Ross County,St Johnstone,0,1,0.0
+2015-2016,Relegation round,2,2016-04-30,Partick Thistle,Inverness CT,1,4,0.0
+2015-2016,Relegation round,2,2016-04-30,Hamilton,Kilmarnock,0,4,0.0
+2015-2016,Relegation round,2,2016-05-02,Dundee,Dundee United,2,1,1.0
+2015-2016,Relegation round,3,2016-05-06,Inverness CT,Dundee United,2,3,0.0
+2015-2016,Championship round,3,2016-05-07,Motherwell,St Johnstone,1,2,0.0
+2015-2016,Championship round,3,2016-05-07,Hearts,Ross County,1,1,0.5
+2015-2016,Relegation round,3,2016-05-07,Dundee,Hamilton,0,1,0.0
+2015-2016,Relegation round,3,2016-05-07,Kilmarnock,Partick Thistle,0,2,0.0
+2015-2016,Championship round,3,2016-05-08,Celtic,Aberdeen,3,2,1.0
+2015-2016,Relegation round,4,2016-05-10,Dundee United,Partick Thistle,3,3,0.5
+2015-2016,Championship round,4,2016-05-11,St Johnstone,Celtic,2,1,1.0
+2015-2016,Championship round,4,2016-05-11,Ross County,Motherwell,1,3,0.0
+2015-2016,Relegation round,4,2016-05-11,Dundee,Kilmarnock,1,1,0.5
+2015-2016,Relegation round,4,2016-05-11,Hamilton,Inverness CT,0,1,0.0
+2015-2016,Championship round,4,2016-05-12,Aberdeen,Hearts,0,1,0.0
+2015-2016,Relegation round,5,2016-05-14,Inverness CT,Dundee,4,0,1.0
+2015-2016,Relegation round,5,2016-05-14,Kilmarnock,Dundee United,2,4,0.0
+2015-2016,Relegation round,5,2016-05-14,Partick Thistle,Hamilton,2,2,0.5
+2015-2016,Championship round,5,2016-05-15,Hearts,St Johnstone,2,2,0.5
+2015-2016,Championship round,5,2016-05-15,Celtic,Motherwell,7,0,1.0
+2015-2016,Championship round,5,2016-05-15,Aberdeen,Ross County,0,4,0.0
+2015-2016,Finals,,2016-05-19,Falkirk,Kilmarnock,1,0,1.0
+2015-2016,Finals,,2016-05-22,Kilmarnock,Falkirk,4,0,1.0

@@ -1,0 +1,271 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,Relegation round,1,2015-07-10,Voluntari,Studențesc Iași,1,1,0.5
+2015-2016,Relegation round,1,2015-07-10,Astra Giurgiu,Concordia,2,2,0.5
+2015-2016,Relegation round,1,2015-07-11,Viitorul Constanța,CFR Cluj,2,2,0.5
+2015-2016,Relegation round,1,2015-07-11,FCSB,Petrolul,0,0,0.5
+2015-2016,Relegation round,1,2015-07-12,CS U Craiova,Botoșani,0,0,0.5
+2015-2016,Relegation round,1,2015-07-12,Târgu Mureș,Dinamo București,0,0,0.5
+2015-2016,Relegation round,1,2015-07-13,Poli Timișoara,Pandurii Târgu Jiu,0,1,0.0
+2015-2016,Relegation round,2,2015-07-17,Concordia,Studențesc Iași,0,1,0.0
+2015-2016,Relegation round,2,2015-07-17,Dinamo București,CS U Craiova,1,0,1.0
+2015-2016,Relegation round,2,2015-07-18,Petrolul,Voluntari,1,1,0.5
+2015-2016,Relegation round,2,2015-07-18,Pandurii Târgu Jiu,FCSB,0,3,0.0
+2015-2016,Relegation round,2,2015-07-19,CFR Cluj,Poli Timișoara,1,0,1.0
+2015-2016,Relegation round,2,2015-07-19,Astra Giurgiu,Târgu Mureș,1,5,0.0
+2015-2016,Relegation round,2,2015-07-20,Botoșani,Viitorul Constanța,2,2,0.5
+2015-2016,Relegation round,3,2015-07-24,Voluntari,Pandurii Târgu Jiu,0,0,0.5
+2015-2016,Relegation round,3,2015-07-24,Târgu Mureș,Concordia,1,0,1.0
+2015-2016,Relegation round,3,2015-07-25,Viitorul Constanța,Dinamo București,1,1,0.5
+2015-2016,Relegation round,3,2015-07-25,FCSB,CFR Cluj,1,1,0.5
+2015-2016,Relegation round,3,2015-07-26,CS U Craiova,Astra Giurgiu,1,2,0.0
+2015-2016,Relegation round,3,2015-07-26,Studențesc Iași,Petrolul,1,0,1.0
+2015-2016,Relegation round,3,2015-07-27,Poli Timișoara,Botoșani,1,0,1.0
+2015-2016,Relegation round,4,2015-07-31,CFR Cluj,Voluntari,2,0,1.0
+2015-2016,Relegation round,4,2015-07-31,Concordia,Petrolul,2,2,0.5
+2015-2016,Relegation round,4,2015-08-01,Pandurii Târgu Jiu,Studențesc Iași,3,0,1.0
+2015-2016,Relegation round,4,2015-08-01,Botoșani,FCSB,0,1,0.0
+2015-2016,Relegation round,4,2015-08-02,Astra Giurgiu,Viitorul Constanța,2,2,0.5
+2015-2016,Relegation round,4,2015-08-02,Târgu Mureș,CS U Craiova,0,0,0.5
+2015-2016,Relegation round,4,2015-08-03,Dinamo București,Poli Timișoara,2,1,1.0
+2015-2016,Relegation round,5,2015-08-07,Voluntari,Botoșani,1,1,0.5
+2015-2016,Relegation round,5,2015-08-07,Studențesc Iași,CFR Cluj,2,1,1.0
+2015-2016,Relegation round,5,2015-08-08,CS U Craiova,Concordia,2,0,1.0
+2015-2016,Relegation round,5,2015-08-08,Petrolul,Pandurii Târgu Jiu,1,1,0.5
+2015-2016,Relegation round,5,2015-08-09,Viitorul Constanța,Târgu Mureș,1,0,1.0
+2015-2016,Relegation round,5,2015-08-09,Poli Timișoara,Astra Giurgiu,1,3,0.0
+2015-2016,Relegation round,5,2015-08-09,FCSB,Dinamo București,0,0,0.5
+2015-2016,Relegation round,6,2015-08-11,Botoșani,Studențesc Iași,1,0,1.0
+2015-2016,Relegation round,6,2015-08-11,CFR Cluj,Petrolul,1,0,1.0
+2015-2016,Relegation round,6,2015-08-12,CS U Craiova,Viitorul Constanța,1,2,0.0
+2015-2016,Relegation round,6,2015-08-12,Târgu Mureș,Poli Timișoara,0,0,0.5
+2015-2016,Relegation round,6,2015-08-12,Astra Giurgiu,FCSB,2,0,1.0
+2015-2016,Relegation round,6,2015-08-13,Concordia,Pandurii Târgu Jiu,3,0,1.0
+2015-2016,Relegation round,6,2015-08-13,Dinamo București,Voluntari,3,0,1.0
+2015-2016,Relegation round,7,2015-08-14,Petrolul,Botoșani,2,1,1.0
+2015-2016,Relegation round,7,2015-08-15,Poli Timișoara,CS U Craiova,1,1,0.5
+2015-2016,Relegation round,7,2015-08-15,FCSB,Târgu Mureș,1,1,0.5
+2015-2016,Relegation round,7,2015-08-16,Voluntari,Astra Giurgiu,1,2,0.0
+2015-2016,Relegation round,7,2015-08-16,Studențesc Iași,Dinamo București,0,0,0.5
+2015-2016,Relegation round,7,2015-08-17,Viitorul Constanța,Concordia,3,1,1.0
+2015-2016,Relegation round,7,2015-08-17,Pandurii Târgu Jiu,CFR Cluj,1,1,0.5
+2015-2016,Relegation round,8,2015-08-21,Târgu Mureș,Voluntari,2,1,1.0
+2015-2016,Relegation round,8,2015-08-21,Viitorul Constanța,Poli Timișoara,4,0,1.0
+2015-2016,Relegation round,8,2015-08-22,Botoșani,Pandurii Târgu Jiu,0,2,0.0
+2015-2016,Relegation round,8,2015-08-22,Dinamo București,Petrolul,2,0,1.0
+2015-2016,Relegation round,8,2015-08-23,CS U Craiova,FCSB,1,2,0.0
+2015-2016,Relegation round,8,2015-08-23,Astra Giurgiu,Studențesc Iași,4,1,1.0
+2015-2016,Relegation round,8,2015-08-24,Concordia,CFR Cluj,2,1,1.0
+2015-2016,Relegation round,9,2015-08-28,Voluntari,CS U Craiova,1,2,0.0
+2015-2016,Relegation round,9,2015-08-28,Studențesc Iași,Târgu Mureș,0,1,0.0
+2015-2016,Relegation round,9,2015-08-29,Poli Timișoara,Concordia,1,0,1.0
+2015-2016,Relegation round,9,2015-08-29,Pandurii Târgu Jiu,Dinamo București,2,2,0.5
+2015-2016,Relegation round,9,2015-08-30,Petrolul,Astra Giurgiu,0,1,0.0
+2015-2016,Relegation round,9,2015-08-30,FCSB,Viitorul Constanța,1,0,1.0
+2015-2016,Relegation round,9,2015-08-31,CFR Cluj,Botoșani,3,1,1.0
+2015-2016,Relegation round,10,2015-09-12,Concordia,Botoșani,0,0,0.5
+2015-2016,Relegation round,10,2015-09-12,Târgu Mureș,Petrolul,1,1,0.5
+2015-2016,Relegation round,10,2015-09-13,CS U Craiova,Studențesc Iași,2,0,1.0
+2015-2016,Relegation round,10,2015-09-13,Astra Giurgiu,Pandurii Târgu Jiu,1,2,0.0
+2015-2016,Relegation round,10,2015-09-13,Poli Timișoara,FCSB,1,0,1.0
+2015-2016,Relegation round,10,2015-09-14,Viitorul Constanța,Voluntari,3,0,1.0
+2015-2016,Relegation round,10,2015-09-14,Dinamo București,CFR Cluj,0,2,0.0
+2015-2016,Relegation round,11,2015-09-18,Voluntari,Poli Timișoara,0,0,0.5
+2015-2016,Relegation round,11,2015-09-18,Pandurii Târgu Jiu,Târgu Mureș,2,0,1.0
+2015-2016,Relegation round,11,2015-09-19,Studențesc Iași,Viitorul Constanța,0,0,0.5
+2015-2016,Relegation round,11,2015-09-19,CFR Cluj,Astra Giurgiu,1,1,0.5
+2015-2016,Relegation round,11,2015-09-20,Petrolul,CS U Craiova,0,1,0.0
+2015-2016,Relegation round,11,2015-09-20,Botoșani,Dinamo București,1,1,0.5
+2015-2016,Relegation round,11,2015-09-21,FCSB,Concordia,3,1,1.0
+2015-2016,Relegation round,12,2015-09-25,Poli Timișoara,Studențesc Iași,2,2,0.5
+2015-2016,Relegation round,12,2015-09-25,Târgu Mureș,CFR Cluj,0,0,0.5
+2015-2016,Relegation round,12,2015-09-26,CS U Craiova,Pandurii Târgu Jiu,0,0,0.5
+2015-2016,Relegation round,12,2015-09-26,Viitorul Constanța,Petrolul,1,0,1.0
+2015-2016,Relegation round,12,2015-09-27,Astra Giurgiu,Botoșani,1,0,1.0
+2015-2016,Relegation round,12,2015-09-27,FCSB,Voluntari,3,1,1.0
+2015-2016,Relegation round,12,2015-09-28,Concordia,Dinamo București,1,3,0.0
+2015-2016,Relegation round,13,2015-10-02,Voluntari,Concordia,1,1,0.5
+2015-2016,Relegation round,13,2015-10-02,Pandurii Târgu Jiu,Viitorul Constanța,1,0,1.0
+2015-2016,Relegation round,13,2015-10-03,Dinamo București,Astra Giurgiu,0,1,0.0
+2015-2016,Relegation round,13,2015-10-03,Studențesc Iași,FCSB,1,2,0.0
+2015-2016,Relegation round,13,2015-10-04,Botoșani,Târgu Mureș,1,1,0.5
+2015-2016,Relegation round,13,2015-10-04,CFR Cluj,CS U Craiova,1,2,0.0
+2015-2016,Relegation round,13,2015-10-05,Petrolul,Poli Timișoara,1,1,0.5
+2015-2016,Relegation round,14,2015-10-16,Botoșani,CS U Craiova,3,2,1.0
+2015-2016,Relegation round,14,2015-10-17,Studențesc Iași,Voluntari,2,1,1.0
+2015-2016,Relegation round,14,2015-10-17,Dinamo București,Târgu Mureș,2,1,1.0
+2015-2016,Relegation round,14,2015-10-18,Concordia,Astra Giurgiu,0,2,0.0
+2015-2016,Relegation round,14,2015-10-18,Petrolul,FCSB,0,0,0.5
+2015-2016,Relegation round,14,2015-10-19,Pandurii Târgu Jiu,Poli Timișoara,3,1,1.0
+2015-2016,Relegation round,14,2015-10-19,CFR Cluj,Viitorul Constanța,1,2,0.0
+2015-2016,Relegation round,15,2015-10-23,Studențesc Iași,Concordia,0,1,0.0
+2015-2016,Relegation round,15,2015-10-23,Poli Timișoara,CFR Cluj,1,2,0.0
+2015-2016,Relegation round,15,2015-10-24,Voluntari,Petrolul,1,0,1.0
+2015-2016,Relegation round,15,2015-10-24,Târgu Mureș,Astra Giurgiu,3,1,1.0
+2015-2016,Relegation round,15,2015-10-25,CS U Craiova,Dinamo București,3,0,1.0
+2015-2016,Relegation round,15,2015-10-25,FCSB,Pandurii Târgu Jiu,1,1,0.5
+2015-2016,Relegation round,15,2015-10-26,Viitorul Constanța,Botoșani,3,1,1.0
+2015-2016,Relegation round,16,2015-10-30,Astra Giurgiu,CS U Craiova,1,0,1.0
+2015-2016,Relegation round,16,2015-10-31,Concordia,Târgu Mureș,1,2,0.0
+2015-2016,Relegation round,16,2015-10-31,Petrolul,Studențesc Iași,1,2,0.0
+2015-2016,Relegation round,16,2015-11-01,Pandurii Târgu Jiu,Voluntari,2,1,1.0
+2015-2016,Relegation round,16,2015-11-01,CFR Cluj,FCSB,2,0,1.0
+2015-2016,Relegation round,16,2015-11-02,Botoșani,Poli Timișoara,1,1,0.5
+2015-2016,Relegation round,16,2015-11-02,Dinamo București,Viitorul Constanța,1,5,0.0
+2015-2016,Relegation round,17,2015-11-06,Studențesc Iași,Pandurii Târgu Jiu,1,0,1.0
+2015-2016,Relegation round,17,2015-11-06,Viitorul Constanța,Astra Giurgiu,1,2,0.0
+2015-2016,Relegation round,17,2015-11-07,Voluntari,CFR Cluj,2,2,0.5
+2015-2016,Relegation round,17,2015-11-07,Poli Timișoara,Dinamo București,0,1,0.0
+2015-2016,Relegation round,17,2015-11-08,CS U Craiova,Târgu Mureș,1,1,0.5
+2015-2016,Relegation round,17,2015-11-08,FCSB,Botoșani,5,3,1.0
+2015-2016,Relegation round,17,2015-11-09,Petrolul,Concordia,1,1,0.5
+2015-2016,Relegation round,18,2015-11-20,Concordia,CS U Craiova,0,2,0.0
+2015-2016,Relegation round,18,2015-11-21,CFR Cluj,Studențesc Iași,0,0,0.5
+2015-2016,Relegation round,18,2015-11-21,Astra Giurgiu,Poli Timișoara,2,2,0.5
+2015-2016,Relegation round,18,2015-11-22,Târgu Mureș,Viitorul Constanța,2,2,0.5
+2015-2016,Relegation round,18,2015-11-22,Dinamo București,FCSB,3,1,1.0
+2015-2016,Relegation round,18,2015-11-23,Botoșani,Voluntari,2,2,0.5
+2015-2016,Relegation round,18,2015-11-23,Pandurii Târgu Jiu,Petrolul,3,2,1.0
+2015-2016,Relegation round,19,2015-11-27,Pandurii Târgu Jiu,Concordia,2,0,1.0
+2015-2016,Relegation round,19,2015-11-27,Petrolul,CFR Cluj,1,0,1.0
+2015-2016,Relegation round,19,2015-11-28,Poli Timișoara,Târgu Mureș,2,0,1.0
+2015-2016,Relegation round,19,2015-11-28,Viitorul Constanța,CS U Craiova,4,0,1.0
+2015-2016,Relegation round,19,2015-11-29,Studențesc Iași,Botoșani,1,0,1.0
+2015-2016,Relegation round,19,2015-11-29,FCSB,Astra Giurgiu,0,1,0.0
+2015-2016,Relegation round,19,2015-11-30,Voluntari,Dinamo București,1,3,0.0
+2015-2016,Relegation round,20,2015-12-01,CS U Craiova,Poli Timișoara,1,1,0.5
+2015-2016,Relegation round,20,2015-12-01,Concordia,Viitorul Constanța,2,2,0.5
+2015-2016,Relegation round,20,2015-12-01,CFR Cluj,Pandurii Târgu Jiu,1,2,0.0
+2015-2016,Relegation round,20,2015-12-02,Botoșani,Petrolul,2,1,1.0
+2015-2016,Relegation round,20,2015-12-02,Târgu Mureș,FCSB,1,1,0.5
+2015-2016,Relegation round,20,2015-12-03,Astra Giurgiu,Voluntari,1,1,0.5
+2015-2016,Relegation round,20,2015-12-03,Dinamo București,Studențesc Iași,0,0,0.5
+2015-2016,Relegation round,21,2015-12-04,CFR Cluj,Concordia,0,0,0.5
+2015-2016,Relegation round,21,2015-12-05,Pandurii Târgu Jiu,Botoșani,0,3,0.0
+2015-2016,Relegation round,21,2015-12-05,Poli Timișoara,Viitorul Constanța,1,2,0.0
+2015-2016,Relegation round,21,2015-12-06,Studențesc Iași,Astra Giurgiu,1,1,0.5
+2015-2016,Relegation round,21,2015-12-06,FCSB,CS U Craiova,2,0,1.0
+2015-2016,Relegation round,21,2015-12-07,Voluntari,Târgu Mureș,0,2,0.0
+2015-2016,Relegation round,21,2015-12-07,Petrolul,Dinamo București,1,2,0.0
+2015-2016,Relegation round,22,2015-12-11,Concordia,Poli Timișoara,2,2,0.5
+2015-2016,Relegation round,22,2015-12-11,Târgu Mureș,Studențesc Iași,1,1,0.5
+2015-2016,Relegation round,22,2015-12-12,Astra Giurgiu,Petrolul,3,1,1.0
+2015-2016,Relegation round,22,2015-12-12,Dinamo București,Pandurii Târgu Jiu,2,1,1.0
+2015-2016,Relegation round,22,2015-12-13,CS U Craiova,Voluntari,1,2,0.0
+2015-2016,Relegation round,22,2015-12-13,Botoșani,CFR Cluj,2,1,1.0
+2015-2016,Relegation round,22,2015-12-14,Viitorul Constanța,FCSB,0,1,0.0
+2015-2016,Relegation round,23,2015-12-18,Botoșani,Concordia,5,1,1.0
+2015-2016,Relegation round,23,2015-12-19,Studențesc Iași,CS U Craiova,1,0,1.0
+2015-2016,Relegation round,23,2015-12-19,Pandurii Târgu Jiu,Astra Giurgiu,1,1,0.5
+2015-2016,Relegation round,23,2015-12-20,Petrolul,Târgu Mureș,0,1,0.0
+2015-2016,Relegation round,23,2015-12-20,CFR Cluj,Dinamo București,1,1,0.5
+2015-2016,Relegation round,23,2015-12-21,Voluntari,Viitorul Constanța,2,3,0.0
+2015-2016,Relegation round,23,2015-12-21,FCSB,Poli Timișoara,3,1,1.0
+2015-2016,Relegation round,24,2016-02-12,Târgu Mureș,Pandurii Târgu Jiu,0,1,0.0
+2015-2016,Relegation round,24,2016-02-13,Viitorul Constanța,Studențesc Iași,1,2,0.0
+2015-2016,Relegation round,24,2016-02-13,Astra Giurgiu,CFR Cluj,2,2,0.5
+2015-2016,Relegation round,24,2016-02-14,CS U Craiova,Petrolul,2,0,1.0
+2015-2016,Relegation round,24,2016-02-14,Poli Timișoara,Voluntari,1,2,0.0
+2015-2016,Relegation round,24,2016-02-14,Dinamo București,Botoșani,1,0,1.0
+2015-2016,Relegation round,24,2016-02-15,Concordia,FCSB,0,2,0.0
+2015-2016,Relegation round,25,2016-02-19,Botoșani,Astra Giurgiu,0,1,0.0
+2015-2016,Relegation round,25,2016-02-20,Studențesc Iași,Poli Timișoara,1,1,0.5
+2015-2016,Relegation round,25,2016-02-20,Dinamo București,Concordia,4,0,1.0
+2015-2016,Relegation round,25,2016-02-21,Petrolul,Viitorul Constanța,1,2,0.0
+2015-2016,Relegation round,25,2016-02-21,CFR Cluj,Târgu Mureș,1,0,1.0
+2015-2016,Relegation round,25,2016-02-22,Pandurii Târgu Jiu,CS U Craiova,1,1,0.5
+2015-2016,Relegation round,25,2016-02-22,Voluntari,FCSB,3,1,1.0
+2015-2016,Relegation round,26,2016-02-26,Poli Timișoara,Petrolul,1,0,1.0
+2015-2016,Relegation round,26,2016-02-27,CS U Craiova,CFR Cluj,0,1,0.0
+2015-2016,Relegation round,26,2016-02-27,Târgu Mureș,Botoșani,1,0,1.0
+2015-2016,Relegation round,26,2016-02-27,FCSB,Studențesc Iași,1,1,0.5
+2015-2016,Relegation round,26,2016-02-28,Concordia,Voluntari,1,2,0.0
+2015-2016,Relegation round,26,2016-02-28,Astra Giurgiu,Dinamo București,1,1,0.5
+2015-2016,Relegation round,26,2016-02-29,Viitorul Constanța,Pandurii Târgu Jiu,1,3,0.0
+2015-2016,Regular season,1,2016-03-04,Botoșani,Petrolul,1,0,1.0
+2015-2016,Regular season,1,2016-03-05,Studențesc Iași,CFR Cluj,0,2,0.0
+2015-2016,Championship round,1,2016-03-05,Astra Giurgiu,Viitorul,2,0,1.0
+2015-2016,Regular season,1,2016-03-06,CS U Craiova,Voluntari,3,0,1.0
+2015-2016,Championship round,1,2016-03-06,Dinamo,Steaua,1,1,0.5
+2015-2016,Regular season,1,2016-03-07,Concordia,Poli Timișoara,0,0,0.5
+2015-2016,Championship round,1,2016-03-07,Târgu Mureș,Pandurii,0,2,0.0
+2015-2016,Regular season,2,2016-03-11,Petrolul,Studențesc Iași,1,2,0.0
+2015-2016,Regular season,2,2016-03-12,Voluntari,Botoșani,1,1,0.5
+2015-2016,Championship round,2,2016-03-12,Pandurii,Viitorul,1,1,0.5
+2015-2016,Regular season,2,2016-03-13,Poli Timișoara,CFR Cluj,2,2,0.5
+2015-2016,Championship round,2,2016-03-13,Steaua,Astra Giurgiu,2,0,1.0
+2015-2016,Championship round,2,2016-03-14,Târgu Mureș,Dinamo,0,0,0.5
+2015-2016,Regular season,2,2016-03-14,Concordia,CS U Craiova,1,0,1.0
+2015-2016,Regular season,3,2016-03-18,Studențesc Iași,Voluntari,0,1,0.0
+2015-2016,Championship round,3,2016-03-18,Astra Giurgiu,Târgu Mureș,1,0,1.0
+2015-2016,Regular season,3,2016-03-19,Botoșani,Concordia,0,3,0.0
+2015-2016,Championship round,3,2016-03-19,Viitorul,Steaua,1,3,0.0
+2015-2016,Regular season,3,2016-03-20,CS U Craiova,Poli Timișoara,1,0,1.0
+2015-2016,Championship round,3,2016-03-20,Dinamo,Pandurii,1,1,0.5
+2015-2016,Regular season,3,2016-03-21,CFR Cluj,Petrolul,0,0,0.5
+2015-2016,Regular season,4,2016-03-29,Poli Timișoara,Petrolul,0,1,0.0
+2015-2016,Regular season,4,2016-03-30,Voluntari,CFR Cluj,1,0,1.0
+2015-2016,Regular season,4,2016-03-30,Concordia,Studențesc Iași,1,1,0.5
+2015-2016,Championship round,4,2016-03-30,Pandurii,Steaua,0,1,0.0
+2015-2016,Regular season,4,2016-03-31,CS U Craiova,Botoșani,2,1,1.0
+2015-2016,Championship round,4,2016-03-31,Târgu Mureș,Viitorul,1,1,0.5
+2015-2016,Championship round,4,2016-04-01,Dinamo,Astra Giurgiu,1,4,0.0
+2015-2016,Regular season,5,2016-04-02,Petrolul,Voluntari,1,2,0.0
+2015-2016,Regular season,5,2016-04-02,CFR Cluj,Concordia,2,0,1.0
+2015-2016,Regular season,5,2016-04-03,Studențesc Iași,CS U Craiova,3,0,1.0
+2015-2016,Championship round,5,2016-04-03,Steaua,Târgu Mureș,2,1,1.0
+2015-2016,Regular season,5,2016-04-04,Botoșani,Poli Timișoara,6,1,1.0
+2015-2016,Championship round,5,2016-04-04,Viitorul,Dinamo,1,2,0.0
+2015-2016,Championship round,5,2016-04-05,Astra Giurgiu,Pandurii,0,0,0.5
+2015-2016,Regular season,6,2016-04-08,Concordia,Petrolul,1,1,0.5
+2015-2016,Regular season,6,2016-04-09,CS U Craiova,CFR Cluj,1,1,0.5
+2015-2016,Championship round,6,2016-04-09,Viitorul,Astra Giurgiu,1,3,0.0
+2015-2016,Regular season,6,2016-04-10,Poli Timișoara,Voluntari,2,1,1.0
+2015-2016,Championship round,6,2016-04-10,Steaua,Dinamo,1,1,0.5
+2015-2016,Regular season,6,2016-04-11,Botoșani,Studențesc Iași,0,0,0.5
+2015-2016,Championship round,6,2016-04-11,Pandurii,Târgu Mureș,3,3,0.5
+2015-2016,Regular season,7,2016-04-15,Petrolul,CS U Craiova,1,0,1.0
+2015-2016,Regular season,7,2016-04-16,CFR Cluj,Botoșani,6,0,1.0
+2015-2016,Championship round,7,2016-04-16,Astra Giurgiu,Steaua,2,0,1.0
+2015-2016,Regular season,7,2016-04-17,Voluntari,Concordia,1,2,0.0
+2015-2016,Championship round,7,2016-04-17,Dinamo,Târgu Mureș,1,0,1.0
+2015-2016,Regular season,7,2016-04-18,Studențesc Iași,Poli Timișoara,0,0,0.5
+2015-2016,Championship round,7,2016-04-18,Viitorul,Pandurii,0,2,0.0
+2015-2016,Regular season,8,2016-04-22,Petrolul,Botoșani,0,4,0.0
+2015-2016,Regular season,8,2016-04-23,Poli Timișoara,Concordia,1,3,0.0
+2015-2016,Championship round,8,2016-04-23,Steaua,Viitorul,3,0,1.0
+2015-2016,Regular season,8,2016-04-24,CFR Cluj,Studențesc Iași,0,0,0.5
+2015-2016,Championship round,8,2016-04-24,Pandurii,Dinamo,0,0,0.5
+2015-2016,Regular season,8,2016-04-25,Voluntari,CS U Craiova,0,2,0.0
+2015-2016,Championship round,8,2016-04-25,Târgu Mureș,Astra Giurgiu,1,4,0.0
+2015-2016,Regular season,9,2016-04-29,Botoșani,Voluntari,4,2,1.0
+2015-2016,Regular season,9,2016-04-30,Studențesc Iași,Petrolul,1,0,1.0
+2015-2016,Regular season,9,2016-04-30,CFR Cluj,Poli Timișoara,5,1,1.0
+2015-2016,Regular season,9,2016-05-01,CS U Craiova,Concordia,2,0,1.0
+2015-2016,Championship round,9,2016-05-01,Steaua,Pandurii,1,1,0.5
+2015-2016,Championship round,9,2016-05-02,Viitorul,Târgu Mureș,6,1,1.0
+2015-2016,Championship round,9,2016-05-02,Astra Giurgiu,Dinamo,4,2,1.0
+2015-2016,Regular season,10,2016-05-06,Petrolul,CFR Cluj,1,0,1.0
+2015-2016,Championship round,10,2016-05-06,Dinamo,Viitorul,3,3,0.5
+2015-2016,Regular season,10,2016-05-09,Voluntari,Studențesc Iași,1,2,0.0
+2015-2016,Championship round,10,2016-05-09,Pandurii,Astra Giurgiu,2,0,1.0
+2015-2016,Regular season,10,2016-05-10,Concordia,Botoșani,1,1,0.5
+2015-2016,Championship round,10,2016-05-10,Târgu Mureș,Steaua,1,4,0.0
+2015-2016,Regular season,10,2016-05-11,Poli Timișoara,CS U Craiova,2,2,0.5
+2015-2016,Regular season,11,2016-05-13,CFR Cluj,Voluntari,2,1,1.0
+2015-2016,Regular season,11,2016-05-15,Studențesc Iași,Concordia,2,3,0.0
+2015-2016,Regular season,11,2016-05-16,Petrolul,Poli Timișoara,3,2,1.0
+2015-2016,Regular season,11,2016-05-16,Botoșani,CS U Craiova,2,1,1.0
+2015-2016,Regular season,12,2016-05-21,Voluntari,Petrolul,2,0,1.0
+2015-2016,Regular season,12,2016-05-21,Concordia,CFR Cluj,2,1,1.0
+2015-2016,Regular season,12,2016-05-22,CS U Craiova,Studențesc Iași,3,2,1.0
+2015-2016,Regular season,12,2016-05-22,Poli Timișoara,Botoșani,1,4,0.0
+2015-2016,Regular season,13,2016-05-24,Petrolul,Concordia,0,1,0.0
+2015-2016,Regular season,13,2016-05-25,Voluntari,Poli Timișoara,5,0,1.0
+2015-2016,Regular season,13,2016-05-26,Studențesc Iași,Botoșani,1,1,0.5
+2015-2016,Regular season,13,2016-05-26,CFR Cluj,CS U Craiova,4,0,1.0
+2015-2016,Regular season,14,2016-05-29,CS U Craiova,Petrolul,2,0,1.0
+2015-2016,Regular season,14,2016-05-29,Concordia,Voluntari,1,1,0.5
+2015-2016,Regular season,14,2016-05-29,Poli Timișoara,Studențesc Iași,2,3,0.0
+2015-2016,Regular season,14,2016-05-29,Botoșani,CFR Cluj,4,0,1.0
+2015-2016,Romanian 1/2 Relegation/Promotion Playoffs,,2016-06-08,Voluntari,UTA,3,0,1.0
+2015-2016,Romanian 1/2 Relegation/Promotion Playoffs,,2016-06-12,UTA,Voluntari,1,0,1.0

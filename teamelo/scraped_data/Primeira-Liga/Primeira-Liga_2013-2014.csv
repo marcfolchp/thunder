@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2013-2014,1,2013-08-16,Paços,Braga,0,2,0.0
+2013-2014,1,2013-08-17,Estoril,Nacional,3,1,1.0
+2013-2014,1,2013-08-17,Vitória,Olhanense,2,0,1.0
+2013-2014,1,2013-08-18,Belenenses,Rio Ave,0,3,0.0
+2013-2014,1,2013-08-18,Vitória Setúbal,Porto,1,3,0.0
+2013-2014,1,2013-08-18,Gil Vicente,Académica,2,0,1.0
+2013-2014,1,2013-08-18,Sporting CP,Arouca,5,1,1.0
+2013-2014,1,2013-08-18,Marítimo,Benfica,2,1,1.0
+2013-2014,2,2013-08-24,Olhanense,Paços,1,0,1.0
+2013-2014,2,2013-08-24,Académica,Sporting CP,0,4,0.0
+2013-2014,2,2013-08-25,Rio Ave,Vitória Setúbal,2,0,1.0
+2013-2014,2,2013-08-25,Benfica,Gil Vicente,2,1,1.0
+2013-2014,2,2013-08-25,Porto,Marítimo,3,0,1.0
+2013-2014,2,2013-08-25,Nacional,Vitória,1,1,0.5
+2013-2014,2,2013-08-25,Arouca,Estoril,1,2,0.0
+2013-2014,2,2013-08-26,Braga,Belenenses,2,1,1.0
+2013-2014,3,2013-08-31,Sporting CP,Benfica,1,1,0.5
+2013-2014,3,2013-08-31,Vitória,Vitória Setúbal,1,4,0.0
+2013-2014,3,2013-09-01,Arouca,Rio Ave,1,0,1.0
+2013-2014,3,2013-09-01,Gil Vicente,Braga,1,0,1.0
+2013-2014,3,2013-09-01,Marítimo,Olhanense,1,1,0.5
+2013-2014,3,2013-09-01,Belenenses,Nacional,2,3,0.0
+2013-2014,3,2013-09-01,Paços,Porto,0,1,0.0
+2013-2014,3,2013-09-02,Estoril,Académica,1,1,0.5
+2013-2014,4,2013-09-14,Rio Ave,Vitória,0,1,0.0
+2013-2014,4,2013-09-14,Benfica,Paços,3,1,1.0
+2013-2014,4,2013-09-14,Porto,Gil Vicente,2,0,1.0
+2013-2014,4,2013-09-15,Vitória Setúbal,Marítimo,2,4,0.0
+2013-2014,4,2013-09-15,Braga,Estoril,3,2,1.0
+2013-2014,4,2013-09-15,Nacional,Arouca,0,1,0.0
+2013-2014,4,2013-09-15,Olhanense,Sporting CP,0,2,0.0
+2013-2014,4,2013-09-15,Académica,Belenenses,2,1,1.0
+2013-2014,5,2013-09-20,Arouca,Braga,0,1,0.0
+2013-2014,5,2013-09-21,Belenenses,Marítimo,1,0,1.0
+2013-2014,5,2013-09-21,Gil Vicente,Olhanense,1,1,0.5
+2013-2014,5,2013-09-21,Sporting CP,Rio Ave,1,1,0.5
+2013-2014,5,2013-09-22,Vitória,Benfica,0,1,0.0
+2013-2014,5,2013-09-22,Nacional,Académica,1,0,1.0
+2013-2014,5,2013-09-22,Estoril,Porto,2,2,0.5
+2013-2014,5,2013-09-23,Paços,Vitória Setúbal,1,1,0.5
+2013-2014,6,2013-09-27,Porto,Vitória,1,0,1.0
+2013-2014,6,2013-09-28,Braga,Sporting CP,1,2,0.0
+2013-2014,6,2013-09-28,Rio Ave,Nacional,0,3,0.0
+2013-2014,6,2013-09-28,Benfica,Belenenses,1,1,0.5
+2013-2014,6,2013-09-28,Académica,Arouca,0,0,0.5
+2013-2014,6,2013-09-28,Olhanense,Estoril,1,2,0.0
+2013-2014,6,2013-09-28,Marítimo,Paços,3,4,0.0
+2013-2014,6,2013-09-30,Vitória Setúbal,Gil Vicente,2,2,0.5
+2013-2014,7,2013-10-04,Académica,Rio Ave,0,1,0.0
+2013-2014,7,2013-10-05,Sporting CP,Vitória Setúbal,4,0,1.0
+2013-2014,7,2013-10-05,Belenenses,Olhanense,2,0,1.0
+2013-2014,7,2013-10-06,Gil Vicente,Paços,2,1,1.0
+2013-2014,7,2013-10-06,Nacional,Braga,3,0,1.0
+2013-2014,7,2013-10-06,Estoril,Benfica,1,2,0.0
+2013-2014,7,2013-10-06,Arouca,Porto,1,3,0.0
+2013-2014,7,2013-10-07,Vitória,Marítimo,1,0,1.0
+2013-2014,8,2013-10-25,Braga,Académica,0,1,0.0
+2013-2014,8,2013-10-26,Rio Ave,Gil Vicente,0,1,0.0
+2013-2014,8,2013-10-26,Vitória Setúbal,Belenenses,0,0,0.5
+2013-2014,8,2013-10-26,Olhanense,Arouca,1,0,1.0
+2013-2014,8,2013-10-27,Porto,Sporting CP,3,1,1.0
+2013-2014,8,2013-10-27,Benfica,Nacional,2,0,1.0
+2013-2014,8,2013-10-27,Marítimo,Estoril,1,3,0.0
+2013-2014,8,2013-10-28,Paços,Vitória,1,3,0.0
+2013-2014,9,2013-11-01,Académica,Benfica,0,3,0.0
+2013-2014,9,2013-11-02,Sporting CP,Marítimo,3,2,1.0
+2013-2014,9,2013-11-02,Belenenses,Porto,1,1,0.5
+2013-2014,9,2013-11-03,Braga,Rio Ave,0,1,0.0
+2013-2014,9,2013-11-03,Arouca,Paços,0,0,0.5
+2013-2014,9,2013-11-03,Estoril,Vitória Setúbal,0,2,0.0
+2013-2014,9,2013-11-03,Nacional,Olhanense,0,0,0.5
+2013-2014,9,2013-11-03,Gil Vicente,Vitória,1,0,1.0
+2013-2014,10,2013-11-23,Porto,Nacional,1,1,0.5
+2013-2014,10,2013-11-23,Benfica,Braga,1,0,1.0
+2013-2014,10,2013-11-24,Rio Ave,Estoril,0,2,0.0
+2013-2014,10,2013-11-24,Vitória Setúbal,Arouca,1,0,1.0
+2013-2014,10,2013-11-24,Paços,Belenenses,1,0,1.0
+2013-2014,10,2013-11-24,Marítimo,Gil Vicente,3,2,1.0
+2013-2014,10,2013-11-24,Vitória,Sporting CP,0,1,0.0
+2013-2014,10,2013-11-25,Olhanense,Académica,0,1,0.0
+2013-2014,11,2013-11-29,Braga,Olhanense,4,1,1.0
+2013-2014,11,2013-11-30,Académica,Porto,1,0,1.0
+2013-2014,11,2013-12-01,Sporting CP,Paços,4,0,1.0
+2013-2014,11,2013-12-01,Nacional,Vitória Setúbal,2,2,0.5
+2013-2014,11,2013-12-01,Belenenses,Gil Vicente,0,0,0.5
+2013-2014,11,2013-12-01,Rio Ave,Benfica,1,3,0.0
+2013-2014,11,2013-12-01,Arouca,Marítimo,1,2,0.0
+2013-2014,11,2013-12-02,Estoril,Vitória,0,2,0.0
+2013-2014,12,2013-12-06,Benfica,Arouca,2,2,0.5
+2013-2014,12,2013-12-07,Vitória,Belenenses,0,0,0.5
+2013-2014,12,2013-12-07,Porto,Braga,2,0,1.0
+2013-2014,12,2013-12-07,Paços,Estoril,0,3,0.0
+2013-2014,12,2013-12-08,Olhanense,Rio Ave,0,1,0.0
+2013-2014,12,2013-12-08,Gil Vicente,Sporting CP,0,2,0.0
+2013-2014,12,2013-12-08,Marítimo,Nacional,2,2,0.5
+2013-2014,12,2013-12-09,Vitória Setúbal,Académica,1,0,1.0
+2013-2014,13,2013-12-13,Académica,Marítimo,1,1,0.5
+2013-2014,13,2013-12-14,Sporting CP,Belenenses,3,0,1.0
+2013-2014,13,2013-12-14,Braga,Vitória Setúbal,2,0,1.0
+2013-2014,13,2013-12-15,Rio Ave,Porto,1,3,0.0
+2013-2014,13,2013-12-15,Olhanense,Benfica,2,3,0.0
+2013-2014,13,2013-12-15,Arouca,Vitória,0,2,0.0
+2013-2014,13,2013-12-16,Estoril,Gil Vicente,2,0,1.0
+2013-2014,13,2013-12-16,Nacional,Paços,2,1,1.0
+2013-2014,14,2013-12-19,Marítimo,Braga,2,2,0.5
+2013-2014,14,2013-12-20,Porto,Olhanense,4,0,1.0
+2013-2014,14,2013-12-20,Vitória Setúbal,Benfica,0,2,0.0
+2013-2014,14,2013-12-21,Paços,Rio Ave,0,0,0.5
+2013-2014,14,2013-12-21,Sporting CP,Nacional,0,0,0.5
+2013-2014,14,2013-12-21,Vitória,Académica,3,0,1.0
+2013-2014,14,2013-12-22,Gil Vicente,Arouca,0,3,0.0
+2013-2014,14,2013-12-22,Belenenses,Estoril,0,0,0.5
+2013-2014,15,2014-01-10,Braga,Vitória,3,0,1.0
+2013-2014,15,2014-01-11,Rio Ave,Marítimo,1,1,0.5
+2013-2014,15,2014-01-11,Estoril,Sporting CP,0,0,0.5
+2013-2014,15,2014-01-12,Arouca,Belenenses,2,0,1.0
+2013-2014,15,2014-01-12,Nacional,Gil Vicente,2,0,1.0
+2013-2014,15,2014-01-12,Benfica,Porto,2,0,1.0
+2013-2014,15,2014-01-12,Olhanense,Vitória Setúbal,2,1,1.0
+2013-2014,15,2014-01-12,Académica,Paços,4,2,1.0
+2013-2014,16,2014-01-17,Olhanense,Vitória,0,1,0.0
+2013-2014,16,2014-01-18,Arouca,Sporting CP,1,2,0.0
+2013-2014,16,2014-01-19,Porto,Vitória Setúbal,3,0,1.0
+2013-2014,16,2014-01-19,Benfica,Marítimo,2,0,1.0
+2013-2014,16,2014-01-19,Rio Ave,Belenenses,1,0,1.0
+2013-2014,16,2014-01-19,Braga,Paços,1,1,0.5
+2013-2014,16,2014-01-19,Académica,Gil Vicente,1,0,1.0
+2013-2014,16,2014-01-20,Nacional,Estoril,2,2,0.5
+2013-2014,17,2014-01-31,Estoril,Arouca,1,1,0.5
+2013-2014,17,2014-02-01,Vitória Setúbal,Rio Ave,2,0,1.0
+2013-2014,17,2014-02-01,Marítimo,Porto,1,0,1.0
+2013-2014,17,2014-02-01,Gil Vicente,Benfica,1,1,0.5
+2013-2014,17,2014-02-02,Belenenses,Braga,2,1,1.0
+2013-2014,17,2014-02-02,Sporting CP,Académica,0,0,0.5
+2013-2014,17,2014-02-03,Vitória,Nacional,1,2,0.0
+2013-2014,17,2014-02-05,Paços,Olhanense,3,1,1.0
+2013-2014,18,2014-02-08,Vitória Setúbal,Vitória,3,2,1.0
+2013-2014,18,2014-02-08,Nacional,Belenenses,2,0,1.0
+2013-2014,18,2014-02-09,Rio Ave,Arouca,1,1,0.5
+2013-2014,18,2014-02-09,Porto,Paços,3,0,1.0
+2013-2014,18,2014-02-09,Olhanense,Marítimo,1,1,0.5
+2013-2014,18,2014-02-09,Braga,Gil Vicente,4,1,1.0
+2013-2014,18,2014-02-10,Académica,Estoril,0,1,0.0
+2013-2014,18,2014-02-11,Benfica,Sporting CP,2,0,1.0
+2013-2014,19,2014-02-15,Belenenses,Académica,0,0,0.5
+2013-2014,19,2014-02-15,Sporting CP,Olhanense,1,0,1.0
+2013-2014,19,2014-02-16,Paços,Benfica,0,2,0.0
+2013-2014,19,2014-02-16,Gil Vicente,Porto,1,2,0.0
+2013-2014,19,2014-02-16,Vitória,Rio Ave,1,0,1.0
+2013-2014,19,2014-02-16,Arouca,Nacional,1,1,0.5
+2013-2014,19,2014-02-16,Marítimo,Vitória Setúbal,1,0,1.0
+2013-2014,19,2014-02-17,Estoril,Braga,2,1,1.0
+2013-2014,20,2014-02-21,Académica,Nacional,0,0,0.5
+2013-2014,20,2014-02-22,Braga,Arouca,2,2,0.5
+2013-2014,20,2014-02-22,Rio Ave,Sporting CP,1,2,0.0
+2013-2014,20,2014-02-23,Vitória Setúbal,Paços,4,0,1.0
+2013-2014,20,2014-02-23,Marítimo,Belenenses,2,0,1.0
+2013-2014,20,2014-02-23,Porto,Estoril,0,1,0.0
+2013-2014,20,2014-02-23,Olhanense,Gil Vicente,2,1,1.0
+2013-2014,20,2014-02-24,Benfica,Vitória,1,0,1.0
+2013-2014,21,2014-03-01,Sporting CP,Braga,2,1,1.0
+2013-2014,21,2014-03-01,Estoril,Olhanense,4,0,1.0
+2013-2014,21,2014-03-02,Nacional,Rio Ave,1,1,0.5
+2013-2014,21,2014-03-02,Gil Vicente,Vitória Setúbal,1,0,1.0
+2013-2014,21,2014-03-02,Vitória,Porto,2,2,0.5
+2013-2014,21,2014-03-02,Paços,Marítimo,3,1,1.0
+2013-2014,21,2014-03-02,Belenenses,Benfica,0,1,0.0
+2013-2014,21,2014-03-03,Arouca,Académica,0,3,0.0
+2013-2014,22,2014-03-07,Rio Ave,Académica,0,0,0.5
+2013-2014,22,2014-03-08,Braga,Nacional,2,1,1.0
+2013-2014,22,2014-03-09,Porto,Arouca,4,1,1.0
+2013-2014,22,2014-03-09,Vitória Setúbal,Sporting CP,2,2,0.5
+2013-2014,22,2014-03-09,Benfica,Estoril,2,0,1.0
+2013-2014,22,2014-03-09,Olhanense,Belenenses,0,0,0.5
+2013-2014,22,2014-03-09,Paços,Gil Vicente,0,2,0.0
+2013-2014,22,2014-03-10,Marítimo,Vitória,2,1,1.0
+2013-2014,23,2014-03-14,Académica,Braga,1,1,0.5
+2013-2014,23,2014-03-15,Vitória,Paços,1,2,0.0
+2013-2014,23,2014-03-15,Estoril,Marítimo,1,0,1.0
+2013-2014,23,2014-03-15,Gil Vicente,Rio Ave,1,2,0.0
+2013-2014,23,2014-03-16,Belenenses,Vitória Setúbal,1,3,0.0
+2013-2014,23,2014-03-16,Sporting CP,Porto,1,0,1.0
+2013-2014,23,2014-03-16,Arouca,Olhanense,2,0,1.0
+2013-2014,23,2014-03-17,Nacional,Benfica,2,4,0.0
+2013-2014,24,2014-03-21,Rio Ave,Braga,1,1,0.5
+2013-2014,24,2014-03-22,Vitória,Gil Vicente,0,0,0.5
+2013-2014,24,2014-03-22,Marítimo,Sporting CP,1,3,0.0
+2013-2014,24,2014-03-23,Paços,Arouca,3,1,1.0
+2013-2014,24,2014-03-23,Olhanense,Nacional,1,1,0.5
+2013-2014,24,2014-03-23,Benfica,Académica,3,0,1.0
+2013-2014,24,2014-03-23,Porto,Belenenses,1,0,1.0
+2013-2014,24,2014-03-24,Vitória Setúbal,Estoril,1,1,0.5
+2013-2014,25,2014-03-28,Belenenses,Paços,1,1,0.5
+2013-2014,25,2014-03-29,Sporting CP,Vitória,1,0,1.0
+2013-2014,25,2014-03-30,Nacional,Porto,2,1,1.0
+2013-2014,25,2014-03-30,Braga,Benfica,0,1,0.0
+2013-2014,25,2014-03-30,Arouca,Vitória Setúbal,1,0,1.0
+2013-2014,25,2014-03-30,Estoril,Rio Ave,0,1,0.0
+2013-2014,25,2014-03-30,Gil Vicente,Marítimo,1,1,0.5
+2013-2014,25,2014-03-30,Académica,Olhanense,2,1,1.0
+2013-2014,26,2014-04-04,Vitória,Estoril,1,3,0.0
+2013-2014,26,2014-04-05,Olhanense,Braga,0,2,0.0
+2013-2014,26,2014-04-05,Paços,Sporting CP,1,3,0.0
+2013-2014,26,2014-04-06,Gil Vicente,Belenenses,0,1,0.0
+2013-2014,26,2014-04-06,Marítimo,Arouca,1,0,1.0
+2013-2014,26,2014-04-06,Porto,Académica,3,1,1.0
+2013-2014,26,2014-04-06,Vitória Setúbal,Nacional,3,0,1.0
+2013-2014,26,2014-04-07,Benfica,Rio Ave,4,0,1.0
+2013-2014,27,2014-04-11,Académica,Vitória Setúbal,1,1,0.5
+2013-2014,27,2014-04-12,Sporting CP,Gil Vicente,2,0,1.0
+2013-2014,27,2014-04-12,Nacional,Marítimo,2,0,1.0
+2013-2014,27,2014-04-12,Rio Ave,Olhanense,1,2,0.0
+2013-2014,27,2014-04-12,Belenenses,Vitória,3,1,1.0
+2013-2014,27,2014-04-13,Braga,Porto,1,3,0.0
+2013-2014,27,2014-04-13,Arouca,Benfica,0,2,0.0
+2013-2014,27,2014-04-14,Estoril,Paços,1,0,1.0
+2013-2014,28,2014-04-17,Vitória,Arouca,2,3,0.0
+2013-2014,28,2014-04-19,Gil Vicente,Estoril,0,0,0.5
+2013-2014,28,2014-04-19,Belenenses,Sporting CP,0,1,0.0
+2013-2014,28,2014-04-19,Marítimo,Académica,3,1,1.0
+2013-2014,28,2014-04-19,Paços,Nacional,0,5,0.0
+2013-2014,28,2014-04-20,Benfica,Olhanense,2,0,1.0
+2013-2014,28,2014-04-21,Porto,Rio Ave,3,0,1.0
+2013-2014,28,2014-04-21,Vitória Setúbal,Braga,1,1,0.5
+2013-2014,29,2014-05-03,Nacional,Sporting CP,1,1,0.5
+2013-2014,29,2014-05-04,Braga,Marítimo,1,1,0.5
+2013-2014,29,2014-05-04,Benfica,Vitória Setúbal,1,1,0.5
+2013-2014,29,2014-05-04,Rio Ave,Paços,0,0,0.5
+2013-2014,29,2014-05-04,Académica,Vitória,0,0,0.5
+2013-2014,29,2014-05-04,Estoril,Belenenses,1,1,0.5
+2013-2014,29,2014-05-04,Olhanense,Porto,2,1,1.0
+2013-2014,29,2014-05-04,Arouca,Gil Vicente,1,0,1.0
+2013-2014,30,2014-05-10,Paços,Académica,2,4,0.0
+2013-2014,30,2014-05-10,Belenenses,Arouca,1,0,1.0
+2013-2014,30,2014-05-10,Vitória,Braga,1,0,1.0
+2013-2014,30,2014-05-10,Vitória Setúbal,Olhanense,3,1,1.0
+2013-2014,30,2014-05-10,Porto,Benfica,2,1,1.0
+2013-2014,30,2014-05-11,Sporting CP,Estoril,0,1,0.0
+2013-2014,30,2014-05-11,Gil Vicente,Nacional,1,0,1.0
+2013-2014,30,2014-05-11,Marítimo,Rio Ave,1,0,1.0

@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2000-2001,1,2000-08-18,Beira-Mar,Boavista,2,4,0.0
+2000-2001,1,2000-08-19,Porto,Benfica,2,0,1.0
+2000-2001,1,2000-08-19,Braga,Vitória Guimarães,1,0,1.0
+2000-2001,1,2000-08-20,União de Leiria,Estrela,2,0,1.0
+2000-2001,1,2000-08-20,Aves,Belenenses,0,1,0.0
+2000-2001,1,2000-08-20,SC Salgueiros,Paços de Ferreira,1,0,1.0
+2000-2001,1,2000-08-20,Sporting CP,Farense,1,0,1.0
+2000-2001,1,2000-08-20,Alverca,Marítimo,0,0,0.5
+2000-2001,1,2000-08-20,Gil Vicente,SC Campomaiorense,1,1,0.5
+2000-2001,2,2000-08-25,Estrela,Braga,0,1,0.0
+2000-2001,2,2000-08-26,SC Campomaiorense,SC Salgueiros,2,3,0.0
+2000-2001,2,2000-08-26,Vitória Guimarães,Sporting CP,1,4,0.0
+2000-2001,2,2000-08-27,Belenenses,Porto,2,0,1.0
+2000-2001,2,2000-08-27,Farense,Alverca,2,0,1.0
+2000-2001,2,2000-08-27,Benfica,Beira-Mar,4,1,1.0
+2000-2001,2,2000-08-27,Paços de Ferreira,Aves,2,0,1.0
+2000-2001,2,2000-08-28,Boavista,União de Leiria,4,0,1.0
+2000-2001,2,2000-09-02,Marítimo,Gil Vicente,1,0,1.0
+2000-2001,3,2000-09-08,Braga,Sporting CP,3,2,1.0
+2000-2001,3,2000-09-09,Porto,Paços de Ferreira,2,1,1.0
+2000-2001,3,2000-09-09,União de Leiria,Benfica,1,1,0.5
+2000-2001,3,2000-09-10,Beira-Mar,Belenenses,2,2,0.5
+2000-2001,3,2000-09-10,Gil Vicente,Farense,0,0,0.5
+2000-2001,3,2000-09-10,SC Salgueiros,Marítimo,1,0,1.0
+2000-2001,3,2000-09-10,Aves,SC Campomaiorense,2,2,0.5
+2000-2001,3,2000-09-10,Estrela,Boavista,0,0,0.5
+2000-2001,3,2000-09-11,Alverca,Vitória Guimarães,1,3,0.0
+2000-2001,4,2000-09-15,Vitória Guimarães,Gil Vicente,3,1,1.0
+2000-2001,4,2000-09-16,Sporting CP,Alverca,1,1,0.5
+2000-2001,4,2000-09-17,Marítimo,Aves,2,1,1.0
+2000-2001,4,2000-09-17,Belenenses,União de Leiria,1,1,0.5
+2000-2001,4,2000-09-17,Farense,SC Salgueiros,2,1,1.0
+2000-2001,4,2000-09-17,Paços de Ferreira,Beira-Mar,3,2,1.0
+2000-2001,4,2000-09-18,SC Campomaiorense,Porto,0,5,0.0
+2000-2001,4,2000-09-18,Boavista,Braga,1,2,0.0
+2000-2001,4,2000-09-18,Benfica,Estrela,2,1,1.0
+2000-2001,5,2000-09-22,SC Salgueiros,Vitória Guimarães,2,1,1.0
+2000-2001,5,2000-09-23,Gil Vicente,Sporting CP,0,2,0.0
+2000-2001,5,2000-09-23,Boavista,Benfica,1,0,1.0
+2000-2001,5,2000-09-24,União de Leiria,Paços de Ferreira,1,4,0.0
+2000-2001,5,2000-09-24,Braga,Alverca,1,1,0.5
+2000-2001,5,2000-09-24,Aves,Farense,3,1,1.0
+2000-2001,5,2000-09-24,Estrela,Belenenses,0,2,0.0
+2000-2001,5,2000-09-24,Beira-Mar,SC Campomaiorense,0,0,0.5
+2000-2001,5,2000-09-24,Porto,Marítimo,1,0,1.0
+2000-2001,6,2000-09-30,Vitória Guimarães,Aves,2,2,0.5
+2000-2001,6,2000-10-01,Paços de Ferreira,Estrela,4,1,1.0
+2000-2001,6,2000-10-01,Sporting CP,SC Salgueiros,2,0,1.0
+2000-2001,6,2000-10-01,SC Campomaiorense,União de Leiria,1,1,0.5
+2000-2001,6,2000-10-01,Marítimo,Beira-Mar,2,1,1.0
+2000-2001,6,2000-10-01,Alverca,Gil Vicente,2,0,1.0
+2000-2001,6,2000-10-02,Farense,Porto,1,3,0.0
+2000-2001,6,2000-10-02,Belenenses,Boavista,2,2,0.5
+2000-2001,6,2000-10-02,Benfica,Braga,2,2,0.5
+2000-2001,7,2000-10-13,Boavista,Paços de Ferreira,1,0,1.0
+2000-2001,7,2000-10-14,União de Leiria,Marítimo,1,0,1.0
+2000-2001,7,2000-10-14,Braga,Gil Vicente,3,1,1.0
+2000-2001,7,2000-10-14,Aves,Sporting CP,3,4,0.0
+2000-2001,7,2000-10-15,Beira-Mar,Farense,0,2,0.0
+2000-2001,7,2000-10-15,Benfica,Belenenses,1,0,1.0
+2000-2001,7,2000-10-15,SC Salgueiros,Alverca,3,1,1.0
+2000-2001,7,2000-10-15,Porto,Vitória Guimarães,2,0,1.0
+2000-2001,7,2000-10-15,Estrela,SC Campomaiorense,4,0,1.0
+2000-2001,8,2000-10-20,SC Campomaiorense,Boavista,0,0,0.5
+2000-2001,8,2000-10-21,Paços de Ferreira,Benfica,0,0,0.5
+2000-2001,8,2000-10-21,Sporting CP,Porto,0,1,0.0
+2000-2001,8,2000-10-22,Gil Vicente,SC Salgueiros,0,2,0.0
+2000-2001,8,2000-10-22,Vitória Guimarães,Beira-Mar,1,1,0.5
+2000-2001,8,2000-10-22,Alverca,Aves,5,1,1.0
+2000-2001,8,2000-10-22,Belenenses,Braga,2,1,1.0
+2000-2001,8,2000-10-22,Marítimo,Estrela,2,0,1.0
+2000-2001,8,2000-10-22,Farense,União de Leiria,1,1,0.5
+2000-2001,9,2000-10-27,Braga,SC Salgueiros,2,0,1.0
+2000-2001,9,2000-10-29,Aves,Gil Vicente,1,0,1.0
+2000-2001,9,2000-10-29,Estrela,Farense,1,2,0.0
+2000-2001,9,2000-10-29,União de Leiria,Vitória Guimarães,1,1,0.5
+2000-2001,9,2000-10-29,Belenenses,Paços de Ferreira,0,0,0.5
+2000-2001,9,2000-10-29,Benfica,SC Campomaiorense,2,0,1.0
+2000-2001,9,2000-10-29,Beira-Mar,Sporting CP,0,1,0.0
+2000-2001,9,2000-10-30,Porto,Alverca,6,0,1.0
+2000-2001,9,2000-10-30,Boavista,Marítimo,3,1,1.0
+2000-2001,10,2000-11-03,Sporting CP,União de Leiria,4,0,1.0
+2000-2001,10,2000-11-04,Gil Vicente,Porto,2,2,0.5
+2000-2001,10,2000-11-04,Farense,Boavista,2,2,0.5
+2000-2001,10,2000-11-05,Paços de Ferreira,Braga,4,2,1.0
+2000-2001,10,2000-11-05,SC Campomaiorense,Belenenses,0,1,0.0
+2000-2001,10,2000-11-05,Marítimo,Benfica,3,0,1.0
+2000-2001,10,2000-11-05,SC Salgueiros,Aves,2,1,1.0
+2000-2001,10,2000-11-05,Alverca,Beira-Mar,0,1,0.0
+2000-2001,10,2000-11-06,Vitória Guimarães,Estrela,4,0,1.0
+2000-2001,11,2000-11-11,Estrela,Sporting CP,1,2,0.0
+2000-2001,11,2000-11-11,Belenenses,Marítimo,1,0,1.0
+2000-2001,11,2000-11-12,Beira-Mar,Gil Vicente,1,0,1.0
+2000-2001,11,2000-11-12,União de Leiria,Alverca,2,0,1.0
+2000-2001,11,2000-11-12,Braga,Aves,2,0,1.0
+2000-2001,11,2000-11-12,Benfica,Farense,2,1,1.0
+2000-2001,11,2000-11-12,Paços de Ferreira,SC Campomaiorense,0,1,0.0
+2000-2001,11,2000-11-13,Porto,SC Salgueiros,5,1,1.0
+2000-2001,11,2000-11-14,Boavista,Vitória Guimarães,4,1,1.0
+2000-2001,12,2000-11-17,Farense,Belenenses,3,1,1.0
+2000-2001,12,2000-11-18,Vitória Guimarães,Benfica,0,4,0.0
+2000-2001,12,2000-11-19,Sporting CP,Boavista,0,0,0.5
+2000-2001,12,2000-11-19,SC Salgueiros,Beira-Mar,0,1,0.0
+2000-2001,12,2000-11-19,Aves,Porto,0,1,0.0
+2000-2001,12,2000-11-19,Alverca,Estrela,3,1,1.0
+2000-2001,12,2000-11-19,Marítimo,Paços de Ferreira,1,1,0.5
+2000-2001,12,2000-11-19,SC Campomaiorense,Braga,1,1,0.5
+2000-2001,12,2000-11-19,Gil Vicente,União de Leiria,2,0,1.0
+2000-2001,13,2000-12-01,Belenenses,Vitória Guimarães,1,0,1.0
+2000-2001,13,2000-12-02,Braga,Porto,2,1,1.0
+2000-2001,13,2000-12-02,Beira-Mar,Aves,1,0,1.0
+2000-2001,13,2000-12-03,SC Campomaiorense,Marítimo,2,2,0.5
+2000-2001,13,2000-12-03,Paços de Ferreira,Farense,1,1,0.5
+2000-2001,13,2000-12-03,Benfica,Sporting CP,3,0,1.0
+2000-2001,13,2000-12-03,Estrela,Gil Vicente,2,1,1.0
+2000-2001,13,2000-12-03,Boavista,Alverca,5,1,1.0
+2000-2001,13,2000-12-03,União de Leiria,SC Salgueiros,2,1,1.0
+2000-2001,14,2000-12-08,Gil Vicente,Boavista,0,2,0.0
+2000-2001,14,2000-12-09,Sporting CP,Belenenses,2,1,1.0
+2000-2001,14,2000-12-09,Vitória Guimarães,Paços de Ferreira,0,1,0.0
+2000-2001,14,2000-12-10,SC Salgueiros,Estrela,1,0,1.0
+2000-2001,14,2000-12-10,Aves,União de Leiria,1,1,0.5
+2000-2001,14,2000-12-10,Alverca,Benfica,2,1,1.0
+2000-2001,14,2000-12-10,Farense,SC Campomaiorense,1,3,0.0
+2000-2001,14,2000-12-10,Marítimo,Braga,2,0,1.0
+2000-2001,14,2000-12-11,Porto,Beira-Mar,2,0,1.0
+2000-2001,15,2000-12-15,SC Campomaiorense,Vitória Guimarães,0,1,0.0
+2000-2001,15,2000-12-16,União de Leiria,Porto,3,1,1.0
+2000-2001,15,2000-12-16,Belenenses,Alverca,1,0,1.0
+2000-2001,15,2000-12-17,Estrela,Aves,0,0,0.5
+2000-2001,15,2000-12-17,Marítimo,Farense,1,1,0.5
+2000-2001,15,2000-12-17,Benfica,Gil Vicente,0,0,0.5
+2000-2001,15,2000-12-17,Paços de Ferreira,Sporting CP,0,0,0.5
+2000-2001,15,2000-12-17,Braga,Beira-Mar,3,3,0.5
+2000-2001,15,2000-12-17,Boavista,SC Salgueiros,5,0,1.0
+2000-2001,16,2001-01-06,Porto,Estrela,2,1,1.0
+2000-2001,16,2001-01-06,Alverca,Paços de Ferreira,2,0,1.0
+2000-2001,16,2001-01-06,Sporting CP,SC Campomaiorense,2,1,1.0
+2000-2001,16,2001-01-07,SC Salgueiros,Benfica,1,2,0.0
+2000-2001,16,2001-01-07,Braga,Farense,3,0,1.0
+2000-2001,16,2001-01-07,Beira-Mar,União de Leiria,3,1,1.0
+2000-2001,16,2001-01-07,Gil Vicente,Belenenses,2,1,1.0
+2000-2001,16,2001-01-07,Aves,Boavista,1,2,0.0
+2000-2001,16,2001-01-08,Vitória Guimarães,Marítimo,1,1,0.5
+2000-2001,17,2001-01-11,Belenenses,SC Salgueiros,2,0,1.0
+2000-2001,17,2001-01-12,Marítimo,Sporting CP,0,2,0.0
+2000-2001,17,2001-01-13,Farense,Vitória Guimarães,1,1,0.5
+2000-2001,17,2001-01-13,União de Leiria,Braga,0,0,0.5
+2000-2001,17,2001-01-13,Boavista,Porto,1,0,1.0
+2000-2001,17,2001-01-13,Paços de Ferreira,Gil Vicente,2,0,1.0
+2000-2001,17,2001-01-13,Estrela,Beira-Mar,1,1,0.5
+2000-2001,17,2001-01-13,Benfica,Aves,5,1,1.0
+2000-2001,17,2001-01-13,SC Campomaiorense,Alverca,0,4,0.0
+2000-2001,18,2001-01-19,Estrela,União de Leiria,1,2,0.0
+2000-2001,18,2001-01-20,Vitória Guimarães,Braga,0,0,0.5
+2000-2001,18,2001-01-20,Boavista,Beira-Mar,1,0,1.0
+2000-2001,18,2001-01-21,Paços de Ferreira,SC Salgueiros,1,1,0.5
+2000-2001,18,2001-01-21,Benfica,Porto,2,1,1.0
+2000-2001,18,2001-01-21,Farense,Sporting CP,2,1,1.0
+2000-2001,18,2001-01-21,Belenenses,Aves,5,0,1.0
+2000-2001,18,2001-01-21,SC Campomaiorense,Gil Vicente,1,0,1.0
+2000-2001,18,2001-01-22,Marítimo,Alverca,2,1,1.0
+2000-2001,19,2001-01-26,Braga,Estrela,1,1,0.5
+2000-2001,19,2001-01-27,Porto,Belenenses,0,0,0.5
+2000-2001,19,2001-01-27,Sporting CP,Vitória Guimarães,3,1,1.0
+2000-2001,19,2001-01-28,União de Leiria,Boavista,0,0,0.5
+2000-2001,19,2001-01-28,Gil Vicente,Marítimo,2,0,1.0
+2000-2001,19,2001-01-28,Alverca,Farense,0,1,0.0
+2000-2001,19,2001-01-28,Beira-Mar,Benfica,1,3,0.0
+2000-2001,19,2001-01-28,Aves,Paços de Ferreira,1,1,0.5
+2000-2001,19,2001-01-28,SC Salgueiros,SC Campomaiorense,0,0,0.5
+2000-2001,20,2001-02-02,Boavista,Estrela,1,0,1.0
+2000-2001,20,2001-02-03,Vitória Guimarães,Alverca,2,2,0.5
+2000-2001,20,2001-02-04,Farense,Gil Vicente,1,1,0.5
+2000-2001,20,2001-02-04,SC Campomaiorense,Aves,0,0,0.5
+2000-2001,20,2001-02-04,Belenenses,Beira-Mar,0,1,0.0
+2000-2001,20,2001-02-04,Marítimo,SC Salgueiros,0,1,0.0
+2000-2001,20,2001-02-04,Benfica,União de Leiria,3,2,1.0
+2000-2001,20,2001-02-04,Sporting CP,Braga,1,2,0.0
+2000-2001,20,2001-02-05,Paços de Ferreira,Porto,1,0,1.0
+2000-2001,21,2001-02-16,Estrela,Benfica,1,2,0.0
+2000-2001,21,2001-02-17,Braga,Boavista,1,0,1.0
+2000-2001,21,2001-02-17,Alverca,Sporting CP,3,1,1.0
+2000-2001,21,2001-02-18,Porto,SC Campomaiorense,3,1,1.0
+2000-2001,21,2001-02-18,União de Leiria,Belenenses,1,1,0.5
+2000-2001,21,2001-02-18,Beira-Mar,Paços de Ferreira,1,0,1.0
+2000-2001,21,2001-02-18,Gil Vicente,Vitória Guimarães,4,1,1.0
+2000-2001,21,2001-02-18,SC Salgueiros,Farense,0,0,0.5
+2000-2001,21,2001-02-18,Aves,Marítimo,1,1,0.5
+2000-2001,22,2001-02-23,Belenenses,Estrela,0,3,0.0
+2000-2001,22,2001-02-24,Sporting CP,Gil Vicente,3,1,1.0
+2000-2001,22,2001-02-25,Alverca,Braga,4,1,1.0
+2000-2001,22,2001-02-25,SC Campomaiorense,Beira-Mar,0,2,0.0
+2000-2001,22,2001-02-25,Farense,Aves,1,0,1.0
+2000-2001,22,2001-02-25,Paços de Ferreira,União de Leiria,0,0,0.5
+2000-2001,22,2001-02-25,Benfica,Boavista,0,0,0.5
+2000-2001,22,2001-02-26,Vitória Guimarães,SC Salgueiros,1,2,0.0
+2000-2001,23,2001-03-02,Boavista,Belenenses,2,0,1.0
+2000-2001,23,2001-03-03,SC Salgueiros,Sporting CP,2,5,0.0
+2000-2001,23,2001-03-04,Braga,Benfica,3,1,1.0
+2000-2001,23,2001-03-04,Aves,Vitória Guimarães,0,3,0.0
+2000-2001,23,2001-03-04,Estrela,Paços de Ferreira,1,1,0.5
+2000-2001,23,2001-03-04,Beira-Mar,Marítimo,2,0,1.0
+2000-2001,23,2001-03-04,Porto,Farense,2,0,1.0
+2000-2001,23,2001-03-04,União de Leiria,SC Campomaiorense,4,1,1.0
+2000-2001,23,2001-03-04,Gil Vicente,Alverca,1,2,0.0
+2000-2001,24,2001-03-09,Paços de Ferreira,Boavista,0,2,0.0
+2000-2001,24,2001-03-10,Belenenses,Benfica,1,0,1.0
+2000-2001,24,2001-03-11,Marítimo,União de Leiria,2,1,1.0
+2000-2001,24,2001-03-11,Sporting CP,Aves,2,0,1.0
+2000-2001,24,2001-03-11,Alverca,SC Salgueiros,0,3,0.0
+2000-2001,24,2001-03-11,Gil Vicente,Braga,1,1,0.5
+2000-2001,24,2001-03-11,SC Campomaiorense,Estrela,4,1,1.0
+2000-2001,24,2001-03-11,Farense,Beira-Mar,1,2,0.0
+2000-2001,24,2001-03-12,Vitória Guimarães,Porto,2,2,0.5
+2000-2001,25,2001-03-16,Boavista,SC Campomaiorense,3,1,1.0
+2000-2001,25,2001-03-17,Braga,Belenenses,2,0,1.0
+2000-2001,25,2001-03-17,Estrela,Marítimo,0,1,0.0
+2000-2001,25,2001-03-18,Aves,Alverca,0,0,0.5
+2000-2001,25,2001-03-18,Beira-Mar,Vitória Guimarães,3,2,1.0
+2000-2001,25,2001-03-18,Benfica,Paços de Ferreira,2,3,0.0
+2000-2001,25,2001-03-18,SC Salgueiros,Gil Vicente,0,1,0.0
+2000-2001,25,2001-03-18,União de Leiria,Farense,2,0,1.0
+2000-2001,25,2001-03-19,Porto,Sporting CP,2,2,0.5
+2000-2001,26,2001-03-31,SC Salgueiros,Braga,3,4,0.0
+2000-2001,26,2001-03-31,Marítimo,Boavista,1,1,0.5
+2000-2001,26,2001-03-31,SC Campomaiorense,Benfica,1,1,0.5
+2000-2001,26,2001-04-01,Alverca,Porto,1,3,0.0
+2000-2001,26,2001-04-01,Farense,Estrela,2,0,1.0
+2000-2001,26,2001-04-01,Gil Vicente,Aves,1,0,1.0
+2000-2001,26,2001-04-01,Vitória Guimarães,União de Leiria,0,1,0.0
+2000-2001,26,2001-04-01,Paços de Ferreira,Belenenses,2,2,0.5
+2000-2001,26,2001-04-02,Sporting CP,Beira-Mar,2,1,1.0
+2000-2001,27,2001-04-06,Braga,Paços de Ferreira,2,2,0.5
+2000-2001,27,2001-04-07,União de Leiria,Sporting CP,2,0,1.0
+2000-2001,27,2001-04-08,Belenenses,SC Campomaiorense,1,1,0.5
+2000-2001,27,2001-04-08,Beira-Mar,Alverca,0,0,0.5
+2000-2001,27,2001-04-08,Benfica,Marítimo,3,0,1.0
+2000-2001,27,2001-04-08,Boavista,Farense,1,0,1.0
+2000-2001,27,2001-04-08,Aves,SC Salgueiros,0,3,0.0
+2000-2001,27,2001-04-08,Estrela,Vitória Guimarães,0,2,0.0
+2000-2001,27,2001-04-09,Porto,Gil Vicente,2,0,1.0
+2000-2001,28,2001-04-13,Farense,Benfica,2,2,0.5
+2000-2001,28,2001-04-14,Alverca,União de Leiria,0,1,0.0
+2000-2001,28,2001-04-14,Aves,Braga,2,1,1.0
+2000-2001,28,2001-04-14,Gil Vicente,Beira-Mar,3,0,1.0
+2000-2001,28,2001-04-14,SC Salgueiros,Porto,0,1,0.0
+2000-2001,28,2001-04-14,Sporting CP,Estrela,1,0,1.0
+2000-2001,28,2001-04-14,SC Campomaiorense,Paços de Ferreira,2,1,1.0
+2000-2001,28,2001-04-14,Marítimo,Belenenses,1,2,0.0
+2000-2001,28,2001-04-16,Vitória Guimarães,Boavista,1,2,0.0
+2000-2001,22,2001-04-18,Marítimo,Porto,0,1,0.0
+2000-2001,29,2001-04-20,Braga,SC Campomaiorense,4,0,1.0
+2000-2001,29,2001-04-21,Boavista,Sporting CP,1,0,1.0
+2000-2001,29,2001-04-22,Porto,Aves,4,0,1.0
+2000-2001,29,2001-04-22,Benfica,Vitória Guimarães,1,0,1.0
+2000-2001,29,2001-04-22,Paços de Ferreira,Marítimo,2,1,1.0
+2000-2001,29,2001-04-22,Beira-Mar,SC Salgueiros,3,2,1.0
+2000-2001,29,2001-04-22,União de Leiria,Gil Vicente,1,0,1.0
+2000-2001,29,2001-04-22,Estrela,Alverca,1,2,0.0
+2000-2001,29,2001-04-23,Belenenses,Farense,4,2,1.0
+2000-2001,30,2001-04-28,Alverca,Boavista,1,2,0.0
+2000-2001,30,2001-04-28,Vitória Guimarães,Belenenses,1,1,0.5
+2000-2001,30,2001-04-29,Porto,Braga,3,2,1.0
+2000-2001,30,2001-04-29,Aves,Beira-Mar,2,3,0.0
+2000-2001,30,2001-04-29,Gil Vicente,Estrela,0,0,0.5
+2000-2001,30,2001-04-29,Farense,Paços de Ferreira,2,4,0.0
+2000-2001,30,2001-04-29,Sporting CP,Benfica,3,0,1.0
+2000-2001,30,2001-04-29,SC Salgueiros,União de Leiria,1,4,0.0
+2000-2001,30,2001-04-29,Marítimo,SC Campomaiorense,3,0,1.0
+2000-2001,31,2001-05-04,Benfica,Alverca,0,2,0.0
+2000-2001,31,2001-05-04,Braga,Marítimo,2,1,1.0
+2000-2001,31,2001-05-05,Boavista,Gil Vicente,2,0,1.0
+2000-2001,31,2001-05-06,União de Leiria,Aves,1,1,0.5
+2000-2001,31,2001-05-06,Paços de Ferreira,Vitória Guimarães,0,1,0.0
+2000-2001,31,2001-05-06,Belenenses,Sporting CP,1,1,0.5
+2000-2001,31,2001-05-06,SC Campomaiorense,Farense,1,0,1.0
+2000-2001,31,2001-05-06,Estrela,SC Salgueiros,1,0,1.0
+2000-2001,31,2001-05-06,Beira-Mar,Porto,0,3,0.0
+2000-2001,32,2001-05-11,Sporting CP,Paços de Ferreira,1,3,0.0
+2000-2001,32,2001-05-12,Porto,União de Leiria,3,0,1.0
+2000-2001,32,2001-05-13,Aves,Estrela,3,2,1.0
+2000-2001,32,2001-05-13,Gil Vicente,Benfica,3,0,1.0
+2000-2001,32,2001-05-13,Alverca,Belenenses,0,3,0.0
+2000-2001,32,2001-05-13,Farense,Marítimo,1,2,0.0
+2000-2001,32,2001-05-13,Vitória Guimarães,SC Campomaiorense,3,0,1.0
+2000-2001,32,2001-05-13,SC Salgueiros,Boavista,1,5,0.0
+2000-2001,32,2001-05-13,Beira-Mar,Braga,3,0,1.0
+2000-2001,33,2001-05-18,Boavista,Aves,3,0,1.0
+2000-2001,33,2001-05-19,Marítimo,Vitória Guimarães,1,0,1.0
+2000-2001,33,2001-05-20,Farense,Braga,1,0,1.0
+2000-2001,33,2001-05-20,SC Campomaiorense,Sporting CP,1,0,1.0
+2000-2001,33,2001-05-20,Belenenses,Gil Vicente,1,3,0.0
+2000-2001,33,2001-05-20,Benfica,SC Salgueiros,1,1,0.5
+2000-2001,33,2001-05-20,União de Leiria,Beira-Mar,1,0,1.0
+2000-2001,33,2001-05-20,Paços de Ferreira,Alverca,2,2,0.5
+2000-2001,33,2001-05-21,Estrela,Porto,2,3,0.0
+2000-2001,34,2001-05-27,Gil Vicente,Paços de Ferreira,3,1,1.0
+2000-2001,34,2001-05-27,SC Salgueiros,Belenenses,2,0,1.0
+2000-2001,34,2001-05-27,Vitória Guimarães,Farense,1,0,1.0
+2000-2001,34,2001-05-27,Alverca,SC Campomaiorense,2,1,1.0
+2000-2001,34,2001-05-27,Sporting CP,Marítimo,1,0,1.0
+2000-2001,34,2001-05-27,Beira-Mar,Estrela,3,3,0.5
+2000-2001,34,2001-05-27,Braga,União de Leiria,3,5,0.0
+2000-2001,34,2001-05-27,Porto,Boavista,4,0,1.0
+2000-2001,34,2001-05-27,Aves,Benfica,4,4,0.5

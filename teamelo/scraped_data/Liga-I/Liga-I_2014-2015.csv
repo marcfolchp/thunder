@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,1,2014-07-25,Concordia,Astra Giurgiu,0,2,0.0
+2014-2015,1,2014-07-25,CS U Craiova,Pandurii,1,1,0.5
+2014-2015,1,2014-07-26,Târgu Mureș,U Cluj,0,0,0.5
+2014-2015,1,2014-07-26,Rapid București,Steaua,1,3,0.0
+2014-2015,1,2014-07-27,Botoșani,Gaz Metan,0,3,0.0
+2014-2015,1,2014-07-27,CFR Cluj,Ceahlăul,4,0,1.0
+2014-2015,1,2014-07-27,Brașov,Petrolul,0,1,0.0
+2014-2015,1,2014-07-28,Studențesc Iași,Viitorul,0,0,0.5
+2014-2015,1,2014-07-28,Dinamo,Oțelul Galați,4,0,1.0
+2014-2015,2,2014-08-01,Ceahlăul,Târgu Mureș,1,4,0.0
+2014-2015,2,2014-08-01,Viitorul,Rapid București,1,2,0.0
+2014-2015,2,2014-08-02,Oțelul Galați,Concordia,1,2,0.0
+2014-2015,2,2014-08-02,Steaua,CS U Craiova,3,1,1.0
+2014-2015,2,2014-08-03,Petrolul,Botoșani,4,1,1.0
+2014-2015,2,2014-08-03,Astra Giurgiu,Brașov,5,0,1.0
+2014-2015,2,2014-08-03,Pandurii,CFR Cluj,0,0,0.5
+2014-2015,2,2014-08-04,Gaz Metan,Studențesc Iași,0,0,0.5
+2014-2015,2,2014-08-04,U Cluj,Dinamo,2,3,0.0
+2014-2015,3,2014-08-08,CS U Craiova,Viitorul,2,2,0.5
+2014-2015,3,2014-08-08,Rapid București,Gaz Metan,1,1,0.5
+2014-2015,3,2014-08-09,Pandurii,Ceahlăul,0,1,0.0
+2014-2015,3,2014-08-09,Dinamo,Târgu Mureș,1,1,0.5
+2014-2015,3,2014-08-10,Botoșani,Astra Giurgiu,1,0,1.0
+2014-2015,3,2014-08-10,Studențesc Iași,Petrolul,1,5,0.0
+2014-2015,3,2014-08-10,CFR Cluj,Steaua,0,1,0.0
+2014-2015,3,2014-08-11,Concordia,U Cluj,0,2,0.0
+2014-2015,3,2014-08-11,Brașov,Oțelul Galați,1,1,0.5
+2014-2015,4,2014-08-15,Gaz Metan,CS U Craiova,1,0,1.0
+2014-2015,4,2014-08-15,Steaua,Pandurii,6,0,1.0
+2014-2015,4,2014-08-16,Astra Giurgiu,Studențesc Iași,2,1,1.0
+2014-2015,4,2014-08-16,Petrolul,Rapid București,0,0,0.5
+2014-2015,4,2014-08-17,Târgu Mureș,Concordia,2,0,1.0
+2014-2015,4,2014-08-17,Oțelul Galați,Botoșani,0,1,0.0
+2014-2015,4,2014-08-17,Ceahlăul,Dinamo,1,1,0.5
+2014-2015,4,2014-08-18,U Cluj,Brașov,1,1,0.5
+2014-2015,4,2014-08-18,Viitorul,CFR Cluj,0,2,0.0
+2014-2015,5,2014-08-22,Brașov,Târgu Mureș,2,1,1.0
+2014-2015,5,2014-08-22,Concordia,Dinamo,0,0,0.5
+2014-2015,5,2014-08-23,Pandurii,Viitorul,1,1,0.5
+2014-2015,5,2014-08-23,Steaua,Ceahlăul,0,1,0.0
+2014-2015,5,2014-08-24,Botoșani,U Cluj,1,0,1.0
+2014-2015,5,2014-08-24,Rapid București,Astra Giurgiu,0,2,0.0
+2014-2015,5,2014-08-24,CS U Craiova,Petrolul,0,2,0.0
+2014-2015,5,2014-08-25,Studențesc Iași,Oțelul Galați,0,0,0.5
+2014-2015,5,2014-08-25,CFR Cluj,Gaz Metan,4,1,1.0
+2014-2015,6,2014-08-29,Gaz Metan,Pandurii,0,2,0.0
+2014-2015,6,2014-08-29,Ceahlăul,Concordia,2,0,1.0
+2014-2015,6,2014-08-30,Dinamo,Brașov,2,1,1.0
+2014-2015,6,2014-08-30,Viitorul,Steaua,0,1,0.0
+2014-2015,6,2014-08-31,Târgu Mureș,Botoșani,2,1,1.0
+2014-2015,6,2014-08-31,Astra Giurgiu,CS U Craiova,5,0,1.0
+2014-2015,6,2014-08-31,Petrolul,CFR Cluj,1,2,0.0
+2014-2015,6,2014-09-01,Oțelul Galați,Rapid București,2,0,1.0
+2014-2015,6,2014-09-01,U Cluj,Studențesc Iași,2,0,1.0
+2014-2015,7,2014-09-12,Brașov,Concordia,4,1,1.0
+2014-2015,7,2014-09-12,Steaua,Gaz Metan,3,1,1.0
+2014-2015,7,2014-09-13,Viitorul,Ceahlăul,2,0,1.0
+2014-2015,7,2014-09-13,CFR Cluj,Astra Giurgiu,4,1,1.0
+2014-2015,7,2014-09-14,Studențesc Iași,Târgu Mureș,2,2,0.5
+2014-2015,7,2014-09-14,Rapid București,U Cluj,2,1,1.0
+2014-2015,7,2014-09-14,Botoșani,Dinamo,3,2,1.0
+2014-2015,7,2014-09-15,CS U Craiova,Oțelul Galați,1,0,1.0
+2014-2015,7,2014-09-15,Pandurii,Petrolul,1,1,0.5
+2014-2015,8,2014-09-19,Gaz Metan,Viitorul,3,1,1.0
+2014-2015,8,2014-09-19,Târgu Mureș,Rapid București,1,0,1.0
+2014-2015,8,2014-09-20,Concordia,Botoșani,3,3,0.5
+2014-2015,8,2014-09-20,Oțelul Galați,CFR Cluj,0,1,0.0
+2014-2015,8,2014-09-20,Dinamo,Studențesc Iași,1,0,1.0
+2014-2015,8,2014-09-21,Ceahlăul,Brașov,2,2,0.5
+2014-2015,8,2014-09-21,Astra Giurgiu,Pandurii,2,1,1.0
+2014-2015,8,2014-09-21,Petrolul,Steaua,2,3,0.0
+2014-2015,8,2014-09-22,U Cluj,CS U Craiova,0,2,0.0
+2014-2015,9,2014-09-26,Studențesc Iași,Concordia,1,2,0.0
+2014-2015,9,2014-09-27,Gaz Metan,Ceahlăul,2,2,0.5
+2014-2015,9,2014-09-27,Botoșani,Brașov,0,0,0.5
+2014-2015,9,2014-09-27,Rapid București,Dinamo,0,3,0.0
+2014-2015,9,2014-09-28,CS U Craiova,Târgu Mureș,1,0,1.0
+2014-2015,9,2014-09-28,Viitorul,Petrolul,1,3,0.0
+2014-2015,9,2014-09-28,Steaua,Astra Giurgiu,0,0,0.5
+2014-2015,9,2014-09-29,Pandurii,Oțelul Galați,4,0,1.0
+2014-2015,9,2014-09-29,CFR Cluj,U Cluj,1,0,1.0
+2014-2015,10,2014-10-03,Brașov,Studențesc Iași,2,0,1.0
+2014-2015,10,2014-10-03,Concordia,Rapid București,0,0,0.5
+2014-2015,10,2014-10-04,Ceahlăul,Botoșani,0,1,0.0
+2014-2015,10,2014-10-04,U Cluj,Pandurii,2,0,1.0
+2014-2015,10,2014-10-04,Petrolul,Gaz Metan,1,0,1.0
+2014-2015,10,2014-10-05,Oțelul Galați,Steaua,0,3,0.0
+2014-2015,10,2014-10-05,Astra Giurgiu,Viitorul,0,1,0.0
+2014-2015,10,2014-10-05,Dinamo,CS U Craiova,1,1,0.5
+2014-2015,10,2014-10-06,Târgu Mureș,CFR Cluj,2,0,1.0
+2014-2015,11,2014-10-17,Studențesc Iași,Botoșani,2,2,0.5
+2014-2015,11,2014-10-17,Rapid București,Brașov,0,1,0.0
+2014-2015,11,2014-10-18,Viitorul,Oțelul Galați,3,0,1.0
+2014-2015,11,2014-10-18,Pandurii,Târgu Mureș,1,1,0.5
+2014-2015,11,2014-10-18,CFR Cluj,Dinamo,2,1,1.0
+2014-2015,11,2014-10-19,CS U Craiova,Concordia,1,1,0.5
+2014-2015,11,2014-10-19,Gaz Metan,Astra Giurgiu,1,1,0.5
+2014-2015,11,2014-10-19,Steaua,U Cluj,4,1,1.0
+2014-2015,11,2014-10-20,Petrolul,Ceahlăul,2,0,1.0
+2014-2015,12,2014-10-24,Oțelul Galați,Gaz Metan,1,1,0.5
+2014-2015,12,2014-10-24,Brașov,CS U Craiova,2,3,0.0
+2014-2015,12,2014-10-25,Ceahlăul,Studențesc Iași,2,2,0.5
+2014-2015,12,2014-10-25,U Cluj,Viitorul,2,2,0.5
+2014-2015,12,2014-10-25,Botoșani,Rapid București,3,0,1.0
+2014-2015,12,2014-10-26,Concordia,CFR Cluj,1,1,0.5
+2014-2015,12,2014-10-26,Dinamo,Pandurii,3,2,1.0
+2014-2015,12,2014-10-26,Târgu Mureș,Steaua,1,0,1.0
+2014-2015,12,2014-10-27,Astra Giurgiu,Petrolul,0,0,0.5
+2014-2015,13,2014-10-31,Steaua,Dinamo,3,0,1.0
+2014-2015,13,2014-11-01,Gaz Metan,U Cluj,1,1,0.5
+2014-2015,13,2014-11-01,CS U Craiova,Botoșani,2,1,1.0
+2014-2015,13,2014-11-01,Astra Giurgiu,Ceahlăul,2,1,1.0
+2014-2015,13,2014-11-03,Viitorul,Târgu Mureș,0,0,0.5
+2014-2015,13,2014-11-03,Petrolul,Oțelul Galați,0,0,0.5
+2014-2015,13,2014-11-03,CFR Cluj,Brașov,1,2,0.0
+2014-2015,13,2014-11-04,Rapid București,Studențesc Iași,0,1,0.0
+2014-2015,13,2014-11-04,Pandurii,Concordia,1,1,0.5
+2014-2015,14,2014-11-07,Târgu Mureș,Gaz Metan,2,0,1.0
+2014-2015,14,2014-11-07,Dinamo,Viitorul,2,3,0.0
+2014-2015,14,2014-11-08,Brașov,Pandurii,0,3,0.0
+2014-2015,14,2014-11-08,Botoșani,CFR Cluj,0,1,0.0
+2014-2015,14,2014-11-08,U Cluj,Petrolul,0,3,0.0
+2014-2015,14,2014-11-09,Studențesc Iași,CS U Craiova,1,3,0.0
+2014-2015,14,2014-11-09,Oțelul Galați,Astra Giurgiu,1,1,0.5
+2014-2015,14,2014-11-09,Concordia,Steaua,0,1,0.0
+2014-2015,14,2014-11-10,Rapid București,Ceahlăul,1,1,0.5
+2014-2015,15,2014-11-21,Viitorul,Concordia,2,2,0.5
+2014-2015,15,2014-11-21,Gaz Metan,Dinamo,1,2,0.0
+2014-2015,15,2014-11-22,Astra Giurgiu,U Cluj,1,1,0.5
+2014-2015,15,2014-11-22,Ceahlăul,Oțelul Galați,0,1,0.0
+2014-2015,15,2014-11-22,Steaua,Brașov,2,0,1.0
+2014-2015,15,2014-11-23,Pandurii,Botoșani,1,2,0.0
+2014-2015,15,2014-11-23,CFR Cluj,Studențesc Iași,4,0,1.0
+2014-2015,15,2014-11-23,Petrolul,Târgu Mureș,2,0,1.0
+2014-2015,15,2014-11-24,CS U Craiova,Rapid București,2,0,1.0
+2014-2015,16,2014-11-28,Concordia,Gaz Metan,2,0,1.0
+2014-2015,16,2014-11-28,Studențesc Iași,Pandurii,3,0,1.0
+2014-2015,16,2014-11-29,CS U Craiova,Ceahlăul,2,0,1.0
+2014-2015,16,2014-11-29,U Cluj,Oțelul Galați,0,0,0.5
+2014-2015,16,2014-11-29,Rapid București,CFR Cluj,0,0,0.5
+2014-2015,16,2014-11-30,Brașov,Viitorul,1,3,0.0
+2014-2015,16,2014-11-30,Târgu Mureș,Astra Giurgiu,0,0,0.5
+2014-2015,16,2014-11-30,Dinamo,Petrolul,0,0,0.5
+2014-2015,16,2014-12-01,Botoșani,Steaua,0,2,0.0
+2014-2015,17,2014-12-05,Gaz Metan,Brașov,2,1,1.0
+2014-2015,17,2014-12-05,Viitorul,Botoșani,1,2,0.0
+2014-2015,17,2014-12-06,Ceahlăul,U Cluj,0,6,0.0
+2014-2015,17,2014-12-06,Pandurii,Rapid București,2,0,1.0
+2014-2015,17,2014-12-06,Astra Giurgiu,Dinamo,6,1,1.0
+2014-2015,17,2014-12-07,Oțelul Galați,Târgu Mureș,0,2,0.0
+2014-2015,17,2014-12-07,Steaua,Studențesc Iași,1,0,1.0
+2014-2015,17,2014-12-07,CFR Cluj,CS U Craiova,0,0,0.5
+2014-2015,17,2014-12-08,Petrolul,Concordia,2,2,0.5
+2014-2015,18,2015-02-20,Viitorul,Studențesc Iași,0,3,0.0
+2014-2015,18,2015-02-20,Petrolul,Brașov,1,0,1.0
+2014-2015,18,2015-02-21,Gaz Metan,Botoșani,1,1,0.5
+2014-2015,18,2015-02-21,Oțelul Galați,Dinamo,0,1,0.0
+2014-2015,18,2015-02-22,Astra Giurgiu,Concordia,2,2,0.5
+2014-2015,18,2015-02-22,U Cluj,Târgu Mureș,0,3,0.0
+2014-2015,18,2015-02-22,Steaua,Rapid București,0,1,0.0
+2014-2015,18,2015-02-23,Ceahlăul,CFR Cluj,0,0,0.5
+2014-2015,18,2015-02-23,Pandurii,CS U Craiova,0,1,0.0
+2014-2015,19,2015-02-27,Concordia,Oțelul Galați,3,0,1.0
+2014-2015,19,2015-02-27,Botoșani,Petrolul,0,1,0.0
+2014-2015,19,2015-02-28,Studențesc Iași,Gaz Metan,1,0,1.0
+2014-2015,19,2015-02-28,Dinamo,U Cluj,3,0,1.0
+2014-2015,19,2015-03-01,CS U Craiova,Steaua,0,0,0.5
+2014-2015,19,2015-03-01,CFR Cluj,Pandurii,0,4,0.0
+2014-2015,19,2015-03-01,Brașov,Astra Giurgiu,1,1,0.5
+2014-2015,19,2015-03-02,Târgu Mureș,Ceahlăul,3,0,1.0
+2014-2015,19,2015-03-02,Rapid București,Viitorul,0,0,0.5
+2014-2015,20,2015-03-06,Ceahlăul,Pandurii,1,1,0.5
+2014-2015,20,2015-03-06,Târgu Mureș,Dinamo,2,1,1.0
+2014-2015,20,2015-03-07,Oțelul Galați,Brașov,1,1,0.5
+2014-2015,20,2015-03-07,Astra Giurgiu,Botoșani,2,0,1.0
+2014-2015,20,2015-03-08,U Cluj,Concordia,0,0,0.5
+2014-2015,20,2015-03-08,Viitorul,CS U Craiova,1,1,0.5
+2014-2015,20,2015-03-08,Steaua,CFR Cluj,1,0,1.0
+2014-2015,20,2015-03-09,Petrolul,Studențesc Iași,0,2,0.0
+2014-2015,20,2015-03-09,Gaz Metan,Rapid București,0,1,0.0
+2014-2015,21,2015-03-13,Concordia,Târgu Mureș,0,0,0.5
+2014-2015,21,2015-03-13,Brașov,U Cluj,1,0,1.0
+2014-2015,21,2015-03-13,Rapid București,Petrolul,1,1,0.5
+2014-2015,21,2015-03-14,CS U Craiova,Gaz Metan,1,1,0.5
+2014-2015,21,2015-03-14,Botoșani,Oțelul Galați,1,1,0.5
+2014-2015,21,2015-03-14,Dinamo,Ceahlăul,3,1,1.0
+2014-2015,21,2015-03-15,Studențesc Iași,Astra Giurgiu,1,0,1.0
+2014-2015,21,2015-03-15,CFR Cluj,Viitorul,1,2,0.0
+2014-2015,21,2015-03-15,Pandurii,Steaua,3,1,1.0
+2014-2015,22,2015-03-16,Târgu Mureș,Brașov,1,0,1.0
+2014-2015,22,2015-03-17,U Cluj,Botoșani,0,0,0.5
+2014-2015,22,2015-03-17,Dinamo,Concordia,0,3,0.0
+2014-2015,22,2015-03-17,Petrolul,CS U Craiova,1,2,0.0
+2014-2015,22,2015-03-18,Oțelul Galați,Studențesc Iași,0,0,0.5
+2014-2015,22,2015-03-18,Astra Giurgiu,Rapid București,2,0,1.0
+2014-2015,22,2015-03-18,Ceahlăul,Steaua,0,1,0.0
+2014-2015,22,2015-03-19,Viitorul,Pandurii,4,0,1.0
+2014-2015,22,2015-03-19,Gaz Metan,CFR Cluj,0,0,0.5
+2014-2015,23,2015-03-20,Botoșani,Târgu Mureș,1,2,0.0
+2014-2015,23,2015-03-21,CS U Craiova,Astra Giurgiu,0,0,0.5
+2014-2015,23,2015-03-21,Rapid București,Oțelul Galați,2,0,1.0
+2014-2015,23,2015-03-21,Brașov,Dinamo,1,0,1.0
+2014-2015,23,2015-03-22,Pandurii,Gaz Metan,0,1,0.0
+2014-2015,23,2015-03-22,CFR Cluj,Petrolul,0,1,0.0
+2014-2015,23,2015-03-22,Steaua,Viitorul,4,1,1.0
+2014-2015,23,2015-03-23,Concordia,Ceahlăul,0,1,0.0
+2014-2015,23,2015-03-23,Studențesc Iași,U Cluj,2,0,1.0
+2014-2015,24,2015-04-03,Târgu Mureș,Studențesc Iași,1,0,1.0
+2014-2015,24,2015-04-03,Dinamo,Botoșani,0,0,0.5
+2014-2015,24,2015-04-04,Oțelul Galați,CS U Craiova,0,1,0.0
+2014-2015,24,2015-04-04,Astra Giurgiu,CFR Cluj,0,1,0.0
+2014-2015,24,2015-04-04,U Cluj,Rapid București,1,0,1.0
+2014-2015,24,2015-04-05,Concordia,Brașov,1,1,0.5
+2014-2015,24,2015-04-05,Ceahlăul,Viitorul,1,2,0.0
+2014-2015,24,2015-04-05,Gaz Metan,Steaua,1,2,0.0
+2014-2015,24,2015-04-06,Petrolul,Pandurii,0,1,0.0
+2014-2015,25,2015-04-07,CS U Craiova,U Cluj,3,0,1.0
+2014-2015,25,2015-04-07,CFR Cluj,Oțelul Galați,1,0,1.0
+2014-2015,25,2015-04-07,Studențesc Iași,Dinamo,1,0,1.0
+2014-2015,25,2015-04-08,Botoșani,Concordia,3,0,1.0
+2014-2015,25,2015-04-08,Viitorul,Gaz Metan,1,0,1.0
+2014-2015,25,2015-04-08,Rapid București,Târgu Mureș,1,2,0.0
+2014-2015,25,2015-04-09,Brașov,Ceahlăul,0,2,0.0
+2014-2015,25,2015-04-09,Pandurii,Astra Giurgiu,1,1,0.5
+2014-2015,25,2015-04-09,Steaua,Petrolul,0,1,0.0
+2014-2015,26,2015-04-10,U Cluj,CFR Cluj,1,0,1.0
+2014-2015,26,2015-04-11,Concordia,Studențesc Iași,2,1,1.0
+2014-2015,26,2015-04-11,Târgu Mureș,CS U Craiova,2,1,1.0
+2014-2015,26,2015-04-11,Dinamo,Rapid București,2,0,1.0
+2014-2015,26,2015-04-12,Brașov,Botoșani,0,1,0.0
+2014-2015,26,2015-04-12,Astra Giurgiu,Steaua,0,0,0.5
+2014-2015,26,2015-04-13,Oțelul Galați,Pandurii,0,2,0.0
+2014-2015,26,2015-04-13,Ceahlăul,Gaz Metan,0,0,0.5
+2014-2015,26,2015-04-13,Petrolul,Viitorul,1,2,0.0
+2014-2015,27,2015-04-17,Studențesc Iași,Brașov,1,0,1.0
+2014-2015,27,2015-04-17,CFR Cluj,Târgu Mureș,2,2,0.5
+2014-2015,27,2015-04-18,Botoșani,Ceahlăul,2,0,1.0
+2014-2015,27,2015-04-18,Viitorul,Astra Giurgiu,2,0,1.0
+2014-2015,27,2015-04-18,Gaz Metan,Petrolul,0,0,0.5
+2014-2015,27,2015-04-19,CS U Craiova,Dinamo,0,0,0.5
+2014-2015,27,2015-04-19,Steaua,Oțelul Galați,1,2,0.0
+2014-2015,27,2015-04-20,Pandurii,U Cluj,0,1,0.0
+2014-2015,27,2015-04-20,Rapid București,Concordia,1,0,1.0
+2014-2015,28,2015-04-24,Concordia,CS U Craiova,2,2,0.5
+2014-2015,28,2015-04-24,Brașov,Rapid București,1,2,0.0
+2014-2015,28,2015-04-24,Dinamo,CFR Cluj,1,1,0.5
+2014-2015,28,2015-04-25,Botoșani,Studențesc Iași,0,0,0.5
+2014-2015,28,2015-04-25,Târgu Mureș,Pandurii,2,1,1.0
+2014-2015,28,2015-04-25,U Cluj,Steaua,0,3,0.0
+2014-2015,28,2015-04-26,Oțelul Galați,Viitorul,3,0,1.0
+2014-2015,28,2015-04-26,Astra Giurgiu,Gaz Metan,1,2,0.0
+2014-2015,28,2015-04-27,Ceahlăul,Petrolul,1,1,0.5
+2014-2015,29,2015-04-28,CFR Cluj,Concordia,2,1,1.0
+2014-2015,29,2015-04-28,Rapid București,Botoșani,2,2,0.5
+2014-2015,29,2015-04-28,Pandurii,Dinamo,3,2,1.0
+2014-2015,29,2015-04-29,CS U Craiova,Brașov,0,1,0.0
+2014-2015,29,2015-04-29,Viitorul,U Cluj,1,1,0.5
+2014-2015,29,2015-04-29,Steaua,Târgu Mureș,0,1,0.0
+2014-2015,29,2015-04-30,Gaz Metan,Oțelul Galați,0,0,0.5
+2014-2015,29,2015-04-30,Studențesc Iași,Ceahlăul,2,0,1.0
+2014-2015,29,2015-04-30,Petrolul,Astra Giurgiu,1,2,0.0
+2014-2015,30,2015-05-01,Concordia,Pandurii,1,0,1.0
+2014-2015,30,2015-05-02,Brașov,CFR Cluj,2,2,0.5
+2014-2015,30,2015-05-02,Târgu Mureș,Viitorul,6,1,1.0
+2014-2015,30,2015-05-02,Botoșani,CS U Craiova,2,0,1.0
+2014-2015,30,2015-05-03,Ceahlăul,Astra Giurgiu,1,3,0.0
+2014-2015,30,2015-05-03,U Cluj,Gaz Metan,1,1,0.5
+2014-2015,30,2015-05-03,Dinamo,Steaua,1,3,0.0
+2014-2015,30,2015-05-04,Oțelul Galați,Petrolul,1,1,0.5
+2014-2015,30,2015-05-04,Studențesc Iași,Rapid București,0,0,0.5
+2014-2015,31,2015-05-08,Pandurii,Brașov,2,0,1.0
+2014-2015,31,2015-05-08,Viitorul,Dinamo,0,2,0.0
+2014-2015,31,2015-05-09,CS U Craiova,Studențesc Iași,0,1,0.0
+2014-2015,31,2015-05-09,Petrolul,U Cluj,1,0,1.0
+2014-2015,31,2015-05-10,CFR Cluj,Botoșani,4,0,1.0
+2014-2015,31,2015-05-10,Gaz Metan,Târgu Mureș,1,0,1.0
+2014-2015,31,2015-05-10,Steaua,Concordia,2,2,0.5
+2014-2015,31,2015-05-11,Astra Giurgiu,Oțelul Galați,4,1,1.0
+2014-2015,31,2015-05-11,Ceahlăul,Rapid București,0,1,0.0
+2014-2015,32,2015-05-15,Botoșani,Pandurii,1,1,0.5
+2014-2015,32,2015-05-15,Dinamo,Gaz Metan,1,1,0.5
+2014-2015,32,2015-05-16,Studențesc Iași,CFR Cluj,0,3,0.0
+2014-2015,32,2015-05-16,Brașov,Steaua,2,3,0.0
+2014-2015,32,2015-05-16,Târgu Mureș,Petrolul,1,0,1.0
+2014-2015,32,2015-05-17,Concordia,Viitorul,2,0,1.0
+2014-2015,32,2015-05-17,Oțelul Galați,Ceahlăul,4,1,1.0
+2014-2015,32,2015-05-17,Rapid București,CS U Craiova,1,2,0.0
+2014-2015,32,2015-05-18,U Cluj,Astra Giurgiu,0,0,0.5
+2014-2015,33,2015-05-22,Gaz Metan,Concordia,2,0,1.0
+2014-2015,33,2015-05-22,Petrolul,Dinamo,0,3,0.0
+2014-2015,33,2015-05-23,Oțelul Galați,U Cluj,2,1,1.0
+2014-2015,33,2015-05-23,Viitorul,Brașov,0,2,0.0
+2014-2015,33,2015-05-23,CFR Cluj,Rapid București,2,1,1.0
+2014-2015,33,2015-05-24,Ceahlăul,CS U Craiova,2,1,1.0
+2014-2015,33,2015-05-24,Pandurii,Studențesc Iași,5,2,1.0
+2014-2015,33,2015-05-24,Steaua,Botoșani,2,0,1.0
+2014-2015,33,2015-05-24,Astra Giurgiu,Târgu Mureș,3,1,1.0
+2014-2015,34,2015-05-27,U Cluj,Ceahlăul,2,0,1.0
+2014-2015,34,2015-05-27,Rapid București,Pandurii,0,3,0.0
+2014-2015,34,2015-05-27,Concordia,Petrolul,3,2,1.0
+2014-2015,34,2015-05-27,Brașov,Gaz Metan,0,0,0.5
+2014-2015,34,2015-05-28,Târgu Mureș,Oțelul Galați,1,2,0.0
+2014-2015,34,2015-05-28,Studențesc Iași,Steaua,0,0,0.5
+2014-2015,34,2015-05-29,Botoșani,Viitorul,4,4,0.5
+2014-2015,34,2015-05-29,Dinamo,Astra Giurgiu,0,2,0.0
+2014-2015,34,2015-05-30,CS U Craiova,CFR Cluj,3,0,1.0

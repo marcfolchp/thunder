@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2013-2014,1,2013-08-02,Ajax,Roda JC,3,0,1.0
+2013-2014,1,2013-08-03,Heerenveen,AZ Alkmaar,4,2,1.0
+2013-2014,1,2013-08-03,ADO Den Haag,PSV Eindhoven,2,3,0.0
+2013-2014,1,2013-08-03,Twente,RKC Waalwijk,0,0,0.5
+2013-2014,1,2013-08-03,NEC Nijmegen,Groningen,1,4,0.0
+2013-2014,1,2013-08-04,Vitesse,Heracles Almelo,3,1,1.0
+2013-2014,1,2013-08-04,Utrecht,Go Ahead Eag,1,1,0.5
+2013-2014,1,2013-08-04,Zwolle,Feyenoord,2,1,1.0
+2013-2014,1,2013-08-04,Cambuur,NAC Breda,0,0,0.5
+2013-2014,2,2013-08-09,Roda JC,Cambuur,2,0,1.0
+2013-2014,2,2013-08-10,NAC Breda,Heerenveen,0,2,0.0
+2013-2014,2,2013-08-10,PSV Eindhoven,NEC Nijmegen,5,0,1.0
+2013-2014,2,2013-08-10,Heracles Almelo,Zwolle,1,3,0.0
+2013-2014,2,2013-08-10,Go Ahead Eag,ADO Den Haag,2,1,1.0
+2013-2014,2,2013-08-11,Groningen,Utrecht,2,0,1.0
+2013-2014,2,2013-08-11,AZ Alkmaar,Ajax,3,2,1.0
+2013-2014,2,2013-08-11,RKC Waalwijk,Vitesse,4,2,1.0
+2013-2014,2,2013-08-11,Feyenoord,Twente,1,4,0.0
+2013-2014,3,2013-08-17,Cambuur,Groningen,4,1,1.0
+2013-2014,3,2013-08-17,PSV Eindhoven,Go Ahead Eag,3,0,1.0
+2013-2014,3,2013-08-17,RKC Waalwijk,AZ Alkmaar,1,2,0.0
+2013-2014,3,2013-08-17,NEC Nijmegen,Zwolle,1,5,0.0
+2013-2014,3,2013-08-17,Roda JC,Vitesse,1,1,0.5
+2013-2014,3,2013-08-18,Twente,Utrecht,6,0,1.0
+2013-2014,3,2013-08-18,NAC Breda,ADO Den Haag,1,2,0.0
+2013-2014,3,2013-08-18,Ajax,Feyenoord,2,1,1.0
+2013-2014,3,2013-08-18,Heerenveen,Heracles Almelo,2,4,0.0
+2013-2014,4,2013-08-23,Heerenveen,Ajax,3,3,0.5
+2013-2014,4,2013-08-24,Heracles Almelo,PSV Eindhoven,1,1,0.5
+2013-2014,4,2013-08-24,NEC Nijmegen,RKC Waalwijk,2,2,0.5
+2013-2014,4,2013-08-24,ADO Den Haag,Roda JC,0,4,0.0
+2013-2014,4,2013-08-24,Zwolle,Cambuur,2,0,1.0
+2013-2014,4,2013-08-25,Utrecht,AZ Alkmaar,2,0,1.0
+2013-2014,4,2013-08-25,Vitesse,Twente,1,0,1.0
+2013-2014,4,2013-08-25,Go Ahead Eag,Groningen,3,3,0.5
+2013-2014,4,2013-08-25,Feyenoord,NAC Breda,3,1,1.0
+2013-2014,5,2013-08-30,NAC Breda,NEC Nijmegen,1,1,0.5
+2013-2014,5,2013-08-31,Heracles Almelo,ADO Den Haag,1,0,1.0
+2013-2014,5,2013-08-31,RKC Waalwijk,Go Ahead Eag,1,4,0.0
+2013-2014,5,2013-08-31,PSV Eindhoven,Cambuur,0,0,0.5
+2013-2014,5,2013-08-31,Twente,Heerenveen,1,1,0.5
+2013-2014,5,2013-09-01,Groningen,Ajax,1,1,0.5
+2013-2014,5,2013-09-01,Zwolle,Utrecht,1,1,0.5
+2013-2014,5,2013-09-01,Feyenoord,Roda JC,4,0,1.0
+2013-2014,5,2013-09-01,AZ Alkmaar,Vitesse,1,1,0.5
+2013-2014,6,2013-09-14,Twente,PSV Eindhoven,2,2,0.5
+2013-2014,6,2013-09-14,Ajax,Zwolle,2,1,1.0
+2013-2014,6,2013-09-14,Cambuur,Heracles Almelo,2,0,1.0
+2013-2014,6,2013-09-15,Heerenveen,Groningen,4,2,1.0
+2013-2014,6,2013-09-15,Utrecht,RKC Waalwijk,2,1,1.0
+2013-2014,6,2013-09-15,AZ Alkmaar,Go Ahead Eag,3,0,1.0
+2013-2014,6,2013-09-15,NEC Nijmegen,Feyenoord,3,3,0.5
+2013-2014,6,2013-09-15,Roda JC,NAC Breda,1,5,0.0
+2013-2014,7,2013-09-20,Go Ahead Eag,Cambuur,0,0,0.5
+2013-2014,7,2013-09-21,Groningen,RKC Waalwijk,4,1,1.0
+2013-2014,7,2013-09-21,ADO Den Haag,NEC Nijmegen,1,1,0.5
+2013-2014,7,2013-09-21,Roda JC,Heerenveen,3,3,0.5
+2013-2014,7,2013-09-21,Heracles Almelo,Twente,0,3,0.0
+2013-2014,7,2013-09-22,Feyenoord,Utrecht,1,0,1.0
+2013-2014,7,2013-09-22,Vitesse,Zwolle,3,0,1.0
+2013-2014,7,2013-09-22,PSV Eindhoven,Ajax,4,0,1.0
+2013-2014,7,2013-09-22,NAC Breda,AZ Alkmaar,3,0,1.0
+2013-2014,8,2013-09-28,RKC Waalwijk,Heracles Almelo,1,4,0.0
+2013-2014,8,2013-09-28,Ajax,Go Ahead Eag,6,0,1.0
+2013-2014,8,2013-09-28,Zwolle,NAC Breda,0,0,0.5
+2013-2014,8,2013-09-28,AZ Alkmaar,PSV Eindhoven,2,1,1.0
+2013-2014,8,2013-09-28,Utrecht,Roda JC,3,3,0.5
+2013-2014,8,2013-09-29,Heerenveen,Cambuur,2,1,1.0
+2013-2014,8,2013-09-29,NEC Nijmegen,Vitesse,2,3,0.0
+2013-2014,8,2013-09-29,Twente,Groningen,5,0,1.0
+2013-2014,8,2013-09-29,Feyenoord,ADO Den Haag,4,2,1.0
+2013-2014,6,2013-10-02,ADO Den Haag,Vitesse,2,1,1.0
+2013-2014,9,2013-10-04,Cambuur,Twente,0,1,0.0
+2013-2014,9,2013-10-05,Roda JC,Zwolle,0,0,0.5
+2013-2014,9,2013-10-05,Go Ahead Eag,NEC Nijmegen,4,3,1.0
+2013-2014,9,2013-10-05,NAC Breda,Heracles Almelo,2,1,1.0
+2013-2014,9,2013-10-06,Vitesse,Feyenoord,1,2,0.0
+2013-2014,9,2013-10-06,PSV Eindhoven,RKC Waalwijk,2,1,1.0
+2013-2014,9,2013-10-06,Ajax,Utrecht,3,0,1.0
+2013-2014,9,2013-10-06,Groningen,AZ Alkmaar,2,1,1.0
+2013-2014,10,2013-10-19,Twente,Ajax,1,1,0.5
+2013-2014,10,2013-10-19,Heerenveen,Vitesse,2,3,0.0
+2013-2014,10,2013-10-19,RKC Waalwijk,Roda JC,1,2,0.0
+2013-2014,10,2013-10-19,Go Ahead Eag,Feyenoord,2,2,0.5
+2013-2014,10,2013-10-19,Utrecht,NAC Breda,4,2,1.0
+2013-2014,10,2013-10-20,AZ Alkmaar,Cambuur,3,1,1.0
+2013-2014,10,2013-10-20,Groningen,PSV Eindhoven,1,0,1.0
+2013-2014,10,2013-10-20,Zwolle,ADO Den Haag,6,1,1.0
+2013-2014,10,2013-10-20,Heracles Almelo,NEC Nijmegen,1,1,0.5
+2013-2014,11,2013-10-25,NEC Nijmegen,Heerenveen,2,1,1.0
+2013-2014,11,2013-10-26,NAC Breda,Go Ahead Eag,5,0,1.0
+2013-2014,11,2013-10-26,Cambuur,Utrecht,3,1,1.0
+2013-2014,11,2013-10-26,ADO Den Haag,Twente,3,2,1.0
+2013-2014,11,2013-10-26,Ajax,RKC Waalwijk,0,0,0.5
+2013-2014,11,2013-10-27,Feyenoord,Heracles Almelo,1,2,0.0
+2013-2014,11,2013-10-27,Roda JC,PSV Eindhoven,2,1,1.0
+2013-2014,11,2013-10-27,Vitesse,Groningen,2,2,0.5
+2013-2014,11,2013-10-27,Zwolle,AZ Alkmaar,0,2,0.0
+2013-2014,12,2013-11-01,RKC Waalwijk,NAC Breda,3,0,1.0
+2013-2014,12,2013-11-02,Ajax,Vitesse,0,1,0.0
+2013-2014,12,2013-11-02,PSV Eindhoven,Zwolle,1,1,0.5
+2013-2014,12,2013-11-02,AZ Alkmaar,ADO Den Haag,2,0,1.0
+2013-2014,12,2013-11-02,Twente,NEC Nijmegen,2,2,0.5
+2013-2014,12,2013-11-03,Cambuur,Feyenoord,0,2,0.0
+2013-2014,12,2013-11-03,Groningen,Roda JC,3,3,0.5
+2013-2014,12,2013-11-03,Utrecht,Heerenveen,2,0,1.0
+2013-2014,13,2013-11-08,Heerenveen,RKC Waalwijk,5,2,1.0
+2013-2014,13,2013-11-09,ADO Den Haag,Cambuur,3,0,1.0
+2013-2014,13,2013-11-09,Roda JC,Go Ahead Eag,1,4,0.0
+2013-2014,13,2013-11-09,Heracles Almelo,Groningen,0,3,0.0
+2013-2014,13,2013-11-09,Vitesse,Utrecht,3,1,1.0
+2013-2014,13,2013-11-10,Feyenoord,AZ Alkmaar,2,2,0.5
+2013-2014,13,2013-11-10,Zwolle,Twente,1,1,0.5
+2013-2014,13,2013-11-10,NEC Nijmegen,Ajax,0,3,0.0
+2013-2014,13,2013-11-10,NAC Breda,PSV Eindhoven,2,1,1.0
+2013-2014,14,2013-11-23,Ajax,Heracles Almelo,3,0,1.0
+2013-2014,14,2013-11-23,Cambuur,NEC Nijmegen,2,1,1.0
+2013-2014,14,2013-11-23,AZ Alkmaar,Roda JC,2,2,0.5
+2013-2014,14,2013-11-23,PSV Eindhoven,Heerenveen,1,1,0.5
+2013-2014,14,2013-11-24,Groningen,Zwolle,0,0,0.5
+2013-2014,14,2013-11-24,Go Ahead Eag,Vitesse,0,3,0.0
+2013-2014,14,2013-11-24,RKC Waalwijk,Feyenoord,1,0,1.0
+2013-2014,14,2013-11-24,Twente,NAC Breda,5,2,1.0
+2013-2014,14,2013-11-24,Utrecht,ADO Den Haag,3,0,1.0
+2013-2014,15,2013-11-29,Roda JC,Twente,1,2,0.0
+2013-2014,15,2013-11-30,NAC Breda,Groningen,2,2,0.5
+2013-2014,15,2013-11-30,Zwolle,RKC Waalwijk,1,1,0.5
+2013-2014,15,2013-11-30,Heracles Almelo,Utrecht,1,2,0.0
+2013-2014,15,2013-11-30,Heerenveen,Go Ahead Eag,3,1,1.0
+2013-2014,15,2013-12-01,Vitesse,Cambuur,3,0,1.0
+2013-2014,15,2013-12-01,ADO Den Haag,Ajax,0,4,0.0
+2013-2014,15,2013-12-01,NEC Nijmegen,AZ Alkmaar,3,2,1.0
+2013-2014,15,2013-12-01,Feyenoord,PSV Eindhoven,3,1,1.0
+2013-2014,9,2013-12-04,ADO Den Haag,Heerenveen,1,1,0.5
+2013-2014,12,2013-12-04,Go Ahead Eag,Heracles Almelo,1,1,0.5
+2013-2014,16,2013-12-06,Utrecht,NEC Nijmegen,2,0,1.0
+2013-2014,16,2013-12-07,Ajax,NAC Breda,4,0,1.0
+2013-2014,16,2013-12-07,AZ Alkmaar,Twente,1,2,0.0
+2013-2014,16,2013-12-07,PSV Eindhoven,Vitesse,2,6,0.0
+2013-2014,16,2013-12-07,RKC Waalwijk,Cambuur,2,2,0.5
+2013-2014,16,2013-12-08,Groningen,ADO Den Haag,1,2,0.0
+2013-2014,16,2013-12-08,Heerenveen,Feyenoord,1,2,0.0
+2013-2014,16,2013-12-08,Roda JC,Heracles Almelo,1,3,0.0
+2013-2014,16,2013-12-08,Go Ahead Eag,Zwolle,4,1,1.0
+2013-2014,17,2013-12-13,Zwolle,Heerenveen,1,2,0.0
+2013-2014,17,2013-12-14,ADO Den Haag,RKC Waalwijk,1,2,0.0
+2013-2014,17,2013-12-14,Twente,Go Ahead Eag,3,1,1.0
+2013-2014,17,2013-12-14,NEC Nijmegen,Roda JC,4,3,1.0
+2013-2014,17,2013-12-15,Cambuur,Ajax,1,2,0.0
+2013-2014,17,2013-12-15,Utrecht,PSV Eindhoven,1,5,0.0
+2013-2014,17,2013-12-15,Heracles Almelo,AZ Alkmaar,2,0,1.0
+2013-2014,17,2013-12-15,Feyenoord,Groningen,1,0,1.0
+2013-2014,17,2013-12-15,Vitesse,NAC Breda,3,2,1.0
+2013-2014,18,2013-12-20,RKC Waalwijk,Twente,1,1,0.5
+2013-2014,18,2013-12-21,AZ Alkmaar,Heerenveen,1,5,0.0
+2013-2014,18,2013-12-21,NAC Breda,Cambuur,1,0,1.0
+2013-2014,18,2013-12-21,Heracles Almelo,Vitesse,2,2,0.5
+2013-2014,18,2013-12-21,Feyenoord,Zwolle,3,0,1.0
+2013-2014,18,2013-12-22,Roda JC,Ajax,1,2,0.0
+2013-2014,18,2013-12-22,Groningen,NEC Nijmegen,5,2,1.0
+2013-2014,18,2013-12-22,PSV Eindhoven,ADO Den Haag,2,0,1.0
+2013-2014,18,2013-12-22,Go Ahead Eag,Utrecht,2,1,1.0
+2013-2014,19,2014-01-17,Twente,Heracles Almelo,3,1,1.0
+2013-2014,19,2014-01-18,RKC Waalwijk,Groningen,1,1,0.5
+2013-2014,19,2014-01-18,AZ Alkmaar,NAC Breda,3,0,1.0
+2013-2014,19,2014-01-18,Heerenveen,Roda JC,2,2,0.5
+2013-2014,19,2014-01-18,Zwolle,Vitesse,1,2,0.0
+2013-2014,19,2014-01-19,Utrecht,Feyenoord,2,5,0.0
+2013-2014,19,2014-01-19,Cambuur,Go Ahead Eag,2,0,1.0
+2013-2014,19,2014-01-19,Ajax,PSV Eindhoven,1,0,1.0
+2013-2014,19,2014-01-19,NEC Nijmegen,ADO Den Haag,3,1,1.0
+2013-2014,20,2014-01-24,Heracles Almelo,RKC Waalwijk,2,1,1.0
+2013-2014,20,2014-01-25,NAC Breda,Zwolle,1,2,0.0
+2013-2014,20,2014-01-25,Roda JC,Utrecht,1,0,1.0
+2013-2014,20,2014-01-25,ADO Den Haag,Feyenoord,3,2,1.0
+2013-2014,20,2014-01-25,PSV Eindhoven,AZ Alkmaar,1,0,1.0
+2013-2014,20,2014-01-26,Go Ahead Eag,Ajax,0,1,0.0
+2013-2014,20,2014-01-26,Vitesse,NEC Nijmegen,1,1,0.5
+2013-2014,20,2014-01-26,Cambuur,Heerenveen,3,1,1.0
+2013-2014,21,2014-01-31,Feyenoord,Vitesse,1,1,0.5
+2013-2014,21,2014-02-01,Heerenveen,ADO Den Haag,3,0,1.0
+2013-2014,21,2014-02-01,AZ Alkmaar,Groningen,2,0,1.0
+2013-2014,21,2014-02-01,Zwolle,Roda JC,3,1,1.0
+2013-2014,21,2014-02-01,Heracles Almelo,NAC Breda,1,2,0.0
+2013-2014,21,2014-02-02,Utrecht,Ajax,1,1,0.5
+2013-2014,21,2014-02-02,RKC Waalwijk,PSV Eindhoven,2,0,1.0
+2013-2014,21,2014-02-02,Twente,Cambuur,3,1,1.0
+2013-2014,21,2014-02-02,NEC Nijmegen,Go Ahead Eag,1,1,0.5
+2013-2014,22,2014-02-04,Vitesse,AZ Alkmaar,0,2,0.0
+2013-2014,22,2014-02-04,ADO Den Haag,Heracles Almelo,0,3,0.0
+2013-2014,22,2014-02-04,Roda JC,Feyenoord,1,2,0.0
+2013-2014,22,2014-02-05,Go Ahead Eag,RKC Waalwijk,2,2,0.5
+2013-2014,22,2014-02-05,NEC Nijmegen,NAC Breda,1,1,0.5
+2013-2014,22,2014-02-05,Heerenveen,Twente,0,2,0.0
+2013-2014,22,2014-02-05,Cambuur,PSV Eindhoven,1,2,0.0
+2013-2014,22,2014-02-06,Ajax,Groningen,2,1,1.0
+2013-2014,22,2014-02-06,Utrecht,Zwolle,1,2,0.0
+2013-2014,23,2014-02-07,Vitesse,ADO Den Haag,0,0,0.5
+2013-2014,23,2014-02-08,PSV Eindhoven,Twente,3,2,1.0
+2013-2014,23,2014-02-08,Go Ahead Eag,AZ Alkmaar,2,1,1.0
+2013-2014,23,2014-02-08,Feyenoord,NEC Nijmegen,5,1,1.0
+2013-2014,23,2014-02-08,NAC Breda,Roda JC,2,0,1.0
+2013-2014,23,2014-02-09,RKC Waalwijk,Utrecht,5,2,1.0
+2013-2014,23,2014-02-09,Groningen,Heerenveen,1,3,0.0
+2013-2014,23,2014-02-09,Zwolle,Ajax,1,1,0.5
+2013-2014,23,2014-02-09,Heracles Almelo,Cambuur,1,1,0.5
+2013-2014,20,2014-02-12,Groningen,Twente,1,1,0.5
+2013-2014,24,2014-02-14,PSV Eindhoven,Heracles Almelo,2,1,1.0
+2013-2014,24,2014-02-15,AZ Alkmaar,Utrecht,1,1,0.5
+2013-2014,24,2014-02-15,Roda JC,ADO Den Haag,0,1,0.0
+2013-2014,24,2014-02-15,RKC Waalwijk,NEC Nijmegen,1,3,0.0
+2013-2014,24,2014-02-15,Twente,Vitesse,2,0,1.0
+2013-2014,24,2014-02-16,Cambuur,Zwolle,3,1,1.0
+2013-2014,24,2014-02-16,NAC Breda,Feyenoord,1,1,0.5
+2013-2014,24,2014-02-16,Ajax,Heerenveen,3,0,1.0
+2013-2014,24,2014-02-16,Groningen,Go Ahead Eag,1,0,1.0
+2013-2014,25,2014-02-21,ADO Den Haag,Go Ahead Eag,3,2,1.0
+2013-2014,25,2014-02-22,Heerenveen,NAC Breda,0,0,0.5
+2013-2014,25,2014-02-22,NEC Nijmegen,PSV Eindhoven,0,2,0.0
+2013-2014,25,2014-02-22,Zwolle,Heracles Almelo,1,1,0.5
+2013-2014,25,2014-02-22,Cambuur,Roda JC,1,0,1.0
+2013-2014,25,2014-02-23,Utrecht,Groningen,1,0,1.0
+2013-2014,25,2014-02-23,Twente,Feyenoord,2,2,0.5
+2013-2014,25,2014-02-23,Vitesse,RKC Waalwijk,3,1,1.0
+2013-2014,25,2014-02-23,Ajax,AZ Alkmaar,4,0,1.0
+2013-2014,26,2014-02-28,Heracles Almelo,Heerenveen,1,2,0.0
+2013-2014,26,2014-03-01,Vitesse,Roda JC,3,0,1.0
+2013-2014,26,2014-03-01,Zwolle,NEC Nijmegen,3,3,0.5
+2013-2014,26,2014-03-01,ADO Den Haag,NAC Breda,1,1,0.5
+2013-2014,26,2014-03-01,Go Ahead Eag,PSV Eindhoven,2,3,0.0
+2013-2014,26,2014-03-02,Groningen,Cambuur,1,1,0.5
+2013-2014,26,2014-03-02,AZ Alkmaar,RKC Waalwijk,4,0,1.0
+2013-2014,26,2014-03-02,Feyenoord,Ajax,1,2,0.0
+2013-2014,26,2014-03-02,Utrecht,Twente,1,1,0.5
+2013-2014,27,2014-03-08,AZ Alkmaar,Heracles Almelo,4,0,1.0
+2013-2014,27,2014-03-08,PSV Eindhoven,Utrecht,1,0,1.0
+2013-2014,27,2014-03-08,NAC Breda,Vitesse,1,2,0.0
+2013-2014,27,2014-03-08,Heerenveen,Zwolle,3,0,1.0
+2013-2014,27,2014-03-08,Roda JC,NEC Nijmegen,3,1,1.0
+2013-2014,27,2014-03-09,Ajax,Cambuur,1,1,0.5
+2013-2014,27,2014-03-09,Groningen,Feyenoord,0,2,0.0
+2013-2014,27,2014-03-09,Go Ahead Eag,Twente,1,0,1.0
+2013-2014,27,2014-03-09,RKC Waalwijk,ADO Den Haag,1,1,0.5
+2013-2014,28,2014-03-14,Cambuur,RKC Waalwijk,3,2,1.0
+2013-2014,28,2014-03-15,Vitesse,PSV Eindhoven,1,2,0.0
+2013-2014,28,2014-03-15,ADO Den Haag,Groningen,2,1,1.0
+2013-2014,28,2014-03-15,Heracles Almelo,Roda JC,2,1,1.0
+2013-2014,28,2014-03-16,Twente,AZ Alkmaar,2,1,1.0
+2013-2014,28,2014-03-16,Zwolle,Go Ahead Eag,2,0,1.0
+2013-2014,28,2014-03-16,Feyenoord,Heerenveen,2,0,1.0
+2013-2014,28,2014-03-16,NAC Breda,Ajax,0,0,0.5
+2013-2014,28,2014-03-16,NEC Nijmegen,Utrecht,2,2,0.5
+2013-2014,29,2014-03-22,Heerenveen,NEC Nijmegen,2,2,0.5
+2013-2014,29,2014-03-22,PSV Eindhoven,Roda JC,3,1,1.0
+2013-2014,29,2014-03-22,Groningen,Vitesse,3,1,1.0
+2013-2014,29,2014-03-23,AZ Alkmaar,Zwolle,2,1,1.0
+2013-2014,30,2014-03-28,NAC Breda,Utrecht,2,2,0.5
+2013-2014,30,2014-03-29,PSV Eindhoven,Groningen,2,3,0.0
+2013-2014,30,2014-03-29,Vitesse,Heerenveen,2,2,0.5
+2013-2014,30,2014-03-29,NEC Nijmegen,Heracles Almelo,1,2,0.0
+2013-2014,30,2014-03-30,Ajax,Twente,3,0,1.0
+2013-2014,30,2014-03-30,ADO Den Haag,Zwolle,1,1,0.5
+2013-2014,30,2014-03-30,Feyenoord,Go Ahead Eag,5,0,1.0
+2013-2014,30,2014-03-30,Roda JC,RKC Waalwijk,0,1,0.0
+2013-2014,30,2014-03-30,Cambuur,AZ Alkmaar,0,0,0.5
+2013-2014,29,2014-04-02,Go Ahead Eag,NAC Breda,2,1,1.0
+2013-2014,29,2014-04-02,Heracles Almelo,Feyenoord,1,2,0.0
+2013-2014,29,2014-04-02,RKC Waalwijk,Ajax,0,2,0.0
+2013-2014,29,2014-04-02,Twente,ADO Den Haag,1,1,0.5
+2013-2014,29,2014-04-02,Utrecht,Cambuur,1,0,1.0
+2013-2014,31,2014-04-04,Zwolle,Groningen,0,1,0.0
+2013-2014,31,2014-04-05,Heracles Almelo,Go Ahead Eag,1,2,0.0
+2013-2014,31,2014-04-05,Heerenveen,PSV Eindhoven,3,0,1.0
+2013-2014,31,2014-04-05,NAC Breda,Twente,0,2,0.0
+2013-2014,31,2014-04-05,NEC Nijmegen,Cambuur,1,1,0.5
+2013-2014,31,2014-04-06,Feyenoord,RKC Waalwijk,2,0,1.0
+2013-2014,31,2014-04-06,Vitesse,Ajax,1,1,0.5
+2013-2014,31,2014-04-06,Roda JC,AZ Alkmaar,2,2,0.5
+2013-2014,31,2014-04-06,ADO Den Haag,Utrecht,4,1,1.0
+2013-2014,32,2014-04-11,Groningen,NAC Breda,2,1,1.0
+2013-2014,32,2014-04-12,Go Ahead Eag,Heerenveen,0,2,0.0
+2013-2014,32,2014-04-12,Twente,Roda JC,3,0,1.0
+2013-2014,32,2014-04-12,Cambuur,Vitesse,4,3,1.0
+2013-2014,32,2014-04-13,Ajax,ADO Den Haag,3,2,1.0
+2013-2014,32,2014-04-13,Utrecht,Heracles Almelo,2,1,1.0
+2013-2014,32,2014-04-13,PSV Eindhoven,Feyenoord,0,2,0.0
+2013-2014,32,2014-04-13,RKC Waalwijk,Zwolle,1,1,0.5
+2013-2014,32,2014-04-13,AZ Alkmaar,NEC Nijmegen,1,1,0.5
+2013-2014,33,2014-04-27,NAC Breda,RKC Waalwijk,1,1,0.5
+2013-2014,33,2014-04-27,Roda JC,Groningen,1,2,0.0
+2013-2014,33,2014-04-27,Feyenoord,Cambuur,5,1,1.0
+2013-2014,33,2014-04-27,Heracles Almelo,Ajax,1,1,0.5
+2013-2014,33,2014-04-27,Zwolle,PSV Eindhoven,1,2,0.0
+2013-2014,33,2014-04-27,NEC Nijmegen,Twente,2,5,0.0
+2013-2014,33,2014-04-27,ADO Den Haag,AZ Alkmaar,2,1,1.0
+2013-2014,33,2014-04-27,Heerenveen,Utrecht,4,1,1.0
+2013-2014,33,2014-04-27,Vitesse,Go Ahead Eag,2,2,0.5
+2013-2014,34,2014-05-03,AZ Alkmaar,Feyenoord,1,1,0.5
+2013-2014,34,2014-05-03,Groningen,Heracles Almelo,3,1,1.0
+2013-2014,34,2014-05-03,Utrecht,Vitesse,2,1,1.0
+2013-2014,34,2014-05-03,Twente,Zwolle,2,2,0.5
+2013-2014,34,2014-05-03,RKC Waalwijk,Heerenveen,0,3,0.0
+2013-2014,34,2014-05-03,PSV Eindhoven,NAC Breda,2,0,1.0
+2013-2014,34,2014-05-03,Go Ahead Eag,Roda JC,0,1,0.0
+2013-2014,34,2014-05-03,Cambuur,ADO Den Haag,1,2,0.0
+2013-2014,34,2014-05-03,Ajax,NEC Nijmegen,2,2,0.5

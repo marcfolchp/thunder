@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1896-1897,1,1896-09-01,Sunderland,Bury,0,1,0.0
+1896-1897,1,1896-09-01,Blackburn,West Brom,1,2,0.0
+1896-1897,1,1896-09-01,Wolves,Derby County,1,0,1.0
+1896-1897,1,1896-09-01,The Wednesday,Liverpool,1,2,0.0
+1896-1897,1,1896-09-02,Aston Villa,Stoke,2,1,1.0
+1896-1897,1,1896-09-05,Sheffield Utd,Burnley,1,0,1.0
+1896-1897,2,1896-09-05,Blackburn,Liverpool,1,0,1.0
+1896-1897,2,1896-09-05,Derby County,Nott'ham Forest,1,1,0.5
+1896-1897,2,1896-09-05,Stoke,Wolves,2,1,1.0
+1896-1897,2,1896-09-05,Sunderland,Bolton,1,1,0.5
+1896-1897,2,1896-09-05,Bury,Preston,0,0,0.5
+1896-1897,2,1896-09-05,Everton,The Wednesday,2,1,1.0
+1896-1897,2,1896-09-05,West Brom,Aston Villa,3,1,1.0
+1896-1897,3,1896-09-07,Burnley,Sunderland,1,1,0.5
+1896-1897,3,1896-09-07,Liverpool,Bolton,0,2,0.0
+1896-1897,3,1896-09-12,Bolton,Blackburn,0,0,0.5
+1896-1897,3,1896-09-12,Burnley,Bury,1,0,1.0
+1896-1897,3,1896-09-12,Liverpool,Derby County,2,0,1.0
+1896-1897,3,1896-09-12,Wolves,Everton,0,1,0.0
+1896-1897,3,1896-09-12,The Wednesday,West Brom,3,1,1.0
+1896-1897,3,1896-09-12,Nott'ham Forest,Stoke,4,0,1.0
+1896-1897,3,1896-09-12,Aston Villa,Sheffield Utd,2,2,0.5
+1896-1897,4,1896-09-12,Preston,Sunderland,5,3,1.0
+1896-1897,4,1896-09-19,West Brom,Preston,1,1,0.5
+1896-1897,4,1896-09-19,Burnley,Nott'ham Forest,2,2,0.5
+1896-1897,4,1896-09-19,Stoke,Bolton,2,3,0.0
+1896-1897,4,1896-09-19,Derby County,Wolves,4,3,1.0
+1896-1897,4,1896-09-19,Everton,Aston Villa,2,3,0.0
+1896-1897,4,1896-09-19,Bury,Liverpool,1,2,0.0
+1896-1897,4,1896-09-19,Blackburn,The Wednesday,4,0,1.0
+1896-1897,5,1896-09-19,Sheffield Utd,Sunderland,3,0,1.0
+1896-1897,4,1896-09-26,Nott'ham Forest,Sheffield Utd,2,2,0.5
+1896-1897,5,1896-09-26,Preston,Burnley,5,3,1.0
+1896-1897,5,1896-09-26,The Wednesday,Stoke,4,3,1.0
+1896-1897,5,1896-09-26,Liverpool,West Brom,0,0,0.5
+1896-1897,5,1896-09-26,Wolves,Blackburn,1,1,0.5
+1896-1897,5,1896-09-26,Aston Villa,Everton,1,2,0.0
+1896-1897,5,1896-09-26,Derby County,Bury,7,2,1.0
+1896-1897,6,1896-09-26,Bolton,Sunderland,1,0,1.0
+1896-1897,5,1896-10-03,Everton,Liverpool,2,1,1.0
+1896-1897,6,1896-10-03,Bolton,Preston,3,1,1.0
+1896-1897,6,1896-10-03,Blackburn,Burnley,3,2,1.0
+1896-1897,6,1896-10-03,Sheffield Utd,Aston Villa,0,0,0.5
+1896-1897,6,1896-10-03,West Brom,The Wednesday,0,2,0.0
+1896-1897,7,1896-10-03,Sunderland,Wolves,0,3,0.0
+1896-1897,6,1896-10-10,Derby County,Sheffield Utd,1,3,0.0
+1896-1897,6,1896-10-10,Burnley,Everton,2,1,1.0
+1896-1897,6,1896-10-10,Bolton,Bury,2,0,1.0
+1896-1897,7,1896-10-10,Preston,Blackburn,3,1,1.0
+1896-1897,7,1896-10-10,Wolves,Stoke,1,2,0.0
+1896-1897,7,1896-10-10,The Wednesday,Sunderland,0,0,0.5
+1896-1897,7,1896-10-10,Aston Villa,West Brom,2,0,1.0
+1896-1897,8,1896-10-10,Liverpool,Nott'ham Forest,3,0,1.0
+1896-1897,7,1896-10-17,Stoke,Nott'ham Forest,3,0,1.0
+1896-1897,7,1896-10-17,Everton,Sheffield Utd,1,2,0.0
+1896-1897,8,1896-10-17,Derby County,Aston Villa,1,3,0.0
+1896-1897,8,1896-10-17,Bury,The Wednesday,1,1,0.5
+1896-1897,8,1896-10-17,Burnley,Preston,2,2,0.5
+1896-1897,8,1896-10-17,Blackburn,Bolton,1,0,1.0
+1896-1897,8,1896-10-17,West Brom,Wolves,1,0,1.0
+1896-1897,9,1896-10-17,Sunderland,Liverpool,4,3,1.0
+1896-1897,8,1896-10-19,Sheffield Utd,Liverpool,1,1,0.5
+1896-1897,8,1896-10-24,Bolton,Stoke,4,0,1.0
+1896-1897,8,1896-10-24,West Brom,Bury,0,0,0.5
+1896-1897,9,1896-10-24,Aston Villa,Derby County,2,1,1.0
+1896-1897,9,1896-10-24,Preston,Sheffield Utd,1,0,1.0
+1896-1897,9,1896-10-24,Nott'ham Forest,Burnley,4,1,1.0
+1896-1897,9,1896-10-24,Liverpool,Blackburn,4,0,1.0
+1896-1897,9,1896-10-24,The Wednesday,Everton,4,1,1.0
+1896-1897,10,1896-10-24,Wolves,Sunderland,0,1,0.0
+1896-1897,9,1896-10-31,Bury,Bolton,2,2,0.5
+1896-1897,9,1896-10-31,Sheffield Utd,Derby County,2,2,0.5
+1896-1897,10,1896-10-31,West Brom,Liverpool,0,1,0.0
+1896-1897,10,1896-10-31,Stoke,Aston Villa,0,2,0.0
+1896-1897,10,1896-10-31,Everton,Wolves,0,0,0.5
+1896-1897,10,1896-10-31,Nott'ham Forest,The Wednesday,2,2,0.5
+1896-1897,10,1896-10-31,Blackburn,Preston,0,4,0.0
+1896-1897,11,1896-11-02,West Brom,Bolton,1,0,1.0
+1896-1897,9,1896-11-07,Preston,Nott'ham Forest,3,2,1.0
+1896-1897,10,1896-11-07,Derby County,Stoke,5,1,1.0
+1896-1897,11,1896-11-07,Burnley,Blackburn,0,1,0.0
+1896-1897,11,1896-11-07,Aston Villa,Bury,1,1,0.5
+1896-1897,11,1896-11-07,Liverpool,Sunderland,3,0,1.0
+1896-1897,11,1896-11-09,Stoke,Preston,2,1,1.0
+1896-1897,10,1896-11-14,Everton,Bolton,2,3,0.0
+1896-1897,11,1896-11-14,West Brom,Sheffield Utd,0,1,0.0
+1896-1897,11,1896-11-14,Derby County,Burnley,3,2,1.0
+1896-1897,11,1896-11-14,Bury,Stoke,4,2,1.0
+1896-1897,11,1896-11-14,The Wednesday,Aston Villa,1,3,0.0
+1896-1897,12,1896-11-14,Blackburn,Nott'ham Forest,0,0,0.5
+1896-1897,14,1896-11-14,Preston,Liverpool,1,1,0.5
+1896-1897,12,1896-11-18,Nott'ham Forest,Derby County,1,2,0.0
+1896-1897,11,1896-11-21,Wolves,Burnley,2,0,1.0
+1896-1897,11,1896-11-21,Liverpool,Everton,0,0,0.5
+1896-1897,12,1896-11-21,Sheffield Utd,Bury,2,2,0.5
+1896-1897,12,1896-11-21,Aston Villa,The Wednesday,4,0,1.0
+1896-1897,12,1896-11-21,Nott'ham Forest,Sunderland,2,1,1.0
+1896-1897,13,1896-11-21,Preston,Bolton,2,3,0.0
+1896-1897,13,1896-11-21,Derby County,Blackburn,6,0,1.0
+1896-1897,13,1896-11-21,Stoke,West Brom,2,2,0.5
+1896-1897,12,1896-11-28,Bury,Wolves,3,2,1.0
+1896-1897,12,1896-11-28,Everton,Burnley,6,0,1.0
+1896-1897,13,1896-11-28,The Wednesday,Derby County,2,0,1.0
+1896-1897,13,1896-11-28,West Brom,Sunderland,1,0,1.0
+1896-1897,14,1896-11-28,Blackburn,Aston Villa,1,5,0.0
+1896-1897,14,1896-11-28,Preston,Stoke,3,0,1.0
+1896-1897,16,1896-11-28,Nott'ham Forest,Liverpool,2,0,1.0
+1896-1897,13,1896-12-05,Wolves,Nott'ham Forest,4,1,1.0
+1896-1897,13,1896-12-05,Sheffield Utd,West Brom,0,1,0.0
+1896-1897,14,1896-12-05,Sunderland,The Wednesday,0,0,0.5
+1896-1897,15,1896-12-05,Stoke,Derby County,2,2,0.5
+1896-1897,13,1896-12-07,Bolton,Everton,2,0,1.0
+1896-1897,14,1896-12-12,Liverpool,Bury,3,1,1.0
+1896-1897,15,1896-12-12,Sunderland,Everton,1,1,0.5
+1896-1897,15,1896-12-12,Nott'ham Forest,Blackburn,2,1,1.0
+1896-1897,15,1896-12-12,The Wednesday,Wolves,0,0,0.5
+1896-1897,16,1896-12-12,West Brom,Stoke,1,2,0.0
+1896-1897,15,1896-12-19,Aston Villa,Nott'ham Forest,3,2,1.0
+1896-1897,15,1896-12-19,Wolves,Preston,1,1,0.5
+1896-1897,15,1896-12-19,Everton,Stoke,4,2,1.0
+1896-1897,16,1896-12-19,Burnley,The Wednesday,1,1,0.5
+1896-1897,16,1896-12-19,Derby County,Liverpool,3,2,1.0
+1896-1897,16,1896-12-19,Sunderland,Blackburn,0,1,0.0
+1896-1897,17,1896-12-19,Bolton,West Brom,2,2,0.5
+1896-1897,15,1896-12-25,Bury,Nott'ham Forest,2,0,1.0
+1896-1897,16,1896-12-25,Liverpool,Aston Villa,3,3,0.5
+1896-1897,17,1896-12-25,Derby County,West Brom,8,1,1.0
+1896-1897,17,1896-12-25,Blackburn,Sunderland,1,2,0.0
+1896-1897,15,1896-12-26,Burnley,Liverpool,4,1,1.0
+1896-1897,16,1896-12-26,Preston,Bury,2,2,0.5
+1896-1897,16,1896-12-26,Wolves,Aston Villa,1,2,0.0
+1896-1897,17,1896-12-26,Sheffield Utd,The Wednesday,2,0,1.0
+1896-1897,18,1896-12-26,West Brom,Blackburn,1,0,1.0
+1896-1897,18,1896-12-26,Derby County,Bolton,1,0,1.0
+1896-1897,18,1896-12-26,Everton,Sunderland,5,2,1.0
+1896-1897,17,1896-12-28,Nott'ham Forest,Bury,3,0,1.0
+1896-1897,17,1896-12-28,Wolves,West Brom,6,1,1.0
+1896-1897,19,1896-12-28,The Wednesday,Blackburn,6,0,1.0
+1896-1897,15,1896-12-29,Sheffield Utd,Bolton,1,0,1.0
+1896-1897,17,1897-01-01,Sheffield Utd,Everton,1,2,0.0
+1896-1897,18,1897-01-01,Bury,Burnley,1,1,0.5
+1896-1897,19,1897-01-01,Sunderland,Preston,1,1,0.5
+1896-1897,21,1897-01-01,Bolton,Liverpool,1,4,0.0
+1896-1897,17,1897-01-02,Liverpool,Sheffield Utd,0,0,0.5
+1896-1897,18,1897-01-02,Stoke,Everton,2,3,0.0
+1896-1897,18,1897-01-02,Aston Villa,Burnley,0,3,0.0
+1896-1897,19,1897-01-02,The Wednesday,Preston,1,0,1.0
+1896-1897,20,1897-01-02,Sunderland,Derby County,1,2,0.0
+1896-1897,20,1897-01-02,Blackburn,Wolves,2,0,1.0
+1896-1897,21,1897-01-02,Nott'ham Forest,West Brom,0,1,0.0
+1896-1897,19,1897-01-09,Wolves,Liverpool,1,2,0.0
+1896-1897,19,1897-01-09,Everton,Nott'ham Forest,3,1,1.0
+1896-1897,19,1897-01-09,Burnley,Stoke,1,3,0.0
+1896-1897,20,1897-01-09,Derby County,The Wednesday,2,1,1.0
+1896-1897,21,1897-01-09,Sunderland,Aston Villa,4,2,1.0
+1896-1897,21,1897-01-09,Sheffield Utd,Blackburn,7,0,1.0
+1896-1897,19,1897-01-16,Nott'ham Forest,Bolton,2,0,1.0
+1896-1897,19,1897-01-16,Burnley,Sheffield Utd,1,1,0.5
+1896-1897,20,1897-01-16,West Brom,Everton,1,4,0.0
+1896-1897,20,1897-01-16,Liverpool,Stoke,1,0,1.0
+1896-1897,20,1897-01-16,Preston,Wolves,4,0,1.0
+1896-1897,22,1897-01-16,Blackburn,Derby County,5,2,1.0
+1896-1897,22,1897-01-16,Aston Villa,Sunderland,2,1,1.0
+1896-1897,21,1897-01-23,Stoke,The Wednesday,0,0,0.5
+1896-1897,21,1897-01-23,Sheffield Utd,Wolves,1,3,0.0
+1896-1897,23,1897-01-23,Derby County,Sunderland,1,0,1.0
+1896-1897,23,1897-01-23,West Brom,Nott'ham Forest,4,0,1.0
+1896-1897,20,1897-02-06,Burnley,Bolton,0,2,0.0
+1896-1897,21,1897-02-06,Bury,Aston Villa,0,2,0.0
+1896-1897,21,1897-02-06,Everton,Preston,3,4,0.0
+1896-1897,22,1897-02-06,Stoke,Liverpool,6,1,1.0
+1896-1897,23,1897-02-06,West Brom,Derby County,1,4,0.0
+1896-1897,23,1897-02-06,Blackburn,Sheffield Utd,1,3,0.0
+1896-1897,22,1897-02-08,Burnley,Aston Villa,3,4,0.0
+1896-1897,22,1897-02-20,Preston,The Wednesday,2,2,0.5
+1896-1897,22,1897-02-20,Sheffield Utd,Nott'ham Forest,0,3,0.0
+1896-1897,24,1897-02-20,Sunderland,Stoke,4,1,1.0
+1896-1897,24,1897-02-20,Blackburn,Bury,1,2,0.0
+1896-1897,23,1897-02-22,Aston Villa,Preston,3,1,1.0
+1896-1897,22,1897-02-27,Wolves,Bury,1,1,0.5
+1896-1897,23,1897-02-27,The Wednesday,Bolton,0,0,0.5
+1896-1897,24,1897-02-27,Stoke,Burnley,3,2,1.0
+1896-1897,25,1897-02-27,Sunderland,Sheffield Utd,0,1,0.0
+1896-1897,22,1897-03-02,Bury,Everton,3,1,1.0
+1896-1897,24,1897-03-02,The Wednesday,Sheffield Utd,1,1,0.5
+1896-1897,26,1897-03-02,Sunderland,Burnley,1,1,0.5
+1896-1897,23,1897-03-04,Liverpool,Wolves,3,0,1.0
+1896-1897,24,1897-03-06,Nott'ham Forest,Aston Villa,2,4,0.0
+1896-1897,24,1897-03-06,Bolton,Derby County,1,3,0.0
+1896-1897,24,1897-03-06,Wolves,Sheffield Utd,1,1,0.5
+1896-1897,25,1897-03-06,The Wednesday,Burnley,1,0,1.0
+1896-1897,25,1897-03-06,Blackburn,Everton,4,2,1.0
+1896-1897,27,1897-03-06,Sunderland,West Brom,2,1,1.0
+1896-1897,24,1897-03-10,Nott'ham Forest,Everton,3,0,1.0
+1896-1897,23,1897-03-13,Bury,West Brom,3,0,1.0
+1896-1897,25,1897-03-13,Aston Villa,Liverpool,0,0,0.5
+1896-1897,25,1897-03-13,Bolton,Burnley,2,1,1.0
+1896-1897,26,1897-03-13,Everton,Blackburn,0,3,0.0
+1896-1897,26,1897-03-13,Wolves,The Wednesday,2,0,1.0
+1896-1897,26,1897-03-13,Sheffield Utd,Preston,0,2,0.0
+1896-1897,28,1897-03-13,Sunderland,Nott'ham Forest,2,2,0.5
+1896-1897,24,1897-03-20,Bury,Sheffield Utd,0,1,0.0
+1896-1897,24,1897-03-20,Bolton,Nott'ham Forest,0,0,0.5
+1896-1897,26,1897-03-20,Burnley,Wolves,0,3,0.0
+1896-1897,27,1897-03-20,Blackburn,Stoke,2,1,1.0
+1896-1897,26,1897-03-22,Aston Villa,Bolton,6,2,1.0
+1896-1897,25,1897-03-27,Derby County,Preston,2,2,0.5
+1896-1897,27,1897-03-27,Liverpool,Burnley,1,2,0.0
+1896-1897,27,1897-03-27,Bolton,Aston Villa,1,2,0.0
+1896-1897,28,1897-03-27,Bury,Blackburn,3,0,1.0
+1896-1897,28,1897-03-27,Sheffield Utd,Stoke,1,0,1.0
+1896-1897,26,1897-04-03,Preston,Everton,4,1,1.0
+1896-1897,27,1897-04-03,West Brom,Burnley,3,0,1.0
+1896-1897,27,1897-04-03,Liverpool,The Wednesday,2,2,0.5
+1896-1897,29,1897-04-03,Stoke,Sunderland,0,1,0.0
+1896-1897,26,1897-04-05,Burnley,Derby County,2,3,0.0
+1896-1897,27,1897-04-05,Bolton,Wolves,1,2,0.0
+1896-1897,28,1897-04-05,The Wednesday,Nott'ham Forest,3,0,1.0
+1896-1897,29,1897-04-08,Nott'ham Forest,Preston,0,0,0.5
+1896-1897,26,1897-04-10,Bury,Derby County,1,0,1.0
+1896-1897,28,1897-04-10,Nott'ham Forest,Wolves,1,2,0.0
+1896-1897,28,1897-04-10,Burnley,West Brom,5,0,1.0
+1896-1897,29,1897-04-10,Stoke,Blackburn,1,0,1.0
+1896-1897,29,1897-04-10,Bolton,The Wednesday,2,1,1.0
+1896-1897,30,1897-04-10,Liverpool,Preston,0,0,0.5
+1896-1897,27,1897-04-12,Stoke,Bury,3,0,1.0
+1896-1897,29,1897-04-15,Stoke,Sheffield Utd,2,0,1.0
+1896-1897,28,1897-04-16,Everton,Derby County,5,2,1.0
+1896-1897,29,1897-04-16,Preston,West Brom,0,0,0.5
+1896-1897,30,1897-04-16,Bolton,Sheffield Utd,0,2,0.0
+1896-1897,30,1897-04-16,Bury,Sunderland,1,1,0.5
+1896-1897,28,1897-04-17,Everton,West Brom,6,3,1.0
+1896-1897,30,1897-04-17,Aston Villa,Blackburn,3,0,1.0
+1896-1897,30,1897-04-17,The Wednesday,Bury,2,0,1.0
+1896-1897,29,1897-04-19,Aston Villa,Wolves,5,0,1.0
+1896-1897,29,1897-04-19,Preston,Derby County,0,2,0.0
+1896-1897,30,1897-04-20,Derby County,Everton,0,1,0.0
+1896-1897,30,1897-04-20,Wolves,Bolton,4,0,1.0
+1896-1897,30,1897-04-24,Everton,Bury,1,2,0.0
+1896-1897,30,1897-04-26,Preston,Aston Villa,0,1,0.0

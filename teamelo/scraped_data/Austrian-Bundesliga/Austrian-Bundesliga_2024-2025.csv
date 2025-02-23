@@ -1,0 +1,133 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-08-02,Grazer AK,RB Salzburg,2.0,3.0,0.0
+2024-2025,1,2024-08-03,SCR Altach,WSG Tirol,1.0,2.0,0.0
+2024-2025,1,2024-08-03,Hartberg,LASK,1.0,2.0,0.0
+2024-2025,1,2024-08-03,Wolfsberger AC,SK Austria Klagenfurt,4.0,1.0,1.0
+2024-2025,1,2024-08-04,Blau-Weiß Linz,Austria Wien,1.0,0.0,1.0
+2024-2025,1,2024-08-04,Rapid Wien,Sturm Graz,1.0,0.0,1.0
+2024-2025,2,2024-08-10,LASK,SCR Altach,1.0,2.0,0.0
+2024-2025,2,2024-08-10,WSG Tirol,Grazer AK,0.0,0.0,0.5
+2024-2025,2,2024-08-10,RB Salzburg,Blau-Weiß Linz,5.0,1.0,1.0
+2024-2025,2,2024-08-11,SK Austria Klagenfurt,Rapid Wien,1.0,1.0,0.5
+2024-2025,2,2024-08-11,Austria Wien,Wolfsberger AC,3.0,1.0,1.0
+2024-2025,2,2024-08-11,Sturm Graz,Hartberg,2.0,0.0,1.0
+2024-2025,3,2024-08-17,SK Austria Klagenfurt,Sturm Graz,0.0,2.0,0.0
+2024-2025,3,2024-08-17,Grazer AK,Blau-Weiß Linz,2.0,2.0,0.5
+2024-2025,3,2024-08-17,LASK,RB Salzburg,0.0,1.0,0.0
+2024-2025,3,2024-08-18,SCR Altach,Wolfsberger AC,2.0,0.0,1.0
+2024-2025,3,2024-08-18,Hartberg,Austria Wien,1.0,1.0,0.5
+2024-2025,3,2024-08-18,Rapid Wien,WSG Tirol,2.0,0.0,1.0
+2024-2025,4,2024-08-24,WSG Tirol,SK Austria Klagenfurt,0.0,1.0,0.0
+2024-2025,4,2024-08-24,Sturm Graz,SCR Altach,2.0,1.0,1.0
+2024-2025,4,2024-08-25,Austria Wien,LASK,2.0,1.0,1.0
+2024-2025,4,2024-08-25,Wolfsberger AC,Grazer AK,4.0,2.0,1.0
+2024-2025,4,2024-08-25,Blau-Weiß Linz,Rapid Wien,3.0,0.0,1.0
+2024-2025,5,2024-08-31,Hartberg,Grazer AK,1.0,1.0,0.5
+2024-2025,5,2024-08-31,SK Austria Klagenfurt,Blau-Weiß Linz,3.0,1.0,1.0
+2024-2025,5,2024-08-31,Sturm Graz,WSG Tirol,4.0,2.0,1.0
+2024-2025,5,2024-09-01,Rapid Wien,RB Salzburg,3.0,2.0,1.0
+2024-2025,5,2024-09-01,SCR Altach,Austria Wien,1.0,1.0,0.5
+2024-2025,5,2024-09-01,LASK,Wolfsberger AC,1.0,5.0,0.0
+2024-2025,6,2024-09-14,Wolfsberger AC,Rapid Wien,1.0,1.0,0.5
+2024-2025,6,2024-09-14,Blau-Weiß Linz,LASK,1.0,0.0,1.0
+2024-2025,6,2024-09-15,Grazer AK,SCR Altach,1.0,1.0,0.5
+2024-2025,7,2024-09-21,SCR Altach,Blau-Weiß Linz,0.0,1.0,0.0
+2024-2025,7,2024-09-21,LASK,Grazer AK,4.0,2.0,1.0
+2024-2025,7,2024-09-21,SK Austria Klagenfurt,Hartberg,2.0,2.0,0.5
+2024-2025,7,2024-09-22,WSG Tirol,RB Salzburg,0.0,0.0,0.5
+2024-2025,7,2024-09-22,Sturm Graz,Wolfsberger AC,0.0,3.0,0.0
+2024-2025,7,2024-09-22,Rapid Wien,Austria Wien,2.0,1.0,1.0
+2024-2025,6,2024-09-25,Austria Wien,Sturm Graz,2.0,2.0,0.5
+2024-2025,6,2024-09-26,Hartberg,WSG Tirol,1.0,0.0,1.0
+2024-2025,8,2024-09-28,Rapid Wien,LASK,1.0,1.0,0.5
+2024-2025,8,2024-09-28,Blau-Weiß Linz,Sturm Graz,1.0,2.0,0.0
+2024-2025,8,2024-09-28,RB Salzburg,Austria Wien,2.0,0.0,1.0
+2024-2025,8,2024-09-29,Wolfsberger AC,WSG Tirol,1.0,3.0,0.0
+2024-2025,8,2024-09-29,Hartberg,SCR Altach,2.0,0.0,1.0
+2024-2025,8,2024-09-29,Grazer AK,SK Austria Klagenfurt,0.0,1.0,0.0
+2024-2025,9,2024-10-05,Austria Wien,Grazer AK,2.0,1.0,1.0
+2024-2025,9,2024-10-05,WSG Tirol,Blau-Weiß Linz,1.0,1.0,0.5
+2024-2025,9,2024-10-05,Wolfsberger AC,Hartberg,2.0,3.0,0.0
+2024-2025,9,2024-10-06,SCR Altach,Rapid Wien,0.0,1.0,0.0
+2024-2025,9,2024-10-06,LASK,SK Austria Klagenfurt,4.0,0.0,1.0
+2024-2025,9,2024-10-06,Sturm Graz,RB Salzburg,5.0,0.0,1.0
+2024-2025,10,2024-10-19,RB Salzburg,SCR Altach,2.0,1.0,1.0
+2024-2025,10,2024-10-19,Sturm Graz,Grazer AK,5.0,2.0,1.0
+2024-2025,10,2024-10-19,Blau-Weiß Linz,Wolfsberger AC,0.0,1.0,0.0
+2024-2025,10,2024-10-20,WSG Tirol,LASK,1.0,2.0,0.0
+2024-2025,10,2024-10-20,SK Austria Klagenfurt,Austria Wien,0.0,1.0,0.0
+2024-2025,10,2024-10-20,Rapid Wien,Hartberg,2.0,1.0,1.0
+2024-2025,11,2024-10-26,SCR Altach,SK Austria Klagenfurt,2.0,2.0,0.5
+2024-2025,11,2024-10-26,Austria Wien,WSG Tirol,3.0,0.0,1.0
+2024-2025,11,2024-10-26,Hartberg,Blau-Weiß Linz,2.0,1.0,1.0
+2024-2025,11,2024-10-27,Grazer AK,Rapid Wien,1.0,1.0,0.5
+2024-2025,11,2024-10-27,Wolfsberger AC,RB Salzburg,0.0,0.0,0.5
+2024-2025,11,2024-10-27,LASK,Sturm Graz,1.0,2.0,0.0
+2024-2025,12,2024-11-02,RB Salzburg,Grazer AK,0.0,0.0,0.5
+2024-2025,12,2024-11-02,LASK,Hartberg,1.0,1.0,0.5
+2024-2025,12,2024-11-02,Sturm Graz,Rapid Wien,1.0,1.0,0.5
+2024-2025,12,2024-11-03,WSG Tirol,SCR Altach,1.0,0.0,1.0
+2024-2025,12,2024-11-03,SK Austria Klagenfurt,Wolfsberger AC,2.0,1.0,1.0
+2024-2025,12,2024-11-03,Austria Wien,Blau-Weiß Linz,2.0,1.0,1.0
+2024-2025,13,2024-11-09,Grazer AK,WSG Tirol,2.0,1.0,1.0
+2024-2025,13,2024-11-09,Wolfsberger AC,Austria Wien,0.0,1.0,0.0
+2024-2025,13,2024-11-09,Hartberg,Sturm Graz,1.0,2.0,0.0
+2024-2025,13,2024-11-10,Blau-Weiß Linz,RB Salzburg,2.0,0.0,1.0
+2024-2025,13,2024-11-10,SCR Altach,LASK,1.0,2.0,0.0
+2024-2025,13,2024-11-10,Rapid Wien,SK Austria Klagenfurt,2.0,0.0,1.0
+2024-2025,14,2024-11-23,RB Salzburg,LASK,1.0,2.0,0.0
+2024-2025,14,2024-11-23,Sturm Graz,SK Austria Klagenfurt,7.0,0.0,1.0
+2024-2025,14,2024-11-23,WSG Tirol,Rapid Wien,0.0,0.0,0.5
+2024-2025,14,2024-11-24,Blau-Weiß Linz,Grazer AK,1.0,2.0,0.0
+2024-2025,14,2024-11-24,Wolfsberger AC,SCR Altach,2.0,0.0,1.0
+2024-2025,14,2024-11-24,Austria Wien,Hartberg,1.0,0.0,1.0
+2024-2025,15,2024-11-30,SCR Altach,Sturm Graz,1.0,1.0,0.5
+2024-2025,15,2024-11-30,Grazer AK,Wolfsberger AC,3.0,4.0,0.0
+2024-2025,15,2024-11-30,Hartberg,RB Salzburg,1.0,1.0,0.5
+2024-2025,15,2024-12-01,SK Austria Klagenfurt,WSG Tirol,0.0,3.0,0.0
+2024-2025,15,2024-12-01,Rapid Wien,Blau-Weiß Linz,0.0,1.0,0.0
+2024-2025,15,2024-12-01,LASK,Austria Wien,1.0,3.0,0.0
+2024-2025,4,2024-12-04,RB Salzburg,Hartberg,4.0,0.0,1.0
+2024-2025,16,2024-12-07,WSG Tirol,Sturm Graz,0.0,3.0,0.0
+2024-2025,16,2024-12-07,RB Salzburg,Rapid Wien,2.0,2.0,0.5
+2024-2025,16,2024-12-07,Wolfsberger AC,LASK,2.0,1.0,1.0
+2024-2025,16,2024-12-08,Grazer AK,Hartberg,0.0,3.0,0.0
+2024-2025,16,2024-12-08,Blau-Weiß Linz,SK Austria Klagenfurt,2.0,1.0,1.0
+2024-2025,16,2024-12-08,Austria Wien,SCR Altach,3.0,0.0,1.0
+2024-2025,6,2024-12-14,RB Salzburg,SK Austria Klagenfurt,3.0,0.0,1.0
+2024-2025,17,2025-02-07,Sturm Graz,Austria Wien,2.0,2.0,0.5
+2024-2025,17,2025-02-08,Rapid Wien,Wolfsberger AC,1.0,3.0,0.0
+2024-2025,17,2025-02-08,SCR Altach,Grazer AK,1.0,2.0,0.0
+2024-2025,17,2025-02-09,WSG Tirol,Hartberg,0.0,0.0,0.5
+2024-2025,17,2025-02-09,SK Austria Klagenfurt,RB Salzburg,0.0,0.0,0.5
+2024-2025,17,2025-02-09,LASK,Blau-Weiß Linz,0.0,0.0,0.5
+2024-2025,18,2025-02-15,Blau-Weiß Linz,SCR Altach,1.0,3.0,0.0
+2024-2025,18,2025-02-15,RB Salzburg,WSG Tirol,1.0,1.0,0.5
+2024-2025,18,2025-02-15,Wolfsberger AC,Sturm Graz,3.0,0.0,1.0
+2024-2025,18,2025-02-16,Hartberg,SK Austria Klagenfurt,1.0,1.0,0.5
+2024-2025,18,2025-02-16,Grazer AK,LASK,0.0,0.0,0.5
+2024-2025,18,2025-02-16,Austria Wien,Rapid Wien,2.0,1.0,1.0
+2024-2025,19,2025-02-22,WSG Tirol,Wolfsberger AC,,,0.5
+2024-2025,19,2025-02-22,Austria Wien,RB Salzburg,,,0.5
+2024-2025,19,2025-02-22,SK Austria Klagenfurt,Grazer AK,,,0.5
+2024-2025,19,2025-02-23,SCR Altach,Hartberg,,,0.5
+2024-2025,19,2025-02-23,Sturm Graz,Blau-Weiß Linz,,,0.5
+2024-2025,19,2025-02-23,LASK,Rapid Wien,,,0.5
+2024-2025,20,2025-03-01,Grazer AK,Austria Wien,,,0.5
+2024-2025,20,2025-03-01,Rapid Wien,SCR Altach,,,0.5
+2024-2025,20,2025-03-01,Hartberg,Wolfsberger AC,,,0.5
+2024-2025,20,2025-03-02,SK Austria Klagenfurt,LASK,,,0.5
+2024-2025,20,2025-03-02,Blau-Weiß Linz,WSG Tirol,,,0.5
+2024-2025,20,2025-03-02,RB Salzburg,Sturm Graz,,,0.5
+2024-2025,21,2025-03-09,LASK,WSG Tirol,,,0.5
+2024-2025,21,2025-03-09,Austria Wien,SK Austria Klagenfurt,,,0.5
+2024-2025,21,2025-03-09,Hartberg,Rapid Wien,,,0.5
+2024-2025,21,2025-03-09,SCR Altach,RB Salzburg,,,0.5
+2024-2025,21,2025-03-09,Wolfsberger AC,Blau-Weiß Linz,,,0.5
+2024-2025,21,2025-03-09,Grazer AK,Sturm Graz,,,0.5
+2024-2025,22,2025-03-16,WSG Tirol,Austria Wien,,,0.5
+2024-2025,22,2025-03-16,Rapid Wien,Grazer AK,,,0.5
+2024-2025,22,2025-03-16,Blau-Weiß Linz,Hartberg,,,0.5
+2024-2025,22,2025-03-16,RB Salzburg,Wolfsberger AC,,,0.5
+2024-2025,22,2025-03-16,SK Austria Klagenfurt,SCR Altach,,,0.5
+2024-2025,22,2025-03-16,Sturm Graz,LASK,,,0.5

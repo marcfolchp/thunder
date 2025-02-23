@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023-2024,1,2023-08-11,Braga,Famalicão,1,2,0.0
+2023-2024,1,2023-08-12,Gil Vicente FC,Portimonense,5,0,1.0
+2023-2024,1,2023-08-12,Farense,Casa Pia,0,3,0.0
+2023-2024,1,2023-08-12,Sporting CP,Vizela,3,2,1.0
+2023-2024,1,2023-08-13,Rio Ave,Chaves,2,0,1.0
+2023-2024,1,2023-08-13,Estrela,Vitória,0,1,0.0
+2023-2024,1,2023-08-13,Arouca,Estoril,4,3,1.0
+2023-2024,1,2023-08-14,Moreirense,Porto,1,2,0.0
+2023-2024,1,2023-08-14,Boavista,Benfica,3,2,1.0
+2023-2024,2,2023-08-18,Casa Pia,Sporting CP,1,2,0.0
+2023-2024,2,2023-08-19,Vitória,Gil Vicente FC,2,1,1.0
+2023-2024,2,2023-08-19,Chaves,Braga,2,4,0.0
+2023-2024,2,2023-08-19,Benfica,Estrela,2,0,1.0
+2023-2024,2,2023-08-19,Portimonense,Boavista,1,4,0.0
+2023-2024,2,2023-08-20,Estoril,Rio Ave,2,0,1.0
+2023-2024,2,2023-08-20,Porto,Farense,2,1,1.0
+2023-2024,2,2023-08-20,Vizela,Arouca,2,2,0.5
+2023-2024,2,2023-08-21,Famalicão,Moreirense,0,0,0.5
+2023-2024,3,2023-08-25,Estrela,Estoril,2,1,1.0
+2023-2024,3,2023-08-26,Arouca,Portimonense,1,1,0.5
+2023-2024,3,2023-08-26,Farense,Chaves,5,0,1.0
+2023-2024,3,2023-08-26,Gil Vicente FC,Benfica,2,3,0.0
+2023-2024,3,2023-08-27,Boavista,Casa Pia,1,1,0.5
+2023-2024,3,2023-08-27,Vitória,Vizela,2,0,1.0
+2023-2024,3,2023-08-27,Sporting CP,Famalicão,1,0,1.0
+2023-2024,3,2023-08-28,Rio Ave,Porto,1,2,0.0
+2023-2024,4,2023-09-01,Vizela,Gil Vicente FC,1,0,1.0
+2023-2024,4,2023-09-02,Casa Pia,Rio Ave,1,1,0.5
+2023-2024,4,2023-09-02,Famalicão,Farense,1,0,1.0
+2023-2024,4,2023-09-02,Portimonense,Estrela,1,1,0.5
+2023-2024,4,2023-09-02,Benfica,Vitória,4,0,1.0
+2023-2024,4,2023-09-03,Estoril,Boavista,1,2,0.0
+2023-2024,4,2023-09-03,Chaves,Moreirense,1,2,0.0
+2023-2024,4,2023-09-03,Porto,Arouca,1,1,0.5
+2023-2024,4,2023-09-03,Braga,Sporting CP,1,1,0.5
+2023-2024,3,2023-09-09,Moreirense,Braga,2,3,0.0
+2023-2024,5,2023-09-15,Estrela,Porto,0,1,0.0
+2023-2024,5,2023-09-16,Rio Ave,Famalicão,1,1,0.5
+2023-2024,5,2023-09-16,Farense,Braga,3,1,1.0
+2023-2024,5,2023-09-16,Vizela,Benfica,1,2,0.0
+2023-2024,5,2023-09-17,Gil Vicente FC,Estoril,5,3,1.0
+2023-2024,5,2023-09-17,Arouca,Casa Pia,0,1,0.0
+2023-2024,5,2023-09-17,Vitória,Portimonense,1,2,0.0
+2023-2024,5,2023-09-17,Sporting CP,Moreirense,3,0,1.0
+2023-2024,5,2023-09-18,Boavista,Chaves,4,1,1.0
+2023-2024,6,2023-09-22,Famalicão,Arouca,1,0,1.0
+2023-2024,6,2023-09-23,Estoril,Vizela,2,2,0.5
+2023-2024,6,2023-09-23,Moreirense,Farense,1,0,1.0
+2023-2024,6,2023-09-23,Casa Pia,Vitória,0,0,0.5
+2023-2024,6,2023-09-23,Porto,Gil Vicente FC,2,1,1.0
+2023-2024,6,2023-09-24,Chaves,Estrela,2,2,0.5
+2023-2024,6,2023-09-24,Portimonense,Benfica,1,3,0.0
+2023-2024,6,2023-09-24,Braga,Boavista,4,1,1.0
+2023-2024,6,2023-09-25,Sporting CP,Rio Ave,2,0,1.0
+2023-2024,7,2023-09-28,Estrela,Braga,2,4,0.0
+2023-2024,7,2023-09-29,Benfica,Porto,1,0,1.0
+2023-2024,7,2023-09-30,Vizela,Portimonense,2,3,0.0
+2023-2024,7,2023-09-30,Boavista,Famalicão,2,2,0.5
+2023-2024,7,2023-09-30,Farense,Sporting CP,2,3,0.0
+2023-2024,7,2023-10-01,Arouca,Chaves,0,2,0.0
+2023-2024,7,2023-10-01,Vitória,Estoril,3,2,1.0
+2023-2024,7,2023-10-01,Rio Ave,Moreirense,0,4,0.0
+2023-2024,7,2023-10-02,Gil Vicente FC,Casa Pia,2,0,1.0
+2023-2024,8,2023-10-06,Moreirense,Boavista,1,1,0.5
+2023-2024,8,2023-10-07,Farense,Vizela,0,0,0.5
+2023-2024,8,2023-10-07,Chaves,Gil Vicente FC,4,2,1.0
+2023-2024,8,2023-10-07,Braga,Rio Ave,2,1,1.0
+2023-2024,8,2023-10-07,Estoril,Benfica,0,1,0.0
+2023-2024,8,2023-10-08,Famalicão,Vitória,1,3,0.0
+2023-2024,8,2023-10-08,Casa Pia,Estrela,0,1,0.0
+2023-2024,8,2023-10-08,Porto,Portimonense,1,0,1.0
+2023-2024,8,2023-10-08,Sporting CP,Arouca,2,1,1.0
+2023-2024,9,2023-10-27,Arouca,Moreirense,0,1,0.0
+2023-2024,9,2023-10-28,Portimonense,Estoril,1,0,1.0
+2023-2024,9,2023-10-28,Vitória,Chaves,5,0,1.0
+2023-2024,9,2023-10-28,Benfica,Casa Pia,1,1,0.5
+2023-2024,9,2023-10-28,Gil Vicente FC,Braga,3,3,0.5
+2023-2024,9,2023-10-29,Rio Ave,Farense,3,4,0.0
+2023-2024,9,2023-10-29,Estrela,Famalicão,1,0,1.0
+2023-2024,9,2023-10-29,Vizela,Porto,0,2,0.0
+2023-2024,9,2023-10-30,Boavista,Sporting CP,0,2,0.0
+2023-2024,10,2023-11-03,Porto,Estoril,0,1,0.0
+2023-2024,10,2023-11-04,Chaves,Benfica,0,2,0.0
+2023-2024,10,2023-11-04,Famalicão,Gil Vicente FC,3,1,1.0
+2023-2024,10,2023-11-04,Braga,Portimonense,6,1,1.0
+2023-2024,10,2023-11-05,Casa Pia,Vizela,0,1,0.0
+2023-2024,10,2023-11-05,Moreirense,Vitória,1,0,1.0
+2023-2024,10,2023-11-05,Rio Ave,Boavista,2,0,1.0
+2023-2024,10,2023-11-05,Sporting CP,Estrela,3,2,1.0
+2023-2024,10,2023-11-06,Farense,Arouca,2,0,1.0
+2023-2024,11,2023-11-10,Estoril,Casa Pia,4,0,1.0
+2023-2024,11,2023-11-11,Portimonense,Chaves,2,1,1.0
+2023-2024,11,2023-11-11,Vizela,Famalicão,0,0,0.5
+2023-2024,11,2023-11-11,Estrela,Moreirense,0,1,0.0
+2023-2024,11,2023-11-11,Vitória,Porto,1,2,0.0
+2023-2024,11,2023-11-12,Boavista,Farense,1,3,0.0
+2023-2024,11,2023-11-12,Gil Vicente FC,Rio Ave,1,1,0.5
+2023-2024,11,2023-11-12,Arouca,Braga,0,1,0.0
+2023-2024,11,2023-11-12,Benfica,Sporting CP,2,1,1.0
+2023-2024,12,2023-12-01,Chaves,Vizela,2,1,1.0
+2023-2024,12,2023-12-02,Farense,Vitória,1,2,0.0
+2023-2024,12,2023-12-02,Rio Ave,Estrela,1,1,0.5
+2023-2024,12,2023-12-02,Famalicão,Porto,0,3,0.0
+2023-2024,12,2023-12-02,Casa Pia,Portimonense,1,0,1.0
+2023-2024,12,2023-12-03,Braga,Estoril,3,1,1.0
+2023-2024,12,2023-12-03,Moreirense,Benfica,0,0,0.5
+2023-2024,12,2023-12-03,Boavista,Arouca,0,4,0.0
+2023-2024,12,2023-12-04,Sporting CP,Gil Vicente FC,3,1,1.0
+2023-2024,13,2023-12-08,Vizela,Braga,1,3,0.0
+2023-2024,13,2023-12-08,Benfica,Farense,1,1,0.5
+2023-2024,13,2023-12-09,Portimonense,Famalicão,1,1,0.5
+2023-2024,13,2023-12-09,Vitória,Sporting CP,3,2,1.0
+2023-2024,13,2023-12-09,Porto,Casa Pia,3,1,1.0
+2023-2024,13,2023-12-10,Estrela,Boavista,3,1,1.0
+2023-2024,13,2023-12-10,Arouca,Rio Ave,2,2,0.5
+2023-2024,13,2023-12-10,Estoril,Chaves,4,0,1.0
+2023-2024,13,2023-12-11,Gil Vicente FC,Moreirense,1,1,0.5
+2023-2024,14,2023-12-15,Farense,Estrela,0,0,0.5
+2023-2024,14,2023-12-16,Rio Ave,Vizela,1,1,0.5
+2023-2024,14,2023-12-16,Arouca,Gil Vicente FC,3,0,1.0
+2023-2024,14,2023-12-16,Boavista,Vitória,1,1,0.5
+2023-2024,14,2023-12-17,Chaves,Casa Pia,1,3,0.0
+2023-2024,14,2023-12-17,Moreirense,Portimonense,5,2,1.0
+2023-2024,14,2023-12-17,Famalicão,Estoril,1,1,0.5
+2023-2024,14,2023-12-17,Braga,Benfica,0,1,0.0
+2023-2024,14,2023-12-18,Sporting CP,Porto,2,0,1.0
+2023-2024,15,2023-12-23,Vitória,Rio Ave,1,0,1.0
+2023-2024,15,2023-12-23,Vizela,Moreirense,0,0,0.5
+2023-2024,15,2023-12-28,Estrela,Arouca,1,4,0.0
+2023-2024,15,2023-12-29,Benfica,Famalicão,3,0,1.0
+2023-2024,15,2023-12-29,Porto,Chaves,1,0,1.0
+2023-2024,15,2023-12-30,Estoril,Farense,4,0,1.0
+2023-2024,15,2023-12-30,Gil Vicente FC,Boavista,1,0,1.0
+2023-2024,15,2023-12-30,Casa Pia,Braga,1,3,0.0
+2023-2024,15,2023-12-30,Portimonense,Sporting CP,1,2,0.0
+2023-2024,16,2024-01-05,Sporting CP,Estoril,5,1,1.0
+2023-2024,16,2024-01-05,Boavista,Porto,1,1,0.5
+2023-2024,16,2024-01-06,Estrela,Vizela,1,1,0.5
+2023-2024,16,2024-01-06,Farense,Gil Vicente FC,1,0,1.0
+2023-2024,16,2024-01-06,Arouca,Benfica,0,3,0.0
+2023-2024,16,2024-01-06,Braga,Vitória,1,1,0.5
+2023-2024,16,2024-01-07,Rio Ave,Portimonense,2,0,1.0
+2023-2024,16,2024-01-07,Famalicão,Chaves,2,2,0.5
+2023-2024,16,2024-01-08,Moreirense,Casa Pia,1,4,0.0
+2023-2024,17,2024-01-12,Portimonense,Farense,1,0,1.0
+2023-2024,17,2024-01-13,Casa Pia,Famalicão,0,2,0.0
+2023-2024,17,2024-01-13,Chaves,Sporting CP,0,3,0.0
+2023-2024,17,2024-01-13,Estoril,Moreirense,1,3,0.0
+2023-2024,17,2024-01-14,Gil Vicente FC,Estrela,1,1,0.5
+2023-2024,17,2024-01-14,Benfica,Rio Ave,4,1,1.0
+2023-2024,17,2024-01-14,Vizela,Boavista,1,4,0.0
+2023-2024,17,2024-01-14,Porto,Braga,2,0,1.0
+2023-2024,17,2024-01-15,Vitória,Arouca,2,1,1.0
+2023-2024,18,2024-01-18,Famalicão,Braga,1,2,0.0
+2023-2024,18,2024-01-18,Vizela,Sporting CP,2,5,0.0
+2023-2024,18,2024-01-19,Benfica,Boavista,2,0,1.0
+2023-2024,18,2024-01-20,Estoril,Arouca,1,2,0.0
+2023-2024,18,2024-01-20,Casa Pia,Farense,1,3,0.0
+2023-2024,18,2024-01-20,Porto,Moreirense,5,0,1.0
+2023-2024,18,2024-01-21,Portimonense,Gil Vicente FC,0,2,0.0
+2023-2024,18,2024-01-21,Chaves,Rio Ave,0,0,0.5
+2023-2024,18,2024-01-21,Vitória,Estrela,3,0,1.0
+2023-2024,19,2024-01-28,Boavista,Portimonense,1,4,0.0
+2023-2024,19,2024-01-28,Moreirense,Famalicão,1,0,1.0
+2023-2024,19,2024-01-28,Farense,Porto,1,3,0.0
+2023-2024,19,2024-01-28,Arouca,Vizela,5,0,1.0
+2023-2024,19,2024-01-28,Gil Vicente FC,Vitória,1,0,1.0
+2023-2024,19,2024-01-29,Estrela,Benfica,1,4,0.0
+2023-2024,19,2024-01-29,Sporting CP,Casa Pia,8,0,1.0
+2023-2024,19,2024-01-31,Rio Ave,Estoril,1,1,0.5
+2023-2024,19,2024-01-31,Braga,Chaves,1,1,0.5
+2023-2024,20,2024-02-03,Portimonense,Arouca,1,2,0.0
+2023-2024,20,2024-02-03,Porto,Rio Ave,0,0,0.5
+2023-2024,20,2024-02-04,Chaves,Farense,1,1,0.5
+2023-2024,20,2024-02-04,Vizela,Vitória,0,1,0.0
+2023-2024,20,2024-02-04,Estoril,Estrela,1,0,1.0
+2023-2024,20,2024-02-04,Benfica,Gil Vicente FC,3,0,1.0
+2023-2024,20,2024-02-04,Braga,Moreirense,1,0,1.0
+2023-2024,20,2024-02-05,Casa Pia,Boavista,0,0,0.5
+2023-2024,21,2024-02-09,Estrela,Portimonense,3,0,1.0
+2023-2024,21,2024-02-10,Farense,Famalicão,1,1,0.5
+2023-2024,21,2024-02-10,Moreirense,Chaves,1,0,1.0
+2023-2024,21,2024-02-10,Boavista,Estoril,2,1,1.0
+2023-2024,21,2024-02-11,Rio Ave,Casa Pia,1,0,1.0
+2023-2024,21,2024-02-11,Sporting CP,Braga,5,0,1.0
+2023-2024,21,2024-02-11,Vitória,Benfica,2,2,0.5
+2023-2024,21,2024-02-12,Arouca,Porto,3,2,1.0
+2023-2024,21,2024-02-13,Gil Vicente FC,Vizela,0,1,0.0
+2023-2024,22,2024-02-16,Famalicão,Rio Ave,2,1,1.0
+2023-2024,22,2024-02-17,Chaves,Boavista,2,1,1.0
+2023-2024,22,2024-02-17,Portimonense,Vitória,1,1,0.5
+2023-2024,22,2024-02-17,Porto,Estrela,2,0,1.0
+2023-2024,22,2024-02-18,Casa Pia,Arouca,1,0,1.0
+2023-2024,22,2024-02-18,Estoril,Gil Vicente FC,1,3,0.0
+2023-2024,22,2024-02-18,Benfica,Vizela,6,1,1.0
+2023-2024,22,2024-02-18,Braga,Farense,2,1,1.0
+2023-2024,22,2024-02-19,Moreirense,Sporting CP,0,2,0.0
+2023-2024,23,2024-02-23,Arouca,Famalicão,3,2,1.0
+2023-2024,23,2024-02-24,Farense,Moreirense,0,1,0.0
+2023-2024,23,2024-02-24,Estrela,Chaves,1,1,0.5
+2023-2024,23,2024-02-24,Vitória,Casa Pia,0,2,0.0
+2023-2024,23,2024-02-25,Vizela,Estoril,3,3,0.5
+2023-2024,23,2024-02-25,Benfica,Portimonense,4,0,1.0
+2023-2024,23,2024-02-25,Gil Vicente FC,Porto,1,1,0.5
+2023-2024,23,2024-02-25,Rio Ave,Sporting CP,3,3,0.5
+2023-2024,23,2024-02-26,Boavista,Braga,0,4,0.0
+2023-2024,24,2024-03-01,Chaves,Arouca,1,5,0.0
+2023-2024,24,2024-03-02,Moreirense,Rio Ave,0,0,0.5
+2023-2024,24,2024-03-02,Estoril,Vitória,1,3,0.0
+2023-2024,24,2024-03-02,Braga,Estrela,3,0,1.0
+2023-2024,24,2024-03-03,Casa Pia,Gil Vicente FC,0,0,0.5
+2023-2024,24,2024-03-03,Portimonense,Vizela,0,0,0.5
+2023-2024,24,2024-03-03,Sporting CP,Farense,3,2,1.0
+2023-2024,24,2024-03-03,Porto,Benfica,5,0,1.0
+2023-2024,24,2024-03-04,Famalicão,Boavista,1,1,0.5
+2023-2024,25,2024-03-08,Portimonense,Porto,0,3,0.0
+2023-2024,25,2024-03-08,Estrela,Casa Pia,3,1,1.0
+2023-2024,25,2024-03-09,Vizela,Farense,2,1,1.0
+2023-2024,25,2024-03-09,Rio Ave,Braga,0,0,0.5
+2023-2024,25,2024-03-09,Boavista,Moreirense,1,0,1.0
+2023-2024,25,2024-03-09,Vitória,Famalicão,1,0,1.0
+2023-2024,25,2024-03-10,Arouca,Sporting CP,0,3,0.0
+2023-2024,25,2024-03-10,Benfica,Estoril,3,1,1.0
+2023-2024,25,2024-03-11,Gil Vicente FC,Chaves,0,0,0.5
+2023-2024,26,2024-03-15,Estoril,Portimonense,1,0,1.0
+2023-2024,26,2024-03-16,Famalicão,Estrela,0,0,0.5
+2023-2024,26,2024-03-16,Farense,Rio Ave,1,1,0.5
+2023-2024,26,2024-03-16,Braga,Gil Vicente FC,2,1,1.0
+2023-2024,26,2024-03-16,Porto,Vizela,4,1,1.0
+2023-2024,26,2024-03-17,Moreirense,Arouca,1,0,1.0
+2023-2024,26,2024-03-17,Chaves,Vitória,1,2,0.0
+2023-2024,26,2024-03-17,Casa Pia,Benfica,0,1,0.0
+2023-2024,26,2024-03-17,Sporting CP,Boavista,6,1,1.0
+2023-2024,27,2024-03-29,Gil Vicente FC,Famalicão,1,2,0.0
+2023-2024,27,2024-03-29,Benfica,Chaves,1,0,1.0
+2023-2024,27,2024-03-29,Estrela,Sporting CP,1,2,0.0
+2023-2024,27,2024-03-30,Vitória,Moreirense,1,0,1.0
+2023-2024,27,2024-03-30,Arouca,Farense,2,1,1.0
+2023-2024,27,2024-03-30,Boavista,Rio Ave,0,0,0.5
+2023-2024,27,2024-03-30,Estoril,Porto,1,0,1.0
+2023-2024,27,2024-03-31,Vizela,Casa Pia,0,4,0.0
+2023-2024,27,2024-04-01,Portimonense,Braga,3,5,0.0
+2023-2024,28,2024-04-05,Farense,Boavista,2,0,1.0
+2023-2024,28,2024-04-06,Rio Ave,Gil Vicente FC,3,0,1.0
+2023-2024,28,2024-04-06,Famalicão,Vizela,3,2,1.0
+2023-2024,28,2024-04-06,Braga,Arouca,0,3,0.0
+2023-2024,28,2024-04-06,Sporting CP,Benfica,2,1,1.0
+2023-2024,28,2024-04-07,Chaves,Portimonense,2,3,0.0
+2023-2024,28,2024-04-07,Moreirense,Estrela,2,2,0.5
+2023-2024,28,2024-04-07,Porto,Vitória,1,2,0.0
+2023-2024,28,2024-04-08,Casa Pia,Estoril,0,0,0.5
+2023-2024,29,2024-04-12,Gil Vicente FC,Sporting CP,0,4,0.0
+2023-2024,29,2024-04-13,Vitória,Farense,1,1,0.5
+2023-2024,29,2024-04-13,Porto,Famalicão,2,2,0.5
+2023-2024,29,2024-04-13,Estoril,Braga,0,1,0.0
+2023-2024,29,2024-04-14,Estrela,Rio Ave,2,2,0.5
+2023-2024,29,2024-04-14,Arouca,Boavista,2,1,1.0
+2023-2024,29,2024-04-14,Portimonense,Casa Pia,2,2,0.5
+2023-2024,29,2024-04-14,Benfica,Moreirense,3,0,1.0
+2023-2024,29,2024-04-15,Vizela,Chaves,0,1,0.0
+2023-2024,20,2024-04-16,Famalicão,Sporting CP,0,1,0.0
+2023-2024,30,2024-04-19,Rio Ave,Arouca,1,1,0.5
+2023-2024,30,2024-04-20,Moreirense,Gil Vicente FC,0,1,0.0
+2023-2024,30,2024-04-20,Boavista,Estrela,1,1,0.5
+2023-2024,30,2024-04-20,Braga,Vizela,2,1,1.0
+2023-2024,30,2024-04-21,Chaves,Estoril,2,2,0.5
+2023-2024,30,2024-04-21,Famalicão,Portimonense,2,2,0.5
+2023-2024,30,2024-04-21,Casa Pia,Porto,1,2,0.0
+2023-2024,30,2024-04-21,Sporting CP,Vitória,3,0,1.0
+2023-2024,30,2024-04-22,Farense,Benfica,1,3,0.0
+2023-2024,31,2024-04-26,Gil Vicente FC,Arouca,2,2,0.5
+2023-2024,31,2024-04-27,Vizela,Rio Ave,1,1,0.5
+2023-2024,31,2024-04-27,Casa Pia,Chaves,3,1,1.0
+2023-2024,31,2024-04-27,Benfica,Braga,3,1,1.0
+2023-2024,31,2024-04-27,Vitória,Boavista,1,0,1.0
+2023-2024,31,2024-04-28,Portimonense,Moreirense,0,2,0.0
+2023-2024,31,2024-04-28,Estoril,Famalicão,1,0,1.0
+2023-2024,31,2024-04-28,Porto,Sporting CP,2,2,0.5
+2023-2024,31,2024-04-29,Estrela,Farense,0,3,0.0
+2023-2024,32,2024-05-03,Moreirense,Vizela,1,0,1.0
+2023-2024,32,2024-05-04,Rio Ave,Vitória,2,1,1.0
+2023-2024,32,2024-05-04,Boavista,Gil Vicente FC,1,1,0.5
+2023-2024,32,2024-05-04,Sporting CP,Portimonense,3,0,1.0
+2023-2024,32,2024-05-04,Chaves,Porto,0,3,0.0
+2023-2024,32,2024-05-05,Farense,Estoril,3,2,1.0
+2023-2024,32,2024-05-05,Arouca,Estrela,0,0,0.5
+2023-2024,32,2024-05-05,Braga,Casa Pia,4,3,1.0
+2023-2024,32,2024-05-05,Famalicão,Benfica,2,0,1.0
+2023-2024,33,2024-05-10,Chaves,Famalicão,0,1,0.0
+2023-2024,33,2024-05-11,Vizela,Estrela,4,0,1.0
+2023-2024,33,2024-05-11,Portimonense,Rio Ave,2,2,0.5
+2023-2024,33,2024-05-11,Estoril,Sporting CP,0,1,0.0
+2023-2024,33,2024-05-11,Vitória,Braga,2,3,0.0
+2023-2024,33,2024-05-12,Gil Vicente FC,Farense,2,0,1.0
+2023-2024,33,2024-05-12,Casa Pia,Moreirense,0,1,0.0
+2023-2024,33,2024-05-12,Benfica,Arouca,5,0,1.0
+2023-2024,33,2024-05-12,Porto,Boavista,2,1,1.0
+2023-2024,34,2024-05-17,Famalicão,Casa Pia,1,2,0.0
+2023-2024,34,2024-05-17,Rio Ave,Benfica,1,1,0.5
+2023-2024,34,2024-05-18,Arouca,Vitória,1,3,0.0
+2023-2024,34,2024-05-18,Estrela,Gil Vicente FC,1,0,1.0
+2023-2024,34,2024-05-18,Boavista,Vizela,2,2,0.5
+2023-2024,34,2024-05-18,Farense,Portimonense,1,3,0.0
+2023-2024,34,2024-05-18,Moreirense,Estoril,2,1,1.0
+2023-2024,34,2024-05-18,Sporting CP,Chaves,3,0,1.0
+2023-2024,34,2024-05-18,Braga,Porto,0,1,0.0

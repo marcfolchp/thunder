@@ -1,0 +1,297 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,Regular season,1,2019-07-19,Arka Gdynia,Jagiellonia,0,3,0.0
+2019-2020,Regular season,1,2019-07-19,Łódzki KS,Lechia Gdańsk,0,0,0.5
+2019-2020,Regular season,1,2019-07-20,RKS Raków,Korona Kielce,0,1,0.0
+2019-2020,Regular season,1,2019-07-20,Wisła Kraków,Śląsk Wrocław,0,1,0.0
+2019-2020,Regular season,1,2019-07-20,Piast Gliwice,Lech Poznań,1,1,0.5
+2019-2020,Regular season,1,2019-07-21,Zagłębie Lubin,Cracovia,1,1,0.5
+2019-2020,Regular season,1,2019-07-21,Legia Warsaw,Pogoń Szczecin,1,2,0.0
+2019-2020,Regular season,1,2019-07-22,Wisła Płock,Górnik Zabrze,1,1,0.5
+2019-2020,Regular season,2,2019-07-26,Górnik Zabrze,Zagłębie Lubin,1,0,1.0
+2019-2020,Regular season,2,2019-07-26,Lech Poznań,Wisła Płock,4,0,1.0
+2019-2020,Regular season,2,2019-07-27,Cracovia,Łódzki KS,1,2,0.0
+2019-2020,Regular season,2,2019-07-27,Jagiellonia,RKS Raków,0,1,0.0
+2019-2020,Regular season,2,2019-07-28,Korona Kielce,Legia Warsaw,1,2,0.0
+2019-2020,Regular season,2,2019-07-28,Lechia Gdańsk,Wisła Kraków,0,0,0.5
+2019-2020,Regular season,2,2019-07-28,Śląsk Wrocław,Piast Gliwice,2,1,1.0
+2019-2020,Regular season,2,2019-07-29,Pogoń Szczecin,Arka Gdynia,2,0,1.0
+2019-2020,Regular season,3,2019-08-02,Arka Gdynia,Korona Kielce,1,1,0.5
+2019-2020,Regular season,3,2019-08-02,Zagłębie Lubin,Jagiellonia,2,2,0.5
+2019-2020,Regular season,3,2019-08-03,RKS Raków,Cracovia,1,3,0.0
+2019-2020,Regular season,3,2019-08-03,Łódzki KS,Lech Poznań,1,2,0.0
+2019-2020,Regular season,3,2019-08-04,Wisła Płock,Lechia Gdańsk,1,2,0.0
+2019-2020,Regular season,3,2019-08-04,Legia Warsaw,Śląsk Wrocław,0,0,0.5
+2019-2020,Regular season,3,2019-08-04,Piast Gliwice,Pogoń Szczecin,0,0,0.5
+2019-2020,Regular season,3,2019-08-05,Wisła Kraków,Górnik Zabrze,1,0,1.0
+2019-2020,Regular season,4,2019-08-09,Lech Poznań,Śląsk Wrocław,1,3,0.0
+2019-2020,Regular season,4,2019-08-10,Pogoń Szczecin,Wisła Kraków,1,0,1.0
+2019-2020,Regular season,4,2019-08-10,Zagłębie Lubin,Arka Gdynia,2,0,1.0
+2019-2020,Regular season,4,2019-08-10,Górnik Zabrze,RKS Raków,1,0,1.0
+2019-2020,Regular season,4,2019-08-11,Łódzki KS,Piast Gliwice,0,1,0.0
+2019-2020,Regular season,4,2019-08-11,Cracovia,Korona Kielce,1,0,1.0
+2019-2020,Regular season,4,2019-08-12,Lechia Gdańsk,Jagiellonia,1,1,0.5
+2019-2020,Regular season,5,2019-08-16,Wisła Kraków,Łódzki KS,4,0,1.0
+2019-2020,Regular season,5,2019-08-17,Śląsk Wrocław,Cracovia,2,1,1.0
+2019-2020,Regular season,5,2019-08-17,Arka Gdynia,Lech Poznań,0,0,0.5
+2019-2020,Regular season,5,2019-08-17,Jagiellonia,Górnik Zabrze,3,1,1.0
+2019-2020,Regular season,5,2019-08-18,Piast Gliwice,Wisła Płock,1,0,1.0
+2019-2020,Regular season,5,2019-08-18,Legia Warsaw,Zagłębie Lubin,1,0,1.0
+2019-2020,Regular season,5,2019-08-18,RKS Raków,Lechia Gdańsk,2,1,1.0
+2019-2020,Regular season,5,2019-08-19,Korona Kielce,Pogoń Szczecin,0,1,0.0
+2019-2020,Regular season,6,2019-08-23,Jagiellonia,Wisła Kraków,3,2,1.0
+2019-2020,Regular season,6,2019-08-24,Cracovia,Arka Gdynia,3,1,1.0
+2019-2020,Regular season,6,2019-08-24,Lechia Gdańsk,Śląsk Wrocław,1,1,0.5
+2019-2020,Regular season,6,2019-08-24,RKS Raków,Lech Poznań,2,3,0.0
+2019-2020,Regular season,6,2019-08-25,Górnik Zabrze,Korona Kielce,3,0,1.0
+2019-2020,Regular season,6,2019-08-25,Zagłębie Lubin,Piast Gliwice,0,3,0.0
+2019-2020,Regular season,6,2019-08-25,Łódzki KS,Legia Warsaw,2,3,0.0
+2019-2020,Regular season,6,2019-08-26,Pogoń Szczecin,Wisła Płock,1,2,0.0
+2019-2020,Regular season,7,2019-08-30,Arka Gdynia,Górnik Zabrze,1,0,1.0
+2019-2020,Regular season,7,2019-08-30,Korona Kielce,Jagiellonia,0,2,0.0
+2019-2020,Regular season,7,2019-08-31,Wisła Płock,Łódzki KS,2,1,1.0
+2019-2020,Regular season,7,2019-08-31,Piast Gliwice,Lechia Gdańsk,1,2,0.0
+2019-2020,Regular season,7,2019-08-31,Wisła Kraków,Zagłębie Lubin,4,2,1.0
+2019-2020,Regular season,7,2019-09-01,Śląsk Wrocław,Pogoń Szczecin,1,1,0.5
+2019-2020,Regular season,7,2019-09-01,Lech Poznań,Cracovia,1,2,0.0
+2019-2020,Regular season,7,2019-09-01,Legia Warsaw,RKS Raków,3,1,1.0
+2019-2020,Regular season,8,2019-09-13,Zagłębie Lubin,Wisła Płock,5,0,1.0
+2019-2020,Regular season,8,2019-09-13,Jagiellonia,Legia Warsaw,0,0,0.5
+2019-2020,Regular season,8,2019-09-14,RKS Raków,Arka Gdynia,2,0,1.0
+2019-2020,Regular season,8,2019-09-14,Lechia Gdańsk,Lech Poznań,2,1,1.0
+2019-2020,Regular season,8,2019-09-14,Korona Kielce,Wisła Kraków,1,1,0.5
+2019-2020,Regular season,8,2019-09-15,Pogoń Szczecin,Łódzki KS,1,0,1.0
+2019-2020,Regular season,8,2019-09-15,Górnik Zabrze,Śląsk Wrocław,0,0,0.5
+2019-2020,Regular season,8,2019-09-16,Cracovia,Piast Gliwice,2,0,1.0
+2019-2020,Regular season,4,2019-09-18,Wisła Płock,Legia Warsaw,1,0,1.0
+2019-2020,Regular season,9,2019-09-20,Piast Gliwice,RKS Raków,2,1,1.0
+2019-2020,Regular season,9,2019-09-20,Lech Poznań,Jagiellonia,1,1,0.5
+2019-2020,Regular season,9,2019-09-21,Łódzki KS,Arka Gdynia,1,4,0.0
+2019-2020,Regular season,9,2019-09-21,Lechia Gdańsk,Korona Kielce,2,0,1.0
+2019-2020,Regular season,9,2019-09-21,Śląsk Wrocław,Zagłębie Lubin,4,4,0.5
+2019-2020,Regular season,9,2019-09-22,Wisła Płock,Wisła Kraków,2,1,1.0
+2019-2020,Regular season,9,2019-09-22,Pogoń Szczecin,Górnik Zabrze,1,1,0.5
+2019-2020,Regular season,9,2019-09-22,Cracovia,Legia Warsaw,1,2,0.0
+2019-2020,Regular season,10,2019-09-27,Korona Kielce,Śląsk Wrocław,1,0,1.0
+2019-2020,Regular season,10,2019-09-28,RKS Raków,Wisła Płock,1,2,0.0
+2019-2020,Regular season,10,2019-09-28,Legia Warsaw,Lechia Gdańsk,1,2,0.0
+2019-2020,Regular season,10,2019-09-28,Górnik Zabrze,Lech Poznań,1,3,0.0
+2019-2020,Regular season,10,2019-09-29,Arka Gdynia,Piast Gliwice,0,0,0.5
+2019-2020,Regular season,10,2019-09-29,Jagiellonia,Pogoń Szczecin,2,3,0.0
+2019-2020,Regular season,10,2019-09-29,Wisła Kraków,Cracovia,0,1,0.0
+2019-2020,Regular season,10,2019-09-30,Zagłębie Lubin,Łódzki KS,3,1,1.0
+2019-2020,Regular season,11,2019-10-04,Wisła Płock,Arka Gdynia,4,1,1.0
+2019-2020,Regular season,11,2019-10-04,Śląsk Wrocław,Jagiellonia,1,1,0.5
+2019-2020,Regular season,11,2019-10-05,Pogoń Szczecin,RKS Raków,1,2,0.0
+2019-2020,Regular season,11,2019-10-05,Lech Poznań,Wisła Kraków,4,0,1.0
+2019-2020,Regular season,11,2019-10-05,Lechia Gdańsk,Zagłębie Lubin,1,2,0.0
+2019-2020,Regular season,11,2019-10-06,Łódzki KS,Korona Kielce,4,1,1.0
+2019-2020,Regular season,11,2019-10-06,Cracovia,Górnik Zabrze,1,1,0.5
+2019-2020,Regular season,11,2019-10-06,Piast Gliwice,Legia Warsaw,2,0,1.0
+2019-2020,Regular season,12,2019-10-18,Zagłębie Lubin,Pogoń Szczecin,0,1,0.0
+2019-2020,Regular season,12,2019-10-18,Wisła Kraków,Piast Gliwice,1,2,0.0
+2019-2020,Regular season,12,2019-10-19,Korona Kielce,Wisła Płock,0,1,0.0
+2019-2020,Regular season,12,2019-10-19,Legia Warsaw,Lech Poznań,2,1,1.0
+2019-2020,Regular season,12,2019-10-19,Jagiellonia,Cracovia,3,2,1.0
+2019-2020,Regular season,12,2019-10-20,Arka Gdynia,Lechia Gdańsk,2,2,0.5
+2019-2020,Regular season,12,2019-10-20,Górnik Zabrze,Łódzki KS,1,1,0.5
+2019-2020,Regular season,12,2019-10-21,RKS Raków,Śląsk Wrocław,1,0,1.0
+2019-2020,Regular season,13,2019-10-25,Cracovia,Pogoń Szczecin,2,0,1.0
+2019-2020,Regular season,13,2019-10-25,Lech Poznań,Zagłębie Lubin,1,2,0.0
+2019-2020,Regular season,13,2019-10-26,Łódzki KS,RKS Raków,2,0,1.0
+2019-2020,Regular season,13,2019-10-26,Piast Gliwice,Korona Kielce,1,0,1.0
+2019-2020,Regular season,13,2019-10-26,Lechia Gdańsk,Górnik Zabrze,1,1,0.5
+2019-2020,Regular season,13,2019-10-27,Wisła Płock,Jagiellonia,3,1,1.0
+2019-2020,Regular season,13,2019-10-27,Śląsk Wrocław,Arka Gdynia,2,1,1.0
+2019-2020,Regular season,13,2019-10-27,Legia Warsaw,Wisła Kraków,7,0,1.0
+2019-2020,Regular season,14,2019-11-02,Korona Kielce,Zagłębie Lubin,1,0,1.0
+2019-2020,Regular season,14,2019-11-02,Cracovia,Lechia Gdańsk,1,0,1.0
+2019-2020,Regular season,14,2019-11-02,Pogoń Szczecin,Lech Poznań,1,1,0.5
+2019-2020,Regular season,14,2019-11-03,Jagiellonia,Łódzki KS,2,0,1.0
+2019-2020,Regular season,14,2019-11-03,Górnik Zabrze,Piast Gliwice,1,1,0.5
+2019-2020,Regular season,14,2019-11-03,Arka Gdynia,Legia Warsaw,0,1,0.0
+2019-2020,Regular season,14,2019-11-04,Śląsk Wrocław,Wisła Płock,3,1,1.0
+2019-2020,Regular season,14,2019-11-04,RKS Raków,Wisła Kraków,1,0,1.0
+2019-2020,Regular season,15,2019-11-08,Łódzki KS,Śląsk Wrocław,0,1,0.0
+2019-2020,Regular season,15,2019-11-08,Piast Gliwice,Jagiellonia,3,1,1.0
+2019-2020,Regular season,15,2019-11-09,Wisła Płock,Cracovia,0,0,0.5
+2019-2020,Regular season,15,2019-11-09,Legia Warsaw,Górnik Zabrze,5,1,1.0
+2019-2020,Regular season,15,2019-11-09,Wisła Kraków,Arka Gdynia,0,1,0.0
+2019-2020,Regular season,15,2019-11-10,Zagłębie Lubin,RKS Raków,2,2,0.5
+2019-2020,Regular season,15,2019-11-10,Lech Poznań,Korona Kielce,0,0,0.5
+2019-2020,Regular season,15,2019-11-10,Lechia Gdańsk,Pogoń Szczecin,0,1,0.0
+2019-2020,Regular season,16,2019-11-22,Górnik Zabrze,Wisła Płock,2,2,0.5
+2019-2020,Regular season,16,2019-11-22,Lech Poznań,Piast Gliwice,3,0,1.0
+2019-2020,Regular season,16,2019-11-23,Korona Kielce,RKS Raków,3,0,1.0
+2019-2020,Regular season,16,2019-11-23,Pogoń Szczecin,Legia Warsaw,3,1,1.0
+2019-2020,Regular season,16,2019-11-23,Lechia Gdańsk,Łódzki KS,3,1,1.0
+2019-2020,Regular season,16,2019-11-24,Jagiellonia,Arka Gdynia,2,0,1.0
+2019-2020,Regular season,16,2019-11-24,Śląsk Wrocław,Wisła Kraków,2,1,1.0
+2019-2020,Regular season,16,2019-11-25,Cracovia,Zagłębie Lubin,2,0,1.0
+2019-2020,Regular season,17,2019-11-29,Zagłębie Lubin,Górnik Zabrze,2,0,1.0
+2019-2020,Regular season,17,2019-11-29,Wisła Płock,Lech Poznań,0,2,0.0
+2019-2020,Regular season,17,2019-11-30,Arka Gdynia,Pogoń Szczecin,1,1,0.5
+2019-2020,Regular season,17,2019-11-30,Piast Gliwice,Śląsk Wrocław,0,3,0.0
+2019-2020,Regular season,17,2019-11-30,Legia Warsaw,Korona Kielce,4,0,1.0
+2019-2020,Regular season,17,2019-12-01,RKS Raków,Jagiellonia,2,1,1.0
+2019-2020,Regular season,17,2019-12-01,Łódzki KS,Cracovia,1,0,1.0
+2019-2020,Regular season,17,2019-12-01,Wisła Kraków,Lechia Gdańsk,0,1,0.0
+2019-2020,Regular season,18,2019-12-06,Korona Kielce,Arka Gdynia,0,1,0.0
+2019-2020,Regular season,18,2019-12-06,Górnik Zabrze,Wisła Kraków,4,2,1.0
+2019-2020,Regular season,18,2019-12-07,Jagiellonia,Zagłębie Lubin,0,1,0.0
+2019-2020,Regular season,18,2019-12-07,Lech Poznań,Łódzki KS,2,0,1.0
+2019-2020,Regular season,18,2019-12-07,Lechia Gdańsk,Wisła Płock,2,0,1.0
+2019-2020,Regular season,18,2019-12-08,Cracovia,RKS Raków,3,0,1.0
+2019-2020,Regular season,18,2019-12-08,Pogoń Szczecin,Piast Gliwice,1,0,1.0
+2019-2020,Regular season,18,2019-12-08,Śląsk Wrocław,Legia Warsaw,0,3,0.0
+2019-2020,Regular season,19,2019-12-13,Arka Gdynia,Zagłębie Lubin,2,1,1.0
+2019-2020,Regular season,19,2019-12-13,Wisła Kraków,Pogoń Szczecin,1,0,1.0
+2019-2020,Regular season,19,2019-12-14,RKS Raków,Górnik Zabrze,2,1,1.0
+2019-2020,Regular season,19,2019-12-14,Śląsk Wrocław,Lech Poznań,1,1,0.5
+2019-2020,Regular season,19,2019-12-14,Legia Warsaw,Wisła Płock,3,1,1.0
+2019-2020,Regular season,19,2019-12-15,Piast Gliwice,Łódzki KS,2,1,1.0
+2019-2020,Regular season,19,2019-12-15,Korona Kielce,Cracovia,1,0,1.0
+2019-2020,Regular season,19,2019-12-15,Jagiellonia,Lechia Gdańsk,3,0,1.0
+2019-2020,Regular season,20,2019-12-19,Łódzki KS,Wisła Kraków,2,4,0.0
+2019-2020,Regular season,20,2019-12-19,Lech Poznań,Arka Gdynia,1,1,0.5
+2019-2020,Regular season,20,2019-12-20,Pogoń Szczecin,Korona Kielce,0,1,0.0
+2019-2020,Regular season,20,2019-12-20,Cracovia,Śląsk Wrocław,2,0,1.0
+2019-2020,Regular season,20,2019-12-20,Zagłębie Lubin,Legia Warsaw,2,1,1.0
+2019-2020,Regular season,20,2019-12-21,Lechia Gdańsk,RKS Raków,0,3,0.0
+2019-2020,Regular season,20,2019-12-21,Wisła Płock,Piast Gliwice,2,1,1.0
+2019-2020,Regular season,20,2019-12-21,Górnik Zabrze,Jagiellonia,3,0,1.0
+2019-2020,Regular season,21,2020-02-07,Arka Gdynia,Cracovia,0,1,0.0
+2019-2020,Regular season,21,2020-02-07,Śląsk Wrocław,Lechia Gdańsk,2,2,0.5
+2019-2020,Regular season,21,2020-02-08,Korona Kielce,Górnik Zabrze,0,0,0.5
+2019-2020,Regular season,21,2020-02-08,Lech Poznań,RKS Raków,3,0,1.0
+2019-2020,Regular season,21,2020-02-08,Wisła Kraków,Jagiellonia,3,0,1.0
+2019-2020,Regular season,21,2020-02-09,Wisła Płock,Pogoń Szczecin,2,3,0.0
+2019-2020,Regular season,21,2020-02-09,Piast Gliwice,Zagłębie Lubin,2,0,1.0
+2019-2020,Regular season,21,2020-02-09,Legia Warsaw,Łódzki KS,3,1,1.0
+2019-2020,Regular season,22,2020-02-14,Górnik Zabrze,Arka Gdynia,2,0,1.0
+2019-2020,Regular season,22,2020-02-14,Lechia Gdańsk,Piast Gliwice,1,0,1.0
+2019-2020,Regular season,22,2020-02-15,Łódzki KS,Wisła Płock,0,0,0.5
+2019-2020,Regular season,22,2020-02-15,Pogoń Szczecin,Śląsk Wrocław,0,0,0.5
+2019-2020,Regular season,22,2020-02-15,RKS Raków,Legia Warsaw,2,2,0.5
+2019-2020,Regular season,22,2020-02-16,Jagiellonia,Korona Kielce,0,0,0.5
+2019-2020,Regular season,22,2020-02-16,Zagłębie Lubin,Wisła Kraków,0,1,0.0
+2019-2020,Regular season,22,2020-02-16,Cracovia,Lech Poznań,2,1,1.0
+2019-2020,Regular season,23,2020-02-21,Łódzki KS,Pogoń Szczecin,0,0,0.5
+2019-2020,Regular season,23,2020-02-21,Śląsk Wrocław,Górnik Zabrze,2,1,1.0
+2019-2020,Regular season,23,2020-02-22,Arka Gdynia,RKS Raków,3,2,1.0
+2019-2020,Regular season,23,2020-02-22,Legia Warsaw,Jagiellonia,4,0,1.0
+2019-2020,Regular season,23,2020-02-22,Piast Gliwice,Cracovia,1,0,1.0
+2019-2020,Regular season,23,2020-02-23,Wisła Płock,Zagłębie Lubin,1,1,0.5
+2019-2020,Regular season,23,2020-02-23,Wisła Kraków,Korona Kielce,2,0,1.0
+2019-2020,Regular season,23,2020-02-23,Lech Poznań,Lechia Gdańsk,2,0,1.0
+2019-2020,Regular season,24,2020-02-28,RKS Raków,Piast Gliwice,2,0,1.0
+2019-2020,Regular season,24,2020-02-28,Jagiellonia,Lech Poznań,1,1,0.5
+2019-2020,Regular season,24,2020-02-29,Wisła Kraków,Wisła Płock,2,2,0.5
+2019-2020,Regular season,24,2020-02-29,Górnik Zabrze,Pogoń Szczecin,3,1,1.0
+2019-2020,Regular season,24,2020-02-29,Legia Warsaw,Cracovia,2,1,1.0
+2019-2020,Regular season,24,2020-03-01,Korona Kielce,Lechia Gdańsk,1,2,0.0
+2019-2020,Regular season,24,2020-03-01,Arka Gdynia,Łódzki KS,1,1,0.5
+2019-2020,Regular season,24,2020-03-01,Zagłębie Lubin,Śląsk Wrocław,3,1,1.0
+2019-2020,Regular season,25,2020-03-03,Lech Poznań,Górnik Zabrze,4,1,1.0
+2019-2020,Regular season,25,2020-03-03,Wisła Płock,RKS Raków,0,2,0.0
+2019-2020,Regular season,25,2020-03-03,Pogoń Szczecin,Jagiellonia,1,2,0.0
+2019-2020,Regular season,25,2020-03-03,Cracovia,Wisła Kraków,0,2,0.0
+2019-2020,Regular season,25,2020-03-04,Śląsk Wrocław,Korona Kielce,2,1,1.0
+2019-2020,Regular season,25,2020-03-04,Łódzki KS,Zagłębie Lubin,3,2,1.0
+2019-2020,Regular season,25,2020-03-04,Lechia Gdańsk,Legia Warsaw,0,2,0.0
+2019-2020,Regular season,25,2020-03-04,Piast Gliwice,Arka Gdynia,1,0,1.0
+2019-2020,Regular season,26,2020-03-06,Górnik Zabrze,Cracovia,3,2,1.0
+2019-2020,Regular season,26,2020-03-07,Arka Gdynia,Wisła Płock,1,2,0.0
+2019-2020,Regular season,26,2020-03-07,Zagłębie Lubin,Lechia Gdańsk,4,4,0.5
+2019-2020,Regular season,26,2020-03-07,Jagiellonia,Śląsk Wrocław,1,0,1.0
+2019-2020,Regular season,26,2020-03-08,RKS Raków,Pogoń Szczecin,0,0,0.5
+2019-2020,Regular season,26,2020-03-08,Wisła Kraków,Lech Poznań,1,1,0.5
+2019-2020,Regular season,26,2020-03-08,Legia Warsaw,Piast Gliwice,1,2,0.0
+2019-2020,Regular season,26,2020-03-09,Korona Kielce,Łódzki KS,1,0,1.0
+2019-2020,Regular season,27,2020-05-29,Śląsk Wrocław,RKS Raków,1,1,0.5
+2019-2020,Regular season,27,2020-05-29,Pogoń Szczecin,Zagłębie Lubin,0,3,0.0
+2019-2020,Regular season,27,2020-05-30,Łódzki KS,Górnik Zabrze,0,1,0.0
+2019-2020,Regular season,27,2020-05-30,Piast Gliwice,Wisła Kraków,4,0,1.0
+2019-2020,Regular season,27,2020-05-30,Lech Poznań,Legia Warsaw,0,1,0.0
+2019-2020,Regular season,27,2020-05-31,Wisła Płock,Korona Kielce,1,4,0.0
+2019-2020,Regular season,27,2020-05-31,Cracovia,Jagiellonia,0,1,0.0
+2019-2020,Regular season,27,2020-05-31,Lechia Gdańsk,Arka Gdynia,4,3,1.0
+2019-2020,Regular season,28,2020-06-05,Korona Kielce,Piast Gliwice,1,2,0.0
+2019-2020,Regular season,28,2020-06-05,Górnik Zabrze,Lechia Gdańsk,2,2,0.5
+2019-2020,Regular season,28,2020-06-06,Jagiellonia,Wisła Płock,2,2,0.5
+2019-2020,Regular season,28,2020-06-06,Zagłębie Lubin,Lech Poznań,3,3,0.5
+2019-2020,Regular season,28,2020-06-06,Pogoń Szczecin,Cracovia,1,0,1.0
+2019-2020,Regular season,28,2020-06-07,RKS Raków,Łódzki KS,1,1,0.5
+2019-2020,Regular season,28,2020-06-07,Arka Gdynia,Śląsk Wrocław,2,1,1.0
+2019-2020,Regular season,28,2020-06-07,Wisła Kraków,Legia Warsaw,1,3,0.0
+2019-2020,Regular season,29,2020-06-09,Lechia Gdańsk,Cracovia,1,3,0.0
+2019-2020,Regular season,29,2020-06-09,Piast Gliwice,Górnik Zabrze,0,0,0.5
+2019-2020,Regular season,29,2020-06-09,Lech Poznań,Pogoń Szczecin,4,0,1.0
+2019-2020,Regular season,29,2020-06-09,Zagłębie Lubin,Korona Kielce,1,1,0.5
+2019-2020,Regular season,29,2020-06-10,Wisła Płock,Śląsk Wrocław,1,2,0.0
+2019-2020,Regular season,29,2020-06-10,Wisła Kraków,RKS Raków,3,2,1.0
+2019-2020,Regular season,29,2020-06-10,Łódzki KS,Jagiellonia,0,3,0.0
+2019-2020,Regular season,29,2020-06-10,Legia Warsaw,Arka Gdynia,5,1,1.0
+2019-2020,Regular season,30,2020-06-14,Arka Gdynia,Wisła Kraków,0,0,0.5
+2019-2020,Regular season,30,2020-06-14,Górnik Zabrze,Legia Warsaw,2,0,1.0
+2019-2020,Regular season,30,2020-06-14,RKS Raków,Zagłębie Lubin,2,1,1.0
+2019-2020,Regular season,30,2020-06-14,Śląsk Wrocław,Łódzki KS,4,0,1.0
+2019-2020,Regular season,30,2020-06-14,Korona Kielce,Lech Poznań,0,3,0.0
+2019-2020,Regular season,30,2020-06-14,Cracovia,Wisła Płock,1,1,0.5
+2019-2020,Regular season,30,2020-06-14,Pogoń Szczecin,Lechia Gdańsk,1,1,0.5
+2019-2020,Regular season,30,2020-06-14,Jagiellonia,Piast Gliwice,0,2,0.0
+2019-2020,Relegation round,1,2020-06-19,Zagłębie Lubin,Łódzki KS,1,0,1.0
+2019-2020,Relegation round,1,2020-06-19,Górnik Zabrze,Korona Kielce,3,2,1.0
+2019-2020,Relegation round,1,2020-06-20,Wisła Płock,Arka Gdynia,0,0,0.5
+2019-2020,Championship round,1,2020-06-20,Piast Gliwice,Lech Poznań,0,2,0.0
+2019-2020,Relegation round,1,2020-06-20,RKS Raków,Wisła Kraków,3,1,1.0
+2019-2020,Championship round,1,2020-06-21,Pogoń Szczecin,Lechia Gdańsk,0,1,0.0
+2019-2020,Championship round,1,2020-06-21,Cracovia,Jagiellonia,1,2,0.0
+2019-2020,Championship round,1,2020-06-21,Legia Warsaw,Śląsk Wrocław,2,0,1.0
+2019-2020,Relegation round,2,2020-06-23,Korona Kielce,RKS Raków,0,1,0.0
+2019-2020,Relegation round,2,2020-06-23,Arka Gdynia,Zagłębie Lubin,3,2,1.0
+2019-2020,Relegation round,2,2020-06-23,Łódzki KS,Górnik Zabrze,1,3,0.0
+2019-2020,Relegation round,2,2020-06-23,Wisła Kraków,Wisła Płock,1,0,1.0
+2019-2020,Championship round,2,2020-06-24,Lechia Gdańsk,Piast Gliwice,1,0,1.0
+2019-2020,Championship round,2,2020-06-24,Lech Poznań,Pogoń Szczecin,0,0,0.5
+2019-2020,Championship round,2,2020-06-24,Jagiellonia,Legia Warsaw,0,0,0.5
+2019-2020,Championship round,2,2020-06-25,Śląsk Wrocław,Cracovia,3,2,1.0
+2019-2020,Relegation round,3,2020-06-26,RKS Raków,Arka Gdynia,3,2,1.0
+2019-2020,Relegation round,3,2020-06-26,Zagłębie Lubin,Korona Kielce,2,1,1.0
+2019-2020,Relegation round,3,2020-06-27,Wisła Płock,Łódzki KS,2,0,1.0
+2019-2020,Championship round,3,2020-06-27,Legia Warsaw,Piast Gliwice,1,1,0.5
+2019-2020,Relegation round,3,2020-06-27,Górnik Zabrze,Wisła Kraków,0,1,0.0
+2019-2020,Championship round,3,2020-06-28,Jagiellonia,Lechia Gdańsk,1,2,0.0
+2019-2020,Championship round,3,2020-06-28,Śląsk Wrocław,Lech Poznań,2,2,0.5
+2019-2020,Championship round,3,2020-06-29,Cracovia,Pogoń Szczecin,2,1,1.0
+2019-2020,Relegation round,4,2020-07-03,Łódzki KS,Wisła Kraków,1,2,0.0
+2019-2020,Relegation round,4,2020-07-03,Korona Kielce,Arka Gdynia,1,1,0.5
+2019-2020,Relegation round,4,2020-07-04,RKS Raków,Zagłębie Lubin,1,2,0.0
+2019-2020,Championship round,4,2020-07-04,Lech Poznań,Legia Warsaw,2,1,1.0
+2019-2020,Championship round,4,2020-07-04,Lechia Gdańsk,Cracovia,0,3,0.0
+2019-2020,Championship round,4,2020-07-05,Pogoń Szczecin,Jagiellonia,2,2,0.5
+2019-2020,Championship round,4,2020-07-05,Piast Gliwice,Śląsk Wrocław,1,0,1.0
+2019-2020,Relegation round,4,2020-07-06,Wisła Płock,Górnik Zabrze,1,0,1.0
+2019-2020,Relegation round,5,2020-07-10,Zagłębie Lubin,Wisła Płock,0,1,0.0
+2019-2020,Relegation round,5,2020-07-10,Górnik Zabrze,RKS Raków,4,1,1.0
+2019-2020,Relegation round,5,2020-07-11,Arka Gdynia,Łódzki KS,3,2,1.0
+2019-2020,Championship round,5,2020-07-11,Legia Warsaw,Cracovia,2,0,1.0
+2019-2020,Relegation round,5,2020-07-11,Wisła Kraków,Korona Kielce,1,1,0.5
+2019-2020,Championship round,5,2020-07-12,Śląsk Wrocław,Pogoń Szczecin,2,2,0.5
+2019-2020,Championship round,5,2020-07-12,Piast Gliwice,Jagiellonia,2,0,1.0
+2019-2020,Championship round,5,2020-07-12,Lech Poznań,Lechia Gdańsk,3,2,1.0
+2019-2020,Relegation round,6,2020-07-14,Łódzki KS,RKS Raków,3,2,1.0
+2019-2020,Relegation round,6,2020-07-14,Wisła Płock,Korona Kielce,3,1,1.0
+2019-2020,Relegation round,6,2020-07-14,Zagłębie Lubin,Wisła Kraków,3,1,1.0
+2019-2020,Relegation round,6,2020-07-14,Arka Gdynia,Górnik Zabrze,1,2,0.0
+2019-2020,Championship round,6,2020-07-15,Cracovia,Lech Poznań,1,2,0.0
+2019-2020,Championship round,6,2020-07-15,Pogoń Szczecin,Piast Gliwice,1,0,1.0
+2019-2020,Championship round,6,2020-07-15,Lechia Gdańsk,Legia Warsaw,0,0,0.5
+2019-2020,Championship round,6,2020-07-15,Jagiellonia,Śląsk Wrocław,2,1,1.0
+2019-2020,Relegation round,7,2020-07-18,RKS Raków,Wisła Płock,2,1,1.0
+2019-2020,Relegation round,7,2020-07-18,Górnik Zabrze,Zagłębie Lubin,0,2,0.0
+2019-2020,Relegation round,7,2020-07-18,Korona Kielce,Łódzki KS,2,0,1.0
+2019-2020,Relegation round,7,2020-07-18,Wisła Kraków,Arka Gdynia,0,1,0.0
+2019-2020,Championship round,7,2020-07-19,Legia Warsaw,Pogoń Szczecin,1,2,0.0
+2019-2020,Championship round,7,2020-07-19,Śląsk Wrocław,Lechia Gdańsk,1,2,0.0
+2019-2020,Championship round,7,2020-07-19,Lech Poznań,Jagiellonia,4,0,1.0
+2019-2020,Championship round,7,2020-07-19,Piast Gliwice,Cracovia,1,1,0.5

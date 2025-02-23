@@ -1,0 +1,278 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,Regular season,1,2019-07-12,Jablonec,Bohemians 1905,2.0,0.0,1.0
+2019-2020,Regular season,1,2019-07-13,Příbram,Teplice,1.0,1.0,0.5
+2019-2020,Regular season,1,2019-07-13,Baník Ostrava,Slovan Liberec,1.0,2.0,0.0
+2019-2020,Regular season,1,2019-07-13,Viktoria Plzeň,Sigma Olomouc,3.0,1.0,1.0
+2019-2020,Regular season,1,2019-07-14,Mladá Boleslav,Karviná,1.0,0.0,1.0
+2019-2020,Regular season,1,2019-07-14,České Budĕjov.,Opava,0.0,1.0,0.0
+2019-2020,Regular season,1,2019-07-14,Sparta Prague,Slovácko,0.0,2.0,0.0
+2019-2020,Regular season,1,2019-07-15,Fastav Zlín,Slavia Prague,0.0,1.0,0.0
+2019-2020,Regular season,2,2019-07-19,Slovan Liberec,Viktoria Plzeň,1.0,2.0,0.0
+2019-2020,Regular season,2,2019-07-20,Slovácko,České Budĕjov.,0.0,2.0,0.0
+2019-2020,Regular season,2,2019-07-20,Opava,Příbram,1.0,0.0,1.0
+2019-2020,Regular season,2,2019-07-20,Sigma Olomouc,Fastav Zlín,1.0,0.0,1.0
+2019-2020,Regular season,2,2019-07-20,Sparta Prague,Jablonec,2.0,0.0,1.0
+2019-2020,Regular season,2,2019-07-21,Bohemians 1905,Mladá Boleslav,3.0,0.0,1.0
+2019-2020,Regular season,2,2019-07-21,Teplice,Slavia Prague,1.0,5.0,0.0
+2019-2020,Regular season,2,2019-07-22,Karviná,Baník Ostrava,1.0,2.0,0.0
+2019-2020,Regular season,3,2019-07-26,Baník Ostrava,Teplice,0.0,1.0,0.0
+2019-2020,Regular season,3,2019-07-27,Příbram,Bohemians 1905,3.0,2.0,1.0
+2019-2020,Regular season,3,2019-07-27,Fastav Zlín,Slovan Liberec,2.0,1.0,1.0
+2019-2020,Regular season,3,2019-07-27,Viktoria Plzeň,Karviná,3.0,2.0,1.0
+2019-2020,Regular season,3,2019-07-28,Mladá Boleslav,Opava,4.0,1.0,1.0
+2019-2020,Regular season,3,2019-07-28,Jablonec,Slovácko,6.0,0.0,1.0
+2019-2020,Regular season,3,2019-07-28,Slavia Prague,Sigma Olomouc,1.0,0.0,1.0
+2019-2020,Regular season,3,2019-07-29,České Budĕjov.,Sparta Prague,2.0,2.0,0.5
+2019-2020,Regular season,4,2019-08-02,Opava,Baník Ostrava,0.0,2.0,0.0
+2019-2020,Regular season,4,2019-08-03,Slovan Liberec,Sigma Olomouc,0.0,1.0,0.0
+2019-2020,Regular season,4,2019-08-03,Slovácko,Fastav Zlín,1.0,0.0,1.0
+2019-2020,Regular season,4,2019-08-03,Bohemians 1905,Viktoria Plzeň,0.0,0.0,0.5
+2019-2020,Regular season,4,2019-08-04,České Budĕjov.,Jablonec,1.0,1.0,0.5
+2019-2020,Regular season,4,2019-08-04,Karviná,Slavia Prague,0.0,0.0,0.5
+2019-2020,Regular season,4,2019-08-04,Sparta Prague,Příbram,3.0,0.0,1.0
+2019-2020,Regular season,5,2019-08-09,Fastav Zlín,Teplice,1.0,0.0,1.0
+2019-2020,Regular season,5,2019-08-10,Baník Ostrava,Bohemians 1905,4.0,2.0,1.0
+2019-2020,Regular season,5,2019-08-10,Sigma Olomouc,Karviná,1.0,1.0,0.5
+2019-2020,Regular season,5,2019-08-10,Příbram,České Budĕjov.,2.0,0.0,1.0
+2019-2020,Regular season,5,2019-08-10,Slavia Prague,Slovan Liberec,1.0,0.0,1.0
+2019-2020,Regular season,5,2019-08-11,Viktoria Plzeň,Slovácko,0.0,2.0,0.0
+2019-2020,Regular season,5,2019-08-11,Jablonec,Opava,2.0,1.0,1.0
+2019-2020,Regular season,5,2019-08-11,Mladá Boleslav,Sparta Prague,4.0,3.0,1.0
+2019-2020,Regular season,6,2019-08-16,České Budĕjov.,Slavia Prague,0.0,3.0,0.0
+2019-2020,Regular season,6,2019-08-17,Opava,Fastav Zlín,0.0,3.0,0.0
+2019-2020,Regular season,6,2019-08-17,Slovácko,Příbram,2.0,0.0,1.0
+2019-2020,Regular season,6,2019-08-17,Bohemians 1905,Sigma Olomouc,3.0,2.0,1.0
+2019-2020,Regular season,6,2019-08-18,Sparta Prague,Baník Ostrava,2.0,0.0,1.0
+2019-2020,Regular season,6,2019-08-18,Karviná,Slovan Liberec,0.0,1.0,0.0
+2019-2020,Regular season,6,2019-08-18,Jablonec,Mladá Boleslav,2.0,1.0,1.0
+2019-2020,Regular season,6,2019-08-18,Teplice,Viktoria Plzeň,1.0,1.0,0.5
+2019-2020,Regular season,7,2019-08-23,Baník Ostrava,Slovácko,3.0,0.0,1.0
+2019-2020,Regular season,7,2019-08-23,Sigma Olomouc,Teplice,2.0,0.0,1.0
+2019-2020,Regular season,7,2019-08-24,Příbram,Jablonec,4.0,0.0,1.0
+2019-2020,Regular season,7,2019-08-24,Fastav Zlín,Karviná,1.0,4.0,0.0
+2019-2020,Regular season,7,2019-08-24,Slavia Prague,Bohemians 1905,4.0,0.0,1.0
+2019-2020,Regular season,7,2019-08-25,Viktoria Plzeň,Opava,4.0,0.0,1.0
+2019-2020,Regular season,7,2019-08-25,Mladá Boleslav,České Budĕjov.,4.0,2.0,1.0
+2019-2020,Regular season,7,2019-08-25,Slovan Liberec,Sparta Prague,3.0,1.0,1.0
+2019-2020,Regular season,8,2019-08-31,Bohemians 1905,Slovan Liberec,2.0,1.0,1.0
+2019-2020,Regular season,8,2019-08-31,Slovácko,Mladá Boleslav,1.0,1.0,0.5
+2019-2020,Regular season,8,2019-08-31,Příbram,Viktoria Plzeň,1.0,2.0,0.0
+2019-2020,Regular season,8,2019-09-01,České Budĕjov.,Fastav Zlín,2.0,0.0,1.0
+2019-2020,Regular season,8,2019-09-01,Opava,Slavia Prague,1.0,1.0,0.5
+2019-2020,Regular season,8,2019-09-01,Jablonec,Baník Ostrava,2.0,1.0,1.0
+2019-2020,Regular season,8,2019-09-01,Teplice,Karviná,0.0,0.0,0.5
+2019-2020,Regular season,8,2019-09-01,Sparta Prague,Sigma Olomouc,3.0,3.0,0.5
+2019-2020,Regular season,9,2019-09-13,Sigma Olomouc,Opava,2.0,0.0,1.0
+2019-2020,Regular season,9,2019-09-14,Slovan Liberec,Teplice,1.0,1.0,0.5
+2019-2020,Regular season,9,2019-09-14,Mladá Boleslav,Příbram,6.0,0.0,1.0
+2019-2020,Regular season,9,2019-09-14,Slavia Prague,Slovácko,3.0,0.0,1.0
+2019-2020,Regular season,9,2019-09-15,Karviná,Bohemians 1905,0.0,0.0,0.5
+2019-2020,Regular season,9,2019-09-15,Fastav Zlín,Sparta Prague,0.0,2.0,0.0
+2019-2020,Regular season,9,2019-09-15,Baník Ostrava,České Budĕjov.,2.0,1.0,1.0
+2019-2020,Regular season,9,2019-09-16,Viktoria Plzeň,Jablonec,3.0,2.0,1.0
+2019-2020,Regular season,4,2019-09-18,Teplice,Mladá Boleslav,2.0,0.0,1.0
+2019-2020,Regular season,10,2019-09-20,Bohemians 1905,Fastav Zlín,2.0,2.0,0.5
+2019-2020,Regular season,10,2019-09-21,Slovácko,Teplice,1.0,1.0,0.5
+2019-2020,Regular season,10,2019-09-21,Opava,Slovan Liberec,1.0,1.0,0.5
+2019-2020,Regular season,10,2019-09-21,Příbram,Karviná,0.0,2.0,0.0
+2019-2020,Regular season,10,2019-09-21,České Budĕjov.,Viktoria Plzeň,0.0,3.0,0.0
+2019-2020,Regular season,10,2019-09-22,Mladá Boleslav,Baník Ostrava,2.0,0.0,1.0
+2019-2020,Regular season,10,2019-09-22,Sparta Prague,Slavia Prague,0.0,3.0,0.0
+2019-2020,Regular season,10,2019-09-23,Jablonec,Sigma Olomouc,2.0,2.0,0.5
+2019-2020,Regular season,11,2019-09-27,Teplice,Bohemians 1905,1.0,0.0,1.0
+2019-2020,Regular season,11,2019-09-28,Fastav Zlín,Jablonec,0.0,1.0,0.0
+2019-2020,Regular season,11,2019-09-28,Sigma Olomouc,Slovácko,2.0,2.0,0.5
+2019-2020,Regular season,11,2019-09-28,Slavia Prague,Mladá Boleslav,1.0,0.0,1.0
+2019-2020,Regular season,11,2019-09-29,Karviná,Opava,1.0,1.0,0.5
+2019-2020,Regular season,11,2019-09-29,Viktoria Plzeň,Sparta Prague,1.0,0.0,1.0
+2019-2020,Regular season,11,2019-09-30,Baník Ostrava,Příbram,3.0,0.0,1.0
+2019-2020,Regular season,11,2019-09-30,Slovan Liberec,České Budĕjov.,4.0,2.0,1.0
+2019-2020,Regular season,12,2019-10-04,Slovácko,Slovan Liberec,3.0,1.0,1.0
+2019-2020,Regular season,12,2019-10-05,Příbram,Sigma Olomouc,0.0,0.0,0.5
+2019-2020,Regular season,12,2019-10-05,Opava,Teplice,0.0,1.0,0.0
+2019-2020,Regular season,12,2019-10-05,Baník Ostrava,Fastav Zlín,4.0,0.0,1.0
+2019-2020,Regular season,12,2019-10-05,Sparta Prague,Karviná,4.0,0.0,1.0
+2019-2020,Regular season,12,2019-10-06,České Budĕjov.,Bohemians 1905,3.0,2.0,1.0
+2019-2020,Regular season,12,2019-10-06,Mladá Boleslav,Viktoria Plzeň,2.0,1.0,1.0
+2019-2020,Regular season,12,2019-10-06,Jablonec,Slavia Prague,0.0,2.0,0.0
+2019-2020,Regular season,13,2019-10-19,Slovan Liberec,Jablonec,2.0,2.0,0.5
+2019-2020,Regular season,13,2019-10-19,Fastav Zlín,Mladá Boleslav,0.0,2.0,0.0
+2019-2020,Regular season,13,2019-10-19,Sigma Olomouc,České Budĕjov.,1.0,3.0,0.0
+2019-2020,Regular season,13,2019-10-19,Slavia Prague,Příbram,3.0,1.0,1.0
+2019-2020,Regular season,13,2019-10-20,Karviná,Slovácko,0.0,2.0,0.0
+2019-2020,Regular season,13,2019-10-20,Bohemians 1905,Opava,1.0,0.0,1.0
+2019-2020,Regular season,13,2019-10-20,Viktoria Plzeň,Baník Ostrava,3.0,0.0,1.0
+2019-2020,Regular season,13,2019-10-20,Teplice,Sparta Prague,1.0,1.0,0.5
+2019-2020,Regular season,14,2019-10-25,Jablonec,Teplice,4.0,1.0,1.0
+2019-2020,Regular season,14,2019-10-26,Příbram,Fastav Zlín,0.0,0.0,0.5
+2019-2020,Regular season,14,2019-10-26,Baník Ostrava,Sigma Olomouc,2.0,2.0,0.5
+2019-2020,Regular season,14,2019-10-26,Slovácko,Opava,4.0,0.0,1.0
+2019-2020,Regular season,14,2019-10-26,Sparta Prague,Bohemians 1905,4.0,0.0,1.0
+2019-2020,Regular season,14,2019-10-27,České Budĕjov.,Karviná,3.0,0.0,1.0
+2019-2020,Regular season,14,2019-10-27,Mladá Boleslav,Slovan Liberec,1.0,3.0,0.0
+2019-2020,Regular season,14,2019-10-27,Viktoria Plzeň,Slavia Prague,0.0,1.0,0.0
+2019-2020,Regular season,15,2019-11-01,Bohemians 1905,Slovácko,0.0,0.0,0.5
+2019-2020,Regular season,15,2019-11-02,Sigma Olomouc,Mladá Boleslav,2.0,2.0,0.5
+2019-2020,Regular season,15,2019-11-02,Slavia Prague,Baník Ostrava,4.0,0.0,1.0
+2019-2020,Regular season,15,2019-11-03,Karviná,Jablonec,0.0,1.0,0.0
+2019-2020,Regular season,15,2019-11-03,Teplice,České Budĕjov.,1.0,3.0,0.0
+2019-2020,Regular season,15,2019-11-03,Slovan Liberec,Příbram,3.0,2.0,1.0
+2019-2020,Regular season,15,2019-11-03,Opava,Sparta Prague,0.0,1.0,0.0
+2019-2020,Regular season,15,2019-11-04,Fastav Zlín,Viktoria Plzeň,1.0,1.0,0.5
+2019-2020,Regular season,16,2019-11-08,Baník Ostrava,Karviná,3.0,0.0,1.0
+2019-2020,Regular season,16,2019-11-08,Mladá Boleslav,Bohemians 1905,2.0,1.0,1.0
+2019-2020,Regular season,16,2019-11-09,Fastav Zlín,Sigma Olomouc,1.0,0.0,1.0
+2019-2020,Regular season,16,2019-11-09,Příbram,Opava,0.0,0.0,0.5
+2019-2020,Regular season,16,2019-11-09,Jablonec,Sparta Prague,2.0,2.0,0.5
+2019-2020,Regular season,16,2019-11-10,České Budĕjov.,Slovácko,2.0,0.0,1.0
+2019-2020,Regular season,16,2019-11-10,Viktoria Plzeň,Slovan Liberec,4.0,1.0,1.0
+2019-2020,Regular season,16,2019-11-10,Slavia Prague,Teplice,3.0,0.0,1.0
+2019-2020,Regular season,17,2019-11-22,Sparta Prague,České Budĕjov.,3.0,3.0,0.5
+2019-2020,Regular season,17,2019-11-23,Slovan Liberec,Fastav Zlín,5.0,0.0,1.0
+2019-2020,Regular season,17,2019-11-23,Opava,Mladá Boleslav,1.0,0.0,1.0
+2019-2020,Regular season,17,2019-11-23,Bohemians 1905,Příbram,1.0,0.0,1.0
+2019-2020,Regular season,17,2019-11-23,Sigma Olomouc,Slavia Prague,0.0,0.0,0.5
+2019-2020,Regular season,17,2019-11-24,Teplice,Baník Ostrava,1.0,1.0,0.5
+2019-2020,Regular season,17,2019-11-24,Karviná,Viktoria Plzeň,1.0,1.0,0.5
+2019-2020,Regular season,17,2019-11-25,Slovácko,Jablonec,1.0,1.0,0.5
+2019-2020,Regular season,18,2019-11-29,Baník Ostrava,Opava,0.0,0.0,0.5
+2019-2020,Regular season,18,2019-11-30,Sigma Olomouc,Slovan Liberec,1.0,0.0,1.0
+2019-2020,Regular season,18,2019-11-30,Fastav Zlín,Slovácko,2.0,1.0,1.0
+2019-2020,Regular season,18,2019-11-30,Příbram,Sparta Prague,0.0,1.0,0.0
+2019-2020,Regular season,18,2019-12-01,Jablonec,České Budĕjov.,0.0,1.0,0.0
+2019-2020,Regular season,18,2019-12-01,Viktoria Plzeň,Bohemians 1905,1.0,0.0,1.0
+2019-2020,Regular season,18,2019-12-01,Mladá Boleslav,Teplice,3.0,1.0,1.0
+2019-2020,Regular season,18,2019-12-01,Slavia Prague,Karviná,2.0,0.0,1.0
+2019-2020,Regular season,19,2019-12-06,Bohemians 1905,Baník Ostrava,0.0,2.0,0.0
+2019-2020,Regular season,19,2019-12-06,Slovan Liberec,Slavia Prague,0.0,3.0,0.0
+2019-2020,Regular season,19,2019-12-07,Teplice,Fastav Zlín,2.0,1.0,1.0
+2019-2020,Regular season,19,2019-12-07,Opava,Jablonec,1.0,2.0,0.0
+2019-2020,Regular season,19,2019-12-07,Slovácko,Viktoria Plzeň,2.0,1.0,1.0
+2019-2020,Regular season,19,2019-12-08,České Budĕjov.,Příbram,2.0,0.0,1.0
+2019-2020,Regular season,19,2019-12-08,Karviná,Sigma Olomouc,1.0,1.0,0.5
+2019-2020,Regular season,19,2019-12-08,Sparta Prague,Mladá Boleslav,5.0,2.0,1.0
+2019-2020,Regular season,20,2019-12-13,Mladá Boleslav,Jablonec,2.0,3.0,0.0
+2019-2020,Regular season,20,2019-12-14,Sigma Olomouc,Bohemians 1905,1.0,1.0,0.5
+2019-2020,Regular season,20,2019-12-14,Příbram,Slovácko,1.0,4.0,0.0
+2019-2020,Regular season,20,2019-12-14,Slovan Liberec,Karviná,3.0,0.0,1.0
+2019-2020,Regular season,20,2019-12-14,Fastav Zlín,Opava,2.0,0.0,1.0
+2019-2020,Regular season,20,2019-12-14,Baník Ostrava,Sparta Prague,0.0,0.0,0.5
+2019-2020,Regular season,20,2019-12-15,Viktoria Plzeň,Teplice,1.0,1.0,0.5
+2019-2020,Regular season,20,2019-12-15,Slavia Prague,České Budĕjov.,4.0,1.0,1.0
+2019-2020,Regular season,21,2020-02-14,České Budĕjov.,Mladá Boleslav,3.0,0.0,1.0
+2019-2020,Regular season,21,2020-02-15,Slovácko,Baník Ostrava,0.0,1.0,0.0
+2019-2020,Regular season,21,2020-02-15,Karviná,Fastav Zlín,2.0,0.0,1.0
+2019-2020,Regular season,21,2020-02-15,Teplice,Sigma Olomouc,1.0,3.0,0.0
+2019-2020,Regular season,21,2020-02-15,Sparta Prague,Slovan Liberec,0.0,2.0,0.0
+2019-2020,Regular season,21,2020-02-16,Opava,Viktoria Plzeň,0.0,3.0,0.0
+2019-2020,Regular season,21,2020-02-16,Bohemians 1905,Slavia Prague,1.0,0.0,1.0
+2019-2020,Regular season,21,2020-02-17,Jablonec,Příbram,4.0,0.0,1.0
+2019-2020,Regular season,22,2020-02-22,Mladá Boleslav,Slovácko,0.0,0.0,0.5
+2019-2020,Regular season,22,2020-02-22,Slovan Liberec,Bohemians 1905,3.0,1.0,1.0
+2019-2020,Regular season,22,2020-02-22,Slavia Prague,Opava,2.0,0.0,1.0
+2019-2020,Regular season,22,2020-02-22,Viktoria Plzeň,Příbram,4.0,0.0,1.0
+2019-2020,Regular season,22,2020-02-23,Karviná,Teplice,3.0,0.0,1.0
+2019-2020,Regular season,22,2020-02-23,Fastav Zlín,České Budĕjov.,2.0,3.0,0.0
+2019-2020,Regular season,22,2020-02-23,Sigma Olomouc,Sparta Prague,1.0,0.0,1.0
+2019-2020,Regular season,22,2020-02-24,Baník Ostrava,Jablonec,1.0,1.0,0.5
+2019-2020,Regular season,23,2020-02-28,České Budĕjov.,Baník Ostrava,0.0,2.0,0.0
+2019-2020,Regular season,23,2020-02-29,Příbram,Mladá Boleslav,0.0,0.0,0.5
+2019-2020,Regular season,23,2020-02-29,Jablonec,Viktoria Plzeň,1.0,2.0,0.0
+2019-2020,Regular season,23,2020-02-29,Opava,Sigma Olomouc,2.0,1.0,1.0
+2019-2020,Regular season,23,2020-02-29,Sparta Prague,Fastav Zlín,2.0,2.0,0.5
+2019-2020,Regular season,23,2020-03-01,Slovácko,Slavia Prague,2.0,0.0,1.0
+2019-2020,Regular season,23,2020-03-01,Bohemians 1905,Karviná,0.0,0.0,0.5
+2019-2020,Regular season,24,2020-03-07,Fastav Zlín,Bohemians 1905,2.0,3.0,0.0
+2019-2020,Regular season,24,2020-03-07,Sigma Olomouc,Jablonec,1.0,1.0,0.5
+2019-2020,Regular season,24,2020-03-07,Viktoria Plzeň,České Budĕjov.,1.0,0.0,1.0
+2019-2020,Regular season,24,2020-03-08,Slovan Liberec,Opava,4.0,0.0,1.0
+2019-2020,Regular season,24,2020-03-08,Karviná,Příbram,2.0,0.0,1.0
+2019-2020,Regular season,24,2020-03-08,Teplice,Slovácko,0.0,0.0,0.5
+2019-2020,Regular season,24,2020-03-08,Slavia Prague,Sparta Prague,1.0,1.0,0.5
+2019-2020,Regular season,24,2020-03-09,Baník Ostrava,Mladá Boleslav,2.0,3.0,0.0
+2019-2020,Regular season,23,2020-05-23,Teplice,Slovan Liberec,2.0,0.0,1.0
+2019-2020,Regular season,25,2020-05-26,Jablonec,Fastav Zlín,1.0,0.0,1.0
+2019-2020,Regular season,25,2020-05-26,Slovácko,Sigma Olomouc,0.0,0.0,0.5
+2019-2020,Regular season,25,2020-05-26,Příbram,Baník Ostrava,0.0,0.0,0.5
+2019-2020,Regular season,25,2020-05-26,Mladá Boleslav,Slavia Prague,0.0,1.0,0.0
+2019-2020,Regular season,25,2020-05-27,Bohemians 1905,Teplice,4.0,0.0,1.0
+2019-2020,Regular season,25,2020-05-27,České Budĕjov.,Slovan Liberec,0.0,1.0,0.0
+2019-2020,Regular season,25,2020-05-27,Opava,Karviná,0.0,0.0,0.5
+2019-2020,Regular season,25,2020-05-27,Sparta Prague,Viktoria Plzeň,1.0,2.0,0.0
+2019-2020,Regular season,26,2020-05-30,Sigma Olomouc,Příbram,1.0,2.0,0.0
+2019-2020,Regular season,26,2020-05-30,Fastav Zlín,Baník Ostrava,1.0,1.0,0.5
+2019-2020,Regular season,26,2020-05-30,Slovan Liberec,Slovácko,3.0,1.0,1.0
+2019-2020,Regular season,26,2020-05-30,Viktoria Plzeň,Mladá Boleslav,7.0,1.0,1.0
+2019-2020,Regular season,26,2020-05-30,Slavia Prague,Jablonec,5.0,0.0,1.0
+2019-2020,Regular season,26,2020-05-31,Teplice,Opava,2.0,2.0,0.5
+2019-2020,Regular season,26,2020-05-31,Bohemians 1905,České Budĕjov.,3.0,2.0,1.0
+2019-2020,Regular season,26,2020-05-31,Karviná,Sparta Prague,1.0,4.0,0.0
+2019-2020,Regular season,27,2020-06-02,Mladá Boleslav,Fastav Zlín,1.0,1.0,0.5
+2019-2020,Regular season,27,2020-06-02,Jablonec,Slovan Liberec,0.0,1.0,0.0
+2019-2020,Regular season,27,2020-06-02,Příbram,Slavia Prague,0.0,1.0,0.0
+2019-2020,Regular season,27,2020-06-03,České Budĕjov.,Sigma Olomouc,2.0,0.0,1.0
+2019-2020,Regular season,27,2020-06-03,Slovácko,Karviná,2.0,0.0,1.0
+2019-2020,Regular season,27,2020-06-03,Opava,Bohemians 1905,0.0,1.0,0.0
+2019-2020,Regular season,27,2020-06-03,Baník Ostrava,Viktoria Plzeň,0.0,2.0,0.0
+2019-2020,Regular season,27,2020-06-03,Sparta Prague,Teplice,3.0,0.0,1.0
+2019-2020,Regular season,28,2020-06-06,Fastav Zlín,Příbram,1.0,0.0,1.0
+2019-2020,Regular season,28,2020-06-06,Slovan Liberec,Mladá Boleslav,2.0,2.0,0.5
+2019-2020,Regular season,28,2020-06-06,Bohemians 1905,Sparta Prague,0.0,1.0,0.0
+2019-2020,Regular season,28,2020-06-07,Opava,Slovácko,1.0,1.0,0.5
+2019-2020,Regular season,28,2020-06-07,Karviná,České Budĕjov.,0.0,0.0,0.5
+2019-2020,Regular season,28,2020-06-07,Sigma Olomouc,Baník Ostrava,2.0,3.0,0.0
+2019-2020,Regular season,28,2020-06-07,Teplice,Jablonec,1.0,2.0,0.0
+2019-2020,Regular season,28,2020-06-07,Slavia Prague,Viktoria Plzeň,0.0,0.0,0.5
+2019-2020,Regular season,29,2020-06-10,České Budĕjov.,Teplice,3.0,1.0,1.0
+2019-2020,Regular season,29,2020-06-10,Slovácko,Bohemians 1905,1.0,2.0,0.0
+2019-2020,Regular season,29,2020-06-10,Jablonec,Karviná,1.0,0.0,1.0
+2019-2020,Regular season,29,2020-06-10,Sparta Prague,Opava,2.0,0.0,1.0
+2019-2020,Regular season,29,2020-06-10,Mladá Boleslav,Sigma Olomouc,0.0,2.0,0.0
+2019-2020,Regular season,29,2020-06-10,Příbram,Slovan Liberec,2.0,1.0,1.0
+2019-2020,Regular season,29,2020-06-10,Viktoria Plzeň,Fastav Zlín,3.0,0.0,1.0
+2019-2020,Regular season,29,2020-06-10,Baník Ostrava,Slavia Prague,2.0,2.0,0.5
+2019-2020,Regular season,30,2020-06-14,Slavia Prague,Fastav Zlín,1.0,0.0,1.0
+2019-2020,Regular season,30,2020-06-14,Opava,České Budĕjov.,2.0,0.0,1.0
+2019-2020,Regular season,30,2020-06-14,Teplice,Příbram,4.0,0.0,1.0
+2019-2020,Regular season,30,2020-06-14,Karviná,Mladá Boleslav,2.0,2.0,0.5
+2019-2020,Regular season,30,2020-06-14,Slovácko,Sparta Prague,0.0,2.0,0.0
+2019-2020,Regular season,30,2020-06-14,Slovan Liberec,Baník Ostrava,0.0,0.0,0.5
+2019-2020,Regular season,30,2020-06-14,Bohemians 1905,Jablonec,3.0,0.0,1.0
+2019-2020,Regular season,30,2020-06-14,Sigma Olomouc,Viktoria Plzeň,0.0,1.0,0.0
+2019-2020,Relegation round,1,2020-06-20,Fastav Zlín,Opava,3.0,1.0,1.0
+2019-2020,Relegation round,1,2020-06-20,Příbram,Sigma Olomouc,2.0,0.0,1.0
+2019-2020,Relegation round,1,2020-06-20,Teplice,Karviná,4.0,1.0,1.0
+2019-2020,Championship round,1,2020-06-20,Sparta Prague,Slovan Liberec,4.0,1.0,1.0
+2019-2020,Championship round,1,2020-06-20,Baník Ostrava,Slavia Prague,1.0,3.0,0.0
+2019-2020,First round,,2020-06-21,Slovácko,Bohemians 1905,1.0,2.0,0.0
+2019-2020,First round,,2020-06-21,Mladá Boleslav,České Budĕjov.,2.0,1.0,1.0
+2019-2020,Championship round,1,2020-06-21,Viktoria Plzeň,Jablonec,2.0,0.0,1.0
+2019-2020,Relegation round,2,2020-06-23,Fastav Zlín,Příbram,1.0,0.0,1.0
+2019-2020,Relegation round,2,2020-06-23,Sigma Olomouc,Teplice,0.0,0.0,0.5
+2019-2020,Relegation round,2,2020-06-23,Karviná,Opava,0.0,0.0,0.5
+2019-2020,Championship round,2,2020-06-23,Sparta Prague,Baník Ostrava,3.0,2.0,1.0
+2019-2020,Championship round,2,2020-06-24,Jablonec,Slovan Liberec,1.0,1.0,0.5
+2019-2020,Championship round,2,2020-06-24,Slavia Prague,Viktoria Plzeň,1.0,0.0,1.0
+2019-2020,First round,,2020-06-27,České Budĕjov.,Mladá Boleslav,0.0,2.0,0.0
+2019-2020,First round,,2020-06-27,Bohemians 1905,Slovácko,2.0,1.0,1.0
+2019-2020,Championship round,3,2020-06-27,Slovan Liberec,Baník Ostrava,2.0,1.0,1.0
+2019-2020,Relegation round,3,2020-06-28,Teplice,Fastav Zlín,4.0,1.0,1.0
+2019-2020,Relegation round,3,2020-06-28,Opava,Příbram,0.0,0.0,0.5
+2019-2020,Relegation round,3,2020-06-28,Sigma Olomouc,Karviná,3.0,1.0,1.0
+2019-2020,Championship round,3,2020-06-28,Viktoria Plzeň,Sparta Prague,2.0,1.0,1.0
+2019-2020,Championship round,3,2020-06-28,Slavia Prague,Jablonec,4.0,0.0,1.0
+2019-2020,Second round,,2020-07-04,Mladá Boleslav,Bohemians 1905,3.0,0.0,1.0
+2019-2020,Championship round,4,2020-07-05,Slovan Liberec,Slavia Prague,1.0,3.0,0.0
+2019-2020,Championship round,4,2020-07-05,Sparta Prague,Jablonec,3.0,0.0,1.0
+2019-2020,Championship round,4,2020-07-05,Baník Ostrava,Viktoria Plzeň,0.0,0.0,0.5
+2019-2020,Second round,,2020-07-07,Bohemians 1905,Mladá Boleslav,2.0,1.0,1.0
+2019-2020,Championship round,5,2020-07-08,Slavia Prague,Sparta Prague,0.0,0.0,0.5
+2019-2020,Championship round,5,2020-07-08,Viktoria Plzeň,Slovan Liberec,4.0,0.0,1.0
+2019-2020,Championship round,5,2020-07-08,Jablonec,Baník Ostrava,1.0,1.0,0.5
+2019-2020,Final,,2020-07-12,Slovan Liberec,Mladá Boleslav,2.0,0.0,1.0
+2019-2020,Relegation round,4,2020-07-23,Fastav Zlín,Karviná,,,
+2019-2020,Relegation round,4,2020-07-23,Opava,Sigma Olomouc,,,
+2019-2020,Relegation round,4,2020-07-23,Příbram,Teplice,,,
+2019-2020,Relegation round,5,2020-07-26,Karviná,Příbram,,,
+2019-2020,Relegation round,5,2020-07-26,Sigma Olomouc,Fastav Zlín,,,
+2019-2020,Relegation round,5,2020-07-26,Teplice,Opava,,,

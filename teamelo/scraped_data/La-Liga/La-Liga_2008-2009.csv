@@ -1,381 +1,381 @@
 Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
-2008-2009,1,2008-08-30,Espanyol,Valladolid,1,0,0.0
-2008-2009,1,2008-08-30,Valencia,Mallorca,3,0,0.0
-2008-2009,1,2008-08-31,Numancia,Barcelona,1,0,0.0
-2008-2009,1,2008-08-31,Athletic Club,Almería,1,3,1.0
-2008-2009,1,2008-08-31,Sporting Gijón,Getafe,1,2,1.0
-2008-2009,1,2008-08-31,La Coruña,Real Madrid,2,1,0.0
+2008-2009,1,2008-08-30,Espanyol,Valladolid,1,0,1.0
+2008-2009,1,2008-08-30,Valencia,Mallorca,3,0,1.0
+2008-2009,1,2008-08-31,Numancia,Barcelona,1,0,1.0
+2008-2009,1,2008-08-31,Athletic Club,Almería,1,3,0.0
+2008-2009,1,2008-08-31,Sporting Gijón,Getafe,1,2,0.0
+2008-2009,1,2008-08-31,La Coruña,Real Madrid,2,1,1.0
 2008-2009,1,2008-08-31,Osasuna,Villarreal,1,1,0.5
-2008-2009,1,2008-08-31,Atlético Madrid,Málaga,4,0,0.0
+2008-2009,1,2008-08-31,Atlético Madrid,Málaga,4,0,1.0
 2008-2009,1,2008-08-31,Racing Sant,Sevilla,1,1,0.5
-2008-2009,1,2008-08-31,Betis,Recreativo,0,1,1.0
-2008-2009,2,2008-09-13,Sevilla,Sporting Gijón,4,3,0.0
+2008-2009,1,2008-08-31,Betis,Recreativo,0,1,0.0
+2008-2009,2,2008-09-13,Sevilla,Sporting Gijón,4,3,1.0
 2008-2009,2,2008-09-13,Barcelona,Racing Sant,1,1,0.5
-2008-2009,2,2008-09-13,Valladolid,Atlético Madrid,2,1,0.0
-2008-2009,2,2008-09-14,Recreativo,Espanyol,0,1,1.0
+2008-2009,2,2008-09-13,Valladolid,Atlético Madrid,2,1,1.0
+2008-2009,2,2008-09-14,Recreativo,Espanyol,0,1,0.0
 2008-2009,2,2008-09-14,Mallorca,Osasuna,1,1,0.5
-2008-2009,2,2008-09-14,Villarreal,La Coruña,1,0,0.0
+2008-2009,2,2008-09-14,Villarreal,La Coruña,1,0,1.0
 2008-2009,2,2008-09-14,Almería,Valencia,2,2,0.5
-2008-2009,2,2008-09-14,Real Madrid,Numancia,4,3,0.0
+2008-2009,2,2008-09-14,Real Madrid,Numancia,4,3,1.0
 2008-2009,2,2008-09-14,Málaga,Athletic Club,0,0,0.5
 2008-2009,2,2008-09-14,Getafe,Betis,0,0,0.5
 2008-2009,3,2008-09-20,Espanyol,Getafe,1,1,0.5
-2008-2009,3,2008-09-20,Atlético Madrid,Recreativo,4,0,0.0
-2008-2009,3,2008-09-21,Valencia,Osasuna,1,0,0.0
-2008-2009,3,2008-09-21,Sporting Gijón,Barcelona,1,6,1.0
-2008-2009,3,2008-09-21,Athletic Club,Valladolid,2,0,0.0
-2008-2009,3,2008-09-21,Almería,Málaga,1,0,0.0
-2008-2009,3,2008-09-21,Racing Sant,Real Madrid,0,2,1.0
+2008-2009,3,2008-09-20,Atlético Madrid,Recreativo,4,0,1.0
+2008-2009,3,2008-09-21,Valencia,Osasuna,1,0,1.0
+2008-2009,3,2008-09-21,Sporting Gijón,Barcelona,1,6,0.0
+2008-2009,3,2008-09-21,Athletic Club,Valladolid,2,0,1.0
+2008-2009,3,2008-09-21,Almería,Málaga,1,0,1.0
+2008-2009,3,2008-09-21,Racing Sant,Real Madrid,0,2,0.0
 2008-2009,3,2008-09-21,Betis,Sevilla,0,0,0.5
-2008-2009,3,2008-09-21,Numancia,Villarreal,1,2,1.0
+2008-2009,3,2008-09-21,Numancia,Villarreal,1,2,0.0
 2008-2009,3,2008-09-21,La Coruña,Mallorca,0,0,0.5
-2008-2009,4,2008-09-24,Getafe,Atlético Madrid,1,2,1.0
+2008-2009,4,2008-09-24,Getafe,Atlético Madrid,1,2,0.0
 2008-2009,4,2008-09-24,Osasuna,La Coruña,0,0,0.5
-2008-2009,4,2008-09-24,Sevilla,Espanyol,2,0,0.0
-2008-2009,4,2008-09-24,Barcelona,Betis,3,2,0.0
-2008-2009,4,2008-09-24,Real Madrid,Sporting Gijón,7,1,0.0
-2008-2009,4,2008-09-24,Villarreal,Racing Sant,2,0,0.0
-2008-2009,4,2008-09-25,Mallorca,Numancia,2,0,0.0
-2008-2009,4,2008-09-25,Málaga,Valencia,0,2,1.0
-2008-2009,4,2008-09-25,Valladolid,Almería,2,0,0.0
+2008-2009,4,2008-09-24,Sevilla,Espanyol,2,0,1.0
+2008-2009,4,2008-09-24,Barcelona,Betis,3,2,1.0
+2008-2009,4,2008-09-24,Real Madrid,Sporting Gijón,7,1,1.0
+2008-2009,4,2008-09-24,Villarreal,Racing Sant,2,0,1.0
+2008-2009,4,2008-09-25,Mallorca,Numancia,2,0,1.0
+2008-2009,4,2008-09-25,Málaga,Valencia,0,2,0.0
+2008-2009,4,2008-09-25,Valladolid,Almería,2,0,1.0
 2008-2009,4,2008-09-25,Recreativo,Athletic Club,1,1,0.5
-2008-2009,5,2008-09-27,Sporting Gijón,Villarreal,0,1,1.0
-2008-2009,5,2008-09-27,Betis,Real Madrid,1,2,1.0
-2008-2009,5,2008-09-27,Espanyol,Barcelona,1,2,1.0
-2008-2009,5,2008-09-28,Valencia,La Coruña,4,2,0.0
-2008-2009,5,2008-09-28,Málaga,Valladolid,2,1,0.0
-2008-2009,5,2008-09-28,Racing Sant,Mallorca,1,2,1.0
-2008-2009,5,2008-09-28,Athletic Club,Getafe,0,1,1.0
-2008-2009,5,2008-09-28,Atlético Madrid,Sevilla,0,1,1.0
+2008-2009,5,2008-09-27,Sporting Gijón,Villarreal,0,1,0.0
+2008-2009,5,2008-09-27,Betis,Real Madrid,1,2,0.0
+2008-2009,5,2008-09-27,Espanyol,Barcelona,1,2,0.0
+2008-2009,5,2008-09-28,Valencia,La Coruña,4,2,1.0
+2008-2009,5,2008-09-28,Málaga,Valladolid,2,1,1.0
+2008-2009,5,2008-09-28,Racing Sant,Mallorca,1,2,0.0
+2008-2009,5,2008-09-28,Athletic Club,Getafe,0,1,0.0
+2008-2009,5,2008-09-28,Atlético Madrid,Sevilla,0,1,0.0
 2008-2009,5,2008-09-28,Numancia,Osasuna,0,0,0.5
-2008-2009,5,2008-09-28,Almería,Recreativo,1,0,0.0
-2008-2009,6,2008-10-04,Villarreal,Betis,2,1,0.0
-2008-2009,6,2008-10-04,Barcelona,Atlético Madrid,6,1,0.0
-2008-2009,6,2008-10-05,Valladolid,Valencia,0,1,1.0
+2008-2009,5,2008-09-28,Almería,Recreativo,1,0,1.0
+2008-2009,6,2008-10-04,Villarreal,Betis,2,1,1.0
+2008-2009,6,2008-10-04,Barcelona,Atlético Madrid,6,1,1.0
+2008-2009,6,2008-10-05,Valladolid,Valencia,0,1,0.0
 2008-2009,6,2008-10-05,Real Madrid,Espanyol,2,2,0.5
-2008-2009,6,2008-10-05,Recreativo,Málaga,0,4,1.0
-2008-2009,6,2008-10-05,Mallorca,Sporting Gijón,0,2,1.0
+2008-2009,6,2008-10-05,Recreativo,Málaga,0,4,0.0
+2008-2009,6,2008-10-05,Mallorca,Sporting Gijón,0,2,0.0
 2008-2009,6,2008-10-05,Getafe,Almería,2,2,0.5
-2008-2009,6,2008-10-05,La Coruña,Numancia,1,0,0.0
-2008-2009,6,2008-10-05,Osasuna,Racing Sant,0,1,1.0
-2008-2009,6,2008-10-05,Sevilla,Athletic Club,4,0,0.0
+2008-2009,6,2008-10-05,La Coruña,Numancia,1,0,1.0
+2008-2009,6,2008-10-05,Osasuna,Racing Sant,0,1,0.0
+2008-2009,6,2008-10-05,Sevilla,Athletic Club,4,0,1.0
 2008-2009,7,2008-10-18,Espanyol,Villarreal,0,0,0.5
-2008-2009,7,2008-10-18,Atlético Madrid,Real Madrid,1,2,1.0
+2008-2009,7,2008-10-18,Atlético Madrid,Real Madrid,1,2,0.0
 2008-2009,7,2008-10-19,Valladolid,Recreativo,1,1,0.5
-2008-2009,7,2008-10-19,Athletic Club,Barcelona,0,1,1.0
-2008-2009,7,2008-10-19,Málaga,Getafe,2,1,0.0
-2008-2009,7,2008-10-19,Sporting Gijón,Osasuna,2,1,0.0
-2008-2009,7,2008-10-19,Betis,Mallorca,3,0,0.0
-2008-2009,7,2008-10-19,Valencia,Numancia,4,0,0.0
-2008-2009,7,2008-10-19,Almería,Sevilla,0,1,1.0
+2008-2009,7,2008-10-19,Athletic Club,Barcelona,0,1,0.0
+2008-2009,7,2008-10-19,Málaga,Getafe,2,1,1.0
+2008-2009,7,2008-10-19,Sporting Gijón,Osasuna,2,1,1.0
+2008-2009,7,2008-10-19,Betis,Mallorca,3,0,1.0
+2008-2009,7,2008-10-19,Valencia,Numancia,4,0,1.0
+2008-2009,7,2008-10-19,Almería,Sevilla,0,1,0.0
 2008-2009,7,2008-10-19,Racing Sant,La Coruña,0,0,0.5
-2008-2009,8,2008-10-25,Osasuna,Betis,0,2,1.0
-2008-2009,8,2008-10-25,Barcelona,Almería,5,0,0.0
-2008-2009,8,2008-10-26,Numancia,Racing Sant,2,1,0.0
-2008-2009,8,2008-10-26,Getafe,Valladolid,1,0,0.0
-2008-2009,8,2008-10-26,Real Madrid,Athletic Club,3,2,0.0
-2008-2009,8,2008-10-26,Sevilla,Málaga,0,1,1.0
-2008-2009,8,2008-10-26,Mallorca,Espanyol,3,0,0.0
-2008-2009,8,2008-10-26,La Coruña,Sporting Gijón,0,3,1.0
+2008-2009,8,2008-10-25,Osasuna,Betis,0,2,0.0
+2008-2009,8,2008-10-25,Barcelona,Almería,5,0,1.0
+2008-2009,8,2008-10-26,Numancia,Racing Sant,2,1,1.0
+2008-2009,8,2008-10-26,Getafe,Valladolid,1,0,1.0
+2008-2009,8,2008-10-26,Real Madrid,Athletic Club,3,2,1.0
+2008-2009,8,2008-10-26,Sevilla,Málaga,0,1,0.0
+2008-2009,8,2008-10-26,Mallorca,Espanyol,3,0,1.0
+2008-2009,8,2008-10-26,La Coruña,Sporting Gijón,0,3,0.0
 2008-2009,8,2008-10-26,Villarreal,Atlético Madrid,4,4,0.5
 2008-2009,8,2008-10-26,Recreativo,Valencia,1,1,0.5
-2008-2009,9,2008-11-01,Atlético Madrid,Mallorca,2,0,0.0
-2008-2009,9,2008-11-01,Málaga,Barcelona,1,4,1.0
-2008-2009,9,2008-11-01,Athletic Club,Villarreal,1,4,1.0
-2008-2009,9,2008-11-01,Valencia,Racing Sant,2,4,1.0
-2008-2009,9,2008-11-02,Espanyol,Osasuna,1,0,0.0
-2008-2009,9,2008-11-02,Betis,La Coruña,0,3,1.0
-2008-2009,9,2008-11-02,Sporting Gijón,Numancia,3,1,0.0
+2008-2009,9,2008-11-01,Atlético Madrid,Mallorca,2,0,1.0
+2008-2009,9,2008-11-01,Málaga,Barcelona,1,4,0.0
+2008-2009,9,2008-11-01,Athletic Club,Villarreal,1,4,0.0
+2008-2009,9,2008-11-01,Valencia,Racing Sant,2,4,0.0
+2008-2009,9,2008-11-02,Espanyol,Osasuna,1,0,1.0
+2008-2009,9,2008-11-02,Betis,La Coruña,0,3,0.0
+2008-2009,9,2008-11-02,Sporting Gijón,Numancia,3,1,1.0
 2008-2009,9,2008-11-02,Recreativo,Getafe,1,1,0.5
-2008-2009,9,2008-11-02,Valladolid,Sevilla,3,2,0.0
+2008-2009,9,2008-11-02,Valladolid,Sevilla,3,2,1.0
 2008-2009,9,2008-11-02,Almería,Real Madrid,1,1,0.5
-2008-2009,10,2008-11-08,Real Madrid,Málaga,4,3,0.0
-2008-2009,10,2008-11-08,Barcelona,Valladolid,6,0,0.0
-2008-2009,10,2008-11-09,Villarreal,Almería,2,1,0.0
-2008-2009,10,2008-11-09,Racing Sant,Sporting Gijón,1,0,0.0
+2008-2009,10,2008-11-08,Real Madrid,Málaga,4,3,1.0
+2008-2009,10,2008-11-08,Barcelona,Valladolid,6,0,1.0
+2008-2009,10,2008-11-09,Villarreal,Almería,2,1,1.0
+2008-2009,10,2008-11-09,Racing Sant,Sporting Gijón,1,0,1.0
 2008-2009,10,2008-11-09,Osasuna,Atlético Madrid,0,0,0.5
-2008-2009,10,2008-11-09,Sevilla,Recreativo,1,0,0.0
-2008-2009,10,2008-11-09,Getafe,Valencia,0,3,1.0
-2008-2009,10,2008-11-09,Numancia,Betis,2,4,1.0
-2008-2009,10,2008-11-09,La Coruña,Espanyol,1,0,0.0
+2008-2009,10,2008-11-09,Sevilla,Recreativo,1,0,1.0
+2008-2009,10,2008-11-09,Getafe,Valencia,0,3,0.0
+2008-2009,10,2008-11-09,Numancia,Betis,2,4,0.0
+2008-2009,10,2008-11-09,La Coruña,Espanyol,1,0,1.0
 2008-2009,10,2008-11-09,Mallorca,Athletic Club,3,3,0.5
-2008-2009,11,2008-11-15,Valladolid,Real Madrid,1,0,0.0
-2008-2009,11,2008-11-15,Valencia,Sporting Gijón,2,3,1.0
-2008-2009,11,2008-11-16,Almería,Mallorca,2,1,0.0
-2008-2009,11,2008-11-16,Getafe,Sevilla,0,2,1.0
-2008-2009,11,2008-11-16,Betis,Racing Sant,3,1,0.0
+2008-2009,11,2008-11-15,Valladolid,Real Madrid,1,0,1.0
+2008-2009,11,2008-11-15,Valencia,Sporting Gijón,2,3,0.0
+2008-2009,11,2008-11-16,Almería,Mallorca,2,1,1.0
+2008-2009,11,2008-11-16,Getafe,Sevilla,0,2,0.0
+2008-2009,11,2008-11-16,Betis,Racing Sant,3,1,1.0
 2008-2009,11,2008-11-16,Málaga,Villarreal,2,2,0.5
-2008-2009,11,2008-11-16,Espanyol,Numancia,3,4,1.0
-2008-2009,11,2008-11-16,Athletic Club,Osasuna,2,0,0.0
-2008-2009,11,2008-11-16,Recreativo,Barcelona,0,2,1.0
-2008-2009,11,2008-11-16,Atlético Madrid,La Coruña,4,1,0.0
+2008-2009,11,2008-11-16,Espanyol,Numancia,3,4,0.0
+2008-2009,11,2008-11-16,Athletic Club,Osasuna,2,0,1.0
+2008-2009,11,2008-11-16,Recreativo,Barcelona,0,2,0.0
+2008-2009,11,2008-11-16,Atlético Madrid,La Coruña,4,1,1.0
 2008-2009,12,2008-11-22,Sevilla,Valencia,0,0,0.5
-2008-2009,12,2008-11-22,Real Madrid,Recreativo,1,0,0.0
-2008-2009,12,2008-11-22,Villarreal,Valladolid,0,3,1.0
+2008-2009,12,2008-11-22,Real Madrid,Recreativo,1,0,1.0
+2008-2009,12,2008-11-22,Villarreal,Valladolid,0,3,0.0
 2008-2009,12,2008-11-23,Barcelona,Getafe,1,1,0.5
 2008-2009,12,2008-11-23,Mallorca,Málaga,2,2,0.5
-2008-2009,12,2008-11-23,Sporting Gijón,Betis,1,2,1.0
-2008-2009,12,2008-11-23,Racing Sant,Espanyol,3,0,0.0
-2008-2009,12,2008-11-23,La Coruña,Athletic Club,3,1,0.0
+2008-2009,12,2008-11-23,Sporting Gijón,Betis,1,2,0.0
+2008-2009,12,2008-11-23,Racing Sant,Espanyol,3,0,1.0
+2008-2009,12,2008-11-23,La Coruña,Athletic Club,3,1,1.0
 2008-2009,12,2008-11-23,Numancia,Atlético Madrid,1,1,0.5
-2008-2009,12,2008-11-23,Osasuna,Almería,3,1,0.0
-2008-2009,13,2008-11-29,Sevilla,Barcelona,0,3,1.0
-2008-2009,13,2008-11-29,Getafe,Real Madrid,3,1,0.0
-2008-2009,13,2008-11-30,Athletic Club,Numancia,2,0,0.0
-2008-2009,13,2008-11-30,Málaga,Osasuna,4,2,0.0
-2008-2009,13,2008-11-30,Almería,La Coruña,0,1,1.0
-2008-2009,13,2008-11-30,Recreativo,Villarreal,1,2,1.0
-2008-2009,13,2008-11-30,Valladolid,Mallorca,3,0,0.0
-2008-2009,13,2008-11-30,Atlético Madrid,Racing Sant,4,1,0.0
-2008-2009,13,2008-11-30,Valencia,Betis,3,2,0.0
-2008-2009,13,2008-11-30,Espanyol,Sporting Gijón,0,1,1.0
+2008-2009,12,2008-11-23,Osasuna,Almería,3,1,1.0
+2008-2009,13,2008-11-29,Sevilla,Barcelona,0,3,0.0
+2008-2009,13,2008-11-29,Getafe,Real Madrid,3,1,1.0
+2008-2009,13,2008-11-30,Athletic Club,Numancia,2,0,1.0
+2008-2009,13,2008-11-30,Málaga,Osasuna,4,2,1.0
+2008-2009,13,2008-11-30,Almería,La Coruña,0,1,0.0
+2008-2009,13,2008-11-30,Recreativo,Villarreal,1,2,0.0
+2008-2009,13,2008-11-30,Valladolid,Mallorca,3,0,1.0
+2008-2009,13,2008-11-30,Atlético Madrid,Racing Sant,4,1,1.0
+2008-2009,13,2008-11-30,Valencia,Betis,3,2,1.0
+2008-2009,13,2008-11-30,Espanyol,Sporting Gijón,0,1,0.0
 2008-2009,14,2008-12-06,Villarreal,Getafe,3,3,0.5
-2008-2009,14,2008-12-06,Barcelona,Valencia,4,0,0.0
-2008-2009,14,2008-12-06,Sporting Gijón,Atlético Madrid,2,5,1.0
-2008-2009,14,2008-12-07,La Coruña,Málaga,2,0,0.0
+2008-2009,14,2008-12-06,Barcelona,Valencia,4,0,1.0
+2008-2009,14,2008-12-06,Sporting Gijón,Atlético Madrid,2,5,0.0
+2008-2009,14,2008-12-07,La Coruña,Málaga,2,0,1.0
 2008-2009,14,2008-12-07,Betis,Espanyol,1,1,0.5
-2008-2009,14,2008-12-07,Real Madrid,Sevilla,3,4,1.0
+2008-2009,14,2008-12-07,Real Madrid,Sevilla,3,4,0.0
 2008-2009,14,2008-12-07,Osasuna,Valladolid,3,3,0.5
-2008-2009,14,2008-12-07,Mallorca,Recreativo,2,3,1.0
-2008-2009,14,2008-12-07,Numancia,Almería,2,1,0.0
+2008-2009,14,2008-12-07,Mallorca,Recreativo,2,3,0.0
+2008-2009,14,2008-12-07,Numancia,Almería,2,1,1.0
 2008-2009,14,2008-12-07,Racing Sant,Athletic Club,1,1,0.5
-2008-2009,15,2008-12-13,Barcelona,Real Madrid,2,0,0.0
-2008-2009,15,2008-12-13,Valencia,Espanyol,2,1,0.0
+2008-2009,15,2008-12-13,Barcelona,Real Madrid,2,0,1.0
+2008-2009,15,2008-12-13,Valencia,Espanyol,2,1,1.0
 2008-2009,15,2008-12-14,Almería,Racing Sant,1,1,0.5
-2008-2009,15,2008-12-14,Recreativo,Osasuna,1,0,0.0
-2008-2009,15,2008-12-14,Athletic Club,Sporting Gijón,3,0,0.0
-2008-2009,15,2008-12-14,Valladolid,La Coruña,3,0,0.0
-2008-2009,15,2008-12-14,Málaga,Numancia,2,0,0.0
-2008-2009,15,2008-12-14,Getafe,Mallorca,4,1,0.0
-2008-2009,15,2008-12-14,Atlético Madrid,Betis,2,0,0.0
-2008-2009,15,2008-12-14,Sevilla,Villarreal,1,0,0.0
-2008-2009,16,2008-12-20,Real Madrid,Valencia,1,0,0.0
-2008-2009,16,2008-12-20,Espanyol,Atlético Madrid,2,3,1.0
+2008-2009,15,2008-12-14,Recreativo,Osasuna,1,0,1.0
+2008-2009,15,2008-12-14,Athletic Club,Sporting Gijón,3,0,1.0
+2008-2009,15,2008-12-14,Valladolid,La Coruña,3,0,1.0
+2008-2009,15,2008-12-14,Málaga,Numancia,2,0,1.0
+2008-2009,15,2008-12-14,Getafe,Mallorca,4,1,1.0
+2008-2009,15,2008-12-14,Atlético Madrid,Betis,2,0,1.0
+2008-2009,15,2008-12-14,Sevilla,Villarreal,1,0,1.0
+2008-2009,16,2008-12-20,Real Madrid,Valencia,1,0,1.0
+2008-2009,16,2008-12-20,Espanyol,Atlético Madrid,2,3,0.0
 2008-2009,16,2008-12-21,Mallorca,Sevilla,0,0,0.5
-2008-2009,16,2008-12-21,Numancia,Valladolid,4,3,0.0
-2008-2009,16,2008-12-21,Osasuna,Getafe,5,2,0.0
-2008-2009,16,2008-12-21,Sporting Gijón,Almería,1,0,0.0
-2008-2009,16,2008-12-21,Betis,Athletic Club,0,1,1.0
-2008-2009,16,2008-12-21,Villarreal,Barcelona,1,2,1.0
-2008-2009,16,2008-12-21,La Coruña,Recreativo,4,1,0.0
+2008-2009,16,2008-12-21,Numancia,Valladolid,4,3,1.0
+2008-2009,16,2008-12-21,Osasuna,Getafe,5,2,1.0
+2008-2009,16,2008-12-21,Sporting Gijón,Almería,1,0,1.0
+2008-2009,16,2008-12-21,Betis,Athletic Club,0,1,0.0
+2008-2009,16,2008-12-21,Villarreal,Barcelona,1,2,0.0
+2008-2009,16,2008-12-21,La Coruña,Recreativo,4,1,1.0
 2008-2009,16,2008-12-21,Racing Sant,Málaga,1,1,0.5
-2008-2009,17,2009-01-03,Barcelona,Mallorca,3,1,0.0
-2008-2009,17,2009-01-03,Valencia,Atlético Madrid,3,1,0.0
-2008-2009,17,2009-01-04,Almería,Betis,1,0,0.0
-2008-2009,17,2009-01-04,Málaga,Sporting Gijón,1,0,0.0
+2008-2009,17,2009-01-03,Barcelona,Mallorca,3,1,1.0
+2008-2009,17,2009-01-03,Valencia,Atlético Madrid,3,1,1.0
+2008-2009,17,2009-01-04,Almería,Betis,1,0,1.0
+2008-2009,17,2009-01-04,Málaga,Sporting Gijón,1,0,1.0
 2008-2009,17,2009-01-04,Sevilla,Osasuna,1,1,0.5
-2008-2009,17,2009-01-04,Real Madrid,Villarreal,1,0,0.0
+2008-2009,17,2009-01-04,Real Madrid,Villarreal,1,0,1.0
 2008-2009,17,2009-01-04,Athletic Club,Espanyol,1,1,0.5
-2008-2009,17,2009-01-04,Recreativo,Numancia,3,1,0.0
-2008-2009,17,2009-01-04,Valladolid,Racing Sant,0,1,1.0
-2008-2009,17,2009-01-04,Getafe,La Coruña,1,2,1.0
-2008-2009,18,2009-01-10,La Coruña,Sevilla,1,3,1.0
+2008-2009,17,2009-01-04,Recreativo,Numancia,3,1,1.0
+2008-2009,17,2009-01-04,Valladolid,Racing Sant,0,1,0.0
+2008-2009,17,2009-01-04,Getafe,La Coruña,1,2,0.0
+2008-2009,18,2009-01-10,La Coruña,Sevilla,1,3,0.0
 2008-2009,18,2009-01-10,Valencia,Villarreal,3,3,0.5
-2008-2009,18,2009-01-11,Sporting Gijón,Valladolid,2,1,0.0
-2008-2009,18,2009-01-11,Osasuna,Barcelona,2,3,1.0
-2008-2009,18,2009-01-11,Betis,Málaga,1,2,1.0
+2008-2009,18,2009-01-11,Sporting Gijón,Valladolid,2,1,1.0
+2008-2009,18,2009-01-11,Osasuna,Barcelona,2,3,0.0
+2008-2009,18,2009-01-11,Betis,Málaga,1,2,0.0
 2008-2009,18,2009-01-11,Racing Sant,Recreativo,1,1,0.5
-2008-2009,18,2009-01-11,Numancia,Getafe,2,0,0.0
-2008-2009,18,2009-01-11,Mallorca,Real Madrid,0,3,1.0
-2008-2009,18,2009-01-11,Atlético Madrid,Athletic Club,2,3,1.0
+2008-2009,18,2009-01-11,Numancia,Getafe,2,0,1.0
+2008-2009,18,2009-01-11,Mallorca,Real Madrid,0,3,0.0
+2008-2009,18,2009-01-11,Atlético Madrid,Athletic Club,2,3,0.0
 2008-2009,18,2009-01-11,Espanyol,Almería,2,2,0.5
-2008-2009,19,2009-01-17,Sevilla,Numancia,1,0,0.0
-2008-2009,19,2009-01-17,Barcelona,La Coruña,5,0,0.0
-2008-2009,19,2009-01-18,Valladolid,Betis,1,3,1.0
-2008-2009,19,2009-01-18,Real Madrid,Osasuna,3,1,0.0
-2008-2009,19,2009-01-18,Villarreal,Mallorca,2,0,0.0
-2008-2009,19,2009-01-18,Málaga,Espanyol,4,0,0.0
+2008-2009,19,2009-01-17,Sevilla,Numancia,1,0,1.0
+2008-2009,19,2009-01-17,Barcelona,La Coruña,5,0,1.0
+2008-2009,19,2009-01-18,Valladolid,Betis,1,3,0.0
+2008-2009,19,2009-01-18,Real Madrid,Osasuna,3,1,1.0
+2008-2009,19,2009-01-18,Villarreal,Mallorca,2,0,1.0
+2008-2009,19,2009-01-18,Málaga,Espanyol,4,0,1.0
 2008-2009,19,2009-01-18,Almería,Atlético Madrid,1,1,0.5
-2008-2009,19,2009-01-18,Recreativo,Sporting Gijón,2,0,0.0
-2008-2009,19,2009-01-18,Getafe,Racing Sant,0,1,1.0
-2008-2009,19,2009-01-18,Athletic Club,Valencia,3,2,0.0
-2008-2009,20,2009-01-24,Barcelona,Numancia,4,1,0.0
+2008-2009,19,2009-01-18,Recreativo,Sporting Gijón,2,0,1.0
+2008-2009,19,2009-01-18,Getafe,Racing Sant,0,1,0.0
+2008-2009,19,2009-01-18,Athletic Club,Valencia,3,2,1.0
+2008-2009,20,2009-01-24,Barcelona,Numancia,4,1,1.0
 2008-2009,20,2009-01-24,Villarreal,Osasuna,1,1,0.5
-2008-2009,20,2009-01-25,Real Madrid,La Coruña,1,0,0.0
-2008-2009,20,2009-01-25,Sevilla,Racing Sant,0,2,1.0
+2008-2009,20,2009-01-25,Real Madrid,La Coruña,1,0,1.0
+2008-2009,20,2009-01-25,Sevilla,Racing Sant,0,2,0.0
 2008-2009,20,2009-01-25,Málaga,Atlético Madrid,1,1,0.5
-2008-2009,20,2009-01-25,Getafe,Sporting Gijón,5,1,0.0
+2008-2009,20,2009-01-25,Getafe,Sporting Gijón,5,1,1.0
 2008-2009,20,2009-01-25,Valladolid,Espanyol,1,1,0.5
-2008-2009,20,2009-01-25,Recreativo,Betis,1,0,0.0
-2008-2009,20,2009-01-25,Almería,Athletic Club,2,1,0.0
-2008-2009,20,2009-01-25,Mallorca,Valencia,3,1,0.0
-2008-2009,21,2009-01-31,Athletic Club,Málaga,3,2,0.0
-2008-2009,21,2009-01-31,Numancia,Real Madrid,0,2,1.0
-2008-2009,21,2009-02-01,Atlético Madrid,Valladolid,1,2,1.0
+2008-2009,20,2009-01-25,Recreativo,Betis,1,0,1.0
+2008-2009,20,2009-01-25,Almería,Athletic Club,2,1,1.0
+2008-2009,20,2009-01-25,Mallorca,Valencia,3,1,1.0
+2008-2009,21,2009-01-31,Athletic Club,Málaga,3,2,1.0
+2008-2009,21,2009-01-31,Numancia,Real Madrid,0,2,0.0
+2008-2009,21,2009-02-01,Atlético Madrid,Valladolid,1,2,0.0
 2008-2009,21,2009-02-01,Espanyol,Recreativo,1,1,0.5
-2008-2009,21,2009-02-01,Valencia,Almería,3,2,0.0
+2008-2009,21,2009-02-01,Valencia,Almería,3,2,1.0
 2008-2009,21,2009-02-01,Betis,Getafe,2,2,0.5
-2008-2009,21,2009-02-01,Osasuna,Mallorca,1,0,0.0
-2008-2009,21,2009-02-01,La Coruña,Villarreal,3,0,0.0
-2008-2009,21,2009-02-01,Sporting Gijón,Sevilla,1,0,0.0
-2008-2009,21,2009-02-01,Racing Sant,Barcelona,1,2,1.0
-2008-2009,22,2009-02-07,Real Madrid,Racing Sant,1,0,0.0
-2008-2009,22,2009-02-07,Sevilla,Betis,1,2,1.0
-2008-2009,22,2009-02-08,Barcelona,Sporting Gijón,3,1,0.0
+2008-2009,21,2009-02-01,Osasuna,Mallorca,1,0,1.0
+2008-2009,21,2009-02-01,La Coruña,Villarreal,3,0,1.0
+2008-2009,21,2009-02-01,Sporting Gijón,Sevilla,1,0,1.0
+2008-2009,21,2009-02-01,Racing Sant,Barcelona,1,2,0.0
+2008-2009,22,2009-02-07,Real Madrid,Racing Sant,1,0,1.0
+2008-2009,22,2009-02-07,Sevilla,Betis,1,2,0.0
+2008-2009,22,2009-02-08,Barcelona,Sporting Gijón,3,1,1.0
 2008-2009,22,2009-02-08,Getafe,Espanyol,1,1,0.5
-2008-2009,22,2009-02-08,Osasuna,Valencia,1,0,0.0
-2008-2009,22,2009-02-08,Recreativo,Atlético Madrid,0,3,1.0
-2008-2009,22,2009-02-08,Málaga,Almería,3,2,0.0
+2008-2009,22,2009-02-08,Osasuna,Valencia,1,0,1.0
+2008-2009,22,2009-02-08,Recreativo,Atlético Madrid,0,3,0.0
+2008-2009,22,2009-02-08,Málaga,Almería,3,2,1.0
 2008-2009,22,2009-02-08,Mallorca,La Coruña,1,1,0.5
-2008-2009,22,2009-02-08,Villarreal,Numancia,2,1,0.0
-2008-2009,22,2009-02-08,Valladolid,Athletic Club,2,1,0.0
+2008-2009,22,2009-02-08,Villarreal,Numancia,2,1,1.0
+2008-2009,22,2009-02-08,Valladolid,Athletic Club,2,1,1.0
 2008-2009,23,2009-02-14,Valencia,Málaga,1,1,0.5
 2008-2009,23,2009-02-14,La Coruña,Osasuna,0,0,0.5
 2008-2009,23,2009-02-14,Betis,Barcelona,2,2,0.5
-2008-2009,23,2009-02-15,Almería,Valladolid,3,2,0.0
-2008-2009,23,2009-02-15,Sporting Gijón,Real Madrid,0,4,1.0
+2008-2009,23,2009-02-15,Almería,Valladolid,3,2,1.0
+2008-2009,23,2009-02-15,Sporting Gijón,Real Madrid,0,4,0.0
 2008-2009,23,2009-02-15,Athletic Club,Recreativo,1,1,0.5
-2008-2009,23,2009-02-15,Espanyol,Sevilla,0,2,1.0
-2008-2009,23,2009-02-15,Numancia,Mallorca,0,1,1.0
+2008-2009,23,2009-02-15,Espanyol,Sevilla,0,2,0.0
+2008-2009,23,2009-02-15,Numancia,Mallorca,0,1,0.0
 2008-2009,23,2009-02-15,Atlético Madrid,Getafe,1,1,0.5
 2008-2009,23,2009-02-15,Racing Sant,Villarreal,1,1,0.5
-2008-2009,24,2009-02-21,Villarreal,Sporting Gijón,2,1,0.0
-2008-2009,24,2009-02-21,Barcelona,Espanyol,1,2,1.0
-2008-2009,24,2009-02-21,Sevilla,Atlético Madrid,1,0,0.0
-2008-2009,24,2009-02-21,Real Madrid,Betis,6,1,0.0
+2008-2009,24,2009-02-21,Villarreal,Sporting Gijón,2,1,1.0
+2008-2009,24,2009-02-21,Barcelona,Espanyol,1,2,0.0
+2008-2009,24,2009-02-21,Sevilla,Atlético Madrid,1,0,1.0
+2008-2009,24,2009-02-21,Real Madrid,Betis,6,1,1.0
 2008-2009,24,2009-02-22,Getafe,Athletic Club,1,1,0.5
-2008-2009,24,2009-02-22,Valladolid,Málaga,1,3,1.0
-2008-2009,24,2009-02-22,Osasuna,Numancia,2,0,0.0
-2008-2009,24,2009-02-22,Mallorca,Racing Sant,1,0,0.0
+2008-2009,24,2009-02-22,Valladolid,Málaga,1,3,0.0
+2008-2009,24,2009-02-22,Osasuna,Numancia,2,0,1.0
+2008-2009,24,2009-02-22,Mallorca,Racing Sant,1,0,1.0
 2008-2009,24,2009-02-22,Recreativo,Almería,1,1,0.5
 2008-2009,24,2009-02-22,La Coruña,Valencia,1,1,0.5
-2008-2009,25,2009-02-28,Athletic Club,Sevilla,1,2,1.0
-2008-2009,25,2009-02-28,Espanyol,Real Madrid,0,2,1.0
+2008-2009,25,2009-02-28,Athletic Club,Sevilla,1,2,0.0
+2008-2009,25,2009-02-28,Espanyol,Real Madrid,0,2,0.0
 2008-2009,25,2009-03-01,Betis,Villarreal,2,2,0.5
-2008-2009,25,2009-03-01,Atlético Madrid,Barcelona,4,3,0.0
-2008-2009,25,2009-03-01,Almería,Getafe,2,1,0.0
-2008-2009,25,2009-03-01,Valencia,Valladolid,1,2,1.0
-2008-2009,25,2009-03-01,Sporting Gijón,Mallorca,0,1,1.0
-2008-2009,25,2009-03-01,Málaga,Recreativo,0,2,1.0
+2008-2009,25,2009-03-01,Atlético Madrid,Barcelona,4,3,1.0
+2008-2009,25,2009-03-01,Almería,Getafe,2,1,1.0
+2008-2009,25,2009-03-01,Valencia,Valladolid,1,2,0.0
+2008-2009,25,2009-03-01,Sporting Gijón,Mallorca,0,1,0.0
+2008-2009,25,2009-03-01,Málaga,Recreativo,0,2,0.0
 2008-2009,25,2009-03-01,Racing Sant,Osasuna,1,1,0.5
-2008-2009,25,2009-03-01,Numancia,La Coruña,0,1,1.0
-2008-2009,26,2009-03-07,Barcelona,Athletic Club,2,0,0.0
+2008-2009,25,2009-03-01,Numancia,La Coruña,0,1,0.0
+2008-2009,26,2009-03-07,Barcelona,Athletic Club,2,0,1.0
 2008-2009,26,2009-03-07,Real Madrid,Atlético Madrid,1,1,0.5
-2008-2009,26,2009-03-07,Villarreal,Espanyol,1,0,0.0
-2008-2009,26,2009-03-08,Sevilla,Almería,2,1,0.0
-2008-2009,26,2009-03-08,Recreativo,Valladolid,2,3,1.0
+2008-2009,26,2009-03-07,Villarreal,Espanyol,1,0,1.0
+2008-2009,26,2009-03-08,Sevilla,Almería,2,1,1.0
+2008-2009,26,2009-03-08,Recreativo,Valladolid,2,3,0.0
 2008-2009,26,2009-03-08,Mallorca,Betis,3,3,0.5
-2008-2009,26,2009-03-08,Numancia,Valencia,2,1,0.0
-2008-2009,26,2009-03-08,Osasuna,Sporting Gijón,1,2,1.0
-2008-2009,26,2009-03-08,La Coruña,Racing Sant,5,3,0.0
-2008-2009,26,2009-03-08,Getafe,Málaga,1,2,1.0
-2008-2009,27,2009-03-14,Athletic Club,Real Madrid,2,5,1.0
+2008-2009,26,2009-03-08,Numancia,Valencia,2,1,1.0
+2008-2009,26,2009-03-08,Osasuna,Sporting Gijón,1,2,0.0
+2008-2009,26,2009-03-08,La Coruña,Racing Sant,5,3,1.0
+2008-2009,26,2009-03-08,Getafe,Málaga,1,2,0.0
+2008-2009,27,2009-03-14,Athletic Club,Real Madrid,2,5,0.0
 2008-2009,27,2009-03-14,Valencia,Recreativo,1,1,0.5
 2008-2009,27,2009-03-15,Betis,Osasuna,0,0,0.5
-2008-2009,27,2009-03-15,Almería,Barcelona,0,2,1.0
-2008-2009,27,2009-03-15,Valladolid,Getafe,1,0,0.0
+2008-2009,27,2009-03-15,Almería,Barcelona,0,2,0.0
+2008-2009,27,2009-03-15,Valladolid,Getafe,1,0,1.0
 2008-2009,27,2009-03-15,Málaga,Sevilla,2,2,0.5
-2008-2009,27,2009-03-15,Sporting Gijón,La Coruña,3,2,0.0
-2008-2009,27,2009-03-15,Racing Sant,Numancia,5,0,0.0
+2008-2009,27,2009-03-15,Sporting Gijón,La Coruña,3,2,1.0
+2008-2009,27,2009-03-15,Racing Sant,Numancia,5,0,1.0
 2008-2009,27,2009-03-15,Espanyol,Mallorca,3,3,0.5
-2008-2009,27,2009-03-15,Atlético Madrid,Villarreal,3,2,0.0
-2008-2009,28,2009-03-21,Sevilla,Valladolid,4,1,0.0
-2008-2009,28,2009-03-21,Villarreal,Athletic Club,2,0,0.0
-2008-2009,28,2009-03-22,Getafe,Recreativo,2,1,0.0
-2008-2009,28,2009-03-22,Barcelona,Málaga,6,0,0.0
-2008-2009,28,2009-03-22,Numancia,Sporting Gijón,2,1,0.0
-2008-2009,28,2009-03-22,Real Madrid,Almería,3,0,0.0
-2008-2009,28,2009-03-22,Mallorca,Atlético Madrid,2,0,0.0
-2008-2009,28,2009-03-22,Osasuna,Espanyol,1,0,0.0
+2008-2009,27,2009-03-15,Atlético Madrid,Villarreal,3,2,1.0
+2008-2009,28,2009-03-21,Sevilla,Valladolid,4,1,1.0
+2008-2009,28,2009-03-21,Villarreal,Athletic Club,2,0,1.0
+2008-2009,28,2009-03-22,Getafe,Recreativo,2,1,1.0
+2008-2009,28,2009-03-22,Barcelona,Málaga,6,0,1.0
+2008-2009,28,2009-03-22,Numancia,Sporting Gijón,2,1,1.0
+2008-2009,28,2009-03-22,Real Madrid,Almería,3,0,1.0
+2008-2009,28,2009-03-22,Mallorca,Atlético Madrid,2,0,1.0
+2008-2009,28,2009-03-22,Osasuna,Espanyol,1,0,1.0
 2008-2009,28,2009-03-22,La Coruña,Betis,1,1,0.5
-2008-2009,28,2009-03-22,Racing Sant,Valencia,0,1,1.0
-2008-2009,29,2009-04-04,Almería,Villarreal,3,0,0.0
-2008-2009,29,2009-04-04,Recreativo,Sevilla,0,1,1.0
-2008-2009,29,2009-04-04,Málaga,Real Madrid,0,1,1.0
-2008-2009,29,2009-04-04,Athletic Club,Mallorca,2,1,0.0
-2008-2009,29,2009-04-04,Valladolid,Barcelona,0,1,1.0
+2008-2009,28,2009-03-22,Racing Sant,Valencia,0,1,0.0
+2008-2009,29,2009-04-04,Almería,Villarreal,3,0,1.0
+2008-2009,29,2009-04-04,Recreativo,Sevilla,0,1,0.0
+2008-2009,29,2009-04-04,Málaga,Real Madrid,0,1,0.0
+2008-2009,29,2009-04-04,Athletic Club,Mallorca,2,1,1.0
+2008-2009,29,2009-04-04,Valladolid,Barcelona,0,1,0.0
 2008-2009,29,2009-04-04,Betis,Numancia,3,3,0.5
-2008-2009,29,2009-04-05,Sporting Gijón,Racing Sant,0,2,1.0
-2008-2009,29,2009-04-05,Atlético Madrid,Osasuna,2,4,1.0
-2008-2009,29,2009-04-05,Valencia,Getafe,4,1,0.0
-2008-2009,29,2009-04-05,Espanyol,La Coruña,3,1,0.0
-2008-2009,30,2009-04-11,Villarreal,Málaga,0,2,1.0
-2008-2009,30,2009-04-11,Barcelona,Recreativo,2,0,0.0
-2008-2009,30,2009-04-12,La Coruña,Atlético Madrid,1,2,1.0
-2008-2009,30,2009-04-12,Sevilla,Getafe,0,1,1.0
-2008-2009,30,2009-04-12,Sporting Gijón,Valencia,2,3,1.0
-2008-2009,30,2009-04-12,Mallorca,Almería,2,0,0.0
-2008-2009,30,2009-04-12,Osasuna,Athletic Club,2,1,0.0
-2008-2009,30,2009-04-12,Real Madrid,Valladolid,2,0,0.0
+2008-2009,29,2009-04-05,Sporting Gijón,Racing Sant,0,2,0.0
+2008-2009,29,2009-04-05,Atlético Madrid,Osasuna,2,4,0.0
+2008-2009,29,2009-04-05,Valencia,Getafe,4,1,1.0
+2008-2009,29,2009-04-05,Espanyol,La Coruña,3,1,1.0
+2008-2009,30,2009-04-11,Villarreal,Málaga,0,2,0.0
+2008-2009,30,2009-04-11,Barcelona,Recreativo,2,0,1.0
+2008-2009,30,2009-04-12,La Coruña,Atlético Madrid,1,2,0.0
+2008-2009,30,2009-04-12,Sevilla,Getafe,0,1,0.0
+2008-2009,30,2009-04-12,Sporting Gijón,Valencia,2,3,0.0
+2008-2009,30,2009-04-12,Mallorca,Almería,2,0,1.0
+2008-2009,30,2009-04-12,Osasuna,Athletic Club,2,1,1.0
+2008-2009,30,2009-04-12,Real Madrid,Valladolid,2,0,1.0
 2008-2009,30,2009-04-12,Numancia,Espanyol,0,0,0.5
-2008-2009,30,2009-04-12,Racing Sant,Betis,2,3,1.0
-2008-2009,31,2009-04-18,Getafe,Barcelona,0,1,1.0
+2008-2009,30,2009-04-12,Racing Sant,Betis,2,3,0.0
+2008-2009,31,2009-04-18,Getafe,Barcelona,0,1,0.0
 2008-2009,31,2009-04-18,Málaga,Mallorca,1,1,0.5
-2008-2009,31,2009-04-18,Athletic Club,La Coruña,0,1,1.0
-2008-2009,31,2009-04-18,Recreativo,Real Madrid,0,1,1.0
-2008-2009,31,2009-04-18,Atlético Madrid,Numancia,3,0,0.0
-2008-2009,31,2009-04-19,Espanyol,Racing Sant,1,0,0.0
-2008-2009,31,2009-04-19,Betis,Sporting Gijón,2,0,0.0
-2008-2009,31,2009-04-19,Almería,Osasuna,2,1,0.0
+2008-2009,31,2009-04-18,Athletic Club,La Coruña,0,1,0.0
+2008-2009,31,2009-04-18,Recreativo,Real Madrid,0,1,0.0
+2008-2009,31,2009-04-18,Atlético Madrid,Numancia,3,0,1.0
+2008-2009,31,2009-04-19,Espanyol,Racing Sant,1,0,1.0
+2008-2009,31,2009-04-19,Betis,Sporting Gijón,2,0,1.0
+2008-2009,31,2009-04-19,Almería,Osasuna,2,1,1.0
 2008-2009,31,2009-04-19,Valladolid,Villarreal,0,0,0.5
-2008-2009,31,2009-04-19,Valencia,Sevilla,3,1,0.0
-2008-2009,32,2009-04-21,Real Madrid,Getafe,3,2,0.0
-2008-2009,32,2009-04-21,Numancia,Athletic Club,1,2,1.0
-2008-2009,32,2009-04-22,La Coruña,Almería,2,0,0.0
-2008-2009,32,2009-04-22,Osasuna,Málaga,2,3,1.0
-2008-2009,32,2009-04-22,Betis,Valencia,1,2,1.0
-2008-2009,32,2009-04-22,Barcelona,Sevilla,4,0,0.0
-2008-2009,32,2009-04-23,Villarreal,Recreativo,2,1,0.0
-2008-2009,32,2009-04-23,Sporting Gijón,Espanyol,0,3,1.0
-2008-2009,32,2009-04-23,Racing Sant,Atlético Madrid,5,1,0.0
-2008-2009,32,2009-04-23,Mallorca,Valladolid,2,0,0.0
+2008-2009,31,2009-04-19,Valencia,Sevilla,3,1,1.0
+2008-2009,32,2009-04-21,Real Madrid,Getafe,3,2,1.0
+2008-2009,32,2009-04-21,Numancia,Athletic Club,1,2,0.0
+2008-2009,32,2009-04-22,La Coruña,Almería,2,0,1.0
+2008-2009,32,2009-04-22,Osasuna,Málaga,2,3,0.0
+2008-2009,32,2009-04-22,Betis,Valencia,1,2,0.0
+2008-2009,32,2009-04-22,Barcelona,Sevilla,4,0,1.0
+2008-2009,32,2009-04-23,Villarreal,Recreativo,2,1,1.0
+2008-2009,32,2009-04-23,Sporting Gijón,Espanyol,0,3,0.0
+2008-2009,32,2009-04-23,Racing Sant,Atlético Madrid,5,1,1.0
+2008-2009,32,2009-04-23,Mallorca,Valladolid,2,0,1.0
 2008-2009,33,2009-04-25,Málaga,La Coruña,1,1,0.5
-2008-2009,33,2009-04-25,Almería,Numancia,2,1,0.0
+2008-2009,33,2009-04-25,Almería,Numancia,2,1,1.0
 2008-2009,33,2009-04-25,Valencia,Barcelona,2,2,0.5
-2008-2009,33,2009-04-26,Sevilla,Real Madrid,2,4,1.0
-2008-2009,33,2009-04-26,Athletic Club,Racing Sant,2,1,0.0
+2008-2009,33,2009-04-26,Sevilla,Real Madrid,2,4,0.0
+2008-2009,33,2009-04-26,Athletic Club,Racing Sant,2,1,1.0
 2008-2009,33,2009-04-26,Valladolid,Osasuna,0,0,0.5
-2008-2009,33,2009-04-26,Getafe,Villarreal,1,2,1.0
-2008-2009,33,2009-04-26,Recreativo,Mallorca,2,4,1.0
-2008-2009,33,2009-04-26,Atlético Madrid,Sporting Gijón,3,1,0.0
-2008-2009,33,2009-04-26,Espanyol,Betis,2,0,0.0
-2008-2009,34,2009-05-02,Numancia,Málaga,2,0,0.0
-2008-2009,34,2009-05-02,Real Madrid,Barcelona,2,6,1.0
-2008-2009,34,2009-05-02,Villarreal,Sevilla,0,2,1.0
-2008-2009,34,2009-05-03,Racing Sant,Almería,0,2,1.0
-2008-2009,34,2009-05-03,Osasuna,Recreativo,1,2,1.0
-2008-2009,34,2009-05-03,La Coruña,Valladolid,1,0,0.0
-2008-2009,34,2009-05-03,Espanyol,Valencia,3,0,0.0
-2008-2009,34,2009-05-03,Betis,Atlético Madrid,0,2,1.0
+2008-2009,33,2009-04-26,Getafe,Villarreal,1,2,0.0
+2008-2009,33,2009-04-26,Recreativo,Mallorca,2,4,0.0
+2008-2009,33,2009-04-26,Atlético Madrid,Sporting Gijón,3,1,1.0
+2008-2009,33,2009-04-26,Espanyol,Betis,2,0,1.0
+2008-2009,34,2009-05-02,Numancia,Málaga,2,0,1.0
+2008-2009,34,2009-05-02,Real Madrid,Barcelona,2,6,0.0
+2008-2009,34,2009-05-02,Villarreal,Sevilla,0,2,0.0
+2008-2009,34,2009-05-03,Racing Sant,Almería,0,2,0.0
+2008-2009,34,2009-05-03,Osasuna,Recreativo,1,2,0.0
+2008-2009,34,2009-05-03,La Coruña,Valladolid,1,0,1.0
+2008-2009,34,2009-05-03,Espanyol,Valencia,3,0,1.0
+2008-2009,34,2009-05-03,Betis,Atlético Madrid,0,2,0.0
 2008-2009,34,2009-05-03,Sporting Gijón,Athletic Club,1,1,0.5
-2008-2009,34,2009-05-03,Mallorca,Getafe,2,1,0.0
-2008-2009,35,2009-05-09,Valencia,Real Madrid,3,0,0.0
-2008-2009,35,2009-05-09,Athletic Club,Betis,1,0,0.0
-2008-2009,35,2009-05-09,Sevilla,Mallorca,3,1,0.0
-2008-2009,35,2009-05-10,Almería,Sporting Gijón,3,1,0.0
+2008-2009,34,2009-05-03,Mallorca,Getafe,2,1,1.0
+2008-2009,35,2009-05-09,Valencia,Real Madrid,3,0,1.0
+2008-2009,35,2009-05-09,Athletic Club,Betis,1,0,1.0
+2008-2009,35,2009-05-09,Sevilla,Mallorca,3,1,1.0
+2008-2009,35,2009-05-10,Almería,Sporting Gijón,3,1,1.0
 2008-2009,35,2009-05-10,Valladolid,Numancia,0,0,0.5
-2008-2009,35,2009-05-10,Málaga,Racing Sant,1,0,0.0
-2008-2009,35,2009-05-10,Recreativo,La Coruña,1,2,1.0
-2008-2009,35,2009-05-10,Atlético Madrid,Espanyol,3,2,0.0
-2008-2009,35,2009-05-10,Getafe,Osasuna,3,0,0.0
+2008-2009,35,2009-05-10,Málaga,Racing Sant,1,0,1.0
+2008-2009,35,2009-05-10,Recreativo,La Coruña,1,2,0.0
+2008-2009,35,2009-05-10,Atlético Madrid,Espanyol,3,2,1.0
+2008-2009,35,2009-05-10,Getafe,Osasuna,3,0,1.0
 2008-2009,35,2009-05-10,Barcelona,Villarreal,3,3,0.5
 2008-2009,36,2009-05-16,Osasuna,Sevilla,0,0,0.5
 2008-2009,36,2009-05-16,La Coruña,Getafe,1,1,0.5
-2008-2009,36,2009-05-16,Villarreal,Real Madrid,3,2,0.0
-2008-2009,36,2009-05-17,Espanyol,Athletic Club,1,0,0.0
-2008-2009,36,2009-05-17,Betis,Almería,2,0,0.0
-2008-2009,36,2009-05-17,Numancia,Recreativo,1,0,0.0
-2008-2009,36,2009-05-17,Racing Sant,Valladolid,3,2,0.0
-2008-2009,36,2009-05-17,Atlético Madrid,Valencia,1,0,0.0
-2008-2009,36,2009-05-17,Mallorca,Barcelona,2,1,0.0
-2008-2009,36,2009-05-17,Sporting Gijón,Málaga,2,1,0.0
-2008-2009,37,2009-05-23,Athletic Club,Atlético Madrid,1,4,1.0
-2008-2009,37,2009-05-23,Getafe,Numancia,1,0,0.0
-2008-2009,37,2009-05-23,Sevilla,La Coruña,1,0,0.0
-2008-2009,37,2009-05-23,Villarreal,Valencia,3,1,0.0
-2008-2009,37,2009-05-23,Recreativo,Racing Sant,0,1,1.0
-2008-2009,37,2009-05-23,Barcelona,Osasuna,0,1,1.0
-2008-2009,37,2009-05-23,Almería,Espanyol,0,3,1.0
-2008-2009,37,2009-05-23,Valladolid,Sporting Gijón,1,2,1.0
+2008-2009,36,2009-05-16,Villarreal,Real Madrid,3,2,1.0
+2008-2009,36,2009-05-17,Espanyol,Athletic Club,1,0,1.0
+2008-2009,36,2009-05-17,Betis,Almería,2,0,1.0
+2008-2009,36,2009-05-17,Numancia,Recreativo,1,0,1.0
+2008-2009,36,2009-05-17,Racing Sant,Valladolid,3,2,1.0
+2008-2009,36,2009-05-17,Atlético Madrid,Valencia,1,0,1.0
+2008-2009,36,2009-05-17,Mallorca,Barcelona,2,1,1.0
+2008-2009,36,2009-05-17,Sporting Gijón,Málaga,2,1,1.0
+2008-2009,37,2009-05-23,Athletic Club,Atlético Madrid,1,4,0.0
+2008-2009,37,2009-05-23,Getafe,Numancia,1,0,1.0
+2008-2009,37,2009-05-23,Sevilla,La Coruña,1,0,1.0
+2008-2009,37,2009-05-23,Villarreal,Valencia,3,1,1.0
+2008-2009,37,2009-05-23,Recreativo,Racing Sant,0,1,0.0
+2008-2009,37,2009-05-23,Barcelona,Osasuna,0,1,0.0
+2008-2009,37,2009-05-23,Almería,Espanyol,0,3,0.0
+2008-2009,37,2009-05-23,Valladolid,Sporting Gijón,1,2,0.0
 2008-2009,37,2009-05-23,Málaga,Betis,1,1,0.5
-2008-2009,37,2009-05-24,Real Madrid,Mallorca,1,3,1.0
-2008-2009,38,2009-05-30,Valencia,Athletic Club,2,0,0.0
-2008-2009,38,2009-05-30,Mallorca,Villarreal,2,3,1.0
+2008-2009,37,2009-05-24,Real Madrid,Mallorca,1,3,0.0
+2008-2009,38,2009-05-30,Valencia,Athletic Club,2,0,1.0
+2008-2009,38,2009-05-30,Mallorca,Villarreal,2,3,0.0
 2008-2009,38,2009-05-30,La Coruña,Barcelona,1,1,0.5
-2008-2009,38,2009-05-30,Atlético Madrid,Almería,3,0,0.0
-2008-2009,38,2009-05-31,Numancia,Sevilla,0,2,1.0
+2008-2009,38,2009-05-30,Atlético Madrid,Almería,3,0,1.0
+2008-2009,38,2009-05-31,Numancia,Sevilla,0,2,0.0
 2008-2009,38,2009-05-31,Racing Sant,Getafe,1,1,0.5
-2008-2009,38,2009-05-31,Sporting Gijón,Recreativo,2,1,0.0
-2008-2009,38,2009-05-31,Osasuna,Real Madrid,2,1,0.0
-2008-2009,38,2009-05-31,Espanyol,Málaga,3,0,0.0
+2008-2009,38,2009-05-31,Sporting Gijón,Recreativo,2,1,1.0
+2008-2009,38,2009-05-31,Osasuna,Real Madrid,2,1,1.0
+2008-2009,38,2009-05-31,Espanyol,Málaga,3,0,1.0
 2008-2009,38,2009-05-31,Betis,Valladolid,1,1,0.5

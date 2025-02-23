@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024,1,2024-03-31,Odd,Haugesund,1,2,0.0
+2024,1,2024-04-01,Fredrikstad,Bodø/Glimt,0,2,0.0
+2024,1,2024-04-01,Molde,Strømsgodset,4,0,1.0
+2024,1,2024-04-01,Rosenborg,Sandefjord,2,0,1.0
+2024,1,2024-04-01,Tromsø,Brann,2,4,0.0
+2024,1,2024-04-01,Lillestrøm,Kristiansund,2,3,0.0
+2024,1,2024-04-01,Viking,Sarpsborg 08,1,0,1.0
+2024,1,2024-04-02,KFUM Oslo,HamKam,1,1,0.5
+2024,2,2024-04-06,Bodø/Glimt,Viking,1,0,1.0
+2024,2,2024-04-07,Kristiansund,KFUM Oslo,1,1,0.5
+2024,2,2024-04-07,Sarpsborg 08,Odd,0,1,0.0
+2024,2,2024-04-07,HamKam,Molde,0,1,0.0
+2024,2,2024-04-07,Strømsgodset,Rosenborg,1,0,1.0
+2024,2,2024-04-07,Haugesund,Lillestrøm,0,2,0.0
+2024,2,2024-04-07,Brann,Fredrikstad,0,2,0.0
+2024,3,2024-04-13,Fredrikstad,Sarpsborg 08,2,2,0.5
+2024,3,2024-04-14,Viking,Brann,1,1,0.5
+2024,3,2024-04-14,Rosenborg,HamKam,1,0,1.0
+2024,3,2024-04-14,Odd,Sandefjord,2,2,0.5
+2024,3,2024-04-14,Tromsø,Haugesund,0,1,0.0
+2024,3,2024-04-14,Molde,Kristiansund,2,0,1.0
+2024,3,2024-04-14,Lillestrøm,Bodø/Glimt,0,5,0.0
+2024,3,2024-04-16,KFUM Oslo,Strømsgodset,1,3,0.0
+2024,16,2024-04-17,Brann,HamKam,1,0,1.0
+2024,17,2024-04-17,Molde,Odd,1,2,0.0
+2024,4,2024-04-21,HamKam,Strømsgodset,0,1,0.0
+2024,4,2024-04-21,Sarpsborg 08,KFUM Oslo,0,2,0.0
+2024,4,2024-04-21,Kristiansund,Tromsø,1,0,1.0
+2024,4,2024-04-21,Haugesund,Rosenborg,1,3,0.0
+2024,4,2024-04-21,Sandefjord,Lillestrøm,0,1,0.0
+2024,4,2024-04-21,Brann,Odd,2,0,1.0
+2024,4,2024-04-21,Viking,Fredrikstad,1,1,0.5
+2024,4,2024-04-21,Bodø/Glimt,Molde,1,1,0.5
+2024,5,2024-04-27,Rosenborg,Bodø/Glimt,1,3,0.0
+2024,5,2024-04-28,Tromsø,Sarpsborg 08,0,3,0.0
+2024,5,2024-04-28,Lillestrøm,HamKam,1,1,0.5
+2024,5,2024-04-28,Strømsgodset,Kristiansund,2,2,0.5
+2024,5,2024-04-28,KFUM Oslo,Brann,0,0,0.5
+2024,5,2024-04-28,Fredrikstad,Sandefjord,1,0,1.0
+2024,5,2024-04-28,Molde,Haugesund,2,1,1.0
+2024,5,2024-04-28,Odd,Viking,3,3,0.5
+2024,6,2024-05-04,Brann,Rosenborg,3,0,1.0
+2024,6,2024-05-05,Sarpsborg 08,Lillestrøm,1,0,1.0
+2024,6,2024-05-05,Bodø/Glimt,Strømsgodset,1,0,1.0
+2024,6,2024-05-05,Sandefjord,Molde,3,1,1.0
+2024,6,2024-05-05,Kristiansund,HamKam,1,1,0.5
+2024,6,2024-05-05,Haugesund,KFUM Oslo,0,1,0.0
+2024,6,2024-05-05,Odd,Fredrikstad,0,2,0.0
+2024,6,2024-05-05,Viking,Tromsø,2,1,1.0
+2024,7,2024-05-11,Molde,Rosenborg,2,2,0.5
+2024,7,2024-05-12,Kristiansund,Bodø/Glimt,2,4,0.0
+2024,7,2024-05-12,Tromsø,Odd,4,0,1.0
+2024,7,2024-05-12,Strømsgodset,Viking,0,1,0.0
+2024,7,2024-05-12,Sandefjord,Sarpsborg 08,4,1,1.0
+2024,7,2024-05-12,HamKam,Haugesund,2,2,0.5
+2024,7,2024-05-12,KFUM Oslo,Fredrikstad,1,4,0.0
+2024,7,2024-05-12,Lillestrøm,Brann,0,2,0.0
+2024,8,2024-05-16,Bodø/Glimt,Tromsø,4,0,1.0
+2024,8,2024-05-16,Odd,Molde,0,4,0.0
+2024,8,2024-05-16,Viking,Lillestrøm,1,4,0.0
+2024,8,2024-05-16,Rosenborg,KFUM Oslo,1,3,0.0
+2024,8,2024-05-16,Haugesund,Kristiansund,1,0,1.0
+2024,8,2024-05-16,Fredrikstad,Strømsgodset,4,1,1.0
+2024,8,2024-05-16,Sarpsborg 08,HamKam,1,7,0.0
+2024,8,2024-05-16,Brann,Sandefjord,2,1,1.0
+2024,9,2024-05-20,Molde,Sarpsborg 08,2,4,0.0
+2024,9,2024-05-20,KFUM Oslo,Odd,0,0,0.5
+2024,9,2024-05-20,Sandefjord,Viking,0,3,0.0
+2024,9,2024-05-20,HamKam,Bodø/Glimt,1,0,1.0
+2024,9,2024-05-20,Strømsgodset,Haugesund,2,0,1.0
+2024,9,2024-05-20,Kristiansund,Brann,2,2,0.5
+2024,9,2024-05-20,Lillestrøm,Fredrikstad,0,3,0.0
+2024,9,2024-05-20,Tromsø,Rosenborg,3,2,1.0
+2024,10,2024-05-24,Bodø/Glimt,KFUM Oslo,2,2,0.5
+2024,10,2024-05-25,Fredrikstad,Tromsø,0,0,0.5
+2024,10,2024-05-26,Viking,HamKam,3,0,1.0
+2024,10,2024-05-26,Odd,Lillestrøm,2,1,1.0
+2024,10,2024-05-26,Sarpsborg 08,Strømsgodset,1,3,0.0
+2024,10,2024-05-26,Rosenborg,Kristiansund,2,1,1.0
+2024,10,2024-05-26,Haugesund,Sandefjord,2,1,1.0
+2024,10,2024-05-26,Brann,Molde,1,3,0.0
+2024,18,2024-05-29,Tromsø,Fredrikstad,3,0,1.0
+2024,18,2024-05-29,Brann,Kristiansund,2,1,1.0
+2024,19,2024-05-29,Bodø/Glimt,Sandefjord,1,1,0.5
+2024,11,2024-06-01,HamKam,Brann,1,2,0.0
+2024,11,2024-06-02,Molde,Viking,2,2,0.5
+2024,11,2024-06-02,Strømsgodset,Odd,1,1,0.5
+2024,11,2024-06-02,Haugesund,Bodø/Glimt,0,1,0.0
+2024,11,2024-06-02,Tromsø,Lillestrøm,1,2,0.0
+2024,11,2024-06-02,Kristiansund,Sarpsborg 08,3,1,1.0
+2024,11,2024-06-02,KFUM Oslo,Sandefjord,3,3,0.5
+2024,11,2024-06-02,Rosenborg,Fredrikstad,1,1,0.5
+2024,12,2024-06-27,Sandefjord,HamKam,1,2,0.0
+2024,12,2024-06-27,Lillestrøm,KFUM Oslo,2,1,1.0
+2024,12,2024-06-28,Odd,Kristiansund,1,1,0.5
+2024,12,2024-06-28,Brann,Strømsgodset,0,0,0.5
+2024,12,2024-06-28,Sarpsborg 08,Bodø/Glimt,1,2,0.0
+2024,12,2024-06-28,Tromsø,Molde,0,2,0.0
+2024,12,2024-06-30,Viking,Rosenborg,4,2,1.0
+2024,2,2024-07-03,Sandefjord,Tromsø,1,2,0.0
+2024,13,2024-07-07,Bodø/Glimt,Brann,5,1,1.0
+2024,13,2024-07-07,KFUM Oslo,Viking,1,2,0.0
+2024,13,2024-07-07,Haugesund,Sarpsborg 08,1,2,0.0
+2024,13,2024-07-07,Molde,Lillestrøm,3,0,1.0
+2024,13,2024-07-07,HamKam,Tromsø,0,0,0.5
+2024,13,2024-07-07,Rosenborg,Odd,2,1,1.0
+2024,13,2024-07-08,Kristiansund,Fredrikstad,3,1,1.0
+2024,13,2024-07-08,Strømsgodset,Sandefjord,1,1,0.5
+2024,14,2024-07-12,Sarpsborg 08,Rosenborg,4,1,1.0
+2024,14,2024-07-13,Odd,HamKam,1,2,0.0
+2024,14,2024-07-13,Lillestrøm,Strømsgodset,3,1,1.0
+2024,14,2024-07-13,Fredrikstad,Molde,0,0,0.5
+2024,14,2024-07-13,Sandefjord,Bodø/Glimt,2,1,1.0
+2024,14,2024-07-13,Viking,Kristiansund,2,0,1.0
+2024,14,2024-07-13,Brann,Haugesund,1,1,0.5
+2024,14,2024-07-13,Tromsø,KFUM Oslo,1,2,0.0
+2024,15,2024-07-19,Bodø/Glimt,Odd,3,1,1.0
+2024,15,2024-07-20,Sarpsborg 08,Brann,1,1,0.5
+2024,15,2024-07-20,Molde,KFUM Oslo,2,3,0.0
+2024,15,2024-07-21,Strømsgodset,Tromsø,0,1,0.0
+2024,15,2024-07-21,HamKam,Fredrikstad,0,1,0.0
+2024,15,2024-07-21,Haugesund,Viking,1,0,1.0
+2024,16,2024-07-27,KFUM Oslo,Bodø/Glimt,1,1,0.5
+2024,16,2024-07-27,Fredrikstad,Rosenborg,2,2,0.5
+2024,16,2024-07-28,Tromsø,Kristiansund,0,0,0.5
+2024,16,2024-07-28,Lillestrøm,Sarpsborg 08,2,2,0.5
+2024,16,2024-07-28,Odd,Strømsgodset,2,0,1.0
+2024,16,2024-07-28,Sandefjord,Haugesund,4,3,1.0
+2024,16,2024-07-28,Viking,Molde,1,0,1.0
+2024,17,2024-08-03,Bodø/Glimt,Haugesund,4,2,1.0
+2024,17,2024-08-04,Kristiansund,Lillestrøm,2,1,1.0
+2024,17,2024-08-04,Strømsgodset,Brann,2,3,0.0
+2024,17,2024-08-04,HamKam,Viking,3,3,0.5
+2024,17,2024-08-04,Fredrikstad,KFUM Oslo,0,0,0.5
+2024,17,2024-08-04,Sarpsborg 08,Sandefjord,2,1,1.0
+2024,17,2024-08-04,Rosenborg,Tromsø,1,0,1.0
+2024,18,2024-08-09,Sandefjord,Strømsgodset,2,2,0.5
+2024,18,2024-08-10,Haugesund,HamKam,0,1,0.0
+2024,18,2024-08-10,Viking,Bodø/Glimt,1,1,0.5
+2024,18,2024-08-11,Odd,Sarpsborg 08,1,1,0.5
+2024,18,2024-08-11,KFUM Oslo,Rosenborg,1,0,1.0
+2024,18,2024-08-11,Lillestrøm,Molde,1,2,0.0
+2024,12,2024-08-14,Fredrikstad,Haugesund,1,0,1.0
+2024,19,2024-08-17,Strømsgodset,Lillestrøm,3,2,1.0
+2024,19,2024-08-18,Fredrikstad,Brann,0,4,0.0
+2024,19,2024-08-18,Sarpsborg 08,Haugesund,2,2,0.5
+2024,19,2024-08-18,HamKam,Odd,1,0,1.0
+2024,19,2024-08-18,KFUM Oslo,Tromsø,0,1,0.0
+2024,19,2024-08-18,Rosenborg,Viking,2,1,1.0
+2024,15,2024-08-21,Rosenborg,Lillestrøm,4,0,1.0
+2024,20,2024-08-24,Bodø/Glimt,Sarpsborg 08,6,0,1.0
+2024,20,2024-08-25,Lillestrøm,Tromsø,0,1,0.0
+2024,20,2024-08-25,Sandefjord,Kristiansund,1,0,1.0
+2024,20,2024-08-25,Haugesund,Fredrikstad,1,0,1.0
+2024,20,2024-08-25,Molde,HamKam,3,0,1.0
+2024,20,2024-08-25,Viking,Strømsgodset,5,2,1.0
+2024,20,2024-08-25,Odd,Rosenborg,1,3,0.0
+2024,21,2024-08-30,KFUM Oslo,Lillestrøm,2,0,1.0
+2024,21,2024-08-31,Fredrikstad,Odd,2,0,1.0
+2024,21,2024-09-01,Kristiansund,Haugesund,2,2,0.5
+2024,21,2024-09-01,Rosenborg,Molde,2,1,1.0
+2024,21,2024-09-01,Tromsø,Viking,2,2,0.5
+2024,21,2024-09-01,Strømsgodset,Bodø/Glimt,0,1,0.0
+2024,21,2024-09-01,HamKam,Sandefjord,1,1,0.5
+2024,21,2024-09-01,Brann,Sarpsborg 08,1,3,0.0
+2024,22,2024-09-13,Bodø/Glimt,HamKam,3,0,1.0
+2024,22,2024-09-14,Viking,KFUM Oslo,1,0,1.0
+2024,22,2024-09-14,Molde,Fredrikstad,6,1,1.0
+2024,22,2024-09-15,Odd,Tromsø,1,0,1.0
+2024,22,2024-09-15,Sarpsborg 08,Kristiansund,0,2,0.0
+2024,22,2024-09-15,Sandefjord,Brann,2,2,0.5
+2024,22,2024-09-15,Haugesund,Strømsgodset,0,0,0.5
+2024,22,2024-09-15,Lillestrøm,Rosenborg,1,1,0.5
+2024,19,2024-09-18,Kristiansund,Molde,0,4,0.0
+2024,20,2024-09-18,Brann,KFUM Oslo,2,0,1.0
+2024,23,2024-09-21,Strømsgodset,Sarpsborg 08,2,1,1.0
+2024,23,2024-09-21,HamKam,Lillestrøm,5,0,1.0
+2024,23,2024-09-22,Brann,Bodø/Glimt,4,1,1.0
+2024,23,2024-09-22,Kristiansund,Odd,0,0,0.5
+2024,23,2024-09-22,Tromsø,Sandefjord,3,0,1.0
+2024,23,2024-09-22,Rosenborg,Haugesund,4,0,1.0
+2024,23,2024-09-22,Fredrikstad,Viking,3,2,1.0
+2024,23,2024-09-23,KFUM Oslo,Molde,1,1,0.5
+2024,24,2024-09-28,Molde,Tromsø,5,3,1.0
+2024,24,2024-09-28,Haugesund,Brann,0,1,0.0
+2024,24,2024-09-28,Sarpsborg 08,Fredrikstad,0,1,0.0
+2024,24,2024-09-29,Strømsgodset,HamKam,1,1,0.5
+2024,24,2024-09-29,Odd,KFUM Oslo,1,3,0.0
+2024,24,2024-09-29,Bodø/Glimt,Kristiansund,4,0,1.0
+2024,24,2024-09-29,Lillestrøm,Viking,1,4,0.0
+2024,24,2024-09-29,Sandefjord,Rosenborg,0,1,0.0
+2024,15,2024-10-05,Kristiansund,Sandefjord,2,1,1.0
+2024,25,2024-10-19,Molde,Sandefjord,0,1,0.0
+2024,25,2024-10-19,Tromsø,Bodø/Glimt,0,0,0.5
+2024,25,2024-10-20,Rosenborg,Brann,1,2,0.0
+2024,25,2024-10-20,Kristiansund,Strømsgodset,0,0,0.5
+2024,25,2024-10-20,HamKam,Sarpsborg 08,0,2,0.0
+2024,25,2024-10-20,Viking,Odd,3,3,0.5
+2024,25,2024-10-20,KFUM Oslo,Haugesund,0,0,0.5
+2024,25,2024-10-20,Fredrikstad,Lillestrøm,2,1,1.0
+2024,26,2024-10-26,Strømsgodset,Fredrikstad,2,0,1.0
+2024,26,2024-10-27,HamKam,Kristiansund,1,0,1.0
+2024,26,2024-10-27,Sarpsborg 08,Viking,1,2,0.0
+2024,26,2024-10-27,Sandefjord,KFUM Oslo,2,1,1.0
+2024,26,2024-10-27,Lillestrøm,Odd,3,0,1.0
+2024,26,2024-10-27,Haugesund,Molde,0,3,0.0
+2024,26,2024-10-27,Brann,Tromsø,4,0,1.0
+2024,26,2024-10-28,Bodø/Glimt,Rosenborg,2,3,0.0
+2024,27,2024-11-02,Viking,Sandefjord,3,2,1.0
+2024,27,2024-11-03,Tromsø,HamKam,3,3,0.5
+2024,27,2024-11-03,Lillestrøm,Haugesund,0,1,0.0
+2024,27,2024-11-03,Fredrikstad,Kristiansund,1,1,0.5
+2024,27,2024-11-03,Odd,Brann,0,3,0.0
+2024,27,2024-11-03,KFUM Oslo,Sarpsborg 08,1,2,0.0
+2024,27,2024-11-03,Molde,Bodø/Glimt,3,3,0.5
+2024,27,2024-11-03,Rosenborg,Strømsgodset,1,0,1.0
+2024,28,2024-11-09,Brann,Lillestrøm,2,1,1.0
+2024,28,2024-11-10,Sandefjord,Odd,1,0,1.0
+2024,28,2024-11-10,HamKam,Rosenborg,0,2,0.0
+2024,28,2024-11-10,Strømsgodset,KFUM Oslo,1,0,1.0
+2024,28,2024-11-10,Kristiansund,Viking,0,1,0.0
+2024,28,2024-11-10,Sarpsborg 08,Molde,2,2,0.5
+2024,28,2024-11-10,Haugesund,Tromsø,2,0,1.0
+2024,28,2024-11-10,Bodø/Glimt,Fredrikstad,2,2,0.5
+2024,29,2024-11-23,Odd,Bodø/Glimt,0,2,0.0
+2024,29,2024-11-23,Fredrikstad,HamKam,1,0,1.0
+2024,29,2024-11-23,Molde,Brann,2,1,1.0
+2024,29,2024-11-23,Rosenborg,Sarpsborg 08,1,1,0.5
+2024,29,2024-11-23,Lillestrøm,Sandefjord,0,3,0.0
+2024,29,2024-11-23,Viking,Haugesund,5,1,1.0
+2024,29,2024-11-23,Tromsø,Strømsgodset,2,0,1.0
+2024,29,2024-11-23,KFUM Oslo,Kristiansund,1,2,0.0
+2024,30,2024-12-01,Sandefjord,Fredrikstad,0,1,0.0
+2024,30,2024-12-01,Strømsgodset,Molde,1,0,1.0
+2024,30,2024-12-01,Brann,Viking,1,1,0.5
+2024,30,2024-12-01,Bodø/Glimt,Lillestrøm,5,2,1.0
+2024,30,2024-12-01,Sarpsborg 08,Tromsø,2,1,1.0
+2024,30,2024-12-01,Haugesund,Odd,2,1,1.0
+2024,30,2024-12-01,HamKam,KFUM Oslo,0,2,0.0
+2024,30,2024-12-01,Kristiansund,Rosenborg,0,4,0.0

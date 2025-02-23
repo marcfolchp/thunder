@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1906-1907,1,1906-09-01,Notts County,Bolton,0,0,0.5
+1906-1907,1,1906-09-01,Preston,Birmingham,2,0,1.0
+1906-1907,1,1906-09-01,Middlesbrough,Everton,2,2,0.5
+1906-1907,1,1906-09-01,Aston Villa,Blackburn,4,2,1.0
+1906-1907,1,1906-09-01,Sheffield Utd,Derby County,2,0,1.0
+1906-1907,1,1906-09-01,Liverpool,Stoke,1,0,1.0
+1906-1907,1,1906-09-01,Bristol City,Manchester Utd,1,2,0.0
+1906-1907,1,1906-09-01,Bury,The Wednesday,0,0,0.5
+1906-1907,1,1906-09-01,Manchester City,Arsenal,1,4,0.0
+1906-1907,1,1906-09-01,Newcastle Utd,Sunderland,4,2,1.0
+1906-1907,2,1906-09-03,Birmingham,Bristol City,2,2,0.5
+1906-1907,2,1906-09-03,Derby County,Manchester Utd,2,2,0.5
+1906-1907,2,1906-09-03,Everton,Manchester City,9,1,1.0
+1906-1907,2,1906-09-03,Bury,Arsenal,4,1,1.0
+1906-1907,2,1906-09-03,Stoke,Aston Villa,0,2,0.0
+1906-1907,2,1906-09-03,The Wednesday,Newcastle Utd,2,2,0.5
+1906-1907,2,1906-09-08,Bolton,Sheffield Utd,6,1,1.0
+1906-1907,2,1906-09-08,Blackburn,Liverpool,1,1,0.5
+1906-1907,2,1906-09-08,Everton,Preston,1,0,1.0
+1906-1907,2,1906-09-08,Arsenal,Middlesbrough,2,0,1.0
+1906-1907,2,1906-09-08,Manchester Utd,Notts County,0,0,0.5
+1906-1907,3,1906-09-08,Derby County,Bury,2,1,1.0
+1906-1907,3,1906-09-08,The Wednesday,Manchester City,3,1,1.0
+1906-1907,3,1906-09-08,Stoke,Bristol City,0,3,0.0
+1906-1907,3,1906-09-08,Sunderland,Aston Villa,2,1,1.0
+1906-1907,3,1906-09-08,Birmingham,Newcastle Utd,2,4,0.0
+1906-1907,4,1906-09-10,Aston Villa,Stoke,1,0,1.0
+1906-1907,4,1906-09-10,Liverpool,Bury,2,2,0.5
+1906-1907,3,1906-09-15,Middlesbrough,The Wednesday,1,3,0.0
+1906-1907,3,1906-09-15,Sheffield Utd,Manchester Utd,0,2,0.0
+1906-1907,3,1906-09-15,Notts County,Stoke,2,2,0.5
+1906-1907,3,1906-09-15,Preston,Arsenal,0,3,0.0
+1906-1907,4,1906-09-15,Newcastle Utd,Everton,1,0,1.0
+1906-1907,4,1906-09-15,Bolton,Derby County,1,0,1.0
+1906-1907,4,1906-09-15,Bristol City,Blackburn,3,0,1.0
+1906-1907,4,1906-09-15,Liverpool,Sunderland,1,2,0.0
+1906-1907,5,1906-09-15,Manchester City,Bury,2,2,0.5
+1906-1907,5,1906-09-15,Aston Villa,Birmingham,4,1,1.0
+1906-1907,4,1906-09-17,Everton,Notts County,2,2,0.5
+1906-1907,4,1906-09-22,Stoke,Sheffield Utd,1,1,0.5
+1906-1907,4,1906-09-22,Manchester Utd,Bolton,1,2,0.0
+1906-1907,4,1906-09-22,The Wednesday,Preston,2,1,1.0
+1906-1907,5,1906-09-22,Sunderland,Bristol City,3,3,0.5
+1906-1907,5,1906-09-22,Birmingham,Liverpool,2,1,1.0
+1906-1907,5,1906-09-22,Arsenal,Newcastle Utd,2,0,1.0
+1906-1907,5,1906-09-22,Blackburn,Notts County,0,2,0.0
+1906-1907,5,1906-09-22,Derby County,Manchester City,2,2,0.5
+1906-1907,6,1906-09-22,Everton,Aston Villa,1,2,0.0
+1906-1907,6,1906-09-22,Bury,Middlesbrough,1,1,0.5
+1906-1907,5,1906-09-29,Sheffield Utd,Blackburn,3,0,1.0
+1906-1907,6,1906-09-29,Bristol City,Birmingham,0,0,0.5
+1906-1907,6,1906-09-29,Middlesbrough,Manchester City,2,3,0.0
+1906-1907,6,1906-09-29,Liverpool,Everton,1,2,0.0
+1906-1907,6,1906-09-29,Newcastle Utd,The Wednesday,5,1,1.0
+1906-1907,6,1906-09-29,Notts County,Sunderland,0,0,0.5
+1906-1907,6,1906-09-29,Manchester Utd,Derby County,1,1,0.5
+1906-1907,7,1906-09-29,Preston,Bury,3,2,1.0
+1906-1907,7,1906-09-29,Aston Villa,Arsenal,2,2,0.5
+1906-1907,7,1906-09-29,Bolton,Stoke,1,1,0.5
+1906-1907,6,1906-10-06,Derby County,Middlesbrough,1,0,1.0
+1906-1907,6,1906-10-06,Blackburn,Bolton,2,3,0.0
+1906-1907,6,1906-10-06,Sunderland,Sheffield Utd,1,2,0.0
+1906-1907,7,1906-10-06,Manchester City,Preston,1,1,0.5
+1906-1907,7,1906-10-06,Everton,Bristol City,2,0,1.0
+1906-1907,7,1906-10-06,Arsenal,Liverpool,2,1,1.0
+1906-1907,7,1906-10-06,Birmingham,Notts County,2,0,1.0
+1906-1907,8,1906-10-06,Bury,Newcastle Utd,3,2,1.0
+1906-1907,8,1906-10-06,The Wednesday,Aston Villa,2,1,1.0
+1906-1907,8,1906-10-06,Stoke,Manchester Utd,1,2,0.0
+1906-1907,7,1906-10-13,Bolton,Sunderland,1,0,1.0
+1906-1907,7,1906-10-13,Preston,Middlesbrough,4,2,1.0
+1906-1907,7,1906-10-13,Sheffield Utd,Birmingham,2,0,1.0
+1906-1907,7,1906-10-13,Manchester Utd,Blackburn,1,1,0.5
+1906-1907,8,1906-10-13,Stoke,Derby County,2,1,1.0
+1906-1907,8,1906-10-13,Liverpool,The Wednesday,1,2,0.0
+1906-1907,8,1906-10-13,Notts County,Everton,0,1,0.0
+1906-1907,8,1906-10-13,Newcastle Utd,Manchester City,2,0,1.0
+1906-1907,8,1906-10-13,Bristol City,Arsenal,1,3,0.0
+1906-1907,9,1906-10-13,Aston Villa,Bury,3,1,1.0
+1906-1907,8,1906-10-20,Middlesbrough,Newcastle Utd,0,3,0.0
+1906-1907,8,1906-10-20,Derby County,Preston,3,0,1.0
+1906-1907,8,1906-10-20,Everton,Sheffield Utd,4,2,1.0
+1906-1907,9,1906-10-20,Arsenal,Notts County,1,0,1.0
+1906-1907,9,1906-10-20,Birmingham,Bolton,4,2,1.0
+1906-1907,9,1906-10-20,Sunderland,Manchester Utd,4,1,1.0
+1906-1907,9,1906-10-20,The Wednesday,Bristol City,3,0,1.0
+1906-1907,10,1906-10-20,Bury,Liverpool,1,3,0.0
+1906-1907,10,1906-10-20,Manchester City,Aston Villa,4,2,1.0
+1906-1907,10,1906-10-20,Blackburn,Stoke,3,1,1.0
+1906-1907,9,1906-10-27,Sheffield Utd,Arsenal,4,2,1.0
+1906-1907,10,1906-10-27,Bristol City,Bury,2,0,1.0
+1906-1907,10,1906-10-27,Manchester Utd,Birmingham,2,1,1.0
+1906-1907,10,1906-10-27,Blackburn,Derby County,5,1,1.0
+1906-1907,10,1906-10-27,Newcastle Utd,Preston,2,1,1.0
+1906-1907,10,1906-10-27,Liverpool,Manchester City,5,4,1.0
+1906-1907,10,1906-10-27,Notts County,The Wednesday,2,2,0.5
+1906-1907,11,1906-10-27,Stoke,Sunderland,2,2,0.5
+1906-1907,11,1906-10-27,Bolton,Everton,1,3,0.0
+1906-1907,11,1906-10-27,Aston Villa,Middlesbrough,2,3,0.0
+1906-1907,10,1906-11-03,The Wednesday,Sheffield Utd,2,2,0.5
+1906-1907,10,1906-11-03,Sunderland,Blackburn,1,0,1.0
+1906-1907,11,1906-11-03,Middlesbrough,Liverpool,0,1,0.0
+1906-1907,11,1906-11-03,Derby County,Newcastle Utd,0,0,0.5
+1906-1907,11,1906-11-03,Arsenal,Bolton,2,2,0.5
+1906-1907,11,1906-11-03,Manchester City,Bristol City,0,1,0.0
+1906-1907,11,1906-11-03,Birmingham,Stoke,2,1,1.0
+1906-1907,12,1906-11-03,Everton,Manchester Utd,3,0,1.0
+1906-1907,12,1906-11-03,Preston,Aston Villa,2,0,1.0
+1906-1907,12,1906-11-03,Bury,Notts County,3,0,1.0
+1906-1907,12,1906-11-10,Bolton,The Wednesday,0,0,0.5
+1906-1907,12,1906-11-10,Sunderland,Derby County,0,2,0.0
+1906-1907,12,1906-11-10,Liverpool,Preston,6,1,1.0
+1906-1907,12,1906-11-10,Bristol City,Middlesbrough,3,0,1.0
+1906-1907,12,1906-11-10,Notts County,Manchester City,0,0,0.5
+1906-1907,12,1906-11-10,Blackburn,Birmingham,1,0,1.0
+1906-1907,12,1906-11-10,Manchester Utd,Arsenal,1,0,1.0
+1906-1907,13,1906-11-10,Aston Villa,Newcastle Utd,0,0,0.5
+1906-1907,13,1906-11-10,Sheffield Utd,Bury,3,0,1.0
+1906-1907,13,1906-11-10,Stoke,Everton,2,0,1.0
+1906-1907,14,1906-11-12,Stoke,Blackburn,1,1,0.5
+1906-1907,12,1906-11-17,Middlesbrough,Notts County,2,0,1.0
+1906-1907,13,1906-11-17,Manchester City,Sheffield Utd,0,2,0.0
+1906-1907,13,1906-11-17,Birmingham,Sunderland,2,0,1.0
+1906-1907,13,1906-11-17,Newcastle Utd,Liverpool,2,0,1.0
+1906-1907,13,1906-11-17,Preston,Bristol City,3,1,1.0
+1906-1907,13,1906-11-17,The Wednesday,Manchester Utd,5,2,1.0
+1906-1907,14,1906-11-17,Derby County,Aston Villa,0,1,0.0
+1906-1907,14,1906-11-17,Everton,Blackburn,2,0,1.0
+1906-1907,14,1906-11-17,Bury,Bolton,2,3,0.0
+1906-1907,15,1906-11-17,Arsenal,Stoke,2,1,1.0
+1906-1907,13,1906-11-24,Sheffield Utd,Middlesbrough,1,1,0.5
+1906-1907,14,1906-11-24,Stoke,The Wednesday,1,1,0.5
+1906-1907,14,1906-11-24,Bolton,Manchester City,1,1,0.5
+1906-1907,14,1906-11-24,Birmingham,Derby County,2,1,1.0
+1906-1907,14,1906-11-24,Blackburn,Arsenal,2,3,0.0
+1906-1907,14,1906-11-24,Notts County,Preston,0,0,0.5
+1906-1907,14,1906-11-24,Bristol City,Newcastle Utd,2,1,1.0
+1906-1907,15,1906-11-24,Manchester Utd,Bury,2,4,0.0
+1906-1907,15,1906-11-24,Sunderland,Everton,1,0,1.0
+1906-1907,15,1906-11-24,Liverpool,Aston Villa,5,2,1.0
+1906-1907,14,1906-12-01,Preston,Sheffield Utd,2,1,1.0
+1906-1907,14,1906-12-01,Middlesbrough,Bolton,0,0,0.5
+1906-1907,15,1906-12-01,Everton,Birmingham,3,0,1.0
+1906-1907,15,1906-12-01,Derby County,Liverpool,0,1,0.0
+1906-1907,15,1906-12-01,Manchester City,Manchester Utd,3,0,1.0
+1906-1907,15,1906-12-01,Newcastle Utd,Notts County,4,3,1.0
+1906-1907,15,1906-12-01,The Wednesday,Blackburn,3,1,1.0
+1906-1907,15,1906-12-01,Arsenal,Sunderland,0,1,0.0
+1906-1907,16,1906-12-01,Bury,Stoke,2,0,1.0
+1906-1907,16,1906-12-01,Aston Villa,Bristol City,3,2,1.0
+1906-1907,15,1906-12-08,Manchester Utd,Middlesbrough,3,1,1.0
+1906-1907,15,1906-12-08,Preston,Bolton,3,1,1.0
+1906-1907,16,1906-12-08,Bristol City,Liverpool,3,1,1.0
+1906-1907,16,1906-12-08,Birmingham,Arsenal,5,1,1.0
+1906-1907,16,1906-12-08,Everton,Derby County,2,0,1.0
+1906-1907,16,1906-12-08,Sheffield Utd,Newcastle Utd,0,0,0.5
+1906-1907,16,1906-12-08,Sunderland,The Wednesday,1,1,0.5
+1906-1907,16,1906-12-08,Stoke,Manchester City,3,0,1.0
+1906-1907,17,1906-12-08,Notts County,Aston Villa,1,1,0.5
+1906-1907,17,1906-12-08,Blackburn,Bury,4,1,1.0
+1906-1907,16,1906-12-15,Middlesbrough,Stoke,5,0,1.0
+1906-1907,16,1906-12-15,Preston,Manchester Utd,2,0,1.0
+1906-1907,17,1906-12-15,Newcastle Utd,Bolton,4,0,1.0
+1906-1907,17,1906-12-15,The Wednesday,Birmingham,0,1,0.0
+1906-1907,17,1906-12-15,Bristol City,Derby County,3,0,1.0
+1906-1907,17,1906-12-15,Manchester City,Blackburn,0,0,0.5
+1906-1907,17,1906-12-15,Liverpool,Notts County,5,1,1.0
+1906-1907,18,1906-12-15,Bury,Sunderland,2,3,0.0
+1906-1907,18,1906-12-15,Aston Villa,Sheffield Utd,5,1,1.0
+1906-1907,18,1906-12-15,Arsenal,Everton,3,1,1.0
+1906-1907,17,1906-12-22,Stoke,Preston,0,2,0.0
+1906-1907,17,1906-12-22,Blackburn,Middlesbrough,4,1,1.0
+1906-1907,18,1906-12-22,Manchester Utd,Newcastle Utd,1,3,0.0
+1906-1907,18,1906-12-22,Notts County,Bristol City,2,3,0.0
+1906-1907,18,1906-12-22,Derby County,Arsenal,0,0,0.5
+1906-1907,18,1906-12-22,Sheffield Utd,Liverpool,1,0,1.0
+1906-1907,18,1906-12-22,Sunderland,Manchester City,1,1,0.5
+1906-1907,19,1906-12-22,Bolton,Aston Villa,1,2,0.0
+1906-1907,19,1906-12-22,Everton,The Wednesday,2,0,1.0
+1906-1907,19,1906-12-22,Birmingham,Bury,3,1,1.0
+1906-1907,19,1906-12-24,Derby County,Notts County,3,0,1.0
+1906-1907,19,1906-12-24,Bristol City,Sheffield Utd,3,3,0.5
+1906-1907,20,1906-12-24,Aston Villa,Preston,3,0,1.0
+1906-1907,21,1906-12-24,Stoke,Bolton,3,0,1.0
+1906-1907,18,1906-12-25,Middlesbrough,Sunderland,2,1,1.0
+1906-1907,19,1906-12-25,Blackburn,Newcastle Utd,4,0,1.0
+1906-1907,19,1906-12-25,Manchester Utd,Liverpool,0,0,0.5
+1906-1907,19,1906-12-25,Manchester City,Birmingham,1,0,1.0
+1906-1907,20,1906-12-25,The Wednesday,Derby County,1,1,0.5
+1906-1907,20,1906-12-25,Bury,Everton,1,2,0.0
+1906-1907,19,1906-12-26,Preston,Blackburn,1,0,1.0
+1906-1907,19,1906-12-26,Birmingham,Middlesbrough,0,0,0.5
+1906-1907,20,1906-12-26,Sheffield Utd,Notts County,2,1,1.0
+1906-1907,20,1906-12-26,Stoke,Newcastle Utd,1,2,0.0
+1906-1907,20,1906-12-26,Manchester City,Everton,3,1,1.0
+1906-1907,20,1906-12-26,Liverpool,Bolton,0,2,0.0
+1906-1907,21,1906-12-26,Arsenal,Bury,3,1,1.0
+1906-1907,21,1906-12-26,Aston Villa,Manchester Utd,2,0,1.0
+1906-1907,20,1906-12-29,Derby County,Sheffield Utd,3,0,1.0
+1906-1907,20,1906-12-29,Birmingham,Preston,3,0,1.0
+1906-1907,20,1906-12-29,Manchester Utd,Bristol City,0,0,0.5
+1906-1907,20,1906-12-29,Everton,Middlesbrough,5,1,1.0
+1906-1907,21,1906-12-29,Bolton,Notts County,0,0,0.5
+1906-1907,21,1906-12-29,Arsenal,Manchester City,4,1,1.0
+1906-1907,22,1906-12-29,The Wednesday,Bury,1,2,0.0
+1906-1907,22,1906-12-29,Blackburn,Aston Villa,2,1,1.0
+1906-1907,21,1906-12-31,Sheffield Utd,Bristol City,1,1,0.5
+1906-1907,21,1907-01-01,Middlesbrough,Birmingham,1,0,1.0
+1906-1907,21,1907-01-01,Blackburn,Preston,1,1,0.5
+1906-1907,21,1907-01-01,The Wednesday,Arsenal,1,1,0.5
+1906-1907,21,1907-01-01,Bolton,Liverpool,3,0,1.0
+1906-1907,21,1907-01-01,Newcastle Utd,Derby County,2,0,1.0
+1906-1907,23,1907-01-01,Everton,Bury,1,0,1.0
+1906-1907,23,1907-01-01,Manchester Utd,Aston Villa,1,0,1.0
+1906-1907,22,1907-01-02,Manchester City,Middlesbrough,3,1,1.0
+1906-1907,22,1907-01-02,Bolton,Preston,3,0,1.0
+1906-1907,22,1907-01-05,Sheffield Utd,Bolton,2,1,1.0
+1906-1907,22,1907-01-05,Newcastle Utd,Birmingham,2,0,1.0
+1906-1907,22,1907-01-05,Liverpool,Blackburn,0,2,0.0
+1906-1907,22,1907-01-05,Notts County,Manchester Utd,3,0,1.0
+1906-1907,22,1907-01-05,Bristol City,Stoke,4,0,1.0
+1906-1907,23,1907-01-05,Preston,Everton,1,1,0.5
+1906-1907,23,1907-01-05,Manchester City,The Wednesday,0,1,0.0
+1906-1907,23,1907-01-05,Middlesbrough,Arsenal,5,3,1.0
+1906-1907,24,1907-01-05,Bury,Derby County,1,0,1.0
+1906-1907,24,1907-01-05,Aston Villa,Sunderland,2,2,0.5
+1906-1907,23,1907-01-19,Manchester Utd,Sheffield Utd,2,0,1.0
+1906-1907,23,1907-01-19,Stoke,Notts County,1,1,0.5
+1906-1907,23,1907-01-19,Everton,Newcastle Utd,3,0,1.0
+1906-1907,23,1907-01-19,Blackburn,Bristol City,0,1,0.0
+1906-1907,23,1907-01-19,Sunderland,Liverpool,5,5,0.5
+1906-1907,24,1907-01-19,Arsenal,Preston,1,0,1.0
+1906-1907,24,1907-01-19,The Wednesday,Middlesbrough,0,2,0.0
+1906-1907,24,1907-01-19,Derby County,Bolton,0,1,0.0
+1906-1907,25,1907-01-19,Bury,Manchester City,3,1,1.0
+1906-1907,25,1907-01-19,Birmingham,Aston Villa,3,2,1.0
+1906-1907,24,1907-01-26,Notts County,Blackburn,1,2,0.0
+1906-1907,24,1907-01-26,Sheffield Utd,Stoke,2,0,1.0
+1906-1907,24,1907-01-26,Bristol City,Sunderland,1,1,0.5
+1906-1907,24,1907-01-26,Newcastle Utd,Arsenal,1,0,1.0
+1906-1907,24,1907-01-26,Liverpool,Birmingham,2,0,1.0
+1906-1907,25,1907-01-26,Bolton,Manchester Utd,0,1,0.0
+1906-1907,25,1907-01-26,Manchester City,Derby County,2,2,0.5
+1906-1907,25,1907-01-26,Preston,The Wednesday,1,0,1.0
+1906-1907,26,1907-01-26,Aston Villa,Everton,2,1,1.0
+1906-1907,26,1907-01-26,Middlesbrough,Bury,3,1,1.0
+1906-1907,25,1907-02-02,Newcastle Utd,Manchester Utd,5,0,1.0
+1906-1907,26,1907-02-02,Sheffield Utd,Preston,3,1,1.0
+1906-1907,25,1907-02-09,Bristol City,Everton,2,1,1.0
+1906-1907,25,1907-02-09,Notts County,Birmingham,2,2,0.5
+1906-1907,25,1907-02-09,Liverpool,Arsenal,4,0,1.0
+1906-1907,26,1907-02-09,Sheffield Utd,Sunderland,3,2,1.0
+1906-1907,26,1907-02-09,Preston,Manchester City,1,3,0.0
+1906-1907,26,1907-02-09,Middlesbrough,Derby County,4,1,1.0
+1906-1907,26,1907-02-09,Manchester Utd,Stoke,4,1,1.0
+1906-1907,26,1907-02-09,Bolton,Blackburn,5,2,1.0
+1906-1907,27,1907-02-09,Aston Villa,The Wednesday,8,1,1.0
+1906-1907,27,1907-02-09,Newcastle Utd,Bury,3,2,1.0
+1906-1907,28,1907-02-13,Sunderland,Preston,1,0,1.0
+1906-1907,26,1907-02-16,Arsenal,Bristol City,1,2,0.0
+1906-1907,26,1907-02-16,The Wednesday,Liverpool,2,3,0.0
+1906-1907,27,1907-02-16,Middlesbrough,Preston,2,1,1.0
+1906-1907,27,1907-02-16,Derby County,Stoke,2,1,1.0
+1906-1907,27,1907-02-16,Blackburn,Manchester Utd,2,4,0.0
+1906-1907,27,1907-02-16,Birmingham,Sheffield Utd,0,0,0.5
+1906-1907,27,1907-02-16,Sunderland,Bolton,1,2,0.0
+1906-1907,27,1907-02-16,Manchester City,Newcastle Utd,1,1,0.5
+1906-1907,28,1907-02-16,Bury,Aston Villa,0,3,0.0
+1906-1907,28,1907-02-23,Newcastle Utd,Middlesbrough,4,0,1.0
+1906-1907,29,1907-02-23,Aston Villa,Manchester City,4,1,1.0
+1906-1907,30,1907-02-23,Manchester Utd,Preston,3,0,1.0
+1906-1907,26,1907-03-02,The Wednesday,Notts County,1,3,0.0
+1906-1907,27,1907-03-02,Manchester City,Liverpool,1,0,1.0
+1906-1907,27,1907-03-02,Bury,Bristol City,1,1,0.5
+1906-1907,28,1907-03-02,Everton,Bolton,1,0,1.0
+1906-1907,28,1907-03-02,Derby County,Blackburn,2,3,0.0
+1906-1907,28,1907-03-02,Birmingham,Manchester Utd,1,1,0.5
+1906-1907,28,1907-03-02,Sunderland,Stoke,3,1,1.0
+1906-1907,28,1907-03-02,Arsenal,Sheffield Utd,0,1,0.0
+1906-1907,29,1907-03-02,Preston,Newcastle Utd,2,2,0.5
+1906-1907,30,1907-03-02,Middlesbrough,Aston Villa,1,0,1.0
+1906-1907,29,1907-03-04,Sheffield Utd,Everton,4,1,1.0
+1906-1907,28,1907-03-09,Bristol City,Manchester City,2,0,1.0
+1906-1907,29,1907-03-09,Stoke,Birmingham,3,0,1.0
+1906-1907,29,1907-03-09,Blackburn,Sunderland,2,1,1.0
+1906-1907,30,1907-03-09,Bolton,Bury,1,0,1.0
+1906-1907,32,1907-03-09,Preston,Derby County,1,0,1.0
+1906-1907,28,1907-03-11,Stoke,Liverpool,1,1,0.5
+1906-1907,30,1907-03-11,Bolton,Birmingham,2,3,0.0
+1906-1907,31,1907-03-13,Notts County,Bury,1,2,0.0
+1906-1907,28,1907-03-16,Arsenal,Manchester Utd,4,0,1.0
+1906-1907,28,1907-03-16,The Wednesday,Bolton,2,0,1.0
+1906-1907,29,1907-03-16,Preston,Liverpool,3,1,1.0
+1906-1907,29,1907-03-16,Middlesbrough,Bristol City,1,0,1.0
+1906-1907,30,1907-03-16,Derby County,Sunderland,1,1,0.5
+1906-1907,30,1907-03-16,Everton,Stoke,3,0,1.0
+1906-1907,31,1907-03-16,Newcastle Utd,Aston Villa,3,2,1.0
+1906-1907,31,1907-03-16,Birmingham,Blackburn,2,0,1.0
+1906-1907,31,1907-03-16,Manchester City,Notts County,2,1,1.0
+1906-1907,32,1907-03-16,Bury,Sheffield Utd,2,1,1.0
+1906-1907,31,1907-03-20,Sunderland,Newcastle Utd,2,0,1.0
+1906-1907,30,1907-03-23,Bristol City,Preston,1,0,1.0
+1906-1907,30,1907-03-23,Liverpool,Newcastle Utd,4,1,1.0
+1906-1907,32,1907-03-23,Aston Villa,Derby County,2,0,1.0
+1906-1907,32,1907-03-23,Sunderland,Birmingham,4,1,1.0
+1906-1907,32,1907-03-23,Sheffield Utd,Manchester City,1,4,0.0
+1906-1907,32,1907-03-25,Manchester Utd,Sunderland,2,0,1.0
+1906-1907,29,1907-03-27,Bolton,Arsenal,3,0,1.0
+1906-1907,29,1907-03-29,Notts County,Derby County,4,0,1.0
+1906-1907,29,1907-03-29,Arsenal,The Wednesday,1,0,1.0
+1906-1907,31,1907-03-29,Bolton,Bristol City,1,2,0.0
+1906-1907,31,1907-03-29,Everton,Liverpool,0,0,0.5
+1906-1907,32,1907-03-29,Blackburn,Sheffield Utd,1,1,0.5
+1906-1907,33,1907-03-29,Newcastle Utd,Stoke,1,0,1.0
+1906-1907,33,1907-03-29,Birmingham,Manchester City,4,0,1.0
+1906-1907,35,1907-03-29,Preston,Sunderland,2,0,1.0
+1906-1907,30,1907-03-30,Preston,Notts County,0,0,0.5
+1906-1907,30,1907-03-30,The Wednesday,Stoke,0,1,0.0
+1906-1907,31,1907-03-30,Middlesbrough,Sheffield Utd,0,1,0.0
+1906-1907,31,1907-03-30,Arsenal,Blackburn,2,0,1.0
+1906-1907,32,1907-03-30,Everton,Sunderland,4,1,1.0
+1906-1907,32,1907-03-30,Newcastle Utd,Bristol City,3,0,1.0
+1906-1907,33,1907-03-30,Bury,Manchester Utd,1,2,0.0
+1906-1907,33,1907-03-30,Aston Villa,Liverpool,4,0,1.0
+1906-1907,34,1907-03-30,Manchester City,Bolton,1,1,0.5
+1906-1907,34,1907-03-30,Derby County,Birmingham,1,1,0.5
+1906-1907,31,1907-04-01,Notts County,Sheffield Utd,4,0,1.0
+1906-1907,32,1907-04-01,Sunderland,Middlesbrough,4,2,1.0
+1906-1907,33,1907-04-01,Liverpool,Manchester Utd,0,1,0.0
+1906-1907,34,1907-04-01,Arsenal,Aston Villa,3,1,1.0
+1906-1907,34,1907-04-01,Derby County,The Wednesday,1,0,1.0
+1906-1907,34,1907-04-01,Bury,Preston,2,0,1.0
+1906-1907,35,1907-04-01,Newcastle Utd,Blackburn,3,1,1.0
+1906-1907,33,1907-04-02,Bristol City,Bolton,1,2,0.0
+1906-1907,35,1907-04-04,Sheffield Utd,The Wednesday,2,1,1.0
+1906-1907,33,1907-04-06,Bolton,Middlesbrough,1,0,1.0
+1906-1907,33,1907-04-06,Blackburn,The Wednesday,0,2,0.0
+1906-1907,33,1907-04-06,Sunderland,Arsenal,2,3,0.0
+1906-1907,34,1907-04-06,Liverpool,Derby County,2,0,1.0
+1906-1907,35,1907-04-06,Bristol City,Aston Villa,2,4,0.0
+1906-1907,35,1907-04-06,Stoke,Bury,3,1,1.0
+1906-1907,35,1907-04-06,Manchester Utd,Manchester City,1,1,0.5
+1906-1907,35,1907-04-06,Birmingham,Everton,1,0,1.0
+1906-1907,36,1907-04-06,Notts County,Newcastle Utd,1,0,1.0
+1906-1907,34,1907-04-08,Blackburn,Everton,2,1,1.0
+1906-1907,34,1907-04-10,Notts County,Middlesbrough,2,2,0.5
+1906-1907,34,1907-04-10,Manchester Utd,The Wednesday,5,0,1.0
+1906-1907,35,1907-04-10,Everton,Arsenal,2,1,1.0
+1906-1907,35,1907-04-13,The Wednesday,Sunderland,2,1,1.0
+1906-1907,35,1907-04-13,Liverpool,Bristol City,2,4,0.0
+1906-1907,35,1907-04-13,Middlesbrough,Manchester Utd,2,0,1.0
+1906-1907,36,1907-04-13,Manchester City,Stoke,2,2,0.5
+1906-1907,36,1907-04-13,Aston Villa,Notts County,0,0,0.5
+1906-1907,36,1907-04-13,Derby County,Everton,5,2,1.0
+1906-1907,36,1907-04-13,Bury,Blackburn,0,0,0.5
+1906-1907,36,1907-04-13,Arsenal,Birmingham,2,1,1.0
+1906-1907,37,1907-04-13,Newcastle Utd,Sheffield Utd,0,0,0.5
+1906-1907,36,1907-04-15,Stoke,Arsenal,2,0,1.0
+1906-1907,35,1907-04-17,Notts County,Arsenal,4,1,1.0
+1906-1907,36,1907-04-17,Liverpool,Middlesbrough,2,4,0.0
+1906-1907,36,1907-04-20,Derby County,Bristol City,1,3,0.0
+1906-1907,37,1907-04-20,Notts County,Liverpool,2,0,1.0
+1906-1907,37,1907-04-20,Sheffield Utd,Aston Villa,0,0,0.5
+1906-1907,37,1907-04-20,Blackburn,Manchester City,4,0,1.0
+1906-1907,37,1907-04-20,Sunderland,Bury,3,5,0.0
+1906-1907,37,1907-04-20,Stoke,Middlesbrough,0,2,0.0
+1906-1907,38,1907-04-20,Bolton,Newcastle Utd,4,2,1.0
+1906-1907,37,1907-04-22,Manchester Utd,Everton,3,0,1.0
+1906-1907,37,1907-04-24,Bristol City,The Wednesday,2,0,1.0
+1906-1907,37,1907-04-24,Sunderland,Notts County,3,1,1.0
+1906-1907,37,1907-04-25,Birmingham,The Wednesday,1,1,0.5
+1906-1907,38,1907-04-27,Arsenal,Derby County,3,2,1.0
+1906-1907,38,1907-04-27,Bury,Birmingham,1,0,1.0
+1906-1907,38,1907-04-27,Aston Villa,Bolton,0,2,0.0
+1906-1907,38,1907-04-27,Middlesbrough,Blackburn,0,1,0.0
+1906-1907,38,1907-04-27,Preston,Stoke,2,2,0.5
+1906-1907,38,1907-04-27,The Wednesday,Everton,1,1,0.5
+1906-1907,38,1907-04-27,Liverpool,Sheffield Utd,2,2,0.5
+1906-1907,38,1907-04-27,Bristol City,Notts County,1,0,1.0
+1906-1907,38,1907-04-27,Manchester City,Sunderland,2,3,0.0

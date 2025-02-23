@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,1,2017-08-19,Xanthi,PAS Lamia,0,0,0.5
+2017-2018,1,2017-08-19,Asteras Tripoli,PAS Giannina,1,2,0.0
+2017-2018,1,2017-08-19,Olympiacos,Larissa,4,1,1.0
+2017-2018,1,2017-08-20,Kerkyra,Panionios,0,1,0.0
+2017-2018,1,2017-08-20,Levadiakos,PAOK,0,0,0.5
+2017-2018,1,2017-08-20,AEK Athens,Panetolikos,2,0,1.0
+2017-2018,1,2017-08-20,Platanias,Panathinaikos,1,1,0.5
+2017-2018,1,2017-08-21,Atromitos,Apollon Smyrnis,1,1,0.5
+2017-2018,2,2017-08-26,Platanias,Xanthi,0,2,0.0
+2017-2018,2,2017-08-26,Panetolikos,Atromitos,2,2,0.5
+2017-2018,2,2017-08-26,PAS Lamia,Olympiacos,0,1,0.0
+2017-2018,2,2017-08-27,PAOK,Kerkyra,3,1,1.0
+2017-2018,2,2017-08-27,Panionios,Apollon Smyrnis,2,0,1.0
+2017-2018,2,2017-08-27,Panathinaikos,Levadiakos,0,0,0.5
+2017-2018,2,2017-08-27,PAS Giannina,AEK Athens,0,0,0.5
+2017-2018,2,2017-08-28,Larissa,Asteras Tripoli,1,1,0.5
+2017-2018,3,2017-09-09,Asteras Tripoli,PAS Lamia,1,3,0.0
+2017-2018,3,2017-09-09,Atromitos,PAS Giannina,0,0,0.5
+2017-2018,3,2017-09-09,Xanthi,Olympiacos,1,1,0.5
+2017-2018,3,2017-09-10,Panionios,Panetolikos,1,1,0.5
+2017-2018,3,2017-09-10,Levadiakos,Platanias,1,1,0.5
+2017-2018,3,2017-09-10,AEK Athens,Larissa,4,0,1.0
+2017-2018,3,2017-09-10,Kerkyra,Panathinaikos,1,0,1.0
+2017-2018,3,2017-09-11,Apollon Smyrnis,PAOK,0,0,0.5
+2017-2018,4,2017-09-16,Levadiakos,Xanthi,1,0,1.0
+2017-2018,4,2017-09-16,PAOK,Panetolikos,1,0,1.0
+2017-2018,4,2017-09-16,Olympiacos,Asteras Tripoli,1,1,0.5
+2017-2018,4,2017-09-17,Panathinaikos,Apollon Smyrnis,1,0,1.0
+2017-2018,4,2017-09-17,Larissa,Atromitos,0,0,0.5
+2017-2018,4,2017-09-17,Platanias,Kerkyra,0,0,0.5
+2017-2018,4,2017-09-17,PAS Lamia,AEK Athens,0,1,0.0
+2017-2018,4,2017-09-18,PAS Giannina,Panionios,1,1,0.5
+2017-2018,5,2017-09-23,Apollon Smyrnis,Platanias,0,1,0.0
+2017-2018,5,2017-09-23,Atromitos,PAS Lamia,3,0,1.0
+2017-2018,5,2017-09-23,Panetolikos,Panathinaikos,2,0,1.0
+2017-2018,5,2017-09-24,PAOK,PAS Giannina,1,0,1.0
+2017-2018,5,2017-09-24,Kerkyra,Levadiakos,1,1,0.5
+2017-2018,5,2017-09-24,Panionios,Larissa,4,1,1.0
+2017-2018,5,2017-09-24,AEK Athens,Olympiacos,3,2,1.0
+2017-2018,5,2017-09-25,Xanthi,Asteras Tripoli,0,0,0.5
+2017-2018,6,2017-09-30,Platanias,Panetolikos,0,3,0.0
+2017-2018,6,2017-09-30,Panathinaikos,PAS Giannina,2,0,1.0
+2017-2018,6,2017-09-30,Larissa,PAOK,1,1,0.5
+2017-2018,6,2017-10-01,Olympiacos,Atromitos,0,1,0.0
+2017-2018,6,2017-10-01,Levadiakos,Apollon Smyrnis,2,1,1.0
+2017-2018,6,2017-10-01,Kerkyra,Xanthi,0,2,0.0
+2017-2018,6,2017-10-01,Asteras Tripoli,AEK Athens,2,0,1.0
+2017-2018,6,2017-10-02,PAS Lamia,Panionios,1,0,1.0
+2017-2018,7,2017-10-14,PAS Giannina,Platanias,3,1,1.0
+2017-2018,7,2017-10-14,Atromitos,Asteras Tripoli,1,0,1.0
+2017-2018,7,2017-10-14,Panionios,Olympiacos,3,4,0.0
+2017-2018,7,2017-10-15,PAOK,PAS Lamia,4,0,1.0
+2017-2018,7,2017-10-15,Panetolikos,Levadiakos,0,1,0.0
+2017-2018,7,2017-10-15,Apollon Smyrnis,Kerkyra,0,0,0.5
+2017-2018,7,2017-10-15,Xanthi,AEK Athens,1,1,0.5
+2017-2018,7,2017-10-16,Panathinaikos,Larissa,2,1,1.0
+2017-2018,8,2017-10-21,Levadiakos,PAS Giannina,1,1,0.5
+2017-2018,8,2017-10-21,Kerkyra,Panetolikos,1,0,1.0
+2017-2018,8,2017-10-21,PAS Lamia,Panathinaikos,1,1,0.5
+2017-2018,8,2017-10-22,Asteras Tripoli,Panionios,0,1,0.0
+2017-2018,8,2017-10-22,Platanias,Larissa,0,1,0.0
+2017-2018,8,2017-10-22,Apollon Smyrnis,Xanthi,2,0,1.0
+2017-2018,8,2017-10-22,Olympiacos,PAOK,1,0,1.0
+2017-2018,8,2017-10-23,AEK Athens,Atromitos,0,1,0.0
+2017-2018,9,2017-10-28,Larissa,Levadiakos,1,0,1.0
+2017-2018,9,2017-10-28,PAS Giannina,Kerkyra,2,1,1.0
+2017-2018,9,2017-10-28,Panathinaikos,Olympiacos,1,0,1.0
+2017-2018,9,2017-10-29,Xanthi,Atromitos,0,2,0.0
+2017-2018,9,2017-10-29,Panetolikos,Apollon Smyrnis,1,1,0.5
+2017-2018,9,2017-10-29,PAS Lamia,Platanias,2,0,1.0
+2017-2018,9,2017-10-29,Panionios,AEK Athens,0,1,0.0
+2017-2018,9,2017-10-30,PAOK,Asteras Tripoli,2,0,1.0
+2017-2018,10,2017-11-04,Panetolikos,Xanthi,1,3,0.0
+2017-2018,10,2017-11-04,Atromitos,Panionios,0,0,0.5
+2017-2018,10,2017-11-04,Asteras Tripoli,Panathinaikos,1,0,1.0
+2017-2018,10,2017-11-05,Olympiacos,Platanias,5,1,1.0
+2017-2018,10,2017-11-05,Kerkyra,Larissa,1,1,0.5
+2017-2018,10,2017-11-05,Apollon Smyrnis,PAS Giannina,4,3,1.0
+2017-2018,10,2017-11-05,AEK Athens,PAOK,1,0,1.0
+2017-2018,10,2017-11-06,Levadiakos,PAS Lamia,0,0,0.5
+2017-2018,11,2017-11-18,PAS Lamia,Kerkyra,1,1,0.5
+2017-2018,11,2017-11-18,Larissa,Apollon Smyrnis,1,0,1.0
+2017-2018,11,2017-11-18,Olympiacos,Levadiakos,2,1,1.0
+2017-2018,11,2017-11-19,Xanthi,Panionios,2,0,1.0
+2017-2018,11,2017-11-19,Platanias,Asteras Tripoli,0,3,0.0
+2017-2018,11,2017-11-19,PAS Giannina,Panetolikos,1,1,0.5
+2017-2018,11,2017-11-19,Panathinaikos,AEK Athens,1,1,0.5
+2017-2018,11,2017-11-20,PAOK,Atromitos,2,1,1.0
+2017-2018,12,2017-11-25,PAS Giannina,Xanthi,1,1,0.5
+2017-2018,12,2017-11-25,Apollon Smyrnis,PAS Lamia,1,1,0.5
+2017-2018,12,2017-11-25,Atromitos,Panathinaikos,1,1,0.5
+2017-2018,12,2017-11-26,Panionios,PAOK,2,2,0.5
+2017-2018,12,2017-11-26,Asteras Tripoli,Levadiakos,2,0,1.0
+2017-2018,12,2017-11-26,Panetolikos,Larissa,3,1,1.0
+2017-2018,12,2017-11-26,Kerkyra,Olympiacos,1,3,0.0
+2017-2018,12,2017-11-27,AEK Athens,Platanias,3,0,1.0
+2017-2018,13,2017-12-02,Asteras Tripoli,Kerkyra,4,0,1.0
+2017-2018,13,2017-12-02,Xanthi,PAOK,0,3,0.0
+2017-2018,13,2017-12-02,Olympiacos,Apollon Smyrnis,3,1,1.0
+2017-2018,13,2017-12-03,Panathinaikos,Panionios,0,1,0.0
+2017-2018,13,2017-12-03,Larissa,PAS Giannina,1,1,0.5
+2017-2018,13,2017-12-03,PAS Lamia,Panetolikos,2,2,0.5
+2017-2018,13,2017-12-03,Levadiakos,AEK Athens,0,2,0.0
+2017-2018,13,2017-12-04,Platanias,Atromitos,1,3,0.0
+2017-2018,14,2017-12-09,Larissa,Xanthi,1,0,1.0
+2017-2018,14,2017-12-09,Panionios,Platanias,2,1,1.0
+2017-2018,14,2017-12-09,Panetolikos,Olympiacos,1,4,0.0
+2017-2018,14,2017-12-10,Apollon Smyrnis,Asteras Tripoli,1,3,0.0
+2017-2018,14,2017-12-10,PAS Giannina,PAS Lamia,1,1,0.5
+2017-2018,14,2017-12-10,Atromitos,Levadiakos,1,0,1.0
+2017-2018,14,2017-12-10,PAOK,Panathinaikos,4,0,1.0
+2017-2018,14,2017-12-11,AEK Athens,Kerkyra,3,1,1.0
+2017-2018,15,2017-12-16,Kerkyra,Atromitos,1,3,0.0
+2017-2018,15,2017-12-16,AEK Athens,Apollon Smyrnis,0,0,0.5
+2017-2018,15,2017-12-16,Platanias,PAOK,0,1,0.0
+2017-2018,15,2017-12-17,Olympiacos,PAS Giannina,1,0,1.0
+2017-2018,15,2017-12-17,Asteras Tripoli,Panetolikos,0,0,0.5
+2017-2018,15,2017-12-17,PAS Lamia,Larissa,0,2,0.0
+2017-2018,15,2017-12-17,Xanthi,Panathinaikos,1,1,0.5
+2017-2018,15,2017-12-18,Levadiakos,Panionios,2,1,1.0
+2017-2018,16,2018-01-06,Panionios,Kerkyra,3,1,1.0
+2017-2018,16,2018-01-06,PAOK,Levadiakos,5,0,1.0
+2017-2018,16,2018-01-06,Panetolikos,AEK Athens,1,4,0.0
+2017-2018,16,2018-01-07,Panathinaikos,Platanias,2,0,1.0
+2017-2018,16,2018-01-07,PAS Lamia,Xanthi,0,1,0.0
+2017-2018,16,2018-01-07,PAS Giannina,Asteras Tripoli,0,0,0.5
+2017-2018,16,2018-01-07,Larissa,Olympiacos,0,3,0.0
+2017-2018,16,2018-01-08,Apollon Smyrnis,Atromitos,0,3,0.0
+2017-2018,17,2018-01-13,Xanthi,Platanias,3,2,1.0
+2017-2018,17,2018-01-13,Apollon Smyrnis,Panionios,1,1,0.5
+2017-2018,17,2018-01-14,Kerkyra,PAOK,0,3,0.0
+2017-2018,17,2018-01-14,Atromitos,Panetolikos,0,1,0.0
+2017-2018,17,2018-01-14,Asteras Tripoli,Larissa,3,1,1.0
+2017-2018,17,2018-01-14,Levadiakos,Panathinaikos,3,2,1.0
+2017-2018,17,2018-01-14,AEK Athens,PAS Giannina,3,1,1.0
+2017-2018,17,2018-01-15,Olympiacos,PAS Lamia,2,0,1.0
+2017-2018,18,2018-01-20,Platanias,Levadiakos,1,0,1.0
+2017-2018,18,2018-01-20,Panathinaikos,Kerkyra,4,0,1.0
+2017-2018,18,2018-01-20,Larissa,AEK Athens,0,0,0.5
+2017-2018,18,2018-01-21,PAOK,Apollon Smyrnis,3,0,1.0
+2017-2018,18,2018-01-21,PAS Lamia,Asteras Tripoli,1,0,1.0
+2017-2018,18,2018-01-21,PAS Giannina,Atromitos,2,2,0.5
+2017-2018,18,2018-01-21,Panetolikos,Panionios,1,1,0.5
+2017-2018,18,2018-01-21,Olympiacos,Xanthi,3,0,1.0
+2017-2018,19,2018-01-27,Kerkyra,Platanias,2,0,1.0
+2017-2018,19,2018-01-27,Apollon Smyrnis,Panathinaikos,0,0,0.5
+2017-2018,19,2018-01-27,AEK Athens,PAS Lamia,2,0,1.0
+2017-2018,19,2018-01-28,Panetolikos,PAOK,0,1,0.0
+2017-2018,19,2018-01-28,Atromitos,Larissa,1,0,1.0
+2017-2018,19,2018-01-28,Xanthi,Levadiakos,2,1,1.0
+2017-2018,19,2018-01-28,Panionios,PAS Giannina,0,1,0.0
+2017-2018,19,2018-01-28,Asteras Tripoli,Olympiacos,1,1,0.5
+2017-2018,20,2018-02-03,Asteras Tripoli,Xanthi,1,1,0.5
+2017-2018,20,2018-02-03,Larissa,Panionios,0,0,0.5
+2017-2018,20,2018-02-03,Panathinaikos,Panetolikos,0,0,0.5
+2017-2018,20,2018-02-04,PAS Giannina,PAOK,1,3,0.0
+2017-2018,20,2018-02-04,Levadiakos,Kerkyra,2,0,1.0
+2017-2018,20,2018-02-04,PAS Lamia,Atromitos,1,1,0.5
+2017-2018,20,2018-02-04,Olympiacos,AEK Athens,1,2,0.0
+2017-2018,20,2018-02-05,Platanias,Apollon Smyrnis,1,1,0.5
+2017-2018,21,2018-02-10,Xanthi,Kerkyra,1,1,0.5
+2017-2018,21,2018-02-10,Panionios,PAS Lamia,1,0,1.0
+2017-2018,21,2018-02-10,PAS Giannina,Panathinaikos,2,1,1.0
+2017-2018,21,2018-02-11,Apollon Smyrnis,Levadiakos,1,1,0.5
+2017-2018,21,2018-02-11,Panetolikos,Platanias,3,0,1.0
+2017-2018,21,2018-02-11,AEK Athens,Asteras Tripoli,1,0,1.0
+2017-2018,21,2018-02-11,Atromitos,Olympiacos,2,2,0.5
+2017-2018,21,2018-02-12,PAOK,Larissa,3,0,1.0
+2017-2018,22,2018-02-17,Kerkyra,Apollon Smyrnis,2,0,1.0
+2017-2018,22,2018-02-17,Asteras Tripoli,Atromitos,0,1,0.0
+2017-2018,22,2018-02-17,PAS Lamia,PAOK,0,2,0.0
+2017-2018,22,2018-02-18,Platanias,PAS Giannina,0,3,0.0
+2017-2018,22,2018-02-18,AEK Athens,Xanthi,4,0,1.0
+2017-2018,22,2018-02-18,Levadiakos,Panetolikos,1,2,0.0
+2017-2018,22,2018-02-18,Olympiacos,Panionios,1,0,1.0
+2017-2018,22,2018-02-19,Larissa,Panathinaikos,0,1,0.0
+2017-2018,23,2018-02-24,PAS Giannina,Levadiakos,0,0,0.5
+2017-2018,23,2018-02-24,Panionios,Asteras Tripoli,0,0,0.5
+2017-2018,23,2018-02-24,Panathinaikos,PAS Lamia,2,0,1.0
+2017-2018,23,2018-02-25,Xanthi,Apollon Smyrnis,2,0,1.0
+2017-2018,23,2018-02-25,Larissa,Platanias,1,0,1.0
+2017-2018,23,2018-02-25,Panetolikos,Kerkyra,1,0,1.0
+2017-2018,23,2018-02-25,PAOK,Olympiacos,0,3,0.0
+2017-2018,23,2018-02-26,Atromitos,AEK Athens,1,1,0.5
+2017-2018,24,2018-03-03,Platanias,PAS Lamia,1,2,0.0
+2017-2018,24,2018-03-03,Kerkyra,PAS Giannina,1,1,0.5
+2017-2018,24,2018-03-03,Atromitos,Xanthi,1,0,1.0
+2017-2018,24,2018-03-04,Asteras Tripoli,PAOK,3,2,1.0
+2017-2018,24,2018-03-04,AEK Athens,Panionios,1,0,1.0
+2017-2018,24,2018-03-04,Levadiakos,Larissa,2,1,1.0
+2017-2018,24,2018-03-04,Olympiacos,Panathinaikos,1,1,0.5
+2017-2018,24,2018-03-05,Apollon Smyrnis,Panetolikos,2,1,1.0
+2017-2018,25,2018-03-10,Larissa,Kerkyra,0,0,0.5
+2017-2018,25,2018-03-10,Panionios,Atromitos,2,2,0.5
+2017-2018,25,2018-03-10,Panathinaikos,Asteras Tripoli,1,1,0.5
+2017-2018,25,2018-03-11,Platanias,Olympiacos,0,4,0.0
+2017-2018,25,2018-03-11,Xanthi,Panetolikos,1,0,1.0
+2017-2018,25,2018-03-11,PAS Lamia,Levadiakos,1,1,0.5
+2017-2018,25,2018-03-11,PAOK,AEK Athens,0,3,0.0
+2017-2018,26,2018-03-31,Panetolikos,PAS Giannina,1,0,1.0
+2017-2018,26,2018-03-31,Atromitos,PAOK,0,2,0.0
+2017-2018,26,2018-03-31,Levadiakos,Olympiacos,1,1,0.5
+2017-2018,26,2018-04-01,Panionios,Xanthi,0,0,0.5
+2017-2018,26,2018-04-01,Kerkyra,PAS Lamia,0,0,0.5
+2017-2018,26,2018-04-01,Apollon Smyrnis,Larissa,3,0,1.0
+2017-2018,26,2018-04-01,AEK Athens,Panathinaikos,3,0,1.0
+2017-2018,26,2018-04-02,Asteras Tripoli,Platanias,4,0,1.0
+2017-2018,25,2018-04-04,PAS Giannina,Apollon Smyrnis,0,1,0.0
+2017-2018,27,2018-04-14,PAS Lamia,Apollon Smyrnis,0,0,0.5
+2017-2018,27,2018-04-14,Levadiakos,Asteras Tripoli,1,0,1.0
+2017-2018,27,2018-04-14,PAOK,Panionios,3,1,1.0
+2017-2018,27,2018-04-15,Larissa,Panetolikos,4,2,1.0
+2017-2018,27,2018-04-15,Xanthi,PAS Giannina,3,0,1.0
+2017-2018,27,2018-04-15,Panathinaikos,Atromitos,1,0,1.0
+2017-2018,27,2018-04-15,Platanias,AEK Athens,0,1,0.0
+2017-2018,27,2018-04-16,Olympiacos,Kerkyra,5,1,1.0
+2017-2018,28,2018-04-22,Panetolikos,PAS Lamia,1,0,1.0
+2017-2018,28,2018-04-22,PAOK,Xanthi,2,1,1.0
+2017-2018,28,2018-04-22,Kerkyra,Asteras Tripoli,1,3,0.0
+2017-2018,28,2018-04-22,Apollon Smyrnis,Olympiacos,1,0,1.0
+2017-2018,28,2018-04-22,Panionios,Panathinaikos,0,3,0.0
+2017-2018,28,2018-04-22,Atromitos,Platanias,4,1,1.0
+2017-2018,28,2018-04-22,AEK Athens,Levadiakos,2,0,1.0
+2017-2018,28,2018-04-22,PAS Giannina,Larissa,0,0,0.5
+2017-2018,29,2018-04-29,Levadiakos,Atromitos,0,1,0.0
+2017-2018,29,2018-04-29,Kerkyra,AEK Athens,0,0,0.5
+2017-2018,29,2018-04-29,Olympiacos,Panetolikos,4,0,1.0
+2017-2018,29,2018-04-29,Xanthi,Larissa,1,0,1.0
+2017-2018,29,2018-04-29,Panathinaikos,PAOK,0,3,0.0
+2017-2018,29,2018-04-29,PAS Lamia,PAS Giannina,2,1,1.0
+2017-2018,29,2018-04-29,Asteras Tripoli,Apollon Smyrnis,2,1,1.0
+2017-2018,29,2018-04-29,Platanias,Panionios,1,2,0.0
+2017-2018,30,2018-05-05,Atromitos,Kerkyra,4,0,1.0
+2017-2018,30,2018-05-05,Apollon Smyrnis,AEK Athens,0,1,0.0
+2017-2018,30,2018-05-05,Larissa,PAS Lamia,1,1,0.5
+2017-2018,30,2018-05-05,PAOK,Platanias,3,0,1.0
+2017-2018,30,2018-05-06,Panetolikos,Asteras Tripoli,0,2,0.0
+2017-2018,30,2018-05-06,PAS Giannina,Olympiacos,3,0,1.0
+2017-2018,30,2018-05-06,Panionios,Levadiakos,2,0,1.0
+2017-2018,30,2018-05-07,Panathinaikos,Xanthi,1,2,0.0

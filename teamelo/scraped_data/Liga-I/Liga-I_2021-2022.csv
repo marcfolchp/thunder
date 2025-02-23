@@ -1,0 +1,321 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,Regular season,1,2021-07-15,Botoșani,FCSB,0,0,0.5
+2021-2022,Regular season,1,2021-07-16,Sepsi,Clinceni,2,0,1.0
+2021-2022,Regular season,1,2021-07-16,CFR Cluj,FC U Craiova,3,2,1.0
+2021-2022,Regular season,1,2021-07-17,Gaz Metan,Mioveni,1,0,1.0
+2021-2022,Regular season,1,2021-07-17,CS U Craiova,Argeș Pitești,1,0,1.0
+2021-2022,Regular season,1,2021-07-18,UTA Arad,Farul Constanța,0,0,0.5
+2021-2022,Regular season,1,2021-07-18,Rapid București,Chindia,1,0,1.0
+2021-2022,Regular season,1,2021-07-19,Dinamo,Voluntari,3,2,1.0
+2021-2022,Regular season,2,2021-07-23,Argeș Pitești,UTA Arad,0,1,0.0
+2021-2022,Regular season,2,2021-07-23,Mioveni,Rapid București,0,2,0.0
+2021-2022,Regular season,2,2021-07-24,Voluntari,Botoșani,0,1,0.0
+2021-2022,Regular season,2,2021-07-24,Clinceni,CFR Cluj,1,2,0.0
+2021-2022,Regular season,2,2021-07-25,Farul Constanța,Gaz Metan,2,0,1.0
+2021-2022,Regular season,2,2021-07-25,FCSB,CS U Craiova,4,1,1.0
+2021-2022,Regular season,2,2021-07-26,Chindia,Sepsi,1,1,0.5
+2021-2022,Regular season,2,2021-07-26,FC U Craiova,Dinamo,1,0,1.0
+2021-2022,Regular season,3,2021-07-30,Gaz Metan,Argeș Pitești,2,2,0.5
+2021-2022,Regular season,3,2021-07-30,Rapid București,Farul Constanța,0,0,0.5
+2021-2022,Regular season,3,2021-07-31,Voluntari,FC U Craiova,2,1,1.0
+2021-2022,Regular season,3,2021-07-31,CFR Cluj,Chindia,1,0,1.0
+2021-2022,Regular season,3,2021-08-01,CS U Craiova,Botoșani,1,2,0.0
+2021-2022,Regular season,3,2021-08-01,UTA Arad,FCSB,1,1,0.5
+2021-2022,Regular season,3,2021-08-02,Sepsi,Mioveni,1,2,0.0
+2021-2022,Regular season,3,2021-08-02,Dinamo,Clinceni,3,1,1.0
+2021-2022,Regular season,4,2021-08-06,Botoșani,UTA Arad,2,1,1.0
+2021-2022,Regular season,4,2021-08-06,Mioveni,CFR Cluj,0,1,0.0
+2021-2022,Regular season,4,2021-08-07,Clinceni,FC U Craiova,1,2,0.0
+2021-2022,Regular season,4,2021-08-07,Argeș Pitești,Rapid București,0,1,0.0
+2021-2022,Regular season,4,2021-08-08,Chindia,Dinamo,1,0,1.0
+2021-2022,Regular season,4,2021-08-08,FCSB,Gaz Metan,2,1,1.0
+2021-2022,Regular season,4,2021-08-09,Farul Constanța,Sepsi,1,0,1.0
+2021-2022,Regular season,4,2021-08-09,CS U Craiova,Voluntari,3,0,1.0
+2021-2022,Regular season,5,2021-08-13,Voluntari,Clinceni,1,0,1.0
+2021-2022,Regular season,5,2021-08-13,CFR Cluj,Farul Constanța,1,0,1.0
+2021-2022,Regular season,5,2021-08-14,FC U Craiova,Chindia,0,0,0.5
+2021-2022,Regular season,5,2021-08-14,UTA Arad,CS U Craiova,1,0,1.0
+2021-2022,Regular season,5,2021-08-15,Sepsi,Argeș Pitești,0,2,0.0
+2021-2022,Regular season,5,2021-08-15,Rapid București,FCSB,1,0,1.0
+2021-2022,Regular season,5,2021-08-16,Gaz Metan,Botoșani,0,1,0.0
+2021-2022,Regular season,5,2021-08-16,Dinamo,Mioveni,0,1,0.0
+2021-2022,Regular season,6,2021-08-20,Chindia,Clinceni,2,2,0.5
+2021-2022,Regular season,6,2021-08-20,Farul Constanța,Dinamo,3,0,1.0
+2021-2022,Regular season,6,2021-08-21,CS U Craiova,Gaz Metan,1,0,1.0
+2021-2022,Regular season,6,2021-08-21,Argeș Pitești,CFR Cluj,0,1,0.0
+2021-2022,Regular season,6,2021-08-22,UTA Arad,Voluntari,2,0,1.0
+2021-2022,Regular season,6,2021-08-22,Botoșani,Rapid București,0,2,0.0
+2021-2022,Regular season,6,2021-08-23,Mioveni,FC U Craiova,1,0,1.0
+2021-2022,Regular season,6,2021-08-23,FCSB,Sepsi,1,1,0.5
+2021-2022,Regular season,7,2021-08-27,Voluntari,Chindia,2,1,1.0
+2021-2022,Regular season,7,2021-08-27,FC U Craiova,Farul Constanța,1,1,0.5
+2021-2022,Regular season,7,2021-08-28,Dinamo,Argeș Pitești,0,2,0.0
+2021-2022,Regular season,7,2021-08-28,Rapid București,CS U Craiova,1,2,0.0
+2021-2022,Regular season,7,2021-08-29,Sepsi,Botoșani,1,1,0.5
+2021-2022,Regular season,7,2021-08-29,CFR Cluj,FCSB,4,1,1.0
+2021-2022,Regular season,7,2021-08-30,Clinceni,Mioveni,1,1,0.5
+2021-2022,Regular season,7,2021-08-30,Gaz Metan,UTA Arad,0,1,0.0
+2021-2022,Regular season,8,2021-09-10,Mioveni,Chindia,0,1,0.0
+2021-2022,Regular season,8,2021-09-10,UTA Arad,Rapid București,2,2,0.5
+2021-2022,Regular season,8,2021-09-11,Argeș Pitești,FC U Craiova,1,0,1.0
+2021-2022,Regular season,8,2021-09-11,Botoșani,CFR Cluj,1,0,1.0
+2021-2022,Regular season,8,2021-09-12,Gaz Metan,Voluntari,1,2,0.0
+2021-2022,Regular season,8,2021-09-12,FCSB,Dinamo,6,0,1.0
+2021-2022,Regular season,8,2021-09-13,Farul Constanța,Clinceni,5,0,1.0
+2021-2022,Regular season,8,2021-09-13,CS U Craiova,Sepsi,1,1,0.5
+2021-2022,Regular season,9,2021-09-17,Voluntari,Mioveni,4,0,1.0
+2021-2022,Regular season,9,2021-09-17,Rapid București,Gaz Metan,1,2,0.0
+2021-2022,Regular season,9,2021-09-18,Chindia,Farul Constanța,2,0,1.0
+2021-2022,Regular season,9,2021-09-18,FC U Craiova,FCSB,0,1,0.0
+2021-2022,Regular season,9,2021-09-19,Clinceni,Argeș Pitești,0,1,0.0
+2021-2022,Regular season,9,2021-09-19,Sepsi,UTA Arad,0,0,0.5
+2021-2022,Regular season,9,2021-09-19,Dinamo,Botoșani,1,2,0.0
+2021-2022,Regular season,9,2021-09-20,CFR Cluj,CS U Craiova,1,0,1.0
+2021-2022,Regular season,10,2021-09-24,Rapid București,Voluntari,0,1,0.0
+2021-2022,Regular season,10,2021-09-25,Argeș Pitești,Chindia,0,0,0.5
+2021-2022,Regular season,10,2021-09-25,FCSB,Clinceni,3,2,1.0
+2021-2022,Regular season,10,2021-09-26,Farul Constanța,Mioveni,2,1,1.0
+2021-2022,Regular season,10,2021-09-26,Botoșani,FC U Craiova,1,1,0.5
+2021-2022,Regular season,10,2021-09-26,UTA Arad,CFR Cluj,0,1,0.0
+2021-2022,Regular season,10,2021-09-27,Gaz Metan,Sepsi,0,0,0.5
+2021-2022,Regular season,10,2021-09-27,CS U Craiova,Dinamo,5,0,1.0
+2021-2022,Regular season,11,2021-10-01,Mioveni,Argeș Pitești,0,0,0.5
+2021-2022,Regular season,11,2021-10-01,Chindia,FCSB,0,1,0.0
+2021-2022,Regular season,11,2021-10-02,Dinamo,UTA Arad,2,2,0.5
+2021-2022,Regular season,11,2021-10-02,Sepsi,Rapid București,2,2,0.5
+2021-2022,Regular season,11,2021-10-03,Voluntari,Farul Constanța,1,0,1.0
+2021-2022,Regular season,11,2021-10-03,CFR Cluj,Gaz Metan,2,1,1.0
+2021-2022,Regular season,11,2021-10-03,FC U Craiova,CS U Craiova,0,2,0.0
+2021-2022,Regular season,11,2021-10-04,Clinceni,Botoșani,1,1,0.5
+2021-2022,Regular season,12,2021-10-15,Gaz Metan,Dinamo,2,1,1.0
+2021-2022,Regular season,12,2021-10-16,Sepsi,Voluntari,1,2,0.0
+2021-2022,Regular season,12,2021-10-16,FCSB,Mioveni,3,0,1.0
+2021-2022,Regular season,12,2021-10-17,Argeș Pitești,Farul Constanța,2,1,1.0
+2021-2022,Regular season,12,2021-10-17,UTA Arad,FC U Craiova,1,0,1.0
+2021-2022,Regular season,12,2021-10-17,Rapid București,CFR Cluj,2,0,1.0
+2021-2022,Regular season,12,2021-10-18,Botoșani,Chindia,0,0,0.5
+2021-2022,Regular season,12,2021-10-18,CS U Craiova,Clinceni,5,0,1.0
+2021-2022,Regular season,13,2021-10-22,FC U Craiova,Gaz Metan,2,0,1.0
+2021-2022,Regular season,13,2021-10-22,Chindia,CS U Craiova,0,1,0.0
+2021-2022,Regular season,13,2021-10-23,Voluntari,Argeș Pitești,0,2,0.0
+2021-2022,Regular season,13,2021-10-23,Mioveni,Botoșani,1,1,0.5
+2021-2022,Regular season,13,2021-10-23,Dinamo,Rapid București,1,1,0.5
+2021-2022,Regular season,13,2021-10-25,Clinceni,UTA Arad,0,3,0.0
+2021-2022,Regular season,13,2021-10-25,CFR Cluj,Sepsi,2,0,1.0
+2021-2022,Regular season,14,2021-10-29,Botoșani,Farul Constanța,0,2,0.0
+2021-2022,Regular season,14,2021-10-30,CS U Craiova,Mioveni,5,2,1.0
+2021-2022,Regular season,14,2021-10-30,CFR Cluj,Voluntari,1,0,1.0
+2021-2022,Regular season,14,2021-10-31,Gaz Metan,Clinceni,1,1,0.5
+2021-2022,Regular season,14,2021-10-31,Sepsi,Dinamo,4,1,1.0
+2021-2022,Regular season,14,2021-10-31,FCSB,Argeș Pitești,2,1,1.0
+2021-2022,Regular season,14,2021-11-01,UTA Arad,Chindia,0,2,0.0
+2021-2022,Regular season,14,2021-11-01,Rapid București,FC U Craiova,0,0,0.5
+2021-2022,Regular season,13,2021-11-04,Farul Constanța,FCSB,0,1,0.0
+2021-2022,Regular season,15,2021-11-05,Chindia,Gaz Metan,0,1,0.0
+2021-2022,Regular season,15,2021-11-05,Argeș Pitești,Botoșani,0,1,0.0
+2021-2022,Regular season,15,2021-11-06,Mioveni,UTA Arad,0,0,0.5
+2021-2022,Regular season,15,2021-11-06,FC U Craiova,Sepsi,1,1,0.5
+2021-2022,Regular season,15,2021-11-07,Farul Constanța,CS U Craiova,1,0,1.0
+2021-2022,Regular season,15,2021-11-07,Dinamo,CFR Cluj,0,3,0.0
+2021-2022,Regular season,15,2021-11-07,Voluntari,FCSB,0,0,0.5
+2021-2022,Regular season,15,2021-11-08,Clinceni,Rapid București,2,3,0.0
+2021-2022,Regular season,16,2021-11-19,Clinceni,Sepsi,0,2,0.0
+2021-2022,Regular season,16,2021-11-19,Chindia,Rapid București,2,2,0.5
+2021-2022,Regular season,16,2021-11-20,Farul Constanța,UTA Arad,0,0,0.5
+2021-2022,Regular season,16,2021-11-20,FC U Craiova,CFR Cluj,0,2,0.0
+2021-2022,Regular season,16,2021-11-21,Argeș Pitești,CS U Craiova,3,2,1.0
+2021-2022,Regular season,16,2021-11-21,FCSB,Botoșani,3,1,1.0
+2021-2022,Regular season,16,2021-11-22,Mioveni,Gaz Metan,1,0,1.0
+2021-2022,Regular season,16,2021-11-22,Voluntari,Dinamo,2,1,1.0
+2021-2022,Regular season,17,2021-11-26,Dinamo,FC U Craiova,0,0,0.5
+2021-2022,Regular season,17,2021-11-27,Sepsi,Chindia,0,0,0.5
+2021-2022,Regular season,17,2021-11-27,UTA Arad,Argeș Pitești,0,1,0.0
+2021-2022,Regular season,17,2021-11-27,Rapid București,Mioveni,1,1,0.5
+2021-2022,Regular season,17,2021-11-28,Botoșani,Voluntari,1,1,0.5
+2021-2022,Regular season,17,2021-11-28,CS U Craiova,FCSB,2,3,0.0
+2021-2022,Regular season,17,2021-11-29,Gaz Metan,Farul Constanța,1,1,0.5
+2021-2022,Regular season,17,2021-11-29,CFR Cluj,Clinceni,2,0,1.0
+2021-2022,Regular season,18,2021-12-03,Clinceni,Dinamo,1,0,1.0
+2021-2022,Regular season,18,2021-12-04,Chindia,CFR Cluj,0,1,0.0
+2021-2022,Regular season,18,2021-12-04,Farul Constanța,Rapid București,2,0,1.0
+2021-2022,Regular season,18,2021-12-05,Mioveni,Sepsi,0,2,0.0
+2021-2022,Regular season,18,2021-12-05,FC U Craiova,Voluntari,0,2,0.0
+2021-2022,Regular season,18,2021-12-05,FCSB,UTA Arad,2,1,1.0
+2021-2022,Regular season,18,2021-12-06,Argeș Pitești,Gaz Metan,1,2,0.0
+2021-2022,Regular season,18,2021-12-06,Botoșani,CS U Craiova,2,2,0.5
+2021-2022,Regular season,19,2021-12-10,FC U Craiova,Clinceni,1,2,0.0
+2021-2022,Regular season,19,2021-12-10,Rapid București,Argeș Pitești,2,0,1.0
+2021-2022,Regular season,19,2021-12-11,UTA Arad,Botoșani,0,0,0.5
+2021-2022,Regular season,19,2021-12-11,Voluntari,CS U Craiova,1,1,0.5
+2021-2022,Regular season,19,2021-12-11,Gaz Metan,FCSB,0,1,0.0
+2021-2022,Regular season,19,2021-12-12,Sepsi,Farul Constanța,1,0,1.0
+2021-2022,Regular season,19,2021-12-12,CFR Cluj,Mioveni,1,0,1.0
+2021-2022,Regular season,19,2021-12-13,Dinamo,Chindia,1,0,1.0
+2021-2022,Regular season,20,2021-12-14,Clinceni,Voluntari,0,0,0.5
+2021-2022,Regular season,20,2021-12-14,CS U Craiova,UTA Arad,0,0,0.5
+2021-2022,Regular season,20,2021-12-15,Botoșani,Gaz Metan,2,1,1.0
+2021-2022,Regular season,20,2021-12-15,Argeș Pitești,Sepsi,1,1,0.5
+2021-2022,Regular season,20,2021-12-15,FCSB,Rapid București,3,1,1.0
+2021-2022,Regular season,20,2021-12-16,Chindia,FC U Craiova,0,3,0.0
+2021-2022,Regular season,20,2021-12-16,Mioveni,Dinamo,2,1,1.0
+2021-2022,Regular season,20,2021-12-16,Farul Constanța,CFR Cluj,0,2,0.0
+2021-2022,Regular season,21,2021-12-17,Voluntari,UTA Arad,2,1,1.0
+2021-2022,Regular season,21,2021-12-18,Gaz Metan,CS U Craiova,1,1,0.5
+2021-2022,Regular season,21,2021-12-18,Rapid București,Botoșani,1,1,0.5
+2021-2022,Regular season,21,2021-12-19,Clinceni,Chindia,0,1,0.0
+2021-2022,Regular season,21,2021-12-19,CFR Cluj,Argeș Pitești,1,0,1.0
+2021-2022,Regular season,21,2021-12-19,Sepsi,FCSB,0,0,0.5
+2021-2022,Regular season,21,2021-12-20,FC U Craiova,Mioveni,0,0,0.5
+2021-2022,Regular season,21,2021-12-20,Dinamo,Farul Constanța,0,2,0.0
+2021-2022,Regular season,22,2022-01-21,Argeș Pitești,Dinamo,2,1,1.0
+2021-2022,Regular season,22,2022-01-22,Chindia,Voluntari,0,0,0.5
+2021-2022,Regular season,22,2022-01-22,CS U Craiova,Rapid București,1,0,1.0
+2021-2022,Regular season,22,2022-01-23,Mioveni,Clinceni,3,1,1.0
+2021-2022,Regular season,22,2022-01-23,UTA Arad,Gaz Metan,0,1,0.0
+2021-2022,Regular season,22,2022-01-23,FCSB,CFR Cluj,3,3,0.5
+2021-2022,Regular season,22,2022-01-24,Botoșani,Sepsi,1,0,1.0
+2021-2022,Regular season,22,2022-01-24,Farul Constanța,FC U Craiova,3,2,1.0
+2021-2022,Regular season,23,2022-01-28,Sepsi,CS U Craiova,3,1,1.0
+2021-2022,Regular season,23,2022-01-29,Voluntari,Gaz Metan,3,1,1.0
+2021-2022,Regular season,23,2022-01-29,Rapid București,UTA Arad,1,1,0.5
+2021-2022,Regular season,23,2022-01-30,Chindia,Mioveni,0,0,0.5
+2021-2022,Regular season,23,2022-01-30,FC U Craiova,Argeș Pitești,1,0,1.0
+2021-2022,Regular season,23,2022-01-30,Dinamo,FCSB,0,3,0.0
+2021-2022,Regular season,23,2022-01-31,CFR Cluj,Botoșani,1,1,0.5
+2021-2022,Regular season,24,2022-02-04,Mioveni,Voluntari,0,0,0.5
+2021-2022,Regular season,24,2022-02-04,Gaz Metan,Rapid București,1,1,0.5
+2021-2022,Regular season,24,2022-02-05,UTA Arad,Sepsi,1,0,1.0
+2021-2022,Regular season,24,2022-02-05,Farul Constanța,Chindia,0,1,0.0
+2021-2022,Regular season,24,2022-02-05,CS U Craiova,CFR Cluj,1,1,0.5
+2021-2022,Regular season,24,2022-02-06,Argeș Pitești,Clinceni,1,0,1.0
+2021-2022,Regular season,24,2022-02-06,FCSB,FC U Craiova,2,2,0.5
+2021-2022,Regular season,24,2022-02-07,Botoșani,Dinamo,4,0,1.0
+2021-2022,Regular season,25,2022-02-08,Sepsi,Gaz Metan,2,0,1.0
+2021-2022,Regular season,25,2022-02-08,CFR Cluj,UTA Arad,0,0,0.5
+2021-2022,Regular season,25,2022-02-08,Voluntari,Rapid București,0,0,0.5
+2021-2022,Regular season,25,2022-02-09,Chindia,Argeș Pitești,1,1,0.5
+2021-2022,Regular season,25,2022-02-09,Mioveni,Farul Constanța,1,1,0.5
+2021-2022,Regular season,25,2022-02-09,Clinceni,FCSB,0,3,0.0
+2021-2022,Regular season,25,2022-02-10,FC U Craiova,Botoșani,3,2,1.0
+2021-2022,Regular season,25,2022-02-10,Dinamo,CS U Craiova,1,6,0.0
+2021-2022,Regular season,26,2022-02-11,Rapid București,Sepsi,1,1,0.5
+2021-2022,Regular season,26,2022-02-12,Farul Constanța,Voluntari,3,0,1.0
+2021-2022,Regular season,26,2022-02-12,Gaz Metan,CFR Cluj,1,2,0.0
+2021-2022,Regular season,26,2022-02-13,Argeș Pitești,Mioveni,1,0,1.0
+2021-2022,Regular season,26,2022-02-13,UTA Arad,Dinamo,0,0,0.5
+2021-2022,Regular season,26,2022-02-13,FCSB,Chindia,3,2,1.0
+2021-2022,Regular season,26,2022-02-14,Botoșani,Clinceni,2,0,1.0
+2021-2022,Regular season,26,2022-02-14,CS U Craiova,FC U Craiova,2,0,1.0
+2021-2022,Regular season,23,2022-02-17,Clinceni,Farul Constanța,2,8,0.0
+2021-2022,Regular season,27,2022-02-18,FC U Craiova,UTA Arad,1,1,0.5
+2021-2022,Regular season,27,2022-02-18,Dinamo,Gaz Metan,4,0,1.0
+2021-2022,Regular season,27,2022-02-19,Voluntari,Sepsi,3,1,1.0
+2021-2022,Regular season,27,2022-02-19,Mioveni,FCSB,1,1,0.5
+2021-2022,Regular season,27,2022-02-20,Chindia,Botoșani,1,1,0.5
+2021-2022,Regular season,27,2022-02-20,CFR Cluj,Rapid București,2,1,1.0
+2021-2022,Regular season,27,2022-02-21,Farul Constanța,Argeș Pitești,0,1,0.0
+2021-2022,Regular season,27,2022-02-21,Clinceni,CS U Craiova,1,3,0.0
+2021-2022,Regular season,28,2022-02-25,UTA Arad,Clinceni,2,0,1.0
+2021-2022,Regular season,28,2022-02-25,CS U Craiova,Chindia,1,0,1.0
+2021-2022,Regular season,28,2022-02-26,Gaz Metan,FC U Craiova,0,3,0.0
+2021-2022,Regular season,28,2022-02-26,Sepsi,CFR Cluj,0,2,0.0
+2021-2022,Regular season,28,2022-02-26,Rapid București,Dinamo,1,1,0.5
+2021-2022,Regular season,28,2022-02-27,Argeș Pitești,Voluntari,0,0,0.5
+2021-2022,Regular season,28,2022-02-27,Botoșani,Mioveni,0,0,0.5
+2021-2022,Regular season,28,2022-02-27,FCSB,Farul Constanța,0,2,0.0
+2021-2022,Regular season,29,2022-03-01,Chindia,UTA Arad,1,0,1.0
+2021-2022,Regular season,29,2022-03-01,Dinamo,Sepsi,1,3,0.0
+2021-2022,Regular season,29,2022-03-01,FC U Craiova,Rapid București,3,2,1.0
+2021-2022,Regular season,29,2022-03-02,Clinceni,Gaz Metan,2,0,1.0
+2021-2022,Regular season,29,2022-03-02,Mioveni,CS U Craiova,0,3,0.0
+2021-2022,Regular season,29,2022-03-02,Voluntari,CFR Cluj,0,1,0.0
+2021-2022,Regular season,29,2022-03-03,Farul Constanța,Botoșani,2,0,1.0
+2021-2022,Regular season,29,2022-03-03,Argeș Pitești,FCSB,1,0,1.0
+2021-2022,Regular season,30,2022-03-04,Sepsi,FC U Craiova,2,1,1.0
+2021-2022,Regular season,30,2022-03-05,UTA Arad,Mioveni,2,1,1.0
+2021-2022,Regular season,30,2022-03-05,Rapid București,Clinceni,1,0,1.0
+2021-2022,Regular season,30,2022-03-06,Gaz Metan,Chindia,0,4,0.0
+2021-2022,Regular season,30,2022-03-06,CFR Cluj,Dinamo,4,1,1.0
+2021-2022,Regular season,30,2022-03-06,FCSB,Voluntari,1,0,1.0
+2021-2022,Regular season,30,2022-03-07,Botoșani,Argeș Pitești,1,2,0.0
+2021-2022,Regular season,30,2022-03-07,CS U Craiova,Farul Constanța,1,0,1.0
+2021-2022,Play-out round,1,2022-03-11,UTA Arad,Clinceni,3,0,1.0
+2021-2022,Play-off round,1,2022-03-11,CS U Craiova,Argeș Pitești,3,0,1.0
+2021-2022,Play-out round,1,2022-03-12,Chindia,FC U Craiova,0,0,0.5
+2021-2022,Play-off round,1,2022-03-12,CFR Cluj,Voluntari,3,1,1.0
+2021-2022,Play-out round,1,2022-03-13,Sepsi,Mioveni,3,1,1.0
+2021-2022,Play-out round,1,2022-03-13,Rapid București,Dinamo,3,1,1.0
+2021-2022,Play-out round,1,2022-03-14,Botoșani,Gaz Metan,5,0,1.0
+2021-2022,Play-off round,1,2022-03-14,FCSB,Farul Constanța,2,0,1.0
+2021-2022,Play-out round,2,2022-03-18,Botoșani,UTA Arad,1,0,1.0
+2021-2022,Play-off round,2,2022-03-18,Voluntari,CS U Craiova,3,1,1.0
+2021-2022,Play-out round,2,2022-03-19,Gaz Metan,FC U Craiova,0,2,0.0
+2021-2022,Play-out round,2,2022-03-19,Clinceni,Rapid București,0,1,0.0
+2021-2022,Play-off round,2,2022-03-19,Farul Constanța,CFR Cluj,0,0,0.5
+2021-2022,Play-out round,2,2022-03-20,Dinamo,Sepsi,0,0,0.5
+2021-2022,Play-off round,2,2022-03-20,Argeș Pitești,FCSB,2,3,0.0
+2021-2022,Play-out round,2,2022-03-21,Mioveni,Chindia,1,0,1.0
+2021-2022,Play-out round,3,2022-04-01,FC U Craiova,Mioveni,1,1,0.5
+2021-2022,Play-out round,3,2022-04-01,Chindia,Dinamo,0,2,0.0
+2021-2022,Play-out round,3,2022-04-02,UTA Arad,Gaz Metan,4,0,1.0
+2021-2022,Play-off round,3,2022-04-02,Voluntari,Farul Constanța,1,0,1.0
+2021-2022,Play-out round,3,2022-04-02,Rapid București,Botoșani,3,0,1.0
+2021-2022,Play-off round,3,2022-04-03,FCSB,CS U Craiova,0,2,0.0
+2021-2022,Play-out round,3,2022-04-04,Sepsi,Clinceni,6,0,1.0
+2021-2022,Play-off round,3,2022-04-04,CFR Cluj,Argeș Pitești,2,0,1.0
+2021-2022,Play-out round,4,2022-04-08,Clinceni,Chindia,0,3,0.0
+2021-2022,Play-out round,4,2022-04-08,Dinamo,FC U Craiova,1,2,0.0
+2021-2022,Play-off round,4,2022-04-09,Argeș Pitești,Farul Constanța,0,2,0.0
+2021-2022,Play-out round,4,2022-04-09,UTA Arad,Rapid București,0,2,0.0
+2021-2022,Play-out round,4,2022-04-10,Botoșani,Sepsi,0,1,0.0
+2021-2022,Play-off round,4,2022-04-10,CS U Craiova,CFR Cluj,3,2,1.0
+2021-2022,Play-out round,4,2022-04-11,Gaz Metan,Mioveni,1,2,0.0
+2021-2022,Play-off round,4,2022-04-11,FCSB,Voluntari,4,0,1.0
+2021-2022,Play-out round,5,2022-04-15,Chindia,Botoșani,1,2,0.0
+2021-2022,Play-out round,5,2022-04-15,Mioveni,Dinamo,2,0,1.0
+2021-2022,Play-out round,5,2022-04-16,Sepsi,UTA Arad,1,0,1.0
+2021-2022,Play-off round,5,2022-04-16,Voluntari,Argeș Pitești,0,1,0.0
+2021-2022,Play-off round,5,2022-04-16,Farul Constanța,CS U Craiova,0,3,0.0
+2021-2022,Play-out round,5,2022-04-17,FC U Craiova,Clinceni,4,0,1.0
+2021-2022,Play-off round,5,2022-04-17,CFR Cluj,FCSB,0,1,0.0
+2021-2022,Play-out round,5,2022-04-18,Rapid București,Gaz Metan,8,0,1.0
+2021-2022,Play-out round,6,2022-04-22,Clinceni,Mioveni,0,2,0.0
+2021-2022,Play-out round,6,2022-04-22,Gaz Metan,Dinamo,0,1,0.0
+2021-2022,Play-out round,6,2022-04-23,UTA Arad,Chindia,1,0,1.0
+2021-2022,Play-out round,6,2022-04-23,Rapid București,Sepsi,1,0,1.0
+2021-2022,Play-off round,6,2022-04-24,Voluntari,CFR Cluj,0,1,0.0
+2021-2022,Play-out round,6,2022-04-25,Botoșani,FC U Craiova,2,1,1.0
+2021-2022,Play-off round,6,2022-04-25,Argeș Pitești,CS U Craiova,0,4,0.0
+2021-2022,Play-off round,6,2022-04-25,Farul Constanța,FCSB,0,4,0.0
+2021-2022,Play-out round,7,2022-04-29,Sepsi,Gaz Metan,3,1,1.0
+2021-2022,Play-out round,7,2022-04-29,Chindia,Rapid București,0,0,0.5
+2021-2022,Play-out round,7,2022-04-30,Dinamo,Clinceni,5,1,1.0
+2021-2022,Play-off round,7,2022-04-30,CS U Craiova,Voluntari,1,0,1.0
+2021-2022,Play-out round,7,2022-05-01,FC U Craiova,UTA Arad,1,0,1.0
+2021-2022,Play-off round,7,2022-05-01,CFR Cluj,Farul Constanța,1,0,1.0
+2021-2022,Play-out round,7,2022-05-02,Mioveni,Botoșani,0,2,0.0
+2021-2022,Play-off round,7,2022-05-02,FCSB,Argeș Pitești,4,0,1.0
+2021-2022,Play-out round,8,2022-05-06,Gaz Metan,Clinceni,4,3,1.0
+2021-2022,Play-out round,8,2022-05-06,Botoșani,Dinamo,2,3,0.0
+2021-2022,Play-out round,8,2022-05-07,UTA Arad,Mioveni,1,0,1.0
+2021-2022,Play-off round,8,2022-05-07,Farul Constanța,Voluntari,1,1,0.5
+2021-2022,Play-off round,8,2022-05-07,Argeș Pitești,CFR Cluj,0,6,0.0
+2021-2022,Play-out round,8,2022-05-08,Sepsi,Chindia,2,1,1.0
+2021-2022,Play-off round,8,2022-05-08,CS U Craiova,FCSB,0,1,0.0
+2021-2022,Play-out round,8,2022-05-09,Rapid București,FC U Craiova,2,3,0.0
+2021-2022,Play-out round,9,2022-05-13,Chindia,Gaz Metan,3,0,1.0
+2021-2022,Play-out round,9,2022-05-13,Dinamo,UTA Arad,1,1,0.5
+2021-2022,Play-off round,9,2022-05-14,Farul Constanța,Argeș Pitești,1,0,1.0
+2021-2022,Play-off round,9,2022-05-14,Voluntari,FCSB,2,2,0.5
+2021-2022,Play-off round,9,2022-05-15,CFR Cluj,CS U Craiova,2,1,1.0
+2021-2022,Play-out round,9,2022-05-16,FC U Craiova,Sepsi,0,5,0.0
+2021-2022,Play-out round,9,2022-05-16,Clinceni,Botoșani,0,4,0.0
+2021-2022,Play-out round,9,2022-05-16,Mioveni,Rapid București,3,2,1.0
+2021-2022,Play-off round,10,2022-05-20,CS U Craiova,Farul Constanța,4,1,1.0
+2021-2022,Romanian 1/2 Relegation/Promotion Playoffs,,2022-05-21,Concordia Chiajna,Chindia,2,1,1.0
+2021-2022,Romanian 1/2 Relegation/Promotion Playoffs,,2022-05-21,Universitatea Cluj,Dinamo,2,0,1.0
+2021-2022,Play-off round,10,2022-05-22,FCSB,CFR Cluj,3,1,1.0
+2021-2022,Play-off round,10,2022-05-23,Argeș Pitești,Voluntari,0,1,0.0
+2021-2022,Final,,2022-05-27,CS U Craiova,Botoșani,2,0,1.0
+2021-2022,Romanian 1/2 Relegation/Promotion Playoffs,,2022-05-29,Chindia,Concordia Chiajna,1,0,1.0
+2021-2022,Romanian 1/2 Relegation/Promotion Playoffs,,2022-05-29,Dinamo,Universitatea Cluj,1,1,0.5

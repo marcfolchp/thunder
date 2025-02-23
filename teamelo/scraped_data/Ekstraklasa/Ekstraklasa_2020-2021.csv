@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,1,2020-08-21,Zagłębie Lubin,Lech Poznań,2,1,1.0
+2020-2021,1,2020-08-22,Cracovia,Pogoń Szczecin,2,1,1.0
+2020-2021,1,2020-08-22,Śląsk Wrocław,Piast Gliwice,2,0,1.0
+2020-2021,1,2020-08-22,RKS Raków,Legia Warsaw,1,2,0.0
+2020-2021,1,2020-08-23,Wisła Płock,Stal Mielec,1,1,0.5
+2020-2021,1,2020-08-23,Warta Poznań,Lechia Gdańsk,0,1,0.0
+2020-2021,1,2020-08-23,Górnik Zabrze,Podbeskidzie,4,2,1.0
+2020-2021,1,2020-08-24,Jagiellonia,Wisła Kraków,1,1,0.5
+2020-2021,2,2020-08-28,Zagłębie Lubin,Warta Poznań,1,0,1.0
+2020-2021,2,2020-08-28,Stal Mielec,Górnik Zabrze,0,2,0.0
+2020-2021,2,2020-08-29,Lechia Gdańsk,RKS Raków,1,3,0.0
+2020-2021,2,2020-08-29,Wisła Kraków,Śląsk Wrocław,1,3,0.0
+2020-2021,2,2020-08-29,Legia Warsaw,Jagiellonia,1,2,0.0
+2020-2021,2,2020-08-30,Piast Gliwice,Pogoń Szczecin,0,1,0.0
+2020-2021,2,2020-08-30,Podbeskidzie,Cracovia,2,2,0.5
+2020-2021,2,2020-08-30,Lech Poznań,Wisła Płock,2,2,0.5
+2020-2021,3,2020-09-11,Jagiellonia,Podbeskidzie,2,2,0.5
+2020-2021,3,2020-09-11,Wisła Płock,Legia Warsaw,0,1,0.0
+2020-2021,3,2020-09-12,Cracovia,Stal Mielec,1,1,0.5
+2020-2021,3,2020-09-12,Warta Poznań,Piast Gliwice,0,0,0.5
+2020-2021,3,2020-09-12,Śląsk Wrocław,Lech Poznań,3,3,0.5
+2020-2021,3,2020-09-13,Pogoń Szczecin,Wisła Kraków,2,2,0.5
+2020-2021,3,2020-09-13,Górnik Zabrze,Lechia Gdańsk,3,0,1.0
+2020-2021,3,2020-09-14,RKS Raków,Zagłębie Lubin,2,1,1.0
+2020-2021,4,2020-09-18,Podbeskidzie,RKS Raków,1,4,0.0
+2020-2021,4,2020-09-18,Wisła Kraków,Wisła Płock,0,3,0.0
+2020-2021,4,2020-09-19,Lechia Gdańsk,Stal Mielec,4,2,1.0
+2020-2021,4,2020-09-19,Pogoń Szczecin,Śląsk Wrocław,1,0,1.0
+2020-2021,4,2020-09-19,Legia Warsaw,Górnik Zabrze,1,3,0.0
+2020-2021,4,2020-09-20,Zagłębie Lubin,Cracovia,1,1,0.5
+2020-2021,4,2020-09-20,Lech Poznań,Warta Poznań,1,0,1.0
+2020-2021,4,2020-09-21,Piast Gliwice,Jagiellonia,0,1,0.0
+2020-2021,5,2020-09-25,Wisła Płock,Warta Poznań,1,3,0.0
+2020-2021,5,2020-09-25,Górnik Zabrze,Wisła Kraków,0,0,0.5
+2020-2021,5,2020-09-26,Cracovia,RKS Raków,2,2,0.5
+2020-2021,5,2020-09-26,Lechia Gdańsk,Podbeskidzie,4,0,1.0
+2020-2021,5,2020-09-26,Jagiellonia,Zagłębie Lubin,0,1,0.0
+2020-2021,5,2020-09-28,Stal Mielec,Piast Gliwice,3,2,1.0
+2020-2021,6,2020-10-02,RKS Raków,Wisła Płock,3,0,1.0
+2020-2021,6,2020-10-02,Śląsk Wrocław,Cracovia,3,1,1.0
+2020-2021,6,2020-10-03,Podbeskidzie,Stal Mielec,1,0,1.0
+2020-2021,6,2020-10-03,Zagłębie Lubin,Górnik Zabrze,2,0,1.0
+2020-2021,6,2020-10-04,Piast Gliwice,Lech Poznań,1,4,0.0
+2020-2021,7,2020-10-17,Cracovia,Piast Gliwice,1,0,1.0
+2020-2021,7,2020-10-17,Górnik Zabrze,RKS Raków,1,3,0.0
+2020-2021,7,2020-10-17,Jagiellonia,Lech Poznań,2,1,1.0
+2020-2021,7,2020-10-18,Wisła Płock,Śląsk Wrocław,1,0,1.0
+2020-2021,7,2020-10-18,Stal Mielec,Wisła Kraków,0,6,0.0
+2020-2021,7,2020-10-18,Legia Warsaw,Zagłębie Lubin,2,1,1.0
+2020-2021,7,2020-10-19,Podbeskidzie,Warta Poznań,1,2,0.0
+2020-2021,7,2020-10-19,Lechia Gdańsk,Pogoń Szczecin,0,1,0.0
+2020-2021,5,2020-10-21,Legia Warsaw,Śląsk Wrocław,2,1,1.0
+2020-2021,8,2020-10-23,Piast Gliwice,Wisła Płock,2,2,0.5
+2020-2021,8,2020-10-23,Zagłębie Lubin,Lechia Gdańsk,1,1,0.5
+2020-2021,8,2020-10-24,Wisła Kraków,Podbeskidzie,3,0,1.0
+2020-2021,8,2020-10-24,Śląsk Wrocław,Jagiellonia,1,0,1.0
+2020-2021,8,2020-10-24,Pogoń Szczecin,Legia Warsaw,0,0,0.5
+2020-2021,8,2020-10-25,RKS Raków,Stal Mielec,2,1,1.0
+2020-2021,8,2020-10-25,Lech Poznań,Cracovia,1,1,0.5
+2020-2021,8,2020-10-26,Warta Poznań,Górnik Zabrze,0,1,0.0
+2020-2021,6,2020-10-28,Wisła Kraków,Lechia Gdańsk,1,3,0.0
+2020-2021,6,2020-10-30,Pogoń Szczecin,Jagiellonia,3,0,1.0
+2020-2021,6,2020-11-02,Warta Poznań,Legia Warsaw,0,3,0.0
+2020-2021,9,2020-11-07,Stal Mielec,Warta Poznań,0,1,0.0
+2020-2021,9,2020-11-07,Cracovia,Jagiellonia,3,1,1.0
+2020-2021,10,2020-11-07,Śląsk Wrocław,Górnik Zabrze,0,0,0.5
+2020-2021,9,2020-11-08,Legia Warsaw,Lech Poznań,2,1,1.0
+2020-2021,9,2020-11-08,RKS Raków,Wisła Kraków,0,0,0.5
+2020-2021,10,2020-11-09,Pogoń Szczecin,Podbeskidzie,1,1,0.5
+2020-2021,9,2020-11-20,Lechia Gdańsk,Śląsk Wrocław,3,2,1.0
+2020-2021,9,2020-11-20,Górnik Zabrze,Piast Gliwice,1,2,0.0
+2020-2021,10,2020-11-21,Zagłębie Lubin,Stal Mielec,2,2,0.5
+2020-2021,10,2020-11-21,Warta Poznań,Wisła Kraków,2,1,1.0
+2020-2021,10,2020-11-22,Lech Poznań,RKS Raków,3,3,0.5
+2020-2021,10,2020-11-22,Cracovia,Legia Warsaw,0,1,0.0
+2020-2021,10,2020-11-23,Piast Gliwice,Lechia Gdańsk,2,0,1.0
+2020-2021,10,2020-11-23,Jagiellonia,Wisła Płock,5,2,1.0
+2020-2021,9,2020-11-24,Podbeskidzie,Zagłębie Lubin,2,1,1.0
+2020-2021,11,2020-11-27,Wisła Płock,Cracovia,0,1,0.0
+2020-2021,11,2020-11-27,Górnik Zabrze,Pogoń Szczecin,2,1,1.0
+2020-2021,11,2020-11-28,Stal Mielec,Jagiellonia,3,1,1.0
+2020-2021,11,2020-11-28,Podbeskidzie,Śląsk Wrocław,0,2,0.0
+2020-2021,11,2020-11-28,Wisła Kraków,Zagłębie Lubin,1,2,0.0
+2020-2021,11,2020-11-29,RKS Raków,Warta Poznań,1,0,1.0
+2020-2021,11,2020-11-29,Legia Warsaw,Piast Gliwice,2,2,0.5
+2020-2021,11,2020-11-30,Lechia Gdańsk,Lech Poznań,0,1,0.0
+2020-2021,9,2020-12-02,Wisła Płock,Pogoń Szczecin,0,0,0.5
+2020-2021,12,2020-12-04,Cracovia,Wisła Kraków,1,1,0.5
+2020-2021,12,2020-12-05,Jagiellonia,Warta Poznań,4,3,1.0
+2020-2021,12,2020-12-05,Śląsk Wrocław,RKS Raków,1,0,1.0
+2020-2021,12,2020-12-05,Legia Warsaw,Lechia Gdańsk,2,0,1.0
+2020-2021,12,2020-12-06,Piast Gliwice,Zagłębie Lubin,1,1,0.5
+2020-2021,12,2020-12-06,Lech Poznań,Podbeskidzie,4,0,1.0
+2020-2021,12,2020-12-07,Pogoń Szczecin,Stal Mielec,2,0,1.0
+2020-2021,12,2020-12-07,Wisła Płock,Górnik Zabrze,0,1,0.0
+2020-2021,13,2020-12-11,Podbeskidzie,Piast Gliwice,0,5,0.0
+2020-2021,13,2020-12-11,Zagłębie Lubin,Śląsk Wrocław,2,1,1.0
+2020-2021,13,2020-12-12,Warta Poznań,Pogoń Szczecin,1,2,0.0
+2020-2021,13,2020-12-12,Górnik Zabrze,Cracovia,0,2,0.0
+2020-2021,13,2020-12-12,Wisła Kraków,Legia Warsaw,1,2,0.0
+2020-2021,13,2020-12-13,Stal Mielec,Lech Poznań,1,1,0.5
+2020-2021,13,2020-12-13,RKS Raków,Jagiellonia,3,2,1.0
+2020-2021,13,2020-12-14,Lechia Gdańsk,Wisła Płock,0,1,0.0
+2020-2021,5,2020-12-16,Lech Poznań,Pogoń Szczecin,0,4,0.0
+2020-2021,14,2020-12-17,Śląsk Wrocław,Warta Poznań,2,1,1.0
+2020-2021,14,2020-12-18,Wisła Płock,Podbeskidzie,4,1,1.0
+2020-2021,14,2020-12-18,Legia Warsaw,Stal Mielec,2,3,0.0
+2020-2021,14,2020-12-19,Pogoń Szczecin,Zagłębie Lubin,1,0,1.0
+2020-2021,14,2020-12-19,Cracovia,Lechia Gdańsk,0,3,0.0
+2020-2021,14,2020-12-19,Lech Poznań,Wisła Kraków,0,1,0.0
+2020-2021,14,2020-12-20,Piast Gliwice,RKS Raków,0,0,0.5
+2020-2021,14,2020-12-20,Jagiellonia,Górnik Zabrze,1,0,1.0
+2020-2021,15,2021-01-29,Zagłębie Lubin,Wisła Płock,0,2,0.0
+2020-2021,15,2021-01-29,RKS Raków,Pogoń Szczecin,0,1,0.0
+2020-2021,15,2021-01-30,Warta Poznań,Cracovia,1,0,1.0
+2020-2021,15,2021-01-30,Lechia Gdańsk,Jagiellonia,0,2,0.0
+2020-2021,15,2021-01-30,Górnik Zabrze,Lech Poznań,1,1,0.5
+2020-2021,15,2021-01-31,Wisła Kraków,Piast Gliwice,3,4,0.0
+2020-2021,15,2021-01-31,Podbeskidzie,Legia Warsaw,1,0,1.0
+2020-2021,15,2021-02-01,Stal Mielec,Śląsk Wrocław,0,0,0.5
+2020-2021,16,2021-02-05,Lechia Gdańsk,Warta Poznań,1,1,0.5
+2020-2021,16,2021-02-05,Lech Poznań,Zagłębie Lubin,0,0,0.5
+2020-2021,16,2021-02-06,Piast Gliwice,Śląsk Wrocław,2,0,1.0
+2020-2021,16,2021-02-06,Pogoń Szczecin,Cracovia,1,0,1.0
+2020-2021,16,2021-02-06,Legia Warsaw,RKS Raków,2,0,1.0
+2020-2021,16,2021-02-07,Podbeskidzie,Górnik Zabrze,2,1,1.0
+2020-2021,16,2021-02-07,Wisła Kraków,Jagiellonia,2,0,1.0
+2020-2021,17,2021-02-12,Śląsk Wrocław,Wisła Kraków,1,1,0.5
+2020-2021,17,2021-02-13,Cracovia,Podbeskidzie,1,1,0.5
+2020-2021,17,2021-02-13,Pogoń Szczecin,Piast Gliwice,0,0,0.5
+2020-2021,17,2021-02-13,RKS Raków,Lechia Gdańsk,0,1,0.0
+2020-2021,17,2021-02-14,Wisła Płock,Lech Poznań,1,0,1.0
+2020-2021,17,2021-02-14,Jagiellonia,Legia Warsaw,1,1,0.5
+2020-2021,17,2021-02-15,Warta Poznań,Zagłębie Lubin,1,0,1.0
+2020-2021,17,2021-02-15,Górnik Zabrze,Stal Mielec,2,1,1.0
+2020-2021,18,2021-02-19,Stal Mielec,Cracovia,0,0,0.5
+2020-2021,18,2021-02-19,Wisła Kraków,Pogoń Szczecin,2,1,1.0
+2020-2021,18,2021-02-20,Legia Warsaw,Wisła Płock,5,2,1.0
+2020-2021,18,2021-02-20,Podbeskidzie,Jagiellonia,1,1,0.5
+2020-2021,18,2021-02-20,Lechia Gdańsk,Górnik Zabrze,2,0,1.0
+2020-2021,18,2021-02-21,Zagłębie Lubin,RKS Raków,1,2,0.0
+2020-2021,18,2021-02-21,Lech Poznań,Śląsk Wrocław,1,0,1.0
+2020-2021,18,2021-02-22,Piast Gliwice,Warta Poznań,0,1,0.0
+2020-2021,19,2021-02-26,RKS Raków,Podbeskidzie,1,0,1.0
+2020-2021,19,2021-02-26,Warta Poznań,Lech Poznań,1,2,0.0
+2020-2021,19,2021-02-27,Stal Mielec,Lechia Gdańsk,0,1,0.0
+2020-2021,19,2021-02-27,Jagiellonia,Piast Gliwice,0,1,0.0
+2020-2021,19,2021-02-27,Górnik Zabrze,Legia Warsaw,1,2,0.0
+2020-2021,19,2021-02-28,Wisła Płock,Wisła Kraków,1,3,0.0
+2020-2021,19,2021-02-28,Cracovia,Zagłębie Lubin,2,4,0.0
+2020-2021,19,2021-02-28,Śląsk Wrocław,Pogoń Szczecin,2,1,1.0
+2020-2021,16,2021-03-04,Stal Mielec,Wisła Płock,2,2,0.5
+2020-2021,20,2021-03-05,Wisła Kraków,Górnik Zabrze,0,0,0.5
+2020-2021,20,2021-03-06,Podbeskidzie,Lechia Gdańsk,2,2,0.5
+2020-2021,20,2021-03-06,Zagłębie Lubin,Jagiellonia,3,0,1.0
+2020-2021,20,2021-03-06,RKS Raków,Cracovia,0,0,0.5
+2020-2021,20,2021-03-07,Piast Gliwice,Stal Mielec,2,1,1.0
+2020-2021,20,2021-03-07,Pogoń Szczecin,Lech Poznań,0,1,0.0
+2020-2021,20,2021-03-07,Śląsk Wrocław,Legia Warsaw,0,1,0.0
+2020-2021,20,2021-03-08,Warta Poznań,Wisła Płock,2,0,1.0
+2020-2021,21,2021-03-12,Cracovia,Śląsk Wrocław,1,1,0.5
+2020-2021,21,2021-03-12,Jagiellonia,Pogoń Szczecin,0,1,0.0
+2020-2021,21,2021-03-13,Wisła Płock,RKS Raków,2,2,0.5
+2020-2021,21,2021-03-13,Lechia Gdańsk,Wisła Kraków,2,0,1.0
+2020-2021,21,2021-03-13,Legia Warsaw,Warta Poznań,3,2,1.0
+2020-2021,21,2021-03-14,Górnik Zabrze,Zagłębie Lubin,2,0,1.0
+2020-2021,21,2021-03-14,Lech Poznań,Piast Gliwice,0,0,0.5
+2020-2021,21,2021-03-15,Stal Mielec,Podbeskidzie,2,1,1.0
+2020-2021,22,2021-03-19,Piast Gliwice,Cracovia,2,0,1.0
+2020-2021,22,2021-03-19,Pogoń Szczecin,Lechia Gdańsk,1,0,1.0
+2020-2021,22,2021-03-20,Śląsk Wrocław,Wisła Płock,0,0,0.5
+2020-2021,22,2021-03-20,RKS Raków,Górnik Zabrze,0,0,0.5
+2020-2021,22,2021-03-20,Lech Poznań,Jagiellonia,2,3,0.0
+2020-2021,22,2021-03-21,Warta Poznań,Podbeskidzie,2,0,1.0
+2020-2021,22,2021-03-21,Wisła Kraków,Stal Mielec,3,1,1.0
+2020-2021,22,2021-03-21,Zagłębie Lubin,Legia Warsaw,0,4,0.0
+2020-2021,23,2021-04-03,Wisła Płock,Piast Gliwice,0,1,0.0
+2020-2021,23,2021-04-03,Legia Warsaw,Pogoń Szczecin,4,2,1.0
+2020-2021,23,2021-04-03,Cracovia,Lech Poznań,2,1,1.0
+2020-2021,23,2021-04-05,Górnik Zabrze,Warta Poznań,1,2,0.0
+2020-2021,23,2021-04-05,Podbeskidzie,Wisła Kraków,2,0,1.0
+2020-2021,23,2021-04-05,Jagiellonia,Śląsk Wrocław,0,1,0.0
+2020-2021,23,2021-04-05,Lechia Gdańsk,Zagłębie Lubin,3,1,1.0
+2020-2021,24,2021-04-09,Jagiellonia,Cracovia,2,1,1.0
+2020-2021,24,2021-04-09,Wisła Kraków,RKS Raków,1,2,0.0
+2020-2021,24,2021-04-10,Pogoń Szczecin,Wisła Płock,2,0,1.0
+2020-2021,24,2021-04-10,Warta Poznań,Stal Mielec,0,0,0.5
+2020-2021,24,2021-04-10,Śląsk Wrocław,Lechia Gdańsk,1,1,0.5
+2020-2021,24,2021-04-11,Zagłębie Lubin,Podbeskidzie,2,1,1.0
+2020-2021,24,2021-04-11,Lech Poznań,Legia Warsaw,0,0,0.5
+2020-2021,24,2021-04-12,Piast Gliwice,Górnik Zabrze,2,0,1.0
+2020-2021,25,2021-04-16,Podbeskidzie,Pogoń Szczecin,0,2,0.0
+2020-2021,25,2021-04-16,Górnik Zabrze,Śląsk Wrocław,1,1,0.5
+2020-2021,25,2021-04-17,Lechia Gdańsk,Piast Gliwice,2,2,0.5
+2020-2021,25,2021-04-17,RKS Raków,Lech Poznań,3,1,1.0
+2020-2021,25,2021-04-17,Wisła Kraków,Warta Poznań,0,1,0.0
+2020-2021,25,2021-04-18,Stal Mielec,Zagłębie Lubin,0,2,0.0
+2020-2021,25,2021-04-18,Wisła Płock,Jagiellonia,2,2,0.5
+2020-2021,25,2021-04-18,Legia Warsaw,Cracovia,0,0,0.5
+2020-2021,26,2021-04-20,Warta Poznań,RKS Raków,0,2,0.0
+2020-2021,26,2021-04-20,Pogoń Szczecin,Górnik Zabrze,1,0,1.0
+2020-2021,26,2021-04-20,Śląsk Wrocław,Podbeskidzie,4,3,1.0
+2020-2021,26,2021-04-20,Lech Poznań,Lechia Gdańsk,3,0,1.0
+2020-2021,26,2021-04-21,Zagłębie Lubin,Wisła Kraków,4,1,1.0
+2020-2021,26,2021-04-21,Jagiellonia,Stal Mielec,3,3,0.5
+2020-2021,26,2021-04-21,Cracovia,Wisła Płock,1,0,1.0
+2020-2021,26,2021-04-21,Piast Gliwice,Legia Warsaw,0,1,0.0
+2020-2021,27,2021-04-23,RKS Raków,Śląsk Wrocław,2,0,1.0
+2020-2021,27,2021-04-23,Podbeskidzie,Lech Poznań,1,0,1.0
+2020-2021,27,2021-04-24,Górnik Zabrze,Wisła Płock,0,2,0.0
+2020-2021,27,2021-04-24,Zagłębie Lubin,Piast Gliwice,2,2,0.5
+2020-2021,27,2021-04-24,Wisła Kraków,Cracovia,0,0,0.5
+2020-2021,27,2021-04-25,Warta Poznań,Jagiellonia,2,0,1.0
+2020-2021,27,2021-04-25,Stal Mielec,Pogoń Szczecin,1,0,1.0
+2020-2021,27,2021-04-25,Lechia Gdańsk,Legia Warsaw,0,1,0.0
+2020-2021,28,2021-04-28,Jagiellonia,RKS Raków,0,0,0.5
+2020-2021,28,2021-04-30,Wisła Płock,Lechia Gdańsk,1,3,0.0
+2020-2021,28,2021-04-30,Śląsk Wrocław,Zagłębie Lubin,0,0,0.5
+2020-2021,28,2021-05-01,Legia Warsaw,Wisła Kraków,0,0,0.5
+2020-2021,28,2021-05-01,Pogoń Szczecin,Warta Poznań,1,1,0.5
+2020-2021,28,2021-05-01,Lech Poznań,Stal Mielec,1,2,0.0
+2020-2021,28,2021-05-03,Piast Gliwice,Podbeskidzie,2,0,1.0
+2020-2021,28,2021-05-03,Cracovia,Górnik Zabrze,1,0,1.0
+2020-2021,23,2021-05-05,Stal Mielec,RKS Raków,0,1,0.0
+2020-2021,29,2021-05-07,Górnik Zabrze,Jagiellonia,3,1,1.0
+2020-2021,29,2021-05-07,Zagłębie Lubin,Pogoń Szczecin,1,1,0.5
+2020-2021,29,2021-05-08,Podbeskidzie,Wisła Płock,1,1,0.5
+2020-2021,29,2021-05-08,Lechia Gdańsk,Cracovia,1,1,0.5
+2020-2021,29,2021-05-08,Wisła Kraków,Lech Poznań,1,2,0.0
+2020-2021,29,2021-05-09,Warta Poznań,Śląsk Wrocław,2,3,0.0
+2020-2021,29,2021-05-09,Stal Mielec,Legia Warsaw,0,0,0.5
+2020-2021,29,2021-05-10,RKS Raków,Piast Gliwice,1,0,1.0
+2020-2021,30,2021-05-16,Pogoń Szczecin,RKS Raków,1,3,0.0
+2020-2021,30,2021-05-16,Śląsk Wrocław,Stal Mielec,1,1,0.5
+2020-2021,30,2021-05-16,Piast Gliwice,Wisła Kraków,2,3,0.0
+2020-2021,30,2021-05-16,Legia Warsaw,Podbeskidzie,1,0,1.0
+2020-2021,30,2021-05-16,Lech Poznań,Górnik Zabrze,1,1,0.5
+2020-2021,30,2021-05-16,Wisła Płock,Zagłębie Lubin,4,0,1.0
+2020-2021,30,2021-05-16,Cracovia,Warta Poznań,0,1,0.0
+2020-2021,30,2021-05-16,Jagiellonia,Lechia Gdańsk,2,1,1.0

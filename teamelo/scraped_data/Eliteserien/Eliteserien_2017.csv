@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017,1,2017-04-01,Kristiansund,Molde,0,1,0.0
+2017,1,2017-04-02,Lillestrøm,Sandefjord,2,1,1.0
+2017,1,2017-04-02,Sarpsborg 08,Sogndal,3,1,1.0
+2017,1,2017-04-02,Tromsø,Brann,1,1,0.5
+2017,1,2017-04-02,Strømsgodset,Haugesund,3,1,1.0
+2017,1,2017-04-02,Stabæk,Aalesund,3,1,1.0
+2017,1,2017-04-02,Rosenborg,Odd,3,0,1.0
+2017,1,2017-04-03,Vålerenga,Viking,1,0,1.0
+2017,2,2017-04-05,Aalesund,Sarpsborg 08,1,3,0.0
+2017,2,2017-04-05,Molde,Lillestrøm,2,1,1.0
+2017,2,2017-04-05,Odd,Kristiansund,2,0,1.0
+2017,2,2017-04-05,Sogndal,Stabæk,4,1,1.0
+2017,2,2017-04-05,Sandefjord,Rosenborg,0,3,0.0
+2017,2,2017-04-06,Viking,Tromsø,1,2,0.0
+2017,2,2017-04-06,Brann,Strømsgodset,3,0,1.0
+2017,2,2017-04-06,Haugesund,Vålerenga,4,3,1.0
+2017,3,2017-04-08,Rosenborg,Molde,2,1,1.0
+2017,3,2017-04-09,Lillestrøm,Haugesund,0,2,0.0
+2017,3,2017-04-09,Stabæk,Odd,2,0,1.0
+2017,3,2017-04-09,Vålerenga,Sandefjord,1,2,0.0
+2017,3,2017-04-09,Tromsø,Sogndal,3,0,1.0
+2017,3,2017-04-09,Sarpsborg 08,Viking,3,0,1.0
+2017,3,2017-04-09,Strømsgodset,Aalesund,1,1,0.5
+2017,3,2017-04-10,Kristiansund,Brann,1,0,1.0
+2017,4,2017-04-17,Sandefjord,Kristiansund,2,0,1.0
+2017,4,2017-04-17,Sogndal,Strømsgodset,1,1,0.5
+2017,4,2017-04-17,Brann,Haugesund,3,1,1.0
+2017,4,2017-04-17,Molde,Vålerenga,4,0,1.0
+2017,4,2017-04-17,Stabæk,Sarpsborg 08,3,0,1.0
+2017,4,2017-04-17,Aalesund,Lillestrøm,3,1,1.0
+2017,4,2017-04-17,Viking,Rosenborg,0,1,0.0
+2017,4,2017-04-17,Odd,Tromsø,1,0,1.0
+2017,5,2017-04-22,Strømsgodset,Sandefjord,1,0,1.0
+2017,5,2017-04-23,Viking,Odd,3,0,1.0
+2017,5,2017-04-23,Sarpsborg 08,Kristiansund,5,1,1.0
+2017,5,2017-04-23,Vålerenga,Sogndal,3,0,1.0
+2017,5,2017-04-23,Rosenborg,Aalesund,0,0,0.5
+2017,5,2017-04-23,Tromsø,Stabæk,0,3,0.0
+2017,5,2017-04-23,Lillestrøm,Brann,0,2,0.0
+2017,5,2017-04-24,Haugesund,Molde,0,0,0.5
+2017,6,2017-04-29,Brann,Viking,1,1,0.5
+2017,6,2017-04-30,Aalesund,Tromsø,3,1,1.0
+2017,6,2017-04-30,Stabæk,Haugesund,0,3,0.0
+2017,6,2017-04-30,Kristiansund,Strømsgodset,2,0,1.0
+2017,6,2017-04-30,Sandefjord,Molde,3,3,0.5
+2017,6,2017-04-30,Sogndal,Lillestrøm,0,1,0.0
+2017,6,2017-04-30,Odd,Vålerenga,2,1,1.0
+2017,6,2017-05-01,Sarpsborg 08,Rosenborg,1,2,0.0
+2017,7,2017-05-06,Molde,Aalesund,0,1,0.0
+2017,7,2017-05-07,Haugesund,Sogndal,0,0,0.5
+2017,7,2017-05-07,Tromsø,Kristiansund,1,1,0.5
+2017,7,2017-05-07,Strømsgodset,Sarpsborg 08,1,1,0.5
+2017,7,2017-05-07,Viking,Sandefjord,0,2,0.0
+2017,7,2017-05-07,Vålerenga,Stabæk,1,1,0.5
+2017,7,2017-05-07,Rosenborg,Brann,2,1,1.0
+2017,7,2017-05-08,Lillestrøm,Odd,0,1,0.0
+2017,8,2017-05-12,Aalesund,Vålerenga,0,1,0.0
+2017,8,2017-05-13,Stabæk,Rosenborg,0,0,0.5
+2017,8,2017-05-13,Sarpsborg 08,Tromsø,1,1,0.5
+2017,8,2017-05-13,Sogndal,Viking,4,0,1.0
+2017,8,2017-05-13,Kristiansund,Lillestrøm,1,1,0.5
+2017,8,2017-05-13,Odd,Strømsgodset,2,0,1.0
+2017,8,2017-05-13,Sandefjord,Haugesund,2,0,1.0
+2017,8,2017-05-13,Brann,Molde,4,1,1.0
+2017,9,2017-05-16,Lillestrøm,Sarpsborg 08,1,2,0.0
+2017,9,2017-05-16,Haugesund,Odd,0,2,0.0
+2017,9,2017-05-16,Molde,Sogndal,1,2,0.0
+2017,9,2017-05-16,Viking,Aalesund,1,2,0.0
+2017,9,2017-05-16,Vålerenga,Kristiansund,1,0,1.0
+2017,9,2017-05-16,Brann,Sandefjord,5,0,1.0
+2017,9,2017-05-16,Rosenborg,Tromsø,1,2,0.0
+2017,9,2017-05-16,Strømsgodset,Stabæk,1,2,0.0
+2017,10,2017-05-20,Rosenborg,Lillestrøm,1,1,0.5
+2017,10,2017-05-20,Sogndal,Brann,2,3,0.0
+2017,10,2017-05-21,Kristiansund,Haugesund,3,2,1.0
+2017,10,2017-05-21,Tromsø,Strømsgodset,1,1,0.5
+2017,10,2017-05-21,Sarpsborg 08,Vålerenga,2,0,1.0
+2017,10,2017-05-21,Aalesund,Sandefjord,2,0,1.0
+2017,10,2017-05-21,Odd,Molde,1,2,0.0
+2017,10,2017-05-22,Stabæk,Viking,1,1,0.5
+2017,11,2017-05-27,Sandefjord,Odd,0,0,0.5
+2017,11,2017-05-28,Lillestrøm,Tromsø,4,1,1.0
+2017,11,2017-05-28,Molde,Stabæk,3,1,1.0
+2017,11,2017-05-28,Kristiansund,Sogndal,1,1,0.5
+2017,11,2017-05-28,Haugesund,Sarpsborg 08,0,0,0.5
+2017,11,2017-05-28,Brann,Aalesund,1,1,0.5
+2017,11,2017-05-28,Vålerenga,Rosenborg,1,1,0.5
+2017,11,2017-05-29,Strømsgodset,Viking,4,2,1.0
+2017,12,2017-06-03,Tromsø,Vålerenga,2,4,0.0
+2017,12,2017-06-03,Stabæk,Lillestrøm,2,4,0.0
+2017,12,2017-06-04,Viking,Kristiansund,2,1,1.0
+2017,12,2017-06-04,Aalesund,Haugesund,0,1,0.0
+2017,12,2017-06-04,Sogndal,Sandefjord,3,2,1.0
+2017,12,2017-06-04,Sarpsborg 08,Molde,1,0,1.0
+2017,12,2017-06-04,Rosenborg,Strømsgodset,3,1,1.0
+2017,12,2017-06-04,Odd,Brann,0,0,0.5
+2017,13,2017-06-17,Kristiansund,Aalesund,1,1,0.5
+2017,13,2017-06-18,Lillestrøm,Viking,1,0,1.0
+2017,13,2017-06-18,Haugesund,Rosenborg,1,0,1.0
+2017,13,2017-06-18,Molde,Tromsø,3,0,1.0
+2017,13,2017-06-18,Sandefjord,Sarpsborg 08,1,0,1.0
+2017,13,2017-06-18,Sogndal,Odd,0,0,0.5
+2017,13,2017-06-18,Vålerenga,Strømsgodset,1,1,0.5
+2017,13,2017-06-19,Brann,Stabæk,5,0,1.0
+2017,14,2017-06-24,Vålerenga,Lillestrøm,3,1,1.0
+2017,14,2017-06-25,Aalesund,Odd,5,1,1.0
+2017,14,2017-06-25,Sarpsborg 08,Brann,1,1,0.5
+2017,14,2017-06-25,Stabæk,Kristiansund,1,4,0.0
+2017,14,2017-06-25,Rosenborg,Sogndal,3,0,1.0
+2017,14,2017-06-25,Tromsø,Sandefjord,1,1,0.5
+2017,14,2017-06-25,Viking,Haugesund,1,1,0.5
+2017,14,2017-06-26,Strømsgodset,Molde,1,1,0.5
+2017,15,2017-07-01,Lillestrøm,Strømsgodset,2,0,1.0
+2017,15,2017-07-01,Sogndal,Aalesund,1,0,1.0
+2017,15,2017-07-02,Haugesund,Tromsø,2,0,1.0
+2017,15,2017-07-02,Odd,Sarpsborg 08,0,0,0.5
+2017,15,2017-07-02,Molde,Viking,3,2,1.0
+2017,15,2017-07-02,Sandefjord,Stabæk,1,2,0.0
+2017,15,2017-07-02,Brann,Vålerenga,0,0,0.5
+2017,15,2017-07-03,Kristiansund,Rosenborg,3,3,0.5
+2017,16,2017-07-08,Rosenborg,Sandefjord,5,1,1.0
+2017,16,2017-07-08,Aalesund,Molde,0,3,0.0
+2017,16,2017-07-09,Strømsgodset,Kristiansund,4,2,1.0
+2017,16,2017-07-09,Viking,Sogndal,1,1,0.5
+2017,16,2017-07-09,Stabæk,Brann,2,0,1.0
+2017,16,2017-07-10,Sarpsborg 08,Lillestrøm,3,3,0.5
+2017,17,2017-07-15,Sogndal,Rosenborg,0,3,0.0
+2017,17,2017-07-15,Lillestrøm,Stabæk,2,2,0.5
+2017,17,2017-07-16,Molde,Strømsgodset,0,0,0.5
+2017,17,2017-07-16,Haugesund,Aalesund,2,0,1.0
+2017,17,2017-07-16,Sandefjord,Tromsø,3,0,1.0
+2017,17,2017-07-16,Odd,Viking,0,2,0.0
+2017,17,2017-07-16,Brann,Sarpsborg 08,0,1,0.0
+2017,17,2017-07-17,Kristiansund,Vålerenga,1,1,0.5
+2017,18,2017-08-05,Rosenborg,Kristiansund,4,1,1.0
+2017,18,2017-08-06,Sarpsborg 08,Haugesund,2,1,1.0
+2017,18,2017-08-06,Stabæk,Sandefjord,1,3,0.0
+2017,18,2017-08-06,Tromsø,Molde,1,2,0.0
+2017,18,2017-08-06,Odd,Sogndal,2,1,1.0
+2017,18,2017-08-06,Viking,Lillestrøm,2,2,0.5
+2017,18,2017-08-06,Aalesund,Brann,3,3,0.5
+2017,18,2017-08-07,Strømsgodset,Vålerenga,2,0,1.0
+2017,19,2017-08-11,Sandefjord,Sogndal,2,1,1.0
+2017,19,2017-08-12,Molde,Rosenborg,1,2,0.0
+2017,19,2017-08-13,Aalesund,Viking,1,1,0.5
+2017,19,2017-08-13,Brann,Odd,2,0,1.0
+2017,19,2017-08-13,Haugesund,Stabæk,2,2,0.5
+2017,19,2017-08-13,Kristiansund,Sarpsborg 08,2,2,0.5
+2017,19,2017-08-13,Strømsgodset,Lillestrøm,3,1,1.0
+2017,19,2017-08-14,Vålerenga,Tromsø,0,0,0.5
+2017,20,2017-08-19,Lillestrøm,Vålerenga,2,1,1.0
+2017,20,2017-08-20,Sogndal,Kristiansund,2,0,1.0
+2017,20,2017-08-20,Rosenborg,Haugesund,0,1,0.0
+2017,20,2017-08-20,Odd,Sandefjord,1,0,1.0
+2017,20,2017-08-20,Stabæk,Molde,3,2,1.0
+2017,20,2017-08-20,Tromsø,Aalesund,3,2,1.0
+2017,20,2017-08-20,Viking,Brann,2,4,0.0
+2017,20,2017-08-21,Sarpsborg 08,Strømsgodset,0,0,0.5
+2017,21,2017-09-09,Brann,Sogndal,2,1,1.0
+2017,21,2017-09-10,Vålerenga,Sarpsborg 08,1,2,0.0
+2017,21,2017-09-10,Sandefjord,Viking,3,1,1.0
+2017,21,2017-09-10,Haugesund,Lillestrøm,1,1,0.5
+2017,21,2017-09-10,Kristiansund,Tromsø,4,1,1.0
+2017,21,2017-09-10,Aalesund,Stabæk,1,1,0.5
+2017,21,2017-09-10,Strømsgodset,Rosenborg,0,2,0.0
+2017,21,2017-09-11,Molde,Odd,2,1,1.0
+2017,22,2017-09-16,Stabæk,Strømsgodset,0,2,0.0
+2017,22,2017-09-17,Sogndal,Haugesund,0,1,0.0
+2017,22,2017-09-17,Sandefjord,Brann,0,1,0.0
+2017,22,2017-09-17,Tromsø,Sarpsborg 08,5,0,1.0
+2017,22,2017-09-17,Lillestrøm,Kristiansund,0,0,0.5
+2017,22,2017-09-17,Viking,Molde,2,3,0.0
+2017,22,2017-09-17,Rosenborg,Vålerenga,3,0,1.0
+2017,22,2017-09-18,Odd,Aalesund,3,2,1.0
+2017,16,2017-09-21,Tromsø,Odd,2,2,0.5
+2017,23,2017-09-23,Haugesund,Viking,2,1,1.0
+2017,23,2017-09-24,Kristiansund,Stabæk,1,0,1.0
+2017,23,2017-09-24,Molde,Sandefjord,3,1,1.0
+2017,23,2017-09-24,Aalesund,Sogndal,0,1,0.0
+2017,23,2017-09-24,Lillestrøm,Rosenborg,0,3,0.0
+2017,23,2017-09-24,Strømsgodset,Tromsø,2,1,1.0
+2017,23,2017-09-24,Vålerenga,Brann,2,1,1.0
+2017,23,2017-09-25,Sarpsborg 08,Odd,2,1,1.0
+2017,24,2017-09-29,Brann,Kristiansund,0,4,0.0
+2017,24,2017-09-30,Stabæk,Vålerenga,4,2,1.0
+2017,24,2017-10-01,Viking,Strømsgodset,0,1,0.0
+2017,24,2017-10-01,Sandefjord,Aalesund,2,0,1.0
+2017,24,2017-10-01,Sogndal,Molde,2,2,0.5
+2017,24,2017-10-01,Odd,Haugesund,1,0,1.0
+2017,24,2017-10-01,Tromsø,Lillestrøm,2,1,1.0
+2017,24,2017-10-01,Rosenborg,Sarpsborg 08,1,1,0.5
+2017,16,2017-10-12,Vålerenga,Haugesund,3,0,1.0
+2017,25,2017-10-14,Tromsø,Rosenborg,0,3,0.0
+2017,25,2017-10-14,Strømsgodset,Odd,1,0,1.0
+2017,25,2017-10-15,Vålerenga,Aalesund,5,1,1.0
+2017,25,2017-10-15,Lillestrøm,Sogndal,1,0,1.0
+2017,25,2017-10-15,Haugesund,Sandefjord,2,0,1.0
+2017,25,2017-10-15,Kristiansund,Viking,0,2,0.0
+2017,25,2017-10-15,Molde,Brann,1,0,1.0
+2017,25,2017-10-16,Sarpsborg 08,Stabæk,2,2,0.5
+2017,26,2017-10-21,Aalesund,Kristiansund,1,1,0.5
+2017,26,2017-10-22,Viking,Vålerenga,1,7,0.0
+2017,26,2017-10-22,Molde,Haugesund,1,0,1.0
+2017,26,2017-10-22,Sandefjord,Strømsgodset,1,2,0.0
+2017,26,2017-10-22,Sogndal,Sarpsborg 08,3,3,0.5
+2017,26,2017-10-22,Stabæk,Tromsø,1,2,0.0
+2017,26,2017-10-22,Brann,Rosenborg,0,3,0.0
+2017,26,2017-10-23,Odd,Lillestrøm,1,0,1.0
+2017,27,2017-10-28,Haugesund,Brann,2,3,0.0
+2017,27,2017-10-29,Sarpsborg 08,Sandefjord,5,0,1.0
+2017,27,2017-10-29,Strømsgodset,Sogndal,4,1,1.0
+2017,27,2017-10-29,Rosenborg,Stabæk,0,0,0.5
+2017,27,2017-10-29,Kristiansund,Odd,2,2,0.5
+2017,27,2017-10-29,Tromsø,Viking,3,0,1.0
+2017,27,2017-10-29,Vålerenga,Molde,1,2,0.0
+2017,27,2017-10-30,Lillestrøm,Aalesund,4,0,1.0
+2017,28,2017-11-03,Sandefjord,Vålerenga,2,0,1.0
+2017,28,2017-11-04,Molde,Kristiansund,0,1,0.0
+2017,28,2017-11-05,Sogndal,Tromsø,0,2,0.0
+2017,28,2017-11-05,Viking,Sarpsborg 08,2,1,1.0
+2017,28,2017-11-05,Brann,Lillestrøm,2,0,1.0
+2017,28,2017-11-05,Haugesund,Strømsgodset,1,3,0.0
+2017,28,2017-11-05,Odd,Stabæk,0,5,0.0
+2017,28,2017-11-05,Aalesund,Rosenborg,2,1,1.0
+2017,29,2017-11-19,Stabæk,Sogndal,1,1,0.5
+2017,29,2017-11-19,Sarpsborg 08,Aalesund,1,0,1.0
+2017,29,2017-11-19,Kristiansund,Sandefjord,3,2,1.0
+2017,29,2017-11-19,Rosenborg,Viking,2,0,1.0
+2017,29,2017-11-19,Vålerenga,Odd,2,0,1.0
+2017,29,2017-11-19,Tromsø,Haugesund,2,0,1.0
+2017,29,2017-11-19,Lillestrøm,Molde,0,1,0.0
+2017,29,2017-11-19,Strømsgodset,Brann,2,1,1.0
+2017,30,2017-11-26,Aalesund,Strømsgodset,4,3,1.0
+2017,30,2017-11-26,Haugesund,Kristiansund,2,3,0.0
+2017,30,2017-11-26,Brann,Tromsø,2,2,0.5
+2017,30,2017-11-26,Sogndal,Vålerenga,5,2,1.0
+2017,30,2017-11-26,Odd,Rosenborg,1,0,1.0
+2017,30,2017-11-26,Sandefjord,Lillestrøm,1,3,0.0
+2017,30,2017-11-26,Molde,Sarpsborg 08,2,2,0.5
+2017,30,2017-11-26,Viking,Stabæk,2,0,1.0

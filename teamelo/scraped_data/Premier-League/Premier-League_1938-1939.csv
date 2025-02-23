@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1938-1939,1,1938-08-27,Middlesbrough,Manchester Utd,3,1,1.0
+1938-1939,1,1938-08-27,Leeds United,Preston,2,1,1.0
+1938-1939,1,1938-08-27,Brentford,Huddersfield,2,1,1.0
+1938-1939,1,1938-08-27,Arsenal,Portsmouth,2,0,1.0
+1938-1939,1,1938-08-27,Liverpool,Chelsea,2,1,1.0
+1938-1939,1,1938-08-27,Blackpool,Everton,0,2,0.0
+1938-1939,1,1938-08-27,Bolton,Charlton Ath,2,1,1.0
+1938-1939,1,1938-08-27,Birmingham,Sunderland,1,2,0.0
+1938-1939,1,1938-08-27,Grimsby Town,Aston Villa,1,2,0.0
+1938-1939,1,1938-08-27,Leicester City,Stoke City,2,2,0.5
+1938-1939,1,1938-08-27,Derby County,Wolves,2,2,0.5
+1938-1939,2,1938-08-29,Charlton Ath,Stoke City,4,2,1.0
+1938-1939,2,1938-08-29,Wolves,Leicester City,0,0,0.5
+1938-1939,2,1938-08-31,Chelsea,Preston,3,1,1.0
+1938-1939,2,1938-08-31,Leeds United,Birmingham,2,0,1.0
+1938-1939,2,1938-08-31,Manchester Utd,Bolton,2,2,0.5
+1938-1939,4,1938-08-31,Everton,Grimsby Town,3,0,1.0
+1938-1939,4,1938-08-31,Middlesbrough,Aston Villa,1,1,0.5
+1938-1939,4,1938-08-31,Derby County,Huddersfield,1,0,1.0
+1938-1939,4,1938-08-31,Portsmouth,Blackpool,1,0,1.0
+1938-1939,3,1938-09-03,Huddersfield,Arsenal,1,1,0.5
+1938-1939,3,1938-09-03,Wolves,Blackpool,1,1,0.5
+1938-1939,3,1938-09-03,Preston,Liverpool,1,0,1.0
+1938-1939,3,1938-09-03,Manchester Utd,Birmingham,4,1,1.0
+1938-1939,3,1938-09-03,Portsmouth,Bolton,2,1,1.0
+1938-1939,3,1938-09-03,Chelsea,Leicester City,3,0,1.0
+1938-1939,3,1938-09-03,Everton,Brentford,2,1,1.0
+1938-1939,3,1938-09-03,Charlton Ath,Leeds United,2,0,1.0
+1938-1939,3,1938-09-03,Aston Villa,Derby County,0,1,0.0
+1938-1939,3,1938-09-03,Stoke City,Middlesbrough,1,3,0.0
+1938-1939,3,1938-09-03,Sunderland,Grimsby Town,1,1,0.5
+1938-1939,2,1938-09-05,Aston Villa,Everton,0,3,0.0
+1938-1939,4,1938-09-05,Stoke City,Leeds United,1,1,0.5
+1938-1939,4,1938-09-05,Bolton,Chelsea,0,2,0.0
+1938-1939,4,1938-09-05,Preston,Charlton Ath,2,0,1.0
+1938-1939,2,1938-09-06,Grimsby Town,Portsmouth,2,1,1.0
+1938-1939,4,1938-09-07,Liverpool,Manchester Utd,1,0,1.0
+1938-1939,4,1938-09-07,Sunderland,Wolves,1,1,0.5
+1938-1939,42,1938-09-07,Huddersfield,Derby County,3,0,1.0
+1938-1939,42,1938-09-07,Birmingham,Leicester City,2,1,1.0
+1938-1939,4,1938-09-08,Brentford,Arsenal,1,0,1.0
+1938-1939,5,1938-09-10,Leeds United,Bolton,1,2,0.0
+1938-1939,5,1938-09-10,Middlesbrough,Chelsea,1,1,0.5
+1938-1939,5,1938-09-10,Brentford,Wolves,0,1,0.0
+1938-1939,5,1938-09-10,Blackpool,Aston Villa,2,4,0.0
+1938-1939,5,1938-09-10,Derby County,Sunderland,1,0,1.0
+1938-1939,5,1938-09-10,Grimsby Town,Manchester Utd,1,0,1.0
+1938-1939,5,1938-09-10,Arsenal,Everton,1,2,0.0
+1938-1939,5,1938-09-10,Leicester City,Preston,2,1,1.0
+1938-1939,5,1938-09-10,Birmingham,Stoke City,1,2,0.0
+1938-1939,5,1938-09-10,Liverpool,Charlton Ath,1,0,1.0
+1938-1939,5,1938-09-10,Portsmouth,Huddersfield,4,0,1.0
+1938-1939,4,1938-09-12,Leicester City,Birmingham,2,1,1.0
+1938-1939,2,1938-09-14,Liverpool,Middlesbrough,3,1,1.0
+1938-1939,2,1938-09-14,Arsenal,Derby County,1,2,0.0
+1938-1939,2,1938-09-14,Huddersfield,Sunderland,0,1,0.0
+1938-1939,6,1938-09-17,Sunderland,Blackpool,1,2,0.0
+1938-1939,6,1938-09-17,Charlton Ath,Leicester City,1,0,1.0
+1938-1939,6,1938-09-17,Aston Villa,Brentford,5,0,1.0
+1938-1939,6,1938-09-17,Wolves,Arsenal,0,1,0.0
+1938-1939,6,1938-09-17,Stoke City,Manchester Utd,1,1,0.5
+1938-1939,6,1938-09-17,Bolton,Liverpool,3,1,1.0
+1938-1939,6,1938-09-17,Grimsby Town,Derby County,1,1,0.5
+1938-1939,6,1938-09-17,Chelsea,Birmingham,2,2,0.5
+1938-1939,6,1938-09-17,Everton,Portsmouth,5,1,1.0
+1938-1939,6,1938-09-17,Preston,Middlesbrough,3,1,1.0
+1938-1939,6,1938-09-17,Huddersfield,Leeds United,0,1,0.0
+1938-1939,2,1938-09-19,Blackpool,Brentford,4,1,1.0
+1938-1939,7,1938-09-24,Middlesbrough,Charlton Ath,4,0,1.0
+1938-1939,7,1938-09-24,Portsmouth,Wolves,1,0,1.0
+1938-1939,7,1938-09-24,Liverpool,Leeds United,3,0,1.0
+1938-1939,7,1938-09-24,Leicester City,Bolton,0,0,0.5
+1938-1939,7,1938-09-24,Huddersfield,Everton,3,0,1.0
+1938-1939,7,1938-09-24,Blackpool,Grimsby Town,3,1,1.0
+1938-1939,7,1938-09-24,Derby County,Stoke City,5,0,1.0
+1938-1939,7,1938-09-24,Birmingham,Preston,1,3,0.0
+1938-1939,7,1938-09-24,Brentford,Sunderland,2,3,0.0
+1938-1939,7,1938-09-24,Arsenal,Aston Villa,0,0,0.5
+1938-1939,7,1938-09-24,Manchester Utd,Chelsea,5,1,1.0
+1938-1939,8,1938-10-01,Everton,Liverpool,2,1,1.0
+1938-1939,8,1938-10-01,Chelsea,Stoke City,1,1,0.5
+1938-1939,8,1938-10-01,Wolves,Huddersfield,3,0,1.0
+1938-1939,8,1938-10-01,Derby County,Blackpool,2,1,1.0
+1938-1939,8,1938-10-01,Sunderland,Arsenal,0,0,0.5
+1938-1939,8,1938-10-01,Leeds United,Leicester City,8,2,1.0
+1938-1939,8,1938-10-01,Preston,Manchester Utd,1,1,0.5
+1938-1939,8,1938-10-01,Aston Villa,Portsmouth,2,0,1.0
+1938-1939,8,1938-10-01,Grimsby Town,Brentford,0,0,0.5
+1938-1939,8,1938-10-01,Charlton Ath,Birmingham,4,4,0.5
+1938-1939,8,1938-10-01,Bolton,Middlesbrough,4,1,1.0
+1938-1939,9,1938-10-08,Arsenal,Grimsby Town,2,0,1.0
+1938-1939,9,1938-10-08,Birmingham,Bolton,0,2,0.0
+1938-1939,9,1938-10-08,Blackpool,Chelsea,5,1,1.0
+1938-1939,9,1938-10-08,Leicester City,Liverpool,2,2,0.5
+1938-1939,9,1938-10-08,Brentford,Derby County,1,3,0.0
+1938-1939,9,1938-10-08,Stoke City,Preston,3,1,1.0
+1938-1939,9,1938-10-08,Huddersfield,Aston Villa,1,1,0.5
+1938-1939,9,1938-10-08,Manchester Utd,Charlton Ath,0,2,0.0
+1938-1939,9,1938-10-08,Middlesbrough,Leeds United,1,2,0.0
+1938-1939,9,1938-10-08,Everton,Wolves,1,0,1.0
+1938-1939,9,1938-10-08,Portsmouth,Sunderland,2,1,1.0
+1938-1939,10,1938-10-15,Stoke City,Brentford,3,2,1.0
+1938-1939,10,1938-10-15,Preston,Portsmouth,2,2,0.5
+1938-1939,10,1938-10-15,Birmingham,Derby County,3,0,1.0
+1938-1939,10,1938-10-15,Leeds United,Wolves,1,0,1.0
+1938-1939,10,1938-10-15,Charlton Ath,Huddersfield,2,1,1.0
+1938-1939,10,1938-10-15,Bolton,Everton,4,2,1.0
+1938-1939,10,1938-10-15,Leicester City,Sunderland,0,2,0.0
+1938-1939,10,1938-10-15,Liverpool,Aston Villa,3,0,1.0
+1938-1939,10,1938-10-15,Middlesbrough,Grimsby Town,3,2,1.0
+1938-1939,10,1938-10-15,Chelsea,Arsenal,4,2,1.0
+1938-1939,10,1938-10-15,Manchester Utd,Blackpool,0,0,0.5
+1938-1939,11,1938-10-22,Aston Villa,Leicester City,1,2,0.0
+1938-1939,11,1938-10-22,Sunderland,Middlesbrough,1,2,0.0
+1938-1939,11,1938-10-22,Brentford,Chelsea,1,0,1.0
+1938-1939,11,1938-10-22,Derby County,Manchester Utd,5,1,1.0
+1938-1939,11,1938-10-22,Portsmouth,Charlton Ath,0,2,0.0
+1938-1939,11,1938-10-22,Arsenal,Preston,1,0,1.0
+1938-1939,11,1938-10-22,Wolves,Liverpool,2,2,0.5
+1938-1939,11,1938-10-22,Huddersfield,Bolton,2,1,1.0
+1938-1939,11,1938-10-22,Everton,Leeds United,4,0,1.0
+1938-1939,11,1938-10-22,Blackpool,Stoke City,1,1,0.5
+1938-1939,11,1938-10-22,Grimsby Town,Birmingham,1,0,1.0
+1938-1939,12,1938-10-29,Leicester City,Everton,3,0,1.0
+1938-1939,12,1938-10-29,Manchester Utd,Sunderland,0,1,0.0
+1938-1939,12,1938-10-29,Leeds United,Portsmouth,2,2,0.5
+1938-1939,12,1938-10-29,Charlton Ath,Brentford,1,1,0.5
+1938-1939,12,1938-10-29,Stoke City,Grimsby Town,1,2,0.0
+1938-1939,12,1938-10-29,Preston,Blackpool,1,1,0.5
+1938-1939,12,1938-10-29,Bolton,Arsenal,1,1,0.5
+1938-1939,12,1938-10-29,Liverpool,Huddersfield,3,3,0.5
+1938-1939,12,1938-10-29,Birmingham,Aston Villa,3,0,1.0
+1938-1939,12,1938-10-29,Middlesbrough,Wolves,1,0,1.0
+1938-1939,12,1938-10-29,Chelsea,Derby County,0,2,0.0
+1938-1939,13,1938-11-05,Sunderland,Stoke City,3,0,1.0
+1938-1939,13,1938-11-05,Wolves,Birmingham,2,1,1.0
+1938-1939,13,1938-11-05,Portsmouth,Liverpool,1,1,0.5
+1938-1939,13,1938-11-05,Arsenal,Leeds United,2,3,0.0
+1938-1939,13,1938-11-05,Brentford,Bolton,2,2,0.5
+1938-1939,13,1938-11-05,Everton,Middlesbrough,4,0,1.0
+1938-1939,13,1938-11-05,Huddersfield,Leicester City,2,0,1.0
+1938-1939,13,1938-11-05,Grimsby Town,Chelsea,2,1,1.0
+1938-1939,13,1938-11-05,Blackpool,Charlton Ath,0,0,0.5
+1938-1939,13,1938-11-05,Derby County,Preston,2,0,1.0
+1938-1939,13,1938-11-05,Aston Villa,Manchester Utd,0,2,0.0
+1938-1939,14,1938-11-12,Birmingham,Everton,1,0,1.0
+1938-1939,14,1938-11-12,Stoke City,Aston Villa,3,1,1.0
+1938-1939,14,1938-11-12,Manchester Utd,Wolves,1,3,0.0
+1938-1939,14,1938-11-12,Leicester City,Portsmouth,5,0,1.0
+1938-1939,14,1938-11-12,Preston,Grimsby Town,1,1,0.5
+1938-1939,14,1938-11-12,Middlesbrough,Huddersfield,4,1,1.0
+1938-1939,14,1938-11-12,Leeds United,Brentford,3,2,1.0
+1938-1939,14,1938-11-12,Liverpool,Arsenal,2,2,0.5
+1938-1939,14,1938-11-12,Charlton Ath,Derby County,1,0,1.0
+1938-1939,14,1938-11-12,Bolton,Blackpool,0,1,0.0
+1938-1939,14,1938-11-12,Chelsea,Sunderland,4,0,1.0
+1938-1939,15,1938-11-19,Sunderland,Preston,1,2,0.0
+1938-1939,15,1938-11-19,Derby County,Bolton,3,0,1.0
+1938-1939,15,1938-11-19,Everton,Manchester Utd,3,0,1.0
+1938-1939,15,1938-11-19,Aston Villa,Chelsea,6,2,1.0
+1938-1939,15,1938-11-19,Brentford,Liverpool,2,1,1.0
+1938-1939,15,1938-11-19,Arsenal,Leicester City,0,0,0.5
+1938-1939,15,1938-11-19,Portsmouth,Middlesbrough,1,1,0.5
+1938-1939,15,1938-11-19,Huddersfield,Birmingham,3,1,1.0
+1938-1939,15,1938-11-19,Grimsby Town,Charlton Ath,1,1,0.5
+1938-1939,15,1938-11-19,Wolves,Stoke City,3,0,1.0
+1938-1939,15,1938-11-19,Blackpool,Leeds United,1,2,0.0
+1938-1939,16,1938-11-26,Leeds United,Derby County,1,4,0.0
+1938-1939,16,1938-11-26,Middlesbrough,Arsenal,1,1,0.5
+1938-1939,16,1938-11-26,Stoke City,Everton,0,0,0.5
+1938-1939,16,1938-11-26,Leicester City,Brentford,1,1,0.5
+1938-1939,16,1938-11-26,Bolton,Grimsby Town,1,1,0.5
+1938-1939,16,1938-11-26,Birmingham,Portsmouth,2,0,1.0
+1938-1939,16,1938-11-26,Manchester Utd,Huddersfield,1,1,0.5
+1938-1939,16,1938-11-26,Chelsea,Wolves,1,3,0.0
+1938-1939,16,1938-11-26,Preston,Aston Villa,3,2,1.0
+1938-1939,16,1938-11-26,Liverpool,Blackpool,1,0,1.0
+1938-1939,16,1938-11-26,Charlton Ath,Sunderland,3,0,1.0
+1938-1939,17,1938-12-03,Grimsby Town,Leeds United,3,2,1.0
+1938-1939,17,1938-12-03,Portsmouth,Manchester Utd,0,0,0.5
+1938-1939,17,1938-12-03,Brentford,Middlesbrough,2,1,1.0
+1938-1939,17,1938-12-03,Everton,Chelsea,4,1,1.0
+1938-1939,17,1938-12-03,Arsenal,Birmingham,3,1,1.0
+1938-1939,17,1938-12-03,Sunderland,Bolton,2,2,0.5
+1938-1939,17,1938-12-03,Wolves,Preston,3,0,1.0
+1938-1939,17,1938-12-03,Huddersfield,Stoke City,1,4,0.0
+1938-1939,17,1938-12-03,Derby County,Liverpool,2,2,0.5
+1938-1939,17,1938-12-03,Aston Villa,Charlton Ath,2,0,1.0
+1938-1939,17,1938-12-03,Blackpool,Leicester City,1,1,0.5
+1938-1939,18,1938-12-10,Leeds United,Sunderland,3,3,0.5
+1938-1939,18,1938-12-10,Middlesbrough,Blackpool,9,2,1.0
+1938-1939,18,1938-12-10,Bolton,Aston Villa,1,2,0.0
+1938-1939,18,1938-12-10,Liverpool,Grimsby Town,2,2,0.5
+1938-1939,18,1938-12-10,Preston,Everton,0,1,0.0
+1938-1939,18,1938-12-10,Manchester Utd,Arsenal,1,0,1.0
+1938-1939,18,1938-12-10,Charlton Ath,Wolves,0,4,0.0
+1938-1939,18,1938-12-10,Leicester City,Derby County,2,3,0.0
+1938-1939,18,1938-12-10,Stoke City,Portsmouth,1,1,0.5
+1938-1939,18,1938-12-10,Chelsea,Huddersfield,3,0,1.0
+1938-1939,18,1938-12-10,Birmingham,Brentford,5,1,1.0
+1938-1939,19,1938-12-17,Arsenal,Stoke City,4,1,1.0
+1938-1939,19,1938-12-17,Huddersfield,Preston,3,0,1.0
+1938-1939,19,1938-12-17,Everton,Charlton Ath,1,4,0.0
+1938-1939,19,1938-12-17,Aston Villa,Leeds United,2,1,1.0
+1938-1939,19,1938-12-17,Grimsby Town,Leicester City,6,1,1.0
+1938-1939,19,1938-12-17,Derby County,Middlesbrough,1,4,0.0
+1938-1939,19,1938-12-17,Brentford,Manchester Utd,2,5,0.0
+1938-1939,19,1938-12-17,Wolves,Bolton,1,1,0.5
+1938-1939,19,1938-12-17,Blackpool,Birmingham,2,1,1.0
+1938-1939,19,1938-12-17,Sunderland,Liverpool,2,3,0.0
+1938-1939,19,1938-12-17,Portsmouth,Chelsea,2,1,1.0
+1938-1939,20,1938-12-24,Everton,Blackpool,4,0,1.0
+1938-1939,20,1938-12-24,Manchester Utd,Middlesbrough,1,1,0.5
+1938-1939,20,1938-12-24,Preston,Leeds United,2,0,1.0
+1938-1939,20,1938-12-24,Chelsea,Liverpool,4,1,1.0
+1938-1939,20,1938-12-24,Huddersfield,Brentford,1,2,0.0
+1938-1939,20,1938-12-24,Wolves,Derby County,0,0,0.5
+1938-1939,20,1938-12-24,Charlton Ath,Bolton,2,1,1.0
+1938-1939,20,1938-12-24,Portsmouth,Arsenal,0,0,0.5
+1938-1939,20,1938-12-24,Stoke City,Leicester City,1,0,1.0
+1938-1939,20,1938-12-24,Aston Villa,Grimsby Town,0,2,0.0
+1938-1939,20,1938-12-24,Sunderland,Birmingham,1,0,1.0
+1938-1939,21,1938-12-26,Manchester Utd,Leicester City,3,0,1.0
+1938-1939,21,1938-12-26,Stoke City,Liverpool,3,1,1.0
+1938-1939,21,1938-12-26,Birmingham,Middlesbrough,2,1,1.0
+1938-1939,21,1938-12-26,Sunderland,Aston Villa,1,5,0.0
+1938-1939,21,1938-12-26,Grimsby Town,Wolves,2,4,0.0
+1938-1939,21,1938-12-26,Blackpool,Huddersfield,1,1,0.5
+1938-1939,21,1938-12-26,Leeds United,Chelsea,1,1,0.5
+1938-1939,21,1938-12-26,Everton,Derby County,2,2,0.5
+1938-1939,22,1938-12-26,Charlton Ath,Arsenal,1,0,1.0
+1938-1939,22,1938-12-27,Chelsea,Leeds United,2,2,0.5
+1938-1939,22,1938-12-27,Huddersfield,Blackpool,3,0,1.0
+1938-1939,22,1938-12-27,Preston,Bolton,2,2,0.5
+1938-1939,22,1938-12-27,Liverpool,Stoke City,1,0,1.0
+1938-1939,22,1938-12-27,Aston Villa,Sunderland,1,1,0.5
+1938-1939,22,1938-12-27,Wolves,Grimsby Town,5,0,1.0
+1938-1939,22,1938-12-27,Portsmouth,Brentford,2,2,0.5
+1938-1939,22,1938-12-27,Middlesbrough,Birmingham,2,2,0.5
+1938-1939,22,1938-12-27,Derby County,Everton,2,1,1.0
+1938-1939,22,1938-12-27,Leicester City,Manchester Utd,1,1,0.5
+1938-1939,23,1938-12-31,Arsenal,Huddersfield,1,0,1.0
+1938-1939,23,1938-12-31,Derby County,Aston Villa,2,1,1.0
+1938-1939,23,1938-12-31,Middlesbrough,Stoke City,5,1,1.0
+1938-1939,23,1938-12-31,Liverpool,Preston,4,1,1.0
+1938-1939,23,1938-12-31,Birmingham,Manchester Utd,3,3,0.5
+1938-1939,23,1938-12-31,Leeds United,Charlton Ath,2,1,1.0
+1938-1939,23,1938-12-31,Bolton,Portsmouth,5,1,1.0
+1938-1939,23,1938-12-31,Grimsby Town,Sunderland,1,3,0.0
+1938-1939,23,1938-12-31,Blackpool,Wolves,1,0,1.0
+1938-1939,23,1938-12-31,Leicester City,Chelsea,3,2,1.0
+1938-1939,23,1938-12-31,Brentford,Everton,2,0,1.0
+1938-1939,36,1939-01-02,Bolton,Stoke City,1,3,0.0
+1938-1939,41,1939-01-02,Middlesbrough,Liverpool,3,0,1.0
+1938-1939,24,1939-01-14,Aston Villa,Blackpool,3,1,1.0
+1938-1939,24,1939-01-14,Manchester Utd,Grimsby Town,3,1,1.0
+1938-1939,24,1939-01-14,Huddersfield,Portsmouth,3,0,1.0
+1938-1939,24,1939-01-14,Everton,Arsenal,2,0,1.0
+1938-1939,24,1939-01-14,Charlton Ath,Liverpool,1,3,0.0
+1938-1939,24,1939-01-14,Sunderland,Derby County,1,0,1.0
+1938-1939,24,1939-01-14,Chelsea,Middlesbrough,4,2,1.0
+1938-1939,24,1939-01-14,Stoke City,Birmingham,6,3,1.0
+1938-1939,24,1939-01-14,Wolves,Brentford,5,2,1.0
+1938-1939,24,1939-01-14,Preston,Leicester City,2,1,1.0
+1938-1939,24,1939-01-14,Bolton,Leeds United,2,2,0.5
+1938-1939,21,1939-01-21,Arsenal,Charlton Ath,2,0,1.0
+1938-1939,25,1939-01-21,Manchester Utd,Stoke City,0,1,0.0
+1938-1939,25,1939-01-25,Blackpool,Sunderland,1,1,0.5
+1938-1939,25,1939-01-25,Liverpool,Bolton,1,2,0.0
+1938-1939,25,1939-01-25,Middlesbrough,Preston,2,2,0.5
+1938-1939,26,1939-01-28,Charlton Ath,Middlesbrough,3,0,1.0
+1938-1939,26,1939-01-28,Bolton,Leicester City,4,0,1.0
+1938-1939,26,1939-01-28,Sunderland,Brentford,1,1,0.5
+1938-1939,26,1939-01-28,Stoke City,Derby County,3,0,1.0
+1938-1939,26,1939-01-28,Leeds United,Liverpool,1,1,0.5
+1938-1939,26,1939-01-28,Preston,Birmingham,5,0,1.0
+1938-1939,26,1939-01-28,Wolves,Portsmouth,3,0,1.0
+1938-1939,26,1939-01-28,Everton,Huddersfield,3,2,1.0
+1938-1939,26,1939-01-28,Chelsea,Manchester Utd,0,1,0.0
+1938-1939,26,1939-01-28,Grimsby Town,Blackpool,2,0,1.0
+1938-1939,26,1939-01-28,Aston Villa,Arsenal,1,3,0.0
+1938-1939,25,1939-02-01,Derby County,Grimsby Town,4,1,1.0
+1938-1939,25,1939-02-01,Arsenal,Wolves,0,0,0.5
+1938-1939,25,1939-02-01,Portsmouth,Everton,0,1,0.0
+1938-1939,27,1939-02-04,Manchester Utd,Preston,1,1,0.5
+1938-1939,27,1939-02-04,Portsmouth,Aston Villa,0,0,0.5
+1938-1939,27,1939-02-04,Blackpool,Derby County,2,2,0.5
+1938-1939,27,1939-02-04,Birmingham,Charlton Ath,3,4,0.0
+1938-1939,27,1939-02-04,Huddersfield,Wolves,1,2,0.0
+1938-1939,27,1939-02-04,Middlesbrough,Bolton,1,2,0.0
+1938-1939,27,1939-02-04,Stoke City,Chelsea,6,1,1.0
+1938-1939,27,1939-02-04,Leicester City,Leeds United,2,0,1.0
+1938-1939,27,1939-02-04,Brentford,Grimsby Town,1,2,0.0
+1938-1939,27,1939-02-04,Arsenal,Sunderland,2,0,1.0
+1938-1939,27,1939-02-04,Liverpool,Everton,0,3,0.0
+1938-1939,25,1939-02-08,Brentford,Aston Villa,2,4,0.0
+1938-1939,25,1939-02-09,Leicester City,Charlton Ath,1,5,0.0
+1938-1939,28,1939-02-11,Charlton Ath,Manchester Utd,7,1,1.0
+1938-1939,28,1939-02-11,Leeds United,Middlesbrough,0,1,0.0
+1938-1939,28,1939-02-11,Derby County,Brentford,1,2,0.0
+1938-1939,28,1939-02-15,Aston Villa,Huddersfield,4,0,1.0
+1938-1939,28,1939-02-15,Preston,Stoke City,1,1,0.5
+1938-1939,29,1939-02-18,Derby County,Birmingham,0,1,0.0
+1938-1939,29,1939-02-18,Wolves,Leeds United,4,1,1.0
+1938-1939,29,1939-02-18,Brentford,Stoke City,1,0,1.0
+1938-1939,29,1939-02-18,Grimsby Town,Middlesbrough,0,2,0.0
+1938-1939,29,1939-02-18,Sunderland,Leicester City,2,0,1.0
+1938-1939,29,1939-02-18,Everton,Bolton,2,1,1.0
+1938-1939,29,1939-02-18,Aston Villa,Liverpool,2,0,1.0
+1938-1939,29,1939-02-18,Portsmouth,Preston,0,0,0.5
+1938-1939,29,1939-02-18,Blackpool,Manchester Utd,3,5,0.0
+1938-1939,29,1939-02-18,Arsenal,Chelsea,1,0,1.0
+1938-1939,29,1939-02-18,Huddersfield,Charlton Ath,4,0,1.0
+1938-1939,28,1939-02-21,Grimsby Town,Arsenal,2,1,1.0
+1938-1939,21,1939-02-22,Brentford,Portsmouth,2,0,1.0
+1938-1939,28,1939-02-22,Wolves,Everton,7,0,1.0
+1938-1939,28,1939-02-22,Bolton,Birmingham,3,0,1.0
+1938-1939,30,1939-02-25,Chelsea,Brentford,1,3,0.0
+1938-1939,30,1939-02-25,Charlton Ath,Portsmouth,3,3,0.5
+1938-1939,30,1939-02-25,Birmingham,Grimsby Town,1,1,0.5
+1938-1939,30,1939-02-25,Manchester Utd,Derby County,1,1,0.5
+1938-1939,30,1939-02-25,Stoke City,Blackpool,1,1,0.5
+1938-1939,30,1939-02-25,Middlesbrough,Sunderland,3,0,1.0
+1938-1939,30,1939-02-25,Bolton,Huddersfield,3,2,1.0
+1938-1939,30,1939-02-25,Preston,Arsenal,2,1,1.0
+1938-1939,30,1939-02-25,Leicester City,Aston Villa,1,1,0.5
+1938-1939,30,1939-02-25,Liverpool,Wolves,0,2,0.0
+1938-1939,30,1939-02-25,Leeds United,Everton,1,2,0.0
+1938-1939,28,1939-03-04,Liverpool,Leicester City,1,1,0.5
+1938-1939,31,1939-03-04,Brentford,Charlton Ath,1,0,1.0
+1938-1939,31,1939-03-04,Aston Villa,Birmingham,5,1,1.0
+1938-1939,31,1939-03-04,Sunderland,Manchester Utd,5,2,1.0
+1938-1939,31,1939-03-04,Arsenal,Bolton,3,1,1.0
+1938-1939,31,1939-03-07,Grimsby Town,Stoke City,3,1,1.0
+1938-1939,31,1939-03-08,Everton,Leicester City,4,0,1.0
+1938-1939,31,1939-03-08,Derby County,Chelsea,0,1,0.0
+1938-1939,31,1939-03-08,Portsmouth,Leeds United,2,0,1.0
+1938-1939,31,1939-03-08,Blackpool,Preston,2,1,1.0
+1938-1939,31,1939-03-08,Wolves,Middlesbrough,6,1,1.0
+1938-1939,32,1939-03-11,Leicester City,Huddersfield,0,1,0.0
+1938-1939,32,1939-03-11,Bolton,Brentford,1,1,0.5
+1938-1939,32,1939-03-11,Stoke City,Sunderland,3,1,1.0
+1938-1939,32,1939-03-11,Preston,Derby County,4,1,1.0
+1938-1939,32,1939-03-11,Chelsea,Grimsby Town,5,1,1.0
+1938-1939,32,1939-03-11,Birmingham,Wolves,3,2,1.0
+1938-1939,32,1939-03-11,Charlton Ath,Blackpool,3,1,1.0
+1938-1939,32,1939-03-11,Middlesbrough,Everton,4,4,0.5
+1938-1939,32,1939-03-11,Liverpool,Portsmouth,4,4,0.5
+1938-1939,32,1939-03-11,Leeds United,Arsenal,4,2,1.0
+1938-1939,32,1939-03-11,Manchester Utd,Aston Villa,1,1,0.5
+1938-1939,28,1939-03-15,Sunderland,Portsmouth,0,2,0.0
+1938-1939,28,1939-03-15,Chelsea,Blackpool,1,1,0.5
+1938-1939,31,1939-03-15,Huddersfield,Liverpool,1,1,0.5
+1938-1939,33,1939-03-18,Grimsby Town,Preston,1,1,0.5
+1938-1939,33,1939-03-18,Aston Villa,Stoke City,3,0,1.0
+1938-1939,33,1939-03-18,Derby County,Charlton Ath,3,1,1.0
+1938-1939,33,1939-03-18,Portsmouth,Leicester City,0,1,0.0
+1938-1939,33,1939-03-18,Arsenal,Liverpool,2,0,1.0
+1938-1939,33,1939-03-18,Wolves,Manchester Utd,3,0,1.0
+1938-1939,33,1939-03-18,Huddersfield,Middlesbrough,0,1,0.0
+1938-1939,33,1939-03-18,Sunderland,Chelsea,3,2,1.0
+1938-1939,33,1939-03-18,Blackpool,Bolton,0,0,0.5
+1938-1939,33,1939-03-18,Everton,Birmingham,4,2,1.0
+1938-1939,33,1939-03-18,Brentford,Leeds United,0,1,0.0
+1938-1939,34,1939-03-25,Bolton,Derby County,2,1,1.0
+1938-1939,34,1939-03-25,Preston,Sunderland,2,1,1.0
+1938-1939,34,1939-03-25,Liverpool,Brentford,1,0,1.0
+1938-1939,34,1939-03-25,Leicester City,Arsenal,0,2,0.0
+1938-1939,34,1939-03-25,Chelsea,Aston Villa,2,1,1.0
+1938-1939,34,1939-03-25,Leeds United,Blackpool,1,0,1.0
+1938-1939,34,1939-03-29,Charlton Ath,Grimsby Town,3,1,1.0
+1938-1939,34,1939-03-29,Stoke City,Wolves,5,3,1.0
+1938-1939,34,1939-03-29,Manchester Utd,Everton,0,2,0.0
+1938-1939,34,1939-03-29,Middlesbrough,Portsmouth,8,2,1.0
+1938-1939,34,1939-03-29,Birmingham,Huddersfield,1,1,0.5
+1938-1939,35,1939-04-01,Everton,Stoke City,1,1,0.5
+1938-1939,35,1939-04-01,Blackpool,Liverpool,1,1,0.5
+1938-1939,35,1939-04-01,Portsmouth,Birmingham,2,0,1.0
+1938-1939,35,1939-04-01,Aston Villa,Preston,3,0,1.0
+1938-1939,35,1939-04-01,Grimsby Town,Bolton,1,1,0.5
+1938-1939,35,1939-04-01,Brentford,Leicester City,2,0,1.0
+1938-1939,35,1939-04-01,Huddersfield,Manchester Utd,1,1,0.5
+1938-1939,35,1939-04-01,Derby County,Leeds United,1,0,1.0
+1938-1939,35,1939-04-01,Wolves,Chelsea,2,0,1.0
+1938-1939,35,1939-04-01,Sunderland,Charlton Ath,1,1,0.5
+1938-1939,35,1939-04-01,Arsenal,Middlesbrough,1,2,0.0
+1938-1939,36,1939-04-07,Manchester Utd,Leeds United,0,0,0.5
+1938-1939,36,1939-04-07,Sunderland,Everton,1,2,0.0
+1938-1939,36,1939-04-07,Brentford,Preston,3,1,1.0
+1938-1939,36,1939-04-07,Charlton Ath,Chelsea,2,0,1.0
+1938-1939,36,1939-04-07,Portsmouth,Derby County,1,3,0.0
+1938-1939,36,1939-04-07,Grimsby Town,Huddersfield,3,3,0.5
+1938-1939,36,1939-04-07,Blackpool,Arsenal,1,0,1.0
+1938-1939,36,1939-04-07,Liverpool,Birmingham,4,0,1.0
+1938-1939,37,1939-04-08,Manchester Utd,Portsmouth,1,1,0.5
+1938-1939,37,1939-04-08,Preston,Wolves,4,2,1.0
+1938-1939,37,1939-04-08,Middlesbrough,Brentford,3,1,1.0
+1938-1939,37,1939-04-08,Leeds United,Grimsby Town,0,1,0.0
+1938-1939,37,1939-04-08,Chelsea,Everton,0,2,0.0
+1938-1939,37,1939-04-08,Liverpool,Derby County,2,1,1.0
+1938-1939,37,1939-04-08,Charlton Ath,Aston Villa,1,0,1.0
+1938-1939,37,1939-04-08,Leicester City,Blackpool,3,4,0.0
+1938-1939,37,1939-04-08,Birmingham,Arsenal,1,2,0.0
+1938-1939,37,1939-04-08,Stoke City,Huddersfield,2,2,0.5
+1938-1939,37,1939-04-08,Bolton,Sunderland,2,1,1.0
+1938-1939,36,1939-04-10,Middlesbrough,Leicester City,3,2,1.0
+1938-1939,36,1939-04-10,Wolves,Aston Villa,2,1,1.0
+1938-1939,38,1939-04-10,Everton,Sunderland,6,2,1.0
+1938-1939,38,1939-04-10,Derby County,Portsmouth,0,1,0.0
+1938-1939,38,1939-04-10,Stoke City,Bolton,4,1,1.0
+1938-1939,38,1939-04-10,Preston,Brentford,2,0,1.0
+1938-1939,38,1939-04-10,Arsenal,Blackpool,2,1,1.0
+1938-1939,38,1939-04-10,Leeds United,Manchester Utd,3,1,1.0
+1938-1939,38,1939-04-10,Birmingham,Liverpool,0,0,0.5
+1938-1939,38,1939-04-10,Chelsea,Charlton Ath,1,3,0.0
+1938-1939,38,1939-04-11,Aston Villa,Wolves,2,2,0.5
+1938-1939,38,1939-04-11,Huddersfield,Grimsby Town,2,0,1.0
+1938-1939,38,1939-04-11,Leicester City,Middlesbrough,5,3,1.0
+1938-1939,39,1939-04-15,Wolves,Charlton Ath,3,1,1.0
+1938-1939,39,1939-04-15,Derby County,Leicester City,1,1,0.5
+1938-1939,39,1939-04-15,Arsenal,Manchester Utd,2,1,1.0
+1938-1939,39,1939-04-15,Grimsby Town,Liverpool,2,1,1.0
+1938-1939,39,1939-04-15,Huddersfield,Chelsea,3,1,1.0
+1938-1939,39,1939-04-15,Portsmouth,Stoke City,2,0,1.0
+1938-1939,39,1939-04-15,Aston Villa,Bolton,1,3,0.0
+1938-1939,39,1939-04-15,Brentford,Birmingham,0,1,0.0
+1938-1939,39,1939-04-15,Everton,Preston,0,0,0.5
+1938-1939,39,1939-04-15,Blackpool,Middlesbrough,4,0,1.0
+1938-1939,39,1939-04-15,Sunderland,Leeds United,2,1,1.0
+1938-1939,25,1939-04-19,Leeds United,Huddersfield,2,1,1.0
+1938-1939,41,1939-04-19,Portsmouth,Grimsby Town,2,1,1.0
+1938-1939,40,1939-04-22,Birmingham,Blackpool,2,1,1.0
+1938-1939,40,1939-04-22,Charlton Ath,Everton,2,1,1.0
+1938-1939,40,1939-04-22,Leicester City,Grimsby Town,0,2,0.0
+1938-1939,40,1939-04-22,Middlesbrough,Derby County,2,0,1.0
+1938-1939,40,1939-04-22,Stoke City,Arsenal,1,0,1.0
+1938-1939,40,1939-04-22,Liverpool,Sunderland,1,1,0.5
+1938-1939,40,1939-04-22,Preston,Huddersfield,3,0,1.0
+1938-1939,40,1939-04-22,Manchester Utd,Brentford,3,0,1.0
+1938-1939,40,1939-04-22,Chelsea,Portsmouth,1,0,1.0
+1938-1939,40,1939-04-22,Leeds United,Aston Villa,2,0,1.0
+1938-1939,40,1939-04-22,Bolton,Wolves,0,0,0.5
+1938-1939,21,1939-04-26,Bolton,Preston,0,2,0.0
+1938-1939,25,1939-04-26,Birmingham,Chelsea,1,1,0.5
+1938-1939,41,1939-04-29,Brentford,Blackpool,1,1,0.5
+1938-1939,41,1939-04-29,Everton,Aston Villa,3,0,1.0
+1938-1939,41,1939-04-29,Preston,Chelsea,1,1,0.5
+1938-1939,41,1939-04-29,Sunderland,Huddersfield,0,0,0.5
+1938-1939,41,1939-04-29,Birmingham,Leeds United,4,0,1.0
+1938-1939,41,1939-04-29,Derby County,Arsenal,1,2,0.0
+1938-1939,41,1939-04-29,Bolton,Manchester Utd,0,0,0.5
+1938-1939,41,1939-04-29,Stoke City,Charlton Ath,1,0,1.0
+1938-1939,41,1939-05-04,Leicester City,Wolves,0,2,0.0
+1938-1939,42,1939-05-06,Leeds United,Stoke City,0,0,0.5
+1938-1939,42,1939-05-06,Aston Villa,Middlesbrough,1,1,0.5
+1938-1939,42,1939-05-06,Manchester Utd,Liverpool,2,0,1.0
+1938-1939,42,1939-05-06,Wolves,Sunderland,0,0,0.5
+1938-1939,42,1939-05-06,Blackpool,Portsmouth,2,1,1.0
+1938-1939,42,1939-05-06,Grimsby Town,Everton,3,0,1.0
+1938-1939,42,1939-05-06,Charlton Ath,Preston,3,1,1.0
+1938-1939,42,1939-05-06,Arsenal,Brentford,2,0,1.0
+1938-1939,42,1939-05-06,Chelsea,Bolton,1,1,0.5

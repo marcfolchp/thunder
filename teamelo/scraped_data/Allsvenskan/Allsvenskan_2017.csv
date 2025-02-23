@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017,1,2017-04-01,Göteborg,Malmö,1,1,0.5
+2017,1,2017-04-01,Halmstad,Östersund,1,0,1.0
+2017,1,2017-04-02,AIK Stockholm,Häcken,0,0,0.5
+2017,1,2017-04-02,Sundsvall,AFC Eskilstuna,3,1,1.0
+2017,1,2017-04-02,Norrköping,Hammarby,2,1,1.0
+2017,1,2017-04-03,Djurgården,Sirius,0,2,0.0
+2017,1,2017-04-03,Kalmar,Elfsborg,1,5,0.0
+2017,1,2017-04-03,Örebro,Jönköping,2,1,1.0
+2017,2,2017-04-08,AFC Eskilstuna,Örebro,2,2,0.5
+2017,2,2017-04-09,Hammarby,Kalmar,1,1,0.5
+2017,2,2017-04-09,Östersund,Norrköping,1,0,1.0
+2017,2,2017-04-09,Sirius,Göteborg,0,2,0.0
+2017,2,2017-04-09,Jönköping,Halmstad,2,2,0.5
+2017,2,2017-04-09,Häcken,Djurgården,0,0,0.5
+2017,2,2017-04-10,Elfsborg,AIK Stockholm,1,2,0.0
+2017,2,2017-04-11,Malmö,Sundsvall,2,0,1.0
+2017,3,2017-04-16,Örebro,Östersund,2,1,1.0
+2017,3,2017-04-16,Halmstad,Malmö,0,3,0.0
+2017,3,2017-04-16,Djurgården,Elfsborg,3,0,1.0
+2017,3,2017-04-16,Sundsvall,Häcken,1,2,0.0
+2017,3,2017-04-17,AIK Stockholm,Hammarby,1,2,0.0
+2017,3,2017-04-17,Kalmar,Jönköping,1,3,0.0
+2017,3,2017-04-17,Göteborg,AFC Eskilstuna,1,1,0.5
+2017,3,2017-04-17,Norrköping,Sirius,0,2,0.0
+2017,4,2017-04-20,Elfsborg,Örebro,3,0,1.0
+2017,4,2017-04-22,Jönköping,AIK Stockholm,2,1,1.0
+2017,4,2017-04-23,Häcken,Norrköping,1,2,0.0
+2017,4,2017-04-23,Hammarby,Sundsvall,0,0,0.5
+2017,4,2017-04-23,Östersund,Göteborg,1,1,0.5
+2017,4,2017-04-23,AFC Eskilstuna,Halmstad,0,0,0.5
+2017,4,2017-04-24,Sirius,Kalmar,3,0,1.0
+2017,4,2017-04-24,Malmö,Djurgården,3,2,1.0
+2017,5,2017-04-26,Göteborg,Hammarby,1,1,0.5
+2017,5,2017-04-26,AFC Eskilstuna,Östersund,1,3,0.0
+2017,5,2017-04-26,Sundsvall,Elfsborg,1,1,0.5
+2017,5,2017-04-26,Örebro,Häcken,0,0,0.5
+2017,5,2017-04-27,Norrköping,Jönköping,3,0,1.0
+2017,5,2017-04-27,AIK Stockholm,Sirius,1,0,1.0
+2017,5,2017-04-27,Halmstad,Djurgården,0,1,0.0
+2017,5,2017-04-27,Kalmar,Malmö,0,0,0.5
+2017,6,2017-04-29,Hammarby,AFC Eskilstuna,4,0,1.0
+2017,6,2017-04-30,AIK Stockholm,Sundsvall,0,0,0.5
+2017,6,2017-05-01,Malmö,Örebro,2,1,1.0
+2017,6,2017-05-01,Kalmar,Halmstad,2,0,1.0
+2017,6,2017-05-01,Djurgården,Norrköping,3,3,0.5
+2017,6,2017-05-01,Sirius,Jönköping,1,1,0.5
+2017,6,2017-05-02,Elfsborg,Östersund,4,4,0.5
+2017,6,2017-05-02,Häcken,Göteborg,4,0,1.0
+2017,7,2017-05-05,Häcken,Sirius,2,2,0.5
+2017,7,2017-05-06,Halmstad,AIK Stockholm,0,1,0.0
+2017,7,2017-05-07,Göteborg,Kalmar,3,0,1.0
+2017,7,2017-05-07,Östersund,Hammarby,2,1,1.0
+2017,7,2017-05-07,Jönköping,AFC Eskilstuna,1,0,1.0
+2017,7,2017-05-07,Örebro,Djurgården,0,4,0.0
+2017,7,2017-05-08,Norrköping,Sundsvall,0,0,0.5
+2017,7,2017-05-08,Elfsborg,Malmö,1,2,0.0
+2017,8,2017-05-12,AFC Eskilstuna,Norrköping,1,2,0.0
+2017,8,2017-05-13,AIK Stockholm,Örebro,1,0,1.0
+2017,8,2017-05-13,Kalmar,Häcken,0,1,0.0
+2017,8,2017-05-14,Halmstad,Hammarby,1,2,0.0
+2017,8,2017-05-14,Sundsvall,Jönköping,0,0,0.5
+2017,8,2017-05-14,Malmö,Östersund,2,1,1.0
+2017,8,2017-05-14,Sirius,Elfsborg,4,1,1.0
+2017,8,2017-05-15,Djurgården,Göteborg,1,0,1.0
+2017,9,2017-05-16,Norrköping,Kalmar,2,0,1.0
+2017,9,2017-05-17,Östersund,Sirius,0,0,0.5
+2017,9,2017-05-17,Hammarby,Malmö,1,1,0.5
+2017,9,2017-05-17,Häcken,Halmstad,2,1,1.0
+2017,9,2017-05-17,Örebro,Sundsvall,0,2,0.0
+2017,9,2017-05-18,Jönköping,Djurgården,1,1,0.5
+2017,9,2017-05-18,Elfsborg,AFC Eskilstuna,2,1,1.0
+2017,10,2017-05-20,Östersund,Kalmar,2,1,1.0
+2017,10,2017-05-20,Halmstad,Örebro,0,0,0.5
+2017,10,2017-05-21,Sirius,Hammarby,1,1,0.5
+2017,10,2017-05-21,AFC Eskilstuna,Häcken,0,0,0.5
+2017,10,2017-05-21,Malmö,Norrköping,1,2,0.0
+2017,10,2017-05-22,Elfsborg,Jönköping,3,0,1.0
+2017,10,2017-05-22,Sundsvall,Göteborg,0,4,0.0
+2017,10,2017-05-22,Djurgården,AIK Stockholm,0,1,0.0
+2017,11,2017-05-27,Djurgården,AFC Eskilstuna,4,1,1.0
+2017,11,2017-05-27,Kalmar,Sundsvall,3,0,1.0
+2017,11,2017-05-27,Norrköping,Halmstad,3,2,1.0
+2017,11,2017-05-28,Hammarby,Jönköping,2,2,0.5
+2017,11,2017-05-28,Göteborg,Elfsborg,1,1,0.5
+2017,11,2017-05-29,Örebro,Sirius,2,1,1.0
+2017,11,2017-05-29,AIK Stockholm,Malmö,0,1,0.0
+2017,11,2017-05-29,Häcken,Östersund,0,1,0.0
+2017,16,2017-06-01,Norrköping,AIK Stockholm,0,0,0.5
+2017,12,2017-06-02,Elfsborg,Häcken,2,0,1.0
+2017,12,2017-06-03,Östersund,Sundsvall,3,1,1.0
+2017,12,2017-06-03,Kalmar,Örebro,0,1,0.0
+2017,12,2017-06-03,Jönköping,Malmö,1,2,0.0
+2017,12,2017-06-04,AFC Eskilstuna,AIK Stockholm,1,3,0.0
+2017,12,2017-06-04,Hammarby,Djurgården,3,1,1.0
+2017,12,2017-06-04,Sirius,Halmstad,2,1,1.0
+2017,12,2017-06-04,Norrköping,Göteborg,2,0,1.0
+2017,13,2017-07-01,Sundsvall,Sirius,1,2,0.0
+2017,13,2017-07-01,Malmö,AFC Eskilstuna,3,2,1.0
+2017,13,2017-07-01,Halmstad,Elfsborg,1,1,0.5
+2017,13,2017-07-02,Jönköping,Göteborg,0,2,0.0
+2017,13,2017-07-02,Örebro,Norrköping,4,2,1.0
+2017,13,2017-07-02,AIK Stockholm,Östersund,2,2,0.5
+2017,13,2017-07-03,Djurgården,Kalmar,4,1,1.0
+2017,13,2017-07-03,Häcken,Hammarby,2,0,1.0
+2017,14,2017-07-08,Hammarby,Örebro,3,1,1.0
+2017,14,2017-07-08,Sirius,AFC Eskilstuna,1,0,1.0
+2017,14,2017-07-08,Häcken,Malmö,0,1,0.0
+2017,14,2017-07-09,Norrköping,Elfsborg,1,3,0.0
+2017,14,2017-07-09,Kalmar,AIK Stockholm,0,1,0.0
+2017,14,2017-07-09,Östersund,Jönköping,1,1,0.5
+2017,14,2017-07-10,Göteborg,Halmstad,1,1,0.5
+2017,14,2017-07-10,Djurgården,Sundsvall,2,1,1.0
+2017,15,2017-07-15,Sundsvall,Halmstad,1,0,1.0
+2017,15,2017-07-15,AFC Eskilstuna,Kalmar,2,1,1.0
+2017,15,2017-07-15,Malmö,Sirius,3,3,0.5
+2017,15,2017-07-16,Örebro,Göteborg,4,2,1.0
+2017,15,2017-07-16,Östersund,Djurgården,2,1,1.0
+2017,15,2017-07-16,AIK Stockholm,Norrköping,1,0,1.0
+2017,15,2017-07-17,Jönköping,Häcken,0,1,0.0
+2017,15,2017-07-17,Elfsborg,Hammarby,3,0,1.0
+2017,16,2017-07-22,Malmö,Jönköping,2,0,1.0
+2017,16,2017-07-22,Halmstad,Sundsvall,2,2,0.5
+2017,16,2017-07-22,Sirius,Häcken,2,2,0.5
+2017,16,2017-07-23,Djurgården,Östersund,3,0,1.0
+2017,16,2017-07-23,Göteborg,Örebro,2,2,0.5
+2017,16,2017-07-23,Kalmar,AFC Eskilstuna,2,0,1.0
+2017,16,2017-07-24,Hammarby,Elfsborg,2,1,1.0
+2017,17,2017-07-29,Elfsborg,Sirius,0,2,0.0
+2017,17,2017-07-29,Jönköping,Hammarby,1,0,1.0
+2017,17,2017-07-29,Sundsvall,Malmö,0,1,0.0
+2017,17,2017-07-30,Göteborg,Norrköping,4,1,1.0
+2017,17,2017-07-30,Östersund,Halmstad,0,0,0.5
+2017,17,2017-07-30,AIK Stockholm,Kalmar,0,1,0.0
+2017,17,2017-07-31,Häcken,Örebro,1,1,0.5
+2017,17,2017-07-31,AFC Eskilstuna,Djurgården,1,2,0.0
+2017,18,2017-08-05,Halmstad,Jönköping,6,1,1.0
+2017,18,2017-08-05,Örebro,Elfsborg,2,2,0.5
+2017,18,2017-08-06,Hammarby,Häcken,1,2,0.0
+2017,18,2017-08-06,Sundsvall,Östersund,1,1,0.5
+2017,18,2017-08-06,Kalmar,Göteborg,1,0,1.0
+2017,18,2017-08-06,Sirius,AIK Stockholm,1,4,0.0
+2017,18,2017-08-07,Djurgården,Malmö,0,1,0.0
+2017,18,2017-08-07,Norrköping,AFC Eskilstuna,1,0,1.0
+2017,9,2017-08-10,Göteborg,AIK Stockholm,2,1,1.0
+2017,19,2017-08-11,Malmö,Kalmar,6,0,1.0
+2017,19,2017-08-12,Halmstad,Sirius,0,3,0.0
+2017,19,2017-08-13,AIK Stockholm,AFC Eskilstuna,1,1,0.5
+2017,19,2017-08-13,Hammarby,Östersund,2,2,0.5
+2017,19,2017-08-13,Norrköping,Djurgården,0,1,0.0
+2017,19,2017-08-13,Jönköping,Örebro,1,2,0.0
+2017,19,2017-08-14,Häcken,Sundsvall,2,0,1.0
+2017,19,2017-08-14,Elfsborg,Göteborg,1,2,0.0
+2017,20,2017-08-18,Jönköping,Elfsborg,2,2,0.5
+2017,20,2017-08-19,AFC Eskilstuna,Malmö,3,1,1.0
+2017,20,2017-08-20,Djurgården,Halmstad,2,1,1.0
+2017,20,2017-08-20,Östersund,AIK Stockholm,0,3,0.0
+2017,20,2017-08-20,Sirius,Norrköping,0,1,0.0
+2017,20,2017-08-20,Göteborg,Häcken,1,1,0.5
+2017,20,2017-08-21,Örebro,Hammarby,0,3,0.0
+2017,20,2017-08-21,Sundsvall,Kalmar,1,3,0.0
+2017,21,2017-08-26,AFC Eskilstuna,Hammarby,0,0,0.5
+2017,21,2017-08-27,AIK Stockholm,Djurgården,1,1,0.5
+2017,21,2017-08-27,Norrköping,Östersund,0,2,0.0
+2017,21,2017-08-27,Kalmar,Sirius,4,2,1.0
+2017,21,2017-08-27,Häcken,Jönköping,3,1,1.0
+2017,21,2017-08-27,Malmö,Göteborg,2,2,0.5
+2017,21,2017-08-27,Elfsborg,Halmstad,1,0,1.0
+2017,21,2017-08-27,Sundsvall,Örebro,2,1,1.0
+2017,22,2017-09-09,Östersund,AFC Eskilstuna,3,0,1.0
+2017,22,2017-09-10,Hammarby,AIK Stockholm,1,1,0.5
+2017,22,2017-09-10,Elfsborg,Kalmar,2,2,0.5
+2017,22,2017-09-10,Örebro,Malmö,2,1,1.0
+2017,22,2017-09-10,Halmstad,Häcken,0,3,0.0
+2017,22,2017-09-10,Jönköping,Norrköping,1,2,0.0
+2017,22,2017-09-10,Sirius,Sundsvall,0,1,0.0
+2017,22,2017-09-11,Göteborg,Djurgården,1,3,0.0
+2017,23,2017-09-15,Kalmar,Norrköping,1,1,0.5
+2017,23,2017-09-16,Göteborg,Jönköping,1,1,0.5
+2017,23,2017-09-16,Djurgården,Örebro,4,1,1.0
+2017,23,2017-09-16,Häcken,Elfsborg,3,0,1.0
+2017,23,2017-09-17,AIK Stockholm,Halmstad,4,1,1.0
+2017,23,2017-09-17,Sirius,Östersund,0,5,0.0
+2017,23,2017-09-17,Malmö,Hammarby,4,0,1.0
+2017,23,2017-09-18,AFC Eskilstuna,Sundsvall,1,2,0.0
+2017,24,2017-09-19,Norrköping,Häcken,4,1,1.0
+2017,24,2017-09-19,Elfsborg,Djurgården,2,2,0.5
+2017,24,2017-09-20,Jönköping,Sirius,3,1,1.0
+2017,24,2017-09-20,Halmstad,Kalmar,1,1,0.5
+2017,24,2017-09-20,Hammarby,Göteborg,2,1,1.0
+2017,24,2017-09-20,Östersund,Malmö,2,2,0.5
+2017,24,2017-09-21,Örebro,AFC Eskilstuna,2,3,0.0
+2017,24,2017-09-21,Sundsvall,AIK Stockholm,0,0,0.5
+2017,25,2017-09-23,Halmstad,Norrköping,2,1,1.0
+2017,25,2017-09-24,Kalmar,Östersund,2,1,1.0
+2017,25,2017-09-24,Djurgården,Hammarby,1,1,0.5
+2017,25,2017-09-24,Jönköping,Sundsvall,2,2,0.5
+2017,25,2017-09-24,Häcken,AIK Stockholm,1,6,0.0
+2017,25,2017-09-25,Sirius,Örebro,3,4,0.0
+2017,25,2017-09-25,AFC Eskilstuna,Göteborg,1,0,1.0
+2017,25,2017-09-25,Malmö,Elfsborg,6,0,1.0
+2017,26,2017-09-29,Göteborg,Sirius,4,0,1.0
+2017,26,2017-09-30,AFC Eskilstuna,Jönköping,1,1,0.5
+2017,26,2017-10-01,Malmö,Halmstad,2,0,1.0
+2017,26,2017-10-01,Sundsvall,Djurgården,0,5,0.0
+2017,26,2017-10-01,Östersund,Häcken,0,0,0.5
+2017,26,2017-10-01,Örebro,Kalmar,1,0,1.0
+2017,26,2017-10-01,AIK Stockholm,Elfsborg,5,2,1.0
+2017,26,2017-10-01,Hammarby,Norrköping,0,2,0.0
+2017,27,2017-10-14,Halmstad,Göteborg,1,2,0.0
+2017,27,2017-10-14,Östersund,Örebro,3,0,1.0
+2017,27,2017-10-14,Häcken,AFC Eskilstuna,3,0,1.0
+2017,27,2017-10-15,AIK Stockholm,Jönköping,2,0,1.0
+2017,27,2017-10-15,Elfsborg,Sundsvall,2,1,1.0
+2017,27,2017-10-15,Sirius,Djurgården,2,0,1.0
+2017,27,2017-10-16,Norrköping,Malmö,1,3,0.0
+2017,27,2017-10-16,Kalmar,Hammarby,2,0,1.0
+2017,28,2017-10-20,Örebro,Halmstad,0,1,0.0
+2017,28,2017-10-21,AFC Eskilstuna,Elfsborg,2,3,0.0
+2017,28,2017-10-22,Göteborg,Östersund,0,1,0.0
+2017,28,2017-10-22,Sundsvall,Norrköping,2,2,0.5
+2017,28,2017-10-22,Djurgården,Häcken,1,1,0.5
+2017,28,2017-10-23,Hammarby,Sirius,3,3,0.5
+2017,28,2017-10-23,Jönköping,Kalmar,2,0,1.0
+2017,28,2017-10-23,Malmö,AIK Stockholm,0,0,0.5
+2017,29,2017-10-28,Östersund,Elfsborg,4,1,1.0
+2017,29,2017-10-28,Halmstad,AFC Eskilstuna,1,1,0.5
+2017,29,2017-10-29,Sirius,Malmö,0,4,0.0
+2017,29,2017-10-29,Sundsvall,Hammarby,1,4,0.0
+2017,29,2017-10-29,Häcken,Kalmar,2,0,1.0
+2017,29,2017-10-29,Djurgården,Jönköping,0,0,0.5
+2017,29,2017-10-30,Norrköping,Örebro,2,0,1.0
+2017,29,2017-10-30,AIK Stockholm,Göteborg,2,1,1.0
+2017,30,2017-11-05,Hammarby,Halmstad,1,3,0.0
+2017,30,2017-11-05,Kalmar,Djurgården,0,2,0.0
+2017,30,2017-11-05,Örebro,AIK Stockholm,1,2,0.0
+2017,30,2017-11-05,Jönköping,Östersund,0,0,0.5
+2017,30,2017-11-05,Elfsborg,Norrköping,3,3,0.5
+2017,30,2017-11-05,AFC Eskilstuna,Sirius,1,3,0.0
+2017,30,2017-11-05,Göteborg,Sundsvall,0,3,0.0
+2017,30,2017-11-05,Malmö,Häcken,1,2,0.0

@@ -1,0 +1,245 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,Russian Premier League,1,2021-07-23,Rostov,Dynamo Mosc,0,2,0.0
+2021-2022,Russian Premier League,1,2021-07-24,FC Khimki,Zenit,1,3,0.0
+2021-2022,Russian Premier League,1,2021-07-24,Rubin Kazan,Spartak Moscow,1,0,1.0
+2021-2022,Russian Premier League,1,2021-07-24,Loko Moscow,Arsenal Tula,3,1,1.0
+2021-2022,Russian Premier League,1,2021-07-25,Ural,Krasnodar,0,3,0.0
+2021-2022,Russian Premier League,1,2021-07-25,Samara,Akhmat Grozny,1,2,0.0
+2021-2022,Russian Premier League,1,2021-07-25,CSKA Moscow,Ufa,1,0,1.0
+2021-2022,Russian Premier League,1,2021-07-26,Nizhny Novgorod,Sochi,1,0,1.0
+2021-2022,Russian Premier League,2,2021-07-30,Arsenal Tula,Rubin Kazan,0,3,0.0
+2021-2022,Russian Premier League,2,2021-07-30,Samara,Spartak Moscow,0,1,0.0
+2021-2022,Russian Premier League,2,2021-07-31,Ufa,Dynamo Mosc,2,3,0.0
+2021-2022,Russian Premier League,2,2021-07-31,CSKA Moscow,Loko Moscow,1,2,0.0
+2021-2022,Russian Premier League,2,2021-08-01,Ural,Nizhny Novgorod,1,1,0.5
+2021-2022,Russian Premier League,2,2021-08-01,Rostov,Zenit,2,4,0.0
+2021-2022,Russian Premier League,2,2021-08-01,Krasnodar,FC Khimki,0,1,0.0
+2021-2022,Russian Premier League,2,2021-08-02,Akhmat Grozny,Sochi,1,2,0.0
+2021-2022,Russian Premier League,3,2021-08-06,Ufa,Loko Moscow,1,1,0.5
+2021-2022,Russian Premier League,3,2021-08-07,Zenit,Krasnodar,3,2,1.0
+2021-2022,Russian Premier League,3,2021-08-07,Arsenal Tula,Samara,2,1,1.0
+2021-2022,Russian Premier League,3,2021-08-07,Spartak Moscow,Nizhny Novgorod,1,2,0.0
+2021-2022,Russian Premier League,3,2021-08-08,FC Khimki,Rostov,1,1,0.5
+2021-2022,Russian Premier League,3,2021-08-08,Dynamo Mosc,CSKA Moscow,2,1,1.0
+2021-2022,Russian Premier League,3,2021-08-08,Rubin Kazan,Akhmat Grozny,2,1,1.0
+2021-2022,Russian Premier League,3,2021-08-09,Sochi,Ural,2,0,1.0
+2021-2022,Russian Premier League,4,2021-08-14,Spartak Moscow,Ural,1,0,1.0
+2021-2022,Russian Premier League,4,2021-08-14,Nizhny Novgorod,Ufa,1,2,0.0
+2021-2022,Russian Premier League,4,2021-08-14,Akhmat Grozny,Dynamo Mosc,2,1,1.0
+2021-2022,Russian Premier League,4,2021-08-14,Rostov,CSKA Moscow,1,3,0.0
+2021-2022,Russian Premier League,4,2021-08-15,Loko Moscow,Zenit,1,1,0.5
+2021-2022,Russian Premier League,4,2021-08-15,Krasnodar,Arsenal Tula,3,2,1.0
+2021-2022,Russian Premier League,4,2021-08-15,Rubin Kazan,Samara,1,1,0.5
+2021-2022,Russian Premier League,4,2021-08-16,Sochi,FC Khimki,3,0,1.0
+2021-2022,Russian Premier League,5,2021-08-21,CSKA Moscow,Akhmat Grozny,2,0,1.0
+2021-2022,Russian Premier League,5,2021-08-21,Arsenal Tula,Spartak Moscow,1,1,0.5
+2021-2022,Russian Premier League,5,2021-08-21,Ufa,Zenit,1,1,0.5
+2021-2022,Russian Premier League,5,2021-08-21,Ural,Dynamo Mosc,0,1,0.0
+2021-2022,Russian Premier League,5,2021-08-21,Samara,Sochi,1,0,1.0
+2021-2022,Russian Premier League,5,2021-08-22,Loko Moscow,Krasnodar,2,1,1.0
+2021-2022,Russian Premier League,5,2021-08-22,Nizhny Novgorod,Rostov,1,2,0.0
+2021-2022,Russian Premier League,5,2021-08-22,FC Khimki,Rubin Kazan,1,1,0.5
+2021-2022,Russian Premier League,6,2021-08-26,Ufa,Samara,1,2,0.0
+2021-2022,Russian Premier League,6,2021-08-26,Spartak Moscow,Sochi,1,2,0.0
+2021-2022,Russian Premier League,6,2021-08-26,Akhmat Grozny,Arsenal Tula,2,1,1.0
+2021-2022,Russian Premier League,6,2021-08-26,Zenit,CSKA Moscow,1,0,1.0
+2021-2022,Russian Premier League,6,2021-08-27,Ural,Rostov,1,1,0.5
+2021-2022,Russian Premier League,6,2021-08-27,FC Khimki,Nizhny Novgorod,1,1,0.5
+2021-2022,Russian Premier League,6,2021-08-27,Dynamo Mosc,Loko Moscow,1,1,0.5
+2021-2022,Russian Premier League,6,2021-08-27,Krasnodar,Rubin Kazan,2,0,1.0
+2021-2022,Russian Premier League,7,2021-09-11,Loko Moscow,Samara,2,0,1.0
+2021-2022,Russian Premier League,7,2021-09-11,Zenit,Akhmat Grozny,3,1,1.0
+2021-2022,Russian Premier League,7,2021-09-11,Spartak Moscow,FC Khimki,3,1,1.0
+2021-2022,Russian Premier League,7,2021-09-12,Arsenal Tula,CSKA Moscow,2,2,0.5
+2021-2022,Russian Premier League,7,2021-09-12,Sochi,Ufa,3,1,1.0
+2021-2022,Russian Premier League,7,2021-09-12,Dynamo Mosc,Nizhny Novgorod,1,2,0.0
+2021-2022,Russian Premier League,7,2021-09-13,Rubin Kazan,Ural,4,0,1.0
+2021-2022,Russian Premier League,7,2021-09-13,Rostov,Krasnodar,1,1,0.5
+2021-2022,Russian Premier League,8,2021-09-18,Ufa,FC Khimki,3,2,1.0
+2021-2022,Russian Premier League,8,2021-09-18,Samara,Rostov,4,2,1.0
+2021-2022,Russian Premier League,8,2021-09-18,Akhmat Grozny,Krasnodar,0,2,0.0
+2021-2022,Russian Premier League,8,2021-09-19,Nizhny Novgorod,Arsenal Tula,2,3,0.0
+2021-2022,Russian Premier League,8,2021-09-19,Sochi,Dynamo Mosc,0,1,0.0
+2021-2022,Russian Premier League,8,2021-09-20,Rubin Kazan,Zenit,1,3,0.0
+2021-2022,Russian Premier League,8,2021-09-20,Ural,Loko Moscow,0,0,0.5
+2021-2022,Russian Premier League,8,2021-09-20,CSKA Moscow,Spartak Moscow,1,0,1.0
+2021-2022,Russian Premier League,9,2021-09-25,FC Khimki,Loko Moscow,0,0,0.5
+2021-2022,Russian Premier League,9,2021-09-25,Zenit,Samara,2,1,1.0
+2021-2022,Russian Premier League,9,2021-09-25,Spartak Moscow,Ufa,2,0,1.0
+2021-2022,Russian Premier League,9,2021-09-26,Dynamo Mosc,Rubin Kazan,2,0,1.0
+2021-2022,Russian Premier League,9,2021-09-26,Rostov,Akhmat Grozny,1,2,0.0
+2021-2022,Russian Premier League,9,2021-09-26,Krasnodar,Sochi,3,0,1.0
+2021-2022,Russian Premier League,9,2021-09-27,Ural,Arsenal Tula,2,0,1.0
+2021-2022,Russian Premier League,9,2021-09-27,Nizhny Novgorod,CSKA Moscow,0,2,0.0
+2021-2022,Russian Premier League,10,2021-10-02,Rubin Kazan,Nizhny Novgorod,0,1,0.0
+2021-2022,Russian Premier League,10,2021-10-02,Dynamo Mosc,Samara,0,1,0.0
+2021-2022,Russian Premier League,10,2021-10-02,Arsenal Tula,FC Khimki,0,0,0.5
+2021-2022,Russian Premier League,10,2021-10-02,CSKA Moscow,Krasnodar,0,0,0.5
+2021-2022,Russian Premier League,10,2021-10-03,Ufa,Ural,0,1,0.0
+2021-2022,Russian Premier League,10,2021-10-03,Zenit,Sochi,1,2,0.0
+2021-2022,Russian Premier League,10,2021-10-03,Akhmat Grozny,Spartak Moscow,0,1,0.0
+2021-2022,Russian Premier League,10,2021-10-03,Loko Moscow,Rostov,1,2,0.0
+2021-2022,Russian Premier League,11,2021-10-16,Rubin Kazan,Loko Moscow,2,2,0.5
+2021-2022,Russian Premier League,11,2021-10-16,Arsenal Tula,Zenit,2,1,1.0
+2021-2022,Russian Premier League,11,2021-10-16,Sochi,Rostov,3,2,1.0
+2021-2022,Russian Premier League,11,2021-10-16,Spartak Moscow,Dynamo Mosc,2,2,0.5
+2021-2022,Russian Premier League,11,2021-10-17,Ural,CSKA Moscow,0,1,0.0
+2021-2022,Russian Premier League,11,2021-10-17,FC Khimki,Akhmat Grozny,2,0,1.0
+2021-2022,Russian Premier League,11,2021-10-17,Samara,Nizhny Novgorod,2,0,1.0
+2021-2022,Russian Premier League,11,2021-10-17,Krasnodar,Ufa,1,1,0.5
+2021-2022,Russian Premier League,12,2021-10-22,Dynamo Mosc,FC Khimki,4,1,1.0
+2021-2022,Russian Premier League,12,2021-10-23,Nizhny Novgorod,Krasnodar,1,4,0.0
+2021-2022,Russian Premier League,12,2021-10-23,Rostov,Arsenal Tula,4,0,1.0
+2021-2022,Russian Premier League,12,2021-10-23,CSKA Moscow,Samara,3,1,1.0
+2021-2022,Russian Premier League,12,2021-10-24,Ufa,Rubin Kazan,1,1,0.5
+2021-2022,Russian Premier League,12,2021-10-24,Akhmat Grozny,Ural,1,0,1.0
+2021-2022,Russian Premier League,12,2021-10-24,Zenit,Spartak Moscow,7,1,1.0
+2021-2022,Russian Premier League,12,2021-10-25,Loko Moscow,Sochi,2,1,1.0
+2021-2022,Russian Premier League,13,2021-10-29,Zenit,Dynamo Mosc,4,1,1.0
+2021-2022,Russian Premier League,13,2021-10-30,Rubin Kazan,CSKA Moscow,1,0,1.0
+2021-2022,Russian Premier League,13,2021-10-30,Spartak Moscow,Rostov,1,1,0.5
+2021-2022,Russian Premier League,13,2021-10-30,Krasnodar,Samara,0,1,0.0
+2021-2022,Russian Premier League,13,2021-10-30,Nizhny Novgorod,Loko Moscow,1,2,0.0
+2021-2022,Russian Premier League,13,2021-10-31,Ufa,Akhmat Grozny,1,0,1.0
+2021-2022,Russian Premier League,13,2021-10-31,Arsenal Tula,Sochi,1,2,0.0
+2021-2022,Russian Premier League,13,2021-10-31,FC Khimki,Ural,0,0,0.5
+2021-2022,Russian Premier League,14,2021-11-06,Arsenal Tula,Ufa,0,0,0.5
+2021-2022,Russian Premier League,14,2021-11-06,Dynamo Mosc,Krasnodar,1,0,1.0
+2021-2022,Russian Premier League,14,2021-11-06,Samara,FC Khimki,3,0,1.0
+2021-2022,Russian Premier League,14,2021-11-06,Sochi,CSKA Moscow,4,1,1.0
+2021-2022,Russian Premier League,14,2021-11-07,Ural,Zenit,0,0,0.5
+2021-2022,Russian Premier League,14,2021-11-07,Rostov,Rubin Kazan,5,1,1.0
+2021-2022,Russian Premier League,14,2021-11-07,Akhmat Grozny,Nizhny Novgorod,3,1,1.0
+2021-2022,Russian Premier League,14,2021-11-07,Spartak Moscow,Loko Moscow,1,1,0.5
+2021-2022,Russian Premier League,15,2021-11-19,Zenit,Nizhny Novgorod,5,1,1.0
+2021-2022,Russian Premier League,15,2021-11-20,Samara,Ural,1,1,0.5
+2021-2022,Russian Premier League,15,2021-11-20,Loko Moscow,Akhmat Grozny,1,2,0.0
+2021-2022,Russian Premier League,15,2021-11-20,Krasnodar,Spartak Moscow,2,1,1.0
+2021-2022,Russian Premier League,15,2021-11-21,CSKA Moscow,FC Khimki,0,0,0.5
+2021-2022,Russian Premier League,15,2021-11-21,Rostov,Ufa,2,2,0.5
+2021-2022,Russian Premier League,15,2021-11-21,Dynamo Mosc,Arsenal Tula,5,1,1.0
+2021-2022,Russian Premier League,15,2021-11-21,Sochi,Rubin Kazan,1,2,0.0
+2021-2022,Russian Premier League,16,2021-11-27,Ural,Sochi,1,1,0.5
+2021-2022,Russian Premier League,16,2021-11-27,Akhmat Grozny,Rostov,2,0,1.0
+2021-2022,Russian Premier League,16,2021-11-27,FC Khimki,Krasnodar,3,3,0.5
+2021-2022,Russian Premier League,16,2021-11-28,Nizhny Novgorod,Samara,0,0,0.5
+2021-2022,Russian Premier League,16,2021-11-28,Rubin Kazan,Dynamo Mosc,2,3,0.0
+2021-2022,Russian Premier League,16,2021-11-28,CSKA Moscow,Zenit,0,2,0.0
+2021-2022,Russian Premier League,16,2021-11-29,Ufa,Spartak Moscow,1,1,0.5
+2021-2022,Russian Premier League,16,2021-11-29,Arsenal Tula,Loko Moscow,3,1,1.0
+2021-2022,Russian Premier League,17,2021-12-03,Zenit,Rostov,2,2,0.5
+2021-2022,Russian Premier League,17,2021-12-04,Samara,CSKA Moscow,0,1,0.0
+2021-2022,Russian Premier League,17,2021-12-04,Spartak Moscow,Akhmat Grozny,2,1,1.0
+2021-2022,Russian Premier League,17,2021-12-04,Loko Moscow,Ural,0,1,0.0
+2021-2022,Russian Premier League,17,2021-12-05,FC Khimki,Arsenal Tula,1,2,0.0
+2021-2022,Russian Premier League,17,2021-12-05,Nizhny Novgorod,Rubin Kazan,2,1,1.0
+2021-2022,Russian Premier League,17,2021-12-05,Dynamo Mosc,Ufa,2,0,1.0
+2021-2022,Russian Premier League,17,2021-12-05,Sochi,Krasnodar,1,2,0.0
+2021-2022,Russian Premier League,18,2021-12-11,Samara,Rubin Kazan,2,0,1.0
+2021-2022,Russian Premier League,18,2021-12-11,CSKA Moscow,Arsenal Tula,2,0,1.0
+2021-2022,Russian Premier League,18,2021-12-11,Rostov,Ural,1,4,0.0
+2021-2022,Russian Premier League,18,2021-12-12,Dynamo Mosc,Zenit,1,1,0.5
+2021-2022,Russian Premier League,18,2021-12-12,Akhmat Grozny,FC Khimki,4,1,1.0
+2021-2022,Russian Premier League,18,2021-12-12,Loko Moscow,Ufa,2,0,1.0
+2021-2022,Russian Premier League,18,2021-12-12,Krasnodar,Nizhny Novgorod,0,0,0.5
+2021-2022,Russian Premier League,18,2021-12-13,Sochi,Spartak Moscow,3,0,1.0
+2021-2022,Russian Premier League,19,2022-02-26,FC Khimki,Dynamo Mosc,0,3,0.0
+2021-2022,Russian Premier League,19,2022-02-26,Nizhny Novgorod,Ural,1,0,1.0
+2021-2022,Russian Premier League,19,2022-02-26,Sochi,Arsenal Tula,2,0,1.0
+2021-2022,Russian Premier League,19,2022-02-26,Spartak Moscow,CSKA Moscow,0,2,0.0
+2021-2022,Russian Premier League,19,2022-02-27,Akhmat Grozny,Ufa,2,1,1.0
+2021-2022,Russian Premier League,19,2022-02-28,Zenit,Rubin Kazan,3,2,1.0
+2021-2022,Russian Premier League,20,2022-03-05,CSKA Moscow,Nizhny Novgorod,1,0,1.0
+2021-2022,Russian Premier League,20,2022-03-06,Samara,Arsenal Tula,2,2,0.5
+2021-2022,Russian Premier League,20,2022-03-06,Loko Moscow,FC Khimki,3,2,1.0
+2021-2022,Russian Premier League,20,2022-03-06,Dynamo Mosc,Spartak Moscow,0,2,0.0
+2021-2022,Russian Premier League,20,2022-03-07,Krasnodar,Ural,2,1,1.0
+2021-2022,Russian Premier League,20,2022-03-07,Rostov,Sochi,0,1,0.0
+2021-2022,Russian Premier League,20,2022-03-07,Zenit,Ufa,2,0,1.0
+2021-2022,Russian Premier League,20,2022-03-07,Akhmat Grozny,Rubin Kazan,1,2,0.0
+2021-2022,Russian Premier League,21,2022-03-12,Ufa,Nizhny Novgorod,0,0,0.5
+2021-2022,Russian Premier League,21,2022-03-12,Loko Moscow,CSKA Moscow,1,2,0.0
+2021-2022,Russian Premier League,21,2022-03-12,Arsenal Tula,Dynamo Mosc,1,4,0.0
+2021-2022,Russian Premier League,21,2022-03-13,FC Khimki,Sochi,0,0,0.5
+2021-2022,Russian Premier League,21,2022-03-13,Ural,Akhmat Grozny,0,0,0.5
+2021-2022,Russian Premier League,21,2022-03-13,Samara,Zenit,1,1,0.5
+2021-2022,Russian Premier League,21,2022-03-13,Spartak Moscow,Krasnodar,1,2,0.0
+2021-2022,Russian Premier League,21,2022-03-14,Rubin Kazan,Rostov,1,2,0.0
+2021-2022,Russian Premier League,22,2022-03-19,Ural,FC Khimki,0,1,0.0
+2021-2022,Russian Premier League,22,2022-03-19,Nizhny Novgorod,Spartak Moscow,1,1,0.5
+2021-2022,Russian Premier League,22,2022-03-19,Akhmat Grozny,Loko Moscow,2,3,0.0
+2021-2022,Russian Premier League,22,2022-03-19,Zenit,Arsenal Tula,3,0,1.0
+2021-2022,Russian Premier League,22,2022-03-20,CSKA Moscow,Rubin Kazan,6,1,1.0
+2021-2022,Russian Premier League,22,2022-03-20,Ufa,Krasnodar,1,1,0.5
+2021-2022,Russian Premier League,22,2022-03-20,Sochi,Samara,2,3,0.0
+2021-2022,Russian Premier League,22,2022-03-20,Dynamo Mosc,Rostov,1,1,0.5
+2021-2022,Russian Premier League,23,2022-04-01,Rubin Kazan,FC Khimki,2,3,0.0
+2021-2022,Russian Premier League,23,2022-04-02,Arsenal Tula,Akhmat Grozny,0,0,0.5
+2021-2022,Russian Premier League,23,2022-04-02,Samara,Ufa,1,2,0.0
+2021-2022,Russian Premier League,23,2022-04-02,Rostov,Nizhny Novgorod,1,2,0.0
+2021-2022,Russian Premier League,23,2022-04-02,Loko Moscow,Spartak Moscow,1,0,1.0
+2021-2022,Russian Premier League,23,2022-04-03,Krasnodar,Dynamo Mosc,0,1,0.0
+2021-2022,Russian Premier League,23,2022-04-03,CSKA Moscow,Ural,2,2,0.5
+2021-2022,Russian Premier League,23,2022-04-03,Sochi,Zenit,0,0,0.5
+2021-2022,Russian Premier League,19,2022-04-06,Rostov,Samara,1,0,1.0
+2021-2022,Russian Premier League,24,2022-04-09,FC Khimki,CSKA Moscow,4,2,1.0
+2021-2022,Russian Premier League,24,2022-04-09,Nizhny Novgorod,Dynamo Mosc,0,1,0.0
+2021-2022,Russian Premier League,24,2022-04-09,Rubin Kazan,Krasnodar,0,1,0.0
+2021-2022,Russian Premier League,24,2022-04-09,Akhmat Grozny,Zenit,0,2,0.0
+2021-2022,Russian Premier League,24,2022-04-10,Ural,Samara,0,1,0.0
+2021-2022,Russian Premier League,24,2022-04-10,Ufa,Sochi,1,2,0.0
+2021-2022,Russian Premier League,24,2022-04-10,Spartak Moscow,Arsenal Tula,3,0,1.0
+2021-2022,Russian Premier League,24,2022-04-10,Rostov,Loko Moscow,4,1,1.0
+2021-2022,Russian Premier League,25,2022-04-15,Dynamo Mosc,Akhmat Grozny,2,0,1.0
+2021-2022,Russian Premier League,25,2022-04-16,Ufa,CSKA Moscow,1,1,0.5
+2021-2022,Russian Premier League,25,2022-04-16,Zenit,Ural,3,1,1.0
+2021-2022,Russian Premier League,25,2022-04-16,Spartak Moscow,Rubin Kazan,1,1,0.5
+2021-2022,Russian Premier League,25,2022-04-17,Samara,Krasnodar,2,0,1.0
+2021-2022,Russian Premier League,25,2022-04-17,Sochi,Loko Moscow,2,2,0.5
+2021-2022,Russian Premier League,25,2022-04-17,Arsenal Tula,Rostov,1,2,0.0
+2021-2022,Russian Premier League,25,2022-04-17,Nizhny Novgorod,FC Khimki,0,0,0.5
+2021-2022,Russian Premier League,26,2022-04-23,Ural,Ufa,2,1,1.0
+2021-2022,Russian Premier League,26,2022-04-23,Loko Moscow,Nizhny Novgorod,2,1,1.0
+2021-2022,Russian Premier League,26,2022-04-23,Sochi,Akhmat Grozny,3,2,1.0
+2021-2022,Russian Premier League,26,2022-04-24,Rubin Kazan,Arsenal Tula,1,0,1.0
+2021-2022,Russian Premier League,26,2022-04-24,FC Khimki,Samara,4,1,1.0
+2021-2022,Russian Premier League,26,2022-04-24,Rostov,Spartak Moscow,3,2,1.0
+2021-2022,Russian Premier League,26,2022-04-24,CSKA Moscow,Dynamo Mosc,1,0,1.0
+2021-2022,Russian Premier League,26,2022-04-25,Krasnodar,Zenit,1,3,0.0
+2021-2022,Russian Premier League,27,2022-04-30,Dynamo Mosc,Ural,2,3,0.0
+2021-2022,Russian Premier League,27,2022-04-30,Rubin Kazan,Sochi,0,6,0.0
+2021-2022,Russian Premier League,27,2022-04-30,Krasnodar,Rostov,2,1,1.0
+2021-2022,Russian Premier League,27,2022-04-30,Zenit,Loko Moscow,3,1,1.0
+2021-2022,Russian Premier League,27,2022-05-01,Spartak Moscow,Samara,2,1,1.0
+2021-2022,Russian Premier League,27,2022-05-01,FC Khimki,Ufa,1,1,0.5
+2021-2022,Russian Premier League,27,2022-05-01,Akhmat Grozny,CSKA Moscow,2,0,1.0
+2021-2022,Russian Premier League,27,2022-05-02,Arsenal Tula,Nizhny Novgorod,2,2,0.5
+2021-2022,Russian Premier League,19,2022-05-04,Krasnodar,Loko Moscow,1,0,1.0
+2021-2022,Russian Premier League,28,2022-05-06,Samara,Dynamo Mosc,5,2,1.0
+2021-2022,Russian Premier League,28,2022-05-07,Ural,Spartak Moscow,1,3,0.0
+2021-2022,Russian Premier League,28,2022-05-07,Zenit,FC Khimki,1,0,1.0
+2021-2022,Russian Premier League,28,2022-05-07,Nizhny Novgorod,Akhmat Grozny,0,1,0.0
+2021-2022,Russian Premier League,28,2022-05-07,CSKA Moscow,Sochi,0,1,0.0
+2021-2022,Russian Premier League,28,2022-05-08,Ufa,Rostov,0,0,0.5
+2021-2022,Russian Premier League,28,2022-05-08,Loko Moscow,Rubin Kazan,1,0,1.0
+2021-2022,Russian Premier League,28,2022-05-08,Arsenal Tula,Krasnodar,1,1,0.5
+2021-2022,Russian Premier League,29,2022-05-13,Sochi,Nizhny Novgorod,0,0,0.5
+2021-2022,Russian Premier League,29,2022-05-14,Ufa,Arsenal Tula,2,1,1.0
+2021-2022,Russian Premier League,29,2022-05-14,Loko Moscow,Dynamo Mosc,3,3,0.5
+2021-2022,Russian Premier League,29,2022-05-14,Rostov,FC Khimki,2,1,1.0
+2021-2022,Russian Premier League,29,2022-05-14,Akhmat Grozny,Samara,1,0,1.0
+2021-2022,Russian Premier League,29,2022-05-15,Ural,Rubin Kazan,3,0,1.0
+2021-2022,Russian Premier League,29,2022-05-15,Spartak Moscow,Zenit,1,1,0.5
+2021-2022,Russian Premier League,29,2022-05-15,Krasnodar,CSKA Moscow,1,0,1.0
+2021-2022,Russian Premier League,30,2022-05-21,Rubin Kazan,Ufa,1,2,0.0
+2021-2022,Russian Premier League,30,2022-05-21,Nizhny Novgorod,Zenit,1,0,1.0
+2021-2022,Russian Premier League,30,2022-05-21,Samara,Loko Moscow,0,1,0.0
+2021-2022,Russian Premier League,30,2022-05-21,FC Khimki,Spartak Moscow,2,1,1.0
+2021-2022,Russian Premier League,30,2022-05-21,CSKA Moscow,Rostov,4,0,1.0
+2021-2022,Russian Premier League,30,2022-05-21,Dynamo Mosc,Sochi,1,5,0.0
+2021-2022,Russian Premier League,30,2022-05-21,Krasnodar,Akhmat Grozny,1,1,0.5
+2021-2022,Russian Premier League,30,2022-05-21,Arsenal Tula,Ural,1,2,0.0
+2021-2022,Russian 1/2 Relegation/Promotion Playoff,,2022-05-25,SKA-Khabarovsk,FC Khimki,1,0,1.0
+2021-2022,Russian 1/2 Relegation/Promotion Playoff,,2022-05-25,Orenburg,Ufa,2,2,0.5
+2021-2022,Russian 1/2 Relegation/Promotion Playoff,,2022-05-28,FC Khimki,SKA-Khabarovsk,3,0,1.0
+2021-2022,Russian 1/2 Relegation/Promotion Playoff,,2022-05-28,Ufa,Orenburg,1,2,0.0

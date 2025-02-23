@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2010-2011,1,2010-08-13,Braga,Portimonense,3,1,1.0
+2010-2011,1,2010-08-14,Marítimo,Vitória Setúbal,0,1,0.0
+2010-2011,1,2010-08-14,Paços,Sporting CP,1,0,1.0
+2010-2011,1,2010-08-14,Naval,Porto,0,1,0.0
+2010-2011,1,2010-08-15,Benfica,Académica,1,2,0.0
+2010-2011,1,2010-08-15,Rio Ave,Nacional,0,1,0.0
+2010-2011,1,2010-08-15,Beira-Mar,União de Leiria,0,0,0.5
+2010-2011,1,2010-08-16,Olhanense,Vitória,0,0,0.5
+2010-2011,2,2010-08-20,Académica,Olhanense,1,1,0.5
+2010-2011,2,2010-08-21,Nacional,Benfica,2,1,1.0
+2010-2011,2,2010-08-21,Vitória Setúbal,Braga,0,0,0.5
+2010-2011,2,2010-08-22,União de Leiria,Paços,0,0,0.5
+2010-2011,2,2010-08-22,Sporting CP,Marítimo,1,0,1.0
+2010-2011,2,2010-08-22,Porto,Beira-Mar,3,0,1.0
+2010-2011,2,2010-08-22,Portimonense,Naval,0,1,0.0
+2010-2011,2,2010-08-23,Vitória,Rio Ave,0,0,0.5
+2010-2011,3,2010-08-28,Nacional,Vitória,1,3,0.0
+2010-2011,3,2010-08-28,Benfica,Vitória Setúbal,3,0,1.0
+2010-2011,3,2010-08-29,Beira-Mar,Académica,2,1,1.0
+2010-2011,3,2010-08-29,Braga,Marítimo,1,0,1.0
+2010-2011,3,2010-08-29,Rio Ave,Porto,0,2,0.0
+2010-2011,3,2010-08-29,Paços,Portimonense,2,2,0.5
+2010-2011,3,2010-08-29,Olhanense,União de Leiria,1,0,1.0
+2010-2011,3,2010-08-30,Naval,Sporting CP,1,3,0.0
+2010-2011,4,2010-09-10,Vitória,Benfica,2,1,1.0
+2010-2011,4,2010-09-11,Sporting CP,Olhanense,0,0,0.5
+2010-2011,4,2010-09-11,Porto,Braga,3,2,1.0
+2010-2011,4,2010-09-12,Académica,Naval,3,0,1.0
+2010-2011,4,2010-09-12,Marítimo,Paços,1,1,0.5
+2010-2011,4,2010-09-12,Portimonense,Rio Ave,3,1,1.0
+2010-2011,4,2010-09-12,União de Leiria,Nacional,2,1,1.0
+2010-2011,4,2010-09-13,Vitória Setúbal,Beira-Mar,0,0,0.5
+2010-2011,5,2010-09-17,Olhanense,Portimonense,2,0,1.0
+2010-2011,5,2010-09-18,Vitória,União de Leiria,1,0,1.0
+2010-2011,5,2010-09-18,Beira-Mar,Marítimo,1,1,0.5
+2010-2011,5,2010-09-19,Rio Ave,Académica,2,2,0.5
+2010-2011,5,2010-09-19,Naval,Vitória Setúbal,0,0,0.5
+2010-2011,5,2010-09-19,Paços,Braga,2,2,0.5
+2010-2011,5,2010-09-19,Benfica,Sporting CP,2,0,1.0
+2010-2011,5,2010-09-20,Nacional,Porto,0,2,0.0
+2010-2011,6,2010-09-24,Braga,Naval,3,1,1.0
+2010-2011,6,2010-09-25,Académica,Vitória,3,1,1.0
+2010-2011,6,2010-09-25,Marítimo,Benfica,0,1,0.0
+2010-2011,6,2010-09-25,Porto,Olhanense,2,0,1.0
+2010-2011,6,2010-09-26,Sporting CP,Nacional,1,1,0.5
+2010-2011,6,2010-09-26,União de Leiria,Rio Ave,1,0,1.0
+2010-2011,6,2010-09-26,Portimonense,Beira-Mar,1,0,1.0
+2010-2011,6,2010-09-27,Vitória Setúbal,Paços,1,0,1.0
+2010-2011,7,2010-10-01,União de Leiria,Académica,2,1,1.0
+2010-2011,7,2010-10-02,Olhanense,Vitória Setúbal,3,1,1.0
+2010-2011,7,2010-10-03,Nacional,Portimonense,3,1,1.0
+2010-2011,7,2010-10-03,Naval,Paços,1,2,0.0
+2010-2011,7,2010-10-03,Benfica,Braga,1,0,1.0
+2010-2011,7,2010-10-03,Rio Ave,Marítimo,0,0,0.5
+2010-2011,7,2010-10-04,Beira-Mar,Sporting CP,1,1,0.5
+2010-2011,7,2010-10-04,Vitória,Porto,1,1,0.5
+2010-2011,8,2010-10-23,Braga,Olhanense,3,1,1.0
+2010-2011,8,2010-10-23,Vitória Setúbal,Vitória,2,1,1.0
+2010-2011,8,2010-10-23,Académica,Nacional,2,1,1.0
+2010-2011,8,2010-10-23,Paços,Beira-Mar,1,1,0.5
+2010-2011,8,2010-10-24,Sporting CP,Rio Ave,1,0,1.0
+2010-2011,8,2010-10-24,Marítimo,Naval,1,0,1.0
+2010-2011,8,2010-10-24,Portimonense,Benfica,0,1,0.0
+2010-2011,8,2010-10-25,Porto,União de Leiria,5,1,1.0
+2010-2011,9,2010-10-29,Benfica,Paços,2,0,1.0
+2010-2011,9,2010-10-30,Académica,Porto,0,1,0.0
+2010-2011,9,2010-10-30,Rio Ave,Braga,2,0,1.0
+2010-2011,9,2010-10-31,Nacional,Vitória Setúbal,1,0,1.0
+2010-2011,9,2010-10-31,União de Leiria,Sporting CP,1,2,0.0
+2010-2011,9,2010-10-31,Olhanense,Marítimo,1,1,0.5
+2010-2011,9,2010-10-31,Beira-Mar,Naval,3,1,1.0
+2010-2011,9,2010-11-01,Vitória,Portimonense,2,0,1.0
+2010-2011,10,2010-11-05,Vitória Setúbal,Rio Ave,3,3,0.5
+2010-2011,10,2010-11-06,Paços,Nacional,0,1,0.0
+2010-2011,10,2010-11-06,Portimonense,Académica,2,2,0.5
+2010-2011,10,2010-11-07,Braga,Beira-Mar,2,3,0.0
+2010-2011,10,2010-11-07,Marítimo,União de Leiria,1,1,0.5
+2010-2011,10,2010-11-07,Porto,Benfica,5,0,1.0
+2010-2011,10,2010-11-07,Naval,Olhanense,1,1,0.5
+2010-2011,10,2010-11-08,Sporting CP,Vitória,2,3,0.0
+2010-2011,11,2010-11-12,Nacional,Marítimo,0,0,0.5
+2010-2011,11,2010-11-13,Vitória,Braga,2,1,1.0
+2010-2011,11,2010-11-13,Académica,Sporting CP,1,2,0.0
+2010-2011,11,2010-11-14,Rio Ave,Paços,3,1,1.0
+2010-2011,11,2010-11-14,Benfica,Naval,4,0,1.0
+2010-2011,11,2010-11-14,Olhanense,Beira-Mar,1,1,0.5
+2010-2011,11,2010-11-14,Porto,Portimonense,2,0,1.0
+2010-2011,11,2010-11-14,União de Leiria,Vitória Setúbal,1,0,1.0
+2010-2011,12,2010-11-26,Vitória Setúbal,Académica,0,1,0.0
+2010-2011,12,2010-11-27,Marítimo,Vitória,2,0,1.0
+2010-2011,12,2010-11-27,Sporting CP,Porto,1,1,0.5
+2010-2011,12,2010-11-27,Paços,Olhanense,1,0,1.0
+2010-2011,12,2010-11-28,Braga,Nacional,2,0,1.0
+2010-2011,12,2010-11-28,Naval,Rio Ave,0,1,0.0
+2010-2011,12,2010-11-28,Beira-Mar,Benfica,1,3,0.0
+2010-2011,12,2010-11-29,Portimonense,União de Leiria,1,2,0.0
+2010-2011,13,2010-12-03,Benfica,Olhanense,2,0,1.0
+2010-2011,13,2010-12-04,União de Leiria,Braga,3,1,1.0
+2010-2011,13,2010-12-04,Vitória,Paços,1,1,0.5
+2010-2011,13,2010-12-05,Portimonense,Sporting CP,1,3,0.0
+2010-2011,13,2010-12-05,Rio Ave,Beira-Mar,1,1,0.5
+2010-2011,13,2010-12-06,Nacional,Naval,2,1,1.0
+2010-2011,13,2010-12-06,Porto,Vitória Setúbal,1,0,1.0
+2010-2011,13,2010-12-08,Académica,Marítimo,1,5,0.0
+2010-2011,14,2010-12-17,Braga,Académica,5,0,1.0
+2010-2011,14,2010-12-18,Beira-Mar,Vitória,3,2,1.0
+2010-2011,14,2010-12-18,Benfica,Rio Ave,5,2,1.0
+2010-2011,14,2010-12-19,Naval,União de Leiria,0,3,0.0
+2010-2011,14,2010-12-19,Olhanense,Nacional,0,0,0.5
+2010-2011,14,2010-12-19,Paços,Porto,0,3,0.0
+2010-2011,14,2010-12-19,Marítimo,Portimonense,1,1,0.5
+2010-2011,14,2010-12-20,Vitória Setúbal,Sporting CP,0,3,0.0
+2010-2011,15,2011-01-07,Portimonense,Vitória Setúbal,3,4,0.0
+2010-2011,15,2011-01-08,Sporting CP,Braga,2,1,1.0
+2010-2011,15,2011-01-08,Porto,Marítimo,4,1,1.0
+2010-2011,15,2011-01-09,Académica,Paços,0,0,0.5
+2010-2011,15,2011-01-09,Nacional,Beira-Mar,0,0,0.5
+2010-2011,15,2011-01-09,Vitória,Naval,1,2,0.0
+2010-2011,15,2011-01-09,União de Leiria,Benfica,0,3,0.0
+2010-2011,15,2011-01-09,Rio Ave,Olhanense,0,1,0.0
+2010-2011,16,2011-01-14,Portimonense,Braga,0,3,0.0
+2010-2011,16,2011-01-15,Sporting CP,Paços,2,3,0.0
+2010-2011,16,2011-01-15,Vitória,Olhanense,1,0,1.0
+2010-2011,16,2011-01-16,Vitória Setúbal,Marítimo,2,4,0.0
+2010-2011,16,2011-01-16,Académica,Benfica,0,1,0.0
+2010-2011,16,2011-01-16,Porto,Naval,3,1,1.0
+2010-2011,16,2011-01-16,União de Leiria,Beira-Mar,0,3,0.0
+2010-2011,16,2011-01-16,Nacional,Rio Ave,1,0,1.0
+2010-2011,17,2011-01-22,Olhanense,Académica,2,1,1.0
+2010-2011,17,2011-01-22,Braga,Vitória Setúbal,2,2,0.5
+2010-2011,17,2011-01-22,Benfica,Nacional,4,2,1.0
+2010-2011,17,2011-01-22,Rio Ave,Vitória,2,3,0.0
+2010-2011,17,2011-01-22,Beira-Mar,Porto,0,1,0.0
+2010-2011,17,2011-01-22,Paços,União de Leiria,1,1,0.5
+2010-2011,17,2011-01-22,Naval,Portimonense,1,1,0.5
+2010-2011,17,2011-01-24,Marítimo,Sporting CP,0,3,0.0
+2010-2011,20,2011-01-26,Porto,Nacional,3,0,1.0
+2010-2011,18,2011-02-04,Sporting CP,Naval,3,3,0.5
+2010-2011,18,2011-02-05,Marítimo,Braga,1,2,0.0
+2010-2011,18,2011-02-06,Vitória Setúbal,Benfica,0,2,0.0
+2010-2011,18,2011-02-06,Vitória,Nacional,0,0,0.5
+2010-2011,18,2011-02-06,Académica,Beira-Mar,3,3,0.5
+2010-2011,18,2011-02-06,Porto,Rio Ave,1,0,1.0
+2010-2011,18,2011-02-06,Portimonense,Paços,0,1,0.0
+2010-2011,18,2011-02-06,União de Leiria,Olhanense,0,2,0.0
+2010-2011,19,2011-02-12,Nacional,União de Leiria,0,1,0.0
+2010-2011,19,2011-02-12,Olhanense,Sporting CP,2,2,0.5
+2010-2011,19,2011-02-13,Naval,Académica,3,1,1.0
+2010-2011,19,2011-02-13,Braga,Porto,0,2,0.0
+2010-2011,19,2011-02-13,Rio Ave,Portimonense,2,0,1.0
+2010-2011,19,2011-02-13,Benfica,Vitória,3,0,1.0
+2010-2011,19,2011-02-13,Paços,Marítimo,1,0,1.0
+2010-2011,19,2011-02-14,Beira-Mar,Vitória Setúbal,0,0,0.5
+2010-2011,20,2011-02-18,União de Leiria,Vitória,0,1,0.0
+2010-2011,20,2011-02-19,Portimonense,Olhanense,1,1,0.5
+2010-2011,20,2011-02-20,Braga,Paços,1,2,0.0
+2010-2011,20,2011-02-20,Vitória Setúbal,Naval,1,1,0.5
+2010-2011,20,2011-02-20,Académica,Rio Ave,0,1,0.0
+2010-2011,20,2011-02-20,Marítimo,Beira-Mar,1,0,1.0
+2010-2011,20,2011-02-21,Sporting CP,Benfica,0,2,0.0
+2010-2011,21,2011-02-25,Vitória,Académica,0,2,0.0
+2010-2011,21,2011-02-26,Olhanense,Porto,0,3,0.0
+2010-2011,21,2011-02-26,Paços,Vitória Setúbal,2,0,1.0
+2010-2011,21,2011-02-27,Beira-Mar,Portimonense,0,1,0.0
+2010-2011,21,2011-02-27,Nacional,Sporting CP,1,0,1.0
+2010-2011,21,2011-02-27,Benfica,Marítimo,2,1,1.0
+2010-2011,21,2011-02-27,Rio Ave,União de Leiria,1,0,1.0
+2010-2011,21,2011-02-28,Naval,Braga,0,0,0.5
+2010-2011,22,2011-03-04,Académica,União de Leiria,0,0,0.5
+2010-2011,22,2011-03-05,Porto,Vitória,2,0,1.0
+2010-2011,22,2011-03-06,Marítimo,Rio Ave,0,1,0.0
+2010-2011,22,2011-03-06,Braga,Benfica,2,1,1.0
+2010-2011,22,2011-03-06,Vitória Setúbal,Olhanense,0,0,0.5
+2010-2011,22,2011-03-06,Sporting CP,Beira-Mar,1,0,1.0
+2010-2011,22,2011-03-07,Paços,Naval,0,0,0.5
+2010-2011,22,2011-03-07,Portimonense,Nacional,1,1,0.5
+2010-2011,23,2011-03-11,Beira-Mar,Paços,3,1,1.0
+2010-2011,23,2011-03-12,Vitória,Vitória Setúbal,1,1,0.5
+2010-2011,23,2011-03-12,Rio Ave,Sporting CP,0,0,0.5
+2010-2011,23,2011-03-13,Nacional,Académica,1,1,0.5
+2010-2011,23,2011-03-13,Benfica,Portimonense,1,1,0.5
+2010-2011,23,2011-03-13,Naval,Marítimo,0,3,0.0
+2010-2011,23,2011-03-14,União de Leiria,Porto,0,2,0.0
+2010-2011,24,2011-03-18,Portimonense,Vitória,2,1,1.0
+2010-2011,24,2011-03-19,Sporting CP,União de Leiria,0,0,0.5
+2010-2011,24,2011-03-20,Porto,Académica,3,1,1.0
+2010-2011,24,2011-03-20,Vitória Setúbal,Nacional,2,1,1.0
+2010-2011,24,2011-03-20,Naval,Beira-Mar,2,2,0.5
+2010-2011,24,2011-03-20,Marítimo,Olhanense,4,0,1.0
+2010-2011,24,2011-03-21,Paços,Benfica,1,5,0.0
+2010-2011,24,2011-03-21,Braga,Rio Ave,1,0,1.0
+2010-2011,23,2011-03-27,Olhanense,Braga,0,2,0.0
+2010-2011,25,2011-04-01,União de Leiria,Marítimo,1,3,0.0
+2010-2011,25,2011-04-02,Beira-Mar,Braga,1,2,0.0
+2010-2011,25,2011-04-02,Académica,Portimonense,1,0,1.0
+2010-2011,25,2011-04-03,Rio Ave,Vitória Setúbal,2,0,1.0
+2010-2011,25,2011-04-03,Benfica,Porto,1,2,0.0
+2010-2011,25,2011-04-03,Vitória,Sporting CP,1,1,0.5
+2010-2011,25,2011-04-03,Olhanense,Naval,1,3,0.0
+2010-2011,25,2011-04-04,Nacional,Paços,1,0,1.0
+2010-2011,26,2011-04-08,Marítimo,Nacional,1,1,0.5
+2010-2011,26,2011-04-09,Sporting CP,Académica,2,0,1.0
+2010-2011,26,2011-04-10,Vitória Setúbal,União de Leiria,4,1,1.0
+2010-2011,26,2011-04-10,Paços,Rio Ave,1,6,0.0
+2010-2011,26,2011-04-10,Portimonense,Porto,2,3,0.0
+2010-2011,26,2011-04-10,Naval,Benfica,2,1,1.0
+2010-2011,26,2011-04-10,Beira-Mar,Olhanense,1,0,1.0
+2010-2011,26,2011-04-11,Braga,Vitória,3,1,1.0
+2010-2011,27,2011-04-15,Académica,Vitória Setúbal,1,1,0.5
+2010-2011,27,2011-04-16,Olhanense,Paços,0,0,0.5
+2010-2011,27,2011-04-16,Vitória,Marítimo,2,0,1.0
+2010-2011,27,2011-04-17,Porto,Sporting CP,3,2,1.0
+2010-2011,27,2011-04-17,Rio Ave,Naval,1,0,1.0
+2010-2011,27,2011-04-17,União de Leiria,Portimonense,0,1,0.0
+2010-2011,27,2011-04-17,Benfica,Beira-Mar,2,1,1.0
+2010-2011,27,2011-04-18,Nacional,Braga,1,1,0.5
+2010-2011,28,2011-04-29,Paços,Vitória,2,1,1.0
+2010-2011,28,2011-04-30,Sporting CP,Portimonense,2,1,1.0
+2010-2011,28,2011-05-01,Vitória Setúbal,Porto,0,4,0.0
+2010-2011,28,2011-05-01,Braga,União de Leiria,0,0,0.5
+2010-2011,28,2011-05-01,Olhanense,Benfica,1,1,0.5
+2010-2011,28,2011-05-01,Beira-Mar,Rio Ave,1,1,0.5
+2010-2011,28,2011-05-01,Naval,Nacional,1,2,0.0
+2010-2011,28,2011-05-01,Marítimo,Académica,1,0,1.0
+2010-2011,29,2011-05-08,Nacional,Olhanense,0,1,0.0
+2010-2011,29,2011-05-08,Porto,Paços,3,3,0.5
+2010-2011,29,2011-05-08,Rio Ave,Benfica,1,2,0.0
+2010-2011,29,2011-05-08,Académica,Braga,0,0,0.5
+2010-2011,29,2011-05-08,União de Leiria,Naval,1,0,1.0
+2010-2011,29,2011-05-08,Sporting CP,Vitória Setúbal,0,1,0.0
+2010-2011,29,2011-05-08,Portimonense,Marítimo,1,0,1.0
+2010-2011,29,2011-05-08,Vitória,Beira-Mar,1,0,1.0
+2010-2011,30,2011-05-14,Olhanense,Rio Ave,2,2,0.5
+2010-2011,30,2011-05-14,Braga,Sporting CP,0,1,0.0
+2010-2011,30,2011-05-14,Naval,Vitória,0,3,0.0
+2010-2011,30,2011-05-14,Benfica,União de Leiria,3,3,0.5
+2010-2011,30,2011-05-14,Marítimo,Porto,0,2,0.0
+2010-2011,30,2011-05-14,Vitória Setúbal,Portimonense,3,1,1.0
+2010-2011,30,2011-05-14,Paços,Académica,5,1,1.0
+2010-2011,30,2011-05-14,Beira-Mar,Nacional,0,2,0.0

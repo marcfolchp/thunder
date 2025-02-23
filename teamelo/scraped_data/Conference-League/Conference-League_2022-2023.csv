@@ -1,0 +1,142 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2022-2023,Group stage,1,2022-09-08,Hearts,Başakşehir,sct,tr,0,4,0.0
+2022-2023,Group stage,1,2022-09-08,Slovácko,Partizan,cz,rs,3,3,0.5
+2022-2023,Group stage,1,2022-09-08,Anderlecht,Silkeborg,be,dk,1,0,1.0
+2022-2023,Group stage,1,2022-09-08,Austria Wien,Be'er Sheva,at,il,0,0,0.5
+2022-2023,Group stage,1,2022-09-08,Villarreal,Lech Poznań,es,pl,4,3,1.0
+2022-2023,Group stage,1,2022-09-08,KF Ballkani Therandë,CFR Cluj,xk,ro,1,1,0.5
+2022-2023,Group stage,1,2022-09-08,Fiorentina,FK Rīgas FS,it,lv,1,1,0.5
+2022-2023,Group stage,1,2022-09-08,Nice,Köln,fr,de,1,1,0.5
+2022-2023,Group stage,1,2022-09-08,West Ham,FCSB,eng,ro,3,1,1.0
+2022-2023,Group stage,1,2022-09-08,Shamrock Rov,Djurgården,ie,se,0,0,0.5
+2022-2023,Group stage,1,2022-09-08,Vaduz,Apollon,li,cy,0,0,0.5
+2022-2023,Group stage,1,2022-09-08,Slovan Bratislava,Žalgiris,sk,lt,0,0,0.5
+2022-2023,Group stage,1,2022-09-08,Basel,Pyunik,ch,am,3,1,1.0
+2022-2023,Group stage,1,2022-09-08,Molde,Gent,no,be,0,0,0.5
+2022-2023,Group stage,1,2022-09-08,SK Dnipro-1,AZ Alkmaar,ua,nl,0,1,0.0
+2022-2023,Group stage,1,2022-09-08,Sivasspor,Slavia Prague,tr,cz,1,1,0.5
+2022-2023,Group stage,2,2022-09-15,AZ Alkmaar,Vaduz,nl,li,4,1,1.0
+2022-2023,Group stage,2,2022-09-15,Slavia Prague,KF Ballkani Therandë,cz,xk,3,2,1.0
+2022-2023,Group stage,2,2022-09-15,Djurgården,Molde,se,no,3,2,1.0
+2022-2023,Group stage,2,2022-09-15,Gent,Shamrock Rov,be,ie,3,0,1.0
+2022-2023,Group stage,2,2022-09-15,Apollon,SK Dnipro-1,cy,ua,1,3,0.0
+2022-2023,Group stage,2,2022-09-15,Žalgiris,Basel,lt,ch,0,1,0.0
+2022-2023,Group stage,2,2022-09-15,CFR Cluj,Sivasspor,ro,tr,0,1,0.0
+2022-2023,Group stage,2,2022-09-15,Pyunik,Slovan Bratislava,am,sk,2,0,1.0
+2022-2023,Group stage,2,2022-09-15,Partizan,Nice,rs,fr,1,1,0.5
+2022-2023,Group stage,2,2022-09-15,Silkeborg,West Ham,dk,eng,2,3,0.0
+2022-2023,Group stage,2,2022-09-15,Köln,Slovácko,de,cz,4,2,1.0
+2022-2023,Group stage,2,2022-09-15,Lech Poznań,Austria Wien,pl,at,4,1,1.0
+2022-2023,Group stage,2,2022-09-15,Başakşehir,Fiorentina,tr,it,3,0,1.0
+2022-2023,Group stage,2,2022-09-15,FCSB,Anderlecht,ro,be,0,0,0.5
+2022-2023,Group stage,2,2022-09-15,Be'er Sheva,Villarreal,il,es,1,2,0.0
+2022-2023,Group stage,2,2022-09-15,FK Rīgas FS,Hearts,lv,sct,0,2,0.0
+2022-2023,Group stage,3,2022-10-06,Slovácko,Nice,cz,fr,0,1,0.0
+2022-2023,Group stage,3,2022-10-06,Lech Poznań,Be'er Sheva,pl,il,0,0,0.5
+2022-2023,Group stage,3,2022-10-06,Molde,Shamrock Rov,no,ie,3,0,1.0
+2022-2023,Group stage,3,2022-10-06,Anderlecht,West Ham,be,eng,0,1,0.0
+2022-2023,Group stage,3,2022-10-06,Silkeborg,FCSB,dk,ro,5,0,1.0
+2022-2023,Group stage,3,2022-10-06,Sivasspor,KF Ballkani Therandë,tr,xk,3,4,0.0
+2022-2023,Group stage,3,2022-10-06,SK Dnipro-1,Vaduz,ua,li,2,2,0.5
+2022-2023,Group stage,3,2022-10-06,Hearts,Fiorentina,sct,it,0,3,0.0
+2022-2023,Group stage,3,2022-10-06,Pyunik,Žalgiris,am,lt,2,0,1.0
+2022-2023,Group stage,3,2022-10-06,Slavia Prague,CFR Cluj,cz,ro,0,1,0.0
+2022-2023,Group stage,3,2022-10-06,AZ Alkmaar,Apollon,nl,cy,3,2,1.0
+2022-2023,Group stage,3,2022-10-06,Köln,Partizan,de,rs,0,1,0.0
+2022-2023,Group stage,3,2022-10-06,Gent,Djurgården,be,se,0,1,0.0
+2022-2023,Group stage,3,2022-10-06,Villarreal,Austria Wien,es,at,5,0,1.0
+2022-2023,Group stage,3,2022-10-06,Basel,Slovan Bratislava,ch,sk,0,2,0.0
+2022-2023,Group stage,3,2022-10-06,FK Rīgas FS,Başakşehir,lv,tr,0,0,0.5
+2022-2023,Group stage,4,2022-10-13,Slovan Bratislava,Basel,sk,ch,3,3,0.5
+2022-2023,Group stage,4,2022-10-13,Partizan,Köln,rs,de,2,0,1.0
+2022-2023,Group stage,4,2022-10-13,Fiorentina,Hearts,it,sct,5,1,1.0
+2022-2023,Group stage,4,2022-10-13,Austria Wien,Villarreal,at,es,0,1,0.0
+2022-2023,Group stage,4,2022-10-13,Djurgården,Gent,se,be,4,2,1.0
+2022-2023,Group stage,4,2022-10-13,CFR Cluj,Slavia Prague,ro,cz,2,0,1.0
+2022-2023,Group stage,4,2022-10-13,Başakşehir,FK Rīgas FS,tr,lv,3,0,1.0
+2022-2023,Group stage,4,2022-10-13,Apollon,AZ Alkmaar,cy,nl,1,0,1.0
+2022-2023,Group stage,4,2022-10-13,Shamrock Rov,Molde,ie,no,0,2,0.0
+2022-2023,Group stage,4,2022-10-13,West Ham,Anderlecht,eng,be,2,1,1.0
+2022-2023,Group stage,4,2022-10-13,Vaduz,SK Dnipro-1,li,ua,1,2,0.0
+2022-2023,Group stage,4,2022-10-13,Nice,Slovácko,fr,cz,1,2,0.0
+2022-2023,Group stage,4,2022-10-13,KF Ballkani Therandë,Sivasspor,xk,tr,1,2,0.0
+2022-2023,Group stage,4,2022-10-13,Žalgiris,Pyunik,lt,am,2,1,1.0
+2022-2023,Group stage,4,2022-10-13,Be'er Sheva,Lech Poznań,il,pl,1,1,0.5
+2022-2023,Group stage,4,2022-10-13,FCSB,Silkeborg,ro,dk,0,5,0.0
+2022-2023,Group stage,5,2022-10-27,Villarreal,Be'er Sheva,es,il,2,2,0.5
+2022-2023,Group stage,5,2022-10-27,Austria Wien,Lech Poznań,at,pl,1,1,0.5
+2022-2023,Group stage,5,2022-10-27,Nice,Partizan,fr,rs,2,1,1.0
+2022-2023,Group stage,5,2022-10-27,Anderlecht,FCSB,be,ro,2,2,0.5
+2022-2023,Group stage,5,2022-10-27,Fiorentina,Başakşehir,it,tr,2,1,1.0
+2022-2023,Group stage,5,2022-10-27,Vaduz,AZ Alkmaar,li,nl,1,2,0.0
+2022-2023,Group stage,5,2022-10-27,West Ham,Silkeborg,eng,dk,1,0,1.0
+2022-2023,Group stage,5,2022-10-27,Hearts,FK Rīgas FS,sct,lv,2,1,1.0
+2022-2023,Group stage,5,2022-10-27,Shamrock Rov,Gent,ie,be,1,1,0.5
+2022-2023,Group stage,5,2022-10-27,KF Ballkani Therandë,Slavia Prague,xk,cz,0,1,0.0
+2022-2023,Group stage,5,2022-10-27,Molde,Djurgården,no,se,2,3,0.0
+2022-2023,Group stage,5,2022-10-27,Slovan Bratislava,Pyunik,sk,am,2,1,1.0
+2022-2023,Group stage,5,2022-10-27,Basel,Žalgiris,ch,lt,2,2,0.5
+2022-2023,Group stage,5,2022-10-27,Sivasspor,CFR Cluj,tr,ro,3,0,1.0
+2022-2023,Group stage,5,2022-10-27,SK Dnipro-1,Apollon,ua,cy,1,0,1.0
+2022-2023,Group stage,5,2022-10-28,Slovácko,Köln,cz,de,0,1,0.0
+2022-2023,Group stage,6,2022-11-03,FK Rīgas FS,Fiorentina,lv,it,0,3,0.0
+2022-2023,Group stage,6,2022-11-03,Başakşehir,Hearts,tr,sct,3,1,1.0
+2022-2023,Group stage,6,2022-11-03,Slavia Prague,Sivasspor,cz,tr,1,1,0.5
+2022-2023,Group stage,6,2022-11-03,Gent,Molde,be,no,4,0,1.0
+2022-2023,Group stage,6,2022-11-03,AZ Alkmaar,SK Dnipro-1,nl,ua,2,1,1.0
+2022-2023,Group stage,6,2022-11-03,Djurgården,Shamrock Rov,se,ie,1,0,1.0
+2022-2023,Group stage,6,2022-11-03,CFR Cluj,KF Ballkani Therandë,ro,xk,1,0,1.0
+2022-2023,Group stage,6,2022-11-03,Apollon,Vaduz,cy,li,1,0,1.0
+2022-2023,Group stage,6,2022-11-03,Žalgiris,Slovan Bratislava,lt,sk,1,2,0.0
+2022-2023,Group stage,6,2022-11-03,Partizan,Slovácko,rs,cz,1,1,0.5
+2022-2023,Group stage,6,2022-11-03,Köln,Nice,de,fr,2,2,0.5
+2022-2023,Group stage,6,2022-11-03,Lech Poznań,Villarreal,pl,es,3,0,1.0
+2022-2023,Group stage,6,2022-11-03,Silkeborg,Anderlecht,dk,be,0,2,0.0
+2022-2023,Group stage,6,2022-11-03,Pyunik,Basel,am,ch,1,2,0.0
+2022-2023,Group stage,6,2022-11-03,Be'er Sheva,Austria Wien,il,at,4,0,1.0
+2022-2023,Group stage,6,2022-11-03,FCSB,West Ham,ro,eng,0,3,0.0
+2022-2023,Knockout round play-offs,,2023-02-16,Braga,Fiorentina,pt,it,0,4,0.0
+2022-2023,Knockout round play-offs,,2023-02-16,Bodø/Glimt,Lech Poznań,no,pl,0,0,0.5
+2022-2023,Knockout round play-offs,,2023-02-16,Trabzonspor,Basel,tr,ch,1,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-16,Lazio,CFR Cluj,it,ro,1,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-16,Qarabağ,Gent,az,be,1,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-16,Sheriff Tiraspol,Partizan,md,rs,0,1,0.0
+2022-2023,Knockout round play-offs,,2023-02-16,Ludogorets,Anderlecht,bg,be,1,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-16,AÉK Lárnaka,SK Dnipro-1,cy,ua,1,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Anderlecht,Ludogorets,be,bg,2,1,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Partizan,Sheriff Tiraspol,rs,md,1,3,0.0
+2022-2023,Knockout round play-offs,,2023-02-23,SK Dnipro-1,AÉK Lárnaka,ua,cy,0,0,0.5
+2022-2023,Knockout round play-offs,,2023-02-23,CFR Cluj,Lazio,ro,it,0,0,0.5
+2022-2023,Knockout round play-offs,,2023-02-23,Fiorentina,Braga,it,pt,3,2,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Gent,Qarabağ,be,az,1,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Basel,Trabzonspor,ch,tr,2,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Lech Poznań,Bodø/Glimt,pl,no,1,0,1.0
+2022-2023,Round of 16,,2023-03-07,Lazio,AZ Alkmaar,it,nl,1,2,0.0
+2022-2023,Round of 16,,2023-03-09,Anderlecht,Villarreal,be,es,1,1,0.5
+2022-2023,Round of 16,,2023-03-09,Sheriff Tiraspol,Nice,md,fr,0,1,0.0
+2022-2023,Round of 16,,2023-03-09,AÉK Lárnaka,West Ham,cy,eng,0,2,0.0
+2022-2023,Round of 16,,2023-03-09,Lech Poznań,Djurgården,pl,se,2,0,1.0
+2022-2023,Round of 16,,2023-03-09,Fiorentina,Sivasspor,it,tr,1,0,1.0
+2022-2023,Round of 16,,2023-03-09,Gent,Başakşehir,be,tr,1,1,0.5
+2022-2023,Round of 16,,2023-03-09,Basel,Slovan Bratislava,ch,sk,2,2,0.5
+2022-2023,Round of 16,,2023-03-15,Başakşehir,Gent,tr,be,1,4,0.0
+2022-2023,Round of 16,,2023-03-16,Slovan Bratislava,Basel,sk,ch,2,2,0.5
+2022-2023,Round of 16,,2023-03-16,Djurgården,Lech Poznań,se,pl,0,3,0.0
+2022-2023,Round of 16,,2023-03-16,West Ham,AÉK Lárnaka,eng,cy,4,0,1.0
+2022-2023,Round of 16,,2023-03-16,Sivasspor,Fiorentina,tr,it,1,4,0.0
+2022-2023,Round of 16,,2023-03-16,Villarreal,Anderlecht,es,be,0,1,0.0
+2022-2023,Round of 16,,2023-03-16,AZ Alkmaar,Lazio,nl,it,2,1,1.0
+2022-2023,Round of 16,,2023-03-16,Nice,Sheriff Tiraspol,fr,md,3,1,1.0
+2022-2023,Quarter-finals,,2023-04-13,Gent,West Ham,be,eng,1,1,0.5
+2022-2023,Quarter-finals,,2023-04-13,Lech Poznań,Fiorentina,pl,it,1,4,0.0
+2022-2023,Quarter-finals,,2023-04-13,Basel,Nice,ch,fr,2,2,0.5
+2022-2023,Quarter-finals,,2023-04-13,Anderlecht,AZ Alkmaar,be,nl,2,0,1.0
+2022-2023,Quarter-finals,,2023-04-20,Fiorentina,Lech Poznań,it,pl,2,3,0.0
+2022-2023,Quarter-finals,,2023-04-20,AZ Alkmaar,Anderlecht,nl,be,2,0,1.0
+2022-2023,Quarter-finals,,2023-04-20,West Ham,Gent,eng,be,4,1,1.0
+2022-2023,Quarter-finals,,2023-04-20,Nice,Basel,fr,ch,1,2,0.0
+2022-2023,Semi-finals,,2023-05-11,West Ham,AZ Alkmaar,eng,nl,2,1,1.0
+2022-2023,Semi-finals,,2023-05-11,Fiorentina,Basel,it,ch,1,2,0.0
+2022-2023,Semi-finals,,2023-05-18,Basel,Fiorentina,ch,it,1,3,0.0
+2022-2023,Semi-finals,,2023-05-18,AZ Alkmaar,West Ham,nl,eng,0,1,0.0
+2022-2023,Final,,2023-06-07,Fiorentina,West Ham,it,eng,1,2,0.0

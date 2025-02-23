@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2016-2017,1,2016-08-12,Rio Ave,Porto,1,3,0.0
+2016-2017,1,2016-08-13,Moreirense,Paços,1,1,0.5
+2016-2017,1,2016-08-13,Sporting CP,Marítimo,2,0,1.0
+2016-2017,1,2016-08-13,Tondela,Benfica,0,2,0.0
+2016-2017,1,2016-08-14,Boavista,Arouca,2,0,1.0
+2016-2017,1,2016-08-14,Vitória Setúbal,Belenenses,2,0,1.0
+2016-2017,1,2016-08-14,Vitória,Braga,0,1,0.0
+2016-2017,1,2016-08-15,Estoril,Feirense,0,2,0.0
+2016-2017,2,2016-08-19,Belenenses,Boavista,0,0,0.5
+2016-2017,2,2016-08-20,Marítimo,Vitória,0,2,0.0
+2016-2017,2,2016-08-20,Chaves,Tondela,1,1,0.5
+2016-2017,2,2016-08-20,Paços,Sporting CP,0,1,0.0
+2016-2017,2,2016-08-20,Porto,Estoril,1,0,1.0
+2016-2017,2,2016-08-21,Feirense,Moreirense,0,3,0.0
+2016-2017,2,2016-08-21,Arouca,Nacional,2,0,1.0
+2016-2017,2,2016-08-21,Benfica,Vitória Setúbal,1,1,0.5
+2016-2017,2,2016-08-22,Braga,Rio Ave,1,1,0.5
+2016-2017,3,2016-08-26,Vitória,Paços,5,3,1.0
+2016-2017,3,2016-08-27,Tondela,Belenenses,0,1,0.0
+2016-2017,3,2016-08-27,Estoril,Braga,1,3,0.0
+2016-2017,3,2016-08-27,Nacional,Benfica,1,3,0.0
+2016-2017,3,2016-08-28,Boavista,Chaves,2,2,0.5
+2016-2017,3,2016-08-28,Moreirense,Marítimo,0,1,0.0
+2016-2017,3,2016-08-28,Sporting CP,Porto,2,1,1.0
+2016-2017,3,2016-08-28,Rio Ave,Feirense,1,0,1.0
+2016-2017,3,2016-08-28,Vitória Setúbal,Arouca,2,0,1.0
+2016-2017,1,2016-09-04,Nacional,Chaves,0,1,0.0
+2016-2017,4,2016-09-09,Arouca,Benfica,1,2,0.0
+2016-2017,4,2016-09-10,Belenenses,Nacional,2,1,1.0
+2016-2017,4,2016-09-10,Sporting CP,Moreirense,3,0,1.0
+2016-2017,4,2016-09-10,Porto,Vitória,3,0,1.0
+2016-2017,4,2016-09-11,Paços,Estoril,0,0,0.5
+2016-2017,4,2016-09-11,Marítimo,Rio Ave,0,1,0.0
+2016-2017,4,2016-09-11,Braga,Boavista,3,0,1.0
+2016-2017,4,2016-09-11,Chaves,Vitória Setúbal,0,0,0.5
+2016-2017,4,2016-09-12,Feirense,Tondela,2,1,1.0
+2016-2017,5,2016-09-16,Nacional,Marítimo,2,0,1.0
+2016-2017,5,2016-09-17,Estoril,Moreirense,2,0,1.0
+2016-2017,5,2016-09-17,Vitória Setúbal,Paços,1,4,0.0
+2016-2017,5,2016-09-17,Vitória,Belenenses,1,1,0.5
+2016-2017,5,2016-09-18,Boavista,Feirense,1,2,0.0
+2016-2017,5,2016-09-18,Arouca,Chaves,0,1,0.0
+2016-2017,5,2016-09-18,Tondela,Porto,0,0,0.5
+2016-2017,5,2016-09-18,Rio Ave,Sporting CP,3,1,1.0
+2016-2017,5,2016-09-19,Benfica,Braga,3,1,1.0
+2016-2017,6,2016-09-23,Porto,Boavista,3,1,1.0
+2016-2017,6,2016-09-23,Sporting CP,Estoril,4,2,1.0
+2016-2017,6,2016-09-24,Feirense,Nacional,0,3,0.0
+2016-2017,6,2016-09-24,Chaves,Benfica,0,2,0.0
+2016-2017,6,2016-09-24,Braga,Vitória Setúbal,2,1,1.0
+2016-2017,6,2016-09-25,Marítimo,Tondela,2,0,1.0
+2016-2017,6,2016-09-25,Paços,Rio Ave,2,1,1.0
+2016-2017,6,2016-09-25,Moreirense,Vitória,0,1,0.0
+2016-2017,6,2016-09-26,Belenenses,Arouca,1,1,0.5
+2016-2017,7,2016-09-30,Tondela,Paços,2,1,1.0
+2016-2017,7,2016-10-01,Rio Ave,Estoril,1,2,0.0
+2016-2017,7,2016-10-01,Chaves,Belenenses,3,1,1.0
+2016-2017,7,2016-10-01,Vitória,Sporting CP,3,3,0.5
+2016-2017,7,2016-10-01,Nacional,Porto,0,4,0.0
+2016-2017,7,2016-10-02,Benfica,Feirense,4,0,1.0
+2016-2017,7,2016-10-02,Vitória Setúbal,Marítimo,0,1,0.0
+2016-2017,7,2016-10-02,Boavista,Moreirense,2,0,1.0
+2016-2017,7,2016-10-02,Arouca,Braga,1,1,0.5
+2016-2017,8,2016-10-21,Paços,Nacional,1,1,0.5
+2016-2017,8,2016-10-21,Marítimo,Boavista,1,1,0.5
+2016-2017,8,2016-10-22,Feirense,Vitória Setúbal,1,1,0.5
+2016-2017,8,2016-10-22,Sporting CP,Tondela,1,1,0.5
+2016-2017,8,2016-10-22,Porto,Arouca,3,0,1.0
+2016-2017,8,2016-10-23,Moreirense,Rio Ave,1,1,0.5
+2016-2017,8,2016-10-23,Estoril,Vitória,0,2,0.0
+2016-2017,8,2016-10-23,Belenenses,Benfica,0,2,0.0
+2016-2017,8,2016-10-24,Braga,Chaves,1,0,1.0
+2016-2017,9,2016-10-28,Benfica,Paços,3,0,1.0
+2016-2017,9,2016-10-28,Nacional,Sporting CP,0,0,0.5
+2016-2017,9,2016-10-29,Tondela,Moreirense,1,2,0.0
+2016-2017,9,2016-10-29,Vitória Setúbal,Porto,0,0,0.5
+2016-2017,9,2016-10-29,Boavista,Estoril,0,0,0.5
+2016-2017,9,2016-10-30,Arouca,Marítimo,1,0,1.0
+2016-2017,9,2016-10-30,Rio Ave,Vitória,0,3,0.0
+2016-2017,9,2016-10-30,Braga,Belenenses,2,1,1.0
+2016-2017,9,2016-10-31,Chaves,Feirense,1,1,0.5
+2016-2017,10,2016-11-04,Vitória,Nacional,2,1,1.0
+2016-2017,10,2016-11-05,Paços,Chaves,1,1,0.5
+2016-2017,10,2016-11-05,Estoril,Tondela,2,0,1.0
+2016-2017,10,2016-11-05,Feirense,Belenenses,0,1,0.0
+2016-2017,10,2016-11-05,Rio Ave,Boavista,1,2,0.0
+2016-2017,10,2016-11-06,Moreirense,Vitória Setúbal,1,2,0.0
+2016-2017,10,2016-11-06,Porto,Benfica,1,1,0.5
+2016-2017,10,2016-11-06,Sporting CP,Arouca,3,0,1.0
+2016-2017,10,2016-11-06,Marítimo,Braga,1,0,1.0
+2016-2017,11,2016-11-25,Vitória Setúbal,Rio Ave,0,1,0.0
+2016-2017,11,2016-11-26,Chaves,Marítimo,0,0,0.5
+2016-2017,11,2016-11-26,Nacional,Estoril,0,1,0.0
+2016-2017,11,2016-11-26,Boavista,Sporting CP,0,1,0.0
+2016-2017,11,2016-11-26,Belenenses,Porto,0,0,0.5
+2016-2017,11,2016-11-27,Arouca,Paços,1,0,1.0
+2016-2017,11,2016-11-27,Benfica,Moreirense,3,0,1.0
+2016-2017,11,2016-11-27,Tondela,Vitória,2,1,1.0
+2016-2017,11,2016-11-28,Braga,Feirense,6,2,1.0
+2016-2017,12,2016-12-02,Marítimo,Benfica,2,1,1.0
+2016-2017,12,2016-12-03,Rio Ave,Tondela,3,1,1.0
+2016-2017,12,2016-12-03,Sporting CP,Vitória Setúbal,2,0,1.0
+2016-2017,12,2016-12-03,Porto,Braga,1,0,1.0
+2016-2017,12,2016-12-04,Feirense,Arouca,0,2,0.0
+2016-2017,12,2016-12-04,Moreirense,Nacional,3,1,1.0
+2016-2017,12,2016-12-04,Estoril,Belenenses,1,1,0.5
+2016-2017,12,2016-12-04,Vitória,Chaves,1,1,0.5
+2016-2017,12,2016-12-05,Paços,Boavista,2,1,1.0
+2016-2017,13,2016-12-09,Vitória Setúbal,Estoril,2,0,1.0
+2016-2017,13,2016-12-10,Belenenses,Marítimo,1,0,1.0
+2016-2017,13,2016-12-10,Chaves,Moreirense,2,1,1.0
+2016-2017,13,2016-12-10,Boavista,Vitória,1,2,0.0
+2016-2017,13,2016-12-11,Nacional,Tondela,3,2,1.0
+2016-2017,13,2016-12-11,Feirense,Porto,0,4,0.0
+2016-2017,13,2016-12-11,Benfica,Sporting CP,2,1,1.0
+2016-2017,13,2016-12-11,Braga,Paços,3,0,1.0
+2016-2017,13,2016-12-12,Arouca,Rio Ave,0,2,0.0
+2016-2017,15,2016-12-15,Porto,Marítimo,2,1,1.0
+2016-2017,14,2016-12-16,Paços,Belenenses,1,0,1.0
+2016-2017,14,2016-12-17,Moreirense,Arouca,1,4,0.0
+2016-2017,14,2016-12-17,Estoril,Benfica,0,1,0.0
+2016-2017,14,2016-12-18,Tondela,Boavista,1,1,0.5
+2016-2017,14,2016-12-18,Rio Ave,Nacional,2,1,1.0
+2016-2017,14,2016-12-18,Vitória,Vitória Setúbal,3,1,1.0
+2016-2017,14,2016-12-18,Sporting CP,Braga,0,1,0.0
+2016-2017,14,2016-12-19,Marítimo,Feirense,2,0,1.0
+2016-2017,14,2016-12-19,Porto,Chaves,2,1,1.0
+2016-2017,15,2016-12-21,Benfica,Rio Ave,2,0,1.0
+2016-2017,15,2016-12-22,Nacional,Boavista,0,2,0.0
+2016-2017,15,2016-12-22,Feirense,Paços,2,0,1.0
+2016-2017,15,2016-12-22,Braga,Moreirense,2,1,1.0
+2016-2017,15,2016-12-22,Belenenses,Sporting CP,0,1,0.0
+2016-2017,15,2016-12-22,Chaves,Estoril,1,0,1.0
+2016-2017,15,2016-12-23,Vitória Setúbal,Tondela,3,0,1.0
+2016-2017,15,2016-12-23,Arouca,Vitória,0,1,0.0
+2016-2017,16,2017-01-07,Nacional,Braga,0,0,0.5
+2016-2017,16,2017-01-07,Estoril,Marítimo,0,1,0.0
+2016-2017,16,2017-01-07,Vitória,Benfica,0,2,0.0
+2016-2017,16,2017-01-07,Paços,Porto,0,0,0.5
+2016-2017,16,2017-01-08,Tondela,Arouca,1,2,0.0
+2016-2017,16,2017-01-08,Rio Ave,Chaves,2,2,0.5
+2016-2017,16,2017-01-08,Boavista,Vitória Setúbal,1,0,1.0
+2016-2017,16,2017-01-08,Sporting CP,Feirense,2,1,1.0
+2016-2017,16,2017-01-09,Moreirense,Belenenses,1,0,1.0
+2016-2017,17,2017-01-13,Arouca,Estoril,2,1,1.0
+2016-2017,17,2017-01-14,Benfica,Boavista,3,3,0.5
+2016-2017,17,2017-01-14,Vitória Setúbal,Nacional,1,0,1.0
+2016-2017,17,2017-01-14,Chaves,Sporting CP,2,2,0.5
+2016-2017,17,2017-01-14,Feirense,Vitória,0,0,0.5
+2016-2017,17,2017-01-15,Marítimo,Paços,3,1,1.0
+2016-2017,17,2017-01-15,Porto,Moreirense,3,0,1.0
+2016-2017,17,2017-01-15,Belenenses,Rio Ave,1,0,1.0
+2016-2017,17,2017-01-16,Braga,Tondela,2,0,1.0
+2016-2017,18,2017-01-20,Paços,Moreirense,0,2,0.0
+2016-2017,18,2017-01-21,Porto,Rio Ave,4,2,1.0
+2016-2017,18,2017-01-21,Marítimo,Sporting CP,2,2,0.5
+2016-2017,18,2017-01-21,Arouca,Boavista,1,2,0.0
+2016-2017,18,2017-01-22,Feirense,Estoril,1,0,1.0
+2016-2017,18,2017-01-22,Benfica,Tondela,4,0,1.0
+2016-2017,18,2017-01-22,Belenenses,Vitória Setúbal,1,2,0.0
+2016-2017,18,2017-01-22,Braga,Vitória,1,2,0.0
+2016-2017,18,2017-01-23,Chaves,Nacional,2,0,1.0
+2016-2017,19,2017-01-27,Boavista,Belenenses,0,1,0.0
+2016-2017,19,2017-01-28,Tondela,Chaves,2,0,1.0
+2016-2017,19,2017-01-28,Nacional,Arouca,1,1,0.5
+2016-2017,19,2017-01-28,Vitória,Marítimo,0,0,0.5
+2016-2017,19,2017-01-28,Estoril,Porto,1,2,0.0
+2016-2017,19,2017-01-28,Sporting CP,Paços,4,2,1.0
+2016-2017,19,2017-01-30,Vitória Setúbal,Benfica,1,0,1.0
+2016-2017,19,2017-02-02,Moreirense,Feirense,1,1,0.5
+2016-2017,19,2017-02-02,Rio Ave,Braga,1,0,1.0
+2016-2017,20,2017-02-03,Paços,Vitória,2,0,1.0
+2016-2017,20,2017-02-04,Chaves,Boavista,0,0,0.5
+2016-2017,20,2017-02-04,Porto,Sporting CP,2,1,1.0
+2016-2017,20,2017-02-05,Arouca,Vitória Setúbal,2,1,1.0
+2016-2017,20,2017-02-05,Benfica,Nacional,3,0,1.0
+2016-2017,20,2017-02-05,Belenenses,Tondela,0,0,0.5
+2016-2017,20,2017-02-06,Marítimo,Moreirense,1,0,1.0
+2016-2017,20,2017-02-06,Feirense,Rio Ave,2,1,1.0
+2016-2017,20,2017-02-06,Braga,Estoril,1,1,0.5
+2016-2017,21,2017-02-10,Benfica,Arouca,3,0,1.0
+2016-2017,21,2017-02-11,Tondela,Feirense,0,1,0.0
+2016-2017,21,2017-02-11,Vitória Setúbal,Chaves,0,0,0.5
+2016-2017,21,2017-02-11,Estoril,Paços,2,1,1.0
+2016-2017,21,2017-02-11,Vitória,Porto,0,2,0.0
+2016-2017,21,2017-02-12,Nacional,Belenenses,1,1,0.5
+2016-2017,21,2017-02-12,Moreirense,Sporting CP,2,3,0.0
+2016-2017,21,2017-02-12,Boavista,Braga,1,1,0.5
+2016-2017,21,2017-02-13,Rio Ave,Marítimo,0,0,0.5
+2016-2017,22,2017-02-17,Porto,Tondela,4,0,1.0
+2016-2017,22,2017-02-18,Moreirense,Estoril,1,1,0.5
+2016-2017,22,2017-02-18,Chaves,Arouca,2,0,1.0
+2016-2017,22,2017-02-18,Feirense,Boavista,0,1,0.0
+2016-2017,22,2017-02-18,Sporting CP,Rio Ave,1,0,1.0
+2016-2017,22,2017-02-19,Paços,Vitória Setúbal,2,1,1.0
+2016-2017,22,2017-02-19,Belenenses,Vitória,1,1,0.5
+2016-2017,22,2017-02-19,Braga,Benfica,0,1,0.0
+2016-2017,22,2017-02-20,Marítimo,Nacional,0,0,0.5
+2016-2017,23,2017-02-24,Vitória,Moreirense,1,0,1.0
+2016-2017,23,2017-02-24,Benfica,Chaves,3,1,1.0
+2016-2017,23,2017-02-25,Tondela,Marítimo,1,1,0.5
+2016-2017,23,2017-02-25,Estoril,Sporting CP,0,2,0.0
+2016-2017,23,2017-02-25,Rio Ave,Paços,0,0,0.5
+2016-2017,23,2017-02-26,Nacional,Feirense,0,0,0.5
+2016-2017,23,2017-02-26,Vitória Setúbal,Braga,1,1,0.5
+2016-2017,23,2017-02-26,Boavista,Porto,0,1,0.0
+2016-2017,23,2017-02-27,Arouca,Belenenses,1,2,0.0
+2016-2017,24,2017-03-03,Moreirense,Boavista,0,0,0.5
+2016-2017,24,2017-03-04,Braga,Arouca,3,1,1.0
+2016-2017,24,2017-03-04,Porto,Nacional,7,0,1.0
+2016-2017,24,2017-03-04,Feirense,Benfica,0,1,0.0
+2016-2017,24,2017-03-05,Paços,Tondela,0,0,0.5
+2016-2017,24,2017-03-05,Marítimo,Vitória Setúbal,1,0,1.0
+2016-2017,24,2017-03-05,Belenenses,Chaves,2,1,1.0
+2016-2017,24,2017-03-05,Sporting CP,Vitória,1,1,0.5
+2016-2017,24,2017-03-06,Estoril,Rio Ave,0,2,0.0
+2016-2017,25,2017-03-10,Arouca,Porto,0,4,0.0
+2016-2017,25,2017-03-11,Vitória Setúbal,Feirense,1,2,0.0
+2016-2017,25,2017-03-11,Chaves,Braga,0,0,0.5
+2016-2017,25,2017-03-11,Tondela,Sporting CP,1,4,0.0
+2016-2017,25,2017-03-12,Boavista,Marítimo,3,0,1.0
+2016-2017,25,2017-03-12,Rio Ave,Moreirense,3,2,1.0
+2016-2017,25,2017-03-12,Vitória,Estoril,3,3,0.5
+2016-2017,25,2017-03-13,Nacional,Paços,1,1,0.5
+2016-2017,25,2017-03-13,Benfica,Belenenses,4,0,1.0
+2016-2017,26,2017-03-17,Estoril,Boavista,0,0,0.5
+2016-2017,26,2017-03-18,Belenenses,Braga,1,2,0.0
+2016-2017,26,2017-03-18,Moreirense,Tondela,1,1,0.5
+2016-2017,26,2017-03-18,Sporting CP,Nacional,2,0,1.0
+2016-2017,26,2017-03-18,Paços,Benfica,0,0,0.5
+2016-2017,26,2017-03-19,Marítimo,Arouca,3,1,1.0
+2016-2017,26,2017-03-19,Feirense,Chaves,3,2,1.0
+2016-2017,26,2017-03-19,Porto,Vitória Setúbal,1,1,0.5
+2016-2017,26,2017-03-19,Vitória,Rio Ave,3,0,1.0
+2016-2017,27,2017-03-31,Chaves,Paços,1,0,1.0
+2016-2017,27,2017-03-31,Nacional,Vitória,1,2,0.0
+2016-2017,27,2017-04-01,Tondela,Estoril,0,2,0.0
+2016-2017,27,2017-04-01,Boavista,Rio Ave,0,1,0.0
+2016-2017,27,2017-04-01,Benfica,Porto,1,1,0.5
+2016-2017,27,2017-04-02,Belenenses,Feirense,1,2,0.0
+2016-2017,27,2017-04-02,Vitória Setúbal,Moreirense,2,0,1.0
+2016-2017,27,2017-04-02,Arouca,Sporting CP,1,2,0.0
+2016-2017,27,2017-04-02,Braga,Marítimo,3,3,0.5
+2016-2017,28,2017-04-07,Feirense,Braga,0,1,0.0
+2016-2017,28,2017-04-08,Paços,Arouca,1,1,0.5
+2016-2017,28,2017-04-08,Porto,Belenenses,3,0,1.0
+2016-2017,28,2017-04-08,Sporting CP,Boavista,4,0,1.0
+2016-2017,28,2017-04-09,Rio Ave,Vitória Setúbal,0,0,0.5
+2016-2017,28,2017-04-09,Estoril,Nacional,0,1,0.0
+2016-2017,28,2017-04-09,Vitória,Tondela,2,1,1.0
+2016-2017,28,2017-04-09,Moreirense,Benfica,0,1,0.0
+2016-2017,28,2017-04-10,Marítimo,Chaves,2,1,1.0
+2016-2017,29,2017-04-14,Belenenses,Estoril,1,3,0.0
+2016-2017,29,2017-04-14,Boavista,Paços,0,0,0.5
+2016-2017,29,2017-04-14,Benfica,Marítimo,3,0,1.0
+2016-2017,29,2017-04-14,Vitória Setúbal,Sporting CP,0,3,0.0
+2016-2017,29,2017-04-15,Arouca,Feirense,2,0,1.0
+2016-2017,29,2017-04-15,Chaves,Vitória,2,3,0.0
+2016-2017,29,2017-04-15,Tondela,Rio Ave,2,1,1.0
+2016-2017,29,2017-04-15,Braga,Porto,1,1,0.5
+2016-2017,29,2017-04-17,Nacional,Moreirense,0,1,0.0
+2016-2017,30,2017-04-21,Rio Ave,Arouca,3,0,1.0
+2016-2017,30,2017-04-22,Tondela,Nacional,2,0,1.0
+2016-2017,30,2017-04-22,Marítimo,Belenenses,3,0,1.0
+2016-2017,30,2017-04-22,Estoril,Vitória Setúbal,3,0,1.0
+2016-2017,30,2017-04-22,Sporting CP,Benfica,1,1,0.5
+2016-2017,30,2017-04-23,Paços,Braga,3,1,1.0
+2016-2017,30,2017-04-23,Vitória,Boavista,2,0,1.0
+2016-2017,30,2017-04-23,Porto,Feirense,0,0,0.5
+2016-2017,30,2017-04-24,Moreirense,Chaves,0,0,0.5
+2016-2017,31,2017-04-28,Vitória Setúbal,Vitória,0,2,0.0
+2016-2017,31,2017-04-29,Nacional,Rio Ave,0,2,0.0
+2016-2017,31,2017-04-29,Boavista,Tondela,1,0,1.0
+2016-2017,31,2017-04-29,Benfica,Estoril,2,1,1.0
+2016-2017,31,2017-04-29,Chaves,Porto,0,2,0.0
+2016-2017,31,2017-04-30,Arouca,Moreirense,2,2,0.5
+2016-2017,31,2017-04-30,Feirense,Marítimo,2,1,1.0
+2016-2017,31,2017-04-30,Braga,Sporting CP,2,3,0.0
+2016-2017,31,2017-04-30,Belenenses,Paços,1,2,0.0
+2016-2017,32,2017-05-05,Moreirense,Braga,2,1,1.0
+2016-2017,32,2017-05-06,Boavista,Nacional,2,2,0.5
+2016-2017,32,2017-05-06,Paços,Feirense,0,1,0.0
+2016-2017,32,2017-05-06,Marítimo,Porto,1,1,0.5
+2016-2017,32,2017-05-07,Sporting CP,Belenenses,1,3,0.0
+2016-2017,32,2017-05-07,Tondela,Vitória Setúbal,2,1,1.0
+2016-2017,32,2017-05-07,Vitória,Arouca,1,0,1.0
+2016-2017,32,2017-05-07,Rio Ave,Benfica,0,1,0.0
+2016-2017,32,2017-05-08,Estoril,Chaves,2,1,1.0
+2016-2017,33,2017-05-12,Belenenses,Moreirense,1,1,0.5
+2016-2017,33,2017-05-13,Arouca,Tondela,1,2,0.0
+2016-2017,33,2017-05-13,Benfica,Vitória,5,0,1.0
+2016-2017,33,2017-05-13,Feirense,Sporting CP,2,1,1.0
+2016-2017,33,2017-05-14,Chaves,Rio Ave,2,2,0.5
+2016-2017,33,2017-05-14,Marítimo,Estoril,1,1,0.5
+2016-2017,33,2017-05-14,Porto,Paços,4,1,1.0
+2016-2017,33,2017-05-14,Braga,Nacional,4,0,1.0
+2016-2017,33,2017-05-15,Vitória Setúbal,Boavista,0,1,0.0
+2016-2017,34,2017-05-20,Paços,Marítimo,0,0,0.5
+2016-2017,34,2017-05-20,Nacional,Vitória Setúbal,1,2,0.0
+2016-2017,34,2017-05-20,Rio Ave,Belenenses,2,0,1.0
+2016-2017,34,2017-05-20,Vitória,Feirense,0,1,0.0
+2016-2017,34,2017-05-20,Boavista,Benfica,2,2,0.5
+2016-2017,34,2017-05-21,Moreirense,Porto,3,1,1.0
+2016-2017,34,2017-05-21,Estoril,Arouca,4,2,1.0
+2016-2017,34,2017-05-21,Tondela,Braga,2,0,1.0
+2016-2017,34,2017-05-21,Sporting CP,Chaves,4,1,1.0

@@ -1,0 +1,196 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,Regular season,1,2021-07-23,Sturm Graz,RB Salzburg,1,3,0.0
+2021-2022,Regular season,1,2021-07-24,SCR Altach,LASK,0,1,0.0
+2021-2022,Regular season,1,2021-07-24,Rapid Wien,Hartberg,0,2,0.0
+2021-2022,Regular season,1,2021-07-24,WSG Tirol,Admira,1,1,0.5
+2021-2022,Regular season,1,2021-07-25,SK Austria Klagenfurt,Wolfsberger AC,1,1,0.5
+2021-2022,Regular season,1,2021-07-25,Ried,Austria Wien,2,1,1.0
+2021-2022,Regular season,2,2021-07-31,LASK,Rapid Wien,1,1,0.5
+2021-2022,Regular season,2,2021-07-31,Admira,SK Austria Klagenfurt,4,0,1.0
+2021-2022,Regular season,2,2021-07-31,Hartberg,SCR Altach,1,2,0.0
+2021-2022,Regular season,2,2021-08-01,Austria Wien,WSG Tirol,1,1,0.5
+2021-2022,Regular season,2,2021-08-01,Wolfsberger AC,Sturm Graz,1,4,0.0
+2021-2022,Regular season,2,2021-08-01,RB Salzburg,Ried,7,1,1.0
+2021-2022,Regular season,3,2021-08-07,SK Austria Klagenfurt,Hartberg,4,3,1.0
+2021-2022,Regular season,3,2021-08-07,Sturm Graz,SCR Altach,3,1,1.0
+2021-2022,Regular season,3,2021-08-07,Ried,Admira,2,1,1.0
+2021-2022,Regular season,3,2021-08-08,RB Salzburg,Austria Wien,1,0,1.0
+2021-2022,Regular season,3,2021-08-08,WSG Tirol,LASK,1,1,0.5
+2021-2022,Regular season,3,2021-08-08,Rapid Wien,Wolfsberger AC,3,0,1.0
+2021-2022,Regular season,4,2021-08-14,Wolfsberger AC,WSG Tirol,2,2,0.5
+2021-2022,Regular season,4,2021-08-14,Admira,RB Salzburg,0,1,0.0
+2021-2022,Regular season,4,2021-08-14,Hartberg,Ried,1,1,0.5
+2021-2022,Regular season,4,2021-08-15,LASK,Sturm Graz,1,3,0.0
+2021-2022,Regular season,4,2021-08-15,Austria Wien,SK Austria Klagenfurt,1,1,0.5
+2021-2022,Regular season,4,2021-08-15,SCR Altach,Rapid Wien,2,1,1.0
+2021-2022,Regular season,5,2021-08-21,RB Salzburg,SK Austria Klagenfurt,3,1,1.0
+2021-2022,Regular season,5,2021-08-21,Wolfsberger AC,Admira,3,0,1.0
+2021-2022,Regular season,5,2021-08-21,WSG Tirol,SCR Altach,0,0,0.5
+2021-2022,Regular season,5,2021-08-22,Sturm Graz,Austria Wien,2,2,0.5
+2021-2022,Regular season,5,2021-08-22,LASK,Hartberg,1,1,0.5
+2021-2022,Regular season,5,2021-08-22,Rapid Wien,Ried,3,0,1.0
+2021-2022,Regular season,6,2021-08-28,SK Austria Klagenfurt,WSG Tirol,2,1,1.0
+2021-2022,Regular season,6,2021-08-28,SCR Altach,Wolfsberger AC,1,2,0.0
+2021-2022,Regular season,6,2021-08-28,Hartberg,RB Salzburg,0,1,0.0
+2021-2022,Regular season,6,2021-08-29,Ried,LASK,1,0,1.0
+2021-2022,Regular season,6,2021-08-29,Austria Wien,Rapid Wien,1,1,0.5
+2021-2022,Regular season,6,2021-08-29,Admira,Sturm Graz,1,1,0.5
+2021-2022,Regular season,7,2021-09-11,Rapid Wien,Admira,1,2,0.0
+2021-2022,Regular season,7,2021-09-11,WSG Tirol,RB Salzburg,1,3,0.0
+2021-2022,Regular season,7,2021-09-11,Wolfsberger AC,Hartberg,1,3,0.0
+2021-2022,Regular season,7,2021-09-12,LASK,Austria Wien,0,2,0.0
+2021-2022,Regular season,7,2021-09-12,SCR Altach,Ried,1,1,0.5
+2021-2022,Regular season,7,2021-09-12,Sturm Graz,SK Austria Klagenfurt,2,1,1.0
+2021-2022,Regular season,8,2021-09-18,Austria Wien,SCR Altach,0,0,0.5
+2021-2022,Regular season,8,2021-09-18,Admira,Hartberg,1,1,0.5
+2021-2022,Regular season,8,2021-09-18,Ried,Wolfsberger AC,3,3,0.5
+2021-2022,Regular season,8,2021-09-19,SK Austria Klagenfurt,LASK,1,1,0.5
+2021-2022,Regular season,8,2021-09-19,Sturm Graz,WSG Tirol,5,0,1.0
+2021-2022,Regular season,8,2021-09-19,RB Salzburg,Rapid Wien,2,0,1.0
+2021-2022,Regular season,9,2021-09-25,Wolfsberger AC,RB Salzburg,0,2,0.0
+2021-2022,Regular season,9,2021-09-25,WSG Tirol,Ried,4,2,1.0
+2021-2022,Regular season,9,2021-09-25,SCR Altach,SK Austria Klagenfurt,0,4,0.0
+2021-2022,Regular season,9,2021-09-26,Hartberg,Austria Wien,3,4,0.0
+2021-2022,Regular season,9,2021-09-26,LASK,Admira,3,1,1.0
+2021-2022,Regular season,9,2021-09-26,Rapid Wien,Sturm Graz,0,3,0.0
+2021-2022,Regular season,10,2021-10-02,Ried,SK Austria Klagenfurt,1,1,0.5
+2021-2022,Regular season,10,2021-10-02,Wolfsberger AC,Austria Wien,1,0,1.0
+2021-2022,Regular season,10,2021-10-02,Admira,SCR Altach,2,0,1.0
+2021-2022,Regular season,10,2021-10-03,Rapid Wien,WSG Tirol,5,2,1.0
+2021-2022,Regular season,10,2021-10-03,Hartberg,Sturm Graz,3,2,1.0
+2021-2022,Regular season,10,2021-10-03,RB Salzburg,LASK,3,1,1.0
+2021-2022,Regular season,11,2021-10-16,SCR Altach,RB Salzburg,1,1,0.5
+2021-2022,Regular season,11,2021-10-16,Austria Wien,Admira,2,2,0.5
+2021-2022,Regular season,11,2021-10-16,SK Austria Klagenfurt,Rapid Wien,1,1,0.5
+2021-2022,Regular season,11,2021-10-17,LASK,Wolfsberger AC,0,1,0.0
+2021-2022,Regular season,11,2021-10-17,WSG Tirol,Hartberg,2,2,0.5
+2021-2022,Regular season,11,2021-10-17,Sturm Graz,Ried,1,0,1.0
+2021-2022,Regular season,12,2021-10-23,Austria Wien,Ried,4,1,1.0
+2021-2022,Regular season,12,2021-10-23,Wolfsberger AC,SK Austria Klagenfurt,2,1,1.0
+2021-2022,Regular season,12,2021-10-23,Admira,WSG Tirol,0,1,0.0
+2021-2022,Regular season,12,2021-10-24,LASK,SCR Altach,0,1,0.0
+2021-2022,Regular season,12,2021-10-24,Hartberg,Rapid Wien,1,1,0.5
+2021-2022,Regular season,12,2021-10-24,RB Salzburg,Sturm Graz,4,1,1.0
+2021-2022,Regular season,13,2021-10-30,SCR Altach,Hartberg,0,2,0.0
+2021-2022,Regular season,13,2021-10-30,SK Austria Klagenfurt,Admira,3,3,0.5
+2021-2022,Regular season,13,2021-10-30,Ried,RB Salzburg,2,2,0.5
+2021-2022,Regular season,13,2021-10-31,WSG Tirol,Austria Wien,1,1,0.5
+2021-2022,Regular season,13,2021-10-31,Sturm Graz,Wolfsberger AC,0,3,0.0
+2021-2022,Regular season,13,2021-10-31,Rapid Wien,LASK,3,2,1.0
+2021-2022,Regular season,14,2021-11-06,Austria Wien,RB Salzburg,0,1,0.0
+2021-2022,Regular season,14,2021-11-06,Admira,Ried,1,2,0.0
+2021-2022,Regular season,14,2021-11-06,Hartberg,SK Austria Klagenfurt,0,2,0.0
+2021-2022,Regular season,14,2021-11-07,LASK,WSG Tirol,3,0,1.0
+2021-2022,Regular season,14,2021-11-07,Wolfsberger AC,Rapid Wien,4,1,1.0
+2021-2022,Regular season,15,2021-11-20,RB Salzburg,Admira,0,0,0.5
+2021-2022,Regular season,15,2021-11-20,Ried,Hartberg,1,0,1.0
+2021-2022,Regular season,15,2021-11-20,Rapid Wien,SCR Altach,1,0,1.0
+2021-2022,Regular season,15,2021-11-21,SK Austria Klagenfurt,Austria Wien,0,0,0.5
+2021-2022,Regular season,15,2021-11-21,WSG Tirol,Wolfsberger AC,5,1,1.0
+2021-2022,Regular season,15,2021-11-21,Sturm Graz,LASK,3,3,0.5
+2021-2022,Regular season,16,2021-11-27,Admira,Wolfsberger AC,0,1,0.0
+2021-2022,Regular season,16,2021-11-27,SCR Altach,WSG Tirol,0,3,0.0
+2021-2022,Regular season,16,2021-11-27,SK Austria Klagenfurt,RB Salzburg,2,1,1.0
+2021-2022,Regular season,16,2021-11-28,Austria Wien,Sturm Graz,2,1,1.0
+2021-2022,Regular season,16,2021-11-28,Hartberg,LASK,2,1,1.0
+2021-2022,Regular season,16,2021-11-28,Ried,Rapid Wien,2,2,0.5
+2021-2022,Regular season,14,2021-12-01,SCR Altach,Sturm Graz,0,1,0.0
+2021-2022,Regular season,17,2021-12-04,Sturm Graz,Admira,1,1,0.5
+2021-2022,Regular season,17,2021-12-04,WSG Tirol,SK Austria Klagenfurt,0,1,0.0
+2021-2022,Regular season,17,2021-12-04,RB Salzburg,Hartberg,2,1,1.0
+2021-2022,Regular season,17,2021-12-05,LASK,Ried,1,0,1.0
+2021-2022,Regular season,17,2021-12-05,Wolfsberger AC,SCR Altach,3,0,1.0
+2021-2022,Regular season,17,2021-12-05,Rapid Wien,Austria Wien,1,1,0.5
+2021-2022,Regular season,18,2021-12-11,RB Salzburg,WSG Tirol,5,0,1.0
+2021-2022,Regular season,18,2021-12-11,Hartberg,Wolfsberger AC,2,2,0.5
+2021-2022,Regular season,18,2021-12-11,Ried,SCR Altach,2,1,1.0
+2021-2022,Regular season,18,2021-12-12,Admira,Rapid Wien,1,2,0.0
+2021-2022,Regular season,18,2021-12-12,SK Austria Klagenfurt,Sturm Graz,0,3,0.0
+2021-2022,Regular season,18,2021-12-12,Austria Wien,LASK,2,3,0.0
+2021-2022,Regular season,19,2022-02-11,Rapid Wien,RB Salzburg,1,2,0.0
+2021-2022,Regular season,19,2022-02-12,SCR Altach,Austria Wien,0,2,0.0
+2021-2022,Regular season,19,2022-02-12,WSG Tirol,Sturm Graz,2,2,0.5
+2021-2022,Regular season,19,2022-02-12,Wolfsberger AC,Ried,2,1,1.0
+2021-2022,Regular season,19,2022-02-13,Hartberg,Admira,1,1,0.5
+2021-2022,Regular season,19,2022-02-13,LASK,SK Austria Klagenfurt,2,2,0.5
+2021-2022,Regular season,20,2022-02-19,Austria Wien,Hartberg,2,0,1.0
+2021-2022,Regular season,20,2022-02-19,Ried,WSG Tirol,3,2,1.0
+2021-2022,Regular season,20,2022-02-19,Admira,LASK,0,3,0.0
+2021-2022,Regular season,20,2022-02-20,RB Salzburg,Wolfsberger AC,2,0,1.0
+2021-2022,Regular season,20,2022-02-20,SK Austria Klagenfurt,SCR Altach,2,0,1.0
+2021-2022,Regular season,20,2022-02-20,Sturm Graz,Rapid Wien,2,2,0.5
+2021-2022,Regular season,21,2022-02-26,SCR Altach,Admira,0,2,0.0
+2021-2022,Regular season,21,2022-02-27,WSG Tirol,Rapid Wien,0,2,0.0
+2021-2022,Regular season,21,2022-02-27,Austria Wien,Wolfsberger AC,1,0,1.0
+2021-2022,Regular season,21,2022-02-27,SK Austria Klagenfurt,Ried,1,1,0.5
+2021-2022,Regular season,21,2022-02-27,Sturm Graz,Hartberg,3,0,1.0
+2021-2022,Regular season,21,2022-03-02,LASK,RB Salzburg,0,0,0.5
+2021-2022,Regular season,22,2022-03-05,RB Salzburg,SCR Altach,4,0,1.0
+2021-2022,Regular season,22,2022-03-06,Rapid Wien,SK Austria Klagenfurt,3,0,1.0
+2021-2022,Regular season,22,2022-03-06,Admira,Austria Wien,1,2,0.0
+2021-2022,Regular season,22,2022-03-06,Wolfsberger AC,LASK,1,0,1.0
+2021-2022,Regular season,22,2022-03-06,Ried,Sturm Graz,2,2,0.5
+2021-2022,Regular season,22,2022-03-06,Hartberg,WSG Tirol,0,1,0.0
+2021-2022,Relegation round,1,2022-03-12,Admira,Ried,2,0,1.0
+2021-2022,Relegation round,1,2022-03-12,SCR Altach,Hartberg,0,0,0.5
+2021-2022,Championship round,1,2022-03-13,SK Austria Klagenfurt,Rapid Wien,1,3,0.0
+2021-2022,Championship round,1,2022-03-13,Austria Wien,Wolfsberger AC,2,1,1.0
+2021-2022,Relegation round,1,2022-03-13,LASK,WSG Tirol,6,0,1.0
+2021-2022,Championship round,1,2022-03-13,RB Salzburg,Sturm Graz,1,0,1.0
+2021-2022,Relegation round,2,2022-03-19,Ried,SCR Altach,1,2,0.0
+2021-2022,Relegation round,2,2022-03-19,WSG Tirol,Admira,0,0,0.5
+2021-2022,Championship round,2,2022-03-20,Wolfsberger AC,RB Salzburg,1,4,0.0
+2021-2022,Championship round,2,2022-03-20,Sturm Graz,SK Austria Klagenfurt,3,1,1.0
+2021-2022,Relegation round,2,2022-03-20,Hartberg,LASK,0,0,0.5
+2021-2022,Championship round,2,2022-03-20,Rapid Wien,Austria Wien,1,1,0.5
+2021-2022,Relegation round,3,2022-04-02,SCR Altach,Admira,2,2,0.5
+2021-2022,Relegation round,3,2022-04-02,LASK,Ried,0,2,0.0
+2021-2022,Relegation round,3,2022-04-02,Hartberg,WSG Tirol,0,1,0.0
+2021-2022,Championship round,3,2022-04-03,Austria Wien,SK Austria Klagenfurt,1,1,0.5
+2021-2022,Championship round,3,2022-04-03,Wolfsberger AC,Sturm Graz,0,2,0.0
+2021-2022,Championship round,3,2022-04-03,RB Salzburg,Rapid Wien,2,1,1.0
+2021-2022,Relegation round,4,2022-04-09,WSG Tirol,SCR Altach,0,3,0.0
+2021-2022,Relegation round,4,2022-04-09,Admira,LASK,1,1,0.5
+2021-2022,Relegation round,4,2022-04-09,Ried,Hartberg,0,0,0.5
+2021-2022,Championship round,4,2022-04-10,Rapid Wien,Wolfsberger AC,2,1,1.0
+2021-2022,Championship round,4,2022-04-10,SK Austria Klagenfurt,RB Salzburg,0,6,0.0
+2021-2022,Championship round,4,2022-04-10,Sturm Graz,Austria Wien,1,0,1.0
+2021-2022,Relegation round,5,2022-04-16,Hartberg,Admira,1,2,0.0
+2021-2022,Relegation round,5,2022-04-16,SCR Altach,LASK,0,0,0.5
+2021-2022,Relegation round,5,2022-04-16,Ried,WSG Tirol,2,3,0.0
+2021-2022,Championship round,5,2022-04-17,Sturm Graz,Rapid Wien,2,1,1.0
+2021-2022,Championship round,5,2022-04-17,Austria Wien,RB Salzburg,1,2,0.0
+2021-2022,Championship round,5,2022-04-17,Wolfsberger AC,SK Austria Klagenfurt,1,2,0.0
+2021-2022,Relegation round,6,2022-04-23,Admira,Hartberg,1,3,0.0
+2021-2022,Relegation round,6,2022-04-23,LASK,SCR Altach,2,1,1.0
+2021-2022,Relegation round,6,2022-04-23,WSG Tirol,Ried,2,0,1.0
+2021-2022,Championship round,6,2022-04-24,RB Salzburg,Austria Wien,5,0,1.0
+2021-2022,Championship round,6,2022-04-24,SK Austria Klagenfurt,Wolfsberger AC,2,3,0.0
+2021-2022,Championship round,6,2022-04-24,Rapid Wien,Sturm Graz,1,1,0.5
+2021-2022,Relegation round,7,2022-04-26,Ried,Admira,1,1,0.5
+2021-2022,Relegation round,7,2022-04-26,WSG Tirol,LASK,4,0,1.0
+2021-2022,Relegation round,7,2022-04-26,Hartberg,SCR Altach,4,0,1.0
+2021-2022,Championship round,7,2022-04-27,Rapid Wien,SK Austria Klagenfurt,2,2,0.5
+2021-2022,Championship round,7,2022-04-27,Wolfsberger AC,Austria Wien,1,1,0.5
+2021-2022,Championship round,7,2022-04-27,Sturm Graz,RB Salzburg,2,1,1.0
+2021-2022,Relegation round,8,2022-05-07,SCR Altach,Ried,1,1,0.5
+2021-2022,Relegation round,8,2022-05-07,LASK,Hartberg,3,3,0.5
+2021-2022,Relegation round,8,2022-05-07,Admira,WSG Tirol,1,1,0.5
+2021-2022,Championship round,8,2022-05-08,RB Salzburg,Wolfsberger AC,4,0,1.0
+2021-2022,Championship round,8,2022-05-08,SK Austria Klagenfurt,Sturm Graz,1,2,0.0
+2021-2022,Championship round,8,2022-05-08,Austria Wien,Rapid Wien,1,1,0.5
+2021-2022,Relegation round,9,2022-05-14,Ried,LASK,1,1,0.5
+2021-2022,Relegation round,9,2022-05-14,Admira,SCR Altach,0,3,0.0
+2021-2022,Relegation round,9,2022-05-14,WSG Tirol,Hartberg,4,2,1.0
+2021-2022,Championship round,9,2022-05-15,Sturm Graz,Wolfsberger AC,1,4,0.0
+2021-2022,Championship round,9,2022-05-15,Rapid Wien,RB Salzburg,0,1,0.0
+2021-2022,Championship round,9,2022-05-15,SK Austria Klagenfurt,Austria Wien,1,2,0.0
+2021-2022,Relegation round,10,2022-05-20,SCR Altach,WSG Tirol,2,1,1.0
+2021-2022,Relegation round,10,2022-05-20,LASK,Admira,3,1,1.0
+2021-2022,Relegation round,10,2022-05-20,Hartberg,Ried,1,1,0.5
+2021-2022,Championship round,10,2022-05-21,Wolfsberger AC,Rapid Wien,2,1,1.0
+2021-2022,Championship round,10,2022-05-21,Austria Wien,Sturm Graz,4,2,1.0
+2021-2022,Championship round,10,2022-05-21,RB Salzburg,SK Austria Klagenfurt,1,1,0.5
+2021-2022,Semi-final,,2022-05-23,WSG Tirol,LASK,2,1,1.0
+2021-2022,Finals,,2022-05-26,WSG Tirol,Rapid Wien,1,2,0.0
+2021-2022,Finals,,2022-05-29,Rapid Wien,WSG Tirol,2,0,1.0

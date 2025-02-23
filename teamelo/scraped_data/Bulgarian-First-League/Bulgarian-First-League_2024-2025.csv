@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-07-19,Cherno More,CSKA 1948,0.0,0.0,0.5
+2024-2025,1,2024-07-19,FK Levski 2005,Slavia Sofia,1.0,0.0,1.0
+2024-2025,1,2024-07-20,Loko Plovdiv,Arda,1.0,0.0,1.0
+2024-2025,1,2024-07-20,Lokomotiv Sofia,Levski Sofia,1.0,6.0,0.0
+2024-2025,1,2024-07-21,Botev Vratsa,Botev Plovdiv,1.0,3.0,0.0
+2024-2025,1,2024-07-21,Ludogorets,CSKA Sofia,1.0,0.0,1.0
+2024-2025,1,2024-07-22,PFC Hebar Pazardzhik,FC Spartak Varna,0.0,2.0,0.0
+2024-2025,1,2024-07-22,Septemvri Sofia,Beroe,0.0,1.0,0.0
+2024-2025,2,2024-07-26,Arda,FK Levski 2005,1.0,0.0,1.0
+2024-2025,2,2024-07-26,Levski Sofia,Botev Vratsa,4.0,0.0,1.0
+2024-2025,2,2024-07-27,CSKA Sofia,PFC Hebar Pazardzhik,3.0,1.0,1.0
+2024-2025,2,2024-07-28,CSKA 1948,FC Spartak Varna,2.0,2.0,0.5
+2024-2025,2,2024-07-28,Botev Plovdiv,Loko Plovdiv,2.0,2.0,0.5
+2024-2025,2,2024-07-29,Beroe,Lokomotiv Sofia,0.0,0.0,0.5
+2024-2025,2,2024-07-29,Cherno More,Septemvri Sofia,2.0,0.0,1.0
+2024-2025,3,2024-08-02,PFC Hebar Pazardzhik,Slavia Sofia,1.0,1.0,0.5
+2024-2025,3,2024-08-02,Loko Plovdiv,Levski Sofia,0.0,2.0,0.0
+2024-2025,3,2024-08-03,FC Spartak Varna,CSKA Sofia,3.0,0.0,1.0
+2024-2025,3,2024-08-03,Ludogorets,Arda,5.0,1.0,1.0
+2024-2025,3,2024-08-04,Lokomotiv Sofia,Cherno More,2.0,1.0,1.0
+2024-2025,3,2024-08-04,FK Levski 2005,Botev Plovdiv,0.0,1.0,0.0
+2024-2025,3,2024-08-05,Botev Vratsa,Beroe,1.0,2.0,0.0
+2024-2025,4,2024-08-09,Slavia Sofia,FC Spartak Varna,3.0,1.0,1.0
+2024-2025,4,2024-08-09,Arda,PFC Hebar Pazardzhik,2.0,1.0,1.0
+2024-2025,4,2024-08-10,Beroe,Loko Plovdiv,0.0,2.0,0.0
+2024-2025,4,2024-08-10,Levski Sofia,FK Levski 2005,3.0,0.0,1.0
+2024-2025,4,2024-08-12,Septemvri Sofia,Lokomotiv Sofia,0.0,1.0,0.0
+2024-2025,4,2024-08-12,Cherno More,Botev Vratsa,2.0,1.0,1.0
+2024-2025,5,2024-08-16,FC Spartak Varna,Arda,1.0,0.0,1.0
+2024-2025,5,2024-08-16,FK Levski 2005,Beroe,0.0,1.0,0.0
+2024-2025,5,2024-08-17,CSKA Sofia,Slavia Sofia,0.0,1.0,0.0
+2024-2025,5,2024-08-17,Ludogorets,Levski Sofia,1.0,0.0,1.0
+2024-2025,5,2024-08-18,Lokomotiv Sofia,CSKA 1948,0.0,0.0,0.5
+2024-2025,5,2024-08-18,PFC Hebar Pazardzhik,Botev Plovdiv,0.0,1.0,0.0
+2024-2025,5,2024-08-19,Botev Vratsa,Septemvri Sofia,2.0,0.0,1.0
+2024-2025,5,2024-08-19,Loko Plovdiv,Cherno More,1.0,2.0,0.0
+2024-2025,6,2024-08-23,Lokomotiv Sofia,Botev Vratsa,0.0,1.0,0.0
+2024-2025,6,2024-08-23,Levski Sofia,PFC Hebar Pazardzhik,1.0,0.0,1.0
+2024-2025,6,2024-08-24,Arda,CSKA Sofia,2.0,1.0,1.0
+2024-2025,6,2024-08-24,Botev Plovdiv,FC Spartak Varna,0.0,1.0,0.0
+2024-2025,6,2024-08-25,CSKA 1948,Slavia Sofia,2.0,0.0,1.0
+2024-2025,6,2024-08-25,Beroe,Ludogorets,0.0,1.0,0.0
+2024-2025,6,2024-08-26,Septemvri Sofia,Loko Plovdiv,2.0,3.0,0.0
+2024-2025,6,2024-08-26,Cherno More,FK Levski 2005,3.0,0.0,1.0
+2024-2025,7,2024-08-30,Slavia Sofia,Arda,1.0,1.0,0.5
+2024-2025,7,2024-08-30,Botev Vratsa,CSKA 1948,0.0,3.0,0.0
+2024-2025,7,2024-08-30,CSKA Sofia,Botev Plovdiv,0.0,1.0,0.0
+2024-2025,7,2024-08-31,FC Spartak Varna,Levski Sofia,0.0,0.0,0.5
+2024-2025,7,2024-08-31,FK Levski 2005,Septemvri Sofia,2.0,0.0,1.0
+2024-2025,7,2024-09-01,Loko Plovdiv,Lokomotiv Sofia,1.0,1.0,0.5
+2024-2025,7,2024-09-01,PFC Hebar Pazardzhik,Beroe,3.0,1.0,1.0
+2024-2025,7,2024-09-01,Ludogorets,Cherno More,0.0,0.0,0.5
+2024-2025,12,2024-09-13,Loko Plovdiv,PFC Hebar Pazardzhik,3.0,3.0,0.5
+2024-2025,12,2024-09-13,Botev Vratsa,FC Spartak Varna,1.0,1.0,0.5
+2024-2025,12,2024-09-14,Septemvri Sofia,Slavia Sofia,3.0,2.0,1.0
+2024-2025,12,2024-09-14,Beroe,Botev Plovdiv,0.0,1.0,0.0
+2024-2025,12,2024-09-15,Cherno More,Arda,1.0,1.0,0.5
+2024-2025,12,2024-09-15,CSKA 1948,Levski Sofia,2.0,4.0,0.0
+2024-2025,12,2024-09-15,FK Levski 2005,Ludogorets,0.0,3.0,0.0
+2024-2025,12,2024-09-16,Lokomotiv Sofia,CSKA Sofia,0.0,3.0,0.0
+2024-2025,2,2024-09-18,Slavia Sofia,Ludogorets,0.0,1.0,0.0
+2024-2025,9,2024-09-19,Loko Plovdiv,CSKA 1948,0.0,2.0,0.0
+2024-2025,9,2024-09-20,PFC Hebar Pazardzhik,Septemvri Sofia,1.0,2.0,0.0
+2024-2025,9,2024-09-21,CSKA Sofia,Beroe,1.0,0.0,1.0
+2024-2025,9,2024-09-21,Ludogorets,Lokomotiv Sofia,2.0,0.0,1.0
+2024-2025,9,2024-09-22,Slavia Sofia,Levski Sofia,0.0,1.0,0.0
+2024-2025,9,2024-09-22,FC Spartak Varna,Cherno More,0.0,2.0,0.0
+2024-2025,9,2024-09-23,FK Levski 2005,Botev Vratsa,3.0,0.0,1.0
+2024-2025,9,2024-09-23,Arda,Botev Plovdiv,1.0,0.0,1.0
+2024-2025,3,2024-09-25,Septemvri Sofia,CSKA 1948,1.0,1.0,0.5
+2024-2025,10,2024-09-27,Lokomotiv Sofia,PFC Hebar Pazardzhik,0.0,0.0,0.5
+2024-2025,10,2024-09-27,Beroe,Slavia Sofia,1.0,0.0,1.0
+2024-2025,10,2024-09-28,Loko Plovdiv,FK Levski 2005,0.0,2.0,0.0
+2024-2025,10,2024-09-28,Cherno More,CSKA Sofia,0.0,0.0,0.5
+2024-2025,10,2024-09-29,CSKA 1948,Botev Plovdiv,0.0,1.0,0.0
+2024-2025,10,2024-09-29,Levski Sofia,Arda,2.0,1.0,1.0
+2024-2025,10,2024-09-29,Botev Vratsa,Ludogorets,0.0,2.0,0.0
+2024-2025,10,2024-09-30,Septemvri Sofia,FC Spartak Varna,0.0,1.0,0.0
+2024-2025,11,2024-10-04,FK Levski 2005,CSKA 1948,1.0,1.0,0.5
+2024-2025,11,2024-10-04,Arda,Beroe,1.0,1.0,0.5
+2024-2025,11,2024-10-04,Slavia Sofia,Cherno More,1.0,0.0,1.0
+2024-2025,11,2024-10-05,CSKA Sofia,Septemvri Sofia,0.0,1.0,0.0
+2024-2025,11,2024-10-05,Botev Plovdiv,Levski Sofia,1.0,0.0,1.0
+2024-2025,11,2024-10-06,PFC Hebar Pazardzhik,Botev Vratsa,1.0,1.0,0.5
+2024-2025,11,2024-10-06,FC Spartak Varna,Lokomotiv Sofia,3.0,2.0,1.0
+2024-2025,11,2024-10-06,Ludogorets,Loko Plovdiv,1.0,0.0,1.0
+2024-2025,8,2024-10-18,Beroe,FC Spartak Varna,3.0,0.0,1.0
+2024-2025,8,2024-10-18,Botev Vratsa,Loko Plovdiv,0.0,0.0,0.5
+2024-2025,8,2024-10-19,Lokomotiv Sofia,FK Levski 2005,0.0,0.0,0.5
+2024-2025,8,2024-10-19,Levski Sofia,CSKA Sofia,1.0,0.0,1.0
+2024-2025,8,2024-10-19,Botev Plovdiv,Slavia Sofia,1.0,0.0,1.0
+2024-2025,8,2024-10-20,Cherno More,PFC Hebar Pazardzhik,1.0,0.0,1.0
+2024-2025,8,2024-10-20,Septemvri Sofia,Ludogorets,0.0,2.0,0.0
+2024-2025,8,2024-10-21,CSKA 1948,Arda,1.0,2.0,0.0
+2024-2025,13,2024-10-23,FC Spartak Varna,Loko Plovdiv,1.0,0.0,1.0
+2024-2025,13,2024-10-24,Slavia Sofia,Lokomotiv Sofia,3.0,2.0,1.0
+2024-2025,13,2024-10-24,CSKA Sofia,Botev Vratsa,2.0,0.0,1.0
+2024-2025,13,2024-10-25,Arda,Septemvri Sofia,2.0,1.0,1.0
+2024-2025,13,2024-10-25,Botev Plovdiv,Cherno More,1.0,0.0,1.0
+2024-2025,13,2024-10-25,Levski Sofia,Beroe,0.0,2.0,0.0
+2024-2025,13,2024-10-26,PFC Hebar Pazardzhik,FK Levski 2005,0.0,0.0,0.5
+2024-2025,13,2024-10-28,Ludogorets,CSKA 1948,3.0,0.0,1.0
+2024-2025,14,2024-11-01,Botev Vratsa,Slavia Sofia,3.0,2.0,1.0
+2024-2025,14,2024-11-02,Lokomotiv Sofia,Arda,0.0,2.0,0.0
+2024-2025,14,2024-11-02,Loko Plovdiv,CSKA Sofia,2.0,2.0,0.5
+2024-2025,14,2024-11-02,FK Levski 2005,FC Spartak Varna,0.0,1.0,0.0
+2024-2025,14,2024-11-03,CSKA 1948,Beroe,1.0,1.0,0.5
+2024-2025,14,2024-11-03,Ludogorets,PFC Hebar Pazardzhik,3.0,0.0,1.0
+2024-2025,14,2024-11-03,Cherno More,Levski Sofia,2.0,1.0,1.0
+2024-2025,14,2024-11-04,Septemvri Sofia,Botev Plovdiv,1.0,0.0,1.0
+2024-2025,4,2024-11-07,CSKA 1948,CSKA Sofia,1.0,3.0,0.0
+2024-2025,15,2024-11-08,Arda,Botev Vratsa,2.0,0.0,1.0
+2024-2025,15,2024-11-08,Botev Plovdiv,Lokomotiv Sofia,2.0,0.0,1.0
+2024-2025,15,2024-11-09,Slavia Sofia,Loko Plovdiv,2.0,1.0,1.0
+2024-2025,15,2024-11-09,Beroe,Cherno More,0.0,1.0,0.0
+2024-2025,15,2024-11-09,Levski Sofia,Septemvri Sofia,2.0,3.0,0.0
+2024-2025,15,2024-11-10,PFC Hebar Pazardzhik,CSKA 1948,1.0,1.0,0.5
+2024-2025,15,2024-11-10,CSKA Sofia,FK Levski 2005,2.0,2.0,0.5
+2024-2025,15,2024-11-10,FC Spartak Varna,Ludogorets,1.0,3.0,0.0
+2024-2025,16,2024-11-22,FC Spartak Varna,PFC Hebar Pazardzhik,4.0,0.0,1.0
+2024-2025,16,2024-11-23,Arda,Loko Plovdiv,4.0,2.0,1.0
+2024-2025,16,2024-11-23,Botev Plovdiv,Botev Vratsa,3.0,1.0,1.0
+2024-2025,16,2024-11-23,Levski Sofia,Lokomotiv Sofia,2.0,0.0,1.0
+2024-2025,16,2024-11-24,Beroe,Septemvri Sofia,2.0,0.0,1.0
+2024-2025,16,2024-11-24,CSKA 1948,Cherno More,0.0,4.0,0.0
+2024-2025,16,2024-11-24,CSKA Sofia,Ludogorets,2.0,2.0,0.5
+2024-2025,16,2024-11-25,Slavia Sofia,FK Levski 2005,0.0,1.0,0.0
+2024-2025,17,2024-11-29,FC Spartak Varna,CSKA 1948,1.0,1.0,0.5
+2024-2025,17,2024-11-29,Septemvri Sofia,Cherno More,1.0,2.0,0.0
+2024-2025,17,2024-11-30,Lokomotiv Sofia,Beroe,2.0,1.0,1.0
+2024-2025,17,2024-11-30,Botev Vratsa,Levski Sofia,0.0,2.0,0.0
+2024-2025,17,2024-11-30,PFC Hebar Pazardzhik,CSKA Sofia,0.0,1.0,0.0
+2024-2025,17,2024-12-01,Loko Plovdiv,Botev Plovdiv,0.0,1.0,0.0
+2024-2025,17,2024-12-01,FK Levski 2005,Arda,0.0,0.0,0.5
+2024-2025,17,2024-12-01,Ludogorets,Slavia Sofia,2.0,0.0,1.0
+2024-2025,18,2024-12-03,CSKA 1948,Septemvri Sofia,2.0,0.0,1.0
+2024-2025,18,2024-12-03,Cherno More,Lokomotiv Sofia,4.0,0.0,1.0
+2024-2025,18,2024-12-03,CSKA Sofia,FC Spartak Varna,3.0,1.0,1.0
+2024-2025,18,2024-12-04,Beroe,Botev Vratsa,5.0,1.0,1.0
+2024-2025,18,2024-12-04,Arda,Ludogorets,0.0,4.0,0.0
+2024-2025,18,2024-12-04,Levski Sofia,Loko Plovdiv,2.0,1.0,1.0
+2024-2025,18,2024-12-05,Slavia Sofia,PFC Hebar Pazardzhik,3.0,2.0,1.0
+2024-2025,18,2024-12-05,Botev Plovdiv,FK Levski 2005,1.0,0.0,1.0
+2024-2025,19,2024-12-07,Loko Plovdiv,Beroe,1.0,2.0,0.0
+2024-2025,19,2024-12-07,Botev Vratsa,Cherno More,2.0,3.0,0.0
+2024-2025,19,2024-12-07,CSKA Sofia,CSKA 1948,2.0,2.0,0.5
+2024-2025,19,2024-12-08,Lokomotiv Sofia,Septemvri Sofia,1.0,2.0,0.0
+2024-2025,19,2024-12-08,FK Levski 2005,Levski Sofia,0.0,2.0,0.0
+2024-2025,19,2024-12-08,Ludogorets,Botev Plovdiv,3.0,0.0,1.0
+2024-2025,19,2024-12-09,PFC Hebar Pazardzhik,Arda,0.0,2.0,0.0
+2024-2025,19,2024-12-09,FC Spartak Varna,Slavia Sofia,1.0,3.0,0.0
+2024-2025,4,2024-12-19,Botev Plovdiv,Ludogorets,2.0,4.0,0.0
+2024-2025,20,2025-02-07,Arda,FC Spartak Varna,2.0,2.0,0.5
+2024-2025,20,2025-02-08,Septemvri Sofia,Botev Vratsa,2.0,2.0,0.5
+2024-2025,20,2025-02-08,Cherno More,Loko Plovdiv,1.0,2.0,0.0
+2024-2025,20,2025-02-08,Slavia Sofia,CSKA Sofia,1.0,0.0,1.0
+2024-2025,20,2025-02-09,CSKA 1948,Lokomotiv Sofia,1.0,4.0,0.0
+2024-2025,20,2025-02-09,Botev Plovdiv,PFC Hebar Pazardzhik,1.0,1.0,0.5
+2024-2025,20,2025-02-09,Levski Sofia,Ludogorets,2.0,1.0,1.0
+2024-2025,20,2025-02-10,Beroe,FK Levski 2005,0.0,0.0,0.5
+2024-2025,21,2025-02-14,Botev Vratsa,Lokomotiv Sofia,0.0,3.0,0.0
+2024-2025,21,2025-02-15,FK Levski 2005,Cherno More,1.0,1.0,0.5
+2024-2025,21,2025-02-15,FC Spartak Varna,Botev Plovdiv,1.0,0.0,1.0
+2024-2025,21,2025-02-15,PFC Hebar Pazardzhik,Levski Sofia,1.0,4.0,0.0
+2024-2025,21,2025-02-16,Loko Plovdiv,Septemvri Sofia,0.0,1.0,0.0
+2024-2025,21,2025-02-16,Ludogorets,Beroe,2.0,1.0,1.0
+2024-2025,21,2025-02-16,CSKA Sofia,Arda,2.0,0.0,1.0
+2024-2025,21,2025-02-17,Slavia Sofia,CSKA 1948,1.0,1.0,0.5
+2024-2025,22,2025-02-21,CSKA 1948,Botev Vratsa,1.0,0.0,1.0
+2024-2025,22,2025-02-21,Beroe,PFC Hebar Pazardzhik,2.0,1.0,1.0
+2024-2025,22,2025-02-21,Levski Sofia,FC Spartak Varna,2.0,0.0,1.0
+2024-2025,22,2025-02-22,Arda,Slavia Sofia,1.0,1.0,0.5
+2024-2025,22,2025-02-22,Botev Plovdiv,CSKA Sofia,0.0,3.0,0.0
+2024-2025,22,2025-02-22,Cherno More,Ludogorets,1.0,1.0,0.5
+2024-2025,22,2025-02-23,Lokomotiv Sofia,Loko Plovdiv,,,
+2024-2025,22,2025-02-24,Septemvri Sofia,FK Levski 2005,,,
+2024-2025,23,2025-03-01,FK Levski 2005,Lokomotiv Sofia,,,
+2024-2025,23,2025-03-01,Loko Plovdiv,Botev Vratsa,,,
+2024-2025,23,2025-03-01,FC Spartak Varna,Beroe,,,
+2024-2025,23,2025-03-02,CSKA Sofia,Levski Sofia,,,
+2024-2025,23,2025-03-02,PFC Hebar Pazardzhik,Cherno More,,,
+2024-2025,23,2025-03-03,Arda,CSKA 1948,,,
+2024-2025,23,2025-03-03,Slavia Sofia,Botev Plovdiv,,,
+2024-2025,23,2025-03-03,Ludogorets,Septemvri Sofia,,,
+2024-2025,24,2025-03-07,Botev Vratsa,FK Levski 2005,,,
+2024-2025,24,2025-03-08,CSKA 1948,Loko Plovdiv,,,
+2024-2025,24,2025-03-08,Beroe,CSKA Sofia,,,
+2024-2025,24,2025-03-08,Cherno More,FC Spartak Varna,,,
+2024-2025,24,2025-03-09,Botev Plovdiv,Arda,,,
+2024-2025,24,2025-03-09,Levski Sofia,Slavia Sofia,,,
+2024-2025,24,2025-03-09,Lokomotiv Sofia,Ludogorets,,,
+2024-2025,24,2025-03-10,Septemvri Sofia,PFC Hebar Pazardzhik,,,
+2024-2025,25,2025-03-14,Slavia Sofia,Beroe,,,
+2024-2025,25,2025-03-14,FK Levski 2005,Loko Plovdiv,,,
+2024-2025,25,2025-03-15,PFC Hebar Pazardzhik,Lokomotiv Sofia,,,
+2024-2025,25,2025-03-15,Ludogorets,Botev Vratsa,,,
+2024-2025,25,2025-03-15,CSKA Sofia,Cherno More,,,
+2024-2025,25,2025-03-16,FC Spartak Varna,Septemvri Sofia,,,
+2024-2025,25,2025-03-16,Botev Plovdiv,CSKA 1948,,,
+2024-2025,25,2025-03-16,Arda,Levski Sofia,,,
+2024-2025,26,2025-03-29,Lokomotiv Sofia,FC Spartak Varna,,,
+2024-2025,26,2025-03-29,Loko Plovdiv,Ludogorets,,,
+2024-2025,26,2025-03-29,Cherno More,Slavia Sofia,,,
+2024-2025,26,2025-03-29,Septemvri Sofia,CSKA Sofia,,,
+2024-2025,26,2025-03-29,CSKA 1948,FK Levski 2005,,,
+2024-2025,26,2025-03-29,Levski Sofia,Botev Plovdiv,,,
+2024-2025,26,2025-03-29,Beroe,Arda,,,
+2024-2025,26,2025-03-29,Botev Vratsa,PFC Hebar Pazardzhik,,,
+2024-2025,27,2025-04-02,FC Spartak Varna,Botev Vratsa,,,
+2024-2025,27,2025-04-02,Arda,Cherno More,,,
+2024-2025,27,2025-04-02,Botev Plovdiv,Beroe,,,
+2024-2025,27,2025-04-02,CSKA Sofia,Lokomotiv Sofia,,,
+2024-2025,27,2025-04-02,Levski Sofia,CSKA 1948,,,
+2024-2025,27,2025-04-02,PFC Hebar Pazardzhik,Loko Plovdiv,,,
+2024-2025,27,2025-04-02,Slavia Sofia,Septemvri Sofia,,,
+2024-2025,27,2025-04-02,Ludogorets,FK Levski 2005,,,
+2024-2025,28,2025-04-05,Beroe,Levski Sofia,,,
+2024-2025,28,2025-04-05,CSKA 1948,Ludogorets,,,
+2024-2025,28,2025-04-05,Septemvri Sofia,Arda,,,
+2024-2025,28,2025-04-05,Botev Vratsa,CSKA Sofia,,,
+2024-2025,28,2025-04-05,Lokomotiv Sofia,Slavia Sofia,,,
+2024-2025,28,2025-04-05,Loko Plovdiv,FC Spartak Varna,,,
+2024-2025,28,2025-04-05,Cherno More,Botev Plovdiv,,,
+2024-2025,28,2025-04-05,FK Levski 2005,PFC Hebar Pazardzhik,,,
+2024-2025,29,2025-04-12,CSKA Sofia,Loko Plovdiv,,,
+2024-2025,29,2025-04-12,Beroe,CSKA 1948,,,
+2024-2025,29,2025-04-12,PFC Hebar Pazardzhik,Ludogorets,,,
+2024-2025,29,2025-04-12,Botev Plovdiv,Septemvri Sofia,,,
+2024-2025,29,2025-04-12,FC Spartak Varna,FK Levski 2005,,,
+2024-2025,29,2025-04-12,Levski Sofia,Cherno More,,,
+2024-2025,29,2025-04-12,Slavia Sofia,Botev Vratsa,,,
+2024-2025,29,2025-04-12,Arda,Lokomotiv Sofia,,,
+2024-2025,30,2025-04-18,Loko Plovdiv,Slavia Sofia,,,
+2024-2025,30,2025-04-18,Botev Vratsa,Arda,,,
+2024-2025,30,2025-04-18,Septemvri Sofia,Levski Sofia,,,
+2024-2025,30,2025-04-18,Lokomotiv Sofia,Botev Plovdiv,,,
+2024-2025,30,2025-04-18,Ludogorets,FC Spartak Varna,,,
+2024-2025,30,2025-04-18,CSKA 1948,PFC Hebar Pazardzhik,,,
+2024-2025,30,2025-04-18,FK Levski 2005,CSKA Sofia,,,
+2024-2025,30,2025-04-18,Cherno More,Beroe,,,

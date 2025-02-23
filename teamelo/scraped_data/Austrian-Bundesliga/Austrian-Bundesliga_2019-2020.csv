@@ -1,0 +1,196 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,Regular season,1,2019-07-26,Rapid Wien,RB Salzburg,0,2,0.0
+2019-2020,Regular season,1,2019-07-27,WSG Tirol,Austria Wien,3,1,1.0
+2019-2020,Regular season,1,2019-07-27,Admira,Wolfsberger AC,0,3,0.0
+2019-2020,Regular season,1,2019-07-28,Sturm Graz,St. Pölten,3,0,1.0
+2019-2020,Regular season,1,2019-07-28,Mattersburg,Hartberg,2,1,1.0
+2019-2020,Regular season,1,2019-07-28,LASK,SCR Altach,2,0,1.0
+2019-2020,Regular season,2,2019-08-03,Hartberg,Admira,4,1,1.0
+2019-2020,Regular season,2,2019-08-03,SCR Altach,WSG Tirol,3,2,1.0
+2019-2020,Regular season,2,2019-08-03,Austria Wien,LASK,0,3,0.0
+2019-2020,Regular season,2,2019-08-04,RB Salzburg,Mattersburg,4,1,1.0
+2019-2020,Regular season,2,2019-08-04,St. Pölten,Rapid Wien,2,2,0.5
+2019-2020,Regular season,2,2019-08-04,Wolfsberger AC,Sturm Graz,0,1,0.0
+2019-2020,Regular season,3,2019-08-10,RB Salzburg,Wolfsberger AC,5,2,1.0
+2019-2020,Regular season,3,2019-08-10,Admira,LASK,0,1,0.0
+2019-2020,Regular season,3,2019-08-10,Rapid Wien,SCR Altach,2,1,1.0
+2019-2020,Regular season,3,2019-08-11,WSG Tirol,St. Pölten,1,1,0.5
+2019-2020,Regular season,3,2019-08-11,Mattersburg,Austria Wien,1,5,0.0
+2019-2020,Regular season,3,2019-08-11,Hartberg,Sturm Graz,1,0,1.0
+2019-2020,Regular season,4,2019-08-17,St. Pölten,RB Salzburg,0,6,0.0
+2019-2020,Regular season,4,2019-08-17,Wolfsberger AC,Mattersburg,5,0,1.0
+2019-2020,Regular season,4,2019-08-17,LASK,WSG Tirol,1,1,0.5
+2019-2020,Regular season,4,2019-08-18,SCR Altach,Hartberg,3,3,0.5
+2019-2020,Regular season,4,2019-08-18,Sturm Graz,Rapid Wien,0,1,0.0
+2019-2020,Regular season,4,2019-08-18,Austria Wien,Admira,1,1,0.5
+2019-2020,Regular season,5,2019-08-24,Rapid Wien,LASK,1,2,0.0
+2019-2020,Regular season,5,2019-08-24,Mattersburg,St. Pölten,0,1,0.0
+2019-2020,Regular season,5,2019-08-24,Wolfsberger AC,SCR Altach,5,2,1.0
+2019-2020,Regular season,5,2019-08-25,Hartberg,Austria Wien,2,2,0.5
+2019-2020,Regular season,5,2019-08-25,Sturm Graz,WSG Tirol,2,0,1.0
+2019-2020,Regular season,5,2019-08-25,RB Salzburg,Admira,5,0,1.0
+2019-2020,Regular season,6,2019-08-31,Admira,Mattersburg,1,3,0.0
+2019-2020,Regular season,6,2019-08-31,WSG Tirol,RB Salzburg,1,5,0.0
+2019-2020,Regular season,6,2019-08-31,LASK,Wolfsberger AC,0,1,0.0
+2019-2020,Regular season,6,2019-09-01,St. Pölten,Hartberg,1,3,0.0
+2019-2020,Regular season,6,2019-09-01,Austria Wien,Rapid Wien,1,3,0.0
+2019-2020,Regular season,6,2019-09-01,SCR Altach,Sturm Graz,1,2,0.0
+2019-2020,Regular season,7,2019-09-14,RB Salzburg,Hartberg,7,2,1.0
+2019-2020,Regular season,7,2019-09-14,Mattersburg,WSG Tirol,0,2,0.0
+2019-2020,Regular season,7,2019-09-14,Sturm Graz,LASK,0,2,0.0
+2019-2020,Regular season,7,2019-09-15,SCR Altach,St. Pölten,6,0,1.0
+2019-2020,Regular season,7,2019-09-15,Rapid Wien,Admira,5,0,1.0
+2019-2020,Regular season,7,2019-09-15,Wolfsberger AC,Austria Wien,3,0,1.0
+2019-2020,Regular season,8,2019-09-21,Admira,St. Pölten,1,1,0.5
+2019-2020,Regular season,8,2019-09-21,WSG Tirol,Rapid Wien,0,2,0.0
+2019-2020,Regular season,8,2019-09-21,Mattersburg,Sturm Graz,3,3,0.5
+2019-2020,Regular season,8,2019-09-22,Hartberg,Wolfsberger AC,0,2,0.0
+2019-2020,Regular season,8,2019-09-22,Austria Wien,SCR Altach,2,0,1.0
+2019-2020,Regular season,8,2019-09-22,LASK,RB Salzburg,2,2,0.5
+2019-2020,Regular season,9,2019-09-28,RB Salzburg,Austria Wien,4,1,1.0
+2019-2020,Regular season,9,2019-09-28,St. Pölten,LASK,0,3,0.0
+2019-2020,Regular season,9,2019-09-28,Wolfsberger AC,WSG Tirol,2,2,0.5
+2019-2020,Regular season,9,2019-09-29,SCR Altach,Mattersburg,0,2,0.0
+2019-2020,Regular season,9,2019-09-29,Sturm Graz,Admira,4,1,1.0
+2019-2020,Regular season,9,2019-09-29,Rapid Wien,Hartberg,3,3,0.5
+2019-2020,Regular season,10,2019-10-05,Mattersburg,Rapid Wien,2,3,0.0
+2019-2020,Regular season,10,2019-10-05,RB Salzburg,SCR Altach,6,0,1.0
+2019-2020,Regular season,10,2019-10-05,Admira,WSG Tirol,3,1,1.0
+2019-2020,Regular season,10,2019-10-06,Wolfsberger AC,St. Pölten,4,0,1.0
+2019-2020,Regular season,10,2019-10-06,Hartberg,LASK,1,2,0.0
+2019-2020,Regular season,10,2019-10-06,Austria Wien,Sturm Graz,1,0,1.0
+2019-2020,Regular season,11,2019-10-19,LASK,Mattersburg,7,2,1.0
+2019-2020,Regular season,11,2019-10-19,Sturm Graz,RB Salzburg,1,1,0.5
+2019-2020,Regular season,11,2019-10-19,SCR Altach,Admira,1,4,0.0
+2019-2020,Regular season,11,2019-10-20,St. Pölten,Austria Wien,2,2,0.5
+2019-2020,Regular season,11,2019-10-20,WSG Tirol,Hartberg,0,1,0.0
+2019-2020,Regular season,11,2019-10-20,Rapid Wien,Wolfsberger AC,1,1,0.5
+2019-2020,Regular season,12,2019-10-26,Austria Wien,WSG Tirol,2,3,0.0
+2019-2020,Regular season,12,2019-10-26,Hartberg,Mattersburg,3,1,1.0
+2019-2020,Regular season,12,2019-10-26,St. Pölten,Sturm Graz,0,4,0.0
+2019-2020,Regular season,12,2019-10-27,SCR Altach,LASK,0,1,0.0
+2019-2020,Regular season,12,2019-10-27,Wolfsberger AC,Admira,2,2,0.5
+2019-2020,Regular season,12,2019-10-27,RB Salzburg,Rapid Wien,3,2,1.0
+2019-2020,Regular season,13,2019-11-02,Sturm Graz,Wolfsberger AC,0,4,0.0
+2019-2020,Regular season,13,2019-11-02,Rapid Wien,St. Pölten,0,1,0.0
+2019-2020,Regular season,13,2019-11-02,Mattersburg,RB Salzburg,0,3,0.0
+2019-2020,Regular season,13,2019-11-03,WSG Tirol,SCR Altach,0,4,0.0
+2019-2020,Regular season,13,2019-11-03,Admira,Hartberg,0,1,0.0
+2019-2020,Regular season,13,2019-11-03,LASK,Austria Wien,2,0,1.0
+2019-2020,Regular season,14,2019-11-09,SCR Altach,Rapid Wien,0,3,0.0
+2019-2020,Regular season,14,2019-11-09,Sturm Graz,Hartberg,3,1,1.0
+2019-2020,Regular season,14,2019-11-09,St. Pölten,WSG Tirol,5,1,1.0
+2019-2020,Regular season,14,2019-11-10,LASK,Admira,1,0,1.0
+2019-2020,Regular season,14,2019-11-10,Austria Wien,Mattersburg,2,1,1.0
+2019-2020,Regular season,14,2019-11-10,Wolfsberger AC,RB Salzburg,0,3,0.0
+2019-2020,Regular season,15,2019-11-23,RB Salzburg,St. Pölten,2,2,0.5
+2019-2020,Regular season,15,2019-11-23,Mattersburg,Wolfsberger AC,1,4,0.0
+2019-2020,Regular season,15,2019-11-23,WSG Tirol,LASK,0,2,0.0
+2019-2020,Regular season,15,2019-11-24,Admira,Austria Wien,0,0,0.5
+2019-2020,Regular season,15,2019-11-24,Hartberg,SCR Altach,2,1,1.0
+2019-2020,Regular season,15,2019-11-24,Rapid Wien,Sturm Graz,1,1,0.5
+2019-2020,Regular season,16,2019-11-30,St. Pölten,Mattersburg,0,0,0.5
+2019-2020,Regular season,16,2019-11-30,WSG Tirol,Sturm Graz,1,5,0.0
+2019-2020,Regular season,16,2019-11-30,Austria Wien,Hartberg,5,0,1.0
+2019-2020,Regular season,16,2019-12-01,SCR Altach,Wolfsberger AC,2,1,1.0
+2019-2020,Regular season,16,2019-12-01,Admira,RB Salzburg,1,1,0.5
+2019-2020,Regular season,16,2019-12-01,LASK,Rapid Wien,0,4,0.0
+2019-2020,Regular season,17,2019-12-07,RB Salzburg,WSG Tirol,5,1,1.0
+2019-2020,Regular season,17,2019-12-07,Hartberg,St. Pölten,3,2,1.0
+2019-2020,Regular season,17,2019-12-07,Wolfsberger AC,LASK,1,3,0.0
+2019-2020,Regular season,17,2019-12-08,Sturm Graz,SCR Altach,1,2,0.0
+2019-2020,Regular season,17,2019-12-08,Mattersburg,Admira,1,2,0.0
+2019-2020,Regular season,17,2019-12-08,Rapid Wien,Austria Wien,2,2,0.5
+2019-2020,Regular season,18,2019-12-14,Admira,Rapid Wien,0,3,0.0
+2019-2020,Regular season,18,2019-12-14,Hartberg,RB Salzburg,2,2,0.5
+2019-2020,Regular season,18,2019-12-14,St. Pölten,SCR Altach,0,3,0.0
+2019-2020,Regular season,18,2019-12-15,Austria Wien,Wolfsberger AC,1,1,0.5
+2019-2020,Regular season,18,2019-12-15,WSG Tirol,Mattersburg,1,3,0.0
+2019-2020,Regular season,18,2019-12-15,LASK,Sturm Graz,3,3,0.5
+2019-2020,Regular season,19,2020-02-14,RB Salzburg,LASK,2,3,0.0
+2019-2020,Regular season,19,2020-02-15,SCR Altach,Austria Wien,2,2,0.5
+2019-2020,Regular season,19,2020-02-15,Wolfsberger AC,Hartberg,3,0,1.0
+2019-2020,Regular season,19,2020-02-16,Sturm Graz,Mattersburg,1,2,0.0
+2019-2020,Regular season,19,2020-02-16,St. Pölten,Admira,2,2,0.5
+2019-2020,Regular season,19,2020-02-16,Rapid Wien,WSG Tirol,2,0,1.0
+2019-2020,Regular season,20,2020-02-22,Mattersburg,SCR Altach,0,0,0.5
+2019-2020,Regular season,20,2020-02-22,WSG Tirol,Wolfsberger AC,2,0,1.0
+2019-2020,Regular season,20,2020-02-22,Admira,Sturm Graz,0,2,0.0
+2019-2020,Regular season,20,2020-02-23,LASK,St. Pölten,4,1,1.0
+2019-2020,Regular season,20,2020-02-23,Hartberg,Rapid Wien,2,2,0.5
+2019-2020,Regular season,20,2020-02-23,Austria Wien,RB Salzburg,2,2,0.5
+2019-2020,Regular season,21,2020-03-01,Rapid Wien,Mattersburg,3,1,1.0
+2019-2020,Regular season,21,2020-03-01,LASK,Hartberg,5,1,1.0
+2019-2020,Regular season,21,2020-03-01,WSG Tirol,Admira,1,1,0.5
+2019-2020,Regular season,21,2020-03-01,Sturm Graz,Austria Wien,1,1,0.5
+2019-2020,Regular season,21,2020-03-01,St. Pölten,Wolfsberger AC,0,4,0.0
+2019-2020,Regular season,21,2020-03-02,SCR Altach,RB Salzburg,3,2,1.0
+2019-2020,Regular season,22,2020-03-07,Wolfsberger AC,Rapid Wien,2,2,0.5
+2019-2020,Regular season,22,2020-03-07,Austria Wien,St. Pölten,0,0,0.5
+2019-2020,Regular season,22,2020-03-07,Hartberg,WSG Tirol,0,3,0.0
+2019-2020,Regular season,22,2020-03-07,Admira,SCR Altach,2,0,1.0
+2019-2020,Regular season,22,2020-03-08,Mattersburg,LASK,0,1,0.0
+2019-2020,Regular season,22,2020-03-08,RB Salzburg,Sturm Graz,2,0,1.0
+2019-2020,Relegation round,1,2020-06-02,WSG Tirol,St. Pölten,0,5,0.0
+2019-2020,Relegation round,1,2020-06-02,Mattersburg,SCR Altach,1,1,0.5
+2019-2020,Relegation round,1,2020-06-02,Austria Wien,Admira,1,0,1.0
+2019-2020,Championship round,1,2020-06-03,LASK,Hartberg,1,2,0.0
+2019-2020,Championship round,1,2020-06-03,Sturm Graz,Wolfsberger AC,1,2,0.0
+2019-2020,Championship round,1,2020-06-03,RB Salzburg,Rapid Wien,2,0,1.0
+2019-2020,Relegation round,2,2020-06-06,St. Pölten,Austria Wien,1,1,0.5
+2019-2020,Relegation round,2,2020-06-06,SCR Altach,WSG Tirol,1,1,0.5
+2019-2020,Relegation round,2,2020-06-06,Admira,Mattersburg,0,2,0.0
+2019-2020,Championship round,2,2020-06-07,Hartberg,RB Salzburg,0,6,0.0
+2019-2020,Championship round,2,2020-06-07,Wolfsberger AC,LASK,3,3,0.5
+2019-2020,Championship round,2,2020-06-07,Rapid Wien,Sturm Graz,4,0,1.0
+2019-2020,Relegation round,3,2020-06-09,St. Pölten,Admira,0,3,0.0
+2019-2020,Relegation round,3,2020-06-09,WSG Tirol,Mattersburg,1,1,0.5
+2019-2020,Relegation round,3,2020-06-09,Austria Wien,SCR Altach,0,2,0.0
+2019-2020,Championship round,3,2020-06-10,Wolfsberger AC,Hartberg,2,4,0.0
+2019-2020,Championship round,3,2020-06-10,LASK,Rapid Wien,0,1,0.0
+2019-2020,Championship round,3,2020-06-10,Sturm Graz,RB Salzburg,1,5,0.0
+2019-2020,Relegation round,4,2020-06-13,SCR Altach,St. Pölten,2,0,1.0
+2019-2020,Relegation round,4,2020-06-13,Mattersburg,Austria Wien,1,4,0.0
+2019-2020,Relegation round,4,2020-06-13,Admira,WSG Tirol,0,3,0.0
+2019-2020,Championship round,4,2020-06-14,Hartberg,Sturm Graz,1,2,0.0
+2019-2020,Championship round,4,2020-06-14,Rapid Wien,Wolfsberger AC,2,1,1.0
+2019-2020,Championship round,4,2020-06-14,RB Salzburg,LASK,3,1,1.0
+2019-2020,Relegation round,5,2020-06-16,Admira,SCR Altach,1,1,0.5
+2019-2020,Relegation round,5,2020-06-16,St. Pölten,Mattersburg,1,0,1.0
+2019-2020,Relegation round,5,2020-06-16,Austria Wien,WSG Tirol,1,0,1.0
+2019-2020,Championship round,5,2020-06-17,Hartberg,Rapid Wien,0,1,0.0
+2019-2020,Championship round,5,2020-06-17,Wolfsberger AC,RB Salzburg,0,0,0.5
+2019-2020,Championship round,5,2020-06-17,LASK,Sturm Graz,4,0,1.0
+2019-2020,Relegation round,6,2020-06-20,SCR Altach,Admira,1,1,0.5
+2019-2020,Relegation round,6,2020-06-20,Mattersburg,St. Pölten,2,0,1.0
+2019-2020,Relegation round,6,2020-06-20,WSG Tirol,Austria Wien,1,2,0.0
+2019-2020,Championship round,6,2020-06-21,Rapid Wien,Hartberg,0,1,0.0
+2019-2020,Championship round,6,2020-06-21,RB Salzburg,Wolfsberger AC,2,2,0.5
+2019-2020,Championship round,6,2020-06-21,Sturm Graz,LASK,0,2,0.0
+2019-2020,Relegation round,7,2020-06-23,Admira,Austria Wien,0,2,0.0
+2019-2020,Relegation round,7,2020-06-23,SCR Altach,Mattersburg,1,1,0.5
+2019-2020,Relegation round,7,2020-06-23,St. Pölten,WSG Tirol,1,1,0.5
+2019-2020,Championship round,7,2020-06-24,Hartberg,LASK,1,5,0.0
+2019-2020,Championship round,7,2020-06-24,Wolfsberger AC,Sturm Graz,2,0,1.0
+2019-2020,Championship round,7,2020-06-24,Rapid Wien,RB Salzburg,2,7,0.0
+2019-2020,Relegation round,8,2020-06-27,Mattersburg,Admira,1,2,0.0
+2019-2020,Relegation round,8,2020-06-27,Austria Wien,St. Pölten,2,5,0.0
+2019-2020,Relegation round,8,2020-06-27,WSG Tirol,SCR Altach,0,1,0.0
+2019-2020,Championship round,8,2020-06-28,LASK,Wolfsberger AC,0,1,0.0
+2019-2020,Championship round,8,2020-06-28,RB Salzburg,Hartberg,3,0,1.0
+2019-2020,Championship round,8,2020-06-28,Sturm Graz,Rapid Wien,2,3,0.0
+2019-2020,Relegation round,9,2020-06-30,Mattersburg,WSG Tirol,4,1,1.0
+2019-2020,Relegation round,9,2020-06-30,SCR Altach,Austria Wien,1,2,0.0
+2019-2020,Relegation round,9,2020-06-30,Admira,St. Pölten,0,3,0.0
+2019-2020,Championship round,9,2020-07-01,Rapid Wien,LASK,3,1,1.0
+2019-2020,Championship round,9,2020-07-01,RB Salzburg,Sturm Graz,5,2,1.0
+2019-2020,Championship round,9,2020-07-01,Hartberg,Wolfsberger AC,3,3,0.5
+2019-2020,Relegation round,10,2020-07-04,Austria Wien,Mattersburg,1,0,1.0
+2019-2020,Relegation round,10,2020-07-04,WSG Tirol,Admira,0,0,0.5
+2019-2020,Relegation round,10,2020-07-04,St. Pölten,SCR Altach,2,0,1.0
+2019-2020,Championship round,10,2020-07-05,LASK,RB Salzburg,0,3,0.0
+2019-2020,Championship round,10,2020-07-05,Sturm Graz,Hartberg,1,4,0.0
+2019-2020,Championship round,10,2020-07-05,Wolfsberger AC,Rapid Wien,3,1,1.0
+2019-2020,Semi-final,,2020-07-08,Austria Wien,SCR Altach,1,0,1.0
+2019-2020,Finals,,2020-07-11,Austria Wien,Hartberg,2,3,0.0
+2019-2020,Finals,,2020-07-15,Hartberg,Austria Wien,0,0,0.5

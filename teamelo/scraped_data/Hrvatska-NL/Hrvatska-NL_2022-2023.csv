@@ -1,0 +1,181 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022-2023,1,2022-07-15,Dinamo Zagreb,Lokomotiva,3,2,1.0
+2022-2023,1,2022-07-16,Osijek,Gorica,2,1,1.0
+2022-2023,1,2022-07-16,Šibenik,Rijeka,0,1,0.0
+2022-2023,1,2022-07-17,Varaždin,Slaven Belupo,0,1,0.0
+2022-2023,1,2022-07-17,Istra 1961,Hajduk Split,0,2,0.0
+2022-2023,2,2022-07-22,Istra 1961,Varaždin,1,2,0.0
+2022-2023,2,2022-07-23,Gorica,Šibenik,0,0,0.5
+2022-2023,2,2022-07-23,Slaven Belupo,Dinamo Zagreb,1,5,0.0
+2022-2023,2,2022-07-24,Lokomotiva,Osijek,2,1,1.0
+2022-2023,3,2022-07-29,Šibenik,Lokomotiva,2,1,1.0
+2022-2023,3,2022-07-29,Dinamo Zagreb,Istra 1961,4,1,1.0
+2022-2023,3,2022-07-30,Varaždin,Hajduk Split,0,2,0.0
+2022-2023,3,2022-07-31,Osijek,Slaven Belupo,0,0,0.5
+2022-2023,3,2022-07-31,Rijeka,Gorica,1,1,0.5
+2022-2023,4,2022-08-05,Varaždin,Dinamo Zagreb,1,1,0.5
+2022-2023,4,2022-08-06,Slaven Belupo,Šibenik,0,0,0.5
+2022-2023,4,2022-08-06,Istra 1961,Osijek,1,0,1.0
+2022-2023,4,2022-08-07,Lokomotiva,Rijeka,3,1,1.0
+2022-2023,5,2022-08-12,Šibenik,Istra 1961,0,0,0.5
+2022-2023,5,2022-08-13,Gorica,Lokomotiva,3,2,1.0
+2022-2023,5,2022-08-13,Dinamo Zagreb,Hajduk Split,4,1,1.0
+2022-2023,5,2022-08-14,Osijek,Varaždin,2,2,0.5
+2022-2023,5,2022-08-14,Rijeka,Slaven Belupo,0,1,0.0
+2022-2023,6,2022-08-19,Slaven Belupo,Gorica,2,1,1.0
+2022-2023,6,2022-08-20,Varaždin,Šibenik,2,2,0.5
+2022-2023,6,2022-08-20,Dinamo Zagreb,Osijek,5,2,1.0
+2022-2023,6,2022-08-21,Istra 1961,Rijeka,1,1,0.5
+2022-2023,6,2022-08-21,Hajduk Split,Lokomotiva,2,1,1.0
+2022-2023,7,2022-08-26,Gorica,Istra 1961,0,2,0.0
+2022-2023,7,2022-08-27,Lokomotiva,Slaven Belupo,0,1,0.0
+2022-2023,7,2022-08-27,Rijeka,Varaždin,1,2,0.0
+2022-2023,7,2022-08-28,Šibenik,Dinamo Zagreb,1,2,0.0
+2022-2023,7,2022-08-28,Osijek,Hajduk Split,2,1,1.0
+2022-2023,8,2022-09-02,Dinamo Zagreb,Rijeka,3,1,1.0
+2022-2023,8,2022-09-03,Varaždin,Gorica,2,1,1.0
+2022-2023,8,2022-09-03,Osijek,Šibenik,1,1,0.5
+2022-2023,8,2022-09-04,Istra 1961,Lokomotiva,1,2,0.0
+2022-2023,8,2022-09-04,Hajduk Split,Slaven Belupo,5,1,1.0
+2022-2023,9,2022-09-09,Šibenik,Hajduk Split,1,1,0.5
+2022-2023,9,2022-09-10,Rijeka,Osijek,0,3,0.0
+2022-2023,9,2022-09-10,Gorica,Dinamo Zagreb,0,1,0.0
+2022-2023,9,2022-09-11,Slaven Belupo,Istra 1961,0,3,0.0
+2022-2023,9,2022-09-11,Lokomotiva,Varaždin,1,2,0.0
+2022-2023,2,2022-09-14,Hajduk Split,Rijeka,2,0,1.0
+2022-2023,10,2022-09-16,Slaven Belupo,Varaždin,1,0,1.0
+2022-2023,10,2022-09-17,Gorica,Osijek,0,1,0.0
+2022-2023,10,2022-09-17,Hajduk Split,Istra 1961,2,2,0.5
+2022-2023,10,2022-09-18,Rijeka,Šibenik,0,0,0.5
+2022-2023,10,2022-09-18,Lokomotiva,Dinamo Zagreb,1,2,0.0
+2022-2023,11,2022-09-30,Varaždin,Istra 1961,1,1,0.5
+2022-2023,11,2022-10-01,Osijek,Lokomotiva,4,1,1.0
+2022-2023,11,2022-10-01,Dinamo Zagreb,Slaven Belupo,4,1,1.0
+2022-2023,11,2022-10-02,Rijeka,Hajduk Split,0,1,0.0
+2022-2023,11,2022-10-02,Šibenik,Gorica,1,1,0.5
+2022-2023,12,2022-10-07,Lokomotiva,Šibenik,1,1,0.5
+2022-2023,12,2022-10-08,Hajduk Split,Varaždin,2,1,1.0
+2022-2023,12,2022-10-09,Slaven Belupo,Osijek,0,4,0.0
+2022-2023,12,2022-10-09,Gorica,Rijeka,0,2,0.0
+2022-2023,13,2022-10-14,Šibenik,Slaven Belupo,0,2,0.0
+2022-2023,13,2022-10-15,Osijek,Istra 1961,2,0,1.0
+2022-2023,13,2022-10-15,Gorica,Hajduk Split,0,1,0.0
+2022-2023,13,2022-10-16,Dinamo Zagreb,Varaždin,3,1,1.0
+2022-2023,13,2022-10-16,Rijeka,Lokomotiva,3,0,1.0
+2022-2023,14,2022-10-21,Hajduk Split,Dinamo Zagreb,1,1,0.5
+2022-2023,14,2022-10-22,Lokomotiva,Gorica,2,1,1.0
+2022-2023,14,2022-10-22,Varaždin,Osijek,4,1,1.0
+2022-2023,14,2022-10-23,Istra 1961,Šibenik,0,0,0.5
+2022-2023,14,2022-10-23,Slaven Belupo,Rijeka,2,1,1.0
+2022-2023,4,2022-10-26,Hajduk Split,Gorica,3,1,1.0
+2022-2023,15,2022-10-28,Šibenik,Varaždin,1,2,0.0
+2022-2023,15,2022-10-29,Rijeka,Istra 1961,0,1,0.0
+2022-2023,15,2022-10-29,Osijek,Dinamo Zagreb,1,0,1.0
+2022-2023,15,2022-10-30,Lokomotiva,Hajduk Split,2,2,0.5
+2022-2023,15,2022-10-31,Gorica,Slaven Belupo,1,1,0.5
+2022-2023,16,2022-11-04,Istra 1961,Gorica,1,0,1.0
+2022-2023,16,2022-11-05,Slaven Belupo,Lokomotiva,0,0,0.5
+2022-2023,16,2022-11-05,Hajduk Split,Osijek,3,1,1.0
+2022-2023,16,2022-11-06,Varaždin,Rijeka,0,3,0.0
+2022-2023,16,2022-11-06,Dinamo Zagreb,Šibenik,3,0,1.0
+2022-2023,17,2022-11-12,Lokomotiva,Istra 1961,2,0,1.0
+2022-2023,17,2022-11-12,Slaven Belupo,Hajduk Split,2,2,0.5
+2022-2023,17,2022-11-13,Šibenik,Osijek,0,2,0.0
+2022-2023,17,2022-11-13,Rijeka,Dinamo Zagreb,2,7,0.0
+2022-2023,17,2023-01-18,Gorica,Varaždin,0,0,0.5
+2022-2023,18,2023-01-20,Istra 1961,Slaven Belupo,0,0,0.5
+2022-2023,18,2023-01-21,Osijek,Rijeka,1,1,0.5
+2022-2023,18,2023-01-21,Dinamo Zagreb,Gorica,0,0,0.5
+2022-2023,18,2023-01-22,Hajduk Split,Šibenik,2,1,1.0
+2022-2023,18,2023-01-22,Varaždin,Lokomotiva,0,0,0.5
+2022-2023,19,2023-01-27,Varaždin,Slaven Belupo,1,0,1.0
+2022-2023,19,2023-01-28,Šibenik,Rijeka,1,2,0.0
+2022-2023,19,2023-01-28,Dinamo Zagreb,Lokomotiva,2,1,1.0
+2022-2023,19,2023-01-29,Osijek,Gorica,2,0,1.0
+2022-2023,19,2023-01-29,Istra 1961,Hajduk Split,3,0,1.0
+2022-2023,20,2023-02-03,Istra 1961,Varaždin,2,1,1.0
+2022-2023,20,2023-02-04,Lokomotiva,Osijek,1,0,1.0
+2022-2023,20,2023-02-04,Slaven Belupo,Dinamo Zagreb,1,1,0.5
+2022-2023,20,2023-02-05,Gorica,Šibenik,0,3,0.0
+2022-2023,20,2023-02-05,Hajduk Split,Rijeka,1,2,0.0
+2022-2023,21,2023-02-10,Dinamo Zagreb,Istra 1961,1,0,1.0
+2022-2023,21,2023-02-11,Varaždin,Hajduk Split,1,4,0.0
+2022-2023,21,2023-02-11,Osijek,Slaven Belupo,0,0,0.5
+2022-2023,21,2023-02-12,Šibenik,Lokomotiva,0,4,0.0
+2022-2023,21,2023-02-12,Rijeka,Gorica,2,0,1.0
+2022-2023,22,2023-02-17,Slaven Belupo,Šibenik,0,1,0.0
+2022-2023,22,2023-02-18,Istra 1961,Osijek,1,0,1.0
+2022-2023,22,2023-02-18,Lokomotiva,Rijeka,1,2,0.0
+2022-2023,22,2023-02-19,Varaždin,Dinamo Zagreb,1,3,0.0
+2022-2023,22,2023-02-19,Hajduk Split,Gorica,2,1,1.0
+2022-2023,23,2023-02-24,Šibenik,Istra 1961,0,0,0.5
+2022-2023,23,2023-02-25,Gorica,Lokomotiva,1,0,1.0
+2022-2023,23,2023-02-25,Rijeka,Slaven Belupo,0,1,0.0
+2022-2023,23,2023-02-26,Dinamo Zagreb,Hajduk Split,4,0,1.0
+2022-2023,23,2023-02-26,Osijek,Varaždin,0,1,0.0
+2022-2023,24,2023-03-03,Istra 1961,Rijeka,0,2,0.0
+2022-2023,24,2023-03-04,Varaždin,Šibenik,2,0,1.0
+2022-2023,24,2023-03-04,Slaven Belupo,Gorica,1,1,0.5
+2022-2023,24,2023-03-05,Hajduk Split,Lokomotiva,3,4,0.0
+2022-2023,24,2023-03-05,Dinamo Zagreb,Osijek,1,1,0.5
+2022-2023,25,2023-03-10,Gorica,Istra 1961,5,4,1.0
+2022-2023,25,2023-03-11,Lokomotiva,Slaven Belupo,1,0,1.0
+2022-2023,25,2023-03-11,Šibenik,Dinamo Zagreb,2,1,1.0
+2022-2023,25,2023-03-12,Rijeka,Varaždin,3,1,1.0
+2022-2023,25,2023-03-12,Osijek,Hajduk Split,0,2,0.0
+2022-2023,12,2023-03-15,Istra 1961,Dinamo Zagreb,1,0,1.0
+2022-2023,26,2023-03-17,Varaždin,Gorica,2,1,1.0
+2022-2023,26,2023-03-18,Osijek,Šibenik,0,0,0.5
+2022-2023,26,2023-03-18,Hajduk Split,Slaven Belupo,1,0,1.0
+2022-2023,26,2023-03-19,Istra 1961,Lokomotiva,0,0,0.5
+2022-2023,26,2023-03-19,Dinamo Zagreb,Rijeka,1,0,1.0
+2022-2023,27,2023-03-31,Slaven Belupo,Istra 1961,2,0,1.0
+2022-2023,27,2023-04-01,Gorica,Dinamo Zagreb,1,1,0.5
+2022-2023,27,2023-04-01,Šibenik,Hajduk Split,2,3,0.0
+2022-2023,27,2023-04-02,Rijeka,Osijek,1,1,0.5
+2022-2023,27,2023-04-02,Lokomotiva,Varaždin,1,1,0.5
+2022-2023,28,2023-04-07,Slaven Belupo,Varaždin,1,1,0.5
+2022-2023,28,2023-04-07,Hajduk Split,Istra 1961,2,2,0.5
+2022-2023,28,2023-04-08,Gorica,Osijek,2,0,1.0
+2022-2023,28,2023-04-08,Lokomotiva,Dinamo Zagreb,1,2,0.0
+2022-2023,28,2023-04-08,Rijeka,Šibenik,1,0,1.0
+2022-2023,29,2023-04-14,Šibenik,Gorica,0,4,0.0
+2022-2023,29,2023-04-15,Osijek,Lokomotiva,2,2,0.5
+2022-2023,29,2023-04-15,Dinamo Zagreb,Slaven Belupo,4,0,1.0
+2022-2023,29,2023-04-16,Varaždin,Istra 1961,0,0,0.5
+2022-2023,29,2023-04-16,Rijeka,Hajduk Split,2,0,1.0
+2022-2023,30,2023-04-21,Lokomotiva,Šibenik,1,0,1.0
+2022-2023,30,2023-04-21,Slaven Belupo,Osijek,2,1,1.0
+2022-2023,30,2023-04-22,Istra 1961,Dinamo Zagreb,0,0,0.5
+2022-2023,30,2023-04-22,Hajduk Split,Varaždin,2,0,1.0
+2022-2023,30,2023-04-23,Gorica,Rijeka,1,0,1.0
+2022-2023,31,2023-04-25,Šibenik,Slaven Belupo,3,1,1.0
+2022-2023,31,2023-04-26,Osijek,Istra 1961,1,0,1.0
+2022-2023,31,2023-04-26,Dinamo Zagreb,Varaždin,2,0,1.0
+2022-2023,31,2023-04-26,Gorica,Hajduk Split,0,0,0.5
+2022-2023,31,2023-04-27,Rijeka,Lokomotiva,2,0,1.0
+2022-2023,32,2023-04-29,Istra 1961,Šibenik,3,0,1.0
+2022-2023,32,2023-04-30,Varaždin,Osijek,1,3,0.0
+2022-2023,32,2023-04-30,Hajduk Split,Dinamo Zagreb,0,0,0.5
+2022-2023,32,2023-05-01,Lokomotiva,Gorica,2,2,0.5
+2022-2023,32,2023-05-01,Slaven Belupo,Rijeka,1,3,0.0
+2022-2023,33,2023-05-05,Šibenik,Varaždin,0,2,0.0
+2022-2023,33,2023-05-06,Gorica,Slaven Belupo,0,0,0.5
+2022-2023,33,2023-05-06,Rijeka,Istra 1961,2,2,0.5
+2022-2023,33,2023-05-07,Osijek,Dinamo Zagreb,0,0,0.5
+2022-2023,33,2023-05-07,Lokomotiva,Hajduk Split,0,3,0.0
+2022-2023,34,2023-05-12,Slaven Belupo,Lokomotiva,0,0,0.5
+2022-2023,34,2023-05-13,Hajduk Split,Osijek,3,0,1.0
+2022-2023,34,2023-05-13,Istra 1961,Gorica,1,0,1.0
+2022-2023,34,2023-05-14,Varaždin,Rijeka,2,0,1.0
+2022-2023,34,2023-05-14,Dinamo Zagreb,Šibenik,4,0,1.0
+2022-2023,35,2023-05-19,Slaven Belupo,Hajduk Split,0,1,0.0
+2022-2023,35,2023-05-19,Šibenik,Osijek,1,4,0.0
+2022-2023,35,2023-05-20,Gorica,Varaždin,5,2,1.0
+2022-2023,35,2023-05-21,Lokomotiva,Istra 1961,3,1,1.0
+2022-2023,35,2023-05-21,Rijeka,Dinamo Zagreb,1,2,0.0
+2022-2023,36,2023-05-26,Varaždin,Lokomotiva,0,0,0.5
+2022-2023,36,2023-05-27,Istra 1961,Slaven Belupo,1,1,0.5
+2022-2023,36,2023-05-27,Osijek,Rijeka,1,1,0.5
+2022-2023,36,2023-05-28,Hajduk Split,Šibenik,3,0,1.0
+2022-2023,36,2023-05-28,Dinamo Zagreb,Gorica,4,1,1.0

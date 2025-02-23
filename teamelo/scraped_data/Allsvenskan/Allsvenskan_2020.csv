@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020,1,2020-06-14,Sirius,Djurgården,0,2,0.0
+2020,1,2020-06-14,Norrköping,Kalmar,2,1,1.0
+2020,1,2020-06-14,Göteborg,Elfsborg,0,1,0.0
+2020,1,2020-06-14,Hammarby,Östersund,2,0,1.0
+2020,1,2020-06-14,Örebro,AIK Stockholm,0,2,0.0
+2020,1,2020-06-15,Falkenberg,Häcken,1,1,0.5
+2020,1,2020-06-15,Malmö,Mjällby,2,0,1.0
+2020,1,2020-06-15,Helsingborg,Varberg,0,3,0.0
+2020,2,2020-06-17,Djurgården,Örebro,1,2,0.0
+2020,2,2020-06-17,AIK Stockholm,Norrköping,1,4,0.0
+2020,2,2020-06-17,Elfsborg,Hammarby,2,2,0.5
+2020,2,2020-06-18,Häcken,Malmö,1,1,0.5
+2020,2,2020-06-18,Östersund,Sirius,0,2,0.0
+2020,2,2020-06-18,Mjällby,Falkenberg,0,1,0.0
+2020,2,2020-06-18,Kalmar,Helsingborg,4,0,1.0
+2020,2,2020-06-18,Varberg,Göteborg,1,2,0.0
+2020,3,2020-06-21,Norrköping,Djurgården,3,0,1.0
+2020,3,2020-06-21,Falkenberg,Kalmar,0,2,0.0
+2020,3,2020-06-21,Malmö,Varberg,2,2,0.5
+2020,3,2020-06-21,Örebro,Östersund,0,0,0.5
+2020,3,2020-06-21,Hammarby,AIK Stockholm,0,2,0.0
+2020,3,2020-06-22,Göteborg,Mjällby,2,2,0.5
+2020,3,2020-06-22,Helsingborg,Elfsborg,0,0,0.5
+2020,3,2020-06-22,Sirius,Häcken,2,2,0.5
+2020,4,2020-06-27,Östersund,Norrköping,2,4,0.0
+2020,4,2020-06-28,Djurgården,Kalmar,5,0,1.0
+2020,4,2020-06-28,Sirius,Göteborg,2,2,0.5
+2020,4,2020-06-28,Mjällby,Hammarby,2,1,1.0
+2020,4,2020-06-28,AIK Stockholm,Malmö,2,2,0.5
+2020,4,2020-06-28,Elfsborg,Örebro,1,1,0.5
+2020,4,2020-06-29,Häcken,Helsingborg,1,0,1.0
+2020,4,2020-06-29,Varberg,Falkenberg,3,1,1.0
+2020,5,2020-07-01,Kalmar,Östersund,1,2,0.0
+2020,5,2020-07-01,Malmö,Djurgården,1,0,1.0
+2020,5,2020-07-01,Norrköping,Elfsborg,1,1,0.5
+2020,5,2020-07-02,Göteborg,AIK Stockholm,1,0,1.0
+2020,5,2020-07-02,Falkenberg,Sirius,1,2,0.0
+2020,5,2020-07-02,Hammarby,Varberg,1,0,1.0
+2020,5,2020-07-02,Helsingborg,Mjällby,0,1,0.0
+2020,5,2020-07-02,Örebro,Häcken,0,0,0.5
+2020,6,2020-07-05,Elfsborg,Malmö,1,0,1.0
+2020,6,2020-07-05,AIK Stockholm,Falkenberg,1,1,0.5
+2020,6,2020-07-05,Sirius,Örebro,2,1,1.0
+2020,6,2020-07-05,Häcken,Hammarby,3,0,1.0
+2020,6,2020-07-06,Varberg,Kalmar,1,0,1.0
+2020,6,2020-07-06,Djurgården,Helsingborg,2,2,0.5
+2020,6,2020-07-06,Östersund,Mjällby,0,1,0.0
+2020,6,2020-07-06,Norrköping,Göteborg,3,1,1.0
+2020,7,2020-07-11,Hammarby,Sirius,0,0,0.5
+2020,7,2020-07-11,Falkenberg,Östersund,0,1,0.0
+2020,7,2020-07-12,Helsingborg,AIK Stockholm,2,0,1.0
+2020,7,2020-07-12,Örebro,Varberg,1,0,1.0
+2020,7,2020-07-12,Göteborg,Djurgården,1,2,0.0
+2020,7,2020-07-12,Mjällby,Häcken,3,1,1.0
+2020,7,2020-07-13,Kalmar,Elfsborg,1,2,0.0
+2020,7,2020-07-13,Malmö,Norrköping,1,1,0.5
+2020,8,2020-07-15,Djurgården,Falkenberg,1,0,1.0
+2020,8,2020-07-15,AIK Stockholm,Sirius,1,0,1.0
+2020,8,2020-07-15,Göteborg,Helsingborg,1,1,0.5
+2020,8,2020-07-16,Norrköping,Örebro,2,0,1.0
+2020,8,2020-07-16,Häcken,Elfsborg,6,0,1.0
+2020,8,2020-07-16,Östersund,Malmö,1,2,0.0
+2020,8,2020-07-16,Varberg,Mjällby,1,0,1.0
+2020,8,2020-07-16,Kalmar,Hammarby,1,2,0.0
+2020,9,2020-07-19,Varberg,AIK Stockholm,2,2,0.5
+2020,9,2020-07-19,Malmö,Kalmar,2,1,1.0
+2020,9,2020-07-19,Sirius,Norrköping,4,2,1.0
+2020,9,2020-07-19,Östersund,Häcken,2,2,0.5
+2020,9,2020-07-19,Elfsborg,Djurgården,1,0,1.0
+2020,9,2020-07-19,Falkenberg,Helsingborg,2,2,0.5
+2020,9,2020-07-20,Örebro,Mjällby,3,1,1.0
+2020,9,2020-07-20,Hammarby,Göteborg,1,1,0.5
+2020,10,2020-07-22,Norrköping,Varberg,2,0,1.0
+2020,10,2020-07-22,Djurgården,Östersund,0,0,0.5
+2020,10,2020-07-22,Häcken,AIK Stockholm,4,0,1.0
+2020,10,2020-07-23,Kalmar,Sirius,1,1,0.5
+2020,10,2020-07-23,Göteborg,Falkenberg,2,2,0.5
+2020,10,2020-07-23,Helsingborg,Örebro,1,1,0.5
+2020,10,2020-07-23,Mjällby,Elfsborg,0,5,0.0
+2020,10,2020-07-23,Malmö,Hammarby,3,0,1.0
+2020,11,2020-07-26,Falkenberg,Norrköping,3,3,0.5
+2020,11,2020-07-26,Elfsborg,Varberg,3,3,0.5
+2020,11,2020-07-26,Häcken,Göteborg,0,0,0.5
+2020,11,2020-07-26,Sirius,Malmö,2,5,0.0
+2020,11,2020-07-26,AIK Stockholm,Djurgården,0,1,0.0
+2020,11,2020-07-27,Hammarby,Örebro,3,0,1.0
+2020,11,2020-07-27,Mjällby,Kalmar,2,2,0.5
+2020,11,2020-07-27,Östersund,Helsingborg,0,0,0.5
+2020,12,2020-08-01,Örebro,Falkenberg,1,2,0.0
+2020,12,2020-08-01,Djurgården,Häcken,3,1,1.0
+2020,12,2020-08-02,Helsingborg,Hammarby,1,1,0.5
+2020,12,2020-08-02,Varberg,Östersund,1,1,0.5
+2020,12,2020-08-02,Göteborg,Malmö,0,3,0.0
+2020,12,2020-08-02,Kalmar,AIK Stockholm,0,0,0.5
+2020,12,2020-08-03,Elfsborg,Sirius,3,3,0.5
+2020,12,2020-08-03,Norrköping,Mjällby,1,1,0.5
+2020,13,2020-08-05,Varberg,Djurgården,1,2,0.0
+2020,13,2020-08-05,Malmö,Helsingborg,4,1,1.0
+2020,13,2020-08-05,Hammarby,Falkenberg,1,1,0.5
+2020,13,2020-08-06,AIK Stockholm,Elfsborg,1,2,0.0
+2020,13,2020-08-06,Mjällby,Sirius,1,1,0.5
+2020,13,2020-08-06,Kalmar,Örebro,0,3,0.0
+2020,13,2020-08-06,Göteborg,Östersund,2,2,0.5
+2020,13,2020-08-06,Häcken,Norrköping,2,1,1.0
+2020,14,2020-08-09,Örebro,Göteborg,1,1,0.5
+2020,14,2020-08-09,Falkenberg,Malmö,0,1,0.0
+2020,14,2020-08-09,Häcken,Kalmar,0,2,0.0
+2020,14,2020-08-09,Östersund,Elfsborg,0,1,0.0
+2020,14,2020-08-09,Djurgården,Hammarby,1,2,0.0
+2020,14,2020-08-09,Mjällby,AIK Stockholm,3,1,1.0
+2020,14,2020-08-10,Helsingborg,Norrköping,3,2,1.0
+2020,14,2020-08-10,Sirius,Varberg,3,3,0.5
+2020,15,2020-08-12,Djurgården,Mjällby,2,1,1.0
+2020,15,2020-08-12,Malmö,Örebro,2,1,1.0
+2020,15,2020-08-13,Sirius,Helsingborg,3,1,1.0
+2020,15,2020-08-13,Norrköping,Hammarby,1,2,0.0
+2020,15,2020-08-13,Elfsborg,Falkenberg,4,2,1.0
+2020,15,2020-08-13,Kalmar,Göteborg,1,1,0.5
+2020,15,2020-08-13,AIK Stockholm,Östersund,0,1,0.0
+2020,15,2020-08-13,Varberg,Häcken,1,3,0.0
+2020,16,2020-08-15,Örebro,Djurgården,0,3,0.0
+2020,16,2020-08-16,Hammarby,Elfsborg,2,2,0.5
+2020,16,2020-08-16,Falkenberg,AIK Stockholm,1,1,0.5
+2020,16,2020-08-16,Mjällby,Malmö,2,2,0.5
+2020,16,2020-08-17,Helsingborg,Sirius,1,2,0.0
+2020,16,2020-08-17,Häcken,Varberg,2,1,1.0
+2020,16,2020-08-17,Göteborg,Norrköping,1,3,0.0
+2020,16,2020-08-17,Östersund,Kalmar,2,0,1.0
+2020,17,2020-08-22,Sirius,Hammarby,3,1,1.0
+2020,17,2020-08-22,Djurgården,Göteborg,2,2,0.5
+2020,17,2020-08-23,Malmö,Falkenberg,2,1,1.0
+2020,17,2020-08-23,Elfsborg,Östersund,0,1,0.0
+2020,17,2020-08-23,AIK Stockholm,Helsingborg,2,0,1.0
+2020,17,2020-08-23,Varberg,Örebro,2,1,1.0
+2020,17,2020-08-24,Kalmar,Mjällby,1,4,0.0
+2020,17,2020-08-24,Norrköping,Häcken,0,1,0.0
+2020,18,2020-08-29,Varberg,Sirius,2,0,1.0
+2020,18,2020-08-29,Östersund,Falkenberg,2,1,1.0
+2020,18,2020-08-30,AIK Stockholm,Häcken,0,1,0.0
+2020,18,2020-08-30,Helsingborg,Djurgården,3,1,1.0
+2020,18,2020-08-30,Mjällby,Göteborg,1,1,0.5
+2020,18,2020-08-30,Örebro,Norrköping,4,3,1.0
+2020,18,2020-08-30,Malmö,Elfsborg,1,1,0.5
+2020,18,2020-08-30,Hammarby,Kalmar,3,3,0.5
+2020,19,2020-09-09,Helsingborg,Kalmar,1,1,0.5
+2020,19,2020-09-10,Göteborg,Hammarby,0,4,0.0
+2020,19,2020-09-10,Örebro,Malmö,3,2,1.0
+2020,19,2020-09-10,Norrköping,Östersund,2,2,0.5
+2020,20,2020-09-12,Djurgården,Elfsborg,1,1,0.5
+2020,20,2020-09-13,Falkenberg,Göteborg,0,3,0.0
+2020,20,2020-09-13,Hammarby,Helsingborg,2,2,0.5
+2020,20,2020-09-13,Malmö,AIK Stockholm,0,0,0.5
+2020,20,2020-09-13,Mjällby,Varberg,2,3,0.0
+2020,20,2020-09-14,Östersund,Örebro,0,0,0.5
+2020,20,2020-09-14,Häcken,Sirius,1,1,0.5
+2020,20,2020-09-14,Kalmar,Norrköping,0,2,0.0
+2020,19,2020-09-17,Elfsborg,Mjällby,2,2,0.5
+2020,19,2020-09-17,Falkenberg,Varberg,2,0,1.0
+2020,21,2020-09-20,Östersund,Djurgården,1,1,0.5
+2020,21,2020-09-20,AIK Stockholm,Hammarby,3,0,1.0
+2020,21,2020-09-20,Göteborg,Kalmar,1,2,0.0
+2020,21,2020-09-20,Norrköping,Malmö,1,1,0.5
+2020,21,2020-09-21,Sirius,Falkenberg,2,1,1.0
+2020,21,2020-09-21,Elfsborg,Häcken,1,1,0.5
+2020,21,2020-09-21,Mjällby,Örebro,1,0,1.0
+2020,21,2020-09-21,Varberg,Helsingborg,1,3,0.0
+2020,22,2020-09-26,Örebro,Sirius,2,1,1.0
+2020,22,2020-09-27,Malmö,Häcken,3,0,1.0
+2020,22,2020-09-27,Falkenberg,Hammarby,1,3,0.0
+2020,22,2020-09-27,Helsingborg,Östersund,0,1,0.0
+2020,22,2020-09-27,Elfsborg,Göteborg,0,0,0.5
+2020,22,2020-09-27,Djurgården,Norrköping,1,2,0.0
+2020,22,2020-09-28,AIK Stockholm,Mjällby,1,0,1.0
+2020,22,2020-09-28,Kalmar,Varberg,1,1,0.5
+2020,23,2020-10-03,Häcken,Falkenberg,3,0,1.0
+2020,23,2020-10-03,Örebro,Elfsborg,3,2,1.0
+2020,23,2020-10-04,Mjällby,Helsingborg,3,2,1.0
+2020,23,2020-10-04,Östersund,AIK Stockholm,1,2,0.0
+2020,23,2020-10-04,Hammarby,Djurgården,1,1,0.5
+2020,23,2020-10-04,Göteborg,Varberg,1,0,1.0
+2020,23,2020-10-04,Norrköping,Sirius,1,2,0.0
+2020,23,2020-10-04,Kalmar,Malmö,0,4,0.0
+2020,24,2020-10-17,Falkenberg,Örebro,2,1,1.0
+2020,24,2020-10-18,Hammarby,Mjällby,4,2,1.0
+2020,24,2020-10-18,Sirius,Östersund,2,3,0.0
+2020,24,2020-10-18,Elfsborg,Kalmar,3,1,1.0
+2020,24,2020-10-18,AIK Stockholm,Göteborg,2,0,1.0
+2020,24,2020-10-18,Varberg,Norrköping,1,3,0.0
+2020,24,2020-10-19,Helsingborg,Häcken,0,0,0.5
+2020,24,2020-10-19,Djurgården,Malmö,3,2,1.0
+2020,25,2020-10-24,Djurgården,Sirius,4,0,1.0
+2020,25,2020-10-24,Häcken,Mjällby,2,2,0.5
+2020,25,2020-10-25,Östersund,Hammarby,1,3,0.0
+2020,25,2020-10-25,Kalmar,Falkenberg,0,0,0.5
+2020,25,2020-10-25,Örebro,Helsingborg,3,2,1.0
+2020,25,2020-10-25,Malmö,Göteborg,3,1,1.0
+2020,25,2020-10-26,Varberg,Elfsborg,0,0,0.5
+2020,25,2020-10-26,Norrköping,AIK Stockholm,2,2,0.5
+2020,19,2020-10-28,Häcken,Djurgården,0,2,0.0
+2020,19,2020-10-29,Sirius,AIK Stockholm,0,0,0.5
+2020,26,2020-11-01,Sirius,Kalmar,2,2,0.5
+2020,26,2020-11-01,Mjällby,Östersund,3,0,1.0
+2020,26,2020-11-01,Elfsborg,Norrköping,2,1,1.0
+2020,26,2020-11-01,Göteborg,Örebro,0,1,0.0
+2020,26,2020-11-01,Falkenberg,Djurgården,3,2,1.0
+2020,26,2020-11-01,Hammarby,Häcken,1,1,0.5
+2020,26,2020-11-02,AIK Stockholm,Varberg,1,0,1.0
+2020,26,2020-11-02,Helsingborg,Malmö,0,1,0.0
+2020,27,2020-11-07,Häcken,Östersund,2,1,1.0
+2020,27,2020-11-07,Mjällby,Norrköping,2,0,1.0
+2020,27,2020-11-07,Falkenberg,Elfsborg,1,3,0.0
+2020,27,2020-11-08,Örebro,Kalmar,0,1,0.0
+2020,27,2020-11-08,Djurgården,AIK Stockholm,0,1,0.0
+2020,27,2020-11-08,Varberg,Hammarby,5,2,1.0
+2020,27,2020-11-08,Malmö,Sirius,4,0,1.0
+2020,27,2020-11-08,Helsingborg,Göteborg,0,1,0.0
+2020,28,2020-11-22,AIK Stockholm,Örebro,0,2,0.0
+2020,28,2020-11-22,Elfsborg,Helsingborg,2,1,1.0
+2020,28,2020-11-22,Kalmar,Djurgården,0,3,0.0
+2020,28,2020-11-22,Östersund,Varberg,0,4,0.0
+2020,28,2020-11-22,Hammarby,Malmö,2,2,0.5
+2020,28,2020-11-23,Norrköping,Falkenberg,4,1,1.0
+2020,28,2020-11-23,Sirius,Mjällby,0,1,0.0
+2020,28,2020-11-23,Göteborg,Häcken,1,1,0.5
+2020,29,2020-11-29,Östersund,Göteborg,0,4,0.0
+2020,29,2020-11-29,Varberg,Malmö,3,2,1.0
+2020,29,2020-11-29,Helsingborg,Falkenberg,0,0,0.5
+2020,29,2020-11-29,Mjällby,Djurgården,2,1,1.0
+2020,29,2020-11-29,Sirius,Elfsborg,1,1,0.5
+2020,29,2020-11-29,Häcken,Örebro,3,0,1.0
+2020,29,2020-11-30,AIK Stockholm,Kalmar,0,1,0.0
+2020,29,2020-11-30,Hammarby,Norrköping,0,1,0.0
+2020,30,2020-12-06,Falkenberg,Mjällby,2,3,0.0
+2020,30,2020-12-06,Örebro,Hammarby,2,1,1.0
+2020,30,2020-12-06,Kalmar,Häcken,0,0,0.5
+2020,30,2020-12-06,Djurgården,Varberg,1,0,1.0
+2020,30,2020-12-06,Norrköping,Helsingborg,3,4,0.0
+2020,30,2020-12-06,Elfsborg,AIK Stockholm,2,2,0.5
+2020,30,2020-12-06,Malmö,Östersund,4,0,1.0
+2020,30,2020-12-06,Göteborg,Sirius,2,0,1.0

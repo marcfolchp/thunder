@@ -1,0 +1,183 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2018-2019,1. HNL,1,2018-07-27,Dinamo Zagreb,Rudeš,1,1,0.5
+2018-2019,1. HNL,1,2018-07-28,Lokomotiva,Inter Zaprešić,4,0,1.0
+2018-2019,1. HNL,1,2018-07-28,Rijeka,Gorica,2,0,1.0
+2018-2019,1. HNL,1,2018-07-29,Istra 1961,Slaven Belupo,1,1,0.5
+2018-2019,1. HNL,1,2018-07-29,Osijek,Hajduk Split,4,1,1.0
+2018-2019,1. HNL,2,2018-08-03,Rijeka,Inter Zaprešić,4,0,1.0
+2018-2019,1. HNL,2,2018-08-03,Dinamo Zagreb,Istra 1961,3,0,1.0
+2018-2019,1. HNL,2,2018-08-04,Gorica,Slaven Belupo,3,3,0.5
+2018-2019,1. HNL,2,2018-08-05,Osijek,Rudeš,3,2,1.0
+2018-2019,1. HNL,2,2018-08-05,Hajduk Split,Lokomotiva,1,1,0.5
+2018-2019,1. HNL,3,2018-08-10,Dinamo Zagreb,Slaven Belupo,2,1,1.0
+2018-2019,1. HNL,3,2018-08-11,Gorica,Inter Zaprešić,2,3,0.0
+2018-2019,1. HNL,3,2018-08-11,Lokomotiva,Rudeš,1,0,1.0
+2018-2019,1. HNL,3,2018-08-12,Osijek,Istra 1961,3,0,1.0
+2018-2019,1. HNL,3,2018-08-12,Rijeka,Hajduk Split,1,1,0.5
+2018-2019,1. HNL,4,2018-08-17,Dinamo Zagreb,Osijek,2,1,1.0
+2018-2019,1. HNL,4,2018-08-18,Istra 1961,Lokomotiva,1,2,0.0
+2018-2019,1. HNL,4,2018-08-19,Rudeš,Rijeka,1,2,0.0
+2018-2019,1. HNL,4,2018-08-19,Hajduk Split,Gorica,0,2,0.0
+2018-2019,1. HNL,5,2018-08-24,Osijek,Slaven Belupo,1,1,0.5
+2018-2019,1. HNL,5,2018-08-25,Gorica,Rudeš,2,0,1.0
+2018-2019,1. HNL,5,2018-08-25,Dinamo Zagreb,Lokomotiva,1,0,1.0
+2018-2019,1. HNL,5,2018-08-26,Inter Zaprešić,Hajduk Split,2,2,0.5
+2018-2019,1. HNL,5,2018-08-26,Rijeka,Istra 1961,3,3,0.5
+2018-2019,1. HNL,6,2018-08-31,Inter Zaprešić,Rudeš,3,0,1.0
+2018-2019,1. HNL,6,2018-09-01,Slaven Belupo,Hajduk Split,1,1,0.5
+2018-2019,1. HNL,6,2018-09-01,Osijek,Lokomotiva,2,1,1.0
+2018-2019,1. HNL,6,2018-09-02,Istra 1961,Gorica,0,2,0.0
+2018-2019,1. HNL,6,2018-09-02,Dinamo Zagreb,Rijeka,1,1,0.5
+2018-2019,1. HNL,4,2018-09-08,Slaven Belupo,Inter Zaprešić,2,1,1.0
+2018-2019,1. HNL,7,2018-09-14,Inter Zaprešić,Istra 1961,1,2,0.0
+2018-2019,1. HNL,7,2018-09-15,Gorica,Dinamo Zagreb,0,1,0.0
+2018-2019,1. HNL,7,2018-09-15,Hajduk Split,Rudeš,3,1,1.0
+2018-2019,1. HNL,7,2018-09-16,Slaven Belupo,Lokomotiva,2,5,0.0
+2018-2019,1. HNL,7,2018-09-16,Rijeka,Osijek,1,1,0.5
+2018-2019,1. HNL,8,2018-09-21,Slaven Belupo,Rudeš,1,1,0.5
+2018-2019,1. HNL,8,2018-09-22,Osijek,Gorica,0,1,0.0
+2018-2019,1. HNL,8,2018-09-22,Lokomotiva,Rijeka,2,0,1.0
+2018-2019,1. HNL,8,2018-09-23,Dinamo Zagreb,Inter Zaprešić,5,3,1.0
+2018-2019,1. HNL,8,2018-09-23,Istra 1961,Hajduk Split,2,4,0.0
+2018-2019,1. HNL,9,2018-09-29,Hajduk Split,Dinamo Zagreb,0,0,0.5
+2018-2019,1. HNL,9,2018-09-29,Inter Zaprešić,Osijek,0,3,0.0
+2018-2019,1. HNL,9,2018-09-30,Gorica,Lokomotiva,0,3,0.0
+2018-2019,1. HNL,9,2018-09-30,Rijeka,Slaven Belupo,0,0,0.5
+2018-2019,1. HNL,9,2018-10-01,Rudeš,Istra 1961,0,3,0.0
+2018-2019,1. HNL,10,2018-10-05,Inter Zaprešić,Lokomotiva,2,1,1.0
+2018-2019,1. HNL,10,2018-10-06,Gorica,Rijeka,2,1,1.0
+2018-2019,1. HNL,10,2018-10-06,Slaven Belupo,Istra 1961,3,1,1.0
+2018-2019,1. HNL,10,2018-10-07,Rudeš,Dinamo Zagreb,0,3,0.0
+2018-2019,1. HNL,10,2018-10-07,Hajduk Split,Osijek,0,2,0.0
+2018-2019,1. HNL,11,2018-10-19,Inter Zaprešić,Rijeka,1,2,0.0
+2018-2019,1. HNL,11,2018-10-20,Rudeš,Osijek,1,4,0.0
+2018-2019,1. HNL,11,2018-10-20,Istra 1961,Dinamo Zagreb,1,4,0.0
+2018-2019,1. HNL,11,2018-10-21,Slaven Belupo,Gorica,0,1,0.0
+2018-2019,1. HNL,11,2018-10-21,Lokomotiva,Hajduk Split,2,0,1.0
+2018-2019,1. HNL,12,2018-10-26,Rudeš,Lokomotiva,0,4,0.0
+2018-2019,1. HNL,12,2018-10-27,Inter Zaprešić,Gorica,1,3,0.0
+2018-2019,1. HNL,12,2018-10-27,Istra 1961,Osijek,1,1,0.5
+2018-2019,1. HNL,12,2018-10-28,Hajduk Split,Rijeka,1,1,0.5
+2018-2019,1. HNL,12,2018-10-28,Slaven Belupo,Dinamo Zagreb,0,2,0.0
+2018-2019,1. HNL,13,2018-11-03,Lokomotiva,Istra 1961,1,0,1.0
+2018-2019,1. HNL,13,2018-11-04,Gorica,Hajduk Split,1,1,0.5
+2018-2019,1. HNL,13,2018-11-04,Osijek,Dinamo Zagreb,0,2,0.0
+2018-2019,1. HNL,13,2018-11-05,Inter Zaprešić,Slaven Belupo,0,0,0.5
+2018-2019,1. HNL,13,2018-11-05,Rijeka,Rudeš,5,1,1.0
+2018-2019,1. HNL,14,2018-11-09,Rudeš,Gorica,0,1,0.0
+2018-2019,1. HNL,14,2018-11-10,Slaven Belupo,Osijek,0,2,0.0
+2018-2019,1. HNL,14,2018-11-10,Hajduk Split,Inter Zaprešić,3,0,1.0
+2018-2019,1. HNL,14,2018-11-11,Istra 1961,Rijeka,1,2,0.0
+2018-2019,1. HNL,14,2018-11-11,Lokomotiva,Dinamo Zagreb,0,1,0.0
+2018-2019,1. HNL,15,2018-11-23,Rudeš,Inter Zaprešić,0,1,0.0
+2018-2019,1. HNL,15,2018-11-24,Rijeka,Dinamo Zagreb,1,0,1.0
+2018-2019,1. HNL,15,2018-11-24,Gorica,Istra 1961,0,2,0.0
+2018-2019,1. HNL,15,2018-11-25,Hajduk Split,Slaven Belupo,2,2,0.5
+2018-2019,1. HNL,15,2018-11-25,Lokomotiva,Osijek,2,2,0.5
+2018-2019,1. HNL,16,2018-11-30,Istra 1961,Inter Zaprešić,0,2,0.0
+2018-2019,1. HNL,16,2018-11-30,Lokomotiva,Slaven Belupo,1,1,0.5
+2018-2019,1. HNL,16,2018-12-01,Osijek,Rijeka,1,2,0.0
+2018-2019,1. HNL,16,2018-12-01,Rudeš,Hajduk Split,1,4,0.0
+2018-2019,1. HNL,16,2018-12-02,Dinamo Zagreb,Gorica,1,0,1.0
+2018-2019,1. HNL,17,2018-12-08,Rijeka,Lokomotiva,3,0,1.0
+2018-2019,1. HNL,17,2018-12-08,Hajduk Split,Istra 1961,3,1,1.0
+2018-2019,1. HNL,17,2018-12-09,Inter Zaprešić,Dinamo Zagreb,0,2,0.0
+2018-2019,1. HNL,17,2018-12-09,Gorica,Osijek,1,2,0.0
+2018-2019,1. HNL,17,2018-12-10,Rudeš,Slaven Belupo,1,1,0.5
+2018-2019,1. HNL,18,2018-12-14,Lokomotiva,Gorica,2,2,0.5
+2018-2019,1. HNL,18,2018-12-16,Osijek,Inter Zaprešić,6,0,1.0
+2018-2019,1. HNL,18,2018-12-16,Dinamo Zagreb,Hajduk Split,1,0,1.0
+2018-2019,1. HNL,18,2018-12-16,Istra 1961,Rudeš,1,0,1.0
+2018-2019,1. HNL,18,2019-01-30,Slaven Belupo,Rijeka,1,1,0.5
+2018-2019,1. HNL,19,2019-02-01,Lokomotiva,Inter Zaprešić,2,0,1.0
+2018-2019,1. HNL,19,2019-02-02,Dinamo Zagreb,Rudeš,7,2,1.0
+2018-2019,1. HNL,19,2019-02-02,Istra 1961,Slaven Belupo,1,1,0.5
+2018-2019,1. HNL,19,2019-02-03,Osijek,Hajduk Split,0,1,0.0
+2018-2019,1. HNL,19,2019-02-03,Rijeka,Gorica,1,3,0.0
+2018-2019,1. HNL,20,2019-02-08,Rudeš,Osijek,0,1,0.0
+2018-2019,1. HNL,20,2019-02-09,Slaven Belupo,Gorica,2,0,1.0
+2018-2019,1. HNL,20,2019-02-09,Dinamo Zagreb,Istra 1961,1,0,1.0
+2018-2019,1. HNL,20,2019-02-10,Inter Zaprešić,Rijeka,0,3,0.0
+2018-2019,1. HNL,20,2019-02-10,Hajduk Split,Lokomotiva,2,1,1.0
+2018-2019,1. HNL,21,2019-02-15,Lokomotiva,Rudeš,0,0,0.5
+2018-2019,1. HNL,21,2019-02-16,Rijeka,Hajduk Split,0,0,0.5
+2018-2019,1. HNL,21,2019-02-16,Gorica,Inter Zaprešić,2,2,0.5
+2018-2019,1. HNL,21,2019-02-17,Osijek,Istra 1961,1,0,1.0
+2018-2019,1. HNL,21,2019-02-17,Dinamo Zagreb,Slaven Belupo,3,0,1.0
+2018-2019,1. HNL,22,2019-02-22,Rudeš,Rijeka,2,4,0.0
+2018-2019,1. HNL,22,2019-02-23,Slaven Belupo,Inter Zaprešić,0,1,0.0
+2018-2019,1. HNL,22,2019-02-23,Hajduk Split,Gorica,0,0,0.5
+2018-2019,1. HNL,22,2019-02-24,Istra 1961,Lokomotiva,0,0,0.5
+2018-2019,1. HNL,22,2019-02-24,Dinamo Zagreb,Osijek,3,0,1.0
+2018-2019,1. HNL,23,2019-03-01,Rijeka,Istra 1961,2,0,1.0
+2018-2019,1. HNL,23,2019-03-02,Gorica,Rudeš,3,1,1.0
+2018-2019,1. HNL,23,2019-03-02,Lokomotiva,Dinamo Zagreb,1,1,0.5
+2018-2019,1. HNL,23,2019-03-03,Inter Zaprešić,Hajduk Split,1,3,0.0
+2018-2019,1. HNL,23,2019-03-03,Osijek,Slaven Belupo,1,1,0.5
+2018-2019,1. HNL,24,2019-03-08,Rudeš,Inter Zaprešić,2,0,1.0
+2018-2019,1. HNL,24,2019-03-09,Slaven Belupo,Hajduk Split,1,2,0.0
+2018-2019,1. HNL,24,2019-03-09,Istra 1961,Gorica,0,3,0.0
+2018-2019,1. HNL,24,2019-03-10,Osijek,Lokomotiva,1,1,0.5
+2018-2019,1. HNL,24,2019-03-10,Dinamo Zagreb,Rijeka,3,1,1.0
+2018-2019,1. HNL,25,2019-03-15,Inter Zaprešić,Istra 1961,3,1,1.0
+2018-2019,1. HNL,25,2019-03-16,Lokomotiva,Slaven Belupo,3,1,1.0
+2018-2019,1. HNL,25,2019-03-16,Hajduk Split,Rudeš,3,0,1.0
+2018-2019,1. HNL,25,2019-03-17,Gorica,Dinamo Zagreb,1,2,0.0
+2018-2019,1. HNL,25,2019-03-17,Rijeka,Osijek,3,1,1.0
+2018-2019,1. HNL,26,2019-03-28,Slaven Belupo,Rudeš,2,1,1.0
+2018-2019,1. HNL,26,2019-03-29,Osijek,Gorica,2,2,0.5
+2018-2019,1. HNL,26,2019-03-29,Lokomotiva,Rijeka,1,2,0.0
+2018-2019,1. HNL,26,2019-03-30,Dinamo Zagreb,Inter Zaprešić,1,0,1.0
+2018-2019,1. HNL,26,2019-03-30,Istra 1961,Hajduk Split,0,2,0.0
+2018-2019,1. HNL,27,2019-04-02,Gorica,Lokomotiva,0,2,0.0
+2018-2019,1. HNL,27,2019-04-02,Rijeka,Slaven Belupo,2,0,1.0
+2018-2019,1. HNL,27,2019-04-03,Inter Zaprešić,Osijek,1,3,0.0
+2018-2019,1. HNL,27,2019-04-03,Hajduk Split,Dinamo Zagreb,0,1,0.0
+2018-2019,1. HNL,27,2019-04-04,Rudeš,Istra 1961,1,0,1.0
+2018-2019,1. HNL,28,2019-04-06,Inter Zaprešić,Lokomotiva,3,2,1.0
+2018-2019,1. HNL,28,2019-04-06,Gorica,Rijeka,1,0,1.0
+2018-2019,1. HNL,28,2019-04-07,Rudeš,Dinamo Zagreb,0,2,0.0
+2018-2019,1. HNL,28,2019-04-07,Hajduk Split,Osijek,0,0,0.5
+2018-2019,1. HNL,28,2019-04-08,Slaven Belupo,Istra 1961,3,3,0.5
+2018-2019,1. HNL,29,2019-04-12,Osijek,Rudeš,2,0,1.0
+2018-2019,1. HNL,29,2019-04-13,Istra 1961,Dinamo Zagreb,0,4,0.0
+2018-2019,1. HNL,29,2019-04-13,Rijeka,Inter Zaprešić,7,0,1.0
+2018-2019,1. HNL,29,2019-04-14,Gorica,Slaven Belupo,4,3,1.0
+2018-2019,1. HNL,29,2019-04-14,Lokomotiva,Hajduk Split,0,1,0.0
+2018-2019,1. HNL,30,2019-04-19,Istra 1961,Osijek,1,0,1.0
+2018-2019,1. HNL,30,2019-04-19,Slaven Belupo,Dinamo Zagreb,0,1,0.0
+2018-2019,1. HNL,30,2019-04-20,Rudeš,Lokomotiva,1,2,0.0
+2018-2019,1. HNL,30,2019-04-20,Inter Zaprešić,Gorica,2,2,0.5
+2018-2019,1. HNL,30,2019-04-20,Hajduk Split,Rijeka,4,0,1.0
+2018-2019,1. HNL,31,2019-04-26,Lokomotiva,Istra 1961,1,1,0.5
+2018-2019,1. HNL,31,2019-04-27,Gorica,Hajduk Split,3,0,1.0
+2018-2019,1. HNL,31,2019-04-27,Osijek,Dinamo Zagreb,2,1,1.0
+2018-2019,1. HNL,31,2019-04-28,Inter Zaprešić,Slaven Belupo,1,3,0.0
+2018-2019,1. HNL,31,2019-04-28,Rijeka,Rudeš,3,1,1.0
+2018-2019,1. HNL,32,2019-05-03,Rudeš,Gorica,1,1,0.5
+2018-2019,1. HNL,32,2019-05-04,Hajduk Split,Inter Zaprešić,3,2,1.0
+2018-2019,1. HNL,32,2019-05-04,Istra 1961,Rijeka,0,7,0.0
+2018-2019,1. HNL,32,2019-05-05,Slaven Belupo,Osijek,1,0,1.0
+2018-2019,1. HNL,32,2019-05-05,Dinamo Zagreb,Lokomotiva,3,0,1.0
+2018-2019,1. HNL,33,2019-05-09,Inter Zaprešić,Rudeš,0,3,0.0
+2018-2019,1. HNL,33,2019-05-10,Gorica,Istra 1961,4,1,1.0
+2018-2019,1. HNL,33,2019-05-10,Hajduk Split,Slaven Belupo,2,0,1.0
+2018-2019,1. HNL,33,2019-05-11,Lokomotiva,Osijek,0,4,0.0
+2018-2019,1. HNL,33,2019-05-11,Rijeka,Dinamo Zagreb,0,0,0.5
+2018-2019,1. HNL,34,2019-05-14,Istra 1961,Inter Zaprešić,0,1,0.0
+2018-2019,1. HNL,34,2019-05-14,Rudeš,Hajduk Split,1,4,0.0
+2018-2019,1. HNL,34,2019-05-15,Slaven Belupo,Lokomotiva,1,1,0.5
+2018-2019,1. HNL,34,2019-05-15,Dinamo Zagreb,Gorica,3,1,1.0
+2018-2019,1. HNL,34,2019-05-15,Osijek,Rijeka,2,1,1.0
+2018-2019,1. HNL,35,2019-05-18,Inter Zaprešić,Dinamo Zagreb,2,3,0.0
+2018-2019,1. HNL,35,2019-05-18,Rijeka,Lokomotiva,1,0,1.0
+2018-2019,1. HNL,35,2019-05-19,Hajduk Split,Istra 1961,4,1,1.0
+2018-2019,1. HNL,35,2019-05-19,Gorica,Osijek,1,0,1.0
+2018-2019,1. HNL,35,2019-05-20,Rudeš,Slaven Belupo,0,1,0.0
+2018-2019,1. HNL,36,2019-05-24,Istra 1961,Rudeš,2,0,1.0
+2018-2019,1. HNL,36,2019-05-25,Slaven Belupo,Rijeka,1,1,0.5
+2018-2019,1. HNL,36,2019-05-26,Lokomotiva,Gorica,2,3,0.0
+2018-2019,1. HNL,36,2019-05-26,Osijek,Inter Zaprešić,3,1,1.0
+2018-2019,1. HNL,36,2019-05-26,Dinamo Zagreb,Hajduk Split,3,1,1.0
+2018-2019,Croatian 1/2 Relegation/Promotion Playoffs,,2019-05-31,Šibenik,Istra 1961,1,1,0.5
+2018-2019,Croatian 1/2 Relegation/Promotion Playoffs,,2019-06-03,Istra 1961,Šibenik,2,0,1.0

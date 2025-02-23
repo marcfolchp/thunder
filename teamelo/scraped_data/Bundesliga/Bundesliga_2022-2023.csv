@@ -1,0 +1,309 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022-2023,Bundesliga,1,2022-08-05,Eint Frankfurt,Bayern Munich,1,6,0.0
+2022-2023,Bundesliga,1,2022-08-06,Wolfsburg,Werder Bremen,2,2,0.5
+2022-2023,Bundesliga,1,2022-08-06,Augsburg,Freiburg,0,4,0.0
+2022-2023,Bundesliga,1,2022-08-06,Union Berlin,Hertha BSC,3,1,1.0
+2022-2023,Bundesliga,1,2022-08-06,Gladbach,Hoffenheim,3,1,1.0
+2022-2023,Bundesliga,1,2022-08-06,Bochum,Mainz 05,1,2,0.0
+2022-2023,Bundesliga,1,2022-08-06,Dortmund,Leverkusen,1,0,1.0
+2022-2023,Bundesliga,1,2022-08-07,Stuttgart,RB Leipzig,1,1,0.5
+2022-2023,Bundesliga,1,2022-08-07,Köln,Schalke 04,3,1,1.0
+2022-2023,Bundesliga,2,2022-08-12,Freiburg,Dortmund,1,3,0.0
+2022-2023,Bundesliga,2,2022-08-13,Hoffenheim,Bochum,3,2,1.0
+2022-2023,Bundesliga,2,2022-08-13,Werder Bremen,Stuttgart,2,2,0.5
+2022-2023,Bundesliga,2,2022-08-13,Leverkusen,Augsburg,1,2,0.0
+2022-2023,Bundesliga,2,2022-08-13,RB Leipzig,Köln,2,2,0.5
+2022-2023,Bundesliga,2,2022-08-13,Hertha BSC,Eint Frankfurt,1,1,0.5
+2022-2023,Bundesliga,2,2022-08-13,Schalke 04,Gladbach,2,2,0.5
+2022-2023,Bundesliga,2,2022-08-14,Mainz 05,Union Berlin,0,0,0.5
+2022-2023,Bundesliga,2,2022-08-14,Bayern Munich,Wolfsburg,2,0,1.0
+2022-2023,Bundesliga,3,2022-08-19,Gladbach,Hertha BSC,1,0,1.0
+2022-2023,Bundesliga,3,2022-08-20,Leverkusen,Hoffenheim,0,3,0.0
+2022-2023,Bundesliga,3,2022-08-20,Augsburg,Mainz 05,1,2,0.0
+2022-2023,Bundesliga,3,2022-08-20,Stuttgart,Freiburg,0,1,0.0
+2022-2023,Bundesliga,3,2022-08-20,Dortmund,Werder Bremen,2,3,0.0
+2022-2023,Bundesliga,3,2022-08-20,Wolfsburg,Schalke 04,0,0,0.5
+2022-2023,Bundesliga,3,2022-08-20,Union Berlin,RB Leipzig,2,1,1.0
+2022-2023,Bundesliga,3,2022-08-21,Eint Frankfurt,Köln,1,1,0.5
+2022-2023,Bundesliga,3,2022-08-21,Bochum,Bayern Munich,0,7,0.0
+2022-2023,Bundesliga,4,2022-08-26,Freiburg,Bochum,1,0,1.0
+2022-2023,Bundesliga,4,2022-08-27,Hoffenheim,Augsburg,1,0,1.0
+2022-2023,Bundesliga,4,2022-08-27,Mainz 05,Leverkusen,0,3,0.0
+2022-2023,Bundesliga,4,2022-08-27,RB Leipzig,Wolfsburg,2,0,1.0
+2022-2023,Bundesliga,4,2022-08-27,Schalke 04,Union Berlin,1,6,0.0
+2022-2023,Bundesliga,4,2022-08-27,Hertha BSC,Dortmund,0,1,0.0
+2022-2023,Bundesliga,4,2022-08-27,Bayern Munich,Gladbach,1,1,0.5
+2022-2023,Bundesliga,4,2022-08-28,Köln,Stuttgart,0,0,0.5
+2022-2023,Bundesliga,4,2022-08-28,Werder Bremen,Eint Frankfurt,3,4,0.0
+2022-2023,Bundesliga,5,2022-09-02,Dortmund,Hoffenheim,1,0,1.0
+2022-2023,Bundesliga,5,2022-09-03,Stuttgart,Schalke 04,1,1,0.5
+2022-2023,Bundesliga,5,2022-09-03,Bochum,Werder Bremen,0,2,0.0
+2022-2023,Bundesliga,5,2022-09-03,Union Berlin,Bayern Munich,1,1,0.5
+2022-2023,Bundesliga,5,2022-09-03,Leverkusen,Freiburg,2,3,0.0
+2022-2023,Bundesliga,5,2022-09-03,Wolfsburg,Köln,2,4,0.0
+2022-2023,Bundesliga,5,2022-09-03,Eint Frankfurt,RB Leipzig,4,0,1.0
+2022-2023,Bundesliga,5,2022-09-04,Augsburg,Hertha BSC,0,2,0.0
+2022-2023,Bundesliga,5,2022-09-04,Gladbach,Mainz 05,0,1,0.0
+2022-2023,Bundesliga,6,2022-09-09,Werder Bremen,Augsburg,0,1,0.0
+2022-2023,Bundesliga,6,2022-09-10,Bayern Munich,Stuttgart,2,2,0.5
+2022-2023,Bundesliga,6,2022-09-10,Eint Frankfurt,Wolfsburg,0,1,0.0
+2022-2023,Bundesliga,6,2022-09-10,Hertha BSC,Leverkusen,2,2,0.5
+2022-2023,Bundesliga,6,2022-09-10,Hoffenheim,Mainz 05,4,1,1.0
+2022-2023,Bundesliga,6,2022-09-10,RB Leipzig,Dortmund,3,0,1.0
+2022-2023,Bundesliga,6,2022-09-10,Schalke 04,Bochum,3,1,1.0
+2022-2023,Bundesliga,6,2022-09-11,Köln,Union Berlin,0,1,0.0
+2022-2023,Bundesliga,6,2022-09-11,Freiburg,Gladbach,0,0,0.5
+2022-2023,Bundesliga,7,2022-09-16,Mainz 05,Hertha BSC,1,1,0.5
+2022-2023,Bundesliga,7,2022-09-17,Dortmund,Schalke 04,1,0,1.0
+2022-2023,Bundesliga,7,2022-09-17,Leverkusen,Werder Bremen,1,1,0.5
+2022-2023,Bundesliga,7,2022-09-17,Stuttgart,Eint Frankfurt,1,3,0.0
+2022-2023,Bundesliga,7,2022-09-17,Augsburg,Bayern Munich,1,0,1.0
+2022-2023,Bundesliga,7,2022-09-17,Gladbach,RB Leipzig,3,0,1.0
+2022-2023,Bundesliga,7,2022-09-18,Union Berlin,Wolfsburg,2,0,1.0
+2022-2023,Bundesliga,7,2022-09-18,Bochum,Köln,1,1,0.5
+2022-2023,Bundesliga,7,2022-09-18,Hoffenheim,Freiburg,0,0,0.5
+2022-2023,Bundesliga,8,2022-09-30,Bayern Munich,Leverkusen,4,0,1.0
+2022-2023,Bundesliga,8,2022-10-01,Freiburg,Mainz 05,2,1,1.0
+2022-2023,Bundesliga,8,2022-10-01,Eint Frankfurt,Union Berlin,2,0,1.0
+2022-2023,Bundesliga,8,2022-10-01,Köln,Dortmund,3,2,1.0
+2022-2023,Bundesliga,8,2022-10-01,Wolfsburg,Stuttgart,3,2,1.0
+2022-2023,Bundesliga,8,2022-10-01,RB Leipzig,Bochum,4,0,1.0
+2022-2023,Bundesliga,8,2022-10-01,Werder Bremen,Gladbach,5,1,1.0
+2022-2023,Bundesliga,8,2022-10-02,Hertha BSC,Hoffenheim,1,1,0.5
+2022-2023,Bundesliga,8,2022-10-02,Schalke 04,Augsburg,2,3,0.0
+2022-2023,Bundesliga,9,2022-10-07,Hoffenheim,Werder Bremen,1,2,0.0
+2022-2023,Bundesliga,9,2022-10-08,Bochum,Eint Frankfurt,3,0,1.0
+2022-2023,Bundesliga,9,2022-10-08,Mainz 05,RB Leipzig,1,1,0.5
+2022-2023,Bundesliga,9,2022-10-08,Augsburg,Wolfsburg,1,1,0.5
+2022-2023,Bundesliga,9,2022-10-08,Leverkusen,Schalke 04,4,0,1.0
+2022-2023,Bundesliga,9,2022-10-08,Dortmund,Bayern Munich,2,2,0.5
+2022-2023,Bundesliga,9,2022-10-09,Gladbach,Köln,5,2,1.0
+2022-2023,Bundesliga,9,2022-10-09,Hertha BSC,Freiburg,2,2,0.5
+2022-2023,Bundesliga,9,2022-10-09,Stuttgart,Union Berlin,0,1,0.0
+2022-2023,Bundesliga,10,2022-10-14,Schalke 04,Hoffenheim,0,3,0.0
+2022-2023,Bundesliga,10,2022-10-15,Wolfsburg,Gladbach,2,2,0.5
+2022-2023,Bundesliga,10,2022-10-15,Eint Frankfurt,Leverkusen,5,1,1.0
+2022-2023,Bundesliga,10,2022-10-15,Werder Bremen,Mainz 05,0,2,0.0
+2022-2023,Bundesliga,10,2022-10-15,Stuttgart,Bochum,4,1,1.0
+2022-2023,Bundesliga,10,2022-10-15,RB Leipzig,Hertha BSC,3,2,1.0
+2022-2023,Bundesliga,10,2022-10-16,Köln,Augsburg,3,2,1.0
+2022-2023,Bundesliga,10,2022-10-16,Union Berlin,Dortmund,2,0,1.0
+2022-2023,Bundesliga,10,2022-10-16,Bayern Munich,Freiburg,5,0,1.0
+2022-2023,Bundesliga,11,2022-10-21,Mainz 05,Köln,5,0,1.0
+2022-2023,Bundesliga,11,2022-10-22,Leverkusen,Wolfsburg,2,2,0.5
+2022-2023,Bundesliga,11,2022-10-22,Hoffenheim,Bayern Munich,0,2,0.0
+2022-2023,Bundesliga,11,2022-10-22,Dortmund,Stuttgart,5,0,1.0
+2022-2023,Bundesliga,11,2022-10-22,Freiburg,Werder Bremen,2,0,1.0
+2022-2023,Bundesliga,11,2022-10-22,Augsburg,RB Leipzig,3,3,0.5
+2022-2023,Bundesliga,11,2022-10-22,Gladbach,Eint Frankfurt,1,3,0.0
+2022-2023,Bundesliga,11,2022-10-23,Bochum,Union Berlin,2,1,1.0
+2022-2023,Bundesliga,11,2022-10-23,Hertha BSC,Schalke 04,2,1,1.0
+2022-2023,Bundesliga,12,2022-10-28,Werder Bremen,Hertha BSC,1,0,1.0
+2022-2023,Bundesliga,12,2022-10-29,Bayern Munich,Mainz 05,6,2,1.0
+2022-2023,Bundesliga,12,2022-10-29,Wolfsburg,Bochum,4,0,1.0
+2022-2023,Bundesliga,12,2022-10-29,RB Leipzig,Leverkusen,2,0,1.0
+2022-2023,Bundesliga,12,2022-10-29,Stuttgart,Augsburg,2,1,1.0
+2022-2023,Bundesliga,12,2022-10-29,Eint Frankfurt,Dortmund,1,2,0.0
+2022-2023,Bundesliga,12,2022-10-30,Union Berlin,Gladbach,2,1,1.0
+2022-2023,Bundesliga,12,2022-10-30,Schalke 04,Freiburg,0,2,0.0
+2022-2023,Bundesliga,12,2022-10-30,Köln,Hoffenheim,1,1,0.5
+2022-2023,Bundesliga,13,2022-11-04,Gladbach,Stuttgart,3,1,1.0
+2022-2023,Bundesliga,13,2022-11-05,Dortmund,Bochum,3,0,1.0
+2022-2023,Bundesliga,13,2022-11-05,Mainz 05,Wolfsburg,0,3,0.0
+2022-2023,Bundesliga,13,2022-11-05,Augsburg,Eint Frankfurt,1,2,0.0
+2022-2023,Bundesliga,13,2022-11-05,Hertha BSC,Bayern Munich,2,3,0.0
+2022-2023,Bundesliga,13,2022-11-05,Hoffenheim,RB Leipzig,1,3,0.0
+2022-2023,Bundesliga,13,2022-11-05,Werder Bremen,Schalke 04,2,1,1.0
+2022-2023,Bundesliga,13,2022-11-06,Leverkusen,Union Berlin,5,0,1.0
+2022-2023,Bundesliga,13,2022-11-06,Freiburg,Köln,2,0,1.0
+2022-2023,Bundesliga,14,2022-11-08,Wolfsburg,Dortmund,2,0,1.0
+2022-2023,Bundesliga,14,2022-11-08,Stuttgart,Hertha BSC,2,1,1.0
+2022-2023,Bundesliga,14,2022-11-08,Bochum,Gladbach,2,1,1.0
+2022-2023,Bundesliga,14,2022-11-08,Bayern Munich,Werder Bremen,6,1,1.0
+2022-2023,Bundesliga,14,2022-11-09,Köln,Leverkusen,1,2,0.0
+2022-2023,Bundesliga,14,2022-11-09,Union Berlin,Augsburg,2,2,0.5
+2022-2023,Bundesliga,14,2022-11-09,Schalke 04,Mainz 05,1,0,1.0
+2022-2023,Bundesliga,14,2022-11-09,RB Leipzig,Freiburg,3,1,1.0
+2022-2023,Bundesliga,14,2022-11-09,Eint Frankfurt,Hoffenheim,4,2,1.0
+2022-2023,Bundesliga,15,2022-11-11,Gladbach,Dortmund,4,2,1.0
+2022-2023,Bundesliga,15,2022-11-12,Augsburg,Bochum,0,1,0.0
+2022-2023,Bundesliga,15,2022-11-12,Hoffenheim,Wolfsburg,1,2,0.0
+2022-2023,Bundesliga,15,2022-11-12,Werder Bremen,RB Leipzig,1,2,0.0
+2022-2023,Bundesliga,15,2022-11-12,Hertha BSC,Köln,2,0,1.0
+2022-2023,Bundesliga,15,2022-11-12,Leverkusen,Stuttgart,2,0,1.0
+2022-2023,Bundesliga,15,2022-11-12,Schalke 04,Bayern Munich,0,2,0.0
+2022-2023,Bundesliga,15,2022-11-13,Mainz 05,Eint Frankfurt,1,1,0.5
+2022-2023,Bundesliga,15,2022-11-13,Freiburg,Union Berlin,4,1,1.0
+2022-2023,Bundesliga,16,2023-01-20,RB Leipzig,Bayern Munich,1,1,0.5
+2022-2023,Bundesliga,16,2023-01-21,Union Berlin,Hoffenheim,3,1,1.0
+2022-2023,Bundesliga,16,2023-01-21,Stuttgart,Mainz 05,1,1,0.5
+2022-2023,Bundesliga,16,2023-01-21,Bochum,Hertha BSC,3,1,1.0
+2022-2023,Bundesliga,16,2023-01-21,Wolfsburg,Freiburg,6,0,1.0
+2022-2023,Bundesliga,16,2023-01-21,Eint Frankfurt,Schalke 04,3,0,1.0
+2022-2023,Bundesliga,16,2023-01-21,Köln,Werder Bremen,7,1,1.0
+2022-2023,Bundesliga,16,2023-01-22,Dortmund,Augsburg,4,3,1.0
+2022-2023,Bundesliga,16,2023-01-22,Gladbach,Leverkusen,2,3,0.0
+2022-2023,Bundesliga,17,2023-01-24,Schalke 04,RB Leipzig,1,6,0.0
+2022-2023,Bundesliga,17,2023-01-24,Hoffenheim,Stuttgart,2,2,0.5
+2022-2023,Bundesliga,17,2023-01-24,Hertha BSC,Wolfsburg,0,5,0.0
+2022-2023,Bundesliga,17,2023-01-24,Bayern Munich,Köln,1,1,0.5
+2022-2023,Bundesliga,17,2023-01-25,Mainz 05,Dortmund,1,2,0.0
+2022-2023,Bundesliga,17,2023-01-25,Werder Bremen,Union Berlin,1,2,0.0
+2022-2023,Bundesliga,17,2023-01-25,Freiburg,Eint Frankfurt,1,1,0.5
+2022-2023,Bundesliga,17,2023-01-25,Augsburg,Gladbach,1,0,1.0
+2022-2023,Bundesliga,17,2023-01-25,Leverkusen,Bochum,2,0,1.0
+2022-2023,Bundesliga,18,2023-01-27,RB Leipzig,Stuttgart,2,1,1.0
+2022-2023,Bundesliga,18,2023-01-28,Hoffenheim,Gladbach,1,4,0.0
+2022-2023,Bundesliga,18,2023-01-28,Freiburg,Augsburg,3,1,1.0
+2022-2023,Bundesliga,18,2023-01-28,Mainz 05,Bochum,5,2,1.0
+2022-2023,Bundesliga,18,2023-01-28,Werder Bremen,Wolfsburg,2,1,1.0
+2022-2023,Bundesliga,18,2023-01-28,Hertha BSC,Union Berlin,0,2,0.0
+2022-2023,Bundesliga,18,2023-01-28,Bayern Munich,Eint Frankfurt,1,1,0.5
+2022-2023,Bundesliga,18,2023-01-29,Schalke 04,Köln,0,0,0.5
+2022-2023,Bundesliga,18,2023-01-29,Leverkusen,Dortmund,0,2,0.0
+2022-2023,Bundesliga,19,2023-02-03,Augsburg,Leverkusen,1,0,1.0
+2022-2023,Bundesliga,19,2023-02-04,Eint Frankfurt,Hertha BSC,3,0,1.0
+2022-2023,Bundesliga,19,2023-02-04,Bochum,Hoffenheim,5,2,1.0
+2022-2023,Bundesliga,19,2023-02-04,Köln,RB Leipzig,0,0,0.5
+2022-2023,Bundesliga,19,2023-02-04,Dortmund,Freiburg,5,1,1.0
+2022-2023,Bundesliga,19,2023-02-04,Union Berlin,Mainz 05,2,1,1.0
+2022-2023,Bundesliga,19,2023-02-04,Gladbach,Schalke 04,0,0,0.5
+2022-2023,Bundesliga,19,2023-02-05,Stuttgart,Werder Bremen,0,2,0.0
+2022-2023,Bundesliga,19,2023-02-05,Wolfsburg,Bayern Munich,2,4,0.0
+2022-2023,Bundesliga,20,2023-02-10,Schalke 04,Wolfsburg,0,0,0.5
+2022-2023,Bundesliga,20,2023-02-11,Bayern Munich,Bochum,3,0,1.0
+2022-2023,Bundesliga,20,2023-02-11,Mainz 05,Augsburg,3,1,1.0
+2022-2023,Bundesliga,20,2023-02-11,Freiburg,Stuttgart,2,1,1.0
+2022-2023,Bundesliga,20,2023-02-11,Hoffenheim,Leverkusen,1,3,0.0
+2022-2023,Bundesliga,20,2023-02-11,Werder Bremen,Dortmund,0,2,0.0
+2022-2023,Bundesliga,20,2023-02-11,RB Leipzig,Union Berlin,1,2,0.0
+2022-2023,Bundesliga,20,2023-02-12,Hertha BSC,Gladbach,4,1,1.0
+2022-2023,Bundesliga,20,2023-02-12,Köln,Eint Frankfurt,3,0,1.0
+2022-2023,Bundesliga,21,2023-02-17,Augsburg,Hoffenheim,1,0,1.0
+2022-2023,Bundesliga,21,2023-02-18,Wolfsburg,RB Leipzig,0,3,0.0
+2022-2023,Bundesliga,21,2023-02-18,Gladbach,Bayern Munich,3,2,1.0
+2022-2023,Bundesliga,21,2023-02-18,Bochum,Freiburg,0,2,0.0
+2022-2023,Bundesliga,21,2023-02-18,Stuttgart,Köln,3,0,1.0
+2022-2023,Bundesliga,21,2023-02-18,Eint Frankfurt,Werder Bremen,2,0,1.0
+2022-2023,Bundesliga,21,2023-02-19,Union Berlin,Schalke 04,0,0,0.5
+2022-2023,Bundesliga,21,2023-02-19,Dortmund,Hertha BSC,4,1,1.0
+2022-2023,Bundesliga,21,2023-02-19,Leverkusen,Mainz 05,2,3,0.0
+2022-2023,Bundesliga,22,2023-02-24,Mainz 05,Gladbach,4,0,1.0
+2022-2023,Bundesliga,22,2023-02-25,Hertha BSC,Augsburg,2,0,1.0
+2022-2023,Bundesliga,22,2023-02-25,Hoffenheim,Dortmund,0,1,0.0
+2022-2023,Bundesliga,22,2023-02-25,Werder Bremen,Bochum,3,0,1.0
+2022-2023,Bundesliga,22,2023-02-25,Köln,Wolfsburg,0,2,0.0
+2022-2023,Bundesliga,22,2023-02-25,RB Leipzig,Eint Frankfurt,2,1,1.0
+2022-2023,Bundesliga,22,2023-02-25,Schalke 04,Stuttgart,2,1,1.0
+2022-2023,Bundesliga,22,2023-02-26,Freiburg,Leverkusen,1,1,0.5
+2022-2023,Bundesliga,22,2023-02-26,Bayern Munich,Union Berlin,3,0,1.0
+2022-2023,Bundesliga,23,2023-03-03,Dortmund,RB Leipzig,2,1,1.0
+2022-2023,Bundesliga,23,2023-03-04,Bochum,Schalke 04,0,2,0.0
+2022-2023,Bundesliga,23,2023-03-04,Gladbach,Freiburg,0,0,0.5
+2022-2023,Bundesliga,23,2023-03-04,Mainz 05,Hoffenheim,1,0,1.0
+2022-2023,Bundesliga,23,2023-03-04,Augsburg,Werder Bremen,2,1,1.0
+2022-2023,Bundesliga,23,2023-03-04,Union Berlin,Köln,0,0,0.5
+2022-2023,Bundesliga,23,2023-03-04,Stuttgart,Bayern Munich,1,2,0.0
+2022-2023,Bundesliga,23,2023-03-05,Leverkusen,Hertha BSC,4,1,1.0
+2022-2023,Bundesliga,23,2023-03-05,Wolfsburg,Eint Frankfurt,2,2,0.5
+2022-2023,Bundesliga,24,2023-03-10,Köln,Bochum,0,2,0.0
+2022-2023,Bundesliga,24,2023-03-11,Eint Frankfurt,Stuttgart,1,1,0.5
+2022-2023,Bundesliga,24,2023-03-11,Bayern Munich,Augsburg,5,3,1.0
+2022-2023,Bundesliga,24,2023-03-11,Hertha BSC,Mainz 05,1,1,0.5
+2022-2023,Bundesliga,24,2023-03-11,RB Leipzig,Gladbach,3,0,1.0
+2022-2023,Bundesliga,24,2023-03-11,Schalke 04,Dortmund,2,2,0.5
+2022-2023,Bundesliga,24,2023-03-12,Freiburg,Hoffenheim,2,1,1.0
+2022-2023,Bundesliga,24,2023-03-12,Werder Bremen,Leverkusen,2,3,0.0
+2022-2023,Bundesliga,24,2023-03-12,Wolfsburg,Union Berlin,1,1,0.5
+2022-2023,Bundesliga,25,2023-03-17,Gladbach,Werder Bremen,2,2,0.5
+2022-2023,Bundesliga,25,2023-03-18,Augsburg,Schalke 04,1,1,0.5
+2022-2023,Bundesliga,25,2023-03-18,Stuttgart,Wolfsburg,0,1,0.0
+2022-2023,Bundesliga,25,2023-03-18,Hoffenheim,Hertha BSC,3,1,1.0
+2022-2023,Bundesliga,25,2023-03-18,Bochum,RB Leipzig,1,0,1.0
+2022-2023,Bundesliga,25,2023-03-18,Dortmund,Köln,6,1,1.0
+2022-2023,Bundesliga,25,2023-03-19,Union Berlin,Eint Frankfurt,2,0,1.0
+2022-2023,Bundesliga,25,2023-03-19,Leverkusen,Bayern Munich,2,1,1.0
+2022-2023,Bundesliga,25,2023-03-19,Mainz 05,Freiburg,1,1,0.5
+2022-2023,Bundesliga,26,2023-03-31,Eint Frankfurt,Bochum,1,1,0.5
+2022-2023,Bundesliga,26,2023-04-01,Union Berlin,Stuttgart,3,0,1.0
+2022-2023,Bundesliga,26,2023-04-01,Wolfsburg,Augsburg,2,2,0.5
+2022-2023,Bundesliga,26,2023-04-01,Schalke 04,Leverkusen,0,3,0.0
+2022-2023,Bundesliga,26,2023-04-01,RB Leipzig,Mainz 05,0,3,0.0
+2022-2023,Bundesliga,26,2023-04-01,Freiburg,Hertha BSC,1,1,0.5
+2022-2023,Bundesliga,26,2023-04-01,Bayern Munich,Dortmund,4,2,1.0
+2022-2023,Bundesliga,26,2023-04-02,Köln,Gladbach,0,0,0.5
+2022-2023,Bundesliga,26,2023-04-02,Werder Bremen,Hoffenheim,1,2,0.0
+2022-2023,Bundesliga,27,2023-04-08,Dortmund,Union Berlin,2,1,1.0
+2022-2023,Bundesliga,27,2023-04-08,Freiburg,Bayern Munich,0,1,0.0
+2022-2023,Bundesliga,27,2023-04-08,Mainz 05,Werder Bremen,2,2,0.5
+2022-2023,Bundesliga,27,2023-04-08,Leverkusen,Eint Frankfurt,3,1,1.0
+2022-2023,Bundesliga,27,2023-04-08,Augsburg,Köln,1,3,0.0
+2022-2023,Bundesliga,27,2023-04-08,Hertha BSC,RB Leipzig,0,1,0.0
+2022-2023,Bundesliga,27,2023-04-09,Gladbach,Wolfsburg,2,0,1.0
+2022-2023,Bundesliga,27,2023-04-09,Bochum,Stuttgart,2,3,0.0
+2022-2023,Bundesliga,27,2023-04-09,Hoffenheim,Schalke 04,2,0,1.0
+2022-2023,Bundesliga,28,2023-04-14,Schalke 04,Hertha BSC,5,2,1.0
+2022-2023,Bundesliga,28,2023-04-15,Bayern Munich,Hoffenheim,1,1,0.5
+2022-2023,Bundesliga,28,2023-04-15,Köln,Mainz 05,1,1,0.5
+2022-2023,Bundesliga,28,2023-04-15,Stuttgart,Dortmund,3,3,0.5
+2022-2023,Bundesliga,28,2023-04-15,RB Leipzig,Augsburg,3,2,1.0
+2022-2023,Bundesliga,28,2023-04-15,Eint Frankfurt,Gladbach,1,1,0.5
+2022-2023,Bundesliga,28,2023-04-16,Werder Bremen,Freiburg,1,2,0.0
+2022-2023,Bundesliga,28,2023-04-16,Union Berlin,Bochum,1,1,0.5
+2022-2023,Bundesliga,28,2023-04-16,Wolfsburg,Leverkusen,0,0,0.5
+2022-2023,Bundesliga,29,2023-04-21,Augsburg,Stuttgart,1,1,0.5
+2022-2023,Bundesliga,29,2023-04-22,Mainz 05,Bayern Munich,3,1,1.0
+2022-2023,Bundesliga,29,2023-04-22,Bochum,Wolfsburg,1,5,0.0
+2022-2023,Bundesliga,29,2023-04-22,Hertha BSC,Werder Bremen,2,4,0.0
+2022-2023,Bundesliga,29,2023-04-22,Hoffenheim,Köln,1,3,0.0
+2022-2023,Bundesliga,29,2023-04-22,Dortmund,Eint Frankfurt,4,0,1.0
+2022-2023,Bundesliga,29,2023-04-23,Freiburg,Schalke 04,4,0,1.0
+2022-2023,Bundesliga,29,2023-04-23,Leverkusen,RB Leipzig,2,0,1.0
+2022-2023,Bundesliga,29,2023-04-23,Gladbach,Union Berlin,0,1,0.0
+2022-2023,Bundesliga,30,2023-04-28,Bochum,Dortmund,1,1,0.5
+2022-2023,Bundesliga,30,2023-04-29,Köln,Freiburg,0,1,0.0
+2022-2023,Bundesliga,30,2023-04-29,Stuttgart,Gladbach,2,1,1.0
+2022-2023,Bundesliga,30,2023-04-29,RB Leipzig,Hoffenheim,1,0,1.0
+2022-2023,Bundesliga,30,2023-04-29,Union Berlin,Leverkusen,0,0,0.5
+2022-2023,Bundesliga,30,2023-04-29,Eint Frankfurt,Augsburg,1,1,0.5
+2022-2023,Bundesliga,30,2023-04-29,Schalke 04,Werder Bremen,2,1,1.0
+2022-2023,Bundesliga,30,2023-04-30,Bayern Munich,Hertha BSC,2,0,1.0
+2022-2023,Bundesliga,30,2023-04-30,Wolfsburg,Mainz 05,3,0,1.0
+2022-2023,Bundesliga,31,2023-05-05,Leverkusen,Köln,1,2,0.0
+2022-2023,Bundesliga,31,2023-05-05,Mainz 05,Schalke 04,2,3,0.0
+2022-2023,Bundesliga,31,2023-05-06,Hoffenheim,Eint Frankfurt,3,1,1.0
+2022-2023,Bundesliga,31,2023-05-06,Hertha BSC,Stuttgart,2,1,1.0
+2022-2023,Bundesliga,31,2023-05-06,Freiburg,RB Leipzig,0,1,0.0
+2022-2023,Bundesliga,31,2023-05-06,Gladbach,Bochum,2,0,1.0
+2022-2023,Bundesliga,31,2023-05-06,Augsburg,Union Berlin,1,0,1.0
+2022-2023,Bundesliga,31,2023-05-06,Werder Bremen,Bayern Munich,1,2,0.0
+2022-2023,Bundesliga,31,2023-05-07,Dortmund,Wolfsburg,6,0,1.0
+2022-2023,Bundesliga,32,2023-05-12,Köln,Hertha BSC,5,2,1.0
+2022-2023,Bundesliga,32,2023-05-13,Eint Frankfurt,Mainz 05,3,0,1.0
+2022-2023,Bundesliga,32,2023-05-13,Wolfsburg,Hoffenheim,2,1,1.0
+2022-2023,Bundesliga,32,2023-05-13,Union Berlin,Freiburg,4,2,1.0
+2022-2023,Bundesliga,32,2023-05-13,Bochum,Augsburg,3,2,1.0
+2022-2023,Bundesliga,32,2023-05-13,Bayern Munich,Schalke 04,6,0,1.0
+2022-2023,Bundesliga,32,2023-05-13,Dortmund,Gladbach,5,2,1.0
+2022-2023,Bundesliga,32,2023-05-14,Stuttgart,Leverkusen,1,1,0.5
+2022-2023,Bundesliga,32,2023-05-14,RB Leipzig,Werder Bremen,2,1,1.0
+2022-2023,Bundesliga,33,2023-05-19,Freiburg,Wolfsburg,2,0,1.0
+2022-2023,Bundesliga,33,2023-05-20,Schalke 04,Eint Frankfurt,2,2,0.5
+2022-2023,Bundesliga,33,2023-05-20,Werder Bremen,Köln,1,1,0.5
+2022-2023,Bundesliga,33,2023-05-20,Hertha BSC,Bochum,1,1,0.5
+2022-2023,Bundesliga,33,2023-05-20,Hoffenheim,Union Berlin,4,2,1.0
+2022-2023,Bundesliga,33,2023-05-20,Bayern Munich,RB Leipzig,1,3,0.0
+2022-2023,Bundesliga,33,2023-05-21,Mainz 05,Stuttgart,1,4,0.0
+2022-2023,Bundesliga,33,2023-05-21,Augsburg,Dortmund,0,3,0.0
+2022-2023,Bundesliga,33,2023-05-21,Leverkusen,Gladbach,2,2,0.5
+2022-2023,Bundesliga,34,2023-05-27,RB Leipzig,Schalke 04,4,2,1.0
+2022-2023,Bundesliga,34,2023-05-27,Bochum,Leverkusen,3,0,1.0
+2022-2023,Bundesliga,34,2023-05-27,Union Berlin,Werder Bremen,1,0,1.0
+2022-2023,Bundesliga,34,2023-05-27,Eint Frankfurt,Freiburg,2,1,1.0
+2022-2023,Bundesliga,34,2023-05-27,Dortmund,Mainz 05,2,2,0.5
+2022-2023,Bundesliga,34,2023-05-27,Gladbach,Augsburg,2,0,1.0
+2022-2023,Bundesliga,34,2023-05-27,Stuttgart,Hoffenheim,1,1,0.5
+2022-2023,Bundesliga,34,2023-05-27,Wolfsburg,Hertha BSC,1,2,0.0
+2022-2023,Bundesliga,34,2023-05-27,Köln,Bayern Munich,1,2,0.0
+2022-2023,German 1/2 Relegation/Promotion Play-offs,,2023-06-01,Stuttgart,Hamburger SV,3,0,1.0
+2022-2023,German 1/2 Relegation/Promotion Play-offs,,2023-06-05,Hamburger SV,Stuttgart,1,3,0.0

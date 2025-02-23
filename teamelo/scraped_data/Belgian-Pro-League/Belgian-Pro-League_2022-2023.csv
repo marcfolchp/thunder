@@ -1,0 +1,331 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022-2023,Regular season,1,2022-07-22,Standard Liège,Gent,2,2,0.5
+2022-2023,Regular season,1,2022-07-23,Charleroi,Eupen,3,1,1.0
+2022-2023,Regular season,1,2022-07-23,Kortrijk,OH Leuven,0,2,0.0
+2022-2023,Regular season,1,2022-07-23,Zulte Waregem,R.F.C. Seraing,2,0,1.0
+2022-2023,Regular season,1,2022-07-23,Sint-Truiden,Union SG,1,1,0.5
+2022-2023,Regular season,1,2022-07-24,Club Brugge,Genk,3,2,1.0
+2022-2023,Regular season,1,2022-07-24,Mechelen,Antwerp,0,2,0.0
+2022-2023,Regular season,1,2022-07-24,Anderlecht,Oostende,2,0,1.0
+2022-2023,Regular season,1,2022-07-24,Westerlo,Cercle Brugge,2,0,1.0
+2022-2023,Regular season,2,2022-07-29,Union SG,Charleroi,1,0,1.0
+2022-2023,Regular season,2,2022-07-30,Cercle Brugge,Anderlecht,1,0,1.0
+2022-2023,Regular season,2,2022-07-30,OH Leuven,Westerlo,2,0,1.0
+2022-2023,Regular season,2,2022-07-30,Oostende,Mechelen,2,1,1.0
+2022-2023,Regular season,2,2022-07-30,Gent,Sint-Truiden,1,1,0.5
+2022-2023,Regular season,2,2022-07-31,Genk,Standard Liège,3,1,1.0
+2022-2023,Regular season,2,2022-07-31,Eupen,Club Brugge,2,1,1.0
+2022-2023,Regular season,2,2022-07-31,R.F.C. Seraing,Kortrijk,0,1,0.0
+2022-2023,Regular season,2,2022-07-31,Antwerp,Zulte Waregem,1,0,1.0
+2022-2023,Regular season,3,2022-08-05,Club Brugge,Zulte Waregem,1,1,0.5
+2022-2023,Regular season,3,2022-08-06,Genk,Eupen,4,2,1.0
+2022-2023,Regular season,3,2022-08-06,Kortrijk,Sint-Truiden,0,0,0.5
+2022-2023,Regular season,3,2022-08-06,Charleroi,Oostende,1,3,0.0
+2022-2023,Regular season,3,2022-08-06,Mechelen,Union SG,3,0,1.0
+2022-2023,Regular season,3,2022-08-07,Standard Liège,Cercle Brugge,2,0,1.0
+2022-2023,Regular season,3,2022-08-07,Gent,Westerlo,2,1,1.0
+2022-2023,Regular season,3,2022-08-07,Anderlecht,R.F.C. Seraing,3,1,1.0
+2022-2023,Regular season,3,2022-08-07,Antwerp,OH Leuven,4,2,1.0
+2022-2023,Regular season,4,2022-08-12,Oostende,Gent,1,3,0.0
+2022-2023,Regular season,4,2022-08-13,Westerlo,Standard Liège,4,2,1.0
+2022-2023,Regular season,4,2022-08-13,Cercle Brugge,Mechelen,0,0,0.5
+2022-2023,Regular season,4,2022-08-13,R.F.C. Seraing,Charleroi,0,1,0.0
+2022-2023,Regular season,4,2022-08-13,Union SG,Kortrijk,2,1,1.0
+2022-2023,Regular season,4,2022-08-14,Sint-Truiden,Anderlecht,0,3,0.0
+2022-2023,Regular season,4,2022-08-14,Eupen,Antwerp,0,1,0.0
+2022-2023,Regular season,4,2022-08-14,OH Leuven,Club Brugge,0,3,0.0
+2022-2023,Regular season,4,2022-08-14,Zulte Waregem,Genk,1,4,0.0
+2022-2023,Regular season,5,2022-08-19,Eupen,R.F.C. Seraing,1,3,0.0
+2022-2023,Regular season,5,2022-08-20,Oostende,Sint-Truiden,0,1,0.0
+2022-2023,Regular season,5,2022-08-20,Genk,Cercle Brugge,2,1,1.0
+2022-2023,Regular season,5,2022-08-21,Club Brugge,Kortrijk,2,1,1.0
+2022-2023,Regular season,5,2022-08-21,Zulte Waregem,Charleroi,1,3,0.0
+2022-2023,Regular season,5,2022-08-21,Standard Liège,OH Leuven,1,3,0.0
+2022-2023,Regular season,5,2022-08-21,Mechelen,Westerlo,5,4,1.0
+2022-2023,Regular season,6,2022-08-26,Charleroi,Club Brugge,1,3,0.0
+2022-2023,Regular season,6,2022-08-27,R.F.C. Seraing,Genk,0,4,0.0
+2022-2023,Regular season,6,2022-08-27,Cercle Brugge,Zulte Waregem,1,1,0.5
+2022-2023,Regular season,6,2022-08-27,OH Leuven,Oostende,2,1,1.0
+2022-2023,Regular season,6,2022-08-27,Sint-Truiden,Mechelen,3,1,1.0
+2022-2023,Regular season,6,2022-08-28,Gent,Antwerp,1,2,0.0
+2022-2023,Regular season,6,2022-08-28,Kortrijk,Standard Liège,0,1,0.0
+2022-2023,Regular season,6,2022-08-28,Union SG,Anderlecht,2,1,1.0
+2022-2023,Regular season,6,2022-08-28,Westerlo,Eupen,0,1,0.0
+2022-2023,Regular season,5,2022-08-31,Antwerp,Union SG,4,2,1.0
+2022-2023,Regular season,5,2022-09-01,Anderlecht,Gent,0,1,0.0
+2022-2023,Regular season,7,2022-09-02,Club Brugge,Cercle Brugge,4,0,1.0
+2022-2023,Regular season,7,2022-09-03,Genk,Sint-Truiden,0,0,0.5
+2022-2023,Regular season,7,2022-09-03,Eupen,Kortrijk,0,1,0.0
+2022-2023,Regular season,7,2022-09-03,Mechelen,R.F.C. Seraing,2,3,0.0
+2022-2023,Regular season,7,2022-09-03,Standard Liège,Oostende,1,0,1.0
+2022-2023,Regular season,7,2022-09-04,Anderlecht,OH Leuven,2,2,0.5
+2022-2023,Regular season,7,2022-09-04,Antwerp,Westerlo,3,0,1.0
+2022-2023,Regular season,7,2022-09-04,Charleroi,Gent,2,1,1.0
+2022-2023,Regular season,7,2022-09-04,Zulte Waregem,Union SG,1,3,0.0
+2022-2023,Regular season,8,2022-09-09,Sint-Truiden,Standard Liège,1,2,0.0
+2022-2023,Regular season,8,2022-09-10,Kortrijk,Mechelen,1,4,0.0
+2022-2023,Regular season,8,2022-09-10,R.F.C. Seraing,Club Brugge,0,2,0.0
+2022-2023,Regular season,8,2022-09-10,Oostende,Eupen,1,0,1.0
+2022-2023,Regular season,8,2022-09-10,OH Leuven,Charleroi,3,2,1.0
+2022-2023,Regular season,8,2022-09-11,Westerlo,Anderlecht,2,1,1.0
+2022-2023,Regular season,8,2022-09-11,Cercle Brugge,Antwerp,0,2,0.0
+2022-2023,Regular season,8,2022-09-11,Union SG,Genk,1,2,0.0
+2022-2023,Regular season,8,2022-09-11,Gent,Zulte Waregem,2,0,1.0
+2022-2023,Regular season,9,2022-09-16,Antwerp,R.F.C. Seraing,2,1,1.0
+2022-2023,Regular season,9,2022-09-17,Mechelen,OH Leuven,0,0,0.5
+2022-2023,Regular season,9,2022-09-17,Cercle Brugge,Oostende,2,2,0.5
+2022-2023,Regular season,9,2022-09-17,Zulte Waregem,Sint-Truiden,0,3,0.0
+2022-2023,Regular season,9,2022-09-17,Charleroi,Westerlo,2,3,0.0
+2022-2023,Regular season,9,2022-09-18,Genk,Gent,1,0,1.0
+2022-2023,Regular season,9,2022-09-18,Eupen,Union SG,1,2,0.0
+2022-2023,Regular season,9,2022-09-18,Standard Liège,Club Brugge,3,0,1.0
+2022-2023,Regular season,9,2022-09-18,Anderlecht,Kortrijk,4,1,1.0
+2022-2023,Regular season,10,2022-09-30,Standard Liège,R.F.C. Seraing,0,2,0.0
+2022-2023,Regular season,10,2022-10-01,OH Leuven,Union SG,0,3,0.0
+2022-2023,Regular season,10,2022-10-01,Westerlo,Zulte Waregem,2,0,1.0
+2022-2023,Regular season,10,2022-10-01,Oostende,Genk,1,2,0.0
+2022-2023,Regular season,10,2022-10-01,Club Brugge,Mechelen,3,0,1.0
+2022-2023,Regular season,10,2022-10-02,Anderlecht,Charleroi,0,1,0.0
+2022-2023,Regular season,10,2022-10-02,Gent,Cercle Brugge,3,4,0.0
+2022-2023,Regular season,10,2022-10-02,Kortrijk,Antwerp,2,1,1.0
+2022-2023,Regular season,10,2022-10-02,Sint-Truiden,Eupen,0,1,0.0
+2022-2023,Regular season,11,2022-10-07,Antwerp,Sint-Truiden,2,0,1.0
+2022-2023,Regular season,11,2022-10-08,Genk,Kortrijk,2,1,1.0
+2022-2023,Regular season,11,2022-10-08,R.F.C. Seraing,Oostende,1,1,0.5
+2022-2023,Regular season,11,2022-10-08,Zulte Waregem,OH Leuven,2,5,0.0
+2022-2023,Regular season,11,2022-10-08,Club Brugge,Westerlo,0,2,0.0
+2022-2023,Regular season,11,2022-10-09,Mechelen,Anderlecht,1,3,0.0
+2022-2023,Regular season,11,2022-10-09,Eupen,Gent,0,4,0.0
+2022-2023,Regular season,11,2022-10-09,Charleroi,Standard Liège,0,1,0.0
+2022-2023,Regular season,11,2022-10-09,Union SG,Cercle Brugge,2,1,1.0
+2022-2023,Regular season,12,2022-10-14,Westerlo,R.F.C. Seraing,2,2,0.5
+2022-2023,Regular season,12,2022-10-15,Kortrijk,Zulte Waregem,1,3,0.0
+2022-2023,Regular season,12,2022-10-15,Cercle Brugge,Eupen,5,1,1.0
+2022-2023,Regular season,12,2022-10-15,Sint-Truiden,Charleroi,2,1,1.0
+2022-2023,Regular season,12,2022-10-15,OH Leuven,Genk,0,1,0.0
+2022-2023,Regular season,12,2022-10-16,Standard Liège,Antwerp,3,0,1.0
+2022-2023,Regular season,12,2022-10-16,Gent,Mechelen,3,0,1.0
+2022-2023,Regular season,12,2022-10-16,Anderlecht,Club Brugge,0,1,0.0
+2022-2023,Regular season,12,2022-10-16,Oostende,Union SG,1,6,0.0
+2022-2023,Regular season,13,2022-10-18,Charleroi,Kortrijk,2,2,0.5
+2022-2023,Regular season,13,2022-10-18,Eupen,OH Leuven,4,2,1.0
+2022-2023,Regular season,13,2022-10-18,R.F.C. Seraing,Cercle Brugge,0,1,0.0
+2022-2023,Regular season,13,2022-10-18,Genk,Westerlo,6,1,1.0
+2022-2023,Regular season,13,2022-10-19,Union SG,Gent,2,0,1.0
+2022-2023,Regular season,13,2022-10-19,Club Brugge,Sint-Truiden,3,0,1.0
+2022-2023,Regular season,13,2022-10-19,Mechelen,Standard Liège,2,0,1.0
+2022-2023,Regular season,13,2022-10-20,Antwerp,Oostende,3,0,1.0
+2022-2023,Regular season,13,2022-10-20,Zulte Waregem,Anderlecht,3,2,1.0
+2022-2023,Regular season,14,2022-10-21,Cercle Brugge,Charleroi,4,1,1.0
+2022-2023,Regular season,14,2022-10-22,Kortrijk,Westerlo,0,2,0.0
+2022-2023,Regular season,14,2022-10-22,Mechelen,Eupen,2,1,1.0
+2022-2023,Regular season,14,2022-10-22,Sint-Truiden,OH Leuven,0,0,0.5
+2022-2023,Regular season,14,2022-10-22,Union SG,Club Brugge,2,2,0.5
+2022-2023,Regular season,14,2022-10-23,Antwerp,Genk,1,3,0.0
+2022-2023,Regular season,14,2022-10-23,Gent,R.F.C. Seraing,2,1,1.0
+2022-2023,Regular season,14,2022-10-23,Standard Liège,Anderlecht,5,0,1.0
+2022-2023,Regular season,14,2022-10-23,Oostende,Zulte Waregem,2,1,1.0
+2022-2023,Regular season,15,2022-10-28,Genk,Mechelen,3,1,1.0
+2022-2023,Regular season,15,2022-10-29,Zulte Waregem,Standard Liège,0,3,0.0
+2022-2023,Regular season,15,2022-10-29,Westerlo,Sint-Truiden,2,3,0.0
+2022-2023,Regular season,15,2022-10-29,Kortrijk,Cercle Brugge,1,1,0.5
+2022-2023,Regular season,15,2022-10-29,Club Brugge,Oostende,4,2,1.0
+2022-2023,Regular season,15,2022-10-30,Anderlecht,Eupen,4,2,1.0
+2022-2023,Regular season,15,2022-10-30,R.F.C. Seraing,Union SG,1,2,0.0
+2022-2023,Regular season,15,2022-10-30,OH Leuven,Gent,1,1,0.5
+2022-2023,Regular season,15,2022-10-30,Charleroi,Antwerp,1,0,1.0
+2022-2023,Regular season,16,2022-11-04,Genk,Charleroi,4,1,1.0
+2022-2023,Regular season,16,2022-11-05,Mechelen,Zulte Waregem,2,2,0.5
+2022-2023,Regular season,16,2022-11-05,Cercle Brugge,OH Leuven,2,1,1.0
+2022-2023,Regular season,16,2022-11-05,R.F.C. Seraing,Sint-Truiden,1,2,0.0
+2022-2023,Regular season,16,2022-11-05,Eupen,Standard Liège,2,0,1.0
+2022-2023,Regular season,16,2022-11-06,Gent,Club Brugge,2,0,1.0
+2022-2023,Regular season,16,2022-11-06,Union SG,Westerlo,1,1,0.5
+2022-2023,Regular season,16,2022-11-06,Antwerp,Anderlecht,0,0,0.5
+2022-2023,Regular season,16,2022-11-06,Oostende,Kortrijk,3,1,1.0
+2022-2023,Regular season,17,2022-11-11,OH Leuven,R.F.C. Seraing,5,0,1.0
+2022-2023,Regular season,17,2022-11-12,Westerlo,Oostende,6,0,1.0
+2022-2023,Regular season,17,2022-11-12,Sint-Truiden,Cercle Brugge,0,1,0.0
+2022-2023,Regular season,17,2022-11-12,Zulte Waregem,Eupen,5,5,0.5
+2022-2023,Regular season,17,2022-11-12,Charleroi,Mechelen,0,5,0.0
+2022-2023,Regular season,17,2022-11-13,Club Brugge,Antwerp,2,2,0.5
+2022-2023,Regular season,17,2022-11-13,Standard Liège,Union SG,2,3,0.0
+2022-2023,Regular season,17,2022-11-13,Anderlecht,Genk,0,2,0.0
+2022-2023,Regular season,17,2022-11-13,Kortrijk,Gent,0,4,0.0
+2022-2023,Regular season,18,2022-12-23,R.F.C. Seraing,Eupen,0,1,0.0
+2022-2023,Regular season,18,2022-12-23,Mechelen,Cercle Brugge,1,1,0.5
+2022-2023,Regular season,18,2022-12-23,Gent,Standard Liège,0,0,0.5
+2022-2023,Regular season,18,2022-12-26,Club Brugge,OH Leuven,1,1,0.5
+2022-2023,Regular season,18,2022-12-26,Union SG,Oostende,3,0,1.0
+2022-2023,Regular season,18,2022-12-26,Kortrijk,Genk,1,0,1.0
+2022-2023,Regular season,18,2022-12-26,Charleroi,Anderlecht,0,1,0.0
+2022-2023,Regular season,18,2022-12-27,Sint-Truiden,Zulte Waregem,2,0,1.0
+2022-2023,Regular season,18,2022-12-27,Westerlo,Antwerp,3,3,0.5
+2022-2023,Regular season,19,2023-01-06,Standard Liège,Sint-Truiden,1,1,0.5
+2022-2023,Regular season,19,2023-01-07,Eupen,Charleroi,1,2,0.0
+2022-2023,Regular season,19,2023-01-07,Cercle Brugge,Westerlo,0,1,0.0
+2022-2023,Regular season,19,2023-01-07,Oostende,R.F.C. Seraing,1,2,0.0
+2022-2023,Regular season,19,2023-01-07,Antwerp,Gent,2,0,1.0
+2022-2023,Regular season,19,2023-01-08,Genk,Club Brugge,3,1,1.0
+2022-2023,Regular season,19,2023-01-08,Zulte Waregem,Mechelen,2,0,1.0
+2022-2023,Regular season,19,2023-01-08,Anderlecht,Union SG,1,3,0.0
+2022-2023,Regular season,19,2023-01-08,OH Leuven,Kortrijk,2,3,0.0
+2022-2023,Regular season,20,2023-01-13,Westerlo,OH Leuven,1,2,0.0
+2022-2023,Regular season,20,2023-01-14,R.F.C. Seraing,Standard Liège,1,1,0.5
+2022-2023,Regular season,20,2023-01-14,Mechelen,Oostende,2,1,1.0
+2022-2023,Regular season,20,2023-01-14,Eupen,Sint-Truiden,0,2,0.0
+2022-2023,Regular season,20,2023-01-14,Genk,Zulte Waregem,1,0,1.0
+2022-2023,Regular season,20,2023-01-15,Club Brugge,Anderlecht,1,1,0.5
+2022-2023,Regular season,20,2023-01-15,Gent,Kortrijk,2,1,1.0
+2022-2023,Regular season,20,2023-01-15,Union SG,Antwerp,2,0,1.0
+2022-2023,Regular season,20,2023-01-15,Charleroi,Cercle Brugge,2,1,1.0
+2022-2023,Regular season,21,2023-01-17,OH Leuven,Eupen,1,1,0.5
+2022-2023,Regular season,21,2023-01-17,Westerlo,Genk,2,3,0.0
+2022-2023,Regular season,21,2023-01-17,Standard Liège,Mechelen,2,0,1.0
+2022-2023,Regular season,21,2023-01-18,Oostende,Antwerp,0,3,0.0
+2022-2023,Regular season,21,2023-01-18,Cercle Brugge,Union SG,1,1,0.5
+2022-2023,Regular season,21,2023-01-18,Anderlecht,Zulte Waregem,2,3,0.0
+2022-2023,Regular season,21,2023-01-18,Kortrijk,R.F.C. Seraing,3,2,1.0
+2022-2023,Regular season,21,2023-01-19,Gent,Charleroi,0,0,0.5
+2022-2023,Regular season,21,2023-01-19,Sint-Truiden,Club Brugge,1,1,0.5
+2022-2023,Regular season,22,2023-01-21,Zulte Waregem,Westerlo,1,1,0.5
+2022-2023,Regular season,22,2023-01-21,Mechelen,Kortrijk,3,2,1.0
+2022-2023,Regular season,22,2023-01-21,Oostende,Cercle Brugge,1,2,0.0
+2022-2023,Regular season,22,2023-01-21,Union SG,OH Leuven,1,0,1.0
+2022-2023,Regular season,22,2023-01-22,Antwerp,Standard Liège,4,1,1.0
+2022-2023,Regular season,22,2023-01-22,R.F.C. Seraing,Anderlecht,0,1,0.0
+2022-2023,Regular season,22,2023-01-22,Club Brugge,Charleroi,2,2,0.5
+2022-2023,Regular season,22,2023-01-22,Sint-Truiden,Gent,0,3,0.0
+2022-2023,Regular season,23,2023-01-27,Standard Liège,Eupen,3,1,1.0
+2022-2023,Regular season,23,2023-01-28,Westerlo,Mechelen,2,0,1.0
+2022-2023,Regular season,23,2023-01-28,Kortrijk,Oostende,2,2,0.5
+2022-2023,Regular season,23,2023-01-28,OH Leuven,Sint-Truiden,1,1,0.5
+2022-2023,Regular season,23,2023-01-28,Charleroi,Union SG,0,1,0.0
+2022-2023,Regular season,23,2023-01-29,Anderlecht,Antwerp,0,0,0.5
+2022-2023,Regular season,23,2023-01-29,Cercle Brugge,Gent,3,2,1.0
+2022-2023,Regular season,23,2023-01-29,Zulte Waregem,Club Brugge,1,2,0.0
+2022-2023,Regular season,23,2023-01-29,Genk,R.F.C. Seraing,4,0,1.0
+2022-2023,Regular season,22,2023-02-01,Eupen,Genk,1,1,0.5
+2022-2023,Regular season,24,2023-02-03,Oostende,Anderlecht,0,2,0.0
+2022-2023,Regular season,24,2023-02-04,Cercle Brugge,Standard Liège,1,1,0.5
+2022-2023,Regular season,24,2023-02-04,Eupen,Westerlo,1,1,0.5
+2022-2023,Regular season,24,2023-02-04,R.F.C. Seraing,OH Leuven,2,1,1.0
+2022-2023,Regular season,24,2023-02-04,Sint-Truiden,Kortrijk,1,0,1.0
+2022-2023,Regular season,24,2023-02-05,Antwerp,Club Brugge,0,0,0.5
+2022-2023,Regular season,24,2023-02-05,Mechelen,Charleroi,2,2,0.5
+2022-2023,Regular season,24,2023-02-05,Gent,Genk,2,3,0.0
+2022-2023,Regular season,24,2023-02-05,Union SG,Zulte Waregem,4,0,1.0
+2022-2023,Regular season,25,2023-02-10,OH Leuven,Cercle Brugge,0,0,0.5
+2022-2023,Regular season,25,2023-02-10,Club Brugge,Union SG,1,1,0.5
+2022-2023,Regular season,25,2023-02-10,Eupen,Mechelen,2,1,1.0
+2022-2023,Regular season,25,2023-02-11,Westerlo,Gent,3,3,0.5
+2022-2023,Regular season,25,2023-02-11,Charleroi,R.F.C. Seraing,3,0,1.0
+2022-2023,Regular season,25,2023-02-12,Genk,Antwerp,0,1,0.0
+2022-2023,Regular season,25,2023-02-12,Anderlecht,Sint-Truiden,3,1,1.0
+2022-2023,Regular season,25,2023-02-12,Standard Liège,Kortrijk,0,2,0.0
+2022-2023,Regular season,25,2023-02-12,Zulte Waregem,Oostende,1,1,0.5
+2022-2023,Regular season,26,2023-02-17,Mechelen,Genk,2,2,0.5
+2022-2023,Regular season,26,2023-02-18,Antwerp,Eupen,2,0,1.0
+2022-2023,Regular season,26,2023-02-18,R.F.C. Seraing,Zulte Waregem,1,1,0.5
+2022-2023,Regular season,26,2023-02-18,Oostende,Charleroi,0,0,0.5
+2022-2023,Regular season,26,2023-02-18,Union SG,Standard Liège,2,4,0.0
+2022-2023,Regular season,26,2023-02-19,Cercle Brugge,Club Brugge,2,2,0.5
+2022-2023,Regular season,26,2023-02-19,Gent,OH Leuven,2,0,1.0
+2022-2023,Regular season,26,2023-02-19,Kortrijk,Anderlecht,2,2,0.5
+2022-2023,Regular season,26,2023-02-19,Sint-Truiden,Westerlo,0,1,0.0
+2022-2023,Regular season,27,2023-02-24,Zulte Waregem,Kortrijk,3,3,0.5
+2022-2023,Regular season,27,2023-02-25,R.F.C. Seraing,Mechelen,0,2,0.0
+2022-2023,Regular season,27,2023-02-25,Eupen,Cercle Brugge,2,2,0.5
+2022-2023,Regular season,27,2023-02-25,Genk,Oostende,3,0,1.0
+2022-2023,Regular season,27,2023-02-25,Westerlo,Union SG,4,2,1.0
+2022-2023,Regular season,27,2023-02-26,Club Brugge,Gent,2,0,1.0
+2022-2023,Regular season,27,2023-02-26,OH Leuven,Antwerp,1,1,0.5
+2022-2023,Regular season,27,2023-02-26,Anderlecht,Standard Liège,2,2,0.5
+2022-2023,Regular season,27,2023-02-26,Charleroi,Sint-Truiden,1,0,1.0
+2022-2023,Regular season,28,2023-03-03,Oostende,Club Brugge,3,0,1.0
+2022-2023,Regular season,28,2023-03-04,Kortrijk,Charleroi,0,1,0.0
+2022-2023,Regular season,28,2023-03-04,Cercle Brugge,R.F.C. Seraing,3,1,1.0
+2022-2023,Regular season,28,2023-03-04,OH Leuven,Zulte Waregem,4,2,1.0
+2022-2023,Regular season,28,2023-03-04,Standard Liège,Westerlo,2,0,1.0
+2022-2023,Regular season,28,2023-03-05,Sint-Truiden,Genk,2,2,0.5
+2022-2023,Regular season,28,2023-03-05,Antwerp,Mechelen,5,0,1.0
+2022-2023,Regular season,28,2023-03-05,Gent,Anderlecht,1,0,1.0
+2022-2023,Regular season,28,2023-03-05,Union SG,Eupen,2,1,1.0
+2022-2023,Regular season,29,2023-03-10,Charleroi,OH Leuven,0,1,0.0
+2022-2023,Regular season,29,2023-03-11,Mechelen,Sint-Truiden,1,0,1.0
+2022-2023,Regular season,29,2023-03-11,Westerlo,Kortrijk,3,1,1.0
+2022-2023,Regular season,29,2023-03-11,Eupen,Oostende,4,4,0.5
+2022-2023,Regular season,29,2023-03-11,R.F.C. Seraing,Antwerp,0,2,0.0
+2022-2023,Regular season,29,2023-03-12,Club Brugge,Standard Liège,2,0,1.0
+2022-2023,Regular season,29,2023-03-12,Zulte Waregem,Gent,2,6,0.0
+2022-2023,Regular season,29,2023-03-12,Genk,Union SG,1,2,0.0
+2022-2023,Regular season,29,2023-03-12,Anderlecht,Cercle Brugge,2,0,1.0
+2022-2023,Regular season,30,2023-03-17,Cercle Brugge,Genk,1,1,0.5
+2022-2023,Regular season,30,2023-03-18,Kortrijk,Club Brugge,1,0,1.0
+2022-2023,Regular season,30,2023-03-18,Sint-Truiden,R.F.C. Seraing,2,1,1.0
+2022-2023,Regular season,30,2023-03-18,Oostende,Westerlo,1,2,0.0
+2022-2023,Regular season,30,2023-03-18,Standard Liège,Zulte Waregem,2,2,0.5
+2022-2023,Regular season,30,2023-03-19,Antwerp,Charleroi,0,1,0.0
+2022-2023,Regular season,30,2023-03-19,OH Leuven,Anderlecht,0,2,0.0
+2022-2023,Regular season,30,2023-03-19,Union SG,Mechelen,2,1,1.0
+2022-2023,Regular season,30,2023-03-19,Gent,Eupen,3,0,1.0
+2022-2023,Regular season,31,2023-03-31,Zulte Waregem,Antwerp,0,2,0.0
+2022-2023,Regular season,31,2023-04-01,Cercle Brugge,Kortrijk,2,0,1.0
+2022-2023,Regular season,31,2023-04-01,Westerlo,Charleroi,2,3,0.0
+2022-2023,Regular season,31,2023-04-01,R.F.C. Seraing,Gent,0,5,0.0
+2022-2023,Regular season,31,2023-04-01,Oostende,Standard Liège,1,3,0.0
+2022-2023,Regular season,31,2023-04-02,Genk,OH Leuven,2,1,1.0
+2022-2023,Regular season,31,2023-04-02,Eupen,Anderlecht,0,1,0.0
+2022-2023,Regular season,31,2023-04-02,Mechelen,Club Brugge,0,3,0.0
+2022-2023,Regular season,31,2023-04-02,Union SG,Sint-Truiden,2,1,1.0
+2022-2023,Regular season,32,2023-04-07,Club Brugge,R.F.C. Seraing,2,0,1.0
+2022-2023,Regular season,32,2023-04-08,Kortrijk,Eupen,0,0,0.5
+2022-2023,Regular season,32,2023-04-08,OH Leuven,Mechelen,4,1,1.0
+2022-2023,Regular season,32,2023-04-08,Charleroi,Zulte Waregem,3,2,1.0
+2022-2023,Regular season,32,2023-04-08,Gent,Union SG,1,1,0.5
+2022-2023,Regular season,32,2023-04-09,Anderlecht,Westerlo,0,0,0.5
+2022-2023,Regular season,32,2023-04-09,Antwerp,Cercle Brugge,2,1,1.0
+2022-2023,Regular season,32,2023-04-09,Standard Liège,Genk,2,0,1.0
+2022-2023,Regular season,32,2023-04-09,Sint-Truiden,Oostende,5,0,1.0
+2022-2023,Regular season,33,2023-04-14,Standard Liège,Charleroi,3,1,1.0
+2022-2023,Regular season,33,2023-04-15,Eupen,Zulte Waregem,1,5,0.0
+2022-2023,Regular season,33,2023-04-15,Oostende,OH Leuven,0,4,0.0
+2022-2023,Regular season,33,2023-04-15,Cercle Brugge,Sint-Truiden,3,1,1.0
+2022-2023,Regular season,33,2023-04-15,Westerlo,Club Brugge,0,0,0.5
+2022-2023,Regular season,33,2023-04-16,Genk,Anderlecht,5,2,1.0
+2022-2023,Regular season,33,2023-04-16,Mechelen,Gent,1,1,0.5
+2022-2023,Regular season,33,2023-04-16,Antwerp,Kortrijk,1,0,1.0
+2022-2023,Regular season,33,2023-04-16,Union SG,R.F.C. Seraing,2,1,1.0
+2022-2023,Regular season,34,2023-04-22,R.F.C. Seraing,Westerlo,1,1,0.5
+2022-2023,Regular season,34,2023-04-23,Sint-Truiden,Antwerp,0,1,0.0
+2022-2023,Regular season,34,2023-04-23,Kortrijk,Union SG,2,4,0.0
+2022-2023,Regular season,34,2023-04-23,Zulte Waregem,Cercle Brugge,2,3,0.0
+2022-2023,Regular season,34,2023-04-23,Charleroi,Genk,2,2,0.5
+2022-2023,Regular season,34,2023-04-23,OH Leuven,Standard Liège,3,2,1.0
+2022-2023,Regular season,34,2023-04-23,Gent,Oostende,1,2,0.0
+2022-2023,Regular season,34,2023-04-23,Club Brugge,Eupen,7,0,1.0
+2022-2023,Regular season,34,2023-04-23,Anderlecht,Mechelen,2,3,0.0
+2022-2023,Play-off II,1,2023-04-28,Gent,Westerlo,3,1,1.0
+2022-2023,Play-off II,1,2023-04-29,Cercle Brugge,Standard Liège,0,0,0.5
+2022-2023,Play-off I,1,2023-04-30,Genk,Club Brugge,3,1,1.0
+2022-2023,Play-off I,1,2023-05-03,Union SG,Antwerp,0,2,0.0
+2022-2023,Play-off I,2,2023-05-06,Club Brugge,Union SG,1,2,0.0
+2022-2023,Play-off II,2,2023-05-06,Standard Liège,Gent,1,2,0.0
+2022-2023,Play-off II,2,2023-05-07,Westerlo,Cercle Brugge,3,5,0.0
+2022-2023,Play-off I,2,2023-05-07,Antwerp,Genk,2,1,1.0
+2022-2023,Play-off II,3,2023-05-13,Cercle Brugge,Gent,0,4,0.0
+2022-2023,Play-off II,3,2023-05-13,Standard Liège,Westerlo,2,2,0.5
+2022-2023,Play-off I,3,2023-05-14,Antwerp,Club Brugge,3,2,1.0
+2022-2023,Play-off I,3,2023-05-14,Union SG,Genk,3,0,1.0
+2022-2023,Play-off II,4,2023-05-20,Westerlo,Standard Liège,3,0,1.0
+2022-2023,Play-off II,4,2023-05-20,Gent,Cercle Brugge,2,2,0.5
+2022-2023,Play-off I,4,2023-05-21,Club Brugge,Antwerp,2,0,1.0
+2022-2023,Play-off I,4,2023-05-21,Genk,Union SG,1,1,0.5
+2022-2023,Play-off II,5,2023-05-27,Westerlo,Gent,1,3,0.0
+2022-2023,Play-off II,5,2023-05-27,Standard Liège,Cercle Brugge,0,4,0.0
+2022-2023,Play-off I,5,2023-05-28,Antwerp,Union SG,1,1,0.5
+2022-2023,Play-off I,5,2023-05-28,Club Brugge,Genk,1,3,0.0
+2022-2023,Play-off II,6,2023-06-03,Gent,Standard Liège,3,1,1.0
+2022-2023,Play-off II,6,2023-06-03,Cercle Brugge,Westerlo,2,0,1.0
+2022-2023,Play-off I,6,2023-06-04,Union SG,Club Brugge,1,3,0.0
+2022-2023,Play-off I,6,2023-06-04,Genk,Antwerp,2,2,0.5

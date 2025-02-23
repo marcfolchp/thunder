@@ -1,0 +1,297 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,Regular season,1,2017-07-21,Vojvodina,Čukarički,1,0,1.0
+2017-2018,Regular season,1,2017-07-22,Partizan,Mačva Šabac,6,1,1.0
+2017-2018,Regular season,1,2017-07-22,Napredak Kruš,Rad,2,2,0.5
+2017-2018,Regular season,1,2017-07-22,Voždovac,Radnik Surdulica,0,0,0.5
+2017-2018,Regular season,1,2017-07-22,Spartak Subotic,Bačka Palanka,2,1,1.0
+2017-2018,Regular season,1,2017-07-22,Javor Ivanjica,Borac Čačak,1,0,1.0
+2017-2018,Regular season,1,2017-07-22,Mladost Lučani,Zemun,1,1,0.5
+2017-2018,Regular season,1,2017-07-23,Red Star,Radnički Niš,3,0,1.0
+2017-2018,Regular season,2,2017-07-29,Mačva Šabac,Zemun,1,0,1.0
+2017-2018,Regular season,2,2017-07-29,Bačka Palanka,Voždovac,0,3,0.0
+2017-2018,Regular season,2,2017-07-29,Partizan,Javor Ivanjica,2,1,1.0
+2017-2018,Regular season,2,2017-07-29,Čukarički,Napredak Kruš,2,0,1.0
+2017-2018,Regular season,2,2017-07-29,Borac Čačak,Spartak Subotic,0,4,0.0
+2017-2018,Regular season,2,2017-07-29,Radnik Surdulica,Vojvodina,0,4,0.0
+2017-2018,Regular season,2,2017-07-30,Rad,Red Star,0,2,0.0
+2017-2018,Regular season,3,2017-08-04,Napredak Kruš,Radnik Surdulica,1,2,0.0
+2017-2018,Regular season,3,2017-08-05,Zemun,Radnički Niš,1,2,0.0
+2017-2018,Regular season,3,2017-08-05,Vojvodina,Bačka Palanka,1,0,1.0
+2017-2018,Regular season,3,2017-08-05,Javor Ivanjica,Mačva Šabac,0,4,0.0
+2017-2018,Regular season,3,2017-08-05,Mladost Lučani,Rad,2,1,1.0
+2017-2018,Regular season,3,2017-08-05,Voždovac,Borac Čačak,2,1,1.0
+2017-2018,Regular season,3,2017-08-06,Spartak Subotic,Partizan,0,1,0.0
+2017-2018,Regular season,3,2017-08-06,Red Star,Čukarički,3,0,1.0
+2017-2018,Regular season,4,2017-08-09,Bačka Palanka,Napredak Kruš,1,4,0.0
+2017-2018,Regular season,4,2017-08-09,Mačva Šabac,Radnički Niš,1,2,0.0
+2017-2018,Regular season,4,2017-08-09,Čukarički,Mladost Lučani,1,0,1.0
+2017-2018,Regular season,4,2017-08-09,Rad,Zemun,2,0,1.0
+2017-2018,Regular season,4,2017-08-09,Partizan,Voždovac,1,3,0.0
+2017-2018,Regular season,4,2017-08-09,Borac Čačak,Vojvodina,0,2,0.0
+2017-2018,Regular season,4,2017-08-10,Radnik Surdulica,Red Star,0,5,0.0
+2017-2018,Regular season,4,2017-08-10,Javor Ivanjica,Spartak Subotic,1,1,0.5
+2017-2018,Regular season,5,2017-08-13,Red Star,Bačka Palanka,3,1,1.0
+2017-2018,Regular season,5,2017-08-13,Zemun,Čukarički,2,0,1.0
+2017-2018,Regular season,5,2017-08-13,Vojvodina,Partizan,0,1,0.0
+2017-2018,Regular season,5,2017-08-13,Radnički Niš,Rad,2,0,1.0
+2017-2018,Regular season,5,2017-08-13,Napredak Kruš,Borac Čačak,3,1,1.0
+2017-2018,Regular season,5,2017-08-14,Voždovac,Javor Ivanjica,1,0,1.0
+2017-2018,Regular season,5,2017-08-14,Spartak Subotic,Mačva Šabac,3,2,1.0
+2017-2018,Regular season,5,2017-08-14,Mladost Lučani,Radnik Surdulica,0,0,0.5
+2017-2018,Regular season,6,2017-08-19,Mačva Šabac,Rad,1,2,0.0
+2017-2018,Regular season,6,2017-08-19,Bačka Palanka,Mladost Lučani,1,0,1.0
+2017-2018,Regular season,6,2017-08-19,Spartak Subotic,Voždovac,0,0,0.5
+2017-2018,Regular season,6,2017-08-19,Javor Ivanjica,Vojvodina,0,1,0.0
+2017-2018,Regular season,6,2017-08-19,Čukarički,Radnički Niš,0,0,0.5
+2017-2018,Regular season,6,2017-08-20,Radnik Surdulica,Zemun,0,1,0.0
+2017-2018,Regular season,2,2017-08-23,Radnički Niš,Mladost Lučani,2,1,1.0
+2017-2018,Regular season,7,2017-08-25,Rad,Čukarički,0,1,0.0
+2017-2018,Regular season,7,2017-08-26,Zemun,Bačka Palanka,1,1,0.5
+2017-2018,Regular season,7,2017-08-26,Voždovac,Mačva Šabac,0,2,0.0
+2017-2018,Regular season,7,2017-08-26,Radnički Niš,Radnik Surdulica,2,2,0.5
+2017-2018,Regular season,7,2017-08-26,Mladost Lučani,Borac Čačak,4,1,1.0
+2017-2018,Regular season,7,2017-08-26,Napredak Kruš,Javor Ivanjica,2,1,1.0
+2017-2018,Regular season,7,2017-08-26,Vojvodina,Spartak Subotic,0,5,0.0
+2017-2018,Regular season,7,2017-08-27,Red Star,Partizan,0,0,0.5
+2017-2018,Regular season,8,2017-09-08,Mačva Šabac,Čukarički,0,2,0.0
+2017-2018,Regular season,8,2017-09-09,Bačka Palanka,Radnički Niš,1,1,0.5
+2017-2018,Regular season,8,2017-09-09,Radnik Surdulica,Rad,3,1,1.0
+2017-2018,Regular season,8,2017-09-09,Spartak Subotic,Napredak Kruš,2,1,1.0
+2017-2018,Regular season,8,2017-09-09,Borac Čačak,Zemun,0,0,0.5
+2017-2018,Regular season,8,2017-09-09,Javor Ivanjica,Red Star,0,2,0.0
+2017-2018,Regular season,8,2017-09-09,Partizan,Mladost Lučani,3,0,1.0
+2017-2018,Regular season,8,2017-09-10,Voždovac,Vojvodina,1,1,0.5
+2017-2018,Regular season,9,2017-09-13,Radnički Niš,Borac Čačak,1,0,1.0
+2017-2018,Regular season,9,2017-09-13,Čukarički,Radnik Surdulica,1,2,0.0
+2017-2018,Regular season,9,2017-09-13,Napredak Kruš,Voždovac,1,2,0.0
+2017-2018,Regular season,9,2017-09-13,Mladost Lučani,Javor Ivanjica,3,0,1.0
+2017-2018,Regular season,9,2017-09-13,Vojvodina,Mačva Šabac,1,0,1.0
+2017-2018,Regular season,9,2017-09-13,Rad,Bačka Palanka,0,0,0.5
+2017-2018,Regular season,10,2017-09-16,Vojvodina,Napredak Kruš,3,1,1.0
+2017-2018,Regular season,10,2017-09-17,Bačka Palanka,Čukarički,2,3,0.0
+2017-2018,Regular season,10,2017-09-17,Mačva Šabac,Radnik Surdulica,4,0,1.0
+2017-2018,Regular season,10,2017-09-17,Spartak Subotic,Mladost Lučani,3,3,0.5
+2017-2018,Regular season,10,2017-09-17,Voždovac,Red Star,0,2,0.0
+2017-2018,Regular season,10,2017-09-17,Borac Čačak,Rad,3,1,1.0
+2017-2018,Regular season,10,2017-09-17,Javor Ivanjica,Zemun,0,1,0.0
+2017-2018,Regular season,10,2017-09-17,Partizan,Radnički Niš,3,1,1.0
+2017-2018,Regular season,6,2017-09-20,Borac Čačak,Red Star,0,2,0.0
+2017-2018,Regular season,6,2017-09-20,Partizan,Napredak Kruš,1,1,0.5
+2017-2018,Regular season,11,2017-09-24,Zemun,Spartak Subotic,1,1,0.5
+2017-2018,Regular season,11,2017-09-24,Red Star,Vojvodina,2,0,1.0
+2017-2018,Regular season,11,2017-09-24,Radnički Niš,Javor Ivanjica,1,0,1.0
+2017-2018,Regular season,11,2017-09-24,Rad,Partizan,2,4,0.0
+2017-2018,Regular season,11,2017-09-24,Radnik Surdulica,Bačka Palanka,3,1,1.0
+2017-2018,Regular season,11,2017-09-24,Čukarički,Borac Čačak,2,0,1.0
+2017-2018,Regular season,11,2017-09-24,Mladost Lučani,Voždovac,1,3,0.0
+2017-2018,Regular season,11,2017-09-24,Napredak Kruš,Mačva Šabac,3,1,1.0
+2017-2018,Regular season,12,2017-09-29,Vojvodina,Mladost Lučani,2,0,1.0
+2017-2018,Regular season,12,2017-09-30,Mačva Šabac,Bačka Palanka,1,1,0.5
+2017-2018,Regular season,12,2017-09-30,Voždovac,Zemun,6,1,1.0
+2017-2018,Regular season,12,2017-09-30,Javor Ivanjica,Rad,3,2,1.0
+2017-2018,Regular season,12,2017-09-30,Borac Čačak,Radnik Surdulica,3,1,1.0
+2017-2018,Regular season,12,2017-09-30,Spartak Subotic,Radnički Niš,4,2,1.0
+2017-2018,Regular season,12,2017-10-01,Napredak Kruš,Red Star,1,0,1.0
+2017-2018,Regular season,12,2017-10-01,Partizan,Čukarički,0,0,0.5
+2017-2018,Regular season,13,2017-10-14,Zemun,Vojvodina,0,0,0.5
+2017-2018,Regular season,13,2017-10-14,Red Star,Mačva Šabac,4,0,1.0
+2017-2018,Regular season,13,2017-10-14,Radnički Niš,Voždovac,1,1,0.5
+2017-2018,Regular season,13,2017-10-14,Čukarički,Javor Ivanjica,0,0,0.5
+2017-2018,Regular season,13,2017-10-14,Rad,Spartak Subotic,0,2,0.0
+2017-2018,Regular season,13,2017-10-15,Bačka Palanka,Borac Čačak,1,0,1.0
+2017-2018,Regular season,13,2017-10-15,Radnik Surdulica,Partizan,0,2,0.0
+2017-2018,Regular season,13,2017-10-15,Mladost Lučani,Napredak Kruš,2,1,1.0
+2017-2018,Regular season,14,2017-10-20,Vojvodina,Radnički Niš,1,1,0.5
+2017-2018,Regular season,14,2017-10-21,Mačva Šabac,Borac Čačak,1,0,1.0
+2017-2018,Regular season,14,2017-10-21,Spartak Subotic,Čukarički,0,0,0.5
+2017-2018,Regular season,14,2017-10-21,Voždovac,Rad,3,0,1.0
+2017-2018,Regular season,14,2017-10-21,Javor Ivanjica,Radnik Surdulica,1,0,1.0
+2017-2018,Regular season,14,2017-10-21,Napredak Kruš,Zemun,2,1,1.0
+2017-2018,Regular season,14,2017-10-22,Partizan,Bačka Palanka,3,1,1.0
+2017-2018,Regular season,14,2017-10-22,Red Star,Mladost Lučani,2,1,1.0
+2017-2018,Regular season,9,2017-10-25,Zemun,Partizan,1,3,0.0
+2017-2018,Regular season,9,2017-10-25,Red Star,Spartak Subotic,1,0,1.0
+2017-2018,Regular season,15,2017-10-28,Rad,Vojvodina,0,3,0.0
+2017-2018,Regular season,15,2017-10-29,Bačka Palanka,Javor Ivanjica,2,1,1.0
+2017-2018,Regular season,15,2017-10-29,Zemun,Red Star,0,1,0.0
+2017-2018,Regular season,15,2017-10-29,Radnik Surdulica,Spartak Subotic,5,1,1.0
+2017-2018,Regular season,15,2017-10-29,Mladost Lučani,Mačva Šabac,2,0,1.0
+2017-2018,Regular season,15,2017-10-29,Čukarički,Voždovac,2,1,1.0
+2017-2018,Regular season,15,2017-10-29,Radnički Niš,Napredak Kruš,1,3,0.0
+2017-2018,Regular season,15,2017-10-29,Borac Čačak,Partizan,1,2,0.0
+2017-2018,Regular season,16,2017-11-03,Čukarički,Vojvodina,2,1,1.0
+2017-2018,Regular season,16,2017-11-04,Bačka Palanka,Spartak Subotic,0,2,0.0
+2017-2018,Regular season,16,2017-11-04,Borac Čačak,Javor Ivanjica,2,1,1.0
+2017-2018,Regular season,16,2017-11-04,Radnik Surdulica,Voždovac,1,0,1.0
+2017-2018,Regular season,16,2017-11-04,Rad,Napredak Kruš,1,0,1.0
+2017-2018,Regular season,16,2017-11-05,Zemun,Mladost Lučani,0,0,0.5
+2017-2018,Regular season,16,2017-11-05,Mačva Šabac,Partizan,1,3,0.0
+2017-2018,Regular season,16,2017-11-05,Radnički Niš,Red Star,0,4,0.0
+2017-2018,Regular season,17,2017-11-17,Mladost Lučani,Radnički Niš,2,2,0.5
+2017-2018,Regular season,17,2017-11-18,Red Star,Rad,6,1,1.0
+2017-2018,Regular season,17,2017-11-18,Vojvodina,Radnik Surdulica,0,0,0.5
+2017-2018,Regular season,17,2017-11-18,Voždovac,Bačka Palanka,2,0,1.0
+2017-2018,Regular season,17,2017-11-18,Napredak Kruš,Čukarički,1,2,0.0
+2017-2018,Regular season,17,2017-11-19,Zemun,Mačva Šabac,1,0,1.0
+2017-2018,Regular season,17,2017-11-19,Javor Ivanjica,Partizan,0,2,0.0
+2017-2018,Regular season,17,2017-11-19,Spartak Subotic,Borac Čačak,3,1,1.0
+2017-2018,Regular season,18,2017-11-24,Borac Čačak,Voždovac,0,0,0.5
+2017-2018,Regular season,18,2017-11-25,Mačva Šabac,Javor Ivanjica,1,1,0.5
+2017-2018,Regular season,18,2017-11-25,Bačka Palanka,Vojvodina,1,0,1.0
+2017-2018,Regular season,18,2017-11-25,Rad,Mladost Lučani,1,0,1.0
+2017-2018,Regular season,18,2017-11-25,Radnik Surdulica,Napredak Kruš,2,3,0.0
+2017-2018,Regular season,18,2017-11-25,Radnički Niš,Zemun,4,1,1.0
+2017-2018,Regular season,18,2017-11-26,Čukarički,Red Star,1,2,0.0
+2017-2018,Regular season,18,2017-11-26,Partizan,Spartak Subotic,1,1,0.5
+2017-2018,Regular season,19,2017-11-29,Zemun,Rad,2,0,1.0
+2017-2018,Regular season,19,2017-11-29,Voždovac,Partizan,0,1,0.0
+2017-2018,Regular season,19,2017-11-29,Mladost Lučani,Čukarički,1,1,0.5
+2017-2018,Regular season,19,2017-11-29,Vojvodina,Borac Čačak,0,1,0.0
+2017-2018,Regular season,19,2017-11-29,Radnički Niš,Mačva Šabac,3,0,1.0
+2017-2018,Regular season,19,2017-11-29,Napredak Kruš,Bačka Palanka,1,1,0.5
+2017-2018,Regular season,19,2017-11-29,Spartak Subotic,Javor Ivanjica,4,0,1.0
+2017-2018,Regular season,19,2017-11-29,Red Star,Radnik Surdulica,5,0,1.0
+2017-2018,Regular season,20,2017-12-02,Bačka Palanka,Red Star,2,2,0.5
+2017-2018,Regular season,20,2017-12-03,Javor Ivanjica,Voždovac,0,3,0.0
+2017-2018,Regular season,20,2017-12-03,Mačva Šabac,Spartak Subotic,1,0,1.0
+2017-2018,Regular season,20,2017-12-03,Partizan,Vojvodina,1,1,0.5
+2017-2018,Regular season,20,2017-12-03,Radnik Surdulica,Mladost Lučani,3,4,0.0
+2017-2018,Regular season,20,2017-12-04,Borac Čačak,Napredak Kruš,3,3,0.5
+2017-2018,Regular season,20,2017-12-04,Rad,Radnički Niš,2,3,0.0
+2017-2018,Regular season,20,2017-12-04,Čukarički,Zemun,4,1,1.0
+2017-2018,Regular season,21,2017-12-08,Voždovac,Spartak Subotic,2,3,0.0
+2017-2018,Regular season,21,2017-12-09,Radnički Niš,Čukarički,1,0,1.0
+2017-2018,Regular season,21,2017-12-09,Rad,Mačva Šabac,0,2,0.0
+2017-2018,Regular season,21,2017-12-09,Vojvodina,Javor Ivanjica,0,3,0.0
+2017-2018,Regular season,21,2017-12-09,Zemun,Radnik Surdulica,0,1,0.0
+2017-2018,Regular season,21,2017-12-09,Mladost Lučani,Bačka Palanka,1,0,1.0
+2017-2018,Regular season,21,2017-12-10,Napredak Kruš,Partizan,2,1,1.0
+2017-2018,Regular season,21,2017-12-10,Red Star,Borac Čačak,3,0,1.0
+2017-2018,Regular season,22,2017-12-13,Bačka Palanka,Zemun,1,0,1.0
+2017-2018,Regular season,22,2017-12-13,Spartak Subotic,Vojvodina,1,1,0.5
+2017-2018,Regular season,22,2017-12-13,Javor Ivanjica,Napredak Kruš,0,1,0.0
+2017-2018,Regular season,22,2017-12-13,Čukarički,Rad,3,0,1.0
+2017-2018,Regular season,22,2017-12-13,Radnik Surdulica,Radnički Niš,0,2,0.0
+2017-2018,Regular season,22,2017-12-13,Borac Čačak,Mladost Lučani,1,2,0.0
+2017-2018,Regular season,22,2017-12-13,Mačva Šabac,Voždovac,1,1,0.5
+2017-2018,Regular season,22,2017-12-13,Partizan,Red Star,1,1,0.5
+2017-2018,Regular season,23,2018-02-16,Napredak Kruš,Spartak Subotic,4,3,1.0
+2017-2018,Regular season,23,2018-02-17,Zemun,Borac Čačak,3,0,1.0
+2017-2018,Regular season,23,2018-02-17,Red Star,Javor Ivanjica,3,0,1.0
+2017-2018,Regular season,23,2018-02-17,Rad,Radnik Surdulica,1,1,0.5
+2017-2018,Regular season,23,2018-02-17,Čukarički,Mačva Šabac,2,0,1.0
+2017-2018,Regular season,23,2018-02-17,Vojvodina,Voždovac,2,0,1.0
+2017-2018,Regular season,23,2018-02-18,Radnički Niš,Bačka Palanka,4,0,1.0
+2017-2018,Regular season,23,2018-02-18,Mladost Lučani,Partizan,1,2,0.0
+2017-2018,Regular season,24,2018-02-23,Voždovac,Napredak Kruš,3,2,1.0
+2017-2018,Regular season,24,2018-02-24,Bačka Palanka,Rad,2,1,1.0
+2017-2018,Regular season,24,2018-02-24,Mačva Šabac,Vojvodina,1,1,0.5
+2017-2018,Regular season,24,2018-02-24,Javor Ivanjica,Mladost Lučani,3,0,1.0
+2017-2018,Regular season,24,2018-02-24,Radnik Surdulica,Čukarički,0,0,0.5
+2017-2018,Regular season,24,2018-02-24,Borac Čačak,Radnički Niš,1,1,0.5
+2017-2018,Regular season,24,2018-02-25,Spartak Subotic,Red Star,1,2,0.0
+2017-2018,Regular season,24,2018-02-25,Partizan,Zemun,1,1,0.5
+2017-2018,Regular season,25,2018-03-03,Zemun,Javor Ivanjica,0,2,0.0
+2017-2018,Regular season,25,2018-03-03,Radnički Niš,Partizan,1,0,1.0
+2017-2018,Regular season,25,2018-03-03,Rad,Borac Čačak,5,0,1.0
+2017-2018,Regular season,25,2018-03-03,Čukarički,Bačka Palanka,5,0,1.0
+2017-2018,Regular season,25,2018-03-03,Radnik Surdulica,Mačva Šabac,2,1,1.0
+2017-2018,Regular season,25,2018-03-03,Napredak Kruš,Vojvodina,1,0,1.0
+2017-2018,Regular season,25,2018-03-03,Red Star,Voždovac,2,1,1.0
+2017-2018,Regular season,25,2018-03-03,Mladost Lučani,Spartak Subotic,2,0,1.0
+2017-2018,Regular season,26,2018-03-07,Borac Čačak,Čukarički,2,2,0.5
+2017-2018,Regular season,26,2018-03-07,Voždovac,Mladost Lučani,0,0,0.5
+2017-2018,Regular season,26,2018-03-07,Javor Ivanjica,Radnički Niš,1,3,0.0
+2017-2018,Regular season,26,2018-03-07,Bačka Palanka,Radnik Surdulica,4,2,1.0
+2017-2018,Regular season,26,2018-03-07,Mačva Šabac,Napredak Kruš,1,0,1.0
+2017-2018,Regular season,26,2018-03-07,Spartak Subotic,Zemun,1,2,0.0
+2017-2018,Regular season,26,2018-03-07,Partizan,Rad,3,1,1.0
+2017-2018,Regular season,26,2018-03-07,Vojvodina,Red Star,1,2,0.0
+2017-2018,Regular season,27,2018-03-11,Bačka Palanka,Mačva Šabac,2,1,1.0
+2017-2018,Regular season,27,2018-03-11,Mladost Lučani,Vojvodina,0,3,0.0
+2017-2018,Regular season,27,2018-03-11,Zemun,Voždovac,3,0,1.0
+2017-2018,Regular season,27,2018-03-11,Čukarički,Partizan,0,2,0.0
+2017-2018,Regular season,27,2018-03-11,Radnički Niš,Spartak Subotic,0,2,0.0
+2017-2018,Regular season,27,2018-03-11,Radnik Surdulica,Borac Čačak,1,0,1.0
+2017-2018,Regular season,27,2018-03-11,Rad,Javor Ivanjica,2,0,1.0
+2017-2018,Regular season,27,2018-03-11,Red Star,Napredak Kruš,1,1,0.5
+2017-2018,Regular season,28,2018-03-16,Voždovac,Radnički Niš,2,1,1.0
+2017-2018,Regular season,28,2018-03-18,Partizan,Radnik Surdulica,2,0,1.0
+2017-2018,Regular season,28,2018-03-18,Vojvodina,Zemun,0,3,0.0
+2017-2018,Regular season,28,2018-03-18,Borac Čačak,Bačka Palanka,2,1,1.0
+2017-2018,Regular season,28,2018-03-18,Javor Ivanjica,Čukarički,3,3,0.5
+2017-2018,Regular season,28,2018-03-18,Mačva Šabac,Red Star,0,2,0.0
+2017-2018,Regular season,28,2018-03-18,Napredak Kruš,Mladost Lučani,0,0,0.5
+2017-2018,Regular season,28,2018-03-18,Spartak Subotic,Rad,2,0,1.0
+2017-2018,Regular season,29,2018-03-30,Rad,Voždovac,0,1,0.0
+2017-2018,Regular season,29,2018-03-31,Radnik Surdulica,Javor Ivanjica,1,0,1.0
+2017-2018,Regular season,29,2018-03-31,Radnički Niš,Vojvodina,1,1,0.5
+2017-2018,Regular season,29,2018-03-31,Zemun,Napredak Kruš,1,1,0.5
+2017-2018,Regular season,29,2018-03-31,Borac Čačak,Mačva Šabac,2,0,1.0
+2017-2018,Regular season,29,2018-03-31,Bačka Palanka,Partizan,1,2,0.0
+2017-2018,Regular season,29,2018-04-01,Čukarički,Spartak Subotic,4,1,1.0
+2017-2018,Regular season,29,2018-04-01,Mladost Lučani,Red Star,2,5,0.0
+2017-2018,Regular season,30,2018-04-05,Partizan,Borac Čačak,5,0,1.0
+2017-2018,Regular season,30,2018-04-05,Voždovac,Čukarički,0,0,0.5
+2017-2018,Regular season,30,2018-04-05,Spartak Subotic,Radnik Surdulica,3,1,1.0
+2017-2018,Regular season,30,2018-04-05,Mačva Šabac,Mladost Lučani,2,1,1.0
+2017-2018,Regular season,30,2018-04-05,Javor Ivanjica,Bačka Palanka,2,1,1.0
+2017-2018,Regular season,30,2018-04-05,Red Star,Zemun,3,1,1.0
+2017-2018,Regular season,30,2018-04-05,Napredak Kruš,Radnički Niš,3,1,1.0
+2017-2018,Regular season,30,2018-04-05,Vojvodina,Rad,2,1,1.0
+2017-2018,Relegation round,1,2018-04-13,Zemun,Bačka Palanka,3,0,1.0
+2017-2018,Championship round,1,2018-04-14,Čukarički,Radnički Niš,2,3,0.0
+2017-2018,Relegation round,1,2018-04-14,Mladost Lučani,Rad,1,1,0.5
+2017-2018,Relegation round,1,2018-04-14,Radnik Surdulica,Javor Ivanjica,0,0,0.5
+2017-2018,Relegation round,1,2018-04-14,Mačva Šabac,Borac Čačak,2,0,1.0
+2017-2018,Championship round,1,2018-04-14,Red Star,Partizan,2,1,1.0
+2017-2018,Championship round,1,2018-04-15,Napredak Kruš,Vojvodina,1,0,1.0
+2017-2018,Championship round,1,2018-04-15,Spartak Subotic,Voždovac,1,0,1.0
+2017-2018,Championship round,2,2018-04-20,Voždovac,Napredak Kruš,1,0,1.0
+2017-2018,Relegation round,2,2018-04-21,Rad,Radnik Surdulica,2,1,1.0
+2017-2018,Relegation round,2,2018-04-21,Javor Ivanjica,Zemun,1,0,1.0
+2017-2018,Championship round,2,2018-04-21,Radnički Niš,Red Star,1,3,0.0
+2017-2018,Relegation round,2,2018-04-22,Bačka Palanka,Mačva Šabac,1,1,0.5
+2017-2018,Relegation round,2,2018-04-22,Borac Čačak,Mladost Lučani,0,2,0.0
+2017-2018,Championship round,2,2018-04-22,Vojvodina,Spartak Subotic,0,2,0.0
+2017-2018,Championship round,2,2018-04-22,Partizan,Čukarički,2,1,1.0
+2017-2018,Relegation round,3,2018-04-25,Zemun,Borac Čačak,2,1,1.0
+2017-2018,Championship round,3,2018-04-25,Voždovac,Vojvodina,2,1,1.0
+2017-2018,Championship round,3,2018-04-25,Red Star,Čukarički,3,0,1.0
+2017-2018,Championship round,3,2018-04-25,Spartak Subotic,Napredak Kruš,2,1,1.0
+2017-2018,Relegation round,3,2018-04-25,Mladost Lučani,Javor Ivanjica,3,1,1.0
+2017-2018,Relegation round,3,2018-04-25,Mačva Šabac,Rad,0,0,0.5
+2017-2018,Relegation round,3,2018-04-25,Radnik Surdulica,Bačka Palanka,2,0,1.0
+2017-2018,Championship round,3,2018-04-26,Partizan,Radnički Niš,3,1,1.0
+2017-2018,Championship round,4,2018-04-29,Napredak Kruš,Red Star,0,2,0.0
+2017-2018,Relegation round,4,2018-04-29,Zemun,Mladost Lučani,0,0,0.5
+2017-2018,Championship round,4,2018-04-29,Vojvodina,Partizan,2,1,1.0
+2017-2018,Championship round,4,2018-04-29,Radnički Niš,Voždovac,3,0,1.0
+2017-2018,Championship round,4,2018-04-29,Čukarički,Spartak Subotic,3,0,1.0
+2017-2018,Relegation round,4,2018-04-29,Rad,Bačka Palanka,2,0,1.0
+2017-2018,Relegation round,4,2018-04-29,Mačva Šabac,Radnik Surdulica,2,1,1.0
+2017-2018,Relegation round,4,2018-04-29,Javor Ivanjica,Borac Čačak,3,0,1.0
+2017-2018,Relegation round,5,2018-05-04,Mladost Lučani,Mačva Šabac,0,0,0.5
+2017-2018,Relegation round,5,2018-05-05,Radnik Surdulica,Zemun,2,1,1.0
+2017-2018,Relegation round,5,2018-05-05,Borac Čačak,Rad,1,2,0.0
+2017-2018,Relegation round,5,2018-05-05,Bačka Palanka,Javor Ivanjica,4,0,1.0
+2017-2018,Championship round,5,2018-05-05,Partizan,Napredak Kruš,2,2,0.5
+2017-2018,Championship round,5,2018-05-05,Čukarički,Voždovac,2,1,1.0
+2017-2018,Championship round,5,2018-05-05,Radnički Niš,Vojvodina,5,0,1.0
+2017-2018,Championship round,5,2018-05-05,Red Star,Spartak Subotic,4,0,1.0
+2017-2018,Championship round,6,2018-05-13,Napredak Kruš,Čukarički,3,2,1.0
+2017-2018,Championship round,6,2018-05-13,Vojvodina,Red Star,1,2,0.0
+2017-2018,Championship round,6,2018-05-13,Spartak Subotic,Radnički Niš,2,0,1.0
+2017-2018,Championship round,6,2018-05-13,Voždovac,Partizan,2,1,1.0
+2017-2018,Relegation round,6,2018-05-13,Mladost Lučani,Bačka Palanka,1,3,0.0
+2017-2018,Relegation round,6,2018-05-13,Borac Čačak,Radnik Surdulica,2,0,1.0
+2017-2018,Relegation round,6,2018-05-13,Rad,Zemun,3,2,1.0
+2017-2018,Relegation round,6,2018-05-13,Mačva Šabac,Javor Ivanjica,1,2,0.0
+2017-2018,Relegation round,7,2018-05-17,Javor Ivanjica,Rad,1,1,0.5
+2017-2018,Relegation round,7,2018-05-17,Zemun,Mačva Šabac,1,1,0.5
+2017-2018,Relegation round,7,2018-05-17,Bačka Palanka,Borac Čačak,3,2,1.0
+2017-2018,Relegation round,7,2018-05-17,Radnik Surdulica,Mladost Lučani,3,1,1.0
+2017-2018,Championship round,7,2018-05-17,Čukarički,Vojvodina,1,6,0.0
+2017-2018,Championship round,7,2018-05-17,Radnički Niš,Napredak Kruš,4,1,1.0
+2017-2018,Championship round,7,2018-05-17,Partizan,Spartak Subotic,2,0,1.0
+2017-2018,Championship round,7,2018-05-19,Red Star,Voždovac,5,1,1.0

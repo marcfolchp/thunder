@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1913-1914,1,1913-09-01,Derby County,Liverpool,1,1,0.5
+1913-1914,1,1913-09-01,Sheffield Utd,Tottenham,1,4,0.0
+1913-1914,1,1913-09-01,Preston,Sunderland,2,2,0.5
+1913-1914,1,1913-09-01,Blackburn,Newcastle Utd,3,0,1.0
+1913-1914,1,1913-09-01,Everton,Burnley,1,1,0.5
+1913-1914,1,1913-09-01,Aston Villa,Manchester City,1,1,0.5
+1913-1914,1,1913-09-01,Bolton,The Wednesday,0,1,0.0
+1913-1914,1,1913-09-06,West Brom,Burnley,4,1,1.0
+1913-1914,1,1913-09-06,Chelsea,Tottenham,1,3,0.0
+1913-1914,2,1913-09-06,Bradford City,Aston Villa,0,0,0.5
+1913-1914,2,1913-09-06,The Wednesday,Manchester Utd,1,3,0.0
+1913-1914,2,1913-09-06,Blackburn,Liverpool,6,2,1.0
+1913-1914,2,1913-09-06,Sunderland,Newcastle Utd,1,2,0.0
+1913-1914,2,1913-09-06,Derby County,Sheffield Utd,3,5,0.0
+1913-1914,2,1913-09-06,Bolton,Oldham Athletic,6,2,1.0
+1913-1914,2,1913-09-06,Everton,Preston,2,0,1.0
+1913-1914,2,1913-09-06,Manchester City,Middlesbrough,1,1,0.5
+1913-1914,2,1913-09-08,Chelsea,West Brom,1,1,0.5
+1913-1914,3,1913-09-08,Tottenham,Sheffield Utd,2,1,1.0
+1913-1914,3,1913-09-08,Burnley,Blackburn,1,2,0.0
+1913-1914,3,1913-09-08,Manchester Utd,Sunderland,3,1,1.0
+1913-1914,3,1913-09-10,Derby County,Middlesbrough,2,2,0.5
+1913-1914,2,1913-09-13,Middlesbrough,Bradford City,1,1,0.5
+1913-1914,3,1913-09-13,Oldham Athletic,Chelsea,3,2,1.0
+1913-1914,3,1913-09-13,Preston,West Brom,0,2,0.0
+1913-1914,3,1913-09-13,Newcastle Utd,Everton,0,1,0.0
+1913-1914,3,1913-09-13,Manchester Utd,Bolton,0,1,0.0
+1913-1914,3,1913-09-13,Burnley,The Wednesday,3,0,1.0
+1913-1914,3,1913-09-13,Aston Villa,Blackburn,1,3,0.0
+1913-1914,4,1913-09-13,Liverpool,Sunderland,1,3,0.0
+1913-1914,4,1913-09-13,Sheffield Utd,Manchester City,1,3,0.0
+1913-1914,4,1913-09-13,Tottenham,Derby County,1,1,0.5
+1913-1914,4,1913-09-17,Bradford City,Preston,0,0,0.5
+1913-1914,4,1913-09-20,Chelsea,Manchester Utd,0,2,0.0
+1913-1914,4,1913-09-20,West Brom,Newcastle Utd,1,1,0.5
+1913-1914,4,1913-09-20,Bolton,Burnley,0,0,0.5
+1913-1914,4,1913-09-20,Everton,Liverpool,1,2,0.0
+1913-1914,4,1913-09-20,Sunderland,Aston Villa,2,0,1.0
+1913-1914,5,1913-09-20,Blackburn,Middlesbrough,6,0,1.0
+1913-1914,5,1913-09-20,The Wednesday,Preston,2,1,1.0
+1913-1914,5,1913-09-20,Oldham Athletic,Tottenham,3,0,1.0
+1913-1914,5,1913-09-20,Bradford City,Sheffield Utd,2,1,1.0
+1913-1914,5,1913-09-20,Manchester City,Derby County,1,2,0.0
+1913-1914,5,1913-09-22,The Wednesday,Oldham Athletic,1,2,0.0
+1913-1914,5,1913-09-27,Liverpool,West Brom,0,0,0.5
+1913-1914,5,1913-09-27,Preston,Bolton,1,1,0.5
+1913-1914,5,1913-09-27,Manchester Utd,Oldham Athletic,4,1,1.0
+1913-1914,5,1913-09-27,Tottenham,Manchester City,3,1,1.0
+1913-1914,5,1913-09-27,Aston Villa,Everton,3,1,1.0
+1913-1914,5,1913-09-27,Burnley,Chelsea,6,1,1.0
+1913-1914,6,1913-09-27,Middlesbrough,Sunderland,3,4,0.0
+1913-1914,6,1913-09-27,Newcastle Utd,The Wednesday,3,1,1.0
+1913-1914,6,1913-09-27,Sheffield Utd,Blackburn,1,1,0.5
+1913-1914,6,1913-09-27,Derby County,Bradford City,3,1,1.0
+1913-1914,6,1913-10-04,West Brom,Aston Villa,1,0,1.0
+1913-1914,6,1913-10-04,Bolton,Newcastle Utd,3,1,1.0
+1913-1914,6,1913-10-04,Bradford City,Manchester City,3,2,1.0
+1913-1914,6,1913-10-04,Everton,Middlesbrough,2,0,1.0
+1913-1914,6,1913-10-04,Manchester Utd,Tottenham,3,1,1.0
+1913-1914,7,1913-10-04,Blackburn,Derby County,3,1,1.0
+1913-1914,7,1913-10-04,The Wednesday,Liverpool,4,1,1.0
+1913-1914,7,1913-10-04,Sunderland,Sheffield Utd,1,2,0.0
+1913-1914,7,1913-10-04,Oldham Athletic,Burnley,1,1,0.5
+1913-1914,7,1913-10-04,Chelsea,Preston,2,0,1.0
+1913-1914,7,1913-10-11,Tottenham,Bradford City,0,0,0.5
+1913-1914,7,1913-10-11,Middlesbrough,West Brom,3,0,1.0
+1913-1914,7,1913-10-11,Aston Villa,The Wednesday,2,0,1.0
+1913-1914,7,1913-10-11,Newcastle Utd,Chelsea,1,0,1.0
+1913-1914,7,1913-10-11,Sheffield Utd,Everton,4,1,1.0
+1913-1914,7,1913-10-11,Liverpool,Bolton,2,1,1.0
+1913-1914,8,1913-10-11,Derby County,Sunderland,1,1,0.5
+1913-1914,8,1913-10-11,Burnley,Manchester Utd,1,2,0.0
+1913-1914,8,1913-10-11,Preston,Oldham Athletic,0,1,0.0
+1913-1914,8,1913-10-11,Manchester City,Blackburn,1,2,0.0
+1913-1914,8,1913-10-18,Oldham Athletic,Newcastle Utd,3,0,1.0
+1913-1914,8,1913-10-18,Chelsea,Liverpool,3,0,1.0
+1913-1914,8,1913-10-18,Bolton,Aston Villa,3,0,1.0
+1913-1914,8,1913-10-18,Sunderland,Manchester City,0,0,0.5
+1913-1914,9,1913-10-18,Manchester Utd,Preston,3,0,1.0
+1913-1914,9,1913-10-18,Blackburn,Bradford City,0,0,0.5
+1913-1914,9,1913-10-18,Burnley,Tottenham,3,1,1.0
+1913-1914,9,1913-10-18,The Wednesday,Middlesbrough,2,0,1.0
+1913-1914,9,1913-10-18,West Brom,Sheffield Utd,2,1,1.0
+1913-1914,9,1913-10-18,Everton,Derby County,5,0,1.0
+1913-1914,9,1913-10-25,Manchester City,Everton,1,1,0.5
+1913-1914,9,1913-10-25,Bradford City,Sunderland,0,2,0.0
+1913-1914,9,1913-10-25,Middlesbrough,Bolton,2,3,0.0
+1913-1914,9,1913-10-25,Liverpool,Oldham Athletic,0,3,0.0
+1913-1914,9,1913-10-25,Newcastle Utd,Manchester Utd,0,1,0.0
+1913-1914,9,1913-10-25,Aston Villa,Chelsea,1,2,0.0
+1913-1914,10,1913-10-25,Sheffield Utd,The Wednesday,0,1,0.0
+1913-1914,10,1913-10-25,Derby County,West Brom,1,2,0.0
+1913-1914,10,1913-10-25,Preston,Burnley,2,1,1.0
+1913-1914,10,1913-10-25,Tottenham,Blackburn,3,3,0.5
+1913-1914,10,1913-11-01,West Brom,Manchester City,0,0,0.5
+1913-1914,10,1913-11-01,Bolton,Sheffield Utd,3,1,1.0
+1913-1914,10,1913-11-01,Chelsea,Middlesbrough,3,2,1.0
+1913-1914,10,1913-11-01,Manchester Utd,Liverpool,3,0,1.0
+1913-1914,10,1913-11-01,Oldham Athletic,Aston Villa,0,1,0.0
+1913-1914,10,1913-11-01,Everton,Bradford City,1,1,0.5
+1913-1914,11,1913-11-01,The Wednesday,Derby County,1,3,0.0
+1913-1914,11,1913-11-01,Sunderland,Blackburn,2,1,1.0
+1913-1914,11,1913-11-01,Preston,Tottenham,1,2,0.0
+1913-1914,11,1913-11-01,Burnley,Newcastle Utd,1,0,1.0
+1913-1914,11,1913-11-08,Bradford City,West Brom,1,0,1.0
+1913-1914,11,1913-11-08,Manchester City,The Wednesday,1,2,0.0
+1913-1914,11,1913-11-08,Derby County,Bolton,3,3,0.5
+1913-1914,11,1913-11-08,Middlesbrough,Oldham Athletic,0,0,0.5
+1913-1914,11,1913-11-08,Aston Villa,Manchester Utd,3,1,1.0
+1913-1914,12,1913-11-08,Newcastle Utd,Preston,2,0,1.0
+1913-1914,12,1913-11-08,Blackburn,Everton,6,0,1.0
+1913-1914,12,1913-11-08,Tottenham,Sunderland,1,4,0.0
+1913-1914,12,1913-11-08,Sheffield Utd,Chelsea,3,2,1.0
+1913-1914,12,1913-11-08,Liverpool,Burnley,1,1,0.5
+1913-1914,12,1913-11-15,Manchester Utd,Middlesbrough,0,1,0.0
+1913-1914,12,1913-11-15,Burnley,Aston Villa,4,0,1.0
+1913-1914,12,1913-11-15,The Wednesday,Bradford City,1,3,0.0
+1913-1914,12,1913-11-15,Bolton,Manchester City,3,0,1.0
+1913-1914,12,1913-11-15,Everton,Sunderland,1,5,0.0
+1913-1914,13,1913-11-15,Newcastle Utd,Tottenham,2,0,1.0
+1913-1914,13,1913-11-15,Preston,Liverpool,0,1,0.0
+1913-1914,13,1913-11-15,Oldham Athletic,Sheffield Utd,1,2,0.0
+1913-1914,13,1913-11-15,West Brom,Blackburn,2,0,1.0
+1913-1914,13,1913-11-15,Chelsea,Derby County,2,1,1.0
+1913-1914,13,1913-11-22,Tottenham,Everton,4,1,1.0
+1913-1914,13,1913-11-22,Manchester City,Chelsea,2,1,1.0
+1913-1914,13,1913-11-22,Liverpool,Newcastle Utd,0,0,0.5
+1913-1914,13,1913-11-22,Aston Villa,Preston,3,0,1.0
+1913-1914,13,1913-11-22,Bradford City,Bolton,5,1,1.0
+1913-1914,14,1913-11-22,Middlesbrough,Burnley,2,1,1.0
+1913-1914,14,1913-11-22,Sunderland,West Brom,0,0,0.5
+1913-1914,14,1913-11-22,Derby County,Oldham Athletic,1,2,0.0
+1913-1914,14,1913-11-22,Sheffield Utd,Manchester Utd,2,0,1.0
+1913-1914,14,1913-11-22,Blackburn,The Wednesday,3,2,1.0
+1913-1914,14,1913-11-29,Oldham Athletic,Manchester City,1,3,0.0
+1913-1914,14,1913-11-29,Chelsea,Bradford City,2,1,1.0
+1913-1914,14,1913-11-29,West Brom,Everton,1,1,0.5
+1913-1914,14,1913-11-29,Newcastle Utd,Aston Villa,2,2,0.5
+1913-1914,15,1913-11-29,Preston,Middlesbrough,4,1,1.0
+1913-1914,15,1913-11-29,The Wednesday,Sunderland,2,1,1.0
+1913-1914,15,1913-11-29,Bolton,Blackburn,1,0,1.0
+1913-1914,15,1913-11-29,Manchester Utd,Derby County,3,3,0.5
+1913-1914,15,1913-11-29,Liverpool,Tottenham,2,1,1.0
+1913-1914,15,1913-11-29,Burnley,Sheffield Utd,0,0,0.5
+1913-1914,15,1913-12-06,Manchester City,Manchester Utd,0,2,0.0
+1913-1914,15,1913-12-06,Sunderland,Bolton,3,2,1.0
+1913-1914,15,1913-12-06,Middlesbrough,Newcastle Utd,3,0,1.0
+1913-1914,15,1913-12-06,Everton,The Wednesday,1,1,0.5
+1913-1914,15,1913-12-06,Aston Villa,Liverpool,2,1,1.0
+1913-1914,15,1913-12-06,Tottenham,West Brom,3,0,1.0
+1913-1914,15,1913-12-06,Bradford City,Oldham Athletic,0,1,0.0
+1913-1914,16,1913-12-06,Sheffield Utd,Preston,2,0,1.0
+1913-1914,16,1913-12-06,Blackburn,Chelsea,3,1,1.0
+1913-1914,16,1913-12-06,Derby County,Burnley,3,1,1.0
+1913-1914,16,1913-12-13,Burnley,Manchester City,2,0,1.0
+1913-1914,16,1913-12-13,Bolton,Everton,0,0,0.5
+1913-1914,16,1913-12-13,Aston Villa,Tottenham,3,3,0.5
+1913-1914,16,1913-12-13,Liverpool,Middlesbrough,2,1,1.0
+1913-1914,16,1913-12-13,Manchester Utd,Bradford City,1,1,0.5
+1913-1914,16,1913-12-13,Chelsea,Sunderland,1,1,0.5
+1913-1914,17,1913-12-13,Preston,Derby County,2,0,1.0
+1913-1914,17,1913-12-13,The Wednesday,West Brom,1,4,0.0
+1913-1914,17,1913-12-13,Oldham Athletic,Blackburn,1,1,0.5
+1913-1914,17,1913-12-13,Newcastle Utd,Sheffield Utd,2,1,1.0
+1913-1914,17,1913-12-20,Everton,Chelsea,0,0,0.5
+1913-1914,17,1913-12-20,West Brom,Bolton,1,1,0.5
+1913-1914,17,1913-12-20,Middlesbrough,Aston Villa,5,2,1.0
+1913-1914,17,1913-12-20,Bradford City,Burnley,1,1,0.5
+1913-1914,18,1913-12-20,Sunderland,Oldham Athletic,2,0,1.0
+1913-1914,18,1913-12-20,Tottenham,The Wednesday,1,1,0.5
+1913-1914,18,1913-12-20,Blackburn,Manchester Utd,0,1,0.0
+1913-1914,18,1913-12-20,Manchester City,Preston,1,1,0.5
+1913-1914,18,1913-12-20,Derby County,Newcastle Utd,2,0,1.0
+1913-1914,18,1913-12-20,Sheffield Utd,Liverpool,0,1,0.0
+1913-1914,18,1913-12-25,Newcastle Utd,Bradford City,0,0,0.5
+1913-1914,18,1913-12-25,Oldham Athletic,West Brom,2,0,1.0
+1913-1914,18,1913-12-25,Manchester Utd,Everton,0,1,0.0
+1913-1914,18,1913-12-25,Derby County,Aston Villa,0,2,0.0
+1913-1914,18,1913-12-25,Chelsea,The Wednesday,2,1,1.0
+1913-1914,18,1913-12-25,Liverpool,Manchester City,4,2,1.0
+1913-1914,19,1913-12-25,Sheffield Utd,Middlesbrough,3,1,1.0
+1913-1914,19,1913-12-25,Blackburn,Preston,5,0,1.0
+1913-1914,19,1913-12-25,Burnley,Sunderland,0,1,0.0
+1913-1914,19,1913-12-26,West Brom,Oldham Athletic,2,2,0.5
+1913-1914,19,1913-12-26,Bradford City,Newcastle Utd,2,0,1.0
+1913-1914,19,1913-12-26,Everton,Manchester Utd,5,0,1.0
+1913-1914,19,1913-12-26,Manchester City,Liverpool,1,0,1.0
+1913-1914,19,1913-12-26,Tottenham,Middlesbrough,0,1,0.0
+1913-1914,19,1913-12-26,The Wednesday,Chelsea,3,0,1.0
+1913-1914,19,1913-12-26,Aston Villa,Sheffield Utd,3,0,1.0
+1913-1914,20,1913-12-26,Sunderland,Burnley,1,1,0.5
+1913-1914,20,1913-12-26,Preston,Blackburn,1,5,0.0
+1913-1914,18,1913-12-27,Oldham Athletic,Bolton,2,0,1.0
+1913-1914,20,1913-12-27,Middlesbrough,Manchester City,2,0,1.0
+1913-1914,20,1913-12-27,Preston,Everton,1,0,1.0
+1913-1914,20,1913-12-27,Tottenham,Chelsea,1,2,0.0
+1913-1914,20,1913-12-27,Burnley,West Brom,0,0,0.5
+1913-1914,20,1913-12-27,Aston Villa,Bradford City,0,1,0.0
+1913-1914,20,1913-12-27,Sheffield Utd,Derby County,2,2,0.5
+1913-1914,21,1913-12-27,Liverpool,Blackburn,3,3,0.5
+1913-1914,21,1913-12-27,Newcastle Utd,Sunderland,2,1,1.0
+1913-1914,21,1913-12-27,Manchester Utd,The Wednesday,2,1,1.0
+1913-1914,19,1913-12-29,The Wednesday,Bolton,1,1,0.5
+1913-1914,20,1914-01-01,Bolton,Tottenham,3,0,1.0
+1913-1914,21,1914-01-01,Newcastle Utd,Manchester City,0,1,0.0
+1913-1914,21,1914-01-01,Manchester Utd,West Brom,1,0,1.0
+1913-1914,21,1914-01-01,Liverpool,Bradford City,0,1,0.0
+1913-1914,21,1914-01-01,Sheffield Utd,Aston Villa,3,0,1.0
+1913-1914,21,1914-01-01,Oldham Athletic,Everton,2,0,1.0
+1913-1914,21,1914-01-01,Middlesbrough,Derby County,3,2,1.0
+1913-1914,22,1914-01-01,Sunderland,Preston,3,1,1.0
+1913-1914,22,1914-01-01,Blackburn,Burnley,0,0,0.5
+1913-1914,21,1914-01-03,Chelsea,Oldham Athletic,2,1,1.0
+1913-1914,21,1914-01-03,Bolton,Manchester Utd,6,1,1.0
+1913-1914,22,1914-01-03,Derby County,Tottenham,4,0,1.0
+1913-1914,22,1914-01-03,Bradford City,Middlesbrough,2,3,0.0
+1913-1914,22,1914-01-03,Blackburn,Aston Villa,0,0,0.5
+1913-1914,22,1914-01-03,Everton,Newcastle Utd,2,0,1.0
+1913-1914,23,1914-01-03,The Wednesday,Burnley,2,6,0.0
+1913-1914,23,1914-01-03,Sunderland,Liverpool,1,2,0.0
+1913-1914,23,1914-01-03,Manchester City,Sheffield Utd,2,1,1.0
+1913-1914,23,1914-01-03,West Brom,Preston,1,0,1.0
+1913-1914,22,1914-01-17,Burnley,Bolton,2,2,0.5
+1913-1914,22,1914-01-17,Manchester Utd,Chelsea,0,1,0.0
+1913-1914,23,1914-01-17,Newcastle Utd,West Brom,3,3,0.5
+1913-1914,23,1914-01-17,Tottenham,Oldham Athletic,3,1,1.0
+1913-1914,23,1914-01-17,Aston Villa,Sunderland,5,0,1.0
+1913-1914,23,1914-01-17,Derby County,Manchester City,2,4,0.0
+1913-1914,23,1914-01-17,Liverpool,Everton,1,2,0.0
+1913-1914,24,1914-01-17,Preston,The Wednesday,5,0,1.0
+1913-1914,24,1914-01-17,Middlesbrough,Blackburn,3,0,1.0
+1913-1914,24,1914-01-17,Sheffield Utd,Bradford City,1,1,0.5
+1913-1914,23,1914-01-24,Chelsea,Burnley,0,0,0.5
+1913-1914,23,1914-01-24,Bolton,Preston,0,3,0.0
+1913-1914,24,1914-01-24,West Brom,Liverpool,0,1,0.0
+1913-1914,24,1914-01-24,Oldham Athletic,Manchester Utd,2,2,0.5
+1913-1914,24,1914-01-24,Everton,Aston Villa,1,4,0.0
+1913-1914,24,1914-01-24,Bradford City,Derby County,0,0,0.5
+1913-1914,24,1914-01-24,Manchester City,Tottenham,2,1,1.0
+1913-1914,25,1914-01-24,Sunderland,Middlesbrough,4,2,1.0
+1913-1914,25,1914-01-24,The Wednesday,Newcastle Utd,0,0,0.5
+1913-1914,25,1914-01-24,Blackburn,Sheffield Utd,3,2,1.0
+1913-1914,24,1914-02-07,Newcastle Utd,Bolton,4,3,1.0
+1913-1914,25,1914-02-07,Tottenham,Manchester Utd,2,1,1.0
+1913-1914,25,1914-02-07,Manchester City,Bradford City,1,0,1.0
+1913-1914,25,1914-02-07,Middlesbrough,Everton,2,0,1.0
+1913-1914,25,1914-02-07,Aston Villa,West Brom,2,0,1.0
+1913-1914,26,1914-02-07,Sheffield Utd,Sunderland,1,0,1.0
+1913-1914,26,1914-02-07,Derby County,Blackburn,2,3,0.0
+1913-1914,26,1914-02-07,Liverpool,The Wednesday,1,2,0.0
+1913-1914,26,1914-02-07,Burnley,Oldham Athletic,2,0,1.0
+1913-1914,26,1914-02-07,Preston,Chelsea,3,3,0.5
+1913-1914,25,1914-02-11,Bolton,Chelsea,1,1,0.5
+1913-1914,26,1914-02-14,Chelsea,Newcastle Utd,0,1,0.0
+1913-1914,26,1914-02-14,Everton,Sheffield Utd,5,0,1.0
+1913-1914,26,1914-02-14,Sunderland,Derby County,1,0,1.0
+1913-1914,26,1914-02-14,The Wednesday,Aston Villa,2,3,0.0
+1913-1914,26,1914-02-14,Bradford City,Tottenham,2,1,1.0
+1913-1914,26,1914-02-14,Bolton,Liverpool,2,1,1.0
+1913-1914,26,1914-02-14,West Brom,Middlesbrough,2,1,1.0
+1913-1914,27,1914-02-14,Oldham Athletic,Preston,1,0,1.0
+1913-1914,27,1914-02-14,Manchester Utd,Burnley,0,1,0.0
+1913-1914,27,1914-02-14,Blackburn,Manchester City,2,1,1.0
+1913-1914,27,1914-02-21,Newcastle Utd,Oldham Athletic,0,0,0.5
+1913-1914,27,1914-02-21,Middlesbrough,Manchester Utd,3,1,1.0
+1913-1914,27,1914-02-21,Derby County,Everton,1,0,1.0
+1913-1914,28,1914-02-23,Tottenham,Burnley,2,0,1.0
+1913-1914,27,1914-02-25,Aston Villa,Bolton,1,0,1.0
+1913-1914,28,1914-02-25,Bradford City,Blackburn,0,2,0.0
+1913-1914,27,1914-02-28,Oldham Athletic,Liverpool,2,2,0.5
+1913-1914,28,1914-02-28,West Brom,Derby County,2,1,1.0
+1913-1914,28,1914-02-28,Sunderland,Bradford City,0,1,0.0
+1913-1914,28,1914-02-28,Bolton,Middlesbrough,1,1,0.5
+1913-1914,28,1914-02-28,Burnley,Preston,3,4,0.0
+1913-1914,28,1914-02-28,The Wednesday,Sheffield Utd,2,1,1.0
+1913-1914,28,1914-02-28,Manchester Utd,Newcastle Utd,2,2,0.5
+1913-1914,28,1914-02-28,Chelsea,Aston Villa,0,3,0.0
+1913-1914,28,1914-02-28,Everton,Manchester City,1,0,1.0
+1913-1914,29,1914-02-28,Blackburn,Tottenham,1,1,0.5
+1913-1914,29,1914-03-05,Preston,Manchester Utd,4,2,1.0
+1913-1914,28,1914-03-07,Middlesbrough,Chelsea,2,0,1.0
+1913-1914,29,1914-03-07,Bolton,West Brom,1,0,1.0
+1913-1914,29,1914-03-07,Bradford City,Everton,0,1,0.0
+1913-1914,30,1914-03-07,Tottenham,Preston,1,0,1.0
+1913-1914,29,1914-03-11,Derby County,The Wednesday,1,1,0.5
+1913-1914,28,1914-03-14,The Wednesday,Manchester City,2,2,0.5
+1913-1914,29,1914-03-14,Chelsea,Sheffield Utd,2,0,1.0
+1913-1914,29,1914-03-14,Manchester Utd,Aston Villa,0,6,0.0
+1913-1914,29,1914-03-14,Sunderland,Tottenham,2,0,1.0
+1913-1914,30,1914-03-14,Burnley,Liverpool,5,2,1.0
+1913-1914,30,1914-03-14,Oldham Athletic,Middlesbrough,3,0,1.0
+1913-1914,30,1914-03-14,Everton,Blackburn,0,0,0.5
+1913-1914,30,1914-03-14,West Brom,Bradford City,2,1,1.0
+1913-1914,30,1914-03-14,Bolton,Derby County,3,1,1.0
+1913-1914,31,1914-03-14,Preston,Newcastle Utd,4,1,1.0
+1913-1914,29,1914-03-18,Manchester City,Sunderland,3,1,1.0
+1913-1914,30,1914-03-18,Liverpool,Chelsea,3,0,1.0
+1913-1914,30,1914-03-18,Aston Villa,Oldham Athletic,0,0,0.5
+1913-1914,31,1914-03-18,Middlesbrough,The Wednesday,5,2,1.0
+1913-1914,31,1914-03-18,Newcastle Utd,Burnley,3,1,1.0
+1913-1914,30,1914-03-19,Sheffield Utd,West Brom,1,1,0.5
+1913-1914,31,1914-03-21,Manchester City,Bolton,0,1,0.0
+1913-1914,31,1914-03-21,Blackburn,West Brom,2,0,1.0
+1913-1914,31,1914-03-21,Sheffield Utd,Oldham Athletic,2,1,1.0
+1913-1914,31,1914-03-21,Aston Villa,Burnley,1,0,1.0
+1913-1914,31,1914-03-21,Bradford City,The Wednesday,3,1,1.0
+1913-1914,31,1914-03-21,Tottenham,Newcastle Utd,0,0,0.5
+1913-1914,31,1914-03-21,Sunderland,Everton,5,2,1.0
+1913-1914,31,1914-03-21,Derby County,Chelsea,0,1,0.0
+1913-1914,32,1914-03-21,Liverpool,Preston,3,1,1.0
+1913-1914,32,1914-03-23,Blackburn,Sunderland,3,1,1.0
+1913-1914,31,1914-03-25,Manchester City,West Brom,2,3,0.0
+1913-1914,32,1914-03-28,Chelsea,Manchester City,1,0,1.0
+1913-1914,32,1914-03-28,Oldham Athletic,Derby County,0,0,0.5
+1913-1914,32,1914-03-28,Bolton,Bradford City,3,0,1.0
+1913-1914,32,1914-03-28,Everton,Tottenham,1,1,0.5
+1913-1914,33,1914-03-28,The Wednesday,Blackburn,3,1,1.0
+1913-1914,33,1914-03-28,West Brom,Sunderland,2,1,1.0
+1913-1914,31,1914-04-01,Newcastle Utd,Liverpool,1,2,0.0
+1913-1914,32,1914-04-01,Preston,Aston Villa,3,2,1.0
+1913-1914,32,1914-04-04,Sheffield Utd,Burnley,5,0,1.0
+1913-1914,33,1914-04-04,Derby County,Manchester Utd,4,2,1.0
+1913-1914,33,1914-04-04,Aston Villa,Newcastle Utd,1,3,0.0
+1913-1914,33,1914-04-04,Manchester City,Oldham Athletic,2,1,1.0
+1913-1914,33,1914-04-04,Tottenham,Liverpool,0,0,0.5
+1913-1914,33,1914-04-04,Bradford City,Chelsea,0,0,0.5
+1913-1914,33,1914-04-04,Everton,West Brom,2,0,1.0
+1913-1914,34,1914-04-04,Middlesbrough,Preston,4,1,1.0
+1913-1914,34,1914-04-04,Blackburn,Bolton,3,2,1.0
+1913-1914,34,1914-04-04,Sunderland,The Wednesday,0,1,0.0
+1913-1914,34,1914-04-06,Burnley,Middlesbrough,1,2,0.0
+1913-1914,34,1914-04-06,Sheffield Utd,Bolton,2,0,1.0
+1913-1914,34,1914-04-10,Middlesbrough,Sheffield Utd,2,3,0.0
+1913-1914,34,1914-04-10,Liverpool,Derby County,1,0,1.0
+1913-1914,34,1914-04-10,Manchester City,Aston Villa,3,1,1.0
+1913-1914,34,1914-04-10,Burnley,Everton,2,0,1.0
+1913-1914,35,1914-04-10,Newcastle Utd,Blackburn,0,0,0.5
+1913-1914,35,1914-04-10,Preston,Bradford City,2,1,1.0
+1913-1914,35,1914-04-10,Sunderland,Manchester Utd,2,0,1.0
+1913-1914,35,1914-04-10,Tottenham,Bolton,3,0,1.0
+1913-1914,35,1914-04-11,Oldham Athletic,Bradford City,3,1,1.0
+1913-1914,35,1914-04-11,Newcastle Utd,Middlesbrough,1,0,1.0
+1913-1914,35,1914-04-11,Liverpool,Aston Villa,0,1,0.0
+1913-1914,35,1914-04-11,West Brom,Tottenham,1,1,0.5
+1913-1914,35,1914-04-11,The Wednesday,Everton,2,2,0.5
+1913-1914,35,1914-04-11,Burnley,Derby County,5,1,1.0
+1913-1914,35,1914-04-11,Manchester Utd,Manchester City,0,1,0.0
+1913-1914,36,1914-04-11,Bolton,Sunderland,2,1,1.0
+1913-1914,36,1914-04-11,Chelsea,Blackburn,2,0,1.0
+1913-1914,36,1914-04-11,Preston,Sheffield Utd,2,4,0.0
+1913-1914,36,1914-04-13,West Brom,Manchester Utd,2,1,1.0
+1913-1914,36,1914-04-13,Aston Villa,Derby County,3,2,1.0
+1913-1914,36,1914-04-13,Bradford City,Liverpool,1,0,1.0
+1913-1914,36,1914-04-13,Middlesbrough,Tottenham,6,0,1.0
+1913-1914,36,1914-04-13,Manchester City,Newcastle Utd,0,1,0.0
+1913-1914,36,1914-04-13,Everton,Oldham Athletic,0,2,0.0
+1913-1914,37,1914-04-13,Chelsea,Bolton,2,1,1.0
+1913-1914,36,1914-04-14,West Brom,Chelsea,3,1,1.0
+1913-1914,36,1914-04-14,Oldham Athletic,The Wednesday,2,0,1.0
+1913-1914,35,1914-04-15,Liverpool,Manchester Utd,1,2,0.0
+1913-1914,36,1914-04-18,Sheffield Utd,Newcastle Utd,2,0,1.0
+1913-1914,37,1914-04-18,Derby County,Preston,0,1,0.0
+1913-1914,37,1914-04-18,Bradford City,Manchester Utd,1,1,0.5
+1913-1914,37,1914-04-18,Manchester City,Burnley,4,1,1.0
+1913-1914,37,1914-04-18,West Brom,The Wednesday,1,1,0.5
+1913-1914,37,1914-04-18,Blackburn,Oldham Athletic,2,1,1.0
+1913-1914,37,1914-04-18,Middlesbrough,Liverpool,4,0,1.0
+1913-1914,37,1914-04-18,Tottenham,Aston Villa,0,2,0.0
+1913-1914,37,1914-04-18,Sunderland,Chelsea,2,0,1.0
+1913-1914,38,1914-04-18,Everton,Bolton,1,1,0.5
+1913-1914,37,1914-04-22,Manchester Utd,Sheffield Utd,2,1,1.0
+1913-1914,38,1914-04-25,The Wednesday,Tottenham,2,0,1.0
+1913-1914,38,1914-04-25,Oldham Athletic,Sunderland,2,1,1.0
+1913-1914,38,1914-04-25,Newcastle Utd,Derby County,1,1,0.5
+1913-1914,38,1914-04-25,Aston Villa,Middlesbrough,1,3,0.0
+1913-1914,38,1914-04-25,Manchester Utd,Blackburn,0,0,0.5
+1913-1914,38,1914-04-25,Chelsea,Everton,2,0,1.0
+1913-1914,38,1914-04-25,Preston,Manchester City,2,2,0.5
+1913-1914,38,1914-04-27,Burnley,Bradford City,2,2,0.5
+1913-1914,38,1914-04-27,Liverpool,Sheffield Utd,2,1,1.0

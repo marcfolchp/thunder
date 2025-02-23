@@ -1,0 +1,244 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,Regular season,1,2019-07-12,Midtjylland,Esbjerg,1,0,1.0
+2019-2020,Regular season,1,2019-07-14,SønderjyskE,Randers,2,1,1.0
+2019-2020,Regular season,1,2019-07-14,Horsens,Nordsjælland,0,3,0.0
+2019-2020,Regular season,1,2019-07-14,Lyngby,Aalborg,2,0,1.0
+2019-2020,Regular season,1,2019-07-14,Odense,FC Copenhagen,2,3,0.0
+2019-2020,Regular season,1,2019-07-14,Brøndby,Silkeborg,3,0,1.0
+2019-2020,Regular season,1,2019-07-15,Hobro,AGF,1,1,0.5
+2019-2020,Regular season,2,2019-07-19,FC Copenhagen,AGF,2,1,1.0
+2019-2020,Regular season,2,2019-07-21,Silkeborg,Horsens,0,3,0.0
+2019-2020,Regular season,2,2019-07-21,Esbjerg,Hobro,1,1,0.5
+2019-2020,Regular season,2,2019-07-21,Aalborg,SønderjyskE,1,1,0.5
+2019-2020,Regular season,2,2019-07-21,Randers,Brøndby,2,2,0.5
+2019-2020,Regular season,2,2019-07-21,Midtjylland,Nordsjælland,2,1,1.0
+2019-2020,Regular season,2,2019-07-22,Odense,Lyngby,4,1,1.0
+2019-2020,Regular season,3,2019-07-26,Lyngby,SønderjyskE,0,3,0.0
+2019-2020,Regular season,3,2019-07-27,Horsens,FC Copenhagen,0,2,0.0
+2019-2020,Regular season,3,2019-07-28,Hobro,Randers,2,2,0.5
+2019-2020,Regular season,3,2019-07-28,Nordsjælland,Esbjerg,2,0,1.0
+2019-2020,Regular season,3,2019-07-28,AGF,Midtjylland,0,1,0.0
+2019-2020,Regular season,3,2019-07-28,Brøndby,Odense,3,2,1.0
+2019-2020,Regular season,3,2019-07-29,Aalborg,Silkeborg,3,1,1.0
+2019-2020,Regular season,4,2019-08-02,Silkeborg,Hobro,2,3,0.0
+2019-2020,Regular season,4,2019-08-03,SønderjyskE,FC Copenhagen,1,2,0.0
+2019-2020,Regular season,4,2019-08-04,Randers,Nordsjælland,3,1,1.0
+2019-2020,Regular season,4,2019-08-04,Esbjerg,Odense,0,1,0.0
+2019-2020,Regular season,4,2019-08-04,Brøndby,Horsens,1,2,0.0
+2019-2020,Regular season,4,2019-08-04,Midtjylland,Aalborg,1,0,1.0
+2019-2020,Regular season,4,2019-08-05,Lyngby,AGF,2,1,1.0
+2019-2020,Regular season,5,2019-08-09,FC Copenhagen,Lyngby,2,0,1.0
+2019-2020,Regular season,5,2019-08-09,Odense,Randers,1,0,1.0
+2019-2020,Regular season,5,2019-08-11,Nordsjælland,Silkeborg,2,2,0.5
+2019-2020,Regular season,5,2019-08-11,Aalborg,Esbjerg,4,0,1.0
+2019-2020,Regular season,5,2019-08-11,Horsens,Midtjylland,0,2,0.0
+2019-2020,Regular season,5,2019-08-11,Hobro,Brøndby,0,2,0.0
+2019-2020,Regular season,5,2019-08-12,SønderjyskE,AGF,0,0,0.5
+2019-2020,Regular season,6,2019-08-16,Randers,FC Copenhagen,0,1,0.0
+2019-2020,Regular season,6,2019-08-16,Nordsjælland,Odense,2,0,1.0
+2019-2020,Regular season,6,2019-08-18,Silkeborg,SønderjyskE,3,3,0.5
+2019-2020,Regular season,6,2019-08-18,Esbjerg,Lyngby,1,0,1.0
+2019-2020,Regular season,6,2019-08-18,Midtjylland,Hobro,1,1,0.5
+2019-2020,Regular season,6,2019-08-18,Brøndby,Aalborg,2,1,1.0
+2019-2020,Regular season,6,2019-08-19,AGF,Horsens,2,0,1.0
+2019-2020,Regular season,7,2019-08-23,Hobro,Odense,0,0,0.5
+2019-2020,Regular season,7,2019-08-25,Lyngby,Randers,2,0,1.0
+2019-2020,Regular season,7,2019-08-25,Esbjerg,Silkeborg,2,2,0.5
+2019-2020,Regular season,7,2019-08-25,SønderjyskE,Midtjylland,0,2,0.0
+2019-2020,Regular season,7,2019-08-25,Brøndby,AGF,0,3,0.0
+2019-2020,Regular season,7,2019-08-25,FC Copenhagen,Nordsjælland,3,1,1.0
+2019-2020,Regular season,7,2019-08-26,Horsens,Aalborg,0,5,0.0
+2019-2020,Regular season,8,2019-08-30,Odense,SønderjyskE,0,0,0.5
+2019-2020,Regular season,8,2019-08-31,Nordsjælland,Hobro,2,1,1.0
+2019-2020,Regular season,8,2019-09-01,AGF,Esbjerg,1,0,1.0
+2019-2020,Regular season,8,2019-09-01,Horsens,Lyngby,2,1,1.0
+2019-2020,Regular season,8,2019-09-01,Randers,Silkeborg,2,0,1.0
+2019-2020,Regular season,8,2019-09-01,Aalborg,FC Copenhagen,1,0,1.0
+2019-2020,Regular season,8,2019-09-01,Midtjylland,Brøndby,1,0,1.0
+2019-2020,Regular season,9,2019-09-13,SønderjyskE,Horsens,0,0,0.5
+2019-2020,Regular season,9,2019-09-15,AGF,Aalborg,3,0,1.0
+2019-2020,Regular season,9,2019-09-15,Esbjerg,Randers,0,3,0.0
+2019-2020,Regular season,9,2019-09-15,Lyngby,Midtjylland,0,3,0.0
+2019-2020,Regular season,9,2019-09-15,Hobro,FC Copenhagen,2,1,1.0
+2019-2020,Regular season,9,2019-09-15,Brøndby,Nordsjælland,4,2,1.0
+2019-2020,Regular season,9,2019-09-16,Silkeborg,Odense,0,3,0.0
+2019-2020,Regular season,10,2019-09-20,Odense,AGF,1,2,0.0
+2019-2020,Regular season,10,2019-09-22,Hobro,SønderjyskE,1,1,0.5
+2019-2020,Regular season,10,2019-09-22,Silkeborg,Lyngby,2,3,0.0
+2019-2020,Regular season,10,2019-09-22,Nordsjælland,Aalborg,2,1,1.0
+2019-2020,Regular season,10,2019-09-22,Esbjerg,Brøndby,3,1,1.0
+2019-2020,Regular season,10,2019-09-22,FC Copenhagen,Midtjylland,0,0,0.5
+2019-2020,Regular season,10,2019-09-23,Randers,Horsens,2,1,1.0
+2019-2020,Regular season,11,2019-09-27,Lyngby,Hobro,2,1,1.0
+2019-2020,Regular season,11,2019-09-28,FC Copenhagen,Silkeborg,4,2,1.0
+2019-2020,Regular season,11,2019-09-29,AGF,Nordsjælland,3,1,1.0
+2019-2020,Regular season,11,2019-09-29,Aalborg,Randers,0,3,0.0
+2019-2020,Regular season,11,2019-09-29,Midtjylland,Odense,0,1,0.0
+2019-2020,Regular season,11,2019-09-29,SønderjyskE,Brøndby,2,1,1.0
+2019-2020,Regular season,11,2019-09-30,Horsens,Esbjerg,1,1,0.5
+2019-2020,Regular season,12,2019-10-04,Nordsjælland,Lyngby,1,1,0.5
+2019-2020,Regular season,12,2019-10-05,Hobro,Aalborg,0,2,0.0
+2019-2020,Regular season,12,2019-10-06,Esbjerg,SønderjyskE,1,2,0.0
+2019-2020,Regular season,12,2019-10-06,Odense,Horsens,3,0,1.0
+2019-2020,Regular season,12,2019-10-06,Brøndby,FC Copenhagen,3,1,1.0
+2019-2020,Regular season,12,2019-10-06,Randers,AGF,2,0,1.0
+2019-2020,Regular season,12,2019-10-06,Silkeborg,Midtjylland,1,2,0.0
+2019-2020,Regular season,13,2019-10-18,Aalborg,Odense,1,0,1.0
+2019-2020,Regular season,13,2019-10-20,Horsens,Hobro,1,0,1.0
+2019-2020,Regular season,13,2019-10-20,AGF,Silkeborg,3,4,0.0
+2019-2020,Regular season,13,2019-10-20,SønderjyskE,Nordsjælland,1,4,0.0
+2019-2020,Regular season,13,2019-10-20,FC Copenhagen,Esbjerg,3,1,1.0
+2019-2020,Regular season,13,2019-10-20,Lyngby,Brøndby,0,3,0.0
+2019-2020,Regular season,13,2019-10-21,Midtjylland,Randers,2,1,1.0
+2019-2020,Regular season,14,2019-10-25,Esbjerg,Midtjylland,1,2,0.0
+2019-2020,Regular season,14,2019-10-27,Hobro,Silkeborg,1,1,0.5
+2019-2020,Regular season,14,2019-10-27,Odense,Nordsjælland,3,1,1.0
+2019-2020,Regular season,14,2019-10-27,Lyngby,Horsens,2,1,1.0
+2019-2020,Regular season,14,2019-10-27,Brøndby,Randers,5,2,1.0
+2019-2020,Regular season,14,2019-10-27,SønderjyskE,Aalborg,1,3,0.0
+2019-2020,Regular season,14,2019-10-28,AGF,FC Copenhagen,1,2,0.0
+2019-2020,Regular season,15,2019-11-01,Esbjerg,Horsens,1,1,0.5
+2019-2020,Regular season,15,2019-11-03,Randers,Lyngby,2,1,1.0
+2019-2020,Regular season,15,2019-11-03,Odense,Hobro,2,1,1.0
+2019-2020,Regular season,15,2019-11-03,Nordsjælland,AGF,0,1,0.0
+2019-2020,Regular season,15,2019-11-03,Aalborg,Midtjylland,0,1,0.0
+2019-2020,Regular season,15,2019-11-03,FC Copenhagen,SønderjyskE,3,0,1.0
+2019-2020,Regular season,15,2019-11-04,Silkeborg,Brøndby,0,1,0.0
+2019-2020,Regular season,16,2019-11-08,Randers,Aalborg,3,3,0.5
+2019-2020,Regular season,16,2019-11-09,Horsens,Silkeborg,2,1,1.0
+2019-2020,Regular season,16,2019-11-10,Hobro,Nordsjælland,2,2,0.5
+2019-2020,Regular season,16,2019-11-10,AGF,SønderjyskE,4,2,1.0
+2019-2020,Regular season,16,2019-11-10,Lyngby,Odense,4,3,1.0
+2019-2020,Regular season,16,2019-11-10,Brøndby,Esbjerg,2,1,1.0
+2019-2020,Regular season,16,2019-11-10,Midtjylland,FC Copenhagen,4,1,1.0
+2019-2020,Regular season,17,2019-11-22,Nordsjælland,Randers,3,0,1.0
+2019-2020,Regular season,17,2019-11-24,SønderjyskE,Lyngby,2,2,0.5
+2019-2020,Regular season,17,2019-11-24,Silkeborg,Esbjerg,1,2,0.0
+2019-2020,Regular season,17,2019-11-24,Aalborg,Horsens,4,0,1.0
+2019-2020,Regular season,17,2019-11-24,FC Copenhagen,Hobro,2,1,1.0
+2019-2020,Regular season,17,2019-11-24,AGF,Brøndby,2,1,1.0
+2019-2020,Regular season,17,2019-11-25,Odense,Midtjylland,1,2,0.0
+2019-2020,Regular season,18,2019-11-29,Lyngby,Nordsjælland,1,1,0.5
+2019-2020,Regular season,18,2019-12-01,FC Copenhagen,Brøndby,2,1,1.0
+2019-2020,Regular season,18,2019-12-01,Randers,SønderjyskE,3,0,1.0
+2019-2020,Regular season,18,2019-12-01,Horsens,Odense,2,1,1.0
+2019-2020,Regular season,18,2019-12-01,Esbjerg,AGF,1,2,0.0
+2019-2020,Regular season,18,2019-12-01,Aalborg,Hobro,1,1,0.5
+2019-2020,Regular season,18,2019-12-02,Midtjylland,Silkeborg,2,1,1.0
+2019-2020,Regular season,19,2019-12-06,Hobro,Horsens,0,0,0.5
+2019-2020,Regular season,19,2019-12-08,Silkeborg,Randers,2,1,1.0
+2019-2020,Regular season,19,2019-12-08,AGF,Lyngby,1,1,0.5
+2019-2020,Regular season,19,2019-12-08,SønderjyskE,Esbjerg,2,1,1.0
+2019-2020,Regular season,19,2019-12-08,Nordsjælland,FC Copenhagen,0,1,0.0
+2019-2020,Regular season,19,2019-12-08,Brøndby,Midtjylland,1,2,0.0
+2019-2020,Regular season,19,2019-12-09,Odense,Aalborg,0,0,0.5
+2019-2020,Regular season,20,2019-12-13,Aalborg,Nordsjælland,1,3,0.0
+2019-2020,Regular season,20,2019-12-15,Horsens,SønderjyskE,2,1,1.0
+2019-2020,Regular season,20,2019-12-15,Randers,Esbjerg,3,0,1.0
+2019-2020,Regular season,20,2019-12-15,Lyngby,Silkeborg,1,0,1.0
+2019-2020,Regular season,20,2019-12-15,Brøndby,Hobro,1,1,0.5
+2019-2020,Regular season,20,2019-12-15,Midtjylland,AGF,1,3,0.0
+2019-2020,Regular season,20,2019-12-16,FC Copenhagen,Odense,2,1,1.0
+2019-2020,Regular season,21,2020-02-14,Esbjerg,FC Copenhagen,1,0,1.0
+2019-2020,Regular season,21,2020-02-16,SønderjyskE,Hobro,3,1,1.0
+2019-2020,Regular season,21,2020-02-16,Silkeborg,Aalborg,0,2,0.0
+2019-2020,Regular season,21,2020-02-16,Odense,Brøndby,0,2,0.0
+2019-2020,Regular season,21,2020-02-17,Midtjylland,Lyngby,2,0,1.0
+2019-2020,Regular season,21,2020-02-19,Nordsjælland,Horsens,6,0,1.0
+2019-2020,Regular season,22,2020-02-21,Hobro,Midtjylland,0,2,0.0
+2019-2020,Regular season,22,2020-02-23,Nordsjælland,SønderjyskE,2,1,1.0
+2019-2020,Regular season,22,2020-02-23,Randers,Odense,0,0,0.5
+2019-2020,Regular season,22,2020-02-23,Lyngby,Esbjerg,2,0,1.0
+2019-2020,Regular season,22,2020-02-23,Silkeborg,FC Copenhagen,1,1,0.5
+2019-2020,Regular season,22,2020-02-23,Aalborg,Brøndby,3,2,1.0
+2019-2020,Regular season,22,2020-02-24,Horsens,AGF,1,2,0.0
+2019-2020,Regular season,23,2020-02-28,AGF,Hobro,0,0,0.5
+2019-2020,Regular season,23,2020-02-29,Esbjerg,Nordsjælland,1,2,0.0
+2019-2020,Regular season,23,2020-03-01,Horsens,Randers,1,2,0.0
+2019-2020,Regular season,23,2020-03-01,Odense,Silkeborg,1,1,0.5
+2019-2020,Regular season,23,2020-03-01,Brøndby,Lyngby,1,0,1.0
+2019-2020,Regular season,23,2020-03-01,FC Copenhagen,Aalborg,3,2,1.0
+2019-2020,Regular season,23,2020-03-02,Midtjylland,SønderjyskE,3,0,1.0
+2019-2020,Regular season,24,2020-03-08,Hobro,Esbjerg,1,1,0.5
+2019-2020,Regular season,24,2020-03-08,SønderjyskE,Odense,1,1,0.5
+2019-2020,Regular season,24,2020-03-08,Aalborg,Lyngby,3,0,1.0
+2019-2020,Regular season,24,2020-03-08,FC Copenhagen,Horsens,0,1,0.0
+2019-2020,Regular season,24,2020-03-08,Nordsjælland,Brøndby,2,2,0.5
+2019-2020,Regular season,24,2020-03-08,Randers,Midtjylland,0,2,0.0
+2019-2020,Regular season,24,2020-03-09,Silkeborg,AGF,2,1,1.0
+2019-2020,Regular season,21,2020-05-28,AGF,Randers,1,1,0.5
+2019-2020,Regular season,25,2020-05-29,Silkeborg,Nordsjælland,0,2,0.0
+2019-2020,Regular season,25,2020-05-31,Esbjerg,Aalborg,1,1,0.5
+2019-2020,Regular season,25,2020-06-01,Randers,Hobro,0,1,0.0
+2019-2020,Regular season,25,2020-06-01,Midtjylland,Horsens,0,1,0.0
+2019-2020,Regular season,25,2020-06-01,Lyngby,FC Copenhagen,1,4,0.0
+2019-2020,Regular season,25,2020-06-01,AGF,Odense,1,0,1.0
+2019-2020,Regular season,25,2020-06-02,Brøndby,SønderjyskE,1,0,1.0
+2019-2020,Regular season,26,2020-06-07,Hobro,Lyngby,2,2,0.5
+2019-2020,Regular season,26,2020-06-07,Nordsjælland,Midtjylland,0,1,0.0
+2019-2020,Regular season,26,2020-06-07,Odense,Esbjerg,3,1,1.0
+2019-2020,Regular season,26,2020-06-07,FC Copenhagen,Randers,2,1,1.0
+2019-2020,Regular season,26,2020-06-07,Horsens,Brøndby,3,2,1.0
+2019-2020,Regular season,26,2020-06-07,Aalborg,AGF,2,3,0.0
+2019-2020,Regular season,26,2020-06-07,SønderjyskE,Silkeborg,2,2,0.5
+2019-2020,Relegation round,1,2020-06-12,Esbjerg,Randers,4,2,1.0
+2019-2020,Relegation round,1,2020-06-13,Hobro,Horsens,1,1,0.5
+2019-2020,Championship round,1,2020-06-14,Aalborg,Midtjylland,0,2,0.0
+2019-2020,Relegation round,1,2020-06-14,SønderjyskE,Lyngby,1,0,1.0
+2019-2020,Championship round,1,2020-06-14,Nordsjælland,FC Copenhagen,1,1,0.5
+2019-2020,Championship round,1,2020-06-14,Brøndby,AGF,0,0,0.5
+2019-2020,Relegation round,1,2020-06-15,Silkeborg,Odense,6,0,1.0
+2019-2020,Relegation round,2,2020-06-16,Horsens,Esbjerg,2,2,0.5
+2019-2020,Relegation round,2,2020-06-16,Randers,Hobro,4,0,1.0
+2019-2020,Championship round,2,2020-06-17,AGF,Nordsjælland,2,1,1.0
+2019-2020,Championship round,2,2020-06-17,FC Copenhagen,Aalborg,2,0,1.0
+2019-2020,Relegation round,2,2020-06-18,Odense,SønderjyskE,2,0,1.0
+2019-2020,Relegation round,2,2020-06-18,Lyngby,Silkeborg,0,0,0.5
+2019-2020,Championship round,2,2020-06-18,Midtjylland,Brøndby,0,0,0.5
+2019-2020,Relegation round,3,2020-06-20,Horsens,Randers,0,0,0.5
+2019-2020,Championship round,3,2020-06-20,Aalborg,Nordsjælland,0,4,0.0
+2019-2020,Relegation round,3,2020-06-21,Silkeborg,SønderjyskE,1,2,0.0
+2019-2020,Relegation round,3,2020-06-21,Esbjerg,Hobro,1,3,0.0
+2019-2020,Championship round,3,2020-06-21,Brøndby,FC Copenhagen,1,1,0.5
+2019-2020,Championship round,3,2020-06-21,Midtjylland,AGF,3,4,0.0
+2019-2020,Relegation round,3,2020-06-22,Lyngby,Odense,1,2,0.0
+2019-2020,Championship round,4,2020-06-26,AGF,Aalborg,1,4,0.0
+2019-2020,Relegation round,4,2020-06-27,SønderjyskE,Silkeborg,1,0,1.0
+2019-2020,Relegation round,4,2020-06-28,Randers,Horsens,0,3,0.0
+2019-2020,Relegation round,4,2020-06-28,Hobro,Esbjerg,2,1,1.0
+2019-2020,Championship round,4,2020-06-28,Nordsjælland,Brøndby,0,2,0.0
+2019-2020,Championship round,4,2020-06-28,FC Copenhagen,Midtjylland,1,2,0.0
+2019-2020,Relegation round,4,2020-06-29,Odense,Lyngby,3,1,1.0
+2019-2020,Relegation round,5,2020-07-03,Esbjerg,Horsens,1,2,0.0
+2019-2020,Relegation round,5,2020-07-04,Silkeborg,Lyngby,2,0,1.0
+2019-2020,Relegation round,5,2020-07-04,SønderjyskE,Odense,1,1,0.5
+2019-2020,Championship round,5,2020-07-05,Nordsjælland,Midtjylland,0,1,0.0
+2019-2020,Relegation round,5,2020-07-05,Hobro,Randers,2,3,0.0
+2019-2020,Championship round,5,2020-07-05,Aalborg,Brøndby,2,0,1.0
+2019-2020,Championship round,5,2020-07-05,AGF,FC Copenhagen,1,0,1.0
+2019-2020,Relegation round,6,2020-07-08,Randers,Esbjerg,3,1,1.0
+2019-2020,Relegation round,6,2020-07-08,Horsens,Hobro,3,2,1.0
+2019-2020,Relegation round,6,2020-07-08,Odense,Silkeborg,1,3,0.0
+2019-2020,Relegation round,6,2020-07-08,Lyngby,SønderjyskE,1,1,0.5
+2019-2020,Championship round,6,2020-07-09,Aalborg,AGF,1,0,1.0
+2019-2020,Championship round,6,2020-07-09,Brøndby,Nordsjælland,4,0,1.0
+2019-2020,Championship round,6,2020-07-09,Midtjylland,FC Copenhagen,3,1,1.0
+2019-2020,Quarter-final,,2020-07-11,Randers,Odense,2,1,1.0
+2019-2020,Championship round,7,2020-07-12,Nordsjælland,Aalborg,0,0,0.5
+2019-2020,Championship round,7,2020-07-12,FC Copenhagen,Brøndby,0,0,0.5
+2019-2020,Championship round,7,2020-07-12,AGF,Midtjylland,3,0,1.0
+2019-2020,First round,,2020-07-13,Hobro,Lyngby,1,2,0.0
+2019-2020,Championship round,8,2020-07-17,Midtjylland,Nordsjælland,6,3,1.0
+2019-2020,Quarter-final,,2020-07-19,Odense,Randers,2,0,1.0
+2019-2020,Championship round,8,2020-07-19,Brøndby,Aalborg,0,1,0.0
+2019-2020,Championship round,8,2020-07-19,FC Copenhagen,AGF,2,4,0.0
+2019-2020,First round,,2020-07-20,Lyngby,Hobro,2,2,0.5
+2019-2020,Championship round,9,2020-07-22,Nordsjælland,AGF,1,1,0.5
+2019-2020,Championship round,9,2020-07-22,Brøndby,Midtjylland,1,1,0.5
+2019-2020,Semi-final,,2020-07-23,Odense,Horsens,3,1,1.0
+2019-2020,Championship round,9,2020-07-23,Aalborg,FC Copenhagen,0,1,0.0
+2019-2020,Semi-final,,2020-07-26,Horsens,Odense,1,1,0.5
+2019-2020,Championship round,10,2020-07-26,AGF,Brøndby,0,1,0.0
+2019-2020,Championship round,10,2020-07-26,Midtjylland,Aalborg,1,2,0.0
+2019-2020,Championship round,10,2020-07-26,FC Copenhagen,Nordsjælland,2,1,1.0
+2019-2020,Final,,2020-07-29,AGF,Odense,2,1,1.0

@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1895-1896,1,1895-09-02,Stoke,Bolton,2,0,1.0
+1895-1896,1,1895-09-02,Sheffield Utd,Small Heath,2,0,1.0
+1895-1896,1,1895-09-02,Everton,The Wednesday,2,2,0.5
+1895-1896,1,1895-09-02,Wolves,Burnley,5,1,1.0
+1895-1896,1,1895-09-02,Aston Villa,West Brom,1,0,1.0
+1895-1896,1,1895-09-02,Sunderland,Preston,4,1,1.0
+1895-1896,1,1895-09-05,Nott'ham Forest,Bury,5,0,1.0
+1895-1896,2,1895-09-07,The Wednesday,Sheffield Utd,1,0,1.0
+1895-1896,2,1895-09-07,Everton,Nott'ham Forest,6,2,1.0
+1895-1896,2,1895-09-07,Preston,Wolves,4,3,1.0
+1895-1896,2,1895-09-07,Aston Villa,Small Heath,7,3,1.0
+1895-1896,2,1895-09-07,West Brom,Burnley,0,2,0.0
+1895-1896,2,1895-09-07,Bury,Bolton,0,3,0.0
+1895-1896,2,1895-09-07,Stoke,Derby County,2,1,1.0
+1895-1896,2,1895-09-07,Sunderland,Blackburn,2,1,1.0
+1895-1896,3,1895-09-09,Burnley,Sunderland,0,0,0.5
+1895-1896,3,1895-09-09,Everton,Bury,3,2,1.0
+1895-1896,3,1895-09-14,Small Heath,Stoke,1,2,0.0
+1895-1896,3,1895-09-14,Wolves,The Wednesday,4,0,1.0
+1895-1896,3,1895-09-14,Blackburn,Nott'ham Forest,2,0,1.0
+1895-1896,3,1895-09-14,West Brom,Preston,1,2,0.0
+1895-1896,3,1895-09-14,Sheffield Utd,Aston Villa,2,1,1.0
+1895-1896,4,1895-09-14,Burnley,Bury,3,0,1.0
+1895-1896,4,1895-09-14,Derby County,Sunderland,2,0,1.0
+1895-1896,4,1895-09-14,Bolton,Everton,3,1,1.0
+1895-1896,4,1895-09-21,Nott'ham Forest,Small Heath,3,0,1.0
+1895-1896,4,1895-09-21,Stoke,West Brom,3,1,1.0
+1895-1896,4,1895-09-21,Bury,Sheffield Utd,1,0,1.0
+1895-1896,4,1895-09-21,Aston Villa,Derby County,4,1,1.0
+1895-1896,5,1895-09-21,Bolton,Burnley,1,0,1.0
+1895-1896,5,1895-09-21,Sunderland,Wolves,2,2,0.5
+1895-1896,5,1895-09-21,Everton,Blackburn,0,2,0.0
+1895-1896,4,1895-09-28,Derby County,The Wednesday,3,1,1.0
+1895-1896,4,1895-09-28,Burnley,Preston,1,0,1.0
+1895-1896,5,1895-09-28,Blackburn,Aston Villa,1,1,0.5
+1895-1896,5,1895-09-28,Small Heath,Bolton,1,2,0.0
+1895-1896,5,1895-09-28,Sheffield Utd,Stoke,1,0,1.0
+1895-1896,5,1895-09-28,West Brom,Nott'ham Forest,3,1,1.0
+1895-1896,6,1895-09-28,Wolves,Everton,2,3,0.0
+1895-1896,6,1895-09-28,Sunderland,Bury,0,0,0.5
+1895-1896,6,1895-09-30,Sheffield Utd,Preston,2,1,1.0
+1895-1896,6,1895-09-30,Aston Villa,Everton,4,3,1.0
+1895-1896,5,1895-10-05,The Wednesday,West Brom,5,3,1.0
+1895-1896,6,1895-10-05,Nott'ham Forest,Derby County,2,5,0.0
+1895-1896,6,1895-10-05,Wolves,Stoke,1,0,1.0
+1895-1896,6,1895-10-05,Preston,Small Heath,3,2,1.0
+1895-1896,7,1895-10-05,Aston Villa,Sunderland,2,1,1.0
+1895-1896,7,1895-10-05,Bolton,Bury,2,4,0.0
+1895-1896,7,1895-10-05,Blackburn,Burnley,1,0,1.0
+1895-1896,8,1895-10-05,Everton,Sheffield Utd,5,0,1.0
+1895-1896,8,1895-10-07,Sheffield Utd,Sunderland,1,2,0.0
+1895-1896,7,1895-10-12,Blackburn,Preston,3,0,1.0
+1895-1896,7,1895-10-12,Derby County,Stoke,2,1,1.0
+1895-1896,7,1895-10-12,The Wednesday,Wolves,3,1,1.0
+1895-1896,8,1895-10-12,West Brom,Aston Villa,1,1,0.5
+1895-1896,8,1895-10-12,Burnley,Bolton,1,2,0.0
+1895-1896,8,1895-10-12,Bury,Small Heath,4,5,0.0
+1895-1896,9,1895-10-12,Nott'ham Forest,Everton,2,1,1.0
+1895-1896,8,1895-10-19,Preston,Burnley,1,1,0.5
+1895-1896,8,1895-10-19,Stoke,Small Heath,6,1,1.0
+1895-1896,8,1895-10-19,Bolton,Nott'ham Forest,2,1,1.0
+1895-1896,9,1895-10-19,Aston Villa,Blackburn,3,1,1.0
+1895-1896,9,1895-10-19,Derby County,Bury,2,1,1.0
+1895-1896,9,1895-10-19,Wolves,Sheffield Utd,4,1,1.0
+1895-1896,9,1895-10-19,The Wednesday,Sunderland,3,0,1.0
+1895-1896,10,1895-10-19,Everton,West Brom,1,1,0.5
+1895-1896,8,1895-10-26,West Brom,The Wednesday,2,3,0.0
+1895-1896,9,1895-10-26,Bolton,Stoke,3,1,1.0
+1895-1896,9,1895-10-26,Nott'ham Forest,Preston,0,1,0.0
+1895-1896,9,1895-10-26,Derby County,Wolves,5,2,1.0
+1895-1896,10,1895-10-26,Blackburn,Sunderland,2,4,0.0
+1895-1896,10,1895-10-26,Small Heath,Aston Villa,1,4,0.0
+1895-1896,11,1895-10-26,Burnley,Everton,1,1,0.5
+1895-1896,9,1895-11-02,The Wednesday,Bolton,1,1,0.5
+1895-1896,10,1895-11-02,Stoke,Sheffield Utd,4,0,1.0
+1895-1896,10,1895-11-02,Preston,Blackburn,1,1,0.5
+1895-1896,10,1895-11-02,Bury,West Brom,3,0,1.0
+1895-1896,11,1895-11-02,Aston Villa,Burnley,5,1,1.0
+1895-1896,11,1895-11-02,Sunderland,Derby County,2,2,0.5
+1895-1896,12,1895-11-02,Everton,Wolves,2,0,1.0
+1895-1896,11,1895-11-04,West Brom,Bolton,2,3,0.0
+1895-1896,10,1895-11-09,Small Heath,Nott'ham Forest,1,0,1.0
+1895-1896,11,1895-11-09,West Brom,Stoke,1,0,1.0
+1895-1896,11,1895-11-09,Bury,The Wednesday,6,1,1.0
+1895-1896,11,1895-11-09,Blackburn,Wolves,3,1,1.0
+1895-1896,11,1895-11-09,Preston,Bolton,1,0,1.0
+1895-1896,12,1895-11-09,Derby County,Burnley,5,1,1.0
+1895-1896,12,1895-11-09,Sunderland,Aston Villa,2,1,1.0
+1895-1896,13,1895-11-09,Sheffield Utd,Everton,1,2,0.0
+1895-1896,12,1895-11-11,Stoke,Preston,4,0,1.0
+1895-1896,11,1895-11-16,Nott'ham Forest,West Brom,2,0,1.0
+1895-1896,12,1895-11-16,Wolves,Derby County,2,0,1.0
+1895-1896,13,1895-11-16,The Wednesday,Stoke,2,1,1.0
+1895-1896,13,1895-11-16,Aston Villa,Sheffield Utd,2,2,0.5
+1895-1896,14,1895-11-16,Everton,Sunderland,1,0,1.0
+1895-1896,12,1895-11-23,Blackburn,The Wednesday,2,1,1.0
+1895-1896,12,1895-11-23,Bury,Derby County,1,2,0.0
+1895-1896,13,1895-11-23,Sheffield Utd,Nott'ham Forest,2,1,1.0
+1895-1896,13,1895-11-23,Small Heath,Preston,5,2,1.0
+1895-1896,14,1895-11-23,Stoke,Wolves,4,1,1.0
+1895-1896,14,1895-11-23,Burnley,Aston Villa,3,4,0.0
+1895-1896,14,1895-11-23,Sunderland,Bolton,1,0,1.0
+1895-1896,15,1895-11-23,West Brom,Everton,0,3,0.0
+1895-1896,15,1895-11-28,Nott'ham Forest,Stoke,4,0,1.0
+1895-1896,12,1895-11-30,Derby County,Small Heath,8,0,1.0
+1895-1896,12,1895-11-30,Bolton,Blackburn,1,1,0.5
+1895-1896,14,1895-11-30,West Brom,Wolves,2,1,1.0
+1895-1896,14,1895-11-30,Preston,Sheffield Utd,4,3,1.0
+1895-1896,14,1895-11-30,The Wednesday,Nott'ham Forest,3,0,1.0
+1895-1896,16,1895-11-30,Bury,Stoke,0,1,0.0
+1895-1896,16,1895-11-30,Everton,Burnley,2,1,1.0
+1895-1896,13,1895-12-07,Blackburn,Bolton,3,2,1.0
+1895-1896,15,1895-12-07,Derby County,Nott'ham Forest,4,0,1.0
+1895-1896,15,1895-12-07,Preston,Aston Villa,4,3,1.0
+1895-1896,17,1895-12-07,Stoke,Burnley,2,1,1.0
+1895-1896,17,1895-12-07,Small Heath,Everton,0,3,0.0
+1895-1896,14,1895-12-14,Bury,Preston,1,2,0.0
+1895-1896,14,1895-12-14,The Wednesday,Burnley,1,0,1.0
+1895-1896,15,1895-12-14,Sunderland,Small Heath,2,1,1.0
+1895-1896,15,1895-12-14,Nott'ham Forest,Sheffield Utd,3,1,1.0
+1895-1896,15,1895-12-14,Wolves,Blackburn,1,2,0.0
+1895-1896,16,1895-12-14,Aston Villa,Bolton,2,0,1.0
+1895-1896,16,1895-12-14,Derby County,West Brom,4,1,1.0
+1895-1896,18,1895-12-14,Everton,Stoke,7,2,1.0
+1895-1896,16,1895-12-21,Wolves,Preston,2,1,1.0
+1895-1896,16,1895-12-21,Sheffield Utd,Derby County,1,1,0.5
+1895-1896,16,1895-12-21,Bolton,Sunderland,1,0,1.0
+1895-1896,17,1895-12-21,Everton,Aston Villa,2,0,1.0
+1895-1896,17,1895-12-21,Burnley,Nott'ham Forest,0,0,0.5
+1895-1896,17,1895-12-21,Small Heath,West Brom,2,2,0.5
+1895-1896,19,1895-12-21,Stoke,The Wednesday,5,0,1.0
+1895-1896,20,1895-12-25,Preston,Stoke,0,1,0.0
+1895-1896,17,1895-12-26,West Brom,Sunderland,1,1,0.5
+1895-1896,17,1895-12-26,Sheffield Utd,The Wednesday,1,1,0.5
+1895-1896,18,1895-12-26,Derby County,Bolton,2,1,1.0
+1895-1896,18,1895-12-26,Wolves,Aston Villa,1,2,0.0
+1895-1896,18,1895-12-26,Small Heath,Burnley,1,0,1.0
+1895-1896,21,1895-12-26,Stoke,Bury,0,2,0.0
+1895-1896,18,1895-12-27,Wolves,Sunderland,1,3,0.0
+1895-1896,17,1895-12-28,The Wednesday,Derby County,0,4,0.0
+1895-1896,18,1895-12-28,Nott'ham Forest,Blackburn,4,2,1.0
+1895-1896,19,1895-12-28,Aston Villa,Bury,2,0,1.0
+1895-1896,18,1895-12-30,Sheffield Utd,Bolton,1,0,1.0
+1895-1896,17,1896-01-01,Bury,Burnley,3,4,0.0
+1895-1896,19,1896-01-01,The Wednesday,Preston,1,1,0.5
+1895-1896,20,1896-01-01,Bolton,Derby County,2,1,1.0
+1895-1896,20,1896-01-01,Blackburn,Everton,2,3,0.0
+1895-1896,17,1896-01-04,Small Heath,Derby County,1,3,0.0
+1895-1896,18,1896-01-04,Blackburn,Bury,0,2,0.0
+1895-1896,19,1896-01-04,Sheffield Utd,West Brom,2,0,1.0
+1895-1896,19,1896-01-04,Bolton,Wolves,4,0,1.0
+1895-1896,19,1896-01-04,Preston,Sunderland,4,1,1.0
+1895-1896,19,1896-01-04,Burnley,The Wednesday,2,0,1.0
+1895-1896,20,1896-01-04,Stoke,Aston Villa,1,2,0.0
+1895-1896,19,1896-01-11,Nott'ham Forest,Bolton,0,0,0.5
+1895-1896,20,1896-01-11,Burnley,West Brom,3,0,1.0
+1895-1896,20,1896-01-11,The Wednesday,Blackburn,3,0,1.0
+1895-1896,20,1896-01-11,Sunderland,Sheffield Utd,1,1,0.5
+1895-1896,21,1896-01-11,Bury,Everton,1,1,0.5
+1895-1896,21,1896-01-11,Aston Villa,Preston,1,0,1.0
+1895-1896,20,1896-01-18,Small Heath,Wolves,3,2,1.0
+1895-1896,21,1896-01-18,Nott'ham Forest,Sunderland,3,1,1.0
+1895-1896,21,1896-01-18,West Brom,Derby County,0,0,0.5
+1895-1896,22,1896-01-18,The Wednesday,Aston Villa,1,3,0.0
+1895-1896,21,1896-01-25,Wolves,Small Heath,7,2,1.0
+1895-1896,21,1896-01-25,Blackburn,Sheffield Utd,1,0,1.0
+1895-1896,22,1896-01-25,Sunderland,West Brom,7,1,1.0
+1895-1896,22,1896-01-25,Preston,Everton,1,1,0.5
+1895-1896,23,1896-01-25,Aston Villa,Nott'ham Forest,3,1,1.0
+1895-1896,23,1896-02-03,Everton,Small Heath,3,0,1.0
+1895-1896,22,1896-02-04,Burnley,Sheffield Utd,5,0,1.0
+1895-1896,22,1896-02-08,Small Heath,The Wednesday,1,1,0.5
+1895-1896,23,1896-02-08,Sheffield Utd,Wolves,2,1,1.0
+1895-1896,23,1896-02-08,Sunderland,Nott'ham Forest,1,1,0.5
+1895-1896,24,1896-02-08,Derby County,Aston Villa,2,2,0.5
+1895-1896,23,1896-02-17,Blackburn,West Brom,1,0,1.0
+1895-1896,23,1896-02-18,Bury,Wolves,3,0,1.0
+1895-1896,24,1896-02-18,Sunderland,Burnley,3,1,1.0
+1895-1896,24,1896-02-18,The Wednesday,Everton,3,1,1.0
+1895-1896,21,1896-02-22,Blackburn,Derby County,0,2,0.0
+1895-1896,21,1896-02-22,The Wednesday,Bury,1,3,0.0
+1895-1896,22,1896-02-22,Bolton,Small Heath,4,1,1.0
+1895-1896,23,1896-02-22,Preston,Nott'ham Forest,6,0,1.0
+1895-1896,24,1896-02-22,West Brom,Sheffield Utd,1,0,1.0
+1895-1896,24,1896-02-22,Burnley,Wolves,3,1,1.0
+1895-1896,25,1896-02-22,Aston Villa,Stoke,5,2,1.0
+1895-1896,25,1896-02-22,Sunderland,Everton,3,0,1.0
+1895-1896,23,1896-02-29,Small Heath,Blackburn,2,1,1.0
+1895-1896,24,1896-03-04,Derby County,Preston,1,0,1.0
+1895-1896,22,1896-03-07,Small Heath,Bury,1,0,1.0
+1895-1896,24,1896-03-07,Nott'ham Forest,Burnley,2,1,1.0
+1895-1896,25,1896-03-07,Wolves,West Brom,1,2,0.0
+1895-1896,25,1896-03-07,Sheffield Utd,Blackburn,1,1,0.5
+1895-1896,26,1896-03-07,Bolton,Aston Villa,2,2,0.5
+1895-1896,26,1896-03-07,Sunderland,The Wednesday,2,1,1.0
+1895-1896,26,1896-03-07,Everton,Preston,3,2,1.0
+1895-1896,23,1896-03-09,West Brom,Bury,1,3,0.0
+1895-1896,24,1896-03-14,Stoke,Sunderland,5,0,1.0
+1895-1896,26,1896-03-14,Derby County,Sheffield Utd,0,2,0.0
+1895-1896,26,1896-03-14,Bolton,Preston,1,0,1.0
+1895-1896,27,1896-03-14,Aston Villa,The Wednesday,2,1,1.0
+1895-1896,25,1896-03-16,Burnley,Stoke,2,0,1.0
+1895-1896,25,1896-03-21,Blackburn,Small Heath,2,1,1.0
+1895-1896,26,1896-03-21,Stoke,Nott'ham Forest,1,0,1.0
+1895-1896,28,1896-03-21,Bury,Aston Villa,5,3,1.0
+1895-1896,26,1896-03-24,Bury,Nott'ham Forest,1,0,1.0
+1895-1896,26,1896-03-28,Wolves,Nott'ham Forest,6,1,1.0
+1895-1896,27,1896-03-28,Preston,Derby County,1,0,1.0
+1895-1896,27,1896-03-28,Sunderland,Stoke,4,1,1.0
+1895-1896,27,1896-03-30,Sheffield Utd,Burnley,1,1,0.5
+1895-1896,27,1896-04-03,Everton,Derby County,2,2,0.5
+1895-1896,28,1896-04-03,Blackburn,Stoke,3,1,1.0
+1895-1896,28,1896-04-03,Bolton,Sheffield Utd,4,1,1.0
+1895-1896,28,1896-04-03,Burnley,Small Heath,1,1,0.5
+1895-1896,28,1896-04-03,Preston,West Brom,0,0,0.5
+1895-1896,29,1896-04-03,Bury,Sunderland,1,2,0.0
+1895-1896,29,1896-04-03,Nott'ham Forest,Aston Villa,0,2,0.0
+1895-1896,27,1896-04-04,Preston,Bury,1,1,0.5
+1895-1896,27,1896-04-04,The Wednesday,Small Heath,3,0,1.0
+1895-1896,27,1896-04-04,Nott'ham Forest,Wolves,3,2,1.0
+1895-1896,28,1896-04-04,Bolton,West Brom,2,1,1.0
+1895-1896,29,1896-04-04,Stoke,Blackburn,3,0,1.0
+1895-1896,29,1896-04-04,Burnley,Derby County,2,2,0.5
+1895-1896,28,1896-04-06,Everton,Bolton,1,1,0.5
+1895-1896,29,1896-04-06,West Brom,Small Heath,0,0,0.5
+1895-1896,29,1896-04-06,Sheffield Utd,Bury,8,0,1.0
+1895-1896,30,1896-04-06,Preston,The Wednesday,0,1,0.0
+1895-1896,30,1896-04-06,Aston Villa,Wolves,4,1,1.0
+1895-1896,29,1896-04-07,Wolves,Bury,1,0,1.0
+1895-1896,29,1896-04-07,Derby County,Everton,2,1,1.0
+1895-1896,30,1896-04-07,Nott'ham Forest,The Wednesday,1,0,1.0
+1895-1896,30,1896-04-07,Small Heath,Sheffield Utd,2,1,1.0
+1895-1896,27,1896-04-11,Derby County,Blackburn,0,0,0.5
+1895-1896,30,1896-04-11,Stoke,Everton,1,2,0.0
+1895-1896,30,1896-04-11,Wolves,Bolton,5,0,1.0
+1895-1896,30,1896-04-11,Small Heath,Sunderland,0,1,0.0
+1895-1896,30,1896-04-18,Burnley,Blackburn,6,0,1.0
+1895-1896,30,1896-04-25,Bury,Blackburn,2,0,1.0
+1895-1896,30,1896-04-25,Bolton,The Wednesday,2,0,1.0
+1895-1896,30,1896-04-29,West Brom,Blackburn,3,2,1.0

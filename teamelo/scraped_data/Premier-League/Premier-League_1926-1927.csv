@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1926-1927,1,1926-08-28,Liverpool,Manchester Utd,4,2,1.0
+1926-1927,1,1926-08-28,Burnley,Cardiff City,4,3,1.0
+1926-1927,1,1926-08-28,Arsenal,Derby County,2,1,1.0
+1926-1927,1,1926-08-28,West Brom,Sunderland,3,0,1.0
+1926-1927,1,1926-08-28,Bury,Huddersfield,2,2,0.5
+1926-1927,1,1926-08-28,Tottenham,Everton,2,1,1.0
+1926-1927,1,1926-08-28,Birmingham,Blackburn,3,1,1.0
+1926-1927,1,1926-08-28,Leeds United,Bolton,2,5,0.0
+1926-1927,1,1926-08-28,West Ham,Leicester City,3,3,0.5
+1926-1927,1,1926-08-28,The Wednesday,Sheffield Utd,2,3,0.0
+1926-1927,1,1926-08-28,Newcastle Utd,Aston Villa,4,0,1.0
+1926-1927,2,1926-08-30,Tottenham,The Wednesday,7,3,1.0
+1926-1927,2,1926-08-30,Aston Villa,Liverpool,1,1,0.5
+1926-1927,2,1926-08-30,Sheffield Utd,Manchester Utd,2,2,0.5
+1926-1927,2,1926-08-30,Huddersfield,West Brom,4,1,1.0
+1926-1927,2,1926-08-30,Leicester City,Birmingham,5,2,1.0
+1926-1927,2,1926-08-30,Leeds United,Cardiff City,0,0,0.5
+1926-1927,2,1926-09-01,Newcastle Utd,Burnley,1,5,0.0
+1926-1927,2,1926-09-01,Arsenal,Bolton,2,1,1.0
+1926-1927,2,1926-09-01,Bury,Everton,5,2,1.0
+1926-1927,2,1926-09-04,Everton,West Ham,0,3,0.0
+1926-1927,3,1926-09-04,Leicester City,The Wednesday,5,3,1.0
+1926-1927,3,1926-09-04,Blackburn,Tottenham,1,0,1.0
+1926-1927,3,1926-09-04,Aston Villa,Burnley,1,1,0.5
+1926-1927,3,1926-09-04,Manchester Utd,Leeds United,2,2,0.5
+1926-1927,3,1926-09-04,Huddersfield,Birmingham,0,2,0.0
+1926-1927,3,1926-09-04,Cardiff City,West Brom,1,1,0.5
+1926-1927,3,1926-09-04,Derby County,Liverpool,2,1,1.0
+1926-1927,3,1926-09-04,Sunderland,Bury,3,0,1.0
+1926-1927,3,1926-09-04,Bolton,Newcastle Utd,2,1,1.0
+1926-1927,3,1926-09-04,Sheffield Utd,Arsenal,4,0,1.0
+1926-1927,4,1926-09-06,West Brom,Everton,3,2,1.0
+1926-1927,4,1926-09-06,Burnley,Newcastle Utd,3,3,0.5
+1926-1927,4,1926-09-06,Bolton,Arsenal,2,2,0.5
+1926-1927,4,1926-09-06,Tottenham,Leicester City,2,2,0.5
+1926-1927,4,1926-09-06,The Wednesday,West Ham,1,0,1.0
+1926-1927,4,1926-09-06,Cardiff City,Leeds United,3,1,1.0
+1926-1927,4,1926-09-08,Liverpool,Aston Villa,2,1,1.0
+1926-1927,4,1926-09-08,Sunderland,Huddersfield,1,1,0.5
+1926-1927,4,1926-09-11,West Ham,Blackburn,1,5,0.0
+1926-1927,4,1926-09-11,Bury,West Brom,7,3,1.0
+1926-1927,4,1926-09-11,Birmingham,Sunderland,2,0,1.0
+1926-1927,5,1926-09-11,Burnley,Bolton,4,3,1.0
+1926-1927,5,1926-09-11,Arsenal,Leicester City,2,2,0.5
+1926-1927,5,1926-09-11,Leeds United,Derby County,1,0,1.0
+1926-1927,5,1926-09-11,Newcastle Utd,Manchester Utd,4,2,1.0
+1926-1927,5,1926-09-11,The Wednesday,Everton,4,0,1.0
+1926-1927,5,1926-09-11,Tottenham,Huddersfield,3,3,0.5
+1926-1927,5,1926-09-11,Liverpool,Sheffield Utd,5,1,1.0
+1926-1927,5,1926-09-11,Cardiff City,Aston Villa,2,3,0.0
+1926-1927,5,1926-09-13,Birmingham,The Wednesday,0,0,0.5
+1926-1927,5,1926-09-13,Sheffield Utd,Derby County,1,0,1.0
+1926-1927,6,1926-09-13,Leicester City,Tottenham,2,2,0.5
+1926-1927,6,1926-09-14,Huddersfield,Sunderland,0,0,0.5
+1926-1927,5,1926-09-15,Bury,Blackburn,0,2,0.0
+1926-1927,6,1926-09-15,Leeds United,Aston Villa,3,1,1.0
+1926-1927,6,1926-09-15,Manchester Utd,Arsenal,2,2,0.5
+1926-1927,6,1926-09-15,Everton,West Brom,0,0,0.5
+1926-1927,5,1926-09-18,Huddersfield,West Ham,2,1,1.0
+1926-1927,6,1926-09-18,Manchester Utd,Burnley,2,1,1.0
+1926-1927,6,1926-09-18,West Brom,Birmingham,1,2,0.0
+1926-1927,6,1926-09-18,Aston Villa,Bury,1,2,0.0
+1926-1927,6,1926-09-18,Bolton,Cardiff City,2,0,1.0
+1926-1927,6,1926-09-18,Derby County,Newcastle Utd,1,1,0.5
+1926-1927,7,1926-09-18,Everton,Leicester City,3,4,0.0
+1926-1927,7,1926-09-18,Blackburn,The Wednesday,2,2,0.5
+1926-1927,7,1926-09-18,Sheffield Utd,Leeds United,1,0,1.0
+1926-1927,7,1926-09-18,Sunderland,Tottenham,3,2,1.0
+1926-1927,7,1926-09-18,Arsenal,Liverpool,2,0,1.0
+1926-1927,6,1926-09-20,Blackburn,Sunderland,0,2,0.0
+1926-1927,7,1926-09-20,Birmingham,Everton,1,0,1.0
+1926-1927,7,1926-09-20,Cardiff City,Newcastle Utd,1,1,0.5
+1926-1927,6,1926-09-25,West Ham,Sunderland,1,2,0.0
+1926-1927,7,1926-09-25,Burnley,Derby County,1,0,1.0
+1926-1927,7,1926-09-25,Everton,Liverpool,1,0,1.0
+1926-1927,8,1926-09-25,Aston Villa,Bolton,3,4,0.0
+1926-1927,8,1926-09-25,Cardiff City,Manchester Utd,0,2,0.0
+1926-1927,8,1926-09-25,Newcastle Utd,Sheffield Utd,2,0,1.0
+1926-1927,8,1926-09-25,Leeds United,Arsenal,4,1,1.0
+1926-1927,8,1926-09-25,Leicester City,Blackburn,4,0,1.0
+1926-1927,8,1926-09-25,Birmingham,Bury,2,2,0.5
+1926-1927,8,1926-09-25,Tottenham,West Brom,3,0,1.0
+1926-1927,8,1926-09-25,The Wednesday,Huddersfield,1,1,0.5
+1926-1927,8,1926-09-27,Derby County,Sheffield Utd,1,0,1.0
+1926-1927,8,1926-09-29,Everton,Bury,2,2,0.5
+1926-1927,8,1926-10-02,Sheffield Utd,Burnley,2,2,0.5
+1926-1927,8,1926-10-02,Blackburn,Everton,3,3,0.5
+1926-1927,9,1926-10-02,Liverpool,Leeds United,2,4,0.0
+1926-1927,9,1926-10-02,Sunderland,The Wednesday,4,1,1.0
+1926-1927,9,1926-10-02,Bury,Tottenham,0,0,0.5
+1926-1927,9,1926-10-02,Arsenal,Newcastle Utd,2,2,0.5
+1926-1927,9,1926-10-02,Derby County,Cardiff City,6,3,1.0
+1926-1927,9,1926-10-02,Huddersfield,Leicester City,5,3,1.0
+1926-1927,9,1926-10-02,West Brom,West Ham,1,3,0.0
+1926-1927,9,1926-10-02,Bolton,Birmingham,1,0,1.0
+1926-1927,9,1926-10-02,Manchester Utd,Aston Villa,2,1,1.0
+1926-1927,10,1926-10-04,West Ham,The Wednesday,1,1,0.5
+1926-1927,10,1926-10-04,Blackburn,Bury,2,2,0.5
+1926-1927,9,1926-10-06,Sunderland,Burnley,7,1,1.0
+1926-1927,9,1926-10-09,Newcastle Utd,Liverpool,1,0,1.0
+1926-1927,9,1926-10-09,Bolton,Manchester Utd,4,0,1.0
+1926-1927,10,1926-10-09,Leicester City,Sunderland,2,1,1.0
+1926-1927,10,1926-10-09,Tottenham,Birmingham,6,1,1.0
+1926-1927,10,1926-10-09,Cardiff City,Sheffield Utd,3,0,1.0
+1926-1927,10,1926-10-09,Aston Villa,Derby County,3,1,1.0
+1926-1927,10,1926-10-09,Burnley,Arsenal,2,0,1.0
+1926-1927,10,1926-10-09,Everton,Huddersfield,0,0,0.5
+1926-1927,10,1926-10-09,Leeds United,Blackburn,4,1,1.0
+1926-1927,11,1926-10-09,West Ham,Bury,1,2,0.0
+1926-1927,11,1926-10-09,The Wednesday,West Brom,2,1,1.0
+1926-1927,11,1926-10-12,Burnley,Sunderland,4,2,1.0
+1926-1927,10,1926-10-16,The Wednesday,Liverpool,3,2,1.0
+1926-1927,11,1926-10-16,Birmingham,Derby County,1,0,1.0
+1926-1927,11,1926-10-16,Arsenal,West Ham,2,2,0.5
+1926-1927,11,1926-10-16,Sunderland,Aston Villa,1,1,0.5
+1926-1927,11,1926-10-16,Everton,Newcastle Utd,1,3,0.0
+1926-1927,11,1926-10-16,Tottenham,Sheffield Utd,3,1,1.0
+1926-1927,11,1926-10-16,West Brom,Bolton,1,1,0.5
+1926-1927,11,1926-10-16,Huddersfield,Cardiff City,0,0,0.5
+1926-1927,11,1926-10-16,Leicester City,Leeds United,3,2,1.0
+1926-1927,12,1926-10-16,Blackburn,Burnley,1,5,0.0
+1926-1927,12,1926-10-16,Bury,Manchester Utd,0,3,0.0
+1926-1927,11,1926-10-23,Liverpool,Leicester City,1,0,1.0
+1926-1927,11,1926-10-23,Sheffield Utd,West Ham,0,2,0.0
+1926-1927,12,1926-10-23,Manchester Utd,Birmingham,0,1,0.0
+1926-1927,12,1926-10-23,Newcastle Utd,Blackburn,6,1,1.0
+1926-1927,12,1926-10-23,Aston Villa,West Brom,2,0,1.0
+1926-1927,12,1926-10-23,Leeds United,Everton,1,3,0.0
+1926-1927,12,1926-10-23,Cardiff City,Sunderland,3,0,1.0
+1926-1927,12,1926-10-23,Arsenal,The Wednesday,6,2,1.0
+1926-1927,12,1926-10-23,Derby County,Tottenham,4,1,1.0
+1926-1927,13,1926-10-23,Bolton,Bury,2,2,0.5
+1926-1927,13,1926-10-23,Burnley,Huddersfield,2,2,0.5
+1926-1927,12,1926-10-30,West Ham,Manchester Utd,4,0,1.0
+1926-1927,12,1926-10-30,Blackburn,Liverpool,2,1,1.0
+1926-1927,13,1926-10-30,Sunderland,Newcastle Utd,2,0,1.0
+1926-1927,13,1926-10-30,Leicester City,Sheffield Utd,2,2,0.5
+1926-1927,13,1926-10-30,Birmingham,Aston Villa,1,2,0.0
+1926-1927,13,1926-10-30,Tottenham,Bolton,1,0,1.0
+1926-1927,13,1926-10-30,Huddersfield,Leeds United,4,1,1.0
+1926-1927,13,1926-10-30,Everton,Arsenal,3,1,1.0
+1926-1927,14,1926-10-30,West Brom,Burnley,4,2,1.0
+1926-1927,14,1926-10-30,Bury,Cardiff City,2,3,0.0
+1926-1927,14,1926-10-30,The Wednesday,Derby County,2,1,1.0
+1926-1927,13,1926-11-06,Bolton,West Ham,2,0,1.0
+1926-1927,13,1926-11-06,Liverpool,Huddersfield,2,3,0.0
+1926-1927,14,1926-11-06,Leeds United,Sunderland,2,2,0.5
+1926-1927,14,1926-11-06,Derby County,Leicester City,4,1,1.0
+1926-1927,14,1926-11-06,Sheffield Utd,Everton,3,3,0.5
+1926-1927,14,1926-11-06,Cardiff City,Birmingham,1,0,1.0
+1926-1927,14,1926-11-06,Newcastle Utd,West Brom,5,2,1.0
+1926-1927,14,1926-11-06,Aston Villa,Tottenham,2,3,0.0
+1926-1927,14,1926-11-06,Arsenal,Blackburn,2,2,0.5
+1926-1927,15,1926-11-06,Burnley,Bury,0,0,0.5
+1926-1927,15,1926-11-06,Manchester Utd,The Wednesday,0,0,0.5
+1926-1927,14,1926-11-13,Sunderland,Liverpool,2,1,1.0
+1926-1927,14,1926-11-13,West Ham,Aston Villa,5,1,1.0
+1926-1927,14,1926-11-13,Everton,Derby County,3,2,1.0
+1926-1927,15,1926-11-13,Blackburn,Sheffield Utd,3,4,0.0
+1926-1927,15,1926-11-13,Birmingham,Burnley,1,0,1.0
+1926-1927,15,1926-11-13,Tottenham,Cardiff City,4,1,1.0
+1926-1927,15,1926-11-13,Leicester City,Manchester Utd,2,3,0.0
+1926-1927,15,1926-11-13,Huddersfield,Arsenal,3,3,0.5
+1926-1927,15,1926-11-13,West Brom,Leeds United,2,4,0.0
+1926-1927,16,1926-11-13,Bury,Newcastle Utd,3,2,1.0
+1926-1927,16,1926-11-13,The Wednesday,Bolton,2,1,1.0
+1926-1927,15,1926-11-20,Liverpool,West Brom,2,1,1.0
+1926-1927,15,1926-11-20,Cardiff City,West Ham,1,2,0.0
+1926-1927,16,1926-11-20,Derby County,Blackburn,4,5,0.0
+1926-1927,16,1926-11-20,Arsenal,Sunderland,2,3,0.0
+1926-1927,16,1926-11-20,Bolton,Leicester City,2,0,1.0
+1926-1927,16,1926-11-20,Newcastle Utd,Birmingham,5,1,1.0
+1926-1927,16,1926-11-20,Sheffield Utd,Huddersfield,3,3,0.5
+1926-1927,17,1926-11-20,Burnley,Tottenham,5,0,1.0
+1926-1927,17,1926-11-20,Leeds United,Bury,4,1,1.0
+1926-1927,17,1926-11-20,Aston Villa,The Wednesday,2,2,0.5
+1926-1927,18,1926-11-20,Manchester Utd,Everton,2,1,1.0
+1926-1927,16,1926-11-27,Everton,Bolton,1,1,0.5
+1926-1927,17,1926-11-27,Leicester City,Aston Villa,5,1,1.0
+1926-1927,17,1926-11-27,West Brom,Arsenal,1,3,0.0
+1926-1927,17,1926-11-27,Tottenham,Newcastle Utd,1,3,0.0
+1926-1927,17,1926-11-27,Blackburn,Manchester Utd,2,1,1.0
+1926-1927,17,1926-11-27,Sunderland,Sheffield Utd,3,0,1.0
+1926-1927,17,1926-11-27,Huddersfield,Derby County,4,2,1.0
+1926-1927,17,1926-11-27,Birmingham,Leeds United,2,0,1.0
+1926-1927,18,1926-11-27,Bury,Liverpool,0,2,0.0
+1926-1927,18,1926-11-27,West Ham,Burnley,2,1,1.0
+1926-1927,18,1926-11-29,The Wednesday,Cardiff City,3,0,1.0
+1926-1927,17,1926-12-04,Derby County,Sunderland,4,2,1.0
+1926-1927,18,1926-12-04,Newcastle Utd,West Ham,2,0,1.0
+1926-1927,18,1926-12-04,Liverpool,Birmingham,2,1,1.0
+1926-1927,18,1926-12-04,Leeds United,Tottenham,1,1,0.5
+1926-1927,18,1926-12-04,Arsenal,Bury,1,0,1.0
+1926-1927,18,1926-12-04,Aston Villa,Everton,5,3,1.0
+1926-1927,18,1926-12-04,Bolton,Blackburn,5,1,1.0
+1926-1927,18,1926-12-04,Cardiff City,Leicester City,0,1,0.0
+1926-1927,18,1926-12-04,Manchester Utd,Huddersfield,0,0,0.5
+1926-1927,18,1926-12-04,Sheffield Utd,West Brom,2,1,1.0
+1926-1927,19,1926-12-04,Burnley,The Wednesday,1,0,1.0
+1926-1927,18,1926-12-11,Tottenham,Liverpool,1,2,0.0
+1926-1927,18,1926-12-11,Sunderland,Manchester Utd,6,0,1.0
+1926-1927,19,1926-12-11,West Ham,Leeds United,3,2,1.0
+1926-1927,19,1926-12-11,Huddersfield,Bolton,1,0,1.0
+1926-1927,19,1926-12-11,Everton,Cardiff City,0,1,0.0
+1926-1927,19,1926-12-11,West Brom,Derby County,3,1,1.0
+1926-1927,19,1926-12-11,The Wednesday,Newcastle Utd,3,2,1.0
+1926-1927,19,1926-12-11,Birmingham,Arsenal,0,0,0.5
+1926-1927,19,1926-12-11,Blackburn,Aston Villa,0,2,0.0
+1926-1927,20,1926-12-11,Bury,Sheffield Utd,4,4,0.5
+1926-1927,20,1926-12-11,Leicester City,Burnley,0,3,0.0
+1926-1927,19,1926-12-18,Bolton,Sunderland,2,2,0.5
+1926-1927,19,1926-12-18,Liverpool,West Ham,0,0,0.5
+1926-1927,20,1926-12-18,Cardiff City,Blackburn,0,1,0.0
+1926-1927,20,1926-12-18,Manchester Utd,West Brom,2,0,1.0
+1926-1927,20,1926-12-18,Leeds United,The Wednesday,4,1,1.0
+1926-1927,20,1926-12-18,Newcastle Utd,Leicester City,1,1,0.5
+1926-1927,20,1926-12-18,Aston Villa,Huddersfield,3,0,1.0
+1926-1927,20,1926-12-18,Sheffield Utd,Birmingham,4,3,1.0
+1926-1927,20,1926-12-18,Arsenal,Tottenham,2,4,0.0
+1926-1927,21,1926-12-18,Derby County,Bury,2,0,1.0
+1926-1927,21,1926-12-18,Burnley,Everton,5,1,1.0
+1926-1927,20,1926-12-25,Bolton,Derby County,3,1,1.0
+1926-1927,21,1926-12-25,Newcastle Utd,Cardiff City,5,0,1.0
+1926-1927,21,1926-12-25,Aston Villa,Sheffield Utd,4,0,1.0
+1926-1927,21,1926-12-25,West Ham,Birmingham,1,0,1.0
+1926-1927,21,1926-12-25,Leicester City,West Brom,5,0,1.0
+1926-1927,21,1926-12-25,Tottenham,Manchester Utd,1,1,0.5
+1926-1927,21,1926-12-25,Blackburn,Huddersfield,4,2,1.0
+1926-1927,22,1926-12-25,Bury,The Wednesday,2,0,1.0
+1926-1927,22,1926-12-25,Burnley,Liverpool,4,0,1.0
+1926-1927,23,1926-12-25,Everton,Sunderland,5,4,1.0
+1926-1927,21,1926-12-27,Leeds United,Newcastle Utd,1,2,0.0
+1926-1927,21,1926-12-27,Cardiff City,Arsenal,2,0,1.0
+1926-1927,21,1926-12-27,Derby County,Bolton,2,0,1.0
+1926-1927,22,1926-12-27,Manchester Utd,Tottenham,2,1,1.0
+1926-1927,22,1926-12-27,Huddersfield,Blackburn,5,0,1.0
+1926-1927,22,1926-12-27,Birmingham,West Ham,0,2,0.0
+1926-1927,22,1926-12-27,Sheffield Utd,Aston Villa,3,1,1.0
+1926-1927,22,1926-12-27,West Brom,Leicester City,0,1,0.0
+1926-1927,23,1926-12-27,Liverpool,Burnley,2,2,0.5
+1926-1927,24,1926-12-27,Sunderland,Everton,3,2,1.0
+1926-1927,22,1926-12-28,Arsenal,Manchester Utd,1,0,1.0
+1926-1927,22,1926-12-28,Liverpool,Bolton,3,2,1.0
+1926-1927,22,1926-12-28,Derby County,West Ham,3,0,1.0
+1926-1927,22,1926-12-28,Aston Villa,Leeds United,5,1,1.0
+1926-1927,23,1926-12-28,The Wednesday,Tottenham,3,1,1.0
+1926-1927,23,1927-01-01,The Wednesday,Bury,1,3,0.0
+1926-1927,23,1927-01-01,Arsenal,Cardiff City,3,2,1.0
+1926-1927,23,1927-01-01,Manchester Utd,Sheffield Utd,5,0,1.0
+1926-1927,23,1927-01-01,West Ham,Derby County,1,2,0.0
+1926-1927,23,1927-01-01,Birmingham,Leicester City,2,1,1.0
+1926-1927,23,1927-01-01,Sunderland,Blackburn,2,5,0.0
+1926-1927,23,1927-01-01,Newcastle Utd,Leeds United,1,0,1.0
+1926-1927,23,1927-01-01,West Brom,Huddersfield,2,2,0.5
+1926-1927,23,1927-01-01,Bolton,Liverpool,2,1,1.0
+1926-1927,24,1927-01-01,Everton,Burnley,3,2,1.0
+1926-1927,24,1927-01-15,Derby County,Arsenal,0,2,0.0
+1926-1927,24,1927-01-15,Aston Villa,Newcastle Utd,1,2,0.0
+1926-1927,24,1927-01-15,Everton,Tottenham,1,2,0.0
+1926-1927,24,1927-01-15,Huddersfield,Bury,3,1,1.0
+1926-1927,24,1927-01-15,Bolton,Leeds United,3,0,1.0
+1926-1927,24,1927-01-15,Blackburn,Birmingham,3,2,1.0
+1926-1927,24,1927-01-15,Sunderland,West Brom,4,1,1.0
+1926-1927,24,1927-01-15,Manchester Utd,Liverpool,0,1,0.0
+1926-1927,24,1927-01-15,Leicester City,West Ham,3,0,1.0
+1926-1927,25,1927-01-15,Cardiff City,Burnley,0,0,0.5
+1926-1927,25,1927-01-15,Sheffield Utd,The Wednesday,2,0,1.0
+1926-1927,25,1927-01-22,Birmingham,Huddersfield,1,3,0.0
+1926-1927,25,1927-01-22,Tottenham,Blackburn,1,1,0.5
+1926-1927,25,1927-01-22,West Ham,Everton,2,1,1.0
+1926-1927,25,1927-01-22,Liverpool,Derby County,3,2,1.0
+1926-1927,25,1927-01-22,Newcastle Utd,Bolton,1,0,1.0
+1926-1927,25,1927-01-22,Arsenal,Sheffield Utd,1,1,0.5
+1926-1927,25,1927-01-22,Leeds United,Manchester Utd,2,3,0.0
+1926-1927,26,1927-01-22,Burnley,Aston Villa,6,3,1.0
+1926-1927,26,1927-01-22,The Wednesday,Leicester City,2,2,0.5
+1926-1927,25,1927-01-29,West Brom,Bury,3,1,1.0
+1926-1927,26,1927-01-29,Huddersfield,Tottenham,2,0,1.0
+1926-1927,26,1927-01-29,Aston Villa,Blackburn,4,3,1.0
+1926-1927,26,1927-01-29,Sunderland,Leicester City,3,0,1.0
+1926-1927,27,1927-01-31,Aston Villa,Cardiff City,0,0,0.5
+1926-1927,26,1927-02-05,Birmingham,West Brom,1,0,1.0
+1926-1927,26,1927-02-05,Liverpool,Arsenal,3,0,1.0
+1926-1927,26,1927-02-05,Bury,Aston Villa,0,1,0.0
+1926-1927,26,1927-02-05,Newcastle Utd,Derby County,3,0,1.0
+1926-1927,26,1927-02-05,Cardiff City,Bolton,1,0,1.0
+1926-1927,26,1927-02-05,West Ham,Huddersfield,3,2,1.0
+1926-1927,26,1927-02-05,Leeds United,Sheffield Utd,1,1,0.5
+1926-1927,27,1927-02-05,Leicester City,Everton,6,2,1.0
+1926-1927,27,1927-02-05,Tottenham,Sunderland,0,2,0.0
+1926-1927,27,1927-02-05,The Wednesday,Blackburn,0,3,0.0
+1926-1927,27,1927-02-05,Burnley,Manchester Utd,1,0,1.0
+1926-1927,27,1927-02-07,Sheffield Utd,Liverpool,1,4,0.0
+1926-1927,27,1927-02-09,Manchester Utd,Newcastle Utd,3,1,1.0
+1926-1927,27,1927-02-10,Leicester City,Arsenal,2,1,1.0
+1926-1927,27,1927-02-12,Sunderland,West Ham,2,3,0.0
+1926-1927,27,1927-02-12,Manchester Utd,Cardiff City,1,1,0.5
+1926-1927,27,1927-02-12,Bury,Birmingham,3,1,1.0
+1926-1927,28,1927-02-12,Arsenal,Leeds United,1,0,1.0
+1926-1927,28,1927-02-12,Huddersfield,The Wednesday,4,3,1.0
+1926-1927,28,1927-02-12,West Brom,Tottenham,5,0,1.0
+1926-1927,28,1927-02-12,Derby County,Burnley,4,1,1.0
+1926-1927,28,1927-02-12,Sheffield Utd,Newcastle Utd,2,1,1.0
+1926-1927,28,1927-02-12,Liverpool,Everton,1,0,1.0
+1926-1927,29,1927-02-12,Bolton,Aston Villa,0,2,0.0
+1926-1927,29,1927-02-12,Blackburn,Leicester City,2,1,1.0
+1926-1927,28,1927-02-14,Blackburn,West Ham,4,1,1.0
+1926-1927,28,1927-02-16,Sunderland,Birmingham,4,1,1.0
+1926-1927,28,1927-02-19,Derby County,Leeds United,1,0,1.0
+1926-1927,28,1927-02-19,Tottenham,Bury,1,0,1.0
+1926-1927,28,1927-02-19,West Ham,West Brom,1,2,0.0
+1926-1927,29,1927-02-19,The Wednesday,Sunderland,4,1,1.0
+1926-1927,29,1927-02-19,Leicester City,Huddersfield,2,4,0.0
+1926-1927,30,1927-02-19,Everton,Blackburn,1,0,1.0
+1926-1927,30,1927-02-19,Aston Villa,Manchester Utd,2,0,1.0
+1926-1927,29,1927-02-21,West Brom,Cardiff City,1,2,0.0
+1926-1927,29,1927-02-23,Leeds United,Liverpool,0,0,0.5
+1926-1927,28,1927-02-26,Manchester Utd,Bolton,0,0,0.5
+1926-1927,29,1927-02-26,Birmingham,Tottenham,1,0,1.0
+1926-1927,29,1927-02-26,Sheffield Utd,Cardiff City,3,1,1.0
+1926-1927,29,1927-02-26,Bury,West Ham,1,2,0.0
+1926-1927,29,1927-02-26,Arsenal,Burnley,6,2,1.0
+1926-1927,30,1927-02-26,Huddersfield,Everton,0,0,0.5
+1926-1927,30,1927-02-26,Blackburn,Leeds United,4,1,1.0
+1926-1927,30,1927-02-26,Liverpool,Newcastle Utd,1,2,0.0
+1926-1927,30,1927-02-26,West Brom,The Wednesday,2,2,0.5
+1926-1927,31,1927-02-26,Derby County,Aston Villa,2,3,0.0
+1926-1927,31,1927-03-02,Everton,The Wednesday,2,1,1.0
+1926-1927,30,1927-03-05,Burnley,Blackburn,3,1,1.0
+1926-1927,30,1927-03-05,Derby County,Birmingham,4,1,1.0
+1926-1927,30,1927-03-05,Newcastle Utd,Everton,7,3,1.0
+1926-1927,30,1927-03-05,Manchester Utd,Bury,1,2,0.0
+1926-1927,31,1927-03-05,Sheffield Utd,Tottenham,3,3,0.5
+1926-1927,31,1927-03-05,Liverpool,The Wednesday,3,0,1.0
+1926-1927,31,1927-03-05,Bolton,West Brom,1,1,0.5
+1926-1927,31,1927-03-05,Leeds United,Leicester City,1,1,0.5
+1926-1927,32,1927-03-05,Aston Villa,Sunderland,3,1,1.0
+1926-1927,30,1927-03-07,West Ham,Arsenal,7,0,1.0
+1926-1927,31,1927-03-09,Bolton,Burnley,3,1,1.0
+1926-1927,30,1927-03-12,Sunderland,Cardiff City,2,2,0.5
+1926-1927,31,1927-03-12,Birmingham,Manchester Utd,4,0,1.0
+1926-1927,31,1927-03-12,Blackburn,Newcastle Utd,1,2,0.0
+1926-1927,31,1927-03-12,The Wednesday,Arsenal,4,2,1.0
+1926-1927,31,1927-03-12,Bury,Bolton,2,0,1.0
+1926-1927,32,1927-03-12,Leicester City,Liverpool,3,2,1.0
+1926-1927,32,1927-03-12,Tottenham,Derby County,3,2,1.0
+1926-1927,32,1927-03-12,West Brom,Aston Villa,6,2,1.0
+1926-1927,32,1927-03-12,Huddersfield,Burnley,2,0,1.0
+1926-1927,32,1927-03-12,West Ham,Sheffield Utd,3,0,1.0
+1926-1927,32,1927-03-12,Everton,Leeds United,2,1,1.0
+1926-1927,31,1927-03-16,Cardiff City,Derby County,2,0,1.0
+1926-1927,32,1927-03-19,Newcastle Utd,Sunderland,1,0,1.0
+1926-1927,32,1927-03-19,Arsenal,Everton,1,2,0.0
+1926-1927,32,1927-03-19,Cardiff City,Bury,2,1,1.0
+1926-1927,32,1927-03-19,Aston Villa,Birmingham,4,2,1.0
+1926-1927,33,1927-03-19,Liverpool,Blackburn,2,2,0.5
+1926-1927,33,1927-03-19,Sheffield Utd,Leicester City,0,3,0.0
+1926-1927,33,1927-03-19,Leeds United,Huddersfield,1,1,0.5
+1926-1927,33,1927-03-19,Bolton,Tottenham,2,2,0.5
+1926-1927,33,1927-03-19,Burnley,West Brom,2,1,1.0
+1926-1927,33,1927-03-19,Manchester Utd,West Ham,0,3,0.0
+1926-1927,34,1927-03-19,Derby County,The Wednesday,8,0,1.0
+1926-1927,33,1927-03-21,Cardiff City,Huddersfield,2,0,1.0
+1926-1927,33,1927-03-26,Everton,Sheffield Utd,2,0,1.0
+1926-1927,33,1927-03-26,West Brom,Newcastle Utd,4,2,1.0
+1926-1927,34,1927-03-26,Bury,Burnley,3,3,0.5
+1926-1927,34,1927-03-26,West Ham,Bolton,4,4,0.5
+1926-1927,34,1927-03-26,Sunderland,Leeds United,6,2,1.0
+1926-1927,34,1927-03-26,Huddersfield,Liverpool,1,0,1.0
+1926-1927,34,1927-03-26,Leicester City,Derby County,1,1,0.5
+1926-1927,34,1927-03-26,Tottenham,Aston Villa,0,1,0.0
+1926-1927,35,1927-03-26,The Wednesday,Manchester Utd,2,0,1.0
+1926-1927,35,1927-03-29,Burnley,Sheffield Utd,2,5,0.0
+1926-1927,34,1927-03-30,Bury,Sunderland,1,2,0.0
+1926-1927,33,1927-04-02,Arsenal,Huddersfield,0,2,0.0
+1926-1927,33,1927-04-02,Burnley,Birmingham,0,2,0.0
+1926-1927,35,1927-04-02,Liverpool,Sunderland,1,2,0.0
+1926-1927,35,1927-04-02,Sheffield Utd,Blackburn,5,3,1.0
+1926-1927,35,1927-04-02,Cardiff City,Tottenham,1,2,0.0
+1926-1927,35,1927-04-02,Aston Villa,West Ham,1,5,0.0
+1926-1927,35,1927-04-02,Newcastle Utd,Bury,3,1,1.0
+1926-1927,35,1927-04-02,Manchester Utd,Leicester City,1,0,1.0
+1926-1927,35,1927-04-02,Derby County,Everton,0,0,0.5
+1926-1927,35,1927-04-02,Leeds United,West Brom,3,1,1.0
+1926-1927,36,1927-04-02,Bolton,The Wednesday,3,2,1.0
+1926-1927,34,1927-04-04,Birmingham,Bolton,6,1,1.0
+1926-1927,34,1927-04-06,Newcastle Utd,Arsenal,6,1,1.0
+1926-1927,36,1927-04-07,Leicester City,Cardiff City,3,1,1.0
+1926-1927,35,1927-04-09,Birmingham,Newcastle Utd,2,0,1.0
+1926-1927,35,1927-04-09,Sunderland,Arsenal,5,1,1.0
+1926-1927,36,1927-04-09,West Ham,Cardiff City,2,2,0.5
+1926-1927,36,1927-04-09,West Brom,Liverpool,0,1,0.0
+1926-1927,36,1927-04-09,Blackburn,Derby County,4,4,0.5
+1926-1927,36,1927-04-09,Bury,Leeds United,4,2,1.0
+1926-1927,36,1927-04-09,Huddersfield,Sheffield Utd,0,2,0.0
+1926-1927,37,1927-04-09,The Wednesday,Aston Villa,3,1,1.0
+1926-1927,37,1927-04-09,Leicester City,Bolton,0,1,0.0
+1926-1927,37,1927-04-09,Tottenham,Burnley,4,1,1.0
+1926-1927,38,1927-04-09,Everton,Manchester Utd,0,0,0.5
+1926-1927,36,1927-04-15,Arsenal,Aston Villa,2,1,1.0
+1926-1927,37,1927-04-15,Newcastle Utd,Huddersfield,1,0,1.0
+1926-1927,37,1927-04-15,Tottenham,West Ham,1,3,0.0
+1926-1927,37,1927-04-15,Bury,Leicester City,0,0,0.5
+1926-1927,37,1927-04-15,Bolton,Sheffield Utd,4,1,1.0
+1926-1927,37,1927-04-15,Manchester Utd,Derby County,2,2,0.5
+1926-1927,37,1927-04-15,Liverpool,Cardiff City,5,0,1.0
+1926-1927,38,1927-04-15,Burnley,Leeds United,3,2,1.0
+1926-1927,36,1927-04-16,Leeds United,Birmingham,2,1,1.0
+1926-1927,37,1927-04-16,Manchester Utd,Blackburn,2,0,1.0
+1926-1927,37,1927-04-16,Arsenal,West Brom,4,1,1.0
+1926-1927,38,1927-04-16,Derby County,Huddersfield,4,4,0.5
+1926-1927,38,1927-04-16,Cardiff City,The Wednesday,3,2,1.0
+1926-1927,38,1927-04-16,Sheffield Utd,Sunderland,2,0,1.0
+1926-1927,38,1927-04-16,Bolton,Everton,5,0,1.0
+1926-1927,38,1927-04-16,Liverpool,Bury,2,2,0.5
+1926-1927,38,1927-04-16,Newcastle Utd,Tottenham,3,2,1.0
+1926-1927,39,1927-04-16,Burnley,West Ham,2,1,1.0
+1926-1927,39,1927-04-16,Aston Villa,Leicester City,2,0,1.0
+1926-1927,37,1927-04-18,Everton,Birmingham,3,1,1.0
+1926-1927,38,1927-04-18,Aston Villa,Arsenal,2,3,0.0
+1926-1927,38,1927-04-18,West Brom,Blackburn,2,0,1.0
+1926-1927,39,1927-04-18,Leicester City,Bury,1,1,0.5
+1926-1927,39,1927-04-18,Cardiff City,Liverpool,2,0,1.0
+1926-1927,39,1927-04-18,Derby County,Manchester Utd,2,2,0.5
+1926-1927,39,1927-04-18,West Ham,Tottenham,1,2,0.0
+1926-1927,39,1927-04-18,Sheffield Utd,Bolton,1,1,0.5
+1926-1927,38,1927-04-19,The Wednesday,Birmingham,4,4,0.5
+1926-1927,39,1927-04-19,Blackburn,West Brom,0,0,0.5
+1926-1927,39,1927-04-19,Huddersfield,Newcastle Utd,1,0,1.0
+1926-1927,40,1927-04-19,Leeds United,Burnley,0,2,0.0
+1926-1927,40,1927-04-19,Sunderland,Bolton,6,2,1.0
+1926-1927,39,1927-04-23,Birmingham,Liverpool,3,0,1.0
+1926-1927,40,1927-04-23,West Brom,Sheffield Utd,1,0,1.0
+1926-1927,40,1927-04-23,Tottenham,Leeds United,4,1,1.0
+1926-1927,40,1927-04-23,Sunderland,Derby County,1,2,0.0
+1926-1927,40,1927-04-23,Blackburn,Bolton,0,3,0.0
+1926-1927,40,1927-04-23,West Ham,Newcastle Utd,1,1,0.5
+1926-1927,40,1927-04-23,Huddersfield,Manchester Utd,0,0,0.5
+1926-1927,41,1927-04-23,Everton,Aston Villa,2,2,0.5
+1926-1927,41,1927-04-23,The Wednesday,Burnley,2,1,1.0
+1926-1927,40,1927-04-27,Birmingham,Cardiff City,1,2,0.0
+1926-1927,39,1927-04-28,Blackburn,Arsenal,1,2,0.0
+1926-1927,40,1927-04-30,Arsenal,Birmingham,3,0,1.0
+1926-1927,41,1927-04-30,Bolton,Huddersfield,4,0,1.0
+1926-1927,41,1927-04-30,Derby County,West Brom,2,1,1.0
+1926-1927,41,1927-04-30,Liverpool,Tottenham,1,0,1.0
+1926-1927,41,1927-04-30,Manchester Utd,Sunderland,0,0,0.5
+1926-1927,41,1927-04-30,Leeds United,West Ham,6,3,1.0
+1926-1927,41,1927-04-30,Cardiff City,Everton,1,0,1.0
+1926-1927,41,1927-04-30,Newcastle Utd,The Wednesday,2,1,1.0
+1926-1927,42,1927-04-30,Burnley,Leicester City,1,1,0.5
+1926-1927,41,1927-05-04,Bury,Arsenal,3,2,1.0
+1926-1927,41,1927-05-05,Sheffield Utd,Bury,2,0,1.0
+1926-1927,42,1927-05-07,Tottenham,Arsenal,0,4,0.0
+1926-1927,42,1927-05-07,West Brom,Manchester Utd,2,2,0.5
+1926-1927,42,1927-05-07,The Wednesday,Leeds United,1,0,1.0
+1926-1927,42,1927-05-07,Huddersfield,Aston Villa,0,0,0.5
+1926-1927,42,1927-05-07,Leicester City,Newcastle Utd,2,1,1.0
+1926-1927,42,1927-05-07,Bury,Derby County,1,2,0.0
+1926-1927,42,1927-05-07,West Ham,Liverpool,3,3,0.5
+1926-1927,42,1927-05-07,Birmingham,Sheffield Utd,2,3,0.0
+1926-1927,42,1927-05-07,Blackburn,Cardiff City,1,0,1.0

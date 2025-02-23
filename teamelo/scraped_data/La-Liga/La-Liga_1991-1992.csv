@@ -1,381 +1,381 @@
 Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
-1991-1992,1,1991-08-31,Valencia,Dep La Coruña,2,1,0.0
-1991-1992,1,1991-08-31,Cádiz,Real Madrid,0,1,1.0
-1991-1992,1,1991-08-31,Athletic Club,Sevilla,0,2,1.0
+1991-1992,1,1991-08-31,Valencia,Dep La Coruña,2,1,1.0
+1991-1992,1,1991-08-31,Cádiz,Real Madrid,0,1,0.0
+1991-1992,1,1991-08-31,Athletic Club,Sevilla,0,2,0.0
 1991-1992,1,1991-09-01,Zaragoza,Espanyol,1,1,0.5
-1991-1992,1,1991-09-01,Valladolid,Sporting Gijón,0,1,1.0
-1991-1992,1,1991-09-01,Osasuna,Albacete,2,0,0.0
+1991-1992,1,1991-09-01,Valladolid,Sporting Gijón,0,1,0.0
+1991-1992,1,1991-09-01,Osasuna,Albacete,2,0,1.0
 1991-1992,1,1991-09-01,Oviedo,Mallorca,0,0,0.5
-1991-1992,1,1991-09-01,Atlético Madrid,Real Burgos,2,0,0.0
-1991-1992,1,1991-09-01,Tenerife,Logroñés,3,0,0.0
-1991-1992,1,1991-09-01,Barcelona,Real Sociedad,2,0,0.0
-1991-1992,2,1991-09-07,Sevilla,Barcelona,4,2,0.0
+1991-1992,1,1991-09-01,Atlético Madrid,Real Burgos,2,0,1.0
+1991-1992,1,1991-09-01,Tenerife,Logroñés,3,0,1.0
+1991-1992,1,1991-09-01,Barcelona,Real Sociedad,2,0,1.0
+1991-1992,2,1991-09-07,Sevilla,Barcelona,4,2,1.0
 1991-1992,2,1991-09-08,Dep La Coruña,Tenerife,1,1,0.5
-1991-1992,2,1991-09-08,Real Madrid,Valladolid,1,0,0.0
-1991-1992,2,1991-09-08,Albacete,Valencia,1,0,0.0
-1991-1992,2,1991-09-08,Espanyol,Oviedo,0,1,1.0
-1991-1992,2,1991-09-08,Sporting Gijón,Athletic Club,3,2,0.0
+1991-1992,2,1991-09-08,Real Madrid,Valladolid,1,0,1.0
+1991-1992,2,1991-09-08,Albacete,Valencia,1,0,1.0
+1991-1992,2,1991-09-08,Espanyol,Oviedo,0,1,0.0
+1991-1992,2,1991-09-08,Sporting Gijón,Athletic Club,3,2,1.0
 1991-1992,2,1991-09-08,Real Sociedad,Zaragoza,0,0,0.5
-1991-1992,2,1991-09-08,Real Burgos,Osasuna,4,0,0.0
-1991-1992,2,1991-09-08,Logroñés,Cádiz,2,1,0.0
-1991-1992,2,1991-09-08,Mallorca,Atlético Madrid,0,2,1.0
-1991-1992,3,1991-09-14,Osasuna,Mallorca,1,0,0.0
-1991-1992,3,1991-09-14,Athletic Club,Real Madrid,1,4,1.0
-1991-1992,3,1991-09-14,Barcelona,Zaragoza,3,1,0.0
-1991-1992,3,1991-09-14,Oviedo,Real Sociedad,2,0,0.0
+1991-1992,2,1991-09-08,Real Burgos,Osasuna,4,0,1.0
+1991-1992,2,1991-09-08,Logroñés,Cádiz,2,1,1.0
+1991-1992,2,1991-09-08,Mallorca,Atlético Madrid,0,2,0.0
+1991-1992,3,1991-09-14,Osasuna,Mallorca,1,0,1.0
+1991-1992,3,1991-09-14,Athletic Club,Real Madrid,1,4,0.0
+1991-1992,3,1991-09-14,Barcelona,Zaragoza,3,1,1.0
+1991-1992,3,1991-09-14,Oviedo,Real Sociedad,2,0,1.0
 1991-1992,3,1991-09-14,Valencia,Real Burgos,1,1,0.5
-1991-1992,3,1991-09-15,Atlético Madrid,Espanyol,3,0,0.0
-1991-1992,3,1991-09-15,Tenerife,Albacete,2,3,1.0
-1991-1992,3,1991-09-15,Valladolid,Logroñés,1,2,1.0
-1991-1992,3,1991-09-15,Sevilla,Sporting Gijón,2,1,0.0
-1991-1992,3,1991-09-15,Cádiz,Dep La Coruña,1,0,0.0
-1991-1992,4,1991-09-28,Real Madrid,Sevilla,3,1,0.0
-1991-1992,4,1991-09-28,Zaragoza,Oviedo,3,2,0.0
-1991-1992,4,1991-09-28,Sporting Gijón,Barcelona,2,1,0.0
-1991-1992,4,1991-09-28,Real Sociedad,Atlético Madrid,0,2,1.0
-1991-1992,4,1991-09-29,Real Burgos,Tenerife,3,1,0.0
-1991-1992,4,1991-09-29,Espanyol,Osasuna,3,2,0.0
-1991-1992,4,1991-09-29,Albacete,Cádiz,0,1,1.0
-1991-1992,4,1991-09-29,Mallorca,Valencia,0,1,1.0
-1991-1992,4,1991-09-29,Logroñés,Athletic Club,0,1,1.0
-1991-1992,4,1991-09-29,Dep La Coruña,Valladolid,1,0,0.0
-1991-1992,5,1991-10-05,Valencia,Espanyol,1,0,0.0
-1991-1992,5,1991-10-06,Osasuna,Real Sociedad,1,0,0.0
-1991-1992,5,1991-10-06,Barcelona,Oviedo,1,2,1.0
-1991-1992,5,1991-10-06,Sporting Gijón,Real Madrid,1,4,1.0
+1991-1992,3,1991-09-15,Atlético Madrid,Espanyol,3,0,1.0
+1991-1992,3,1991-09-15,Tenerife,Albacete,2,3,0.0
+1991-1992,3,1991-09-15,Valladolid,Logroñés,1,2,0.0
+1991-1992,3,1991-09-15,Sevilla,Sporting Gijón,2,1,1.0
+1991-1992,3,1991-09-15,Cádiz,Dep La Coruña,1,0,1.0
+1991-1992,4,1991-09-28,Real Madrid,Sevilla,3,1,1.0
+1991-1992,4,1991-09-28,Zaragoza,Oviedo,3,2,1.0
+1991-1992,4,1991-09-28,Sporting Gijón,Barcelona,2,1,1.0
+1991-1992,4,1991-09-28,Real Sociedad,Atlético Madrid,0,2,0.0
+1991-1992,4,1991-09-29,Real Burgos,Tenerife,3,1,1.0
+1991-1992,4,1991-09-29,Espanyol,Osasuna,3,2,1.0
+1991-1992,4,1991-09-29,Albacete,Cádiz,0,1,0.0
+1991-1992,4,1991-09-29,Mallorca,Valencia,0,1,0.0
+1991-1992,4,1991-09-29,Logroñés,Athletic Club,0,1,0.0
+1991-1992,4,1991-09-29,Dep La Coruña,Valladolid,1,0,1.0
+1991-1992,5,1991-10-05,Valencia,Espanyol,1,0,1.0
+1991-1992,5,1991-10-06,Osasuna,Real Sociedad,1,0,1.0
+1991-1992,5,1991-10-06,Barcelona,Oviedo,1,2,0.0
+1991-1992,5,1991-10-06,Sporting Gijón,Real Madrid,1,4,0.0
 1991-1992,5,1991-10-06,Athletic Club,Dep La Coruña,0,0,0.5
-1991-1992,5,1991-10-06,Atlético Madrid,Zaragoza,2,1,0.0
-1991-1992,5,1991-10-06,Cádiz,Real Burgos,0,2,1.0
-1991-1992,5,1991-10-06,Tenerife,Mallorca,0,1,1.0
-1991-1992,5,1991-10-06,Sevilla,Logroñés,0,1,1.0
-1991-1992,5,1991-10-06,Valladolid,Albacete,1,0,0.0
-1991-1992,6,1991-10-19,Oviedo,Atlético Madrid,0,1,1.0
+1991-1992,5,1991-10-06,Atlético Madrid,Zaragoza,2,1,1.0
+1991-1992,5,1991-10-06,Cádiz,Real Burgos,0,2,0.0
+1991-1992,5,1991-10-06,Tenerife,Mallorca,0,1,0.0
+1991-1992,5,1991-10-06,Sevilla,Logroñés,0,1,0.0
+1991-1992,5,1991-10-06,Valladolid,Albacete,1,0,1.0
+1991-1992,6,1991-10-19,Oviedo,Atlético Madrid,0,1,0.0
 1991-1992,6,1991-10-19,Real Madrid,Barcelona,1,1,0.5
-1991-1992,6,1991-10-20,Albacete,Athletic Club,4,0,0.0
+1991-1992,6,1991-10-20,Albacete,Athletic Club,4,0,1.0
 1991-1992,6,1991-10-20,Espanyol,Tenerife,2,2,0.5
-1991-1992,6,1991-10-20,Dep La Coruña,Sevilla,3,1,0.0
-1991-1992,6,1991-10-20,Real Burgos,Valladolid,1,0,0.0
-1991-1992,6,1991-10-20,Real Sociedad,Valencia,3,1,0.0
+1991-1992,6,1991-10-20,Dep La Coruña,Sevilla,3,1,1.0
+1991-1992,6,1991-10-20,Real Burgos,Valladolid,1,0,1.0
+1991-1992,6,1991-10-20,Real Sociedad,Valencia,3,1,1.0
 1991-1992,6,1991-10-20,Logroñés,Sporting Gijón,0,0,0.5
-1991-1992,6,1991-10-20,Mallorca,Cádiz,1,0,0.0
-1991-1992,6,1991-10-20,Zaragoza,Osasuna,2,0,0.0
-1991-1992,7,1991-10-26,Barcelona,Atlético Madrid,1,0,0.0
-1991-1992,7,1991-10-27,Sevilla,Albacete,3,0,0.0
+1991-1992,6,1991-10-20,Mallorca,Cádiz,1,0,1.0
+1991-1992,6,1991-10-20,Zaragoza,Osasuna,2,0,1.0
+1991-1992,7,1991-10-26,Barcelona,Atlético Madrid,1,0,1.0
+1991-1992,7,1991-10-27,Sevilla,Albacete,3,0,1.0
 1991-1992,7,1991-10-27,Athletic Club,Real Burgos,0,0,0.5
-1991-1992,7,1991-10-27,Real Madrid,Logroñés,3,0,0.0
+1991-1992,7,1991-10-27,Real Madrid,Logroñés,3,0,1.0
 1991-1992,7,1991-10-27,Tenerife,Real Sociedad,0,0,0.5
-1991-1992,7,1991-10-27,Valencia,Zaragoza,0,1,1.0
-1991-1992,7,1991-10-27,Valladolid,Mallorca,2,1,0.0
-1991-1992,7,1991-10-27,Sporting Gijón,Dep La Coruña,1,0,0.0
-1991-1992,7,1991-10-27,Cádiz,Espanyol,2,1,0.0
-1991-1992,7,1991-10-27,Osasuna,Oviedo,1,0,0.0
-1991-1992,8,1991-11-02,Dep La Coruña,Real Madrid,0,3,1.0
-1991-1992,8,1991-11-02,Atlético Madrid,Osasuna,1,0,0.0
+1991-1992,7,1991-10-27,Valencia,Zaragoza,0,1,0.0
+1991-1992,7,1991-10-27,Valladolid,Mallorca,2,1,1.0
+1991-1992,7,1991-10-27,Sporting Gijón,Dep La Coruña,1,0,1.0
+1991-1992,7,1991-10-27,Cádiz,Espanyol,2,1,1.0
+1991-1992,7,1991-10-27,Osasuna,Oviedo,1,0,1.0
+1991-1992,8,1991-11-02,Dep La Coruña,Real Madrid,0,3,0.0
+1991-1992,8,1991-11-02,Atlético Madrid,Osasuna,1,0,1.0
 1991-1992,8,1991-11-03,Logroñés,Barcelona,2,2,0.5
-1991-1992,8,1991-11-03,Albacete,Sporting Gijón,0,2,1.0
-1991-1992,8,1991-11-03,Espanyol,Valladolid,0,2,1.0
+1991-1992,8,1991-11-03,Albacete,Sporting Gijón,0,2,0.0
+1991-1992,8,1991-11-03,Espanyol,Valladolid,0,2,0.0
 1991-1992,8,1991-11-03,Oviedo,Valencia,2,2,0.5
-1991-1992,8,1991-11-03,Mallorca,Athletic Club,1,2,1.0
-1991-1992,8,1991-11-03,Real Sociedad,Cádiz,1,0,0.0
-1991-1992,8,1991-11-03,Zaragoza,Tenerife,3,0,0.0
-1991-1992,8,1991-11-03,Real Burgos,Sevilla,1,0,0.0
-1991-1992,9,1991-11-09,Valencia,Atlético Madrid,2,0,0.0
+1991-1992,8,1991-11-03,Mallorca,Athletic Club,1,2,0.0
+1991-1992,8,1991-11-03,Real Sociedad,Cádiz,1,0,1.0
+1991-1992,8,1991-11-03,Zaragoza,Tenerife,3,0,1.0
+1991-1992,8,1991-11-03,Real Burgos,Sevilla,1,0,1.0
+1991-1992,9,1991-11-09,Valencia,Atlético Madrid,2,0,1.0
 1991-1992,9,1991-11-10,Cádiz,Zaragoza,0,0,0.5
 1991-1992,9,1991-11-10,Sporting Gijón,Real Burgos,0,0,0.5
 1991-1992,9,1991-11-10,Valladolid,Real Sociedad,2,2,0.5
-1991-1992,9,1991-11-10,Sevilla,Mallorca,2,0,0.0
-1991-1992,9,1991-11-10,Tenerife,Oviedo,1,0,0.0
-1991-1992,9,1991-11-10,Real Madrid,Albacete,2,1,0.0
-1991-1992,9,1991-11-10,Logroñés,Dep La Coruña,2,1,0.0
-1991-1992,9,1991-11-10,Barcelona,Osasuna,2,0,0.0
-1991-1992,9,1991-11-10,Athletic Club,Espanyol,0,2,1.0
-1991-1992,10,1991-11-16,Real Sociedad,Athletic Club,2,0,0.0
-1991-1992,10,1991-11-17,Atlético Madrid,Tenerife,1,0,0.0
-1991-1992,10,1991-11-17,Zaragoza,Valladolid,2,0,0.0
-1991-1992,10,1991-11-17,Osasuna,Valencia,0,1,1.0
-1991-1992,10,1991-11-17,Albacete,Logroñés,2,0,0.0
-1991-1992,10,1991-11-17,Oviedo,Cádiz,2,1,0.0
-1991-1992,10,1991-11-17,Dep La Coruña,Barcelona,0,4,1.0
-1991-1992,10,1991-11-17,Mallorca,Sporting Gijón,0,1,1.0
+1991-1992,9,1991-11-10,Sevilla,Mallorca,2,0,1.0
+1991-1992,9,1991-11-10,Tenerife,Oviedo,1,0,1.0
+1991-1992,9,1991-11-10,Real Madrid,Albacete,2,1,1.0
+1991-1992,9,1991-11-10,Logroñés,Dep La Coruña,2,1,1.0
+1991-1992,9,1991-11-10,Barcelona,Osasuna,2,0,1.0
+1991-1992,9,1991-11-10,Athletic Club,Espanyol,0,2,0.0
+1991-1992,10,1991-11-16,Real Sociedad,Athletic Club,2,0,1.0
+1991-1992,10,1991-11-17,Atlético Madrid,Tenerife,1,0,1.0
+1991-1992,10,1991-11-17,Zaragoza,Valladolid,2,0,1.0
+1991-1992,10,1991-11-17,Osasuna,Valencia,0,1,0.0
+1991-1992,10,1991-11-17,Albacete,Logroñés,2,0,1.0
+1991-1992,10,1991-11-17,Oviedo,Cádiz,2,1,1.0
+1991-1992,10,1991-11-17,Dep La Coruña,Barcelona,0,4,0.0
+1991-1992,10,1991-11-17,Mallorca,Sporting Gijón,0,1,0.0
 1991-1992,10,1991-11-17,Espanyol,Sevilla,1,1,0.5
-1991-1992,10,1991-11-17,Real Burgos,Real Madrid,0,2,1.0
-1991-1992,11,1991-11-23,Barcelona,Valencia,3,1,0.0
+1991-1992,10,1991-11-17,Real Burgos,Real Madrid,0,2,0.0
+1991-1992,11,1991-11-23,Barcelona,Valencia,3,1,1.0
 1991-1992,11,1991-11-24,Tenerife,Osasuna,0,0,0.5
-1991-1992,11,1991-11-24,Logroñés,Real Burgos,1,2,1.0
-1991-1992,11,1991-11-24,Athletic Club,Zaragoza,1,0,0.0
+1991-1992,11,1991-11-24,Logroñés,Real Burgos,1,2,0.0
+1991-1992,11,1991-11-24,Athletic Club,Zaragoza,1,0,1.0
 1991-1992,11,1991-11-24,Valladolid,Oviedo,1,1,0.5
-1991-1992,11,1991-11-24,Sporting Gijón,Espanyol,3,0,0.0
+1991-1992,11,1991-11-24,Sporting Gijón,Espanyol,3,0,1.0
 1991-1992,11,1991-11-24,Sevilla,Real Sociedad,2,2,0.5
 1991-1992,11,1991-11-24,Dep La Coruña,Albacete,2,2,0.5
 1991-1992,11,1991-11-24,Cádiz,Atlético Madrid,1,1,0.5
-1991-1992,11,1991-11-24,Real Madrid,Mallorca,2,0,0.0
+1991-1992,11,1991-11-24,Real Madrid,Mallorca,2,0,1.0
 1991-1992,12,1991-11-30,Albacete,Barcelona,1,1,0.5
-1991-1992,12,1991-12-01,Atlético Madrid,Valladolid,5,1,0.0
+1991-1992,12,1991-12-01,Atlético Madrid,Valladolid,5,1,1.0
 1991-1992,12,1991-12-01,Zaragoza,Sevilla,1,1,0.5
-1991-1992,12,1991-12-01,Osasuna,Cádiz,1,0,0.0
+1991-1992,12,1991-12-01,Osasuna,Cádiz,1,0,1.0
 1991-1992,12,1991-12-01,Oviedo,Athletic Club,1,1,0.5
-1991-1992,12,1991-12-01,Espanyol,Real Madrid,1,5,1.0
+1991-1992,12,1991-12-01,Espanyol,Real Madrid,1,5,0.0
 1991-1992,12,1991-12-01,Real Burgos,Dep La Coruña,0,0,0.5
-1991-1992,12,1991-12-01,Valencia,Tenerife,1,0,0.0
+1991-1992,12,1991-12-01,Valencia,Tenerife,1,0,1.0
 1991-1992,12,1991-12-01,Real Sociedad,Sporting Gijón,0,0,0.5
-1991-1992,13,1991-12-07,Real Madrid,Real Sociedad,4,1,0.0
-1991-1992,13,1991-12-07,Barcelona,Tenerife,5,3,0.0
-1991-1992,13,1991-12-08,Cádiz,Valencia,2,0,0.0
-1991-1992,13,1991-12-08,Athletic Club,Atlético Madrid,3,2,0.0
-1991-1992,13,1991-12-08,Albacete,Real Burgos,1,0,0.0
-1991-1992,13,1991-12-08,Sporting Gijón,Zaragoza,1,2,1.0
+1991-1992,13,1991-12-07,Real Madrid,Real Sociedad,4,1,1.0
+1991-1992,13,1991-12-07,Barcelona,Tenerife,5,3,1.0
+1991-1992,13,1991-12-08,Cádiz,Valencia,2,0,1.0
+1991-1992,13,1991-12-08,Athletic Club,Atlético Madrid,3,2,1.0
+1991-1992,13,1991-12-08,Albacete,Real Burgos,1,0,1.0
+1991-1992,13,1991-12-08,Sporting Gijón,Zaragoza,1,2,0.0
 1991-1992,13,1991-12-08,Sevilla,Oviedo,1,1,0.5
-1991-1992,13,1991-12-08,Dep La Coruña,Mallorca,1,0,0.0
+1991-1992,13,1991-12-08,Dep La Coruña,Mallorca,1,0,1.0
 1991-1992,13,1991-12-08,Valladolid,Osasuna,1,1,0.5
-1991-1992,13,1991-12-08,Logroñés,Espanyol,2,1,0.0
-1991-1992,14,1991-12-14,Atlético Madrid,Sevilla,0,3,1.0
+1991-1992,13,1991-12-08,Logroñés,Espanyol,2,1,1.0
+1991-1992,14,1991-12-14,Atlético Madrid,Sevilla,0,3,0.0
 1991-1992,14,1991-12-15,Osasuna,Athletic Club,1,1,0.5
-1991-1992,14,1991-12-15,Mallorca,Albacete,0,1,1.0
-1991-1992,14,1991-12-15,Tenerife,Cádiz,3,1,0.0
+1991-1992,14,1991-12-15,Mallorca,Albacete,0,1,0.0
+1991-1992,14,1991-12-15,Tenerife,Cádiz,3,1,1.0
 1991-1992,14,1991-12-15,Zaragoza,Real Madrid,1,1,0.5
 1991-1992,14,1991-12-15,Real Burgos,Barcelona,2,2,0.5
-1991-1992,14,1991-12-15,Oviedo,Sporting Gijón,1,0,0.0
-1991-1992,14,1991-12-15,Real Sociedad,Logroñés,4,0,0.0
-1991-1992,14,1991-12-15,Espanyol,Dep La Coruña,0,3,1.0
-1991-1992,14,1991-12-15,Valencia,Valladolid,3,1,0.0
-1991-1992,15,1991-12-21,Barcelona,Cádiz,4,1,0.0
-1991-1992,15,1991-12-21,Athletic Club,Valencia,2,3,1.0
-1991-1992,15,1991-12-22,Albacete,Espanyol,3,2,0.0
+1991-1992,14,1991-12-15,Oviedo,Sporting Gijón,1,0,1.0
+1991-1992,14,1991-12-15,Real Sociedad,Logroñés,4,0,1.0
+1991-1992,14,1991-12-15,Espanyol,Dep La Coruña,0,3,0.0
+1991-1992,14,1991-12-15,Valencia,Valladolid,3,1,1.0
+1991-1992,15,1991-12-21,Barcelona,Cádiz,4,1,1.0
+1991-1992,15,1991-12-21,Athletic Club,Valencia,2,3,0.0
+1991-1992,15,1991-12-22,Albacete,Espanyol,3,2,1.0
 1991-1992,15,1991-12-22,Valladolid,Tenerife,2,2,0.5
 1991-1992,15,1991-12-22,Real Madrid,Oviedo,0,0,0.5
 1991-1992,15,1991-12-22,Real Burgos,Mallorca,0,0,0.5
-1991-1992,15,1991-12-22,Sevilla,Osasuna,1,0,0.0
+1991-1992,15,1991-12-22,Sevilla,Osasuna,1,0,1.0
 1991-1992,15,1991-12-22,Dep La Coruña,Real Sociedad,0,0,0.5
-1991-1992,15,1991-12-22,Sporting Gijón,Atlético Madrid,0,1,1.0
-1991-1992,15,1991-12-22,Logroñés,Zaragoza,0,2,1.0
-1991-1992,16,1992-01-04,Atlético Madrid,Real Madrid,2,0,0.0
-1991-1992,16,1992-01-04,Tenerife,Athletic Club,4,1,0.0
+1991-1992,15,1991-12-22,Sporting Gijón,Atlético Madrid,0,1,0.0
+1991-1992,15,1991-12-22,Logroñés,Zaragoza,0,2,0.0
+1991-1992,16,1992-01-04,Atlético Madrid,Real Madrid,2,0,1.0
+1991-1992,16,1992-01-04,Tenerife,Athletic Club,4,1,1.0
 1991-1992,16,1992-01-05,Espanyol,Real Burgos,0,0,0.5
-1991-1992,16,1992-01-05,Oviedo,Logroñés,2,3,1.0
-1991-1992,16,1992-01-05,Real Sociedad,Albacete,0,1,1.0
-1991-1992,16,1992-01-05,Valencia,Sevilla,3,2,0.0
-1991-1992,16,1992-01-05,Mallorca,Barcelona,1,2,1.0
-1991-1992,16,1992-01-05,Zaragoza,Dep La Coruña,1,0,0.0
-1991-1992,16,1992-01-05,Osasuna,Sporting Gijón,0,2,1.0
+1991-1992,16,1992-01-05,Oviedo,Logroñés,2,3,0.0
+1991-1992,16,1992-01-05,Real Sociedad,Albacete,0,1,0.0
+1991-1992,16,1992-01-05,Valencia,Sevilla,3,2,1.0
+1991-1992,16,1992-01-05,Mallorca,Barcelona,1,2,0.0
+1991-1992,16,1992-01-05,Zaragoza,Dep La Coruña,1,0,1.0
+1991-1992,16,1992-01-05,Osasuna,Sporting Gijón,0,2,0.0
 1991-1992,16,1992-01-05,Cádiz,Valladolid,0,0,0.5
-1991-1992,17,1992-01-11,Logroñés,Atlético Madrid,1,0,0.0
-1991-1992,17,1992-01-12,Barcelona,Valladolid,2,1,0.0
-1991-1992,17,1992-01-12,Real Madrid,Osasuna,5,2,0.0
+1991-1992,17,1992-01-11,Logroñés,Atlético Madrid,1,0,1.0
+1991-1992,17,1992-01-12,Barcelona,Valladolid,2,1,1.0
+1991-1992,17,1992-01-12,Real Madrid,Osasuna,5,2,1.0
 1991-1992,17,1992-01-12,Dep La Coruña,Oviedo,0,0,0.5
-1991-1992,17,1992-01-12,Sporting Gijón,Valencia,0,3,1.0
+1991-1992,17,1992-01-12,Sporting Gijón,Valencia,0,3,0.0
 1991-1992,17,1992-01-12,Albacete,Zaragoza,1,1,0.5
-1991-1992,17,1992-01-12,Mallorca,Espanyol,1,0,0.0
-1991-1992,17,1992-01-12,Athletic Club,Cádiz,3,1,0.0
-1991-1992,17,1992-01-12,Sevilla,Tenerife,4,1,0.0
-1991-1992,17,1992-01-12,Real Burgos,Real Sociedad,0,1,1.0
-1991-1992,18,1992-01-18,Valencia,Real Madrid,2,1,0.0
-1991-1992,18,1992-01-19,Oviedo,Albacete,0,1,1.0
+1991-1992,17,1992-01-12,Mallorca,Espanyol,1,0,1.0
+1991-1992,17,1992-01-12,Athletic Club,Cádiz,3,1,1.0
+1991-1992,17,1992-01-12,Sevilla,Tenerife,4,1,1.0
+1991-1992,17,1992-01-12,Real Burgos,Real Sociedad,0,1,0.0
+1991-1992,18,1992-01-18,Valencia,Real Madrid,2,1,1.0
+1991-1992,18,1992-01-19,Oviedo,Albacete,0,1,0.0
 1991-1992,18,1992-01-19,Cádiz,Sevilla,1,1,0.5
-1991-1992,18,1992-01-19,Osasuna,Logroñés,3,0,0.0
-1991-1992,18,1992-01-19,Barcelona,Espanyol,4,3,0.0
+1991-1992,18,1992-01-19,Osasuna,Logroñés,3,0,1.0
+1991-1992,18,1992-01-19,Barcelona,Espanyol,4,3,1.0
 1991-1992,18,1992-01-19,Valladolid,Athletic Club,1,1,0.5
 1991-1992,18,1992-01-19,Tenerife,Sporting Gijón,0,0,0.5
-1991-1992,18,1992-01-19,Atlético Madrid,Dep La Coruña,1,2,1.0
-1991-1992,18,1992-01-19,Real Sociedad,Mallorca,1,0,0.0
-1991-1992,18,1992-01-19,Zaragoza,Real Burgos,1,0,0.0
-1991-1992,19,1992-01-25,Athletic Club,Barcelona,0,2,1.0
-1991-1992,19,1992-01-26,Espanyol,Real Sociedad,2,0,0.0
-1991-1992,19,1992-01-26,Albacete,Atlético Madrid,3,1,0.0
-1991-1992,19,1992-01-26,Sporting Gijón,Cádiz,2,1,0.0
-1991-1992,19,1992-01-26,Sevilla,Valladolid,2,1,0.0
+1991-1992,18,1992-01-19,Atlético Madrid,Dep La Coruña,1,2,0.0
+1991-1992,18,1992-01-19,Real Sociedad,Mallorca,1,0,1.0
+1991-1992,18,1992-01-19,Zaragoza,Real Burgos,1,0,1.0
+1991-1992,19,1992-01-25,Athletic Club,Barcelona,0,2,0.0
+1991-1992,19,1992-01-26,Espanyol,Real Sociedad,2,0,1.0
+1991-1992,19,1992-01-26,Albacete,Atlético Madrid,3,1,1.0
+1991-1992,19,1992-01-26,Sporting Gijón,Cádiz,2,1,1.0
+1991-1992,19,1992-01-26,Sevilla,Valladolid,2,1,1.0
 1991-1992,19,1992-01-26,Dep La Coruña,Osasuna,0,0,0.5
-1991-1992,19,1992-01-26,Real Madrid,Tenerife,2,1,0.0
-1991-1992,19,1992-01-26,Mallorca,Zaragoza,0,1,1.0
+1991-1992,19,1992-01-26,Real Madrid,Tenerife,2,1,1.0
+1991-1992,19,1992-01-26,Mallorca,Zaragoza,0,1,0.0
 1991-1992,19,1992-01-26,Logroñés,Valencia,0,0,0.5
-1991-1992,19,1992-01-26,Real Burgos,Oviedo,1,0,0.0
+1991-1992,19,1992-01-26,Real Burgos,Oviedo,1,0,1.0
 1991-1992,20,1992-02-01,Real Burgos,Atlético Madrid,1,1,0.5
 1991-1992,20,1992-02-02,Real Madrid,Cádiz,1,1,0.5
-1991-1992,20,1992-02-02,Espanyol,Zaragoza,1,0,0.0
-1991-1992,20,1992-02-02,Real Sociedad,Barcelona,2,1,0.0
-1991-1992,20,1992-02-02,Sevilla,Athletic Club,1,2,1.0
-1991-1992,20,1992-02-02,Albacete,Osasuna,1,0,0.0
-1991-1992,20,1992-02-02,Logroñés,Tenerife,2,0,0.0
-1991-1992,20,1992-02-02,Dep La Coruña,Valencia,0,1,1.0
-1991-1992,20,1992-02-02,Sporting Gijón,Valladolid,1,0,0.0
-1991-1992,20,1992-02-02,Mallorca,Oviedo,2,1,0.0
-1991-1992,21,1992-02-08,Barcelona,Sevilla,1,0,0.0
+1991-1992,20,1992-02-02,Espanyol,Zaragoza,1,0,1.0
+1991-1992,20,1992-02-02,Real Sociedad,Barcelona,2,1,1.0
+1991-1992,20,1992-02-02,Sevilla,Athletic Club,1,2,0.0
+1991-1992,20,1992-02-02,Albacete,Osasuna,1,0,1.0
+1991-1992,20,1992-02-02,Logroñés,Tenerife,2,0,1.0
+1991-1992,20,1992-02-02,Dep La Coruña,Valencia,0,1,0.0
+1991-1992,20,1992-02-02,Sporting Gijón,Valladolid,1,0,1.0
+1991-1992,20,1992-02-02,Mallorca,Oviedo,2,1,1.0
+1991-1992,21,1992-02-08,Barcelona,Sevilla,1,0,1.0
 1991-1992,21,1992-02-09,Osasuna,Real Burgos,1,1,0.5
-1991-1992,21,1992-02-09,Valladolid,Real Madrid,2,1,0.0
+1991-1992,21,1992-02-09,Valladolid,Real Madrid,2,1,1.0
 1991-1992,21,1992-02-09,Valencia,Albacete,1,1,0.5
-1991-1992,21,1992-02-09,Athletic Club,Sporting Gijón,2,0,0.0
-1991-1992,21,1992-02-09,Zaragoza,Real Sociedad,1,3,1.0
-1991-1992,21,1992-02-09,Oviedo,Espanyol,1,0,0.0
-1991-1992,21,1992-02-09,Tenerife,Dep La Coruña,1,0,0.0
-1991-1992,21,1992-02-09,Atlético Madrid,Mallorca,3,0,0.0
-1991-1992,21,1992-02-09,Cádiz,Logroñés,2,0,0.0
-1991-1992,12,1992-02-12,Mallorca,Logroñés,2,1,0.0
-1991-1992,22,1992-02-15,Zaragoza,Barcelona,0,4,1.0
-1991-1992,22,1992-02-16,Real Madrid,Athletic Club,5,0,0.0
+1991-1992,21,1992-02-09,Athletic Club,Sporting Gijón,2,0,1.0
+1991-1992,21,1992-02-09,Zaragoza,Real Sociedad,1,3,0.0
+1991-1992,21,1992-02-09,Oviedo,Espanyol,1,0,1.0
+1991-1992,21,1992-02-09,Tenerife,Dep La Coruña,1,0,1.0
+1991-1992,21,1992-02-09,Atlético Madrid,Mallorca,3,0,1.0
+1991-1992,21,1992-02-09,Cádiz,Logroñés,2,0,1.0
+1991-1992,12,1992-02-12,Mallorca,Logroñés,2,1,1.0
+1991-1992,22,1992-02-15,Zaragoza,Barcelona,0,4,0.0
+1991-1992,22,1992-02-16,Real Madrid,Athletic Club,5,0,1.0
 1991-1992,22,1992-02-16,Logroñés,Valladolid,0,0,0.5
 1991-1992,22,1992-02-16,Mallorca,Osasuna,1,1,0.5
-1991-1992,22,1992-02-16,Sporting Gijón,Sevilla,2,1,0.0
-1991-1992,22,1992-02-16,Real Burgos,Valencia,2,1,0.0
-1991-1992,22,1992-02-16,Espanyol,Atlético Madrid,1,2,1.0
-1991-1992,22,1992-02-16,Real Sociedad,Oviedo,2,1,0.0
+1991-1992,22,1992-02-16,Sporting Gijón,Sevilla,2,1,1.0
+1991-1992,22,1992-02-16,Real Burgos,Valencia,2,1,1.0
+1991-1992,22,1992-02-16,Espanyol,Atlético Madrid,1,2,0.0
+1991-1992,22,1992-02-16,Real Sociedad,Oviedo,2,1,1.0
 1991-1992,22,1992-02-16,Dep La Coruña,Cádiz,1,1,0.5
 1991-1992,22,1992-02-16,Albacete,Tenerife,1,1,0.5
-1991-1992,23,1992-02-22,Sevilla,Real Madrid,1,0,0.0
+1991-1992,23,1992-02-22,Sevilla,Real Madrid,1,0,1.0
 1991-1992,23,1992-02-22,Valencia,Mallorca,1,1,0.5
-1991-1992,23,1992-02-23,Oviedo,Zaragoza,2,1,0.0
-1991-1992,23,1992-02-23,Atlético Madrid,Real Sociedad,5,1,0.0
-1991-1992,23,1992-02-23,Tenerife,Real Burgos,4,1,0.0
+1991-1992,23,1992-02-23,Oviedo,Zaragoza,2,1,1.0
+1991-1992,23,1992-02-23,Atlético Madrid,Real Sociedad,5,1,1.0
+1991-1992,23,1992-02-23,Tenerife,Real Burgos,4,1,1.0
 1991-1992,23,1992-02-23,Barcelona,Sporting Gijón,1,1,0.5
-1991-1992,23,1992-02-23,Valladolid,Dep La Coruña,2,0,0.0
-1991-1992,23,1992-02-23,Athletic Club,Logroñés,1,2,1.0
-1991-1992,23,1992-02-23,Osasuna,Espanyol,0,1,1.0
+1991-1992,23,1992-02-23,Valladolid,Dep La Coruña,2,0,1.0
+1991-1992,23,1992-02-23,Athletic Club,Logroñés,1,2,0.0
+1991-1992,23,1992-02-23,Osasuna,Espanyol,0,1,0.0
 1991-1992,23,1992-02-23,Cádiz,Albacete,1,1,0.5
-1991-1992,24,1992-02-29,Zaragoza,Atlético Madrid,1,0,0.0
-1991-1992,24,1992-02-29,Oviedo,Barcelona,0,2,1.0
+1991-1992,24,1992-02-29,Zaragoza,Atlético Madrid,1,0,1.0
+1991-1992,24,1992-02-29,Oviedo,Barcelona,0,2,0.0
 1991-1992,24,1992-02-29,Espanyol,Valencia,0,0,0.5
-1991-1992,24,1992-02-29,Real Madrid,Sporting Gijón,1,0,0.0
+1991-1992,24,1992-02-29,Real Madrid,Sporting Gijón,1,0,1.0
 1991-1992,24,1992-03-01,Real Burgos,Cádiz,1,1,0.5
-1991-1992,24,1992-03-01,Albacete,Valladolid,3,1,0.0
+1991-1992,24,1992-03-01,Albacete,Valladolid,3,1,1.0
 1991-1992,24,1992-03-01,Real Sociedad,Osasuna,0,0,0.5
 1991-1992,24,1992-03-01,Dep La Coruña,Athletic Club,0,0,0.5
-1991-1992,24,1992-03-01,Logroñés,Sevilla,1,0,0.0
-1991-1992,24,1992-03-01,Mallorca,Tenerife,0,2,1.0
+1991-1992,24,1992-03-01,Logroñés,Sevilla,1,0,1.0
+1991-1992,24,1992-03-01,Mallorca,Tenerife,0,2,0.0
 1991-1992,25,1992-03-07,Barcelona,Real Madrid,1,1,0.5
-1991-1992,25,1992-03-08,Osasuna,Zaragoza,1,0,0.0
-1991-1992,25,1992-03-08,Cádiz,Mallorca,1,3,1.0
-1991-1992,25,1992-03-08,Atlético Madrid,Oviedo,3,1,0.0
-1991-1992,25,1992-03-08,Valencia,Real Sociedad,1,2,1.0
+1991-1992,25,1992-03-08,Osasuna,Zaragoza,1,0,1.0
+1991-1992,25,1992-03-08,Cádiz,Mallorca,1,3,0.0
+1991-1992,25,1992-03-08,Atlético Madrid,Oviedo,3,1,1.0
+1991-1992,25,1992-03-08,Valencia,Real Sociedad,1,2,0.0
 1991-1992,25,1992-03-08,Sevilla,Dep La Coruña,0,0,0.5
-1991-1992,25,1992-03-08,Valladolid,Real Burgos,2,0,0.0
+1991-1992,25,1992-03-08,Valladolid,Real Burgos,2,0,1.0
 1991-1992,25,1992-03-08,Sporting Gijón,Logroñés,1,1,0.5
-1991-1992,25,1992-03-08,Athletic Club,Albacete,1,0,0.0
-1991-1992,25,1992-03-08,Tenerife,Espanyol,0,1,1.0
+1991-1992,25,1992-03-08,Athletic Club,Albacete,1,0,1.0
+1991-1992,25,1992-03-08,Tenerife,Espanyol,0,1,0.0
 1991-1992,26,1992-03-14,Atlético Madrid,Barcelona,2,2,0.5
-1991-1992,26,1992-03-14,Logroñés,Real Madrid,1,0,0.0
-1991-1992,26,1992-03-15,Real Sociedad,Tenerife,1,0,0.0
+1991-1992,26,1992-03-14,Logroñés,Real Madrid,1,0,1.0
+1991-1992,26,1992-03-15,Real Sociedad,Tenerife,1,0,1.0
 1991-1992,26,1992-03-15,Mallorca,Valladolid,1,1,0.5
-1991-1992,26,1992-03-15,Real Burgos,Athletic Club,2,0,0.0
+1991-1992,26,1992-03-15,Real Burgos,Athletic Club,2,0,1.0
 1991-1992,26,1992-03-15,Albacete,Sevilla,0,0,0.5
-1991-1992,26,1992-03-15,Dep La Coruña,Sporting Gijón,5,2,0.0
-1991-1992,26,1992-03-15,Espanyol,Cádiz,3,1,0.0
-1991-1992,26,1992-03-15,Oviedo,Osasuna,3,1,0.0
-1991-1992,26,1992-03-15,Zaragoza,Valencia,0,3,1.0
+1991-1992,26,1992-03-15,Dep La Coruña,Sporting Gijón,5,2,1.0
+1991-1992,26,1992-03-15,Espanyol,Cádiz,3,1,1.0
+1991-1992,26,1992-03-15,Oviedo,Osasuna,3,1,1.0
+1991-1992,26,1992-03-15,Zaragoza,Valencia,0,3,0.0
 1991-1992,27,1992-03-21,Valladolid,Espanyol,0,0,0.5
-1991-1992,27,1992-03-22,Real Madrid,Dep La Coruña,1,0,0.0
+1991-1992,27,1992-03-22,Real Madrid,Dep La Coruña,1,0,1.0
 1991-1992,27,1992-03-22,Cádiz,Real Sociedad,0,0,0.5
-1991-1992,27,1992-03-22,Valencia,Oviedo,6,3,0.0
-1991-1992,27,1992-03-22,Sporting Gijón,Albacete,0,2,1.0
-1991-1992,27,1992-03-22,Sevilla,Real Burgos,3,2,0.0
+1991-1992,27,1992-03-22,Valencia,Oviedo,6,3,1.0
+1991-1992,27,1992-03-22,Sporting Gijón,Albacete,0,2,0.0
+1991-1992,27,1992-03-22,Sevilla,Real Burgos,3,2,1.0
 1991-1992,27,1992-03-22,Osasuna,Atlético Madrid,1,1,0.5
-1991-1992,27,1992-03-22,Tenerife,Zaragoza,1,0,0.0
-1991-1992,27,1992-03-22,Athletic Club,Mallorca,2,0,0.0
-1991-1992,27,1992-03-22,Barcelona,Logroñés,1,0,0.0
+1991-1992,27,1992-03-22,Tenerife,Zaragoza,1,0,1.0
+1991-1992,27,1992-03-22,Athletic Club,Mallorca,2,0,1.0
+1991-1992,27,1992-03-22,Barcelona,Logroñés,1,0,1.0
 1991-1992,28,1992-03-28,Osasuna,Barcelona,0,0,0.5
-1991-1992,28,1992-03-28,Mallorca,Sevilla,1,0,0.0
-1991-1992,28,1992-03-28,Albacete,Real Madrid,1,3,1.0
-1991-1992,28,1992-03-29,Real Burgos,Sporting Gijón,0,1,1.0
-1991-1992,28,1992-03-29,Atlético Madrid,Valencia,1,0,0.0
-1991-1992,28,1992-03-29,Oviedo,Tenerife,2,0,0.0
-1991-1992,28,1992-03-29,Real Sociedad,Valladolid,1,0,0.0
-1991-1992,28,1992-03-29,Espanyol,Athletic Club,2,0,0.0
+1991-1992,28,1992-03-28,Mallorca,Sevilla,1,0,1.0
+1991-1992,28,1992-03-28,Albacete,Real Madrid,1,3,0.0
+1991-1992,28,1992-03-29,Real Burgos,Sporting Gijón,0,1,0.0
+1991-1992,28,1992-03-29,Atlético Madrid,Valencia,1,0,1.0
+1991-1992,28,1992-03-29,Oviedo,Tenerife,2,0,1.0
+1991-1992,28,1992-03-29,Real Sociedad,Valladolid,1,0,1.0
+1991-1992,28,1992-03-29,Espanyol,Athletic Club,2,0,1.0
 1991-1992,28,1992-03-29,Dep La Coruña,Logroñés,2,2,0.5
-1991-1992,28,1992-03-29,Zaragoza,Cádiz,3,0,0.0
-1991-1992,29,1992-04-04,Athletic Club,Real Sociedad,2,1,0.0
-1991-1992,29,1992-04-04,Valencia,Osasuna,1,2,1.0
-1991-1992,29,1992-04-05,Sporting Gijón,Mallorca,2,0,0.0
-1991-1992,29,1992-04-05,Tenerife,Atlético Madrid,0,1,1.0
+1991-1992,28,1992-03-29,Zaragoza,Cádiz,3,0,1.0
+1991-1992,29,1992-04-04,Athletic Club,Real Sociedad,2,1,1.0
+1991-1992,29,1992-04-04,Valencia,Osasuna,1,2,0.0
+1991-1992,29,1992-04-05,Sporting Gijón,Mallorca,2,0,1.0
+1991-1992,29,1992-04-05,Tenerife,Atlético Madrid,0,1,0.0
 1991-1992,29,1992-04-05,Logroñés,Albacete,1,1,0.5
-1991-1992,29,1992-04-05,Cádiz,Oviedo,3,1,0.0
-1991-1992,29,1992-04-05,Sevilla,Espanyol,2,1,0.0
-1991-1992,29,1992-04-05,Real Madrid,Real Burgos,2,0,0.0
-1991-1992,29,1992-04-05,Barcelona,Dep La Coruña,4,1,0.0
+1991-1992,29,1992-04-05,Cádiz,Oviedo,3,1,1.0
+1991-1992,29,1992-04-05,Sevilla,Espanyol,2,1,1.0
+1991-1992,29,1992-04-05,Real Madrid,Real Burgos,2,0,1.0
+1991-1992,29,1992-04-05,Barcelona,Dep La Coruña,4,1,1.0
 1991-1992,29,1992-04-05,Valladolid,Zaragoza,0,0,0.5
-1991-1992,30,1992-04-11,Real Sociedad,Sevilla,2,1,0.0
+1991-1992,30,1992-04-11,Real Sociedad,Sevilla,2,1,1.0
 1991-1992,30,1992-04-11,Mallorca,Real Madrid,0,0,0.5
-1991-1992,30,1992-04-11,Valencia,Barcelona,1,0,0.0
-1991-1992,30,1992-04-12,Real Burgos,Logroñés,2,0,0.0
-1991-1992,30,1992-04-12,Atlético Madrid,Cádiz,5,1,0.0
-1991-1992,30,1992-04-12,Albacete,Dep La Coruña,3,0,0.0
-1991-1992,30,1992-04-12,Osasuna,Tenerife,2,0,0.0
-1991-1992,30,1992-04-12,Oviedo,Valladolid,2,1,0.0
-1991-1992,30,1992-04-12,Zaragoza,Athletic Club,1,0,0.0
-1991-1992,30,1992-04-12,Espanyol,Sporting Gijón,2,0,0.0
-1991-1992,31,1992-04-18,Barcelona,Albacete,7,1,0.0
-1991-1992,31,1992-04-19,Sevilla,Zaragoza,3,0,0.0
-1991-1992,31,1992-04-19,Tenerife,Valencia,2,1,0.0
-1991-1992,31,1992-04-19,Sporting Gijón,Real Sociedad,0,1,1.0
-1991-1992,31,1992-04-19,Logroñés,Mallorca,2,1,0.0
+1991-1992,30,1992-04-11,Valencia,Barcelona,1,0,1.0
+1991-1992,30,1992-04-12,Real Burgos,Logroñés,2,0,1.0
+1991-1992,30,1992-04-12,Atlético Madrid,Cádiz,5,1,1.0
+1991-1992,30,1992-04-12,Albacete,Dep La Coruña,3,0,1.0
+1991-1992,30,1992-04-12,Osasuna,Tenerife,2,0,1.0
+1991-1992,30,1992-04-12,Oviedo,Valladolid,2,1,1.0
+1991-1992,30,1992-04-12,Zaragoza,Athletic Club,1,0,1.0
+1991-1992,30,1992-04-12,Espanyol,Sporting Gijón,2,0,1.0
+1991-1992,31,1992-04-18,Barcelona,Albacete,7,1,1.0
+1991-1992,31,1992-04-19,Sevilla,Zaragoza,3,0,1.0
+1991-1992,31,1992-04-19,Tenerife,Valencia,2,1,1.0
+1991-1992,31,1992-04-19,Sporting Gijón,Real Sociedad,0,1,0.0
+1991-1992,31,1992-04-19,Logroñés,Mallorca,2,1,1.0
 1991-1992,31,1992-04-19,Cádiz,Osasuna,2,2,0.5
-1991-1992,31,1992-04-19,Valladolid,Atlético Madrid,0,1,1.0
+1991-1992,31,1992-04-19,Valladolid,Atlético Madrid,0,1,0.0
 1991-1992,31,1992-04-19,Athletic Club,Oviedo,0,0,0.5
-1991-1992,31,1992-04-19,Real Madrid,Espanyol,7,0,0.0
+1991-1992,31,1992-04-19,Real Madrid,Espanyol,7,0,1.0
 1991-1992,31,1992-04-19,Dep La Coruña,Real Burgos,2,2,0.5
-1991-1992,32,1992-04-25,Tenerife,Barcelona,2,1,0.0
-1991-1992,32,1992-04-25,Valencia,Cádiz,4,0,0.0
-1991-1992,32,1992-04-26,Real Burgos,Albacete,3,1,0.0
-1991-1992,32,1992-04-26,Mallorca,Dep La Coruña,4,2,0.0
-1991-1992,32,1992-04-26,Oviedo,Sevilla,1,0,0.0
-1991-1992,32,1992-04-26,Atlético Madrid,Athletic Club,3,1,0.0
-1991-1992,32,1992-04-26,Espanyol,Logroñés,3,0,0.0
+1991-1992,32,1992-04-25,Tenerife,Barcelona,2,1,1.0
+1991-1992,32,1992-04-25,Valencia,Cádiz,4,0,1.0
+1991-1992,32,1992-04-26,Real Burgos,Albacete,3,1,1.0
+1991-1992,32,1992-04-26,Mallorca,Dep La Coruña,4,2,1.0
+1991-1992,32,1992-04-26,Oviedo,Sevilla,1,0,1.0
+1991-1992,32,1992-04-26,Atlético Madrid,Athletic Club,3,1,1.0
+1991-1992,32,1992-04-26,Espanyol,Logroñés,3,0,1.0
 1991-1992,32,1992-04-26,Real Sociedad,Real Madrid,2,2,0.5
-1991-1992,32,1992-04-26,Zaragoza,Sporting Gijón,3,1,0.0
+1991-1992,32,1992-04-26,Zaragoza,Sporting Gijón,3,1,1.0
 1991-1992,32,1992-04-26,Osasuna,Valladolid,1,1,0.5
-1991-1992,33,1992-05-02,Sevilla,Atlético Madrid,0,1,1.0
+1991-1992,33,1992-05-02,Sevilla,Atlético Madrid,0,1,0.0
 1991-1992,33,1992-05-03,Barcelona,Real Burgos,1,1,0.5
-1991-1992,33,1992-05-03,Valladolid,Valencia,1,4,1.0
-1991-1992,33,1992-05-03,Albacete,Mallorca,1,0,0.0
-1991-1992,33,1992-05-03,Sporting Gijón,Oviedo,1,0,0.0
+1991-1992,33,1992-05-03,Valladolid,Valencia,1,4,0.0
+1991-1992,33,1992-05-03,Albacete,Mallorca,1,0,1.0
+1991-1992,33,1992-05-03,Sporting Gijón,Oviedo,1,0,1.0
 1991-1992,33,1992-05-03,Logroñés,Real Sociedad,1,1,0.5
 1991-1992,33,1992-05-03,Cádiz,Tenerife,0,0,0.5
-1991-1992,33,1992-05-03,Athletic Club,Osasuna,2,1,0.0
+1991-1992,33,1992-05-03,Athletic Club,Osasuna,2,1,1.0
 1991-1992,33,1992-05-03,Dep La Coruña,Espanyol,2,2,0.5
-1991-1992,33,1992-05-03,Real Madrid,Zaragoza,2,0,0.0
-1991-1992,34,1992-05-09,Oviedo,Real Madrid,1,0,0.0
-1991-1992,34,1992-05-09,Valencia,Athletic Club,3,1,0.0
-1991-1992,34,1992-05-10,Zaragoza,Logroñés,3,2,0.0
-1991-1992,34,1992-05-10,Atlético Madrid,Sporting Gijón,2,1,0.0
-1991-1992,34,1992-05-10,Osasuna,Sevilla,1,0,0.0
+1991-1992,33,1992-05-03,Real Madrid,Zaragoza,2,0,1.0
+1991-1992,34,1992-05-09,Oviedo,Real Madrid,1,0,1.0
+1991-1992,34,1992-05-09,Valencia,Athletic Club,3,1,1.0
+1991-1992,34,1992-05-10,Zaragoza,Logroñés,3,2,1.0
+1991-1992,34,1992-05-10,Atlético Madrid,Sporting Gijón,2,1,1.0
+1991-1992,34,1992-05-10,Osasuna,Sevilla,1,0,1.0
 1991-1992,34,1992-05-10,Mallorca,Real Burgos,2,2,0.5
-1991-1992,34,1992-05-10,Cádiz,Barcelona,0,2,1.0
-1991-1992,34,1992-05-10,Espanyol,Albacete,2,0,0.0
+1991-1992,34,1992-05-10,Cádiz,Barcelona,0,2,0.0
+1991-1992,34,1992-05-10,Espanyol,Albacete,2,0,1.0
 1991-1992,34,1992-05-10,Tenerife,Valladolid,0,0,0.5
 1991-1992,34,1992-05-10,Real Sociedad,Dep La Coruña,1,1,0.5
-1991-1992,35,1992-05-16,Barcelona,Mallorca,3,0,0.0
-1991-1992,35,1992-05-16,Real Madrid,Atlético Madrid,3,2,0.0
+1991-1992,35,1992-05-16,Barcelona,Mallorca,3,0,1.0
+1991-1992,35,1992-05-16,Real Madrid,Atlético Madrid,3,2,1.0
 1991-1992,35,1992-05-17,Valladolid,Cádiz,2,2,0.5
-1991-1992,35,1992-05-17,Albacete,Real Sociedad,0,1,1.0
-1991-1992,35,1992-05-17,Dep La Coruña,Zaragoza,3,0,0.0
-1991-1992,35,1992-05-17,Real Burgos,Espanyol,2,1,0.0
-1991-1992,35,1992-05-17,Sporting Gijón,Osasuna,1,0,0.0
-1991-1992,35,1992-05-17,Sevilla,Valencia,2,3,1.0
-1991-1992,35,1992-05-17,Athletic Club,Tenerife,3,1,0.0
-1991-1992,35,1992-05-17,Logroñés,Oviedo,2,0,0.0
+1991-1992,35,1992-05-17,Albacete,Real Sociedad,0,1,0.0
+1991-1992,35,1992-05-17,Dep La Coruña,Zaragoza,3,0,1.0
+1991-1992,35,1992-05-17,Real Burgos,Espanyol,2,1,1.0
+1991-1992,35,1992-05-17,Sporting Gijón,Osasuna,1,0,1.0
+1991-1992,35,1992-05-17,Sevilla,Valencia,2,3,0.0
+1991-1992,35,1992-05-17,Athletic Club,Tenerife,3,1,1.0
+1991-1992,35,1992-05-17,Logroñés,Oviedo,2,0,1.0
 1991-1992,36,1992-05-23,Osasuna,Real Madrid,1,1,0.5
-1991-1992,36,1992-05-23,Valencia,Sporting Gijón,3,1,0.0
-1991-1992,36,1992-05-24,Oviedo,Dep La Coruña,2,1,0.0
-1991-1992,36,1992-05-24,Real Sociedad,Real Burgos,4,0,0.0
-1991-1992,36,1992-05-24,Atlético Madrid,Logroñés,2,1,0.0
-1991-1992,36,1992-05-24,Valladolid,Barcelona,0,6,1.0
-1991-1992,36,1992-05-24,Tenerife,Sevilla,4,1,0.0
-1991-1992,36,1992-05-24,Zaragoza,Albacete,1,0,0.0
-1991-1992,36,1992-05-24,Espanyol,Mallorca,3,2,0.0
-1991-1992,36,1992-05-24,Cádiz,Athletic Club,1,0,0.0
+1991-1992,36,1992-05-23,Valencia,Sporting Gijón,3,1,1.0
+1991-1992,36,1992-05-24,Oviedo,Dep La Coruña,2,1,1.0
+1991-1992,36,1992-05-24,Real Sociedad,Real Burgos,4,0,1.0
+1991-1992,36,1992-05-24,Atlético Madrid,Logroñés,2,1,1.0
+1991-1992,36,1992-05-24,Valladolid,Barcelona,0,6,0.0
+1991-1992,36,1992-05-24,Tenerife,Sevilla,4,1,1.0
+1991-1992,36,1992-05-24,Zaragoza,Albacete,1,0,1.0
+1991-1992,36,1992-05-24,Espanyol,Mallorca,3,2,1.0
+1991-1992,36,1992-05-24,Cádiz,Athletic Club,1,0,1.0
 1991-1992,37,1992-05-30,Logroñés,Osasuna,0,0,0.5
-1991-1992,37,1992-05-31,Espanyol,Barcelona,0,4,1.0
-1991-1992,37,1992-05-31,Mallorca,Real Sociedad,2,1,0.0
-1991-1992,37,1992-05-31,Real Burgos,Zaragoza,0,1,1.0
-1991-1992,37,1992-05-31,Athletic Club,Valladolid,2,0,0.0
-1991-1992,37,1992-05-31,Albacete,Oviedo,2,0,0.0
+1991-1992,37,1992-05-31,Espanyol,Barcelona,0,4,0.0
+1991-1992,37,1992-05-31,Mallorca,Real Sociedad,2,1,1.0
+1991-1992,37,1992-05-31,Real Burgos,Zaragoza,0,1,0.0
+1991-1992,37,1992-05-31,Athletic Club,Valladolid,2,0,1.0
+1991-1992,37,1992-05-31,Albacete,Oviedo,2,0,1.0
 1991-1992,37,1992-05-31,Sporting Gijón,Tenerife,1,1,0.5
-1991-1992,37,1992-05-31,Real Madrid,Valencia,2,1,0.0
+1991-1992,37,1992-05-31,Real Madrid,Valencia,2,1,1.0
 1991-1992,37,1992-05-31,Dep La Coruña,Atlético Madrid,1,1,0.5
 1991-1992,37,1992-05-31,Sevilla,Cádiz,0,0,0.5
 1991-1992,38,1992-06-06,Valencia,Logroñés,1,1,0.5
-1991-1992,38,1992-06-07,Atlético Madrid,Albacete,4,1,0.0
-1991-1992,38,1992-06-07,Osasuna,Dep La Coruña,0,1,1.0
-1991-1992,38,1992-06-07,Valladolid,Sevilla,1,0,0.0
-1991-1992,38,1992-06-07,Barcelona,Athletic Club,2,0,0.0
-1991-1992,38,1992-06-07,Tenerife,Real Madrid,3,2,0.0
-1991-1992,38,1992-06-07,Zaragoza,Mallorca,1,2,1.0
-1991-1992,38,1992-06-07,Oviedo,Real Burgos,3,1,0.0
+1991-1992,38,1992-06-07,Atlético Madrid,Albacete,4,1,1.0
+1991-1992,38,1992-06-07,Osasuna,Dep La Coruña,0,1,0.0
+1991-1992,38,1992-06-07,Valladolid,Sevilla,1,0,1.0
+1991-1992,38,1992-06-07,Barcelona,Athletic Club,2,0,1.0
+1991-1992,38,1992-06-07,Tenerife,Real Madrid,3,2,1.0
+1991-1992,38,1992-06-07,Zaragoza,Mallorca,1,2,0.0
+1991-1992,38,1992-06-07,Oviedo,Real Burgos,3,1,1.0
 1991-1992,38,1992-06-07,Cádiz,Sporting Gijón,1,1,0.5
 1991-1992,38,1992-06-07,Real Sociedad,Espanyol,1,1,0.5

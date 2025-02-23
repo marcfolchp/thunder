@@ -1,0 +1,183 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2018-2019,Swiss Super League,1,2018-07-21,Basel,St. Gallen,1,2,0.0
+2018-2019,Swiss Super League,1,2018-07-21,Luzern,Xamax,0,2,0.0
+2018-2019,Swiss Super League,1,2018-07-22,Young Boys,Grasshopper,2,0,1.0
+2018-2019,Swiss Super League,1,2018-07-22,Zürich,Thun,2,1,1.0
+2018-2019,Swiss Super League,1,2018-07-22,Sion,Lugano,1,2,0.0
+2018-2019,Swiss Super League,2,2018-07-28,Xamax,Basel,1,1,0.5
+2018-2019,Swiss Super League,2,2018-07-28,Grasshopper,Zürich,0,2,0.0
+2018-2019,Swiss Super League,2,2018-07-29,Thun,Luzern,2,1,1.0
+2018-2019,Swiss Super League,2,2018-07-29,Lugano,Young Boys,0,2,0.0
+2018-2019,Swiss Super League,2,2018-07-29,St. Gallen,Sion,2,4,0.0
+2018-2019,Swiss Super League,3,2018-08-04,Basel,Grasshopper,4,2,1.0
+2018-2019,Swiss Super League,3,2018-08-04,Luzern,Lugano,4,2,1.0
+2018-2019,Swiss Super League,3,2018-08-05,St. Gallen,Thun,3,2,1.0
+2018-2019,Swiss Super League,3,2018-08-05,Young Boys,Zürich,4,0,1.0
+2018-2019,Swiss Super League,3,2018-08-05,Sion,Xamax,3,0,1.0
+2018-2019,Swiss Super League,4,2018-08-11,Xamax,Thun,1,5,0.0
+2018-2019,Swiss Super League,4,2018-08-11,Lugano,Grasshopper,2,2,0.5
+2018-2019,Swiss Super League,4,2018-08-12,Basel,Sion,3,2,1.0
+2018-2019,Swiss Super League,4,2018-08-12,Luzern,Young Boys,2,3,0.0
+2018-2019,Swiss Super League,4,2018-08-12,Zürich,St. Gallen,0,0,0.5
+2018-2019,Swiss Super League,5,2018-08-25,Grasshopper,Sion,2,1,1.0
+2018-2019,Swiss Super League,5,2018-08-25,Young Boys,Xamax,5,2,1.0
+2018-2019,Swiss Super League,5,2018-08-26,St. Gallen,Luzern,0,1,0.0
+2018-2019,Swiss Super League,5,2018-08-26,Thun,Lugano,1,1,0.5
+2018-2019,Swiss Super League,5,2018-08-26,Zürich,Basel,1,1,0.5
+2018-2019,Swiss Super League,6,2018-09-01,Sion,Young Boys,0,3,0.0
+2018-2019,Swiss Super League,6,2018-09-01,Lugano,Zürich,1,0,1.0
+2018-2019,Swiss Super League,6,2018-09-02,Basel,Thun,1,1,0.5
+2018-2019,Swiss Super League,6,2018-09-02,Luzern,Grasshopper,2,1,1.0
+2018-2019,Swiss Super League,6,2018-09-02,Xamax,St. Gallen,2,3,0.0
+2018-2019,Swiss Super League,7,2018-09-22,Grasshopper,Xamax,3,1,1.0
+2018-2019,Swiss Super League,7,2018-09-22,Thun,Sion,4,1,1.0
+2018-2019,Swiss Super League,7,2018-09-23,St. Gallen,Lugano,2,2,0.5
+2018-2019,Swiss Super League,7,2018-09-23,Young Boys,Basel,7,1,1.0
+2018-2019,Swiss Super League,7,2018-09-23,Zürich,Luzern,1,0,1.0
+2018-2019,Swiss Super League,8,2018-09-25,Grasshopper,Thun,0,2,0.0
+2018-2019,Swiss Super League,8,2018-09-26,Xamax,Lugano,2,1,1.0
+2018-2019,Swiss Super League,8,2018-09-26,Basel,Luzern,2,1,1.0
+2018-2019,Swiss Super League,8,2018-09-26,Young Boys,St. Gallen,2,0,1.0
+2018-2019,Swiss Super League,8,2018-09-27,Sion,Zürich,1,2,0.0
+2018-2019,Swiss Super League,9,2018-09-29,St. Gallen,Grasshopper,2,1,1.0
+2018-2019,Swiss Super League,9,2018-09-29,Thun,Young Boys,1,4,0.0
+2018-2019,Swiss Super League,9,2018-09-30,Zürich,Xamax,0,0,0.5
+2018-2019,Swiss Super League,9,2018-09-30,Lugano,Basel,2,2,0.5
+2018-2019,Swiss Super League,9,2018-09-30,Luzern,Sion,1,3,0.0
+2018-2019,Swiss Super League,10,2018-10-06,St. Gallen,Basel,1,3,0.0
+2018-2019,Swiss Super League,10,2018-10-06,Young Boys,Luzern,2,3,0.0
+2018-2019,Swiss Super League,10,2018-10-07,Xamax,Sion,1,1,0.5
+2018-2019,Swiss Super League,10,2018-10-07,Grasshopper,Lugano,2,1,1.0
+2018-2019,Swiss Super League,10,2018-10-07,Thun,Zürich,2,2,0.5
+2018-2019,Swiss Super League,11,2018-10-20,Luzern,Thun,0,2,0.0
+2018-2019,Swiss Super League,11,2018-10-20,Zürich,Young Boys,3,3,0.5
+2018-2019,Swiss Super League,11,2018-10-21,Lugano,St. Gallen,3,1,1.0
+2018-2019,Swiss Super League,11,2018-10-21,Sion,Grasshopper,0,0,0.5
+2018-2019,Swiss Super League,11,2018-10-21,Basel,Xamax,1,1,0.5
+2018-2019,Swiss Super League,12,2018-10-27,Young Boys,Sion,3,2,1.0
+2018-2019,Swiss Super League,12,2018-10-27,Grasshopper,Basel,1,3,0.0
+2018-2019,Swiss Super League,12,2018-10-28,St. Gallen,Zürich,3,2,1.0
+2018-2019,Swiss Super League,12,2018-10-28,Xamax,Luzern,1,2,0.0
+2018-2019,Swiss Super League,12,2018-10-28,Lugano,Thun,2,1,1.0
+2018-2019,Swiss Super League,13,2018-11-03,Grasshopper,Young Boys,0,3,0.0
+2018-2019,Swiss Super League,13,2018-11-03,Thun,Xamax,2,2,0.5
+2018-2019,Swiss Super League,13,2018-11-04,Basel,Lugano,3,2,1.0
+2018-2019,Swiss Super League,13,2018-11-04,Luzern,Zürich,2,5,0.0
+2018-2019,Swiss Super League,13,2018-11-04,Sion,St. Gallen,0,1,0.0
+2018-2019,Swiss Super League,14,2018-11-10,Lugano,Luzern,1,4,0.0
+2018-2019,Swiss Super League,14,2018-11-10,Thun,Basel,4,2,1.0
+2018-2019,Swiss Super League,14,2018-11-11,St. Gallen,Young Boys,2,3,0.0
+2018-2019,Swiss Super League,14,2018-11-11,Xamax,Grasshopper,2,3,0.0
+2018-2019,Swiss Super League,14,2018-11-11,Zürich,Sion,1,2,0.0
+2018-2019,Swiss Super League,15,2018-11-24,Xamax,Zürich,3,3,0.5
+2018-2019,Swiss Super League,15,2018-11-24,Young Boys,Lugano,1,0,1.0
+2018-2019,Swiss Super League,15,2018-11-25,Luzern,Basel,1,1,0.5
+2018-2019,Swiss Super League,15,2018-11-25,Grasshopper,St. Gallen,2,1,1.0
+2018-2019,Swiss Super League,15,2018-11-25,Sion,Thun,2,1,1.0
+2018-2019,Swiss Super League,16,2018-12-01,Sion,Luzern,2,0,1.0
+2018-2019,Swiss Super League,16,2018-12-01,Thun,St. Gallen,2,0,1.0
+2018-2019,Swiss Super League,16,2018-12-02,Zürich,Grasshopper,2,0,1.0
+2018-2019,Swiss Super League,16,2018-12-02,Basel,Young Boys,1,3,0.0
+2018-2019,Swiss Super League,16,2018-12-02,Lugano,Xamax,2,2,0.5
+2018-2019,Swiss Super League,17,2018-12-08,Young Boys,Thun,3,2,1.0
+2018-2019,Swiss Super League,17,2018-12-08,St. Gallen,Xamax,3,2,1.0
+2018-2019,Swiss Super League,17,2018-12-09,Lugano,Sion,2,2,0.5
+2018-2019,Swiss Super League,17,2018-12-09,Grasshopper,Luzern,2,3,0.0
+2018-2019,Swiss Super League,17,2018-12-09,Basel,Zürich,2,0,1.0
+2018-2019,Swiss Super League,18,2018-12-15,Thun,Grasshopper,1,0,1.0
+2018-2019,Swiss Super League,18,2018-12-15,Sion,Basel,1,2,0.0
+2018-2019,Swiss Super League,18,2018-12-16,Luzern,St. Gallen,2,1,1.0
+2018-2019,Swiss Super League,18,2018-12-16,Zürich,Lugano,0,0,0.5
+2018-2019,Swiss Super League,18,2018-12-16,Xamax,Young Boys,1,4,0.0
+2018-2019,Swiss Super League,19,2019-02-02,Young Boys,Xamax,2,0,1.0
+2018-2019,Swiss Super League,19,2019-02-03,Grasshopper,Basel,0,4,0.0
+2018-2019,Swiss Super League,19,2019-02-06,St. Gallen,Zürich,3,1,1.0
+2018-2019,Swiss Super League,19,2019-02-06,Lugano,Thun,1,3,0.0
+2018-2019,Swiss Super League,20,2019-02-09,Basel,St. Gallen,1,1,0.5
+2018-2019,Swiss Super League,20,2019-02-09,Zürich,Grasshopper,3,1,1.0
+2018-2019,Swiss Super League,20,2019-02-10,Sion,Lugano,2,2,0.5
+2018-2019,Swiss Super League,20,2019-02-10,Thun,Young Boys,1,1,0.5
+2018-2019,Swiss Super League,20,2019-02-10,Xamax,Luzern,2,1,1.0
+2018-2019,Swiss Super League,19,2019-02-13,Luzern,Sion,1,3,0.0
+2018-2019,Swiss Super League,21,2019-02-16,St. Gallen,Thun,1,3,0.0
+2018-2019,Swiss Super League,21,2019-02-16,Luzern,Lugano,0,3,0.0
+2018-2019,Swiss Super League,21,2019-02-17,Basel,Sion,1,0,1.0
+2018-2019,Swiss Super League,21,2019-02-17,Grasshopper,Xamax,0,1,0.0
+2018-2019,Swiss Super League,21,2019-02-17,Young Boys,Zürich,2,0,1.0
+2018-2019,Swiss Super League,22,2019-02-23,Xamax,Basel,0,2,0.0
+2018-2019,Swiss Super League,22,2019-02-23,Sion,St. Gallen,2,2,0.5
+2018-2019,Swiss Super League,22,2019-02-24,Thun,Grasshopper,1,1,0.5
+2018-2019,Swiss Super League,22,2019-02-24,Zürich,Luzern,1,1,0.5
+2018-2019,Swiss Super League,22,2019-02-24,Lugano,Young Boys,0,1,0.0
+2018-2019,Swiss Super League,23,2019-03-02,Grasshopper,Luzern,1,3,0.0
+2018-2019,Swiss Super League,23,2019-03-02,Young Boys,Sion,1,0,1.0
+2018-2019,Swiss Super League,23,2019-03-03,Zürich,Lugano,0,1,0.0
+2018-2019,Swiss Super League,23,2019-03-03,Basel,Thun,3,1,1.0
+2018-2019,Swiss Super League,23,2019-03-03,St. Gallen,Xamax,3,0,1.0
+2018-2019,Swiss Super League,24,2019-03-09,Grasshopper,Young Boys,0,1,0.0
+2018-2019,Swiss Super League,24,2019-03-09,Xamax,Sion,3,1,1.0
+2018-2019,Swiss Super League,24,2019-03-10,Thun,Zürich,2,2,0.5
+2018-2019,Swiss Super League,24,2019-03-10,Lugano,Basel,1,1,0.5
+2018-2019,Swiss Super League,24,2019-03-10,Luzern,St. Gallen,3,0,1.0
+2018-2019,Swiss Super League,25,2019-03-16,Sion,Grasshopper,3,0,1.0
+2018-2019,Swiss Super League,25,2019-03-16,St. Gallen,Lugano,0,2,0.0
+2018-2019,Swiss Super League,25,2019-03-17,Basel,Young Boys,2,2,0.5
+2018-2019,Swiss Super League,25,2019-03-17,Zürich,Xamax,2,1,1.0
+2018-2019,Swiss Super League,25,2019-03-17,Thun,Luzern,1,1,0.5
+2018-2019,Swiss Super League,26,2019-03-30,Luzern,Basel,0,1,0.0
+2018-2019,Swiss Super League,26,2019-03-30,Sion,Zürich,1,0,1.0
+2018-2019,Swiss Super League,26,2019-03-31,Xamax,Thun,3,2,1.0
+2018-2019,Swiss Super League,26,2019-03-31,Young Boys,St. Gallen,3,2,1.0
+2018-2019,Swiss Super League,26,2019-03-31,Grasshopper,Lugano,1,1,0.5
+2018-2019,Swiss Super League,27,2019-04-03,Lugano,Xamax,0,0,0.5
+2018-2019,Swiss Super League,27,2019-04-03,St. Gallen,Grasshopper,0,0,0.5
+2018-2019,Swiss Super League,27,2019-04-03,Zürich,Basel,0,2,0.0
+2018-2019,Swiss Super League,27,2019-04-04,Thun,Sion,1,2,0.0
+2018-2019,Swiss Super League,28,2019-04-06,Grasshopper,Zürich,1,1,0.5
+2018-2019,Swiss Super League,28,2019-04-06,Xamax,St. Gallen,0,1,0.0
+2018-2019,Swiss Super League,28,2019-04-07,Basel,Lugano,1,1,0.5
+2018-2019,Swiss Super League,28,2019-04-07,Young Boys,Thun,5,1,1.0
+2018-2019,Swiss Super League,28,2019-04-07,Sion,Luzern,2,2,0.5
+2018-2019,Swiss Super League,27,2019-04-10,Luzern,Young Boys,1,3,0.0
+2018-2019,Swiss Super League,29,2019-04-13,Luzern,Xamax,0,1,0.0
+2018-2019,Swiss Super League,29,2019-04-13,Basel,Grasshopper,0,0,0.5
+2018-2019,Swiss Super League,29,2019-04-14,Thun,St. Gallen,0,0,0.5
+2018-2019,Swiss Super League,29,2019-04-14,Zürich,Young Boys,0,1,0.0
+2018-2019,Swiss Super League,29,2019-04-14,Lugano,Sion,1,1,0.5
+2018-2019,Swiss Super League,30,2019-04-19,Lugano,Zürich,3,0,1.0
+2018-2019,Swiss Super League,30,2019-04-19,Sion,Basel,0,3,0.0
+2018-2019,Swiss Super League,30,2019-04-20,Grasshopper,Thun,1,1,0.5
+2018-2019,Swiss Super League,30,2019-04-20,St. Gallen,Luzern,1,2,0.0
+2018-2019,Swiss Super League,30,2019-04-22,Xamax,Young Boys,1,0,1.0
+2018-2019,Swiss Super League,31,2019-04-27,Xamax,Grasshopper,1,1,0.5
+2018-2019,Swiss Super League,31,2019-04-27,Luzern,Thun,3,1,1.0
+2018-2019,Swiss Super League,31,2019-04-28,Zürich,Sion,1,0,1.0
+2018-2019,Swiss Super League,31,2019-04-28,St. Gallen,Basel,0,3,0.0
+2018-2019,Swiss Super League,31,2019-04-28,Young Boys,Lugano,2,2,0.5
+2018-2019,Swiss Super League,32,2019-05-04,Basel,Zürich,3,0,1.0
+2018-2019,Swiss Super League,32,2019-05-04,Grasshopper,St. Gallen,0,1,0.0
+2018-2019,Swiss Super League,32,2019-05-05,Lugano,Luzern,1,0,1.0
+2018-2019,Swiss Super League,32,2019-05-05,Sion,Young Boys,0,4,0.0
+2018-2019,Swiss Super League,32,2019-05-05,Thun,Xamax,0,2,0.0
+2018-2019,Swiss Super League,33,2019-05-11,Xamax,Zürich,1,2,0.0
+2018-2019,Swiss Super League,33,2019-05-11,Thun,Lugano,1,0,1.0
+2018-2019,Swiss Super League,33,2019-05-12,St. Gallen,Sion,2,1,1.0
+2018-2019,Swiss Super League,33,2019-05-12,Luzern,Grasshopper,4,0,1.0
+2018-2019,Swiss Super League,33,2019-05-12,Young Boys,Basel,3,1,1.0
+2018-2019,Swiss Super League,34,2019-05-15,Sion,Xamax,1,0,1.0
+2018-2019,Swiss Super League,34,2019-05-15,Zürich,Thun,3,0,1.0
+2018-2019,Swiss Super League,34,2019-05-15,Basel,Luzern,3,2,1.0
+2018-2019,Swiss Super League,34,2019-05-16,Lugano,St. Gallen,1,0,1.0
+2018-2019,Swiss Super League,34,2019-05-16,Young Boys,Grasshopper,6,1,1.0
+2018-2019,Swiss Super League,35,2019-05-22,St. Gallen,Young Boys,4,1,1.0
+2018-2019,Swiss Super League,35,2019-05-22,Grasshopper,Sion,0,3,0.0
+2018-2019,Swiss Super League,35,2019-05-22,Luzern,Zürich,3,0,1.0
+2018-2019,Swiss Super League,35,2019-05-22,Thun,Basel,1,2,0.0
+2018-2019,Swiss Super League,35,2019-05-22,Xamax,Lugano,1,1,0.5
+2018-2019,Swiss Super League,36,2019-05-25,Young Boys,Luzern,4,0,1.0
+2018-2019,Swiss Super League,36,2019-05-25,Zürich,St. Gallen,1,1,0.5
+2018-2019,Swiss Super League,36,2019-05-25,Basel,Xamax,4,1,1.0
+2018-2019,Swiss Super League,36,2019-05-25,Lugano,Grasshopper,3,3,0.5
+2018-2019,Swiss Super League,36,2019-05-25,Sion,Thun,0,1,0.0
+2018-2019,Swiss 1/2 Relegation/Promotion Playoffs,,2019-05-30,Xamax,Aarau,0,4,0.0
+2018-2019,Swiss 1/2 Relegation/Promotion Playoffs,,2019-06-02,Aarau,Xamax,0,4,0.0

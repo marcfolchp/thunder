@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023,1,2023-04-10,Rosenborg,Viking,1,0,1.0
+2023,1,2023-04-10,HamKam,Sandefjord,2,0,1.0
+2023,1,2023-04-10,Stabæk,Odd,0,0,0.5
+2023,1,2023-04-10,Aalesund,Vålerenga,0,1,0.0
+2023,1,2023-04-10,Sarpsborg 08,Bodø/Glimt,0,2,0.0
+2023,1,2023-04-10,Tromsø,Molde,1,0,1.0
+2023,1,2023-04-10,Brann,Haugesund,3,0,1.0
+2023,2,2023-04-15,Viking,Lillestrøm,2,0,1.0
+2023,2,2023-04-16,Haugesund,HamKam,3,2,1.0
+2023,2,2023-04-16,Sandefjord,Tromsø,0,0,0.5
+2023,2,2023-04-16,Bodø/Glimt,Stabæk,4,0,1.0
+2023,2,2023-04-16,Strømsgodset,Aalesund,1,0,1.0
+2023,2,2023-04-16,Odd,Brann,2,0,1.0
+2023,2,2023-04-16,Molde,Rosenborg,1,1,0.5
+2023,2,2023-04-16,Vålerenga,Sarpsborg 08,0,2,0.0
+2023,1,2023-04-19,Lillestrøm,Strømsgodset,4,3,1.0
+2023,3,2023-04-22,Brann,Vålerenga,3,1,1.0
+2023,3,2023-04-23,Stabæk,Haugesund,3,0,1.0
+2023,3,2023-04-23,HamKam,Strømsgodset,2,0,1.0
+2023,3,2023-04-23,Aalesund,Bodø/Glimt,0,3,0.0
+2023,3,2023-04-23,Rosenborg,Sandefjord,1,1,0.5
+2023,3,2023-04-23,Tromsø,Viking,1,1,0.5
+2023,3,2023-04-23,Sarpsborg 08,Odd,0,0,0.5
+2023,3,2023-04-23,Lillestrøm,Molde,2,1,1.0
+2023,4,2023-04-29,Bodø/Glimt,Brann,2,2,0.5
+2023,4,2023-04-30,Strømsgodset,Tromsø,0,1,0.0
+2023,4,2023-04-30,Sandefjord,Aalesund,4,0,1.0
+2023,4,2023-04-30,Haugesund,Sarpsborg 08,0,0,0.5
+2023,4,2023-04-30,Molde,Stabæk,2,3,0.0
+2023,4,2023-04-30,Viking,HamKam,7,3,1.0
+2023,4,2023-04-30,Odd,Rosenborg,0,0,0.5
+2023,4,2023-05-01,Vålerenga,Lillestrøm,3,4,0.0
+2023,17,2023-05-03,Molde,Aalesund,3,0,1.0
+2023,18,2023-05-03,Bodø/Glimt,Odd,2,0,1.0
+2023,18,2023-05-03,Rosenborg,Brann,0,2,0.0
+2023,5,2023-05-06,Rosenborg,Vålerenga,1,3,0.0
+2023,5,2023-05-07,HamKam,Molde,0,4,0.0
+2023,5,2023-05-07,Aalesund,Haugesund,0,0,0.5
+2023,5,2023-05-07,Viking,Strømsgodset,1,1,0.5
+2023,5,2023-05-07,Stabæk,Sarpsborg 08,1,1,0.5
+2023,5,2023-05-07,Tromsø,Odd,0,1,0.0
+2023,5,2023-05-07,Lillestrøm,Bodø/Glimt,1,2,0.0
+2023,5,2023-05-08,Brann,Sandefjord,0,0,0.5
+2023,6,2023-05-12,Odd,Lillestrøm,0,1,0.0
+2023,6,2023-05-13,Molde,Strømsgodset,3,2,1.0
+2023,6,2023-05-13,Sarpsborg 08,Brann,2,1,1.0
+2023,6,2023-05-13,HamKam,Tromsø,1,2,0.0
+2023,6,2023-05-13,Sandefjord,Viking,1,2,0.0
+2023,6,2023-05-13,Stabæk,Aalesund,1,0,1.0
+2023,6,2023-05-13,Bodø/Glimt,Rosenborg,3,2,1.0
+2023,6,2023-05-13,Haugesund,Vålerenga,1,1,0.5
+2023,7,2023-05-16,Rosenborg,Haugesund,1,0,1.0
+2023,7,2023-05-16,Tromsø,Bodø/Glimt,2,3,0.0
+2023,7,2023-05-16,Brann,Stabæk,4,1,1.0
+2023,7,2023-05-16,Viking,Odd,3,2,1.0
+2023,7,2023-05-16,Aalesund,Molde,3,1,1.0
+2023,7,2023-05-16,Vålerenga,HamKam,3,0,1.0
+2023,7,2023-05-16,Lillestrøm,Sarpsborg 08,1,2,0.0
+2023,7,2023-05-16,Strømsgodset,Sandefjord,1,0,1.0
+2023,8,2023-05-29,Haugesund,Tromsø,1,2,0.0
+2023,8,2023-05-29,Sarpsborg 08,Aalesund,3,1,1.0
+2023,8,2023-05-29,Stabæk,Vålerenga,2,1,1.0
+2023,8,2023-05-29,Molde,Sandefjord,5,0,1.0
+2023,8,2023-05-29,Odd,Strømsgodset,1,1,0.5
+2023,8,2023-05-29,Bodø/Glimt,Viking,5,1,1.0
+2023,8,2023-05-29,Brann,Rosenborg,3,1,1.0
+2023,8,2023-05-29,HamKam,Lillestrøm,0,0,0.5
+2023,9,2023-06-04,Aalesund,Brann,1,3,0.0
+2023,9,2023-06-04,Sandefjord,Odd,4,1,1.0
+2023,9,2023-06-04,Rosenborg,HamKam,4,0,1.0
+2023,9,2023-06-04,Tromsø,Sarpsborg 08,2,1,1.0
+2023,9,2023-06-04,Vålerenga,Bodø/Glimt,1,3,0.0
+2023,9,2023-06-04,Strømsgodset,Haugesund,1,2,0.0
+2023,9,2023-06-04,Lillestrøm,Stabæk,3,1,1.0
+2023,9,2023-06-04,Viking,Molde,3,4,0.0
+2023,10,2023-06-11,Aalesund,Tromsø,2,3,0.0
+2023,10,2023-06-11,Stabæk,Rosenborg,2,2,0.5
+2023,10,2023-06-11,Bodø/Glimt,HamKam,3,0,1.0
+2023,10,2023-06-11,Odd,Molde,1,0,1.0
+2023,10,2023-06-11,Vålerenga,Strømsgodset,0,1,0.0
+2023,10,2023-06-11,Haugesund,Sandefjord,3,2,1.0
+2023,10,2023-06-11,Sarpsborg 08,Viking,1,3,0.0
+2023,10,2023-06-11,Brann,Lillestrøm,2,2,0.5
+2023,11,2023-06-24,Viking,Brann,3,1,1.0
+2023,11,2023-06-25,Rosenborg,Sarpsborg 08,0,3,0.0
+2023,11,2023-06-25,HamKam,Odd,0,1,0.0
+2023,11,2023-06-25,Molde,Haugesund,1,0,1.0
+2023,11,2023-06-25,Tromsø,Stabæk,2,1,1.0
+2023,11,2023-06-25,Strømsgodset,Bodø/Glimt,2,0,1.0
+2023,12,2023-07-01,Vålerenga,Viking,1,2,0.0
+2023,12,2023-07-02,Aalesund,Rosenborg,1,0,1.0
+2023,12,2023-07-02,Lillestrøm,Tromsø,0,1,0.0
+2023,12,2023-07-02,Brann,HamKam,2,1,1.0
+2023,12,2023-07-02,Sarpsborg 08,Sandefjord,6,1,1.0
+2023,12,2023-07-02,Haugesund,Odd,2,1,1.0
+2023,12,2023-07-02,Bodø/Glimt,Molde,2,2,0.5
+2023,12,2023-07-03,Stabæk,Strømsgodset,0,1,0.0
+2023,13,2023-07-07,HamKam,Aalesund,2,1,1.0
+2023,13,2023-07-08,Viking,Haugesund,2,0,1.0
+2023,13,2023-07-09,Strømsgodset,Sarpsborg 08,5,2,1.0
+2023,13,2023-07-09,Odd,Bodø/Glimt,0,2,0.0
+2023,13,2023-07-09,Sandefjord,Stabæk,0,0,0.5
+2023,13,2023-07-09,Tromsø,Vålerenga,0,0,0.5
+2023,13,2023-07-09,Rosenborg,Lillestrøm,1,2,0.0
+2023,13,2023-07-09,Molde,Brann,2,0,1.0
+2023,14,2023-07-15,Vålerenga,Molde,0,4,0.0
+2023,14,2023-07-16,Bodø/Glimt,Haugesund,2,1,1.0
+2023,14,2023-07-16,Rosenborg,Tromsø,2,1,1.0
+2023,14,2023-07-16,Lillestrøm,Sandefjord,4,2,1.0
+2023,14,2023-07-16,Aalesund,Odd,0,3,0.0
+2023,14,2023-07-16,Stabæk,Viking,0,1,0.0
+2023,14,2023-07-16,Sarpsborg 08,HamKam,2,3,0.0
+2023,14,2023-07-16,Brann,Strømsgodset,1,0,1.0
+2023,11,2023-07-19,Lillestrøm,Aalesund,5,1,1.0
+2023,15,2023-07-22,Molde,Sarpsborg 08,5,1,1.0
+2023,15,2023-07-23,Haugesund,Lillestrøm,1,0,1.0
+2023,15,2023-07-23,Tromsø,Brann,3,1,1.0
+2023,15,2023-07-23,Odd,Vålerenga,2,1,1.0
+2023,15,2023-07-23,Sandefjord,Bodø/Glimt,2,5,0.0
+2023,15,2023-07-23,HamKam,Stabæk,3,2,1.0
+2023,15,2023-07-23,Strømsgodset,Rosenborg,0,1,0.0
+2023,15,2023-07-24,Viking,Aalesund,3,1,1.0
+2023,16,2023-07-29,Vålerenga,Sandefjord,2,3,0.0
+2023,16,2023-07-29,Stabæk,Molde,0,1,0.0
+2023,16,2023-07-30,Rosenborg,Odd,3,2,1.0
+2023,16,2023-07-30,Lillestrøm,HamKam,3,1,1.0
+2023,16,2023-07-30,Sarpsborg 08,Haugesund,2,1,1.0
+2023,16,2023-07-30,Aalesund,Strømsgodset,1,0,1.0
+2023,16,2023-07-30,Brann,Viking,0,2,0.0
+2023,16,2023-07-30,Bodø/Glimt,Tromsø,0,2,0.0
+2023,17,2023-08-05,Strømsgodset,Vålerenga,1,3,0.0
+2023,17,2023-08-06,Sandefjord,Sarpsborg 08,5,1,1.0
+2023,17,2023-08-06,Tromsø,Lillestrøm,3,1,1.0
+2023,17,2023-08-06,HamKam,Brann,0,2,0.0
+2023,17,2023-08-06,Odd,Stabæk,4,0,1.0
+2023,17,2023-08-06,Haugesund,Rosenborg,1,2,0.0
+2023,17,2023-08-06,Viking,Bodø/Glimt,3,2,1.0
+2023,18,2023-08-12,Sandefjord,Molde,2,2,0.5
+2023,18,2023-08-12,Sarpsborg 08,Strømsgodset,1,2,0.0
+2023,18,2023-08-13,Lillestrøm,Viking,1,3,0.0
+2023,18,2023-08-13,Aalesund,HamKam,0,2,0.0
+2023,18,2023-08-13,Vålerenga,Haugesund,1,1,0.5
+2023,19,2023-08-19,Molde,Vålerenga,0,0,0.5
+2023,19,2023-08-19,Odd,Sarpsborg 08,0,3,0.0
+2023,19,2023-08-20,HamKam,Rosenborg,3,0,1.0
+2023,19,2023-08-20,Viking,Stabæk,1,0,1.0
+2023,19,2023-08-20,Brann,Aalesund,5,1,1.0
+2023,19,2023-08-20,Haugesund,Bodø/Glimt,1,3,0.0
+2023,19,2023-08-20,Tromsø,Sandefjord,1,0,1.0
+2023,19,2023-08-20,Strømsgodset,Lillestrøm,1,2,0.0
+2023,20,2023-08-26,Sarpsborg 08,Tromsø,4,0,1.0
+2023,20,2023-08-27,Sandefjord,Haugesund,0,0,0.5
+2023,20,2023-08-27,Vålerenga,Odd,2,2,0.5
+2023,20,2023-08-27,Rosenborg,Aalesund,4,0,1.0
+2023,21,2023-09-02,Viking,Vålerenga,1,1,0.5
+2023,21,2023-09-03,Strømsgodset,Stabæk,2,1,1.0
+2023,21,2023-09-03,Odd,Sandefjord,3,2,1.0
+2023,21,2023-09-03,Brann,Sarpsborg 08,1,0,1.0
+2023,21,2023-09-03,Aalesund,Lillestrøm,1,1,0.5
+2023,21,2023-09-03,Tromsø,Rosenborg,3,1,1.0
+2023,21,2023-09-03,Haugesund,Molde,1,2,0.0
+2023,21,2023-09-03,HamKam,Bodø/Glimt,4,4,0.5
+2023,22,2023-09-16,Haugesund,Viking,0,2,0.0
+2023,22,2023-09-16,Sandefjord,Strømsgodset,2,0,1.0
+2023,22,2023-09-16,Molde,Odd,4,1,1.0
+2023,22,2023-09-17,Sarpsborg 08,Lillestrøm,3,1,1.0
+2023,22,2023-09-17,Tromsø,HamKam,2,1,1.0
+2023,22,2023-09-17,Stabæk,Brann,0,1,0.0
+2023,22,2023-09-17,Rosenborg,Bodø/Glimt,1,1,0.5
+2023,22,2023-09-17,Vålerenga,Aalesund,3,1,1.0
+2023,23,2023-09-23,Aalesund,Stabæk,1,1,0.5
+2023,23,2023-09-24,HamKam,Sarpsborg 08,1,1,0.5
+2023,23,2023-09-24,Odd,Haugesund,1,1,0.5
+2023,23,2023-09-24,Strømsgodset,Molde,1,1,0.5
+2023,23,2023-09-24,Bodø/Glimt,Vålerenga,4,2,1.0
+2023,23,2023-09-24,Viking,Sandefjord,4,3,1.0
+2023,23,2023-09-24,Lillestrøm,Rosenborg,3,0,1.0
+2023,23,2023-09-24,Brann,Tromsø,2,1,1.0
+2023,18,2023-09-30,Stabæk,Tromsø,0,1,0.0
+2023,20,2023-10-01,Lillestrøm,Brann,0,2,0.0
+2023,11,2023-10-01,Sandefjord,Vålerenga,1,2,0.0
+2023,20,2023-10-01,Molde,Viking,4,0,1.0
+2023,20,2023-10-01,Bodø/Glimt,Strømsgodset,2,0,1.0
+2023,20,2023-10-04,Stabæk,HamKam,5,2,1.0
+2023,24,2023-10-07,Odd,Viking,1,1,0.5
+2023,24,2023-10-08,Haugesund,Strømsgodset,1,0,1.0
+2023,24,2023-10-08,Sarpsborg 08,Rosenborg,5,2,1.0
+2023,24,2023-10-08,Tromsø,Aalesund,1,2,0.0
+2023,24,2023-10-08,Stabæk,Lillestrøm,1,0,1.0
+2023,24,2023-10-08,Sandefjord,HamKam,0,1,0.0
+2023,24,2023-10-08,Molde,Bodø/Glimt,1,3,0.0
+2023,24,2023-10-08,Vålerenga,Brann,1,2,0.0
+2023,25,2023-10-21,Bodø/Glimt,Sandefjord,4,3,1.0
+2023,25,2023-10-21,Brann,Molde,3,2,1.0
+2023,25,2023-10-22,Lillestrøm,Vålerenga,2,0,1.0
+2023,25,2023-10-22,Strømsgodset,Odd,3,1,1.0
+2023,25,2023-10-22,HamKam,Haugesund,0,3,0.0
+2023,25,2023-10-22,Rosenborg,Stabæk,1,1,0.5
+2023,25,2023-10-22,Aalesund,Sarpsborg 08,3,2,1.0
+2023,25,2023-10-22,Viking,Tromsø,3,4,0.0
+2023,26,2023-10-28,Haugesund,Aalesund,6,1,1.0
+2023,26,2023-10-29,Odd,HamKam,2,0,1.0
+2023,26,2023-10-29,Sandefjord,Brann,1,1,0.5
+2023,26,2023-10-29,Strømsgodset,Viking,1,0,1.0
+2023,26,2023-10-29,Sarpsborg 08,Stabæk,2,2,0.5
+2023,26,2023-10-29,Vålerenga,Rosenborg,1,3,0.0
+2023,26,2023-10-30,Bodø/Glimt,Lillestrøm,3,1,1.0
+2023,26,2023-10-30,Molde,Tromsø,1,4,0.0
+2023,27,2023-11-04,HamKam,Viking,3,0,1.0
+2023,27,2023-11-05,Stabæk,Bodø/Glimt,0,4,0.0
+2023,27,2023-11-05,Lillestrøm,Haugesund,1,0,1.0
+2023,27,2023-11-05,Sarpsborg 08,Vålerenga,3,2,1.0
+2023,27,2023-11-05,Brann,Odd,2,1,1.0
+2023,27,2023-11-05,Rosenborg,Molde,3,1,1.0
+2023,27,2023-11-05,Tromsø,Strømsgodset,0,1,0.0
+2023,27,2023-11-06,Aalesund,Sandefjord,0,3,0.0
+2023,28,2023-11-11,Haugesund,Brann,0,2,0.0
+2023,28,2023-11-12,Odd,Tromsø,1,2,0.0
+2023,28,2023-11-12,Strømsgodset,HamKam,0,1,0.0
+2023,28,2023-11-12,Vålerenga,Stabæk,0,0,0.5
+2023,28,2023-11-12,Sandefjord,Rosenborg,3,2,1.0
+2023,28,2023-11-12,Bodø/Glimt,Aalesund,1,0,1.0
+2023,28,2023-11-12,Viking,Sarpsborg 08,2,1,1.0
+2023,28,2023-11-12,Molde,Lillestrøm,4,0,1.0
+2023,29,2023-11-26,Lillestrøm,Odd,4,4,0.5
+2023,29,2023-11-26,Rosenborg,Strømsgodset,1,3,0.0
+2023,29,2023-11-26,Stabæk,Sandefjord,2,1,1.0
+2023,29,2023-11-26,Aalesund,Viking,0,4,0.0
+2023,29,2023-11-26,HamKam,Vålerenga,0,2,0.0
+2023,29,2023-11-26,Brann,Bodø/Glimt,4,2,1.0
+2023,29,2023-11-26,Sarpsborg 08,Molde,1,3,0.0
+2023,29,2023-11-26,Tromsø,Haugesund,2,1,1.0
+2023,30,2023-12-03,Sandefjord,Lillestrøm,1,0,1.0
+2023,30,2023-12-03,Haugesund,Stabæk,3,0,1.0
+2023,30,2023-12-03,Molde,HamKam,1,1,0.5
+2023,30,2023-12-03,Vålerenga,Tromsø,1,1,0.5
+2023,30,2023-12-03,Odd,Aalesund,4,1,1.0
+2023,30,2023-12-03,Viking,Rosenborg,1,5,0.0
+2023,30,2023-12-03,Strømsgodset,Brann,3,0,1.0
+2023,30,2023-12-03,Bodø/Glimt,Sarpsborg 08,2,0,1.0

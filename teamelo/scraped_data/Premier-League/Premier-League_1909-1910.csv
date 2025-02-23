@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1909-1910,1,1909-09-01,Manchester Utd,Bradford City,1,0,1.0
+1909-1910,1,1909-09-01,Sunderland,Tottenham,3,1,1.0
+1909-1910,1,1909-09-01,Chelsea,Notts County,2,2,0.5
+1909-1910,1,1909-09-01,Middlesbrough,Sheffield Utd,0,2,0.0
+1909-1910,1,1909-09-01,Everton,The Wednesday,1,1,0.5
+1909-1910,1,1909-09-01,Newcastle Utd,Bolton,1,0,1.0
+1909-1910,1,1909-09-01,Preston,Nott'ham Forest,0,1,0.0
+1909-1910,1,1909-09-01,Aston Villa,Arsenal,5,1,1.0
+1909-1910,2,1909-09-04,Nott'ham Forest,Notts County,2,1,1.0
+1909-1910,2,1909-09-04,Everton,Tottenham,4,2,1.0
+1909-1910,2,1909-09-04,Bolton,Aston Villa,1,2,0.0
+1909-1910,2,1909-09-04,The Wednesday,Middlesbrough,1,5,0.0
+1909-1910,2,1909-09-04,Arsenal,Sheffield Utd,0,0,0.5
+1909-1910,2,1909-09-04,Blackburn,Newcastle Utd,2,0,1.0
+1909-1910,2,1909-09-04,Sunderland,Preston,2,1,1.0
+1909-1910,2,1909-09-04,Manchester Utd,Bury,2,0,1.0
+1909-1910,2,1909-09-04,Bradford City,Bristol City,3,1,1.0
+1909-1910,2,1909-09-04,Chelsea,Liverpool,2,1,1.0
+1909-1910,3,1909-09-06,Manchester Utd,Notts County,2,1,1.0
+1909-1910,3,1909-09-06,Bolton,Liverpool,1,2,0.0
+1909-1910,3,1909-09-06,Everton,Newcastle Utd,1,4,0.0
+1909-1910,4,1909-09-07,Bolton,Newcastle Utd,0,4,0.0
+1909-1910,2,1909-09-08,Bristol City,Bury,1,1,0.5
+1909-1910,2,1909-09-11,Liverpool,Blackburn,3,1,1.0
+1909-1910,3,1909-09-11,Notts County,Sunderland,1,1,0.5
+1909-1910,3,1909-09-11,Bristol City,The Wednesday,1,1,0.5
+1909-1910,3,1909-09-11,Middlesbrough,Arsenal,5,2,1.0
+1909-1910,3,1909-09-11,Aston Villa,Chelsea,4,1,1.0
+1909-1910,3,1909-09-11,Bury,Bradford City,3,4,0.0
+1909-1910,4,1909-09-11,Tottenham,Manchester Utd,2,2,0.5
+1909-1910,4,1909-09-11,Preston,Everton,0,1,0.0
+1909-1910,5,1909-09-11,Sheffield Utd,Bolton,2,2,0.5
+1909-1910,5,1909-09-11,Newcastle Utd,Nott'ham Forest,1,2,0.0
+1909-1910,3,1909-09-13,Blackburn,Bristol City,5,2,1.0
+1909-1910,4,1909-09-18,The Wednesday,Bury,1,4,0.0
+1909-1910,4,1909-09-18,Chelsea,Sheffield Utd,2,2,0.5
+1909-1910,4,1909-09-18,Bradford City,Tottenham,5,1,1.0
+1909-1910,4,1909-09-18,Bristol City,Middlesbrough,4,1,1.0
+1909-1910,4,1909-09-18,Blackburn,Aston Villa,3,2,1.0
+1909-1910,4,1909-09-18,Bolton,Arsenal,3,0,1.0
+1909-1910,4,1909-09-18,Nott'ham Forest,Liverpool,1,4,0.0
+1909-1910,5,1909-09-18,Manchester Utd,Preston,1,1,0.5
+1909-1910,5,1909-09-18,Everton,Notts County,2,0,1.0
+1909-1910,6,1909-09-18,Sunderland,Newcastle Utd,0,2,0.0
+1909-1910,6,1909-09-20,The Wednesday,Everton,1,3,0.0
+1909-1910,5,1909-09-25,Arsenal,Chelsea,3,2,1.0
+1909-1910,5,1909-09-25,Preston,Bradford City,2,2,0.5
+1909-1910,5,1909-09-25,Liverpool,Sunderland,1,4,0.0
+1909-1910,5,1909-09-25,Aston Villa,Nott'ham Forest,0,0,0.5
+1909-1910,5,1909-09-25,Sheffield Utd,Blackburn,3,0,1.0
+1909-1910,5,1909-09-25,Middlesbrough,Bolton,1,2,0.0
+1909-1910,6,1909-09-25,Tottenham,The Wednesday,3,0,1.0
+1909-1910,6,1909-09-25,Bury,Bristol City,1,2,0.0
+1909-1910,6,1909-09-25,Notts County,Manchester Utd,3,2,1.0
+1909-1910,7,1909-09-25,Newcastle Utd,Everton,1,2,0.0
+1909-1910,6,1909-10-02,Bradford City,Notts County,2,1,1.0
+1909-1910,6,1909-10-02,The Wednesday,Preston,4,1,1.0
+1909-1910,6,1909-10-02,Blackburn,Arsenal,7,0,1.0
+1909-1910,6,1909-10-02,Nott'ham Forest,Sheffield Utd,2,3,0.0
+1909-1910,6,1909-10-02,Sunderland,Aston Villa,1,1,0.5
+1909-1910,6,1909-10-02,Chelsea,Bolton,3,2,1.0
+1909-1910,6,1909-10-02,Bury,Middlesbrough,2,1,1.0
+1909-1910,7,1909-10-02,Bristol City,Tottenham,0,0,0.5
+1909-1910,7,1909-10-02,Manchester Utd,Newcastle Utd,1,1,0.5
+1909-1910,8,1909-10-02,Everton,Liverpool,2,3,0.0
+1909-1910,7,1909-10-07,Notts County,Arsenal,5,1,1.0
+1909-1910,7,1909-10-09,Tottenham,Bury,1,0,1.0
+1909-1910,7,1909-10-09,Aston Villa,Everton,3,1,1.0
+1909-1910,7,1909-10-09,Sheffield Utd,Sunderland,3,0,1.0
+1909-1910,7,1909-10-09,Preston,Bristol City,3,0,1.0
+1909-1910,7,1909-10-09,Middlesbrough,Chelsea,0,1,0.0
+1909-1910,7,1909-10-09,Bolton,Blackburn,1,2,0.0
+1909-1910,8,1909-10-09,Liverpool,Manchester Utd,3,2,1.0
+1909-1910,8,1909-10-09,Notts County,The Wednesday,0,0,0.5
+1909-1910,8,1909-10-09,Arsenal,Nott'ham Forest,0,1,0.0
+1909-1910,9,1909-10-09,Newcastle Utd,Bradford City,1,0,1.0
+1909-1910,8,1909-10-16,Tottenham,Middlesbrough,1,3,0.0
+1909-1910,8,1909-10-16,Sunderland,Arsenal,6,2,1.0
+1909-1910,8,1909-10-16,Bradford City,Liverpool,1,2,0.0
+1909-1910,8,1909-10-16,Manchester Utd,Aston Villa,2,0,1.0
+1909-1910,8,1909-10-16,Blackburn,Chelsea,1,0,1.0
+1909-1910,8,1909-10-16,Bury,Preston,3,1,1.0
+1909-1910,9,1909-10-16,Bristol City,Notts County,3,1,1.0
+1909-1910,10,1909-10-16,The Wednesday,Newcastle Utd,3,1,1.0
+1909-1910,10,1909-10-16,Nott'ham Forest,Bolton,2,0,1.0
+1909-1910,10,1909-10-16,Everton,Sheffield Utd,1,2,0.0
+1909-1910,11,1909-10-18,Sheffield Utd,Notts County,2,2,0.5
+1909-1910,9,1909-10-23,Bolton,Sunderland,2,1,1.0
+1909-1910,9,1909-10-23,Notts County,Bury,3,1,1.0
+1909-1910,9,1909-10-23,Chelsea,Nott'ham Forest,0,1,0.0
+1909-1910,9,1909-10-23,Middlesbrough,Blackburn,1,3,0.0
+1909-1910,9,1909-10-23,Aston Villa,Bradford City,3,1,1.0
+1909-1910,10,1909-10-23,Liverpool,The Wednesday,3,1,1.0
+1909-1910,10,1909-10-23,Sheffield Utd,Manchester Utd,0,1,0.0
+1909-1910,11,1909-10-23,Newcastle Utd,Bristol City,3,1,1.0
+1909-1910,11,1909-10-23,Arsenal,Everton,1,0,1.0
+1909-1910,10,1909-10-27,Chelsea,Preston,2,0,1.0
+1909-1910,10,1909-10-30,Nott'ham Forest,Blackburn,0,4,0.0
+1909-1910,10,1909-10-30,Preston,Middlesbrough,1,0,1.0
+1909-1910,10,1909-10-30,The Wednesday,Aston Villa,3,2,1.0
+1909-1910,10,1909-10-30,Bradford City,Sheffield Utd,2,0,1.0
+1909-1910,11,1909-10-30,Manchester Utd,Arsenal,1,0,1.0
+1909-1910,11,1909-10-30,Sunderland,Chelsea,4,0,1.0
+1909-1910,11,1909-10-30,Bristol City,Liverpool,0,1,0.0
+1909-1910,12,1909-10-30,Everton,Bolton,3,1,1.0
+1909-1910,12,1909-10-30,Bury,Newcastle Utd,1,2,0.0
+1909-1910,13,1909-10-30,Tottenham,Notts County,1,3,0.0
+1909-1910,11,1909-11-03,Nott'ham Forest,Bury,3,3,0.5
+1909-1910,11,1909-11-06,Notts County,Preston,3,1,1.0
+1909-1910,11,1909-11-06,Blackburn,Sunderland,0,0,0.5
+1909-1910,11,1909-11-06,Aston Villa,Bristol City,1,0,1.0
+1909-1910,11,1909-11-06,Middlesbrough,Nott'ham Forest,2,1,1.0
+1909-1910,12,1909-11-06,Bolton,Manchester Utd,2,3,0.0
+1909-1910,12,1909-11-06,Sheffield Utd,The Wednesday,3,3,0.5
+1909-1910,12,1909-11-06,Arsenal,Bradford City,0,1,0.0
+1909-1910,12,1909-11-06,Chelsea,Everton,0,1,0.0
+1909-1910,12,1909-11-06,Liverpool,Bury,2,2,0.5
+1909-1910,13,1909-11-06,Newcastle Utd,Tottenham,1,0,1.0
+1909-1910,12,1909-11-13,Sunderland,Nott'ham Forest,2,1,1.0
+1909-1910,12,1909-11-13,Bury,Aston Villa,0,2,0.0
+1909-1910,12,1909-11-13,Notts County,Middlesbrough,2,1,1.0
+1909-1910,12,1909-11-13,Tottenham,Liverpool,1,0,1.0
+1909-1910,13,1909-11-13,The Wednesday,Arsenal,1,1,0.5
+1909-1910,13,1909-11-13,Manchester Utd,Chelsea,2,0,1.0
+1909-1910,13,1909-11-13,Bristol City,Sheffield Utd,0,2,0.0
+1909-1910,14,1909-11-13,Bradford City,Bolton,1,0,1.0
+1909-1910,14,1909-11-13,Everton,Blackburn,0,2,0.0
+1909-1910,14,1909-11-13,Preston,Newcastle Utd,4,0,1.0
+1909-1910,13,1909-11-20,Liverpool,Preston,2,0,1.0
+1909-1910,13,1909-11-20,Middlesbrough,Sunderland,3,2,1.0
+1909-1910,13,1909-11-20,Aston Villa,Tottenham,3,2,1.0
+1909-1910,14,1909-11-20,Arsenal,Bristol City,2,2,0.5
+1909-1910,14,1909-11-20,Blackburn,Manchester Utd,3,2,1.0
+1909-1910,14,1909-11-20,Sheffield Utd,Bury,2,0,1.0
+1909-1910,14,1909-11-20,Chelsea,Bradford City,0,3,0.0
+1909-1910,15,1909-11-20,Newcastle Utd,Notts County,1,3,0.0
+1909-1910,15,1909-11-20,Nott'ham Forest,Everton,1,0,1.0
+1909-1910,14,1909-11-22,Preston,Tottenham,4,1,1.0
+1909-1910,14,1909-11-27,Notts County,Liverpool,3,1,1.0
+1909-1910,14,1909-11-27,Bradford City,Blackburn,2,0,1.0
+1909-1910,14,1909-11-27,Newcastle Utd,Middlesbrough,2,0,1.0
+1909-1910,14,1909-11-27,Preston,Aston Villa,1,0,1.0
+1909-1910,15,1909-11-27,Tottenham,Sheffield Utd,2,1,1.0
+1909-1910,15,1909-11-27,The Wednesday,Chelsea,4,1,1.0
+1909-1910,15,1909-11-27,Bristol City,Bolton,1,0,1.0
+1909-1910,15,1909-11-27,Bury,Arsenal,1,2,0.0
+1909-1910,15,1909-11-27,Manchester Utd,Nott'ham Forest,2,6,0.0
+1909-1910,16,1909-11-27,Everton,Sunderland,2,1,1.0
+1909-1910,15,1909-12-04,Blackburn,The Wednesday,0,0,0.5
+1909-1910,15,1909-12-04,Aston Villa,Notts County,1,1,0.5
+1909-1910,15,1909-12-04,Nott'ham Forest,Bradford City,1,1,0.5
+1909-1910,16,1909-12-04,Bolton,Bury,1,3,0.0
+1909-1910,16,1909-12-04,Arsenal,Tottenham,1,0,1.0
+1909-1910,16,1909-12-04,Sheffield Utd,Preston,5,1,1.0
+1909-1910,16,1909-12-04,Chelsea,Bristol City,4,1,1.0
+1909-1910,16,1909-12-04,Sunderland,Manchester Utd,3,0,1.0
+1909-1910,17,1909-12-04,Middlesbrough,Everton,1,1,0.5
+1909-1910,17,1909-12-04,Liverpool,Newcastle Utd,6,5,1.0
+1909-1910,16,1909-12-11,Liverpool,Middlesbrough,0,0,0.5
+1909-1910,16,1909-12-11,Newcastle Utd,Aston Villa,1,0,1.0
+1909-1910,16,1909-12-11,Bristol City,Blackburn,2,2,0.5
+1909-1910,16,1909-12-11,Bradford City,Sunderland,3,1,1.0
+1909-1910,17,1909-12-11,Preston,Arsenal,3,4,0.0
+1909-1910,17,1909-12-11,Bury,Chelsea,4,2,1.0
+1909-1910,17,1909-12-11,Tottenham,Bolton,1,1,0.5
+1909-1910,17,1909-12-11,The Wednesday,Nott'ham Forest,4,3,1.0
+1909-1910,19,1909-12-11,Notts County,Sheffield Utd,1,2,0.0
+1909-1910,17,1909-12-18,Sunderland,The Wednesday,2,0,1.0
+1909-1910,17,1909-12-18,Aston Villa,Liverpool,3,1,1.0
+1909-1910,17,1909-12-18,Middlesbrough,Manchester Utd,1,2,0.0
+1909-1910,17,1909-12-18,Blackburn,Bury,5,1,1.0
+1909-1910,18,1909-12-18,Arsenal,Notts County,1,2,0.0
+1909-1910,18,1909-12-18,Bolton,Preston,3,1,1.0
+1909-1910,18,1909-12-18,Everton,Bradford City,1,1,0.5
+1909-1910,18,1909-12-18,Chelsea,Tottenham,2,1,1.0
+1909-1910,18,1909-12-18,Nott'ham Forest,Bristol City,0,0,0.5
+1909-1910,19,1909-12-18,Sheffield Utd,Newcastle Utd,4,0,1.0
+1909-1910,18,1909-12-25,Bury,Sunderland,0,1,0.0
+1909-1910,18,1909-12-25,Sheffield Utd,Aston Villa,0,1,0.0
+1909-1910,18,1909-12-25,Middlesbrough,Bradford City,3,7,0.0
+1909-1910,18,1909-12-25,Manchester Utd,The Wednesday,0,3,0.0
+1909-1910,19,1909-12-25,Blackburn,Preston,2,2,0.5
+1909-1910,19,1909-12-25,Bristol City,Everton,3,1,1.0
+1909-1910,19,1909-12-25,Liverpool,Bolton,3,0,1.0
+1909-1910,19,1909-12-25,Notts County,Chelsea,2,1,1.0
+1909-1910,19,1909-12-25,Tottenham,Nott'ham Forest,2,2,0.5
+1909-1910,20,1909-12-25,Arsenal,Newcastle Utd,0,3,0.0
+1909-1910,19,1909-12-27,Bradford City,Middlesbrough,4,1,1.0
+1909-1910,19,1909-12-27,The Wednesday,Manchester Utd,4,1,1.0
+1909-1910,19,1909-12-27,Sunderland,Bury,2,3,0.0
+1909-1910,19,1909-12-27,Aston Villa,Sheffield Utd,2,1,1.0
+1909-1910,20,1909-12-27,Nott'ham Forest,Tottenham,2,2,0.5
+1909-1910,20,1909-12-27,Arsenal,Liverpool,1,1,0.5
+1909-1910,20,1909-12-27,Everton,Bristol City,1,0,1.0
+1909-1910,20,1909-12-27,Preston,Blackburn,3,2,1.0
+1909-1910,20,1909-12-27,Chelsea,Newcastle Utd,2,1,1.0
+1909-1910,20,1909-12-28,Notts County,Blackburn,2,2,0.5
+1909-1910,20,1909-12-28,Sheffield Utd,Liverpool,4,2,1.0
+1909-1910,20,1909-12-28,Bristol City,Sunderland,2,3,0.0
+1909-1910,20,1910-01-01,Bolton,Notts County,3,4,0.0
+1909-1910,20,1910-01-01,Nott'ham Forest,Aston Villa,1,4,0.0
+1909-1910,20,1910-01-01,Sheffield Utd,Middlesbrough,2,0,1.0
+1909-1910,20,1910-01-01,Bradford City,Manchester Utd,0,2,0.0
+1909-1910,21,1910-01-01,Sunderland,Bristol City,4,0,1.0
+1909-1910,21,1910-01-01,Bury,Everton,2,2,0.5
+1909-1910,21,1910-01-01,Blackburn,Tottenham,2,0,1.0
+1909-1910,21,1910-01-01,Liverpool,Arsenal,5,1,1.0
+1909-1910,21,1910-01-01,Newcastle Utd,Chelsea,1,0,1.0
+1909-1910,21,1910-01-03,Bolton,The Wednesday,0,2,0.0
+1909-1910,22,1910-01-03,Bury,Nott'ham Forest,4,1,1.0
+1909-1910,23,1910-01-03,Newcastle Utd,Preston,5,2,1.0
+1909-1910,21,1910-01-08,Bury,Manchester Utd,1,1,0.5
+1909-1910,21,1910-01-08,Aston Villa,Bolton,3,1,1.0
+1909-1910,21,1910-01-08,Bristol City,Bradford City,2,0,1.0
+1909-1910,21,1910-01-08,Middlesbrough,The Wednesday,4,0,1.0
+1909-1910,22,1910-01-08,Liverpool,Chelsea,5,1,1.0
+1909-1910,22,1910-01-08,Tottenham,Everton,3,0,1.0
+1909-1910,22,1910-01-08,Sheffield Utd,Arsenal,2,0,1.0
+1909-1910,22,1910-01-08,Preston,Sunderland,1,0,1.0
+1909-1910,23,1910-01-08,Notts County,Nott'ham Forest,4,1,1.0
+1909-1910,24,1910-01-08,Newcastle Utd,Blackburn,4,1,1.0
+1909-1910,23,1910-01-10,Preston,Chelsea,2,0,1.0
+1909-1910,22,1910-01-22,Manchester Utd,Tottenham,5,0,1.0
+1909-1910,22,1910-01-22,Bradford City,Bury,0,0,0.5
+1909-1910,22,1910-01-22,The Wednesday,Bristol City,2,0,1.0
+1909-1910,22,1910-01-22,Arsenal,Middlesbrough,3,0,1.0
+1909-1910,22,1910-01-22,Chelsea,Aston Villa,0,0,0.5
+1909-1910,23,1910-01-22,Sunderland,Notts County,0,3,0.0
+1909-1910,23,1910-01-22,Blackburn,Liverpool,1,1,0.5
+1909-1910,23,1910-01-22,Everton,Preston,2,1,1.0
+1909-1910,23,1910-01-22,Bolton,Sheffield Utd,1,0,1.0
+1909-1910,25,1910-01-22,Nott'ham Forest,Newcastle Utd,0,1,0.0
+1909-1910,23,1910-01-29,Aston Villa,Blackburn,4,3,1.0
+1909-1910,23,1910-01-29,Tottenham,Bradford City,0,0,0.5
+1909-1910,24,1910-01-29,Arsenal,Bolton,2,0,1.0
+1909-1910,23,1910-02-05,Preston,Manchester Utd,1,0,1.0
+1909-1910,23,1910-02-05,Bolton,Middlesbrough,1,1,0.5
+1909-1910,24,1910-02-12,Notts County,Bradford City,3,2,1.0
+1909-1910,24,1910-02-12,Liverpool,Everton,0,1,0.0
+1909-1910,24,1910-02-12,Middlesbrough,Bury,0,5,0.0
+1909-1910,24,1910-02-12,Aston Villa,Sunderland,3,2,1.0
+1909-1910,24,1910-02-12,Newcastle Utd,Manchester Utd,3,4,0.0
+1909-1910,25,1910-02-12,Bolton,Chelsea,5,2,1.0
+1909-1910,25,1910-02-12,Tottenham,Bristol City,3,2,1.0
+1909-1910,25,1910-02-12,Arsenal,Blackburn,0,1,0.0
+1909-1910,25,1910-02-12,Sheffield Utd,Nott'ham Forest,1,4,0.0
+1909-1910,26,1910-02-12,Preston,The Wednesday,1,0,1.0
+1909-1910,24,1910-02-19,The Wednesday,Notts County,0,0,0.5
+1909-1910,25,1910-02-19,Manchester Utd,Liverpool,3,4,0.0
+1909-1910,26,1910-02-19,Chelsea,Middlesbrough,2,1,1.0
+1909-1910,27,1910-02-19,Bristol City,Preston,2,0,1.0
+1909-1910,27,1910-02-19,Bolton,Bradford City,1,1,0.5
+1909-1910,25,1910-02-26,Arsenal,Sunderland,1,2,0.0
+1909-1910,25,1910-02-26,Aston Villa,Manchester Utd,7,1,1.0
+1909-1910,25,1910-02-26,Sheffield Utd,Everton,3,0,1.0
+1909-1910,26,1910-02-26,Middlesbrough,Tottenham,4,3,1.0
+1909-1910,26,1910-02-26,Liverpool,Bradford City,1,0,1.0
+1909-1910,27,1910-02-26,Notts County,Bristol City,0,2,0.0
+1909-1910,27,1910-02-26,Newcastle Utd,The Wednesday,3,1,1.0
+1909-1910,27,1910-02-26,Chelsea,Blackburn,3,1,1.0
+1909-1910,28,1910-02-26,Preston,Bury,2,1,1.0
+1909-1910,28,1910-02-26,Bolton,Nott'ham Forest,2,1,1.0
+1909-1910,27,1910-03-02,Nott'ham Forest,Arsenal,1,1,0.5
+1909-1910,26,1910-03-05,Bradford City,Aston Villa,1,2,0.0
+1909-1910,26,1910-03-05,Sunderland,Bolton,3,0,1.0
+1909-1910,26,1910-03-05,The Wednesday,Liverpool,3,0,1.0
+1909-1910,27,1910-03-05,Blackburn,Middlesbrough,1,1,0.5
+1909-1910,27,1910-03-05,Manchester Utd,Sheffield Utd,1,0,1.0
+1909-1910,27,1910-03-05,Bury,Notts County,1,1,0.5
+1909-1910,28,1910-03-05,Nott'ham Forest,Chelsea,0,0,0.5
+1909-1910,29,1910-03-05,Tottenham,Preston,2,1,1.0
+1909-1910,26,1910-03-07,Everton,Arsenal,1,0,1.0
+1909-1910,29,1910-03-07,Sheffield Utd,Chelsea,0,0,0.5
+1909-1910,27,1910-03-09,Bury,The Wednesday,3,2,1.0
+1909-1910,28,1910-03-09,Bradford City,Newcastle Utd,3,3,0.5
+1909-1910,27,1910-03-12,Bolton,Everton,0,1,0.0
+1909-1910,27,1910-03-12,Aston Villa,The Wednesday,5,0,1.0
+1909-1910,28,1910-03-12,Blackburn,Nott'ham Forest,2,2,0.5
+1909-1910,28,1910-03-12,Liverpool,Bristol City,0,1,0.0
+1909-1910,28,1910-03-12,Arsenal,Manchester Utd,0,0,0.5
+1909-1910,28,1910-03-12,Middlesbrough,Preston,1,0,1.0
+1909-1910,29,1910-03-12,Newcastle Utd,Bury,2,2,0.5
+1909-1910,29,1910-03-12,Sheffield Utd,Bradford City,1,2,0.0
+1909-1910,30,1910-03-12,Notts County,Tottenham,3,0,1.0
+1909-1910,30,1910-03-12,Chelsea,Sunderland,1,4,0.0
+1909-1910,28,1910-03-14,Everton,Aston Villa,0,0,0.5
+1909-1910,29,1910-03-14,The Wednesday,Tottenham,1,1,0.5
+1909-1910,28,1910-03-16,Sunderland,Sheffield Utd,1,0,1.0
+1909-1910,29,1910-03-19,Manchester Utd,Bolton,5,0,1.0
+1909-1910,29,1910-03-19,Bristol City,Aston Villa,0,0,0.5
+1909-1910,29,1910-03-19,Sunderland,Blackburn,0,0,0.5
+1909-1910,29,1910-03-19,Nott'ham Forest,Middlesbrough,0,1,0.0
+1909-1910,30,1910-03-19,Tottenham,Newcastle Utd,0,4,0.0
+1909-1910,30,1910-03-19,Bury,Liverpool,1,2,0.0
+1909-1910,30,1910-03-19,Bradford City,Arsenal,0,1,0.0
+1909-1910,30,1910-03-19,The Wednesday,Sheffield Utd,1,3,0.0
+1909-1910,31,1910-03-19,Preston,Notts County,4,0,1.0
+1909-1910,31,1910-03-19,Everton,Chelsea,2,2,0.5
+1909-1910,30,1910-03-25,Liverpool,Sheffield Utd,0,0,0.5
+1909-1910,30,1910-03-25,Manchester Utd,Bristol City,2,1,1.0
+1909-1910,30,1910-03-25,Blackburn,Notts County,2,0,1.0
+1909-1910,30,1910-03-25,Tottenham,Sunderland,5,1,1.0
+1909-1910,30,1910-03-25,Aston Villa,Middlesbrough,4,2,1.0
+1909-1910,31,1910-03-25,Bradford City,The Wednesday,2,0,1.0
+1909-1910,31,1910-03-25,Newcastle Utd,Arsenal,1,1,0.5
+1909-1910,32,1910-03-25,Nott'ham Forest,Preston,0,0,0.5
+1909-1910,31,1910-03-26,Sheffield Utd,Bristol City,4,0,1.0
+1909-1910,31,1910-03-26,Blackburn,Bolton,4,2,1.0
+1909-1910,31,1910-03-26,Middlesbrough,Notts County,2,0,1.0
+1909-1910,31,1910-03-26,Aston Villa,Bury,4,1,1.0
+1909-1910,31,1910-03-26,Nott'ham Forest,Sunderland,1,3,0.0
+1909-1910,31,1910-03-26,Liverpool,Tottenham,2,0,1.0
+1909-1910,32,1910-03-26,Chelsea,Manchester Utd,1,1,0.5
+1909-1910,32,1910-03-26,Arsenal,The Wednesday,0,1,0.0
+1909-1910,30,1910-03-28,Everton,Bury,3,0,1.0
+1909-1910,32,1910-03-28,The Wednesday,Bradford City,2,1,1.0
+1909-1910,32,1910-03-28,Sunderland,Liverpool,2,1,1.0
+1909-1910,32,1910-03-28,Bristol City,Manchester Utd,2,1,1.0
+1909-1910,32,1910-03-28,Middlesbrough,Aston Villa,3,2,1.0
+1909-1910,33,1910-03-28,Notts County,Bolton,0,0,0.5
+1909-1910,33,1910-03-28,Chelsea,Arsenal,0,1,0.0
+1909-1910,32,1910-03-29,Tottenham,Blackburn,4,0,1.0
+1909-1910,33,1910-03-29,Bradford City,Preston,2,0,1.0
+1909-1910,31,1910-04-02,Everton,Nott'ham Forest,0,4,0.0
+1909-1910,32,1910-04-02,Notts County,Newcastle Utd,2,2,0.5
+1909-1910,33,1910-04-02,Bury,Sheffield Utd,2,0,1.0
+1909-1910,33,1910-04-02,Manchester Utd,Blackburn,2,0,1.0
+1909-1910,33,1910-04-02,Sunderland,Middlesbrough,2,2,0.5
+1909-1910,33,1910-04-02,Tottenham,Aston Villa,1,1,0.5
+1909-1910,34,1910-04-02,Bristol City,Arsenal,0,1,0.0
+1909-1910,34,1910-04-02,Preston,Liverpool,2,0,1.0
+1909-1910,34,1910-04-02,Bradford City,Chelsea,4,1,1.0
+1909-1910,34,1910-04-02,The Wednesday,Bolton,0,0,0.5
+1909-1910,32,1910-04-06,Manchester Utd,Everton,3,2,1.0
+1909-1910,33,1910-04-09,Sunderland,Everton,0,1,0.0
+1909-1910,34,1910-04-09,Middlesbrough,Newcastle Utd,1,1,0.5
+1909-1910,34,1910-04-09,Liverpool,Notts County,2,1,1.0
+1909-1910,34,1910-04-09,Aston Villa,Preston,3,0,1.0
+1909-1910,34,1910-04-09,Blackburn,Bradford City,2,0,1.0
+1909-1910,35,1910-04-09,Arsenal,Bury,0,0,0.5
+1909-1910,35,1910-04-09,Nott'ham Forest,Manchester Utd,2,0,1.0
+1909-1910,35,1910-04-09,Chelsea,The Wednesday,4,1,1.0
+1909-1910,35,1910-04-09,Sheffield Utd,Tottenham,1,1,0.5
+1909-1910,35,1910-04-09,Bolton,Bristol City,4,2,1.0
+1909-1910,34,1910-04-11,Blackburn,Everton,2,1,1.0
+1909-1910,35,1910-04-11,Arsenal,Aston Villa,1,0,1.0
+1909-1910,34,1910-04-13,Newcastle Utd,Sunderland,1,0,1.0
+1909-1910,35,1910-04-13,Notts County,Everton,2,3,0.0
+1909-1910,35,1910-04-16,Newcastle Utd,Liverpool,1,3,0.0
+1909-1910,36,1910-04-16,Manchester Utd,Sunderland,2,0,1.0
+1909-1910,36,1910-04-16,Bristol City,Chelsea,1,0,1.0
+1909-1910,36,1910-04-16,Notts County,Aston Villa,2,3,0.0
+1909-1910,36,1910-04-16,Bury,Bolton,1,2,0.0
+1909-1910,36,1910-04-16,Preston,Sheffield Utd,1,1,0.5
+1909-1910,36,1910-04-16,The Wednesday,Blackburn,2,1,1.0
+1909-1910,36,1910-04-16,Everton,Middlesbrough,1,1,0.5
+1909-1910,36,1910-04-16,Bradford City,Nott'ham Forest,1,1,0.5
+1909-1910,37,1910-04-16,Tottenham,Arsenal,1,1,0.5
+1909-1910,36,1910-04-20,Liverpool,Nott'ham Forest,7,3,1.0
+1909-1910,36,1910-04-20,Middlesbrough,Bristol City,0,0,0.5
+1909-1910,36,1910-04-20,Bury,Tottenham,3,1,1.0
+1909-1910,37,1910-04-23,Middlesbrough,Liverpool,2,2,0.5
+1909-1910,37,1910-04-23,Bolton,Tottenham,0,2,0.0
+1909-1910,37,1910-04-23,Arsenal,Preston,1,3,0.0
+1909-1910,37,1910-04-23,Nott'ham Forest,The Wednesday,0,6,0.0
+1909-1910,37,1910-04-23,Blackburn,Sheffield Utd,3,1,1.0
+1909-1910,37,1910-04-23,Sunderland,Bradford City,3,0,1.0
+1909-1910,37,1910-04-23,Chelsea,Bury,2,0,1.0
+1909-1910,37,1910-04-23,Everton,Manchester Utd,3,3,0.5
+1909-1910,36,1910-04-25,Bristol City,Newcastle Utd,0,3,0.0
+1909-1910,37,1910-04-27,Aston Villa,Newcastle Utd,4,0,1.0
+1909-1910,38,1910-04-30,Tottenham,Chelsea,2,1,1.0
+1909-1910,38,1910-04-30,Newcastle Utd,Sheffield Utd,0,0,0.5
+1909-1910,38,1910-04-30,Bradford City,Everton,2,0,1.0
+1909-1910,38,1910-04-30,Bristol City,Nott'ham Forest,4,0,1.0
+1909-1910,38,1910-04-30,Manchester Utd,Middlesbrough,4,1,1.0
+1909-1910,38,1910-04-30,Bury,Blackburn,2,1,1.0
+1909-1910,38,1910-04-30,The Wednesday,Sunderland,1,0,1.0
+1909-1910,38,1910-04-30,Liverpool,Aston Villa,2,0,1.0
+1909-1910,38,1910-04-30,Preston,Bolton,1,0,1.0

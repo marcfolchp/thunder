@@ -1,0 +1,141 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2024-2025,League phase,1,2024-10-02,Vitória,NK Celje,pt,si,3.0,1.0,1.0
+2024-2025,League phase,1,2024-10-02,Başakşehir,Rapid Wien,tr,at,1.0,2.0,0.0
+2024-2025,League phase,1,2024-10-03,Legia Warsaw,Betis,pl,es,1.0,0.0,1.0
+2024-2025,League phase,1,2024-10-03,Heidenheim,Olimpija,de,si,2.0,1.0,1.0
+2024-2025,League phase,1,2024-10-03,Molde,Larne FC,no,nir,3.0,0.0,1.0
+2024-2025,League phase,1,2024-10-03,Cercle Brugge,St. Gallen,be,ch,6.0,2.0,1.0
+2024-2025,League phase,1,2024-10-03,AC Omonia,KV,cy,is,4.0,0.0,1.0
+2024-2025,League phase,1,2024-10-03,Dinamo Minsk,Hearts,by,sct,1.0,2.0,0.0
+2024-2025,League phase,1,2024-10-03,Shamrock Rov,APOEL,ie,cy,1.0,1.0,0.5
+2024-2025,League phase,1,2024-10-03,Chelsea,Gent,eng,be,4.0,2.0,1.0
+2024-2025,League phase,1,2024-10-03,FC Noah,Mladá Boleslav,am,cz,2.0,0.0,1.0
+2024-2025,League phase,1,2024-10-03,FC Copenhagen,Jagiellonia,dk,pl,1.0,2.0,0.0
+2024-2025,League phase,1,2024-10-03,Fiorentina,The New Saints,it,wls,2.0,0.0,1.0
+2024-2025,League phase,1,2024-10-03,LASK,Djurgården,at,se,2.0,2.0,0.5
+2024-2025,League phase,1,2024-10-03,Lugano,HJK,ch,fi,3.0,0.0,1.0
+2024-2025,League phase,1,2024-10-03,Borac Banja Luka,Panathinaikos,ba,gr,1.0,1.0,0.5
+2024-2025,League phase,1,2024-10-03,Petrocub,Pafos FC,md,cy,1.0,4.0,0.0
+2024-2025,League phase,1,2024-10-03,Astana FK,TSC Bačka Top,kz,rs,1.0,0.0,1.0
+2024-2025,League phase,2,2024-10-24,KV,Cercle Brugge,is,be,3.0,1.0,1.0
+2024-2025,League phase,2,2024-10-24,Larne FC,Shamrock Rov,nir,ie,1.0,4.0,0.0
+2024-2025,League phase,2,2024-10-24,Hearts,AC Omonia,sct,cy,2.0,0.0,1.0
+2024-2025,League phase,2,2024-10-24,Gent,Molde,be,no,2.0,1.0,1.0
+2024-2025,League phase,2,2024-10-24,Djurgården,Vitória,se,pt,1.0,2.0,0.0
+2024-2025,League phase,2,2024-10-24,Rapid Wien,FC Noah,at,am,1.0,0.0,1.0
+2024-2025,League phase,2,2024-10-24,Jagiellonia,Petrocub,pl,md,2.0,0.0,1.0
+2024-2025,League phase,2,2024-10-24,NK Celje,Başakşehir,si,tr,5.0,1.0,1.0
+2024-2025,League phase,2,2024-10-24,St. Gallen,Fiorentina,ch,it,2.0,4.0,0.0
+2024-2025,League phase,2,2024-10-24,APOEL,Borac Banja Luka,cy,ba,0.0,1.0,0.0
+2024-2025,League phase,2,2024-10-24,Panathinaikos,Chelsea,gr,eng,1.0,4.0,0.0
+2024-2025,League phase,2,2024-10-24,The New Saints,Astana FK,wls,kz,2.0,0.0,1.0
+2024-2025,League phase,2,2024-10-24,Mladá Boleslav,Lugano,cz,ch,0.0,1.0,0.0
+2024-2025,League phase,2,2024-10-24,Olimpija,LASK,si,at,2.0,0.0,1.0
+2024-2025,League phase,2,2024-10-24,Betis,FC Copenhagen,es,dk,1.0,1.0,0.5
+2024-2025,League phase,2,2024-10-24,TSC Bačka Top,Legia Warsaw,rs,pl,0.0,3.0,0.0
+2024-2025,League phase,2,2024-10-24,Pafos FC,Heidenheim,cy,de,0.0,1.0,0.0
+2024-2025,League phase,2,2024-10-24,HJK,Dinamo Minsk,fi,by,1.0,0.0,1.0
+2024-2025,League phase,3,2024-11-07,KV,Borac Banja Luka,is,ba,2.0,0.0,1.0
+2024-2025,League phase,3,2024-11-07,Shamrock Rov,The New Saints,ie,wls,2.0,1.0,1.0
+2024-2025,League phase,3,2024-11-07,TSC Bačka Top,Lugano,rs,ch,4.0,1.0,1.0
+2024-2025,League phase,3,2024-11-07,Legia Warsaw,Dinamo Minsk,pl,by,4.0,0.0,1.0
+2024-2025,League phase,3,2024-11-07,Gent,AC Omonia,be,cy,1.0,0.0,1.0
+2024-2025,League phase,3,2024-11-07,Petrocub,Rapid Wien,md,at,0.0,3.0,0.0
+2024-2025,League phase,3,2024-11-07,HJK,Olimpija,fi,si,0.0,2.0,0.0
+2024-2025,League phase,3,2024-11-07,Pafos FC,Astana FK,cy,kz,1.0,0.0,1.0
+2024-2025,League phase,3,2024-11-07,Vitória,Mladá Boleslav,pt,cz,2.0,1.0,1.0
+2024-2025,League phase,3,2024-11-07,Hearts,Heidenheim,sct,de,0.0,2.0,0.0
+2024-2025,League phase,3,2024-11-07,Larne FC,St. Gallen,nir,ch,1.0,2.0,0.0
+2024-2025,League phase,3,2024-11-07,Chelsea,FC Noah,eng,am,8.0,0.0,1.0
+2024-2025,League phase,3,2024-11-07,LASK,Cercle Brugge,at,be,0.0,0.0,0.5
+2024-2025,League phase,3,2024-11-07,Jagiellonia,Molde,pl,no,3.0,0.0,1.0
+2024-2025,League phase,3,2024-11-07,FC Copenhagen,Başakşehir,dk,tr,2.0,2.0,0.5
+2024-2025,League phase,3,2024-11-07,Betis,NK Celje,es,si,2.0,1.0,1.0
+2024-2025,League phase,3,2024-11-07,Djurgården,Panathinaikos,se,gr,2.0,1.0,1.0
+2024-2025,League phase,3,2024-11-07,APOEL,Fiorentina,cy,it,2.0,1.0,1.0
+2024-2025,League phase,4,2024-11-27,Başakşehir,Petrocub,tr,md,1.0,1.0,0.5
+2024-2025,League phase,4,2024-11-28,The New Saints,Djurgården,wls,se,0.0,1.0,0.0
+2024-2025,League phase,4,2024-11-28,NK Celje,Jagiellonia,si,pl,3.0,3.0,0.5
+2024-2025,League phase,4,2024-11-28,Borac Banja Luka,LASK,ba,at,2.0,1.0,1.0
+2024-2025,League phase,4,2024-11-28,St. Gallen,TSC Bačka Top,ch,rs,2.0,2.0,0.5
+2024-2025,League phase,4,2024-11-28,Heidenheim,Chelsea,de,eng,0.0,2.0,0.0
+2024-2025,League phase,4,2024-11-28,Cercle Brugge,Hearts,be,sct,2.0,0.0,1.0
+2024-2025,League phase,4,2024-11-28,Molde,APOEL,no,cy,0.0,1.0,0.0
+2024-2025,League phase,4,2024-11-28,Panathinaikos,HJK,gr,fi,1.0,0.0,1.0
+2024-2025,League phase,4,2024-11-28,Dinamo Minsk,FC Copenhagen,by,dk,1.0,2.0,0.0
+2024-2025,League phase,4,2024-11-28,Fiorentina,Pafos FC,it,cy,3.0,2.0,1.0
+2024-2025,League phase,4,2024-11-28,Rapid Wien,Shamrock Rov,at,ie,1.0,1.0,0.5
+2024-2025,League phase,4,2024-11-28,Olimpija,Larne FC,si,nir,1.0,0.0,1.0
+2024-2025,League phase,4,2024-11-28,Mladá Boleslav,Betis,cz,es,2.0,1.0,1.0
+2024-2025,League phase,4,2024-11-28,Lugano,Gent,ch,be,2.0,0.0,1.0
+2024-2025,League phase,4,2024-11-28,Astana FK,Vitória,kz,pt,1.0,1.0,0.5
+2024-2025,League phase,4,2024-11-28,FC Noah,KV,am,is,0.0,0.0,0.5
+2024-2025,League phase,4,2024-11-28,AC Omonia,Legia Warsaw,cy,pl,0.0,3.0,0.0
+2024-2025,League phase,5,2024-12-12,KV,Djurgården,is,se,1.0,2.0,0.0
+2024-2025,League phase,5,2024-12-12,Fiorentina,LASK,it,at,7.0,0.0,1.0
+2024-2025,League phase,5,2024-12-12,FC Copenhagen,Hearts,dk,sct,2.0,0.0,1.0
+2024-2025,League phase,5,2024-12-12,Olimpija,Cercle Brugge,si,be,1.0,4.0,0.0
+2024-2025,League phase,5,2024-12-12,Legia Warsaw,Lugano,pl,ch,1.0,2.0,0.0
+2024-2025,League phase,5,2024-12-12,HJK,Molde,fi,no,2.0,2.0,0.5
+2024-2025,League phase,5,2024-12-12,Petrocub,Betis,md,es,0.0,1.0,0.0
+2024-2025,League phase,5,2024-12-12,Shamrock Rov,Borac Banja Luka,ie,ba,3.0,0.0,1.0
+2024-2025,League phase,5,2024-12-12,The New Saints,Panathinaikos,wls,gr,0.0,2.0,0.0
+2024-2025,League phase,5,2024-12-12,Başakşehir,Heidenheim,tr,de,3.0,1.0,1.0
+2024-2025,League phase,5,2024-12-12,Dinamo Minsk,Larne FC,by,nir,2.0,0.0,1.0
+2024-2025,League phase,5,2024-12-12,St. Gallen,Vitória,ch,pt,1.0,4.0,0.0
+2024-2025,League phase,5,2024-12-12,Gent,TSC Bačka Top,be,rs,3.0,0.0,1.0
+2024-2025,League phase,5,2024-12-12,Mladá Boleslav,Jagiellonia,cz,pl,1.0,0.0,1.0
+2024-2025,League phase,5,2024-12-12,Astana FK,Chelsea,kz,eng,1.0,3.0,0.0
+2024-2025,League phase,5,2024-12-12,FC Noah,APOEL,am,cy,1.0,3.0,0.0
+2024-2025,League phase,5,2024-12-12,Pafos FC,NK Celje,cy,si,2.0,0.0,1.0
+2024-2025,League phase,5,2024-12-12,AC Omonia,Rapid Wien,cy,at,3.0,1.0,1.0
+2024-2025,League phase,6,2024-12-19,Vitória,Fiorentina,pt,it,1.0,1.0,0.5
+2024-2025,League phase,6,2024-12-19,Larne FC,Gent,nir,be,1.0,0.0,1.0
+2024-2025,League phase,6,2024-12-19,Chelsea,Shamrock Rov,eng,ie,5.0,1.0,1.0
+2024-2025,League phase,6,2024-12-19,Hearts,Petrocub,sct,md,2.0,2.0,0.5
+2024-2025,League phase,6,2024-12-19,Lugano,Pafos FC,ch,cy,2.0,2.0,0.5
+2024-2025,League phase,6,2024-12-19,Cercle Brugge,Başakşehir,be,tr,1.0,1.0,0.5
+2024-2025,League phase,6,2024-12-19,Borac Banja Luka,AC Omonia,ba,cy,0.0,0.0,0.5
+2024-2025,League phase,6,2024-12-19,LASK,KV,at,is,1.0,1.0,0.5
+2024-2025,League phase,6,2024-12-19,TSC Bačka Top,FC Noah,rs,am,4.0,3.0,1.0
+2024-2025,League phase,6,2024-12-19,NK Celje,The New Saints,si,wls,3.0,2.0,1.0
+2024-2025,League phase,6,2024-12-19,Molde,Mladá Boleslav,no,cz,4.0,3.0,1.0
+2024-2025,League phase,6,2024-12-19,Rapid Wien,FC Copenhagen,at,dk,3.0,0.0,1.0
+2024-2025,League phase,6,2024-12-19,Betis,HJK,es,fi,1.0,0.0,1.0
+2024-2025,League phase,6,2024-12-19,Heidenheim,St. Gallen,de,ch,1.0,1.0,0.5
+2024-2025,League phase,6,2024-12-19,Djurgården,Legia Warsaw,se,pl,3.0,1.0,1.0
+2024-2025,League phase,6,2024-12-19,Jagiellonia,Olimpija,pl,si,0.0,0.0,0.5
+2024-2025,League phase,6,2024-12-19,APOEL,Astana FK,cy,kz,1.0,1.0,0.5
+2024-2025,League phase,6,2024-12-19,Panathinaikos,Dinamo Minsk,gr,by,4.0,0.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-13,KV,Panathinaikos,is,gr,2.0,1.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-13,TSC Bačka Top,Jagiellonia,rs,pl,1.0,3.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-13,Molde,Shamrock Rov,no,ie,0.0,1.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-13,NK Celje,APOEL,si,cy,2.0,2.0,0.5
+2024-2025,Knockout phase play-offs,,2025-02-13,Gent,Betis,be,es,0.0,3.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-13,Borac Banja Luka,Olimpija,ba,si,1.0,0.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-13,FC Copenhagen,Heidenheim,dk,de,1.0,2.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-13,AC Omonia,Pafos FC,cy,cy,1.0,1.0,0.5
+2024-2025,Knockout phase play-offs,,2025-02-20,Heidenheim,FC Copenhagen,de,dk,1.0,3.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-20,Olimpija,Borac Banja Luka,si,ba,0.0,0.0,0.5
+2024-2025,Knockout phase play-offs,,2025-02-20,Betis,Gent,es,be,0.0,1.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-20,Pafos FC,AC Omonia,cy,cy,2.0,1.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-20,Shamrock Rov,Molde,ie,no,0.0,1.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-20,Jagiellonia,TSC Bačka Top,pl,rs,3.0,1.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-20,APOEL,NK Celje,cy,si,0.0,2.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-20,Panathinaikos,KV,gr,is,2.0,0.0,1.0
+2024-2025,Round of 16,,2025-03-06,Panathinaikos,Fiorentina,gr,it,,,0.5
+2024-2025,Round of 16,,2025-03-06,NK Celje,Lugano,si,ch,,,0.5
+2024-2025,Round of 16,,2025-03-06,Betis,Vitória,es,pt,,,0.5
+2024-2025,Round of 16,,2025-03-06,Jagiellonia,Cercle Brugge,pl,be,,,0.5
+2024-2025,Round of 16,,2025-03-06,Molde,Legia Warsaw,no,pl,,,0.5
+2024-2025,Round of 16,,2025-03-06,Pafos FC,Djurgården,cy,se,,,0.5
+2024-2025,Round of 16,,2025-03-06,Borac Banja Luka,Rapid Wien,ba,at,,,0.5
+2024-2025,Round of 16,,2025-03-06,FC Copenhagen,Chelsea,dk,eng,,,0.5
+2024-2025,Round of 16,,2025-03-13,Chelsea,FC Copenhagen,eng,dk,,,0.5
+2024-2025,Round of 16,,2025-03-13,Cercle Brugge,Jagiellonia,be,pl,,,0.5
+2024-2025,Round of 16,,2025-03-13,Rapid Wien,Borac Banja Luka,at,ba,,,0.5
+2024-2025,Round of 16,,2025-03-13,Djurgården,Pafos FC,se,cy,,,0.5
+2024-2025,Round of 16,,2025-03-13,Fiorentina,Panathinaikos,it,gr,,,0.5
+2024-2025,Round of 16,,2025-03-13,Lugano,NK Celje,ch,si,,,0.5
+2024-2025,Round of 16,,2025-03-13,Vitória,Betis,pt,es,,,0.5
+2024-2025,Round of 16,,2025-03-13,Legia Warsaw,Molde,pl,no,,,0.5

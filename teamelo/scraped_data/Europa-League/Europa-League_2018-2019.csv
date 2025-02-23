@@ -1,0 +1,206 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2018-2019,Group stage,1,2018-09-20,Rapid Wien,Spartak Moscow,at,ru,2,0,1.0
+2018-2019,Group stage,1,2018-09-20,Vidi,BATE Borisov,hu,by,0,2,0.0
+2018-2019,Group stage,1,2018-09-20,Marseille,Eint Frankfurt,fr,de,1,2,0.0
+2018-2019,Group stage,1,2018-09-20,Lazio,Apollon,it,cy,2,1,1.0
+2018-2019,Group stage,1,2018-09-20,Villarreal,Rangers,es,sct,2,2,0.5
+2018-2019,Group stage,1,2018-09-20,Sevilla,Standard Liège,es,be,5,1,1.0
+2018-2019,Group stage,1,2018-09-20,Genk,Malmö,be,se,2,0,1.0
+2018-2019,Group stage,1,2018-09-20,Rennes,Jablonec,fr,cz,2,1,1.0
+2018-2019,Group stage,1,2018-09-20,Dynamo Kyiv,Astana FK,ua,kz,2,2,0.5
+2018-2019,Group stage,1,2018-09-20,Beşiktaş,Sarpsborg 08,tr,no,3,1,1.0
+2018-2019,Group stage,1,2018-09-20,PAOK,Chelsea,gr,eng,0,1,0.0
+2018-2019,Group stage,1,2018-09-20,Akhisarspor,Krasnodar,tr,ru,0,1,0.0
+2018-2019,Group stage,1,2018-09-20,Arsenal,Vorskla Poltava,eng,ua,4,2,1.0
+2018-2019,Group stage,1,2018-09-20,Celtic,Rosenborg,sct,no,1,0,1.0
+2018-2019,Group stage,1,2018-09-20,Sporting CP,Qarabağ,pt,az,2,0,1.0
+2018-2019,Group stage,1,2018-09-20,FC Copenhagen,Zenit,dk,ru,1,1,0.5
+2018-2019,Group stage,1,2018-09-20,F91 Dudelange,Milan,lu,it,0,1,0.0
+2018-2019,Group stage,1,2018-09-20,Dinamo Zagreb,Fenerbahçe,hr,tr,4,1,1.0
+2018-2019,Group stage,1,2018-09-20,Slavia Prague,Bordeaux,cz,fr,1,0,1.0
+2018-2019,Group stage,1,2018-09-20,RB Leipzig,RB Salzburg,de,at,2,3,0.0
+2018-2019,Group stage,1,2018-09-20,Spartak Trnava,Anderlecht,sk,be,1,0,1.0
+2018-2019,Group stage,1,2018-09-20,AÉK Lárnaka,Zürich,cy,ch,0,1,0.0
+2018-2019,Group stage,1,2018-09-20,Olympiacos,Betis,gr,es,0,0,0.5
+2018-2019,Group stage,1,2018-09-20,Ludogorets,Leverkusen,bg,de,2,3,0.0
+2018-2019,Group stage,2,2018-10-04,Rosenborg,RB Leipzig,no,de,1,3,0.0
+2018-2019,Group stage,2,2018-10-04,Leverkusen,AÉK Lárnaka,de,cy,4,2,1.0
+2018-2019,Group stage,2,2018-10-04,Bordeaux,FC Copenhagen,fr,dk,1,2,0.0
+2018-2019,Group stage,2,2018-10-04,RB Salzburg,Celtic,at,sct,3,1,1.0
+2018-2019,Group stage,2,2018-10-04,Betis,F91 Dudelange,es,lu,3,0,1.0
+2018-2019,Group stage,2,2018-10-04,Zürich,Ludogorets,ch,bg,1,0,1.0
+2018-2019,Group stage,2,2018-10-04,Milan,Olympiacos,it,gr,3,1,1.0
+2018-2019,Group stage,2,2018-10-04,Anderlecht,Dinamo Zagreb,be,hr,0,2,0.0
+2018-2019,Group stage,2,2018-10-04,Fenerbahçe,Spartak Trnava,tr,sk,2,0,1.0
+2018-2019,Group stage,2,2018-10-04,Zenit,Slavia Prague,ru,cz,1,0,1.0
+2018-2019,Group stage,2,2018-10-04,Vorskla Poltava,Sporting CP,ua,pt,1,2,0.0
+2018-2019,Group stage,2,2018-10-04,Rangers,Rapid Wien,sct,at,3,1,1.0
+2018-2019,Group stage,2,2018-10-04,Chelsea,Vidi,eng,hu,1,0,1.0
+2018-2019,Group stage,2,2018-10-04,Astana FK,Rennes,kz,fr,2,0,1.0
+2018-2019,Group stage,2,2018-10-04,Qarabağ,Arsenal,az,eng,0,3,0.0
+2018-2019,Group stage,2,2018-10-04,Sarpsborg 08,Genk,no,be,3,1,1.0
+2018-2019,Group stage,2,2018-10-04,Standard Liège,Akhisarspor,be,tr,2,1,1.0
+2018-2019,Group stage,2,2018-10-04,Eint Frankfurt,Lazio,de,it,4,1,1.0
+2018-2019,Group stage,2,2018-10-04,Malmö,Beşiktaş,se,tr,2,0,1.0
+2018-2019,Group stage,2,2018-10-04,Jablonec,Dynamo Kyiv,cz,ua,2,2,0.5
+2018-2019,Group stage,2,2018-10-04,Apollon,Marseille,cy,fr,2,2,0.5
+2018-2019,Group stage,2,2018-10-04,Krasnodar,Sevilla,ru,es,2,1,1.0
+2018-2019,Group stage,2,2018-10-04,BATE Borisov,PAOK,by,gr,1,4,0.0
+2018-2019,Group stage,2,2018-10-04,Spartak Moscow,Villarreal,ru,es,3,3,0.5
+2018-2019,Group stage,3,2018-10-25,Sporting CP,Arsenal,pt,eng,0,1,0.0
+2018-2019,Group stage,3,2018-10-25,RB Leipzig,Celtic,de,sct,2,0,1.0
+2018-2019,Group stage,3,2018-10-25,Spartak Trnava,Dinamo Zagreb,sk,hr,1,2,0.0
+2018-2019,Group stage,3,2018-10-25,RB Salzburg,Rosenborg,at,no,3,0,1.0
+2018-2019,Group stage,3,2018-10-25,FC Copenhagen,Slavia Prague,dk,cz,0,1,0.0
+2018-2019,Group stage,3,2018-10-25,F91 Dudelange,Olympiacos,lu,gr,0,2,0.0
+2018-2019,Group stage,3,2018-10-25,Milan,Betis,it,es,1,2,0.0
+2018-2019,Group stage,3,2018-10-25,Anderlecht,Fenerbahçe,be,tr,2,2,0.5
+2018-2019,Group stage,3,2018-10-25,Zürich,Leverkusen,ch,de,3,2,1.0
+2018-2019,Group stage,3,2018-10-25,AÉK Lárnaka,Ludogorets,cy,bg,1,1,0.5
+2018-2019,Group stage,3,2018-10-25,Zenit,Bordeaux,ru,fr,2,1,1.0
+2018-2019,Group stage,3,2018-10-25,Chelsea,BATE Borisov,eng,by,3,1,1.0
+2018-2019,Group stage,3,2018-10-25,Rangers,Spartak Moscow,sct,ru,0,0,0.5
+2018-2019,Group stage,3,2018-10-25,Qarabağ,Vorskla Poltava,az,ua,0,1,0.0
+2018-2019,Group stage,3,2018-10-25,Villarreal,Rapid Wien,es,at,5,0,1.0
+2018-2019,Group stage,3,2018-10-25,Sevilla,Akhisarspor,es,tr,6,0,1.0
+2018-2019,Group stage,3,2018-10-25,Sarpsborg 08,Malmö,no,se,1,1,0.5
+2018-2019,Group stage,3,2018-10-25,Standard Liège,Krasnodar,be,ru,2,1,1.0
+2018-2019,Group stage,3,2018-10-25,Jablonec,Astana FK,cz,kz,1,1,0.5
+2018-2019,Group stage,3,2018-10-25,Marseille,Lazio,fr,it,1,3,0.0
+2018-2019,Group stage,3,2018-10-25,Rennes,Dynamo Kyiv,fr,ua,1,2,0.0
+2018-2019,Group stage,3,2018-10-25,Eint Frankfurt,Apollon,de,cy,2,0,1.0
+2018-2019,Group stage,3,2018-10-25,Beşiktaş,Genk,tr,be,2,4,0.0
+2018-2019,Group stage,3,2018-10-25,PAOK,Vidi,gr,hu,0,2,0.0
+2018-2019,Group stage,4,2018-11-08,Fenerbahçe,Anderlecht,tr,be,2,0,1.0
+2018-2019,Group stage,4,2018-11-08,Lazio,Marseille,it,fr,2,1,1.0
+2018-2019,Group stage,4,2018-11-08,Malmö,Sarpsborg 08,se,no,1,1,0.5
+2018-2019,Group stage,4,2018-11-08,Vidi,PAOK,hu,gr,1,0,1.0
+2018-2019,Group stage,4,2018-11-08,Genk,Beşiktaş,be,tr,1,1,0.5
+2018-2019,Group stage,4,2018-11-08,Rapid Wien,Villarreal,at,es,0,0,0.5
+2018-2019,Group stage,4,2018-11-08,Apollon,Eint Frankfurt,cy,de,2,3,0.0
+2018-2019,Group stage,4,2018-11-08,Dynamo Kyiv,Rennes,ua,fr,3,1,1.0
+2018-2019,Group stage,4,2018-11-08,Arsenal,Sporting CP,eng,pt,0,0,0.5
+2018-2019,Group stage,4,2018-11-08,Celtic,RB Leipzig,sct,de,2,1,1.0
+2018-2019,Group stage,4,2018-11-08,Akhisarspor,Sevilla,tr,es,2,3,0.0
+2018-2019,Group stage,4,2018-11-08,Spartak Moscow,Rangers,ru,sct,4,3,1.0
+2018-2019,Group stage,4,2018-11-08,Krasnodar,Standard Liège,ru,be,2,1,1.0
+2018-2019,Group stage,4,2018-11-08,BATE Borisov,Chelsea,by,eng,0,1,0.0
+2018-2019,Group stage,4,2018-11-08,Leverkusen,Zürich,de,ch,1,0,1.0
+2018-2019,Group stage,4,2018-11-08,Rosenborg,RB Salzburg,no,at,2,5,0.0
+2018-2019,Group stage,4,2018-11-08,Bordeaux,Zenit,fr,ru,1,1,0.5
+2018-2019,Group stage,4,2018-11-08,Dinamo Zagreb,Spartak Trnava,hr,sk,3,1,1.0
+2018-2019,Group stage,4,2018-11-08,Betis,Milan,es,it,1,1,0.5
+2018-2019,Group stage,4,2018-11-08,Slavia Prague,FC Copenhagen,cz,dk,0,0,0.5
+2018-2019,Group stage,4,2018-11-08,Astana FK,Jablonec,kz,cz,2,1,1.0
+2018-2019,Group stage,4,2018-11-08,Olympiacos,F91 Dudelange,gr,lu,5,1,1.0
+2018-2019,Group stage,4,2018-11-08,Ludogorets,AÉK Lárnaka,bg,cy,0,0,0.5
+2018-2019,Group stage,4,2018-11-08,Vorskla Poltava,Qarabağ,ua,az,0,1,0.0
+2018-2019,Group stage,5,2018-11-29,Spartak Moscow,Rapid Wien,ru,at,1,2,0.0
+2018-2019,Group stage,5,2018-11-29,RB Salzburg,RB Leipzig,at,de,1,0,1.0
+2018-2019,Group stage,5,2018-11-29,Leverkusen,Ludogorets,de,bg,1,1,0.5
+2018-2019,Group stage,5,2018-11-29,Betis,Olympiacos,es,gr,1,0,1.0
+2018-2019,Group stage,5,2018-11-29,Bordeaux,Slavia Prague,fr,cz,2,0,1.0
+2018-2019,Group stage,5,2018-11-29,Anderlecht,Spartak Trnava,be,sk,0,0,0.5
+2018-2019,Group stage,5,2018-11-29,Zürich,AÉK Lárnaka,ch,cy,1,2,0.0
+2018-2019,Group stage,5,2018-11-29,Milan,F91 Dudelange,it,lu,5,2,1.0
+2018-2019,Group stage,5,2018-11-29,Rosenborg,Celtic,no,sct,0,1,0.0
+2018-2019,Group stage,5,2018-11-29,Vorskla Poltava,Arsenal,ua,eng,0,3,0.0
+2018-2019,Group stage,5,2018-11-29,Rangers,Villarreal,sct,es,0,0,0.5
+2018-2019,Group stage,5,2018-11-29,Chelsea,PAOK,eng,gr,4,0,1.0
+2018-2019,Group stage,5,2018-11-29,BATE Borisov,Vidi,by,hu,2,0,1.0
+2018-2019,Group stage,5,2018-11-29,Krasnodar,Akhisarspor,ru,tr,2,1,1.0
+2018-2019,Group stage,5,2018-11-29,Zenit,FC Copenhagen,ru,dk,1,0,1.0
+2018-2019,Group stage,5,2018-11-29,Fenerbahçe,Dinamo Zagreb,tr,hr,0,0,0.5
+2018-2019,Group stage,5,2018-11-29,Sarpsborg 08,Beşiktaş,no,tr,2,3,0.0
+2018-2019,Group stage,5,2018-11-29,Malmö,Genk,se,be,2,2,0.5
+2018-2019,Group stage,5,2018-11-29,Standard Liège,Sevilla,be,es,1,0,1.0
+2018-2019,Group stage,5,2018-11-29,Jablonec,Rennes,cz,fr,0,1,0.0
+2018-2019,Group stage,5,2018-11-29,Eint Frankfurt,Marseille,de,fr,4,0,1.0
+2018-2019,Group stage,5,2018-11-29,Astana FK,Dynamo Kyiv,kz,ua,0,1,0.0
+2018-2019,Group stage,5,2018-11-29,Qarabağ,Sporting CP,az,pt,1,6,0.0
+2018-2019,Group stage,5,2018-11-29,Apollon,Lazio,cy,it,2,0,1.0
+2018-2019,Group stage,6,2018-12-13,Rennes,Astana FK,fr,kz,2,0,1.0
+2018-2019,Group stage,6,2018-12-13,Genk,Sarpsborg 08,be,no,4,0,1.0
+2018-2019,Group stage,6,2018-12-13,Rapid Wien,Rangers,at,sct,1,0,1.0
+2018-2019,Group stage,6,2018-12-13,Marseille,Apollon,fr,cy,1,3,0.0
+2018-2019,Group stage,6,2018-12-13,Sevilla,Krasnodar,es,ru,3,0,1.0
+2018-2019,Group stage,6,2018-12-13,Vidi,Chelsea,hu,eng,2,2,0.5
+2018-2019,Group stage,6,2018-12-13,Villarreal,Spartak Moscow,es,ru,2,0,1.0
+2018-2019,Group stage,6,2018-12-13,Lazio,Eint Frankfurt,it,de,1,2,0.0
+2018-2019,Group stage,6,2018-12-13,Dynamo Kyiv,Jablonec,ua,cz,0,1,0.0
+2018-2019,Group stage,6,2018-12-13,PAOK,BATE Borisov,gr,by,1,3,0.0
+2018-2019,Group stage,6,2018-12-13,Sporting CP,Vorskla Poltava,pt,ua,3,0,1.0
+2018-2019,Group stage,6,2018-12-13,Arsenal,Qarabağ,eng,az,1,0,1.0
+2018-2019,Group stage,6,2018-12-13,Celtic,RB Salzburg,sct,at,1,2,0.0
+2018-2019,Group stage,6,2018-12-13,Akhisarspor,Standard Liège,tr,be,0,0,0.5
+2018-2019,Group stage,6,2018-12-13,Beşiktaş,Malmö,tr,se,0,1,0.0
+2018-2019,Group stage,6,2018-12-13,RB Leipzig,Rosenborg,de,no,1,1,0.5
+2018-2019,Group stage,6,2018-12-13,F91 Dudelange,Betis,lu,es,0,0,0.5
+2018-2019,Group stage,6,2018-12-13,Slavia Prague,Zenit,cz,ru,2,0,1.0
+2018-2019,Group stage,6,2018-12-13,FC Copenhagen,Bordeaux,dk,fr,0,1,0.0
+2018-2019,Group stage,6,2018-12-13,Dinamo Zagreb,Anderlecht,hr,be,0,0,0.5
+2018-2019,Group stage,6,2018-12-13,Spartak Trnava,Fenerbahçe,sk,tr,1,0,1.0
+2018-2019,Group stage,6,2018-12-13,Ludogorets,Zürich,bg,ch,1,1,0.5
+2018-2019,Group stage,6,2018-12-13,Olympiacos,Milan,gr,it,3,1,1.0
+2018-2019,Group stage,6,2018-12-13,AÉK Lárnaka,Leverkusen,cy,de,1,5,0.0
+2018-2019,Round of 32,,2019-02-12,Fenerbahçe,Zenit,tr,ru,1,0,1.0
+2018-2019,Round of 32,,2019-02-14,Lazio,Sevilla,it,es,0,1,0.0
+2018-2019,Round of 32,,2019-02-14,Rapid Wien,Inter,at,it,0,1,0.0
+2018-2019,Round of 32,,2019-02-14,Slavia Prague,Genk,cz,be,0,0,0.5
+2018-2019,Round of 32,,2019-02-14,Rennes,Betis,fr,es,3,3,0.5
+2018-2019,Round of 32,,2019-02-14,Olympiacos,Dynamo Kyiv,gr,ua,2,2,0.5
+2018-2019,Round of 32,,2019-02-14,Sporting CP,Villarreal,pt,es,0,1,0.0
+2018-2019,Round of 32,,2019-02-14,Celtic,Valencia,sct,es,0,2,0.0
+2018-2019,Round of 32,,2019-02-14,BATE Borisov,Arsenal,by,eng,1,0,1.0
+2018-2019,Round of 32,,2019-02-14,Galatasaray,Benfica,tr,pt,1,2,0.0
+2018-2019,Round of 32,,2019-02-14,Krasnodar,Leverkusen,ru,de,0,0,0.5
+2018-2019,Round of 32,,2019-02-14,Viktoria Plzeň,Dinamo Zagreb,cz,hr,2,1,1.0
+2018-2019,Round of 32,,2019-02-14,Zürich,Napoli,ch,it,1,3,0.0
+2018-2019,Round of 32,,2019-02-14,Malmö,Chelsea,se,eng,1,2,0.0
+2018-2019,Round of 32,,2019-02-14,Club Brugge,RB Salzburg,be,at,2,1,1.0
+2018-2019,Round of 32,,2019-02-14,Shakhtar,Eint Frankfurt,ua,de,2,2,0.5
+2018-2019,Round of 32,,2019-02-20,Sevilla,Lazio,es,it,2,0,1.0
+2018-2019,Round of 32,,2019-02-21,Arsenal,BATE Borisov,eng,by,3,0,1.0
+2018-2019,Round of 32,,2019-02-21,Napoli,Zürich,it,ch,2,0,1.0
+2018-2019,Round of 32,,2019-02-21,Eint Frankfurt,Shakhtar,de,ua,4,1,1.0
+2018-2019,Round of 32,,2019-02-21,Valencia,Celtic,es,sct,1,0,1.0
+2018-2019,Round of 32,,2019-02-21,RB Salzburg,Club Brugge,at,be,4,0,1.0
+2018-2019,Round of 32,,2019-02-21,Dinamo Zagreb,Viktoria Plzeň,hr,cz,3,0,1.0
+2018-2019,Round of 32,,2019-02-21,Villarreal,Sporting CP,es,pt,1,1,0.5
+2018-2019,Round of 32,,2019-02-21,Benfica,Galatasaray,pt,tr,0,0,0.5
+2018-2019,Round of 32,,2019-02-21,Chelsea,Malmö,eng,se,3,0,1.0
+2018-2019,Round of 32,,2019-02-21,Zenit,Fenerbahçe,ru,tr,3,1,1.0
+2018-2019,Round of 32,,2019-02-21,Genk,Slavia Prague,be,cz,1,4,0.0
+2018-2019,Round of 32,,2019-02-21,Betis,Rennes,es,fr,1,3,0.0
+2018-2019,Round of 32,,2019-02-21,Inter,Rapid Wien,it,at,4,0,1.0
+2018-2019,Round of 32,,2019-02-21,Leverkusen,Krasnodar,de,ru,1,1,0.5
+2018-2019,Round of 32,,2019-02-21,Dynamo Kyiv,Olympiacos,ua,gr,1,0,1.0
+2018-2019,Round of 16,,2019-03-07,Rennes,Arsenal,fr,eng,3,1,1.0
+2018-2019,Round of 16,,2019-03-07,Sevilla,Slavia Prague,es,cz,2,2,0.5
+2018-2019,Round of 16,,2019-03-07,Dinamo Zagreb,Benfica,hr,pt,1,0,1.0
+2018-2019,Round of 16,,2019-03-07,Eint Frankfurt,Inter,de,it,0,0,0.5
+2018-2019,Round of 16,,2019-03-07,Chelsea,Dynamo Kyiv,eng,ua,3,0,1.0
+2018-2019,Round of 16,,2019-03-07,Zenit,Villarreal,ru,es,1,3,0.0
+2018-2019,Round of 16,,2019-03-07,Valencia,Krasnodar,es,ru,2,1,1.0
+2018-2019,Round of 16,,2019-03-07,Napoli,RB Salzburg,it,at,3,0,1.0
+2018-2019,Round of 16,,2019-03-14,RB Salzburg,Napoli,at,it,3,1,1.0
+2018-2019,Round of 16,,2019-03-14,Dynamo Kyiv,Chelsea,ua,eng,0,5,0.0
+2018-2019,Round of 16,,2019-03-14,Benfica,Dinamo Zagreb,pt,hr,3,0,1.0
+2018-2019,Round of 16,,2019-03-14,Arsenal,Rennes,eng,fr,3,0,1.0
+2018-2019,Round of 16,,2019-03-14,Krasnodar,Valencia,ru,es,1,1,0.5
+2018-2019,Round of 16,,2019-03-14,Slavia Prague,Sevilla,cz,es,4,3,1.0
+2018-2019,Round of 16,,2019-03-14,Inter,Eint Frankfurt,it,de,0,1,0.0
+2018-2019,Round of 16,,2019-03-14,Villarreal,Zenit,es,ru,2,1,1.0
+2018-2019,Quarter-finals,,2019-04-11,Arsenal,Napoli,eng,it,2,0,1.0
+2018-2019,Quarter-finals,,2019-04-11,Benfica,Eint Frankfurt,pt,de,4,2,1.0
+2018-2019,Quarter-finals,,2019-04-11,Slavia Prague,Chelsea,cz,eng,0,1,0.0
+2018-2019,Quarter-finals,,2019-04-11,Villarreal,Valencia,es,es,1,3,0.0
+2018-2019,Quarter-finals,,2019-04-18,Chelsea,Slavia Prague,eng,cz,4,3,1.0
+2018-2019,Quarter-finals,,2019-04-18,Eint Frankfurt,Benfica,de,pt,2,0,1.0
+2018-2019,Quarter-finals,,2019-04-18,Napoli,Arsenal,it,eng,0,1,0.0
+2018-2019,Quarter-finals,,2019-04-18,Valencia,Villarreal,es,es,2,0,1.0
+2018-2019,Semi-finals,,2019-05-02,Arsenal,Valencia,eng,es,3,1,1.0
+2018-2019,Semi-finals,,2019-05-02,Eint Frankfurt,Chelsea,de,eng,1,1,0.5
+2018-2019,Semi-finals,,2019-05-09,Chelsea,Eint Frankfurt,eng,de,1,1,0.5
+2018-2019,Semi-finals,,2019-05-09,Valencia,Arsenal,es,eng,2,4,0.0
+2018-2019,Final,,2019-05-29,Chelsea,Arsenal,eng,eng,4,1,1.0

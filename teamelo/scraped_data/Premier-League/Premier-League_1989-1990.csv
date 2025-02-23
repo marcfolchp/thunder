@@ -1,381 +1,381 @@
 Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
-1989-1990,1,1989-08-19,Manchester Utd,Arsenal,4,1,0.0
-1989-1990,1,1989-08-19,Sheffield Weds,Norwich City,0,2,1.0
-1989-1990,1,1989-08-19,Tottenham,Luton Town,2,1,0.0
-1989-1990,1,1989-08-19,QPR,Crystal Palace,2,0,0.0
-1989-1990,1,1989-08-19,Wimbledon,Chelsea,0,1,1.0
+1989-1990,1,1989-08-19,Manchester Utd,Arsenal,4,1,1.0
+1989-1990,1,1989-08-19,Sheffield Weds,Norwich City,0,2,0.0
+1989-1990,1,1989-08-19,Tottenham,Luton Town,2,1,1.0
+1989-1990,1,1989-08-19,QPR,Crystal Palace,2,0,1.0
+1989-1990,1,1989-08-19,Wimbledon,Chelsea,0,1,0.0
 1989-1990,1,1989-08-19,Nott'ham Forest,Aston Villa,1,1,0.5
-1989-1990,1,1989-08-19,Southampton,Millwall,1,2,1.0
-1989-1990,1,1989-08-19,Liverpool,Manchester City,3,1,0.0
-1989-1990,1,1989-08-19,Coventry City,Everton,2,0,0.0
+1989-1990,1,1989-08-19,Southampton,Millwall,1,2,0.0
+1989-1990,1,1989-08-19,Liverpool,Manchester City,3,1,1.0
+1989-1990,1,1989-08-19,Coventry City,Everton,2,0,1.0
 1989-1990,1,1989-08-19,Charlton Ath,Derby County,0,0,0.5
-1989-1990,2,1989-08-22,Everton,Tottenham,2,1,0.0
+1989-1990,2,1989-08-22,Everton,Tottenham,2,1,1.0
 1989-1990,2,1989-08-22,Crystal Palace,Manchester Utd,1,1,0.5
-1989-1990,2,1989-08-22,Luton Town,Sheffield Weds,2,0,0.0
+1989-1990,2,1989-08-22,Luton Town,Sheffield Weds,2,0,1.0
 1989-1990,2,1989-08-22,Chelsea,QPR,1,1,0.5
-1989-1990,2,1989-08-22,Arsenal,Coventry City,2,0,0.0
+1989-1990,2,1989-08-22,Arsenal,Coventry City,2,0,1.0
 1989-1990,2,1989-08-22,Millwall,Charlton Ath,2,2,0.5
 1989-1990,2,1989-08-23,Aston Villa,Liverpool,1,1,0.5
 1989-1990,2,1989-08-23,Norwich City,Nott'ham Forest,1,1,0.5
 1989-1990,2,1989-08-23,Derby County,Wimbledon,1,1,0.5
-1989-1990,2,1989-08-23,Manchester City,Southampton,1,2,1.0
+1989-1990,2,1989-08-23,Manchester City,Southampton,1,2,0.0
 1989-1990,3,1989-08-26,Arsenal,Wimbledon,0,0,0.5
 1989-1990,3,1989-08-26,Luton Town,Liverpool,0,0,0.5
 1989-1990,3,1989-08-26,Aston Villa,Charlton Ath,1,1,0.5
-1989-1990,3,1989-08-26,Millwall,Nott'ham Forest,1,0,0.0
-1989-1990,3,1989-08-26,Chelsea,Sheffield Weds,4,0,0.0
+1989-1990,3,1989-08-26,Millwall,Nott'ham Forest,1,0,1.0
+1989-1990,3,1989-08-26,Chelsea,Sheffield Weds,4,0,1.0
 1989-1990,3,1989-08-26,Norwich City,QPR,0,0,0.5
-1989-1990,3,1989-08-26,Crystal Palace,Coventry City,0,1,1.0
-1989-1990,3,1989-08-26,Derby County,Manchester Utd,2,0,0.0
+1989-1990,3,1989-08-26,Crystal Palace,Coventry City,0,1,0.0
+1989-1990,3,1989-08-26,Derby County,Manchester Utd,2,0,1.0
 1989-1990,3,1989-08-26,Manchester City,Tottenham,1,1,0.5
-1989-1990,3,1989-08-26,Everton,Southampton,3,0,0.0
-1989-1990,4,1989-08-29,Charlton Ath,Chelsea,3,0,0.0
+1989-1990,3,1989-08-26,Everton,Southampton,3,0,1.0
+1989-1990,4,1989-08-29,Charlton Ath,Chelsea,3,0,1.0
 1989-1990,4,1989-08-29,Wimbledon,Millwall,2,2,0.5
-1989-1990,4,1989-08-29,Southampton,Aston Villa,2,1,0.0
-1989-1990,4,1989-08-30,Nott'ham Forest,Derby County,2,1,0.0
+1989-1990,4,1989-08-29,Southampton,Aston Villa,2,1,1.0
+1989-1990,4,1989-08-30,Nott'ham Forest,Derby County,2,1,1.0
 1989-1990,4,1989-08-30,Sheffield Weds,Everton,1,1,0.5
 1989-1990,4,1989-08-30,QPR,Luton Town,0,0,0.5
-1989-1990,4,1989-08-30,Coventry City,Manchester City,2,1,0.0
-1989-1990,4,1989-08-30,Manchester Utd,Norwich City,0,2,1.0
-1989-1990,5,1989-09-09,Arsenal,Sheffield Weds,5,0,0.0
-1989-1990,5,1989-09-09,Luton Town,Charlton Ath,1,0,0.0
-1989-1990,5,1989-09-09,Millwall,Coventry City,4,1,0.0
-1989-1990,5,1989-09-09,Aston Villa,Tottenham,2,0,0.0
+1989-1990,4,1989-08-30,Coventry City,Manchester City,2,1,1.0
+1989-1990,4,1989-08-30,Manchester Utd,Norwich City,0,2,0.0
+1989-1990,5,1989-09-09,Arsenal,Sheffield Weds,5,0,1.0
+1989-1990,5,1989-09-09,Luton Town,Charlton Ath,1,0,1.0
+1989-1990,5,1989-09-09,Millwall,Coventry City,4,1,1.0
+1989-1990,5,1989-09-09,Aston Villa,Tottenham,2,0,1.0
 1989-1990,5,1989-09-09,Norwich City,Southampton,4,4,0.5
-1989-1990,5,1989-09-09,Derby County,Liverpool,0,3,1.0
-1989-1990,5,1989-09-09,Crystal Palace,Wimbledon,2,0,0.0
-1989-1990,5,1989-09-09,Manchester City,QPR,1,0,0.0
-1989-1990,5,1989-09-09,Everton,Manchester Utd,3,2,0.0
+1989-1990,5,1989-09-09,Derby County,Liverpool,0,3,0.0
+1989-1990,5,1989-09-09,Crystal Palace,Wimbledon,2,0,1.0
+1989-1990,5,1989-09-09,Manchester City,QPR,1,0,1.0
+1989-1990,5,1989-09-09,Everton,Manchester Utd,3,2,1.0
 1989-1990,5,1989-09-09,Chelsea,Nott'ham Forest,2,2,0.5
-1989-1990,4,1989-09-12,Liverpool,Crystal Palace,9,0,0.0
-1989-1990,6,1989-09-16,Nott'ham Forest,Arsenal,1,2,1.0
-1989-1990,6,1989-09-16,Manchester Utd,Millwall,5,1,0.0
-1989-1990,6,1989-09-16,QPR,Derby County,0,1,1.0
-1989-1990,6,1989-09-16,Charlton Ath,Everton,0,1,1.0
-1989-1990,6,1989-09-16,Coventry City,Luton Town,1,0,0.0
+1989-1990,4,1989-09-12,Liverpool,Crystal Palace,9,0,1.0
+1989-1990,6,1989-09-16,Nott'ham Forest,Arsenal,1,2,0.0
+1989-1990,6,1989-09-16,Manchester Utd,Millwall,5,1,1.0
+1989-1990,6,1989-09-16,QPR,Derby County,0,1,0.0
+1989-1990,6,1989-09-16,Charlton Ath,Everton,0,1,0.0
+1989-1990,6,1989-09-16,Coventry City,Luton Town,1,0,1.0
 1989-1990,6,1989-09-16,Liverpool,Norwich City,0,0,0.5
 1989-1990,6,1989-09-16,Southampton,Crystal Palace,1,1,0.5
-1989-1990,6,1989-09-16,Tottenham,Chelsea,1,4,1.0
-1989-1990,6,1989-09-16,Wimbledon,Manchester City,1,0,0.0
-1989-1990,6,1989-09-16,Sheffield Weds,Aston Villa,1,0,0.0
-1989-1990,7,1989-09-23,Everton,Liverpool,1,3,1.0
-1989-1990,7,1989-09-23,Arsenal,Charlton Ath,1,0,0.0
-1989-1990,7,1989-09-23,Derby County,Southampton,0,1,1.0
-1989-1990,7,1989-09-23,Millwall,Sheffield Weds,2,0,0.0
-1989-1990,7,1989-09-23,Manchester City,Manchester Utd,5,1,0.0
-1989-1990,7,1989-09-23,Chelsea,Coventry City,1,0,0.0
-1989-1990,7,1989-09-23,Crystal Palace,Nott'ham Forest,1,0,0.0
-1989-1990,7,1989-09-23,Aston Villa,QPR,1,3,1.0
+1989-1990,6,1989-09-16,Tottenham,Chelsea,1,4,0.0
+1989-1990,6,1989-09-16,Wimbledon,Manchester City,1,0,1.0
+1989-1990,6,1989-09-16,Sheffield Weds,Aston Villa,1,0,1.0
+1989-1990,7,1989-09-23,Everton,Liverpool,1,3,0.0
+1989-1990,7,1989-09-23,Arsenal,Charlton Ath,1,0,1.0
+1989-1990,7,1989-09-23,Derby County,Southampton,0,1,0.0
+1989-1990,7,1989-09-23,Millwall,Sheffield Weds,2,0,1.0
+1989-1990,7,1989-09-23,Manchester City,Manchester Utd,5,1,1.0
+1989-1990,7,1989-09-23,Chelsea,Coventry City,1,0,1.0
+1989-1990,7,1989-09-23,Crystal Palace,Nott'ham Forest,1,0,1.0
+1989-1990,7,1989-09-23,Aston Villa,QPR,1,3,0.0
 1989-1990,7,1989-09-23,Luton Town,Wimbledon,1,1,0.5
 1989-1990,7,1989-09-23,Norwich City,Tottenham,2,2,0.5
-1989-1990,8,1989-09-30,Aston Villa,Derby County,1,0,0.0
-1989-1990,8,1989-09-30,Crystal Palace,Everton,2,1,0.0
+1989-1990,8,1989-09-30,Aston Villa,Derby County,1,0,1.0
+1989-1990,8,1989-09-30,Crystal Palace,Everton,2,1,1.0
 1989-1990,8,1989-09-30,Southampton,Wimbledon,2,2,0.5
-1989-1990,8,1989-09-30,Nott'ham Forest,Charlton Ath,2,0,0.0
-1989-1990,8,1989-09-30,Tottenham,QPR,3,2,0.0
+1989-1990,8,1989-09-30,Nott'ham Forest,Charlton Ath,2,0,1.0
+1989-1990,8,1989-09-30,Tottenham,QPR,3,2,1.0
 1989-1990,8,1989-09-30,Sheffield Weds,Coventry City,0,0,0.5
 1989-1990,8,1989-09-30,Chelsea,Arsenal,0,0,0.5
-1989-1990,8,1989-09-30,Millwall,Norwich City,0,1,1.0
-1989-1990,8,1989-09-30,Manchester City,Luton Town,3,1,0.0
-1989-1990,9,1989-10-14,Coventry City,Nott'ham Forest,0,2,1.0
-1989-1990,9,1989-10-14,Everton,Millwall,2,1,0.0
+1989-1990,8,1989-09-30,Millwall,Norwich City,0,1,0.0
+1989-1990,8,1989-09-30,Manchester City,Luton Town,3,1,1.0
+1989-1990,9,1989-10-14,Coventry City,Nott'ham Forest,0,2,0.0
+1989-1990,9,1989-10-14,Everton,Millwall,2,1,1.0
 1989-1990,9,1989-10-14,Manchester Utd,Sheffield Weds,0,0,0.5
-1989-1990,9,1989-10-14,Wimbledon,Liverpool,1,2,1.0
-1989-1990,9,1989-10-14,QPR,Southampton,1,4,1.0
-1989-1990,9,1989-10-14,Derby County,Crystal Palace,3,1,0.0
-1989-1990,9,1989-10-14,Luton Town,Aston Villa,0,1,1.0
-1989-1990,9,1989-10-14,Charlton Ath,Tottenham,1,3,1.0
-1989-1990,9,1989-10-14,Arsenal,Manchester City,4,0,0.0
-1989-1990,9,1989-10-14,Norwich City,Chelsea,2,0,0.0
-1989-1990,4,1989-10-18,Tottenham,Arsenal,2,1,0.0
-1989-1990,10,1989-10-21,Wimbledon,Nott'ham Forest,1,3,1.0
-1989-1990,10,1989-10-21,Coventry City,Manchester Utd,1,4,1.0
-1989-1990,10,1989-10-21,Luton Town,Norwich City,4,1,0.0
-1989-1990,10,1989-10-21,Derby County,Chelsea,0,1,1.0
-1989-1990,10,1989-10-21,Everton,Arsenal,3,0,0.0
-1989-1990,10,1989-10-21,Southampton,Liverpool,4,1,0.0
-1989-1990,10,1989-10-21,Crystal Palace,Millwall,4,3,0.0
-1989-1990,10,1989-10-21,Tottenham,Sheffield Weds,3,0,0.0
-1989-1990,10,1989-10-21,QPR,Charlton Ath,0,1,1.0
-1989-1990,10,1989-10-22,Manchester City,Aston Villa,0,2,1.0
+1989-1990,9,1989-10-14,Wimbledon,Liverpool,1,2,0.0
+1989-1990,9,1989-10-14,QPR,Southampton,1,4,0.0
+1989-1990,9,1989-10-14,Derby County,Crystal Palace,3,1,1.0
+1989-1990,9,1989-10-14,Luton Town,Aston Villa,0,1,0.0
+1989-1990,9,1989-10-14,Charlton Ath,Tottenham,1,3,0.0
+1989-1990,9,1989-10-14,Arsenal,Manchester City,4,0,1.0
+1989-1990,9,1989-10-14,Norwich City,Chelsea,2,0,1.0
+1989-1990,4,1989-10-18,Tottenham,Arsenal,2,1,1.0
+1989-1990,10,1989-10-21,Wimbledon,Nott'ham Forest,1,3,0.0
+1989-1990,10,1989-10-21,Coventry City,Manchester Utd,1,4,0.0
+1989-1990,10,1989-10-21,Luton Town,Norwich City,4,1,1.0
+1989-1990,10,1989-10-21,Derby County,Chelsea,0,1,0.0
+1989-1990,10,1989-10-21,Everton,Arsenal,3,0,1.0
+1989-1990,10,1989-10-21,Southampton,Liverpool,4,1,1.0
+1989-1990,10,1989-10-21,Crystal Palace,Millwall,4,3,1.0
+1989-1990,10,1989-10-21,Tottenham,Sheffield Weds,3,0,1.0
+1989-1990,10,1989-10-21,QPR,Charlton Ath,0,1,0.0
+1989-1990,10,1989-10-22,Manchester City,Aston Villa,0,2,0.0
 1989-1990,11,1989-10-28,Norwich City,Everton,1,1,0.5
 1989-1990,11,1989-10-28,Millwall,Luton Town,1,1,0.5
 1989-1990,11,1989-10-28,Charlton Ath,Coventry City,1,1,0.5
 1989-1990,11,1989-10-28,Nott'ham Forest,QPR,2,2,0.5
-1989-1990,11,1989-10-28,Manchester Utd,Southampton,2,1,0.0
+1989-1990,11,1989-10-28,Manchester Utd,Southampton,2,1,1.0
 1989-1990,11,1989-10-28,Arsenal,Derby County,1,1,0.5
-1989-1990,11,1989-10-28,Aston Villa,Crystal Palace,2,1,0.0
-1989-1990,11,1989-10-28,Sheffield Weds,Wimbledon,0,1,1.0
+1989-1990,11,1989-10-28,Aston Villa,Crystal Palace,2,1,1.0
+1989-1990,11,1989-10-28,Sheffield Weds,Wimbledon,0,1,0.0
 1989-1990,11,1989-10-28,Chelsea,Manchester City,1,1,0.5
-1989-1990,11,1989-10-29,Liverpool,Tottenham,1,0,0.0
-1989-1990,12,1989-11-04,Chelsea,Millwall,4,0,0.0
-1989-1990,12,1989-11-04,Charlton Ath,Manchester Utd,2,0,0.0
-1989-1990,12,1989-11-04,Luton Town,Derby County,1,0,0.0
-1989-1990,12,1989-11-04,Liverpool,Coventry City,0,1,1.0
-1989-1990,12,1989-11-04,Manchester City,Crystal Palace,3,0,0.0
+1989-1990,11,1989-10-29,Liverpool,Tottenham,1,0,1.0
+1989-1990,12,1989-11-04,Chelsea,Millwall,4,0,1.0
+1989-1990,12,1989-11-04,Charlton Ath,Manchester Utd,2,0,1.0
+1989-1990,12,1989-11-04,Luton Town,Derby County,1,0,1.0
+1989-1990,12,1989-11-04,Liverpool,Coventry City,0,1,0.0
+1989-1990,12,1989-11-04,Manchester City,Crystal Palace,3,0,1.0
 1989-1990,12,1989-11-04,Wimbledon,QPR,0,0,0.5
 1989-1990,12,1989-11-04,Southampton,Tottenham,1,1,0.5
-1989-1990,12,1989-11-04,Arsenal,Norwich City,4,3,0.0
-1989-1990,12,1989-11-04,Nott'ham Forest,Sheffield Weds,0,1,1.0
-1989-1990,12,1989-11-05,Aston Villa,Everton,6,2,0.0
-1989-1990,13,1989-11-11,Norwich City,Aston Villa,2,0,0.0
-1989-1990,13,1989-11-11,Everton,Chelsea,0,1,1.0
-1989-1990,13,1989-11-11,Sheffield Weds,Charlton Ath,3,0,0.0
-1989-1990,13,1989-11-11,Derby County,Manchester City,6,0,0.0
-1989-1990,13,1989-11-11,QPR,Liverpool,3,2,0.0
-1989-1990,13,1989-11-11,Millwall,Arsenal,1,2,1.0
-1989-1990,13,1989-11-11,Coventry City,Southampton,1,0,0.0
+1989-1990,12,1989-11-04,Arsenal,Norwich City,4,3,1.0
+1989-1990,12,1989-11-04,Nott'ham Forest,Sheffield Weds,0,1,0.0
+1989-1990,12,1989-11-05,Aston Villa,Everton,6,2,1.0
+1989-1990,13,1989-11-11,Norwich City,Aston Villa,2,0,1.0
+1989-1990,13,1989-11-11,Everton,Chelsea,0,1,0.0
+1989-1990,13,1989-11-11,Sheffield Weds,Charlton Ath,3,0,1.0
+1989-1990,13,1989-11-11,Derby County,Manchester City,6,0,1.0
+1989-1990,13,1989-11-11,QPR,Liverpool,3,2,1.0
+1989-1990,13,1989-11-11,Millwall,Arsenal,1,2,0.0
+1989-1990,13,1989-11-11,Coventry City,Southampton,1,0,1.0
 1989-1990,13,1989-11-11,Crystal Palace,Luton Town,1,1,0.5
-1989-1990,13,1989-11-11,Tottenham,Wimbledon,0,1,1.0
-1989-1990,13,1989-11-12,Manchester Utd,Nott'ham Forest,1,0,0.0
+1989-1990,13,1989-11-11,Tottenham,Wimbledon,0,1,0.0
+1989-1990,13,1989-11-12,Manchester Utd,Nott'ham Forest,1,0,1.0
 1989-1990,14,1989-11-18,Chelsea,Southampton,2,2,0.5
-1989-1990,14,1989-11-18,Aston Villa,Coventry City,4,1,0.0
-1989-1990,14,1989-11-18,Crystal Palace,Tottenham,2,3,1.0
-1989-1990,14,1989-11-18,Arsenal,QPR,3,0,0.0
-1989-1990,14,1989-11-18,Derby County,Sheffield Weds,2,0,0.0
-1989-1990,14,1989-11-18,Luton Town,Manchester Utd,1,3,1.0
-1989-1990,14,1989-11-18,Manchester City,Nott'ham Forest,0,3,1.0
+1989-1990,14,1989-11-18,Aston Villa,Coventry City,4,1,1.0
+1989-1990,14,1989-11-18,Crystal Palace,Tottenham,2,3,0.0
+1989-1990,14,1989-11-18,Arsenal,QPR,3,0,1.0
+1989-1990,14,1989-11-18,Derby County,Sheffield Weds,2,0,1.0
+1989-1990,14,1989-11-18,Luton Town,Manchester Utd,1,3,0.0
+1989-1990,14,1989-11-18,Manchester City,Nott'ham Forest,0,3,0.0
 1989-1990,14,1989-11-18,Norwich City,Charlton Ath,0,0,0.5
 1989-1990,14,1989-11-18,Everton,Wimbledon,1,1,0.5
-1989-1990,14,1989-11-19,Millwall,Liverpool,1,2,1.0
-1989-1990,15,1989-11-25,Tottenham,Derby County,1,2,1.0
-1989-1990,15,1989-11-25,Southampton,Luton Town,6,3,0.0
+1989-1990,14,1989-11-19,Millwall,Liverpool,1,2,0.0
+1989-1990,15,1989-11-25,Tottenham,Derby County,1,2,0.0
+1989-1990,15,1989-11-25,Southampton,Luton Town,6,3,1.0
 1989-1990,15,1989-11-25,Charlton Ath,Manchester City,1,1,0.5
-1989-1990,15,1989-11-25,Wimbledon,Aston Villa,0,2,1.0
+1989-1990,15,1989-11-25,Wimbledon,Aston Villa,0,2,0.0
 1989-1990,15,1989-11-25,Manchester Utd,Chelsea,0,0,0.5
-1989-1990,15,1989-11-25,Nott'ham Forest,Everton,1,0,0.0
+1989-1990,15,1989-11-25,Nott'ham Forest,Everton,1,0,1.0
 1989-1990,15,1989-11-25,QPR,Millwall,0,0,0.5
 1989-1990,15,1989-11-25,Sheffield Weds,Crystal Palace,2,2,0.5
-1989-1990,15,1989-11-25,Coventry City,Norwich City,1,0,0.0
-1989-1990,15,1989-11-26,Liverpool,Arsenal,2,1,0.0
-1989-1990,35,1989-11-29,Sheffield Weds,Liverpool,2,0,0.0
-1989-1990,16,1989-12-02,Derby County,Charlton Ath,2,0,0.0
-1989-1990,16,1989-12-02,Aston Villa,Nott'ham Forest,2,1,0.0
-1989-1990,16,1989-12-02,Everton,Coventry City,2,0,0.0
-1989-1990,16,1989-12-02,Chelsea,Wimbledon,2,5,1.0
-1989-1990,16,1989-12-02,Crystal Palace,QPR,0,3,1.0
-1989-1990,16,1989-12-02,Manchester City,Liverpool,1,4,1.0
-1989-1990,16,1989-12-02,Norwich City,Sheffield Weds,2,1,0.0
+1989-1990,15,1989-11-25,Coventry City,Norwich City,1,0,1.0
+1989-1990,15,1989-11-26,Liverpool,Arsenal,2,1,1.0
+1989-1990,35,1989-11-29,Sheffield Weds,Liverpool,2,0,1.0
+1989-1990,16,1989-12-02,Derby County,Charlton Ath,2,0,1.0
+1989-1990,16,1989-12-02,Aston Villa,Nott'ham Forest,2,1,1.0
+1989-1990,16,1989-12-02,Everton,Coventry City,2,0,1.0
+1989-1990,16,1989-12-02,Chelsea,Wimbledon,2,5,0.0
+1989-1990,16,1989-12-02,Crystal Palace,QPR,0,3,0.0
+1989-1990,16,1989-12-02,Manchester City,Liverpool,1,4,0.0
+1989-1990,16,1989-12-02,Norwich City,Sheffield Weds,2,1,1.0
 1989-1990,16,1989-12-02,Millwall,Southampton,2,2,0.5
 1989-1990,16,1989-12-02,Luton Town,Tottenham,0,0,0.5
-1989-1990,16,1989-12-03,Arsenal,Manchester Utd,1,0,0.0
-1989-1990,17,1989-12-09,Manchester Utd,Crystal Palace,1,2,1.0
-1989-1990,17,1989-12-09,Coventry City,Arsenal,0,1,1.0
+1989-1990,16,1989-12-03,Arsenal,Manchester Utd,1,0,1.0
+1989-1990,17,1989-12-09,Manchester Utd,Crystal Palace,1,2,0.0
+1989-1990,17,1989-12-09,Coventry City,Arsenal,0,1,0.0
 1989-1990,17,1989-12-09,Sheffield Weds,Luton Town,1,1,0.5
 1989-1990,17,1989-12-09,Wimbledon,Derby County,1,1,0.5
-1989-1990,17,1989-12-09,QPR,Chelsea,4,2,0.0
+1989-1990,17,1989-12-09,QPR,Chelsea,4,2,1.0
 1989-1990,17,1989-12-09,Charlton Ath,Millwall,1,1,0.5
-1989-1990,17,1989-12-09,Nott'ham Forest,Norwich City,0,1,1.0
-1989-1990,17,1989-12-09,Southampton,Manchester City,2,1,0.0
+1989-1990,17,1989-12-09,Nott'ham Forest,Norwich City,0,1,0.0
+1989-1990,17,1989-12-09,Southampton,Manchester City,2,1,1.0
 1989-1990,17,1989-12-09,Liverpool,Aston Villa,1,1,0.5
-1989-1990,17,1989-12-09,Tottenham,Everton,2,1,0.0
-1989-1990,18,1989-12-16,Sheffield Weds,QPR,2,0,0.0
-1989-1990,18,1989-12-16,Norwich City,Derby County,1,0,0.0
-1989-1990,18,1989-12-16,Manchester Utd,Tottenham,0,1,1.0
-1989-1990,18,1989-12-16,Coventry City,Wimbledon,2,1,0.0
-1989-1990,18,1989-12-16,Charlton Ath,Crystal Palace,1,2,1.0
-1989-1990,18,1989-12-16,Millwall,Aston Villa,2,0,0.0
-1989-1990,18,1989-12-16,Chelsea,Liverpool,2,5,1.0
-1989-1990,18,1989-12-16,Arsenal,Luton Town,3,2,0.0
+1989-1990,17,1989-12-09,Tottenham,Everton,2,1,1.0
+1989-1990,18,1989-12-16,Sheffield Weds,QPR,2,0,1.0
+1989-1990,18,1989-12-16,Norwich City,Derby County,1,0,1.0
+1989-1990,18,1989-12-16,Manchester Utd,Tottenham,0,1,0.0
+1989-1990,18,1989-12-16,Coventry City,Wimbledon,2,1,1.0
+1989-1990,18,1989-12-16,Charlton Ath,Crystal Palace,1,2,0.0
+1989-1990,18,1989-12-16,Millwall,Aston Villa,2,0,1.0
+1989-1990,18,1989-12-16,Chelsea,Liverpool,2,5,0.0
+1989-1990,18,1989-12-16,Arsenal,Luton Town,3,2,1.0
 1989-1990,18,1989-12-17,Everton,Manchester City,0,0,0.5
-1989-1990,18,1989-12-17,Nott'ham Forest,Southampton,2,0,0.0
+1989-1990,18,1989-12-17,Nott'ham Forest,Southampton,2,0,1.0
 1989-1990,8,1989-12-23,Liverpool,Manchester Utd,0,0,0.5
-1989-1990,19,1989-12-26,Manchester City,Norwich City,1,0,0.0
+1989-1990,19,1989-12-26,Manchester City,Norwich City,1,0,1.0
 1989-1990,19,1989-12-26,Crystal Palace,Chelsea,2,2,0.5
-1989-1990,19,1989-12-26,Southampton,Arsenal,1,0,0.0
-1989-1990,19,1989-12-26,Wimbledon,Charlton Ath,3,1,0.0
+1989-1990,19,1989-12-26,Southampton,Arsenal,1,0,1.0
+1989-1990,19,1989-12-26,Wimbledon,Charlton Ath,3,1,1.0
 1989-1990,19,1989-12-26,Luton Town,Nott'ham Forest,1,1,0.5
-1989-1990,19,1989-12-26,Aston Villa,Manchester Utd,3,0,0.0
-1989-1990,19,1989-12-26,Derby County,Everton,0,1,1.0
-1989-1990,19,1989-12-26,Tottenham,Millwall,3,1,0.0
-1989-1990,19,1989-12-26,Liverpool,Sheffield Weds,2,1,0.0
+1989-1990,19,1989-12-26,Aston Villa,Manchester Utd,3,0,1.0
+1989-1990,19,1989-12-26,Derby County,Everton,0,1,0.0
+1989-1990,19,1989-12-26,Tottenham,Millwall,3,1,1.0
+1989-1990,19,1989-12-26,Liverpool,Sheffield Weds,2,1,1.0
 1989-1990,19,1989-12-26,QPR,Coventry City,1,1,0.5
-1989-1990,20,1989-12-30,Crystal Palace,Norwich City,1,0,0.0
-1989-1990,20,1989-12-30,Manchester City,Millwall,2,0,0.0
+1989-1990,20,1989-12-30,Crystal Palace,Norwich City,1,0,1.0
+1989-1990,20,1989-12-30,Manchester City,Millwall,2,0,1.0
 1989-1990,20,1989-12-30,Southampton,Sheffield Weds,2,2,0.5
-1989-1990,20,1989-12-30,Tottenham,Nott'ham Forest,2,3,1.0
-1989-1990,20,1989-12-30,Aston Villa,Arsenal,2,1,0.0
-1989-1990,20,1989-12-30,QPR,Everton,1,0,0.0
+1989-1990,20,1989-12-30,Tottenham,Nott'ham Forest,2,3,0.0
+1989-1990,20,1989-12-30,Aston Villa,Arsenal,2,1,1.0
+1989-1990,20,1989-12-30,QPR,Everton,1,0,1.0
 1989-1990,20,1989-12-30,Wimbledon,Manchester Utd,2,2,0.5
-1989-1990,20,1989-12-30,Luton Town,Chelsea,0,3,1.0
-1989-1990,20,1989-12-30,Liverpool,Charlton Ath,1,0,0.0
-1989-1990,20,1989-12-30,Derby County,Coventry City,4,1,0.0
-1989-1990,21,1990-01-01,Sheffield Weds,Manchester City,2,0,0.0
-1989-1990,21,1990-01-01,Norwich City,Wimbledon,0,1,1.0
-1989-1990,21,1990-01-01,Everton,Luton Town,2,1,0.0
+1989-1990,20,1989-12-30,Luton Town,Chelsea,0,3,0.0
+1989-1990,20,1989-12-30,Liverpool,Charlton Ath,1,0,1.0
+1989-1990,20,1989-12-30,Derby County,Coventry City,4,1,1.0
+1989-1990,21,1990-01-01,Sheffield Weds,Manchester City,2,0,1.0
+1989-1990,21,1990-01-01,Norwich City,Wimbledon,0,1,0.0
+1989-1990,21,1990-01-01,Everton,Luton Town,2,1,1.0
 1989-1990,21,1990-01-01,Millwall,Derby County,1,1,0.5
-1989-1990,21,1990-01-01,Chelsea,Aston Villa,0,3,1.0
+1989-1990,21,1990-01-01,Chelsea,Aston Villa,0,3,0.0
 1989-1990,21,1990-01-01,Manchester Utd,QPR,0,0,0.5
-1989-1990,21,1990-01-01,Arsenal,Crystal Palace,4,1,0.0
-1989-1990,21,1990-01-01,Charlton Ath,Southampton,2,4,1.0
+1989-1990,21,1990-01-01,Arsenal,Crystal Palace,4,1,1.0
+1989-1990,21,1990-01-01,Charlton Ath,Southampton,2,4,0.0
 1989-1990,21,1990-01-01,Coventry City,Tottenham,0,0,0.5
 1989-1990,21,1990-01-01,Nott'ham Forest,Liverpool,2,2,0.5
 1989-1990,22,1990-01-13,Tottenham,Manchester City,1,1,0.5
 1989-1990,22,1990-01-13,Liverpool,Luton Town,2,2,0.5
-1989-1990,22,1990-01-13,Manchester Utd,Derby County,1,2,1.0
-1989-1990,22,1990-01-13,Coventry City,Crystal Palace,1,0,0.0
+1989-1990,22,1990-01-13,Manchester Utd,Derby County,1,2,0.0
+1989-1990,22,1990-01-13,Coventry City,Crystal Palace,1,0,1.0
 1989-1990,22,1990-01-13,Southampton,Everton,2,2,0.5
-1989-1990,22,1990-01-13,Charlton Ath,Aston Villa,0,2,1.0
-1989-1990,22,1990-01-13,Wimbledon,Arsenal,1,0,0.0
-1989-1990,22,1990-01-13,Nott'ham Forest,Millwall,3,1,0.0
-1989-1990,22,1990-01-13,QPR,Norwich City,2,1,0.0
+1989-1990,22,1990-01-13,Charlton Ath,Aston Villa,0,2,0.0
+1989-1990,22,1990-01-13,Wimbledon,Arsenal,1,0,1.0
+1989-1990,22,1990-01-13,Nott'ham Forest,Millwall,3,1,1.0
+1989-1990,22,1990-01-13,QPR,Norwich City,2,1,1.0
 1989-1990,22,1990-01-14,Sheffield Weds,Chelsea,1,1,0.5
-1989-1990,23,1990-01-20,Crystal Palace,Liverpool,0,2,1.0
-1989-1990,23,1990-01-20,Aston Villa,Southampton,2,1,0.0
-1989-1990,23,1990-01-20,Derby County,Nott'ham Forest,0,2,1.0
-1989-1990,23,1990-01-20,Arsenal,Tottenham,1,0,0.0
+1989-1990,23,1990-01-20,Crystal Palace,Liverpool,0,2,0.0
+1989-1990,23,1990-01-20,Aston Villa,Southampton,2,1,1.0
+1989-1990,23,1990-01-20,Derby County,Nott'ham Forest,0,2,0.0
+1989-1990,23,1990-01-20,Arsenal,Tottenham,1,0,1.0
 1989-1990,23,1990-01-20,Luton Town,QPR,1,1,0.5
-1989-1990,23,1990-01-20,Everton,Sheffield Weds,2,0,0.0
-1989-1990,23,1990-01-20,Chelsea,Charlton Ath,3,1,0.0
-1989-1990,23,1990-01-20,Norwich City,Manchester Utd,2,0,0.0
-1989-1990,23,1990-01-20,Manchester City,Coventry City,1,0,0.0
+1989-1990,23,1990-01-20,Everton,Sheffield Weds,2,0,1.0
+1989-1990,23,1990-01-20,Chelsea,Charlton Ath,3,1,1.0
+1989-1990,23,1990-01-20,Norwich City,Manchester Utd,2,0,1.0
+1989-1990,23,1990-01-20,Manchester City,Coventry City,1,0,1.0
 1989-1990,23,1990-01-20,Millwall,Wimbledon,0,0,0.5
 1989-1990,24,1990-02-03,Manchester Utd,Manchester City,1,1,0.5
 1989-1990,24,1990-02-03,Sheffield Weds,Millwall,1,1,0.5
-1989-1990,24,1990-02-03,Nott'ham Forest,Crystal Palace,3,1,0.0
-1989-1990,24,1990-02-03,Coventry City,Chelsea,3,2,0.0
-1989-1990,24,1990-02-03,Liverpool,Everton,2,1,0.0
-1989-1990,24,1990-02-04,Tottenham,Norwich City,4,0,0.0
-1989-1990,25,1990-02-10,Derby County,QPR,2,0,0.0
+1989-1990,24,1990-02-03,Nott'ham Forest,Crystal Palace,3,1,1.0
+1989-1990,24,1990-02-03,Coventry City,Chelsea,3,2,1.0
+1989-1990,24,1990-02-03,Liverpool,Everton,2,1,1.0
+1989-1990,24,1990-02-04,Tottenham,Norwich City,4,0,1.0
+1989-1990,25,1990-02-10,Derby County,QPR,2,0,1.0
 1989-1990,25,1990-02-10,Norwich City,Liverpool,0,0,0.5
-1989-1990,25,1990-02-10,Everton,Charlton Ath,2,1,0.0
-1989-1990,25,1990-02-10,Aston Villa,Sheffield Weds,1,0,0.0
-1989-1990,25,1990-02-10,Chelsea,Tottenham,1,2,1.0
-1989-1990,25,1990-02-10,Crystal Palace,Southampton,3,1,0.0
+1989-1990,25,1990-02-10,Everton,Charlton Ath,2,1,1.0
+1989-1990,25,1990-02-10,Aston Villa,Sheffield Weds,1,0,1.0
+1989-1990,25,1990-02-10,Chelsea,Tottenham,1,2,0.0
+1989-1990,25,1990-02-10,Crystal Palace,Southampton,3,1,1.0
 1989-1990,25,1990-02-10,Manchester City,Wimbledon,1,1,0.5
-1989-1990,25,1990-02-10,Millwall,Manchester Utd,1,2,1.0
-1989-1990,24,1990-02-14,Wimbledon,Luton Town,1,2,1.0
-1989-1990,26,1990-02-17,Sheffield Weds,Arsenal,1,0,0.0
+1989-1990,25,1990-02-10,Millwall,Manchester Utd,1,2,0.0
+1989-1990,24,1990-02-14,Wimbledon,Luton Town,1,2,0.0
+1989-1990,26,1990-02-17,Sheffield Weds,Arsenal,1,0,1.0
 1989-1990,26,1990-02-17,Nott'ham Forest,Chelsea,1,1,0.5
-1989-1990,26,1990-02-17,Coventry City,Millwall,3,1,0.0
-1989-1990,26,1990-02-19,Charlton Ath,Luton Town,2,0,0.0
-1989-1990,26,1990-02-21,Tottenham,Aston Villa,0,2,1.0
-1989-1990,27,1990-02-24,Manchester City,Charlton Ath,1,2,1.0
+1989-1990,26,1990-02-17,Coventry City,Millwall,3,1,1.0
+1989-1990,26,1990-02-19,Charlton Ath,Luton Town,2,0,1.0
+1989-1990,26,1990-02-21,Tottenham,Aston Villa,0,2,0.0
+1989-1990,27,1990-02-24,Manchester City,Charlton Ath,1,2,0.0
 1989-1990,27,1990-02-24,Luton Town,Southampton,1,1,0.5
-1989-1990,27,1990-02-24,Chelsea,Manchester Utd,1,0,0.0
+1989-1990,27,1990-02-24,Chelsea,Manchester Utd,1,0,1.0
 1989-1990,27,1990-02-24,Crystal Palace,Sheffield Weds,1,1,0.5
-1989-1990,27,1990-02-24,Millwall,QPR,1,2,1.0
-1989-1990,27,1990-02-24,Aston Villa,Wimbledon,0,3,1.0
-1989-1990,27,1990-02-24,Derby County,Tottenham,2,1,0.0
+1989-1990,27,1990-02-24,Millwall,QPR,1,2,0.0
+1989-1990,27,1990-02-24,Aston Villa,Wimbledon,0,3,0.0
+1989-1990,27,1990-02-24,Derby County,Tottenham,2,1,1.0
 1989-1990,24,1990-02-27,Charlton Ath,Arsenal,0,0,0.5
-1989-1990,26,1990-02-27,Southampton,Norwich City,4,1,0.0
-1989-1990,28,1990-03-03,Wimbledon,Everton,3,1,0.0
-1989-1990,28,1990-03-03,Liverpool,Millwall,1,0,0.0
-1989-1990,28,1990-03-03,QPR,Arsenal,2,0,0.0
-1989-1990,28,1990-03-03,Southampton,Chelsea,2,3,1.0
-1989-1990,28,1990-03-03,Manchester Utd,Luton Town,4,1,0.0
-1989-1990,28,1990-03-03,Sheffield Weds,Derby County,1,0,0.0
-1989-1990,28,1990-03-03,Charlton Ath,Norwich City,0,1,1.0
-1989-1990,28,1990-03-03,Nott'ham Forest,Manchester City,1,0,0.0
-1989-1990,28,1990-03-03,Tottenham,Crystal Palace,0,1,1.0
-1989-1990,28,1990-03-04,Coventry City,Aston Villa,2,0,0.0
-1989-1990,25,1990-03-07,Arsenal,Nott'ham Forest,3,0,0.0
-1989-1990,25,1990-03-07,Luton Town,Coventry City,3,2,0.0
-1989-1990,24,1990-03-10,Southampton,Derby County,2,1,0.0
-1989-1990,29,1990-03-10,Tottenham,Charlton Ath,3,0,0.0
-1989-1990,29,1990-03-10,Aston Villa,Luton Town,2,0,0.0
-1989-1990,29,1990-03-10,Nott'ham Forest,Coventry City,2,4,1.0
+1989-1990,26,1990-02-27,Southampton,Norwich City,4,1,1.0
+1989-1990,28,1990-03-03,Wimbledon,Everton,3,1,1.0
+1989-1990,28,1990-03-03,Liverpool,Millwall,1,0,1.0
+1989-1990,28,1990-03-03,QPR,Arsenal,2,0,1.0
+1989-1990,28,1990-03-03,Southampton,Chelsea,2,3,0.0
+1989-1990,28,1990-03-03,Manchester Utd,Luton Town,4,1,1.0
+1989-1990,28,1990-03-03,Sheffield Weds,Derby County,1,0,1.0
+1989-1990,28,1990-03-03,Charlton Ath,Norwich City,0,1,0.0
+1989-1990,28,1990-03-03,Nott'ham Forest,Manchester City,1,0,1.0
+1989-1990,28,1990-03-03,Tottenham,Crystal Palace,0,1,0.0
+1989-1990,28,1990-03-04,Coventry City,Aston Villa,2,0,1.0
+1989-1990,25,1990-03-07,Arsenal,Nott'ham Forest,3,0,1.0
+1989-1990,25,1990-03-07,Luton Town,Coventry City,3,2,1.0
+1989-1990,24,1990-03-10,Southampton,Derby County,2,1,1.0
+1989-1990,29,1990-03-10,Tottenham,Charlton Ath,3,0,1.0
+1989-1990,29,1990-03-10,Aston Villa,Luton Town,2,0,1.0
+1989-1990,29,1990-03-10,Nott'ham Forest,Coventry City,2,4,0.0
 1989-1990,29,1990-03-10,Chelsea,Norwich City,0,0,0.5
 1989-1990,29,1990-03-10,Manchester City,Arsenal,1,1,0.5
 1989-1990,26,1990-03-14,Manchester Utd,Everton,0,0,0.5
 1989-1990,27,1990-03-14,Norwich City,Coventry City,0,0,0.5
-1989-1990,30,1990-03-17,Arsenal,Chelsea,0,1,1.0
-1989-1990,30,1990-03-17,Coventry City,Sheffield Weds,1,4,1.0
+1989-1990,30,1990-03-17,Arsenal,Chelsea,0,1,0.0
+1989-1990,30,1990-03-17,Coventry City,Sheffield Weds,1,4,0.0
 1989-1990,30,1990-03-17,Norwich City,Millwall,1,1,0.5
 1989-1990,30,1990-03-17,Luton Town,Manchester City,1,1,0.5
-1989-1990,30,1990-03-17,Everton,Crystal Palace,4,0,0.0
-1989-1990,30,1990-03-17,QPR,Tottenham,3,1,0.0
+1989-1990,30,1990-03-17,Everton,Crystal Palace,4,0,1.0
+1989-1990,30,1990-03-17,QPR,Tottenham,3,1,1.0
 1989-1990,30,1990-03-17,Charlton Ath,Nott'ham Forest,1,1,0.5
-1989-1990,30,1990-03-17,Derby County,Aston Villa,0,1,1.0
+1989-1990,30,1990-03-17,Derby County,Aston Villa,0,1,0.0
 1989-1990,30,1990-03-17,Wimbledon,Southampton,3,3,0.5
-1989-1990,30,1990-03-18,Manchester Utd,Liverpool,1,2,1.0
+1989-1990,30,1990-03-18,Manchester Utd,Liverpool,1,2,0.0
 1989-1990,24,1990-03-20,QPR,Aston Villa,1,1,0.5
 1989-1990,29,1990-03-20,Crystal Palace,Derby County,1,1,0.5
-1989-1990,29,1990-03-21,Millwall,Everton,1,2,1.0
-1989-1990,29,1990-03-21,Sheffield Weds,Manchester Utd,1,0,0.0
-1989-1990,31,1990-03-21,Tottenham,Liverpool,1,0,0.0
+1989-1990,29,1990-03-21,Millwall,Everton,1,2,0.0
+1989-1990,29,1990-03-21,Sheffield Weds,Manchester Utd,1,0,1.0
+1989-1990,31,1990-03-21,Tottenham,Liverpool,1,0,1.0
 1989-1990,31,1990-03-21,Manchester City,Chelsea,1,1,0.5
-1989-1990,31,1990-03-24,Crystal Palace,Aston Villa,1,0,0.0
-1989-1990,31,1990-03-24,Southampton,Manchester Utd,0,2,1.0
-1989-1990,31,1990-03-24,Luton Town,Millwall,2,1,0.0
-1989-1990,31,1990-03-24,Everton,Norwich City,3,1,0.0
-1989-1990,31,1990-03-24,Coventry City,Charlton Ath,1,2,1.0
-1989-1990,31,1990-03-24,QPR,Nott'ham Forest,2,0,0.0
+1989-1990,31,1990-03-24,Crystal Palace,Aston Villa,1,0,1.0
+1989-1990,31,1990-03-24,Southampton,Manchester Utd,0,2,0.0
+1989-1990,31,1990-03-24,Luton Town,Millwall,2,1,1.0
+1989-1990,31,1990-03-24,Everton,Norwich City,3,1,1.0
+1989-1990,31,1990-03-24,Coventry City,Charlton Ath,1,2,0.0
+1989-1990,31,1990-03-24,QPR,Nott'ham Forest,2,0,1.0
 1989-1990,31,1990-03-24,Wimbledon,Sheffield Weds,1,1,0.5
-1989-1990,31,1990-03-24,Derby County,Arsenal,1,3,1.0
-1989-1990,32,1990-03-31,Liverpool,Southampton,3,2,0.0
-1989-1990,32,1990-03-31,Charlton Ath,QPR,1,0,0.0
+1989-1990,31,1990-03-24,Derby County,Arsenal,1,3,0.0
+1989-1990,32,1990-03-31,Liverpool,Southampton,3,2,1.0
+1989-1990,32,1990-03-31,Charlton Ath,QPR,1,0,1.0
 1989-1990,32,1990-03-31,Chelsea,Derby County,1,1,0.5
-1989-1990,32,1990-03-31,Millwall,Crystal Palace,1,2,1.0
-1989-1990,32,1990-03-31,Nott'ham Forest,Wimbledon,0,1,1.0
-1989-1990,32,1990-03-31,Sheffield Weds,Tottenham,2,4,1.0
-1989-1990,32,1990-03-31,Arsenal,Everton,1,0,0.0
-1989-1990,32,1990-03-31,Norwich City,Luton Town,2,0,0.0
-1989-1990,32,1990-03-31,Manchester Utd,Coventry City,3,0,0.0
-1989-1990,32,1990-04-01,Aston Villa,Manchester City,1,2,1.0
-1989-1990,29,1990-04-03,Liverpool,Wimbledon,2,1,0.0
-1989-1990,29,1990-04-03,Southampton,QPR,0,2,1.0
-1989-1990,27,1990-04-04,Everton,Nott'ham Forest,4,0,0.0
-1989-1990,33,1990-04-04,Norwich City,Crystal Palace,2,0,0.0
-1989-1990,33,1990-04-07,Sheffield Weds,Southampton,0,1,1.0
+1989-1990,32,1990-03-31,Millwall,Crystal Palace,1,2,0.0
+1989-1990,32,1990-03-31,Nott'ham Forest,Wimbledon,0,1,0.0
+1989-1990,32,1990-03-31,Sheffield Weds,Tottenham,2,4,0.0
+1989-1990,32,1990-03-31,Arsenal,Everton,1,0,1.0
+1989-1990,32,1990-03-31,Norwich City,Luton Town,2,0,1.0
+1989-1990,32,1990-03-31,Manchester Utd,Coventry City,3,0,1.0
+1989-1990,32,1990-04-01,Aston Villa,Manchester City,1,2,0.0
+1989-1990,29,1990-04-03,Liverpool,Wimbledon,2,1,1.0
+1989-1990,29,1990-04-03,Southampton,QPR,0,2,0.0
+1989-1990,27,1990-04-04,Everton,Nott'ham Forest,4,0,1.0
+1989-1990,33,1990-04-04,Norwich City,Crystal Palace,2,0,1.0
+1989-1990,33,1990-04-07,Sheffield Weds,Southampton,0,1,0.0
 1989-1990,33,1990-04-07,Millwall,Manchester City,1,1,0.5
-1989-1990,33,1990-04-07,Everton,QPR,1,0,0.0
-1989-1990,33,1990-04-07,Coventry City,Derby County,1,0,0.0
-1989-1990,33,1990-04-07,Chelsea,Luton Town,1,0,0.0
-1989-1990,33,1990-04-07,Nott'ham Forest,Tottenham,1,3,1.0
-1989-1990,26,1990-04-11,QPR,Manchester City,1,3,1.0
-1989-1990,33,1990-04-11,Arsenal,Aston Villa,0,1,1.0
-1989-1990,33,1990-04-11,Charlton Ath,Liverpool,0,4,1.0
+1989-1990,33,1990-04-07,Everton,QPR,1,0,1.0
+1989-1990,33,1990-04-07,Coventry City,Derby County,1,0,1.0
+1989-1990,33,1990-04-07,Chelsea,Luton Town,1,0,1.0
+1989-1990,33,1990-04-07,Nott'ham Forest,Tottenham,1,3,0.0
+1989-1990,26,1990-04-11,QPR,Manchester City,1,3,0.0
+1989-1990,33,1990-04-11,Arsenal,Aston Villa,0,1,0.0
+1989-1990,33,1990-04-11,Charlton Ath,Liverpool,0,4,0.0
 1989-1990,34,1990-04-14,Liverpool,Nott'ham Forest,2,2,0.5
 1989-1990,34,1990-04-14,Crystal Palace,Arsenal,1,1,0.5
 1989-1990,34,1990-04-14,Luton Town,Everton,2,2,0.5
-1989-1990,34,1990-04-14,Derby County,Millwall,2,0,0.0
+1989-1990,34,1990-04-14,Derby County,Millwall,2,0,1.0
 1989-1990,34,1990-04-14,Wimbledon,Norwich City,1,1,0.5
-1989-1990,34,1990-04-14,Manchester City,Sheffield Weds,2,1,0.0
-1989-1990,34,1990-04-14,QPR,Manchester Utd,1,2,1.0
-1989-1990,34,1990-04-14,Aston Villa,Chelsea,1,0,0.0
-1989-1990,34,1990-04-14,Southampton,Charlton Ath,3,2,0.0
-1989-1990,34,1990-04-14,Tottenham,Coventry City,3,2,0.0
-1989-1990,35,1990-04-16,Chelsea,Crystal Palace,3,0,0.0
+1989-1990,34,1990-04-14,Manchester City,Sheffield Weds,2,1,1.0
+1989-1990,34,1990-04-14,QPR,Manchester Utd,1,2,0.0
+1989-1990,34,1990-04-14,Aston Villa,Chelsea,1,0,1.0
+1989-1990,34,1990-04-14,Southampton,Charlton Ath,3,2,1.0
+1989-1990,34,1990-04-14,Tottenham,Coventry City,3,2,1.0
+1989-1990,35,1990-04-16,Chelsea,Crystal Palace,3,0,1.0
 1989-1990,35,1990-04-16,Coventry City,QPR,1,1,0.5
-1989-1990,35,1990-04-16,Norwich City,Manchester City,0,1,1.0
-1989-1990,35,1990-04-16,Nott'ham Forest,Luton Town,3,0,0.0
-1989-1990,35,1990-04-16,Millwall,Tottenham,0,1,1.0
-1989-1990,35,1990-04-16,Everton,Derby County,2,1,0.0
-1989-1990,35,1990-04-17,Charlton Ath,Wimbledon,1,2,1.0
-1989-1990,35,1990-04-17,Manchester Utd,Aston Villa,2,0,0.0
+1989-1990,35,1990-04-16,Norwich City,Manchester City,0,1,0.0
+1989-1990,35,1990-04-16,Nott'ham Forest,Luton Town,3,0,1.0
+1989-1990,35,1990-04-16,Millwall,Tottenham,0,1,0.0
+1989-1990,35,1990-04-16,Everton,Derby County,2,1,1.0
+1989-1990,35,1990-04-17,Charlton Ath,Wimbledon,1,2,0.0
+1989-1990,35,1990-04-17,Manchester Utd,Aston Villa,2,0,1.0
 1989-1990,27,1990-04-18,Arsenal,Liverpool,1,1,0.5
-1989-1990,36,1990-04-21,QPR,Sheffield Weds,1,0,0.0
-1989-1990,36,1990-04-21,Luton Town,Arsenal,2,0,0.0
-1989-1990,36,1990-04-21,Southampton,Nott'ham Forest,2,0,0.0
-1989-1990,36,1990-04-21,Crystal Palace,Charlton Ath,2,0,0.0
+1989-1990,36,1990-04-21,QPR,Sheffield Weds,1,0,1.0
+1989-1990,36,1990-04-21,Luton Town,Arsenal,2,0,1.0
+1989-1990,36,1990-04-21,Southampton,Nott'ham Forest,2,0,1.0
+1989-1990,36,1990-04-21,Crystal Palace,Charlton Ath,2,0,1.0
 1989-1990,36,1990-04-21,Wimbledon,Coventry City,0,0,0.5
-1989-1990,36,1990-04-21,Manchester City,Everton,1,0,0.0
-1989-1990,36,1990-04-21,Liverpool,Chelsea,4,1,0.0
-1989-1990,36,1990-04-21,Aston Villa,Millwall,1,0,0.0
-1989-1990,36,1990-04-21,Derby County,Norwich City,0,2,1.0
-1989-1990,36,1990-04-21,Tottenham,Manchester Utd,2,1,0.0
-1989-1990,37,1990-04-28,Manchester City,Derby County,0,1,1.0
-1989-1990,37,1990-04-28,Wimbledon,Tottenham,1,0,0.0
-1989-1990,37,1990-04-28,Southampton,Coventry City,3,0,0.0
-1989-1990,37,1990-04-28,Charlton Ath,Sheffield Weds,1,2,1.0
-1989-1990,37,1990-04-28,Luton Town,Crystal Palace,1,0,0.0
-1989-1990,37,1990-04-28,Arsenal,Millwall,2,0,0.0
-1989-1990,37,1990-04-28,Liverpool,QPR,2,1,0.0
-1989-1990,37,1990-04-28,Chelsea,Everton,2,1,0.0
+1989-1990,36,1990-04-21,Manchester City,Everton,1,0,1.0
+1989-1990,36,1990-04-21,Liverpool,Chelsea,4,1,1.0
+1989-1990,36,1990-04-21,Aston Villa,Millwall,1,0,1.0
+1989-1990,36,1990-04-21,Derby County,Norwich City,0,2,0.0
+1989-1990,36,1990-04-21,Tottenham,Manchester Utd,2,1,1.0
+1989-1990,37,1990-04-28,Manchester City,Derby County,0,1,0.0
+1989-1990,37,1990-04-28,Wimbledon,Tottenham,1,0,1.0
+1989-1990,37,1990-04-28,Southampton,Coventry City,3,0,1.0
+1989-1990,37,1990-04-28,Charlton Ath,Sheffield Weds,1,2,0.0
+1989-1990,37,1990-04-28,Luton Town,Crystal Palace,1,0,1.0
+1989-1990,37,1990-04-28,Arsenal,Millwall,2,0,1.0
+1989-1990,37,1990-04-28,Liverpool,QPR,2,1,1.0
+1989-1990,37,1990-04-28,Chelsea,Everton,2,1,1.0
 1989-1990,37,1990-04-28,Aston Villa,Norwich City,3,3,0.5
 1989-1990,33,1990-04-30,Manchester Utd,Wimbledon,0,0,0.5
-1989-1990,26,1990-05-01,Liverpool,Derby County,1,0,0.0
-1989-1990,26,1990-05-02,Wimbledon,Crystal Palace,0,1,1.0
-1989-1990,35,1990-05-02,Arsenal,Southampton,2,1,0.0
-1989-1990,37,1990-05-02,Nott'ham Forest,Manchester Utd,4,0,0.0
-1989-1990,38,1990-05-05,Tottenham,Southampton,2,1,0.0
-1989-1990,38,1990-05-05,Millwall,Chelsea,1,3,1.0
-1989-1990,38,1990-05-05,Derby County,Luton Town,2,3,1.0
-1989-1990,38,1990-05-05,Sheffield Weds,Nott'ham Forest,0,3,1.0
-1989-1990,38,1990-05-05,QPR,Wimbledon,2,3,1.0
+1989-1990,26,1990-05-01,Liverpool,Derby County,1,0,1.0
+1989-1990,26,1990-05-02,Wimbledon,Crystal Palace,0,1,0.0
+1989-1990,35,1990-05-02,Arsenal,Southampton,2,1,1.0
+1989-1990,37,1990-05-02,Nott'ham Forest,Manchester Utd,4,0,1.0
+1989-1990,38,1990-05-05,Tottenham,Southampton,2,1,1.0
+1989-1990,38,1990-05-05,Millwall,Chelsea,1,3,0.0
+1989-1990,38,1990-05-05,Derby County,Luton Town,2,3,0.0
+1989-1990,38,1990-05-05,Sheffield Weds,Nott'ham Forest,0,3,0.0
+1989-1990,38,1990-05-05,QPR,Wimbledon,2,3,0.0
 1989-1990,38,1990-05-05,Norwich City,Arsenal,2,2,0.5
-1989-1990,38,1990-05-05,Coventry City,Liverpool,1,6,1.0
+1989-1990,38,1990-05-05,Coventry City,Liverpool,1,6,0.0
 1989-1990,38,1990-05-05,Crystal Palace,Manchester City,2,2,0.5
 1989-1990,38,1990-05-05,Everton,Aston Villa,3,3,0.5
-1989-1990,38,1990-05-05,Manchester Utd,Charlton Ath,1,0,0.0
+1989-1990,38,1990-05-05,Manchester Utd,Charlton Ath,1,0,1.0

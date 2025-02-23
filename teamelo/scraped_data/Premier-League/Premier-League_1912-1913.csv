@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1912-1913,1,1912-09-02,Tottenham,Everton,0,2,0.0
+1912-1913,1,1912-09-02,Bolton,Newcastle Utd,1,2,0.0
+1912-1913,1,1912-09-02,Notts County,Manchester City,0,1,0.0
+1912-1913,1,1912-09-02,Aston Villa,Chelsea,1,0,1.0
+1912-1913,1,1912-09-02,Arsenal,Manchester Utd,0,0,0.5
+1912-1913,1,1912-09-02,The Wednesday,Blackburn,2,1,1.0
+1912-1913,1,1912-09-04,West Brom,Middlesbrough,2,0,1.0
+1912-1913,1,1912-09-04,Liverpool,Oldham Athletic,2,0,1.0
+1912-1913,1,1912-09-07,Sheffield Utd,Oldham Athletic,1,1,0.5
+1912-1913,1,1912-09-07,Derby County,Blackburn,1,1,0.5
+1912-1913,2,1912-09-07,Tottenham,The Wednesday,2,4,0.0
+1912-1913,2,1912-09-07,Liverpool,Arsenal,3,0,1.0
+1912-1913,2,1912-09-07,Newcastle Utd,Sunderland,1,1,0.5
+1912-1913,2,1912-09-07,Manchester Utd,Manchester City,0,1,0.0
+1912-1913,2,1912-09-07,Notts County,West Brom,1,1,0.5
+1912-1913,2,1912-09-07,Aston Villa,Bradford City,3,1,1.0
+1912-1913,2,1912-09-07,Bolton,Chelsea,1,0,1.0
+1912-1913,2,1912-09-07,Middlesbrough,Everton,0,0,0.5
+1912-1913,3,1912-09-09,Chelsea,Liverpool,1,2,0.0
+1912-1913,3,1912-09-09,Oldham Athletic,Aston Villa,2,2,0.5
+1912-1913,3,1912-09-09,Blackburn,Sunderland,4,0,1.0
+1912-1913,3,1912-09-11,Newcastle Utd,Bolton,2,1,1.0
+1912-1913,2,1912-09-14,Sunderland,Derby County,0,2,0.0
+1912-1913,2,1912-09-14,Chelsea,Sheffield Utd,4,2,1.0
+1912-1913,3,1912-09-14,Blackburn,Tottenham,6,1,1.0
+1912-1913,3,1912-09-14,The Wednesday,Middlesbrough,3,1,1.0
+1912-1913,3,1912-09-14,Everton,Notts County,4,0,1.0
+1912-1913,3,1912-09-14,West Brom,Manchester Utd,1,2,0.0
+1912-1913,3,1912-09-14,Arsenal,Bolton,1,2,0.0
+1912-1913,4,1912-09-14,Manchester City,Aston Villa,1,0,1.0
+1912-1913,4,1912-09-14,Oldham Athletic,Newcastle Utd,1,0,1.0
+1912-1913,4,1912-09-14,Bradford City,Liverpool,2,0,1.0
+1912-1913,4,1912-09-16,Arsenal,Aston Villa,0,3,0.0
+1912-1913,3,1912-09-18,Derby County,Everton,1,4,0.0
+1912-1913,5,1912-09-18,Sunderland,Blackburn,2,4,0.0
+1912-1913,4,1912-09-21,Notts County,The Wednesday,1,2,0.0
+1912-1913,4,1912-09-21,Middlesbrough,Blackburn,0,0,0.5
+1912-1913,4,1912-09-21,Tottenham,Derby County,1,2,0.0
+1912-1913,4,1912-09-21,Manchester Utd,Everton,2,0,1.0
+1912-1913,5,1912-09-21,Oldham Athletic,Sunderland,3,0,1.0
+1912-1913,5,1912-09-21,Liverpool,Manchester City,1,2,0.0
+1912-1913,5,1912-09-21,Bolton,Bradford City,2,0,1.0
+1912-1913,5,1912-09-21,Newcastle Utd,Chelsea,3,2,1.0
+1912-1913,5,1912-09-21,Sheffield Utd,Arsenal,1,3,0.0
+1912-1913,6,1912-09-21,Aston Villa,West Brom,2,4,0.0
+1912-1913,4,1912-09-28,Bradford City,Sheffield Utd,3,1,1.0
+1912-1913,5,1912-09-28,Blackburn,Notts County,2,1,1.0
+1912-1913,5,1912-09-28,The Wednesday,Manchester Utd,3,3,0.5
+1912-1913,5,1912-09-28,Sunderland,Tottenham,2,2,0.5
+1912-1913,5,1912-09-28,Derby County,Middlesbrough,0,2,0.0
+1912-1913,6,1912-09-28,West Brom,Liverpool,3,1,1.0
+1912-1913,6,1912-09-28,Manchester City,Bolton,2,0,1.0
+1912-1913,6,1912-09-28,Arsenal,Newcastle Utd,1,1,0.5
+1912-1913,6,1912-09-28,Chelsea,Oldham Athletic,1,1,0.5
+1912-1913,7,1912-09-28,Everton,Aston Villa,0,1,0.0
+1912-1913,5,1912-10-05,Sheffield Utd,Manchester City,1,1,0.5
+1912-1913,6,1912-10-05,Manchester Utd,Blackburn,1,1,0.5
+1912-1913,6,1912-10-05,Notts County,Derby County,0,1,0.0
+1912-1913,6,1912-10-05,Middlesbrough,Tottenham,1,1,0.5
+1912-1913,7,1912-10-05,Newcastle Utd,Bradford City,1,1,0.5
+1912-1913,7,1912-10-05,Liverpool,Everton,0,2,0.0
+1912-1913,7,1912-10-05,Chelsea,Sunderland,2,0,1.0
+1912-1913,7,1912-10-05,Oldham Athletic,Arsenal,0,0,0.5
+1912-1913,7,1912-10-05,Bolton,West Brom,2,1,1.0
+1912-1913,8,1912-10-05,Aston Villa,The Wednesday,10,0,1.0
+1912-1913,7,1912-10-12,West Brom,Sheffield Utd,3,1,1.0
+1912-1913,7,1912-10-12,Derby County,Manchester Utd,2,1,1.0
+1912-1913,7,1912-10-12,Sunderland,Middlesbrough,4,0,1.0
+1912-1913,7,1912-10-12,The Wednesday,Liverpool,1,0,1.0
+1912-1913,8,1912-10-12,Everton,Bolton,2,3,0.0
+1912-1913,8,1912-10-12,Bradford City,Oldham Athletic,0,0,0.5
+1912-1913,8,1912-10-12,Arsenal,Chelsea,0,1,0.0
+1912-1913,8,1912-10-12,Manchester City,Newcastle Utd,0,1,0.0
+1912-1913,9,1912-10-12,Blackburn,Aston Villa,2,2,0.5
+1912-1913,9,1912-10-14,Sheffield Utd,Liverpool,4,1,1.0
+1912-1913,7,1912-10-19,Notts County,Middlesbrough,1,3,0.0
+1912-1913,7,1912-10-19,Manchester Utd,Tottenham,2,0,1.0
+1912-1913,8,1912-10-19,Newcastle Utd,West Brom,1,1,0.5
+1912-1913,8,1912-10-19,Sheffield Utd,Everton,4,1,1.0
+1912-1913,9,1912-10-19,Chelsea,Bradford City,0,3,0.0
+1912-1913,9,1912-10-19,Arsenal,Sunderland,1,3,0.0
+1912-1913,9,1912-10-19,Bolton,The Wednesday,3,0,1.0
+1912-1913,9,1912-10-19,Oldham Athletic,Manchester City,2,1,1.0
+1912-1913,10,1912-10-19,Liverpool,Blackburn,4,1,1.0
+1912-1913,10,1912-10-19,Aston Villa,Derby County,5,1,1.0
+1912-1913,8,1912-10-26,Sunderland,Notts County,4,0,1.0
+1912-1913,9,1912-10-26,The Wednesday,Sheffield Utd,1,0,1.0
+1912-1913,9,1912-10-26,West Brom,Oldham Athletic,2,3,0.0
+1912-1913,9,1912-10-26,Middlesbrough,Manchester Utd,3,2,1.0
+1912-1913,10,1912-10-26,Manchester City,Chelsea,2,0,1.0
+1912-1913,10,1912-10-26,Blackburn,Bolton,6,0,1.0
+1912-1913,10,1912-10-26,Everton,Newcastle Utd,0,6,0.0
+1912-1913,10,1912-10-26,Bradford City,Arsenal,3,1,1.0
+1912-1913,11,1912-10-26,Derby County,Liverpool,4,2,1.0
+1912-1913,11,1912-10-26,Tottenham,Aston Villa,3,3,0.5
+1912-1913,9,1912-11-02,Liverpool,Tottenham,4,1,1.0
+1912-1913,9,1912-11-02,Bradford City,Sunderland,1,5,0.0
+1912-1913,9,1912-11-02,Manchester Utd,Notts County,2,1,1.0
+1912-1913,10,1912-11-02,Chelsea,West Brom,0,2,0.0
+1912-1913,10,1912-11-02,Sheffield Utd,Blackburn,0,0,0.5
+1912-1913,10,1912-11-02,Newcastle Utd,The Wednesday,1,0,1.0
+1912-1913,11,1912-11-02,Oldham Athletic,Everton,2,0,1.0
+1912-1913,11,1912-11-02,Bolton,Derby County,1,1,0.5
+1912-1913,11,1912-11-02,Arsenal,Manchester City,0,4,0.0
+1912-1913,12,1912-11-02,Aston Villa,Middlesbrough,5,1,1.0
+1912-1913,10,1912-11-04,Tottenham,Notts County,0,3,0.0
+1912-1913,10,1912-11-09,Manchester City,Bradford City,1,3,0.0
+1912-1913,11,1912-11-09,Sunderland,Manchester Utd,3,1,1.0
+1912-1913,11,1912-11-09,Derby County,Sheffield Utd,5,1,1.0
+1912-1913,11,1912-11-09,The Wednesday,Oldham Athletic,5,0,1.0
+1912-1913,12,1912-11-09,Everton,Chelsea,1,0,1.0
+1912-1913,12,1912-11-09,Tottenham,Bolton,0,1,0.0
+1912-1913,12,1912-11-09,West Brom,Arsenal,2,1,1.0
+1912-1913,12,1912-11-09,Blackburn,Newcastle Utd,2,0,1.0
+1912-1913,13,1912-11-09,Notts County,Aston Villa,1,1,0.5
+1912-1913,13,1912-11-09,Middlesbrough,Liverpool,3,4,0.0
+1912-1913,12,1912-11-16,Bradford City,West Brom,1,1,0.5
+1912-1913,12,1912-11-16,Manchester City,Sunderland,1,0,1.0
+1912-1913,12,1912-11-16,Liverpool,Notts County,0,0,0.5
+1912-1913,12,1912-11-16,Chelsea,The Wednesday,0,4,0.0
+1912-1913,12,1912-11-16,Newcastle Utd,Derby County,2,4,0.0
+1912-1913,12,1912-11-16,Sheffield Utd,Tottenham,4,0,1.0
+1912-1913,13,1912-11-16,Bolton,Middlesbrough,3,2,1.0
+1912-1913,13,1912-11-16,Arsenal,Everton,0,0,0.5
+1912-1913,14,1912-11-16,Aston Villa,Manchester Utd,4,2,1.0
+1912-1913,12,1912-11-23,Everton,Bradford City,2,1,1.0
+1912-1913,13,1912-11-23,West Brom,Manchester City,0,2,0.0
+1912-1913,13,1912-11-23,Derby County,Oldham Athletic,1,2,0.0
+1912-1913,13,1912-11-23,Tottenham,Newcastle Utd,1,0,1.0
+1912-1913,13,1912-11-23,Middlesbrough,Sheffield Utd,4,1,1.0
+1912-1913,14,1912-11-23,Notts County,Bolton,1,0,1.0
+1912-1913,14,1912-11-23,The Wednesday,Arsenal,2,0,1.0
+1912-1913,14,1912-11-23,Blackburn,Chelsea,1,1,0.5
+1912-1913,15,1912-11-23,Sunderland,Aston Villa,3,1,1.0
+1912-1913,15,1912-11-23,Manchester Utd,Liverpool,3,1,1.0
+1912-1913,14,1912-11-30,Chelsea,Derby County,3,1,1.0
+1912-1913,14,1912-11-30,Bradford City,The Wednesday,0,0,0.5
+1912-1913,14,1912-11-30,Newcastle Utd,Middlesbrough,3,1,1.0
+1912-1913,14,1912-11-30,West Brom,Sunderland,3,1,1.0
+1912-1913,14,1912-11-30,Oldham Athletic,Tottenham,4,1,1.0
+1912-1913,14,1912-11-30,Sheffield Utd,Notts County,2,0,1.0
+1912-1913,15,1912-11-30,Manchester City,Everton,1,0,1.0
+1912-1913,15,1912-11-30,Arsenal,Blackburn,0,1,0.0
+1912-1913,15,1912-11-30,Bolton,Manchester Utd,2,1,1.0
+1912-1913,16,1912-11-30,Liverpool,Aston Villa,2,0,1.0
+1912-1913,15,1912-12-07,Middlesbrough,Oldham Athletic,2,2,0.5
+1912-1913,15,1912-12-07,Tottenham,Chelsea,1,0,1.0
+1912-1913,15,1912-12-07,Notts County,Newcastle Utd,0,1,0.0
+1912-1913,15,1912-12-07,The Wednesday,Manchester City,1,0,1.0
+1912-1913,15,1912-12-07,Manchester Utd,Sheffield Utd,4,0,1.0
+1912-1913,15,1912-12-07,Everton,West Brom,1,3,0.0
+1912-1913,16,1912-12-07,Blackburn,Bradford City,5,0,1.0
+1912-1913,16,1912-12-07,Derby County,Arsenal,4,1,1.0
+1912-1913,17,1912-12-07,Sunderland,Liverpool,7,0,1.0
+1912-1913,17,1912-12-07,Aston Villa,Bolton,1,1,0.5
+1912-1913,16,1912-12-14,Oldham Athletic,Notts County,4,0,1.0
+1912-1913,16,1912-12-14,Bradford City,Derby County,2,3,0.0
+1912-1913,16,1912-12-14,West Brom,The Wednesday,1,1,0.5
+1912-1913,16,1912-12-14,Chelsea,Middlesbrough,2,3,0.0
+1912-1913,16,1912-12-14,Newcastle Utd,Manchester Utd,1,3,0.0
+1912-1913,17,1912-12-14,Bolton,Liverpool,1,1,0.5
+1912-1913,17,1912-12-14,Arsenal,Tottenham,0,3,0.0
+1912-1913,17,1912-12-14,Everton,Sunderland,0,4,0.0
+1912-1913,17,1912-12-14,Manchester City,Blackburn,3,1,1.0
+1912-1913,18,1912-12-14,Sheffield Utd,Aston Villa,3,2,1.0
+1912-1913,17,1912-12-21,The Wednesday,Everton,1,2,0.0
+1912-1913,17,1912-12-21,Blackburn,West Brom,2,4,0.0
+1912-1913,17,1912-12-21,Derby County,Manchester City,2,0,1.0
+1912-1913,17,1912-12-21,Tottenham,Bradford City,2,1,1.0
+1912-1913,17,1912-12-21,Notts County,Chelsea,0,0,0.5
+1912-1913,17,1912-12-21,Manchester Utd,Oldham Athletic,0,0,0.5
+1912-1913,18,1912-12-21,Sunderland,Bolton,2,1,1.0
+1912-1913,18,1912-12-21,Middlesbrough,Arsenal,2,0,1.0
+1912-1913,19,1912-12-21,Liverpool,Sheffield Utd,2,2,0.5
+1912-1913,19,1912-12-21,Aston Villa,Newcastle Utd,3,1,1.0
+1912-1913,18,1912-12-25,Derby County,West Brom,1,2,0.0
+1912-1913,18,1912-12-25,Chelsea,Manchester Utd,1,4,0.0
+1912-1913,18,1912-12-25,The Wednesday,Sunderland,1,2,0.0
+1912-1913,18,1912-12-25,Manchester City,Tottenham,2,2,0.5
+1912-1913,19,1912-12-25,Everton,Blackburn,2,1,1.0
+1912-1913,19,1912-12-25,Newcastle Utd,Sheffield Utd,1,2,0.0
+1912-1913,19,1912-12-25,Arsenal,Notts County,0,0,0.5
+1912-1913,18,1912-12-26,Middlesbrough,Bradford City,1,1,0.5
+1912-1913,19,1912-12-26,Manchester Utd,Chelsea,4,2,1.0
+1912-1913,19,1912-12-26,Tottenham,Manchester City,4,0,1.0
+1912-1913,19,1912-12-26,Sunderland,The Wednesday,0,2,0.0
+1912-1913,19,1912-12-26,West Brom,Derby County,0,0,0.5
+1912-1913,19,1912-12-26,Sheffield Utd,Bolton,0,2,0.0
+1912-1913,20,1912-12-26,Blackburn,Everton,1,2,0.0
+1912-1913,20,1912-12-26,Liverpool,Newcastle Utd,2,1,1.0
+1912-1913,20,1912-12-26,Notts County,Arsenal,2,1,1.0
+1912-1913,20,1912-12-26,Aston Villa,Oldham Athletic,7,1,1.0
+1912-1913,19,1912-12-28,Everton,Middlesbrough,1,0,1.0
+1912-1913,20,1912-12-28,Manchester City,Manchester Utd,0,2,0.0
+1912-1913,20,1912-12-28,West Brom,Notts County,2,0,1.0
+1912-1913,20,1912-12-28,Blackburn,Derby County,0,1,0.0
+1912-1913,20,1912-12-28,Chelsea,Bolton,2,3,0.0
+1912-1913,20,1912-12-28,Oldham Athletic,Sheffield Utd,2,0,1.0
+1912-1913,20,1912-12-28,The Wednesday,Tottenham,2,1,1.0
+1912-1913,21,1912-12-28,Sunderland,Newcastle Utd,2,0,1.0
+1912-1913,21,1912-12-28,Arsenal,Liverpool,1,1,0.5
+1912-1913,21,1912-12-28,Bradford City,Aston Villa,1,1,0.5
+1912-1913,22,1912-12-30,Sheffield Utd,Newcastle Utd,1,1,0.5
+1912-1913,21,1913-01-01,Middlesbrough,West Brom,3,1,1.0
+1912-1913,21,1913-01-01,Bolton,Sheffield Utd,4,2,1.0
+1912-1913,21,1913-01-01,Manchester Utd,Bradford City,2,0,1.0
+1912-1913,21,1913-01-01,Everton,Tottenham,1,2,0.0
+1912-1913,21,1913-01-01,The Wednesday,Derby County,3,3,0.5
+1912-1913,22,1913-01-01,Oldham Athletic,Blackburn,0,0,0.5
+1912-1913,22,1913-01-01,Sunderland,Arsenal,4,1,1.0
+1912-1913,22,1913-01-01,Newcastle Utd,Liverpool,0,0,0.5
+1912-1913,21,1913-01-02,Manchester City,Notts County,4,0,1.0
+1912-1913,22,1913-01-04,Manchester Utd,West Brom,1,1,0.5
+1912-1913,22,1913-01-04,Aston Villa,Manchester City,2,0,1.0
+1912-1913,22,1913-01-04,Notts County,Everton,0,1,0.0
+1912-1913,22,1913-01-04,Middlesbrough,The Wednesday,0,2,0.0
+1912-1913,22,1913-01-04,Tottenham,Blackburn,0,1,0.0
+1912-1913,23,1913-01-04,Liverpool,Bradford City,2,1,1.0
+1912-1913,23,1913-01-04,Sheffield Utd,Chelsea,3,3,0.5
+1912-1913,23,1913-01-04,Bolton,Arsenal,5,1,1.0
+1912-1913,24,1913-01-04,Newcastle Utd,Oldham Athletic,4,1,1.0
+1912-1913,22,1913-01-18,Sunderland,Oldham Athletic,1,1,0.5
+1912-1913,23,1913-01-18,The Wednesday,Notts County,3,1,1.0
+1912-1913,23,1913-01-18,Bradford City,Bolton,4,1,1.0
+1912-1913,23,1913-01-18,Derby County,Tottenham,5,0,1.0
+1912-1913,23,1913-01-18,West Brom,Aston Villa,2,2,0.5
+1912-1913,23,1913-01-18,Everton,Manchester Utd,4,1,1.0
+1912-1913,24,1913-01-18,Arsenal,Sheffield Utd,1,3,0.0
+1912-1913,24,1913-01-18,Manchester City,Liverpool,4,1,1.0
+1912-1913,25,1913-01-18,Chelsea,Newcastle Utd,1,0,1.0
+1912-1913,23,1913-01-25,Middlesbrough,Derby County,4,1,1.0
+1912-1913,24,1913-01-25,Manchester Utd,The Wednesday,2,0,1.0
+1912-1913,24,1913-01-25,Bolton,Manchester City,2,2,0.5
+1912-1913,24,1913-01-25,Oldham Athletic,Chelsea,3,2,1.0
+1912-1913,24,1913-01-25,Aston Villa,Everton,1,1,0.5
+1912-1913,24,1913-01-25,Tottenham,Sunderland,1,2,0.0
+1912-1913,24,1913-01-25,Notts County,Blackburn,3,1,1.0
+1912-1913,25,1913-01-25,Sheffield Utd,Bradford City,3,2,1.0
+1912-1913,25,1913-01-25,Liverpool,West Brom,2,1,1.0
+1912-1913,25,1913-01-25,Newcastle Utd,Arsenal,3,1,1.0
+1912-1913,23,1913-02-04,Bradford City,Middlesbrough,1,2,0.0
+1912-1913,25,1913-02-08,West Brom,Bolton,2,2,0.5
+1912-1913,25,1913-02-08,The Wednesday,Aston Villa,1,1,0.5
+1912-1913,25,1913-02-08,Blackburn,Manchester Utd,0,0,0.5
+1912-1913,25,1913-02-08,Sunderland,Chelsea,4,0,1.0
+1912-1913,25,1913-02-08,Tottenham,Middlesbrough,5,3,1.0
+1912-1913,25,1913-02-08,Derby County,Notts County,1,0,1.0
+1912-1913,26,1913-02-08,Manchester City,Sheffield Utd,3,0,1.0
+1912-1913,26,1913-02-08,Everton,Liverpool,0,2,0.0
+1912-1913,26,1913-02-08,Arsenal,Oldham Athletic,0,0,0.5
+1912-1913,27,1913-02-08,Bradford City,Newcastle Utd,2,0,1.0
+1912-1913,25,1913-02-10,Blackburn,Middlesbrough,5,2,1.0
+1912-1913,27,1913-02-10,Oldham Athletic,Liverpool,3,1,1.0
+1912-1913,25,1913-02-15,Manchester Utd,Derby County,4,0,1.0
+1912-1913,26,1913-02-15,Aston Villa,Blackburn,1,1,0.5
+1912-1913,26,1913-02-15,Notts County,Tottenham,0,1,0.0
+1912-1913,26,1913-02-15,Sheffield Utd,West Brom,1,0,1.0
+1912-1913,26,1913-02-15,Oldham Athletic,Bradford City,0,0,0.5
+1912-1913,26,1913-02-15,Bolton,Everton,0,0,0.5
+1912-1913,26,1913-02-15,Liverpool,The Wednesday,2,1,1.0
+1912-1913,26,1913-02-15,Middlesbrough,Sunderland,0,2,0.0
+1912-1913,27,1913-02-15,Chelsea,Arsenal,1,1,0.5
+1912-1913,28,1913-02-15,Newcastle Utd,Manchester City,0,1,0.0
+1912-1913,27,1913-02-22,Tottenham,Sheffield Utd,1,0,1.0
+1912-1913,27,1913-02-22,Bradford City,Chelsea,2,2,0.5
+1912-1913,27,1913-02-24,The Wednesday,Bolton,2,2,0.5
+1912-1913,26,1913-02-26,Derby County,Sunderland,0,3,0.0
+1912-1913,27,1913-03-01,Manchester Utd,Middlesbrough,2,3,0.0
+1912-1913,27,1913-03-01,Oldham Athletic,West Brom,0,0,0.5
+1912-1913,27,1913-03-01,Aston Villa,Tottenham,1,0,1.0
+1912-1913,27,1913-03-01,Notts County,Sunderland,2,1,1.0
+1912-1913,28,1913-03-01,Bolton,Blackburn,1,1,0.5
+1912-1913,28,1913-03-01,Arsenal,Bradford City,1,1,0.5
+1912-1913,28,1913-03-01,Sheffield Utd,The Wednesday,0,2,0.0
+1912-1913,28,1913-03-01,Chelsea,Manchester City,2,1,1.0
+1912-1913,29,1913-03-01,Newcastle Utd,Everton,2,0,1.0
+1912-1913,29,1913-03-01,Liverpool,Derby County,2,1,1.0
+1912-1913,28,1913-03-08,Notts County,Manchester Utd,1,2,0.0
+1912-1913,28,1913-03-08,West Brom,Chelsea,0,1,0.0
+1912-1913,29,1913-03-08,Tottenham,Liverpool,1,0,1.0
+1912-1913,29,1913-03-08,Manchester City,Arsenal,0,1,0.0
+1912-1913,29,1913-03-08,Derby County,Bolton,3,3,0.5
+1912-1913,31,1913-03-10,Blackburn,Liverpool,5,1,1.0
+1912-1913,28,1913-03-12,Derby County,Aston Villa,0,1,0.0
+1912-1913,28,1913-03-12,Manchester City,Oldham Athletic,2,0,1.0
+1912-1913,30,1913-03-12,Everton,Sheffield Utd,0,1,0.0
+1912-1913,28,1913-03-15,Bradford City,Manchester City,2,1,1.0
+1912-1913,29,1913-03-15,Oldham Athletic,The Wednesday,2,0,1.0
+1912-1913,29,1913-03-15,Manchester Utd,Sunderland,1,3,0.0
+1912-1913,29,1913-03-15,Aston Villa,Notts County,1,0,1.0
+1912-1913,30,1913-03-15,Arsenal,West Brom,1,0,1.0
+1912-1913,30,1913-03-15,Bolton,Tottenham,2,0,1.0
+1912-1913,30,1913-03-15,Sheffield Utd,Derby County,4,1,1.0
+1912-1913,30,1913-03-15,Chelsea,Everton,1,3,0.0
+1912-1913,30,1913-03-15,Newcastle Utd,Blackburn,0,1,0.0
+1912-1913,32,1913-03-15,Liverpool,Middlesbrough,4,2,1.0
+1912-1913,29,1913-03-21,Middlesbrough,Manchester City,0,0,0.5
+1912-1913,30,1913-03-21,Blackburn,The Wednesday,0,1,0.0
+1912-1913,30,1913-03-21,Bradford City,Notts County,1,0,1.0
+1912-1913,30,1913-03-21,Chelsea,Aston Villa,1,2,0.0
+1912-1913,31,1913-03-21,Everton,Derby County,2,2,0.5
+1912-1913,31,1913-03-21,Manchester Utd,Arsenal,2,0,1.0
+1912-1913,31,1913-03-21,Bolton,Oldham Athletic,3,0,1.0
+1912-1913,31,1913-03-21,Tottenham,West Brom,3,1,1.0
+1912-1913,32,1913-03-21,Sunderland,Sheffield Utd,1,0,1.0
+1912-1913,31,1913-03-22,Manchester Utd,Aston Villa,4,0,1.0
+1912-1913,31,1913-03-22,The Wednesday,Chelsea,3,2,1.0
+1912-1913,31,1913-03-22,West Brom,Bradford City,1,1,0.5
+1912-1913,31,1913-03-22,Notts County,Liverpool,3,0,1.0
+1912-1913,32,1913-03-22,Derby County,Newcastle Utd,2,1,1.0
+1912-1913,32,1913-03-22,Sunderland,Manchester City,1,0,1.0
+1912-1913,32,1913-03-22,Blackburn,Oldham Athletic,7,1,1.0
+1912-1913,32,1913-03-22,Everton,Arsenal,3,0,1.0
+1912-1913,32,1913-03-22,Middlesbrough,Bolton,4,0,1.0
+1912-1913,31,1913-03-24,Manchester City,Middlesbrough,3,0,1.0
+1912-1913,32,1913-03-24,Derby County,The Wednesday,1,4,0.0
+1912-1913,32,1913-03-24,Notts County,Bradford City,1,1,0.5
+1912-1913,32,1913-03-24,West Brom,Tottenham,4,1,1.0
+1912-1913,33,1913-03-24,Sheffield Utd,Sunderland,1,3,0.0
+1912-1913,33,1913-03-24,Aston Villa,Arsenal,4,1,1.0
+1912-1913,34,1913-03-24,Liverpool,Chelsea,1,2,0.0
+1912-1913,32,1913-03-25,Bradford City,Manchester Utd,1,0,1.0
+1912-1913,33,1913-03-25,Oldham Athletic,Bolton,2,3,0.0
+1912-1913,33,1913-03-29,Chelsea,Blackburn,1,6,0.0
+1912-1913,33,1913-03-29,Manchester City,West Brom,2,1,1.0
+1912-1913,33,1913-03-29,Bradford City,Everton,4,1,1.0
+1912-1913,33,1913-03-29,Newcastle Utd,Tottenham,3,0,1.0
+1912-1913,34,1913-03-29,Arsenal,The Wednesday,2,5,0.0
+1912-1913,34,1913-03-29,Bolton,Notts County,0,0,0.5
+1912-1913,35,1913-03-29,Liverpool,Manchester Utd,0,2,0.0
+1912-1913,32,1913-03-31,Sheffield Utd,Middlesbrough,1,0,1.0
+1912-1913,34,1913-03-31,Tottenham,Manchester Utd,1,1,0.5
+1912-1913,33,1913-04-02,Everton,Oldham Athletic,2,3,0.0
+1912-1913,34,1913-04-02,Middlesbrough,Notts County,1,1,0.5
+1912-1913,33,1913-04-05,Aston Villa,Liverpool,1,3,0.0
+1912-1913,34,1913-04-05,Derby County,Chelsea,3,1,1.0
+1912-1913,34,1913-04-05,Sunderland,West Brom,3,1,1.0
+1912-1913,34,1913-04-05,The Wednesday,Bradford City,6,0,1.0
+1912-1913,34,1913-04-05,Middlesbrough,Newcastle Utd,0,0,0.5
+1912-1913,35,1913-04-05,Manchester Utd,Bolton,2,1,1.0
+1912-1913,35,1913-04-05,Blackburn,Arsenal,1,1,0.5
+1912-1913,35,1913-04-05,Notts County,Sheffield Utd,0,1,0.0
+1912-1913,35,1913-04-05,Tottenham,Oldham Athletic,1,0,1.0
+1912-1913,35,1913-04-05,Everton,Manchester City,0,0,0.5
+1912-1913,36,1913-04-07,Blackburn,Sheffield Utd,3,1,1.0
+1912-1913,34,1913-04-09,Middlesbrough,Aston Villa,1,1,0.5
+1912-1913,35,1913-04-09,West Brom,Newcastle Utd,1,0,1.0
+1912-1913,36,1913-04-09,Sunderland,Everton,3,1,1.0
+1912-1913,35,1913-04-12,Manchester City,The Wednesday,2,2,0.5
+1912-1913,35,1913-04-12,Bolton,Aston Villa,2,3,0.0
+1912-1913,36,1913-04-12,Oldham Athletic,Middlesbrough,1,0,1.0
+1912-1913,36,1913-04-12,Bradford City,Blackburn,0,2,0.0
+1912-1913,36,1913-04-12,Newcastle Utd,Notts County,0,0,0.5
+1912-1913,36,1913-04-12,Arsenal,Derby County,1,2,0.0
+1912-1913,36,1913-04-12,Chelsea,Tottenham,1,0,1.0
+1912-1913,36,1913-04-12,Sheffield Utd,Manchester Utd,2,1,1.0
+1912-1913,36,1913-04-12,West Brom,Everton,0,0,0.5
+1912-1913,37,1913-04-12,Liverpool,Sunderland,2,5,0.0
+1912-1913,36,1913-04-14,The Wednesday,Newcastle Utd,1,2,0.0
+1912-1913,36,1913-04-15,Oldham Athletic,Derby County,2,2,0.5
+1912-1913,37,1913-04-19,Middlesbrough,Chelsea,0,3,0.0
+1912-1913,37,1913-04-19,Liverpool,Bolton,5,0,1.0
+1912-1913,37,1913-04-19,Derby County,Bradford City,4,0,1.0
+1912-1913,37,1913-04-19,Blackburn,Manchester City,2,2,0.5
+1912-1913,37,1913-04-19,Tottenham,Arsenal,1,1,0.5
+1912-1913,37,1913-04-19,Notts County,Oldham Athletic,2,1,1.0
+1912-1913,37,1913-04-19,Manchester Utd,Newcastle Utd,3,0,1.0
+1912-1913,37,1913-04-19,The Wednesday,West Brom,3,2,1.0
+1912-1913,36,1913-04-23,Aston Villa,Sunderland,1,1,0.5
+1912-1913,37,1913-04-26,Newcastle Utd,Aston Villa,2,3,0.0
+1912-1913,38,1913-04-26,Manchester City,Derby County,1,1,0.5
+1912-1913,38,1913-04-26,Chelsea,Notts County,5,2,1.0
+1912-1913,38,1913-04-26,West Brom,Blackburn,1,1,0.5
+1912-1913,38,1913-04-26,Everton,The Wednesday,3,1,1.0
+1912-1913,38,1913-04-26,Oldham Athletic,Manchester Utd,0,0,0.5
+1912-1913,38,1913-04-26,Bolton,Sunderland,1,3,0.0
+1912-1913,38,1913-04-26,Arsenal,Middlesbrough,1,1,0.5
+1912-1913,38,1913-04-26,Bradford City,Tottenham,3,1,1.0
+1912-1913,38,1913-04-28,Aston Villa,Sheffield Utd,4,2,1.0
+1912-1913,38,1913-04-30,Sunderland,Bradford City,1,0,1.0

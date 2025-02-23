@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2018,1,2018-04-01,Hammarby,Sirius,3,1,1.0
+2018,1,2018-04-01,Häcken,Kalmar,1,0,1.0
+2018,1,2018-04-01,Östersund,Djurgården,0,1,0.0
+2018,1,2018-04-01,Trelleborg,Göteborg,1,3,0.0
+2018,1,2018-04-02,Norrköping,Brommapojkarna,2,1,1.0
+2018,1,2018-04-02,AIK Stockholm,Dalkurd,2,0,1.0
+2018,1,2018-04-02,Elfsborg,Malmö,1,2,0.0
+2018,1,2018-04-02,Sundsvall,Örebro,0,0,0.5
+2018,2,2018-04-07,Örebro,Norrköping,1,1,0.5
+2018,2,2018-04-08,Kalmar,Elfsborg,1,0,1.0
+2018,2,2018-04-08,Djurgården,Trelleborg,1,1,0.5
+2018,2,2018-04-08,Dalkurd,Östersund,3,0,1.0
+2018,2,2018-04-09,Malmö,AIK Stockholm,1,1,0.5
+2018,2,2018-04-09,Brommapojkarna,Häcken,2,0,1.0
+2018,2,2018-04-10,Göteborg,Hammarby,1,2,0.0
+2018,3,2018-04-13,Trelleborg,Örebro,1,2,0.0
+2018,3,2018-04-13,Sundsvall,Malmö,2,2,0.5
+2018,3,2018-04-14,Elfsborg,Sirius,0,1,0.0
+2018,3,2018-04-14,Häcken,Dalkurd,3,0,1.0
+2018,3,2018-04-15,AIK Stockholm,Djurgården,2,0,1.0
+2018,3,2018-04-15,Norrköping,Kalmar,3,1,1.0
+2018,3,2018-04-15,Östersund,Göteborg,2,1,1.0
+2018,3,2018-04-16,Hammarby,Brommapojkarna,4,0,1.0
+2018,4,2018-04-17,Sundsvall,Trelleborg,1,0,1.0
+2018,4,2018-04-18,Kalmar,Östersund,1,1,0.5
+2018,4,2018-04-18,Sirius,Häcken,0,0,0.5
+2018,4,2018-04-18,Djurgården,Malmö,3,0,1.0
+2018,4,2018-04-18,Örebro,AIK Stockholm,1,1,0.5
+2018,4,2018-04-19,Göteborg,Dalkurd,1,0,1.0
+2018,4,2018-04-19,Brommapojkarna,Elfsborg,0,2,0.0
+2018,4,2018-04-19,Hammarby,Norrköping,2,1,1.0
+2018,5,2018-04-21,Östersund,Örebro,0,2,0.0
+2018,5,2018-04-22,Häcken,Hammarby,2,2,0.5
+2018,5,2018-04-22,Dalkurd,Sundsvall,2,2,0.5
+2018,5,2018-04-22,AIK Stockholm,Göteborg,2,0,1.0
+2018,5,2018-04-22,Trelleborg,Kalmar,0,1,0.0
+2018,5,2018-04-23,Elfsborg,Djurgården,2,2,0.5
+2018,5,2018-04-23,Norrköping,Sirius,1,0,1.0
+2018,5,2018-04-23,Malmö,Brommapojkarna,3,1,1.0
+2018,6,2018-04-27,AIK Stockholm,Sirius,2,0,1.0
+2018,6,2018-04-28,Göteborg,Häcken,2,1,1.0
+2018,6,2018-04-29,Sundsvall,Elfsborg,2,1,1.0
+2018,6,2018-04-29,Djurgården,Hammarby,1,2,0.0
+2018,6,2018-04-29,Norrköping,Trelleborg,1,2,0.0
+2018,6,2018-04-29,Kalmar,Malmö,3,0,1.0
+2018,6,2018-04-30,Brommapojkarna,Östersund,0,4,0.0
+2018,6,2018-04-30,Örebro,Dalkurd,3,2,1.0
+2018,16,2018-05-02,Sirius,AIK Stockholm,2,3,0.0
+2018,16,2018-05-03,Malmö,Djurgården,1,0,1.0
+2018,7,2018-05-05,Hammarby,Sundsvall,4,3,1.0
+2018,7,2018-05-05,Östersund,Norrköping,0,2,0.0
+2018,7,2018-05-06,Dalkurd,Kalmar,1,2,0.0
+2018,7,2018-05-06,Brommapojkarna,Djurgården,1,0,1.0
+2018,7,2018-05-06,Elfsborg,AIK Stockholm,0,0,0.5
+2018,7,2018-05-06,Trelleborg,Häcken,0,3,0.0
+2018,7,2018-05-07,Malmö,Göteborg,1,2,0.0
+2018,7,2018-05-07,Sirius,Örebro,2,4,0.0
+2018,8,2018-05-12,Sundsvall,Brommapojkarna,3,0,1.0
+2018,8,2018-05-13,Djurgården,Dalkurd,1,0,1.0
+2018,8,2018-05-13,Göteborg,Norrköping,0,2,0.0
+2018,8,2018-05-13,Örebro,Hammarby,1,2,0.0
+2018,8,2018-05-13,Trelleborg,Malmö,1,0,1.0
+2018,8,2018-05-14,Häcken,Elfsborg,5,0,1.0
+2018,8,2018-05-14,AIK Stockholm,Östersund,1,1,0.5
+2018,8,2018-05-14,Kalmar,Sirius,1,0,1.0
+2018,10,2018-05-16,Hammarby,Malmö,3,2,1.0
+2018,9,2018-05-17,Djurgården,Örebro,2,0,1.0
+2018,9,2018-05-18,Brommapojkarna,Kalmar,2,1,1.0
+2018,9,2018-05-19,Sirius,Trelleborg,1,1,0.5
+2018,9,2018-05-19,Sundsvall,Östersund,2,3,0.0
+2018,9,2018-05-19,Norrköping,Dalkurd,4,2,1.0
+2018,9,2018-05-20,Hammarby,AIK Stockholm,0,1,0.0
+2018,9,2018-05-20,Malmö,Häcken,2,0,1.0
+2018,9,2018-05-21,Elfsborg,Göteborg,1,1,0.5
+2018,10,2018-05-22,Örebro,Kalmar,2,1,1.0
+2018,10,2018-05-23,Norrköping,Sundsvall,1,0,1.0
+2018,10,2018-05-23,Östersund,Sirius,5,2,1.0
+2018,10,2018-05-23,Häcken,AIK Stockholm,1,1,0.5
+2018,10,2018-05-24,Dalkurd,Elfsborg,1,4,0.0
+2018,10,2018-05-24,Göteborg,Djurgården,1,3,0.0
+2018,10,2018-05-24,Trelleborg,Brommapojkarna,2,1,1.0
+2018,11,2018-05-26,AIK Stockholm,Norrköping,3,3,0.5
+2018,11,2018-05-26,Östersund,Häcken,2,0,1.0
+2018,11,2018-05-27,Sundsvall,Göteborg,2,0,1.0
+2018,11,2018-05-27,Kalmar,Hammarby,1,1,0.5
+2018,11,2018-05-27,Malmö,Dalkurd,1,1,0.5
+2018,11,2018-05-27,Elfsborg,Trelleborg,2,1,1.0
+2018,11,2018-05-27,Sirius,Djurgården,1,5,0.0
+2018,11,2018-05-27,Brommapojkarna,Örebro,0,0,0.5
+2018,2,2018-07-03,Sirius,Sundsvall,1,3,0.0
+2018,12,2018-07-07,Sirius,Malmö,0,4,0.0
+2018,12,2018-07-07,Trelleborg,AIK Stockholm,1,4,0.0
+2018,12,2018-07-07,Dalkurd,Brommapojkarna,3,0,1.0
+2018,12,2018-07-07,Häcken,Sundsvall,3,0,1.0
+2018,12,2018-07-08,Göteborg,Kalmar,1,3,0.0
+2018,12,2018-07-08,Djurgården,Norrköping,1,1,0.5
+2018,12,2018-07-08,Örebro,Elfsborg,1,2,0.0
+2018,12,2018-07-09,Hammarby,Östersund,1,2,0.0
+2018,13,2018-07-14,Dalkurd,Trelleborg,2,2,0.5
+2018,13,2018-07-14,Malmö,Östersund,1,1,0.5
+2018,13,2018-07-14,Brommapojkarna,Sirius,0,1,0.0
+2018,13,2018-07-14,Göteborg,Örebro,2,0,1.0
+2018,13,2018-07-15,Norrköping,Häcken,2,1,1.0
+2018,13,2018-07-15,Sundsvall,AIK Stockholm,0,1,0.0
+2018,13,2018-07-15,Kalmar,Djurgården,0,1,0.0
+2018,13,2018-07-16,Elfsborg,Hammarby,0,0,0.5
+2018,14,2018-07-21,Örebro,Malmö,1,2,0.0
+2018,14,2018-07-21,Östersund,Trelleborg,4,1,1.0
+2018,14,2018-07-21,Kalmar,Sundsvall,0,2,0.0
+2018,14,2018-07-22,Djurgården,Häcken,2,1,1.0
+2018,14,2018-07-22,AIK Stockholm,Brommapojkarna,5,1,1.0
+2018,14,2018-07-22,Sirius,Göteborg,3,2,1.0
+2018,14,2018-07-23,Norrköping,Elfsborg,1,0,1.0
+2018,14,2018-07-23,Hammarby,Dalkurd,4,1,1.0
+2018,15,2018-07-28,Göteborg,Brommapojkarna,3,0,1.0
+2018,15,2018-07-28,Östersund,Elfsborg,1,0,1.0
+2018,15,2018-07-28,Malmö,Norrköping,2,1,1.0
+2018,15,2018-07-28,Dalkurd,Sirius,1,3,0.0
+2018,15,2018-07-29,AIK Stockholm,Kalmar,1,0,1.0
+2018,15,2018-07-29,Djurgården,Sundsvall,1,1,0.5
+2018,15,2018-07-29,Häcken,Örebro,1,1,0.5
+2018,15,2018-07-30,Trelleborg,Hammarby,1,3,0.0
+2018,16,2018-08-04,Kalmar,Göteborg,2,1,1.0
+2018,16,2018-08-04,Brommapojkarna,Dalkurd,2,1,1.0
+2018,16,2018-08-05,Hammarby,Trelleborg,1,0,1.0
+2018,16,2018-08-05,Örebro,Häcken,1,2,0.0
+2018,16,2018-08-06,Elfsborg,Östersund,0,2,0.0
+2018,16,2018-08-06,Sundsvall,Norrköping,1,1,0.5
+2018,17,2018-08-10,Göteborg,Sirius,2,3,0.0
+2018,17,2018-08-10,Dalkurd,Malmö,0,1,0.0
+2018,17,2018-08-11,Örebro,Brommapojkarna,0,1,0.0
+2018,17,2018-08-12,Häcken,Djurgården,5,0,1.0
+2018,17,2018-08-12,Östersund,Kalmar,2,0,1.0
+2018,17,2018-08-12,AIK Stockholm,Elfsborg,1,0,1.0
+2018,17,2018-08-13,Trelleborg,Sundsvall,1,6,0.0
+2018,17,2018-08-13,Norrköping,Hammarby,0,0,0.5
+2018,18,2018-08-17,Sirius,Dalkurd,2,3,0.0
+2018,18,2018-08-18,Malmö,Trelleborg,3,0,1.0
+2018,18,2018-08-19,Sundsvall,Häcken,0,2,0.0
+2018,18,2018-08-19,Elfsborg,Norrköping,0,1,0.0
+2018,18,2018-08-19,Djurgården,Kalmar,0,2,0.0
+2018,18,2018-08-19,Brommapojkarna,AIK Stockholm,0,2,0.0
+2018,18,2018-08-20,Göteborg,Östersund,2,1,1.0
+2018,18,2018-08-20,Hammarby,Örebro,2,0,1.0
+2018,19,2018-08-26,Malmö,Sirius,5,0,1.0
+2018,19,2018-08-26,Häcken,Brommapojkarna,6,0,1.0
+2018,19,2018-08-26,Östersund,Sundsvall,1,2,0.0
+2018,19,2018-08-26,AIK Stockholm,Trelleborg,2,0,1.0
+2018,19,2018-08-26,Djurgården,Elfsborg,2,2,0.5
+2018,19,2018-08-27,Dalkurd,Hammarby,2,3,0.0
+2018,19,2018-08-27,Kalmar,Örebro,0,1,0.0
+2018,19,2018-08-27,Norrköping,Göteborg,2,1,1.0
+2018,20,2018-08-31,Trelleborg,Norrköping,1,1,0.5
+2018,20,2018-09-01,AIK Stockholm,Häcken,3,0,1.0
+2018,20,2018-09-01,Örebro,Östersund,2,1,1.0
+2018,20,2018-09-02,Hammarby,Djurgården,1,3,0.0
+2018,20,2018-09-02,Brommapojkarna,Malmö,0,3,0.0
+2018,20,2018-09-02,Dalkurd,Göteborg,1,1,0.5
+2018,20,2018-09-02,Elfsborg,Kalmar,1,1,0.5
+2018,20,2018-09-02,Sundsvall,Sirius,4,0,1.0
+2018,21,2018-09-15,Örebro,Sundsvall,2,1,1.0
+2018,21,2018-09-15,Östersund,Malmö,2,3,0.0
+2018,21,2018-09-16,Norrköping,AIK Stockholm,2,0,1.0
+2018,21,2018-09-16,Göteborg,Elfsborg,2,2,0.5
+2018,21,2018-09-16,Djurgården,Brommapojkarna,0,1,0.0
+2018,21,2018-09-17,Häcken,Trelleborg,2,1,1.0
+2018,21,2018-09-17,Kalmar,Dalkurd,0,0,0.5
+2018,21,2018-09-17,Sirius,Hammarby,1,1,0.5
+2018,22,2018-09-21,Brommapojkarna,Sundsvall,1,3,0.0
+2018,22,2018-09-22,Trelleborg,Djurgården,0,3,0.0
+2018,22,2018-09-22,Elfsborg,Örebro,1,0,1.0
+2018,22,2018-09-22,Sirius,Östersund,0,1,0.0
+2018,22,2018-09-22,Dalkurd,Norrköping,0,2,0.0
+2018,22,2018-09-23,AIK Stockholm,Hammarby,1,0,1.0
+2018,22,2018-09-23,Malmö,Kalmar,4,0,1.0
+2018,22,2018-09-24,Häcken,Göteborg,4,1,1.0
+2018,23,2018-09-25,Örebro,Sirius,0,0,0.5
+2018,23,2018-09-26,Norrköping,Malmö,3,1,1.0
+2018,23,2018-09-26,Sundsvall,Djurgården,1,1,0.5
+2018,23,2018-09-26,Trelleborg,Dalkurd,0,1,0.0
+2018,23,2018-09-26,Östersund,Brommapojkarna,3,1,1.0
+2018,23,2018-09-26,Hammarby,Elfsborg,0,1,0.0
+2018,23,2018-09-27,Kalmar,Häcken,1,2,0.0
+2018,23,2018-09-27,Göteborg,AIK Stockholm,0,2,0.0
+2018,24,2018-09-29,Sirius,Norrköping,1,1,0.5
+2018,24,2018-09-30,Kalmar,Brommapojkarna,1,1,0.5
+2018,24,2018-09-30,Dalkurd,AIK Stockholm,0,4,0.0
+2018,24,2018-09-30,Djurgården,Östersund,0,2,0.0
+2018,24,2018-09-30,Malmö,Sundsvall,0,0,0.5
+2018,24,2018-10-01,Hammarby,Göteborg,3,0,1.0
+2018,24,2018-10-01,Örebro,Trelleborg,4,0,1.0
+2018,24,2018-10-01,Elfsborg,Häcken,0,3,0.0
+2018,25,2018-10-05,Östersund,Dalkurd,3,0,1.0
+2018,25,2018-10-06,Sirius,Elfsborg,4,2,1.0
+2018,25,2018-10-06,Göteborg,Trelleborg,2,2,0.5
+2018,25,2018-10-07,Häcken,Malmö,1,1,0.5
+2018,25,2018-10-07,Brommapojkarna,Hammarby,2,4,0.0
+2018,25,2018-10-07,Norrköping,Djurgården,1,1,0.5
+2018,25,2018-10-07,AIK Stockholm,Örebro,1,1,0.5
+2018,25,2018-10-08,Sundsvall,Kalmar,2,0,1.0
+2018,26,2018-10-20,Malmö,Hammarby,2,1,1.0
+2018,26,2018-10-20,Dalkurd,Örebro,1,0,1.0
+2018,26,2018-10-21,Djurgården,AIK Stockholm,0,0,0.5
+2018,26,2018-10-21,Häcken,Östersund,2,0,1.0
+2018,26,2018-10-21,Kalmar,Norrköping,1,2,0.0
+2018,26,2018-10-21,Trelleborg,Sirius,1,2,0.0
+2018,26,2018-10-21,Elfsborg,Sundsvall,2,0,1.0
+2018,26,2018-10-22,Brommapojkarna,Göteborg,0,2,0.0
+2018,27,2018-10-26,Trelleborg,Elfsborg,2,2,0.5
+2018,27,2018-10-26,Göteborg,Sundsvall,1,2,0.0
+2018,27,2018-10-27,Dalkurd,Häcken,0,5,0.0
+2018,27,2018-10-28,Örebro,Djurgården,1,1,0.5
+2018,27,2018-10-28,Hammarby,Kalmar,0,0,0.5
+2018,27,2018-10-28,Norrköping,Östersund,4,2,1.0
+2018,27,2018-10-28,Sirius,Brommapojkarna,4,2,1.0
+2018,27,2018-10-29,AIK Stockholm,Malmö,1,1,0.5
+2018,28,2018-10-30,Elfsborg,Dalkurd,0,0,0.5
+2018,28,2018-10-31,Sundsvall,Hammarby,2,3,0.0
+2018,28,2018-10-31,Brommapojkarna,Norrköping,0,1,0.0
+2018,28,2018-10-31,Djurgården,Göteborg,2,0,1.0
+2018,28,2018-10-31,Kalmar,Trelleborg,2,1,1.0
+2018,28,2018-10-31,Häcken,Sirius,2,1,1.0
+2018,28,2018-11-01,Östersund,AIK Stockholm,1,2,0.0
+2018,28,2018-11-01,Malmö,Örebro,4,0,1.0
+2018,29,2018-11-04,Göteborg,Malmö,0,3,0.0
+2018,29,2018-11-04,Norrköping,Örebro,3,2,1.0
+2018,29,2018-11-04,AIK Stockholm,Sundsvall,0,0,0.5
+2018,29,2018-11-04,Hammarby,Häcken,1,0,1.0
+2018,29,2018-11-05,Dalkurd,Djurgården,1,2,0.0
+2018,29,2018-11-05,Sirius,Kalmar,1,1,0.5
+2018,29,2018-11-05,Elfsborg,Brommapojkarna,1,2,0.0
+2018,29,2018-11-05,Trelleborg,Östersund,0,1,0.0
+2018,30,2018-11-11,Sundsvall,Dalkurd,0,1,0.0
+2018,30,2018-11-11,Kalmar,AIK Stockholm,0,1,0.0
+2018,30,2018-11-11,Malmö,Elfsborg,2,0,1.0
+2018,30,2018-11-11,Brommapojkarna,Trelleborg,3,0,1.0
+2018,30,2018-11-11,Örebro,Göteborg,1,3,0.0
+2018,30,2018-11-11,Djurgården,Sirius,1,0,1.0
+2018,30,2018-11-11,Häcken,Norrköping,0,1,0.0
+2018,30,2018-11-11,Östersund,Hammarby,3,3,0.5

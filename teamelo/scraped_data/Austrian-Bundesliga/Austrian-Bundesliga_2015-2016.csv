@@ -1,0 +1,181 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,1,2015-07-25,Mattersburg,RB Salzburg,2,1,1.0
+2015-2016,1,2015-07-25,Rapid Wien,Ried,3,0,1.0
+2015-2016,1,2015-07-25,Sturm Graz,Admira,1,1,0.5
+2015-2016,1,2015-07-25,Grödig,SCR Altach,2,1,1.0
+2015-2016,1,2015-07-26,Wolfsberger AC,Austria Wien,0,2,0.0
+2015-2016,2,2015-08-01,RB Salzburg,Rapid Wien,1,2,0.0
+2015-2016,2,2015-08-01,Admira,Mattersburg,2,1,1.0
+2015-2016,2,2015-08-02,Austria Wien,SCR Altach,3,1,1.0
+2015-2016,2,2015-08-02,Ried,Wolfsberger AC,0,0,0.5
+2015-2016,2,2015-08-02,Sturm Graz,Grödig,1,1,0.5
+2015-2016,3,2015-08-08,Grödig,Austria Wien,2,2,0.5
+2015-2016,3,2015-08-08,Admira,RB Salzburg,2,2,0.5
+2015-2016,3,2015-08-08,Mattersburg,Ried,4,1,1.0
+2015-2016,3,2015-08-09,SCR Altach,Sturm Graz,0,1,0.0
+2015-2016,3,2015-08-09,Rapid Wien,Wolfsberger AC,2,1,1.0
+2015-2016,4,2015-08-11,Ried,RB Salzburg,1,4,0.0
+2015-2016,4,2015-08-12,Austria Wien,Rapid Wien,2,5,0.0
+2015-2016,4,2015-08-12,Grödig,Admira,2,3,0.0
+2015-2016,4,2015-08-12,Wolfsberger AC,Sturm Graz,0,2,0.0
+2015-2016,4,2015-08-12,SCR Altach,Mattersburg,3,1,1.0
+2015-2016,5,2015-08-15,Austria Wien,Mattersburg,5,1,1.0
+2015-2016,5,2015-08-15,Wolfsberger AC,Grödig,3,2,1.0
+2015-2016,5,2015-08-15,RB Salzburg,SCR Altach,2,0,1.0
+2015-2016,5,2015-08-15,Admira,Ried,3,1,1.0
+2015-2016,5,2015-08-16,Sturm Graz,Rapid Wien,2,2,0.5
+2015-2016,6,2015-08-22,Rapid Wien,Grödig,3,0,1.0
+2015-2016,6,2015-08-22,Mattersburg,Wolfsberger AC,1,0,1.0
+2015-2016,6,2015-08-22,Ried,Sturm Graz,1,0,1.0
+2015-2016,6,2015-08-23,RB Salzburg,Austria Wien,2,2,0.5
+2015-2016,6,2015-08-23,SCR Altach,Admira,1,2,0.0
+2015-2016,7,2015-08-29,Admira,Austria Wien,0,1,0.0
+2015-2016,7,2015-08-29,Grödig,Ried,4,1,1.0
+2015-2016,7,2015-08-29,Rapid Wien,Mattersburg,2,4,0.0
+2015-2016,7,2015-08-30,Sturm Graz,RB Salzburg,2,3,0.0
+2015-2016,7,2015-08-30,Wolfsberger AC,SCR Altach,0,2,0.0
+2015-2016,8,2015-09-12,SCR Altach,Rapid Wien,2,0,1.0
+2015-2016,8,2015-09-12,Austria Wien,Ried,1,1,0.5
+2015-2016,8,2015-09-12,RB Salzburg,Grödig,4,2,1.0
+2015-2016,8,2015-09-12,Admira,Wolfsberger AC,1,0,1.0
+2015-2016,8,2015-09-13,Mattersburg,Sturm Graz,2,0,1.0
+2015-2016,9,2015-09-19,Sturm Graz,Austria Wien,2,0,1.0
+2015-2016,9,2015-09-19,Grödig,Mattersburg,1,1,0.5
+2015-2016,9,2015-09-19,Wolfsberger AC,RB Salzburg,1,1,0.5
+2015-2016,9,2015-09-19,Ried,SCR Altach,2,0,1.0
+2015-2016,9,2015-09-20,Rapid Wien,Admira,2,0,1.0
+2015-2016,10,2015-09-26,Ried,Rapid Wien,0,1,0.0
+2015-2016,10,2015-09-26,Austria Wien,Wolfsberger AC,1,0,1.0
+2015-2016,10,2015-09-26,RB Salzburg,Mattersburg,4,2,1.0
+2015-2016,10,2015-09-26,SCR Altach,Grödig,1,0,1.0
+2015-2016,10,2015-09-27,Admira,Sturm Graz,0,1,0.0
+2015-2016,11,2015-10-03,Grödig,Sturm Graz,3,0,1.0
+2015-2016,11,2015-10-03,Mattersburg,Admira,0,4,0.0
+2015-2016,11,2015-10-03,Wolfsberger AC,Ried,1,1,0.5
+2015-2016,11,2015-10-03,SCR Altach,Austria Wien,1,2,0.0
+2015-2016,11,2015-10-04,Rapid Wien,RB Salzburg,1,2,0.0
+2015-2016,12,2015-10-17,RB Salzburg,Admira,8,0,1.0
+2015-2016,12,2015-10-17,Austria Wien,Grödig,2,1,1.0
+2015-2016,12,2015-10-17,Sturm Graz,SCR Altach,3,1,1.0
+2015-2016,12,2015-10-17,Ried,Mattersburg,0,1,0.0
+2015-2016,12,2015-10-18,Wolfsberger AC,Rapid Wien,2,1,1.0
+2015-2016,13,2015-10-24,Mattersburg,SCR Altach,2,1,1.0
+2015-2016,13,2015-10-24,RB Salzburg,Ried,2,1,1.0
+2015-2016,13,2015-10-24,Admira,Grödig,0,0,0.5
+2015-2016,13,2015-10-24,Sturm Graz,Wolfsberger AC,2,0,1.0
+2015-2016,13,2015-10-25,Rapid Wien,Austria Wien,1,2,0.0
+2015-2016,14,2015-10-31,Rapid Wien,Sturm Graz,2,1,1.0
+2015-2016,14,2015-10-31,SCR Altach,RB Salzburg,1,0,1.0
+2015-2016,14,2015-10-31,Ried,Admira,1,1,0.5
+2015-2016,14,2015-10-31,Grödig,Wolfsberger AC,1,0,1.0
+2015-2016,14,2015-11-01,Mattersburg,Austria Wien,1,2,0.0
+2015-2016,15,2015-11-07,Austria Wien,RB Salzburg,1,1,0.5
+2015-2016,15,2015-11-07,Admira,SCR Altach,1,1,0.5
+2015-2016,15,2015-11-07,Wolfsberger AC,Mattersburg,2,1,1.0
+2015-2016,15,2015-11-07,Sturm Graz,Ried,3,2,1.0
+2015-2016,15,2015-11-08,Grödig,Rapid Wien,2,1,1.0
+2015-2016,16,2015-11-21,Austria Wien,Admira,1,1,0.5
+2015-2016,16,2015-11-21,Mattersburg,Rapid Wien,1,6,0.0
+2015-2016,16,2015-11-21,Ried,Grödig,1,0,1.0
+2015-2016,16,2015-11-21,SCR Altach,Wolfsberger AC,2,1,1.0
+2015-2016,16,2015-11-22,RB Salzburg,Sturm Graz,3,1,1.0
+2015-2016,17,2015-11-28,Sturm Graz,Mattersburg,0,0,0.5
+2015-2016,17,2015-11-28,Grödig,RB Salzburg,1,1,0.5
+2015-2016,17,2015-11-28,Wolfsberger AC,Admira,4,0,1.0
+2015-2016,17,2015-11-29,Ried,Austria Wien,4,2,1.0
+2015-2016,17,2015-11-29,Rapid Wien,SCR Altach,3,1,1.0
+2015-2016,18,2015-12-01,RB Salzburg,Wolfsberger AC,1,1,0.5
+2015-2016,18,2015-12-02,Admira,Rapid Wien,2,1,1.0
+2015-2016,18,2015-12-02,Mattersburg,Grödig,0,2,0.0
+2015-2016,18,2015-12-02,SCR Altach,Ried,1,3,0.0
+2015-2016,18,2015-12-02,Austria Wien,Sturm Graz,2,1,1.0
+2015-2016,19,2015-12-05,Wolfsberger AC,Austria Wien,2,0,1.0
+2015-2016,19,2015-12-05,Rapid Wien,Ried,2,1,1.0
+2015-2016,19,2015-12-05,Sturm Graz,Admira,1,1,0.5
+2015-2016,19,2015-12-05,Grödig,SCR Altach,0,3,0.0
+2015-2016,19,2015-12-06,Mattersburg,RB Salzburg,0,0,0.5
+2015-2016,20,2015-12-12,Austria Wien,SCR Altach,1,2,0.0
+2015-2016,20,2015-12-12,Sturm Graz,Grödig,2,0,1.0
+2015-2016,20,2015-12-12,Admira,Mattersburg,1,1,0.5
+2015-2016,20,2015-12-12,Ried,Wolfsberger AC,1,0,1.0
+2015-2016,20,2015-12-13,RB Salzburg,Rapid Wien,2,0,1.0
+2015-2016,21,2016-02-06,SCR Altach,Sturm Graz,2,2,0.5
+2015-2016,21,2016-02-06,Rapid Wien,Wolfsberger AC,3,0,1.0
+2015-2016,21,2016-02-06,Grödig,Austria Wien,0,1,0.0
+2015-2016,21,2016-02-06,Mattersburg,Ried,3,3,0.5
+2015-2016,21,2016-02-07,Admira,RB Salzburg,1,2,0.0
+2015-2016,22,2016-02-13,Ried,RB Salzburg,1,0,1.0
+2015-2016,22,2016-02-13,SCR Altach,Mattersburg,1,2,0.0
+2015-2016,22,2016-02-13,Grödig,Admira,2,2,0.5
+2015-2016,22,2016-02-13,Wolfsberger AC,Sturm Graz,0,0,0.5
+2015-2016,22,2016-02-14,Austria Wien,Rapid Wien,0,3,0.0
+2015-2016,23,2016-02-20,Austria Wien,Mattersburg,2,2,0.5
+2015-2016,23,2016-02-20,Wolfsberger AC,Grödig,2,0,1.0
+2015-2016,23,2016-02-20,RB Salzburg,SCR Altach,2,0,1.0
+2015-2016,23,2016-02-20,Admira,Ried,0,0,0.5
+2015-2016,23,2016-02-21,Sturm Graz,Rapid Wien,0,2,0.0
+2015-2016,24,2016-02-27,Ried,Sturm Graz,0,1,0.0
+2015-2016,24,2016-02-27,SCR Altach,Admira,1,2,0.0
+2015-2016,24,2016-02-27,Mattersburg,Wolfsberger AC,1,1,0.5
+2015-2016,24,2016-02-28,Rapid Wien,Grödig,3,2,1.0
+2015-2016,24,2016-02-28,RB Salzburg,Austria Wien,4,1,1.0
+2015-2016,25,2016-03-01,Wolfsberger AC,SCR Altach,1,0,1.0
+2015-2016,25,2016-03-02,Grödig,Ried,2,2,0.5
+2015-2016,25,2016-03-02,Admira,Austria Wien,0,3,0.0
+2015-2016,25,2016-03-02,Rapid Wien,Mattersburg,3,0,1.0
+2015-2016,25,2016-03-02,Sturm Graz,RB Salzburg,0,0,0.5
+2015-2016,26,2016-03-05,RB Salzburg,Grödig,3,0,1.0
+2015-2016,26,2016-03-05,Mattersburg,Sturm Graz,1,0,1.0
+2015-2016,26,2016-03-05,Austria Wien,Ried,3,1,1.0
+2015-2016,26,2016-03-05,Admira,Wolfsberger AC,0,2,0.0
+2015-2016,26,2016-03-06,SCR Altach,Rapid Wien,0,0,0.5
+2015-2016,27,2016-03-12,Wolfsberger AC,RB Salzburg,1,1,0.5
+2015-2016,27,2016-03-12,Ried,SCR Altach,0,2,0.0
+2015-2016,27,2016-03-12,Rapid Wien,Admira,0,4,0.0
+2015-2016,27,2016-03-12,Grödig,Mattersburg,0,1,0.0
+2015-2016,27,2016-03-13,Sturm Graz,Austria Wien,1,1,0.5
+2015-2016,28,2016-03-19,Austria Wien,Wolfsberger AC,0,0,0.5
+2015-2016,28,2016-03-19,RB Salzburg,Mattersburg,2,1,1.0
+2015-2016,28,2016-03-19,SCR Altach,Grödig,1,0,1.0
+2015-2016,28,2016-03-19,Admira,Sturm Graz,1,0,1.0
+2015-2016,28,2016-03-20,Ried,Rapid Wien,1,0,1.0
+2015-2016,29,2016-04-02,Grödig,Sturm Graz,1,3,0.0
+2015-2016,29,2016-04-02,SCR Altach,Austria Wien,2,0,1.0
+2015-2016,29,2016-04-02,Mattersburg,Admira,0,3,0.0
+2015-2016,29,2016-04-02,Wolfsberger AC,Ried,1,0,1.0
+2015-2016,29,2016-04-03,Rapid Wien,RB Salzburg,1,1,0.5
+2015-2016,30,2016-04-09,Sturm Graz,SCR Altach,4,1,1.0
+2015-2016,30,2016-04-09,Austria Wien,Grödig,0,2,0.0
+2015-2016,30,2016-04-09,Wolfsberger AC,Rapid Wien,2,2,0.5
+2015-2016,30,2016-04-09,Ried,Mattersburg,1,0,1.0
+2015-2016,30,2016-04-10,RB Salzburg,Admira,1,0,1.0
+2015-2016,31,2016-04-16,RB Salzburg,Ried,2,1,1.0
+2015-2016,31,2016-04-16,Sturm Graz,Wolfsberger AC,1,0,1.0
+2015-2016,31,2016-04-16,Mattersburg,SCR Altach,0,0,0.5
+2015-2016,31,2016-04-16,Admira,Grödig,1,1,0.5
+2015-2016,31,2016-04-17,Rapid Wien,Austria Wien,1,0,1.0
+2015-2016,32,2016-04-23,Mattersburg,Austria Wien,0,9,0.0
+2015-2016,32,2016-04-23,Ried,Admira,1,0,1.0
+2015-2016,32,2016-04-23,SCR Altach,RB Salzburg,1,3,0.0
+2015-2016,32,2016-04-23,Grödig,Wolfsberger AC,0,1,0.0
+2015-2016,32,2016-04-24,Rapid Wien,Sturm Graz,2,0,1.0
+2015-2016,33,2016-04-30,Grödig,Rapid Wien,2,0,1.0
+2015-2016,33,2016-04-30,Sturm Graz,Ried,0,0,0.5
+2015-2016,33,2016-04-30,Admira,SCR Altach,2,1,1.0
+2015-2016,33,2016-04-30,Wolfsberger AC,Mattersburg,2,0,1.0
+2015-2016,33,2016-05-01,Austria Wien,RB Salzburg,0,2,0.0
+2015-2016,34,2016-05-07,Austria Wien,Admira,3,1,1.0
+2015-2016,34,2016-05-07,Ried,Grödig,2,0,1.0
+2015-2016,34,2016-05-07,SCR Altach,Wolfsberger AC,1,1,0.5
+2015-2016,34,2016-05-07,RB Salzburg,Sturm Graz,1,1,0.5
+2015-2016,34,2016-05-08,Mattersburg,Rapid Wien,0,2,0.0
+2015-2016,35,2016-05-11,Wolfsberger AC,Admira,1,2,0.0
+2015-2016,35,2016-05-11,Ried,Austria Wien,0,5,0.0
+2015-2016,35,2016-05-11,Rapid Wien,SCR Altach,1,1,0.5
+2015-2016,35,2016-05-11,Grödig,RB Salzburg,1,2,0.0
+2015-2016,35,2016-05-11,Sturm Graz,Mattersburg,1,1,0.5
+2015-2016,36,2016-05-15,Mattersburg,Grödig,2,3,0.0
+2015-2016,36,2016-05-15,RB Salzburg,Wolfsberger AC,1,0,1.0
+2015-2016,36,2016-05-15,SCR Altach,Ried,0,0,0.5
+2015-2016,36,2016-05-15,Admira,Rapid Wien,1,3,0.0
+2015-2016,36,2016-05-15,Austria Wien,Sturm Graz,3,0,1.0

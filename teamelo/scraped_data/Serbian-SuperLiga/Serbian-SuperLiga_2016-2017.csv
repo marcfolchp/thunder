@@ -1,0 +1,297 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2016-2017,Regular season,1,2016-07-22,Red Star,Napredak Kruš,2,2,0.5
+2016-2017,Regular season,1,2016-07-23,Mladost Lučani,Rad,2,1,1.0
+2016-2017,Regular season,1,2016-07-23,Voždovac,Spartak Subotic,0,0,0.5
+2016-2017,Regular season,1,2016-07-23,Metalac GM,Borac Čačak,1,0,1.0
+2016-2017,Regular season,1,2016-07-23,Radnik Surdulica,Javor Ivanjica,2,2,0.5
+2016-2017,Regular season,1,2016-07-24,Bačka Palanka,Partizan,0,0,0.5
+2016-2017,Regular season,1,2016-07-24,Radnički Niš,Čukarički,2,1,1.0
+2016-2017,Regular season,2,2016-07-29,Red Star,Metalac GM,3,1,1.0
+2016-2017,Regular season,2,2016-07-30,Rad,Voždovac,0,2,0.0
+2016-2017,Regular season,2,2016-07-30,Javor Ivanjica,Novi Pazar,1,1,0.5
+2016-2017,Regular season,2,2016-07-30,Spartak Subotic,Radnički Niš,3,1,1.0
+2016-2017,Regular season,2,2016-07-30,Borac Čačak,Mladost Lučani,0,1,0.0
+2016-2017,Regular season,2,2016-07-31,Napredak Kruš,Partizan,2,1,1.0
+2016-2017,Regular season,2,2016-07-31,Vojvodina,Bačka Palanka,1,0,1.0
+2016-2017,Regular season,2,2016-07-31,Čukarički,Radnik Surdulica,0,0,0.5
+2016-2017,Regular season,3,2016-08-05,Radnički Niš,Rad,3,0,1.0
+2016-2017,Regular season,3,2016-08-06,Mladost Lučani,Red Star,2,4,0.0
+2016-2017,Regular season,3,2016-08-06,Radnik Surdulica,Spartak Subotic,2,1,1.0
+2016-2017,Regular season,3,2016-08-06,Metalac GM,Napredak Kruš,2,0,1.0
+2016-2017,Regular season,3,2016-08-06,Bačka Palanka,Javor Ivanjica,0,1,0.0
+2016-2017,Regular season,3,2016-08-06,Voždovac,Borac Čačak,2,0,1.0
+2016-2017,Regular season,3,2016-08-06,Novi Pazar,Čukarički,1,0,1.0
+2016-2017,Regular season,3,2016-08-07,Partizan,Vojvodina,1,3,0.0
+2016-2017,Regular season,4,2016-08-10,Spartak Subotic,Novi Pazar,2,5,0.0
+2016-2017,Regular season,4,2016-08-10,Javor Ivanjica,Partizan,0,2,0.0
+2016-2017,Regular season,4,2016-08-10,Napredak Kruš,Vojvodina,0,0,0.5
+2016-2017,Regular season,4,2016-08-10,Metalac GM,Mladost Lučani,2,0,1.0
+2016-2017,Regular season,4,2016-08-10,Borac Čačak,Radnički Niš,0,0,0.5
+2016-2017,Regular season,4,2016-08-10,Rad,Radnik Surdulica,1,0,1.0
+2016-2017,Regular season,4,2016-08-10,Čukarički,Bačka Palanka,1,0,1.0
+2016-2017,Regular season,4,2016-08-10,Red Star,Voždovac,3,0,1.0
+2016-2017,Regular season,5,2016-08-13,Bačka Palanka,Spartak Subotic,1,3,0.0
+2016-2017,Regular season,5,2016-08-14,Partizan,Čukarički,1,0,1.0
+2016-2017,Regular season,5,2016-08-14,Radnički Niš,Red Star,0,3,0.0
+2016-2017,Regular season,5,2016-08-14,Radnik Surdulica,Borac Čačak,1,1,0.5
+2016-2017,Regular season,5,2016-08-14,Novi Pazar,Rad,0,2,0.0
+2016-2017,Regular season,5,2016-08-14,Vojvodina,Javor Ivanjica,4,0,1.0
+2016-2017,Regular season,5,2016-08-14,Mladost Lučani,Napredak Kruš,1,0,1.0
+2016-2017,Regular season,5,2016-08-14,Voždovac,Metalac GM,0,0,0.5
+2016-2017,Regular season,6,2016-08-20,Spartak Subotic,Partizan,2,1,1.0
+2016-2017,Regular season,6,2016-08-20,Rad,Bačka Palanka,2,1,1.0
+2016-2017,Regular season,6,2016-08-20,Mladost Lučani,Voždovac,0,1,0.0
+2016-2017,Regular season,6,2016-08-20,Napredak Kruš,Javor Ivanjica,3,1,1.0
+2016-2017,Regular season,6,2016-08-20,Borac Čačak,Novi Pazar,2,1,1.0
+2016-2017,Regular season,6,2016-08-21,Metalac GM,Radnički Niš,1,2,0.0
+2016-2017,Regular season,6,2016-08-21,Red Star,Radnik Surdulica,5,0,1.0
+2016-2017,Regular season,6,2016-08-21,Čukarički,Vojvodina,1,3,0.0
+2016-2017,Regular season,7,2016-08-26,Radnik Surdulica,Metalac GM,0,1,0.0
+2016-2017,Regular season,7,2016-08-27,Partizan,Rad,4,0,1.0
+2016-2017,Regular season,7,2016-08-27,Javor Ivanjica,Čukarički,0,0,0.5
+2016-2017,Regular season,7,2016-08-27,Voždovac,Napredak Kruš,0,0,0.5
+2016-2017,Regular season,7,2016-08-27,Radnički Niš,Mladost Lučani,2,0,1.0
+2016-2017,Regular season,7,2016-08-27,Bačka Palanka,Borac Čačak,1,0,1.0
+2016-2017,Regular season,7,2016-08-28,Novi Pazar,Red Star,1,4,0.0
+2016-2017,Regular season,7,2016-08-28,Vojvodina,Spartak Subotic,5,0,1.0
+2016-2017,Regular season,8,2016-09-09,Rad,Vojvodina,0,0,0.5
+2016-2017,Regular season,8,2016-09-10,Spartak Subotic,Javor Ivanjica,1,1,0.5
+2016-2017,Regular season,8,2016-09-10,Red Star,Bačka Palanka,2,0,1.0
+2016-2017,Regular season,8,2016-09-10,Voždovac,Radnički Niš,1,4,0.0
+2016-2017,Regular season,8,2016-09-10,Metalac GM,Novi Pazar,0,0,0.5
+2016-2017,Regular season,8,2016-09-10,Mladost Lučani,Radnik Surdulica,2,0,1.0
+2016-2017,Regular season,8,2016-09-10,Napredak Kruš,Čukarički,2,1,1.0
+2016-2017,Regular season,8,2016-09-11,Borac Čačak,Partizan,0,2,0.0
+2016-2017,Regular season,1,2016-09-14,Novi Pazar,Vojvodina,1,2,0.0
+2016-2017,Regular season,9,2016-09-16,Radnički Niš,Napredak Kruš,1,1,0.5
+2016-2017,Regular season,9,2016-09-17,Bačka Palanka,Metalac GM,1,0,1.0
+2016-2017,Regular season,9,2016-09-17,Partizan,Red Star,1,0,1.0
+2016-2017,Regular season,9,2016-09-17,Novi Pazar,Mladost Lučani,1,2,0.0
+2016-2017,Regular season,9,2016-09-17,Radnik Surdulica,Voždovac,3,1,1.0
+2016-2017,Regular season,9,2016-09-17,Čukarički,Spartak Subotic,2,4,0.0
+2016-2017,Regular season,9,2016-09-17,Javor Ivanjica,Rad,1,1,0.5
+2016-2017,Regular season,9,2016-09-18,Vojvodina,Borac Čačak,2,1,1.0
+2016-2017,Regular season,10,2016-09-24,Rad,Čukarički,1,1,0.5
+2016-2017,Regular season,10,2016-09-25,Voždovac,Novi Pazar,2,0,1.0
+2016-2017,Regular season,10,2016-09-25,Metalac GM,Partizan,0,1,0.0
+2016-2017,Regular season,10,2016-09-25,Radnički Niš,Radnik Surdulica,1,0,1.0
+2016-2017,Regular season,10,2016-09-25,Mladost Lučani,Bačka Palanka,1,0,1.0
+2016-2017,Regular season,10,2016-09-25,Red Star,Vojvodina,4,1,1.0
+2016-2017,Regular season,10,2016-09-25,Napredak Kruš,Spartak Subotic,1,0,1.0
+2016-2017,Regular season,10,2016-09-25,Borac Čačak,Javor Ivanjica,1,1,0.5
+2016-2017,Regular season,11,2016-10-02,Spartak Subotic,Rad,0,1,0.0
+2016-2017,Regular season,11,2016-10-02,Bačka Palanka,Voždovac,2,1,1.0
+2016-2017,Regular season,11,2016-10-02,Javor Ivanjica,Red Star,2,4,0.0
+2016-2017,Regular season,11,2016-10-02,Čukarički,Borac Čačak,1,1,0.5
+2016-2017,Regular season,11,2016-10-02,Novi Pazar,Radnički Niš,1,0,1.0
+2016-2017,Regular season,11,2016-10-02,Partizan,Mladost Lučani,3,1,1.0
+2016-2017,Regular season,11,2016-10-02,Vojvodina,Metalac GM,1,0,1.0
+2016-2017,Regular season,11,2016-10-02,Radnik Surdulica,Napredak Kruš,0,1,0.0
+2016-2017,Regular season,12,2016-10-14,Napredak Kruš,Rad,2,0,1.0
+2016-2017,Regular season,12,2016-10-15,Borac Čačak,Spartak Subotic,3,3,0.5
+2016-2017,Regular season,12,2016-10-15,Radnik Surdulica,Novi Pazar,3,1,1.0
+2016-2017,Regular season,12,2016-10-15,Radnički Niš,Bačka Palanka,1,0,1.0
+2016-2017,Regular season,12,2016-10-15,Metalac GM,Javor Ivanjica,1,1,0.5
+2016-2017,Regular season,12,2016-10-15,Voždovac,Partizan,0,3,0.0
+2016-2017,Regular season,12,2016-10-16,Red Star,Čukarički,3,1,1.0
+2016-2017,Regular season,12,2016-10-16,Mladost Lučani,Vojvodina,2,0,1.0
+2016-2017,Regular season,13,2016-10-21,Vojvodina,Voždovac,3,1,1.0
+2016-2017,Regular season,13,2016-10-22,Bačka Palanka,Radnik Surdulica,0,2,0.0
+2016-2017,Regular season,13,2016-10-22,Spartak Subotic,Red Star,1,1,0.5
+2016-2017,Regular season,13,2016-10-22,Novi Pazar,Napredak Kruš,0,1,0.0
+2016-2017,Regular season,13,2016-10-22,Rad,Borac Čačak,2,0,1.0
+2016-2017,Regular season,13,2016-10-22,Čukarički,Metalac GM,2,1,1.0
+2016-2017,Regular season,13,2016-10-22,Javor Ivanjica,Mladost Lučani,1,1,0.5
+2016-2017,Regular season,13,2016-10-22,Partizan,Radnički Niš,1,1,0.5
+2016-2017,Regular season,14,2016-10-29,Radnik Surdulica,Partizan,1,3,0.0
+2016-2017,Regular season,14,2016-10-30,Red Star,Rad,2,1,1.0
+2016-2017,Regular season,14,2016-10-30,Metalac GM,Spartak Subotic,0,0,0.5
+2016-2017,Regular season,14,2016-10-30,Novi Pazar,Bačka Palanka,1,1,0.5
+2016-2017,Regular season,14,2016-10-30,Voždovac,Javor Ivanjica,1,2,0.0
+2016-2017,Regular season,14,2016-10-30,Napredak Kruš,Borac Čačak,3,1,1.0
+2016-2017,Regular season,14,2016-10-30,Radnički Niš,Vojvodina,1,0,1.0
+2016-2017,Regular season,14,2016-10-30,Mladost Lučani,Čukarički,2,0,1.0
+2016-2017,Regular season,15,2016-11-04,Vojvodina,Radnik Surdulica,2,0,1.0
+2016-2017,Regular season,15,2016-11-05,Bačka Palanka,Napredak Kruš,1,3,0.0
+2016-2017,Regular season,15,2016-11-05,Čukarički,Voždovac,2,1,1.0
+2016-2017,Regular season,15,2016-11-05,Rad,Metalac GM,1,1,0.5
+2016-2017,Regular season,15,2016-11-05,Spartak Subotic,Mladost Lučani,1,0,1.0
+2016-2017,Regular season,15,2016-11-05,Borac Čačak,Red Star,0,1,0.0
+2016-2017,Regular season,15,2016-11-06,Javor Ivanjica,Radnički Niš,2,0,1.0
+2016-2017,Regular season,15,2016-11-06,Partizan,Novi Pazar,4,0,1.0
+2016-2017,Regular season,16,2016-11-18,Rad,Mladost Lučani,1,2,0.0
+2016-2017,Regular season,16,2016-11-19,Čukarički,Radnički Niš,4,1,1.0
+2016-2017,Regular season,16,2016-11-19,Borac Čačak,Metalac GM,1,2,0.0
+2016-2017,Regular season,16,2016-11-19,Javor Ivanjica,Radnik Surdulica,1,0,1.0
+2016-2017,Regular season,16,2016-11-19,Spartak Subotic,Voždovac,0,2,0.0
+2016-2017,Regular season,16,2016-11-19,Partizan,Bačka Palanka,1,0,1.0
+2016-2017,Regular season,16,2016-11-19,Vojvodina,Novi Pazar,3,0,1.0
+2016-2017,Regular season,16,2016-11-19,Napredak Kruš,Red Star,0,1,0.0
+2016-2017,Regular season,17,2016-11-25,Partizan,Napredak Kruš,3,2,1.0
+2016-2017,Regular season,17,2016-11-26,Bačka Palanka,Vojvodina,0,1,0.0
+2016-2017,Regular season,17,2016-11-26,Mladost Lučani,Borac Čačak,3,0,1.0
+2016-2017,Regular season,17,2016-11-26,Radnik Surdulica,Čukarički,1,1,0.5
+2016-2017,Regular season,17,2016-11-26,Novi Pazar,Javor Ivanjica,1,2,0.0
+2016-2017,Regular season,17,2016-11-26,Radnički Niš,Spartak Subotic,0,1,0.0
+2016-2017,Regular season,17,2016-11-26,Voždovac,Rad,0,0,0.5
+2016-2017,Regular season,17,2016-11-26,Metalac GM,Red Star,1,2,0.0
+2016-2017,Regular season,18,2016-11-30,Borac Čačak,Voždovac,1,2,0.0
+2016-2017,Regular season,18,2016-11-30,Spartak Subotic,Radnik Surdulica,1,1,0.5
+2016-2017,Regular season,18,2016-11-30,Rad,Radnički Niš,1,1,0.5
+2016-2017,Regular season,18,2016-11-30,Čukarički,Novi Pazar,2,0,1.0
+2016-2017,Regular season,18,2016-11-30,Napredak Kruš,Metalac GM,1,0,1.0
+2016-2017,Regular season,18,2016-11-30,Javor Ivanjica,Bačka Palanka,2,0,1.0
+2016-2017,Regular season,18,2016-11-30,Vojvodina,Partizan,0,0,0.5
+2016-2017,Regular season,18,2016-12-01,Red Star,Mladost Lučani,2,2,0.5
+2016-2017,Regular season,19,2016-12-04,Bačka Palanka,Čukarički,3,1,1.0
+2016-2017,Regular season,19,2016-12-04,Radnik Surdulica,Rad,1,0,1.0
+2016-2017,Regular season,19,2016-12-04,Novi Pazar,Spartak Subotic,2,4,0.0
+2016-2017,Regular season,19,2016-12-04,Voždovac,Red Star,0,1,0.0
+2016-2017,Regular season,19,2016-12-04,Radnički Niš,Borac Čačak,3,3,0.5
+2016-2017,Regular season,19,2016-12-04,Vojvodina,Napredak Kruš,2,0,1.0
+2016-2017,Regular season,19,2016-12-04,Partizan,Javor Ivanjica,2,0,1.0
+2016-2017,Regular season,19,2016-12-05,Mladost Lučani,Metalac GM,1,1,0.5
+2016-2017,Regular season,20,2016-12-09,Javor Ivanjica,Vojvodina,2,1,1.0
+2016-2017,Regular season,20,2016-12-10,Rad,Novi Pazar,2,0,1.0
+2016-2017,Regular season,20,2016-12-10,Spartak Subotic,Bačka Palanka,0,0,0.5
+2016-2017,Regular season,20,2016-12-10,Borac Čačak,Radnik Surdulica,1,0,1.0
+2016-2017,Regular season,20,2016-12-10,Metalac GM,Voždovac,0,2,0.0
+2016-2017,Regular season,20,2016-12-10,Napredak Kruš,Mladost Lučani,0,0,0.5
+2016-2017,Regular season,20,2016-12-10,Red Star,Radnički Niš,2,1,1.0
+2016-2017,Regular season,20,2016-12-11,Čukarički,Partizan,1,3,0.0
+2016-2017,Regular season,21,2016-12-14,Bačka Palanka,Rad,2,0,1.0
+2016-2017,Regular season,21,2016-12-14,Voždovac,Mladost Lučani,2,1,1.0
+2016-2017,Regular season,21,2016-12-14,Novi Pazar,Borac Čačak,0,2,0.0
+2016-2017,Regular season,21,2016-12-14,Radnički Niš,Metalac GM,1,1,0.5
+2016-2017,Regular season,21,2016-12-14,Radnik Surdulica,Red Star,1,2,0.0
+2016-2017,Regular season,21,2016-12-14,Javor Ivanjica,Napredak Kruš,1,0,1.0
+2016-2017,Regular season,21,2016-12-14,Vojvodina,Čukarički,2,0,1.0
+2016-2017,Regular season,21,2016-12-15,Partizan,Spartak Subotic,2,0,1.0
+2016-2017,Regular season,22,2017-02-17,Mladost Lučani,Radnički Niš,1,0,1.0
+2016-2017,Regular season,22,2017-02-18,Napredak Kruš,Voždovac,0,0,0.5
+2016-2017,Regular season,22,2017-02-18,Borac Čačak,Bačka Palanka,1,0,1.0
+2016-2017,Regular season,22,2017-02-18,Red Star,Novi Pazar,2,0,1.0
+2016-2017,Regular season,22,2017-02-18,Čukarički,Javor Ivanjica,2,1,1.0
+2016-2017,Regular season,22,2017-02-19,Spartak Subotic,Vojvodina,1,4,0.0
+2016-2017,Regular season,22,2017-02-19,Rad,Partizan,0,1,0.0
+2016-2017,Regular season,23,2017-02-25,Bačka Palanka,Red Star,0,3,0.0
+2016-2017,Regular season,23,2017-02-25,Radnički Niš,Voždovac,2,0,1.0
+2016-2017,Regular season,23,2017-02-25,Javor Ivanjica,Spartak Subotic,2,3,0.0
+2016-2017,Regular season,23,2017-02-25,Radnik Surdulica,Mladost Lučani,1,1,0.5
+2016-2017,Regular season,23,2017-02-25,Novi Pazar,Metalac GM,0,0,0.5
+2016-2017,Regular season,23,2017-02-25,Čukarički,Napredak Kruš,1,0,1.0
+2016-2017,Regular season,23,2017-02-25,Partizan,Borac Čačak,2,1,1.0
+2016-2017,Regular season,23,2017-02-26,Vojvodina,Rad,3,2,1.0
+2016-2017,Regular season,22,2017-03-01,Metalac GM,Radnik Surdulica,3,1,1.0
+2016-2017,Regular season,24,2017-03-03,Borac Čačak,Vojvodina,0,1,0.0
+2016-2017,Regular season,24,2017-03-04,Rad,Javor Ivanjica,1,1,0.5
+2016-2017,Regular season,24,2017-03-04,Mladost Lučani,Novi Pazar,0,1,0.0
+2016-2017,Regular season,24,2017-03-04,Voždovac,Radnik Surdulica,3,0,1.0
+2016-2017,Regular season,24,2017-03-04,Spartak Subotic,Čukarički,0,1,0.0
+2016-2017,Regular season,24,2017-03-04,Metalac GM,Bačka Palanka,0,1,0.0
+2016-2017,Regular season,24,2017-03-04,Napredak Kruš,Radnički Niš,1,2,0.0
+2016-2017,Regular season,24,2017-03-04,Red Star,Partizan,1,1,0.5
+2016-2017,Regular season,25,2017-03-08,Novi Pazar,Voždovac,0,1,0.0
+2016-2017,Regular season,25,2017-03-08,Spartak Subotic,Napredak Kruš,1,1,0.5
+2016-2017,Regular season,25,2017-03-08,Bačka Palanka,Mladost Lučani,1,0,1.0
+2016-2017,Regular season,25,2017-03-08,Partizan,Metalac GM,3,0,1.0
+2016-2017,Regular season,25,2017-03-08,Čukarički,Rad,1,1,0.5
+2016-2017,Regular season,25,2017-03-08,Javor Ivanjica,Borac Čačak,2,0,1.0
+2016-2017,Regular season,25,2017-03-08,Radnik Surdulica,Radnički Niš,1,2,0.0
+2016-2017,Regular season,25,2017-03-08,Vojvodina,Red Star,2,3,0.0
+2016-2017,Regular season,26,2017-03-12,Mladost Lučani,Partizan,0,2,0.0
+2016-2017,Regular season,26,2017-03-12,Radnički Niš,Novi Pazar,2,2,0.5
+2016-2017,Regular season,26,2017-03-12,Borac Čačak,Čukarički,2,3,0.0
+2016-2017,Regular season,26,2017-03-12,Rad,Spartak Subotic,2,0,1.0
+2016-2017,Regular season,26,2017-03-12,Voždovac,Bačka Palanka,4,0,1.0
+2016-2017,Regular season,26,2017-03-12,Napredak Kruš,Radnik Surdulica,2,1,1.0
+2016-2017,Regular season,26,2017-03-12,Red Star,Javor Ivanjica,3,0,1.0
+2016-2017,Regular season,26,2017-03-13,Metalac GM,Vojvodina,0,3,0.0
+2016-2017,Regular season,27,2017-03-17,Novi Pazar,Radnik Surdulica,1,0,1.0
+2016-2017,Regular season,27,2017-03-18,Spartak Subotic,Borac Čačak,1,0,1.0
+2016-2017,Regular season,27,2017-03-18,Bačka Palanka,Radnički Niš,1,2,0.0
+2016-2017,Regular season,27,2017-03-18,Rad,Napredak Kruš,0,1,0.0
+2016-2017,Regular season,27,2017-03-18,Partizan,Voždovac,4,0,1.0
+2016-2017,Regular season,27,2017-03-18,Javor Ivanjica,Metalac GM,1,0,1.0
+2016-2017,Regular season,27,2017-03-19,Čukarički,Red Star,3,4,0.0
+2016-2017,Regular season,27,2017-03-19,Vojvodina,Mladost Lučani,0,1,0.0
+2016-2017,Regular season,28,2017-03-31,Metalac GM,Čukarički,0,3,0.0
+2016-2017,Regular season,28,2017-04-01,Red Star,Spartak Subotic,2,1,1.0
+2016-2017,Regular season,28,2017-04-01,Voždovac,Vojvodina,4,1,1.0
+2016-2017,Regular season,28,2017-04-01,Radnik Surdulica,Bačka Palanka,1,0,1.0
+2016-2017,Regular season,28,2017-04-01,Borac Čačak,Rad,0,1,0.0
+2016-2017,Regular season,28,2017-04-01,Napredak Kruš,Novi Pazar,3,0,1.0
+2016-2017,Regular season,28,2017-04-01,Mladost Lučani,Javor Ivanjica,1,0,1.0
+2016-2017,Regular season,28,2017-04-01,Radnički Niš,Partizan,0,2,0.0
+2016-2017,Regular season,29,2017-04-08,Partizan,Radnik Surdulica,2,1,1.0
+2016-2017,Regular season,29,2017-04-09,Borac Čačak,Napredak Kruš,0,1,0.0
+2016-2017,Regular season,29,2017-04-09,Spartak Subotic,Metalac GM,0,0,0.5
+2016-2017,Regular season,29,2017-04-09,Čukarički,Mladost Lučani,1,1,0.5
+2016-2017,Regular season,29,2017-04-09,Bačka Palanka,Novi Pazar,1,0,1.0
+2016-2017,Regular season,29,2017-04-09,Vojvodina,Radnički Niš,1,1,0.5
+2016-2017,Regular season,29,2017-04-09,Rad,Red Star,0,4,0.0
+2016-2017,Regular season,29,2017-04-09,Javor Ivanjica,Voždovac,0,1,0.0
+2016-2017,Regular season,30,2017-04-13,Radnički Niš,Javor Ivanjica,0,1,0.0
+2016-2017,Regular season,30,2017-04-13,Napredak Kruš,Bačka Palanka,2,0,1.0
+2016-2017,Regular season,30,2017-04-13,Radnik Surdulica,Vojvodina,0,0,0.5
+2016-2017,Regular season,30,2017-04-13,Mladost Lučani,Spartak Subotic,4,1,1.0
+2016-2017,Regular season,30,2017-04-13,Voždovac,Čukarički,1,3,0.0
+2016-2017,Regular season,30,2017-04-13,Novi Pazar,Partizan,1,3,0.0
+2016-2017,Regular season,30,2017-04-13,Red Star,Borac Čačak,2,0,1.0
+2016-2017,Regular season,30,2017-04-13,Metalac GM,Rad,1,2,0.0
+2016-2017,Championship round,1,2017-04-18,Voždovac,Javor Ivanjica,1,1,0.5
+2016-2017,Relegation round,1,2017-04-18,Spartak Subotic,Metalac GM,3,1,1.0
+2016-2017,Relegation round,1,2017-04-18,Rad,Borac Čačak,1,2,0.0
+2016-2017,Relegation round,1,2017-04-18,Bačka Palanka,Novi Pazar,4,0,1.0
+2016-2017,Championship round,1,2017-04-18,Red Star,Partizan,1,3,0.0
+2016-2017,Championship round,1,2017-04-18,Mladost Lučani,Radnički Niš,3,2,1.0
+2016-2017,Championship round,1,2017-04-18,Vojvodina,Napredak Kruš,2,1,1.0
+2016-2017,Relegation round,1,2017-04-18,Čukarički,Radnik Surdulica,1,2,0.0
+2016-2017,Championship round,2,2017-04-22,Partizan,Vojvodina,1,0,1.0
+2016-2017,Relegation round,2,2017-04-22,Radnik Surdulica,Spartak Subotic,3,0,1.0
+2016-2017,Relegation round,2,2017-04-22,Borac Čačak,Čukarički,0,1,0.0
+2016-2017,Relegation round,2,2017-04-22,Novi Pazar,Rad,3,0,1.0
+2016-2017,Championship round,2,2017-04-22,Napredak Kruš,Red Star,1,2,0.0
+2016-2017,Relegation round,2,2017-04-23,Metalac GM,Bačka Palanka,2,1,1.0
+2016-2017,Championship round,2,2017-04-23,Javor Ivanjica,Mladost Lučani,0,1,0.0
+2016-2017,Championship round,2,2017-04-23,Radnički Niš,Voždovac,3,0,1.0
+2016-2017,Relegation round,3,2017-04-29,Bačka Palanka,Borac Čačak,0,1,0.0
+2016-2017,Relegation round,3,2017-04-29,Spartak Subotic,Novi Pazar,2,1,1.0
+2016-2017,Championship round,3,2017-04-29,Mladost Lučani,Voždovac,2,0,1.0
+2016-2017,Championship round,3,2017-04-29,Radnički Niš,Javor Ivanjica,2,0,1.0
+2016-2017,Relegation round,3,2017-04-29,Rad,Radnik Surdulica,0,2,0.0
+2016-2017,Championship round,3,2017-04-30,Partizan,Napredak Kruš,3,1,1.0
+2016-2017,Championship round,3,2017-04-30,Red Star,Vojvodina,2,0,1.0
+2016-2017,Relegation round,3,2017-04-30,Čukarički,Metalac GM,2,0,1.0
+2016-2017,Championship round,4,2017-05-05,Javor Ivanjica,Partizan,1,2,0.0
+2016-2017,Championship round,4,2017-05-06,Voždovac,Red Star,3,2,1.0
+2016-2017,Relegation round,4,2017-05-06,Bačka Palanka,Čukarički,2,4,0.0
+2016-2017,Championship round,4,2017-05-06,Vojvodina,Mladost Lučani,2,1,1.0
+2016-2017,Relegation round,4,2017-05-06,Borac Čačak,Metalac GM,1,0,1.0
+2016-2017,Relegation round,4,2017-05-07,Spartak Subotic,Rad,0,0,0.5
+2016-2017,Championship round,4,2017-05-07,Napredak Kruš,Radnički Niš,0,2,0.0
+2016-2017,Relegation round,4,2017-05-07,Radnik Surdulica,Novi Pazar,1,1,0.5
+2016-2017,Championship round,5,2017-05-13,Partizan,Voždovac,2,1,1.0
+2016-2017,Relegation round,5,2017-05-13,Novi Pazar,Borac Čačak,2,0,1.0
+2016-2017,Relegation round,5,2017-05-13,Rad,Bačka Palanka,0,1,0.0
+2016-2017,Championship round,5,2017-05-13,Red Star,Mladost Lučani,4,1,1.0
+2016-2017,Championship round,5,2017-05-13,Napredak Kruš,Javor Ivanjica,3,0,1.0
+2016-2017,Championship round,5,2017-05-13,Vojvodina,Radnički Niš,0,0,0.5
+2016-2017,Relegation round,5,2017-05-13,Čukarički,Spartak Subotic,1,2,0.0
+2016-2017,Relegation round,5,2017-05-13,Metalac GM,Radnik Surdulica,1,1,0.5
+2016-2017,Relegation round,6,2017-05-17,Novi Pazar,Čukarički,0,5,0.0
+2016-2017,Relegation round,6,2017-05-17,Borac Čačak,Spartak Subotic,1,0,1.0
+2016-2017,Relegation round,6,2017-05-17,Rad,Metalac GM,1,0,1.0
+2016-2017,Relegation round,6,2017-05-17,Bačka Palanka,Radnik Surdulica,1,0,1.0
+2016-2017,Championship round,6,2017-05-17,Mladost Lučani,Napredak Kruš,3,2,1.0
+2016-2017,Championship round,6,2017-05-17,Javor Ivanjica,Red Star,0,3,0.0
+2016-2017,Championship round,6,2017-05-17,Voždovac,Vojvodina,0,2,0.0
+2016-2017,Championship round,6,2017-05-17,Radnički Niš,Partizan,1,3,0.0
+2016-2017,Relegation round,7,2017-05-21,Spartak Subotic,Bačka Palanka,2,1,1.0
+2016-2017,Relegation round,7,2017-05-21,Metalac GM,Novi Pazar,3,0,1.0
+2016-2017,Relegation round,7,2017-05-21,Čukarički,Rad,0,1,0.0
+2016-2017,Relegation round,7,2017-05-21,Radnik Surdulica,Borac Čačak,2,2,0.5
+2016-2017,Championship round,7,2017-05-21,Vojvodina,Javor Ivanjica,1,0,1.0
+2016-2017,Championship round,7,2017-05-21,Partizan,Mladost Lučani,5,0,1.0
+2016-2017,Championship round,7,2017-05-21,Red Star,Radnički Niš,4,0,1.0
+2016-2017,Championship round,7,2017-05-21,Napredak Kruš,Voždovac,1,1,0.5

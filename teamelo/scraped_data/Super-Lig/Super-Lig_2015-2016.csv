@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,1,2015-08-14,Fenerbahçe,Eskişehirspor,2,0,1.0
+2015-2016,1,2015-08-15,Trabzonspor,Bursaspor,1,0,1.0
+2015-2016,1,2015-08-15,Başakşehir,Antalyaspor,2,3,0.0
+2015-2016,1,2015-08-15,Sivasspor,Galatasaray,2,2,0.5
+2015-2016,1,2015-08-16,Konyaspor,Akhisarspor,1,1,0.5
+2015-2016,1,2015-08-16,Osmanlıspor,Kayserispor,1,1,0.5
+2015-2016,1,2015-08-16,Gaziantepspor,Kasımpaşa,0,3,0.0
+2015-2016,1,2015-08-16,Mersin İY,Beşiktaş,2,5,0.0
+2015-2016,1,2015-08-17,Gençlerbirliği,Rizespor,2,3,0.0
+2015-2016,2,2015-08-21,Kasımpaşa,Başakşehir,1,0,1.0
+2015-2016,2,2015-08-22,Kayserispor,Konyaspor,1,1,0.5
+2015-2016,2,2015-08-22,Beşiktaş,Trabzonspor,1,2,0.0
+2015-2016,2,2015-08-22,Akhisarspor,Mersin İY,2,0,1.0
+2015-2016,2,2015-08-23,Eskişehirspor,Sivasspor,4,2,1.0
+2015-2016,2,2015-08-23,Bursaspor,Gaziantepspor,0,1,0.0
+2015-2016,2,2015-08-23,Antalyaspor,Gençlerbirliği,3,1,1.0
+2015-2016,2,2015-08-23,Rizespor,Fenerbahçe,1,1,0.5
+2015-2016,2,2015-08-24,Galatasaray,Osmanlıspor,1,2,0.0
+2015-2016,3,2015-08-28,Gaziantepspor,Beşiktaş,0,4,0.0
+2015-2016,3,2015-08-29,Gençlerbirliği,Kasımpaşa,1,0,1.0
+2015-2016,3,2015-08-29,Başakşehir,Bursaspor,2,1,1.0
+2015-2016,3,2015-08-29,Konyaspor,Galatasaray,1,4,0.0
+2015-2016,3,2015-08-29,Mersin İY,Kayserispor,1,2,0.0
+2015-2016,3,2015-08-30,Eskişehirspor,Rizespor,1,1,0.5
+2015-2016,3,2015-08-30,Trabzonspor,Akhisarspor,2,2,0.5
+2015-2016,3,2015-08-30,Sivasspor,Osmanlıspor,1,1,0.5
+2015-2016,3,2015-08-30,Fenerbahçe,Antalyaspor,2,1,1.0
+2015-2016,4,2015-09-12,Bursaspor,Gençlerbirliği,3,2,1.0
+2015-2016,4,2015-09-12,Akhisarspor,Gaziantepspor,0,0,0.5
+2015-2016,4,2015-09-12,Galatasaray,Mersin İY,1,1,0.5
+2015-2016,4,2015-09-12,Antalyaspor,Eskişehirspor,2,0,1.0
+2015-2016,4,2015-09-13,Beşiktaş,Başakşehir,2,0,1.0
+2015-2016,4,2015-09-13,Rizespor,Sivasspor,1,1,0.5
+2015-2016,4,2015-09-13,Osmanlıspor,Konyaspor,1,2,0.0
+2015-2016,4,2015-09-13,Kasımpaşa,Fenerbahçe,0,1,0.0
+2015-2016,4,2015-09-14,Kayserispor,Trabzonspor,0,1,0.0
+2015-2016,5,2015-09-18,Başakşehir,Akhisarspor,2,0,1.0
+2015-2016,5,2015-09-18,Mersin İY,Osmanlıspor,0,4,0.0
+2015-2016,5,2015-09-19,Rizespor,Antalyaspor,5,1,1.0
+2015-2016,5,2015-09-19,Sivasspor,Konyaspor,0,0,0.5
+2015-2016,5,2015-09-19,Trabzonspor,Galatasaray,0,1,0.0
+2015-2016,5,2015-09-19,Eskişehirspor,Kasımpaşa,0,3,0.0
+2015-2016,5,2015-09-20,Gaziantepspor,Kayserispor,1,0,1.0
+2015-2016,5,2015-09-20,Fenerbahçe,Bursaspor,2,1,1.0
+2015-2016,5,2015-09-21,Gençlerbirliği,Beşiktaş,1,1,0.5
+2015-2016,6,2015-09-26,Osmanlıspor,Trabzonspor,3,1,1.0
+2015-2016,6,2015-09-26,Akhisarspor,Gençlerbirliği,1,0,1.0
+2015-2016,6,2015-09-26,Galatasaray,Gaziantepspor,2,1,1.0
+2015-2016,6,2015-09-27,Konyaspor,Mersin İY,2,0,1.0
+2015-2016,6,2015-09-27,Antalyaspor,Sivasspor,1,1,0.5
+2015-2016,6,2015-09-27,Beşiktaş,Fenerbahçe,3,2,1.0
+2015-2016,6,2015-09-28,Kayserispor,Başakşehir,0,1,0.0
+2015-2016,6,2015-09-28,Kasımpaşa,Rizespor,1,1,0.5
+2015-2016,6,2015-09-28,Bursaspor,Eskişehirspor,2,0,1.0
+2015-2016,7,2015-10-02,Sivasspor,Mersin İY,2,2,0.5
+2015-2016,7,2015-10-02,Trabzonspor,Konyaspor,1,2,0.0
+2015-2016,7,2015-10-03,Gaziantepspor,Osmanlıspor,2,1,1.0
+2015-2016,7,2015-10-03,Gençlerbirliği,Kayserispor,2,0,1.0
+2015-2016,7,2015-10-03,Başakşehir,Galatasaray,0,2,0.0
+2015-2016,7,2015-10-04,Rizespor,Bursaspor,2,3,0.0
+2015-2016,7,2015-10-04,Eskişehirspor,Beşiktaş,1,2,0.0
+2015-2016,7,2015-10-04,Antalyaspor,Kasımpaşa,0,0,0.5
+2015-2016,7,2015-10-04,Fenerbahçe,Akhisarspor,2,2,0.5
+2015-2016,8,2015-10-17,Bursaspor,Antalyaspor,0,2,0.0
+2015-2016,8,2015-10-17,Konyaspor,Gaziantepspor,2,1,1.0
+2015-2016,8,2015-10-17,Galatasaray,Gençlerbirliği,4,1,1.0
+2015-2016,8,2015-10-18,Kasımpaşa,Sivasspor,2,1,1.0
+2015-2016,8,2015-10-18,Kayserispor,Fenerbahçe,0,1,0.0
+2015-2016,8,2015-10-18,Akhisarspor,Eskişehirspor,1,0,1.0
+2015-2016,8,2015-10-18,Beşiktaş,Rizespor,1,0,1.0
+2015-2016,8,2015-10-19,Osmanlıspor,Başakşehir,0,3,0.0
+2015-2016,8,2015-10-19,Mersin İY,Trabzonspor,3,2,1.0
+2015-2016,9,2015-10-23,Rizespor,Akhisarspor,0,2,0.0
+2015-2016,9,2015-10-23,Eskişehirspor,Kayserispor,1,3,0.0
+2015-2016,9,2015-10-24,Gençlerbirliği,Osmanlıspor,1,0,1.0
+2015-2016,9,2015-10-24,Kasımpaşa,Bursaspor,0,1,0.0
+2015-2016,9,2015-10-24,Gaziantepspor,Mersin İY,1,0,1.0
+2015-2016,9,2015-10-24,Sivasspor,Trabzonspor,0,2,0.0
+2015-2016,9,2015-10-25,Başakşehir,Konyaspor,4,0,1.0
+2015-2016,9,2015-10-25,Fenerbahçe,Galatasaray,1,1,0.5
+2015-2016,9,2015-10-26,Antalyaspor,Beşiktaş,1,5,0.0
+2015-2016,10,2015-10-28,Bursaspor,Sivasspor,1,0,1.0
+2015-2016,10,2015-10-28,Kayserispor,Rizespor,0,0,0.5
+2015-2016,10,2015-10-28,Trabzonspor,Gaziantepspor,2,2,0.5
+2015-2016,10,2015-10-29,Mersin İY,Başakşehir,1,1,0.5
+2015-2016,10,2015-10-29,Osmanlıspor,Fenerbahçe,0,1,0.0
+2015-2016,10,2015-10-29,Galatasaray,Eskişehirspor,4,0,1.0
+2015-2016,10,2015-10-30,Akhisarspor,Antalyaspor,2,1,1.0
+2015-2016,10,2015-10-30,Konyaspor,Gençlerbirliği,0,0,0.5
+2015-2016,10,2015-10-30,Beşiktaş,Kasımpaşa,3,3,0.5
+2015-2016,11,2015-11-06,Eskişehirspor,Osmanlıspor,0,2,0.0
+2015-2016,11,2015-11-06,Gençlerbirliği,Mersin İY,1,1,0.5
+2015-2016,11,2015-11-07,Antalyaspor,Kayserispor,1,1,0.5
+2015-2016,11,2015-11-07,Başakşehir,Trabzonspor,1,0,1.0
+2015-2016,11,2015-11-07,Rizespor,Galatasaray,4,3,1.0
+2015-2016,11,2015-11-07,Kasımpaşa,Akhisarspor,2,1,1.0
+2015-2016,11,2015-11-08,Sivasspor,Gaziantepspor,3,0,1.0
+2015-2016,11,2015-11-08,Fenerbahçe,Konyaspor,1,0,1.0
+2015-2016,11,2015-11-08,Bursaspor,Beşiktaş,0,1,0.0
+2015-2016,12,2015-11-21,Akhisarspor,Bursaspor,3,1,1.0
+2015-2016,12,2015-11-21,Mersin İY,Fenerbahçe,1,3,0.0
+2015-2016,12,2015-11-21,Kayserispor,Kasımpaşa,0,0,0.5
+2015-2016,12,2015-11-21,Galatasaray,Antalyaspor,3,3,0.5
+2015-2016,12,2015-11-22,Osmanlıspor,Rizespor,0,1,0.0
+2015-2016,12,2015-11-22,Konyaspor,Eskişehirspor,3,2,1.0
+2015-2016,12,2015-11-22,Trabzonspor,Gençlerbirliği,1,0,1.0
+2015-2016,12,2015-11-22,Beşiktaş,Sivasspor,2,0,1.0
+2015-2016,12,2015-11-23,Gaziantepspor,Başakşehir,0,1,0.0
+2015-2016,13,2015-11-27,Rizespor,Konyaspor,0,0,0.5
+2015-2016,13,2015-11-27,Bursaspor,Kayserispor,1,2,0.0
+2015-2016,13,2015-11-27,Antalyaspor,Osmanlıspor,1,1,0.5
+2015-2016,13,2015-11-28,Sivasspor,Başakşehir,2,2,0.5
+2015-2016,13,2015-11-28,Eskişehirspor,Mersin İY,3,2,1.0
+2015-2016,13,2015-11-29,Gençlerbirliği,Gaziantepspor,2,2,0.5
+2015-2016,13,2015-11-29,Beşiktaş,Akhisarspor,0,2,0.0
+2015-2016,13,2015-11-29,Kasımpaşa,Galatasaray,2,2,0.5
+2015-2016,13,2015-11-30,Fenerbahçe,Trabzonspor,2,0,1.0
+2015-2016,14,2015-12-04,Galatasaray,Bursaspor,3,0,1.0
+2015-2016,14,2015-12-05,Osmanlıspor,Kasımpaşa,0,1,0.0
+2015-2016,14,2015-12-05,Konyaspor,Antalyaspor,3,2,1.0
+2015-2016,14,2015-12-05,Kayserispor,Beşiktaş,1,2,0.0
+2015-2016,14,2015-12-06,Başakşehir,Gençlerbirliği,2,0,1.0
+2015-2016,14,2015-12-06,Gaziantepspor,Fenerbahçe,2,2,0.5
+2015-2016,14,2015-12-06,Mersin İY,Rizespor,3,0,1.0
+2015-2016,14,2015-12-07,Akhisarspor,Sivasspor,1,0,1.0
+2015-2016,14,2015-12-07,Trabzonspor,Eskişehirspor,3,1,1.0
+2015-2016,15,2015-12-11,Bursaspor,Osmanlıspor,0,4,0.0
+2015-2016,15,2015-12-12,Kasımpaşa,Konyaspor,2,1,1.0
+2015-2016,15,2015-12-12,Eskişehirspor,Gaziantepspor,1,2,0.0
+2015-2016,15,2015-12-12,Antalyaspor,Mersin İY,3,2,1.0
+2015-2016,15,2015-12-12,Rizespor,Trabzonspor,3,0,1.0
+2015-2016,15,2015-12-13,Kayserispor,Akhisarspor,3,2,1.0
+2015-2016,15,2015-12-13,Gençlerbirliği,Sivasspor,0,1,0.0
+2015-2016,15,2015-12-13,Fenerbahçe,Başakşehir,1,0,1.0
+2015-2016,15,2015-12-14,Beşiktaş,Galatasaray,2,1,1.0
+2015-2016,16,2015-12-19,Gaziantepspor,Rizespor,2,0,1.0
+2015-2016,16,2015-12-19,Konyaspor,Bursaspor,1,0,1.0
+2015-2016,16,2015-12-19,Mersin İY,Kasımpaşa,1,2,0.0
+2015-2016,16,2015-12-19,Trabzonspor,Antalyaspor,3,0,1.0
+2015-2016,16,2015-12-20,Sivasspor,Kayserispor,0,0,0.5
+2015-2016,16,2015-12-20,Galatasaray,Akhisarspor,3,2,1.0
+2015-2016,16,2015-12-20,Başakşehir,Eskişehirspor,2,1,1.0
+2015-2016,16,2015-12-20,Gençlerbirliği,Fenerbahçe,0,1,0.0
+2015-2016,16,2015-12-21,Osmanlıspor,Beşiktaş,2,3,0.0
+2015-2016,17,2015-12-26,Rizespor,Başakşehir,2,1,1.0
+2015-2016,17,2015-12-26,Antalyaspor,Gaziantepspor,0,0,0.5
+2015-2016,17,2015-12-26,Kasımpaşa,Trabzonspor,1,1,0.5
+2015-2016,17,2015-12-27,Bursaspor,Mersin İY,2,1,1.0
+2015-2016,17,2015-12-27,Kayserispor,Galatasaray,1,1,0.5
+2015-2016,17,2015-12-27,Akhisarspor,Osmanlıspor,0,0,0.5
+2015-2016,17,2015-12-27,Beşiktaş,Konyaspor,4,0,1.0
+2015-2016,17,2015-12-28,Eskişehirspor,Gençlerbirliği,2,0,1.0
+2015-2016,17,2015-12-28,Fenerbahçe,Sivasspor,2,1,1.0
+2015-2016,18,2016-01-16,Kayserispor,Osmanlıspor,1,0,1.0
+2015-2016,18,2016-01-16,Kasımpaşa,Gaziantepspor,1,2,0.0
+2015-2016,18,2016-01-16,Akhisarspor,Konyaspor,0,2,0.0
+2015-2016,18,2016-01-16,Galatasaray,Sivasspor,3,1,1.0
+2015-2016,18,2016-01-17,Antalyaspor,Başakşehir,1,2,0.0
+2015-2016,18,2016-01-17,Rizespor,Gençlerbirliği,2,3,0.0
+2015-2016,18,2016-01-17,Bursaspor,Trabzonspor,4,2,1.0
+2015-2016,18,2016-01-18,Eskişehirspor,Fenerbahçe,0,3,0.0
+2015-2016,19,2016-01-23,Konyaspor,Kayserispor,1,0,1.0
+2015-2016,19,2016-01-23,Mersin İY,Akhisarspor,0,0,0.5
+2015-2016,19,2016-01-23,Osmanlıspor,Galatasaray,3,2,1.0
+2015-2016,19,2016-01-24,Gençlerbirliği,Antalyaspor,1,0,1.0
+2015-2016,19,2016-01-24,Sivasspor,Eskişehirspor,1,2,0.0
+2015-2016,19,2016-01-24,Gaziantepspor,Bursaspor,2,3,0.0
+2015-2016,19,2016-01-24,Fenerbahçe,Rizespor,2,1,1.0
+2015-2016,19,2016-01-25,Başakşehir,Kasımpaşa,1,1,0.5
+2015-2016,20,2016-02-05,Osmanlıspor,Sivasspor,4,0,1.0
+2015-2016,20,2016-02-05,Antalyaspor,Fenerbahçe,4,2,1.0
+2015-2016,20,2016-02-06,Kayserispor,Mersin İY,0,1,0.0
+2015-2016,20,2016-02-06,Bursaspor,Başakşehir,3,3,0.5
+2015-2016,20,2016-02-06,Galatasaray,Konyaspor,0,0,0.5
+2015-2016,20,2016-02-07,Rizespor,Eskişehirspor,1,1,0.5
+2015-2016,20,2016-02-07,Akhisarspor,Trabzonspor,2,1,1.0
+2015-2016,20,2016-02-07,Beşiktaş,Gaziantepspor,4,0,1.0
+2015-2016,20,2016-02-08,Kasımpaşa,Gençlerbirliği,0,1,0.0
+2015-2016,21,2016-02-12,Fenerbahçe,Kasımpaşa,3,1,1.0
+2015-2016,21,2016-02-13,Gençlerbirliği,Bursaspor,2,0,1.0
+2015-2016,21,2016-02-13,Konyaspor,Osmanlıspor,1,1,0.5
+2015-2016,21,2016-02-13,Mersin İY,Galatasaray,2,1,1.0
+2015-2016,21,2016-02-14,Gaziantepspor,Akhisarspor,0,1,0.0
+2015-2016,21,2016-02-14,Sivasspor,Rizespor,2,1,1.0
+2015-2016,21,2016-02-14,Eskişehirspor,Antalyaspor,3,2,1.0
+2015-2016,21,2016-02-14,Başakşehir,Beşiktaş,2,2,0.5
+2015-2016,21,2016-02-15,Trabzonspor,Kayserispor,2,1,1.0
+2015-2016,18,2016-02-17,Beşiktaş,Mersin İY,1,0,1.0
+2015-2016,22,2016-02-19,Konyaspor,Sivasspor,2,1,1.0
+2015-2016,22,2016-02-20,Kasımpaşa,Eskişehirspor,2,1,1.0
+2015-2016,22,2016-02-20,Antalyaspor,Rizespor,2,1,1.0
+2015-2016,22,2016-02-20,Bursaspor,Fenerbahçe,0,0,0.5
+2015-2016,22,2016-02-21,Osmanlıspor,Mersin İY,3,1,1.0
+2015-2016,22,2016-02-21,Kayserispor,Gaziantepspor,2,2,0.5
+2015-2016,22,2016-02-21,Akhisarspor,Başakşehir,0,0,0.5
+2015-2016,22,2016-02-21,Galatasaray,Trabzonspor,2,1,1.0
+2015-2016,22,2016-02-22,Beşiktaş,Gençlerbirliği,1,0,1.0
+2015-2016,23,2016-02-26,Başakşehir,Kayserispor,1,0,1.0
+2015-2016,23,2016-02-27,Mersin İY,Konyaspor,0,2,0.0
+2015-2016,23,2016-02-27,Rizespor,Kasımpaşa,2,0,1.0
+2015-2016,23,2016-02-27,Eskişehirspor,Bursaspor,0,1,0.0
+2015-2016,23,2016-02-27,Trabzonspor,Osmanlıspor,1,2,0.0
+2015-2016,23,2016-02-28,Sivasspor,Antalyaspor,0,0,0.5
+2015-2016,23,2016-02-28,Gençlerbirliği,Akhisarspor,3,1,1.0
+2015-2016,23,2016-02-28,Gaziantepspor,Galatasaray,2,0,1.0
+2015-2016,23,2016-02-29,Fenerbahçe,Beşiktaş,2,0,1.0
+2015-2016,24,2016-03-04,Mersin İY,Sivasspor,1,0,1.0
+2015-2016,24,2016-03-05,Kayserispor,Gençlerbirliği,0,2,0.0
+2015-2016,24,2016-03-05,Bursaspor,Rizespor,1,0,1.0
+2015-2016,24,2016-03-05,Osmanlıspor,Gaziantepspor,1,1,0.5
+2015-2016,24,2016-03-06,Kasımpaşa,Antalyaspor,2,1,1.0
+2015-2016,24,2016-03-06,Galatasaray,Başakşehir,3,3,0.5
+2015-2016,24,2016-03-06,Konyaspor,Trabzonspor,2,0,1.0
+2015-2016,24,2016-03-06,Akhisarspor,Fenerbahçe,0,3,0.0
+2015-2016,24,2016-03-07,Beşiktaş,Eskişehirspor,3,1,1.0
+2015-2016,25,2016-03-11,Trabzonspor,Mersin İY,1,0,1.0
+2015-2016,25,2016-03-12,Gaziantepspor,Konyaspor,0,1,0.0
+2015-2016,25,2016-03-12,Başakşehir,Osmanlıspor,2,3,0.0
+2015-2016,25,2016-03-12,Rizespor,Beşiktaş,1,2,0.0
+2015-2016,25,2016-03-13,Eskişehirspor,Akhisarspor,3,3,0.5
+2015-2016,25,2016-03-13,Gençlerbirliği,Galatasaray,1,1,0.5
+2015-2016,25,2016-03-13,Fenerbahçe,Kayserispor,1,0,1.0
+2015-2016,25,2016-03-14,Sivasspor,Kasımpaşa,1,0,1.0
+2015-2016,25,2016-03-14,Antalyaspor,Bursaspor,3,0,1.0
+2015-2016,19,2016-03-15,Trabzonspor,Beşiktaş,0,2,0.0
+2015-2016,26,2016-03-18,Kayserispor,Eskişehirspor,0,0,0.5
+2015-2016,26,2016-03-18,Akhisarspor,Rizespor,1,1,0.5
+2015-2016,26,2016-03-19,Osmanlıspor,Gençlerbirliği,3,1,1.0
+2015-2016,26,2016-03-19,Trabzonspor,Sivasspor,1,0,1.0
+2015-2016,26,2016-03-19,Beşiktaş,Antalyaspor,1,0,1.0
+2015-2016,26,2016-03-20,Konyaspor,Başakşehir,1,1,0.5
+2015-2016,26,2016-03-20,Mersin İY,Gaziantepspor,0,0,0.5
+2015-2016,26,2016-03-20,Bursaspor,Kasımpaşa,4,1,1.0
+2015-2016,27,2016-04-02,Gençlerbirliği,Konyaspor,0,1,0.0
+2015-2016,27,2016-04-02,Gaziantepspor,Trabzonspor,0,1,0.0
+2015-2016,27,2016-04-02,Eskişehirspor,Galatasaray,4,3,1.0
+2015-2016,27,2016-04-03,Başakşehir,Mersin İY,3,0,1.0
+2015-2016,27,2016-04-03,Sivasspor,Bursaspor,1,2,0.0
+2015-2016,27,2016-04-03,Antalyaspor,Akhisarspor,2,2,0.5
+2015-2016,27,2016-04-03,Fenerbahçe,Osmanlıspor,0,0,0.5
+2015-2016,27,2016-04-04,Rizespor,Kayserispor,0,0,0.5
+2015-2016,27,2016-04-04,Kasımpaşa,Beşiktaş,2,1,1.0
+2015-2016,28,2016-04-08,Gaziantepspor,Sivasspor,0,1,0.0
+2015-2016,28,2016-04-09,Osmanlıspor,Eskişehirspor,0,0,0.5
+2015-2016,28,2016-04-09,Galatasaray,Rizespor,1,1,0.5
+2015-2016,28,2016-04-09,Konyaspor,Fenerbahçe,2,1,1.0
+2015-2016,28,2016-04-10,Mersin İY,Gençlerbirliği,1,3,0.0
+2015-2016,28,2016-04-10,Kayserispor,Antalyaspor,0,0,0.5
+2015-2016,28,2016-04-10,Trabzonspor,Başakşehir,1,1,0.5
+2015-2016,28,2016-04-11,Akhisarspor,Kasımpaşa,0,1,0.0
+2015-2016,28,2016-04-11,Beşiktaş,Bursaspor,3,2,1.0
+2015-2016,26,2016-04-13,Galatasaray,Fenerbahçe,0,0,0.5
+2015-2016,29,2016-04-16,Eskişehirspor,Konyaspor,1,2,0.0
+2015-2016,29,2016-04-16,Rizespor,Osmanlıspor,0,1,0.0
+2015-2016,29,2016-04-16,Antalyaspor,Galatasaray,4,2,1.0
+2015-2016,29,2016-04-16,Sivasspor,Beşiktaş,1,2,0.0
+2015-2016,29,2016-04-17,Başakşehir,Gaziantepspor,4,1,1.0
+2015-2016,29,2016-04-17,Kasımpaşa,Kayserispor,1,2,0.0
+2015-2016,29,2016-04-17,Bursaspor,Akhisarspor,0,2,0.0
+2015-2016,29,2016-04-17,Fenerbahçe,Mersin İY,4,1,1.0
+2015-2016,29,2016-04-18,Gençlerbirliği,Trabzonspor,3,1,1.0
+2015-2016,30,2016-04-22,Kayserispor,Bursaspor,2,1,1.0
+2015-2016,30,2016-04-23,Osmanlıspor,Antalyaspor,3,0,1.0
+2015-2016,30,2016-04-23,Başakşehir,Sivasspor,2,2,0.5
+2015-2016,30,2016-04-23,Akhisarspor,Beşiktaş,3,3,0.5
+2015-2016,30,2016-04-24,Mersin İY,Eskişehirspor,1,2,0.0
+2015-2016,30,2016-04-24,Konyaspor,Rizespor,3,1,1.0
+2015-2016,30,2016-04-24,Galatasaray,Kasımpaşa,4,1,1.0
+2015-2016,30,2016-04-24,Trabzonspor,Fenerbahçe,0,4,0.0
+2015-2016,30,2016-04-25,Gaziantepspor,Gençlerbirliği,1,3,0.0
+2015-2016,31,2016-04-29,Rizespor,Mersin İY,2,0,1.0
+2015-2016,31,2016-04-29,Bursaspor,Galatasaray,1,1,0.5
+2015-2016,31,2016-04-30,Gençlerbirliği,Başakşehir,0,0,0.5
+2015-2016,31,2016-04-30,Eskişehirspor,Trabzonspor,1,0,1.0
+2015-2016,31,2016-04-30,Beşiktaş,Kayserispor,4,0,1.0
+2015-2016,31,2016-05-01,Sivasspor,Akhisarspor,1,1,0.5
+2015-2016,31,2016-05-01,Antalyaspor,Konyaspor,1,0,1.0
+2015-2016,31,2016-05-01,Fenerbahçe,Gaziantepspor,3,0,1.0
+2015-2016,31,2016-05-02,Kasımpaşa,Osmanlıspor,1,1,0.5
+2015-2016,32,2016-05-07,Sivasspor,Gençlerbirliği,2,1,1.0
+2015-2016,32,2016-05-07,Gaziantepspor,Eskişehirspor,1,1,0.5
+2015-2016,32,2016-05-07,Osmanlıspor,Bursaspor,3,3,0.5
+2015-2016,32,2016-05-08,Akhisarspor,Kayserispor,1,1,0.5
+2015-2016,32,2016-05-08,Trabzonspor,Rizespor,6,0,1.0
+2015-2016,32,2016-05-08,Mersin İY,Antalyaspor,0,1,0.0
+2015-2016,32,2016-05-08,Galatasaray,Beşiktaş,0,1,0.0
+2015-2016,32,2016-05-09,Konyaspor,Kasımpaşa,2,0,1.0
+2015-2016,32,2016-05-09,Başakşehir,Fenerbahçe,2,1,1.0
+2015-2016,33,2016-05-13,Antalyaspor,Trabzonspor,7,0,1.0
+2015-2016,33,2016-05-14,Bursaspor,Konyaspor,1,1,0.5
+2015-2016,33,2016-05-14,Rizespor,Gaziantepspor,1,0,1.0
+2015-2016,33,2016-05-14,Kayserispor,Sivasspor,1,1,0.5
+2015-2016,33,2016-05-14,Eskişehirspor,Başakşehir,1,2,0.0
+2015-2016,33,2016-05-15,Kasımpaşa,Mersin İY,7,0,1.0
+2015-2016,33,2016-05-15,Fenerbahçe,Gençlerbirliği,2,1,1.0
+2015-2016,33,2016-05-15,Beşiktaş,Osmanlıspor,3,1,1.0
+2015-2016,33,2016-05-15,Akhisarspor,Galatasaray,1,2,0.0
+2015-2016,34,2016-05-18,Konyaspor,Beşiktaş,2,1,1.0
+2015-2016,34,2016-05-18,Mersin İY,Bursaspor,2,5,0.0
+2015-2016,34,2016-05-18,Başakşehir,Rizespor,1,0,1.0
+2015-2016,34,2016-05-19,Gençlerbirliği,Eskişehirspor,3,1,1.0
+2015-2016,34,2016-05-19,Osmanlıspor,Akhisarspor,1,0,1.0
+2015-2016,34,2016-05-19,Gaziantepspor,Antalyaspor,2,0,1.0
+2015-2016,34,2016-05-19,Sivasspor,Fenerbahçe,2,2,0.5
+2015-2016,34,2016-05-19,Trabzonspor,Kasımpaşa,0,6,0.0
+2015-2016,34,2016-05-19,Galatasaray,Kayserispor,6,0,1.0

@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2011-2012,1,2011-08-05,Dortmund,Hamburger SV,3,1,1.0
+2011-2012,1,2011-08-06,Hertha BSC,Nürnberg,0,1,0.0
+2011-2012,1,2011-08-06,Augsburg,Freiburg,2,2,0.5
+2011-2012,1,2011-08-06,Werder Bremen,Kaiserslautern,2,0,1.0
+2011-2012,1,2011-08-06,Köln,Wolfsburg,0,3,0.0
+2011-2012,1,2011-08-06,Stuttgart,Schalke 04,3,0,1.0
+2011-2012,1,2011-08-06,Hannover 96,Hoffenheim,2,1,1.0
+2011-2012,1,2011-08-07,Mainz 05,Leverkusen,2,0,1.0
+2011-2012,1,2011-08-07,Bayern Munich,Gladbach,0,1,0.0
+2011-2012,2,2011-08-13,Nürnberg,Hannover 96,1,2,0.0
+2011-2012,2,2011-08-13,Wolfsburg,Bayern Munich,0,1,0.0
+2011-2012,2,2011-08-13,Hoffenheim,Dortmund,1,0,1.0
+2011-2012,2,2011-08-13,Freiburg,Mainz 05,1,2,0.0
+2011-2012,2,2011-08-13,Schalke 04,Köln,5,1,1.0
+2011-2012,2,2011-08-13,Gladbach,Stuttgart,1,1,0.5
+2011-2012,2,2011-08-13,Hamburger SV,Hertha BSC,2,2,0.5
+2011-2012,2,2011-08-14,Kaiserslautern,Augsburg,1,1,0.5
+2011-2012,2,2011-08-14,Leverkusen,Werder Bremen,1,0,1.0
+2011-2012,3,2011-08-19,Gladbach,Wolfsburg,4,1,1.0
+2011-2012,3,2011-08-20,Werder Bremen,Freiburg,5,3,1.0
+2011-2012,3,2011-08-20,Augsburg,Hoffenheim,0,2,0.0
+2011-2012,3,2011-08-20,Dortmund,Nürnberg,2,0,1.0
+2011-2012,3,2011-08-20,Stuttgart,Leverkusen,0,1,0.0
+2011-2012,3,2011-08-20,Bayern Munich,Hamburger SV,5,0,1.0
+2011-2012,3,2011-08-20,Köln,Kaiserslautern,1,1,0.5
+2011-2012,3,2011-08-21,Mainz 05,Schalke 04,2,4,0.0
+2011-2012,3,2011-08-21,Hannover 96,Hertha BSC,1,1,0.5
+2011-2012,4,2011-08-26,Hertha BSC,Stuttgart,1,0,1.0
+2011-2012,4,2011-08-27,Leverkusen,Dortmund,0,0,0.5
+2011-2012,4,2011-08-27,Hamburger SV,Köln,3,4,0.0
+2011-2012,4,2011-08-27,Hoffenheim,Werder Bremen,1,2,0.0
+2011-2012,4,2011-08-27,Freiburg,Wolfsburg,3,0,1.0
+2011-2012,4,2011-08-27,Nürnberg,Augsburg,1,0,1.0
+2011-2012,4,2011-08-27,Kaiserslautern,Bayern Munich,0,3,0.0
+2011-2012,4,2011-08-28,Hannover 96,Mainz 05,1,1,0.5
+2011-2012,4,2011-08-28,Schalke 04,Gladbach,1,0,1.0
+2011-2012,5,2011-09-09,Augsburg,Leverkusen,1,4,0.0
+2011-2012,5,2011-09-10,Werder Bremen,Hamburger SV,2,0,1.0
+2011-2012,5,2011-09-10,Stuttgart,Hannover 96,3,0,1.0
+2011-2012,5,2011-09-10,Gladbach,Kaiserslautern,1,0,1.0
+2011-2012,5,2011-09-10,Dortmund,Hertha BSC,1,2,0.0
+2011-2012,5,2011-09-10,Bayern Munich,Freiburg,7,0,1.0
+2011-2012,5,2011-09-10,Mainz 05,Hoffenheim,0,4,0.0
+2011-2012,5,2011-09-11,Wolfsburg,Schalke 04,2,1,1.0
+2011-2012,5,2011-09-11,Köln,Nürnberg,1,2,0.0
+2011-2012,6,2011-09-16,Freiburg,Stuttgart,1,2,0.0
+2011-2012,6,2011-09-17,Hertha BSC,Augsburg,2,2,0.5
+2011-2012,6,2011-09-17,Nürnberg,Werder Bremen,1,1,0.5
+2011-2012,6,2011-09-17,Hamburger SV,Gladbach,0,1,0.0
+2011-2012,6,2011-09-17,Hoffenheim,Wolfsburg,3,1,1.0
+2011-2012,6,2011-09-17,Leverkusen,Köln,1,4,0.0
+2011-2012,6,2011-09-17,Kaiserslautern,Mainz 05,3,1,1.0
+2011-2012,6,2011-09-18,Hannover 96,Dortmund,2,1,1.0
+2011-2012,6,2011-09-18,Schalke 04,Bayern Munich,0,2,0.0
+2011-2012,7,2011-09-23,Stuttgart,Hamburger SV,1,2,0.0
+2011-2012,7,2011-09-24,Bayern Munich,Leverkusen,3,0,1.0
+2011-2012,7,2011-09-24,Gladbach,Nürnberg,1,0,1.0
+2011-2012,7,2011-09-24,Wolfsburg,Kaiserslautern,1,0,1.0
+2011-2012,7,2011-09-24,Augsburg,Hannover 96,0,0,0.5
+2011-2012,7,2011-09-24,Mainz 05,Dortmund,1,2,0.0
+2011-2012,7,2011-09-24,Schalke 04,Freiburg,4,2,1.0
+2011-2012,7,2011-09-25,Werder Bremen,Hertha BSC,2,1,1.0
+2011-2012,7,2011-09-25,Köln,Hoffenheim,2,0,1.0
+2011-2012,8,2011-09-30,Kaiserslautern,Stuttgart,0,2,0.0
+2011-2012,8,2011-10-01,Nürnberg,Mainz 05,3,3,0.5
+2011-2012,8,2011-10-01,Dortmund,Augsburg,4,0,1.0
+2011-2012,8,2011-10-01,Freiburg,Gladbach,1,0,1.0
+2011-2012,8,2011-10-01,Hoffenheim,Bayern Munich,0,0,0.5
+2011-2012,8,2011-10-01,Hertha BSC,Köln,3,0,1.0
+2011-2012,8,2011-10-01,Leverkusen,Wolfsburg,3,1,1.0
+2011-2012,8,2011-10-02,Hannover 96,Werder Bremen,3,2,1.0
+2011-2012,8,2011-10-02,Hamburger SV,Schalke 04,1,2,0.0
+2011-2012,9,2011-10-14,Werder Bremen,Dortmund,0,2,0.0
+2011-2012,9,2011-10-15,Schalke 04,Kaiserslautern,1,2,0.0
+2011-2012,9,2011-10-15,Wolfsburg,Nürnberg,2,1,1.0
+2011-2012,9,2011-10-15,Mainz 05,Augsburg,0,1,0.0
+2011-2012,9,2011-10-15,Stuttgart,Hoffenheim,2,0,1.0
+2011-2012,9,2011-10-15,Gladbach,Leverkusen,2,2,0.5
+2011-2012,9,2011-10-15,Bayern Munich,Hertha BSC,4,0,1.0
+2011-2012,9,2011-10-16,Köln,Hannover 96,2,0,1.0
+2011-2012,9,2011-10-16,Freiburg,Hamburger SV,1,2,0.0
+2011-2012,10,2011-10-21,Augsburg,Werder Bremen,1,1,0.5
+2011-2012,10,2011-10-22,Kaiserslautern,Freiburg,1,0,1.0
+2011-2012,10,2011-10-22,Hertha BSC,Mainz 05,0,0,0.5
+2011-2012,10,2011-10-22,Hamburger SV,Wolfsburg,1,1,0.5
+2011-2012,10,2011-10-22,Hoffenheim,Gladbach,1,0,1.0
+2011-2012,10,2011-10-22,Dortmund,Köln,5,0,1.0
+2011-2012,10,2011-10-22,Nürnberg,Stuttgart,2,2,0.5
+2011-2012,10,2011-10-23,Hannover 96,Bayern Munich,2,1,1.0
+2011-2012,10,2011-10-23,Leverkusen,Schalke 04,0,1,0.0
+2011-2012,11,2011-10-28,Freiburg,Leverkusen,0,1,0.0
+2011-2012,11,2011-10-29,Bayern Munich,Nürnberg,4,0,1.0
+2011-2012,11,2011-10-29,Schalke 04,Hoffenheim,3,1,1.0
+2011-2012,11,2011-10-29,Stuttgart,Dortmund,1,1,0.5
+2011-2012,11,2011-10-29,Gladbach,Hannover 96,2,1,1.0
+2011-2012,11,2011-10-29,Mainz 05,Werder Bremen,1,3,0.0
+2011-2012,11,2011-10-29,Wolfsburg,Hertha BSC,2,3,0.0
+2011-2012,11,2011-10-30,Hamburger SV,Kaiserslautern,1,1,0.5
+2011-2012,11,2011-10-30,Köln,Augsburg,3,0,1.0
+2011-2012,12,2011-11-04,Mainz 05,Stuttgart,3,1,1.0
+2011-2012,12,2011-11-05,Leverkusen,Hamburger SV,2,2,0.5
+2011-2012,12,2011-11-05,Nürnberg,Freiburg,1,2,0.0
+2011-2012,12,2011-11-05,Hertha BSC,Gladbach,1,2,0.0
+2011-2012,12,2011-11-05,Dortmund,Wolfsburg,5,1,1.0
+2011-2012,12,2011-11-05,Hoffenheim,Kaiserslautern,1,1,0.5
+2011-2012,12,2011-11-05,Werder Bremen,Köln,3,2,1.0
+2011-2012,12,2011-11-06,Hannover 96,Schalke 04,2,2,0.5
+2011-2012,12,2011-11-06,Augsburg,Bayern Munich,1,2,0.0
+2011-2012,13,2011-11-18,Kaiserslautern,Leverkusen,0,2,0.0
+2011-2012,13,2011-11-19,Freiburg,Hertha BSC,2,2,0.5
+2011-2012,13,2011-11-19,Gladbach,Werder Bremen,5,0,1.0
+2011-2012,13,2011-11-19,Bayern Munich,Dortmund,0,1,0.0
+2011-2012,13,2011-11-19,Wolfsburg,Hannover 96,4,1,1.0
+2011-2012,13,2011-11-19,Schalke 04,Nürnberg,4,0,1.0
+2011-2012,13,2011-11-20,Hamburger SV,Hoffenheim,2,0,1.0
+2011-2012,13,2011-11-20,Stuttgart,Augsburg,2,1,1.0
+2011-2012,14,2011-11-25,Köln,Gladbach,0,3,0.0
+2011-2012,14,2011-11-26,Hoffenheim,Freiburg,1,1,0.5
+2011-2012,14,2011-11-26,Hertha BSC,Leverkusen,3,3,0.5
+2011-2012,14,2011-11-26,Dortmund,Schalke 04,2,0,1.0
+2011-2012,14,2011-11-26,Hannover 96,Hamburger SV,1,1,0.5
+2011-2012,14,2011-11-26,Nürnberg,Kaiserslautern,1,0,1.0
+2011-2012,14,2011-11-26,Augsburg,Wolfsburg,2,0,1.0
+2011-2012,14,2011-11-27,Mainz 05,Bayern Munich,3,2,1.0
+2011-2012,14,2011-11-27,Werder Bremen,Stuttgart,2,0,1.0
+2011-2012,15,2011-12-02,Leverkusen,Hoffenheim,2,0,1.0
+2011-2012,15,2011-12-03,Gladbach,Dortmund,1,1,0.5
+2011-2012,15,2011-12-03,Freiburg,Hannover 96,1,1,0.5
+2011-2012,15,2011-12-03,Wolfsburg,Mainz 05,2,2,0.5
+2011-2012,15,2011-12-03,Stuttgart,Köln,2,2,0.5
+2011-2012,15,2011-12-03,Bayern Munich,Werder Bremen,4,1,1.0
+2011-2012,15,2011-12-03,Kaiserslautern,Hertha BSC,1,1,0.5
+2011-2012,15,2011-12-04,Hamburger SV,Nürnberg,2,0,1.0
+2011-2012,15,2011-12-04,Schalke 04,Augsburg,3,1,1.0
+2011-2012,16,2011-12-09,Hertha BSC,Schalke 04,1,2,0.0
+2011-2012,16,2011-12-10,Hannover 96,Leverkusen,0,0,0.5
+2011-2012,16,2011-12-10,Werder Bremen,Wolfsburg,4,1,1.0
+2011-2012,16,2011-12-10,Nürnberg,Hoffenheim,0,2,0.0
+2011-2012,16,2011-12-10,Köln,Freiburg,4,0,1.0
+2011-2012,16,2011-12-10,Mainz 05,Hamburger SV,0,0,0.5
+2011-2012,16,2011-12-10,Augsburg,Gladbach,1,0,1.0
+2011-2012,16,2011-12-11,Stuttgart,Bayern Munich,1,2,0.0
+2011-2012,16,2011-12-11,Dortmund,Kaiserslautern,1,1,0.5
+2011-2012,13,2011-12-13,Köln,Mainz 05,1,1,0.5
+2011-2012,17,2011-12-16,Bayern Munich,Köln,3,0,1.0
+2011-2012,17,2011-12-17,Freiburg,Dortmund,1,4,0.0
+2011-2012,17,2011-12-17,Wolfsburg,Stuttgart,1,0,1.0
+2011-2012,17,2011-12-17,Leverkusen,Nürnberg,0,3,0.0
+2011-2012,17,2011-12-17,Schalke 04,Werder Bremen,5,0,1.0
+2011-2012,17,2011-12-17,Hamburger SV,Augsburg,1,1,0.5
+2011-2012,17,2011-12-17,Hoffenheim,Hertha BSC,1,1,0.5
+2011-2012,17,2011-12-18,Gladbach,Mainz 05,1,0,1.0
+2011-2012,17,2011-12-18,Kaiserslautern,Hannover 96,1,1,0.5
+2011-2012,18,2012-01-20,Gladbach,Bayern Munich,3,1,1.0
+2011-2012,18,2012-01-21,Freiburg,Augsburg,1,0,1.0
+2011-2012,18,2012-01-21,Nürnberg,Hertha BSC,2,0,1.0
+2011-2012,18,2012-01-21,Wolfsburg,Köln,1,0,1.0
+2011-2012,18,2012-01-21,Hoffenheim,Hannover 96,0,0,0.5
+2011-2012,18,2012-01-21,Schalke 04,Stuttgart,3,1,1.0
+2011-2012,18,2012-01-21,Kaiserslautern,Werder Bremen,0,0,0.5
+2011-2012,18,2012-01-22,Leverkusen,Mainz 05,3,2,1.0
+2011-2012,18,2012-01-22,Hamburger SV,Dortmund,1,5,0.0
+2011-2012,19,2012-01-27,Hannover 96,Nürnberg,1,0,1.0
+2011-2012,19,2012-01-28,Dortmund,Hoffenheim,3,1,1.0
+2011-2012,19,2012-01-28,Bayern Munich,Wolfsburg,2,0,1.0
+2011-2012,19,2012-01-28,Köln,Schalke 04,1,4,0.0
+2011-2012,19,2012-01-28,Augsburg,Kaiserslautern,2,2,0.5
+2011-2012,19,2012-01-28,Hertha BSC,Hamburger SV,1,2,0.0
+2011-2012,19,2012-01-28,Werder Bremen,Leverkusen,1,1,0.5
+2011-2012,19,2012-01-29,Stuttgart,Gladbach,0,3,0.0
+2011-2012,19,2012-01-29,Mainz 05,Freiburg,3,1,1.0
+2011-2012,20,2012-02-03,Nürnberg,Dortmund,0,2,0.0
+2011-2012,20,2012-02-04,Hamburger SV,Bayern Munich,1,1,0.5
+2011-2012,20,2012-02-04,Hoffenheim,Augsburg,2,2,0.5
+2011-2012,20,2012-02-04,Leverkusen,Stuttgart,2,2,0.5
+2011-2012,20,2012-02-04,Wolfsburg,Gladbach,0,0,0.5
+2011-2012,20,2012-02-04,Schalke 04,Mainz 05,1,1,0.5
+2011-2012,20,2012-02-04,Hertha BSC,Hannover 96,0,1,0.0
+2011-2012,20,2012-02-05,Freiburg,Werder Bremen,2,2,0.5
+2011-2012,20,2012-02-05,Kaiserslautern,Köln,0,1,0.0
+2011-2012,21,2012-02-10,Wolfsburg,Freiburg,3,2,1.0
+2011-2012,21,2012-02-11,Mainz 05,Hannover 96,1,1,0.5
+2011-2012,21,2012-02-11,Bayern Munich,Kaiserslautern,2,0,1.0
+2011-2012,21,2012-02-11,Gladbach,Schalke 04,3,0,1.0
+2011-2012,21,2012-02-11,Dortmund,Leverkusen,1,0,1.0
+2011-2012,21,2012-02-11,Stuttgart,Hertha BSC,5,0,1.0
+2011-2012,21,2012-02-11,Werder Bremen,Hoffenheim,1,1,0.5
+2011-2012,21,2012-02-12,Augsburg,Nürnberg,0,0,0.5
+2011-2012,21,2012-02-12,Köln,Hamburger SV,0,1,0.0
+2011-2012,22,2012-02-17,Hoffenheim,Mainz 05,1,1,0.5
+2011-2012,22,2012-02-18,Hertha BSC,Dortmund,0,1,0.0
+2011-2012,22,2012-02-18,Kaiserslautern,Gladbach,1,2,0.0
+2011-2012,22,2012-02-18,Leverkusen,Augsburg,4,1,1.0
+2011-2012,22,2012-02-18,Nürnberg,Köln,2,1,1.0
+2011-2012,22,2012-02-18,Hamburger SV,Werder Bremen,1,3,0.0
+2011-2012,22,2012-02-18,Freiburg,Bayern Munich,0,0,0.5
+2011-2012,22,2012-02-19,Schalke 04,Wolfsburg,4,0,1.0
+2011-2012,22,2012-02-19,Hannover 96,Stuttgart,4,2,1.0
+2011-2012,23,2012-02-24,Gladbach,Hamburger SV,1,1,0.5
+2011-2012,23,2012-02-25,Köln,Leverkusen,0,2,0.0
+2011-2012,23,2012-02-25,Werder Bremen,Nürnberg,0,1,0.0
+2011-2012,23,2012-02-25,Augsburg,Hertha BSC,3,0,1.0
+2011-2012,23,2012-02-25,Stuttgart,Freiburg,4,1,1.0
+2011-2012,23,2012-02-25,Wolfsburg,Hoffenheim,1,2,0.0
+2011-2012,23,2012-02-25,Mainz 05,Kaiserslautern,4,0,1.0
+2011-2012,23,2012-02-26,Bayern Munich,Schalke 04,2,0,1.0
+2011-2012,23,2012-02-26,Dortmund,Hannover 96,3,1,1.0
+2011-2012,24,2012-03-03,Dortmund,Mainz 05,2,1,1.0
+2011-2012,24,2012-03-03,Hamburger SV,Stuttgart,0,4,0.0
+2011-2012,24,2012-03-03,Hertha BSC,Werder Bremen,1,0,1.0
+2011-2012,24,2012-03-03,Hannover 96,Augsburg,2,2,0.5
+2011-2012,24,2012-03-03,Leverkusen,Bayern Munich,2,0,1.0
+2011-2012,24,2012-03-03,Freiburg,Schalke 04,2,1,1.0
+2011-2012,24,2012-03-03,Kaiserslautern,Wolfsburg,0,0,0.5
+2011-2012,24,2012-03-04,Nürnberg,Gladbach,1,0,1.0
+2011-2012,24,2012-03-04,Hoffenheim,Köln,1,1,0.5
+2011-2012,25,2012-03-09,Stuttgart,Kaiserslautern,0,0,0.5
+2011-2012,25,2012-03-10,Gladbach,Freiburg,0,0,0.5
+2011-2012,25,2012-03-10,Bayern Munich,Hoffenheim,7,1,1.0
+2011-2012,25,2012-03-10,Wolfsburg,Leverkusen,3,2,1.0
+2011-2012,25,2012-03-10,Augsburg,Dortmund,0,0,0.5
+2011-2012,25,2012-03-10,Köln,Hertha BSC,1,0,1.0
+2011-2012,25,2012-03-10,Mainz 05,Nürnberg,2,1,1.0
+2011-2012,25,2012-03-11,Schalke 04,Hamburger SV,3,1,1.0
+2011-2012,25,2012-03-11,Werder Bremen,Hannover 96,3,0,1.0
+2011-2012,26,2012-03-16,Hoffenheim,Stuttgart,1,2,0.0
+2011-2012,26,2012-03-17,Nürnberg,Wolfsburg,1,3,0.0
+2011-2012,26,2012-03-17,Dortmund,Werder Bremen,1,0,1.0
+2011-2012,26,2012-03-17,Hertha BSC,Bayern Munich,0,6,0.0
+2011-2012,26,2012-03-17,Hamburger SV,Freiburg,1,3,0.0
+2011-2012,26,2012-03-17,Leverkusen,Gladbach,1,2,0.0
+2011-2012,26,2012-03-17,Augsburg,Mainz 05,2,1,1.0
+2011-2012,26,2012-03-18,Hannover 96,Köln,4,1,1.0
+2011-2012,26,2012-03-18,Kaiserslautern,Schalke 04,1,4,0.0
+2011-2012,27,2012-03-23,Wolfsburg,Hamburger SV,2,1,1.0
+2011-2012,27,2012-03-24,Mainz 05,Hertha BSC,1,3,0.0
+2011-2012,27,2012-03-24,Bayern Munich,Hannover 96,2,1,1.0
+2011-2012,27,2012-03-24,Werder Bremen,Augsburg,1,1,0.5
+2011-2012,27,2012-03-24,Freiburg,Kaiserslautern,2,0,1.0
+2011-2012,27,2012-03-24,Gladbach,Hoffenheim,1,2,0.0
+2011-2012,27,2012-03-24,Schalke 04,Leverkusen,2,0,1.0
+2011-2012,27,2012-03-25,Köln,Dortmund,1,6,0.0
+2011-2012,27,2012-03-25,Stuttgart,Nürnberg,1,0,1.0
+2011-2012,28,2012-03-30,Dortmund,Stuttgart,4,4,0.5
+2011-2012,28,2012-03-31,Werder Bremen,Mainz 05,0,3,0.0
+2011-2012,28,2012-03-31,Kaiserslautern,Hamburger SV,0,1,0.0
+2011-2012,28,2012-03-31,Leverkusen,Freiburg,0,2,0.0
+2011-2012,28,2012-03-31,Hertha BSC,Wolfsburg,1,4,0.0
+2011-2012,28,2012-03-31,Nürnberg,Bayern Munich,0,1,0.0
+2011-2012,28,2012-03-31,Augsburg,Köln,2,1,1.0
+2011-2012,28,2012-04-01,Hoffenheim,Schalke 04,1,1,0.5
+2011-2012,28,2012-04-01,Hannover 96,Gladbach,2,1,1.0
+2011-2012,29,2012-04-07,Gladbach,Hertha BSC,0,0,0.5
+2011-2012,29,2012-04-07,Stuttgart,Mainz 05,4,1,1.0
+2011-2012,29,2012-04-07,Köln,Werder Bremen,1,1,0.5
+2011-2012,29,2012-04-07,Kaiserslautern,Hoffenheim,1,2,0.0
+2011-2012,29,2012-04-07,Bayern Munich,Augsburg,2,1,1.0
+2011-2012,29,2012-04-07,Freiburg,Nürnberg,2,2,0.5
+2011-2012,29,2012-04-07,Wolfsburg,Dortmund,1,3,0.0
+2011-2012,29,2012-04-08,Hamburger SV,Leverkusen,1,1,0.5
+2011-2012,29,2012-04-08,Schalke 04,Hannover 96,3,0,1.0
+2011-2012,30,2012-04-10,Hertha BSC,Freiburg,1,2,0.0
+2011-2012,30,2012-04-10,Augsburg,Stuttgart,1,3,0.0
+2011-2012,30,2012-04-10,Mainz 05,Köln,4,0,1.0
+2011-2012,30,2012-04-10,Werder Bremen,Gladbach,2,2,0.5
+2011-2012,30,2012-04-11,Nürnberg,Schalke 04,4,1,1.0
+2011-2012,30,2012-04-11,Hoffenheim,Hamburger SV,4,0,1.0
+2011-2012,30,2012-04-11,Hannover 96,Wolfsburg,2,0,1.0
+2011-2012,30,2012-04-11,Dortmund,Bayern Munich,1,0,1.0
+2011-2012,30,2012-04-11,Leverkusen,Kaiserslautern,3,1,1.0
+2011-2012,31,2012-04-13,Stuttgart,Werder Bremen,4,1,1.0
+2011-2012,31,2012-04-14,Wolfsburg,Augsburg,1,2,0.0
+2011-2012,31,2012-04-14,Bayern Munich,Mainz 05,0,0,0.5
+2011-2012,31,2012-04-14,Kaiserslautern,Nürnberg,0,2,0.0
+2011-2012,31,2012-04-14,Hamburger SV,Hannover 96,1,0,1.0
+2011-2012,31,2012-04-14,Schalke 04,Dortmund,1,2,0.0
+2011-2012,31,2012-04-14,Leverkusen,Hertha BSC,3,3,0.5
+2011-2012,31,2012-04-15,Gladbach,Köln,3,0,1.0
+2011-2012,31,2012-04-15,Freiburg,Hoffenheim,0,0,0.5
+2011-2012,32,2012-04-20,Mainz 05,Wolfsburg,0,0,0.5
+2011-2012,32,2012-04-21,Köln,Stuttgart,1,1,0.5
+2011-2012,32,2012-04-21,Hoffenheim,Leverkusen,0,1,0.0
+2011-2012,32,2012-04-21,Nürnberg,Hamburger SV,1,1,0.5
+2011-2012,32,2012-04-21,Werder Bremen,Bayern Munich,1,2,0.0
+2011-2012,32,2012-04-21,Hertha BSC,Kaiserslautern,1,2,0.0
+2011-2012,32,2012-04-21,Dortmund,Gladbach,2,0,1.0
+2011-2012,32,2012-04-22,Augsburg,Schalke 04,1,1,0.5
+2011-2012,32,2012-04-22,Hannover 96,Freiburg,0,0,0.5
+2011-2012,33,2012-04-28,Leverkusen,Hannover 96,1,0,1.0
+2011-2012,33,2012-04-28,Bayern Munich,Stuttgart,2,0,1.0
+2011-2012,33,2012-04-28,Schalke 04,Hertha BSC,4,0,1.0
+2011-2012,33,2012-04-28,Kaiserslautern,Dortmund,2,5,0.0
+2011-2012,33,2012-04-28,Freiburg,Köln,4,1,1.0
+2011-2012,33,2012-04-28,Hoffenheim,Nürnberg,2,3,0.0
+2011-2012,33,2012-04-28,Wolfsburg,Werder Bremen,3,1,1.0
+2011-2012,33,2012-04-28,Hamburger SV,Mainz 05,0,0,0.5
+2011-2012,33,2012-04-28,Gladbach,Augsburg,0,0,0.5
+2011-2012,34,2012-05-05,Hannover 96,Kaiserslautern,2,1,1.0
+2011-2012,34,2012-05-05,Hertha BSC,Hoffenheim,3,1,1.0
+2011-2012,34,2012-05-05,Köln,Bayern Munich,1,4,0.0
+2011-2012,34,2012-05-05,Mainz 05,Gladbach,0,3,0.0
+2011-2012,34,2012-05-05,Augsburg,Hamburger SV,1,0,1.0
+2011-2012,34,2012-05-05,Stuttgart,Wolfsburg,3,2,1.0
+2011-2012,34,2012-05-05,Nürnberg,Leverkusen,1,4,0.0
+2011-2012,34,2012-05-05,Dortmund,Freiburg,4,0,1.0
+2011-2012,34,2012-05-05,Werder Bremen,Schalke 04,2,3,0.0

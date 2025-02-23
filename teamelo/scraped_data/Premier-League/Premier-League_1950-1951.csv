@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1950-1951,1,1950-08-19,Aston Villa,West Brom,2,0,1.0
+1950-1951,1,1950-08-19,Tottenham,Blackpool,1,4,0.0
+1950-1951,1,1950-08-19,Manchester Utd,Fulham,1,0,1.0
+1950-1951,1,1950-08-19,Sunderland,Derby County,1,0,1.0
+1950-1951,1,1950-08-19,Wolves,Liverpool,2,0,1.0
+1950-1951,1,1950-08-19,Portsmouth,Middlesbrough,1,1,0.5
+1950-1951,1,1950-08-19,Chelsea,Sheffield Weds,4,0,1.0
+1950-1951,1,1950-08-19,Everton,Huddersfield,3,2,1.0
+1950-1951,1,1950-08-19,Burnley,Arsenal,0,1,0.0
+1950-1951,1,1950-08-19,Stoke City,Newcastle Utd,1,2,0.0
+1950-1951,1,1950-08-19,Charlton Ath,Bolton,4,3,1.0
+1950-1951,2,1950-08-21,Blackpool,Burnley,1,2,0.0
+1950-1951,2,1950-08-21,Sheffield Weds,Portsmouth,2,1,1.0
+1950-1951,2,1950-08-21,Aston Villa,Sunderland,3,1,1.0
+1950-1951,2,1950-08-23,Arsenal,Chelsea,0,0,0.5
+1950-1951,2,1950-08-23,Huddersfield,Stoke City,3,1,1.0
+1950-1951,2,1950-08-23,Newcastle Utd,West Brom,1,1,0.5
+1950-1951,2,1950-08-23,Bolton,Tottenham,1,4,0.0
+1950-1951,2,1950-08-23,Liverpool,Manchester Utd,2,1,1.0
+1950-1951,2,1950-08-23,Derby County,Wolves,1,2,0.0
+1950-1951,2,1950-08-23,Fulham,Charlton Ath,1,3,0.0
+1950-1951,2,1950-08-23,Middlesbrough,Everton,4,0,1.0
+1950-1951,3,1950-08-26,Bolton,Manchester Utd,1,0,1.0
+1950-1951,3,1950-08-26,Derby County,Aston Villa,4,2,1.0
+1950-1951,3,1950-08-26,Fulham,Wolves,2,1,1.0
+1950-1951,3,1950-08-26,Newcastle Utd,Everton,1,1,0.5
+1950-1951,3,1950-08-26,Liverpool,Sunderland,4,0,1.0
+1950-1951,3,1950-08-26,West Brom,Stoke City,1,1,0.5
+1950-1951,3,1950-08-26,Arsenal,Tottenham,2,2,0.5
+1950-1951,3,1950-08-26,Sheffield Weds,Burnley,0,1,0.0
+1950-1951,3,1950-08-26,Middlesbrough,Chelsea,3,0,1.0
+1950-1951,3,1950-08-26,Huddersfield,Portsmouth,2,1,1.0
+1950-1951,3,1950-08-26,Blackpool,Charlton Ath,0,0,0.5
+1950-1951,4,1950-08-28,Tottenham,Bolton,4,2,1.0
+1950-1951,4,1950-08-28,Wolves,Derby County,2,3,0.0
+1950-1951,4,1950-08-28,Stoke City,Huddersfield,0,1,0.0
+1950-1951,4,1950-08-29,Burnley,Blackpool,0,0,0.5
+1950-1951,4,1950-08-30,Chelsea,Arsenal,0,1,0.0
+1950-1951,4,1950-08-30,Manchester Utd,Liverpool,1,0,1.0
+1950-1951,4,1950-08-30,Portsmouth,Sheffield Weds,4,1,1.0
+1950-1951,4,1950-08-30,Sunderland,Aston Villa,3,3,0.5
+1950-1951,4,1950-08-30,Charlton Ath,Fulham,0,0,0.5
+1950-1951,4,1950-08-30,Everton,Middlesbrough,3,2,1.0
+1950-1951,4,1950-08-30,West Brom,Newcastle Utd,1,2,0.0
+1950-1951,5,1950-09-02,Aston Villa,Liverpool,1,1,0.5
+1950-1951,5,1950-09-02,Manchester Utd,Blackpool,1,0,1.0
+1950-1951,5,1950-09-02,Arsenal,Sheffield Weds,3,0,1.0
+1950-1951,5,1950-09-02,Everton,West Brom,0,3,0.0
+1950-1951,5,1950-09-02,Sunderland,Fulham,0,1,0.0
+1950-1951,5,1950-09-02,Charlton Ath,Tottenham,1,1,0.5
+1950-1951,5,1950-09-02,Portsmouth,Newcastle Utd,0,0,0.5
+1950-1951,5,1950-09-02,Chelsea,Huddersfield,1,2,0.0
+1950-1951,5,1950-09-02,Burnley,Middlesbrough,3,1,1.0
+1950-1951,5,1950-09-02,Wolves,Bolton,7,1,1.0
+1950-1951,5,1950-09-02,Stoke City,Derby County,4,1,1.0
+1950-1951,6,1950-09-04,Blackpool,Fulham,4,0,1.0
+1950-1951,6,1950-09-04,Burnley,Portsmouth,1,1,0.5
+1950-1951,6,1950-09-04,Sheffield Weds,Stoke City,1,1,0.5
+1950-1951,6,1950-09-04,Aston Villa,Manchester Utd,1,3,0.0
+1950-1951,6,1950-09-04,Bolton,Chelsea,1,0,1.0
+1950-1951,6,1950-09-06,Derby County,Charlton Ath,5,0,1.0
+1950-1951,6,1950-09-06,Wolves,Sunderland,2,1,1.0
+1950-1951,6,1950-09-06,Middlesbrough,West Brom,2,1,1.0
+1950-1951,6,1950-09-06,Newcastle Utd,Huddersfield,6,0,1.0
+1950-1951,6,1950-09-06,Liverpool,Tottenham,2,1,1.0
+1950-1951,6,1950-09-06,Arsenal,Everton,2,1,1.0
+1950-1951,7,1950-09-09,Middlesbrough,Arsenal,2,1,1.0
+1950-1951,7,1950-09-09,Huddersfield,Burnley,3,1,1.0
+1950-1951,7,1950-09-09,Bolton,Sunderland,1,2,0.0
+1950-1951,7,1950-09-09,Newcastle Utd,Chelsea,3,1,1.0
+1950-1951,7,1950-09-09,Tottenham,Manchester Utd,1,0,1.0
+1950-1951,7,1950-09-09,Blackpool,Wolves,1,1,0.5
+1950-1951,7,1950-09-09,Fulham,Aston Villa,2,1,1.0
+1950-1951,7,1950-09-09,West Brom,Portsmouth,5,0,1.0
+1950-1951,7,1950-09-09,Liverpool,Derby County,1,0,1.0
+1950-1951,7,1950-09-09,Sheffield Weds,Charlton Ath,1,2,0.0
+1950-1951,7,1950-09-09,Stoke City,Everton,2,0,1.0
+1950-1951,8,1950-09-11,Stoke City,Sheffield Weds,1,1,0.5
+1950-1951,8,1950-09-13,Fulham,Blackpool,2,2,0.5
+1950-1951,8,1950-09-13,Huddersfield,Newcastle Utd,0,0,0.5
+1950-1951,8,1950-09-13,West Brom,Middlesbrough,2,3,0.0
+1950-1951,8,1950-09-13,Manchester Utd,Aston Villa,0,0,0.5
+1950-1951,8,1950-09-13,Everton,Arsenal,1,1,0.5
+1950-1951,9,1950-09-16,Portsmouth,Stoke City,5,1,1.0
+1950-1951,9,1950-09-16,Wolves,Tottenham,2,1,1.0
+1950-1951,9,1950-09-16,Manchester Utd,Charlton Ath,3,0,1.0
+1950-1951,9,1950-09-16,Chelsea,West Brom,1,1,0.5
+1950-1951,9,1950-09-16,Sheffield Weds,Middlesbrough,0,1,0.0
+1950-1951,9,1950-09-16,Derby County,Fulham,3,2,1.0
+1950-1951,9,1950-09-16,Sunderland,Blackpool,0,2,0.0
+1950-1951,9,1950-09-16,Everton,Liverpool,1,3,0.0
+1950-1951,9,1950-09-16,Aston Villa,Bolton,0,1,0.0
+1950-1951,9,1950-09-16,Burnley,Newcastle Utd,1,1,0.5
+1950-1951,9,1950-09-16,Arsenal,Huddersfield,6,2,1.0
+1950-1951,10,1950-09-23,Everton,Portsmouth,1,5,0.0
+1950-1951,10,1950-09-23,Fulham,Liverpool,2,1,1.0
+1950-1951,10,1950-09-23,Bolton,Derby County,3,0,1.0
+1950-1951,10,1950-09-23,Tottenham,Sunderland,1,1,0.5
+1950-1951,10,1950-09-23,Huddersfield,Sheffield Weds,3,4,0.0
+1950-1951,10,1950-09-23,Middlesbrough,Manchester Utd,1,2,0.0
+1950-1951,10,1950-09-23,Newcastle Utd,Arsenal,2,1,1.0
+1950-1951,10,1950-09-23,Charlton Ath,Wolves,3,2,1.0
+1950-1951,10,1950-09-23,Stoke City,Chelsea,2,1,1.0
+1950-1951,10,1950-09-23,Blackpool,Aston Villa,1,1,0.5
+1950-1951,10,1950-09-23,West Brom,Burnley,2,1,1.0
+1950-1951,11,1950-09-30,Sunderland,Charlton Ath,4,2,1.0
+1950-1951,11,1950-09-30,Derby County,Blackpool,4,1,1.0
+1950-1951,11,1950-09-30,Arsenal,West Brom,3,0,1.0
+1950-1951,11,1950-09-30,Chelsea,Everton,2,1,1.0
+1950-1951,11,1950-09-30,Aston Villa,Tottenham,2,3,0.0
+1950-1951,11,1950-09-30,Middlesbrough,Huddersfield,8,0,1.0
+1950-1951,11,1950-09-30,Liverpool,Bolton,3,3,0.5
+1950-1951,11,1950-09-30,Sheffield Weds,Newcastle Utd,0,0,0.5
+1950-1951,11,1950-09-30,Portsmouth,Fulham,1,0,1.0
+1950-1951,11,1950-09-30,Burnley,Stoke City,1,1,0.5
+1950-1951,11,1950-09-30,Wolves,Manchester Utd,0,0,0.5
+1950-1951,12,1950-10-07,Liverpool,Stoke City,0,0,0.5
+1950-1951,12,1950-10-07,Wolves,Middlesbrough,3,4,0.0
+1950-1951,12,1950-10-07,Charlton Ath,Arsenal,1,3,0.0
+1950-1951,12,1950-10-07,Aston Villa,Newcastle Utd,3,0,1.0
+1950-1951,12,1950-10-07,Tottenham,Burnley,1,0,1.0
+1950-1951,12,1950-10-07,Bolton,Portsmouth,4,0,1.0
+1950-1951,12,1950-10-07,Sunderland,Huddersfield,0,0,0.5
+1950-1951,12,1950-10-07,Derby County,West Brom,1,1,0.5
+1950-1951,12,1950-10-07,Blackpool,Chelsea,3,2,1.0
+1950-1951,12,1950-10-07,Manchester Utd,Sheffield Weds,3,1,1.0
+1950-1951,12,1950-10-07,Fulham,Everton,1,5,0.0
+1950-1951,13,1950-10-14,Burnley,Charlton Ath,5,1,1.0
+1950-1951,13,1950-10-14,Arsenal,Manchester Utd,3,0,1.0
+1950-1951,13,1950-10-14,Huddersfield,Aston Villa,4,2,1.0
+1950-1951,13,1950-10-14,Everton,Bolton,1,1,0.5
+1950-1951,13,1950-10-14,Sheffield Weds,Wolves,2,2,0.5
+1950-1951,13,1950-10-14,Middlesbrough,Sunderland,1,1,0.5
+1950-1951,13,1950-10-14,Chelsea,Tottenham,0,2,0.0
+1950-1951,13,1950-10-14,Stoke City,Fulham,1,1,0.5
+1950-1951,13,1950-10-14,Portsmouth,Blackpool,2,0,1.0
+1950-1951,13,1950-10-14,West Brom,Liverpool,1,1,0.5
+1950-1951,13,1950-10-14,Newcastle Utd,Derby County,3,1,1.0
+1950-1951,14,1950-10-21,Charlton Ath,Everton,2,1,1.0
+1950-1951,14,1950-10-21,Sunderland,Burnley,1,1,0.5
+1950-1951,14,1950-10-21,Wolves,Chelsea,2,1,1.0
+1950-1951,14,1950-10-21,Blackpool,West Brom,2,1,1.0
+1950-1951,14,1950-10-21,Manchester Utd,Portsmouth,0,0,0.5
+1950-1951,14,1950-10-21,Liverpool,Middlesbrough,0,0,0.5
+1950-1951,14,1950-10-21,Fulham,Huddersfield,1,1,0.5
+1950-1951,14,1950-10-21,Derby County,Sheffield Weds,4,1,1.0
+1950-1951,14,1950-10-21,Tottenham,Stoke City,6,1,1.0
+1950-1951,14,1950-10-21,Aston Villa,Arsenal,1,1,0.5
+1950-1951,14,1950-10-21,Bolton,Newcastle Utd,0,2,0.0
+1950-1951,15,1950-10-28,Sheffield Weds,Liverpool,4,1,1.0
+1950-1951,15,1950-10-28,Arsenal,Derby County,3,1,1.0
+1950-1951,15,1950-10-28,Huddersfield,Bolton,0,4,0.0
+1950-1951,15,1950-10-28,Newcastle Utd,Blackpool,4,2,1.0
+1950-1951,15,1950-10-28,Middlesbrough,Fulham,1,1,0.5
+1950-1951,15,1950-10-28,Stoke City,Charlton Ath,2,0,1.0
+1950-1951,15,1950-10-28,Chelsea,Sunderland,3,0,1.0
+1950-1951,15,1950-10-28,Everton,Manchester Utd,1,4,0.0
+1950-1951,15,1950-10-28,Burnley,Aston Villa,2,0,1.0
+1950-1951,15,1950-10-28,Portsmouth,Wolves,1,4,0.0
+1950-1951,15,1950-10-28,West Brom,Tottenham,1,2,0.0
+1950-1951,16,1950-11-04,Sunderland,Sheffield Weds,5,1,1.0
+1950-1951,16,1950-11-04,Blackpool,Everton,4,0,1.0
+1950-1951,16,1950-11-04,Tottenham,Portsmouth,5,1,1.0
+1950-1951,16,1950-11-04,Aston Villa,Middlesbrough,0,1,0.0
+1950-1951,16,1950-11-04,Liverpool,Newcastle Utd,2,4,0.0
+1950-1951,16,1950-11-04,Charlton Ath,Chelsea,1,2,0.0
+1950-1951,16,1950-11-04,Fulham,West Brom,0,1,0.0
+1950-1951,16,1950-11-04,Manchester Utd,Burnley,1,1,0.5
+1950-1951,16,1950-11-04,Derby County,Huddersfield,3,0,1.0
+1950-1951,16,1950-11-04,Wolves,Arsenal,0,1,0.0
+1950-1951,16,1950-11-04,Bolton,Stoke City,1,1,0.5
+1950-1951,17,1950-11-11,Middlesbrough,Derby County,1,1,0.5
+1950-1951,17,1950-11-11,Burnley,Wolves,2,0,1.0
+1950-1951,17,1950-11-11,Arsenal,Sunderland,5,1,1.0
+1950-1951,17,1950-11-11,Stoke City,Blackpool,1,0,1.0
+1950-1951,17,1950-11-11,West Brom,Bolton,0,1,0.0
+1950-1951,17,1950-11-11,Sheffield Weds,Aston Villa,3,2,1.0
+1950-1951,17,1950-11-11,Portsmouth,Charlton Ath,3,3,0.5
+1950-1951,17,1950-11-11,Huddersfield,Liverpool,2,2,0.5
+1950-1951,17,1950-11-11,Chelsea,Manchester Utd,1,0,1.0
+1950-1951,17,1950-11-11,Newcastle Utd,Fulham,1,2,0.0
+1950-1951,17,1950-11-11,Everton,Tottenham,1,2,0.0
+1950-1951,18,1950-11-18,Aston Villa,Chelsea,4,2,1.0
+1950-1951,18,1950-11-18,Sunderland,Portsmouth,0,0,0.5
+1950-1951,18,1950-11-18,Fulham,Sheffield Weds,4,2,1.0
+1950-1951,18,1950-11-18,Charlton Ath,West Brom,2,3,0.0
+1950-1951,18,1950-11-18,Manchester Utd,Stoke City,0,0,0.5
+1950-1951,18,1950-11-18,Derby County,Burnley,1,1,0.5
+1950-1951,18,1950-11-18,Tottenham,Newcastle Utd,7,0,1.0
+1950-1951,18,1950-11-18,Wolves,Everton,4,0,1.0
+1950-1951,18,1950-11-18,Liverpool,Arsenal,1,3,0.0
+1950-1951,18,1950-11-18,Blackpool,Huddersfield,3,1,1.0
+1950-1951,18,1950-11-18,Bolton,Middlesbrough,0,2,0.0
+1950-1951,19,1950-11-25,West Brom,Manchester Utd,0,1,0.0
+1950-1951,19,1950-11-25,Chelsea,Derby County,1,2,0.0
+1950-1951,19,1950-11-25,Newcastle Utd,Charlton Ath,3,2,1.0
+1950-1951,19,1950-11-25,Arsenal,Fulham,5,1,1.0
+1950-1951,19,1950-11-25,Sheffield Weds,Bolton,3,4,0.0
+1950-1951,19,1950-11-25,Portsmouth,Aston Villa,3,3,0.5
+1950-1951,19,1950-11-25,Burnley,Liverpool,1,1,0.5
+1950-1951,19,1950-11-25,Everton,Sunderland,3,1,1.0
+1950-1951,19,1950-11-25,Huddersfield,Tottenham,3,2,1.0
+1950-1951,19,1950-11-25,Middlesbrough,Blackpool,4,3,1.0
+1950-1951,19,1950-11-25,Stoke City,Wolves,0,1,0.0
+1950-1951,20,1950-12-02,Derby County,Portsmouth,2,3,0.0
+1950-1951,20,1950-12-02,Tottenham,Middlesbrough,3,3,0.5
+1950-1951,20,1950-12-02,Liverpool,Chelsea,1,0,1.0
+1950-1951,20,1950-12-02,Manchester Utd,Newcastle Utd,1,2,0.0
+1950-1951,20,1950-12-02,Sunderland,Stoke City,1,1,0.5
+1950-1951,20,1950-12-02,Wolves,West Brom,3,1,1.0
+1950-1951,20,1950-12-02,Aston Villa,Everton,3,3,0.5
+1950-1951,20,1950-12-02,Charlton Ath,Huddersfield,3,2,1.0
+1950-1951,20,1950-12-02,Bolton,Arsenal,3,0,1.0
+1950-1951,20,1950-12-02,Blackpool,Sheffield Weds,3,2,1.0
+1950-1951,20,1950-12-02,Fulham,Burnley,4,1,1.0
+1950-1951,21,1950-12-09,Arsenal,Blackpool,4,4,0.5
+1950-1951,21,1950-12-09,Stoke City,Aston Villa,1,0,1.0
+1950-1951,21,1950-12-09,West Brom,Sunderland,3,1,1.0
+1950-1951,21,1950-12-09,Everton,Derby County,1,2,0.0
+1950-1951,21,1950-12-09,Sheffield Weds,Tottenham,1,1,0.5
+1950-1951,21,1950-12-09,Middlesbrough,Charlton Ath,7,3,1.0
+1950-1951,21,1950-12-09,Huddersfield,Manchester Utd,2,3,0.0
+1950-1951,21,1950-12-09,Newcastle Utd,Wolves,1,1,0.5
+1950-1951,21,1950-12-09,Chelsea,Fulham,2,0,1.0
+1950-1951,21,1950-12-09,Portsmouth,Liverpool,1,3,0.0
+1950-1951,21,1950-12-09,Burnley,Bolton,2,0,1.0
+1950-1951,22,1950-12-16,Middlesbrough,Portsmouth,3,1,1.0
+1950-1951,22,1950-12-16,Fulham,Manchester Utd,2,2,0.5
+1950-1951,22,1950-12-16,Blackpool,Tottenham,0,1,0.0
+1950-1951,22,1950-12-16,Newcastle Utd,Stoke City,3,1,1.0
+1950-1951,22,1950-12-16,Arsenal,Burnley,0,1,0.0
+1950-1951,22,1950-12-16,Huddersfield,Everton,1,2,0.0
+1950-1951,22,1950-12-16,Derby County,Sunderland,6,5,1.0
+1950-1951,22,1950-12-16,Bolton,Charlton Ath,3,0,1.0
+1950-1951,22,1950-12-16,Liverpool,Wolves,1,4,0.0
+1950-1951,22,1950-12-16,West Brom,Aston Villa,2,0,1.0
+1950-1951,23,1950-12-23,Sunderland,Liverpool,2,1,1.0
+1950-1951,23,1950-12-23,Wolves,Fulham,1,1,0.5
+1950-1951,23,1950-12-23,Chelsea,Middlesbrough,1,1,0.5
+1950-1951,23,1950-12-23,Portsmouth,Huddersfield,1,0,1.0
+1950-1951,23,1950-12-23,Burnley,Sheffield Weds,1,0,1.0
+1950-1951,23,1950-12-23,Everton,Newcastle Utd,3,1,1.0
+1950-1951,23,1950-12-23,Tottenham,Arsenal,1,0,1.0
+1950-1951,23,1950-12-23,Manchester Utd,Bolton,2,3,0.0
+1950-1951,23,1950-12-23,Stoke City,West Brom,1,1,0.5
+1950-1951,23,1950-12-23,Aston Villa,Derby County,1,1,0.5
+1950-1951,23,1950-12-23,Charlton Ath,Blackpool,2,3,0.0
+1950-1951,24,1950-12-25,Derby County,Tottenham,1,1,0.5
+1950-1951,24,1950-12-25,Sunderland,Manchester Utd,2,1,1.0
+1950-1951,24,1950-12-25,Everton,Burnley,1,0,1.0
+1950-1951,24,1950-12-25,Charlton Ath,Aston Villa,2,2,0.5
+1950-1951,24,1950-12-25,Huddersfield,Wolves,1,2,0.0
+1950-1951,24,1950-12-25,Arsenal,Stoke City,0,3,0.0
+1950-1951,24,1950-12-25,Middlesbrough,Newcastle Utd,2,1,1.0
+1950-1951,24,1950-12-25,West Brom,Sheffield Weds,1,3,0.0
+1950-1951,24,1950-12-25,Blackpool,Liverpool,3,0,1.0
+1950-1951,24,1950-12-25,Portsmouth,Chelsea,1,3,0.0
+1950-1951,24,1950-12-25,Fulham,Bolton,0,1,0.0
+1950-1951,25,1950-12-26,Tottenham,Derby County,2,1,1.0
+1950-1951,25,1950-12-26,Wolves,Huddersfield,3,1,1.0
+1950-1951,25,1950-12-26,Bolton,Fulham,0,1,0.0
+1950-1951,25,1950-12-26,Burnley,Everton,1,1,0.5
+1950-1951,25,1950-12-26,Aston Villa,Charlton Ath,0,0,0.5
+1950-1951,25,1950-12-26,Chelsea,Portsmouth,1,4,0.0
+1950-1951,25,1950-12-26,Manchester Utd,Sunderland,3,5,0.0
+1950-1951,25,1950-12-26,Sheffield Weds,West Brom,3,0,1.0
+1950-1951,25,1950-12-26,Liverpool,Blackpool,1,0,1.0
+1950-1951,25,1950-12-26,Stoke City,Arsenal,1,0,1.0
+1950-1951,26,1950-12-30,Middlesbrough,Burnley,3,3,0.5
+1950-1951,26,1950-12-30,Sheffield Weds,Arsenal,0,2,0.0
+1950-1951,26,1950-12-30,West Brom,Everton,0,1,0.0
+1950-1951,26,1950-12-30,Tottenham,Charlton Ath,1,0,1.0
+1950-1951,26,1950-12-30,Derby County,Stoke City,1,1,0.5
+1950-1951,26,1950-12-30,Fulham,Sunderland,1,1,0.5
+1950-1951,27,1951-01-13,Everton,Stoke City,0,3,0.0
+1950-1951,27,1951-01-13,Wolves,Blackpool,1,1,0.5
+1950-1951,27,1951-01-13,Arsenal,Middlesbrough,3,1,1.0
+1950-1951,27,1951-01-13,Chelsea,Newcastle Utd,3,1,1.0
+1950-1951,27,1951-01-13,Derby County,Liverpool,1,2,0.0
+1950-1951,27,1951-01-13,Portsmouth,West Brom,2,2,0.5
+1950-1951,27,1951-01-13,Aston Villa,Fulham,3,0,1.0
+1950-1951,27,1951-01-13,Burnley,Huddersfield,0,1,0.0
+1950-1951,27,1951-01-13,Manchester Utd,Tottenham,2,1,1.0
+1950-1951,27,1951-01-13,Charlton Ath,Sheffield Weds,2,1,1.0
+1950-1951,27,1951-01-13,Sunderland,Bolton,1,2,0.0
+1950-1951,28,1951-01-20,Middlesbrough,Sheffield Weds,2,1,1.0
+1950-1951,28,1951-01-20,Bolton,Aston Villa,1,0,1.0
+1950-1951,28,1951-01-20,Tottenham,Wolves,2,1,1.0
+1950-1951,28,1951-01-20,West Brom,Chelsea,1,1,0.5
+1950-1951,28,1951-01-20,Huddersfield,Arsenal,2,2,0.5
+1950-1951,28,1951-01-20,Fulham,Derby County,3,5,0.0
+1950-1951,28,1951-01-20,Blackpool,Sunderland,2,2,0.5
+1950-1951,28,1951-01-20,Stoke City,Portsmouth,1,2,0.0
+1950-1951,28,1951-01-20,Charlton Ath,Manchester Utd,1,2,0.0
+1950-1951,28,1951-01-20,Newcastle Utd,Burnley,2,1,1.0
+1950-1951,28,1951-01-20,Liverpool,Everton,0,2,0.0
+1950-1951,37,1951-01-27,Charlton Ath,Liverpool,1,0,1.0
+1950-1951,29,1951-02-03,Aston Villa,Blackpool,0,3,0.0
+1950-1951,29,1951-02-03,Liverpool,Fulham,2,0,1.0
+1950-1951,29,1951-02-03,Sheffield Weds,Huddersfield,3,2,1.0
+1950-1951,29,1951-02-03,Burnley,West Brom,0,1,0.0
+1950-1951,29,1951-02-03,Chelsea,Stoke City,1,1,0.5
+1950-1951,29,1951-02-03,Wolves,Charlton Ath,2,3,0.0
+1950-1951,29,1951-02-03,Manchester Utd,Middlesbrough,1,0,1.0
+1950-1951,29,1951-02-03,Arsenal,Newcastle Utd,0,0,0.5
+1950-1951,29,1951-02-03,Derby County,Bolton,2,2,0.5
+1950-1951,29,1951-02-03,Sunderland,Tottenham,0,0,0.5
+1950-1951,29,1951-02-03,Portsmouth,Everton,6,3,1.0
+1950-1951,42,1951-02-10,Bolton,Burnley,1,1,0.5
+1950-1951,42,1951-02-10,Liverpool,Portsmouth,2,1,1.0
+1950-1951,30,1951-02-17,West Brom,Arsenal,2,0,1.0
+1950-1951,30,1951-02-17,Stoke City,Burnley,0,0,0.5
+1950-1951,30,1951-02-17,Tottenham,Aston Villa,3,2,1.0
+1950-1951,30,1951-02-17,Huddersfield,Middlesbrough,2,3,0.0
+1950-1951,30,1951-02-17,Newcastle Utd,Sheffield Weds,2,0,1.0
+1950-1951,30,1951-02-17,Blackpool,Derby County,3,1,1.0
+1950-1951,30,1951-02-17,Everton,Chelsea,3,0,1.0
+1950-1951,30,1951-02-17,Charlton Ath,Sunderland,3,0,1.0
+1950-1951,30,1951-02-17,Manchester Utd,Wolves,2,1,1.0
+1950-1951,30,1951-02-17,Bolton,Liverpool,2,1,1.0
+1950-1951,22,1951-02-24,Sheffield Weds,Chelsea,2,2,0.5
+1950-1951,31,1951-02-24,Stoke City,Liverpool,2,3,0.0
+1950-1951,31,1951-02-24,West Brom,Derby County,1,2,0.0
+1950-1951,31,1951-02-24,Portsmouth,Bolton,2,1,1.0
+1950-1951,31,1951-02-24,Arsenal,Charlton Ath,2,5,0.0
+1950-1951,31,1951-02-24,Burnley,Tottenham,2,0,1.0
+1950-1951,31,1951-02-26,Sheffield Weds,Manchester Utd,0,4,0.0
+1950-1951,31,1951-02-28,Everton,Fulham,1,0,1.0
+1950-1951,31,1951-02-28,Chelsea,Blackpool,0,2,0.0
+1950-1951,32,1951-03-03,Wolves,Sheffield Weds,4,0,1.0
+1950-1951,32,1951-03-03,Blackpool,Portsmouth,3,0,1.0
+1950-1951,32,1951-03-03,Liverpool,West Brom,1,1,0.5
+1950-1951,32,1951-03-03,Sunderland,Middlesbrough,2,1,1.0
+1950-1951,32,1951-03-03,Aston Villa,Huddersfield,0,1,0.0
+1950-1951,32,1951-03-03,Tottenham,Chelsea,2,1,1.0
+1950-1951,32,1951-03-03,Manchester Utd,Arsenal,3,1,1.0
+1950-1951,32,1951-03-03,Derby County,Newcastle Utd,1,2,0.0
+1950-1951,32,1951-03-03,Fulham,Stoke City,2,0,1.0
+1950-1951,32,1951-03-03,Charlton Ath,Burnley,0,0,0.5
+1950-1951,32,1951-03-03,Bolton,Everton,2,0,1.0
+1950-1951,31,1951-03-07,Huddersfield,Sunderland,3,4,0.0
+1950-1951,33,1951-03-10,Everton,Charlton Ath,0,0,0.5
+1950-1951,33,1951-03-10,Middlesbrough,Liverpool,1,1,0.5
+1950-1951,33,1951-03-10,Stoke City,Tottenham,0,0,0.5
+1950-1951,33,1951-03-10,Burnley,Sunderland,1,1,0.5
+1950-1951,33,1951-03-10,Portsmouth,Manchester Utd,0,0,0.5
+1950-1951,33,1951-03-10,Arsenal,Aston Villa,2,1,1.0
+1950-1951,33,1951-03-10,Huddersfield,Fulham,1,2,0.0
+1950-1951,34,1951-03-17,Fulham,Middlesbrough,2,0,1.0
+1950-1951,34,1951-03-17,Liverpool,Sheffield Weds,2,1,1.0
+1950-1951,34,1951-03-17,Wolves,Portsmouth,2,3,0.0
+1950-1951,34,1951-03-17,Bolton,Huddersfield,4,0,1.0
+1950-1951,34,1951-03-17,Blackpool,Newcastle Utd,2,2,0.5
+1950-1951,34,1951-03-17,Tottenham,West Brom,5,0,1.0
+1950-1951,34,1951-03-17,Sunderland,Chelsea,1,1,0.5
+1950-1951,34,1951-03-17,Charlton Ath,Stoke City,2,0,1.0
+1950-1951,34,1951-03-17,Derby County,Arsenal,4,2,1.0
+1950-1951,34,1951-03-17,Aston Villa,Burnley,3,2,1.0
+1950-1951,34,1951-03-17,Manchester Utd,Everton,3,0,1.0
+1950-1951,35,1951-03-23,Middlesbrough,Stoke City,1,0,1.0
+1950-1951,35,1951-03-23,Fulham,Tottenham,0,1,0.0
+1950-1951,35,1951-03-23,Burnley,Chelsea,2,1,1.0
+1950-1951,35,1951-03-23,Newcastle Utd,Sunderland,2,2,0.5
+1950-1951,35,1951-03-23,Blackpool,Bolton,2,0,1.0
+1950-1951,35,1951-03-23,Manchester Utd,Derby County,2,0,1.0
+1950-1951,35,1951-03-23,Arsenal,Portsmouth,0,1,0.0
+1950-1951,35,1951-03-23,Liverpool,Charlton Ath,1,0,1.0
+1950-1951,36,1951-03-24,Chelsea,Charlton Ath,2,3,0.0
+1950-1951,36,1951-03-24,Arsenal,Wolves,2,1,1.0
+1950-1951,36,1951-03-24,Burnley,Manchester Utd,1,2,0.0
+1950-1951,36,1951-03-24,Portsmouth,Tottenham,1,1,0.5
+1950-1951,36,1951-03-24,Stoke City,Bolton,2,1,1.0
+1950-1951,36,1951-03-24,Huddersfield,Derby County,2,0,1.0
+1950-1951,36,1951-03-24,Newcastle Utd,Liverpool,1,1,0.5
+1950-1951,36,1951-03-24,West Brom,Fulham,0,0,0.5
+1950-1951,36,1951-03-24,Sheffield Weds,Sunderland,3,0,1.0
+1950-1951,36,1951-03-24,Everton,Blackpool,0,2,0.0
+1950-1951,36,1951-03-24,Middlesbrough,Aston Villa,2,1,1.0
+1950-1951,35,1951-03-26,West Brom,Huddersfield,0,2,0.0
+1950-1951,35,1951-03-26,Wolves,Aston Villa,2,3,0.0
+1950-1951,37,1951-03-26,Chelsea,Burnley,0,2,0.0
+1950-1951,37,1951-03-26,Tottenham,Fulham,2,1,1.0
+1950-1951,37,1951-03-26,Portsmouth,Arsenal,1,1,0.5
+1950-1951,37,1951-03-26,Stoke City,Middlesbrough,2,0,1.0
+1950-1951,37,1951-03-26,Everton,Sheffield Weds,0,0,0.5
+1950-1951,37,1951-03-26,Bolton,Blackpool,1,2,0.0
+1950-1951,37,1951-03-26,Sunderland,Newcastle Utd,2,1,1.0
+1950-1951,37,1951-03-26,Derby County,Manchester Utd,2,4,0.0
+1950-1951,37,1951-03-27,Aston Villa,Wolves,1,0,1.0
+1950-1951,37,1951-03-27,Huddersfield,West Brom,1,2,0.0
+1950-1951,38,1951-03-31,Blackpool,Stoke City,3,0,1.0
+1950-1951,38,1951-03-31,Wolves,Burnley,0,1,0.0
+1950-1951,38,1951-03-31,Charlton Ath,Portsmouth,0,1,0.0
+1950-1951,38,1951-03-31,Sunderland,Arsenal,0,2,0.0
+1950-1951,38,1951-03-31,Aston Villa,Sheffield Weds,2,1,1.0
+1950-1951,38,1951-03-31,Manchester Utd,Chelsea,4,1,1.0
+1950-1951,38,1951-03-31,Fulham,Newcastle Utd,1,1,0.5
+1950-1951,38,1951-03-31,Bolton,West Brom,0,2,0.0
+1950-1951,38,1951-03-31,Tottenham,Everton,3,0,1.0
+1950-1951,38,1951-03-31,Derby County,Middlesbrough,6,0,1.0
+1950-1951,38,1951-03-31,Liverpool,Huddersfield,1,4,0.0
+1950-1951,31,1951-04-04,Newcastle Utd,Aston Villa,0,1,0.0
+1950-1951,33,1951-04-04,West Brom,Blackpool,1,3,0.0
+1950-1951,39,1951-04-07,Burnley,Derby County,1,0,1.0
+1950-1951,39,1951-04-07,Arsenal,Liverpool,1,2,0.0
+1950-1951,39,1951-04-07,Middlesbrough,Bolton,1,1,0.5
+1950-1951,39,1951-04-07,Newcastle Utd,Tottenham,0,1,0.0
+1950-1951,39,1951-04-07,Portsmouth,Sunderland,0,0,0.5
+1950-1951,39,1951-04-07,Sheffield Weds,Fulham,2,2,0.5
+1950-1951,39,1951-04-07,Stoke City,Manchester Utd,2,0,1.0
+1950-1951,39,1951-04-07,Huddersfield,Blackpool,2,1,1.0
+1950-1951,39,1951-04-07,Chelsea,Aston Villa,1,1,0.5
+1950-1951,39,1951-04-07,West Brom,Charlton Ath,3,0,1.0
+1950-1951,39,1951-04-07,Everton,Wolves,1,1,0.5
+1950-1951,26,1951-04-11,Newcastle Utd,Portsmouth,0,0,0.5
+1950-1951,31,1951-04-11,Middlesbrough,Wolves,1,2,0.0
+1950-1951,40,1951-04-14,Fulham,Arsenal,3,2,1.0
+1950-1951,40,1951-04-14,Charlton Ath,Newcastle Utd,1,3,0.0
+1950-1951,40,1951-04-14,Aston Villa,Portsmouth,3,3,0.5
+1950-1951,40,1951-04-14,Manchester Utd,West Brom,3,0,1.0
+1950-1951,40,1951-04-14,Blackpool,Middlesbrough,2,1,1.0
+1950-1951,40,1951-04-14,Liverpool,Burnley,1,0,1.0
+1950-1951,40,1951-04-14,Tottenham,Huddersfield,0,2,0.0
+1950-1951,40,1951-04-14,Bolton,Sheffield Weds,0,1,0.0
+1950-1951,40,1951-04-14,Wolves,Stoke City,2,3,0.0
+1950-1951,40,1951-04-14,Sunderland,Everton,4,0,1.0
+1950-1951,40,1951-04-14,Derby County,Chelsea,1,0,1.0
+1950-1951,26,1951-04-18,Huddersfield,Chelsea,2,1,1.0
+1950-1951,33,1951-04-18,Newcastle Utd,Bolton,0,1,0.0
+1950-1951,33,1951-04-18,Sheffield Weds,Derby County,4,3,1.0
+1950-1951,41,1951-04-21,Everton,Aston Villa,1,2,0.0
+1950-1951,41,1951-04-21,Huddersfield,Charlton Ath,1,1,0.5
+1950-1951,41,1951-04-21,Sheffield Weds,Blackpool,3,1,1.0
+1950-1951,41,1951-04-21,Newcastle Utd,Manchester Utd,0,2,0.0
+1950-1951,41,1951-04-21,Middlesbrough,Tottenham,1,1,0.5
+1950-1951,41,1951-04-21,Arsenal,Bolton,1,1,0.5
+1950-1951,41,1951-04-21,Portsmouth,Derby County,2,2,0.5
+1950-1951,41,1951-04-21,Stoke City,Sunderland,2,4,0.0
+1950-1951,41,1951-04-21,Burnley,Fulham,0,2,0.0
+1950-1951,41,1951-04-21,Chelsea,Liverpool,1,0,1.0
+1950-1951,41,1951-04-21,West Brom,Wolves,3,2,1.0
+1950-1951,26,1951-04-25,Liverpool,Aston Villa,0,0,0.5
+1950-1951,33,1951-04-25,Chelsea,Wolves,2,1,1.0
+1950-1951,26,1951-04-28,Bolton,Wolves,2,1,1.0
+1950-1951,42,1951-04-28,Tottenham,Sheffield Weds,1,0,1.0
+1950-1951,42,1951-04-28,Fulham,Chelsea,1,2,0.0
+1950-1951,42,1951-04-28,Sunderland,West Brom,1,1,0.5
+1950-1951,42,1951-04-28,Derby County,Everton,0,1,0.0
+1950-1951,42,1951-04-28,Charlton Ath,Middlesbrough,3,0,1.0
+1950-1951,42,1951-04-28,Manchester Utd,Huddersfield,6,0,1.0
+1950-1951,30,1951-05-02,Fulham,Portsmouth,1,4,0.0
+1950-1951,42,1951-05-02,Blackpool,Arsenal,0,1,0.0
+1950-1951,42,1951-05-02,Wolves,Newcastle Utd,0,1,0.0
+1950-1951,8,1951-05-05,Chelsea,Bolton,4,0,1.0
+1950-1951,8,1951-05-05,Charlton Ath,Derby County,1,2,0.0
+1950-1951,8,1951-05-05,Tottenham,Liverpool,3,1,1.0
+1950-1951,8,1951-05-05,Sunderland,Wolves,0,0,0.5
+1950-1951,8,1951-05-05,Portsmouth,Burnley,2,1,1.0
+1950-1951,25,1951-05-05,Newcastle Utd,Middlesbrough,1,0,1.0
+1950-1951,26,1951-05-05,Blackpool,Manchester Utd,1,1,0.5
+1950-1951,35,1951-05-05,Sheffield Weds,Everton,6,0,1.0
+1950-1951,42,1951-05-05,Aston Villa,Stoke City,6,2,1.0

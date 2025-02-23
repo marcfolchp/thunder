@@ -1,0 +1,271 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2018-2019,Regular season,1,2018-07-27,Standard Liège,Gent,3,2,1.0
+2018-2019,Regular season,1,2018-07-28,Kortrijk,Anderlecht,1,4,0.0
+2018-2019,Regular season,1,2018-07-28,Sint-Truiden,Cercle Brugge,0,0,0.5
+2018-2019,Regular season,1,2018-07-28,Zulte Waregem,Waasland-Bev,2,2,0.5
+2018-2019,Regular season,1,2018-07-28,Oostende,Excel Mouscron,2,1,1.0
+2018-2019,Regular season,1,2018-07-29,Club Brugge,Eupen,5,2,1.0
+2018-2019,Regular season,1,2018-07-29,Charleroi,Antwerp,0,1,0.0
+2018-2019,Regular season,1,2018-07-29,Lokeren,Genk,0,4,0.0
+2018-2019,Regular season,2,2018-08-03,Waasland-Bev,Standard Liège,0,0,0.5
+2018-2019,Regular season,2,2018-08-04,Eupen,Charleroi,1,4,0.0
+2018-2019,Regular season,2,2018-08-04,Antwerp,Kortrijk,0,0,0.5
+2018-2019,Regular season,2,2018-08-04,Cercle Brugge,Lokeren,3,2,1.0
+2018-2019,Regular season,2,2018-08-04,Gent,Zulte Waregem,1,1,0.5
+2018-2019,Regular season,2,2018-08-05,Anderlecht,Oostende,5,2,1.0
+2018-2019,Regular season,2,2018-08-05,Genk,Sint-Truiden,1,1,0.5
+2018-2019,Regular season,2,2018-08-05,Excel Mouscron,Club Brugge,0,1,0.0
+2018-2019,Regular season,3,2018-08-10,Club Brugge,Kortrijk,3,0,1.0
+2018-2019,Regular season,3,2018-08-11,Standard Liège,Cercle Brugge,0,0,0.5
+2018-2019,Regular season,3,2018-08-11,Zulte Waregem,Eupen,4,0,1.0
+2018-2019,Regular season,3,2018-08-11,Sint-Truiden,Lokeren,1,1,0.5
+2018-2019,Regular season,3,2018-08-11,Excel Mouscron,Antwerp,0,1,0.0
+2018-2019,Regular season,3,2018-08-12,Oostende,Genk,0,2,0.0
+2018-2019,Regular season,3,2018-08-12,Charleroi,Anderlecht,1,2,0.0
+2018-2019,Regular season,3,2018-08-12,Gent,Waasland-Bev,4,1,1.0
+2018-2019,Regular season,4,2018-08-17,Anderlecht,Excel Mouscron,2,0,1.0
+2018-2019,Regular season,4,2018-08-18,Lokeren,Standard Liège,0,3,0.0
+2018-2019,Regular season,4,2018-08-18,Waasland-Bev,Sint-Truiden,2,2,0.5
+2018-2019,Regular season,4,2018-08-18,Cercle Brugge,Zulte Waregem,3,1,1.0
+2018-2019,Regular season,4,2018-08-18,Kortrijk,Oostende,1,2,0.0
+2018-2019,Regular season,4,2018-08-19,Antwerp,Club Brugge,1,1,0.5
+2018-2019,Regular season,4,2018-08-19,Genk,Charleroi,3,1,1.0
+2018-2019,Regular season,4,2018-08-19,Eupen,Gent,2,3,0.0
+2018-2019,Regular season,5,2018-08-24,Oostende,Zulte Waregem,3,1,1.0
+2018-2019,Regular season,5,2018-08-25,Standard Liège,Sint-Truiden,3,2,1.0
+2018-2019,Regular season,5,2018-08-25,Excel Mouscron,Eupen,0,1,0.0
+2018-2019,Regular season,5,2018-08-25,Antwerp,Cercle Brugge,1,0,1.0
+2018-2019,Regular season,5,2018-08-25,Charleroi,Kortrijk,0,2,0.0
+2018-2019,Regular season,5,2018-08-26,Club Brugge,Anderlecht,2,1,1.0
+2018-2019,Regular season,5,2018-08-26,Gent,Lokeren,2,1,1.0
+2018-2019,Regular season,5,2018-08-26,Genk,Waasland-Bev,3,2,1.0
+2018-2019,Regular season,6,2018-08-31,Zulte Waregem,Club Brugge,2,5,0.0
+2018-2019,Regular season,6,2018-09-01,Eupen,Standard Liège,2,1,1.0
+2018-2019,Regular season,6,2018-09-01,Lokeren,Waasland-Bev,1,0,1.0
+2018-2019,Regular season,6,2018-09-01,Sint-Truiden,Oostende,1,0,1.0
+2018-2019,Regular season,6,2018-09-01,Charleroi,Excel Mouscron,3,1,1.0
+2018-2019,Regular season,6,2018-09-02,Anderlecht,Antwerp,1,1,0.5
+2018-2019,Regular season,6,2018-09-02,Cercle Brugge,Gent,0,3,0.0
+2018-2019,Regular season,6,2018-09-02,Kortrijk,Genk,3,3,0.5
+2018-2019,Regular season,7,2018-09-14,Club Brugge,Lokeren,2,1,1.0
+2018-2019,Regular season,7,2018-09-15,Standard Liège,Charleroi,0,0,0.5
+2018-2019,Regular season,7,2018-09-15,Oostende,Cercle Brugge,1,1,0.5
+2018-2019,Regular season,7,2018-09-15,Waasland-Bev,Eupen,0,0,0.5
+2018-2019,Regular season,7,2018-09-15,Genk,Anderlecht,1,0,1.0
+2018-2019,Regular season,7,2018-09-16,Excel Mouscron,Kortrijk,1,0,1.0
+2018-2019,Regular season,7,2018-09-16,Antwerp,Zulte Waregem,5,1,1.0
+2018-2019,Regular season,7,2018-09-16,Gent,Sint-Truiden,1,2,0.0
+2018-2019,Regular season,8,2018-09-21,Zulte Waregem,Kortrijk,0,2,0.0
+2018-2019,Regular season,8,2018-09-22,Waasland-Bev,Charleroi,1,1,0.5
+2018-2019,Regular season,8,2018-09-22,Eupen,Oostende,1,2,0.0
+2018-2019,Regular season,8,2018-09-22,Lokeren,Excel Mouscron,0,0,0.5
+2018-2019,Regular season,8,2018-09-22,Sint-Truiden,Antwerp,2,0,1.0
+2018-2019,Regular season,8,2018-09-23,Gent,Club Brugge,0,4,0.0
+2018-2019,Regular season,8,2018-09-23,Anderlecht,Standard Liège,2,1,1.0
+2018-2019,Regular season,8,2018-09-23,Cercle Brugge,Genk,2,5,0.0
+2018-2019,Regular season,9,2018-09-28,Kortrijk,Eupen,1,3,0.0
+2018-2019,Regular season,9,2018-09-29,Genk,Zulte Waregem,4,0,1.0
+2018-2019,Regular season,9,2018-09-29,Excel Mouscron,Waasland-Bev,0,3,0.0
+2018-2019,Regular season,9,2018-09-29,Charleroi,Lokeren,2,1,1.0
+2018-2019,Regular season,9,2018-09-29,Club Brugge,Cercle Brugge,4,0,1.0
+2018-2019,Regular season,9,2018-09-30,Anderlecht,Sint-Truiden,0,0,0.5
+2018-2019,Regular season,9,2018-09-30,Oostende,Standard Liège,1,3,0.0
+2018-2019,Regular season,9,2018-09-30,Antwerp,Gent,2,2,0.5
+2018-2019,Regular season,10,2018-10-05,Cercle Brugge,Charleroi,2,1,1.0
+2018-2019,Regular season,10,2018-10-06,Eupen,Antwerp,1,2,0.0
+2018-2019,Regular season,10,2018-10-06,Lokeren,Kortrijk,1,3,0.0
+2018-2019,Regular season,10,2018-10-06,Sint-Truiden,Excel Mouscron,3,1,1.0
+2018-2019,Regular season,10,2018-10-06,Waasland-Bev,Oostende,1,1,0.5
+2018-2019,Regular season,10,2018-10-07,Zulte Waregem,Anderlecht,1,2,0.0
+2018-2019,Regular season,10,2018-10-07,Standard Liège,Club Brugge,3,1,1.0
+2018-2019,Regular season,10,2018-10-07,Gent,Genk,1,5,0.0
+2018-2019,Regular season,11,2018-10-19,Club Brugge,Waasland-Bev,1,1,0.5
+2018-2019,Regular season,11,2018-10-20,Excel Mouscron,Standard Liège,0,0,0.5
+2018-2019,Regular season,11,2018-10-20,Antwerp,Lokeren,2,1,1.0
+2018-2019,Regular season,11,2018-10-20,Kortrijk,Sint-Truiden,3,1,1.0
+2018-2019,Regular season,11,2018-10-20,Genk,Eupen,2,1,1.0
+2018-2019,Regular season,11,2018-10-21,Anderlecht,Cercle Brugge,4,2,1.0
+2018-2019,Regular season,11,2018-10-21,Oostende,Gent,0,4,0.0
+2018-2019,Regular season,11,2018-10-21,Charleroi,Zulte Waregem,3,2,1.0
+2018-2019,Regular season,12,2018-10-26,Gent,Charleroi,2,1,1.0
+2018-2019,Regular season,12,2018-10-27,Zulte Waregem,Excel Mouscron,2,2,0.5
+2018-2019,Regular season,12,2018-10-27,Cercle Brugge,Kortrijk,1,1,0.5
+2018-2019,Regular season,12,2018-10-27,Lokeren,Oostende,0,0,0.5
+2018-2019,Regular season,12,2018-10-27,Sint-Truiden,Club Brugge,2,2,0.5
+2018-2019,Regular season,12,2018-10-28,Standard Liège,Genk,1,1,0.5
+2018-2019,Regular season,12,2018-10-28,Eupen,Anderlecht,2,1,1.0
+2018-2019,Regular season,12,2018-10-28,Waasland-Bev,Antwerp,0,1,0.0
+2018-2019,Regular season,13,2018-10-30,Charleroi,Sint-Truiden,1,0,1.0
+2018-2019,Regular season,13,2018-10-30,Club Brugge,Oostende,4,0,1.0
+2018-2019,Regular season,13,2018-10-30,Excel Mouscron,Gent,3,1,1.0
+2018-2019,Regular season,13,2018-10-31,Antwerp,Genk,2,4,0.0
+2018-2019,Regular season,13,2018-10-31,Eupen,Cercle Brugge,2,0,1.0
+2018-2019,Regular season,13,2018-10-31,Kortrijk,Waasland-Bev,2,2,0.5
+2018-2019,Regular season,13,2018-11-01,Anderlecht,Lokeren,1,1,0.5
+2018-2019,Regular season,13,2018-11-01,Zulte Waregem,Standard Liège,3,1,1.0
+2018-2019,Regular season,14,2018-11-02,Oostende,Charleroi,2,1,1.0
+2018-2019,Regular season,14,2018-11-03,Genk,Club Brugge,1,1,0.5
+2018-2019,Regular season,14,2018-11-03,Cercle Brugge,Excel Mouscron,2,1,1.0
+2018-2019,Regular season,14,2018-11-03,Gent,Kortrijk,3,1,1.0
+2018-2019,Regular season,14,2018-11-04,Standard Liège,Antwerp,0,2,0.0
+2018-2019,Regular season,14,2018-11-04,Waasland-Bev,Anderlecht,1,2,0.0
+2018-2019,Regular season,14,2018-11-04,Lokeren,Eupen,2,0,1.0
+2018-2019,Regular season,14,2018-11-04,Sint-Truiden,Zulte Waregem,2,1,1.0
+2018-2019,Regular season,15,2018-11-09,Antwerp,Oostende,2,0,1.0
+2018-2019,Regular season,15,2018-11-10,Charleroi,Club Brugge,2,1,1.0
+2018-2019,Regular season,15,2018-11-10,Zulte Waregem,Lokeren,2,0,1.0
+2018-2019,Regular season,15,2018-11-10,Eupen,Sint-Truiden,1,4,0.0
+2018-2019,Regular season,15,2018-11-10,Cercle Brugge,Waasland-Bev,2,0,1.0
+2018-2019,Regular season,15,2018-11-11,Anderlecht,Gent,2,0,1.0
+2018-2019,Regular season,15,2018-11-11,Kortrijk,Standard Liège,0,2,0.0
+2018-2019,Regular season,15,2018-11-11,Excel Mouscron,Genk,0,0,0.5
+2018-2019,Regular season,16,2018-11-23,Club Brugge,Zulte Waregem,1,3,0.0
+2018-2019,Regular season,16,2018-11-24,Standard Liège,Eupen,3,0,1.0
+2018-2019,Regular season,16,2018-11-24,Waasland-Bev,Excel Mouscron,1,2,0.0
+2018-2019,Regular season,16,2018-11-24,Oostende,Kortrijk,1,2,0.0
+2018-2019,Regular season,16,2018-11-24,Genk,Cercle Brugge,1,2,0.0
+2018-2019,Regular season,16,2018-11-25,Gent,Antwerp,0,0,0.5
+2018-2019,Regular season,16,2018-11-25,Sint-Truiden,Anderlecht,4,2,1.0
+2018-2019,Regular season,16,2018-11-25,Lokeren,Charleroi,2,4,0.0
+2018-2019,Regular season,17,2018-11-30,Lokeren,Gent,2,2,0.5
+2018-2019,Regular season,17,2018-12-01,Charleroi,Cercle Brugge,3,1,1.0
+2018-2019,Regular season,17,2018-12-01,Kortrijk,Excel Mouscron,1,0,1.0
+2018-2019,Regular season,17,2018-12-01,Zulte Waregem,Oostende,1,1,0.5
+2018-2019,Regular season,17,2018-12-01,Antwerp,Sint-Truiden,1,3,0.0
+2018-2019,Regular season,17,2018-12-02,Club Brugge,Standard Liège,3,0,1.0
+2018-2019,Regular season,17,2018-12-02,Anderlecht,Genk,0,1,0.0
+2018-2019,Regular season,17,2018-12-02,Eupen,Waasland-Bev,1,0,1.0
+2018-2019,Regular season,18,2018-12-07,Waasland-Bev,Club Brugge,2,1,1.0
+2018-2019,Regular season,18,2018-12-08,Genk,Kortrijk,1,1,0.5
+2018-2019,Regular season,18,2018-12-08,Oostende,Lokeren,1,0,1.0
+2018-2019,Regular season,18,2018-12-08,Excel Mouscron,Zulte Waregem,0,0,0.5
+2018-2019,Regular season,18,2018-12-08,Sint-Truiden,Standard Liège,1,1,0.5
+2018-2019,Regular season,18,2018-12-09,Cercle Brugge,Antwerp,0,3,0.0
+2018-2019,Regular season,18,2018-12-09,Anderlecht,Charleroi,1,1,0.5
+2018-2019,Regular season,18,2018-12-09,Gent,Eupen,2,0,1.0
+2018-2019,Regular season,19,2018-12-14,Charleroi,Gent,2,0,1.0
+2018-2019,Regular season,19,2018-12-15,Kortrijk,Club Brugge,0,0,0.5
+2018-2019,Regular season,19,2018-12-15,Lokeren,Sint-Truiden,2,0,1.0
+2018-2019,Regular season,19,2018-12-15,Eupen,Excel Mouscron,1,0,1.0
+2018-2019,Regular season,19,2018-12-15,Antwerp,Waasland-Bev,0,2,0.0
+2018-2019,Regular season,19,2018-12-16,Cercle Brugge,Anderlecht,2,1,1.0
+2018-2019,Regular season,19,2018-12-16,Genk,Oostende,2,0,1.0
+2018-2019,Regular season,19,2018-12-16,Standard Liège,Zulte Waregem,4,1,1.0
+2018-2019,Regular season,20,2018-12-21,Gent,Cercle Brugge,4,1,1.0
+2018-2019,Regular season,20,2018-12-22,Excel Mouscron,Anderlecht,3,1,1.0
+2018-2019,Regular season,20,2018-12-22,Waasland-Bev,Lokeren,2,1,1.0
+2018-2019,Regular season,20,2018-12-22,Sint-Truiden,Kortrijk,0,0,0.5
+2018-2019,Regular season,20,2018-12-22,Standard Liège,Oostende,3,1,1.0
+2018-2019,Regular season,20,2018-12-23,Club Brugge,Antwerp,5,1,1.0
+2018-2019,Regular season,20,2018-12-23,Eupen,Genk,0,2,0.0
+2018-2019,Regular season,20,2018-12-23,Zulte Waregem,Charleroi,3,1,1.0
+2018-2019,Regular season,21,2018-12-26,Antwerp,Excel Mouscron,2,1,1.0
+2018-2019,Regular season,21,2018-12-26,Kortrijk,Zulte Waregem,4,2,1.0
+2018-2019,Regular season,21,2018-12-26,Cercle Brugge,Eupen,0,1,0.0
+2018-2019,Regular season,21,2018-12-26,Oostende,Sint-Truiden,1,1,0.5
+2018-2019,Regular season,21,2018-12-26,Charleroi,Standard Liège,0,1,0.0
+2018-2019,Regular season,21,2018-12-26,Genk,Gent,3,1,1.0
+2018-2019,Regular season,21,2018-12-27,Lokeren,Club Brugge,0,1,0.0
+2018-2019,Regular season,21,2018-12-27,Anderlecht,Waasland-Bev,3,0,1.0
+2018-2019,Regular season,22,2019-01-18,Sint-Truiden,Genk,2,3,0.0
+2018-2019,Regular season,22,2019-01-19,Standard Liège,Kortrijk,2,1,1.0
+2018-2019,Regular season,22,2019-01-19,Waasland-Bev,Cercle Brugge,1,1,0.5
+2018-2019,Regular season,22,2019-01-19,Eupen,Lokeren,4,1,1.0
+2018-2019,Regular season,22,2019-01-19,Zulte Waregem,Antwerp,1,2,0.0
+2018-2019,Regular season,22,2019-01-20,Club Brugge,Charleroi,0,1,0.0
+2018-2019,Regular season,22,2019-01-20,Gent,Anderlecht,1,0,1.0
+2018-2019,Regular season,22,2019-01-20,Excel Mouscron,Oostende,2,1,1.0
+2018-2019,Regular season,23,2019-01-25,Antwerp,Standard Liège,1,1,0.5
+2018-2019,Regular season,23,2019-01-26,Charleroi,Waasland-Bev,2,2,0.5
+2018-2019,Regular season,23,2019-01-26,Lokeren,Zulte Waregem,0,3,0.0
+2018-2019,Regular season,23,2019-01-26,Cercle Brugge,Sint-Truiden,1,2,0.0
+2018-2019,Regular season,23,2019-01-26,Genk,Excel Mouscron,1,2,0.0
+2018-2019,Regular season,23,2019-01-27,Oostende,Club Brugge,1,2,0.0
+2018-2019,Regular season,23,2019-01-27,Anderlecht,Eupen,2,1,1.0
+2018-2019,Regular season,23,2019-01-27,Kortrijk,Gent,1,2,0.0
+2018-2019,Regular season,24,2019-02-01,Excel Mouscron,Charleroi,3,0,1.0
+2018-2019,Regular season,24,2019-02-02,Oostende,Antwerp,0,2,0.0
+2018-2019,Regular season,24,2019-02-02,Kortrijk,Lokeren,2,1,1.0
+2018-2019,Regular season,24,2019-02-02,Zulte Waregem,Cercle Brugge,3,2,1.0
+2018-2019,Regular season,24,2019-02-02,Waasland-Bev,Genk,1,2,0.0
+2018-2019,Regular season,24,2019-02-03,Club Brugge,Gent,1,1,0.5
+2018-2019,Regular season,24,2019-02-03,Standard Liège,Anderlecht,2,1,1.0
+2018-2019,Regular season,24,2019-02-03,Sint-Truiden,Eupen,4,1,1.0
+2018-2019,Regular season,25,2019-02-08,Genk,Standard Liège,2,0,1.0
+2018-2019,Regular season,25,2019-02-09,Charleroi,Oostende,1,1,0.5
+2018-2019,Regular season,25,2019-02-09,Sint-Truiden,Waasland-Bev,2,1,1.0
+2018-2019,Regular season,25,2019-02-09,Eupen,Kortrijk,0,1,0.0
+2018-2019,Regular season,25,2019-02-09,Lokeren,Antwerp,2,1,1.0
+2018-2019,Regular season,25,2019-02-10,Cercle Brugge,Club Brugge,2,2,0.5
+2018-2019,Regular season,25,2019-02-10,Anderlecht,Zulte Waregem,0,0,0.5
+2018-2019,Regular season,25,2019-02-10,Gent,Excel Mouscron,1,2,0.0
+2018-2019,Regular season,26,2019-02-15,Standard Liège,Lokeren,3,1,1.0
+2018-2019,Regular season,26,2019-02-16,Kortrijk,Charleroi,1,2,0.0
+2018-2019,Regular season,26,2019-02-16,Oostende,Eupen,1,1,0.5
+2018-2019,Regular season,26,2019-02-16,Zulte Waregem,Sint-Truiden,1,1,0.5
+2018-2019,Regular season,26,2019-02-16,Waasland-Bev,Gent,2,1,1.0
+2018-2019,Regular season,26,2019-02-17,Club Brugge,Genk,3,1,1.0
+2018-2019,Regular season,26,2019-02-17,Antwerp,Anderlecht,0,1,0.0
+2018-2019,Regular season,26,2019-02-17,Excel Mouscron,Cercle Brugge,3,0,1.0
+2018-2019,Regular season,27,2019-02-22,Gent,Standard Liège,2,1,1.0
+2018-2019,Regular season,27,2019-02-23,Eupen,Zulte Waregem,2,3,0.0
+2018-2019,Regular season,27,2019-02-23,Waasland-Bev,Kortrijk,2,6,0.0
+2018-2019,Regular season,27,2019-02-23,Cercle Brugge,Oostende,2,2,0.5
+2018-2019,Regular season,27,2019-02-23,Excel Mouscron,Lokeren,1,0,1.0
+2018-2019,Regular season,27,2019-02-24,Anderlecht,Club Brugge,2,2,0.5
+2018-2019,Regular season,27,2019-02-24,Genk,Antwerp,0,0,0.5
+2018-2019,Regular season,27,2019-02-24,Sint-Truiden,Charleroi,3,1,1.0
+2018-2019,Regular season,28,2019-03-01,Standard Liège,Excel Mouscron,1,1,0.5
+2018-2019,Regular season,28,2019-03-02,Charleroi,Genk,1,1,0.5
+2018-2019,Regular season,28,2019-03-02,Oostende,Waasland-Bev,1,1,0.5
+2018-2019,Regular season,28,2019-03-02,Kortrijk,Cercle Brugge,2,1,1.0
+2018-2019,Regular season,28,2019-03-02,Club Brugge,Sint-Truiden,1,0,1.0
+2018-2019,Regular season,28,2019-03-03,Zulte Waregem,Gent,1,3,0.0
+2018-2019,Regular season,28,2019-03-03,Lokeren,Anderlecht,1,2,0.0
+2018-2019,Regular season,28,2019-03-03,Antwerp,Eupen,2,1,1.0
+2018-2019,Regular season,29,2019-03-10,Gent,Oostende,2,1,1.0
+2018-2019,Regular season,29,2019-03-10,Eupen,Club Brugge,0,4,0.0
+2018-2019,Regular season,29,2019-03-10,Antwerp,Charleroi,1,2,0.0
+2018-2019,Regular season,29,2019-03-10,Genk,Lokeren,1,0,1.0
+2018-2019,Regular season,29,2019-03-10,Cercle Brugge,Standard Liège,1,2,0.0
+2018-2019,Regular season,29,2019-03-10,Anderlecht,Kortrijk,2,0,1.0
+2018-2019,Regular season,29,2019-03-10,Excel Mouscron,Sint-Truiden,1,1,0.5
+2018-2019,Regular season,29,2019-03-10,Waasland-Bev,Zulte Waregem,1,1,0.5
+2018-2019,Regular season,30,2019-03-17,Charleroi,Eupen,1,2,0.0
+2018-2019,Regular season,30,2019-03-17,Kortrijk,Antwerp,2,0,1.0
+2018-2019,Regular season,30,2019-03-17,Standard Liège,Waasland-Bev,4,3,1.0
+2018-2019,Regular season,30,2019-03-17,Sint-Truiden,Gent,0,2,0.0
+2018-2019,Regular season,30,2019-03-17,Club Brugge,Excel Mouscron,1,2,0.0
+2018-2019,Regular season,30,2019-03-17,Lokeren,Cercle Brugge,3,1,1.0
+2018-2019,Regular season,30,2019-03-17,Zulte Waregem,Genk,3,3,0.5
+2018-2019,Regular season,30,2019-03-17,Oostende,Anderlecht,0,2,0.0
+2018-2019,Championship play-off,1,2019-03-29,Standard Liège,Antwerp,3,1,1.0
+2018-2019,Championship play-off,1,2019-03-30,Genk,Anderlecht,3,0,1.0
+2018-2019,Championship play-off,1,2019-03-31,Club Brugge,Gent,3,0,1.0
+2018-2019,Championship play-off,2,2019-04-02,Antwerp,Genk,1,0,1.0
+2018-2019,Championship play-off,2,2019-04-03,Gent,Standard Liège,1,2,0.0
+2018-2019,Championship play-off,2,2019-04-04,Anderlecht,Club Brugge,2,3,0.0
+2018-2019,Championship play-off,3,2019-04-06,Genk,Gent,2,1,1.0
+2018-2019,Championship play-off,3,2019-04-07,Anderlecht,Antwerp,1,2,0.0
+2018-2019,Championship play-off,3,2019-04-08,Club Brugge,Standard Liège,4,0,1.0
+2018-2019,Championship play-off,4,2019-04-12,Standard Liège,Anderlecht,5,0,1.0
+2018-2019,Championship play-off,4,2019-04-13,Gent,Antwerp,1,2,0.0
+2018-2019,Championship play-off,4,2019-04-14,Genk,Club Brugge,3,1,1.0
+2018-2019,Championship play-off,5,2019-04-19,Standard Liège,Genk,1,3,0.0
+2018-2019,Championship play-off,5,2019-04-21,Anderlecht,Gent,0,0,0.5
+2018-2019,Championship play-off,5,2019-04-22,Antwerp,Club Brugge,0,0,0.5
+2018-2019,Championship play-off,6,2019-04-26,Antwerp,Standard Liège,2,1,1.0
+2018-2019,Championship play-off,6,2019-04-27,Gent,Genk,0,1,0.0
+2018-2019,Championship play-off,6,2019-04-28,Club Brugge,Anderlecht,1,0,1.0
+2018-2019,Championship play-off,7,2019-05-03,Genk,Antwerp,4,0,1.0
+2018-2019,Championship play-off,7,2019-05-05,Anderlecht,Standard Liège,2,1,1.0
+2018-2019,Championship play-off,7,2019-05-05,Gent,Club Brugge,0,1,0.0
+2018-2019,Championship play-off,8,2019-05-10,Standard Liège,Gent,2,3,0.0
+2018-2019,Championship play-off,8,2019-05-12,Antwerp,Anderlecht,1,1,0.5
+2018-2019,Championship play-off,8,2019-05-12,Club Brugge,Genk,3,2,1.0
+2018-2019,Championship play-off,9,2019-05-16,Anderlecht,Genk,1,1,0.5
+2018-2019,Championship play-off,9,2019-05-16,Standard Liège,Club Brugge,2,0,1.0
+2018-2019,Championship play-off,9,2019-05-16,Antwerp,Gent,1,2,0.0
+2018-2019,Championship play-off,10,2019-05-19,Gent,Anderlecht,2,1,1.0
+2018-2019,Championship play-off,10,2019-05-19,Genk,Standard Liège,0,0,0.5
+2018-2019,Championship play-off,10,2019-05-19,Club Brugge,Antwerp,3,2,1.0

@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,1,2021-08-13,Beşiktaş,Rizespor,3,0,1.0
+2021-2022,1,2021-08-14,Fatih Karagümrük,Gaziantep FK,3,2,1.0
+2021-2022,1,2021-08-14,Altay,Kayserispor,3,0,1.0
+2021-2022,1,2021-08-14,Hatayspor,Kasımpaşa,1,1,0.5
+2021-2022,1,2021-08-15,Başakşehir,Alanyaspor,0,1,0.0
+2021-2022,1,2021-08-15,Adana Demirspor,Fenerbahçe,0,1,0.0
+2021-2022,1,2021-08-15,Antalyaspor,Göztepe,1,1,0.5
+2021-2022,1,2021-08-16,Yeni Mal'spor,Trabzonspor,1,5,0.0
+2021-2022,1,2021-08-16,Sivasspor,Konyaspor,0,1,0.0
+2021-2022,1,2021-08-16,Giresunspor,Galatasaray,0,2,0.0
+2021-2022,2,2021-08-20,Kayserispor,Adana Demirspor,1,1,0.5
+2021-2022,2,2021-08-21,Kasımpaşa,Giresunspor,2,0,1.0
+2021-2022,2,2021-08-21,Rizespor,Fatih Karagümrük,0,0,0.5
+2021-2022,2,2021-08-21,Alanyaspor,Altay,1,4,0.0
+2021-2022,2,2021-08-21,Gaziantep FK,Beşiktaş,0,0,0.5
+2021-2022,2,2021-08-22,Konyaspor,Başakşehir,2,1,1.0
+2021-2022,2,2021-08-22,Fenerbahçe,Antalyaspor,2,0,1.0
+2021-2022,2,2021-08-22,Göztepe,Yeni Mal'spor,0,1,0.0
+2021-2022,2,2021-08-23,Trabzonspor,Sivasspor,2,1,1.0
+2021-2022,2,2021-08-23,Galatasaray,Hatayspor,2,1,1.0
+2021-2022,3,2021-08-27,Antalyaspor,Rizespor,3,2,1.0
+2021-2022,3,2021-08-27,Adana Demirspor,Konyaspor,1,1,0.5
+2021-2022,3,2021-08-28,Yeni Mal'spor,Gaziantep FK,2,0,1.0
+2021-2022,3,2021-08-28,Başakşehir,Kayserispor,0,1,0.0
+2021-2022,3,2021-08-28,Hatayspor,Alanyaspor,5,0,1.0
+2021-2022,3,2021-08-28,Beşiktaş,Fatih Karagümrük,1,0,1.0
+2021-2022,3,2021-08-29,Kasımpaşa,Galatasaray,2,2,0.5
+2021-2022,3,2021-08-29,Sivasspor,Göztepe,2,2,0.5
+2021-2022,3,2021-08-29,Giresunspor,Trabzonspor,0,1,0.0
+2021-2022,3,2021-08-29,Altay,Fenerbahçe,0,2,0.0
+2021-2022,4,2021-09-11,Fatih Karagümrük,Adana Demirspor,4,0,1.0
+2021-2022,4,2021-09-11,Konyaspor,Altay,3,1,1.0
+2021-2022,4,2021-09-11,Kayserispor,Kasımpaşa,2,0,1.0
+2021-2022,4,2021-09-11,Beşiktaş,Yeni Mal'spor,3,0,1.0
+2021-2022,4,2021-09-12,Rizespor,Hatayspor,0,2,0.0
+2021-2022,4,2021-09-12,Fenerbahçe,Sivasspor,1,1,0.5
+2021-2022,4,2021-09-12,Göztepe,Başakşehir,2,1,1.0
+2021-2022,4,2021-09-12,Trabzonspor,Galatasaray,2,2,0.5
+2021-2022,4,2021-09-13,Alanyaspor,Giresunspor,1,0,1.0
+2021-2022,4,2021-09-13,Gaziantep FK,Antalyaspor,2,0,1.0
+2021-2022,5,2021-09-17,Altay,Göztepe,2,1,1.0
+2021-2022,5,2021-09-17,Yeni Mal'spor,Fatih Karagümrük,3,4,0.0
+2021-2022,5,2021-09-18,Sivasspor,Gaziantep FK,1,1,0.5
+2021-2022,5,2021-09-18,Kasımpaşa,Trabzonspor,0,1,0.0
+2021-2022,5,2021-09-18,Antalyaspor,Beşiktaş,2,3,0.0
+2021-2022,5,2021-09-18,Adana Demirspor,Rizespor,3,1,1.0
+2021-2022,5,2021-09-19,Giresunspor,Konyaspor,0,0,0.5
+2021-2022,5,2021-09-19,Galatasaray,Alanyaspor,0,1,0.0
+2021-2022,5,2021-09-19,Başakşehir,Fenerbahçe,2,0,1.0
+2021-2022,5,2021-09-19,Hatayspor,Kayserispor,2,1,1.0
+2021-2022,6,2021-09-21,Rizespor,Altay,1,2,0.0
+2021-2022,6,2021-09-21,Fatih Karagümrük,Antalyaspor,0,0,0.5
+2021-2022,6,2021-09-21,Beşiktaş,Adana Demirspor,3,3,0.5
+2021-2022,6,2021-09-21,Yeni Mal'spor,Sivasspor,0,1,0.0
+2021-2022,6,2021-09-22,Gaziantep FK,Başakşehir,1,0,1.0
+2021-2022,6,2021-09-22,Göztepe,Hatayspor,0,2,0.0
+2021-2022,6,2021-09-22,Kayserispor,Galatasaray,3,0,1.0
+2021-2022,6,2021-09-23,Konyaspor,Trabzonspor,2,2,0.5
+2021-2022,6,2021-09-23,Alanyaspor,Kasımpaşa,2,0,1.0
+2021-2022,6,2021-09-23,Fenerbahçe,Giresunspor,2,1,1.0
+2021-2022,7,2021-09-24,Altay,Beşiktaş,2,1,1.0
+2021-2022,7,2021-09-25,Sivasspor,Fatih Karagümrük,4,0,1.0
+2021-2022,7,2021-09-25,Antalyaspor,Yeni Mal'spor,1,0,1.0
+2021-2022,7,2021-09-25,Adana Demirspor,Gaziantep FK,4,0,1.0
+2021-2022,7,2021-09-26,Giresunspor,Kayserispor,1,1,0.5
+2021-2022,7,2021-09-26,Hatayspor,Fenerbahçe,1,2,0.0
+2021-2022,7,2021-09-26,Başakşehir,Rizespor,3,0,1.0
+2021-2022,7,2021-09-26,Galatasaray,Göztepe,2,1,1.0
+2021-2022,7,2021-09-27,Kasımpaşa,Konyaspor,2,2,0.5
+2021-2022,7,2021-09-27,Trabzonspor,Alanyaspor,1,1,0.5
+2021-2022,8,2021-10-01,Fatih Karagümrük,Başakşehir,3,1,1.0
+2021-2022,8,2021-10-01,Antalyaspor,Adana Demirspor,1,2,0.0
+2021-2022,8,2021-10-02,Konyaspor,Alanyaspor,1,1,0.5
+2021-2022,8,2021-10-02,Göztepe,Giresunspor,0,1,0.0
+2021-2022,8,2021-10-02,Kayserispor,Trabzonspor,1,2,0.0
+2021-2022,8,2021-10-02,Beşiktaş,Sivasspor,2,1,1.0
+2021-2022,8,2021-10-03,Yeni Mal'spor,Hatayspor,0,2,0.0
+2021-2022,8,2021-10-03,Gaziantep FK,Altay,4,1,1.0
+2021-2022,8,2021-10-03,Fenerbahçe,Kasımpaşa,2,1,1.0
+2021-2022,8,2021-10-03,Rizespor,Galatasaray,2,3,0.0
+2021-2022,9,2021-10-15,Başakşehir,Beşiktaş,3,2,1.0
+2021-2022,9,2021-10-16,Giresunspor,Rizespor,2,0,1.0
+2021-2022,9,2021-10-16,Sivasspor,Antalyaspor,2,2,0.5
+2021-2022,9,2021-10-16,Adana Demirspor,Yeni Mal'spor,0,2,0.0
+2021-2022,9,2021-10-17,Kasımpaşa,Göztepe,1,2,0.0
+2021-2022,9,2021-10-17,Altay,Fatih Karagümrük,0,1,0.0
+2021-2022,9,2021-10-17,Galatasaray,Konyaspor,1,0,1.0
+2021-2022,9,2021-10-17,Trabzonspor,Fenerbahçe,3,1,1.0
+2021-2022,9,2021-10-18,Hatayspor,Gaziantep FK,2,1,1.0
+2021-2022,9,2021-10-18,Alanyaspor,Kayserispor,6,3,1.0
+2021-2022,10,2021-10-22,Yeni Mal'spor,Altay,2,1,1.0
+2021-2022,10,2021-10-23,Rizespor,Kasımpaşa,2,1,1.0
+2021-2022,10,2021-10-23,Konyaspor,Kayserispor,2,0,1.0
+2021-2022,10,2021-10-23,Gaziantep FK,Giresunspor,1,1,0.5
+2021-2022,10,2021-10-23,Göztepe,Trabzonspor,0,1,0.0
+2021-2022,10,2021-10-24,Fatih Karagümrük,Hatayspor,1,1,0.5
+2021-2022,10,2021-10-24,Sivasspor,Adana Demirspor,1,1,0.5
+2021-2022,10,2021-10-24,Antalyaspor,Başakşehir,1,2,0.0
+2021-2022,10,2021-10-24,Fenerbahçe,Alanyaspor,1,2,0.0
+2021-2022,10,2021-10-25,Beşiktaş,Galatasaray,2,1,1.0
+2021-2022,11,2021-10-29,Trabzonspor,Rizespor,2,1,1.0
+2021-2022,11,2021-10-30,Kasımpaşa,Yeni Mal'spor,2,0,1.0
+2021-2022,11,2021-10-30,Hatayspor,Beşiktaş,1,0,1.0
+2021-2022,11,2021-10-30,Altay,Sivasspor,1,1,0.5
+2021-2022,11,2021-10-30,Konyaspor,Fenerbahçe,2,1,1.0
+2021-2022,11,2021-10-31,Kayserispor,Fatih Karagümrük,2,1,1.0
+2021-2022,11,2021-10-31,Alanyaspor,Göztepe,2,2,0.5
+2021-2022,11,2021-10-31,Galatasaray,Gaziantep FK,2,0,1.0
+2021-2022,11,2021-11-01,Başakşehir,Adana Demirspor,2,1,1.0
+2021-2022,11,2021-11-01,Giresunspor,Antalyaspor,1,2,0.0
+2021-2022,12,2021-11-05,Gaziantep FK,Kasımpaşa,2,0,1.0
+2021-2022,12,2021-11-05,Rizespor,Alanyaspor,2,0,1.0
+2021-2022,12,2021-11-06,Sivasspor,Giresunspor,0,0,0.5
+2021-2022,12,2021-11-06,Yeni Mal'spor,Başakşehir,1,3,0.0
+2021-2022,12,2021-11-06,Antalyaspor,Altay,1,0,1.0
+2021-2022,12,2021-11-06,Beşiktaş,Trabzonspor,1,2,0.0
+2021-2022,12,2021-11-07,Göztepe,Konyaspor,0,2,0.0
+2021-2022,12,2021-11-07,Fatih Karagümrük,Galatasaray,1,1,0.5
+2021-2022,12,2021-11-07,Adana Demirspor,Hatayspor,1,0,1.0
+2021-2022,12,2021-11-07,Fenerbahçe,Kayserispor,2,2,0.5
+2021-2022,13,2021-11-20,Hatayspor,Antalyaspor,3,1,1.0
+2021-2022,13,2021-11-20,Giresunspor,Yeni Mal'spor,1,0,1.0
+2021-2022,13,2021-11-20,Başakşehir,Sivasspor,2,1,1.0
+2021-2022,13,2021-11-20,Alanyaspor,Beşiktaş,2,0,1.0
+2021-2022,13,2021-11-21,Kasımpaşa,Fatih Karagümrük,1,3,0.0
+2021-2022,13,2021-11-21,Konyaspor,Rizespor,3,0,1.0
+2021-2022,13,2021-11-21,Altay,Adana Demirspor,1,3,0.0
+2021-2022,13,2021-11-21,Galatasaray,Fenerbahçe,1,2,0.0
+2021-2022,13,2021-11-22,Trabzonspor,Gaziantep FK,3,0,1.0
+2021-2022,13,2021-11-22,Kayserispor,Göztepe,1,1,0.5
+2021-2022,14,2021-11-26,Adana Demirspor,Kasımpaşa,0,0,0.5
+2021-2022,14,2021-11-26,Başakşehir,Altay,0,0,0.5
+2021-2022,14,2021-11-27,Antalyaspor,Alanyaspor,3,0,1.0
+2021-2022,14,2021-11-27,Rizespor,Kayserispor,1,0,1.0
+2021-2022,14,2021-11-27,Beşiktaş,Giresunspor,0,4,0.0
+2021-2022,14,2021-11-28,Gaziantep FK,Konyaspor,3,2,1.0
+2021-2022,14,2021-11-28,Sivasspor,Hatayspor,4,0,1.0
+2021-2022,14,2021-11-28,Fatih Karagümrük,Trabzonspor,0,2,0.0
+2021-2022,14,2021-11-28,Yeni Mal'spor,Galatasaray,0,0,0.5
+2021-2022,14,2021-11-29,Göztepe,Fenerbahçe,1,1,0.5
+2021-2022,15,2021-12-03,Kasımpaşa,Beşiktaş,1,1,0.5
+2021-2022,15,2021-12-04,Alanyaspor,Sivasspor,0,1,0.0
+2021-2022,15,2021-12-04,Trabzonspor,Adana Demirspor,2,0,1.0
+2021-2022,15,2021-12-04,Galatasaray,Altay,2,2,0.5
+2021-2022,15,2021-12-05,Kayserispor,Antalyaspor,2,0,1.0
+2021-2022,15,2021-12-05,Giresunspor,Fatih Karagümrük,3,1,1.0
+2021-2022,15,2021-12-05,Hatayspor,Başakşehir,0,3,0.0
+2021-2022,15,2021-12-05,Fenerbahçe,Rizespor,4,0,1.0
+2021-2022,15,2021-12-06,Konyaspor,Yeni Mal'spor,0,0,0.5
+2021-2022,15,2021-12-06,Göztepe,Gaziantep FK,2,1,1.0
+2021-2022,16,2021-12-10,Altay,Hatayspor,1,2,0.0
+2021-2022,16,2021-12-11,Fatih Karagümrük,Konyaspor,1,4,0.0
+2021-2022,16,2021-12-11,Başakşehir,Kasımpaşa,2,1,1.0
+2021-2022,16,2021-12-11,Rizespor,Göztepe,3,1,1.0
+2021-2022,16,2021-12-11,Antalyaspor,Trabzonspor,2,1,1.0
+2021-2022,16,2021-12-12,Adana Demirspor,Giresunspor,1,0,1.0
+2021-2022,16,2021-12-12,Yeni Mal'spor,Alanyaspor,2,6,0.0
+2021-2022,16,2021-12-12,Beşiktaş,Kayserispor,4,2,1.0
+2021-2022,16,2021-12-13,Sivasspor,Galatasaray,1,0,1.0
+2021-2022,16,2021-12-13,Gaziantep FK,Fenerbahçe,3,2,1.0
+2021-2022,17,2021-12-17,Giresunspor,Altay,3,1,1.0
+2021-2022,17,2021-12-18,Kasımpaşa,Sivasspor,1,3,0.0
+2021-2022,17,2021-12-18,Trabzonspor,Hatayspor,2,0,1.0
+2021-2022,17,2021-12-18,Konyaspor,Antalyaspor,1,0,1.0
+2021-2022,17,2021-12-18,Alanyaspor,Adana Demirspor,1,3,0.0
+2021-2022,17,2021-12-18,Galatasaray,Başakşehir,1,1,0.5
+2021-2022,17,2021-12-19,Rizespor,Yeni Mal'spor,1,0,1.0
+2021-2022,17,2021-12-19,Göztepe,Fatih Karagümrük,0,1,0.0
+2021-2022,17,2021-12-19,Kayserispor,Gaziantep FK,0,0,0.5
+2021-2022,17,2021-12-19,Fenerbahçe,Beşiktaş,2,2,0.5
+2021-2022,18,2021-12-21,Başakşehir,Giresunspor,3,1,1.0
+2021-2022,18,2021-12-21,Antalyaspor,Kasımpaşa,1,1,0.5
+2021-2022,18,2021-12-21,Adana Demirspor,Galatasaray,2,0,1.0
+2021-2022,18,2021-12-21,Altay,Trabzonspor,1,2,0.0
+2021-2022,18,2021-12-22,Hatayspor,Konyaspor,1,3,0.0
+2021-2022,18,2021-12-22,Sivasspor,Rizespor,1,1,0.5
+2021-2022,18,2021-12-22,Fatih Karagümrük,Fenerbahçe,1,1,0.5
+2021-2022,18,2021-12-22,Gaziantep FK,Alanyaspor,2,1,1.0
+2021-2022,18,2021-12-23,Yeni Mal'spor,Kayserispor,2,2,0.5
+2021-2022,18,2021-12-23,Beşiktaş,Göztepe,2,1,1.0
+2021-2022,19,2021-12-25,Kasımpaşa,Altay,2,0,1.0
+2021-2022,19,2021-12-25,Giresunspor,Hatayspor,0,1,0.0
+2021-2022,19,2021-12-25,Galatasaray,Antalyaspor,2,0,1.0
+2021-2022,19,2021-12-25,Trabzonspor,Başakşehir,0,0,0.5
+2021-2022,19,2021-12-26,Rizespor,Gaziantep FK,0,1,0.0
+2021-2022,19,2021-12-26,Göztepe,Adana Demirspor,1,1,0.5
+2021-2022,19,2021-12-26,Alanyaspor,Fatih Karagümrük,1,1,0.5
+2021-2022,19,2021-12-26,Fenerbahçe,Yeni Mal'spor,2,0,1.0
+2021-2022,19,2021-12-27,Kayserispor,Sivasspor,3,0,1.0
+2021-2022,19,2021-12-27,Konyaspor,Beşiktaş,1,0,1.0
+2021-2022,20,2022-01-07,Trabzonspor,Yeni Mal'spor,1,0,1.0
+2021-2022,20,2022-01-08,Gaziantep FK,Fatih Karagümrük,3,1,1.0
+2021-2022,20,2022-01-08,Alanyaspor,Başakşehir,1,1,0.5
+2021-2022,20,2022-01-08,Kasımpaşa,Hatayspor,3,1,1.0
+2021-2022,20,2022-01-08,Galatasaray,Giresunspor,0,1,0.0
+2021-2022,20,2022-01-09,Konyaspor,Sivasspor,0,1,0.0
+2021-2022,20,2022-01-09,Göztepe,Antalyaspor,4,0,1.0
+2021-2022,20,2022-01-09,Kayserispor,Altay,1,0,1.0
+2021-2022,20,2022-01-09,Rizespor,Beşiktaş,2,2,0.5
+2021-2022,20,2022-01-10,Fenerbahçe,Adana Demirspor,1,2,0.0
+2021-2022,21,2022-01-14,Yeni Mal'spor,Göztepe,1,2,0.0
+2021-2022,21,2022-01-14,Beşiktaş,Gaziantep FK,1,0,1.0
+2021-2022,21,2022-01-15,Adana Demirspor,Kayserispor,1,1,0.5
+2021-2022,21,2022-01-15,Fatih Karagümrük,Rizespor,2,0,1.0
+2021-2022,21,2022-01-15,Sivasspor,Trabzonspor,1,1,0.5
+2021-2022,21,2022-01-15,Antalyaspor,Fenerbahçe,1,1,0.5
+2021-2022,21,2022-01-16,Altay,Alanyaspor,0,2,0.0
+2021-2022,21,2022-01-16,Giresunspor,Kasımpaşa,0,2,0.0
+2021-2022,21,2022-01-16,Hatayspor,Galatasaray,4,2,1.0
+2021-2022,22,2022-01-18,Konyaspor,Adana Demirspor,1,0,1.0
+2021-2022,22,2022-01-18,Fatih Karagümrük,Beşiktaş,0,1,0.0
+2021-2022,22,2022-01-19,Göztepe,Sivasspor,2,1,1.0
+2021-2022,22,2022-01-19,Kayserispor,Başakşehir,1,0,1.0
+2021-2022,22,2022-01-19,Trabzonspor,Giresunspor,1,1,0.5
+2021-2022,22,2022-01-19,Fenerbahçe,Altay,2,1,1.0
+2021-2022,22,2022-01-20,Alanyaspor,Hatayspor,6,0,1.0
+2021-2022,22,2022-01-20,Rizespor,Antalyaspor,2,1,1.0
+2021-2022,22,2022-01-20,Galatasaray,Kasımpaşa,1,3,0.0
+2021-2022,23,2022-01-22,Yeni Mal'spor,Beşiktaş,1,1,0.5
+2021-2022,23,2022-01-22,Sivasspor,Fenerbahçe,1,1,0.5
+2021-2022,23,2022-01-22,Adana Demirspor,Fatih Karagümrük,5,0,1.0
+2021-2022,23,2022-01-22,Başakşehir,Göztepe,1,2,0.0
+2021-2022,23,2022-01-23,Hatayspor,Rizespor,0,0,0.5
+2021-2022,23,2022-01-23,Kasımpaşa,Kayserispor,3,1,1.0
+2021-2022,23,2022-01-23,Altay,Konyaspor,0,1,0.0
+2021-2022,23,2022-01-23,Giresunspor,Alanyaspor,1,3,0.0
+2021-2022,23,2022-01-23,Antalyaspor,Gaziantep FK,0,0,0.5
+2021-2022,23,2022-01-23,Galatasaray,Trabzonspor,1,2,0.0
+2021-2022,24,2022-02-04,Kayserispor,Hatayspor,4,3,1.0
+2021-2022,24,2022-02-04,Konyaspor,Giresunspor,1,0,1.0
+2021-2022,24,2022-02-05,Gaziantep FK,Sivasspor,5,1,1.0
+2021-2022,24,2022-02-05,Trabzonspor,Kasımpaşa,1,0,1.0
+2021-2022,24,2022-02-05,Fatih Karagümrük,Yeni Mal'spor,1,0,1.0
+2021-2022,24,2022-02-05,Fenerbahçe,Başakşehir,0,1,0.0
+2021-2022,24,2022-02-06,Rizespor,Adana Demirspor,1,3,0.0
+2021-2022,24,2022-02-06,Alanyaspor,Galatasaray,1,1,0.5
+2021-2022,24,2022-02-06,Beşiktaş,Antalyaspor,0,0,0.5
+2021-2022,24,2022-02-06,Göztepe,Altay,0,2,0.0
+2021-2022,25,2022-02-11,Altay,Rizespor,0,0,0.5
+2021-2022,25,2022-02-12,Giresunspor,Fenerbahçe,1,2,0.0
+2021-2022,25,2022-02-12,Başakşehir,Gaziantep FK,2,0,1.0
+2021-2022,25,2022-02-12,Galatasaray,Kayserispor,1,1,0.5
+2021-2022,25,2022-02-13,Sivasspor,Yeni Mal'spor,2,1,1.0
+2021-2022,25,2022-02-13,Antalyaspor,Fatih Karagümrük,3,0,1.0
+2021-2022,25,2022-02-13,Trabzonspor,Konyaspor,2,1,1.0
+2021-2022,25,2022-02-13,Kasımpaşa,Alanyaspor,2,2,0.5
+2021-2022,25,2022-02-14,Hatayspor,Göztepe,2,1,1.0
+2021-2022,25,2022-02-14,Adana Demirspor,Beşiktaş,1,1,0.5
+2021-2022,26,2022-02-18,Rizespor,Başakşehir,0,2,0.0
+2021-2022,26,2022-02-18,Konyaspor,Kasımpaşa,4,4,0.5
+2021-2022,26,2022-02-19,Yeni Mal'spor,Antalyaspor,1,2,0.0
+2021-2022,26,2022-02-19,Kayserispor,Giresunspor,2,1,1.0
+2021-2022,26,2022-02-19,Beşiktaş,Altay,1,0,1.0
+2021-2022,26,2022-02-20,Gaziantep FK,Adana Demirspor,0,3,0.0
+2021-2022,26,2022-02-20,Alanyaspor,Trabzonspor,0,4,0.0
+2021-2022,26,2022-02-20,Fatih Karagümrük,Sivasspor,1,0,1.0
+2021-2022,26,2022-02-20,Fenerbahçe,Hatayspor,2,0,1.0
+2021-2022,26,2022-02-21,Göztepe,Galatasaray,2,3,0.0
+2021-2022,21,2022-02-22,Başakşehir,Konyaspor,2,1,1.0
+2021-2022,22,2022-02-23,Gaziantep FK,Yeni Mal'spor,0,0,0.5
+2021-2022,27,2022-02-25,Trabzonspor,Kayserispor,3,2,1.0
+2021-2022,27,2022-02-25,Adana Demirspor,Antalyaspor,0,0,0.5
+2021-2022,27,2022-02-26,Başakşehir,Fatih Karagümrük,1,2,0.0
+2021-2022,27,2022-02-26,Sivasspor,Beşiktaş,2,3,0.0
+2021-2022,27,2022-02-27,Giresunspor,Göztepe,3,1,1.0
+2021-2022,27,2022-02-27,Altay,Gaziantep FK,3,2,1.0
+2021-2022,27,2022-02-27,Hatayspor,Yeni Mal'spor,5,2,1.0
+2021-2022,27,2022-02-27,Alanyaspor,Konyaspor,5,1,1.0
+2021-2022,27,2022-02-27,Galatasaray,Rizespor,4,2,1.0
+2021-2022,27,2022-02-28,Kasımpaşa,Fenerbahçe,1,2,0.0
+2021-2022,28,2022-03-04,Yeni Mal'spor,Adana Demirspor,1,0,1.0
+2021-2022,28,2022-03-05,Rizespor,Giresunspor,1,2,0.0
+2021-2022,28,2022-03-05,Göztepe,Kasımpaşa,2,3,0.0
+2021-2022,28,2022-03-05,Konyaspor,Galatasaray,2,0,1.0
+2021-2022,28,2022-03-06,Fatih Karagümrük,Altay,0,0,0.5
+2021-2022,28,2022-03-06,Antalyaspor,Sivasspor,1,0,1.0
+2021-2022,28,2022-03-06,Fenerbahçe,Trabzonspor,1,1,0.5
+2021-2022,28,2022-03-07,Kayserispor,Alanyaspor,1,2,0.0
+2021-2022,28,2022-03-07,Beşiktaş,Başakşehir,2,2,0.5
+2021-2022,28,2022-03-07,Gaziantep FK,Hatayspor,2,2,0.5
+2021-2022,29,2022-03-12,Hatayspor,Fatih Karagümrük,3,0,1.0
+2021-2022,29,2022-03-12,Altay,Yeni Mal'spor,1,0,1.0
+2021-2022,29,2022-03-12,Kasımpaşa,Rizespor,3,1,1.0
+2021-2022,29,2022-03-12,Trabzonspor,Göztepe,4,2,1.0
+2021-2022,29,2022-03-13,Kayserispor,Konyaspor,2,3,0.0
+2021-2022,29,2022-03-13,Adana Demirspor,Sivasspor,2,3,0.0
+2021-2022,29,2022-03-13,Alanyaspor,Fenerbahçe,2,5,0.0
+2021-2022,29,2022-03-14,Başakşehir,Antalyaspor,0,1,0.0
+2021-2022,29,2022-03-14,Giresunspor,Gaziantep FK,2,1,1.0
+2021-2022,29,2022-03-14,Galatasaray,Beşiktaş,2,1,1.0
+2021-2022,30,2022-03-18,Fatih Karagümrük,Kayserispor,3,0,1.0
+2021-2022,30,2022-03-18,Rizespor,Trabzonspor,3,2,1.0
+2021-2022,30,2022-03-19,Yeni Mal'spor,Kasımpaşa,0,2,0.0
+2021-2022,30,2022-03-19,Göztepe,Alanyaspor,0,2,0.0
+2021-2022,30,2022-03-19,Adana Demirspor,Başakşehir,2,1,1.0
+2021-2022,30,2022-03-19,Beşiktaş,Hatayspor,1,1,0.5
+2021-2022,30,2022-03-20,Antalyaspor,Giresunspor,4,1,1.0
+2021-2022,30,2022-03-20,Sivasspor,Altay,2,1,1.0
+2021-2022,30,2022-03-20,Gaziantep FK,Galatasaray,3,1,1.0
+2021-2022,30,2022-03-20,Fenerbahçe,Konyaspor,2,1,1.0
+2021-2022,31,2022-04-02,Giresunspor,Sivasspor,2,2,0.5
+2021-2022,31,2022-04-02,Altay,Antalyaspor,1,2,0.0
+2021-2022,31,2022-04-02,Kayserispor,Fenerbahçe,0,4,0.0
+2021-2022,31,2022-04-02,Galatasaray,Fatih Karagümrük,2,0,1.0
+2021-2022,31,2022-04-03,Kasımpaşa,Gaziantep FK,2,1,1.0
+2021-2022,31,2022-04-03,Konyaspor,Göztepe,3,0,1.0
+2021-2022,31,2022-04-03,Alanyaspor,Rizespor,2,1,1.0
+2021-2022,31,2022-04-03,Trabzonspor,Beşiktaş,1,1,0.5
+2021-2022,31,2022-04-04,Başakşehir,Yeni Mal'spor,1,0,1.0
+2021-2022,31,2022-04-04,Hatayspor,Adana Demirspor,0,0,0.5
+2021-2022,32,2022-04-09,Fatih Karagümrük,Kasımpaşa,3,2,1.0
+2021-2022,32,2022-04-09,Göztepe,Kayserispor,1,2,0.0
+2021-2022,32,2022-04-09,Rizespor,Konyaspor,2,1,1.0
+2021-2022,32,2022-04-09,Beşiktaş,Alanyaspor,4,1,1.0
+2021-2022,32,2022-04-09,Gaziantep FK,Trabzonspor,0,0,0.5
+2021-2022,32,2022-04-10,Yeni Mal'spor,Giresunspor,0,1,0.0
+2021-2022,32,2022-04-10,Sivasspor,Başakşehir,0,2,0.0
+2021-2022,32,2022-04-10,Adana Demirspor,Altay,3,1,1.0
+2021-2022,32,2022-04-10,Fenerbahçe,Galatasaray,2,0,1.0
+2021-2022,32,2022-04-11,Antalyaspor,Hatayspor,4,1,1.0
+2021-2022,33,2022-04-15,Trabzonspor,Fatih Karagümrük,1,1,0.5
+2021-2022,33,2022-04-15,Kayserispor,Rizespor,1,1,0.5
+2021-2022,33,2022-04-16,Hatayspor,Sivasspor,1,1,0.5
+2021-2022,33,2022-04-16,Altay,Başakşehir,1,1,0.5
+2021-2022,33,2022-04-16,Alanyaspor,Antalyaspor,1,3,0.0
+2021-2022,33,2022-04-16,Fenerbahçe,Göztepe,2,0,1.0
+2021-2022,33,2022-04-17,Konyaspor,Gaziantep FK,4,1,1.0
+2021-2022,33,2022-04-17,Kasımpaşa,Adana Demirspor,4,0,1.0
+2021-2022,33,2022-04-17,Giresunspor,Beşiktaş,0,0,0.5
+2021-2022,33,2022-04-18,Galatasaray,Yeni Mal'spor,2,0,1.0
+2021-2022,34,2022-04-22,Rizespor,Fenerbahçe,0,6,0.0
+2021-2022,34,2022-04-23,Fatih Karagümrük,Giresunspor,2,1,1.0
+2021-2022,34,2022-04-23,Gaziantep FK,Göztepe,1,1,0.5
+2021-2022,34,2022-04-23,Adana Demirspor,Trabzonspor,1,3,0.0
+2021-2022,34,2022-04-24,Başakşehir,Hatayspor,3,0,1.0
+2021-2022,34,2022-04-24,Yeni Mal'spor,Konyaspor,2,3,0.0
+2021-2022,34,2022-04-24,Altay,Galatasaray,0,1,0.0
+2021-2022,34,2022-04-24,Antalyaspor,Kayserispor,1,1,0.5
+2021-2022,34,2022-04-25,Beşiktaş,Kasımpaşa,0,3,0.0
+2021-2022,34,2022-04-25,Sivasspor,Alanyaspor,1,0,1.0
+2021-2022,35,2022-04-29,Giresunspor,Adana Demirspor,2,0,1.0
+2021-2022,35,2022-04-29,Fenerbahçe,Gaziantep FK,3,2,1.0
+2021-2022,35,2022-04-30,Konyaspor,Fatih Karagümrük,1,2,0.0
+2021-2022,35,2022-04-30,Kasımpaşa,Başakşehir,2,3,0.0
+2021-2022,35,2022-04-30,Hatayspor,Altay,0,1,0.0
+2021-2022,35,2022-04-30,Trabzonspor,Antalyaspor,2,2,0.5
+2021-2022,35,2022-05-01,Kayserispor,Beşiktaş,2,3,0.0
+2021-2022,35,2022-05-01,Alanyaspor,Yeni Mal'spor,2,1,1.0
+2021-2022,35,2022-05-01,Göztepe,Rizespor,1,7,0.0
+2021-2022,35,2022-05-01,Galatasaray,Sivasspor,2,3,0.0
+2021-2022,36,2022-05-06,Gaziantep FK,Kayserispor,1,1,0.5
+2021-2022,36,2022-05-06,Hatayspor,Trabzonspor,1,1,0.5
+2021-2022,36,2022-05-07,Sivasspor,Kasımpaşa,1,3,0.0
+2021-2022,36,2022-05-07,Fatih Karagümrük,Göztepe,3,1,1.0
+2021-2022,36,2022-05-07,Başakşehir,Galatasaray,0,0,0.5
+2021-2022,36,2022-05-07,Adana Demirspor,Alanyaspor,1,2,0.0
+2021-2022,36,2022-05-08,Altay,Giresunspor,1,1,0.5
+2021-2022,36,2022-05-08,Yeni Mal'spor,Rizespor,1,3,0.0
+2021-2022,36,2022-05-08,Beşiktaş,Fenerbahçe,1,1,0.5
+2021-2022,36,2022-05-09,Antalyaspor,Konyaspor,3,2,1.0
+2021-2022,37,2022-05-14,Kayserispor,Yeni Mal'spor,3,0,1.0
+2021-2022,37,2022-05-15,Trabzonspor,Altay,2,1,1.0
+2021-2022,37,2022-05-15,Göztepe,Beşiktaş,0,2,0.0
+2021-2022,37,2022-05-15,Fenerbahçe,Fatih Karagümrük,0,0,0.5
+2021-2022,37,2022-05-15,Giresunspor,Başakşehir,1,1,0.5
+2021-2022,37,2022-05-15,Kasımpaşa,Antalyaspor,2,4,0.0
+2021-2022,37,2022-05-15,Konyaspor,Hatayspor,3,1,1.0
+2021-2022,37,2022-05-15,Alanyaspor,Gaziantep FK,3,0,1.0
+2021-2022,37,2022-05-16,Rizespor,Sivasspor,1,2,0.0
+2021-2022,37,2022-05-16,Galatasaray,Adana Demirspor,3,2,1.0
+2021-2022,38,2022-05-20,Gaziantep FK,Rizespor,2,0,1.0
+2021-2022,38,2022-05-20,Antalyaspor,Galatasaray,1,1,0.5
+2021-2022,38,2022-05-21,Sivasspor,Kayserispor,2,1,1.0
+2021-2022,38,2022-05-21,Altay,Kasımpaşa,2,4,0.0
+2021-2022,38,2022-05-21,Yeni Mal'spor,Fenerbahçe,0,5,0.0
+2021-2022,38,2022-05-21,Beşiktaş,Konyaspor,1,1,0.5
+2021-2022,38,2022-05-22,Fatih Karagümrük,Alanyaspor,0,1,0.0
+2021-2022,38,2022-05-22,Başakşehir,Trabzonspor,3,1,1.0
+2021-2022,38,2022-05-22,Adana Demirspor,Göztepe,7,0,1.0
+2021-2022,38,2022-05-22,Hatayspor,Giresunspor,4,1,1.0

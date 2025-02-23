@@ -1,0 +1,181 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,1,2017-07-22,Rapid Wien,Mattersburg,2,2,0.5
+2017-2018,1,2017-07-22,LASK,Admira,3,0,1.0
+2017-2018,1,2017-07-22,Wolfsberger AC,RB Salzburg,0,2,0.0
+2017-2018,1,2017-07-23,SCR Altach,Austria Wien,3,0,1.0
+2017-2018,1,2017-07-23,Sturm Graz,St. Pölten,3,2,1.0
+2017-2018,2,2017-07-29,RB Salzburg,LASK,1,1,0.5
+2017-2018,2,2017-07-29,St. Pölten,Rapid Wien,1,4,0.0
+2017-2018,2,2017-07-29,Mattersburg,Wolfsberger AC,1,0,1.0
+2017-2018,2,2017-07-30,Austria Wien,Sturm Graz,2,3,0.0
+2017-2018,2,2017-07-30,Admira,SCR Altach,4,1,1.0
+2017-2018,3,2017-08-05,LASK,St. Pölten,2,0,1.0
+2017-2018,3,2017-08-05,RB Salzburg,Admira,5,1,1.0
+2017-2018,3,2017-08-06,Wolfsberger AC,SCR Altach,1,0,1.0
+2017-2018,3,2017-08-06,Rapid Wien,Austria Wien,2,2,0.5
+2017-2018,3,2017-08-06,Mattersburg,Sturm Graz,2,3,0.0
+2017-2018,4,2017-08-12,SCR Altach,RB Salzburg,0,1,0.0
+2017-2018,4,2017-08-12,Austria Wien,LASK,2,0,1.0
+2017-2018,4,2017-08-12,St. Pölten,Mattersburg,0,0,0.5
+2017-2018,4,2017-08-12,Sturm Graz,Wolfsberger AC,2,1,1.0
+2017-2018,4,2017-08-13,Admira,Rapid Wien,3,1,1.0
+2017-2018,5,2017-08-19,Rapid Wien,Sturm Graz,1,2,0.0
+2017-2018,5,2017-08-19,Wolfsberger AC,Admira,2,0,1.0
+2017-2018,5,2017-08-20,LASK,SCR Altach,0,0,0.5
+2017-2018,5,2017-08-20,RB Salzburg,St. Pölten,5,1,1.0
+2017-2018,5,2017-08-20,Mattersburg,Austria Wien,1,3,0.0
+2017-2018,6,2017-08-26,Wolfsberger AC,St. Pölten,2,1,1.0
+2017-2018,6,2017-08-26,Rapid Wien,LASK,1,0,1.0
+2017-2018,6,2017-08-27,Sturm Graz,RB Salzburg,1,0,1.0
+2017-2018,6,2017-08-27,SCR Altach,Mattersburg,1,0,1.0
+2017-2018,6,2017-08-27,Admira,Austria Wien,1,3,0.0
+2017-2018,7,2017-09-09,LASK,Sturm Graz,2,1,1.0
+2017-2018,7,2017-09-09,St. Pölten,SCR Altach,1,2,0.0
+2017-2018,7,2017-09-09,Austria Wien,Wolfsberger AC,2,2,0.5
+2017-2018,7,2017-09-09,Mattersburg,Admira,0,5,0.0
+2017-2018,7,2017-09-10,RB Salzburg,Rapid Wien,2,2,0.5
+2017-2018,8,2017-09-16,SCR Altach,Rapid Wien,2,2,0.5
+2017-2018,8,2017-09-16,Wolfsberger AC,LASK,0,0,0.5
+2017-2018,8,2017-09-16,Admira,Sturm Graz,2,1,1.0
+2017-2018,8,2017-09-17,Mattersburg,RB Salzburg,1,2,0.0
+2017-2018,8,2017-09-17,Austria Wien,St. Pölten,5,1,1.0
+2017-2018,9,2017-09-23,Rapid Wien,Wolfsberger AC,4,2,1.0
+2017-2018,9,2017-09-23,Sturm Graz,SCR Altach,0,0,0.5
+2017-2018,9,2017-09-23,LASK,Mattersburg,2,2,0.5
+2017-2018,9,2017-09-23,St. Pölten,Admira,1,1,0.5
+2017-2018,9,2017-09-24,RB Salzburg,Austria Wien,0,0,0.5
+2017-2018,10,2017-09-30,St. Pölten,Sturm Graz,0,3,0.0
+2017-2018,10,2017-09-30,Mattersburg,Rapid Wien,0,1,0.0
+2017-2018,10,2017-09-30,Admira,LASK,4,2,1.0
+2017-2018,10,2017-10-01,Austria Wien,SCR Altach,2,0,1.0
+2017-2018,10,2017-10-01,RB Salzburg,Wolfsberger AC,2,1,1.0
+2017-2018,11,2017-10-14,LASK,RB Salzburg,1,3,0.0
+2017-2018,11,2017-10-14,SCR Altach,Admira,2,2,0.5
+2017-2018,11,2017-10-14,Rapid Wien,St. Pölten,1,0,1.0
+2017-2018,11,2017-10-14,Wolfsberger AC,Mattersburg,2,2,0.5
+2017-2018,11,2017-10-15,Sturm Graz,Austria Wien,3,0,1.0
+2017-2018,12,2017-10-21,Sturm Graz,Mattersburg,3,2,1.0
+2017-2018,12,2017-10-21,SCR Altach,Wolfsberger AC,3,2,1.0
+2017-2018,12,2017-10-21,St. Pölten,LASK,0,1,0.0
+2017-2018,12,2017-10-22,Admira,RB Salzburg,1,1,0.5
+2017-2018,12,2017-10-22,Austria Wien,Rapid Wien,0,1,0.0
+2017-2018,13,2017-10-28,Rapid Wien,Admira,1,0,1.0
+2017-2018,13,2017-10-28,RB Salzburg,SCR Altach,2,0,1.0
+2017-2018,13,2017-10-28,Mattersburg,St. Pölten,1,1,0.5
+2017-2018,13,2017-10-28,LASK,Austria Wien,2,2,0.5
+2017-2018,13,2017-10-29,Wolfsberger AC,Sturm Graz,0,2,0.0
+2017-2018,14,2017-11-04,Sturm Graz,Rapid Wien,0,0,0.5
+2017-2018,14,2017-11-04,SCR Altach,LASK,2,4,0.0
+2017-2018,14,2017-11-04,Admira,Wolfsberger AC,0,0,0.5
+2017-2018,14,2017-11-05,Austria Wien,Mattersburg,1,3,0.0
+2017-2018,14,2017-11-05,St. Pölten,RB Salzburg,1,3,0.0
+2017-2018,15,2017-11-18,LASK,Rapid Wien,1,2,0.0
+2017-2018,15,2017-11-18,St. Pölten,Wolfsberger AC,0,0,0.5
+2017-2018,15,2017-11-18,Mattersburg,SCR Altach,1,0,1.0
+2017-2018,15,2017-11-18,Austria Wien,Admira,2,3,0.0
+2017-2018,15,2017-11-19,RB Salzburg,Sturm Graz,5,0,1.0
+2017-2018,16,2017-11-25,Sturm Graz,LASK,1,0,1.0
+2017-2018,16,2017-11-25,SCR Altach,St. Pölten,3,0,1.0
+2017-2018,16,2017-11-25,Admira,Mattersburg,2,0,1.0
+2017-2018,16,2017-11-26,Wolfsberger AC,Austria Wien,1,2,0.0
+2017-2018,16,2017-11-26,Rapid Wien,RB Salzburg,2,3,0.0
+2017-2018,17,2017-11-28,Sturm Graz,Admira,6,1,1.0
+2017-2018,17,2017-11-29,RB Salzburg,Mattersburg,2,0,1.0
+2017-2018,17,2017-11-29,LASK,Wolfsberger AC,2,0,1.0
+2017-2018,17,2017-11-29,St. Pölten,Austria Wien,1,0,1.0
+2017-2018,17,2017-11-29,Rapid Wien,SCR Altach,1,2,0.0
+2017-2018,18,2017-12-02,Wolfsberger AC,Rapid Wien,0,0,0.5
+2017-2018,18,2017-12-02,Mattersburg,LASK,1,0,1.0
+2017-2018,18,2017-12-02,SCR Altach,Sturm Graz,1,2,0.0
+2017-2018,18,2017-12-02,Admira,St. Pölten,1,0,1.0
+2017-2018,18,2017-12-03,Austria Wien,RB Salzburg,1,1,0.5
+2017-2018,19,2017-12-09,Rapid Wien,Mattersburg,2,2,0.5
+2017-2018,19,2017-12-09,LASK,Admira,2,1,1.0
+2017-2018,19,2017-12-09,Sturm Graz,St. Pölten,3,2,1.0
+2017-2018,19,2017-12-10,SCR Altach,Austria Wien,1,0,1.0
+2017-2018,19,2017-12-10,Wolfsberger AC,RB Salzburg,0,0,0.5
+2017-2018,20,2017-12-16,RB Salzburg,LASK,0,0,0.5
+2017-2018,20,2017-12-16,St. Pölten,Rapid Wien,0,5,0.0
+2017-2018,20,2017-12-16,Admira,SCR Altach,3,1,1.0
+2017-2018,20,2017-12-16,Mattersburg,Wolfsberger AC,5,1,1.0
+2017-2018,20,2017-12-17,Austria Wien,Sturm Graz,1,0,1.0
+2017-2018,21,2018-02-03,Mattersburg,Sturm Graz,1,0,1.0
+2017-2018,21,2018-02-03,LASK,St. Pölten,2,1,1.0
+2017-2018,21,2018-02-03,Wolfsberger AC,SCR Altach,0,0,0.5
+2017-2018,21,2018-02-03,RB Salzburg,Admira,2,1,1.0
+2017-2018,21,2018-02-04,Rapid Wien,Austria Wien,1,1,0.5
+2017-2018,22,2018-02-10,SCR Altach,RB Salzburg,0,1,0.0
+2017-2018,22,2018-02-10,St. Pölten,Mattersburg,0,3,0.0
+2017-2018,22,2018-02-10,Austria Wien,LASK,1,3,0.0
+2017-2018,22,2018-02-10,Sturm Graz,Wolfsberger AC,0,1,0.0
+2017-2018,22,2018-02-11,Admira,Rapid Wien,2,1,1.0
+2017-2018,23,2018-02-17,Rapid Wien,Sturm Graz,1,1,0.5
+2017-2018,23,2018-02-17,Wolfsberger AC,Admira,1,3,0.0
+2017-2018,23,2018-02-17,LASK,SCR Altach,2,0,1.0
+2017-2018,23,2018-02-17,Mattersburg,Austria Wien,2,1,1.0
+2017-2018,23,2018-02-18,RB Salzburg,St. Pölten,4,0,1.0
+2017-2018,24,2018-02-24,Admira,Austria Wien,2,1,1.0
+2017-2018,24,2018-02-24,Rapid Wien,LASK,2,0,1.0
+2017-2018,24,2018-02-24,Wolfsberger AC,St. Pölten,0,1,0.0
+2017-2018,24,2018-02-24,SCR Altach,Mattersburg,1,1,0.5
+2017-2018,24,2018-02-25,Sturm Graz,RB Salzburg,2,4,0.0
+2017-2018,25,2018-03-03,LASK,Sturm Graz,0,2,0.0
+2017-2018,25,2018-03-03,Austria Wien,Wolfsberger AC,2,0,1.0
+2017-2018,25,2018-03-03,Mattersburg,Admira,3,2,1.0
+2017-2018,25,2018-03-03,St. Pölten,SCR Altach,1,2,0.0
+2017-2018,25,2018-03-04,RB Salzburg,Rapid Wien,1,0,1.0
+2017-2018,26,2018-03-10,SCR Altach,Rapid Wien,0,0,0.5
+2017-2018,26,2018-03-10,Wolfsberger AC,LASK,0,3,0.0
+2017-2018,26,2018-03-10,Austria Wien,St. Pölten,4,0,1.0
+2017-2018,26,2018-03-10,Admira,Sturm Graz,2,4,0.0
+2017-2018,26,2018-03-11,Mattersburg,RB Salzburg,2,2,0.5
+2017-2018,27,2018-03-17,Rapid Wien,Wolfsberger AC,5,1,1.0
+2017-2018,27,2018-03-17,Sturm Graz,SCR Altach,1,0,1.0
+2017-2018,27,2018-03-17,LASK,Mattersburg,3,1,1.0
+2017-2018,27,2018-03-17,St. Pölten,Admira,1,2,0.0
+2017-2018,27,2018-03-18,RB Salzburg,Austria Wien,5,0,1.0
+2017-2018,28,2018-03-31,Admira,LASK,0,1,0.0
+2017-2018,28,2018-03-31,St. Pölten,Sturm Graz,1,5,0.0
+2017-2018,28,2018-03-31,Austria Wien,SCR Altach,2,1,1.0
+2017-2018,28,2018-03-31,RB Salzburg,Wolfsberger AC,2,0,1.0
+2017-2018,28,2018-04-01,Mattersburg,Rapid Wien,2,4,0.0
+2017-2018,29,2018-04-07,Sturm Graz,Austria Wien,0,2,0.0
+2017-2018,29,2018-04-07,SCR Altach,Admira,1,2,0.0
+2017-2018,29,2018-04-07,Wolfsberger AC,Mattersburg,0,2,0.0
+2017-2018,29,2018-04-07,Rapid Wien,St. Pölten,2,1,1.0
+2017-2018,29,2018-04-08,LASK,RB Salzburg,1,0,1.0
+2017-2018,30,2018-04-14,Sturm Graz,Mattersburg,3,0,1.0
+2017-2018,30,2018-04-14,SCR Altach,Wolfsberger AC,2,1,1.0
+2017-2018,30,2018-04-14,St. Pölten,LASK,1,3,0.0
+2017-2018,30,2018-04-15,Austria Wien,Rapid Wien,0,4,0.0
+2017-2018,30,2018-04-15,Admira,RB Salzburg,2,6,0.0
+2017-2018,31,2018-04-21,Wolfsberger AC,Sturm Graz,2,1,1.0
+2017-2018,31,2018-04-21,LASK,Austria Wien,1,0,1.0
+2017-2018,31,2018-04-21,Mattersburg,St. Pölten,1,1,0.5
+2017-2018,31,2018-04-22,RB Salzburg,SCR Altach,3,1,1.0
+2017-2018,31,2018-04-22,Rapid Wien,Admira,4,1,1.0
+2017-2018,32,2018-04-28,Austria Wien,Mattersburg,2,3,0.0
+2017-2018,32,2018-04-28,Admira,Wolfsberger AC,4,2,1.0
+2017-2018,32,2018-04-28,SCR Altach,LASK,0,2,0.0
+2017-2018,32,2018-04-29,Sturm Graz,Rapid Wien,4,2,1.0
+2017-2018,32,2018-04-29,St. Pölten,RB Salzburg,0,2,0.0
+2017-2018,33,2018-05-05,LASK,Rapid Wien,0,2,0.0
+2017-2018,33,2018-05-05,St. Pölten,Wolfsberger AC,0,1,0.0
+2017-2018,33,2018-05-05,Austria Wien,Admira,0,0,0.5
+2017-2018,33,2018-05-05,Mattersburg,SCR Altach,0,1,0.0
+2017-2018,33,2018-05-06,RB Salzburg,Sturm Graz,4,1,1.0
+2017-2018,34,2018-05-12,Sturm Graz,LASK,3,1,1.0
+2017-2018,34,2018-05-12,Admira,Mattersburg,1,1,0.5
+2017-2018,34,2018-05-12,SCR Altach,St. Pölten,1,3,0.0
+2017-2018,34,2018-05-13,Rapid Wien,RB Salzburg,1,4,0.0
+2017-2018,34,2018-05-15,Wolfsberger AC,Austria Wien,2,1,1.0
+2017-2018,35,2018-05-20,Sturm Graz,Admira,2,0,1.0
+2017-2018,35,2018-05-20,Rapid Wien,SCR Altach,4,1,1.0
+2017-2018,35,2018-05-20,RB Salzburg,Mattersburg,1,0,1.0
+2017-2018,35,2018-05-20,LASK,Wolfsberger AC,1,3,0.0
+2017-2018,35,2018-05-20,St. Pölten,Austria Wien,2,0,1.0
+2017-2018,36,2018-05-27,Wolfsberger AC,Rapid Wien,0,0,0.5
+2017-2018,36,2018-05-27,Austria Wien,RB Salzburg,4,0,1.0
+2017-2018,36,2018-05-27,SCR Altach,Sturm Graz,0,0,0.5
+2017-2018,36,2018-05-27,Mattersburg,LASK,2,1,1.0
+2017-2018,36,2018-05-27,Admira,St. Pölten,0,2,0.0

@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2001-2002,1,2001-07-28,Stuttgart,Köln,0,0,0.5
+2001-2002,1,2001-07-28,Freiburg,Werder Bremen,3,0,1.0
+2001-2002,1,2001-07-28,1860 Munich,Kaiserslautern,0,4,0.0
+2001-2002,1,2001-07-28,Gladbach,Bayern Munich,1,0,1.0
+2001-2002,1,2001-07-28,Leverkusen,Wolfsburg,2,1,1.0
+2001-2002,1,2001-07-28,Energie Cottbus,Hamburger SV,1,0,1.0
+2001-2002,1,2001-07-28,Dortmund,Nürnberg,2,0,1.0
+2001-2002,1,2001-07-29,St. Pauli,Hertha BSC,0,0,0.5
+2001-2002,2,2001-08-04,Wolfsburg,St. Pauli,1,1,0.5
+2001-2002,2,2001-08-04,Werder Bremen,Energie Cottbus,3,2,1.0
+2001-2002,2,2001-08-04,Köln,1860 Munich,2,0,1.0
+2001-2002,2,2001-08-04,Hamburger SV,Stuttgart,2,0,1.0
+2001-2002,2,2001-08-04,Hansa Rostock,Leverkusen,0,3,0.0
+2001-2002,2,2001-08-04,Bayern Munich,Schalke 04,3,0,1.0
+2001-2002,2,2001-08-04,Hertha BSC,Dortmund,0,2,0.0
+2001-2002,2,2001-08-05,Nürnberg,Freiburg,2,0,1.0
+2001-2002,2,2001-08-05,Kaiserslautern,Gladbach,3,2,1.0
+2001-2002,3,2001-08-11,Leverkusen,Bayern Munich,1,1,0.5
+2001-2002,3,2001-08-11,Kaiserslautern,Köln,2,1,1.0
+2001-2002,3,2001-08-11,Stuttgart,Werder Bremen,0,0,0.5
+2001-2002,3,2001-08-11,1860 Munich,Hamburger SV,1,1,0.5
+2001-2002,3,2001-08-11,Energie Cottbus,Nürnberg,1,0,1.0
+2001-2002,3,2001-08-11,Freiburg,Hertha BSC,1,3,0.0
+2001-2002,3,2001-08-11,Dortmund,Wolfsburg,4,0,1.0
+2001-2002,3,2001-08-12,Gladbach,Schalke 04,0,0,0.5
+2001-2002,3,2001-08-12,St. Pauli,Hansa Rostock,0,1,0.0
+2001-2002,4,2001-08-18,Hamburger SV,Kaiserslautern,2,3,0.0
+2001-2002,4,2001-08-18,Bayern Munich,St. Pauli,2,0,1.0
+2001-2002,4,2001-08-18,Werder Bremen,1860 Munich,1,3,0.0
+2001-2002,4,2001-08-18,Schalke 04,Leverkusen,3,3,0.5
+2001-2002,4,2001-08-18,Wolfsburg,Freiburg,1,1,0.5
+2001-2002,4,2001-08-18,Hansa Rostock,Dortmund,0,2,0.0
+2001-2002,4,2001-08-18,Nürnberg,Stuttgart,2,4,0.0
+2001-2002,4,2001-08-19,Köln,Gladbach,0,2,0.0
+2001-2002,4,2001-08-19,Hertha BSC,Energie Cottbus,2,3,0.0
+2001-2002,1,2001-08-21,Schalke 04,Hansa Rostock,3,1,1.0
+2001-2002,5,2001-09-08,Stuttgart,Hertha BSC,0,0,0.5
+2001-2002,5,2001-09-08,Dortmund,Bayern Munich,0,2,0.0
+2001-2002,5,2001-09-08,1860 Munich,Nürnberg,1,0,1.0
+2001-2002,5,2001-09-08,Freiburg,Hansa Rostock,1,1,0.5
+2001-2002,5,2001-09-08,St. Pauli,Schalke 04,0,2,0.0
+2001-2002,5,2001-09-08,Gladbach,Leverkusen,0,1,0.0
+2001-2002,5,2001-09-08,Energie Cottbus,Wolfsburg,3,3,0.5
+2001-2002,5,2001-09-09,Köln,Hamburger SV,2,1,1.0
+2001-2002,5,2001-09-09,Kaiserslautern,Werder Bremen,2,1,1.0
+2001-2002,6,2001-09-15,Hamburger SV,Gladbach,3,3,0.5
+2001-2002,6,2001-09-15,Werder Bremen,Köln,1,1,0.5
+2001-2002,6,2001-09-15,Wolfsburg,Stuttgart,0,2,0.0
+2001-2002,6,2001-09-15,Nürnberg,Kaiserslautern,0,2,0.0
+2001-2002,6,2001-09-15,Bayern Munich,Freiburg,1,0,1.0
+2001-2002,6,2001-09-15,Schalke 04,Dortmund,1,0,1.0
+2001-2002,6,2001-09-15,Leverkusen,St. Pauli,3,1,1.0
+2001-2002,6,2001-09-16,Hertha BSC,1860 Munich,2,1,1.0
+2001-2002,6,2001-09-16,Hansa Rostock,Energie Cottbus,0,0,0.5
+2001-2002,7,2001-09-22,Energie Cottbus,Bayern Munich,0,3,0.0
+2001-2002,7,2001-09-22,Stuttgart,Hansa Rostock,2,1,1.0
+2001-2002,7,2001-09-22,Freiburg,Schalke 04,2,0,1.0
+2001-2002,7,2001-09-22,Köln,Nürnberg,1,2,0.0
+2001-2002,7,2001-09-22,Kaiserslautern,Hertha BSC,4,1,1.0
+2001-2002,7,2001-09-22,Dortmund,Leverkusen,1,1,0.5
+2001-2002,7,2001-09-22,Hamburger SV,Werder Bremen,0,4,0.0
+2001-2002,7,2001-09-23,Gladbach,St. Pauli,2,2,0.5
+2001-2002,7,2001-09-23,1860 Munich,Wolfsburg,2,1,1.0
+2001-2002,8,2001-09-29,Hertha BSC,Köln,3,0,1.0
+2001-2002,8,2001-09-29,St. Pauli,Dortmund,1,2,0.0
+2001-2002,8,2001-09-29,Wolfsburg,Kaiserslautern,2,0,1.0
+2001-2002,8,2001-09-29,Werder Bremen,Gladbach,1,0,1.0
+2001-2002,8,2001-09-29,Nürnberg,Hamburger SV,0,0,0.5
+2001-2002,8,2001-09-29,Hansa Rostock,1860 Munich,2,2,0.5
+2001-2002,8,2001-09-29,Schalke 04,Energie Cottbus,2,0,1.0
+2001-2002,8,2001-09-30,Bayern Munich,Stuttgart,4,0,1.0
+2001-2002,8,2001-09-30,Leverkusen,Freiburg,4,1,1.0
+2001-2002,9,2001-10-13,Kaiserslautern,Hansa Rostock,3,1,1.0
+2001-2002,9,2001-10-13,Gladbach,Dortmund,1,2,0.0
+2001-2002,9,2001-10-13,1860 Munich,Bayern Munich,1,5,0.0
+2001-2002,9,2001-10-13,Stuttgart,Schalke 04,3,0,1.0
+2001-2002,9,2001-10-13,Freiburg,St. Pauli,2,2,0.5
+2001-2002,9,2001-10-13,Hamburger SV,Hertha BSC,4,0,1.0
+2001-2002,9,2001-10-13,Energie Cottbus,Leverkusen,2,3,0.0
+2001-2002,9,2001-10-14,Köln,Wolfsburg,0,4,0.0
+2001-2002,9,2001-10-14,Werder Bremen,Nürnberg,3,0,1.0
+2001-2002,10,2001-10-20,Bayern Munich,Kaiserslautern,4,1,1.0
+2001-2002,10,2001-10-20,Hertha BSC,Werder Bremen,3,1,1.0
+2001-2002,10,2001-10-20,Schalke 04,1860 Munich,1,0,1.0
+2001-2002,10,2001-10-20,Hansa Rostock,Köln,3,0,1.0
+2001-2002,10,2001-10-20,St. Pauli,Energie Cottbus,4,0,1.0
+2001-2002,10,2001-10-20,Nürnberg,Gladbach,1,2,0.0
+2001-2002,10,2001-10-20,Leverkusen,Stuttgart,4,1,1.0
+2001-2002,10,2001-10-21,Dortmund,Freiburg,0,2,0.0
+2001-2002,10,2001-10-21,Wolfsburg,Hamburger SV,0,1,0.0
+2001-2002,11,2001-10-27,Energie Cottbus,Dortmund,0,2,0.0
+2001-2002,11,2001-10-27,Stuttgart,St. Pauli,2,0,1.0
+2001-2002,11,2001-10-27,Gladbach,Freiburg,2,2,0.5
+2001-2002,11,2001-10-27,Kaiserslautern,Schalke 04,0,0,0.5
+2001-2002,11,2001-10-27,Werder Bremen,Wolfsburg,1,0,1.0
+2001-2002,11,2001-10-27,Köln,Bayern Munich,0,2,0.0
+2001-2002,11,2001-10-27,1860 Munich,Leverkusen,1,4,0.0
+2001-2002,11,2001-10-28,Nürnberg,Hertha BSC,1,3,0.0
+2001-2002,11,2001-10-28,Hamburger SV,Hansa Rostock,0,1,0.0
+2001-2002,12,2001-11-03,Bayern Munich,Hamburger SV,3,0,1.0
+2001-2002,12,2001-11-03,Wolfsburg,Nürnberg,5,0,1.0
+2001-2002,12,2001-11-03,Schalke 04,Köln,3,1,1.0
+2001-2002,12,2001-11-03,St. Pauli,1860 Munich,0,3,0.0
+2001-2002,12,2001-11-03,Dortmund,Stuttgart,1,0,1.0
+2001-2002,12,2001-11-03,Leverkusen,Kaiserslautern,2,1,1.0
+2001-2002,12,2001-11-03,Hansa Rostock,Werder Bremen,0,1,0.0
+2001-2002,12,2001-11-04,Freiburg,Energie Cottbus,3,1,1.0
+2001-2002,12,2001-11-04,Hertha BSC,Gladbach,3,0,1.0
+2001-2002,13,2001-11-17,1860 Munich,Dortmund,1,3,0.0
+2001-2002,13,2001-11-17,Köln,Leverkusen,1,2,0.0
+2001-2002,13,2001-11-17,Stuttgart,Freiburg,3,0,1.0
+2001-2002,13,2001-11-17,Hamburger SV,Schalke 04,0,0,0.5
+2001-2002,13,2001-11-17,Kaiserslautern,St. Pauli,5,1,1.0
+2001-2002,13,2001-11-17,Hertha BSC,Wolfsburg,2,0,1.0
+2001-2002,13,2001-11-17,Werder Bremen,Bayern Munich,1,0,1.0
+2001-2002,13,2001-11-18,Nürnberg,Hansa Rostock,2,0,1.0
+2001-2002,13,2001-11-18,Gladbach,Energie Cottbus,0,0,0.5
+2001-2002,14,2001-11-24,St. Pauli,Köln,1,2,0.0
+2001-2002,14,2001-11-24,Wolfsburg,Gladbach,3,1,1.0
+2001-2002,14,2001-11-24,Bayern Munich,Nürnberg,0,0,0.5
+2001-2002,14,2001-11-24,Energie Cottbus,Stuttgart,0,0,0.5
+2001-2002,14,2001-11-24,Hansa Rostock,Hertha BSC,1,1,0.5
+2001-2002,14,2001-11-24,Leverkusen,Hamburger SV,4,1,1.0
+2001-2002,14,2001-11-24,Schalke 04,Werder Bremen,1,4,0.0
+2001-2002,14,2001-11-25,Dortmund,Kaiserslautern,3,0,1.0
+2001-2002,14,2001-11-25,Freiburg,1860 Munich,1,3,0.0
+2001-2002,15,2001-12-01,Kaiserslautern,Freiburg,3,0,1.0
+2001-2002,15,2001-12-01,Hansa Rostock,Wolfsburg,1,2,0.0
+2001-2002,15,2001-12-01,Köln,Dortmund,0,2,0.0
+2001-2002,15,2001-12-01,Stuttgart,Gladbach,1,1,0.5
+2001-2002,15,2001-12-01,Nürnberg,Schalke 04,0,3,0.0
+2001-2002,15,2001-12-01,1860 Munich,Energie Cottbus,1,0,1.0
+2001-2002,15,2001-12-01,Werder Bremen,Leverkusen,2,1,1.0
+2001-2002,15,2001-12-02,Hamburger SV,St. Pauli,4,3,1.0
+2001-2002,15,2001-12-02,Hertha BSC,Bayern Munich,2,1,1.0
+2001-2002,16,2001-12-08,St. Pauli,Werder Bremen,0,3,0.0
+2001-2002,16,2001-12-08,Bayern Munich,Wolfsburg,3,3,0.5
+2001-2002,16,2001-12-08,Leverkusen,Nürnberg,4,2,1.0
+2001-2002,16,2001-12-08,Gladbach,Hansa Rostock,0,2,0.0
+2001-2002,16,2001-12-08,Energie Cottbus,Kaiserslautern,0,2,0.0
+2001-2002,16,2001-12-08,Dortmund,Hamburger SV,1,0,1.0
+2001-2002,16,2001-12-08,Stuttgart,1860 Munich,0,1,0.0
+2001-2002,16,2001-12-09,Freiburg,Köln,0,0,0.5
+2001-2002,16,2001-12-09,Schalke 04,Hertha BSC,0,0,0.5
+2001-2002,17,2001-12-15,Hansa Rostock,Bayern Munich,1,0,1.0
+2001-2002,17,2001-12-15,Hertha BSC,Leverkusen,2,1,1.0
+2001-2002,17,2001-12-15,Werder Bremen,Dortmund,1,1,0.5
+2001-2002,17,2001-12-15,Nürnberg,St. Pauli,0,0,0.5
+2001-2002,17,2001-12-15,Köln,Energie Cottbus,0,0,0.5
+2001-2002,17,2001-12-15,1860 Munich,Gladbach,2,2,0.5
+2001-2002,17,2001-12-15,Hamburger SV,Freiburg,1,1,0.5
+2001-2002,17,2001-12-16,Wolfsburg,Schalke 04,3,1,1.0
+2001-2002,17,2001-12-16,Kaiserslautern,Stuttgart,2,2,0.5
+2001-2002,18,2001-12-18,Nürnberg,Dortmund,2,2,0.5
+2001-2002,18,2001-12-18,Hertha BSC,St. Pauli,2,2,0.5
+2001-2002,18,2001-12-18,Hamburger SV,Energie Cottbus,5,2,1.0
+2001-2002,18,2001-12-18,Werder Bremen,Freiburg,3,2,1.0
+2001-2002,18,2001-12-18,Bayern Munich,Gladbach,0,0,0.5
+2001-2002,18,2001-12-19,Hansa Rostock,Schalke 04,1,3,0.0
+2001-2002,18,2001-12-19,Köln,Stuttgart,0,0,0.5
+2001-2002,18,2001-12-19,Wolfsburg,Leverkusen,3,1,1.0
+2001-2002,18,2001-12-19,Kaiserslautern,1860 Munich,1,3,0.0
+2001-2002,19,2002-01-26,Freiburg,Nürnberg,2,0,1.0
+2001-2002,19,2002-01-26,Gladbach,Kaiserslautern,0,2,0.0
+2001-2002,19,2002-01-26,Schalke 04,Bayern Munich,5,1,1.0
+2001-2002,19,2002-01-26,St. Pauli,Wolfsburg,3,1,1.0
+2001-2002,19,2002-01-26,Leverkusen,Hansa Rostock,2,0,1.0
+2001-2002,19,2002-01-26,1860 Munich,Köln,3,0,1.0
+2001-2002,19,2002-01-26,Stuttgart,Hamburger SV,3,0,1.0
+2001-2002,19,2002-01-27,Dortmund,Hertha BSC,3,1,1.0
+2001-2002,19,2002-01-27,Energie Cottbus,Werder Bremen,2,1,1.0
+2001-2002,20,2002-02-02,Köln,Kaiserslautern,0,1,0.0
+2001-2002,20,2002-02-02,Hertha BSC,Freiburg,1,1,0.5
+2001-2002,20,2002-02-02,Schalke 04,Gladbach,2,0,1.0
+2001-2002,20,2002-02-02,Hamburger SV,1860 Munich,2,1,1.0
+2001-2002,20,2002-02-02,Werder Bremen,Stuttgart,1,2,0.0
+2001-2002,20,2002-02-02,Wolfsburg,Dortmund,1,1,0.5
+2001-2002,20,2002-02-02,Nürnberg,Energie Cottbus,2,0,1.0
+2001-2002,20,2002-02-03,Hansa Rostock,St. Pauli,1,0,1.0
+2001-2002,20,2002-02-03,Bayern Munich,Leverkusen,2,0,1.0
+2001-2002,21,2002-02-05,1860 Munich,Werder Bremen,3,1,1.0
+2001-2002,21,2002-02-05,Gladbach,Köln,4,0,1.0
+2001-2002,21,2002-02-05,Freiburg,Wolfsburg,0,0,0.5
+2001-2002,21,2002-02-05,Energie Cottbus,Hertha BSC,1,0,1.0
+2001-2002,21,2002-02-05,Stuttgart,Nürnberg,2,3,0.0
+2001-2002,21,2002-02-06,Leverkusen,Schalke 04,0,1,0.0
+2001-2002,21,2002-02-06,Kaiserslautern,Hamburger SV,2,2,0.5
+2001-2002,21,2002-02-06,Dortmund,Hansa Rostock,2,0,1.0
+2001-2002,21,2002-02-06,St. Pauli,Bayern Munich,2,1,1.0
+2001-2002,22,2002-02-09,Hertha BSC,Stuttgart,2,0,1.0
+2001-2002,22,2002-02-09,Wolfsburg,Energie Cottbus,2,1,1.0
+2001-2002,22,2002-02-09,Werder Bremen,Kaiserslautern,1,0,1.0
+2001-2002,22,2002-02-09,Bayern Munich,Dortmund,1,1,0.5
+2001-2002,22,2002-02-09,Schalke 04,St. Pauli,4,0,1.0
+2001-2002,22,2002-02-09,Leverkusen,Gladbach,5,0,1.0
+2001-2002,22,2002-02-09,Hansa Rostock,Freiburg,4,0,1.0
+2001-2002,22,2002-02-10,Nürnberg,1860 Munich,2,1,1.0
+2001-2002,22,2002-02-10,Hamburger SV,Köln,4,0,1.0
+2001-2002,23,2002-02-16,Dortmund,Schalke 04,1,1,0.5
+2001-2002,23,2002-02-16,Freiburg,Bayern Munich,0,2,0.0
+2001-2002,23,2002-02-16,Gladbach,Hamburger SV,2,1,1.0
+2001-2002,23,2002-02-16,St. Pauli,Leverkusen,2,2,0.5
+2001-2002,23,2002-02-16,Kaiserslautern,Nürnberg,2,1,1.0
+2001-2002,23,2002-02-16,1860 Munich,Hertha BSC,0,3,0.0
+2001-2002,23,2002-02-16,Stuttgart,Wolfsburg,2,1,1.0
+2001-2002,23,2002-02-17,Köln,Werder Bremen,0,0,0.5
+2001-2002,23,2002-02-17,Energie Cottbus,Hansa Rostock,3,0,1.0
+2001-2002,24,2002-02-23,Bayern Munich,Energie Cottbus,6,0,1.0
+2001-2002,24,2002-02-23,Hertha BSC,Kaiserslautern,5,1,1.0
+2001-2002,24,2002-02-23,Nürnberg,Köln,2,0,1.0
+2001-2002,24,2002-02-23,Schalke 04,Freiburg,3,0,1.0
+2001-2002,24,2002-02-23,Hansa Rostock,Stuttgart,1,1,0.5
+2001-2002,24,2002-02-23,St. Pauli,Gladbach,1,1,0.5
+2001-2002,24,2002-02-23,Wolfsburg,1860 Munich,1,3,0.0
+2001-2002,24,2002-02-24,Leverkusen,Dortmund,4,0,1.0
+2001-2002,24,2002-02-24,Werder Bremen,Hamburger SV,0,1,0.0
+2001-2002,25,2002-03-02,Gladbach,Werder Bremen,1,0,1.0
+2001-2002,25,2002-03-02,Hamburger SV,Nürnberg,3,1,1.0
+2001-2002,25,2002-03-02,Köln,Hertha BSC,1,1,0.5
+2001-2002,25,2002-03-02,Energie Cottbus,Schalke 04,2,0,1.0
+2001-2002,25,2002-03-02,1860 Munich,Hansa Rostock,2,0,1.0
+2001-2002,25,2002-03-02,Stuttgart,Bayern Munich,0,2,0.0
+2001-2002,25,2002-03-02,Freiburg,Leverkusen,2,2,0.5
+2001-2002,25,2002-03-03,Kaiserslautern,Wolfsburg,3,2,1.0
+2001-2002,25,2002-03-03,Dortmund,St. Pauli,1,1,0.5
+2001-2002,26,2002-03-09,Hansa Rostock,Kaiserslautern,2,1,1.0
+2001-2002,26,2002-03-09,Wolfsburg,Köln,5,1,1.0
+2001-2002,26,2002-03-09,Nürnberg,Werder Bremen,0,4,0.0
+2001-2002,26,2002-03-09,Dortmund,Gladbach,3,1,1.0
+2001-2002,26,2002-03-09,Bayern Munich,1860 Munich,2,1,1.0
+2001-2002,26,2002-03-09,St. Pauli,Freiburg,1,0,1.0
+2001-2002,26,2002-03-09,Leverkusen,Energie Cottbus,2,0,1.0
+2001-2002,26,2002-03-10,Hertha BSC,Hamburger SV,6,0,1.0
+2001-2002,26,2002-03-10,Schalke 04,Stuttgart,2,1,1.0
+2001-2002,27,2002-03-16,Werder Bremen,Hertha BSC,0,3,0.0
+2001-2002,27,2002-03-16,Stuttgart,Leverkusen,0,2,0.0
+2001-2002,27,2002-03-16,Hamburger SV,Wolfsburg,1,1,0.5
+2001-2002,27,2002-03-16,Köln,Hansa Rostock,4,2,1.0
+2001-2002,27,2002-03-16,Energie Cottbus,St. Pauli,4,0,1.0
+2001-2002,27,2002-03-16,Gladbach,Nürnberg,1,0,1.0
+2001-2002,27,2002-03-16,Kaiserslautern,Bayern Munich,0,0,0.5
+2001-2002,27,2002-03-17,1860 Munich,Schalke 04,1,2,0.0
+2001-2002,27,2002-03-17,Freiburg,Dortmund,1,5,0.0
+2001-2002,28,2002-03-23,Hansa Rostock,Hamburger SV,1,1,0.5
+2001-2002,28,2002-03-23,Bayern Munich,Köln,3,0,1.0
+2001-2002,28,2002-03-23,Freiburg,Gladbach,0,1,0.0
+2001-2002,28,2002-03-23,Hertha BSC,Nürnberg,2,0,1.0
+2001-2002,28,2002-03-23,Leverkusen,1860 Munich,4,0,1.0
+2001-2002,28,2002-03-23,Schalke 04,Kaiserslautern,3,0,1.0
+2001-2002,28,2002-03-23,St. Pauli,Stuttgart,1,2,0.0
+2001-2002,28,2002-03-24,Wolfsburg,Werder Bremen,2,0,1.0
+2001-2002,28,2002-03-24,Dortmund,Energie Cottbus,3,0,1.0
+2001-2002,29,2002-03-30,Gladbach,Hertha BSC,3,1,1.0
+2001-2002,29,2002-03-30,Energie Cottbus,Freiburg,2,0,1.0
+2001-2002,29,2002-03-30,1860 Munich,St. Pauli,4,2,1.0
+2001-2002,29,2002-03-30,Nürnberg,Wolfsburg,3,0,1.0
+2001-2002,29,2002-03-30,Kaiserslautern,Leverkusen,2,4,0.0
+2001-2002,29,2002-03-30,Hamburger SV,Bayern Munich,0,0,0.5
+2001-2002,29,2002-03-30,Stuttgart,Dortmund,3,2,1.0
+2001-2002,29,2002-03-31,Köln,Schalke 04,1,1,0.5
+2001-2002,29,2002-03-31,Werder Bremen,Hansa Rostock,4,3,1.0
+2001-2002,30,2002-04-06,Schalke 04,Hamburger SV,2,0,1.0
+2001-2002,30,2002-04-06,Hansa Rostock,Nürnberg,1,0,1.0
+2001-2002,30,2002-04-06,Wolfsburg,Hertha BSC,1,3,0.0
+2001-2002,30,2002-04-06,Leverkusen,Köln,2,0,1.0
+2001-2002,30,2002-04-06,Energie Cottbus,Gladbach,3,3,0.5
+2001-2002,30,2002-04-06,Bayern Munich,Werder Bremen,2,2,0.5
+2001-2002,30,2002-04-06,St. Pauli,Kaiserslautern,1,1,0.5
+2001-2002,30,2002-04-07,Dortmund,1860 Munich,2,1,1.0
+2001-2002,30,2002-04-07,Freiburg,Stuttgart,0,2,0.0
+2001-2002,31,2002-04-13,Gladbach,Wolfsburg,0,2,0.0
+2001-2002,31,2002-04-13,Hamburger SV,Leverkusen,1,1,0.5
+2001-2002,31,2002-04-13,1860 Munich,Freiburg,5,2,1.0
+2001-2002,31,2002-04-13,Köln,St. Pauli,2,1,1.0
+2001-2002,31,2002-04-13,Hertha BSC,Hansa Rostock,1,0,1.0
+2001-2002,31,2002-04-13,Nürnberg,Bayern Munich,1,2,0.0
+2001-2002,31,2002-04-13,Werder Bremen,Schalke 04,3,0,1.0
+2001-2002,31,2002-04-14,Kaiserslautern,Dortmund,1,0,1.0
+2001-2002,31,2002-04-14,Stuttgart,Energie Cottbus,0,0,0.5
+2001-2002,32,2002-04-19,St. Pauli,Hamburger SV,0,4,0.0
+2001-2002,32,2002-04-20,Schalke 04,Nürnberg,2,1,1.0
+2001-2002,32,2002-04-20,Leverkusen,Werder Bremen,1,2,0.0
+2001-2002,32,2002-04-20,Energie Cottbus,1860 Munich,1,1,0.5
+2001-2002,32,2002-04-20,Dortmund,Köln,2,1,1.0
+2001-2002,32,2002-04-20,Wolfsburg,Hansa Rostock,4,0,1.0
+2001-2002,32,2002-04-20,Bayern Munich,Hertha BSC,3,0,1.0
+2001-2002,32,2002-04-21,Gladbach,Stuttgart,2,2,0.5
+2001-2002,32,2002-04-21,Freiburg,Kaiserslautern,3,1,1.0
+2001-2002,33,2002-04-27,Köln,Freiburg,2,0,1.0
+2001-2002,33,2002-04-27,Hamburger SV,Dortmund,3,4,0.0
+2001-2002,33,2002-04-27,Nürnberg,Leverkusen,1,0,1.0
+2001-2002,33,2002-04-27,Werder Bremen,St. Pauli,3,2,1.0
+2001-2002,33,2002-04-27,Hansa Rostock,Gladbach,1,1,0.5
+2001-2002,33,2002-04-27,Wolfsburg,Bayern Munich,0,1,0.0
+2001-2002,33,2002-04-27,Kaiserslautern,Energie Cottbus,4,0,1.0
+2001-2002,33,2002-04-27,1860 Munich,Stuttgart,3,3,0.5
+2001-2002,33,2002-04-27,Hertha BSC,Schalke 04,2,0,1.0
+2001-2002,34,2002-05-04,St. Pauli,Nürnberg,2,3,0.0
+2001-2002,34,2002-05-04,Dortmund,Werder Bremen,2,1,1.0
+2001-2002,34,2002-05-04,Gladbach,1860 Munich,2,4,0.0
+2001-2002,34,2002-05-04,Freiburg,Hamburger SV,4,3,1.0
+2001-2002,34,2002-05-04,Bayern Munich,Hansa Rostock,3,2,1.0
+2001-2002,34,2002-05-04,Schalke 04,Wolfsburg,1,2,0.0
+2001-2002,34,2002-05-04,Stuttgart,Kaiserslautern,4,3,1.0
+2001-2002,34,2002-05-04,Leverkusen,Hertha BSC,2,1,1.0
+2001-2002,34,2002-05-04,Energie Cottbus,Köln,2,3,0.0

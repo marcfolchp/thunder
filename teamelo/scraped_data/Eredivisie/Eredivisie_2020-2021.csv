@@ -1,0 +1,316 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,Eredivisie,1,2020-09-12,Heerenveen,Willem II,2,0,1.0
+2020-2021,Eredivisie,1,2020-09-12,Zwolle,Feyenoord,0,2,0.0
+2020-2021,Eredivisie,1,2020-09-12,Twente,Fortuna Sittard,2,0,1.0
+2020-2021,Eredivisie,1,2020-09-13,Emmen,VVV-Venlo,3,5,0.0
+2020-2021,Eredivisie,1,2020-09-13,Heracles Almelo,ADO Den Haag,2,0,1.0
+2020-2021,Eredivisie,1,2020-09-13,Sparta R'dam,Ajax,0,1,0.0
+2020-2021,Eredivisie,1,2020-09-13,RKC Waalwijk,Vitesse,0,1,0.0
+2020-2021,Eredivisie,1,2020-09-13,Groningen,PSV Eindhoven,1,3,0.0
+2020-2021,Eredivisie,2,2020-09-18,VVV-Venlo,Utrecht,1,1,0.5
+2020-2021,Eredivisie,2,2020-09-19,AZ Alkmaar,Zwolle,1,1,0.5
+2020-2021,Eredivisie,2,2020-09-19,Vitesse,Sparta R'dam,2,0,1.0
+2020-2021,Eredivisie,2,2020-09-19,PSV Eindhoven,Emmen,2,1,1.0
+2020-2021,Eredivisie,2,2020-09-19,Fortuna Sittard,Heerenveen,1,3,0.0
+2020-2021,Eredivisie,2,2020-09-20,ADO Den Haag,Groningen,0,1,0.0
+2020-2021,Eredivisie,2,2020-09-20,Feyenoord,Twente,1,1,0.5
+2020-2021,Eredivisie,2,2020-09-20,Willem II,Heracles Almelo,4,0,1.0
+2020-2021,Eredivisie,2,2020-09-20,Ajax,RKC Waalwijk,3,0,1.0
+2020-2021,Eredivisie,3,2020-09-25,Twente,Groningen,3,1,1.0
+2020-2021,Eredivisie,3,2020-09-26,Zwolle,Sparta R'dam,4,0,1.0
+2020-2021,Eredivisie,3,2020-09-26,Fortuna Sittard,AZ Alkmaar,3,3,0.5
+2020-2021,Eredivisie,3,2020-09-26,Heerenveen,VVV-Venlo,1,0,1.0
+2020-2021,Eredivisie,3,2020-09-26,Ajax,Vitesse,2,1,1.0
+2020-2021,Eredivisie,3,2020-09-27,Feyenoord,ADO Den Haag,4,2,1.0
+2020-2021,Eredivisie,3,2020-09-27,Utrecht,RKC Waalwijk,3,1,1.0
+2020-2021,Eredivisie,3,2020-09-27,Emmen,Willem II,1,1,0.5
+2020-2021,Eredivisie,3,2020-09-27,Heracles Almelo,PSV Eindhoven,1,1,0.5
+2020-2021,Eredivisie,4,2020-10-02,Utrecht,Heerenveen,1,1,0.5
+2020-2021,Eredivisie,4,2020-10-03,Vitesse,Heracles Almelo,3,0,1.0
+2020-2021,Eredivisie,4,2020-10-03,VVV-Venlo,ADO Den Haag,1,2,0.0
+2020-2021,Eredivisie,4,2020-10-03,Twente,Emmen,1,1,0.5
+2020-2021,Eredivisie,4,2020-10-04,Groningen,Ajax,1,0,1.0
+2020-2021,Eredivisie,4,2020-10-04,Sparta R'dam,AZ Alkmaar,4,4,0.5
+2020-2021,Eredivisie,4,2020-10-04,Willem II,Feyenoord,1,4,0.0
+2020-2021,Eredivisie,4,2020-10-04,PSV Eindhoven,Fortuna Sittard,2,0,1.0
+2020-2021,Eredivisie,5,2020-10-17,Heracles Almelo,RKC Waalwijk,0,1,0.0
+2020-2021,Eredivisie,5,2020-10-17,AZ Alkmaar,VVV-Venlo,2,2,0.5
+2020-2021,Eredivisie,5,2020-10-17,Willem II,Twente,0,3,0.0
+2020-2021,Eredivisie,5,2020-10-18,Feyenoord,Sparta R'dam,1,1,0.5
+2020-2021,Eredivisie,5,2020-10-18,Ajax,Heerenveen,5,1,1.0
+2020-2021,Eredivisie,5,2020-10-18,ADO Den Haag,Vitesse,0,2,0.0
+2020-2021,Eredivisie,5,2020-10-18,Zwolle,PSV Eindhoven,0,3,0.0
+2020-2021,Eredivisie,5,2020-10-18,Groningen,Utrecht,0,0,0.5
+2020-2021,Eredivisie,5,2020-10-18,Emmen,Fortuna Sittard,2,2,0.5
+2020-2021,Eredivisie,4,2020-10-21,RKC Waalwijk,Zwolle,1,1,0.5
+2020-2021,Eredivisie,6,2020-10-24,VVV-Venlo,Ajax,0,13,0.0
+2020-2021,Eredivisie,6,2020-10-24,Utrecht,Twente,2,1,1.0
+2020-2021,Eredivisie,6,2020-10-24,Zwolle,Willem II,0,0,0.5
+2020-2021,Eredivisie,6,2020-10-24,Heerenveen,Emmen,4,0,1.0
+2020-2021,Eredivisie,6,2020-10-25,Fortuna Sittard,Groningen,1,3,0.0
+2020-2021,Eredivisie,6,2020-10-25,Vitesse,PSV Eindhoven,2,1,1.0
+2020-2021,Eredivisie,6,2020-10-25,Sparta R'dam,Heracles Almelo,1,1,0.5
+2020-2021,Eredivisie,6,2020-10-25,RKC Waalwijk,Feyenoord,2,2,0.5
+2020-2021,Eredivisie,6,2020-10-25,ADO Den Haag,AZ Alkmaar,2,2,0.5
+2020-2021,Eredivisie,7,2020-10-31,Twente,Zwolle,5,1,1.0
+2020-2021,Eredivisie,7,2020-10-31,Ajax,Fortuna Sittard,5,2,1.0
+2020-2021,Eredivisie,7,2020-10-31,Groningen,VVV-Venlo,2,1,1.0
+2020-2021,Eredivisie,7,2020-10-31,Willem II,Vitesse,1,3,0.0
+2020-2021,Eredivisie,7,2020-11-01,Heracles Almelo,Utrecht,4,1,1.0
+2020-2021,Eredivisie,7,2020-11-01,Sparta R'dam,Heerenveen,1,4,0.0
+2020-2021,Eredivisie,7,2020-11-01,Emmen,Feyenoord,2,3,0.0
+2020-2021,Eredivisie,7,2020-11-01,PSV Eindhoven,ADO Den Haag,4,0,1.0
+2020-2021,Eredivisie,7,2020-11-01,AZ Alkmaar,RKC Waalwijk,3,0,1.0
+2020-2021,Eredivisie,8,2020-11-06,Fortuna Sittard,Zwolle,2,2,0.5
+2020-2021,Eredivisie,8,2020-11-07,ADO Den Haag,Twente,2,4,0.0
+2020-2021,Eredivisie,8,2020-11-07,VVV-Venlo,Heracles Almelo,3,2,1.0
+2020-2021,Eredivisie,8,2020-11-07,RKC Waalwijk,Sparta R'dam,0,2,0.0
+2020-2021,Eredivisie,8,2020-11-08,Utrecht,Ajax,0,3,0.0
+2020-2021,Eredivisie,8,2020-11-08,Feyenoord,Groningen,2,0,1.0
+2020-2021,Eredivisie,8,2020-11-08,Vitesse,Emmen,3,1,1.0
+2020-2021,Eredivisie,8,2020-11-08,Heerenveen,AZ Alkmaar,0,3,0.0
+2020-2021,Eredivisie,8,2020-11-08,PSV Eindhoven,Willem II,3,0,1.0
+2020-2021,Eredivisie,9,2020-11-21,Willem II,VVV-Venlo,2,1,1.0
+2020-2021,Eredivisie,9,2020-11-21,Groningen,Vitesse,1,1,0.5
+2020-2021,Eredivisie,9,2020-11-21,Zwolle,Utrecht,1,1,0.5
+2020-2021,Eredivisie,9,2020-11-22,Ajax,Heracles Almelo,5,0,1.0
+2020-2021,Eredivisie,9,2020-11-22,Sparta R'dam,ADO Den Haag,6,0,1.0
+2020-2021,Eredivisie,9,2020-11-22,Fortuna Sittard,Feyenoord,1,3,0.0
+2020-2021,Eredivisie,9,2020-11-22,RKC Waalwijk,Heerenveen,1,1,0.5
+2020-2021,Eredivisie,9,2020-11-22,Twente,PSV Eindhoven,1,1,0.5
+2020-2021,Eredivisie,9,2020-11-22,AZ Alkmaar,Emmen,1,0,1.0
+2020-2021,Eredivisie,10,2020-11-27,Twente,RKC Waalwijk,0,2,0.0
+2020-2021,Eredivisie,10,2020-11-28,Emmen,Ajax,0,5,0.0
+2020-2021,Eredivisie,10,2020-11-28,ADO Den Haag,Heerenveen,1,1,0.5
+2020-2021,Eredivisie,10,2020-11-28,VVV-Venlo,Zwolle,2,2,0.5
+2020-2021,Eredivisie,10,2020-11-29,Vitesse,Fortuna Sittard,2,0,1.0
+2020-2021,Eredivisie,10,2020-11-29,Groningen,Willem II,1,0,1.0
+2020-2021,Eredivisie,10,2020-11-29,Feyenoord,Utrecht,1,1,0.5
+2020-2021,Eredivisie,10,2020-11-29,Heracles Almelo,AZ Alkmaar,1,2,0.0
+2020-2021,Eredivisie,10,2020-11-29,PSV Eindhoven,Sparta R'dam,1,0,1.0
+2020-2021,Eredivisie,11,2020-12-04,Sparta R'dam,Emmen,2,1,1.0
+2020-2021,Eredivisie,11,2020-12-05,RKC Waalwijk,VVV-Venlo,3,2,1.0
+2020-2021,Eredivisie,11,2020-12-05,Fortuna Sittard,Willem II,3,2,1.0
+2020-2021,Eredivisie,11,2020-12-05,Ajax,Twente,1,2,0.0
+2020-2021,Eredivisie,11,2020-12-05,Zwolle,Vitesse,2,1,1.0
+2020-2021,Eredivisie,11,2020-12-06,Feyenoord,Heracles Almelo,0,0,0.5
+2020-2021,Eredivisie,11,2020-12-06,Utrecht,ADO Den Haag,1,1,0.5
+2020-2021,Eredivisie,11,2020-12-06,AZ Alkmaar,Groningen,1,2,0.0
+2020-2021,Eredivisie,11,2020-12-06,Heerenveen,PSV Eindhoven,2,2,0.5
+2020-2021,Eredivisie,12,2020-12-11,Heracles Almelo,Fortuna Sittard,1,2,0.0
+2020-2021,Eredivisie,12,2020-12-12,Groningen,RKC Waalwijk,2,0,1.0
+2020-2021,Eredivisie,12,2020-12-12,Emmen,ADO Den Haag,1,1,0.5
+2020-2021,Eredivisie,12,2020-12-12,Ajax,Zwolle,4,0,1.0
+2020-2021,Eredivisie,12,2020-12-13,Vitesse,Heerenveen,1,1,0.5
+2020-2021,Eredivisie,12,2020-12-13,Willem II,Sparta R'dam,1,3,0.0
+2020-2021,Eredivisie,12,2020-12-13,VVV-Venlo,Feyenoord,0,3,0.0
+2020-2021,Eredivisie,12,2020-12-13,PSV Eindhoven,Utrecht,2,1,1.0
+2020-2021,Eredivisie,12,2020-12-13,Twente,AZ Alkmaar,1,3,0.0
+2020-2021,Eredivisie,13,2020-12-18,Zwolle,Emmen,0,0,0.5
+2020-2021,Eredivisie,13,2020-12-19,Sparta R'dam,Groningen,2,3,0.0
+2020-2021,Eredivisie,13,2020-12-19,VVV-Venlo,Twente,1,2,0.0
+2020-2021,Eredivisie,13,2020-12-19,RKC Waalwijk,PSV Eindhoven,1,4,0.0
+2020-2021,Eredivisie,13,2020-12-19,Utrecht,Fortuna Sittard,1,1,0.5
+2020-2021,Eredivisie,13,2020-12-20,Vitesse,Feyenoord,1,0,1.0
+2020-2021,Eredivisie,13,2020-12-20,Heerenveen,Heracles Almelo,1,2,0.0
+2020-2021,Eredivisie,13,2020-12-20,ADO Den Haag,Ajax,2,4,0.0
+2020-2021,Eredivisie,13,2020-12-20,AZ Alkmaar,Willem II,5,3,1.0
+2020-2021,Eredivisie,14,2020-12-22,Fortuna Sittard,RKC Waalwijk,2,1,1.0
+2020-2021,Eredivisie,14,2020-12-22,Emmen,Utrecht,2,3,0.0
+2020-2021,Eredivisie,14,2020-12-22,PSV Eindhoven,VVV-Venlo,4,1,1.0
+2020-2021,Eredivisie,14,2020-12-22,Twente,Sparta R'dam,0,2,0.0
+2020-2021,Eredivisie,14,2020-12-23,AZ Alkmaar,Vitesse,3,1,1.0
+2020-2021,Eredivisie,14,2020-12-23,Willem II,Ajax,1,1,0.5
+2020-2021,Eredivisie,14,2020-12-23,Groningen,Heracles Almelo,0,1,0.0
+2020-2021,Eredivisie,14,2020-12-23,ADO Den Haag,Zwolle,0,2,0.0
+2020-2021,Eredivisie,14,2020-12-23,Feyenoord,Heerenveen,3,0,1.0
+2020-2021,Eredivisie,1,2020-12-27,Utrecht,AZ Alkmaar,2,2,0.5
+2020-2021,Eredivisie,15,2021-01-09,RKC Waalwijk,ADO Den Haag,0,1,0.0
+2020-2021,Eredivisie,15,2021-01-09,Emmen,Twente,1,4,0.0
+2020-2021,Eredivisie,15,2021-01-09,Heracles Almelo,Vitesse,0,2,0.0
+2020-2021,Eredivisie,15,2021-01-09,Zwolle,AZ Alkmaar,1,1,0.5
+2020-2021,Eredivisie,15,2021-01-09,Utrecht,Groningen,2,2,0.5
+2020-2021,Eredivisie,15,2021-01-10,Sparta R'dam,Feyenoord,0,2,0.0
+2020-2021,Eredivisie,15,2021-01-10,VVV-Venlo,Willem II,2,1,1.0
+2020-2021,Eredivisie,15,2021-01-10,Heerenveen,Fortuna Sittard,1,3,0.0
+2020-2021,Eredivisie,15,2021-01-10,Ajax,PSV Eindhoven,2,2,0.5
+2020-2021,Eredivisie,16,2021-01-12,Vitesse,Utrecht,1,0,1.0
+2020-2021,Eredivisie,16,2021-01-12,Heracles Almelo,Emmen,4,0,1.0
+2020-2021,Eredivisie,16,2021-01-13,PSV Eindhoven,AZ Alkmaar,1,3,0.0
+2020-2021,Eredivisie,16,2021-01-13,ADO Den Haag,VVV-Venlo,1,4,0.0
+2020-2021,Eredivisie,16,2021-01-13,Fortuna Sittard,Sparta R'dam,0,1,0.0
+2020-2021,Eredivisie,16,2021-01-13,Feyenoord,Zwolle,1,0,1.0
+2020-2021,Eredivisie,16,2021-01-14,Heerenveen,RKC Waalwijk,1,1,0.5
+2020-2021,Eredivisie,16,2021-01-14,Twente,Ajax,1,3,0.0
+2020-2021,Eredivisie,16,2021-01-14,Willem II,Groningen,2,3,0.0
+2020-2021,Eredivisie,17,2021-01-16,Emmen,Vitesse,1,4,0.0
+2020-2021,Eredivisie,17,2021-01-16,Sparta R'dam,PSV Eindhoven,3,5,0.0
+2020-2021,Eredivisie,17,2021-01-16,Zwolle,Fortuna Sittard,0,2,0.0
+2020-2021,Eredivisie,17,2021-01-16,Utrecht,Heracles Almelo,2,0,1.0
+2020-2021,Eredivisie,17,2021-01-16,AZ Alkmaar,ADO Den Haag,2,1,1.0
+2020-2021,Eredivisie,17,2021-01-17,RKC Waalwijk,Willem II,1,1,0.5
+2020-2021,Eredivisie,17,2021-01-17,Groningen,Twente,2,2,0.5
+2020-2021,Eredivisie,17,2021-01-17,VVV-Venlo,Heerenveen,1,1,0.5
+2020-2021,Eredivisie,17,2021-01-17,Ajax,Feyenoord,1,0,1.0
+2020-2021,Eredivisie,18,2021-01-22,Willem II,Zwolle,1,3,0.0
+2020-2021,Eredivisie,18,2021-01-23,ADO Den Haag,Emmen,0,0,0.5
+2020-2021,Eredivisie,18,2021-01-23,Vitesse,Groningen,1,0,1.0
+2020-2021,Eredivisie,18,2021-01-23,PSV Eindhoven,RKC Waalwijk,2,0,1.0
+2020-2021,Eredivisie,18,2021-01-23,Heracles Almelo,Heerenveen,1,0,1.0
+2020-2021,Eredivisie,18,2021-01-24,Fortuna Sittard,Ajax,1,2,0.0
+2020-2021,Eredivisie,18,2021-01-24,Twente,VVV-Venlo,0,1,0.0
+2020-2021,Eredivisie,18,2021-01-24,Utrecht,Sparta R'dam,1,0,1.0
+2020-2021,Eredivisie,18,2021-01-24,Feyenoord,AZ Alkmaar,2,3,0.0
+2020-2021,Eredivisie,19,2021-01-26,Zwolle,Heracles Almelo,2,2,0.5
+2020-2021,Eredivisie,19,2021-01-26,Emmen,PSV Eindhoven,0,2,0.0
+2020-2021,Eredivisie,19,2021-01-26,Groningen,ADO Den Haag,3,0,1.0
+2020-2021,Eredivisie,19,2021-01-27,AZ Alkmaar,Utrecht,0,1,0.0
+2020-2021,Eredivisie,19,2021-01-27,RKC Waalwijk,Fortuna Sittard,1,2,0.0
+2020-2021,Eredivisie,19,2021-01-27,VVV-Venlo,Vitesse,4,1,1.0
+2020-2021,Eredivisie,19,2021-01-27,Heerenveen,Feyenoord,3,0,1.0
+2020-2021,Eredivisie,19,2021-01-28,Sparta R'dam,Twente,0,0,0.5
+2020-2021,Eredivisie,19,2021-01-28,Ajax,Willem II,3,1,1.0
+2020-2021,Eredivisie,20,2021-01-30,Heracles Almelo,Groningen,1,0,1.0
+2020-2021,Eredivisie,20,2021-01-30,Utrecht,Zwolle,3,3,0.5
+2020-2021,Eredivisie,20,2021-01-30,Fortuna Sittard,VVV-Venlo,3,2,1.0
+2020-2021,Eredivisie,20,2021-01-30,Vitesse,RKC Waalwijk,1,1,0.5
+2020-2021,Eredivisie,20,2021-01-31,Twente,Heerenveen,0,0,0.5
+2020-2021,Eredivisie,20,2021-01-31,Feyenoord,PSV Eindhoven,3,1,1.0
+2020-2021,Eredivisie,20,2021-01-31,Willem II,Emmen,2,0,1.0
+2020-2021,Eredivisie,20,2021-01-31,AZ Alkmaar,Ajax,0,3,0.0
+2020-2021,Eredivisie,20,2021-01-31,ADO Den Haag,Sparta R'dam,1,1,0.5
+2020-2021,Eredivisie,21,2021-02-05,Fortuna Sittard,Heracles Almelo,0,1,0.0
+2020-2021,Eredivisie,21,2021-02-06,Emmen,AZ Alkmaar,0,1,0.0
+2020-2021,Eredivisie,21,2021-02-06,Zwolle,RKC Waalwijk,1,1,0.5
+2020-2021,Eredivisie,21,2021-02-06,PSV Eindhoven,Twente,3,0,1.0
+2020-2021,Eredivisie,21,2021-02-06,Heerenveen,Vitesse,1,0,1.0
+2020-2021,Eredivisie,22,2021-02-12,RKC Waalwijk,Emmen,1,0,1.0
+2020-2021,Eredivisie,22,2021-02-13,Groningen,Zwolle,1,0,1.0
+2020-2021,Eredivisie,22,2021-02-13,Sparta R'dam,Fortuna Sittard,1,2,0.0
+2020-2021,Eredivisie,22,2021-02-13,ADO Den Haag,PSV Eindhoven,2,2,0.5
+2020-2021,Eredivisie,22,2021-02-13,Heracles Almelo,Ajax,0,2,0.0
+2020-2021,Eredivisie,22,2021-02-14,AZ Alkmaar,Heerenveen,3,1,1.0
+2020-2021,Eredivisie,22,2021-02-14,Feyenoord,Willem II,5,0,1.0
+2020-2021,Eredivisie,22,2021-02-14,Utrecht,VVV-Venlo,3,1,1.0
+2020-2021,Eredivisie,22,2021-02-14,Vitesse,Twente,0,2,0.0
+2020-2021,Eredivisie,23,2021-02-19,Willem II,Utrecht,0,6,0.0
+2020-2021,Eredivisie,23,2021-02-20,Emmen,Zwolle,3,2,1.0
+2020-2021,Eredivisie,23,2021-02-20,VVV-Venlo,AZ Alkmaar,1,4,0.0
+2020-2021,Eredivisie,23,2021-02-20,Fortuna Sittard,ADO Den Haag,2,0,1.0
+2020-2021,Eredivisie,23,2021-02-21,Twente,Feyenoord,2,2,0.5
+2020-2021,Eredivisie,23,2021-02-21,RKC Waalwijk,Heracles Almelo,3,0,1.0
+2020-2021,Eredivisie,23,2021-02-21,Heerenveen,Groningen,1,1,0.5
+2020-2021,Eredivisie,23,2021-02-21,PSV Eindhoven,Vitesse,3,1,1.0
+2020-2021,Eredivisie,23,2021-02-21,Ajax,Sparta R'dam,4,2,1.0
+2020-2021,Eredivisie,21,2021-02-24,Willem II,ADO Den Haag,1,1,0.5
+2020-2021,Eredivisie,21,2021-02-24,Groningen,Feyenoord,0,0,0.5
+2020-2021,Eredivisie,24,2021-02-26,Zwolle,Heerenveen,4,1,1.0
+2020-2021,Eredivisie,24,2021-02-27,Utrecht,Emmen,0,1,0.0
+2020-2021,Eredivisie,24,2021-02-27,ADO Den Haag,RKC Waalwijk,0,0,0.5
+2020-2021,Eredivisie,24,2021-02-27,Vitesse,VVV-Venlo,4,1,1.0
+2020-2021,Eredivisie,24,2021-02-27,Heracles Almelo,Twente,2,2,0.5
+2020-2021,Eredivisie,24,2021-02-28,Sparta R'dam,Willem II,0,2,0.0
+2020-2021,Eredivisie,24,2021-02-28,PSV Eindhoven,Ajax,1,1,0.5
+2020-2021,Eredivisie,24,2021-02-28,Groningen,Fortuna Sittard,1,0,1.0
+2020-2021,Eredivisie,24,2021-02-28,AZ Alkmaar,Feyenoord,4,2,1.0
+2020-2021,Eredivisie,25,2021-03-05,Emmen,Sparta R'dam,1,1,0.5
+2020-2021,Eredivisie,25,2021-03-06,Feyenoord,VVV-Venlo,6,0,1.0
+2020-2021,Eredivisie,25,2021-03-06,Twente,Willem II,1,1,0.5
+2020-2021,Eredivisie,25,2021-03-06,Heerenveen,ADO Den Haag,3,0,1.0
+2020-2021,Eredivisie,25,2021-03-06,RKC Waalwijk,Utrecht,1,2,0.0
+2020-2021,Eredivisie,25,2021-03-07,Ajax,Groningen,3,1,1.0
+2020-2021,Eredivisie,25,2021-03-07,Fortuna Sittard,PSV Eindhoven,1,3,0.0
+2020-2021,Eredivisie,25,2021-03-07,Heracles Almelo,Zwolle,2,1,1.0
+2020-2021,Eredivisie,25,2021-03-07,Vitesse,AZ Alkmaar,2,1,1.0
+2020-2021,Eredivisie,21,2021-03-09,VVV-Venlo,Sparta R'dam,0,1,0.0
+2020-2021,Eredivisie,26,2021-03-13,Willem II,Heerenveen,3,1,1.0
+2020-2021,Eredivisie,26,2021-03-13,ADO Den Haag,Heracles Almelo,1,2,0.0
+2020-2021,Eredivisie,26,2021-03-13,AZ Alkmaar,Twente,4,1,1.0
+2020-2021,Eredivisie,26,2021-03-13,Groningen,Emmen,1,1,0.5
+2020-2021,Eredivisie,26,2021-03-13,Sparta R'dam,RKC Waalwijk,2,0,1.0
+2020-2021,Eredivisie,26,2021-03-14,VVV-Venlo,Fortuna Sittard,1,3,0.0
+2020-2021,Eredivisie,26,2021-03-14,Utrecht,Vitesse,1,3,0.0
+2020-2021,Eredivisie,26,2021-03-14,PSV Eindhoven,Feyenoord,1,1,0.5
+2020-2021,Eredivisie,26,2021-03-14,Zwolle,Ajax,0,2,0.0
+2020-2021,Eredivisie,27,2021-03-19,Heerenveen,Twente,0,0,0.5
+2020-2021,Eredivisie,27,2021-03-20,Fortuna Sittard,Utrecht,0,1,0.0
+2020-2021,Eredivisie,27,2021-03-20,Feyenoord,Emmen,1,1,0.5
+2020-2021,Eredivisie,27,2021-03-20,RKC Waalwijk,Groningen,3,1,1.0
+2020-2021,Eredivisie,27,2021-03-21,Zwolle,VVV-Venlo,2,1,1.0
+2020-2021,Eredivisie,27,2021-03-21,Vitesse,Willem II,0,0,0.5
+2020-2021,Eredivisie,27,2021-03-21,AZ Alkmaar,PSV Eindhoven,2,0,1.0
+2020-2021,Eredivisie,27,2021-03-21,Heracles Almelo,Sparta R'dam,1,1,0.5
+2020-2021,Eredivisie,27,2021-03-21,Ajax,ADO Den Haag,5,0,1.0
+2020-2021,Eredivisie,28,2021-04-03,VVV-Venlo,Groningen,0,1,0.0
+2020-2021,Eredivisie,28,2021-04-03,Twente,Vitesse,1,2,0.0
+2020-2021,Eredivisie,28,2021-04-03,Willem II,AZ Alkmaar,0,1,0.0
+2020-2021,Eredivisie,28,2021-04-03,Sparta R'dam,Zwolle,3,2,1.0
+2020-2021,Eredivisie,28,2021-04-04,Feyenoord,Fortuna Sittard,2,0,1.0
+2020-2021,Eredivisie,28,2021-04-04,PSV Eindhoven,Heracles Almelo,3,0,1.0
+2020-2021,Eredivisie,28,2021-04-04,ADO Den Haag,Utrecht,1,4,0.0
+2020-2021,Eredivisie,28,2021-04-04,Emmen,RKC Waalwijk,3,1,1.0
+2020-2021,Eredivisie,28,2021-04-04,Heerenveen,Ajax,1,2,0.0
+2020-2021,Eredivisie,29,2021-04-09,Vitesse,ADO Den Haag,0,0,0.5
+2020-2021,Eredivisie,29,2021-04-10,Heracles Almelo,Willem II,4,0,1.0
+2020-2021,Eredivisie,29,2021-04-10,Fortuna Sittard,Emmen,1,3,0.0
+2020-2021,Eredivisie,29,2021-04-10,AZ Alkmaar,Sparta R'dam,2,0,1.0
+2020-2021,Eredivisie,29,2021-04-10,Zwolle,Twente,1,0,1.0
+2020-2021,Eredivisie,29,2021-04-11,Utrecht,Feyenoord,1,2,0.0
+2020-2021,Eredivisie,29,2021-04-11,VVV-Venlo,PSV Eindhoven,0,2,0.0
+2020-2021,Eredivisie,29,2021-04-11,Groningen,Heerenveen,0,2,0.0
+2020-2021,Eredivisie,29,2021-04-11,RKC Waalwijk,Ajax,0,1,0.0
+2020-2021,Eredivisie,21,2021-04-22,Ajax,Utrecht,1,1,0.5
+2020-2021,Eredivisie,30,2021-04-23,Willem II,RKC Waalwijk,1,0,1.0
+2020-2021,Eredivisie,30,2021-04-24,Heerenveen,Zwolle,0,2,0.0
+2020-2021,Eredivisie,30,2021-04-24,PSV Eindhoven,Groningen,1,0,1.0
+2020-2021,Eredivisie,30,2021-04-24,Sparta R'dam,VVV-Venlo,2,0,1.0
+2020-2021,Eredivisie,30,2021-04-25,Emmen,Heracles Almelo,3,1,1.0
+2020-2021,Eredivisie,30,2021-04-25,Ajax,AZ Alkmaar,2,0,1.0
+2020-2021,Eredivisie,30,2021-04-25,ADO Den Haag,Fortuna Sittard,0,3,0.0
+2020-2021,Eredivisie,30,2021-04-25,Feyenoord,Vitesse,0,0,0.5
+2020-2021,Eredivisie,30,2021-04-25,Twente,Utrecht,1,2,0.0
+2020-2021,Eredivisie,31,2021-05-01,Heracles Almelo,VVV-Venlo,4,0,1.0
+2020-2021,Eredivisie,31,2021-05-01,Fortuna Sittard,Twente,3,0,1.0
+2020-2021,Eredivisie,31,2021-05-01,RKC Waalwijk,AZ Alkmaar,1,3,0.0
+2020-2021,Eredivisie,31,2021-05-01,Vitesse,Zwolle,2,1,1.0
+2020-2021,Eredivisie,31,2021-05-01,Utrecht,Willem II,3,2,1.0
+2020-2021,Eredivisie,31,2021-05-02,ADO Den Haag,Feyenoord,3,2,1.0
+2020-2021,Eredivisie,31,2021-05-02,Groningen,Sparta R'dam,1,2,0.0
+2020-2021,Eredivisie,31,2021-05-02,Ajax,Emmen,4,0,1.0
+2020-2021,Eredivisie,31,2021-05-02,PSV Eindhoven,Heerenveen,2,2,0.5
+2020-2021,Eredivisie,32,2021-05-07,Sparta R'dam,Vitesse,3,0,1.0
+2020-2021,Eredivisie,32,2021-05-08,Twente,Heracles Almelo,1,1,0.5
+2020-2021,Eredivisie,32,2021-05-08,Heerenveen,Utrecht,0,0,0.5
+2020-2021,Eredivisie,32,2021-05-08,AZ Alkmaar,Fortuna Sittard,1,0,1.0
+2020-2021,Eredivisie,32,2021-05-08,VVV-Venlo,RKC Waalwijk,3,3,0.5
+2020-2021,Eredivisie,32,2021-05-09,Emmen,Groningen,0,4,0.0
+2020-2021,Eredivisie,32,2021-05-09,Zwolle,ADO Den Haag,0,1,0.0
+2020-2021,Eredivisie,32,2021-05-09,Feyenoord,Ajax,0,3,0.0
+2020-2021,Eredivisie,32,2021-05-09,Willem II,PSV Eindhoven,0,2,0.0
+2020-2021,Eredivisie,33,2021-05-13,Ajax,VVV-Venlo,3,1,1.0
+2020-2021,Eredivisie,33,2021-05-13,ADO Den Haag,Willem II,1,4,0.0
+2020-2021,Eredivisie,33,2021-05-13,PSV Eindhoven,Zwolle,4,2,1.0
+2020-2021,Eredivisie,33,2021-05-13,Fortuna Sittard,Vitesse,3,3,0.5
+2020-2021,Eredivisie,33,2021-05-13,Heracles Almelo,Feyenoord,1,1,0.5
+2020-2021,Eredivisie,33,2021-05-13,RKC Waalwijk,Twente,2,1,1.0
+2020-2021,Eredivisie,33,2021-05-13,Sparta R'dam,Utrecht,0,0,0.5
+2020-2021,Eredivisie,33,2021-05-13,Emmen,Heerenveen,3,1,1.0
+2020-2021,Eredivisie,33,2021-05-13,Groningen,AZ Alkmaar,0,0,0.5
+2020-2021,First Round,,2021-05-15,NAC Breda,Volendam,4,1,1.0
+2020-2021,First Round,,2021-05-15,De Graafschap,Roda JC,2,3,0.0
+2020-2021,First Round,,2021-05-15,Almere City,NEC Nijmegen,0,4,0.0
+2020-2021,Eredivisie,34,2021-05-16,Vitesse,Ajax,1,3,0.0
+2020-2021,Eredivisie,34,2021-05-16,Zwolle,Groningen,1,0,1.0
+2020-2021,Eredivisie,34,2021-05-16,Twente,ADO Den Haag,3,2,1.0
+2020-2021,Eredivisie,34,2021-05-16,Heerenveen,Sparta R'dam,1,2,0.0
+2020-2021,Eredivisie,34,2021-05-16,Feyenoord,RKC Waalwijk,3,0,1.0
+2020-2021,Eredivisie,34,2021-05-16,Utrecht,PSV Eindhoven,1,1,0.5
+2020-2021,Eredivisie,34,2021-05-16,AZ Alkmaar,Heracles Almelo,5,0,1.0
+2020-2021,Eredivisie,34,2021-05-16,Willem II,Fortuna Sittard,2,1,1.0
+2020-2021,Eredivisie,34,2021-05-16,VVV-Venlo,Emmen,0,4,0.0
+2020-2021,Semi-finals,,2021-05-19,Utrecht,Groningen,1,0,1.0
+2020-2021,Semi-finals,,2021-05-19,Feyenoord,Sparta R'dam,2,0,1.0
+2020-2021,Semi-finals,,2021-05-20,NEC Nijmegen,Roda JC,3,0,1.0
+2020-2021,Semi-finals,,2021-05-20,Emmen,NAC Breda,1,1,0.5
+2020-2021,Finals,,2021-05-23,Feyenoord,Utrecht,2,0,1.0
+2020-2021,Final,,2021-05-23,NAC Breda,NEC Nijmegen,1,2,0.0

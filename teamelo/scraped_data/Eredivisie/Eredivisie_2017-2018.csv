@@ -1,0 +1,329 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,Eredivisie,1,2017-08-11,ADO Den Haag,Utrecht,0,3,0.0
+2017-2018,Eredivisie,1,2017-08-12,PSV Eindhoven,AZ Alkmaar,3,2,1.0
+2017-2018,Eredivisie,1,2017-08-12,VVV-Venlo,Sparta R'dam,3,0,1.0
+2017-2018,Eredivisie,1,2017-08-12,Heracles Almelo,Ajax,2,1,1.0
+2017-2018,Eredivisie,1,2017-08-12,Vitesse,NAC Breda,4,1,1.0
+2017-2018,Eredivisie,1,2017-08-13,Zwolle,Roda JC,4,2,1.0
+2017-2018,Eredivisie,1,2017-08-13,Feyenoord,Twente,2,1,1.0
+2017-2018,Eredivisie,1,2017-08-13,Willem II,Excelsior,1,2,0.0
+2017-2018,Eredivisie,1,2017-08-13,Groningen,Heerenveen,3,3,0.5
+2017-2018,Eredivisie,2,2017-08-18,Roda JC,Vitesse,1,3,0.0
+2017-2018,Eredivisie,2,2017-08-19,Twente,VVV-Venlo,1,2,0.0
+2017-2018,Eredivisie,2,2017-08-19,AZ Alkmaar,ADO Den Haag,2,0,1.0
+2017-2018,Eredivisie,2,2017-08-19,Heerenveen,Heracles Almelo,1,1,0.5
+2017-2018,Eredivisie,2,2017-08-20,Excelsior,Feyenoord,0,1,0.0
+2017-2018,Eredivisie,2,2017-08-20,Ajax,Groningen,3,1,1.0
+2017-2018,Eredivisie,2,2017-08-20,Utrecht,Willem II,2,0,1.0
+2017-2018,Eredivisie,2,2017-08-20,NAC Breda,PSV Eindhoven,1,4,0.0
+2017-2018,Eredivisie,2,2017-08-20,Sparta R'dam,Zwolle,1,1,0.5
+2017-2018,Eredivisie,3,2017-08-25,NAC Breda,Sparta R'dam,2,2,0.5
+2017-2018,Eredivisie,3,2017-08-26,Vitesse,AZ Alkmaar,1,2,0.0
+2017-2018,Eredivisie,3,2017-08-26,Zwolle,Twente,2,0,1.0
+2017-2018,Eredivisie,3,2017-08-26,ADO Den Haag,Heerenveen,1,2,0.0
+2017-2018,Eredivisie,3,2017-08-26,Heracles Almelo,Excelsior,2,2,0.5
+2017-2018,Eredivisie,3,2017-08-27,Feyenoord,Willem II,5,0,1.0
+2017-2018,Eredivisie,3,2017-08-27,VVV-Venlo,Ajax,0,2,0.0
+2017-2018,Eredivisie,3,2017-08-27,Groningen,Utrecht,2,1,1.0
+2017-2018,Eredivisie,3,2017-08-27,PSV Eindhoven,Roda JC,2,0,1.0
+2017-2018,Eredivisie,4,2017-09-09,Willem II,ADO Den Haag,1,2,0.0
+2017-2018,Eredivisie,4,2017-09-09,Heracles Almelo,Feyenoord,2,4,0.0
+2017-2018,Eredivisie,4,2017-09-09,Excelsior,Vitesse,0,3,0.0
+2017-2018,Eredivisie,4,2017-09-09,Ajax,Zwolle,3,0,1.0
+2017-2018,Eredivisie,4,2017-09-10,Heerenveen,PSV Eindhoven,2,0,1.0
+2017-2018,Eredivisie,4,2017-09-10,Sparta R'dam,Twente,1,0,1.0
+2017-2018,Eredivisie,4,2017-09-10,Utrecht,Roda JC,2,0,1.0
+2017-2018,Eredivisie,4,2017-09-10,AZ Alkmaar,NAC Breda,2,1,1.0
+2017-2018,Eredivisie,4,2017-09-10,Groningen,VVV-Venlo,1,1,0.5
+2017-2018,Eredivisie,5,2017-09-15,Sparta R'dam,AZ Alkmaar,0,2,0.0
+2017-2018,Eredivisie,5,2017-09-16,Excelsior,Heerenveen,1,2,0.0
+2017-2018,Eredivisie,5,2017-09-16,Roda JC,Willem II,1,3,0.0
+2017-2018,Eredivisie,5,2017-09-16,NAC Breda,Groningen,2,1,1.0
+2017-2018,Eredivisie,5,2017-09-16,Zwolle,Heracles Almelo,2,1,1.0
+2017-2018,Eredivisie,5,2017-09-17,Twente,Utrecht,4,0,1.0
+2017-2018,Eredivisie,5,2017-09-17,ADO Den Haag,Ajax,1,1,0.5
+2017-2018,Eredivisie,5,2017-09-17,Vitesse,VVV-Venlo,1,1,0.5
+2017-2018,Eredivisie,5,2017-09-17,PSV Eindhoven,Feyenoord,1,0,1.0
+2017-2018,Eredivisie,6,2017-09-23,Willem II,Heerenveen,1,2,0.0
+2017-2018,Eredivisie,6,2017-09-23,Feyenoord,NAC Breda,0,2,0.0
+2017-2018,Eredivisie,6,2017-09-23,Heracles Almelo,Roda JC,2,1,1.0
+2017-2018,Eredivisie,6,2017-09-23,ADO Den Haag,Sparta R'dam,1,0,1.0
+2017-2018,Eredivisie,6,2017-09-24,Utrecht,PSV Eindhoven,1,7,0.0
+2017-2018,Eredivisie,6,2017-09-24,VVV-Venlo,Zwolle,1,1,0.5
+2017-2018,Eredivisie,6,2017-09-24,Ajax,Vitesse,1,2,0.0
+2017-2018,Eredivisie,6,2017-09-24,Groningen,Twente,1,0,1.0
+2017-2018,Eredivisie,6,2017-09-24,AZ Alkmaar,Excelsior,0,2,0.0
+2017-2018,Eredivisie,7,2017-09-29,Twente,Heracles Almelo,2,1,1.0
+2017-2018,Eredivisie,7,2017-09-30,NAC Breda,ADO Den Haag,0,1,0.0
+2017-2018,Eredivisie,7,2017-09-30,PSV Eindhoven,Willem II,4,0,1.0
+2017-2018,Eredivisie,7,2017-09-30,Zwolle,Groningen,3,2,1.0
+2017-2018,Eredivisie,7,2017-09-30,Excelsior,VVV-Venlo,0,2,0.0
+2017-2018,Eredivisie,7,2017-10-01,AZ Alkmaar,Feyenoord,0,4,0.0
+2017-2018,Eredivisie,7,2017-10-01,Heerenveen,Ajax,0,4,0.0
+2017-2018,Eredivisie,7,2017-10-01,Vitesse,Utrecht,1,1,0.5
+2017-2018,Eredivisie,7,2017-10-01,Sparta R'dam,Roda JC,1,2,0.0
+2017-2018,Eredivisie,8,2017-10-14,Ajax,Sparta R'dam,4,0,1.0
+2017-2018,Eredivisie,8,2017-10-14,Roda JC,NAC Breda,1,0,1.0
+2017-2018,Eredivisie,8,2017-10-14,Utrecht,Heerenveen,3,1,1.0
+2017-2018,Eredivisie,8,2017-10-14,Feyenoord,Zwolle,0,0,0.5
+2017-2018,Eredivisie,8,2017-10-15,Heracles Almelo,Vitesse,1,1,0.5
+2017-2018,Eredivisie,8,2017-10-15,Willem II,Twente,3,1,1.0
+2017-2018,Eredivisie,8,2017-10-15,VVV-Venlo,PSV Eindhoven,2,5,0.0
+2017-2018,Eredivisie,8,2017-10-15,Groningen,AZ Alkmaar,1,1,0.5
+2017-2018,Eredivisie,8,2017-10-15,ADO Den Haag,Excelsior,1,2,0.0
+2017-2018,Eredivisie,9,2017-10-20,Groningen,Willem II,0,1,0.0
+2017-2018,Eredivisie,9,2017-10-21,NAC Breda,Zwolle,0,2,0.0
+2017-2018,Eredivisie,9,2017-10-21,VVV-Venlo,ADO Den Haag,0,2,0.0
+2017-2018,Eredivisie,9,2017-10-21,Excelsior,Sparta R'dam,1,1,0.5
+2017-2018,Eredivisie,9,2017-10-21,Twente,Roda JC,3,0,1.0
+2017-2018,Eredivisie,9,2017-10-22,PSV Eindhoven,Heracles Almelo,3,0,1.0
+2017-2018,Eredivisie,9,2017-10-22,Feyenoord,Ajax,1,4,0.0
+2017-2018,Eredivisie,9,2017-10-22,AZ Alkmaar,Utrecht,3,0,1.0
+2017-2018,Eredivisie,9,2017-10-22,Heerenveen,Vitesse,0,4,0.0
+2017-2018,Eredivisie,10,2017-10-27,Twente,Excelsior,1,3,0.0
+2017-2018,Eredivisie,10,2017-10-28,Roda JC,Feyenoord,1,1,0.5
+2017-2018,Eredivisie,10,2017-10-28,Heracles Almelo,VVV-Venlo,3,0,1.0
+2017-2018,Eredivisie,10,2017-10-28,Zwolle,ADO Den Haag,2,0,1.0
+2017-2018,Eredivisie,10,2017-10-28,Willem II,Ajax,1,3,0.0
+2017-2018,Eredivisie,10,2017-10-29,Vitesse,PSV Eindhoven,2,4,0.0
+2017-2018,Eredivisie,10,2017-10-29,Sparta R'dam,Groningen,2,1,1.0
+2017-2018,Eredivisie,10,2017-10-29,Utrecht,NAC Breda,2,2,0.5
+2017-2018,Eredivisie,10,2017-10-29,Heerenveen,AZ Alkmaar,1,2,0.0
+2017-2018,Eredivisie,11,2017-11-03,Sparta R'dam,Heerenveen,0,0,0.5
+2017-2018,Eredivisie,11,2017-11-04,AZ Alkmaar,Willem II,3,2,1.0
+2017-2018,Eredivisie,11,2017-11-04,Excelsior,Roda JC,1,0,1.0
+2017-2018,Eredivisie,11,2017-11-04,Heracles Almelo,Groningen,2,1,1.0
+2017-2018,Eredivisie,11,2017-11-04,VVV-Venlo,NAC Breda,0,0,0.5
+2017-2018,Eredivisie,11,2017-11-05,ADO Den Haag,Feyenoord,2,2,0.5
+2017-2018,Eredivisie,11,2017-11-05,Ajax,Utrecht,1,2,0.0
+2017-2018,Eredivisie,11,2017-11-05,Vitesse,Zwolle,0,0,0.5
+2017-2018,Eredivisie,11,2017-11-05,PSV Eindhoven,Twente,4,3,1.0
+2017-2018,Eredivisie,12,2017-11-18,Feyenoord,VVV-Venlo,1,1,0.5
+2017-2018,Eredivisie,12,2017-11-18,Twente,Heerenveen,0,4,0.0
+2017-2018,Eredivisie,12,2017-11-18,Willem II,Sparta R'dam,2,2,0.5
+2017-2018,Eredivisie,12,2017-11-18,NAC Breda,Ajax,0,8,0.0
+2017-2018,Eredivisie,12,2017-11-19,ADO Den Haag,Heracles Almelo,4,1,1.0
+2017-2018,Eredivisie,12,2017-11-19,Utrecht,Excelsior,3,1,1.0
+2017-2018,Eredivisie,12,2017-11-19,Zwolle,PSV Eindhoven,0,1,0.0
+2017-2018,Eredivisie,12,2017-11-19,Groningen,Vitesse,4,2,1.0
+2017-2018,Eredivisie,12,2017-11-19,Roda JC,AZ Alkmaar,0,1,0.0
+2017-2018,Eredivisie,13,2017-11-24,AZ Alkmaar,Twente,2,0,1.0
+2017-2018,Eredivisie,13,2017-11-25,VVV-Venlo,Willem II,3,3,0.5
+2017-2018,Eredivisie,13,2017-11-25,Groningen,Feyenoord,0,2,0.0
+2017-2018,Eredivisie,13,2017-11-25,Heracles Almelo,NAC Breda,2,1,1.0
+2017-2018,Eredivisie,13,2017-11-25,Heerenveen,Zwolle,1,2,0.0
+2017-2018,Eredivisie,13,2017-11-26,Ajax,Roda JC,5,1,1.0
+2017-2018,Eredivisie,13,2017-11-26,Sparta R'dam,Utrecht,1,3,0.0
+2017-2018,Eredivisie,13,2017-11-26,Excelsior,PSV Eindhoven,1,2,0.0
+2017-2018,Eredivisie,13,2017-11-26,Vitesse,ADO Den Haag,2,0,1.0
+2017-2018,Eredivisie,14,2017-12-01,Zwolle,Utrecht,1,1,0.5
+2017-2018,Eredivisie,14,2017-12-02,ADO Den Haag,Groningen,0,3,0.0
+2017-2018,Eredivisie,14,2017-12-02,Twente,Ajax,3,3,0.5
+2017-2018,Eredivisie,14,2017-12-02,Feyenoord,Vitesse,1,0,1.0
+2017-2018,Eredivisie,14,2017-12-02,Willem II,Heracles Almelo,3,1,1.0
+2017-2018,Eredivisie,14,2017-12-03,VVV-Venlo,AZ Alkmaar,0,2,0.0
+2017-2018,Eredivisie,14,2017-12-03,Roda JC,Heerenveen,2,1,1.0
+2017-2018,Eredivisie,14,2017-12-03,PSV Eindhoven,Sparta R'dam,1,0,1.0
+2017-2018,Eredivisie,14,2017-12-03,NAC Breda,Excelsior,3,1,1.0
+2017-2018,Eredivisie,15,2017-12-08,Willem II,NAC Breda,1,1,0.5
+2017-2018,Eredivisie,15,2017-12-09,Heerenveen,VVV-Venlo,2,2,0.5
+2017-2018,Eredivisie,15,2017-12-09,AZ Alkmaar,Heracles Almelo,5,0,1.0
+2017-2018,Eredivisie,15,2017-12-09,Excelsior,Zwolle,1,2,0.0
+2017-2018,Eredivisie,15,2017-12-09,Twente,ADO Den Haag,2,3,0.0
+2017-2018,Eredivisie,15,2017-12-10,Roda JC,Groningen,2,2,0.5
+2017-2018,Eredivisie,15,2017-12-10,Ajax,PSV Eindhoven,3,0,1.0
+2017-2018,Eredivisie,16,2017-12-12,NAC Breda,Twente,1,2,0.0
+2017-2018,Eredivisie,16,2017-12-12,Zwolle,AZ Alkmaar,1,1,0.5
+2017-2018,Eredivisie,16,2017-12-13,Groningen,PSV Eindhoven,3,3,0.5
+2017-2018,Eredivisie,16,2017-12-13,Vitesse,Willem II,2,2,0.5
+2017-2018,Eredivisie,16,2017-12-13,VVV-Venlo,Utrecht,0,1,0.0
+2017-2018,Eredivisie,16,2017-12-13,Feyenoord,Heerenveen,1,1,0.5
+2017-2018,Eredivisie,16,2017-12-13,ADO Den Haag,Roda JC,3,2,1.0
+2017-2018,Eredivisie,16,2017-12-14,Heracles Almelo,Sparta R'dam,3,2,1.0
+2017-2018,Eredivisie,16,2017-12-14,Ajax,Excelsior,3,1,1.0
+2017-2018,Eredivisie,17,2017-12-16,Willem II,Zwolle,2,3,0.0
+2017-2018,Eredivisie,17,2017-12-16,Heerenveen,NAC Breda,1,0,1.0
+2017-2018,Eredivisie,17,2017-12-16,PSV Eindhoven,ADO Den Haag,3,0,1.0
+2017-2018,Eredivisie,17,2017-12-16,Roda JC,VVV-Venlo,0,1,0.0
+2017-2018,Eredivisie,17,2017-12-16,Twente,Vitesse,1,1,0.5
+2017-2018,Eredivisie,17,2017-12-17,Sparta R'dam,Feyenoord,0,7,0.0
+2017-2018,Eredivisie,17,2017-12-17,AZ Alkmaar,Ajax,1,2,0.0
+2017-2018,Eredivisie,17,2017-12-17,Utrecht,Heracles Almelo,1,1,0.5
+2017-2018,Eredivisie,17,2017-12-17,Excelsior,Groningen,2,0,1.0
+2017-2018,Eredivisie,18,2017-12-22,ADO Den Haag,Zwolle,4,0,1.0
+2017-2018,Eredivisie,18,2017-12-23,NAC Breda,Utrecht,3,1,1.0
+2017-2018,Eredivisie,18,2017-12-23,AZ Alkmaar,Heerenveen,3,1,1.0
+2017-2018,Eredivisie,18,2017-12-23,PSV Eindhoven,Vitesse,2,1,1.0
+2017-2018,Eredivisie,18,2017-12-23,Excelsior,Twente,0,0,0.5
+2017-2018,Eredivisie,18,2017-12-24,Groningen,Sparta R'dam,4,0,1.0
+2017-2018,Eredivisie,18,2017-12-24,VVV-Venlo,Heracles Almelo,3,1,1.0
+2017-2018,Eredivisie,18,2017-12-24,Ajax,Willem II,3,1,1.0
+2017-2018,Eredivisie,18,2017-12-24,Feyenoord,Roda JC,5,1,1.0
+2017-2018,Eredivisie,15,2018-01-16,Sparta R'dam,Vitesse,0,1,0.0
+2017-2018,Eredivisie,19,2018-01-19,Utrecht,AZ Alkmaar,1,1,0.5
+2017-2018,Eredivisie,19,2018-01-20,Roda JC,Twente,1,1,0.5
+2017-2018,Eredivisie,19,2018-01-20,Zwolle,NAC Breda,1,0,1.0
+2017-2018,Eredivisie,19,2018-01-20,ADO Den Haag,VVV-Venlo,1,1,0.5
+2017-2018,Eredivisie,19,2018-01-20,Vitesse,Heerenveen,1,1,0.5
+2017-2018,Eredivisie,19,2018-01-21,Sparta R'dam,Excelsior,2,3,0.0
+2017-2018,Eredivisie,19,2018-01-21,Ajax,Feyenoord,2,0,1.0
+2017-2018,Eredivisie,19,2018-01-21,Willem II,Groningen,1,1,0.5
+2017-2018,Eredivisie,19,2018-01-21,Heracles Almelo,PSV Eindhoven,1,2,0.0
+2017-2018,Eredivisie,15,2018-01-24,Utrecht,Feyenoord,1,1,0.5
+2017-2018,Eredivisie,20,2018-01-26,Heerenveen,Sparta R'dam,2,1,1.0
+2017-2018,Eredivisie,20,2018-01-27,Groningen,Heracles Almelo,3,3,0.5
+2017-2018,Eredivisie,20,2018-01-27,Zwolle,Vitesse,1,2,0.0
+2017-2018,Eredivisie,20,2018-01-27,Twente,PSV Eindhoven,0,2,0.0
+2017-2018,Eredivisie,20,2018-01-27,NAC Breda,VVV-Venlo,0,1,0.0
+2017-2018,Eredivisie,20,2018-01-28,Utrecht,Ajax,0,0,0.5
+2017-2018,Eredivisie,20,2018-01-28,Feyenoord,ADO Den Haag,3,1,1.0
+2017-2018,Eredivisie,20,2018-01-28,Roda JC,Excelsior,2,1,1.0
+2017-2018,Eredivisie,20,2018-01-28,Willem II,AZ Alkmaar,0,2,0.0
+2017-2018,Eredivisie,21,2018-02-02,Vitesse,Groningen,2,0,1.0
+2017-2018,Eredivisie,21,2018-02-03,Heerenveen,Twente,1,0,1.0
+2017-2018,Eredivisie,21,2018-02-03,PSV Eindhoven,Zwolle,4,0,1.0
+2017-2018,Eredivisie,21,2018-02-03,Heracles Almelo,ADO Den Haag,1,1,0.5
+2017-2018,Eredivisie,21,2018-02-04,Excelsior,Utrecht,2,2,0.5
+2017-2018,Eredivisie,21,2018-02-04,AZ Alkmaar,Roda JC,2,2,0.5
+2017-2018,Eredivisie,21,2018-02-04,VVV-Venlo,Feyenoord,1,0,1.0
+2017-2018,Eredivisie,21,2018-02-04,Sparta R'dam,Willem II,1,0,1.0
+2017-2018,Eredivisie,21,2018-02-04,Ajax,NAC Breda,3,1,1.0
+2017-2018,Eredivisie,22,2018-02-06,Zwolle,Heerenveen,3,2,1.0
+2017-2018,Eredivisie,22,2018-02-07,PSV Eindhoven,Excelsior,1,0,1.0
+2017-2018,Eredivisie,22,2018-02-07,Twente,AZ Alkmaar,0,4,0.0
+2017-2018,Eredivisie,22,2018-02-07,Utrecht,Sparta R'dam,1,0,1.0
+2017-2018,Eredivisie,22,2018-02-07,NAC Breda,Heracles Almelo,6,1,1.0
+2017-2018,Eredivisie,22,2018-02-07,Roda JC,Ajax,2,4,0.0
+2017-2018,Eredivisie,22,2018-02-07,Willem II,VVV-Venlo,3,0,1.0
+2017-2018,Eredivisie,22,2018-02-08,ADO Den Haag,Vitesse,1,0,1.0
+2017-2018,Eredivisie,22,2018-02-08,Feyenoord,Groningen,3,0,1.0
+2017-2018,Eredivisie,23,2018-02-10,Utrecht,Zwolle,2,1,1.0
+2017-2018,Eredivisie,23,2018-02-10,Heracles Almelo,Willem II,1,0,1.0
+2017-2018,Eredivisie,23,2018-02-10,Sparta R'dam,PSV Eindhoven,1,2,0.0
+2017-2018,Eredivisie,23,2018-02-10,AZ Alkmaar,VVV-Venlo,0,0,0.5
+2017-2018,Eredivisie,23,2018-02-10,Heerenveen,Roda JC,1,1,0.5
+2017-2018,Eredivisie,23,2018-02-11,Ajax,Twente,2,1,1.0
+2017-2018,Eredivisie,23,2018-02-11,Excelsior,NAC Breda,0,0,0.5
+2017-2018,Eredivisie,23,2018-02-11,Vitesse,Feyenoord,3,1,1.0
+2017-2018,Eredivisie,23,2018-02-11,Groningen,ADO Den Haag,0,0,0.5
+2017-2018,Eredivisie,24,2018-02-16,VVV-Venlo,Groningen,1,1,0.5
+2017-2018,Eredivisie,24,2018-02-17,Vitesse,Excelsior,1,2,0.0
+2017-2018,Eredivisie,24,2018-02-17,PSV Eindhoven,Heerenveen,2,2,0.5
+2017-2018,Eredivisie,24,2018-02-17,NAC Breda,AZ Alkmaar,1,3,0.0
+2017-2018,Eredivisie,24,2018-02-17,ADO Den Haag,Willem II,2,1,1.0
+2017-2018,Eredivisie,24,2018-02-18,Roda JC,Utrecht,1,4,0.0
+2017-2018,Eredivisie,24,2018-02-18,Feyenoord,Heracles Almelo,1,0,1.0
+2017-2018,Eredivisie,24,2018-02-18,Twente,Sparta R'dam,1,1,0.5
+2017-2018,Eredivisie,24,2018-02-18,Zwolle,Ajax,0,1,0.0
+2017-2018,Eredivisie,25,2018-02-23,Groningen,NAC Breda,1,1,0.5
+2017-2018,Eredivisie,25,2018-02-24,AZ Alkmaar,Sparta R'dam,2,1,1.0
+2017-2018,Eredivisie,25,2018-02-24,Heracles Almelo,Zwolle,2,1,1.0
+2017-2018,Eredivisie,25,2018-02-24,Heerenveen,Excelsior,0,1,0.0
+2017-2018,Eredivisie,25,2018-02-24,VVV-Venlo,Vitesse,2,2,0.5
+2017-2018,Eredivisie,25,2018-02-25,Ajax,ADO Den Haag,0,0,0.5
+2017-2018,Eredivisie,25,2018-02-25,Feyenoord,PSV Eindhoven,1,3,0.0
+2017-2018,Eredivisie,25,2018-02-25,Willem II,Roda JC,1,0,1.0
+2017-2018,Eredivisie,25,2018-02-25,Utrecht,Twente,3,1,1.0
+2017-2018,Eredivisie,26,2018-03-02,Roda JC,Heracles Almelo,0,3,0.0
+2017-2018,Eredivisie,26,2018-03-03,PSV Eindhoven,Utrecht,3,0,1.0
+2017-2018,Eredivisie,26,2018-03-03,Excelsior,AZ Alkmaar,1,2,0.0
+2017-2018,Eredivisie,26,2018-03-03,NAC Breda,Feyenoord,2,1,1.0
+2017-2018,Eredivisie,26,2018-03-03,Heerenveen,Willem II,2,0,1.0
+2017-2018,Eredivisie,26,2018-03-04,Zwolle,VVV-Venlo,1,1,0.5
+2017-2018,Eredivisie,26,2018-03-04,Vitesse,Ajax,3,2,1.0
+2017-2018,Eredivisie,26,2018-03-04,Sparta R'dam,ADO Den Haag,2,1,1.0
+2017-2018,Eredivisie,26,2018-03-04,Twente,Groningen,1,1,0.5
+2017-2018,Eredivisie,27,2018-03-09,Heracles Almelo,Twente,2,1,1.0
+2017-2018,Eredivisie,27,2018-03-10,ADO Den Haag,NAC Breda,0,2,0.0
+2017-2018,Eredivisie,27,2018-03-10,Willem II,PSV Eindhoven,5,0,1.0
+2017-2018,Eredivisie,27,2018-03-10,VVV-Venlo,Excelsior,2,3,0.0
+2017-2018,Eredivisie,27,2018-03-10,Roda JC,Sparta R'dam,0,2,0.0
+2017-2018,Eredivisie,27,2018-03-11,Groningen,Zwolle,2,0,1.0
+2017-2018,Eredivisie,27,2018-03-11,Ajax,Heerenveen,4,1,1.0
+2017-2018,Eredivisie,27,2018-03-11,Utrecht,Vitesse,5,1,1.0
+2017-2018,Eredivisie,27,2018-03-11,Feyenoord,AZ Alkmaar,2,1,1.0
+2017-2018,Eredivisie,28,2018-03-16,Excelsior,ADO Den Haag,1,2,0.0
+2017-2018,Eredivisie,28,2018-03-17,Twente,Willem II,2,2,0.5
+2017-2018,Eredivisie,28,2018-03-17,Vitesse,Heracles Almelo,0,0,0.5
+2017-2018,Eredivisie,28,2018-03-17,PSV Eindhoven,VVV-Venlo,3,0,1.0
+2017-2018,Eredivisie,28,2018-03-17,Heerenveen,Utrecht,2,2,0.5
+2017-2018,Eredivisie,28,2018-03-18,AZ Alkmaar,Groningen,3,2,1.0
+2017-2018,Eredivisie,28,2018-03-18,Sparta R'dam,Ajax,2,5,0.0
+2017-2018,Eredivisie,28,2018-03-18,NAC Breda,Roda JC,0,1,0.0
+2017-2018,Eredivisie,28,2018-03-18,Zwolle,Feyenoord,3,4,0.0
+2017-2018,Eredivisie,29,2018-03-31,Zwolle,Sparta R'dam,2,0,1.0
+2017-2018,Eredivisie,29,2018-03-31,Vitesse,Roda JC,0,3,0.0
+2017-2018,Eredivisie,29,2018-03-31,PSV Eindhoven,NAC Breda,5,1,1.0
+2017-2018,Eredivisie,29,2018-03-31,Willem II,Utrecht,3,2,1.0
+2017-2018,Eredivisie,29,2018-03-31,ADO Den Haag,AZ Alkmaar,0,3,0.0
+2017-2018,Eredivisie,29,2018-04-01,VVV-Venlo,Twente,0,0,0.5
+2017-2018,Eredivisie,29,2018-04-01,Heracles Almelo,Heerenveen,1,2,0.0
+2017-2018,Eredivisie,29,2018-04-01,Groningen,Ajax,1,2,0.0
+2017-2018,Eredivisie,29,2018-04-01,Feyenoord,Excelsior,5,0,1.0
+2017-2018,Eredivisie,30,2018-04-06,Excelsior,Willem II,2,1,1.0
+2017-2018,Eredivisie,30,2018-04-07,NAC Breda,Vitesse,1,0,1.0
+2017-2018,Eredivisie,30,2018-04-07,AZ Alkmaar,PSV Eindhoven,2,3,0.0
+2017-2018,Eredivisie,30,2018-04-07,Roda JC,Zwolle,3,2,1.0
+2017-2018,Eredivisie,30,2018-04-07,Sparta R'dam,VVV-Venlo,3,2,1.0
+2017-2018,Eredivisie,30,2018-04-08,Utrecht,ADO Den Haag,3,3,0.5
+2017-2018,Eredivisie,30,2018-04-08,Heerenveen,Groningen,1,1,0.5
+2017-2018,Eredivisie,30,2018-04-08,Twente,Feyenoord,1,3,0.0
+2017-2018,Eredivisie,30,2018-04-08,Ajax,Heracles Almelo,1,0,1.0
+2017-2018,Eredivisie,31,2018-04-13,Heracles Almelo,AZ Alkmaar,0,3,0.0
+2017-2018,Eredivisie,31,2018-04-14,ADO Den Haag,Twente,2,1,1.0
+2017-2018,Eredivisie,31,2018-04-14,Vitesse,Sparta R'dam,7,0,1.0
+2017-2018,Eredivisie,31,2018-04-14,VVV-Venlo,Heerenveen,0,2,0.0
+2017-2018,Eredivisie,31,2018-04-14,Zwolle,Excelsior,1,1,0.5
+2017-2018,Eredivisie,31,2018-04-15,NAC Breda,Willem II,1,2,0.0
+2017-2018,Eredivisie,31,2018-04-15,Groningen,Roda JC,2,1,1.0
+2017-2018,Eredivisie,31,2018-04-15,Feyenoord,Utrecht,3,1,1.0
+2017-2018,Eredivisie,31,2018-04-15,PSV Eindhoven,Ajax,3,0,1.0
+2017-2018,Eredivisie,32,2018-04-17,Twente,Zwolle,2,0,1.0
+2017-2018,Eredivisie,32,2018-04-17,Heerenveen,ADO Den Haag,2,0,1.0
+2017-2018,Eredivisie,32,2018-04-18,Roda JC,PSV Eindhoven,2,2,0.5
+2017-2018,Eredivisie,32,2018-04-18,AZ Alkmaar,Vitesse,4,3,1.0
+2017-2018,Eredivisie,32,2018-04-18,Excelsior,Heracles Almelo,2,2,0.5
+2017-2018,Eredivisie,32,2018-04-18,Willem II,Feyenoord,1,5,0.0
+2017-2018,Eredivisie,32,2018-04-18,Sparta R'dam,NAC Breda,2,1,1.0
+2017-2018,Eredivisie,32,2018-04-19,Utrecht,Groningen,1,1,0.5
+2017-2018,Eredivisie,32,2018-04-19,Ajax,VVV-Venlo,4,1,1.0
+2017-2018,Eredivisie,33,2018-04-29,Ajax,AZ Alkmaar,3,0,1.0
+2017-2018,Eredivisie,33,2018-04-29,Heracles Almelo,Utrecht,2,2,0.5
+2017-2018,Eredivisie,33,2018-04-29,NAC Breda,Heerenveen,3,0,1.0
+2017-2018,Eredivisie,33,2018-04-29,ADO Den Haag,PSV Eindhoven,3,3,0.5
+2017-2018,Eredivisie,33,2018-04-29,Groningen,Excelsior,4,0,1.0
+2017-2018,Eredivisie,33,2018-04-29,Feyenoord,Sparta R'dam,3,1,1.0
+2017-2018,Eredivisie,33,2018-04-29,Vitesse,Twente,5,0,1.0
+2017-2018,Eredivisie,33,2018-04-29,VVV-Venlo,Roda JC,1,4,0.0
+2017-2018,Eredivisie,33,2018-04-29,Zwolle,Willem II,0,1,0.0
+2017-2018,First round,,2018-05-01,MVV Maastricht,Almere City,1,3,0.0
+2017-2018,First round,,2018-05-01,Dordrecht,Cambuur,1,4,0.0
+2017-2018,First round,,2018-05-05,Almere City,MVV Maastricht,3,2,1.0
+2017-2018,First round,,2018-05-05,Cambuur,Dordrecht,1,4,0.0
+2017-2018,Eredivisie,34,2018-05-06,AZ Alkmaar,Zwolle,6,0,1.0
+2017-2018,Eredivisie,34,2018-05-06,Heerenveen,Feyenoord,2,3,0.0
+2017-2018,Eredivisie,34,2018-05-06,Excelsior,Ajax,1,2,0.0
+2017-2018,Eredivisie,34,2018-05-06,Roda JC,ADO Den Haag,2,3,0.0
+2017-2018,Eredivisie,34,2018-05-06,Twente,NAC Breda,1,1,0.5
+2017-2018,Eredivisie,34,2018-05-06,Sparta R'dam,Heracles Almelo,2,5,0.0
+2017-2018,Eredivisie,34,2018-05-06,Willem II,Vitesse,2,2,0.5
+2017-2018,Eredivisie,34,2018-05-06,PSV Eindhoven,Groningen,0,0,0.5
+2017-2018,Eredivisie,34,2018-05-06,Utrecht,VVV-Venlo,1,0,1.0
+2017-2018,Semi-finals,,2018-05-09,ADO Den Haag,Vitesse,2,5,0.0
+2017-2018,Semi-finals,,2018-05-09,Heerenveen,Utrecht,4,3,1.0
+2017-2018,Second round,,2018-05-10,Telstar,De Graafschap,3,2,1.0
+2017-2018,Second round,,2018-05-10,Emmen,NEC Nijmegen,4,0,1.0
+2017-2018,Second round,,2018-05-10,Dordrecht,Sparta R'dam,1,2,0.0
+2017-2018,Second round,,2018-05-10,Almere City,Roda JC,0,0,0.5
+2017-2018,Semi-finals,,2018-05-12,Vitesse,ADO Den Haag,2,1,1.0
+2017-2018,Semi-finals,,2018-05-12,Utrecht,Heerenveen,2,1,1.0
+2017-2018,Second round,,2018-05-13,De Graafschap,Telstar,4,2,1.0
+2017-2018,Second round,,2018-05-13,NEC Nijmegen,Emmen,4,1,1.0
+2017-2018,Second round,,2018-05-13,Sparta R'dam,Dordrecht,2,2,0.5
+2017-2018,Second round,,2018-05-13,Roda JC,Almere City,1,2,0.0
+2017-2018,Finals,,2018-05-15,Vitesse,Utrecht,3,2,1.0
+2017-2018,Third round,,2018-05-17,Emmen,Sparta R'dam,0,0,0.5
+2017-2018,Third round,,2018-05-17,Almere City,De Graafschap,1,1,0.5
+2017-2018,Finals,,2018-05-19,Utrecht,Vitesse,1,2,0.0
+2017-2018,Third round,,2018-05-20,Sparta R'dam,Emmen,1,3,0.0
+2017-2018,Third round,,2018-05-20,De Graafschap,Almere City,2,1,1.0

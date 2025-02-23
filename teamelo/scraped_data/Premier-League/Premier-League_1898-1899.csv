@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1898-1899,1,1898-09-01,Stoke,Derby County,0,0,0.5
+1898-1899,1,1898-09-01,Everton,Blackburn,2,1,1.0
+1898-1899,1,1898-09-03,Preston,Sunderland,2,3,0.0
+1898-1899,1,1898-09-03,Newcastle Utd,Wolves,2,4,0.0
+1898-1899,1,1898-09-03,Bolton,West Brom,3,3,0.5
+1898-1899,1,1898-09-03,Liverpool,The Wednesday,4,0,1.0
+1898-1899,1,1898-09-03,Nott'ham Forest,Blackburn,0,1,0.0
+1898-1899,1,1898-09-03,Burnley,Notts County,1,1,0.5
+1898-1899,2,1898-09-03,Sheffield Utd,Everton,1,1,0.5
+1898-1899,2,1898-09-03,Derby County,Bury,1,2,0.0
+1898-1899,2,1898-09-03,Aston Villa,Stoke,3,1,1.0
+1898-1899,2,1898-09-05,Burnley,Preston,3,1,1.0
+1898-1899,2,1898-09-10,Sunderland,Liverpool,1,0,1.0
+1898-1899,2,1898-09-10,Blackburn,Bolton,4,1,1.0
+1898-1899,2,1898-09-10,Notts County,Sheffield Utd,2,2,0.5
+1898-1899,2,1898-09-10,Bury,Aston Villa,2,1,1.0
+1898-1899,2,1898-09-10,The Wednesday,Nott'ham Forest,2,1,1.0
+1898-1899,3,1898-09-10,West Brom,Derby County,1,1,0.5
+1898-1899,3,1898-09-10,Wolves,Preston,0,0,0.5
+1898-1899,3,1898-09-10,Stoke,Burnley,4,1,1.0
+1898-1899,3,1898-09-10,Everton,Newcastle Utd,3,0,1.0
+1898-1899,3,1898-09-12,Sheffield Utd,Wolves,1,0,1.0
+1898-1899,3,1898-09-17,Nott'ham Forest,Sunderland,1,1,0.5
+1898-1899,3,1898-09-17,Burnley,Aston Villa,2,4,0.0
+1898-1899,3,1898-09-17,Newcastle Utd,Notts County,1,2,0.0
+1898-1899,3,1898-09-17,West Brom,Bury,2,0,1.0
+1898-1899,3,1898-09-17,Bolton,The Wednesday,0,0,0.5
+1898-1899,3,1898-09-17,Liverpool,Wolves,1,0,1.0
+1898-1899,4,1898-09-17,Sheffield Utd,Stoke,1,1,0.5
+1898-1899,4,1898-09-17,Derby County,Blackburn,0,0,0.5
+1898-1899,4,1898-09-17,Preston,Everton,0,0,0.5
+1898-1899,5,1898-09-19,The Wednesday,Preston,2,1,1.0
+1898-1899,4,1898-09-24,Sunderland,Bolton,0,0,0.5
+1898-1899,4,1898-09-24,Aston Villa,Sheffield Utd,1,1,0.5
+1898-1899,4,1898-09-24,Wolves,Nott'ham Forest,0,2,0.0
+1898-1899,5,1898-09-24,Stoke,Newcastle Utd,0,0,0.5
+1898-1899,5,1898-09-24,The Wednesday,Derby County,3,1,1.0
+1898-1899,5,1898-09-24,Blackburn,West Brom,4,1,1.0
+1898-1899,5,1898-09-24,Bury,Burnley,1,1,0.5
+1898-1899,5,1898-09-24,Everton,Liverpool,1,2,0.0
+1898-1899,6,1898-09-24,Notts County,Preston,1,0,1.0
+1898-1899,5,1898-09-26,Sheffield Utd,Newcastle Utd,2,2,0.5
+1898-1899,5,1898-10-01,Newcastle Utd,Aston Villa,1,1,0.5
+1898-1899,5,1898-10-01,Liverpool,Notts County,0,0,0.5
+1898-1899,5,1898-10-01,Bolton,Wolves,2,1,1.0
+1898-1899,6,1898-10-01,West Brom,The Wednesday,2,0,1.0
+1898-1899,6,1898-10-01,Nott'ham Forest,Everton,0,0,0.5
+1898-1899,6,1898-10-01,Preston,Stoke,4,2,1.0
+1898-1899,6,1898-10-01,Blackburn,Bury,0,0,0.5
+1898-1899,6,1898-10-01,Sheffield Utd,Burnley,1,1,0.5
+1898-1899,6,1898-10-01,Derby County,Sunderland,4,2,1.0
+1898-1899,8,1898-10-03,The Wednesday,Sheffield Utd,1,1,0.5
+1898-1899,6,1898-10-06,Nott'ham Forest,Preston,2,2,0.5
+1898-1899,6,1898-10-08,Sunderland,West Brom,2,0,1.0
+1898-1899,6,1898-10-08,Aston Villa,Preston,4,2,1.0
+1898-1899,7,1898-10-08,Everton,Bolton,1,0,1.0
+1898-1899,7,1898-10-08,Stoke,Liverpool,2,1,1.0
+1898-1899,7,1898-10-08,Burnley,Newcastle Utd,2,1,1.0
+1898-1899,7,1898-10-08,Notts County,Nott'ham Forest,2,2,0.5
+1898-1899,7,1898-10-08,Wolves,Derby County,2,2,0.5
+1898-1899,7,1898-10-08,The Wednesday,Blackburn,1,2,0.0
+1898-1899,9,1898-10-08,Bury,Sheffield Utd,1,3,0.0
+1898-1899,7,1898-10-15,The Wednesday,Bury,3,2,1.0
+1898-1899,7,1898-10-15,West Brom,Wolves,1,2,0.0
+1898-1899,7,1898-10-15,Bolton,Notts County,0,1,0.0
+1898-1899,7,1898-10-15,Liverpool,Aston Villa,0,3,0.0
+1898-1899,8,1898-10-15,Blackburn,Sunderland,3,2,1.0
+1898-1899,8,1898-10-15,Newcastle Utd,Sheffield Utd,1,2,0.0
+1898-1899,8,1898-10-15,Nott'ham Forest,Stoke,2,1,1.0
+1898-1899,8,1898-10-15,Derby County,Everton,5,5,0.5
+1898-1899,8,1898-10-15,Preston,Burnley,1,1,0.5
+1898-1899,8,1898-10-22,Aston Villa,Nott'ham Forest,3,0,1.0
+1898-1899,9,1898-10-22,Notts County,Derby County,2,2,0.5
+1898-1899,9,1898-10-22,Everton,West Brom,1,0,1.0
+1898-1899,9,1898-10-22,Bury,Newcastle Utd,1,1,0.5
+1898-1899,9,1898-10-22,Wolves,Blackburn,2,1,1.0
+1898-1899,9,1898-10-22,Burnley,Liverpool,2,1,1.0
+1898-1899,9,1898-10-22,Stoke,Bolton,2,3,0.0
+1898-1899,10,1898-10-22,Sunderland,The Wednesday,2,0,1.0
+1898-1899,11,1898-10-22,Sheffield Utd,Preston,1,1,0.5
+1898-1899,9,1898-10-29,Aston Villa,Bolton,2,1,1.0
+1898-1899,9,1898-10-29,West Brom,Notts County,2,0,1.0
+1898-1899,9,1898-10-29,Sunderland,Bury,3,0,1.0
+1898-1899,9,1898-10-29,Liverpool,Sheffield Utd,2,1,1.0
+1898-1899,10,1898-10-29,Derby County,Stoke,1,1,0.5
+1898-1899,10,1898-10-29,Preston,Newcastle Utd,1,0,1.0
+1898-1899,10,1898-10-29,Blackburn,Everton,1,3,0.0
+1898-1899,10,1898-10-29,Nott'ham Forest,Burnley,0,1,0.0
+1898-1899,11,1898-10-29,The Wednesday,Wolves,3,0,1.0
+1898-1899,10,1898-11-05,Burnley,Bolton,2,0,1.0
+1898-1899,10,1898-11-05,Aston Villa,Derby County,7,1,1.0
+1898-1899,10,1898-11-05,Wolves,Sunderland,2,0,1.0
+1898-1899,10,1898-11-05,Newcastle Utd,Liverpool,3,0,1.0
+1898-1899,11,1898-11-05,Notts County,Blackburn,5,3,1.0
+1898-1899,11,1898-11-05,Stoke,West Brom,2,1,1.0
+1898-1899,11,1898-11-05,Everton,The Wednesday,2,0,1.0
+1898-1899,11,1898-11-05,Sheffield Utd,Nott'ham Forest,2,2,0.5
+1898-1899,13,1898-11-05,Bury,Preston,3,1,1.0
+1898-1899,12,1898-11-07,West Brom,Everton,3,0,1.0
+1898-1899,11,1898-11-12,The Wednesday,Notts County,1,1,0.5
+1898-1899,11,1898-11-12,West Brom,Aston Villa,0,1,0.0
+1898-1899,11,1898-11-12,Liverpool,Preston,3,1,1.0
+1898-1899,11,1898-11-12,Bolton,Sheffield Utd,3,0,1.0
+1898-1899,11,1898-11-12,Wolves,Bury,1,2,0.0
+1898-1899,12,1898-11-12,Blackburn,Stoke,4,1,1.0
+1898-1899,12,1898-11-12,Nott'ham Forest,Newcastle Utd,2,0,1.0
+1898-1899,12,1898-11-12,Derby County,Burnley,2,1,1.0
+1898-1899,13,1898-11-12,Sunderland,Everton,2,1,1.0
+1898-1899,13,1898-11-14,Stoke,Preston,2,1,1.0
+1898-1899,12,1898-11-19,Notts County,Sunderland,5,2,1.0
+1898-1899,12,1898-11-19,Aston Villa,Blackburn,3,1,1.0
+1898-1899,12,1898-11-19,Newcastle Utd,Bolton,4,1,1.0
+1898-1899,12,1898-11-19,Bury,Liverpool,3,0,1.0
+1898-1899,13,1898-11-19,Preston,Nott'ham Forest,1,0,1.0
+1898-1899,13,1898-11-19,Sheffield Utd,Derby County,2,1,1.0
+1898-1899,13,1898-11-19,Burnley,West Brom,1,1,0.5
+1898-1899,14,1898-11-19,Stoke,The Wednesday,1,0,1.0
+1898-1899,14,1898-11-19,Everton,Wolves,2,1,1.0
+1898-1899,13,1898-11-26,Wolves,Notts County,1,0,1.0
+1898-1899,13,1898-11-26,Nott'ham Forest,Liverpool,0,3,0.0
+1898-1899,13,1898-11-26,Bolton,Preston,2,2,0.5
+1898-1899,14,1898-11-26,Derby County,Newcastle Utd,3,1,1.0
+1898-1899,14,1898-11-26,Burnley,Blackburn,2,0,1.0
+1898-1899,15,1898-11-26,Everton,Bury,0,1,0.0
+1898-1899,15,1898-11-26,Sunderland,Stoke,2,0,1.0
+1898-1899,16,1898-11-26,West Brom,Sheffield Utd,3,0,1.0
+1898-1899,13,1898-12-03,Aston Villa,Sunderland,2,0,1.0
+1898-1899,14,1898-12-03,Liverpool,Bolton,2,0,1.0
+1898-1899,15,1898-12-03,Preston,Derby County,3,1,1.0
+1898-1899,15,1898-12-03,Bury,Nott'ham Forest,2,0,1.0
+1898-1899,15,1898-12-03,Newcastle Utd,West Brom,3,0,1.0
+1898-1899,15,1898-12-03,Burnley,The Wednesday,5,0,1.0
+1898-1899,16,1898-12-03,Notts County,Everton,0,1,0.0
+1898-1899,16,1898-12-03,Stoke,Wolves,2,4,0.0
+1898-1899,17,1898-12-03,Sheffield Utd,Blackburn,1,1,0.5
+1898-1899,14,1898-12-10,Aston Villa,Wolves,1,1,0.5
+1898-1899,15,1898-12-10,Bolton,Nott'ham Forest,0,2,0.0
+1898-1899,15,1898-12-10,Notts County,Bury,4,1,1.0
+1898-1899,16,1898-12-10,Blackburn,Newcastle Utd,4,2,1.0
+1898-1899,16,1898-12-10,Derby County,Liverpool,1,0,1.0
+1898-1899,16,1898-12-10,Sunderland,Burnley,0,1,0.0
+1898-1899,17,1898-12-10,Everton,Stoke,2,0,1.0
+1898-1899,19,1898-12-10,West Brom,Preston,2,0,1.0
+1898-1899,16,1898-12-17,Liverpool,West Brom,2,2,0.5
+1898-1899,16,1898-12-17,Bolton,Bury,0,1,0.0
+1898-1899,17,1898-12-17,Nott'ham Forest,Derby County,3,3,0.5
+1898-1899,17,1898-12-17,Burnley,Wolves,4,2,1.0
+1898-1899,17,1898-12-17,Newcastle Utd,The Wednesday,2,2,0.5
+1898-1899,18,1898-12-17,Aston Villa,Everton,3,0,1.0
+1898-1899,18,1898-12-17,Sheffield Utd,Sunderland,2,0,1.0
+1898-1899,18,1898-12-17,Stoke,Notts County,1,1,0.5
+1898-1899,20,1898-12-17,Preston,Blackburn,1,1,0.5
+1898-1899,16,1898-12-24,Notts County,Aston Villa,1,0,1.0
+1898-1899,17,1898-12-24,Blackburn,Liverpool,1,3,0.0
+1898-1899,18,1898-12-24,West Brom,Nott'ham Forest,2,0,1.0
+1898-1899,18,1898-12-24,Sunderland,Newcastle Utd,2,3,0.0
+1898-1899,19,1898-12-24,Everton,Burnley,4,0,1.0
+1898-1899,19,1898-12-24,Bury,Stoke,5,2,1.0
+1898-1899,19,1898-12-24,Wolves,Sheffield Utd,4,1,1.0
+1898-1899,17,1898-12-26,Aston Villa,Newcastle Utd,1,0,1.0
+1898-1899,17,1898-12-26,Derby County,Bolton,1,1,0.5
+1898-1899,18,1898-12-26,West Brom,Liverpool,0,1,0.0
+1898-1899,19,1898-12-26,Blackburn,Burnley,0,2,0.0
+1898-1899,20,1898-12-26,Sheffield Utd,The Wednesday,2,1,1.0
+1898-1899,20,1898-12-26,Stoke,Nott'ham Forest,2,1,1.0
+1898-1899,21,1898-12-26,Preston,Bury,3,1,1.0
+1898-1899,19,1898-12-27,Notts County,Liverpool,1,1,0.5
+1898-1899,20,1898-12-27,Wolves,West Brom,5,1,1.0
+1898-1899,18,1898-12-31,West Brom,Bolton,1,0,1.0
+1898-1899,19,1898-12-31,Bury,Derby County,0,0,0.5
+1898-1899,20,1898-12-31,The Wednesday,Liverpool,0,3,0.0
+1898-1899,20,1898-12-31,Wolves,Newcastle Utd,0,0,0.5
+1898-1899,20,1898-12-31,Notts County,Burnley,2,2,0.5
+1898-1899,20,1898-12-31,Everton,Sheffield Utd,1,0,1.0
+1898-1899,20,1898-12-31,Blackburn,Nott'ham Forest,3,3,0.5
+1898-1899,21,1898-12-31,Stoke,Aston Villa,3,0,1.0
+1898-1899,22,1898-12-31,Sunderland,Preston,1,0,1.0
+1898-1899,20,1899-01-02,Sunderland,Derby County,1,0,1.0
+1898-1899,20,1899-01-02,Bury,The Wednesday,0,0,0.5
+1898-1899,21,1899-01-02,Blackburn,Notts County,6,0,1.0
+1898-1899,21,1899-01-02,Everton,Nott'ham Forest,1,3,0.0
+1898-1899,21,1899-01-02,Sheffield Utd,Liverpool,0,2,0.0
+1898-1899,19,1899-01-03,Bolton,Burnley,2,0,1.0
+1898-1899,19,1899-01-07,Aston Villa,Bury,3,2,1.0
+1898-1899,20,1899-01-07,Bolton,Blackburn,0,2,0.0
+1898-1899,21,1899-01-07,Derby County,West Brom,4,1,1.0
+1898-1899,22,1899-01-07,Newcastle Utd,Everton,2,2,0.5
+1898-1899,22,1899-01-07,Nott'ham Forest,The Wednesday,1,1,0.5
+1898-1899,22,1899-01-07,Liverpool,Sunderland,0,0,0.5
+1898-1899,23,1899-01-07,Sheffield Utd,Notts County,2,2,0.5
+1898-1899,23,1899-01-07,Preston,Wolves,2,1,1.0
+1898-1899,20,1899-01-14,Aston Villa,Burnley,4,0,1.0
+1898-1899,21,1899-01-14,The Wednesday,Bolton,1,0,1.0
+1898-1899,22,1899-01-14,Notts County,Newcastle Utd,3,1,1.0
+1898-1899,22,1899-01-14,Stoke,Sheffield Utd,4,1,1.0
+1898-1899,22,1899-01-14,Blackburn,Derby County,3,0,1.0
+1898-1899,22,1899-01-14,Bury,West Brom,1,1,0.5
+1898-1899,23,1899-01-14,Sunderland,Nott'ham Forest,1,1,0.5
+1898-1899,23,1899-01-14,Wolves,Liverpool,0,0,0.5
+1898-1899,23,1899-01-14,Everton,Preston,2,0,1.0
+1898-1899,21,1899-01-21,Sheffield Utd,Aston Villa,1,3,0.0
+1898-1899,22,1899-01-21,Bolton,Sunderland,6,1,1.0
+1898-1899,23,1899-01-21,Newcastle Utd,Stoke,3,0,1.0
+1898-1899,23,1899-01-21,Derby County,The Wednesday,9,0,1.0
+1898-1899,23,1899-01-21,Burnley,Bury,2,1,1.0
+1898-1899,24,1899-01-21,West Brom,Blackburn,6,2,1.0
+1898-1899,24,1899-01-21,Nott'ham Forest,Wolves,3,0,1.0
+1898-1899,24,1899-01-21,Liverpool,Everton,2,0,1.0
+1898-1899,22,1899-02-04,Preston,Aston Villa,2,0,1.0
+1898-1899,23,1899-02-04,West Brom,Sunderland,1,0,1.0
+1898-1899,24,1899-02-04,Derby County,Wolves,6,2,1.0
+1898-1899,24,1899-02-04,Newcastle Utd,Burnley,4,1,1.0
+1898-1899,24,1899-02-04,Liverpool,Stoke,1,0,1.0
+1898-1899,25,1899-02-04,Blackburn,The Wednesday,2,0,1.0
+1898-1899,25,1899-02-04,Nott'ham Forest,Notts County,0,0,0.5
+1898-1899,26,1899-02-04,Sheffield Utd,Bury,4,1,1.0
+1898-1899,24,1899-02-14,The Wednesday,West Brom,1,2,0.0
+1898-1899,26,1899-02-14,Bury,Blackburn,3,2,1.0
+1898-1899,23,1899-02-18,Nott'ham Forest,Aston Villa,1,0,1.0
+1898-1899,25,1899-02-18,The Wednesday,Sunderland,0,1,0.0
+1898-1899,25,1899-02-18,Derby County,Notts County,4,2,1.0
+1898-1899,25,1899-02-18,Bolton,Stoke,0,2,0.0
+1898-1899,25,1899-02-18,Newcastle Utd,Bury,2,0,1.0
+1898-1899,25,1899-02-18,Liverpool,Burnley,2,0,1.0
+1898-1899,26,1899-02-18,Preston,Sheffield Utd,1,0,1.0
+1898-1899,27,1899-02-18,Blackburn,Wolves,2,2,0.5
+1898-1899,25,1899-02-25,Bolton,Everton,2,4,0.0
+1898-1899,26,1899-02-25,Newcastle Utd,Preston,2,1,1.0
+1898-1899,26,1899-02-25,Wolves,The Wednesday,0,0,0.5
+1898-1899,24,1899-03-04,Derby County,Aston Villa,1,1,0.5
+1898-1899,25,1899-03-04,Sunderland,Wolves,3,0,1.0
+1898-1899,26,1899-03-04,The Wednesday,Everton,1,2,0.0
+1898-1899,26,1899-03-04,West Brom,Stoke,0,1,0.0
+1898-1899,27,1899-03-04,Nott'ham Forest,Sheffield Utd,2,1,1.0
+1898-1899,26,1899-03-06,Burnley,Nott'ham Forest,1,1,0.5
+1898-1899,25,1899-03-09,Notts County,West Brom,0,0,0.5
+1898-1899,25,1899-03-11,Sheffield Utd,Bolton,3,1,1.0
+1898-1899,26,1899-03-11,Notts County,The Wednesday,1,0,1.0
+1898-1899,27,1899-03-11,Newcastle Utd,Nott'ham Forest,0,1,0.0
+1898-1899,27,1899-03-11,Everton,Sunderland,0,0,0.5
+1898-1899,27,1899-03-11,Preston,Liverpool,1,2,0.0
+1898-1899,27,1899-03-11,Burnley,Derby County,2,1,1.0
+1898-1899,27,1899-03-11,Stoke,Blackburn,0,1,0.0
+1898-1899,25,1899-03-13,The Wednesday,Aston Villa,4,1,1.0
+1898-1899,27,1899-03-14,Bury,Wolves,0,2,0.0
+1898-1899,26,1899-03-18,Bolton,Newcastle Utd,0,0,0.5
+1898-1899,26,1899-03-18,Blackburn,Aston Villa,0,0,0.5
+1898-1899,27,1899-03-18,Sunderland,Notts County,1,1,0.5
+1898-1899,28,1899-03-18,Bury,Everton,3,1,1.0
+1898-1899,28,1899-03-18,West Brom,Burnley,0,1,0.0
+1898-1899,29,1899-03-20,Preston,Notts County,2,0,1.0
+1898-1899,27,1899-03-25,Aston Villa,The Wednesday,3,1,1.0
+1898-1899,28,1899-03-25,Newcastle Utd,Derby County,2,0,1.0
+1898-1899,28,1899-03-25,Stoke,Sunderland,1,0,1.0
+1898-1899,28,1899-03-25,Liverpool,Nott'ham Forest,0,1,0.0
+1898-1899,29,1899-03-25,Notts County,Wolves,0,2,0.0
+1898-1899,30,1899-03-25,Sheffield Utd,West Brom,5,0,1.0
+1898-1899,29,1899-03-27,The Wednesday,Stoke,1,3,0.0
+1898-1899,27,1899-03-31,Bolton,Derby County,2,1,1.0
+1898-1899,29,1899-03-31,Bury,Sunderland,1,2,0.0
+1898-1899,29,1899-03-31,Burnley,Sheffield Utd,1,0,1.0
+1898-1899,28,1899-04-01,Bolton,Liverpool,2,1,1.0
+1898-1899,28,1899-04-01,Sunderland,Aston Villa,4,2,1.0
+1898-1899,29,1899-04-01,Everton,Notts County,1,2,0.0
+1898-1899,30,1899-04-01,Derby County,Preston,1,0,1.0
+1898-1899,30,1899-04-01,West Brom,Newcastle Utd,2,0,1.0
+1898-1899,30,1899-04-01,The Wednesday,Burnley,1,0,1.0
+1898-1899,30,1899-04-01,Wolves,Stoke,3,2,1.0
+1898-1899,31,1899-04-01,Nott'ham Forest,Bury,1,2,0.0
+1898-1899,32,1899-04-01,Blackburn,Sheffield Utd,2,1,1.0
+1898-1899,29,1899-04-03,Notts County,Bolton,2,1,1.0
+1898-1899,29,1899-04-03,Wolves,Aston Villa,4,0,1.0
+1898-1899,30,1899-04-03,Liverpool,Newcastle Utd,3,2,1.0
+1898-1899,30,1899-04-03,Everton,Derby County,1,2,0.0
+1898-1899,31,1899-04-03,Sunderland,Blackburn,0,1,0.0
+1898-1899,30,1899-04-04,Wolves,Bolton,1,0,1.0
+1898-1899,31,1899-04-08,Bury,Notts County,2,0,1.0
+1898-1899,31,1899-04-08,Nott'ham Forest,Bolton,1,2,0.0
+1898-1899,31,1899-04-08,Stoke,Everton,2,1,1.0
+1898-1899,31,1899-04-08,Preston,West Brom,4,0,1.0
+1898-1899,31,1899-04-08,Burnley,Sunderland,1,0,1.0
+1898-1899,32,1899-04-08,Liverpool,Derby County,4,0,1.0
+1898-1899,32,1899-04-08,Newcastle Utd,Blackburn,1,0,1.0
+1898-1899,32,1899-04-15,Everton,Aston Villa,1,1,0.5
+1898-1899,32,1899-04-15,Blackburn,Preston,2,2,0.5
+1898-1899,32,1899-04-15,Notts County,Stoke,2,0,1.0
+1898-1899,32,1899-04-15,Wolves,Burnley,4,0,1.0
+1898-1899,32,1899-04-15,Bury,Bolton,3,1,1.0
+1898-1899,33,1899-04-15,The Wednesday,Newcastle Utd,1,3,0.0
+1898-1899,31,1899-04-17,Bolton,Aston Villa,0,0,0.5
+1898-1899,33,1899-04-17,Burnley,Stoke,1,1,0.5
+1898-1899,32,1899-04-20,Liverpool,Bury,1,0,1.0
+1898-1899,33,1899-04-20,Derby County,Nott'ham Forest,2,0,1.0
+1898-1899,32,1899-04-22,Aston Villa,Notts County,6,1,1.0
+1898-1899,33,1899-04-22,Liverpool,Blackburn,2,0,1.0
+1898-1899,33,1899-04-22,Preston,The Wednesday,1,1,0.5
+1898-1899,33,1899-04-22,Burnley,Everton,0,0,0.5
+1898-1899,34,1899-04-22,Stoke,Bury,1,1,0.5
+1898-1899,34,1899-04-22,Derby County,Sheffield Utd,1,0,1.0
+1898-1899,34,1899-04-22,Newcastle Utd,Sunderland,0,1,0.0
+1898-1899,34,1899-04-22,Nott'ham Forest,West Brom,3,0,1.0
+1898-1899,33,1899-04-24,Aston Villa,West Brom,7,1,1.0
+1898-1899,34,1899-04-29,Preston,Bolton,0,1,0.0
+1898-1899,34,1899-04-29,Aston Villa,Liverpool,5,0,1.0
+1898-1899,34,1899-04-29,Sunderland,Sheffield Utd,1,0,1.0
+1898-1899,34,1899-04-29,Wolves,Everton,1,2,0.0

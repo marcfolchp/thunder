@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,1,2020-08-08,FC Khimki,CSKA Moscow,0,2,0.0
+2020-2021,1,2020-08-08,Tambov,Rostov,0,1,0.0
+2020-2021,1,2020-08-09,Arsenal Tula,Akhmat Grozny,0,0,0.5
+2020-2021,1,2020-08-09,Ufa,Krasnodar,0,3,0.0
+2020-2021,1,2020-08-09,Spartak Moscow,Sochi,2,2,0.5
+2020-2021,1,2020-08-10,Ural,Dynamo Mosc,0,2,0.0
+2020-2021,1,2020-08-11,Rotor Volgograd,Zenit,0,2,0.0
+2020-2021,1,2020-08-11,Rubin Kazan,Loko Moscow,0,2,0.0
+2020-2021,2,2020-08-14,Arsenal Tula,Ufa,2,3,0.0
+2020-2021,2,2020-08-14,Sochi,FC Khimki,1,1,0.5
+2020-2021,2,2020-08-14,Spartak Moscow,Akhmat Grozny,2,0,1.0
+2020-2021,2,2020-08-15,Rubin Kazan,Ural,1,1,0.5
+2020-2021,2,2020-08-15,Dynamo Mosc,Rotor Volgograd,0,0,0.5
+2020-2021,2,2020-08-15,CSKA Moscow,Tambov,2,1,1.0
+2020-2021,2,2020-08-15,Loko Moscow,Krasnodar,1,0,1.0
+2020-2021,2,2020-08-15,Rostov,Zenit,0,2,0.0
+2020-2021,3,2020-08-18,Sochi,Rubin Kazan,3,2,1.0
+2020-2021,3,2020-08-18,Tambov,FC Khimki,1,0,1.0
+2020-2021,3,2020-08-18,Krasnodar,Arsenal Tula,2,0,1.0
+2020-2021,3,2020-08-19,Ufa,Spartak Moscow,1,1,0.5
+2020-2021,3,2020-08-19,Ural,Loko Moscow,1,1,0.5
+2020-2021,3,2020-08-19,Akhmat Grozny,Rotor Volgograd,3,1,1.0
+2020-2021,3,2020-08-19,Dynamo Mosc,Rostov,2,0,1.0
+2020-2021,3,2020-08-19,Zenit,CSKA Moscow,2,1,1.0
+2020-2021,4,2020-08-22,Ural,Krasnodar,1,0,1.0
+2020-2021,4,2020-08-22,FC Khimki,Akhmat Grozny,1,2,0.0
+2020-2021,4,2020-08-22,Arsenal Tula,Dynamo Mosc,2,0,1.0
+2020-2021,4,2020-08-22,Zenit,Tambov,4,1,1.0
+2020-2021,4,2020-08-22,CSKA Moscow,Rubin Kazan,1,2,0.0
+2020-2021,4,2020-08-22,Rotor Volgograd,Sochi,1,2,0.0
+2020-2021,4,2020-08-23,Ufa,Rostov,0,1,0.0
+2020-2021,4,2020-08-23,Spartak Moscow,Loko Moscow,2,1,1.0
+2020-2021,5,2020-08-25,Tambov,Sochi,0,1,0.0
+2020-2021,5,2020-08-25,Arsenal Tula,FC Khimki,1,1,0.5
+2020-2021,5,2020-08-26,Rubin Kazan,Ufa,3,0,1.0
+2020-2021,5,2020-08-26,Loko Moscow,Akhmat Grozny,2,3,0.0
+2020-2021,5,2020-08-26,Rotor Volgograd,Spartak Moscow,0,1,0.0
+2020-2021,5,2020-08-26,Krasnodar,CSKA Moscow,1,1,0.5
+2020-2021,5,2020-08-26,Rostov,Ural,1,0,1.0
+2020-2021,5,2020-08-26,Dynamo Mosc,Zenit,1,0,1.0
+2020-2021,6,2020-08-29,Spartak Moscow,Arsenal Tula,2,1,1.0
+2020-2021,6,2020-08-29,FC Khimki,Rotor Volgograd,1,1,0.5
+2020-2021,6,2020-08-30,Loko Moscow,Zenit,0,0,0.5
+2020-2021,6,2020-08-30,Ufa,Dynamo Mosc,1,1,0.5
+2020-2021,6,2020-08-30,Rubin Kazan,Tambov,2,2,0.5
+2020-2021,6,2020-08-30,Akhmat Grozny,CSKA Moscow,0,3,0.0
+2020-2021,6,2020-08-30,Krasnodar,Rostov,1,1,0.5
+2020-2021,6,2020-08-30,Sochi,Ural,0,0,0.5
+2020-2021,7,2020-09-12,Tambov,Ufa,2,0,1.0
+2020-2021,7,2020-09-12,Ural,FC Khimki,3,1,1.0
+2020-2021,7,2020-09-12,Akhmat Grozny,Sochi,0,1,0.0
+2020-2021,7,2020-09-13,Dynamo Mosc,Rubin Kazan,0,1,0.0
+2020-2021,7,2020-09-13,CSKA Moscow,Spartak Moscow,3,1,1.0
+2020-2021,7,2020-09-13,Rotor Volgograd,Krasnodar,0,3,0.0
+2020-2021,7,2020-09-14,Zenit,Arsenal Tula,3,1,1.0
+2020-2021,7,2020-09-14,Rostov,Loko Moscow,0,0,0.5
+2020-2021,8,2020-09-18,Krasnodar,FC Khimki,7,2,1.0
+2020-2021,8,2020-09-19,Ural,Zenit,1,1,0.5
+2020-2021,8,2020-09-19,Rostov,Rotor Volgograd,3,0,1.0
+2020-2021,8,2020-09-20,Arsenal Tula,Sochi,3,2,1.0
+2020-2021,8,2020-09-20,Ufa,CSKA Moscow,0,1,0.0
+2020-2021,8,2020-09-20,Rubin Kazan,Spartak Moscow,0,2,0.0
+2020-2021,8,2020-09-20,Loko Moscow,Tambov,1,0,1.0
+2020-2021,8,2020-09-21,Dynamo Mosc,Akhmat Grozny,1,0,1.0
+2020-2021,9,2020-09-26,Tambov,Spartak Moscow,0,2,0.0
+2020-2021,9,2020-09-26,Zenit,Ufa,6,0,1.0
+2020-2021,9,2020-09-26,Sochi,Krasnodar,1,1,0.5
+2020-2021,9,2020-09-27,Arsenal Tula,Rostov,2,3,0.0
+2020-2021,9,2020-09-27,Akhmat Grozny,Ural,2,0,1.0
+2020-2021,9,2020-09-27,CSKA Moscow,Loko Moscow,0,1,0.0
+2020-2021,9,2020-09-27,Rotor Volgograd,Rubin Kazan,1,3,0.0
+2020-2021,9,2020-09-28,FC Khimki,Dynamo Mosc,1,0,1.0
+2020-2021,10,2020-10-03,Ufa,Rotor Volgograd,0,0,0.5
+2020-2021,10,2020-10-03,Tambov,Arsenal Tula,1,1,0.5
+2020-2021,10,2020-10-03,Ural,CSKA Moscow,0,2,0.0
+2020-2021,10,2020-10-03,Spartak Moscow,Zenit,1,1,0.5
+2020-2021,10,2020-10-04,Loko Moscow,FC Khimki,2,1,1.0
+2020-2021,10,2020-10-04,Rubin Kazan,Akhmat Grozny,1,1,0.5
+2020-2021,10,2020-10-04,Sochi,Rostov,4,2,1.0
+2020-2021,10,2020-10-04,Dynamo Mosc,Krasnodar,2,0,1.0
+2020-2021,11,2020-10-17,Zenit,Sochi,3,1,1.0
+2020-2021,11,2020-10-17,Loko Moscow,Ufa,1,0,1.0
+2020-2021,11,2020-10-17,Krasnodar,Rubin Kazan,3,1,1.0
+2020-2021,11,2020-10-17,FC Khimki,Spartak Moscow,2,3,0.0
+2020-2021,11,2020-10-18,Arsenal Tula,Ural,1,0,1.0
+2020-2021,11,2020-10-18,Rotor Volgograd,Tambov,0,2,0.0
+2020-2021,11,2020-10-18,CSKA Moscow,Dynamo Mosc,3,1,1.0
+2020-2021,11,2020-10-18,Rostov,Akhmat Grozny,3,0,1.0
+2020-2021,12,2020-10-24,Dynamo Mosc,Sochi,3,1,1.0
+2020-2021,12,2020-10-24,Zenit,Rubin Kazan,1,2,0.0
+2020-2021,12,2020-10-24,Loko Moscow,Rotor Volgograd,1,2,0.0
+2020-2021,12,2020-10-24,Krasnodar,Spartak Moscow,1,3,0.0
+2020-2021,12,2020-10-25,Ural,Tambov,0,0,0.5
+2020-2021,12,2020-10-25,Rostov,FC Khimki,0,2,0.0
+2020-2021,12,2020-10-25,Akhmat Grozny,Ufa,3,1,1.0
+2020-2021,12,2020-10-26,CSKA Moscow,Arsenal Tula,5,1,1.0
+2020-2021,13,2020-10-31,Rubin Kazan,Arsenal Tula,3,1,1.0
+2020-2021,13,2020-10-31,Spartak Moscow,Rostov,0,1,0.0
+2020-2021,13,2020-10-31,Akhmat Grozny,Krasnodar,2,0,1.0
+2020-2021,13,2020-10-31,Sochi,Loko Moscow,2,1,1.0
+2020-2021,13,2020-11-01,FC Khimki,Zenit,0,2,0.0
+2020-2021,13,2020-11-01,Ufa,Ural,1,2,0.0
+2020-2021,13,2020-11-01,Rotor Volgograd,CSKA Moscow,0,1,0.0
+2020-2021,13,2020-11-01,Tambov,Dynamo Mosc,1,2,0.0
+2020-2021,14,2020-11-06,Sochi,Ufa,1,1,0.5
+2020-2021,14,2020-11-07,Ural,Spartak Moscow,2,2,0.5
+2020-2021,14,2020-11-07,Arsenal Tula,Rotor Volgograd,1,1,0.5
+2020-2021,14,2020-11-07,Tambov,Akhmat Grozny,0,1,0.0
+2020-2021,14,2020-11-08,FC Khimki,Rubin Kazan,2,0,1.0
+2020-2021,14,2020-11-08,CSKA Moscow,Rostov,2,0,1.0
+2020-2021,14,2020-11-08,Zenit,Krasnodar,3,1,1.0
+2020-2021,14,2020-11-08,Dynamo Mosc,Loko Moscow,5,1,1.0
+2020-2021,15,2020-11-21,Krasnodar,Tambov,1,0,1.0
+2020-2021,15,2020-11-21,Akhmat Grozny,Zenit,2,2,0.5
+2020-2021,15,2020-11-21,Loko Moscow,Arsenal Tula,1,0,1.0
+2020-2021,15,2020-11-21,Spartak Moscow,Dynamo Mosc,1,1,0.5
+2020-2021,15,2020-11-22,CSKA Moscow,Sochi,1,1,0.5
+2020-2021,15,2020-11-22,Rotor Volgograd,Ural,0,0,0.5
+2020-2021,15,2020-11-22,Rubin Kazan,Rostov,0,2,0.0
+2020-2021,15,2020-11-23,Ufa,FC Khimki,1,2,0.0
+2020-2021,16,2020-11-28,Arsenal Tula,Zenit,0,0,0.5
+2020-2021,16,2020-11-28,FC Khimki,Krasnodar,1,0,1.0
+2020-2021,16,2020-11-28,Rostov,Dynamo Mosc,4,1,1.0
+2020-2021,16,2020-11-28,Akhmat Grozny,Loko Moscow,0,0,0.5
+2020-2021,16,2020-11-29,Ural,Sochi,1,0,1.0
+2020-2021,16,2020-11-29,Ufa,Tambov,4,0,1.0
+2020-2021,16,2020-11-29,Rubin Kazan,CSKA Moscow,1,0,1.0
+2020-2021,16,2020-11-29,Spartak Moscow,Rotor Volgograd,2,0,1.0
+2020-2021,17,2020-12-05,Loko Moscow,Rubin Kazan,3,1,1.0
+2020-2021,17,2020-12-05,Spartak Moscow,Tambov,5,1,1.0
+2020-2021,17,2020-12-05,Zenit,Ural,5,1,1.0
+2020-2021,17,2020-12-05,Krasnodar,Rotor Volgograd,5,0,1.0
+2020-2021,17,2020-12-06,Rostov,Ufa,0,1,0.0
+2020-2021,17,2020-12-06,Dynamo Mosc,Arsenal Tula,1,0,1.0
+2020-2021,17,2020-12-06,CSKA Moscow,FC Khimki,2,2,0.5
+2020-2021,17,2020-12-07,Sochi,Akhmat Grozny,2,0,1.0
+2020-2021,18,2020-12-11,FC Khimki,Arsenal Tula,1,0,1.0
+2020-2021,18,2020-12-12,Rotor Volgograd,Ufa,1,0,1.0
+2020-2021,18,2020-12-12,Sochi,Spartak Moscow,1,0,1.0
+2020-2021,18,2020-12-12,Zenit,Dynamo Mosc,3,1,1.0
+2020-2021,18,2020-12-13,Tambov,Rubin Kazan,0,1,0.0
+2020-2021,18,2020-12-13,Krasnodar,Loko Moscow,5,0,1.0
+2020-2021,18,2020-12-13,CSKA Moscow,Ural,2,2,0.5
+2020-2021,18,2020-12-13,Akhmat Grozny,Rostov,0,1,0.0
+2020-2021,19,2020-12-16,Sochi,Dynamo Mosc,2,0,1.0
+2020-2021,19,2020-12-16,Rotor Volgograd,Arsenal Tula,1,0,1.0
+2020-2021,19,2020-12-16,Zenit,Spartak Moscow,3,1,1.0
+2020-2021,19,2020-12-17,FC Khimki,Loko Moscow,3,2,1.0
+2020-2021,19,2020-12-17,Krasnodar,Ufa,1,0,1.0
+2020-2021,19,2020-12-17,Rostov,CSKA Moscow,1,3,0.0
+2020-2021,19,2020-12-17,Akhmat Grozny,Rubin Kazan,0,0,0.5
+2020-2021,19,2020-12-18,Tambov,Ural,1,1,0.5
+2020-2021,20,2021-02-26,Tambov,Rotor Volgograd,1,3,0.0
+2020-2021,20,2021-02-27,FC Khimki,Ufa,2,1,1.0
+2020-2021,20,2021-02-27,Zenit,Rostov,2,2,0.5
+2020-2021,20,2021-02-27,Loko Moscow,CSKA Moscow,2,0,1.0
+2020-2021,20,2021-02-27,Sochi,Arsenal Tula,4,0,1.0
+2020-2021,20,2021-02-28,Spartak Moscow,Rubin Kazan,0,2,0.0
+2020-2021,20,2021-02-28,Akhmat Grozny,Dynamo Mosc,1,2,0.0
+2020-2021,20,2021-02-28,Krasnodar,Ural,2,2,0.5
+2020-2021,21,2021-03-06,CSKA Moscow,Akhmat Grozny,2,0,1.0
+2020-2021,21,2021-03-06,Rotor Volgograd,FC Khimki,0,0,0.5
+2020-2021,21,2021-03-06,Rostov,Sochi,0,0,0.5
+2020-2021,21,2021-03-07,Ural,Ufa,0,0,0.5
+2020-2021,21,2021-03-07,Dynamo Mosc,Tambov,2,0,1.0
+2020-2021,21,2021-03-07,Spartak Moscow,Krasnodar,6,1,1.0
+2020-2021,21,2021-03-08,Arsenal Tula,Loko Moscow,0,3,0.0
+2020-2021,21,2021-03-08,Rubin Kazan,Zenit,2,1,1.0
+2020-2021,22,2021-03-12,FC Khimki,Rostov,1,0,1.0
+2020-2021,22,2021-03-13,Ural,Rotor Volgograd,1,0,1.0
+2020-2021,22,2021-03-13,Arsenal Tula,CSKA Moscow,2,1,1.0
+2020-2021,22,2021-03-13,Zenit,Akhmat Grozny,4,0,1.0
+2020-2021,22,2021-03-13,Dynamo Mosc,Spartak Moscow,1,2,0.0
+2020-2021,22,2021-03-14,Ufa,Rubin Kazan,0,3,0.0
+2020-2021,22,2021-03-14,Tambov,Krasnodar,0,4,0.0
+2020-2021,22,2021-03-14,Loko Moscow,Sochi,3,1,1.0
+2020-2021,23,2021-03-17,Rotor Volgograd,Rostov,0,4,0.0
+2020-2021,23,2021-03-17,Akhmat Grozny,Arsenal Tula,2,0,1.0
+2020-2021,23,2021-03-17,CSKA Moscow,Zenit,2,3,0.0
+2020-2021,23,2021-03-18,Krasnodar,Dynamo Mosc,2,3,0.0
+2020-2021,23,2021-03-18,Ufa,Loko Moscow,0,1,0.0
+2020-2021,23,2021-03-18,Spartak Moscow,Ural,5,1,1.0
+2020-2021,23,2021-03-19,Rubin Kazan,FC Khimki,1,3,0.0
+2020-2021,23,2021-03-19,Sochi,Tambov,5,0,1.0
+2020-2021,24,2021-04-03,Rotor Volgograd,Loko Moscow,0,2,0.0
+2020-2021,24,2021-04-03,Rubin Kazan,Sochi,1,0,1.0
+2020-2021,24,2021-04-03,Krasnodar,Akhmat Grozny,0,5,0.0
+2020-2021,24,2021-04-03,Dynamo Mosc,Ufa,4,0,1.0
+2020-2021,24,2021-04-04,Ural,Arsenal Tula,2,0,1.0
+2020-2021,24,2021-04-04,Tambov,CSKA Moscow,1,2,0.0
+2020-2021,24,2021-04-04,Rostov,Spartak Moscow,2,3,0.0
+2020-2021,24,2021-04-05,Zenit,FC Khimki,2,0,1.0
+2020-2021,25,2021-04-10,FC Khimki,Tambov,1,0,1.0
+2020-2021,25,2021-04-10,Ufa,Akhmat Grozny,3,0,1.0
+2020-2021,25,2021-04-10,Rostov,Rubin Kazan,0,1,0.0
+2020-2021,25,2021-04-11,Arsenal Tula,Krasnodar,1,0,1.0
+2020-2021,25,2021-04-11,Dynamo Mosc,Ural,2,2,0.5
+2020-2021,25,2021-04-11,Sochi,Zenit,1,2,0.0
+2020-2021,25,2021-04-11,Loko Moscow,Spartak Moscow,2,0,1.0
+2020-2021,25,2021-04-12,CSKA Moscow,Rotor Volgograd,2,0,1.0
+2020-2021,26,2021-04-17,Akhmat Grozny,FC Khimki,3,1,1.0
+2020-2021,26,2021-04-17,Loko Moscow,Rostov,4,1,1.0
+2020-2021,26,2021-04-17,Rotor Volgograd,Dynamo Mosc,0,3,0.0
+2020-2021,26,2021-04-17,Krasnodar,Zenit,2,2,0.5
+2020-2021,26,2021-04-18,Ural,Rubin Kazan,0,1,0.0
+2020-2021,26,2021-04-18,Arsenal Tula,Tambov,4,0,1.0
+2020-2021,26,2021-04-18,Sochi,CSKA Moscow,2,1,1.0
+2020-2021,26,2021-04-18,Spartak Moscow,Ufa,0,3,0.0
+2020-2021,27,2021-04-24,Ural,Akhmat Grozny,1,1,0.5
+2020-2021,27,2021-04-24,Zenit,Rotor Volgograd,6,0,1.0
+2020-2021,27,2021-04-24,Tambov,Loko Moscow,2,5,0.0
+2020-2021,27,2021-04-24,Dynamo Mosc,FC Khimki,0,1,0.0
+2020-2021,27,2021-04-25,Ufa,Sochi,2,3,0.0
+2020-2021,27,2021-04-25,Spartak Moscow,CSKA Moscow,1,0,1.0
+2020-2021,27,2021-04-25,Rostov,Arsenal Tula,1,0,1.0
+2020-2021,27,2021-04-25,Rubin Kazan,Krasnodar,0,1,0.0
+2020-2021,28,2021-05-01,Rubin Kazan,Dynamo Mosc,2,0,1.0
+2020-2021,28,2021-05-01,Rotor Volgograd,Akhmat Grozny,1,0,1.0
+2020-2021,28,2021-05-01,CSKA Moscow,Ufa,1,1,0.5
+2020-2021,28,2021-05-01,Krasnodar,Sochi,1,3,0.0
+2020-2021,28,2021-05-02,FC Khimki,Ural,1,0,1.0
+2020-2021,28,2021-05-02,Rostov,Tambov,2,0,1.0
+2020-2021,28,2021-05-02,Zenit,Loko Moscow,6,1,1.0
+2020-2021,28,2021-05-03,Arsenal Tula,Spartak Moscow,1,2,0.0
+2020-2021,29,2021-05-07,Akhmat Grozny,Tambov,3,1,1.0
+2020-2021,29,2021-05-07,Sochi,Rotor Volgograd,2,1,1.0
+2020-2021,29,2021-05-08,Ufa,Zenit,0,0,0.5
+2020-2021,29,2021-05-08,Loko Moscow,Dynamo Mosc,0,0,0.5
+2020-2021,29,2021-05-08,Arsenal Tula,Rubin Kazan,2,4,0.0
+2020-2021,29,2021-05-08,CSKA Moscow,Krasnodar,3,1,1.0
+2020-2021,29,2021-05-10,Ural,Rostov,1,0,1.0
+2020-2021,29,2021-05-10,Spartak Moscow,FC Khimki,2,1,1.0
+2020-2021,30,2021-05-16,Rostov,Krasnodar,1,3,0.0
+2020-2021,30,2021-05-16,Dynamo Mosc,CSKA Moscow,3,2,1.0
+2020-2021,30,2021-05-16,Tambov,Zenit,1,5,0.0
+2020-2021,30,2021-05-16,Loko Moscow,Ural,1,0,1.0
+2020-2021,30,2021-05-16,Akhmat Grozny,Spartak Moscow,2,2,0.5
+2020-2021,30,2021-05-16,FC Khimki,Sochi,0,0,0.5
+2020-2021,30,2021-05-16,Rubin Kazan,Rotor Volgograd,1,1,0.5
+2020-2021,30,2021-05-16,Ufa,Arsenal Tula,2,1,1.0

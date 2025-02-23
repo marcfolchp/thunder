@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1961-1962,1,1961-08-19,Manchester City,Leicester City,3,1,1.0
+1961-1962,1,1961-08-19,Everton,Aston Villa,2,0,1.0
+1961-1962,1,1961-08-19,Arsenal,Burnley,2,2,0.5
+1961-1962,1,1961-08-19,Chelsea,Nott'ham Forest,2,2,0.5
+1961-1962,1,1961-08-19,West Ham,Manchester Utd,1,1,0.5
+1961-1962,1,1961-08-19,Birmingham City,Fulham,2,1,1.0
+1961-1962,1,1961-08-19,Blackburn,Cardiff City,0,0,0.5
+1961-1962,1,1961-08-19,Sheffield Utd,Wolves,2,1,1.0
+1961-1962,1,1961-08-19,West Brom,Sheffield Weds,0,2,0.0
+1961-1962,1,1961-08-19,Bolton,Ipswich Town,0,0,0.5
+1961-1962,1,1961-08-19,Blackpool,Tottenham,1,2,0.0
+1961-1962,2,1961-08-21,Blackpool,Blackburn,2,1,1.0
+1961-1962,2,1961-08-22,Nott'ham Forest,Birmingham City,2,1,1.0
+1961-1962,2,1961-08-22,Burnley,Ipswich Town,4,3,1.0
+1961-1962,2,1961-08-23,Tottenham,West Ham,2,2,0.5
+1961-1962,2,1961-08-23,Manchester Utd,Chelsea,3,2,1.0
+1961-1962,2,1961-08-23,Sheffield Weds,Bolton,4,2,1.0
+1961-1962,2,1961-08-23,Leicester City,Arsenal,0,1,0.0
+1961-1962,2,1961-08-23,Cardiff City,Sheffield Utd,1,1,0.5
+1961-1962,2,1961-08-23,Fulham,Manchester City,3,4,0.0
+1961-1962,2,1961-08-23,West Brom,Everton,2,0,1.0
+1961-1962,3,1961-08-26,Cardiff City,Blackpool,3,2,1.0
+1961-1962,3,1961-08-26,Sheffield Weds,Birmingham City,5,1,1.0
+1961-1962,3,1961-08-26,Fulham,Everton,2,1,1.0
+1961-1962,3,1961-08-26,Burnley,Bolton,3,1,1.0
+1961-1962,3,1961-08-26,Aston Villa,Chelsea,3,1,1.0
+1961-1962,3,1961-08-26,Nott'ham Forest,Sheffield Utd,2,0,1.0
+1961-1962,3,1961-08-26,Manchester Utd,Blackburn,6,1,1.0
+1961-1962,3,1961-08-26,Leicester City,West Brom,1,0,1.0
+1961-1962,3,1961-08-26,Tottenham,Arsenal,4,3,1.0
+1961-1962,3,1961-08-26,Wolves,West Ham,3,2,1.0
+1961-1962,3,1961-08-26,Ipswich Town,Manchester City,2,4,0.0
+1961-1962,4,1961-08-28,Wolves,Aston Villa,2,2,0.5
+1961-1962,4,1961-08-28,Sheffield Utd,Cardiff City,1,0,1.0
+1961-1962,4,1961-08-28,Blackburn,Blackpool,1,1,0.5
+1961-1962,4,1961-08-28,West Ham,Tottenham,2,1,1.0
+1961-1962,4,1961-08-29,Ipswich Town,Burnley,6,2,1.0
+1961-1962,4,1961-08-29,Arsenal,Leicester City,4,4,0.5
+1961-1962,4,1961-08-30,Everton,West Brom,3,1,1.0
+1961-1962,4,1961-08-30,Bolton,Sheffield Weds,4,3,1.0
+1961-1962,4,1961-08-30,Manchester City,Fulham,2,1,1.0
+1961-1962,4,1961-08-30,Birmingham City,Nott'ham Forest,1,1,0.5
+1961-1962,4,1961-08-30,Chelsea,Manchester Utd,2,0,1.0
+1961-1962,5,1961-09-02,West Ham,Nott'ham Forest,3,2,1.0
+1961-1962,5,1961-09-02,Everton,Sheffield Weds,0,4,0.0
+1961-1962,5,1961-09-02,Sheffield Utd,Aston Villa,0,2,0.0
+1961-1962,5,1961-09-02,Chelsea,Fulham,0,0,0.5
+1961-1962,5,1961-09-02,Birmingham City,Leicester City,1,5,0.0
+1961-1962,5,1961-09-02,Bolton,Arsenal,2,1,1.0
+1961-1962,5,1961-09-02,Blackburn,Wolves,2,1,1.0
+1961-1962,5,1961-09-02,Blackpool,Manchester Utd,2,3,0.0
+1961-1962,5,1961-09-02,West Brom,Ipswich Town,1,3,0.0
+1961-1962,5,1961-09-02,Manchester City,Burnley,1,3,0.0
+1961-1962,5,1961-09-02,Tottenham,Cardiff City,3,2,1.0
+1961-1962,6,1961-09-04,Blackpool,West Ham,2,0,1.0
+1961-1962,6,1961-09-04,Sheffield Utd,Tottenham,1,1,0.5
+1961-1962,6,1961-09-05,Ipswich Town,Blackburn,2,1,1.0
+1961-1962,6,1961-09-05,Burnley,Leicester City,2,0,1.0
+1961-1962,6,1961-09-06,Fulham,Bolton,2,2,0.5
+1961-1962,6,1961-09-06,Everton,Manchester City,0,2,0.0
+1961-1962,6,1961-09-06,Cardiff City,Chelsea,5,2,1.0
+1961-1962,6,1961-09-06,West Brom,Birmingham City,0,0,0.5
+1961-1962,7,1961-09-09,Leicester City,Everton,2,0,1.0
+1961-1962,7,1961-09-09,Manchester Utd,Tottenham,1,0,1.0
+1961-1962,7,1961-09-09,Ipswich Town,Birmingham City,4,1,1.0
+1961-1962,7,1961-09-09,Chelsea,Sheffield Utd,6,1,1.0
+1961-1962,7,1961-09-09,Nott'ham Forest,Blackburn,1,2,0.0
+1961-1962,7,1961-09-09,Cardiff City,Bolton,1,2,0.0
+1961-1962,7,1961-09-09,Sheffield Weds,Fulham,1,1,0.5
+1961-1962,7,1961-09-09,Aston Villa,West Ham,2,4,0.0
+1961-1962,7,1961-09-09,Wolves,Blackpool,2,2,0.5
+1961-1962,7,1961-09-09,Arsenal,Manchester City,3,0,1.0
+1961-1962,7,1961-09-09,Burnley,West Brom,3,1,1.0
+1961-1962,8,1961-09-16,Blackpool,Nott'ham Forest,1,3,0.0
+1961-1962,8,1961-09-16,Manchester City,Bolton,2,1,1.0
+1961-1962,8,1961-09-16,Cardiff City,Manchester Utd,1,2,0.0
+1961-1962,8,1961-09-16,Tottenham,Wolves,1,0,1.0
+1961-1962,8,1961-09-16,Blackburn,Aston Villa,4,2,1.0
+1961-1962,8,1961-09-16,Fulham,Leicester City,2,1,1.0
+1961-1962,8,1961-09-16,Sheffield Utd,Sheffield Weds,1,0,1.0
+1961-1962,8,1961-09-16,Everton,Ipswich Town,5,2,1.0
+1961-1962,8,1961-09-16,Birmingham City,Burnley,2,6,0.0
+1961-1962,8,1961-09-16,West Brom,Arsenal,4,0,1.0
+1961-1962,8,1961-09-16,West Ham,Chelsea,2,1,1.0
+1961-1962,9,1961-09-18,Aston Villa,Manchester Utd,1,1,0.5
+1961-1962,9,1961-09-18,Blackburn,Ipswich Town,2,2,0.5
+1961-1962,9,1961-09-18,West Ham,Blackpool,2,2,0.5
+1961-1962,9,1961-09-19,Nott'ham Forest,Wolves,3,1,1.0
+1961-1962,9,1961-09-20,Sheffield Weds,Arsenal,1,1,0.5
+1961-1962,9,1961-09-20,Manchester City,Everton,1,3,0.0
+1961-1962,9,1961-09-20,Leicester City,Burnley,2,6,0.0
+1961-1962,9,1961-09-20,Chelsea,Cardiff City,2,3,0.0
+1961-1962,9,1961-09-20,Bolton,Fulham,2,3,0.0
+1961-1962,9,1961-09-20,Birmingham City,West Brom,1,2,0.0
+1961-1962,10,1961-09-23,Manchester Utd,Manchester City,3,2,1.0
+1961-1962,10,1961-09-23,Aston Villa,Blackpool,5,0,1.0
+1961-1962,10,1961-09-23,Chelsea,Blackburn,1,1,0.5
+1961-1962,10,1961-09-23,Arsenal,Birmingham City,1,1,0.5
+1961-1962,10,1961-09-23,Burnley,Everton,2,1,1.0
+1961-1962,10,1961-09-23,Wolves,Cardiff City,1,1,0.5
+1961-1962,10,1961-09-23,Ipswich Town,Fulham,2,4,0.0
+1961-1962,10,1961-09-23,Sheffield Utd,West Ham,1,4,0.0
+1961-1962,10,1961-09-23,Bolton,West Brom,3,2,1.0
+1961-1962,10,1961-09-23,Leicester City,Sheffield Weds,1,0,1.0
+1961-1962,10,1961-09-23,Nott'ham Forest,Tottenham,2,0,1.0
+1961-1962,6,1961-09-27,Wolves,Nott'ham Forest,2,1,1.0
+1961-1962,11,1961-09-30,Fulham,Burnley,3,5,0.0
+1961-1962,11,1961-09-30,Birmingham City,Bolton,2,1,1.0
+1961-1962,11,1961-09-30,Tottenham,Aston Villa,1,0,1.0
+1961-1962,11,1961-09-30,Cardiff City,Nott'ham Forest,2,2,0.5
+1961-1962,11,1961-09-30,West Brom,Manchester City,2,2,0.5
+1961-1962,11,1961-09-30,Blackpool,Chelsea,4,0,1.0
+1961-1962,11,1961-09-30,Everton,Arsenal,4,1,1.0
+1961-1962,11,1961-09-30,Manchester Utd,Wolves,0,2,0.0
+1961-1962,11,1961-09-30,Blackburn,Sheffield Utd,1,2,0.0
+1961-1962,11,1961-09-30,Sheffield Weds,Ipswich Town,1,4,0.0
+1961-1962,11,1961-09-30,West Ham,Leicester City,4,1,1.0
+1961-1962,2,1961-10-02,Aston Villa,Wolves,1,0,1.0
+1961-1962,12,1961-10-07,Birmingham City,Wolves,3,6,0.0
+1961-1962,12,1961-10-07,Sheffield Weds,Chelsea,5,3,1.0
+1961-1962,12,1961-10-07,West Brom,Manchester Utd,1,1,0.5
+1961-1962,12,1961-10-07,Manchester City,Cardiff City,1,2,0.0
+1961-1962,12,1961-10-07,Arsenal,Blackpool,3,0,1.0
+1961-1962,12,1961-10-07,Fulham,Aston Villa,3,1,1.0
+1961-1962,12,1961-10-07,Everton,Nott'ham Forest,6,0,1.0
+1961-1962,12,1961-10-07,Ipswich Town,West Ham,4,2,1.0
+1961-1962,12,1961-10-07,Leicester City,Sheffield Utd,4,1,1.0
+1961-1962,12,1961-10-09,Bolton,Tottenham,1,2,0.0
+1961-1962,13,1961-10-14,Manchester Utd,Birmingham City,0,2,0.0
+1961-1962,13,1961-10-14,Sheffield Utd,Ipswich Town,2,1,1.0
+1961-1962,13,1961-10-14,Chelsea,Leicester City,1,3,0.0
+1961-1962,13,1961-10-14,Nott'ham Forest,Fulham,1,1,0.5
+1961-1962,13,1961-10-14,Wolves,Everton,0,3,0.0
+1961-1962,13,1961-10-14,West Ham,Burnley,2,1,1.0
+1961-1962,13,1961-10-14,Blackburn,Arsenal,0,0,0.5
+1961-1962,13,1961-10-14,Blackpool,Bolton,2,1,1.0
+1961-1962,13,1961-10-14,Tottenham,Manchester City,2,0,1.0
+1961-1962,13,1961-10-16,Aston Villa,Sheffield Weds,1,0,1.0
+1961-1962,13,1961-10-18,Cardiff City,West Brom,2,2,0.5
+1961-1962,14,1961-10-21,Bolton,Wolves,1,0,1.0
+1961-1962,14,1961-10-21,Birmingham City,Chelsea,3,2,1.0
+1961-1962,14,1961-10-21,Arsenal,Manchester Utd,5,1,1.0
+1961-1962,14,1961-10-21,Fulham,West Ham,2,0,1.0
+1961-1962,14,1961-10-21,Sheffield Weds,Blackburn,1,0,1.0
+1961-1962,14,1961-10-21,West Brom,Aston Villa,1,1,0.5
+1961-1962,14,1961-10-21,Leicester City,Blackpool,0,2,0.0
+1961-1962,14,1961-10-21,Burnley,Cardiff City,2,1,1.0
+1961-1962,14,1961-10-21,Ipswich Town,Tottenham,3,2,1.0
+1961-1962,14,1961-10-21,Manchester City,Nott'ham Forest,3,0,1.0
+1961-1962,14,1961-10-21,Everton,Sheffield Utd,1,0,1.0
+1961-1962,15,1961-10-28,Blackpool,Ipswich Town,1,1,0.5
+1961-1962,15,1961-10-28,Nott'ham Forest,West Brom,4,4,0.5
+1961-1962,15,1961-10-28,Chelsea,Everton,1,1,0.5
+1961-1962,15,1961-10-28,Aston Villa,Birmingham City,1,3,0.0
+1961-1962,15,1961-10-28,West Ham,Sheffield Weds,2,3,0.0
+1961-1962,15,1961-10-28,Blackburn,Leicester City,2,1,1.0
+1961-1962,15,1961-10-28,Tottenham,Burnley,4,2,1.0
+1961-1962,15,1961-10-28,Cardiff City,Arsenal,1,1,0.5
+1961-1962,15,1961-10-28,Wolves,Manchester City,4,1,1.0
+1961-1962,15,1961-10-28,Sheffield Utd,Fulham,2,2,0.5
+1961-1962,15,1961-10-28,Manchester Utd,Bolton,0,3,0.0
+1961-1962,16,1961-11-04,Arsenal,Chelsea,0,3,0.0
+1961-1962,16,1961-11-04,Burnley,Aston Villa,3,0,1.0
+1961-1962,16,1961-11-04,Manchester City,West Ham,3,5,0.0
+1961-1962,16,1961-11-04,Fulham,Cardiff City,0,1,0.0
+1961-1962,16,1961-11-04,Leicester City,Wolves,3,0,1.0
+1961-1962,16,1961-11-04,Sheffield Weds,Manchester Utd,3,1,1.0
+1961-1962,16,1961-11-04,West Brom,Blackburn,4,0,1.0
+1961-1962,16,1961-11-04,Everton,Tottenham,3,0,1.0
+1961-1962,16,1961-11-04,Ipswich Town,Nott'ham Forest,1,0,1.0
+1961-1962,16,1961-11-04,Birmingham City,Blackpool,1,1,0.5
+1961-1962,16,1961-11-04,Bolton,Sheffield Utd,2,0,1.0
+1961-1962,17,1961-11-11,Wolves,Ipswich Town,2,0,1.0
+1961-1962,17,1961-11-11,Tottenham,Fulham,4,2,1.0
+1961-1962,17,1961-11-11,Blackpool,Everton,1,1,0.5
+1961-1962,17,1961-11-11,Blackburn,Birmingham City,2,0,1.0
+1961-1962,17,1961-11-11,Cardiff City,Sheffield Weds,2,1,1.0
+1961-1962,17,1961-11-11,Sheffield Utd,Manchester City,3,1,1.0
+1961-1962,17,1961-11-11,Manchester Utd,Leicester City,2,2,0.5
+1961-1962,17,1961-11-11,Chelsea,Bolton,1,0,1.0
+1961-1962,17,1961-11-11,West Ham,West Brom,3,3,0.5
+1961-1962,17,1961-11-11,Nott'ham Forest,Burnley,3,2,1.0
+1961-1962,17,1961-11-11,Aston Villa,Arsenal,3,1,1.0
+1961-1962,6,1961-11-14,Arsenal,Sheffield Weds,1,0,1.0
+1961-1962,18,1961-11-18,Burnley,Wolves,3,3,0.5
+1961-1962,18,1961-11-18,Ipswich Town,Manchester Utd,4,1,1.0
+1961-1962,18,1961-11-18,Fulham,Blackpool,0,1,0.0
+1961-1962,18,1961-11-18,Birmingham City,West Ham,4,0,1.0
+1961-1962,18,1961-11-18,Sheffield Weds,Tottenham,0,0,0.5
+1961-1962,18,1961-11-18,Arsenal,Nott'ham Forest,2,1,1.0
+1961-1962,18,1961-11-18,West Brom,Sheffield Utd,3,1,1.0
+1961-1962,18,1961-11-18,Everton,Blackburn,1,0,1.0
+1961-1962,18,1961-11-18,Manchester City,Chelsea,2,2,0.5
+1961-1962,18,1961-11-18,Bolton,Aston Villa,1,1,0.5
+1961-1962,18,1961-11-18,Leicester City,Cardiff City,3,0,1.0
+1961-1962,19,1961-11-25,Cardiff City,Ipswich Town,0,3,0.0
+1961-1962,19,1961-11-25,Sheffield Utd,Birmingham City,3,1,1.0
+1961-1962,19,1961-11-25,Aston Villa,Manchester City,2,1,1.0
+1961-1962,19,1961-11-25,Nott'ham Forest,Bolton,0,1,0.0
+1961-1962,19,1961-11-25,Manchester Utd,Burnley,1,4,0.0
+1961-1962,19,1961-11-25,Chelsea,West Brom,4,1,1.0
+1961-1962,19,1961-11-25,Blackburn,Fulham,0,2,0.0
+1961-1962,19,1961-11-25,Blackpool,Sheffield Weds,1,3,0.0
+1961-1962,19,1961-11-25,West Ham,Everton,3,1,1.0
+1961-1962,19,1961-11-25,Tottenham,Leicester City,1,2,0.0
+1961-1962,19,1961-11-25,Wolves,Arsenal,2,3,0.0
+1961-1962,20,1961-12-02,Sheffield Weds,Nott'ham Forest,3,0,1.0
+1961-1962,20,1961-12-02,Ipswich Town,Chelsea,5,2,1.0
+1961-1962,20,1961-12-02,Arsenal,West Ham,2,2,0.5
+1961-1962,20,1961-12-02,Bolton,Blackburn,1,1,0.5
+1961-1962,20,1961-12-02,Manchester City,Blackpool,2,4,0.0
+1961-1962,20,1961-12-02,Burnley,Sheffield Utd,4,2,1.0
+1961-1962,20,1961-12-02,West Brom,Tottenham,2,4,0.0
+1961-1962,20,1961-12-02,Everton,Manchester Utd,5,1,1.0
+1961-1962,20,1961-12-02,Birmingham City,Cardiff City,3,0,1.0
+1961-1962,20,1961-12-02,Fulham,Wolves,0,1,0.0
+1961-1962,20,1961-12-02,Leicester City,Aston Villa,0,2,0.0
+1961-1962,21,1961-12-09,Blackpool,West Brom,2,2,0.5
+1961-1962,21,1961-12-09,West Ham,Bolton,1,0,1.0
+1961-1962,21,1961-12-09,Nott'ham Forest,Leicester City,0,0,0.5
+1961-1962,21,1961-12-09,Wolves,Sheffield Weds,3,0,1.0
+1961-1962,21,1961-12-09,Blackburn,Manchester City,4,1,1.0
+1961-1962,21,1961-12-09,Manchester Utd,Fulham,3,0,1.0
+1961-1962,21,1961-12-09,Cardiff City,Everton,0,0,0.5
+1961-1962,21,1961-12-09,Chelsea,Burnley,1,2,0.0
+1961-1962,21,1961-12-09,Tottenham,Birmingham City,3,1,1.0
+1961-1962,21,1961-12-09,Aston Villa,Ipswich Town,3,0,1.0
+1961-1962,21,1961-12-09,Sheffield Utd,Arsenal,2,1,1.0
+1961-1962,22,1961-12-16,Sheffield Weds,West Brom,2,1,1.0
+1961-1962,22,1961-12-16,Wolves,Sheffield Utd,0,1,0.0
+1961-1962,22,1961-12-16,Fulham,Birmingham City,0,1,0.0
+1961-1962,22,1961-12-16,Ipswich Town,Bolton,2,1,1.0
+1961-1962,22,1961-12-16,Aston Villa,Everton,1,1,0.5
+1961-1962,22,1961-12-16,Leicester City,Manchester City,2,0,1.0
+1961-1962,22,1961-12-16,Tottenham,Blackpool,5,2,1.0
+1961-1962,22,1961-12-16,Burnley,Arsenal,0,2,0.0
+1961-1962,22,1961-12-16,Manchester Utd,West Ham,1,2,0.0
+1961-1962,22,1961-12-16,Cardiff City,Blackburn,1,1,0.5
+1961-1962,22,1961-12-16,Nott'ham Forest,Chelsea,3,0,1.0
+1961-1962,23,1961-12-18,West Ham,Wolves,4,2,1.0
+1961-1962,23,1961-12-22,Sheffield Utd,Nott'ham Forest,2,0,1.0
+1961-1962,23,1961-12-23,Chelsea,Aston Villa,1,0,1.0
+1961-1962,23,1961-12-23,West Brom,Leicester City,2,0,1.0
+1961-1962,23,1961-12-23,Arsenal,Tottenham,2,1,1.0
+1961-1962,23,1961-12-23,Everton,Fulham,3,0,1.0
+1961-1962,23,1961-12-23,Birmingham City,Sheffield Weds,1,1,0.5
+1961-1962,23,1961-12-23,Blackpool,Cardiff City,3,0,1.0
+1961-1962,23,1961-12-23,Manchester City,Ipswich Town,3,0,1.0
+1961-1962,24,1961-12-26,Burnley,Sheffield Weds,4,0,1.0
+1961-1962,24,1961-12-26,West Brom,Wolves,1,1,0.5
+1961-1962,24,1961-12-26,Chelsea,Tottenham,0,2,0.0
+1961-1962,24,1961-12-26,Arsenal,Fulham,1,0,1.0
+1961-1962,24,1961-12-26,Ipswich Town,Leicester City,1,0,1.0
+1961-1962,24,1961-12-26,Cardiff City,Aston Villa,1,0,1.0
+1961-1962,24,1961-12-26,Birmingham City,Manchester City,1,1,0.5
+1961-1962,24,1961-12-26,Sheffield Utd,Blackpool,2,1,1.0
+1961-1962,24,1961-12-26,West Ham,Blackburn,2,3,0.0
+1961-1962,24,1961-12-26,Everton,Bolton,1,0,1.0
+1961-1962,24,1961-12-26,Manchester Utd,Nott'ham Forest,6,3,1.0
+1961-1962,25,1961-12-30,Tottenham,Chelsea,5,2,1.0
+1961-1962,26,1962-01-13,Cardiff City,Tottenham,1,1,0.5
+1961-1962,26,1962-01-13,Fulham,Chelsea,3,4,0.0
+1961-1962,26,1962-01-13,Wolves,Blackburn,0,2,0.0
+1961-1962,26,1962-01-13,Burnley,Manchester City,6,3,1.0
+1961-1962,26,1962-01-13,Arsenal,Bolton,1,2,0.0
+1961-1962,26,1962-01-13,Nott'ham Forest,West Ham,3,0,1.0
+1961-1962,26,1962-01-13,Aston Villa,Sheffield Utd,0,0,0.5
+1961-1962,26,1962-01-13,Sheffield Weds,Everton,3,1,1.0
+1961-1962,26,1962-01-13,Ipswich Town,West Brom,3,0,1.0
+1961-1962,26,1962-01-13,Leicester City,Birmingham City,1,2,0.0
+1961-1962,26,1962-01-13,Manchester Utd,Blackpool,0,1,0.0
+1961-1962,6,1962-01-15,Manchester Utd,Aston Villa,2,0,1.0
+1961-1962,27,1962-01-20,Manchester City,Arsenal,3,2,1.0
+1961-1962,27,1962-01-20,Tottenham,Manchester Utd,2,2,0.5
+1961-1962,27,1962-01-20,Blackpool,Wolves,7,2,1.0
+1961-1962,27,1962-01-20,West Ham,Aston Villa,2,0,1.0
+1961-1962,27,1962-01-20,Everton,Leicester City,3,2,1.0
+1961-1962,27,1962-01-20,Bolton,Cardiff City,1,1,0.5
+1961-1962,27,1962-01-20,Sheffield Utd,Chelsea,3,1,1.0
+1961-1962,27,1962-01-20,Fulham,Sheffield Weds,0,2,0.0
+1961-1962,27,1962-01-20,Blackburn,Nott'ham Forest,2,1,1.0
+1961-1962,27,1962-01-20,Birmingham City,Ipswich Town,3,1,1.0
+1961-1962,27,1962-01-20,West Brom,Burnley,1,1,0.5
+1961-1962,28,1962-02-03,Ipswich Town,Everton,4,2,1.0
+1961-1962,28,1962-02-03,Arsenal,West Brom,0,1,0.0
+1961-1962,28,1962-02-03,Sheffield Weds,Sheffield Utd,1,2,0.0
+1961-1962,28,1962-02-03,Nott'ham Forest,Blackpool,3,4,0.0
+1961-1962,28,1962-02-03,Leicester City,Fulham,4,1,1.0
+1961-1962,28,1962-02-03,Wolves,Tottenham,3,1,1.0
+1961-1962,28,1962-02-03,Bolton,Manchester City,0,2,0.0
+1961-1962,28,1962-02-03,Aston Villa,Blackburn,1,0,1.0
+1961-1962,28,1962-02-03,Manchester Utd,Cardiff City,3,0,1.0
+1961-1962,28,1962-02-03,Burnley,Birmingham City,7,1,1.0
+1961-1962,28,1962-02-03,Chelsea,West Ham,0,1,0.0
+1961-1962,29,1962-02-09,Cardiff City,Wolves,2,3,0.0
+1961-1962,29,1962-02-10,Tottenham,Nott'ham Forest,4,2,1.0
+1961-1962,29,1962-02-10,Blackburn,Chelsea,3,0,1.0
+1961-1962,29,1962-02-10,Fulham,Ipswich Town,1,2,0.0
+1961-1962,29,1962-02-10,West Ham,Sheffield Utd,1,2,0.0
+1961-1962,29,1962-02-10,Birmingham City,Arsenal,1,0,1.0
+1961-1962,29,1962-02-10,Blackpool,Aston Villa,1,2,0.0
+1961-1962,29,1962-02-10,Everton,Burnley,2,2,0.5
+1961-1962,29,1962-02-10,Manchester City,Manchester Utd,0,2,0.0
+1961-1962,29,1962-02-10,Sheffield Weds,Leicester City,1,2,0.0
+1961-1962,29,1962-02-10,West Brom,Bolton,6,2,1.0
+1961-1962,30,1962-02-16,Chelsea,Blackpool,1,0,1.0
+1961-1962,30,1962-02-17,Nott'ham Forest,Cardiff City,2,1,1.0
+1961-1962,30,1962-02-17,Bolton,Birmingham City,3,2,1.0
+1961-1962,30,1962-02-17,Leicester City,West Ham,2,2,0.5
+1961-1962,30,1962-02-20,Sheffield Utd,Blackburn,0,0,0.5
+1961-1962,30,1962-02-20,Burnley,Fulham,2,1,1.0
+1961-1962,30,1962-02-21,Manchester City,West Brom,3,1,1.0
+1961-1962,30,1962-02-21,Aston Villa,Tottenham,0,0,0.5
+1961-1962,31,1962-02-24,Sheffield Utd,Leicester City,3,1,1.0
+1961-1962,31,1962-02-24,Blackpool,Arsenal,0,1,0.0
+1961-1962,31,1962-02-24,Aston Villa,Fulham,2,0,1.0
+1961-1962,31,1962-02-24,Cardiff City,Manchester City,0,0,0.5
+1961-1962,31,1962-02-24,Manchester Utd,West Brom,4,1,1.0
+1961-1962,31,1962-02-24,Wolves,Birmingham City,2,1,1.0
+1961-1962,31,1962-02-24,Chelsea,Sheffield Weds,1,0,1.0
+1961-1962,31,1962-02-24,Nott'ham Forest,Everton,2,1,1.0
+1961-1962,31,1962-02-24,Tottenham,Bolton,2,2,0.5
+1961-1962,31,1962-02-24,Blackburn,Burnley,2,1,1.0
+1961-1962,31,1962-02-24,West Ham,Ipswich Town,2,2,0.5
+1961-1962,30,1962-02-28,Wolves,Manchester Utd,2,2,0.5
+1961-1962,32,1962-03-03,Manchester City,Tottenham,6,2,1.0
+1961-1962,32,1962-03-03,Fulham,Nott'ham Forest,1,1,0.5
+1961-1962,32,1962-03-03,West Brom,Cardiff City,5,1,1.0
+1961-1962,32,1962-03-03,Bolton,Blackpool,0,0,0.5
+1961-1962,32,1962-03-03,Arsenal,Blackburn,0,0,0.5
+1961-1962,32,1962-03-03,Everton,Wolves,4,0,1.0
+1961-1962,32,1962-03-03,Birmingham City,Manchester Utd,1,1,0.5
+1961-1962,32,1962-03-03,Sheffield Weds,Aston Villa,3,0,1.0
+1961-1962,32,1962-03-03,Burnley,West Ham,6,0,1.0
+1961-1962,32,1962-03-03,Ipswich Town,Sheffield Utd,4,0,1.0
+1961-1962,30,1962-03-09,Ipswich Town,Sheffield Weds,2,1,1.0
+1961-1962,33,1962-03-09,Chelsea,Birmingham City,1,1,0.5
+1961-1962,33,1962-03-10,Nott'ham Forest,Manchester City,1,2,0.0
+1961-1962,33,1962-03-10,Wolves,Bolton,5,1,1.0
+1961-1962,33,1962-03-10,Blackpool,Leicester City,2,1,1.0
+1961-1962,33,1962-03-14,Tottenham,Ipswich Town,1,3,0.0
+1961-1962,33,1962-03-14,Cardiff City,Burnley,1,1,0.5
+1961-1962,33,1962-03-14,Sheffield Utd,Everton,1,1,0.5
+1961-1962,33,1962-03-14,Aston Villa,West Brom,1,0,1.0
+1961-1962,34,1962-03-17,Everton,Chelsea,4,0,1.0
+1961-1962,34,1962-03-17,Manchester City,Wolves,2,2,0.5
+1961-1962,34,1962-03-17,Arsenal,Cardiff City,1,1,0.5
+1961-1962,34,1962-03-17,West Brom,Nott'ham Forest,2,2,0.5
+1961-1962,34,1962-03-17,Burnley,Tottenham,2,2,0.5
+1961-1962,34,1962-03-17,Leicester City,Blackburn,2,0,1.0
+1961-1962,34,1962-03-17,Sheffield Weds,West Ham,0,0,0.5
+1961-1962,34,1962-03-17,Fulham,Sheffield Utd,5,2,1.0
+1961-1962,34,1962-03-17,Ipswich Town,Blackpool,1,1,0.5
+1961-1962,34,1962-03-17,Bolton,Manchester Utd,1,0,1.0
+1961-1962,34,1962-03-17,Birmingham City,Aston Villa,0,2,0.0
+1961-1962,25,1962-03-20,Nott'ham Forest,Manchester Utd,1,0,1.0
+1961-1962,35,1962-03-23,Cardiff City,Fulham,0,3,0.0
+1961-1962,35,1962-03-24,Blackpool,Birmingham City,1,0,1.0
+1961-1962,35,1962-03-24,Nott'ham Forest,Ipswich Town,1,1,0.5
+1961-1962,35,1962-03-24,Aston Villa,Burnley,0,2,0.0
+1961-1962,35,1962-03-24,West Ham,Manchester City,0,4,0.0
+1961-1962,35,1962-03-24,Tottenham,Everton,3,1,1.0
+1961-1962,35,1962-03-24,Manchester Utd,Sheffield Weds,1,1,0.5
+1961-1962,35,1962-03-24,Chelsea,Arsenal,2,3,0.0
+1961-1962,35,1962-03-24,Sheffield Utd,Bolton,3,1,1.0
+1961-1962,35,1962-03-24,Wolves,Leicester City,1,1,0.5
+1961-1962,35,1962-03-24,Blackburn,West Brom,1,1,0.5
+1961-1962,25,1962-03-28,Blackburn,West Ham,1,0,1.0
+1961-1962,25,1962-03-28,Wolves,West Brom,1,5,0.0
+1961-1962,25,1962-03-28,Leicester City,Ipswich Town,0,2,0.0
+1961-1962,36,1962-03-30,Everton,Blackpool,2,2,0.5
+1961-1962,36,1962-03-30,Birmingham City,Blackburn,2,1,1.0
+1961-1962,36,1962-03-31,West Brom,West Ham,0,1,0.0
+1961-1962,36,1962-03-31,Bolton,Chelsea,4,2,1.0
+1961-1962,36,1962-03-31,Arsenal,Aston Villa,4,5,0.0
+1961-1962,36,1962-03-31,Manchester City,Sheffield Utd,1,1,0.5
+1961-1962,36,1962-03-31,Ipswich Town,Wolves,3,2,1.0
+1961-1962,25,1962-04-03,Blackpool,Sheffield Utd,2,4,0.0
+1961-1962,36,1962-04-03,Burnley,Nott'ham Forest,0,0,0.5
+1961-1962,36,1962-04-03,Sheffield Weds,Cardiff City,2,0,1.0
+1961-1962,25,1962-04-04,Bolton,Everton,1,1,0.5
+1961-1962,36,1962-04-04,Leicester City,Manchester Utd,4,3,1.0
+1961-1962,37,1962-04-06,West Ham,Birmingham City,2,2,0.5
+1961-1962,37,1962-04-07,Wolves,Burnley,1,1,0.5
+1961-1962,37,1962-04-07,Cardiff City,Leicester City,0,4,0.0
+1961-1962,37,1962-04-07,Aston Villa,Bolton,3,0,1.0
+1961-1962,37,1962-04-07,Sheffield Utd,West Brom,1,1,0.5
+1961-1962,37,1962-04-07,Manchester Utd,Ipswich Town,5,0,1.0
+1961-1962,37,1962-04-07,Nott'ham Forest,Arsenal,0,1,0.0
+1961-1962,37,1962-04-07,Blackpool,Fulham,2,1,1.0
+1961-1962,37,1962-04-07,Chelsea,Manchester City,1,1,0.5
+1961-1962,37,1962-04-07,Blackburn,Everton,1,1,0.5
+1961-1962,37,1962-04-07,Tottenham,Sheffield Weds,4,0,1.0
+1961-1962,9,1962-04-09,Tottenham,Sheffield Utd,3,3,0.5
+1961-1962,23,1962-04-10,Blackburn,Manchester Utd,3,0,1.0
+1961-1962,23,1962-04-11,Bolton,Burnley,0,0,0.5
+1961-1962,25,1962-04-11,Manchester City,Birmingham City,1,4,0.0
+1961-1962,25,1962-04-11,Fulham,Arsenal,5,2,1.0
+1961-1962,32,1962-04-11,Leicester City,Chelsea,2,0,1.0
+1961-1962,38,1962-04-14,Arsenal,Wolves,3,1,1.0
+1961-1962,38,1962-04-14,Fulham,Blackburn,2,0,1.0
+1961-1962,38,1962-04-14,Everton,West Ham,3,0,1.0
+1961-1962,38,1962-04-14,Manchester City,Aston Villa,1,0,1.0
+1961-1962,38,1962-04-14,Ipswich Town,Cardiff City,1,0,1.0
+1961-1962,38,1962-04-14,Bolton,Nott'ham Forest,6,1,1.0
+1961-1962,38,1962-04-14,West Brom,Chelsea,4,0,1.0
+1961-1962,38,1962-04-14,Sheffield Weds,Blackpool,3,2,1.0
+1961-1962,38,1962-04-14,Birmingham City,Sheffield Utd,3,0,1.0
+1961-1962,38,1962-04-14,Burnley,Manchester Utd,1,3,0.0
+1961-1962,33,1962-04-16,Manchester Utd,Arsenal,2,3,0.0
+1961-1962,12,1962-04-17,Burnley,Blackburn,0,1,0.0
+1961-1962,36,1962-04-17,Fulham,Tottenham,1,1,0.5
+1961-1962,39,1962-04-20,Everton,Birmingham City,4,1,1.0
+1961-1962,39,1962-04-20,West Ham,Cardiff City,4,1,1.0
+1961-1962,39,1962-04-20,Manchester City,Sheffield Weds,3,1,1.0
+1961-1962,39,1962-04-20,Ipswich Town,Arsenal,2,2,0.5
+1961-1962,39,1962-04-20,Burnley,Blackpool,2,0,1.0
+1961-1962,39,1962-04-20,Chelsea,Wolves,4,5,0.0
+1961-1962,39,1962-04-20,Tottenham,Blackburn,4,1,1.0
+1961-1962,40,1962-04-21,Nott'ham Forest,Sheffield Weds,3,1,1.0
+1961-1962,40,1962-04-21,Tottenham,West Brom,1,2,0.0
+1961-1962,40,1962-04-21,Aston Villa,Leicester City,8,3,1.0
+1961-1962,40,1962-04-21,Chelsea,Ipswich Town,2,2,0.5
+1961-1962,40,1962-04-21,Cardiff City,Birmingham City,3,2,1.0
+1961-1962,40,1962-04-21,Manchester Utd,Everton,1,1,0.5
+1961-1962,40,1962-04-21,Blackpool,Manchester City,3,1,1.0
+1961-1962,40,1962-04-21,Blackburn,Bolton,2,3,0.0
+1961-1962,40,1962-04-21,Sheffield Utd,Burnley,2,0,1.0
+1961-1962,40,1962-04-21,West Ham,Arsenal,3,3,0.5
+1961-1962,40,1962-04-21,Wolves,Fulham,1,3,0.0
+1961-1962,39,1962-04-23,Bolton,Leicester City,1,0,1.0
+1961-1962,39,1962-04-23,Manchester Utd,Sheffield Utd,0,1,0.0
+1961-1962,39,1962-04-23,Fulham,West Brom,1,2,0.0
+1961-1962,39,1962-04-23,Aston Villa,Nott'ham Forest,5,1,1.0
+1961-1962,41,1962-04-23,Wolves,Chelsea,1,1,0.5
+1961-1962,41,1962-04-23,Cardiff City,West Ham,3,0,1.0
+1961-1962,41,1962-04-23,Arsenal,Ipswich Town,0,3,0.0
+1961-1962,41,1962-04-23,Blackburn,Tottenham,0,1,0.0
+1961-1962,41,1962-04-23,Blackpool,Burnley,1,1,0.5
+1961-1962,41,1962-04-23,Sheffield Weds,Manchester City,1,0,1.0
+1961-1962,41,1962-04-24,Sheffield Utd,Manchester Utd,2,3,0.0
+1961-1962,41,1962-04-24,Leicester City,Bolton,1,1,0.5
+1961-1962,41,1962-04-24,Nott'ham Forest,Aston Villa,2,0,1.0
+1961-1962,41,1962-04-24,Birmingham City,Everton,0,0,0.5
+1961-1962,41,1962-04-24,West Brom,Fulham,2,0,1.0
+1961-1962,33,1962-04-26,Blackburn,Sheffield Weds,0,2,0.0
+1961-1962,42,1962-04-28,Leicester City,Nott'ham Forest,2,1,1.0
+1961-1962,42,1962-04-28,Birmingham City,Tottenham,2,3,0.0
+1961-1962,42,1962-04-28,Everton,Cardiff City,8,3,1.0
+1961-1962,42,1962-04-28,Fulham,Manchester Utd,2,0,1.0
+1961-1962,42,1962-04-28,Arsenal,Sheffield Utd,2,0,1.0
+1961-1962,42,1962-04-28,Bolton,West Ham,1,0,1.0
+1961-1962,42,1962-04-28,Ipswich Town,Aston Villa,2,0,1.0
+1961-1962,42,1962-04-28,Manchester City,Blackburn,3,1,1.0
+1961-1962,42,1962-04-28,Burnley,Chelsea,1,1,0.5
+1961-1962,42,1962-04-28,West Brom,Blackpool,7,1,1.0
+1961-1962,42,1962-04-28,Sheffield Weds,Wolves,3,2,1.0
+1961-1962,25,1962-04-30,Sheffield Weds,Burnley,4,0,1.0
+1961-1962,33,1962-04-30,West Ham,Fulham,4,2,1.0
+1961-1962,38,1962-04-30,Leicester City,Tottenham,2,3,0.0
+1961-1962,25,1962-05-01,Aston Villa,Cardiff City,2,2,0.5
+1961-1962,30,1962-05-01,Arsenal,Everton,2,3,0.0

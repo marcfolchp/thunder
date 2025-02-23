@@ -1,0 +1,278 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023-2024,Regular season,1,2023-07-22,Karviná,Fastav Zlín,4,1,1.0
+2023-2024,Regular season,1,2023-07-22,Teplice,Viktoria Plzeň,1,0,1.0
+2023-2024,Regular season,1,2023-07-22,FK Pardubice,Bohemians 1905,0,1,0.0
+2023-2024,Regular season,1,2023-07-22,Slavia Prague,Hradec Králové,2,0,1.0
+2023-2024,Regular season,1,2023-07-23,Slovácko,České Budĕjov.,4,1,1.0
+2023-2024,Regular season,1,2023-07-23,Slovan Liberec,Baník Ostrava,3,1,1.0
+2023-2024,Regular season,1,2023-07-23,Mladá Boleslav,Jablonec,3,1,1.0
+2023-2024,Regular season,1,2023-07-23,Sparta Prague,Sigma Olomouc,2,0,1.0
+2023-2024,Regular season,2,2023-07-29,Fastav Zlín,Sparta Prague,0,1,0.0
+2023-2024,Regular season,2,2023-07-29,Sigma Olomouc,Karviná,3,1,1.0
+2023-2024,Regular season,2,2023-07-29,FK Pardubice,Jablonec,0,0,0.5
+2023-2024,Regular season,2,2023-07-29,Baník Ostrava,Slovácko,0,0,0.5
+2023-2024,Regular season,2,2023-07-30,České Budĕjov.,Slavia Prague,1,3,0.0
+2023-2024,Regular season,2,2023-07-30,Bohemians 1905,Teplice,1,2,0.0
+2023-2024,Regular season,2,2023-07-30,Mladá Boleslav,Slovan Liberec,2,2,0.5
+2023-2024,Regular season,2,2023-07-30,Viktoria Plzeň,Hradec Králové,1,1,0.5
+2023-2024,Regular season,3,2023-08-05,Karviná,Mladá Boleslav,1,2,0.0
+2023-2024,Regular season,3,2023-08-05,Sparta Prague,FK Pardubice,5,2,1.0
+2023-2024,Regular season,3,2023-08-05,Slovácko,Sigma Olomouc,0,2,0.0
+2023-2024,Regular season,3,2023-08-05,Hradec Králové,České Budĕjov.,5,1,1.0
+2023-2024,Regular season,3,2023-08-06,Teplice,Jablonec,0,0,0.5
+2023-2024,Regular season,3,2023-08-06,Slovan Liberec,Bohemians 1905,0,1,0.0
+2023-2024,Regular season,3,2023-08-06,Viktoria Plzeň,Baník Ostrava,3,1,1.0
+2023-2024,Regular season,3,2023-08-06,Slavia Prague,Fastav Zlín,2,1,1.0
+2023-2024,Regular season,4,2023-08-12,Fastav Zlín,Slovan Liberec,1,1,0.5
+2023-2024,Regular season,4,2023-08-12,Baník Ostrava,Hradec Králové,2,0,1.0
+2023-2024,Regular season,4,2023-08-12,Jablonec,Sparta Prague,1,5,0.0
+2023-2024,Regular season,4,2023-08-13,Sigma Olomouc,Teplice,2,1,1.0
+2023-2024,Regular season,4,2023-08-13,Mladá Boleslav,Slavia Prague,0,1,0.0
+2023-2024,Regular season,4,2023-08-13,Bohemians 1905,Slovácko,0,1,0.0
+2023-2024,Regular season,4,2023-08-13,FK Pardubice,Karviná,2,1,1.0
+2023-2024,Regular season,4,2023-08-13,České Budĕjov.,Viktoria Plzeň,2,5,0.0
+2023-2024,Regular season,5,2023-08-19,Slovácko,Mladá Boleslav,2,2,0.5
+2023-2024,Regular season,5,2023-08-19,Slovan Liberec,FK Pardubice,1,0,1.0
+2023-2024,Regular season,5,2023-08-19,Karviná,Jablonec,1,1,0.5
+2023-2024,Regular season,5,2023-08-19,Teplice,Sparta Prague,1,1,0.5
+2023-2024,Regular season,5,2023-08-20,České Budĕjov.,Bohemians 1905,3,0,1.0
+2023-2024,Regular season,5,2023-08-20,Viktoria Plzeň,Sigma Olomouc,2,1,1.0
+2023-2024,Regular season,5,2023-08-20,Hradec Králové,Fastav Zlín,2,0,1.0
+2023-2024,Regular season,5,2023-08-20,Slavia Prague,Baník Ostrava,1,0,1.0
+2023-2024,Regular season,6,2023-08-26,Fastav Zlín,Teplice,2,1,1.0
+2023-2024,Regular season,6,2023-08-26,FK Pardubice,Slovácko,0,1,0.0
+2023-2024,Regular season,6,2023-08-26,Baník Ostrava,České Budĕjov.,2,0,1.0
+2023-2024,Regular season,6,2023-08-27,Jablonec,Slavia Prague,1,1,0.5
+2023-2024,Regular season,6,2023-08-27,Sigma Olomouc,Slovan Liberec,2,0,1.0
+2023-2024,Regular season,6,2023-08-27,Bohemians 1905,Hradec Králové,2,1,1.0
+2023-2024,Regular season,6,2023-08-27,Sparta Prague,Karviná,3,1,1.0
+2023-2024,Regular season,7,2023-09-02,Slovácko,Fastav Zlín,1,0,1.0
+2023-2024,Regular season,7,2023-09-02,Teplice,FK Pardubice,0,1,0.0
+2023-2024,Regular season,7,2023-09-02,České Budĕjov.,Jablonec,2,1,1.0
+2023-2024,Regular season,7,2023-09-02,Baník Ostrava,Mladá Boleslav,2,0,1.0
+2023-2024,Regular season,7,2023-09-03,Viktoria Plzeň,Bohemians 1905,2,0,1.0
+2023-2024,Regular season,7,2023-09-03,Slovan Liberec,Sparta Prague,0,2,0.0
+2023-2024,Regular season,7,2023-09-03,Slavia Prague,Karviná,5,1,1.0
+2023-2024,Regular season,7,2023-09-03,Hradec Králové,Sigma Olomouc,1,3,0.0
+2023-2024,Regular season,8,2023-09-16,Karviná,Teplice,0,1,0.0
+2023-2024,Regular season,8,2023-09-16,Bohemians 1905,Baník Ostrava,1,1,0.5
+2023-2024,Regular season,8,2023-09-16,Mladá Boleslav,Hradec Králové,5,1,1.0
+2023-2024,Regular season,8,2023-09-16,Sigma Olomouc,České Budĕjov.,2,1,1.0
+2023-2024,Regular season,8,2023-09-16,FK Pardubice,Slavia Prague,0,1,0.0
+2023-2024,Regular season,8,2023-09-17,Jablonec,Slovan Liberec,1,1,0.5
+2023-2024,Regular season,8,2023-09-17,Fastav Zlín,Viktoria Plzeň,1,7,0.0
+2023-2024,Regular season,8,2023-09-17,Sparta Prague,Slovácko,5,0,1.0
+2023-2024,Regular season,9,2023-09-23,Baník Ostrava,Fastav Zlín,5,1,1.0
+2023-2024,Regular season,9,2023-09-23,Slovácko,Karviná,2,0,1.0
+2023-2024,Regular season,9,2023-09-23,České Budĕjov.,Mladá Boleslav,1,2,0.0
+2023-2024,Regular season,9,2023-09-23,Slovan Liberec,Teplice,3,3,0.5
+2023-2024,Regular season,9,2023-09-23,Bohemians 1905,Sigma Olomouc,3,2,1.0
+2023-2024,Regular season,9,2023-09-24,Viktoria Plzeň,FK Pardubice,6,2,1.0
+2023-2024,Regular season,9,2023-09-24,Hradec Králové,Jablonec,1,0,1.0
+2023-2024,Regular season,9,2023-09-24,Slavia Prague,Sparta Prague,1,1,0.5
+2023-2024,Regular season,10,2023-09-30,Jablonec,Slovácko,2,0,1.0
+2023-2024,Regular season,10,2023-09-30,Sigma Olomouc,Baník Ostrava,0,3,0.0
+2023-2024,Regular season,10,2023-09-30,Fastav Zlín,České Budĕjov.,1,1,0.5
+2023-2024,Regular season,10,2023-09-30,Karviná,Slovan Liberec,5,2,1.0
+2023-2024,Regular season,10,2023-09-30,Sparta Prague,Viktoria Plzeň,2,1,1.0
+2023-2024,Regular season,10,2023-10-01,Mladá Boleslav,Bohemians 1905,2,1,1.0
+2023-2024,Regular season,10,2023-10-01,Teplice,Slavia Prague,0,0,0.5
+2023-2024,Regular season,10,2023-10-01,FK Pardubice,Hradec Králové,1,1,0.5
+2023-2024,Regular season,11,2023-10-07,Sigma Olomouc,Mladá Boleslav,4,0,1.0
+2023-2024,Regular season,11,2023-10-07,Bohemians 1905,Fastav Zlín,0,0,0.5
+2023-2024,Regular season,11,2023-10-07,České Budĕjov.,Karviná,1,0,1.0
+2023-2024,Regular season,11,2023-10-07,Slovácko,Teplice,2,0,1.0
+2023-2024,Regular season,11,2023-10-07,Baník Ostrava,FK Pardubice,1,1,0.5
+2023-2024,Regular season,11,2023-10-08,Hradec Králové,Sparta Prague,1,3,0.0
+2023-2024,Regular season,11,2023-10-08,Slovan Liberec,Slavia Prague,2,3,0.0
+2023-2024,Regular season,11,2023-10-08,Viktoria Plzeň,Jablonec,3,2,1.0
+2023-2024,Regular season,12,2023-10-21,Slovan Liberec,Viktoria Plzeň,3,0,1.0
+2023-2024,Regular season,12,2023-10-21,FK Pardubice,Sigma Olomouc,1,1,0.5
+2023-2024,Regular season,12,2023-10-21,Fastav Zlín,Mladá Boleslav,5,9,0.0
+2023-2024,Regular season,12,2023-10-21,Karviná,Hradec Králové,1,0,1.0
+2023-2024,Regular season,12,2023-10-21,Slavia Prague,Slovácko,2,0,1.0
+2023-2024,Regular season,12,2023-10-22,Teplice,Baník Ostrava,0,1,0.0
+2023-2024,Regular season,12,2023-10-22,Sparta Prague,České Budĕjov.,4,0,1.0
+2023-2024,Regular season,12,2023-10-22,Jablonec,Bohemians 1905,0,1,0.0
+2023-2024,Regular season,13,2023-10-28,České Budĕjov.,FK Pardubice,0,1,0.0
+2023-2024,Regular season,13,2023-10-28,Hradec Králové,Teplice,1,0,1.0
+2023-2024,Regular season,13,2023-10-28,Slovácko,Slovan Liberec,1,1,0.5
+2023-2024,Regular season,13,2023-10-28,Sigma Olomouc,Fastav Zlín,0,0,0.5
+2023-2024,Regular season,13,2023-10-28,Baník Ostrava,Jablonec,0,1,0.0
+2023-2024,Regular season,13,2023-10-29,Mladá Boleslav,Sparta Prague,3,1,1.0
+2023-2024,Regular season,13,2023-10-29,Viktoria Plzeň,Karviná,0,1,0.0
+2023-2024,Regular season,13,2023-10-29,Bohemians 1905,Slavia Prague,0,2,0.0
+2023-2024,Regular season,14,2023-11-04,Teplice,Mladá Boleslav,1,0,1.0
+2023-2024,Regular season,14,2023-11-04,Jablonec,Sigma Olomouc,1,1,0.5
+2023-2024,Regular season,14,2023-11-04,Slovácko,Hradec Králové,0,0,0.5
+2023-2024,Regular season,14,2023-11-04,FK Pardubice,Fastav Zlín,0,1,0.0
+2023-2024,Regular season,14,2023-11-04,Sparta Prague,Bohemians 1905,2,0,1.0
+2023-2024,Regular season,14,2023-11-05,Slovan Liberec,České Budĕjov.,1,0,1.0
+2023-2024,Regular season,14,2023-11-05,Karviná,Baník Ostrava,1,3,0.0
+2023-2024,Regular season,14,2023-11-05,Slavia Prague,Viktoria Plzeň,1,2,0.0
+2023-2024,Regular season,15,2023-11-11,Hradec Králové,Slovan Liberec,1,1,0.5
+2023-2024,Regular season,15,2023-11-11,Fastav Zlín,Jablonec,1,1,0.5
+2023-2024,Regular season,15,2023-11-11,Mladá Boleslav,FK Pardubice,1,0,1.0
+2023-2024,Regular season,15,2023-11-11,České Budĕjov.,Teplice,0,1,0.0
+2023-2024,Regular season,15,2023-11-11,Bohemians 1905,Karviná,1,0,1.0
+2023-2024,Regular season,15,2023-11-12,Baník Ostrava,Sparta Prague,0,1,0.0
+2023-2024,Regular season,15,2023-11-12,Viktoria Plzeň,Slovácko,1,4,0.0
+2023-2024,Regular season,15,2023-11-12,Sigma Olomouc,Slavia Prague,1,3,0.0
+2023-2024,Regular season,16,2023-11-25,Hradec Králové,Viktoria Plzeň,1,1,0.5
+2023-2024,Regular season,16,2023-11-25,Karviná,Sigma Olomouc,0,2,0.0
+2023-2024,Regular season,16,2023-11-25,Slovan Liberec,Mladá Boleslav,2,1,1.0
+2023-2024,Regular season,16,2023-11-25,Teplice,Bohemians 1905,1,1,0.5
+2023-2024,Regular season,16,2023-11-25,Slavia Prague,České Budĕjov.,2,1,1.0
+2023-2024,Regular season,16,2023-11-26,Jablonec,FK Pardubice,2,1,1.0
+2023-2024,Regular season,16,2023-11-26,Slovácko,Baník Ostrava,2,0,1.0
+2023-2024,Regular season,16,2023-11-26,Sparta Prague,Fastav Zlín,2,0,1.0
+2023-2024,Regular season,17,2023-12-02,Sigma Olomouc,Slovácko,1,1,0.5
+2023-2024,Regular season,17,2023-12-03,FK Pardubice,Sparta Prague,1,2,0.0
+2023-2024,Regular season,6,2023-12-06,Mladá Boleslav,Viktoria Plzeň,1,3,0.0
+2023-2024,Regular season,17,2023-12-06,Jablonec,Teplice,3,2,1.0
+2023-2024,Regular season,18,2023-12-09,Slovácko,Bohemians 1905,5,2,1.0
+2023-2024,Regular season,18,2023-12-09,Sparta Prague,Jablonec,3,0,1.0
+2023-2024,Regular season,18,2023-12-09,Slovan Liberec,Fastav Zlín,5,3,1.0
+2023-2024,Regular season,18,2023-12-09,Hradec Králové,Baník Ostrava,2,3,0.0
+2023-2024,Regular season,18,2023-12-10,Viktoria Plzeň,České Budĕjov.,5,0,1.0
+2023-2024,Regular season,18,2023-12-10,Slavia Prague,Mladá Boleslav,2,0,1.0
+2023-2024,Regular season,17,2023-12-13,České Budĕjov.,Hradec Králové,0,2,0.0
+2023-2024,Regular season,17,2023-12-13,Mladá Boleslav,Karviná,2,2,0.5
+2023-2024,Regular season,17,2023-12-13,Bohemians 1905,Slovan Liberec,0,0,0.5
+2023-2024,Regular season,19,2023-12-16,FK Pardubice,Slovan Liberec,2,0,1.0
+2023-2024,Regular season,19,2023-12-16,Fastav Zlín,Hradec Králové,4,0,1.0
+2023-2024,Regular season,19,2023-12-16,Jablonec,Karviná,0,0,0.5
+2023-2024,Regular season,19,2023-12-16,Mladá Boleslav,Slovácko,0,1,0.0
+2023-2024,Regular season,19,2023-12-16,Bohemians 1905,České Budĕjov.,0,0,0.5
+2023-2024,Regular season,19,2023-12-17,Sigma Olomouc,Viktoria Plzeň,1,3,0.0
+2023-2024,Regular season,19,2023-12-17,Baník Ostrava,Slavia Prague,2,3,0.0
+2023-2024,Regular season,19,2023-12-17,Sparta Prague,Teplice,2,1,1.0
+2023-2024,Regular season,20,2024-02-10,Slovan Liberec,Sigma Olomouc,2,0,1.0
+2023-2024,Regular season,20,2024-02-10,České Budĕjov.,Baník Ostrava,3,0,1.0
+2023-2024,Regular season,20,2024-02-10,Slovácko,FK Pardubice,1,2,0.0
+2023-2024,Regular season,20,2024-02-10,Karviná,Sparta Prague,0,3,0.0
+2023-2024,Regular season,20,2024-02-10,Viktoria Plzeň,Mladá Boleslav,1,1,0.5
+2023-2024,Regular season,20,2024-02-11,Teplice,Fastav Zlín,2,1,1.0
+2023-2024,Regular season,20,2024-02-11,Hradec Králové,Bohemians 1905,2,2,0.5
+2023-2024,Regular season,20,2024-02-11,Slavia Prague,Jablonec,4,3,1.0
+2023-2024,Regular season,17,2024-02-13,Baník Ostrava,Viktoria Plzeň,0,1,0.0
+2023-2024,Regular season,18,2024-02-14,Karviná,FK Pardubice,0,3,0.0
+2023-2024,Regular season,17,2024-02-14,Fastav Zlín,Slavia Prague,1,1,0.5
+2023-2024,Regular season,21,2024-02-17,FK Pardubice,Teplice,1,1,0.5
+2023-2024,Regular season,21,2024-02-17,Sigma Olomouc,Hradec Králové,0,0,0.5
+2023-2024,Regular season,21,2024-02-17,Jablonec,České Budĕjov.,5,2,1.0
+2023-2024,Regular season,21,2024-02-17,Mladá Boleslav,Baník Ostrava,1,3,0.0
+2023-2024,Regular season,21,2024-02-17,Bohemians 1905,Viktoria Plzeň,0,2,0.0
+2023-2024,Regular season,21,2024-02-18,Karviná,Slavia Prague,0,3,0.0
+2023-2024,Regular season,21,2024-02-18,Fastav Zlín,Slovácko,2,1,1.0
+2023-2024,Regular season,21,2024-02-18,Sparta Prague,Slovan Liberec,2,1,1.0
+2023-2024,Regular season,18,2024-02-21,Teplice,Sigma Olomouc,2,0,1.0
+2023-2024,Regular season,22,2024-02-24,Baník Ostrava,Bohemians 1905,1,1,0.5
+2023-2024,Regular season,22,2024-02-24,Slovan Liberec,Jablonec,3,3,0.5
+2023-2024,Regular season,22,2024-02-24,Hradec Králové,Mladá Boleslav,0,0,0.5
+2023-2024,Regular season,22,2024-02-24,Teplice,Karviná,2,2,0.5
+2023-2024,Regular season,22,2024-02-24,Viktoria Plzeň,Fastav Zlín,3,0,1.0
+2023-2024,Regular season,22,2024-02-25,Slavia Prague,FK Pardubice,3,0,1.0
+2023-2024,Regular season,22,2024-02-25,České Budĕjov.,Sigma Olomouc,2,1,1.0
+2023-2024,Regular season,22,2024-02-25,Slovácko,Sparta Prague,1,3,0.0
+2023-2024,Regular season,23,2024-03-02,Jablonec,Hradec Králové,1,1,0.5
+2023-2024,Regular season,23,2024-03-02,Karviná,Slovácko,1,3,0.0
+2023-2024,Regular season,23,2024-03-02,Mladá Boleslav,České Budĕjov.,3,1,1.0
+2023-2024,Regular season,23,2024-03-02,Sigma Olomouc,Bohemians 1905,2,2,0.5
+2023-2024,Regular season,23,2024-03-02,FK Pardubice,Viktoria Plzeň,2,3,0.0
+2023-2024,Regular season,23,2024-03-03,Teplice,Slovan Liberec,2,0,1.0
+2023-2024,Regular season,23,2024-03-03,Fastav Zlín,Baník Ostrava,0,1,0.0
+2023-2024,Regular season,23,2024-03-03,Sparta Prague,Slavia Prague,0,0,0.5
+2023-2024,Regular season,24,2024-03-09,Slovácko,Jablonec,0,1,0.0
+2023-2024,Regular season,24,2024-03-09,Slovan Liberec,Karviná,1,0,1.0
+2023-2024,Regular season,24,2024-03-09,Hradec Králové,FK Pardubice,2,0,1.0
+2023-2024,Regular season,24,2024-03-09,Bohemians 1905,Mladá Boleslav,0,0,0.5
+2023-2024,Regular season,24,2024-03-09,Baník Ostrava,Sigma Olomouc,1,2,0.0
+2023-2024,Regular season,24,2024-03-10,Slavia Prague,Teplice,4,0,1.0
+2023-2024,Regular season,24,2024-03-10,České Budĕjov.,Fastav Zlín,2,2,0.5
+2023-2024,Regular season,24,2024-03-10,Viktoria Plzeň,Sparta Prague,4,0,1.0
+2023-2024,Regular season,25,2024-03-16,Mladá Boleslav,Sigma Olomouc,2,1,1.0
+2023-2024,Regular season,25,2024-03-16,Fastav Zlín,Bohemians 1905,2,2,0.5
+2023-2024,Regular season,25,2024-03-16,Karviná,České Budĕjov.,2,1,1.0
+2023-2024,Regular season,25,2024-03-16,Teplice,Slovácko,1,1,0.5
+2023-2024,Regular season,25,2024-03-17,Slavia Prague,Slovan Liberec,3,0,1.0
+2023-2024,Regular season,25,2024-03-17,Jablonec,Viktoria Plzeň,1,2,0.0
+2023-2024,Regular season,25,2024-03-17,FK Pardubice,Baník Ostrava,0,1,0.0
+2023-2024,Regular season,25,2024-03-17,Sparta Prague,Hradec Králové,2,1,1.0
+2023-2024,Regular season,26,2024-03-30,Viktoria Plzeň,Slovan Liberec,1,3,0.0
+2023-2024,Regular season,26,2024-03-30,Bohemians 1905,Jablonec,2,0,1.0
+2023-2024,Regular season,26,2024-03-30,Sigma Olomouc,FK Pardubice,0,2,0.0
+2023-2024,Regular season,26,2024-03-30,Slovácko,Slavia Prague,1,3,0.0
+2023-2024,Regular season,26,2024-03-31,Baník Ostrava,Teplice,4,1,1.0
+2023-2024,Regular season,26,2024-03-31,Mladá Boleslav,Fastav Zlín,3,2,1.0
+2023-2024,Regular season,26,2024-03-31,Hradec Králové,Karviná,2,1,1.0
+2023-2024,Regular season,26,2024-03-31,České Budĕjov.,Sparta Prague,0,1,0.0
+2023-2024,Regular season,27,2024-04-06,Fastav Zlín,Sigma Olomouc,3,2,1.0
+2023-2024,Regular season,27,2024-04-06,Slovan Liberec,Slovácko,4,1,1.0
+2023-2024,Regular season,27,2024-04-06,Karviná,Viktoria Plzeň,0,0,0.5
+2023-2024,Regular season,27,2024-04-06,Slavia Prague,Bohemians 1905,2,1,1.0
+2023-2024,Regular season,27,2024-04-07,FK Pardubice,České Budĕjov.,1,1,0.5
+2023-2024,Regular season,27,2024-04-07,Jablonec,Baník Ostrava,2,3,0.0
+2023-2024,Regular season,27,2024-04-07,Teplice,Hradec Králové,0,1,0.0
+2023-2024,Regular season,27,2024-04-07,Sparta Prague,Mladá Boleslav,1,1,0.5
+2023-2024,Regular season,28,2024-04-13,České Budĕjov.,Slovan Liberec,3,2,1.0
+2023-2024,Regular season,28,2024-04-13,Bohemians 1905,Sparta Prague,1,3,0.0
+2023-2024,Regular season,28,2024-04-13,Mladá Boleslav,Teplice,1,2,0.0
+2023-2024,Regular season,28,2024-04-13,Hradec Králové,Slovácko,1,0,1.0
+2023-2024,Regular season,28,2024-04-14,Baník Ostrava,Karviná,2,2,0.5
+2023-2024,Regular season,28,2024-04-14,Fastav Zlín,FK Pardubice,1,1,0.5
+2023-2024,Regular season,28,2024-04-14,Sigma Olomouc,Jablonec,1,0,1.0
+2023-2024,Regular season,28,2024-04-14,Viktoria Plzeň,Slavia Prague,1,0,1.0
+2023-2024,Regular season,29,2024-04-20,Karviná,Bohemians 1905,1,1,0.5
+2023-2024,Regular season,29,2024-04-20,Sparta Prague,Baník Ostrava,4,3,1.0
+2023-2024,Regular season,29,2024-04-20,Jablonec,Fastav Zlín,0,0,0.5
+2023-2024,Regular season,29,2024-04-20,Teplice,České Budĕjov.,2,2,0.5
+2023-2024,Regular season,29,2024-04-21,Slovan Liberec,Hradec Králové,0,0,0.5
+2023-2024,Regular season,29,2024-04-21,FK Pardubice,Mladá Boleslav,1,2,0.0
+2023-2024,Regular season,29,2024-04-21,Slavia Prague,Sigma Olomouc,2,2,0.5
+2023-2024,Regular season,29,2024-04-21,Slovácko,Viktoria Plzeň,1,1,0.5
+2023-2024,Regular season,30,2024-04-28,Bohemians 1905,FK Pardubice,2,1,1.0
+2023-2024,Regular season,30,2024-04-28,Baník Ostrava,Slovan Liberec,2,2,0.5
+2023-2024,Regular season,30,2024-04-28,Jablonec,Mladá Boleslav,1,1,0.5
+2023-2024,Regular season,30,2024-04-28,Fastav Zlín,Karviná,0,1,0.0
+2023-2024,Regular season,30,2024-04-28,České Budĕjov.,Slovácko,2,2,0.5
+2023-2024,Regular season,30,2024-04-28,Sigma Olomouc,Sparta Prague,1,4,0.0
+2023-2024,Regular season,30,2024-04-28,Hradec Králové,Slavia Prague,1,2,0.0
+2023-2024,Regular season,30,2024-04-28,Viktoria Plzeň,Teplice,3,0,1.0
+2023-2024,Relegation round,1,2024-05-04,Jablonec,Karviná,3,2,1.0
+2023-2024,Relegation round,1,2024-05-04,FK Pardubice,Fastav Zlín,2,0,1.0
+2023-2024,Relegation round,1,2024-05-04,České Budĕjov.,Bohemians 1905,2,1,1.0
+2023-2024,Championship round,1,2024-05-04,Slavia Prague,Baník Ostrava,5,0,1.0
+2023-2024,Conference League play-offs — First round,,2024-05-05,Teplice,Slovan Liberec,2,0,1.0
+2023-2024,Conference League play-offs — First round,,2024-05-05,Hradec Králové,Sigma Olomouc,3,1,1.0
+2023-2024,Championship round,1,2024-05-05,Viktoria Plzeň,Mladá Boleslav,3,0,1.0
+2023-2024,Championship round,1,2024-05-05,Slovácko,Sparta Prague,2,4,0.0
+2023-2024,Championship round,2,2024-05-11,Baník Ostrava,Mladá Boleslav,0,1,0.0
+2023-2024,Championship round,2,2024-05-11,Viktoria Plzeň,Slovácko,4,2,1.0
+2023-2024,Championship round,2,2024-05-11,Sparta Prague,Slavia Prague,0,0,0.5
+2023-2024,Conference League play-offs — First round,,2024-05-12,Sigma Olomouc,Hradec Králové,1,3,0.0
+2023-2024,Conference League play-offs — First round,,2024-05-12,Slovan Liberec,Teplice,1,2,0.0
+2023-2024,Relegation round,2,2024-05-12,Bohemians 1905,Jablonec,1,1,0.5
+2023-2024,Relegation round,2,2024-05-12,FK Pardubice,České Budĕjov.,3,2,1.0
+2023-2024,Relegation round,2,2024-05-12,Karviná,Fastav Zlín,2,2,0.5
+2023-2024,Championship round,3,2024-05-14,Mladá Boleslav,Slovácko,0,1,0.0
+2023-2024,Championship round,3,2024-05-14,Sparta Prague,Baník Ostrava,2,1,1.0
+2023-2024,Championship round,3,2024-05-15,Slavia Prague,Viktoria Plzeň,3,0,1.0
+2023-2024,Relegation round,3,2024-05-16,Bohemians 1905,Karviná,1,3,0.0
+2023-2024,Relegation round,3,2024-05-16,Jablonec,FK Pardubice,3,0,1.0
+2023-2024,Relegation round,3,2024-05-16,Fastav Zlín,České Budĕjov.,1,1,0.5
+2023-2024,Championship round,4,2024-05-18,Slovácko,Slavia Prague,1,2,0.0
+2023-2024,Championship round,4,2024-05-18,Viktoria Plzeň,Baník Ostrava,1,1,0.5
+2023-2024,Championship round,4,2024-05-18,Mladá Boleslav,Sparta Prague,0,5,0.0
+2023-2024,Conference League play-offs — Second round,,2024-05-19,Teplice,Hradec Králové,0,1,0.0
+2023-2024,Relegation round,4,2024-05-19,České Budĕjov.,Jablonec,2,2,0.5
+2023-2024,Relegation round,4,2024-05-19,Fastav Zlín,Bohemians 1905,1,2,0.0
+2023-2024,Relegation round,4,2024-05-19,FK Pardubice,Karviná,4,0,1.0
+2023-2024,Conference League play-offs — Second round,,2024-05-25,Hradec Králové,Teplice,2,0,1.0
+2023-2024,Relegation round,5,2024-05-25,Jablonec,Fastav Zlín,1,0,1.0
+2023-2024,Relegation round,5,2024-05-25,Karviná,České Budĕjov.,1,0,1.0
+2023-2024,Relegation round,5,2024-05-25,Bohemians 1905,FK Pardubice,0,1,0.0
+2023-2024,Championship round,5,2024-05-26,Slavia Prague,Mladá Boleslav,4,0,1.0
+2023-2024,Championship round,5,2024-05-26,Baník Ostrava,Slovácko,6,0,1.0
+2023-2024,Championship round,5,2024-05-26,Sparta Prague,Viktoria Plzeň,1,1,0.5
+2023-2024,Conference League play-offs — Final,,2024-05-31,Mladá Boleslav,Hradec Králové,3,1,1.0

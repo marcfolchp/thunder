@@ -1,0 +1,309 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,Primeira Liga,1,2021-08-06,Sporting CP,Vizela,3,0,1.0
+2021-2022,Primeira Liga,1,2021-08-07,Arouca,Estoril,0,2,0.0
+2021-2022,Primeira Liga,1,2021-08-07,Moreirense,Benfica,1,2,0.0
+2021-2022,Primeira Liga,1,2021-08-07,Marítimo,Braga,0,2,0.0
+2021-2022,Primeira Liga,1,2021-08-08,Tondela,Santa Clara,3,0,1.0
+2021-2022,Primeira Liga,1,2021-08-08,Vitória,Portimonense,0,1,0.0
+2021-2022,Primeira Liga,1,2021-08-08,Porto,B-SAD,2,0,1.0
+2021-2022,Primeira Liga,1,2021-08-08,Paços,Famalicão,2,0,1.0
+2021-2022,Primeira Liga,1,2021-08-09,Gil Vicente FC,Boavista,3,0,1.0
+2021-2022,Primeira Liga,2,2021-08-13,Estoril,Vitória,0,0,0.5
+2021-2022,Primeira Liga,2,2021-08-14,Vizela,Tondela,2,1,1.0
+2021-2022,Primeira Liga,2,2021-08-14,Benfica,Arouca,2,0,1.0
+2021-2022,Primeira Liga,2,2021-08-14,Braga,Sporting CP,1,2,0.0
+2021-2022,Primeira Liga,2,2021-08-15,Portimonense,Gil Vicente FC,0,1,0.0
+2021-2022,Primeira Liga,2,2021-08-15,Famalicão,Porto,1,2,0.0
+2021-2022,Primeira Liga,2,2021-08-15,Santa Clara,Moreirense,2,2,0.5
+2021-2022,Primeira Liga,2,2021-08-16,Boavista,Paços,3,0,1.0
+2021-2022,Primeira Liga,2,2021-08-16,B-SAD,Marítimo,1,2,0.0
+2021-2022,Primeira Liga,3,2021-08-20,Arouca,Famalicão,2,1,1.0
+2021-2022,Primeira Liga,3,2021-08-20,Moreirense,Braga,2,3,0.0
+2021-2022,Primeira Liga,3,2021-08-21,Gil Vicente FC,Benfica,0,2,0.0
+2021-2022,Primeira Liga,3,2021-08-21,Sporting CP,B-SAD,2,0,1.0
+2021-2022,Primeira Liga,3,2021-08-22,Tondela,Portimonense,0,3,0.0
+2021-2022,Primeira Liga,3,2021-08-22,Marítimo,Porto,1,1,0.5
+2021-2022,Primeira Liga,3,2021-08-22,Vitória,Vizela,4,0,1.0
+2021-2022,Primeira Liga,3,2021-08-23,Paços,Estoril,1,3,0.0
+2021-2022,Primeira Liga,3,2021-08-23,Boavista,Santa Clara,2,0,1.0
+2021-2022,Primeira Liga,4,2021-08-27,B-SAD,Moreirense,1,1,0.5
+2021-2022,Primeira Liga,4,2021-08-27,Estoril,Marítimo,2,1,1.0
+2021-2022,Primeira Liga,4,2021-08-28,Vizela,Boavista,1,1,0.5
+2021-2022,Primeira Liga,4,2021-08-28,Porto,Arouca,3,0,1.0
+2021-2022,Primeira Liga,4,2021-08-28,Famalicão,Sporting CP,1,1,0.5
+2021-2022,Primeira Liga,4,2021-08-29,Benfica,Tondela,2,1,1.0
+2021-2022,Primeira Liga,4,2021-08-29,Braga,Vitória,0,0,0.5
+2021-2022,Primeira Liga,4,2021-08-29,Santa Clara,Gil Vicente FC,1,0,1.0
+2021-2022,Primeira Liga,4,2021-08-29,Portimonense,Paços,0,1,0.0
+2021-2022,Primeira Liga,5,2021-09-11,Paços,Braga,0,0,0.5
+2021-2022,Primeira Liga,5,2021-09-11,Santa Clara,Benfica,0,5,0.0
+2021-2022,Primeira Liga,5,2021-09-11,Sporting CP,Porto,1,1,0.5
+2021-2022,Primeira Liga,5,2021-09-12,Moreirense,Famalicão,2,2,0.5
+2021-2022,Primeira Liga,5,2021-09-12,Gil Vicente FC,Vizela,2,2,0.5
+2021-2022,Primeira Liga,5,2021-09-12,Boavista,Portimonense,1,1,0.5
+2021-2022,Primeira Liga,5,2021-09-12,Vitória,B-SAD,0,0,0.5
+2021-2022,Primeira Liga,5,2021-09-13,Marítimo,Arouca,2,2,0.5
+2021-2022,Primeira Liga,5,2021-09-13,Tondela,Estoril,1,2,0.0
+2021-2022,Primeira Liga,6,2021-09-17,Portimonense,Santa Clara,2,1,1.0
+2021-2022,Primeira Liga,6,2021-09-18,Famalicão,Marítimo,0,0,0.5
+2021-2022,Primeira Liga,6,2021-09-18,B-SAD,Gil Vicente FC,1,1,0.5
+2021-2022,Primeira Liga,6,2021-09-18,Arouca,Vitória,2,2,0.5
+2021-2022,Primeira Liga,6,2021-09-19,Vizela,Paços,1,1,0.5
+2021-2022,Primeira Liga,6,2021-09-19,Porto,Moreirense,5,0,1.0
+2021-2022,Primeira Liga,6,2021-09-19,Estoril,Sporting CP,0,1,0.0
+2021-2022,Primeira Liga,6,2021-09-20,Benfica,Boavista,3,1,1.0
+2021-2022,Primeira Liga,6,2021-09-20,Braga,Tondela,3,1,1.0
+2021-2022,Primeira Liga,7,2021-09-24,Sporting CP,Marítimo,1,0,1.0
+2021-2022,Primeira Liga,7,2021-09-24,Gil Vicente FC,Porto,1,2,0.0
+2021-2022,Primeira Liga,7,2021-09-25,Moreirense,Arouca,2,1,1.0
+2021-2022,Primeira Liga,7,2021-09-25,Vitória,Benfica,1,3,0.0
+2021-2022,Primeira Liga,7,2021-09-25,Tondela,Famalicão,3,2,1.0
+2021-2022,Primeira Liga,7,2021-09-26,Santa Clara,Braga,1,1,0.5
+2021-2022,Primeira Liga,7,2021-09-26,Portimonense,Vizela,0,0,0.5
+2021-2022,Primeira Liga,7,2021-09-27,Paços,B-SAD,2,2,0.5
+2021-2022,Primeira Liga,7,2021-09-27,Boavista,Estoril,1,1,0.5
+2021-2022,Primeira Liga,8,2021-10-01,Marítimo,Moreirense,0,0,0.5
+2021-2022,Primeira Liga,8,2021-10-01,Famalicão,Vitória,1,2,0.0
+2021-2022,Primeira Liga,8,2021-10-02,Vizela,Santa Clara,1,1,0.5
+2021-2022,Primeira Liga,8,2021-10-02,Porto,Paços,2,1,1.0
+2021-2022,Primeira Liga,8,2021-10-02,Arouca,Sporting CP,1,2,0.0
+2021-2022,Primeira Liga,8,2021-10-03,B-SAD,Tondela,0,2,0.0
+2021-2022,Primeira Liga,8,2021-10-03,Estoril,Gil Vicente FC,2,2,0.5
+2021-2022,Primeira Liga,8,2021-10-03,Benfica,Portimonense,0,1,0.0
+2021-2022,Primeira Liga,8,2021-10-03,Braga,Boavista,2,2,0.5
+2021-2022,Primeira Liga,9,2021-10-22,Vitória,Marítimo,2,1,1.0
+2021-2022,Primeira Liga,9,2021-10-23,Santa Clara,Famalicão,0,2,0.0
+2021-2022,Primeira Liga,9,2021-10-23,Tondela,Porto,1,3,0.0
+2021-2022,Primeira Liga,9,2021-10-23,Sporting CP,Moreirense,1,0,1.0
+2021-2022,Primeira Liga,9,2021-10-24,Paços,Arouca,0,0,0.5
+2021-2022,Primeira Liga,9,2021-10-24,Vizela,Benfica,0,1,0.0
+2021-2022,Primeira Liga,9,2021-10-24,Portimonense,Estoril,0,2,0.0
+2021-2022,Primeira Liga,9,2021-10-25,Gil Vicente FC,Braga,0,1,0.0
+2021-2022,Primeira Liga,9,2021-10-25,Boavista,B-SAD,0,0,0.5
+2021-2022,Primeira Liga,10,2021-10-29,Arouca,Tondela,2,0,1.0
+2021-2022,Primeira Liga,10,2021-10-30,Porto,Boavista,4,1,1.0
+2021-2022,Primeira Liga,10,2021-10-30,Estoril,Benfica,1,1,0.5
+2021-2022,Primeira Liga,10,2021-10-30,Sporting CP,Vitória,1,0,1.0
+2021-2022,Primeira Liga,10,2021-10-31,Marítimo,Gil Vicente FC,1,2,0.0
+2021-2022,Primeira Liga,10,2021-10-31,B-SAD,Santa Clara,2,1,1.0
+2021-2022,Primeira Liga,10,2021-10-31,Famalicão,Vizela,1,1,0.5
+2021-2022,Primeira Liga,10,2021-11-01,Braga,Portimonense,3,0,1.0
+2021-2022,Primeira Liga,10,2021-11-01,Moreirense,Paços,1,1,0.5
+2021-2022,Primeira Liga,11,2021-11-05,Gil Vicente FC,Arouca,1,1,0.5
+2021-2022,Primeira Liga,11,2021-11-05,Boavista,Famalicão,2,5,0.0
+2021-2022,Primeira Liga,11,2021-11-06,Vizela,Estoril,1,1,0.5
+2021-2022,Primeira Liga,11,2021-11-06,Portimonense,B-SAD,2,0,1.0
+2021-2022,Primeira Liga,11,2021-11-06,Vitória,Moreirense,2,1,1.0
+2021-2022,Primeira Liga,11,2021-11-07,Tondela,Marítimo,4,2,1.0
+2021-2022,Primeira Liga,11,2021-11-07,Santa Clara,Porto,0,3,0.0
+2021-2022,Primeira Liga,11,2021-11-07,Paços,Sporting CP,0,2,0.0
+2021-2022,Primeira Liga,11,2021-11-07,Benfica,Braga,6,1,1.0
+2021-2022,Primeira Liga,12,2021-11-26,Moreirense,Gil Vicente FC,2,2,0.5
+2021-2022,Primeira Liga,12,2021-11-27,Famalicão,Portimonense,0,3,0.0
+2021-2022,Primeira Liga,12,2021-11-27,Arouca,Boavista,2,1,1.0
+2021-2022,Primeira Liga,12,2021-11-27,B-SAD,Benfica,0,7,0.0
+2021-2022,Primeira Liga,12,2021-11-28,Marítimo,Paços,2,0,1.0
+2021-2022,Primeira Liga,12,2021-11-28,Sporting CP,Tondela,2,0,1.0
+2021-2022,Primeira Liga,12,2021-11-28,Porto,Vitória,2,1,1.0
+2021-2022,Primeira Liga,12,2021-11-29,Estoril,Santa Clara,2,2,0.5
+2021-2022,Primeira Liga,12,2021-11-30,Braga,Vizela,4,1,1.0
+2021-2022,Primeira Liga,13,2021-12-03,Portimonense,Porto,0,3,0.0
+2021-2022,Primeira Liga,13,2021-12-03,Benfica,Sporting CP,1,3,0.0
+2021-2022,Primeira Liga,13,2021-12-04,Boavista,Marítimo,1,1,0.5
+2021-2022,Primeira Liga,13,2021-12-04,Paços,Vitória,1,2,0.0
+2021-2022,Primeira Liga,13,2021-12-05,Santa Clara,Arouca,2,1,1.0
+2021-2022,Primeira Liga,13,2021-12-05,Gil Vicente FC,Famalicão,4,0,1.0
+2021-2022,Primeira Liga,13,2021-12-05,Braga,Estoril,2,0,1.0
+2021-2022,Primeira Liga,14,2021-12-10,Paços,Gil Vicente FC,0,1,0.0
+2021-2022,Primeira Liga,14,2021-12-11,Marítimo,Santa Clara,4,1,1.0
+2021-2022,Primeira Liga,14,2021-12-11,Vitória,Tondela,5,2,1.0
+2021-2022,Primeira Liga,14,2021-12-11,Sporting CP,Boavista,2,0,1.0
+2021-2022,Primeira Liga,14,2021-12-12,Moreirense,Portimonense,0,1,0.0
+2021-2022,Primeira Liga,14,2021-12-12,B-SAD,Estoril,0,1,0.0
+2021-2022,Primeira Liga,14,2021-12-12,Famalicão,Benfica,1,4,0.0
+2021-2022,Primeira Liga,14,2021-12-12,Porto,Braga,1,0,1.0
+2021-2022,Primeira Liga,14,2021-12-13,Arouca,Vizela,1,4,0.0
+2021-2022,Primeira Liga,15,2021-12-17,Santa Clara,Vitória,1,0,1.0
+2021-2022,Primeira Liga,15,2021-12-17,Estoril,Famalicão,2,2,0.5
+2021-2022,Primeira Liga,15,2021-12-18,Portimonense,Arouca,1,1,0.5
+2021-2022,Primeira Liga,15,2021-12-18,Tondela,Paços,0,1,0.0
+2021-2022,Primeira Liga,15,2021-12-18,Gil Vicente FC,Sporting CP,0,3,0.0
+2021-2022,Primeira Liga,15,2021-12-19,Benfica,Marítimo,7,1,1.0
+2021-2022,Primeira Liga,15,2021-12-19,Boavista,Moreirense,1,0,1.0
+2021-2022,Primeira Liga,15,2021-12-19,Vizela,Porto,0,4,0.0
+2021-2022,Primeira Liga,15,2021-12-19,Braga,B-SAD,1,0,1.0
+2021-2022,Primeira Liga,16,2021-12-28,Tondela,Gil Vicente FC,0,3,0.0
+2021-2022,Primeira Liga,16,2021-12-28,Marítimo,Vizela,2,0,1.0
+2021-2022,Primeira Liga,16,2021-12-28,Moreirense,Estoril,1,0,1.0
+2021-2022,Primeira Liga,16,2021-12-29,Vitória,Boavista,1,1,0.5
+2021-2022,Primeira Liga,16,2021-12-29,Sporting CP,Portimonense,3,2,1.0
+2021-2022,Primeira Liga,16,2021-12-30,Paços,Santa Clara,2,1,1.0
+2021-2022,Primeira Liga,16,2021-12-30,Arouca,Braga,0,6,0.0
+2021-2022,Primeira Liga,16,2021-12-30,Porto,Benfica,3,1,1.0
+2021-2022,Primeira Liga,13,2022-01-02,Vizela,B-SAD,2,0,1.0
+2021-2022,Primeira Liga,13,2022-01-03,Tondela,Moreirense,2,1,1.0
+2021-2022,Primeira Liga,17,2022-01-07,Santa Clara,Sporting CP,3,2,1.0
+2021-2022,Primeira Liga,17,2022-01-08,Vizela,Moreirense,0,1,0.0
+2021-2022,Primeira Liga,17,2022-01-08,Estoril,Porto,2,3,0.0
+2021-2022,Primeira Liga,17,2022-01-08,Boavista,Tondela,1,1,0.5
+2021-2022,Primeira Liga,17,2022-01-09,Portimonense,Marítimo,1,2,0.0
+2021-2022,Primeira Liga,17,2022-01-09,Benfica,Paços,2,0,1.0
+2021-2022,Primeira Liga,17,2022-01-09,Braga,Famalicão,2,2,0.5
+2021-2022,Primeira Liga,17,2022-01-09,B-SAD,Arouca,2,1,1.0
+2021-2022,Primeira Liga,17,2022-01-10,Gil Vicente FC,Vitória,3,2,1.0
+2021-2022,Primeira Liga,16,2022-01-13,Famalicão,B-SAD,1,0,1.0
+2021-2022,Primeira Liga,18,2022-01-15,Boavista,Gil Vicente FC,1,1,0.5
+2021-2022,Primeira Liga,18,2022-01-15,Braga,Marítimo,0,1,0.0
+2021-2022,Primeira Liga,18,2022-01-15,Benfica,Moreirense,1,1,0.5
+2021-2022,Primeira Liga,18,2022-01-16,Santa Clara,Tondela,2,2,0.5
+2021-2022,Primeira Liga,18,2022-01-16,Vizela,Sporting CP,0,2,0.0
+2021-2022,Primeira Liga,18,2022-01-16,Famalicão,Paços,0,0,0.5
+2021-2022,Primeira Liga,18,2022-01-16,B-SAD,Porto,1,4,0.0
+2021-2022,Primeira Liga,18,2022-01-17,Portimonense,Vitória,1,1,0.5
+2021-2022,Primeira Liga,19,2022-01-21,Arouca,Benfica,0,2,0.0
+2021-2022,Primeira Liga,19,2022-01-21,Paços,Boavista,1,1,0.5
+2021-2022,Primeira Liga,19,2022-01-22,Moreirense,Santa Clara,0,2,0.0
+2021-2022,Primeira Liga,19,2022-01-22,Tondela,Vizela,2,3,0.0
+2021-2022,Primeira Liga,19,2022-01-22,Sporting CP,Braga,1,2,0.0
+2021-2022,Primeira Liga,19,2022-01-23,Vitória,Estoril,3,1,1.0
+2021-2022,Primeira Liga,19,2022-01-23,Marítimo,B-SAD,1,1,0.5
+2021-2022,Primeira Liga,19,2022-01-23,Gil Vicente FC,Portimonense,1,0,1.0
+2021-2022,Primeira Liga,19,2022-01-23,Porto,Famalicão,3,1,1.0
+2021-2022,Primeira Liga,18,2022-01-27,Estoril,Arouca,1,2,0.0
+2021-2022,Primeira Liga,20,2022-01-30,Portimonense,Tondela,1,2,0.0
+2021-2022,Primeira Liga,20,2022-01-30,Vizela,Vitória,3,2,1.0
+2021-2022,Primeira Liga,20,2022-01-30,Braga,Moreirense,2,0,1.0
+2021-2022,Primeira Liga,20,2022-01-30,Porto,Marítimo,2,1,1.0
+2021-2022,Primeira Liga,20,2022-01-31,Estoril,Paços,0,0,0.5
+2021-2022,Primeira Liga,20,2022-01-31,Famalicão,Arouca,0,0,0.5
+2021-2022,Primeira Liga,20,2022-02-01,Santa Clara,Boavista,2,1,1.0
+2021-2022,Primeira Liga,20,2022-02-02,Benfica,Gil Vicente FC,1,2,0.0
+2021-2022,Primeira Liga,20,2022-02-02,B-SAD,Sporting CP,1,4,0.0
+2021-2022,Primeira Liga,21,2022-02-05,Marítimo,Estoril,0,0,0.5
+2021-2022,Primeira Liga,21,2022-02-05,Paços,Portimonense,1,1,0.5
+2021-2022,Primeira Liga,21,2022-02-05,Vitória,Braga,2,1,1.0
+2021-2022,Primeira Liga,21,2022-02-06,Boavista,Vizela,2,2,0.5
+2021-2022,Primeira Liga,21,2022-02-06,Gil Vicente FC,Santa Clara,2,2,0.5
+2021-2022,Primeira Liga,21,2022-02-06,Arouca,Porto,0,2,0.0
+2021-2022,Primeira Liga,21,2022-02-06,Sporting CP,Famalicão,2,0,1.0
+2021-2022,Primeira Liga,21,2022-02-07,Tondela,Benfica,1,3,0.0
+2021-2022,Primeira Liga,21,2022-02-07,Moreirense,B-SAD,4,1,1.0
+2021-2022,Primeira Liga,22,2022-02-11,Porto,Sporting CP,2,2,0.5
+2021-2022,Primeira Liga,22,2022-02-12,Braga,Paços,2,1,1.0
+2021-2022,Primeira Liga,22,2022-02-12,Portimonense,Boavista,1,1,0.5
+2021-2022,Primeira Liga,22,2022-02-12,Benfica,Santa Clara,2,1,1.0
+2021-2022,Primeira Liga,22,2022-02-12,Estoril,Tondela,1,0,1.0
+2021-2022,Primeira Liga,22,2022-02-13,Famalicão,Moreirense,5,0,1.0
+2021-2022,Primeira Liga,22,2022-02-13,B-SAD,Vitória,1,0,1.0
+2021-2022,Primeira Liga,22,2022-02-13,Vizela,Gil Vicente FC,0,1,0.0
+2021-2022,Primeira Liga,22,2022-02-14,Arouca,Marítimo,0,3,0.0
+2021-2022,Primeira Liga,23,2022-02-18,Boavista,Benfica,2,2,0.5
+2021-2022,Primeira Liga,23,2022-02-19,Gil Vicente FC,B-SAD,2,0,1.0
+2021-2022,Primeira Liga,23,2022-02-19,Paços,Vizela,2,1,1.0
+2021-2022,Primeira Liga,23,2022-02-19,Vitória,Arouca,1,3,0.0
+2021-2022,Primeira Liga,23,2022-02-20,Marítimo,Famalicão,0,1,0.0
+2021-2022,Primeira Liga,23,2022-02-20,Sporting CP,Estoril,3,0,1.0
+2021-2022,Primeira Liga,23,2022-02-20,Moreirense,Porto,0,1,0.0
+2021-2022,Primeira Liga,23,2022-02-20,Tondela,Braga,0,1,0.0
+2021-2022,Primeira Liga,23,2022-02-21,Santa Clara,Portimonense,1,1,0.5
+2021-2022,Primeira Liga,24,2022-02-25,B-SAD,Paços,0,2,0.0
+2021-2022,Primeira Liga,24,2022-02-26,Famalicão,Tondela,2,1,1.0
+2021-2022,Primeira Liga,24,2022-02-26,Marítimo,Sporting CP,1,1,0.5
+2021-2022,Primeira Liga,24,2022-02-26,Arouca,Moreirense,1,1,0.5
+2021-2022,Primeira Liga,24,2022-02-27,Vizela,Portimonense,1,1,0.5
+2021-2022,Primeira Liga,24,2022-02-27,Benfica,Vitória,3,0,1.0
+2021-2022,Primeira Liga,24,2022-02-27,Estoril,Boavista,2,3,0.0
+2021-2022,Primeira Liga,24,2022-02-27,Porto,Gil Vicente FC,1,1,0.5
+2021-2022,Primeira Liga,24,2022-02-28,Braga,Santa Clara,0,0,0.5
+2021-2022,Primeira Liga,25,2022-03-04,Gil Vicente FC,Estoril,0,0,0.5
+2021-2022,Primeira Liga,25,2022-03-05,Boavista,Braga,1,1,0.5
+2021-2022,Primeira Liga,25,2022-03-05,Portimonense,Benfica,1,2,0.0
+2021-2022,Primeira Liga,25,2022-03-05,Sporting CP,Arouca,2,0,1.0
+2021-2022,Primeira Liga,25,2022-03-06,Moreirense,Marítimo,0,1,0.0
+2021-2022,Primeira Liga,25,2022-03-06,Paços,Porto,2,4,0.0
+2021-2022,Primeira Liga,25,2022-03-06,Santa Clara,Vizela,3,1,1.0
+2021-2022,Primeira Liga,25,2022-03-06,Vitória,Famalicão,2,1,1.0
+2021-2022,Primeira Liga,25,2022-03-07,Tondela,B-SAD,1,1,0.5
+2021-2022,Primeira Liga,26,2022-03-11,Benfica,Vizela,1,1,0.5
+2021-2022,Primeira Liga,26,2022-03-12,Estoril,Portimonense,2,0,1.0
+2021-2022,Primeira Liga,26,2022-03-12,Famalicão,Santa Clara,0,0,0.5
+2021-2022,Primeira Liga,26,2022-03-12,Arouca,Paços,0,1,0.0
+2021-2022,Primeira Liga,26,2022-03-12,B-SAD,Boavista,0,0,0.5
+2021-2022,Primeira Liga,26,2022-03-13,Marítimo,Vitória,0,1,0.0
+2021-2022,Primeira Liga,26,2022-03-13,Porto,Tondela,4,0,1.0
+2021-2022,Primeira Liga,26,2022-03-13,Braga,Gil Vicente FC,0,1,0.0
+2021-2022,Primeira Liga,26,2022-03-14,Moreirense,Sporting CP,0,2,0.0
+2021-2022,Primeira Liga,27,2022-03-18,Vizela,Famalicão,1,1,0.5
+2021-2022,Primeira Liga,27,2022-03-19,Tondela,Arouca,2,2,0.5
+2021-2022,Primeira Liga,27,2022-03-19,Santa Clara,B-SAD,0,0,0.5
+2021-2022,Primeira Liga,27,2022-03-19,Vitória,Sporting CP,1,3,0.0
+2021-2022,Primeira Liga,27,2022-03-20,Paços,Moreirense,2,1,1.0
+2021-2022,Primeira Liga,27,2022-03-20,Gil Vicente FC,Marítimo,1,1,0.5
+2021-2022,Primeira Liga,27,2022-03-20,Benfica,Estoril,2,1,1.0
+2021-2022,Primeira Liga,27,2022-03-20,Portimonense,Braga,1,2,0.0
+2021-2022,Primeira Liga,27,2022-03-20,Boavista,Porto,0,1,0.0
+2021-2022,Primeira Liga,28,2022-04-01,Braga,Benfica,3,2,1.0
+2021-2022,Primeira Liga,28,2022-04-02,B-SAD,Portimonense,2,0,1.0
+2021-2022,Primeira Liga,28,2022-04-02,Estoril,Vizela,1,2,0.0
+2021-2022,Primeira Liga,28,2022-04-02,Arouca,Gil Vicente FC,2,1,1.0
+2021-2022,Primeira Liga,28,2022-04-02,Famalicão,Boavista,1,2,0.0
+2021-2022,Primeira Liga,28,2022-04-03,Marítimo,Tondela,1,3,0.0
+2021-2022,Primeira Liga,28,2022-04-03,Moreirense,Vitória,0,1,0.0
+2021-2022,Primeira Liga,28,2022-04-03,Sporting CP,Paços,2,0,1.0
+2021-2022,Primeira Liga,28,2022-04-04,Porto,Santa Clara,3,0,1.0
+2021-2022,Primeira Liga,29,2022-04-08,Gil Vicente FC,Moreirense,1,2,0.0
+2021-2022,Primeira Liga,29,2022-04-09,Paços,Marítimo,2,0,1.0
+2021-2022,Primeira Liga,29,2022-04-09,Benfica,B-SAD,3,1,1.0
+2021-2022,Primeira Liga,29,2022-04-09,Boavista,Arouca,1,0,1.0
+2021-2022,Primeira Liga,29,2022-04-09,Tondela,Sporting CP,1,3,0.0
+2021-2022,Primeira Liga,29,2022-04-10,Santa Clara,Estoril,2,0,1.0
+2021-2022,Primeira Liga,29,2022-04-10,Portimonense,Famalicão,1,0,1.0
+2021-2022,Primeira Liga,29,2022-04-10,Vitória,Porto,0,1,0.0
+2021-2022,Primeira Liga,29,2022-04-10,Vizela,Braga,0,1,0.0
+2021-2022,Primeira Liga,30,2022-04-15,Arouca,Santa Clara,1,1,0.5
+2021-2022,Primeira Liga,30,2022-04-15,Famalicão,Gil Vicente FC,2,2,0.5
+2021-2022,Primeira Liga,30,2022-04-15,Vitória,Paços,4,0,1.0
+2021-2022,Primeira Liga,30,2022-04-16,Moreirense,Tondela,2,0,1.0
+2021-2022,Primeira Liga,30,2022-04-16,Marítimo,Boavista,4,0,1.0
+2021-2022,Primeira Liga,30,2022-04-16,B-SAD,Vizela,1,0,1.0
+2021-2022,Primeira Liga,30,2022-04-16,Porto,Portimonense,7,0,1.0
+2021-2022,Primeira Liga,30,2022-04-17,Sporting CP,Benfica,0,2,0.0
+2021-2022,Primeira Liga,30,2022-04-18,Estoril,Braga,0,0,0.5
+2021-2022,Primeira Liga,31,2022-04-22,Vizela,Arouca,2,1,1.0
+2021-2022,Primeira Liga,31,2022-04-23,Portimonense,Moreirense,1,0,1.0
+2021-2022,Primeira Liga,31,2022-04-23,Santa Clara,Marítimo,2,2,0.5
+2021-2022,Primeira Liga,31,2022-04-23,Benfica,Famalicão,0,0,0.5
+2021-2022,Primeira Liga,31,2022-04-23,Gil Vicente FC,Paços,1,1,0.5
+2021-2022,Primeira Liga,31,2022-04-24,Estoril,B-SAD,2,2,0.5
+2021-2022,Primeira Liga,31,2022-04-24,Tondela,Vitória,1,1,0.5
+2021-2022,Primeira Liga,31,2022-04-25,Braga,Porto,1,0,1.0
+2021-2022,Primeira Liga,31,2022-04-25,Boavista,Sporting CP,0,3,0.0
+2021-2022,Primeira Liga,32,2022-04-29,Famalicão,Estoril,3,1,1.0
+2021-2022,Primeira Liga,32,2022-04-30,Arouca,Portimonense,1,0,1.0
+2021-2022,Primeira Liga,32,2022-04-30,Marítimo,Benfica,0,1,0.0
+2021-2022,Primeira Liga,32,2022-04-30,Porto,Vizela,4,2,1.0
+2021-2022,Primeira Liga,32,2022-04-30,B-SAD,Braga,0,1,0.0
+2021-2022,Primeira Liga,32,2022-05-01,Vitória,Santa Clara,1,1,0.5
+2021-2022,Primeira Liga,32,2022-05-01,Moreirense,Boavista,1,2,0.0
+2021-2022,Primeira Liga,32,2022-05-01,Sporting CP,Gil Vicente FC,4,1,1.0
+2021-2022,Primeira Liga,32,2022-05-02,Paços,Tondela,1,1,0.5
+2021-2022,Primeira Liga,33,2022-05-06,Boavista,Vitória,1,1,0.5
+2021-2022,Primeira Liga,33,2022-05-07,Estoril,Moreirense,1,0,1.0
+2021-2022,Primeira Liga,33,2022-05-07,Benfica,Porto,0,1,0.0
+2021-2022,Primeira Liga,33,2022-05-07,Portimonense,Sporting CP,2,3,0.0
+2021-2022,Primeira Liga,33,2022-05-08,Vizela,Marítimo,1,1,0.5
+2021-2022,Primeira Liga,33,2022-05-08,Gil Vicente FC,Tondela,3,0,1.0
+2021-2022,Primeira Liga,33,2022-05-08,Braga,Arouca,1,0,1.0
+2021-2022,Primeira Liga,33,2022-05-08,Santa Clara,Paços,2,0,1.0
+2021-2022,Primeira Liga,33,2022-05-09,B-SAD,Famalicão,2,3,0.0
+2021-2022,Primeira Liga,34,2022-05-13,Paços,Benfica,0,2,0.0
+2021-2022,Primeira Liga,34,2022-05-14,Arouca,B-SAD,0,0,0.5
+2021-2022,Primeira Liga,34,2022-05-14,Moreirense,Vizela,4,1,1.0
+2021-2022,Primeira Liga,34,2022-05-14,Tondela,Boavista,2,2,0.5
+2021-2022,Primeira Liga,34,2022-05-14,Porto,Estoril,2,0,1.0
+2021-2022,Primeira Liga,34,2022-05-14,Marítimo,Portimonense,0,1,0.0
+2021-2022,Primeira Liga,34,2022-05-14,Sporting CP,Santa Clara,4,0,1.0
+2021-2022,Primeira Liga,34,2022-05-15,Famalicão,Braga,3,2,1.0
+2021-2022,Primeira Liga,34,2022-05-15,Vitória,Gil Vicente FC,5,0,1.0
+2021-2022,Portuguese 1/2 Relegation/Promotion Play-off,,2022-05-21,Chaves,Moreirense,2,0,1.0
+2021-2022,Portuguese 1/2 Relegation/Promotion Play-off,,2022-05-29,Moreirense,Chaves,1,0,1.0

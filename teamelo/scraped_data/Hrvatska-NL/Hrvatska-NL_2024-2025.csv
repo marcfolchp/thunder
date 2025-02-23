@@ -1,0 +1,181 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-08-02,Dinamo Zagreb,Istra 1961,5.0,0.0,1.0
+2024-2025,1,2024-08-03,Gorica,Varaždin,0.0,0.0,0.5
+2024-2025,1,2024-08-04,Rijeka,Lokomotiva,4.0,0.0,1.0
+2024-2025,1,2024-08-04,Osijek,Šibenik,1.0,2.0,0.0
+2024-2025,1,2024-08-04,Hajduk Split,Slaven Belupo,2.0,1.0,1.0
+2024-2025,2,2024-08-09,Šibenik,Slaven Belupo,2.0,0.0,1.0
+2024-2025,2,2024-08-10,Istra 1961,Gorica,2.0,1.0,1.0
+2024-2025,2,2024-08-11,Lokomotiva,Hajduk Split,1.0,1.0,0.5
+2024-2025,2,2024-08-11,Osijek,Dinamo Zagreb,1.0,2.0,0.0
+2024-2025,2,2024-08-11,Varaždin,Rijeka,0.0,0.0,0.5
+2024-2025,3,2024-08-16,Dinamo Zagreb,Šibenik,3.0,0.0,1.0
+2024-2025,3,2024-08-17,Slaven Belupo,Lokomotiva,2.0,2.0,0.5
+2024-2025,3,2024-08-18,Hajduk Split,Varaždin,2.0,1.0,1.0
+2024-2025,3,2024-08-18,Gorica,Osijek,2.0,2.0,0.5
+2024-2025,3,2024-08-18,Rijeka,Istra 1961,4.0,0.0,1.0
+2024-2025,4,2024-08-23,Lokomotiva,Šibenik,0.0,1.0,0.0
+2024-2025,4,2024-08-24,Varaždin,Slaven Belupo,2.0,0.0,1.0
+2024-2025,4,2024-08-24,Dinamo Zagreb,Gorica,2.0,1.0,1.0
+2024-2025,4,2024-08-25,Istra 1961,Hajduk Split,1.0,1.0,0.5
+2024-2025,4,2024-08-25,Osijek,Rijeka,0.0,2.0,0.0
+2024-2025,5,2024-08-30,Gorica,Šibenik,2.0,1.0,1.0
+2024-2025,5,2024-08-31,Slaven Belupo,Istra 1961,0.0,1.0,0.0
+2024-2025,5,2024-08-31,Hajduk Split,Osijek,1.0,0.0,1.0
+2024-2025,5,2024-09-01,Lokomotiva,Varaždin,0.0,1.0,0.0
+2024-2025,5,2024-09-01,Rijeka,Dinamo Zagreb,1.0,1.0,0.5
+2024-2025,6,2024-09-13,Dinamo Zagreb,Hajduk Split,0.0,1.0,0.0
+2024-2025,6,2024-09-14,Istra 1961,Lokomotiva,0.0,2.0,0.0
+2024-2025,6,2024-09-14,Gorica,Rijeka,0.0,1.0,0.0
+2024-2025,6,2024-09-15,Osijek,Slaven Belupo,1.0,0.0,1.0
+2024-2025,6,2024-09-15,Šibenik,Varaždin,0.0,0.0,0.5
+2024-2025,7,2024-09-20,Varaždin,Istra 1961,1.0,0.0,1.0
+2024-2025,7,2024-09-21,Slaven Belupo,Dinamo Zagreb,4.0,1.0,1.0
+2024-2025,7,2024-09-21,Hajduk Split,Gorica,4.0,1.0,1.0
+2024-2025,7,2024-09-22,Lokomotiva,Osijek,0.0,1.0,0.0
+2024-2025,7,2024-09-22,Rijeka,Šibenik,3.0,0.0,1.0
+2024-2025,8,2024-09-27,Šibenik,Istra 1961,0.0,0.0,0.5
+2024-2025,8,2024-09-28,Dinamo Zagreb,Lokomotiva,5.0,1.0,1.0
+2024-2025,8,2024-09-29,Osijek,Varaždin,2.0,1.0,1.0
+2024-2025,8,2024-09-29,Rijeka,Hajduk Split,0.0,0.0,0.5
+2024-2025,8,2024-09-30,Gorica,Slaven Belupo,2.0,1.0,1.0
+2024-2025,9,2024-10-04,Istra 1961,Osijek,2.0,1.0,1.0
+2024-2025,9,2024-10-05,Lokomotiva,Gorica,2.0,0.0,1.0
+2024-2025,9,2024-10-05,Slaven Belupo,Rijeka,0.0,0.0,0.5
+2024-2025,9,2024-10-06,Varaždin,Dinamo Zagreb,0.0,1.0,0.0
+2024-2025,9,2024-10-06,Hajduk Split,Šibenik,4.0,0.0,1.0
+2024-2025,10,2024-10-18,Lokomotiva,Rijeka,2.0,2.0,0.5
+2024-2025,10,2024-10-19,Šibenik,Osijek,1.0,3.0,0.0
+2024-2025,10,2024-10-19,Istra 1961,Dinamo Zagreb,2.0,2.0,0.5
+2024-2025,10,2024-10-20,Slaven Belupo,Hajduk Split,0.0,2.0,0.0
+2024-2025,10,2024-10-20,Varaždin,Gorica,2.0,1.0,1.0
+2024-2025,11,2024-10-25,Slaven Belupo,Šibenik,2.0,2.0,0.5
+2024-2025,11,2024-10-26,Hajduk Split,Lokomotiva,2.0,1.0,1.0
+2024-2025,11,2024-10-26,Rijeka,Varaždin,1.0,1.0,0.5
+2024-2025,11,2024-10-27,Dinamo Zagreb,Osijek,2.0,4.0,0.0
+2024-2025,11,2024-10-27,Gorica,Istra 1961,1.0,0.0,1.0
+2024-2025,12,2024-11-01,Šibenik,Dinamo Zagreb,0.0,4.0,0.0
+2024-2025,12,2024-11-02,Lokomotiva,Slaven Belupo,0.0,1.0,0.0
+2024-2025,12,2024-11-02,Osijek,Gorica,2.0,0.0,1.0
+2024-2025,12,2024-11-03,Istra 1961,Rijeka,0.0,1.0,0.0
+2024-2025,12,2024-11-03,Varaždin,Hajduk Split,1.0,0.0,1.0
+2024-2025,13,2024-11-08,Šibenik,Lokomotiva,0.0,3.0,0.0
+2024-2025,13,2024-11-09,Gorica,Dinamo Zagreb,2.0,2.0,0.5
+2024-2025,13,2024-11-09,Hajduk Split,Istra 1961,1.0,1.0,0.5
+2024-2025,13,2024-11-10,Slaven Belupo,Varaždin,1.0,1.0,0.5
+2024-2025,13,2024-11-10,Rijeka,Osijek,1.0,1.0,0.5
+2024-2025,14,2024-11-22,Istra 1961,Slaven Belupo,2.0,3.0,0.0
+2024-2025,14,2024-11-23,Varaždin,Lokomotiva,1.0,1.0,0.5
+2024-2025,14,2024-11-23,Dinamo Zagreb,Rijeka,0.0,0.0,0.5
+2024-2025,14,2024-11-24,Osijek,Hajduk Split,2.0,2.0,0.5
+2024-2025,14,2024-11-24,Šibenik,Gorica,1.0,0.0,1.0
+2024-2025,15,2024-11-29,Varaždin,Šibenik,2.0,1.0,1.0
+2024-2025,15,2024-11-30,Slaven Belupo,Osijek,3.0,2.0,1.0
+2024-2025,15,2024-11-30,Rijeka,Gorica,1.0,0.0,1.0
+2024-2025,15,2024-12-01,Lokomotiva,Istra 1961,1.0,2.0,0.0
+2024-2025,15,2024-12-01,Hajduk Split,Dinamo Zagreb,1.0,0.0,1.0
+2024-2025,16,2024-12-06,Dinamo Zagreb,Slaven Belupo,1.0,1.0,0.5
+2024-2025,16,2024-12-07,Istra 1961,Varaždin,0.0,0.0,0.5
+2024-2025,16,2024-12-07,Gorica,Hajduk Split,1.0,0.0,1.0
+2024-2025,16,2024-12-08,Šibenik,Rijeka,0.0,1.0,0.0
+2024-2025,16,2024-12-08,Osijek,Lokomotiva,3.0,0.0,1.0
+2024-2025,17,2024-12-13,Slaven Belupo,Gorica,2.0,1.0,1.0
+2024-2025,17,2024-12-14,Lokomotiva,Dinamo Zagreb,3.0,1.0,1.0
+2024-2025,17,2024-12-14,Istra 1961,Šibenik,3.0,3.0,0.5
+2024-2025,17,2024-12-15,Varaždin,Osijek,0.0,0.0,0.5
+2024-2025,17,2024-12-15,Hajduk Split,Rijeka,2.0,2.0,0.5
+2024-2025,18,2024-12-20,Osijek,Istra 1961,2.0,2.0,0.5
+2024-2025,18,2024-12-21,Gorica,Lokomotiva,1.0,4.0,0.0
+2024-2025,18,2024-12-22,Dinamo Zagreb,Varaždin,3.0,2.0,1.0
+2024-2025,18,2024-12-22,Rijeka,Slaven Belupo,2.0,0.0,1.0
+2024-2025,18,2024-12-22,Šibenik,Hajduk Split,1.0,2.0,0.0
+2024-2025,19,2025-01-24,Osijek,Šibenik,2.0,2.0,0.5
+2024-2025,19,2025-01-25,Gorica,Varaždin,1.0,1.0,0.5
+2024-2025,19,2025-01-25,Dinamo Zagreb,Istra 1961,3.0,1.0,1.0
+2024-2025,19,2025-01-26,Rijeka,Lokomotiva,4.0,1.0,1.0
+2024-2025,19,2025-01-26,Hajduk Split,Slaven Belupo,0.0,0.0,0.5
+2024-2025,20,2025-01-31,Istra 1961,Gorica,0.0,0.0,0.5
+2024-2025,20,2025-02-01,Šibenik,Slaven Belupo,1.0,1.0,0.5
+2024-2025,20,2025-02-01,Varaždin,Rijeka,1.0,0.0,1.0
+2024-2025,20,2025-02-02,Lokomotiva,Hajduk Split,3.0,2.0,1.0
+2024-2025,20,2025-02-02,Osijek,Dinamo Zagreb,2.0,1.0,1.0
+2024-2025,21,2025-02-07,Dinamo Zagreb,Šibenik,3.0,0.0,1.0
+2024-2025,21,2025-02-08,Gorica,Osijek,1.0,0.0,1.0
+2024-2025,21,2025-02-08,Hajduk Split,Varaždin,1.0,0.0,1.0
+2024-2025,21,2025-02-09,Rijeka,Istra 1961,0.0,1.0,0.0
+2024-2025,21,2025-02-09,Slaven Belupo,Lokomotiva,2.0,1.0,1.0
+2024-2025,22,2025-02-14,Šibenik,Lokomotiva,1.0,2.0,0.0
+2024-2025,22,2025-02-15,Istra 1961,Hajduk Split,1.0,1.0,0.5
+2024-2025,22,2025-02-15,Dinamo Zagreb,Gorica,3.0,1.0,1.0
+2024-2025,22,2025-02-16,Varaždin,Slaven Belupo,0.0,1.0,0.0
+2024-2025,22,2025-02-16,Osijek,Rijeka,0.0,2.0,0.0
+2024-2025,23,2025-02-21,Lokomotiva,Varaždin,1.0,0.0,1.0
+2024-2025,23,2025-02-22,Hajduk Split,Osijek,,,
+2024-2025,23,2025-02-22,Rijeka,Dinamo Zagreb,,,
+2024-2025,23,2025-02-23,Gorica,Šibenik,,,
+2024-2025,23,2025-02-23,Slaven Belupo,Istra 1961,,,
+2024-2025,24,2025-02-28,Istra 1961,Lokomotiva,,,
+2024-2025,24,2025-03-01,Gorica,Rijeka,,,
+2024-2025,24,2025-03-01,Osijek,Slaven Belupo,,,
+2024-2025,24,2025-03-02,Dinamo Zagreb,Hajduk Split,,,
+2024-2025,24,2025-03-02,Šibenik,Varaždin,,,
+2024-2025,25,2025-03-07,Rijeka,Šibenik,,,
+2024-2025,25,2025-03-08,Varaždin,Istra 1961,,,
+2024-2025,25,2025-03-08,Lokomotiva,Osijek,,,
+2024-2025,25,2025-03-09,Hajduk Split,Gorica,,,
+2024-2025,25,2025-03-09,Slaven Belupo,Dinamo Zagreb,,,
+2024-2025,26,2025-03-15,Šibenik,Istra 1961,,,
+2024-2025,26,2025-03-15,Gorica,Slaven Belupo,,,
+2024-2025,26,2025-03-15,Rijeka,Hajduk Split,,,
+2024-2025,26,2025-03-15,Osijek,Varaždin,,,
+2024-2025,26,2025-03-15,Dinamo Zagreb,Lokomotiva,,,
+2024-2025,27,2025-03-29,Varaždin,Dinamo Zagreb,,,
+2024-2025,27,2025-03-29,Hajduk Split,Šibenik,,,
+2024-2025,27,2025-03-29,Lokomotiva,Gorica,,,
+2024-2025,27,2025-03-29,Istra 1961,Osijek,,,
+2024-2025,27,2025-03-29,Slaven Belupo,Rijeka,,,
+2024-2025,29,2025-04-01,Hajduk Split,Lokomotiva,,,
+2024-2025,29,2025-04-01,Rijeka,Varaždin,,,
+2024-2025,29,2025-04-01,Dinamo Zagreb,Osijek,,,
+2024-2025,29,2025-04-01,Gorica,Istra 1961,,,
+2024-2025,29,2025-04-01,Slaven Belupo,Šibenik,,,
+2024-2025,28,2025-04-05,Lokomotiva,Rijeka,,,
+2024-2025,28,2025-04-05,Varaždin,Gorica,,,
+2024-2025,28,2025-04-05,Slaven Belupo,Hajduk Split,,,
+2024-2025,28,2025-04-05,Šibenik,Osijek,,,
+2024-2025,28,2025-04-05,Istra 1961,Dinamo Zagreb,,,
+2024-2025,30,2025-04-19,Osijek,Gorica,,,
+2024-2025,30,2025-04-19,Lokomotiva,Slaven Belupo,,,
+2024-2025,30,2025-04-19,Istra 1961,Rijeka,,,
+2024-2025,30,2025-04-19,Šibenik,Dinamo Zagreb,,,
+2024-2025,30,2025-04-19,Varaždin,Hajduk Split,,,
+2024-2025,31,2025-04-23,Rijeka,Osijek,,,
+2024-2025,31,2025-04-23,Hajduk Split,Istra 1961,,,
+2024-2025,31,2025-04-23,Gorica,Dinamo Zagreb,,,
+2024-2025,31,2025-04-23,Lokomotiva,Šibenik,,,
+2024-2025,31,2025-04-23,Slaven Belupo,Varaždin,,,
+2024-2025,32,2025-04-26,Dinamo Zagreb,Rijeka,,,
+2024-2025,32,2025-04-26,Šibenik,Gorica,,,
+2024-2025,32,2025-04-26,Osijek,Hajduk Split,,,
+2024-2025,32,2025-04-26,Varaždin,Lokomotiva,,,
+2024-2025,32,2025-04-26,Istra 1961,Slaven Belupo,,,
+2024-2025,33,2025-05-03,Hajduk Split,Dinamo Zagreb,,,
+2024-2025,33,2025-05-03,Lokomotiva,Istra 1961,,,
+2024-2025,33,2025-05-03,Varaždin,Šibenik,,,
+2024-2025,33,2025-05-03,Rijeka,Gorica,,,
+2024-2025,33,2025-05-03,Slaven Belupo,Osijek,,,
+2024-2025,34,2025-05-10,Gorica,Hajduk Split,,,
+2024-2025,34,2025-05-10,Dinamo Zagreb,Slaven Belupo,,,
+2024-2025,34,2025-05-10,Istra 1961,Varaždin,,,
+2024-2025,34,2025-05-10,Šibenik,Rijeka,,,
+2024-2025,34,2025-05-10,Osijek,Lokomotiva,,,
+2024-2025,35,2025-05-17,Lokomotiva,Dinamo Zagreb,,,
+2024-2025,35,2025-05-17,Slaven Belupo,Gorica,,,
+2024-2025,35,2025-05-17,Hajduk Split,Rijeka,,,
+2024-2025,35,2025-05-17,Varaždin,Osijek,,,
+2024-2025,35,2025-05-17,Istra 1961,Šibenik,,,
+2024-2025,36,2025-05-24,Šibenik,Hajduk Split,,,
+2024-2025,36,2025-05-24,Gorica,Lokomotiva,,,
+2024-2025,36,2025-05-24,Osijek,Istra 1961,,,
+2024-2025,36,2025-05-24,Dinamo Zagreb,Varaždin,,,
+2024-2025,36,2025-05-24,Rijeka,Slaven Belupo,,,

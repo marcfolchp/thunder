@@ -1,0 +1,252 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,Regular season,1,2017-07-14,AGF,Horsens,1,2,0.0
+2017-2018,Regular season,1,2017-07-15,FC Copenhagen,Aalborg,1,1,0.5
+2017-2018,Regular season,1,2017-07-15,SønderjyskE,Randers,0,0,0.5
+2017-2018,Regular season,1,2017-07-16,Lyngby,Silkeborg,2,1,1.0
+2017-2018,Regular season,1,2017-07-16,Hobro,Helsingør,2,1,1.0
+2017-2018,Regular season,1,2017-07-16,Brøndby,Midtjylland,4,0,1.0
+2017-2018,Regular season,1,2017-07-17,Odense,Nordsjælland,1,2,0.0
+2017-2018,Regular season,2,2017-07-21,AGF,Hobro,2,0,1.0
+2017-2018,Regular season,2,2017-07-22,Randers,FC Copenhagen,0,3,0.0
+2017-2018,Regular season,2,2017-07-23,Horsens,Lyngby,4,1,1.0
+2017-2018,Regular season,2,2017-07-23,Aalborg,SønderjyskE,1,4,0.0
+2017-2018,Regular season,2,2017-07-23,Nordsjælland,Brøndby,3,2,1.0
+2017-2018,Regular season,2,2017-07-23,Midtjylland,Silkeborg,2,0,1.0
+2017-2018,Regular season,2,2017-07-24,Helsingør,Odense,0,2,0.0
+2017-2018,Regular season,3,2017-07-28,SønderjyskE,Helsingør,1,2,0.0
+2017-2018,Regular season,3,2017-07-29,Odense,Horsens,1,0,1.0
+2017-2018,Regular season,3,2017-07-29,FC Copenhagen,Hobro,0,0,0.5
+2017-2018,Regular season,3,2017-07-30,Midtjylland,Randers,2,1,1.0
+2017-2018,Regular season,3,2017-07-30,Nordsjælland,Aalborg,3,2,1.0
+2017-2018,Regular season,3,2017-07-30,Brøndby,Lyngby,5,3,1.0
+2017-2018,Regular season,3,2017-07-31,Silkeborg,AGF,2,1,1.0
+2017-2018,Regular season,4,2017-08-04,Horsens,Silkeborg,1,0,1.0
+2017-2018,Regular season,4,2017-08-05,Hobro,Randers,2,0,1.0
+2017-2018,Regular season,4,2017-08-06,Lyngby,Nordsjælland,1,4,0.0
+2017-2018,Regular season,4,2017-08-06,Helsingør,Midtjylland,2,1,1.0
+2017-2018,Regular season,4,2017-08-06,Odense,Aalborg,0,0,0.5
+2017-2018,Regular season,4,2017-08-06,Brøndby,FC Copenhagen,1,0,1.0
+2017-2018,Regular season,4,2017-08-07,SønderjyskE,AGF,3,0,1.0
+2017-2018,Regular season,5,2017-08-11,Silkeborg,Helsingør,4,1,1.0
+2017-2018,Regular season,5,2017-08-12,Lyngby,SønderjyskE,1,1,0.5
+2017-2018,Regular season,5,2017-08-12,FC Copenhagen,Horsens,1,1,0.5
+2017-2018,Regular season,5,2017-08-13,Midtjylland,Nordsjælland,4,3,1.0
+2017-2018,Regular season,5,2017-08-13,Randers,Brøndby,0,0,0.5
+2017-2018,Regular season,5,2017-08-13,AGF,Odense,0,0,0.5
+2017-2018,Regular season,5,2017-08-14,Aalborg,Hobro,1,1,0.5
+2017-2018,Regular season,6,2017-08-18,Horsens,Aalborg,0,0,0.5
+2017-2018,Regular season,6,2017-08-18,Randers,Silkeborg,1,1,0.5
+2017-2018,Regular season,6,2017-08-19,FC Copenhagen,SønderjyskE,3,2,1.0
+2017-2018,Regular season,6,2017-08-20,Odense,Midtjylland,0,2,0.0
+2017-2018,Regular season,6,2017-08-20,Hobro,Lyngby,3,0,1.0
+2017-2018,Regular season,6,2017-08-20,AGF,Brøndby,2,0,1.0
+2017-2018,Regular season,6,2017-08-21,Nordsjælland,Helsingør,1,0,1.0
+2017-2018,Regular season,7,2017-08-25,SønderjyskE,Odense,2,2,0.5
+2017-2018,Regular season,7,2017-08-25,Silkeborg,Hobro,0,2,0.0
+2017-2018,Regular season,7,2017-08-26,Helsingør,Randers,2,0,1.0
+2017-2018,Regular season,7,2017-08-26,Aalborg,AGF,0,0,0.5
+2017-2018,Regular season,7,2017-08-27,Midtjylland,Lyngby,1,1,0.5
+2017-2018,Regular season,7,2017-08-27,Brøndby,Horsens,2,0,1.0
+2017-2018,Regular season,7,2017-08-27,Nordsjælland,FC Copenhagen,3,0,1.0
+2017-2018,Regular season,8,2017-09-08,Horsens,Nordsjælland,2,2,0.5
+2017-2018,Regular season,8,2017-09-08,Hobro,SønderjyskE,3,2,1.0
+2017-2018,Regular season,8,2017-09-09,AGF,Randers,1,4,0.0
+2017-2018,Regular season,8,2017-09-10,Lyngby,Helsingør,3,1,1.0
+2017-2018,Regular season,8,2017-09-10,FC Copenhagen,Midtjylland,4,3,1.0
+2017-2018,Regular season,8,2017-09-10,Odense,Brøndby,1,1,0.5
+2017-2018,Regular season,8,2017-09-11,Aalborg,Silkeborg,2,1,1.0
+2017-2018,Regular season,9,2017-09-15,Silkeborg,Odense,1,0,1.0
+2017-2018,Regular season,9,2017-09-15,Randers,Lyngby,0,0,0.5
+2017-2018,Regular season,9,2017-09-16,SønderjyskE,Horsens,2,2,0.5
+2017-2018,Regular season,9,2017-09-17,Midtjylland,Hobro,5,1,1.0
+2017-2018,Regular season,9,2017-09-17,Helsingør,FC Copenhagen,0,4,0.0
+2017-2018,Regular season,9,2017-09-17,Brøndby,Aalborg,0,0,0.5
+2017-2018,Regular season,9,2017-09-18,Nordsjælland,AGF,1,2,0.0
+2017-2018,Regular season,10,2017-09-22,Nordsjælland,SønderjyskE,2,2,0.5
+2017-2018,Regular season,10,2017-09-23,Horsens,Helsingør,2,0,1.0
+2017-2018,Regular season,10,2017-09-23,FC Copenhagen,Silkeborg,4,0,1.0
+2017-2018,Regular season,10,2017-09-24,Aalborg,Lyngby,3,1,1.0
+2017-2018,Regular season,10,2017-09-24,Odense,Randers,3,1,1.0
+2017-2018,Regular season,10,2017-09-24,Hobro,Brøndby,1,2,0.0
+2017-2018,Regular season,10,2017-09-25,AGF,Midtjylland,0,3,0.0
+2017-2018,Regular season,11,2017-09-29,Helsingør,AGF,1,5,0.0
+2017-2018,Regular season,11,2017-09-29,Randers,Horsens,0,1,0.0
+2017-2018,Regular season,11,2017-09-30,Hobro,Odense,1,1,0.5
+2017-2018,Regular season,11,2017-10-01,Silkeborg,Nordsjælland,2,4,0.0
+2017-2018,Regular season,11,2017-10-01,Midtjylland,Aalborg,4,1,1.0
+2017-2018,Regular season,11,2017-10-01,Brøndby,SønderjyskE,4,0,1.0
+2017-2018,Regular season,11,2017-10-01,Lyngby,FC Copenhagen,3,1,1.0
+2017-2018,Regular season,12,2017-10-13,SønderjyskE,Midtjylland,0,1,0.0
+2017-2018,Regular season,12,2017-10-14,Nordsjælland,Randers,3,2,1.0
+2017-2018,Regular season,12,2017-10-15,Horsens,Hobro,2,2,0.5
+2017-2018,Regular season,12,2017-10-15,Aalborg,Helsingør,1,0,1.0
+2017-2018,Regular season,12,2017-10-15,Brøndby,Silkeborg,4,1,1.0
+2017-2018,Regular season,12,2017-10-15,Odense,FC Copenhagen,1,0,1.0
+2017-2018,Regular season,12,2017-10-16,AGF,Lyngby,0,2,0.0
+2017-2018,Regular season,13,2017-10-20,Midtjylland,Horsens,4,2,1.0
+2017-2018,Regular season,13,2017-10-21,Silkeborg,SønderjyskE,1,0,1.0
+2017-2018,Regular season,13,2017-10-22,Hobro,Nordsjælland,4,0,1.0
+2017-2018,Regular season,13,2017-10-22,Lyngby,Odense,1,1,0.5
+2017-2018,Regular season,13,2017-10-22,Helsingør,Brøndby,0,1,0.0
+2017-2018,Regular season,13,2017-10-22,FC Copenhagen,AGF,4,0,1.0
+2017-2018,Regular season,13,2017-10-23,Randers,Aalborg,1,1,0.5
+2017-2018,Regular season,14,2017-10-27,AGF,Nordsjælland,1,4,0.0
+2017-2018,Regular season,14,2017-10-28,Helsingør,Silkeborg,2,0,1.0
+2017-2018,Regular season,14,2017-10-29,SønderjyskE,Hobro,1,1,0.5
+2017-2018,Regular season,14,2017-10-29,Lyngby,Midtjylland,2,2,0.5
+2017-2018,Regular season,14,2017-10-29,Horsens,FC Copenhagen,1,1,0.5
+2017-2018,Regular season,14,2017-10-29,Aalborg,Odense,0,2,0.0
+2017-2018,Regular season,14,2017-10-30,Brøndby,Randers,3,1,1.0
+2017-2018,Regular season,15,2017-11-03,Midtjylland,Helsingør,2,1,1.0
+2017-2018,Regular season,15,2017-11-03,Silkeborg,Horsens,2,2,0.5
+2017-2018,Regular season,15,2017-11-04,Nordsjælland,Lyngby,2,2,0.5
+2017-2018,Regular season,15,2017-11-05,FC Copenhagen,Brøndby,0,1,0.0
+2017-2018,Regular season,15,2017-11-05,Odense,SønderjyskE,0,3,0.0
+2017-2018,Regular season,15,2017-11-05,Randers,AGF,1,0,1.0
+2017-2018,Regular season,15,2017-11-05,Hobro,Aalborg,0,1,0.0
+2017-2018,Regular season,16,2017-11-17,Helsingør,Hobro,0,1,0.0
+2017-2018,Regular season,16,2017-11-18,AGF,Silkeborg,3,1,1.0
+2017-2018,Regular season,16,2017-11-19,Lyngby,Randers,1,3,0.0
+2017-2018,Regular season,16,2017-11-19,Horsens,Odense,0,0,0.5
+2017-2018,Regular season,16,2017-11-19,SønderjyskE,FC Copenhagen,3,0,1.0
+2017-2018,Regular season,16,2017-11-19,Brøndby,Nordsjælland,4,2,1.0
+2017-2018,Regular season,16,2017-11-20,Aalborg,Midtjylland,0,1,0.0
+2017-2018,Regular season,17,2017-11-24,Randers,SønderjyskE,0,2,0.0
+2017-2018,Regular season,17,2017-11-25,Helsingør,Aalborg,0,1,0.0
+2017-2018,Regular season,17,2017-11-26,Nordsjælland,Horsens,6,0,1.0
+2017-2018,Regular season,17,2017-11-26,Odense,Hobro,3,0,1.0
+2017-2018,Regular season,17,2017-11-26,FC Copenhagen,Lyngby,5,1,1.0
+2017-2018,Regular season,17,2017-11-26,Silkeborg,Brøndby,1,3,0.0
+2017-2018,Regular season,17,2017-11-27,Midtjylland,AGF,4,0,1.0
+2017-2018,Regular season,18,2017-12-01,AGF,Helsingør,0,0,0.5
+2017-2018,Regular season,18,2017-12-02,Lyngby,Aalborg,1,2,0.0
+2017-2018,Regular season,18,2017-12-03,Hobro,Horsens,1,1,0.5
+2017-2018,Regular season,18,2017-12-03,Silkeborg,Randers,3,2,1.0
+2017-2018,Regular season,18,2017-12-03,SønderjyskE,Brøndby,1,3,0.0
+2017-2018,Regular season,18,2017-12-03,FC Copenhagen,Nordsjælland,1,3,0.0
+2017-2018,Regular season,18,2017-12-04,Midtjylland,Odense,3,1,1.0
+2017-2018,Regular season,19,2017-12-08,Horsens,SønderjyskE,2,1,1.0
+2017-2018,Regular season,19,2017-12-09,Helsingør,Lyngby,2,1,1.0
+2017-2018,Regular season,19,2017-12-10,Odense,Silkeborg,1,2,0.0
+2017-2018,Regular season,19,2017-12-10,Nordsjælland,Hobro,3,2,1.0
+2017-2018,Regular season,19,2017-12-10,Aalborg,FC Copenhagen,1,1,0.5
+2017-2018,Regular season,19,2017-12-10,Brøndby,AGF,2,2,0.5
+2017-2018,Regular season,19,2017-12-11,Randers,Midtjylland,0,4,0.0
+2017-2018,Regular season,20,2018-02-09,Horsens,Midtjylland,0,2,0.0
+2017-2018,Regular season,20,2018-02-10,Silkeborg,Aalborg,3,2,1.0
+2017-2018,Regular season,20,2018-02-10,FC Copenhagen,Randers,5,1,1.0
+2017-2018,Regular season,20,2018-02-11,Odense,Helsingør,6,1,1.0
+2017-2018,Regular season,20,2018-02-11,SønderjyskE,Nordsjælland,2,1,1.0
+2017-2018,Regular season,20,2018-02-11,Lyngby,Brøndby,1,3,0.0
+2017-2018,Regular season,20,2018-02-12,Hobro,AGF,0,1,0.0
+2017-2018,Regular season,21,2018-02-16,Nordsjælland,Odense,2,1,1.0
+2017-2018,Regular season,21,2018-02-17,Silkeborg,Lyngby,1,1,0.5
+2017-2018,Regular season,21,2018-02-18,Helsingør,Horsens,0,2,0.0
+2017-2018,Regular season,21,2018-02-18,Randers,Hobro,0,0,0.5
+2017-2018,Regular season,21,2018-02-18,Midtjylland,FC Copenhagen,3,1,1.0
+2017-2018,Regular season,21,2018-02-18,Aalborg,Brøndby,1,1,0.5
+2017-2018,Regular season,21,2018-02-19,AGF,SønderjyskE,0,0,0.5
+2017-2018,Regular season,22,2018-02-23,Horsens,Randers,1,1,0.5
+2017-2018,Regular season,22,2018-02-24,Lyngby,AGF,0,0,0.5
+2017-2018,Regular season,22,2018-02-25,Hobro,Midtjylland,1,2,0.0
+2017-2018,Regular season,22,2018-02-25,Aalborg,Nordsjælland,1,1,0.5
+2017-2018,Regular season,22,2018-02-25,Brøndby,Helsingør,6,1,1.0
+2017-2018,Regular season,22,2018-02-25,FC Copenhagen,Odense,1,0,1.0
+2017-2018,Regular season,22,2018-02-26,SønderjyskE,Silkeborg,0,1,0.0
+2017-2018,Regular season,23,2018-02-27,Horsens,AGF,1,1,0.5
+2017-2018,Regular season,23,2018-02-28,Odense,Lyngby,3,1,1.0
+2017-2018,Regular season,23,2018-02-28,Randers,Helsingør,0,0,0.5
+2017-2018,Regular season,23,2018-02-28,Hobro,FC Copenhagen,0,2,0.0
+2017-2018,Regular season,23,2018-03-01,SønderjyskE,Aalborg,0,1,0.0
+2017-2018,Regular season,23,2018-03-01,Nordsjælland,Silkeborg,3,1,1.0
+2017-2018,Regular season,23,2018-03-01,Midtjylland,Brøndby,0,1,0.0
+2017-2018,Regular season,24,2018-03-03,Lyngby,Hobro,0,3,0.0
+2017-2018,Regular season,24,2018-03-04,Helsingør,SønderjyskE,1,2,0.0
+2017-2018,Regular season,24,2018-03-04,Randers,Nordsjælland,0,3,0.0
+2017-2018,Regular season,24,2018-03-04,AGF,FC Copenhagen,0,1,0.0
+2017-2018,Regular season,24,2018-03-04,Brøndby,Odense,2,1,1.0
+2017-2018,Regular season,24,2018-03-05,Aalborg,Horsens,1,1,0.5
+2017-2018,Regular season,24,2018-03-05,Silkeborg,Midtjylland,1,2,0.0
+2017-2018,Regular season,25,2018-03-09,Odense,AGF,0,1,0.0
+2017-2018,Regular season,25,2018-03-10,Hobro,Silkeborg,1,1,0.5
+2017-2018,Regular season,25,2018-03-11,SønderjyskE,Lyngby,1,0,1.0
+2017-2018,Regular season,25,2018-03-11,Aalborg,Randers,4,0,1.0
+2017-2018,Regular season,25,2018-03-11,Nordsjælland,Midtjylland,1,1,0.5
+2017-2018,Regular season,25,2018-03-11,Horsens,Brøndby,1,1,0.5
+2017-2018,Regular season,25,2018-03-12,FC Copenhagen,Helsingør,4,3,1.0
+2017-2018,Regular season,26,2018-03-18,Silkeborg,FC Copenhagen,1,3,0.0
+2017-2018,Regular season,26,2018-03-18,Brøndby,Hobro,2,1,1.0
+2017-2018,Regular season,26,2018-03-18,Randers,Odense,4,1,1.0
+2017-2018,Regular season,26,2018-03-18,Helsingør,Nordsjælland,1,0,1.0
+2017-2018,Regular season,26,2018-03-18,AGF,Aalborg,0,0,0.5
+2017-2018,Regular season,26,2018-03-18,Midtjylland,SønderjyskE,2,1,1.0
+2017-2018,Regular season,26,2018-03-18,Lyngby,Horsens,1,1,0.5
+2017-2018,Relegation round,1,2018-03-31,Silkeborg,Helsingør,2,3,0.0
+2017-2018,Relegation round,1,2018-04-01,Hobro,AGF,1,3,0.0
+2017-2018,Relegation round,1,2018-04-01,Randers,Lyngby,2,0,1.0
+2017-2018,Relegation round,1,2018-04-02,Odense,SønderjyskE,2,1,1.0
+2017-2018,Championship round,1,2018-04-02,FC Copenhagen,Nordsjælland,2,1,1.0
+2017-2018,Championship round,1,2018-04-02,Aalborg,Brøndby,0,3,0.0
+2017-2018,Championship round,1,2018-04-03,Horsens,Midtjylland,0,1,0.0
+2017-2018,Championship round,2,2018-04-06,Nordsjælland,Aalborg,3,1,1.0
+2017-2018,Relegation round,2,2018-04-07,Lyngby,Odense,2,2,0.5
+2017-2018,Relegation round,2,2018-04-08,Helsingør,Hobro,0,1,0.0
+2017-2018,Relegation round,2,2018-04-08,SønderjyskE,Randers,1,0,1.0
+2017-2018,Championship round,2,2018-04-08,Brøndby,Horsens,5,1,1.0
+2017-2018,Relegation round,2,2018-04-08,AGF,Silkeborg,2,1,1.0
+2017-2018,Championship round,2,2018-04-09,Midtjylland,FC Copenhagen,3,2,1.0
+2017-2018,Relegation round,3,2018-04-13,AGF,Helsingør,2,1,1.0
+2017-2018,Relegation round,3,2018-04-14,SønderjyskE,Lyngby,1,0,1.0
+2017-2018,Relegation round,3,2018-04-15,Odense,Randers,3,0,1.0
+2017-2018,Championship round,3,2018-04-15,Aalborg,Horsens,2,0,1.0
+2017-2018,Championship round,3,2018-04-15,Brøndby,FC Copenhagen,2,1,1.0
+2017-2018,Championship round,3,2018-04-15,Nordsjælland,Midtjylland,1,2,0.0
+2017-2018,Relegation round,3,2018-04-16,Hobro,Silkeborg,1,0,1.0
+2017-2018,Relegation round,4,2018-04-17,Helsingør,AGF,1,0,1.0
+2017-2018,Championship round,4,2018-04-18,Horsens,Nordsjælland,2,2,0.5
+2017-2018,Relegation round,4,2018-04-18,Randers,Odense,1,1,0.5
+2017-2018,Championship round,4,2018-04-18,FC Copenhagen,Aalborg,2,1,1.0
+2017-2018,Relegation round,4,2018-04-19,Lyngby,SønderjyskE,1,1,0.5
+2017-2018,Relegation round,4,2018-04-19,Silkeborg,Hobro,2,0,1.0
+2017-2018,Championship round,4,2018-04-19,Midtjylland,Brøndby,2,3,0.0
+2017-2018,Championship round,5,2018-04-21,FC Copenhagen,Horsens,4,1,1.0
+2017-2018,Relegation round,5,2018-04-22,Helsingør,Silkeborg,0,0,0.5
+2017-2018,Relegation round,5,2018-04-22,Odense,Lyngby,3,0,1.0
+2017-2018,Championship round,5,2018-04-22,Aalborg,Midtjylland,3,3,0.5
+2017-2018,Relegation round,5,2018-04-22,Randers,SønderjyskE,3,0,1.0
+2017-2018,Championship round,5,2018-04-22,Nordsjælland,Brøndby,3,4,0.0
+2017-2018,Relegation round,5,2018-04-23,AGF,Hobro,0,1,0.0
+2017-2018,Championship round,6,2018-04-27,Horsens,FC Copenhagen,2,3,0.0
+2017-2018,Relegation round,6,2018-04-29,Lyngby,Randers,1,3,0.0
+2017-2018,Relegation round,6,2018-04-29,SønderjyskE,Odense,2,0,1.0
+2017-2018,Championship round,6,2018-04-29,Midtjylland,Aalborg,3,0,1.0
+2017-2018,Championship round,6,2018-04-29,Brøndby,Nordsjælland,3,1,1.0
+2017-2018,Relegation round,6,2018-04-30,Silkeborg,AGF,2,5,0.0
+2017-2018,Relegation round,6,2018-04-30,Hobro,Helsingør,4,1,1.0
+2017-2018,Championship round,7,2018-05-04,Horsens,Aalborg,2,1,1.0
+2017-2018,Quarter-finals,,2018-05-06,AGF,Odense,3,2,1.0
+2017-2018,First round,,2018-05-06,Helsingør,Randers,1,1,0.5
+2017-2018,Championship round,7,2018-05-06,FC Copenhagen,Brøndby,1,1,0.5
+2017-2018,Quarter-finals,,2018-05-06,SønderjyskE,Hobro,1,0,1.0
+2017-2018,First round,,2018-05-06,Lyngby,Silkeborg,2,1,1.0
+2017-2018,Championship round,7,2018-05-07,Midtjylland,Nordsjælland,2,1,1.0
+2017-2018,Championship round,8,2018-05-11,Nordsjælland,Horsens,2,1,1.0
+2017-2018,First round,,2018-05-13,Randers,Helsingør,2,1,1.0
+2017-2018,First round,,2018-05-13,Silkeborg,Lyngby,2,2,0.5
+2017-2018,Quarter-finals,,2018-05-13,Hobro,SønderjyskE,3,2,1.0
+2017-2018,Quarter-finals,,2018-05-13,Odense,AGF,2,3,0.0
+2017-2018,Championship round,8,2018-05-13,Aalborg,FC Copenhagen,1,0,1.0
+2017-2018,Championship round,8,2018-05-14,Brøndby,Midtjylland,0,1,0.0
+2017-2018,Winners' play-off,,2018-05-17,Helsingør,Silkeborg,1,1,0.5
+2017-2018,Winners' play-off,,2018-05-17,Lyngby,Randers,1,2,0.0
+2017-2018,Championship round,9,2018-05-18,FC Copenhagen,Midtjylland,0,2,0.0
+2017-2018,Championship round,9,2018-05-18,Aalborg,Nordsjælland,0,0,0.5
+2017-2018,Championship round,9,2018-05-18,Horsens,Brøndby,2,2,0.5
+2017-2018,Semi-finals,,2018-05-19,AGF,SønderjyskE,2,2,0.5
+2017-2018,Winners' play-off,,2018-05-21,Randers,Lyngby,2,1,1.0
+2017-2018,Winners' play-off,,2018-05-21,Silkeborg,Helsingør,4,3,1.0
+2017-2018,Championship round,10,2018-05-21,Brøndby,Aalborg,1,1,0.5
+2017-2018,Championship round,10,2018-05-21,Midtjylland,Horsens,1,0,1.0
+2017-2018,Championship round,10,2018-05-21,Nordsjælland,FC Copenhagen,0,0,0.5
+2017-2018,Semi-finals,,2018-05-22,SønderjyskE,AGF,0,2,0.0
+2017-2018,Final,,2018-05-25,FC Copenhagen,AGF,4,1,1.0

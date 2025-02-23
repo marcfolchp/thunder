@@ -1,0 +1,309 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,Bundesliga,1,2020-09-18,Bayern Munich,Schalke 04,8,0,1.0
+2020-2021,Bundesliga,1,2020-09-19,Köln,Hoffenheim,2,3,0.0
+2020-2021,Bundesliga,1,2020-09-19,Union Berlin,Augsburg,1,3,0.0
+2020-2021,Bundesliga,1,2020-09-19,Stuttgart,Freiburg,2,3,0.0
+2020-2021,Bundesliga,1,2020-09-19,Werder Bremen,Hertha BSC,1,4,0.0
+2020-2021,Bundesliga,1,2020-09-19,Eint Frankfurt,Arminia,1,1,0.5
+2020-2021,Bundesliga,1,2020-09-19,Dortmund,Gladbach,3,0,1.0
+2020-2021,Bundesliga,1,2020-09-20,RB Leipzig,Mainz 05,3,1,1.0
+2020-2021,Bundesliga,1,2020-09-20,Wolfsburg,Leverkusen,0,0,0.5
+2020-2021,Bundesliga,2,2020-09-25,Hertha BSC,Eint Frankfurt,1,3,0.0
+2020-2021,Bundesliga,2,2020-09-26,Augsburg,Dortmund,2,0,1.0
+2020-2021,Bundesliga,2,2020-09-26,Leverkusen,RB Leipzig,1,1,0.5
+2020-2021,Bundesliga,2,2020-09-26,Gladbach,Union Berlin,1,1,0.5
+2020-2021,Bundesliga,2,2020-09-26,Mainz 05,Stuttgart,1,4,0.0
+2020-2021,Bundesliga,2,2020-09-26,Arminia,Köln,1,0,1.0
+2020-2021,Bundesliga,2,2020-09-26,Schalke 04,Werder Bremen,1,3,0.0
+2020-2021,Bundesliga,2,2020-09-27,Hoffenheim,Bayern Munich,4,1,1.0
+2020-2021,Bundesliga,2,2020-09-27,Freiburg,Wolfsburg,1,1,0.5
+2020-2021,Bundesliga,3,2020-10-02,Union Berlin,Mainz 05,4,0,1.0
+2020-2021,Bundesliga,3,2020-10-03,Stuttgart,Leverkusen,1,1,0.5
+2020-2021,Bundesliga,3,2020-10-03,Dortmund,Freiburg,4,0,1.0
+2020-2021,Bundesliga,3,2020-10-03,Köln,Gladbach,1,3,0.0
+2020-2021,Bundesliga,3,2020-10-03,Werder Bremen,Arminia,1,0,1.0
+2020-2021,Bundesliga,3,2020-10-03,Eint Frankfurt,Hoffenheim,2,1,1.0
+2020-2021,Bundesliga,3,2020-10-03,RB Leipzig,Schalke 04,4,0,1.0
+2020-2021,Bundesliga,3,2020-10-04,Wolfsburg,Augsburg,0,0,0.5
+2020-2021,Bundesliga,3,2020-10-04,Bayern Munich,Hertha BSC,4,3,1.0
+2020-2021,Bundesliga,4,2020-10-17,Augsburg,RB Leipzig,0,2,0.0
+2020-2021,Bundesliga,4,2020-10-17,Freiburg,Werder Bremen,1,1,0.5
+2020-2021,Bundesliga,4,2020-10-17,Hoffenheim,Dortmund,0,1,0.0
+2020-2021,Bundesliga,4,2020-10-17,Hertha BSC,Stuttgart,0,2,0.0
+2020-2021,Bundesliga,4,2020-10-17,Mainz 05,Leverkusen,0,1,0.0
+2020-2021,Bundesliga,4,2020-10-17,Arminia,Bayern Munich,1,4,0.0
+2020-2021,Bundesliga,4,2020-10-17,Gladbach,Wolfsburg,1,1,0.5
+2020-2021,Bundesliga,4,2020-10-18,Köln,Eint Frankfurt,1,1,0.5
+2020-2021,Bundesliga,4,2020-10-18,Schalke 04,Union Berlin,1,1,0.5
+2020-2021,Bundesliga,5,2020-10-23,Stuttgart,Köln,1,1,0.5
+2020-2021,Bundesliga,5,2020-10-24,Mainz 05,Gladbach,2,3,0.0
+2020-2021,Bundesliga,5,2020-10-24,Union Berlin,Freiburg,1,1,0.5
+2020-2021,Bundesliga,5,2020-10-24,Bayern Munich,Eint Frankfurt,5,0,1.0
+2020-2021,Bundesliga,5,2020-10-24,RB Leipzig,Hertha BSC,2,1,1.0
+2020-2021,Bundesliga,5,2020-10-24,Dortmund,Schalke 04,3,0,1.0
+2020-2021,Bundesliga,5,2020-10-25,Wolfsburg,Arminia,2,1,1.0
+2020-2021,Bundesliga,5,2020-10-25,Werder Bremen,Hoffenheim,1,1,0.5
+2020-2021,Bundesliga,5,2020-10-26,Leverkusen,Augsburg,3,1,1.0
+2020-2021,Bundesliga,6,2020-10-30,Schalke 04,Stuttgart,1,1,0.5
+2020-2021,Bundesliga,6,2020-10-31,Eint Frankfurt,Werder Bremen,1,1,0.5
+2020-2021,Bundesliga,6,2020-10-31,Augsburg,Mainz 05,3,1,1.0
+2020-2021,Bundesliga,6,2020-10-31,Köln,Bayern Munich,1,2,0.0
+2020-2021,Bundesliga,6,2020-10-31,Arminia,Dortmund,0,2,0.0
+2020-2021,Bundesliga,6,2020-10-31,Gladbach,RB Leipzig,1,0,1.0
+2020-2021,Bundesliga,6,2020-11-01,Freiburg,Leverkusen,2,4,0.0
+2020-2021,Bundesliga,6,2020-11-01,Hertha BSC,Wolfsburg,1,1,0.5
+2020-2021,Bundesliga,6,2020-11-02,Hoffenheim,Union Berlin,1,3,0.0
+2020-2021,Bundesliga,7,2020-11-06,Werder Bremen,Köln,1,1,0.5
+2020-2021,Bundesliga,7,2020-11-07,Union Berlin,Arminia,5,0,1.0
+2020-2021,Bundesliga,7,2020-11-07,Augsburg,Hertha BSC,0,3,0.0
+2020-2021,Bundesliga,7,2020-11-07,RB Leipzig,Freiburg,3,0,1.0
+2020-2021,Bundesliga,7,2020-11-07,Stuttgart,Eint Frankfurt,2,2,0.5
+2020-2021,Bundesliga,7,2020-11-07,Mainz 05,Schalke 04,2,2,0.5
+2020-2021,Bundesliga,7,2020-11-07,Dortmund,Bayern Munich,2,3,0.0
+2020-2021,Bundesliga,7,2020-11-08,Wolfsburg,Hoffenheim,2,1,1.0
+2020-2021,Bundesliga,7,2020-11-08,Leverkusen,Gladbach,4,3,1.0
+2020-2021,Bundesliga,8,2020-11-21,Gladbach,Augsburg,1,1,0.5
+2020-2021,Bundesliga,8,2020-11-21,Hoffenheim,Stuttgart,3,3,0.5
+2020-2021,Bundesliga,8,2020-11-21,Arminia,Leverkusen,1,2,0.0
+2020-2021,Bundesliga,8,2020-11-21,Schalke 04,Wolfsburg,0,2,0.0
+2020-2021,Bundesliga,8,2020-11-21,Bayern Munich,Werder Bremen,1,1,0.5
+2020-2021,Bundesliga,8,2020-11-21,Eint Frankfurt,RB Leipzig,1,1,0.5
+2020-2021,Bundesliga,8,2020-11-21,Hertha BSC,Dortmund,2,5,0.0
+2020-2021,Bundesliga,8,2020-11-22,Freiburg,Mainz 05,1,3,0.0
+2020-2021,Bundesliga,8,2020-11-22,Köln,Union Berlin,1,2,0.0
+2020-2021,Bundesliga,9,2020-11-27,Wolfsburg,Werder Bremen,5,3,1.0
+2020-2021,Bundesliga,9,2020-11-28,Stuttgart,Bayern Munich,1,3,0.0
+2020-2021,Bundesliga,9,2020-11-28,RB Leipzig,Arminia,2,1,1.0
+2020-2021,Bundesliga,9,2020-11-28,Union Berlin,Eint Frankfurt,3,3,0.5
+2020-2021,Bundesliga,9,2020-11-28,Dortmund,Köln,1,2,0.0
+2020-2021,Bundesliga,9,2020-11-28,Augsburg,Freiburg,1,1,0.5
+2020-2021,Bundesliga,9,2020-11-28,Gladbach,Schalke 04,4,1,1.0
+2020-2021,Bundesliga,9,2020-11-29,Leverkusen,Hertha BSC,0,0,0.5
+2020-2021,Bundesliga,9,2020-11-29,Mainz 05,Hoffenheim,1,1,0.5
+2020-2021,Bundesliga,10,2020-12-04,Hertha BSC,Union Berlin,3,1,1.0
+2020-2021,Bundesliga,10,2020-12-05,Eint Frankfurt,Dortmund,1,1,0.5
+2020-2021,Bundesliga,10,2020-12-05,Köln,Wolfsburg,2,2,0.5
+2020-2021,Bundesliga,10,2020-12-05,Arminia,Mainz 05,2,1,1.0
+2020-2021,Bundesliga,10,2020-12-05,Freiburg,Gladbach,2,2,0.5
+2020-2021,Bundesliga,10,2020-12-05,Bayern Munich,RB Leipzig,3,3,0.5
+2020-2021,Bundesliga,10,2020-12-06,Werder Bremen,Stuttgart,1,2,0.0
+2020-2021,Bundesliga,10,2020-12-06,Schalke 04,Leverkusen,0,3,0.0
+2020-2021,Bundesliga,10,2020-12-07,Hoffenheim,Augsburg,3,1,1.0
+2020-2021,Bundesliga,11,2020-12-11,Wolfsburg,Eint Frankfurt,2,1,1.0
+2020-2021,Bundesliga,11,2020-12-12,Mainz 05,Köln,0,1,0.0
+2020-2021,Bundesliga,11,2020-12-12,Freiburg,Arminia,2,0,1.0
+2020-2021,Bundesliga,11,2020-12-12,Dortmund,Stuttgart,1,5,0.0
+2020-2021,Bundesliga,11,2020-12-12,RB Leipzig,Werder Bremen,2,0,1.0
+2020-2021,Bundesliga,11,2020-12-12,Gladbach,Hertha BSC,1,1,0.5
+2020-2021,Bundesliga,11,2020-12-12,Union Berlin,Bayern Munich,1,1,0.5
+2020-2021,Bundesliga,11,2020-12-13,Augsburg,Schalke 04,2,2,0.5
+2020-2021,Bundesliga,11,2020-12-13,Leverkusen,Hoffenheim,4,1,1.0
+2020-2021,Bundesliga,12,2020-12-15,Eint Frankfurt,Gladbach,3,3,0.5
+2020-2021,Bundesliga,12,2020-12-15,Werder Bremen,Dortmund,1,2,0.0
+2020-2021,Bundesliga,12,2020-12-15,Stuttgart,Union Berlin,2,2,0.5
+2020-2021,Bundesliga,12,2020-12-15,Hertha BSC,Mainz 05,0,0,0.5
+2020-2021,Bundesliga,12,2020-12-16,Schalke 04,Freiburg,0,2,0.0
+2020-2021,Bundesliga,12,2020-12-16,Hoffenheim,RB Leipzig,0,1,0.0
+2020-2021,Bundesliga,12,2020-12-16,Arminia,Augsburg,0,1,0.0
+2020-2021,Bundesliga,12,2020-12-16,Köln,Leverkusen,0,4,0.0
+2020-2021,Bundesliga,12,2020-12-16,Bayern Munich,Wolfsburg,2,1,1.0
+2020-2021,Bundesliga,13,2020-12-18,Union Berlin,Dortmund,2,1,1.0
+2020-2021,Bundesliga,13,2020-12-19,Augsburg,Eint Frankfurt,0,2,0.0
+2020-2021,Bundesliga,13,2020-12-19,RB Leipzig,Köln,0,0,0.5
+2020-2021,Bundesliga,13,2020-12-19,Schalke 04,Arminia,0,1,0.0
+2020-2021,Bundesliga,13,2020-12-19,Gladbach,Hoffenheim,1,2,0.0
+2020-2021,Bundesliga,13,2020-12-19,Mainz 05,Werder Bremen,0,1,0.0
+2020-2021,Bundesliga,13,2020-12-19,Leverkusen,Bayern Munich,1,2,0.0
+2020-2021,Bundesliga,13,2020-12-20,Freiburg,Hertha BSC,4,1,1.0
+2020-2021,Bundesliga,13,2020-12-20,Wolfsburg,Stuttgart,1,0,1.0
+2020-2021,Bundesliga,14,2021-01-02,Eint Frankfurt,Leverkusen,2,1,1.0
+2020-2021,Bundesliga,14,2021-01-02,Arminia,Gladbach,0,1,0.0
+2020-2021,Bundesliga,14,2021-01-02,Köln,Augsburg,0,1,0.0
+2020-2021,Bundesliga,14,2021-01-02,Hoffenheim,Freiburg,1,3,0.0
+2020-2021,Bundesliga,14,2021-01-02,Werder Bremen,Union Berlin,0,2,0.0
+2020-2021,Bundesliga,14,2021-01-02,Hertha BSC,Schalke 04,3,0,1.0
+2020-2021,Bundesliga,14,2021-01-02,Stuttgart,RB Leipzig,0,1,0.0
+2020-2021,Bundesliga,14,2021-01-03,Dortmund,Wolfsburg,2,0,1.0
+2020-2021,Bundesliga,14,2021-01-03,Bayern Munich,Mainz 05,5,2,1.0
+2020-2021,Bundesliga,15,2021-01-08,Gladbach,Bayern Munich,3,2,1.0
+2020-2021,Bundesliga,15,2021-01-09,Mainz 05,Eint Frankfurt,0,2,0.0
+2020-2021,Bundesliga,15,2021-01-09,Union Berlin,Wolfsburg,2,2,0.5
+2020-2021,Bundesliga,15,2021-01-09,Leverkusen,Werder Bremen,1,1,0.5
+2020-2021,Bundesliga,15,2021-01-09,Freiburg,Köln,5,0,1.0
+2020-2021,Bundesliga,15,2021-01-09,Schalke 04,Hoffenheim,4,0,1.0
+2020-2021,Bundesliga,15,2021-01-09,RB Leipzig,Dortmund,1,3,0.0
+2020-2021,Bundesliga,15,2021-01-10,Augsburg,Stuttgart,1,4,0.0
+2020-2021,Bundesliga,15,2021-01-10,Arminia,Hertha BSC,1,0,1.0
+2020-2021,Bundesliga,16,2021-01-15,Union Berlin,Leverkusen,1,0,1.0
+2020-2021,Bundesliga,16,2021-01-16,Hoffenheim,Arminia,0,0,0.5
+2020-2021,Bundesliga,16,2021-01-16,Wolfsburg,RB Leipzig,2,2,0.5
+2020-2021,Bundesliga,16,2021-01-16,Dortmund,Mainz 05,1,1,0.5
+2020-2021,Bundesliga,16,2021-01-16,Köln,Hertha BSC,0,0,0.5
+2020-2021,Bundesliga,16,2021-01-16,Werder Bremen,Augsburg,2,0,1.0
+2020-2021,Bundesliga,16,2021-01-16,Stuttgart,Gladbach,2,2,0.5
+2020-2021,Bundesliga,16,2021-01-17,Bayern Munich,Freiburg,2,1,1.0
+2020-2021,Bundesliga,16,2021-01-17,Eint Frankfurt,Schalke 04,3,1,1.0
+2020-2021,Bundesliga,17,2021-01-19,Gladbach,Werder Bremen,1,0,1.0
+2020-2021,Bundesliga,17,2021-01-19,Leverkusen,Dortmund,2,1,1.0
+2020-2021,Bundesliga,17,2021-01-19,Hertha BSC,Hoffenheim,0,3,0.0
+2020-2021,Bundesliga,17,2021-01-19,Mainz 05,Wolfsburg,0,2,0.0
+2020-2021,Bundesliga,17,2021-01-20,Schalke 04,Köln,1,2,0.0
+2020-2021,Bundesliga,17,2021-01-20,Augsburg,Bayern Munich,0,1,0.0
+2020-2021,Bundesliga,17,2021-01-20,Arminia,Stuttgart,3,0,1.0
+2020-2021,Bundesliga,17,2021-01-20,RB Leipzig,Union Berlin,1,0,1.0
+2020-2021,Bundesliga,17,2021-01-20,Freiburg,Eint Frankfurt,2,2,0.5
+2020-2021,Bundesliga,18,2021-01-22,Gladbach,Dortmund,4,2,1.0
+2020-2021,Bundesliga,18,2021-01-23,Mainz 05,RB Leipzig,3,2,1.0
+2020-2021,Bundesliga,18,2021-01-23,Arminia,Eint Frankfurt,1,5,0.0
+2020-2021,Bundesliga,18,2021-01-23,Augsburg,Union Berlin,2,1,1.0
+2020-2021,Bundesliga,18,2021-01-23,Freiburg,Stuttgart,2,1,1.0
+2020-2021,Bundesliga,18,2021-01-23,Leverkusen,Wolfsburg,0,1,0.0
+2020-2021,Bundesliga,18,2021-01-23,Hertha BSC,Werder Bremen,1,4,0.0
+2020-2021,Bundesliga,18,2021-01-24,Schalke 04,Bayern Munich,0,4,0.0
+2020-2021,Bundesliga,18,2021-01-24,Hoffenheim,Köln,3,0,1.0
+2020-2021,Bundesliga,19,2021-01-29,Stuttgart,Mainz 05,2,0,1.0
+2020-2021,Bundesliga,19,2021-01-30,Bayern Munich,Hoffenheim,4,1,1.0
+2020-2021,Bundesliga,19,2021-01-30,Union Berlin,Gladbach,1,1,0.5
+2020-2021,Bundesliga,19,2021-01-30,Werder Bremen,Schalke 04,1,1,0.5
+2020-2021,Bundesliga,19,2021-01-30,Dortmund,Augsburg,3,1,1.0
+2020-2021,Bundesliga,19,2021-01-30,Eint Frankfurt,Hertha BSC,3,1,1.0
+2020-2021,Bundesliga,19,2021-01-30,RB Leipzig,Leverkusen,1,0,1.0
+2020-2021,Bundesliga,19,2021-01-31,Köln,Arminia,3,1,1.0
+2020-2021,Bundesliga,19,2021-01-31,Wolfsburg,Freiburg,3,0,1.0
+2020-2021,Bundesliga,20,2021-02-05,Hertha BSC,Bayern Munich,0,1,0.0
+2020-2021,Bundesliga,20,2021-02-06,Freiburg,Dortmund,2,1,1.0
+2020-2021,Bundesliga,20,2021-02-06,Leverkusen,Stuttgart,5,2,1.0
+2020-2021,Bundesliga,20,2021-02-06,Schalke 04,RB Leipzig,0,3,0.0
+2020-2021,Bundesliga,20,2021-02-06,Mainz 05,Union Berlin,1,0,1.0
+2020-2021,Bundesliga,20,2021-02-06,Augsburg,Wolfsburg,0,2,0.0
+2020-2021,Bundesliga,20,2021-02-06,Gladbach,Köln,1,2,0.0
+2020-2021,Bundesliga,20,2021-02-07,Hoffenheim,Eint Frankfurt,1,3,0.0
+2020-2021,Bundesliga,21,2021-02-12,RB Leipzig,Augsburg,2,1,1.0
+2020-2021,Bundesliga,21,2021-02-13,Werder Bremen,Freiburg,0,0,0.5
+2020-2021,Bundesliga,21,2021-02-13,Dortmund,Hoffenheim,2,2,0.5
+2020-2021,Bundesliga,21,2021-02-13,Stuttgart,Hertha BSC,1,1,0.5
+2020-2021,Bundesliga,21,2021-02-13,Leverkusen,Mainz 05,2,2,0.5
+2020-2021,Bundesliga,21,2021-02-13,Union Berlin,Schalke 04,0,0,0.5
+2020-2021,Bundesliga,21,2021-02-14,Eint Frankfurt,Köln,2,0,1.0
+2020-2021,Bundesliga,21,2021-02-14,Wolfsburg,Gladbach,0,0,0.5
+2020-2021,Bundesliga,21,2021-02-15,Bayern Munich,Arminia,3,3,0.5
+2020-2021,Bundesliga,22,2021-02-19,Arminia,Wolfsburg,0,3,0.0
+2020-2021,Bundesliga,22,2021-02-20,Gladbach,Mainz 05,1,2,0.0
+2020-2021,Bundesliga,22,2021-02-20,Köln,Stuttgart,0,1,0.0
+2020-2021,Bundesliga,22,2021-02-20,Freiburg,Union Berlin,0,1,0.0
+2020-2021,Bundesliga,22,2021-02-20,Eint Frankfurt,Bayern Munich,2,1,1.0
+2020-2021,Bundesliga,22,2021-02-20,Schalke 04,Dortmund,0,4,0.0
+2020-2021,Bundesliga,22,2021-02-21,Augsburg,Leverkusen,1,1,0.5
+2020-2021,Bundesliga,22,2021-02-21,Hertha BSC,RB Leipzig,0,3,0.0
+2020-2021,Bundesliga,22,2021-02-21,Hoffenheim,Werder Bremen,4,0,1.0
+2020-2021,Bundesliga,23,2021-02-26,Werder Bremen,Eint Frankfurt,2,1,1.0
+2020-2021,Bundesliga,23,2021-02-27,Bayern Munich,Köln,5,1,1.0
+2020-2021,Bundesliga,23,2021-02-27,Stuttgart,Schalke 04,5,1,1.0
+2020-2021,Bundesliga,23,2021-02-27,Dortmund,Arminia,3,0,1.0
+2020-2021,Bundesliga,23,2021-02-27,Wolfsburg,Hertha BSC,2,0,1.0
+2020-2021,Bundesliga,23,2021-02-27,RB Leipzig,Gladbach,3,2,1.0
+2020-2021,Bundesliga,23,2021-02-28,Union Berlin,Hoffenheim,1,1,0.5
+2020-2021,Bundesliga,23,2021-02-28,Mainz 05,Augsburg,0,1,0.0
+2020-2021,Bundesliga,23,2021-02-28,Leverkusen,Freiburg,1,2,0.0
+2020-2021,Bundesliga,24,2021-03-05,Schalke 04,Mainz 05,0,0,0.5
+2020-2021,Bundesliga,24,2021-03-06,Gladbach,Leverkusen,0,1,0.0
+2020-2021,Bundesliga,24,2021-03-06,Eint Frankfurt,Stuttgart,1,1,0.5
+2020-2021,Bundesliga,24,2021-03-06,Hertha BSC,Augsburg,2,1,1.0
+2020-2021,Bundesliga,24,2021-03-06,Hoffenheim,Wolfsburg,2,1,1.0
+2020-2021,Bundesliga,24,2021-03-06,Freiburg,RB Leipzig,0,3,0.0
+2020-2021,Bundesliga,24,2021-03-06,Bayern Munich,Dortmund,4,2,1.0
+2020-2021,Bundesliga,24,2021-03-07,Köln,Werder Bremen,1,1,0.5
+2020-2021,Bundesliga,24,2021-03-07,Arminia,Union Berlin,0,0,0.5
+2020-2021,Bundesliga,20,2021-03-10,Arminia,Werder Bremen,0,2,0.0
+2020-2021,Bundesliga,25,2021-03-12,Augsburg,Gladbach,3,1,1.0
+2020-2021,Bundesliga,25,2021-03-13,Union Berlin,Köln,2,1,1.0
+2020-2021,Bundesliga,25,2021-03-13,Werder Bremen,Bayern Munich,1,3,0.0
+2020-2021,Bundesliga,25,2021-03-13,Wolfsburg,Schalke 04,5,0,1.0
+2020-2021,Bundesliga,25,2021-03-13,Mainz 05,Freiburg,1,0,1.0
+2020-2021,Bundesliga,25,2021-03-13,Dortmund,Hertha BSC,2,0,1.0
+2020-2021,Bundesliga,25,2021-03-14,Leverkusen,Arminia,1,2,0.0
+2020-2021,Bundesliga,25,2021-03-14,RB Leipzig,Eint Frankfurt,1,1,0.5
+2020-2021,Bundesliga,25,2021-03-14,Stuttgart,Hoffenheim,2,0,1.0
+2020-2021,Bundesliga,26,2021-03-19,Arminia,RB Leipzig,0,1,0.0
+2020-2021,Bundesliga,26,2021-03-20,Bayern Munich,Stuttgart,4,0,1.0
+2020-2021,Bundesliga,26,2021-03-20,Werder Bremen,Wolfsburg,1,2,0.0
+2020-2021,Bundesliga,26,2021-03-20,Köln,Dortmund,2,2,0.5
+2020-2021,Bundesliga,26,2021-03-20,Eint Frankfurt,Union Berlin,5,2,1.0
+2020-2021,Bundesliga,26,2021-03-20,Schalke 04,Gladbach,0,3,0.0
+2020-2021,Bundesliga,26,2021-03-21,Hoffenheim,Mainz 05,1,2,0.0
+2020-2021,Bundesliga,26,2021-03-21,Hertha BSC,Leverkusen,3,0,1.0
+2020-2021,Bundesliga,26,2021-03-21,Freiburg,Augsburg,2,0,1.0
+2020-2021,Bundesliga,27,2021-04-03,Wolfsburg,Köln,1,0,1.0
+2020-2021,Bundesliga,27,2021-04-03,Mainz 05,Arminia,1,1,0.5
+2020-2021,Bundesliga,27,2021-04-03,Dortmund,Eint Frankfurt,1,2,0.0
+2020-2021,Bundesliga,27,2021-04-03,Augsburg,Hoffenheim,2,1,1.0
+2020-2021,Bundesliga,27,2021-04-03,Leverkusen,Schalke 04,2,1,1.0
+2020-2021,Bundesliga,27,2021-04-03,RB Leipzig,Bayern Munich,0,1,0.0
+2020-2021,Bundesliga,27,2021-04-03,Gladbach,Freiburg,2,1,1.0
+2020-2021,Bundesliga,27,2021-04-04,Stuttgart,Werder Bremen,1,0,1.0
+2020-2021,Bundesliga,27,2021-04-04,Union Berlin,Hertha BSC,1,1,0.5
+2020-2021,Bundesliga,28,2021-04-09,Arminia,Freiburg,1,0,1.0
+2020-2021,Bundesliga,28,2021-04-10,Eint Frankfurt,Wolfsburg,4,3,1.0
+2020-2021,Bundesliga,28,2021-04-10,Bayern Munich,Union Berlin,1,1,0.5
+2020-2021,Bundesliga,28,2021-04-10,Hertha BSC,Gladbach,2,2,0.5
+2020-2021,Bundesliga,28,2021-04-10,Werder Bremen,RB Leipzig,1,4,0.0
+2020-2021,Bundesliga,28,2021-04-10,Stuttgart,Dortmund,2,3,0.0
+2020-2021,Bundesliga,28,2021-04-11,Schalke 04,Augsburg,1,0,1.0
+2020-2021,Bundesliga,28,2021-04-11,Köln,Mainz 05,2,3,0.0
+2020-2021,Bundesliga,28,2021-04-12,Hoffenheim,Leverkusen,0,0,0.5
+2020-2021,Bundesliga,29,2021-04-16,RB Leipzig,Hoffenheim,0,0,0.5
+2020-2021,Bundesliga,29,2021-04-17,Wolfsburg,Bayern Munich,2,3,0.0
+2020-2021,Bundesliga,29,2021-04-17,Freiburg,Schalke 04,4,0,1.0
+2020-2021,Bundesliga,29,2021-04-17,Gladbach,Eint Frankfurt,4,0,1.0
+2020-2021,Bundesliga,29,2021-04-17,Union Berlin,Stuttgart,2,1,1.0
+2020-2021,Bundesliga,29,2021-04-17,Augsburg,Arminia,0,0,0.5
+2020-2021,Bundesliga,29,2021-04-17,Leverkusen,Köln,3,0,1.0
+2020-2021,Bundesliga,29,2021-04-18,Dortmund,Werder Bremen,4,1,1.0
+2020-2021,Bundesliga,30,2021-04-20,Köln,RB Leipzig,2,1,1.0
+2020-2021,Bundesliga,30,2021-04-20,Eint Frankfurt,Augsburg,2,0,1.0
+2020-2021,Bundesliga,30,2021-04-20,Bayern Munich,Leverkusen,2,0,1.0
+2020-2021,Bundesliga,30,2021-04-20,Arminia,Schalke 04,1,0,1.0
+2020-2021,Bundesliga,30,2021-04-21,Hoffenheim,Gladbach,3,2,1.0
+2020-2021,Bundesliga,30,2021-04-21,Stuttgart,Wolfsburg,1,3,0.0
+2020-2021,Bundesliga,30,2021-04-21,Werder Bremen,Mainz 05,0,1,0.0
+2020-2021,Bundesliga,30,2021-04-21,Dortmund,Union Berlin,2,0,1.0
+2020-2021,Bundesliga,31,2021-04-23,Augsburg,Köln,2,3,0.0
+2020-2021,Bundesliga,31,2021-04-24,Mainz 05,Bayern Munich,2,1,1.0
+2020-2021,Bundesliga,31,2021-04-24,Freiburg,Hoffenheim,1,1,0.5
+2020-2021,Bundesliga,31,2021-04-24,Union Berlin,Werder Bremen,3,1,1.0
+2020-2021,Bundesliga,31,2021-04-24,Wolfsburg,Dortmund,0,2,0.0
+2020-2021,Bundesliga,31,2021-04-24,Leverkusen,Eint Frankfurt,3,1,1.0
+2020-2021,Bundesliga,31,2021-04-25,RB Leipzig,Stuttgart,2,0,1.0
+2020-2021,Bundesliga,31,2021-04-25,Gladbach,Arminia,5,0,1.0
+2020-2021,Bundesliga,29,2021-05-03,Mainz 05,Hertha BSC,1,1,0.5
+2020-2021,Bundesliga,30,2021-05-06,Hertha BSC,Freiburg,3,0,1.0
+2020-2021,Bundesliga,32,2021-05-07,Stuttgart,Augsburg,2,1,1.0
+2020-2021,Bundesliga,32,2021-05-08,Hoffenheim,Schalke 04,4,2,1.0
+2020-2021,Bundesliga,32,2021-05-08,Wolfsburg,Union Berlin,3,0,1.0
+2020-2021,Bundesliga,32,2021-05-08,Dortmund,RB Leipzig,3,2,1.0
+2020-2021,Bundesliga,32,2021-05-08,Werder Bremen,Leverkusen,0,0,0.5
+2020-2021,Bundesliga,32,2021-05-08,Bayern Munich,Gladbach,6,0,1.0
+2020-2021,Bundesliga,32,2021-05-09,Köln,Freiburg,1,4,0.0
+2020-2021,Bundesliga,32,2021-05-09,Eint Frankfurt,Mainz 05,1,1,0.5
+2020-2021,Bundesliga,32,2021-05-09,Hertha BSC,Arminia,0,0,0.5
+2020-2021,Bundesliga,31,2021-05-12,Schalke 04,Hertha BSC,1,2,0.0
+2020-2021,Bundesliga,33,2021-05-15,Arminia,Hoffenheim,1,1,0.5
+2020-2021,Bundesliga,33,2021-05-15,Schalke 04,Eint Frankfurt,4,3,1.0
+2020-2021,Bundesliga,33,2021-05-15,Freiburg,Bayern Munich,2,2,0.5
+2020-2021,Bundesliga,33,2021-05-15,Augsburg,Werder Bremen,2,0,1.0
+2020-2021,Bundesliga,33,2021-05-15,Gladbach,Stuttgart,1,2,0.0
+2020-2021,Bundesliga,33,2021-05-15,Leverkusen,Union Berlin,1,1,0.5
+2020-2021,Bundesliga,33,2021-05-15,Hertha BSC,Köln,0,0,0.5
+2020-2021,Bundesliga,33,2021-05-16,Mainz 05,Dortmund,1,3,0.0
+2020-2021,Bundesliga,33,2021-05-16,RB Leipzig,Wolfsburg,2,2,0.5
+2020-2021,Bundesliga,34,2021-05-22,Wolfsburg,Mainz 05,2,3,0.0
+2020-2021,Bundesliga,34,2021-05-22,Stuttgart,Arminia,0,2,0.0
+2020-2021,Bundesliga,34,2021-05-22,Union Berlin,RB Leipzig,2,1,1.0
+2020-2021,Bundesliga,34,2021-05-22,Köln,Schalke 04,1,0,1.0
+2020-2021,Bundesliga,34,2021-05-22,Werder Bremen,Gladbach,2,4,0.0
+2020-2021,Bundesliga,34,2021-05-22,Bayern Munich,Augsburg,5,2,1.0
+2020-2021,Bundesliga,34,2021-05-22,Dortmund,Leverkusen,3,1,1.0
+2020-2021,Bundesliga,34,2021-05-22,Hoffenheim,Hertha BSC,2,1,1.0
+2020-2021,Bundesliga,34,2021-05-22,Eint Frankfurt,Freiburg,3,1,1.0
+2020-2021,German 1/2 Relegation/Promotion Play-offs,,2021-05-26,Köln,Holstein Kiel,0,1,0.0
+2020-2021,German 1/2 Relegation/Promotion Play-offs,,2021-05-29,Holstein Kiel,Köln,1,5,0.0

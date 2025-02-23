@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,1,2017-07-15,Ural,Rostov,1,1,0.5
+2017-2018,1,2017-07-15,Tosno,Ufa,0,1,0.0
+2017-2018,1,2017-07-15,Anzhi,CSKA Moscow,1,3,0.0
+2017-2018,1,2017-07-16,Rubin Kazan,Krasnodar,1,2,0.0
+2017-2018,1,2017-07-16,SKA-Khabarovsk,Zenit,0,2,0.0
+2017-2018,1,2017-07-16,Akhmat Grozny,Amkar Perm,1,0,1.0
+2017-2018,1,2017-07-18,Dynamo Mosc,Spartak Moscow,2,2,0.5
+2017-2018,1,2017-07-18,Loko Moscow,Arsenal Tula,1,0,1.0
+2017-2018,2,2017-07-21,CSKA Moscow,Loko Moscow,1,3,0.0
+2017-2018,2,2017-07-21,Anzhi,Amkar Perm,1,0,1.0
+2017-2018,2,2017-07-22,Zenit,Rubin Kazan,2,1,1.0
+2017-2018,2,2017-07-22,Krasnodar,Tosno,2,0,1.0
+2017-2018,2,2017-07-23,Ufa,Spartak Moscow,0,0,0.5
+2017-2018,2,2017-07-23,Dynamo Mosc,Ural,0,1,0.0
+2017-2018,2,2017-07-23,Rostov,Akhmat Grozny,0,1,0.0
+2017-2018,2,2017-07-24,Arsenal Tula,SKA-Khabarovsk,1,0,1.0
+2017-2018,3,2017-07-29,CSKA Moscow,SKA-Khabarovsk,2,0,1.0
+2017-2018,3,2017-07-29,Ural,Ufa,1,1,0.5
+2017-2018,3,2017-07-29,Rubin Kazan,Arsenal Tula,2,1,1.0
+2017-2018,3,2017-07-29,Akhmat Grozny,Dynamo Mosc,2,0,1.0
+2017-2018,3,2017-07-30,Amkar Perm,Rostov,0,1,0.0
+2017-2018,3,2017-07-30,Loko Moscow,Anzhi,1,0,1.0
+2017-2018,3,2017-07-30,Tosno,Zenit,0,1,0.0
+2017-2018,3,2017-07-31,Spartak Moscow,Krasnodar,2,0,1.0
+2017-2018,4,2017-08-04,Anzhi,Rostov,0,1,0.0
+2017-2018,4,2017-08-05,Ufa,Akhmat Grozny,3,2,1.0
+2017-2018,4,2017-08-05,Dynamo Mosc,Amkar Perm,3,0,1.0
+2017-2018,4,2017-08-05,Loko Moscow,SKA-Khabarovsk,1,0,1.0
+2017-2018,4,2017-08-06,Arsenal Tula,Tosno,1,2,0.0
+2017-2018,4,2017-08-06,CSKA Moscow,Rubin Kazan,1,2,0.0
+2017-2018,4,2017-08-06,Krasnodar,Ural,1,1,0.5
+2017-2018,4,2017-08-06,Zenit,Spartak Moscow,5,1,1.0
+2017-2018,5,2017-08-08,SKA-Khabarovsk,Anzhi,2,0,1.0
+2017-2018,5,2017-08-08,Amkar Perm,Ufa,0,0,0.5
+2017-2018,5,2017-08-09,Spartak Moscow,Arsenal Tula,2,0,1.0
+2017-2018,5,2017-08-09,Ural,Zenit,1,1,0.5
+2017-2018,5,2017-08-09,Tosno,CSKA Moscow,1,2,0.0
+2017-2018,5,2017-08-09,Rostov,Dynamo Mosc,1,0,1.0
+2017-2018,5,2017-08-09,Rubin Kazan,Loko Moscow,1,1,0.5
+2017-2018,5,2017-08-10,Akhmat Grozny,Krasnodar,2,3,0.0
+2017-2018,6,2017-08-12,Ufa,Rostov,1,4,0.0
+2017-2018,6,2017-08-12,CSKA Moscow,Spartak Moscow,2,1,1.0
+2017-2018,6,2017-08-12,Anzhi,Dynamo Mosc,1,3,0.0
+2017-2018,6,2017-08-13,Loko Moscow,Tosno,0,2,0.0
+2017-2018,6,2017-08-13,SKA-Khabarovsk,Rubin Kazan,1,1,0.5
+2017-2018,6,2017-08-13,Zenit,Akhmat Grozny,4,0,1.0
+2017-2018,6,2017-08-13,Krasnodar,Amkar Perm,1,1,0.5
+2017-2018,6,2017-08-14,Arsenal Tula,Ural,2,2,0.5
+2017-2018,7,2017-08-18,Tosno,SKA-Khabarovsk,0,0,0.5
+2017-2018,7,2017-08-19,Ural,CSKA Moscow,0,0,0.5
+2017-2018,7,2017-08-19,Spartak Moscow,Loko Moscow,3,4,0.0
+2017-2018,7,2017-08-19,Rubin Kazan,Anzhi,6,0,1.0
+2017-2018,7,2017-08-20,Amkar Perm,Zenit,0,1,0.0
+2017-2018,7,2017-08-20,Dynamo Mosc,Ufa,1,1,0.5
+2017-2018,7,2017-08-20,Rostov,Krasnodar,0,0,0.5
+2017-2018,7,2017-08-21,Akhmat Grozny,Arsenal Tula,1,2,0.0
+2017-2018,8,2017-08-25,Anzhi,Ufa,1,0,1.0
+2017-2018,8,2017-08-26,Arsenal Tula,Amkar Perm,0,1,0.0
+2017-2018,8,2017-08-26,Rubin Kazan,Tosno,1,0,1.0
+2017-2018,8,2017-08-26,Loko Moscow,Ural,2,1,1.0
+2017-2018,8,2017-08-27,CSKA Moscow,Akhmat Grozny,0,1,0.0
+2017-2018,8,2017-08-27,SKA-Khabarovsk,Spartak Moscow,0,0,0.5
+2017-2018,8,2017-08-27,Zenit,Rostov,0,0,0.5
+2017-2018,8,2017-08-27,Krasnodar,Dynamo Mosc,2,0,1.0
+2017-2018,9,2017-09-08,Amkar Perm,CSKA Moscow,0,1,0.0
+2017-2018,9,2017-09-09,Tosno,Anzhi,2,2,0.5
+2017-2018,9,2017-09-09,Rostov,Arsenal Tula,2,2,0.5
+2017-2018,9,2017-09-09,Spartak Moscow,Rubin Kazan,1,0,1.0
+2017-2018,9,2017-09-10,Dynamo Mosc,Zenit,0,0,0.5
+2017-2018,9,2017-09-10,Ufa,Krasnodar,0,1,0.0
+2017-2018,9,2017-09-10,Akhmat Grozny,Loko Moscow,1,1,0.5
+2017-2018,9,2017-09-11,Ural,SKA-Khabarovsk,1,1,0.5
+2017-2018,10,2017-09-15,Arsenal Tula,Dynamo Mosc,1,0,1.0
+2017-2018,10,2017-09-16,CSKA Moscow,Rostov,2,0,1.0
+2017-2018,10,2017-09-16,Anzhi,Krasnodar,1,5,0.0
+2017-2018,10,2017-09-17,Tosno,Spartak Moscow,2,2,0.5
+2017-2018,10,2017-09-17,Rubin Kazan,Ural,0,1,0.0
+2017-2018,10,2017-09-17,SKA-Khabarovsk,Akhmat Grozny,2,2,0.5
+2017-2018,10,2017-09-18,Loko Moscow,Amkar Perm,0,1,0.0
+2017-2018,10,2017-09-18,Zenit,Ufa,3,0,1.0
+2017-2018,11,2017-09-23,Dynamo Mosc,CSKA Moscow,0,0,0.5
+2017-2018,11,2017-09-23,Spartak Moscow,Anzhi,2,2,0.5
+2017-2018,11,2017-09-24,Ural,Tosno,3,1,1.0
+2017-2018,11,2017-09-24,Rostov,Loko Moscow,0,1,0.0
+2017-2018,11,2017-09-24,Ufa,Arsenal Tula,1,0,1.0
+2017-2018,11,2017-09-24,Krasnodar,Zenit,0,2,0.0
+2017-2018,11,2017-09-25,Amkar Perm,SKA-Khabarovsk,3,0,1.0
+2017-2018,11,2017-09-25,Akhmat Grozny,Rubin Kazan,1,0,1.0
+2017-2018,12,2017-09-29,Arsenal Tula,Krasnodar,1,0,1.0
+2017-2018,12,2017-09-30,Tosno,Akhmat Grozny,1,0,1.0
+2017-2018,12,2017-09-30,Rubin Kazan,Amkar Perm,0,1,0.0
+2017-2018,12,2017-09-30,SKA-Khabarovsk,Rostov,2,1,1.0
+2017-2018,12,2017-09-30,Spartak Moscow,Ural,2,0,1.0
+2017-2018,12,2017-10-01,CSKA Moscow,Ufa,0,0,0.5
+2017-2018,12,2017-10-01,Loko Moscow,Dynamo Mosc,3,0,1.0
+2017-2018,12,2017-10-01,Anzhi,Zenit,2,2,0.5
+2017-2018,13,2017-10-13,Akhmat Grozny,Spartak Moscow,1,2,0.0
+2017-2018,13,2017-10-14,Dynamo Mosc,SKA-Khabarovsk,2,0,1.0
+2017-2018,13,2017-10-14,Ural,Anzhi,2,1,1.0
+2017-2018,13,2017-10-14,Krasnodar,CSKA Moscow,0,1,0.0
+2017-2018,13,2017-10-15,Ufa,Loko Moscow,1,0,1.0
+2017-2018,13,2017-10-15,Rostov,Rubin Kazan,0,1,0.0
+2017-2018,13,2017-10-15,Zenit,Arsenal Tula,0,1,0.0
+2017-2018,13,2017-10-16,Amkar Perm,Tosno,0,0,0.5
+2017-2018,14,2017-10-21,Tosno,Rostov,1,1,0.5
+2017-2018,14,2017-10-21,Rubin Kazan,Dynamo Mosc,0,0,0.5
+2017-2018,14,2017-10-21,SKA-Khabarovsk,Ufa,2,2,0.5
+2017-2018,14,2017-10-21,Spartak Moscow,Amkar Perm,0,0,0.5
+2017-2018,14,2017-10-22,Ural,Akhmat Grozny,2,0,1.0
+2017-2018,14,2017-10-22,CSKA Moscow,Zenit,0,0,0.5
+2017-2018,14,2017-10-22,Anzhi,Arsenal Tula,3,2,1.0
+2017-2018,14,2017-10-23,Loko Moscow,Krasnodar,2,0,1.0
+2017-2018,15,2017-10-27,Arsenal Tula,CSKA Moscow,1,0,1.0
+2017-2018,15,2017-10-28,Rostov,Spartak Moscow,2,2,0.5
+2017-2018,15,2017-10-29,Amkar Perm,Ural,1,1,0.5
+2017-2018,15,2017-10-29,Dynamo Mosc,Tosno,0,1,0.0
+2017-2018,15,2017-10-29,Zenit,Loko Moscow,0,3,0.0
+2017-2018,15,2017-10-29,Krasnodar,SKA-Khabarovsk,4,1,1.0
+2017-2018,15,2017-10-30,Ufa,Rubin Kazan,2,1,1.0
+2017-2018,15,2017-10-30,Akhmat Grozny,Anzhi,1,1,0.5
+2017-2018,16,2017-11-03,Ural,Dynamo Mosc,2,2,0.5
+2017-2018,16,2017-11-04,Tosno,Krasnodar,1,3,0.0
+2017-2018,16,2017-11-04,Akhmat Grozny,Rostov,1,0,1.0
+2017-2018,16,2017-11-05,Amkar Perm,Anzhi,1,2,0.0
+2017-2018,16,2017-11-05,Loko Moscow,CSKA Moscow,2,2,0.5
+2017-2018,16,2017-11-05,SKA-Khabarovsk,Arsenal Tula,1,2,0.0
+2017-2018,16,2017-11-05,Rubin Kazan,Zenit,0,0,0.5
+2017-2018,16,2017-11-05,Spartak Moscow,Ufa,3,1,1.0
+2017-2018,17,2017-11-18,SKA-Khabarovsk,CSKA Moscow,2,4,0.0
+2017-2018,17,2017-11-18,Dynamo Mosc,Akhmat Grozny,1,1,0.5
+2017-2018,17,2017-11-18,Krasnodar,Spartak Moscow,1,4,0.0
+2017-2018,17,2017-11-18,Arsenal Tula,Rubin Kazan,0,0,0.5
+2017-2018,17,2017-11-19,Ufa,Ural,2,0,1.0
+2017-2018,17,2017-11-19,Anzhi,Loko Moscow,0,1,0.0
+2017-2018,17,2017-11-19,Rostov,Amkar Perm,0,0,0.5
+2017-2018,17,2017-11-19,Zenit,Tosno,5,0,1.0
+2017-2018,18,2017-11-24,Amkar Perm,Dynamo Mosc,2,1,1.0
+2017-2018,18,2017-11-25,Tosno,Arsenal Tula,3,2,1.0
+2017-2018,18,2017-11-25,Akhmat Grozny,Ufa,2,1,1.0
+2017-2018,18,2017-11-26,Ural,Krasnodar,0,1,0.0
+2017-2018,18,2017-11-26,Rubin Kazan,CSKA Moscow,0,1,0.0
+2017-2018,18,2017-11-26,Rostov,Anzhi,2,0,1.0
+2017-2018,18,2017-11-27,SKA-Khabarovsk,Loko Moscow,1,2,0.0
+2017-2018,18,2017-11-27,Spartak Moscow,Zenit,3,1,1.0
+2017-2018,19,2017-12-01,Arsenal Tula,Spartak Moscow,0,1,0.0
+2017-2018,19,2017-12-01,CSKA Moscow,Tosno,6,0,1.0
+2017-2018,19,2017-12-02,Zenit,Ural,2,1,1.0
+2017-2018,19,2017-12-02,Dynamo Mosc,Rostov,2,0,1.0
+2017-2018,19,2017-12-02,Loko Moscow,Rubin Kazan,1,0,1.0
+2017-2018,19,2017-12-03,Ufa,Amkar Perm,3,0,1.0
+2017-2018,19,2017-12-03,Krasnodar,Akhmat Grozny,3,2,1.0
+2017-2018,19,2017-12-03,Anzhi,SKA-Khabarovsk,4,0,1.0
+2017-2018,20,2017-12-08,Ural,Arsenal Tula,1,1,0.5
+2017-2018,20,2017-12-09,Dynamo Mosc,Anzhi,2,0,1.0
+2017-2018,20,2017-12-09,Rubin Kazan,SKA-Khabarovsk,3,1,1.0
+2017-2018,20,2017-12-10,Amkar Perm,Krasnodar,1,3,0.0
+2017-2018,20,2017-12-10,Spartak Moscow,CSKA Moscow,3,0,1.0
+2017-2018,20,2017-12-10,Rostov,Ufa,1,0,1.0
+2017-2018,20,2017-12-11,Akhmat Grozny,Zenit,0,0,0.5
+2017-2018,20,2017-12-11,Tosno,Loko Moscow,1,3,0.0
+2017-2018,21,2018-03-02,Anzhi,Rubin Kazan,1,1,0.5
+2017-2018,21,2018-03-03,CSKA Moscow,Ural,1,0,1.0
+2017-2018,21,2018-03-03,Zenit,Amkar Perm,0,0,0.5
+2017-2018,21,2018-03-03,Krasnodar,Rostov,3,1,1.0
+2017-2018,21,2018-03-04,Ufa,Dynamo Mosc,1,1,0.5
+2017-2018,21,2018-03-04,Loko Moscow,Spartak Moscow,0,0,0.5
+2017-2018,21,2018-03-04,SKA-Khabarovsk,Tosno,0,1,0.0
+2017-2018,21,2018-03-04,Arsenal Tula,Akhmat Grozny,1,0,1.0
+2017-2018,22,2018-03-09,Amkar Perm,Arsenal Tula,0,2,0.0
+2017-2018,22,2018-03-10,Ufa,Anzhi,3,2,1.0
+2017-2018,22,2018-03-10,Dynamo Mosc,Krasnodar,0,0,0.5
+2017-2018,22,2018-03-10,Tosno,Rubin Kazan,0,1,0.0
+2017-2018,22,2018-03-11,Rostov,Zenit,0,0,0.5
+2017-2018,22,2018-03-11,Akhmat Grozny,CSKA Moscow,0,3,0.0
+2017-2018,22,2018-03-11,Spartak Moscow,SKA-Khabarovsk,1,0,1.0
+2017-2018,22,2018-03-12,Ural,Loko Moscow,0,2,0.0
+2017-2018,23,2018-03-17,Arsenal Tula,Rostov,2,2,0.5
+2017-2018,23,2018-03-17,Krasnodar,Ufa,0,1,0.0
+2017-2018,23,2018-03-17,SKA-Khabarovsk,Ural,0,3,0.0
+2017-2018,23,2018-03-17,Anzhi,Tosno,2,0,1.0
+2017-2018,23,2018-03-17,Rubin Kazan,Spartak Moscow,1,2,0.0
+2017-2018,24,2018-03-31,Akhmat Grozny,SKA-Khabarovsk,0,0,0.5
+2017-2018,24,2018-03-31,Amkar Perm,Loko Moscow,2,1,1.0
+2017-2018,24,2018-03-31,Dynamo Mosc,Arsenal Tula,2,1,1.0
+2017-2018,24,2018-03-31,Spartak Moscow,Tosno,2,1,1.0
+2017-2018,24,2018-04-01,Ural,Rubin Kazan,1,1,0.5
+2017-2018,24,2018-04-01,Ufa,Zenit,1,2,0.0
+2017-2018,24,2018-04-01,Rostov,CSKA Moscow,1,2,0.0
+2017-2018,24,2018-04-01,Krasnodar,Anzhi,1,1,0.5
+2017-2018,25,2018-04-07,Rubin Kazan,Akhmat Grozny,3,2,1.0
+2017-2018,25,2018-04-07,Zenit,Krasnodar,1,2,0.0
+2017-2018,25,2018-04-07,SKA-Khabarovsk,Amkar Perm,0,2,0.0
+2017-2018,25,2018-04-07,Arsenal Tula,Ufa,2,1,1.0
+2017-2018,25,2018-04-08,Tosno,Ural,2,2,0.5
+2017-2018,25,2018-04-08,Loko Moscow,Rostov,1,0,1.0
+2017-2018,25,2018-04-08,Anzhi,Spartak Moscow,1,4,0.0
+2017-2018,25,2018-04-09,CSKA Moscow,Dynamo Mosc,1,2,0.0
+2017-2018,26,2018-04-13,Akhmat Grozny,Tosno,1,0,1.0
+2017-2018,26,2018-04-14,Amkar Perm,Rubin Kazan,0,3,0.0
+2017-2018,26,2018-04-14,Dynamo Mosc,Loko Moscow,0,4,0.0
+2017-2018,26,2018-04-14,Zenit,Anzhi,1,0,1.0
+2017-2018,26,2018-04-14,Krasnodar,Arsenal Tula,3,0,1.0
+2017-2018,26,2018-04-15,Ural,Spartak Moscow,2,1,1.0
+2017-2018,26,2018-04-15,Ufa,CSKA Moscow,1,1,0.5
+2017-2018,26,2018-04-15,Rostov,SKA-Khabarovsk,2,0,1.0
+2017-2018,23,2018-04-18,Zenit,Dynamo Mosc,2,1,1.0
+2017-2018,23,2018-04-18,Loko Moscow,Akhmat Grozny,0,0,0.5
+2017-2018,23,2018-04-18,CSKA Moscow,Amkar Perm,3,0,1.0
+2017-2018,27,2018-04-21,Rubin Kazan,Rostov,1,1,0.5
+2017-2018,27,2018-04-21,Anzhi,Ural,0,1,0.0
+2017-2018,27,2018-04-22,Arsenal Tula,Zenit,3,3,0.5
+2017-2018,27,2018-04-22,CSKA Moscow,Krasnodar,2,1,1.0
+2017-2018,27,2018-04-22,Tosno,Amkar Perm,0,2,0.0
+2017-2018,27,2018-04-22,SKA-Khabarovsk,Dynamo Mosc,0,1,0.0
+2017-2018,27,2018-04-22,Loko Moscow,Ufa,0,0,0.5
+2017-2018,27,2018-04-23,Spartak Moscow,Akhmat Grozny,1,3,0.0
+2017-2018,28,2018-04-28,Arsenal Tula,Anzhi,2,1,1.0
+2017-2018,28,2018-04-29,Amkar Perm,Spartak Moscow,0,2,0.0
+2017-2018,28,2018-04-29,Zenit,CSKA Moscow,0,0,0.5
+2017-2018,28,2018-04-29,Rostov,Tosno,2,0,1.0
+2017-2018,28,2018-04-30,Ufa,SKA-Khabarovsk,1,0,1.0
+2017-2018,28,2018-04-30,Dynamo Mosc,Rubin Kazan,0,0,0.5
+2017-2018,28,2018-04-30,Akhmat Grozny,Ural,0,0,0.5
+2017-2018,28,2018-04-30,Krasnodar,Loko Moscow,2,0,1.0
+2017-2018,29,2018-05-05,Tosno,Dynamo Mosc,1,2,0.0
+2017-2018,29,2018-05-05,Loko Moscow,Zenit,1,0,1.0
+2017-2018,29,2018-05-05,SKA-Khabarovsk,Krasnodar,0,1,0.0
+2017-2018,29,2018-05-05,Spartak Moscow,Rostov,2,0,1.0
+2017-2018,29,2018-05-06,Ural,Amkar Perm,0,2,0.0
+2017-2018,29,2018-05-06,CSKA Moscow,Arsenal Tula,6,0,1.0
+2017-2018,29,2018-05-07,Rubin Kazan,Ufa,0,0,0.5
+2017-2018,29,2018-05-07,Anzhi,Akhmat Grozny,0,2,0.0
+2017-2018,30,2018-05-13,Spartak Moscow,Dynamo Mosc,0,1,0.0
+2017-2018,30,2018-05-13,Rostov,Ural,1,0,1.0
+2017-2018,30,2018-05-13,Zenit,SKA-Khabarovsk,6,0,1.0
+2017-2018,30,2018-05-13,Arsenal Tula,Loko Moscow,2,0,1.0
+2017-2018,30,2018-05-13,Krasnodar,Rubin Kazan,1,1,0.5
+2017-2018,30,2018-05-13,CSKA Moscow,Anzhi,2,1,1.0
+2017-2018,30,2018-05-13,Ufa,Tosno,5,0,1.0
+2017-2018,30,2018-05-13,Amkar Perm,Akhmat Grozny,0,0,0.5

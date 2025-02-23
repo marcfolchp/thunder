@@ -1,0 +1,309 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,Bundesliga,1,2021-08-13,Gladbach,Bayern Munich,1,1,0.5
+2021-2022,Bundesliga,1,2021-08-14,Stuttgart,Greuther Fürth,5,1,1.0
+2021-2022,Bundesliga,1,2021-08-14,Union Berlin,Leverkusen,1,1,0.5
+2021-2022,Bundesliga,1,2021-08-14,Wolfsburg,Bochum,1,0,1.0
+2021-2022,Bundesliga,1,2021-08-14,Arminia,Freiburg,0,0,0.5
+2021-2022,Bundesliga,1,2021-08-14,Augsburg,Hoffenheim,0,4,0.0
+2021-2022,Bundesliga,1,2021-08-14,Dortmund,Eint Frankfurt,5,2,1.0
+2021-2022,Bundesliga,1,2021-08-15,Mainz 05,RB Leipzig,1,0,1.0
+2021-2022,Bundesliga,1,2021-08-15,Köln,Hertha BSC,3,1,1.0
+2021-2022,Bundesliga,2,2021-08-20,RB Leipzig,Stuttgart,4,0,1.0
+2021-2022,Bundesliga,2,2021-08-21,Hertha BSC,Wolfsburg,1,2,0.0
+2021-2022,Bundesliga,2,2021-08-21,Bochum,Mainz 05,2,0,1.0
+2021-2022,Bundesliga,2,2021-08-21,Greuther Fürth,Arminia,1,1,0.5
+2021-2022,Bundesliga,2,2021-08-21,Freiburg,Dortmund,2,1,1.0
+2021-2022,Bundesliga,2,2021-08-21,Eint Frankfurt,Augsburg,0,0,0.5
+2021-2022,Bundesliga,2,2021-08-21,Leverkusen,Gladbach,4,0,1.0
+2021-2022,Bundesliga,2,2021-08-22,Hoffenheim,Union Berlin,2,2,0.5
+2021-2022,Bundesliga,2,2021-08-22,Bayern Munich,Köln,3,2,1.0
+2021-2022,Bundesliga,3,2021-08-27,Dortmund,Hoffenheim,3,2,1.0
+2021-2022,Bundesliga,3,2021-08-28,Mainz 05,Greuther Fürth,3,0,1.0
+2021-2022,Bundesliga,3,2021-08-28,Stuttgart,Freiburg,2,3,0.0
+2021-2022,Bundesliga,3,2021-08-28,Arminia,Eint Frankfurt,1,1,0.5
+2021-2022,Bundesliga,3,2021-08-28,Augsburg,Leverkusen,1,4,0.0
+2021-2022,Bundesliga,3,2021-08-28,Köln,Bochum,2,1,1.0
+2021-2022,Bundesliga,3,2021-08-28,Bayern Munich,Hertha BSC,5,0,1.0
+2021-2022,Bundesliga,3,2021-08-29,Union Berlin,Gladbach,2,1,1.0
+2021-2022,Bundesliga,3,2021-08-29,Wolfsburg,RB Leipzig,1,0,1.0
+2021-2022,Bundesliga,4,2021-09-11,Freiburg,Köln,1,1,0.5
+2021-2022,Bundesliga,4,2021-09-11,Hoffenheim,Mainz 05,0,2,0.0
+2021-2022,Bundesliga,4,2021-09-11,Union Berlin,Augsburg,0,0,0.5
+2021-2022,Bundesliga,4,2021-09-11,Leverkusen,Dortmund,3,4,0.0
+2021-2022,Bundesliga,4,2021-09-11,Greuther Fürth,Wolfsburg,0,2,0.0
+2021-2022,Bundesliga,4,2021-09-11,RB Leipzig,Bayern Munich,1,4,0.0
+2021-2022,Bundesliga,4,2021-09-12,Eint Frankfurt,Stuttgart,1,1,0.5
+2021-2022,Bundesliga,4,2021-09-12,Bochum,Hertha BSC,1,3,0.0
+2021-2022,Bundesliga,4,2021-09-12,Gladbach,Arminia,3,1,1.0
+2021-2022,Bundesliga,5,2021-09-17,Hertha BSC,Greuther Fürth,2,1,1.0
+2021-2022,Bundesliga,5,2021-09-18,Augsburg,Gladbach,1,0,1.0
+2021-2022,Bundesliga,5,2021-09-18,Arminia,Hoffenheim,0,0,0.5
+2021-2022,Bundesliga,5,2021-09-18,Bayern Munich,Bochum,7,0,1.0
+2021-2022,Bundesliga,5,2021-09-18,Mainz 05,Freiburg,0,0,0.5
+2021-2022,Bundesliga,5,2021-09-18,Köln,RB Leipzig,1,1,0.5
+2021-2022,Bundesliga,5,2021-09-19,Stuttgart,Leverkusen,1,3,0.0
+2021-2022,Bundesliga,5,2021-09-19,Dortmund,Union Berlin,4,2,1.0
+2021-2022,Bundesliga,5,2021-09-19,Wolfsburg,Eint Frankfurt,1,1,0.5
+2021-2022,Bundesliga,6,2021-09-24,Greuther Fürth,Bayern Munich,1,3,0.0
+2021-2022,Bundesliga,6,2021-09-25,Eint Frankfurt,Köln,1,1,0.5
+2021-2022,Bundesliga,6,2021-09-25,Hoffenheim,Wolfsburg,3,1,1.0
+2021-2022,Bundesliga,6,2021-09-25,Leverkusen,Mainz 05,1,0,1.0
+2021-2022,Bundesliga,6,2021-09-25,Union Berlin,Arminia,1,0,1.0
+2021-2022,Bundesliga,6,2021-09-25,RB Leipzig,Hertha BSC,6,0,1.0
+2021-2022,Bundesliga,6,2021-09-25,Gladbach,Dortmund,1,0,1.0
+2021-2022,Bundesliga,6,2021-09-26,Bochum,Stuttgart,0,0,0.5
+2021-2022,Bundesliga,6,2021-09-26,Freiburg,Augsburg,3,0,1.0
+2021-2022,Bundesliga,7,2021-10-01,Köln,Greuther Fürth,3,1,1.0
+2021-2022,Bundesliga,7,2021-10-02,Stuttgart,Hoffenheim,3,1,1.0
+2021-2022,Bundesliga,7,2021-10-02,Dortmund,Augsburg,2,1,1.0
+2021-2022,Bundesliga,7,2021-10-02,Hertha BSC,Freiburg,1,2,0.0
+2021-2022,Bundesliga,7,2021-10-02,Wolfsburg,Gladbach,1,3,0.0
+2021-2022,Bundesliga,7,2021-10-02,RB Leipzig,Bochum,3,0,1.0
+2021-2022,Bundesliga,7,2021-10-03,Mainz 05,Union Berlin,1,2,0.0
+2021-2022,Bundesliga,7,2021-10-03,Bayern Munich,Eint Frankfurt,1,2,0.0
+2021-2022,Bundesliga,7,2021-10-03,Arminia,Leverkusen,0,4,0.0
+2021-2022,Bundesliga,8,2021-10-15,Hoffenheim,Köln,5,0,1.0
+2021-2022,Bundesliga,8,2021-10-16,Eint Frankfurt,Hertha BSC,1,2,0.0
+2021-2022,Bundesliga,8,2021-10-16,Union Berlin,Wolfsburg,2,0,1.0
+2021-2022,Bundesliga,8,2021-10-16,Freiburg,RB Leipzig,1,1,0.5
+2021-2022,Bundesliga,8,2021-10-16,Greuther Fürth,Bochum,0,1,0.0
+2021-2022,Bundesliga,8,2021-10-16,Dortmund,Mainz 05,3,1,1.0
+2021-2022,Bundesliga,8,2021-10-16,Gladbach,Stuttgart,1,1,0.5
+2021-2022,Bundesliga,8,2021-10-17,Leverkusen,Bayern Munich,1,5,0.0
+2021-2022,Bundesliga,8,2021-10-17,Augsburg,Arminia,1,1,0.5
+2021-2022,Bundesliga,9,2021-10-22,Mainz 05,Augsburg,4,1,1.0
+2021-2022,Bundesliga,9,2021-10-23,Bayern Munich,Hoffenheim,4,0,1.0
+2021-2022,Bundesliga,9,2021-10-23,Wolfsburg,Freiburg,0,2,0.0
+2021-2022,Bundesliga,9,2021-10-23,RB Leipzig,Greuther Fürth,4,1,1.0
+2021-2022,Bundesliga,9,2021-10-23,Arminia,Dortmund,1,3,0.0
+2021-2022,Bundesliga,9,2021-10-23,Hertha BSC,Gladbach,1,0,1.0
+2021-2022,Bundesliga,9,2021-10-24,Köln,Leverkusen,2,2,0.5
+2021-2022,Bundesliga,9,2021-10-24,Stuttgart,Union Berlin,1,1,0.5
+2021-2022,Bundesliga,9,2021-10-24,Bochum,Eint Frankfurt,2,0,1.0
+2021-2022,Bundesliga,10,2021-10-29,Hoffenheim,Hertha BSC,2,0,1.0
+2021-2022,Bundesliga,10,2021-10-30,Freiburg,Greuther Fürth,3,1,1.0
+2021-2022,Bundesliga,10,2021-10-30,Leverkusen,Wolfsburg,0,2,0.0
+2021-2022,Bundesliga,10,2021-10-30,Dortmund,Köln,2,0,1.0
+2021-2022,Bundesliga,10,2021-10-30,Union Berlin,Bayern Munich,2,5,0.0
+2021-2022,Bundesliga,10,2021-10-30,Arminia,Mainz 05,1,2,0.0
+2021-2022,Bundesliga,10,2021-10-30,Eint Frankfurt,RB Leipzig,1,1,0.5
+2021-2022,Bundesliga,10,2021-10-31,Augsburg,Stuttgart,4,1,1.0
+2021-2022,Bundesliga,10,2021-10-31,Gladbach,Bochum,2,1,1.0
+2021-2022,Bundesliga,11,2021-11-05,Mainz 05,Gladbach,1,1,0.5
+2021-2022,Bundesliga,11,2021-11-06,Bochum,Hoffenheim,2,0,1.0
+2021-2022,Bundesliga,11,2021-11-06,Stuttgart,Arminia,0,1,0.0
+2021-2022,Bundesliga,11,2021-11-06,Bayern Munich,Freiburg,2,1,1.0
+2021-2022,Bundesliga,11,2021-11-06,Wolfsburg,Augsburg,1,0,1.0
+2021-2022,Bundesliga,11,2021-11-06,RB Leipzig,Dortmund,2,1,1.0
+2021-2022,Bundesliga,11,2021-11-07,Hertha BSC,Leverkusen,1,1,0.5
+2021-2022,Bundesliga,11,2021-11-07,Köln,Union Berlin,2,2,0.5
+2021-2022,Bundesliga,11,2021-11-07,Greuther Fürth,Eint Frankfurt,1,2,0.0
+2021-2022,Bundesliga,12,2021-11-19,Augsburg,Bayern Munich,2,1,1.0
+2021-2022,Bundesliga,12,2021-11-20,Hoffenheim,RB Leipzig,2,0,1.0
+2021-2022,Bundesliga,12,2021-11-20,Dortmund,Stuttgart,2,1,1.0
+2021-2022,Bundesliga,12,2021-11-20,Leverkusen,Bochum,1,0,1.0
+2021-2022,Bundesliga,12,2021-11-20,Arminia,Wolfsburg,2,2,0.5
+2021-2022,Bundesliga,12,2021-11-20,Gladbach,Greuther Fürth,4,0,1.0
+2021-2022,Bundesliga,12,2021-11-20,Union Berlin,Hertha BSC,2,0,1.0
+2021-2022,Bundesliga,12,2021-11-21,Freiburg,Eint Frankfurt,0,2,0.0
+2021-2022,Bundesliga,12,2021-11-21,Mainz 05,Köln,1,1,0.5
+2021-2022,Bundesliga,13,2021-11-26,Stuttgart,Mainz 05,2,1,1.0
+2021-2022,Bundesliga,13,2021-11-27,Hertha BSC,Augsburg,1,1,0.5
+2021-2022,Bundesliga,13,2021-11-27,Wolfsburg,Dortmund,1,3,0.0
+2021-2022,Bundesliga,13,2021-11-27,Bochum,Freiburg,2,1,1.0
+2021-2022,Bundesliga,13,2021-11-27,Köln,Gladbach,4,1,1.0
+2021-2022,Bundesliga,13,2021-11-27,Greuther Fürth,Hoffenheim,3,6,0.0
+2021-2022,Bundesliga,13,2021-11-27,Bayern Munich,Arminia,1,0,1.0
+2021-2022,Bundesliga,13,2021-11-28,Eint Frankfurt,Union Berlin,2,1,1.0
+2021-2022,Bundesliga,13,2021-11-28,RB Leipzig,Leverkusen,1,3,0.0
+2021-2022,Bundesliga,14,2021-12-03,Union Berlin,RB Leipzig,2,1,1.0
+2021-2022,Bundesliga,14,2021-12-04,Leverkusen,Greuther Fürth,7,1,1.0
+2021-2022,Bundesliga,14,2021-12-04,Arminia,Köln,1,1,0.5
+2021-2022,Bundesliga,14,2021-12-04,Hoffenheim,Eint Frankfurt,3,2,1.0
+2021-2022,Bundesliga,14,2021-12-04,Augsburg,Bochum,2,3,0.0
+2021-2022,Bundesliga,14,2021-12-04,Mainz 05,Wolfsburg,3,0,1.0
+2021-2022,Bundesliga,14,2021-12-04,Dortmund,Bayern Munich,2,3,0.0
+2021-2022,Bundesliga,14,2021-12-05,Stuttgart,Hertha BSC,2,2,0.5
+2021-2022,Bundesliga,14,2021-12-05,Gladbach,Freiburg,0,6,0.0
+2021-2022,Bundesliga,15,2021-12-10,Köln,Augsburg,0,2,0.0
+2021-2022,Bundesliga,15,2021-12-11,Hertha BSC,Arminia,2,0,1.0
+2021-2022,Bundesliga,15,2021-12-11,Bayern Munich,Mainz 05,2,1,1.0
+2021-2022,Bundesliga,15,2021-12-11,Freiburg,Hoffenheim,1,2,0.0
+2021-2022,Bundesliga,15,2021-12-11,RB Leipzig,Gladbach,4,1,1.0
+2021-2022,Bundesliga,15,2021-12-11,Bochum,Dortmund,1,1,0.5
+2021-2022,Bundesliga,15,2021-12-11,Wolfsburg,Stuttgart,0,2,0.0
+2021-2022,Bundesliga,15,2021-12-12,Greuther Fürth,Union Berlin,1,0,1.0
+2021-2022,Bundesliga,15,2021-12-12,Eint Frankfurt,Leverkusen,5,2,1.0
+2021-2022,Bundesliga,16,2021-12-14,Stuttgart,Bayern Munich,0,5,0.0
+2021-2022,Bundesliga,16,2021-12-14,Wolfsburg,Köln,2,3,0.0
+2021-2022,Bundesliga,16,2021-12-14,Arminia,Bochum,2,0,1.0
+2021-2022,Bundesliga,16,2021-12-14,Mainz 05,Hertha BSC,4,0,1.0
+2021-2022,Bundesliga,16,2021-12-15,Gladbach,Eint Frankfurt,2,3,0.0
+2021-2022,Bundesliga,16,2021-12-15,Leverkusen,Hoffenheim,2,2,0.5
+2021-2022,Bundesliga,16,2021-12-15,Union Berlin,Freiburg,0,0,0.5
+2021-2022,Bundesliga,16,2021-12-15,Dortmund,Greuther Fürth,3,0,1.0
+2021-2022,Bundesliga,16,2021-12-15,Augsburg,RB Leipzig,1,1,0.5
+2021-2022,Bundesliga,17,2021-12-17,Bayern Munich,Wolfsburg,4,0,1.0
+2021-2022,Bundesliga,17,2021-12-18,Bochum,Union Berlin,0,1,0.0
+2021-2022,Bundesliga,17,2021-12-18,Greuther Fürth,Augsburg,0,0,0.5
+2021-2022,Bundesliga,17,2021-12-18,RB Leipzig,Arminia,0,2,0.0
+2021-2022,Bundesliga,17,2021-12-18,Hoffenheim,Gladbach,1,1,0.5
+2021-2022,Bundesliga,17,2021-12-18,Eint Frankfurt,Mainz 05,1,0,1.0
+2021-2022,Bundesliga,17,2021-12-18,Hertha BSC,Dortmund,3,2,1.0
+2021-2022,Bundesliga,17,2021-12-19,Freiburg,Leverkusen,2,1,1.0
+2021-2022,Bundesliga,17,2021-12-19,Köln,Stuttgart,1,0,1.0
+2021-2022,Bundesliga,18,2022-01-07,Bayern Munich,Gladbach,1,2,0.0
+2021-2022,Bundesliga,18,2022-01-08,Freiburg,Arminia,2,2,0.5
+2021-2022,Bundesliga,18,2022-01-08,Leverkusen,Union Berlin,2,2,0.5
+2021-2022,Bundesliga,18,2022-01-08,RB Leipzig,Mainz 05,4,1,1.0
+2021-2022,Bundesliga,18,2022-01-08,Hoffenheim,Augsburg,3,1,1.0
+2021-2022,Bundesliga,18,2022-01-08,Greuther Fürth,Stuttgart,0,0,0.5
+2021-2022,Bundesliga,18,2022-01-08,Eint Frankfurt,Dortmund,2,3,0.0
+2021-2022,Bundesliga,18,2022-01-09,Hertha BSC,Köln,1,3,0.0
+2021-2022,Bundesliga,18,2022-01-09,Bochum,Wolfsburg,1,0,1.0
+2021-2022,Bundesliga,19,2022-01-14,Dortmund,Freiburg,5,1,1.0
+2021-2022,Bundesliga,19,2022-01-15,Stuttgart,RB Leipzig,0,2,0.0
+2021-2022,Bundesliga,19,2022-01-15,Union Berlin,Hoffenheim,2,1,1.0
+2021-2022,Bundesliga,19,2022-01-15,Köln,Bayern Munich,0,4,0.0
+2021-2022,Bundesliga,19,2022-01-15,Mainz 05,Bochum,1,0,1.0
+2021-2022,Bundesliga,19,2022-01-15,Wolfsburg,Hertha BSC,0,0,0.5
+2021-2022,Bundesliga,19,2022-01-15,Gladbach,Leverkusen,1,2,0.0
+2021-2022,Bundesliga,19,2022-01-16,Augsburg,Eint Frankfurt,1,1,0.5
+2021-2022,Bundesliga,19,2022-01-16,Arminia,Greuther Fürth,2,2,0.5
+2021-2022,Bundesliga,20,2022-01-21,Eint Frankfurt,Arminia,0,2,0.0
+2021-2022,Bundesliga,20,2022-01-22,Leverkusen,Augsburg,5,1,1.0
+2021-2022,Bundesliga,20,2022-01-22,Gladbach,Union Berlin,1,2,0.0
+2021-2022,Bundesliga,20,2022-01-22,Greuther Fürth,Mainz 05,2,1,1.0
+2021-2022,Bundesliga,20,2022-01-22,Hoffenheim,Dortmund,2,3,0.0
+2021-2022,Bundesliga,20,2022-01-22,Freiburg,Stuttgart,2,0,1.0
+2021-2022,Bundesliga,20,2022-01-22,Bochum,Köln,2,2,0.5
+2021-2022,Bundesliga,20,2022-01-23,RB Leipzig,Wolfsburg,2,0,1.0
+2021-2022,Bundesliga,20,2022-01-23,Hertha BSC,Bayern Munich,1,4,0.0
+2021-2022,Bundesliga,21,2022-02-04,Hertha BSC,Bochum,1,1,0.5
+2021-2022,Bundesliga,21,2022-02-05,Stuttgart,Eint Frankfurt,2,3,0.0
+2021-2022,Bundesliga,21,2022-02-05,Arminia,Gladbach,1,1,0.5
+2021-2022,Bundesliga,21,2022-02-05,Köln,Freiburg,1,0,1.0
+2021-2022,Bundesliga,21,2022-02-05,Augsburg,Union Berlin,2,0,1.0
+2021-2022,Bundesliga,21,2022-02-05,Mainz 05,Hoffenheim,2,0,1.0
+2021-2022,Bundesliga,21,2022-02-05,Bayern Munich,RB Leipzig,3,2,1.0
+2021-2022,Bundesliga,21,2022-02-06,Dortmund,Leverkusen,2,5,0.0
+2021-2022,Bundesliga,21,2022-02-06,Wolfsburg,Greuther Fürth,4,1,1.0
+2021-2022,Bundesliga,22,2022-02-11,RB Leipzig,Köln,3,1,1.0
+2021-2022,Bundesliga,22,2022-02-12,Freiburg,Mainz 05,1,1,0.5
+2021-2022,Bundesliga,22,2022-02-12,Greuther Fürth,Hertha BSC,2,1,1.0
+2021-2022,Bundesliga,22,2022-02-12,Gladbach,Augsburg,3,2,1.0
+2021-2022,Bundesliga,22,2022-02-12,Eint Frankfurt,Wolfsburg,0,2,0.0
+2021-2022,Bundesliga,22,2022-02-12,Bochum,Bayern Munich,4,2,1.0
+2021-2022,Bundesliga,22,2022-02-12,Leverkusen,Stuttgart,4,2,1.0
+2021-2022,Bundesliga,22,2022-02-13,Union Berlin,Dortmund,0,3,0.0
+2021-2022,Bundesliga,22,2022-02-13,Hoffenheim,Arminia,2,0,1.0
+2021-2022,Bundesliga,23,2022-02-18,Mainz 05,Leverkusen,3,2,1.0
+2021-2022,Bundesliga,23,2022-02-19,Stuttgart,Bochum,1,1,0.5
+2021-2022,Bundesliga,23,2022-02-19,Arminia,Union Berlin,1,0,1.0
+2021-2022,Bundesliga,23,2022-02-19,Wolfsburg,Hoffenheim,1,2,0.0
+2021-2022,Bundesliga,23,2022-02-19,Augsburg,Freiburg,1,2,0.0
+2021-2022,Bundesliga,23,2022-02-19,Köln,Eint Frankfurt,1,0,1.0
+2021-2022,Bundesliga,23,2022-02-20,Bayern Munich,Greuther Fürth,4,1,1.0
+2021-2022,Bundesliga,23,2022-02-20,Dortmund,Gladbach,6,0,1.0
+2021-2022,Bundesliga,23,2022-02-20,Hertha BSC,RB Leipzig,1,6,0.0
+2021-2022,Bundesliga,24,2022-02-25,Hoffenheim,Stuttgart,2,1,1.0
+2021-2022,Bundesliga,24,2022-02-26,Freiburg,Hertha BSC,3,0,1.0
+2021-2022,Bundesliga,24,2022-02-26,Leverkusen,Arminia,3,0,1.0
+2021-2022,Bundesliga,24,2022-02-26,Greuther Fürth,Köln,1,1,0.5
+2021-2022,Bundesliga,24,2022-02-26,Gladbach,Wolfsburg,2,2,0.5
+2021-2022,Bundesliga,24,2022-02-26,Union Berlin,Mainz 05,3,1,1.0
+2021-2022,Bundesliga,24,2022-02-26,Eint Frankfurt,Bayern Munich,0,1,0.0
+2021-2022,Bundesliga,24,2022-02-27,Bochum,RB Leipzig,0,1,0.0
+2021-2022,Bundesliga,24,2022-02-27,Augsburg,Dortmund,1,1,0.5
+2021-2022,Bundesliga,25,2022-03-04,Arminia,Augsburg,0,1,0.0
+2021-2022,Bundesliga,25,2022-03-05,RB Leipzig,Freiburg,1,1,0.5
+2021-2022,Bundesliga,25,2022-03-05,Bayern Munich,Leverkusen,1,1,0.5
+2021-2022,Bundesliga,25,2022-03-05,Wolfsburg,Union Berlin,1,0,1.0
+2021-2022,Bundesliga,25,2022-03-05,Hertha BSC,Eint Frankfurt,1,4,0.0
+2021-2022,Bundesliga,25,2022-03-05,Bochum,Greuther Fürth,2,1,1.0
+2021-2022,Bundesliga,25,2022-03-05,Stuttgart,Gladbach,3,2,1.0
+2021-2022,Bundesliga,25,2022-03-06,Köln,Hoffenheim,0,1,0.0
+2021-2022,Bundesliga,26,2022-03-12,Union Berlin,Stuttgart,1,1,0.5
+2021-2022,Bundesliga,26,2022-03-12,Hoffenheim,Bayern Munich,1,1,0.5
+2021-2022,Bundesliga,26,2022-03-12,Freiburg,Wolfsburg,3,2,1.0
+2021-2022,Bundesliga,26,2022-03-12,Gladbach,Hertha BSC,2,0,1.0
+2021-2022,Bundesliga,26,2022-03-13,Leverkusen,Köln,0,1,0.0
+2021-2022,Bundesliga,26,2022-03-13,Dortmund,Arminia,1,0,1.0
+2021-2022,Bundesliga,26,2022-03-13,Eint Frankfurt,Bochum,2,1,1.0
+2021-2022,Bundesliga,26,2022-03-13,Greuther Fürth,RB Leipzig,1,6,0.0
+2021-2022,Bundesliga,25,2022-03-16,Mainz 05,Dortmund,0,1,0.0
+2021-2022,Bundesliga,27,2022-03-18,Bochum,Gladbach,0,2,0.0
+2021-2022,Bundesliga,27,2022-03-19,Stuttgart,Augsburg,3,2,1.0
+2021-2022,Bundesliga,27,2022-03-19,Hertha BSC,Hoffenheim,3,0,1.0
+2021-2022,Bundesliga,27,2022-03-19,Mainz 05,Arminia,4,0,1.0
+2021-2022,Bundesliga,27,2022-03-19,Greuther Fürth,Freiburg,0,0,0.5
+2021-2022,Bundesliga,27,2022-03-19,Bayern Munich,Union Berlin,4,0,1.0
+2021-2022,Bundesliga,27,2022-03-20,RB Leipzig,Eint Frankfurt,0,0,0.5
+2021-2022,Bundesliga,27,2022-03-20,Wolfsburg,Leverkusen,0,2,0.0
+2021-2022,Bundesliga,27,2022-03-20,Köln,Dortmund,1,1,0.5
+2021-2022,Bundesliga,28,2022-04-01,Union Berlin,Köln,1,0,1.0
+2021-2022,Bundesliga,28,2022-04-02,Arminia,Stuttgart,1,1,0.5
+2021-2022,Bundesliga,28,2022-04-02,Hoffenheim,Bochum,1,2,0.0
+2021-2022,Bundesliga,28,2022-04-02,Leverkusen,Hertha BSC,2,1,1.0
+2021-2022,Bundesliga,28,2022-04-02,Eint Frankfurt,Greuther Fürth,0,0,0.5
+2021-2022,Bundesliga,28,2022-04-02,Freiburg,Bayern Munich,1,4,0.0
+2021-2022,Bundesliga,28,2022-04-02,Dortmund,RB Leipzig,1,4,0.0
+2021-2022,Bundesliga,28,2022-04-03,Augsburg,Wolfsburg,3,0,1.0
+2021-2022,Bundesliga,28,2022-04-03,Gladbach,Mainz 05,1,1,0.5
+2021-2022,Bundesliga,26,2022-04-06,Augsburg,Mainz 05,2,1,1.0
+2021-2022,Bundesliga,29,2022-04-08,Stuttgart,Dortmund,0,2,0.0
+2021-2022,Bundesliga,29,2022-04-09,Bayern Munich,Augsburg,1,0,1.0
+2021-2022,Bundesliga,29,2022-04-09,Greuther Fürth,Gladbach,0,2,0.0
+2021-2022,Bundesliga,29,2022-04-09,Köln,Mainz 05,3,2,1.0
+2021-2022,Bundesliga,29,2022-04-09,Wolfsburg,Arminia,4,0,1.0
+2021-2022,Bundesliga,29,2022-04-09,Hertha BSC,Union Berlin,1,4,0.0
+2021-2022,Bundesliga,29,2022-04-10,Bochum,Leverkusen,0,0,0.5
+2021-2022,Bundesliga,29,2022-04-10,Eint Frankfurt,Freiburg,1,2,0.0
+2021-2022,Bundesliga,29,2022-04-10,RB Leipzig,Hoffenheim,3,0,1.0
+2021-2022,Bundesliga,30,2022-04-16,Dortmund,Wolfsburg,6,1,1.0
+2021-2022,Bundesliga,30,2022-04-16,Mainz 05,Stuttgart,0,0,0.5
+2021-2022,Bundesliga,30,2022-04-16,Freiburg,Bochum,3,0,1.0
+2021-2022,Bundesliga,30,2022-04-16,Augsburg,Hertha BSC,0,1,0.0
+2021-2022,Bundesliga,30,2022-04-16,Gladbach,Köln,1,3,0.0
+2021-2022,Bundesliga,30,2022-04-17,Arminia,Bayern Munich,0,3,0.0
+2021-2022,Bundesliga,30,2022-04-17,Union Berlin,Eint Frankfurt,2,0,1.0
+2021-2022,Bundesliga,30,2022-04-17,Hoffenheim,Greuther Fürth,0,0,0.5
+2021-2022,Bundesliga,30,2022-04-17,Leverkusen,RB Leipzig,0,1,0.0
+2021-2022,Bundesliga,31,2022-04-22,Wolfsburg,Mainz 05,5,0,1.0
+2021-2022,Bundesliga,31,2022-04-23,Eint Frankfurt,Hoffenheim,2,2,0.5
+2021-2022,Bundesliga,31,2022-04-23,Köln,Arminia,3,1,1.0
+2021-2022,Bundesliga,31,2022-04-23,Freiburg,Gladbach,3,3,0.5
+2021-2022,Bundesliga,31,2022-04-23,RB Leipzig,Union Berlin,1,2,0.0
+2021-2022,Bundesliga,31,2022-04-23,Greuther Fürth,Leverkusen,1,4,0.0
+2021-2022,Bundesliga,31,2022-04-23,Bayern Munich,Dortmund,3,1,1.0
+2021-2022,Bundesliga,31,2022-04-24,Bochum,Augsburg,0,2,0.0
+2021-2022,Bundesliga,31,2022-04-24,Hertha BSC,Stuttgart,2,0,1.0
+2021-2022,Bundesliga,32,2022-04-29,Union Berlin,Greuther Fürth,1,1,0.5
+2021-2022,Bundesliga,32,2022-04-30,Dortmund,Bochum,3,4,0.0
+2021-2022,Bundesliga,32,2022-04-30,Stuttgart,Wolfsburg,1,1,0.5
+2021-2022,Bundesliga,32,2022-04-30,Arminia,Hertha BSC,1,1,0.5
+2021-2022,Bundesliga,32,2022-04-30,Augsburg,Köln,1,4,0.0
+2021-2022,Bundesliga,32,2022-04-30,Mainz 05,Bayern Munich,3,1,1.0
+2021-2022,Bundesliga,32,2022-04-30,Hoffenheim,Freiburg,3,4,0.0
+2021-2022,Bundesliga,32,2022-05-02,Gladbach,RB Leipzig,3,1,1.0
+2021-2022,Bundesliga,32,2022-05-02,Leverkusen,Eint Frankfurt,2,0,1.0
+2021-2022,Bundesliga,33,2022-05-06,Bochum,Arminia,2,1,1.0
+2021-2022,Bundesliga,33,2022-05-07,Hoffenheim,Leverkusen,2,4,0.0
+2021-2022,Bundesliga,33,2022-05-07,Köln,Wolfsburg,0,1,0.0
+2021-2022,Bundesliga,33,2022-05-07,Greuther Fürth,Dortmund,1,3,0.0
+2021-2022,Bundesliga,33,2022-05-07,Freiburg,Union Berlin,1,4,0.0
+2021-2022,Bundesliga,33,2022-05-07,Hertha BSC,Mainz 05,1,2,0.0
+2021-2022,Bundesliga,33,2022-05-08,Eint Frankfurt,Gladbach,1,1,0.5
+2021-2022,Bundesliga,33,2022-05-08,Bayern Munich,Stuttgart,2,2,0.5
+2021-2022,Bundesliga,33,2022-05-08,RB Leipzig,Augsburg,4,0,1.0
+2021-2022,Bundesliga,34,2022-05-14,Wolfsburg,Bayern Munich,2,2,0.5
+2021-2022,Bundesliga,34,2022-05-14,Stuttgart,Köln,2,1,1.0
+2021-2022,Bundesliga,34,2022-05-14,Leverkusen,Freiburg,2,1,1.0
+2021-2022,Bundesliga,34,2022-05-14,Dortmund,Hertha BSC,2,1,1.0
+2021-2022,Bundesliga,34,2022-05-14,Mainz 05,Eint Frankfurt,2,2,0.5
+2021-2022,Bundesliga,34,2022-05-14,Gladbach,Hoffenheim,5,1,1.0
+2021-2022,Bundesliga,34,2022-05-14,Union Berlin,Bochum,3,2,1.0
+2021-2022,Bundesliga,34,2022-05-14,Augsburg,Greuther Fürth,2,1,1.0
+2021-2022,Bundesliga,34,2022-05-14,Arminia,RB Leipzig,1,1,0.5
+2021-2022,German 1/2 Relegation/Promotion Play-offs,,2022-05-19,Hertha BSC,Hamburger SV,0,1,0.0
+2021-2022,German 1/2 Relegation/Promotion Play-offs,,2022-05-23,Hamburger SV,Hertha BSC,0,2,0.0

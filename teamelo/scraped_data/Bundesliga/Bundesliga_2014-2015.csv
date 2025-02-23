@@ -1,0 +1,309 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,Bundesliga,1,2014-08-22,Bayern Munich,Wolfsburg,2,1,1.0
+2014-2015,Bundesliga,1,2014-08-23,Hoffenheim,Augsburg,2,0,1.0
+2014-2015,Bundesliga,1,2014-08-23,Hannover 96,Schalke 04,2,1,1.0
+2014-2015,Bundesliga,1,2014-08-23,Köln,Hamburger SV,0,0,0.5
+2014-2015,Bundesliga,1,2014-08-23,Eint Frankfurt,Freiburg,1,0,1.0
+2014-2015,Bundesliga,1,2014-08-23,Hertha BSC,Werder Bremen,2,2,0.5
+2014-2015,Bundesliga,1,2014-08-23,Dortmund,Leverkusen,0,2,0.0
+2014-2015,Bundesliga,1,2014-08-24,Paderborn 07,Mainz 05,2,2,0.5
+2014-2015,Bundesliga,1,2014-08-24,Gladbach,Stuttgart,1,1,0.5
+2014-2015,Bundesliga,2,2014-08-29,Augsburg,Dortmund,2,3,0.0
+2014-2015,Bundesliga,2,2014-08-30,Wolfsburg,Eint Frankfurt,2,2,0.5
+2014-2015,Bundesliga,2,2014-08-30,Hamburger SV,Paderborn 07,0,3,0.0
+2014-2015,Bundesliga,2,2014-08-30,Stuttgart,Köln,0,2,0.0
+2014-2015,Bundesliga,2,2014-08-30,Leverkusen,Hertha BSC,4,2,1.0
+2014-2015,Bundesliga,2,2014-08-30,Werder Bremen,Hoffenheim,1,1,0.5
+2014-2015,Bundesliga,2,2014-08-30,Schalke 04,Bayern Munich,1,1,0.5
+2014-2015,Bundesliga,2,2014-08-31,Mainz 05,Hannover 96,0,0,0.5
+2014-2015,Bundesliga,2,2014-08-31,Freiburg,Gladbach,0,0,0.5
+2014-2015,Bundesliga,3,2014-09-12,Leverkusen,Werder Bremen,3,3,0.5
+2014-2015,Bundesliga,3,2014-09-13,Bayern Munich,Stuttgart,2,0,1.0
+2014-2015,Bundesliga,3,2014-09-13,Hertha BSC,Mainz 05,1,3,0.0
+2014-2015,Bundesliga,3,2014-09-13,Hoffenheim,Wolfsburg,1,1,0.5
+2014-2015,Bundesliga,3,2014-09-13,Dortmund,Freiburg,3,1,1.0
+2014-2015,Bundesliga,3,2014-09-13,Paderborn 07,Köln,0,0,0.5
+2014-2015,Bundesliga,3,2014-09-13,Gladbach,Schalke 04,4,1,1.0
+2014-2015,Bundesliga,3,2014-09-14,Eint Frankfurt,Augsburg,0,1,0.0
+2014-2015,Bundesliga,3,2014-09-14,Hannover 96,Hamburger SV,2,0,1.0
+2014-2015,Bundesliga,4,2014-09-19,Freiburg,Hertha BSC,2,2,0.5
+2014-2015,Bundesliga,4,2014-09-20,Stuttgart,Hoffenheim,0,2,0.0
+2014-2015,Bundesliga,4,2014-09-20,Schalke 04,Eint Frankfurt,2,2,0.5
+2014-2015,Bundesliga,4,2014-09-20,Hamburger SV,Bayern Munich,0,0,0.5
+2014-2015,Bundesliga,4,2014-09-20,Paderborn 07,Hannover 96,2,0,1.0
+2014-2015,Bundesliga,4,2014-09-20,Augsburg,Werder Bremen,4,2,1.0
+2014-2015,Bundesliga,4,2014-09-20,Mainz 05,Dortmund,2,0,1.0
+2014-2015,Bundesliga,4,2014-09-21,Wolfsburg,Leverkusen,4,1,1.0
+2014-2015,Bundesliga,4,2014-09-21,Köln,Gladbach,0,0,0.5
+2014-2015,Bundesliga,5,2014-09-23,Eint Frankfurt,Mainz 05,2,2,0.5
+2014-2015,Bundesliga,5,2014-09-23,Bayern Munich,Paderborn 07,4,0,1.0
+2014-2015,Bundesliga,5,2014-09-23,Werder Bremen,Schalke 04,0,3,0.0
+2014-2015,Bundesliga,5,2014-09-23,Hoffenheim,Freiburg,3,3,0.5
+2014-2015,Bundesliga,5,2014-09-24,Hertha BSC,Wolfsburg,1,0,1.0
+2014-2015,Bundesliga,5,2014-09-24,Leverkusen,Augsburg,1,0,1.0
+2014-2015,Bundesliga,5,2014-09-24,Dortmund,Stuttgart,2,2,0.5
+2014-2015,Bundesliga,5,2014-09-24,Gladbach,Hamburger SV,1,0,1.0
+2014-2015,Bundesliga,5,2014-09-24,Hannover 96,Köln,1,0,1.0
+2014-2015,Bundesliga,6,2014-09-26,Mainz 05,Hoffenheim,0,0,0.5
+2014-2015,Bundesliga,6,2014-09-27,Köln,Bayern Munich,0,2,0.0
+2014-2015,Bundesliga,6,2014-09-27,Schalke 04,Dortmund,2,1,1.0
+2014-2015,Bundesliga,6,2014-09-27,Paderborn 07,Gladbach,1,2,0.0
+2014-2015,Bundesliga,6,2014-09-27,Freiburg,Leverkusen,0,0,0.5
+2014-2015,Bundesliga,6,2014-09-27,Stuttgart,Hannover 96,1,0,1.0
+2014-2015,Bundesliga,6,2014-09-27,Wolfsburg,Werder Bremen,2,1,1.0
+2014-2015,Bundesliga,6,2014-09-28,Augsburg,Hertha BSC,1,0,1.0
+2014-2015,Bundesliga,6,2014-09-28,Hamburger SV,Eint Frankfurt,1,2,0.0
+2014-2015,Bundesliga,7,2014-10-03,Hertha BSC,Stuttgart,3,2,1.0
+2014-2015,Bundesliga,7,2014-10-04,Werder Bremen,Freiburg,1,1,0.5
+2014-2015,Bundesliga,7,2014-10-04,Hoffenheim,Schalke 04,2,1,1.0
+2014-2015,Bundesliga,7,2014-10-04,Bayern Munich,Hannover 96,4,0,1.0
+2014-2015,Bundesliga,7,2014-10-04,Leverkusen,Paderborn 07,2,2,0.5
+2014-2015,Bundesliga,7,2014-10-04,Dortmund,Hamburger SV,0,1,0.0
+2014-2015,Bundesliga,7,2014-10-04,Eint Frankfurt,Köln,3,2,1.0
+2014-2015,Bundesliga,7,2014-10-05,Wolfsburg,Augsburg,1,0,1.0
+2014-2015,Bundesliga,7,2014-10-05,Gladbach,Mainz 05,1,1,0.5
+2014-2015,Bundesliga,8,2014-10-18,Köln,Dortmund,2,1,1.0
+2014-2015,Bundesliga,8,2014-10-18,Bayern Munich,Werder Bremen,6,0,1.0
+2014-2015,Bundesliga,8,2014-10-18,Hannover 96,Gladbach,0,3,0.0
+2014-2015,Bundesliga,8,2014-10-18,Mainz 05,Augsburg,2,1,1.0
+2014-2015,Bundesliga,8,2014-10-18,Stuttgart,Leverkusen,3,3,0.5
+2014-2015,Bundesliga,8,2014-10-18,Freiburg,Wolfsburg,1,2,0.0
+2014-2015,Bundesliga,8,2014-10-18,Schalke 04,Hertha BSC,2,0,1.0
+2014-2015,Bundesliga,8,2014-10-19,Hamburger SV,Hoffenheim,1,1,0.5
+2014-2015,Bundesliga,8,2014-10-19,Paderborn 07,Eint Frankfurt,3,1,1.0
+2014-2015,Bundesliga,9,2014-10-24,Werder Bremen,Köln,0,1,0.0
+2014-2015,Bundesliga,9,2014-10-25,Hoffenheim,Paderborn 07,1,0,1.0
+2014-2015,Bundesliga,9,2014-10-25,Dortmund,Hannover 96,0,1,0.0
+2014-2015,Bundesliga,9,2014-10-25,Hertha BSC,Hamburger SV,3,0,1.0
+2014-2015,Bundesliga,9,2014-10-25,Augsburg,Freiburg,2,0,1.0
+2014-2015,Bundesliga,9,2014-10-25,Eint Frankfurt,Stuttgart,4,5,0.0
+2014-2015,Bundesliga,9,2014-10-25,Leverkusen,Schalke 04,1,0,1.0
+2014-2015,Bundesliga,9,2014-10-26,Wolfsburg,Mainz 05,3,0,1.0
+2014-2015,Bundesliga,9,2014-10-26,Gladbach,Bayern Munich,0,0,0.5
+2014-2015,Bundesliga,10,2014-10-31,Schalke 04,Augsburg,1,0,1.0
+2014-2015,Bundesliga,10,2014-11-01,Stuttgart,Wolfsburg,0,4,0.0
+2014-2015,Bundesliga,10,2014-11-01,Mainz 05,Werder Bremen,1,2,0.0
+2014-2015,Bundesliga,10,2014-11-01,Hannover 96,Eint Frankfurt,1,0,1.0
+2014-2015,Bundesliga,10,2014-11-01,Hamburger SV,Leverkusen,1,0,1.0
+2014-2015,Bundesliga,10,2014-11-01,Bayern Munich,Dortmund,2,1,1.0
+2014-2015,Bundesliga,10,2014-11-02,Gladbach,Hoffenheim,3,1,1.0
+2014-2015,Bundesliga,10,2014-11-02,Köln,Freiburg,0,1,0.0
+2014-2015,Bundesliga,10,2014-11-02,Paderborn 07,Hertha BSC,3,1,1.0
+2014-2015,Bundesliga,11,2014-11-07,Hertha BSC,Hannover 96,0,2,0.0
+2014-2015,Bundesliga,11,2014-11-08,Freiburg,Schalke 04,2,0,1.0
+2014-2015,Bundesliga,11,2014-11-08,Leverkusen,Mainz 05,0,0,0.5
+2014-2015,Bundesliga,11,2014-11-08,Hoffenheim,Köln,3,4,0.0
+2014-2015,Bundesliga,11,2014-11-08,Augsburg,Paderborn 07,3,0,1.0
+2014-2015,Bundesliga,11,2014-11-08,Eint Frankfurt,Bayern Munich,0,4,0.0
+2014-2015,Bundesliga,11,2014-11-08,Werder Bremen,Stuttgart,2,0,1.0
+2014-2015,Bundesliga,11,2014-11-09,Wolfsburg,Hamburger SV,2,0,1.0
+2014-2015,Bundesliga,11,2014-11-09,Dortmund,Gladbach,1,0,1.0
+2014-2015,Bundesliga,12,2014-11-22,Hannover 96,Leverkusen,1,3,0.0
+2014-2015,Bundesliga,12,2014-11-22,Schalke 04,Wolfsburg,3,2,1.0
+2014-2015,Bundesliga,12,2014-11-22,Mainz 05,Freiburg,2,2,0.5
+2014-2015,Bundesliga,12,2014-11-22,Gladbach,Eint Frankfurt,1,3,0.0
+2014-2015,Bundesliga,12,2014-11-22,Paderborn 07,Dortmund,2,2,0.5
+2014-2015,Bundesliga,12,2014-11-22,Bayern Munich,Hoffenheim,4,0,1.0
+2014-2015,Bundesliga,12,2014-11-22,Köln,Hertha BSC,1,2,0.0
+2014-2015,Bundesliga,12,2014-11-23,Hamburger SV,Werder Bremen,2,0,1.0
+2014-2015,Bundesliga,12,2014-11-23,Stuttgart,Augsburg,0,1,0.0
+2014-2015,Bundesliga,13,2014-11-28,Freiburg,Stuttgart,1,4,0.0
+2014-2015,Bundesliga,13,2014-11-29,Schalke 04,Mainz 05,4,1,1.0
+2014-2015,Bundesliga,13,2014-11-29,Leverkusen,Köln,5,1,1.0
+2014-2015,Bundesliga,13,2014-11-29,Augsburg,Hamburger SV,3,1,1.0
+2014-2015,Bundesliga,13,2014-11-29,Hertha BSC,Bayern Munich,0,1,0.0
+2014-2015,Bundesliga,13,2014-11-29,Werder Bremen,Paderborn 07,4,0,1.0
+2014-2015,Bundesliga,13,2014-11-29,Hoffenheim,Hannover 96,4,3,1.0
+2014-2015,Bundesliga,13,2014-11-30,Wolfsburg,Gladbach,1,0,1.0
+2014-2015,Bundesliga,13,2014-11-30,Eint Frankfurt,Dortmund,2,0,1.0
+2014-2015,Bundesliga,14,2014-12-05,Dortmund,Hoffenheim,1,0,1.0
+2014-2015,Bundesliga,14,2014-12-06,Köln,Augsburg,1,2,0.0
+2014-2015,Bundesliga,14,2014-12-06,Hannover 96,Wolfsburg,1,3,0.0
+2014-2015,Bundesliga,14,2014-12-06,Stuttgart,Schalke 04,0,4,0.0
+2014-2015,Bundesliga,14,2014-12-06,Paderborn 07,Freiburg,1,1,0.5
+2014-2015,Bundesliga,14,2014-12-06,Gladbach,Hertha BSC,3,2,1.0
+2014-2015,Bundesliga,14,2014-12-06,Bayern Munich,Leverkusen,1,0,1.0
+2014-2015,Bundesliga,14,2014-12-07,Hamburger SV,Mainz 05,2,1,1.0
+2014-2015,Bundesliga,14,2014-12-07,Eint Frankfurt,Werder Bremen,5,2,1.0
+2014-2015,Bundesliga,15,2014-12-12,Hoffenheim,Eint Frankfurt,3,2,1.0
+2014-2015,Bundesliga,15,2014-12-13,Werder Bremen,Hannover 96,3,3,0.5
+2014-2015,Bundesliga,15,2014-12-13,Freiburg,Hamburger SV,0,0,0.5
+2014-2015,Bundesliga,15,2014-12-13,Schalke 04,Köln,1,2,0.0
+2014-2015,Bundesliga,15,2014-12-13,Hertha BSC,Dortmund,1,0,1.0
+2014-2015,Bundesliga,15,2014-12-13,Augsburg,Bayern Munich,0,4,0.0
+2014-2015,Bundesliga,15,2014-12-13,Mainz 05,Stuttgart,1,1,0.5
+2014-2015,Bundesliga,15,2014-12-14,Leverkusen,Gladbach,1,1,0.5
+2014-2015,Bundesliga,15,2014-12-14,Wolfsburg,Paderborn 07,1,1,0.5
+2014-2015,Bundesliga,16,2014-12-16,Bayern Munich,Freiburg,2,0,1.0
+2014-2015,Bundesliga,16,2014-12-16,Köln,Mainz 05,0,0,0.5
+2014-2015,Bundesliga,16,2014-12-16,Hannover 96,Augsburg,2,0,1.0
+2014-2015,Bundesliga,16,2014-12-16,Hamburger SV,Stuttgart,0,1,0.0
+2014-2015,Bundesliga,16,2014-12-17,Hoffenheim,Leverkusen,0,1,0.0
+2014-2015,Bundesliga,16,2014-12-17,Gladbach,Werder Bremen,4,1,1.0
+2014-2015,Bundesliga,16,2014-12-17,Eint Frankfurt,Hertha BSC,4,4,0.5
+2014-2015,Bundesliga,16,2014-12-17,Paderborn 07,Schalke 04,1,2,0.0
+2014-2015,Bundesliga,16,2014-12-17,Dortmund,Wolfsburg,2,2,0.5
+2014-2015,Bundesliga,17,2014-12-19,Mainz 05,Bayern Munich,1,2,0.0
+2014-2015,Bundesliga,17,2014-12-20,Werder Bremen,Dortmund,2,1,1.0
+2014-2015,Bundesliga,17,2014-12-20,Leverkusen,Eint Frankfurt,1,1,0.5
+2014-2015,Bundesliga,17,2014-12-20,Augsburg,Gladbach,2,1,1.0
+2014-2015,Bundesliga,17,2014-12-20,Schalke 04,Hamburger SV,0,0,0.5
+2014-2015,Bundesliga,17,2014-12-20,Stuttgart,Paderborn 07,0,0,0.5
+2014-2015,Bundesliga,17,2014-12-20,Wolfsburg,Köln,2,1,1.0
+2014-2015,Bundesliga,17,2014-12-21,Hertha BSC,Hoffenheim,0,5,0.0
+2014-2015,Bundesliga,17,2014-12-21,Freiburg,Hannover 96,2,2,0.5
+2014-2015,Bundesliga,18,2015-01-30,Wolfsburg,Bayern Munich,4,1,1.0
+2014-2015,Bundesliga,18,2015-01-31,Freiburg,Eint Frankfurt,4,1,1.0
+2014-2015,Bundesliga,18,2015-01-31,Mainz 05,Paderborn 07,5,0,1.0
+2014-2015,Bundesliga,18,2015-01-31,Schalke 04,Hannover 96,1,0,1.0
+2014-2015,Bundesliga,18,2015-01-31,Stuttgart,Gladbach,0,1,0.0
+2014-2015,Bundesliga,18,2015-01-31,Hamburger SV,Köln,0,2,0.0
+2014-2015,Bundesliga,18,2015-01-31,Leverkusen,Dortmund,0,0,0.5
+2014-2015,Bundesliga,18,2015-02-01,Werder Bremen,Hertha BSC,2,0,1.0
+2014-2015,Bundesliga,18,2015-02-01,Augsburg,Hoffenheim,3,1,1.0
+2014-2015,Bundesliga,19,2015-02-03,Bayern Munich,Schalke 04,1,1,0.5
+2014-2015,Bundesliga,19,2015-02-03,Eint Frankfurt,Wolfsburg,1,1,0.5
+2014-2015,Bundesliga,19,2015-02-03,Hannover 96,Mainz 05,1,1,0.5
+2014-2015,Bundesliga,19,2015-02-03,Gladbach,Freiburg,1,0,1.0
+2014-2015,Bundesliga,19,2015-02-04,Dortmund,Augsburg,0,1,0.0
+2014-2015,Bundesliga,19,2015-02-04,Hertha BSC,Leverkusen,0,1,0.0
+2014-2015,Bundesliga,19,2015-02-04,Paderborn 07,Hamburger SV,0,3,0.0
+2014-2015,Bundesliga,19,2015-02-04,Köln,Stuttgart,0,0,0.5
+2014-2015,Bundesliga,19,2015-02-04,Hoffenheim,Werder Bremen,1,2,0.0
+2014-2015,Bundesliga,20,2015-02-06,Schalke 04,Gladbach,1,0,1.0
+2014-2015,Bundesliga,20,2015-02-07,Freiburg,Dortmund,0,3,0.0
+2014-2015,Bundesliga,20,2015-02-07,Köln,Paderborn 07,0,0,0.5
+2014-2015,Bundesliga,20,2015-02-07,Mainz 05,Hertha BSC,0,2,0.0
+2014-2015,Bundesliga,20,2015-02-07,Wolfsburg,Hoffenheim,3,0,1.0
+2014-2015,Bundesliga,20,2015-02-07,Stuttgart,Bayern Munich,0,2,0.0
+2014-2015,Bundesliga,20,2015-02-07,Hamburger SV,Hannover 96,2,1,1.0
+2014-2015,Bundesliga,20,2015-02-08,Werder Bremen,Leverkusen,2,1,1.0
+2014-2015,Bundesliga,20,2015-02-08,Augsburg,Eint Frankfurt,2,2,0.5
+2014-2015,Bundesliga,21,2015-02-13,Dortmund,Mainz 05,4,2,1.0
+2014-2015,Bundesliga,21,2015-02-14,Leverkusen,Wolfsburg,4,5,0.0
+2014-2015,Bundesliga,21,2015-02-14,Werder Bremen,Augsburg,3,2,1.0
+2014-2015,Bundesliga,21,2015-02-14,Bayern Munich,Hamburger SV,8,0,1.0
+2014-2015,Bundesliga,21,2015-02-14,Gladbach,Köln,1,0,1.0
+2014-2015,Bundesliga,21,2015-02-14,Hoffenheim,Stuttgart,2,1,1.0
+2014-2015,Bundesliga,21,2015-02-14,Eint Frankfurt,Schalke 04,1,0,1.0
+2014-2015,Bundesliga,21,2015-02-15,Hertha BSC,Freiburg,0,2,0.0
+2014-2015,Bundesliga,21,2015-02-15,Hannover 96,Paderborn 07,1,2,0.0
+2014-2015,Bundesliga,22,2015-02-20,Stuttgart,Dortmund,2,3,0.0
+2014-2015,Bundesliga,22,2015-02-21,Paderborn 07,Bayern Munich,0,6,0.0
+2014-2015,Bundesliga,22,2015-02-21,Mainz 05,Eint Frankfurt,3,1,1.0
+2014-2015,Bundesliga,22,2015-02-21,Augsburg,Leverkusen,2,2,0.5
+2014-2015,Bundesliga,22,2015-02-21,Freiburg,Hoffenheim,1,1,0.5
+2014-2015,Bundesliga,22,2015-02-21,Schalke 04,Werder Bremen,1,1,0.5
+2014-2015,Bundesliga,22,2015-02-21,Köln,Hannover 96,1,1,0.5
+2014-2015,Bundesliga,22,2015-02-22,Hamburger SV,Gladbach,1,1,0.5
+2014-2015,Bundesliga,22,2015-02-22,Wolfsburg,Hertha BSC,2,1,1.0
+2014-2015,Bundesliga,23,2015-02-27,Bayern Munich,Köln,4,1,1.0
+2014-2015,Bundesliga,23,2015-02-28,Hertha BSC,Augsburg,1,0,1.0
+2014-2015,Bundesliga,23,2015-02-28,Hoffenheim,Mainz 05,2,0,1.0
+2014-2015,Bundesliga,23,2015-02-28,Leverkusen,Freiburg,1,0,1.0
+2014-2015,Bundesliga,23,2015-02-28,Hannover 96,Stuttgart,1,1,0.5
+2014-2015,Bundesliga,23,2015-02-28,Dortmund,Schalke 04,3,0,1.0
+2014-2015,Bundesliga,23,2015-02-28,Eint Frankfurt,Hamburger SV,2,1,1.0
+2014-2015,Bundesliga,23,2015-03-01,Gladbach,Paderborn 07,2,0,1.0
+2014-2015,Bundesliga,23,2015-03-01,Werder Bremen,Wolfsburg,3,5,0.0
+2014-2015,Bundesliga,24,2015-03-06,Stuttgart,Hertha BSC,0,0,0.5
+2014-2015,Bundesliga,24,2015-03-07,Hannover 96,Bayern Munich,1,3,0.0
+2014-2015,Bundesliga,24,2015-03-07,Freiburg,Werder Bremen,0,1,0.0
+2014-2015,Bundesliga,24,2015-03-07,Schalke 04,Hoffenheim,3,1,1.0
+2014-2015,Bundesliga,24,2015-03-07,Hamburger SV,Dortmund,0,0,0.5
+2014-2015,Bundesliga,24,2015-03-07,Augsburg,Wolfsburg,1,0,1.0
+2014-2015,Bundesliga,24,2015-03-07,Mainz 05,Gladbach,2,2,0.5
+2014-2015,Bundesliga,24,2015-03-08,Köln,Eint Frankfurt,4,2,1.0
+2014-2015,Bundesliga,24,2015-03-08,Paderborn 07,Leverkusen,0,3,0.0
+2014-2015,Bundesliga,25,2015-03-13,Leverkusen,Stuttgart,4,0,1.0
+2014-2015,Bundesliga,25,2015-03-14,Hertha BSC,Schalke 04,2,2,0.5
+2014-2015,Bundesliga,25,2015-03-14,Eint Frankfurt,Paderborn 07,4,0,1.0
+2014-2015,Bundesliga,25,2015-03-14,Werder Bremen,Bayern Munich,0,4,0.0
+2014-2015,Bundesliga,25,2015-03-14,Hoffenheim,Hamburger SV,3,0,1.0
+2014-2015,Bundesliga,25,2015-03-14,Augsburg,Mainz 05,0,2,0.0
+2014-2015,Bundesliga,25,2015-03-14,Dortmund,Köln,0,0,0.5
+2014-2015,Bundesliga,25,2015-03-15,Wolfsburg,Freiburg,3,0,1.0
+2014-2015,Bundesliga,25,2015-03-15,Gladbach,Hannover 96,2,0,1.0
+2014-2015,Bundesliga,26,2015-03-20,Hamburger SV,Hertha BSC,0,1,0.0
+2014-2015,Bundesliga,26,2015-03-21,Köln,Werder Bremen,1,1,0.5
+2014-2015,Bundesliga,26,2015-03-21,Paderborn 07,Hoffenheim,0,0,0.5
+2014-2015,Bundesliga,26,2015-03-21,Hannover 96,Dortmund,2,3,0.0
+2014-2015,Bundesliga,26,2015-03-21,Freiburg,Augsburg,2,0,1.0
+2014-2015,Bundesliga,26,2015-03-21,Stuttgart,Eint Frankfurt,3,1,1.0
+2014-2015,Bundesliga,26,2015-03-21,Schalke 04,Leverkusen,0,1,0.0
+2014-2015,Bundesliga,26,2015-03-22,Mainz 05,Wolfsburg,1,1,0.5
+2014-2015,Bundesliga,26,2015-03-22,Bayern Munich,Gladbach,0,2,0.0
+2014-2015,Bundesliga,27,2015-04-04,Hoffenheim,Gladbach,1,4,0.0
+2014-2015,Bundesliga,27,2015-04-04,Werder Bremen,Mainz 05,0,0,0.5
+2014-2015,Bundesliga,27,2015-04-04,Freiburg,Köln,1,0,1.0
+2014-2015,Bundesliga,27,2015-04-04,Eint Frankfurt,Hannover 96,2,2,0.5
+2014-2015,Bundesliga,27,2015-04-04,Leverkusen,Hamburger SV,4,0,1.0
+2014-2015,Bundesliga,27,2015-04-04,Wolfsburg,Stuttgart,3,1,1.0
+2014-2015,Bundesliga,27,2015-04-04,Dortmund,Bayern Munich,0,1,0.0
+2014-2015,Bundesliga,27,2015-04-05,Augsburg,Schalke 04,0,0,0.5
+2014-2015,Bundesliga,27,2015-04-05,Hertha BSC,Paderborn 07,2,0,1.0
+2014-2015,Bundesliga,28,2015-04-10,Hannover 96,Hertha BSC,1,1,0.5
+2014-2015,Bundesliga,28,2015-04-11,Schalke 04,Freiburg,0,0,0.5
+2014-2015,Bundesliga,28,2015-04-11,Gladbach,Dortmund,3,1,1.0
+2014-2015,Bundesliga,28,2015-04-11,Bayern Munich,Eint Frankfurt,3,0,1.0
+2014-2015,Bundesliga,28,2015-04-11,Paderborn 07,Augsburg,2,1,1.0
+2014-2015,Bundesliga,28,2015-04-11,Mainz 05,Leverkusen,2,3,0.0
+2014-2015,Bundesliga,28,2015-04-11,Hamburger SV,Wolfsburg,0,2,0.0
+2014-2015,Bundesliga,28,2015-04-12,Köln,Hoffenheim,3,2,1.0
+2014-2015,Bundesliga,28,2015-04-12,Stuttgart,Werder Bremen,3,2,1.0
+2014-2015,Bundesliga,29,2015-04-17,Eint Frankfurt,Gladbach,0,0,0.5
+2014-2015,Bundesliga,29,2015-04-18,Leverkusen,Hannover 96,4,0,1.0
+2014-2015,Bundesliga,29,2015-04-18,Hertha BSC,Köln,0,0,0.5
+2014-2015,Bundesliga,29,2015-04-18,Dortmund,Paderborn 07,3,0,1.0
+2014-2015,Bundesliga,29,2015-04-18,Hoffenheim,Bayern Munich,0,2,0.0
+2014-2015,Bundesliga,29,2015-04-18,Freiburg,Mainz 05,2,3,0.0
+2014-2015,Bundesliga,29,2015-04-18,Augsburg,Stuttgart,2,1,1.0
+2014-2015,Bundesliga,29,2015-04-19,Werder Bremen,Hamburger SV,1,0,1.0
+2014-2015,Bundesliga,29,2015-04-19,Wolfsburg,Schalke 04,1,1,0.5
+2014-2015,Bundesliga,30,2015-04-24,Mainz 05,Schalke 04,2,0,1.0
+2014-2015,Bundesliga,30,2015-04-25,Köln,Leverkusen,1,1,0.5
+2014-2015,Bundesliga,30,2015-04-25,Hannover 96,Hoffenheim,1,2,0.0
+2014-2015,Bundesliga,30,2015-04-25,Hamburger SV,Augsburg,3,2,1.0
+2014-2015,Bundesliga,30,2015-04-25,Dortmund,Eint Frankfurt,2,0,1.0
+2014-2015,Bundesliga,30,2015-04-25,Stuttgart,Freiburg,2,2,0.5
+2014-2015,Bundesliga,30,2015-04-25,Bayern Munich,Hertha BSC,1,0,1.0
+2014-2015,Bundesliga,30,2015-04-26,Paderborn 07,Werder Bremen,2,2,0.5
+2014-2015,Bundesliga,30,2015-04-26,Gladbach,Wolfsburg,1,0,1.0
+2014-2015,Bundesliga,31,2015-05-02,Augsburg,Köln,0,0,0.5
+2014-2015,Bundesliga,31,2015-05-02,Wolfsburg,Hannover 96,2,2,0.5
+2014-2015,Bundesliga,31,2015-05-02,Freiburg,Paderborn 07,1,2,0.0
+2014-2015,Bundesliga,31,2015-05-02,Werder Bremen,Eint Frankfurt,1,0,1.0
+2014-2015,Bundesliga,31,2015-05-02,Schalke 04,Stuttgart,3,2,1.0
+2014-2015,Bundesliga,31,2015-05-02,Hoffenheim,Dortmund,1,1,0.5
+2014-2015,Bundesliga,31,2015-05-02,Leverkusen,Bayern Munich,2,0,1.0
+2014-2015,Bundesliga,31,2015-05-03,Mainz 05,Hamburger SV,1,2,0.0
+2014-2015,Bundesliga,31,2015-05-03,Hertha BSC,Gladbach,1,2,0.0
+2014-2015,Bundesliga,32,2015-05-08,Hamburger SV,Freiburg,1,1,0.5
+2014-2015,Bundesliga,32,2015-05-09,Dortmund,Hertha BSC,2,0,1.0
+2014-2015,Bundesliga,32,2015-05-09,Bayern Munich,Augsburg,0,1,0.0
+2014-2015,Bundesliga,32,2015-05-09,Gladbach,Leverkusen,3,0,1.0
+2014-2015,Bundesliga,32,2015-05-09,Hannover 96,Werder Bremen,1,1,0.5
+2014-2015,Bundesliga,32,2015-05-09,Eint Frankfurt,Hoffenheim,3,1,1.0
+2014-2015,Bundesliga,32,2015-05-09,Stuttgart,Mainz 05,2,0,1.0
+2014-2015,Bundesliga,32,2015-05-10,Paderborn 07,Wolfsburg,1,3,0.0
+2014-2015,Bundesliga,32,2015-05-10,Köln,Schalke 04,2,0,1.0
+2014-2015,Bundesliga,33,2015-05-16,Augsburg,Hannover 96,1,2,0.0
+2014-2015,Bundesliga,33,2015-05-16,Schalke 04,Paderborn 07,1,0,1.0
+2014-2015,Bundesliga,33,2015-05-16,Werder Bremen,Gladbach,0,2,0.0
+2014-2015,Bundesliga,33,2015-05-16,Freiburg,Bayern Munich,2,1,1.0
+2014-2015,Bundesliga,33,2015-05-16,Mainz 05,Köln,2,0,1.0
+2014-2015,Bundesliga,33,2015-05-16,Hertha BSC,Eint Frankfurt,0,0,0.5
+2014-2015,Bundesliga,33,2015-05-16,Wolfsburg,Dortmund,2,1,1.0
+2014-2015,Bundesliga,33,2015-05-16,Stuttgart,Hamburger SV,2,1,1.0
+2014-2015,Bundesliga,33,2015-05-16,Leverkusen,Hoffenheim,2,0,1.0
+2014-2015,Bundesliga,34,2015-05-23,Bayern Munich,Mainz 05,2,0,1.0
+2014-2015,Bundesliga,34,2015-05-23,Hannover 96,Freiburg,2,1,1.0
+2014-2015,Bundesliga,34,2015-05-23,Gladbach,Augsburg,1,3,0.0
+2014-2015,Bundesliga,34,2015-05-23,Hamburger SV,Schalke 04,2,0,1.0
+2014-2015,Bundesliga,34,2015-05-23,Köln,Wolfsburg,2,2,0.5
+2014-2015,Bundesliga,34,2015-05-23,Eint Frankfurt,Leverkusen,2,1,1.0
+2014-2015,Bundesliga,34,2015-05-23,Paderborn 07,Stuttgart,1,2,0.0
+2014-2015,Bundesliga,34,2015-05-23,Dortmund,Werder Bremen,3,2,1.0
+2014-2015,Bundesliga,34,2015-05-23,Hoffenheim,Hertha BSC,2,1,1.0
+2014-2015,German 1/2 Relegation/Promotion Playoffs,,2015-05-28,Hamburger SV,Karlsruher,1,1,0.5
+2014-2015,German 1/2 Relegation/Promotion Playoffs,,2015-06-01,Karlsruher,Hamburger SV,1,2,0.0

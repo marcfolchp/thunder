@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2016-2017,1,2016-07-30,Zenit,Loko Moscow,0,0,0.5
+2016-2017,1,2016-07-30,Anzhi,CSKA Moscow,0,0,0.5
+2016-2017,1,2016-07-30,Rostov,Orenburg,1,0,1.0
+2016-2017,1,2016-07-31,Ural,Ufa,2,0,1.0
+2016-2017,1,2016-07-31,Spartak Moscow,Arsenal Tula,4,0,1.0
+2016-2017,1,2016-07-31,Terek Grozny,Samara,1,0,1.0
+2016-2017,1,2016-08-01,Krasnodar,Tom Tomsk,3,0,1.0
+2016-2017,1,2016-08-01,Rubin Kazan,Amkar Perm,0,0,0.5
+2016-2017,2,2016-08-06,Ufa,Zenit,0,0,0.5
+2016-2017,2,2016-08-06,Arsenal Tula,Rubin Kazan,1,0,1.0
+2016-2017,2,2016-08-07,Orenburg,CSKA Moscow,0,1,0.0
+2016-2017,2,2016-08-07,Amkar Perm,Anzhi,2,0,1.0
+2016-2017,2,2016-08-07,Loko Moscow,Tom Tomsk,2,2,0.5
+2016-2017,2,2016-08-07,Rostov,Ural,0,0,0.5
+2016-2017,2,2016-08-08,Krasnodar,Terek Grozny,4,0,1.0
+2016-2017,2,2016-08-08,Spartak Moscow,Samara,1,0,1.0
+2016-2017,3,2016-08-12,Zenit,Rostov,3,2,1.0
+2016-2017,3,2016-08-13,Ural,CSKA Moscow,0,1,0.0
+2016-2017,3,2016-08-13,Samara,Krasnodar,1,1,0.5
+2016-2017,3,2016-08-13,Rubin Kazan,Spartak Moscow,1,1,0.5
+2016-2017,3,2016-08-14,Tom Tomsk,Ufa,1,0,1.0
+2016-2017,3,2016-08-14,Anzhi,Arsenal Tula,1,0,1.0
+2016-2017,3,2016-08-14,Terek Grozny,Loko Moscow,1,1,0.5
+2016-2017,3,2016-08-15,Orenburg,Amkar Perm,0,0,0.5
+2016-2017,4,2016-08-19,Rubin Kazan,Anzhi,1,2,0.0
+2016-2017,4,2016-08-20,Ufa,Terek Grozny,1,3,0.0
+2016-2017,4,2016-08-20,Zenit,CSKA Moscow,1,1,0.5
+2016-2017,4,2016-08-20,Rostov,Tom Tomsk,3,0,1.0
+2016-2017,4,2016-08-21,Amkar Perm,Ural,1,0,1.0
+2016-2017,4,2016-08-21,Spartak Moscow,Krasnodar,2,0,1.0
+2016-2017,4,2016-08-21,Loko Moscow,Samara,0,0,0.5
+2016-2017,4,2016-08-22,Arsenal Tula,Orenburg,0,0,0.5
+2016-2017,5,2016-08-26,Samara,Ufa,0,1,0.0
+2016-2017,5,2016-08-27,Orenburg,Rubin Kazan,1,1,0.5
+2016-2017,5,2016-08-27,Zenit,Amkar Perm,3,0,1.0
+2016-2017,5,2016-08-27,Tom Tomsk,CSKA Moscow,0,1,0.0
+2016-2017,5,2016-08-28,Ural,Arsenal Tula,1,1,0.5
+2016-2017,5,2016-08-28,Terek Grozny,Rostov,2,1,1.0
+2016-2017,5,2016-08-28,Krasnodar,Loko Moscow,1,2,0.0
+2016-2017,5,2016-08-28,Anzhi,Spartak Moscow,0,2,0.0
+2016-2017,6,2016-09-09,Rostov,Samara,2,1,1.0
+2016-2017,6,2016-09-10,Amkar Perm,Tom Tomsk,1,0,1.0
+2016-2017,6,2016-09-10,Orenburg,Anzhi,0,0,0.5
+2016-2017,6,2016-09-10,CSKA Moscow,Terek Grozny,3,0,1.0
+2016-2017,6,2016-09-11,Ufa,Krasnodar,0,0,0.5
+2016-2017,6,2016-09-11,Spartak Moscow,Loko Moscow,1,0,1.0
+2016-2017,6,2016-09-11,Arsenal Tula,Zenit,0,5,0.0
+2016-2017,6,2016-09-12,Rubin Kazan,Ural,3,1,1.0
+2016-2017,7,2016-09-16,Orenburg,Spartak Moscow,1,3,0.0
+2016-2017,7,2016-09-17,Tom Tomsk,Arsenal Tula,1,0,1.0
+2016-2017,7,2016-09-17,Ural,Anzhi,0,1,0.0
+2016-2017,7,2016-09-17,Loko Moscow,Ufa,0,1,0.0
+2016-2017,7,2016-09-17,Terek Grozny,Amkar Perm,1,3,0.0
+2016-2017,7,2016-09-18,Samara,CSKA Moscow,1,2,0.0
+2016-2017,7,2016-09-18,Krasnodar,Rostov,2,1,1.0
+2016-2017,7,2016-09-19,Zenit,Rubin Kazan,4,1,1.0
+2016-2017,8,2016-09-24,CSKA Moscow,Krasnodar,1,1,0.5
+2016-2017,8,2016-09-24,Rostov,Loko Moscow,1,0,1.0
+2016-2017,8,2016-09-25,Orenburg,Ural,0,1,0.0
+2016-2017,8,2016-09-25,Arsenal Tula,Terek Grozny,0,0,0.5
+2016-2017,8,2016-09-25,Spartak Moscow,Ufa,0,1,0.0
+2016-2017,8,2016-09-25,Anzhi,Zenit,2,2,0.5
+2016-2017,8,2016-09-26,Amkar Perm,Samara,0,0,0.5
+2016-2017,8,2016-09-26,Rubin Kazan,Tom Tomsk,2,1,1.0
+2016-2017,9,2016-10-01,Samara,Anzhi,2,1,1.0
+2016-2017,9,2016-10-01,Tom Tomsk,Ural,1,1,0.5
+2016-2017,9,2016-10-01,Loko Moscow,Arsenal Tula,1,1,0.5
+2016-2017,9,2016-10-01,Terek Grozny,Orenburg,2,1,1.0
+2016-2017,9,2016-10-02,Ufa,Amkar Perm,1,1,0.5
+2016-2017,9,2016-10-02,Zenit,Spartak Moscow,4,2,1.0
+2016-2017,9,2016-10-02,Krasnodar,Rubin Kazan,1,0,1.0
+2016-2017,9,2016-10-02,Rostov,CSKA Moscow,2,0,1.0
+2016-2017,10,2016-10-14,CSKA Moscow,Ufa,1,0,1.0
+2016-2017,10,2016-10-15,Amkar Perm,Loko Moscow,0,0,0.5
+2016-2017,10,2016-10-15,Rubin Kazan,Samara,3,0,1.0
+2016-2017,10,2016-10-15,Spartak Moscow,Rostov,1,0,1.0
+2016-2017,10,2016-10-16,Ural,Zenit,0,2,0.0
+2016-2017,10,2016-10-16,Orenburg,Tom Tomsk,3,1,1.0
+2016-2017,10,2016-10-16,Arsenal Tula,Krasnodar,0,0,0.5
+2016-2017,10,2016-10-17,Anzhi,Terek Grozny,0,0,0.5
+2016-2017,11,2016-10-21,Samara,Arsenal Tula,1,1,0.5
+2016-2017,11,2016-10-22,Tom Tomsk,Anzhi,0,3,0.0
+2016-2017,11,2016-10-22,Ufa,Rostov,0,0,0.5
+2016-2017,11,2016-10-22,Ural,Spartak Moscow,0,1,0.0
+2016-2017,11,2016-10-22,Terek Grozny,Rubin Kazan,3,1,1.0
+2016-2017,11,2016-10-23,Loko Moscow,CSKA Moscow,1,0,1.0
+2016-2017,11,2016-10-23,Krasnodar,Amkar Perm,1,0,1.0
+2016-2017,11,2016-10-24,Zenit,Orenburg,1,0,1.0
+2016-2017,12,2016-10-29,Amkar Perm,Rostov,1,0,1.0
+2016-2017,12,2016-10-29,Spartak Moscow,CSKA Moscow,3,1,1.0
+2016-2017,12,2016-10-30,Ural,Terek Grozny,1,4,0.0
+2016-2017,12,2016-10-30,Arsenal Tula,Ufa,0,2,0.0
+2016-2017,12,2016-10-30,Zenit,Tom Tomsk,1,0,1.0
+2016-2017,12,2016-10-30,Anzhi,Krasnodar,0,0,0.5
+2016-2017,12,2016-10-31,Orenburg,Samara,1,0,1.0
+2016-2017,12,2016-10-31,Rubin Kazan,Loko Moscow,2,0,1.0
+2016-2017,13,2016-11-05,Tom Tomsk,Spartak Moscow,0,1,0.0
+2016-2017,13,2016-11-05,Ufa,Rubin Kazan,2,3,0.0
+2016-2017,13,2016-11-05,Samara,Ural,2,2,0.5
+2016-2017,13,2016-11-05,Loko Moscow,Anzhi,4,0,1.0
+2016-2017,13,2016-11-06,Terek Grozny,Zenit,2,1,1.0
+2016-2017,13,2016-11-06,Rostov,Arsenal Tula,4,1,1.0
+2016-2017,13,2016-11-06,CSKA Moscow,Amkar Perm,2,2,0.5
+2016-2017,13,2016-11-06,Krasnodar,Orenburg,3,3,0.5
+2016-2017,14,2016-11-18,Arsenal Tula,CSKA Moscow,0,1,0.0
+2016-2017,14,2016-11-18,Rubin Kazan,Rostov,0,0,0.5
+2016-2017,14,2016-11-19,Orenburg,Loko Moscow,1,1,0.5
+2016-2017,14,2016-11-19,Anzhi,Ufa,0,1,0.0
+2016-2017,14,2016-11-20,Krasnodar,Ural,3,0,1.0
+2016-2017,14,2016-11-20,Spartak Moscow,Amkar Perm,1,0,1.0
+2016-2017,14,2016-11-20,Zenit,Samara,3,1,1.0
+2016-2017,14,2016-11-21,Terek Grozny,Tom Tomsk,0,0,0.5
+2016-2017,15,2016-11-25,Ufa,Orenburg,1,0,1.0
+2016-2017,15,2016-11-26,Amkar Perm,Arsenal Tula,1,0,1.0
+2016-2017,15,2016-11-26,CSKA Moscow,Rubin Kazan,0,0,0.5
+2016-2017,15,2016-11-26,Loko Moscow,Ural,1,1,0.5
+2016-2017,15,2016-11-26,Terek Grozny,Spartak Moscow,0,1,0.0
+2016-2017,15,2016-11-27,Samara,Tom Tomsk,3,0,1.0
+2016-2017,15,2016-11-27,Rostov,Anzhi,2,0,1.0
+2016-2017,15,2016-11-27,Krasnodar,Zenit,2,1,1.0
+2016-2017,16,2016-11-30,Rubin Kazan,Arsenal Tula,1,0,1.0
+2016-2017,16,2016-11-30,Ural,Rostov,1,0,1.0
+2016-2017,16,2016-11-30,Zenit,Ufa,2,0,1.0
+2016-2017,16,2016-11-30,CSKA Moscow,Orenburg,2,0,1.0
+2016-2017,16,2016-12-01,Terek Grozny,Krasnodar,2,1,1.0
+2016-2017,16,2016-12-01,Samara,Spartak Moscow,4,0,1.0
+2016-2017,16,2016-12-01,Tom Tomsk,Loko Moscow,1,6,0.0
+2016-2017,16,2016-12-01,Anzhi,Amkar Perm,3,1,1.0
+2016-2017,17,2016-12-03,CSKA Moscow,Ural,4,0,1.0
+2016-2017,17,2016-12-03,Rostov,Zenit,0,0,0.5
+2016-2017,17,2016-12-04,Loko Moscow,Terek Grozny,2,0,1.0
+2016-2017,17,2016-12-05,Ufa,Tom Tomsk,1,0,1.0
+2016-2017,17,2016-12-05,Amkar Perm,Orenburg,3,0,1.0
+2016-2017,17,2016-12-05,Krasnodar,Samara,1,1,0.5
+2016-2017,17,2016-12-05,Arsenal Tula,Anzhi,1,0,1.0
+2016-2017,17,2016-12-05,Spartak Moscow,Rubin Kazan,2,1,1.0
+2016-2017,18,2017-03-03,Tom Tomsk,Rostov,0,6,0.0
+2016-2017,18,2017-03-04,Orenburg,Arsenal Tula,3,0,1.0
+2016-2017,18,2017-03-04,CSKA Moscow,Zenit,0,0,0.5
+2016-2017,18,2017-03-05,Ural,Amkar Perm,1,0,1.0
+2016-2017,18,2017-03-05,Samara,Loko Moscow,0,3,0.0
+2016-2017,18,2017-03-05,Krasnodar,Spartak Moscow,2,2,0.5
+2016-2017,18,2017-03-05,Terek Grozny,Ufa,0,1,0.0
+2016-2017,18,2017-03-06,Anzhi,Rubin Kazan,0,1,0.0
+2016-2017,19,2017-03-10,Arsenal Tula,Ural,2,0,1.0
+2016-2017,19,2017-03-11,Ufa,Samara,1,0,1.0
+2016-2017,19,2017-03-11,CSKA Moscow,Tom Tomsk,4,0,1.0
+2016-2017,19,2017-03-11,Rubin Kazan,Orenburg,0,0,0.5
+2016-2017,19,2017-03-12,Amkar Perm,Zenit,1,0,1.0
+2016-2017,19,2017-03-12,Spartak Moscow,Anzhi,1,0,1.0
+2016-2017,19,2017-03-12,Rostov,Terek Grozny,0,0,0.5
+2016-2017,19,2017-03-13,Loko Moscow,Krasnodar,1,2,0.0
+2016-2017,20,2017-03-17,Anzhi,Orenburg,1,0,1.0
+2016-2017,20,2017-03-18,Tom Tomsk,Amkar Perm,1,0,1.0
+2016-2017,20,2017-03-18,Ural,Rubin Kazan,1,0,1.0
+2016-2017,20,2017-03-18,Loko Moscow,Spartak Moscow,1,1,0.5
+2016-2017,20,2017-03-19,Samara,Rostov,0,0,0.5
+2016-2017,20,2017-03-19,Terek Grozny,CSKA Moscow,0,1,0.0
+2016-2017,20,2017-03-19,Krasnodar,Ufa,0,0,0.5
+2016-2017,20,2017-03-19,Zenit,Arsenal Tula,2,0,1.0
+2016-2017,21,2017-03-31,Anzhi,Ural,2,3,0.0
+2016-2017,21,2017-04-01,Ufa,Loko Moscow,0,1,0.0
+2016-2017,21,2017-04-01,Arsenal Tula,Tom Tomsk,3,0,1.0
+2016-2017,21,2017-04-02,Rubin Kazan,Zenit,0,2,0.0
+2016-2017,21,2017-04-02,Amkar Perm,Terek Grozny,1,1,0.5
+2016-2017,21,2017-04-02,CSKA Moscow,Samara,2,1,1.0
+2016-2017,21,2017-04-03,Spartak Moscow,Orenburg,3,2,1.0
+2016-2017,21,2017-04-03,Rostov,Krasnodar,0,0,0.5
+2016-2017,22,2017-04-08,Samara,Amkar Perm,2,2,0.5
+2016-2017,22,2017-04-08,Terek Grozny,Arsenal Tula,3,1,1.0
+2016-2017,22,2017-04-08,Zenit,Anzhi,1,1,0.5
+2016-2017,22,2017-04-09,Ufa,Spartak Moscow,1,3,0.0
+2016-2017,22,2017-04-09,Krasnodar,CSKA Moscow,1,1,0.5
+2016-2017,22,2017-04-09,Loko Moscow,Rostov,0,0,0.5
+2016-2017,22,2017-04-10,Tom Tomsk,Rubin Kazan,2,2,0.5
+2016-2017,22,2017-04-10,Ural,Orenburg,2,0,1.0
+2016-2017,23,2017-04-15,Amkar Perm,Ufa,1,1,0.5
+2016-2017,23,2017-04-15,CSKA Moscow,Rostov,0,0,0.5
+2016-2017,23,2017-04-15,Anzhi,Samara,1,3,0.0
+2016-2017,23,2017-04-15,Rubin Kazan,Krasnodar,0,1,0.0
+2016-2017,23,2017-04-16,Orenburg,Terek Grozny,2,1,1.0
+2016-2017,23,2017-04-16,Ural,Tom Tomsk,1,0,1.0
+2016-2017,23,2017-04-16,Arsenal Tula,Loko Moscow,0,3,0.0
+2016-2017,23,2017-04-16,Spartak Moscow,Zenit,2,1,1.0
+2016-2017,24,2017-04-21,Ufa,CSKA Moscow,0,2,0.0
+2016-2017,24,2017-04-22,Zenit,Ural,2,0,1.0
+2016-2017,24,2017-04-22,Rostov,Spartak Moscow,3,0,1.0
+2016-2017,24,2017-04-22,Loko Moscow,Amkar Perm,3,3,0.5
+2016-2017,24,2017-04-22,Terek Grozny,Anzhi,0,1,0.0
+2016-2017,24,2017-04-23,Samara,Rubin Kazan,0,0,0.5
+2016-2017,24,2017-04-23,Tom Tomsk,Orenburg,1,2,0.0
+2016-2017,24,2017-04-23,Krasnodar,Arsenal Tula,2,0,1.0
+2016-2017,25,2017-04-25,Rostov,Ufa,1,0,1.0
+2016-2017,25,2017-04-25,Spartak Moscow,Ural,1,0,1.0
+2016-2017,25,2017-04-26,Orenburg,Zenit,0,1,0.0
+2016-2017,25,2017-04-26,Arsenal Tula,Samara,2,0,1.0
+2016-2017,25,2017-04-26,Rubin Kazan,Terek Grozny,0,1,0.0
+2016-2017,25,2017-04-26,CSKA Moscow,Loko Moscow,4,0,1.0
+2016-2017,25,2017-04-27,Amkar Perm,Krasnodar,0,2,0.0
+2016-2017,25,2017-04-27,Anzhi,Tom Tomsk,3,3,0.5
+2016-2017,26,2017-04-29,Loko Moscow,Rubin Kazan,0,1,0.0
+2016-2017,26,2017-04-29,Terek Grozny,Ural,5,2,1.0
+2016-2017,26,2017-04-30,Ufa,Arsenal Tula,1,0,1.0
+2016-2017,26,2017-04-30,CSKA Moscow,Spartak Moscow,1,2,0.0
+2016-2017,26,2017-04-30,Rostov,Amkar Perm,1,0,1.0
+2016-2017,26,2017-05-01,Samara,Orenburg,1,1,0.5
+2016-2017,26,2017-05-01,Tom Tomsk,Zenit,0,2,0.0
+2016-2017,26,2017-05-01,Krasnodar,Anzhi,0,0,0.5
+2016-2017,27,2017-05-06,Amkar Perm,CSKA Moscow,0,2,0.0
+2016-2017,27,2017-05-06,Arsenal Tula,Rostov,1,0,1.0
+2016-2017,27,2017-05-06,Spartak Moscow,Tom Tomsk,1,0,1.0
+2016-2017,27,2017-05-07,Orenburg,Krasnodar,1,0,1.0
+2016-2017,27,2017-05-07,Rubin Kazan,Ufa,2,1,1.0
+2016-2017,27,2017-05-07,Zenit,Terek Grozny,0,1,0.0
+2016-2017,27,2017-05-08,Ural,Samara,1,3,0.0
+2016-2017,27,2017-05-08,Anzhi,Loko Moscow,0,0,0.5
+2016-2017,28,2017-05-12,CSKA Moscow,Arsenal Tula,3,0,1.0
+2016-2017,28,2017-05-13,Ural,Krasnodar,1,1,0.5
+2016-2017,28,2017-05-13,Amkar Perm,Spartak Moscow,0,1,0.0
+2016-2017,28,2017-05-13,Samara,Zenit,1,3,0.0
+2016-2017,28,2017-05-13,Loko Moscow,Orenburg,4,0,1.0
+2016-2017,28,2017-05-14,Tom Tomsk,Terek Grozny,1,2,0.0
+2016-2017,28,2017-05-14,Ufa,Anzhi,2,1,1.0
+2016-2017,28,2017-05-14,Rostov,Rubin Kazan,4,2,1.0
+2016-2017,29,2017-05-17,Ural,Loko Moscow,1,2,0.0
+2016-2017,29,2017-05-17,Tom Tomsk,Samara,0,2,0.0
+2016-2017,29,2017-05-17,Zenit,Krasnodar,1,0,1.0
+2016-2017,29,2017-05-17,Anzhi,Rostov,1,2,0.0
+2016-2017,29,2017-05-17,Arsenal Tula,Amkar Perm,0,0,0.5
+2016-2017,29,2017-05-17,Orenburg,Ufa,1,1,0.5
+2016-2017,29,2017-05-17,Spartak Moscow,Terek Grozny,3,0,1.0
+2016-2017,29,2017-05-17,Rubin Kazan,CSKA Moscow,0,2,0.0
+2016-2017,30,2017-05-21,Arsenal Tula,Spartak Moscow,3,0,1.0
+2016-2017,30,2017-05-21,Samara,Terek Grozny,1,3,0.0
+2016-2017,30,2017-05-21,CSKA Moscow,Anzhi,4,0,1.0
+2016-2017,30,2017-05-21,Tom Tomsk,Krasnodar,1,5,0.0
+2016-2017,30,2017-05-21,Ufa,Ural,1,0,1.0
+2016-2017,30,2017-05-21,Amkar Perm,Rubin Kazan,1,2,0.0
+2016-2017,30,2017-05-21,Loko Moscow,Zenit,0,2,0.0
+2016-2017,30,2017-05-21,Orenburg,Rostov,2,0,1.0

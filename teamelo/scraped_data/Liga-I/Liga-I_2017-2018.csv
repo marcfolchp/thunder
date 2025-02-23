@@ -1,0 +1,269 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,Regular season,1,2017-07-14,CS U Craiova,Poli Iași,2,0,1.0
+2017-2018,Regular season,1,2017-07-15,Concordia,Poli Timișoara,0,1,0.0
+2017-2018,Regular season,1,2017-07-15,Juventus,Dinamo,0,3,0.0
+2017-2018,Regular season,1,2017-07-16,Astra Giurgiu,Sepsi,1,0,1.0
+2017-2018,Regular season,1,2017-07-16,FCSB,Voluntari,2,1,1.0
+2017-2018,Regular season,1,2017-07-17,Viitorul,Gaz Metan,3,0,1.0
+2017-2018,Regular season,1,2017-07-17,Botoșani,CFR Cluj,1,1,0.5
+2017-2018,Regular season,2,2017-07-21,Sepsi,Juventus,2,1,1.0
+2017-2018,Regular season,2,2017-07-21,Poli Timișoara,FCSB,0,1,0.0
+2017-2018,Regular season,2,2017-07-22,CS U Craiova,Concordia,1,1,0.5
+2017-2018,Regular season,2,2017-07-22,CFR Cluj,Viitorul,2,0,1.0
+2017-2018,Regular season,2,2017-07-23,Poli Iași,Gaz Metan,0,0,0.5
+2017-2018,Regular season,2,2017-07-23,Dinamo,Botoșani,0,1,0.0
+2017-2018,Regular season,2,2017-07-24,Voluntari,Astra Giurgiu,3,1,1.0
+2017-2018,Regular season,3,2017-07-28,Botoșani,Sepsi,5,1,1.0
+2017-2018,Regular season,3,2017-07-28,Concordia,Poli Iași,0,1,0.0
+2017-2018,Regular season,3,2017-07-29,Juventus,Voluntari,0,0,0.5
+2017-2018,Regular season,3,2017-07-29,Gaz Metan,CFR Cluj,0,3,0.0
+2017-2018,Regular season,3,2017-07-30,Viitorul,Dinamo,0,1,0.0
+2017-2018,Regular season,3,2017-07-30,FCSB,CS U Craiova,1,1,0.5
+2017-2018,Regular season,3,2017-07-31,Astra Giurgiu,Poli Timișoara,3,0,1.0
+2017-2018,Regular season,4,2017-08-04,Poli Timișoara,Juventus,2,1,1.0
+2017-2018,Regular season,4,2017-08-04,Voluntari,Botoșani,1,3,0.0
+2017-2018,Regular season,4,2017-08-05,Sepsi,Viitorul,1,0,1.0
+2017-2018,Regular season,4,2017-08-05,Poli Iași,CFR Cluj,0,2,0.0
+2017-2018,Regular season,4,2017-08-06,CS U Craiova,Astra Giurgiu,1,1,0.5
+2017-2018,Regular season,4,2017-08-06,Concordia,FCSB,1,2,0.0
+2017-2018,Regular season,4,2017-08-07,Dinamo,Gaz Metan,3,1,1.0
+2017-2018,Regular season,5,2017-08-08,Botoșani,Poli Timișoara,1,0,1.0
+2017-2018,Regular season,5,2017-08-08,Viitorul,Voluntari,0,0,0.5
+2017-2018,Regular season,5,2017-08-09,Astra Giurgiu,Concordia,1,0,1.0
+2017-2018,Regular season,5,2017-08-09,Juventus,CS U Craiova,0,1,0.0
+2017-2018,Regular season,5,2017-08-09,FCSB,Poli Iași,1,1,0.5
+2017-2018,Regular season,5,2017-08-10,Gaz Metan,Sepsi,2,1,1.0
+2017-2018,Regular season,5,2017-08-10,CFR Cluj,Dinamo,1,0,1.0
+2017-2018,Regular season,6,2017-08-11,Poli Timișoara,Viitorul,0,0,0.5
+2017-2018,Regular season,6,2017-08-12,Concordia,Juventus,1,1,0.5
+2017-2018,Regular season,6,2017-08-12,FCSB,Astra Giurgiu,1,1,0.5
+2017-2018,Regular season,6,2017-08-13,CS U Craiova,Botoșani,1,0,1.0
+2017-2018,Regular season,6,2017-08-13,Poli Iași,Dinamo,2,1,1.0
+2017-2018,Regular season,6,2017-08-14,Voluntari,Gaz Metan,2,1,1.0
+2017-2018,Regular season,6,2017-08-14,Sepsi,CFR Cluj,0,2,0.0
+2017-2018,Regular season,7,2017-08-18,Astra Giurgiu,Poli Iași,0,0,0.5
+2017-2018,Regular season,7,2017-08-19,Gaz Metan,Poli Timișoara,0,2,0.0
+2017-2018,Regular season,7,2017-08-19,Juventus,FCSB,1,2,0.0
+2017-2018,Regular season,7,2017-08-20,Viitorul,CS U Craiova,0,2,0.0
+2017-2018,Regular season,7,2017-08-20,CFR Cluj,Voluntari,2,0,1.0
+2017-2018,Regular season,7,2017-08-21,Botoșani,Concordia,2,1,1.0
+2017-2018,Regular season,7,2017-08-21,Dinamo,Sepsi,1,0,1.0
+2017-2018,Regular season,8,2017-08-25,Astra Giurgiu,Juventus,2,0,1.0
+2017-2018,Regular season,8,2017-08-25,CS U Craiova,Gaz Metan,2,0,1.0
+2017-2018,Regular season,8,2017-08-26,Poli Timișoara,CFR Cluj,4,3,1.0
+2017-2018,Regular season,8,2017-08-26,Voluntari,Dinamo,1,3,0.0
+2017-2018,Regular season,8,2017-08-27,Concordia,Viitorul,1,2,0.0
+2017-2018,Regular season,8,2017-08-27,FCSB,Botoșani,2,0,1.0
+2017-2018,Regular season,8,2017-08-28,Poli Iași,Sepsi,0,2,0.0
+2017-2018,Regular season,9,2017-09-08,Botoșani,Astra Giurgiu,1,3,0.0
+2017-2018,Regular season,9,2017-09-09,Juventus,Poli Iași,2,2,0.5
+2017-2018,Regular season,9,2017-09-09,Viitorul,FCSB,1,0,1.0
+2017-2018,Regular season,9,2017-09-10,Sepsi,Voluntari,0,3,0.0
+2017-2018,Regular season,9,2017-09-10,CFR Cluj,CS U Craiova,2,1,1.0
+2017-2018,Regular season,9,2017-09-11,Gaz Metan,Concordia,1,2,0.0
+2017-2018,Regular season,9,2017-09-11,Dinamo,Poli Timișoara,1,2,0.0
+2017-2018,Regular season,10,2017-09-15,Juventus,Botoșani,0,2,0.0
+2017-2018,Regular season,10,2017-09-15,Poli Iași,Voluntari,2,1,1.0
+2017-2018,Regular season,10,2017-09-16,Poli Timișoara,Sepsi,0,0,0.5
+2017-2018,Regular season,10,2017-09-16,CS U Craiova,Dinamo,2,2,0.5
+2017-2018,Regular season,10,2017-09-17,Concordia,CFR Cluj,0,1,0.0
+2017-2018,Regular season,10,2017-09-17,FCSB,Gaz Metan,4,0,1.0
+2017-2018,Regular season,10,2017-09-18,Astra Giurgiu,Viitorul,3,1,1.0
+2017-2018,Regular season,11,2017-09-19,Voluntari,Poli Timișoara,1,0,1.0
+2017-2018,Regular season,11,2017-09-19,Sepsi,CS U Craiova,2,3,0.0
+2017-2018,Regular season,11,2017-09-20,Botoșani,Poli Iași,3,3,0.5
+2017-2018,Regular season,11,2017-09-21,Viitorul,Juventus,3,0,1.0
+2017-2018,Regular season,11,2017-09-21,Gaz Metan,Astra Giurgiu,0,0,0.5
+2017-2018,Regular season,11,2017-09-21,CFR Cluj,FCSB,1,1,0.5
+2017-2018,Regular season,12,2017-09-22,CS U Craiova,Voluntari,1,1,0.5
+2017-2018,Regular season,12,2017-09-23,Concordia,Sepsi,2,1,1.0
+2017-2018,Regular season,12,2017-09-24,Juventus,Gaz Metan,1,1,0.5
+2017-2018,Regular season,12,2017-09-24,Poli Iași,Poli Timișoara,1,1,0.5
+2017-2018,Regular season,12,2017-09-24,FCSB,Dinamo,1,0,1.0
+2017-2018,Regular season,12,2017-09-25,Botoșani,Viitorul,1,0,1.0
+2017-2018,Regular season,12,2017-09-25,Astra Giurgiu,CFR Cluj,2,3,0.0
+2017-2018,Regular season,11,2017-09-27,Dinamo,Concordia,2,3,0.0
+2017-2018,Regular season,13,2017-09-29,Gaz Metan,Botoșani,1,0,1.0
+2017-2018,Regular season,13,2017-09-29,Poli Timișoara,CS U Craiova,0,2,0.0
+2017-2018,Regular season,13,2017-09-30,Viitorul,Poli Iași,5,2,1.0
+2017-2018,Regular season,13,2017-09-30,Dinamo,Astra Giurgiu,1,1,0.5
+2017-2018,Regular season,13,2017-10-01,CFR Cluj,Juventus,2,0,1.0
+2017-2018,Regular season,13,2017-10-01,Sepsi,FCSB,0,4,0.0
+2017-2018,Regular season,13,2017-10-02,Voluntari,Concordia,0,1,0.0
+2017-2018,Regular season,14,2017-10-13,Voluntari,FCSB,0,0,0.5
+2017-2018,Regular season,14,2017-10-14,Gaz Metan,Viitorul,0,1,0.0
+2017-2018,Regular season,14,2017-10-14,Poli Iași,CS U Craiova,1,2,0.0
+2017-2018,Regular season,14,2017-10-15,Sepsi,Astra Giurgiu,0,0,0.5
+2017-2018,Regular season,14,2017-10-15,CFR Cluj,Botoșani,0,0,0.5
+2017-2018,Regular season,14,2017-10-16,Poli Timișoara,Concordia,0,3,0.0
+2017-2018,Regular season,14,2017-10-16,Dinamo,Juventus,3,0,1.0
+2017-2018,Regular season,15,2017-10-20,Gaz Metan,Poli Iași,0,2,0.0
+2017-2018,Regular season,15,2017-10-20,Concordia,CS U Craiova,1,2,0.0
+2017-2018,Regular season,15,2017-10-21,Juventus,Sepsi,2,1,1.0
+2017-2018,Regular season,15,2017-10-21,Viitorul,CFR Cluj,1,0,1.0
+2017-2018,Regular season,15,2017-10-22,Astra Giurgiu,Voluntari,2,3,0.0
+2017-2018,Regular season,15,2017-10-22,FCSB,Poli Timișoara,7,0,1.0
+2017-2018,Regular season,15,2017-10-23,Botoșani,Dinamo,0,0,0.5
+2017-2018,Regular season,16,2017-10-27,Poli Iași,Concordia,3,1,1.0
+2017-2018,Regular season,16,2017-10-28,Voluntari,Juventus,0,0,0.5
+2017-2018,Regular season,16,2017-10-28,Poli Timișoara,Astra Giurgiu,2,1,1.0
+2017-2018,Regular season,16,2017-10-29,CFR Cluj,Gaz Metan,0,0,0.5
+2017-2018,Regular season,16,2017-10-29,CS U Craiova,FCSB,2,5,0.0
+2017-2018,Regular season,16,2017-10-30,Sepsi,Botoșani,0,2,0.0
+2017-2018,Regular season,16,2017-10-30,Dinamo,Viitorul,0,4,0.0
+2017-2018,Regular season,17,2017-11-03,Botoșani,Voluntari,1,0,1.0
+2017-2018,Regular season,17,2017-11-03,Astra Giurgiu,CS U Craiova,2,2,0.5
+2017-2018,Regular season,17,2017-11-04,Viitorul,Sepsi,3,0,1.0
+2017-2018,Regular season,17,2017-11-04,Gaz Metan,Dinamo,0,3,0.0
+2017-2018,Regular season,17,2017-11-05,CFR Cluj,Poli Iași,1,0,1.0
+2017-2018,Regular season,17,2017-11-05,FCSB,Concordia,2,1,1.0
+2017-2018,Regular season,17,2017-11-06,Juventus,Poli Timișoara,1,1,0.5
+2017-2018,Regular season,18,2017-11-17,Poli Timișoara,Botoșani,1,1,0.5
+2017-2018,Regular season,18,2017-11-17,Poli Iași,FCSB,1,0,1.0
+2017-2018,Regular season,18,2017-11-18,Sepsi,Gaz Metan,0,0,0.5
+2017-2018,Regular season,18,2017-11-18,CS U Craiova,Juventus,3,1,1.0
+2017-2018,Regular season,18,2017-11-19,Concordia,Astra Giurgiu,1,2,0.0
+2017-2018,Regular season,18,2017-11-19,Dinamo,CFR Cluj,0,2,0.0
+2017-2018,Regular season,18,2017-11-20,Voluntari,Viitorul,0,0,0.5
+2017-2018,Regular season,19,2017-11-24,Juventus,Concordia,0,5,0.0
+2017-2018,Regular season,19,2017-11-24,Botoșani,CS U Craiova,1,0,1.0
+2017-2018,Regular season,19,2017-11-25,Viitorul,Poli Timișoara,1,1,0.5
+2017-2018,Regular season,19,2017-11-25,Dinamo,Poli Iași,2,1,1.0
+2017-2018,Regular season,19,2017-11-26,Gaz Metan,Voluntari,1,1,0.5
+2017-2018,Regular season,19,2017-11-26,Astra Giurgiu,FCSB,2,0,1.0
+2017-2018,Regular season,19,2017-11-27,CFR Cluj,Sepsi,2,0,1.0
+2017-2018,Regular season,20,2017-12-01,Voluntari,CFR Cluj,0,3,0.0
+2017-2018,Regular season,20,2017-12-02,Concordia,Botoșani,3,0,1.0
+2017-2018,Regular season,20,2017-12-02,CS U Craiova,Viitorul,3,1,1.0
+2017-2018,Regular season,20,2017-12-03,Poli Iași,Astra Giurgiu,1,0,1.0
+2017-2018,Regular season,20,2017-12-03,FCSB,Juventus,4,0,1.0
+2017-2018,Regular season,20,2017-12-04,Poli Timișoara,Gaz Metan,1,1,0.5
+2017-2018,Regular season,20,2017-12-04,Sepsi,Dinamo,0,3,0.0
+2017-2018,Regular season,21,2017-12-08,Juventus,Astra Giurgiu,0,1,0.0
+2017-2018,Regular season,21,2017-12-09,Viitorul,Concordia,3,0,1.0
+2017-2018,Regular season,21,2017-12-09,CFR Cluj,Poli Timișoara,1,0,1.0
+2017-2018,Regular season,21,2017-12-10,Gaz Metan,CS U Craiova,0,0,0.5
+2017-2018,Regular season,21,2017-12-10,Botoșani,FCSB,0,3,0.0
+2017-2018,Regular season,21,2017-12-11,Sepsi,Poli Iași,2,1,1.0
+2017-2018,Regular season,21,2017-12-11,Dinamo,Voluntari,2,0,1.0
+2017-2018,Regular season,22,2017-12-15,Astra Giurgiu,Botoșani,2,1,1.0
+2017-2018,Regular season,22,2017-12-16,Concordia,Gaz Metan,1,1,0.5
+2017-2018,Regular season,22,2017-12-16,CS U Craiova,CFR Cluj,2,1,1.0
+2017-2018,Regular season,22,2017-12-17,Poli Iași,Juventus,3,1,1.0
+2017-2018,Regular season,22,2017-12-17,FCSB,Viitorul,2,0,1.0
+2017-2018,Regular season,22,2017-12-18,Voluntari,Sepsi,3,0,1.0
+2017-2018,Regular season,22,2017-12-18,Poli Timișoara,Dinamo,0,0,0.5
+2017-2018,Regular season,23,2018-02-02,Sepsi,Poli Timișoara,1,0,1.0
+2017-2018,Regular season,23,2018-02-02,Viitorul,Astra Giurgiu,1,1,0.5
+2017-2018,Regular season,23,2018-02-03,Voluntari,Poli Iași,0,4,0.0
+2017-2018,Regular season,23,2018-02-03,Gaz Metan,FCSB,1,2,0.0
+2017-2018,Regular season,23,2018-02-04,Botoșani,Juventus,0,0,0.5
+2017-2018,Regular season,23,2018-02-04,Dinamo,CS U Craiova,2,2,0.5
+2017-2018,Regular season,23,2018-02-05,CFR Cluj,Concordia,2,0,1.0
+2017-2018,Regular season,24,2018-02-09,Poli Timișoara,Voluntari,2,3,0.0
+2017-2018,Regular season,24,2018-02-09,Astra Giurgiu,Gaz Metan,4,3,1.0
+2017-2018,Regular season,24,2018-02-10,Juventus,Viitorul,0,1,0.0
+2017-2018,Regular season,24,2018-02-10,FCSB,CFR Cluj,1,1,0.5
+2017-2018,Regular season,24,2018-02-11,CS U Craiova,Sepsi,1,0,1.0
+2017-2018,Regular season,24,2018-02-12,Poli Iași,Botoșani,1,0,1.0
+2017-2018,Regular season,24,2018-02-12,Concordia,Dinamo,3,4,0.0
+2017-2018,Regular season,25,2018-02-16,Gaz Metan,Juventus,0,0,0.5
+2017-2018,Regular season,25,2018-02-16,Voluntari,CS U Craiova,0,1,0.0
+2017-2018,Regular season,25,2018-02-17,Sepsi,Concordia,1,1,0.5
+2017-2018,Regular season,25,2018-02-17,CFR Cluj,Astra Giurgiu,2,0,1.0
+2017-2018,Regular season,25,2018-02-18,Poli Timișoara,Poli Iași,1,2,0.0
+2017-2018,Regular season,25,2018-02-18,Dinamo,FCSB,2,2,0.5
+2017-2018,Regular season,25,2018-02-19,Viitorul,Botoșani,2,1,1.0
+2017-2018,Regular season,26,2018-02-23,CS U Craiova,Poli Timișoara,1,1,0.5
+2017-2018,Regular season,26,2018-02-24,Botoșani,Gaz Metan,1,0,1.0
+2017-2018,Regular season,26,2018-02-24,Astra Giurgiu,Dinamo,2,0,1.0
+2017-2018,Regular season,26,2018-02-24,Poli Iași,Viitorul,0,1,0.0
+2017-2018,Regular season,26,2018-02-25,Juventus,CFR Cluj,0,2,0.0
+2017-2018,Regular season,26,2018-02-25,FCSB,Sepsi,2,0,1.0
+2017-2018,Regular season,26,2018-02-27,Concordia,Voluntari,3,1,1.0
+2017-2018,Relegation round,1,2018-03-09,Botoșani,Juventus,0,0,0.5
+2017-2018,Championship round,1,2018-03-09,CFR Cluj,Poli Iași,2,1,1.0
+2017-2018,Relegation round,1,2018-03-10,Concordia,Sepsi,1,1,0.5
+2017-2018,Championship round,1,2018-03-10,CS U Craiova,Astra Giurgiu,1,0,1.0
+2017-2018,Relegation round,1,2018-03-11,Voluntari,Poli Timișoara,1,0,1.0
+2017-2018,Championship round,1,2018-03-11,FCSB,Viitorul,2,1,1.0
+2017-2018,Relegation round,1,2018-03-12,Dinamo,Gaz Metan,3,0,1.0
+2017-2018,Relegation round,2,2018-03-16,Juventus,Poli Timișoara,1,0,1.0
+2017-2018,Championship round,2,2018-03-16,Viitorul,CS U Craiova,0,0,0.5
+2017-2018,Relegation round,2,2018-03-17,Gaz Metan,Concordia,2,1,1.0
+2017-2018,Championship round,2,2018-03-18,CFR Cluj,FCSB,1,1,0.5
+2017-2018,Relegation round,2,2018-03-19,Sepsi,Voluntari,2,2,0.5
+2017-2018,Relegation round,3,2018-03-30,Concordia,Botoșani,0,0,0.5
+2017-2018,Relegation round,3,2018-03-30,Dinamo,Juventus,1,2,0.0
+2017-2018,Relegation round,3,2018-03-31,Voluntari,Gaz Metan,1,2,0.0
+2017-2018,Championship round,3,2018-03-31,CS U Craiova,CFR Cluj,0,0,0.5
+2017-2018,Championship round,3,2018-04-01,Astra Giurgiu,Viitorul,0,2,0.0
+2017-2018,Championship round,3,2018-04-01,FCSB,Poli Iași,1,0,1.0
+2017-2018,Relegation round,3,2018-04-02,Poli Timișoara,Sepsi,2,2,0.5
+2017-2018,Relegation round,2,2018-04-03,Botoșani,Dinamo,0,1,0.0
+2017-2018,Championship round,4,2018-04-06,Poli Iași,Viitorul,0,2,0.0
+2017-2018,Relegation round,4,2018-04-07,Botoșani,Voluntari,1,0,1.0
+2017-2018,Relegation round,4,2018-04-07,Dinamo,Concordia,3,1,1.0
+2017-2018,Championship round,4,2018-04-08,CFR Cluj,Astra Giurgiu,1,1,0.5
+2017-2018,Relegation round,4,2018-04-09,Gaz Metan,Poli Timișoara,1,1,0.5
+2017-2018,Relegation round,4,2018-04-09,Juventus,Sepsi,0,2,0.0
+2017-2018,Championship round,4,2018-04-09,FCSB,CS U Craiova,2,0,1.0
+2017-2018,Relegation round,5,2018-04-13,Voluntari,Dinamo,2,4,0.0
+2017-2018,Relegation round,5,2018-04-14,Sepsi,Gaz Metan,2,1,1.0
+2017-2018,Championship round,5,2018-04-14,CS U Craiova,Poli Iași,4,1,1.0
+2017-2018,Relegation round,5,2018-04-15,Concordia,Juventus,2,1,1.0
+2017-2018,Championship round,5,2018-04-15,Viitorul,CFR Cluj,1,2,0.0
+2017-2018,Relegation round,5,2018-04-16,Poli Timișoara,Botoșani,0,1,0.0
+2017-2018,Championship round,5,2018-04-16,Astra Giurgiu,FCSB,0,3,0.0
+2017-2018,Relegation round,6,2018-04-20,Dinamo,Poli Timișoara,1,0,1.0
+2017-2018,Relegation round,6,2018-04-21,Concordia,Voluntari,0,1,0.0
+2017-2018,Championship round,6,2018-04-21,Viitorul,FCSB,2,2,0.5
+2017-2018,Relegation round,6,2018-04-22,Juventus,Gaz Metan,0,3,0.0
+2017-2018,Championship round,6,2018-04-22,Poli Iași,CFR Cluj,1,1,0.5
+2017-2018,Relegation round,6,2018-04-23,Botoșani,Sepsi,2,2,0.5
+2017-2018,Championship round,6,2018-04-23,Astra Giurgiu,CS U Craiova,1,0,1.0
+2017-2018,Championship round,2,2018-04-26,Poli Iași,Astra Giurgiu,0,3,0.0
+2017-2018,Relegation round,7,2018-04-27,Voluntari,Juventus,0,1,0.0
+2017-2018,Relegation round,7,2018-04-28,Poli Timișoara,Concordia,1,0,1.0
+2017-2018,Championship round,7,2018-04-28,CS U Craiova,Viitorul,3,3,0.5
+2017-2018,Relegation round,7,2018-04-29,Gaz Metan,Botoșani,2,1,1.0
+2017-2018,Championship round,7,2018-04-29,FCSB,CFR Cluj,1,1,0.5
+2017-2018,Relegation round,7,2018-04-30,Sepsi,Dinamo,2,0,1.0
+2017-2018,Championship round,7,2018-04-30,Astra Giurgiu,Poli Iași,3,0,1.0
+2017-2018,Relegation round,8,2018-05-04,Poli Timișoara,Voluntari,2,3,0.0
+2017-2018,Championship round,8,2018-05-04,Viitorul,Astra Giurgiu,1,1,0.5
+2017-2018,Relegation round,8,2018-05-05,Juventus,Botoșani,0,3,0.0
+2017-2018,Championship round,8,2018-05-05,CFR Cluj,CS U Craiova,1,0,1.0
+2017-2018,Relegation round,8,2018-05-06,Gaz Metan,Dinamo,2,3,0.0
+2017-2018,Relegation round,8,2018-05-07,Sepsi,Concordia,0,2,0.0
+2017-2018,Championship round,8,2018-05-07,Poli Iași,FCSB,1,0,1.0
+2017-2018,Relegation round,9,2018-05-11,Poli Timișoara,Juventus,2,0,1.0
+2017-2018,Championship round,9,2018-05-11,Viitorul,Poli Iași,1,0,1.0
+2017-2018,Relegation round,9,2018-05-12,Voluntari,Sepsi,1,2,0.0
+2017-2018,Relegation round,9,2018-05-12,Dinamo,Botoșani,2,0,1.0
+2017-2018,Relegation round,9,2018-05-13,Concordia,Gaz Metan,0,0,0.5
+2017-2018,Championship round,9,2018-05-13,Astra Giurgiu,CFR Cluj,0,2,0.0
+2017-2018,Championship round,9,2018-05-14,CS U Craiova,FCSB,0,1,0.0
+2017-2018,Relegation round,10,2018-05-15,Sepsi,Poli Timișoara,3,0,1.0
+2017-2018,Relegation round,10,2018-05-15,Juventus,Dinamo,0,2,0.0
+2017-2018,Relegation round,10,2018-05-16,Botoșani,Concordia,0,1,0.0
+2017-2018,Relegation round,10,2018-05-17,Gaz Metan,Voluntari,1,0,1.0
+2017-2018,Relegation round,11,2018-05-18,Sepsi,Juventus,2,1,1.0
+2017-2018,Relegation round,11,2018-05-19,Concordia,Dinamo,0,4,0.0
+2017-2018,Relegation round,11,2018-05-20,Voluntari,Botoșani,1,1,0.5
+2017-2018,Championship round,10,2018-05-20,FCSB,Astra Giurgiu,1,0,1.0
+2017-2018,Championship round,10,2018-05-20,Poli Iași,CS U Craiova,1,2,0.0
+2017-2018,Championship round,10,2018-05-20,CFR Cluj,Viitorul,1,0,1.0
+2017-2018,Relegation round,11,2018-05-21,Poli Timișoara,Gaz Metan,0,0,0.5
+2017-2018,Relegation round,12,2018-05-22,Juventus,Concordia,1,3,0.0
+2017-2018,Relegation round,12,2018-05-23,Dinamo,Voluntari,2,0,1.0
+2017-2018,Relegation round,12,2018-05-24,Gaz Metan,Sepsi,1,1,0.5
+2017-2018,Relegation round,12,2018-05-24,Botoșani,Poli Timișoara,0,0,0.5
+2017-2018,Relegation round,13,2018-05-26,Voluntari,Concordia,2,2,0.5
+2017-2018,Relegation round,13,2018-05-27,Sepsi,Botoșani,0,1,0.0
+2017-2018,Relegation round,13,2018-05-28,Gaz Metan,Juventus,3,0,1.0
+2017-2018,Relegation round,13,2018-05-28,Poli Timișoara,Dinamo,1,3,0.0
+2017-2018,Relegation round,14,2018-06-01,Dinamo,Sepsi,0,0,0.5
+2017-2018,Relegation round,14,2018-06-02,Botoșani,Gaz Metan,2,0,1.0
+2017-2018,Relegation round,14,2018-06-02,Concordia,Poli Timișoara,0,1,0.0
+2017-2018,Relegation round,14,2018-06-02,Juventus,Voluntari,2,2,0.5

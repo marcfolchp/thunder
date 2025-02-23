@@ -1,0 +1,193 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,Regular season,1,2014-07-19,Haskovo,Ludogorets,1,0,1.0
+2014-2015,Regular season,1,2014-07-19,Slavia Sofia,Marek Dupnitsa,4,1,1.0
+2014-2015,Regular season,1,2014-07-19,Levski Sofia,Loko Plovdiv,1,1,0.5
+2014-2015,Regular season,1,2014-07-20,Botev Plovdiv,Loko Sofia,1,0,1.0
+2014-2015,Regular season,1,2014-07-20,Litex Lovech,CSKA Sofia,0,1,0.0
+2014-2015,Regular season,1,2014-07-20,Beroe,Cherno More,1,1,0.5
+2014-2015,Regular season,2,2014-07-26,Marek Dupnitsa,Haskovo,2,1,1.0
+2014-2015,Regular season,2,2014-07-26,Loko Plovdiv,Slavia Sofia,1,1,0.5
+2014-2015,Regular season,2,2014-07-27,Loko Sofia,Litex Lovech,2,0,1.0
+2014-2015,Regular season,2,2014-07-27,CSKA Sofia,Levski Sofia,2,0,1.0
+2014-2015,Regular season,2,2014-07-27,Cherno More,Ludogorets,0,0,0.5
+2014-2015,Regular season,2,2014-07-27,Beroe,Botev Plovdiv,1,1,0.5
+2014-2015,Regular season,3,2014-08-02,Haskovo,Loko Plovdiv,1,2,0.0
+2014-2015,Regular season,3,2014-08-02,Ludogorets,Marek Dupnitsa,3,0,1.0
+2014-2015,Regular season,3,2014-08-02,Levski Sofia,Loko Sofia,1,0,1.0
+2014-2015,Regular season,3,2014-08-03,Botev Plovdiv,Cherno More,2,1,1.0
+2014-2015,Regular season,3,2014-08-03,Slavia Sofia,CSKA Sofia,2,2,0.5
+2014-2015,Regular season,3,2014-08-03,Litex Lovech,Beroe,2,1,1.0
+2014-2015,Regular season,4,2014-08-09,Loko Sofia,Slavia Sofia,1,0,1.0
+2014-2015,Regular season,4,2014-08-09,Cherno More,Marek Dupnitsa,0,1,0.0
+2014-2015,Regular season,4,2014-08-09,Botev Plovdiv,Litex Lovech,3,3,0.5
+2014-2015,Regular season,4,2014-08-09,Loko Plovdiv,Ludogorets,1,4,0.0
+2014-2015,Regular season,4,2014-08-10,Beroe,Levski Sofia,2,1,1.0
+2014-2015,Regular season,4,2014-08-10,CSKA Sofia,Haskovo,4,0,1.0
+2014-2015,Regular season,5,2014-08-15,Litex Lovech,Cherno More,3,0,1.0
+2014-2015,Regular season,5,2014-08-16,Slavia Sofia,Beroe,0,2,0.0
+2014-2015,Regular season,5,2014-08-16,Ludogorets,CSKA Sofia,2,0,1.0
+2014-2015,Regular season,5,2014-08-17,Haskovo,Loko Sofia,0,0,0.5
+2014-2015,Regular season,5,2014-08-17,Marek Dupnitsa,Loko Plovdiv,0,0,0.5
+2014-2015,Regular season,5,2014-08-17,Levski Sofia,Botev Plovdiv,2,1,1.0
+2014-2015,Regular season,6,2014-08-22,CSKA Sofia,Marek Dupnitsa,5,0,1.0
+2014-2015,Regular season,6,2014-08-23,Cherno More,Loko Plovdiv,3,0,1.0
+2014-2015,Regular season,6,2014-08-23,Loko Sofia,Ludogorets,2,2,0.5
+2014-2015,Regular season,6,2014-08-24,Botev Plovdiv,Slavia Sofia,2,0,1.0
+2014-2015,Regular season,6,2014-08-24,Beroe,Haskovo,3,0,1.0
+2014-2015,Regular season,6,2014-08-24,Litex Lovech,Levski Sofia,3,0,1.0
+2014-2015,Regular season,7,2014-08-29,Levski Sofia,Cherno More,1,0,1.0
+2014-2015,Regular season,7,2014-08-30,Slavia Sofia,Litex Lovech,0,2,0.0
+2014-2015,Regular season,7,2014-08-30,Marek Dupnitsa,Loko Sofia,0,1,0.0
+2014-2015,Regular season,7,2014-08-30,Haskovo,Botev Plovdiv,1,2,0.0
+2014-2015,Regular season,7,2014-08-30,Loko Plovdiv,CSKA Sofia,0,3,0.0
+2014-2015,Regular season,7,2014-08-31,Ludogorets,Beroe,1,1,0.5
+2014-2015,Regular season,8,2014-09-12,Botev Plovdiv,Ludogorets,1,2,0.0
+2014-2015,Regular season,8,2014-09-13,Cherno More,CSKA Sofia,1,1,0.5
+2014-2015,Regular season,8,2014-09-13,Beroe,Marek Dupnitsa,4,0,1.0
+2014-2015,Regular season,8,2014-09-14,Levski Sofia,Slavia Sofia,2,0,1.0
+2014-2015,Regular season,8,2014-09-14,Litex Lovech,Haskovo,2,0,1.0
+2014-2015,Regular season,8,2014-09-15,Loko Sofia,Loko Plovdiv,2,0,1.0
+2014-2015,Regular season,9,2014-09-19,Slavia Sofia,Cherno More,1,3,0.0
+2014-2015,Regular season,9,2014-09-20,Haskovo,Levski Sofia,1,4,0.0
+2014-2015,Regular season,9,2014-09-20,Marek Dupnitsa,Botev Plovdiv,1,1,0.5
+2014-2015,Regular season,9,2014-09-20,Loko Plovdiv,Beroe,0,3,0.0
+2014-2015,Regular season,9,2014-09-20,CSKA Sofia,Loko Sofia,3,0,1.0
+2014-2015,Regular season,9,2014-09-21,Ludogorets,Litex Lovech,4,1,1.0
+2014-2015,Regular season,10,2014-09-27,Botev Plovdiv,Loko Plovdiv,2,0,1.0
+2014-2015,Regular season,10,2014-09-27,Levski Sofia,Ludogorets,3,2,1.0
+2014-2015,Regular season,10,2014-09-28,Slavia Sofia,Haskovo,1,0,1.0
+2014-2015,Regular season,10,2014-09-28,Cherno More,Loko Sofia,0,1,0.0
+2014-2015,Regular season,10,2014-09-28,Beroe,CSKA Sofia,1,2,0.0
+2014-2015,Regular season,10,2014-09-29,Litex Lovech,Marek Dupnitsa,3,0,1.0
+2014-2015,Regular season,11,2014-10-03,Loko Sofia,Beroe,0,3,0.0
+2014-2015,Regular season,11,2014-10-03,Haskovo,Cherno More,0,1,0.0
+2014-2015,Regular season,11,2014-10-03,CSKA Sofia,Botev Plovdiv,1,0,1.0
+2014-2015,Regular season,11,2014-10-04,Marek Dupnitsa,Levski Sofia,1,1,0.5
+2014-2015,Regular season,11,2014-10-04,Loko Plovdiv,Litex Lovech,2,0,1.0
+2014-2015,Regular season,11,2014-10-04,Ludogorets,Slavia Sofia,0,0,0.5
+2014-2015,Regular season,12,2014-10-17,Ludogorets,Haskovo,3,1,1.0
+2014-2015,Regular season,12,2014-10-18,Loko Plovdiv,Levski Sofia,1,1,0.5
+2014-2015,Regular season,12,2014-10-18,CSKA Sofia,Litex Lovech,2,0,1.0
+2014-2015,Regular season,12,2014-10-19,Loko Sofia,Botev Plovdiv,3,1,1.0
+2014-2015,Regular season,12,2014-10-19,Marek Dupnitsa,Slavia Sofia,0,2,0.0
+2014-2015,Regular season,12,2014-10-19,Cherno More,Beroe,4,0,1.0
+2014-2015,Regular season,13,2014-10-24,Slavia Sofia,Loko Plovdiv,0,2,0.0
+2014-2015,Regular season,13,2014-10-24,Haskovo,Marek Dupnitsa,0,1,0.0
+2014-2015,Regular season,13,2014-10-24,Botev Plovdiv,Beroe,3,1,1.0
+2014-2015,Regular season,13,2014-10-24,Litex Lovech,Loko Sofia,4,2,1.0
+2014-2015,Regular season,13,2014-10-25,Levski Sofia,CSKA Sofia,0,3,0.0
+2014-2015,Regular season,13,2014-10-25,Ludogorets,Cherno More,2,0,1.0
+2014-2015,Regular season,14,2014-10-31,Marek Dupnitsa,Ludogorets,0,4,0.0
+2014-2015,Regular season,14,2014-11-01,CSKA Sofia,Slavia Sofia,0,0,0.5
+2014-2015,Regular season,14,2014-11-02,Loko Sofia,Levski Sofia,0,1,0.0
+2014-2015,Regular season,14,2014-11-02,Cherno More,Botev Plovdiv,2,1,1.0
+2014-2015,Regular season,14,2014-11-02,Loko Plovdiv,Haskovo,1,0,1.0
+2014-2015,Regular season,14,2014-11-03,Beroe,Litex Lovech,2,0,1.0
+2014-2015,Regular season,15,2014-11-07,Levski Sofia,Beroe,0,1,0.0
+2014-2015,Regular season,15,2014-11-08,Slavia Sofia,Loko Sofia,1,2,0.0
+2014-2015,Regular season,15,2014-11-08,Marek Dupnitsa,Cherno More,1,3,0.0
+2014-2015,Regular season,15,2014-11-08,Litex Lovech,Botev Plovdiv,1,2,0.0
+2014-2015,Regular season,15,2014-11-09,Haskovo,CSKA Sofia,2,4,0.0
+2014-2015,Regular season,15,2014-11-09,Ludogorets,Loko Plovdiv,2,0,1.0
+2014-2015,Regular season,16,2014-11-22,Cherno More,Litex Lovech,0,3,0.0
+2014-2015,Regular season,16,2014-11-22,Loko Sofia,Haskovo,2,1,1.0
+2014-2015,Regular season,16,2014-11-22,Loko Plovdiv,Marek Dupnitsa,1,0,1.0
+2014-2015,Regular season,16,2014-11-22,CSKA Sofia,Ludogorets,1,1,0.5
+2014-2015,Regular season,16,2014-11-23,Botev Plovdiv,Levski Sofia,0,3,0.0
+2014-2015,Regular season,16,2014-11-23,Beroe,Slavia Sofia,1,1,0.5
+2014-2015,Regular season,17,2014-11-29,Slavia Sofia,Botev Plovdiv,3,0,1.0
+2014-2015,Regular season,17,2014-11-29,Haskovo,Beroe,1,0,1.0
+2014-2015,Regular season,17,2014-11-29,Loko Plovdiv,Cherno More,1,1,0.5
+2014-2015,Regular season,17,2014-11-29,Levski Sofia,Litex Lovech,2,2,0.5
+2014-2015,Regular season,17,2014-11-30,Marek Dupnitsa,CSKA Sofia,0,0,0.5
+2014-2015,Regular season,17,2014-11-30,Ludogorets,Loko Sofia,5,1,1.0
+2014-2015,Regular season,18,2014-12-05,Beroe,Ludogorets,0,4,0.0
+2014-2015,Regular season,18,2014-12-06,Cherno More,Levski Sofia,1,0,1.0
+2014-2015,Regular season,18,2014-12-06,Loko Sofia,Marek Dupnitsa,2,0,1.0
+2014-2015,Regular season,18,2014-12-06,CSKA Sofia,Loko Plovdiv,2,0,1.0
+2014-2015,Regular season,18,2014-12-07,Botev Plovdiv,Haskovo,2,0,1.0
+2014-2015,Regular season,18,2014-12-07,Litex Lovech,Slavia Sofia,2,0,1.0
+2014-2015,Regular season,19,2014-12-12,Loko Plovdiv,Loko Sofia,0,4,0.0
+2014-2015,Regular season,19,2014-12-13,Slavia Sofia,Levski Sofia,3,1,1.0
+2014-2015,Regular season,19,2014-12-13,Marek Dupnitsa,Beroe,0,3,0.0
+2014-2015,Regular season,19,2014-12-13,Haskovo,Litex Lovech,1,4,0.0
+2014-2015,Regular season,19,2014-12-13,CSKA Sofia,Cherno More,3,1,1.0
+2014-2015,Regular season,19,2014-12-14,Ludogorets,Botev Plovdiv,1,0,1.0
+2014-2015,Regular season,20,2015-02-27,Cherno More,Slavia Sofia,2,0,1.0
+2014-2015,Regular season,20,2015-02-27,Levski Sofia,Haskovo,8,0,1.0
+2014-2015,Regular season,20,2015-02-28,Beroe,Loko Plovdiv,3,0,1.0
+2014-2015,Regular season,20,2015-02-28,Litex Lovech,Ludogorets,1,0,1.0
+2014-2015,Regular season,20,2015-03-01,Loko Sofia,CSKA Sofia,2,0,1.0
+2014-2015,Regular season,20,2015-03-02,Botev Plovdiv,Marek Dupnitsa,3,0,1.0
+2014-2015,Regular season,21,2015-03-07,CSKA Sofia,Beroe,0,1,0.0
+2014-2015,Regular season,21,2015-03-08,Ludogorets,Levski Sofia,1,0,1.0
+2014-2015,Regular season,21,2015-03-09,Marek Dupnitsa,Litex Lovech,0,0,0.5
+2014-2015,Regular season,21,2015-03-09,Loko Sofia,Cherno More,2,1,1.0
+2014-2015,Regular season,21,2015-03-10,Loko Plovdiv,Botev Plovdiv,0,2,0.0
+2014-2015,Regular season,22,2015-03-13,Cherno More,Haskovo,1,0,1.0
+2014-2015,Regular season,22,2015-03-13,Litex Lovech,Loko Plovdiv,1,0,1.0
+2014-2015,Regular season,22,2015-03-14,Slavia Sofia,Ludogorets,0,3,0.0
+2014-2015,Regular season,22,2015-03-14,Levski Sofia,Marek Dupnitsa,4,0,1.0
+2014-2015,Regular season,22,2015-03-15,Beroe,Loko Sofia,0,0,0.5
+2014-2015,Regular season,22,2015-03-15,Botev Plovdiv,CSKA Sofia,2,0,1.0
+2014-2015,Regular season,21,2015-03-17,Haskovo,Slavia Sofia,1,5,0.0
+2014-2015,Relegation round,1,2015-03-20,Cherno More,Marek Dupnitsa,1,0,1.0
+2014-2015,Relegation round,1,2015-03-20,Levski Sofia,Haskovo,1,1,0.5
+2014-2015,Relegation round,1,2015-03-21,Slavia Sofia,Loko Plovdiv,3,0,1.0
+2014-2015,Championship round,1,2015-03-21,CSKA Sofia,Beroe,0,0,0.5
+2014-2015,Championship round,1,2015-03-22,Ludogorets,Botev Plovdiv,0,0,0.5
+2014-2015,Championship round,1,2015-03-22,Loko Sofia,Litex Lovech,0,0,0.5
+2014-2015,Relegation round,2,2015-04-03,Haskovo,Loko Plovdiv,2,0,1.0
+2014-2015,Relegation round,2,2015-04-03,Levski Sofia,Cherno More,5,2,1.0
+2014-2015,Relegation round,2,2015-04-04,Marek Dupnitsa,Slavia Sofia,1,0,1.0
+2014-2015,Championship round,2,2015-04-04,Ludogorets,CSKA Sofia,4,0,1.0
+2014-2015,Championship round,2,2015-04-05,Botev Plovdiv,Litex Lovech,0,1,0.0
+2014-2015,Championship round,2,2015-04-05,Beroe,Loko Sofia,1,4,0.0
+2014-2015,Relegation round,3,2015-04-10,Cherno More,Haskovo,2,0,1.0
+2014-2015,Championship round,3,2015-04-10,CSKA Sofia,Botev Plovdiv,0,0,0.5
+2014-2015,Relegation round,3,2015-04-11,Slavia Sofia,Levski Sofia,1,0,1.0
+2014-2015,Championship round,3,2015-04-11,Litex Lovech,Beroe,1,1,0.5
+2014-2015,Championship round,3,2015-04-13,Loko Sofia,Ludogorets,0,0,0.5
+2014-2015,Relegation round,3,2015-04-13,Loko Plovdiv,Marek Dupnitsa,4,0,1.0
+2014-2015,Relegation round,4,2015-04-17,Haskovo,Marek Dupnitsa,1,0,1.0
+2014-2015,Relegation round,4,2015-04-17,Levski Sofia,Loko Plovdiv,5,0,1.0
+2014-2015,Championship round,4,2015-04-18,Botev Plovdiv,Beroe,1,1,0.5
+2014-2015,Relegation round,4,2015-04-19,Cherno More,Slavia Sofia,1,1,0.5
+2014-2015,Championship round,4,2015-04-19,Ludogorets,Litex Lovech,3,1,1.0
+2014-2015,Championship round,4,2015-04-20,CSKA Sofia,Loko Sofia,0,1,0.0
+2014-2015,Relegation round,5,2015-04-24,Loko Plovdiv,Cherno More,0,1,0.0
+2014-2015,Relegation round,5,2015-04-25,Marek Dupnitsa,Levski Sofia,1,3,0.0
+2014-2015,Championship round,5,2015-04-25,Beroe,Ludogorets,2,0,1.0
+2014-2015,Championship round,5,2015-04-26,Loko Sofia,Botev Plovdiv,1,0,1.0
+2014-2015,Championship round,5,2015-04-26,Litex Lovech,CSKA Sofia,2,0,1.0
+2014-2015,Relegation round,5,2015-04-27,Slavia Sofia,Haskovo,0,0,0.5
+2014-2015,Championship round,6,2015-05-01,Beroe,CSKA Sofia,0,0,0.5
+2014-2015,Relegation round,6,2015-05-02,Marek Dupnitsa,Cherno More,0,2,0.0
+2014-2015,Relegation round,6,2015-05-02,Loko Plovdiv,Slavia Sofia,1,2,0.0
+2014-2015,Championship round,6,2015-05-03,Botev Plovdiv,Ludogorets,1,3,0.0
+2014-2015,Championship round,6,2015-05-03,Litex Lovech,Loko Sofia,0,0,0.5
+2014-2015,Relegation round,6,2015-05-04,Haskovo,Levski Sofia,0,5,0.0
+2014-2015,Relegation round,7,2015-05-08,Slavia Sofia,Marek Dupnitsa,4,0,1.0
+2014-2015,Relegation round,7,2015-05-09,Cherno More,Levski Sofia,0,2,0.0
+2014-2015,Championship round,7,2015-05-09,CSKA Sofia,Ludogorets,0,0,0.5
+2014-2015,Relegation round,7,2015-05-10,Loko Plovdiv,Haskovo,4,0,1.0
+2014-2015,Championship round,7,2015-05-11,Loko Sofia,Beroe,0,1,0.0
+2014-2015,Championship round,7,2015-05-11,Litex Lovech,Botev Plovdiv,1,0,1.0
+2014-2015,Championship round,8,2015-05-15,Ludogorets,Loko Sofia,4,1,1.0
+2014-2015,Championship round,8,2015-05-16,Botev Plovdiv,CSKA Sofia,3,2,1.0
+2014-2015,Relegation round,8,2015-05-16,Levski Sofia,Slavia Sofia,2,3,0.0
+2014-2015,Relegation round,8,2015-05-17,Marek Dupnitsa,Loko Plovdiv,1,4,0.0
+2014-2015,Championship round,8,2015-05-17,Beroe,Litex Lovech,3,1,1.0
+2014-2015,Relegation round,8,2015-05-18,Haskovo,Cherno More,1,3,0.0
+2014-2015,Relegation round,9,2015-05-21,Marek Dupnitsa,Haskovo,3,1,1.0
+2014-2015,Relegation round,9,2015-05-22,Slavia Sofia,Cherno More,1,3,0.0
+2014-2015,Relegation round,9,2015-05-22,Loko Plovdiv,Levski Sofia,0,1,0.0
+2014-2015,Championship round,9,2015-05-23,Litex Lovech,Ludogorets,4,2,1.0
+2014-2015,Championship round,9,2015-05-23,Loko Sofia,CSKA Sofia,1,1,0.5
+2014-2015,Championship round,9,2015-05-23,Beroe,Botev Plovdiv,2,1,1.0
+2014-2015,Relegation round,10,2015-05-26,Cherno More,Loko Plovdiv,1,2,0.0
+2014-2015,Relegation round,10,2015-05-26,Levski Sofia,Marek Dupnitsa,6,0,1.0
+2014-2015,Relegation round,10,2015-05-27,Haskovo,Slavia Sofia,0,1,0.0
+2014-2015,Championship round,10,2015-05-31,Botev Plovdiv,Loko Sofia,0,2,0.0
+2014-2015,Championship round,10,2015-05-31,CSKA Sofia,Litex Lovech,3,1,1.0
+2014-2015,Championship round,10,2015-05-31,Ludogorets,Beroe,1,1,0.5

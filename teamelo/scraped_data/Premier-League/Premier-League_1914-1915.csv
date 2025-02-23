@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1914-1915,1,1914-09-01,Manchester City,Bradford City,4,1,1.0
+1914-1915,1,1914-09-01,The Wednesday,Middlesbrough,3,1,1.0
+1914-1915,1,1914-09-02,Manchester Utd,Oldham Athletic,1,3,0.0
+1914-1915,1,1914-09-02,Liverpool,Bolton,4,3,1.0
+1914-1915,1,1914-09-02,Sunderland,Sheffield Utd,3,2,1.0
+1914-1915,1,1914-09-02,Tottenham,Everton,1,3,0.0
+1914-1915,1,1914-09-02,Aston Villa,Notts County,2,1,1.0
+1914-1915,1,1914-09-02,Newcastle Utd,West Brom,1,2,0.0
+1914-1915,1,1914-09-05,Bradford PA,Blackburn,1,2,0.0
+1914-1915,1,1914-09-05,Burnley,Bradford City,0,1,0.0
+1914-1915,2,1914-09-05,Newcastle Utd,Everton,0,1,0.0
+1914-1915,2,1914-09-05,Manchester Utd,Manchester City,0,0,0.5
+1914-1915,2,1914-09-05,Oldham Athletic,Bolton,5,3,1.0
+1914-1915,2,1914-09-05,Sheffield Utd,The Wednesday,0,1,0.0
+1914-1915,2,1914-09-05,Tottenham,Chelsea,1,1,0.5
+1914-1915,2,1914-09-05,Middlesbrough,West Brom,2,0,1.0
+1914-1915,2,1914-09-05,Liverpool,Notts County,1,1,0.5
+1914-1915,2,1914-09-05,Aston Villa,Sunderland,1,3,0.0
+1914-1915,2,1914-09-07,Burnley,Everton,1,0,1.0
+1914-1915,3,1914-09-07,Bolton,Blackburn,3,2,1.0
+1914-1915,3,1914-09-09,Bradford City,Chelsea,2,2,0.5
+1914-1915,3,1914-09-09,Newcastle Utd,The Wednesday,0,0,0.5
+1914-1915,2,1914-09-12,Notts County,Bradford PA,1,2,0.0
+1914-1915,3,1914-09-12,Manchester City,Burnley,1,0,1.0
+1914-1915,3,1914-09-12,Everton,Middlesbrough,2,3,0.0
+1914-1915,3,1914-09-12,West Brom,Sheffield Utd,1,1,0.5
+1914-1915,3,1914-09-12,Bolton,Manchester Utd,3,0,1.0
+1914-1915,3,1914-09-12,Blackburn,Oldham Athletic,4,1,1.0
+1914-1915,3,1914-09-12,Bradford City,Tottenham,2,2,0.5
+1914-1915,3,1914-09-12,Sunderland,Liverpool,2,2,0.5
+1914-1915,4,1914-09-12,The Wednesday,Aston Villa,5,2,1.0
+1914-1915,4,1914-09-12,Chelsea,Newcastle Utd,0,3,0.0
+1914-1915,4,1914-09-19,Manchester Utd,Blackburn,2,0,1.0
+1914-1915,4,1914-09-19,Bradford PA,Sunderland,2,1,1.0
+1914-1915,4,1914-09-19,Aston Villa,West Brom,2,1,1.0
+1914-1915,4,1914-09-19,Oldham Athletic,Notts County,2,0,1.0
+1914-1915,4,1914-09-19,Middlesbrough,Chelsea,3,0,1.0
+1914-1915,4,1914-09-19,Bolton,Manchester City,2,3,0.0
+1914-1915,4,1914-09-19,Tottenham,Burnley,1,3,0.0
+1914-1915,4,1914-09-19,Sheffield Utd,Everton,1,0,1.0
+1914-1915,5,1914-09-19,Liverpool,The Wednesday,2,1,1.0
+1914-1915,5,1914-09-19,Newcastle Utd,Bradford City,1,0,1.0
+1914-1915,5,1914-09-21,Blackburn,Liverpool,4,2,1.0
+1914-1915,5,1914-09-26,Notts County,Manchester Utd,4,2,1.0
+1914-1915,5,1914-09-26,Everton,Aston Villa,0,0,0.5
+1914-1915,5,1914-09-26,Sunderland,Oldham Athletic,1,2,0.0
+1914-1915,5,1914-09-26,Bradford City,Middlesbrough,1,1,0.5
+1914-1915,5,1914-09-26,Chelsea,Sheffield Utd,1,1,0.5
+1914-1915,5,1914-09-26,Manchester City,Tottenham,2,1,1.0
+1914-1915,6,1914-09-26,West Brom,Liverpool,4,0,1.0
+1914-1915,6,1914-09-26,Burnley,Newcastle Utd,2,0,1.0
+1914-1915,6,1914-09-26,Blackburn,Bolton,2,2,0.5
+1914-1915,6,1914-09-26,The Wednesday,Bradford PA,6,0,1.0
+1914-1915,6,1914-09-28,Tottenham,West Brom,2,0,1.0
+1914-1915,5,1914-10-03,Bradford PA,West Brom,1,4,0.0
+1914-1915,6,1914-10-03,Middlesbrough,Burnley,1,1,0.5
+1914-1915,6,1914-10-03,Aston Villa,Chelsea,2,1,1.0
+1914-1915,6,1914-10-03,Blackburn,Manchester City,0,1,0.0
+1914-1915,6,1914-10-03,Manchester Utd,Sunderland,3,0,1.0
+1914-1915,6,1914-10-03,Sheffield Utd,Bradford City,1,1,0.5
+1914-1915,7,1914-10-03,Oldham Athletic,The Wednesday,5,2,1.0
+1914-1915,7,1914-10-03,Liverpool,Everton,0,5,0.0
+1914-1915,7,1914-10-03,Bolton,Notts County,1,2,0.0
+1914-1915,7,1914-10-03,Newcastle Utd,Tottenham,4,0,1.0
+1914-1915,6,1914-10-07,Bradford PA,Bolton,1,2,0.0
+1914-1915,7,1914-10-10,Sunderland,Bolton,4,3,1.0
+1914-1915,7,1914-10-10,West Brom,Oldham Athletic,0,0,0.5
+1914-1915,7,1914-10-10,Manchester City,Newcastle Utd,1,1,0.5
+1914-1915,7,1914-10-10,Bradford City,Aston Villa,3,0,1.0
+1914-1915,7,1914-10-10,Burnley,Sheffield Utd,1,2,0.0
+1914-1915,7,1914-10-10,Everton,Bradford PA,4,1,1.0
+1914-1915,8,1914-10-10,The Wednesday,Manchester Utd,1,0,1.0
+1914-1915,8,1914-10-10,Notts County,Blackburn,1,1,0.5
+1914-1915,8,1914-10-10,Tottenham,Middlesbrough,3,3,0.5
+1914-1915,8,1914-10-10,Chelsea,Liverpool,3,1,1.0
+1914-1915,8,1914-10-17,Oldham Athletic,Everton,1,1,0.5
+1914-1915,8,1914-10-17,Blackburn,Sunderland,3,1,1.0
+1914-1915,8,1914-10-17,Bradford PA,Chelsea,3,0,1.0
+1914-1915,8,1914-10-17,Aston Villa,Burnley,3,3,0.5
+1914-1915,8,1914-10-17,Manchester Utd,West Brom,0,0,0.5
+1914-1915,8,1914-10-17,Notts County,Manchester City,0,2,0.0
+1914-1915,9,1914-10-17,Bolton,The Wednesday,0,3,0.0
+1914-1915,9,1914-10-17,Sheffield Utd,Tottenham,1,1,0.5
+1914-1915,9,1914-10-17,Liverpool,Bradford City,2,1,1.0
+1914-1915,9,1914-10-17,Middlesbrough,Newcastle Utd,1,1,0.5
+1914-1915,9,1914-10-24,Tottenham,Aston Villa,0,2,0.0
+1914-1915,9,1914-10-24,Sunderland,Notts County,3,1,1.0
+1914-1915,9,1914-10-24,Manchester City,Middlesbrough,1,1,0.5
+1914-1915,9,1914-10-24,Chelsea,Oldham Athletic,2,2,0.5
+1914-1915,9,1914-10-24,Bradford City,Bradford PA,3,2,1.0
+1914-1915,9,1914-10-24,Everton,Manchester Utd,4,2,1.0
+1914-1915,10,1914-10-24,Newcastle Utd,Sheffield Utd,4,3,1.0
+1914-1915,10,1914-10-24,Burnley,Liverpool,3,0,1.0
+1914-1915,10,1914-10-24,The Wednesday,Blackburn,1,1,0.5
+1914-1915,11,1914-10-24,West Brom,Bolton,3,0,1.0
+1914-1915,10,1914-10-31,Aston Villa,Newcastle Utd,2,1,1.0
+1914-1915,10,1914-10-31,Sunderland,Manchester City,0,2,0.0
+1914-1915,10,1914-10-31,Bradford PA,Burnley,2,2,0.5
+1914-1915,10,1914-10-31,Sheffield Utd,Middlesbrough,0,1,0.0
+1914-1915,10,1914-10-31,Oldham Athletic,Bradford City,1,0,1.0
+1914-1915,10,1914-10-31,Manchester Utd,Chelsea,2,2,0.5
+1914-1915,11,1914-10-31,Liverpool,Tottenham,7,2,1.0
+1914-1915,11,1914-10-31,Blackburn,West Brom,2,1,1.0
+1914-1915,11,1914-10-31,Notts County,The Wednesday,1,2,0.0
+1914-1915,12,1914-10-31,Bolton,Everton,0,0,0.5
+1914-1915,11,1914-11-07,Manchester City,Sheffield Utd,0,0,0.5
+1914-1915,11,1914-11-07,West Brom,Notts County,4,1,1.0
+1914-1915,11,1914-11-07,Burnley,Oldham Athletic,2,3,0.0
+1914-1915,11,1914-11-07,Middlesbrough,Aston Villa,1,1,0.5
+1914-1915,11,1914-11-07,Bradford City,Manchester Utd,4,2,1.0
+1914-1915,12,1914-11-07,The Wednesday,Sunderland,1,2,0.0
+1914-1915,12,1914-11-07,Newcastle Utd,Liverpool,0,0,0.5
+1914-1915,12,1914-11-07,Tottenham,Bradford PA,3,0,1.0
+1914-1915,12,1914-11-07,Everton,Blackburn,1,3,0.0
+1914-1915,13,1914-11-07,Chelsea,Bolton,2,1,1.0
+1914-1915,12,1914-11-14,Manchester Utd,Burnley,0,2,0.0
+1914-1915,12,1914-11-14,Sunderland,West Brom,1,2,0.0
+1914-1915,12,1914-11-14,The Wednesday,Manchester City,2,1,1.0
+1914-1915,12,1914-11-14,Aston Villa,Sheffield Utd,1,0,1.0
+1914-1915,13,1914-11-14,Notts County,Everton,0,0,0.5
+1914-1915,13,1914-11-14,Blackburn,Chelsea,3,2,1.0
+1914-1915,13,1914-11-14,Oldham Athletic,Tottenham,4,1,1.0
+1914-1915,13,1914-11-14,Bradford PA,Newcastle Utd,1,0,1.0
+1914-1915,13,1914-11-14,Liverpool,Middlesbrough,1,1,0.5
+1914-1915,14,1914-11-14,Bolton,Bradford City,3,5,0.0
+1914-1915,13,1914-11-21,Everton,Sunderland,7,1,1.0
+1914-1915,13,1914-11-21,Burnley,Bolton,5,0,1.0
+1914-1915,13,1914-11-21,Tottenham,Manchester Utd,2,0,1.0
+1914-1915,13,1914-11-21,Middlesbrough,Bradford PA,1,3,0.0
+1914-1915,13,1914-11-21,Chelsea,Notts County,4,1,1.0
+1914-1915,14,1914-11-21,Newcastle Utd,Oldham Athletic,1,2,0.0
+1914-1915,14,1914-11-21,West Brom,The Wednesday,0,0,0.5
+1914-1915,14,1914-11-21,Bradford City,Blackburn,3,0,1.0
+1914-1915,14,1914-11-21,Sheffield Utd,Liverpool,2,1,1.0
+1914-1915,13,1914-11-25,Manchester City,Aston Villa,1,0,1.0
+1914-1915,14,1914-11-28,Oldham Athletic,Middlesbrough,5,1,1.0
+1914-1915,14,1914-11-28,Manchester Utd,Newcastle Utd,1,0,1.0
+1914-1915,14,1914-11-28,Blackburn,Burnley,6,0,1.0
+1914-1915,14,1914-11-28,Sunderland,Chelsea,2,1,1.0
+1914-1915,14,1914-11-28,West Brom,Manchester City,0,1,0.0
+1914-1915,14,1914-11-28,Bradford PA,Sheffield Utd,2,0,1.0
+1914-1915,14,1914-11-28,Liverpool,Aston Villa,3,6,0.0
+1914-1915,15,1914-11-28,Bolton,Tottenham,4,2,1.0
+1914-1915,15,1914-11-28,Notts County,Bradford City,0,0,0.5
+1914-1915,15,1914-11-28,The Wednesday,Everton,1,4,0.0
+1914-1915,15,1914-12-05,Manchester City,Liverpool,1,1,0.5
+1914-1915,15,1914-12-05,Middlesbrough,Manchester Utd,1,1,0.5
+1914-1915,15,1914-12-05,Bradford City,Sunderland,3,1,1.0
+1914-1915,15,1914-12-05,Burnley,Notts County,0,0,0.5
+1914-1915,15,1914-12-05,Sheffield Utd,Oldham Athletic,3,0,1.0
+1914-1915,15,1914-12-05,Aston Villa,Bradford PA,1,2,0.0
+1914-1915,16,1914-12-05,Everton,West Brom,2,1,1.0
+1914-1915,16,1914-12-05,Tottenham,Blackburn,0,4,0.0
+1914-1915,16,1914-12-05,Chelsea,The Wednesday,0,0,0.5
+1914-1915,16,1914-12-05,Newcastle Utd,Bolton,1,2,0.0
+1914-1915,16,1914-12-12,Bolton,Middlesbrough,4,0,1.0
+1914-1915,16,1914-12-12,Everton,Manchester City,4,1,1.0
+1914-1915,16,1914-12-12,Sunderland,Burnley,2,1,1.0
+1914-1915,16,1914-12-12,Oldham Athletic,Aston Villa,3,3,0.5
+1914-1915,16,1914-12-12,West Brom,Chelsea,2,0,1.0
+1914-1915,16,1914-12-12,Manchester Utd,Sheffield Utd,1,2,0.0
+1914-1915,17,1914-12-12,Notts County,Tottenham,1,2,0.0
+1914-1915,17,1914-12-12,Blackburn,Newcastle Utd,2,3,0.0
+1914-1915,17,1914-12-12,Bradford PA,Liverpool,1,0,1.0
+1914-1915,17,1914-12-12,The Wednesday,Bradford City,3,3,0.5
+1914-1915,17,1914-12-19,Manchester City,Bradford PA,2,3,0.0
+1914-1915,17,1914-12-19,Tottenham,Sunderland,0,6,0.0
+1914-1915,17,1914-12-19,Sheffield Utd,Bolton,3,1,1.0
+1914-1915,17,1914-12-19,Aston Villa,Manchester Utd,3,3,0.5
+1914-1915,17,1914-12-19,Chelsea,Everton,2,0,1.0
+1914-1915,17,1914-12-19,Middlesbrough,Blackburn,1,4,0.0
+1914-1915,18,1914-12-19,Liverpool,Oldham Athletic,1,2,0.0
+1914-1915,18,1914-12-19,Burnley,The Wednesday,2,3,0.0
+1914-1915,18,1914-12-19,Newcastle Utd,Notts County,1,1,0.5
+1914-1915,18,1914-12-19,Bradford City,West Brom,5,0,1.0
+1914-1915,18,1914-12-25,Blackburn,Aston Villa,1,2,0.0
+1914-1915,18,1914-12-25,Middlesbrough,Notts County,1,0,1.0
+1914-1915,18,1914-12-25,Bradford PA,Oldham Athletic,1,1,0.5
+1914-1915,18,1914-12-25,Burnley,West Brom,0,2,0.0
+1914-1915,18,1914-12-25,Chelsea,Manchester City,0,0,0.5
+1914-1915,19,1914-12-25,Bolton,Liverpool,0,1,0.0
+1914-1915,19,1914-12-25,Newcastle Utd,Sunderland,2,5,0.0
+1914-1915,19,1914-12-25,Everton,Bradford City,1,1,0.5
+1914-1915,19,1914-12-25,The Wednesday,Tottenham,3,2,1.0
+1914-1915,18,1914-12-26,Sheffield Utd,Blackburn,1,2,0.0
+1914-1915,19,1914-12-26,Manchester City,Chelsea,2,1,1.0
+1914-1915,19,1914-12-26,West Brom,Burnley,3,0,1.0
+1914-1915,19,1914-12-26,Notts County,Middlesbrough,5,1,1.0
+1914-1915,19,1914-12-26,Aston Villa,Bolton,1,7,0.0
+1914-1915,19,1914-12-26,Oldham Athletic,Bradford PA,6,2,1.0
+1914-1915,20,1914-12-26,Liverpool,Manchester Utd,1,1,0.5
+1914-1915,20,1914-12-26,Sunderland,Newcastle Utd,2,4,0.0
+1914-1915,20,1914-12-26,Bradford City,Everton,0,1,0.0
+1914-1915,20,1914-12-26,Tottenham,The Wednesday,6,1,1.0
+1914-1915,19,1914-12-28,Sheffield Utd,Notts County,1,0,1.0
+1914-1915,20,1914-12-28,Chelsea,Burnley,1,4,0.0
+1914-1915,19,1915-01-01,Manchester Utd,Bradford PA,1,2,0.0
+1914-1915,20,1915-01-01,Blackburn,Sheffield Utd,1,2,0.0
+1914-1915,20,1915-01-01,Middlesbrough,Sunderland,2,3,0.0
+1914-1915,20,1915-01-01,Bolton,Aston Villa,2,2,0.5
+1914-1915,20,1915-01-01,Oldham Athletic,Manchester City,0,0,0.5
+1914-1915,21,1915-01-01,The Wednesday,Newcastle Utd,2,1,1.0
+1914-1915,21,1915-01-01,Everton,Tottenham,1,1,0.5
+1914-1915,21,1915-01-02,Bradford City,Burnley,0,0,0.5
+1914-1915,21,1915-01-02,West Brom,Middlesbrough,1,0,1.0
+1914-1915,21,1915-01-02,Bolton,Oldham Athletic,2,0,1.0
+1914-1915,21,1915-01-02,Manchester City,Manchester Utd,1,1,0.5
+1914-1915,21,1915-01-02,Blackburn,Bradford PA,2,2,0.5
+1914-1915,21,1915-01-02,Notts County,Liverpool,3,1,1.0
+1914-1915,21,1915-01-02,Sunderland,Aston Villa,4,0,1.0
+1914-1915,22,1915-01-02,The Wednesday,Sheffield Utd,1,1,0.5
+1914-1915,22,1915-01-02,Everton,Newcastle Utd,3,0,1.0
+1914-1915,22,1915-01-02,Chelsea,Tottenham,1,1,0.5
+1914-1915,21,1915-01-16,Manchester Utd,Bolton,4,1,1.0
+1914-1915,22,1915-01-16,Middlesbrough,Everton,5,1,1.0
+1914-1915,22,1915-01-16,Sheffield Utd,West Brom,2,0,1.0
+1914-1915,22,1915-01-16,Bradford PA,Notts County,3,1,1.0
+1914-1915,22,1915-01-16,Oldham Athletic,Blackburn,3,2,1.0
+1914-1915,22,1915-01-16,Liverpool,Sunderland,2,1,1.0
+1914-1915,23,1915-01-16,Tottenham,Bradford City,0,0,0.5
+1914-1915,23,1915-01-16,Aston Villa,The Wednesday,0,0,0.5
+1914-1915,22,1915-01-18,Burnley,Manchester City,1,2,0.0
+1914-1915,22,1915-01-23,Blackburn,Manchester Utd,3,3,0.5
+1914-1915,23,1915-01-23,Notts County,Oldham Athletic,2,1,1.0
+1914-1915,23,1915-01-23,Manchester City,Bolton,2,1,1.0
+1914-1915,23,1915-01-23,Everton,Sheffield Utd,0,0,0.5
+1914-1915,23,1915-01-23,Sunderland,Bradford PA,3,3,0.5
+1914-1915,23,1915-01-23,Chelsea,Middlesbrough,2,2,0.5
+1914-1915,23,1915-01-23,Bradford City,Newcastle Utd,1,1,0.5
+1914-1915,23,1915-01-23,West Brom,Aston Villa,2,0,1.0
+1914-1915,24,1915-01-23,The Wednesday,Liverpool,2,1,1.0
+1914-1915,24,1915-01-23,Burnley,Tottenham,3,1,1.0
+1914-1915,23,1915-01-30,Manchester Utd,Notts County,2,2,0.5
+1914-1915,24,1915-02-01,Oldham Athletic,Sunderland,4,5,0.0
+1914-1915,24,1915-02-03,Middlesbrough,Bradford City,3,0,1.0
+1914-1915,24,1915-02-06,Bradford City,Sheffield Utd,1,1,0.5
+1914-1915,24,1915-02-06,Burnley,Middlesbrough,4,0,1.0
+1914-1915,24,1915-02-06,Everton,Liverpool,1,3,0.0
+1914-1915,24,1915-02-06,Sunderland,Manchester Utd,1,0,1.0
+1914-1915,24,1915-02-06,West Brom,Bradford PA,1,0,1.0
+1914-1915,24,1915-02-06,Manchester City,Blackburn,1,3,0.0
+1914-1915,24,1915-02-06,Chelsea,Aston Villa,3,1,1.0
+1914-1915,25,1915-02-06,The Wednesday,Oldham Athletic,2,2,0.5
+1914-1915,25,1915-02-10,Aston Villa,Everton,1,5,0.0
+1914-1915,25,1915-02-13,Newcastle Utd,Manchester City,2,1,1.0
+1914-1915,25,1915-02-13,Sheffield Utd,Burnley,1,0,1.0
+1914-1915,25,1915-02-13,Middlesbrough,Tottenham,7,5,1.0
+1914-1915,25,1915-02-13,Liverpool,Chelsea,3,3,0.5
+1914-1915,26,1915-02-13,Aston Villa,Bradford City,0,0,0.5
+1914-1915,26,1915-02-13,Blackburn,Notts County,5,1,1.0
+1914-1915,26,1915-02-13,Manchester Utd,The Wednesday,2,0,1.0
+1914-1915,26,1915-02-20,Sunderland,Blackburn,5,1,1.0
+1914-1915,26,1915-02-20,West Brom,Manchester Utd,0,0,0.5
+1914-1915,26,1915-02-20,Tottenham,Notts County,2,0,1.0
+1914-1915,26,1915-02-22,Manchester City,Notts County,0,0,0.5
+1914-1915,27,1915-02-22,Burnley,Aston Villa,2,1,1.0
+1914-1915,25,1915-02-27,Sheffield Utd,Newcastle Utd,1,0,1.0
+1914-1915,26,1915-02-27,Oldham Athletic,Chelsea,0,0,0.5
+1914-1915,26,1915-02-27,Bolton,West Brom,1,1,0.5
+1914-1915,26,1915-02-27,Liverpool,Burnley,3,0,1.0
+1914-1915,27,1915-02-27,Notts County,Sunderland,2,1,1.0
+1914-1915,27,1915-02-27,Middlesbrough,Manchester City,1,0,1.0
+1914-1915,27,1915-02-27,Blackburn,The Wednesday,1,1,0.5
+1914-1915,27,1915-02-27,Manchester Utd,Everton,1,2,0.0
+1914-1915,28,1915-02-27,Aston Villa,Tottenham,3,1,1.0
+1914-1915,25,1915-03-01,Chelsea,Bradford PA,0,1,0.0
+1914-1915,28,1915-03-01,The Wednesday,Bolton,7,0,1.0
+1914-1915,26,1915-03-06,Burnley,Bradford PA,2,0,1.0
+1914-1915,27,1915-03-06,Tottenham,Liverpool,1,1,0.5
+1914-1915,28,1915-03-06,Manchester City,Sunderland,2,0,1.0
+1914-1915,29,1915-03-06,The Wednesday,Notts County,0,0,0.5
+1914-1915,29,1915-03-06,West Brom,Blackburn,0,0,0.5
+1914-1915,27,1915-03-08,Sheffield Utd,Chelsea,1,1,0.5
+1914-1915,27,1915-03-09,Oldham Athletic,West Brom,1,1,0.5
+1914-1915,26,1915-03-10,Newcastle Utd,Middlesbrough,1,2,0.0
+1914-1915,28,1915-03-10,Bradford City,Liverpool,3,2,1.0
+1914-1915,29,1915-03-10,Bolton,Sunderland,1,1,0.5
+1914-1915,28,1915-03-13,Manchester Utd,Bradford City,1,0,1.0
+1914-1915,29,1915-03-13,Bradford PA,Tottenham,5,1,1.0
+1914-1915,29,1915-03-13,Aston Villa,Middlesbrough,5,0,1.0
+1914-1915,29,1915-03-13,Liverpool,Manchester City,3,2,1.0
+1914-1915,29,1915-03-13,Bolton,Burnley,3,1,1.0
+1914-1915,30,1915-03-13,Blackburn,Everton,2,1,1.0
+1914-1915,30,1915-03-13,Sunderland,The Wednesday,3,1,1.0
+1914-1915,30,1915-03-13,Notts County,West Brom,1,1,0.5
+1914-1915,30,1915-03-15,Tottenham,Manchester City,2,2,0.5
+1914-1915,27,1915-03-17,Newcastle Utd,Chelsea,2,0,1.0
+1914-1915,28,1915-03-17,Everton,Oldham Athletic,3,4,0.0
+1914-1915,30,1915-03-17,Middlesbrough,Sheffield Utd,2,2,0.5
+1914-1915,30,1915-03-17,Notts County,Bolton,0,0,0.5
+1914-1915,31,1915-03-17,Bradford PA,The Wednesday,1,1,0.5
+1914-1915,28,1915-03-20,Newcastle Utd,Bradford PA,1,1,0.5
+1914-1915,29,1915-03-20,Burnley,Manchester Utd,3,0,1.0
+1914-1915,30,1915-03-20,Middlesbrough,Liverpool,3,0,1.0
+1914-1915,30,1915-03-20,Everton,Notts County,4,0,1.0
+1914-1915,30,1915-03-20,Sheffield Utd,Aston Villa,3,0,1.0
+1914-1915,31,1915-03-20,West Brom,Sunderland,1,2,0.0
+1914-1915,31,1915-03-20,Tottenham,Oldham Athletic,1,0,1.0
+1914-1915,31,1915-03-20,Chelsea,Blackburn,1,3,0.0
+1914-1915,31,1915-03-20,Bradford City,Bolton,4,2,1.0
+1914-1915,31,1915-03-20,Manchester City,The Wednesday,4,0,1.0
+1914-1915,32,1915-03-22,Everton,Bolton,5,3,1.0
+1914-1915,30,1915-03-24,Bradford City,Oldham Athletic,1,0,1.0
+1914-1915,31,1915-03-24,Liverpool,West Brom,3,1,1.0
+1914-1915,29,1915-03-27,Oldham Athletic,Newcastle Utd,1,0,1.0
+1914-1915,30,1915-03-27,Bradford PA,Middlesbrough,2,0,1.0
+1914-1915,30,1915-03-27,Manchester Utd,Tottenham,1,1,0.5
+1914-1915,33,1915-03-27,The Wednesday,West Brom,0,0,0.5
+1914-1915,31,1915-03-29,Blackburn,Bradford City,2,1,1.0
+1914-1915,32,1915-03-29,Liverpool,Newcastle Utd,2,2,0.5
+1914-1915,32,1915-03-29,Sheffield Utd,Manchester City,0,0,0.5
+1914-1915,31,1915-04-02,Everton,Burnley,0,2,0.0
+1914-1915,31,1915-04-02,Aston Villa,Blackburn,2,1,1.0
+1914-1915,31,1915-04-02,Tottenham,Newcastle Utd,0,0,0.5
+1914-1915,31,1915-04-02,Notts County,Sheffield Utd,3,1,1.0
+1914-1915,31,1915-04-02,Bolton,Bradford PA,3,2,1.0
+1914-1915,32,1915-04-02,Chelsea,Bradford City,2,0,1.0
+1914-1915,32,1915-04-02,Sunderland,Middlesbrough,4,1,1.0
+1914-1915,33,1915-04-02,Manchester Utd,Liverpool,2,0,1.0
+1914-1915,32,1915-04-03,Aston Villa,Liverpool,6,2,1.0
+1914-1915,32,1915-04-03,Sheffield Utd,Bradford PA,3,2,1.0
+1914-1915,32,1915-04-03,Burnley,Blackburn,3,2,1.0
+1914-1915,32,1915-04-03,Newcastle Utd,Manchester Utd,2,0,1.0
+1914-1915,33,1915-04-03,Chelsea,Sunderland,3,0,1.0
+1914-1915,33,1915-04-03,Manchester City,West Brom,4,0,1.0
+1914-1915,33,1915-04-03,Bradford City,Notts County,3,1,1.0
+1914-1915,34,1915-04-03,Everton,The Wednesday,0,1,0.0
+1914-1915,34,1915-04-03,Middlesbrough,Oldham Athletic,4,1,1.0
+1914-1915,34,1915-04-03,Tottenham,Bolton,4,2,1.0
+1914-1915,33,1915-04-05,Burnley,Chelsea,2,0,1.0
+1914-1915,33,1915-04-05,West Brom,Newcastle Utd,2,0,1.0
+1914-1915,33,1915-04-05,Bradford PA,Manchester Utd,5,0,1.0
+1914-1915,33,1915-04-05,Notts County,Aston Villa,1,1,0.5
+1914-1915,34,1915-04-05,Manchester City,Oldham Athletic,0,0,0.5
+1914-1915,34,1915-04-05,Sheffield Utd,Sunderland,1,1,0.5
+1914-1915,35,1915-04-05,Middlesbrough,The Wednesday,3,1,1.0
+1914-1915,35,1915-04-05,Liverpool,Blackburn,3,0,1.0
+1914-1915,34,1915-04-06,Oldham Athletic,Manchester Utd,1,0,1.0
+1914-1915,35,1915-04-06,Bradford City,Manchester City,0,0,0.5
+1914-1915,35,1915-04-06,Sunderland,Everton,0,3,0.0
+1914-1915,35,1915-04-06,West Brom,Tottenham,3,2,1.0
+1914-1915,34,1915-04-10,Notts County,Burnley,0,0,0.5
+1914-1915,34,1915-04-10,Bradford PA,Aston Villa,2,2,0.5
+1914-1915,34,1915-04-10,Bolton,Newcastle Utd,0,0,0.5
+1914-1915,35,1915-04-10,West Brom,Everton,1,2,0.0
+1914-1915,35,1915-04-10,Manchester Utd,Middlesbrough,2,2,0.5
+1914-1915,35,1915-04-10,Oldham Athletic,Sheffield Utd,3,0,1.0
+1914-1915,36,1915-04-10,Blackburn,Tottenham,4,1,1.0
+1914-1915,36,1915-04-10,Sunderland,Bradford City,1,1,0.5
+1914-1915,36,1915-04-10,The Wednesday,Chelsea,3,2,1.0
+1914-1915,36,1915-04-12,Liverpool,Sheffield Utd,2,1,1.0
+1914-1915,35,1915-04-14,Newcastle Utd,Burnley,1,2,0.0
+1914-1915,35,1915-04-14,Bradford PA,Everton,1,2,0.0
+1914-1915,36,1915-04-14,Bolton,Chelsea,3,1,1.0
+1914-1915,35,1915-04-17,Chelsea,West Brom,4,1,1.0
+1914-1915,35,1915-04-17,Aston Villa,Oldham Athletic,0,0,0.5
+1914-1915,36,1915-04-17,Newcastle Utd,Blackburn,2,1,1.0
+1914-1915,36,1915-04-17,Sheffield Utd,Manchester Utd,3,1,1.0
+1914-1915,36,1915-04-17,Manchester City,Everton,0,1,0.0
+1914-1915,37,1915-04-17,Liverpool,Bradford PA,2,1,1.0
+1914-1915,37,1915-04-17,Middlesbrough,Bolton,0,0,0.5
+1914-1915,37,1915-04-17,Burnley,Sunderland,2,1,1.0
+1914-1915,37,1915-04-17,Bradford City,The Wednesday,1,0,1.0
+1914-1915,37,1915-04-19,Chelsea,Manchester Utd,1,3,0.0
+1914-1915,37,1915-04-19,Tottenham,Sheffield Utd,1,1,0.5
+1914-1915,37,1915-04-20,Oldham Athletic,Burnley,1,2,0.0
+1914-1915,37,1915-04-21,Aston Villa,Manchester City,4,1,1.0
+1914-1915,37,1915-04-24,Notts County,Newcastle Utd,1,0,1.0
+1914-1915,37,1915-04-24,West Brom,Bradford City,3,0,1.0
+1914-1915,38,1915-04-24,The Wednesday,Burnley,0,0,0.5
+1914-1915,38,1915-04-24,Bradford PA,Manchester City,3,1,1.0
+1914-1915,38,1915-04-24,Sunderland,Tottenham,5,0,1.0
+1914-1915,38,1915-04-24,Blackburn,Middlesbrough,4,0,1.0
+1914-1915,38,1915-04-24,Oldham Athletic,Liverpool,0,2,0.0
+1914-1915,37,1915-04-26,Everton,Chelsea,2,2,0.5
+1914-1915,37,1915-04-26,Manchester Utd,Aston Villa,1,0,1.0
+1914-1915,38,1915-04-26,Bolton,Sheffield Utd,0,1,0.0
+1914-1915,38,1915-04-28,Bradford PA,Bradford City,3,0,1.0
+1914-1915,38,1915-04-28,Newcastle Utd,Aston Villa,3,0,1.0
+1914-1915,38,1915-04-28,Notts County,Chelsea,2,0,1.0

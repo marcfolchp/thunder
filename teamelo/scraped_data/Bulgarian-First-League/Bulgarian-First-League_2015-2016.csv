@@ -1,0 +1,182 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,A Group,1,2015-07-17,Slavia Sofia,Loko Plovdiv,3.0,0.0,1.0
+2015-2016,A Group,1,2015-07-18,Botev Plovdiv,Levski Sofia,1.0,1.0,0.5
+2015-2016,A Group,1,2015-07-18,Litex Lovech,Ludogorets,2.0,0.0,1.0
+2015-2016,A Group,1,2015-07-19,Blagoevgrad,Cherno More,1.0,1.0,0.5
+2015-2016,A Group,1,2015-07-19,Beroe,Montana,0.0,0.0,0.5
+2015-2016,A Group,2,2015-07-25,Montana,Botev Plovdiv,6.0,0.0,1.0
+2015-2016,A Group,2,2015-07-25,Levski Sofia,Litex Lovech,2.0,2.0,0.5
+2015-2016,A Group,2,2015-07-26,Cherno More,Ludogorets,2.0,3.0,0.0
+2015-2016,A Group,2,2015-07-26,Loko Plovdiv,Beroe,1.0,2.0,0.0
+2015-2016,A Group,2,2015-07-27,Blagoevgrad,Slavia Sofia,0.0,3.0,0.0
+2015-2016,A Group,3,2015-08-01,Botev Plovdiv,Loko Plovdiv,1.0,1.0,0.5
+2015-2016,A Group,3,2015-08-01,Ludogorets,Levski Sofia,2.0,0.0,1.0
+2015-2016,A Group,3,2015-08-02,Slavia Sofia,Cherno More,0.0,1.0,0.0
+2015-2016,A Group,3,2015-08-02,Beroe,Blagoevgrad,1.0,0.0,1.0
+2015-2016,A Group,3,2015-08-03,Litex Lovech,Montana,2.0,1.0,1.0
+2015-2016,A Group,4,2015-08-07,Montana,Ludogorets,1.0,1.0,0.5
+2015-2016,A Group,4,2015-08-08,Cherno More,Levski Sofia,0.0,1.0,0.0
+2015-2016,A Group,4,2015-08-08,Loko Plovdiv,Litex Lovech,1.0,1.0,0.5
+2015-2016,A Group,4,2015-08-09,Slavia Sofia,Beroe,0.0,0.0,0.5
+2015-2016,A Group,4,2015-08-09,Blagoevgrad,Botev Plovdiv,0.0,1.0,0.0
+2015-2016,A Group,5,2015-08-14,Litex Lovech,Blagoevgrad,1.0,0.0,1.0
+2015-2016,A Group,5,2015-08-15,Levski Sofia,Montana,2.0,0.0,1.0
+2015-2016,A Group,5,2015-08-16,Botev Plovdiv,Slavia Sofia,0.0,1.0,0.0
+2015-2016,A Group,5,2015-08-16,Ludogorets,Loko Plovdiv,1.0,0.0,1.0
+2015-2016,A Group,5,2015-08-17,Beroe,Cherno More,1.0,1.0,0.5
+2015-2016,A Group,6,2015-08-21,Blagoevgrad,Ludogorets,0.0,3.0,0.0
+2015-2016,A Group,6,2015-08-22,Cherno More,Montana,1.0,0.0,1.0
+2015-2016,A Group,6,2015-08-22,Beroe,Botev Plovdiv,0.0,0.0,0.5
+2015-2016,A Group,6,2015-08-23,Slavia Sofia,Litex Lovech,0.0,0.0,0.5
+2015-2016,A Group,6,2015-08-23,Loko Plovdiv,Levski Sofia,1.0,0.0,1.0
+2015-2016,A Group,7,2015-08-28,Ludogorets,Slavia Sofia,1.0,1.0,0.5
+2015-2016,A Group,7,2015-08-29,Botev Plovdiv,Cherno More,2.0,1.0,1.0
+2015-2016,A Group,7,2015-08-29,Litex Lovech,Beroe,0.0,1.0,0.0
+2015-2016,A Group,7,2015-08-30,Montana,Loko Plovdiv,2.0,0.0,1.0
+2015-2016,A Group,7,2015-08-30,Levski Sofia,Blagoevgrad,0.0,0.0,0.5
+2015-2016,A Group,8,2015-09-11,Cherno More,Loko Plovdiv,2.0,1.0,1.0
+2015-2016,A Group,8,2015-09-12,Botev Plovdiv,Litex Lovech,0.0,2.0,0.0
+2015-2016,A Group,8,2015-09-12,Beroe,Ludogorets,0.0,0.0,0.5
+2015-2016,A Group,8,2015-09-13,Slavia Sofia,Levski Sofia,0.0,1.0,0.0
+2015-2016,A Group,8,2015-09-13,Blagoevgrad,Montana,0.0,0.0,0.5
+2015-2016,A Group,9,2015-09-18,Litex Lovech,Cherno More,1.0,0.0,1.0
+2015-2016,A Group,9,2015-09-19,Montana,Slavia Sofia,1.0,2.0,0.0
+2015-2016,A Group,9,2015-09-19,Ludogorets,Botev Plovdiv,2.0,1.0,1.0
+2015-2016,A Group,9,2015-09-20,Loko Plovdiv,Blagoevgrad,2.0,1.0,1.0
+2015-2016,A Group,9,2015-09-20,Levski Sofia,Beroe,2.0,0.0,1.0
+2015-2016,A Group,10,2015-09-26,Cherno More,Blagoevgrad,1.0,0.0,1.0
+2015-2016,A Group,10,2015-09-26,Ludogorets,Litex Lovech,1.0,1.0,0.5
+2015-2016,A Group,10,2015-09-27,Montana,Beroe,1.0,0.0,1.0
+2015-2016,A Group,10,2015-09-27,Loko Plovdiv,Slavia Sofia,2.0,0.0,1.0
+2015-2016,A Group,10,2015-09-28,Levski Sofia,Botev Plovdiv,1.0,0.0,1.0
+2015-2016,A Group,11,2015-10-02,Beroe,Loko Plovdiv,2.0,0.0,1.0
+2015-2016,A Group,11,2015-10-03,Slavia Sofia,Blagoevgrad,0.0,0.0,0.5
+2015-2016,A Group,11,2015-10-03,Ludogorets,Cherno More,1.0,1.0,0.5
+2015-2016,A Group,11,2015-10-04,Botev Plovdiv,Montana,1.0,0.0,1.0
+2015-2016,A Group,11,2015-10-04,Litex Lovech,Levski Sofia,1.0,2.0,0.0
+2015-2016,A Group,12,2015-10-17,Cherno More,Slavia Sofia,1.0,0.0,1.0
+2015-2016,A Group,12,2015-10-17,Loko Plovdiv,Botev Plovdiv,2.0,1.0,1.0
+2015-2016,A Group,12,2015-10-18,Montana,Litex Lovech,0.0,2.0,0.0
+2015-2016,A Group,12,2015-10-18,Levski Sofia,Ludogorets,1.0,1.0,0.5
+2015-2016,A Group,12,2015-10-19,Blagoevgrad,Beroe,0.0,1.0,0.0
+2015-2016,A Group,13,2015-10-23,Botev Plovdiv,Blagoevgrad,1.0,0.0,1.0
+2015-2016,A Group,13,2015-10-23,Litex Lovech,Loko Plovdiv,0.0,0.0,0.5
+2015-2016,A Group,13,2015-10-23,Levski Sofia,Cherno More,1.0,0.0,1.0
+2015-2016,A Group,13,2015-10-24,Ludogorets,Montana,2.0,0.0,1.0
+2015-2016,A Group,13,2015-10-26,Beroe,Slavia Sofia,1.0,2.0,0.0
+2015-2016,A Group,14,2015-10-30,Slavia Sofia,Botev Plovdiv,2.0,0.0,1.0
+2015-2016,A Group,14,2015-10-30,Blagoevgrad,Litex Lovech,1.0,1.0,0.5
+2015-2016,A Group,14,2015-11-02,Montana,Levski Sofia,0.0,2.0,0.0
+2015-2016,A Group,14,2015-11-02,Loko Plovdiv,Ludogorets,2.0,0.0,1.0
+2015-2016,A Group,14,2015-11-03,Cherno More,Beroe,0.0,3.0,0.0
+2015-2016,A Group,15,2015-11-06,Litex Lovech,Slavia Sofia,4.0,0.0,1.0
+2015-2016,A Group,15,2015-11-07,Montana,Cherno More,0.0,4.0,0.0
+2015-2016,A Group,15,2015-11-07,Ludogorets,Blagoevgrad,0.0,0.0,0.5
+2015-2016,A Group,15,2015-11-08,Botev Plovdiv,Beroe,1.0,3.0,0.0
+2015-2016,A Group,15,2015-11-08,Levski Sofia,Loko Plovdiv,1.0,0.0,1.0
+2015-2016,A Group,16,2015-11-20,Loko Plovdiv,Montana,1.0,0.0,1.0
+2015-2016,A Group,16,2015-11-21,Slavia Sofia,Ludogorets,0.0,1.0,0.0
+2015-2016,A Group,16,2015-11-21,Beroe,Litex Lovech,3.0,3.0,0.5
+2015-2016,A Group,16,2015-11-22,Cherno More,Botev Plovdiv,1.0,2.0,0.0
+2015-2016,A Group,16,2015-11-22,Blagoevgrad,Levski Sofia,1.0,0.0,1.0
+2015-2016,A Group,17,2015-11-27,Ludogorets,Beroe,5.0,0.0,1.0
+2015-2016,A Group,17,2015-11-28,Loko Plovdiv,Cherno More,1.0,3.0,0.0
+2015-2016,A Group,17,2015-11-28,Litex Lovech,Botev Plovdiv,4.0,2.0,1.0
+2015-2016,A Group,17,2015-11-29,Montana,Blagoevgrad,1.0,1.0,0.5
+2015-2016,A Group,17,2015-11-29,Levski Sofia,Slavia Sofia,2.0,0.0,1.0
+2015-2016,A Group,18,2015-12-01,Cherno More,Litex Lovech,1.0,1.0,0.5
+2015-2016,A Group,18,2015-12-02,Botev Plovdiv,Ludogorets,0.0,1.0,0.0
+2015-2016,A Group,18,2015-12-02,Beroe,Levski Sofia,1.0,0.0,1.0
+2015-2016,A Group,18,2015-12-03,Slavia Sofia,Montana,1.0,0.0,1.0
+2015-2016,A Group,18,2015-12-03,Blagoevgrad,Loko Plovdiv,3.0,0.0,1.0
+2015-2016,A Group,19,2015-12-05,Botev Plovdiv,Levski Sofia,0.0,0.0,0.5
+2015-2016,A Group,19,2015-12-05,Litex Lovech,Ludogorets,1.0,1.0,0.5
+2015-2016,A Group,19,2015-12-06,Blagoevgrad,Cherno More,4.0,0.0,1.0
+2015-2016,A Group,19,2015-12-06,Beroe,Montana,2.0,1.0,1.0
+2015-2016,A Group,19,2015-12-07,Slavia Sofia,Loko Plovdiv,3.0,0.0,1.0
+2015-2016,A Group,20,2015-12-11,Blagoevgrad,Slavia Sofia,0.0,3.0,0.0
+2015-2016,A Group,20,2015-12-12,Cherno More,Ludogorets,0.0,2.0,0.0
+2015-2016,A Group,20,2015-12-12,Levski Sofia,Litex Lovech,3.0,0.0,1.0
+2015-2016,A Group,20,2015-12-13,Montana,Botev Plovdiv,1.0,1.0,0.5
+2015-2016,A Group,20,2015-12-13,Loko Plovdiv,Beroe,1.0,1.0,0.5
+2015-2016,A Group,21,2016-02-20,Botev Plovdiv,Loko Plovdiv,1.0,0.0,1.0
+2015-2016,A Group,21,2016-02-20,Litex Lovech,Montana,,,
+2015-2016,A Group,21,2016-02-20,Beroe,Blagoevgrad,3.0,1.0,1.0
+2015-2016,A Group,21,2016-02-21,Slavia Sofia,Cherno More,0.0,0.0,0.5
+2015-2016,A Group,21,2016-02-21,Ludogorets,Levski Sofia,2.0,1.0,1.0
+2015-2016,A Group,22,2016-02-26,Montana,Ludogorets,0.0,1.0,0.0
+2015-2016,A Group,22,2016-02-27,Cherno More,Levski Sofia,0.0,2.0,0.0
+2015-2016,A Group,22,2016-02-27,Loko Plovdiv,Litex Lovech,,,
+2015-2016,A Group,22,2016-02-28,Slavia Sofia,Beroe,0.0,0.0,0.5
+2015-2016,A Group,22,2016-02-28,Blagoevgrad,Botev Plovdiv,2.0,2.0,0.5
+2015-2016,A Group,23,2016-03-01,Ludogorets,Loko Plovdiv,2.0,0.0,1.0
+2015-2016,A Group,23,2016-03-02,Litex Lovech,Blagoevgrad,,,
+2015-2016,A Group,23,2016-03-02,Levski Sofia,Montana,0.0,0.0,0.5
+2015-2016,A Group,23,2016-03-03,Botev Plovdiv,Slavia Sofia,0.0,1.0,0.0
+2015-2016,A Group,23,2016-03-03,Beroe,Cherno More,0.0,0.0,0.5
+2015-2016,A Group,24,2016-03-05,Slavia Sofia,Litex Lovech,,,
+2015-2016,A Group,24,2016-03-05,Loko Plovdiv,Levski Sofia,1.0,1.0,0.5
+2015-2016,A Group,24,2016-03-05,Blagoevgrad,Ludogorets,1.0,3.0,0.0
+2015-2016,A Group,24,2016-03-06,Cherno More,Montana,1.0,1.0,0.5
+2015-2016,A Group,24,2016-03-06,Beroe,Botev Plovdiv,1.0,1.0,0.5
+2015-2016,A Group,25,2016-03-12,Litex Lovech,Beroe,,,
+2015-2016,A Group,25,2016-03-12,Montana,Loko Plovdiv,0.0,1.0,0.0
+2015-2016,A Group,25,2016-03-12,Ludogorets,Slavia Sofia,3.0,1.0,1.0
+2015-2016,A Group,25,2016-03-13,Botev Plovdiv,Cherno More,3.0,1.0,1.0
+2015-2016,A Group,25,2016-03-13,Levski Sofia,Blagoevgrad,3.0,1.0,1.0
+2015-2016,A Group,26,2016-03-19,Botev Plovdiv,Litex Lovech,,,
+2015-2016,A Group,26,2016-03-19,Slavia Sofia,Levski Sofia,0.0,0.0,0.5
+2015-2016,A Group,26,2016-03-19,Beroe,Ludogorets,0.0,2.0,0.0
+2015-2016,A Group,26,2016-03-20,Cherno More,Loko Plovdiv,1.0,1.0,0.5
+2015-2016,A Group,26,2016-03-20,Blagoevgrad,Montana,0.0,0.0,0.5
+2015-2016,A Group,27,2016-04-01,Loko Plovdiv,Blagoevgrad,4.0,2.0,1.0
+2015-2016,A Group,27,2016-04-02,Litex Lovech,Cherno More,,,
+2015-2016,A Group,27,2016-04-02,Montana,Slavia Sofia,0.0,3.0,0.0
+2015-2016,A Group,27,2016-04-02,Levski Sofia,Beroe,1.0,0.0,1.0
+2015-2016,A Group,27,2016-04-03,Ludogorets,Botev Plovdiv,1.0,0.0,1.0
+2015-2016,A Group,28,2016-04-09,Ludogorets,Litex Lovech,,,
+2015-2016,A Group,28,2016-04-09,Cherno More,Blagoevgrad,1.0,1.0,0.5
+2015-2016,A Group,28,2016-04-09,Levski Sofia,Botev Plovdiv,3.0,0.0,1.0
+2015-2016,A Group,28,2016-04-10,Montana,Beroe,1.0,3.0,0.0
+2015-2016,A Group,28,2016-04-10,Loko Plovdiv,Slavia Sofia,3.0,1.0,1.0
+2015-2016,A Group,29,2016-04-15,Ludogorets,Cherno More,2.0,1.0,1.0
+2015-2016,A Group,29,2016-04-16,Litex Lovech,Levski Sofia,,,
+2015-2016,A Group,29,2016-04-16,Botev Plovdiv,Montana,2.0,2.0,0.5
+2015-2016,A Group,29,2016-04-16,Beroe,Loko Plovdiv,5.0,2.0,1.0
+2015-2016,A Group,29,2016-04-17,Slavia Sofia,Blagoevgrad,1.0,2.0,0.0
+2015-2016,A Group,30,2016-04-23,Montana,Litex Lovech,,,
+2015-2016,A Group,30,2016-04-23,Cherno More,Slavia Sofia,3.0,2.0,1.0
+2015-2016,A Group,30,2016-04-23,Levski Sofia,Ludogorets,0.0,0.0,0.5
+2015-2016,A Group,30,2016-04-24,Loko Plovdiv,Botev Plovdiv,2.0,1.0,1.0
+2015-2016,A Group,30,2016-04-24,Blagoevgrad,Beroe,1.0,1.0,0.5
+2015-2016,A Group,31,2016-04-28,Levski Sofia,Cherno More,5.0,1.0,1.0
+2015-2016,A Group,31,2016-04-29,Botev Plovdiv,Blagoevgrad,2.0,2.0,0.5
+2015-2016,A Group,31,2016-04-29,Ludogorets,Montana,2.0,1.0,1.0
+2015-2016,A Group,31,2016-04-30,Litex Lovech,Loko Plovdiv,,,
+2015-2016,A Group,31,2016-04-30,Beroe,Slavia Sofia,1.0,1.0,0.5
+2015-2016,A Group,32,2016-05-06,Cherno More,Beroe,1.0,0.0,1.0
+2015-2016,A Group,32,2016-05-06,Montana,Levski Sofia,0.0,1.0,0.0
+2015-2016,A Group,32,2016-05-07,Blagoevgrad,Litex Lovech,,,
+2015-2016,A Group,32,2016-05-07,Slavia Sofia,Botev Plovdiv,1.0,0.0,1.0
+2015-2016,A Group,32,2016-05-07,Loko Plovdiv,Ludogorets,2.0,1.0,1.0
+2015-2016,A Group,33,2016-05-10,Montana,Cherno More,3.0,2.0,1.0
+2015-2016,A Group,33,2016-05-10,Levski Sofia,Loko Plovdiv,2.0,3.0,0.0
+2015-2016,A Group,33,2016-05-11,Litex Lovech,Slavia Sofia,,,
+2015-2016,A Group,33,2016-05-11,Botev Plovdiv,Beroe,0.0,1.0,0.0
+2015-2016,A Group,33,2016-05-11,Ludogorets,Blagoevgrad,4.0,1.0,1.0
+2015-2016,A Group,34,2016-05-14,Beroe,Litex Lovech,,,
+2015-2016,A Group,34,2016-05-14,Cherno More,Botev Plovdiv,3.0,0.0,1.0
+2015-2016,A Group,34,2016-05-14,Loko Plovdiv,Montana,2.0,0.0,1.0
+2015-2016,A Group,34,2016-05-15,Blagoevgrad,Levski Sofia,0.0,1.0,0.0
+2015-2016,A Group,34,2016-05-16,Slavia Sofia,Ludogorets,0.0,5.0,0.0
+2015-2016,A Group,35,2016-05-20,Montana,Blagoevgrad,0.0,1.0,0.0
+2015-2016,A Group,35,2016-05-21,Litex Lovech,Botev Plovdiv,,,
+2015-2016,A Group,35,2016-05-22,Ludogorets,Beroe,0.0,2.0,0.0
+2015-2016,A Group,35,2016-05-22,Loko Plovdiv,Cherno More,2.0,1.0,1.0
+2015-2016,A Group,35,2016-05-22,Levski Sofia,Slavia Sofia,0.0,1.0,0.0
+2015-2016,A Group,36,2016-05-27,Botev Plovdiv,Ludogorets,2.0,1.0,1.0
+2015-2016,A Group,36,2016-05-29,Cherno More,Litex Lovech,,,
+2015-2016,A Group,36,2016-05-28,Beroe,Levski Sofia,2.0,1.0,1.0
+2015-2016,A Group,36,2016-05-28,Slavia Sofia,Montana,3.0,1.0,1.0
+2015-2016,A Group,36,2016-05-28,Blagoevgrad,Loko Plovdiv,1.0,2.0,0.0
+2015-2016,Bulgarian 1/2 Relegation/Promotion Playoffs,,2016-06-04,Montana,Pomorie,2.0,1.0,1.0

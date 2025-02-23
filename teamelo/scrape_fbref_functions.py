@@ -5,7 +5,7 @@ import time
 import random
 from datetime import datetime
 import os
-
+import numpy as np
 
 # Crear carpetas para logs y datos si no existen
 os.makedirs('scraping_logs', exist_ok=True)
@@ -63,17 +63,17 @@ def available_seasons(competition: str, comp_code: int):
     return seasons
 
 
-def scrape_season(season: int, competition: str, comp_code: int) -> pd.DataFrame:
+def scrape_season(season: str, competition: str, comp_code: int) -> pd.DataFrame:
     """Scrapea los datos de una temporada, formatea las fechas y guarda el resultado en CSV."""
-    log_message(f"🔎 Iniciando scraping para {competition} temporada {season}-{season+1}...")
+    log_message(f"🔎 Iniciando scraping para {competition} temporada {season}...")
 
     all_seasons = available_seasons(competition, comp_code)
 
-    if f"{season}-{season+1}" not in all_seasons:
-        log_message(f"{competition} temporada {season}-{season+1} no disponible, omitiendo temporada {season}-{season+1}")
+    if f"{season}" not in all_seasons:
+        log_message(f"{competition} temporada {season} no disponible, omitiendo temporada {season}")
         return None
 
-    url = f"https://fbref.com/en/comps/{comp_code}/{season}-{season+1}/schedule/{season}-{season+1}-{competition}-Scores-and-Fixtures"
+    url = f"https://fbref.com/en/comps/{comp_code}/{season}/schedule/{season}-{competition}-Scores-and-Fixtures"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
     }
@@ -89,7 +89,7 @@ def scrape_season(season: int, competition: str, comp_code: int) -> pd.DataFrame
     table = soup.find("table", {"class": "stats_table"})
 
     if not table:
-        log_message(f"⚠️ No se encontró la tabla para la temporada {season}-{season+1}.")
+        log_message(f"⚠️ No se encontró la tabla de 'Scores & Fixtures' para la temporada {season}.")
         return pd.DataFrame()
 
     headers = [th.text.strip() for th in table.find("thead").find_all("th")]
@@ -133,7 +133,7 @@ def scrape_season(season: int, competition: str, comp_code: int) -> pd.DataFrame
     # Verificar si faltan columnas requeridas
     if not required_columns.issubset(df.columns):
         missing_cols = required_columns - set(df.columns)
-        log_message(f"⚠️ Columnas requeridas faltantes para {season}-{season+1}: {', '.join(missing_cols)}.")
+        log_message(f"⚠️ Columnas requeridas faltantes para {season}: {', '.join(missing_cols)}.")
         return pd.DataFrame()
 
 
@@ -160,33 +160,64 @@ def scrape_season(season: int, competition: str, comp_code: int) -> pd.DataFrame
 
     # Procesar columna 'Score'
     if 'Score' in df.columns:
-        df[['Home_Goals', 'Away_Goals']] = df['Score'].str.split('–', expand=True)
+        # Limpiar caracteres no deseados y normalizar guiones (–, —, −) a un guion estándar (-)
+        df['Score'] = df['Score'].str.replace(r'\(.*?\)', '', regex=True).str.strip()  # Eliminar texto entre paréntesis
+        df['Score'] = df['Score'].str.replace(r'[–—−]', '-', regex=True).str.strip()   # Reemplazar cualquier tipo de guion
+
+        # Realizar la división en 'Home_Goals' y 'Away_Goals' de forma segura
+        split_scores = df['Score'].str.split('-', expand=True)
+
+        # Asegurarse de que la división siempre tenga dos columnas, rellenando con NaN si no
+        if split_scores.shape[1] < 2:
+            split_scores = split_scores.reindex(columns=range(2), fill_value=pd.NA)
+
+        # Asignar los valores a las nuevas columnas
+        df[['Home_Goals', 'Away_Goals']] = split_scores
+
+        # Convertir las columnas a valores numéricos, manejando errores
         df['Home_Goals'] = pd.to_numeric(df['Home_Goals'], errors='coerce')
         df['Away_Goals'] = pd.to_numeric(df['Away_Goals'], errors='coerce')
-        df['Result'] = df.apply(lambda row: 1 if row['Home_Goals'] > row['Away_Goals'] 
-                                else 0 if row['Home_Goals'] < row['Away_Goals'] 
-                                else 0.5, axis=1)
+
+        # Identificar y registrar cualquier fila con resultados no válidos
+        invalid_rows = df[df['Home_Goals'].isna() | df['Away_Goals'].isna()]
+        if not invalid_rows.empty:
+            log_message(f"⚠️ Se encontraron {len(invalid_rows)} filas con valores de 'Score' inválidos: {invalid_rows['Score'].unique()}")
+
+        # Calcular el resultado basado en los goles
+        df['Result'] = df.apply(
+        lambda row: 1 if pd.notna(row['Home_Goals']) and pd.notna(row['Away_Goals']) and row['Home_Goals'] > row['Away_Goals']
+        else 0 if pd.notna(row['Home_Goals']) and pd.notna(row['Away_Goals']) and row['Home_Goals'] < row['Away_Goals']
+        else 0.5 if pd.notna(row['Home_Goals']) and pd.notna(row['Away_Goals']) and row['Home_Goals'] == row['Away_Goals']
+        else np.nan,
+        axis=1
+    )
+
+        # Eliminar la columna original 'Score' después de procesar
         df.drop(columns=['Score'], inplace=True)
+
     else:
-        log_message(f"⚠️ Columna 'Score' faltante para {season}-{season+1}.")
+        log_message(f"⚠️ Columna 'Score' faltante para {season}.")
         return pd.DataFrame()
 
-    df["Season"] = f"{season}-{season+1}"
+
+    df["Season"] = f"{season}"
     df = df[["Season"] + [col for col in df.columns if col != "Season"]]
 
-    output_filename = f"scraped_data/{competition}/{competition}_{season}-{season+1}.csv"
+    output_filename = f"scraped_data/{competition}/{competition}_{season}.csv"
     os.makedirs('scraped_data', exist_ok=True)
     os.makedirs(f'scraped_data/{competition}', exist_ok=True)
     df.to_csv(output_filename, index=False)
-    log_message(f"✅ Datos de la temporada {season}-{season+1} guardados en '{output_filename}'.")
+    log_message(f"✅ Datos de la temporada {season} guardados en '{output_filename}'.")
 
     return df
 
 
-def scrape_multiple_seasons(season_start: int, season_end: int, competition: str, comp_code: int):
+def scrape_multiple_seasons(season_start: str, season_end: str, competition: str, comp_code: int):
     """Scrapea múltiples temporadas consecutivas."""
-    log_message(f"🚀 Iniciando scraping de {competition} desde {season_start}-{season_start+1} hasta {season_end}-{season_end+1}...")
-    for season in range(season_start, season_end + 1):
+    log_message(f"🚀 Iniciando scraping de {competition} desde temporada {season_start} hasta temporada {season_end}...")
+    all_seasons = available_seasons(competition, comp_code)
+    seasons_to_scrape = all_seasons[all_seasons.index(season_start):all_seasons.index(season_end)]
+    for season in seasons_to_scrape:
         scrape_season(season, competition, comp_code)
         time.sleep(random.uniform(5, 10))
     log_message("🏁 Scraping de temporadas completado.")
@@ -195,38 +226,36 @@ def scrape_all_seasons(competition: str, comp_code: int):
     """Scrapea todas las temporadas disponibles."""
     all_seasons = available_seasons(competition, comp_code)
     log_message(f"🚀 Iniciando scraping de {competition} para todas las temporadas disponibles, desde {all_seasons[0]} hasta {all_seasons[-1]}...")
-    for season in range(int(all_seasons[0][:4]), int(all_seasons[-1][:4])):
+    for season in all_seasons:
         scrape_season(season, competition, comp_code)
-        # time.sleep(random.uniform(15, 30))
-        time.sleep(random.uniform(1, 3))
+        time.sleep(random.uniform(20, 30))
     log_message("🏁 Scraping de todas las temporadas disponibles completado.")
 
 def update_latest_season(competition: str, comp_code: int):
     """Actualiza la última temporada disponible."""
-    current_year = datetime.now().year
-    season = current_year - 1 if datetime.now().month >= 7 else current_year - 2
-    log_message(f"🔄 Actualizando temporada más reciente: {season}-{season+1}")
-    scrape_season(season, competition, comp_code)
-    log_message(f"✅ Temporada más reciente {season}-{season+1} actualizada")
+    all_seasons = available_seasons(competition, comp_code)
+    last_season = all_seasons[-1]
+    log_message(f"🔄 Actualizando temporada más reciente para {competition}: {last_season}")
+    scrape_season(last_season, competition, comp_code)
+    log_message(f"✅ Temporada más reciente {last_season} actualizada")
 
 
 if __name__ == "__main__":
     # Ejemplos de uso
     # competition = "Ligue-1"
     # competition = "Champions-League"
-    competition = "Ukrainian-Premier-League"
+    competition = "Allsvenskan"
     # comp_code = 13
     # comp_code = 8
-    comp_code = 39
-
+    comp_code = 29
     # Scraping de todas las temporadas
-    scrape_all_seasons(competition, comp_code)
+    # scrape_all_seasons(competition, comp_code)
 
     # Scraping de una temporada
-    # scrape_season(1995, competition, comp_code)
+    # scrape_season("1995-1996", competition, comp_code)
 
     # Scraping de varias temporadas
-    # scrape_multiple_seasons(2021, 2023, competition, comp_code)
+    scrape_multiple_seasons("2020", "2024", competition, comp_code)
 
     # Actualizar última temporada
     # update_latest_season(competition, comp_code)

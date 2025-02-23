@@ -1,0 +1,142 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2022-2023,Group stage,1,2022-09-08,Malmö,Braga,se,pt,0,2,0.0
+2022-2023,Group stage,1,2022-09-08,Union Berlin,Union SG,de,be,0,1,0.0
+2022-2023,Group stage,1,2022-09-08,Zürich,Arsenal,ch,eng,1,2,0.0
+2022-2023,Group stage,1,2022-09-08,PSV Eindhoven,Bodø/Glimt,nl,no,1,1,0.5
+2022-2023,Group stage,1,2022-09-08,Ludogorets,Roma,bg,it,2,1,1.0
+2022-2023,Group stage,1,2022-09-08,Fenerbahçe,Dynamo Kyiv,tr,ua,2,1,1.0
+2022-2023,Group stage,1,2022-09-08,HJK,Betis,fi,es,0,2,0.0
+2022-2023,Group stage,1,2022-09-08,AÉK Lárnaka,Rennes,cy,fr,1,2,0.0
+2022-2023,Group stage,1,2022-09-08,Manchester Utd,Real Sociedad,eng,es,0,1,0.0
+2022-2023,Group stage,1,2022-09-08,Sturm Graz,Midtjylland,at,dk,1,0,1.0
+2022-2023,Group stage,1,2022-09-08,Freiburg,Qarabağ,de,az,2,1,1.0
+2022-2023,Group stage,1,2022-09-08,Ferencváros,Trabzonspor,hu,tr,3,2,1.0
+2022-2023,Group stage,1,2022-09-08,Red Star,Monaco,rs,fr,0,1,0.0
+2022-2023,Group stage,1,2022-09-08,Lazio,Feyenoord,it,nl,4,2,1.0
+2022-2023,Group stage,1,2022-09-08,Nantes,Olympiacos,fr,gr,2,1,1.0
+2022-2023,Group stage,1,2022-09-08,AC Omonia,Sheriff Tiraspol,cy,md,0,3,0.0
+2022-2023,Group stage,2,2022-09-15,Real Sociedad,AC Omonia,es,cy,2,1,1.0
+2022-2023,Group stage,2,2022-09-15,Midtjylland,Lazio,dk,it,5,1,1.0
+2022-2023,Group stage,2,2022-09-15,Feyenoord,Sturm Graz,nl,at,6,0,1.0
+2022-2023,Group stage,2,2022-09-15,Monaco,Ferencváros,fr,hu,0,1,0.0
+2022-2023,Group stage,2,2022-09-15,Trabzonspor,Red Star,tr,rs,2,1,1.0
+2022-2023,Group stage,2,2022-09-15,Olympiacos,Freiburg,gr,de,0,3,0.0
+2022-2023,Group stage,2,2022-09-15,Sheriff Tiraspol,Manchester Utd,md,eng,0,2,0.0
+2022-2023,Group stage,2,2022-09-15,Braga,Union Berlin,pt,de,1,0,1.0
+2022-2023,Group stage,2,2022-09-15,Qarabağ,Nantes,az,fr,3,0,1.0
+2022-2023,Group stage,2,2022-09-15,Union SG,Malmö,be,se,3,2,1.0
+2022-2023,Group stage,2,2022-09-15,Rennes,Fenerbahçe,fr,tr,2,2,0.5
+2022-2023,Group stage,2,2022-09-15,Dynamo Kyiv,AÉK Lárnaka,ua,cy,0,1,0.0
+2022-2023,Group stage,2,2022-09-15,Roma,HJK,it,fi,3,0,1.0
+2022-2023,Group stage,2,2022-09-15,Bodø/Glimt,Zürich,no,ch,2,1,1.0
+2022-2023,Group stage,2,2022-09-15,Betis,Ludogorets,es,bg,3,2,1.0
+2022-2023,Group stage,3,2022-10-06,Zürich,PSV Eindhoven,ch,nl,1,5,0.0
+2022-2023,Group stage,3,2022-10-06,Malmö,Union Berlin,se,de,0,1,0.0
+2022-2023,Group stage,3,2022-10-06,Monaco,Trabzonspor,fr,tr,3,1,1.0
+2022-2023,Group stage,3,2022-10-06,Red Star,Ferencváros,rs,hu,4,1,1.0
+2022-2023,Group stage,3,2022-10-06,Sturm Graz,Lazio,at,it,0,0,0.5
+2022-2023,Group stage,3,2022-10-06,HJK,Ludogorets,fi,bg,1,1,0.5
+2022-2023,Group stage,3,2022-10-06,AC Omonia,Manchester Utd,cy,eng,2,3,0.0
+2022-2023,Group stage,3,2022-10-06,Sheriff Tiraspol,Real Sociedad,md,es,0,2,0.0
+2022-2023,Group stage,3,2022-10-06,Arsenal,Bodø/Glimt,eng,no,3,0,1.0
+2022-2023,Group stage,3,2022-10-06,Braga,Union SG,pt,be,1,2,0.0
+2022-2023,Group stage,3,2022-10-06,Roma,Betis,it,es,1,2,0.0
+2022-2023,Group stage,3,2022-10-06,Freiburg,Nantes,de,fr,2,0,1.0
+2022-2023,Group stage,3,2022-10-06,Midtjylland,Feyenoord,dk,nl,2,2,0.5
+2022-2023,Group stage,3,2022-10-06,Rennes,Dynamo Kyiv,fr,ua,2,1,1.0
+2022-2023,Group stage,3,2022-10-06,Olympiacos,Qarabağ,gr,az,0,3,0.0
+2022-2023,Group stage,3,2022-10-06,Fenerbahçe,AÉK Lárnaka,tr,cy,2,0,1.0
+2022-2023,Group stage,4,2022-10-13,Union SG,Braga,be,pt,3,3,0.5
+2022-2023,Group stage,4,2022-10-13,Bodø/Glimt,Arsenal,no,eng,0,1,0.0
+2022-2023,Group stage,4,2022-10-13,Nantes,Freiburg,fr,de,0,4,0.0
+2022-2023,Group stage,4,2022-10-13,Betis,Roma,es,it,1,1,0.5
+2022-2023,Group stage,4,2022-10-13,Feyenoord,Midtjylland,nl,dk,2,2,0.5
+2022-2023,Group stage,4,2022-10-13,Dynamo Kyiv,Rennes,ua,fr,0,1,0.0
+2022-2023,Group stage,4,2022-10-13,AÉK Lárnaka,Fenerbahçe,cy,tr,1,2,0.0
+2022-2023,Group stage,4,2022-10-13,Manchester Utd,AC Omonia,eng,cy,1,0,1.0
+2022-2023,Group stage,4,2022-10-13,Qarabağ,Olympiacos,az,gr,0,0,0.5
+2022-2023,Group stage,4,2022-10-13,Real Sociedad,Sheriff Tiraspol,es,md,3,0,1.0
+2022-2023,Group stage,4,2022-10-13,PSV Eindhoven,Zürich,nl,ch,5,0,1.0
+2022-2023,Group stage,4,2022-10-13,Union Berlin,Malmö,de,se,1,0,1.0
+2022-2023,Group stage,4,2022-10-13,Ferencváros,Red Star,hu,rs,2,1,1.0
+2022-2023,Group stage,4,2022-10-13,Lazio,Sturm Graz,it,at,2,2,0.5
+2022-2023,Group stage,4,2022-10-13,Ludogorets,HJK,bg,fi,2,0,1.0
+2022-2023,Group stage,4,2022-10-13,Trabzonspor,Monaco,tr,fr,4,0,1.0
+2022-2023,Group stage,2,2022-10-20,Arsenal,PSV Eindhoven,eng,nl,1,0,1.0
+2022-2023,Group stage,5,2022-10-27,Lazio,Midtjylland,it,dk,2,1,1.0
+2022-2023,Group stage,5,2022-10-27,Union Berlin,Braga,de,pt,1,0,1.0
+2022-2023,Group stage,5,2022-10-27,PSV Eindhoven,Arsenal,nl,eng,2,0,1.0
+2022-2023,Group stage,5,2022-10-27,Malmö,Union SG,se,be,0,2,0.0
+2022-2023,Group stage,5,2022-10-27,Zürich,Bodø/Glimt,ch,no,2,1,1.0
+2022-2023,Group stage,5,2022-10-27,AÉK Lárnaka,Dynamo Kyiv,cy,ua,3,3,0.5
+2022-2023,Group stage,5,2022-10-27,Ludogorets,Betis,bg,es,0,1,0.0
+2022-2023,Group stage,5,2022-10-27,Fenerbahçe,Rennes,tr,fr,3,3,0.5
+2022-2023,Group stage,5,2022-10-27,Manchester Utd,Sheriff Tiraspol,eng,md,3,0,1.0
+2022-2023,Group stage,5,2022-10-27,Red Star,Trabzonspor,rs,tr,2,1,1.0
+2022-2023,Group stage,5,2022-10-27,Freiburg,Olympiacos,de,gr,1,1,0.5
+2022-2023,Group stage,5,2022-10-27,Sturm Graz,Feyenoord,at,nl,1,0,1.0
+2022-2023,Group stage,5,2022-10-27,Ferencváros,Monaco,hu,fr,1,1,0.5
+2022-2023,Group stage,5,2022-10-27,Nantes,Qarabağ,fr,az,2,1,1.0
+2022-2023,Group stage,5,2022-10-27,AC Omonia,Real Sociedad,cy,es,0,2,0.0
+2022-2023,Group stage,5,2022-10-27,HJK,Roma,fi,it,1,2,0.0
+2022-2023,Group stage,6,2022-11-03,Midtjylland,Sturm Graz,dk,at,2,0,1.0
+2022-2023,Group stage,6,2022-11-03,Real Sociedad,Manchester Utd,es,eng,0,1,0.0
+2022-2023,Group stage,6,2022-11-03,Feyenoord,Lazio,nl,it,1,0,1.0
+2022-2023,Group stage,6,2022-11-03,Monaco,Red Star,fr,rs,4,1,1.0
+2022-2023,Group stage,6,2022-11-03,Sheriff Tiraspol,AC Omonia,md,cy,1,0,1.0
+2022-2023,Group stage,6,2022-11-03,Olympiacos,Nantes,gr,fr,0,2,0.0
+2022-2023,Group stage,6,2022-11-03,Arsenal,Zürich,eng,ch,1,0,1.0
+2022-2023,Group stage,6,2022-11-03,Braga,Malmö,pt,se,2,1,1.0
+2022-2023,Group stage,6,2022-11-03,Trabzonspor,Ferencváros,tr,hu,1,0,1.0
+2022-2023,Group stage,6,2022-11-03,Dynamo Kyiv,Fenerbahçe,ua,tr,0,2,0.0
+2022-2023,Group stage,6,2022-11-03,Rennes,AÉK Lárnaka,fr,cy,1,1,0.5
+2022-2023,Group stage,6,2022-11-03,Bodø/Glimt,PSV Eindhoven,no,nl,1,2,0.0
+2022-2023,Group stage,6,2022-11-03,Roma,Ludogorets,it,bg,3,1,1.0
+2022-2023,Group stage,6,2022-11-03,Union SG,Union Berlin,be,de,0,1,0.0
+2022-2023,Group stage,6,2022-11-03,Betis,HJK,es,fi,3,0,1.0
+2022-2023,Group stage,6,2022-11-03,Qarabağ,Freiburg,az,de,1,1,0.5
+2022-2023,Knockout round play-offs,,2023-02-16,Ajax,Union Berlin,nl,de,0,0,0.5
+2022-2023,Knockout round play-offs,,2023-02-16,Barcelona,Manchester Utd,es,eng,2,2,0.5
+2022-2023,Knockout round play-offs,,2023-02-16,RB Salzburg,Roma,at,it,1,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-16,Shakhtar,Rennes,ua,fr,2,1,1.0
+2022-2023,Knockout round play-offs,,2023-02-16,Sporting CP,Midtjylland,pt,dk,1,1,0.5
+2022-2023,Knockout round play-offs,,2023-02-16,Juventus,Nantes,it,fr,1,1,0.5
+2022-2023,Knockout round play-offs,,2023-02-16,Leverkusen,Monaco,de,fr,2,3,0.0
+2022-2023,Knockout round play-offs,,2023-02-16,Sevilla,PSV Eindhoven,es,nl,3,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Midtjylland,Sporting CP,dk,pt,0,4,0.0
+2022-2023,Knockout round play-offs,,2023-02-23,Monaco,Leverkusen,fr,de,2,3,0.0
+2022-2023,Knockout round play-offs,,2023-02-23,PSV Eindhoven,Sevilla,nl,es,2,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Nantes,Juventus,fr,it,0,3,0.0
+2022-2023,Knockout round play-offs,,2023-02-23,Manchester Utd,Barcelona,eng,es,2,1,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Roma,RB Salzburg,it,at,2,0,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Rennes,Shakhtar,fr,ua,2,1,1.0
+2022-2023,Knockout round play-offs,,2023-02-23,Union Berlin,Ajax,de,nl,3,1,1.0
+2022-2023,Round of 16,,2023-03-09,Sporting CP,Arsenal,pt,eng,2,2,0.5
+2022-2023,Round of 16,,2023-03-09,Roma,Real Sociedad,it,es,2,0,1.0
+2022-2023,Round of 16,,2023-03-09,Leverkusen,Ferencváros,de,hu,2,0,1.0
+2022-2023,Round of 16,,2023-03-09,Union Berlin,Union SG,de,be,3,3,0.5
+2022-2023,Round of 16,,2023-03-09,Manchester Utd,Betis,eng,es,4,1,1.0
+2022-2023,Round of 16,,2023-03-09,Sevilla,Fenerbahçe,es,tr,2,0,1.0
+2022-2023,Round of 16,,2023-03-09,Juventus,Freiburg,it,de,1,0,1.0
+2022-2023,Round of 16,,2023-03-09,Shakhtar,Feyenoord,ua,nl,1,1,0.5
+2022-2023,Round of 16,,2023-03-16,Feyenoord,Shakhtar,nl,ua,7,1,1.0
+2022-2023,Round of 16,,2023-03-16,Betis,Manchester Utd,es,eng,0,1,0.0
+2022-2023,Round of 16,,2023-03-16,Freiburg,Juventus,de,it,0,2,0.0
+2022-2023,Round of 16,,2023-03-16,Arsenal,Sporting CP,eng,pt,1,1,0.5
+2022-2023,Round of 16,,2023-03-16,Fenerbahçe,Sevilla,tr,es,1,0,1.0
+2022-2023,Round of 16,,2023-03-16,Real Sociedad,Roma,es,it,0,0,0.5
+2022-2023,Round of 16,,2023-03-16,Ferencváros,Leverkusen,hu,de,0,2,0.0
+2022-2023,Round of 16,,2023-03-16,Union SG,Union Berlin,be,de,3,0,1.0
+2022-2023,Quarter-finals,,2023-04-13,Feyenoord,Roma,nl,it,1,0,1.0
+2022-2023,Quarter-finals,,2023-04-13,Manchester Utd,Sevilla,eng,es,2,2,0.5
+2022-2023,Quarter-finals,,2023-04-13,Juventus,Sporting CP,it,pt,1,0,1.0
+2022-2023,Quarter-finals,,2023-04-13,Leverkusen,Union SG,de,be,1,1,0.5
+2022-2023,Quarter-finals,,2023-04-20,Sporting CP,Juventus,pt,it,1,1,0.5
+2022-2023,Quarter-finals,,2023-04-20,Roma,Feyenoord,it,nl,4,1,1.0
+2022-2023,Quarter-finals,,2023-04-20,Union SG,Leverkusen,be,de,1,4,0.0
+2022-2023,Quarter-finals,,2023-04-20,Sevilla,Manchester Utd,es,eng,3,0,1.0
+2022-2023,Semi-finals,,2023-05-11,Roma,Leverkusen,it,de,1,0,1.0
+2022-2023,Semi-finals,,2023-05-11,Juventus,Sevilla,it,es,1,1,0.5
+2022-2023,Semi-finals,,2023-05-18,Leverkusen,Roma,de,it,0,0,0.5
+2022-2023,Semi-finals,,2023-05-18,Sevilla,Juventus,es,it,2,1,1.0
+2022-2023,Final,,2023-05-31,Sevilla,Roma,es,it,1,1,0.5

@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1911-1912,1,1911-09-02,Bradford City,Aston Villa,2,1,1.0
+1911-1912,1,1911-09-02,Blackburn,Bury,2,0,1.0
+1911-1912,1,1911-09-02,Manchester City,Manchester Utd,0,0,0.5
+1911-1912,1,1911-09-02,Arsenal,Liverpool,2,2,0.5
+1911-1912,1,1911-09-02,Everton,Tottenham,2,2,0.5
+1911-1912,1,1911-09-02,Sunderland,Middlesbrough,1,0,1.0
+1911-1912,1,1911-09-02,West Brom,Notts County,2,1,1.0
+1911-1912,1,1911-09-02,Bolton,Newcastle Utd,0,2,0.0
+1911-1912,1,1911-09-02,Oldham Athletic,Sheffield Utd,2,3,0.0
+1911-1912,1,1911-09-02,The Wednesday,Preston,0,1,0.0
+1911-1912,2,1911-09-04,Bolton,Liverpool,2,1,1.0
+1911-1912,2,1911-09-04,Tottenham,The Wednesday,3,1,1.0
+1911-1912,2,1911-09-04,Aston Villa,West Brom,0,3,0.0
+1911-1912,2,1911-09-06,Sunderland,Blackburn,3,0,1.0
+1911-1912,2,1911-09-06,Newcastle Utd,Everton,2,0,1.0
+1911-1912,2,1911-09-09,Liverpool,Manchester City,2,2,0.5
+1911-1912,2,1911-09-09,Newcastle Utd,Bradford City,0,2,0.0
+1911-1912,2,1911-09-09,Aston Villa,Arsenal,4,1,1.0
+1911-1912,2,1911-09-09,Preston,Oldham Athletic,0,1,0.0
+1911-1912,3,1911-09-09,Bury,The Wednesday,2,2,0.5
+1911-1912,3,1911-09-09,Notts County,Sunderland,3,1,1.0
+1911-1912,3,1911-09-09,Manchester Utd,Everton,2,1,1.0
+1911-1912,3,1911-09-09,Middlesbrough,Blackburn,2,1,1.0
+1911-1912,3,1911-09-09,Tottenham,West Brom,1,0,1.0
+1911-1912,3,1911-09-09,Sheffield Utd,Bolton,0,5,0.0
+1911-1912,3,1911-09-16,Bradford City,Sheffield Utd,1,0,1.0
+1911-1912,3,1911-09-16,Bury,Preston,0,0,0.5
+1911-1912,3,1911-09-16,Manchester City,Aston Villa,2,6,0.0
+1911-1912,3,1911-09-16,Arsenal,Newcastle Utd,2,0,1.0
+1911-1912,4,1911-09-16,Everton,Liverpool,2,1,1.0
+1911-1912,4,1911-09-16,West Brom,Manchester Utd,1,0,1.0
+1911-1912,4,1911-09-16,Bolton,Oldham Athletic,2,1,1.0
+1911-1912,4,1911-09-16,Blackburn,Notts County,0,0,0.5
+1911-1912,4,1911-09-16,Sunderland,Tottenham,1,1,0.5
+1911-1912,4,1911-09-16,The Wednesday,Middlesbrough,0,2,0.0
+1911-1912,4,1911-09-23,Oldham Athletic,Bradford City,3,0,1.0
+1911-1912,4,1911-09-23,Newcastle Utd,Manchester City,1,0,1.0
+1911-1912,4,1911-09-23,Middlesbrough,Bury,1,1,0.5
+1911-1912,4,1911-09-23,Sheffield Utd,Arsenal,2,1,1.0
+1911-1912,5,1911-09-23,Manchester Utd,Sunderland,2,2,0.5
+1911-1912,5,1911-09-23,Liverpool,West Brom,1,3,0.0
+1911-1912,5,1911-09-23,Preston,Bolton,1,2,0.0
+1911-1912,5,1911-09-23,Tottenham,Blackburn,0,2,0.0
+1911-1912,5,1911-09-23,Aston Villa,Everton,3,0,1.0
+1911-1912,5,1911-09-23,Notts County,The Wednesday,1,0,1.0
+1911-1912,5,1911-09-30,Manchester City,Sheffield Utd,0,0,0.5
+1911-1912,5,1911-09-30,Arsenal,Oldham Athletic,1,1,0.5
+1911-1912,5,1911-09-30,Middlesbrough,Preston,4,2,1.0
+1911-1912,5,1911-09-30,Bury,Notts County,0,1,0.0
+1911-1912,6,1911-09-30,West Brom,Aston Villa,2,2,0.5
+1911-1912,6,1911-09-30,Bradford City,Bolton,1,0,1.0
+1911-1912,6,1911-09-30,Blackburn,Manchester Utd,2,2,0.5
+1911-1912,6,1911-09-30,Sunderland,Liverpool,1,2,0.0
+1911-1912,6,1911-09-30,The Wednesday,Tottenham,4,0,1.0
+1911-1912,6,1911-09-30,Everton,Newcastle Utd,2,0,1.0
+1911-1912,6,1911-10-05,Notts County,Bradford City,0,0,0.5
+1911-1912,6,1911-10-07,Oldham Athletic,Manchester City,4,1,1.0
+1911-1912,6,1911-10-07,Bolton,Arsenal,2,2,0.5
+1911-1912,6,1911-10-07,Notts County,Middlesbrough,2,1,1.0
+1911-1912,7,1911-10-07,Aston Villa,Sunderland,1,3,0.0
+1911-1912,7,1911-10-07,Tottenham,Bury,2,1,1.0
+1911-1912,7,1911-10-07,Manchester Utd,The Wednesday,3,1,1.0
+1911-1912,7,1911-10-07,Newcastle Utd,West Brom,0,0,0.5
+1911-1912,7,1911-10-07,Liverpool,Blackburn,1,2,0.0
+1911-1912,7,1911-10-07,Preston,Bradford City,2,2,0.5
+1911-1912,7,1911-10-07,Sheffield Utd,Everton,2,1,1.0
+1911-1912,7,1911-10-14,Bury,Manchester Utd,0,1,0.0
+1911-1912,7,1911-10-14,Arsenal,Bradford City,2,0,1.0
+1911-1912,8,1911-10-14,Everton,Oldham Athletic,1,1,0.5
+1911-1912,8,1911-10-14,Blackburn,Aston Villa,3,1,1.0
+1911-1912,8,1911-10-14,Sunderland,Newcastle Utd,1,2,0.0
+1911-1912,8,1911-10-14,Middlesbrough,Tottenham,2,0,1.0
+1911-1912,8,1911-10-14,Notts County,Preston,1,2,0.0
+1911-1912,8,1911-10-14,Manchester City,Bolton,3,1,1.0
+1911-1912,8,1911-10-14,The Wednesday,Liverpool,2,2,0.5
+1911-1912,8,1911-10-14,West Brom,Sheffield Utd,0,1,0.0
+1911-1912,8,1911-10-21,Manchester Utd,Middlesbrough,3,4,0.0
+1911-1912,8,1911-10-21,Oldham Athletic,West Brom,3,1,1.0
+1911-1912,8,1911-10-21,Liverpool,Bury,1,1,0.5
+1911-1912,8,1911-10-21,Preston,Arsenal,0,1,0.0
+1911-1912,9,1911-10-21,Newcastle Utd,Blackburn,4,2,1.0
+1911-1912,9,1911-10-21,Sheffield Utd,Sunderland,1,2,0.0
+1911-1912,9,1911-10-21,Bradford City,Manchester City,4,1,1.0
+1911-1912,9,1911-10-21,Tottenham,Notts County,2,2,0.5
+1911-1912,9,1911-10-21,Bolton,Everton,1,2,0.0
+1911-1912,9,1911-10-21,Aston Villa,The Wednesday,2,3,0.0
+1911-1912,10,1911-10-23,Sheffield Utd,Aston Villa,0,1,0.0
+1911-1912,9,1911-10-28,Manchester City,Arsenal,3,3,0.5
+1911-1912,9,1911-10-28,Sunderland,Oldham Athletic,4,2,1.0
+1911-1912,9,1911-10-28,Notts County,Manchester Utd,0,1,0.0
+1911-1912,10,1911-10-28,The Wednesday,Newcastle Utd,1,2,0.0
+1911-1912,10,1911-10-28,West Brom,Bolton,0,0,0.5
+1911-1912,10,1911-10-28,Tottenham,Preston,6,2,1.0
+1911-1912,10,1911-10-28,Blackburn,Sheffield Utd,1,0,1.0
+1911-1912,10,1911-10-28,Middlesbrough,Liverpool,3,2,1.0
+1911-1912,10,1911-10-28,Everton,Bradford City,1,0,1.0
+1911-1912,11,1911-10-28,Bury,Aston Villa,1,1,0.5
+1911-1912,10,1911-11-04,Arsenal,Everton,0,1,0.0
+1911-1912,10,1911-11-04,Preston,Manchester City,2,1,1.0
+1911-1912,11,1911-11-04,Bradford City,West Brom,4,1,1.0
+1911-1912,11,1911-11-04,Bolton,Sunderland,3,0,1.0
+1911-1912,11,1911-11-04,Liverpool,Notts County,3,0,1.0
+1911-1912,11,1911-11-04,Oldham Athletic,Blackburn,0,1,0.0
+1911-1912,11,1911-11-04,Sheffield Utd,The Wednesday,1,1,0.5
+1911-1912,11,1911-11-04,Newcastle Utd,Bury,3,2,1.0
+1911-1912,11,1911-11-04,Manchester Utd,Tottenham,1,2,0.0
+1911-1912,12,1911-11-04,Aston Villa,Middlesbrough,2,1,1.0
+1911-1912,11,1911-11-11,The Wednesday,Oldham Athletic,1,0,1.0
+1911-1912,11,1911-11-11,Manchester Utd,Preston,0,0,0.5
+1911-1912,11,1911-11-11,West Brom,Arsenal,1,1,0.5
+1911-1912,12,1911-11-11,Tottenham,Liverpool,2,0,1.0
+1911-1912,12,1911-11-11,Everton,Manchester City,1,0,1.0
+1911-1912,12,1911-11-11,Sunderland,Bradford City,1,1,0.5
+1911-1912,12,1911-11-11,Blackburn,Bolton,2,0,1.0
+1911-1912,12,1911-11-11,Middlesbrough,Newcastle Utd,1,1,0.5
+1911-1912,12,1911-11-18,Sheffield Utd,Middlesbrough,1,1,0.5
+1911-1912,12,1911-11-18,Manchester City,West Brom,0,2,0.0
+1911-1912,12,1911-11-18,Arsenal,Sunderland,3,0,1.0
+1911-1912,12,1911-11-18,Oldham Athletic,Bury,2,0,1.0
+1911-1912,13,1911-11-18,Bolton,The Wednesday,4,2,1.0
+1911-1912,13,1911-11-18,Aston Villa,Tottenham,2,2,0.5
+1911-1912,13,1911-11-18,Newcastle Utd,Notts County,3,2,1.0
+1911-1912,13,1911-11-18,Preston,Everton,2,1,1.0
+1911-1912,13,1911-11-18,Liverpool,Manchester Utd,3,2,1.0
+1911-1912,13,1911-11-18,Bradford City,Blackburn,1,0,1.0
+1911-1912,13,1911-11-25,Middlesbrough,Oldham Athletic,3,0,1.0
+1911-1912,13,1911-11-25,Notts County,Sheffield Utd,2,0,1.0
+1911-1912,13,1911-11-25,Blackburn,Arsenal,4,0,1.0
+1911-1912,13,1911-11-25,Sunderland,Manchester City,1,1,0.5
+1911-1912,14,1911-11-25,Liverpool,Preston,0,1,0.0
+1911-1912,14,1911-11-25,West Brom,Everton,1,0,1.0
+1911-1912,14,1911-11-25,Tottenham,Newcastle Utd,1,2,0.0
+1911-1912,14,1911-11-25,The Wednesday,Bradford City,4,2,1.0
+1911-1912,14,1911-11-25,Manchester Utd,Aston Villa,3,1,1.0
+1911-1912,14,1911-11-25,Bury,Bolton,1,3,0.0
+1911-1912,14,1911-12-02,Oldham Athletic,Notts County,1,2,0.0
+1911-1912,14,1911-12-02,Arsenal,The Wednesday,0,2,0.0
+1911-1912,15,1911-12-02,Bolton,Middlesbrough,1,0,1.0
+1911-1912,15,1911-12-02,Preston,West Brom,1,1,0.5
+1911-1912,15,1911-12-02,Manchester City,Blackburn,3,0,1.0
+1911-1912,15,1911-12-02,Aston Villa,Liverpool,5,0,1.0
+1911-1912,15,1911-12-02,Sheffield Utd,Tottenham,1,2,0.0
+1911-1912,15,1911-12-02,Bradford City,Bury,1,0,1.0
+1911-1912,15,1911-12-02,Everton,Sunderland,1,0,1.0
+1911-1912,15,1911-12-02,Newcastle Utd,Manchester Utd,2,3,0.0
+1911-1912,15,1911-12-09,Bury,Arsenal,3,1,1.0
+1911-1912,15,1911-12-09,Manchester Utd,Sheffield Utd,1,0,1.0
+1911-1912,15,1911-12-09,Tottenham,Oldham Athletic,4,0,1.0
+1911-1912,15,1911-12-09,The Wednesday,Manchester City,3,0,1.0
+1911-1912,16,1911-12-09,Aston Villa,Preston,1,0,1.0
+1911-1912,16,1911-12-09,Blackburn,Everton,2,1,1.0
+1911-1912,16,1911-12-09,Sunderland,West Brom,3,2,1.0
+1911-1912,16,1911-12-09,Middlesbrough,Bradford City,1,0,1.0
+1911-1912,16,1911-12-09,Liverpool,Newcastle Utd,0,1,0.0
+1911-1912,16,1911-12-09,Notts County,Bolton,3,2,1.0
+1911-1912,16,1911-12-16,Manchester City,Bury,2,0,1.0
+1911-1912,16,1911-12-16,Oldham Athletic,Manchester Utd,2,2,0.5
+1911-1912,16,1911-12-16,Arsenal,Middlesbrough,3,1,1.0
+1911-1912,17,1911-12-16,Everton,The Wednesday,1,0,1.0
+1911-1912,17,1911-12-16,Bradford City,Notts County,2,3,0.0
+1911-1912,17,1911-12-16,West Brom,Blackburn,2,0,1.0
+1911-1912,17,1911-12-16,Sheffield Utd,Liverpool,3,1,1.0
+1911-1912,17,1911-12-16,Bolton,Tottenham,1,0,1.0
+1911-1912,17,1911-12-16,Newcastle Utd,Aston Villa,6,2,1.0
+1911-1912,17,1911-12-16,Sunderland,Preston,3,0,1.0
+1911-1912,17,1911-12-23,Notts County,Arsenal,3,1,1.0
+1911-1912,17,1911-12-23,Liverpool,Oldham Athletic,1,0,1.0
+1911-1912,17,1911-12-23,Middlesbrough,Manchester City,3,1,1.0
+1911-1912,18,1911-12-23,Manchester Utd,Bolton,2,0,1.0
+1911-1912,18,1911-12-23,The Wednesday,West Brom,4,1,1.0
+1911-1912,18,1911-12-23,Tottenham,Bradford City,2,3,0.0
+1911-1912,18,1911-12-23,Bury,Everton,1,2,0.0
+1911-1912,18,1911-12-23,Aston Villa,Sheffield Utd,1,0,1.0
+1911-1912,18,1911-12-23,Blackburn,Sunderland,2,2,0.5
+1911-1912,18,1911-12-23,Preston,Newcastle Utd,2,1,1.0
+1911-1912,18,1911-12-25,Oldham Athletic,Newcastle Utd,2,4,0.0
+1911-1912,18,1911-12-25,Tottenham,Arsenal,5,0,1.0
+1911-1912,18,1911-12-25,Notts County,Manchester City,0,1,0.0
+1911-1912,19,1911-12-25,Middlesbrough,Everton,0,0,0.5
+1911-1912,19,1911-12-25,Manchester Utd,Bradford City,0,1,0.0
+1911-1912,19,1911-12-25,Blackburn,The Wednesday,0,0,0.5
+1911-1912,19,1911-12-25,Bury,Sunderland,0,2,0.0
+1911-1912,19,1911-12-25,Liverpool,Bolton,1,0,1.0
+1911-1912,19,1911-12-26,Arsenal,Tottenham,3,1,1.0
+1911-1912,19,1911-12-26,Manchester City,Notts County,4,0,1.0
+1911-1912,19,1911-12-26,Aston Villa,Oldham Athletic,6,1,1.0
+1911-1912,19,1911-12-26,West Brom,Bury,2,0,1.0
+1911-1912,20,1911-12-26,Bradford City,Manchester Utd,0,1,0.0
+1911-1912,20,1911-12-26,Preston,Blackburn,2,2,0.5
+1911-1912,20,1911-12-26,Everton,Middlesbrough,1,0,1.0
+1911-1912,20,1911-12-26,The Wednesday,Sunderland,8,0,1.0
+1911-1912,20,1911-12-26,Newcastle Utd,Sheffield Utd,2,2,0.5
+1911-1912,19,1911-12-28,Sheffield Utd,Preston,4,2,1.0
+1911-1912,20,1911-12-30,Newcastle Utd,Bolton,5,2,1.0
+1911-1912,20,1911-12-30,Sheffield Utd,Oldham Athletic,4,0,1.0
+1911-1912,20,1911-12-30,Manchester Utd,Manchester City,0,0,0.5
+1911-1912,20,1911-12-30,Notts County,West Brom,2,0,1.0
+1911-1912,20,1911-12-30,Liverpool,Arsenal,4,1,1.0
+1911-1912,21,1911-12-30,Bury,Blackburn,1,2,0.0
+1911-1912,21,1911-12-30,Middlesbrough,Sunderland,3,3,0.5
+1911-1912,21,1911-12-30,Preston,The Wednesday,2,3,0.0
+1911-1912,21,1911-12-30,Tottenham,Everton,0,1,0.0
+1911-1912,21,1911-12-30,Aston Villa,Bradford City,0,0,0.5
+1911-1912,21,1912-01-01,Bolton,Aston Villa,3,0,1.0
+1911-1912,21,1912-01-01,Bury,West Brom,1,0,1.0
+1911-1912,21,1912-01-01,Manchester Utd,Arsenal,2,0,1.0
+1911-1912,22,1912-01-01,Sheffield Utd,Newcastle Utd,2,1,1.0
+1911-1912,22,1912-01-01,Blackburn,Preston,3,0,1.0
+1911-1912,22,1912-01-01,Liverpool,Bradford City,1,0,1.0
+1911-1912,22,1912-01-01,Sunderland,The Wednesday,0,0,0.5
+1911-1912,21,1912-01-06,Manchester City,Liverpool,2,3,0.0
+1911-1912,21,1912-01-06,Oldham Athletic,Preston,1,0,1.0
+1911-1912,22,1912-01-06,Bolton,Sheffield Utd,0,3,0.0
+1911-1912,22,1912-01-06,Arsenal,Aston Villa,2,2,0.5
+1911-1912,22,1912-01-06,Everton,Manchester Utd,4,0,1.0
+1911-1912,23,1912-01-06,Sunderland,Notts County,5,0,1.0
+1911-1912,23,1912-01-06,Blackburn,Middlesbrough,2,1,1.0
+1911-1912,21,1912-01-20,Preston,Bury,1,0,1.0
+1911-1912,22,1912-01-20,Manchester Utd,West Brom,1,2,0.0
+1911-1912,22,1912-01-20,Aston Villa,Manchester City,3,1,1.0
+1911-1912,23,1912-01-20,Newcastle Utd,Arsenal,1,2,0.0
+1911-1912,23,1912-01-20,Middlesbrough,The Wednesday,1,1,0.5
+1911-1912,23,1912-01-20,Oldham Athletic,Bolton,3,1,1.0
+1911-1912,23,1912-01-20,Liverpool,Everton,1,3,0.0
+1911-1912,24,1912-01-20,Notts County,Blackburn,1,3,0.0
+1911-1912,24,1912-01-20,Tottenham,Sunderland,0,0,0.5
+1911-1912,22,1912-01-27,Bury,Middlesbrough,0,2,0.0
+1911-1912,23,1912-01-27,Bradford City,Oldham Athletic,0,0,0.5
+1911-1912,23,1912-01-27,Manchester City,Newcastle Utd,1,1,0.5
+1911-1912,23,1912-01-27,West Brom,Liverpool,1,0,1.0
+1911-1912,24,1912-01-27,Bolton,Preston,3,0,1.0
+1911-1912,24,1912-01-27,The Wednesday,Notts County,3,0,1.0
+1911-1912,24,1912-01-27,Everton,Aston Villa,1,1,0.5
+1911-1912,24,1912-01-27,Arsenal,Sheffield Utd,3,1,1.0
+1911-1912,25,1912-01-27,Blackburn,Tottenham,0,0,0.5
+1911-1912,25,1912-01-27,Sunderland,Manchester Utd,5,0,1.0
+1911-1912,24,1912-02-10,Manchester City,Oldham Athletic,1,3,0.0
+1911-1912,24,1912-02-10,Bradford City,Preston,0,1,0.0
+1911-1912,24,1912-02-10,Bury,Tottenham,2,1,1.0
+1911-1912,24,1912-02-10,Middlesbrough,Notts County,4,0,1.0
+1911-1912,24,1912-02-10,West Brom,Newcastle Utd,3,1,1.0
+1911-1912,25,1912-02-10,Arsenal,Bolton,3,0,1.0
+1911-1912,25,1912-02-10,The Wednesday,Manchester Utd,3,0,1.0
+1911-1912,25,1912-02-10,Everton,Sheffield Utd,3,2,1.0
+1911-1912,26,1912-02-10,Sunderland,Aston Villa,2,2,0.5
+1911-1912,26,1912-02-10,Blackburn,Liverpool,1,0,1.0
+1911-1912,24,1912-02-14,Notts County,Bury,2,0,1.0
+1911-1912,26,1912-02-14,Bolton,Bradford City,2,0,1.0
+1911-1912,25,1912-02-17,Tottenham,Middlesbrough,2,1,1.0
+1911-1912,25,1912-02-17,Sheffield Utd,West Brom,1,1,0.5
+1911-1912,25,1912-02-17,Manchester Utd,Bury,0,0,0.5
+1911-1912,26,1912-02-17,Preston,Notts County,2,1,1.0
+1911-1912,26,1912-02-17,Oldham Athletic,Everton,3,0,1.0
+1911-1912,26,1912-02-17,Bradford City,Arsenal,1,1,0.5
+1911-1912,26,1912-02-17,Liverpool,The Wednesday,1,1,0.5
+1911-1912,27,1912-02-17,Aston Villa,Blackburn,0,3,0.0
+1911-1912,27,1912-02-17,Bolton,Manchester City,2,1,1.0
+1911-1912,27,1912-02-17,Newcastle Utd,Sunderland,3,1,1.0
+1911-1912,26,1912-02-20,Bury,Sheffield Utd,3,1,1.0
+1911-1912,26,1912-02-24,Notts County,Tottenham,2,2,0.5
+1911-1912,27,1912-02-24,Middlesbrough,Arsenal,0,2,0.0
+1911-1912,27,1912-02-24,Bury,Liverpool,2,2,0.5
+1911-1912,27,1912-02-24,The Wednesday,Aston Villa,3,0,1.0
+1911-1912,27,1912-02-24,Newcastle Utd,Preston,1,0,1.0
+1911-1912,26,1912-02-26,Sheffield Utd,Manchester City,6,2,1.0
+1911-1912,28,1912-02-28,Everton,Bolton,1,0,1.0
+1911-1912,28,1912-02-28,Sunderland,Sheffield Utd,0,0,0.5
+1911-1912,26,1912-03-02,Oldham Athletic,Sunderland,0,0,0.5
+1911-1912,27,1912-03-02,Manchester Utd,Notts County,2,0,1.0
+1911-1912,27,1912-03-02,Bradford City,Everton,1,0,1.0
+1911-1912,27,1912-03-02,Preston,Tottenham,0,1,0.0
+1911-1912,28,1912-03-02,Arsenal,Manchester City,2,0,1.0
+1911-1912,28,1912-03-02,Aston Villa,Bury,5,2,1.0
+1911-1912,28,1912-03-02,Sheffield Utd,Blackburn,1,1,0.5
+1911-1912,28,1912-03-02,Newcastle Utd,The Wednesday,0,2,0.0
+1911-1912,28,1912-03-02,Liverpool,Middlesbrough,1,1,0.5
+1911-1912,29,1912-03-02,Bolton,West Brom,2,0,1.0
+1911-1912,28,1912-03-04,Sheffield Utd,Bradford City,7,3,1.0
+1911-1912,28,1912-03-09,Manchester City,Preston,0,0,0.5
+1911-1912,29,1912-03-09,The Wednesday,Sheffield Utd,1,1,0.5
+1911-1912,29,1912-03-09,Middlesbrough,Aston Villa,1,2,0.0
+1911-1912,29,1912-03-09,Notts County,Liverpool,0,0,0.5
+1911-1912,29,1912-03-09,Oldham Athletic,Arsenal,0,0,0.5
+1911-1912,29,1912-03-09,Bury,Newcastle Utd,2,1,1.0
+1911-1912,30,1912-03-09,Sunderland,Bolton,0,1,0.0
+1911-1912,27,1912-03-13,West Brom,Tottenham,2,0,1.0
+1911-1912,30,1912-03-13,Notts County,Aston Villa,2,0,1.0
+1911-1912,28,1912-03-16,Oldham Athletic,The Wednesday,1,0,1.0
+1911-1912,28,1912-03-16,Preston,Manchester Utd,0,0,0.5
+1911-1912,29,1912-03-16,Manchester City,Everton,4,0,1.0
+1911-1912,29,1912-03-16,Bradford City,Sunderland,2,1,1.0
+1911-1912,29,1912-03-16,Liverpool,Tottenham,1,2,0.0
+1911-1912,29,1912-03-16,Bolton,Blackburn,2,0,1.0
+1911-1912,30,1912-03-16,Arsenal,West Brom,0,2,0.0
+1911-1912,30,1912-03-16,Sheffield Utd,Bury,4,0,1.0
+1911-1912,30,1912-03-16,Newcastle Utd,Middlesbrough,0,1,0.0
+1911-1912,31,1912-03-16,Aston Villa,Notts County,5,1,1.0
+1911-1912,31,1912-03-18,The Wednesday,Bury,2,1,1.0
+1911-1912,29,1912-03-23,Bury,Oldham Athletic,1,1,0.5
+1911-1912,30,1912-03-23,West Brom,Manchester City,1,1,0.5
+1911-1912,30,1912-03-23,Everton,Preston,1,0,1.0
+1911-1912,30,1912-03-23,Middlesbrough,Sheffield Utd,1,1,0.5
+1911-1912,30,1912-03-23,Blackburn,Bradford City,3,1,1.0
+1911-1912,31,1912-03-23,Notts County,Newcastle Utd,1,4,0.0
+1911-1912,31,1912-03-23,Manchester Utd,Liverpool,1,1,0.5
+1911-1912,31,1912-03-23,Sunderland,Arsenal,1,0,1.0
+1911-1912,32,1912-03-23,Tottenham,Aston Villa,2,1,1.0
+1911-1912,32,1912-03-23,The Wednesday,Bolton,0,1,0.0
+1911-1912,32,1912-03-27,Everton,Arsenal,1,0,1.0
+1911-1912,31,1912-03-28,Manchester City,Bradford City,4,0,1.0
+1911-1912,30,1912-03-30,Oldham Athletic,Middlesbrough,2,0,1.0
+1911-1912,31,1912-03-30,Newcastle Utd,Tottenham,2,0,1.0
+1911-1912,32,1912-03-30,Preston,Liverpool,2,1,1.0
+1911-1912,32,1912-03-30,Bradford City,The Wednesday,5,1,1.0
+1911-1912,32,1912-03-30,Manchester City,Sunderland,2,0,1.0
+1911-1912,33,1912-03-30,Aston Villa,Manchester Utd,6,0,1.0
+1911-1912,33,1912-03-30,Sheffield Utd,Notts County,1,3,0.0
+1911-1912,33,1912-03-30,Bolton,Bury,1,0,1.0
+1911-1912,30,1912-04-05,Middlesbrough,West Brom,1,0,1.0
+1911-1912,31,1912-04-05,Newcastle Utd,Oldham Athletic,1,1,0.5
+1911-1912,32,1912-04-05,Notts County,Everton,0,1,0.0
+1911-1912,33,1912-04-05,Manchester City,Tottenham,2,1,1.0
+1911-1912,33,1912-04-05,Preston,Sheffield Utd,3,0,1.0
+1911-1912,33,1912-04-05,Arsenal,Manchester Utd,2,1,1.0
+1911-1912,34,1912-04-05,Liverpool,Sunderland,2,1,1.0
+1911-1912,34,1912-04-05,Aston Villa,Bolton,0,1,0.0
+1911-1912,31,1912-04-06,Blackburn,Manchester City,2,0,1.0
+1911-1912,32,1912-04-06,Notts County,Oldham Athletic,1,1,0.5
+1911-1912,33,1912-04-06,Sunderland,Everton,4,0,1.0
+1911-1912,33,1912-04-06,Tottenham,Sheffield Utd,1,1,0.5
+1911-1912,33,1912-04-06,Bury,Bradford City,2,0,1.0
+1911-1912,34,1912-04-06,Manchester Utd,Newcastle Utd,0,2,0.0
+1911-1912,34,1912-04-06,The Wednesday,Arsenal,3,0,1.0
+1911-1912,35,1912-04-06,Liverpool,Aston Villa,1,2,0.0
+1911-1912,35,1912-04-06,Middlesbrough,Bolton,1,0,1.0
+1911-1912,31,1912-04-08,West Brom,Middlesbrough,3,1,1.0
+1911-1912,32,1912-04-08,The Wednesday,Blackburn,1,1,0.5
+1911-1912,33,1912-04-08,Oldham Athletic,Aston Villa,1,2,0.0
+1911-1912,34,1912-04-08,Everton,Notts County,1,1,0.5
+1911-1912,34,1912-04-08,Bradford City,Liverpool,0,2,0.0
+1911-1912,35,1912-04-08,Tottenham,Manchester City,0,2,0.0
+1911-1912,35,1912-04-08,Arsenal,Preston,4,1,1.0
+1911-1912,36,1912-04-08,Sunderland,Bury,1,0,1.0
+1911-1912,32,1912-04-09,West Brom,Preston,0,2,0.0
+1911-1912,35,1912-04-09,Tottenham,Manchester Utd,1,1,0.5
+1911-1912,35,1912-04-09,Bradford City,Newcastle Utd,1,1,0.5
+1911-1912,33,1912-04-13,Everton,Blackburn,1,3,0.0
+1911-1912,34,1912-04-13,Sheffield Utd,Manchester Utd,6,1,1.0
+1911-1912,34,1912-04-13,Oldham Athletic,Tottenham,2,1,1.0
+1911-1912,36,1912-04-13,Bradford City,Middlesbrough,2,1,1.0
+1911-1912,36,1912-04-13,Manchester City,The Wednesday,4,0,1.0
+1911-1912,36,1912-04-13,Arsenal,Bury,1,0,1.0
+1911-1912,36,1912-04-13,Bolton,Notts County,3,0,1.0
+1911-1912,36,1912-04-13,Newcastle Utd,Liverpool,1,1,0.5
+1911-1912,37,1912-04-13,West Brom,Sunderland,1,0,1.0
+1911-1912,37,1912-04-13,Preston,Aston Villa,4,1,1.0
+1911-1912,34,1912-04-15,Blackburn,Oldham Athletic,1,0,1.0
+1911-1912,35,1912-04-17,Middlesbrough,Manchester Utd,3,0,1.0
+1911-1912,36,1912-04-20,The Wednesday,Everton,1,3,0.0
+1911-1912,36,1912-04-20,Manchester Utd,Oldham Athletic,3,1,1.0
+1911-1912,37,1912-04-20,Tottenham,Bolton,1,0,1.0
+1911-1912,37,1912-04-20,Bury,Manchester City,1,2,0.0
+1911-1912,37,1912-04-20,Liverpool,Sheffield Utd,2,0,1.0
+1911-1912,38,1912-04-20,Aston Villa,Newcastle Utd,2,0,1.0
+1911-1912,38,1912-04-20,Preston,Sunderland,0,3,0.0
+1911-1912,37,1912-04-22,Arsenal,Blackburn,5,1,1.0
+1911-1912,37,1912-04-22,Preston,Middlesbrough,0,3,0.0
+1911-1912,37,1912-04-22,Everton,West Brom,3,0,1.0
+1911-1912,36,1912-04-25,Blackburn,West Brom,4,1,1.0
+1911-1912,37,1912-04-26,West Brom,Bradford City,0,0,0.5
+1911-1912,37,1912-04-27,Oldham Athletic,Liverpool,0,1,0.0
+1911-1912,37,1912-04-27,Blackburn,Newcastle Utd,1,1,0.5
+1911-1912,38,1912-04-27,Everton,Bury,1,1,0.5
+1911-1912,38,1912-04-27,Bolton,Manchester Utd,1,1,0.5
+1911-1912,38,1912-04-27,West Brom,The Wednesday,1,5,0.0
+1911-1912,38,1912-04-27,Bradford City,Tottenham,3,0,1.0
+1911-1912,38,1912-04-27,Arsenal,Notts County,0,3,0.0
+1911-1912,38,1912-04-27,Manchester City,Middlesbrough,2,0,1.0
+1911-1912,38,1912-04-29,West Brom,Oldham Athletic,0,0,0.5
+1911-1912,38,1912-04-29,Manchester Utd,Blackburn,3,1,1.0

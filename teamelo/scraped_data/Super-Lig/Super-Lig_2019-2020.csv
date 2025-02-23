@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,1,2019-08-16,Denizlispor,Galatasaray,2,0,1.0
+2019-2020,1,2019-08-17,Gençlerbirliği,Rizespor,0,1,0.0
+2019-2020,1,2019-08-17,Kayserispor,Alanyaspor,0,1,0.0
+2019-2020,1,2019-08-17,Sivasspor,Beşiktaş,3,0,1.0
+2019-2020,1,2019-08-18,Konyaspor,Ankaragücü,0,0,0.5
+2019-2020,1,2019-08-18,Göztepe,Antalyaspor,0,1,0.0
+2019-2020,1,2019-08-18,Yeni Mal'spor,Başakşehir,3,0,1.0
+2019-2020,1,2019-08-18,Kasımpaşa,Trabzonspor,1,1,0.5
+2019-2020,1,2019-08-19,Fenerbahçe,Gaziantep FK,5,0,1.0
+2019-2020,2,2019-08-23,Beşiktaş,Göztepe,3,0,1.0
+2019-2020,2,2019-08-24,Ankaragücü,Kayserispor,1,1,0.5
+2019-2020,2,2019-08-24,Alanyaspor,Kasımpaşa,4,1,1.0
+2019-2020,2,2019-08-24,Başakşehir,Fenerbahçe,1,2,0.0
+2019-2020,2,2019-08-25,Rizespor,Sivasspor,2,1,1.0
+2019-2020,2,2019-08-25,Trabzonspor,Yeni Mal'spor,2,1,1.0
+2019-2020,2,2019-08-25,Antalyaspor,Denizlispor,0,2,0.0
+2019-2020,2,2019-08-25,Galatasaray,Konyaspor,1,1,0.5
+2019-2020,2,2019-08-26,Gaziantep FK,Gençlerbirliği,4,1,1.0
+2019-2020,3,2019-08-30,Kayserispor,Galatasaray,2,3,0.0
+2019-2020,3,2019-08-30,Kasımpaşa,Ankaragücü,0,1,0.0
+2019-2020,3,2019-08-31,Konyaspor,Antalyaspor,2,2,0.5
+2019-2020,3,2019-08-31,Göztepe,Denizlispor,0,0,0.5
+2019-2020,3,2019-08-31,Beşiktaş,Rizespor,1,1,0.5
+2019-2020,3,2019-09-01,Gençlerbirliği,Başakşehir,1,2,0.0
+2019-2020,3,2019-09-01,Sivasspor,Gaziantep FK,1,1,0.5
+2019-2020,3,2019-09-01,Yeni Mal'spor,Alanyaspor,2,3,0.0
+2019-2020,3,2019-09-01,Fenerbahçe,Trabzonspor,1,1,0.5
+2019-2020,4,2019-09-13,Galatasaray,Kasımpaşa,1,0,1.0
+2019-2020,4,2019-09-14,Başakşehir,Sivasspor,1,1,0.5
+2019-2020,4,2019-09-14,Gaziantep FK,Beşiktaş,3,2,1.0
+2019-2020,4,2019-09-14,Antalyaspor,Kayserispor,2,2,0.5
+2019-2020,4,2019-09-15,Ankaragücü,Yeni Mal'spor,0,4,0.0
+2019-2020,4,2019-09-15,Rizespor,Göztepe,0,0,0.5
+2019-2020,4,2019-09-15,Trabzonspor,Gençlerbirliği,2,2,0.5
+2019-2020,4,2019-09-15,Denizlispor,Konyaspor,0,1,0.0
+2019-2020,4,2019-09-16,Alanyaspor,Fenerbahçe,3,1,1.0
+2019-2020,5,2019-09-20,Göztepe,Konyaspor,1,0,1.0
+2019-2020,5,2019-09-21,Kasımpaşa,Antalyaspor,3,0,1.0
+2019-2020,5,2019-09-21,Kayserispor,Denizlispor,1,1,0.5
+2019-2020,5,2019-09-21,Fenerbahçe,Ankaragücü,2,1,1.0
+2019-2020,5,2019-09-22,Rizespor,Gaziantep FK,1,2,0.0
+2019-2020,5,2019-09-22,Gençlerbirliği,Alanyaspor,1,1,0.5
+2019-2020,5,2019-09-22,Yeni Mal'spor,Galatasaray,1,1,0.5
+2019-2020,5,2019-09-23,Beşiktaş,Başakşehir,1,1,0.5
+2019-2020,5,2019-09-23,Sivasspor,Trabzonspor,2,1,1.0
+2019-2020,6,2019-09-27,Başakşehir,Rizespor,5,0,1.0
+2019-2020,6,2019-09-28,Denizlispor,Kasımpaşa,0,1,0.0
+2019-2020,6,2019-09-28,Alanyaspor,Sivasspor,1,1,0.5
+2019-2020,6,2019-09-28,Galatasaray,Fenerbahçe,0,0,0.5
+2019-2020,6,2019-09-29,Konyaspor,Kayserispor,2,1,1.0
+2019-2020,6,2019-09-29,Ankaragücü,Gençlerbirliği,2,1,1.0
+2019-2020,6,2019-09-29,Antalyaspor,Yeni Mal'spor,3,0,1.0
+2019-2020,6,2019-09-29,Trabzonspor,Beşiktaş,4,1,1.0
+2019-2020,6,2019-09-30,Gaziantep FK,Göztepe,1,1,0.5
+2019-2020,7,2019-10-04,Yeni Mal'spor,Denizlispor,5,1,1.0
+2019-2020,7,2019-10-04,Fenerbahçe,Antalyaspor,0,1,0.0
+2019-2020,7,2019-10-05,Kasımpaşa,Konyaspor,1,4,0.0
+2019-2020,7,2019-10-05,Göztepe,Kayserispor,4,0,1.0
+2019-2020,7,2019-10-05,Gençlerbirliği,Galatasaray,0,0,0.5
+2019-2020,7,2019-10-06,Sivasspor,Ankaragücü,3,1,1.0
+2019-2020,7,2019-10-06,Beşiktaş,Alanyaspor,2,0,1.0
+2019-2020,7,2019-10-06,Gaziantep FK,Başakşehir,1,2,0.0
+2019-2020,7,2019-10-06,Rizespor,Trabzonspor,1,2,0.0
+2019-2020,8,2019-10-18,Galatasaray,Sivasspor,3,2,1.0
+2019-2020,8,2019-10-19,Antalyaspor,Gençlerbirliği,0,6,0.0
+2019-2020,8,2019-10-19,Başakşehir,Göztepe,2,1,1.0
+2019-2020,8,2019-10-19,Trabzonspor,Gaziantep FK,4,1,1.0
+2019-2020,8,2019-10-19,Ankaragücü,Beşiktaş,0,0,0.5
+2019-2020,8,2019-10-20,Kayserispor,Kasımpaşa,1,1,0.5
+2019-2020,8,2019-10-20,Alanyaspor,Rizespor,5,2,1.0
+2019-2020,8,2019-10-20,Denizlispor,Fenerbahçe,1,2,0.0
+2019-2020,8,2019-10-21,Konyaspor,Yeni Mal'spor,0,2,0.0
+2019-2020,9,2019-10-25,Rizespor,Ankaragücü,2,0,1.0
+2019-2020,9,2019-10-26,Sivasspor,Antalyaspor,2,1,1.0
+2019-2020,9,2019-10-26,Gaziantep FK,Alanyaspor,1,1,0.5
+2019-2020,9,2019-10-26,Fenerbahçe,Konyaspor,5,1,1.0
+2019-2020,9,2019-10-27,Yeni Mal'spor,Kayserispor,4,0,1.0
+2019-2020,9,2019-10-27,Gençlerbirliği,Denizlispor,0,2,0.0
+2019-2020,9,2019-10-27,Göztepe,Kasımpaşa,1,4,0.0
+2019-2020,9,2019-10-27,Beşiktaş,Galatasaray,1,0,1.0
+2019-2020,9,2019-10-28,Başakşehir,Trabzonspor,2,2,0.5
+2019-2020,10,2019-11-01,Galatasaray,Rizespor,2,0,1.0
+2019-2020,10,2019-11-02,Konyaspor,Gençlerbirliği,1,1,0.5
+2019-2020,10,2019-11-02,Trabzonspor,Göztepe,0,1,0.0
+2019-2020,10,2019-11-02,Alanyaspor,Başakşehir,0,0,0.5
+2019-2020,10,2019-11-02,Antalyaspor,Beşiktaş,1,2,0.0
+2019-2020,10,2019-11-03,Denizlispor,Sivasspor,0,2,0.0
+2019-2020,10,2019-11-03,Kasımpaşa,Yeni Mal'spor,2,2,0.5
+2019-2020,10,2019-11-03,Kayserispor,Fenerbahçe,1,0,1.0
+2019-2020,10,2019-11-04,Ankaragücü,Gaziantep FK,1,2,0.0
+2019-2020,11,2019-11-08,Fenerbahçe,Kasımpaşa,3,2,1.0
+2019-2020,11,2019-11-09,Gençlerbirliği,Kayserispor,2,1,1.0
+2019-2020,11,2019-11-09,Sivasspor,Konyaspor,2,0,1.0
+2019-2020,11,2019-11-09,Rizespor,Antalyaspor,1,0,1.0
+2019-2020,11,2019-11-09,Gaziantep FK,Galatasaray,0,2,0.0
+2019-2020,11,2019-11-10,Göztepe,Yeni Mal'spor,1,1,0.5
+2019-2020,11,2019-11-10,Trabzonspor,Alanyaspor,1,0,1.0
+2019-2020,11,2019-11-10,Başakşehir,Ankaragücü,2,1,1.0
+2019-2020,11,2019-11-10,Beşiktaş,Denizlispor,1,0,1.0
+2019-2020,12,2019-11-22,Galatasaray,Başakşehir,0,1,0.0
+2019-2020,12,2019-11-23,Denizlispor,Rizespor,2,0,1.0
+2019-2020,12,2019-11-23,Ankaragücü,Trabzonspor,0,3,0.0
+2019-2020,12,2019-11-23,Konyaspor,Beşiktaş,0,1,0.0
+2019-2020,12,2019-11-24,Kayserispor,Sivasspor,1,4,0.0
+2019-2020,12,2019-11-24,Alanyaspor,Göztepe,0,1,0.0
+2019-2020,12,2019-11-24,Kasımpaşa,Gençlerbirliği,1,2,0.0
+2019-2020,12,2019-11-24,Yeni Mal'spor,Fenerbahçe,0,0,0.5
+2019-2020,12,2019-11-25,Antalyaspor,Gaziantep FK,1,1,0.5
+2019-2020,13,2019-11-29,Gençlerbirliği,Yeni Mal'spor,3,3,0.5
+2019-2020,13,2019-11-30,Sivasspor,Kasımpaşa,2,0,1.0
+2019-2020,13,2019-11-30,Rizespor,Konyaspor,3,1,1.0
+2019-2020,13,2019-11-30,Alanyaspor,Ankaragücü,5,0,1.0
+2019-2020,13,2019-11-30,Göztepe,Fenerbahçe,2,2,0.5
+2019-2020,13,2019-12-01,Gaziantep FK,Denizlispor,1,2,0.0
+2019-2020,13,2019-12-01,Başakşehir,Antalyaspor,2,0,1.0
+2019-2020,13,2019-12-01,Trabzonspor,Galatasaray,1,1,0.5
+2019-2020,13,2019-12-02,Beşiktaş,Kayserispor,4,1,1.0
+2019-2020,14,2019-12-06,Fenerbahçe,Gençlerbirliği,5,2,1.0
+2019-2020,14,2019-12-07,Yeni Mal'spor,Sivasspor,1,3,0.0
+2019-2020,14,2019-12-07,Ankaragücü,Göztepe,1,3,0.0
+2019-2020,14,2019-12-07,Galatasaray,Alanyaspor,1,0,1.0
+2019-2020,14,2019-12-08,Konyaspor,Gaziantep FK,0,0,0.5
+2019-2020,14,2019-12-08,Denizlispor,Başakşehir,1,1,0.5
+2019-2020,14,2019-12-08,Antalyaspor,Trabzonspor,1,3,0.0
+2019-2020,14,2019-12-08,Kasımpaşa,Beşiktaş,2,3,0.0
+2019-2020,14,2019-12-09,Kayserispor,Rizespor,1,0,1.0
+2019-2020,15,2019-12-13,Alanyaspor,Antalyaspor,0,0,0.5
+2019-2020,15,2019-12-14,Rizespor,Kasımpaşa,0,3,0.0
+2019-2020,15,2019-12-14,Gençlerbirliği,Göztepe,3,1,1.0
+2019-2020,15,2019-12-14,Galatasaray,Ankaragücü,2,2,0.5
+2019-2020,15,2019-12-15,Gaziantep FK,Kayserispor,3,0,1.0
+2019-2020,15,2019-12-15,Sivasspor,Fenerbahçe,3,1,1.0
+2019-2020,15,2019-12-15,Beşiktaş,Yeni Mal'spor,0,2,0.0
+2019-2020,15,2019-12-16,Trabzonspor,Denizlispor,1,2,0.0
+2019-2020,15,2019-12-16,Başakşehir,Konyaspor,1,1,0.5
+2019-2020,16,2019-12-20,Antalyaspor,Ankaragücü,2,2,0.5
+2019-2020,16,2019-12-21,Yeni Mal'spor,Rizespor,0,2,0.0
+2019-2020,16,2019-12-21,Kasımpaşa,Gaziantep FK,3,4,0.0
+2019-2020,16,2019-12-21,Göztepe,Galatasaray,2,1,1.0
+2019-2020,16,2019-12-22,Gençlerbirliği,Sivasspor,2,2,0.5
+2019-2020,16,2019-12-22,Kayserispor,Başakşehir,1,4,0.0
+2019-2020,16,2019-12-22,Fenerbahçe,Beşiktaş,3,1,1.0
+2019-2020,16,2019-12-23,Denizlispor,Alanyaspor,1,5,0.0
+2019-2020,16,2019-12-23,Konyaspor,Trabzonspor,0,1,0.0
+2019-2020,17,2019-12-27,Beşiktaş,Gençlerbirliği,4,1,1.0
+2019-2020,17,2019-12-28,Ankaragücü,Denizlispor,2,2,0.5
+2019-2020,17,2019-12-28,Başakşehir,Kasımpaşa,5,1,1.0
+2019-2020,17,2019-12-28,Trabzonspor,Kayserispor,6,2,1.0
+2019-2020,17,2019-12-28,Galatasaray,Antalyaspor,5,0,1.0
+2019-2020,17,2019-12-29,Sivasspor,Göztepe,1,0,1.0
+2019-2020,17,2019-12-29,Alanyaspor,Konyaspor,2,1,1.0
+2019-2020,17,2019-12-29,Gaziantep FK,Yeni Mal'spor,1,1,0.5
+2019-2020,17,2019-12-29,Rizespor,Fenerbahçe,1,2,0.0
+2019-2020,18,2020-01-17,Ankaragücü,Konyaspor,0,1,0.0
+2019-2020,18,2020-01-18,Alanyaspor,Kayserispor,5,1,1.0
+2019-2020,18,2020-01-18,Başakşehir,Yeni Mal'spor,4,1,1.0
+2019-2020,18,2020-01-18,Gaziantep FK,Fenerbahçe,0,2,0.0
+2019-2020,18,2020-01-19,Antalyaspor,Göztepe,0,3,0.0
+2019-2020,18,2020-01-19,Trabzonspor,Kasımpaşa,6,0,1.0
+2019-2020,18,2020-01-19,Galatasaray,Denizlispor,2,1,1.0
+2019-2020,18,2020-01-19,Beşiktaş,Sivasspor,1,2,0.0
+2019-2020,18,2020-01-20,Rizespor,Gençlerbirliği,2,0,1.0
+2019-2020,19,2020-01-24,Gençlerbirliği,Gaziantep FK,1,0,1.0
+2019-2020,19,2020-01-25,Kayserispor,Ankaragücü,1,1,0.5
+2019-2020,19,2020-01-25,Kasımpaşa,Alanyaspor,1,2,0.0
+2019-2020,19,2020-01-25,Fenerbahçe,Başakşehir,2,0,1.0
+2019-2020,19,2020-01-26,Denizlispor,Antalyaspor,0,3,0.0
+2019-2020,19,2020-01-26,Göztepe,Beşiktaş,2,1,1.0
+2019-2020,19,2020-01-26,Konyaspor,Galatasaray,0,3,0.0
+2019-2020,19,2020-01-27,Sivasspor,Rizespor,1,1,0.5
+2019-2020,20,2020-01-31,Başakşehir,Gençlerbirliği,3,1,1.0
+2019-2020,20,2020-02-01,Antalyaspor,Konyaspor,0,0,0.5
+2019-2020,20,2020-02-01,Rizespor,Beşiktaş,1,2,0.0
+2019-2020,20,2020-02-01,Trabzonspor,Fenerbahçe,2,1,1.0
+2019-2020,20,2020-02-02,Ankaragücü,Kasımpaşa,1,1,0.5
+2019-2020,20,2020-02-02,Alanyaspor,Yeni Mal'spor,2,1,1.0
+2019-2020,20,2020-02-02,Gaziantep FK,Sivasspor,5,1,1.0
+2019-2020,20,2020-02-02,Galatasaray,Kayserispor,4,1,1.0
+2019-2020,20,2020-02-03,Denizlispor,Göztepe,1,1,0.5
+2019-2020,21,2020-02-07,Yeni Mal'spor,Ankaragücü,0,1,0.0
+2019-2020,21,2020-02-08,Konyaspor,Denizlispor,0,0,0.5
+2019-2020,21,2020-02-08,Gençlerbirliği,Trabzonspor,0,2,0.0
+2019-2020,21,2020-02-08,Beşiktaş,Gaziantep FK,3,0,1.0
+2019-2020,21,2020-02-08,Fenerbahçe,Alanyaspor,1,1,0.5
+2019-2020,21,2020-02-09,Kayserispor,Antalyaspor,2,2,0.5
+2019-2020,21,2020-02-09,Sivasspor,Başakşehir,1,1,0.5
+2019-2020,21,2020-02-09,Kasımpaşa,Galatasaray,0,3,0.0
+2019-2020,22,2020-02-14,Başakşehir,Beşiktaş,1,0,1.0
+2019-2020,22,2020-02-15,Denizlispor,Kayserispor,0,1,0.0
+2019-2020,22,2020-02-15,Konyaspor,Göztepe,1,3,0.0
+2019-2020,22,2020-02-15,Ankaragücü,Fenerbahçe,2,1,1.0
+2019-2020,22,2020-02-16,Alanyaspor,Gençlerbirliği,0,1,0.0
+2019-2020,22,2020-02-16,Trabzonspor,Sivasspor,2,1,1.0
+2019-2020,22,2020-02-16,Galatasaray,Yeni Mal'spor,1,0,1.0
+2019-2020,22,2020-02-17,Antalyaspor,Kasımpaşa,3,1,1.0
+2019-2020,22,2020-02-17,Gaziantep FK,Rizespor,2,0,1.0
+2019-2020,23,2020-02-21,Sivasspor,Alanyaspor,1,0,1.0
+2019-2020,23,2020-02-22,Kayserispor,Konyaspor,2,2,0.5
+2019-2020,23,2020-02-22,Göztepe,Gaziantep FK,1,1,0.5
+2019-2020,23,2020-02-22,Beşiktaş,Trabzonspor,2,2,0.5
+2019-2020,23,2020-02-23,Yeni Mal'spor,Antalyaspor,1,2,0.0
+2019-2020,23,2020-02-23,Gençlerbirliği,Ankaragücü,1,0,1.0
+2019-2020,23,2020-02-23,Fenerbahçe,Galatasaray,1,3,0.0
+2019-2020,23,2020-02-24,Rizespor,Başakşehir,1,2,0.0
+2019-2020,23,2020-02-24,Kasımpaşa,Denizlispor,2,0,1.0
+2019-2020,24,2020-02-28,Alanyaspor,Beşiktaş,1,2,0.0
+2019-2020,24,2020-02-29,Konyaspor,Kasımpaşa,0,0,0.5
+2019-2020,24,2020-02-29,Trabzonspor,Rizespor,5,2,1.0
+2019-2020,24,2020-02-29,Antalyaspor,Fenerbahçe,2,2,0.5
+2019-2020,24,2020-03-01,Denizlispor,Yeni Mal'spor,2,0,1.0
+2019-2020,24,2020-03-01,Ankaragücü,Sivasspor,0,3,0.0
+2019-2020,24,2020-03-01,Galatasaray,Gençlerbirliği,3,0,1.0
+2019-2020,24,2020-03-02,Başakşehir,Gaziantep FK,3,1,1.0
+2019-2020,24,2020-03-02,Kayserispor,Göztepe,1,0,1.0
+2019-2020,25,2020-03-06,Beşiktaş,Ankaragücü,2,1,1.0
+2019-2020,25,2020-03-07,Yeni Mal'spor,Konyaspor,1,1,0.5
+2019-2020,25,2020-03-07,Göztepe,Başakşehir,0,3,0.0
+2019-2020,25,2020-03-07,Gaziantep FK,Trabzonspor,1,1,0.5
+2019-2020,25,2020-03-07,Fenerbahçe,Denizlispor,2,2,0.5
+2019-2020,25,2020-03-08,Kasımpaşa,Kayserispor,5,1,1.0
+2019-2020,25,2020-03-08,Rizespor,Alanyaspor,1,1,0.5
+2019-2020,25,2020-03-08,Sivasspor,Galatasaray,2,2,0.5
+2019-2020,25,2020-03-09,Gençlerbirliği,Antalyaspor,1,1,0.5
+2019-2020,19,2020-03-11,Yeni Mal'spor,Trabzonspor,1,3,0.0
+2019-2020,26,2020-03-13,Kasımpaşa,Göztepe,2,0,1.0
+2019-2020,26,2020-03-13,Ankaragücü,Rizespor,2,1,1.0
+2019-2020,26,2020-03-14,Denizlispor,Gençlerbirliği,1,0,1.0
+2019-2020,26,2020-03-14,Alanyaspor,Gaziantep FK,1,0,1.0
+2019-2020,26,2020-03-14,Konyaspor,Fenerbahçe,1,0,1.0
+2019-2020,26,2020-03-15,Kayserispor,Yeni Mal'spor,2,1,1.0
+2019-2020,26,2020-03-15,Trabzonspor,Başakşehir,1,1,0.5
+2019-2020,26,2020-03-15,Galatasaray,Beşiktaş,0,0,0.5
+2019-2020,26,2020-03-16,Antalyaspor,Sivasspor,1,0,1.0
+2019-2020,21,2020-03-17,Göztepe,Rizespor,2,0,1.0
+2019-2020,27,2020-06-12,Fenerbahçe,Kayserispor,2,1,1.0
+2019-2020,27,2020-06-12,Göztepe,Trabzonspor,1,3,0.0
+2019-2020,27,2020-06-13,Başakşehir,Alanyaspor,2,0,1.0
+2019-2020,27,2020-06-13,Yeni Mal'spor,Kasımpaşa,1,2,0.0
+2019-2020,27,2020-06-13,Beşiktaş,Antalyaspor,1,2,0.0
+2019-2020,27,2020-06-14,Gençlerbirliği,Konyaspor,2,1,1.0
+2019-2020,27,2020-06-14,Rizespor,Galatasaray,2,0,1.0
+2019-2020,27,2020-06-14,Gaziantep FK,Ankaragücü,1,1,0.5
+2019-2020,27,2020-06-15,Sivasspor,Denizlispor,1,0,1.0
+2019-2020,28,2020-06-19,Ankaragücü,Başakşehir,1,2,0.0
+2019-2020,28,2020-06-20,Kayserispor,Gençlerbirliği,2,0,1.0
+2019-2020,28,2020-06-20,Yeni Mal'spor,Göztepe,2,1,1.0
+2019-2020,28,2020-06-20,Denizlispor,Beşiktaş,1,5,0.0
+2019-2020,28,2020-06-21,Kasımpaşa,Fenerbahçe,2,0,1.0
+2019-2020,28,2020-06-21,Konyaspor,Sivasspor,2,2,0.5
+2019-2020,28,2020-06-21,Galatasaray,Gaziantep FK,3,3,0.5
+2019-2020,28,2020-06-22,Antalyaspor,Rizespor,3,1,1.0
+2019-2020,28,2020-06-22,Alanyaspor,Trabzonspor,2,2,0.5
+2019-2020,29,2020-06-26,Beşiktaş,Konyaspor,3,0,1.0
+2019-2020,29,2020-06-27,Fenerbahçe,Yeni Mal'spor,3,2,1.0
+2019-2020,29,2020-06-27,Göztepe,Alanyaspor,3,3,0.5
+2019-2020,29,2020-06-27,Trabzonspor,Ankaragücü,1,1,0.5
+2019-2020,29,2020-06-28,Sivasspor,Kayserispor,0,2,0.0
+2019-2020,29,2020-06-28,Rizespor,Denizlispor,2,2,0.5
+2019-2020,29,2020-06-28,Başakşehir,Galatasaray,1,1,0.5
+2019-2020,29,2020-06-28,Gaziantep FK,Antalyaspor,1,1,0.5
+2019-2020,29,2020-06-29,Gençlerbirliği,Kasımpaşa,0,2,0.0
+2019-2020,30,2020-07-03,Denizlispor,Gaziantep FK,0,1,0.0
+2019-2020,30,2020-07-04,Ankaragücü,Alanyaspor,1,4,0.0
+2019-2020,30,2020-07-04,Yeni Mal'spor,Gençlerbirliği,0,0,0.5
+2019-2020,30,2020-07-04,Fenerbahçe,Göztepe,2,1,1.0
+2019-2020,30,2020-07-04,Antalyaspor,Başakşehir,0,2,0.0
+2019-2020,30,2020-07-05,Kasımpaşa,Sivasspor,0,0,0.5
+2019-2020,30,2020-07-05,Galatasaray,Trabzonspor,1,3,0.0
+2019-2020,30,2020-07-05,Konyaspor,Rizespor,1,0,1.0
+2019-2020,30,2020-07-06,Kayserispor,Beşiktaş,3,1,1.0
+2019-2020,31,2020-07-07,Gençlerbirliği,Fenerbahçe,1,1,0.5
+2019-2020,31,2020-07-07,Başakşehir,Denizlispor,2,0,1.0
+2019-2020,31,2020-07-08,Sivasspor,Yeni Mal'spor,0,1,0.0
+2019-2020,31,2020-07-08,Trabzonspor,Antalyaspor,2,2,0.5
+2019-2020,31,2020-07-08,Göztepe,Ankaragücü,2,2,0.5
+2019-2020,31,2020-07-08,Alanyaspor,Galatasaray,4,1,1.0
+2019-2020,31,2020-07-09,Rizespor,Kayserispor,3,2,1.0
+2019-2020,31,2020-07-09,Gaziantep FK,Konyaspor,3,1,1.0
+2019-2020,31,2020-07-09,Beşiktaş,Kasımpaşa,3,2,1.0
+2019-2020,32,2020-07-11,Göztepe,Gençlerbirliği,1,3,0.0
+2019-2020,32,2020-07-12,Ankaragücü,Galatasaray,1,0,1.0
+2019-2020,32,2020-07-12,Fenerbahçe,Sivasspor,1,2,0.0
+2019-2020,32,2020-07-12,Antalyaspor,Alanyaspor,1,0,1.0
+2019-2020,32,2020-07-13,Kasımpaşa,Rizespor,2,0,1.0
+2019-2020,32,2020-07-13,Kayserispor,Gaziantep FK,1,1,0.5
+2019-2020,32,2020-07-13,Denizlispor,Trabzonspor,2,1,1.0
+2019-2020,32,2020-07-13,Yeni Mal'spor,Beşiktaş,0,1,0.0
+2019-2020,32,2020-07-13,Konyaspor,Başakşehir,4,3,1.0
+2019-2020,33,2020-07-18,Galatasaray,Göztepe,3,1,1.0
+2019-2020,33,2020-07-18,Gaziantep FK,Kasımpaşa,2,2,0.5
+2019-2020,33,2020-07-19,Sivasspor,Gençlerbirliği,2,0,1.0
+2019-2020,33,2020-07-19,Rizespor,Yeni Mal'spor,3,0,1.0
+2019-2020,33,2020-07-19,Beşiktaş,Fenerbahçe,2,0,1.0
+2019-2020,33,2020-07-19,Başakşehir,Kayserispor,1,0,1.0
+2019-2020,33,2020-07-19,Trabzonspor,Konyaspor,3,4,0.0
+2019-2020,33,2020-07-19,Alanyaspor,Denizlispor,1,0,1.0
+2019-2020,33,2020-07-19,Ankaragücü,Antalyaspor,0,1,0.0
+2019-2020,34,2020-07-24,Antalyaspor,Galatasaray,2,2,0.5
+2019-2020,34,2020-07-25,Göztepe,Sivasspor,3,1,1.0
+2019-2020,34,2020-07-25,Yeni Mal'spor,Gaziantep FK,0,1,0.0
+2019-2020,34,2020-07-25,Fenerbahçe,Rizespor,3,1,1.0
+2019-2020,34,2020-07-25,Gençlerbirliği,Beşiktaş,0,3,0.0
+2019-2020,34,2020-07-25,Konyaspor,Alanyaspor,2,3,0.0
+2019-2020,34,2020-07-25,Denizlispor,Ankaragücü,0,1,0.0
+2019-2020,34,2020-07-25,Kayserispor,Trabzonspor,1,2,0.0
+2019-2020,34,2020-07-26,Kasımpaşa,Başakşehir,3,2,1.0

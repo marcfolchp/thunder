@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1921-1922,1,1921-08-27,Arsenal,Sheffield Utd,1,2,0.0
+1921-1922,1,1921-08-27,Cardiff City,Tottenham,0,1,0.0
+1921-1922,1,1921-08-27,Oldham Athletic,Bradford City,0,0,0.5
+1921-1922,1,1921-08-27,Everton,Manchester Utd,5,0,1.0
+1921-1922,1,1921-08-27,Blackburn,Chelsea,1,1,0.5
+1921-1922,1,1921-08-27,Birmingham,Burnley,2,3,0.0
+1921-1922,1,1921-08-27,Huddersfield,Newcastle Utd,1,2,0.0
+1921-1922,1,1921-08-27,Bolton,Preston,2,2,0.5
+1921-1922,1,1921-08-27,Sunderland,Liverpool,3,0,1.0
+1921-1922,1,1921-08-27,West Brom,Middlesbrough,0,0,0.5
+1921-1922,1,1921-08-27,Manchester City,Aston Villa,2,1,1.0
+1921-1922,2,1921-08-29,Manchester Utd,West Brom,2,3,0.0
+1921-1922,2,1921-08-29,Chelsea,Birmingham,1,2,0.0
+1921-1922,2,1921-08-29,Middlesbrough,Oldham Athletic,1,1,0.5
+1921-1922,2,1921-08-29,Bradford City,Blackburn,1,1,0.5
+1921-1922,2,1921-08-29,Sheffield Utd,Huddersfield,1,1,0.5
+1921-1922,2,1921-08-29,Preston,Arsenal,3,2,1.0
+1921-1922,2,1921-08-29,Aston Villa,Cardiff City,2,1,1.0
+1921-1922,2,1921-08-29,Tottenham,Bolton,1,2,0.0
+1921-1922,2,1921-08-31,Sunderland,Burnley,3,2,1.0
+1921-1922,2,1921-08-31,Newcastle Utd,Everton,3,0,1.0
+1921-1922,2,1921-08-31,Liverpool,Manchester City,3,2,1.0
+1921-1922,3,1921-09-03,Middlesbrough,West Brom,3,2,1.0
+1921-1922,3,1921-09-03,Newcastle Utd,Huddersfield,1,2,0.0
+1921-1922,3,1921-09-03,Liverpool,Sunderland,2,1,1.0
+1921-1922,3,1921-09-03,Aston Villa,Manchester City,4,0,1.0
+1921-1922,3,1921-09-03,Burnley,Birmingham,3,1,1.0
+1921-1922,3,1921-09-03,Sheffield Utd,Arsenal,4,1,1.0
+1921-1922,3,1921-09-03,Tottenham,Cardiff City,4,1,1.0
+1921-1922,3,1921-09-03,Bradford City,Oldham Athletic,3,0,1.0
+1921-1922,3,1921-09-03,Chelsea,Blackburn,1,0,1.0
+1921-1922,3,1921-09-03,Preston,Bolton,3,1,1.0
+1921-1922,3,1921-09-03,Manchester Utd,Everton,2,1,1.0
+1921-1922,4,1921-09-05,Birmingham,Chelsea,5,1,1.0
+1921-1922,4,1921-09-05,Burnley,Sunderland,2,0,1.0
+1921-1922,4,1921-09-05,Oldham Athletic,Middlesbrough,0,1,0.0
+1921-1922,4,1921-09-05,Arsenal,Preston,1,0,1.0
+1921-1922,4,1921-09-05,Cardiff City,Aston Villa,0,4,0.0
+1921-1922,4,1921-09-05,Bolton,Tottenham,1,0,1.0
+1921-1922,4,1921-09-06,Huddersfield,Sheffield Utd,1,1,0.5
+1921-1922,4,1921-09-07,Manchester City,Liverpool,1,1,0.5
+1921-1922,4,1921-09-07,Everton,Newcastle Utd,2,3,0.0
+1921-1922,4,1921-09-07,West Brom,Manchester Utd,0,0,0.5
+1921-1922,4,1921-09-10,West Brom,Blackburn,0,2,0.0
+1921-1922,5,1921-09-10,Tottenham,Middlesbrough,2,4,0.0
+1921-1922,5,1921-09-10,Sunderland,Huddersfield,2,2,0.5
+1921-1922,5,1921-09-10,Bolton,Bradford City,3,3,0.5
+1921-1922,5,1921-09-10,Cardiff City,Oldham Athletic,0,1,0.0
+1921-1922,5,1921-09-10,Manchester City,Arsenal,2,0,1.0
+1921-1922,5,1921-09-10,Burnley,Newcastle Utd,2,0,1.0
+1921-1922,5,1921-09-10,Everton,Birmingham,2,1,1.0
+1921-1922,5,1921-09-10,Sheffield Utd,Liverpool,0,1,0.0
+1921-1922,5,1921-09-10,Preston,Aston Villa,1,0,1.0
+1921-1922,5,1921-09-10,Chelsea,Manchester Utd,0,0,0.5
+1921-1922,5,1921-09-12,Aston Villa,Blackburn,1,1,0.5
+1921-1922,6,1921-09-17,Middlesbrough,Tottenham,0,0,0.5
+1921-1922,6,1921-09-17,Liverpool,Sheffield Utd,1,1,0.5
+1921-1922,6,1921-09-17,Bradford City,Bolton,4,3,1.0
+1921-1922,6,1921-09-17,Blackburn,West Brom,2,3,0.0
+1921-1922,6,1921-09-17,Manchester Utd,Chelsea,0,0,0.5
+1921-1922,6,1921-09-17,Newcastle Utd,Burnley,2,1,1.0
+1921-1922,6,1921-09-17,Birmingham,Everton,1,1,0.5
+1921-1922,6,1921-09-17,Huddersfield,Sunderland,1,2,0.0
+1921-1922,6,1921-09-17,Arsenal,Manchester City,0,1,0.0
+1921-1922,6,1921-09-17,Oldham Athletic,Cardiff City,2,1,1.0
+1921-1922,7,1921-09-17,Aston Villa,Preston,2,0,1.0
+1921-1922,7,1921-09-19,Blackburn,Bradford City,3,1,1.0
+1921-1922,7,1921-09-24,Everton,Arsenal,1,1,0.5
+1921-1922,7,1921-09-24,Chelsea,Liverpool,0,1,0.0
+1921-1922,7,1921-09-24,Cardiff City,Middlesbrough,3,1,1.0
+1921-1922,7,1921-09-24,Bolton,Huddersfield,3,1,1.0
+1921-1922,7,1921-09-24,Sheffield Utd,Newcastle Utd,1,1,0.5
+1921-1922,7,1921-09-24,West Brom,Oldham Athletic,0,1,0.0
+1921-1922,7,1921-09-24,Sunderland,Birmingham,2,1,1.0
+1921-1922,7,1921-09-24,Preston,Manchester Utd,3,2,1.0
+1921-1922,7,1921-09-24,Burnley,Bradford City,4,0,1.0
+1921-1922,8,1921-09-24,Manchester City,Blackburn,1,1,0.5
+1921-1922,8,1921-09-24,Tottenham,Aston Villa,3,1,1.0
+1921-1922,8,1921-10-01,Manchester Utd,Preston,1,1,0.5
+1921-1922,8,1921-10-01,Birmingham,Sunderland,1,0,1.0
+1921-1922,8,1921-10-01,Newcastle Utd,Sheffield Utd,2,1,1.0
+1921-1922,8,1921-10-01,Huddersfield,Bolton,3,0,1.0
+1921-1922,8,1921-10-01,Arsenal,Everton,1,0,1.0
+1921-1922,8,1921-10-01,Oldham Athletic,West Brom,1,0,1.0
+1921-1922,8,1921-10-01,Liverpool,Chelsea,1,1,0.5
+1921-1922,8,1921-10-01,Middlesbrough,Cardiff City,0,0,0.5
+1921-1922,8,1921-10-01,Bradford City,Burnley,0,4,0.0
+1921-1922,9,1921-10-01,Aston Villa,Tottenham,2,1,1.0
+1921-1922,9,1921-10-01,Blackburn,Manchester City,3,1,1.0
+1921-1922,9,1921-10-08,Preston,Liverpool,1,1,0.5
+1921-1922,9,1921-10-08,Manchester City,Oldham Athletic,2,1,1.0
+1921-1922,9,1921-10-08,Birmingham,Huddersfield,0,2,0.0
+1921-1922,9,1921-10-08,Chelsea,Newcastle Utd,1,1,0.5
+1921-1922,9,1921-10-08,Bradford City,Middlesbrough,0,2,0.0
+1921-1922,9,1921-10-08,Burnley,Sheffield Utd,2,1,1.0
+1921-1922,9,1921-10-08,West Brom,Aston Villa,0,1,0.0
+1921-1922,9,1921-10-08,Tottenham,Manchester Utd,2,2,0.5
+1921-1922,9,1921-10-08,Cardiff City,Bolton,1,2,0.0
+1921-1922,9,1921-10-08,Sunderland,Arsenal,1,0,1.0
+1921-1922,10,1921-10-08,Everton,Blackburn,2,0,1.0
+1921-1922,10,1921-10-15,Arsenal,Sunderland,1,2,0.0
+1921-1922,10,1921-10-15,Aston Villa,West Brom,0,1,0.0
+1921-1922,10,1921-10-15,Huddersfield,Birmingham,1,0,1.0
+1921-1922,10,1921-10-15,Liverpool,Preston,4,0,1.0
+1921-1922,10,1921-10-15,Newcastle Utd,Chelsea,1,0,1.0
+1921-1922,10,1921-10-15,Sheffield Utd,Burnley,0,1,0.0
+1921-1922,10,1921-10-15,Bolton,Cardiff City,1,2,0.0
+1921-1922,10,1921-10-15,Middlesbrough,Bradford City,1,2,0.0
+1921-1922,10,1921-10-15,Manchester Utd,Tottenham,2,1,1.0
+1921-1922,10,1921-10-15,Oldham Athletic,Manchester City,0,1,0.0
+1921-1922,11,1921-10-15,Blackburn,Everton,2,2,0.5
+1921-1922,11,1921-10-22,Burnley,Chelsea,5,0,1.0
+1921-1922,11,1921-10-22,West Brom,Cardiff City,2,2,0.5
+1921-1922,11,1921-10-22,Birmingham,Bolton,1,1,0.5
+1921-1922,11,1921-10-22,Huddersfield,Arsenal,2,0,1.0
+1921-1922,11,1921-10-22,Preston,Newcastle Utd,2,0,1.0
+1921-1922,11,1921-10-22,Everton,Oldham Athletic,2,2,0.5
+1921-1922,11,1921-10-22,Manchester City,Manchester Utd,4,1,1.0
+1921-1922,11,1921-10-22,Bradford City,Sheffield Utd,1,1,0.5
+1921-1922,11,1921-10-22,Tottenham,Liverpool,0,1,0.0
+1921-1922,12,1921-10-22,Sunderland,Blackburn,3,1,1.0
+1921-1922,12,1921-10-22,Middlesbrough,Aston Villa,5,0,1.0
+1921-1922,12,1921-10-29,Bolton,Birmingham,1,2,0.0
+1921-1922,12,1921-10-29,Sheffield Utd,Bradford City,1,0,1.0
+1921-1922,12,1921-10-29,Newcastle Utd,Preston,3,1,1.0
+1921-1922,12,1921-10-29,Oldham Athletic,Everton,0,0,0.5
+1921-1922,12,1921-10-29,Cardiff City,West Brom,2,0,1.0
+1921-1922,12,1921-10-29,Chelsea,Burnley,4,1,1.0
+1921-1922,12,1921-10-29,Arsenal,Huddersfield,1,3,0.0
+1921-1922,12,1921-10-29,Liverpool,Tottenham,1,1,0.5
+1921-1922,12,1921-10-29,Manchester Utd,Manchester City,3,1,1.0
+1921-1922,13,1921-10-29,Blackburn,Sunderland,1,2,0.0
+1921-1922,13,1921-10-29,Aston Villa,Middlesbrough,6,2,1.0
+1921-1922,13,1921-11-05,Cardiff City,Manchester City,0,2,0.0
+1921-1922,13,1921-11-05,Chelsea,Sheffield Utd,0,2,0.0
+1921-1922,13,1921-11-05,Sunderland,Oldham Athletic,5,1,1.0
+1921-1922,13,1921-11-05,Burnley,Preston,3,3,0.5
+1921-1922,13,1921-11-05,Manchester Utd,Middlesbrough,3,5,0.0
+1921-1922,13,1921-11-05,West Brom,Bolton,0,1,0.0
+1921-1922,13,1921-11-05,Everton,Liverpool,1,1,0.5
+1921-1922,13,1921-11-05,Birmingham,Arsenal,0,1,0.0
+1921-1922,13,1921-11-05,Tottenham,Newcastle Utd,4,0,1.0
+1921-1922,14,1921-11-05,Huddersfield,Blackburn,3,0,1.0
+1921-1922,14,1921-11-05,Bradford City,Aston Villa,3,2,1.0
+1921-1922,14,1921-11-12,Middlesbrough,Manchester Utd,2,0,1.0
+1921-1922,14,1921-11-12,Bolton,West Brom,2,0,1.0
+1921-1922,14,1921-11-12,Oldham Athletic,Sunderland,3,0,1.0
+1921-1922,14,1921-11-12,Manchester City,Cardiff City,1,1,0.5
+1921-1922,14,1921-11-12,Preston,Burnley,2,1,1.0
+1921-1922,14,1921-11-12,Liverpool,Everton,1,1,0.5
+1921-1922,14,1921-11-12,Arsenal,Birmingham,5,2,1.0
+1921-1922,14,1921-11-12,Newcastle Utd,Tottenham,0,2,0.0
+1921-1922,14,1921-11-12,Sheffield Utd,Chelsea,1,2,0.0
+1921-1922,15,1921-11-12,Aston Villa,Bradford City,7,1,1.0
+1921-1922,15,1921-11-12,Blackburn,Huddersfield,2,0,1.0
+1921-1922,15,1921-11-19,Newcastle Utd,Sunderland,2,2,0.5
+1921-1922,15,1921-11-19,Tottenham,Burnley,1,1,0.5
+1921-1922,15,1921-11-19,Liverpool,Middlesbrough,4,0,1.0
+1921-1922,15,1921-11-19,Cardiff City,Everton,2,1,1.0
+1921-1922,15,1921-11-19,Manchester City,West Brom,6,1,1.0
+1921-1922,15,1921-11-19,Blackburn,Birmingham,1,1,0.5
+1921-1922,15,1921-11-19,Chelsea,Bradford City,1,0,1.0
+1921-1922,15,1921-11-19,Bolton,Arsenal,1,0,1.0
+1921-1922,15,1921-11-19,Sheffield Utd,Preston,3,0,1.0
+1921-1922,15,1921-11-19,Oldham Athletic,Huddersfield,1,1,0.5
+1921-1922,16,1921-11-19,Aston Villa,Manchester Utd,3,1,1.0
+1921-1922,16,1921-11-26,Middlesbrough,Liverpool,3,1,1.0
+1921-1922,16,1921-11-26,Huddersfield,Oldham Athletic,1,0,1.0
+1921-1922,16,1921-11-26,Birmingham,Blackburn,1,0,1.0
+1921-1922,16,1921-11-26,Bradford City,Chelsea,0,1,0.0
+1921-1922,16,1921-11-26,Burnley,Tottenham,1,0,1.0
+1921-1922,16,1921-11-26,Everton,Cardiff City,0,1,0.0
+1921-1922,16,1921-11-26,Preston,Sheffield Utd,3,0,1.0
+1921-1922,16,1921-11-26,West Brom,Manchester City,2,0,1.0
+1921-1922,16,1921-11-26,Sunderland,Newcastle Utd,0,0,0.5
+1921-1922,17,1921-11-26,Manchester Utd,Aston Villa,1,0,1.0
+1921-1922,16,1921-12-03,Manchester City,Bolton,2,3,0.0
+1921-1922,16,1921-12-03,Blackburn,Arsenal,0,1,0.0
+1921-1922,17,1921-12-03,Huddersfield,Burnley,1,0,1.0
+1921-1922,17,1921-12-03,Oldham Athletic,Birmingham,0,1,0.0
+1921-1922,17,1921-12-03,Cardiff City,Sunderland,2,0,1.0
+1921-1922,17,1921-12-03,Chelsea,Preston,0,0,0.5
+1921-1922,17,1921-12-03,Bradford City,Manchester Utd,2,1,1.0
+1921-1922,17,1921-12-03,Tottenham,Sheffield Utd,2,1,1.0
+1921-1922,17,1921-12-03,Newcastle Utd,Middlesbrough,0,0,0.5
+1921-1922,17,1921-12-03,Everton,West Brom,1,2,0.0
+1921-1922,18,1921-12-03,Aston Villa,Liverpool,1,1,0.5
+1921-1922,17,1921-12-10,Bolton,Manchester City,5,0,1.0
+1921-1922,17,1921-12-10,Arsenal,Blackburn,1,1,0.5
+1921-1922,18,1921-12-10,Manchester Utd,Bradford City,1,1,0.5
+1921-1922,18,1921-12-10,Birmingham,Oldham Athletic,3,0,1.0
+1921-1922,18,1921-12-10,West Brom,Everton,1,1,0.5
+1921-1922,18,1921-12-10,Burnley,Huddersfield,1,0,1.0
+1921-1922,18,1921-12-10,Preston,Chelsea,2,0,1.0
+1921-1922,18,1921-12-10,Sheffield Utd,Tottenham,1,0,1.0
+1921-1922,18,1921-12-10,Middlesbrough,Newcastle Utd,1,1,0.5
+1921-1922,18,1921-12-10,Sunderland,Cardiff City,4,1,1.0
+1921-1922,19,1921-12-10,Liverpool,Aston Villa,2,0,1.0
+1921-1922,18,1921-12-12,Arsenal,Bolton,1,1,0.5
+1921-1922,19,1921-12-17,Cardiff City,Huddersfield,0,0,0.5
+1921-1922,19,1921-12-17,West Brom,Sunderland,2,1,1.0
+1921-1922,19,1921-12-17,Tottenham,Chelsea,0,0,0.5
+1921-1922,19,1921-12-17,Oldham Athletic,Arsenal,2,1,1.0
+1921-1922,19,1921-12-17,Middlesbrough,Burnley,4,1,1.0
+1921-1922,19,1921-12-17,Liverpool,Manchester Utd,2,1,1.0
+1921-1922,19,1921-12-17,Birmingham,Sheffield Utd,2,1,1.0
+1921-1922,19,1921-12-17,Bradford City,Preston,1,0,1.0
+1921-1922,19,1921-12-17,Manchester City,Everton,2,1,1.0
+1921-1922,20,1921-12-17,Blackburn,Bolton,1,2,0.0
+1921-1922,20,1921-12-17,Newcastle Utd,Aston Villa,1,2,0.0
+1921-1922,20,1921-12-24,Chelsea,Tottenham,1,2,0.0
+1921-1922,20,1921-12-24,Burnley,Middlesbrough,3,1,1.0
+1921-1922,20,1921-12-24,Sunderland,West Brom,5,0,1.0
+1921-1922,20,1921-12-24,Sheffield Utd,Birmingham,1,2,0.0
+1921-1922,20,1921-12-24,Preston,Bradford City,2,1,1.0
+1921-1922,20,1921-12-24,Manchester Utd,Liverpool,0,0,0.5
+1921-1922,20,1921-12-24,Arsenal,Oldham Athletic,0,1,0.0
+1921-1922,20,1921-12-24,Everton,Manchester City,2,2,0.5
+1921-1922,20,1921-12-24,Huddersfield,Cardiff City,0,1,0.0
+1921-1922,21,1921-12-24,Bolton,Blackburn,1,1,0.5
+1921-1922,21,1921-12-24,Aston Villa,Newcastle Utd,1,0,1.0
+1921-1922,21,1921-12-26,Middlesbrough,Chelsea,0,1,0.0
+1921-1922,21,1921-12-26,Sunderland,Everton,1,2,0.0
+1921-1922,21,1921-12-26,Arsenal,Cardiff City,0,0,0.5
+1921-1922,21,1921-12-26,Liverpool,Newcastle Utd,1,0,1.0
+1921-1922,21,1921-12-26,West Brom,Birmingham,1,0,1.0
+1921-1922,21,1921-12-26,Manchester Utd,Burnley,0,1,0.0
+1921-1922,21,1921-12-26,Tottenham,Bradford City,1,0,1.0
+1921-1922,21,1921-12-26,Oldham Athletic,Bolton,0,0,0.5
+1921-1922,21,1921-12-26,Huddersfield,Manchester City,2,0,1.0
+1921-1922,22,1921-12-26,Sheffield Utd,Aston Villa,2,3,0.0
+1921-1922,22,1921-12-26,Blackburn,Preston,3,0,1.0
+1921-1922,22,1921-12-27,Liverpool,Huddersfield,2,0,1.0
+1921-1922,22,1921-12-27,Burnley,Manchester Utd,4,2,1.0
+1921-1922,22,1921-12-27,Birmingham,West Brom,0,2,0.0
+1921-1922,22,1921-12-27,Bradford City,Tottenham,0,4,0.0
+1921-1922,22,1921-12-27,Chelsea,Middlesbrough,1,1,0.5
+1921-1922,22,1921-12-27,Cardiff City,Arsenal,4,3,1.0
+1921-1922,23,1921-12-27,Preston,Blackburn,2,1,1.0
+1921-1922,23,1921-12-27,Aston Villa,Sheffield Utd,5,3,1.0
+1921-1922,22,1921-12-31,Everton,Bolton,1,0,1.0
+1921-1922,22,1921-12-31,Manchester City,Sunderland,3,0,1.0
+1921-1922,23,1921-12-31,Birmingham,Cardiff City,0,1,0.0
+1921-1922,23,1921-12-31,Tottenham,Preston,5,0,1.0
+1921-1922,23,1921-12-31,Sheffield Utd,Middlesbrough,6,1,1.0
+1921-1922,23,1921-12-31,Newcastle Utd,Manchester Utd,3,0,1.0
+1921-1922,23,1921-12-31,Bradford City,Liverpool,0,0,0.5
+1921-1922,23,1921-12-31,West Brom,Huddersfield,3,2,1.0
+1921-1922,23,1921-12-31,Chelsea,Arsenal,0,2,0.0
+1921-1922,24,1921-12-31,Burnley,Aston Villa,2,1,1.0
+1921-1922,24,1921-12-31,Oldham Athletic,Blackburn,1,1,0.5
+1921-1922,23,1922-01-02,Bolton,Oldham Athletic,5,1,1.0
+1921-1922,23,1922-01-02,Everton,Sunderland,3,0,1.0
+1921-1922,24,1922-01-02,Manchester City,Huddersfield,2,1,1.0
+1921-1922,24,1922-01-02,Newcastle Utd,Liverpool,1,1,0.5
+1921-1922,24,1922-01-02,Sheffield Utd,Manchester Utd,3,0,1.0
+1921-1922,25,1922-01-02,Blackburn,Cardiff City,1,3,0.0
+1921-1922,24,1922-01-14,Middlesbrough,Sheffield Utd,1,1,0.5
+1921-1922,24,1922-01-14,Sunderland,Manchester City,2,3,0.0
+1921-1922,24,1922-01-14,Cardiff City,Birmingham,3,1,1.0
+1921-1922,24,1922-01-14,Liverpool,Bradford City,2,1,1.0
+1921-1922,24,1922-01-14,Bolton,Everton,1,0,1.0
+1921-1922,24,1922-01-14,Arsenal,Chelsea,1,0,1.0
+1921-1922,24,1922-01-14,Preston,Tottenham,1,2,0.0
+1921-1922,25,1922-01-14,Aston Villa,Burnley,2,0,1.0
+1921-1922,25,1922-01-14,Huddersfield,West Brom,2,0,1.0
+1921-1922,25,1922-01-14,Manchester Utd,Newcastle Utd,0,1,0.0
+1921-1922,26,1922-01-14,Blackburn,Oldham Athletic,3,2,1.0
+1921-1922,25,1922-01-18,Chelsea,Bolton,0,3,0.0
+1921-1922,25,1922-01-21,Sunderland,Manchester Utd,2,1,1.0
+1921-1922,25,1922-01-21,Birmingham,Newcastle Utd,0,4,0.0
+1921-1922,25,1922-01-21,Everton,Aston Villa,3,2,1.0
+1921-1922,25,1922-01-21,West Brom,Tottenham,3,0,1.0
+1921-1922,25,1922-01-21,Manchester City,Middlesbrough,2,2,0.5
+1921-1922,25,1922-01-21,Oldham Athletic,Preston,2,0,1.0
+1921-1922,25,1922-01-21,Arsenal,Burnley,0,0,0.5
+1921-1922,26,1922-01-21,Bolton,Chelsea,0,2,0.0
+1921-1922,26,1922-01-21,Huddersfield,Liverpool,0,1,0.0
+1921-1922,26,1922-01-21,Cardiff City,Bradford City,6,3,1.0
+1921-1922,27,1922-01-21,Blackburn,Sheffield Utd,2,3,0.0
+1921-1922,26,1922-01-28,Manchester Utd,Sunderland,3,1,1.0
+1921-1922,26,1922-01-30,Tottenham,West Brom,2,0,1.0
+1921-1922,26,1922-02-01,Middlesbrough,Manchester City,4,1,1.0
+1921-1922,26,1922-02-04,Oldham Athletic,Chelsea,0,3,0.0
+1921-1922,26,1922-02-04,Arsenal,Newcastle Utd,2,1,1.0
+1921-1922,26,1922-02-04,Birmingham,Liverpool,0,2,0.0
+1921-1922,27,1922-02-04,Cardiff City,Preston,3,0,1.0
+1921-1922,27,1922-02-04,West Brom,Bradford City,1,1,0.5
+1921-1922,27,1922-02-04,Manchester City,Tottenham,3,3,0.5
+1921-1922,27,1922-02-04,Bolton,Sheffield Utd,3,1,1.0
+1921-1922,27,1922-02-04,Sunderland,Aston Villa,1,4,0.0
+1921-1922,28,1922-02-04,Blackburn,Burnley,3,2,1.0
+1921-1922,26,1922-02-08,Aston Villa,Everton,2,1,1.0
+1921-1922,27,1922-02-08,Newcastle Utd,Birmingham,0,1,0.0
+1921-1922,28,1922-02-08,Cardiff City,Chelsea,2,0,1.0
+1921-1922,27,1922-02-09,Preston,Oldham Athletic,0,0,0.5
+1921-1922,27,1922-02-11,Manchester Utd,Huddersfield,1,1,0.5
+1921-1922,27,1922-02-11,Newcastle Utd,Arsenal,3,1,1.0
+1921-1922,27,1922-02-11,Middlesbrough,Everton,3,1,1.0
+1921-1922,28,1922-02-11,Liverpool,Birmingham,1,0,1.0
+1921-1922,28,1922-02-11,Aston Villa,Sunderland,2,0,1.0
+1921-1922,28,1922-02-11,Tottenham,Manchester City,3,1,1.0
+1921-1922,28,1922-02-11,Chelsea,Oldham Athletic,1,0,1.0
+1921-1922,28,1922-02-11,Sheffield Utd,Bolton,1,0,1.0
+1921-1922,29,1922-02-11,Burnley,Blackburn,1,2,0.0
+1921-1922,29,1922-02-11,Preston,Cardiff City,1,1,0.5
+1921-1922,29,1922-02-18,Oldham Athletic,Sheffield Utd,0,2,0.0
+1921-1922,29,1922-02-18,Sunderland,Middlesbrough,1,1,0.5
+1921-1922,29,1922-02-18,Bolton,Burnley,0,1,0.0
+1921-1922,29,1922-02-18,Birmingham,Manchester Utd,0,1,0.0
+1921-1922,28,1922-02-20,Burnley,Arsenal,1,0,1.0
+1921-1922,29,1922-02-22,Manchester City,Bradford City,3,2,1.0
+1921-1922,28,1922-02-25,Preston,West Brom,0,3,0.0
+1921-1922,28,1922-02-25,Tottenham,Everton,2,0,1.0
+1921-1922,28,1922-02-25,Aston Villa,Huddersfield,2,0,1.0
+1921-1922,29,1922-02-25,Liverpool,Arsenal,4,0,1.0
+1921-1922,30,1922-02-25,Sheffield Utd,Oldham Athletic,1,0,1.0
+1921-1922,30,1922-02-25,Manchester Utd,Birmingham,1,1,0.5
+1921-1922,30,1922-02-25,Chelsea,Cardiff City,1,0,1.0
+1921-1922,30,1922-02-25,Middlesbrough,Sunderland,3,0,1.0
+1921-1922,30,1922-02-25,Newcastle Utd,Blackburn,2,0,1.0
+1921-1922,30,1922-02-25,Burnley,Bolton,2,0,1.0
+1921-1922,30,1922-02-25,Bradford City,Manchester City,1,2,0.0
+1921-1922,29,1922-02-27,Huddersfield,Manchester Utd,1,1,0.5
+1921-1922,31,1922-02-27,Sheffield Utd,Blackburn,0,1,0.0
+1921-1922,29,1922-03-01,Everton,Middlesbrough,4,1,1.0
+1921-1922,29,1922-03-04,West Brom,Chelsea,2,2,0.5
+1921-1922,30,1922-03-04,Everton,Bradford City,2,0,1.0
+1921-1922,31,1922-03-04,Oldham Athletic,Burnley,0,1,0.0
+1921-1922,31,1922-03-04,Bolton,Newcastle Utd,3,2,1.0
+1921-1922,31,1922-03-04,Sunderland,Sheffield Utd,1,0,1.0
+1921-1922,32,1922-03-04,Blackburn,Liverpool,0,0,0.5
+1921-1922,33,1922-03-06,Blackburn,Newcastle Utd,0,2,0.0
+1921-1922,30,1922-03-08,Bradford City,West Brom,1,1,0.5
+1921-1922,30,1922-03-11,Middlesbrough,Huddersfield,5,1,1.0
+1921-1922,30,1922-03-11,Manchester Utd,Arsenal,1,0,1.0
+1921-1922,31,1922-03-11,Chelsea,West Brom,1,1,0.5
+1921-1922,31,1922-03-11,Aston Villa,Birmingham,1,1,0.5
+1921-1922,31,1922-03-11,Preston,Manchester City,1,0,1.0
+1921-1922,31,1922-03-11,Bradford City,Everton,3,1,1.0
+1921-1922,31,1922-03-11,Sheffield Utd,Cardiff City,0,2,0.0
+1921-1922,32,1922-03-11,Newcastle Utd,Bolton,2,1,1.0
+1921-1922,32,1922-03-11,Burnley,Oldham Athletic,0,1,0.0
+1921-1922,32,1922-03-11,Tottenham,Sunderland,1,0,1.0
+1921-1922,34,1922-03-11,Liverpool,Blackburn,2,0,1.0
+1921-1922,32,1922-03-15,Birmingham,Aston Villa,1,0,1.0
+1921-1922,32,1922-03-15,Everton,Tottenham,0,0,0.5
+1921-1922,32,1922-03-15,Bradford City,Cardiff City,1,0,1.0
+1921-1922,31,1922-03-18,Tottenham,Huddersfield,1,0,1.0
+1921-1922,31,1922-03-18,Aston Villa,Arsenal,2,0,1.0
+1921-1922,32,1922-03-18,Sheffield Utd,West Brom,0,0,0.5
+1921-1922,32,1922-03-18,Chelsea,Manchester City,0,0,0.5
+1921-1922,33,1922-03-18,Newcastle Utd,Oldham Athletic,1,1,0.5
+1921-1922,33,1922-03-18,Liverpool,Bolton,0,2,0.0
+1921-1922,33,1922-03-18,Burnley,Cardiff City,1,1,0.5
+1921-1922,33,1922-03-18,Bradford City,Sunderland,0,0,0.5
+1921-1922,33,1922-03-18,Middlesbrough,Birmingham,1,1,0.5
+1921-1922,33,1922-03-18,Preston,Everton,1,0,1.0
+1921-1922,35,1922-03-18,Manchester Utd,Blackburn,0,1,0.0
+1921-1922,32,1922-03-22,Arsenal,Liverpool,1,0,1.0
+1921-1922,33,1922-03-25,Arsenal,Aston Villa,2,0,1.0
+1921-1922,33,1922-03-25,West Brom,Sheffield Utd,3,0,1.0
+1921-1922,33,1922-03-25,Manchester City,Chelsea,0,0,0.5
+1921-1922,34,1922-03-25,Sunderland,Bradford City,0,0,0.5
+1921-1922,34,1922-03-25,Cardiff City,Burnley,4,2,1.0
+1921-1922,34,1922-03-25,Oldham Athletic,Newcastle Utd,0,0,0.5
+1921-1922,34,1922-03-25,Bolton,Liverpool,1,3,0.0
+1921-1922,34,1922-03-25,Birmingham,Middlesbrough,4,3,1.0
+1921-1922,36,1922-03-25,Blackburn,Manchester Utd,3,0,1.0
+1921-1922,32,1922-03-27,Huddersfield,Tottenham,1,1,0.5
+1921-1922,34,1922-03-29,West Brom,Preston,2,0,1.0
+1921-1922,33,1922-04-01,Bradford City,Huddersfield,4,0,1.0
+1921-1922,34,1922-04-01,Chelsea,Everton,1,0,1.0
+1921-1922,34,1922-04-01,Sheffield Utd,Manchester City,1,0,1.0
+1921-1922,34,1922-04-01,Arsenal,Middlesbrough,2,2,0.5
+1921-1922,35,1922-04-01,West Brom,Burnley,2,0,1.0
+1921-1922,35,1922-04-01,Newcastle Utd,Cardiff City,0,0,0.5
+1921-1922,35,1922-04-01,Birmingham,Tottenham,0,3,0.0
+1921-1922,35,1922-04-01,Liverpool,Oldham Athletic,2,0,1.0
+1921-1922,35,1922-04-01,Preston,Sunderland,1,1,0.5
+1921-1922,35,1922-04-01,Manchester Utd,Bolton,0,1,0.0
+1921-1922,37,1922-04-01,Blackburn,Aston Villa,1,2,0.0
+1921-1922,34,1922-04-05,Huddersfield,Aston Villa,1,0,1.0
+1921-1922,35,1922-04-05,Manchester City,Preston,2,0,1.0
+1921-1922,35,1922-04-05,Arsenal,Manchester Utd,3,1,1.0
+1921-1922,36,1922-04-05,Sunderland,Tottenham,2,0,1.0
+1921-1922,35,1922-04-08,Huddersfield,Bradford City,1,2,0.0
+1921-1922,35,1922-04-08,Everton,Chelsea,2,3,0.0
+1921-1922,36,1922-04-08,Middlesbrough,Arsenal,4,2,1.0
+1921-1922,36,1922-04-08,Bolton,Manchester Utd,1,0,1.0
+1921-1922,36,1922-04-08,Tottenham,Birmingham,2,1,1.0
+1921-1922,36,1922-04-08,Burnley,West Brom,4,2,1.0
+1921-1922,36,1922-04-08,Manchester City,Sheffield Utd,2,2,0.5
+1921-1922,36,1922-04-08,Oldham Athletic,Liverpool,4,0,1.0
+1921-1922,36,1922-04-08,Cardiff City,Newcastle Utd,1,0,1.0
+1921-1922,37,1922-04-08,Sunderland,Preston,1,0,1.0
+1921-1922,36,1922-04-10,Chelsea,Huddersfield,1,0,1.0
+1921-1922,36,1922-04-10,Everton,Preston,0,0,0.5
+1921-1922,36,1922-04-14,Preston,Middlesbrough,1,1,0.5
+1921-1922,37,1922-04-14,Sunderland,Bolton,6,2,1.0
+1921-1922,37,1922-04-14,Newcastle Utd,Bradford City,1,2,0.0
+1921-1922,37,1922-04-14,Everton,Huddersfield,6,2,1.0
+1921-1922,37,1922-04-14,Manchester City,Birmingham,1,0,1.0
+1921-1922,37,1922-04-14,Burnley,Liverpool,1,1,0.5
+1921-1922,37,1922-04-14,Tottenham,Oldham Athletic,3,1,1.0
+1921-1922,37,1922-04-14,Chelsea,Aston Villa,1,0,1.0
+1921-1922,37,1922-04-15,Liverpool,Cardiff City,5,1,1.0
+1921-1922,37,1922-04-15,Tottenham,Arsenal,2,0,1.0
+1921-1922,37,1922-04-15,Newcastle Utd,West Brom,3,0,1.0
+1921-1922,38,1922-04-15,Sheffield Utd,Everton,1,0,1.0
+1921-1922,38,1922-04-15,Bradford City,Birmingham,1,2,0.0
+1921-1922,38,1922-04-15,Burnley,Manchester City,5,2,1.0
+1921-1922,38,1922-04-15,Aston Villa,Bolton,2,1,1.0
+1921-1922,38,1922-04-15,Manchester Utd,Oldham Athletic,0,3,0.0
+1921-1922,38,1922-04-15,Middlesbrough,Blackburn,0,1,0.0
+1921-1922,38,1922-04-15,Preston,Huddersfield,1,1,0.5
+1921-1922,39,1922-04-15,Chelsea,Sunderland,1,0,1.0
+1921-1922,38,1922-04-17,West Brom,Arsenal,0,3,0.0
+1921-1922,38,1922-04-17,Middlesbrough,Preston,1,0,1.0
+1921-1922,39,1922-04-17,Liverpool,Burnley,2,1,1.0
+1921-1922,39,1922-04-17,Cardiff City,Blackburn,1,3,0.0
+1921-1922,39,1922-04-17,Aston Villa,Chelsea,1,4,0.0
+1921-1922,39,1922-04-17,Bradford City,Newcastle Utd,2,3,0.0
+1921-1922,39,1922-04-17,Oldham Athletic,Tottenham,1,0,1.0
+1921-1922,39,1922-04-17,Bolton,Sunderland,1,1,0.5
+1921-1922,39,1922-04-17,Manchester Utd,Sheffield Utd,3,2,1.0
+1921-1922,39,1922-04-18,Birmingham,Manchester City,3,1,1.0
+1921-1922,39,1922-04-18,Huddersfield,Everton,1,2,0.0
+1921-1922,39,1922-04-18,Arsenal,West Brom,2,2,0.5
+1921-1922,39,1922-04-22,Cardiff City,Liverpool,2,0,1.0
+1921-1922,40,1922-04-22,Manchester City,Burnley,2,0,1.0
+1921-1922,40,1922-04-22,Everton,Sheffield Utd,1,1,0.5
+1921-1922,40,1922-04-22,Bolton,Aston Villa,1,0,1.0
+1921-1922,40,1922-04-22,Arsenal,Tottenham,1,0,1.0
+1921-1922,40,1922-04-22,Huddersfield,Preston,6,0,1.0
+1921-1922,40,1922-04-22,Birmingham,Bradford City,1,0,1.0
+1921-1922,40,1922-04-22,Blackburn,Middlesbrough,2,2,0.5
+1921-1922,40,1922-04-22,West Brom,Newcastle Utd,1,2,0.0
+1921-1922,40,1922-04-22,Oldham Athletic,Manchester Utd,1,1,0.5
+1921-1922,41,1922-04-22,Sunderland,Chelsea,1,2,0.0
+1921-1922,40,1922-04-26,Cardiff City,Sheffield Utd,1,1,0.5
+1921-1922,41,1922-04-29,Liverpool,West Brom,1,2,0.0
+1921-1922,41,1922-04-29,Aston Villa,Oldham Athletic,2,0,1.0
+1921-1922,41,1922-04-29,Newcastle Utd,Manchester City,5,1,1.0
+1921-1922,41,1922-04-29,Burnley,Everton,2,0,1.0
+1921-1922,41,1922-04-29,Bradford City,Arsenal,0,2,0.0
+1921-1922,41,1922-04-29,Tottenham,Blackburn,2,1,1.0
+1921-1922,41,1922-04-29,Manchester Utd,Cardiff City,1,1,0.5
+1921-1922,41,1922-04-29,Middlesbrough,Bolton,4,2,1.0
+1921-1922,42,1922-04-29,Sheffield Utd,Sunderland,4,1,1.0
+1921-1922,41,1922-05-01,Huddersfield,Middlesbrough,2,1,1.0
+1921-1922,41,1922-05-01,Preston,Birmingham,2,2,0.5
+1921-1922,42,1922-05-06,Bolton,Middlesbrough,4,2,1.0
+1921-1922,42,1922-05-06,Birmingham,Preston,0,2,0.0
+1921-1922,42,1922-05-06,Cardiff City,Manchester Utd,3,1,1.0
+1921-1922,42,1922-05-06,Blackburn,Tottenham,1,1,0.5
+1921-1922,42,1922-05-06,Oldham Athletic,Aston Villa,3,1,1.0
+1921-1922,42,1922-05-06,Manchester City,Newcastle Utd,1,0,1.0
+1921-1922,42,1922-05-06,Arsenal,Bradford City,1,0,1.0
+1921-1922,42,1922-05-06,Huddersfield,Chelsea,2,0,1.0
+1921-1922,42,1922-05-06,West Brom,Liverpool,1,4,0.0
+1921-1922,42,1922-05-06,Everton,Burnley,2,0,1.0

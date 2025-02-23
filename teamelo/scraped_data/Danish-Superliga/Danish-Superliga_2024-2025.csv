@@ -1,0 +1,133 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-07-19,AGF,Midtjylland,1.0,1.0,0.5
+2024-2025,1,2024-07-19,Nordsjælland,Aalborg,3.0,0.0,1.0
+2024-2025,1,2024-07-21,Silkeborg,SønderjyskE,1.0,0.0,1.0
+2024-2025,1,2024-07-21,Vejle BK,Randers,2.0,3.0,0.0
+2024-2025,1,2024-07-21,Viborg,Brøndby,3.0,3.0,0.5
+2024-2025,1,2024-07-22,Lyngby,FC Copenhagen,0.0,2.0,0.0
+2024-2025,2,2024-07-26,SønderjyskE,Lyngby,1.0,1.0,0.5
+2024-2025,2,2024-07-27,Nordsjælland,Midtjylland,2.0,2.0,0.5
+2024-2025,2,2024-07-28,Randers,Viborg,3.0,1.0,1.0
+2024-2025,2,2024-07-28,Aalborg,Silkeborg,2.0,1.0,1.0
+2024-2025,2,2024-07-28,FC Copenhagen,AGF,3.0,2.0,1.0
+2024-2025,2,2024-07-29,Brøndby,Vejle BK,2.0,1.0,1.0
+2024-2025,3,2024-08-02,AGF,SønderjyskE,4.0,0.0,1.0
+2024-2025,3,2024-08-03,Midtjylland,Aalborg,2.0,0.0,1.0
+2024-2025,3,2024-08-04,Silkeborg,Viborg,3.0,2.0,1.0
+2024-2025,3,2024-08-04,FC Copenhagen,Randers,1.0,1.0,0.5
+2024-2025,3,2024-08-04,Lyngby,Brøndby,0.0,2.0,0.0
+2024-2025,3,2024-08-05,Vejle BK,Nordsjælland,0.0,1.0,0.0
+2024-2025,4,2024-08-09,Midtjylland,Vejle BK,2.0,0.0,1.0
+2024-2025,4,2024-08-11,Randers,Silkeborg,0.0,2.0,0.0
+2024-2025,4,2024-08-11,Nordsjælland,Lyngby,1.0,1.0,0.5
+2024-2025,4,2024-08-11,Brøndby,AGF,0.0,1.0,0.0
+2024-2025,4,2024-08-11,SønderjyskE,FC Copenhagen,0.0,2.0,0.0
+2024-2025,4,2024-08-12,Viborg,Aalborg,2.0,3.0,0.0
+2024-2025,5,2024-08-16,Lyngby,Midtjylland,1.0,2.0,0.0
+2024-2025,5,2024-08-18,Silkeborg,Nordsjælland,4.0,1.0,1.0
+2024-2025,5,2024-08-18,Randers,SønderjyskE,1.0,2.0,0.0
+2024-2025,5,2024-08-18,FC Copenhagen,Viborg,1.0,1.0,0.5
+2024-2025,5,2024-08-18,Aalborg,Brøndby,0.0,4.0,0.0
+2024-2025,5,2024-08-19,AGF,Vejle BK,5.0,1.0,1.0
+2024-2025,6,2024-08-23,Aalborg,AGF,0.0,4.0,0.0
+2024-2025,6,2024-08-24,Midtjylland,SønderjyskE,3.0,2.0,1.0
+2024-2025,6,2024-08-25,Vejle BK,Silkeborg,1.0,3.0,0.0
+2024-2025,6,2024-08-25,Nordsjælland,FC Copenhagen,3.0,2.0,1.0
+2024-2025,6,2024-08-25,Brøndby,Randers,2.0,2.0,0.5
+2024-2025,6,2024-08-26,Viborg,Lyngby,1.0,0.0,1.0
+2024-2025,7,2024-08-30,Lyngby,Vejle BK,1.0,0.0,1.0
+2024-2025,7,2024-08-31,AGF,Nordsjælland,4.0,2.0,1.0
+2024-2025,7,2024-09-01,SønderjyskE,Viborg,2.0,2.0,0.5
+2024-2025,7,2024-09-01,FC Copenhagen,Brøndby,3.0,1.0,1.0
+2024-2025,7,2024-09-01,Silkeborg,Midtjylland,1.0,3.0,0.0
+2024-2025,7,2024-09-01,Randers,Aalborg,1.0,0.0,1.0
+2024-2025,8,2024-09-13,Aalborg,Lyngby,2.0,1.0,1.0
+2024-2025,8,2024-09-14,Midtjylland,FC Copenhagen,2.0,1.0,1.0
+2024-2025,8,2024-09-15,AGF,Silkeborg,1.0,1.0,0.5
+2024-2025,8,2024-09-15,Vejle BK,Viborg,0.0,5.0,0.0
+2024-2025,8,2024-09-15,Brøndby,SønderjyskE,2.0,0.0,1.0
+2024-2025,8,2024-09-16,Nordsjælland,Randers,1.0,1.0,0.5
+2024-2025,9,2024-09-20,Viborg,Nordsjælland,3.0,2.0,1.0
+2024-2025,9,2024-09-22,Randers,Midtjylland,2.0,2.0,0.5
+2024-2025,9,2024-09-22,SønderjyskE,Vejle BK,2.0,1.0,1.0
+2024-2025,9,2024-09-22,Lyngby,AGF,0.0,0.0,0.5
+2024-2025,9,2024-09-22,Silkeborg,Brøndby,3.0,3.0,0.5
+2024-2025,9,2024-09-23,FC Copenhagen,Aalborg,2.0,0.0,1.0
+2024-2025,10,2024-09-28,AGF,Randers,2.0,2.0,0.5
+2024-2025,10,2024-09-29,Aalborg,SønderjyskE,3.0,0.0,1.0
+2024-2025,10,2024-09-29,Midtjylland,Viborg,3.0,1.0,1.0
+2024-2025,10,2024-09-29,Lyngby,Silkeborg,2.0,2.0,0.5
+2024-2025,10,2024-09-29,Vejle BK,FC Copenhagen,1.0,2.0,0.0
+2024-2025,10,2024-09-30,Nordsjælland,Brøndby,4.0,1.0,1.0
+2024-2025,11,2024-10-04,Vejle BK,Aalborg,2.0,2.0,0.5
+2024-2025,11,2024-10-06,Randers,Lyngby,1.0,1.0,0.5
+2024-2025,11,2024-10-06,SønderjyskE,Nordsjælland,1.0,4.0,0.0
+2024-2025,11,2024-10-06,Viborg,AGF,1.0,1.0,0.5
+2024-2025,11,2024-10-06,Brøndby,Midtjylland,2.0,0.0,1.0
+2024-2025,11,2024-10-06,Silkeborg,FC Copenhagen,2.0,2.0,0.5
+2024-2025,12,2024-10-18,FC Copenhagen,Vejle BK,3.0,1.0,1.0
+2024-2025,12,2024-10-20,Aalborg,Randers,0.0,2.0,0.0
+2024-2025,12,2024-10-20,Lyngby,Viborg,0.0,0.0,0.5
+2024-2025,12,2024-10-20,Nordsjælland,Silkeborg,1.0,1.0,0.5
+2024-2025,12,2024-10-20,SønderjyskE,Midtjylland,3.0,2.0,1.0
+2024-2025,12,2024-10-21,AGF,Brøndby,1.0,0.0,1.0
+2024-2025,13,2024-10-25,Silkeborg,Aalborg,1.0,1.0,0.5
+2024-2025,13,2024-10-27,Brøndby,FC Copenhagen,0.0,0.0,0.5
+2024-2025,13,2024-10-27,Vejle BK,Lyngby,2.0,0.0,1.0
+2024-2025,13,2024-10-27,Viborg,SønderjyskE,4.0,2.0,1.0
+2024-2025,13,2024-10-27,Midtjylland,AGF,2.0,0.0,1.0
+2024-2025,13,2024-10-28,Randers,Nordsjælland,4.0,0.0,1.0
+2024-2025,14,2024-11-02,SønderjyskE,Randers,1.0,4.0,0.0
+2024-2025,14,2024-11-03,Midtjylland,Brøndby,1.0,5.0,0.0
+2024-2025,14,2024-11-03,Nordsjælland,Viborg,2.0,1.0,1.0
+2024-2025,14,2024-11-03,AGF,Lyngby,2.0,1.0,1.0
+2024-2025,14,2024-11-03,Aalborg,Vejle BK,3.0,3.0,0.5
+2024-2025,14,2024-11-04,FC Copenhagen,Silkeborg,2.0,2.0,0.5
+2024-2025,15,2024-11-08,Vejle BK,SønderjyskE,1.0,1.0,0.5
+2024-2025,15,2024-11-10,Silkeborg,Randers,1.0,0.0,1.0
+2024-2025,15,2024-11-10,Lyngby,Aalborg,2.0,2.0,0.5
+2024-2025,15,2024-11-10,Viborg,Midtjylland,1.0,0.0,1.0
+2024-2025,15,2024-11-10,AGF,FC Copenhagen,1.0,1.0,0.5
+2024-2025,15,2024-11-10,Brøndby,Nordsjælland,1.0,1.0,0.5
+2024-2025,16,2024-11-22,Nordsjælland,AGF,1.0,0.0,1.0
+2024-2025,16,2024-11-24,Aalborg,Viborg,0.0,0.0,0.5
+2024-2025,16,2024-11-24,Randers,Vejle BK,2.0,0.0,1.0
+2024-2025,16,2024-11-24,SønderjyskE,Brøndby,2.0,2.0,0.5
+2024-2025,16,2024-11-24,FC Copenhagen,Lyngby,2.0,1.0,1.0
+2024-2025,16,2024-11-25,Midtjylland,Silkeborg,1.0,0.0,1.0
+2024-2025,17,2024-11-29,Brøndby,Aalborg,1.0,0.0,1.0
+2024-2025,17,2024-12-01,Viborg,Randers,1.0,2.0,0.0
+2024-2025,17,2024-12-01,Lyngby,SønderjyskE,0.0,2.0,0.0
+2024-2025,17,2024-12-01,Vejle BK,Midtjylland,0.0,3.0,0.0
+2024-2025,17,2024-12-01,Silkeborg,AGF,1.0,1.0,0.5
+2024-2025,17,2024-12-02,FC Copenhagen,Nordsjælland,3.0,1.0,1.0
+2024-2025,18,2025-02-14,Brøndby,Viborg,4.0,1.0,1.0
+2024-2025,18,2025-02-16,Silkeborg,Vejle BK,0.0,1.0,0.0
+2024-2025,18,2025-02-16,SønderjyskE,AGF,1.0,4.0,0.0
+2024-2025,18,2025-02-16,Midtjylland,Lyngby,1.0,0.0,1.0
+2024-2025,18,2025-02-17,Randers,FC Copenhagen,1.0,2.0,0.0
+2024-2025,19,2025-02-21,Lyngby,Randers,0.0,0.0,0.5
+2024-2025,19,2025-02-23,Nordsjælland,SønderjyskE,,,
+2024-2025,19,2025-02-23,AGF,Aalborg,,,
+2024-2025,19,2025-02-23,Vejle BK,Brøndby,,,
+2024-2025,19,2025-02-23,FC Copenhagen,Midtjylland,,,
+2024-2025,19,2025-02-24,Viborg,Silkeborg,,,
+2024-2025,18,2025-02-26,Aalborg,Nordsjælland,,,
+2024-2025,20,2025-02-28,Randers,AGF,,,
+2024-2025,20,2025-03-02,Viborg,Vejle BK,,,
+2024-2025,20,2025-03-02,SønderjyskE,Silkeborg,,,
+2024-2025,20,2025-03-02,Midtjylland,Nordsjælland,,,
+2024-2025,20,2025-03-02,Aalborg,FC Copenhagen,,,
+2024-2025,20,2025-03-03,Brøndby,Lyngby,,,
+2024-2025,21,2025-03-07,Nordsjælland,Vejle BK,,,
+2024-2025,21,2025-03-09,Aalborg,Midtjylland,,,
+2024-2025,21,2025-03-09,Silkeborg,Lyngby,,,
+2024-2025,21,2025-03-09,AGF,Viborg,,,
+2024-2025,21,2025-03-09,FC Copenhagen,SønderjyskE,,,
+2024-2025,21,2025-03-10,Randers,Brøndby,,,
+2024-2025,22,2025-03-16,SønderjyskE,Aalborg,,,
+2024-2025,22,2025-03-16,Vejle BK,AGF,,,
+2024-2025,22,2025-03-16,Viborg,FC Copenhagen,,,
+2024-2025,22,2025-03-16,Brøndby,Silkeborg,,,
+2024-2025,22,2025-03-16,Lyngby,Nordsjælland,,,
+2024-2025,22,2025-03-16,Midtjylland,Randers,,,

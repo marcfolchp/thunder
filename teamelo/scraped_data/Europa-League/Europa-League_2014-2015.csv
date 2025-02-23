@@ -1,0 +1,206 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2014-2015,Group stage,1,2014-09-18,Partizan,Tottenham,rs,eng,0,0,0.5
+2014-2015,Group stage,1,2014-09-18,Gladbach,Villarreal,de,es,1,1,0.5
+2014-2015,Group stage,1,2014-09-18,PSV Eindhoven,Estoril,nl,pt,1,0,1.0
+2014-2015,Group stage,1,2014-09-18,Dinamo Zagreb,Astra Giurgiu,hr,ro,5,1,1.0
+2014-2015,Group stage,1,2014-09-18,FC Copenhagen,HJK,dk,fi,2,0,1.0
+2014-2015,Group stage,1,2014-09-18,RB Salzburg,Celtic,at,sct,2,2,0.5
+2014-2015,Group stage,1,2014-09-18,Club Brugge,Torino,be,it,0,0,0.5
+2014-2015,Group stage,1,2014-09-18,Panathinaikos,Dynamo Mosc,gr,ru,1,2,0.0
+2014-2015,Group stage,1,2014-09-18,Dnipro,Inter,ua,it,0,1,0.0
+2014-2015,Group stage,1,2014-09-18,Apollon Limassol,Zürich,cy,ch,3,2,1.0
+2014-2015,Group stage,1,2014-09-18,Beşiktaş,Asteras Tripoli,tr,gr,1,1,0.5
+2014-2015,Group stage,1,2014-09-18,Everton,Wolfsburg,eng,de,4,1,1.0
+2014-2015,Group stage,1,2014-09-18,Rio Ave,Dynamo Kyiv,pt,ua,0,3,0.0
+2014-2015,Group stage,1,2014-09-18,Qarabağ,Saint-Étienne,az,fr,0,0,0.5
+2014-2015,Group stage,1,2014-09-18,Young Boys,ŠK Slovan Bratislava,ch,sk,5,0,1.0
+2014-2015,Group stage,1,2014-09-18,Napoli,Sparta Prague,it,cz,3,1,1.0
+2014-2015,Group stage,1,2014-09-18,Legia Warsaw,Lokeren,pl,be,1,0,1.0
+2014-2015,Group stage,1,2014-09-18,Lille,Krasnodar,fr,ru,1,1,0.5
+2014-2015,Group stage,1,2014-09-18,Standard Liège,Rijeka,be,hr,2,0,1.0
+2014-2015,Group stage,1,2014-09-18,Fiorentina,Guingamp,it,fr,3,0,1.0
+2014-2015,Group stage,1,2014-09-18,Sevilla,Feyenoord,es,nl,2,0,1.0
+2014-2015,Group stage,1,2014-09-18,Steaua,Aalborg,ro,dk,6,0,1.0
+2014-2015,Group stage,1,2014-09-18,Metalist Kharkiv,Trabzonspor,ua,tr,1,2,0.0
+2014-2015,Group stage,1,2014-09-18,PAOK,Dinamo Minsk,gr,by,6,1,1.0
+2014-2015,Group stage,2,2014-10-02,ŠK Slovan Bratislava,Napoli,sk,it,0,2,0.0
+2014-2015,Group stage,2,2014-10-02,Guingamp,PAOK,fr,gr,2,0,1.0
+2014-2015,Group stage,2,2014-10-02,Rijeka,Sevilla,hr,es,2,2,0.5
+2014-2015,Group stage,2,2014-10-02,Dynamo Mosc,PSV Eindhoven,ru,nl,1,0,1.0
+2014-2015,Group stage,2,2014-10-02,Wolfsburg,Lille,de,fr,1,1,0.5
+2014-2015,Group stage,2,2014-10-02,Lokeren,Metalist Kharkiv,be,ua,1,0,1.0
+2014-2015,Group stage,2,2014-10-02,Feyenoord,Standard Liège,nl,be,2,1,1.0
+2014-2015,Group stage,2,2014-10-02,Aalborg,Rio Ave,dk,pt,1,0,1.0
+2014-2015,Group stage,2,2014-10-02,Sparta Prague,Young Boys,cz,ch,3,1,1.0
+2014-2015,Group stage,2,2014-10-02,Krasnodar,Everton,ru,eng,1,1,0.5
+2014-2015,Group stage,2,2014-10-02,Dinamo Minsk,Fiorentina,by,it,0,3,0.0
+2014-2015,Group stage,2,2014-10-02,Trabzonspor,Legia Warsaw,tr,pl,0,1,0.0
+2014-2015,Group stage,2,2014-10-02,Dynamo Kyiv,Steaua,ua,ro,3,1,1.0
+2014-2015,Group stage,2,2014-10-02,Estoril,Panathinaikos,pt,gr,2,0,1.0
+2014-2015,Group stage,2,2014-10-02,Tottenham,Beşiktaş,eng,tr,1,1,0.5
+2014-2015,Group stage,2,2014-10-02,Celtic,Dinamo Zagreb,sct,hr,1,0,1.0
+2014-2015,Group stage,2,2014-10-02,Torino,FC Copenhagen,it,dk,1,0,1.0
+2014-2015,Group stage,2,2014-10-02,Villarreal,Apollon Limassol,es,cy,4,0,1.0
+2014-2015,Group stage,2,2014-10-02,Inter,Qarabağ,it,az,2,0,1.0
+2014-2015,Group stage,2,2014-10-02,Saint-Étienne,Dnipro,fr,ua,0,0,0.5
+2014-2015,Group stage,2,2014-10-02,Zürich,Gladbach,ch,de,1,1,0.5
+2014-2015,Group stage,2,2014-10-02,Astra Giurgiu,RB Salzburg,ro,at,1,2,0.0
+2014-2015,Group stage,2,2014-10-02,HJK,Club Brugge,fi,be,0,3,0.0
+2014-2015,Group stage,2,2014-10-02,Asteras Tripoli,Partizan,gr,rs,2,0,1.0
+2014-2015,Group stage,3,2014-10-22,Metalist Kharkiv,Legia Warsaw,ua,pl,0,1,0.0
+2014-2015,Group stage,3,2014-10-23,ŠK Slovan Bratislava,Sparta Prague,sk,cz,0,3,0.0
+2014-2015,Group stage,3,2014-10-23,Aalborg,Dynamo Kyiv,dk,ua,3,0,1.0
+2014-2015,Group stage,3,2014-10-23,Young Boys,Napoli,ch,it,2,0,1.0
+2014-2015,Group stage,3,2014-10-23,Standard Liège,Sevilla,be,es,0,0,0.5
+2014-2015,Group stage,3,2014-10-23,Rijeka,Feyenoord,hr,nl,3,1,1.0
+2014-2015,Group stage,3,2014-10-23,Lille,Everton,fr,eng,0,0,0.5
+2014-2015,Group stage,3,2014-10-23,PAOK,Fiorentina,gr,it,0,1,0.0
+2014-2015,Group stage,3,2014-10-23,Dinamo Minsk,Guingamp,by,fr,0,0,0.5
+2014-2015,Group stage,3,2014-10-23,Trabzonspor,Lokeren,tr,be,2,0,1.0
+2014-2015,Group stage,3,2014-10-23,Steaua,Rio Ave,ro,pt,2,1,1.0
+2014-2015,Group stage,3,2014-10-23,Krasnodar,Wolfsburg,ru,de,2,4,0.0
+2014-2015,Group stage,3,2014-10-23,Tottenham,Asteras Tripoli,eng,gr,5,1,1.0
+2014-2015,Group stage,3,2014-10-23,Celtic,Astra Giurgiu,sct,ro,2,1,1.0
+2014-2015,Group stage,3,2014-10-23,Estoril,Dynamo Mosc,pt,ru,1,2,0.0
+2014-2015,Group stage,3,2014-10-23,Inter,Saint-Étienne,it,fr,0,0,0.5
+2014-2015,Group stage,3,2014-10-23,Partizan,Beşiktaş,rs,tr,0,4,0.0
+2014-2015,Group stage,3,2014-10-23,Torino,HJK,it,fi,2,0,1.0
+2014-2015,Group stage,3,2014-10-23,RB Salzburg,Dinamo Zagreb,at,hr,4,2,1.0
+2014-2015,Group stage,3,2014-10-23,Club Brugge,FC Copenhagen,be,dk,1,1,0.5
+2014-2015,Group stage,3,2014-10-23,PSV Eindhoven,Panathinaikos,nl,gr,1,1,0.5
+2014-2015,Group stage,3,2014-10-23,Villarreal,Zürich,es,ch,4,1,1.0
+2014-2015,Group stage,3,2014-10-23,Gladbach,Apollon Limassol,de,cy,5,0,1.0
+2014-2015,Group stage,3,2014-10-23,Dnipro,Qarabağ,ua,az,0,1,0.0
+2014-2015,Group stage,4,2014-11-06,FC Copenhagen,Club Brugge,dk,be,0,4,0.0
+2014-2015,Group stage,4,2014-11-06,Dinamo Zagreb,RB Salzburg,hr,at,1,5,0.0
+2014-2015,Group stage,4,2014-11-06,Saint-Étienne,Inter,fr,it,1,1,0.5
+2014-2015,Group stage,4,2014-11-06,Zürich,Villarreal,ch,es,3,2,1.0
+2014-2015,Group stage,4,2014-11-06,Beşiktaş,Partizan,tr,rs,2,1,1.0
+2014-2015,Group stage,4,2014-11-06,Apollon Limassol,Gladbach,cy,de,0,2,0.0
+2014-2015,Group stage,4,2014-11-06,Astra Giurgiu,Celtic,ro,sct,1,1,0.5
+2014-2015,Group stage,4,2014-11-06,Panathinaikos,PSV Eindhoven,gr,nl,2,3,0.0
+2014-2015,Group stage,4,2014-11-06,HJK,Torino,fi,it,2,1,1.0
+2014-2015,Group stage,4,2014-11-06,Dynamo Mosc,Estoril,ru,pt,1,0,1.0
+2014-2015,Group stage,4,2014-11-06,Asteras Tripoli,Tottenham,gr,eng,1,2,0.0
+2014-2015,Group stage,4,2014-11-06,Everton,Lille,eng,fr,3,0,1.0
+2014-2015,Group stage,4,2014-11-06,Rio Ave,Steaua,pt,ro,2,2,0.5
+2014-2015,Group stage,4,2014-11-06,Qarabağ,Dnipro,az,ua,1,2,0.0
+2014-2015,Group stage,4,2014-11-06,Wolfsburg,Krasnodar,de,ru,5,1,1.0
+2014-2015,Group stage,4,2014-11-06,Sevilla,Standard Liège,es,be,3,1,1.0
+2014-2015,Group stage,4,2014-11-06,Lokeren,Trabzonspor,be,tr,1,1,0.5
+2014-2015,Group stage,4,2014-11-06,Feyenoord,Rijeka,nl,hr,2,0,1.0
+2014-2015,Group stage,4,2014-11-06,Fiorentina,PAOK,it,gr,1,1,0.5
+2014-2015,Group stage,4,2014-11-06,Napoli,Young Boys,it,ch,3,0,1.0
+2014-2015,Group stage,4,2014-11-06,Legia Warsaw,Metalist Kharkiv,pl,ua,2,1,1.0
+2014-2015,Group stage,4,2014-11-06,Sparta Prague,ŠK Slovan Bratislava,cz,sk,4,0,1.0
+2014-2015,Group stage,4,2014-11-06,Guingamp,Dinamo Minsk,fr,by,2,0,1.0
+2014-2015,Group stage,4,2014-11-06,Dynamo Kyiv,Aalborg,ua,dk,2,0,1.0
+2014-2015,Group stage,5,2014-11-27,Wolfsburg,Everton,de,eng,0,2,0.0
+2014-2015,Group stage,5,2014-11-27,Aalborg,Steaua,dk,ro,1,0,1.0
+2014-2015,Group stage,5,2014-11-27,Feyenoord,Sevilla,nl,es,2,0,1.0
+2014-2015,Group stage,5,2014-11-27,Guingamp,Fiorentina,fr,it,1,2,0.0
+2014-2015,Group stage,5,2014-11-27,Lokeren,Legia Warsaw,be,pl,1,0,1.0
+2014-2015,Group stage,5,2014-11-27,Dynamo Mosc,Panathinaikos,ru,gr,2,1,1.0
+2014-2015,Group stage,5,2014-11-27,ŠK Slovan Bratislava,Young Boys,sk,ch,1,3,0.0
+2014-2015,Group stage,5,2014-11-27,Sparta Prague,Napoli,cz,it,0,0,0.5
+2014-2015,Group stage,5,2014-11-27,Rijeka,Standard Liège,hr,be,2,0,1.0
+2014-2015,Group stage,5,2014-11-27,Trabzonspor,Metalist Kharkiv,tr,ua,3,1,1.0
+2014-2015,Group stage,5,2014-11-27,Dynamo Kyiv,Rio Ave,ua,pt,2,0,1.0
+2014-2015,Group stage,5,2014-11-27,Krasnodar,Lille,ru,fr,1,1,0.5
+2014-2015,Group stage,5,2014-11-27,Tottenham,Partizan,eng,rs,1,0,1.0
+2014-2015,Group stage,5,2014-11-27,Celtic,RB Salzburg,sct,at,1,3,0.0
+2014-2015,Group stage,5,2014-11-27,Dinamo Minsk,PAOK,by,gr,0,2,0.0
+2014-2015,Group stage,5,2014-11-27,Zürich,Apollon Limassol,ch,cy,3,1,1.0
+2014-2015,Group stage,5,2014-11-27,Torino,Club Brugge,it,be,0,0,0.5
+2014-2015,Group stage,5,2014-11-27,Villarreal,Gladbach,es,de,2,2,0.5
+2014-2015,Group stage,5,2014-11-27,Saint-Étienne,Qarabağ,fr,az,1,1,0.5
+2014-2015,Group stage,5,2014-11-27,Inter,Dnipro,it,ua,2,1,1.0
+2014-2015,Group stage,5,2014-11-27,Astra Giurgiu,Dinamo Zagreb,ro,hr,1,0,1.0
+2014-2015,Group stage,5,2014-11-27,Asteras Tripoli,Beşiktaş,gr,tr,2,2,0.5
+2014-2015,Group stage,5,2014-11-27,HJK,FC Copenhagen,fi,dk,2,1,1.0
+2014-2015,Group stage,5,2014-11-28,Estoril,PSV Eindhoven,pt,nl,3,3,0.5
+2014-2015,Group stage,6,2014-12-11,Dnipro,Saint-Étienne,ua,fr,1,0,1.0
+2014-2015,Group stage,6,2014-12-11,PSV Eindhoven,Dynamo Mosc,nl,ru,0,1,0.0
+2014-2015,Group stage,6,2014-12-11,FC Copenhagen,Torino,dk,it,1,5,0.0
+2014-2015,Group stage,6,2014-12-11,Dinamo Zagreb,Celtic,hr,sct,4,3,1.0
+2014-2015,Group stage,6,2014-12-11,Partizan,Asteras Tripoli,rs,gr,0,0,0.5
+2014-2015,Group stage,6,2014-12-11,RB Salzburg,Astra Giurgiu,at,ro,5,1,1.0
+2014-2015,Group stage,6,2014-12-11,Gladbach,Zürich,de,ch,3,0,1.0
+2014-2015,Group stage,6,2014-12-11,Club Brugge,HJK,be,fi,2,1,1.0
+2014-2015,Group stage,6,2014-12-11,Panathinaikos,Estoril,gr,pt,1,1,0.5
+2014-2015,Group stage,6,2014-12-11,Beşiktaş,Tottenham,tr,eng,1,0,1.0
+2014-2015,Group stage,6,2014-12-11,Apollon Limassol,Villarreal,cy,es,0,2,0.0
+2014-2015,Group stage,6,2014-12-11,Everton,Krasnodar,eng,ru,0,1,0.0
+2014-2015,Group stage,6,2014-12-11,Rio Ave,Aalborg,pt,dk,2,0,1.0
+2014-2015,Group stage,6,2014-12-11,Qarabağ,Inter,az,it,0,0,0.5
+2014-2015,Group stage,6,2014-12-11,Fiorentina,Dinamo Minsk,it,by,1,2,0.0
+2014-2015,Group stage,6,2014-12-11,Young Boys,Sparta Prague,ch,cz,2,0,1.0
+2014-2015,Group stage,6,2014-12-11,Lille,Wolfsburg,fr,de,0,3,0.0
+2014-2015,Group stage,6,2014-12-11,Standard Liège,Feyenoord,be,nl,0,3,0.0
+2014-2015,Group stage,6,2014-12-11,Legia Warsaw,Trabzonspor,pl,tr,2,0,1.0
+2014-2015,Group stage,6,2014-12-11,Sevilla,Rijeka,es,hr,1,0,1.0
+2014-2015,Group stage,6,2014-12-11,Napoli,ŠK Slovan Bratislava,it,sk,3,0,1.0
+2014-2015,Group stage,6,2014-12-11,Metalist Kharkiv,Lokeren,ua,be,0,1,0.0
+2014-2015,Group stage,6,2014-12-11,Steaua,Dynamo Kyiv,ro,ua,0,2,0.0
+2014-2015,Group stage,6,2014-12-11,PAOK,Guingamp,gr,fr,1,2,0.0
+2014-2015,Round of 32,,2015-02-19,Wolfsburg,Sporting CP,de,pt,2,0,1.0
+2014-2015,Round of 32,,2015-02-19,Roma,Feyenoord,it,nl,1,1,0.5
+2014-2015,Round of 32,,2015-02-19,Aalborg,Club Brugge,dk,be,1,3,0.0
+2014-2015,Round of 32,,2015-02-19,PSV Eindhoven,Zenit,nl,ru,0,1,0.0
+2014-2015,Round of 32,,2015-02-19,Torino,Athletic Club,it,es,2,2,0.5
+2014-2015,Round of 32,,2015-02-19,Young Boys,Everton,ch,eng,1,4,0.0
+2014-2015,Round of 32,,2015-02-19,Trabzonspor,Napoli,tr,it,0,4,0.0
+2014-2015,Round of 32,,2015-02-19,Dnipro,Olympiacos,ua,gr,2,0,1.0
+2014-2015,Round of 32,,2015-02-19,Liverpool,Beşiktaş,eng,tr,1,0,1.0
+2014-2015,Round of 32,,2015-02-19,Tottenham,Fiorentina,eng,it,1,1,0.5
+2014-2015,Round of 32,,2015-02-19,Celtic,Inter,sct,it,3,3,0.5
+2014-2015,Round of 32,,2015-02-19,Guingamp,Dynamo Kyiv,fr,ua,2,1,1.0
+2014-2015,Round of 32,,2015-02-19,Anderlecht,Dynamo Mosc,be,ru,0,0,0.5
+2014-2015,Round of 32,,2015-02-19,Sevilla,Gladbach,es,de,1,0,1.0
+2014-2015,Round of 32,,2015-02-19,Ajax,Legia Warsaw,nl,pl,1,0,1.0
+2014-2015,Round of 32,,2015-02-19,Villarreal,RB Salzburg,es,at,2,1,1.0
+2014-2015,Round of 32,,2015-02-26,Legia Warsaw,Ajax,pl,nl,0,3,0.0
+2014-2015,Round of 32,,2015-02-26,Gladbach,Sevilla,de,es,2,3,0.0
+2014-2015,Round of 32,,2015-02-26,RB Salzburg,Villarreal,at,es,1,3,0.0
+2014-2015,Round of 32,,2015-02-26,Fiorentina,Tottenham,it,eng,2,0,1.0
+2014-2015,Round of 32,,2015-02-26,Inter,Celtic,it,sct,1,0,1.0
+2014-2015,Round of 32,,2015-02-26,Dynamo Kyiv,Guingamp,ua,fr,3,1,1.0
+2014-2015,Round of 32,,2015-02-26,Beşiktaş,Liverpool,tr,eng,1,0,1.0
+2014-2015,Round of 32,,2015-02-26,Zenit,PSV Eindhoven,ru,nl,3,0,1.0
+2014-2015,Round of 32,,2015-02-26,Dynamo Mosc,Anderlecht,ru,be,3,1,1.0
+2014-2015,Round of 32,,2015-02-26,Everton,Young Boys,eng,ch,3,1,1.0
+2014-2015,Round of 32,,2015-02-26,Sporting CP,Wolfsburg,pt,de,0,0,0.5
+2014-2015,Round of 32,,2015-02-26,Feyenoord,Roma,nl,it,1,2,0.0
+2014-2015,Round of 32,,2015-02-26,Athletic Club,Torino,es,it,2,3,0.0
+2014-2015,Round of 32,,2015-02-26,Club Brugge,Aalborg,be,dk,3,0,1.0
+2014-2015,Round of 32,,2015-02-26,Napoli,Trabzonspor,it,tr,1,0,1.0
+2014-2015,Round of 32,,2015-02-26,Olympiacos,Dnipro,gr,ua,2,2,0.5
+2014-2015,Round of 16,,2015-03-12,Club Brugge,Beşiktaş,be,tr,2,1,1.0
+2014-2015,Round of 16,,2015-03-12,Wolfsburg,Inter,de,it,3,1,1.0
+2014-2015,Round of 16,,2015-03-12,Zenit,Torino,ru,it,2,0,1.0
+2014-2015,Round of 16,,2015-03-12,Dnipro,Ajax,ua,nl,1,0,1.0
+2014-2015,Round of 16,,2015-03-12,Everton,Dynamo Kyiv,eng,ua,2,1,1.0
+2014-2015,Round of 16,,2015-03-12,Villarreal,Sevilla,es,es,1,3,0.0
+2014-2015,Round of 16,,2015-03-12,Napoli,Dynamo Mosc,it,ru,3,1,1.0
+2014-2015,Round of 16,,2015-03-12,Fiorentina,Roma,it,it,1,1,0.5
+2014-2015,Round of 16,,2015-03-19,Roma,Fiorentina,it,it,0,3,0.0
+2014-2015,Round of 16,,2015-03-19,Dynamo Kyiv,Everton,ua,eng,5,2,1.0
+2014-2015,Round of 16,,2015-03-19,Dynamo Mosc,Napoli,ru,it,0,0,0.5
+2014-2015,Round of 16,,2015-03-19,Sevilla,Villarreal,es,es,2,1,1.0
+2014-2015,Round of 16,,2015-03-19,Torino,Zenit,it,ru,1,0,1.0
+2014-2015,Round of 16,,2015-03-19,Inter,Wolfsburg,it,de,1,2,0.0
+2014-2015,Round of 16,,2015-03-19,Ajax,Dnipro,nl,ua,2,1,1.0
+2014-2015,Round of 16,,2015-03-19,Beşiktaş,Club Brugge,tr,be,1,3,0.0
+2014-2015,Quarter-finals,,2015-04-16,Sevilla,Zenit,es,ru,2,1,1.0
+2014-2015,Quarter-finals,,2015-04-16,Club Brugge,Dnipro,be,ua,0,0,0.5
+2014-2015,Quarter-finals,,2015-04-16,Wolfsburg,Napoli,de,it,1,4,0.0
+2014-2015,Quarter-finals,,2015-04-16,Dynamo Kyiv,Fiorentina,ua,it,1,1,0.5
+2014-2015,Quarter-finals,,2015-04-23,Fiorentina,Dynamo Kyiv,it,ua,2,0,1.0
+2014-2015,Quarter-finals,,2015-04-23,Napoli,Wolfsburg,it,de,2,2,0.5
+2014-2015,Quarter-finals,,2015-04-23,Dnipro,Club Brugge,ua,be,1,0,1.0
+2014-2015,Quarter-finals,,2015-04-23,Zenit,Sevilla,ru,es,2,2,0.5
+2014-2015,Semi-finals,,2015-05-07,Sevilla,Fiorentina,es,it,3,0,1.0
+2014-2015,Semi-finals,,2015-05-07,Napoli,Dnipro,it,ua,1,1,0.5
+2014-2015,Semi-finals,,2015-05-14,Fiorentina,Sevilla,it,es,0,2,0.0
+2014-2015,Semi-finals,,2015-05-14,Dnipro,Napoli,ua,it,1,0,1.0
+2014-2015,Final,,2015-05-27,Dnipro,Sevilla,ua,es,2,3,0.0

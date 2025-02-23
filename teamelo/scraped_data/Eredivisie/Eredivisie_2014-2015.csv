@@ -1,0 +1,313 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,Eredivisie,1,2014-08-08,Zwolle,Utrecht,2,0,1.0
+2014-2015,Eredivisie,1,2014-08-09,Heerenveen,Dordrecht,1,2,0.0
+2014-2015,Eredivisie,1,2014-08-09,Cambuur,Twente,1,1,0.5
+2014-2015,Eredivisie,1,2014-08-09,NAC Breda,Excelsior,1,1,0.5
+2014-2015,Eredivisie,1,2014-08-09,Heracles Almelo,AZ Alkmaar,0,3,0.0
+2014-2015,Eredivisie,1,2014-08-10,ADO Den Haag,Feyenoord,0,1,0.0
+2014-2015,Eredivisie,1,2014-08-10,Go Ahead Eag,Groningen,2,3,0.0
+2014-2015,Eredivisie,1,2014-08-10,Ajax,Vitesse,4,1,1.0
+2014-2015,Eredivisie,1,2014-08-10,Willem II,PSV Eindhoven,1,3,0.0
+2014-2015,Eredivisie,2,2014-08-15,Feyenoord,Heerenveen,1,1,0.5
+2014-2015,Eredivisie,2,2014-08-16,PSV Eindhoven,NAC Breda,6,1,1.0
+2014-2015,Eredivisie,2,2014-08-16,Dordrecht,Zwolle,1,2,0.0
+2014-2015,Eredivisie,2,2014-08-16,Twente,ADO Den Haag,2,2,0.5
+2014-2015,Eredivisie,2,2014-08-16,Vitesse,Cambuur,2,2,0.5
+2014-2015,Eredivisie,2,2014-08-17,AZ Alkmaar,Ajax,1,3,0.0
+2014-2015,Eredivisie,2,2014-08-17,Utrecht,Willem II,2,1,1.0
+2014-2015,Eredivisie,2,2014-08-17,Excelsior,Go Ahead Eag,3,2,1.0
+2014-2015,Eredivisie,2,2014-08-17,Groningen,Heracles Almelo,3,1,1.0
+2014-2015,Eredivisie,3,2014-08-22,Heracles Almelo,Cambuur,0,1,0.0
+2014-2015,Eredivisie,3,2014-08-23,Willem II,AZ Alkmaar,3,0,1.0
+2014-2015,Eredivisie,3,2014-08-23,Heerenveen,Excelsior,2,0,1.0
+2014-2015,Eredivisie,3,2014-08-23,Go Ahead Eag,Dordrecht,0,0,0.5
+2014-2015,Eredivisie,3,2014-08-24,Zwolle,Vitesse,2,1,1.0
+2014-2015,Eredivisie,3,2014-08-24,Feyenoord,Utrecht,1,2,0.0
+2014-2015,Eredivisie,3,2014-08-24,ADO Den Haag,Groningen,3,0,1.0
+2014-2015,Eredivisie,3,2014-08-24,NAC Breda,Twente,1,1,0.5
+2014-2015,Eredivisie,3,2014-08-24,Ajax,PSV Eindhoven,1,3,0.0
+2014-2015,Eredivisie,4,2014-08-29,Go Ahead Eag,Willem II,1,0,1.0
+2014-2015,Eredivisie,4,2014-08-30,Cambuur,ADO Den Haag,3,2,1.0
+2014-2015,Eredivisie,4,2014-08-30,Dordrecht,AZ Alkmaar,1,3,0.0
+2014-2015,Eredivisie,4,2014-08-30,Excelsior,Heracles Almelo,3,1,1.0
+2014-2015,Eredivisie,4,2014-08-30,Heerenveen,Utrecht,3,1,1.0
+2014-2015,Eredivisie,4,2014-08-31,PSV Eindhoven,Vitesse,2,0,1.0
+2014-2015,Eredivisie,4,2014-08-31,NAC Breda,Zwolle,3,1,1.0
+2014-2015,Eredivisie,4,2014-08-31,Groningen,Ajax,2,0,1.0
+2014-2015,Eredivisie,4,2014-08-31,Twente,Feyenoord,0,0,0.5
+2014-2015,Eredivisie,5,2014-09-13,Ajax,Heracles Almelo,2,1,1.0
+2014-2015,Eredivisie,5,2014-09-13,Twente,Go Ahead Eag,2,1,1.0
+2014-2015,Eredivisie,5,2014-09-13,AZ Alkmaar,Heerenveen,0,1,0.0
+2014-2015,Eredivisie,5,2014-09-13,Zwolle,PSV Eindhoven,3,1,1.0
+2014-2015,Eredivisie,5,2014-09-13,Feyenoord,Willem II,1,2,0.0
+2014-2015,Eredivisie,5,2014-09-14,Utrecht,ADO Den Haag,0,0,0.5
+2014-2015,Eredivisie,5,2014-09-14,Vitesse,Excelsior,3,1,1.0
+2014-2015,Eredivisie,5,2014-09-14,Cambuur,Groningen,3,0,1.0
+2014-2015,Eredivisie,5,2014-09-14,Dordrecht,NAC Breda,0,1,0.0
+2014-2015,Eredivisie,6,2014-09-19,Willem II,NAC Breda,2,1,1.0
+2014-2015,Eredivisie,6,2014-09-20,Excelsior,Dordrecht,1,1,0.5
+2014-2015,Eredivisie,6,2014-09-20,ADO Den Haag,Go Ahead Eag,1,1,0.5
+2014-2015,Eredivisie,6,2014-09-20,Vitesse,Heerenveen,1,1,0.5
+2014-2015,Eredivisie,6,2014-09-21,Heracles Almelo,Twente,1,4,0.0
+2014-2015,Eredivisie,6,2014-09-21,PSV Eindhoven,Cambuur,4,0,1.0
+2014-2015,Eredivisie,6,2014-09-21,AZ Alkmaar,Zwolle,1,0,1.0
+2014-2015,Eredivisie,6,2014-09-21,Feyenoord,Ajax,0,1,0.0
+2014-2015,Eredivisie,6,2014-09-21,Utrecht,Groningen,1,0,1.0
+2014-2015,Eredivisie,7,2014-09-27,Dordrecht,Vitesse,2,6,0.0
+2014-2015,Eredivisie,7,2014-09-27,NAC Breda,Ajax,2,5,0.0
+2014-2015,Eredivisie,7,2014-09-27,Zwolle,Heracles Almelo,4,2,1.0
+2014-2015,Eredivisie,7,2014-09-27,ADO Den Haag,AZ Alkmaar,2,3,0.0
+2014-2015,Eredivisie,7,2014-09-27,Go Ahead Eag,Feyenoord,0,4,0.0
+2014-2015,Eredivisie,7,2014-09-28,Excelsior,Cambuur,1,1,0.5
+2014-2015,Eredivisie,7,2014-09-28,Twente,Utrecht,3,1,1.0
+2014-2015,Eredivisie,7,2014-09-28,Groningen,Willem II,1,0,1.0
+2014-2015,Eredivisie,7,2014-09-28,Heerenveen,PSV Eindhoven,1,0,1.0
+2014-2015,Eredivisie,8,2014-10-03,Vitesse,ADO Den Haag,6,1,1.0
+2014-2015,Eredivisie,8,2014-10-04,Heracles Almelo,NAC Breda,6,1,1.0
+2014-2015,Eredivisie,8,2014-10-04,Cambuur,Dordrecht,4,1,1.0
+2014-2015,Eredivisie,8,2014-10-04,Willem II,Heerenveen,2,1,1.0
+2014-2015,Eredivisie,8,2014-10-04,Utrecht,Go Ahead Eag,2,3,0.0
+2014-2015,Eredivisie,8,2014-10-05,PSV Eindhoven,Excelsior,3,0,1.0
+2014-2015,Eredivisie,8,2014-10-05,Feyenoord,Groningen,4,0,1.0
+2014-2015,Eredivisie,8,2014-10-05,AZ Alkmaar,Twente,2,2,0.5
+2014-2015,Eredivisie,8,2014-10-05,Ajax,Zwolle,0,0,0.5
+2014-2015,Eredivisie,9,2014-10-18,PSV Eindhoven,AZ Alkmaar,3,0,1.0
+2014-2015,Eredivisie,9,2014-10-18,Willem II,Vitesse,1,4,0.0
+2014-2015,Eredivisie,9,2014-10-18,Feyenoord,Heracles Almelo,2,1,1.0
+2014-2015,Eredivisie,9,2014-10-18,Twente,Ajax,1,1,0.5
+2014-2015,Eredivisie,9,2014-10-18,NAC Breda,ADO Den Haag,1,1,0.5
+2014-2015,Eredivisie,9,2014-10-19,Heerenveen,Cambuur,2,2,0.5
+2014-2015,Eredivisie,9,2014-10-19,Go Ahead Eag,Zwolle,3,2,1.0
+2014-2015,Eredivisie,9,2014-10-19,Dordrecht,Utrecht,1,3,0.0
+2014-2015,Eredivisie,9,2014-10-19,Groningen,Excelsior,1,1,0.5
+2014-2015,Eredivisie,10,2014-10-24,ADO Den Haag,Dordrecht,2,0,1.0
+2014-2015,Eredivisie,10,2014-10-25,Vitesse,NAC Breda,2,2,0.5
+2014-2015,Eredivisie,10,2014-10-25,AZ Alkmaar,Groningen,2,2,0.5
+2014-2015,Eredivisie,10,2014-10-25,Heracles Almelo,Willem II,1,3,0.0
+2014-2015,Eredivisie,10,2014-10-25,Ajax,Go Ahead Eag,3,1,1.0
+2014-2015,Eredivisie,10,2014-10-26,Cambuur,Feyenoord,0,1,0.0
+2014-2015,Eredivisie,10,2014-10-26,Utrecht,PSV Eindhoven,1,5,0.0
+2014-2015,Eredivisie,10,2014-10-26,Zwolle,Heerenveen,2,2,0.5
+2014-2015,Eredivisie,10,2014-10-26,Excelsior,Twente,2,1,1.0
+2014-2015,Eredivisie,11,2014-11-01,Ajax,Dordrecht,4,0,1.0
+2014-2015,Eredivisie,11,2014-11-01,Feyenoord,Zwolle,2,0,1.0
+2014-2015,Eredivisie,11,2014-11-01,Twente,Heerenveen,2,0,1.0
+2014-2015,Eredivisie,11,2014-11-01,PSV Eindhoven,ADO Den Haag,1,0,1.0
+2014-2015,Eredivisie,11,2014-11-02,Utrecht,Vitesse,3,1,1.0
+2014-2015,Eredivisie,11,2014-11-02,Go Ahead Eag,Heracles Almelo,1,3,0.0
+2014-2015,Eredivisie,11,2014-11-02,Willem II,Cambuur,1,1,0.5
+2014-2015,Eredivisie,11,2014-11-02,AZ Alkmaar,Excelsior,3,3,0.5
+2014-2015,Eredivisie,11,2014-11-02,Groningen,NAC Breda,1,0,1.0
+2014-2015,Eredivisie,12,2014-11-07,Excelsior,Utrecht,2,2,0.5
+2014-2015,Eredivisie,12,2014-11-08,ADO Den Haag,Willem II,3,2,1.0
+2014-2015,Eredivisie,12,2014-11-08,Zwolle,Groningen,2,0,1.0
+2014-2015,Eredivisie,12,2014-11-08,Heerenveen,Go Ahead Eag,2,2,0.5
+2014-2015,Eredivisie,12,2014-11-08,NAC Breda,AZ Alkmaar,0,1,0.0
+2014-2015,Eredivisie,12,2014-11-09,Cambuur,Ajax,2,4,0.0
+2014-2015,Eredivisie,12,2014-11-09,Vitesse,Feyenoord,0,0,0.5
+2014-2015,Eredivisie,12,2014-11-09,Dordrecht,Twente,0,4,0.0
+2014-2015,Eredivisie,12,2014-11-09,Heracles Almelo,PSV Eindhoven,1,2,0.0
+2014-2015,Eredivisie,13,2014-11-22,AZ Alkmaar,Vitesse,1,0,1.0
+2014-2015,Eredivisie,13,2014-11-22,Go Ahead Eag,NAC Breda,2,0,1.0
+2014-2015,Eredivisie,13,2014-11-22,Feyenoord,Dordrecht,2,0,1.0
+2014-2015,Eredivisie,13,2014-11-22,Willem II,Excelsior,1,1,0.5
+2014-2015,Eredivisie,13,2014-11-22,Ajax,Heerenveen,4,1,1.0
+2014-2015,Eredivisie,13,2014-11-23,Groningen,PSV Eindhoven,1,1,0.5
+2014-2015,Eredivisie,13,2014-11-23,Zwolle,Twente,1,2,0.0
+2014-2015,Eredivisie,13,2014-11-23,Heracles Almelo,ADO Den Haag,3,1,1.0
+2014-2015,Eredivisie,13,2014-11-23,Utrecht,Cambuur,1,3,0.0
+2014-2015,Eredivisie,14,2014-11-28,Dordrecht,Willem II,0,4,0.0
+2014-2015,Eredivisie,14,2014-11-29,Heerenveen,Heracles Almelo,0,1,0.0
+2014-2015,Eredivisie,14,2014-11-29,NAC Breda,Utrecht,1,5,0.0
+2014-2015,Eredivisie,14,2014-11-29,Vitesse,Go Ahead Eag,2,2,0.5
+2014-2015,Eredivisie,14,2014-11-29,Cambuur,AZ Alkmaar,0,2,0.0
+2014-2015,Eredivisie,14,2014-11-30,ADO Den Haag,Ajax,1,1,0.5
+2014-2015,Eredivisie,14,2014-11-30,Excelsior,Zwolle,0,5,0.0
+2014-2015,Eredivisie,14,2014-11-30,Twente,Groningen,1,2,0.0
+2014-2015,Eredivisie,15,2014-12-06,Excelsior,Feyenoord,2,5,0.0
+2014-2015,Eredivisie,15,2014-12-06,AZ Alkmaar,Go Ahead Eag,2,0,1.0
+2014-2015,Eredivisie,15,2014-12-06,Cambuur,NAC Breda,0,1,0.0
+2014-2015,Eredivisie,15,2014-12-06,Ajax,Willem II,5,0,1.0
+2014-2015,Eredivisie,15,2014-12-06,Dordrecht,PSV Eindhoven,1,3,0.0
+2014-2015,Eredivisie,15,2014-12-07,Zwolle,ADO Den Haag,3,1,1.0
+2014-2015,Eredivisie,15,2014-12-07,Groningen,Heerenveen,1,1,0.5
+2014-2015,Eredivisie,15,2014-12-07,Utrecht,Heracles Almelo,2,4,0.0
+2014-2015,Eredivisie,15,2014-12-07,Vitesse,Twente,2,2,0.5
+2014-2015,Eredivisie,16,2014-12-12,Heracles Almelo,Dordrecht,1,1,0.5
+2014-2015,Eredivisie,16,2014-12-13,NAC Breda,Heerenveen,0,2,0.0
+2014-2015,Eredivisie,16,2014-12-13,Willem II,Zwolle,0,1,0.0
+2014-2015,Eredivisie,16,2014-12-13,ADO Den Haag,Excelsior,2,2,0.5
+2014-2015,Eredivisie,16,2014-12-13,Go Ahead Eag,Cambuur,1,2,0.0
+2014-2015,Eredivisie,16,2014-12-14,Ajax,Utrecht,3,1,1.0
+2014-2015,Eredivisie,16,2014-12-14,PSV Eindhoven,Twente,2,0,1.0
+2014-2015,Eredivisie,16,2014-12-14,Groningen,Vitesse,1,1,0.5
+2014-2015,Eredivisie,16,2014-12-14,Feyenoord,AZ Alkmaar,2,2,0.5
+2014-2015,Eredivisie,14,2014-12-17,PSV Eindhoven,Feyenoord,4,3,1.0
+2014-2015,Eredivisie,17,2014-12-19,Heerenveen,ADO Den Haag,0,0,0.5
+2014-2015,Eredivisie,17,2014-12-20,Cambuur,Zwolle,2,1,1.0
+2014-2015,Eredivisie,17,2014-12-20,Dordrecht,Groningen,1,1,0.5
+2014-2015,Eredivisie,17,2014-12-20,PSV Eindhoven,Go Ahead Eag,5,0,1.0
+2014-2015,Eredivisie,17,2014-12-20,AZ Alkmaar,Utrecht,0,3,0.0
+2014-2015,Eredivisie,17,2014-12-21,Vitesse,Heracles Almelo,3,0,1.0
+2014-2015,Eredivisie,17,2014-12-21,Excelsior,Ajax,0,2,0.0
+2014-2015,Eredivisie,17,2014-12-21,NAC Breda,Feyenoord,0,1,0.0
+2014-2015,Eredivisie,17,2014-12-21,Twente,Willem II,3,2,1.0
+2014-2015,Eredivisie,18,2015-01-16,Ajax,Groningen,2,0,1.0
+2014-2015,Eredivisie,18,2015-01-17,Zwolle,NAC Breda,4,1,1.0
+2014-2015,Eredivisie,18,2015-01-17,ADO Den Haag,Cambuur,2,2,0.5
+2014-2015,Eredivisie,18,2015-01-17,AZ Alkmaar,Dordrecht,2,0,1.0
+2014-2015,Eredivisie,18,2015-01-17,Vitesse,PSV Eindhoven,0,1,0.0
+2014-2015,Eredivisie,18,2015-01-18,Willem II,Go Ahead Eag,1,0,1.0
+2014-2015,Eredivisie,18,2015-01-18,Utrecht,Heerenveen,1,2,0.0
+2014-2015,Eredivisie,18,2015-01-18,Feyenoord,Twente,3,1,1.0
+2014-2015,Eredivisie,18,2015-01-18,Heracles Almelo,Excelsior,0,3,0.0
+2014-2015,Eredivisie,19,2015-01-23,Twente,Heracles Almelo,2,0,1.0
+2014-2015,Eredivisie,19,2015-01-24,Cambuur,PSV Eindhoven,1,2,0.0
+2014-2015,Eredivisie,19,2015-01-24,Dordrecht,Excelsior,1,0,1.0
+2014-2015,Eredivisie,19,2015-01-24,Zwolle,AZ Alkmaar,1,1,0.5
+2014-2015,Eredivisie,19,2015-01-24,Heerenveen,Vitesse,4,1,1.0
+2014-2015,Eredivisie,19,2015-01-25,Ajax,Feyenoord,0,0,0.5
+2014-2015,Eredivisie,19,2015-01-25,Groningen,Utrecht,2,2,0.5
+2014-2015,Eredivisie,19,2015-01-25,NAC Breda,Willem II,0,0,0.5
+2014-2015,Eredivisie,19,2015-01-25,Go Ahead Eag,ADO Den Haag,1,0,1.0
+2014-2015,Eredivisie,20,2015-01-30,Dordrecht,Heerenveen,0,0,0.5
+2014-2015,Eredivisie,20,2015-01-31,PSV Eindhoven,Willem II,2,1,1.0
+2014-2015,Eredivisie,20,2015-01-31,Groningen,Go Ahead Eag,2,0,1.0
+2014-2015,Eredivisie,20,2015-01-31,Excelsior,NAC Breda,0,0,0.5
+2014-2015,Eredivisie,20,2015-01-31,Twente,Cambuur,2,1,1.0
+2014-2015,Eredivisie,20,2015-02-01,Feyenoord,ADO Den Haag,2,1,1.0
+2014-2015,Eredivisie,20,2015-02-01,Vitesse,Ajax,1,0,1.0
+2014-2015,Eredivisie,20,2015-02-01,Utrecht,Zwolle,0,2,0.0
+2014-2015,Eredivisie,20,2015-02-01,AZ Alkmaar,Heracles Almelo,3,1,1.0
+2014-2015,Eredivisie,21,2015-02-03,Go Ahead Eag,Excelsior,0,0,0.5
+2014-2015,Eredivisie,21,2015-02-03,NAC Breda,PSV Eindhoven,0,2,0.0
+2014-2015,Eredivisie,21,2015-02-04,ADO Den Haag,Twente,2,0,1.0
+2014-2015,Eredivisie,21,2015-02-04,Heerenveen,Feyenoord,3,1,1.0
+2014-2015,Eredivisie,21,2015-02-04,Zwolle,Dordrecht,4,0,1.0
+2014-2015,Eredivisie,21,2015-02-04,Cambuur,Vitesse,0,2,0.0
+2014-2015,Eredivisie,21,2015-02-04,Willem II,Utrecht,1,0,1.0
+2014-2015,Eredivisie,21,2015-02-05,Heracles Almelo,Groningen,2,2,0.5
+2014-2015,Eredivisie,21,2015-02-05,Ajax,AZ Alkmaar,0,1,0.0
+2014-2015,Eredivisie,22,2015-02-07,Dordrecht,ADO Den Haag,0,0,0.5
+2014-2015,Eredivisie,22,2015-02-07,Twente,Excelsior,1,3,0.0
+2014-2015,Eredivisie,22,2015-02-07,Heerenveen,Zwolle,4,0,1.0
+2014-2015,Eredivisie,22,2015-02-07,NAC Breda,Vitesse,0,1,0.0
+2014-2015,Eredivisie,22,2015-02-07,PSV Eindhoven,Utrecht,3,1,1.0
+2014-2015,Eredivisie,22,2015-02-08,Feyenoord,Cambuur,2,1,1.0
+2014-2015,Eredivisie,22,2015-02-08,Willem II,Heracles Almelo,3,0,1.0
+2014-2015,Eredivisie,22,2015-02-08,Go Ahead Eag,Ajax,1,2,0.0
+2014-2015,Eredivisie,22,2015-02-08,Groningen,AZ Alkmaar,2,4,0.0
+2014-2015,Eredivisie,23,2015-02-13,AZ Alkmaar,PSV Eindhoven,2,4,0.0
+2014-2015,Eredivisie,23,2015-02-14,Heracles Almelo,Feyenoord,2,0,1.0
+2014-2015,Eredivisie,23,2015-02-14,Vitesse,Willem II,2,0,1.0
+2014-2015,Eredivisie,23,2015-02-14,Excelsior,Groningen,1,1,0.5
+2014-2015,Eredivisie,23,2015-02-14,ADO Den Haag,NAC Breda,3,2,1.0
+2014-2015,Eredivisie,23,2015-02-15,Cambuur,Heerenveen,2,1,1.0
+2014-2015,Eredivisie,23,2015-02-15,Zwolle,Go Ahead Eag,0,1,0.0
+2014-2015,Eredivisie,23,2015-02-15,Utrecht,Dordrecht,6,1,1.0
+2014-2015,Eredivisie,23,2015-02-15,Ajax,Twente,4,2,1.0
+2014-2015,Eredivisie,24,2015-02-20,NAC Breda,Cambuur,2,1,1.0
+2014-2015,Eredivisie,24,2015-02-21,ADO Den Haag,Zwolle,3,2,1.0
+2014-2015,Eredivisie,24,2015-02-21,Go Ahead Eag,AZ Alkmaar,0,2,0.0
+2014-2015,Eredivisie,24,2015-02-21,Heracles Almelo,Utrecht,1,1,0.5
+2014-2015,Eredivisie,24,2015-02-22,Heerenveen,Groningen,3,1,1.0
+2014-2015,Eredivisie,24,2015-02-22,Twente,Vitesse,1,2,0.0
+2014-2015,Eredivisie,24,2015-02-22,Willem II,Ajax,1,1,0.5
+2014-2015,Eredivisie,24,2015-02-22,PSV Eindhoven,Dordrecht,3,0,1.0
+2014-2015,Eredivisie,24,2015-02-22,Feyenoord,Excelsior,3,2,1.0
+2014-2015,Eredivisie,25,2015-02-27,Dordrecht,Go Ahead Eag,2,1,1.0
+2014-2015,Eredivisie,25,2015-02-28,Vitesse,Zwolle,2,1,1.0
+2014-2015,Eredivisie,25,2015-02-28,Twente,NAC Breda,1,1,0.5
+2014-2015,Eredivisie,25,2015-02-28,AZ Alkmaar,Willem II,2,0,1.0
+2014-2015,Eredivisie,25,2015-02-28,Cambuur,Heracles Almelo,1,0,1.0
+2014-2015,Eredivisie,25,2015-03-01,Excelsior,Heerenveen,3,0,1.0
+2014-2015,Eredivisie,25,2015-03-01,Groningen,ADO Den Haag,1,1,0.5
+2014-2015,Eredivisie,25,2015-03-01,Utrecht,Feyenoord,0,0,0.5
+2014-2015,Eredivisie,25,2015-03-01,PSV Eindhoven,Ajax,1,3,0.0
+2014-2015,Eredivisie,26,2015-03-06,Willem II,Twente,2,2,0.5
+2014-2015,Eredivisie,26,2015-03-07,Go Ahead Eag,PSV Eindhoven,0,3,0.0
+2014-2015,Eredivisie,26,2015-03-07,Heracles Almelo,Vitesse,1,1,0.5
+2014-2015,Eredivisie,26,2015-03-07,ADO Den Haag,Heerenveen,0,1,0.0
+2014-2015,Eredivisie,26,2015-03-07,Zwolle,Cambuur,6,1,1.0
+2014-2015,Eredivisie,26,2015-03-08,Groningen,Dordrecht,2,0,1.0
+2014-2015,Eredivisie,26,2015-03-08,Feyenoord,NAC Breda,3,0,1.0
+2014-2015,Eredivisie,26,2015-03-08,Ajax,Excelsior,1,0,1.0
+2014-2015,Eredivisie,26,2015-03-08,Utrecht,AZ Alkmaar,6,2,1.0
+2014-2015,Eredivisie,27,2015-03-13,Vitesse,AZ Alkmaar,3,1,1.0
+2014-2015,Eredivisie,27,2015-03-14,Twente,Zwolle,2,0,1.0
+2014-2015,Eredivisie,27,2015-03-14,NAC Breda,Go Ahead Eag,1,0,1.0
+2014-2015,Eredivisie,27,2015-03-14,Cambuur,Utrecht,3,1,1.0
+2014-2015,Eredivisie,27,2015-03-14,Excelsior,Willem II,2,3,0.0
+2014-2015,Eredivisie,27,2015-03-15,ADO Den Haag,Heracles Almelo,1,3,0.0
+2014-2015,Eredivisie,27,2015-03-15,PSV Eindhoven,Groningen,2,1,1.0
+2014-2015,Eredivisie,27,2015-03-15,Heerenveen,Ajax,1,4,0.0
+2014-2015,Eredivisie,27,2015-03-15,Dordrecht,Feyenoord,1,2,0.0
+2014-2015,Eredivisie,28,2015-03-20,Utrecht,NAC Breda,3,4,0.0
+2014-2015,Eredivisie,28,2015-03-21,Go Ahead Eag,Vitesse,0,2,0.0
+2014-2015,Eredivisie,28,2015-03-21,Heracles Almelo,Heerenveen,1,4,0.0
+2014-2015,Eredivisie,28,2015-03-21,Willem II,Dordrecht,2,1,1.0
+2014-2015,Eredivisie,28,2015-03-21,AZ Alkmaar,Cambuur,2,1,1.0
+2014-2015,Eredivisie,28,2015-03-22,Zwolle,Excelsior,1,1,0.5
+2014-2015,Eredivisie,28,2015-03-22,Groningen,Twente,2,2,0.5
+2014-2015,Eredivisie,28,2015-03-22,Feyenoord,PSV Eindhoven,2,1,1.0
+2014-2015,Eredivisie,28,2015-03-22,Ajax,ADO Den Haag,1,0,1.0
+2014-2015,Eredivisie,29,2015-04-04,Vitesse,Groningen,1,1,0.5
+2014-2015,Eredivisie,29,2015-04-04,Zwolle,Willem II,1,0,1.0
+2014-2015,Eredivisie,29,2015-04-04,Heerenveen,NAC Breda,0,0,0.5
+2014-2015,Eredivisie,29,2015-04-04,Dordrecht,Heracles Almelo,2,3,0.0
+2014-2015,Eredivisie,29,2015-04-04,Twente,PSV Eindhoven,0,5,0.0
+2014-2015,Eredivisie,29,2015-04-05,Utrecht,Ajax,1,1,0.5
+2014-2015,Eredivisie,29,2015-04-05,AZ Alkmaar,Feyenoord,1,4,0.0
+2014-2015,Eredivisie,29,2015-04-05,Excelsior,ADO Den Haag,2,3,0.0
+2014-2015,Eredivisie,29,2015-04-05,Cambuur,Go Ahead Eag,1,0,1.0
+2014-2015,Eredivisie,30,2015-04-10,PSV Eindhoven,Zwolle,3,1,1.0
+2014-2015,Eredivisie,30,2015-04-11,Excelsior,Vitesse,1,3,0.0
+2014-2015,Eredivisie,30,2015-04-11,Heerenveen,AZ Alkmaar,5,2,1.0
+2014-2015,Eredivisie,30,2015-04-11,NAC Breda,Dordrecht,2,2,0.5
+2014-2015,Eredivisie,30,2015-04-11,Heracles Almelo,Ajax,0,2,0.0
+2014-2015,Eredivisie,30,2015-04-12,Willem II,Feyenoord,2,2,0.5
+2014-2015,Eredivisie,30,2015-04-12,Groningen,Cambuur,3,2,1.0
+2014-2015,Eredivisie,30,2015-04-12,Go Ahead Eag,Twente,1,3,0.0
+2014-2015,Eredivisie,30,2015-04-12,ADO Den Haag,Utrecht,2,0,1.0
+2014-2015,Eredivisie,31,2015-04-17,Cambuur,Excelsior,1,1,0.5
+2014-2015,Eredivisie,31,2015-04-18,AZ Alkmaar,ADO Den Haag,3,1,1.0
+2014-2015,Eredivisie,31,2015-04-18,PSV Eindhoven,Heerenveen,4,1,1.0
+2014-2015,Eredivisie,31,2015-04-18,Vitesse,Dordrecht,3,0,1.0
+2014-2015,Eredivisie,31,2015-04-18,Willem II,Groningen,1,4,0.0
+2014-2015,Eredivisie,31,2015-04-19,Feyenoord,Go Ahead Eag,0,1,0.0
+2014-2015,Eredivisie,31,2015-04-19,Ajax,NAC Breda,0,0,0.5
+2014-2015,Eredivisie,31,2015-04-19,Heracles Almelo,Zwolle,2,0,1.0
+2014-2015,Eredivisie,31,2015-04-19,Utrecht,Twente,1,0,1.0
+2014-2015,Eredivisie,32,2015-04-24,ADO Den Haag,Vitesse,1,0,1.0
+2014-2015,Eredivisie,32,2015-04-25,Heerenveen,Willem II,1,1,0.5
+2014-2015,Eredivisie,32,2015-04-25,Go Ahead Eag,Utrecht,0,2,0.0
+2014-2015,Eredivisie,32,2015-04-25,NAC Breda,Heracles Almelo,1,3,0.0
+2014-2015,Eredivisie,32,2015-04-25,Excelsior,PSV Eindhoven,2,3,0.0
+2014-2015,Eredivisie,32,2015-04-26,Dordrecht,Cambuur,0,0,0.5
+2014-2015,Eredivisie,32,2015-04-26,Groningen,Feyenoord,1,1,0.5
+2014-2015,Eredivisie,32,2015-04-26,Zwolle,Ajax,1,1,0.5
+2014-2015,Eredivisie,32,2015-04-26,Twente,AZ Alkmaar,0,2,0.0
+2014-2015,Eredivisie,33,2015-05-10,PSV Eindhoven,Heracles Almelo,2,0,1.0
+2014-2015,Eredivisie,33,2015-05-10,Go Ahead Eag,Heerenveen,1,1,0.5
+2014-2015,Eredivisie,33,2015-05-10,Willem II,ADO Den Haag,1,0,1.0
+2014-2015,Eredivisie,33,2015-05-10,Ajax,Cambuur,3,0,1.0
+2014-2015,Eredivisie,33,2015-05-10,AZ Alkmaar,NAC Breda,3,2,1.0
+2014-2015,Eredivisie,33,2015-05-10,Utrecht,Excelsior,2,2,0.5
+2014-2015,Eredivisie,33,2015-05-10,Twente,Dordrecht,3,0,1.0
+2014-2015,Eredivisie,33,2015-05-10,Groningen,Zwolle,0,1,0.0
+2014-2015,Eredivisie,33,2015-05-11,Feyenoord,Vitesse,1,4,0.0
+2014-2015,Eredivisie,34,2015-05-17,Zwolle,Feyenoord,3,0,1.0
+2014-2015,Eredivisie,34,2015-05-17,Cambuur,Willem II,1,2,0.0
+2014-2015,Eredivisie,34,2015-05-17,ADO Den Haag,PSV Eindhoven,2,3,0.0
+2014-2015,Eredivisie,34,2015-05-17,Vitesse,Utrecht,3,3,0.5
+2014-2015,Eredivisie,34,2015-05-17,NAC Breda,Groningen,4,5,0.0
+2014-2015,Eredivisie,34,2015-05-17,Excelsior,AZ Alkmaar,1,4,0.0
+2014-2015,Eredivisie,34,2015-05-17,Heracles Almelo,Go Ahead Eag,1,0,1.0
+2014-2015,Eredivisie,34,2015-05-17,Heerenveen,Twente,1,3,0.0
+2014-2015,Eredivisie,34,2015-05-17,Dordrecht,Ajax,2,1,1.0
+2014-2015,Semi-finals,,2015-05-21,Heerenveen,Feyenoord,1,0,1.0
+2014-2015,Semi-finals,,2015-05-21,Zwolle,Vitesse,1,2,0.0
+2014-2015,Semi-finals,,2015-05-24,Vitesse,Zwolle,1,1,0.5
+2014-2015,Semi-finals,,2015-05-24,Feyenoord,Heerenveen,2,2,0.5
+2014-2015,Finals,,2015-05-28,Heerenveen,Vitesse,2,2,0.5
+2014-2015,Finals,,2015-05-31,Vitesse,Heerenveen,5,2,1.0

@@ -1,0 +1,231 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2018-2019,Regular season,1,2018-08-04,Celtic,Livingston,3,1,1.0
+2018-2019,Regular season,1,2018-08-04,Kilmarnock,St Johnstone,2,0,1.0
+2018-2019,Regular season,1,2018-08-04,St Mirren,Dundee,2,1,1.0
+2018-2019,Regular season,1,2018-08-04,Hamilton,Hearts,1,4,0.0
+2018-2019,Regular season,1,2018-08-05,Aberdeen,Rangers,1,1,0.5
+2018-2019,Regular season,1,2018-08-05,Hibernian,Motherwell,3,0,1.0
+2018-2019,Regular season,2,2018-08-11,Hearts,Celtic,1,0,1.0
+2018-2019,Regular season,2,2018-08-11,Motherwell,Hamilton,0,1,0.0
+2018-2019,Regular season,2,2018-08-11,Livingston,Kilmarnock,0,0,0.5
+2018-2019,Regular season,2,2018-08-11,Dundee,Aberdeen,0,1,0.0
+2018-2019,Regular season,2,2018-08-12,Rangers,St Mirren,2,0,1.0
+2018-2019,Regular season,2,2018-08-12,St Johnstone,Hibernian,1,1,0.5
+2018-2019,Regular season,3,2018-08-25,Hibernian,Aberdeen,1,1,0.5
+2018-2019,Regular season,3,2018-08-25,St Mirren,Livingston,0,2,0.0
+2018-2019,Regular season,3,2018-08-25,St Johnstone,Dundee,1,0,1.0
+2018-2019,Regular season,3,2018-08-25,Kilmarnock,Hearts,0,1,0.0
+2018-2019,Regular season,3,2018-08-26,Motherwell,Rangers,3,3,0.5
+2018-2019,Regular season,3,2018-08-26,Celtic,Hamilton,1,0,1.0
+2018-2019,Regular season,4,2018-09-01,Aberdeen,Kilmarnock,0,2,0.0
+2018-2019,Regular season,4,2018-09-01,Hamilton,St Johnstone,1,2,0.0
+2018-2019,Regular season,4,2018-09-01,Livingston,Hibernian,2,1,1.0
+2018-2019,Regular season,4,2018-09-01,Dundee,Motherwell,1,3,0.0
+2018-2019,Regular season,4,2018-09-01,Hearts,St Mirren,4,1,1.0
+2018-2019,Regular season,4,2018-09-02,Celtic,Rangers,1,0,1.0
+2018-2019,Regular season,5,2018-09-14,St Mirren,Celtic,0,0,0.5
+2018-2019,Regular season,5,2018-09-15,Hibernian,Kilmarnock,3,2,1.0
+2018-2019,Regular season,5,2018-09-15,Rangers,Dundee,4,0,1.0
+2018-2019,Regular season,5,2018-09-15,St Johnstone,Aberdeen,1,1,0.5
+2018-2019,Regular season,5,2018-09-15,Motherwell,Hearts,0,1,0.0
+2018-2019,Regular season,5,2018-09-15,Livingston,Hamilton,1,0,1.0
+2018-2019,Regular season,6,2018-09-22,Hamilton,St Mirren,3,0,1.0
+2018-2019,Regular season,6,2018-09-22,Aberdeen,Motherwell,1,0,1.0
+2018-2019,Regular season,6,2018-09-22,Dundee,Hibernian,0,3,0.0
+2018-2019,Regular season,6,2018-09-22,Hearts,Livingston,0,0,0.5
+2018-2019,Regular season,6,2018-09-23,Kilmarnock,Celtic,2,1,1.0
+2018-2019,Regular season,6,2018-09-23,Rangers,St Johnstone,5,1,1.0
+2018-2019,Regular season,7,2018-09-29,St Mirren,Hibernian,0,1,0.0
+2018-2019,Regular season,7,2018-09-29,Hamilton,Dundee,0,2,0.0
+2018-2019,Regular season,7,2018-09-29,Hearts,St Johnstone,2,1,1.0
+2018-2019,Regular season,7,2018-09-29,Celtic,Aberdeen,1,0,1.0
+2018-2019,Regular season,7,2018-09-29,Kilmarnock,Motherwell,3,1,1.0
+2018-2019,Regular season,7,2018-09-30,Livingston,Rangers,1,0,1.0
+2018-2019,Regular season,8,2018-10-06,Hibernian,Hamilton,6,0,1.0
+2018-2019,Regular season,8,2018-10-06,Aberdeen,St Mirren,4,1,1.0
+2018-2019,Regular season,8,2018-10-06,Motherwell,Livingston,1,1,0.5
+2018-2019,Regular season,8,2018-10-06,Dundee,Kilmarnock,1,2,0.0
+2018-2019,Regular season,8,2018-10-07,Rangers,Hearts,3,1,1.0
+2018-2019,Regular season,8,2018-10-07,St Johnstone,Celtic,0,6,0.0
+2018-2019,Regular season,9,2018-10-20,St Mirren,Kilmarnock,1,2,0.0
+2018-2019,Regular season,9,2018-10-20,Hearts,Aberdeen,2,1,1.0
+2018-2019,Regular season,9,2018-10-20,Livingston,Dundee,4,0,1.0
+2018-2019,Regular season,9,2018-10-20,Motherwell,St Johnstone,0,1,0.0
+2018-2019,Regular season,9,2018-10-20,Celtic,Hibernian,4,2,1.0
+2018-2019,Regular season,9,2018-10-21,Hamilton,Rangers,1,4,0.0
+2018-2019,Regular season,10,2018-10-23,Dundee,Hearts,0,3,0.0
+2018-2019,Regular season,10,2018-10-27,St Johnstone,St Mirren,2,0,1.0
+2018-2019,Regular season,10,2018-10-27,Kilmarnock,Hamilton,1,1,0.5
+2018-2019,Regular season,11,2018-10-31,Hearts,Hibernian,0,0,0.5
+2018-2019,Regular season,11,2018-10-31,St Mirren,Motherwell,0,2,0.0
+2018-2019,Regular season,11,2018-10-31,Aberdeen,Hamilton,3,0,1.0
+2018-2019,Regular season,11,2018-10-31,Livingston,St Johnstone,0,1,0.0
+2018-2019,Regular season,11,2018-10-31,Dundee,Celtic,0,5,0.0
+2018-2019,Regular season,11,2018-10-31,Rangers,Kilmarnock,1,1,0.5
+2018-2019,Regular season,12,2018-11-03,St Mirren,Rangers,0,2,0.0
+2018-2019,Regular season,12,2018-11-03,Hibernian,St Johnstone,0,1,0.0
+2018-2019,Regular season,12,2018-11-03,Celtic,Hearts,5,0,1.0
+2018-2019,Regular season,12,2018-11-03,Hamilton,Livingston,1,0,1.0
+2018-2019,Regular season,12,2018-11-03,Motherwell,Dundee,1,0,1.0
+2018-2019,Regular season,12,2018-11-04,Kilmarnock,Aberdeen,1,2,0.0
+2018-2019,Regular season,13,2018-11-09,Aberdeen,Hibernian,1,0,1.0
+2018-2019,Regular season,13,2018-11-10,Dundee,St Mirren,1,1,0.5
+2018-2019,Regular season,13,2018-11-10,St Johnstone,Hamilton,4,0,1.0
+2018-2019,Regular season,13,2018-11-10,Hearts,Kilmarnock,0,1,0.0
+2018-2019,Regular season,13,2018-11-11,Livingston,Celtic,0,0,0.5
+2018-2019,Regular season,13,2018-11-11,Rangers,Motherwell,7,1,1.0
+2018-2019,Regular season,14,2018-11-24,Hamilton,Celtic,0,3,0.0
+2018-2019,Regular season,14,2018-11-24,St Mirren,Hearts,2,0,1.0
+2018-2019,Regular season,14,2018-11-24,Hibernian,Dundee,2,2,0.5
+2018-2019,Regular season,14,2018-11-24,Motherwell,Aberdeen,3,0,1.0
+2018-2019,Regular season,14,2018-11-24,Rangers,Livingston,3,0,1.0
+2018-2019,Regular season,14,2018-11-24,St Johnstone,Kilmarnock,0,0,0.5
+2018-2019,Regular season,15,2018-12-01,St Mirren,Hamilton,1,3,0.0
+2018-2019,Regular season,15,2018-12-01,Kilmarnock,Hibernian,3,0,1.0
+2018-2019,Regular season,15,2018-12-01,Livingston,Motherwell,2,0,1.0
+2018-2019,Regular season,15,2018-12-02,Hearts,Rangers,1,2,0.0
+2018-2019,Regular season,16,2018-12-05,Rangers,Aberdeen,0,1,0.0
+2018-2019,Regular season,16,2018-12-05,Motherwell,Celtic,1,1,0.5
+2018-2019,Regular season,16,2018-12-05,Dundee,Hamilton,4,0,1.0
+2018-2019,Regular season,16,2018-12-05,Kilmarnock,Livingston,2,0,1.0
+2018-2019,Regular season,16,2018-12-05,St Johnstone,Hearts,2,2,0.5
+2018-2019,Regular season,16,2018-12-05,Hibernian,St Mirren,2,2,0.5
+2018-2019,Regular season,17,2018-12-08,Hamilton,Hibernian,0,1,0.0
+2018-2019,Regular season,17,2018-12-08,Aberdeen,St Johnstone,0,2,0.0
+2018-2019,Regular season,17,2018-12-08,Celtic,Kilmarnock,5,1,1.0
+2018-2019,Regular season,17,2018-12-08,Livingston,St Mirren,3,1,1.0
+2018-2019,Regular season,17,2018-12-08,Hearts,Motherwell,1,0,1.0
+2018-2019,Regular season,17,2018-12-09,Dundee,Rangers,1,1,0.5
+2018-2019,Regular season,10,2018-12-11,Aberdeen,Livingston,3,2,1.0
+2018-2019,Regular season,18,2018-12-14,Livingston,Hearts,5,0,1.0
+2018-2019,Regular season,18,2018-12-15,St Mirren,Aberdeen,1,2,0.0
+2018-2019,Regular season,18,2018-12-15,St Johnstone,Motherwell,1,2,0.0
+2018-2019,Regular season,18,2018-12-15,Kilmarnock,Dundee,3,1,1.0
+2018-2019,Regular season,18,2018-12-16,Hibernian,Celtic,2,0,1.0
+2018-2019,Regular season,18,2018-12-16,Rangers,Hamilton,1,0,1.0
+2018-2019,Regular season,15,2018-12-18,Aberdeen,Dundee,5,1,1.0
+2018-2019,Regular season,10,2018-12-19,Celtic,Motherwell,3,0,1.0
+2018-2019,Regular season,10,2018-12-19,Hibernian,Rangers,0,0,0.5
+2018-2019,Regular season,19,2018-12-22,Hibernian,Livingston,1,1,0.5
+2018-2019,Regular season,19,2018-12-22,Hamilton,Kilmarnock,1,1,0.5
+2018-2019,Regular season,19,2018-12-22,Celtic,Dundee,3,0,1.0
+2018-2019,Regular season,19,2018-12-22,Aberdeen,Hearts,2,0,1.0
+2018-2019,Regular season,19,2018-12-22,Motherwell,St Mirren,0,1,0.0
+2018-2019,Regular season,19,2018-12-23,St Johnstone,Rangers,1,2,0.0
+2018-2019,Regular season,20,2018-12-26,Aberdeen,Celtic,3,4,0.0
+2018-2019,Regular season,20,2018-12-26,St Mirren,St Johnstone,0,1,0.0
+2018-2019,Regular season,20,2018-12-26,Motherwell,Kilmarnock,0,1,0.0
+2018-2019,Regular season,20,2018-12-26,Rangers,Hibernian,1,1,0.5
+2018-2019,Regular season,20,2018-12-26,Hearts,Hamilton,2,0,1.0
+2018-2019,Regular season,20,2018-12-26,Dundee,Livingston,0,0,0.5
+2018-2019,Regular season,21,2018-12-29,Rangers,Celtic,1,0,1.0
+2018-2019,Regular season,21,2018-12-29,Dundee,St Johnstone,0,2,0.0
+2018-2019,Regular season,21,2018-12-29,Kilmarnock,St Mirren,2,1,1.0
+2018-2019,Regular season,21,2018-12-29,Hamilton,Motherwell,1,2,0.0
+2018-2019,Regular season,21,2018-12-29,Livingston,Aberdeen,1,2,0.0
+2018-2019,Regular season,21,2018-12-29,Hibernian,Hearts,0,1,0.0
+2018-2019,Regular season,22,2019-01-23,Hamilton,Aberdeen,0,3,0.0
+2018-2019,Regular season,22,2019-01-23,Kilmarnock,Rangers,2,1,1.0
+2018-2019,Regular season,22,2019-01-23,Celtic,St Mirren,4,0,1.0
+2018-2019,Regular season,22,2019-01-23,Motherwell,Hibernian,1,0,1.0
+2018-2019,Regular season,22,2019-01-23,Hearts,Dundee,1,2,0.0
+2018-2019,Regular season,22,2019-01-23,St Johnstone,Livingston,1,0,1.0
+2018-2019,Regular season,23,2019-01-26,Celtic,Hamilton,3,0,1.0
+2018-2019,Regular season,23,2019-01-26,Dundee,Motherwell,0,1,0.0
+2018-2019,Regular season,23,2019-01-26,Aberdeen,Kilmarnock,0,0,0.5
+2018-2019,Regular season,23,2019-01-26,Hearts,St Johnstone,2,0,1.0
+2018-2019,Regular season,23,2019-01-27,St Mirren,Hibernian,1,3,0.0
+2018-2019,Regular season,23,2019-01-27,Livingston,Rangers,0,3,0.0
+2018-2019,Regular season,15,2019-01-30,Celtic,St Johnstone,2,0,1.0
+2018-2019,Regular season,24,2019-02-01,Kilmarnock,Hearts,1,2,0.0
+2018-2019,Regular season,24,2019-02-02,Hamilton,Dundee,1,1,0.5
+2018-2019,Regular season,24,2019-02-02,Hibernian,Aberdeen,1,2,0.0
+2018-2019,Regular season,24,2019-02-02,Motherwell,Livingston,3,0,1.0
+2018-2019,Regular season,24,2019-02-02,Rangers,St Mirren,4,0,1.0
+2018-2019,Regular season,24,2019-02-03,St Johnstone,Celtic,0,2,0.0
+2018-2019,Regular season,25,2019-02-06,St Mirren,Motherwell,1,2,0.0
+2018-2019,Regular season,25,2019-02-06,Hamilton,St Johnstone,2,1,1.0
+2018-2019,Regular season,25,2019-02-06,Celtic,Hibernian,2,0,1.0
+2018-2019,Regular season,25,2019-02-06,Aberdeen,Rangers,2,4,0.0
+2018-2019,Regular season,25,2019-02-06,Hearts,Livingston,0,0,0.5
+2018-2019,Regular season,25,2019-02-06,Dundee,Kilmarnock,2,2,0.5
+2018-2019,Regular season,26,2019-02-16,Hibernian,Hamilton,2,0,1.0
+2018-2019,Regular season,26,2019-02-16,Livingston,Dundee,1,2,0.0
+2018-2019,Regular season,26,2019-02-16,Rangers,St Johnstone,0,0,0.5
+2018-2019,Regular season,26,2019-02-16,Aberdeen,St Mirren,2,2,0.5
+2018-2019,Regular season,26,2019-02-17,Motherwell,Hearts,2,1,1.0
+2018-2019,Regular season,26,2019-02-17,Kilmarnock,Celtic,0,1,0.0
+2018-2019,Regular season,27,2019-02-22,Dundee,Hibernian,2,4,0.0
+2018-2019,Regular season,27,2019-02-23,St Johnstone,Aberdeen,0,2,0.0
+2018-2019,Regular season,27,2019-02-23,Hearts,St Mirren,1,1,0.5
+2018-2019,Regular season,27,2019-02-23,Livingston,Kilmarnock,1,0,1.0
+2018-2019,Regular season,27,2019-02-24,Hamilton,Rangers,0,5,0.0
+2018-2019,Regular season,27,2019-02-24,Celtic,Motherwell,4,1,1.0
+2018-2019,Regular season,28,2019-02-27,Rangers,Dundee,4,0,1.0
+2018-2019,Regular season,28,2019-02-27,St Johnstone,Hibernian,1,2,0.0
+2018-2019,Regular season,28,2019-02-27,Aberdeen,Hamilton,0,2,0.0
+2018-2019,Regular season,28,2019-02-27,Hearts,Celtic,1,2,0.0
+2018-2019,Regular season,28,2019-03-02,St Mirren,Livingston,1,0,1.0
+2018-2019,Regular season,28,2019-03-02,Kilmarnock,Motherwell,0,0,0.5
+2018-2019,Regular season,29,2019-03-08,Hibernian,Rangers,1,1,0.5
+2018-2019,Regular season,29,2019-03-09,Celtic,Aberdeen,0,0,0.5
+2018-2019,Regular season,29,2019-03-09,Motherwell,Hamilton,3,0,1.0
+2018-2019,Regular season,29,2019-03-09,Dundee,Hearts,0,1,0.0
+2018-2019,Regular season,29,2019-03-09,Livingston,St Johnstone,3,1,1.0
+2018-2019,Regular season,29,2019-03-11,St Mirren,Kilmarnock,0,1,0.0
+2018-2019,Regular season,30,2019-03-16,Hibernian,Motherwell,2,0,1.0
+2018-2019,Regular season,30,2019-03-16,Rangers,Kilmarnock,1,1,0.5
+2018-2019,Regular season,30,2019-03-16,Hamilton,Hearts,1,0,1.0
+2018-2019,Regular season,30,2019-03-16,Aberdeen,Livingston,1,1,0.5
+2018-2019,Regular season,30,2019-03-17,Dundee,Celtic,0,1,0.0
+2018-2019,Regular season,30,2019-03-27,St Johnstone,St Mirren,1,0,1.0
+2018-2019,Regular season,31,2019-03-29,Livingston,Hibernian,1,2,0.0
+2018-2019,Regular season,31,2019-03-30,Kilmarnock,Hamilton,5,0,1.0
+2018-2019,Regular season,31,2019-03-30,St Mirren,Dundee,2,1,1.0
+2018-2019,Regular season,31,2019-03-30,Hearts,Aberdeen,2,1,1.0
+2018-2019,Regular season,31,2019-03-30,Motherwell,St Johnstone,3,0,1.0
+2018-2019,Regular season,31,2019-03-31,Celtic,Rangers,2,1,1.0
+2018-2019,Regular season,32,2019-04-03,St Mirren,Celtic,0,2,0.0
+2018-2019,Regular season,32,2019-04-03,Hibernian,Kilmarnock,0,0,0.5
+2018-2019,Regular season,32,2019-04-03,Rangers,Hearts,3,0,1.0
+2018-2019,Regular season,32,2019-04-03,Livingston,Hamilton,2,0,1.0
+2018-2019,Regular season,32,2019-04-03,Aberdeen,Motherwell,3,1,1.0
+2018-2019,Regular season,32,2019-04-03,St Johnstone,Dundee,2,0,1.0
+2018-2019,Regular season,33,2019-04-06,Hearts,Hibernian,1,2,0.0
+2018-2019,Regular season,33,2019-04-06,Celtic,Livingston,0,0,0.5
+2018-2019,Regular season,33,2019-04-06,Kilmarnock,St Johnstone,2,0,1.0
+2018-2019,Regular season,33,2019-04-06,Hamilton,St Mirren,1,1,0.5
+2018-2019,Regular season,33,2019-04-06,Dundee,Aberdeen,0,2,0.0
+2018-2019,Regular season,33,2019-04-07,Motherwell,Rangers,0,3,0.0
+2018-2019,Championship round,1,2019-04-20,Hearts,Rangers,1,3,0.0
+2018-2019,Championship round,1,2019-04-20,Kilmarnock,Aberdeen,0,1,0.0
+2018-2019,Relegation round,1,2019-04-20,Livingston,St Mirren,1,3,0.0
+2018-2019,Relegation round,1,2019-04-20,St Johnstone,Dundee,2,0,1.0
+2018-2019,Relegation round,1,2019-04-20,Hamilton,Motherwell,1,1,0.5
+2018-2019,Championship round,1,2019-04-21,Hibernian,Celtic,0,0,0.5
+2018-2019,Championship round,2,2019-04-27,Celtic,Kilmarnock,1,0,1.0
+2018-2019,Relegation round,2,2019-04-27,Motherwell,Dundee,4,3,1.0
+2018-2019,Relegation round,2,2019-04-27,Hamilton,Livingston,3,3,0.5
+2018-2019,Relegation round,2,2019-04-27,St Mirren,St Johnstone,1,1,0.5
+2018-2019,Championship round,2,2019-04-28,Hibernian,Hearts,1,1,0.5
+2018-2019,Championship round,2,2019-04-28,Rangers,Aberdeen,2,0,1.0
+2018-2019,Championship round,3,2019-05-04,Aberdeen,Celtic,0,3,0.0
+2018-2019,Championship round,3,2019-05-04,Hearts,Kilmarnock,0,1,0.0
+2018-2019,Relegation round,3,2019-05-04,Dundee,Hamilton,0,1,0.0
+2018-2019,Relegation round,3,2019-05-04,Motherwell,St Mirren,1,1,0.5
+2018-2019,Relegation round,3,2019-05-04,St Johnstone,Livingston,1,1,0.5
+2018-2019,Championship round,3,2019-05-05,Rangers,Hibernian,1,0,1.0
+2018-2019,Championship round,4,2019-05-10,Aberdeen,Hearts,2,1,1.0
+2018-2019,Championship round,4,2019-05-11,Kilmarnock,Hibernian,1,0,1.0
+2018-2019,Relegation round,4,2019-05-11,Livingston,Dundee,0,1,0.0
+2018-2019,Relegation round,4,2019-05-11,St Johnstone,Motherwell,2,0,1.0
+2018-2019,Championship round,4,2019-05-12,Rangers,Celtic,2,0,1.0
+2018-2019,Relegation round,4,2019-05-13,St Mirren,Hamilton,2,0,1.0
+2018-2019,Relegation round,5,2019-05-18,Motherwell,Livingston,3,2,1.0
+2018-2019,Relegation round,5,2019-05-18,Hamilton,St Johnstone,2,0,1.0
+2018-2019,Relegation round,5,2019-05-18,Dundee,St Mirren,2,3,0.0
+2018-2019,Championship round,5,2019-05-19,Kilmarnock,Rangers,2,1,1.0
+2018-2019,Championship round,5,2019-05-19,Celtic,Hearts,2,1,1.0
+2018-2019,Championship round,5,2019-05-19,Hibernian,Aberdeen,1,2,0.0
+2018-2019,Finals,,2019-05-23,Dundee United,St Mirren,0,0,0.5
+2018-2019,Finals,,2019-05-26,St Mirren,Dundee United,1,1,0.5

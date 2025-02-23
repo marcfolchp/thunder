@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1998-1999,1,1998-08-14,Stuttgart,Dortmund,2,1,1.0
+1998-1999,1,1998-08-14,MSV Duisburg,Eint Frankfurt,2,1,1.0
+1998-1999,1,1998-08-15,1860 Munich,Kaiserslautern,1,2,0.0
+1998-1999,1,1998-08-15,Wolfsburg,Bayern Munich,0,1,0.0
+1998-1999,1,1998-08-15,Gladbach,Schalke 04,3,0,1.0
+1998-1999,1,1998-08-15,Bochum,Freiburg,1,2,0.0
+1998-1999,1,1998-08-15,Leverkusen,Hansa Rostock,3,1,1.0
+1998-1999,1,1998-08-15,Nürnberg,Hamburger SV,1,1,0.5
+1998-1999,1,1998-08-16,Hertha BSC,Werder Bremen,1,0,1.0
+1998-1999,2,1998-08-21,Hansa Rostock,Wolfsburg,3,3,0.5
+1998-1999,2,1998-08-21,Werder Bremen,Nürnberg,2,3,0.0
+1998-1999,2,1998-08-22,Dortmund,Hertha BSC,3,0,1.0
+1998-1999,2,1998-08-22,Schalke 04,Stuttgart,1,0,1.0
+1998-1999,2,1998-08-22,Kaiserslautern,Gladbach,2,1,1.0
+1998-1999,2,1998-08-22,Bayern Munich,MSV Duisburg,3,1,1.0
+1998-1999,2,1998-08-22,Freiburg,Leverkusen,1,1,0.5
+1998-1999,2,1998-08-22,Eint Frankfurt,1860 Munich,2,3,0.0
+1998-1999,2,1998-08-23,Hamburger SV,Bochum,1,0,1.0
+1998-1999,3,1998-09-08,Stuttgart,Kaiserslautern,4,0,1.0
+1998-1999,3,1998-09-08,Gladbach,Eint Frankfurt,1,1,0.5
+1998-1999,3,1998-09-08,MSV Duisburg,1860 Munich,1,1,0.5
+1998-1999,3,1998-09-08,Wolfsburg,Freiburg,1,1,0.5
+1998-1999,3,1998-09-08,Bochum,Werder Bremen,2,0,1.0
+1998-1999,3,1998-09-09,Nürnberg,Dortmund,0,0,0.5
+1998-1999,3,1998-09-09,Leverkusen,Hamburger SV,1,2,0.0
+1998-1999,3,1998-09-09,Hertha BSC,Schalke 04,2,0,1.0
+1998-1999,3,1998-09-09,Bayern Munich,Hansa Rostock,6,1,1.0
+1998-1999,4,1998-09-11,Eint Frankfurt,Stuttgart,1,1,0.5
+1998-1999,4,1998-09-11,1860 Munich,Gladbach,3,1,1.0
+1998-1999,4,1998-09-12,Kaiserslautern,Hertha BSC,4,3,1.0
+1998-1999,4,1998-09-12,Schalke 04,Nürnberg,2,2,0.5
+1998-1999,4,1998-09-12,Freiburg,Bayern Munich,0,2,0.0
+1998-1999,4,1998-09-12,Hansa Rostock,MSV Duisburg,3,0,1.0
+1998-1999,4,1998-09-12,Werder Bremen,Leverkusen,2,2,0.5
+1998-1999,4,1998-09-12,Hamburger SV,Wolfsburg,1,1,0.5
+1998-1999,4,1998-09-13,Dortmund,Bochum,0,1,0.0
+1998-1999,5,1998-09-18,Hertha BSC,Eint Frankfurt,3,1,1.0
+1998-1999,5,1998-09-18,Hansa Rostock,Freiburg,0,2,0.0
+1998-1999,5,1998-09-19,Stuttgart,1860 Munich,0,1,0.0
+1998-1999,5,1998-09-19,Bochum,Schalke 04,1,2,0.0
+1998-1999,5,1998-09-19,Leverkusen,Dortmund,3,1,1.0
+1998-1999,5,1998-09-19,Wolfsburg,Werder Bremen,2,4,0.0
+1998-1999,5,1998-09-19,Nürnberg,Kaiserslautern,1,1,0.5
+1998-1999,5,1998-09-20,MSV Duisburg,Gladbach,2,2,0.5
+1998-1999,5,1998-09-20,Bayern Munich,Hamburger SV,5,3,1.0
+1998-1999,6,1998-09-25,Hamburger SV,Hansa Rostock,1,0,1.0
+1998-1999,6,1998-09-25,1860 Munich,Hertha BSC,2,0,1.0
+1998-1999,6,1998-09-26,Werder Bremen,Bayern Munich,0,1,0.0
+1998-1999,6,1998-09-26,Kaiserslautern,Bochum,2,3,0.0
+1998-1999,6,1998-09-26,Gladbach,Stuttgart,2,3,0.0
+1998-1999,6,1998-09-26,Dortmund,Wolfsburg,2,1,1.0
+1998-1999,6,1998-09-26,Schalke 04,Leverkusen,0,1,0.0
+1998-1999,6,1998-09-26,Freiburg,MSV Duisburg,2,2,0.5
+1998-1999,6,1998-09-27,Eint Frankfurt,Nürnberg,3,2,1.0
+1998-1999,7,1998-10-02,Hertha BSC,Gladbach,4,1,1.0
+1998-1999,7,1998-10-02,Wolfsburg,Schalke 04,0,0,0.5
+1998-1999,7,1998-10-03,Freiburg,Hamburger SV,0,0,0.5
+1998-1999,7,1998-10-03,Hansa Rostock,Werder Bremen,2,1,1.0
+1998-1999,7,1998-10-03,Bochum,Eint Frankfurt,0,0,0.5
+1998-1999,7,1998-10-03,Leverkusen,Kaiserslautern,2,2,0.5
+1998-1999,7,1998-10-03,Nürnberg,1860 Munich,1,5,0.0
+1998-1999,7,1998-10-04,Bayern Munich,Dortmund,2,2,0.5
+1998-1999,7,1998-10-04,MSV Duisburg,Stuttgart,2,0,1.0
+1998-1999,8,1998-10-16,1860 Munich,Bochum,2,1,1.0
+1998-1999,8,1998-10-16,Kaiserslautern,Wolfsburg,1,1,0.5
+1998-1999,8,1998-10-17,Werder Bremen,Freiburg,2,3,0.0
+1998-1999,8,1998-10-17,Stuttgart,Hertha BSC,0,0,0.5
+1998-1999,8,1998-10-17,Schalke 04,Bayern Munich,1,3,0.0
+1998-1999,8,1998-10-17,Hamburger SV,MSV Duisburg,4,1,1.0
+1998-1999,8,1998-10-17,Eint Frankfurt,Leverkusen,2,3,0.0
+1998-1999,8,1998-10-17,Gladbach,Nürnberg,0,2,0.0
+1998-1999,8,1998-10-18,Dortmund,Hansa Rostock,2,0,1.0
+1998-1999,9,1998-10-23,Freiburg,Dortmund,2,2,0.5
+1998-1999,9,1998-10-23,Hamburger SV,Werder Bremen,1,1,0.5
+1998-1999,9,1998-10-24,Nürnberg,Stuttgart,2,2,0.5
+1998-1999,9,1998-10-24,Wolfsburg,Eint Frankfurt,2,0,1.0
+1998-1999,9,1998-10-24,Hansa Rostock,Schalke 04,2,2,0.5
+1998-1999,9,1998-10-24,Bochum,Gladbach,2,1,1.0
+1998-1999,9,1998-10-24,Bayern Munich,Kaiserslautern,4,0,1.0
+1998-1999,9,1998-10-25,MSV Duisburg,Hertha BSC,0,0,0.5
+1998-1999,9,1998-10-25,Leverkusen,1860 Munich,1,1,0.5
+1998-1999,10,1998-10-30,Gladbach,Leverkusen,2,8,0.0
+1998-1999,10,1998-10-30,Kaiserslautern,Hansa Rostock,3,2,1.0
+1998-1999,10,1998-10-31,Werder Bremen,MSV Duisburg,1,1,0.5
+1998-1999,10,1998-10-31,Eint Frankfurt,Bayern Munich,1,0,1.0
+1998-1999,10,1998-10-31,1860 Munich,Wolfsburg,2,3,0.0
+1998-1999,10,1998-10-31,Stuttgart,Bochum,4,2,1.0
+1998-1999,10,1998-11-01,Hertha BSC,Nürnberg,3,0,1.0
+1998-1999,10,1998-11-03,Schalke 04,Freiburg,1,1,0.5
+1998-1999,11,1998-11-06,MSV Duisburg,Nürnberg,1,1,0.5
+1998-1999,11,1998-11-06,Werder Bremen,Dortmund,1,1,0.5
+1998-1999,11,1998-11-07,Bayern Munich,1860 Munich,3,1,1.0
+1998-1999,11,1998-11-07,Hamburger SV,Schalke 04,2,2,0.5
+1998-1999,11,1998-11-07,Hansa Rostock,Eint Frankfurt,2,2,0.5
+1998-1999,11,1998-11-07,Freiburg,Kaiserslautern,0,1,0.0
+1998-1999,11,1998-11-07,Bochum,Hertha BSC,2,0,1.0
+1998-1999,11,1998-11-07,Wolfsburg,Gladbach,7,1,1.0
+1998-1999,11,1998-11-08,Leverkusen,Stuttgart,0,0,0.5
+1998-1999,12,1998-11-10,Kaiserslautern,Hamburger SV,1,0,1.0
+1998-1999,12,1998-11-10,1860 Munich,Hansa Rostock,2,1,1.0
+1998-1999,12,1998-11-11,Stuttgart,Wolfsburg,1,2,0.0
+1998-1999,12,1998-11-11,Hertha BSC,Leverkusen,0,1,0.0
+1998-1999,12,1998-11-11,Eint Frankfurt,Freiburg,3,1,1.0
+1998-1999,12,1998-11-11,Dortmund,MSV Duisburg,2,0,1.0
+1998-1999,12,1998-11-11,Nürnberg,Bochum,2,2,0.5
+1998-1999,13,1998-11-13,Hansa Rostock,Gladbach,1,1,0.5
+1998-1999,13,1998-11-13,Werder Bremen,Kaiserslautern,0,1,0.0
+1998-1999,13,1998-11-14,Wolfsburg,Hertha BSC,2,1,1.0
+1998-1999,13,1998-11-14,Bayern Munich,Stuttgart,2,0,1.0
+1998-1999,13,1998-11-14,Dortmund,Schalke 04,3,0,1.0
+1998-1999,13,1998-11-14,MSV Duisburg,Bochum,2,0,1.0
+1998-1999,13,1998-11-14,Hamburger SV,Eint Frankfurt,0,1,0.0
+1998-1999,13,1998-11-14,Leverkusen,Nürnberg,3,0,1.0
+1998-1999,13,1998-11-15,Freiburg,1860 Munich,1,2,0.0
+1998-1999,14,1998-11-20,Schalke 04,MSV Duisburg,2,0,1.0
+1998-1999,14,1998-11-20,Eint Frankfurt,Werder Bremen,0,2,0.0
+1998-1999,14,1998-11-21,Kaiserslautern,Dortmund,1,0,1.0
+1998-1999,14,1998-11-21,Bochum,Leverkusen,1,5,0.0
+1998-1999,14,1998-11-21,1860 Munich,Hamburger SV,0,0,0.5
+1998-1999,14,1998-11-21,Nürnberg,Wolfsburg,1,1,0.5
+1998-1999,14,1998-11-21,Hertha BSC,Bayern Munich,1,0,1.0
+1998-1999,14,1998-11-21,Stuttgart,Hansa Rostock,1,1,0.5
+1998-1999,14,1998-11-22,Gladbach,Freiburg,3,1,1.0
+1998-1999,10,1998-11-24,Dortmund,Hamburger SV,2,1,1.0
+1998-1999,12,1998-11-24,Schalke 04,Werder Bremen,1,2,0.0
+1998-1999,15,1998-11-27,Dortmund,Eint Frankfurt,3,1,1.0
+1998-1999,15,1998-11-27,Hansa Rostock,Hertha BSC,1,2,0.0
+1998-1999,15,1998-11-28,Werder Bremen,1860 Munich,4,1,1.0
+1998-1999,15,1998-11-28,Wolfsburg,Bochum,4,1,1.0
+1998-1999,15,1998-11-28,Leverkusen,MSV Duisburg,2,0,1.0
+1998-1999,15,1998-11-28,Hamburger SV,Gladbach,3,0,1.0
+1998-1999,15,1998-11-28,Freiburg,Stuttgart,2,0,1.0
+1998-1999,15,1998-11-28,Bayern Munich,Nürnberg,2,0,1.0
+1998-1999,15,1998-11-29,Kaiserslautern,Schalke 04,4,1,1.0
+1998-1999,16,1998-12-04,Nürnberg,Hansa Rostock,2,2,0.5
+1998-1999,16,1998-12-04,Bochum,Bayern Munich,2,2,0.5
+1998-1999,16,1998-12-05,Stuttgart,Hamburger SV,3,1,1.0
+1998-1999,16,1998-12-05,Leverkusen,Wolfsburg,3,0,1.0
+1998-1999,16,1998-12-05,Eint Frankfurt,Schalke 04,1,2,0.0
+1998-1999,16,1998-12-06,1860 Munich,Dortmund,2,0,1.0
+1998-1999,16,1998-12-08,Gladbach,Werder Bremen,0,1,0.0
+1998-1999,17,1998-12-11,Hamburger SV,Hertha BSC,0,4,0.0
+1998-1999,17,1998-12-11,Dortmund,Gladbach,1,1,0.5
+1998-1999,17,1998-12-12,Hansa Rostock,Bochum,3,0,1.0
+1998-1999,17,1998-12-12,Wolfsburg,MSV Duisburg,4,2,1.0
+1998-1999,17,1998-12-12,Kaiserslautern,Eint Frankfurt,2,1,1.0
+1998-1999,17,1998-12-12,Werder Bremen,Stuttgart,2,2,0.5
+1998-1999,17,1998-12-12,Freiburg,Nürnberg,1,0,1.0
+1998-1999,17,1998-12-12,Schalke 04,1860 Munich,2,2,0.5
+1998-1999,17,1998-12-13,Bayern Munich,Leverkusen,2,0,1.0
+1998-1999,16,1998-12-15,Hertha BSC,Freiburg,1,0,1.0
+1998-1999,12,1998-12-16,Gladbach,Bayern Munich,0,2,0.0
+1998-1999,16,1998-12-16,MSV Duisburg,Kaiserslautern,3,1,1.0
+1998-1999,18,1998-12-18,Freiburg,Bochum,1,1,0.5
+1998-1999,18,1998-12-18,Dortmund,Stuttgart,3,0,1.0
+1998-1999,18,1998-12-19,Kaiserslautern,1860 Munich,1,1,0.5
+1998-1999,18,1998-12-19,Schalke 04,Gladbach,1,0,1.0
+1998-1999,18,1998-12-19,Bayern Munich,Wolfsburg,3,0,1.0
+1998-1999,18,1998-12-19,Eint Frankfurt,MSV Duisburg,0,0,0.5
+1998-1999,18,1998-12-19,Hansa Rostock,Leverkusen,1,1,0.5
+1998-1999,18,1998-12-19,Hamburger SV,Nürnberg,2,0,1.0
+1998-1999,18,1998-12-20,Werder Bremen,Hertha BSC,2,1,1.0
+1998-1999,19,1999-02-19,Wolfsburg,Hansa Rostock,1,1,0.5
+1998-1999,19,1999-02-20,Leverkusen,Freiburg,1,1,0.5
+1998-1999,19,1999-02-20,1860 Munich,Eint Frankfurt,4,1,1.0
+1998-1999,19,1999-02-20,Hertha BSC,Dortmund,3,0,1.0
+1998-1999,19,1999-02-20,Stuttgart,Schalke 04,2,1,1.0
+1998-1999,19,1999-02-20,Nürnberg,Werder Bremen,1,1,0.5
+1998-1999,19,1999-02-20,MSV Duisburg,Bayern Munich,0,3,0.0
+1998-1999,19,1999-02-21,Gladbach,Kaiserslautern,0,2,0.0
+1998-1999,20,1999-02-26,Kaiserslautern,Stuttgart,1,1,0.5
+1998-1999,20,1999-02-26,Werder Bremen,Bochum,1,1,0.5
+1998-1999,20,1999-02-27,Eint Frankfurt,Gladbach,0,0,0.5
+1998-1999,20,1999-02-27,Freiburg,Wolfsburg,0,0,0.5
+1998-1999,20,1999-02-27,1860 Munich,MSV Duisburg,0,0,0.5
+1998-1999,20,1999-02-27,Hansa Rostock,Bayern Munich,0,4,0.0
+1998-1999,20,1999-02-27,Dortmund,Nürnberg,3,0,1.0
+1998-1999,20,1999-02-27,Hamburger SV,Leverkusen,0,0,0.5
+1998-1999,20,1999-02-28,Schalke 04,Hertha BSC,0,0,0.5
+1998-1999,21,1999-03-05,MSV Duisburg,Hansa Rostock,4,1,1.0
+1998-1999,21,1999-03-05,Nürnberg,Schalke 04,3,0,1.0
+1998-1999,21,1999-03-06,Hertha BSC,Kaiserslautern,1,1,0.5
+1998-1999,21,1999-03-06,Bayern Munich,Freiburg,2,0,1.0
+1998-1999,21,1999-03-06,Bochum,Dortmund,0,1,0.0
+1998-1999,21,1999-03-06,Stuttgart,Eint Frankfurt,2,0,1.0
+1998-1999,21,1999-03-06,Wolfsburg,Hamburger SV,4,1,1.0
+1998-1999,21,1999-03-06,Gladbach,1860 Munich,2,0,1.0
+1998-1999,21,1999-03-07,Leverkusen,Werder Bremen,2,0,1.0
+1998-1999,22,1999-03-12,Dortmund,Leverkusen,1,0,1.0
+1998-1999,22,1999-03-12,Freiburg,Hansa Rostock,3,0,1.0
+1998-1999,22,1999-03-13,Schalke 04,Bochum,2,2,0.5
+1998-1999,22,1999-03-13,Werder Bremen,Wolfsburg,0,1,0.0
+1998-1999,22,1999-03-13,Gladbach,MSV Duisburg,0,2,0.0
+1998-1999,22,1999-03-13,1860 Munich,Stuttgart,1,1,0.5
+1998-1999,22,1999-03-13,Kaiserslautern,Nürnberg,2,0,1.0
+1998-1999,22,1999-03-13,Hamburger SV,Bayern Munich,0,2,0.0
+1998-1999,22,1999-03-14,Eint Frankfurt,Hertha BSC,1,1,0.5
+1998-1999,19,1999-03-16,Bochum,Hamburger SV,2,0,1.0
+1998-1999,23,1999-03-19,Wolfsburg,Dortmund,0,0,0.5
+1998-1999,23,1999-03-19,Leverkusen,Schalke 04,1,1,0.5
+1998-1999,23,1999-03-20,Hertha BSC,1860 Munich,2,1,1.0
+1998-1999,23,1999-03-20,Bayern Munich,Werder Bremen,1,0,1.0
+1998-1999,23,1999-03-20,Stuttgart,Gladbach,2,2,0.5
+1998-1999,23,1999-03-20,Nürnberg,Eint Frankfurt,2,2,0.5
+1998-1999,23,1999-03-20,MSV Duisburg,Freiburg,1,0,1.0
+1998-1999,23,1999-03-20,Bochum,Kaiserslautern,1,2,0.0
+1998-1999,23,1999-03-21,Hansa Rostock,Hamburger SV,0,1,0.0
+1998-1999,24,1999-04-03,Dortmund,Bayern Munich,2,2,0.5
+1998-1999,24,1999-04-03,1860 Munich,Nürnberg,1,2,0.0
+1998-1999,24,1999-04-03,Kaiserslautern,Leverkusen,0,1,0.0
+1998-1999,24,1999-04-03,Werder Bremen,Hansa Rostock,0,3,0.0
+1998-1999,24,1999-04-03,Schalke 04,Wolfsburg,2,0,1.0
+1998-1999,24,1999-04-03,Hamburger SV,Freiburg,2,1,1.0
+1998-1999,24,1999-04-03,Stuttgart,MSV Duisburg,0,0,0.5
+1998-1999,24,1999-04-04,Eint Frankfurt,Bochum,1,0,1.0
+1998-1999,24,1999-04-04,Gladbach,Hertha BSC,2,4,0.0
+1998-1999,25,1999-04-09,Freiburg,Werder Bremen,0,2,0.0
+1998-1999,25,1999-04-09,MSV Duisburg,Hamburger SV,2,3,0.0
+1998-1999,25,1999-04-10,Leverkusen,Eint Frankfurt,2,1,1.0
+1998-1999,25,1999-04-10,Nürnberg,Gladbach,2,0,1.0
+1998-1999,25,1999-04-10,Bayern Munich,Schalke 04,1,1,0.5
+1998-1999,25,1999-04-10,Hansa Rostock,Dortmund,2,0,1.0
+1998-1999,25,1999-04-10,Wolfsburg,Kaiserslautern,2,1,1.0
+1998-1999,25,1999-04-10,Hertha BSC,Stuttgart,2,0,1.0
+1998-1999,25,1999-04-11,Bochum,1860 Munich,2,0,1.0
+1998-1999,26,1999-04-13,Werder Bremen,Hamburger SV,0,0,0.5
+1998-1999,26,1999-04-13,Schalke 04,Hansa Rostock,1,0,1.0
+1998-1999,26,1999-04-13,Kaiserslautern,Bayern Munich,2,1,1.0
+1998-1999,26,1999-04-13,Stuttgart,Nürnberg,0,0,0.5
+1998-1999,26,1999-04-13,Eint Frankfurt,Wolfsburg,0,1,0.0
+1998-1999,26,1999-04-14,Hertha BSC,MSV Duisburg,1,3,0.0
+1998-1999,26,1999-04-14,Gladbach,Bochum,2,2,0.5
+1998-1999,26,1999-04-14,Dortmund,Freiburg,2,1,1.0
+1998-1999,26,1999-04-14,1860 Munich,Leverkusen,0,2,0.0
+1998-1999,27,1999-04-16,Hansa Rostock,Kaiserslautern,2,1,1.0
+1998-1999,27,1999-04-16,Bayern Munich,Eint Frankfurt,3,1,1.0
+1998-1999,27,1999-04-17,Freiburg,Schalke 04,0,2,0.0
+1998-1999,27,1999-04-17,Nürnberg,Hertha BSC,0,0,0.5
+1998-1999,27,1999-04-17,Bochum,Stuttgart,3,3,0.5
+1998-1999,27,1999-04-17,MSV Duisburg,Werder Bremen,2,0,1.0
+1998-1999,27,1999-04-17,Wolfsburg,1860 Munich,1,0,1.0
+1998-1999,27,1999-04-17,Leverkusen,Gladbach,4,1,1.0
+1998-1999,27,1999-04-18,Hamburger SV,Dortmund,0,0,0.5
+1998-1999,28,1999-04-23,Stuttgart,Leverkusen,0,1,0.0
+1998-1999,28,1999-04-23,Dortmund,Werder Bremen,2,1,1.0
+1998-1999,28,1999-04-24,Gladbach,Wolfsburg,5,2,1.0
+1998-1999,28,1999-04-24,Nürnberg,MSV Duisburg,0,2,0.0
+1998-1999,28,1999-04-24,Eint Frankfurt,Hansa Rostock,2,2,0.5
+1998-1999,28,1999-04-24,Schalke 04,Hamburger SV,1,4,0.0
+1998-1999,28,1999-04-24,Kaiserslautern,Freiburg,0,2,0.0
+1998-1999,28,1999-04-24,Hertha BSC,Bochum,4,1,1.0
+1998-1999,28,1999-04-25,1860 Munich,Bayern Munich,1,1,0.5
+1998-1999,29,1999-04-30,Bochum,Nürnberg,0,3,0.0
+1998-1999,29,1999-04-30,Freiburg,Eint Frankfurt,2,0,1.0
+1998-1999,29,1999-05-01,Bayern Munich,Gladbach,4,2,1.0
+1998-1999,29,1999-05-01,Hamburger SV,Kaiserslautern,2,0,1.0
+1998-1999,29,1999-05-01,Leverkusen,Hertha BSC,2,2,0.5
+1998-1999,29,1999-05-01,Wolfsburg,Stuttgart,3,2,1.0
+1998-1999,29,1999-05-01,Hansa Rostock,1860 Munich,4,1,1.0
+1998-1999,29,1999-05-02,MSV Duisburg,Dortmund,3,2,1.0
+1998-1999,30,1999-05-04,Eint Frankfurt,Hamburger SV,2,2,0.5
+1998-1999,30,1999-05-04,Kaiserslautern,Werder Bremen,4,0,1.0
+1998-1999,30,1999-05-04,Stuttgart,Bayern Munich,0,2,0.0
+1998-1999,30,1999-05-04,Gladbach,Hansa Rostock,1,1,0.5
+1998-1999,30,1999-05-05,1860 Munich,Freiburg,2,0,1.0
+1998-1999,30,1999-05-05,Nürnberg,Leverkusen,2,2,0.5
+1998-1999,30,1999-05-05,Schalke 04,Dortmund,1,1,0.5
+1998-1999,30,1999-05-05,Bochum,MSV Duisburg,0,2,0.0
+1998-1999,30,1999-05-05,Hertha BSC,Wolfsburg,2,0,1.0
+1998-1999,31,1999-05-07,Werder Bremen,Eint Frankfurt,1,2,0.0
+1998-1999,31,1999-05-07,Hansa Rostock,Stuttgart,3,0,1.0
+1998-1999,31,1999-05-08,Wolfsburg,Nürnberg,1,1,0.5
+1998-1999,31,1999-05-08,Freiburg,Gladbach,2,1,1.0
+1998-1999,31,1999-05-08,Dortmund,Kaiserslautern,1,0,1.0
+1998-1999,31,1999-05-08,Leverkusen,Bochum,2,0,1.0
+1998-1999,31,1999-05-08,MSV Duisburg,Schalke 04,1,2,0.0
+1998-1999,31,1999-05-08,Hamburger SV,1860 Munich,3,0,1.0
+1998-1999,31,1999-05-09,Bayern Munich,Hertha BSC,1,1,0.5
+1998-1999,29,1999-05-11,Werder Bremen,Schalke 04,1,0,1.0
+1998-1999,32,1999-05-14,Hertha BSC,Hansa Rostock,2,0,1.0
+1998-1999,32,1999-05-14,Gladbach,Hamburger SV,2,2,0.5
+1998-1999,32,1999-05-15,Nürnberg,Bayern Munich,2,0,1.0
+1998-1999,32,1999-05-15,MSV Duisburg,Leverkusen,0,0,0.5
+1998-1999,32,1999-05-15,1860 Munich,Werder Bremen,1,3,0.0
+1998-1999,32,1999-05-15,Bochum,Wolfsburg,0,2,0.0
+1998-1999,32,1999-05-15,Stuttgart,Freiburg,3,1,1.0
+1998-1999,32,1999-05-15,Eint Frankfurt,Dortmund,2,0,1.0
+1998-1999,32,1999-05-16,Schalke 04,Kaiserslautern,0,2,0.0
+1998-1999,33,1999-05-22,Hansa Rostock,Nürnberg,1,1,0.5
+1998-1999,33,1999-05-22,Dortmund,1860 Munich,3,1,1.0
+1998-1999,33,1999-05-22,Kaiserslautern,MSV Duisburg,3,0,1.0
+1998-1999,33,1999-05-22,Schalke 04,Eint Frankfurt,2,3,0.0
+1998-1999,33,1999-05-22,Werder Bremen,Gladbach,4,1,1.0
+1998-1999,33,1999-05-22,Freiburg,Hertha BSC,0,2,0.0
+1998-1999,33,1999-05-22,Wolfsburg,Leverkusen,1,0,1.0
+1998-1999,33,1999-05-22,Bayern Munich,Bochum,4,2,1.0
+1998-1999,33,1999-05-22,Hamburger SV,Stuttgart,3,1,1.0
+1998-1999,34,1999-05-29,1860 Munich,Schalke 04,4,5,0.0
+1998-1999,34,1999-05-29,Gladbach,Dortmund,0,2,0.0
+1998-1999,34,1999-05-29,Hertha BSC,Hamburger SV,6,1,1.0
+1998-1999,34,1999-05-29,Bochum,Hansa Rostock,2,3,0.0
+1998-1999,34,1999-05-29,Leverkusen,Bayern Munich,1,2,0.0
+1998-1999,34,1999-05-29,Stuttgart,Werder Bremen,1,0,1.0
+1998-1999,34,1999-05-29,MSV Duisburg,Wolfsburg,6,1,1.0
+1998-1999,34,1999-05-29,Eint Frankfurt,Kaiserslautern,5,1,1.0
+1998-1999,34,1999-05-29,Nürnberg,Freiburg,1,2,0.0

@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,1,2017-08-11,Başakşehir,Bursaspor,1,0,1.0
+2017-2018,1,2017-08-12,Gençlerbirliği,Karabükspor,1,1,0.5
+2017-2018,1,2017-08-12,Akhisarspor,Sivasspor,1,0,1.0
+2017-2018,1,2017-08-12,Alanyaspor,Kasımpaşa,1,3,0.0
+2017-2018,1,2017-08-12,Göztepe,Fenerbahçe,2,2,0.5
+2017-2018,1,2017-08-13,Trabzonspor,Konyaspor,2,1,1.0
+2017-2018,1,2017-08-13,Yeni Mal'spor,Osmanlıspor,3,1,1.0
+2017-2018,1,2017-08-13,Beşiktaş,Antalyaspor,2,0,1.0
+2017-2018,1,2017-08-14,Galatasaray,Kayserispor,4,1,1.0
+2017-2018,2,2017-08-18,Kasımpaşa,Beşiktaş,2,2,0.5
+2017-2018,2,2017-08-19,Karabükspor,Başakşehir,3,1,1.0
+2017-2018,2,2017-08-19,Bursaspor,Alanyaspor,3,2,1.0
+2017-2018,2,2017-08-19,Osmanlıspor,Galatasaray,1,3,0.0
+2017-2018,2,2017-08-19,Sivasspor,Yeni Mal'spor,2,0,1.0
+2017-2018,2,2017-08-20,Kayserispor,Göztepe,1,0,1.0
+2017-2018,2,2017-08-20,Fenerbahçe,Trabzonspor,2,2,0.5
+2017-2018,2,2017-08-20,Antalyaspor,Akhisarspor,2,2,0.5
+2017-2018,2,2017-08-21,Konyaspor,Gençlerbirliği,3,0,1.0
+2017-2018,3,2017-08-25,Galatasaray,Sivasspor,3,0,1.0
+2017-2018,3,2017-08-25,Alanyaspor,Karabükspor,1,1,0.5
+2017-2018,3,2017-08-26,Yeni Mal'spor,Antalyaspor,1,1,0.5
+2017-2018,3,2017-08-26,Beşiktaş,Bursaspor,2,1,1.0
+2017-2018,3,2017-08-26,Göztepe,Trabzonspor,3,2,1.0
+2017-2018,3,2017-08-26,Kayserispor,Osmanlıspor,2,2,0.5
+2017-2018,3,2017-08-27,Başakşehir,Konyaspor,2,1,1.0
+2017-2018,3,2017-08-27,Akhisarspor,Kasımpaşa,2,1,1.0
+2017-2018,3,2017-08-27,Gençlerbirliği,Fenerbahçe,1,2,0.0
+2017-2018,4,2017-09-09,Karabükspor,Beşiktaş,0,1,0.0
+2017-2018,4,2017-09-09,Sivasspor,Kayserispor,0,2,0.0
+2017-2018,4,2017-09-09,Konyaspor,Alanyaspor,0,2,0.0
+2017-2018,4,2017-09-09,Fenerbahçe,Başakşehir,2,3,0.0
+2017-2018,4,2017-09-10,Trabzonspor,Gençlerbirliği,3,1,1.0
+2017-2018,4,2017-09-10,Osmanlıspor,Göztepe,0,2,0.0
+2017-2018,4,2017-09-10,Antalyaspor,Galatasaray,1,1,0.5
+2017-2018,4,2017-09-10,Bursaspor,Akhisarspor,3,0,1.0
+2017-2018,4,2017-09-11,Kasımpaşa,Yeni Mal'spor,3,2,1.0
+2017-2018,5,2017-09-15,Kayserispor,Antalyaspor,2,0,1.0
+2017-2018,5,2017-09-16,Yeni Mal'spor,Bursaspor,2,4,0.0
+2017-2018,5,2017-09-16,Galatasaray,Kasımpaşa,2,0,1.0
+2017-2018,5,2017-09-16,Akhisarspor,Karabükspor,2,1,1.0
+2017-2018,5,2017-09-17,Başakşehir,Trabzonspor,2,2,0.5
+2017-2018,5,2017-09-17,Osmanlıspor,Sivasspor,2,4,0.0
+2017-2018,5,2017-09-17,Göztepe,Gençlerbirliği,3,2,1.0
+2017-2018,5,2017-09-17,Alanyaspor,Fenerbahçe,1,4,0.0
+2017-2018,5,2017-09-18,Beşiktaş,Konyaspor,2,0,1.0
+2017-2018,6,2017-09-22,Trabzonspor,Alanyaspor,3,4,0.0
+2017-2018,6,2017-09-23,Konyaspor,Akhisarspor,2,0,1.0
+2017-2018,6,2017-09-23,Gençlerbirliği,Başakşehir,1,0,1.0
+2017-2018,6,2017-09-23,Fenerbahçe,Beşiktaş,2,1,1.0
+2017-2018,6,2017-09-24,Sivasspor,Göztepe,2,3,0.0
+2017-2018,6,2017-09-24,Karabükspor,Yeni Mal'spor,2,4,0.0
+2017-2018,6,2017-09-24,Kasımpaşa,Kayserispor,1,1,0.5
+2017-2018,6,2017-09-24,Bursaspor,Galatasaray,1,2,0.0
+2017-2018,6,2017-09-25,Antalyaspor,Osmanlıspor,3,0,1.0
+2017-2018,7,2017-09-29,Akhisarspor,Fenerbahçe,1,0,1.0
+2017-2018,7,2017-09-30,Sivasspor,Antalyaspor,3,1,1.0
+2017-2018,7,2017-09-30,Osmanlıspor,Kasımpaşa,3,0,1.0
+2017-2018,7,2017-09-30,Kayserispor,Bursaspor,3,1,1.0
+2017-2018,7,2017-09-30,Galatasaray,Karabükspor,3,2,1.0
+2017-2018,7,2017-10-01,Yeni Mal'spor,Konyaspor,1,1,0.5
+2017-2018,7,2017-10-01,Alanyaspor,Gençlerbirliği,4,1,1.0
+2017-2018,7,2017-10-01,Beşiktaş,Trabzonspor,2,2,0.5
+2017-2018,7,2017-10-01,Göztepe,Başakşehir,1,2,0.0
+2017-2018,8,2017-10-13,Gençlerbirliği,Beşiktaş,2,1,1.0
+2017-2018,8,2017-10-14,Karabükspor,Kayserispor,1,0,1.0
+2017-2018,8,2017-10-14,Başakşehir,Alanyaspor,2,1,1.0
+2017-2018,8,2017-10-14,Antalyaspor,Göztepe,1,3,0.0
+2017-2018,8,2017-10-14,Konyaspor,Galatasaray,0,2,0.0
+2017-2018,8,2017-10-15,Kasımpaşa,Sivasspor,2,3,0.0
+2017-2018,8,2017-10-15,Trabzonspor,Akhisarspor,1,6,0.0
+2017-2018,8,2017-10-15,Fenerbahçe,Yeni Mal'spor,3,1,1.0
+2017-2018,8,2017-10-16,Bursaspor,Osmanlıspor,3,1,1.0
+2017-2018,9,2017-10-20,Göztepe,Alanyaspor,3,3,0.5
+2017-2018,9,2017-10-20,Antalyaspor,Kasımpaşa,2,1,1.0
+2017-2018,9,2017-10-21,Osmanlıspor,Karabükspor,3,0,1.0
+2017-2018,9,2017-10-21,Akhisarspor,Gençlerbirliği,3,3,0.5
+2017-2018,9,2017-10-21,Yeni Mal'spor,Trabzonspor,1,0,1.0
+2017-2018,9,2017-10-22,Sivasspor,Bursaspor,0,0,0.5
+2017-2018,9,2017-10-22,Kayserispor,Konyaspor,2,1,1.0
+2017-2018,9,2017-10-22,Galatasaray,Fenerbahçe,0,0,0.5
+2017-2018,9,2017-10-23,Beşiktaş,Başakşehir,1,1,0.5
+2017-2018,10,2017-10-27,Kasımpaşa,Göztepe,3,1,1.0
+2017-2018,10,2017-10-28,Gençlerbirliği,Yeni Mal'spor,0,1,0.0
+2017-2018,10,2017-10-28,Başakşehir,Akhisarspor,2,1,1.0
+2017-2018,10,2017-10-28,Alanyaspor,Beşiktaş,1,2,0.0
+2017-2018,10,2017-10-29,Karabükspor,Sivasspor,0,1,0.0
+2017-2018,10,2017-10-29,Konyaspor,Osmanlıspor,1,0,1.0
+2017-2018,10,2017-10-29,Bursaspor,Antalyaspor,4,0,1.0
+2017-2018,10,2017-10-29,Trabzonspor,Galatasaray,2,1,1.0
+2017-2018,10,2017-10-30,Fenerbahçe,Kayserispor,3,3,0.5
+2017-2018,11,2017-11-03,Galatasaray,Gençlerbirliği,5,1,1.0
+2017-2018,11,2017-11-04,Kayserispor,Trabzonspor,0,0,0.5
+2017-2018,11,2017-11-04,Kasımpaşa,Bursaspor,2,2,0.5
+2017-2018,11,2017-11-04,Antalyaspor,Karabükspor,2,1,1.0
+2017-2018,11,2017-11-04,Osmanlıspor,Fenerbahçe,1,1,0.5
+2017-2018,11,2017-11-05,Akhisarspor,Alanyaspor,0,4,0.0
+2017-2018,11,2017-11-05,Yeni Mal'spor,Başakşehir,0,2,0.0
+2017-2018,11,2017-11-05,Göztepe,Beşiktaş,1,3,0.0
+2017-2018,11,2017-11-05,Sivasspor,Konyaspor,2,1,1.0
+2017-2018,12,2017-11-17,Beşiktaş,Akhisarspor,0,0,0.5
+2017-2018,12,2017-11-18,Bursaspor,Göztepe,0,0,0.5
+2017-2018,12,2017-11-18,Konyaspor,Antalyaspor,1,1,0.5
+2017-2018,12,2017-11-18,Başakşehir,Galatasaray,5,1,1.0
+2017-2018,12,2017-11-19,Alanyaspor,Yeni Mal'spor,1,0,1.0
+2017-2018,12,2017-11-19,Gençlerbirliği,Kayserispor,1,2,0.0
+2017-2018,12,2017-11-19,Trabzonspor,Osmanlıspor,4,3,1.0
+2017-2018,12,2017-11-19,Fenerbahçe,Sivasspor,4,1,1.0
+2017-2018,12,2017-11-20,Karabükspor,Kasımpaşa,0,2,0.0
+2017-2018,13,2017-11-24,Osmanlıspor,Gençlerbirliği,2,0,1.0
+2017-2018,13,2017-11-25,Göztepe,Akhisarspor,2,0,1.0
+2017-2018,13,2017-11-25,Yeni Mal'spor,Beşiktaş,0,0,0.5
+2017-2018,13,2017-11-25,Galatasaray,Alanyaspor,2,0,1.0
+2017-2018,13,2017-11-26,Bursaspor,Karabükspor,2,1,1.0
+2017-2018,13,2017-11-26,Sivasspor,Trabzonspor,1,2,0.0
+2017-2018,13,2017-11-26,Kasımpaşa,Konyaspor,2,1,1.0
+2017-2018,13,2017-11-26,Antalyaspor,Fenerbahçe,0,1,0.0
+2017-2018,13,2017-11-27,Kayserispor,Başakşehir,1,1,0.5
+2017-2018,14,2017-12-02,Akhisarspor,Yeni Mal'spor,0,0,0.5
+2017-2018,14,2017-12-02,Karabükspor,Göztepe,0,1,0.0
+2017-2018,14,2017-12-02,Beşiktaş,Galatasaray,3,0,1.0
+2017-2018,14,2017-12-03,Konyaspor,Bursaspor,0,3,0.0
+2017-2018,14,2017-12-03,Gençlerbirliği,Sivasspor,4,0,1.0
+2017-2018,14,2017-12-03,Başakşehir,Osmanlıspor,1,0,1.0
+2017-2018,14,2017-12-03,Fenerbahçe,Kasımpaşa,4,2,1.0
+2017-2018,14,2017-12-04,Trabzonspor,Antalyaspor,3,0,1.0
+2017-2018,14,2017-12-04,Alanyaspor,Kayserispor,1,2,0.0
+2017-2018,15,2017-12-08,Bursaspor,Fenerbahçe,0,1,0.0
+2017-2018,15,2017-12-09,Yeni Mal'spor,Göztepe,2,3,0.0
+2017-2018,15,2017-12-09,Kasımpaşa,Trabzonspor,0,3,0.0
+2017-2018,15,2017-12-09,Antalyaspor,Gençlerbirliği,1,1,0.5
+2017-2018,15,2017-12-09,Galatasaray,Akhisarspor,4,2,1.0
+2017-2018,15,2017-12-10,Osmanlıspor,Alanyaspor,3,0,1.0
+2017-2018,15,2017-12-10,Sivasspor,Başakşehir,1,0,1.0
+2017-2018,15,2017-12-10,Kayserispor,Beşiktaş,1,1,0.5
+2017-2018,15,2017-12-11,Konyaspor,Karabükspor,2,0,1.0
+2017-2018,16,2017-12-16,Gençlerbirliği,Kasımpaşa,0,0,0.5
+2017-2018,16,2017-12-16,Alanyaspor,Sivasspor,1,1,0.5
+2017-2018,16,2017-12-16,Trabzonspor,Bursaspor,1,0,1.0
+2017-2018,16,2017-12-17,Başakşehir,Antalyaspor,4,1,1.0
+2017-2018,16,2017-12-17,Akhisarspor,Kayserispor,0,2,0.0
+2017-2018,16,2017-12-17,Yeni Mal'spor,Galatasaray,2,1,1.0
+2017-2018,16,2017-12-17,Beşiktaş,Osmanlıspor,5,1,1.0
+2017-2018,16,2017-12-18,Fenerbahçe,Karabükspor,2,0,1.0
+2017-2018,16,2017-12-18,Göztepe,Konyaspor,1,0,1.0
+2017-2018,17,2017-12-22,Antalyaspor,Alanyaspor,3,1,1.0
+2017-2018,17,2017-12-23,Bursaspor,Gençlerbirliği,1,1,0.5
+2017-2018,17,2017-12-23,Sivasspor,Beşiktaş,2,1,1.0
+2017-2018,17,2017-12-23,Konyaspor,Fenerbahçe,1,1,0.5
+2017-2018,17,2017-12-24,Kayserispor,Yeni Mal'spor,0,1,0.0
+2017-2018,17,2017-12-24,Karabükspor,Trabzonspor,1,1,0.5
+2017-2018,17,2017-12-24,Kasımpaşa,Başakşehir,1,2,0.0
+2017-2018,17,2017-12-24,Galatasaray,Göztepe,3,1,1.0
+2017-2018,17,2017-12-25,Osmanlıspor,Akhisarspor,3,2,1.0
+2017-2018,18,2018-01-19,Kasımpaşa,Alanyaspor,3,2,1.0
+2017-2018,18,2018-01-20,Karabükspor,Gençlerbirliği,0,2,0.0
+2017-2018,18,2018-01-20,Osmanlıspor,Yeni Mal'spor,0,0,0.5
+2017-2018,18,2018-01-20,Fenerbahçe,Göztepe,2,1,1.0
+2017-2018,18,2018-01-21,Sivasspor,Akhisarspor,1,1,0.5
+2017-2018,18,2018-01-21,Konyaspor,Trabzonspor,2,2,0.5
+2017-2018,18,2018-01-21,Bursaspor,Başakşehir,0,3,0.0
+2017-2018,18,2018-01-21,Antalyaspor,Beşiktaş,1,2,0.0
+2017-2018,18,2018-01-22,Kayserispor,Galatasaray,1,3,0.0
+2017-2018,19,2018-01-26,Gençlerbirliği,Konyaspor,2,1,1.0
+2017-2018,19,2018-01-26,Beşiktaş,Kasımpaşa,2,1,1.0
+2017-2018,19,2018-01-27,Alanyaspor,Bursaspor,3,1,1.0
+2017-2018,19,2018-01-27,Göztepe,Kayserispor,1,1,0.5
+2017-2018,19,2018-01-27,Galatasaray,Osmanlıspor,2,0,1.0
+2017-2018,19,2018-01-28,Yeni Mal'spor,Sivasspor,1,0,1.0
+2017-2018,19,2018-01-28,Akhisarspor,Antalyaspor,1,1,0.5
+2017-2018,19,2018-01-28,Trabzonspor,Fenerbahçe,1,1,0.5
+2017-2018,19,2018-01-29,Başakşehir,Karabükspor,5,0,1.0
+2017-2018,20,2018-02-02,Bursaspor,Beşiktaş,2,2,0.5
+2017-2018,20,2018-02-03,Karabükspor,Alanyaspor,1,0,1.0
+2017-2018,20,2018-02-03,Antalyaspor,Yeni Mal'spor,3,1,1.0
+2017-2018,20,2018-02-03,Fenerbahçe,Gençlerbirliği,2,2,0.5
+2017-2018,20,2018-02-04,Osmanlıspor,Kayserispor,0,1,0.0
+2017-2018,20,2018-02-04,Kasımpaşa,Akhisarspor,2,0,1.0
+2017-2018,20,2018-02-04,Konyaspor,Başakşehir,1,1,0.5
+2017-2018,20,2018-02-04,Sivasspor,Galatasaray,2,1,1.0
+2017-2018,20,2018-02-05,Trabzonspor,Göztepe,0,0,0.5
+2017-2018,21,2018-02-09,Yeni Mal'spor,Kasımpaşa,1,1,0.5
+2017-2018,21,2018-02-10,Göztepe,Osmanlıspor,3,3,0.5
+2017-2018,21,2018-02-10,Gençlerbirliği,Trabzonspor,0,0,0.5
+2017-2018,21,2018-02-10,Beşiktaş,Karabükspor,5,0,1.0
+2017-2018,21,2018-02-11,Kayserispor,Sivasspor,1,1,0.5
+2017-2018,21,2018-02-11,Akhisarspor,Bursaspor,1,0,1.0
+2017-2018,21,2018-02-11,Alanyaspor,Konyaspor,1,2,0.0
+2017-2018,21,2018-02-11,Başakşehir,Fenerbahçe,0,2,0.0
+2017-2018,21,2018-02-12,Galatasaray,Antalyaspor,3,0,1.0
+2017-2018,22,2018-02-16,Konyaspor,Beşiktaş,1,1,0.5
+2017-2018,22,2018-02-17,Antalyaspor,Kayserispor,2,1,1.0
+2017-2018,22,2018-02-17,Sivasspor,Osmanlıspor,3,2,1.0
+2017-2018,22,2018-02-17,Fenerbahçe,Alanyaspor,3,0,1.0
+2017-2018,22,2018-02-18,Karabükspor,Akhisarspor,0,3,0.0
+2017-2018,22,2018-02-18,Bursaspor,Yeni Mal'spor,0,0,0.5
+2017-2018,22,2018-02-18,Trabzonspor,Başakşehir,0,1,0.0
+2017-2018,22,2018-02-18,Kasımpaşa,Galatasaray,2,1,1.0
+2017-2018,22,2018-02-19,Gençlerbirliği,Göztepe,3,0,1.0
+2017-2018,23,2018-02-23,Galatasaray,Bursaspor,5,0,1.0
+2017-2018,23,2018-02-23,Akhisarspor,Konyaspor,3,0,1.0
+2017-2018,23,2018-02-24,Kayserispor,Kasımpaşa,3,2,1.0
+2017-2018,23,2018-02-24,Alanyaspor,Trabzonspor,1,2,0.0
+2017-2018,23,2018-02-25,Yeni Mal'spor,Karabükspor,3,1,1.0
+2017-2018,23,2018-02-25,Osmanlıspor,Antalyaspor,0,0,0.5
+2017-2018,23,2018-02-25,Göztepe,Sivasspor,1,0,1.0
+2017-2018,23,2018-02-25,Beşiktaş,Fenerbahçe,3,1,1.0
+2017-2018,23,2018-02-26,Başakşehir,Gençlerbirliği,1,1,0.5
+2017-2018,24,2018-03-02,Bursaspor,Kayserispor,1,0,1.0
+2017-2018,24,2018-03-03,Kasımpaşa,Osmanlıspor,1,1,0.5
+2017-2018,24,2018-03-03,Başakşehir,Göztepe,2,0,1.0
+2017-2018,24,2018-03-03,Karabükspor,Galatasaray,0,7,0.0
+2017-2018,24,2018-03-04,Gençlerbirliği,Alanyaspor,0,1,0.0
+2017-2018,24,2018-03-04,Konyaspor,Yeni Mal'spor,0,1,0.0
+2017-2018,24,2018-03-04,Antalyaspor,Sivasspor,1,4,0.0
+2017-2018,24,2018-03-04,Fenerbahçe,Akhisarspor,2,3,0.0
+2017-2018,24,2018-03-05,Trabzonspor,Beşiktaş,0,2,0.0
+2017-2018,25,2018-03-09,Alanyaspor,Başakşehir,4,1,1.0
+2017-2018,25,2018-03-10,Sivasspor,Kasımpaşa,2,2,0.5
+2017-2018,25,2018-03-10,Osmanlıspor,Bursaspor,2,1,1.0
+2017-2018,25,2018-03-10,Beşiktaş,Gençlerbirliği,1,0,1.0
+2017-2018,25,2018-03-11,Kayserispor,Karabükspor,3,2,1.0
+2017-2018,25,2018-03-11,Göztepe,Antalyaspor,2,1,1.0
+2017-2018,25,2018-03-11,Yeni Mal'spor,Fenerbahçe,0,2,0.0
+2017-2018,25,2018-03-11,Galatasaray,Konyaspor,2,1,1.0
+2017-2018,25,2018-03-12,Akhisarspor,Trabzonspor,1,3,0.0
+2017-2018,26,2018-03-16,Karabükspor,Osmanlıspor,0,4,0.0
+2017-2018,26,2018-03-16,Kasımpaşa,Antalyaspor,2,3,0.0
+2017-2018,26,2018-03-17,Gençlerbirliği,Akhisarspor,1,1,0.5
+2017-2018,26,2018-03-17,Bursaspor,Sivasspor,1,0,1.0
+2017-2018,26,2018-03-17,Fenerbahçe,Galatasaray,0,0,0.5
+2017-2018,26,2018-03-18,Alanyaspor,Göztepe,1,1,0.5
+2017-2018,26,2018-03-18,Konyaspor,Kayserispor,2,0,1.0
+2017-2018,26,2018-03-18,Trabzonspor,Yeni Mal'spor,4,1,1.0
+2017-2018,26,2018-03-18,Başakşehir,Beşiktaş,1,0,1.0
+2017-2018,27,2018-03-30,Sivasspor,Karabükspor,1,0,1.0
+2017-2018,27,2018-03-31,Yeni Mal'spor,Gençlerbirliği,4,1,1.0
+2017-2018,27,2018-03-31,Antalyaspor,Bursaspor,2,0,1.0
+2017-2018,27,2018-03-31,Beşiktaş,Alanyaspor,1,0,1.0
+2017-2018,27,2018-04-01,Osmanlıspor,Konyaspor,0,0,0.5
+2017-2018,27,2018-04-01,Göztepe,Kasımpaşa,0,2,0.0
+2017-2018,27,2018-04-01,Akhisarspor,Başakşehir,1,2,0.0
+2017-2018,27,2018-04-01,Galatasaray,Trabzonspor,2,1,1.0
+2017-2018,27,2018-04-02,Kayserispor,Fenerbahçe,0,5,0.0
+2017-2018,28,2018-04-06,Başakşehir,Yeni Mal'spor,1,0,1.0
+2017-2018,28,2018-04-07,Karabükspor,Antalyaspor,1,2,0.0
+2017-2018,28,2018-04-07,Trabzonspor,Kayserispor,4,0,1.0
+2017-2018,28,2018-04-07,Beşiktaş,Göztepe,5,1,1.0
+2017-2018,28,2018-04-08,Konyaspor,Sivasspor,5,0,1.0
+2017-2018,28,2018-04-08,Bursaspor,Kasımpaşa,0,1,0.0
+2017-2018,28,2018-04-08,Alanyaspor,Akhisarspor,3,1,1.0
+2017-2018,28,2018-04-08,Fenerbahçe,Osmanlıspor,2,0,1.0
+2017-2018,28,2018-04-09,Gençlerbirliği,Galatasaray,1,0,1.0
+2017-2018,29,2018-04-13,Akhisarspor,Beşiktaş,0,3,0.0
+2017-2018,29,2018-04-14,Kasımpaşa,Karabükspor,2,0,1.0
+2017-2018,29,2018-04-14,Yeni Mal'spor,Alanyaspor,1,1,0.5
+2017-2018,29,2018-04-14,Sivasspor,Fenerbahçe,1,2,0.0
+2017-2018,29,2018-04-15,Kayserispor,Gençlerbirliği,3,2,1.0
+2017-2018,29,2018-04-15,Göztepe,Bursaspor,2,1,1.0
+2017-2018,29,2018-04-15,Antalyaspor,Konyaspor,0,0,0.5
+2017-2018,29,2018-04-15,Galatasaray,Başakşehir,2,0,1.0
+2017-2018,29,2018-04-16,Osmanlıspor,Trabzonspor,3,3,0.5
+2017-2018,30,2018-04-20,Başakşehir,Kayserispor,3,1,1.0
+2017-2018,30,2018-04-21,Karabükspor,Bursaspor,1,4,0.0
+2017-2018,30,2018-04-21,Gençlerbirliği,Osmanlıspor,0,3,0.0
+2017-2018,30,2018-04-21,Trabzonspor,Sivasspor,0,2,0.0
+2017-2018,30,2018-04-21,Alanyaspor,Galatasaray,2,3,0.0
+2017-2018,30,2018-04-22,Konyaspor,Kasımpaşa,2,0,1.0
+2017-2018,30,2018-04-22,Akhisarspor,Göztepe,1,1,0.5
+2017-2018,30,2018-04-22,Beşiktaş,Yeni Mal'spor,3,1,1.0
+2017-2018,30,2018-04-23,Fenerbahçe,Antalyaspor,4,1,1.0
+2017-2018,31,2018-04-27,Göztepe,Karabükspor,5,0,1.0
+2017-2018,31,2018-04-28,Kayserispor,Alanyaspor,1,2,0.0
+2017-2018,31,2018-04-28,Sivasspor,Gençlerbirliği,1,0,1.0
+2017-2018,31,2018-04-28,Kasımpaşa,Fenerbahçe,1,4,0.0
+2017-2018,31,2018-04-28,Antalyaspor,Trabzonspor,1,2,0.0
+2017-2018,31,2018-04-29,Yeni Mal'spor,Akhisarspor,0,0,0.5
+2017-2018,31,2018-04-29,Osmanlıspor,Başakşehir,1,4,0.0
+2017-2018,31,2018-04-29,Galatasaray,Beşiktaş,2,0,1.0
+2017-2018,31,2018-04-30,Bursaspor,Konyaspor,2,1,1.0
+2017-2018,32,2018-05-04,Başakşehir,Sivasspor,1,1,0.5
+2017-2018,32,2018-05-05,Karabükspor,Konyaspor,0,1,0.0
+2017-2018,32,2018-05-05,Alanyaspor,Osmanlıspor,1,1,0.5
+2017-2018,32,2018-05-05,Trabzonspor,Kasımpaşa,2,5,0.0
+2017-2018,32,2018-05-06,Fenerbahçe,Bursaspor,2,1,1.0
+2017-2018,32,2018-05-06,Gençlerbirliği,Antalyaspor,0,1,0.0
+2017-2018,32,2018-05-06,Akhisarspor,Galatasaray,1,2,0.0
+2017-2018,32,2018-05-07,Beşiktaş,Kayserispor,2,0,1.0
+2017-2018,32,2018-05-07,Göztepe,Yeni Mal'spor,0,0,0.5
+2017-2018,33,2018-05-11,Antalyaspor,Başakşehir,0,2,0.0
+2017-2018,33,2018-05-12,Kasımpaşa,Gençlerbirliği,3,1,1.0
+2017-2018,33,2018-05-12,Konyaspor,Göztepe,1,1,0.5
+2017-2018,33,2018-05-12,Galatasaray,Yeni Mal'spor,2,0,1.0
+2017-2018,33,2018-05-13,Bursaspor,Trabzonspor,1,3,0.0
+2017-2018,33,2018-05-13,Osmanlıspor,Beşiktaş,2,3,0.0
+2017-2018,33,2018-05-13,Sivasspor,Alanyaspor,2,2,0.5
+2017-2018,33,2018-05-14,Kayserispor,Akhisarspor,1,2,0.0
+2017-2018,33,2018-05-14,Karabükspor,Fenerbahçe,0,7,0.0
+2017-2018,34,2018-05-18,Yeni Mal'spor,Kayserispor,3,2,1.0
+2017-2018,34,2018-05-18,Alanyaspor,Antalyaspor,3,2,1.0
+2017-2018,34,2018-05-18,Akhisarspor,Osmanlıspor,2,1,1.0
+2017-2018,34,2018-05-18,Trabzonspor,Karabükspor,3,0,1.0
+2017-2018,34,2018-05-18,Gençlerbirliği,Bursaspor,1,0,1.0
+2017-2018,34,2018-05-19,Başakşehir,Kasımpaşa,3,2,1.0
+2017-2018,34,2018-05-19,Göztepe,Galatasaray,0,1,0.0
+2017-2018,34,2018-05-19,Beşiktaş,Sivasspor,5,1,1.0
+2017-2018,34,2018-05-19,Fenerbahçe,Konyaspor,3,2,1.0

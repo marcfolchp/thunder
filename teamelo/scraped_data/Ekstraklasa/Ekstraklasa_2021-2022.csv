@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,1,2021-07-23,Bruk-Bet Termalica Nieciecza,Stal Mielec,1,1,0.5
+2021-2022,1,2021-07-23,Lech Poznań,Radomiak Radom,0,0,0.5
+2021-2022,1,2021-07-24,Górnik Łęczna,Cracovia,1,1,0.5
+2021-2022,1,2021-07-24,Jagiellonia,Lechia Gdańsk,1,1,0.5
+2021-2022,1,2021-07-24,Legia Warsaw,Wisła Płock,1,0,1.0
+2021-2022,1,2021-07-25,Piast Gliwice,RKS Raków,2,3,0.0
+2021-2022,1,2021-07-25,Śląsk Wrocław,Warta Poznań,2,2,0.5
+2021-2022,1,2021-07-25,Pogoń Szczecin,Górnik Zabrze,2,0,1.0
+2021-2022,1,2021-07-26,Wisła Kraków,Zagłębie Lubin,3,0,1.0
+2021-2022,2,2021-07-30,Zagłębie Lubin,Górnik Łęczna,3,1,1.0
+2021-2022,2,2021-07-30,Górnik Zabrze,Lech Poznań,1,3,0.0
+2021-2022,2,2021-07-31,Stal Mielec,Piast Gliwice,0,2,0.0
+2021-2022,2,2021-07-31,Bruk-Bet Termalica Nieciecza,Wisła Kraków,2,2,0.5
+2021-2022,2,2021-07-31,Radomiak Radom,Legia Warsaw,3,1,1.0
+2021-2022,2,2021-08-01,Warta Poznań,Pogoń Szczecin,1,1,0.5
+2021-2022,2,2021-08-01,Cracovia,Śląsk Wrocław,1,2,0.0
+2021-2022,2,2021-08-01,Jagiellonia,RKS Raków,3,0,1.0
+2021-2022,2,2021-08-02,Lechia Gdańsk,Wisła Płock,1,0,1.0
+2021-2022,3,2021-08-06,Górnik Łęczna,Warta Poznań,0,4,0.0
+2021-2022,3,2021-08-06,Lech Poznań,Cracovia,2,0,1.0
+2021-2022,3,2021-08-07,Jagiellonia,Bruk-Bet Termalica Nieciecza,1,0,1.0
+2021-2022,3,2021-08-07,Górnik Zabrze,Stal Mielec,1,0,1.0
+2021-2022,3,2021-08-08,Pogoń Szczecin,Piast Gliwice,1,0,1.0
+2021-2022,3,2021-08-08,Wisła Kraków,RKS Raków,1,2,0.0
+2021-2022,3,2021-08-08,Śląsk Wrocław,Lechia Gdańsk,1,1,0.5
+2021-2022,3,2021-08-09,Wisła Płock,Radomiak Radom,1,0,1.0
+2021-2022,4,2021-08-13,Bruk-Bet Termalica Nieciecza,Lech Poznań,1,3,0.0
+2021-2022,4,2021-08-13,Stal Mielec,Wisła Kraków,2,1,1.0
+2021-2022,4,2021-08-14,Piast Gliwice,Wisła Płock,4,3,1.0
+2021-2022,4,2021-08-14,Lechia Gdańsk,Cracovia,3,0,1.0
+2021-2022,4,2021-08-14,Warta Poznań,Legia Warsaw,0,2,0.0
+2021-2022,4,2021-08-15,Śląsk Wrocław,Górnik Łęczna,0,0,0.5
+2021-2022,4,2021-08-15,Zagłębie Lubin,Pogoń Szczecin,2,0,1.0
+2021-2022,4,2021-08-16,Jagiellonia,Górnik Zabrze,1,3,0.0
+2021-2022,5,2021-08-20,Wisła Płock,Zagłębie Lubin,4,0,1.0
+2021-2022,5,2021-08-20,Radomiak Radom,Warta Poznań,1,0,1.0
+2021-2022,5,2021-08-21,Pogoń Szczecin,Stal Mielec,4,1,1.0
+2021-2022,5,2021-08-21,Cracovia,Jagiellonia,2,1,1.0
+2021-2022,5,2021-08-21,Górnik Łęczna,Wisła Kraków,1,3,0.0
+2021-2022,5,2021-08-22,Piast Gliwice,Śląsk Wrocław,1,1,0.5
+2021-2022,5,2021-08-22,Lech Poznań,Lechia Gdańsk,2,0,1.0
+2021-2022,6,2021-08-27,Stal Mielec,Górnik Łęczna,2,0,1.0
+2021-2022,6,2021-08-27,Warta Poznań,Jagiellonia,1,1,0.5
+2021-2022,6,2021-08-28,Bruk-Bet Termalica Nieciecza,Cracovia,1,2,0.0
+2021-2022,6,2021-08-28,Lechia Gdańsk,Radomiak Radom,2,2,0.5
+2021-2022,6,2021-08-28,Lech Poznań,Pogoń Szczecin,1,1,0.5
+2021-2022,6,2021-08-28,Górnik Zabrze,Piast Gliwice,0,1,0.0
+2021-2022,6,2021-08-29,Wisła Płock,RKS Raków,1,1,0.5
+2021-2022,6,2021-08-29,Zagłębie Lubin,Śląsk Wrocław,1,3,0.0
+2021-2022,6,2021-08-29,Wisła Kraków,Legia Warsaw,1,0,1.0
+2021-2022,7,2021-09-11,Warta Poznań,Bruk-Bet Termalica Nieciecza,0,0,0.5
+2021-2022,7,2021-09-11,Cracovia,Górnik Zabrze,2,2,0.5
+2021-2022,7,2021-09-11,Jagiellonia,Stal Mielec,1,1,0.5
+2021-2022,7,2021-09-11,Śląsk Wrocław,Legia Warsaw,1,0,1.0
+2021-2022,7,2021-09-12,Piast Gliwice,Zagłębie Lubin,0,1,0.0
+2021-2022,7,2021-09-12,Wisła Kraków,Lechia Gdańsk,2,2,0.5
+2021-2022,7,2021-09-12,RKS Raków,Lech Poznań,2,2,0.5
+2021-2022,7,2021-09-13,Górnik Łęczna,Wisła Płock,3,2,1.0
+2021-2022,7,2021-09-13,Radomiak Radom,Pogoń Szczecin,1,1,0.5
+2021-2022,8,2021-09-17,Zagłębie Lubin,Bruk-Bet Termalica Nieciecza,2,1,1.0
+2021-2022,8,2021-09-17,Lech Poznań,Wisła Kraków,5,0,1.0
+2021-2022,8,2021-09-18,Wisła Płock,Jagiellonia,3,0,1.0
+2021-2022,8,2021-09-18,Pogoń Szczecin,Cracovia,1,1,0.5
+2021-2022,8,2021-09-18,Radomiak Radom,Śląsk Wrocław,1,1,0.5
+2021-2022,8,2021-09-18,Lechia Gdańsk,Piast Gliwice,1,0,1.0
+2021-2022,8,2021-09-19,Stal Mielec,RKS Raków,0,3,0.0
+2021-2022,8,2021-09-19,Górnik Zabrze,Warta Poznań,1,0,1.0
+2021-2022,8,2021-09-19,Legia Warsaw,Górnik Łęczna,3,1,1.0
+2021-2022,9,2021-09-24,Górnik Łęczna,Lechia Gdańsk,0,4,0.0
+2021-2022,9,2021-09-24,Jagiellonia,Lech Poznań,1,0,1.0
+2021-2022,9,2021-09-25,Stal Mielec,Radomiak Radom,1,0,1.0
+2021-2022,9,2021-09-25,Warta Poznań,Zagłębie Lubin,0,2,0.0
+2021-2022,9,2021-09-25,Legia Warsaw,RKS Raków,2,3,0.0
+2021-2022,9,2021-09-26,Bruk-Bet Termalica Nieciecza,Górnik Zabrze,3,1,1.0
+2021-2022,9,2021-09-26,Śląsk Wrocław,Wisła Płock,3,1,1.0
+2021-2022,9,2021-09-26,Wisła Kraków,Pogoń Szczecin,0,1,0.0
+2021-2022,9,2021-09-27,Piast Gliwice,Cracovia,2,4,0.0
+2021-2022,4,2021-09-29,RKS Raków,Radomiak Radom,2,2,0.5
+2021-2022,10,2021-10-01,Zagłębie Lubin,Jagiellonia,0,1,0.0
+2021-2022,10,2021-10-01,Piast Gliwice,Wisła Kraków,1,0,1.0
+2021-2022,10,2021-10-02,Radomiak Radom,Bruk-Bet Termalica Nieciecza,1,1,0.5
+2021-2022,10,2021-10-02,Cracovia,Stal Mielec,3,3,0.5
+2021-2022,10,2021-10-02,Lech Poznań,Śląsk Wrocław,4,0,1.0
+2021-2022,10,2021-10-02,Górnik Zabrze,Wisła Płock,4,2,1.0
+2021-2022,10,2021-10-03,RKS Raków,Warta Poznań,3,0,1.0
+2021-2022,10,2021-10-03,Pogoń Szczecin,Górnik Łęczna,4,1,1.0
+2021-2022,10,2021-10-03,Lechia Gdańsk,Legia Warsaw,3,1,1.0
+2021-2022,11,2021-10-16,Górnik Łęczna,Piast Gliwice,1,1,0.5
+2021-2022,11,2021-10-16,Bruk-Bet Termalica Nieciecza,Lechia Gdańsk,0,2,0.0
+2021-2022,11,2021-10-16,Górnik Zabrze,Wisła Kraków,0,1,0.0
+2021-2022,11,2021-10-16,Śląsk Wrocław,RKS Raków,1,2,0.0
+2021-2022,11,2021-10-17,Wisła Płock,Pogoń Szczecin,1,0,1.0
+2021-2022,11,2021-10-17,Cracovia,Warta Poznań,2,0,1.0
+2021-2022,11,2021-10-17,Legia Warsaw,Lech Poznań,0,1,0.0
+2021-2022,11,2021-10-18,Stal Mielec,Zagłębie Lubin,4,2,1.0
+2021-2022,11,2021-10-18,Jagiellonia,Radomiak Radom,1,1,0.5
+2021-2022,12,2021-10-22,Radomiak Radom,Górnik Łęczna,3,1,1.0
+2021-2022,12,2021-10-22,Lech Poznań,Wisła Płock,4,1,1.0
+2021-2022,12,2021-10-23,RKS Raków,Bruk-Bet Termalica Nieciecza,3,2,1.0
+2021-2022,12,2021-10-23,Lechia Gdańsk,Górnik Zabrze,1,1,0.5
+2021-2022,12,2021-10-23,Pogoń Szczecin,Jagiellonia,4,1,1.0
+2021-2022,12,2021-10-23,Wisła Kraków,Śląsk Wrocław,0,5,0.0
+2021-2022,12,2021-10-24,Zagłębie Lubin,Cracovia,1,1,0.5
+2021-2022,12,2021-10-24,Warta Poznań,Stal Mielec,0,0,0.5
+2021-2022,12,2021-10-24,Piast Gliwice,Legia Warsaw,4,1,1.0
+2021-2022,13,2021-10-29,Cracovia,Radomiak Radom,1,2,0.0
+2021-2022,13,2021-10-29,Stal Mielec,Lech Poznań,0,0,0.5
+2021-2022,13,2021-10-30,Bruk-Bet Termalica Nieciecza,Śląsk Wrocław,4,3,1.0
+2021-2022,13,2021-10-30,Warta Poznań,Lechia Gdańsk,0,2,0.0
+2021-2022,13,2021-10-30,Górnik Zabrze,Zagłębie Lubin,0,0,0.5
+2021-2022,13,2021-10-30,Jagiellonia,Piast Gliwice,3,3,0.5
+2021-2022,13,2021-10-31,Wisła Płock,Wisła Kraków,2,0,1.0
+2021-2022,13,2021-10-31,Górnik Łęczna,RKS Raków,0,0,0.5
+2021-2022,13,2021-10-31,Legia Warsaw,Pogoń Szczecin,0,2,0.0
+2021-2022,14,2021-11-05,Wisła Płock,Bruk-Bet Termalica Nieciecza,1,1,0.5
+2021-2022,14,2021-11-05,Śląsk Wrocław,Jagiellonia,2,2,0.5
+2021-2022,14,2021-11-06,Piast Gliwice,Warta Poznań,0,1,0.0
+2021-2022,14,2021-11-06,Radomiak Radom,Górnik Zabrze,1,0,1.0
+2021-2022,14,2021-11-06,Lechia Gdańsk,Zagłębie Lubin,2,1,1.0
+2021-2022,14,2021-11-06,Górnik Łęczna,Lech Poznań,1,1,0.5
+2021-2022,14,2021-11-07,RKS Raków,Pogoń Szczecin,0,0,0.5
+2021-2022,14,2021-11-07,Legia Warsaw,Stal Mielec,1,3,0.0
+2021-2022,14,2021-11-07,Wisła Kraków,Cracovia,1,0,1.0
+2021-2022,15,2021-11-20,Warta Poznań,Wisła Płock,1,2,0.0
+2021-2022,15,2021-11-20,Jagiellonia,Wisła Kraków,3,1,1.0
+2021-2022,15,2021-11-20,Stal Mielec,Lechia Gdańsk,3,3,0.5
+2021-2022,15,2021-11-20,Lech Poznań,Piast Gliwice,1,0,1.0
+2021-2022,15,2021-11-21,Bruk-Bet Termalica Nieciecza,Górnik Łęczna,1,1,0.5
+2021-2022,15,2021-11-21,Pogoń Szczecin,Śląsk Wrocław,2,1,1.0
+2021-2022,15,2021-11-21,Górnik Zabrze,Legia Warsaw,3,2,1.0
+2021-2022,15,2021-11-22,Zagłębie Lubin,Radomiak Radom,0,2,0.0
+2021-2022,15,2021-11-22,Cracovia,RKS Raków,1,0,1.0
+2021-2022,16,2021-11-26,Piast Gliwice,Bruk-Bet Termalica Nieciecza,2,1,1.0
+2021-2022,16,2021-11-26,Wisła Kraków,Radomiak Radom,0,1,0.0
+2021-2022,16,2021-11-27,Górnik Łęczna,Górnik Zabrze,1,2,0.0
+2021-2022,16,2021-11-27,Śląsk Wrocław,Stal Mielec,2,1,1.0
+2021-2022,16,2021-11-27,Pogoń Szczecin,Lechia Gdańsk,5,1,1.0
+2021-2022,16,2021-11-27,RKS Raków,Zagłębie Lubin,4,0,1.0
+2021-2022,16,2021-11-28,Wisła Płock,Cracovia,2,1,1.0
+2021-2022,16,2021-11-28,Lech Poznań,Warta Poznań,2,0,1.0
+2021-2022,16,2021-11-28,Legia Warsaw,Jagiellonia,1,0,1.0
+2021-2022,17,2021-12-03,Stal Mielec,Wisła Płock,2,1,1.0
+2021-2022,17,2021-12-03,Górnik Zabrze,Śląsk Wrocław,3,1,1.0
+2021-2022,17,2021-12-04,Bruk-Bet Termalica Nieciecza,Pogoń Szczecin,1,3,0.0
+2021-2022,17,2021-12-04,Jagiellonia,Górnik Łęczna,1,2,0.0
+2021-2022,17,2021-12-04,Lechia Gdańsk,RKS Raków,3,1,1.0
+2021-2022,17,2021-12-05,Zagłębie Lubin,Lech Poznań,2,3,0.0
+2021-2022,17,2021-12-05,Cracovia,Legia Warsaw,1,0,1.0
+2021-2022,17,2021-12-06,Warta Poznań,Wisła Kraków,1,1,0.5
+2021-2022,18,2021-12-10,Stal Mielec,Bruk-Bet Termalica Nieciecza,1,0,1.0
+2021-2022,18,2021-12-10,RKS Raków,Piast Gliwice,1,0,1.0
+2021-2022,18,2021-12-11,Radomiak Radom,Lech Poznań,2,1,1.0
+2021-2022,18,2021-12-11,Zagłębie Lubin,Wisła Kraków,2,1,1.0
+2021-2022,18,2021-12-11,Lechia Gdańsk,Jagiellonia,1,2,0.0
+2021-2022,18,2021-12-12,Cracovia,Górnik Łęczna,0,2,0.0
+2021-2022,18,2021-12-12,Wisła Płock,Legia Warsaw,1,0,1.0
+2021-2022,18,2021-12-12,Górnik Zabrze,Pogoń Szczecin,2,2,0.5
+2021-2022,18,2021-12-13,Warta Poznań,Śląsk Wrocław,2,1,1.0
+2021-2022,17,2021-12-14,Radomiak Radom,Piast Gliwice,2,2,0.5
+2021-2022,5,2021-12-15,RKS Raków,Górnik Zabrze,1,2,0.0
+2021-2022,3,2021-12-15,Legia Warsaw,Zagłębie Lubin,4,0,1.0
+2021-2022,19,2021-12-17,Wisła Kraków,Bruk-Bet Termalica Nieciecza,3,0,1.0
+2021-2022,19,2021-12-17,Wisła Płock,Lechia Gdańsk,1,0,1.0
+2021-2022,19,2021-12-18,Piast Gliwice,Stal Mielec,1,1,0.5
+2021-2022,19,2021-12-18,Pogoń Szczecin,Warta Poznań,1,1,0.5
+2021-2022,19,2021-12-18,Śląsk Wrocław,Cracovia,0,2,0.0
+2021-2022,19,2021-12-18,RKS Raków,Jagiellonia,5,0,1.0
+2021-2022,19,2021-12-19,Górnik Łęczna,Zagłębie Lubin,2,1,1.0
+2021-2022,19,2021-12-19,Lech Poznań,Górnik Zabrze,2,1,1.0
+2021-2022,19,2021-12-19,Legia Warsaw,Radomiak Radom,0,3,0.0
+2021-2022,20,2022-02-04,Bruk-Bet Termalica Nieciecza,Jagiellonia,2,1,1.0
+2021-2022,20,2022-02-04,Zagłębie Lubin,Legia Warsaw,1,3,0.0
+2021-2022,20,2022-02-05,Stal Mielec,Górnik Zabrze,1,2,0.0
+2021-2022,20,2022-02-05,Piast Gliwice,Pogoń Szczecin,0,2,0.0
+2021-2022,20,2022-02-05,Lechia Gdańsk,Śląsk Wrocław,2,0,1.0
+2021-2022,20,2022-02-06,Warta Poznań,Górnik Łęczna,1,1,0.5
+2021-2022,20,2022-02-06,RKS Raków,Wisła Kraków,2,0,1.0
+2021-2022,20,2022-02-06,Cracovia,Lech Poznań,3,3,0.5
+2021-2022,20,2022-02-07,Radomiak Radom,Wisła Płock,1,1,0.5
+2021-2022,21,2022-02-11,Górnik Łęczna,Śląsk Wrocław,1,1,0.5
+2021-2022,21,2022-02-11,Cracovia,Lechia Gdańsk,2,0,1.0
+2021-2022,21,2022-02-12,Wisła Kraków,Stal Mielec,0,1,0.0
+2021-2022,21,2022-02-12,Radomiak Radom,RKS Raków,0,1,0.0
+2021-2022,21,2022-02-12,Lech Poznań,Bruk-Bet Termalica Nieciecza,5,0,1.0
+2021-2022,21,2022-02-13,Wisła Płock,Piast Gliwice,0,2,0.0
+2021-2022,21,2022-02-13,Pogoń Szczecin,Zagłębie Lubin,2,1,1.0
+2021-2022,21,2022-02-13,Legia Warsaw,Warta Poznań,0,1,0.0
+2021-2022,21,2022-02-14,Górnik Zabrze,Jagiellonia,1,2,0.0
+2021-2022,22,2022-02-18,Zagłębie Lubin,Wisła Płock,3,1,1.0
+2021-2022,22,2022-02-18,Stal Mielec,Pogoń Szczecin,0,1,0.0
+2021-2022,22,2022-02-19,Jagiellonia,Cracovia,0,0,0.5
+2021-2022,22,2022-02-19,Śląsk Wrocław,Piast Gliwice,1,3,0.0
+2021-2022,22,2022-02-19,Bruk-Bet Termalica Nieciecza,Legia Warsaw,0,0,0.5
+2021-2022,22,2022-02-20,Warta Poznań,Radomiak Radom,3,1,1.0
+2021-2022,22,2022-02-20,Górnik Zabrze,RKS Raków,1,1,0.5
+2021-2022,22,2022-02-20,Lechia Gdańsk,Lech Poznań,1,0,1.0
+2021-2022,22,2022-02-21,Wisła Kraków,Górnik Łęczna,0,0,0.5
+2021-2022,23,2022-02-25,RKS Raków,Wisła Płock,2,0,1.0
+2021-2022,23,2022-02-25,Legia Warsaw,Wisła Kraków,2,1,1.0
+2021-2022,23,2022-02-26,Pogoń Szczecin,Lech Poznań,0,3,0.0
+2021-2022,23,2022-02-26,Górnik Łęczna,Stal Mielec,2,0,1.0
+2021-2022,23,2022-02-26,Piast Gliwice,Górnik Zabrze,0,0,0.5
+2021-2022,23,2022-02-27,Jagiellonia,Warta Poznań,1,1,0.5
+2021-2022,23,2022-02-27,Radomiak Radom,Lechia Gdańsk,2,0,1.0
+2021-2022,23,2022-02-27,Śląsk Wrocław,Zagłębie Lubin,0,0,0.5
+2021-2022,23,2022-02-28,Cracovia,Bruk-Bet Termalica Nieciecza,1,2,0.0
+2021-2022,24,2022-03-04,Stal Mielec,Jagiellonia,1,1,0.5
+2021-2022,24,2022-03-04,Pogoń Szczecin,Radomiak Radom,4,0,1.0
+2021-2022,24,2022-03-05,Bruk-Bet Termalica Nieciecza,Warta Poznań,1,0,1.0
+2021-2022,24,2022-03-05,Zagłębie Lubin,Piast Gliwice,0,0,0.5
+2021-2022,24,2022-03-05,Lechia Gdańsk,Wisła Kraków,1,1,0.5
+2021-2022,24,2022-03-06,Wisła Płock,Górnik Łęczna,3,1,1.0
+2021-2022,24,2022-03-06,Górnik Zabrze,Cracovia,3,0,1.0
+2021-2022,24,2022-03-06,Lech Poznań,RKS Raków,0,1,0.0
+2021-2022,24,2022-03-07,Legia Warsaw,Śląsk Wrocław,1,0,1.0
+2021-2022,25,2022-03-11,Bruk-Bet Termalica Nieciecza,Zagłębie Lubin,0,2,0.0
+2021-2022,25,2022-03-11,Górnik Łęczna,Legia Warsaw,0,1,0.0
+2021-2022,25,2022-03-12,Warta Poznań,Górnik Zabrze,2,1,1.0
+2021-2022,25,2022-03-12,Piast Gliwice,Lechia Gdańsk,1,0,1.0
+2021-2022,25,2022-03-12,Cracovia,Pogoń Szczecin,1,1,0.5
+2021-2022,25,2022-03-13,Jagiellonia,Wisła Płock,0,1,0.0
+2021-2022,25,2022-03-13,Śląsk Wrocław,Radomiak Radom,0,0,0.5
+2021-2022,25,2022-03-13,Wisła Kraków,Lech Poznań,1,1,0.5
+2021-2022,25,2022-03-14,RKS Raków,Stal Mielec,2,1,1.0
+2021-2022,5,2022-03-15,Legia Warsaw,Bruk-Bet Termalica Nieciecza,4,1,1.0
+2021-2022,26,2022-03-18,Zagłębie Lubin,Warta Poznań,0,4,0.0
+2021-2022,26,2022-03-18,Pogoń Szczecin,Wisła Kraków,4,1,1.0
+2021-2022,26,2022-03-19,Wisła Płock,Śląsk Wrocław,1,2,0.0
+2021-2022,26,2022-03-19,RKS Raków,Legia Warsaw,1,1,0.5
+2021-2022,26,2022-03-19,Lechia Gdańsk,Górnik Łęczna,2,0,1.0
+2021-2022,26,2022-03-19,Lech Poznań,Jagiellonia,3,0,1.0
+2021-2022,26,2022-03-20,Radomiak Radom,Stal Mielec,1,1,0.5
+2021-2022,26,2022-03-20,Cracovia,Piast Gliwice,0,1,0.0
+2021-2022,26,2022-03-20,Górnik Zabrze,Bruk-Bet Termalica Nieciecza,1,1,0.5
+2021-2022,27,2022-04-01,Stal Mielec,Cracovia,1,2,0.0
+2021-2022,27,2022-04-01,Śląsk Wrocław,Lech Poznań,0,1,0.0
+2021-2022,27,2022-04-02,Warta Poznań,RKS Raków,0,2,0.0
+2021-2022,27,2022-04-02,Górnik Łęczna,Pogoń Szczecin,0,4,0.0
+2021-2022,27,2022-04-02,Legia Warsaw,Lechia Gdańsk,2,1,1.0
+2021-2022,27,2022-04-03,Bruk-Bet Termalica Nieciecza,Radomiak Radom,1,1,0.5
+2021-2022,27,2022-04-03,Jagiellonia,Zagłębie Lubin,2,1,1.0
+2021-2022,27,2022-04-03,Wisła Kraków,Piast Gliwice,2,2,0.5
+2021-2022,27,2022-04-04,Wisła Płock,Górnik Zabrze,3,2,1.0
+2021-2022,28,2022-04-08,Zagłębie Lubin,Stal Mielec,3,1,1.0
+2021-2022,28,2022-04-08,Pogoń Szczecin,Wisła Płock,1,2,0.0
+2021-2022,28,2022-04-09,Piast Gliwice,Górnik Łęczna,1,0,1.0
+2021-2022,28,2022-04-09,Lech Poznań,Legia Warsaw,1,1,0.5
+2021-2022,28,2022-04-09,Lechia Gdańsk,Bruk-Bet Termalica Nieciecza,2,0,1.0
+2021-2022,28,2022-04-10,Warta Poznań,Cracovia,1,0,1.0
+2021-2022,28,2022-04-10,Wisła Kraków,Górnik Zabrze,4,1,1.0
+2021-2022,28,2022-04-10,RKS Raków,Śląsk Wrocław,1,1,0.5
+2021-2022,28,2022-04-11,Radomiak Radom,Jagiellonia,2,2,0.5
+2021-2022,29,2022-04-16,Górnik Łęczna,Radomiak Radom,1,0,1.0
+2021-2022,29,2022-04-16,Stal Mielec,Warta Poznań,0,1,0.0
+2021-2022,29,2022-04-16,Bruk-Bet Termalica Nieciecza,RKS Raków,0,3,0.0
+2021-2022,29,2022-04-16,Jagiellonia,Pogoń Szczecin,1,2,0.0
+2021-2022,29,2022-04-16,Wisła Płock,Lech Poznań,0,1,0.0
+2021-2022,29,2022-04-18,Cracovia,Zagłębie Lubin,1,0,1.0
+2021-2022,29,2022-04-18,Śląsk Wrocław,Wisła Kraków,1,1,0.5
+2021-2022,29,2022-04-18,Górnik Zabrze,Lechia Gdańsk,1,3,0.0
+2021-2022,29,2022-04-18,Legia Warsaw,Piast Gliwice,0,1,0.0
+2021-2022,31,2022-04-20,Lech Poznań,Górnik Łęczna,3,0,1.0
+2021-2022,31,2022-04-20,Pogoń Szczecin,RKS Raków,1,2,0.0
+2021-2022,30,2022-04-22,Radomiak Radom,Cracovia,0,1,0.0
+2021-2022,30,2022-04-22,Zagłębie Lubin,Górnik Zabrze,2,4,0.0
+2021-2022,30,2022-04-23,Śląsk Wrocław,Bruk-Bet Termalica Nieciecza,0,4,0.0
+2021-2022,30,2022-04-23,Piast Gliwice,Jagiellonia,2,1,1.0
+2021-2022,30,2022-04-23,Lechia Gdańsk,Warta Poznań,2,0,1.0
+2021-2022,30,2022-04-24,Lech Poznań,Stal Mielec,3,1,1.0
+2021-2022,30,2022-04-24,RKS Raków,Górnik Łęczna,2,1,1.0
+2021-2022,30,2022-04-24,Pogoń Szczecin,Legia Warsaw,3,1,1.0
+2021-2022,30,2022-04-25,Wisła Kraków,Wisła Płock,3,4,0.0
+2021-2022,31,2022-04-29,Warta Poznań,Piast Gliwice,2,3,0.0
+2021-2022,31,2022-04-29,Górnik Zabrze,Radomiak Radom,0,0,0.5
+2021-2022,31,2022-04-30,Jagiellonia,Śląsk Wrocław,1,1,0.5
+2021-2022,31,2022-04-30,Zagłębie Lubin,Lechia Gdańsk,2,2,0.5
+2021-2022,31,2022-04-30,Stal Mielec,Legia Warsaw,2,1,1.0
+2021-2022,31,2022-05-01,Bruk-Bet Termalica Nieciecza,Wisła Płock,1,0,1.0
+2021-2022,31,2022-05-01,Cracovia,Wisła Kraków,0,0,0.5
+2021-2022,32,2022-05-06,Radomiak Radom,Zagłębie Lubin,1,6,0.0
+2021-2022,32,2022-05-06,Legia Warsaw,Górnik Zabrze,5,3,1.0
+2021-2022,32,2022-05-07,Wisła Płock,Warta Poznań,0,3,0.0
+2021-2022,32,2022-05-07,Śląsk Wrocław,Pogoń Szczecin,1,1,0.5
+2021-2022,32,2022-05-07,Wisła Kraków,Jagiellonia,0,0,0.5
+2021-2022,32,2022-05-08,Lechia Gdańsk,Stal Mielec,3,2,1.0
+2021-2022,32,2022-05-08,RKS Raków,Cracovia,1,1,0.5
+2021-2022,32,2022-05-08,Piast Gliwice,Lech Poznań,1,2,0.0
+2021-2022,32,2022-05-09,Górnik Łęczna,Bruk-Bet Termalica Nieciecza,1,1,0.5
+2021-2022,33,2022-05-13,Cracovia,Wisła Płock,3,0,1.0
+2021-2022,33,2022-05-13,Jagiellonia,Legia Warsaw,2,2,0.5
+2021-2022,33,2022-05-14,Bruk-Bet Termalica Nieciecza,Piast Gliwice,0,1,0.0
+2021-2022,33,2022-05-14,Warta Poznań,Lech Poznań,1,2,0.0
+2021-2022,33,2022-05-14,Zagłębie Lubin,RKS Raków,1,0,1.0
+2021-2022,33,2022-05-14,Lechia Gdańsk,Pogoń Szczecin,0,0,0.5
+2021-2022,33,2022-05-15,Stal Mielec,Śląsk Wrocław,1,1,0.5
+2021-2022,33,2022-05-15,Górnik Zabrze,Górnik Łęczna,4,2,1.0
+2021-2022,33,2022-05-15,Radomiak Radom,Wisła Kraków,4,2,1.0
+2021-2022,34,2022-05-21,Śląsk Wrocław,Górnik Zabrze,3,4,0.0
+2021-2022,34,2022-05-21,Górnik Łęczna,Jagiellonia,0,1,0.0
+2021-2022,34,2022-05-21,RKS Raków,Lechia Gdańsk,3,0,1.0
+2021-2022,34,2022-05-21,Lech Poznań,Zagłębie Lubin,2,1,1.0
+2021-2022,34,2022-05-21,Legia Warsaw,Cracovia,3,0,1.0
+2021-2022,34,2022-05-21,Piast Gliwice,Radomiak Radom,1,1,0.5
+2021-2022,34,2022-05-21,Pogoń Szczecin,Bruk-Bet Termalica Nieciecza,2,2,0.5
+2021-2022,34,2022-05-21,Wisła Kraków,Warta Poznań,0,1,0.0
+2021-2022,34,2022-05-21,Wisła Płock,Stal Mielec,3,0,1.0

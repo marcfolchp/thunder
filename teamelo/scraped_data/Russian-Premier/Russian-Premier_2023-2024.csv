@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023-2024,1,2023-07-21,Dynamo Mosc,Krasnodar,1,3,0.0
+2023-2024,1,2023-07-22,Ural,CSKA Moscow,2,1,1.0
+2023-2024,1,2023-07-22,Nizhny Novgorod,Zenit,0,2,0.0
+2023-2024,1,2023-07-22,Loko Moscow,Rubin Kazan,2,2,0.5
+2023-2024,1,2023-07-22,Akhmat Grozny,Samara,1,2,0.0
+2023-2024,1,2023-07-23,Spartak Moscow,Orenburg,3,2,1.0
+2023-2024,1,2023-07-23,Rostov,Fakel Voronezh,2,1,1.0
+2023-2024,1,2023-07-23,Sochi,FC Baltika Kaliningrad,2,0,1.0
+2023-2024,2,2023-07-29,Samara,Dynamo Mosc,3,3,0.5
+2023-2024,2,2023-07-29,Ural,Nizhny Novgorod,0,0,0.5
+2023-2024,2,2023-07-29,Rostov,Zenit,1,1,0.5
+2023-2024,2,2023-07-30,Rubin Kazan,Orenburg,1,1,0.5
+2023-2024,2,2023-07-30,Fakel Voronezh,Loko Moscow,1,4,0.0
+2023-2024,2,2023-07-30,Akhmat Grozny,CSKA Moscow,2,3,0.0
+2023-2024,2,2023-07-30,Krasnodar,Sochi,2,0,1.0
+2023-2024,2,2023-07-31,Spartak Moscow,FC Baltika Kaliningrad,2,1,1.0
+2023-2024,3,2023-08-04,Krasnodar,Nizhny Novgorod,1,0,1.0
+2023-2024,3,2023-08-05,Samara,Rostov,5,1,1.0
+2023-2024,3,2023-08-05,Rubin Kazan,Spartak Moscow,1,4,0.0
+2023-2024,3,2023-08-05,Orenburg,Ural,0,2,0.0
+2023-2024,3,2023-08-05,CSKA Moscow,Loko Moscow,4,1,1.0
+2023-2024,3,2023-08-06,FC Baltika Kaliningrad,Fakel Voronezh,2,1,1.0
+2023-2024,3,2023-08-06,Zenit,Dynamo Mosc,2,3,0.0
+2023-2024,3,2023-08-06,Sochi,Akhmat Grozny,1,2,0.0
+2023-2024,4,2023-08-11,Ural,Spartak Moscow,3,2,1.0
+2023-2024,4,2023-08-12,Loko Moscow,Samara,1,1,0.5
+2023-2024,4,2023-08-12,Orenburg,Krasnodar,0,2,0.0
+2023-2024,4,2023-08-12,Rostov,Rubin Kazan,3,0,1.0
+2023-2024,4,2023-08-13,Dynamo Mosc,FC Baltika Kaliningrad,2,0,1.0
+2023-2024,4,2023-08-13,Zenit,Fakel Voronezh,2,0,1.0
+2023-2024,4,2023-08-13,CSKA Moscow,Sochi,3,1,1.0
+2023-2024,4,2023-08-14,Nizhny Novgorod,Akhmat Grozny,2,0,1.0
+2023-2024,5,2023-08-18,Rubin Kazan,Samara,2,1,1.0
+2023-2024,5,2023-08-19,Dynamo Mosc,CSKA Moscow,2,1,1.0
+2023-2024,5,2023-08-19,FC Baltika Kaliningrad,Ural,0,1,0.0
+2023-2024,5,2023-08-19,Krasnodar,Loko Moscow,1,1,0.5
+2023-2024,5,2023-08-19,Sochi,Rostov,4,0,1.0
+2023-2024,5,2023-08-20,Fakel Voronezh,Nizhny Novgorod,2,0,1.0
+2023-2024,5,2023-08-20,Spartak Moscow,Zenit,1,3,0.0
+2023-2024,5,2023-08-20,Akhmat Grozny,Orenburg,4,0,1.0
+2023-2024,6,2023-08-25,Orenburg,CSKA Moscow,1,1,0.5
+2023-2024,6,2023-08-25,Fakel Voronezh,Krasnodar,0,0,0.5
+2023-2024,6,2023-08-26,Zenit,Ural,4,0,1.0
+2023-2024,6,2023-08-26,Rubin Kazan,Dynamo Mosc,2,2,0.5
+2023-2024,6,2023-08-26,Spartak Moscow,Akhmat Grozny,0,0,0.5
+2023-2024,6,2023-08-26,Nizhny Novgorod,Rostov,1,0,1.0
+2023-2024,6,2023-08-27,Samara,FC Baltika Kaliningrad,2,1,1.0
+2023-2024,6,2023-08-27,Sochi,Loko Moscow,0,1,0.0
+2023-2024,7,2023-09-02,Ural,Akhmat Grozny,0,1,0.0
+2023-2024,7,2023-09-02,Nizhny Novgorod,Rubin Kazan,2,1,1.0
+2023-2024,7,2023-09-02,Samara,Fakel Voronezh,3,0,1.0
+2023-2024,7,2023-09-02,Krasnodar,Spartak Moscow,2,0,1.0
+2023-2024,7,2023-09-03,Orenburg,Sochi,3,0,1.0
+2023-2024,7,2023-09-03,Loko Moscow,FC Baltika Kaliningrad,3,2,1.0
+2023-2024,7,2023-09-03,CSKA Moscow,Zenit,1,1,0.5
+2023-2024,7,2023-09-03,Rostov,Dynamo Mosc,1,2,0.0
+2023-2024,8,2023-09-15,Dynamo Mosc,Nizhny Novgorod,1,1,0.5
+2023-2024,8,2023-09-16,CSKA Moscow,Samara,2,2,0.5
+2023-2024,8,2023-09-16,Akhmat Grozny,Krasnodar,1,1,0.5
+2023-2024,8,2023-09-16,Spartak Moscow,Sochi,1,0,1.0
+2023-2024,8,2023-09-16,FC Baltika Kaliningrad,Rostov,2,2,0.5
+2023-2024,8,2023-09-17,Ural,Fakel Voronezh,0,0,0.5
+2023-2024,8,2023-09-17,Rubin Kazan,Zenit,0,3,0.0
+2023-2024,8,2023-09-17,Loko Moscow,Orenburg,0,2,0.0
+2023-2024,9,2023-09-23,Samara,Sochi,2,1,1.0
+2023-2024,9,2023-09-23,FC Baltika Kaliningrad,Akhmat Grozny,1,0,1.0
+2023-2024,9,2023-09-23,Spartak Moscow,Dynamo Mosc,1,0,1.0
+2023-2024,9,2023-09-24,Nizhny Novgorod,Orenburg,3,1,1.0
+2023-2024,9,2023-09-24,Zenit,Loko Moscow,1,2,0.0
+2023-2024,9,2023-09-24,Krasnodar,Ural,2,0,1.0
+2023-2024,9,2023-09-24,Rostov,CSKA Moscow,3,3,0.5
+2023-2024,9,2023-09-25,Fakel Voronezh,Rubin Kazan,0,1,0.0
+2023-2024,10,2023-09-29,Rostov,Ural,2,2,0.5
+2023-2024,10,2023-09-30,Orenburg,Zenit,3,1,1.0
+2023-2024,10,2023-09-30,Loko Moscow,Nizhny Novgorod,1,0,1.0
+2023-2024,10,2023-09-30,Rubin Kazan,Krasnodar,0,2,0.0
+2023-2024,10,2023-09-30,CSKA Moscow,FC Baltika Kaliningrad,1,0,1.0
+2023-2024,10,2023-10-01,Fakel Voronezh,Sochi,2,0,1.0
+2023-2024,10,2023-10-01,Samara,Spartak Moscow,4,0,1.0
+2023-2024,10,2023-10-01,Akhmat Grozny,Dynamo Mosc,1,1,0.5
+2023-2024,11,2023-10-07,Ural,Loko Moscow,2,2,0.5
+2023-2024,11,2023-10-07,Sochi,Zenit,0,2,0.0
+2023-2024,11,2023-10-07,FC Baltika Kaliningrad,Orenburg,1,0,1.0
+2023-2024,11,2023-10-07,Krasnodar,Rostov,3,2,1.0
+2023-2024,11,2023-10-08,Nizhny Novgorod,Samara,2,0,1.0
+2023-2024,11,2023-10-08,Dynamo Mosc,Fakel Voronezh,0,0,0.5
+2023-2024,11,2023-10-08,Spartak Moscow,CSKA Moscow,2,2,0.5
+2023-2024,11,2023-10-08,Akhmat Grozny,Rubin Kazan,0,1,0.0
+2023-2024,12,2023-10-21,Rubin Kazan,CSKA Moscow,0,0,0.5
+2023-2024,12,2023-10-21,Orenburg,Fakel Voronezh,1,2,0.0
+2023-2024,12,2023-10-21,Loko Moscow,Dynamo Mosc,0,0,0.5
+2023-2024,12,2023-10-21,FC Baltika Kaliningrad,Krasnodar,2,2,0.5
+2023-2024,12,2023-10-22,Ural,Sochi,1,4,0.0
+2023-2024,12,2023-10-22,Spartak Moscow,Nizhny Novgorod,2,0,1.0
+2023-2024,12,2023-10-22,Zenit,Samara,3,1,1.0
+2023-2024,12,2023-10-22,Rostov,Akhmat Grozny,3,0,1.0
+2023-2024,13,2023-10-27,Rubin Kazan,FC Baltika Kaliningrad,1,0,1.0
+2023-2024,13,2023-10-28,Fakel Voronezh,Spartak Moscow,2,0,1.0
+2023-2024,13,2023-10-28,Rostov,Loko Moscow,1,0,1.0
+2023-2024,13,2023-10-28,Samara,Orenburg,1,1,0.5
+2023-2024,13,2023-10-28,Zenit,Akhmat Grozny,2,1,1.0
+2023-2024,13,2023-10-29,Nizhny Novgorod,Sochi,1,0,1.0
+2023-2024,13,2023-10-29,Dynamo Mosc,Ural,2,1,1.0
+2023-2024,13,2023-10-29,CSKA Moscow,Krasnodar,1,0,1.0
+2023-2024,14,2023-11-04,Akhmat Grozny,Fakel Voronezh,1,2,0.0
+2023-2024,14,2023-11-04,FC Baltika Kaliningrad,Zenit,0,2,0.0
+2023-2024,14,2023-11-05,Krasnodar,Samara,2,1,1.0
+2023-2024,14,2023-11-05,CSKA Moscow,Nizhny Novgorod,3,2,1.0
+2023-2024,14,2023-11-05,Loko Moscow,Spartak Moscow,1,1,0.5
+2023-2024,14,2023-11-06,Orenburg,Rostov,1,1,0.5
+2023-2024,14,2023-11-06,Ural,Rubin Kazan,0,1,0.0
+2023-2024,14,2023-11-06,Sochi,Dynamo Mosc,3,3,0.5
+2023-2024,15,2023-11-11,Fakel Voronezh,CSKA Moscow,1,1,0.5
+2023-2024,15,2023-11-11,Samara,Ural,3,1,1.0
+2023-2024,15,2023-11-11,Loko Moscow,Akhmat Grozny,2,1,1.0
+2023-2024,15,2023-11-11,Zenit,Krasnodar,1,1,0.5
+2023-2024,15,2023-11-12,Nizhny Novgorod,FC Baltika Kaliningrad,0,0,0.5
+2023-2024,15,2023-11-12,Dynamo Mosc,Orenburg,2,0,1.0
+2023-2024,15,2023-11-12,Spartak Moscow,Rostov,2,1,1.0
+2023-2024,15,2023-11-12,Sochi,Rubin Kazan,0,2,0.0
+2023-2024,16,2023-11-25,Samara,Loko Moscow,3,3,0.5
+2023-2024,16,2023-11-25,Zenit,Sochi,3,0,1.0
+2023-2024,16,2023-11-25,CSKA Moscow,Dynamo Mosc,2,3,0.0
+2023-2024,16,2023-11-25,FC Baltika Kaliningrad,Spartak Moscow,0,2,0.0
+2023-2024,16,2023-11-26,Orenburg,Akhmat Grozny,1,1,0.5
+2023-2024,16,2023-11-26,Ural,Krasnodar,3,1,1.0
+2023-2024,16,2023-11-26,Rubin Kazan,Fakel Voronezh,1,0,1.0
+2023-2024,16,2023-11-26,Rostov,Nizhny Novgorod,1,0,1.0
+2023-2024,17,2023-12-02,Fakel Voronezh,FC Baltika Kaliningrad,0,0,0.5
+2023-2024,17,2023-12-02,Sochi,Samara,0,2,0.0
+2023-2024,17,2023-12-02,Nizhny Novgorod,Ural,1,0,1.0
+2023-2024,17,2023-12-03,CSKA Moscow,Rostov,2,0,1.0
+2023-2024,17,2023-12-03,Loko Moscow,Zenit,3,1,1.0
+2023-2024,17,2023-12-03,Krasnodar,Orenburg,2,1,1.0
+2023-2024,17,2023-12-03,Akhmat Grozny,Spartak Moscow,2,1,1.0
+2023-2024,17,2023-12-04,Dynamo Mosc,Rubin Kazan,1,0,1.0
+2023-2024,18,2023-12-08,Loko Moscow,Ural,2,0,1.0
+2023-2024,18,2023-12-09,Spartak Moscow,Samara,3,0,1.0
+2023-2024,18,2023-12-09,Akhmat Grozny,Rostov,0,0,0.5
+2023-2024,18,2023-12-09,Zenit,Nizhny Novgorod,1,0,1.0
+2023-2024,18,2023-12-10,Fakel Voronezh,Dynamo Mosc,1,1,0.5
+2023-2024,18,2023-12-10,Sochi,Orenburg,1,1,0.5
+2023-2024,18,2023-12-10,FC Baltika Kaliningrad,Rubin Kazan,0,1,0.0
+2023-2024,18,2023-12-10,Krasnodar,CSKA Moscow,1,0,1.0
+2023-2024,19,2024-03-01,Rostov,Samara,2,0,1.0
+2023-2024,19,2024-03-02,CSKA Moscow,Orenburg,1,1,0.5
+2023-2024,19,2024-03-02,Krasnodar,Rubin Kazan,1,1,0.5
+2023-2024,19,2024-03-02,Akhmat Grozny,Ural,1,0,1.0
+2023-2024,19,2024-03-02,Zenit,Spartak Moscow,0,0,0.5
+2023-2024,19,2024-03-03,Nizhny Novgorod,Fakel Voronezh,1,1,0.5
+2023-2024,19,2024-03-03,Dynamo Mosc,Loko Moscow,2,1,1.0
+2023-2024,19,2024-03-03,FC Baltika Kaliningrad,Sochi,0,0,0.5
+2023-2024,20,2024-03-08,Samara,CSKA Moscow,0,2,0.0
+2023-2024,20,2024-03-08,Rostov,Krasnodar,2,1,1.0
+2023-2024,20,2024-03-09,Ural,Zenit,1,4,0.0
+2023-2024,20,2024-03-09,Rubin Kazan,Nizhny Novgorod,0,1,0.0
+2023-2024,20,2024-03-09,Dynamo Mosc,Akhmat Grozny,2,0,1.0
+2023-2024,20,2024-03-10,Orenburg,FC Baltika Kaliningrad,1,0,1.0
+2023-2024,20,2024-03-10,Loko Moscow,Sochi,2,2,0.5
+2023-2024,20,2024-03-10,Spartak Moscow,Fakel Voronezh,0,2,0.0
+2023-2024,22,2024-03-29,Dynamo Mosc,Rostov,1,4,0.0
+2023-2024,22,2024-03-30,Samara,Zenit,1,1,0.5
+2023-2024,22,2024-03-30,FC Baltika Kaliningrad,Nizhny Novgorod,2,0,1.0
+2023-2024,22,2024-03-30,Sochi,CSKA Moscow,2,2,0.5
+2023-2024,22,2024-03-30,Spartak Moscow,Ural,0,0,0.5
+2023-2024,22,2024-03-31,Fakel Voronezh,Orenburg,0,0,0.5
+2023-2024,22,2024-03-31,Rubin Kazan,Akhmat Grozny,2,1,1.0
+2023-2024,22,2024-03-31,Loko Moscow,Krasnodar,1,1,0.5
+2023-2024,23,2024-04-06,Ural,Samara,1,2,0.0
+2023-2024,23,2024-04-06,Nizhny Novgorod,Krasnodar,3,4,0.0
+2023-2024,23,2024-04-06,Rostov,Sochi,2,2,0.5
+2023-2024,23,2024-04-07,CSKA Moscow,Fakel Voronezh,4,1,1.0
+2023-2024,23,2024-04-07,Zenit,FC Baltika Kaliningrad,1,0,1.0
+2023-2024,23,2024-04-07,Akhmat Grozny,Loko Moscow,0,2,0.0
+2023-2024,23,2024-04-07,Dynamo Mosc,Spartak Moscow,1,2,0.0
+2023-2024,23,2024-04-08,Orenburg,Rubin Kazan,3,0,1.0
+2023-2024,24,2024-04-13,Sochi,Spartak Moscow,1,0,1.0
+2023-2024,24,2024-04-13,Akhmat Grozny,FC Baltika Kaliningrad,1,7,0.0
+2023-2024,24,2024-04-13,Krasnodar,Zenit,1,2,0.0
+2023-2024,24,2024-04-13,Loko Moscow,CSKA Moscow,3,3,0.5
+2023-2024,24,2024-04-14,Orenburg,Nizhny Novgorod,3,1,1.0
+2023-2024,24,2024-04-14,Ural,Dynamo Mosc,2,1,1.0
+2023-2024,24,2024-04-14,Fakel Voronezh,Rostov,0,1,0.0
+2023-2024,24,2024-04-14,Samara,Rubin Kazan,2,0,1.0
+2023-2024,25,2024-04-19,Krasnodar,Fakel Voronezh,2,0,1.0
+2023-2024,25,2024-04-20,Rubin Kazan,Loko Moscow,1,1,0.5
+2023-2024,25,2024-04-20,FC Baltika Kaliningrad,Samara,2,1,1.0
+2023-2024,25,2024-04-20,CSKA Moscow,Akhmat Grozny,1,2,0.0
+2023-2024,25,2024-04-21,Nizhny Novgorod,Dynamo Mosc,1,4,0.0
+2023-2024,25,2024-04-21,Zenit,Orenburg,1,0,1.0
+2023-2024,25,2024-04-21,Sochi,Ural,2,2,0.5
+2023-2024,25,2024-04-21,Rostov,Spartak Moscow,1,5,0.0
+2023-2024,21,2024-04-24,Orenburg,Dynamo Mosc,1,2,0.0
+2023-2024,21,2024-04-24,Nizhny Novgorod,Loko Moscow,2,3,0.0
+2023-2024,21,2024-04-24,Zenit,Rubin Kazan,0,2,0.0
+2023-2024,21,2024-04-24,Krasnodar,FC Baltika Kaliningrad,3,2,1.0
+2023-2024,21,2024-04-25,Ural,Rostov,0,1,0.0
+2023-2024,21,2024-04-25,Fakel Voronezh,Samara,0,1,0.0
+2023-2024,21,2024-04-25,Akhmat Grozny,Sochi,1,0,1.0
+2023-2024,21,2024-04-25,CSKA Moscow,Spartak Moscow,0,0,0.5
+2023-2024,26,2024-04-28,Akhmat Grozny,Nizhny Novgorod,5,1,1.0
+2023-2024,26,2024-04-28,Spartak Moscow,Loko Moscow,3,2,1.0
+2023-2024,26,2024-04-28,Dynamo Mosc,Zenit,1,0,1.0
+2023-2024,26,2024-04-28,FC Baltika Kaliningrad,CSKA Moscow,3,1,1.0
+2023-2024,26,2024-04-29,Samara,Krasnodar,0,0,0.5
+2023-2024,26,2024-04-29,Rubin Kazan,Ural,1,1,0.5
+2023-2024,26,2024-04-29,Sochi,Fakel Voronezh,0,0,0.5
+2023-2024,26,2024-04-29,Rostov,Orenburg,2,1,1.0
+2023-2024,27,2024-05-04,Orenburg,Samara,2,1,1.0
+2023-2024,27,2024-05-04,Krasnodar,Akhmat Grozny,0,1,0.0
+2023-2024,27,2024-05-05,Dynamo Mosc,Sochi,3,2,1.0
+2023-2024,27,2024-05-05,Nizhny Novgorod,Spartak Moscow,0,0,0.5
+2023-2024,27,2024-05-06,Ural,FC Baltika Kaliningrad,2,1,1.0
+2023-2024,27,2024-05-06,Fakel Voronezh,Zenit,1,1,0.5
+2023-2024,27,2024-05-06,CSKA Moscow,Rubin Kazan,2,2,0.5
+2023-2024,27,2024-05-06,Loko Moscow,Rostov,1,0,1.0
+2023-2024,28,2024-05-10,Samara,Akhmat Grozny,0,2,0.0
+2023-2024,28,2024-05-11,Rubin Kazan,Rostov,3,1,1.0
+2023-2024,28,2024-05-11,Spartak Moscow,Krasnodar,1,0,1.0
+2023-2024,28,2024-05-11,Zenit,CSKA Moscow,0,1,0.0
+2023-2024,28,2024-05-11,FC Baltika Kaliningrad,Dynamo Mosc,2,3,0.0
+2023-2024,28,2024-05-12,Orenburg,Loko Moscow,0,2,0.0
+2023-2024,28,2024-05-12,Fakel Voronezh,Ural,0,0,0.5
+2023-2024,28,2024-05-12,Sochi,Nizhny Novgorod,6,1,1.0
+2023-2024,29,2024-05-18,Dynamo Mosc,Samara,4,1,1.0
+2023-2024,29,2024-05-18,Loko Moscow,Fakel Voronezh,2,0,1.0
+2023-2024,29,2024-05-18,Sochi,Krasnodar,2,3,0.0
+2023-2024,29,2024-05-19,Ural,Orenburg,3,3,0.5
+2023-2024,29,2024-05-19,Spartak Moscow,Rubin Kazan,3,1,1.0
+2023-2024,29,2024-05-19,Rostov,FC Baltika Kaliningrad,2,1,1.0
+2023-2024,29,2024-05-19,Akhmat Grozny,Zenit,1,5,0.0
+2023-2024,29,2024-05-20,Nizhny Novgorod,CSKA Moscow,2,6,0.0
+2023-2024,30,2024-05-25,FC Baltika Kaliningrad,Loko Moscow,1,3,0.0
+2023-2024,30,2024-05-25,Rubin Kazan,Sochi,1,1,0.5
+2023-2024,30,2024-05-25,Fakel Voronezh,Akhmat Grozny,2,0,1.0
+2023-2024,30,2024-05-25,Krasnodar,Dynamo Mosc,1,0,1.0
+2023-2024,30,2024-05-25,CSKA Moscow,Ural,2,0,1.0
+2023-2024,30,2024-05-25,Zenit,Rostov,2,1,1.0
+2023-2024,30,2024-05-25,Samara,Nizhny Novgorod,1,1,0.5
+2023-2024,30,2024-05-25,Orenburg,Spartak Moscow,0,0,0.5

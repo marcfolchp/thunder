@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1957-1958,1,1957-08-24,Sunderland,Arsenal,0,1,0.0
+1957-1958,1,1957-08-24,Blackpool,Leeds United,3,0,1.0
+1957-1958,1,1957-08-24,Birmingham City,Aston Villa,3,1,1.0
+1957-1958,1,1957-08-24,Everton,Wolves,1,0,1.0
+1957-1958,1,1957-08-24,West Brom,Newcastle Utd,2,1,1.0
+1957-1958,1,1957-08-24,Luton Town,Bolton,1,0,1.0
+1957-1958,1,1957-08-24,Tottenham,Chelsea,1,1,0.5
+1957-1958,1,1957-08-24,Portsmouth,Burnley,0,0,0.5
+1957-1958,1,1957-08-24,Leicester City,Manchester Utd,0,3,0.0
+1957-1958,1,1957-08-24,Nott'ham Forest,Preston,2,1,1.0
+1957-1958,2,1957-08-26,Aston Villa,Leeds United,2,0,1.0
+1957-1958,2,1957-08-26,Blackpool,Luton Town,1,2,0.0
+1957-1958,2,1957-08-27,Arsenal,West Brom,2,2,0.5
+1957-1958,2,1957-08-27,Burnley,Preston,2,0,1.0
+1957-1958,2,1957-08-28,Portsmouth,Tottenham,5,1,1.0
+1957-1958,2,1957-08-28,Leicester City,Sunderland,4,1,1.0
+1957-1958,2,1957-08-28,Wolves,Bolton,6,1,1.0
+1957-1958,2,1957-08-28,Chelsea,Manchester City,2,3,0.0
+1957-1958,2,1957-08-28,Manchester Utd,Everton,3,0,1.0
+1957-1958,2,1957-08-28,Nott'ham Forest,Birmingham City,1,1,0.5
+1957-1958,3,1957-08-31,Leeds United,Leicester City,2,1,1.0
+1957-1958,3,1957-08-31,Arsenal,Luton Town,2,0,1.0
+1957-1958,3,1957-08-31,Burnley,West Brom,2,2,0.5
+1957-1958,3,1957-08-31,Newcastle Utd,Tottenham,3,1,1.0
+1957-1958,3,1957-08-31,Wolves,Sunderland,5,0,1.0
+1957-1958,3,1957-08-31,Sheffield Weds,Nott'ham Forest,1,2,0.0
+1957-1958,3,1957-08-31,Manchester Utd,Manchester City,4,1,1.0
+1957-1958,3,1957-08-31,Bolton,Blackpool,3,0,1.0
+1957-1958,3,1957-08-31,Aston Villa,Everton,0,1,0.0
+1957-1958,3,1957-08-31,Chelsea,Birmingham City,5,1,1.0
+1957-1958,3,1957-08-31,Preston,Portsmouth,4,0,1.0
+1957-1958,4,1957-09-04,Leeds United,Aston Villa,4,0,1.0
+1957-1958,4,1957-09-04,Luton Town,Blackpool,2,0,1.0
+1957-1958,4,1957-09-04,Birmingham City,Nott'ham Forest,0,2,0.0
+1957-1958,4,1957-09-04,Manchester City,Chelsea,5,2,1.0
+1957-1958,4,1957-09-04,Everton,Manchester Utd,3,3,0.5
+1957-1958,4,1957-09-04,Sunderland,Leicester City,3,2,1.0
+1957-1958,4,1957-09-04,Tottenham,Portsmouth,3,5,0.0
+1957-1958,4,1957-09-04,West Brom,Arsenal,1,2,0.0
+1957-1958,4,1957-09-04,Preston,Burnley,2,1,1.0
+1957-1958,4,1957-09-04,Bolton,Wolves,1,1,0.5
+1957-1958,4,1957-09-04,Sheffield Weds,Newcastle Utd,1,0,1.0
+1957-1958,5,1957-09-07,Nott'ham Forest,Manchester City,2,1,1.0
+1957-1958,5,1957-09-07,Portsmouth,Sheffield Weds,3,2,1.0
+1957-1958,5,1957-09-07,Birmingham City,Newcastle Utd,1,4,0.0
+1957-1958,5,1957-09-07,Luton Town,Wolves,3,1,1.0
+1957-1958,5,1957-09-07,Tottenham,Burnley,3,1,1.0
+1957-1958,5,1957-09-07,Everton,Chelsea,3,0,1.0
+1957-1958,5,1957-09-07,Manchester Utd,Leeds United,5,0,1.0
+1957-1958,5,1957-09-07,Leicester City,Bolton,2,3,0.0
+1957-1958,5,1957-09-07,Sunderland,Aston Villa,1,1,0.5
+1957-1958,5,1957-09-07,Blackpool,Arsenal,1,0,1.0
+1957-1958,5,1957-09-07,West Brom,Preston,4,1,1.0
+1957-1958,6,1957-09-09,Burnley,Nott'ham Forest,3,1,1.0
+1957-1958,6,1957-09-09,Blackpool,Manchester Utd,1,4,0.0
+1957-1958,1,1957-09-10,Manchester City,Sheffield Weds,2,0,1.0
+1957-1958,6,1957-09-10,Arsenal,Everton,2,3,0.0
+1957-1958,6,1957-09-11,Sheffield Weds,Leicester City,2,1,1.0
+1957-1958,6,1957-09-11,Chelsea,West Brom,2,2,0.5
+1957-1958,6,1957-09-11,Leeds United,Luton Town,0,2,0.0
+1957-1958,6,1957-09-11,Bolton,Sunderland,2,2,0.5
+1957-1958,6,1957-09-11,Newcastle Utd,Portsmouth,2,0,1.0
+1957-1958,6,1957-09-11,Manchester City,Preston,2,0,1.0
+1957-1958,6,1957-09-11,Birmingham City,Tottenham,0,0,0.5
+1957-1958,7,1957-09-14,Manchester City,Portsmouth,2,1,1.0
+1957-1958,7,1957-09-14,Wolves,Blackpool,3,1,1.0
+1957-1958,7,1957-09-14,Leeds United,Nott'ham Forest,1,2,0.0
+1957-1958,7,1957-09-14,Everton,Sunderland,3,1,1.0
+1957-1958,7,1957-09-14,Newcastle Utd,Chelsea,1,3,0.0
+1957-1958,7,1957-09-14,Burnley,Birmingham City,3,1,1.0
+1957-1958,7,1957-09-14,Arsenal,Leicester City,3,1,1.0
+1957-1958,7,1957-09-14,Bolton,Manchester Utd,4,0,1.0
+1957-1958,7,1957-09-14,Sheffield Weds,West Brom,1,2,0.0
+1957-1958,7,1957-09-14,Preston,Tottenham,3,1,1.0
+1957-1958,7,1957-09-14,Aston Villa,Luton Town,2,0,1.0
+1957-1958,8,1957-09-16,Wolves,Aston Villa,2,1,1.0
+1957-1958,8,1957-09-18,Manchester Utd,Blackpool,1,2,0.0
+1957-1958,8,1957-09-18,Tottenham,Birmingham City,7,1,1.0
+1957-1958,8,1957-09-18,Portsmouth,Newcastle Utd,2,2,0.5
+1957-1958,8,1957-09-18,Preston,Manchester City,6,1,1.0
+1957-1958,8,1957-09-18,Luton Town,Leeds United,1,1,0.5
+1957-1958,8,1957-09-18,Sunderland,Bolton,1,2,0.0
+1957-1958,8,1957-09-18,Leicester City,Sheffield Weds,4,1,1.0
+1957-1958,8,1957-09-18,Nott'ham Forest,Burnley,7,0,1.0
+1957-1958,8,1957-09-18,West Brom,Chelsea,1,1,0.5
+1957-1958,9,1957-09-21,West Brom,Manchester City,9,2,1.0
+1957-1958,9,1957-09-21,Leicester City,Wolves,2,3,0.0
+1957-1958,9,1957-09-21,Tottenham,Sheffield Weds,4,2,1.0
+1957-1958,9,1957-09-21,Leeds United,Bolton,2,1,1.0
+1957-1958,9,1957-09-21,Blackpool,Aston Villa,1,1,0.5
+1957-1958,9,1957-09-21,Birmingham City,Preston,3,1,1.0
+1957-1958,9,1957-09-21,Sunderland,Newcastle Utd,2,0,1.0
+1957-1958,9,1957-09-21,Chelsea,Burnley,6,1,1.0
+1957-1958,9,1957-09-21,Portsmouth,Nott'ham Forest,1,4,0.0
+1957-1958,9,1957-09-21,Manchester Utd,Arsenal,4,2,1.0
+1957-1958,9,1957-09-21,Luton Town,Everton,0,1,0.0
+1957-1958,6,1957-09-23,Aston Villa,Wolves,2,3,0.0
+1957-1958,2,1957-09-25,Newcastle Utd,Sheffield Weds,0,0,0.5
+1957-1958,23,1957-09-25,Leeds United,Sunderland,2,1,1.0
+1957-1958,10,1957-09-28,Nott'ham Forest,West Brom,0,2,0.0
+1957-1958,10,1957-09-28,Manchester City,Tottenham,5,1,1.0
+1957-1958,10,1957-09-28,Arsenal,Leeds United,2,1,1.0
+1957-1958,10,1957-09-28,Bolton,Portsmouth,1,0,1.0
+1957-1958,10,1957-09-28,Aston Villa,Leicester City,5,1,1.0
+1957-1958,10,1957-09-28,Burnley,Newcastle Utd,0,2,0.0
+1957-1958,10,1957-09-28,Wolves,Manchester Utd,3,1,1.0
+1957-1958,10,1957-09-28,Sunderland,Luton Town,3,0,1.0
+1957-1958,10,1957-09-28,Sheffield Weds,Birmingham City,5,3,1.0
+1957-1958,10,1957-09-28,Preston,Chelsea,5,2,1.0
+1957-1958,23,1957-10-01,West Brom,Birmingham City,0,0,0.5
+1957-1958,23,1957-10-02,Arsenal,Aston Villa,4,0,1.0
+1957-1958,23,1957-10-02,Wolves,Tottenham,4,0,1.0
+1957-1958,11,1957-10-05,Leicester City,Everton,2,2,0.5
+1957-1958,11,1957-10-05,Luton Town,Burnley,3,2,1.0
+1957-1958,11,1957-10-05,Chelsea,Sheffield Weds,1,0,1.0
+1957-1958,11,1957-10-05,Bolton,Arsenal,0,1,0.0
+1957-1958,11,1957-10-05,Leeds United,Wolves,1,1,0.5
+1957-1958,11,1957-10-05,Blackpool,Sunderland,7,0,1.0
+1957-1958,11,1957-10-05,Newcastle Utd,Preston,0,2,0.0
+1957-1958,11,1957-10-05,Tottenham,Nott'ham Forest,3,4,0.0
+1957-1958,11,1957-10-05,West Brom,Portsmouth,3,1,1.0
+1957-1958,11,1957-10-05,Manchester Utd,Aston Villa,4,1,1.0
+1957-1958,11,1957-10-05,Birmingham City,Manchester City,4,0,1.0
+1957-1958,12,1957-10-12,Tottenham,Arsenal,3,1,1.0
+1957-1958,12,1957-10-12,Portsmouth,Leeds United,1,2,0.0
+1957-1958,12,1957-10-12,Newcastle Utd,Everton,2,3,0.0
+1957-1958,12,1957-10-12,West Brom,Bolton,2,2,0.5
+1957-1958,12,1957-10-12,Birmingham City,Wolves,1,5,0.0
+1957-1958,12,1957-10-12,Burnley,Sunderland,6,0,1.0
+1957-1958,12,1957-10-12,Preston,Luton Town,1,0,1.0
+1957-1958,12,1957-10-12,Chelsea,Aston Villa,4,2,1.0
+1957-1958,12,1957-10-12,Sheffield Weds,Blackpool,0,3,0.0
+1957-1958,12,1957-10-12,Manchester City,Leicester City,4,3,1.0
+1957-1958,12,1957-10-12,Nott'ham Forest,Manchester Utd,1,2,0.0
+1957-1958,8,1957-10-16,Everton,Arsenal,2,2,0.5
+1957-1958,13,1957-10-19,Bolton,Tottenham,3,2,1.0
+1957-1958,13,1957-10-19,Wolves,Chelsea,2,1,1.0
+1957-1958,13,1957-10-19,Leeds United,West Brom,1,1,0.5
+1957-1958,13,1957-10-19,Blackpool,Manchester City,2,5,0.0
+1957-1958,13,1957-10-19,Aston Villa,Newcastle Utd,4,3,1.0
+1957-1958,13,1957-10-19,Sunderland,Preston,0,0,0.5
+1957-1958,13,1957-10-19,Luton Town,Sheffield Weds,2,0,1.0
+1957-1958,13,1957-10-19,Leicester City,Nott'ham Forest,3,1,1.0
+1957-1958,13,1957-10-19,Everton,Burnley,1,1,0.5
+1957-1958,13,1957-10-19,Arsenal,Birmingham City,1,3,0.0
+1957-1958,13,1957-10-19,Manchester Utd,Portsmouth,0,3,0.0
+1957-1958,14,1957-10-26,Manchester City,Luton Town,2,2,0.5
+1957-1958,14,1957-10-26,Newcastle Utd,Wolves,1,1,0.5
+1957-1958,14,1957-10-26,Nott'ham Forest,Blackpool,1,2,0.0
+1957-1958,14,1957-10-26,Birmingham City,Bolton,5,1,1.0
+1957-1958,14,1957-10-26,West Brom,Manchester Utd,4,3,1.0
+1957-1958,14,1957-10-26,Preston,Everton,3,1,1.0
+1957-1958,14,1957-10-26,Portsmouth,Leicester City,2,0,1.0
+1957-1958,14,1957-10-26,Tottenham,Leeds United,2,0,1.0
+1957-1958,14,1957-10-26,Chelsea,Arsenal,0,0,0.5
+1957-1958,14,1957-10-26,Burnley,Aston Villa,3,0,1.0
+1957-1958,14,1957-10-26,Sheffield Weds,Sunderland,3,3,0.5
+1957-1958,15,1957-11-02,Blackpool,Chelsea,2,1,1.0
+1957-1958,15,1957-11-02,Luton Town,Birmingham City,3,0,1.0
+1957-1958,15,1957-11-02,Wolves,Nott'ham Forest,2,0,1.0
+1957-1958,15,1957-11-02,Arsenal,Manchester City,2,1,1.0
+1957-1958,15,1957-11-02,Aston Villa,Portsmouth,2,1,1.0
+1957-1958,15,1957-11-02,Everton,West Brom,1,1,0.5
+1957-1958,15,1957-11-02,Leeds United,Preston,2,3,0.0
+1957-1958,15,1957-11-02,Sunderland,Tottenham,1,1,0.5
+1957-1958,15,1957-11-02,Manchester Utd,Burnley,1,0,1.0
+1957-1958,15,1957-11-02,Leicester City,Newcastle Utd,2,1,1.0
+1957-1958,15,1957-11-02,Bolton,Sheffield Weds,5,4,1.0
+1957-1958,16,1957-11-09,Preston,Manchester Utd,1,1,0.5
+1957-1958,16,1957-11-09,Tottenham,Everton,3,1,1.0
+1957-1958,16,1957-11-09,Sheffield Weds,Leeds United,3,2,1.0
+1957-1958,16,1957-11-09,West Brom,Aston Villa,3,2,1.0
+1957-1958,16,1957-11-09,Burnley,Leicester City,7,3,1.0
+1957-1958,16,1957-11-09,Nott'ham Forest,Arsenal,4,0,1.0
+1957-1958,16,1957-11-09,Newcastle Utd,Blackpool,1,2,0.0
+1957-1958,16,1957-11-09,Birmingham City,Sunderland,2,3,0.0
+1957-1958,16,1957-11-09,Portsmouth,Wolves,1,1,0.5
+1957-1958,16,1957-11-09,Manchester City,Bolton,2,1,1.0
+1957-1958,16,1957-11-09,Chelsea,Luton Town,1,3,0.0
+1957-1958,17,1957-11-16,Manchester Utd,Sheffield Weds,2,1,1.0
+1957-1958,17,1957-11-16,Leicester City,Preston,1,3,0.0
+1957-1958,17,1957-11-16,Luton Town,Newcastle Utd,0,3,0.0
+1957-1958,17,1957-11-16,Wolves,West Brom,1,1,0.5
+1957-1958,17,1957-11-16,Sunderland,Chelsea,2,2,0.5
+1957-1958,17,1957-11-16,Aston Villa,Tottenham,1,1,0.5
+1957-1958,17,1957-11-16,Arsenal,Portsmouth,3,2,1.0
+1957-1958,17,1957-11-16,Bolton,Nott'ham Forest,2,0,1.0
+1957-1958,17,1957-11-16,Leeds United,Manchester City,2,4,0.0
+1957-1958,17,1957-11-16,Everton,Birmingham City,0,2,0.0
+1957-1958,17,1957-11-16,Blackpool,Burnley,2,4,0.0
+1957-1958,10,1957-11-20,Everton,Blackpool,0,0,0.5
+1957-1958,18,1957-11-23,Manchester City,Wolves,3,4,0.0
+1957-1958,18,1957-11-23,Newcastle Utd,Manchester Utd,1,2,0.0
+1957-1958,18,1957-11-23,Tottenham,Luton Town,3,1,1.0
+1957-1958,18,1957-11-23,Nott'ham Forest,Aston Villa,4,1,1.0
+1957-1958,18,1957-11-23,Burnley,Leeds United,3,1,1.0
+1957-1958,18,1957-11-23,Chelsea,Leicester City,4,0,1.0
+1957-1958,18,1957-11-23,Portsmouth,Everton,3,2,1.0
+1957-1958,18,1957-11-23,Birmingham City,Blackpool,0,0,0.5
+1957-1958,18,1957-11-23,Preston,Bolton,3,0,1.0
+1957-1958,18,1957-11-23,West Brom,Sunderland,3,0,1.0
+1957-1958,18,1957-11-23,Sheffield Weds,Arsenal,2,0,1.0
+1957-1958,19,1957-11-30,Leicester City,West Brom,3,3,0.5
+1957-1958,19,1957-11-30,Leeds United,Birmingham City,1,1,0.5
+1957-1958,19,1957-11-30,Bolton,Chelsea,3,3,0.5
+1957-1958,19,1957-11-30,Blackpool,Portsmouth,2,1,1.0
+1957-1958,19,1957-11-30,Everton,Sheffield Weds,1,1,0.5
+1957-1958,19,1957-11-30,Arsenal,Newcastle Utd,2,3,0.0
+1957-1958,19,1957-11-30,Sunderland,Manchester City,2,1,1.0
+1957-1958,19,1957-11-30,Luton Town,Nott'ham Forest,3,1,1.0
+1957-1958,19,1957-11-30,Aston Villa,Preston,2,2,0.5
+1957-1958,19,1957-11-30,Wolves,Burnley,2,1,1.0
+1957-1958,19,1957-11-30,Manchester Utd,Tottenham,3,4,0.0
+1957-1958,20,1957-12-07,Manchester City,Everton,6,2,1.0
+1957-1958,20,1957-12-07,West Brom,Blackpool,1,1,0.5
+1957-1958,20,1957-12-07,Portsmouth,Luton Town,5,0,1.0
+1957-1958,20,1957-12-07,Birmingham City,Manchester Utd,3,3,0.5
+1957-1958,20,1957-12-07,Newcastle Utd,Bolton,1,2,0.0
+1957-1958,20,1957-12-07,Preston,Wolves,1,2,0.0
+1957-1958,20,1957-12-07,Tottenham,Leicester City,1,4,0.0
+1957-1958,20,1957-12-07,Chelsea,Leeds United,2,1,1.0
+1957-1958,20,1957-12-07,Burnley,Arsenal,2,1,1.0
+1957-1958,20,1957-12-07,Nott'ham Forest,Sunderland,2,0,1.0
+1957-1958,20,1957-12-07,Sheffield Weds,Aston Villa,2,5,0.0
+1957-1958,21,1957-12-14,Aston Villa,Manchester City,1,2,0.0
+1957-1958,21,1957-12-14,Everton,Nott'ham Forest,1,1,0.5
+1957-1958,21,1957-12-14,Leeds United,Newcastle Utd,3,0,1.0
+1957-1958,21,1957-12-14,Wolves,Sheffield Weds,4,3,1.0
+1957-1958,21,1957-12-14,Luton Town,West Brom,5,1,1.0
+1957-1958,21,1957-12-14,Arsenal,Preston,4,2,1.0
+1957-1958,21,1957-12-14,Blackpool,Tottenham,0,2,0.0
+1957-1958,21,1957-12-14,Manchester Utd,Chelsea,0,1,0.0
+1957-1958,21,1957-12-14,Sunderland,Portsmouth,1,1,0.5
+1957-1958,21,1957-12-14,Leicester City,Birmingham City,2,2,0.5
+1957-1958,21,1957-12-14,Bolton,Burnley,2,1,1.0
+1957-1958,22,1957-12-21,Arsenal,Sunderland,3,0,1.0
+1957-1958,22,1957-12-21,Preston,Nott'ham Forest,2,0,1.0
+1957-1958,22,1957-12-21,Bolton,Luton Town,1,2,0.0
+1957-1958,22,1957-12-21,Manchester Utd,Leicester City,4,0,1.0
+1957-1958,22,1957-12-21,Chelsea,Tottenham,2,4,0.0
+1957-1958,22,1957-12-21,Burnley,Portsmouth,3,1,1.0
+1957-1958,22,1957-12-21,Aston Villa,Birmingham City,0,2,0.0
+1957-1958,22,1957-12-21,Sheffield Weds,Manchester City,4,5,0.0
+1957-1958,22,1957-12-21,Leeds United,Blackpool,2,1,1.0
+1957-1958,22,1957-12-21,Wolves,Everton,2,0,1.0
+1957-1958,22,1957-12-21,Newcastle Utd,West Brom,3,0,1.0
+1957-1958,23,1957-12-25,Newcastle Utd,Nott'ham Forest,1,4,0.0
+1957-1958,23,1957-12-25,Chelsea,Portsmouth,7,4,1.0
+1957-1958,23,1957-12-25,Everton,Bolton,1,1,0.5
+1957-1958,23,1957-12-25,Blackpool,Leicester City,5,1,1.0
+1957-1958,23,1957-12-25,Burnley,Manchester City,2,1,1.0
+1957-1958,23,1957-12-25,Manchester Utd,Luton Town,3,0,1.0
+1957-1958,23,1957-12-25,Sheffield Weds,Preston,4,4,0.5
+1957-1958,24,1957-12-26,Aston Villa,Arsenal,3,0,1.0
+1957-1958,24,1957-12-26,Luton Town,Manchester Utd,2,2,0.5
+1957-1958,24,1957-12-26,Tottenham,Wolves,1,0,1.0
+1957-1958,24,1957-12-26,Bolton,Everton,1,5,0.0
+1957-1958,24,1957-12-26,Nott'ham Forest,Newcastle Utd,2,3,0.0
+1957-1958,24,1957-12-26,Leicester City,Blackpool,2,1,1.0
+1957-1958,24,1957-12-26,Preston,Sheffield Weds,3,0,1.0
+1957-1958,24,1957-12-26,Portsmouth,Chelsea,3,0,1.0
+1957-1958,24,1957-12-26,Birmingham City,West Brom,3,5,0.0
+1957-1958,24,1957-12-26,Manchester City,Burnley,4,1,1.0
+1957-1958,24,1957-12-26,Sunderland,Leeds United,2,1,1.0
+1957-1958,25,1957-12-28,Nott'ham Forest,Sheffield Weds,5,2,1.0
+1957-1958,25,1957-12-28,Sunderland,Wolves,0,2,0.0
+1957-1958,25,1957-12-28,Portsmouth,Preston,0,2,0.0
+1957-1958,25,1957-12-28,West Brom,Burnley,5,1,1.0
+1957-1958,25,1957-12-28,Blackpool,Bolton,2,3,0.0
+1957-1958,25,1957-12-28,Manchester City,Manchester Utd,2,2,0.5
+1957-1958,25,1957-12-28,Everton,Aston Villa,1,2,0.0
+1957-1958,25,1957-12-28,Tottenham,Newcastle Utd,3,3,0.5
+1957-1958,25,1957-12-28,Leicester City,Leeds United,3,0,1.0
+1957-1958,25,1957-12-28,Birmingham City,Chelsea,3,3,0.5
+1957-1958,25,1957-12-28,Luton Town,Arsenal,4,0,1.0
+1957-1958,26,1958-01-11,Arsenal,Blackpool,2,3,0.0
+1957-1958,26,1958-01-11,Sheffield Weds,Portsmouth,4,2,1.0
+1957-1958,26,1958-01-11,Preston,West Brom,3,1,1.0
+1957-1958,26,1958-01-11,Burnley,Tottenham,2,0,1.0
+1957-1958,26,1958-01-11,Bolton,Leicester City,2,3,0.0
+1957-1958,26,1958-01-11,Leeds United,Manchester Utd,1,1,0.5
+1957-1958,26,1958-01-11,Aston Villa,Sunderland,5,2,1.0
+1957-1958,26,1958-01-11,Manchester City,Nott'ham Forest,1,1,0.5
+1957-1958,26,1958-01-11,Chelsea,Everton,3,1,1.0
+1957-1958,26,1958-01-11,Wolves,Luton Town,1,1,0.5
+1957-1958,26,1958-01-11,Newcastle Utd,Birmingham City,1,2,0.0
+1957-1958,27,1958-01-18,West Brom,Sheffield Weds,3,1,1.0
+1957-1958,27,1958-01-18,Tottenham,Preston,3,3,0.5
+1957-1958,27,1958-01-18,Sunderland,Everton,1,1,0.5
+1957-1958,27,1958-01-18,Chelsea,Newcastle Utd,2,1,1.0
+1957-1958,27,1958-01-18,Blackpool,Wolves,3,2,1.0
+1957-1958,27,1958-01-18,Luton Town,Aston Villa,3,0,1.0
+1957-1958,27,1958-01-18,Manchester Utd,Bolton,7,2,1.0
+1957-1958,27,1958-01-18,Birmingham City,Burnley,2,3,0.0
+1957-1958,27,1958-01-18,Nott'ham Forest,Leeds United,1,1,0.5
+1957-1958,27,1958-01-18,Leicester City,Arsenal,0,1,0.0
+1957-1958,27,1958-01-18,Portsmouth,Manchester City,2,1,1.0
+1957-1958,28,1958-02-01,Sheffield Weds,Tottenham,2,0,1.0
+1957-1958,28,1958-02-01,Preston,Birmingham City,8,0,1.0
+1957-1958,28,1958-02-01,Manchester City,West Brom,4,1,1.0
+1957-1958,28,1958-02-01,Wolves,Leicester City,5,1,1.0
+1957-1958,28,1958-02-01,Newcastle Utd,Sunderland,2,2,0.5
+1957-1958,28,1958-02-01,Aston Villa,Blackpool,1,1,0.5
+1957-1958,28,1958-02-01,Everton,Luton Town,0,2,0.0
+1957-1958,28,1958-02-01,Burnley,Chelsea,2,1,1.0
+1957-1958,28,1958-02-01,Bolton,Leeds United,0,2,0.0
+1957-1958,28,1958-02-01,Nott'ham Forest,Portsmouth,2,0,1.0
+1957-1958,28,1958-02-01,Arsenal,Manchester Utd,4,5,0.0
+1957-1958,29,1958-02-08,Chelsea,Preston,0,2,0.0
+1957-1958,29,1958-02-08,Luton Town,Sunderland,7,1,1.0
+1957-1958,29,1958-02-08,Portsmouth,Bolton,2,2,0.5
+1957-1958,29,1958-02-08,Leicester City,Aston Villa,6,1,1.0
+1957-1958,29,1958-02-08,West Brom,Nott'ham Forest,3,2,1.0
+1957-1958,29,1958-02-08,Tottenham,Manchester City,5,1,1.0
+1957-1958,30,1958-02-15,Sunderland,Blackpool,1,4,0.0
+1957-1958,30,1958-02-15,Nott'ham Forest,Tottenham,1,2,0.0
+1957-1958,30,1958-02-15,Sheffield Weds,Chelsea,2,3,0.0
+1957-1958,30,1958-02-15,Burnley,Luton Town,1,2,0.0
+1957-1958,30,1958-02-15,Everton,Leicester City,2,2,0.5
+1957-1958,30,1958-02-18,Arsenal,Bolton,1,2,0.0
+1957-1958,30,1958-02-19,Wolves,Leeds United,3,2,1.0
+1957-1958,31,1958-02-22,Blackpool,Sheffield Weds,2,2,0.5
+1957-1958,31,1958-02-22,Arsenal,Tottenham,4,4,0.5
+1957-1958,31,1958-02-22,Leeds United,Portsmouth,2,0,1.0
+1957-1958,31,1958-02-22,Aston Villa,Chelsea,1,3,0.0
+1957-1958,31,1958-02-22,Manchester Utd,Nott'ham Forest,1,1,0.5
+1957-1958,31,1958-02-22,Sunderland,Burnley,2,3,0.0
+1957-1958,31,1958-02-22,Everton,Newcastle Utd,1,2,0.0
+1957-1958,31,1958-02-22,Luton Town,Preston,1,3,0.0
+1957-1958,31,1958-02-22,Wolves,Birmingham City,5,1,1.0
+1957-1958,31,1958-02-22,Bolton,West Brom,2,2,0.5
+1957-1958,31,1958-02-22,Leicester City,Manchester City,8,4,1.0
+1957-1958,32,1958-03-01,Sheffield Weds,Luton Town,2,1,1.0
+1957-1958,32,1958-03-01,Newcastle Utd,Aston Villa,2,4,0.0
+1957-1958,32,1958-03-01,Manchester City,Blackpool,4,3,1.0
+1957-1958,32,1958-03-01,Birmingham City,Arsenal,4,1,1.0
+1957-1958,32,1958-03-01,Burnley,Everton,0,2,0.0
+1957-1958,32,1958-03-01,Nott'ham Forest,Leicester City,3,1,1.0
+1957-1958,32,1958-03-01,Preston,Sunderland,3,0,1.0
+1957-1958,30,1958-03-05,Manchester City,Birmingham City,1,1,0.5
+1957-1958,33,1958-03-08,Sunderland,Sheffield Weds,3,3,0.5
+1957-1958,33,1958-03-08,Luton Town,Manchester City,1,2,0.0
+1957-1958,33,1958-03-08,Arsenal,Chelsea,5,4,1.0
+1957-1958,33,1958-03-08,Manchester Utd,West Brom,0,4,0.0
+1957-1958,33,1958-03-08,Everton,Preston,4,2,1.0
+1957-1958,33,1958-03-08,Bolton,Birmingham City,1,0,1.0
+1957-1958,33,1958-03-08,Wolves,Newcastle Utd,3,1,1.0
+1957-1958,33,1958-03-08,Aston Villa,Burnley,3,0,1.0
+1957-1958,33,1958-03-08,Leicester City,Portsmouth,2,2,0.5
+1957-1958,33,1958-03-08,Leeds United,Tottenham,1,2,0.0
+1957-1958,33,1958-03-08,Blackpool,Nott'ham Forest,3,0,1.0
+1957-1958,32,1958-03-11,Chelsea,Wolves,1,2,0.0
+1957-1958,29,1958-03-12,Birmingham City,Sheffield Weds,1,0,1.0
+1957-1958,32,1958-03-12,Tottenham,Bolton,4,1,1.0
+1957-1958,32,1958-03-12,West Brom,Leeds United,1,0,1.0
+1957-1958,34,1958-03-15,Birmingham City,Luton Town,1,1,0.5
+1957-1958,34,1958-03-15,Newcastle Utd,Leicester City,5,3,1.0
+1957-1958,34,1958-03-15,Manchester City,Arsenal,2,4,0.0
+1957-1958,34,1958-03-15,Burnley,Manchester Utd,3,0,1.0
+1957-1958,34,1958-03-15,Preston,Leeds United,3,0,1.0
+1957-1958,34,1958-03-15,Sheffield Weds,Bolton,1,0,1.0
+1957-1958,34,1958-03-15,Chelsea,Blackpool,1,4,0.0
+1957-1958,34,1958-03-15,West Brom,Everton,4,0,1.0
+1957-1958,34,1958-03-15,Tottenham,Sunderland,0,1,0.0
+1957-1958,34,1958-03-15,Portsmouth,Aston Villa,1,0,1.0
+1957-1958,34,1958-03-15,Nott'ham Forest,Wolves,1,4,0.0
+1957-1958,29,1958-03-19,Leeds United,Arsenal,2,0,1.0
+1957-1958,30,1958-03-19,Preston,Newcastle Utd,2,1,1.0
+1957-1958,30,1958-03-19,Portsmouth,West Brom,2,2,0.5
+1957-1958,35,1958-03-22,Sunderland,West Brom,2,0,1.0
+1957-1958,35,1958-03-22,Leicester City,Chelsea,3,2,1.0
+1957-1958,35,1958-03-22,Luton Town,Tottenham,0,0,0.5
+1957-1958,35,1958-03-22,Leeds United,Burnley,1,0,1.0
+1957-1958,35,1958-03-22,Wolves,Manchester City,3,3,0.5
+1957-1958,35,1958-03-22,Arsenal,Sheffield Weds,1,0,1.0
+1957-1958,35,1958-03-22,Blackpool,Birmingham City,4,2,1.0
+1957-1958,35,1958-03-22,Everton,Portsmouth,4,2,1.0
+1957-1958,36,1958-03-29,Birmingham City,Everton,2,1,1.0
+1957-1958,36,1958-03-29,Nott'ham Forest,Bolton,0,0,0.5
+1957-1958,36,1958-03-29,Portsmouth,Arsenal,5,4,1.0
+1957-1958,36,1958-03-29,Preston,Leicester City,4,1,1.0
+1957-1958,36,1958-03-29,Sheffield Weds,Manchester Utd,1,0,1.0
+1957-1958,36,1958-03-29,West Brom,Wolves,0,3,0.0
+1957-1958,36,1958-03-29,Tottenham,Aston Villa,6,2,1.0
+1957-1958,36,1958-03-29,Newcastle Utd,Luton Town,3,2,1.0
+1957-1958,36,1958-03-29,Chelsea,Sunderland,0,0,0.5
+1957-1958,36,1958-03-29,Burnley,Blackpool,2,1,1.0
+1957-1958,36,1958-03-29,Manchester City,Leeds United,1,0,1.0
+1957-1958,30,1958-03-31,Aston Villa,Manchester Utd,3,2,1.0
+1957-1958,37,1958-04-04,Tottenham,West Brom,0,0,0.5
+1957-1958,37,1958-04-04,Bolton,Aston Villa,4,0,1.0
+1957-1958,37,1958-04-04,Chelsea,Nott'ham Forest,0,0,0.5
+1957-1958,37,1958-04-04,Portsmouth,Birmingham City,3,2,1.0
+1957-1958,37,1958-04-04,Everton,Leeds United,0,1,0.0
+1957-1958,37,1958-04-04,Blackpool,Preston,1,2,0.0
+1957-1958,37,1958-04-04,Manchester Utd,Sunderland,2,2,0.5
+1957-1958,37,1958-04-04,Burnley,Sheffield Weds,2,0,1.0
+1957-1958,38,1958-04-05,Leeds United,Sheffield Weds,2,2,0.5
+1957-1958,38,1958-04-05,Blackpool,Newcastle Utd,3,2,1.0
+1957-1958,38,1958-04-05,Luton Town,Chelsea,0,2,0.0
+1957-1958,38,1958-04-05,Aston Villa,West Brom,2,1,1.0
+1957-1958,38,1958-04-05,Sunderland,Birmingham City,1,6,0.0
+1957-1958,38,1958-04-05,Bolton,Manchester City,0,2,0.0
+1957-1958,38,1958-04-05,Wolves,Portsmouth,1,0,1.0
+1957-1958,38,1958-04-05,Leicester City,Burnley,5,3,1.0
+1957-1958,38,1958-04-05,Manchester Utd,Preston,0,0,0.5
+1957-1958,38,1958-04-05,Everton,Tottenham,3,4,0.0
+1957-1958,37,1958-04-07,Arsenal,Wolves,0,2,0.0
+1957-1958,37,1958-04-07,Luton Town,Leicester City,2,1,1.0
+1957-1958,39,1958-04-07,Birmingham City,Portsmouth,4,1,1.0
+1957-1958,39,1958-04-07,Preston,Blackpool,2,1,1.0
+1957-1958,39,1958-04-07,West Brom,Tottenham,0,2,0.0
+1957-1958,39,1958-04-07,Sunderland,Manchester Utd,1,2,0.0
+1957-1958,39,1958-04-07,Leeds United,Everton,1,0,1.0
+1957-1958,39,1958-04-07,Sheffield Weds,Burnley,1,2,0.0
+1957-1958,39,1958-04-07,Manchester City,Newcastle Utd,2,1,1.0
+1957-1958,39,1958-04-07,Nott'ham Forest,Chelsea,1,1,0.5
+1957-1958,39,1958-04-08,Leicester City,Luton Town,4,1,1.0
+1957-1958,39,1958-04-08,Wolves,Arsenal,1,2,0.0
+1957-1958,39,1958-04-08,Aston Villa,Bolton,4,0,1.0
+1957-1958,40,1958-04-12,Sheffield Weds,Everton,2,1,1.0
+1957-1958,40,1958-04-12,Tottenham,Manchester Utd,1,0,1.0
+1957-1958,40,1958-04-12,West Brom,Leicester City,6,2,1.0
+1957-1958,40,1958-04-12,Burnley,Wolves,1,1,0.5
+1957-1958,40,1958-04-12,Chelsea,Bolton,2,2,0.5
+1957-1958,40,1958-04-12,Preston,Aston Villa,1,1,0.5
+1957-1958,40,1958-04-12,Nott'ham Forest,Luton Town,1,0,1.0
+1957-1958,40,1958-04-12,Birmingham City,Leeds United,1,1,0.5
+1957-1958,40,1958-04-12,Newcastle Utd,Arsenal,3,3,0.5
+1957-1958,40,1958-04-12,Manchester City,Sunderland,3,1,1.0
+1957-1958,40,1958-04-12,Portsmouth,Blackpool,1,2,0.0
+1957-1958,37,1958-04-14,Newcastle Utd,Manchester City,4,1,1.0
+1957-1958,32,1958-04-16,Portsmouth,Manchester Utd,3,3,0.5
+1957-1958,41,1958-04-19,Luton Town,Portsmouth,2,1,1.0
+1957-1958,41,1958-04-19,Bolton,Newcastle Utd,1,1,0.5
+1957-1958,41,1958-04-19,Arsenal,Burnley,0,0,0.5
+1957-1958,41,1958-04-19,Sunderland,Nott'ham Forest,3,0,1.0
+1957-1958,41,1958-04-19,Aston Villa,Sheffield Weds,2,0,1.0
+1957-1958,41,1958-04-19,Blackpool,West Brom,2,0,1.0
+1957-1958,41,1958-04-19,Manchester Utd,Birmingham City,0,2,0.0
+1957-1958,41,1958-04-19,Leeds United,Chelsea,0,0,0.5
+1957-1958,41,1958-04-19,Wolves,Preston,2,0,1.0
+1957-1958,41,1958-04-19,Everton,Manchester City,2,5,0.0
+1957-1958,41,1958-04-19,Leicester City,Tottenham,1,3,0.0
+1957-1958,29,1958-04-21,Manchester Utd,Wolves,0,4,0.0
+1957-1958,35,1958-04-21,Bolton,Preston,0,4,0.0
+1957-1958,38,1958-04-21,Arsenal,Nott'ham Forest,1,1,0.5
+1957-1958,29,1958-04-23,Blackpool,Everton,0,1,0.0
+1957-1958,35,1958-04-23,Manchester Utd,Newcastle Utd,1,1,0.5
+1957-1958,42,1958-04-26,Birmingham City,Leicester City,0,1,0.0
+1957-1958,42,1958-04-26,Preston,Arsenal,3,0,1.0
+1957-1958,42,1958-04-26,Nott'ham Forest,Everton,0,3,0.0
+1957-1958,42,1958-04-26,Burnley,Bolton,3,1,1.0
+1957-1958,42,1958-04-26,Tottenham,Blackpool,2,1,1.0
+1957-1958,42,1958-04-26,Manchester City,Aston Villa,1,2,0.0
+1957-1958,42,1958-04-26,Newcastle Utd,Leeds United,1,2,0.0
+1957-1958,42,1958-04-26,Portsmouth,Sunderland,0,2,0.0
+1957-1958,42,1958-04-26,Sheffield Weds,Wolves,2,1,1.0
+1957-1958,42,1958-04-26,Chelsea,Manchester Utd,2,1,1.0
+1957-1958,42,1958-04-26,West Brom,Luton Town,4,2,1.0
+1957-1958,29,1958-04-28,Newcastle Utd,Burnley,1,3,0.0
+1957-1958,35,1958-04-30,Aston Villa,Nott'ham Forest,1,1,0.5

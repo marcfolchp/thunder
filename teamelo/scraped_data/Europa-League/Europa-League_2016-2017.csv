@@ -1,0 +1,206 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2016-2017,Group stage,1,2016-09-15,Sassuolo,Athletic Club,it,es,3,0,1.0
+2016-2017,Group stage,1,2016-09-15,Rapid Wien,Genk,at,be,3,2,1.0
+2016-2017,Group stage,1,2016-09-15,AZ Alkmaar,Dundalk FC,nl,ie,1,1,0.5
+2016-2017,Group stage,1,2016-09-15,Mainz 05,Saint-Étienne,de,fr,1,1,0.5
+2016-2017,Group stage,1,2016-09-15,Feyenoord,Manchester Utd,nl,eng,1,0,1.0
+2016-2017,Group stage,1,2016-09-15,Viktoria Plzeň,Roma,cz,it,1,1,0.5
+2016-2017,Group stage,1,2016-09-15,Anderlecht,Qabala,be,az,3,1,1.0
+2016-2017,Group stage,1,2016-09-15,Young Boys,Olympiacos,ch,gr,0,1,0.0
+2016-2017,Group stage,1,2016-09-15,Qarabağ,Slovan Liberec,az,cz,2,2,0.5
+2016-2017,Group stage,1,2016-09-15,Astra Giurgiu,Austria Wien,ro,at,2,3,0.0
+2016-2017,Group stage,1,2016-09-15,Zorya Luhansk,Fenerbahçe,ua,tr,1,1,0.5
+2016-2017,Group stage,1,2016-09-15,Maccabi Tel Aviv,Zenit,il,ru,3,4,0.0
+2016-2017,Group stage,1,2016-09-15,APOEL FC,FC Astana,cy,kz,2,1,1.0
+2016-2017,Group stage,1,2016-09-15,Southampton,Sparta Prague,eng,cz,3,0,1.0
+2016-2017,Group stage,1,2016-09-15,Braga,Gent,pt,be,1,1,0.5
+2016-2017,Group stage,1,2016-09-15,Villarreal,Zürich,es,ch,2,1,1.0
+2016-2017,Group stage,1,2016-09-15,RB Salzburg,Krasnodar,at,ru,0,1,0.0
+2016-2017,Group stage,1,2016-09-15,Inter,Be'er Sheva,it,il,0,2,0.0
+2016-2017,Group stage,1,2016-09-15,Nice,Schalke 04,fr,de,0,1,0.0
+2016-2017,Group stage,1,2016-09-15,Standard Liège,Celta Vigo,be,es,1,1,0.5
+2016-2017,Group stage,1,2016-09-15,Osmanlıspor,Steaua,tr,ro,2,0,1.0
+2016-2017,Group stage,1,2016-09-15,Panathinaikos,Ajax,gr,nl,1,2,0.0
+2016-2017,Group stage,1,2016-09-15,Konyaspor,Shakhtar,tr,ua,0,1,0.0
+2016-2017,Group stage,1,2016-09-15,PAOK,Fiorentina,gr,it,0,0,0.5
+2016-2017,Group stage,2,2016-09-29,Sparta Prague,Inter,cz,it,3,1,1.0
+2016-2017,Group stage,2,2016-09-29,Qabala,Mainz 05,az,de,2,3,0.0
+2016-2017,Group stage,2,2016-09-29,Ajax,Standard Liège,nl,be,1,0,1.0
+2016-2017,Group stage,2,2016-09-29,Slovan Liberec,PAOK,cz,gr,1,2,0.0
+2016-2017,Group stage,2,2016-09-29,Gent,Konyaspor,be,tr,2,0,1.0
+2016-2017,Group stage,2,2016-09-29,Fiorentina,Qarabağ,it,az,5,1,1.0
+2016-2017,Group stage,2,2016-09-29,Schalke 04,RB Salzburg,de,at,3,1,1.0
+2016-2017,Group stage,2,2016-09-29,Zürich,Osmanlıspor,ch,tr,2,1,1.0
+2016-2017,Group stage,2,2016-09-29,Celta Vigo,Panathinaikos,es,gr,2,0,1.0
+2016-2017,Group stage,2,2016-09-29,Krasnodar,Nice,ru,fr,5,2,1.0
+2016-2017,Group stage,2,2016-09-29,Be'er Sheva,Southampton,il,eng,0,0,0.5
+2016-2017,Group stage,2,2016-09-29,Shakhtar,Braga,ua,pt,2,0,1.0
+2016-2017,Group stage,2,2016-09-29,Steaua,Villarreal,ro,es,1,1,0.5
+2016-2017,Group stage,2,2016-09-29,Dundalk FC,Maccabi Tel Aviv,ie,il,1,0,1.0
+2016-2017,Group stage,2,2016-09-29,Manchester Utd,Zorya Luhansk,eng,ua,1,0,1.0
+2016-2017,Group stage,2,2016-09-29,FC Astana,Young Boys,kz,ch,0,0,0.5
+2016-2017,Group stage,2,2016-09-29,Saint-Étienne,Anderlecht,fr,be,1,1,0.5
+2016-2017,Group stage,2,2016-09-29,Roma,Astra Giurgiu,it,ro,4,0,1.0
+2016-2017,Group stage,2,2016-09-29,Austria Wien,Viktoria Plzeň,at,cz,0,0,0.5
+2016-2017,Group stage,2,2016-09-29,Athletic Club,Rapid Wien,es,at,1,0,1.0
+2016-2017,Group stage,2,2016-09-29,Genk,Sassuolo,be,it,3,1,1.0
+2016-2017,Group stage,2,2016-09-29,Fenerbahçe,Feyenoord,tr,nl,1,0,1.0
+2016-2017,Group stage,2,2016-09-29,Olympiacos,APOEL FC,gr,cy,0,1,0.0
+2016-2017,Group stage,2,2016-09-29,Zenit,AZ Alkmaar,ru,nl,5,0,1.0
+2016-2017,Group stage,3,2016-10-20,Celta Vigo,Ajax,es,nl,2,2,0.5
+2016-2017,Group stage,3,2016-10-20,Slovan Liberec,Fiorentina,cz,it,1,3,0.0
+2016-2017,Group stage,3,2016-10-20,RB Salzburg,Nice,at,fr,0,1,0.0
+2016-2017,Group stage,3,2016-10-20,Standard Liège,Panathinaikos,be,gr,2,2,0.5
+2016-2017,Group stage,3,2016-10-20,Inter,Southampton,it,eng,1,0,1.0
+2016-2017,Group stage,3,2016-10-20,Osmanlıspor,Villarreal,tr,es,2,2,0.5
+2016-2017,Group stage,3,2016-10-20,Shakhtar,Gent,ua,be,5,0,1.0
+2016-2017,Group stage,3,2016-10-20,Be'er Sheva,Sparta Prague,il,cz,0,1,0.0
+2016-2017,Group stage,3,2016-10-20,Krasnodar,Schalke 04,ru,de,0,1,0.0
+2016-2017,Group stage,3,2016-10-20,Konyaspor,Braga,tr,pt,1,1,0.5
+2016-2017,Group stage,3,2016-10-20,Steaua,Zürich,ro,ch,1,1,0.5
+2016-2017,Group stage,3,2016-10-20,Dundalk FC,Zenit,ie,ru,1,2,0.0
+2016-2017,Group stage,3,2016-10-20,Manchester Utd,Fenerbahçe,eng,tr,4,1,1.0
+2016-2017,Group stage,3,2016-10-20,Qarabağ,PAOK,az,gr,2,0,1.0
+2016-2017,Group stage,3,2016-10-20,Saint-Étienne,Qabala,fr,az,1,0,1.0
+2016-2017,Group stage,3,2016-10-20,Roma,Austria Wien,it,at,3,3,0.5
+2016-2017,Group stage,3,2016-10-20,Viktoria Plzeň,Astra Giurgiu,cz,ro,1,2,0.0
+2016-2017,Group stage,3,2016-10-20,Young Boys,APOEL FC,ch,cy,3,1,1.0
+2016-2017,Group stage,3,2016-10-20,Rapid Wien,Sassuolo,at,it,1,1,0.5
+2016-2017,Group stage,3,2016-10-20,Feyenoord,Zorya Luhansk,nl,ua,1,0,1.0
+2016-2017,Group stage,3,2016-10-20,AZ Alkmaar,Maccabi Tel Aviv,nl,il,1,2,0.0
+2016-2017,Group stage,3,2016-10-20,Mainz 05,Anderlecht,de,be,1,1,0.5
+2016-2017,Group stage,3,2016-10-20,Genk,Athletic Club,be,es,2,0,1.0
+2016-2017,Group stage,3,2016-10-20,Olympiacos,FC Astana,gr,kz,4,1,1.0
+2016-2017,Group stage,4,2016-11-03,Anderlecht,Mainz 05,be,de,6,1,1.0
+2016-2017,Group stage,4,2016-11-03,Sassuolo,Rapid Wien,it,at,2,2,0.5
+2016-2017,Group stage,4,2016-11-03,Athletic Club,Genk,es,be,5,3,1.0
+2016-2017,Group stage,4,2016-11-03,Austria Wien,Roma,at,it,2,4,0.0
+2016-2017,Group stage,4,2016-11-03,APOEL FC,Young Boys,cy,ch,1,0,1.0
+2016-2017,Group stage,4,2016-11-03,Astra Giurgiu,Viktoria Plzeň,ro,cz,1,1,0.5
+2016-2017,Group stage,4,2016-11-03,Maccabi Tel Aviv,AZ Alkmaar,il,nl,0,0,0.5
+2016-2017,Group stage,4,2016-11-03,Braga,Konyaspor,pt,tr,3,1,1.0
+2016-2017,Group stage,4,2016-11-03,Southampton,Inter,eng,it,2,1,1.0
+2016-2017,Group stage,4,2016-11-03,Zenit,Dundalk FC,ru,ie,2,1,1.0
+2016-2017,Group stage,4,2016-11-03,Fenerbahçe,Manchester Utd,tr,eng,2,1,1.0
+2016-2017,Group stage,4,2016-11-03,Zorya Luhansk,Feyenoord,ua,nl,1,1,0.5
+2016-2017,Group stage,4,2016-11-03,Villarreal,Osmanlıspor,es,tr,1,2,0.0
+2016-2017,Group stage,4,2016-11-03,Zürich,Steaua,ch,ro,0,0,0.5
+2016-2017,Group stage,4,2016-11-03,Ajax,Celta Vigo,nl,es,3,2,1.0
+2016-2017,Group stage,4,2016-11-03,Gent,Shakhtar,be,ua,3,5,0.0
+2016-2017,Group stage,4,2016-11-03,Sparta Prague,Be'er Sheva,cz,il,2,0,1.0
+2016-2017,Group stage,4,2016-11-03,Nice,RB Salzburg,fr,at,0,2,0.0
+2016-2017,Group stage,4,2016-11-03,Schalke 04,Krasnodar,de,ru,2,0,1.0
+2016-2017,Group stage,4,2016-11-03,Fiorentina,Slovan Liberec,it,cz,3,0,1.0
+2016-2017,Group stage,4,2016-11-03,Qabala,Saint-Étienne,az,fr,1,2,0.0
+2016-2017,Group stage,4,2016-11-03,FC Astana,Olympiacos,kz,gr,1,1,0.5
+2016-2017,Group stage,4,2016-11-03,Panathinaikos,Standard Liège,gr,be,0,3,0.0
+2016-2017,Group stage,4,2016-11-03,PAOK,Qarabağ,gr,az,0,1,0.0
+2016-2017,Group stage,5,2016-11-24,Sparta Prague,Southampton,cz,eng,1,0,1.0
+2016-2017,Group stage,5,2016-11-24,Zürich,Villarreal,ch,es,1,1,0.5
+2016-2017,Group stage,5,2016-11-24,Celta Vigo,Standard Liège,es,be,1,1,0.5
+2016-2017,Group stage,5,2016-11-24,Slovan Liberec,Qarabağ,cz,az,3,0,1.0
+2016-2017,Group stage,5,2016-11-24,Zenit,Maccabi Tel Aviv,ru,il,2,0,1.0
+2016-2017,Group stage,5,2016-11-24,Gent,Braga,be,pt,2,2,0.5
+2016-2017,Group stage,5,2016-11-24,Fiorentina,PAOK,it,gr,2,3,0.0
+2016-2017,Group stage,5,2016-11-24,Ajax,Panathinaikos,nl,gr,2,0,1.0
+2016-2017,Group stage,5,2016-11-24,Schalke 04,Nice,de,fr,2,0,1.0
+2016-2017,Group stage,5,2016-11-24,Fenerbahçe,Zorya Luhansk,tr,ua,2,0,1.0
+2016-2017,Group stage,5,2016-11-24,Shakhtar,Konyaspor,ua,tr,4,0,1.0
+2016-2017,Group stage,5,2016-11-24,Be'er Sheva,Inter,il,it,3,2,1.0
+2016-2017,Group stage,5,2016-11-24,Qabala,Anderlecht,az,be,1,3,0.0
+2016-2017,Group stage,5,2016-11-24,Steaua,Osmanlıspor,ro,tr,2,1,1.0
+2016-2017,Group stage,5,2016-11-24,Manchester Utd,Feyenoord,eng,nl,4,0,1.0
+2016-2017,Group stage,5,2016-11-24,Dundalk FC,AZ Alkmaar,ie,nl,0,1,0.0
+2016-2017,Group stage,5,2016-11-24,Krasnodar,RB Salzburg,ru,at,1,1,0.5
+2016-2017,Group stage,5,2016-11-24,Genk,Rapid Wien,be,at,1,0,1.0
+2016-2017,Group stage,5,2016-11-24,Austria Wien,Astra Giurgiu,at,ro,1,2,0.0
+2016-2017,Group stage,5,2016-11-24,Saint-Étienne,Mainz 05,fr,de,0,0,0.5
+2016-2017,Group stage,5,2016-11-24,Roma,Viktoria Plzeň,it,cz,4,1,1.0
+2016-2017,Group stage,5,2016-11-24,Athletic Club,Sassuolo,es,it,3,2,1.0
+2016-2017,Group stage,5,2016-11-24,FC Astana,APOEL FC,kz,cy,2,1,1.0
+2016-2017,Group stage,5,2016-11-24,Olympiacos,Young Boys,gr,ch,1,1,0.5
+2016-2017,Group stage,6,2016-12-08,Braga,Shakhtar,pt,ua,2,4,0.0
+2016-2017,Group stage,6,2016-12-08,Villarreal,Steaua,es,ro,2,1,1.0
+2016-2017,Group stage,6,2016-12-08,PAOK,Slovan Liberec,gr,cz,2,0,1.0
+2016-2017,Group stage,6,2016-12-08,Young Boys,FC Astana,ch,kz,3,0,1.0
+2016-2017,Group stage,6,2016-12-08,Viktoria Plzeň,Austria Wien,cz,at,3,2,1.0
+2016-2017,Group stage,6,2016-12-08,Anderlecht,Saint-Étienne,be,fr,2,3,0.0
+2016-2017,Group stage,6,2016-12-08,Feyenoord,Fenerbahçe,nl,tr,0,1,0.0
+2016-2017,Group stage,6,2016-12-08,Konyaspor,Gent,tr,be,0,1,0.0
+2016-2017,Group stage,6,2016-12-08,AZ Alkmaar,Zenit,nl,ru,3,2,1.0
+2016-2017,Group stage,6,2016-12-08,Osmanlıspor,Zürich,tr,ch,2,0,1.0
+2016-2017,Group stage,6,2016-12-08,Rapid Wien,Athletic Club,at,es,1,1,0.5
+2016-2017,Group stage,6,2016-12-08,Mainz 05,Qabala,de,az,2,0,1.0
+2016-2017,Group stage,6,2016-12-08,Maccabi Tel Aviv,Dundalk FC,il,ie,2,1,1.0
+2016-2017,Group stage,6,2016-12-08,Astra Giurgiu,Roma,ro,it,0,0,0.5
+2016-2017,Group stage,6,2016-12-08,Qarabağ,Fiorentina,az,it,1,2,0.0
+2016-2017,Group stage,6,2016-12-08,APOEL FC,Olympiacos,cy,gr,2,0,1.0
+2016-2017,Group stage,6,2016-12-08,Southampton,Be'er Sheva,eng,il,1,1,0.5
+2016-2017,Group stage,6,2016-12-08,Zorya Luhansk,Manchester Utd,ua,eng,0,2,0.0
+2016-2017,Group stage,6,2016-12-08,RB Salzburg,Schalke 04,at,de,2,0,1.0
+2016-2017,Group stage,6,2016-12-08,Standard Liège,Ajax,be,nl,1,1,0.5
+2016-2017,Group stage,6,2016-12-08,Nice,Krasnodar,fr,ru,2,1,1.0
+2016-2017,Group stage,6,2016-12-08,Inter,Sparta Prague,it,cz,2,1,1.0
+2016-2017,Group stage,6,2016-12-08,Panathinaikos,Celta Vigo,gr,es,0,2,0.0
+2016-2017,Group stage,6,2016-12-09,Sassuolo,Genk,it,be,0,2,0.0
+2016-2017,Round of 32,,2017-02-16,Gent,Tottenham,be,eng,1,0,1.0
+2016-2017,Round of 32,,2017-02-16,Celta Vigo,Shakhtar,es,ua,0,1,0.0
+2016-2017,Round of 32,,2017-02-16,Krasnodar,Fenerbahçe,ru,tr,1,0,1.0
+2016-2017,Round of 32,,2017-02-16,AZ Alkmaar,Lyon,nl,fr,1,4,0.0
+2016-2017,Round of 32,,2017-02-16,Gladbach,Fiorentina,de,it,0,1,0.0
+2016-2017,Round of 32,,2017-02-16,Olympiacos,Osmanlıspor,gr,tr,0,0,0.5
+2016-2017,Round of 32,,2017-02-16,Ludogorets,FC Copenhagen,bg,dk,1,2,0.0
+2016-2017,Round of 32,,2017-02-16,Astra Giurgiu,Genk,ro,be,2,2,0.5
+2016-2017,Round of 32,,2017-02-16,Manchester Utd,Saint-Étienne,eng,fr,3,0,1.0
+2016-2017,Round of 32,,2017-02-16,Rostov,Sparta Prague,ru,cz,4,0,1.0
+2016-2017,Round of 32,,2017-02-16,Anderlecht,Zenit,be,ru,2,0,1.0
+2016-2017,Round of 32,,2017-02-16,Legia Warsaw,Ajax,pl,nl,0,0,0.5
+2016-2017,Round of 32,,2017-02-16,Villarreal,Roma,es,it,0,4,0.0
+2016-2017,Round of 32,,2017-02-16,Athletic Club,APOEL FC,es,cy,3,2,1.0
+2016-2017,Round of 32,,2017-02-16,Be'er Sheva,Beşiktaş,il,tr,1,3,0.0
+2016-2017,Round of 32,,2017-02-16,PAOK,Schalke 04,gr,de,0,3,0.0
+2016-2017,Round of 32,,2017-02-22,Saint-Étienne,Manchester Utd,fr,eng,0,1,0.0
+2016-2017,Round of 32,,2017-02-22,Schalke 04,PAOK,de,gr,1,1,0.5
+2016-2017,Round of 32,,2017-02-22,Fenerbahçe,Krasnodar,tr,ru,1,1,0.5
+2016-2017,Round of 32,,2017-02-23,Ajax,Legia Warsaw,nl,pl,1,0,1.0
+2016-2017,Round of 32,,2017-02-23,Osmanlıspor,Olympiacos,tr,gr,0,3,0.0
+2016-2017,Round of 32,,2017-02-23,Roma,Villarreal,it,es,0,1,0.0
+2016-2017,Round of 32,,2017-02-23,APOEL FC,Athletic Club,cy,es,2,0,1.0
+2016-2017,Round of 32,,2017-02-23,Tottenham,Gent,eng,be,2,2,0.5
+2016-2017,Round of 32,,2017-02-23,Beşiktaş,Be'er Sheva,tr,il,2,1,1.0
+2016-2017,Round of 32,,2017-02-23,Zenit,Anderlecht,ru,be,3,1,1.0
+2016-2017,Round of 32,,2017-02-23,Lyon,AZ Alkmaar,fr,nl,7,1,1.0
+2016-2017,Round of 32,,2017-02-23,Genk,Astra Giurgiu,be,ro,1,0,1.0
+2016-2017,Round of 32,,2017-02-23,Fiorentina,Gladbach,it,de,2,4,0.0
+2016-2017,Round of 32,,2017-02-23,Sparta Prague,Rostov,cz,ru,1,1,0.5
+2016-2017,Round of 32,,2017-02-23,FC Copenhagen,Ludogorets,dk,bg,0,0,0.5
+2016-2017,Round of 32,,2017-02-23,Shakhtar,Celta Vigo,ua,es,0,2,0.0
+2016-2017,Round of 16,,2017-03-09,FC Copenhagen,Ajax,dk,nl,2,1,1.0
+2016-2017,Round of 16,,2017-03-09,APOEL FC,Anderlecht,cy,be,0,1,0.0
+2016-2017,Round of 16,,2017-03-09,Rostov,Manchester Utd,ru,eng,1,1,0.5
+2016-2017,Round of 16,,2017-03-09,Schalke 04,Gladbach,de,de,1,1,0.5
+2016-2017,Round of 16,,2017-03-09,Gent,Genk,be,be,2,5,0.0
+2016-2017,Round of 16,,2017-03-09,Lyon,Roma,fr,it,4,2,1.0
+2016-2017,Round of 16,,2017-03-09,Celta Vigo,Krasnodar,es,ru,2,1,1.0
+2016-2017,Round of 16,,2017-03-09,Olympiacos,Beşiktaş,gr,tr,1,1,0.5
+2016-2017,Round of 16,,2017-03-16,Genk,Gent,be,be,1,1,0.5
+2016-2017,Round of 16,,2017-03-16,Manchester Utd,Rostov,eng,ru,1,0,1.0
+2016-2017,Round of 16,,2017-03-16,Krasnodar,Celta Vigo,ru,es,0,2,0.0
+2016-2017,Round of 16,,2017-03-16,Beşiktaş,Olympiacos,tr,gr,4,1,1.0
+2016-2017,Round of 16,,2017-03-16,Gladbach,Schalke 04,de,de,2,2,0.5
+2016-2017,Round of 16,,2017-03-16,Anderlecht,APOEL FC,be,cy,1,0,1.0
+2016-2017,Round of 16,,2017-03-16,Ajax,FC Copenhagen,nl,dk,2,0,1.0
+2016-2017,Round of 16,,2017-03-16,Roma,Lyon,it,fr,2,1,1.0
+2016-2017,Quarter-finals,,2017-04-13,Lyon,Beşiktaş,fr,tr,2,1,1.0
+2016-2017,Quarter-finals,,2017-04-13,Ajax,Schalke 04,nl,de,2,0,1.0
+2016-2017,Quarter-finals,,2017-04-13,Celta Vigo,Genk,es,be,3,2,1.0
+2016-2017,Quarter-finals,,2017-04-13,Anderlecht,Manchester Utd,be,eng,1,1,0.5
+2016-2017,Quarter-finals,,2017-04-20,Manchester Utd,Anderlecht,eng,be,2,1,1.0
+2016-2017,Quarter-finals,,2017-04-20,Schalke 04,Ajax,de,nl,3,2,1.0
+2016-2017,Quarter-finals,,2017-04-20,Genk,Celta Vigo,be,es,1,1,0.5
+2016-2017,Quarter-finals,,2017-04-20,Beşiktaş,Lyon,tr,fr,2,1,1.0
+2016-2017,Semi-finals,,2017-05-03,Ajax,Lyon,nl,fr,4,1,1.0
+2016-2017,Semi-finals,,2017-05-04,Celta Vigo,Manchester Utd,es,eng,0,1,0.0
+2016-2017,Semi-finals,,2017-05-11,Manchester Utd,Celta Vigo,eng,es,1,1,0.5
+2016-2017,Semi-finals,,2017-05-11,Lyon,Ajax,fr,nl,3,1,1.0
+2016-2017,Final,,2017-05-24,Ajax,Manchester Utd,nl,eng,0,2,0.0

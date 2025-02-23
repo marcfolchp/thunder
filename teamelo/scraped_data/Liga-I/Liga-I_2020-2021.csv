@@ -1,0 +1,322 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,Regular season,1,2020-08-21,Argeș Pitești,Botoșani,2,3,0.0
+2020-2021,Regular season,1,2020-08-22,Viitorul,UTA Arad,1,1,0.5
+2020-2021,Regular season,1,2020-08-22,Sepsi,CS U Craiova,0,1,0.0
+2020-2021,Regular season,1,2020-08-22,Astra Giurgiu,FCSB,0,3,0.0
+2020-2021,Regular season,1,2020-08-23,Poli Iași,Chindia,1,0,1.0
+2020-2021,Regular season,1,2020-08-23,Clinceni,CFR Cluj,1,2,0.0
+2020-2021,Regular season,1,2020-08-24,Voluntari,Gaz Metan,2,1,1.0
+2020-2021,Regular season,1,2020-08-24,Dinamo,Hermannstadt,1,1,0.5
+2020-2021,Regular season,2,2020-08-28,Gaz Metan,Argeș Pitești,2,0,1.0
+2020-2021,Regular season,2,2020-08-28,UTA Arad,Voluntari,0,0,0.5
+2020-2021,Regular season,2,2020-08-29,Hermannstadt,Clinceni,2,2,0.5
+2020-2021,Regular season,2,2020-08-29,CFR Cluj,Sepsi,0,0,0.5
+2020-2021,Regular season,2,2020-08-30,Botoșani,Poli Iași,4,0,1.0
+2020-2021,Regular season,2,2020-08-30,CS U Craiova,Astra Giurgiu,2,0,1.0
+2020-2021,Regular season,2,2020-08-30,FCSB,Viitorul,3,0,1.0
+2020-2021,Regular season,2,2020-08-31,Chindia,Dinamo,1,0,1.0
+2020-2021,Regular season,3,2020-09-11,Argeș Pitești,UTA Arad,1,1,0.5
+2020-2021,Regular season,3,2020-09-11,Dinamo,Botoșani,1,1,0.5
+2020-2021,Regular season,3,2020-09-12,Clinceni,Chindia,0,0,0.5
+2020-2021,Regular season,3,2020-09-12,Poli Iași,Gaz Metan,1,4,0.0
+2020-2021,Regular season,3,2020-09-12,Voluntari,FCSB,2,1,1.0
+2020-2021,Regular season,3,2020-09-13,Astra Giurgiu,Sepsi,2,2,0.5
+2020-2021,Regular season,3,2020-09-13,CFR Cluj,Hermannstadt,1,0,1.0
+2020-2021,Regular season,3,2020-09-14,Viitorul,CS U Craiova,1,4,0.0
+2020-2021,Regular season,4,2020-09-18,Chindia,Hermannstadt,1,3,0.0
+2020-2021,Regular season,4,2020-09-18,Astra Giurgiu,CFR Cluj,0,2,0.0
+2020-2021,Regular season,4,2020-09-19,Sepsi,Viitorul,1,1,0.5
+2020-2021,Regular season,4,2020-09-19,CS U Craiova,Voluntari,2,1,1.0
+2020-2021,Regular season,4,2020-09-20,Botoșani,Clinceni,0,0,0.5
+2020-2021,Regular season,4,2020-09-20,UTA Arad,Poli Iași,2,3,0.0
+2020-2021,Regular season,4,2020-09-20,FCSB,Argeș Pitești,3,0,1.0
+2020-2021,Regular season,4,2020-09-21,Gaz Metan,Dinamo,1,3,0.0
+2020-2021,Regular season,5,2020-09-25,Voluntari,Sepsi,1,2,0.0
+2020-2021,Regular season,5,2020-09-25,Argeș Pitești,CS U Craiova,1,2,0.0
+2020-2021,Regular season,5,2020-09-26,Clinceni,Gaz Metan,2,0,1.0
+2020-2021,Regular season,5,2020-09-26,Viitorul,Astra Giurgiu,4,1,1.0
+2020-2021,Regular season,5,2020-09-27,CFR Cluj,Chindia,0,0,0.5
+2020-2021,Regular season,5,2020-09-27,Poli Iași,FCSB,5,2,1.0
+2020-2021,Regular season,5,2020-09-28,Hermannstadt,Botoșani,2,1,1.0
+2020-2021,Regular season,5,2020-09-28,Dinamo,UTA Arad,0,1,0.0
+2020-2021,Regular season,6,2020-10-02,CS U Craiova,Poli Iași,1,0,1.0
+2020-2021,Regular season,6,2020-10-03,Sepsi,Argeș Pitești,1,0,1.0
+2020-2021,Regular season,6,2020-10-03,Astra Giurgiu,Voluntari,2,3,0.0
+2020-2021,Regular season,6,2020-10-03,FCSB,Dinamo,3,2,1.0
+2020-2021,Regular season,6,2020-10-04,Botoșani,Chindia,0,2,0.0
+2020-2021,Regular season,6,2020-10-04,Gaz Metan,Hermannstadt,1,1,0.5
+2020-2021,Regular season,6,2020-10-04,Viitorul,CFR Cluj,1,1,0.5
+2020-2021,Regular season,6,2020-10-05,UTA Arad,Clinceni,0,0,0.5
+2020-2021,Regular season,7,2020-10-16,Argeș Pitești,Astra Giurgiu,1,0,1.0
+2020-2021,Regular season,7,2020-10-17,Chindia,Gaz Metan,1,0,1.0
+2020-2021,Regular season,7,2020-10-17,Poli Iași,Sepsi,1,4,0.0
+2020-2021,Regular season,7,2020-10-17,CFR Cluj,Botoșani,2,1,1.0
+2020-2021,Regular season,7,2020-10-18,Hermannstadt,UTA Arad,1,1,0.5
+2020-2021,Regular season,7,2020-10-18,Dinamo,CS U Craiova,0,1,0.0
+2020-2021,Regular season,7,2020-10-19,Voluntari,Viitorul,0,2,0.0
+2020-2021,Regular season,7,2020-10-19,Clinceni,FCSB,0,2,0.0
+2020-2021,Regular season,8,2020-10-23,Gaz Metan,Botoșani,1,2,0.0
+2020-2021,Regular season,8,2020-10-23,CS U Craiova,Clinceni,0,1,0.0
+2020-2021,Regular season,8,2020-10-24,UTA Arad,Chindia,1,0,1.0
+2020-2021,Regular season,8,2020-10-24,Astra Giurgiu,Poli Iași,4,0,1.0
+2020-2021,Regular season,8,2020-10-24,Sepsi,Dinamo,2,0,1.0
+2020-2021,Regular season,8,2020-10-25,Viitorul,Argeș Pitești,2,2,0.5
+2020-2021,Regular season,8,2020-10-25,Voluntari,CFR Cluj,0,1,0.0
+2020-2021,Regular season,8,2020-10-26,FCSB,Hermannstadt,5,0,1.0
+2020-2021,Regular season,9,2020-10-30,Argeș Pitești,Voluntari,2,1,1.0
+2020-2021,Regular season,9,2020-10-31,Clinceni,Sepsi,2,0,1.0
+2020-2021,Regular season,9,2020-10-31,Botoșani,UTA Arad,2,3,0.0
+2020-2021,Regular season,9,2020-10-31,Hermannstadt,CS U Craiova,0,1,0.0
+2020-2021,Regular season,9,2020-11-01,Poli Iași,Viitorul,0,3,0.0
+2020-2021,Regular season,9,2020-11-01,CFR Cluj,Gaz Metan,1,2,0.0
+2020-2021,Regular season,9,2020-11-02,Chindia,FCSB,0,2,0.0
+2020-2021,Regular season,10,2020-11-06,Astra Giurgiu,Clinceni,0,2,0.0
+2020-2021,Regular season,10,2020-11-06,CS U Craiova,Chindia,0,1,0.0
+2020-2021,Regular season,10,2020-11-07,Voluntari,Poli Iași,4,0,1.0
+2020-2021,Regular season,10,2020-11-07,Sepsi,Hermannstadt,1,1,0.5
+2020-2021,Regular season,10,2020-11-07,FCSB,Botoșani,4,1,1.0
+2020-2021,Regular season,10,2020-11-08,Argeș Pitești,CFR Cluj,0,2,0.0
+2020-2021,Regular season,10,2020-11-08,Viitorul,Dinamo,2,1,1.0
+2020-2021,Regular season,10,2020-11-09,UTA Arad,Gaz Metan,1,3,0.0
+2020-2021,Regular season,9,2020-11-14,Dinamo,Astra Giurgiu,1,1,0.5
+2020-2021,Regular season,11,2020-11-20,Poli Iași,Argeș Pitești,1,1,0.5
+2020-2021,Regular season,11,2020-11-20,Dinamo,Voluntari,3,0,1.0
+2020-2021,Regular season,11,2020-11-21,Clinceni,Viitorul,1,0,1.0
+2020-2021,Regular season,11,2020-11-21,Botoșani,CS U Craiova,0,0,0.5
+2020-2021,Regular season,11,2020-11-22,Hermannstadt,Astra Giurgiu,0,1,0.0
+2020-2021,Regular season,11,2020-11-22,CFR Cluj,UTA Arad,0,1,0.0
+2020-2021,Regular season,11,2020-11-23,Chindia,Sepsi,1,2,0.0
+2020-2021,Regular season,11,2020-11-23,Gaz Metan,FCSB,2,3,0.0
+2020-2021,Regular season,12,2020-12-04,Voluntari,Clinceni,3,3,0.5
+2020-2021,Regular season,12,2020-12-04,Argeș Pitești,Dinamo,0,1,0.0
+2020-2021,Regular season,12,2020-12-05,Sepsi,Botoșani,2,2,0.5
+2020-2021,Regular season,12,2020-12-05,FCSB,UTA Arad,3,0,1.0
+2020-2021,Regular season,12,2020-12-06,Poli Iași,CFR Cluj,0,2,0.0
+2020-2021,Regular season,12,2020-12-07,Astra Giurgiu,Chindia,0,0,0.5
+2020-2021,Regular season,12,2020-12-07,CS U Craiova,Gaz Metan,3,1,1.0
+2020-2021,Regular season,13,2020-12-11,Botoșani,Astra Giurgiu,1,1,0.5
+2020-2021,Regular season,13,2020-12-11,Dinamo,Poli Iași,4,1,1.0
+2020-2021,Regular season,13,2020-12-12,Gaz Metan,Sepsi,0,3,0.0
+2020-2021,Regular season,13,2020-12-12,Chindia,Viitorul,1,1,0.5
+2020-2021,Regular season,13,2020-12-13,Clinceni,Argeș Pitești,1,0,1.0
+2020-2021,Regular season,13,2020-12-13,Hermannstadt,Voluntari,3,2,1.0
+2020-2021,Regular season,13,2020-12-13,CFR Cluj,FCSB,2,0,1.0
+2020-2021,Regular season,13,2020-12-14,UTA Arad,CS U Craiova,1,2,0.0
+2020-2021,Regular season,14,2020-12-15,Astra Giurgiu,Gaz Metan,3,0,1.0
+2020-2021,Regular season,14,2020-12-15,Viitorul,Botoșani,1,2,0.0
+2020-2021,Regular season,14,2020-12-16,Poli Iași,Clinceni,0,0,0.5
+2020-2021,Regular season,14,2020-12-16,Argeș Pitești,Hermannstadt,2,2,0.5
+2020-2021,Regular season,14,2020-12-16,Voluntari,Chindia,0,2,0.0
+2020-2021,Regular season,14,2020-12-17,Sepsi,UTA Arad,3,0,1.0
+2020-2021,Regular season,14,2020-12-17,Dinamo,CFR Cluj,0,2,0.0
+2020-2021,Regular season,14,2020-12-18,CS U Craiova,FCSB,0,2,0.0
+2020-2021,Regular season,15,2020-12-19,Chindia,Argeș Pitești,2,2,0.5
+2020-2021,Regular season,15,2020-12-19,Gaz Metan,Viitorul,1,0,1.0
+2020-2021,Regular season,15,2020-12-20,Hermannstadt,Poli Iași,0,1,0.0
+2020-2021,Regular season,15,2020-12-20,Botoșani,Voluntari,1,1,0.5
+2020-2021,Regular season,15,2020-12-20,Clinceni,Dinamo,1,1,0.5
+2020-2021,Regular season,15,2020-12-21,UTA Arad,Astra Giurgiu,0,6,0.0
+2020-2021,Regular season,15,2020-12-21,FCSB,Sepsi,1,1,0.5
+2020-2021,Regular season,15,2020-12-22,CFR Cluj,CS U Craiova,0,0,0.5
+2020-2021,Regular season,12,2021-01-10,Viitorul,Hermannstadt,2,1,1.0
+2020-2021,Regular season,16,2021-01-12,Gaz Metan,Voluntari,2,0,1.0
+2020-2021,Regular season,16,2021-01-12,CS U Craiova,Sepsi,0,0,0.5
+2020-2021,Regular season,16,2021-01-13,Chindia,Poli Iași,1,1,0.5
+2020-2021,Regular season,16,2021-01-13,Hermannstadt,Dinamo,0,2,0.0
+2020-2021,Regular season,16,2021-01-14,Botoșani,Argeș Pitești,0,1,0.0
+2020-2021,Regular season,16,2021-01-14,CFR Cluj,Clinceni,3,1,1.0
+2020-2021,Regular season,16,2021-01-15,UTA Arad,Viitorul,0,0,0.5
+2020-2021,Regular season,16,2021-01-15,FCSB,Astra Giurgiu,3,0,1.0
+2020-2021,Regular season,17,2021-01-16,Dinamo,Chindia,0,1,0.0
+2020-2021,Regular season,17,2021-01-17,Argeș Pitești,Gaz Metan,1,1,0.5
+2020-2021,Regular season,17,2021-01-17,Sepsi,CFR Cluj,0,1,0.0
+2020-2021,Regular season,17,2021-01-17,Clinceni,Hermannstadt,0,0,0.5
+2020-2021,Regular season,17,2021-01-18,Poli Iași,Botoșani,0,1,0.0
+2020-2021,Regular season,17,2021-01-18,Astra Giurgiu,CS U Craiova,1,1,0.5
+2020-2021,Regular season,17,2021-01-19,Voluntari,UTA Arad,0,1,0.0
+2020-2021,Regular season,17,2021-01-19,Viitorul,FCSB,2,2,0.5
+2020-2021,Regular season,18,2021-01-22,Chindia,Clinceni,2,1,1.0
+2020-2021,Regular season,18,2021-01-22,FCSB,Voluntari,2,1,1.0
+2020-2021,Regular season,18,2021-01-23,Sepsi,Astra Giurgiu,4,1,1.0
+2020-2021,Regular season,18,2021-01-23,UTA Arad,Argeș Pitești,1,2,0.0
+2020-2021,Regular season,18,2021-01-23,CS U Craiova,Viitorul,1,1,0.5
+2020-2021,Regular season,18,2021-01-24,Gaz Metan,Poli Iași,2,1,1.0
+2020-2021,Regular season,18,2021-01-24,Botoșani,Dinamo,4,0,1.0
+2020-2021,Regular season,18,2021-01-25,Hermannstadt,CFR Cluj,1,3,0.0
+2020-2021,Regular season,19,2021-01-26,Viitorul,Sepsi,3,3,0.5
+2020-2021,Regular season,19,2021-01-26,Voluntari,CS U Craiova,1,1,0.5
+2020-2021,Regular season,19,2021-01-26,Argeș Pitești,FCSB,0,0,0.5
+2020-2021,Regular season,19,2021-01-27,Clinceni,Botoșani,2,1,1.0
+2020-2021,Regular season,19,2021-01-27,Poli Iași,UTA Arad,1,2,0.0
+2020-2021,Regular season,19,2021-01-27,Dinamo,Gaz Metan,2,1,1.0
+2020-2021,Regular season,19,2021-01-28,Hermannstadt,Chindia,1,1,0.5
+2020-2021,Regular season,19,2021-01-28,CFR Cluj,Astra Giurgiu,1,1,0.5
+2020-2021,Regular season,20,2021-01-29,CS U Craiova,Argeș Pitești,1,1,0.5
+2020-2021,Regular season,20,2021-01-30,Gaz Metan,Clinceni,1,1,0.5
+2020-2021,Regular season,20,2021-01-30,Sepsi,Voluntari,2,2,0.5
+2020-2021,Regular season,20,2021-01-30,FCSB,Poli Iași,3,1,1.0
+2020-2021,Regular season,20,2021-01-31,Botoșani,Hermannstadt,1,0,1.0
+2020-2021,Regular season,20,2021-01-31,Astra Giurgiu,Viitorul,1,1,0.5
+2020-2021,Regular season,20,2021-01-31,UTA Arad,Dinamo,0,1,0.0
+2020-2021,Regular season,20,2021-02-01,Chindia,CFR Cluj,0,1,0.0
+2020-2021,Regular season,21,2021-02-02,Poli Iași,CS U Craiova,0,3,0.0
+2020-2021,Regular season,21,2021-02-03,Hermannstadt,Gaz Metan,1,1,0.5
+2020-2021,Regular season,21,2021-02-03,Voluntari,Astra Giurgiu,1,3,0.0
+2020-2021,Regular season,21,2021-02-03,Dinamo,FCSB,0,1,0.0
+2020-2021,Regular season,21,2021-02-04,Clinceni,UTA Arad,0,3,0.0
+2020-2021,Regular season,21,2021-02-04,Chindia,Botoșani,2,3,0.0
+2020-2021,Regular season,21,2021-02-04,CFR Cluj,Viitorul,2,1,1.0
+2020-2021,Regular season,22,2021-02-05,Sepsi,Poli Iași,3,3,0.5
+2020-2021,Regular season,22,2021-02-06,Astra Giurgiu,Argeș Pitești,0,2,0.0
+2020-2021,Regular season,22,2021-02-06,CS U Craiova,Dinamo,1,0,1.0
+2020-2021,Regular season,22,2021-02-07,UTA Arad,Hermannstadt,1,1,0.5
+2020-2021,Regular season,22,2021-02-07,Gaz Metan,Chindia,1,0,1.0
+2020-2021,Regular season,22,2021-02-07,FCSB,Clinceni,0,1,0.0
+2020-2021,Regular season,22,2021-02-08,Viitorul,Voluntari,0,1,0.0
+2020-2021,Regular season,22,2021-02-08,Botoșani,CFR Cluj,2,1,1.0
+2020-2021,Regular season,23,2021-02-12,Argeș Pitești,Viitorul,1,0,1.0
+2020-2021,Regular season,23,2021-02-13,Chindia,UTA Arad,1,1,0.5
+2020-2021,Regular season,23,2021-02-13,Dinamo,Sepsi,0,0,0.5
+2020-2021,Regular season,23,2021-02-14,Poli Iași,Astra Giurgiu,2,3,0.0
+2020-2021,Regular season,23,2021-02-14,Clinceni,CS U Craiova,0,0,0.5
+2020-2021,Regular season,23,2021-02-14,Hermannstadt,FCSB,1,0,1.0
+2020-2021,Regular season,23,2021-02-15,Botoșani,Gaz Metan,2,1,1.0
+2020-2021,Regular season,23,2021-02-15,CFR Cluj,Voluntari,0,0,0.5
+2020-2021,Regular season,21,2021-02-16,Argeș Pitești,Sepsi,1,1,0.5
+2020-2021,Regular season,24,2021-02-19,Voluntari,Argeș Pitești,0,1,0.0
+2020-2021,Regular season,24,2021-02-19,CS U Craiova,Hermannstadt,1,0,1.0
+2020-2021,Regular season,24,2021-02-20,Sepsi,Clinceni,0,0,0.5
+2020-2021,Regular season,24,2021-02-20,FCSB,Chindia,1,0,1.0
+2020-2021,Regular season,24,2021-02-21,Gaz Metan,CFR Cluj,0,1,0.0
+2020-2021,Regular season,24,2021-02-21,Astra Giurgiu,Dinamo,2,0,1.0
+2020-2021,Regular season,24,2021-02-22,UTA Arad,Botoșani,0,0,0.5
+2020-2021,Regular season,25,2021-02-26,Dinamo,Viitorul,0,5,0.0
+2020-2021,Regular season,25,2021-02-27,Gaz Metan,UTA Arad,1,2,0.0
+2020-2021,Regular season,25,2021-02-27,Clinceni,Astra Giurgiu,1,1,0.5
+2020-2021,Regular season,25,2021-02-27,Chindia,CS U Craiova,1,0,1.0
+2020-2021,Regular season,25,2021-02-28,Hermannstadt,Sepsi,1,2,0.0
+2020-2021,Regular season,25,2021-02-28,Botoșani,FCSB,0,2,0.0
+2020-2021,Regular season,25,2021-03-01,Poli Iași,Voluntari,0,2,0.0
+2020-2021,Regular season,25,2021-03-01,CFR Cluj,Argeș Pitești,5,0,1.0
+2020-2021,Regular season,26,2021-03-05,Sepsi,Chindia,0,1,0.0
+2020-2021,Regular season,26,2021-03-05,Viitorul,Clinceni,1,1,0.5
+2020-2021,Regular season,26,2021-03-06,CS U Craiova,Botoșani,1,0,1.0
+2020-2021,Regular season,26,2021-03-06,UTA Arad,CFR Cluj,0,1,0.0
+2020-2021,Regular season,26,2021-03-07,Astra Giurgiu,Hermannstadt,2,1,1.0
+2020-2021,Regular season,26,2021-03-07,FCSB,Gaz Metan,1,0,1.0
+2020-2021,Regular season,26,2021-03-08,Argeș Pitești,Poli Iași,2,1,1.0
+2020-2021,Regular season,26,2021-03-08,Voluntari,Dinamo,1,1,0.5
+2020-2021,Regular season,27,2021-03-12,Gaz Metan,CS U Craiova,0,2,0.0
+2020-2021,Regular season,27,2021-03-13,Clinceni,Voluntari,0,1,0.0
+2020-2021,Regular season,27,2021-03-13,Hermannstadt,Viitorul,0,0,0.5
+2020-2021,Regular season,27,2021-03-13,UTA Arad,FCSB,0,1,0.0
+2020-2021,Regular season,27,2021-03-14,Chindia,Astra Giurgiu,0,1,0.0
+2020-2021,Regular season,27,2021-03-14,CFR Cluj,Poli Iași,4,0,1.0
+2020-2021,Regular season,27,2021-03-15,Botoșani,Sepsi,1,2,0.0
+2020-2021,Regular season,27,2021-03-15,Dinamo,Argeș Pitești,1,2,0.0
+2020-2021,Regular season,28,2021-03-16,CS U Craiova,UTA Arad,2,0,1.0
+2020-2021,Regular season,28,2021-03-17,Viitorul,Chindia,0,0,0.5
+2020-2021,Regular season,28,2021-03-18,Astra Giurgiu,Botoșani,1,1,0.5
+2020-2021,Regular season,28,2021-03-19,Voluntari,Hermannstadt,1,0,1.0
+2020-2021,Regular season,28,2021-03-19,FCSB,CFR Cluj,3,0,1.0
+2020-2021,Regular season,28,2021-03-20,Argeș Pitești,Clinceni,1,1,0.5
+2020-2021,Regular season,28,2021-03-20,Poli Iași,Dinamo,1,0,1.0
+2020-2021,Regular season,28,2021-03-21,Sepsi,Gaz Metan,1,1,0.5
+2020-2021,Regular season,29,2021-04-02,Clinceni,Poli Iași,2,1,1.0
+2020-2021,Regular season,29,2021-04-02,Gaz Metan,Astra Giurgiu,0,0,0.5
+2020-2021,Regular season,29,2021-04-03,Hermannstadt,Argeș Pitești,4,1,1.0
+2020-2021,Regular season,29,2021-04-04,Botoșani,Viitorul,1,0,1.0
+2020-2021,Regular season,29,2021-04-04,UTA Arad,Sepsi,2,0,1.0
+2020-2021,Regular season,29,2021-04-04,FCSB,CS U Craiova,0,0,0.5
+2020-2021,Regular season,29,2021-04-05,Chindia,Voluntari,1,0,1.0
+2020-2021,Regular season,29,2021-04-05,CFR Cluj,Dinamo,1,0,1.0
+2020-2021,Regular season,24,2021-04-08,Viitorul,Poli Iași,1,2,0.0
+2020-2021,Regular season,30,2021-04-09,Astra Giurgiu,UTA Arad,0,0,0.5
+2020-2021,Regular season,30,2021-04-09,Dinamo,Clinceni,1,3,0.0
+2020-2021,Regular season,30,2021-04-09,Argeș Pitești,Chindia,3,1,1.0
+2020-2021,Regular season,30,2021-04-09,Voluntari,Botoșani,1,1,0.5
+2020-2021,Regular season,30,2021-04-10,Sepsi,FCSB,1,1,0.5
+2020-2021,Regular season,30,2021-04-11,CS U Craiova,CFR Cluj,0,0,0.5
+2020-2021,Regular season,30,2021-04-12,Poli Iași,Hermannstadt,1,0,1.0
+2020-2021,Regular season,30,2021-04-12,Viitorul,Gaz Metan,0,2,0.0
+2020-2021,Play-out round,1,2021-04-16,UTA Arad,Viitorul,1,0,1.0
+2020-2021,Play-out round,1,2021-04-16,Astra Giurgiu,Dinamo,0,0,0.5
+2020-2021,Play-out round,1,2021-04-17,Chindia,Hermannstadt,2,0,1.0
+2020-2021,Play-out round,1,2021-04-17,Gaz Metan,Voluntari,1,1,0.5
+2020-2021,Play-off round,1,2021-04-17,CS U Craiova,Sepsi,0,0,0.5
+2020-2021,Play-out round,1,2021-04-18,Argeș Pitești,Poli Iași,0,0,0.5
+2020-2021,Play-off round,1,2021-04-18,CFR Cluj,Clinceni,3,0,1.0
+2020-2021,Play-off round,1,2021-04-18,FCSB,Botoșani,2,1,1.0
+2020-2021,Play-out round,2,2021-04-20,Hermannstadt,Astra Giurgiu,1,3,0.0
+2020-2021,Play-out round,2,2021-04-20,Viitorul,Gaz Metan,1,0,1.0
+2020-2021,Play-out round,2,2021-04-20,Dinamo,UTA Arad,0,1,0.0
+2020-2021,Play-out round,2,2021-04-21,Argeș Pitești,Chindia,0,1,0.0
+2020-2021,Play-off round,2,2021-04-21,Botoșani,CS U Craiova,1,1,0.5
+2020-2021,Play-off round,2,2021-04-21,Sepsi,CFR Cluj,0,1,0.0
+2020-2021,Play-out round,2,2021-04-22,Poli Iași,Voluntari,0,1,0.0
+2020-2021,Play-off round,2,2021-04-22,Clinceni,FCSB,0,2,0.0
+2020-2021,Play-out round,3,2021-04-23,UTA Arad,Hermannstadt,0,1,0.0
+2020-2021,Play-out round,3,2021-04-23,Gaz Metan,Dinamo,4,1,1.0
+2020-2021,Play-out round,3,2021-04-24,Astra Giurgiu,Argeș Pitești,0,1,0.0
+2020-2021,Play-off round,3,2021-04-24,CFR Cluj,CS U Craiova,1,2,0.0
+2020-2021,Play-out round,3,2021-04-25,Chindia,Poli Iași,2,0,1.0
+2020-2021,Play-off round,3,2021-04-25,Botoșani,Clinceni,2,1,1.0
+2020-2021,Play-off round,3,2021-04-25,FCSB,Sepsi,1,2,0.0
+2020-2021,Play-out round,3,2021-04-26,Voluntari,Viitorul,1,0,1.0
+2020-2021,Play-out round,4,2021-04-27,Hermannstadt,Gaz Metan,1,2,0.0
+2020-2021,Play-out round,4,2021-04-27,Argeș Pitești,UTA Arad,4,1,1.0
+2020-2021,Play-out round,4,2021-04-28,Chindia,Astra Giurgiu,0,0,0.5
+2020-2021,Play-off round,4,2021-04-28,Sepsi,Clinceni,1,0,1.0
+2020-2021,Play-off round,4,2021-04-28,CFR Cluj,Botoșani,2,0,1.0
+2020-2021,Play-out round,4,2021-04-29,Poli Iași,Viitorul,0,3,0.0
+2020-2021,Play-out round,4,2021-04-29,Dinamo,Voluntari,2,0,1.0
+2020-2021,Play-off round,4,2021-04-29,CS U Craiova,FCSB,2,0,1.0
+2020-2021,Play-out round,5,2021-04-30,Gaz Metan,Argeș Pitești,1,1,0.5
+2020-2021,Play-out round,5,2021-05-01,UTA Arad,Chindia,0,1,0.0
+2020-2021,Play-off round,5,2021-05-01,Botoșani,Sepsi,2,1,1.0
+2020-2021,Play-out round,5,2021-05-02,Astra Giurgiu,Poli Iași,1,2,0.0
+2020-2021,Play-out round,5,2021-05-02,Voluntari,Hermannstadt,0,1,0.0
+2020-2021,Play-out round,5,2021-05-02,Viitorul,Dinamo,1,2,0.0
+2020-2021,Play-off round,5,2021-05-02,Clinceni,CS U Craiova,1,0,1.0
+2020-2021,Play-off round,5,2021-05-03,FCSB,CFR Cluj,1,1,0.5
+2020-2021,Play-out round,6,2021-05-04,Chindia,Gaz Metan,1,1,0.5
+2020-2021,Play-out round,6,2021-05-05,Astra Giurgiu,UTA Arad,1,2,0.0
+2020-2021,Play-out round,6,2021-05-05,Hermannstadt,Viitorul,0,0,0.5
+2020-2021,Play-out round,6,2021-05-05,Poli Iași,Dinamo,1,2,0.0
+2020-2021,Play-off round,6,2021-05-05,Sepsi,CS U Craiova,2,0,1.0
+2020-2021,Play-out round,6,2021-05-06,Argeș Pitești,Voluntari,3,0,1.0
+2020-2021,Play-off round,6,2021-05-06,Clinceni,CFR Cluj,0,1,0.0
+2020-2021,Play-off round,6,2021-05-06,Botoșani,FCSB,1,3,0.0
+2020-2021,Play-out round,7,2021-05-08,Gaz Metan,Astra Giurgiu,2,1,1.0
+2020-2021,Play-out round,7,2021-05-08,Dinamo,Hermannstadt,2,0,1.0
+2020-2021,Play-out round,7,2021-05-09,UTA Arad,Poli Iași,1,2,0.0
+2020-2021,Play-out round,7,2021-05-09,Viitorul,Argeș Pitești,1,0,1.0
+2020-2021,Play-off round,7,2021-05-09,CS U Craiova,Botoșani,2,3,0.0
+2020-2021,Play-out round,7,2021-05-10,Voluntari,Chindia,0,0,0.5
+2020-2021,Play-off round,7,2021-05-10,CFR Cluj,Sepsi,0,1,0.0
+2020-2021,Play-off round,7,2021-05-10,FCSB,Clinceni,2,2,0.5
+2020-2021,Play-off round,8,2021-05-14,Clinceni,Botoșani,4,3,1.0
+2020-2021,Play-out round,8,2021-05-14,Chindia,Viitorul,0,2,0.0
+2020-2021,Play-out round,8,2021-05-15,Poli Iași,Hermannstadt,0,1,0.0
+2020-2021,Play-out round,8,2021-05-15,Astra Giurgiu,Voluntari,0,3,0.0
+2020-2021,Play-off round,8,2021-05-15,CS U Craiova,CFR Cluj,1,3,0.0
+2020-2021,Play-out round,8,2021-05-16,UTA Arad,Gaz Metan,1,0,1.0
+2020-2021,Play-out round,8,2021-05-16,Argeș Pitești,Dinamo,1,2,0.0
+2020-2021,Play-off round,8,2021-05-16,Sepsi,FCSB,2,2,0.5
+2020-2021,Play-off round,9,2021-05-18,Botoșani,CFR Cluj,0,1,0.0
+2020-2021,Play-out round,9,2021-05-19,Voluntari,UTA Arad,0,0,0.5
+2020-2021,Play-out round,9,2021-05-19,Viitorul,Astra Giurgiu,1,0,1.0
+2020-2021,Play-out round,9,2021-05-19,Gaz Metan,Poli Iași,4,2,1.0
+2020-2021,Play-out round,9,2021-05-19,Hermannstadt,Argeș Pitești,1,0,1.0
+2020-2021,Play-out round,9,2021-05-19,Dinamo,Chindia,0,0,0.5
+2020-2021,Play-off round,9,2021-05-19,FCSB,CS U Craiova,0,1,0.0
+2020-2021,Play-off round,9,2021-05-20,Clinceni,Sepsi,2,1,1.0
+2020-2021,Play-off round,10,2021-05-25,CFR Cluj,FCSB,2,0,1.0
+2020-2021,Play-off round,10,2021-05-26,CS U Craiova,Clinceni,0,0,0.5
+2020-2021,Play-off round,10,2021-05-27,Sepsi,Botoșani,1,0,1.0
+2020-2021,Semi-final,,2021-05-27,Chindia,Viitorul,2,3,0.0
+2020-2021,Romanian 1/2 Relegation/Promotion Playoffs,,2021-05-29,Mioveni,Hermannstadt,0,0,0.5
+2020-2021,Romanian 1/2 Relegation/Promotion Playoffs,,2021-05-29,Dunărea Călărași,Voluntari,1,2,0.0
+2020-2021,Final,,2021-05-30,Sepsi,Viitorul,1,0,1.0
+2020-2021,Romanian 1/2 Relegation/Promotion Playoffs,,2021-06-02,Hermannstadt,Mioveni,1,2,0.0
+2020-2021,Romanian 1/2 Relegation/Promotion Playoffs,,2021-06-03,Voluntari,Dunărea Călărași,4,0,1.0

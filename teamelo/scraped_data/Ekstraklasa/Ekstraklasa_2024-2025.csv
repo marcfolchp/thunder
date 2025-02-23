@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-07-19,Jagiellonia,Puszcza Niepołomice,2.0,0.0,1.0
+2024-2025,1,2024-07-19,Śląsk Wrocław,Lechia Gdańsk,1.0,1.0,0.5
+2024-2025,1,2024-07-20,Katowice,Radomiak Radom,1.0,2.0,0.0
+2024-2025,1,2024-07-20,Pogoń Szczecin,Korona Kielce,3.0,0.0,1.0
+2024-2025,1,2024-07-20,Legia Warsaw,Zagłębie Lubin,2.0,0.0,1.0
+2024-2025,1,2024-07-21,Cracovia,Piast Gliwice,1.0,1.0,0.5
+2024-2025,1,2024-07-21,Lech Poznań,Górnik Zabrze,2.0,0.0,1.0
+2024-2025,1,2024-07-21,Motor Lublin,RKS Raków,0.0,2.0,0.0
+2024-2025,1,2024-07-22,Stal Mielec,Widzew Łódź,1.0,1.0,0.5
+2024-2025,2,2024-07-26,Puszcza Niepołomice,Górnik Zabrze,2.0,2.0,0.5
+2024-2025,2,2024-07-26,Lechia Gdańsk,Motor Lublin,0.0,2.0,0.0
+2024-2025,2,2024-07-27,Stal Mielec,Katowice,0.0,1.0,0.0
+2024-2025,2,2024-07-27,Radomiak Radom,Jagiellonia,2.0,3.0,0.0
+2024-2025,2,2024-07-27,Widzew Łódź,Lech Poznań,2.0,1.0,1.0
+2024-2025,2,2024-07-28,Zagłębie Lubin,Pogoń Szczecin,2.0,2.0,0.5
+2024-2025,2,2024-07-28,Piast Gliwice,Śląsk Wrocław,2.0,0.0,1.0
+2024-2025,2,2024-07-28,Korona Kielce,Legia Warsaw,0.0,1.0,0.0
+2024-2025,2,2024-07-29,RKS Raków,Cracovia,0.0,1.0,0.0
+2024-2025,3,2024-08-02,Zagłębie Lubin,Puszcza Niepołomice,1.0,0.0,1.0
+2024-2025,3,2024-08-02,Górnik Zabrze,Pogoń Szczecin,1.0,0.0,1.0
+2024-2025,3,2024-08-03,Katowice,RKS Raków,0.0,1.0,0.0
+2024-2025,3,2024-08-03,Jagiellonia,Stal Mielec,2.0,0.0,1.0
+2024-2025,3,2024-08-03,Lech Poznań,Lechia Gdańsk,3.0,1.0,1.0
+2024-2025,3,2024-08-04,Motor Lublin,Korona Kielce,1.0,1.0,0.5
+2024-2025,3,2024-08-04,Legia Warsaw,Piast Gliwice,1.0,2.0,0.0
+2024-2025,3,2024-08-05,Cracovia,Widzew Łódź,1.0,3.0,0.0
+2024-2025,4,2024-08-09,Radomiak Radom,Górnik Zabrze,1.0,2.0,0.0
+2024-2025,4,2024-08-09,RKS Raków,Lech Poznań,0.0,0.0,0.5
+2024-2025,4,2024-08-10,Korona Kielce,Cracovia,0.0,2.0,0.0
+2024-2025,4,2024-08-10,Pogoń Szczecin,Stal Mielec,1.0,0.0,1.0
+2024-2025,4,2024-08-11,Lechia Gdańsk,Zagłębie Lubin,1.0,1.0,0.5
+2024-2025,4,2024-08-11,Puszcza Niepołomice,Legia Warsaw,2.0,2.0,0.5
+2024-2025,4,2024-08-11,Widzew Łódź,Śląsk Wrocław,0.0,0.0,0.5
+2024-2025,4,2024-08-12,Piast Gliwice,Katowice,2.0,2.0,0.5
+2024-2025,5,2024-08-16,Puszcza Niepołomice,Lechia Gdańsk,4.0,1.0,1.0
+2024-2025,5,2024-08-16,Katowice,Motor Lublin,0.0,0.0,0.5
+2024-2025,5,2024-08-17,Jagiellonia,Cracovia,2.0,4.0,0.0
+2024-2025,5,2024-08-17,Zagłębie Lubin,Lech Poznań,0.0,1.0,0.0
+2024-2025,5,2024-08-17,Pogoń Szczecin,Widzew Łódź,2.0,0.0,1.0
+2024-2025,5,2024-08-18,Śląsk Wrocław,Korona Kielce,1.0,1.0,0.5
+2024-2025,5,2024-08-18,Legia Warsaw,Radomiak Radom,4.0,1.0,1.0
+2024-2025,5,2024-08-18,Górnik Zabrze,RKS Raków,0.0,0.0,0.5
+2024-2025,5,2024-08-19,Stal Mielec,Piast Gliwice,2.0,0.0,1.0
+2024-2025,6,2024-08-23,Widzew Łódź,Radomiak Radom,3.0,2.0,1.0
+2024-2025,6,2024-08-23,Lechia Gdańsk,RKS Raków,1.0,2.0,0.0
+2024-2025,6,2024-08-24,Motor Lublin,Puszcza Niepołomice,0.0,0.0,0.5
+2024-2025,6,2024-08-24,Cracovia,Górnik Zabrze,3.0,2.0,1.0
+2024-2025,6,2024-08-24,Piast Gliwice,Zagłębie Lubin,1.0,0.0,1.0
+2024-2025,6,2024-08-25,Katowice,Jagiellonia,3.0,1.0,1.0
+2024-2025,6,2024-08-25,Lech Poznań,Pogoń Szczecin,2.0,0.0,1.0
+2024-2025,6,2024-08-25,Śląsk Wrocław,Legia Warsaw,1.0,1.0,0.5
+2024-2025,6,2024-08-26,Korona Kielce,Stal Mielec,2.0,1.0,1.0
+2024-2025,7,2024-08-30,RKS Raków,Piast Gliwice,0.0,1.0,0.0
+2024-2025,7,2024-08-30,Stal Mielec,Lech Poznań,0.0,2.0,0.0
+2024-2025,7,2024-08-31,Puszcza Niepołomice,Korona Kielce,0.0,0.0,0.5
+2024-2025,7,2024-08-31,Zagłębie Lubin,Katowice,1.0,0.0,1.0
+2024-2025,7,2024-08-31,Radomiak Radom,Cracovia,2.0,1.0,1.0
+2024-2025,7,2024-09-01,Górnik Zabrze,Lechia Gdańsk,2.0,3.0,0.0
+2024-2025,7,2024-09-01,Legia Warsaw,Motor Lublin,5.0,2.0,1.0
+2024-2025,7,2024-09-01,Pogoń Szczecin,Śląsk Wrocław,5.0,3.0,1.0
+2024-2025,7,2024-09-01,Jagiellonia,Widzew Łódź,1.0,0.0,1.0
+2024-2025,8,2024-09-13,Motor Lublin,Górnik Zabrze,1.0,0.0,1.0
+2024-2025,8,2024-09-13,Katowice,Widzew Łódź,2.0,2.0,0.5
+2024-2025,8,2024-09-14,Lechia Gdańsk,Radomiak Radom,1.0,0.0,1.0
+2024-2025,8,2024-09-14,Cracovia,Pogoń Szczecin,2.0,1.0,1.0
+2024-2025,8,2024-09-14,Lech Poznań,Jagiellonia,5.0,0.0,1.0
+2024-2025,8,2024-09-15,Piast Gliwice,Puszcza Niepołomice,1.0,1.0,0.5
+2024-2025,8,2024-09-15,Korona Kielce,Zagłębie Lubin,2.0,0.0,1.0
+2024-2025,8,2024-09-15,Legia Warsaw,RKS Raków,0.0,1.0,0.0
+2024-2025,9,2024-09-20,Radomiak Radom,Korona Kielce,4.0,0.0,1.0
+2024-2025,9,2024-09-20,Pogoń Szczecin,Legia Warsaw,1.0,0.0,1.0
+2024-2025,9,2024-09-21,Puszcza Niepołomice,Cracovia,1.0,2.0,0.0
+2024-2025,9,2024-09-21,Jagiellonia,Lechia Gdańsk,3.0,2.0,1.0
+2024-2025,9,2024-09-21,Widzew Łódź,Piast Gliwice,1.0,0.0,1.0
+2024-2025,9,2024-09-21,Górnik Zabrze,Katowice,3.0,0.0,1.0
+2024-2025,9,2024-09-22,Stal Mielec,Motor Lublin,1.0,0.0,1.0
+2024-2025,9,2024-09-22,RKS Raków,Zagłębie Lubin,5.0,1.0,1.0
+2024-2025,9,2024-09-22,Lech Poznań,Śląsk Wrocław,1.0,0.0,1.0
+2024-2025,4,2024-09-25,Motor Lublin,Jagiellonia,0.0,2.0,0.0
+2024-2025,10,2024-09-27,Katowice,Pogoń Szczecin,3.0,1.0,1.0
+2024-2025,10,2024-09-27,Lechia Gdańsk,Widzew Łódź,1.0,1.0,0.5
+2024-2025,10,2024-09-28,RKS Raków,Puszcza Niepołomice,2.0,0.0,1.0
+2024-2025,10,2024-09-28,Motor Lublin,Śląsk Wrocław,2.0,1.0,1.0
+2024-2025,10,2024-09-28,Legia Warsaw,Górnik Zabrze,1.0,1.0,0.5
+2024-2025,10,2024-09-29,Zagłębie Lubin,Radomiak Radom,1.0,0.0,1.0
+2024-2025,10,2024-09-29,Korona Kielce,Lech Poznań,2.0,3.0,0.0
+2024-2025,10,2024-09-29,Piast Gliwice,Jagiellonia,0.0,1.0,0.0
+2024-2025,10,2024-09-30,Cracovia,Stal Mielec,1.0,1.0,0.5
+2024-2025,11,2024-10-04,Puszcza Niepołomice,Katowice,0.0,6.0,0.0
+2024-2025,11,2024-10-04,Widzew Łódź,Korona Kielce,0.0,1.0,0.0
+2024-2025,11,2024-10-05,Stal Mielec,Lechia Gdańsk,2.0,1.0,1.0
+2024-2025,11,2024-10-05,Radomiak Radom,RKS Raków,0.0,2.0,0.0
+2024-2025,11,2024-10-05,Górnik Zabrze,Zagłębie Lubin,0.0,1.0,0.0
+2024-2025,11,2024-10-05,Lech Poznań,Motor Lublin,1.0,2.0,0.0
+2024-2025,11,2024-10-06,Śląsk Wrocław,Cracovia,2.0,4.0,0.0
+2024-2025,11,2024-10-06,Pogoń Szczecin,Piast Gliwice,1.0,0.0,1.0
+2024-2025,11,2024-10-06,Jagiellonia,Legia Warsaw,1.0,1.0,0.5
+2024-2025,12,2024-10-18,Korona Kielce,Piast Gliwice,0.0,2.0,0.0
+2024-2025,12,2024-10-18,Lechia Gdańsk,Legia Warsaw,0.0,2.0,0.0
+2024-2025,12,2024-10-19,Motor Lublin,Widzew Łódź,3.0,4.0,0.0
+2024-2025,12,2024-10-19,Zagłębie Lubin,Jagiellonia,1.0,3.0,0.0
+2024-2025,12,2024-10-19,Cracovia,Lech Poznań,0.0,2.0,0.0
+2024-2025,12,2024-10-20,Katowice,Śląsk Wrocław,0.0,0.0,0.5
+2024-2025,12,2024-10-20,Górnik Zabrze,Stal Mielec,3.0,1.0,1.0
+2024-2025,12,2024-10-20,RKS Raków,Pogoń Szczecin,1.0,0.0,1.0
+2024-2025,12,2024-10-21,Radomiak Radom,Puszcza Niepołomice,2.0,0.0,1.0
+2024-2025,8,2024-10-23,Śląsk Wrocław,Stal Mielec,2.0,1.0,1.0
+2024-2025,13,2024-10-25,Piast Gliwice,Lechia Gdańsk,3.0,3.0,0.5
+2024-2025,13,2024-10-25,Pogoń Szczecin,Puszcza Niepołomice,2.0,1.0,1.0
+2024-2025,13,2024-10-26,Cracovia,Motor Lublin,6.0,2.0,1.0
+2024-2025,13,2024-10-26,Śląsk Wrocław,RKS Raków,0.0,0.0,0.5
+2024-2025,13,2024-10-26,Lech Poznań,Radomiak Radom,2.0,1.0,1.0
+2024-2025,13,2024-10-27,Stal Mielec,Zagłębie Lubin,2.0,2.0,0.5
+2024-2025,13,2024-10-27,Jagiellonia,Korona Kielce,3.0,1.0,1.0
+2024-2025,13,2024-10-27,Widzew Łódź,Górnik Zabrze,0.0,2.0,0.0
+2024-2025,13,2024-10-27,Legia Warsaw,Katowice,4.0,1.0,1.0
+2024-2025,14,2024-11-02,RKS Raków,Stal Mielec,1.0,0.0,1.0
+2024-2025,14,2024-11-02,Motor Lublin,Pogoń Szczecin,4.0,2.0,1.0
+2024-2025,14,2024-11-02,Puszcza Niepołomice,Lech Poznań,2.0,0.0,1.0
+2024-2025,14,2024-11-03,Radomiak Radom,Piast Gliwice,1.0,1.0,0.5
+2024-2025,14,2024-11-03,Górnik Zabrze,Jagiellonia,0.0,2.0,0.0
+2024-2025,14,2024-11-03,Lechia Gdańsk,Cracovia,1.0,2.0,0.0
+2024-2025,14,2024-11-03,Legia Warsaw,Widzew Łódź,2.0,1.0,1.0
+2024-2025,14,2024-11-04,Katowice,Korona Kielce,1.0,2.0,0.0
+2024-2025,14,2024-11-04,Zagłębie Lubin,Śląsk Wrocław,3.0,0.0,1.0
+2024-2025,15,2024-11-08,Piast Gliwice,Motor Lublin,2.0,3.0,0.0
+2024-2025,15,2024-11-08,Pogoń Szczecin,Radomiak Radom,0.0,1.0,0.0
+2024-2025,15,2024-11-09,Korona Kielce,Lechia Gdańsk,0.0,0.0,0.5
+2024-2025,15,2024-11-09,Cracovia,Katowice,3.0,4.0,0.0
+2024-2025,15,2024-11-09,Widzew Łódź,Zagłębie Lubin,2.0,0.0,1.0
+2024-2025,15,2024-11-09,Śląsk Wrocław,Górnik Zabrze,0.0,1.0,0.0
+2024-2025,15,2024-11-10,Stal Mielec,Puszcza Niepołomice,2.0,0.0,1.0
+2024-2025,15,2024-11-10,Jagiellonia,RKS Raków,2.0,2.0,0.5
+2024-2025,15,2024-11-10,Lech Poznań,Legia Warsaw,5.0,2.0,1.0
+2024-2025,16,2024-11-22,Zagłębie Lubin,Motor Lublin,1.0,2.0,0.0
+2024-2025,16,2024-11-22,Jagiellonia,Śląsk Wrocław,2.0,2.0,0.5
+2024-2025,16,2024-11-23,Lechia Gdańsk,Pogoń Szczecin,0.0,3.0,0.0
+2024-2025,16,2024-11-23,Lech Poznań,Katowice,2.0,0.0,1.0
+2024-2025,16,2024-11-23,Legia Warsaw,Cracovia,3.0,2.0,1.0
+2024-2025,16,2024-11-24,Radomiak Radom,Stal Mielec,1.0,2.0,0.0
+2024-2025,16,2024-11-24,RKS Raków,Korona Kielce,1.0,1.0,0.5
+2024-2025,16,2024-11-24,Górnik Zabrze,Piast Gliwice,1.0,0.0,1.0
+2024-2025,16,2024-11-25,Puszcza Niepołomice,Widzew Łódź,2.0,0.0,1.0
+2024-2025,17,2024-11-29,Cracovia,Zagłębie Lubin,1.0,1.0,0.5
+2024-2025,17,2024-11-29,Piast Gliwice,Lech Poznań,0.0,0.0,0.5
+2024-2025,17,2024-11-30,Śląsk Wrocław,Puszcza Niepołomice,0.0,1.0,0.0
+2024-2025,17,2024-11-30,Katowice,Lechia Gdańsk,2.0,0.0,1.0
+2024-2025,17,2024-11-30,Widzew Łódź,RKS Raków,2.0,3.0,0.0
+2024-2025,17,2024-12-01,Korona Kielce,Górnik Zabrze,2.0,4.0,0.0
+2024-2025,17,2024-12-01,Pogoń Szczecin,Jagiellonia,1.0,1.0,0.5
+2024-2025,17,2024-12-01,Stal Mielec,Legia Warsaw,2.0,2.0,0.5
+2024-2025,17,2024-12-02,Motor Lublin,Radomiak Radom,1.0,0.0,1.0
+2024-2025,18,2024-12-06,Radomiak Radom,Katowice,1.0,1.0,0.5
+2024-2025,18,2024-12-06,Górnik Zabrze,Lech Poznań,2.0,1.0,1.0
+2024-2025,18,2024-12-07,Lechia Gdańsk,Śląsk Wrocław,1.0,0.0,1.0
+2024-2025,18,2024-12-07,Widzew Łódź,Stal Mielec,2.0,1.0,1.0
+2024-2025,18,2024-12-07,RKS Raków,Motor Lublin,2.0,2.0,0.5
+2024-2025,18,2024-12-08,Piast Gliwice,Cracovia,0.0,0.0,0.5
+2024-2025,18,2024-12-08,Puszcza Niepołomice,Jagiellonia,1.0,1.0,0.5
+2024-2025,18,2024-12-08,Zagłębie Lubin,Legia Warsaw,0.0,3.0,0.0
+2024-2025,18,2024-12-09,Korona Kielce,Pogoń Szczecin,0.0,0.0,0.5
+2024-2025,3,2024-12-14,Śląsk Wrocław,Radomiak Radom,1.0,2.0,0.0
+2024-2025,19,2025-01-31,Katowice,Stal Mielec,1.0,0.0,1.0
+2024-2025,19,2025-01-31,Lech Poznań,Widzew Łódź,4.0,1.0,1.0
+2024-2025,19,2025-02-01,Motor Lublin,Lechia Gdańsk,1.0,1.0,0.5
+2024-2025,19,2025-02-01,Cracovia,RKS Raków,0.0,0.0,0.5
+2024-2025,19,2025-02-01,Pogoń Szczecin,Zagłębie Lubin,1.0,0.0,1.0
+2024-2025,19,2025-02-02,Górnik Zabrze,Puszcza Niepołomice,1.0,1.0,0.5
+2024-2025,19,2025-02-02,Jagiellonia,Radomiak Radom,5.0,0.0,1.0
+2024-2025,19,2025-02-02,Legia Warsaw,Korona Kielce,1.0,1.0,0.5
+2024-2025,19,2025-02-03,Śląsk Wrocław,Piast Gliwice,1.0,3.0,0.0
+2024-2025,20,2025-02-07,Stal Mielec,Jagiellonia,2.0,1.0,1.0
+2024-2025,20,2025-02-07,Pogoń Szczecin,Górnik Zabrze,3.0,0.0,1.0
+2024-2025,20,2025-02-08,Radomiak Radom,Śląsk Wrocław,1.0,1.0,0.5
+2024-2025,20,2025-02-08,RKS Raków,Katowice,1.0,2.0,0.0
+2024-2025,20,2025-02-08,Piast Gliwice,Legia Warsaw,1.0,0.0,1.0
+2024-2025,20,2025-02-09,Korona Kielce,Motor Lublin,1.0,0.0,1.0
+2024-2025,20,2025-02-09,Widzew Łódź,Cracovia,1.0,1.0,0.5
+2024-2025,20,2025-02-09,Lechia Gdańsk,Lech Poznań,1.0,0.0,1.0
+2024-2025,20,2025-02-10,Puszcza Niepołomice,Zagłębie Lubin,1.0,2.0,0.0
+2024-2025,21,2025-02-14,Cracovia,Korona Kielce,1.0,1.0,0.5
+2024-2025,21,2025-02-14,Lech Poznań,RKS Raków,0.0,1.0,0.0
+2024-2025,21,2025-02-15,Śląsk Wrocław,Widzew Łódź,3.0,0.0,1.0
+2024-2025,21,2025-02-15,Górnik Zabrze,Radomiak Radom,3.0,2.0,1.0
+2024-2025,21,2025-02-15,Legia Warsaw,Puszcza Niepołomice,2.0,0.0,1.0
+2024-2025,21,2025-02-16,Stal Mielec,Pogoń Szczecin,1.0,2.0,0.0
+2024-2025,21,2025-02-16,Katowice,Piast Gliwice,0.0,0.0,0.5
+2024-2025,21,2025-02-16,Jagiellonia,Motor Lublin,3.0,0.0,1.0
+2024-2025,21,2025-02-17,Zagłębie Lubin,Lechia Gdańsk,1.0,3.0,0.0
+2024-2025,22,2025-02-21,Piast Gliwice,Stal Mielec,2.0,2.0,0.5
+2024-2025,22,2025-02-21,RKS Raków,Górnik Zabrze,1.0,0.0,1.0
+2024-2025,22,2025-02-22,Korona Kielce,Śląsk Wrocław,,,0.5
+2024-2025,22,2025-02-22,Widzew Łódź,Pogoń Szczecin,,,0.5
+2024-2025,22,2025-02-22,Radomiak Radom,Legia Warsaw,,,0.5
+2024-2025,22,2025-02-23,Lechia Gdańsk,Puszcza Niepołomice,,,0.5
+2024-2025,22,2025-02-23,Cracovia,Jagiellonia,,,0.5
+2024-2025,22,2025-02-23,Lech Poznań,Zagłębie Lubin,,,0.5
+2024-2025,22,2025-02-24,Motor Lublin,Katowice,,,0.5
+2024-2025,23,2025-02-28,Radomiak Radom,Widzew Łódź,,,0.5
+2024-2025,23,2025-02-28,Górnik Zabrze,Cracovia,,,0.5
+2024-2025,23,2025-03-01,Stal Mielec,Korona Kielce,,,0.5
+2024-2025,23,2025-03-01,Pogoń Szczecin,Lech Poznań,,,0.5
+2024-2025,23,2025-03-01,Zagłębie Lubin,Piast Gliwice,,,0.5
+2024-2025,23,2025-03-02,Puszcza Niepołomice,Motor Lublin,,,0.5
+2024-2025,23,2025-03-02,Legia Warsaw,Śląsk Wrocław,,,0.5
+2024-2025,23,2025-03-02,Jagiellonia,Katowice,,,0.5
+2024-2025,23,2025-03-03,RKS Raków,Lechia Gdańsk,,,0.5
+2024-2025,24,2025-03-07,Korona Kielce,Puszcza Niepołomice,,,0.5
+2024-2025,24,2025-03-07,Śląsk Wrocław,Pogoń Szczecin,,,0.5
+2024-2025,24,2025-03-08,Cracovia,Radomiak Radom,,,0.5
+2024-2025,24,2025-03-08,Piast Gliwice,RKS Raków,,,0.5
+2024-2025,24,2025-03-08,Lech Poznań,Stal Mielec,,,0.5
+2024-2025,24,2025-03-09,Katowice,Zagłębie Lubin,,,0.5
+2024-2025,24,2025-03-09,Lechia Gdańsk,Górnik Zabrze,,,0.5
+2024-2025,24,2025-03-09,Widzew Łódź,Jagiellonia,,,0.5
+2024-2025,24,2025-03-10,Motor Lublin,Legia Warsaw,,,0.5
+2024-2025,25,2025-03-14,Radomiak Radom,Lechia Gdańsk,,,0.5
+2024-2025,25,2025-03-14,Pogoń Szczecin,Cracovia,,,0.5
+2024-2025,25,2025-03-15,Stal Mielec,Śląsk Wrocław,,,0.5
+2024-2025,25,2025-03-15,Górnik Zabrze,Motor Lublin,,,0.5
+2024-2025,25,2025-03-15,Widzew Łódź,Katowice,,,0.5
+2024-2025,25,2025-03-16,Puszcza Niepołomice,Piast Gliwice,,,0.5
+2024-2025,25,2025-03-16,Zagłębie Lubin,Korona Kielce,,,0.5
+2024-2025,25,2025-03-16,RKS Raków,Legia Warsaw,,,0.5
+2024-2025,25,2025-03-16,Jagiellonia,Lech Poznań,,,0.5
+2024-2025,26,2025-03-29,Korona Kielce,Radomiak Radom,,,0.5
+2024-2025,26,2025-03-29,Śląsk Wrocław,Lech Poznań,,,0.5
+2024-2025,26,2025-03-29,Motor Lublin,Stal Mielec,,,0.5
+2024-2025,26,2025-03-29,Legia Warsaw,Pogoń Szczecin,,,0.5
+2024-2025,26,2025-03-29,Zagłębie Lubin,RKS Raków,,,0.5
+2024-2025,26,2025-03-29,Katowice,Górnik Zabrze,,,0.5
+2024-2025,26,2025-03-29,Cracovia,Puszcza Niepołomice,,,0.5
+2024-2025,26,2025-03-29,Lechia Gdańsk,Jagiellonia,,,0.5
+2024-2025,26,2025-03-29,Piast Gliwice,Widzew Łódź,,,0.5
+2024-2025,27,2025-04-05,Stal Mielec,Cracovia,,,0.5
+2024-2025,27,2025-04-05,Puszcza Niepołomice,RKS Raków,,,0.5
+2024-2025,27,2025-04-05,Jagiellonia,Piast Gliwice,,,0.5
+2024-2025,27,2025-04-05,Widzew Łódź,Lechia Gdańsk,,,0.5
+2024-2025,27,2025-04-05,Pogoń Szczecin,Katowice,,,0.5
+2024-2025,27,2025-04-05,Radomiak Radom,Zagłębie Lubin,,,0.5
+2024-2025,27,2025-04-05,Lech Poznań,Korona Kielce,,,0.5
+2024-2025,27,2025-04-05,Śląsk Wrocław,Motor Lublin,,,0.5
+2024-2025,27,2025-04-05,Górnik Zabrze,Legia Warsaw,,,0.5
+2024-2025,28,2025-04-12,Cracovia,Śląsk Wrocław,,,0.5
+2024-2025,28,2025-04-12,Katowice,Puszcza Niepołomice,,,0.5
+2024-2025,28,2025-04-12,Lechia Gdańsk,Stal Mielec,,,0.5
+2024-2025,28,2025-04-12,Zagłębie Lubin,Górnik Zabrze,,,0.5
+2024-2025,28,2025-04-12,Korona Kielce,Widzew Łódź,,,0.5
+2024-2025,28,2025-04-12,Piast Gliwice,Pogoń Szczecin,,,0.5
+2024-2025,28,2025-04-12,Legia Warsaw,Jagiellonia,,,0.5
+2024-2025,28,2025-04-12,RKS Raków,Radomiak Radom,,,0.5
+2024-2025,28,2025-04-12,Motor Lublin,Lech Poznań,,,0.5
+2024-2025,29,2025-04-19,Legia Warsaw,Lechia Gdańsk,,,0.5
+2024-2025,29,2025-04-19,Stal Mielec,Górnik Zabrze,,,0.5
+2024-2025,29,2025-04-19,Piast Gliwice,Korona Kielce,,,0.5
+2024-2025,29,2025-04-19,Puszcza Niepołomice,Radomiak Radom,,,0.5
+2024-2025,29,2025-04-19,Jagiellonia,Zagłębie Lubin,,,0.5
+2024-2025,29,2025-04-19,Pogoń Szczecin,RKS Raków,,,0.5
+2024-2025,29,2025-04-19,Śląsk Wrocław,Katowice,,,0.5
+2024-2025,29,2025-04-19,Widzew Łódź,Motor Lublin,,,0.5
+2024-2025,29,2025-04-19,Lech Poznań,Cracovia,,,0.5
+2024-2025,30,2025-04-26,Lechia Gdańsk,Piast Gliwice,,,0.5
+2024-2025,30,2025-04-26,Górnik Zabrze,Widzew Łódź,,,0.5
+2024-2025,30,2025-04-26,Puszcza Niepołomice,Pogoń Szczecin,,,0.5
+2024-2025,30,2025-04-26,Radomiak Radom,Lech Poznań,,,0.5
+2024-2025,30,2025-04-26,Katowice,Legia Warsaw,,,0.5
+2024-2025,30,2025-04-26,Zagłębie Lubin,Stal Mielec,,,0.5
+2024-2025,30,2025-04-26,RKS Raków,Śląsk Wrocław,,,0.5
+2024-2025,30,2025-04-26,Motor Lublin,Cracovia,,,0.5
+2024-2025,30,2025-04-26,Korona Kielce,Jagiellonia,,,0.5
+2024-2025,31,2025-05-03,Pogoń Szczecin,Motor Lublin,,,0.5
+2024-2025,31,2025-05-03,Korona Kielce,Katowice,,,0.5
+2024-2025,31,2025-05-03,Cracovia,Lechia Gdańsk,,,0.5
+2024-2025,31,2025-05-03,Stal Mielec,RKS Raków,,,0.5
+2024-2025,31,2025-05-03,Piast Gliwice,Radomiak Radom,,,0.5
+2024-2025,31,2025-05-03,Widzew Łódź,Legia Warsaw,,,0.5
+2024-2025,31,2025-05-03,Śląsk Wrocław,Zagłębie Lubin,,,0.5
+2024-2025,31,2025-05-03,Lech Poznań,Puszcza Niepołomice,,,0.5
+2024-2025,31,2025-05-03,Jagiellonia,Górnik Zabrze,,,0.5
+2024-2025,32,2025-05-10,Puszcza Niepołomice,Stal Mielec,,,0.5
+2024-2025,32,2025-05-10,RKS Raków,Jagiellonia,,,0.5
+2024-2025,32,2025-05-10,Zagłębie Lubin,Widzew Łódź,,,0.5
+2024-2025,32,2025-05-10,Radomiak Radom,Pogoń Szczecin,,,0.5
+2024-2025,32,2025-05-10,Lechia Gdańsk,Korona Kielce,,,0.5
+2024-2025,32,2025-05-10,Legia Warsaw,Lech Poznań,,,0.5
+2024-2025,32,2025-05-10,Katowice,Cracovia,,,0.5
+2024-2025,32,2025-05-10,Górnik Zabrze,Śląsk Wrocław,,,0.5
+2024-2025,32,2025-05-10,Motor Lublin,Piast Gliwice,,,0.5
+2024-2025,33,2025-05-17,Piast Gliwice,Górnik Zabrze,,,0.5
+2024-2025,33,2025-05-17,Korona Kielce,RKS Raków,,,0.5
+2024-2025,33,2025-05-17,Katowice,Lech Poznań,,,0.5
+2024-2025,33,2025-05-17,Śląsk Wrocław,Jagiellonia,,,0.5
+2024-2025,33,2025-05-17,Cracovia,Legia Warsaw,,,0.5
+2024-2025,33,2025-05-17,Stal Mielec,Radomiak Radom,,,0.5
+2024-2025,33,2025-05-17,Pogoń Szczecin,Lechia Gdańsk,,,0.5
+2024-2025,33,2025-05-17,Motor Lublin,Zagłębie Lubin,,,0.5
+2024-2025,33,2025-05-17,Widzew Łódź,Puszcza Niepołomice,,,0.5
+2024-2025,34,2025-05-24,Puszcza Niepołomice,Śląsk Wrocław,,,0.5
+2024-2025,34,2025-05-24,Górnik Zabrze,Korona Kielce,,,0.5
+2024-2025,34,2025-05-24,Radomiak Radom,Motor Lublin,,,0.5
+2024-2025,34,2025-05-24,RKS Raków,Widzew Łódź,,,0.5
+2024-2025,34,2025-05-24,Lechia Gdańsk,Katowice,,,0.5
+2024-2025,34,2025-05-24,Jagiellonia,Pogoń Szczecin,,,0.5
+2024-2025,34,2025-05-24,Lech Poznań,Piast Gliwice,,,0.5
+2024-2025,34,2025-05-24,Zagłębie Lubin,Cracovia,,,0.5
+2024-2025,34,2025-05-24,Legia Warsaw,Stal Mielec,,,0.5

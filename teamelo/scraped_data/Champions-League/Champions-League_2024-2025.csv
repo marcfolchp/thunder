@@ -1,0 +1,177 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2024-2025,League phase,1,2024-09-17,Young Boys,Aston Villa,ch,eng,0.0,3.0,0.0
+2024-2025,League phase,1,2024-09-17,Juventus,PSV Eindhoven,it,nl,3.0,1.0,1.0
+2024-2025,League phase,1,2024-09-17,Sporting CP,Lille,pt,fr,2.0,0.0,1.0
+2024-2025,League phase,1,2024-09-17,Real Madrid,Stuttgart,es,de,3.0,1.0,1.0
+2024-2025,League phase,1,2024-09-17,Milan,Liverpool,it,eng,1.0,3.0,0.0
+2024-2025,League phase,1,2024-09-17,Bayern Munich,Dinamo Zagreb,de,hr,9.0,2.0,1.0
+2024-2025,League phase,1,2024-09-18,Bologna,Shakhtar,it,ua,0.0,0.0,0.5
+2024-2025,League phase,1,2024-09-18,Sparta Prague,RB Salzburg,cz,at,3.0,0.0,1.0
+2024-2025,League phase,1,2024-09-18,Celtic,Slovan Bratislava,sct,sk,5.0,1.0,1.0
+2024-2025,League phase,1,2024-09-18,Manchester City,Inter,eng,it,0.0,0.0,0.5
+2024-2025,League phase,1,2024-09-18,Paris S-G,Girona,fr,es,1.0,0.0,1.0
+2024-2025,League phase,1,2024-09-18,Club Brugge,Dortmund,be,de,0.0,3.0,0.0
+2024-2025,League phase,1,2024-09-19,Feyenoord,Leverkusen,nl,de,0.0,4.0,0.0
+2024-2025,League phase,1,2024-09-19,Red Star,Benfica,rs,pt,1.0,2.0,0.0
+2024-2025,League phase,1,2024-09-19,Atalanta,Arsenal,it,eng,0.0,0.0,0.5
+2024-2025,League phase,1,2024-09-19,Brest,Sturm Graz,fr,at,2.0,1.0,1.0
+2024-2025,League phase,1,2024-09-19,Monaco,Barcelona,fr,es,2.0,1.0,1.0
+2024-2025,League phase,1,2024-09-19,Atlético Madrid,RB Leipzig,es,de,2.0,1.0,1.0
+2024-2025,League phase,2,2024-10-01,Stuttgart,Sparta Prague,de,cz,1.0,1.0,0.5
+2024-2025,League phase,2,2024-10-01,RB Salzburg,Brest,at,fr,0.0,4.0,0.0
+2024-2025,League phase,2,2024-10-01,Arsenal,Paris S-G,eng,fr,2.0,0.0,1.0
+2024-2025,League phase,2,2024-10-01,Inter,Red Star,it,rs,4.0,0.0,1.0
+2024-2025,League phase,2,2024-10-01,Leverkusen,Milan,de,it,1.0,0.0,1.0
+2024-2025,League phase,2,2024-10-01,Dortmund,Celtic,de,sct,7.0,1.0,1.0
+2024-2025,League phase,2,2024-10-01,Barcelona,Young Boys,es,ch,5.0,0.0,1.0
+2024-2025,League phase,2,2024-10-01,PSV Eindhoven,Sporting CP,nl,pt,1.0,1.0,0.5
+2024-2025,League phase,2,2024-10-01,Slovan Bratislava,Manchester City,sk,eng,0.0,4.0,0.0
+2024-2025,League phase,2,2024-10-02,Girona,Feyenoord,es,nl,2.0,3.0,0.0
+2024-2025,League phase,2,2024-10-02,Shakhtar,Atalanta,ua,it,0.0,3.0,0.0
+2024-2025,League phase,2,2024-10-02,Aston Villa,Bayern Munich,eng,de,1.0,0.0,1.0
+2024-2025,League phase,2,2024-10-02,Liverpool,Bologna,eng,it,2.0,0.0,1.0
+2024-2025,League phase,2,2024-10-02,Benfica,Atlético Madrid,pt,es,4.0,0.0,1.0
+2024-2025,League phase,2,2024-10-02,RB Leipzig,Juventus,de,it,2.0,3.0,0.0
+2024-2025,League phase,2,2024-10-02,Lille,Real Madrid,fr,es,1.0,0.0,1.0
+2024-2025,League phase,2,2024-10-02,Sturm Graz,Club Brugge,at,be,0.0,1.0,0.0
+2024-2025,League phase,2,2024-10-02,Dinamo Zagreb,Monaco,hr,fr,2.0,2.0,0.5
+2024-2025,League phase,3,2024-10-22,Monaco,Red Star,fr,rs,5.0,1.0,1.0
+2024-2025,League phase,3,2024-10-22,Milan,Club Brugge,it,be,3.0,1.0,1.0
+2024-2025,League phase,3,2024-10-22,Arsenal,Shakhtar,eng,ua,1.0,0.0,1.0
+2024-2025,League phase,3,2024-10-22,Aston Villa,Bologna,eng,it,2.0,0.0,1.0
+2024-2025,League phase,3,2024-10-22,Juventus,Stuttgart,it,de,0.0,1.0,0.0
+2024-2025,League phase,3,2024-10-22,Sturm Graz,Sporting CP,at,pt,0.0,2.0,0.0
+2024-2025,League phase,3,2024-10-22,Paris S-G,PSV Eindhoven,fr,nl,1.0,1.0,0.5
+2024-2025,League phase,3,2024-10-22,Real Madrid,Dortmund,es,de,5.0,2.0,1.0
+2024-2025,League phase,3,2024-10-22,Girona,Slovan Bratislava,es,sk,2.0,0.0,1.0
+2024-2025,League phase,3,2024-10-23,Brest,Leverkusen,fr,de,1.0,1.0,0.5
+2024-2025,League phase,3,2024-10-23,Atalanta,Celtic,it,sct,0.0,0.0,0.5
+2024-2025,League phase,3,2024-10-23,Benfica,Feyenoord,pt,nl,1.0,3.0,0.0
+2024-2025,League phase,3,2024-10-23,Manchester City,Sparta Prague,eng,cz,5.0,0.0,1.0
+2024-2025,League phase,3,2024-10-23,RB Salzburg,Dinamo Zagreb,at,hr,0.0,2.0,0.0
+2024-2025,League phase,3,2024-10-23,Barcelona,Bayern Munich,es,de,4.0,1.0,1.0
+2024-2025,League phase,3,2024-10-23,RB Leipzig,Liverpool,de,eng,0.0,1.0,0.0
+2024-2025,League phase,3,2024-10-23,Atlético Madrid,Lille,es,fr,1.0,3.0,0.0
+2024-2025,League phase,3,2024-10-23,Young Boys,Inter,ch,it,0.0,1.0,0.0
+2024-2025,League phase,4,2024-11-05,Slovan Bratislava,Dinamo Zagreb,sk,hr,1.0,4.0,0.0
+2024-2025,League phase,4,2024-11-05,PSV Eindhoven,Girona,nl,es,4.0,0.0,1.0
+2024-2025,League phase,4,2024-11-05,Sporting CP,Manchester City,pt,eng,4.0,1.0,1.0
+2024-2025,League phase,4,2024-11-05,Liverpool,Leverkusen,eng,de,4.0,0.0,1.0
+2024-2025,League phase,4,2024-11-05,Celtic,RB Leipzig,sct,de,3.0,1.0,1.0
+2024-2025,League phase,4,2024-11-05,Bologna,Monaco,it,fr,0.0,1.0,0.0
+2024-2025,League phase,4,2024-11-05,Real Madrid,Milan,es,it,1.0,3.0,0.0
+2024-2025,League phase,4,2024-11-05,Lille,Juventus,fr,it,1.0,1.0,0.5
+2024-2025,League phase,4,2024-11-05,Dortmund,Sturm Graz,de,at,1.0,0.0,1.0
+2024-2025,League phase,4,2024-11-06,Club Brugge,Aston Villa,be,eng,1.0,0.0,1.0
+2024-2025,League phase,4,2024-11-06,Shakhtar,Young Boys,ua,ch,2.0,1.0,1.0
+2024-2025,League phase,4,2024-11-06,Bayern Munich,Benfica,de,pt,1.0,0.0,1.0
+2024-2025,League phase,4,2024-11-06,Feyenoord,RB Salzburg,nl,at,1.0,3.0,0.0
+2024-2025,League phase,4,2024-11-06,Inter,Arsenal,it,eng,1.0,0.0,1.0
+2024-2025,League phase,4,2024-11-06,Stuttgart,Atalanta,de,it,0.0,2.0,0.0
+2024-2025,League phase,4,2024-11-06,Red Star,Barcelona,rs,es,2.0,5.0,0.0
+2024-2025,League phase,4,2024-11-06,Sparta Prague,Brest,cz,fr,1.0,2.0,0.0
+2024-2025,League phase,4,2024-11-06,Paris S-G,Atlético Madrid,fr,es,1.0,2.0,0.0
+2024-2025,League phase,5,2024-11-26,Slovan Bratislava,Milan,sk,it,2.0,3.0,0.0
+2024-2025,League phase,5,2024-11-26,Sparta Prague,Atlético Madrid,cz,es,0.0,6.0,0.0
+2024-2025,League phase,5,2024-11-26,Sporting CP,Arsenal,pt,eng,1.0,5.0,0.0
+2024-2025,League phase,5,2024-11-26,Manchester City,Feyenoord,eng,nl,3.0,3.0,0.5
+2024-2025,League phase,5,2024-11-26,Inter,RB Leipzig,it,de,1.0,0.0,1.0
+2024-2025,League phase,5,2024-11-26,Leverkusen,RB Salzburg,de,at,5.0,0.0,1.0
+2024-2025,League phase,5,2024-11-26,Bayern Munich,Paris S-G,de,fr,1.0,0.0,1.0
+2024-2025,League phase,5,2024-11-26,Young Boys,Atalanta,ch,it,1.0,6.0,0.0
+2024-2025,League phase,5,2024-11-26,Barcelona,Brest,es,fr,3.0,0.0,1.0
+2024-2025,League phase,5,2024-11-27,Red Star,Stuttgart,rs,de,5.0,1.0,1.0
+2024-2025,League phase,5,2024-11-27,Sturm Graz,Girona,at,es,1.0,0.0,1.0
+2024-2025,League phase,5,2024-11-27,Aston Villa,Juventus,eng,it,0.0,0.0,0.5
+2024-2025,League phase,5,2024-11-27,Celtic,Club Brugge,sct,be,1.0,1.0,0.5
+2024-2025,League phase,5,2024-11-27,Liverpool,Real Madrid,eng,es,2.0,0.0,1.0
+2024-2025,League phase,5,2024-11-27,Dinamo Zagreb,Dortmund,hr,de,0.0,3.0,0.0
+2024-2025,League phase,5,2024-11-27,Monaco,Benfica,fr,pt,2.0,3.0,0.0
+2024-2025,League phase,5,2024-11-27,PSV Eindhoven,Shakhtar,nl,ua,3.0,2.0,1.0
+2024-2025,League phase,5,2024-11-27,Bologna,Lille,it,fr,1.0,2.0,0.0
+2024-2025,League phase,6,2024-12-10,Girona,Liverpool,es,eng,0.0,1.0,0.0
+2024-2025,League phase,6,2024-12-10,Dinamo Zagreb,Celtic,hr,sct,0.0,0.0,0.5
+2024-2025,League phase,6,2024-12-10,Club Brugge,Sporting CP,be,pt,2.0,1.0,1.0
+2024-2025,League phase,6,2024-12-10,RB Salzburg,Paris S-G,at,fr,0.0,3.0,0.0
+2024-2025,League phase,6,2024-12-10,RB Leipzig,Aston Villa,de,eng,2.0,3.0,0.0
+2024-2025,League phase,6,2024-12-10,Brest,PSV Eindhoven,fr,nl,1.0,0.0,1.0
+2024-2025,League phase,6,2024-12-10,Leverkusen,Inter,de,it,1.0,0.0,1.0
+2024-2025,League phase,6,2024-12-10,Atalanta,Real Madrid,it,es,2.0,3.0,0.0
+2024-2025,League phase,6,2024-12-10,Shakhtar,Bayern Munich,ua,de,1.0,5.0,0.0
+2024-2025,League phase,6,2024-12-11,Atlético Madrid,Slovan Bratislava,es,sk,3.0,1.0,1.0
+2024-2025,League phase,6,2024-12-11,Lille,Sturm Graz,fr,at,3.0,2.0,1.0
+2024-2025,League phase,6,2024-12-11,Benfica,Bologna,pt,it,0.0,0.0,0.5
+2024-2025,League phase,6,2024-12-11,Arsenal,Monaco,eng,fr,3.0,0.0,1.0
+2024-2025,League phase,6,2024-12-11,Juventus,Manchester City,it,eng,2.0,0.0,1.0
+2024-2025,League phase,6,2024-12-11,Stuttgart,Young Boys,de,ch,5.0,1.0,1.0
+2024-2025,League phase,6,2024-12-11,Feyenoord,Sparta Prague,nl,cz,4.0,2.0,1.0
+2024-2025,League phase,6,2024-12-11,Milan,Red Star,it,rs,2.0,1.0,1.0
+2024-2025,League phase,6,2024-12-11,Dortmund,Barcelona,de,es,2.0,3.0,0.0
+2024-2025,League phase,7,2025-01-21,Atalanta,Sturm Graz,it,at,5.0,0.0,1.0
+2024-2025,League phase,7,2025-01-21,Monaco,Aston Villa,fr,eng,1.0,0.0,1.0
+2024-2025,League phase,7,2025-01-21,Liverpool,Lille,eng,fr,2.0,1.0,1.0
+2024-2025,League phase,7,2025-01-21,Benfica,Barcelona,pt,es,4.0,5.0,0.0
+2024-2025,League phase,7,2025-01-21,Atlético Madrid,Leverkusen,es,de,2.0,1.0,1.0
+2024-2025,League phase,7,2025-01-21,Club Brugge,Juventus,be,it,0.0,0.0,0.5
+2024-2025,League phase,7,2025-01-21,Red Star,PSV Eindhoven,rs,nl,2.0,3.0,0.0
+2024-2025,League phase,7,2025-01-21,Slovan Bratislava,Stuttgart,sk,de,1.0,3.0,0.0
+2024-2025,League phase,7,2025-01-21,Bologna,Dortmund,it,de,2.0,1.0,1.0
+2024-2025,League phase,7,2025-01-22,RB Leipzig,Sporting CP,de,pt,2.0,1.0,1.0
+2024-2025,League phase,7,2025-01-22,Shakhtar,Brest,ua,fr,2.0,0.0,1.0
+2024-2025,League phase,7,2025-01-22,Celtic,Young Boys,sct,ch,1.0,0.0,1.0
+2024-2025,League phase,7,2025-01-22,Arsenal,Dinamo Zagreb,eng,hr,3.0,0.0,1.0
+2024-2025,League phase,7,2025-01-22,Feyenoord,Bayern Munich,nl,de,3.0,0.0,1.0
+2024-2025,League phase,7,2025-01-22,Real Madrid,RB Salzburg,es,at,5.0,1.0,1.0
+2024-2025,League phase,7,2025-01-22,Sparta Prague,Inter,cz,it,0.0,1.0,0.0
+2024-2025,League phase,7,2025-01-22,Milan,Girona,it,es,1.0,0.0,1.0
+2024-2025,League phase,7,2025-01-22,Paris S-G,Manchester City,fr,eng,4.0,2.0,1.0
+2024-2025,League phase,8,2025-01-29,Aston Villa,Celtic,eng,sct,4.0,2.0,1.0
+2024-2025,League phase,8,2025-01-29,Sporting CP,Bologna,pt,it,1.0,1.0,0.5
+2024-2025,League phase,8,2025-01-29,Manchester City,Club Brugge,eng,be,3.0,1.0,1.0
+2024-2025,League phase,8,2025-01-29,Brest,Real Madrid,fr,es,0.0,3.0,0.0
+2024-2025,League phase,8,2025-01-29,Juventus,Benfica,it,pt,0.0,2.0,0.0
+2024-2025,League phase,8,2025-01-29,Sturm Graz,RB Leipzig,at,de,1.0,0.0,1.0
+2024-2025,League phase,8,2025-01-29,Lille,Feyenoord,fr,nl,6.0,1.0,1.0
+2024-2025,League phase,8,2025-01-29,Stuttgart,Paris S-G,de,fr,1.0,4.0,0.0
+2024-2025,League phase,8,2025-01-29,RB Salzburg,Atlético Madrid,at,es,1.0,4.0,0.0
+2024-2025,League phase,8,2025-01-29,Dortmund,Shakhtar,de,ua,3.0,1.0,1.0
+2024-2025,League phase,8,2025-01-29,Barcelona,Atalanta,es,it,2.0,2.0,0.5
+2024-2025,League phase,8,2025-01-29,PSV Eindhoven,Liverpool,nl,eng,3.0,2.0,1.0
+2024-2025,League phase,8,2025-01-29,Inter,Monaco,it,fr,3.0,0.0,1.0
+2024-2025,League phase,8,2025-01-29,Leverkusen,Sparta Prague,de,cz,2.0,0.0,1.0
+2024-2025,League phase,8,2025-01-29,Young Boys,Red Star,ch,rs,0.0,1.0,0.0
+2024-2025,League phase,8,2025-01-29,Girona,Arsenal,es,eng,1.0,2.0,0.0
+2024-2025,League phase,8,2025-01-29,Bayern Munich,Slovan Bratislava,de,sk,3.0,1.0,1.0
+2024-2025,League phase,8,2025-01-29,Dinamo Zagreb,Milan,hr,it,2.0,1.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-11,Brest,Paris S-G,fr,fr,0.0,3.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-11,Manchester City,Real Madrid,eng,es,2.0,3.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-11,Sporting CP,Dortmund,pt,de,0.0,3.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-11,Juventus,PSV Eindhoven,it,nl,2.0,1.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-12,Club Brugge,Atalanta,be,it,2.0,1.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-12,Celtic,Bayern Munich,sct,de,1.0,2.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-12,Monaco,Benfica,fr,pt,0.0,1.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-12,Feyenoord,Milan,nl,it,1.0,0.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-18,Milan,Feyenoord,it,nl,1.0,1.0,0.5
+2024-2025,Knockout phase play-offs,,2025-02-18,Benfica,Monaco,pt,fr,3.0,3.0,0.5
+2024-2025,Knockout phase play-offs,,2025-02-18,Bayern Munich,Celtic,de,sct,1.0,1.0,0.5
+2024-2025,Knockout phase play-offs,,2025-02-18,Atalanta,Club Brugge,it,be,1.0,3.0,0.0
+2024-2025,Knockout phase play-offs,,2025-02-19,Dortmund,Sporting CP,de,pt,0.0,0.0,0.5
+2024-2025,Knockout phase play-offs,,2025-02-19,PSV Eindhoven,Juventus,nl,it,3.0,1.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-19,Paris S-G,Brest,fr,fr,7.0,0.0,1.0
+2024-2025,Knockout phase play-offs,,2025-02-19,Real Madrid,Manchester City,es,eng,3.0,1.0,1.0
+2024-2025,Round of 16,,2025-03-04,Club Brugge,Aston Villa,be,eng,,,0.5
+2024-2025,Round of 16,,2025-03-04,Real Madrid,Atlético Madrid,es,es,,,0.5
+2024-2025,Round of 16,,2025-03-04,Dortmund,Lille,de,fr,,,0.5
+2024-2025,Round of 16,,2025-03-04,PSV Eindhoven,Arsenal,nl,eng,,,0.5
+2024-2025,Round of 16,,2025-03-05,Feyenoord,Inter,nl,it,,,0.5
+2024-2025,Round of 16,,2025-03-05,Benfica,Barcelona,pt,es,,,0.5
+2024-2025,Round of 16,,2025-03-05,Paris S-G,Liverpool,fr,eng,,,0.5
+2024-2025,Round of 16,,2025-03-05,Bayern Munich,Leverkusen,de,de,,,0.5
+2024-2025,Round of 16,,2025-03-11,Barcelona,Benfica,es,pt,,,0.5
+2024-2025,Round of 16,,2025-03-11,Liverpool,Paris S-G,eng,fr,,,0.5
+2024-2025,Round of 16,,2025-03-11,Inter,Feyenoord,it,nl,,,0.5
+2024-2025,Round of 16,,2025-03-11,Leverkusen,Bayern Munich,de,de,,,0.5
+2024-2025,Round of 16,,2025-03-12,Lille,Dortmund,fr,de,,,0.5
+2024-2025,Round of 16,,2025-03-12,Aston Villa,Club Brugge,eng,be,,,0.5
+2024-2025,Round of 16,,2025-03-12,Arsenal,PSV Eindhoven,eng,nl,,,0.5
+2024-2025,Round of 16,,2025-03-12,Atlético Madrid,Real Madrid,es,es,,,0.5

@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-08-03,Veres Rivne,Karpaty Lviv,0.0,0.0,0.5
+2024-2025,1,2024-08-03,Kryvbas Kryvyi Rih,Chornomorets Odesa,1.0,0.0,1.0
+2024-2025,1,2024-08-04,FC LNZ Cherkasy,FK Livyi Bereh,1.0,0.0,1.0
+2024-2025,1,2024-08-04,Obolon-Brovar Kyiv,FK Kolos,2.0,2.0,0.5
+2024-2025,1,2024-08-04,Vorskla Poltava,Shakhtar,0.0,5.0,0.0
+2024-2025,1,2024-08-04,Zorya Luhansk,FK Inhulets,2.0,1.0,1.0
+2024-2025,2,2024-08-09,FK Livyi Bereh,Vorskla Poltava,0.0,3.0,0.0
+2024-2025,2,2024-08-09,Veres Rivne,Dynamo Kyiv,1.0,2.0,0.0
+2024-2025,2,2024-08-10,Chornomorets Odesa,Zorya Luhansk,0.0,1.0,0.0
+2024-2025,2,2024-08-10,FK Kolos,FK Inhulets,0.0,0.0,0.5
+2024-2025,2,2024-08-11,Obolon-Brovar Kyiv,Рух,0.0,4.0,0.0
+2024-2025,2,2024-08-11,Karpaty Lviv,Kryvbas Kryvyi Rih,3.0,0.0,1.0
+2024-2025,2,2024-08-11,Shakhtar,FC Polissya Zhytomyr,0.0,1.0,0.0
+2024-2025,2,2024-08-12,FC LNZ Cherkasy,FC Oleksandriya,0.0,2.0,0.0
+2024-2025,3,2024-08-16,Chornomorets Odesa,FK Kolos,1.0,0.0,1.0
+2024-2025,3,2024-08-16,Vorskla Poltava,Obolon-Brovar Kyiv,2.0,0.0,1.0
+2024-2025,3,2024-08-17,Zorya Luhansk,FC Oleksandriya,1.0,2.0,0.0
+2024-2025,3,2024-08-17,FC Polissya Zhytomyr,FK Inhulets,1.0,1.0,0.5
+2024-2025,3,2024-08-17,Karpaty Lviv,Dynamo Kyiv,1.0,3.0,0.0
+2024-2025,3,2024-08-18,Veres Rivne,Kryvbas Kryvyi Rih,0.0,2.0,0.0
+2024-2025,3,2024-08-18,FC LNZ Cherkasy,Рух,3.0,1.0,1.0
+2024-2025,3,2024-08-18,FK Livyi Bereh,Shakhtar,0.0,1.0,0.0
+2024-2025,4,2024-08-24,FC Oleksandriya,Shakhtar,4.0,3.0,1.0
+2024-2025,4,2024-08-25,FC Polissya Zhytomyr,Obolon-Brovar Kyiv,4.0,0.0,1.0
+2024-2025,4,2024-08-25,Рух,Zorya Luhansk,3.0,0.0,1.0
+2024-2025,4,2024-08-25,Kryvbas Kryvyi Rih,FK Inhulets,1.0,1.0,0.5
+2024-2025,4,2024-08-26,FK Livyi Bereh,Chornomorets Odesa,1.0,0.0,1.0
+2024-2025,4,2024-08-26,FK Kolos,Veres Rivne,0.0,1.0,0.0
+2024-2025,4,2024-08-26,FC LNZ Cherkasy,Karpaty Lviv,2.0,1.0,1.0
+2024-2025,5,2024-08-30,Obolon-Brovar Kyiv,Zorya Luhansk,0.0,2.0,0.0
+2024-2025,5,2024-08-30,Рух,FK Inhulets,5.0,0.0,1.0
+2024-2025,5,2024-08-31,Karpaty Lviv,Vorskla Poltava,1.0,1.0,0.5
+2024-2025,5,2024-08-31,FC Oleksandriya,FK Kolos,2.0,1.0,1.0
+2024-2025,5,2024-08-31,Chornomorets Odesa,FC Polissya Zhytomyr,1.0,4.0,0.0
+2024-2025,5,2024-09-01,Veres Rivne,FK Livyi Bereh,1.0,3.0,0.0
+2024-2025,5,2024-09-01,Dynamo Kyiv,FC LNZ Cherkasy,1.0,0.0,1.0
+2024-2025,6,2024-09-13,Obolon-Brovar Kyiv,FC Oleksandriya,0.0,0.0,0.5
+2024-2025,6,2024-09-14,Chornomorets Odesa,FK Inhulets,1.0,0.0,1.0
+2024-2025,6,2024-09-14,Zorya Luhansk,Dynamo Kyiv,0.0,2.0,0.0
+2024-2025,6,2024-09-14,Shakhtar,Karpaty Lviv,5.0,2.0,1.0
+2024-2025,6,2024-09-15,Vorskla Poltava,Рух,0.0,0.0,0.5
+2024-2025,6,2024-09-15,FK Livyi Bereh,Kryvbas Kryvyi Rih,0.0,1.0,0.0
+2024-2025,6,2024-09-15,FC Polissya Zhytomyr,Veres Rivne,2.0,1.0,1.0
+2024-2025,6,2024-09-16,FK Kolos,FC LNZ Cherkasy,1.0,1.0,0.5
+2024-2025,4,2024-09-18,Dynamo Kyiv,Vorskla Poltava,3.0,1.0,1.0
+2024-2025,7,2024-09-21,Chornomorets Odesa,Karpaty Lviv,0.0,0.0,0.5
+2024-2025,7,2024-09-21,FC Oleksandriya,FK Livyi Bereh,2.0,0.0,1.0
+2024-2025,7,2024-09-21,Dynamo Kyiv,Рух,0.0,0.0,0.5
+2024-2025,7,2024-09-22,Veres Rivne,FK Inhulets,2.0,2.0,0.5
+2024-2025,7,2024-09-22,Kryvbas Kryvyi Rih,Vorskla Poltava,1.0,1.0,0.5
+2024-2025,7,2024-09-22,FC Polissya Zhytomyr,FC LNZ Cherkasy,1.0,1.0,0.5
+2024-2025,7,2024-09-23,FK Kolos,Zorya Luhansk,1.0,0.0,1.0
+2024-2025,7,2024-09-23,Shakhtar,Obolon-Brovar Kyiv,4.0,0.0,1.0
+2024-2025,8,2024-09-27,Veres Rivne,Shakhtar,1.0,1.0,0.5
+2024-2025,8,2024-09-28,Kryvbas Kryvyi Rih,FC Oleksandriya,0.0,1.0,0.0
+2024-2025,8,2024-09-28,FC LNZ Cherkasy,Chornomorets Odesa,1.0,1.0,0.5
+2024-2025,8,2024-09-28,Karpaty Lviv,FC Polissya Zhytomyr,1.0,3.0,0.0
+2024-2025,8,2024-09-29,Obolon-Brovar Kyiv,FK Inhulets,2.0,1.0,1.0
+2024-2025,8,2024-09-29,Рух,FK Kolos,0.0,0.0,0.5
+2024-2025,8,2024-09-29,FK Livyi Bereh,Dynamo Kyiv,0.0,3.0,0.0
+2024-2025,8,2024-09-30,Zorya Luhansk,Vorskla Poltava,2.0,0.0,1.0
+2024-2025,9,2024-10-04,Chornomorets Odesa,Obolon-Brovar Kyiv,1.0,0.0,1.0
+2024-2025,9,2024-10-04,Karpaty Lviv,FK Inhulets,0.0,0.0,0.5
+2024-2025,9,2024-10-05,Veres Rivne,Zorya Luhansk,2.0,1.0,1.0
+2024-2025,9,2024-10-05,FC Oleksandriya,Рух,1.0,1.0,0.5
+2024-2025,9,2024-10-05,FK Kolos,FK Livyi Bereh,0.0,0.0,0.5
+2024-2025,9,2024-10-06,FC Polissya Zhytomyr,Vorskla Poltava,2.0,1.0,1.0
+2024-2025,9,2024-10-06,Shakhtar,FC LNZ Cherkasy,5.0,1.0,1.0
+2024-2025,9,2024-10-06,Dynamo Kyiv,Kryvbas Kryvyi Rih,2.0,1.0,1.0
+2024-2025,10,2024-10-18,FK Kolos,Shakhtar,0.0,1.0,0.0
+2024-2025,10,2024-10-19,FC Oleksandriya,Vorskla Poltava,1.0,0.0,1.0
+2024-2025,10,2024-10-19,Obolon-Brovar Kyiv,Dynamo Kyiv,1.0,5.0,0.0
+2024-2025,10,2024-10-19,FC Polissya Zhytomyr,FK Livyi Bereh,0.0,0.0,0.5
+2024-2025,10,2024-10-20,FC LNZ Cherkasy,FK Inhulets,2.0,0.0,1.0
+2024-2025,10,2024-10-20,Chornomorets Odesa,Veres Rivne,1.0,1.0,0.5
+2024-2025,10,2024-10-20,Zorya Luhansk,Kryvbas Kryvyi Rih,0.0,1.0,0.0
+2024-2025,10,2024-10-21,Рух,Karpaty Lviv,0.0,1.0,0.0
+2024-2025,11,2024-10-25,Рух,Chornomorets Odesa,1.0,1.0,0.5
+2024-2025,11,2024-10-25,FC Polissya Zhytomyr,FK Kolos,1.0,1.0,0.5
+2024-2025,11,2024-10-26,FC Oleksandriya,FK Inhulets,2.0,1.0,1.0
+2024-2025,11,2024-10-26,Kryvbas Kryvyi Rih,FC LNZ Cherkasy,3.0,1.0,1.0
+2024-2025,11,2024-10-26,Karpaty Lviv,Obolon-Brovar Kyiv,1.0,0.0,1.0
+2024-2025,11,2024-10-27,FK Livyi Bereh,Zorya Luhansk,0.0,2.0,0.0
+2024-2025,11,2024-10-27,Veres Rivne,Vorskla Poltava,2.0,2.0,0.5
+2024-2025,11,2024-10-27,Dynamo Kyiv,Shakhtar,1.0,1.0,0.5
+2024-2025,12,2024-11-02,Karpaty Lviv,FK Livyi Bereh,3.0,0.0,1.0
+2024-2025,12,2024-11-02,Shakhtar,Chornomorets Odesa,2.0,1.0,1.0
+2024-2025,12,2024-11-03,Vorskla Poltava,FK Kolos,0.0,1.0,0.0
+2024-2025,12,2024-11-03,FC Oleksandriya,FC Polissya Zhytomyr,1.0,0.0,1.0
+2024-2025,12,2024-11-03,Dynamo Kyiv,FK Inhulets,5.0,2.0,1.0
+2024-2025,12,2024-11-04,Obolon-Brovar Kyiv,Veres Rivne,0.0,0.0,0.5
+2024-2025,12,2024-11-04,Kryvbas Kryvyi Rih,Рух,1.0,1.0,0.5
+2024-2025,12,2024-11-04,Zorya Luhansk,FC LNZ Cherkasy,1.0,2.0,0.0
+2024-2025,13,2024-11-08,Chornomorets Odesa,Vorskla Poltava,0.0,1.0,0.0
+2024-2025,13,2024-11-08,FK Livyi Bereh,FK Inhulets,0.0,0.0,0.5
+2024-2025,13,2024-11-09,FC LNZ Cherkasy,Obolon-Brovar Kyiv,0.0,1.0,0.0
+2024-2025,13,2024-11-09,FC Oleksandriya,Karpaty Lviv,3.0,0.0,1.0
+2024-2025,13,2024-11-09,FK Kolos,Kryvbas Kryvyi Rih,1.0,1.0,0.5
+2024-2025,13,2024-11-10,Veres Rivne,Рух,2.0,0.0,1.0
+2024-2025,13,2024-11-10,Shakhtar,Zorya Luhansk,3.0,1.0,1.0
+2024-2025,13,2024-11-10,Dynamo Kyiv,FC Polissya Zhytomyr,2.0,1.0,1.0
+2024-2025,14,2024-11-22,Karpaty Lviv,FK Kolos,1.0,0.0,1.0
+2024-2025,14,2024-11-23,Vorskla Poltava,FC LNZ Cherkasy,2.0,0.0,1.0
+2024-2025,14,2024-11-23,Dynamo Kyiv,Chornomorets Odesa,3.0,1.0,1.0
+2024-2025,14,2024-11-23,Shakhtar,FK Inhulets,6.0,0.0,1.0
+2024-2025,14,2024-11-24,Obolon-Brovar Kyiv,Kryvbas Kryvyi Rih,0.0,1.0,0.0
+2024-2025,14,2024-11-24,Veres Rivne,FC Oleksandriya,1.0,1.0,0.5
+2024-2025,14,2024-11-24,Рух,FK Livyi Bereh,1.0,0.0,1.0
+2024-2025,14,2024-11-25,FC Polissya Zhytomyr,Zorya Luhansk,1.0,1.0,0.5
+2024-2025,15,2024-11-29,Vorskla Poltava,FK Inhulets,0.0,3.0,0.0
+2024-2025,15,2024-11-30,FC LNZ Cherkasy,Veres Rivne,1.0,2.0,0.0
+2024-2025,15,2024-11-30,Kryvbas Kryvyi Rih,FC Polissya Zhytomyr,3.0,1.0,1.0
+2024-2025,15,2024-11-30,FK Livyi Bereh,Obolon-Brovar Kyiv,1.0,1.0,0.5
+2024-2025,15,2024-12-01,FC Oleksandriya,Chornomorets Odesa,3.0,0.0,1.0
+2024-2025,15,2024-12-01,FK Kolos,Dynamo Kyiv,1.0,1.0,0.5
+2024-2025,15,2024-12-01,Shakhtar,Рух,1.0,1.0,0.5
+2024-2025,15,2024-12-02,Zorya Luhansk,Karpaty Lviv,2.0,1.0,1.0
+2024-2025,1,2024-12-04,FC Oleksandriya,Dynamo Kyiv,0.0,0.0,0.5
+2024-2025,1,2024-12-04,Рух,FC Polissya Zhytomyr,1.0,1.0,0.5
+2024-2025,16,2024-12-05,Shakhtar,Vorskla Poltava,3.0,1.0,1.0
+2024-2025,16,2024-12-07,FK Livyi Bereh,FC LNZ Cherkasy,3.0,1.0,1.0
+2024-2025,16,2024-12-07,Chornomorets Odesa,Kryvbas Kryvyi Rih,1.0,3.0,0.0
+2024-2025,16,2024-12-07,Karpaty Lviv,Veres Rivne,5.0,0.0,1.0
+2024-2025,16,2024-12-08,FK Kolos,Obolon-Brovar Kyiv,0.0,0.0,0.5
+2024-2025,16,2024-12-08,Dynamo Kyiv,FC Oleksandriya,3.0,0.0,1.0
+2024-2025,16,2024-12-09,FC Polissya Zhytomyr,Рух,0.0,1.0,0.0
+2024-2025,17,2024-12-13,Vorskla Poltava,FK Livyi Bereh,0.0,1.0,0.0
+2024-2025,17,2024-12-14,FC Oleksandriya,FC LNZ Cherkasy,1.0,1.0,0.5
+2024-2025,17,2024-12-14,Kryvbas Kryvyi Rih,Karpaty Lviv,2.0,0.0,1.0
+2024-2025,17,2024-12-14,Zorya Luhansk,Chornomorets Odesa,2.0,1.0,1.0
+2024-2025,17,2024-12-15,FK Inhulets,FK Kolos,0.0,2.0,0.0
+2024-2025,17,2024-12-15,Рух,Obolon-Brovar Kyiv,1.0,3.0,0.0
+2024-2025,17,2024-12-15,FC Polissya Zhytomyr,Shakhtar,1.0,0.0,1.0
+2024-2025,17,2024-12-16,Dynamo Kyiv,Veres Rivne,1.0,0.0,1.0
+2024-2025,18,2025-02-21,FK Kolos,Chornomorets Odesa,1.0,2.0,0.0
+2024-2025,18,2025-02-22,Kryvbas Kryvyi Rih,Veres Rivne,0.0,3.0,0.0
+2024-2025,18,2025-02-22,FK Inhulets,FC Polissya Zhytomyr,0.0,1.0,0.0
+2024-2025,18,2025-02-22,Рух,FC LNZ Cherkasy,0.0,1.0,0.0
+2024-2025,18,2025-02-23,Obolon-Brovar Kyiv,Vorskla Poltava,,,
+2024-2025,18,2025-02-23,FC Oleksandriya,Zorya Luhansk,,,
+2024-2025,18,2025-02-23,Dynamo Kyiv,Karpaty Lviv,,,
+2024-2025,18,2025-02-24,Shakhtar,FK Livyi Bereh,,,
+2024-2025,19,2025-02-28,Obolon-Brovar Kyiv,FC Polissya Zhytomyr,,,
+2024-2025,19,2025-02-28,Vorskla Poltava,Dynamo Kyiv,,,
+2024-2025,19,2025-02-28,Karpaty Lviv,FC LNZ Cherkasy,,,
+2024-2025,19,2025-03-01,FK Inhulets,Kryvbas Kryvyi Rih,,,
+2024-2025,19,2025-03-01,Chornomorets Odesa,FK Livyi Bereh,,,
+2024-2025,19,2025-03-01,Shakhtar,FC Oleksandriya,,,
+2024-2025,19,2025-03-02,Zorya Luhansk,Рух,,,
+2024-2025,19,2025-03-02,Veres Rivne,FK Kolos,,,
+2024-2025,20,2025-03-06,Vorskla Poltava,Karpaty Lviv,,,
+2024-2025,20,2025-03-06,FC Polissya Zhytomyr,Chornomorets Odesa,,,
+2024-2025,20,2025-03-06,FC LNZ Cherkasy,Dynamo Kyiv,,,
+2024-2025,20,2025-03-06,Shakhtar,Kryvbas Kryvyi Rih,,,
+2024-2025,20,2025-03-07,FK Livyi Bereh,Veres Rivne,,,
+2024-2025,20,2025-03-07,FK Kolos,FC Oleksandriya,,,
+2024-2025,20,2025-03-07,Zorya Luhansk,Obolon-Brovar Kyiv,,,
+2024-2025,20,2025-03-08,FK Inhulets,Рух,,,
+2024-2025,21,2025-03-11,FC Oleksandriya,Obolon-Brovar Kyiv,,,
+2024-2025,21,2025-03-11,Dynamo Kyiv,Zorya Luhansk,,,
+2024-2025,21,2025-03-11,Veres Rivne,FC Polissya Zhytomyr,,,
+2024-2025,21,2025-03-11,Karpaty Lviv,Shakhtar,,,
+2024-2025,21,2025-03-15,Kryvbas Kryvyi Rih,FK Livyi Bereh,,,
+2024-2025,21,2025-03-15,Рух,Vorskla Poltava,,,
+2024-2025,21,2025-03-16,FK Inhulets,Chornomorets Odesa,,,
+2024-2025,21,2025-03-16,FC LNZ Cherkasy,FK Kolos,,,
+2024-2025,22,2025-03-29,FK Inhulets,Veres Rivne,,,
+2024-2025,22,2025-03-29,Рух,Dynamo Kyiv,,,
+2024-2025,22,2025-03-29,FK Livyi Bereh,FC Oleksandriya,,,
+2024-2025,22,2025-03-29,FC LNZ Cherkasy,FC Polissya Zhytomyr,,,
+2024-2025,22,2025-03-29,Zorya Luhansk,FK Kolos,,,
+2024-2025,22,2025-03-29,Obolon-Brovar Kyiv,Shakhtar,,,
+2024-2025,22,2025-03-29,Vorskla Poltava,Kryvbas Kryvyi Rih,,,
+2024-2025,22,2025-03-29,Karpaty Lviv,Chornomorets Odesa,,,
+2024-2025,23,2025-04-05,FC Oleksandriya,Kryvbas Kryvyi Rih,,,
+2024-2025,23,2025-04-05,Vorskla Poltava,Zorya Luhansk,,,
+2024-2025,23,2025-04-05,FK Inhulets,Obolon-Brovar Kyiv,,,
+2024-2025,23,2025-04-05,Dynamo Kyiv,FK Livyi Bereh,,,
+2024-2025,23,2025-04-05,Chornomorets Odesa,FC LNZ Cherkasy,,,
+2024-2025,23,2025-04-05,Shakhtar,Veres Rivne,,,
+2024-2025,23,2025-04-05,FK Kolos,Рух,,,
+2024-2025,23,2025-04-05,FC Polissya Zhytomyr,Karpaty Lviv,,,
+2024-2025,24,2025-04-12,FC LNZ Cherkasy,Shakhtar,,,
+2024-2025,24,2025-04-12,Zorya Luhansk,Veres Rivne,,,
+2024-2025,24,2025-04-12,FK Inhulets,Karpaty Lviv,,,
+2024-2025,24,2025-04-12,Рух,FC Oleksandriya,,,
+2024-2025,24,2025-04-12,Obolon-Brovar Kyiv,Chornomorets Odesa,,,
+2024-2025,24,2025-04-12,FK Livyi Bereh,FK Kolos,,,
+2024-2025,24,2025-04-12,Vorskla Poltava,FC Polissya Zhytomyr,,,
+2024-2025,24,2025-04-12,Kryvbas Kryvyi Rih,Dynamo Kyiv,,,
+2024-2025,5,2025-04-16,Kryvbas Kryvyi Rih,Shakhtar,0.0,1.0,0.0
+2024-2025,25,2025-04-19,Dynamo Kyiv,Obolon-Brovar Kyiv,,,
+2024-2025,25,2025-04-19,Shakhtar,FK Kolos,,,
+2024-2025,25,2025-04-19,FK Inhulets,FC LNZ Cherkasy,,,
+2024-2025,25,2025-04-19,Karpaty Lviv,Рух,,,
+2024-2025,25,2025-04-19,Kryvbas Kryvyi Rih,Zorya Luhansk,,,
+2024-2025,25,2025-04-19,Vorskla Poltava,FC Oleksandriya,,,
+2024-2025,25,2025-04-19,Veres Rivne,Chornomorets Odesa,,,
+2024-2025,25,2025-04-19,FK Livyi Bereh,FC Polissya Zhytomyr,,,
+2024-2025,26,2025-04-26,FK Inhulets,FC Oleksandriya,,,
+2024-2025,26,2025-04-26,Vorskla Poltava,Veres Rivne,,,
+2024-2025,26,2025-04-26,Obolon-Brovar Kyiv,Karpaty Lviv,,,
+2024-2025,26,2025-04-26,Chornomorets Odesa,Рух,,,
+2024-2025,26,2025-04-26,Shakhtar,Dynamo Kyiv,,,
+2024-2025,26,2025-04-26,FK Kolos,FC Polissya Zhytomyr,,,
+2024-2025,26,2025-04-26,Zorya Luhansk,FK Livyi Bereh,,,
+2024-2025,26,2025-04-26,FC LNZ Cherkasy,Kryvbas Kryvyi Rih,,,
+2024-2025,16,2025-04-30,FK Inhulets,Zorya Luhansk,1.0,0.0,1.0
+2024-2025,27,2025-05-03,FC Polissya Zhytomyr,FC Oleksandriya,,,
+2024-2025,27,2025-05-03,FK Inhulets,Dynamo Kyiv,,,
+2024-2025,27,2025-05-03,Chornomorets Odesa,Shakhtar,,,
+2024-2025,27,2025-05-03,FK Kolos,Vorskla Poltava,,,
+2024-2025,27,2025-05-03,Рух,Kryvbas Kryvyi Rih,,,
+2024-2025,27,2025-05-03,FK Livyi Bereh,Karpaty Lviv,,,
+2024-2025,27,2025-05-03,FC LNZ Cherkasy,Zorya Luhansk,,,
+2024-2025,27,2025-05-03,Veres Rivne,Obolon-Brovar Kyiv,,,
+2024-2025,28,2025-05-10,FK Inhulets,FK Livyi Bereh,,,
+2024-2025,28,2025-05-10,FC Polissya Zhytomyr,Dynamo Kyiv,,,
+2024-2025,28,2025-05-10,Obolon-Brovar Kyiv,FC LNZ Cherkasy,,,
+2024-2025,28,2025-05-10,Рух,Veres Rivne,,,
+2024-2025,28,2025-05-10,Kryvbas Kryvyi Rih,FK Kolos,,,
+2024-2025,28,2025-05-10,Zorya Luhansk,Shakhtar,,,
+2024-2025,28,2025-05-10,Karpaty Lviv,FC Oleksandriya,,,
+2024-2025,28,2025-05-10,Vorskla Poltava,Chornomorets Odesa,,,
+2024-2025,29,2025-05-17,FK Kolos,Karpaty Lviv,,,
+2024-2025,29,2025-05-17,Chornomorets Odesa,Dynamo Kyiv,,,
+2024-2025,29,2025-05-17,FC LNZ Cherkasy,Vorskla Poltava,,,
+2024-2025,29,2025-05-17,FC Oleksandriya,Veres Rivne,,,
+2024-2025,29,2025-05-17,Zorya Luhansk,FC Polissya Zhytomyr,,,
+2024-2025,29,2025-05-17,FK Inhulets,Shakhtar,,,
+2024-2025,29,2025-05-17,FK Livyi Bereh,Рух,,,
+2024-2025,29,2025-05-17,Kryvbas Kryvyi Rih,Obolon-Brovar Kyiv,,,
+2024-2025,30,2025-05-24,Obolon-Brovar Kyiv,FK Livyi Bereh,,,
+2024-2025,30,2025-05-24,Veres Rivne,FC LNZ Cherkasy,,,
+2024-2025,30,2025-05-24,Dynamo Kyiv,FK Kolos,,,
+2024-2025,30,2025-05-24,Karpaty Lviv,Zorya Luhansk,,,
+2024-2025,30,2025-05-24,FK Inhulets,Vorskla Poltava,,,
+2024-2025,30,2025-05-24,Chornomorets Odesa,FC Oleksandriya,,,
+2024-2025,30,2025-05-24,FC Polissya Zhytomyr,Kryvbas Kryvyi Rih,,,
+2024-2025,30,2025-05-24,Рух,Shakhtar,,,

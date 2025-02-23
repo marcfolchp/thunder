@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,1,2019-08-09,Portimonense,B-SAD,0,0,0.5
+2019-2020,1,2019-08-10,Santa Clara,Famalicão,0,2,0.0
+2019-2020,1,2019-08-10,Gil Vicente FC,Porto,2,1,1.0
+2019-2020,1,2019-08-10,Benfica,Paços,5,0,1.0
+2019-2020,1,2019-08-11,Boavista,Aves,2,1,1.0
+2019-2020,1,2019-08-11,Marítimo,Sporting CP,1,1,0.5
+2019-2020,1,2019-08-11,Braga,Moreirense,3,1,1.0
+2019-2020,1,2019-08-12,Vitória Setúbal,Tondela,0,0,0.5
+2019-2020,2,2019-08-16,Famalicão,Rio Ave,1,0,1.0
+2019-2020,2,2019-08-17,Moreirense,Gil Vicente FC,3,0,1.0
+2019-2020,2,2019-08-17,B-SAD,Benfica,0,2,0.0
+2019-2020,2,2019-08-17,Porto,Vitória Setúbal,4,0,1.0
+2019-2020,2,2019-08-18,Paços,Santa Clara,0,1,0.0
+2019-2020,2,2019-08-18,Aves,Marítimo,3,1,1.0
+2019-2020,2,2019-08-18,Vitória,Boavista,1,1,0.5
+2019-2020,2,2019-08-18,Sporting CP,Braga,2,1,1.0
+2019-2020,2,2019-08-19,Tondela,Portimonense,1,2,0.0
+2019-2020,3,2019-08-23,Vitória Setúbal,Moreirense,0,0,0.5
+2019-2020,3,2019-08-23,Rio Ave,Aves,5,1,1.0
+2019-2020,3,2019-08-24,Benfica,Porto,0,2,0.0
+2019-2020,3,2019-08-24,Boavista,Paços,1,1,0.5
+2019-2020,3,2019-08-25,Santa Clara,B-SAD,0,0,0.5
+2019-2020,3,2019-08-25,Marítimo,Tondela,2,3,0.0
+2019-2020,3,2019-08-25,Portimonense,Sporting CP,1,3,0.0
+2019-2020,3,2019-08-25,Gil Vicente FC,Braga,1,1,0.5
+2019-2020,3,2019-08-25,Vitória,Famalicão,1,1,0.5
+2019-2020,4,2019-08-30,Moreirense,Portimonense,1,0,1.0
+2019-2020,4,2019-08-30,B-SAD,Boavista,0,1,0.0
+2019-2020,4,2019-08-31,Paços,Marítimo,0,1,0.0
+2019-2020,4,2019-08-31,Aves,Famalicão,2,3,0.0
+2019-2020,4,2019-08-31,Sporting CP,Rio Ave,2,3,0.0
+2019-2020,4,2019-08-31,Gil Vicente FC,Vitória Setúbal,0,0,0.5
+2019-2020,4,2019-09-01,Tondela,Santa Clara,0,0,0.5
+2019-2020,4,2019-09-01,Porto,Vitória,3,0,1.0
+2019-2020,4,2019-09-01,Braga,Benfica,0,4,0.0
+2019-2020,1,2019-09-08,Rio Ave,Vitória,1,1,0.5
+2019-2020,5,2019-09-13,Vitória Setúbal,Braga,1,0,1.0
+2019-2020,5,2019-09-14,Famalicão,Paços,4,2,1.0
+2019-2020,5,2019-09-14,Benfica,Gil Vicente FC,2,0,1.0
+2019-2020,5,2019-09-14,Vitória,Aves,5,1,1.0
+2019-2020,5,2019-09-15,Santa Clara,Moreirense,2,0,1.0
+2019-2020,5,2019-09-15,Rio Ave,Tondela,2,4,0.0
+2019-2020,5,2019-09-15,Marítimo,B-SAD,1,3,0.0
+2019-2020,5,2019-09-15,Portimonense,Porto,2,3,0.0
+2019-2020,5,2019-09-15,Boavista,Sporting CP,1,1,0.5
+2019-2020,6,2019-09-20,Paços,Aves,2,1,1.0
+2019-2020,6,2019-09-21,B-SAD,Rio Ave,0,2,0.0
+2019-2020,6,2019-09-21,Moreirense,Benfica,1,2,0.0
+2019-2020,6,2019-09-22,Gil Vicente FC,Boavista,0,0,0.5
+2019-2020,6,2019-09-22,Tondela,Vitória,1,3,0.0
+2019-2020,6,2019-09-22,Vitória Setúbal,Portimonense,0,0,0.5
+2019-2020,6,2019-09-22,Porto,Santa Clara,2,0,1.0
+2019-2020,6,2019-09-23,Braga,Marítimo,2,2,0.5
+2019-2020,6,2019-09-23,Sporting CP,Famalicão,1,2,0.0
+2019-2020,7,2019-09-27,Boavista,Tondela,0,0,0.5
+2019-2020,7,2019-09-28,Marítimo,Moreirense,2,1,1.0
+2019-2020,7,2019-09-28,Benfica,Vitória Setúbal,1,0,1.0
+2019-2020,7,2019-09-28,Famalicão,B-SAD,3,1,1.0
+2019-2020,7,2019-09-29,Santa Clara,Gil Vicente FC,1,0,1.0
+2019-2020,7,2019-09-29,Vitória,Paços,1,0,1.0
+2019-2020,7,2019-09-29,Portimonense,Braga,0,1,0.0
+2019-2020,7,2019-09-29,Rio Ave,Porto,0,1,0.0
+2019-2020,7,2019-09-30,Aves,Sporting CP,0,1,0.0
+2019-2020,9,2019-10-05,Aves,Tondela,0,1,0.0
+2019-2020,8,2019-10-25,Paços,Rio Ave,0,0,0.5
+2019-2020,8,2019-10-26,Gil Vicente FC,Portimonense,1,1,0.5
+2019-2020,8,2019-10-26,B-SAD,Aves,3,2,1.0
+2019-2020,8,2019-10-26,Vitória Setúbal,Marítimo,0,0,0.5
+2019-2020,8,2019-10-26,Moreirense,Boavista,1,1,0.5
+2019-2020,8,2019-10-27,Tondela,Benfica,0,1,0.0
+2019-2020,8,2019-10-27,Porto,Famalicão,3,0,1.0
+2019-2020,8,2019-10-27,Sporting CP,Vitória,3,1,1.0
+2019-2020,8,2019-10-28,Braga,Santa Clara,2,0,1.0
+2019-2020,9,2019-10-30,Rio Ave,Moreirense,1,1,0.5
+2019-2020,9,2019-10-30,Marítimo,Porto,1,1,0.5
+2019-2020,9,2019-10-30,Vitória,B-SAD,5,0,1.0
+2019-2020,9,2019-10-30,Benfica,Portimonense,4,0,1.0
+2019-2020,9,2019-10-30,Famalicão,Gil Vicente FC,2,1,1.0
+2019-2020,9,2019-10-31,Santa Clara,Vitória Setúbal,1,1,0.5
+2019-2020,9,2019-10-31,Paços,Sporting CP,1,2,0.0
+2019-2020,9,2019-10-31,Boavista,Braga,2,0,1.0
+2019-2020,10,2019-11-02,Benfica,Rio Ave,2,0,1.0
+2019-2020,10,2019-11-02,Moreirense,Vitória,1,1,0.5
+2019-2020,10,2019-11-03,Gil Vicente FC,Marítimo,2,0,1.0
+2019-2020,10,2019-11-03,Tondela,Sporting CP,1,0,1.0
+2019-2020,10,2019-11-03,Porto,Aves,1,0,1.0
+2019-2020,10,2019-11-03,Braga,Famalicão,2,2,0.5
+2019-2020,10,2019-11-04,B-SAD,Paços,1,0,1.0
+2019-2020,10,2019-11-04,Portimonense,Santa Clara,1,1,0.5
+2019-2020,10,2019-11-04,Vitória Setúbal,Boavista,1,0,1.0
+2019-2020,11,2019-11-08,Aves,Gil Vicente FC,1,2,0.0
+2019-2020,11,2019-11-09,Rio Ave,Vitória Setúbal,1,0,1.0
+2019-2020,11,2019-11-09,Santa Clara,Benfica,1,2,0.0
+2019-2020,11,2019-11-09,Famalicão,Moreirense,3,3,0.5
+2019-2020,11,2019-11-10,Paços,Tondela,1,0,1.0
+2019-2020,11,2019-11-10,Marítimo,Portimonense,1,1,0.5
+2019-2020,11,2019-11-10,Sporting CP,B-SAD,2,0,1.0
+2019-2020,11,2019-11-10,Vitória,Braga,0,2,0.0
+2019-2020,11,2019-11-10,Boavista,Porto,0,1,0.0
+2019-2020,12,2019-11-29,Santa Clara,Boavista,1,2,0.0
+2019-2020,12,2019-11-30,Moreirense,Aves,3,2,1.0
+2019-2020,12,2019-11-30,Benfica,Marítimo,4,0,1.0
+2019-2020,12,2019-11-30,Portimonense,Famalicão,2,1,1.0
+2019-2020,12,2019-12-01,Tondela,B-SAD,0,1,0.0
+2019-2020,12,2019-12-01,Vitória Setúbal,Vitória,1,1,0.5
+2019-2020,12,2019-12-01,Gil Vicente FC,Sporting CP,3,1,1.0
+2019-2020,12,2019-12-02,Braga,Rio Ave,2,0,1.0
+2019-2020,12,2019-12-02,Porto,Paços,2,0,1.0
+2019-2020,13,2019-12-06,Boavista,Benfica,1,4,0.0
+2019-2020,13,2019-12-07,Marítimo,Santa Clara,2,2,0.5
+2019-2020,13,2019-12-07,Famalicão,Tondela,2,3,0.0
+2019-2020,13,2019-12-07,Aves,Braga,1,0,1.0
+2019-2020,13,2019-12-08,Paços,Vitória Setúbal,2,3,0.0
+2019-2020,13,2019-12-08,Vitória,Portimonense,2,0,1.0
+2019-2020,13,2019-12-08,Sporting CP,Moreirense,1,0,1.0
+2019-2020,13,2019-12-08,B-SAD,Porto,1,1,0.5
+2019-2020,13,2019-12-09,Rio Ave,Gil Vicente FC,1,0,1.0
+2019-2020,14,2019-12-13,Portimonense,Rio Ave,1,1,0.5
+2019-2020,14,2019-12-14,Marítimo,Boavista,1,0,1.0
+2019-2020,14,2019-12-14,Benfica,Famalicão,4,0,1.0
+2019-2020,14,2019-12-14,Vitória Setúbal,Aves,1,0,1.0
+2019-2020,14,2019-12-15,Moreirense,B-SAD,2,1,1.0
+2019-2020,14,2019-12-15,Gil Vicente FC,Vitória,2,2,0.5
+2019-2020,14,2019-12-15,Braga,Paços,0,1,0.0
+2019-2020,14,2019-12-16,Santa Clara,Sporting CP,0,4,0.0
+2019-2020,14,2019-12-16,Porto,Tondela,3,0,1.0
+2019-2020,15,2020-01-04,Boavista,Portimonense,1,1,0.5
+2019-2020,15,2020-01-04,Aves,Santa Clara,0,1,0.0
+2019-2020,15,2020-01-04,B-SAD,Braga,1,7,0.0
+2019-2020,15,2020-01-04,Vitória,Benfica,0,1,0.0
+2019-2020,15,2020-01-05,Tondela,Gil Vicente FC,1,1,0.5
+2019-2020,15,2020-01-05,Paços,Moreirense,1,0,1.0
+2019-2020,15,2020-01-05,Rio Ave,Marítimo,0,1,0.0
+2019-2020,15,2020-01-05,Sporting CP,Porto,1,2,0.0
+2019-2020,15,2020-01-05,Famalicão,Vitória Setúbal,3,0,1.0
+2019-2020,16,2020-01-10,Santa Clara,Rio Ave,0,1,0.0
+2019-2020,16,2020-01-10,Benfica,Aves,2,1,1.0
+2019-2020,16,2020-01-10,Moreirense,Porto,2,4,0.0
+2019-2020,16,2020-01-11,Portimonense,Paços,0,0,0.5
+2019-2020,16,2020-01-11,Boavista,Famalicão,0,1,0.0
+2019-2020,16,2020-01-11,Vitória Setúbal,Sporting CP,1,3,0.0
+2019-2020,16,2020-01-12,Gil Vicente FC,B-SAD,2,0,1.0
+2019-2020,16,2020-01-12,Marítimo,Vitória,0,0,0.5
+2019-2020,16,2020-01-12,Braga,Tondela,2,1,1.0
+2019-2020,17,2020-01-17,Porto,Braga,1,2,0.0
+2019-2020,17,2020-01-17,Sporting CP,Benfica,0,2,0.0
+2019-2020,17,2020-01-18,Aves,Portimonense,3,0,1.0
+2019-2020,17,2020-01-18,Vitória,Santa Clara,1,0,1.0
+2019-2020,17,2020-01-18,Tondela,Moreirense,1,1,0.5
+2019-2020,17,2020-01-18,B-SAD,Vitória Setúbal,0,1,0.0
+2019-2020,17,2020-01-19,Paços,Gil Vicente FC,0,0,0.5
+2019-2020,17,2020-01-19,Famalicão,Marítimo,1,1,0.5
+2019-2020,17,2020-01-19,Rio Ave,Boavista,2,0,1.0
+2019-2020,18,2020-01-26,Tondela,Vitória Setúbal,0,3,0.0
+2019-2020,18,2020-01-26,B-SAD,Portimonense,2,1,1.0
+2019-2020,18,2020-01-26,Famalicão,Santa Clara,0,1,0.0
+2019-2020,18,2020-01-26,Paços,Benfica,0,2,0.0
+2019-2020,18,2020-01-26,Aves,Boavista,0,1,0.0
+2019-2020,18,2020-01-27,Vitória,Rio Ave,1,2,0.0
+2019-2020,18,2020-01-27,Sporting CP,Marítimo,1,0,1.0
+2019-2020,18,2020-01-28,Porto,Gil Vicente FC,2,1,1.0
+2019-2020,18,2020-01-29,Moreirense,Braga,1,2,0.0
+2019-2020,19,2020-01-31,Benfica,B-SAD,3,2,1.0
+2019-2020,19,2020-01-31,Rio Ave,Famalicão,2,2,0.5
+2019-2020,19,2020-02-01,Portimonense,Tondela,0,1,0.0
+2019-2020,19,2020-02-01,Vitória Setúbal,Porto,0,4,0.0
+2019-2020,19,2020-02-02,Gil Vicente FC,Moreirense,1,5,0.0
+2019-2020,19,2020-02-02,Marítimo,Aves,1,2,0.0
+2019-2020,19,2020-02-02,Santa Clara,Paços,2,1,1.0
+2019-2020,19,2020-02-02,Braga,Sporting CP,1,0,1.0
+2019-2020,19,2020-02-02,Boavista,Vitória,2,0,1.0
+2019-2020,20,2020-02-07,Paços,Boavista,0,1,0.0
+2019-2020,20,2020-02-08,B-SAD,Santa Clara,0,2,0.0
+2019-2020,20,2020-02-08,Famalicão,Vitória,0,7,0.0
+2019-2020,20,2020-02-08,Braga,Gil Vicente FC,2,2,0.5
+2019-2020,20,2020-02-08,Porto,Benfica,3,2,1.0
+2019-2020,20,2020-02-09,Tondela,Marítimo,0,0,0.5
+2019-2020,20,2020-02-09,Moreirense,Vitória Setúbal,1,1,0.5
+2019-2020,20,2020-02-09,Sporting CP,Portimonense,2,1,1.0
+2019-2020,20,2020-02-09,Aves,Rio Ave,0,4,0.0
+2019-2020,21,2020-02-14,Vitória Setúbal,Gil Vicente FC,1,2,0.0
+2019-2020,21,2020-02-15,Santa Clara,Tondela,1,0,1.0
+2019-2020,21,2020-02-15,Portimonense,Moreirense,1,1,0.5
+2019-2020,21,2020-02-15,Benfica,Braga,0,1,0.0
+2019-2020,21,2020-02-15,Rio Ave,Sporting CP,1,1,0.5
+2019-2020,21,2020-02-16,Boavista,B-SAD,1,2,0.0
+2019-2020,21,2020-02-16,Marítimo,Paços,3,0,1.0
+2019-2020,21,2020-02-16,Vitória,Porto,1,2,0.0
+2019-2020,21,2020-02-16,Famalicão,Aves,1,1,0.5
+2019-2020,22,2020-02-21,Aves,Vitória,0,2,0.0
+2019-2020,22,2020-02-22,Tondela,Rio Ave,1,2,0.0
+2019-2020,22,2020-02-22,B-SAD,Marítimo,1,0,1.0
+2019-2020,22,2020-02-23,Paços,Famalicão,2,1,1.0
+2019-2020,22,2020-02-23,Moreirense,Santa Clara,2,1,1.0
+2019-2020,22,2020-02-23,Sporting CP,Boavista,2,0,1.0
+2019-2020,22,2020-02-23,Braga,Vitória Setúbal,3,1,1.0
+2019-2020,22,2020-02-23,Porto,Portimonense,1,0,1.0
+2019-2020,22,2020-02-24,Gil Vicente FC,Benfica,0,1,0.0
+2019-2020,23,2020-02-28,Portimonense,Vitória Setúbal,0,0,0.5
+2019-2020,23,2020-02-29,Rio Ave,B-SAD,0,0,0.5
+2019-2020,23,2020-02-29,Boavista,Gil Vicente FC,0,1,0.0
+2019-2020,23,2020-03-01,Aves,Paços,1,3,0.0
+2019-2020,23,2020-03-01,Marítimo,Braga,1,2,0.0
+2019-2020,23,2020-03-01,Vitória,Tondela,2,0,1.0
+2019-2020,23,2020-03-02,Santa Clara,Porto,0,2,0.0
+2019-2020,23,2020-03-02,Benfica,Moreirense,1,1,0.5
+2019-2020,23,2020-03-03,Famalicão,Sporting CP,3,1,1.0
+2019-2020,24,2020-03-06,Braga,Portimonense,3,1,1.0
+2019-2020,24,2020-03-07,Tondela,Boavista,1,1,0.5
+2019-2020,24,2020-03-07,Vitória Setúbal,Benfica,1,1,0.5
+2019-2020,24,2020-03-07,Porto,Rio Ave,1,1,0.5
+2019-2020,24,2020-03-08,Moreirense,Marítimo,2,0,1.0
+2019-2020,24,2020-03-08,B-SAD,Famalicão,0,0,0.5
+2019-2020,24,2020-03-08,Gil Vicente FC,Santa Clara,1,1,0.5
+2019-2020,24,2020-03-08,Sporting CP,Aves,2,0,1.0
+2019-2020,24,2020-03-08,Paços,Vitória,1,2,0.0
+2019-2020,25,2020-06-03,Portimonense,Gil Vicente FC,1,0,1.0
+2019-2020,25,2020-06-03,Famalicão,Porto,2,1,1.0
+2019-2020,25,2020-06-04,Marítimo,Vitória Setúbal,1,1,0.5
+2019-2020,25,2020-06-04,Benfica,Tondela,0,0,0.5
+2019-2020,25,2020-06-04,Vitória,Sporting CP,2,2,0.5
+2019-2020,25,2020-06-05,Santa Clara,Braga,3,2,1.0
+2019-2020,25,2020-06-05,Aves,B-SAD,0,2,0.0
+2019-2020,25,2020-06-06,Boavista,Moreirense,0,1,0.0
+2019-2020,25,2020-06-07,Rio Ave,Paços,2,3,0.0
+2019-2020,26,2020-06-09,Gil Vicente FC,Famalicão,1,3,0.0
+2019-2020,26,2020-06-10,Vitória Setúbal,Santa Clara,2,2,0.5
+2019-2020,26,2020-06-10,Portimonense,Benfica,2,2,0.5
+2019-2020,26,2020-06-10,Porto,Marítimo,1,0,1.0
+2019-2020,26,2020-06-11,B-SAD,Vitória,1,1,0.5
+2019-2020,26,2020-06-11,Tondela,Aves,2,0,1.0
+2019-2020,26,2020-06-12,Moreirense,Rio Ave,0,1,0.0
+2019-2020,26,2020-06-12,Sporting CP,Paços,1,0,1.0
+2019-2020,26,2020-06-13,Braga,Boavista,0,1,0.0
+2019-2020,27,2020-06-15,Marítimo,Gil Vicente FC,2,1,1.0
+2019-2020,27,2020-06-16,Santa Clara,Portimonense,1,1,0.5
+2019-2020,27,2020-06-16,Aves,Porto,0,0,0.5
+2019-2020,27,2020-06-17,Paços,B-SAD,2,1,1.0
+2019-2020,27,2020-06-17,Rio Ave,Benfica,1,2,0.0
+2019-2020,27,2020-06-18,Boavista,Vitória Setúbal,3,1,1.0
+2019-2020,27,2020-06-18,Sporting CP,Tondela,2,0,1.0
+2019-2020,27,2020-06-19,Vitória,Moreirense,1,1,0.5
+2019-2020,27,2020-06-19,Famalicão,Braga,0,0,0.5
+2019-2020,28,2020-06-21,Gil Vicente FC,Aves,3,0,1.0
+2019-2020,28,2020-06-22,Portimonense,Marítimo,3,2,1.0
+2019-2020,28,2020-06-23,Vitória Setúbal,Rio Ave,1,2,0.0
+2019-2020,28,2020-06-23,Benfica,Santa Clara,3,4,0.0
+2019-2020,28,2020-06-23,Porto,Boavista,4,0,1.0
+2019-2020,28,2020-06-24,Tondela,Paços,1,3,0.0
+2019-2020,28,2020-06-24,Moreirense,Famalicão,1,1,0.5
+2019-2020,28,2020-06-25,Braga,Vitória,3,2,1.0
+2019-2020,28,2020-06-26,B-SAD,Sporting CP,1,3,0.0
+2019-2020,29,2020-06-28,Boavista,Santa Clara,1,0,1.0
+2019-2020,29,2020-06-29,Aves,Moreirense,0,1,0.0
+2019-2020,29,2020-06-29,Marítimo,Benfica,2,0,1.0
+2019-2020,29,2020-06-29,Paços,Porto,0,1,0.0
+2019-2020,29,2020-06-30,Famalicão,Portimonense,0,1,0.0
+2019-2020,29,2020-06-30,Vitória,Vitória Setúbal,2,0,1.0
+2019-2020,29,2020-06-30,Rio Ave,Braga,4,3,1.0
+2019-2020,29,2020-07-01,B-SAD,Tondela,1,1,0.5
+2019-2020,29,2020-07-01,Sporting CP,Gil Vicente FC,2,1,1.0
+2019-2020,30,2020-07-03,Santa Clara,Marítimo,0,1,0.0
+2019-2020,30,2020-07-04,Vitória Setúbal,Paços,2,3,0.0
+2019-2020,30,2020-07-04,Portimonense,Vitória,0,1,0.0
+2019-2020,30,2020-07-04,Benfica,Boavista,3,1,1.0
+2019-2020,30,2020-07-04,Braga,Aves,4,0,1.0
+2019-2020,30,2020-07-05,Gil Vicente FC,Rio Ave,1,0,1.0
+2019-2020,30,2020-07-05,Tondela,Famalicão,0,1,0.0
+2019-2020,30,2020-07-05,Porto,B-SAD,5,0,1.0
+2019-2020,30,2020-07-06,Moreirense,Sporting CP,0,0,0.5
+2019-2020,31,2020-07-08,Boavista,Marítimo,0,1,0.0
+2019-2020,31,2020-07-08,Aves,Vitória Setúbal,1,0,1.0
+2019-2020,31,2020-07-09,Rio Ave,Portimonense,2,1,1.0
+2019-2020,31,2020-07-09,Tondela,Porto,1,3,0.0
+2019-2020,31,2020-07-09,Famalicão,Benfica,1,1,0.5
+2019-2020,31,2020-07-10,Vitória,Gil Vicente FC,1,2,0.0
+2019-2020,31,2020-07-10,Sporting CP,Santa Clara,1,0,1.0
+2019-2020,31,2020-07-10,Paços,Braga,1,5,0.0
+2019-2020,31,2020-07-11,B-SAD,Moreirense,0,1,0.0
+2019-2020,32,2020-07-13,Marítimo,Rio Ave,0,0,0.5
+2019-2020,32,2020-07-13,Vitória Setúbal,Famalicão,1,2,0.0
+2019-2020,32,2020-07-14,Santa Clara,Aves,3,0,1.0
+2019-2020,32,2020-07-14,Portimonense,Boavista,2,1,1.0
+2019-2020,32,2020-07-14,Gil Vicente FC,Tondela,3,2,1.0
+2019-2020,32,2020-07-14,Benfica,Vitória,2,0,1.0
+2019-2020,32,2020-07-15,Moreirense,Paços,1,1,0.5
+2019-2020,32,2020-07-15,Braga,B-SAD,1,1,0.5
+2019-2020,32,2020-07-15,Porto,Sporting CP,2,0,1.0
+2019-2020,33,2020-07-18,Rio Ave,Santa Clara,2,2,0.5
+2019-2020,33,2020-07-18,Famalicão,Boavista,2,2,0.5
+2019-2020,33,2020-07-19,B-SAD,Gil Vicente FC,1,0,1.0
+2019-2020,33,2020-07-19,Vitória,Marítimo,1,0,1.0
+2019-2020,33,2020-07-20,Paços,Portimonense,2,1,1.0
+2019-2020,33,2020-07-20,Tondela,Braga,1,0,1.0
+2019-2020,33,2020-07-20,Porto,Moreirense,6,1,1.0
+2019-2020,33,2020-07-21,Sporting CP,Vitória Setúbal,0,0,0.5
+2019-2020,33,2020-07-21,Aves,Benfica,0,4,0.0
+2019-2020,34,2020-07-24,Santa Clara,Vitória,2,2,0.5
+2019-2020,34,2020-07-24,Gil Vicente FC,Paços,3,3,0.5
+2019-2020,34,2020-07-25,Marítimo,Famalicão,3,3,0.5
+2019-2020,34,2020-07-25,Boavista,Rio Ave,0,2,0.0
+2019-2020,34,2020-07-25,Braga,Porto,2,1,1.0
+2019-2020,34,2020-07-25,Benfica,Sporting CP,2,1,1.0
+2019-2020,34,2020-07-26,Vitória Setúbal,B-SAD,2,0,1.0
+2019-2020,34,2020-07-26,Portimonense,Aves,2,0,1.0
+2019-2020,34,2020-07-26,Moreirense,Tondela,1,2,0.0

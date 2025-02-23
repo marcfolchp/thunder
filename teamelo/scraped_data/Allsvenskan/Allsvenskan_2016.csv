@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2016,1,2016-04-02,Malmö,Norrköping,3,1,1.0
+2016,1,2016-04-02,Kalmar,Jönköping,0,1,0.0
+2016,1,2016-04-03,AIK Stockholm,Sundsvall,1,1,0.5
+2016,1,2016-04-03,Gefle,Helsingborg,1,1,0.5
+2016,1,2016-04-03,Häcken,Elfsborg,2,1,1.0
+2016,1,2016-04-03,Falkenberg,Göteborg,0,2,0.0
+2016,1,2016-04-03,Örebro,Djurgården,0,2,0.0
+2016,1,2016-04-04,Hammarby,Östersund,1,1,0.5
+2016,2,2016-04-06,Norrköping,Kalmar,4,1,1.0
+2016,2,2016-04-06,Jönköping,Malmö,3,2,1.0
+2016,2,2016-04-06,Göteborg,Häcken,1,0,1.0
+2016,2,2016-04-07,Östersund,AIK Stockholm,0,2,0.0
+2016,2,2016-04-07,Helsingborg,Örebro,1,3,0.0
+2016,2,2016-04-07,Elfsborg,Hammarby,4,1,1.0
+2016,2,2016-04-07,Sundsvall,Gefle,1,2,0.0
+2016,2,2016-04-07,Djurgården,Falkenberg,5,0,1.0
+2016,3,2016-04-09,Häcken,Norrköping,1,2,0.0
+2016,3,2016-04-10,Gefle,Djurgården,1,2,0.0
+2016,3,2016-04-10,Hammarby,Helsingborg,5,1,1.0
+2016,3,2016-04-10,Kalmar,Elfsborg,3,2,1.0
+2016,3,2016-04-10,Falkenberg,Östersund,1,2,0.0
+2016,3,2016-04-11,Malmö,Sundsvall,1,2,0.0
+2016,3,2016-04-11,Örebro,Jönköping,2,1,1.0
+2016,3,2016-04-11,AIK Stockholm,Göteborg,3,3,0.5
+2016,4,2016-04-15,Östersund,Häcken,2,1,1.0
+2016,4,2016-04-16,Helsingborg,Falkenberg,3,1,1.0
+2016,4,2016-04-17,Norrköping,AIK Stockholm,4,1,1.0
+2016,4,2016-04-17,Jönköping,Gefle,1,0,1.0
+2016,4,2016-04-17,Göteborg,Kalmar,1,1,0.5
+2016,4,2016-04-18,Sundsvall,Örebro,3,1,1.0
+2016,4,2016-04-18,Elfsborg,Malmö,0,1,0.0
+2016,4,2016-04-19,Djurgården,Hammarby,1,3,0.0
+2016,5,2016-04-22,Falkenberg,Norrköping,2,1,1.0
+2016,5,2016-04-23,Hammarby,Jönköping,1,1,0.5
+2016,5,2016-04-23,Gefle,Östersund,0,0,0.5
+2016,5,2016-04-24,Malmö,Djurgården,1,0,1.0
+2016,5,2016-04-24,Häcken,Sundsvall,0,1,0.0
+2016,5,2016-04-24,Örebro,Göteborg,3,2,1.0
+2016,5,2016-04-25,AIK Stockholm,Elfsborg,2,1,1.0
+2016,5,2016-04-25,Kalmar,Helsingborg,2,3,0.0
+2016,6,2016-04-26,Norrköping,Hammarby,3,1,1.0
+2016,6,2016-04-27,Östersund,Örebro,2,4,0.0
+2016,6,2016-04-27,Göteborg,Malmö,0,3,0.0
+2016,6,2016-04-27,Jönköping,Falkenberg,1,1,0.5
+2016,6,2016-04-28,Helsingborg,AIK Stockholm,2,1,1.0
+2016,6,2016-04-28,Sundsvall,Kalmar,1,1,0.5
+2016,6,2016-04-28,Elfsborg,Djurgården,3,0,1.0
+2016,6,2016-04-28,Häcken,Gefle,6,1,1.0
+2016,7,2016-05-01,Falkenberg,Elfsborg,1,2,0.0
+2016,7,2016-05-01,Malmö,Häcken,3,0,1.0
+2016,7,2016-05-01,Hammarby,Sundsvall,1,1,0.5
+2016,7,2016-05-02,AIK Stockholm,Jönköping,0,0,0.5
+2016,7,2016-05-02,Djurgården,Östersund,3,0,1.0
+2016,7,2016-05-02,Norrköping,Helsingborg,3,0,1.0
+2016,7,2016-05-02,Kalmar,Örebro,3,2,1.0
+2016,7,2016-05-02,Gefle,Göteborg,2,6,0.0
+2016,8,2016-05-07,Östersund,Kalmar,1,0,1.0
+2016,8,2016-05-07,Elfsborg,Gefle,2,0,1.0
+2016,8,2016-05-08,Helsingborg,Malmö,2,1,1.0
+2016,8,2016-05-08,Jönköping,Norrköping,0,2,0.0
+2016,8,2016-05-08,Häcken,AIK Stockholm,2,3,0.0
+2016,8,2016-05-09,Örebro,Hammarby,3,2,1.0
+2016,8,2016-05-09,Sundsvall,Falkenberg,2,1,1.0
+2016,8,2016-05-09,Göteborg,Djurgården,2,1,1.0
+2016,9,2016-05-13,Jönköping,Helsingborg,1,1,0.5
+2016,9,2016-05-14,Malmö,Gefle,3,0,1.0
+2016,9,2016-05-14,Kalmar,Hammarby,1,1,0.5
+2016,9,2016-05-15,Norrköping,Sundsvall,3,1,1.0
+2016,9,2016-05-15,Örebro,Elfsborg,1,0,1.0
+2016,9,2016-05-15,Östersund,Göteborg,2,0,1.0
+2016,9,2016-05-15,Falkenberg,Häcken,1,4,0.0
+2016,9,2016-05-16,AIK Stockholm,Djurgården,2,0,1.0
+2016,10,2016-05-18,Hammarby,Malmö,2,3,0.0
+2016,10,2016-05-18,Helsingborg,Östersund,1,1,0.5
+2016,10,2016-05-18,Sundsvall,Elfsborg,1,3,0.0
+2016,10,2016-05-18,Häcken,Jönköping,3,1,1.0
+2016,10,2016-05-19,Göteborg,Norrköping,1,1,0.5
+2016,10,2016-05-19,Gefle,Örebro,0,4,0.0
+2016,10,2016-05-19,Djurgården,Kalmar,0,3,0.0
+2016,10,2016-05-20,Falkenberg,AIK Stockholm,2,3,0.0
+2016,11,2016-05-21,Sundsvall,Östersund,5,0,1.0
+2016,11,2016-05-22,Örebro,Norrköping,2,2,0.5
+2016,11,2016-05-22,Kalmar,Häcken,1,1,0.5
+2016,11,2016-05-22,Elfsborg,Jönköping,3,3,0.5
+2016,11,2016-05-22,Djurgården,Helsingborg,3,0,1.0
+2016,11,2016-05-23,Malmö,Falkenberg,2,0,1.0
+2016,11,2016-05-23,Göteborg,Hammarby,2,1,1.0
+2016,11,2016-05-23,Gefle,AIK Stockholm,0,1,0.0
+2016,12,2016-05-28,AIK Stockholm,Örebro,0,0,0.5
+2016,12,2016-05-28,Jönköping,Sundsvall,1,1,0.5
+2016,12,2016-05-28,Östersund,Malmö,1,4,0.0
+2016,12,2016-05-29,Hammarby,Gefle,2,1,1.0
+2016,12,2016-05-29,Falkenberg,Kalmar,1,2,0.0
+2016,12,2016-05-29,Helsingborg,Göteborg,1,3,0.0
+2016,12,2016-05-29,Norrköping,Elfsborg,0,0,0.5
+2016,12,2016-05-29,Häcken,Djurgården,3,1,1.0
+2016,13,2016-07-09,Gefle,Falkenberg,1,2,0.0
+2016,13,2016-07-09,Djurgården,Norrköping,0,1,0.0
+2016,13,2016-07-09,Häcken,Hammarby,4,2,1.0
+2016,13,2016-07-10,Göteborg,Sundsvall,4,1,1.0
+2016,13,2016-07-10,Östersund,Jönköping,1,0,1.0
+2016,13,2016-07-10,Kalmar,AIK Stockholm,1,1,0.5
+2016,13,2016-07-10,Helsingborg,Elfsborg,2,4,0.0
+2016,13,2016-07-11,Malmö,Örebro,1,0,1.0
+2016,14,2016-07-16,Sundsvall,Helsingborg,0,2,0.0
+2016,14,2016-07-16,Norrköping,Östersund,3,3,0.5
+2016,14,2016-07-17,Elfsborg,Göteborg,1,1,0.5
+2016,14,2016-07-17,Örebro,Häcken,0,0,0.5
+2016,14,2016-07-17,Hammarby,Falkenberg,3,3,0.5
+2016,14,2016-07-17,AIK Stockholm,Malmö,1,1,0.5
+2016,14,2016-07-18,Jönköping,Djurgården,1,0,1.0
+2016,14,2016-07-18,Gefle,Kalmar,4,2,1.0
+2016,15,2016-07-23,Norrköping,Gefle,2,0,1.0
+2016,15,2016-07-23,Malmö,Kalmar,1,1,0.5
+2016,15,2016-07-23,Falkenberg,Örebro,1,3,0.0
+2016,15,2016-07-24,Hammarby,AIK Stockholm,0,3,0.0
+2016,15,2016-07-24,Helsingborg,Häcken,0,2,0.0
+2016,15,2016-07-24,Göteborg,Jönköping,2,1,1.0
+2016,15,2016-07-25,Djurgården,Sundsvall,1,3,0.0
+2016,15,2016-07-25,Elfsborg,Östersund,3,1,1.0
+2016,16,2016-07-30,Sundsvall,Norrköping,1,2,0.0
+2016,16,2016-07-30,Östersund,Elfsborg,0,0,0.5
+2016,16,2016-07-30,Gefle,Hammarby,0,2,0.0
+2016,16,2016-07-31,Jönköping,Göteborg,1,1,0.5
+2016,16,2016-07-31,Häcken,Helsingborg,1,1,0.5
+2016,16,2016-07-31,AIK Stockholm,Falkenberg,2,0,1.0
+2016,16,2016-08-01,Kalmar,Djurgården,2,1,1.0
+2016,16,2016-08-01,Örebro,Malmö,0,3,0.0
+2016,17,2016-08-05,Helsingborg,Gefle,2,3,0.0
+2016,17,2016-08-06,Falkenberg,Jönköping,0,5,0.0
+2016,17,2016-08-06,Östersund,Sundsvall,4,0,1.0
+2016,17,2016-08-07,Malmö,AIK Stockholm,2,0,1.0
+2016,17,2016-08-07,Hammarby,Kalmar,2,1,1.0
+2016,17,2016-08-07,Norrköping,Örebro,3,1,1.0
+2016,17,2016-08-07,Elfsborg,Häcken,2,4,0.0
+2016,17,2016-08-08,Djurgården,Göteborg,3,1,1.0
+2016,19,2016-08-10,Norrköping,Häcken,3,1,1.0
+2016,18,2016-08-12,Göteborg,Falkenberg,2,0,1.0
+2016,18,2016-08-13,Gefle,Norrköping,0,0,0.5
+2016,18,2016-08-13,AIK Stockholm,Helsingborg,2,1,1.0
+2016,18,2016-08-14,Kalmar,Malmö,1,1,0.5
+2016,18,2016-08-14,Djurgården,Elfsborg,2,2,0.5
+2016,18,2016-08-14,Häcken,Örebro,0,1,0.0
+2016,18,2016-08-15,Jönköping,Östersund,1,1,0.5
+2016,18,2016-08-15,Sundsvall,Hammarby,0,0,0.5
+2016,19,2016-08-20,Helsingborg,Kalmar,0,1,0.0
+2016,19,2016-08-20,Östersund,Djurgården,1,0,1.0
+2016,19,2016-08-21,Hammarby,Göteborg,2,0,1.0
+2016,19,2016-08-21,Falkenberg,Gefle,1,1,0.5
+2016,19,2016-08-21,Örebro,AIK Stockholm,0,2,0.0
+2016,19,2016-08-22,Elfsborg,Sundsvall,4,0,1.0
+2016,19,2016-08-22,Malmö,Jönköping,4,1,1.0
+2016,20,2016-08-27,Djurgården,Gefle,2,1,1.0
+2016,20,2016-08-27,Kalmar,Norrköping,0,1,0.0
+2016,20,2016-08-28,Jönköping,Elfsborg,1,0,1.0
+2016,20,2016-08-28,Häcken,Östersund,3,1,1.0
+2016,20,2016-08-28,AIK Stockholm,Hammarby,0,0,0.5
+2016,20,2016-08-28,Sundsvall,Malmö,0,1,0.0
+2016,20,2016-08-28,Örebro,Falkenberg,3,2,1.0
+2016,20,2016-08-28,Göteborg,Helsingborg,2,0,1.0
+2016,21,2016-09-10,Elfsborg,Kalmar,1,1,0.5
+2016,21,2016-09-11,Sundsvall,AIK Stockholm,1,3,0.0
+2016,21,2016-09-11,Falkenberg,Djurgården,1,2,0.0
+2016,21,2016-09-11,Norrköping,Jönköping,5,1,1.0
+2016,21,2016-09-11,Östersund,Helsingborg,2,0,1.0
+2016,21,2016-09-12,Malmö,Göteborg,3,1,1.0
+2016,21,2016-09-12,Hammarby,Örebro,1,1,0.5
+2016,21,2016-09-12,Gefle,Häcken,2,2,0.5
+2016,22,2016-09-16,Örebro,Sundsvall,3,3,0.5
+2016,22,2016-09-16,Jönköping,Hammarby,0,1,0.0
+2016,22,2016-09-17,Kalmar,Östersund,2,0,1.0
+2016,22,2016-09-18,AIK Stockholm,Gefle,1,0,1.0
+2016,22,2016-09-18,Elfsborg,Falkenberg,5,0,1.0
+2016,22,2016-09-18,Helsingborg,Norrköping,1,2,0.0
+2016,22,2016-09-18,Djurgården,Malmö,3,1,1.0
+2016,22,2016-09-19,Häcken,Göteborg,2,2,0.5
+2016,23,2016-09-21,Östersund,Norrköping,0,2,0.0
+2016,23,2016-09-21,Djurgården,AIK Stockholm,0,3,0.0
+2016,23,2016-09-21,Helsingborg,Sundsvall,2,1,1.0
+2016,23,2016-09-21,Gefle,Jönköping,0,1,0.0
+2016,23,2016-09-21,Kalmar,Falkenberg,3,0,1.0
+2016,23,2016-09-22,Malmö,Elfsborg,1,0,1.0
+2016,23,2016-09-22,Hammarby,Häcken,2,3,0.0
+2016,23,2016-09-22,Göteborg,Örebro,3,2,1.0
+2016,24,2016-09-24,Jönköping,Kalmar,0,1,0.0
+2016,24,2016-09-25,Elfsborg,AIK Stockholm,2,2,0.5
+2016,24,2016-09-25,Malmö,Helsingborg,2,0,1.0
+2016,24,2016-09-26,Örebro,Gefle,2,2,0.5
+2016,24,2016-09-26,Göteborg,Östersund,2,0,1.0
+2016,24,2016-09-26,Falkenberg,Hammarby,0,2,0.0
+2016,24,2016-09-26,Norrköping,Djurgården,1,3,0.0
+2016,24,2016-09-26,Sundsvall,Häcken,0,0,0.5
+2016,25,2016-09-30,Helsingborg,Hammarby,0,1,0.0
+2016,25,2016-10-01,Sundsvall,Jönköping,3,1,1.0
+2016,25,2016-10-01,Östersund,Falkenberg,6,1,1.0
+2016,25,2016-10-01,Häcken,Malmö,2,4,0.0
+2016,25,2016-10-02,Kalmar,Göteborg,4,2,1.0
+2016,25,2016-10-02,Gefle,Elfsborg,2,2,0.5
+2016,25,2016-10-02,AIK Stockholm,Norrköping,6,0,1.0
+2016,25,2016-10-02,Djurgården,Örebro,3,2,1.0
+2016,26,2016-10-15,Falkenberg,Sundsvall,1,1,0.5
+2016,26,2016-10-16,AIK Stockholm,Östersund,2,0,1.0
+2016,26,2016-10-16,Norrköping,Malmö,1,2,0.0
+2016,26,2016-10-16,Örebro,Kalmar,2,1,1.0
+2016,26,2016-10-16,Elfsborg,Helsingborg,1,0,1.0
+2016,26,2016-10-16,Jönköping,Häcken,1,1,0.5
+2016,26,2016-10-17,Hammarby,Djurgården,4,2,1.0
+2016,26,2016-10-17,Göteborg,Gefle,3,3,0.5
+2016,27,2016-10-21,Gefle,Sundsvall,1,1,0.5
+2016,27,2016-10-22,Malmö,Östersund,0,3,0.0
+2016,27,2016-10-23,Örebro,Helsingborg,0,0,0.5
+2016,27,2016-10-23,Norrköping,Falkenberg,2,1,1.0
+2016,27,2016-10-23,Hammarby,Elfsborg,2,4,0.0
+2016,27,2016-10-23,Häcken,Kalmar,2,3,0.0
+2016,27,2016-10-24,Göteborg,AIK Stockholm,1,0,1.0
+2016,27,2016-10-24,Djurgården,Jönköping,0,2,0.0
+2016,28,2016-10-26,Kalmar,Gefle,0,1,0.0
+2016,28,2016-10-26,Elfsborg,Norrköping,2,1,1.0
+2016,28,2016-10-26,Falkenberg,Malmö,0,3,0.0
+2016,28,2016-10-26,Östersund,Hammarby,2,0,1.0
+2016,28,2016-10-27,Sundsvall,Göteborg,1,3,0.0
+2016,28,2016-10-27,Jönköping,Örebro,1,1,0.5
+2016,28,2016-10-27,AIK Stockholm,Häcken,2,1,1.0
+2016,28,2016-10-27,Helsingborg,Djurgården,1,2,0.0
+2016,29,2016-10-30,Kalmar,Sundsvall,2,0,1.0
+2016,29,2016-10-30,Hammarby,Norrköping,1,1,0.5
+2016,29,2016-10-30,Gefle,Malmö,1,0,1.0
+2016,29,2016-10-30,Falkenberg,Helsingborg,1,4,0.0
+2016,29,2016-10-31,Göteborg,Elfsborg,2,2,0.5
+2016,29,2016-10-31,Jönköping,AIK Stockholm,0,0,0.5
+2016,29,2016-10-31,Örebro,Östersund,1,5,0.0
+2016,29,2016-10-31,Djurgården,Häcken,1,0,1.0
+2016,30,2016-11-06,Norrköping,Göteborg,3,1,1.0
+2016,30,2016-11-06,Elfsborg,Örebro,2,1,1.0
+2016,30,2016-11-06,AIK Stockholm,Kalmar,3,1,1.0
+2016,30,2016-11-06,Häcken,Falkenberg,7,0,1.0
+2016,30,2016-11-06,Helsingborg,Jönköping,2,0,1.0
+2016,30,2016-11-06,Östersund,Gefle,2,4,0.0
+2016,30,2016-11-06,Malmö,Hammarby,3,0,1.0
+2016,30,2016-11-06,Sundsvall,Djurgården,2,5,0.0

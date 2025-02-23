@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,1,2014-08-01,Rubin Kazan,Spartak Moscow,0,4,0.0
+2014-2015,1,2014-08-02,Ural,Mordovia,2,3,0.0
+2014-2015,1,2014-08-02,Arsenal Tula,Zenit,0,4,0.0
+2014-2015,1,2014-08-02,CSKA Moscow,Torpedo Moscow,4,1,1.0
+2014-2015,1,2014-08-03,Dynamo Mosc,Rostov,7,3,1.0
+2014-2015,1,2014-08-03,Kuban,Ufa,2,0,1.0
+2014-2015,1,2014-08-03,Loko Moscow,Krasnodar,0,0,0.5
+2014-2015,1,2014-08-04,Terek Grozny,Amkar Perm,4,0,1.0
+2014-2015,2,2014-08-08,Amkar Perm,Ufa,0,1,0.0
+2014-2015,2,2014-08-08,Kuban,Rostov,2,2,0.5
+2014-2015,2,2014-08-09,Mordovia,CSKA Moscow,0,1,0.0
+2014-2015,2,2014-08-09,Zenit,Torpedo Moscow,8,1,1.0
+2014-2015,2,2014-08-09,Terek Grozny,Rubin Kazan,1,1,0.5
+2014-2015,2,2014-08-10,Dynamo Mosc,Spartak Moscow,1,2,0.0
+2014-2015,2,2014-08-10,Ural,Krasnodar,1,1,0.5
+2014-2015,2,2014-08-10,Arsenal Tula,Loko Moscow,0,2,0.0
+2014-2015,3,2014-08-12,Torpedo Moscow,Amkar Perm,1,1,0.5
+2014-2015,3,2014-08-13,Ufa,Dynamo Mosc,0,2,0.0
+2014-2015,3,2014-08-13,Ural,Zenit,1,2,0.0
+2014-2015,3,2014-08-13,Arsenal Tula,Rubin Kazan,0,0,0.5
+2014-2015,3,2014-08-13,CSKA Moscow,Terek Grozny,1,0,1.0
+2014-2015,3,2014-08-14,Loko Moscow,Rostov,2,1,1.0
+2014-2015,3,2014-08-14,Krasnodar,Spartak Moscow,4,0,1.0
+2014-2015,3,2014-08-15,Mordovia,Kuban,0,0,0.5
+2014-2015,4,2014-08-16,Ural,Torpedo Moscow,0,2,0.0
+2014-2015,4,2014-08-16,Zenit,Ufa,1,0,1.0
+2014-2015,4,2014-08-17,CSKA Moscow,Spartak Moscow,0,1,0.0
+2014-2015,4,2014-08-17,Arsenal Tula,Dynamo Mosc,1,2,0.0
+2014-2015,4,2014-08-17,Rubin Kazan,Loko Moscow,1,1,0.5
+2014-2015,4,2014-08-17,Rostov,Krasnodar,0,2,0.0
+2014-2015,4,2014-08-18,Terek Grozny,Mordovia,1,0,1.0
+2014-2015,4,2014-08-18,Kuban,Amkar Perm,1,0,1.0
+2014-2015,5,2014-08-22,Terek Grozny,Arsenal Tula,3,0,1.0
+2014-2015,5,2014-08-23,Ufa,Spartak Moscow,1,2,0.0
+2014-2015,5,2014-08-23,Zenit,Amkar Perm,2,0,1.0
+2014-2015,5,2014-08-23,Rubin Kazan,CSKA Moscow,2,1,1.0
+2014-2015,5,2014-08-24,Dynamo Mosc,Ural,2,0,1.0
+2014-2015,5,2014-08-24,Torpedo Moscow,Krasnodar,0,3,0.0
+2014-2015,5,2014-08-24,Kuban,Loko Moscow,2,1,1.0
+2014-2015,5,2014-08-24,Rostov,Mordovia,2,1,1.0
+2014-2015,6,2014-08-29,Ural,Terek Grozny,0,1,0.0
+2014-2015,6,2014-08-30,Mordovia,Torpedo Moscow,1,0,1.0
+2014-2015,6,2014-08-30,Amkar Perm,Spartak Moscow,2,0,1.0
+2014-2015,6,2014-08-30,Arsenal Tula,Kuban,0,1,0.0
+2014-2015,6,2014-08-31,CSKA Moscow,Rostov,6,0,1.0
+2014-2015,6,2014-08-31,Rubin Kazan,Ufa,1,1,0.5
+2014-2015,6,2014-08-31,Loko Moscow,Zenit,0,1,0.0
+2014-2015,6,2014-08-31,Krasnodar,Dynamo Mosc,0,2,0.0
+2014-2015,7,2014-09-13,CSKA Moscow,Arsenal Tula,2,1,1.0
+2014-2015,7,2014-09-13,Loko Moscow,Mordovia,1,1,0.5
+2014-2015,7,2014-09-13,Zenit,Dynamo Mosc,3,2,1.0
+2014-2015,7,2014-09-13,Rostov,Rubin Kazan,1,2,0.0
+2014-2015,7,2014-09-14,Spartak Moscow,Torpedo Moscow,3,1,1.0
+2014-2015,7,2014-09-14,Krasnodar,Ufa,0,2,0.0
+2014-2015,7,2014-09-15,Amkar Perm,Ural,2,1,1.0
+2014-2015,7,2014-09-15,Terek Grozny,Kuban,0,0,0.5
+2014-2015,8,2014-09-19,Arsenal Tula,Mordovia,0,1,0.0
+2014-2015,8,2014-09-20,Ufa,Ural,0,1,0.0
+2014-2015,8,2014-09-20,Rostov,Zenit,0,5,0.0
+2014-2015,8,2014-09-20,Kuban,Rubin Kazan,2,1,1.0
+2014-2015,8,2014-09-20,Spartak Moscow,Terek Grozny,1,1,0.5
+2014-2015,8,2014-09-21,CSKA Moscow,Loko Moscow,1,0,1.0
+2014-2015,8,2014-09-22,Amkar Perm,Krasnodar,1,2,0.0
+2014-2015,8,2014-09-22,Torpedo Moscow,Dynamo Mosc,1,3,0.0
+2014-2015,9,2014-09-27,Ural,CSKA Moscow,3,4,0.0
+2014-2015,9,2014-09-27,Mordovia,Ufa,0,2,0.0
+2014-2015,9,2014-09-27,Zenit,Spartak Moscow,0,0,0.5
+2014-2015,9,2014-09-28,Dynamo Mosc,Kuban,2,2,0.5
+2014-2015,9,2014-09-28,Loko Moscow,Amkar Perm,3,1,1.0
+2014-2015,9,2014-09-28,Krasnodar,Arsenal Tula,3,0,1.0
+2014-2015,9,2014-09-28,Terek Grozny,Rostov,2,1,1.0
+2014-2015,9,2014-09-29,Rubin Kazan,Torpedo Moscow,2,1,1.0
+2014-2015,10,2014-10-18,CSKA Moscow,Kuban,6,0,1.0
+2014-2015,10,2014-10-18,Krasnodar,Zenit,2,2,0.5
+2014-2015,10,2014-10-18,Loko Moscow,Terek Grozny,2,1,1.0
+2014-2015,10,2014-10-19,Ural,Spartak Moscow,2,0,1.0
+2014-2015,10,2014-10-19,Arsenal Tula,Rostov,1,1,0.5
+2014-2015,10,2014-10-20,Ufa,Torpedo Moscow,1,1,0.5
+2014-2015,10,2014-10-20,Rubin Kazan,Mordovia,5,0,1.0
+2014-2015,11,2014-10-24,Ural,Arsenal Tula,1,0,1.0
+2014-2015,11,2014-10-25,Amkar Perm,Rostov,2,0,1.0
+2014-2015,11,2014-10-25,Torpedo Moscow,Kuban,0,0,0.5
+2014-2015,11,2014-10-26,Spartak Moscow,Loko Moscow,1,1,0.5
+2014-2015,11,2014-10-26,Ufa,CSKA Moscow,3,3,0.5
+2014-2015,11,2014-10-26,Zenit,Mordovia,5,0,1.0
+2014-2015,11,2014-10-27,Krasnodar,Terek Grozny,2,0,1.0
+2014-2015,11,2014-10-27,Dynamo Mosc,Rubin Kazan,0,2,0.0
+2014-2015,12,2014-10-31,Rostov,Ural,1,0,1.0
+2014-2015,12,2014-11-01,CSKA Moscow,Zenit,0,1,0.0
+2014-2015,12,2014-11-02,Loko Moscow,Dynamo Mosc,4,2,1.0
+2014-2015,12,2014-11-02,Mordovia,Krasnodar,2,1,1.0
+2014-2015,12,2014-11-02,Kuban,Spartak Moscow,3,3,0.5
+2014-2015,12,2014-11-03,Torpedo Moscow,Arsenal Tula,0,1,0.0
+2014-2015,12,2014-11-03,Rubin Kazan,Amkar Perm,1,1,0.5
+2014-2015,12,2014-11-03,Terek Grozny,Ufa,1,0,1.0
+2014-2015,13,2014-11-07,Ural,Kuban,0,1,0.0
+2014-2015,13,2014-11-08,Amkar Perm,Mordovia,0,1,0.0
+2014-2015,13,2014-11-08,Torpedo Moscow,Loko Moscow,0,1,0.0
+2014-2015,13,2014-11-08,Zenit,Terek Grozny,1,3,0.0
+2014-2015,13,2014-11-09,Dynamo Mosc,CSKA Moscow,1,0,1.0
+2014-2015,13,2014-11-09,Krasnodar,Rubin Kazan,2,0,1.0
+2014-2015,13,2014-11-09,Ufa,Rostov,0,0,0.5
+2014-2015,13,2014-11-09,Spartak Moscow,Arsenal Tula,2,0,1.0
+2014-2015,14,2014-11-22,Ural,Rubin Kazan,1,3,0.0
+2014-2015,14,2014-11-22,Torpedo Moscow,Rostov,2,1,1.0
+2014-2015,14,2014-11-22,Krasnodar,CSKA Moscow,2,1,1.0
+2014-2015,14,2014-11-22,Zenit,Kuban,1,0,1.0
+2014-2015,14,2014-11-23,Dynamo Mosc,Terek Grozny,3,0,1.0
+2014-2015,14,2014-11-23,Arsenal Tula,Amkar Perm,4,0,1.0
+2014-2015,14,2014-11-23,Spartak Moscow,Mordovia,4,2,1.0
+2014-2015,14,2014-11-24,Loko Moscow,Ufa,0,0,0.5
+2014-2015,15,2014-11-28,Rostov,Amkar Perm,1,1,0.5
+2014-2015,15,2014-11-29,Arsenal Tula,Ural,1,2,0.0
+2014-2015,15,2014-11-29,CSKA Moscow,Ufa,5,0,1.0
+2014-2015,15,2014-11-29,Mordovia,Zenit,1,0,1.0
+2014-2015,15,2014-11-29,Kuban,Torpedo Moscow,1,1,0.5
+2014-2015,15,2014-11-30,Loko Moscow,Spartak Moscow,1,0,1.0
+2014-2015,15,2014-11-30,Rubin Kazan,Dynamo Mosc,1,1,0.5
+2014-2015,15,2014-11-30,Terek Grozny,Krasnodar,0,1,0.0
+2014-2015,16,2014-12-02,CSKA Moscow,Amkar Perm,2,1,1.0
+2014-2015,16,2014-12-02,Arsenal Tula,Ufa,0,1,0.0
+2014-2015,16,2014-12-03,Rubin Kazan,Zenit,0,1,0.0
+2014-2015,16,2014-12-03,Loko Moscow,Ural,1,0,1.0
+2014-2015,16,2014-12-03,Kuban,Krasnodar,1,1,0.5
+2014-2015,16,2014-12-03,Terek Grozny,Torpedo Moscow,0,1,0.0
+2014-2015,16,2014-12-04,Mordovia,Dynamo Mosc,0,1,0.0
+2014-2015,16,2014-12-04,Spartak Moscow,Rostov,1,1,0.5
+2014-2015,17,2014-12-06,Zenit,Krasnodar,4,0,1.0
+2014-2015,17,2014-12-06,Kuban,CSKA Moscow,0,1,0.0
+2014-2015,17,2014-12-07,Terek Grozny,Loko Moscow,0,0,0.5
+2014-2015,17,2014-12-07,Dynamo Mosc,Amkar Perm,5,0,1.0
+2014-2015,17,2014-12-08,Torpedo Moscow,Ufa,2,2,0.5
+2014-2015,17,2014-12-08,Mordovia,Rubin Kazan,0,1,0.0
+2014-2015,17,2014-12-08,Rostov,Arsenal Tula,0,1,0.0
+2014-2015,17,2014-12-08,Spartak Moscow,Ural,2,0,1.0
+2014-2015,18,2015-03-07,Terek Grozny,CSKA Moscow,1,2,0.0
+2014-2015,18,2015-03-07,Zenit,Ural,3,0,1.0
+2014-2015,18,2015-03-08,Spartak Moscow,Krasnodar,1,3,0.0
+2014-2015,18,2015-03-08,Dynamo Mosc,Ufa,3,1,1.0
+2014-2015,18,2015-03-08,Rostov,Loko Moscow,0,1,0.0
+2014-2015,18,2015-03-09,Amkar Perm,Torpedo Moscow,0,0,0.5
+2014-2015,18,2015-03-09,Rubin Kazan,Arsenal Tula,1,0,1.0
+2014-2015,18,2015-03-09,Kuban,Mordovia,0,0,0.5
+2014-2015,19,2015-03-13,Krasnodar,Ural,1,1,0.5
+2014-2015,19,2015-03-14,Ufa,Amkar Perm,1,1,0.5
+2014-2015,19,2015-03-14,CSKA Moscow,Mordovia,4,0,1.0
+2014-2015,19,2015-03-14,Loko Moscow,Arsenal Tula,0,1,0.0
+2014-2015,19,2015-03-15,Spartak Moscow,Dynamo Mosc,1,0,1.0
+2014-2015,19,2015-03-15,Torpedo Moscow,Zenit,1,1,0.5
+2014-2015,19,2015-03-15,Rubin Kazan,Terek Grozny,2,1,1.0
+2014-2015,19,2015-03-16,Rostov,Kuban,2,1,1.0
+2014-2015,20,2015-03-20,Ufa,Krasnodar,0,2,0.0
+2014-2015,20,2015-03-21,Ural,Amkar Perm,1,0,1.0
+2014-2015,20,2015-03-21,Arsenal Tula,CSKA Moscow,1,4,0.0
+2014-2015,20,2015-03-21,Rubin Kazan,Rostov,2,0,1.0
+2014-2015,20,2015-03-21,Torpedo Moscow,Spartak Moscow,0,1,0.0
+2014-2015,20,2015-03-22,Dynamo Mosc,Zenit,0,1,0.0
+2014-2015,20,2015-03-22,Mordovia,Loko Moscow,0,0,0.5
+2014-2015,20,2015-03-22,Kuban,Terek Grozny,1,0,1.0
+2014-2015,21,2015-04-04,Amkar Perm,Rubin Kazan,0,3,0.0
+2014-2015,21,2015-04-04,Dynamo Mosc,Loko Moscow,2,2,0.5
+2014-2015,21,2015-04-04,Krasnodar,Mordovia,4,0,1.0
+2014-2015,21,2015-04-04,Spartak Moscow,Kuban,1,1,0.5
+2014-2015,21,2015-04-05,Zenit,CSKA Moscow,2,1,1.0
+2014-2015,21,2015-04-05,Ural,Rostov,0,1,0.0
+2014-2015,21,2015-04-05,Ufa,Terek Grozny,0,1,0.0
+2014-2015,21,2015-04-05,Arsenal Tula,Torpedo Moscow,1,3,0.0
+2014-2015,22,2015-04-07,Mordovia,Amkar Perm,1,0,1.0
+2014-2015,22,2015-04-07,Rubin Kazan,Krasnodar,1,2,0.0
+2014-2015,22,2015-04-08,Terek Grozny,Zenit,1,2,0.0
+2014-2015,22,2015-04-08,Kuban,Ural,0,2,0.0
+2014-2015,22,2015-04-08,Loko Moscow,Torpedo Moscow,2,0,1.0
+2014-2015,22,2015-04-08,CSKA Moscow,Dynamo Mosc,1,2,0.0
+2014-2015,22,2015-04-09,Arsenal Tula,Spartak Moscow,1,0,1.0
+2014-2015,22,2015-04-09,Rostov,Ufa,2,0,1.0
+2014-2015,23,2015-04-11,Krasnodar,Kuban,3,2,1.0
+2014-2015,23,2015-04-12,Zenit,Rubin Kazan,1,1,0.5
+2014-2015,23,2015-04-12,Ufa,Arsenal Tula,0,1,0.0
+2014-2015,23,2015-04-12,Dynamo Mosc,Mordovia,2,1,1.0
+2014-2015,23,2015-04-13,Ural,Loko Moscow,2,0,1.0
+2014-2015,23,2015-04-13,Torpedo Moscow,Terek Grozny,0,0,0.5
+2014-2015,23,2015-04-13,Amkar Perm,CSKA Moscow,1,0,1.0
+2014-2015,23,2015-04-13,Rostov,Spartak Moscow,2,1,1.0
+2014-2015,24,2015-04-18,Ufa,Loko Moscow,1,0,1.0
+2014-2015,24,2015-04-18,Mordovia,Spartak Moscow,1,3,0.0
+2014-2015,24,2015-04-18,Rubin Kazan,Ural,2,1,1.0
+2014-2015,24,2015-04-19,CSKA Moscow,Krasnodar,1,1,0.5
+2014-2015,24,2015-04-19,Terek Grozny,Dynamo Mosc,0,0,0.5
+2014-2015,24,2015-04-19,Kuban,Zenit,0,0,0.5
+2014-2015,24,2015-04-20,Amkar Perm,Arsenal Tula,0,1,0.0
+2014-2015,24,2015-04-20,Rostov,Torpedo Moscow,1,0,1.0
+2014-2015,25,2015-04-24,Ufa,Kuban,3,2,1.0
+2014-2015,25,2015-04-24,Mordovia,Ural,2,1,1.0
+2014-2015,25,2015-04-25,Amkar Perm,Terek Grozny,2,1,1.0
+2014-2015,25,2015-04-25,Torpedo Moscow,CSKA Moscow,0,2,0.0
+2014-2015,25,2015-04-25,Krasnodar,Loko Moscow,1,0,1.0
+2014-2015,25,2015-04-26,Spartak Moscow,Rubin Kazan,1,0,1.0
+2014-2015,25,2015-04-26,Rostov,Dynamo Mosc,2,2,0.5
+2014-2015,25,2015-04-26,Zenit,Arsenal Tula,1,0,1.0
+2014-2015,10,2015-04-30,Amkar Perm,Dynamo Mosc,2,0,1.0
+2014-2015,26,2015-05-02,Spartak Moscow,Zenit,1,1,0.5
+2014-2015,26,2015-05-02,Rostov,Terek Grozny,0,1,0.0
+2014-2015,26,2015-05-03,Kuban,Dynamo Mosc,1,2,0.0
+2014-2015,26,2015-05-03,Amkar Perm,Loko Moscow,1,1,0.5
+2014-2015,26,2015-05-03,Torpedo Moscow,Rubin Kazan,2,2,0.5
+2014-2015,26,2015-05-04,Ufa,Mordovia,1,2,0.0
+2014-2015,26,2015-05-04,Arsenal Tula,Krasnodar,0,3,0.0
+2014-2015,26,2015-05-04,CSKA Moscow,Ural,3,1,1.0
+2014-2015,27,2015-05-08,Ural,Ufa,1,1,0.5
+2014-2015,27,2015-05-08,Rubin Kazan,Kuban,1,0,1.0
+2014-2015,27,2015-05-10,Loko Moscow,CSKA Moscow,1,3,0.0
+2014-2015,27,2015-05-10,Dynamo Mosc,Torpedo Moscow,0,0,0.5
+2014-2015,27,2015-05-10,Zenit,Rostov,3,0,1.0
+2014-2015,27,2015-05-11,Terek Grozny,Spartak Moscow,4,2,1.0
+2014-2015,27,2015-05-11,Mordovia,Arsenal Tula,1,0,1.0
+2014-2015,27,2015-05-11,Krasnodar,Amkar Perm,1,1,0.5
+2014-2015,28,2015-05-15,Mordovia,Rostov,0,0,0.5
+2014-2015,28,2015-05-16,Amkar Perm,Kuban,1,0,1.0
+2014-2015,28,2015-05-16,Arsenal Tula,Terek Grozny,1,1,0.5
+2014-2015,28,2015-05-16,Loko Moscow,Rubin Kazan,3,0,1.0
+2014-2015,28,2015-05-17,Spartak Moscow,CSKA Moscow,0,4,0.0
+2014-2015,28,2015-05-17,Ufa,Zenit,1,1,0.5
+2014-2015,28,2015-05-17,Krasnodar,Torpedo Moscow,2,2,0.5
+2014-2015,28,2015-05-18,Ural,Dynamo Mosc,2,1,1.0
+2014-2015,29,2015-05-23,Amkar Perm,Zenit,1,0,1.0
+2014-2015,29,2015-05-23,Torpedo Moscow,Ural,3,1,1.0
+2014-2015,29,2015-05-23,Spartak Moscow,Ufa,1,2,0.0
+2014-2015,29,2015-05-24,Krasnodar,Rostov,2,1,1.0
+2014-2015,29,2015-05-24,Mordovia,Terek Grozny,1,0,1.0
+2014-2015,29,2015-05-24,Dynamo Mosc,Arsenal Tula,2,2,0.5
+2014-2015,29,2015-05-25,Loko Moscow,Kuban,1,1,0.5
+2014-2015,29,2015-05-25,CSKA Moscow,Rubin Kazan,3,0,1.0
+2014-2015,30,2015-05-30,Kuban,Arsenal Tula,5,1,1.0
+2014-2015,30,2015-05-30,Dynamo Mosc,Krasnodar,1,1,0.5
+2014-2015,30,2015-05-30,Terek Grozny,Ural,1,3,0.0
+2014-2015,30,2015-05-30,Rostov,CSKA Moscow,1,1,0.5
+2014-2015,30,2015-05-30,Torpedo Moscow,Mordovia,2,0,1.0
+2014-2015,30,2015-05-30,Zenit,Loko Moscow,1,0,1.0
+2014-2015,30,2015-05-30,Spartak Moscow,Amkar Perm,3,3,0.5
+2014-2015,30,2015-05-30,Ufa,Rubin Kazan,1,1,0.5

@@ -1,0 +1,142 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2021-2022,Group stage,1,2021-09-14,Maccabi Tel Aviv,Alashkert,il,am,4,1,1.0
+2021-2022,Group stage,1,2021-09-14,Maccabi Haifa,Feyenoord,il,nl,0,0,0.5
+2021-2022,Group stage,1,2021-09-16,Slovan Bratislava,FC Copenhagen,sk,dk,1,3,0.0
+2021-2022,Group stage,1,2021-09-16,Slavia Prague,Union Berlin,cz,de,3,1,1.0
+2021-2022,Group stage,1,2021-09-16,Rennes,Tottenham,fr,eng,2,2,0.5
+2021-2022,Group stage,1,2021-09-16,NŠ Mura,Vitesse,si,nl,0,2,0.0
+2021-2022,Group stage,1,2021-09-16,Red Imps,PAOK,gi,gr,0,2,0.0
+2021-2022,Group stage,1,2021-09-16,HJK,LASK,fi,at,0,2,0.0
+2021-2022,Group stage,1,2021-09-16,Flora,Gent,ee,be,0,1,0.0
+2021-2022,Group stage,1,2021-09-16,Qaırat Almaty,AC Omonia,kz,cy,0,0,0.5
+2021-2022,Group stage,1,2021-09-16,Qarabağ,Basel,az,ch,0,0,0.5
+2021-2022,Group stage,1,2021-09-16,Randers,AZ Alkmaar,dk,nl,2,2,0.5
+2021-2022,Group stage,1,2021-09-16,Bodø/Glimt,Zorya Luhansk,no,ua,3,1,1.0
+2021-2022,Group stage,1,2021-09-16,Roma,CSKA Sofia,it,bg,5,1,1.0
+2021-2022,Group stage,1,2021-09-16,Jablonec,CFR Cluj,cz,ro,1,0,1.0
+2021-2022,Group stage,1,2021-09-16,Anorthosis,Partizan,cy,rs,0,2,0.0
+2021-2022,Group stage,2,2021-09-30,Partizan,Flora,rs,ee,2,0,1.0
+2021-2022,Group stage,2,2021-09-30,LASK,Maccabi Tel Aviv,at,il,1,1,0.5
+2021-2022,Group stage,2,2021-09-30,Gent,Anorthosis,be,cy,2,0,1.0
+2021-2022,Group stage,2,2021-09-30,AZ Alkmaar,Jablonec,nl,cz,1,0,1.0
+2021-2022,Group stage,2,2021-09-30,CFR Cluj,Randers,ro,dk,1,1,0.5
+2021-2022,Group stage,2,2021-09-30,CSKA Sofia,Bodø/Glimt,bg,no,0,0,0.5
+2021-2022,Group stage,2,2021-09-30,Zorya Luhansk,Roma,ua,it,0,3,0.0
+2021-2022,Group stage,2,2021-09-30,Tottenham,NŠ Mura,eng,si,5,1,1.0
+2021-2022,Group stage,2,2021-09-30,Alashkert,HJK,am,fi,2,4,0.0
+2021-2022,Group stage,2,2021-09-30,Vitesse,Rennes,nl,fr,1,2,0.0
+2021-2022,Group stage,2,2021-09-30,FC Copenhagen,Red Imps,dk,gi,3,1,1.0
+2021-2022,Group stage,2,2021-09-30,Feyenoord,Slavia Prague,nl,cz,2,1,1.0
+2021-2022,Group stage,2,2021-09-30,Basel,Qaırat Almaty,ch,kz,4,2,1.0
+2021-2022,Group stage,2,2021-09-30,Union Berlin,Maccabi Haifa,de,il,3,0,1.0
+2021-2022,Group stage,2,2021-09-30,PAOK,Slovan Bratislava,gr,sk,1,1,0.5
+2021-2022,Group stage,2,2021-09-30,AC Omonia,Qarabağ,cy,az,1,4,0.0
+2021-2022,Group stage,3,2021-10-21,HJK,Maccabi Tel Aviv,fi,il,0,5,0.0
+2021-2022,Group stage,3,2021-10-21,FC Copenhagen,PAOK,dk,gr,1,2,0.0
+2021-2022,Group stage,3,2021-10-21,Bodø/Glimt,Roma,no,it,6,1,1.0
+2021-2022,Group stage,3,2021-10-21,NŠ Mura,Rennes,si,fr,1,2,0.0
+2021-2022,Group stage,3,2021-10-21,Vitesse,Tottenham,nl,eng,1,0,1.0
+2021-2022,Group stage,3,2021-10-21,Feyenoord,Union Berlin,nl,de,3,1,1.0
+2021-2022,Group stage,3,2021-10-21,Maccabi Haifa,Slavia Prague,il,cz,1,0,1.0
+2021-2022,Group stage,3,2021-10-21,Anorthosis,Flora,cy,ee,2,2,0.5
+2021-2022,Group stage,3,2021-10-21,Alashkert,LASK,am,at,0,3,0.0
+2021-2022,Group stage,3,2021-10-21,Qarabağ,Qaırat Almaty,az,kz,2,1,1.0
+2021-2022,Group stage,3,2021-10-21,Jablonec,Randers,cz,dk,2,2,0.5
+2021-2022,Group stage,3,2021-10-21,Basel,AC Omonia,ch,cy,3,1,1.0
+2021-2022,Group stage,3,2021-10-21,Partizan,Gent,rs,be,0,1,0.0
+2021-2022,Group stage,3,2021-10-21,Slovan Bratislava,Red Imps,sk,gi,2,0,1.0
+2021-2022,Group stage,3,2021-10-21,CFR Cluj,AZ Alkmaar,ro,nl,0,1,0.0
+2021-2022,Group stage,3,2021-10-21,CSKA Sofia,Zorya Luhansk,bg,ua,0,1,0.0
+2021-2022,Group stage,4,2021-11-04,Flora,Anorthosis,ee,cy,2,2,0.5
+2021-2022,Group stage,4,2021-11-04,AZ Alkmaar,CFR Cluj,nl,ro,2,0,1.0
+2021-2022,Group stage,4,2021-11-04,LASK,Alashkert,at,am,2,0,1.0
+2021-2022,Group stage,4,2021-11-04,Red Imps,Slovan Bratislava,gi,sk,1,4,0.0
+2021-2022,Group stage,4,2021-11-04,Randers,Jablonec,dk,cz,2,2,0.5
+2021-2022,Group stage,4,2021-11-04,Gent,Partizan,be,rs,1,1,0.5
+2021-2022,Group stage,4,2021-11-04,Maccabi Tel Aviv,HJK,il,fi,3,0,1.0
+2021-2022,Group stage,4,2021-11-04,AC Omonia,Basel,cy,ch,1,1,0.5
+2021-2022,Group stage,4,2021-11-04,Zorya Luhansk,CSKA Sofia,ua,bg,2,0,1.0
+2021-2022,Group stage,4,2021-11-04,Tottenham,Vitesse,eng,nl,3,2,1.0
+2021-2022,Group stage,4,2021-11-04,Rennes,NŠ Mura,fr,si,1,0,1.0
+2021-2022,Group stage,4,2021-11-04,Roma,Bodø/Glimt,it,no,2,2,0.5
+2021-2022,Group stage,4,2021-11-04,Slavia Prague,Maccabi Haifa,cz,il,1,0,1.0
+2021-2022,Group stage,4,2021-11-04,Union Berlin,Feyenoord,de,nl,1,2,0.0
+2021-2022,Group stage,4,2021-11-04,Qaırat Almaty,Qarabağ,kz,az,1,2,0.0
+2021-2022,Group stage,4,2021-11-04,PAOK,FC Copenhagen,gr,dk,1,2,0.0
+2021-2022,Group stage,5,2021-11-25,Flora,Partizan,ee,rs,1,0,1.0
+2021-2022,Group stage,5,2021-11-25,Slovan Bratislava,PAOK,sk,gr,0,0,0.5
+2021-2022,Group stage,5,2021-11-25,Rennes,Vitesse,fr,nl,3,3,0.5
+2021-2022,Group stage,5,2021-11-25,Red Imps,FC Copenhagen,gi,dk,0,4,0.0
+2021-2022,Group stage,5,2021-11-25,NŠ Mura,Tottenham,si,eng,2,1,1.0
+2021-2022,Group stage,5,2021-11-25,Slavia Prague,Feyenoord,cz,nl,2,2,0.5
+2021-2022,Group stage,5,2021-11-25,Maccabi Haifa,Union Berlin,il,de,0,1,0.0
+2021-2022,Group stage,5,2021-11-25,HJK,Alashkert,fi,am,1,0,1.0
+2021-2022,Group stage,5,2021-11-25,Roma,Zorya Luhansk,it,ua,4,0,1.0
+2021-2022,Group stage,5,2021-11-25,Jablonec,AZ Alkmaar,cz,nl,1,1,0.5
+2021-2022,Group stage,5,2021-11-25,Randers,CFR Cluj,dk,ro,2,1,1.0
+2021-2022,Group stage,5,2021-11-25,Bodø/Glimt,CSKA Sofia,no,bg,2,0,1.0
+2021-2022,Group stage,5,2021-11-25,Qaırat Almaty,Basel,kz,ch,2,3,0.0
+2021-2022,Group stage,5,2021-11-25,Qarabağ,AC Omonia,az,cy,2,2,0.5
+2021-2022,Group stage,5,2021-11-25,Anorthosis,Gent,cy,be,1,0,1.0
+2021-2022,Group stage,5,2021-11-25,Maccabi Tel Aviv,LASK,il,at,0,1,0.0
+2021-2022,Group stage,6,2021-12-09,Partizan,Anorthosis,rs,cy,1,1,0.5
+2021-2022,Group stage,6,2021-12-09,Gent,Flora,be,ee,1,0,1.0
+2021-2022,Group stage,6,2021-12-09,LASK,HJK,at,fi,3,0,1.0
+2021-2022,Group stage,6,2021-12-09,AZ Alkmaar,Randers,nl,dk,1,0,1.0
+2021-2022,Group stage,6,2021-12-09,CFR Cluj,Jablonec,ro,cz,2,0,1.0
+2021-2022,Group stage,6,2021-12-09,CSKA Sofia,Roma,bg,it,2,3,0.0
+2021-2022,Group stage,6,2021-12-09,Zorya Luhansk,Bodø/Glimt,ua,no,1,1,0.5
+2021-2022,Group stage,6,2021-12-09,Tottenham,Rennes,eng,fr,0,3,0.0
+2021-2022,Group stage,6,2021-12-09,FC Copenhagen,Slovan Bratislava,dk,sk,2,0,1.0
+2021-2022,Group stage,6,2021-12-09,Union Berlin,Slavia Prague,de,cz,1,1,0.5
+2021-2022,Group stage,6,2021-12-09,Vitesse,NŠ Mura,nl,si,3,1,1.0
+2021-2022,Group stage,6,2021-12-09,Basel,Qarabağ,ch,az,3,0,1.0
+2021-2022,Group stage,6,2021-12-09,Feyenoord,Maccabi Haifa,nl,il,2,1,1.0
+2021-2022,Group stage,6,2021-12-09,Alashkert,Maccabi Tel Aviv,am,il,1,1,0.5
+2021-2022,Group stage,6,2021-12-09,PAOK,Red Imps,gr,gi,2,0,1.0
+2021-2022,Group stage,6,2021-12-09,AC Omonia,Qaırat Almaty,cy,kz,0,0,0.5
+2021-2022,Knockout round play-offs,,2022-02-17,PSV Eindhoven,Maccabi Tel Aviv,nl,il,1,0,1.0
+2021-2022,Knockout round play-offs,,2022-02-17,Rapid Wien,Vitesse,at,nl,2,1,1.0
+2021-2022,Knockout round play-offs,,2022-02-17,Midtjylland,PAOK,dk,gr,1,0,1.0
+2021-2022,Knockout round play-offs,,2022-02-17,Celtic,Bodø/Glimt,sct,no,1,3,0.0
+2021-2022,Knockout round play-offs,,2022-02-17,Leicester City,Randers,eng,dk,4,1,1.0
+2021-2022,Knockout round play-offs,,2022-02-17,Fenerbahçe,Slavia Prague,tr,cz,2,3,0.0
+2021-2022,Knockout round play-offs,,2022-02-17,Marseille,Qarabağ,fr,az,3,1,1.0
+2021-2022,Knockout round play-offs,,2022-02-17,Sparta Prague,Partizan,cz,rs,0,1,0.0
+2021-2022,Knockout round play-offs,,2022-02-24,Randers,Leicester City,dk,eng,1,3,0.0
+2021-2022,Knockout round play-offs,,2022-02-24,Partizan,Sparta Prague,rs,cz,2,1,1.0
+2021-2022,Knockout round play-offs,,2022-02-24,Bodø/Glimt,Celtic,no,sct,2,0,1.0
+2021-2022,Knockout round play-offs,,2022-02-24,Maccabi Tel Aviv,PSV Eindhoven,il,nl,1,1,0.5
+2021-2022,Knockout round play-offs,,2022-02-24,Vitesse,Rapid Wien,nl,at,2,0,1.0
+2021-2022,Knockout round play-offs,,2022-02-24,Slavia Prague,Fenerbahçe,cz,tr,3,2,1.0
+2021-2022,Knockout round play-offs,,2022-02-24,Qarabağ,Marseille,az,fr,0,3,0.0
+2021-2022,Knockout round play-offs,,2022-02-24,PAOK,Midtjylland,gr,dk,2,1,1.0
+2021-2022,Round of 16,,2022-03-10,Slavia Prague,LASK,cz,at,4,1,1.0
+2021-2022,Round of 16,,2022-03-10,Vitesse,Roma,nl,it,0,1,0.0
+2021-2022,Round of 16,,2022-03-10,Partizan,Feyenoord,rs,nl,2,5,0.0
+2021-2022,Round of 16,,2022-03-10,PAOK,Gent,gr,be,1,0,1.0
+2021-2022,Round of 16,,2022-03-10,Leicester City,Rennes,eng,fr,2,0,1.0
+2021-2022,Round of 16,,2022-03-10,Marseille,Basel,fr,ch,2,1,1.0
+2021-2022,Round of 16,,2022-03-10,Bodø/Glimt,AZ Alkmaar,no,nl,2,1,1.0
+2021-2022,Round of 16,,2022-03-10,PSV Eindhoven,FC Copenhagen,nl,dk,4,4,0.5
+2021-2022,Round of 16,,2022-03-17,Rennes,Leicester City,fr,eng,2,1,1.0
+2021-2022,Round of 16,,2022-03-17,AZ Alkmaar,Bodø/Glimt,nl,no,2,2,0.5
+2021-2022,Round of 16,,2022-03-17,FC Copenhagen,PSV Eindhoven,dk,nl,0,4,0.0
+2021-2022,Round of 16,,2022-03-17,Basel,Marseille,ch,fr,1,2,0.0
+2021-2022,Round of 16,,2022-03-17,Roma,Vitesse,it,nl,1,1,0.5
+2021-2022,Round of 16,,2022-03-17,Feyenoord,Partizan,nl,rs,3,1,1.0
+2021-2022,Round of 16,,2022-03-17,LASK,Slavia Prague,at,cz,4,3,1.0
+2021-2022,Round of 16,,2022-03-17,Gent,PAOK,be,gr,1,2,0.0
+2021-2022,Quarter-finals,,2022-04-07,Feyenoord,Slavia Prague,nl,cz,3,3,0.5
+2021-2022,Quarter-finals,,2022-04-07,Leicester City,PSV Eindhoven,eng,nl,0,0,0.5
+2021-2022,Quarter-finals,,2022-04-07,Bodø/Glimt,Roma,no,it,2,1,1.0
+2021-2022,Quarter-finals,,2022-04-07,Marseille,PAOK,fr,gr,2,1,1.0
+2021-2022,Quarter-finals,,2022-04-14,PSV Eindhoven,Leicester City,nl,eng,1,2,0.0
+2021-2022,Quarter-finals,,2022-04-14,Slavia Prague,Feyenoord,cz,nl,1,3,0.0
+2021-2022,Quarter-finals,,2022-04-14,Roma,Bodø/Glimt,it,no,4,0,1.0
+2021-2022,Quarter-finals,,2022-04-14,PAOK,Marseille,gr,fr,0,1,0.0
+2021-2022,Semi-finals,,2022-04-28,Leicester City,Roma,eng,it,1,1,0.5
+2021-2022,Semi-finals,,2022-04-28,Feyenoord,Marseille,nl,fr,3,2,1.0
+2021-2022,Semi-finals,,2022-05-05,Roma,Leicester City,it,eng,1,0,1.0
+2021-2022,Semi-finals,,2022-05-05,Marseille,Feyenoord,fr,nl,0,0,0.5
+2021-2022,Final,,2022-05-25,Roma,Feyenoord,it,nl,1,0,1.0

@@ -1,0 +1,243 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019,Allsvenskan,1,2019-03-31,AIK Stockholm,Östersund,0,0,0.5
+2019,Allsvenskan,1,2019-03-31,Kalmar,Sirius,0,2,0.0
+2019,Allsvenskan,1,2019-03-31,Falkenberg,Örebro,1,0,1.0
+2019,Allsvenskan,1,2019-03-31,Helsingborg,Norrköping,3,1,1.0
+2019,Allsvenskan,1,2019-03-31,AFC Eskilstuna,Göteborg,3,1,1.0
+2019,Allsvenskan,1,2019-04-01,Djurgården,Sundsvall,2,2,0.5
+2019,Allsvenskan,1,2019-04-01,Elfsborg,Hammarby,1,1,0.5
+2019,Allsvenskan,1,2019-04-01,Malmö,Häcken,1,1,0.5
+2019,Allsvenskan,2,2019-04-06,Häcken,Helsingborg,2,1,1.0
+2019,Allsvenskan,2,2019-04-06,Sundsvall,Malmö,3,1,1.0
+2019,Allsvenskan,2,2019-04-07,Göteborg,Elfsborg,3,0,1.0
+2019,Allsvenskan,2,2019-04-07,Östersund,Falkenberg,3,2,1.0
+2019,Allsvenskan,2,2019-04-07,Hammarby,Kalmar,1,1,0.5
+2019,Allsvenskan,2,2019-04-08,Sirius,AFC Eskilstuna,3,2,1.0
+2019,Allsvenskan,2,2019-04-08,Norrköping,AIK Stockholm,0,0,0.5
+2019,Allsvenskan,2,2019-04-08,Örebro,Djurgården,0,3,0.0
+2019,Allsvenskan,3,2019-04-12,AFC Eskilstuna,Örebro,1,1,0.5
+2019,Allsvenskan,3,2019-04-13,Falkenberg,Häcken,0,3,0.0
+2019,Allsvenskan,3,2019-04-13,Kalmar,Norrköping,2,2,0.5
+2019,Allsvenskan,3,2019-04-14,Elfsborg,Sundsvall,3,1,1.0
+2019,Allsvenskan,3,2019-04-14,AIK Stockholm,Sirius,2,1,1.0
+2019,Allsvenskan,3,2019-04-14,Malmö,Östersund,2,0,1.0
+2019,Allsvenskan,3,2019-04-15,Helsingborg,Hammarby,2,1,1.0
+2019,Allsvenskan,3,2019-04-15,Djurgården,Göteborg,2,1,1.0
+2019,Allsvenskan,4,2019-04-19,Östersund,Elfsborg,1,1,0.5
+2019,Allsvenskan,4,2019-04-19,Norrköping,Falkenberg,4,3,1.0
+2019,Allsvenskan,4,2019-04-19,Örebro,AIK Stockholm,2,1,1.0
+2019,Allsvenskan,4,2019-04-20,Sundsvall,Kalmar,1,2,0.0
+2019,Allsvenskan,4,2019-04-20,Sirius,Malmö,0,1,0.0
+2019,Allsvenskan,4,2019-04-21,Häcken,Djurgården,0,1,0.0
+2019,Allsvenskan,4,2019-04-21,Hammarby,AFC Eskilstuna,3,1,1.0
+2019,Allsvenskan,4,2019-04-22,Göteborg,Helsingborg,3,1,1.0
+2019,Allsvenskan,5,2019-04-24,Malmö,Hammarby,4,1,1.0
+2019,Allsvenskan,5,2019-04-24,AFC Eskilstuna,Östersund,0,1,0.0
+2019,Allsvenskan,5,2019-04-24,Elfsborg,Örebro,4,2,1.0
+2019,Allsvenskan,5,2019-04-24,AIK Stockholm,Häcken,1,0,1.0
+2019,Allsvenskan,5,2019-04-24,Falkenberg,Sirius,0,0,0.5
+2019,Allsvenskan,5,2019-04-25,Djurgården,Norrköping,1,1,0.5
+2019,Allsvenskan,5,2019-04-25,Kalmar,Göteborg,1,1,0.5
+2019,Allsvenskan,5,2019-04-25,Helsingborg,Sundsvall,1,1,0.5
+2019,Allsvenskan,6,2019-04-27,Sirius,Elfsborg,2,4,0.0
+2019,Allsvenskan,6,2019-04-28,Hammarby,Djurgården,2,1,1.0
+2019,Allsvenskan,6,2019-04-28,Häcken,AFC Eskilstuna,3,0,1.0
+2019,Allsvenskan,6,2019-04-28,Norrköping,Malmö,1,1,0.5
+2019,Allsvenskan,6,2019-04-29,Sundsvall,Falkenberg,3,1,1.0
+2019,Allsvenskan,6,2019-04-29,Örebro,Kalmar,1,1,0.5
+2019,Allsvenskan,6,2019-04-29,Göteborg,AIK Stockholm,3,0,1.0
+2019,Allsvenskan,6,2019-04-29,Östersund,Helsingborg,3,0,1.0
+2019,Allsvenskan,7,2019-05-04,AIK Stockholm,AFC Eskilstuna,2,1,1.0
+2019,Allsvenskan,7,2019-05-04,Sirius,Göteborg,2,4,0.0
+2019,Allsvenskan,7,2019-05-05,Falkenberg,Malmö,1,2,0.0
+2019,Allsvenskan,7,2019-05-05,Häcken,Sundsvall,1,0,1.0
+2019,Allsvenskan,7,2019-05-05,Kalmar,Östersund,1,1,0.5
+2019,Allsvenskan,7,2019-05-05,Örebro,Hammarby,2,3,0.0
+2019,Allsvenskan,7,2019-05-06,Helsingborg,Djurgården,1,1,0.5
+2019,Allsvenskan,7,2019-05-06,Elfsborg,Norrköping,0,0,0.5
+2019,Allsvenskan,8,2019-05-10,Hammarby,Sirius,2,0,1.0
+2019,Allsvenskan,8,2019-05-11,Östersund,Häcken,1,1,0.5
+2019,Allsvenskan,8,2019-05-11,Kalmar,Helsingborg,1,0,1.0
+2019,Allsvenskan,8,2019-05-11,AFC Eskilstuna,Falkenberg,0,0,0.5
+2019,Allsvenskan,8,2019-05-11,Sundsvall,Örebro,1,2,0.0
+2019,Allsvenskan,8,2019-05-12,Djurgården,AIK Stockholm,0,2,0.0
+2019,Allsvenskan,8,2019-05-12,Malmö,Elfsborg,4,1,1.0
+2019,Allsvenskan,8,2019-05-13,Norrköping,Göteborg,1,2,0.0
+2019,Allsvenskan,9,2019-05-14,Hammarby,Östersund,4,0,1.0
+2019,Allsvenskan,9,2019-05-15,Häcken,Kalmar,1,0,1.0
+2019,Allsvenskan,9,2019-05-15,Elfsborg,AFC Eskilstuna,1,0,1.0
+2019,Allsvenskan,9,2019-05-15,Falkenberg,Djurgården,0,3,0.0
+2019,Allsvenskan,9,2019-05-15,Helsingborg,AIK Stockholm,1,3,0.0
+2019,Allsvenskan,9,2019-05-15,Sirius,Sundsvall,1,0,1.0
+2019,Allsvenskan,9,2019-05-16,Örebro,Norrköping,1,2,0.0
+2019,Allsvenskan,9,2019-05-16,Göteborg,Malmö,0,0,0.5
+2019,Allsvenskan,10,2019-05-18,AFC Eskilstuna,Helsingborg,1,1,0.5
+2019,Allsvenskan,10,2019-05-19,Sirius,Häcken,3,4,0.0
+2019,Allsvenskan,10,2019-05-19,Malmö,Kalmar,1,0,1.0
+2019,Allsvenskan,10,2019-05-19,Djurgården,Elfsborg,2,0,1.0
+2019,Allsvenskan,10,2019-05-20,Östersund,Örebro,1,3,0.0
+2019,Allsvenskan,10,2019-05-20,AIK Stockholm,Falkenberg,2,0,1.0
+2019,Allsvenskan,10,2019-05-20,Norrköping,Sundsvall,2,0,1.0
+2019,Allsvenskan,10,2019-05-20,Göteborg,Hammarby,0,0,0.5
+2019,Allsvenskan,11,2019-05-24,Sundsvall,AIK Stockholm,1,1,0.5
+2019,Allsvenskan,11,2019-05-25,Malmö,AFC Eskilstuna,5,0,1.0
+2019,Allsvenskan,11,2019-05-25,Häcken,Göteborg,1,2,0.0
+2019,Allsvenskan,11,2019-05-25,Helsingborg,Falkenberg,1,1,0.5
+2019,Allsvenskan,11,2019-05-26,Djurgården,Östersund,3,1,1.0
+2019,Allsvenskan,11,2019-05-26,Kalmar,Elfsborg,1,1,0.5
+2019,Allsvenskan,11,2019-05-27,Hammarby,Norrköping,2,2,0.5
+2019,Allsvenskan,11,2019-05-27,Örebro,Sirius,0,2,0.0
+2019,Allsvenskan,18,2019-05-28,Malmö,Sundsvall,2,1,1.0
+2019,Allsvenskan,12,2019-06-01,Göteborg,Örebro,0,1,0.0
+2019,Allsvenskan,12,2019-06-01,Sirius,Djurgården,0,2,0.0
+2019,Allsvenskan,12,2019-06-01,Falkenberg,Kalmar,0,0,0.5
+2019,Allsvenskan,12,2019-06-01,Östersund,Sundsvall,1,1,0.5
+2019,Allsvenskan,12,2019-06-02,AIK Stockholm,Hammarby,2,0,1.0
+2019,Allsvenskan,12,2019-06-02,Elfsborg,Häcken,0,0,0.5
+2019,Allsvenskan,12,2019-06-02,AFC Eskilstuna,Norrköping,0,2,0.0
+2019,Allsvenskan,12,2019-06-02,Helsingborg,Malmö,0,1,0.0
+2019,Allsvenskan,18,2019-06-25,AIK Stockholm,Norrköping,0,2,0.0
+2019,Allsvenskan,13,2019-06-28,Örebro,Helsingborg,0,1,0.0
+2019,Allsvenskan,13,2019-06-29,Östersund,Göteborg,0,0,0.5
+2019,Allsvenskan,13,2019-06-29,Falkenberg,Elfsborg,2,1,1.0
+2019,Allsvenskan,13,2019-06-29,Sundsvall,AFC Eskilstuna,0,0,0.5
+2019,Allsvenskan,13,2019-06-30,AIK Stockholm,Malmö,0,0,0.5
+2019,Allsvenskan,13,2019-06-30,Norrköping,Sirius,0,1,0.0
+2019,Allsvenskan,13,2019-07-01,Häcken,Hammarby,2,0,1.0
+2019,Allsvenskan,13,2019-07-01,Djurgården,Kalmar,2,0,1.0
+2019,Allsvenskan,14,2019-07-06,Sirius,Östersund,1,1,0.5
+2019,Allsvenskan,14,2019-07-06,Kalmar,AIK Stockholm,0,1,0.0
+2019,Allsvenskan,14,2019-07-06,Göteborg,Sundsvall,2,1,1.0
+2019,Allsvenskan,14,2019-07-06,Malmö,Örebro,2,1,1.0
+2019,Allsvenskan,14,2019-07-07,Norrköping,Häcken,2,1,1.0
+2019,Allsvenskan,14,2019-07-07,Hammarby,Falkenberg,6,2,1.0
+2019,Allsvenskan,14,2019-07-08,AFC Eskilstuna,Djurgården,1,1,0.5
+2019,Allsvenskan,14,2019-07-08,Elfsborg,Helsingborg,1,1,0.5
+2019,Allsvenskan,15,2019-07-13,AIK Stockholm,Elfsborg,3,0,1.0
+2019,Allsvenskan,15,2019-07-13,Falkenberg,Göteborg,1,1,0.5
+2019,Allsvenskan,15,2019-07-13,AFC Eskilstuna,Kalmar,3,1,1.0
+2019,Allsvenskan,15,2019-07-14,Östersund,Norrköping,2,1,1.0
+2019,Allsvenskan,15,2019-07-14,Häcken,Örebro,3,0,1.0
+2019,Allsvenskan,15,2019-07-14,Djurgården,Malmö,1,1,0.5
+2019,Allsvenskan,15,2019-07-15,Sundsvall,Hammarby,2,3,0.0
+2019,Allsvenskan,15,2019-07-15,Helsingborg,Sirius,1,0,1.0
+2019,Allsvenskan,16,2019-07-20,AIK Stockholm,Helsingborg,2,0,1.0
+2019,Allsvenskan,16,2019-07-20,Örebro,Falkenberg,4,0,1.0
+2019,Allsvenskan,16,2019-07-20,Sundsvall,Häcken,0,1,0.0
+2019,Allsvenskan,16,2019-07-21,Göteborg,AFC Eskilstuna,1,0,1.0
+2019,Allsvenskan,16,2019-07-21,Malmö,Sirius,1,1,0.5
+2019,Allsvenskan,16,2019-07-21,Norrköping,Östersund,3,0,1.0
+2019,Allsvenskan,16,2019-07-22,Hammarby,Elfsborg,5,2,1.0
+2019,Allsvenskan,16,2019-07-22,Kalmar,Djurgården,0,1,0.0
+2019,Allsvenskan,17,2019-07-27,Sirius,AIK Stockholm,0,2,0.0
+2019,Allsvenskan,17,2019-07-27,Falkenberg,Sundsvall,2,0,1.0
+2019,Allsvenskan,17,2019-07-27,AFC Eskilstuna,Hammarby,1,6,0.0
+2019,Allsvenskan,17,2019-07-28,Djurgården,Häcken,2,0,1.0
+2019,Allsvenskan,17,2019-07-28,Östersund,Malmö,0,0,0.5
+2019,Allsvenskan,17,2019-07-28,Göteborg,Norrköping,0,0,0.5
+2019,Allsvenskan,17,2019-07-29,Helsingborg,Örebro,1,4,0.0
+2019,Allsvenskan,17,2019-07-29,Elfsborg,Kalmar,2,1,1.0
+2019,Allsvenskan,18,2019-08-03,Östersund,AFC Eskilstuna,1,2,0.0
+2019,Allsvenskan,18,2019-08-03,Falkenberg,Helsingborg,1,1,0.5
+2019,Allsvenskan,18,2019-08-04,Kalmar,Hammarby,2,2,0.5
+2019,Allsvenskan,18,2019-08-04,Häcken,Sirius,4,1,1.0
+2019,Allsvenskan,18,2019-08-05,Elfsborg,Djurgården,0,1,0.0
+2019,Allsvenskan,18,2019-08-05,Örebro,Göteborg,2,2,0.5
+2019,Allsvenskan,19,2019-08-10,Djurgården,Sirius,4,0,1.0
+2019,Allsvenskan,19,2019-08-10,Sundsvall,Östersund,1,1,0.5
+2019,Allsvenskan,19,2019-08-11,Häcken,Malmö,1,1,0.5
+2019,Allsvenskan,19,2019-08-11,AFC Eskilstuna,AIK Stockholm,2,4,0.0
+2019,Allsvenskan,19,2019-08-11,Hammarby,Helsingborg,2,1,1.0
+2019,Allsvenskan,19,2019-08-11,Norrköping,Elfsborg,2,0,1.0
+2019,Allsvenskan,19,2019-08-12,Göteborg,Falkenberg,1,1,0.5
+2019,Allsvenskan,19,2019-08-12,Kalmar,Örebro,1,1,0.5
+2019,Allsvenskan,20,2019-08-17,Hammarby,Sundsvall,3,0,1.0
+2019,Allsvenskan,20,2019-08-18,AIK Stockholm,Kalmar,1,2,0.0
+2019,Allsvenskan,20,2019-08-18,Örebro,Häcken,1,2,0.0
+2019,Allsvenskan,20,2019-08-18,Sirius,Norrköping,0,2,0.0
+2019,Allsvenskan,20,2019-08-18,Malmö,Falkenberg,5,0,1.0
+2019,Allsvenskan,20,2019-08-19,Elfsborg,Östersund,4,1,1.0
+2019,Allsvenskan,20,2019-08-19,Djurgården,AFC Eskilstuna,3,0,1.0
+2019,Allsvenskan,20,2019-08-19,Helsingborg,Göteborg,1,2,0.0
+2019,Allsvenskan,21,2019-08-24,Sirius,Örebro,3,4,0.0
+2019,Allsvenskan,21,2019-08-25,Östersund,AIK Stockholm,1,3,0.0
+2019,Allsvenskan,21,2019-08-25,Norrköping,Helsingborg,5,0,1.0
+2019,Allsvenskan,21,2019-08-25,AFC Eskilstuna,Häcken,0,2,0.0
+2019,Allsvenskan,21,2019-08-25,Malmö,Djurgården,0,1,0.0
+2019,Allsvenskan,21,2019-08-26,Sundsvall,Elfsborg,1,2,0.0
+2019,Allsvenskan,21,2019-08-26,Göteborg,Kalmar,4,0,1.0
+2019,Allsvenskan,21,2019-08-26,Falkenberg,Hammarby,0,2,0.0
+2019,Allsvenskan,22,2019-08-30,Helsingborg,Östersund,2,0,1.0
+2019,Allsvenskan,22,2019-08-31,Elfsborg,Sirius,1,1,0.5
+2019,Allsvenskan,22,2019-08-31,Örebro,AFC Eskilstuna,3,1,1.0
+2019,Allsvenskan,22,2019-09-01,Sundsvall,Göteborg,0,2,0.0
+2019,Allsvenskan,22,2019-09-01,Kalmar,Malmö,0,5,0.0
+2019,Allsvenskan,22,2019-09-01,AIK Stockholm,Djurgården,1,0,1.0
+2019,Allsvenskan,22,2019-09-01,Norrköping,Hammarby,2,0,1.0
+2019,Allsvenskan,22,2019-09-01,Häcken,Falkenberg,4,1,1.0
+2019,Allsvenskan,23,2019-09-13,Sirius,Falkenberg,2,0,1.0
+2019,Allsvenskan,23,2019-09-14,Örebro,Sundsvall,0,0,0.5
+2019,Allsvenskan,23,2019-09-14,Östersund,Kalmar,1,2,0.0
+2019,Allsvenskan,23,2019-09-15,Häcken,AIK Stockholm,1,2,0.0
+2019,Allsvenskan,23,2019-09-15,Hammarby,Göteborg,6,2,1.0
+2019,Allsvenskan,23,2019-09-15,Malmö,Norrköping,1,0,1.0
+2019,Allsvenskan,23,2019-09-16,Djurgården,Helsingborg,2,0,1.0
+2019,Allsvenskan,23,2019-09-16,AFC Eskilstuna,Elfsborg,2,2,0.5
+2019,Allsvenskan,24,2019-09-20,Sundsvall,Djurgården,1,4,0.0
+2019,Allsvenskan,24,2019-09-21,Falkenberg,Östersund,1,0,1.0
+2019,Allsvenskan,24,2019-09-21,Kalmar,Häcken,1,1,0.5
+2019,Allsvenskan,24,2019-09-21,Norrköping,Örebro,3,0,1.0
+2019,Allsvenskan,24,2019-09-21,Göteborg,Sirius,2,1,1.0
+2019,Allsvenskan,24,2019-09-22,Hammarby,AIK Stockholm,2,1,1.0
+2019,Allsvenskan,24,2019-09-22,Helsingborg,AFC Eskilstuna,2,1,1.0
+2019,Allsvenskan,24,2019-09-22,Elfsborg,Malmö,0,3,0.0
+2019,Allsvenskan,25,2019-09-24,Djurgården,Falkenberg,1,0,1.0
+2019,Allsvenskan,25,2019-09-24,Kalmar,Sundsvall,0,2,0.0
+2019,Allsvenskan,25,2019-09-25,Sirius,Hammarby,1,3,0.0
+2019,Allsvenskan,25,2019-09-25,Häcken,Elfsborg,1,2,0.0
+2019,Allsvenskan,25,2019-09-25,Örebro,Östersund,2,0,1.0
+2019,Allsvenskan,25,2019-09-25,AIK Stockholm,Göteborg,1,0,1.0
+2019,Allsvenskan,25,2019-09-26,Norrköping,AFC Eskilstuna,4,0,1.0
+2019,Allsvenskan,25,2019-09-26,Malmö,Helsingborg,3,0,1.0
+2019,Allsvenskan,26,2019-09-29,Sundsvall,Sirius,2,1,1.0
+2019,Allsvenskan,26,2019-09-29,Elfsborg,AIK Stockholm,1,1,0.5
+2019,Allsvenskan,26,2019-09-29,Göteborg,Häcken,0,0,0.5
+2019,Allsvenskan,26,2019-09-29,Falkenberg,Norrköping,0,2,0.0
+2019,Allsvenskan,26,2019-09-29,AFC Eskilstuna,Malmö,0,1,0.0
+2019,Allsvenskan,26,2019-09-30,Östersund,Djurgården,1,2,0.0
+2019,Allsvenskan,26,2019-09-30,Hammarby,Örebro,5,1,1.0
+2019,Allsvenskan,26,2019-09-30,Helsingborg,Kalmar,2,0,1.0
+2019,Allsvenskan,27,2019-10-05,Sundsvall,Norrköping,4,4,0.5
+2019,Allsvenskan,27,2019-10-05,AIK Stockholm,Örebro,2,0,1.0
+2019,Allsvenskan,27,2019-10-05,Sirius,Helsingborg,2,1,1.0
+2019,Allsvenskan,27,2019-10-06,Kalmar,AFC Eskilstuna,0,0,0.5
+2019,Allsvenskan,27,2019-10-06,Häcken,Östersund,1,1,0.5
+2019,Allsvenskan,27,2019-10-06,Djurgården,Hammarby,1,2,0.0
+2019,Allsvenskan,27,2019-10-06,Elfsborg,Falkenberg,4,0,1.0
+2019,Allsvenskan,27,2019-10-06,Malmö,Göteborg,1,0,1.0
+2019,Allsvenskan,28,2019-10-18,AFC Eskilstuna,Sundsvall,1,0,1.0
+2019,Allsvenskan,28,2019-10-19,Helsingborg,Häcken,0,2,0.0
+2019,Allsvenskan,28,2019-10-19,Östersund,Sirius,2,0,1.0
+2019,Allsvenskan,28,2019-10-20,Falkenberg,AIK Stockholm,1,5,0.0
+2019,Allsvenskan,28,2019-10-20,Hammarby,Malmö,2,0,1.0
+2019,Allsvenskan,28,2019-10-20,Norrköping,Kalmar,1,0,1.0
+2019,Allsvenskan,28,2019-10-21,Örebro,Elfsborg,2,2,0.5
+2019,Allsvenskan,28,2019-10-21,Göteborg,Djurgården,0,1,0.0
+2019,Allsvenskan,29,2019-10-26,Sundsvall,Helsingborg,1,2,0.0
+2019,Allsvenskan,29,2019-10-26,Kalmar,Falkenberg,2,3,0.0
+2019,Allsvenskan,29,2019-10-27,AFC Eskilstuna,Sirius,0,0,0.5
+2019,Allsvenskan,29,2019-10-27,Häcken,Norrköping,0,1,0.0
+2019,Allsvenskan,29,2019-10-27,Östersund,Hammarby,1,2,0.0
+2019,Allsvenskan,29,2019-10-28,Djurgården,Örebro,3,0,1.0
+2019,Allsvenskan,29,2019-10-28,Malmö,AIK Stockholm,2,0,1.0
+2019,Allsvenskan,29,2019-10-28,Elfsborg,Göteborg,2,0,1.0
+2019,Allsvenskan,30,2019-11-02,Falkenberg,AFC Eskilstuna,1,0,1.0
+2019,Allsvenskan,30,2019-11-02,Sirius,Kalmar,3,0,1.0
+2019,Allsvenskan,30,2019-11-02,Norrköping,Djurgården,2,2,0.5
+2019,Allsvenskan,30,2019-11-02,Helsingborg,Elfsborg,1,2,0.0
+2019,Allsvenskan,30,2019-11-02,Hammarby,Häcken,4,1,1.0
+2019,Allsvenskan,30,2019-11-02,Örebro,Malmö,0,5,0.0
+2019,Allsvenskan,30,2019-11-02,AIK Stockholm,Sundsvall,2,1,1.0
+2019,Allsvenskan,30,2019-11-02,Göteborg,Östersund,7,1,1.0
+2019,Swedish 1/2 Relegation/Promotion Playoffs,,2019-11-06,Brage,Kalmar,0,2,0.0
+2019,Swedish 1/2 Relegation/Promotion Playoffs,,2019-11-10,Kalmar,Brage,2,2,0.5

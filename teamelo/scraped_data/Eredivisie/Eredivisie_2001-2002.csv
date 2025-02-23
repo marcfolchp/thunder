@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2001-2002,1,2001-08-17,Twente,RKC Waalwijk,1,0,1.0
+2001-2002,1,2001-08-18,Den Bosch,Heerenveen,0,0,0.5
+2001-2002,1,2001-08-18,NAC Breda,Utrecht,1,0,1.0
+2001-2002,1,2001-08-18,De Graafschap,AZ Alkmaar,3,0,1.0
+2001-2002,1,2001-08-18,Groningen,PSV Eindhoven,2,2,0.5
+2001-2002,1,2001-08-19,Willem II,NEC Nijmegen,3,1,1.0
+2001-2002,1,2001-08-19,Fortuna Sittard,Vitesse,0,0,0.5
+2001-2002,1,2001-08-19,Feyenoord,Sparta R'dam,5,0,1.0
+2001-2002,1,2001-08-19,Ajax,Roda JC,1,1,0.5
+2001-2002,2,2001-08-21,NAC Breda,Twente,3,3,0.5
+2001-2002,2,2001-08-22,Sparta R'dam,Utrecht,3,1,1.0
+2001-2002,2,2001-08-22,Groningen,Willem II,1,0,1.0
+2001-2002,2,2001-08-22,Roda JC,Feyenoord,0,2,0.0
+2001-2002,2,2001-08-22,Vitesse,AZ Alkmaar,1,0,1.0
+2001-2002,2,2001-08-22,Fortuna Sittard,De Graafschap,2,1,1.0
+2001-2002,2,2001-08-22,NEC Nijmegen,RKC Waalwijk,1,0,1.0
+2001-2002,2,2001-08-22,PSV Eindhoven,Den Bosch,3,2,1.0
+2001-2002,3,2001-08-24,Heerenveen,NAC Breda,5,0,1.0
+2001-2002,3,2001-08-25,De Graafschap,NEC Nijmegen,1,1,0.5
+2001-2002,3,2001-08-25,Willem II,PSV Eindhoven,3,1,1.0
+2001-2002,3,2001-08-25,AZ Alkmaar,Sparta R'dam,3,0,1.0
+2001-2002,3,2001-08-25,Twente,Roda JC,3,0,1.0
+2001-2002,3,2001-08-25,Vitesse,Utrecht,1,0,1.0
+2001-2002,3,2001-08-26,Feyenoord,Ajax,1,2,0.0
+2001-2002,3,2001-08-26,RKC Waalwijk,Groningen,4,0,1.0
+2001-2002,3,2001-08-26,Den Bosch,Fortuna Sittard,4,0,1.0
+2001-2002,4,2001-09-07,Heerenveen,Vitesse,1,1,0.5
+2001-2002,4,2001-09-08,Roda JC,De Graafschap,0,1,0.0
+2001-2002,4,2001-09-08,NEC Nijmegen,Feyenoord,0,3,0.0
+2001-2002,4,2001-09-08,AZ Alkmaar,NAC Breda,2,1,1.0
+2001-2002,4,2001-09-08,PSV Eindhoven,Fortuna Sittard,3,0,1.0
+2001-2002,4,2001-09-08,Twente,Ajax,0,2,0.0
+2001-2002,4,2001-09-09,Sparta R'dam,RKC Waalwijk,0,0,0.5
+2001-2002,4,2001-09-09,Utrecht,Groningen,3,1,1.0
+2001-2002,4,2001-09-09,Willem II,Den Bosch,1,1,0.5
+2001-2002,5,2001-09-14,Fortuna Sittard,Willem II,1,2,0.0
+2001-2002,5,2001-09-15,Vitesse,Sparta R'dam,1,1,0.5
+2001-2002,5,2001-09-15,NAC Breda,PSV Eindhoven,2,0,1.0
+2001-2002,5,2001-09-15,Feyenoord,De Graafschap,2,0,1.0
+2001-2002,5,2001-09-16,RKC Waalwijk,Heerenveen,2,1,1.0
+2001-2002,5,2001-09-16,Utrecht,Roda JC,4,1,1.0
+2001-2002,5,2001-09-16,Den Bosch,NEC Nijmegen,2,1,1.0
+2001-2002,5,2001-09-16,Groningen,Twente,3,0,1.0
+2001-2002,5,2001-09-16,Ajax,AZ Alkmaar,1,0,1.0
+2001-2002,6,2001-09-21,Roda JC,Den Bosch,4,1,1.0
+2001-2002,6,2001-09-22,RKC Waalwijk,Fortuna Sittard,1,0,1.0
+2001-2002,6,2001-09-22,Heerenveen,PSV Eindhoven,4,1,1.0
+2001-2002,6,2001-09-23,Ajax,Sparta R'dam,3,0,1.0
+2001-2002,6,2001-09-23,De Graafschap,Vitesse,0,2,0.0
+2001-2002,6,2001-09-23,AZ Alkmaar,Utrecht,1,0,1.0
+2001-2002,6,2001-09-23,NEC Nijmegen,Groningen,1,0,1.0
+2001-2002,7,2001-09-28,De Graafschap,NAC Breda,4,2,1.0
+2001-2002,7,2001-09-29,Willem II,AZ Alkmaar,2,2,0.5
+2001-2002,7,2001-09-29,PSV Eindhoven,Vitesse,0,2,0.0
+2001-2002,7,2001-09-29,Fortuna Sittard,NEC Nijmegen,2,2,0.5
+2001-2002,7,2001-09-30,Den Bosch,Feyenoord,0,0,0.5
+2001-2002,7,2001-09-30,Roda JC,Heerenveen,0,2,0.0
+2001-2002,7,2001-09-30,Groningen,Ajax,1,4,0.0
+2001-2002,7,2001-09-30,Utrecht,RKC Waalwijk,2,1,1.0
+2001-2002,7,2001-09-30,Sparta R'dam,Twente,1,1,0.5
+2001-2002,8,2001-10-07,Sparta R'dam,Den Bosch,1,1,0.5
+2001-2002,8,2001-10-09,AZ Alkmaar,PSV Eindhoven,1,1,0.5
+2001-2002,8,2001-10-09,RKC Waalwijk,De Graafschap,2,0,1.0
+2001-2002,8,2001-10-09,Twente,Willem II,0,0,0.5
+2001-2002,8,2001-10-09,NAC Breda,Roda JC,2,1,1.0
+2001-2002,8,2001-10-10,Ajax,NEC Nijmegen,5,0,1.0
+2001-2002,8,2001-10-10,Heerenveen,Utrecht,1,2,0.0
+2001-2002,9,2001-10-12,Roda JC,PSV Eindhoven,0,1,0.0
+2001-2002,9,2001-10-13,Heerenveen,AZ Alkmaar,2,1,1.0
+2001-2002,9,2001-10-13,RKC Waalwijk,Ajax,0,2,0.0
+2001-2002,9,2001-10-13,Fortuna Sittard,Sparta R'dam,3,4,0.0
+2001-2002,9,2001-10-14,Feyenoord,Groningen,1,0,1.0
+2001-2002,9,2001-10-14,De Graafschap,Twente,4,2,1.0
+2001-2002,9,2001-10-14,NAC Breda,Den Bosch,0,0,0.5
+2001-2002,9,2001-10-14,Utrecht,Willem II,3,1,1.0
+2001-2002,9,2001-10-14,NEC Nijmegen,Vitesse,1,0,1.0
+2001-2002,6,2001-10-17,NAC Breda,Willem II,1,1,0.5
+2001-2002,8,2001-10-17,Vitesse,Groningen,1,0,1.0
+2001-2002,10,2001-10-20,Willem II,RKC Waalwijk,3,1,1.0
+2001-2002,10,2001-10-20,Vitesse,NAC Breda,1,0,1.0
+2001-2002,10,2001-10-20,PSV Eindhoven,De Graafschap,4,0,1.0
+2001-2002,10,2001-10-20,Sparta R'dam,Roda JC,0,3,0.0
+2001-2002,10,2001-10-20,AZ Alkmaar,Feyenoord,1,3,0.0
+2001-2002,10,2001-10-21,Groningen,Heerenveen,1,1,0.5
+2001-2002,10,2001-10-21,NEC Nijmegen,Twente,2,0,1.0
+2001-2002,10,2001-10-21,Den Bosch,Utrecht,1,1,0.5
+2001-2002,2,2001-10-24,Heerenveen,Ajax,5,1,1.0
+2001-2002,11,2001-10-26,Roda JC,NEC Nijmegen,0,0,0.5
+2001-2002,11,2001-10-27,PSV Eindhoven,RKC Waalwijk,2,0,1.0
+2001-2002,11,2001-10-27,Twente,Vitesse,0,0,0.5
+2001-2002,11,2001-10-27,Heerenveen,De Graafschap,1,0,1.0
+2001-2002,11,2001-10-27,AZ Alkmaar,Fortuna Sittard,3,0,1.0
+2001-2002,11,2001-10-28,Groningen,Den Bosch,2,0,1.0
+2001-2002,11,2001-10-28,Ajax,Willem II,4,1,1.0
+2001-2002,11,2001-10-28,Feyenoord,Utrecht,4,0,1.0
+2001-2002,11,2001-10-30,Sparta R'dam,NAC Breda,2,3,0.0
+2001-2002,12,2001-11-02,Willem II,Vitesse,1,1,0.5
+2001-2002,12,2001-11-03,NEC Nijmegen,AZ Alkmaar,1,0,1.0
+2001-2002,12,2001-11-03,Fortuna Sittard,Heerenveen,1,0,1.0
+2001-2002,12,2001-11-03,Sparta R'dam,PSV Eindhoven,2,1,1.0
+2001-2002,12,2001-11-03,RKC Waalwijk,Den Bosch,3,3,0.5
+2001-2002,12,2001-11-04,De Graafschap,Ajax,1,1,0.5
+2001-2002,12,2001-11-04,NAC Breda,Feyenoord,2,1,1.0
+2001-2002,12,2001-11-04,Utrecht,Twente,1,1,0.5
+2001-2002,12,2001-11-04,Roda JC,Groningen,3,1,1.0
+2001-2002,13,2001-11-16,Heerenveen,Sparta R'dam,3,0,1.0
+2001-2002,13,2001-11-17,Den Bosch,Twente,1,3,0.0
+2001-2002,13,2001-11-17,AZ Alkmaar,RKC Waalwijk,0,1,0.0
+2001-2002,13,2001-11-17,PSV Eindhoven,NEC Nijmegen,3,1,1.0
+2001-2002,13,2001-11-17,Willem II,Roda JC,1,1,0.5
+2001-2002,23,2001-11-17,Feyenoord,Vitesse,3,2,1.0
+2001-2002,13,2001-11-18,Utrecht,De Graafschap,6,0,1.0
+2001-2002,13,2001-11-18,Ajax,NAC Breda,1,3,0.0
+2001-2002,13,2001-11-18,Groningen,Fortuna Sittard,4,2,1.0
+2001-2002,14,2001-11-23,AZ Alkmaar,Den Bosch,3,2,1.0
+2001-2002,14,2001-11-24,Fortuna Sittard,RKC Waalwijk,1,4,0.0
+2001-2002,14,2001-11-24,De Graafschap,Sparta R'dam,3,0,1.0
+2001-2002,14,2001-11-24,NAC Breda,Groningen,5,0,1.0
+2001-2002,14,2001-11-24,Vitesse,Roda JC,2,0,1.0
+2001-2002,14,2001-11-24,Twente,Heerenveen,0,0,0.5
+2001-2002,14,2001-11-25,Ajax,PSV Eindhoven,1,3,0.0
+2001-2002,14,2001-11-25,NEC Nijmegen,Utrecht,0,3,0.0
+2001-2002,14,2001-11-25,Feyenoord,Willem II,3,1,1.0
+2001-2002,15,2001-11-27,Den Bosch,De Graafschap,3,1,1.0
+2001-2002,15,2001-11-27,Groningen,AZ Alkmaar,0,1,0.0
+2001-2002,15,2001-11-28,Ajax,Twente,3,2,1.0
+2001-2002,15,2001-11-28,Sparta R'dam,Willem II,3,2,1.0
+2001-2002,15,2001-11-28,NEC Nijmegen,NAC Breda,1,3,0.0
+2001-2002,15,2001-11-28,Utrecht,PSV Eindhoven,3,3,0.5
+2001-2002,15,2001-11-28,RKC Waalwijk,Feyenoord,2,3,0.0
+2001-2002,15,2001-11-28,Roda JC,Fortuna Sittard,1,0,1.0
+2001-2002,16,2001-11-30,De Graafschap,Groningen,1,2,0.0
+2001-2002,16,2001-12-01,RKC Waalwijk,Roda JC,3,0,1.0
+2001-2002,16,2001-12-01,Heerenveen,Feyenoord,1,0,1.0
+2001-2002,16,2001-12-01,PSV Eindhoven,AZ Alkmaar,3,0,1.0
+2001-2002,16,2001-12-01,Twente,Fortuna Sittard,1,1,0.5
+2001-2002,16,2001-12-02,Utrecht,Vitesse,3,1,1.0
+2001-2002,16,2001-12-02,Sparta R'dam,NEC Nijmegen,0,0,0.5
+2001-2002,16,2001-12-02,Willem II,NAC Breda,2,2,0.5
+2001-2002,10,2001-12-04,Ajax,Fortuna Sittard,4,0,1.0
+2001-2002,17,2001-12-07,Vitesse,De Graafschap,2,1,1.0
+2001-2002,17,2001-12-07,Fortuna Sittard,Den Bosch,1,3,0.0
+2001-2002,17,2001-12-08,AZ Alkmaar,Roda JC,1,2,0.0
+2001-2002,17,2001-12-08,NAC Breda,RKC Waalwijk,0,1,0.0
+2001-2002,17,2001-12-08,Willem II,Heerenveen,2,2,0.5
+2001-2002,17,2001-12-09,Feyenoord,NEC Nijmegen,5,0,1.0
+2001-2002,17,2001-12-09,PSV Eindhoven,Twente,1,0,1.0
+2001-2002,17,2001-12-09,Groningen,Sparta R'dam,0,0,0.5
+2001-2002,18,2001-12-14,Fortuna Sittard,NAC Breda,2,3,0.0
+2001-2002,18,2001-12-15,Den Bosch,Vitesse,4,1,1.0
+2001-2002,18,2001-12-15,De Graafschap,Willem II,1,1,0.5
+2001-2002,18,2001-12-15,Roda JC,Ajax,1,1,0.5
+2001-2002,18,2001-12-15,Twente,AZ Alkmaar,0,0,0.5
+2001-2002,18,2001-12-16,Feyenoord,PSV Eindhoven,0,0,0.5
+2001-2002,18,2001-12-16,NEC Nijmegen,Heerenveen,1,0,1.0
+2001-2002,18,2001-12-16,Groningen,Utrecht,2,2,0.5
+2001-2002,18,2001-12-16,RKC Waalwijk,Sparta R'dam,1,1,0.5
+2001-2002,6,2001-12-19,Twente,Feyenoord,3,2,1.0
+2001-2002,15,2001-12-19,Ajax,Vitesse,5,1,1.0
+2001-2002,18,2001-12-19,Fortuna Sittard,Utrecht,3,3,0.5
+2001-2002,18,2001-12-19,Heerenveen,Den Bosch,2,0,1.0
+2001-2002,19,2001-12-22,Willem II,Twente,3,3,0.5
+2001-2002,19,2001-12-22,Vitesse,RKC Waalwijk,1,1,0.5
+2001-2002,19,2001-12-22,PSV Eindhoven,Groningen,8,0,1.0
+2001-2002,19,2001-12-22,NAC Breda,Heerenveen,2,1,1.0
+2001-2002,19,2001-12-23,Utrecht,Ajax,3,1,1.0
+2001-2002,19,2001-12-23,NEC Nijmegen,Roda JC,1,0,1.0
+2001-2002,20,2002-01-25,Sparta R'dam,Heerenveen,1,4,0.0
+2001-2002,20,2002-01-26,De Graafschap,Fortuna Sittard,5,0,1.0
+2001-2002,20,2002-01-26,PSV Eindhoven,NAC Breda,3,1,1.0
+2001-2002,20,2002-01-26,Roda JC,Twente,2,1,1.0
+2001-2002,23,2002-01-26,AZ Alkmaar,Groningen,3,2,1.0
+2001-2002,17,2002-01-27,Den Bosch,Ajax,0,1,0.0
+2001-2002,20,2002-01-27,RKC Waalwijk,Willem II,0,1,0.0
+2001-2002,20,2002-01-27,Vitesse,NEC Nijmegen,2,1,1.0
+2001-2002,20,2002-01-27,Utrecht,Feyenoord,2,2,0.5
+2001-2002,20,2002-01-31,Willem II,Groningen,3,1,1.0
+2001-2002,21,2002-02-01,NEC Nijmegen,Sparta R'dam,1,1,0.5
+2001-2002,21,2002-02-02,AZ Alkmaar,Vitesse,0,0,0.5
+2001-2002,21,2002-02-02,Fortuna Sittard,PSV Eindhoven,0,1,0.0
+2001-2002,21,2002-02-02,Twente,De Graafschap,0,0,0.5
+2001-2002,21,2002-02-02,Den Bosch,RKC Waalwijk,1,0,1.0
+2001-2002,21,2002-02-03,Feyenoord,Roda JC,5,0,1.0
+2001-2002,21,2002-02-03,Utrecht,Heerenveen,0,0,0.5
+2001-2002,21,2002-02-03,Willem II,Ajax,1,3,0.0
+2001-2002,21,2002-02-03,Groningen,NAC Breda,3,0,1.0
+2001-2002,21,2002-02-05,RKC Waalwijk,PSV Eindhoven,2,1,1.0
+2001-2002,8,2002-02-06,Feyenoord,Fortuna Sittard,1,0,1.0
+2001-2002,21,2002-02-06,NAC Breda,Sparta R'dam,2,2,0.5
+2001-2002,21,2002-02-06,Roda JC,Utrecht,1,0,1.0
+2001-2002,22,2002-02-08,Twente,Den Bosch,4,0,1.0
+2001-2002,22,2002-02-09,Sparta R'dam,De Graafschap,1,3,0.0
+2001-2002,22,2002-02-09,Vitesse,Fortuna Sittard,1,1,0.5
+2001-2002,22,2002-02-09,AZ Alkmaar,Heerenveen,0,2,0.0
+2001-2002,22,2002-02-10,Groningen,Feyenoord,0,1,0.0
+2001-2002,22,2002-02-10,Ajax,RKC Waalwijk,3,1,1.0
+2001-2002,22,2002-02-10,Utrecht,NEC Nijmegen,1,4,0.0
+2001-2002,23,2002-02-15,Den Bosch,Sparta R'dam,1,1,0.5
+2001-2002,23,2002-02-16,De Graafschap,Roda JC,2,1,1.0
+2001-2002,23,2002-02-16,NEC Nijmegen,PSV Eindhoven,0,4,0.0
+2001-2002,23,2002-02-16,Heerenveen,Willem II,3,0,1.0
+2001-2002,13,2002-02-17,Vitesse,Feyenoord,2,1,1.0
+2001-2002,20,2002-02-17,AZ Alkmaar,Ajax,0,0,0.5
+2001-2002,23,2002-02-17,Twente,NAC Breda,1,2,0.0
+2001-2002,19,2002-02-20,Sparta R'dam,AZ Alkmaar,0,4,0.0
+2001-2002,20,2002-02-20,Den Bosch,Groningen,1,4,0.0
+2001-2002,24,2002-02-23,Vitesse,Den Bosch,1,1,0.5
+2001-2002,24,2002-02-23,Roda JC,Willem II,2,0,1.0
+2001-2002,24,2002-02-24,NAC Breda,Ajax,0,1,0.0
+2001-2002,24,2002-02-24,PSV Eindhoven,Utrecht,4,0,1.0
+2001-2002,24,2002-02-24,RKC Waalwijk,AZ Alkmaar,3,2,1.0
+2001-2002,24,2002-02-24,Feyenoord,Twente,1,2,0.0
+2001-2002,23,2002-02-27,Fortuna Sittard,Ajax,1,1,0.5
+2001-2002,25,2002-03-01,NAC Breda,AZ Alkmaar,3,1,1.0
+2001-2002,25,2002-03-02,De Graafschap,Den Bosch,0,1,0.0
+2001-2002,25,2002-03-02,Willem II,Utrecht,4,2,1.0
+2001-2002,25,2002-03-03,Groningen,RKC Waalwijk,1,1,0.5
+2001-2002,25,2002-03-03,Twente,NEC Nijmegen,2,0,1.0
+2001-2002,25,2002-03-03,Ajax,Feyenoord,1,1,0.5
+2001-2002,25,2002-03-03,Sparta R'dam,Fortuna Sittard,0,0,0.5
+2001-2002,25,2002-03-04,Roda JC,Vitesse,0,2,0.0
+2001-2002,26,2002-03-08,Utrecht,Sparta R'dam,4,2,1.0
+2001-2002,26,2002-03-09,Vitesse,Twente,2,0,1.0
+2001-2002,26,2002-03-09,Den Bosch,NAC Breda,1,2,0.0
+2001-2002,26,2002-03-09,PSV Eindhoven,Roda JC,4,1,1.0
+2001-2002,26,2002-03-09,Heerenveen,RKC Waalwijk,2,0,1.0
+2001-2002,26,2002-03-09,Fortuna Sittard,Groningen,0,1,0.0
+2001-2002,26,2002-03-10,Ajax,De Graafschap,4,0,1.0
+2001-2002,26,2002-03-10,Feyenoord,AZ Alkmaar,4,1,1.0
+2001-2002,26,2002-03-10,NEC Nijmegen,Willem II,3,0,1.0
+2001-2002,24,2002-03-13,Heerenveen,Fortuna Sittard,3,1,1.0
+2001-2002,24,2002-03-13,NEC Nijmegen,De Graafschap,3,1,1.0
+2001-2002,27,2002-03-15,Roda JC,NAC Breda,1,1,0.5
+2001-2002,27,2002-03-16,Willem II,Sparta R'dam,4,0,1.0
+2001-2002,27,2002-03-16,AZ Alkmaar,De Graafschap,2,1,1.0
+2001-2002,27,2002-03-17,RKC Waalwijk,NEC Nijmegen,2,1,1.0
+2001-2002,27,2002-03-17,Twente,Groningen,0,1,0.0
+2001-2002,27,2002-03-17,Ajax,Heerenveen,2,0,1.0
+2001-2002,27,2002-03-17,Utrecht,Fortuna Sittard,3,0,1.0
+2001-2002,27,2002-03-17,Vitesse,PSV Eindhoven,0,0,0.5
+2001-2002,27,2002-03-17,Feyenoord,Den Bosch,3,0,1.0
+2001-2002,28,2002-03-22,Fortuna Sittard,AZ Alkmaar,0,1,0.0
+2001-2002,28,2002-03-23,NAC Breda,Vitesse,3,3,0.5
+2001-2002,28,2002-03-23,Heerenveen,NEC Nijmegen,4,0,1.0
+2001-2002,28,2002-03-23,Den Bosch,Willem II,1,2,0.0
+2001-2002,28,2002-03-24,De Graafschap,Utrecht,0,0,0.5
+2001-2002,28,2002-03-24,Sparta R'dam,Feyenoord,0,5,0.0
+2001-2002,28,2002-03-24,PSV Eindhoven,Ajax,1,1,0.5
+2001-2002,28,2002-03-24,Groningen,Roda JC,0,2,0.0
+2001-2002,28,2002-03-24,RKC Waalwijk,Twente,3,1,1.0
+2001-2002,29,2002-03-30,Roda JC,Sparta R'dam,3,0,1.0
+2001-2002,29,2002-03-30,NEC Nijmegen,Fortuna Sittard,3,1,1.0
+2001-2002,29,2002-03-30,NAC Breda,De Graafschap,1,0,1.0
+2001-2002,29,2002-03-30,AZ Alkmaar,Twente,0,2,0.0
+2001-2002,29,2002-03-31,Vitesse,Ajax,3,1,1.0
+2001-2002,29,2002-03-31,Feyenoord,RKC Waalwijk,1,1,0.5
+2001-2002,25,2002-04-01,PSV Eindhoven,Heerenveen,4,1,1.0
+2001-2002,29,2002-04-01,Utrecht,Den Bosch,3,1,1.0
+2001-2002,32,2002-04-03,Ajax,Groningen,4,3,1.0
+2001-2002,30,2002-04-05,Twente,Sparta R'dam,2,0,1.0
+2001-2002,30,2002-04-06,Willem II,Fortuna Sittard,3,0,1.0
+2001-2002,30,2002-04-06,Vitesse,Heerenveen,0,0,0.5
+2001-2002,30,2002-04-06,De Graafschap,RKC Waalwijk,3,1,1.0
+2001-2002,30,2002-04-06,Roda JC,AZ Alkmaar,0,0,0.5
+2001-2002,30,2002-04-07,Den Bosch,PSV Eindhoven,0,1,0.0
+2001-2002,30,2002-04-07,Groningen,NEC Nijmegen,2,2,0.5
+2001-2002,30,2002-04-07,Feyenoord,NAC Breda,0,0,0.5
+2001-2002,31,2002-04-13,AZ Alkmaar,Willem II,2,2,0.5
+2001-2002,31,2002-04-13,Den Bosch,Roda JC,3,1,1.0
+2001-2002,31,2002-04-13,NAC Breda,NEC Nijmegen,1,3,0.0
+2001-2002,31,2002-04-13,Fortuna Sittard,Twente,2,0,1.0
+2001-2002,31,2002-04-13,De Graafschap,Heerenveen,1,2,0.0
+2001-2002,31,2002-04-14,RKC Waalwijk,Utrecht,1,2,0.0
+2001-2002,31,2002-04-14,Groningen,Vitesse,0,1,0.0
+2001-2002,31,2002-04-14,PSV Eindhoven,Feyenoord,2,0,1.0
+2001-2002,31,2002-04-14,Sparta R'dam,Ajax,0,4,0.0
+2001-2002,32,2002-04-19,Fortuna Sittard,Feyenoord,1,2,0.0
+2001-2002,32,2002-04-20,Heerenveen,Roda JC,0,0,0.5
+2001-2002,32,2002-04-20,Sparta R'dam,Vitesse,0,1,0.0
+2001-2002,32,2002-04-20,Willem II,De Graafschap,2,2,0.5
+2001-2002,32,2002-04-20,Twente,PSV Eindhoven,1,1,0.5
+2001-2002,32,2002-04-20,RKC Waalwijk,NAC Breda,4,1,1.0
+2001-2002,30,2002-04-21,Ajax,Utrecht,1,0,1.0
+2001-2002,32,2002-04-21,NEC Nijmegen,Den Bosch,2,1,1.0
+2001-2002,29,2002-04-24,Heerenveen,Groningen,2,0,1.0
+2001-2002,29,2002-04-24,PSV Eindhoven,Willem II,6,0,1.0
+2001-2002,32,2002-04-24,Utrecht,AZ Alkmaar,3,2,1.0
+2001-2002,19,2002-04-25,De Graafschap,Feyenoord,1,0,1.0
+2001-2002,33,2002-04-28,Roda JC,RKC Waalwijk,1,0,1.0
+2001-2002,33,2002-04-28,Ajax,Den Bosch,2,0,1.0
+2001-2002,33,2002-04-28,Feyenoord,Heerenveen,3,2,1.0
+2001-2002,33,2002-04-28,AZ Alkmaar,NEC Nijmegen,5,0,1.0
+2001-2002,33,2002-04-28,Twente,Utrecht,2,0,1.0
+2001-2002,33,2002-04-28,Vitesse,Willem II,4,2,1.0
+2001-2002,33,2002-04-28,Groningen,De Graafschap,2,0,1.0
+2001-2002,33,2002-04-28,PSV Eindhoven,Sparta R'dam,3,0,1.0
+2001-2002,33,2002-04-28,NAC Breda,Fortuna Sittard,3,1,1.0
+2001-2002,34,2002-05-05,NEC Nijmegen,Ajax,0,2,0.0
+2001-2002,34,2002-05-05,RKC Waalwijk,Vitesse,3,2,1.0
+2001-2002,34,2002-05-05,Fortuna Sittard,Roda JC,0,0,0.5
+2001-2002,34,2002-05-05,Utrecht,NAC Breda,0,0,0.5
+2001-2002,34,2002-05-05,Den Bosch,AZ Alkmaar,0,1,0.0
+2001-2002,34,2002-05-05,Sparta R'dam,Groningen,0,0,0.5
+2001-2002,34,2002-05-05,Willem II,Feyenoord,0,0,0.5
+2001-2002,34,2002-05-05,Heerenveen,Twente,0,0,0.5
+2001-2002,34,2002-05-05,De Graafschap,PSV Eindhoven,2,2,0.5

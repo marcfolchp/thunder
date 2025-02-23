@@ -1,0 +1,381 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1905-1906,1,1905-09-02,Nott'ham Forest,Wolves,3,1,1.0
+1905-1906,1,1905-09-02,Sunderland,Newcastle Utd,3,2,1.0
+1905-1906,1,1905-09-02,Blackburn,Aston Villa,1,1,0.5
+1905-1906,1,1905-09-02,The Wednesday,Manchester City,1,0,1.0
+1905-1906,1,1905-09-02,Arsenal,Liverpool,3,1,1.0
+1905-1906,1,1905-09-02,Everton,Middlesbrough,4,1,1.0
+1905-1906,1,1905-09-02,Birmingham,Preston,1,1,0.5
+1905-1906,1,1905-09-02,Derby County,Bury,3,1,1.0
+1905-1906,1,1905-09-02,Stoke,Notts County,3,0,1.0
+1905-1906,1,1905-09-02,Bolton,Sheffield Utd,1,2,0.0
+1905-1906,2,1905-09-04,Stoke,Blackburn,3,0,1.0
+1905-1906,2,1905-09-04,Wolves,The Wednesday,0,0,0.5
+1905-1906,2,1905-09-04,Preston,Nott'ham Forest,3,1,1.0
+1905-1906,2,1905-09-06,Newcastle Utd,Manchester City,2,2,0.5
+1905-1906,2,1905-09-09,Aston Villa,Sunderland,2,1,1.0
+1905-1906,2,1905-09-09,Middlesbrough,Derby County,0,1,0.0
+1905-1906,2,1905-09-09,Preston,Everton,1,1,0.5
+1905-1906,2,1905-09-09,Notts County,Bolton,3,3,0.5
+1905-1906,2,1905-09-09,Newcastle Utd,Birmingham,2,2,0.5
+1905-1906,2,1905-09-09,Sheffield Utd,Arsenal,3,1,1.0
+1905-1906,3,1905-09-09,Manchester City,Nott'ham Forest,5,0,1.0
+1905-1906,3,1905-09-09,Wolves,Stoke,1,2,0.0
+1905-1906,3,1905-09-09,Bury,The Wednesday,2,2,0.5
+1905-1906,3,1905-09-09,Liverpool,Blackburn,1,3,0.0
+1905-1906,3,1905-09-11,Aston Villa,Liverpool,5,0,1.0
+1905-1906,4,1905-09-11,Wolves,Bury,2,2,0.5
+1905-1906,4,1905-09-13,Newcastle Utd,The Wednesday,0,3,0.0
+1905-1906,3,1905-09-16,Bolton,Stoke,1,2,0.0
+1905-1906,3,1905-09-16,Arsenal,Notts County,1,1,0.5
+1905-1906,3,1905-09-16,Derby County,Preston,3,0,1.0
+1905-1906,3,1905-09-16,Sunderland,Liverpool,1,2,0.0
+1905-1906,3,1905-09-16,Everton,Newcastle Utd,1,2,0.0
+1905-1906,3,1905-09-16,Birmingham,Aston Villa,2,0,1.0
+1905-1906,4,1905-09-16,Nott'ham Forest,Bury,3,2,1.0
+1905-1906,4,1905-09-16,Blackburn,Sheffield Utd,2,1,1.0
+1905-1906,5,1905-09-16,Manchester City,Wolves,4,0,1.0
+1905-1906,5,1905-09-16,The Wednesday,Middlesbrough,3,0,1.0
+1905-1906,4,1905-09-18,Arsenal,Preston,2,2,0.5
+1905-1906,4,1905-09-23,Aston Villa,Everton,4,0,1.0
+1905-1906,4,1905-09-23,Liverpool,Birmingham,2,0,1.0
+1905-1906,4,1905-09-23,Sheffield Utd,Sunderland,4,1,1.0
+1905-1906,4,1905-09-23,Newcastle Utd,Derby County,0,1,0.0
+1905-1906,4,1905-09-23,Wolves,Bolton,2,0,1.0
+1905-1906,5,1905-09-23,Middlesbrough,Nott'ham Forest,2,0,1.0
+1905-1906,5,1905-09-23,Bury,Manchester City,2,4,0.0
+1905-1906,5,1905-09-23,Stoke,Arsenal,2,1,1.0
+1905-1906,5,1905-09-23,Notts County,Blackburn,1,1,0.5
+1905-1906,6,1905-09-23,Preston,The Wednesday,0,1,0.0
+1905-1906,5,1905-09-30,Sunderland,Notts County,1,3,0.0
+1905-1906,5,1905-09-30,Everton,Liverpool,4,2,1.0
+1905-1906,5,1905-09-30,Birmingham,Sheffield Utd,2,0,1.0
+1905-1906,5,1905-09-30,Derby County,Aston Villa,1,0,1.0
+1905-1906,6,1905-09-30,Nott'ham Forest,Preston,1,0,1.0
+1905-1906,6,1905-09-30,Arsenal,Bolton,0,0,0.5
+1905-1906,6,1905-09-30,Blackburn,Stoke,3,0,1.0
+1905-1906,6,1905-09-30,Manchester City,Middlesbrough,4,0,1.0
+1905-1906,7,1905-09-30,The Wednesday,Newcastle Utd,1,1,0.5
+1905-1906,7,1905-09-30,Bury,Wolves,0,1,0.0
+1905-1906,8,1905-10-05,Notts County,Wolves,5,2,1.0
+1905-1906,6,1905-10-07,Notts County,Birmingham,0,0,0.5
+1905-1906,6,1905-10-07,Liverpool,Derby County,4,1,1.0
+1905-1906,6,1905-10-07,Sheffield Utd,Everton,3,2,1.0
+1905-1906,7,1905-10-07,Stoke,Sunderland,1,0,1.0
+1905-1906,7,1905-10-07,Wolves,Arsenal,0,2,0.0
+1905-1906,7,1905-10-07,Middlesbrough,Bury,5,1,1.0
+1905-1906,7,1905-10-07,Newcastle Utd,Nott'ham Forest,3,2,1.0
+1905-1906,7,1905-10-07,Bolton,Blackburn,1,0,1.0
+1905-1906,8,1905-10-07,Aston Villa,The Wednesday,3,0,1.0
+1905-1906,8,1905-10-07,Preston,Manchester City,2,0,1.0
+1905-1906,7,1905-10-14,Birmingham,Stoke,2,0,1.0
+1905-1906,7,1905-10-14,Sunderland,Bolton,3,3,0.5
+1905-1906,7,1905-10-14,Everton,Notts County,6,2,1.0
+1905-1906,7,1905-10-14,Derby County,Sheffield Utd,1,0,1.0
+1905-1906,8,1905-10-14,Blackburn,Arsenal,2,0,1.0
+1905-1906,8,1905-10-14,Nott'ham Forest,Aston Villa,2,2,0.5
+1905-1906,9,1905-10-14,The Wednesday,Liverpool,3,2,1.0
+1905-1906,9,1905-10-14,Bury,Preston,1,1,0.5
+1905-1906,10,1905-10-14,Middlesbrough,Wolves,3,1,1.0
+1905-1906,8,1905-10-21,Stoke,Everton,2,2,0.5
+1905-1906,8,1905-10-21,Notts County,Derby County,1,0,1.0
+1905-1906,8,1905-10-21,Bolton,Birmingham,0,1,0.0
+1905-1906,9,1905-10-21,Wolves,Blackburn,2,1,1.0
+1905-1906,9,1905-10-21,Liverpool,Nott'ham Forest,4,1,1.0
+1905-1906,9,1905-10-21,Arsenal,Sunderland,2,0,1.0
+1905-1906,9,1905-10-21,Aston Villa,Manchester City,2,1,1.0
+1905-1906,9,1905-10-21,Newcastle Utd,Bury,3,1,1.0
+1905-1906,10,1905-10-21,Sheffield Utd,The Wednesday,0,2,0.0
+1905-1906,10,1905-10-21,Preston,Middlesbrough,2,1,1.0
+1905-1906,9,1905-10-28,Everton,Bolton,3,1,1.0
+1905-1906,9,1905-10-28,Derby County,Stoke,1,0,1.0
+1905-1906,10,1905-10-28,Manchester City,Liverpool,0,1,0.0
+1905-1906,10,1905-10-28,Newcastle Utd,Middlesbrough,4,1,1.0
+1905-1906,10,1905-10-28,Birmingham,Arsenal,2,1,1.0
+1905-1906,10,1905-10-28,Bury,Aston Villa,0,1,0.0
+1905-1906,10,1905-10-28,Sunderland,Blackburn,3,0,1.0
+1905-1906,10,1905-10-28,Nott'ham Forest,Sheffield Utd,4,1,1.0
+1905-1906,11,1905-10-28,Preston,Wolves,3,2,1.0
+1905-1906,11,1905-10-28,The Wednesday,Notts County,3,1,1.0
+1905-1906,10,1905-11-04,Bolton,Derby County,5,0,1.0
+1905-1906,10,1905-11-04,Blackburn,Birmingham,5,1,1.0
+1905-1906,10,1905-11-04,Wolves,Sunderland,5,2,1.0
+1905-1906,10,1905-11-04,Sheffield Utd,Manchester City,1,3,0.0
+1905-1906,11,1905-11-04,Liverpool,Bury,3,1,1.0
+1905-1906,11,1905-11-04,Arsenal,Everton,1,2,0.0
+1905-1906,11,1905-11-04,Notts County,Nott'ham Forest,1,1,0.5
+1905-1906,11,1905-11-04,Aston Villa,Middlesbrough,4,1,1.0
+1905-1906,12,1905-11-04,Stoke,The Wednesday,4,0,1.0
+1905-1906,12,1905-11-04,Newcastle Utd,Preston,1,0,1.0
+1905-1906,11,1905-11-11,The Wednesday,Bolton,1,2,0.0
+1905-1906,11,1905-11-11,Manchester City,Notts County,5,1,1.0
+1905-1906,11,1905-11-11,Birmingham,Sunderland,3,0,1.0
+1905-1906,12,1905-11-11,Everton,Blackburn,3,2,1.0
+1905-1906,12,1905-11-11,Bury,Sheffield Utd,2,5,0.0
+1905-1906,12,1905-11-11,Nott'ham Forest,Stoke,3,1,1.0
+1905-1906,12,1905-11-11,Middlesbrough,Liverpool,1,5,0.0
+1905-1906,12,1905-11-11,Derby County,Arsenal,5,1,1.0
+1905-1906,13,1905-11-11,Preston,Aston Villa,2,0,1.0
+1905-1906,14,1905-11-11,Newcastle Utd,Wolves,8,0,1.0
+1905-1906,13,1905-11-13,Stoke,Aston Villa,0,1,0.0
+1905-1906,12,1905-11-18,Sheffield Utd,Middlesbrough,1,0,1.0
+1905-1906,12,1905-11-18,Sunderland,Everton,2,1,1.0
+1905-1906,12,1905-11-18,Wolves,Birmingham,0,0,0.5
+1905-1906,12,1905-11-18,Bolton,Nott'ham Forest,6,0,1.0
+1905-1906,13,1905-11-18,Notts County,Bury,2,2,0.5
+1905-1906,13,1905-11-18,Aston Villa,Newcastle Utd,0,3,0.0
+1905-1906,13,1905-11-18,Arsenal,The Wednesday,0,2,0.0
+1905-1906,13,1905-11-18,Blackburn,Derby County,3,0,1.0
+1905-1906,14,1905-11-18,Liverpool,Preston,1,1,0.5
+1905-1906,14,1905-11-18,Stoke,Manchester City,0,0,0.5
+1905-1906,13,1905-11-25,Derby County,Sunderland,1,0,1.0
+1905-1906,13,1905-11-25,Everton,Birmingham,1,2,0.0
+1905-1906,13,1905-11-25,Middlesbrough,Notts County,4,1,1.0
+1905-1906,13,1905-11-25,Manchester City,Bolton,3,1,1.0
+1905-1906,14,1905-11-25,Nott'ham Forest,Arsenal,3,1,1.0
+1905-1906,14,1905-11-25,The Wednesday,Blackburn,0,1,0.0
+1905-1906,14,1905-11-25,Newcastle Utd,Liverpool,2,3,0.0
+1905-1906,15,1905-11-25,Bury,Stoke,3,0,1.0
+1905-1906,15,1905-11-25,Preston,Sheffield Utd,1,1,0.5
+1905-1906,16,1905-11-25,Aston Villa,Wolves,6,0,1.0
+1905-1906,14,1905-12-02,Birmingham,Derby County,3,1,1.0
+1905-1906,14,1905-12-02,Bolton,Bury,4,0,1.0
+1905-1906,14,1905-12-02,Wolves,Everton,2,5,0.0
+1905-1906,15,1905-12-02,Sheffield Utd,Newcastle Utd,2,0,1.0
+1905-1906,15,1905-12-02,Arsenal,Manchester City,2,0,1.0
+1905-1906,15,1905-12-02,Blackburn,Nott'ham Forest,1,1,0.5
+1905-1906,16,1905-12-02,Notts County,Preston,2,2,0.5
+1905-1906,16,1905-12-02,Liverpool,Aston Villa,3,0,1.0
+1905-1906,16,1905-12-02,Sunderland,The Wednesday,2,0,1.0
+1905-1906,16,1905-12-02,Stoke,Middlesbrough,1,1,0.5
+1905-1906,15,1905-12-09,Middlesbrough,Bolton,4,4,0.5
+1905-1906,15,1905-12-09,Derby County,Everton,0,0,0.5
+1905-1906,15,1905-12-09,The Wednesday,Birmingham,4,2,1.0
+1905-1906,16,1905-12-09,Newcastle Utd,Notts County,3,1,1.0
+1905-1906,16,1905-12-09,Nott'ham Forest,Sunderland,1,2,0.0
+1905-1906,16,1905-12-09,Manchester City,Blackburn,1,1,0.5
+1905-1906,16,1905-12-09,Bury,Arsenal,2,0,1.0
+1905-1906,17,1905-12-09,Aston Villa,Sheffield Utd,4,1,1.0
+1905-1906,17,1905-12-09,Preston,Stoke,2,0,1.0
+1905-1906,18,1905-12-09,Liverpool,Wolves,4,0,1.0
+1905-1906,16,1905-12-16,Sunderland,Manchester City,2,0,1.0
+1905-1906,16,1905-12-16,Derby County,Wolves,2,0,1.0
+1905-1906,16,1905-12-16,Birmingham,Nott'ham Forest,5,0,1.0
+1905-1906,16,1905-12-16,Bolton,Preston,1,2,0.0
+1905-1906,16,1905-12-16,Everton,The Wednesday,2,0,1.0
+1905-1906,17,1905-12-16,Blackburn,Bury,3,0,1.0
+1905-1906,17,1905-12-16,Arsenal,Middlesbrough,2,2,0.5
+1905-1906,17,1905-12-16,Sheffield Utd,Liverpool,1,2,0.0
+1905-1906,18,1905-12-16,Stoke,Newcastle Utd,1,0,1.0
+1905-1906,18,1905-12-16,Notts County,Aston Villa,2,1,1.0
+1905-1906,17,1905-12-23,Nott'ham Forest,Everton,4,3,1.0
+1905-1906,17,1905-12-23,Manchester City,Birmingham,4,1,1.0
+1905-1906,17,1905-12-23,The Wednesday,Derby County,1,0,1.0
+1905-1906,17,1905-12-23,Newcastle Utd,Bolton,2,1,1.0
+1905-1906,17,1905-12-23,Bury,Sunderland,3,1,1.0
+1905-1906,18,1905-12-23,Middlesbrough,Blackburn,1,1,0.5
+1905-1906,18,1905-12-23,Liverpool,Notts County,2,0,1.0
+1905-1906,18,1905-12-23,Preston,Arsenal,2,2,0.5
+1905-1906,19,1905-12-23,Aston Villa,Stoke,3,0,1.0
+1905-1906,20,1905-12-23,Wolves,Sheffield Utd,1,1,0.5
+1905-1906,18,1905-12-25,Bury,Everton,3,2,1.0
+1905-1906,18,1905-12-25,Liverpool,Bolton,2,2,0.5
+1905-1906,18,1905-12-25,Derby County,Manchester City,1,2,0.0
+1905-1906,18,1905-12-25,Preston,Sunderland,1,1,0.5
+1905-1906,18,1905-12-25,Middlesbrough,Birmingham,1,0,1.0
+1905-1906,19,1905-12-25,Nott'ham Forest,Notts County,1,2,0.0
+1905-1906,19,1905-12-25,Arsenal,Newcastle Utd,4,3,1.0
+1905-1906,20,1905-12-25,Sheffield Utd,Stoke,1,1,0.5
+1905-1906,19,1905-12-26,Birmingham,Middlesbrough,7,0,1.0
+1905-1906,19,1905-12-26,Aston Villa,Bolton,1,1,0.5
+1905-1906,19,1905-12-26,Everton,Bury,1,2,0.0
+1905-1906,19,1905-12-26,Derby County,Nott'ham Forest,2,2,0.5
+1905-1906,20,1905-12-26,The Wednesday,Wolves,5,1,1.0
+1905-1906,20,1905-12-26,Notts County,Sheffield Utd,2,3,0.0
+1905-1906,20,1905-12-26,Manchester City,Newcastle Utd,1,4,0.0
+1905-1906,21,1905-12-26,Stoke,Liverpool,2,1,1.0
+1905-1906,19,1905-12-27,Notts County,Sunderland,4,1,1.0
+1905-1906,20,1905-12-27,Aston Villa,Arsenal,2,1,1.0
+1905-1906,21,1905-12-27,The Wednesday,Nott'ham Forest,1,0,1.0
+1905-1906,20,1905-12-28,Sheffield Utd,Birmingham,3,0,1.0
+1905-1906,19,1905-12-30,Aston Villa,Blackburn,0,1,0.0
+1905-1906,20,1905-12-30,Newcastle Utd,Sunderland,1,1,0.5
+1905-1906,20,1905-12-30,Middlesbrough,Everton,0,0,0.5
+1905-1906,20,1905-12-30,Sheffield Utd,Bolton,5,2,1.0
+1905-1906,20,1905-12-30,Bury,Derby County,0,2,0.0
+1905-1906,21,1905-12-30,Liverpool,Arsenal,3,0,1.0
+1905-1906,21,1905-12-30,Preston,Birmingham,3,0,1.0
+1905-1906,22,1905-12-30,Wolves,Nott'ham Forest,2,1,1.0
+1905-1906,22,1905-12-30,Notts County,Stoke,1,1,0.5
+1905-1906,22,1905-12-30,Manchester City,The Wednesday,2,1,1.0
+1905-1906,20,1906-01-01,Blackburn,Newcastle Utd,1,0,1.0
+1905-1906,21,1906-01-01,Sunderland,Middlesbrough,2,1,1.0
+1905-1906,21,1906-01-01,Manchester City,Everton,1,0,1.0
+1905-1906,22,1906-01-01,Bury,Birmingham,1,0,1.0
+1905-1906,22,1906-01-01,Bolton,Arsenal,6,1,1.0
+1905-1906,23,1906-01-01,Liverpool,Stoke,3,1,1.0
+1905-1906,23,1906-01-01,Sheffield Utd,Notts County,1,0,1.0
+1905-1906,22,1906-01-02,Bolton,Aston Villa,4,1,1.0
+1905-1906,21,1906-01-06,Derby County,Middlesbrough,1,1,0.5
+1905-1906,21,1906-01-06,Blackburn,Liverpool,0,0,0.5
+1905-1906,22,1906-01-06,Everton,Preston,1,0,1.0
+1905-1906,23,1906-01-06,Birmingham,Newcastle Utd,0,1,0.0
+1905-1906,23,1906-01-06,The Wednesday,Bury,1,1,0.5
+1905-1906,23,1906-01-06,Arsenal,Sheffield Utd,5,1,1.0
+1905-1906,23,1906-01-06,Nott'ham Forest,Manchester City,0,1,0.0
+1905-1906,24,1906-01-06,Stoke,Wolves,4,0,1.0
+1905-1906,22,1906-01-20,Sheffield Utd,Blackburn,0,2,0.0
+1905-1906,22,1906-01-20,Preston,Derby County,3,1,1.0
+1905-1906,22,1906-01-20,Liverpool,Sunderland,2,0,1.0
+1905-1906,23,1906-01-20,Stoke,Bolton,1,2,0.0
+1905-1906,23,1906-01-20,Newcastle Utd,Everton,4,2,1.0
+1905-1906,24,1906-01-20,Bury,Nott'ham Forest,2,1,1.0
+1905-1906,24,1906-01-20,Aston Villa,Birmingham,1,3,0.0
+1905-1906,24,1906-01-20,Notts County,Arsenal,1,0,1.0
+1905-1906,24,1906-01-20,Wolves,Manchester City,2,3,0.0
+1905-1906,24,1906-01-20,Middlesbrough,The Wednesday,2,2,0.5
+1905-1906,23,1906-01-27,Derby County,Newcastle Utd,2,1,1.0
+1905-1906,23,1906-01-27,Blackburn,Notts County,1,3,0.0
+1905-1906,23,1906-01-27,Sunderland,Sheffield Utd,2,0,1.0
+1905-1906,24,1906-01-27,Bolton,Wolves,3,2,1.0
+1905-1906,24,1906-01-27,Everton,Aston Villa,4,2,1.0
+1905-1906,25,1906-01-27,Manchester City,Bury,5,2,1.0
+1905-1906,25,1906-01-27,Nott'ham Forest,Middlesbrough,2,1,1.0
+1905-1906,25,1906-01-27,Birmingham,Liverpool,1,0,1.0
+1905-1906,25,1906-01-27,Arsenal,Stoke,1,2,0.0
+1905-1906,25,1906-01-27,The Wednesday,Preston,1,1,0.5
+1905-1906,24,1906-02-03,Preston,Blackburn,2,1,1.0
+1905-1906,25,1906-02-03,Bolton,Notts County,2,0,1.0
+1905-1906,24,1906-02-10,Derby County,Liverpool,0,3,0.0
+1905-1906,25,1906-02-10,Everton,Sheffield Utd,3,2,1.0
+1905-1906,26,1906-02-10,Bury,Middlesbrough,1,1,0.5
+1905-1906,26,1906-02-10,The Wednesday,Aston Villa,2,2,0.5
+1905-1906,26,1906-02-10,Birmingham,Notts County,4,2,1.0
+1905-1906,26,1906-02-10,Arsenal,Wolves,2,1,1.0
+1905-1906,26,1906-02-10,Nott'ham Forest,Newcastle Utd,2,1,1.0
+1905-1906,26,1906-02-10,Manchester City,Preston,0,0,0.5
+1905-1906,27,1906-02-10,Sunderland,Stoke,1,0,1.0
+1905-1906,25,1906-02-17,Sheffield Utd,Derby County,1,0,1.0
+1905-1906,26,1906-02-17,Notts County,Everton,0,0,0.5
+1905-1906,26,1906-02-17,Bolton,Sunderland,6,2,1.0
+1905-1906,27,1906-02-17,Wolves,Middlesbrough,0,0,0.5
+1905-1906,27,1906-02-17,Arsenal,Blackburn,3,2,1.0
+1905-1906,27,1906-02-17,Preston,Bury,1,0,1.0
+1905-1906,27,1906-02-17,Stoke,Birmingham,2,2,0.5
+1905-1906,27,1906-02-17,Liverpool,The Wednesday,2,1,1.0
+1905-1906,27,1906-02-17,Aston Villa,Nott'ham Forest,3,1,1.0
+1905-1906,26,1906-02-24,Blackburn,Wolves,3,1,1.0
+1905-1906,26,1906-02-24,Derby County,Notts County,1,1,0.5
+1905-1906,26,1906-02-28,Sunderland,Aston Villa,2,0,1.0
+1905-1906,27,1906-03-03,Middlesbrough,Newcastle Utd,1,0,1.0
+1905-1906,27,1906-03-03,Bolton,Everton,3,2,1.0
+1905-1906,27,1906-03-03,Blackburn,Sunderland,0,3,0.0
+1905-1906,27,1906-03-03,Stoke,Derby County,2,2,0.5
+1905-1906,28,1906-03-03,Notts County,The Wednesday,1,3,0.0
+1905-1906,28,1906-03-03,Liverpool,Manchester City,0,1,0.0
+1905-1906,28,1906-03-03,Arsenal,Birmingham,5,0,1.0
+1905-1906,28,1906-03-03,Sheffield Utd,Nott'ham Forest,1,4,0.0
+1905-1906,28,1906-03-03,Wolves,Preston,2,3,0.0
+1905-1906,29,1906-03-03,Aston Villa,Bury,3,3,0.5
+1905-1906,27,1906-03-10,Manchester City,Sheffield Utd,1,2,0.0
+1905-1906,28,1906-03-10,Derby County,Bolton,0,1,0.0
+1905-1906,28,1906-03-10,Sunderland,Wolves,7,2,1.0
+1905-1906,30,1906-03-10,Middlesbrough,Aston Villa,1,2,0.0
+1905-1906,29,1906-03-14,Middlesbrough,Preston,1,2,0.0
+1905-1906,29,1906-03-14,Nott'ham Forest,Liverpool,1,2,0.0
+1905-1906,31,1906-03-14,Manchester City,Aston Villa,1,4,0.0
+1905-1906,28,1906-03-17,Blackburn,Everton,1,2,0.0
+1905-1906,29,1906-03-17,Notts County,Manchester City,3,0,1.0
+1905-1906,29,1906-03-17,Sheffield Utd,Bury,1,1,0.5
+1905-1906,29,1906-03-17,Arsenal,Derby County,1,0,1.0
+1905-1906,29,1906-03-17,Bolton,The Wednesday,1,0,1.0
+1905-1906,29,1906-03-17,Sunderland,Birmingham,3,1,1.0
+1905-1906,30,1906-03-17,Liverpool,Middlesbrough,6,1,1.0
+1905-1906,30,1906-03-17,Aston Villa,Preston,0,1,0.0
+1905-1906,30,1906-03-17,Stoke,Nott'ham Forest,4,0,1.0
+1905-1906,31,1906-03-17,Wolves,Newcastle Utd,0,2,0.0
+1905-1906,32,1906-03-19,Sheffield Utd,Wolves,4,1,1.0
+1905-1906,30,1906-03-21,Everton,Arsenal,0,1,0.0
+1905-1906,31,1906-03-21,Notts County,Liverpool,3,0,1.0
+1905-1906,29,1906-03-24,Newcastle Utd,Aston Villa,3,1,1.0
+1905-1906,29,1906-03-24,Derby County,Blackburn,1,2,0.0
+1905-1906,30,1906-03-24,Everton,Sunderland,3,1,1.0
+1905-1906,30,1906-03-24,Birmingham,Wolves,3,3,0.5
+1905-1906,30,1906-03-24,Bury,Notts County,0,0,0.5
+1905-1906,30,1906-03-24,Nott'ham Forest,Bolton,4,0,1.0
+1905-1906,31,1906-03-24,Middlesbrough,Sheffield Utd,0,1,0.0
+1905-1906,31,1906-03-24,Manchester City,Stoke,2,0,1.0
+1905-1906,31,1906-03-24,Preston,Liverpool,1,2,0.0
+1905-1906,31,1906-03-24,The Wednesday,Arsenal,4,2,1.0
+1905-1906,31,1906-03-26,Birmingham,Bolton,2,5,0.0
+1905-1906,32,1906-03-26,Stoke,Bury,4,2,1.0
+1905-1906,30,1906-03-31,Blackburn,The Wednesday,1,0,1.0
+1905-1906,31,1906-03-31,Sunderland,Derby County,2,0,1.0
+1905-1906,32,1906-03-31,Sheffield Utd,Preston,0,0,0.5
+1905-1906,32,1906-03-31,Notts County,Middlesbrough,1,1,0.5
+1905-1906,32,1906-03-31,Bolton,Manchester City,1,3,0.0
+1905-1906,34,1906-03-31,Wolves,Aston Villa,4,1,1.0
+1905-1906,31,1906-04-02,Blackburn,Bolton,4,1,1.0
+1905-1906,32,1906-04-02,Arsenal,Nott'ham Forest,3,1,1.0
+1905-1906,32,1906-04-02,Bury,Liverpool,0,0,0.5
+1905-1906,31,1906-04-03,Everton,Stoke,0,3,0.0
+1905-1906,30,1906-04-04,Newcastle Utd,Sheffield Utd,2,1,1.0
+1905-1906,32,1906-04-07,Everton,Wolves,2,2,0.5
+1905-1906,32,1906-04-07,Derby County,Birmingham,0,0,0.5
+1905-1906,32,1906-04-07,The Wednesday,Sunderland,3,3,0.5
+1905-1906,32,1906-04-07,Nott'ham Forest,Blackburn,1,2,0.0
+1905-1906,33,1906-04-07,Manchester City,Arsenal,1,2,0.0
+1905-1906,33,1906-04-07,Preston,Notts County,4,1,1.0
+1905-1906,34,1906-04-07,Middlesbrough,Stoke,5,0,1.0
+1905-1906,34,1906-04-07,Bury,Bolton,2,1,1.0
+1905-1906,31,1906-04-09,Liverpool,Newcastle Utd,3,0,1.0
+1905-1906,33,1906-04-09,The Wednesday,Stoke,2,0,1.0
+1905-1906,33,1906-04-09,Birmingham,Everton,1,0,1.0
+1905-1906,32,1906-04-13,Bury,Newcastle Utd,1,4,0.0
+1905-1906,33,1906-04-13,Middlesbrough,Sunderland,2,1,1.0
+1905-1906,33,1906-04-13,Blackburn,Preston,1,2,0.0
+1905-1906,33,1906-04-13,Manchester City,Derby County,1,2,0.0
+1905-1906,34,1906-04-13,Liverpool,Everton,1,1,0.5
+1905-1906,34,1906-04-13,Arsenal,Aston Villa,2,1,1.0
+1905-1906,33,1906-04-14,Notts County,Newcastle Utd,1,0,1.0
+1905-1906,34,1906-04-14,Everton,Derby County,2,1,1.0
+1905-1906,34,1906-04-14,Birmingham,The Wednesday,5,1,1.0
+1905-1906,34,1906-04-14,Sunderland,Nott'ham Forest,0,1,0.0
+1905-1906,34,1906-04-14,Blackburn,Manchester City,1,1,0.5
+1905-1906,35,1906-04-14,Bolton,Middlesbrough,2,1,1.0
+1905-1906,35,1906-04-14,Arsenal,Bury,4,0,1.0
+1905-1906,36,1906-04-14,Wolves,Liverpool,0,2,0.0
+1905-1906,36,1906-04-14,Stoke,Preston,3,0,1.0
+1905-1906,36,1906-04-14,Sheffield Utd,Aston Villa,1,1,0.5
+1905-1906,35,1906-04-16,Sunderland,Preston,2,0,1.0
+1905-1906,35,1906-04-16,Nott'ham Forest,The Wednesday,3,4,0.0
+1905-1906,35,1906-04-16,Aston Villa,Derby County,6,0,1.0
+1905-1906,35,1906-04-16,Birmingham,Bury,0,3,0.0
+1905-1906,36,1906-04-16,Bolton,Liverpool,3,2,1.0
+1905-1906,36,1906-04-16,Newcastle Utd,Arsenal,1,1,0.5
+1905-1906,36,1906-04-16,Everton,Manchester City,0,3,0.0
+1905-1906,37,1906-04-16,Stoke,Sheffield Utd,2,1,1.0
+1905-1906,37,1906-04-16,Wolves,Notts County,6,1,1.0
+1905-1906,36,1906-04-17,Nott'ham Forest,Derby County,0,0,0.5
+1905-1906,36,1906-04-17,Middlesbrough,Manchester City,6,1,1.0
+1905-1906,36,1906-04-18,The Wednesday,Sheffield Utd,1,0,1.0
+1905-1906,35,1906-04-21,Bury,Blackburn,5,0,1.0
+1905-1906,36,1906-04-21,Nott'ham Forest,Birmingham,2,1,1.0
+1905-1906,36,1906-04-21,Manchester City,Sunderland,5,1,1.0
+1905-1906,37,1906-04-21,Preston,Bolton,3,0,1.0
+1905-1906,37,1906-04-21,Middlesbrough,Arsenal,2,0,1.0
+1905-1906,37,1906-04-21,Wolves,Derby County,7,0,1.0
+1905-1906,38,1906-04-21,Aston Villa,Notts County,2,1,1.0
+1905-1906,38,1906-04-21,Liverpool,Sheffield Utd,3,1,1.0
+1905-1906,37,1906-04-23,Birmingham,Blackburn,3,0,1.0
+1905-1906,37,1906-04-23,The Wednesday,Everton,3,1,1.0
+1905-1906,38,1906-04-24,Newcastle Utd,Stoke,5,0,1.0
+1905-1906,38,1906-04-25,Sunderland,Arsenal,2,2,0.5
+1905-1906,38,1906-04-26,Preston,Newcastle Utd,0,0,0.5
+1905-1906,37,1906-04-28,Blackburn,Middlesbrough,1,1,0.5
+1905-1906,38,1906-04-28,Sunderland,Bury,0,3,0.0
+1905-1906,38,1906-04-28,Everton,Nott'ham Forest,4,1,1.0
+1905-1906,38,1906-04-28,Birmingham,Manchester City,3,2,1.0
+1905-1906,38,1906-04-28,Bolton,Newcastle Utd,1,1,0.5
+1905-1906,38,1906-04-28,Derby County,The Wednesday,2,1,1.0
+1905-1906,38,1906-04-30,Newcastle Utd,Blackburn,3,0,1.0

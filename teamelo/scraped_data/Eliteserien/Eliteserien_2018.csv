@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2018,1,2018-03-11,Strømsgodset,Stabæk,2,2,0.5
+2018,1,2018-03-11,Odd,Haugesund,1,2,0.0
+2018,1,2018-03-11,Molde,Sandefjord,5,0,1.0
+2018,1,2018-03-11,Start,Tromsø,4,1,1.0
+2018,1,2018-03-11,Bodø/Glimt,Lillestrøm,3,1,1.0
+2018,1,2018-03-11,Sarpsborg 08,Rosenborg,1,0,1.0
+2018,1,2018-03-12,Kristiansund,Vålerenga,0,1,0.0
+2018,2,2018-03-17,Lillestrøm,Sarpsborg 08,2,2,0.5
+2018,2,2018-03-17,Rosenborg,Kristiansund,2,2,0.5
+2018,2,2018-03-18,Brann,Bodø/Glimt,2,0,1.0
+2018,2,2018-03-18,Haugesund,Molde,0,1,0.0
+2018,2,2018-03-18,Vålerenga,Odd,2,1,1.0
+2018,3,2018-04-02,Ranheim,Stabæk,4,1,1.0
+2018,3,2018-04-02,Kristiansund,Lillestrøm,2,1,1.0
+2018,3,2018-04-02,Sarpsborg 08,Vålerenga,3,0,1.0
+2018,3,2018-04-02,Bodø/Glimt,Haugesund,0,3,0.0
+2018,3,2018-04-02,Molde,Tromsø,2,1,1.0
+2018,3,2018-04-02,Start,Sandefjord,1,4,0.0
+2018,3,2018-04-02,Strømsgodset,Brann,1,1,0.5
+2018,3,2018-04-02,Odd,Rosenborg,1,1,0.5
+2018,4,2018-04-07,Vålerenga,Strømsgodset,1,4,0.0
+2018,4,2018-04-08,Haugesund,Sarpsborg 08,1,1,0.5
+2018,4,2018-04-08,Odd,Bodø/Glimt,1,0,1.0
+2018,4,2018-04-08,Tromsø,Ranheim,4,0,1.0
+2018,4,2018-04-08,Brann,Kristiansund,1,0,1.0
+2018,4,2018-04-08,Sandefjord,Stabæk,1,1,0.5
+2018,4,2018-04-08,Rosenborg,Molde,4,0,1.0
+2018,4,2018-04-09,Lillestrøm,Start,1,0,1.0
+2018,2,2018-04-11,Sandefjord,Ranheim,1,2,0.0
+2018,2,2018-04-11,Tromsø,Strømsgodset,3,1,1.0
+2018,5,2018-04-14,Start,Vålerenga,1,6,0.0
+2018,5,2018-04-15,Ranheim,Haugesund,4,2,1.0
+2018,5,2018-04-15,Molde,Lillestrøm,2,1,1.0
+2018,5,2018-04-15,Stabæk,Tromsø,1,1,0.5
+2018,5,2018-04-15,Strømsgodset,Odd,3,0,1.0
+2018,5,2018-04-15,Sandefjord,Kristiansund,3,3,0.5
+2018,5,2018-04-15,Sarpsborg 08,Brann,1,2,0.0
+2018,5,2018-04-16,Bodø/Glimt,Rosenborg,0,1,0.0
+2018,6,2018-04-21,Brann,Stabæk,3,0,1.0
+2018,6,2018-04-22,Tromsø,Sandefjord,4,1,1.0
+2018,6,2018-04-22,Haugesund,Strømsgodset,1,0,1.0
+2018,6,2018-04-22,Kristiansund,Bodø/Glimt,1,1,0.5
+2018,6,2018-04-22,Rosenborg,Start,2,0,1.0
+2018,6,2018-04-22,Lillestrøm,Ranheim,0,1,0.0
+2018,6,2018-04-22,Vålerenga,Molde,0,0,0.5
+2018,6,2018-04-23,Odd,Sarpsborg 08,3,1,1.0
+2018,1,2018-04-25,Ranheim,Brann,0,2,0.0
+2018,2,2018-04-25,Stabæk,Start,1,1,0.5
+2018,7,2018-04-28,Ranheim,Vålerenga,2,2,0.5
+2018,7,2018-04-29,Molde,Odd,0,1,0.0
+2018,7,2018-04-29,Tromsø,Kristiansund,0,0,0.5
+2018,7,2018-04-29,Sandefjord,Brann,0,1,0.0
+2018,7,2018-04-29,Start,Haugesund,0,1,0.0
+2018,7,2018-04-29,Sarpsborg 08,Bodø/Glimt,0,0,0.5
+2018,7,2018-04-29,Strømsgodset,Rosenborg,0,1,0.0
+2018,7,2018-04-30,Stabæk,Lillestrøm,3,2,1.0
+2018,8,2018-05-05,Rosenborg,Ranheim,1,1,0.5
+2018,8,2018-05-06,Odd,Start,3,0,1.0
+2018,8,2018-05-06,Kristiansund,Stabæk,1,0,1.0
+2018,8,2018-05-06,Bodø/Glimt,Strømsgodset,2,2,0.5
+2018,8,2018-05-06,Vålerenga,Haugesund,2,2,0.5
+2018,8,2018-05-06,Lillestrøm,Sandefjord,1,0,1.0
+2018,8,2018-05-06,Brann,Tromsø,3,0,1.0
+2018,8,2018-05-07,Sarpsborg 08,Molde,2,2,0.5
+2018,9,2018-05-12,Sandefjord,Vålerenga,0,1,0.0
+2018,9,2018-05-12,Start,Brann,0,1,0.0
+2018,9,2018-05-13,Molde,Bodø/Glimt,1,2,0.0
+2018,9,2018-05-13,Ranheim,Odd,3,1,1.0
+2018,9,2018-05-13,Tromsø,Lillestrøm,1,2,0.0
+2018,9,2018-05-13,Haugesund,Kristiansund,3,2,1.0
+2018,9,2018-05-13,Strømsgodset,Sarpsborg 08,1,2,0.0
+2018,9,2018-05-13,Stabæk,Rosenborg,0,1,0.0
+2018,10,2018-05-16,Bodø/Glimt,Tromsø,0,1,0.0
+2018,10,2018-05-16,Brann,Haugesund,1,1,0.5
+2018,10,2018-05-16,Molde,Strømsgodset,2,0,1.0
+2018,10,2018-05-16,Sarpsborg 08,Start,4,0,1.0
+2018,10,2018-05-16,Kristiansund,Ranheim,1,3,0.0
+2018,10,2018-05-16,Rosenborg,Lillestrøm,3,0,1.0
+2018,10,2018-05-16,Vålerenga,Stabæk,1,0,1.0
+2018,10,2018-05-16,Odd,Sandefjord,5,0,1.0
+2018,11,2018-05-21,Stabæk,Odd,2,1,1.0
+2018,11,2018-05-21,Haugesund,Rosenborg,1,2,0.0
+2018,11,2018-05-21,Kristiansund,Strømsgodset,4,0,1.0
+2018,11,2018-05-21,Start,Bodø/Glimt,1,0,1.0
+2018,11,2018-05-21,Sandefjord,Sarpsborg 08,0,1,0.0
+2018,11,2018-05-21,Tromsø,Vålerenga,3,0,1.0
+2018,11,2018-05-21,Ranheim,Molde,3,1,1.0
+2018,11,2018-05-21,Lillestrøm,Brann,1,1,0.5
+2018,12,2018-05-26,Vålerenga,Lillestrøm,1,0,1.0
+2018,12,2018-05-27,Haugesund,Tromsø,1,0,1.0
+2018,12,2018-05-27,Strømsgodset,Sandefjord,2,0,1.0
+2018,12,2018-05-27,Bodø/Glimt,Ranheim,4,0,1.0
+2018,12,2018-05-27,Odd,Kristiansund,1,2,0.0
+2018,12,2018-05-27,Molde,Start,3,1,1.0
+2018,12,2018-05-27,Rosenborg,Brann,1,2,0.0
+2018,12,2018-05-28,Sarpsborg 08,Stabæk,4,2,1.0
+2018,13,2018-06-09,Kristiansund,Molde,1,0,1.0
+2018,13,2018-06-10,Start,Strømsgodset,1,1,0.5
+2018,13,2018-06-10,Sandefjord,Haugesund,0,2,0.0
+2018,13,2018-06-10,Stabæk,Bodø/Glimt,0,0,0.5
+2018,13,2018-06-10,Ranheim,Sarpsborg 08,2,1,1.0
+2018,13,2018-06-10,Lillestrøm,Odd,0,0,0.5
+2018,13,2018-06-10,Brann,Vålerenga,0,0,0.5
+2018,13,2018-06-11,Tromsø,Rosenborg,2,1,1.0
+2018,14,2018-06-23,Molde,Stabæk,3,0,1.0
+2018,14,2018-06-24,Start,Kristiansund,2,0,1.0
+2018,14,2018-06-24,Strømsgodset,Ranheim,3,0,1.0
+2018,14,2018-06-24,Sarpsborg 08,Tromsø,2,3,0.0
+2018,14,2018-06-24,Bodø/Glimt,Sandefjord,1,1,0.5
+2018,14,2018-06-24,Haugesund,Lillestrøm,2,2,0.5
+2018,14,2018-06-24,Rosenborg,Vålerenga,3,0,1.0
+2018,14,2018-06-25,Odd,Brann,0,1,0.0
+2018,15,2018-06-30,Vålerenga,Bodø/Glimt,2,2,0.5
+2018,15,2018-07-01,Kristiansund,Sarpsborg 08,1,1,0.5
+2018,15,2018-07-01,Tromsø,Odd,2,1,1.0
+2018,15,2018-07-01,Ranheim,Start,2,0,1.0
+2018,15,2018-07-01,Sandefjord,Rosenborg,0,1,0.0
+2018,15,2018-07-01,Brann,Molde,0,4,0.0
+2018,15,2018-07-01,Stabæk,Haugesund,2,1,1.0
+2018,15,2018-07-02,Lillestrøm,Strømsgodset,1,1,0.5
+2018,16,2018-07-07,Rosenborg,Tromsø,2,1,1.0
+2018,16,2018-07-08,Sarpsborg 08,Ranheim,4,1,1.0
+2018,16,2018-07-08,Odd,Lillestrøm,3,1,1.0
+2018,16,2018-07-08,Start,Stabæk,2,1,1.0
+2018,16,2018-07-08,Haugesund,Sandefjord,4,2,1.0
+2018,16,2018-07-08,Bodø/Glimt,Brann,2,2,0.5
+2018,16,2018-07-08,Molde,Vålerenga,5,1,1.0
+2018,16,2018-07-09,Strømsgodset,Kristiansund,2,3,0.0
+2018,17,2018-08-04,Ranheim,Rosenborg,1,3,0.0
+2018,17,2018-08-05,Kristiansund,Odd,1,1,0.5
+2018,17,2018-08-05,Stabæk,Sarpsborg 08,1,3,0.0
+2018,17,2018-08-05,Vålerenga,Sandefjord,2,2,0.5
+2018,17,2018-08-05,Strømsgodset,Bodø/Glimt,4,0,1.0
+2018,17,2018-08-05,Tromsø,Haugesund,1,2,0.0
+2018,17,2018-08-05,Lillestrøm,Molde,2,2,0.5
+2018,17,2018-08-06,Brann,Start,4,1,1.0
+2018,18,2018-08-10,Sandefjord,Tromsø,1,0,1.0
+2018,18,2018-08-12,Molde,Brann,5,1,1.0
+2018,18,2018-08-12,Start,Ranheim,0,0,0.5
+2018,18,2018-08-12,Sarpsborg 08,Lillestrøm,2,0,1.0
+2018,18,2018-08-12,Rosenborg,Stabæk,1,1,0.5
+2018,18,2018-08-12,Bodø/Glimt,Kristiansund,3,0,1.0
+2018,18,2018-08-12,Odd,Strømsgodset,2,2,0.5
+2018,18,2018-08-13,Haugesund,Vålerenga,1,0,1.0
+2018,19,2018-08-19,Stabæk,Molde,3,1,1.0
+2018,19,2018-08-19,Kristiansund,Rosenborg,0,2,0.0
+2018,19,2018-08-19,Ranheim,Sandefjord,1,1,0.5
+2018,19,2018-08-19,Lillestrøm,Haugesund,1,1,0.5
+2018,19,2018-08-19,Brann,Sarpsborg 08,2,0,1.0
+2018,19,2018-08-19,Strømsgodset,Start,1,1,0.5
+2018,19,2018-08-19,Vålerenga,Tromsø,3,0,1.0
+2018,19,2018-08-20,Bodø/Glimt,Odd,1,1,0.5
+2018,20,2018-08-25,Tromsø,Bodø/Glimt,1,2,0.0
+2018,20,2018-08-26,Sarpsborg 08,Kristiansund,1,2,0.0
+2018,20,2018-08-26,Haugesund,Stabæk,2,0,1.0
+2018,20,2018-08-26,Molde,Ranheim,2,3,0.0
+2018,20,2018-08-26,Rosenborg,Strømsgodset,4,3,1.0
+2018,20,2018-08-26,Sandefjord,Lillestrøm,1,3,0.0
+2018,20,2018-08-26,Vålerenga,Brann,2,0,1.0
+2018,20,2018-08-27,Start,Odd,0,1,0.0
+2018,21,2018-09-01,Strømsgodset,Tromsø,2,4,0.0
+2018,21,2018-09-01,Stabæk,Sandefjord,3,3,0.5
+2018,21,2018-09-02,Bodø/Glimt,Sarpsborg 08,3,1,1.0
+2018,21,2018-09-02,Rosenborg,Haugesund,1,0,1.0
+2018,21,2018-09-02,Odd,Molde,1,1,0.5
+2018,21,2018-09-02,Brann,Ranheim,1,0,1.0
+2018,21,2018-09-02,Kristiansund,Start,1,1,0.5
+2018,21,2018-09-02,Lillestrøm,Vålerenga,0,1,0.0
+2018,22,2018-09-15,Haugesund,Brann,1,3,0.0
+2018,22,2018-09-16,Sarpsborg 08,Odd,1,2,0.0
+2018,22,2018-09-16,Tromsø,Stabæk,0,0,0.5
+2018,22,2018-09-16,Start,Lillestrøm,3,0,1.0
+2018,22,2018-09-16,Sandefjord,Bodø/Glimt,1,1,0.5
+2018,22,2018-09-16,Ranheim,Strømsgodset,1,1,0.5
+2018,22,2018-09-16,Vålerenga,Rosenborg,2,3,0.0
+2018,22,2018-09-17,Molde,Kristiansund,3,2,1.0
+2018,23,2018-09-22,Odd,Vålerenga,3,2,1.0
+2018,23,2018-09-23,Stabæk,Ranheim,3,2,1.0
+2018,23,2018-09-23,Bodø/Glimt,Start,1,2,0.0
+2018,23,2018-09-23,Brann,Sandefjord,1,1,0.5
+2018,23,2018-09-23,Kristiansund,Haugesund,2,1,1.0
+2018,23,2018-09-23,Strømsgodset,Molde,1,2,0.0
+2018,23,2018-09-23,Rosenborg,Sarpsborg 08,3,1,1.0
+2018,23,2018-09-24,Lillestrøm,Tromsø,1,0,1.0
+2018,24,2018-09-29,Sandefjord,Odd,1,1,0.5
+2018,24,2018-09-30,Ranheim,Kristiansund,2,1,1.0
+2018,24,2018-09-30,Vålerenga,Start,3,2,1.0
+2018,24,2018-09-30,Lillestrøm,Stabæk,3,2,1.0
+2018,24,2018-09-30,Sarpsborg 08,Strømsgodset,0,1,0.0
+2018,24,2018-09-30,Haugesund,Bodø/Glimt,1,0,1.0
+2018,24,2018-09-30,Molde,Rosenborg,1,0,1.0
+2018,24,2018-10-01,Tromsø,Brann,2,1,1.0
+2018,25,2018-10-06,Stabæk,Vålerenga,1,1,0.5
+2018,25,2018-10-06,Strømsgodset,Haugesund,0,1,0.0
+2018,25,2018-10-07,Kristiansund,Tromsø,5,1,1.0
+2018,25,2018-10-07,Odd,Ranheim,2,0,1.0
+2018,25,2018-10-07,Rosenborg,Sandefjord,1,1,0.5
+2018,25,2018-10-07,Bodø/Glimt,Molde,0,1,0.0
+2018,25,2018-10-07,Start,Sarpsborg 08,1,0,1.0
+2018,25,2018-10-07,Brann,Lillestrøm,1,1,0.5
+2018,26,2018-10-20,Molde,Sarpsborg 08,2,2,0.5
+2018,26,2018-10-20,Sandefjord,Strømsgodset,2,1,1.0
+2018,26,2018-10-21,Lillestrøm,Rosenborg,0,0,0.5
+2018,26,2018-10-21,Ranheim,Bodø/Glimt,0,0,0.5
+2018,26,2018-10-21,Haugesund,Odd,2,0,1.0
+2018,26,2018-10-21,Vålerenga,Kristiansund,0,2,0.0
+2018,26,2018-10-21,Tromsø,Start,1,2,0.0
+2018,26,2018-10-21,Stabæk,Brann,1,2,0.0
+2018,27,2018-10-27,Strømsgodset,Vålerenga,2,0,1.0
+2018,27,2018-10-28,Ranheim,Lillestrøm,3,2,1.0
+2018,27,2018-10-28,Kristiansund,Sandefjord,3,2,1.0
+2018,27,2018-10-28,Sarpsborg 08,Haugesund,2,1,1.0
+2018,27,2018-10-28,Odd,Tromsø,1,0,1.0
+2018,27,2018-10-28,Bodø/Glimt,Stabæk,1,1,0.5
+2018,27,2018-10-28,Brann,Rosenborg,1,2,0.0
+2018,27,2018-10-29,Start,Molde,1,3,0.0
+2018,28,2018-11-03,Stabæk,Kristiansund,0,1,0.0
+2018,28,2018-11-04,Sandefjord,Start,4,1,1.0
+2018,28,2018-11-04,Haugesund,Ranheim,2,0,1.0
+2018,28,2018-11-04,Rosenborg,Odd,3,1,1.0
+2018,28,2018-11-04,Vålerenga,Sarpsborg 08,0,0,0.5
+2018,28,2018-11-04,Tromsø,Molde,2,4,0.0
+2018,28,2018-11-04,Brann,Strømsgodset,3,1,1.0
+2018,28,2018-11-05,Lillestrøm,Bodø/Glimt,1,1,0.5
+2018,29,2018-11-11,Sarpsborg 08,Sandefjord,1,1,0.5
+2018,29,2018-11-11,Kristiansund,Brann,3,1,1.0
+2018,29,2018-11-11,Molde,Haugesund,2,0,1.0
+2018,29,2018-11-11,Ranheim,Tromsø,1,2,0.0
+2018,29,2018-11-11,Start,Rosenborg,0,1,0.0
+2018,29,2018-11-11,Bodø/Glimt,Vålerenga,1,1,0.5
+2018,29,2018-11-11,Strømsgodset,Lillestrøm,2,2,0.5
+2018,29,2018-11-11,Odd,Stabæk,0,3,0.0
+2018,30,2018-11-24,Tromsø,Sarpsborg 08,0,2,0.0
+2018,30,2018-11-24,Rosenborg,Bodø/Glimt,1,1,0.5
+2018,30,2018-11-24,Vålerenga,Ranheim,2,1,1.0
+2018,30,2018-11-24,Lillestrøm,Kristiansund,2,0,1.0
+2018,30,2018-11-24,Stabæk,Strømsgodset,2,2,0.5
+2018,30,2018-11-24,Sandefjord,Molde,1,3,0.0
+2018,30,2018-11-24,Haugesund,Start,3,1,1.0
+2018,30,2018-11-24,Brann,Odd,1,0,1.0

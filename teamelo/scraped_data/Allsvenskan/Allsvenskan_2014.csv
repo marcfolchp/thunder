@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014,1,2014-03-30,Brommapojkarna,Kalmar,1,2,0.0
+2014,1,2014-03-30,Helsingborg,Djurgården,1,1,0.5
+2014,1,2014-03-30,Mjällby,Gefle,2,2,0.5
+2014,1,2014-03-30,Halmstad,Örebro,1,2,0.0
+2014,1,2014-03-30,Malmö,Falkenberg,3,0,1.0
+2014,1,2014-03-31,Häcken,Norrköping,2,0,1.0
+2014,1,2014-03-31,Åtvidaberg,Elfsborg,2,1,1.0
+2014,1,2014-03-31,AIK Stockholm,Göteborg,0,2,0.0
+2014,2,2014-04-04,Elfsborg,Häcken,3,1,1.0
+2014,2,2014-04-05,Falkenberg,Brommapojkarna,1,0,1.0
+2014,2,2014-04-06,Djurgården,Halmstad,3,0,1.0
+2014,2,2014-04-06,Norrköping,Helsingborg,2,0,1.0
+2014,2,2014-04-06,Gefle,AIK Stockholm,1,2,0.0
+2014,2,2014-04-07,Kalmar,Åtvidaberg,2,2,0.5
+2014,2,2014-04-07,Göteborg,Malmö,0,3,0.0
+2014,2,2014-04-08,Örebro,Mjällby,1,0,1.0
+2014,3,2014-04-11,Mjällby,Djurgården,0,2,0.0
+2014,3,2014-04-12,Åtvidaberg,Falkenberg,2,0,1.0
+2014,3,2014-04-12,Malmö,Gefle,1,0,1.0
+2014,3,2014-04-13,AIK Stockholm,Örebro,1,1,0.5
+2014,3,2014-04-13,Halmstad,Norrköping,0,0,0.5
+2014,3,2014-04-13,Helsingborg,Häcken,4,2,1.0
+2014,3,2014-04-14,Brommapojkarna,Göteborg,1,1,0.5
+2014,3,2014-04-14,Kalmar,Elfsborg,0,0,0.5
+2014,4,2014-04-16,Örebro,Malmö,1,2,0.0
+2014,4,2014-04-16,Norrköping,Mjällby,1,1,0.5
+2014,4,2014-04-16,Häcken,Halmstad,3,0,1.0
+2014,4,2014-04-16,Djurgården,AIK Stockholm,2,3,0.0
+2014,4,2014-04-17,Göteborg,Åtvidaberg,5,0,1.0
+2014,4,2014-04-17,Gefle,Brommapojkarna,3,0,1.0
+2014,4,2014-04-17,Falkenberg,Kalmar,1,3,0.0
+2014,4,2014-04-17,Elfsborg,Helsingborg,1,0,1.0
+2014,5,2014-04-20,Kalmar,Göteborg,1,1,0.5
+2014,5,2014-04-20,Halmstad,Helsingborg,2,1,1.0
+2014,5,2014-04-20,Mjällby,Häcken,1,4,0.0
+2014,5,2014-04-20,AIK Stockholm,Norrköping,1,2,0.0
+2014,5,2014-04-21,Åtvidaberg,Gefle,2,2,0.5
+2014,5,2014-04-21,Falkenberg,Elfsborg,2,3,0.0
+2014,5,2014-04-21,Brommapojkarna,Örebro,2,2,0.5
+2014,5,2014-04-21,Malmö,Djurgården,2,2,0.5
+2014,6,2014-04-25,Örebro,Åtvidaberg,3,2,1.0
+2014,6,2014-04-25,Göteborg,Falkenberg,1,0,1.0
+2014,6,2014-04-27,Djurgården,Brommapojkarna,3,2,1.0
+2014,6,2014-04-27,Helsingborg,Mjällby,3,1,1.0
+2014,6,2014-04-27,Häcken,AIK Stockholm,2,2,0.5
+2014,6,2014-04-28,Elfsborg,Halmstad,4,1,1.0
+2014,6,2014-04-28,Gefle,Kalmar,0,2,0.0
+2014,6,2014-04-28,Norrköping,Malmö,1,2,0.0
+2014,7,2014-05-03,Mjällby,Halmstad,2,1,1.0
+2014,7,2014-05-03,Brommapojkarna,Norrköping,3,0,1.0
+2014,7,2014-05-04,Åtvidaberg,Djurgården,1,1,0.5
+2014,7,2014-05-04,Malmö,Häcken,1,2,0.0
+2014,7,2014-05-04,Kalmar,Örebro,2,0,1.0
+2014,7,2014-05-04,Göteborg,Elfsborg,0,0,0.5
+2014,7,2014-05-05,Falkenberg,Gefle,1,1,0.5
+2014,7,2014-05-05,AIK Stockholm,Helsingborg,2,1,1.0
+2014,8,2014-05-07,Djurgården,Kalmar,0,0,0.5
+2014,8,2014-05-07,Elfsborg,Mjällby,3,1,1.0
+2014,8,2014-05-07,Häcken,Brommapojkarna,3,1,1.0
+2014,8,2014-05-07,Norrköping,Åtvidaberg,2,1,1.0
+2014,8,2014-05-08,Gefle,Göteborg,1,1,0.5
+2014,8,2014-05-08,Örebro,Falkenberg,0,0,0.5
+2014,8,2014-05-08,Halmstad,AIK Stockholm,2,2,0.5
+2014,8,2014-05-08,Helsingborg,Malmö,0,1,0.0
+2014,9,2014-05-10,Kalmar,Norrköping,2,0,1.0
+2014,9,2014-05-11,AIK Stockholm,Mjällby,2,1,1.0
+2014,9,2014-05-11,Göteborg,Örebro,2,1,1.0
+2014,9,2014-05-11,Gefle,Elfsborg,0,1,0.0
+2014,9,2014-05-12,Malmö,Halmstad,3,1,1.0
+2014,9,2014-05-12,Åtvidaberg,Häcken,1,0,1.0
+2014,9,2014-05-12,Brommapojkarna,Helsingborg,0,1,0.0
+2014,9,2014-05-12,Falkenberg,Djurgården,1,0,1.0
+2014,10,2014-05-15,Norrköping,Falkenberg,0,3,0.0
+2014,11,2014-05-15,Brommapojkarna,Mjällby,0,1,0.0
+2014,10,2014-05-15,AIK Stockholm,Elfsborg,2,1,1.0
+2014,10,2014-05-19,Örebro,Gefle,2,2,0.5
+2014,10,2014-05-19,Halmstad,Brommapojkarna,3,0,1.0
+2014,10,2014-05-20,Häcken,Kalmar,4,1,1.0
+2014,10,2014-05-21,Helsingborg,Åtvidaberg,0,0,0.5
+2014,10,2014-05-21,Djurgården,Göteborg,0,0,0.5
+2014,10,2014-05-22,Mjällby,Malmö,0,1,0.0
+2014,11,2014-05-24,Elfsborg,Örebro,1,0,1.0
+2014,11,2014-05-24,Åtvidaberg,Halmstad,1,0,1.0
+2014,11,2014-05-24,Falkenberg,Häcken,1,1,0.5
+2014,11,2014-05-25,Kalmar,Helsingborg,2,0,1.0
+2014,11,2014-05-25,Göteborg,Norrköping,2,2,0.5
+2014,11,2014-05-26,Gefle,Djurgården,1,1,0.5
+2014,11,2014-05-26,Malmö,AIK Stockholm,2,2,0.5
+2014,12,2014-05-30,Örebro,Djurgården,0,1,0.0
+2014,12,2014-05-31,Mjällby,Åtvidaberg,1,0,1.0
+2014,12,2014-05-31,Halmstad,Kalmar,1,1,0.5
+2014,12,2014-06-01,Helsingborg,Falkenberg,1,0,1.0
+2014,12,2014-06-01,Elfsborg,Malmö,0,1,0.0
+2014,12,2014-06-02,AIK Stockholm,Brommapojkarna,4,2,1.0
+2014,12,2014-06-02,Norrköping,Gefle,1,0,1.0
+2014,12,2014-06-02,Häcken,Göteborg,1,1,0.5
+2014,13,2014-07-05,Falkenberg,Halmstad,1,1,0.5
+2014,13,2014-07-05,Kalmar,Mjällby,2,1,1.0
+2014,13,2014-07-05,Gefle,Häcken,1,0,1.0
+2014,13,2014-07-06,Örebro,Norrköping,2,2,0.5
+2014,13,2014-07-06,Brommapojkarna,Malmö,1,1,0.5
+2014,13,2014-07-06,Göteborg,Helsingborg,6,2,1.0
+2014,13,2014-07-07,Åtvidaberg,AIK Stockholm,0,3,0.0
+2014,13,2014-07-07,Djurgården,Elfsborg,1,1,0.5
+2014,14,2014-07-12,Mjällby,Falkenberg,1,1,0.5
+2014,14,2014-07-12,AIK Stockholm,Kalmar,3,0,1.0
+2014,14,2014-07-12,Malmö,Åtvidaberg,3,0,1.0
+2014,14,2014-07-13,Helsingborg,Gefle,1,1,0.5
+2014,14,2014-07-13,Halmstad,Göteborg,2,2,0.5
+2014,14,2014-07-13,Elfsborg,Brommapojkarna,2,2,0.5
+2014,14,2014-07-13,Häcken,Örebro,4,1,1.0
+2014,14,2014-07-14,Norrköping,Djurgården,3,5,0.0
+2014,15,2014-07-19,Gefle,Halmstad,2,0,1.0
+2014,15,2014-07-19,Kalmar,Malmö,1,1,0.5
+2014,15,2014-07-20,Göteborg,Mjällby,3,1,1.0
+2014,15,2014-07-20,Falkenberg,AIK Stockholm,4,1,1.0
+2014,15,2014-07-20,Norrköping,Elfsborg,4,2,1.0
+2014,15,2014-07-20,Örebro,Helsingborg,1,1,0.5
+2014,15,2014-07-20,Åtvidaberg,Brommapojkarna,3,2,1.0
+2014,15,2014-07-21,Djurgården,Häcken,1,2,0.0
+2014,16,2014-07-26,Malmö,Kalmar,3,1,1.0
+2014,16,2014-07-26,Halmstad,Gefle,3,2,1.0
+2014,16,2014-07-27,Brommapojkarna,Åtvidaberg,2,2,0.5
+2014,16,2014-07-27,Mjällby,Göteborg,3,0,1.0
+2014,16,2014-07-27,Helsingborg,Örebro,1,1,0.5
+2014,16,2014-07-27,Elfsborg,Norrköping,3,0,1.0
+2014,16,2014-07-28,AIK Stockholm,Falkenberg,3,0,1.0
+2014,16,2014-07-28,Häcken,Djurgården,2,1,1.0
+2014,17,2014-08-02,Örebro,Halmstad,1,2,0.0
+2014,17,2014-08-02,Falkenberg,Malmö,2,5,0.0
+2014,17,2014-08-02,Norrköping,Häcken,0,0,0.5
+2014,17,2014-08-03,Kalmar,Brommapojkarna,1,1,0.5
+2014,17,2014-08-03,Elfsborg,Åtvidaberg,1,0,1.0
+2014,17,2014-08-04,Gefle,Mjällby,1,0,1.0
+2014,17,2014-08-04,Djurgården,Helsingborg,2,2,0.5
+2014,17,2014-08-04,Göteborg,AIK Stockholm,0,2,0.0
+2014,18,2014-08-09,Åtvidaberg,Kalmar,3,1,1.0
+2014,18,2014-08-09,Mjällby,Örebro,0,1,0.0
+2014,18,2014-08-10,Halmstad,Djurgården,2,1,1.0
+2014,18,2014-08-10,Helsingborg,Norrköping,0,0,0.5
+2014,18,2014-08-10,Brommapojkarna,Falkenberg,2,3,0.0
+2014,18,2014-08-10,Malmö,Göteborg,2,2,0.5
+2014,18,2014-08-10,AIK Stockholm,Gefle,3,1,1.0
+2014,18,2014-08-11,Häcken,Elfsborg,0,2,0.0
+2014,19,2014-08-13,Åtvidaberg,Göteborg,1,1,0.5
+2014,19,2014-08-13,Malmö,Örebro,3,2,1.0
+2014,19,2014-08-13,Brommapojkarna,Gefle,1,2,0.0
+2014,19,2014-08-13,AIK Stockholm,Djurgården,1,1,0.5
+2014,19,2014-08-14,Mjällby,Norrköping,3,1,1.0
+2014,19,2014-08-14,Kalmar,Falkenberg,3,1,1.0
+2014,19,2014-08-14,Halmstad,Häcken,1,4,0.0
+2014,19,2014-08-14,Helsingborg,Elfsborg,4,1,1.0
+2014,20,2014-08-16,Gefle,Malmö,0,0,0.5
+2014,20,2014-08-17,Örebro,AIK Stockholm,4,2,1.0
+2014,20,2014-08-17,Falkenberg,Åtvidaberg,3,0,1.0
+2014,20,2014-08-17,Göteborg,Brommapojkarna,3,0,1.0
+2014,20,2014-08-17,Elfsborg,Kalmar,2,0,1.0
+2014,20,2014-08-18,Norrköping,Halmstad,1,2,0.0
+2014,20,2014-08-18,Djurgården,Mjällby,4,0,1.0
+2014,20,2014-08-18,Häcken,Helsingborg,1,1,0.5
+2014,21,2014-08-22,Mjällby,Helsingborg,1,2,0.0
+2014,21,2014-08-23,Malmö,Norrköping,3,0,1.0
+2014,21,2014-08-24,Falkenberg,Göteborg,1,2,0.0
+2014,21,2014-08-24,Halmstad,Elfsborg,1,1,0.5
+2014,21,2014-08-24,AIK Stockholm,Häcken,1,0,1.0
+2014,21,2014-08-25,Kalmar,Gefle,2,1,1.0
+2014,21,2014-08-25,Åtvidaberg,Örebro,1,2,0.0
+2014,21,2014-08-25,Brommapojkarna,Djurgården,0,4,0.0
+2014,22,2014-08-29,Örebro,Brommapojkarna,3,1,1.0
+2014,22,2014-08-29,Helsingborg,Halmstad,1,4,0.0
+2014,22,2014-08-30,Häcken,Mjällby,1,1,0.5
+2014,22,2014-08-30,Gefle,Åtvidaberg,0,1,0.0
+2014,22,2014-08-31,Norrköping,AIK Stockholm,2,4,0.0
+2014,22,2014-08-31,Göteborg,Kalmar,2,0,1.0
+2014,22,2014-08-31,Elfsborg,Falkenberg,1,0,1.0
+2014,22,2014-08-31,Djurgården,Malmö,2,0,1.0
+2014,23,2014-09-13,Häcken,Malmö,3,3,0.5
+2014,23,2014-09-14,Gefle,Falkenberg,3,1,1.0
+2014,23,2014-09-14,Halmstad,Mjällby,1,2,0.0
+2014,23,2014-09-14,Djurgården,Åtvidaberg,0,1,0.0
+2014,23,2014-09-14,Elfsborg,Göteborg,0,0,0.5
+2014,23,2014-09-15,Norrköping,Brommapojkarna,3,1,1.0
+2014,23,2014-09-15,Örebro,Kalmar,2,0,1.0
+2014,23,2014-09-15,Helsingborg,AIK Stockholm,3,1,1.0
+2014,24,2014-09-19,Göteborg,Gefle,4,0,1.0
+2014,24,2014-09-20,Brommapojkarna,Häcken,1,5,0.0
+2014,24,2014-09-20,Falkenberg,Örebro,1,3,0.0
+2014,24,2014-09-21,Kalmar,Djurgården,0,4,0.0
+2014,24,2014-09-21,AIK Stockholm,Halmstad,0,1,0.0
+2014,24,2014-09-21,Mjällby,Elfsborg,1,0,1.0
+2014,24,2014-09-21,Malmö,Helsingborg,1,1,0.5
+2014,24,2014-09-22,Åtvidaberg,Norrköping,2,2,0.5
+2014,25,2014-09-24,Örebro,Göteborg,3,4,0.0
+2014,25,2014-09-24,Djurgården,Falkenberg,1,0,1.0
+2014,25,2014-09-24,Elfsborg,Gefle,1,0,1.0
+2014,25,2014-09-24,Helsingborg,Brommapojkarna,3,1,1.0
+2014,25,2014-09-24,Mjällby,AIK Stockholm,1,0,1.0
+2014,25,2014-09-24,Halmstad,Malmö,0,1,0.0
+2014,25,2014-09-25,Häcken,Åtvidaberg,0,2,0.0
+2014,25,2014-09-25,Norrköping,Kalmar,0,0,0.5
+2014,26,2014-09-27,Malmö,Mjällby,4,1,1.0
+2014,26,2014-09-28,Kalmar,Häcken,2,3,0.0
+2014,26,2014-09-28,Falkenberg,Norrköping,4,2,1.0
+2014,26,2014-09-28,Elfsborg,AIK Stockholm,1,1,0.5
+2014,26,2014-09-29,Brommapojkarna,Halmstad,0,3,0.0
+2014,26,2014-09-29,Gefle,Örebro,1,2,0.0
+2014,26,2014-09-29,Åtvidaberg,Helsingborg,1,2,0.0
+2014,26,2014-09-29,Göteborg,Djurgården,2,1,1.0
+2014,27,2014-10-03,Helsingborg,Kalmar,4,1,1.0
+2014,27,2014-10-04,Djurgården,Gefle,1,2,0.0
+2014,27,2014-10-04,Mjällby,Brommapojkarna,0,1,0.0
+2014,27,2014-10-05,Halmstad,Åtvidaberg,1,3,0.0
+2014,27,2014-10-05,Norrköping,Göteborg,3,0,1.0
+2014,27,2014-10-05,Örebro,Elfsborg,5,1,1.0
+2014,27,2014-10-05,Häcken,Falkenberg,1,2,0.0
+2014,27,2014-10-05,AIK Stockholm,Malmö,2,3,0.0
+2014,28,2014-10-18,Malmö,Elfsborg,1,2,0.0
+2014,28,2014-10-18,Kalmar,Halmstad,1,3,0.0
+2014,28,2014-10-18,Åtvidaberg,Mjällby,2,1,1.0
+2014,28,2014-10-19,Göteborg,Häcken,3,2,1.0
+2014,28,2014-10-19,Gefle,Norrköping,1,2,0.0
+2014,28,2014-10-19,Brommapojkarna,AIK Stockholm,0,4,0.0
+2014,28,2014-10-20,Falkenberg,Helsingborg,2,0,1.0
+2014,28,2014-10-20,Djurgården,Örebro,0,3,0.0
+2014,29,2014-10-25,Häcken,Gefle,3,1,1.0
+2014,29,2014-10-26,AIK Stockholm,Åtvidaberg,4,1,1.0
+2014,29,2014-10-26,Norrköping,Örebro,2,0,1.0
+2014,29,2014-10-26,Elfsborg,Djurgården,0,1,0.0
+2014,29,2014-10-26,Halmstad,Falkenberg,4,0,1.0
+2014,29,2014-10-27,Mjällby,Kalmar,0,2,0.0
+2014,29,2014-10-27,Malmö,Brommapojkarna,2,0,1.0
+2014,29,2014-10-27,Helsingborg,Göteborg,0,3,0.0
+2014,30,2014-11-01,Örebro,Häcken,5,2,1.0
+2014,30,2014-11-01,Kalmar,AIK Stockholm,1,1,0.5
+2014,30,2014-11-01,Falkenberg,Mjällby,1,1,0.5
+2014,30,2014-11-01,Brommapojkarna,Elfsborg,0,1,0.0
+2014,30,2014-11-01,Åtvidaberg,Malmö,2,1,1.0
+2014,30,2014-11-01,Gefle,Helsingborg,2,1,1.0
+2014,30,2014-11-01,Djurgården,Norrköping,1,1,0.5
+2014,30,2014-11-01,Göteborg,Halmstad,5,1,1.0

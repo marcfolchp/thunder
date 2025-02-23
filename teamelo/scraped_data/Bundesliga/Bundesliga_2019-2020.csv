@@ -1,0 +1,309 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2019-2020,Bundesliga,1,2019-08-16,Bayern Munich,Hertha BSC,2,2,0.5
+2019-2020,Bundesliga,1,2019-08-17,Wolfsburg,Köln,2,1,1.0
+2019-2020,Bundesliga,1,2019-08-17,Freiburg,Mainz 05,3,0,1.0
+2019-2020,Bundesliga,1,2019-08-17,Dortmund,Augsburg,5,1,1.0
+2019-2020,Bundesliga,1,2019-08-17,Leverkusen,Paderborn 07,3,2,1.0
+2019-2020,Bundesliga,1,2019-08-17,Werder Bremen,Düsseldorf,1,3,0.0
+2019-2020,Bundesliga,1,2019-08-17,Gladbach,Schalke 04,0,0,0.5
+2019-2020,Bundesliga,1,2019-08-18,Eint Frankfurt,Hoffenheim,1,0,1.0
+2019-2020,Bundesliga,1,2019-08-18,Union Berlin,RB Leipzig,0,4,0.0
+2019-2020,Bundesliga,2,2019-08-23,Köln,Dortmund,1,3,0.0
+2019-2020,Bundesliga,2,2019-08-24,Paderborn 07,Freiburg,1,3,0.0
+2019-2020,Bundesliga,2,2019-08-24,Düsseldorf,Leverkusen,1,3,0.0
+2019-2020,Bundesliga,2,2019-08-24,Hoffenheim,Werder Bremen,3,2,1.0
+2019-2020,Bundesliga,2,2019-08-24,Augsburg,Union Berlin,1,1,0.5
+2019-2020,Bundesliga,2,2019-08-24,Mainz 05,Gladbach,1,3,0.0
+2019-2020,Bundesliga,2,2019-08-24,Schalke 04,Bayern Munich,0,3,0.0
+2019-2020,Bundesliga,2,2019-08-25,RB Leipzig,Eint Frankfurt,2,1,1.0
+2019-2020,Bundesliga,2,2019-08-25,Hertha BSC,Wolfsburg,0,3,0.0
+2019-2020,Bundesliga,3,2019-08-30,Gladbach,RB Leipzig,1,3,0.0
+2019-2020,Bundesliga,3,2019-08-31,Wolfsburg,Paderborn 07,1,1,0.5
+2019-2020,Bundesliga,3,2019-08-31,Schalke 04,Hertha BSC,3,0,1.0
+2019-2020,Bundesliga,3,2019-08-31,Leverkusen,Hoffenheim,0,0,0.5
+2019-2020,Bundesliga,3,2019-08-31,Freiburg,Köln,1,2,0.0
+2019-2020,Bundesliga,3,2019-08-31,Bayern Munich,Mainz 05,6,1,1.0
+2019-2020,Bundesliga,3,2019-08-31,Union Berlin,Dortmund,3,1,1.0
+2019-2020,Bundesliga,3,2019-09-01,Werder Bremen,Augsburg,3,2,1.0
+2019-2020,Bundesliga,3,2019-09-01,Eint Frankfurt,Düsseldorf,2,1,1.0
+2019-2020,Bundesliga,4,2019-09-13,Düsseldorf,Wolfsburg,1,1,0.5
+2019-2020,Bundesliga,4,2019-09-14,Mainz 05,Hertha BSC,2,1,1.0
+2019-2020,Bundesliga,4,2019-09-14,Köln,Gladbach,0,1,0.0
+2019-2020,Bundesliga,4,2019-09-14,Augsburg,Eint Frankfurt,2,1,1.0
+2019-2020,Bundesliga,4,2019-09-14,Dortmund,Leverkusen,4,0,1.0
+2019-2020,Bundesliga,4,2019-09-14,Union Berlin,Werder Bremen,1,2,0.0
+2019-2020,Bundesliga,4,2019-09-14,RB Leipzig,Bayern Munich,1,1,0.5
+2019-2020,Bundesliga,4,2019-09-15,Hoffenheim,Freiburg,0,3,0.0
+2019-2020,Bundesliga,4,2019-09-15,Paderborn 07,Schalke 04,1,5,0.0
+2019-2020,Bundesliga,5,2019-09-20,Schalke 04,Mainz 05,2,1,1.0
+2019-2020,Bundesliga,5,2019-09-21,Freiburg,Augsburg,1,1,0.5
+2019-2020,Bundesliga,5,2019-09-21,Bayern Munich,Köln,4,0,1.0
+2019-2020,Bundesliga,5,2019-09-21,Leverkusen,Union Berlin,2,0,1.0
+2019-2020,Bundesliga,5,2019-09-21,Hertha BSC,Paderborn 07,2,1,1.0
+2019-2020,Bundesliga,5,2019-09-21,Werder Bremen,RB Leipzig,0,3,0.0
+2019-2020,Bundesliga,5,2019-09-22,Gladbach,Düsseldorf,2,1,1.0
+2019-2020,Bundesliga,5,2019-09-22,Eint Frankfurt,Dortmund,2,2,0.5
+2019-2020,Bundesliga,5,2019-09-23,Wolfsburg,Hoffenheim,1,1,0.5
+2019-2020,Bundesliga,6,2019-09-27,Union Berlin,Eint Frankfurt,1,2,0.0
+2019-2020,Bundesliga,6,2019-09-28,Augsburg,Leverkusen,0,3,0.0
+2019-2020,Bundesliga,6,2019-09-28,Mainz 05,Wolfsburg,0,1,0.0
+2019-2020,Bundesliga,6,2019-09-28,Hoffenheim,Gladbach,0,3,0.0
+2019-2020,Bundesliga,6,2019-09-28,Paderborn 07,Bayern Munich,2,3,0.0
+2019-2020,Bundesliga,6,2019-09-28,RB Leipzig,Schalke 04,1,3,0.0
+2019-2020,Bundesliga,6,2019-09-28,Dortmund,Werder Bremen,2,2,0.5
+2019-2020,Bundesliga,6,2019-09-29,Düsseldorf,Freiburg,1,2,0.0
+2019-2020,Bundesliga,6,2019-09-29,Köln,Hertha BSC,0,4,0.0
+2019-2020,Bundesliga,7,2019-10-04,Hertha BSC,Düsseldorf,3,1,1.0
+2019-2020,Bundesliga,7,2019-10-05,Paderborn 07,Mainz 05,1,2,0.0
+2019-2020,Bundesliga,7,2019-10-05,Freiburg,Dortmund,2,2,0.5
+2019-2020,Bundesliga,7,2019-10-05,Bayern Munich,Hoffenheim,1,2,0.0
+2019-2020,Bundesliga,7,2019-10-05,Leverkusen,RB Leipzig,1,1,0.5
+2019-2020,Bundesliga,7,2019-10-05,Schalke 04,Köln,1,1,0.5
+2019-2020,Bundesliga,7,2019-10-06,Gladbach,Augsburg,5,1,1.0
+2019-2020,Bundesliga,7,2019-10-06,Wolfsburg,Union Berlin,1,0,1.0
+2019-2020,Bundesliga,7,2019-10-06,Eint Frankfurt,Werder Bremen,2,2,0.5
+2019-2020,Bundesliga,8,2019-10-18,Eint Frankfurt,Leverkusen,3,0,1.0
+2019-2020,Bundesliga,8,2019-10-19,Werder Bremen,Hertha BSC,1,1,0.5
+2019-2020,Bundesliga,8,2019-10-19,RB Leipzig,Wolfsburg,1,1,0.5
+2019-2020,Bundesliga,8,2019-10-19,Augsburg,Bayern Munich,2,2,0.5
+2019-2020,Bundesliga,8,2019-10-19,Düsseldorf,Mainz 05,1,0,1.0
+2019-2020,Bundesliga,8,2019-10-19,Union Berlin,Freiburg,2,0,1.0
+2019-2020,Bundesliga,8,2019-10-19,Dortmund,Gladbach,1,0,1.0
+2019-2020,Bundesliga,8,2019-10-20,Köln,Paderborn 07,3,0,1.0
+2019-2020,Bundesliga,8,2019-10-20,Hoffenheim,Schalke 04,2,0,1.0
+2019-2020,Bundesliga,9,2019-10-25,Mainz 05,Köln,3,1,1.0
+2019-2020,Bundesliga,9,2019-10-26,Paderborn 07,Düsseldorf,2,0,1.0
+2019-2020,Bundesliga,9,2019-10-26,Freiburg,RB Leipzig,2,1,1.0
+2019-2020,Bundesliga,9,2019-10-26,Bayern Munich,Union Berlin,2,1,1.0
+2019-2020,Bundesliga,9,2019-10-26,Hertha BSC,Hoffenheim,2,3,0.0
+2019-2020,Bundesliga,9,2019-10-26,Schalke 04,Dortmund,0,0,0.5
+2019-2020,Bundesliga,9,2019-10-26,Leverkusen,Werder Bremen,2,2,0.5
+2019-2020,Bundesliga,9,2019-10-27,Wolfsburg,Augsburg,0,0,0.5
+2019-2020,Bundesliga,9,2019-10-27,Gladbach,Eint Frankfurt,4,2,1.0
+2019-2020,Bundesliga,10,2019-11-01,Hoffenheim,Paderborn 07,3,0,1.0
+2019-2020,Bundesliga,10,2019-11-02,Dortmund,Wolfsburg,3,0,1.0
+2019-2020,Bundesliga,10,2019-11-02,Leverkusen,Gladbach,1,2,0.0
+2019-2020,Bundesliga,10,2019-11-02,Eint Frankfurt,Bayern Munich,5,1,1.0
+2019-2020,Bundesliga,10,2019-11-02,Werder Bremen,Freiburg,2,2,0.5
+2019-2020,Bundesliga,10,2019-11-02,RB Leipzig,Mainz 05,8,0,1.0
+2019-2020,Bundesliga,10,2019-11-02,Union Berlin,Hertha BSC,1,0,1.0
+2019-2020,Bundesliga,10,2019-11-03,Düsseldorf,Köln,2,0,1.0
+2019-2020,Bundesliga,10,2019-11-03,Augsburg,Schalke 04,2,3,0.0
+2019-2020,Bundesliga,11,2019-11-08,Köln,Hoffenheim,1,2,0.0
+2019-2020,Bundesliga,11,2019-11-09,Mainz 05,Union Berlin,2,3,0.0
+2019-2020,Bundesliga,11,2019-11-09,Hertha BSC,RB Leipzig,2,4,0.0
+2019-2020,Bundesliga,11,2019-11-09,Paderborn 07,Augsburg,0,1,0.0
+2019-2020,Bundesliga,11,2019-11-09,Schalke 04,Düsseldorf,3,3,0.5
+2019-2020,Bundesliga,11,2019-11-09,Bayern Munich,Dortmund,4,0,1.0
+2019-2020,Bundesliga,11,2019-11-10,Gladbach,Werder Bremen,3,1,1.0
+2019-2020,Bundesliga,11,2019-11-10,Wolfsburg,Leverkusen,0,2,0.0
+2019-2020,Bundesliga,11,2019-11-10,Freiburg,Eint Frankfurt,1,0,1.0
+2019-2020,Bundesliga,12,2019-11-22,Dortmund,Paderborn 07,3,3,0.5
+2019-2020,Bundesliga,12,2019-11-23,Düsseldorf,Bayern Munich,0,4,0.0
+2019-2020,Bundesliga,12,2019-11-23,Union Berlin,Gladbach,2,0,1.0
+2019-2020,Bundesliga,12,2019-11-23,Leverkusen,Freiburg,1,1,0.5
+2019-2020,Bundesliga,12,2019-11-23,Eint Frankfurt,Wolfsburg,0,2,0.0
+2019-2020,Bundesliga,12,2019-11-23,Werder Bremen,Schalke 04,1,2,0.0
+2019-2020,Bundesliga,12,2019-11-23,RB Leipzig,Köln,4,1,1.0
+2019-2020,Bundesliga,12,2019-11-24,Augsburg,Hertha BSC,4,0,1.0
+2019-2020,Bundesliga,12,2019-11-24,Hoffenheim,Mainz 05,1,5,0.0
+2019-2020,Bundesliga,13,2019-11-29,Schalke 04,Union Berlin,2,1,1.0
+2019-2020,Bundesliga,13,2019-11-30,Hoffenheim,Düsseldorf,1,1,0.5
+2019-2020,Bundesliga,13,2019-11-30,Köln,Augsburg,1,1,0.5
+2019-2020,Bundesliga,13,2019-11-30,Hertha BSC,Dortmund,1,2,0.0
+2019-2020,Bundesliga,13,2019-11-30,Paderborn 07,RB Leipzig,2,3,0.0
+2019-2020,Bundesliga,13,2019-11-30,Bayern Munich,Leverkusen,1,2,0.0
+2019-2020,Bundesliga,13,2019-12-01,Gladbach,Freiburg,4,2,1.0
+2019-2020,Bundesliga,13,2019-12-01,Wolfsburg,Werder Bremen,2,3,0.0
+2019-2020,Bundesliga,13,2019-12-02,Mainz 05,Eint Frankfurt,2,1,1.0
+2019-2020,Bundesliga,14,2019-12-06,Eint Frankfurt,Hertha BSC,2,2,0.5
+2019-2020,Bundesliga,14,2019-12-07,RB Leipzig,Hoffenheim,3,1,1.0
+2019-2020,Bundesliga,14,2019-12-07,Augsburg,Mainz 05,2,1,1.0
+2019-2020,Bundesliga,14,2019-12-07,Dortmund,Düsseldorf,5,0,1.0
+2019-2020,Bundesliga,14,2019-12-07,Gladbach,Bayern Munich,2,1,1.0
+2019-2020,Bundesliga,14,2019-12-07,Freiburg,Wolfsburg,1,0,1.0
+2019-2020,Bundesliga,14,2019-12-07,Leverkusen,Schalke 04,2,1,1.0
+2019-2020,Bundesliga,14,2019-12-08,Union Berlin,Köln,2,0,1.0
+2019-2020,Bundesliga,14,2019-12-08,Werder Bremen,Paderborn 07,0,1,0.0
+2019-2020,Bundesliga,15,2019-12-13,Hoffenheim,Augsburg,2,4,0.0
+2019-2020,Bundesliga,15,2019-12-14,Hertha BSC,Freiburg,1,0,1.0
+2019-2020,Bundesliga,15,2019-12-14,Bayern Munich,Werder Bremen,6,1,1.0
+2019-2020,Bundesliga,15,2019-12-14,Paderborn 07,Union Berlin,1,1,0.5
+2019-2020,Bundesliga,15,2019-12-14,Mainz 05,Dortmund,0,4,0.0
+2019-2020,Bundesliga,15,2019-12-14,Köln,Leverkusen,2,0,1.0
+2019-2020,Bundesliga,15,2019-12-14,Düsseldorf,RB Leipzig,0,3,0.0
+2019-2020,Bundesliga,15,2019-12-15,Wolfsburg,Gladbach,2,1,1.0
+2019-2020,Bundesliga,15,2019-12-15,Schalke 04,Eint Frankfurt,1,0,1.0
+2019-2020,Bundesliga,16,2019-12-17,Werder Bremen,Mainz 05,0,5,0.0
+2019-2020,Bundesliga,16,2019-12-17,Dortmund,RB Leipzig,3,3,0.5
+2019-2020,Bundesliga,16,2019-12-17,Union Berlin,Hoffenheim,0,2,0.0
+2019-2020,Bundesliga,16,2019-12-17,Augsburg,Düsseldorf,3,0,1.0
+2019-2020,Bundesliga,16,2019-12-18,Leverkusen,Hertha BSC,0,1,0.0
+2019-2020,Bundesliga,16,2019-12-18,Eint Frankfurt,Köln,2,4,0.0
+2019-2020,Bundesliga,16,2019-12-18,Freiburg,Bayern Munich,1,3,0.0
+2019-2020,Bundesliga,16,2019-12-18,Gladbach,Paderborn 07,2,0,1.0
+2019-2020,Bundesliga,16,2019-12-18,Wolfsburg,Schalke 04,1,1,0.5
+2019-2020,Bundesliga,17,2019-12-20,Hoffenheim,Dortmund,2,1,1.0
+2019-2020,Bundesliga,17,2019-12-21,Mainz 05,Leverkusen,0,1,0.0
+2019-2020,Bundesliga,17,2019-12-21,Köln,Werder Bremen,1,0,1.0
+2019-2020,Bundesliga,17,2019-12-21,RB Leipzig,Augsburg,3,1,1.0
+2019-2020,Bundesliga,17,2019-12-21,Schalke 04,Freiburg,2,2,0.5
+2019-2020,Bundesliga,17,2019-12-21,Bayern Munich,Wolfsburg,2,0,1.0
+2019-2020,Bundesliga,17,2019-12-21,Hertha BSC,Gladbach,0,0,0.5
+2019-2020,Bundesliga,17,2019-12-22,Düsseldorf,Union Berlin,2,1,1.0
+2019-2020,Bundesliga,17,2019-12-22,Paderborn 07,Eint Frankfurt,2,1,1.0
+2019-2020,Bundesliga,18,2020-01-17,Schalke 04,Gladbach,2,0,1.0
+2019-2020,Bundesliga,18,2020-01-18,Düsseldorf,Werder Bremen,0,1,0.0
+2019-2020,Bundesliga,18,2020-01-18,Augsburg,Dortmund,3,5,0.0
+2019-2020,Bundesliga,18,2020-01-18,Mainz 05,Freiburg,1,2,0.0
+2019-2020,Bundesliga,18,2020-01-18,Hoffenheim,Eint Frankfurt,1,2,0.0
+2019-2020,Bundesliga,18,2020-01-18,Köln,Wolfsburg,3,1,1.0
+2019-2020,Bundesliga,18,2020-01-18,RB Leipzig,Union Berlin,3,1,1.0
+2019-2020,Bundesliga,18,2020-01-19,Hertha BSC,Bayern Munich,0,4,0.0
+2019-2020,Bundesliga,18,2020-01-19,Paderborn 07,Leverkusen,1,4,0.0
+2019-2020,Bundesliga,19,2020-01-24,Dortmund,Köln,5,1,1.0
+2019-2020,Bundesliga,19,2020-01-25,Freiburg,Paderborn 07,0,2,0.0
+2019-2020,Bundesliga,19,2020-01-25,Wolfsburg,Hertha BSC,1,2,0.0
+2019-2020,Bundesliga,19,2020-01-25,Eint Frankfurt,RB Leipzig,2,0,1.0
+2019-2020,Bundesliga,19,2020-01-25,Gladbach,Mainz 05,3,1,1.0
+2019-2020,Bundesliga,19,2020-01-25,Union Berlin,Augsburg,2,0,1.0
+2019-2020,Bundesliga,19,2020-01-25,Bayern Munich,Schalke 04,5,0,1.0
+2019-2020,Bundesliga,19,2020-01-26,Werder Bremen,Hoffenheim,0,3,0.0
+2019-2020,Bundesliga,19,2020-01-26,Leverkusen,Düsseldorf,3,0,1.0
+2019-2020,Bundesliga,20,2020-01-31,Hertha BSC,Schalke 04,0,0,0.5
+2019-2020,Bundesliga,20,2020-02-01,Augsburg,Werder Bremen,2,1,1.0
+2019-2020,Bundesliga,20,2020-02-01,Dortmund,Union Berlin,5,0,1.0
+2019-2020,Bundesliga,20,2020-02-01,Düsseldorf,Eint Frankfurt,1,1,0.5
+2019-2020,Bundesliga,20,2020-02-01,Mainz 05,Bayern Munich,1,3,0.0
+2019-2020,Bundesliga,20,2020-02-01,Hoffenheim,Leverkusen,2,1,1.0
+2019-2020,Bundesliga,20,2020-02-01,RB Leipzig,Gladbach,2,2,0.5
+2019-2020,Bundesliga,20,2020-02-02,Köln,Freiburg,4,0,1.0
+2019-2020,Bundesliga,20,2020-02-02,Paderborn 07,Wolfsburg,2,4,0.0
+2019-2020,Bundesliga,21,2020-02-07,Eint Frankfurt,Augsburg,5,0,1.0
+2019-2020,Bundesliga,21,2020-02-08,Hertha BSC,Mainz 05,1,3,0.0
+2019-2020,Bundesliga,21,2020-02-08,Schalke 04,Paderborn 07,1,1,0.5
+2019-2020,Bundesliga,21,2020-02-08,Wolfsburg,Düsseldorf,1,1,0.5
+2019-2020,Bundesliga,21,2020-02-08,Werder Bremen,Union Berlin,0,2,0.0
+2019-2020,Bundesliga,21,2020-02-08,Freiburg,Hoffenheim,1,0,1.0
+2019-2020,Bundesliga,21,2020-02-08,Leverkusen,Dortmund,4,3,1.0
+2019-2020,Bundesliga,21,2020-02-09,Bayern Munich,RB Leipzig,0,0,0.5
+2019-2020,Bundesliga,22,2020-02-14,Dortmund,Eint Frankfurt,4,0,1.0
+2019-2020,Bundesliga,22,2020-02-15,Union Berlin,Leverkusen,2,3,0.0
+2019-2020,Bundesliga,22,2020-02-15,Hoffenheim,Wolfsburg,2,3,0.0
+2019-2020,Bundesliga,22,2020-02-15,Paderborn 07,Hertha BSC,1,2,0.0
+2019-2020,Bundesliga,22,2020-02-15,RB Leipzig,Werder Bremen,3,0,1.0
+2019-2020,Bundesliga,22,2020-02-15,Augsburg,Freiburg,1,1,0.5
+2019-2020,Bundesliga,22,2020-02-15,Düsseldorf,Gladbach,1,4,0.0
+2019-2020,Bundesliga,22,2020-02-16,Köln,Bayern Munich,1,4,0.0
+2019-2020,Bundesliga,22,2020-02-16,Mainz 05,Schalke 04,0,0,0.5
+2019-2020,Bundesliga,23,2020-02-21,Bayern Munich,Paderborn 07,3,2,1.0
+2019-2020,Bundesliga,23,2020-02-22,Hertha BSC,Köln,0,5,0.0
+2019-2020,Bundesliga,23,2020-02-22,Freiburg,Düsseldorf,0,2,0.0
+2019-2020,Bundesliga,23,2020-02-22,Gladbach,Hoffenheim,1,1,0.5
+2019-2020,Bundesliga,23,2020-02-22,Werder Bremen,Dortmund,0,2,0.0
+2019-2020,Bundesliga,23,2020-02-22,Schalke 04,RB Leipzig,0,5,0.0
+2019-2020,Bundesliga,23,2020-02-23,Leverkusen,Augsburg,2,0,1.0
+2019-2020,Bundesliga,23,2020-02-23,Wolfsburg,Mainz 05,4,0,1.0
+2019-2020,Bundesliga,23,2020-02-24,Eint Frankfurt,Union Berlin,1,2,0.0
+2019-2020,Bundesliga,24,2020-02-28,Düsseldorf,Hertha BSC,3,3,0.5
+2019-2020,Bundesliga,24,2020-02-29,Dortmund,Freiburg,1,0,1.0
+2019-2020,Bundesliga,24,2020-02-29,Mainz 05,Paderborn 07,2,0,1.0
+2019-2020,Bundesliga,24,2020-02-29,Augsburg,Gladbach,2,3,0.0
+2019-2020,Bundesliga,24,2020-02-29,Hoffenheim,Bayern Munich,0,6,0.0
+2019-2020,Bundesliga,24,2020-02-29,Köln,Schalke 04,3,0,1.0
+2019-2020,Bundesliga,24,2020-03-01,Union Berlin,Wolfsburg,2,2,0.5
+2019-2020,Bundesliga,24,2020-03-01,RB Leipzig,Leverkusen,1,1,0.5
+2019-2020,Bundesliga,25,2020-03-06,Paderborn 07,Köln,1,2,0.0
+2019-2020,Bundesliga,25,2020-03-07,Wolfsburg,RB Leipzig,0,0,0.5
+2019-2020,Bundesliga,25,2020-03-07,Freiburg,Union Berlin,3,1,1.0
+2019-2020,Bundesliga,25,2020-03-07,Leverkusen,Eint Frankfurt,4,0,1.0
+2019-2020,Bundesliga,25,2020-03-07,Schalke 04,Hoffenheim,1,1,0.5
+2019-2020,Bundesliga,25,2020-03-07,Hertha BSC,Werder Bremen,2,2,0.5
+2019-2020,Bundesliga,25,2020-03-07,Gladbach,Dortmund,1,2,0.0
+2019-2020,Bundesliga,25,2020-03-08,Bayern Munich,Augsburg,2,0,1.0
+2019-2020,Bundesliga,25,2020-03-08,Mainz 05,Düsseldorf,1,1,0.5
+2019-2020,Bundesliga,21,2020-03-11,Gladbach,Köln,2,1,1.0
+2019-2020,Bundesliga,26,2020-05-16,Hoffenheim,Hertha BSC,0,3,0.0
+2019-2020,Bundesliga,26,2020-05-16,Düsseldorf,Paderborn 07,0,0,0.5
+2019-2020,Bundesliga,26,2020-05-16,Dortmund,Schalke 04,4,0,1.0
+2019-2020,Bundesliga,26,2020-05-16,Augsburg,Wolfsburg,1,2,0.0
+2019-2020,Bundesliga,26,2020-05-16,RB Leipzig,Freiburg,1,1,0.5
+2019-2020,Bundesliga,26,2020-05-16,Eint Frankfurt,Gladbach,1,3,0.0
+2019-2020,Bundesliga,26,2020-05-17,Köln,Mainz 05,2,2,0.5
+2019-2020,Bundesliga,26,2020-05-17,Union Berlin,Bayern Munich,0,2,0.0
+2019-2020,Bundesliga,26,2020-05-18,Werder Bremen,Leverkusen,1,4,0.0
+2019-2020,Bundesliga,27,2020-05-22,Hertha BSC,Union Berlin,4,0,1.0
+2019-2020,Bundesliga,27,2020-05-23,Wolfsburg,Dortmund,0,2,0.0
+2019-2020,Bundesliga,27,2020-05-23,Gladbach,Leverkusen,1,3,0.0
+2019-2020,Bundesliga,27,2020-05-23,Freiburg,Werder Bremen,0,1,0.0
+2019-2020,Bundesliga,27,2020-05-23,Paderborn 07,Hoffenheim,1,1,0.5
+2019-2020,Bundesliga,27,2020-05-23,Bayern Munich,Eint Frankfurt,5,2,1.0
+2019-2020,Bundesliga,27,2020-05-24,Schalke 04,Augsburg,0,3,0.0
+2019-2020,Bundesliga,27,2020-05-24,Mainz 05,RB Leipzig,0,5,0.0
+2019-2020,Bundesliga,27,2020-05-24,Köln,Düsseldorf,2,2,0.5
+2019-2020,Bundesliga,28,2020-05-26,Dortmund,Bayern Munich,0,1,0.0
+2019-2020,Bundesliga,28,2020-05-26,Eint Frankfurt,Freiburg,3,3,0.5
+2019-2020,Bundesliga,28,2020-05-26,Werder Bremen,Gladbach,0,0,0.5
+2019-2020,Bundesliga,28,2020-05-26,Leverkusen,Wolfsburg,1,4,0.0
+2019-2020,Bundesliga,28,2020-05-27,RB Leipzig,Hertha BSC,2,2,0.5
+2019-2020,Bundesliga,28,2020-05-27,Hoffenheim,Köln,3,1,1.0
+2019-2020,Bundesliga,28,2020-05-27,Union Berlin,Mainz 05,1,1,0.5
+2019-2020,Bundesliga,28,2020-05-27,Düsseldorf,Schalke 04,2,1,1.0
+2019-2020,Bundesliga,28,2020-05-27,Augsburg,Paderborn 07,0,0,0.5
+2019-2020,Bundesliga,29,2020-05-29,Freiburg,Leverkusen,0,1,0.0
+2019-2020,Bundesliga,29,2020-05-30,Mainz 05,Hoffenheim,0,1,0.0
+2019-2020,Bundesliga,29,2020-05-30,Schalke 04,Werder Bremen,0,1,0.0
+2019-2020,Bundesliga,29,2020-05-30,Hertha BSC,Augsburg,2,0,1.0
+2019-2020,Bundesliga,29,2020-05-30,Wolfsburg,Eint Frankfurt,1,2,0.0
+2019-2020,Bundesliga,29,2020-05-30,Bayern Munich,Düsseldorf,5,0,1.0
+2019-2020,Bundesliga,29,2020-05-31,Gladbach,Union Berlin,4,1,1.0
+2019-2020,Bundesliga,29,2020-05-31,Paderborn 07,Dortmund,1,6,0.0
+2019-2020,Bundesliga,29,2020-06-01,Köln,RB Leipzig,2,4,0.0
+2019-2020,Bundesliga,24,2020-06-03,Werder Bremen,Eint Frankfurt,0,3,0.0
+2019-2020,Bundesliga,30,2020-06-05,Freiburg,Gladbach,1,0,1.0
+2019-2020,Bundesliga,30,2020-06-06,Leverkusen,Bayern Munich,2,4,0.0
+2019-2020,Bundesliga,30,2020-06-06,Düsseldorf,Hoffenheim,2,2,0.5
+2019-2020,Bundesliga,30,2020-06-06,RB Leipzig,Paderborn 07,1,1,0.5
+2019-2020,Bundesliga,30,2020-06-06,Eint Frankfurt,Mainz 05,0,2,0.0
+2019-2020,Bundesliga,30,2020-06-06,Dortmund,Hertha BSC,1,0,1.0
+2019-2020,Bundesliga,30,2020-06-07,Werder Bremen,Wolfsburg,0,1,0.0
+2019-2020,Bundesliga,30,2020-06-07,Union Berlin,Schalke 04,1,1,0.5
+2019-2020,Bundesliga,30,2020-06-07,Augsburg,Köln,1,1,0.5
+2019-2020,Bundesliga,31,2020-06-12,Hoffenheim,RB Leipzig,0,2,0.0
+2019-2020,Bundesliga,31,2020-06-13,Hertha BSC,Eint Frankfurt,1,4,0.0
+2019-2020,Bundesliga,31,2020-06-13,Wolfsburg,Freiburg,2,2,0.5
+2019-2020,Bundesliga,31,2020-06-13,Paderborn 07,Werder Bremen,1,5,0.0
+2019-2020,Bundesliga,31,2020-06-13,Düsseldorf,Dortmund,0,1,0.0
+2019-2020,Bundesliga,31,2020-06-13,Köln,Union Berlin,1,2,0.0
+2019-2020,Bundesliga,31,2020-06-13,Bayern Munich,Gladbach,2,1,1.0
+2019-2020,Bundesliga,31,2020-06-14,Mainz 05,Augsburg,0,1,0.0
+2019-2020,Bundesliga,31,2020-06-14,Schalke 04,Leverkusen,1,1,0.5
+2019-2020,Bundesliga,32,2020-06-16,Gladbach,Wolfsburg,3,0,1.0
+2019-2020,Bundesliga,32,2020-06-16,Union Berlin,Paderborn 07,1,0,1.0
+2019-2020,Bundesliga,32,2020-06-16,Freiburg,Hertha BSC,2,1,1.0
+2019-2020,Bundesliga,32,2020-06-16,Werder Bremen,Bayern Munich,0,1,0.0
+2019-2020,Bundesliga,32,2020-06-17,Eint Frankfurt,Schalke 04,2,1,1.0
+2019-2020,Bundesliga,32,2020-06-17,Dortmund,Mainz 05,0,2,0.0
+2019-2020,Bundesliga,32,2020-06-17,RB Leipzig,Düsseldorf,2,2,0.5
+2019-2020,Bundesliga,32,2020-06-17,Augsburg,Hoffenheim,1,3,0.0
+2019-2020,Bundesliga,32,2020-06-17,Leverkusen,Köln,3,1,1.0
+2019-2020,Bundesliga,33,2020-06-20,Hoffenheim,Union Berlin,4,0,1.0
+2019-2020,Bundesliga,33,2020-06-20,Bayern Munich,Freiburg,3,1,1.0
+2019-2020,Bundesliga,33,2020-06-20,Düsseldorf,Augsburg,1,1,0.5
+2019-2020,Bundesliga,33,2020-06-20,Schalke 04,Wolfsburg,1,4,0.0
+2019-2020,Bundesliga,33,2020-06-20,Paderborn 07,Gladbach,1,3,0.0
+2019-2020,Bundesliga,33,2020-06-20,Hertha BSC,Leverkusen,2,0,1.0
+2019-2020,Bundesliga,33,2020-06-20,Mainz 05,Werder Bremen,3,1,1.0
+2019-2020,Bundesliga,33,2020-06-20,RB Leipzig,Dortmund,0,2,0.0
+2019-2020,Bundesliga,33,2020-06-20,Köln,Eint Frankfurt,1,1,0.5
+2019-2020,Bundesliga,34,2020-06-27,Union Berlin,Düsseldorf,3,0,1.0
+2019-2020,Bundesliga,34,2020-06-27,Wolfsburg,Bayern Munich,0,4,0.0
+2019-2020,Bundesliga,34,2020-06-27,Freiburg,Schalke 04,4,0,1.0
+2019-2020,Bundesliga,34,2020-06-27,Dortmund,Hoffenheim,0,4,0.0
+2019-2020,Bundesliga,34,2020-06-27,Leverkusen,Mainz 05,1,0,1.0
+2019-2020,Bundesliga,34,2020-06-27,Werder Bremen,Köln,6,1,1.0
+2019-2020,Bundesliga,34,2020-06-27,Augsburg,RB Leipzig,1,2,0.0
+2019-2020,Bundesliga,34,2020-06-27,Gladbach,Hertha BSC,2,1,1.0
+2019-2020,Bundesliga,34,2020-06-27,Eint Frankfurt,Paderborn 07,3,2,1.0
+2019-2020,German 1/2 Relegation/Promotion Playoffs,,2020-07-02,Werder Bremen,Heidenheim,0,0,0.5
+2019-2020,German 1/2 Relegation/Promotion Playoffs,,2020-07-06,Heidenheim,Werder Bremen,2,2,0.5

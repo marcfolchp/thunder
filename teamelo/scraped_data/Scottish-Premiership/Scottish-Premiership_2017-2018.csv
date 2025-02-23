@@ -1,0 +1,231 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2017-2018,Regular season,1,2017-08-05,Celtic,Hearts,4,1,1.0
+2017-2018,Regular season,1,2017-08-05,Hibernian,Partick Thistle,3,1,1.0
+2017-2018,Regular season,1,2017-08-05,Kilmarnock,St Johnstone,1,2,0.0
+2017-2018,Regular season,1,2017-08-05,Dundee,Ross County,1,2,0.0
+2017-2018,Regular season,1,2017-08-06,Motherwell,Rangers,1,2,0.0
+2017-2018,Regular season,1,2017-08-06,Aberdeen,Hamilton,2,0,1.0
+2017-2018,Regular season,2,2017-08-11,Partick Thistle,Celtic,0,1,0.0
+2017-2018,Regular season,2,2017-08-12,Ross County,Aberdeen,1,2,0.0
+2017-2018,Regular season,2,2017-08-12,Rangers,Hibernian,2,3,0.0
+2017-2018,Regular season,2,2017-08-12,Hamilton,Dundee,3,0,1.0
+2017-2018,Regular season,2,2017-08-12,St Johnstone,Motherwell,4,1,1.0
+2017-2018,Regular season,13,2017-08-12,Kilmarnock,Hearts,0,1,0.0
+2017-2018,Regular season,3,2017-08-19,Kilmarnock,Celtic,0,2,0.0
+2017-2018,Regular season,3,2017-08-19,St Johnstone,Partick Thistle,1,0,1.0
+2017-2018,Regular season,3,2017-08-19,Rangers,Hearts,0,0,0.5
+2017-2018,Regular season,3,2017-08-19,Hibernian,Hamilton,1,3,0.0
+2017-2018,Regular season,3,2017-08-19,Aberdeen,Dundee,2,1,1.0
+2017-2018,Regular season,3,2017-08-19,Motherwell,Ross County,2,0,1.0
+2017-2018,Regular season,4,2017-08-26,Motherwell,Hearts,2,1,1.0
+2017-2018,Regular season,4,2017-08-26,Kilmarnock,Hamilton,2,2,0.5
+2017-2018,Regular season,4,2017-08-26,Celtic,St Johnstone,1,1,0.5
+2017-2018,Regular season,4,2017-08-26,Partick Thistle,Aberdeen,3,4,0.0
+2017-2018,Regular season,4,2017-08-27,Dundee,Hibernian,1,1,0.5
+2017-2018,Regular season,4,2017-08-27,Ross County,Rangers,1,3,0.0
+2017-2018,Regular season,5,2017-09-08,Hamilton,Celtic,1,4,0.0
+2017-2018,Regular season,5,2017-09-09,Ross County,Partick Thistle,1,1,0.5
+2017-2018,Regular season,5,2017-09-09,Motherwell,Kilmarnock,2,0,1.0
+2017-2018,Regular season,5,2017-09-09,St Johnstone,Hibernian,1,1,0.5
+2017-2018,Regular season,5,2017-09-09,Rangers,Dundee,4,1,1.0
+2017-2018,Regular season,5,2017-09-09,Hearts,Aberdeen,0,0,0.5
+2017-2018,Regular season,6,2017-09-15,Partick Thistle,Rangers,2,2,0.5
+2017-2018,Regular season,6,2017-09-16,Celtic,Ross County,4,0,1.0
+2017-2018,Regular season,6,2017-09-16,Aberdeen,Kilmarnock,1,1,0.5
+2017-2018,Regular season,6,2017-09-16,Hamilton,Hearts,1,2,0.0
+2017-2018,Regular season,6,2017-09-16,Dundee,St Johnstone,3,2,1.0
+2017-2018,Regular season,6,2017-09-16,Hibernian,Motherwell,2,2,0.5
+2017-2018,Regular season,7,2017-09-23,Rangers,Celtic,0,2,0.0
+2017-2018,Regular season,7,2017-09-23,St Johnstone,Hamilton,2,1,1.0
+2017-2018,Regular season,7,2017-09-23,Ross County,Hibernian,0,1,0.0
+2017-2018,Regular season,7,2017-09-23,Kilmarnock,Dundee,1,1,0.5
+2017-2018,Regular season,7,2017-09-23,Partick Thistle,Hearts,1,1,0.5
+2017-2018,Regular season,7,2017-09-24,Motherwell,Aberdeen,0,1,0.0
+2017-2018,Regular season,8,2017-09-29,Hamilton,Rangers,1,4,0.0
+2017-2018,Regular season,8,2017-09-30,Aberdeen,St Johnstone,3,0,1.0
+2017-2018,Regular season,8,2017-09-30,Motherwell,Partick Thistle,3,0,1.0
+2017-2018,Regular season,8,2017-09-30,Celtic,Hibernian,2,2,0.5
+2017-2018,Regular season,8,2017-09-30,Kilmarnock,Ross County,0,2,0.0
+2017-2018,Regular season,8,2017-09-30,Dundee,Hearts,2,1,1.0
+2017-2018,Regular season,9,2017-10-13,St Johnstone,Rangers,0,3,0.0
+2017-2018,Regular season,9,2017-10-14,Hamilton,Motherwell,1,2,0.0
+2017-2018,Regular season,9,2017-10-14,Partick Thistle,Kilmarnock,0,2,0.0
+2017-2018,Regular season,9,2017-10-14,Ross County,Hearts,1,2,0.0
+2017-2018,Regular season,9,2017-10-14,Hibernian,Aberdeen,0,1,0.0
+2017-2018,Regular season,9,2017-10-14,Celtic,Dundee,1,0,1.0
+2017-2018,Regular season,10,2017-10-21,Ross County,Hamilton,2,1,1.0
+2017-2018,Regular season,10,2017-10-21,Partick Thistle,Dundee,2,1,1.0
+2017-2018,Regular season,10,2017-10-21,Hearts,St Johnstone,1,0,1.0
+2017-2018,Regular season,11,2017-10-24,St Johnstone,Ross County,0,0,0.5
+2017-2018,Regular season,11,2017-10-24,Hibernian,Hearts,1,0,1.0
+2017-2018,Regular season,11,2017-10-24,Hamilton,Partick Thistle,0,0,0.5
+2017-2018,Regular season,11,2017-10-25,Aberdeen,Celtic,0,3,0.0
+2017-2018,Regular season,11,2017-10-25,Rangers,Kilmarnock,1,1,0.5
+2017-2018,Regular season,11,2017-10-25,Dundee,Motherwell,0,1,0.0
+2017-2018,Regular season,12,2017-10-28,Hearts,Rangers,1,3,0.0
+2017-2018,Regular season,12,2017-10-28,Dundee,Hamilton,1,3,0.0
+2017-2018,Regular season,12,2017-10-28,Partick Thistle,St Johnstone,1,0,1.0
+2017-2018,Regular season,12,2017-10-28,Celtic,Kilmarnock,1,1,0.5
+2017-2018,Regular season,12,2017-10-28,Motherwell,Hibernian,0,1,0.0
+2017-2018,Regular season,12,2017-10-28,Aberdeen,Ross County,2,1,1.0
+2017-2018,Regular season,10,2017-10-31,Kilmarnock,Hibernian,0,3,0.0
+2017-2018,Regular season,13,2017-11-04,St Johnstone,Celtic,0,4,0.0
+2017-2018,Regular season,13,2017-11-04,Hamilton,Aberdeen,2,2,0.5
+2017-2018,Regular season,13,2017-11-04,Ross County,Motherwell,3,2,1.0
+2017-2018,Regular season,13,2017-11-04,Rangers,Partick Thistle,3,0,1.0
+2017-2018,Regular season,13,2017-11-04,Hibernian,Dundee,2,1,1.0
+2017-2018,Regular season,2,2017-11-05,Hearts,Kilmarnock,1,2,0.0
+2017-2018,Regular season,14,2017-11-18,Ross County,Celtic,0,1,0.0
+2017-2018,Regular season,14,2017-11-18,Hibernian,St Johnstone,1,2,0.0
+2017-2018,Regular season,14,2017-11-18,Aberdeen,Motherwell,0,2,0.0
+2017-2018,Regular season,14,2017-11-18,Rangers,Hamilton,0,2,0.0
+2017-2018,Regular season,14,2017-11-18,Dundee,Kilmarnock,0,0,0.5
+2017-2018,Regular season,14,2017-11-19,Hearts,Partick Thistle,1,1,0.5
+2017-2018,Regular season,15,2017-11-24,Dundee,Rangers,2,1,1.0
+2017-2018,Regular season,15,2017-11-25,Hamilton,Hibernian,1,1,0.5
+2017-2018,Regular season,15,2017-11-25,Hearts,Ross County,0,0,0.5
+2017-2018,Regular season,15,2017-11-26,Kilmarnock,Aberdeen,1,3,0.0
+2017-2018,Regular season,10,2017-11-29,Rangers,Aberdeen,3,0,1.0
+2017-2018,Regular season,10,2017-11-29,Motherwell,Celtic,1,1,0.5
+2017-2018,Regular season,16,2017-12-02,St Johnstone,Kilmarnock,1,2,0.0
+2017-2018,Regular season,16,2017-12-02,Hearts,Hamilton,1,1,0.5
+2017-2018,Regular season,16,2017-12-02,Ross County,Dundee,0,2,0.0
+2017-2018,Regular season,16,2017-12-02,Partick Thistle,Hibernian,0,1,0.0
+2017-2018,Regular season,16,2017-12-02,Celtic,Motherwell,5,1,1.0
+2017-2018,Regular season,16,2017-12-03,Aberdeen,Rangers,1,2,0.0
+2017-2018,Regular season,17,2017-12-08,Dundee,Aberdeen,0,1,0.0
+2017-2018,Regular season,17,2017-12-09,Rangers,Ross County,2,1,1.0
+2017-2018,Regular season,17,2017-12-09,Kilmarnock,Partick Thistle,5,1,1.0
+2017-2018,Regular season,17,2017-12-09,Hamilton,St Johnstone,0,1,0.0
+2017-2018,Regular season,17,2017-12-09,Hearts,Motherwell,1,0,1.0
+2017-2018,Regular season,17,2017-12-10,Hibernian,Celtic,2,2,0.5
+2017-2018,Regular season,18,2017-12-12,Ross County,Kilmarnock,2,2,0.5
+2017-2018,Regular season,18,2017-12-12,Hearts,Dundee,2,0,1.0
+2017-2018,Regular season,18,2017-12-13,Partick Thistle,Motherwell,3,2,1.0
+2017-2018,Regular season,18,2017-12-13,St Johnstone,Aberdeen,0,3,0.0
+2017-2018,Regular season,18,2017-12-13,Hibernian,Rangers,1,2,0.0
+2017-2018,Regular season,18,2017-12-13,Celtic,Hamilton,3,1,1.0
+2017-2018,Regular season,19,2017-12-16,Aberdeen,Hibernian,4,1,1.0
+2017-2018,Regular season,19,2017-12-16,Kilmarnock,Motherwell,1,0,1.0
+2017-2018,Regular season,19,2017-12-16,Rangers,St Johnstone,1,3,0.0
+2017-2018,Regular season,19,2017-12-16,Dundee,Partick Thistle,3,0,1.0
+2017-2018,Regular season,19,2017-12-16,Hamilton,Ross County,3,2,1.0
+2017-2018,Regular season,19,2017-12-17,Hearts,Celtic,4,0,1.0
+2017-2018,Regular season,15,2017-12-20,Celtic,Partick Thistle,2,0,1.0
+2017-2018,Regular season,20,2017-12-23,Kilmarnock,Rangers,2,1,1.0
+2017-2018,Regular season,20,2017-12-23,St Johnstone,Hearts,0,0,0.5
+2017-2018,Regular season,20,2017-12-23,Motherwell,Dundee,1,1,0.5
+2017-2018,Regular season,20,2017-12-23,Partick Thistle,Hamilton,1,0,1.0
+2017-2018,Regular season,20,2017-12-23,Celtic,Aberdeen,3,0,1.0
+2017-2018,Regular season,20,2017-12-23,Hibernian,Ross County,2,1,1.0
+2017-2018,Regular season,21,2017-12-26,Dundee,Celtic,0,2,0.0
+2017-2018,Regular season,21,2017-12-27,Hearts,Hibernian,0,0,0.5
+2017-2018,Regular season,21,2017-12-27,Ross County,St Johnstone,1,1,0.5
+2017-2018,Regular season,21,2017-12-27,Aberdeen,Partick Thistle,1,0,1.0
+2017-2018,Regular season,21,2017-12-27,Rangers,Motherwell,2,0,1.0
+2017-2018,Regular season,22,2017-12-30,Celtic,Rangers,0,0,0.5
+2017-2018,Regular season,22,2017-12-30,Partick Thistle,Ross County,2,0,1.0
+2017-2018,Regular season,22,2017-12-30,Motherwell,Hamilton,1,3,0.0
+2017-2018,Regular season,22,2017-12-30,Aberdeen,Hearts,0,0,0.5
+2017-2018,Regular season,22,2017-12-30,St Johnstone,Dundee,0,2,0.0
+2017-2018,Regular season,22,2017-12-30,Hibernian,Kilmarnock,1,1,0.5
+2017-2018,Regular season,23,2018-01-23,Partick Thistle,Celtic,1,2,0.0
+2017-2018,Regular season,23,2018-01-24,Motherwell,Ross County,2,0,1.0
+2017-2018,Regular season,23,2018-01-24,Hamilton,Hearts,0,3,0.0
+2017-2018,Regular season,23,2018-01-24,Dundee,Hibernian,0,1,0.0
+2017-2018,Regular season,23,2018-01-24,Rangers,Aberdeen,2,0,1.0
+2017-2018,Regular season,24,2018-01-27,Celtic,Hibernian,1,0,1.0
+2017-2018,Regular season,24,2018-01-27,St Johnstone,Partick Thistle,1,3,0.0
+2017-2018,Regular season,24,2018-01-27,Hearts,Motherwell,1,1,0.5
+2017-2018,Regular season,24,2018-01-27,Hamilton,Dundee,1,2,0.0
+2017-2018,Regular season,24,2018-01-27,Aberdeen,Kilmarnock,3,1,1.0
+2017-2018,Regular season,24,2018-01-28,Ross County,Rangers,1,2,0.0
+2017-2018,Regular season,25,2018-01-30,Celtic,Hearts,3,1,1.0
+2017-2018,Regular season,25,2018-01-31,Ross County,Aberdeen,2,4,0.0
+2017-2018,Regular season,25,2018-01-31,Hibernian,Motherwell,2,1,1.0
+2017-2018,Regular season,26,2018-02-03,Kilmarnock,Celtic,1,0,1.0
+2017-2018,Regular season,26,2018-02-03,Aberdeen,Hamilton,3,0,1.0
+2017-2018,Regular season,26,2018-02-03,Rangers,Hibernian,1,2,0.0
+2017-2018,Regular season,26,2018-02-03,Motherwell,Partick Thistle,1,1,0.5
+2017-2018,Regular season,26,2018-02-03,Dundee,Ross County,1,4,0.0
+2017-2018,Regular season,26,2018-02-03,Hearts,St Johnstone,1,0,1.0
+2017-2018,Regular season,15,2018-02-06,Motherwell,St Johnstone,2,0,1.0
+2017-2018,Regular season,25,2018-02-06,Partick Thistle,Rangers,0,2,0.0
+2017-2018,Regular season,25,2018-02-13,Kilmarnock,Dundee,3,2,1.0
+2017-2018,Regular season,27,2018-02-17,Ross County,Hearts,1,1,0.5
+2017-2018,Regular season,27,2018-02-17,Motherwell,Kilmarnock,0,1,0.0
+2017-2018,Regular season,27,2018-02-17,Hibernian,Aberdeen,2,0,1.0
+2017-2018,Regular season,27,2018-02-17,Partick Thistle,Dundee,1,2,0.0
+2017-2018,Regular season,27,2018-02-18,Hamilton,Rangers,3,5,0.0
+2017-2018,Regular season,27,2018-02-18,Celtic,St Johnstone,0,0,0.5
+2017-2018,Regular season,28,2018-02-24,Kilmarnock,Hibernian,2,2,0.5
+2017-2018,Regular season,28,2018-02-24,Rangers,Hearts,2,0,1.0
+2017-2018,Regular season,28,2018-02-24,St Johnstone,Ross County,2,0,1.0
+2017-2018,Regular season,28,2018-02-24,Dundee,Motherwell,0,1,0.0
+2017-2018,Regular season,28,2018-02-24,Hamilton,Partick Thistle,2,1,1.0
+2017-2018,Regular season,28,2018-02-25,Aberdeen,Celtic,0,2,0.0
+2017-2018,Regular season,29,2018-02-27,St Johnstone,Rangers,1,4,0.0
+2017-2018,Regular season,29,2018-02-27,Hearts,Kilmarnock,1,1,0.5
+2017-2018,Regular season,23,2018-03-07,Kilmarnock,St Johnstone,2,0,1.0
+2017-2018,Regular season,30,2018-03-09,Hibernian,Hearts,2,0,1.0
+2017-2018,Regular season,30,2018-03-10,Kilmarnock,Ross County,3,2,1.0
+2017-2018,Regular season,30,2018-03-10,Dundee,St Johnstone,0,4,0.0
+2017-2018,Regular season,30,2018-03-10,Partick Thistle,Aberdeen,0,0,0.5
+2017-2018,Regular season,30,2018-03-10,Hamilton,Motherwell,2,0,1.0
+2017-2018,Regular season,30,2018-03-11,Rangers,Celtic,2,3,0.0
+2017-2018,Regular season,31,2018-03-16,St Johnstone,Hibernian,1,1,0.5
+2017-2018,Regular season,31,2018-03-17,Aberdeen,Dundee,1,0,1.0
+2017-2018,Regular season,31,2018-03-17,Hearts,Partick Thistle,3,0,1.0
+2017-2018,Regular season,31,2018-03-17,Rangers,Kilmarnock,0,1,0.0
+2017-2018,Regular season,31,2018-03-17,Ross County,Hamilton,2,2,0.5
+2017-2018,Regular season,31,2018-03-18,Motherwell,Celtic,0,0,0.5
+2017-2018,Regular season,25,2018-03-28,St Johnstone,Hamilton,1,0,1.0
+2017-2018,Regular season,32,2018-03-31,Motherwell,Rangers,2,2,0.5
+2017-2018,Regular season,32,2018-03-31,Kilmarnock,Hamilton,2,0,1.0
+2017-2018,Regular season,32,2018-03-31,Aberdeen,St Johnstone,4,1,1.0
+2017-2018,Regular season,32,2018-03-31,Hibernian,Partick Thistle,2,0,1.0
+2017-2018,Regular season,32,2018-03-31,Celtic,Ross County,3,0,1.0
+2017-2018,Regular season,32,2018-04-01,Dundee,Hearts,1,1,0.5
+2017-2018,Regular season,29,2018-04-03,Hibernian,Hamilton,3,1,1.0
+2017-2018,Regular season,29,2018-04-03,Motherwell,Aberdeen,0,2,0.0
+2017-2018,Regular season,29,2018-04-03,Ross County,Partick Thistle,4,0,1.0
+2017-2018,Regular season,29,2018-04-04,Celtic,Dundee,0,0,0.5
+2017-2018,Regular season,33,2018-04-07,St Johnstone,Motherwell,0,0,0.5
+2017-2018,Regular season,33,2018-04-07,Rangers,Dundee,4,0,1.0
+2017-2018,Regular season,33,2018-04-07,Ross County,Hibernian,1,1,0.5
+2017-2018,Regular season,33,2018-04-07,Hearts,Aberdeen,2,0,1.0
+2017-2018,Regular season,33,2018-04-07,Partick Thistle,Kilmarnock,0,1,0.0
+2017-2018,Regular season,33,2018-04-08,Hamilton,Celtic,1,2,0.0
+2017-2018,Regular season,21,2018-04-14,Hamilton,Kilmarnock,1,2,0.0
+2017-2018,Championship round,1,2018-04-21,Hibernian,Celtic,2,1,1.0
+2017-2018,Championship round,1,2018-04-21,Kilmarnock,Aberdeen,0,2,0.0
+2017-2018,Relegation round,1,2018-04-21,Partick Thistle,Hamilton,2,1,1.0
+2017-2018,Relegation round,1,2018-04-21,Dundee,St Johnstone,2,1,1.0
+2017-2018,Relegation round,1,2018-04-21,Ross County,Motherwell,0,0,0.5
+2017-2018,Championship round,1,2018-04-22,Rangers,Hearts,2,1,1.0
+2017-2018,Championship round,2,2018-04-27,Aberdeen,Hearts,2,0,1.0
+2017-2018,Relegation round,2,2018-04-28,Hamilton,Ross County,2,0,1.0
+2017-2018,Championship round,2,2018-04-28,Hibernian,Kilmarnock,5,3,1.0
+2017-2018,Relegation round,2,2018-04-28,St Johnstone,Partick Thistle,1,1,0.5
+2017-2018,Relegation round,2,2018-04-28,Motherwell,Dundee,2,1,1.0
+2017-2018,Championship round,2,2018-04-29,Celtic,Rangers,5,0,1.0
+2017-2018,Relegation round,3,2018-05-04,Partick Thistle,Ross County,1,1,0.5
+2017-2018,Relegation round,3,2018-05-05,Dundee,Hamilton,1,0,1.0
+2017-2018,Championship round,3,2018-05-05,Rangers,Kilmarnock,1,0,1.0
+2017-2018,Championship round,3,2018-05-05,Aberdeen,Hibernian,0,0,0.5
+2017-2018,Relegation round,3,2018-05-05,Motherwell,St Johnstone,1,5,0.0
+2017-2018,Championship round,3,2018-05-06,Hearts,Celtic,1,3,0.0
+2017-2018,Championship round,4,2018-05-08,Aberdeen,Rangers,1,1,0.5
+2017-2018,Relegation round,4,2018-05-08,Partick Thistle,Motherwell,0,1,0.0
+2017-2018,Relegation round,4,2018-05-08,Ross County,Dundee,0,1,0.0
+2017-2018,Relegation round,4,2018-05-08,Hamilton,St Johnstone,1,2,0.0
+2017-2018,Championship round,4,2018-05-09,Celtic,Kilmarnock,0,0,0.5
+2017-2018,Championship round,4,2018-05-09,Hearts,Hibernian,2,1,1.0
+2017-2018,Relegation round,5,2018-05-12,St Johnstone,Ross County,1,1,0.5
+2017-2018,Relegation round,5,2018-05-12,Motherwell,Hamilton,3,0,1.0
+2017-2018,Relegation round,5,2018-05-12,Dundee,Partick Thistle,0,1,0.0
+2017-2018,Championship round,5,2018-05-13,Kilmarnock,Hearts,1,0,1.0
+2017-2018,Championship round,5,2018-05-13,Hibernian,Rangers,5,5,0.5
+2017-2018,Championship round,5,2018-05-13,Celtic,Aberdeen,0,1,0.0
+2017-2018,Finals,,2018-05-17,Livingston,Partick Thistle,2,1,1.0
+2017-2018,Finals,,2018-05-20,Partick Thistle,Livingston,0,1,0.0

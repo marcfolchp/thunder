@@ -1,0 +1,181 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,1,2020-08-14,Varaždin,Gorica,1,5,0.0
+2020-2021,1,2020-08-15,Rijeka,Šibenik,2,1,1.0
+2020-2021,1,2020-08-15,Osijek,Slaven Belupo,0,0,0.5
+2020-2021,1,2020-08-16,Hajduk Split,Istra 1961,2,0,1.0
+2020-2021,1,2020-08-16,Dinamo Zagreb,Lokomotiva,6,0,1.0
+2020-2021,2,2020-08-21,Lokomotiva,Rijeka,1,0,1.0
+2020-2021,2,2020-08-21,Istra 1961,Dinamo Zagreb,0,1,0.0
+2020-2021,2,2020-08-22,Slaven Belupo,Gorica,1,2,0.0
+2020-2021,2,2020-08-22,Šibenik,Varaždin,0,1,0.0
+2020-2021,2,2020-08-23,Osijek,Hajduk Split,1,2,0.0
+2020-2021,3,2020-08-28,Gorica,Šibenik,3,2,1.0
+2020-2021,3,2020-08-29,Rijeka,Istra 1961,2,1,1.0
+2020-2021,3,2020-08-29,Hajduk Split,Slaven Belupo,2,2,0.5
+2020-2021,3,2020-08-30,Varaždin,Lokomotiva,1,1,0.5
+2020-2021,3,2020-08-30,Dinamo Zagreb,Osijek,4,1,1.0
+2020-2021,4,2020-09-11,Slaven Belupo,Šibenik,0,0,0.5
+2020-2021,4,2020-09-12,Osijek,Rijeka,3,0,1.0
+2020-2021,4,2020-09-12,Hajduk Split,Dinamo Zagreb,1,2,0.0
+2020-2021,4,2020-09-13,Istra 1961,Varaždin,0,1,0.0
+2020-2021,4,2020-09-13,Lokomotiva,Gorica,1,2,0.0
+2020-2021,5,2020-09-18,Šibenik,Lokomotiva,3,2,1.0
+2020-2021,5,2020-09-19,Gorica,Istra 1961,2,2,0.5
+2020-2021,5,2020-09-19,Dinamo Zagreb,Slaven Belupo,3,3,0.5
+2020-2021,5,2020-09-20,Varaždin,Osijek,0,1,0.0
+2020-2021,6,2020-09-26,Istra 1961,Šibenik,1,0,1.0
+2020-2021,6,2020-09-26,Osijek,Gorica,2,1,1.0
+2020-2021,6,2020-09-27,Hajduk Split,Varaždin,2,0,1.0
+2020-2021,7,2020-10-02,Lokomotiva,Istra 1961,0,0,0.5
+2020-2021,7,2020-10-03,Šibenik,Osijek,0,2,0.0
+2020-2021,7,2020-10-03,Gorica,Hajduk Split,2,1,1.0
+2020-2021,7,2020-10-04,Varaždin,Dinamo Zagreb,1,2,0.0
+2020-2021,7,2020-10-04,Rijeka,Slaven Belupo,2,0,1.0
+2020-2021,8,2020-10-16,Slaven Belupo,Istra 1961,5,1,1.0
+2020-2021,8,2020-10-17,Dinamo Zagreb,Gorica,3,2,1.0
+2020-2021,8,2020-10-17,Rijeka,Varaždin,2,1,1.0
+2020-2021,8,2020-10-18,Hajduk Split,Šibenik,0,1,0.0
+2020-2021,9,2020-10-23,Varaždin,Slaven Belupo,1,2,0.0
+2020-2021,9,2020-10-25,Šibenik,Dinamo Zagreb,0,2,0.0
+2020-2021,6,2020-10-28,Slaven Belupo,Lokomotiva,0,0,0.5
+2020-2021,10,2020-10-31,Slaven Belupo,Osijek,0,1,0.0
+2020-2021,10,2020-10-31,Istra 1961,Hajduk Split,1,0,1.0
+2020-2021,10,2020-11-01,Šibenik,Rijeka,2,0,1.0
+2020-2021,10,2020-11-01,Lokomotiva,Dinamo Zagreb,1,1,0.5
+2020-2021,8,2020-11-04,Osijek,Lokomotiva,2,1,1.0
+2020-2021,11,2020-11-07,Varaždin,Šibenik,1,3,0.0
+2020-2021,11,2020-11-07,Hajduk Split,Osijek,1,1,0.5
+2020-2021,11,2020-11-08,Dinamo Zagreb,Istra 1961,5,0,1.0
+2020-2021,11,2020-11-08,Rijeka,Lokomotiva,1,0,1.0
+2020-2021,12,2020-11-20,Lokomotiva,Varaždin,2,2,0.5
+2020-2021,12,2020-11-20,Šibenik,Gorica,1,3,0.0
+2020-2021,12,2020-11-21,Osijek,Dinamo Zagreb,2,0,1.0
+2020-2021,12,2020-11-21,Slaven Belupo,Hajduk Split,0,2,0.0
+2020-2021,10,2020-11-23,Gorica,Varaždin,1,0,1.0
+2020-2021,9,2020-11-24,Lokomotiva,Hajduk Split,1,2,0.0
+2020-2021,9,2020-11-25,Istra 1961,Osijek,1,4,0.0
+2020-2021,13,2020-11-27,Šibenik,Slaven Belupo,0,3,0.0
+2020-2021,13,2020-11-28,Varaždin,Istra 1961,1,1,0.5
+2020-2021,13,2020-11-28,Gorica,Lokomotiva,1,1,0.5
+2020-2021,13,2020-11-29,Rijeka,Osijek,1,1,0.5
+2020-2021,11,2020-12-02,Gorica,Slaven Belupo,0,1,0.0
+2020-2021,14,2020-12-05,Osijek,Varaždin,1,0,1.0
+2020-2021,14,2020-12-06,Slaven Belupo,Dinamo Zagreb,1,5,0.0
+2020-2021,14,2020-12-06,Hajduk Split,Rijeka,1,2,0.0
+2020-2021,15,2020-12-12,Gorica,Osijek,4,1,1.0
+2020-2021,15,2020-12-12,Varaždin,Hajduk Split,4,2,1.0
+2020-2021,15,2020-12-13,Lokomotiva,Slaven Belupo,2,1,1.0
+2020-2021,15,2020-12-13,Rijeka,Dinamo Zagreb,2,2,0.5
+2020-2021,16,2020-12-19,Osijek,Šibenik,1,0,1.0
+2020-2021,16,2020-12-19,Dinamo Zagreb,Varaždin,4,0,1.0
+2020-2021,16,2020-12-20,Hajduk Split,Gorica,2,4,0.0
+2020-2021,14,2021-01-19,Istra 1961,Gorica,1,1,0.5
+2020-2021,6,2021-01-19,Dinamo Zagreb,Rijeka,0,2,0.0
+2020-2021,17,2021-01-22,Lokomotiva,Osijek,0,3,0.0
+2020-2021,17,2021-01-22,Šibenik,Hajduk Split,0,1,0.0
+2020-2021,17,2021-01-23,Varaždin,Rijeka,2,1,1.0
+2020-2021,17,2021-01-23,Gorica,Dinamo Zagreb,3,4,0.0
+2020-2021,17,2021-01-24,Istra 1961,Slaven Belupo,2,1,1.0
+2020-2021,14,2021-01-26,Lokomotiva,Šibenik,0,4,0.0
+2020-2021,12,2021-01-27,Istra 1961,Rijeka,1,2,0.0
+2020-2021,13,2021-01-27,Dinamo Zagreb,Hajduk Split,3,1,1.0
+2020-2021,18,2021-01-29,Slaven Belupo,Varaždin,2,0,1.0
+2020-2021,18,2021-01-30,Osijek,Istra 1961,1,0,1.0
+2020-2021,18,2021-01-30,Dinamo Zagreb,Šibenik,1,2,0.0
+2020-2021,18,2021-01-30,Hajduk Split,Lokomotiva,0,1,0.0
+2020-2021,18,2021-01-31,Rijeka,Gorica,0,2,0.0
+2020-2021,19,2021-02-02,Osijek,Slaven Belupo,3,0,1.0
+2020-2021,19,2021-02-02,Dinamo Zagreb,Lokomotiva,2,0,1.0
+2020-2021,19,2021-02-03,Varaždin,Gorica,2,1,1.0
+2020-2021,19,2021-02-03,Rijeka,Šibenik,2,2,0.5
+2020-2021,19,2021-02-03,Hajduk Split,Istra 1961,1,0,1.0
+2020-2021,20,2021-02-06,Osijek,Hajduk Split,2,0,1.0
+2020-2021,20,2021-02-06,Lokomotiva,Rijeka,2,3,0.0
+2020-2021,20,2021-02-07,Šibenik,Varaždin,0,0,0.5
+2020-2021,20,2021-02-07,Istra 1961,Dinamo Zagreb,0,1,0.0
+2020-2021,20,2021-02-08,Slaven Belupo,Gorica,0,1,0.0
+2020-2021,15,2021-02-10,Šibenik,Istra 1961,1,0,1.0
+2020-2021,5,2021-02-10,Rijeka,Hajduk Split,0,1,0.0
+2020-2021,21,2021-02-12,Varaždin,Lokomotiva,0,1,0.0
+2020-2021,21,2021-02-13,Gorica,Šibenik,1,0,1.0
+2020-2021,21,2021-02-13,Dinamo Zagreb,Osijek,1,0,1.0
+2020-2021,21,2021-02-14,Rijeka,Istra 1961,1,1,0.5
+2020-2021,9,2021-02-17,Gorica,Rijeka,0,0,0.5
+2020-2021,22,2021-02-19,Slaven Belupo,Šibenik,2,2,0.5
+2020-2021,22,2021-02-20,Istra 1961,Varaždin,0,1,0.0
+2020-2021,22,2021-02-20,Lokomotiva,Gorica,0,3,0.0
+2020-2021,22,2021-02-21,Osijek,Rijeka,2,0,1.0
+2020-2021,23,2021-02-26,Varaždin,Osijek,2,3,0.0
+2020-2021,23,2021-02-27,Šibenik,Lokomotiva,0,0,0.5
+2020-2021,23,2021-02-27,Rijeka,Hajduk Split,0,1,0.0
+2020-2021,23,2021-02-28,Gorica,Istra 1961,2,1,1.0
+2020-2021,23,2021-02-28,Dinamo Zagreb,Slaven Belupo,3,0,1.0
+2020-2021,24,2021-03-05,Istra 1961,Šibenik,3,2,1.0
+2020-2021,24,2021-03-06,Slaven Belupo,Lokomotiva,0,0,0.5
+2020-2021,24,2021-03-06,Hajduk Split,Varaždin,2,0,1.0
+2020-2021,24,2021-03-07,Osijek,Gorica,1,1,0.5
+2020-2021,24,2021-03-07,Dinamo Zagreb,Rijeka,2,0,1.0
+2020-2021,16,2021-03-10,Istra 1961,Lokomotiva,3,1,1.0
+2020-2021,25,2021-03-12,Rijeka,Slaven Belupo,1,1,0.5
+2020-2021,25,2021-03-13,Lokomotiva,Istra 1961,0,1,0.0
+2020-2021,25,2021-03-13,Gorica,Hajduk Split,1,1,0.5
+2020-2021,25,2021-03-14,Varaždin,Dinamo Zagreb,0,5,0.0
+2020-2021,25,2021-03-14,Šibenik,Osijek,0,4,0.0
+2020-2021,16,2021-03-17,Slaven Belupo,Rijeka,1,3,0.0
+2020-2021,26,2021-03-19,Osijek,Lokomotiva,2,0,1.0
+2020-2021,26,2021-03-20,Slaven Belupo,Istra 1961,1,1,0.5
+2020-2021,26,2021-03-20,Hajduk Split,Šibenik,1,0,1.0
+2020-2021,26,2021-03-21,Rijeka,Varaždin,2,0,1.0
+2020-2021,26,2021-03-21,Dinamo Zagreb,Gorica,1,0,1.0
+2020-2021,27,2021-04-02,Varaždin,Slaven Belupo,1,1,0.5
+2020-2021,27,2021-04-03,Lokomotiva,Hajduk Split,0,2,0.0
+2020-2021,27,2021-04-03,Istra 1961,Osijek,0,2,0.0
+2020-2021,27,2021-04-03,Šibenik,Dinamo Zagreb,1,1,0.5
+2020-2021,27,2021-04-03,Gorica,Rijeka,3,4,0.0
+2020-2021,21,2021-04-07,Hajduk Split,Slaven Belupo,2,2,0.5
+2020-2021,28,2021-04-10,Gorica,Varaždin,0,0,0.5
+2020-2021,28,2021-04-10,Šibenik,Rijeka,0,1,0.0
+2020-2021,28,2021-04-11,Slaven Belupo,Osijek,2,2,0.5
+2020-2021,28,2021-04-11,Istra 1961,Hajduk Split,0,1,0.0
+2020-2021,28,2021-04-11,Lokomotiva,Dinamo Zagreb,0,2,0.0
+2020-2021,29,2021-04-16,Varaždin,Šibenik,1,1,0.5
+2020-2021,29,2021-04-16,Gorica,Slaven Belupo,0,1,0.0
+2020-2021,29,2021-04-16,Hajduk Split,Osijek,0,1,0.0
+2020-2021,29,2021-04-17,Rijeka,Lokomotiva,3,0,1.0
+2020-2021,29,2021-04-18,Dinamo Zagreb,Istra 1961,1,0,1.0
+2020-2021,30,2021-04-20,Šibenik,Gorica,1,1,0.5
+2020-2021,30,2021-04-20,Slaven Belupo,Hajduk Split,1,1,0.5
+2020-2021,30,2021-04-21,Lokomotiva,Varaždin,4,0,1.0
+2020-2021,30,2021-04-21,Istra 1961,Rijeka,1,2,0.0
+2020-2021,30,2021-04-21,Osijek,Dinamo Zagreb,1,1,0.5
+2020-2021,31,2021-04-24,Šibenik,Slaven Belupo,2,0,1.0
+2020-2021,31,2021-04-24,Gorica,Lokomotiva,4,2,1.0
+2020-2021,31,2021-04-25,Rijeka,Osijek,0,0,0.5
+2020-2021,31,2021-04-25,Dinamo Zagreb,Hajduk Split,2,0,1.0
+2020-2021,31,2021-04-26,Varaždin,Istra 1961,1,1,0.5
+2020-2021,32,2021-04-30,Lokomotiva,Šibenik,1,0,1.0
+2020-2021,32,2021-05-01,Slaven Belupo,Dinamo Zagreb,0,2,0.0
+2020-2021,32,2021-05-01,Hajduk Split,Rijeka,3,2,1.0
+2020-2021,32,2021-05-02,Istra 1961,Gorica,0,2,0.0
+2020-2021,32,2021-05-02,Osijek,Varaždin,1,1,0.5
+2020-2021,22,2021-05-05,Hajduk Split,Dinamo Zagreb,1,1,0.5
+2020-2021,33,2021-05-07,Lokomotiva,Slaven Belupo,3,1,1.0
+2020-2021,33,2021-05-07,Šibenik,Istra 1961,1,0,1.0
+2020-2021,33,2021-05-07,Gorica,Osijek,1,0,1.0
+2020-2021,33,2021-05-08,Varaždin,Hajduk Split,0,1,0.0
+2020-2021,33,2021-05-09,Rijeka,Dinamo Zagreb,1,5,0.0
+2020-2021,34,2021-05-11,Istra 1961,Lokomotiva,1,1,0.5
+2020-2021,34,2021-05-11,Osijek,Šibenik,3,0,1.0
+2020-2021,34,2021-05-12,Slaven Belupo,Rijeka,0,2,0.0
+2020-2021,34,2021-05-12,Dinamo Zagreb,Varaždin,2,2,0.5
+2020-2021,34,2021-05-12,Hajduk Split,Gorica,4,0,1.0
+2020-2021,35,2021-05-15,Istra 1961,Slaven Belupo,1,0,1.0
+2020-2021,35,2021-05-15,Lokomotiva,Osijek,0,2,0.0
+2020-2021,35,2021-05-16,Varaždin,Rijeka,2,3,0.0
+2020-2021,35,2021-05-16,Šibenik,Hajduk Split,0,2,0.0
+2020-2021,35,2021-05-16,Gorica,Dinamo Zagreb,0,3,0.0
+2020-2021,36,2021-05-22,Rijeka,Gorica,2,1,1.0
+2020-2021,36,2021-05-22,Hajduk Split,Lokomotiva,2,0,1.0
+2020-2021,36,2021-05-22,Osijek,Istra 1961,2,1,1.0
+2020-2021,36,2021-05-22,Slaven Belupo,Varaždin,1,0,1.0
+2020-2021,36,2021-05-22,Dinamo Zagreb,Šibenik,1,0,1.0

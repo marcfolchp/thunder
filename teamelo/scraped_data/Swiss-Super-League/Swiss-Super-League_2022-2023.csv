@@ -1,0 +1,183 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022-2023,Swiss Super League,1,2022-07-16,Young Boys,Zürich,4,0,1.0
+2022-2023,Swiss Super League,1,2022-07-16,FC Winterthur,Basel,1,1,0.5
+2022-2023,Swiss Super League,1,2022-07-17,Servette FC,St. Gallen,1,0,1.0
+2022-2023,Swiss Super League,1,2022-07-17,Lugano,Sion,2,3,0.0
+2022-2023,Swiss Super League,2,2022-07-23,Zürich,Luzern,0,0,0.5
+2022-2023,Swiss Super League,2,2022-07-23,St. Gallen,FC Winterthur,2,0,1.0
+2022-2023,Swiss Super League,2,2022-07-24,Basel,Servette FC,1,1,0.5
+2022-2023,Swiss Super League,2,2022-07-24,Grasshopper,Lugano,2,1,1.0
+2022-2023,Swiss Super League,2,2022-07-24,Sion,Young Boys,0,3,0.0
+2022-2023,Swiss Super League,3,2022-07-30,St. Gallen,Zürich,2,0,1.0
+2022-2023,Swiss Super League,3,2022-07-30,Sion,Servette FC,0,0,0.5
+2022-2023,Swiss Super League,3,2022-07-31,Young Boys,Grasshopper,1,1,0.5
+2022-2023,Swiss Super League,3,2022-07-31,FC Winterthur,Lugano,1,4,0.0
+2022-2023,Swiss Super League,4,2022-08-06,Servette FC,FC Winterthur,1,0,1.0
+2022-2023,Swiss Super League,4,2022-08-06,Grasshopper,St. Gallen,3,2,1.0
+2022-2023,Swiss Super League,4,2022-08-07,Zürich,Sion,0,3,0.0
+2022-2023,Swiss Super League,4,2022-08-07,Basel,Young Boys,0,0,0.5
+2022-2023,Swiss Super League,4,2022-08-07,Lugano,Luzern,1,2,0.0
+2022-2023,Swiss Super League,1,2022-08-10,Luzern,Grasshopper,1,1,0.5
+2022-2023,Swiss Super League,5,2022-08-13,Sion,Grasshopper,2,2,0.5
+2022-2023,Swiss Super League,5,2022-08-13,St. Gallen,Luzern,4,1,1.0
+2022-2023,Swiss Super League,5,2022-08-14,FC Winterthur,Zürich,1,1,0.5
+2022-2023,Swiss Super League,5,2022-08-14,Basel,Lugano,0,2,0.0
+2022-2023,Swiss Super League,5,2022-08-14,Young Boys,Servette FC,3,0,1.0
+2022-2023,Swiss Super League,6,2022-08-27,Luzern,Sion,2,0,1.0
+2022-2023,Swiss Super League,6,2022-08-27,Servette FC,Grasshopper,3,1,1.0
+2022-2023,Swiss Super League,6,2022-08-28,Lugano,St. Gallen,2,3,0.0
+2022-2023,Swiss Super League,6,2022-08-28,FC Winterthur,Young Boys,1,5,0.0
+2022-2023,Swiss Super League,6,2022-08-28,Zürich,Basel,2,4,0.0
+2022-2023,Swiss Super League,7,2022-09-03,Sion,Basel,2,1,1.0
+2022-2023,Swiss Super League,7,2022-09-03,Zürich,Lugano,1,2,0.0
+2022-2023,Swiss Super League,7,2022-09-04,Luzern,Servette FC,0,2,0.0
+2022-2023,Swiss Super League,7,2022-09-04,Grasshopper,FC Winterthur,3,0,1.0
+2022-2023,Swiss Super League,7,2022-09-04,St. Gallen,Young Boys,2,1,1.0
+2022-2023,Swiss Super League,8,2022-09-10,St. Gallen,Sion,1,2,0.0
+2022-2023,Swiss Super League,8,2022-09-10,FC Winterthur,Luzern,0,6,0.0
+2022-2023,Swiss Super League,8,2022-09-11,Servette FC,Zürich,3,2,1.0
+2022-2023,Swiss Super League,8,2022-09-11,Young Boys,Lugano,3,0,1.0
+2022-2023,Swiss Super League,8,2022-09-11,Basel,Grasshopper,5,1,1.0
+2022-2023,Swiss Super League,9,2022-10-01,Basel,St. Gallen,3,2,1.0
+2022-2023,Swiss Super League,9,2022-10-01,Grasshopper,Zürich,1,1,0.5
+2022-2023,Swiss Super League,9,2022-10-02,Sion,FC Winterthur,1,3,0.0
+2022-2023,Swiss Super League,9,2022-10-02,Luzern,Young Boys,1,2,0.0
+2022-2023,Swiss Super League,9,2022-10-02,Lugano,Servette FC,1,0,1.0
+2022-2023,Swiss Super League,10,2022-10-08,Grasshopper,Sion,4,4,0.5
+2022-2023,Swiss Super League,10,2022-10-08,Young Boys,St. Gallen,2,1,1.0
+2022-2023,Swiss Super League,10,2022-10-09,Servette FC,Luzern,1,1,0.5
+2022-2023,Swiss Super League,10,2022-10-09,Zürich,FC Winterthur,0,0,0.5
+2022-2023,Swiss Super League,10,2022-10-09,Lugano,Basel,1,0,1.0
+2022-2023,Swiss Super League,11,2022-10-15,Sion,Luzern,2,0,1.0
+2022-2023,Swiss Super League,11,2022-10-15,FC Winterthur,Grasshopper,1,0,1.0
+2022-2023,Swiss Super League,11,2022-10-16,St. Gallen,Lugano,1,1,0.5
+2022-2023,Swiss Super League,11,2022-10-16,Zürich,Young Boys,0,0,0.5
+2022-2023,Swiss Super League,11,2022-10-16,Servette FC,Basel,0,0,0.5
+2022-2023,Swiss Super League,12,2022-10-18,FC Winterthur,Sion,1,0,1.0
+2022-2023,Swiss Super League,12,2022-10-19,Lugano,Young Boys,1,4,0.0
+2022-2023,Swiss Super League,12,2022-10-19,Luzern,St. Gallen,3,3,0.5
+2022-2023,Swiss Super League,12,2022-10-20,Basel,Zürich,0,0,0.5
+2022-2023,Swiss Super League,12,2022-10-20,Grasshopper,Servette FC,2,3,0.0
+2022-2023,Swiss Super League,13,2022-10-22,Young Boys,Sion,1,1,0.5
+2022-2023,Swiss Super League,13,2022-10-22,Luzern,Lugano,3,1,1.0
+2022-2023,Swiss Super League,13,2022-10-23,Basel,FC Winterthur,3,1,1.0
+2022-2023,Swiss Super League,13,2022-10-23,St. Gallen,Servette FC,1,1,0.5
+2022-2023,Swiss Super League,13,2022-10-23,Zürich,Grasshopper,1,4,0.0
+2022-2023,Swiss Super League,14,2022-10-29,Grasshopper,Luzern,1,3,0.0
+2022-2023,Swiss Super League,14,2022-10-29,Servette FC,Lugano,2,2,0.5
+2022-2023,Swiss Super League,14,2022-10-30,Sion,Zürich,0,1,0.0
+2022-2023,Swiss Super League,14,2022-10-30,Young Boys,Basel,3,1,1.0
+2022-2023,Swiss Super League,14,2022-10-30,FC Winterthur,St. Gallen,1,0,1.0
+2022-2023,Swiss Super League,15,2022-11-05,St. Gallen,Grasshopper,2,1,1.0
+2022-2023,Swiss Super League,15,2022-11-05,Luzern,FC Winterthur,1,1,0.5
+2022-2023,Swiss Super League,15,2022-11-06,Servette FC,Young Boys,0,0,0.5
+2022-2023,Swiss Super League,15,2022-11-06,Lugano,Zürich,2,0,1.0
+2022-2023,Swiss Super League,15,2022-11-06,Basel,Sion,0,0,0.5
+2022-2023,Swiss Super League,3,2022-11-09,Luzern,Basel,0,2,0.0
+2022-2023,Swiss Super League,16,2022-11-12,Sion,St. Gallen,2,7,0.0
+2022-2023,Swiss Super League,16,2022-11-12,Grasshopper,Basel,1,0,1.0
+2022-2023,Swiss Super League,16,2022-11-13,Zürich,Servette FC,4,1,1.0
+2022-2023,Swiss Super League,16,2022-11-13,Young Boys,Luzern,3,0,1.0
+2022-2023,Swiss Super League,16,2022-11-13,Lugano,FC Winterthur,3,1,1.0
+2022-2023,Swiss Super League,17,2023-01-21,Luzern,Zürich,2,2,0.5
+2022-2023,Swiss Super League,17,2023-01-21,Grasshopper,Young Boys,1,2,0.0
+2022-2023,Swiss Super League,17,2023-01-22,Sion,Lugano,2,3,0.0
+2022-2023,Swiss Super League,17,2023-01-22,St. Gallen,Basel,1,1,0.5
+2022-2023,Swiss Super League,18,2023-01-28,Lugano,Grasshopper,1,1,0.5
+2022-2023,Swiss Super League,18,2023-01-28,Basel,Luzern,2,3,0.0
+2022-2023,Swiss Super League,18,2023-01-29,Young Boys,FC Winterthur,5,1,1.0
+2022-2023,Swiss Super League,18,2023-01-29,Servette FC,Sion,2,2,0.5
+2022-2023,Swiss Super League,18,2023-01-29,Zürich,St. Gallen,1,0,1.0
+2022-2023,Swiss Super League,19,2023-02-04,Grasshopper,Basel,1,0,1.0
+2022-2023,Swiss Super League,19,2023-02-04,St. Gallen,Servette FC,3,0,1.0
+2022-2023,Swiss Super League,19,2023-02-05,Sion,Zürich,0,1,0.0
+2022-2023,Swiss Super League,19,2023-02-05,FC Winterthur,Lugano,1,0,1.0
+2022-2023,Swiss Super League,19,2023-02-05,Luzern,Young Boys,1,1,0.5
+2022-2023,Swiss Super League,20,2023-02-11,Servette FC,Grasshopper,2,1,1.0
+2022-2023,Swiss Super League,20,2023-02-11,Basel,Sion,3,1,1.0
+2022-2023,Swiss Super League,20,2023-02-12,Lugano,Luzern,1,1,0.5
+2022-2023,Swiss Super League,20,2023-02-12,Young Boys,St. Gallen,5,1,1.0
+2022-2023,Swiss Super League,20,2023-02-12,Zürich,FC Winterthur,1,1,0.5
+2022-2023,Swiss Super League,17,2023-02-15,FC Winterthur,Servette FC,1,2,0.0
+2022-2023,Swiss Super League,21,2023-02-18,FC Winterthur,Sion,1,1,0.5
+2022-2023,Swiss Super League,21,2023-02-18,Young Boys,Lugano,1,1,0.5
+2022-2023,Swiss Super League,21,2023-02-19,St. Gallen,Luzern,2,2,0.5
+2022-2023,Swiss Super League,21,2023-02-19,Basel,Servette FC,2,2,0.5
+2022-2023,Swiss Super League,21,2023-02-19,Grasshopper,Zürich,1,2,0.0
+2022-2023,Swiss Super League,22,2023-02-25,Sion,St. Gallen,0,4,0.0
+2022-2023,Swiss Super League,22,2023-02-25,Zürich,Young Boys,2,2,0.5
+2022-2023,Swiss Super League,22,2023-02-26,Luzern,Grasshopper,1,0,1.0
+2022-2023,Swiss Super League,22,2023-02-26,Lugano,Basel,2,2,0.5
+2022-2023,Swiss Super League,22,2023-02-26,Servette FC,FC Winterthur,1,1,0.5
+2022-2023,Swiss Super League,23,2023-03-04,FC Winterthur,Young Boys,1,1,0.5
+2022-2023,Swiss Super League,23,2023-03-04,Luzern,Basel,0,1,0.0
+2022-2023,Swiss Super League,23,2023-03-05,St. Gallen,Grasshopper,1,1,0.5
+2022-2023,Swiss Super League,23,2023-03-05,Sion,Lugano,1,1,0.5
+2022-2023,Swiss Super League,23,2023-03-05,Zürich,Servette FC,1,1,0.5
+2022-2023,Swiss Super League,24,2023-03-11,Young Boys,Sion,4,0,1.0
+2022-2023,Swiss Super League,24,2023-03-11,Lugano,Zürich,2,0,1.0
+2022-2023,Swiss Super League,24,2023-03-12,Servette FC,Luzern,0,3,0.0
+2022-2023,Swiss Super League,24,2023-03-12,Grasshopper,FC Winterthur,2,1,1.0
+2022-2023,Swiss Super League,24,2023-03-12,Basel,St. Gallen,1,1,0.5
+2022-2023,Swiss Super League,25,2023-03-18,Zürich,Luzern,2,1,1.0
+2022-2023,Swiss Super League,25,2023-03-18,Sion,Grasshopper,1,2,0.0
+2022-2023,Swiss Super League,25,2023-03-19,FC Winterthur,St. Gallen,1,0,1.0
+2022-2023,Swiss Super League,25,2023-03-19,Young Boys,Basel,3,0,1.0
+2022-2023,Swiss Super League,25,2023-03-19,Lugano,Servette FC,1,1,0.5
+2022-2023,Swiss Super League,26,2023-04-01,Servette FC,Young Boys,2,1,1.0
+2022-2023,Swiss Super League,26,2023-04-01,Basel,FC Winterthur,2,0,1.0
+2022-2023,Swiss Super League,26,2023-04-02,Grasshopper,Lugano,2,1,1.0
+2022-2023,Swiss Super League,26,2023-04-02,Luzern,Sion,1,2,0.0
+2022-2023,Swiss Super League,26,2023-04-02,St. Gallen,Zürich,2,2,0.5
+2022-2023,Swiss Super League,27,2023-04-08,Zürich,Basel,1,1,0.5
+2022-2023,Swiss Super League,27,2023-04-08,Sion,Servette FC,2,2,0.5
+2022-2023,Swiss Super League,27,2023-04-10,Lugano,St. Gallen,1,1,0.5
+2022-2023,Swiss Super League,27,2023-04-10,FC Winterthur,Luzern,1,2,0.0
+2022-2023,Swiss Super League,27,2023-04-10,Young Boys,Grasshopper,2,0,1.0
+2022-2023,Swiss Super League,28,2023-04-15,Servette FC,Lugano,0,0,0.5
+2022-2023,Swiss Super League,28,2023-04-15,Luzern,Zürich,4,1,1.0
+2022-2023,Swiss Super League,28,2023-04-16,St. Gallen,FC Winterthur,2,3,0.0
+2022-2023,Swiss Super League,28,2023-04-16,Grasshopper,Sion,1,3,0.0
+2022-2023,Swiss Super League,28,2023-04-16,Basel,Young Boys,1,1,0.5
+2022-2023,Swiss Super League,29,2023-04-22,FC Winterthur,Grasshopper,1,2,0.0
+2022-2023,Swiss Super League,29,2023-04-22,Young Boys,Servette FC,6,1,1.0
+2022-2023,Swiss Super League,29,2023-04-23,Basel,Luzern,0,2,0.0
+2022-2023,Swiss Super League,29,2023-04-23,Zürich,St. Gallen,1,0,1.0
+2022-2023,Swiss Super League,29,2023-04-23,Lugano,Sion,2,0,1.0
+2022-2023,Swiss Super League,30,2023-04-25,Grasshopper,Young Boys,4,1,1.0
+2022-2023,Swiss Super League,30,2023-04-26,St. Gallen,Lugano,1,2,0.0
+2022-2023,Swiss Super League,30,2023-04-26,Servette FC,Zürich,4,0,1.0
+2022-2023,Swiss Super League,30,2023-04-27,Sion,Basel,1,2,0.0
+2022-2023,Swiss Super League,30,2023-04-27,Luzern,FC Winterthur,3,1,1.0
+2022-2023,Swiss Super League,31,2023-04-29,Lugano,Grasshopper,5,1,1.0
+2022-2023,Swiss Super League,31,2023-04-29,Servette FC,St. Gallen,1,1,0.5
+2022-2023,Swiss Super League,31,2023-04-30,Zürich,Sion,2,2,0.5
+2022-2023,Swiss Super League,31,2023-04-30,Young Boys,Luzern,5,1,1.0
+2022-2023,Swiss Super League,31,2023-04-30,FC Winterthur,Basel,1,4,0.0
+2022-2023,Swiss Super League,32,2023-05-06,Sion,FC Winterthur,0,1,0.0
+2022-2023,Swiss Super League,32,2023-05-06,St. Gallen,Young Boys,0,2,0.0
+2022-2023,Swiss Super League,32,2023-05-07,Luzern,Lugano,2,2,0.5
+2022-2023,Swiss Super League,32,2023-05-07,Grasshopper,Servette FC,2,3,0.0
+2022-2023,Swiss Super League,32,2023-05-07,Basel,Zürich,0,2,0.0
+2022-2023,Swiss Super League,33,2023-05-13,Grasshopper,Luzern,2,0,1.0
+2022-2023,Swiss Super League,33,2023-05-13,Servette FC,Sion,5,0,1.0
+2022-2023,Swiss Super League,33,2023-05-14,Young Boys,Zürich,1,1,0.5
+2022-2023,Swiss Super League,33,2023-05-14,St. Gallen,Basel,6,1,1.0
+2022-2023,Swiss Super League,33,2023-05-14,Lugano,FC Winterthur,2,1,1.0
+2022-2023,Swiss Super League,34,2023-05-20,FC Winterthur,Servette FC,0,1,0.0
+2022-2023,Swiss Super League,34,2023-05-20,Luzern,St. Gallen,1,1,0.5
+2022-2023,Swiss Super League,34,2023-05-21,Sion,Young Boys,0,2,0.0
+2022-2023,Swiss Super League,34,2023-05-21,Basel,Lugano,1,1,0.5
+2022-2023,Swiss Super League,34,2023-05-21,Zürich,Grasshopper,2,1,1.0
+2022-2023,Swiss Super League,35,2023-05-25,Sion,Luzern,1,2,0.0
+2022-2023,Swiss Super League,35,2023-05-25,Servette FC,Basel,3,3,0.5
+2022-2023,Swiss Super League,35,2023-05-25,Grasshopper,St. Gallen,2,2,0.5
+2022-2023,Swiss Super League,35,2023-05-25,Lugano,Young Boys,2,0,1.0
+2022-2023,Swiss Super League,35,2023-05-25,FC Winterthur,Zürich,0,2,0.0
+2022-2023,Swiss Super League,36,2023-05-29,Young Boys,FC Winterthur,2,1,1.0
+2022-2023,Swiss Super League,36,2023-05-29,Basel,Grasshopper,3,1,1.0
+2022-2023,Swiss Super League,36,2023-05-29,St. Gallen,Sion,4,0,1.0
+2022-2023,Swiss Super League,36,2023-05-29,Zürich,Lugano,2,3,0.0
+2022-2023,Swiss Super League,36,2023-05-29,Luzern,Servette FC,0,1,0.0
+2022-2023,Swiss 1/2 Relegation/Promotion Play-offs,,2023-06-03,Sion,FC Stade Lausanne-Ouchy,0,2,0.0
+2022-2023,Swiss 1/2 Relegation/Promotion Play-offs,,2023-06-06,FC Stade Lausanne-Ouchy,Sion,4,2,1.0

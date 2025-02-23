@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1964-1965,1,1964-08-22,Fulham,West Ham,1,2,0.0
+1964-1965,1,1964-08-22,Nott'ham Forest,Birmingham City,4,3,1.0
+1964-1965,1,1964-08-22,Aston Villa,Leeds United,1,2,0.0
+1964-1965,1,1964-08-22,Burnley,Blackpool,2,2,0.5
+1964-1965,1,1964-08-22,Manchester Utd,West Brom,2,2,0.5
+1964-1965,1,1964-08-22,Liverpool,Arsenal,3,2,1.0
+1964-1965,1,1964-08-22,Stoke City,Everton,0,2,0.0
+1964-1965,1,1964-08-22,Wolves,Chelsea,0,3,0.0
+1964-1965,1,1964-08-22,Sunderland,Leicester City,3,3,0.5
+1964-1965,1,1964-08-22,Sheffield Weds,Blackburn,1,0,1.0
+1964-1965,1,1964-08-22,Tottenham,Sheffield Utd,2,0,1.0
+1964-1965,2,1964-08-24,Blackpool,Blackburn,4,2,1.0
+1964-1965,2,1964-08-24,West Ham,Manchester Utd,3,1,1.0
+1964-1965,2,1964-08-25,Everton,Nott'ham Forest,1,0,1.0
+1964-1965,2,1964-08-25,Arsenal,Sheffield Weds,1,1,0.5
+1964-1965,2,1964-08-25,Burnley,Tottenham,2,2,0.5
+1964-1965,2,1964-08-26,Birmingham City,Fulham,2,2,0.5
+1964-1965,2,1964-08-26,Leicester City,Wolves,3,2,1.0
+1964-1965,2,1964-08-26,Sheffield Utd,Stoke City,0,1,0.0
+1964-1965,2,1964-08-26,Leeds United,Liverpool,4,2,1.0
+1964-1965,2,1964-08-26,West Brom,Sunderland,4,1,1.0
+1964-1965,2,1964-08-26,Chelsea,Aston Villa,2,1,1.0
+1964-1965,3,1964-08-28,West Ham,Nott'ham Forest,2,3,0.0
+1964-1965,3,1964-08-29,Leicester City,Manchester Utd,2,2,0.5
+1964-1965,3,1964-08-29,Everton,Tottenham,4,1,1.0
+1964-1965,3,1964-08-29,Blackburn,Liverpool,3,2,1.0
+1964-1965,3,1964-08-29,Birmingham City,Stoke City,1,2,0.0
+1964-1965,3,1964-08-29,Blackpool,Sheffield Weds,1,0,1.0
+1964-1965,3,1964-08-29,Sheffield Utd,Burnley,2,0,1.0
+1964-1965,3,1964-08-29,Leeds United,Wolves,3,2,1.0
+1964-1965,3,1964-08-29,West Brom,Fulham,2,2,0.5
+1964-1965,3,1964-08-29,Arsenal,Aston Villa,3,1,1.0
+1964-1965,3,1964-08-29,Chelsea,Sunderland,3,1,1.0
+1964-1965,4,1964-08-31,Aston Villa,Chelsea,2,2,0.5
+1964-1965,4,1964-09-01,Nott'ham Forest,Everton,3,1,1.0
+1964-1965,4,1964-09-02,Liverpool,Leeds United,2,1,1.0
+1964-1965,4,1964-09-02,Blackburn,Blackpool,4,1,1.0
+1964-1965,4,1964-09-02,Manchester Utd,West Ham,3,1,1.0
+1964-1965,4,1964-09-02,Stoke City,Sheffield Utd,0,1,0.0
+1964-1965,4,1964-09-02,Fulham,Birmingham City,3,1,1.0
+1964-1965,4,1964-09-02,Sheffield Weds,Arsenal,2,1,1.0
+1964-1965,4,1964-09-02,Sunderland,West Brom,2,2,0.5
+1964-1965,4,1964-09-02,Tottenham,Burnley,4,1,1.0
+1964-1965,4,1964-09-02,Wolves,Leicester City,1,1,0.5
+1964-1965,5,1964-09-05,Stoke City,West Ham,3,1,1.0
+1964-1965,5,1964-09-05,Fulham,Manchester Utd,2,1,1.0
+1964-1965,5,1964-09-05,Wolves,Arsenal,0,1,0.0
+1964-1965,5,1964-09-05,Nott'ham Forest,West Brom,0,0,0.5
+1964-1965,5,1964-09-05,Sunderland,Leeds United,3,3,0.5
+1964-1965,5,1964-09-05,Burnley,Everton,1,1,0.5
+1964-1965,5,1964-09-05,Liverpool,Blackpool,2,2,0.5
+1964-1965,5,1964-09-05,Tottenham,Birmingham City,4,1,1.0
+1964-1965,5,1964-09-05,Sheffield Weds,Sheffield Utd,0,2,0.0
+1964-1965,5,1964-09-05,Leicester City,Chelsea,1,1,0.5
+1964-1965,5,1964-09-05,Aston Villa,Blackburn,0,4,0.0
+1964-1965,6,1964-09-07,West Ham,Wolves,5,0,1.0
+1964-1965,6,1964-09-07,Blackpool,Leeds United,4,0,1.0
+1964-1965,6,1964-09-08,Burnley,Nott'ham Forest,2,2,0.5
+1964-1965,6,1964-09-08,Everton,Manchester Utd,3,3,0.5
+1964-1965,6,1964-09-08,Arsenal,Blackburn,1,1,0.5
+1964-1965,6,1964-09-09,Sheffield Utd,Fulham,1,1,0.5
+1964-1965,6,1964-09-09,Birmingham City,West Brom,1,1,0.5
+1964-1965,6,1964-09-09,Leicester City,Liverpool,2,0,1.0
+1964-1965,6,1964-09-09,Sunderland,Aston Villa,2,2,0.5
+1964-1965,6,1964-09-09,Stoke City,Tottenham,2,0,1.0
+1964-1965,6,1964-09-09,Chelsea,Sheffield Weds,1,1,0.5
+1964-1965,7,1964-09-12,Manchester Utd,Nott'ham Forest,3,0,1.0
+1964-1965,7,1964-09-12,Blackburn,Wolves,4,1,1.0
+1964-1965,7,1964-09-12,Everton,Sheffield Utd,1,1,0.5
+1964-1965,7,1964-09-12,Sheffield Weds,Liverpool,1,0,1.0
+1964-1965,7,1964-09-12,Birmingham City,Burnley,2,1,1.0
+1964-1965,7,1964-09-12,West Brom,Stoke City,5,3,1.0
+1964-1965,7,1964-09-12,Arsenal,Sunderland,3,1,1.0
+1964-1965,7,1964-09-12,Chelsea,Fulham,1,0,1.0
+1964-1965,7,1964-09-12,Leeds United,Leicester City,3,2,1.0
+1964-1965,7,1964-09-12,Blackpool,Aston Villa,3,1,1.0
+1964-1965,7,1964-09-12,West Ham,Tottenham,3,2,1.0
+1964-1965,8,1964-09-14,Wolves,West Ham,4,3,1.0
+1964-1965,8,1964-09-14,Aston Villa,Sunderland,2,1,1.0
+1964-1965,8,1964-09-15,Nott'ham Forest,Burnley,3,1,1.0
+1964-1965,8,1964-09-16,Blackburn,Arsenal,1,2,0.0
+1964-1965,8,1964-09-16,Leeds United,Blackpool,3,0,1.0
+1964-1965,8,1964-09-16,Sheffield Weds,Chelsea,2,3,0.0
+1964-1965,8,1964-09-16,Fulham,Sheffield Utd,1,2,0.0
+1964-1965,8,1964-09-16,West Brom,Birmingham City,0,2,0.0
+1964-1965,8,1964-09-16,Tottenham,Stoke City,2,1,1.0
+1964-1965,8,1964-09-16,Manchester Utd,Everton,2,1,1.0
+1964-1965,9,1964-09-19,Stoke City,Manchester Utd,1,2,0.0
+1964-1965,9,1964-09-19,Chelsea,Leeds United,2,0,1.0
+1964-1965,9,1964-09-19,Liverpool,Everton,0,4,0.0
+1964-1965,9,1964-09-19,Wolves,Blackpool,1,2,0.0
+1964-1965,9,1964-09-19,Sheffield Utd,Birmingham City,3,1,1.0
+1964-1965,9,1964-09-19,Nott'ham Forest,Fulham,2,3,0.0
+1964-1965,9,1964-09-19,Tottenham,West Brom,1,0,1.0
+1964-1965,9,1964-09-19,Burnley,West Ham,3,2,1.0
+1964-1965,9,1964-09-19,Leicester City,Arsenal,2,3,0.0
+1964-1965,9,1964-09-19,Sunderland,Blackburn,1,0,1.0
+1964-1965,9,1964-09-19,Aston Villa,Sheffield Weds,2,0,1.0
+1964-1965,10,1964-09-23,Sheffield Weds,Burnley,5,1,1.0
+1964-1965,11,1964-09-26,Blackburn,Leicester City,3,1,1.0
+1964-1965,11,1964-09-26,West Ham,Sheffield Utd,3,1,1.0
+1964-1965,11,1964-09-26,Arsenal,Chelsea,1,3,0.0
+1964-1965,11,1964-09-26,Manchester Utd,Tottenham,4,1,1.0
+1964-1965,11,1964-09-26,Fulham,Stoke City,1,4,0.0
+1964-1965,11,1964-09-26,Blackpool,Sunderland,3,1,1.0
+1964-1965,11,1964-09-26,Liverpool,Aston Villa,5,1,1.0
+1964-1965,11,1964-09-26,Sheffield Weds,Wolves,2,0,1.0
+1964-1965,11,1964-09-26,West Brom,Burnley,1,2,0.0
+1964-1965,11,1964-09-26,Leeds United,Nott'ham Forest,1,2,0.0
+1964-1965,11,1964-09-26,Birmingham City,Everton,3,5,0.0
+1964-1965,10,1964-09-28,Blackpool,Tottenham,1,1,0.5
+1964-1965,10,1964-09-30,Chelsea,Manchester Utd,0,2,0.0
+1964-1965,10,1964-09-30,Leicester City,West Brom,4,2,1.0
+1964-1965,10,1964-09-30,Leeds United,Fulham,2,2,0.5
+1964-1965,10,1964-09-30,Wolves,Birmingham City,0,2,0.0
+1964-1965,12,1964-10-03,Everton,West Ham,1,1,0.5
+1964-1965,12,1964-10-03,Sheffield Utd,West Brom,1,1,0.5
+1964-1965,12,1964-10-03,Chelsea,Blackburn,5,1,1.0
+1964-1965,12,1964-10-03,Stoke City,Nott'ham Forest,1,1,0.5
+1964-1965,10,1964-10-05,Aston Villa,Everton,1,2,0.0
+1964-1965,12,1964-10-05,Tottenham,Fulham,3,0,1.0
+1964-1965,12,1964-10-05,Leicester City,Blackpool,3,2,1.0
+1964-1965,10,1964-10-06,Arsenal,Nott'ham Forest,0,3,0.0
+1964-1965,12,1964-10-06,Burnley,Manchester Utd,0,0,0.5
+1964-1965,10,1964-10-07,Blackburn,Stoke City,1,1,0.5
+1964-1965,10,1964-10-07,Liverpool,Sheffield Utd,3,1,1.0
+1964-1965,13,1964-10-10,West Brom,Wolves,5,1,1.0
+1964-1965,13,1964-10-10,Everton,Sheffield Weds,1,1,0.5
+1964-1965,13,1964-10-10,Sheffield Utd,Blackpool,1,3,0.0
+1964-1965,13,1964-10-10,Burnley,Blackburn,1,1,0.5
+1964-1965,13,1964-10-10,Fulham,Leicester City,5,2,1.0
+1964-1965,13,1964-10-10,Manchester Utd,Sunderland,1,0,1.0
+1964-1965,13,1964-10-10,West Ham,Aston Villa,3,0,1.0
+1964-1965,13,1964-10-10,Nott'ham Forest,Chelsea,2,2,0.5
+1964-1965,13,1964-10-10,Tottenham,Arsenal,3,1,1.0
+1964-1965,13,1964-10-10,Birmingham City,Liverpool,0,0,0.5
+1964-1965,13,1964-10-10,Stoke City,Leeds United,2,3,0.0
+1964-1965,8,1964-10-13,Liverpool,Leicester City,0,1,0.0
+1964-1965,14,1964-10-17,Aston Villa,West Brom,0,1,0.0
+1964-1965,14,1964-10-17,Sunderland,Fulham,0,0,0.5
+1964-1965,14,1964-10-17,Leicester City,Nott'ham Forest,3,2,1.0
+1964-1965,14,1964-10-17,Leeds United,Tottenham,3,1,1.0
+1964-1965,14,1964-10-17,Wolves,Manchester Utd,2,4,0.0
+1964-1965,14,1964-10-17,Arsenal,Burnley,3,2,1.0
+1964-1965,14,1964-10-17,Blackpool,Everton,1,1,0.5
+1964-1965,14,1964-10-17,Blackburn,Sheffield Utd,4,0,1.0
+1964-1965,14,1964-10-17,Chelsea,Stoke City,4,0,1.0
+1964-1965,14,1964-10-17,Liverpool,West Ham,2,2,0.5
+1964-1965,14,1964-10-17,Sheffield Weds,Birmingham City,5,2,1.0
+1964-1965,15,1964-10-24,West Brom,Liverpool,3,0,1.0
+1964-1965,15,1964-10-24,West Ham,Sheffield Weds,1,2,0.0
+1964-1965,15,1964-10-24,Burnley,Leeds United,0,1,0.0
+1964-1965,15,1964-10-24,Manchester Utd,Aston Villa,7,0,1.0
+1964-1965,15,1964-10-24,Fulham,Wolves,2,0,1.0
+1964-1965,15,1964-10-24,Stoke City,Leicester City,3,3,0.5
+1964-1965,15,1964-10-24,Everton,Blackburn,2,3,0.0
+1964-1965,15,1964-10-24,Nott'ham Forest,Sunderland,5,2,1.0
+1964-1965,15,1964-10-24,Sheffield Utd,Arsenal,4,0,1.0
+1964-1965,15,1964-10-24,Birmingham City,Blackpool,3,0,1.0
+1964-1965,15,1964-10-24,Tottenham,Chelsea,1,1,0.5
+1964-1965,16,1964-10-31,Leeds United,Sheffield Utd,4,1,1.0
+1964-1965,16,1964-10-31,Sunderland,Stoke City,2,2,0.5
+1964-1965,16,1964-10-31,Liverpool,Manchester Utd,0,2,0.0
+1964-1965,16,1964-10-31,Blackburn,Birmingham City,3,1,1.0
+1964-1965,16,1964-10-31,Arsenal,Everton,3,1,1.0
+1964-1965,16,1964-10-31,Leicester City,Tottenham,4,2,1.0
+1964-1965,16,1964-10-31,Wolves,Nott'ham Forest,1,2,0.0
+1964-1965,16,1964-10-31,Chelsea,Burnley,0,1,0.0
+1964-1965,16,1964-10-31,Sheffield Weds,West Brom,1,1,0.5
+1964-1965,16,1964-10-31,Aston Villa,Fulham,2,0,1.0
+1964-1965,16,1964-10-31,Blackpool,West Ham,1,2,0.0
+1964-1965,17,1964-11-07,Burnley,Leicester City,2,1,1.0
+1964-1965,17,1964-11-07,Nott'ham Forest,Aston Villa,4,2,1.0
+1964-1965,17,1964-11-07,West Ham,Blackburn,1,1,0.5
+1964-1965,17,1964-11-07,Manchester Utd,Sheffield Weds,1,0,1.0
+1964-1965,17,1964-11-07,Everton,Leeds United,0,1,0.0
+1964-1965,17,1964-11-07,Birmingham City,Arsenal,2,3,0.0
+1964-1965,17,1964-11-07,Sheffield Utd,Chelsea,0,2,0.0
+1964-1965,17,1964-11-07,Stoke City,Wolves,0,2,0.0
+1964-1965,17,1964-11-07,West Brom,Blackpool,1,3,0.0
+1964-1965,17,1964-11-07,Fulham,Liverpool,1,1,0.5
+1964-1965,17,1964-11-07,Tottenham,Sunderland,3,0,1.0
+1964-1965,12,1964-11-11,Leeds United,Arsenal,3,1,1.0
+1964-1965,18,1964-11-14,Chelsea,Everton,5,1,1.0
+1964-1965,18,1964-11-14,Arsenal,West Ham,0,3,0.0
+1964-1965,18,1964-11-14,Liverpool,Nott'ham Forest,2,0,1.0
+1964-1965,18,1964-11-14,Wolves,Tottenham,3,1,1.0
+1964-1965,18,1964-11-14,Sheffield Weds,Fulham,1,1,0.5
+1964-1965,18,1964-11-14,Leeds United,Birmingham City,4,1,1.0
+1964-1965,18,1964-11-14,Leicester City,Sheffield Utd,0,2,0.0
+1964-1965,18,1964-11-14,Blackpool,Manchester Utd,1,2,0.0
+1964-1965,18,1964-11-14,Sunderland,Burnley,3,2,1.0
+1964-1965,18,1964-11-14,Aston Villa,Stoke City,3,0,1.0
+1964-1965,18,1964-11-14,Blackburn,West Brom,4,2,1.0
+1964-1965,19,1964-11-21,West Brom,Arsenal,0,0,0.5
+1964-1965,19,1964-11-21,Stoke City,Liverpool,1,1,0.5
+1964-1965,19,1964-11-21,Manchester Utd,Blackburn,3,0,1.0
+1964-1965,19,1964-11-21,Fulham,Blackpool,3,3,0.5
+1964-1965,19,1964-11-21,Birmingham City,Chelsea,1,6,0.0
+1964-1965,19,1964-11-21,Sheffield Utd,Sunderland,3,0,1.0
+1964-1965,19,1964-11-21,Nott'ham Forest,Sheffield Weds,2,2,0.5
+1964-1965,19,1964-11-21,Tottenham,Aston Villa,4,0,1.0
+1964-1965,19,1964-11-21,West Ham,Leeds United,3,1,1.0
+1964-1965,19,1964-11-21,Burnley,Wolves,1,1,0.5
+1964-1965,19,1964-11-21,Everton,Leicester City,2,2,0.5
+1964-1965,20,1964-11-28,Sunderland,Everton,4,0,1.0
+1964-1965,20,1964-11-28,Arsenal,Manchester Utd,2,3,0.0
+1964-1965,20,1964-11-28,Leeds United,West Brom,1,0,1.0
+1964-1965,20,1964-11-28,Aston Villa,Burnley,1,0,1.0
+1964-1965,20,1964-11-28,Liverpool,Tottenham,1,1,0.5
+1964-1965,20,1964-11-28,Sheffield Weds,Stoke City,1,1,0.5
+1964-1965,20,1964-11-28,Blackpool,Nott'ham Forest,0,2,0.0
+1964-1965,20,1964-11-28,Blackburn,Fulham,2,0,1.0
+1964-1965,20,1964-11-28,Chelsea,West Ham,0,3,0.0
+1964-1965,20,1964-11-28,Wolves,Sheffield Utd,1,0,1.0
+1964-1965,20,1964-11-28,Leicester City,Birmingham City,4,4,0.5
+1964-1965,21,1964-12-05,Sheffield Utd,Aston Villa,4,2,1.0
+1964-1965,21,1964-12-05,West Brom,Chelsea,0,2,0.0
+1964-1965,21,1964-12-05,Tottenham,Sheffield Weds,3,2,1.0
+1964-1965,21,1964-12-05,Burnley,Liverpool,1,5,0.0
+1964-1965,21,1964-12-05,Stoke City,Blackpool,4,2,1.0
+1964-1965,21,1964-12-05,Birmingham City,Sunderland,4,3,1.0
+1964-1965,21,1964-12-05,Everton,Wolves,5,0,1.0
+1964-1965,21,1964-12-05,West Ham,Leicester City,0,0,0.5
+1964-1965,21,1964-12-05,Fulham,Arsenal,3,4,0.0
+1964-1965,21,1964-12-05,Nott'ham Forest,Blackburn,2,5,0.0
+1964-1965,21,1964-12-05,Manchester Utd,Leeds United,0,1,0.0
+1964-1965,22,1964-12-12,Arsenal,Liverpool,0,0,0.5
+1964-1965,22,1964-12-12,West Brom,Manchester Utd,1,1,0.5
+1964-1965,22,1964-12-12,Leeds United,Aston Villa,1,0,1.0
+1964-1965,22,1964-12-12,Chelsea,Wolves,2,1,1.0
+1964-1965,22,1964-12-12,Birmingham City,Nott'ham Forest,1,1,0.5
+1964-1965,22,1964-12-12,Blackpool,Burnley,2,4,0.0
+1964-1965,22,1964-12-12,Leicester City,Sunderland,0,1,0.0
+1964-1965,22,1964-12-12,West Ham,Fulham,2,0,1.0
+1964-1965,22,1964-12-12,Sheffield Utd,Tottenham,3,3,0.5
+1964-1965,22,1964-12-12,Everton,Stoke City,1,1,0.5
+1964-1965,39,1964-12-16,Manchester Utd,Birmingham City,1,1,0.5
+1964-1965,23,1964-12-19,Wolves,Leeds United,0,1,0.0
+1964-1965,23,1964-12-19,Sheffield Weds,Blackpool,4,1,1.0
+1964-1965,23,1964-12-19,Aston Villa,Arsenal,3,1,1.0
+1964-1965,23,1964-12-19,Burnley,Sheffield Utd,3,1,1.0
+1964-1965,23,1964-12-19,Tottenham,Everton,2,2,0.5
+1964-1965,23,1964-12-19,Nott'ham Forest,West Ham,3,2,1.0
+1964-1965,23,1964-12-19,Liverpool,Blackburn,3,2,1.0
+1964-1965,23,1964-12-19,Fulham,West Brom,3,1,1.0
+1964-1965,23,1964-12-19,Sunderland,Chelsea,3,0,1.0
+1964-1965,24,1964-12-26,Leicester City,Sheffield Weds,2,2,0.5
+1964-1965,24,1964-12-26,Burnley,Fulham,4,0,1.0
+1964-1965,24,1964-12-26,Nott'ham Forest,Tottenham,1,2,0.0
+1964-1965,24,1964-12-26,Everton,West Brom,3,2,1.0
+1964-1965,24,1964-12-26,Chelsea,Blackpool,2,0,1.0
+1964-1965,24,1964-12-26,Arsenal,Stoke City,3,2,1.0
+1964-1965,24,1964-12-26,Leeds United,Blackburn,1,1,0.5
+1964-1965,24,1964-12-26,Wolves,Aston Villa,0,1,0.0
+1964-1965,24,1964-12-26,Sheffield Utd,Manchester Utd,0,1,0.0
+1964-1965,24,1964-12-26,Sunderland,Liverpool,2,3,0.0
+1964-1965,24,1964-12-26,Birmingham City,West Ham,2,1,1.0
+1964-1965,25,1964-12-28,Fulham,Burnley,0,1,0.0
+1964-1965,25,1964-12-28,Liverpool,Sunderland,0,0,0.5
+1964-1965,25,1964-12-28,Tottenham,Nott'ham Forest,4,0,1.0
+1964-1965,25,1964-12-28,Manchester Utd,Sheffield Utd,1,1,0.5
+1964-1965,25,1964-12-28,Sheffield Weds,Leicester City,0,0,0.5
+1964-1965,25,1964-12-28,West Ham,Birmingham City,2,1,1.0
+1964-1965,25,1964-12-28,Blackburn,Leeds United,0,2,0.0
+1964-1965,25,1964-12-28,Stoke City,Arsenal,4,1,1.0
+1964-1965,26,1965-01-02,Arsenal,Wolves,4,1,1.0
+1964-1965,26,1965-01-02,Everton,Burnley,2,1,1.0
+1964-1965,26,1965-01-02,West Brom,Nott'ham Forest,2,2,0.5
+1964-1965,26,1965-01-02,Birmingham City,Tottenham,1,0,1.0
+1964-1965,26,1965-01-02,Leeds United,Sunderland,2,1,1.0
+1964-1965,26,1965-01-02,Chelsea,Leicester City,4,1,1.0
+1964-1965,26,1965-01-02,West Ham,Stoke City,0,1,0.0
+1964-1965,26,1965-01-02,Blackpool,Liverpool,2,3,0.0
+1964-1965,26,1965-01-02,Blackburn,Aston Villa,5,1,1.0
+1964-1965,26,1965-01-02,Sheffield Utd,Sheffield Weds,2,3,0.0
+1964-1965,27,1965-01-16,Nott'ham Forest,Manchester Utd,2,2,0.5
+1964-1965,27,1965-01-16,Tottenham,West Ham,3,2,1.0
+1964-1965,27,1965-01-16,Stoke City,West Brom,2,0,1.0
+1964-1965,27,1965-01-16,Aston Villa,Blackpool,3,2,1.0
+1964-1965,27,1965-01-16,Burnley,Birmingham City,2,0,1.0
+1964-1965,27,1965-01-16,Sunderland,Arsenal,0,2,0.0
+1964-1965,27,1965-01-16,Sheffield Utd,Everton,0,0,0.5
+1964-1965,27,1965-01-16,Leicester City,Leeds United,2,2,0.5
+1964-1965,27,1965-01-16,Liverpool,Sheffield Weds,4,2,1.0
+1964-1965,27,1965-01-16,Wolves,Blackburn,4,2,1.0
+1964-1965,27,1965-01-16,Fulham,Chelsea,1,2,0.0
+1964-1965,28,1965-01-23,Leeds United,Chelsea,2,2,0.5
+1964-1965,28,1965-01-23,West Brom,Tottenham,2,0,1.0
+1964-1965,28,1965-01-23,Blackpool,Wolves,1,1,0.5
+1964-1965,28,1965-01-23,Manchester Utd,Stoke City,1,1,0.5
+1964-1965,28,1965-01-23,Birmingham City,Sheffield Utd,1,1,0.5
+1964-1965,28,1965-01-23,West Ham,Burnley,3,2,1.0
+1964-1965,28,1965-01-23,Fulham,Nott'ham Forest,4,1,1.0
+1964-1965,28,1965-01-23,Arsenal,Leicester City,4,3,1.0
+1964-1965,22,1965-01-29,Blackburn,Sheffield Weds,0,1,0.0
+1964-1965,29,1965-02-06,Everton,Birmingham City,1,1,0.5
+1964-1965,29,1965-02-06,Chelsea,Arsenal,2,1,1.0
+1964-1965,29,1965-02-06,Stoke City,Fulham,3,1,1.0
+1964-1965,29,1965-02-06,Nott'ham Forest,Leeds United,0,0,0.5
+1964-1965,29,1965-02-06,Sunderland,Blackpool,1,0,1.0
+1964-1965,29,1965-02-06,Sheffield Utd,West Ham,2,1,1.0
+1964-1965,29,1965-02-06,Leicester City,Blackburn,2,3,0.0
+1964-1965,29,1965-02-06,Tottenham,Manchester Utd,1,0,1.0
+1964-1965,29,1965-02-06,Wolves,Sheffield Weds,3,1,1.0
+1964-1965,29,1965-02-06,Burnley,West Brom,0,1,0.0
+1964-1965,29,1965-02-06,Aston Villa,Liverpool,0,1,0.0
+1964-1965,30,1965-02-13,West Brom,Sheffield Utd,0,1,0.0
+1964-1965,30,1965-02-13,Birmingham City,Aston Villa,0,1,0.0
+1964-1965,30,1965-02-13,Fulham,Tottenham,4,1,1.0
+1964-1965,30,1965-02-13,Arsenal,Leeds United,1,2,0.0
+1964-1965,30,1965-02-13,Blackpool,Leicester City,1,1,0.5
+1964-1965,30,1965-02-13,Nott'ham Forest,Stoke City,3,1,1.0
+1964-1965,30,1965-02-13,Liverpool,Wolves,2,1,1.0
+1964-1965,30,1965-02-13,West Ham,Everton,0,1,0.0
+1964-1965,30,1965-02-13,Sheffield Weds,Sunderland,2,0,1.0
+1964-1965,30,1965-02-13,Blackburn,Chelsea,0,3,0.0
+1964-1965,30,1965-02-13,Manchester Utd,Burnley,3,2,1.0
+1964-1965,10,1965-02-20,Sunderland,West Ham,3,2,1.0
+1964-1965,31,1965-02-20,Blackpool,Sheffield Utd,2,2,0.5
+1964-1965,31,1965-02-20,Sheffield Weds,Everton,0,1,0.0
+1964-1965,40,1965-02-20,Arsenal,Fulham,2,0,1.0
+1964-1965,31,1965-02-22,Chelsea,Nott'ham Forest,0,1,0.0
+1964-1965,31,1965-02-23,Arsenal,Tottenham,3,1,1.0
+1964-1965,31,1965-02-24,Liverpool,Birmingham City,4,3,1.0
+1964-1965,31,1965-02-24,Blackburn,Burnley,1,4,0.0
+1964-1965,31,1965-02-24,Sunderland,Manchester Utd,1,0,1.0
+1964-1965,31,1965-02-24,Leicester City,Fulham,5,1,1.0
+1964-1965,32,1965-02-27,West Brom,Aston Villa,3,1,1.0
+1964-1965,32,1965-02-27,Stoke City,Chelsea,0,2,0.0
+1964-1965,32,1965-02-27,Manchester Utd,Wolves,3,0,1.0
+1964-1965,32,1965-02-27,Sheffield Utd,Blackburn,1,1,0.5
+1964-1965,32,1965-02-27,Birmingham City,Sheffield Weds,0,0,0.5
+1964-1965,32,1965-02-27,Nott'ham Forest,Leicester City,2,1,1.0
+1964-1965,32,1965-02-27,West Ham,Liverpool,2,1,1.0
+1964-1965,32,1965-02-27,Everton,Blackpool,0,0,0.5
+1964-1965,32,1965-02-27,Burnley,Arsenal,2,1,1.0
+1964-1965,32,1965-02-27,Tottenham,Leeds United,0,0,0.5
+1964-1965,32,1965-02-27,Fulham,Sunderland,1,0,1.0
+1964-1965,33,1965-03-06,Blackburn,Everton,0,2,0.0
+1964-1965,33,1965-03-06,Blackpool,Birmingham City,3,1,1.0
+1964-1965,33,1965-03-06,Arsenal,Sheffield Utd,1,1,0.5
+1964-1965,33,1965-03-06,Sunderland,Nott'ham Forest,4,0,1.0
+1964-1965,33,1965-03-06,Sheffield Weds,West Ham,2,0,1.0
+1964-1965,33,1965-03-10,Chelsea,Tottenham,3,1,1.0
+1964-1965,34,1965-03-13,Everton,Aston Villa,3,1,1.0
+1964-1965,34,1965-03-13,West Brom,Leicester City,6,0,1.0
+1964-1965,34,1965-03-13,Nott'ham Forest,Arsenal,3,0,1.0
+1964-1965,34,1965-03-13,Stoke City,Blackburn,1,1,0.5
+1964-1965,34,1965-03-13,Fulham,Leeds United,2,2,0.5
+1964-1965,34,1965-03-13,Manchester Utd,Chelsea,4,0,1.0
+1964-1965,34,1965-03-13,Sheffield Utd,Liverpool,3,0,1.0
+1964-1965,34,1965-03-13,Tottenham,Blackpool,4,1,1.0
+1964-1965,34,1965-03-13,Burnley,Sheffield Weds,4,1,1.0
+1964-1965,34,1965-03-13,Birmingham City,Wolves,0,1,0.0
+1964-1965,34,1965-03-13,West Ham,Sunderland,2,3,0.0
+1964-1965,26,1965-03-15,Manchester Utd,Fulham,4,1,1.0
+1964-1965,28,1965-03-15,Sheffield Weds,Aston Villa,3,1,1.0
+1964-1965,31,1965-03-15,Wolves,West Brom,3,2,1.0
+1964-1965,33,1965-03-15,Leeds United,Burnley,5,1,1.0
+1964-1965,23,1965-03-17,Stoke City,Birmingham City,2,1,1.0
+1964-1965,35,1965-03-20,Blackpool,West Brom,3,0,1.0
+1964-1965,35,1965-03-20,Aston Villa,Nott'ham Forest,2,1,1.0
+1964-1965,35,1965-03-20,Sheffield Weds,Manchester Utd,1,0,1.0
+1964-1965,35,1965-03-20,Blackburn,West Ham,4,0,1.0
+1964-1965,35,1965-03-20,Wolves,Stoke City,3,1,1.0
+1964-1965,35,1965-03-20,Liverpool,Fulham,3,2,1.0
+1964-1965,35,1965-03-20,Leicester City,Burnley,0,2,0.0
+1964-1965,35,1965-03-20,Sunderland,Tottenham,2,1,1.0
+1964-1965,35,1965-03-20,Leeds United,Everton,4,1,1.0
+1964-1965,25,1965-03-22,Aston Villa,Wolves,3,2,1.0
+1964-1965,35,1965-03-22,Chelsea,Sheffield Utd,3,0,1.0
+1964-1965,36,1965-03-22,Manchester Utd,Blackpool,2,0,1.0
+1964-1965,25,1965-03-23,West Brom,Everton,4,0,1.0
+1964-1965,28,1965-03-23,Blackburn,Sunderland,3,2,1.0
+1964-1965,36,1965-03-26,West Brom,Blackburn,0,0,0.5
+1964-1965,36,1965-03-26,Sheffield Utd,Leicester City,0,2,0.0
+1964-1965,36,1965-03-27,Fulham,Sheffield Weds,2,0,1.0
+1964-1965,36,1965-03-27,Burnley,Sunderland,0,0,0.5
+1964-1965,36,1965-03-27,Tottenham,Wolves,7,4,1.0
+1964-1965,36,1965-03-27,Stoke City,Aston Villa,2,1,1.0
+1964-1965,36,1965-03-27,West Ham,Arsenal,2,1,1.0
+1964-1965,33,1965-03-30,Wolves,Fulham,0,0,0.5
+1964-1965,31,1965-03-31,Aston Villa,West Ham,2,3,0.0
+1964-1965,36,1965-03-31,Everton,Chelsea,1,1,0.5
+1964-1965,36,1965-04-01,Nott'ham Forest,Liverpool,2,2,0.5
+1964-1965,37,1965-04-03,Blackburn,Manchester Utd,0,5,0.0
+1964-1965,37,1965-04-03,Liverpool,Stoke City,3,2,1.0
+1964-1965,37,1965-04-03,Aston Villa,Tottenham,1,0,1.0
+1964-1965,37,1965-04-03,Blackpool,Fulham,3,0,1.0
+1964-1965,37,1965-04-03,Sheffield Weds,Nott'ham Forest,0,0,0.5
+1964-1965,37,1965-04-03,Wolves,Burnley,1,2,0.0
+1964-1965,37,1965-04-03,Sunderland,Sheffield Utd,3,1,1.0
+1964-1965,37,1965-04-03,Leicester City,Everton,2,1,1.0
+1964-1965,37,1965-04-03,Leeds United,West Ham,2,1,1.0
+1964-1965,37,1965-04-03,Arsenal,West Brom,1,1,0.5
+1964-1965,37,1965-04-03,Chelsea,Birmingham City,3,1,1.0
+1964-1965,31,1965-04-05,Leeds United,Stoke City,3,1,1.0
+1964-1965,33,1965-04-06,Liverpool,West Brom,0,3,0.0
+1964-1965,35,1965-04-06,Arsenal,Birmingham City,3,0,1.0
+1964-1965,38,1965-04-09,Fulham,Blackburn,3,2,1.0
+1964-1965,38,1965-04-09,Tottenham,Liverpool,3,0,1.0
+1964-1965,38,1965-04-10,Burnley,Aston Villa,2,2,0.5
+1964-1965,38,1965-04-10,Stoke City,Sheffield Weds,4,1,1.0
+1964-1965,38,1965-04-10,Sheffield Utd,Wolves,0,2,0.0
+1964-1965,38,1965-04-10,Everton,Sunderland,1,1,0.5
+1964-1965,38,1965-04-10,Nott'ham Forest,Blackpool,2,0,1.0
+1964-1965,38,1965-04-10,Birmingham City,Leicester City,2,0,1.0
+1964-1965,12,1965-04-12,Aston Villa,Birmingham City,3,0,1.0
+1964-1965,23,1965-04-12,Manchester Utd,Leicester City,1,0,1.0
+1964-1965,28,1965-04-12,Everton,Liverpool,2,1,1.0
+1964-1965,38,1965-04-12,West Ham,Chelsea,3,2,1.0
+1964-1965,38,1965-04-12,West Brom,Leeds United,1,2,0.0
+1964-1965,39,1965-04-16,Blackpool,Arsenal,1,1,0.5
+1964-1965,39,1965-04-16,Everton,Fulham,2,0,1.0
+1964-1965,39,1965-04-16,West Ham,West Brom,6,1,1.0
+1964-1965,39,1965-04-16,Tottenham,Blackburn,5,2,1.0
+1964-1965,39,1965-04-16,Sunderland,Wolves,1,2,0.0
+1964-1965,39,1965-04-16,Chelsea,Liverpool,4,0,1.0
+1964-1965,40,1965-04-17,Leeds United,Manchester Utd,0,1,0.0
+1964-1965,40,1965-04-17,Liverpool,Burnley,1,1,0.5
+1964-1965,40,1965-04-17,Leicester City,West Ham,1,0,1.0
+1964-1965,40,1965-04-17,Blackpool,Stoke City,1,1,0.5
+1964-1965,40,1965-04-17,Aston Villa,Sheffield Utd,2,1,1.0
+1964-1965,40,1965-04-17,Sunderland,Birmingham City,2,1,1.0
+1964-1965,40,1965-04-17,Sheffield Weds,Tottenham,1,0,1.0
+1964-1965,40,1965-04-17,Chelsea,West Brom,2,2,0.5
+1964-1965,40,1965-04-17,Wolves,Everton,2,4,0.0
+1964-1965,41,1965-04-19,Liverpool,Chelsea,2,0,1.0
+1964-1965,41,1965-04-19,Fulham,Everton,1,1,0.5
+1964-1965,41,1965-04-19,Leicester City,Aston Villa,1,1,0.5
+1964-1965,41,1965-04-19,Arsenal,Blackpool,3,1,1.0
+1964-1965,41,1965-04-19,Blackburn,Tottenham,3,1,1.0
+1964-1965,41,1965-04-19,Sheffield Weds,Leeds United,3,0,1.0
+1964-1965,41,1965-04-19,Birmingham City,Manchester Utd,2,4,0.0
+1964-1965,41,1965-04-19,Stoke City,Burnley,2,0,1.0
+1964-1965,41,1965-04-19,Nott'ham Forest,Sheffield Utd,0,0,0.5
+1964-1965,41,1965-04-19,West Brom,West Ham,4,2,1.0
+1964-1965,39,1965-04-20,Sheffield Utd,Nott'ham Forest,0,2,0.0
+1964-1965,39,1965-04-20,Leeds United,Sheffield Weds,2,0,1.0
+1964-1965,39,1965-04-20,Aston Villa,Leicester City,1,0,1.0
+1964-1965,39,1965-04-20,Burnley,Stoke City,1,0,1.0
+1964-1965,41,1965-04-20,Wolves,Sunderland,3,0,1.0
+1964-1965,42,1965-04-23,West Ham,Blackpool,2,1,1.0
+1964-1965,42,1965-04-24,Manchester Utd,Liverpool,3,0,1.0
+1964-1965,42,1965-04-24,Nott'ham Forest,Wolves,0,2,0.0
+1964-1965,42,1965-04-24,West Brom,Sheffield Weds,1,0,1.0
+1964-1965,42,1965-04-24,Sheffield Utd,Leeds United,0,3,0.0
+1964-1965,42,1965-04-24,Burnley,Chelsea,6,2,1.0
+1964-1965,42,1965-04-24,Fulham,Aston Villa,1,1,0.5
+1964-1965,42,1965-04-24,Birmingham City,Blackburn,5,5,0.5
+1964-1965,42,1965-04-24,Everton,Arsenal,1,0,1.0
+1964-1965,42,1965-04-24,Tottenham,Leicester City,6,2,1.0
+1964-1965,42,1965-04-24,Stoke City,Sunderland,3,1,1.0
+1964-1965,12,1965-04-26,Wolves,Liverpool,1,3,0.0
+1964-1965,25,1965-04-26,Blackpool,Chelsea,3,2,1.0
+1964-1965,33,1965-04-26,Leicester City,Stoke City,0,1,0.0
+1964-1965,36,1965-04-26,Birmingham City,Leeds United,3,3,0.5
+1964-1965,38,1965-04-26,Manchester Utd,Arsenal,3,1,1.0
+1964-1965,40,1965-04-27,Blackburn,Nott'ham Forest,1,1,0.5
+1964-1965,12,1965-04-28,Sunderland,Sheffield Weds,3,0,1.0
+1964-1965,33,1965-04-28,Aston Villa,Manchester Utd,2,1,1.0

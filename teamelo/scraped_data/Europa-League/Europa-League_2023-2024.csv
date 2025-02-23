@@ -1,0 +1,142 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2023-2024,Group stage,1,2023-09-21,Servette FC,Slavia Prague,ch,cz,0,2,0.0
+2023-2024,Group stage,1,2023-09-21,LASK,Liverpool,at,eng,1,3,0.0
+2023-2024,Group stage,1,2023-09-21,Leverkusen,Häcken,de,se,4,0,1.0
+2023-2024,Group stage,1,2023-09-21,Rennes,Maccabi Haifa,fr,il,3,0,1.0
+2023-2024,Group stage,1,2023-09-21,Union SG,Toulouse,be,fr,1,1,0.5
+2023-2024,Group stage,1,2023-09-21,Panathinaikos,Villarreal,gr,es,2,0,1.0
+2023-2024,Group stage,1,2023-09-21,Sheriff Tiraspol,Roma,md,it,1,2,0.0
+2023-2024,Group stage,1,2023-09-21,Rangers,Betis,sct,es,1,0,1.0
+2023-2024,Group stage,1,2023-09-21,Brighton,AEK Athens,eng,gr,2,3,0.0
+2023-2024,Group stage,1,2023-09-21,West Ham,TSC Bačka Top,eng,rs,3,1,1.0
+2023-2024,Group stage,1,2023-09-21,Qarabağ,Molde,az,no,1,0,1.0
+2023-2024,Group stage,1,2023-09-21,Atalanta,RKS Raków,it,pl,2,0,1.0
+2023-2024,Group stage,1,2023-09-21,Sturm Graz,Sporting CP,at,pt,1,2,0.0
+2023-2024,Group stage,1,2023-09-21,Ajax,Marseille,nl,fr,3,3,0.5
+2023-2024,Group stage,1,2023-09-21,Sparta Prague,Aris Limassol FC,cz,cy,3,2,1.0
+2023-2024,Group stage,1,2023-09-21,Olympiacos,Freiburg,gr,de,2,3,0.0
+2023-2024,Group stage,2,2023-10-05,Sporting CP,Atalanta,pt,it,1,2,0.0
+2023-2024,Group stage,2,2023-10-05,Marseille,Brighton,fr,eng,2,2,0.5
+2023-2024,Group stage,2,2023-10-05,Freiburg,West Ham,de,eng,1,2,0.0
+2023-2024,Group stage,2,2023-10-05,RKS Raków,Sturm Graz,pl,at,0,1,0.0
+2023-2024,Group stage,2,2023-10-05,TSC Bačka Top,Olympiacos,rs,gr,2,2,0.5
+2023-2024,Group stage,2,2023-10-05,Betis,Sparta Prague,es,cz,2,1,1.0
+2023-2024,Group stage,2,2023-10-05,Aris Limassol FC,Rangers,cy,sct,2,1,1.0
+2023-2024,Group stage,2,2023-10-05,AEK Athens,Ajax,gr,nl,1,1,0.5
+2023-2024,Group stage,2,2023-10-05,Liverpool,Union SG,eng,be,2,0,1.0
+2023-2024,Group stage,2,2023-10-05,Slavia Prague,Sheriff Tiraspol,cz,md,6,0,1.0
+2023-2024,Group stage,2,2023-10-05,Toulouse,LASK,fr,at,1,0,1.0
+2023-2024,Group stage,2,2023-10-05,Villarreal,Rennes,es,fr,1,0,1.0
+2023-2024,Group stage,2,2023-10-05,Häcken,Qarabağ,se,az,0,1,0.0
+2023-2024,Group stage,2,2023-10-05,Roma,Servette FC,it,ch,4,0,1.0
+2023-2024,Group stage,2,2023-10-05,Molde,Leverkusen,no,de,1,2,0.0
+2023-2024,Group stage,2,2023-10-05,Maccabi Haifa,Panathinaikos,il,gr,0,0,0.5
+2023-2024,Group stage,3,2023-10-26,TSC Bačka Top,Freiburg,rs,de,1,3,0.0
+2023-2024,Group stage,3,2023-10-26,Marseille,AEK Athens,fr,gr,3,1,1.0
+2023-2024,Group stage,3,2023-10-26,Molde,Häcken,no,se,5,1,1.0
+2023-2024,Group stage,3,2023-10-26,Sparta Prague,Rangers,cz,sct,0,0,0.5
+2023-2024,Group stage,3,2023-10-26,Sturm Graz,Atalanta,at,it,2,2,0.5
+2023-2024,Group stage,3,2023-10-26,RKS Raków,Sporting CP,pl,pt,1,1,0.5
+2023-2024,Group stage,3,2023-10-26,Aris Limassol FC,Betis,cy,es,0,1,0.0
+2023-2024,Group stage,3,2023-10-26,Olympiacos,West Ham,gr,eng,2,1,1.0
+2023-2024,Group stage,3,2023-10-26,Liverpool,Toulouse,eng,fr,5,1,1.0
+2023-2024,Group stage,3,2023-10-26,Brighton,Ajax,eng,nl,2,0,1.0
+2023-2024,Group stage,3,2023-10-26,Leverkusen,Qarabağ,de,az,5,1,1.0
+2023-2024,Group stage,3,2023-10-26,Roma,Slavia Prague,it,cz,2,0,1.0
+2023-2024,Group stage,3,2023-10-26,Union SG,LASK,be,at,2,1,1.0
+2023-2024,Group stage,3,2023-10-26,Panathinaikos,Rennes,gr,fr,1,2,0.0
+2023-2024,Group stage,3,2023-10-26,Sheriff Tiraspol,Servette FC,md,ch,1,1,0.5
+2023-2024,Group stage,4,2023-11-09,Slavia Prague,Roma,cz,it,2,0,1.0
+2023-2024,Group stage,4,2023-11-09,Ajax,Brighton,nl,eng,0,2,0.0
+2023-2024,Group stage,4,2023-11-09,Rennes,Panathinaikos,fr,gr,3,1,1.0
+2023-2024,Group stage,4,2023-11-09,LASK,Union SG,at,be,3,0,1.0
+2023-2024,Group stage,4,2023-11-09,Toulouse,Liverpool,fr,eng,3,2,1.0
+2023-2024,Group stage,4,2023-11-09,Servette FC,Sheriff Tiraspol,ch,md,2,1,1.0
+2023-2024,Group stage,4,2023-11-09,Maccabi Haifa,Villarreal,il,es,1,2,0.0
+2023-2024,Group stage,4,2023-11-09,Rangers,Sparta Prague,sct,cz,2,1,1.0
+2023-2024,Group stage,4,2023-11-09,Sporting CP,RKS Raków,pt,pl,2,1,1.0
+2023-2024,Group stage,4,2023-11-09,West Ham,Olympiacos,eng,gr,1,0,1.0
+2023-2024,Group stage,4,2023-11-09,Freiburg,TSC Bačka Top,de,rs,5,0,1.0
+2023-2024,Group stage,4,2023-11-09,Atalanta,Sturm Graz,it,at,1,0,1.0
+2023-2024,Group stage,4,2023-11-09,Betis,Aris Limassol FC,es,cy,4,1,1.0
+2023-2024,Group stage,4,2023-11-09,Häcken,Molde,se,no,1,3,0.0
+2023-2024,Group stage,4,2023-11-09,Qarabağ,Leverkusen,az,de,0,1,0.0
+2023-2024,Group stage,4,2023-11-09,AEK Athens,Marseille,gr,fr,0,2,0.0
+2023-2024,Group stage,5,2023-11-30,Sparta Prague,Betis,cz,es,1,0,1.0
+2023-2024,Group stage,5,2023-11-30,Freiburg,Olympiacos,de,gr,5,0,1.0
+2023-2024,Group stage,5,2023-11-30,Atalanta,Sporting CP,it,pt,1,1,0.5
+2023-2024,Group stage,5,2023-11-30,Sturm Graz,RKS Raków,at,pl,0,1,0.0
+2023-2024,Group stage,5,2023-11-30,TSC Bačka Top,West Ham,rs,eng,0,1,0.0
+2023-2024,Group stage,5,2023-11-30,AEK Athens,Brighton,gr,eng,0,1,0.0
+2023-2024,Group stage,5,2023-11-30,Maccabi Haifa,Rennes,il,fr,0,3,0.0
+2023-2024,Group stage,5,2023-11-30,Rangers,Aris Limassol FC,sct,cy,1,1,0.5
+2023-2024,Group stage,5,2023-11-30,Liverpool,LASK,eng,at,4,0,1.0
+2023-2024,Group stage,5,2023-11-30,Häcken,Leverkusen,se,de,0,2,0.0
+2023-2024,Group stage,5,2023-11-30,Toulouse,Union SG,fr,be,0,0,0.5
+2023-2024,Group stage,5,2023-11-30,Servette FC,Roma,ch,it,1,1,0.5
+2023-2024,Group stage,5,2023-11-30,Molde,Qarabağ,no,az,2,2,0.5
+2023-2024,Group stage,5,2023-11-30,Villarreal,Panathinaikos,es,gr,3,2,1.0
+2023-2024,Group stage,5,2023-11-30,Marseille,Ajax,fr,nl,4,3,1.0
+2023-2024,Group stage,5,2023-11-30,Sheriff Tiraspol,Slavia Prague,md,cz,2,3,0.0
+2023-2024,Group stage,3,2023-12-06,Villarreal,Maccabi Haifa,es,il,0,0,0.5
+2023-2024,Group stage,6,2023-12-14,Slavia Prague,Servette FC,cz,ch,4,0,1.0
+2023-2024,Group stage,6,2023-12-14,Leverkusen,Molde,de,no,5,1,1.0
+2023-2024,Group stage,6,2023-12-14,Rennes,Villarreal,fr,es,2,3,0.0
+2023-2024,Group stage,6,2023-12-14,Union SG,Liverpool,be,eng,2,1,1.0
+2023-2024,Group stage,6,2023-12-14,Roma,Sheriff Tiraspol,it,md,3,0,1.0
+2023-2024,Group stage,6,2023-12-14,LASK,Toulouse,at,fr,1,2,0.0
+2023-2024,Group stage,6,2023-12-14,Panathinaikos,Maccabi Haifa,gr,il,1,2,0.0
+2023-2024,Group stage,6,2023-12-14,West Ham,Freiburg,eng,de,2,0,1.0
+2023-2024,Group stage,6,2023-12-14,Sporting CP,Sturm Graz,pt,at,3,0,1.0
+2023-2024,Group stage,6,2023-12-14,Brighton,Marseille,eng,fr,1,0,1.0
+2023-2024,Group stage,6,2023-12-14,RKS Raków,Atalanta,pl,it,0,4,0.0
+2023-2024,Group stage,6,2023-12-14,Ajax,AEK Athens,nl,gr,3,1,1.0
+2023-2024,Group stage,6,2023-12-14,Betis,Rangers,es,sct,2,3,0.0
+2023-2024,Group stage,6,2023-12-14,Qarabağ,Häcken,az,se,2,1,1.0
+2023-2024,Group stage,6,2023-12-14,Olympiacos,TSC Bačka Top,gr,rs,5,2,1.0
+2023-2024,Group stage,6,2023-12-14,Aris Limassol FC,Sparta Prague,cy,cz,1,3,0.0
+2023-2024,Knockout round play-offs,,2024-02-15,Young Boys,Sporting CP,ch,pt,1,3,0.0
+2023-2024,Knockout round play-offs,,2024-02-15,Feyenoord,Roma,nl,it,1,1,0.5
+2023-2024,Knockout round play-offs,,2024-02-15,Shakhtar,Marseille,ua,fr,2,2,0.5
+2023-2024,Knockout round play-offs,,2024-02-15,Benfica,Toulouse,pt,fr,2,1,1.0
+2023-2024,Knockout round play-offs,,2024-02-15,Braga,Qarabağ,pt,az,2,4,0.0
+2023-2024,Knockout round play-offs,,2024-02-15,Galatasaray,Sparta Prague,tr,cz,3,2,1.0
+2023-2024,Knockout round play-offs,,2024-02-15,Milan,Rennes,it,fr,3,0,1.0
+2023-2024,Knockout round play-offs,,2024-02-15,Lens,Freiburg,fr,de,0,0,0.5
+2023-2024,Knockout round play-offs,,2024-02-22,Freiburg,Lens,de,fr,3,2,1.0
+2023-2024,Knockout round play-offs,,2024-02-22,Toulouse,Benfica,fr,pt,0,0,0.5
+2023-2024,Knockout round play-offs,,2024-02-22,Rennes,Milan,fr,it,3,2,1.0
+2023-2024,Knockout round play-offs,,2024-02-22,Sporting CP,Young Boys,pt,ch,1,1,0.5
+2023-2024,Knockout round play-offs,,2024-02-22,Marseille,Shakhtar,fr,ua,3,1,1.0
+2023-2024,Knockout round play-offs,,2024-02-22,Sparta Prague,Galatasaray,cz,tr,4,1,1.0
+2023-2024,Knockout round play-offs,,2024-02-22,Roma,Feyenoord,it,nl,1,1,0.5
+2023-2024,Knockout round play-offs,,2024-02-22,Qarabağ,Braga,az,pt,2,3,0.0
+2023-2024,Round of 16,,2024-03-06,Sporting CP,Atalanta,pt,it,1,1,0.5
+2023-2024,Round of 16,,2024-03-07,Roma,Brighton,it,eng,4,0,1.0
+2023-2024,Round of 16,,2024-03-07,Sparta Prague,Liverpool,cz,eng,1,5,0.0
+2023-2024,Round of 16,,2024-03-07,Benfica,Rangers,pt,sct,2,2,0.5
+2023-2024,Round of 16,,2024-03-07,Freiburg,West Ham,de,eng,1,0,1.0
+2023-2024,Round of 16,,2024-03-07,Milan,Slavia Prague,it,cz,4,2,1.0
+2023-2024,Round of 16,,2024-03-07,Marseille,Villarreal,fr,es,4,0,1.0
+2023-2024,Round of 16,,2024-03-07,Qarabağ,Leverkusen,az,de,2,2,0.5
+2023-2024,Round of 16,,2024-03-14,Rangers,Benfica,sct,pt,0,1,0.0
+2023-2024,Round of 16,,2024-03-14,West Ham,Freiburg,eng,de,5,0,1.0
+2023-2024,Round of 16,,2024-03-14,Villarreal,Marseille,es,fr,3,1,1.0
+2023-2024,Round of 16,,2024-03-14,Slavia Prague,Milan,cz,it,1,3,0.0
+2023-2024,Round of 16,,2024-03-14,Brighton,Roma,eng,it,1,0,1.0
+2023-2024,Round of 16,,2024-03-14,Liverpool,Sparta Prague,eng,cz,6,1,1.0
+2023-2024,Round of 16,,2024-03-14,Leverkusen,Qarabağ,de,az,3,2,1.0
+2023-2024,Round of 16,,2024-03-14,Atalanta,Sporting CP,it,pt,2,1,1.0
+2023-2024,Quarter-finals,,2024-04-11,Liverpool,Atalanta,eng,it,0,3,0.0
+2023-2024,Quarter-finals,,2024-04-11,Benfica,Marseille,pt,fr,2,1,1.0
+2023-2024,Quarter-finals,,2024-04-11,Leverkusen,West Ham,de,eng,2,0,1.0
+2023-2024,Quarter-finals,,2024-04-11,Milan,Roma,it,it,0,1,0.0
+2023-2024,Quarter-finals,,2024-04-18,West Ham,Leverkusen,eng,de,1,1,0.5
+2023-2024,Quarter-finals,,2024-04-18,Atalanta,Liverpool,it,eng,0,1,0.0
+2023-2024,Quarter-finals,,2024-04-18,Roma,Milan,it,it,2,1,1.0
+2023-2024,Quarter-finals,,2024-04-18,Marseille,Benfica,fr,pt,1,0,1.0
+2023-2024,Semi-finals,,2024-05-02,Roma,Leverkusen,it,de,0,2,0.0
+2023-2024,Semi-finals,,2024-05-02,Marseille,Atalanta,fr,it,1,1,0.5
+2023-2024,Semi-finals,,2024-05-09,Leverkusen,Roma,de,it,2,2,0.5
+2023-2024,Semi-finals,,2024-05-09,Atalanta,Marseille,it,fr,3,0,1.0
+2023-2024,Final,,2024-05-22,Atalanta,Leverkusen,it,de,3,0,1.0

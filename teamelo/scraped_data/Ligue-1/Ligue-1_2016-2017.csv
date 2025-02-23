@@ -1,0 +1,383 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2016-2017,Ligue 1,1,2016-08-12,Bastia,Paris S-G,0,1,0.0
+2016-2017,Ligue 1,1,2016-08-12,Monaco,Guingamp,2,2,0.5
+2016-2017,Ligue 1,1,2016-08-13,Bordeaux,Saint-Étienne,3,2,1.0
+2016-2017,Ligue 1,1,2016-08-13,Montpellier,Angers,1,0,1.0
+2016-2017,Ligue 1,1,2016-08-13,Metz,Lille,3,2,1.0
+2016-2017,Ligue 1,1,2016-08-13,Dijon,Nantes,0,1,0.0
+2016-2017,Ligue 1,1,2016-08-13,Caen,Lorient,3,2,1.0
+2016-2017,Ligue 1,1,2016-08-14,Nancy,Lyon,0,3,0.0
+2016-2017,Ligue 1,1,2016-08-14,Nice,Rennes,1,0,1.0
+2016-2017,Ligue 1,1,2016-08-14,Marseille,Toulouse,0,0,0.5
+2016-2017,Ligue 1,2,2016-08-19,Lyon,Caen,2,0,1.0
+2016-2017,Ligue 1,2,2016-08-20,Nantes,Monaco,0,1,0.0
+2016-2017,Ligue 1,2,2016-08-20,Lorient,Bastia,0,3,0.0
+2016-2017,Ligue 1,2,2016-08-20,Angers,Nice,0,1,0.0
+2016-2017,Ligue 1,2,2016-08-20,Rennes,Nancy,2,0,1.0
+2016-2017,Ligue 1,2,2016-08-20,Lille,Dijon,1,0,1.0
+2016-2017,Ligue 1,2,2016-08-20,Toulouse,Bordeaux,4,1,1.0
+2016-2017,Ligue 1,2,2016-08-21,Guingamp,Marseille,2,1,1.0
+2016-2017,Ligue 1,2,2016-08-21,Saint-Étienne,Montpellier,3,1,1.0
+2016-2017,Ligue 1,2,2016-08-21,Paris S-G,Metz,3,0,1.0
+2016-2017,Ligue 1,3,2016-08-26,Marseille,Lorient,2,0,1.0
+2016-2017,Ligue 1,3,2016-08-27,Dijon,Lyon,4,2,1.0
+2016-2017,Ligue 1,3,2016-08-27,Caen,Bastia,2,0,1.0
+2016-2017,Ligue 1,3,2016-08-27,Montpellier,Rennes,1,1,0.5
+2016-2017,Ligue 1,3,2016-08-27,Nice,Lille,1,1,0.5
+2016-2017,Ligue 1,3,2016-08-27,Nancy,Guingamp,0,2,0.0
+2016-2017,Ligue 1,3,2016-08-27,Metz,Angers,2,0,1.0
+2016-2017,Ligue 1,3,2016-08-28,Bordeaux,Nantes,1,0,1.0
+2016-2017,Ligue 1,3,2016-08-28,Saint-Étienne,Toulouse,0,0,0.5
+2016-2017,Ligue 1,3,2016-08-28,Monaco,Paris S-G,3,1,1.0
+2016-2017,Ligue 1,4,2016-09-09,Paris S-G,Saint-Étienne,1,1,0.5
+2016-2017,Ligue 1,4,2016-09-10,Lyon,Bordeaux,1,3,0.0
+2016-2017,Ligue 1,4,2016-09-10,Lille,Monaco,1,4,0.0
+2016-2017,Ligue 1,4,2016-09-10,Bastia,Toulouse,2,1,1.0
+2016-2017,Ligue 1,4,2016-09-10,Lorient,Nancy,0,2,0.0
+2016-2017,Ligue 1,4,2016-09-10,Angers,Dijon,3,1,1.0
+2016-2017,Ligue 1,4,2016-09-10,Guingamp,Montpellier,1,1,0.5
+2016-2017,Ligue 1,4,2016-09-11,Nantes,Metz,0,3,0.0
+2016-2017,Ligue 1,4,2016-09-11,Rennes,Caen,2,0,1.0
+2016-2017,Ligue 1,4,2016-09-11,Nice,Marseille,3,2,1.0
+2016-2017,Ligue 1,5,2016-09-16,Caen,Paris S-G,0,6,0.0
+2016-2017,Ligue 1,5,2016-09-17,Monaco,Rennes,3,0,1.0
+2016-2017,Ligue 1,5,2016-09-17,Dijon,Metz,0,0,0.5
+2016-2017,Ligue 1,5,2016-09-17,Toulouse,Guingamp,2,1,1.0
+2016-2017,Ligue 1,5,2016-09-17,Bordeaux,Angers,0,1,0.0
+2016-2017,Ligue 1,5,2016-09-17,Lorient,Lille,1,0,1.0
+2016-2017,Ligue 1,5,2016-09-17,Nancy,Nantes,1,1,0.5
+2016-2017,Ligue 1,5,2016-09-18,Montpellier,Nice,1,1,0.5
+2016-2017,Ligue 1,5,2016-09-18,Saint-Étienne,Bastia,1,0,1.0
+2016-2017,Ligue 1,5,2016-09-18,Marseille,Lyon,0,0,0.5
+2016-2017,Ligue 1,6,2016-09-20,Lille,Toulouse,1,2,0.0
+2016-2017,Ligue 1,6,2016-09-20,Paris S-G,Dijon,3,0,1.0
+2016-2017,Ligue 1,6,2016-09-21,Nantes,Saint-Étienne,0,0,0.5
+2016-2017,Ligue 1,6,2016-09-21,Guingamp,Lorient,1,0,1.0
+2016-2017,Ligue 1,6,2016-09-21,Metz,Bordeaux,0,3,0.0
+2016-2017,Ligue 1,6,2016-09-21,Bastia,Nancy,0,0,0.5
+2016-2017,Ligue 1,6,2016-09-21,Lyon,Montpellier,5,1,1.0
+2016-2017,Ligue 1,6,2016-09-21,Nice,Monaco,4,0,1.0
+2016-2017,Ligue 1,6,2016-09-21,Angers,Caen,2,1,1.0
+2016-2017,Ligue 1,6,2016-09-21,Rennes,Marseille,3,2,1.0
+2016-2017,Ligue 1,7,2016-09-23,Toulouse,Paris S-G,2,0,1.0
+2016-2017,Ligue 1,7,2016-09-24,Lorient,Lyon,1,0,1.0
+2016-2017,Ligue 1,7,2016-09-24,Monaco,Angers,2,1,1.0
+2016-2017,Ligue 1,7,2016-09-24,Bastia,Guingamp,1,0,1.0
+2016-2017,Ligue 1,7,2016-09-24,Montpellier,Metz,0,1,0.0
+2016-2017,Ligue 1,7,2016-09-24,Dijon,Rennes,3,0,1.0
+2016-2017,Ligue 1,7,2016-09-24,Bordeaux,Caen,0,0,0.5
+2016-2017,Ligue 1,7,2016-09-25,Saint-Étienne,Lille,3,1,1.0
+2016-2017,Ligue 1,7,2016-09-25,Nancy,Nice,0,1,0.0
+2016-2017,Ligue 1,7,2016-09-25,Marseille,Nantes,2,1,1.0
+2016-2017,Ligue 1,8,2016-09-30,Rennes,Guingamp,1,0,1.0
+2016-2017,Ligue 1,8,2016-10-01,Paris S-G,Bordeaux,2,0,1.0
+2016-2017,Ligue 1,8,2016-10-01,Lille,Nancy,1,0,1.0
+2016-2017,Ligue 1,8,2016-10-01,Metz,Monaco,0,7,0.0
+2016-2017,Ligue 1,8,2016-10-01,Caen,Toulouse,1,0,1.0
+2016-2017,Ligue 1,8,2016-10-01,Nantes,Bastia,1,0,1.0
+2016-2017,Ligue 1,8,2016-10-01,Dijon,Montpellier,3,3,0.5
+2016-2017,Ligue 1,8,2016-10-02,Angers,Marseille,1,1,0.5
+2016-2017,Ligue 1,8,2016-10-02,Nice,Lorient,2,1,1.0
+2016-2017,Ligue 1,8,2016-10-02,Lyon,Saint-Étienne,2,0,1.0
+2016-2017,Ligue 1,9,2016-10-14,Toulouse,Monaco,3,1,1.0
+2016-2017,Ligue 1,9,2016-10-14,Nice,Lyon,2,0,1.0
+2016-2017,Ligue 1,9,2016-10-15,Nancy,Paris S-G,1,2,0.0
+2016-2017,Ligue 1,9,2016-10-15,Montpellier,Caen,3,2,1.0
+2016-2017,Ligue 1,9,2016-10-15,Lorient,Nantes,1,2,0.0
+2016-2017,Ligue 1,9,2016-10-15,Bastia,Angers,1,2,0.0
+2016-2017,Ligue 1,9,2016-10-15,Guingamp,Lille,1,0,1.0
+2016-2017,Ligue 1,9,2016-10-16,Rennes,Bordeaux,1,1,0.5
+2016-2017,Ligue 1,9,2016-10-16,Saint-Étienne,Dijon,1,1,0.5
+2016-2017,Ligue 1,9,2016-10-16,Marseille,Metz,1,0,1.0
+2016-2017,Ligue 1,10,2016-10-21,Monaco,Montpellier,6,2,1.0
+2016-2017,Ligue 1,10,2016-10-22,Lyon,Guingamp,1,3,0.0
+2016-2017,Ligue 1,10,2016-10-22,Nantes,Rennes,1,2,0.0
+2016-2017,Ligue 1,10,2016-10-22,Bordeaux,Nancy,1,1,0.5
+2016-2017,Ligue 1,10,2016-10-22,Angers,Toulouse,0,0,0.5
+2016-2017,Ligue 1,10,2016-10-22,Lille,Bastia,2,1,1.0
+2016-2017,Ligue 1,10,2016-10-22,Dijon,Lorient,1,0,1.0
+2016-2017,Ligue 1,10,2016-10-23,Caen,Saint-Étienne,0,2,0.0
+2016-2017,Ligue 1,10,2016-10-23,Metz,Nice,2,4,0.0
+2016-2017,Ligue 1,10,2016-10-23,Paris S-G,Marseille,0,0,0.5
+2016-2017,Ligue 1,11,2016-10-28,Lille,Paris S-G,0,1,0.0
+2016-2017,Ligue 1,11,2016-10-29,Toulouse,Lyon,1,2,0.0
+2016-2017,Ligue 1,11,2016-10-29,Lorient,Montpellier,2,2,0.5
+2016-2017,Ligue 1,11,2016-10-29,Saint-Étienne,Monaco,1,1,0.5
+2016-2017,Ligue 1,11,2016-10-29,Nancy,Caen,2,0,1.0
+2016-2017,Ligue 1,11,2016-10-29,Guingamp,Angers,1,0,1.0
+2016-2017,Ligue 1,11,2016-10-29,Bastia,Dijon,0,0,0.5
+2016-2017,Ligue 1,11,2016-10-30,Nice,Nantes,4,1,1.0
+2016-2017,Ligue 1,11,2016-10-30,Rennes,Metz,1,0,1.0
+2016-2017,Ligue 1,11,2016-10-30,Marseille,Bordeaux,0,0,0.5
+2016-2017,Ligue 1,12,2016-11-04,Montpellier,Marseille,3,1,1.0
+2016-2017,Ligue 1,12,2016-11-05,Monaco,Nancy,6,0,1.0
+2016-2017,Ligue 1,12,2016-11-05,Bordeaux,Lorient,2,1,1.0
+2016-2017,Ligue 1,12,2016-11-05,Nantes,Toulouse,1,1,0.5
+2016-2017,Ligue 1,12,2016-11-05,Lyon,Bastia,2,1,1.0
+2016-2017,Ligue 1,12,2016-11-05,Angers,Lille,1,0,1.0
+2016-2017,Ligue 1,12,2016-11-05,Dijon,Guingamp,3,3,0.5
+2016-2017,Ligue 1,12,2016-11-06,Caen,Nice,1,0,1.0
+2016-2017,Ligue 1,12,2016-11-06,Metz,Saint-Étienne,0,0,0.5
+2016-2017,Ligue 1,12,2016-11-06,Paris S-G,Rennes,4,0,1.0
+2016-2017,Ligue 1,13,2016-11-18,Lorient,Monaco,0,3,0.0
+2016-2017,Ligue 1,13,2016-11-18,Lille,Lyon,0,1,0.0
+2016-2017,Ligue 1,13,2016-11-19,Paris S-G,Nantes,2,0,1.0
+2016-2017,Ligue 1,13,2016-11-19,Bastia,Montpellier,1,1,0.5
+2016-2017,Ligue 1,13,2016-11-19,Rennes,Angers,1,1,0.5
+2016-2017,Ligue 1,13,2016-11-19,Nancy,Dijon,1,0,1.0
+2016-2017,Ligue 1,13,2016-11-19,Toulouse,Metz,1,2,0.0
+2016-2017,Ligue 1,13,2016-11-20,Guingamp,Bordeaux,1,1,0.5
+2016-2017,Ligue 1,13,2016-11-20,Marseille,Caen,1,0,1.0
+2016-2017,Ligue 1,13,2016-11-20,Saint-Étienne,Nice,0,1,0.0
+2016-2017,Ligue 1,14,2016-11-25,Rennes,Toulouse,1,0,1.0
+2016-2017,Ligue 1,14,2016-11-26,Monaco,Marseille,4,0,1.0
+2016-2017,Ligue 1,14,2016-11-26,Montpellier,Nancy,0,0,0.5
+2016-2017,Ligue 1,14,2016-11-26,Caen,Guingamp,1,1,0.5
+2016-2017,Ligue 1,14,2016-11-26,Bordeaux,Dijon,3,2,1.0
+2016-2017,Ligue 1,14,2016-11-26,Metz,Lorient,3,3,0.5
+2016-2017,Ligue 1,14,2016-11-26,Nantes,Lille,0,0,0.5
+2016-2017,Ligue 1,14,2016-11-27,Angers,Saint-Étienne,1,2,0.0
+2016-2017,Ligue 1,14,2016-11-27,Nice,Bastia,1,1,0.5
+2016-2017,Ligue 1,14,2016-11-27,Lyon,Paris S-G,1,2,0.0
+2016-2017,Ligue 1,15,2016-11-29,Lille,Caen,4,2,1.0
+2016-2017,Ligue 1,15,2016-11-29,Lorient,Rennes,2,1,1.0
+2016-2017,Ligue 1,15,2016-11-29,Dijon,Monaco,1,1,0.5
+2016-2017,Ligue 1,15,2016-11-30,Nancy,Metz,4,0,1.0
+2016-2017,Ligue 1,15,2016-11-30,Guingamp,Nice,0,1,0.0
+2016-2017,Ligue 1,15,2016-11-30,Toulouse,Montpellier,1,0,1.0
+2016-2017,Ligue 1,15,2016-11-30,Bastia,Bordeaux,1,1,0.5
+2016-2017,Ligue 1,15,2016-11-30,Nantes,Lyon,0,6,0.0
+2016-2017,Ligue 1,15,2016-11-30,Saint-Étienne,Marseille,0,0,0.5
+2016-2017,Ligue 1,15,2016-11-30,Paris S-G,Angers,2,0,1.0
+2016-2017,Ligue 1,16,2016-12-02,Caen,Dijon,3,3,0.5
+2016-2017,Ligue 1,16,2016-12-03,Montpellier,Paris S-G,3,0,1.0
+2016-2017,Ligue 1,16,2016-12-03,Angers,Lorient,2,2,0.5
+2016-2017,Ligue 1,16,2016-12-03,Bordeaux,Lille,0,1,0.0
+2016-2017,Ligue 1,16,2016-12-03,Monaco,Bastia,5,0,1.0
+2016-2017,Ligue 1,16,2016-12-03,Guingamp,Nantes,2,0,1.0
+2016-2017,Ligue 1,16,2016-12-04,Rennes,Saint-Étienne,2,0,1.0
+2016-2017,Ligue 1,16,2016-12-04,Marseille,Nancy,3,0,1.0
+2016-2017,Ligue 1,16,2016-12-04,Nice,Toulouse,3,0,1.0
+2016-2017,Ligue 1,17,2016-12-10,Dijon,Marseille,1,2,0.0
+2016-2017,Ligue 1,17,2016-12-10,Bordeaux,Monaco,0,4,0.0
+2016-2017,Ligue 1,17,2016-12-10,Bastia,Metz,2,0,1.0
+2016-2017,Ligue 1,17,2016-12-10,Nancy,Angers,2,0,1.0
+2016-2017,Ligue 1,17,2016-12-10,Toulouse,Lorient,3,2,1.0
+2016-2017,Ligue 1,17,2016-12-10,Lille,Montpellier,2,1,1.0
+2016-2017,Ligue 1,17,2016-12-11,Lyon,Rennes,1,0,1.0
+2016-2017,Ligue 1,17,2016-12-11,Saint-Étienne,Guingamp,1,0,1.0
+2016-2017,Ligue 1,17,2016-12-11,Paris S-G,Nice,2,2,0.5
+2016-2017,Ligue 1,18,2016-12-16,Angers,Nantes,0,2,0.0
+2016-2017,Ligue 1,18,2016-12-17,Guingamp,Paris S-G,2,1,1.0
+2016-2017,Ligue 1,18,2016-12-17,Montpellier,Bordeaux,4,0,1.0
+2016-2017,Ligue 1,18,2016-12-17,Rennes,Bastia,1,2,0.0
+2016-2017,Ligue 1,18,2016-12-17,Lorient,Saint-Étienne,2,1,1.0
+2016-2017,Ligue 1,18,2016-12-17,Toulouse,Nancy,1,1,0.5
+2016-2017,Ligue 1,18,2016-12-18,Caen,Metz,3,0,1.0
+2016-2017,Ligue 1,18,2016-12-18,Nice,Dijon,2,1,1.0
+2016-2017,Ligue 1,18,2016-12-18,Marseille,Lille,2,0,1.0
+2016-2017,Ligue 1,18,2016-12-18,Monaco,Lyon,1,3,0.0
+2016-2017,Ligue 1,19,2016-12-21,Dijon,Toulouse,2,0,1.0
+2016-2017,Ligue 1,19,2016-12-21,Nantes,Montpellier,1,0,1.0
+2016-2017,Ligue 1,19,2016-12-21,Bordeaux,Nice,0,0,0.5
+2016-2017,Ligue 1,19,2016-12-21,Bastia,Marseille,1,2,0.0
+2016-2017,Ligue 1,19,2016-12-21,Saint-Étienne,Nancy,0,0,0.5
+2016-2017,Ligue 1,19,2016-12-21,Metz,Guingamp,2,2,0.5
+2016-2017,Ligue 1,19,2016-12-21,Lyon,Angers,2,0,1.0
+2016-2017,Ligue 1,19,2016-12-21,Paris S-G,Lorient,5,0,1.0
+2016-2017,Ligue 1,19,2016-12-21,Monaco,Caen,2,1,1.0
+2016-2017,Ligue 1,19,2016-12-21,Lille,Rennes,1,1,0.5
+2016-2017,Ligue 1,20,2017-01-13,Lille,Saint-Étienne,1,1,0.5
+2016-2017,Ligue 1,20,2017-01-14,Rennes,Paris S-G,0,1,0.0
+2016-2017,Ligue 1,20,2017-01-14,Angers,Bordeaux,1,1,0.5
+2016-2017,Ligue 1,20,2017-01-14,Toulouse,Nantes,0,1,0.0
+2016-2017,Ligue 1,20,2017-01-14,Nancy,Bastia,1,0,1.0
+2016-2017,Ligue 1,20,2017-01-14,Lorient,Guingamp,3,1,1.0
+2016-2017,Ligue 1,20,2017-01-14,Montpellier,Dijon,1,1,0.5
+2016-2017,Ligue 1,20,2017-01-15,Nice,Metz,0,0,0.5
+2016-2017,Ligue 1,20,2017-01-15,Caen,Lyon,3,2,1.0
+2016-2017,Ligue 1,20,2017-01-15,Marseille,Monaco,1,4,0.0
+2016-2017,Ligue 1,17,2017-01-18,Nantes,Caen,1,0,1.0
+2016-2017,Ligue 1,21,2017-01-20,Bastia,Nice,1,1,0.5
+2016-2017,Ligue 1,21,2017-01-21,Nantes,Paris S-G,0,2,0.0
+2016-2017,Ligue 1,21,2017-01-21,Metz,Montpellier,2,0,1.0
+2016-2017,Ligue 1,21,2017-01-21,Bordeaux,Toulouse,1,0,1.0
+2016-2017,Ligue 1,21,2017-01-21,Dijon,Lille,0,0,0.5
+2016-2017,Ligue 1,21,2017-01-21,Guingamp,Rennes,1,1,0.5
+2016-2017,Ligue 1,21,2017-01-22,Monaco,Lorient,4,0,1.0
+2016-2017,Ligue 1,21,2017-01-22,Saint-Étienne,Angers,2,1,1.0
+2016-2017,Ligue 1,21,2017-01-22,Lyon,Marseille,3,1,1.0
+2016-2017,Ligue 1,22,2017-01-27,Marseille,Montpellier,5,1,1.0
+2016-2017,Ligue 1,22,2017-01-28,Lyon,Lille,1,2,0.0
+2016-2017,Ligue 1,22,2017-01-28,Lorient,Dijon,2,3,0.0
+2016-2017,Ligue 1,22,2017-01-28,Rennes,Nantes,1,1,0.5
+2016-2017,Ligue 1,22,2017-01-28,Angers,Metz,2,1,1.0
+2016-2017,Ligue 1,22,2017-01-28,Bastia,Caen,1,1,0.5
+2016-2017,Ligue 1,22,2017-01-28,Nancy,Bordeaux,0,2,0.0
+2016-2017,Ligue 1,22,2017-01-29,Nice,Guingamp,3,1,1.0
+2016-2017,Ligue 1,22,2017-01-29,Toulouse,Saint-Étienne,0,3,0.0
+2016-2017,Ligue 1,22,2017-01-29,Paris S-G,Monaco,1,1,0.5
+2016-2017,Ligue 1,23,2017-02-03,Metz,Marseille,1,0,1.0
+2016-2017,Ligue 1,23,2017-02-04,Monaco,Nice,3,0,1.0
+2016-2017,Ligue 1,23,2017-02-04,Montpellier,Bastia,2,1,1.0
+2016-2017,Ligue 1,23,2017-02-04,Dijon,Paris S-G,1,3,0.0
+2016-2017,Ligue 1,23,2017-02-04,Bordeaux,Rennes,1,1,0.5
+2016-2017,Ligue 1,23,2017-02-04,Lille,Lorient,0,1,0.0
+2016-2017,Ligue 1,23,2017-02-04,Guingamp,Caen,0,1,0.0
+2016-2017,Ligue 1,23,2017-02-05,Toulouse,Angers,4,0,1.0
+2016-2017,Ligue 1,23,2017-02-05,Nantes,Nancy,0,2,0.0
+2016-2017,Ligue 1,23,2017-02-05,Saint-Étienne,Lyon,2,0,1.0
+2016-2017,Ligue 1,24,2017-02-07,Montpellier,Monaco,1,2,0.0
+2016-2017,Ligue 1,24,2017-02-07,Caen,Bordeaux,0,4,0.0
+2016-2017,Ligue 1,24,2017-02-07,Paris S-G,Lille,2,1,1.0
+2016-2017,Ligue 1,24,2017-02-08,Lyon,Nancy,4,0,1.0
+2016-2017,Ligue 1,24,2017-02-08,Lorient,Toulouse,1,1,0.5
+2016-2017,Ligue 1,24,2017-02-08,Angers,Rennes,0,0,0.5
+2016-2017,Ligue 1,24,2017-02-08,Metz,Dijon,2,1,1.0
+2016-2017,Ligue 1,24,2017-02-08,Nice,Saint-Étienne,1,0,1.0
+2016-2017,Ligue 1,24,2017-02-08,Marseille,Guingamp,2,0,1.0
+2016-2017,Ligue 1,25,2017-02-10,Bordeaux,Paris S-G,0,3,0.0
+2016-2017,Ligue 1,25,2017-02-11,Guingamp,Lyon,2,1,1.0
+2016-2017,Ligue 1,25,2017-02-11,Toulouse,Bastia,4,1,1.0
+2016-2017,Ligue 1,25,2017-02-11,Dijon,Caen,2,0,1.0
+2016-2017,Ligue 1,25,2017-02-11,Lille,Angers,1,2,0.0
+2016-2017,Ligue 1,25,2017-02-11,Nancy,Montpellier,0,3,0.0
+2016-2017,Ligue 1,25,2017-02-11,Monaco,Metz,5,0,1.0
+2016-2017,Ligue 1,25,2017-02-12,Rennes,Nice,2,2,0.5
+2016-2017,Ligue 1,25,2017-02-12,Saint-Étienne,Lorient,4,0,1.0
+2016-2017,Ligue 1,25,2017-02-12,Nantes,Marseille,3,2,1.0
+2016-2017,Ligue 1,26,2017-02-17,Bastia,Monaco,1,1,0.5
+2016-2017,Ligue 1,26,2017-02-18,Marseille,Rennes,2,0,1.0
+2016-2017,Ligue 1,26,2017-02-18,Angers,Nancy,1,0,1.0
+2016-2017,Ligue 1,26,2017-02-18,Lorient,Nice,0,1,0.0
+2016-2017,Ligue 1,26,2017-02-18,Metz,Nantes,1,1,0.5
+2016-2017,Ligue 1,26,2017-02-18,Caen,Lille,0,1,0.0
+2016-2017,Ligue 1,26,2017-02-19,Bordeaux,Guingamp,3,0,1.0
+2016-2017,Ligue 1,26,2017-02-19,Lyon,Dijon,4,2,1.0
+2016-2017,Ligue 1,26,2017-02-19,Montpellier,Saint-Étienne,2,1,1.0
+2016-2017,Ligue 1,26,2017-02-19,Paris S-G,Toulouse,0,0,0.5
+2016-2017,Ligue 1,21,2017-02-21,Caen,Nancy,1,0,1.0
+2016-2017,Ligue 1,27,2017-02-24,Nantes,Dijon,3,1,1.0
+2016-2017,Ligue 1,27,2017-02-24,Nice,Montpellier,2,1,1.0
+2016-2017,Ligue 1,27,2017-02-25,Guingamp,Monaco,1,2,0.0
+2016-2017,Ligue 1,27,2017-02-25,Rennes,Lorient,1,0,1.0
+2016-2017,Ligue 1,27,2017-02-25,Angers,Bastia,3,0,1.0
+2016-2017,Ligue 1,27,2017-02-25,Lille,Bordeaux,2,3,0.0
+2016-2017,Ligue 1,27,2017-02-25,Nancy,Toulouse,0,0,0.5
+2016-2017,Ligue 1,27,2017-02-26,Saint-Étienne,Caen,0,1,0.0
+2016-2017,Ligue 1,27,2017-02-26,Lyon,Metz,5,0,1.0
+2016-2017,Ligue 1,27,2017-02-26,Marseille,Paris S-G,1,5,0.0
+2016-2017,Ligue 1,24,2017-03-01,Bastia,Nantes,2,2,0.5
+2016-2017,Ligue 1,28,2017-03-03,Bordeaux,Lyon,1,1,0.5
+2016-2017,Ligue 1,28,2017-03-04,Paris S-G,Nancy,1,0,1.0
+2016-2017,Ligue 1,28,2017-03-04,Montpellier,Guingamp,1,1,0.5
+2016-2017,Ligue 1,28,2017-03-04,Caen,Angers,2,3,0.0
+2016-2017,Ligue 1,28,2017-03-04,Dijon,Nice,0,1,0.0
+2016-2017,Ligue 1,28,2017-03-04,Metz,Rennes,1,1,0.5
+2016-2017,Ligue 1,28,2017-03-04,Bastia,Saint-Étienne,0,0,0.5
+2016-2017,Ligue 1,28,2017-03-05,Lorient,Marseille,1,4,0.0
+2016-2017,Ligue 1,28,2017-03-05,Toulouse,Lille,1,1,0.5
+2016-2017,Ligue 1,28,2017-03-05,Monaco,Nantes,4,0,1.0
+2016-2017,Ligue 1,29,2017-03-10,Nice,Caen,2,2,0.5
+2016-2017,Ligue 1,29,2017-03-10,Marseille,Angers,3,0,1.0
+2016-2017,Ligue 1,29,2017-03-11,Monaco,Bordeaux,2,1,1.0
+2016-2017,Ligue 1,29,2017-03-11,Nancy,Lille,1,2,0.0
+2016-2017,Ligue 1,29,2017-03-11,Montpellier,Nantes,2,3,0.0
+2016-2017,Ligue 1,29,2017-03-11,Rennes,Dijon,1,1,0.5
+2016-2017,Ligue 1,29,2017-03-11,Guingamp,Bastia,5,0,1.0
+2016-2017,Ligue 1,29,2017-03-12,Saint-Étienne,Metz,2,2,0.5
+2016-2017,Ligue 1,29,2017-03-12,Lyon,Toulouse,4,0,1.0
+2016-2017,Ligue 1,29,2017-03-12,Lorient,Paris S-G,1,2,0.0
+2016-2017,Ligue 1,30,2017-03-17,Metz,Bastia,1,0,1.0
+2016-2017,Ligue 1,30,2017-03-17,Lille,Marseille,0,0,0.5
+2016-2017,Ligue 1,30,2017-03-18,Nantes,Nice,1,1,0.5
+2016-2017,Ligue 1,30,2017-03-18,Angers,Guingamp,3,0,1.0
+2016-2017,Ligue 1,30,2017-03-18,Bordeaux,Montpellier,5,1,1.0
+2016-2017,Ligue 1,30,2017-03-18,Toulouse,Rennes,0,0,0.5
+2016-2017,Ligue 1,30,2017-03-18,Nancy,Lorient,2,3,0.0
+2016-2017,Ligue 1,30,2017-03-19,Caen,Monaco,0,3,0.0
+2016-2017,Ligue 1,30,2017-03-19,Dijon,Saint-Étienne,0,1,0.0
+2016-2017,Ligue 1,30,2017-03-19,Paris S-G,Lyon,2,1,1.0
+2016-2017,Ligue 1,31,2017-03-31,Guingamp,Nancy,1,0,1.0
+2016-2017,Ligue 1,31,2017-04-01,Marseille,Dijon,1,1,0.5
+2016-2017,Ligue 1,31,2017-04-01,Bastia,Lille,0,1,0.0
+2016-2017,Ligue 1,31,2017-04-02,Rennes,Lyon,1,1,0.5
+2016-2017,Ligue 1,31,2017-04-02,Lorient,Caen,1,0,1.0
+2016-2017,Ligue 1,31,2017-04-02,Nantes,Angers,2,1,1.0
+2016-2017,Ligue 1,31,2017-04-02,Montpellier,Toulouse,0,1,0.0
+2016-2017,Ligue 1,31,2017-04-02,Nice,Bordeaux,2,1,1.0
+2016-2017,Ligue 1,16,2017-04-05,Metz,Lyon,0,3,0.0
+2016-2017,Ligue 1,32,2017-04-07,Lille,Nice,1,2,0.0
+2016-2017,Ligue 1,32,2017-04-08,Angers,Monaco,0,1,0.0
+2016-2017,Ligue 1,32,2017-04-08,Bordeaux,Metz,3,0,1.0
+2016-2017,Ligue 1,32,2017-04-08,Caen,Montpellier,0,2,0.0
+2016-2017,Ligue 1,32,2017-04-08,Dijon,Bastia,1,2,0.0
+2016-2017,Ligue 1,32,2017-04-08,Lyon,Lorient,1,4,0.0
+2016-2017,Ligue 1,32,2017-04-08,Nancy,Rennes,3,0,1.0
+2016-2017,Ligue 1,32,2017-04-09,Toulouse,Marseille,0,0,0.5
+2016-2017,Ligue 1,32,2017-04-09,Saint-Étienne,Nantes,1,1,0.5
+2016-2017,Ligue 1,32,2017-04-09,Paris S-G,Guingamp,4,0,1.0
+2016-2017,Ligue 1,33,2017-04-14,Angers,Paris S-G,0,2,0.0
+2016-2017,Ligue 1,33,2017-04-15,Nice,Nancy,3,1,1.0
+2016-2017,Ligue 1,33,2017-04-15,Rennes,Lille,2,0,1.0
+2016-2017,Ligue 1,33,2017-04-15,Metz,Caen,2,2,0.5
+2016-2017,Ligue 1,33,2017-04-15,Montpellier,Lorient,2,0,1.0
+2016-2017,Ligue 1,33,2017-04-15,Guingamp,Toulouse,2,1,1.0
+2016-2017,Ligue 1,33,2017-04-15,Monaco,Dijon,2,1,1.0
+2016-2017,Ligue 1,33,2017-04-16,Nantes,Bordeaux,0,1,0.0
+2016-2017,Ligue 1,33,2017-04-16,Bastia,Lyon,0,0,0.5
+2016-2017,Ligue 1,33,2017-04-16,Marseille,Saint-Étienne,4,0,1.0
+2016-2017,Ligue 1,31,2017-04-18,Metz,Paris S-G,2,3,0.0
+2016-2017,Ligue 1,34,2017-04-21,Nancy,Marseille,0,0,0.5
+2016-2017,Ligue 1,34,2017-04-22,Paris S-G,Montpellier,2,0,1.0
+2016-2017,Ligue 1,34,2017-04-22,Caen,Nantes,0,2,0.0
+2016-2017,Ligue 1,34,2017-04-22,Bordeaux,Bastia,2,0,1.0
+2016-2017,Ligue 1,34,2017-04-22,Lorient,Metz,5,1,1.0
+2016-2017,Ligue 1,34,2017-04-22,Dijon,Angers,3,2,1.0
+2016-2017,Ligue 1,34,2017-04-22,Lille,Guingamp,3,0,1.0
+2016-2017,Ligue 1,34,2017-04-23,Toulouse,Nice,1,1,0.5
+2016-2017,Ligue 1,34,2017-04-23,Saint-Étienne,Rennes,1,1,0.5
+2016-2017,Ligue 1,34,2017-04-23,Lyon,Monaco,1,2,0.0
+2016-2017,Ligue 1,35,2017-04-28,Angers,Lyon,1,2,0.0
+2016-2017,Ligue 1,35,2017-04-29,Monaco,Toulouse,3,1,1.0
+2016-2017,Ligue 1,35,2017-04-29,Bastia,Rennes,1,0,1.0
+2016-2017,Ligue 1,35,2017-04-29,Montpellier,Lille,0,3,0.0
+2016-2017,Ligue 1,35,2017-04-29,Metz,Nancy,2,1,1.0
+2016-2017,Ligue 1,35,2017-04-29,Guingamp,Saint-Étienne,0,2,0.0
+2016-2017,Ligue 1,35,2017-04-29,Nantes,Lorient,1,0,1.0
+2016-2017,Ligue 1,35,2017-04-30,Caen,Marseille,1,5,0.0
+2016-2017,Ligue 1,35,2017-04-30,Dijon,Bordeaux,0,0,0.5
+2016-2017,Ligue 1,35,2017-04-30,Nice,Paris S-G,3,1,1.0
+2016-2017,Ligue 1,36,2017-05-05,Saint-Étienne,Bordeaux,2,2,0.5
+2016-2017,Ligue 1,36,2017-05-06,Paris S-G,Bastia,5,0,1.0
+2016-2017,Ligue 1,36,2017-05-06,Lille,Metz,0,2,0.0
+2016-2017,Ligue 1,36,2017-05-06,Guingamp,Dijon,4,0,1.0
+2016-2017,Ligue 1,36,2017-05-06,Toulouse,Caen,0,1,0.0
+2016-2017,Ligue 1,36,2017-05-06,Nancy,Monaco,0,3,0.0
+2016-2017,Ligue 1,36,2017-05-06,Lorient,Angers,1,1,0.5
+2016-2017,Ligue 1,36,2017-05-07,Rennes,Montpellier,1,0,1.0
+2016-2017,Ligue 1,36,2017-05-07,Lyon,Nantes,3,2,1.0
+2016-2017,Ligue 1,36,2017-05-07,Marseille,Nice,2,1,1.0
+2016-2017,Ligue 1,37,2017-05-14,Bordeaux,Marseille,1,1,0.5
+2016-2017,Ligue 1,37,2017-05-14,Monaco,Lille,4,0,1.0
+2016-2017,Ligue 1,37,2017-05-14,Caen,Rennes,0,1,0.0
+2016-2017,Ligue 1,37,2017-05-14,Montpellier,Lyon,1,3,0.0
+2016-2017,Ligue 1,37,2017-05-14,Nice,Angers,0,2,0.0
+2016-2017,Ligue 1,37,2017-05-14,Metz,Toulouse,1,1,0.5
+2016-2017,Ligue 1,37,2017-05-14,Bastia,Lorient,2,0,1.0
+2016-2017,Ligue 1,37,2017-05-14,Nantes,Guingamp,4,1,1.0
+2016-2017,Ligue 1,37,2017-05-14,Dijon,Nancy,2,0,1.0
+2016-2017,Ligue 1,37,2017-05-14,Saint-Étienne,Paris S-G,0,5,0.0
+2016-2017,Ligue 1,31,2017-05-17,Monaco,Saint-Étienne,2,0,1.0
+2016-2017,Ligue 1,38,2017-05-20,Marseille,Bastia,1,0,1.0
+2016-2017,Ligue 1,38,2017-05-20,Lorient,Bordeaux,1,1,0.5
+2016-2017,Ligue 1,38,2017-05-20,Rennes,Monaco,2,3,0.0
+2016-2017,Ligue 1,38,2017-05-20,Nancy,Saint-Étienne,3,1,1.0
+2016-2017,Ligue 1,38,2017-05-20,Angers,Montpellier,2,0,1.0
+2016-2017,Ligue 1,38,2017-05-20,Guingamp,Metz,1,0,1.0
+2016-2017,Ligue 1,38,2017-05-20,Lyon,Nice,3,3,0.5
+2016-2017,Ligue 1,38,2017-05-20,Lille,Nantes,3,0,1.0
+2016-2017,Ligue 1,38,2017-05-20,Paris S-G,Caen,1,1,0.5
+2016-2017,Ligue 1,38,2017-05-20,Toulouse,Dijon,0,0,0.5
+2016-2017,French 1/2 Relegation/Promotion Playoffs,,2017-05-25,Troyes,Lorient,2,1,1.0
+2016-2017,French 1/2 Relegation/Promotion Playoffs,,2017-05-28,Lorient,Troyes,0,0,0.5

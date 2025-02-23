@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2016-2017,1,2016-07-29,Dukla Prague,Teplice,0,1,0.0
+2016-2017,1,2016-07-30,Vysočina Jihlava,Viktoria Plzeň,1,2,0.0
+2016-2017,1,2016-07-30,Fastav Zlín,Příbram,2,0,1.0
+2016-2017,1,2016-07-30,Jablonec,Karviná,5,3,1.0
+2016-2017,1,2016-07-30,Sparta Prague,Slovácko,3,2,1.0
+2016-2017,1,2016-07-31,Mladá Boleslav,Slovan Liberec,3,0,1.0
+2016-2017,1,2016-07-31,Bohemians 1905,Hradec Králové,0,3,0.0
+2016-2017,2,2016-08-06,Karviná,Zbrojovka Brno,1,1,0.5
+2016-2017,2,2016-08-06,Hradec Králové,Jablonec,1,2,0.0
+2016-2017,2,2016-08-06,Slovácko,Dukla Prague,2,2,0.5
+2016-2017,2,2016-08-07,Viktoria Plzeň,Bohemians 1905,1,1,0.5
+2016-2017,2,2016-08-07,Příbram,Mladá Boleslav,0,1,0.0
+2016-2017,2,2016-08-07,Slovan Liberec,Vysočina Jihlava,1,1,0.5
+2016-2017,2,2016-08-07,Teplice,Sparta Prague,0,0,0.5
+2016-2017,2,2016-08-08,Slavia Prague,Fastav Zlín,2,2,0.5
+2016-2017,3,2016-08-12,Příbram,Viktoria Plzeň,0,3,0.0
+2016-2017,3,2016-08-13,Mladá Boleslav,Karviná,1,2,0.0
+2016-2017,3,2016-08-13,Fastav Zlín,Slovan Liberec,2,1,1.0
+2016-2017,3,2016-08-13,Jablonec,Slovácko,2,2,0.5
+2016-2017,3,2016-08-13,Zbrojovka Brno,Teplice,0,0,0.5
+2016-2017,3,2016-08-13,Bohemians 1905,Sparta Prague,0,2,0.0
+2016-2017,3,2016-08-14,Dukla Prague,Hradec Králové,3,0,1.0
+2016-2017,3,2016-08-14,Vysočina Jihlava,Slavia Prague,1,1,0.5
+2016-2017,4,2016-08-19,Teplice,Mladá Boleslav,1,2,0.0
+2016-2017,4,2016-08-20,Hradec Králové,Vysočina Jihlava,1,0,1.0
+2016-2017,4,2016-08-20,Karviná,Dukla Prague,2,1,1.0
+2016-2017,4,2016-08-20,Slovácko,Bohemians 1905,2,0,1.0
+2016-2017,4,2016-08-20,Viktoria Plzeň,Fastav Zlín,0,2,0.0
+2016-2017,4,2016-08-21,Slavia Prague,Příbram,3,0,1.0
+2016-2017,4,2016-08-21,Slovan Liberec,Zbrojovka Brno,0,0,0.5
+2016-2017,4,2016-08-21,Sparta Prague,Jablonec,3,0,1.0
+2016-2017,5,2016-08-26,Mladá Boleslav,Hradec Králové,2,0,1.0
+2016-2017,5,2016-08-26,Vysočina Jihlava,Teplice,0,2,0.0
+2016-2017,5,2016-08-26,Bohemians 1905,Jablonec,2,0,1.0
+2016-2017,5,2016-08-27,Zbrojovka Brno,Slovácko,1,0,1.0
+2016-2017,5,2016-08-28,Příbram,Slovan Liberec,0,1,0.0
+2016-2017,5,2016-08-28,Dukla Prague,Sparta Prague,0,2,0.0
+2016-2017,5,2016-08-28,Viktoria Plzeň,Slavia Prague,3,1,1.0
+2016-2017,5,2016-08-29,Fastav Zlín,Karviná,3,0,1.0
+2016-2017,6,2016-09-09,Slovácko,Fastav Zlín,1,3,0.0
+2016-2017,6,2016-09-10,Sparta Prague,Mladá Boleslav,2,2,0.5
+2016-2017,6,2016-09-10,Karviná,Vysočina Jihlava,3,0,1.0
+2016-2017,6,2016-09-10,Hradec Králové,Příbram,2,0,1.0
+2016-2017,6,2016-09-10,Slovan Liberec,Viktoria Plzeň,1,2,0.0
+2016-2017,6,2016-09-11,Bohemians 1905,Zbrojovka Brno,3,0,1.0
+2016-2017,6,2016-09-11,Jablonec,Dukla Prague,1,1,0.5
+2016-2017,6,2016-09-11,Teplice,Slavia Prague,2,2,0.5
+2016-2017,7,2016-09-17,Dukla Prague,Bohemians 1905,4,1,1.0
+2016-2017,7,2016-09-17,Zbrojovka Brno,Hradec Králové,1,1,0.5
+2016-2017,7,2016-09-17,Mladá Boleslav,Slovácko,3,0,1.0
+2016-2017,7,2016-09-17,Příbram,Teplice,3,2,1.0
+2016-2017,7,2016-09-17,Vysočina Jihlava,Jablonec,1,1,0.5
+2016-2017,7,2016-09-18,Viktoria Plzeň,Karviná,2,0,1.0
+2016-2017,7,2016-09-19,Fastav Zlín,Sparta Prague,1,1,0.5
+2016-2017,7,2016-09-19,Slavia Prague,Slovan Liberec,1,0,1.0
+2016-2017,8,2016-09-23,Jablonec,Mladá Boleslav,1,2,0.0
+2016-2017,8,2016-09-24,Dukla Prague,Zbrojovka Brno,4,2,1.0
+2016-2017,8,2016-09-24,Hradec Králové,Fastav Zlín,0,2,0.0
+2016-2017,8,2016-09-24,Slovácko,Vysočina Jihlava,1,1,0.5
+2016-2017,8,2016-09-24,Bohemians 1905,Příbram,1,0,1.0
+2016-2017,8,2016-09-24,Teplice,Viktoria Plzeň,0,1,0.0
+2016-2017,8,2016-09-25,Sparta Prague,Slavia Prague,0,2,0.0
+2016-2017,9,2016-09-30,Vysočina Jihlava,Bohemians 1905,0,2,0.0
+2016-2017,9,2016-10-01,Mladá Boleslav,Dukla Prague,1,0,1.0
+2016-2017,9,2016-10-01,Příbram,Slovácko,0,1,0.0
+2016-2017,9,2016-10-01,Fastav Zlín,Jablonec,2,2,0.5
+2016-2017,9,2016-10-01,Slavia Prague,Karviná,1,0,1.0
+2016-2017,9,2016-10-02,Zbrojovka Brno,Sparta Prague,3,3,0.5
+2016-2017,9,2016-10-02,Slovan Liberec,Teplice,2,0,1.0
+2016-2017,9,2016-10-02,Viktoria Plzeň,Hradec Králové,4,1,1.0
+2016-2017,10,2016-10-14,Bohemians 1905,Mladá Boleslav,1,3,0.0
+2016-2017,10,2016-10-15,Hradec Králové,Slavia Prague,0,3,0.0
+2016-2017,10,2016-10-15,Karviná,Příbram,2,0,1.0
+2016-2017,10,2016-10-15,Teplice,Fastav Zlín,2,0,1.0
+2016-2017,10,2016-10-15,Jablonec,Zbrojovka Brno,1,2,0.0
+2016-2017,10,2016-10-15,Dukla Prague,Slovan Liberec,0,0,0.5
+2016-2017,10,2016-10-15,Slovácko,Viktoria Plzeň,1,1,0.5
+2016-2017,10,2016-10-16,Sparta Prague,Vysočina Jihlava,3,0,1.0
+2016-2017,1,2016-10-19,Zbrojovka Brno,Slavia Prague,1,4,0.0
+2016-2017,11,2016-10-21,Vysočina Jihlava,Dukla Prague,1,1,0.5
+2016-2017,11,2016-10-21,Fastav Zlín,Bohemians 1905,1,1,0.5
+2016-2017,11,2016-10-22,Příbram,Jablonec,2,4,0.0
+2016-2017,11,2016-10-22,Karviná,Teplice,1,4,0.0
+2016-2017,11,2016-10-22,Mladá Boleslav,Zbrojovka Brno,3,3,0.5
+2016-2017,11,2016-10-22,Slavia Prague,Slovácko,1,0,1.0
+2016-2017,11,2016-10-23,Slovan Liberec,Hradec Králové,2,0,1.0
+2016-2017,11,2016-10-23,Viktoria Plzeň,Sparta Prague,1,0,1.0
+2016-2017,8,2016-10-26,Karviná,Slovan Liberec,0,0,0.5
+2016-2017,12,2016-10-29,Sparta Prague,Příbram,4,0,1.0
+2016-2017,12,2016-10-29,Slovácko,Teplice,1,1,0.5
+2016-2017,12,2016-10-29,Zbrojovka Brno,Vysočina Jihlava,1,1,0.5
+2016-2017,12,2016-10-29,Mladá Boleslav,Fastav Zlín,1,2,0.0
+2016-2017,12,2016-10-30,Hradec Králové,Karviná,3,4,0.0
+2016-2017,12,2016-10-30,Jablonec,Slavia Prague,0,0,0.5
+2016-2017,12,2016-10-30,Bohemians 1905,Slovan Liberec,2,1,1.0
+2016-2017,12,2016-10-30,Dukla Prague,Viktoria Plzeň,0,1,0.0
+2016-2017,13,2016-11-04,Vysočina Jihlava,Mladá Boleslav,2,1,1.0
+2016-2017,13,2016-11-05,Fastav Zlín,Zbrojovka Brno,2,1,1.0
+2016-2017,13,2016-11-05,Příbram,Dukla Prague,3,1,1.0
+2016-2017,13,2016-11-05,Teplice,Hradec Králové,0,1,0.0
+2016-2017,13,2016-11-05,Slavia Prague,Bohemians 1905,1,1,0.5
+2016-2017,13,2016-11-06,Slovan Liberec,Sparta Prague,0,0,0.5
+2016-2017,13,2016-11-06,Karviná,Slovácko,0,1,0.0
+2016-2017,13,2016-11-06,Viktoria Plzeň,Jablonec,3,1,1.0
+2016-2017,14,2016-11-18,Vysočina Jihlava,Fastav Zlín,1,3,0.0
+2016-2017,14,2016-11-18,Dukla Prague,Slavia Prague,1,2,0.0
+2016-2017,14,2016-11-19,Slovácko,Hradec Králové,1,3,0.0
+2016-2017,14,2016-11-19,Bohemians 1905,Teplice,0,1,0.0
+2016-2017,14,2016-11-19,Zbrojovka Brno,Příbram,2,2,0.5
+2016-2017,14,2016-11-19,Mladá Boleslav,Viktoria Plzeň,0,0,0.5
+2016-2017,14,2016-11-19,Jablonec,Slovan Liberec,3,0,1.0
+2016-2017,14,2016-11-20,Sparta Prague,Karviná,3,0,1.0
+2016-2017,15,2016-11-26,Karviná,Bohemians 1905,3,0,1.0
+2016-2017,15,2016-11-26,Slavia Prague,Mladá Boleslav,2,1,1.0
+2016-2017,15,2016-11-26,Příbram,Vysočina Jihlava,0,0,0.5
+2016-2017,15,2016-11-26,Fastav Zlín,Dukla Prague,0,1,0.0
+2016-2017,15,2016-11-26,Teplice,Jablonec,1,0,1.0
+2016-2017,15,2016-11-27,Hradec Králové,Sparta Prague,1,2,0.0
+2016-2017,15,2016-11-27,Slovan Liberec,Slovácko,2,2,0.5
+2016-2017,15,2016-11-27,Viktoria Plzeň,Zbrojovka Brno,2,0,1.0
+2016-2017,16,2016-12-02,Fastav Zlín,Slavia Prague,0,4,0.0
+2016-2017,16,2016-12-03,Zbrojovka Brno,Karviná,1,1,0.5
+2016-2017,16,2016-12-03,Sparta Prague,Teplice,2,1,1.0
+2016-2017,16,2016-12-03,Vysočina Jihlava,Slovan Liberec,1,0,1.0
+2016-2017,16,2016-12-04,Dukla Prague,Slovácko,2,3,0.0
+2016-2017,16,2016-12-04,Mladá Boleslav,Příbram,2,2,0.5
+2016-2017,17,2017-02-18,Slovácko,Jablonec,0,0,0.5
+2016-2017,17,2017-02-18,Teplice,Zbrojovka Brno,1,1,0.5
+2016-2017,17,2017-02-18,Slavia Prague,Vysočina Jihlava,2,0,1.0
+2016-2017,17,2017-02-18,Viktoria Plzeň,Příbram,1,0,1.0
+2016-2017,17,2017-02-19,Karviná,Mladá Boleslav,1,1,0.5
+2016-2017,17,2017-02-19,Hradec Králové,Dukla Prague,0,2,0.0
+2016-2017,17,2017-02-19,Sparta Prague,Bohemians 1905,1,0,1.0
+2016-2017,17,2017-02-20,Slovan Liberec,Fastav Zlín,0,0,0.5
+2016-2017,18,2017-02-24,Vysočina Jihlava,Hradec Králové,3,1,1.0
+2016-2017,18,2017-02-25,Dukla Prague,Karviná,0,0,0.5
+2016-2017,18,2017-02-25,Zbrojovka Brno,Slovan Liberec,1,0,1.0
+2016-2017,18,2017-02-25,Bohemians 1905,Slovácko,0,0,0.5
+2016-2017,18,2017-02-25,Fastav Zlín,Viktoria Plzeň,0,0,0.5
+2016-2017,18,2017-02-25,Příbram,Slavia Prague,1,8,0.0
+2016-2017,18,2017-02-26,Jablonec,Sparta Prague,3,1,1.0
+2016-2017,18,2017-02-27,Mladá Boleslav,Teplice,1,1,0.5
+2016-2017,19,2017-03-04,Jablonec,Bohemians 1905,0,0,0.5
+2016-2017,19,2017-03-04,Teplice,Vysočina Jihlava,1,0,1.0
+2016-2017,19,2017-03-04,Slovácko,Zbrojovka Brno,0,0,0.5
+2016-2017,19,2017-03-04,Hradec Králové,Mladá Boleslav,0,0,0.5
+2016-2017,19,2017-03-04,Sparta Prague,Dukla Prague,1,0,1.0
+2016-2017,19,2017-03-05,Slovan Liberec,Příbram,2,1,1.0
+2016-2017,19,2017-03-05,Slavia Prague,Viktoria Plzeň,1,0,1.0
+2016-2017,19,2017-03-05,Karviná,Fastav Zlín,1,0,1.0
+2016-2017,20,2017-03-11,Vysočina Jihlava,Karviná,2,4,0.0
+2016-2017,20,2017-03-11,Příbram,Hradec Králové,1,0,1.0
+2016-2017,20,2017-03-11,Fastav Zlín,Slovácko,1,1,0.5
+2016-2017,20,2017-03-11,Dukla Prague,Jablonec,1,0,1.0
+2016-2017,20,2017-03-11,Zbrojovka Brno,Bohemians 1905,0,0,0.5
+2016-2017,20,2017-03-11,Viktoria Plzeň,Slovan Liberec,1,0,1.0
+2016-2017,20,2017-03-12,Mladá Boleslav,Sparta Prague,1,0,1.0
+2016-2017,20,2017-03-12,Slavia Prague,Teplice,2,1,1.0
+2016-2017,16,2017-03-14,Jablonec,Hradec Králové,2,1,1.0
+2016-2017,16,2017-03-15,Bohemians 1905,Viktoria Plzeň,0,1,0.0
+2016-2017,21,2017-03-17,Sparta Prague,Fastav Zlín,0,0,0.5
+2016-2017,21,2017-03-18,Teplice,Příbram,3,0,1.0
+2016-2017,21,2017-03-18,Slovan Liberec,Slavia Prague,1,1,0.5
+2016-2017,21,2017-03-18,Slovácko,Mladá Boleslav,2,1,1.0
+2016-2017,21,2017-03-19,Hradec Králové,Zbrojovka Brno,0,0,0.5
+2016-2017,21,2017-03-19,Jablonec,Vysočina Jihlava,5,0,1.0
+2016-2017,21,2017-03-19,Karviná,Viktoria Plzeň,2,3,0.0
+2016-2017,21,2017-03-19,Bohemians 1905,Dukla Prague,1,2,0.0
+2016-2017,22,2017-03-31,Mladá Boleslav,Jablonec,0,0,0.5
+2016-2017,22,2017-04-01,Slovan Liberec,Karviná,2,0,1.0
+2016-2017,22,2017-04-01,Zbrojovka Brno,Dukla Prague,0,0,0.5
+2016-2017,22,2017-04-01,Příbram,Bohemians 1905,1,0,1.0
+2016-2017,22,2017-04-01,Vysočina Jihlava,Slovácko,0,0,0.5
+2016-2017,22,2017-04-01,Fastav Zlín,Hradec Králové,1,3,0.0
+2016-2017,22,2017-04-01,Viktoria Plzeň,Teplice,2,2,0.5
+2016-2017,22,2017-04-02,Slavia Prague,Sparta Prague,1,1,0.5
+2016-2017,23,2017-04-07,Dukla Prague,Mladá Boleslav,1,2,0.0
+2016-2017,23,2017-04-07,Hradec Králové,Viktoria Plzeň,0,1,0.0
+2016-2017,23,2017-04-08,Slovácko,Příbram,1,0,1.0
+2016-2017,23,2017-04-08,Bohemians 1905,Vysočina Jihlava,1,0,1.0
+2016-2017,23,2017-04-08,Teplice,Slovan Liberec,3,1,1.0
+2016-2017,23,2017-04-08,Karviná,Slavia Prague,1,2,0.0
+2016-2017,23,2017-04-09,Jablonec,Fastav Zlín,2,0,1.0
+2016-2017,23,2017-04-09,Sparta Prague,Zbrojovka Brno,3,2,1.0
+2016-2017,24,2017-04-15,Zbrojovka Brno,Jablonec,2,0,1.0
+2016-2017,24,2017-04-15,Fastav Zlín,Teplice,0,2,0.0
+2016-2017,24,2017-04-15,Příbram,Karviná,4,2,1.0
+2016-2017,24,2017-04-15,Mladá Boleslav,Bohemians 1905,1,1,0.5
+2016-2017,24,2017-04-15,Vysočina Jihlava,Sparta Prague,1,0,1.0
+2016-2017,24,2017-04-16,Slovan Liberec,Dukla Prague,3,1,1.0
+2016-2017,24,2017-04-16,Viktoria Plzeň,Slovácko,2,0,1.0
+2016-2017,24,2017-04-17,Slavia Prague,Hradec Králové,4,0,1.0
+2016-2017,25,2017-04-21,Dukla Prague,Vysočina Jihlava,4,1,1.0
+2016-2017,25,2017-04-21,Slovácko,Slavia Prague,0,2,0.0
+2016-2017,25,2017-04-22,Hradec Králové,Slovan Liberec,0,1,0.0
+2016-2017,25,2017-04-22,Teplice,Karviná,1,0,1.0
+2016-2017,25,2017-04-22,Zbrojovka Brno,Mladá Boleslav,2,3,0.0
+2016-2017,25,2017-04-22,Bohemians 1905,Fastav Zlín,0,2,0.0
+2016-2017,25,2017-04-23,Jablonec,Příbram,2,4,0.0
+2016-2017,25,2017-04-23,Sparta Prague,Viktoria Plzeň,2,0,1.0
+2016-2017,26,2017-04-28,Vysočina Jihlava,Zbrojovka Brno,3,0,1.0
+2016-2017,26,2017-04-28,Příbram,Sparta Prague,1,2,0.0
+2016-2017,26,2017-04-29,Fastav Zlín,Mladá Boleslav,1,2,0.0
+2016-2017,26,2017-04-29,Viktoria Plzeň,Dukla Prague,2,0,1.0
+2016-2017,26,2017-04-30,Karviná,Hradec Králové,4,2,1.0
+2016-2017,26,2017-04-30,Teplice,Slovácko,2,2,0.5
+2016-2017,26,2017-04-30,Slavia Prague,Jablonec,1,1,0.5
+2016-2017,26,2017-05-01,Slovan Liberec,Bohemians 1905,4,1,1.0
+2016-2017,27,2017-05-05,Dukla Prague,Příbram,3,1,1.0
+2016-2017,27,2017-05-06,Jablonec,Viktoria Plzeň,2,2,0.5
+2016-2017,27,2017-05-06,Bohemians 1905,Slavia Prague,1,3,0.0
+2016-2017,27,2017-05-06,Slovácko,Karviná,1,1,0.5
+2016-2017,27,2017-05-07,Hradec Králové,Teplice,0,2,0.0
+2016-2017,27,2017-05-07,Sparta Prague,Slovan Liberec,1,0,1.0
+2016-2017,27,2017-05-07,Zbrojovka Brno,Fastav Zlín,2,0,1.0
+2016-2017,27,2017-05-07,Mladá Boleslav,Vysočina Jihlava,3,1,1.0
+2016-2017,28,2017-05-12,Viktoria Plzeň,Mladá Boleslav,3,3,0.5
+2016-2017,28,2017-05-12,Karviná,Sparta Prague,1,1,0.5
+2016-2017,28,2017-05-13,Příbram,Zbrojovka Brno,2,3,0.0
+2016-2017,28,2017-05-13,Slovan Liberec,Jablonec,1,1,0.5
+2016-2017,28,2017-05-13,Hradec Králové,Slovácko,2,1,1.0
+2016-2017,28,2017-05-13,Fastav Zlín,Vysočina Jihlava,0,3,0.0
+2016-2017,28,2017-05-13,Slavia Prague,Dukla Prague,2,2,0.5
+2016-2017,28,2017-05-14,Teplice,Bohemians 1905,1,0,1.0
+2016-2017,29,2017-05-20,Jablonec,Teplice,0,0,0.5
+2016-2017,29,2017-05-20,Sparta Prague,Hradec Králové,3,2,1.0
+2016-2017,29,2017-05-20,Vysočina Jihlava,Příbram,1,1,0.5
+2016-2017,29,2017-05-20,Bohemians 1905,Karviná,2,0,1.0
+2016-2017,29,2017-05-20,Slovácko,Slovan Liberec,0,1,0.0
+2016-2017,29,2017-05-20,Dukla Prague,Fastav Zlín,1,0,1.0
+2016-2017,29,2017-05-20,Zbrojovka Brno,Viktoria Plzeň,0,1,0.0
+2016-2017,29,2017-05-20,Mladá Boleslav,Slavia Prague,1,2,0.0
+2016-2017,30,2017-05-27,Slovan Liberec,Mladá Boleslav,4,0,1.0
+2016-2017,30,2017-05-27,Hradec Králové,Bohemians 1905,1,0,1.0
+2016-2017,30,2017-05-27,Teplice,Dukla Prague,0,1,0.0
+2016-2017,30,2017-05-27,Slovácko,Sparta Prague,1,1,0.5
+2016-2017,30,2017-05-27,Viktoria Plzeň,Vysočina Jihlava,2,0,1.0
+2016-2017,30,2017-05-27,Slavia Prague,Zbrojovka Brno,4,0,1.0
+2016-2017,30,2017-05-27,Příbram,Fastav Zlín,0,2,0.0
+2016-2017,30,2017-05-27,Karviná,Jablonec,0,2,0.0

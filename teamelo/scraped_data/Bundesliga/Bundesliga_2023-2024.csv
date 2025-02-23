@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023-2024,1,2023-08-18,Werder Bremen,Bayern Munich,0,4,0.0
+2023-2024,1,2023-08-19,Leverkusen,RB Leipzig,3,2,1.0
+2023-2024,1,2023-08-19,Wolfsburg,Heidenheim,2,0,1.0
+2023-2024,1,2023-08-19,Stuttgart,Bochum,5,0,1.0
+2023-2024,1,2023-08-19,Augsburg,Gladbach,4,4,0.5
+2023-2024,1,2023-08-19,Hoffenheim,Freiburg,1,2,0.0
+2023-2024,1,2023-08-19,Dortmund,Köln,1,0,1.0
+2023-2024,1,2023-08-20,Union Berlin,Mainz 05,4,1,1.0
+2023-2024,1,2023-08-20,Eint Frankfurt,Darmstadt 98,1,0,1.0
+2023-2024,2,2023-08-25,RB Leipzig,Stuttgart,5,1,1.0
+2023-2024,2,2023-08-26,Bochum,Dortmund,1,1,0.5
+2023-2024,2,2023-08-26,Darmstadt 98,Union Berlin,1,4,0.0
+2023-2024,2,2023-08-26,Freiburg,Werder Bremen,1,0,1.0
+2023-2024,2,2023-08-26,Köln,Wolfsburg,1,2,0.0
+2023-2024,2,2023-08-26,Heidenheim,Hoffenheim,2,3,0.0
+2023-2024,2,2023-08-26,Gladbach,Leverkusen,0,3,0.0
+2023-2024,2,2023-08-27,Mainz 05,Eint Frankfurt,1,1,0.5
+2023-2024,2,2023-08-27,Bayern Munich,Augsburg,3,1,1.0
+2023-2024,3,2023-09-01,Dortmund,Heidenheim,2,2,0.5
+2023-2024,3,2023-09-02,Werder Bremen,Mainz 05,4,0,1.0
+2023-2024,3,2023-09-02,Hoffenheim,Wolfsburg,3,1,1.0
+2023-2024,3,2023-09-02,Leverkusen,Darmstadt 98,5,1,1.0
+2023-2024,3,2023-09-02,Augsburg,Bochum,2,2,0.5
+2023-2024,3,2023-09-02,Stuttgart,Freiburg,5,0,1.0
+2023-2024,3,2023-09-02,Gladbach,Bayern Munich,1,2,0.0
+2023-2024,3,2023-09-03,Eint Frankfurt,Köln,1,1,0.5
+2023-2024,3,2023-09-03,Union Berlin,RB Leipzig,0,3,0.0
+2023-2024,4,2023-09-15,Bayern Munich,Leverkusen,2,2,0.5
+2023-2024,4,2023-09-16,Wolfsburg,Union Berlin,2,1,1.0
+2023-2024,4,2023-09-16,Mainz 05,Stuttgart,1,3,0.0
+2023-2024,4,2023-09-16,Freiburg,Dortmund,2,4,0.0
+2023-2024,4,2023-09-16,Köln,Hoffenheim,1,3,0.0
+2023-2024,4,2023-09-16,RB Leipzig,Augsburg,3,0,1.0
+2023-2024,4,2023-09-16,Bochum,Eint Frankfurt,1,1,0.5
+2023-2024,4,2023-09-17,Heidenheim,Werder Bremen,4,2,1.0
+2023-2024,4,2023-09-17,Darmstadt 98,Gladbach,3,3,0.5
+2023-2024,5,2023-09-22,Stuttgart,Darmstadt 98,3,1,1.0
+2023-2024,5,2023-09-23,Bayern Munich,Bochum,7,0,1.0
+2023-2024,5,2023-09-23,Union Berlin,Hoffenheim,0,2,0.0
+2023-2024,5,2023-09-23,Augsburg,Mainz 05,2,1,1.0
+2023-2024,5,2023-09-23,Dortmund,Wolfsburg,1,0,1.0
+2023-2024,5,2023-09-23,Gladbach,RB Leipzig,0,1,0.0
+2023-2024,5,2023-09-23,Werder Bremen,Köln,2,1,1.0
+2023-2024,5,2023-09-24,Leverkusen,Heidenheim,4,1,1.0
+2023-2024,5,2023-09-24,Eint Frankfurt,Freiburg,0,0,0.5
+2023-2024,6,2023-09-29,Hoffenheim,Dortmund,1,3,0.0
+2023-2024,6,2023-09-30,Köln,Stuttgart,0,2,0.0
+2023-2024,6,2023-09-30,Heidenheim,Union Berlin,1,0,1.0
+2023-2024,6,2023-09-30,Wolfsburg,Eint Frankfurt,2,0,1.0
+2023-2024,6,2023-09-30,Bochum,Gladbach,1,3,0.0
+2023-2024,6,2023-09-30,Mainz 05,Leverkusen,0,3,0.0
+2023-2024,6,2023-09-30,RB Leipzig,Bayern Munich,2,2,0.5
+2023-2024,6,2023-10-01,Darmstadt 98,Werder Bremen,4,2,1.0
+2023-2024,6,2023-10-01,Freiburg,Augsburg,2,0,1.0
+2023-2024,7,2023-10-06,Gladbach,Mainz 05,2,2,0.5
+2023-2024,7,2023-10-07,RB Leipzig,Bochum,0,0,0.5
+2023-2024,7,2023-10-07,Dortmund,Union Berlin,4,2,1.0
+2023-2024,7,2023-10-07,Augsburg,Darmstadt 98,1,2,0.0
+2023-2024,7,2023-10-07,Stuttgart,Wolfsburg,3,1,1.0
+2023-2024,7,2023-10-07,Werder Bremen,Hoffenheim,2,3,0.0
+2023-2024,7,2023-10-08,Leverkusen,Köln,3,0,1.0
+2023-2024,7,2023-10-08,Bayern Munich,Freiburg,3,0,1.0
+2023-2024,7,2023-10-08,Eint Frankfurt,Heidenheim,2,0,1.0
+2023-2024,8,2023-10-20,Dortmund,Werder Bremen,1,0,1.0
+2023-2024,8,2023-10-21,Freiburg,Bochum,2,1,1.0
+2023-2024,8,2023-10-21,Darmstadt 98,RB Leipzig,1,3,0.0
+2023-2024,8,2023-10-21,Wolfsburg,Leverkusen,1,2,0.0
+2023-2024,8,2023-10-21,Union Berlin,Stuttgart,0,3,0.0
+2023-2024,8,2023-10-21,Hoffenheim,Eint Frankfurt,1,3,0.0
+2023-2024,8,2023-10-21,Mainz 05,Bayern Munich,1,3,0.0
+2023-2024,8,2023-10-22,Köln,Gladbach,3,1,1.0
+2023-2024,8,2023-10-22,Heidenheim,Augsburg,2,5,0.0
+2023-2024,9,2023-10-27,Bochum,Mainz 05,2,2,0.5
+2023-2024,9,2023-10-28,Gladbach,Heidenheim,2,1,1.0
+2023-2024,9,2023-10-28,Werder Bremen,Union Berlin,2,0,1.0
+2023-2024,9,2023-10-28,Augsburg,Wolfsburg,3,2,1.0
+2023-2024,9,2023-10-28,Stuttgart,Hoffenheim,2,3,0.0
+2023-2024,9,2023-10-28,Bayern Munich,Darmstadt 98,8,0,1.0
+2023-2024,9,2023-10-28,RB Leipzig,Köln,6,0,1.0
+2023-2024,9,2023-10-29,Eint Frankfurt,Dortmund,3,3,0.5
+2023-2024,9,2023-10-29,Leverkusen,Freiburg,2,1,1.0
+2023-2024,10,2023-11-03,Darmstadt 98,Bochum,1,2,0.0
+2023-2024,10,2023-11-04,Mainz 05,RB Leipzig,2,0,1.0
+2023-2024,10,2023-11-04,Freiburg,Gladbach,3,3,0.5
+2023-2024,10,2023-11-04,Köln,Augsburg,1,1,0.5
+2023-2024,10,2023-11-04,Hoffenheim,Leverkusen,2,3,0.0
+2023-2024,10,2023-11-04,Union Berlin,Eint Frankfurt,0,3,0.0
+2023-2024,10,2023-11-04,Dortmund,Bayern Munich,0,4,0.0
+2023-2024,10,2023-11-05,Wolfsburg,Werder Bremen,2,2,0.5
+2023-2024,10,2023-11-05,Heidenheim,Stuttgart,2,0,1.0
+2023-2024,11,2023-11-10,Gladbach,Wolfsburg,4,0,1.0
+2023-2024,11,2023-11-11,Augsburg,Hoffenheim,1,1,0.5
+2023-2024,11,2023-11-11,Stuttgart,Dortmund,2,1,1.0
+2023-2024,11,2023-11-11,Bayern Munich,Heidenheim,4,2,1.0
+2023-2024,11,2023-11-11,Darmstadt 98,Mainz 05,0,0,0.5
+2023-2024,11,2023-11-11,Bochum,Köln,1,1,0.5
+2023-2024,11,2023-11-12,Leverkusen,Union Berlin,4,0,1.0
+2023-2024,11,2023-11-12,Werder Bremen,Eint Frankfurt,2,2,0.5
+2023-2024,11,2023-11-12,RB Leipzig,Freiburg,3,1,1.0
+2023-2024,12,2023-11-24,Köln,Bayern Munich,0,1,0.0
+2023-2024,12,2023-11-25,Freiburg,Darmstadt 98,1,1,0.5
+2023-2024,12,2023-11-25,Werder Bremen,Leverkusen,0,3,0.0
+2023-2024,12,2023-11-25,Wolfsburg,RB Leipzig,2,1,1.0
+2023-2024,12,2023-11-25,Union Berlin,Augsburg,1,1,0.5
+2023-2024,12,2023-11-25,Dortmund,Gladbach,4,2,1.0
+2023-2024,12,2023-11-25,Eint Frankfurt,Stuttgart,1,2,0.0
+2023-2024,12,2023-11-26,Heidenheim,Bochum,0,0,0.5
+2023-2024,12,2023-11-26,Hoffenheim,Mainz 05,1,1,0.5
+2023-2024,13,2023-12-01,Darmstadt 98,Köln,0,1,0.0
+2023-2024,13,2023-12-02,RB Leipzig,Heidenheim,2,1,1.0
+2023-2024,13,2023-12-02,Bochum,Wolfsburg,3,1,1.0
+2023-2024,13,2023-12-02,Gladbach,Hoffenheim,2,1,1.0
+2023-2024,13,2023-12-02,Stuttgart,Werder Bremen,2,0,1.0
+2023-2024,13,2023-12-03,Mainz 05,Freiburg,0,1,0.0
+2023-2024,13,2023-12-03,Leverkusen,Dortmund,1,1,0.5
+2023-2024,13,2023-12-03,Augsburg,Eint Frankfurt,2,1,1.0
+2023-2024,14,2023-12-08,Hoffenheim,Bochum,3,1,1.0
+2023-2024,14,2023-12-09,Heidenheim,Darmstadt 98,3,2,1.0
+2023-2024,14,2023-12-09,Eint Frankfurt,Bayern Munich,5,1,1.0
+2023-2024,14,2023-12-09,Union Berlin,Gladbach,3,1,1.0
+2023-2024,14,2023-12-09,Wolfsburg,Freiburg,0,1,0.0
+2023-2024,14,2023-12-09,Werder Bremen,Augsburg,2,0,1.0
+2023-2024,14,2023-12-09,Dortmund,RB Leipzig,2,3,0.0
+2023-2024,14,2023-12-10,Stuttgart,Leverkusen,1,1,0.5
+2023-2024,14,2023-12-10,Köln,Mainz 05,0,0,0.5
+2023-2024,15,2023-12-15,Gladbach,Werder Bremen,2,2,0.5
+2023-2024,15,2023-12-16,Darmstadt 98,Wolfsburg,0,1,0.0
+2023-2024,15,2023-12-16,Bochum,Union Berlin,3,0,1.0
+2023-2024,15,2023-12-16,Augsburg,Dortmund,1,1,0.5
+2023-2024,15,2023-12-16,Mainz 05,Heidenheim,0,1,0.0
+2023-2024,15,2023-12-16,RB Leipzig,Hoffenheim,3,1,1.0
+2023-2024,15,2023-12-17,Freiburg,Köln,2,0,1.0
+2023-2024,15,2023-12-17,Leverkusen,Eint Frankfurt,3,0,1.0
+2023-2024,15,2023-12-17,Bayern Munich,Stuttgart,3,0,1.0
+2023-2024,16,2023-12-19,Werder Bremen,RB Leipzig,1,1,0.5
+2023-2024,16,2023-12-19,Hoffenheim,Darmstadt 98,3,3,0.5
+2023-2024,16,2023-12-19,Dortmund,Mainz 05,1,1,0.5
+2023-2024,16,2023-12-20,Union Berlin,Köln,2,0,1.0
+2023-2024,16,2023-12-20,Heidenheim,Freiburg,3,2,1.0
+2023-2024,16,2023-12-20,Stuttgart,Augsburg,3,0,1.0
+2023-2024,16,2023-12-20,Wolfsburg,Bayern Munich,1,2,0.0
+2023-2024,16,2023-12-20,Leverkusen,Bochum,4,0,1.0
+2023-2024,16,2023-12-20,Eint Frankfurt,Gladbach,2,1,1.0
+2023-2024,17,2024-01-12,Bayern Munich,Hoffenheim,3,0,1.0
+2023-2024,17,2024-01-13,RB Leipzig,Eint Frankfurt,0,1,0.0
+2023-2024,17,2024-01-13,Freiburg,Union Berlin,0,0,0.5
+2023-2024,17,2024-01-13,Augsburg,Leverkusen,0,1,0.0
+2023-2024,17,2024-01-13,Köln,Heidenheim,1,1,0.5
+2023-2024,17,2024-01-13,Mainz 05,Wolfsburg,1,1,0.5
+2023-2024,17,2024-01-13,Darmstadt 98,Dortmund,0,3,0.0
+2023-2024,17,2024-01-14,Bochum,Werder Bremen,1,1,0.5
+2023-2024,17,2024-01-14,Gladbach,Stuttgart,3,1,1.0
+2023-2024,18,2024-01-20,Darmstadt 98,Eint Frankfurt,2,2,0.5
+2023-2024,18,2024-01-20,Heidenheim,Wolfsburg,1,1,0.5
+2023-2024,18,2024-01-20,Köln,Dortmund,0,4,0.0
+2023-2024,18,2024-01-20,Freiburg,Hoffenheim,3,2,1.0
+2023-2024,18,2024-01-20,Bochum,Stuttgart,1,0,1.0
+2023-2024,18,2024-01-20,RB Leipzig,Leverkusen,2,3,0.0
+2023-2024,18,2024-01-21,Bayern Munich,Werder Bremen,0,1,0.0
+2023-2024,18,2024-01-21,Gladbach,Augsburg,1,2,0.0
+2023-2024,13,2024-01-24,Bayern Munich,Union Berlin,1,0,1.0
+2023-2024,19,2024-01-26,Eint Frankfurt,Mainz 05,1,0,1.0
+2023-2024,19,2024-01-27,Werder Bremen,Freiburg,3,1,1.0
+2023-2024,19,2024-01-27,Augsburg,Bayern Munich,2,3,0.0
+2023-2024,19,2024-01-27,Wolfsburg,Köln,1,1,0.5
+2023-2024,19,2024-01-27,Hoffenheim,Heidenheim,1,1,0.5
+2023-2024,19,2024-01-27,Stuttgart,RB Leipzig,5,2,1.0
+2023-2024,19,2024-01-27,Leverkusen,Gladbach,0,0,0.5
+2023-2024,19,2024-01-28,Union Berlin,Darmstadt 98,1,0,1.0
+2023-2024,19,2024-01-28,Dortmund,Bochum,3,1,1.0
+2023-2024,20,2024-02-02,Heidenheim,Dortmund,0,0,0.5
+2023-2024,20,2024-02-03,Freiburg,Stuttgart,1,3,0.0
+2023-2024,20,2024-02-03,Bayern Munich,Gladbach,3,1,1.0
+2023-2024,20,2024-02-03,Mainz 05,Werder Bremen,0,1,0.0
+2023-2024,20,2024-02-03,Darmstadt 98,Leverkusen,0,2,0.0
+2023-2024,20,2024-02-03,Bochum,Augsburg,1,1,0.5
+2023-2024,20,2024-02-03,Köln,Eint Frankfurt,2,0,1.0
+2023-2024,20,2024-02-04,Wolfsburg,Hoffenheim,2,2,0.5
+2023-2024,20,2024-02-04,RB Leipzig,Union Berlin,2,0,1.0
+2023-2024,18,2024-02-07,Mainz 05,Union Berlin,1,1,0.5
+2023-2024,21,2024-02-09,Dortmund,Freiburg,3,0,1.0
+2023-2024,21,2024-02-10,Werder Bremen,Heidenheim,1,2,0.0
+2023-2024,21,2024-02-10,Union Berlin,Wolfsburg,1,0,1.0
+2023-2024,21,2024-02-10,Gladbach,Darmstadt 98,0,0,0.5
+2023-2024,21,2024-02-10,Eint Frankfurt,Bochum,1,1,0.5
+2023-2024,21,2024-02-10,Augsburg,RB Leipzig,2,2,0.5
+2023-2024,21,2024-02-10,Leverkusen,Bayern Munich,3,0,1.0
+2023-2024,21,2024-02-11,Stuttgart,Mainz 05,3,1,1.0
+2023-2024,21,2024-02-11,Hoffenheim,Köln,1,1,0.5
+2023-2024,22,2024-02-16,Köln,Werder Bremen,0,1,0.0
+2023-2024,22,2024-02-17,Mainz 05,Augsburg,1,0,1.0
+2023-2024,22,2024-02-17,Hoffenheim,Union Berlin,0,1,0.0
+2023-2024,22,2024-02-17,Darmstadt 98,Stuttgart,1,2,0.0
+2023-2024,22,2024-02-17,Wolfsburg,Dortmund,1,1,0.5
+2023-2024,22,2024-02-17,Heidenheim,Leverkusen,1,2,0.0
+2023-2024,22,2024-02-17,RB Leipzig,Gladbach,2,0,1.0
+2023-2024,22,2024-02-18,Freiburg,Eint Frankfurt,3,3,0.5
+2023-2024,22,2024-02-18,Bochum,Bayern Munich,3,2,1.0
+2023-2024,23,2024-02-23,Leverkusen,Mainz 05,2,1,1.0
+2023-2024,23,2024-02-24,Union Berlin,Heidenheim,2,2,0.5
+2023-2024,23,2024-02-24,Werder Bremen,Darmstadt 98,1,1,0.5
+2023-2024,23,2024-02-24,Gladbach,Bochum,5,2,1.0
+2023-2024,23,2024-02-24,Stuttgart,Köln,1,1,0.5
+2023-2024,23,2024-02-24,Bayern Munich,RB Leipzig,2,1,1.0
+2023-2024,23,2024-02-25,Eint Frankfurt,Wolfsburg,2,2,0.5
+2023-2024,23,2024-02-25,Dortmund,Hoffenheim,2,3,0.0
+2023-2024,23,2024-02-25,Augsburg,Freiburg,2,1,1.0
+2023-2024,24,2024-03-01,Freiburg,Bayern Munich,2,2,0.5
+2023-2024,24,2024-03-02,Bochum,RB Leipzig,1,4,0.0
+2023-2024,24,2024-03-02,Heidenheim,Eint Frankfurt,1,2,0.0
+2023-2024,24,2024-03-02,Mainz 05,Gladbach,1,1,0.5
+2023-2024,24,2024-03-02,Union Berlin,Dortmund,0,2,0.0
+2023-2024,24,2024-03-02,Darmstadt 98,Augsburg,0,6,0.0
+2023-2024,24,2024-03-02,Wolfsburg,Stuttgart,2,3,0.0
+2023-2024,24,2024-03-03,Köln,Leverkusen,0,2,0.0
+2023-2024,24,2024-03-03,Hoffenheim,Werder Bremen,2,1,1.0
+2023-2024,25,2024-03-08,Stuttgart,Union Berlin,2,0,1.0
+2023-2024,25,2024-03-09,Bayern Munich,Mainz 05,8,1,1.0
+2023-2024,25,2024-03-09,RB Leipzig,Darmstadt 98,2,0,1.0
+2023-2024,25,2024-03-09,Gladbach,Köln,3,3,0.5
+2023-2024,25,2024-03-09,Augsburg,Heidenheim,1,0,1.0
+2023-2024,25,2024-03-09,Werder Bremen,Dortmund,1,2,0.0
+2023-2024,25,2024-03-10,Bochum,Freiburg,1,2,0.0
+2023-2024,25,2024-03-10,Eint Frankfurt,Hoffenheim,3,1,1.0
+2023-2024,25,2024-03-10,Leverkusen,Wolfsburg,2,0,1.0
+2023-2024,26,2024-03-15,Köln,RB Leipzig,1,5,0.0
+2023-2024,26,2024-03-16,Wolfsburg,Augsburg,1,3,0.0
+2023-2024,26,2024-03-16,Heidenheim,Gladbach,1,1,0.5
+2023-2024,26,2024-03-16,Union Berlin,Werder Bremen,2,1,1.0
+2023-2024,26,2024-03-16,Mainz 05,Bochum,2,0,1.0
+2023-2024,26,2024-03-16,Darmstadt 98,Bayern Munich,2,5,0.0
+2023-2024,26,2024-03-16,Hoffenheim,Stuttgart,0,3,0.0
+2023-2024,26,2024-03-17,Freiburg,Leverkusen,2,3,0.0
+2023-2024,26,2024-03-17,Dortmund,Eint Frankfurt,3,1,1.0
+2023-2024,27,2024-03-30,Werder Bremen,Wolfsburg,0,2,0.0
+2023-2024,27,2024-03-30,Eint Frankfurt,Union Berlin,0,0,0.5
+2023-2024,27,2024-03-30,RB Leipzig,Mainz 05,0,0,0.5
+2023-2024,27,2024-03-30,Leverkusen,Hoffenheim,2,1,1.0
+2023-2024,27,2024-03-30,Gladbach,Freiburg,0,3,0.0
+2023-2024,27,2024-03-30,Bayern Munich,Dortmund,0,2,0.0
+2023-2024,27,2024-03-31,Augsburg,Köln,1,1,0.5
+2023-2024,27,2024-03-31,Stuttgart,Heidenheim,3,3,0.5
+2023-2024,27,2024-03-31,Bochum,Darmstadt 98,2,2,0.5
+2023-2024,28,2024-04-05,Eint Frankfurt,Werder Bremen,1,1,0.5
+2023-2024,28,2024-04-06,Freiburg,RB Leipzig,1,4,0.0
+2023-2024,28,2024-04-06,Union Berlin,Leverkusen,0,1,0.0
+2023-2024,28,2024-04-06,Köln,Bochum,2,1,1.0
+2023-2024,28,2024-04-06,Mainz 05,Darmstadt 98,4,0,1.0
+2023-2024,28,2024-04-06,Heidenheim,Bayern Munich,3,2,1.0
+2023-2024,28,2024-04-06,Dortmund,Stuttgart,0,1,0.0
+2023-2024,28,2024-04-07,Hoffenheim,Augsburg,3,1,1.0
+2023-2024,28,2024-04-07,Wolfsburg,Gladbach,1,3,0.0
+2023-2024,29,2024-04-12,Augsburg,Union Berlin,2,0,1.0
+2023-2024,29,2024-04-13,Gladbach,Dortmund,1,2,0.0
+2023-2024,29,2024-04-13,Mainz 05,Hoffenheim,4,1,1.0
+2023-2024,29,2024-04-13,Bochum,Heidenheim,1,1,0.5
+2023-2024,29,2024-04-13,Bayern Munich,Köln,2,0,1.0
+2023-2024,29,2024-04-13,RB Leipzig,Wolfsburg,3,0,1.0
+2023-2024,29,2024-04-13,Stuttgart,Eint Frankfurt,3,0,1.0
+2023-2024,29,2024-04-14,Darmstadt 98,Freiburg,0,1,0.0
+2023-2024,29,2024-04-14,Leverkusen,Werder Bremen,5,0,1.0
+2023-2024,30,2024-04-19,Eint Frankfurt,Augsburg,3,1,1.0
+2023-2024,30,2024-04-20,Wolfsburg,Bochum,1,0,1.0
+2023-2024,30,2024-04-20,Heidenheim,RB Leipzig,1,2,0.0
+2023-2024,30,2024-04-20,Hoffenheim,Gladbach,4,3,1.0
+2023-2024,30,2024-04-20,Köln,Darmstadt 98,0,2,0.0
+2023-2024,30,2024-04-20,Union Berlin,Bayern Munich,1,5,0.0
+2023-2024,30,2024-04-21,Werder Bremen,Stuttgart,2,1,1.0
+2023-2024,30,2024-04-21,Dortmund,Leverkusen,1,1,0.5
+2023-2024,30,2024-04-21,Freiburg,Mainz 05,1,1,0.5
+2023-2024,31,2024-04-26,Bochum,Hoffenheim,3,2,1.0
+2023-2024,31,2024-04-27,Augsburg,Werder Bremen,0,3,0.0
+2023-2024,31,2024-04-27,Bayern Munich,Eint Frankfurt,2,1,1.0
+2023-2024,31,2024-04-27,Freiburg,Wolfsburg,1,2,0.0
+2023-2024,31,2024-04-27,RB Leipzig,Dortmund,4,1,1.0
+2023-2024,31,2024-04-27,Leverkusen,Stuttgart,2,2,0.5
+2023-2024,31,2024-04-28,Gladbach,Union Berlin,0,0,0.5
+2023-2024,31,2024-04-28,Mainz 05,Köln,1,1,0.5
+2023-2024,31,2024-04-28,Darmstadt 98,Heidenheim,0,1,0.0
+2023-2024,32,2024-05-03,Hoffenheim,RB Leipzig,1,1,0.5
+2023-2024,32,2024-05-04,Stuttgart,Bayern Munich,3,1,1.0
+2023-2024,32,2024-05-04,Werder Bremen,Gladbach,2,2,0.5
+2023-2024,32,2024-05-04,Dortmund,Augsburg,5,1,1.0
+2023-2024,32,2024-05-04,Wolfsburg,Darmstadt 98,3,0,1.0
+2023-2024,32,2024-05-04,Köln,Freiburg,0,0,0.5
+2023-2024,32,2024-05-05,Union Berlin,Bochum,3,4,0.0
+2023-2024,32,2024-05-05,Eint Frankfurt,Leverkusen,1,5,0.0
+2023-2024,32,2024-05-05,Heidenheim,Mainz 05,1,1,0.5
+2023-2024,33,2024-05-10,Augsburg,Stuttgart,0,1,0.0
+2023-2024,33,2024-05-11,Köln,Union Berlin,3,2,1.0
+2023-2024,33,2024-05-11,Freiburg,Heidenheim,1,1,0.5
+2023-2024,33,2024-05-11,Gladbach,Eint Frankfurt,1,1,0.5
+2023-2024,33,2024-05-11,RB Leipzig,Werder Bremen,1,1,0.5
+2023-2024,33,2024-05-11,Mainz 05,Dortmund,3,0,1.0
+2023-2024,33,2024-05-12,Darmstadt 98,Hoffenheim,0,6,0.0
+2023-2024,33,2024-05-12,Bayern Munich,Wolfsburg,2,0,1.0
+2023-2024,33,2024-05-12,Bochum,Leverkusen,0,5,0.0
+2023-2024,34,2024-05-18,Union Berlin,Freiburg,2,1,1.0
+2023-2024,34,2024-05-18,Werder Bremen,Bochum,4,1,1.0
+2023-2024,34,2024-05-18,Dortmund,Darmstadt 98,4,0,1.0
+2023-2024,34,2024-05-18,Stuttgart,Gladbach,4,0,1.0
+2023-2024,34,2024-05-18,Hoffenheim,Bayern Munich,4,2,1.0
+2023-2024,34,2024-05-18,Wolfsburg,Mainz 05,1,3,0.0
+2023-2024,34,2024-05-18,Leverkusen,Augsburg,2,1,1.0
+2023-2024,34,2024-05-18,Heidenheim,Köln,4,1,1.0
+2023-2024,34,2024-05-18,Eint Frankfurt,RB Leipzig,2,2,0.5

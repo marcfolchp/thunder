@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2011-2012,1,2011-08-12,Gil Vicente,Benfica,2,2,0.5
+2011-2012,1,2011-08-13,Rio Ave,Braga,0,0,0.5
+2011-2012,1,2011-08-13,Sporting CP,Olhanense,1,1,0.5
+2011-2012,1,2011-08-14,Vitória,Porto,0,1,0.0
+2011-2012,1,2011-08-14,Marítimo,Beira-Mar,0,0,0.5
+2011-2012,1,2011-08-14,Vitória Setúbal,Paços,2,1,1.0
+2011-2012,1,2011-08-14,Feirense,Nacional,0,0,0.5
+2011-2012,1,2011-08-15,União de Leiria,Académica,1,2,0.0
+2011-2012,2,2011-08-19,Porto,Gil Vicente,3,1,1.0
+2011-2012,2,2011-08-20,Benfica,Feirense,3,1,1.0
+2011-2012,2,2011-08-21,Beira-Mar,Sporting CP,0,0,0.5
+2011-2012,2,2011-08-21,Académica,Rio Ave,1,0,1.0
+2011-2012,2,2011-08-21,Paços,União de Leiria,2,1,1.0
+2011-2012,2,2011-08-21,Braga,Marítimo,2,0,1.0
+2011-2012,2,2011-08-22,Olhanense,Vitória Setúbal,2,2,0.5
+2011-2012,3,2011-08-27,Gil Vicente,Académica,2,0,1.0
+2011-2012,3,2011-08-28,Vitória,Beira-Mar,0,3,0.0
+2011-2012,3,2011-08-28,Sporting CP,Marítimo,2,3,0.0
+2011-2012,3,2011-08-28,Feirense,Paços,0,0,0.5
+2011-2012,3,2011-08-28,Rio Ave,Olhanense,0,1,0.0
+2011-2012,3,2011-08-29,Vitória Setúbal,Braga,0,1,0.0
+2011-2012,3,2011-08-29,Nacional,Benfica,0,2,0.0
+2011-2012,2,2011-09-04,Nacional,Vitória,1,4,0.0
+2011-2012,3,2011-09-06,União de Leiria,Porto,2,5,0.0
+2011-2012,4,2011-09-09,Porto,Vitória Setúbal,3,0,1.0
+2011-2012,4,2011-09-10,Benfica,Vitória,2,1,1.0
+2011-2012,4,2011-09-10,Paços,Sporting CP,2,3,0.0
+2011-2012,4,2011-09-11,Braga,Gil Vicente,3,1,1.0
+2011-2012,4,2011-09-11,Marítimo,Rio Ave,2,1,1.0
+2011-2012,4,2011-09-11,Beira-Mar,União de Leiria,0,1,0.0
+2011-2012,4,2011-09-11,Olhanense,Feirense,1,2,0.0
+2011-2012,4,2011-09-12,Académica,Nacional,4,0,1.0
+2011-2012,5,2011-09-16,Gil Vicente,Olhanense,1,1,0.5
+2011-2012,5,2011-09-17,Nacional,Paços,1,0,1.0
+2011-2012,5,2011-09-18,Vitória Setúbal,Beira-Mar,1,0,1.0
+2011-2012,5,2011-09-18,União de Leiria,Marítimo,1,3,0.0
+2011-2012,5,2011-09-18,Feirense,Porto,0,0,0.5
+2011-2012,5,2011-09-18,Benfica,Académica,4,1,1.0
+2011-2012,5,2011-09-19,Rio Ave,Sporting CP,2,3,0.0
+2011-2012,5,2011-09-19,Vitória,Braga,1,1,0.5
+2011-2012,6,2011-09-23,Porto,Benfica,2,2,0.5
+2011-2012,6,2011-09-24,Sporting CP,Vitória Setúbal,3,0,1.0
+2011-2012,6,2011-09-24,Braga,Nacional,2,0,1.0
+2011-2012,6,2011-09-25,Beira-Mar,Rio Ave,0,0,0.5
+2011-2012,6,2011-09-25,Paços,Gil Vicente,1,2,0.0
+2011-2012,6,2011-09-25,Marítimo,Vitória,2,1,1.0
+2011-2012,6,2011-09-25,Olhanense,União de Leiria,2,1,1.0
+2011-2012,6,2011-09-26,Académica,Feirense,4,0,1.0
+2011-2012,7,2011-09-30,Vitória Setúbal,Rio Ave,2,1,1.0
+2011-2012,7,2011-10-01,Benfica,Paços,4,1,1.0
+2011-2012,7,2011-10-02,Feirense,Marítimo,2,2,0.5
+2011-2012,7,2011-10-02,Académica,Porto,0,3,0.0
+2011-2012,7,2011-10-02,Vitória,Sporting CP,0,1,0.0
+2011-2012,7,2011-10-02,União de Leiria,Braga,1,0,1.0
+2011-2012,7,2011-10-02,Nacional,Olhanense,1,0,1.0
+2011-2012,7,2011-10-03,Gil Vicente,Beira-Mar,0,0,0.5
+2011-2012,8,2011-10-21,Paços,Académica,2,0,1.0
+2011-2012,8,2011-10-22,Olhanense,Vitória,1,0,1.0
+2011-2012,8,2011-10-22,Beira-Mar,Benfica,0,1,0.0
+2011-2012,8,2011-10-23,Braga,Feirense,3,0,1.0
+2011-2012,8,2011-10-23,Rio Ave,União de Leiria,2,0,1.0
+2011-2012,8,2011-10-23,Marítimo,Vitória Setúbal,1,0,1.0
+2011-2012,8,2011-10-23,Porto,Nacional,5,0,1.0
+2011-2012,8,2011-10-24,Sporting CP,Gil Vicente,6,1,1.0
+2011-2012,9,2011-10-28,Porto,Paços,3,0,1.0
+2011-2012,9,2011-10-29,Académica,Braga,0,0,0.5
+2011-2012,9,2011-10-29,Benfica,Olhanense,2,1,1.0
+2011-2012,9,2011-10-30,Vitória,Rio Ave,2,1,1.0
+2011-2012,9,2011-10-30,União de Leiria,Vitória Setúbal,2,0,1.0
+2011-2012,9,2011-10-30,Nacional,Beira-Mar,2,1,1.0
+2011-2012,9,2011-10-30,Feirense,Sporting CP,0,2,0.0
+2011-2012,9,2011-11-01,Gil Vicente,Marítimo,0,0,0.5
+2011-2012,10,2011-11-04,Paços,Vitória,1,5,0.0
+2011-2012,10,2011-11-05,Olhanense,Porto,0,0,0.5
+2011-2012,10,2011-11-05,Marítimo,Académica,3,2,1.0
+2011-2012,10,2011-11-06,Rio Ave,Nacional,2,1,1.0
+2011-2012,10,2011-11-06,Beira-Mar,Feirense,2,1,1.0
+2011-2012,10,2011-11-06,Vitória Setúbal,Gil Vicente,0,0,0.5
+2011-2012,10,2011-11-06,Braga,Benfica,1,1,0.5
+2011-2012,10,2011-11-06,Sporting CP,União de Leiria,3,1,1.0
+2011-2012,11,2011-11-25,Académica,Beira-Mar,0,1,0.0
+2011-2012,11,2011-11-26,Benfica,Sporting CP,1,0,1.0
+2011-2012,11,2011-11-26,Nacional,Marítimo,2,2,0.5
+2011-2012,11,2011-11-27,Gil Vicente,União de Leiria,2,1,1.0
+2011-2012,11,2011-11-27,Feirense,Rio Ave,2,0,1.0
+2011-2012,11,2011-11-27,Paços,Olhanense,1,1,0.5
+2011-2012,11,2011-11-27,Porto,Braga,3,2,1.0
+2011-2012,11,2011-11-28,Vitória,Vitória Setúbal,3,0,1.0
+2011-2012,12,2011-12-09,Braga,Paços,5,2,1.0
+2011-2012,12,2011-12-10,Sporting CP,Nacional,1,0,1.0
+2011-2012,12,2011-12-10,Beira-Mar,Porto,1,2,0.0
+2011-2012,12,2011-12-11,Marítimo,Benfica,0,1,0.0
+2011-2012,12,2011-12-11,União de Leiria,Vitória,1,0,1.0
+2011-2012,12,2011-12-11,Vitória Setúbal,Feirense,1,1,0.5
+2011-2012,12,2011-12-11,Rio Ave,Gil Vicente,2,0,1.0
+2011-2012,12,2011-12-12,Olhanense,Académica,0,2,0.0
+2011-2012,13,2011-12-16,Benfica,Rio Ave,5,1,1.0
+2011-2012,13,2011-12-17,Porto,Marítimo,2,0,1.0
+2011-2012,13,2011-12-17,Vitória,Gil Vicente,1,1,0.5
+2011-2012,13,2011-12-18,Nacional,Vitória Setúbal,1,1,0.5
+2011-2012,13,2011-12-18,Académica,Sporting CP,1,1,0.5
+2011-2012,13,2011-12-18,Paços,Beira-Mar,0,3,0.0
+2011-2012,13,2011-12-18,Feirense,União de Leiria,2,1,1.0
+2011-2012,13,2011-12-19,Olhanense,Braga,3,4,0.0
+2011-2012,14,2012-01-06,Vitória Setúbal,Académica,1,1,0.5
+2011-2012,14,2012-01-07,Sporting CP,Porto,0,0,0.5
+2011-2012,14,2012-01-08,Rio Ave,Paços,1,0,1.0
+2011-2012,14,2012-01-08,Gil Vicente,Nacional,0,3,0.0
+2011-2012,14,2012-01-08,Marítimo,Olhanense,2,1,1.0
+2011-2012,14,2012-01-08,Vitória,Feirense,1,0,1.0
+2011-2012,14,2012-01-08,União de Leiria,Benfica,0,4,0.0
+2011-2012,14,2012-01-09,Beira-Mar,Braga,1,2,0.0
+2011-2012,15,2012-01-13,Paços,Marítimo,1,1,0.5
+2011-2012,15,2012-01-14,Benfica,Vitória Setúbal,4,1,1.0
+2011-2012,15,2012-01-14,Feirense,Gil Vicente,0,0,0.5
+2011-2012,15,2012-01-14,Porto,Rio Ave,2,0,1.0
+2011-2012,15,2012-01-15,Académica,Vitória,0,2,0.0
+2011-2012,15,2012-01-15,Braga,Sporting CP,2,1,1.0
+2011-2012,15,2012-01-15,Nacional,União de Leiria,2,2,0.5
+2011-2012,15,2012-01-15,Olhanense,Beira-Mar,2,1,1.0
+2011-2012,16,2012-01-20,Académica,União de Leiria,0,0,0.5
+2011-2012,16,2012-01-21,Beira-Mar,Marítimo,1,2,0.0
+2011-2012,16,2012-01-22,Benfica,Gil Vicente,3,1,1.0
+2011-2012,16,2012-01-22,Braga,Rio Ave,2,1,1.0
+2011-2012,16,2012-01-22,Porto,Vitória,3,1,1.0
+2011-2012,16,2012-01-22,Nacional,Feirense,2,0,1.0
+2011-2012,16,2012-01-22,Paços,Vitória Setúbal,2,1,1.0
+2011-2012,16,2012-01-23,Olhanense,Sporting CP,0,0,0.5
+2011-2012,17,2012-01-27,Vitória,Nacional,1,0,1.0
+2011-2012,17,2012-01-28,Feirense,Benfica,1,2,0.0
+2011-2012,17,2012-01-28,Rio Ave,Académica,0,0,0.5
+2011-2012,17,2012-01-29,Vitória Setúbal,Olhanense,2,3,0.0
+2011-2012,17,2012-01-29,União de Leiria,Paços,2,4,0.0
+2011-2012,17,2012-01-29,Gil Vicente,Porto,3,1,1.0
+2011-2012,17,2012-01-29,Sporting CP,Beira-Mar,2,0,1.0
+2011-2012,17,2012-01-30,Marítimo,Braga,1,2,0.0
+2011-2012,18,2012-02-10,Braga,Vitória Setúbal,3,0,1.0
+2011-2012,18,2012-02-11,Benfica,Nacional,4,1,1.0
+2011-2012,18,2012-02-11,Marítimo,Sporting CP,2,0,1.0
+2011-2012,18,2012-02-12,Beira-Mar,Vitória,0,1,0.0
+2011-2012,18,2012-02-12,Olhanense,Rio Ave,0,2,0.0
+2011-2012,18,2012-02-12,Paços,Feirense,3,1,1.0
+2011-2012,18,2012-02-12,Porto,União de Leiria,4,0,1.0
+2011-2012,18,2012-02-13,Académica,Gil Vicente,0,2,0.0
+2011-2012,19,2012-02-17,Rio Ave,Marítimo,1,3,0.0
+2011-2012,19,2012-02-18,Gil Vicente,Braga,0,3,0.0
+2011-2012,19,2012-02-19,Sporting CP,Paços,1,0,1.0
+2011-2012,19,2012-02-19,Feirense,Olhanense,1,1,0.5
+2011-2012,19,2012-02-19,União de Leiria,Beira-Mar,0,0,0.5
+2011-2012,19,2012-02-19,Vitória Setúbal,Porto,1,3,0.0
+2011-2012,19,2012-02-19,Nacional,Académica,4,1,1.0
+2011-2012,19,2012-02-20,Vitória,Benfica,1,0,1.0
+2011-2012,20,2012-02-24,Marítimo,União de Leiria,1,0,1.0
+2011-2012,20,2012-02-25,Académica,Benfica,0,0,0.5
+2011-2012,20,2012-02-26,Sporting CP,Rio Ave,1,0,1.0
+2011-2012,20,2012-02-26,Porto,Feirense,2,0,1.0
+2011-2012,20,2012-02-26,Beira-Mar,Vitória Setúbal,2,3,0.0
+2011-2012,20,2012-02-26,Olhanense,Gil Vicente,0,0,0.5
+2011-2012,20,2012-02-26,Paços,Nacional,0,2,0.0
+2011-2012,20,2012-02-27,Braga,Vitória,4,0,1.0
+2011-2012,21,2012-03-02,Benfica,Porto,2,3,0.0
+2011-2012,21,2012-03-03,Nacional,Braga,1,3,0.0
+2011-2012,21,2012-03-03,Vitória Setúbal,Sporting CP,1,0,1.0
+2011-2012,21,2012-03-04,Vitória,Marítimo,1,0,1.0
+2011-2012,21,2012-03-04,Gil Vicente,Paços,1,2,0.0
+2011-2012,21,2012-03-04,Rio Ave,Beira-Mar,4,0,1.0
+2011-2012,21,2012-03-04,Feirense,Académica,1,1,0.5
+2011-2012,21,2012-03-05,União de Leiria,Olhanense,1,3,0.0
+2011-2012,22,2012-03-09,Marítimo,Feirense,2,1,1.0
+2011-2012,22,2012-03-10,Braga,União de Leiria,2,1,1.0
+2011-2012,22,2012-03-10,Porto,Académica,1,1,0.5
+2011-2012,22,2012-03-11,Olhanense,Nacional,4,4,0.5
+2011-2012,22,2012-03-11,Rio Ave,Vitória Setúbal,3,0,1.0
+2011-2012,22,2012-03-11,Beira-Mar,Gil Vicente,1,0,1.0
+2011-2012,22,2012-03-11,Sporting CP,Vitória,5,0,1.0
+2011-2012,22,2012-03-11,Paços,Benfica,1,2,0.0
+2011-2012,23,2012-03-16,Benfica,Beira-Mar,3,1,1.0
+2011-2012,23,2012-03-16,Nacional,Porto,0,2,0.0
+2011-2012,23,2012-03-17,União de Leiria,Rio Ave,1,0,1.0
+2011-2012,23,2012-03-17,Feirense,Braga,1,4,0.0
+2011-2012,23,2012-03-18,Académica,Paços,0,1,0.0
+2011-2012,23,2012-03-18,Vitória,Olhanense,2,2,0.5
+2011-2012,23,2012-03-18,Vitória Setúbal,Marítimo,1,1,0.5
+2011-2012,23,2012-03-19,Gil Vicente,Sporting CP,2,0,1.0
+2011-2012,24,2012-03-23,Olhanense,Benfica,0,0,0.5
+2011-2012,24,2012-03-24,Sporting CP,Feirense,1,0,1.0
+2011-2012,24,2012-03-25,Paços,Porto,1,1,0.5
+2011-2012,24,2012-03-25,Vitória Setúbal,União de Leiria,1,0,1.0
+2011-2012,24,2012-03-25,Beira-Mar,Nacional,0,3,0.0
+2011-2012,24,2012-03-25,Rio Ave,Vitória,0,1,0.0
+2011-2012,24,2012-03-26,Marítimo,Gil Vicente,3,2,1.0
+2011-2012,24,2012-03-26,Braga,Académica,2,1,1.0
+2011-2012,25,2012-03-30,Académica,Marítimo,0,1,0.0
+2011-2012,25,2012-03-31,Porto,Olhanense,2,0,1.0
+2011-2012,25,2012-03-31,Benfica,Braga,2,1,1.0
+2011-2012,25,2012-04-01,Nacional,Rio Ave,2,1,1.0
+2011-2012,25,2012-04-01,Feirense,Beira-Mar,1,3,0.0
+2011-2012,25,2012-04-01,Vitória,Paços,3,1,1.0
+2011-2012,25,2012-04-01,Gil Vicente,Vitória Setúbal,0,1,0.0
+2011-2012,25,2012-04-01,União de Leiria,Sporting CP,0,1,0.0
+2011-2012,26,2012-04-06,Vitória Setúbal,Vitória,1,0,1.0
+2011-2012,26,2012-04-06,União de Leiria,Gil Vicente,0,0,0.5
+2011-2012,26,2012-04-06,Beira-Mar,Académica,2,1,1.0
+2011-2012,26,2012-04-07,Olhanense,Paços,1,2,0.0
+2011-2012,26,2012-04-07,Rio Ave,Feirense,2,2,0.5
+2011-2012,26,2012-04-07,Marítimo,Nacional,2,4,0.0
+2011-2012,26,2012-04-07,Braga,Porto,0,1,0.0
+2011-2012,26,2012-04-09,Sporting CP,Benfica,1,0,1.0
+2011-2012,27,2012-04-20,Paços,Braga,1,1,0.5
+2011-2012,27,2012-04-21,Porto,Beira-Mar,3,0,1.0
+2011-2012,27,2012-04-21,Vitória,União de Leiria,3,2,1.0
+2011-2012,27,2012-04-21,Benfica,Marítimo,4,1,1.0
+2011-2012,27,2012-04-22,Nacional,Sporting CP,2,3,0.0
+2011-2012,27,2012-04-22,Feirense,Vitória Setúbal,1,0,1.0
+2011-2012,27,2012-04-22,Gil Vicente,Rio Ave,0,0,0.5
+2011-2012,27,2012-04-23,Académica,Olhanense,0,1,0.0
+2011-2012,28,2012-04-27,Braga,Olhanense,1,2,0.0
+2011-2012,28,2012-04-28,Gil Vicente,Vitória,3,1,1.0
+2011-2012,28,2012-04-28,Marítimo,Porto,0,2,0.0
+2011-2012,28,2012-04-29,União de Leiria,Feirense,0,4,0.0
+2011-2012,28,2012-04-29,Rio Ave,Benfica,2,2,0.5
+2011-2012,28,2012-04-29,Vitória Setúbal,Nacional,0,3,0.0
+2011-2012,28,2012-04-29,Beira-Mar,Paços,2,0,1.0
+2011-2012,28,2012-04-30,Sporting CP,Académica,2,1,1.0
+2011-2012,29,2012-05-05,Benfica,União de Leiria,1,0,1.0
+2011-2012,29,2012-05-05,Nacional,Gil Vicente,3,1,1.0
+2011-2012,29,2012-05-05,Académica,Vitória Setúbal,1,0,1.0
+2011-2012,29,2012-05-05,Feirense,Vitória,1,3,0.0
+2011-2012,29,2012-05-05,Paços,Rio Ave,2,2,0.5
+2011-2012,29,2012-05-05,Porto,Sporting CP,2,0,1.0
+2011-2012,29,2012-05-05,Braga,Beira-Mar,1,0,1.0
+2011-2012,29,2012-05-05,Olhanense,Marítimo,0,0,0.5
+2011-2012,30,2012-05-12,Rio Ave,Porto,2,5,0.0
+2011-2012,30,2012-05-12,Vitória Setúbal,Benfica,1,3,0.0
+2011-2012,30,2012-05-12,Vitória,Académica,1,2,0.0
+2011-2012,30,2012-05-12,Gil Vicente,Feirense,3,1,1.0
+2011-2012,30,2012-05-12,União de Leiria,Nacional,2,3,0.0
+2011-2012,30,2012-05-12,Sporting CP,Braga,3,2,1.0
+2011-2012,30,2012-05-12,Marítimo,Paços,1,1,0.5
+2011-2012,30,2012-05-12,Beira-Mar,Olhanense,1,2,0.0

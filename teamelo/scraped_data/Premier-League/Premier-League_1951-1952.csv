@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1951-1952,1,1951-08-18,Newcastle Utd,Stoke City,6,0,1.0
+1951-1952,1,1951-08-18,Derby County,Sunderland,3,4,0.0
+1951-1952,1,1951-08-18,Liverpool,Portsmouth,0,2,0.0
+1951-1952,1,1951-08-18,Blackpool,Chelsea,1,2,0.0
+1951-1952,1,1951-08-18,Bolton,Aston Villa,5,2,1.0
+1951-1952,1,1951-08-18,Manchester City,Wolves,0,0,0.5
+1951-1952,1,1951-08-18,Arsenal,Huddersfield,2,2,0.5
+1951-1952,1,1951-08-18,Middlesbrough,Tottenham,2,1,1.0
+1951-1952,1,1951-08-18,West Brom,Manchester Utd,3,3,0.5
+1951-1952,1,1951-08-18,Fulham,Preston,2,3,0.0
+1951-1952,1,1951-08-18,Charlton Ath,Burnley,1,0,1.0
+1951-1952,2,1951-08-20,Stoke City,West Brom,1,1,0.5
+1951-1952,2,1951-08-20,Tottenham,Fulham,1,0,1.0
+1951-1952,2,1951-08-21,Burnley,Liverpool,0,0,0.5
+1951-1952,2,1951-08-22,Wolves,Derby County,1,2,0.0
+1951-1952,2,1951-08-22,Preston,Charlton Ath,3,0,1.0
+1951-1952,2,1951-08-22,Portsmouth,Blackpool,1,3,0.0
+1951-1952,2,1951-08-22,Huddersfield,Manchester City,5,1,1.0
+1951-1952,2,1951-08-22,Manchester Utd,Middlesbrough,4,2,1.0
+1951-1952,2,1951-08-22,Bolton,Newcastle Utd,0,0,0.5
+1951-1952,2,1951-08-22,Chelsea,Arsenal,1,3,0.0
+1951-1952,3,1951-08-25,Huddersfield,Blackpool,1,3,0.0
+1951-1952,3,1951-08-25,Tottenham,West Brom,3,1,1.0
+1951-1952,3,1951-08-25,Preston,Middlesbrough,0,1,0.0
+1951-1952,3,1951-08-25,Burnley,Fulham,1,0,1.0
+1951-1952,3,1951-08-25,Stoke City,Bolton,1,2,0.0
+1951-1952,3,1951-08-25,Portsmouth,Charlton Ath,1,0,1.0
+1951-1952,3,1951-08-25,Aston Villa,Derby County,4,1,1.0
+1951-1952,3,1951-08-25,Manchester Utd,Newcastle Utd,2,1,1.0
+1951-1952,3,1951-08-25,Wolves,Arsenal,2,1,1.0
+1951-1952,3,1951-08-25,Chelsea,Liverpool,1,3,0.0
+1951-1952,3,1951-08-25,Sunderland,Manchester City,3,0,1.0
+1951-1952,4,1951-08-27,Aston Villa,Sunderland,2,1,1.0
+1951-1952,4,1951-08-27,Blackpool,Portsmouth,0,0,0.5
+1951-1952,4,1951-08-29,Fulham,Tottenham,1,2,0.0
+1951-1952,4,1951-08-29,Newcastle Utd,Bolton,0,1,0.0
+1951-1952,4,1951-08-29,Liverpool,Burnley,3,1,1.0
+1951-1952,4,1951-08-29,Arsenal,Chelsea,2,1,1.0
+1951-1952,4,1951-08-29,Derby County,Wolves,1,3,0.0
+1951-1952,4,1951-08-29,Manchester City,Huddersfield,3,0,1.0
+1951-1952,4,1951-08-29,West Brom,Stoke City,1,0,1.0
+1951-1952,4,1951-08-29,Charlton Ath,Preston,4,2,1.0
+1951-1952,4,1951-08-29,Middlesbrough,Manchester Utd,1,4,0.0
+1951-1952,5,1951-09-01,Middlesbrough,Burnley,5,0,1.0
+1951-1952,5,1951-09-01,Arsenal,Sunderland,3,0,1.0
+1951-1952,5,1951-09-01,Portsmouth,Chelsea,1,0,1.0
+1951-1952,5,1951-09-01,Blackpool,Wolves,3,2,1.0
+1951-1952,5,1951-09-01,Liverpool,Huddersfield,2,1,1.0
+1951-1952,5,1951-09-01,Manchester City,Aston Villa,2,2,0.5
+1951-1952,5,1951-09-01,Newcastle Utd,Tottenham,7,2,1.0
+1951-1952,5,1951-09-01,West Brom,Preston,1,1,0.5
+1951-1952,5,1951-09-01,Fulham,Charlton Ath,3,3,0.5
+1951-1952,5,1951-09-01,Derby County,Stoke City,4,2,1.0
+1951-1952,5,1951-09-01,Bolton,Manchester Utd,1,0,1.0
+1951-1952,6,1951-09-03,Bolton,Middlesbrough,3,1,1.0
+1951-1952,6,1951-09-03,Burnley,Tottenham,1,1,0.5
+1951-1952,6,1951-09-03,Stoke City,Fulham,1,1,0.5
+1951-1952,2,1951-09-05,Sunderland,Aston Villa,1,3,0.0
+1951-1952,6,1951-09-05,Portsmouth,Manchester City,1,0,1.0
+1951-1952,6,1951-09-05,West Brom,Newcastle Utd,3,3,0.5
+1951-1952,6,1951-09-05,Preston,Blackpool,3,1,1.0
+1951-1952,6,1951-09-05,Manchester Utd,Charlton Ath,3,2,1.0
+1951-1952,6,1951-09-05,Arsenal,Liverpool,0,0,0.5
+1951-1952,6,1951-09-05,Chelsea,Derby County,0,1,0.0
+1951-1952,7,1951-09-08,Sunderland,Blackpool,1,3,0.0
+1951-1952,7,1951-09-08,Preston,Newcastle Utd,1,2,0.0
+1951-1952,7,1951-09-08,Burnley,West Brom,6,1,1.0
+1951-1952,7,1951-09-08,Charlton Ath,Middlesbrough,4,3,1.0
+1951-1952,7,1951-09-08,Tottenham,Bolton,2,1,1.0
+1951-1952,7,1951-09-08,Huddersfield,Portsmouth,0,1,0.0
+1951-1952,7,1951-09-08,Aston Villa,Arsenal,1,0,1.0
+1951-1952,7,1951-09-08,Manchester Utd,Stoke City,4,0,1.0
+1951-1952,7,1951-09-08,Derby County,Manchester City,1,3,0.0
+1951-1952,7,1951-09-08,Wolves,Liverpool,2,1,1.0
+1951-1952,7,1951-09-08,Chelsea,Fulham,2,1,1.0
+1951-1952,8,1951-09-10,Tottenham,Burnley,1,1,0.5
+1951-1952,8,1951-09-10,Aston Villa,Huddersfield,1,0,1.0
+1951-1952,8,1951-09-10,Blackpool,Preston,0,3,0.0
+1951-1952,8,1951-09-12,Charlton Ath,Manchester Utd,2,2,0.5
+1951-1952,8,1951-09-12,Liverpool,Arsenal,0,0,0.5
+1951-1952,8,1951-09-12,Fulham,Stoke City,5,0,1.0
+1951-1952,9,1951-09-15,Stoke City,Tottenham,1,6,0.0
+1951-1952,9,1951-09-15,Portsmouth,Wolves,2,3,0.0
+1951-1952,9,1951-09-15,Blackpool,Aston Villa,0,3,0.0
+1951-1952,9,1951-09-15,Middlesbrough,Fulham,2,0,1.0
+1951-1952,9,1951-09-15,Bolton,Preston,1,1,0.5
+1951-1952,9,1951-09-15,Arsenal,Derby County,3,1,1.0
+1951-1952,9,1951-09-15,Newcastle Utd,Burnley,7,1,1.0
+1951-1952,9,1951-09-15,Chelsea,Huddersfield,2,1,1.0
+1951-1952,9,1951-09-15,Liverpool,Sunderland,2,2,0.5
+1951-1952,9,1951-09-15,West Brom,Charlton Ath,1,1,0.5
+1951-1952,9,1951-09-15,Manchester City,Manchester Utd,1,2,0.0
+1951-1952,38,1951-09-17,Stoke City,Charlton Ath,1,2,0.0
+1951-1952,6,1951-09-19,Huddersfield,Aston Villa,3,1,1.0
+1951-1952,10,1951-09-22,Tottenham,Manchester Utd,2,0,1.0
+1951-1952,10,1951-09-22,Manchester City,Arsenal,0,2,0.0
+1951-1952,10,1951-09-22,Burnley,Bolton,1,3,0.0
+1951-1952,10,1951-09-22,Sunderland,Portsmouth,3,1,1.0
+1951-1952,10,1951-09-22,Derby County,Blackpool,1,1,0.5
+1951-1952,10,1951-09-22,Charlton Ath,Newcastle Utd,3,0,1.0
+1951-1952,10,1951-09-22,Wolves,Chelsea,5,3,1.0
+1951-1952,10,1951-09-22,Preston,Stoke City,2,0,1.0
+1951-1952,10,1951-09-22,Aston Villa,Liverpool,2,0,1.0
+1951-1952,10,1951-09-22,Huddersfield,Middlesbrough,1,0,1.0
+1951-1952,10,1951-09-22,Fulham,West Brom,1,0,1.0
+1951-1952,11,1951-09-29,Liverpool,Derby County,2,0,1.0
+1951-1952,11,1951-09-29,Manchester Utd,Preston,1,2,0.0
+1951-1952,11,1951-09-29,Portsmouth,Aston Villa,2,0,1.0
+1951-1952,11,1951-09-29,Bolton,Charlton Ath,2,1,1.0
+1951-1952,11,1951-09-29,Huddersfield,Wolves,1,7,0.0
+1951-1952,11,1951-09-29,Chelsea,Sunderland,2,1,1.0
+1951-1952,11,1951-09-29,Stoke City,Burnley,2,1,1.0
+1951-1952,11,1951-09-29,West Brom,Middlesbrough,2,3,0.0
+1951-1952,11,1951-09-29,Newcastle Utd,Fulham,0,1,0.0
+1951-1952,11,1951-09-29,Arsenal,Tottenham,1,1,0.5
+1951-1952,11,1951-09-29,Blackpool,Manchester City,2,2,0.5
+1951-1952,12,1951-10-06,Manchester Utd,Derby County,2,1,1.0
+1951-1952,12,1951-10-06,Stoke City,Aston Villa,4,1,1.0
+1951-1952,12,1951-10-06,Burnley,Blackpool,2,0,1.0
+1951-1952,12,1951-10-06,Tottenham,Manchester City,1,2,0.0
+1951-1952,12,1951-10-06,Middlesbrough,Chelsea,0,0,0.5
+1951-1952,12,1951-10-06,Bolton,Sunderland,1,1,0.5
+1951-1952,12,1951-10-06,Newcastle Utd,Wolves,3,1,1.0
+1951-1952,12,1951-10-06,Charlton Ath,Liverpool,2,0,1.0
+1951-1952,12,1951-10-06,Preston,Arsenal,2,0,1.0
+1951-1952,12,1951-10-06,Fulham,Portsmouth,2,3,0.0
+1951-1952,12,1951-10-06,West Brom,Huddersfield,0,0,0.5
+1951-1952,13,1951-10-13,Portsmouth,Middlesbrough,5,4,1.0
+1951-1952,13,1951-10-13,Chelsea,West Brom,1,3,0.0
+1951-1952,13,1951-10-13,Sunderland,Stoke City,0,1,0.0
+1951-1952,13,1951-10-13,Arsenal,Burnley,1,0,1.0
+1951-1952,13,1951-10-13,Liverpool,Fulham,4,0,1.0
+1951-1952,13,1951-10-13,Huddersfield,Newcastle Utd,2,4,0.0
+1951-1952,13,1951-10-13,Wolves,Bolton,5,1,1.0
+1951-1952,13,1951-10-13,Manchester City,Preston,1,0,1.0
+1951-1952,13,1951-10-13,Blackpool,Charlton Ath,1,2,0.0
+1951-1952,13,1951-10-13,Aston Villa,Manchester Utd,2,5,0.0
+1951-1952,13,1951-10-13,Derby County,Tottenham,4,2,1.0
+1951-1952,14,1951-10-20,Newcastle Utd,Chelsea,3,1,1.0
+1951-1952,14,1951-10-20,Manchester Utd,Sunderland,0,1,0.0
+1951-1952,14,1951-10-20,Bolton,Huddersfield,2,1,1.0
+1951-1952,14,1951-10-20,West Brom,Portsmouth,5,0,1.0
+1951-1952,14,1951-10-20,Preston,Derby County,0,1,0.0
+1951-1952,14,1951-10-20,Middlesbrough,Liverpool,3,3,0.5
+1951-1952,14,1951-10-20,Fulham,Blackpool,1,2,0.0
+1951-1952,14,1951-10-20,Burnley,Manchester City,0,0,0.5
+1951-1952,14,1951-10-20,Charlton Ath,Arsenal,1,3,0.0
+1951-1952,14,1951-10-20,Stoke City,Wolves,1,0,1.0
+1951-1952,14,1951-10-20,Tottenham,Aston Villa,2,0,1.0
+1951-1952,15,1951-10-27,Aston Villa,Preston,3,2,1.0
+1951-1952,15,1951-10-27,Arsenal,Fulham,4,3,1.0
+1951-1952,15,1951-10-27,Portsmouth,Newcastle Utd,3,1,1.0
+1951-1952,15,1951-10-27,Blackpool,Middlesbrough,2,2,0.5
+1951-1952,15,1951-10-27,Huddersfield,Stoke City,0,2,0.0
+1951-1952,15,1951-10-27,Wolves,Manchester Utd,0,2,0.0
+1951-1952,15,1951-10-27,Chelsea,Bolton,1,3,0.0
+1951-1952,15,1951-10-27,Sunderland,Tottenham,0,1,0.0
+1951-1952,15,1951-10-27,Manchester City,Charlton Ath,4,2,1.0
+1951-1952,15,1951-10-27,Liverpool,West Brom,2,5,0.0
+1951-1952,15,1951-10-27,Derby County,Burnley,1,0,1.0
+1951-1952,16,1951-11-03,Burnley,Aston Villa,2,1,1.0
+1951-1952,16,1951-11-03,Manchester Utd,Huddersfield,1,1,0.5
+1951-1952,16,1951-11-03,West Brom,Blackpool,1,1,0.5
+1951-1952,16,1951-11-03,Tottenham,Wolves,4,2,1.0
+1951-1952,16,1951-11-03,Middlesbrough,Arsenal,0,3,0.0
+1951-1952,16,1951-11-03,Fulham,Manchester City,1,2,0.0
+1951-1952,16,1951-11-03,Newcastle Utd,Liverpool,1,1,0.5
+1951-1952,16,1951-11-03,Preston,Sunderland,4,2,1.0
+1951-1952,16,1951-11-03,Bolton,Portsmouth,0,3,0.0
+1951-1952,16,1951-11-03,Charlton Ath,Derby County,3,3,0.5
+1951-1952,16,1951-11-03,Stoke City,Chelsea,1,2,0.0
+1951-1952,17,1951-11-10,Manchester City,Middlesbrough,2,1,1.0
+1951-1952,17,1951-11-10,Portsmouth,Stoke City,4,1,1.0
+1951-1952,17,1951-11-10,Arsenal,West Brom,6,3,1.0
+1951-1952,17,1951-11-10,Liverpool,Bolton,1,1,0.5
+1951-1952,17,1951-11-10,Sunderland,Burnley,0,0,0.5
+1951-1952,17,1951-11-10,Aston Villa,Charlton Ath,0,2,0.0
+1951-1952,17,1951-11-10,Derby County,Fulham,5,0,1.0
+1951-1952,17,1951-11-10,Chelsea,Manchester Utd,4,2,1.0
+1951-1952,17,1951-11-10,Blackpool,Newcastle Utd,6,3,1.0
+1951-1952,17,1951-11-10,Wolves,Preston,1,4,0.0
+1951-1952,17,1951-11-10,Huddersfield,Tottenham,1,1,0.5
+1951-1952,18,1951-11-17,Newcastle Utd,Arsenal,2,0,1.0
+1951-1952,18,1951-11-17,Stoke City,Liverpool,1,2,0.0
+1951-1952,18,1951-11-17,Bolton,Blackpool,1,0,1.0
+1951-1952,18,1951-11-17,Charlton Ath,Sunderland,2,1,1.0
+1951-1952,18,1951-11-17,Preston,Huddersfield,5,2,1.0
+1951-1952,18,1951-11-17,West Brom,Manchester City,3,2,1.0
+1951-1952,18,1951-11-17,Tottenham,Chelsea,3,2,1.0
+1951-1952,18,1951-11-17,Manchester Utd,Portsmouth,1,3,0.0
+1951-1952,18,1951-11-17,Middlesbrough,Derby County,0,0,0.5
+1951-1952,18,1951-11-17,Burnley,Wolves,2,2,0.5
+1951-1952,18,1951-11-17,Fulham,Aston Villa,2,2,0.5
+1951-1952,19,1951-11-24,Manchester City,Newcastle Utd,2,3,0.0
+1951-1952,19,1951-11-24,Blackpool,Stoke City,4,2,1.0
+1951-1952,19,1951-11-24,Wolves,Charlton Ath,2,2,0.5
+1951-1952,19,1951-11-24,Sunderland,Fulham,2,2,0.5
+1951-1952,19,1951-11-24,Arsenal,Bolton,4,2,1.0
+1951-1952,19,1951-11-24,Aston Villa,Middlesbrough,2,0,1.0
+1951-1952,19,1951-11-24,Liverpool,Manchester Utd,0,0,0.5
+1951-1952,19,1951-11-24,Chelsea,Preston,0,0,0.5
+1951-1952,19,1951-11-24,Derby County,West Brom,2,1,1.0
+1951-1952,19,1951-11-24,Portsmouth,Tottenham,2,0,1.0
+1951-1952,19,1951-11-24,Huddersfield,Burnley,1,3,0.0
+1951-1952,20,1951-12-01,Preston,Portsmouth,2,2,0.5
+1951-1952,20,1951-12-01,Manchester Utd,Blackpool,3,1,1.0
+1951-1952,20,1951-12-01,Middlesbrough,Sunderland,0,2,0.0
+1951-1952,20,1951-12-01,Stoke City,Arsenal,2,1,1.0
+1951-1952,20,1951-12-01,Charlton Ath,Huddersfield,4,0,1.0
+1951-1952,20,1951-12-01,West Brom,Aston Villa,1,2,0.0
+1951-1952,20,1951-12-01,Tottenham,Liverpool,2,3,0.0
+1951-1952,20,1951-12-01,Bolton,Manchester City,2,1,1.0
+1951-1952,20,1951-12-01,Burnley,Chelsea,1,1,0.5
+1951-1952,20,1951-12-01,Fulham,Wolves,2,2,0.5
+1951-1952,20,1951-12-01,Newcastle Utd,Derby County,2,1,1.0
+1951-1952,21,1951-12-08,Aston Villa,Newcastle Utd,2,2,0.5
+1951-1952,21,1951-12-08,Blackpool,Tottenham,1,0,1.0
+1951-1952,21,1951-12-08,Arsenal,Manchester Utd,1,3,0.0
+1951-1952,21,1951-12-08,Huddersfield,Fulham,1,0,1.0
+1951-1952,21,1951-12-08,Chelsea,Charlton Ath,1,0,1.0
+1951-1952,21,1951-12-08,Liverpool,Preston,2,2,0.5
+1951-1952,21,1951-12-08,Sunderland,West Brom,3,3,0.5
+1951-1952,21,1951-12-08,Derby County,Bolton,5,2,1.0
+1951-1952,21,1951-12-08,Wolves,Middlesbrough,4,0,1.0
+1951-1952,21,1951-12-08,Manchester City,Stoke City,0,1,0.0
+1951-1952,21,1951-12-08,Portsmouth,Burnley,2,2,0.5
+1951-1952,22,1951-12-15,Burnley,Charlton Ath,1,0,1.0
+1951-1952,22,1951-12-15,Sunderland,Derby County,3,0,1.0
+1951-1952,22,1951-12-15,Huddersfield,Arsenal,2,3,0.0
+1951-1952,22,1951-12-15,Chelsea,Blackpool,2,1,1.0
+1951-1952,22,1951-12-15,Manchester Utd,West Brom,5,1,1.0
+1951-1952,22,1951-12-15,Wolves,Manchester City,2,2,0.5
+1951-1952,22,1951-12-15,Aston Villa,Bolton,1,1,0.5
+1951-1952,22,1951-12-15,Portsmouth,Liverpool,1,3,0.0
+1951-1952,22,1951-12-15,Tottenham,Middlesbrough,3,1,1.0
+1951-1952,22,1951-12-15,Stoke City,Newcastle Utd,4,5,0.0
+1951-1952,22,1951-12-15,Preston,Fulham,0,1,0.0
+1951-1952,23,1951-12-22,Charlton Ath,Portsmouth,0,2,0.0
+1951-1952,23,1951-12-22,Blackpool,Huddersfield,3,1,1.0
+1951-1952,23,1951-12-22,Newcastle Utd,Manchester Utd,2,2,0.5
+1951-1952,23,1951-12-22,Fulham,Burnley,1,2,0.0
+1951-1952,23,1951-12-22,Bolton,Stoke City,1,1,0.5
+1951-1952,23,1951-12-22,Manchester City,Sunderland,3,1,1.0
+1951-1952,23,1951-12-22,Arsenal,Wolves,2,2,0.5
+1951-1952,23,1951-12-22,Middlesbrough,Preston,2,5,0.0
+1951-1952,23,1951-12-22,West Brom,Tottenham,3,1,1.0
+1951-1952,23,1951-12-22,Derby County,Aston Villa,1,1,0.5
+1951-1952,23,1951-12-22,Liverpool,Chelsea,1,1,0.5
+1951-1952,24,1951-12-25,Sunderland,Newcastle Utd,1,4,0.0
+1951-1952,24,1951-12-25,Aston Villa,Wolves,3,3,0.5
+1951-1952,24,1951-12-25,Arsenal,Portsmouth,4,1,1.0
+1951-1952,24,1951-12-25,Charlton Ath,Tottenham,0,3,0.0
+1951-1952,24,1951-12-25,Bolton,West Brom,3,2,1.0
+1951-1952,24,1951-12-25,Manchester Utd,Fulham,3,2,1.0
+1951-1952,24,1951-12-25,Huddersfield,Derby County,1,1,0.5
+1951-1952,24,1951-12-25,Chelsea,Manchester City,0,3,0.0
+1951-1952,24,1951-12-25,Burnley,Preston,0,2,0.0
+1951-1952,24,1951-12-25,Liverpool,Blackpool,1,1,0.5
+1951-1952,25,1951-12-26,Portsmouth,Arsenal,1,1,0.5
+1951-1952,25,1951-12-26,Derby County,Huddersfield,2,1,1.0
+1951-1952,25,1951-12-26,Blackpool,Liverpool,2,0,1.0
+1951-1952,25,1951-12-26,Middlesbrough,Stoke City,3,0,1.0
+1951-1952,25,1951-12-26,West Brom,Bolton,3,2,1.0
+1951-1952,25,1951-12-26,Tottenham,Charlton Ath,2,3,0.0
+1951-1952,25,1951-12-26,Newcastle Utd,Sunderland,2,2,0.5
+1951-1952,25,1951-12-26,Wolves,Aston Villa,1,2,0.0
+1951-1952,25,1951-12-26,Fulham,Manchester Utd,3,3,0.5
+1951-1952,25,1951-12-26,Manchester City,Chelsea,3,1,1.0
+1951-1952,26,1951-12-29,Stoke City,Derby County,3,1,1.0
+1951-1952,26,1951-12-29,Manchester Utd,Bolton,1,0,1.0
+1951-1952,26,1951-12-29,Aston Villa,Manchester City,1,2,0.0
+1951-1952,26,1951-12-29,Burnley,Middlesbrough,7,1,1.0
+1951-1952,26,1951-12-29,Chelsea,Portsmouth,1,1,0.5
+1951-1952,26,1951-12-29,Huddersfield,Liverpool,1,2,0.0
+1951-1952,26,1951-12-29,Preston,West Brom,1,0,1.0
+1951-1952,26,1951-12-29,Tottenham,Newcastle Utd,2,1,1.0
+1951-1952,26,1951-12-29,Wolves,Blackpool,3,0,1.0
+1951-1952,26,1951-12-29,Charlton Ath,Fulham,3,0,1.0
+1951-1952,26,1951-12-29,Sunderland,Arsenal,4,1,1.0
+1951-1952,6,1952-01-01,Sunderland,Wolves,1,1,0.5
+1951-1952,8,1952-01-01,Manchester City,Portsmouth,0,1,0.0
+1951-1952,25,1952-01-01,Preston,Burnley,1,2,0.0
+1951-1952,27,1952-01-05,West Brom,Burnley,1,1,0.5
+1951-1952,27,1952-01-05,Blackpool,Sunderland,3,0,1.0
+1951-1952,27,1952-01-05,Liverpool,Wolves,1,1,0.5
+1951-1952,27,1952-01-05,Stoke City,Manchester Utd,0,0,0.5
+1951-1952,27,1952-01-05,Bolton,Tottenham,1,1,0.5
+1951-1952,27,1952-01-05,Manchester City,Derby County,4,2,1.0
+1951-1952,27,1952-01-05,Fulham,Chelsea,1,2,0.0
+1951-1952,27,1952-01-05,Middlesbrough,Charlton Ath,2,1,1.0
+1951-1952,27,1952-01-05,Portsmouth,Huddersfield,3,1,1.0
+1951-1952,27,1952-01-05,Newcastle Utd,Preston,3,0,1.0
+1951-1952,27,1952-01-05,Arsenal,Aston Villa,2,1,1.0
+1951-1952,28,1952-01-19,Manchester Utd,Manchester City,1,1,0.5
+1951-1952,28,1952-01-19,Charlton Ath,West Brom,3,3,0.5
+1951-1952,28,1952-01-19,Huddersfield,Chelsea,1,0,1.0
+1951-1952,28,1952-01-19,Aston Villa,Blackpool,4,0,1.0
+1951-1952,28,1952-01-19,Derby County,Arsenal,1,2,0.0
+1951-1952,28,1952-01-19,Preston,Bolton,2,2,0.5
+1951-1952,28,1952-01-19,Fulham,Middlesbrough,6,0,1.0
+1951-1952,28,1952-01-19,Sunderland,Liverpool,3,0,1.0
+1951-1952,28,1952-01-19,Tottenham,Stoke City,2,0,1.0
+1951-1952,28,1952-01-19,Burnley,Newcastle Utd,2,1,1.0
+1951-1952,28,1952-01-19,Wolves,Portsmouth,1,1,0.5
+1951-1952,29,1952-01-26,Blackpool,Derby County,2,1,1.0
+1951-1952,29,1952-01-26,Bolton,Burnley,1,4,0.0
+1951-1952,29,1952-01-26,Portsmouth,Sunderland,0,2,0.0
+1951-1952,29,1952-01-26,Newcastle Utd,Charlton Ath,6,0,1.0
+1951-1952,29,1952-01-26,Manchester Utd,Tottenham,2,0,1.0
+1951-1952,29,1952-01-26,Middlesbrough,Huddersfield,2,1,1.0
+1951-1952,29,1952-01-26,Arsenal,Manchester City,2,2,0.5
+1951-1952,29,1952-01-26,West Brom,Fulham,0,2,0.0
+1951-1952,29,1952-01-26,Liverpool,Aston Villa,1,2,0.0
+1951-1952,29,1952-01-26,Stoke City,Preston,0,0,0.5
+1951-1952,29,1952-01-26,Chelsea,Wolves,0,1,0.0
+1951-1952,42,1952-02-02,Bolton,Derby County,1,2,0.0
+1951-1952,30,1952-02-09,Charlton Ath,Bolton,1,0,1.0
+1951-1952,30,1952-02-09,Derby County,Liverpool,1,1,0.5
+1951-1952,30,1952-02-09,Tottenham,Arsenal,1,2,0.0
+1951-1952,30,1952-02-09,Wolves,Huddersfield,0,0,0.5
+1951-1952,30,1952-02-09,Preston,Manchester Utd,1,2,0.0
+1951-1952,30,1952-02-09,Sunderland,Chelsea,4,1,1.0
+1951-1952,30,1952-02-09,Manchester City,Blackpool,0,0,0.5
+1951-1952,30,1952-02-09,Burnley,Stoke City,4,0,1.0
+1951-1952,30,1952-02-09,Middlesbrough,West Brom,0,1,0.0
+1951-1952,30,1952-02-09,Fulham,Newcastle Utd,1,1,0.5
+1951-1952,30,1952-02-09,Aston Villa,Portsmouth,2,0,1.0
+1951-1952,31,1952-02-16,Manchester City,Tottenham,1,1,0.5
+1951-1952,31,1952-02-16,Blackpool,Burnley,1,0,1.0
+1951-1952,31,1952-02-16,Derby County,Manchester Utd,0,3,0.0
+1951-1952,31,1952-02-16,Sunderland,Bolton,0,2,0.0
+1951-1952,31,1952-02-16,Aston Villa,Stoke City,2,3,0.0
+1951-1952,31,1952-02-16,Huddersfield,West Brom,3,0,1.0
+1951-1952,31,1952-02-16,Portsmouth,Fulham,4,0,1.0
+1951-1952,31,1952-02-16,Wolves,Newcastle Utd,3,0,1.0
+1951-1952,31,1952-02-16,Liverpool,Charlton Ath,1,1,0.5
+1951-1952,31,1952-02-16,Chelsea,Middlesbrough,5,0,1.0
+1951-1952,31,1952-02-16,Arsenal,Preston,3,3,0.5
+1951-1952,8,1952-02-23,Wolves,Sunderland,0,3,0.0
+1951-1952,38,1952-02-23,Tottenham,Preston,1,0,1.0
+1951-1952,32,1952-03-01,Preston,Manchester City,1,1,0.5
+1951-1952,32,1952-03-01,Bolton,Wolves,2,2,0.5
+1951-1952,32,1952-03-01,West Brom,Chelsea,0,1,0.0
+1951-1952,32,1952-03-01,Middlesbrough,Portsmouth,2,1,1.0
+1951-1952,32,1952-03-01,Manchester Utd,Aston Villa,1,1,0.5
+1951-1952,32,1952-03-01,Charlton Ath,Blackpool,2,0,1.0
+1951-1952,32,1952-03-01,Tottenham,Derby County,5,0,1.0
+1951-1952,32,1952-03-01,Burnley,Arsenal,0,1,0.0
+1951-1952,32,1952-03-01,Fulham,Liverpool,1,1,0.5
+1951-1952,32,1952-03-01,Newcastle Utd,Huddersfield,6,2,1.0
+1951-1952,32,1952-03-01,Stoke City,Sunderland,1,1,0.5
+1951-1952,33,1952-03-08,Huddersfield,Bolton,0,2,0.0
+1951-1952,33,1952-03-08,Wolves,Stoke City,3,0,1.0
+1951-1952,33,1952-03-08,Sunderland,Manchester Utd,1,2,0.0
+1951-1952,33,1952-03-08,Liverpool,Middlesbrough,1,1,0.5
+1951-1952,33,1952-03-08,Aston Villa,Tottenham,0,3,0.0
+1951-1952,33,1952-03-08,Blackpool,Fulham,4,2,1.0
+1951-1952,33,1952-03-08,Derby County,Preston,4,3,1.0
+1951-1952,33,1952-03-12,Chelsea,Newcastle Utd,1,0,1.0
+1951-1952,33,1952-03-12,Manchester City,Burnley,0,1,0.0
+1951-1952,33,1952-03-12,Portsmouth,West Brom,1,1,0.5
+1951-1952,33,1952-03-13,Arsenal,Charlton Ath,2,1,1.0
+1951-1952,34,1952-03-15,Burnley,Derby County,0,1,0.0
+1951-1952,34,1952-03-15,Stoke City,Huddersfield,0,0,0.5
+1951-1952,34,1952-03-15,Bolton,Chelsea,3,0,1.0
+1951-1952,34,1952-03-15,Newcastle Utd,Portsmouth,3,3,0.5
+1951-1952,34,1952-03-15,West Brom,Liverpool,3,3,0.5
+1951-1952,34,1952-03-15,Fulham,Arsenal,0,0,0.5
+1951-1952,34,1952-03-15,Preston,Aston Villa,2,2,0.5
+1951-1952,34,1952-03-15,Manchester Utd,Wolves,2,0,1.0
+1951-1952,34,1952-03-15,Middlesbrough,Blackpool,1,0,1.0
+1951-1952,34,1952-03-15,Tottenham,Sunderland,2,0,1.0
+1951-1952,34,1952-03-15,Charlton Ath,Manchester City,0,0,0.5
+1951-1952,35,1952-03-22,Wolves,Tottenham,1,1,0.5
+1951-1952,35,1952-03-22,Huddersfield,Manchester Utd,3,2,1.0
+1951-1952,35,1952-03-22,Derby County,Charlton Ath,1,3,0.0
+1951-1952,35,1952-03-22,Arsenal,Middlesbrough,3,1,1.0
+1951-1952,35,1952-03-22,Manchester City,Fulham,1,1,0.5
+1951-1952,35,1952-03-22,Blackpool,West Brom,2,0,1.0
+1951-1952,35,1952-03-22,Liverpool,Newcastle Utd,3,0,1.0
+1951-1952,35,1952-03-22,Chelsea,Stoke City,1,0,1.0
+1951-1952,35,1952-03-22,Sunderland,Preston,0,0,0.5
+1951-1952,35,1952-03-22,Aston Villa,Burnley,4,1,1.0
+1951-1952,35,1952-03-22,Portsmouth,Bolton,3,0,1.0
+1951-1952,36,1952-03-29,Bolton,Liverpool,1,1,0.5
+1951-1952,36,1952-03-29,Burnley,Sunderland,0,1,0.0
+1951-1952,36,1952-03-29,Preston,Wolves,3,0,1.0
+1951-1952,36,1952-03-29,Middlesbrough,Manchester City,2,2,0.5
+1951-1952,36,1952-03-29,Stoke City,Portsmouth,2,0,1.0
+1951-1952,36,1952-04-02,Tottenham,Huddersfield,1,0,1.0
+1951-1952,37,1952-04-05,Sunderland,Charlton Ath,1,1,0.5
+1951-1952,37,1952-04-05,Liverpool,Stoke City,2,1,1.0
+1951-1952,37,1952-04-05,Wolves,Burnley,1,2,0.0
+1951-1952,37,1952-04-05,Aston Villa,Fulham,4,1,1.0
+1951-1952,37,1952-04-05,Blackpool,Bolton,1,0,1.0
+1951-1952,37,1952-04-05,Huddersfield,Preston,2,0,1.0
+1951-1952,37,1952-04-05,Derby County,Middlesbrough,3,1,1.0
+1951-1952,37,1952-04-05,Portsmouth,Manchester Utd,1,0,1.0
+1951-1952,37,1952-04-05,Manchester City,West Brom,1,2,0.0
+1951-1952,36,1952-04-07,Newcastle Utd,Blackpool,1,3,0.0
+1951-1952,38,1952-04-11,Portsmouth,Derby County,3,1,1.0
+1951-1952,38,1952-04-11,Sunderland,Huddersfield,7,1,1.0
+1951-1952,38,1952-04-11,Manchester City,Liverpool,1,2,0.0
+1951-1952,38,1952-04-11,Fulham,Bolton,1,2,0.0
+1951-1952,38,1952-04-11,Newcastle Utd,Middlesbrough,0,2,0.0
+1951-1952,38,1952-04-11,Blackpool,Arsenal,0,0,0.5
+1951-1952,38,1952-04-11,Burnley,Manchester Utd,1,1,0.5
+1951-1952,39,1952-04-12,Stoke City,Blackpool,2,3,0.0
+1951-1952,39,1952-04-12,Manchester Utd,Liverpool,4,0,1.0
+1951-1952,39,1952-04-12,Middlesbrough,Aston Villa,2,0,1.0
+1951-1952,39,1952-04-12,Fulham,Sunderland,0,1,0.0
+1951-1952,39,1952-04-12,Charlton Ath,Wolves,1,0,1.0
+1951-1952,39,1952-04-12,Preston,Chelsea,1,0,1.0
+1951-1952,39,1952-04-12,Burnley,Huddersfield,0,2,0.0
+1951-1952,39,1952-04-12,Newcastle Utd,Manchester City,1,0,1.0
+1951-1952,39,1952-04-12,Bolton,Arsenal,2,1,1.0
+1951-1952,39,1952-04-12,West Brom,Derby County,1,0,1.0
+1951-1952,39,1952-04-12,Tottenham,Portsmouth,3,1,1.0
+1951-1952,38,1952-04-14,Chelsea,Aston Villa,2,2,0.5
+1951-1952,38,1952-04-14,West Brom,Wolves,2,1,1.0
+1951-1952,40,1952-04-14,Liverpool,Manchester City,1,2,0.0
+1951-1952,40,1952-04-14,Middlesbrough,Newcastle Utd,2,1,1.0
+1951-1952,40,1952-04-14,Bolton,Fulham,2,1,1.0
+1951-1952,40,1952-04-14,Manchester Utd,Burnley,6,1,1.0
+1951-1952,40,1952-04-14,Preston,Tottenham,1,1,0.5
+1951-1952,40,1952-04-14,Derby County,Portsmouth,1,0,1.0
+1951-1952,40,1952-04-14,Charlton Ath,Stoke City,4,0,1.0
+1951-1952,40,1952-04-14,Arsenal,Blackpool,4,1,1.0
+1951-1952,40,1952-04-15,Huddersfield,Sunderland,2,2,0.5
+1951-1952,40,1952-04-15,Aston Villa,Chelsea,7,1,1.0
+1951-1952,40,1952-04-15,Wolves,West Brom,1,4,0.0
+1951-1952,37,1952-04-16,Arsenal,Newcastle Utd,1,1,0.5
+1951-1952,41,1952-04-19,Derby County,Newcastle Utd,1,3,0.0
+1951-1952,41,1952-04-19,Aston Villa,West Brom,2,0,1.0
+1951-1952,41,1952-04-19,Arsenal,Stoke City,4,1,1.0
+1951-1952,41,1952-04-19,Huddersfield,Charlton Ath,1,0,1.0
+1951-1952,41,1952-04-19,Sunderland,Middlesbrough,3,1,1.0
+1951-1952,41,1952-04-19,Manchester City,Bolton,0,3,0.0
+1951-1952,41,1952-04-19,Portsmouth,Preston,1,2,0.0
+1951-1952,41,1952-04-19,Liverpool,Tottenham,1,1,0.5
+1951-1952,41,1952-04-19,Chelsea,Burnley,4,1,1.0
+1951-1952,41,1952-04-19,Wolves,Fulham,2,2,0.5
+1951-1952,41,1952-04-19,Blackpool,Manchester Utd,2,2,0.5
+1951-1952,36,1952-04-21,Manchester Utd,Chelsea,3,0,1.0
+1951-1952,36,1952-04-21,West Brom,Arsenal,3,1,1.0
+1951-1952,8,1952-04-23,Middlesbrough,Bolton,2,0,1.0
+1951-1952,8,1952-04-23,Newcastle Utd,West Brom,1,4,0.0
+1951-1952,36,1952-04-24,Charlton Ath,Aston Villa,0,1,0.0
+1951-1952,42,1952-04-26,Newcastle Utd,Aston Villa,6,1,1.0
+1951-1952,42,1952-04-26,Middlesbrough,Wolves,4,0,1.0
+1951-1952,42,1952-04-26,West Brom,Sunderland,1,1,0.5
+1951-1952,42,1952-04-26,Tottenham,Blackpool,2,0,1.0
+1951-1952,42,1952-04-26,Manchester Utd,Arsenal,6,1,1.0
+1951-1952,42,1952-04-26,Stoke City,Manchester City,3,1,1.0
+1951-1952,42,1952-04-26,Charlton Ath,Chelsea,1,1,0.5
+1951-1952,42,1952-04-26,Preston,Liverpool,4,0,1.0
+1951-1952,42,1952-04-26,Fulham,Huddersfield,1,0,1.0
+1951-1952,42,1952-04-26,Burnley,Portsmouth,1,0,1.0
+1951-1952,37,1952-04-30,Chelsea,Tottenham,0,2,0.0
+1951-1952,36,1952-05-01,Fulham,Derby County,3,0,1.0
+1951-1952,8,1952-05-03,Derby County,Chelsea,1,1,0.5
+1951-1952,24,1952-05-03,Stoke City,Middlesbrough,3,2,1.0

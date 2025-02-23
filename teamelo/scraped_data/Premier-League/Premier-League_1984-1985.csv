@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1984-1985,1,1984-08-25,Sheffield Weds,Nott'ham Forest,3,1,1.0
+1984-1985,1,1984-08-25,Leicester City,Newcastle Utd,2,3,0.0
+1984-1985,1,1984-08-25,Manchester Utd,Watford,1,1,0.5
+1984-1985,1,1984-08-25,Luton Town,Stoke City,2,0,1.0
+1984-1985,1,1984-08-25,Norwich City,Liverpool,3,3,0.5
+1984-1985,1,1984-08-25,West Ham,Ipswich Town,0,0,0.5
+1984-1985,1,1984-08-25,QPR,West Brom,3,1,1.0
+1984-1985,1,1984-08-25,Sunderland,Southampton,3,1,1.0
+1984-1985,1,1984-08-25,Everton,Tottenham,1,4,0.0
+1984-1985,1,1984-08-25,Aston Villa,Coventry City,1,0,1.0
+1984-1985,1,1984-08-25,Arsenal,Chelsea,1,1,0.5
+1984-1985,2,1984-08-27,Newcastle Utd,Sheffield Weds,2,1,1.0
+1984-1985,2,1984-08-27,Liverpool,West Ham,3,0,1.0
+1984-1985,2,1984-08-27,Stoke City,Aston Villa,1,3,0.0
+1984-1985,2,1984-08-27,Tottenham,Leicester City,2,2,0.5
+1984-1985,2,1984-08-27,West Brom,Everton,2,1,1.0
+1984-1985,2,1984-08-27,Chelsea,Sunderland,1,0,1.0
+1984-1985,2,1984-08-28,Coventry City,Norwich City,0,0,0.5
+1984-1985,2,1984-08-28,Southampton,Manchester Utd,0,0,0.5
+1984-1985,2,1984-08-28,Ipswich Town,Luton Town,1,1,0.5
+1984-1985,2,1984-08-28,Watford,QPR,1,1,0.5
+1984-1985,2,1984-08-29,Nott'ham Forest,Arsenal,2,0,1.0
+1984-1985,3,1984-08-31,Chelsea,Everton,0,1,0.0
+1984-1985,3,1984-09-01,Newcastle Utd,Aston Villa,3,0,1.0
+1984-1985,3,1984-09-01,West Brom,Luton Town,4,0,1.0
+1984-1985,3,1984-09-01,Tottenham,Norwich City,3,1,1.0
+1984-1985,3,1984-09-01,Southampton,West Ham,2,3,0.0
+1984-1985,3,1984-09-01,Watford,Arsenal,3,4,0.0
+1984-1985,3,1984-09-01,Liverpool,QPR,1,1,0.5
+1984-1985,3,1984-09-01,Nott'ham Forest,Sunderland,3,1,1.0
+1984-1985,3,1984-09-01,Ipswich Town,Manchester Utd,1,1,0.5
+1984-1985,3,1984-09-01,Stoke City,Sheffield Weds,2,1,1.0
+1984-1985,3,1984-09-01,Coventry City,Leicester City,2,0,1.0
+1984-1985,4,1984-09-04,Everton,Ipswich Town,1,1,0.5
+1984-1985,4,1984-09-04,Arsenal,Newcastle Utd,2,0,1.0
+1984-1985,4,1984-09-04,Luton Town,Liverpool,1,2,0.0
+1984-1985,4,1984-09-04,Sheffield Weds,Southampton,2,1,1.0
+1984-1985,4,1984-09-04,Sunderland,Tottenham,1,0,1.0
+1984-1985,4,1984-09-04,West Ham,Coventry City,3,1,1.0
+1984-1985,4,1984-09-05,Aston Villa,Nott'ham Forest,0,5,0.0
+1984-1985,4,1984-09-05,Leicester City,Watford,1,1,0.5
+1984-1985,4,1984-09-05,Manchester Utd,Chelsea,1,1,0.5
+1984-1985,4,1984-09-05,Norwich City,West Brom,2,1,1.0
+1984-1985,5,1984-09-08,Manchester Utd,Newcastle Utd,5,0,1.0
+1984-1985,5,1984-09-08,Everton,Coventry City,2,1,1.0
+1984-1985,5,1984-09-08,Leicester City,Ipswich Town,2,1,1.0
+1984-1985,5,1984-09-08,Sunderland,West Brom,1,1,0.5
+1984-1985,5,1984-09-08,Arsenal,Liverpool,3,1,1.0
+1984-1985,5,1984-09-08,Luton Town,Southampton,1,1,0.5
+1984-1985,5,1984-09-08,Aston Villa,Chelsea,4,2,1.0
+1984-1985,5,1984-09-08,QPR,Nott'ham Forest,3,0,1.0
+1984-1985,5,1984-09-08,West Ham,Watford,2,0,1.0
+1984-1985,5,1984-09-08,Sheffield Weds,Tottenham,2,1,1.0
+1984-1985,6,1984-09-15,Ipswich Town,Arsenal,2,1,1.0
+1984-1985,6,1984-09-15,Newcastle Utd,Everton,2,3,0.0
+1984-1985,6,1984-09-15,Watford,Aston Villa,3,3,0.5
+1984-1985,6,1984-09-15,Coventry City,Manchester Utd,0,3,0.0
+1984-1985,6,1984-09-15,West Brom,Sheffield Weds,2,2,0.5
+1984-1985,6,1984-09-15,Tottenham,QPR,5,0,1.0
+1984-1985,6,1984-09-15,Liverpool,Sunderland,1,1,0.5
+1984-1985,6,1984-09-15,Stoke City,Leicester City,2,2,0.5
+1984-1985,6,1984-09-15,Southampton,Norwich City,2,1,1.0
+1984-1985,6,1984-09-15,Chelsea,West Ham,3,0,1.0
+1984-1985,6,1984-09-16,Nott'ham Forest,Luton Town,3,1,1.0
+1984-1985,5,1984-09-19,Norwich City,Stoke City,0,0,0.5
+1984-1985,7,1984-09-22,Arsenal,Stoke City,4,0,1.0
+1984-1985,7,1984-09-22,Sunderland,Coventry City,0,0,0.5
+1984-1985,7,1984-09-22,Luton Town,Chelsea,0,0,0.5
+1984-1985,7,1984-09-22,Leicester City,West Brom,2,1,1.0
+1984-1985,7,1984-09-22,QPR,Newcastle Utd,5,5,0.5
+1984-1985,7,1984-09-22,Everton,Southampton,2,2,0.5
+1984-1985,7,1984-09-22,Manchester Utd,Liverpool,1,1,0.5
+1984-1985,7,1984-09-22,Norwich City,Watford,3,2,1.0
+1984-1985,7,1984-09-22,West Ham,Nott'ham Forest,0,0,0.5
+1984-1985,7,1984-09-22,Aston Villa,Tottenham,0,1,0.0
+1984-1985,7,1984-09-22,Sheffield Weds,Ipswich Town,2,2,0.5
+1984-1985,8,1984-09-29,West Brom,Manchester Utd,1,2,0.0
+1984-1985,8,1984-09-29,Newcastle Utd,West Ham,1,1,0.5
+1984-1985,8,1984-09-29,Tottenham,Luton Town,4,2,1.0
+1984-1985,8,1984-09-29,Watford,Everton,4,5,0.0
+1984-1985,8,1984-09-29,Southampton,QPR,1,1,0.5
+1984-1985,8,1984-09-29,Coventry City,Arsenal,1,2,0.0
+1984-1985,8,1984-09-29,Ipswich Town,Aston Villa,3,0,1.0
+1984-1985,8,1984-09-29,Liverpool,Sheffield Weds,0,2,0.0
+1984-1985,8,1984-09-29,Stoke City,Sunderland,2,2,0.5
+1984-1985,8,1984-09-29,Nott'ham Forest,Norwich City,3,1,1.0
+1984-1985,8,1984-09-29,Chelsea,Leicester City,3,0,1.0
+1984-1985,9,1984-10-06,West Ham,Leicester City,3,1,1.0
+1984-1985,9,1984-10-06,Arsenal,Everton,1,0,1.0
+1984-1985,9,1984-10-06,Watford,Coventry City,0,1,0.0
+1984-1985,9,1984-10-06,Southampton,Tottenham,1,0,1.0
+1984-1985,9,1984-10-06,Nott'ham Forest,Stoke City,1,1,0.5
+1984-1985,9,1984-10-06,QPR,Luton Town,2,3,0.0
+1984-1985,9,1984-10-06,Liverpool,West Brom,0,0,0.5
+1984-1985,9,1984-10-06,Sheffield Weds,Sunderland,2,2,0.5
+1984-1985,9,1984-10-06,Aston Villa,Manchester Utd,3,0,1.0
+1984-1985,9,1984-10-06,Norwich City,Chelsea,0,0,0.5
+1984-1985,9,1984-10-06,Newcastle Utd,Ipswich Town,3,0,1.0
+1984-1985,10,1984-10-12,Tottenham,Liverpool,1,0,1.0
+1984-1985,10,1984-10-13,Stoke City,Southampton,1,3,0.0
+1984-1985,10,1984-10-13,Ipswich Town,QPR,1,1,0.5
+1984-1985,10,1984-10-13,Everton,Aston Villa,2,1,1.0
+1984-1985,10,1984-10-13,West Brom,Nott'ham Forest,4,1,1.0
+1984-1985,10,1984-10-13,Luton Town,Sheffield Weds,1,2,0.0
+1984-1985,10,1984-10-13,Leicester City,Arsenal,1,4,0.0
+1984-1985,10,1984-10-13,Chelsea,Watford,2,3,0.0
+1984-1985,10,1984-10-13,Coventry City,Newcastle Utd,1,1,0.5
+1984-1985,10,1984-10-13,Manchester Utd,West Ham,5,1,1.0
+1984-1985,10,1984-10-13,Sunderland,Norwich City,2,1,1.0
+1984-1985,11,1984-10-20,Arsenal,Sunderland,3,2,1.0
+1984-1985,11,1984-10-20,Luton Town,Watford,3,2,1.0
+1984-1985,11,1984-10-20,Liverpool,Everton,0,1,0.0
+1984-1985,11,1984-10-20,Stoke City,West Ham,2,4,0.0
+1984-1985,11,1984-10-20,Newcastle Utd,Nott'ham Forest,1,1,0.5
+1984-1985,11,1984-10-20,Southampton,Chelsea,1,0,1.0
+1984-1985,11,1984-10-20,Sheffield Weds,Leicester City,5,0,1.0
+1984-1985,11,1984-10-20,Manchester Utd,Tottenham,1,0,1.0
+1984-1985,11,1984-10-20,Ipswich Town,West Brom,2,0,1.0
+1984-1985,11,1984-10-20,QPR,Coventry City,2,1,1.0
+1984-1985,11,1984-10-20,Aston Villa,Norwich City,2,2,0.5
+1984-1985,12,1984-10-27,Tottenham,Stoke City,4,0,1.0
+1984-1985,12,1984-10-27,West Brom,Southampton,0,0,0.5
+1984-1985,12,1984-10-27,Everton,Manchester Utd,5,0,1.0
+1984-1985,12,1984-10-27,Coventry City,Sheffield Weds,1,0,1.0
+1984-1985,12,1984-10-27,Norwich City,QPR,2,0,1.0
+1984-1985,12,1984-10-27,Chelsea,Ipswich Town,2,0,1.0
+1984-1985,12,1984-10-27,Leicester City,Aston Villa,5,0,1.0
+1984-1985,12,1984-10-27,West Ham,Arsenal,3,1,1.0
+1984-1985,12,1984-10-27,Watford,Newcastle Utd,3,3,0.5
+1984-1985,12,1984-10-27,Sunderland,Luton Town,3,0,1.0
+1984-1985,12,1984-10-28,Nott'ham Forest,Liverpool,0,2,0.0
+1984-1985,13,1984-11-02,Manchester Utd,Arsenal,4,2,1.0
+1984-1985,13,1984-11-03,Southampton,Nott'ham Forest,1,0,1.0
+1984-1985,13,1984-11-03,Everton,Leicester City,3,0,1.0
+1984-1985,13,1984-11-03,Luton Town,Newcastle Utd,2,2,0.5
+1984-1985,13,1984-11-03,Ipswich Town,Watford,3,3,0.5
+1984-1985,13,1984-11-03,Aston Villa,West Ham,0,0,0.5
+1984-1985,13,1984-11-03,Sunderland,QPR,3,0,1.0
+1984-1985,13,1984-11-03,Sheffield Weds,Norwich City,1,2,0.0
+1984-1985,13,1984-11-03,Tottenham,West Brom,2,3,0.0
+1984-1985,13,1984-11-03,Stoke City,Liverpool,0,1,0.0
+1984-1985,13,1984-11-03,Chelsea,Coventry City,6,2,1.0
+1984-1985,14,1984-11-10,Liverpool,Southampton,1,1,0.5
+1984-1985,14,1984-11-10,Arsenal,Aston Villa,1,1,0.5
+1984-1985,14,1984-11-10,West Ham,Everton,0,1,0.0
+1984-1985,14,1984-11-10,Coventry City,Ipswich Town,1,0,1.0
+1984-1985,14,1984-11-10,Leicester City,Manchester Utd,2,3,0.0
+1984-1985,14,1984-11-10,Norwich City,Luton Town,3,0,1.0
+1984-1985,14,1984-11-10,Watford,Sunderland,3,1,1.0
+1984-1985,14,1984-11-10,Nott'ham Forest,Tottenham,1,2,0.0
+1984-1985,14,1984-11-10,West Brom,Stoke City,2,0,1.0
+1984-1985,14,1984-11-10,Newcastle Utd,Chelsea,2,1,1.0
+1984-1985,14,1984-11-10,QPR,Sheffield Weds,0,0,0.5
+1984-1985,15,1984-11-17,Chelsea,West Brom,3,1,1.0
+1984-1985,15,1984-11-17,Watford,Sheffield Weds,1,0,1.0
+1984-1985,15,1984-11-17,West Ham,Sunderland,1,0,1.0
+1984-1985,15,1984-11-17,Coventry City,Nott'ham Forest,1,3,0.0
+1984-1985,15,1984-11-17,Manchester Utd,Luton Town,2,0,1.0
+1984-1985,15,1984-11-17,Everton,Stoke City,4,0,1.0
+1984-1985,15,1984-11-17,Arsenal,QPR,1,0,1.0
+1984-1985,15,1984-11-17,Aston Villa,Southampton,2,2,0.5
+1984-1985,15,1984-11-17,Leicester City,Norwich City,2,0,1.0
+1984-1985,15,1984-11-17,Ipswich Town,Tottenham,0,3,0.0
+1984-1985,15,1984-11-18,Newcastle Utd,Liverpool,0,2,0.0
+1984-1985,16,1984-11-24,Norwich City,Everton,4,2,1.0
+1984-1985,16,1984-11-24,Luton Town,West Ham,2,2,0.5
+1984-1985,16,1984-11-24,Tottenham,Chelsea,1,1,0.5
+1984-1985,16,1984-11-24,Sunderland,Manchester Utd,3,2,1.0
+1984-1985,16,1984-11-24,Southampton,Newcastle Utd,1,0,1.0
+1984-1985,16,1984-11-24,QPR,Aston Villa,2,0,1.0
+1984-1985,16,1984-11-24,Stoke City,Watford,1,3,0.0
+1984-1985,16,1984-11-24,Liverpool,Ipswich Town,2,0,1.0
+1984-1985,16,1984-11-24,West Brom,Coventry City,5,2,1.0
+1984-1985,16,1984-11-25,Sheffield Weds,Arsenal,2,1,1.0
+1984-1985,16,1984-11-25,Nott'ham Forest,Leicester City,2,1,1.0
+1984-1985,17,1984-12-01,Manchester Utd,Norwich City,2,0,1.0
+1984-1985,17,1984-12-01,Aston Villa,Sunderland,1,0,1.0
+1984-1985,17,1984-12-01,Newcastle Utd,Stoke City,2,1,1.0
+1984-1985,17,1984-12-01,West Ham,West Brom,0,2,0.0
+1984-1985,17,1984-12-01,Everton,Sheffield Weds,1,1,0.5
+1984-1985,17,1984-12-01,Watford,Nott'ham Forest,2,0,1.0
+1984-1985,17,1984-12-01,Coventry City,Tottenham,1,1,0.5
+1984-1985,17,1984-12-01,Leicester City,QPR,4,0,1.0
+1984-1985,17,1984-12-01,Chelsea,Liverpool,3,1,1.0
+1984-1985,17,1984-12-01,Ipswich Town,Southampton,0,1,0.0
+1984-1985,17,1984-12-01,Arsenal,Luton Town,3,1,1.0
+1984-1985,4,1984-12-04,QPR,Stoke City,2,0,1.0
+1984-1985,18,1984-12-04,Liverpool,Coventry City,3,1,1.0
+1984-1985,18,1984-12-08,QPR,Everton,0,0,0.5
+1984-1985,18,1984-12-08,West Brom,Watford,2,1,1.0
+1984-1985,18,1984-12-08,Norwich City,West Ham,1,0,1.0
+1984-1985,18,1984-12-08,Nott'ham Forest,Manchester Utd,3,2,1.0
+1984-1985,18,1984-12-08,Stoke City,Ipswich Town,0,2,0.0
+1984-1985,18,1984-12-08,Tottenham,Newcastle Utd,3,1,1.0
+1984-1985,18,1984-12-08,Sheffield Weds,Chelsea,1,1,0.5
+1984-1985,18,1984-12-08,Sunderland,Leicester City,0,4,0.0
+1984-1985,18,1984-12-08,Southampton,Arsenal,1,0,1.0
+1984-1985,18,1984-12-08,Luton Town,Aston Villa,1,0,1.0
+1984-1985,19,1984-12-15,Aston Villa,Liverpool,0,0,0.5
+1984-1985,19,1984-12-15,Everton,Nott'ham Forest,5,0,1.0
+1984-1985,19,1984-12-15,Arsenal,West Brom,4,0,1.0
+1984-1985,19,1984-12-15,West Ham,Sheffield Weds,0,0,0.5
+1984-1985,19,1984-12-15,Ipswich Town,Sunderland,0,2,0.0
+1984-1985,19,1984-12-15,Manchester Utd,QPR,3,0,1.0
+1984-1985,19,1984-12-15,Chelsea,Stoke City,1,1,0.5
+1984-1985,19,1984-12-15,Leicester City,Luton Town,2,2,0.5
+1984-1985,19,1984-12-15,Newcastle Utd,Norwich City,1,1,0.5
+1984-1985,19,1984-12-15,Watford,Tottenham,1,2,0.0
+1984-1985,19,1984-12-16,Coventry City,Southampton,2,1,1.0
+1984-1985,20,1984-12-18,Luton Town,West Brom,1,2,0.0
+1984-1985,20,1984-12-21,QPR,Liverpool,0,2,0.0
+1984-1985,20,1984-12-22,Manchester Utd,Ipswich Town,3,0,1.0
+1984-1985,20,1984-12-22,Aston Villa,Newcastle Utd,4,0,1.0
+1984-1985,20,1984-12-22,Sheffield Weds,Stoke City,2,1,1.0
+1984-1985,20,1984-12-22,Everton,Chelsea,3,4,0.0
+1984-1985,20,1984-12-22,Arsenal,Watford,1,1,0.5
+1984-1985,20,1984-12-22,Norwich City,Tottenham,1,2,0.0
+1984-1985,20,1984-12-22,West Ham,Southampton,2,3,0.0
+1984-1985,20,1984-12-23,Sunderland,Nott'ham Forest,0,2,0.0
+1984-1985,20,1984-12-23,Leicester City,Coventry City,5,1,1.0
+1984-1985,21,1984-12-26,Luton Town,Coventry City,2,0,1.0
+1984-1985,21,1984-12-26,Sunderland,Everton,1,2,0.0
+1984-1985,21,1984-12-26,West Brom,Newcastle Utd,2,1,1.0
+1984-1985,21,1984-12-26,Sheffield Weds,Aston Villa,1,1,0.5
+1984-1985,21,1984-12-26,Southampton,Watford,1,2,0.0
+1984-1985,21,1984-12-26,Tottenham,West Ham,2,2,0.5
+1984-1985,21,1984-12-26,Stoke City,Manchester Utd,2,1,1.0
+1984-1985,21,1984-12-26,QPR,Chelsea,2,2,0.5
+1984-1985,21,1984-12-26,Norwich City,Arsenal,1,0,1.0
+1984-1985,21,1984-12-26,Nott'ham Forest,Ipswich Town,2,0,1.0
+1984-1985,21,1984-12-26,Liverpool,Leicester City,1,2,0.0
+1984-1985,22,1984-12-29,Newcastle Utd,Arsenal,1,3,0.0
+1984-1985,22,1984-12-29,Liverpool,Luton Town,1,0,1.0
+1984-1985,22,1984-12-29,West Brom,Norwich City,0,1,0.0
+1984-1985,22,1984-12-29,Ipswich Town,Everton,0,2,0.0
+1984-1985,22,1984-12-29,Coventry City,West Ham,1,2,0.0
+1984-1985,22,1984-12-29,Nott'ham Forest,Aston Villa,3,2,1.0
+1984-1985,22,1984-12-29,Watford,Leicester City,4,1,1.0
+1984-1985,22,1984-12-29,Tottenham,Sunderland,2,0,1.0
+1984-1985,22,1984-12-29,Chelsea,Manchester Utd,1,3,0.0
+1984-1985,22,1984-12-29,Southampton,Sheffield Weds,0,3,0.0
+1984-1985,22,1984-12-29,Stoke City,QPR,0,2,0.0
+1984-1985,23,1985-01-01,Newcastle Utd,Sunderland,3,1,1.0
+1984-1985,23,1985-01-01,Ipswich Town,Norwich City,2,0,1.0
+1984-1985,23,1985-01-01,Leicester City,Southampton,1,2,0.0
+1984-1985,23,1985-01-01,Coventry City,Stoke City,4,0,1.0
+1984-1985,23,1985-01-01,Manchester Utd,Sheffield Weds,1,2,0.0
+1984-1985,23,1985-01-01,Watford,Liverpool,1,1,0.5
+1984-1985,23,1985-01-01,West Ham,QPR,1,3,0.0
+1984-1985,23,1985-01-01,Aston Villa,West Brom,3,1,1.0
+1984-1985,23,1985-01-01,Everton,Luton Town,2,1,1.0
+1984-1985,23,1985-01-01,Chelsea,Nott'ham Forest,1,0,1.0
+1984-1985,23,1985-01-01,Arsenal,Tottenham,1,2,0.0
+1984-1985,24,1985-01-12,Norwich City,Southampton,1,0,1.0
+1984-1985,24,1985-01-12,Everton,Newcastle Utd,4,0,1.0
+1984-1985,24,1985-01-12,Sheffield Weds,West Brom,2,0,1.0
+1984-1985,24,1985-01-12,QPR,Tottenham,2,2,0.5
+1984-1985,24,1985-01-12,Manchester Utd,Coventry City,0,1,0.0
+1984-1985,24,1985-01-12,Leicester City,Stoke City,0,0,0.5
+1984-1985,25,1985-01-19,Coventry City,Aston Villa,0,3,0.0
+1984-1985,25,1985-01-19,Chelsea,Arsenal,1,1,0.5
+1984-1985,25,1985-01-19,Liverpool,Norwich City,4,0,1.0
+1984-1985,25,1985-01-26,West Brom,QPR,0,0,0.5
+1984-1985,25,1985-01-29,Southampton,Sunderland,1,0,1.0
+1984-1985,26,1985-02-02,QPR,Southampton,0,4,0.0
+1984-1985,26,1985-02-02,Leicester City,Chelsea,1,1,0.5
+1984-1985,26,1985-02-02,Sheffield Weds,Liverpool,1,1,0.5
+1984-1985,26,1985-02-02,West Ham,Newcastle Utd,1,1,0.5
+1984-1985,26,1985-02-02,Aston Villa,Ipswich Town,2,1,1.0
+1984-1985,26,1985-02-02,Arsenal,Coventry City,2,1,1.0
+1984-1985,26,1985-02-02,Manchester Utd,West Brom,2,0,1.0
+1984-1985,26,1985-02-02,Luton Town,Tottenham,2,2,0.5
+1984-1985,26,1985-02-02,Sunderland,Stoke City,1,0,1.0
+1984-1985,26,1985-02-02,Everton,Watford,4,0,1.0
+1984-1985,26,1985-02-02,Norwich City,Nott'ham Forest,0,1,0.0
+1984-1985,27,1985-02-09,Newcastle Utd,Manchester Utd,1,1,0.5
+1984-1985,27,1985-02-09,Nott'ham Forest,QPR,2,0,1.0
+1984-1985,27,1985-02-12,Liverpool,Arsenal,3,0,1.0
+1984-1985,28,1985-02-16,Chelsea,Newcastle Utd,1,0,1.0
+1984-1985,29,1985-02-23,Leicester City,Everton,1,2,0.0
+1984-1985,29,1985-02-23,West Ham,Aston Villa,1,2,0.0
+1984-1985,29,1985-02-23,Arsenal,Manchester Utd,0,1,0.0
+1984-1985,29,1985-02-23,Newcastle Utd,Luton Town,1,0,1.0
+1984-1985,29,1985-02-23,West Brom,Tottenham,0,1,0.0
+1984-1985,29,1985-02-23,Nott'ham Forest,Southampton,2,0,1.0
+1984-1985,29,1985-02-23,Liverpool,Stoke City,2,0,1.0
+1984-1985,29,1985-02-23,QPR,Sunderland,1,0,1.0
+1984-1985,29,1985-02-23,Coventry City,Chelsea,1,0,1.0
+1984-1985,38,1985-02-24,Sheffield Weds,Watford,1,1,0.5
+1984-1985,30,1985-03-02,Arsenal,West Ham,2,1,1.0
+1984-1985,30,1985-03-02,Newcastle Utd,Watford,3,1,1.0
+1984-1985,30,1985-03-02,Sheffield Weds,Coventry City,1,0,1.0
+1984-1985,30,1985-03-02,Manchester Utd,Everton,1,1,0.5
+1984-1985,30,1985-03-02,Ipswich Town,Chelsea,2,0,1.0
+1984-1985,30,1985-03-02,QPR,Norwich City,2,2,0.5
+1984-1985,30,1985-03-02,Luton Town,Sunderland,2,1,1.0
+1984-1985,30,1985-03-02,Southampton,West Brom,4,3,1.0
+1984-1985,30,1985-03-02,Liverpool,Nott'ham Forest,1,0,1.0
+1984-1985,30,1985-03-02,Stoke City,Tottenham,0,1,0.0
+1984-1985,30,1985-03-02,Aston Villa,Leicester City,0,1,0.0
+1984-1985,31,1985-03-09,Norwich City,Aston Villa,2,2,0.5
+1984-1985,31,1985-03-09,Nott'ham Forest,Newcastle Utd,0,0,0.5
+1984-1985,31,1985-03-09,Chelsea,Southampton,0,2,0.0
+1984-1985,31,1985-03-09,Coventry City,QPR,3,0,1.0
+1984-1985,31,1985-03-09,Sunderland,Arsenal,0,0,0.5
+1984-1985,31,1985-03-09,Leicester City,Sheffield Weds,3,1,1.0
+1984-1985,28,1985-03-12,Sunderland,Watford,1,1,0.5
+1984-1985,28,1985-03-12,Stoke City,West Brom,0,0,0.5
+1984-1985,31,1985-03-12,Tottenham,Manchester Utd,1,2,0.0
+1984-1985,28,1985-03-13,Aston Villa,Arsenal,0,0,0.5
+1984-1985,32,1985-03-15,West Ham,Manchester Utd,2,2,0.5
+1984-1985,32,1985-03-16,Sheffield Weds,Luton Town,1,1,0.5
+1984-1985,32,1985-03-16,QPR,Ipswich Town,3,0,1.0
+1984-1985,32,1985-03-16,Arsenal,Leicester City,2,0,1.0
+1984-1985,32,1985-03-16,Norwich City,Sunderland,1,3,0.0
+1984-1985,32,1985-03-16,Liverpool,Tottenham,0,1,0.0
+1984-1985,32,1985-03-16,Nott'ham Forest,West Brom,1,2,0.0
+1984-1985,32,1985-03-16,Aston Villa,Everton,1,1,0.5
+1984-1985,32,1985-03-16,Watford,Chelsea,1,3,0.0
+1984-1985,32,1985-03-16,Southampton,Stoke City,0,0,0.5
+1984-1985,24,1985-03-19,Arsenal,Ipswich Town,1,1,0.5
+1984-1985,31,1985-03-19,Watford,Luton Town,3,0,1.0
+1984-1985,25,1985-03-20,Newcastle Utd,Leicester City,1,4,0.0
+1984-1985,25,1985-03-20,Nott'ham Forest,Sheffield Weds,0,0,0.5
+1984-1985,33,1985-03-23,Manchester Utd,Aston Villa,4,0,1.0
+1984-1985,33,1985-03-23,Tottenham,Southampton,5,1,1.0
+1984-1985,33,1985-03-23,Everton,Arsenal,2,0,1.0
+1984-1985,33,1985-03-23,Luton Town,QPR,2,0,1.0
+1984-1985,33,1985-03-23,West Brom,Liverpool,0,5,0.0
+1984-1985,33,1985-03-23,Ipswich Town,Newcastle Utd,1,1,0.5
+1984-1985,33,1985-03-23,Stoke City,Nott'ham Forest,1,4,0.0
+1984-1985,33,1985-03-23,Leicester City,West Ham,1,0,1.0
+1984-1985,33,1985-03-23,Coventry City,Watford,3,1,1.0
+1984-1985,34,1985-03-27,Aston Villa,Stoke City,2,0,1.0
+1984-1985,34,1985-03-30,Sunderland,Chelsea,0,2,0.0
+1984-1985,34,1985-03-30,Sheffield Weds,Newcastle Utd,4,2,1.0
+1984-1985,34,1985-03-30,QPR,Watford,2,0,1.0
+1984-1985,34,1985-03-30,Luton Town,Ipswich Town,3,1,1.0
+1984-1985,34,1985-03-30,Norwich City,Coventry City,2,1,1.0
+1984-1985,37,1985-03-30,Nott'ham Forest,West Ham,1,2,0.0
+1984-1985,37,1985-03-30,West Brom,Leicester City,2,0,1.0
+1984-1985,37,1985-03-30,Stoke City,Arsenal,2,0,1.0
+1984-1985,37,1985-03-30,Southampton,Everton,1,2,0.0
+1984-1985,37,1985-03-30,Tottenham,Aston Villa,0,2,0.0
+1984-1985,37,1985-03-31,Liverpool,Manchester Utd,0,1,0.0
+1984-1985,27,1985-04-02,Watford,West Ham,5,0,1.0
+1984-1985,27,1985-04-02,Southampton,Luton Town,1,0,1.0
+1984-1985,24,1985-04-03,Sunderland,Liverpool,0,3,0.0
+1984-1985,25,1985-04-03,Tottenham,Everton,1,2,0.0
+1984-1985,28,1985-04-03,Manchester Utd,Leicester City,2,1,1.0
+1984-1985,29,1985-04-03,Norwich City,Sheffield Weds,1,1,0.5
+1984-1985,31,1985-04-03,West Brom,Ipswich Town,1,2,0.0
+1984-1985,35,1985-04-06,Ipswich Town,Nott'ham Forest,1,0,1.0
+1984-1985,35,1985-04-06,Arsenal,Norwich City,2,0,1.0
+1984-1985,35,1985-04-06,Manchester Utd,Stoke City,5,0,1.0
+1984-1985,35,1985-04-06,Aston Villa,Sheffield Weds,3,0,1.0
+1984-1985,35,1985-04-06,Newcastle Utd,West Brom,1,0,1.0
+1984-1985,35,1985-04-06,Everton,Sunderland,4,1,1.0
+1984-1985,35,1985-04-06,West Ham,Tottenham,1,1,0.5
+1984-1985,35,1985-04-06,Leicester City,Liverpool,0,1,0.0
+1984-1985,35,1985-04-06,Watford,Southampton,1,1,0.5
+1984-1985,35,1985-04-06,Chelsea,QPR,1,0,1.0
+1984-1985,25,1985-04-08,Stoke City,Luton Town,0,4,0.0
+1984-1985,36,1985-04-08,QPR,West Ham,4,2,1.0
+1984-1985,36,1985-04-08,West Brom,Aston Villa,1,0,1.0
+1984-1985,36,1985-04-08,Sunderland,Newcastle Utd,0,0,0.5
+1984-1985,36,1985-04-08,Norwich City,Ipswich Town,0,2,0.0
+1984-1985,36,1985-04-09,Sheffield Weds,Manchester Utd,1,0,1.0
+1984-1985,36,1985-04-09,Southampton,Leicester City,3,1,1.0
+1984-1985,36,1985-04-10,Nott'ham Forest,Chelsea,2,0,1.0
+1984-1985,24,1985-04-13,West Ham,Chelsea,1,1,0.5
+1984-1985,34,1985-04-13,Arsenal,Nott'ham Forest,1,1,0.5
+1984-1985,34,1985-04-13,Leicester City,Tottenham,1,2,0.0
+1984-1985,37,1985-04-13,Coventry City,Sunderland,0,1,0.0
+1984-1985,37,1985-04-13,Newcastle Utd,QPR,1,0,1.0
+1984-1985,37,1985-04-13,Ipswich Town,Sheffield Weds,1,2,0.0
+1984-1985,37,1985-04-13,Watford,Norwich City,2,0,1.0
+1984-1985,27,1985-04-16,Chelsea,Aston Villa,3,1,1.0
+1984-1985,28,1985-04-16,Luton Town,Norwich City,3,1,1.0
+1984-1985,29,1985-04-16,Watford,Ipswich Town,3,1,1.0
+1984-1985,33,1985-04-16,Sunderland,Sheffield Weds,0,0,0.5
+1984-1985,34,1985-04-16,Everton,West Brom,4,1,1.0
+1984-1985,32,1985-04-17,Newcastle Utd,Coventry City,0,1,0.0
+1984-1985,36,1985-04-17,Tottenham,Arsenal,0,2,0.0
+1984-1985,38,1985-04-20,Norwich City,Leicester City,1,3,0.0
+1984-1985,38,1985-04-20,Sunderland,West Ham,0,1,0.0
+1984-1985,38,1985-04-20,QPR,Arsenal,1,0,1.0
+1984-1985,38,1985-04-20,Stoke City,Everton,0,2,0.0
+1984-1985,38,1985-04-20,Nott'ham Forest,Coventry City,2,0,1.0
+1984-1985,38,1985-04-20,Southampton,Aston Villa,2,0,1.0
+1984-1985,38,1985-04-20,Tottenham,Ipswich Town,2,3,0.0
+1984-1985,38,1985-04-20,Liverpool,Newcastle Utd,3,1,1.0
+1984-1985,38,1985-04-20,West Brom,Chelsea,0,1,0.0
+1984-1985,38,1985-04-21,Luton Town,Manchester Utd,2,1,1.0
+1984-1985,27,1985-04-23,Ipswich Town,Leicester City,2,0,1.0
+1984-1985,28,1985-04-23,Sheffield Weds,QPR,3,1,1.0
+1984-1985,24,1985-04-24,Aston Villa,Watford,1,1,0.5
+1984-1985,24,1985-04-24,Luton Town,Nott'ham Forest,1,2,0.0
+1984-1985,27,1985-04-24,West Brom,Sunderland,1,0,1.0
+1984-1985,27,1985-04-24,Stoke City,Norwich City,2,3,0.0
+1984-1985,34,1985-04-24,Manchester Utd,Southampton,0,0,0.5
+1984-1985,39,1985-04-27,Leicester City,Nott'ham Forest,1,0,1.0
+1984-1985,39,1985-04-27,Aston Villa,QPR,5,2,1.0
+1984-1985,39,1985-04-27,Newcastle Utd,Southampton,2,1,1.0
+1984-1985,39,1985-04-27,West Ham,Luton Town,0,0,0.5
+1984-1985,39,1985-04-27,Arsenal,Sheffield Weds,1,0,1.0
+1984-1985,39,1985-04-27,Coventry City,West Brom,2,1,1.0
+1984-1985,39,1985-04-27,Watford,Stoke City,2,0,1.0
+1984-1985,39,1985-04-27,Chelsea,Tottenham,1,1,0.5
+1984-1985,39,1985-04-27,Everton,Norwich City,3,0,1.0
+1984-1985,39,1985-04-27,Manchester Utd,Sunderland,2,2,0.5
+1984-1985,39,1985-04-27,Ipswich Town,Liverpool,0,0,0.5
+1984-1985,40,1985-05-04,West Brom,West Ham,5,1,1.0
+1984-1985,40,1985-05-04,Luton Town,Arsenal,3,1,1.0
+1984-1985,40,1985-05-04,Norwich City,Manchester Utd,0,1,0.0
+1984-1985,40,1985-05-04,Nott'ham Forest,Watford,1,1,0.5
+1984-1985,40,1985-05-04,Sheffield Weds,Everton,0,1,0.0
+1984-1985,40,1985-05-04,Sunderland,Aston Villa,0,4,0.0
+1984-1985,40,1985-05-04,Southampton,Ipswich Town,3,0,1.0
+1984-1985,40,1985-05-04,Liverpool,Chelsea,4,3,1.0
+1984-1985,40,1985-05-04,Stoke City,Newcastle Utd,0,1,0.0
+1984-1985,40,1985-05-04,QPR,Leicester City,4,3,1.0
+1984-1985,40,1985-05-04,Tottenham,Coventry City,4,2,1.0
+1984-1985,41,1985-05-06,Arsenal,Southampton,1,0,1.0
+1984-1985,41,1985-05-06,Manchester Utd,Nott'ham Forest,2,0,1.0
+1984-1985,41,1985-05-06,Everton,QPR,2,0,1.0
+1984-1985,41,1985-05-06,West Ham,Norwich City,1,0,1.0
+1984-1985,41,1985-05-06,Aston Villa,Luton Town,0,1,0.0
+1984-1985,41,1985-05-06,Chelsea,Sheffield Weds,2,1,1.0
+1984-1985,41,1985-05-06,Ipswich Town,Stoke City,5,1,1.0
+1984-1985,41,1985-05-06,Leicester City,Sunderland,2,0,1.0
+1984-1985,41,1985-05-06,Newcastle Utd,Tottenham,2,3,0.0
+1984-1985,41,1985-05-06,Coventry City,Liverpool,0,2,0.0
+1984-1985,41,1985-05-07,Watford,West Brom,0,2,0.0
+1984-1985,28,1985-05-08,Everton,West Ham,3,0,1.0
+1984-1985,37,1985-05-08,Chelsea,Luton Town,2,0,1.0
+1984-1985,42,1985-05-11,QPR,Manchester Utd,1,3,0.0
+1984-1985,42,1985-05-11,Sunderland,Ipswich Town,1,2,0.0
+1984-1985,42,1985-05-11,Norwich City,Newcastle Utd,0,0,0.5
+1984-1985,42,1985-05-11,Tottenham,Watford,1,5,0.0
+1984-1985,42,1985-05-11,Nott'ham Forest,Everton,1,0,1.0
+1984-1985,42,1985-05-11,Luton Town,Leicester City,4,0,1.0
+1984-1985,42,1985-05-11,Southampton,Coventry City,2,1,1.0
+1984-1985,42,1985-05-11,Liverpool,Aston Villa,2,1,1.0
+1984-1985,42,1985-05-11,Sheffield Weds,West Ham,2,1,1.0
+1984-1985,42,1985-05-11,West Brom,Arsenal,2,2,0.5
+1984-1985,42,1985-05-11,Stoke City,Chelsea,0,1,0.0
+1984-1985,25,1985-05-13,Watford,Manchester Utd,5,1,1.0
+1984-1985,27,1985-05-14,Tottenham,Sheffield Weds,2,0,1.0
+1984-1985,28,1985-05-14,Southampton,Liverpool,1,1,0.5
+1984-1985,28,1985-05-14,Ipswich Town,Coventry City,0,0,0.5
+1984-1985,31,1985-05-14,West Ham,Stoke City,5,1,1.0
+1984-1985,33,1985-05-14,Chelsea,Norwich City,1,2,0.0
+1984-1985,25,1985-05-17,Ipswich Town,West Ham,0,1,0.0
+1984-1985,28,1985-05-17,Tottenham,Nott'ham Forest,1,0,1.0
+1984-1985,36,1985-05-17,Stoke City,Coventry City,0,1,0.0
+1984-1985,36,1985-05-17,Liverpool,Watford,4,3,1.0
+1984-1985,34,1985-05-20,West Ham,Liverpool,0,3,0.0
+1984-1985,31,1985-05-23,Everton,Liverpool,1,0,1.0
+1984-1985,35,1985-05-23,Coventry City,Luton Town,1,0,1.0
+1984-1985,27,1985-05-26,Coventry City,Everton,4,1,1.0
+1984-1985,36,1985-05-28,Luton Town,Everton,2,0,1.0

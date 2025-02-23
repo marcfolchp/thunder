@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1970-1971,1,1970-08-15,Burnley,Liverpool,1,2,0.0
+1970-1971,1,1970-08-15,Everton,Arsenal,2,2,0.5
+1970-1971,1,1970-08-15,Stoke City,Ipswich Town,0,0,0.5
+1970-1971,1,1970-08-15,Newcastle Utd,Wolves,3,2,1.0
+1970-1971,1,1970-08-15,Chelsea,Derby County,2,1,1.0
+1970-1971,1,1970-08-15,Nott'ham Forest,Coventry City,2,0,1.0
+1970-1971,1,1970-08-15,Manchester Utd,Leeds United,0,1,0.0
+1970-1971,1,1970-08-15,Huddersfield,Blackpool,3,0,1.0
+1970-1971,1,1970-08-15,West Brom,Crystal Palace,0,0,0.5
+1970-1971,1,1970-08-15,Southampton,Manchester City,1,1,0.5
+1970-1971,1,1970-08-15,Tottenham,West Ham,2,2,0.5
+1970-1971,2,1970-08-17,West Ham,Arsenal,0,0,0.5
+1970-1971,2,1970-08-17,Blackpool,Liverpool,0,0,0.5
+1970-1971,2,1970-08-18,Everton,Burnley,1,1,0.5
+1970-1971,2,1970-08-18,Huddersfield,Southampton,3,1,1.0
+1970-1971,2,1970-08-18,Ipswich Town,Coventry City,0,2,0.0
+1970-1971,2,1970-08-18,Nott'ham Forest,West Brom,3,3,0.5
+1970-1971,2,1970-08-19,Stoke City,Newcastle Utd,3,0,1.0
+1970-1971,2,1970-08-19,Crystal Palace,Manchester City,0,1,0.0
+1970-1971,2,1970-08-19,Wolves,Derby County,2,4,0.0
+1970-1971,2,1970-08-19,Manchester Utd,Chelsea,0,0,0.5
+1970-1971,2,1970-08-19,Tottenham,Leeds United,0,2,0.0
+1970-1971,3,1970-08-22,Crystal Palace,Newcastle Utd,1,0,1.0
+1970-1971,3,1970-08-22,Derby County,Stoke City,2,0,1.0
+1970-1971,3,1970-08-22,Manchester City,Burnley,0,0,0.5
+1970-1971,3,1970-08-22,Coventry City,Southampton,1,0,1.0
+1970-1971,3,1970-08-22,Blackpool,West Brom,3,1,1.0
+1970-1971,3,1970-08-22,Arsenal,Manchester Utd,4,0,1.0
+1970-1971,3,1970-08-22,Ipswich Town,Nott'ham Forest,0,0,0.5
+1970-1971,3,1970-08-22,West Ham,Chelsea,2,2,0.5
+1970-1971,3,1970-08-22,Wolves,Tottenham,0,3,0.0
+1970-1971,3,1970-08-22,Liverpool,Huddersfield,4,0,1.0
+1970-1971,3,1970-08-22,Leeds United,Everton,3,2,1.0
+1970-1971,4,1970-08-25,Arsenal,Huddersfield,1,0,1.0
+1970-1971,4,1970-08-25,Burnley,Manchester Utd,0,2,0.0
+1970-1971,4,1970-08-25,Southampton,Tottenham,0,0,0.5
+1970-1971,4,1970-08-25,Liverpool,Crystal Palace,1,1,0.5
+1970-1971,4,1970-08-25,Coventry City,Wolves,0,1,0.0
+1970-1971,4,1970-08-26,Newcastle Utd,Nott'ham Forest,1,1,0.5
+1970-1971,4,1970-08-26,Leeds United,West Ham,3,0,1.0
+1970-1971,4,1970-08-26,Manchester City,Blackpool,2,0,1.0
+1970-1971,4,1970-08-26,West Brom,Stoke City,5,2,1.0
+1970-1971,4,1970-08-26,Chelsea,Everton,2,2,0.5
+1970-1971,4,1970-08-26,Derby County,Ipswich Town,2,0,1.0
+1970-1971,5,1970-08-29,West Brom,Liverpool,1,1,0.5
+1970-1971,5,1970-08-29,Huddersfield,Derby County,0,0,0.5
+1970-1971,5,1970-08-29,Newcastle Utd,Blackpool,1,2,0.0
+1970-1971,5,1970-08-29,Tottenham,Coventry City,1,0,1.0
+1970-1971,5,1970-08-29,Burnley,Leeds United,0,3,0.0
+1970-1971,5,1970-08-29,Stoke City,Crystal Palace,0,0,0.5
+1970-1971,5,1970-08-29,Chelsea,Arsenal,2,1,1.0
+1970-1971,5,1970-08-29,Everton,Manchester City,0,1,0.0
+1970-1971,5,1970-08-29,Manchester Utd,West Ham,1,1,0.5
+1970-1971,5,1970-08-29,Nott'ham Forest,Wolves,4,1,1.0
+1970-1971,5,1970-08-29,Southampton,Ipswich Town,1,0,1.0
+1970-1971,6,1970-08-31,West Ham,Southampton,1,1,0.5
+1970-1971,6,1970-09-01,Huddersfield,Tottenham,1,1,0.5
+1970-1971,6,1970-09-01,Burnley,Chelsea,0,0,0.5
+1970-1971,6,1970-09-01,Ipswich Town,Wolves,2,3,0.0
+1970-1971,6,1970-09-01,Arsenal,Leeds United,0,0,0.5
+1970-1971,6,1970-09-02,Crystal Palace,Blackpool,1,0,1.0
+1970-1971,6,1970-09-02,West Brom,Newcastle Utd,1,2,0.0
+1970-1971,6,1970-09-02,Derby County,Coventry City,3,4,0.0
+1970-1971,6,1970-09-02,Manchester Utd,Everton,2,0,1.0
+1970-1971,6,1970-09-02,Stoke City,Nott'ham Forest,0,0,0.5
+1970-1971,7,1970-09-05,Blackpool,Southampton,0,3,0.0
+1970-1971,7,1970-09-05,Arsenal,Tottenham,2,0,1.0
+1970-1971,7,1970-09-05,Derby County,Newcastle Utd,1,2,0.0
+1970-1971,7,1970-09-05,Coventry City,Huddersfield,0,0,0.5
+1970-1971,7,1970-09-05,West Ham,Everton,1,2,0.0
+1970-1971,7,1970-09-05,Ipswich Town,Burnley,3,0,1.0
+1970-1971,7,1970-09-05,Wolves,Stoke City,1,1,0.5
+1970-1971,7,1970-09-05,Crystal Palace,Nott'ham Forest,2,0,1.0
+1970-1971,7,1970-09-05,Manchester City,West Brom,4,1,1.0
+1970-1971,7,1970-09-05,Leeds United,Chelsea,1,0,1.0
+1970-1971,7,1970-09-05,Liverpool,Manchester Utd,1,1,0.5
+1970-1971,8,1970-09-12,West Brom,West Ham,2,1,1.0
+1970-1971,8,1970-09-12,Huddersfield,Crystal Palace,0,2,0.0
+1970-1971,8,1970-09-12,Nott'ham Forest,Manchester City,0,1,0.0
+1970-1971,8,1970-09-12,Everton,Ipswich Town,2,0,1.0
+1970-1971,8,1970-09-12,Stoke City,Leeds United,3,0,1.0
+1970-1971,8,1970-09-12,Newcastle Utd,Liverpool,0,0,0.5
+1970-1971,8,1970-09-12,Manchester Utd,Coventry City,2,0,1.0
+1970-1971,8,1970-09-12,Burnley,Arsenal,1,2,0.0
+1970-1971,8,1970-09-12,Tottenham,Blackpool,3,0,1.0
+1970-1971,8,1970-09-12,Southampton,Derby County,4,0,1.0
+1970-1971,8,1970-09-12,Chelsea,Wolves,2,2,0.5
+1970-1971,9,1970-09-19,Derby County,Burnley,1,0,1.0
+1970-1971,9,1970-09-19,Coventry City,Chelsea,0,1,0.0
+1970-1971,9,1970-09-19,Liverpool,Nott'ham Forest,3,0,1.0
+1970-1971,9,1970-09-19,Wolves,Huddersfield,3,1,1.0
+1970-1971,9,1970-09-19,Manchester City,Stoke City,4,1,1.0
+1970-1971,9,1970-09-19,West Ham,Newcastle Utd,0,2,0.0
+1970-1971,9,1970-09-19,Ipswich Town,Manchester Utd,4,0,1.0
+1970-1971,9,1970-09-19,Crystal Palace,Tottenham,0,3,0.0
+1970-1971,9,1970-09-19,Blackpool,Everton,0,2,0.0
+1970-1971,9,1970-09-19,Arsenal,West Brom,6,2,1.0
+1970-1971,9,1970-09-19,Leeds United,Southampton,1,0,1.0
+1970-1971,10,1970-09-26,Burnley,Wolves,2,3,0.0
+1970-1971,10,1970-09-26,Stoke City,Arsenal,5,0,1.0
+1970-1971,10,1970-09-26,Tottenham,Manchester City,2,0,1.0
+1970-1971,10,1970-09-26,Nott'ham Forest,Leeds United,0,0,0.5
+1970-1971,10,1970-09-26,West Brom,Derby County,2,1,1.0
+1970-1971,10,1970-09-26,Huddersfield,West Ham,1,1,0.5
+1970-1971,10,1970-09-26,Chelsea,Ipswich Town,2,1,1.0
+1970-1971,10,1970-09-26,Southampton,Liverpool,1,0,1.0
+1970-1971,10,1970-09-26,Newcastle Utd,Coventry City,0,0,0.5
+1970-1971,10,1970-09-26,Manchester Utd,Blackpool,1,1,0.5
+1970-1971,10,1970-09-26,Everton,Crystal Palace,3,1,1.0
+1970-1971,11,1970-10-03,Coventry City,Everton,3,1,1.0
+1970-1971,11,1970-10-03,Blackpool,Stoke City,1,1,0.5
+1970-1971,11,1970-10-03,Manchester City,Newcastle Utd,1,1,0.5
+1970-1971,11,1970-10-03,Leeds United,Huddersfield,2,0,1.0
+1970-1971,11,1970-10-03,Ipswich Town,West Brom,2,2,0.5
+1970-1971,11,1970-10-03,Crystal Palace,Southampton,3,1,1.0
+1970-1971,11,1970-10-03,West Ham,Burnley,3,1,1.0
+1970-1971,11,1970-10-03,Arsenal,Nott'ham Forest,4,0,1.0
+1970-1971,11,1970-10-03,Liverpool,Chelsea,1,0,1.0
+1970-1971,11,1970-10-03,Derby County,Tottenham,1,1,0.5
+1970-1971,11,1970-10-03,Wolves,Manchester Utd,3,2,1.0
+1970-1971,12,1970-10-10,Chelsea,Manchester City,1,1,0.5
+1970-1971,12,1970-10-10,Manchester Utd,Crystal Palace,0,1,0.0
+1970-1971,12,1970-10-10,Tottenham,Liverpool,1,0,1.0
+1970-1971,12,1970-10-10,Everton,Derby County,1,1,0.5
+1970-1971,12,1970-10-10,Nott'ham Forest,Blackpool,3,1,1.0
+1970-1971,12,1970-10-10,Stoke City,West Ham,2,1,1.0
+1970-1971,12,1970-10-10,Burnley,Coventry City,0,0,0.5
+1970-1971,12,1970-10-10,Newcastle Utd,Arsenal,1,1,0.5
+1970-1971,12,1970-10-10,West Brom,Leeds United,2,2,0.5
+1970-1971,12,1970-10-10,Southampton,Wolves,1,2,0.0
+1970-1971,12,1970-10-10,Huddersfield,Ipswich Town,1,0,1.0
+1970-1971,13,1970-10-17,Arsenal,Everton,4,0,1.0
+1970-1971,13,1970-10-17,Leeds United,Manchester Utd,2,2,0.5
+1970-1971,13,1970-10-17,Coventry City,Nott'ham Forest,2,0,1.0
+1970-1971,13,1970-10-17,West Ham,Tottenham,2,2,0.5
+1970-1971,13,1970-10-17,Blackpool,Huddersfield,2,2,0.5
+1970-1971,13,1970-10-17,Ipswich Town,Stoke City,2,0,1.0
+1970-1971,13,1970-10-17,Derby County,Chelsea,1,2,0.0
+1970-1971,13,1970-10-17,Crystal Palace,West Brom,3,0,1.0
+1970-1971,13,1970-10-17,Manchester City,Southampton,1,1,0.5
+1970-1971,13,1970-10-17,Liverpool,Burnley,2,0,1.0
+1970-1971,13,1970-10-17,Wolves,Newcastle Utd,3,2,1.0
+1970-1971,14,1970-10-24,Southampton,Burnley,2,0,1.0
+1970-1971,14,1970-10-24,Huddersfield,Nott'ham Forest,0,0,0.5
+1970-1971,14,1970-10-24,Everton,Newcastle Utd,3,1,1.0
+1970-1971,14,1970-10-24,Ipswich Town,Liverpool,1,0,1.0
+1970-1971,14,1970-10-24,Tottenham,Stoke City,3,0,1.0
+1970-1971,14,1970-10-24,Coventry City,Arsenal,1,3,0.0
+1970-1971,14,1970-10-24,Crystal Palace,West Ham,1,1,0.5
+1970-1971,14,1970-10-24,Wolves,Manchester City,3,0,1.0
+1970-1971,14,1970-10-24,Blackpool,Chelsea,3,4,0.0
+1970-1971,14,1970-10-24,Derby County,Leeds United,0,2,0.0
+1970-1971,14,1970-10-24,Manchester Utd,West Brom,2,1,1.0
+1970-1971,15,1970-10-31,Nott'ham Forest,Tottenham,0,1,0.0
+1970-1971,15,1970-10-31,Newcastle Utd,Manchester Utd,1,0,1.0
+1970-1971,15,1970-10-31,West Brom,Everton,3,0,1.0
+1970-1971,15,1970-10-31,Arsenal,Derby County,2,0,1.0
+1970-1971,15,1970-10-31,Manchester City,Ipswich Town,2,0,1.0
+1970-1971,15,1970-10-31,West Ham,Blackpool,2,1,1.0
+1970-1971,15,1970-10-31,Leeds United,Coventry City,2,0,1.0
+1970-1971,15,1970-10-31,Chelsea,Southampton,2,2,0.5
+1970-1971,15,1970-10-31,Stoke City,Huddersfield,3,1,1.0
+1970-1971,15,1970-10-31,Burnley,Crystal Palace,2,1,1.0
+1970-1971,15,1970-10-31,Liverpool,Wolves,2,0,1.0
+1970-1971,16,1970-11-07,Tottenham,Burnley,4,0,1.0
+1970-1971,16,1970-11-07,Southampton,Newcastle Utd,2,0,1.0
+1970-1971,16,1970-11-07,Manchester Utd,Stoke City,2,2,0.5
+1970-1971,16,1970-11-07,Blackpool,Arsenal,0,1,0.0
+1970-1971,16,1970-11-07,Crystal Palace,Leeds United,1,1,0.5
+1970-1971,16,1970-11-07,Coventry City,Manchester City,2,1,1.0
+1970-1971,16,1970-11-07,Ipswich Town,West Ham,2,1,1.0
+1970-1971,16,1970-11-07,Derby County,Liverpool,0,0,0.5
+1970-1971,16,1970-11-07,Huddersfield,Chelsea,0,1,0.0
+1970-1971,16,1970-11-07,Everton,Nott'ham Forest,1,0,1.0
+1970-1971,16,1970-11-07,Wolves,West Brom,2,1,1.0
+1970-1971,17,1970-11-14,Nott'ham Forest,Manchester Utd,1,2,0.0
+1970-1971,17,1970-11-14,Leeds United,Blackpool,3,1,1.0
+1970-1971,17,1970-11-14,Manchester City,Derby County,1,1,0.5
+1970-1971,17,1970-11-14,West Ham,Wolves,3,3,0.5
+1970-1971,17,1970-11-14,Burnley,Huddersfield,2,3,0.0
+1970-1971,17,1970-11-14,Newcastle Utd,Ipswich Town,0,0,0.5
+1970-1971,17,1970-11-14,West Brom,Southampton,1,0,1.0
+1970-1971,17,1970-11-14,Arsenal,Crystal Palace,1,1,0.5
+1970-1971,17,1970-11-14,Chelsea,Tottenham,0,2,0.0
+1970-1971,17,1970-11-14,Stoke City,Everton,1,1,0.5
+1970-1971,17,1970-11-14,Liverpool,Coventry City,0,0,0.5
+1970-1971,36,1970-11-18,Leeds United,Stoke City,4,1,1.0
+1970-1971,18,1970-11-21,Tottenham,Newcastle Utd,1,2,0.0
+1970-1971,18,1970-11-21,Chelsea,Stoke City,2,1,1.0
+1970-1971,18,1970-11-21,Huddersfield,West Brom,2,1,1.0
+1970-1971,18,1970-11-21,Wolves,Leeds United,2,3,0.0
+1970-1971,18,1970-11-21,Southampton,Manchester Utd,1,0,1.0
+1970-1971,18,1970-11-21,Coventry City,Crystal Palace,2,1,1.0
+1970-1971,18,1970-11-21,Manchester City,West Ham,2,0,1.0
+1970-1971,18,1970-11-21,Liverpool,Everton,3,2,1.0
+1970-1971,18,1970-11-21,Ipswich Town,Arsenal,0,1,0.0
+1970-1971,18,1970-11-21,Derby County,Blackpool,2,0,1.0
+1970-1971,18,1970-11-21,Burnley,Nott'ham Forest,2,1,1.0
+1970-1971,19,1970-11-28,Newcastle Utd,Burnley,3,1,1.0
+1970-1971,19,1970-11-28,Arsenal,Liverpool,2,0,1.0
+1970-1971,19,1970-11-28,Crystal Palace,Wolves,1,1,0.5
+1970-1971,19,1970-11-28,Everton,Tottenham,0,0,0.5
+1970-1971,19,1970-11-28,Manchester Utd,Huddersfield,1,1,0.5
+1970-1971,19,1970-11-28,Stoke City,Southampton,0,0,0.5
+1970-1971,19,1970-11-28,Blackpool,Ipswich Town,0,2,0.0
+1970-1971,19,1970-11-28,Leeds United,Manchester City,1,0,1.0
+1970-1971,19,1970-11-28,Nott'ham Forest,Derby County,2,4,0.0
+1970-1971,19,1970-11-28,West Ham,Coventry City,1,2,0.0
+1970-1971,19,1970-11-28,West Brom,Chelsea,2,2,0.5
+1970-1971,20,1970-12-05,Southampton,Nott'ham Forest,4,1,1.0
+1970-1971,20,1970-12-05,Tottenham,Manchester Utd,2,2,0.5
+1970-1971,20,1970-12-05,Chelsea,Newcastle Utd,1,0,1.0
+1970-1971,20,1970-12-05,Manchester City,Arsenal,0,2,0.0
+1970-1971,20,1970-12-05,Wolves,Blackpool,1,0,1.0
+1970-1971,20,1970-12-05,Coventry City,Stoke City,1,0,1.0
+1970-1971,20,1970-12-05,Burnley,West Brom,1,1,0.5
+1970-1971,20,1970-12-05,Huddersfield,Everton,1,1,0.5
+1970-1971,20,1970-12-05,Derby County,West Ham,2,4,0.0
+1970-1971,20,1970-12-05,Liverpool,Leeds United,1,1,0.5
+1970-1971,20,1970-12-05,Ipswich Town,Crystal Palace,1,2,0.0
+1970-1971,21,1970-12-12,Leeds United,Ipswich Town,0,0,0.5
+1970-1971,21,1970-12-12,Newcastle Utd,Huddersfield,2,0,1.0
+1970-1971,21,1970-12-12,Arsenal,Wolves,2,1,1.0
+1970-1971,21,1970-12-12,Everton,Southampton,4,1,1.0
+1970-1971,21,1970-12-12,Blackpool,Coventry City,1,0,1.0
+1970-1971,21,1970-12-12,Crystal Palace,Derby County,0,0,0.5
+1970-1971,21,1970-12-12,Stoke City,Burnley,0,0,0.5
+1970-1971,21,1970-12-12,Nott'ham Forest,Chelsea,1,1,0.5
+1970-1971,21,1970-12-12,West Brom,Tottenham,3,1,1.0
+1970-1971,21,1970-12-12,Manchester Utd,Manchester City,1,4,0.0
+1970-1971,21,1970-12-12,West Ham,Liverpool,1,2,0.0
+1970-1971,22,1970-12-19,Southampton,Coventry City,3,0,1.0
+1970-1971,22,1970-12-19,Burnley,Manchester City,0,4,0.0
+1970-1971,22,1970-12-19,Chelsea,West Ham,2,1,1.0
+1970-1971,22,1970-12-19,Huddersfield,Liverpool,0,0,0.5
+1970-1971,22,1970-12-19,Nott'ham Forest,Ipswich Town,0,1,0.0
+1970-1971,22,1970-12-19,Tottenham,Wolves,0,0,0.5
+1970-1971,22,1970-12-19,West Brom,Blackpool,1,1,0.5
+1970-1971,22,1970-12-19,Stoke City,Derby County,1,0,1.0
+1970-1971,22,1970-12-19,Newcastle Utd,Crystal Palace,2,0,1.0
+1970-1971,22,1970-12-19,Manchester Utd,Arsenal,1,3,0.0
+1970-1971,22,1970-12-19,Everton,Leeds United,0,1,0.0
+1970-1971,23,1970-12-26,Liverpool,Stoke City,0,0,0.5
+1970-1971,23,1970-12-26,Leeds United,Newcastle Utd,3,0,1.0
+1970-1971,23,1970-12-26,Coventry City,West Brom,1,1,0.5
+1970-1971,23,1970-12-26,Arsenal,Southampton,0,0,0.5
+1970-1971,23,1970-12-26,Blackpool,Burnley,1,1,0.5
+1970-1971,23,1970-12-26,Derby County,Manchester Utd,4,4,0.5
+1970-1971,23,1970-12-26,Wolves,Everton,2,0,1.0
+1970-1971,23,1970-12-26,Manchester City,Huddersfield,1,1,0.5
+1970-1971,24,1971-01-09,Arsenal,West Ham,2,0,1.0
+1970-1971,24,1971-01-09,West Brom,Nott'ham Forest,0,1,0.0
+1970-1971,24,1971-01-09,Liverpool,Blackpool,2,2,0.5
+1970-1971,24,1971-01-09,Leeds United,Tottenham,1,2,0.0
+1970-1971,24,1971-01-09,Chelsea,Manchester Utd,1,2,0.0
+1970-1971,24,1971-01-09,Coventry City,Ipswich Town,1,0,1.0
+1970-1971,24,1971-01-09,Newcastle Utd,Stoke City,0,2,0.0
+1970-1971,24,1971-01-09,Burnley,Everton,2,2,0.5
+1970-1971,24,1971-01-09,Derby County,Wolves,1,2,0.0
+1970-1971,24,1971-01-09,Manchester City,Crystal Palace,1,0,1.0
+1970-1971,24,1971-01-09,Southampton,Huddersfield,1,0,1.0
+1970-1971,6,1971-01-12,Liverpool,Manchester City,0,0,0.5
+1970-1971,23,1971-01-13,Crystal Palace,Chelsea,0,0,0.5
+1970-1971,25,1971-01-16,Huddersfield,Arsenal,2,1,1.0
+1970-1971,25,1971-01-16,Nott'ham Forest,Newcastle Utd,2,1,1.0
+1970-1971,25,1971-01-16,Crystal Palace,Liverpool,1,0,1.0
+1970-1971,25,1971-01-16,Ipswich Town,Derby County,0,1,0.0
+1970-1971,25,1971-01-16,Manchester Utd,Burnley,1,1,0.5
+1970-1971,25,1971-01-16,Everton,Chelsea,3,0,1.0
+1970-1971,25,1971-01-16,West Ham,Leeds United,2,3,0.0
+1970-1971,25,1971-01-16,Wolves,Coventry City,0,0,0.5
+1970-1971,25,1971-01-16,Stoke City,West Brom,2,0,1.0
+1970-1971,25,1971-01-16,Blackpool,Manchester City,3,3,0.5
+1970-1971,25,1971-01-16,Tottenham,Southampton,1,3,0.0
+1970-1971,26,1971-01-30,Chelsea,West Brom,4,1,1.0
+1970-1971,26,1971-01-30,Burnley,Newcastle Utd,1,1,0.5
+1970-1971,26,1971-01-30,Southampton,Stoke City,2,1,1.0
+1970-1971,26,1971-01-30,Ipswich Town,Blackpool,2,1,1.0
+1970-1971,26,1971-01-30,Manchester City,Leeds United,0,2,0.0
+1970-1971,26,1971-01-30,Tottenham,Everton,2,1,1.0
+1970-1971,26,1971-01-30,Liverpool,Arsenal,2,0,1.0
+1970-1971,26,1971-01-30,Wolves,Crystal Palace,2,1,1.0
+1970-1971,26,1971-01-30,Huddersfield,Manchester Utd,1,2,0.0
+1970-1971,27,1971-02-06,Newcastle Utd,Chelsea,0,1,0.0
+1970-1971,27,1971-02-06,Blackpool,Wolves,0,2,0.0
+1970-1971,27,1971-02-06,Stoke City,Coventry City,2,1,1.0
+1970-1971,27,1971-02-06,Nott'ham Forest,Southampton,2,0,1.0
+1970-1971,27,1971-02-06,West Brom,Burnley,1,0,1.0
+1970-1971,27,1971-02-06,Manchester Utd,Tottenham,2,1,1.0
+1970-1971,27,1971-02-06,Everton,Huddersfield,2,1,1.0
+1970-1971,27,1971-02-06,Arsenal,Manchester City,1,0,1.0
+1970-1971,27,1971-02-06,Crystal Palace,Ipswich Town,1,0,1.0
+1970-1971,27,1971-02-06,West Ham,Derby County,1,4,0.0
+1970-1971,27,1971-02-06,Leeds United,Liverpool,0,1,0.0
+1970-1971,26,1971-02-08,Coventry City,West Ham,0,1,0.0
+1970-1971,28,1971-02-13,Coventry City,Blackpool,2,0,1.0
+1970-1971,28,1971-02-13,Huddersfield,Newcastle Utd,1,1,0.5
+1970-1971,36,1971-02-13,Wolves,Chelsea,1,0,1.0
+1970-1971,28,1971-02-16,Liverpool,West Ham,1,0,1.0
+1970-1971,28,1971-02-16,Southampton,Everton,2,2,0.5
+1970-1971,28,1971-02-17,Tottenham,West Brom,2,2,0.5
+1970-1971,28,1971-02-17,Derby County,Crystal Palace,1,0,1.0
+1970-1971,28,1971-02-17,Chelsea,Nott'ham Forest,2,0,1.0
+1970-1971,29,1971-02-20,Nott'ham Forest,Burnley,1,0,1.0
+1970-1971,29,1971-02-20,Newcastle Utd,Tottenham,1,0,1.0
+1970-1971,29,1971-02-20,Everton,Liverpool,0,0,0.5
+1970-1971,29,1971-02-20,Arsenal,Ipswich Town,3,2,1.0
+1970-1971,29,1971-02-20,Stoke City,Chelsea,1,2,0.0
+1970-1971,29,1971-02-20,Manchester Utd,Southampton,5,1,1.0
+1970-1971,29,1971-02-20,Crystal Palace,Coventry City,1,2,0.0
+1970-1971,29,1971-02-20,Leeds United,Wolves,3,0,1.0
+1970-1971,29,1971-02-20,West Ham,Manchester City,0,0,0.5
+1970-1971,29,1971-02-20,Blackpool,Derby County,0,1,0.0
+1970-1971,29,1971-02-20,West Brom,Huddersfield,2,1,1.0
+1970-1971,28,1971-02-23,Burnley,Stoke City,1,1,0.5
+1970-1971,28,1971-02-23,Ipswich Town,Leeds United,2,4,0.0
+1970-1971,41,1971-02-23,Everton,Manchester Utd,1,0,1.0
+1970-1971,23,1971-02-24,West Ham,Nott'ham Forest,2,0,1.0
+1970-1971,30,1971-02-26,Ipswich Town,Manchester City,2,0,1.0
+1970-1971,30,1971-02-26,Coventry City,Leeds United,0,1,0.0
+1970-1971,30,1971-02-27,Blackpool,West Ham,1,1,0.5
+1970-1971,30,1971-02-27,Wolves,Liverpool,1,0,1.0
+1970-1971,30,1971-02-27,Derby County,Arsenal,2,0,1.0
+1970-1971,30,1971-02-27,Everton,West Brom,3,3,0.5
+1970-1971,30,1971-02-27,Manchester Utd,Newcastle Utd,1,0,1.0
+1970-1971,30,1971-02-27,Crystal Palace,Burnley,0,2,0.0
+1970-1971,30,1971-02-27,Huddersfield,Stoke City,0,1,0.0
+1970-1971,30,1971-02-27,Southampton,Chelsea,0,0,0.5
+1970-1971,28,1971-03-02,Wolves,Arsenal,0,3,0.0
+1970-1971,31,1971-03-06,Chelsea,Blackpool,2,0,1.0
+1970-1971,31,1971-03-06,Manchester City,Wolves,0,0,0.5
+1970-1971,31,1971-03-06,West Ham,Crystal Palace,0,0,0.5
+1970-1971,31,1971-03-06,Burnley,Southampton,0,1,0.0
+1970-1971,31,1971-03-06,Leeds United,Derby County,1,0,1.0
+1970-1971,31,1971-03-06,Nott'ham Forest,Huddersfield,1,3,0.0
+1970-1971,31,1971-03-06,West Brom,Manchester Utd,4,3,1.0
+1970-1971,30,1971-03-10,Tottenham,Nott'ham Forest,0,1,0.0
+1970-1971,32,1971-03-13,Crystal Palace,Arsenal,0,2,0.0
+1970-1971,32,1971-03-13,Derby County,Manchester City,0,0,0.5
+1970-1971,32,1971-03-13,Ipswich Town,Newcastle Utd,1,0,1.0
+1970-1971,32,1971-03-13,Coventry City,Liverpool,1,0,1.0
+1970-1971,32,1971-03-13,Southampton,West Brom,1,0,1.0
+1970-1971,32,1971-03-13,Huddersfield,Burnley,0,1,0.0
+1970-1971,32,1971-03-13,Manchester Utd,Nott'ham Forest,2,0,1.0
+1970-1971,32,1971-03-13,Everton,Stoke City,2,0,1.0
+1970-1971,32,1971-03-13,Tottenham,Chelsea,2,1,1.0
+1970-1971,32,1971-03-13,Wolves,West Ham,2,0,1.0
+1970-1971,32,1971-03-13,Blackpool,Leeds United,1,1,0.5
+1970-1971,31,1971-03-18,Newcastle Utd,Everton,2,1,1.0
+1970-1971,33,1971-03-20,Leeds United,Crystal Palace,2,1,1.0
+1970-1971,33,1971-03-20,West Brom,Wolves,2,4,0.0
+1970-1971,33,1971-03-20,Nott'ham Forest,Everton,3,2,1.0
+1970-1971,33,1971-03-20,Chelsea,Huddersfield,0,0,0.5
+1970-1971,33,1971-03-20,Stoke City,Manchester Utd,1,2,0.0
+1970-1971,33,1971-03-20,Liverpool,Derby County,2,0,1.0
+1970-1971,33,1971-03-20,West Ham,Ipswich Town,2,2,0.5
+1970-1971,33,1971-03-20,Manchester City,Coventry City,1,1,0.5
+1970-1971,33,1971-03-20,Burnley,Tottenham,0,0,0.5
+1970-1971,33,1971-03-20,Newcastle Utd,Southampton,2,2,0.5
+1970-1971,33,1971-03-20,Arsenal,Blackpool,1,0,1.0
+1970-1971,23,1971-03-23,Ipswich Town,Tottenham,1,2,0.0
+1970-1971,36,1971-03-24,Crystal Palace,Huddersfield,0,3,0.0
+1970-1971,34,1971-03-27,Southampton,Blackpool,1,1,0.5
+1970-1971,34,1971-03-27,Burnley,Ipswich Town,2,2,0.5
+1970-1971,34,1971-03-27,Nott'ham Forest,Crystal Palace,3,1,1.0
+1970-1971,34,1971-03-27,Chelsea,Leeds United,3,1,1.0
+1970-1971,34,1971-03-27,Huddersfield,Coventry City,1,0,1.0
+1970-1971,34,1971-03-27,Newcastle Utd,Derby County,3,1,1.0
+1970-1971,34,1971-03-27,West Brom,Manchester City,0,0,0.5
+1970-1971,31,1971-03-29,Liverpool,Ipswich Town,2,1,1.0
+1970-1971,34,1971-03-30,Everton,West Ham,0,1,0.0
+1970-1971,26,1971-03-31,Derby County,Nott'ham Forest,1,2,0.0
+1970-1971,35,1971-04-02,Liverpool,West Brom,1,1,0.5
+1970-1971,35,1971-04-03,Crystal Palace,Stoke City,3,2,1.0
+1970-1971,35,1971-04-03,Derby County,Huddersfield,3,2,1.0
+1970-1971,35,1971-04-03,Coventry City,Tottenham,0,0,0.5
+1970-1971,35,1971-04-03,Manchester City,Everton,3,0,1.0
+1970-1971,35,1971-04-03,Blackpool,Newcastle Utd,0,1,0.0
+1970-1971,35,1971-04-03,Ipswich Town,Southampton,1,3,0.0
+1970-1971,35,1971-04-03,West Ham,Manchester Utd,2,1,1.0
+1970-1971,35,1971-04-03,Arsenal,Chelsea,2,0,1.0
+1970-1971,35,1971-04-03,Leeds United,Burnley,4,0,1.0
+1970-1971,35,1971-04-03,Wolves,Nott'ham Forest,4,0,1.0
+1970-1971,31,1971-04-06,Arsenal,Coventry City,1,0,1.0
+1970-1971,36,1971-04-06,Liverpool,Newcastle Utd,1,1,0.5
+1970-1971,36,1971-04-06,Ipswich Town,Everton,0,0,0.5
+1970-1971,34,1971-04-07,Stoke City,Wolves,1,0,1.0
+1970-1971,38,1971-04-07,Tottenham,Derby County,2,1,1.0
+1970-1971,36,1971-04-09,West Ham,West Brom,2,1,1.0
+1970-1971,36,1971-04-09,Manchester City,Nott'ham Forest,1,3,0.0
+1970-1971,37,1971-04-10,Tottenham,Ipswich Town,2,0,1.0
+1970-1971,37,1971-04-10,Nott'ham Forest,West Ham,1,0,1.0
+1970-1971,37,1971-04-10,Burnley,Blackpool,1,0,1.0
+1970-1971,37,1971-04-10,Southampton,Arsenal,1,2,0.0
+1970-1971,37,1971-04-10,Everton,Wolves,1,2,0.0
+1970-1971,37,1971-04-10,Newcastle Utd,Leeds United,1,1,0.5
+1970-1971,37,1971-04-10,West Brom,Coventry City,0,0,0.5
+1970-1971,37,1971-04-10,Huddersfield,Manchester City,1,0,1.0
+1970-1971,37,1971-04-10,Stoke City,Liverpool,0,1,0.0
+1970-1971,37,1971-04-10,Chelsea,Crystal Palace,1,1,0.5
+1970-1971,37,1971-04-10,Manchester Utd,Derby County,1,2,0.0
+1970-1971,36,1971-04-12,Derby County,Southampton,0,0,0.5
+1970-1971,36,1971-04-12,Blackpool,Tottenham,0,0,0.5
+1970-1971,38,1971-04-12,Huddersfield,Leeds United,0,0,0.5
+1970-1971,38,1971-04-12,Chelsea,Liverpool,1,0,1.0
+1970-1971,38,1971-04-12,Newcastle Utd,Manchester City,0,0,0.5
+1970-1971,38,1971-04-12,West Brom,Ipswich Town,0,1,0.0
+1970-1971,38,1971-04-12,Everton,Coventry City,3,0,1.0
+1970-1971,38,1971-04-12,Manchester Utd,Wolves,1,0,1.0
+1970-1971,36,1971-04-13,Coventry City,Manchester Utd,2,1,1.0
+1970-1971,38,1971-04-13,Nott'ham Forest,Arsenal,0,3,0.0
+1970-1971,38,1971-04-13,Stoke City,Blackpool,1,1,0.5
+1970-1971,38,1971-04-13,Burnley,West Ham,1,0,1.0
+1970-1971,39,1971-04-17,Manchester City,Chelsea,1,1,0.5
+1970-1971,39,1971-04-17,Wolves,Southampton,0,1,0.0
+1970-1971,39,1971-04-17,Blackpool,Nott'ham Forest,2,3,0.0
+1970-1971,39,1971-04-17,Crystal Palace,Manchester Utd,3,5,0.0
+1970-1971,39,1971-04-17,Liverpool,Tottenham,0,0,0.5
+1970-1971,39,1971-04-17,Coventry City,Burnley,3,0,1.0
+1970-1971,39,1971-04-17,West Ham,Stoke City,1,0,1.0
+1970-1971,39,1971-04-17,Ipswich Town,Huddersfield,2,0,1.0
+1970-1971,39,1971-04-17,Arsenal,Newcastle Utd,1,0,1.0
+1970-1971,39,1971-04-17,Leeds United,West Brom,1,2,0.0
+1970-1971,39,1971-04-17,Derby County,Everton,3,1,1.0
+1970-1971,34,1971-04-19,Manchester Utd,Liverpool,0,2,0.0
+1970-1971,36,1971-04-20,Arsenal,Burnley,1,0,1.0
+1970-1971,40,1971-04-24,Nott'ham Forest,Liverpool,0,1,0.0
+1970-1971,40,1971-04-24,Newcastle Utd,West Ham,1,1,0.5
+1970-1971,40,1971-04-24,Everton,Blackpool,0,0,0.5
+1970-1971,40,1971-04-24,Huddersfield,Wolves,1,2,0.0
+1970-1971,40,1971-04-24,West Brom,Arsenal,2,2,0.5
+1970-1971,40,1971-04-24,Tottenham,Crystal Palace,2,0,1.0
+1970-1971,40,1971-04-24,Manchester Utd,Ipswich Town,3,2,1.0
+1970-1971,40,1971-04-24,Chelsea,Coventry City,2,1,1.0
+1970-1971,40,1971-04-24,Southampton,Leeds United,0,3,0.0
+1970-1971,40,1971-04-24,Burnley,Derby County,1,2,0.0
+1970-1971,40,1971-04-24,Stoke City,Manchester City,2,0,1.0
+1970-1971,41,1971-04-26,Wolves,Ipswich Town,0,0,0.5
+1970-1971,41,1971-04-26,Chelsea,Burnley,0,1,0.0
+1970-1971,41,1971-04-26,Manchester City,Liverpool,2,2,0.5
+1970-1971,41,1971-04-26,Blackpool,Crystal Palace,3,1,1.0
+1970-1971,41,1971-04-26,Leeds United,Arsenal,1,0,1.0
+1970-1971,41,1971-04-27,Nott'ham Forest,Stoke City,0,0,0.5
+1970-1971,41,1971-04-27,Southampton,West Ham,1,2,0.0
+1970-1971,41,1971-04-27,Coventry City,Derby County,0,0,0.5
+1970-1971,41,1971-04-28,Tottenham,Huddersfield,1,1,0.5
+1970-1971,41,1971-04-28,Newcastle Utd,West Brom,3,0,1.0
+1970-1971,42,1971-05-01,Leeds United,Nott'ham Forest,2,0,1.0
+1970-1971,42,1971-05-01,Coventry City,Newcastle Utd,2,0,1.0
+1970-1971,42,1971-05-01,Ipswich Town,Chelsea,0,0,0.5
+1970-1971,42,1971-05-01,Arsenal,Stoke City,1,0,1.0
+1970-1971,42,1971-05-01,West Ham,Huddersfield,0,1,0.0
+1970-1971,42,1971-05-01,Wolves,Burnley,1,0,1.0
+1970-1971,42,1971-05-01,Derby County,West Brom,2,0,1.0
+1970-1971,42,1971-05-01,Manchester City,Tottenham,0,1,0.0
+1970-1971,42,1971-05-01,Crystal Palace,Everton,2,0,1.0
+1970-1971,42,1971-05-01,Blackpool,Manchester Utd,1,1,0.5
+1970-1971,42,1971-05-01,Liverpool,Southampton,1,0,1.0
+1970-1971,34,1971-05-03,Tottenham,Arsenal,0,1,0.0
+1970-1971,38,1971-05-04,Southampton,Crystal Palace,6,0,1.0
+1970-1971,28,1971-05-05,Manchester City,Manchester Utd,3,4,0.0
+1970-1971,31,1971-05-05,Stoke City,Tottenham,0,1,0.0

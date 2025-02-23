@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2004-2005,1,2004-08-28,Belenenses,Marítimo,3,0,1.0
+2004-2005,1,2004-08-28,Sporting CP,Gil Vicente,3,2,1.0
+2004-2005,1,2004-08-29,Beira-Mar,Benfica,2,3,0.0
+2004-2005,1,2004-08-29,Penafiel,Vitória Setúbal,1,4,0.0
+2004-2005,1,2004-08-29,Estoril,Rio Ave,0,0,0.5
+2004-2005,1,2004-08-29,Moreirense,Vitória,0,0,0.5
+2004-2005,1,2004-08-29,Boavista,Nacional,1,0,1.0
+2004-2005,1,2004-08-30,Académica,Braga,2,2,0.5
+2004-2005,2,2004-09-05,Vitória,Académica,2,1,1.0
+2004-2005,2,2004-09-10,Gil Vicente,Boavista,0,1,0.0
+2004-2005,2,2004-09-11,Marítimo,Penafiel,3,0,1.0
+2004-2005,2,2004-09-11,Benfica,Moreirense,2,0,1.0
+2004-2005,2,2004-09-11,União de Leiria,Estoril,4,2,1.0
+2004-2005,2,2004-09-11,Braga,Porto,1,1,0.5
+2004-2005,2,2004-09-12,Nacional,Beira-Mar,2,1,1.0
+2004-2005,2,2004-09-12,Vitória Setúbal,Sporting CP,2,0,1.0
+2004-2005,2,2004-09-13,Rio Ave,Belenenses,3,3,0.5
+2004-2005,3,2004-09-17,Boavista,Vitória Setúbal,1,1,0.5
+2004-2005,3,2004-09-18,Porto,Estoril,2,2,0.5
+2004-2005,3,2004-09-19,Beira-Mar,Gil Vicente,1,0,1.0
+2004-2005,3,2004-09-19,Académica,Benfica,0,1,0.0
+2004-2005,3,2004-09-19,Penafiel,Rio Ave,1,1,0.5
+2004-2005,3,2004-09-19,Moreirense,Nacional,3,2,1.0
+2004-2005,3,2004-09-19,Belenenses,União de Leiria,2,1,1.0
+2004-2005,3,2004-09-20,Sporting CP,Marítimo,0,1,0.0
+2004-2005,3,2004-09-21,Braga,Vitória,1,0,1.0
+2004-2005,1,2004-09-22,Porto,União de Leiria,1,1,0.5
+2004-2005,4,2004-09-24,Vitória Setúbal,Beira-Mar,1,2,0.0
+2004-2005,4,2004-09-25,Vitória,Porto,0,1,0.0
+2004-2005,4,2004-09-25,Marítimo,Boavista,2,1,1.0
+2004-2005,4,2004-09-26,Rio Ave,Sporting CP,0,0,0.5
+2004-2005,4,2004-09-26,Benfica,Braga,0,0,0.5
+2004-2005,4,2004-09-26,Nacional,Académica,2,1,1.0
+2004-2005,4,2004-09-26,Gil Vicente,Moreirense,3,1,1.0
+2004-2005,4,2004-09-26,União de Leiria,Penafiel,1,2,0.0
+2004-2005,4,2004-09-27,Estoril,Belenenses,1,0,1.0
+2004-2005,5,2004-10-01,Boavista,Rio Ave,0,1,0.0
+2004-2005,5,2004-10-03,Moreirense,Vitória Setúbal,2,2,0.5
+2004-2005,5,2004-10-03,Porto,Belenenses,3,0,1.0
+2004-2005,5,2004-10-03,Vitória,Benfica,1,2,0.0
+2004-2005,5,2004-10-03,Penafiel,Estoril,2,1,1.0
+2004-2005,5,2004-10-03,Académica,Gil Vicente,2,1,1.0
+2004-2005,5,2004-10-04,Sporting CP,União de Leiria,2,2,0.5
+2004-2005,5,2004-10-05,Braga,Nacional,3,2,1.0
+2004-2005,5,2004-10-10,Beira-Mar,Marítimo,2,2,0.5
+2004-2005,6,2004-10-15,Gil Vicente,Braga,0,1,0.0
+2004-2005,6,2004-10-16,Marítimo,Moreirense,1,0,1.0
+2004-2005,6,2004-10-16,Nacional,Vitória,1,0,1.0
+2004-2005,6,2004-10-16,Estoril,Sporting CP,1,4,0.0
+2004-2005,6,2004-10-17,Rio Ave,Beira-Mar,1,1,0.5
+2004-2005,6,2004-10-17,Belenenses,Penafiel,4,1,1.0
+2004-2005,6,2004-10-17,União de Leiria,Boavista,0,3,0.0
+2004-2005,6,2004-10-17,Benfica,Porto,0,1,0.0
+2004-2005,6,2004-10-18,Vitória Setúbal,Académica,1,0,1.0
+2004-2005,7,2004-10-22,Boavista,Estoril,0,0,0.5
+2004-2005,7,2004-10-23,Braga,Vitória Setúbal,2,3,0.0
+2004-2005,7,2004-10-23,Sporting CP,Belenenses,2,0,1.0
+2004-2005,7,2004-10-23,Moreirense,Rio Ave,0,0,0.5
+2004-2005,7,2004-10-24,Benfica,Nacional,2,1,1.0
+2004-2005,7,2004-10-24,Vitória,Gil Vicente,2,1,1.0
+2004-2005,7,2004-10-24,Porto,Penafiel,2,0,1.0
+2004-2005,7,2004-10-24,Beira-Mar,União de Leiria,0,1,0.0
+2004-2005,7,2004-10-24,Académica,Marítimo,1,0,1.0
+2004-2005,8,2004-10-30,Nacional,Porto,2,2,0.5
+2004-2005,8,2004-10-30,Penafiel,Sporting CP,0,3,0.0
+2004-2005,8,2004-10-31,Estoril,Beira-Mar,5,0,1.0
+2004-2005,8,2004-10-31,Belenenses,Boavista,1,2,0.0
+2004-2005,8,2004-10-31,Rio Ave,Académica,3,1,1.0
+2004-2005,8,2004-10-31,Gil Vicente,Benfica,1,1,0.5
+2004-2005,8,2004-10-31,União de Leiria,Moreirense,0,0,0.5
+2004-2005,8,2004-11-01,Marítimo,Braga,2,0,1.0
+2004-2005,8,2004-11-01,Vitória Setúbal,Vitória,1,0,1.0
+2004-2005,9,2004-11-05,Beira-Mar,Belenenses,3,3,0.5
+2004-2005,9,2004-11-06,Boavista,Penafiel,2,1,1.0
+2004-2005,9,2004-11-06,Vitória,Marítimo,1,1,0.5
+2004-2005,9,2004-11-07,Nacional,Gil Vicente,0,0,0.5
+2004-2005,9,2004-11-07,Braga,Rio Ave,3,0,1.0
+2004-2005,9,2004-11-07,Benfica,Vitória Setúbal,4,0,1.0
+2004-2005,9,2004-11-07,Académica,União de Leiria,0,1,0.0
+2004-2005,9,2004-11-07,Moreirense,Estoril,1,2,0.0
+2004-2005,9,2004-11-08,Porto,Sporting CP,3,0,1.0
+2004-2005,10,2004-11-12,Estoril,Académica,0,1,0.0
+2004-2005,10,2004-11-13,Belenenses,Moreirense,3,0,1.0
+2004-2005,10,2004-11-13,Penafiel,Beira-Mar,2,1,1.0
+2004-2005,10,2004-11-13,Vitória Setúbal,Nacional,1,0,1.0
+2004-2005,10,2004-11-13,Gil Vicente,Porto,0,2,0.0
+2004-2005,10,2004-11-13,Marítimo,Benfica,1,1,0.5
+2004-2005,10,2004-11-14,União de Leiria,Braga,0,0,0.5
+2004-2005,10,2004-11-14,Sporting CP,Boavista,6,1,1.0
+2004-2005,10,2004-11-15,Rio Ave,Vitória,1,1,0.5
+2004-2005,11,2004-11-19,Nacional,Marítimo,1,1,0.5
+2004-2005,11,2004-11-20,Beira-Mar,Sporting CP,2,2,0.5
+2004-2005,11,2004-11-20,Porto,Boavista,0,1,0.0
+2004-2005,11,2004-11-21,Vitória,União de Leiria,1,1,0.5
+2004-2005,11,2004-11-21,Moreirense,Penafiel,2,2,0.5
+2004-2005,11,2004-11-21,Benfica,Rio Ave,3,3,0.5
+2004-2005,11,2004-11-21,Braga,Estoril,2,0,1.0
+2004-2005,11,2004-11-21,Gil Vicente,Vitória Setúbal,2,1,1.0
+2004-2005,11,2004-11-22,Académica,Belenenses,1,1,0.5
+2004-2005,12,2004-11-26,Boavista,Beira-Mar,3,0,1.0
+2004-2005,12,2004-11-27,Belenenses,Braga,1,2,0.0
+2004-2005,12,2004-11-28,Sporting CP,Moreirense,4,1,1.0
+2004-2005,12,2004-11-28,União de Leiria,Benfica,1,0,1.0
+2004-2005,12,2004-11-28,Marítimo,Gil Vicente,1,1,0.5
+2004-2005,12,2004-11-28,Estoril,Vitória,0,1,0.0
+2004-2005,12,2004-11-28,Penafiel,Académica,3,1,1.0
+2004-2005,12,2004-11-28,Rio Ave,Nacional,4,1,1.0
+2004-2005,12,2004-11-29,Vitória Setúbal,Porto,0,1,0.0
+2004-2005,13,2004-12-03,Porto,Beira-Mar,0,1,0.0
+2004-2005,13,2004-12-04,Nacional,União de Leiria,0,3,0.0
+2004-2005,13,2004-12-04,Vitória,Belenenses,1,0,1.0
+2004-2005,13,2004-12-05,Gil Vicente,Rio Ave,3,1,1.0
+2004-2005,13,2004-12-05,Braga,Penafiel,0,1,0.0
+2004-2005,13,2004-12-05,Moreirense,Boavista,1,1,0.5
+2004-2005,13,2004-12-05,Académica,Sporting CP,2,3,0.0
+2004-2005,13,2004-12-05,Vitória Setúbal,Marítimo,2,0,1.0
+2004-2005,13,2004-12-06,Benfica,Estoril,2,1,1.0
+2004-2005,14,2004-12-10,Boavista,Académica,1,0,1.0
+2004-2005,14,2004-12-11,Sporting CP,Braga,0,0,0.5
+2004-2005,14,2004-12-11,Rio Ave,Vitória Setúbal,1,0,1.0
+2004-2005,14,2004-12-12,Beira-Mar,Moreirense,1,3,0.0
+2004-2005,14,2004-12-12,Estoril,Nacional,2,0,1.0
+2004-2005,14,2004-12-12,Belenenses,Benfica,4,1,1.0
+2004-2005,14,2004-12-12,Penafiel,Vitória,1,3,0.0
+2004-2005,14,2004-12-12,União de Leiria,Gil Vicente,1,1,0.5
+2004-2005,15,2004-12-17,Porto,Moreirense,1,0,1.0
+2004-2005,15,2004-12-18,Braga,Boavista,3,0,1.0
+2004-2005,15,2004-12-18,Benfica,Penafiel,1,0,1.0
+2004-2005,15,2004-12-19,Nacional,Belenenses,2,0,1.0
+2004-2005,15,2004-12-19,Gil Vicente,Estoril,2,0,1.0
+2004-2005,15,2004-12-19,Marítimo,Rio Ave,1,1,0.5
+2004-2005,15,2004-12-19,Vitória Setúbal,União de Leiria,1,1,0.5
+2004-2005,15,2004-12-19,Académica,Beira-Mar,1,1,0.5
+2004-2005,15,2004-12-20,Vitória,Sporting CP,2,4,0.0
+2004-2005,14,2004-12-22,Marítimo,Porto,1,1,0.5
+2004-2005,16,2005-01-07,Estoril,Vitória Setúbal,2,1,1.0
+2004-2005,16,2005-01-08,Sporting CP,Benfica,2,1,1.0
+2004-2005,16,2005-01-08,Boavista,Vitória,2,1,1.0
+2004-2005,16,2005-01-09,União de Leiria,Marítimo,0,0,0.5
+2004-2005,16,2005-01-09,Penafiel,Nacional,0,1,0.0
+2004-2005,16,2005-01-09,Belenenses,Gil Vicente,0,1,0.0
+2004-2005,16,2005-01-09,Porto,Rio Ave,1,1,0.5
+2004-2005,16,2005-01-09,Beira-Mar,Braga,1,4,0.0
+2004-2005,16,2005-01-09,Moreirense,Académica,1,0,1.0
+2004-2005,17,2005-01-15,Vitória,Beira-Mar,1,0,1.0
+2004-2005,17,2005-01-15,Académica,Porto,0,0,0.5
+2004-2005,17,2005-01-16,Braga,Moreirense,0,0,0.5
+2004-2005,17,2005-01-16,Rio Ave,União de Leiria,2,0,1.0
+2004-2005,17,2005-01-16,Benfica,Boavista,4,0,1.0
+2004-2005,17,2005-01-16,Nacional,Sporting CP,3,2,1.0
+2004-2005,17,2005-01-16,Gil Vicente,Penafiel,0,1,0.0
+2004-2005,17,2005-01-16,Marítimo,Estoril,2,1,1.0
+2004-2005,17,2005-01-17,Vitória Setúbal,Belenenses,1,2,0.0
+2004-2005,18,2005-01-21,Braga,Académica,2,0,1.0
+2004-2005,18,2005-01-22,Benfica,Beira-Mar,0,2,0.0
+2004-2005,18,2005-01-22,Vitória,Moreirense,0,0,0.5
+2004-2005,18,2005-01-22,Vitória Setúbal,Penafiel,4,0,1.0
+2004-2005,18,2005-01-22,Nacional,Boavista,0,2,0.0
+2004-2005,18,2005-01-23,Marítimo,Belenenses,0,0,0.5
+2004-2005,18,2005-01-23,Gil Vicente,Sporting CP,0,3,0.0
+2004-2005,18,2005-01-23,Rio Ave,Estoril,2,1,1.0
+2004-2005,18,2005-01-23,União de Leiria,Porto,0,1,0.0
+2004-2005,19,2005-01-29,Moreirense,Benfica,1,2,0.0
+2004-2005,19,2005-01-29,Académica,Vitória,0,2,0.0
+2004-2005,19,2005-01-30,Penafiel,Marítimo,0,1,0.0
+2004-2005,19,2005-01-30,Beira-Mar,Nacional,0,3,0.0
+2004-2005,19,2005-01-30,Boavista,Gil Vicente,2,2,0.5
+2004-2005,19,2005-01-30,Belenenses,Rio Ave,2,1,1.0
+2004-2005,19,2005-01-30,Porto,Braga,1,3,0.0
+2004-2005,19,2005-01-30,Estoril,União de Leiria,1,1,0.5
+2004-2005,19,2005-01-31,Sporting CP,Vitória Setúbal,1,1,0.5
+2004-2005,20,2005-02-04,Vitória,Braga,1,0,1.0
+2004-2005,20,2005-02-05,União de Leiria,Belenenses,1,0,1.0
+2004-2005,20,2005-02-05,Estoril,Porto,1,2,0.0
+2004-2005,20,2005-02-05,Rio Ave,Penafiel,1,0,1.0
+2004-2005,20,2005-02-06,Nacional,Moreirense,4,1,1.0
+2004-2005,20,2005-02-06,Marítimo,Sporting CP,3,0,1.0
+2004-2005,20,2005-02-06,Benfica,Académica,3,0,1.0
+2004-2005,20,2005-02-06,Gil Vicente,Beira-Mar,2,0,1.0
+2004-2005,20,2005-02-07,Vitória Setúbal,Boavista,0,0,0.5
+2004-2005,21,2005-02-11,Belenenses,Estoril,3,0,1.0
+2004-2005,21,2005-02-12,Braga,Benfica,0,0,0.5
+2004-2005,21,2005-02-13,Moreirense,Gil Vicente,1,0,1.0
+2004-2005,21,2005-02-13,Boavista,Marítimo,3,2,1.0
+2004-2005,21,2005-02-13,Porto,Vitória,0,0,0.5
+2004-2005,21,2005-02-13,Sporting CP,Rio Ave,5,0,1.0
+2004-2005,21,2005-02-13,Académica,Nacional,1,0,1.0
+2004-2005,21,2005-02-13,Penafiel,União de Leiria,3,0,1.0
+2004-2005,21,2005-02-13,Beira-Mar,Vitória Setúbal,1,1,0.5
+2004-2005,22,2005-02-18,Nacional,Braga,1,0,1.0
+2004-2005,22,2005-02-18,Belenenses,Porto,0,1,0.0
+2004-2005,22,2005-02-19,Rio Ave,Boavista,2,2,0.5
+2004-2005,22,2005-02-19,Vitória Setúbal,Moreirense,2,2,0.5
+2004-2005,22,2005-02-19,Marítimo,Beira-Mar,0,0,0.5
+2004-2005,22,2005-02-19,Gil Vicente,Académica,0,1,0.0
+2004-2005,22,2005-02-19,Estoril,Penafiel,3,2,1.0
+2004-2005,22,2005-02-19,União de Leiria,Sporting CP,0,0,0.5
+2004-2005,22,2005-02-21,Benfica,Vitória,2,1,1.0
+2004-2005,23,2005-02-25,Braga,Gil Vicente,2,1,1.0
+2004-2005,23,2005-02-26,Boavista,União de Leiria,0,0,0.5
+2004-2005,23,2005-02-26,Penafiel,Belenenses,0,0,0.5
+2004-2005,23,2005-02-27,Académica,Vitória Setúbal,3,3,0.5
+2004-2005,23,2005-02-27,Vitória,Nacional,1,1,0.5
+2004-2005,23,2005-02-27,Moreirense,Marítimo,1,0,1.0
+2004-2005,23,2005-02-27,Beira-Mar,Rio Ave,0,0,0.5
+2004-2005,23,2005-02-28,Porto,Benfica,1,1,0.5
+2004-2005,23,2005-02-28,Sporting CP,Estoril,4,0,1.0
+2004-2005,24,2005-03-04,Gil Vicente,Vitória,1,3,0.0
+2004-2005,24,2005-03-05,Penafiel,Porto,1,2,0.0
+2004-2005,24,2005-03-05,Estoril,Boavista,3,3,0.5
+2004-2005,24,2005-03-06,Rio Ave,Moreirense,1,0,1.0
+2004-2005,24,2005-03-06,União de Leiria,Beira-Mar,5,1,1.0
+2004-2005,24,2005-03-06,Marítimo,Académica,1,1,0.5
+2004-2005,24,2005-03-06,Nacional,Benfica,0,1,0.0
+2004-2005,24,2005-03-06,Belenenses,Sporting CP,1,0,1.0
+2004-2005,24,2005-03-07,Vitória Setúbal,Braga,1,4,0.0
+2004-2005,25,2005-03-11,Porto,Nacional,0,4,0.0
+2004-2005,25,2005-03-12,Braga,Marítimo,1,1,0.5
+2004-2005,25,2005-03-12,Benfica,Gil Vicente,2,0,1.0
+2004-2005,25,2005-03-13,Beira-Mar,Estoril,2,1,1.0
+2004-2005,25,2005-03-13,Moreirense,União de Leiria,0,0,0.5
+2004-2005,25,2005-03-13,Sporting CP,Penafiel,0,2,0.0
+2004-2005,25,2005-03-13,Vitória,Vitória Setúbal,3,1,1.0
+2004-2005,25,2005-03-13,Académica,Rio Ave,0,0,0.5
+2004-2005,25,2005-03-14,Boavista,Belenenses,2,0,1.0
+2004-2005,26,2005-03-18,Marítimo,Vitória,1,2,0.0
+2004-2005,26,2005-03-19,Penafiel,Boavista,1,1,0.5
+2004-2005,26,2005-03-19,Vitória Setúbal,Benfica,0,2,0.0
+2004-2005,26,2005-03-20,União de Leiria,Académica,1,2,0.0
+2004-2005,26,2005-03-20,Belenenses,Beira-Mar,2,0,1.0
+2004-2005,26,2005-03-20,Rio Ave,Braga,1,1,0.5
+2004-2005,26,2005-03-20,Estoril,Moreirense,2,0,1.0
+2004-2005,26,2005-03-20,Gil Vicente,Nacional,3,2,1.0
+2004-2005,26,2005-03-21,Sporting CP,Porto,2,0,1.0
+2004-2005,27,2005-04-01,Vitória,Rio Ave,0,0,0.5
+2004-2005,27,2005-04-02,Boavista,Sporting CP,0,4,0.0
+2004-2005,27,2005-04-03,Moreirense,Belenenses,0,1,0.0
+2004-2005,27,2005-04-03,Beira-Mar,Penafiel,1,3,0.0
+2004-2005,27,2005-04-03,Nacional,Vitória Setúbal,1,3,0.0
+2004-2005,27,2005-04-03,Porto,Gil Vicente,1,0,1.0
+2004-2005,27,2005-04-03,Académica,Estoril,1,0,1.0
+2004-2005,27,2005-04-03,Benfica,Marítimo,4,3,1.0
+2004-2005,27,2005-04-04,Braga,União de Leiria,1,0,1.0
+2004-2005,28,2005-04-08,Marítimo,Nacional,2,1,1.0
+2004-2005,28,2005-04-09,Boavista,Porto,1,0,1.0
+2004-2005,28,2005-04-10,Sporting CP,Beira-Mar,1,0,1.0
+2004-2005,28,2005-04-10,União de Leiria,Vitória,0,1,0.0
+2004-2005,28,2005-04-10,Penafiel,Moreirense,1,0,1.0
+2004-2005,28,2005-04-10,Vitória Setúbal,Gil Vicente,0,0,0.5
+2004-2005,28,2005-04-10,Rio Ave,Benfica,1,0,1.0
+2004-2005,28,2005-04-11,Estoril,Braga,0,1,0.0
+2004-2005,28,2005-04-11,Belenenses,Académica,0,0,0.5
+2004-2005,29,2005-04-15,Beira-Mar,Boavista,1,0,1.0
+2004-2005,29,2005-04-16,Porto,Vitória Setúbal,2,1,1.0
+2004-2005,29,2005-04-16,Benfica,União de Leiria,1,1,0.5
+2004-2005,29,2005-04-17,Gil Vicente,Marítimo,1,0,1.0
+2004-2005,29,2005-04-17,Braga,Belenenses,2,0,1.0
+2004-2005,29,2005-04-17,Nacional,Rio Ave,0,0,0.5
+2004-2005,29,2005-04-17,Académica,Penafiel,4,1,1.0
+2004-2005,29,2005-04-17,Vitória,Estoril,1,0,1.0
+2004-2005,29,2005-04-18,Moreirense,Sporting CP,1,3,0.0
+2004-2005,30,2005-04-22,Belenenses,Vitória,1,0,1.0
+2004-2005,30,2005-04-23,Boavista,Moreirense,1,1,0.5
+2004-2005,30,2005-04-23,Sporting CP,Académica,0,0,0.5
+2004-2005,30,2005-04-24,Rio Ave,Gil Vicente,0,1,0.0
+2004-2005,30,2005-04-24,União de Leiria,Nacional,1,0,1.0
+2004-2005,30,2005-04-24,Estoril,Benfica,1,2,0.0
+2004-2005,30,2005-04-24,Marítimo,Vitória Setúbal,3,1,1.0
+2004-2005,30,2005-04-24,Beira-Mar,Porto,0,1,0.0
+2004-2005,30,2005-04-25,Penafiel,Braga,1,0,1.0
+2004-2005,31,2005-04-29,Académica,Boavista,1,0,1.0
+2004-2005,31,2005-04-30,Porto,Marítimo,1,0,1.0
+2004-2005,31,2005-04-30,Nacional,Estoril,4,1,1.0
+2004-2005,31,2005-04-30,Vitória Setúbal,Rio Ave,2,0,1.0
+2004-2005,31,2005-04-30,Gil Vicente,União de Leiria,1,1,0.5
+2004-2005,31,2005-04-30,Benfica,Belenenses,1,0,1.0
+2004-2005,31,2005-04-30,Moreirense,Beira-Mar,0,0,0.5
+2004-2005,31,2005-05-01,Braga,Sporting CP,0,3,0.0
+2004-2005,31,2005-05-02,Vitória,Penafiel,2,1,1.0
+2004-2005,32,2005-05-06,Belenenses,Nacional,1,0,1.0
+2004-2005,32,2005-05-07,Penafiel,Benfica,1,0,1.0
+2004-2005,32,2005-05-07,Boavista,Braga,1,2,0.0
+2004-2005,32,2005-05-08,Estoril,Gil Vicente,2,0,1.0
+2004-2005,32,2005-05-08,União de Leiria,Vitória Setúbal,0,2,0.0
+2004-2005,32,2005-05-08,Moreirense,Porto,1,1,0.5
+2004-2005,32,2005-05-08,Beira-Mar,Académica,0,0,0.5
+2004-2005,32,2005-05-08,Rio Ave,Marítimo,0,0,0.5
+2004-2005,32,2005-05-09,Sporting CP,Vitória,1,0,1.0
+2004-2005,33,2005-05-14,Nacional,Penafiel,1,3,0.0
+2004-2005,33,2005-05-14,Gil Vicente,Belenenses,1,0,1.0
+2004-2005,33,2005-05-14,Braga,Beira-Mar,1,1,0.5
+2004-2005,33,2005-05-14,Académica,Moreirense,0,4,0.0
+2004-2005,33,2005-05-14,Rio Ave,Porto,0,2,0.0
+2004-2005,33,2005-05-14,Benfica,Sporting CP,1,0,1.0
+2004-2005,33,2005-05-14,Vitória Setúbal,Estoril,2,2,0.5
+2004-2005,33,2005-05-14,Vitória,Boavista,2,0,1.0
+2004-2005,33,2005-05-14,Marítimo,União de Leiria,2,0,1.0
+2004-2005,34,2005-05-22,Moreirense,Braga,2,1,1.0
+2004-2005,34,2005-05-22,Boavista,Benfica,1,1,0.5
+2004-2005,34,2005-05-22,Beira-Mar,Vitória,2,2,0.5
+2004-2005,34,2005-05-22,Penafiel,Gil Vicente,1,3,0.0
+2004-2005,34,2005-05-22,Sporting CP,Nacional,2,4,0.0
+2004-2005,34,2005-05-22,União de Leiria,Rio Ave,0,3,0.0
+2004-2005,34,2005-05-22,Estoril,Marítimo,0,1,0.0
+2004-2005,34,2005-05-22,Porto,Académica,1,1,0.5
+2004-2005,34,2005-05-22,Belenenses,Vitória Setúbal,0,0,0.5

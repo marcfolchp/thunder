@@ -1,0 +1,199 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,1,2014-07-18,Nordsjælland,Vestsjælland,3,2,1.0
+2014-2015,1,2014-07-19,SønderjyskE,Aalborg,0,0,0.5
+2014-2015,1,2014-07-20,Odense,Hobro,1,2,0.0
+2014-2015,1,2014-07-20,Silkeborg,FC Copenhagen,0,0,0.5
+2014-2015,1,2014-07-20,Midtjylland,Brøndby,3,1,1.0
+2014-2015,1,2014-07-21,Esbjerg,Randers,0,1,0.0
+2014-2015,2,2014-07-25,Vestsjælland,Odense,3,1,1.0
+2014-2015,2,2014-07-26,Aalborg,Midtjylland,2,0,1.0
+2014-2015,2,2014-07-26,FC Copenhagen,Nordsjælland,2,1,1.0
+2014-2015,2,2014-07-27,Randers,Hobro,2,1,1.0
+2014-2015,2,2014-07-27,Esbjerg,SønderjyskE,1,1,0.5
+2014-2015,2,2014-07-28,Brøndby,Silkeborg,2,0,1.0
+2014-2015,3,2014-08-01,Silkeborg,SønderjyskE,0,2,0.0
+2014-2015,3,2014-08-02,Vestsjælland,FC Copenhagen,2,2,0.5
+2014-2015,3,2014-08-02,Odense,Aalborg,1,1,0.5
+2014-2015,3,2014-08-03,Nordsjælland,Esbjerg,3,2,1.0
+2014-2015,3,2014-08-03,Hobro,Brøndby,2,0,1.0
+2014-2015,3,2014-08-04,Midtjylland,Randers,3,1,1.0
+2014-2015,4,2014-08-08,Randers,Vestsjælland,1,0,1.0
+2014-2015,4,2014-08-09,Aalborg,Nordsjælland,1,2,0.0
+2014-2015,4,2014-08-10,SønderjyskE,Midtjylland,1,3,0.0
+2014-2015,4,2014-08-10,FC Copenhagen,Hobro,0,3,0.0
+2014-2015,4,2014-08-10,Brøndby,Odense,1,1,0.5
+2014-2015,4,2014-08-11,Esbjerg,Silkeborg,0,0,0.5
+2014-2015,5,2014-08-15,FC Copenhagen,Midtjylland,1,2,0.0
+2014-2015,5,2014-08-16,Aalborg,Esbjerg,1,1,0.5
+2014-2015,5,2014-08-17,Vestsjælland,Silkeborg,2,0,1.0
+2014-2015,5,2014-08-17,Brøndby,SønderjyskE,2,0,1.0
+2014-2015,5,2014-08-17,Randers,Odense,0,2,0.0
+2014-2015,5,2014-08-18,Hobro,Nordsjælland,0,0,0.5
+2014-2015,6,2014-08-30,SønderjyskE,Randers,1,1,0.5
+2014-2015,6,2014-08-31,Silkeborg,Aalborg,2,2,0.5
+2014-2015,6,2014-08-31,Midtjylland,Esbjerg,2,0,1.0
+2014-2015,6,2014-08-31,Nordsjælland,Brøndby,0,3,0.0
+2014-2015,6,2014-08-31,Odense,FC Copenhagen,0,1,0.0
+2014-2015,6,2014-09-01,Hobro,Vestsjælland,3,1,1.0
+2014-2015,7,2014-09-12,Midtjylland,Odense,3,2,1.0
+2014-2015,7,2014-09-13,Aalborg,FC Copenhagen,1,0,1.0
+2014-2015,7,2014-09-14,Silkeborg,Nordsjælland,1,2,0.0
+2014-2015,7,2014-09-14,Brøndby,Randers,0,2,0.0
+2014-2015,7,2014-09-14,Esbjerg,Vestsjælland,3,0,1.0
+2014-2015,7,2014-09-15,SønderjyskE,Hobro,1,1,0.5
+2014-2015,8,2014-09-19,Randers,Silkeborg,1,0,1.0
+2014-2015,8,2014-09-20,Hobro,Esbjerg,1,1,0.5
+2014-2015,8,2014-09-21,Odense,SønderjyskE,1,1,0.5
+2014-2015,8,2014-09-21,FC Copenhagen,Brøndby,1,0,1.0
+2014-2015,8,2014-09-21,Nordsjælland,Midtjylland,2,1,1.0
+2014-2015,8,2014-09-22,Vestsjælland,Aalborg,1,0,1.0
+2014-2015,9,2014-09-26,Aalborg,Randers,0,0,0.5
+2014-2015,9,2014-09-27,SønderjyskE,FC Copenhagen,1,1,0.5
+2014-2015,9,2014-09-27,Silkeborg,Hobro,2,2,0.5
+2014-2015,9,2014-09-28,Midtjylland,Vestsjælland,1,0,1.0
+2014-2015,9,2014-09-28,Esbjerg,Brøndby,2,2,0.5
+2014-2015,9,2014-09-29,Nordsjælland,Odense,2,1,1.0
+2014-2015,10,2014-10-03,Hobro,Midtjylland,1,5,0.0
+2014-2015,10,2014-10-04,Odense,Silkeborg,2,0,1.0
+2014-2015,10,2014-10-05,Vestsjælland,SønderjyskE,1,1,0.5
+2014-2015,10,2014-10-05,Randers,Nordsjælland,0,0,0.5
+2014-2015,10,2014-10-05,FC Copenhagen,Esbjerg,2,1,1.0
+2014-2015,10,2014-10-05,Brøndby,Aalborg,2,1,1.0
+2014-2015,11,2014-10-17,Aalborg,Hobro,1,1,0.5
+2014-2015,11,2014-10-18,Nordsjælland,SønderjyskE,2,3,0.0
+2014-2015,11,2014-10-19,Midtjylland,Silkeborg,2,1,1.0
+2014-2015,11,2014-10-19,Brøndby,Vestsjælland,5,0,1.0
+2014-2015,11,2014-10-19,FC Copenhagen,Randers,1,0,1.0
+2014-2015,11,2014-10-20,Esbjerg,Odense,2,0,1.0
+2014-2015,12,2014-10-24,Silkeborg,Vestsjælland,1,2,0.0
+2014-2015,12,2014-10-25,SønderjyskE,Midtjylland,1,1,0.5
+2014-2015,12,2014-10-26,Randers,Odense,3,0,1.0
+2014-2015,12,2014-10-26,Hobro,FC Copenhagen,0,2,0.0
+2014-2015,12,2014-10-26,Esbjerg,Brøndby,0,0,0.5
+2014-2015,12,2014-10-27,Nordsjælland,Aalborg,0,1,0.0
+2014-2015,13,2014-10-31,Midtjylland,Nordsjælland,2,0,1.0
+2014-2015,13,2014-11-01,Vestsjælland,Esbjerg,1,4,0.0
+2014-2015,13,2014-11-02,Odense,Hobro,3,1,1.0
+2014-2015,13,2014-11-02,FC Copenhagen,SønderjyskE,1,1,0.5
+2014-2015,13,2014-11-02,Brøndby,Randers,1,0,1.0
+2014-2015,13,2014-11-03,Aalborg,Silkeborg,2,0,1.0
+2014-2015,14,2014-11-07,Silkeborg,Midtjylland,1,2,0.0
+2014-2015,14,2014-11-08,Randers,Esbjerg,3,2,1.0
+2014-2015,14,2014-11-09,SønderjyskE,Odense,2,1,1.0
+2014-2015,14,2014-11-09,Aalborg,Vestsjælland,2,0,1.0
+2014-2015,14,2014-11-09,Hobro,Brøndby,3,0,1.0
+2014-2015,14,2014-11-09,Nordsjælland,FC Copenhagen,0,0,0.5
+2014-2015,15,2014-11-21,Vestsjælland,Randers,0,1,0.0
+2014-2015,15,2014-11-22,Esbjerg,Hobro,4,2,1.0
+2014-2015,15,2014-11-22,FC Copenhagen,Silkeborg,1,0,1.0
+2014-2015,15,2014-11-23,Odense,Nordsjælland,1,0,1.0
+2014-2015,15,2014-11-23,Brøndby,SønderjyskE,1,0,1.0
+2014-2015,15,2014-11-23,Midtjylland,Aalborg,2,0,1.0
+2014-2015,16,2014-11-28,SønderjyskE,Esbjerg,0,0,0.5
+2014-2015,16,2014-11-29,Silkeborg,Odense,0,1,0.0
+2014-2015,16,2014-11-30,Hobro,Randers,0,1,0.0
+2014-2015,16,2014-11-30,Nordsjælland,Brøndby,2,0,1.0
+2014-2015,16,2014-11-30,Aalborg,FC Copenhagen,0,1,0.0
+2014-2015,16,2014-12-01,Midtjylland,Vestsjælland,2,1,1.0
+2014-2015,17,2014-12-05,Randers,SønderjyskE,0,0,0.5
+2014-2015,17,2014-12-06,Odense,Aalborg,1,1,0.5
+2014-2015,17,2014-12-07,Vestsjælland,Hobro,1,1,0.5
+2014-2015,17,2014-12-07,Brøndby,Silkeborg,1,0,1.0
+2014-2015,17,2014-12-07,FC Copenhagen,Midtjylland,3,0,1.0
+2014-2015,17,2014-12-08,Esbjerg,Nordsjælland,0,0,0.5
+2014-2015,18,2015-02-20,Nordsjælland,Randers,0,3,0.0
+2014-2015,18,2015-02-21,Silkeborg,Esbjerg,1,3,0.0
+2014-2015,18,2015-02-22,SønderjyskE,Hobro,1,0,1.0
+2014-2015,18,2015-02-22,FC Copenhagen,Vestsjælland,2,0,1.0
+2014-2015,18,2015-02-22,Aalborg,Brøndby,1,0,1.0
+2014-2015,18,2015-02-23,Midtjylland,Odense,3,0,1.0
+2014-2015,19,2015-02-27,Vestsjælland,SønderjyskE,0,1,0.0
+2014-2015,19,2015-02-28,Hobro,Nordsjælland,1,0,1.0
+2014-2015,19,2015-03-01,Randers,Silkeborg,1,2,0.0
+2014-2015,19,2015-03-01,Odense,FC Copenhagen,1,0,1.0
+2014-2015,19,2015-03-01,Brøndby,Midtjylland,1,1,0.5
+2014-2015,19,2015-03-02,Esbjerg,Aalborg,1,3,0.0
+2014-2015,20,2015-03-07,Nordsjælland,SønderjyskE,4,0,1.0
+2014-2015,20,2015-03-08,Silkeborg,Hobro,0,1,0.0
+2014-2015,20,2015-03-08,FC Copenhagen,Brøndby,3,1,1.0
+2014-2015,20,2015-03-08,Midtjylland,Esbjerg,3,0,1.0
+2014-2015,20,2015-03-08,Aalborg,Randers,2,1,1.0
+2014-2015,20,2015-03-09,Vestsjælland,Odense,1,2,0.0
+2014-2015,21,2015-03-13,Randers,Midtjylland,1,2,0.0
+2014-2015,21,2015-03-14,SønderjyskE,Silkeborg,1,4,0.0
+2014-2015,21,2015-03-15,Nordsjælland,Vestsjælland,2,0,1.0
+2014-2015,21,2015-03-15,Esbjerg,FC Copenhagen,0,1,0.0
+2014-2015,21,2015-03-15,Brøndby,Odense,2,0,1.0
+2014-2015,21,2015-03-16,Hobro,Aalborg,1,0,1.0
+2014-2015,22,2015-03-20,Odense,Esbjerg,0,2,0.0
+2014-2015,22,2015-03-21,Midtjylland,Hobro,3,0,1.0
+2014-2015,22,2015-03-22,Silkeborg,Nordsjælland,2,2,0.5
+2014-2015,22,2015-03-22,Aalborg,SønderjyskE,1,4,0.0
+2014-2015,22,2015-03-22,Vestsjælland,Brøndby,0,1,0.0
+2014-2015,22,2015-03-22,FC Copenhagen,Randers,1,1,0.5
+2014-2015,23,2015-04-04,SønderjyskE,Nordsjælland,1,2,0.0
+2014-2015,23,2015-04-05,Hobro,Silkeborg,2,2,0.5
+2014-2015,23,2015-04-05,Esbjerg,Midtjylland,3,3,0.5
+2014-2015,23,2015-04-06,Brøndby,FC Copenhagen,0,0,0.5
+2014-2015,23,2015-04-06,Randers,Aalborg,1,1,0.5
+2014-2015,23,2015-04-07,Odense,Vestsjælland,1,2,0.0
+2014-2015,24,2015-04-10,Hobro,Esbjerg,3,1,1.0
+2014-2015,24,2015-04-11,Randers,Vestsjælland,1,1,0.5
+2014-2015,24,2015-04-12,Nordsjælland,Odense,1,2,0.0
+2014-2015,24,2015-04-12,Aalborg,Midtjylland,1,2,0.0
+2014-2015,24,2015-04-12,SønderjyskE,Brøndby,0,1,0.0
+2014-2015,24,2015-04-13,Silkeborg,FC Copenhagen,0,4,0.0
+2014-2015,25,2015-04-17,Midtjylland,Silkeborg,1,0,1.0
+2014-2015,25,2015-04-18,Vestsjælland,Aalborg,2,1,1.0
+2014-2015,25,2015-04-19,Odense,SønderjyskE,0,0,0.5
+2014-2015,25,2015-04-19,Brøndby,Hobro,0,1,0.0
+2014-2015,25,2015-04-19,FC Copenhagen,Nordsjælland,2,0,1.0
+2014-2015,25,2015-04-20,Esbjerg,Randers,0,0,0.5
+2014-2015,26,2015-04-24,Esbjerg,Odense,0,2,0.0
+2014-2015,26,2015-04-25,Nordsjælland,Silkeborg,1,0,1.0
+2014-2015,26,2015-04-26,SønderjyskE,Aalborg,0,3,0.0
+2014-2015,26,2015-04-26,Brøndby,Vestsjælland,4,0,1.0
+2014-2015,26,2015-04-26,Randers,FC Copenhagen,3,0,1.0
+2014-2015,26,2015-04-27,Hobro,Midtjylland,0,0,0.5
+2014-2015,27,2015-05-01,Aalborg,Hobro,5,0,1.0
+2014-2015,27,2015-05-02,Silkeborg,SønderjyskE,2,2,0.5
+2014-2015,27,2015-05-03,Vestsjælland,Nordsjælland,2,1,1.0
+2014-2015,27,2015-05-03,FC Copenhagen,Esbjerg,2,1,1.0
+2014-2015,27,2015-05-03,Odense,Brøndby,0,2,0.0
+2014-2015,27,2015-05-04,Midtjylland,Randers,5,2,1.0
+2014-2015,28,2015-05-08,Randers,Nordsjælland,2,0,1.0
+2014-2015,28,2015-05-09,Esbjerg,Silkeborg,5,2,1.0
+2014-2015,28,2015-05-10,Hobro,SønderjyskE,2,2,0.5
+2014-2015,28,2015-05-10,Odense,Midtjylland,3,1,1.0
+2014-2015,28,2015-05-10,Brøndby,Aalborg,1,1,0.5
+2014-2015,28,2015-05-11,Vestsjælland,FC Copenhagen,0,1,0.0
+2014-2015,29,2015-05-15,Aalborg,Odense,0,2,0.0
+2014-2015,29,2015-05-17,Hobro,Vestsjælland,0,1,0.0
+2014-2015,29,2015-05-17,Silkeborg,Brøndby,0,2,0.0
+2014-2015,29,2015-05-17,Midtjylland,FC Copenhagen,2,0,1.0
+2014-2015,29,2015-05-18,Nordsjælland,Esbjerg,1,3,0.0
+2014-2015,29,2015-05-18,SønderjyskE,Randers,1,1,0.5
+2014-2015,30,2015-05-20,Odense,Silkeborg,1,1,0.5
+2014-2015,30,2015-05-20,FC Copenhagen,Aalborg,1,0,1.0
+2014-2015,30,2015-05-21,Vestsjælland,Midtjylland,0,0,0.5
+2014-2015,30,2015-05-21,Randers,Hobro,0,1,0.0
+2014-2015,30,2015-05-21,Esbjerg,SønderjyskE,2,3,0.0
+2014-2015,30,2015-05-21,Brøndby,Nordsjælland,3,1,1.0
+2014-2015,31,2015-05-24,SønderjyskE,Vestsjælland,1,1,0.5
+2014-2015,31,2015-05-25,Nordsjælland,Hobro,4,2,1.0
+2014-2015,31,2015-05-25,Silkeborg,Randers,0,2,0.0
+2014-2015,31,2015-05-25,FC Copenhagen,Odense,1,0,1.0
+2014-2015,31,2015-05-25,Midtjylland,Brøndby,2,3,0.0
+2014-2015,31,2015-05-26,Aalborg,Esbjerg,1,0,1.0
+2014-2015,32,2015-05-31,Nordsjælland,Midtjylland,1,0,1.0
+2014-2015,32,2015-05-31,Esbjerg,Vestsjælland,2,1,1.0
+2014-2015,32,2015-05-31,Silkeborg,Aalborg,1,2,0.0
+2014-2015,32,2015-05-31,Hobro,Odense,2,2,0.5
+2014-2015,32,2015-05-31,SønderjyskE,FC Copenhagen,1,2,0.0
+2014-2015,32,2015-05-31,Randers,Brøndby,1,1,0.5
+2014-2015,33,2015-06-07,FC Copenhagen,Hobro,1,0,1.0
+2014-2015,33,2015-06-07,Brøndby,Esbjerg,0,1,0.0
+2014-2015,33,2015-06-07,Vestsjælland,Silkeborg,3,1,1.0
+2014-2015,33,2015-06-07,Odense,Randers,0,2,0.0
+2014-2015,33,2015-06-07,Aalborg,Nordsjælland,1,0,1.0
+2014-2015,33,2015-06-07,Midtjylland,SønderjyskE,2,1,1.0

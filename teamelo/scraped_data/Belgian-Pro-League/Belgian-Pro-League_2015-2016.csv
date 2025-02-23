@@ -1,0 +1,299 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,Regular season,1,2015-07-24,Sint-Truiden,Club Brugge,2,1,1.0
+2015-2016,Regular season,1,2015-07-25,Kortrijk,Standard Liège,2,1,1.0
+2015-2016,Regular season,1,2015-07-25,Oostende,Mechelen,3,1,1.0
+2015-2016,Regular season,1,2015-07-25,Genk,OH Leuven,3,1,1.0
+2015-2016,Regular season,1,2015-07-25,Zulte Waregem,Lokeren,3,1,1.0
+2015-2016,Regular season,1,2015-07-26,Westerlo,Gent,1,1,0.5
+2015-2016,Regular season,1,2015-07-26,Anderlecht,Waasland-Bev,3,2,1.0
+2015-2016,Regular season,1,2015-07-26,Charleroi,RE Mouscron,2,1,1.0
+2015-2016,Regular season,2,2015-07-31,Gent,Genk,1,0,1.0
+2015-2016,Regular season,2,2015-08-01,Club Brugge,Mechelen,3,0,1.0
+2015-2016,Regular season,2,2015-08-01,RE Mouscron,Sint-Truiden,0,2,0.0
+2015-2016,Regular season,2,2015-08-01,Oostende,Westerlo,2,1,1.0
+2015-2016,Regular season,2,2015-08-01,Waasland-Bev,Kortrijk,2,1,1.0
+2015-2016,Regular season,2,2015-08-02,Lokeren,Charleroi,2,2,0.5
+2015-2016,Regular season,2,2015-08-02,Standard Liège,Zulte Waregem,2,1,1.0
+2015-2016,Regular season,2,2015-08-02,OH Leuven,Anderlecht,0,2,0.0
+2015-2016,Regular season,3,2015-08-07,Zulte Waregem,Genk,0,0,0.5
+2015-2016,Regular season,3,2015-08-08,Kortrijk,Lokeren,0,0,0.5
+2015-2016,Regular season,3,2015-08-08,Sint-Truiden,Oostende,1,1,0.5
+2015-2016,Regular season,3,2015-08-08,Westerlo,OH Leuven,3,2,1.0
+2015-2016,Regular season,3,2015-08-08,Mechelen,RE Mouscron,3,1,1.0
+2015-2016,Regular season,3,2015-08-09,Anderlecht,Gent,1,1,0.5
+2015-2016,Regular season,3,2015-08-09,Charleroi,Club Brugge,0,0,0.5
+2015-2016,Regular season,3,2015-08-09,Standard Liège,Waasland-Bev,1,0,1.0
+2015-2016,Regular season,4,2015-08-14,Club Brugge,Kortrijk,2,1,1.0
+2015-2016,Regular season,4,2015-08-15,RE Mouscron,Standard Liège,1,1,0.5
+2015-2016,Regular season,4,2015-08-15,Genk,Westerlo,2,1,1.0
+2015-2016,Regular season,4,2015-08-15,Waasland-Bev,Zulte Waregem,2,1,1.0
+2015-2016,Regular season,4,2015-08-15,Lokeren,Mechelen,2,0,1.0
+2015-2016,Regular season,4,2015-08-16,Oostende,Anderlecht,3,1,1.0
+2015-2016,Regular season,4,2015-08-16,Gent,Sint-Truiden,1,0,1.0
+2015-2016,Regular season,4,2015-08-16,OH Leuven,Charleroi,2,0,1.0
+2015-2016,Regular season,5,2015-08-21,Sint-Truiden,Genk,3,1,1.0
+2015-2016,Regular season,5,2015-08-22,Zulte Waregem,Club Brugge,2,0,1.0
+2015-2016,Regular season,5,2015-08-22,Waasland-Bev,RE Mouscron,3,3,0.5
+2015-2016,Regular season,5,2015-08-22,Mechelen,OH Leuven,2,1,1.0
+2015-2016,Regular season,5,2015-08-22,Charleroi,Westerlo,0,0,0.5
+2015-2016,Regular season,5,2015-08-23,Anderlecht,Lokeren,1,0,1.0
+2015-2016,Regular season,5,2015-08-23,Standard Liège,Oostende,1,2,0.0
+2015-2016,Regular season,5,2015-08-23,Kortrijk,Gent,0,0,0.5
+2015-2016,Regular season,6,2015-08-28,Genk,Charleroi,2,0,1.0
+2015-2016,Regular season,6,2015-08-29,OH Leuven,Sint-Truiden,1,0,1.0
+2015-2016,Regular season,6,2015-08-29,Oostende,Zulte Waregem,0,2,0.0
+2015-2016,Regular season,6,2015-08-29,RE Mouscron,Kortrijk,0,1,0.0
+2015-2016,Regular season,6,2015-08-29,Gent,Mechelen,2,2,0.5
+2015-2016,Regular season,6,2015-08-30,Club Brugge,Standard Liège,7,1,1.0
+2015-2016,Regular season,6,2015-08-30,Westerlo,Anderlecht,0,3,0.0
+2015-2016,Regular season,6,2015-08-30,Lokeren,Waasland-Bev,1,2,0.0
+2015-2016,Regular season,7,2015-09-11,RE Mouscron,Club Brugge,2,1,1.0
+2015-2016,Regular season,7,2015-09-12,Zulte Waregem,Gent,1,1,0.5
+2015-2016,Regular season,7,2015-09-12,Kortrijk,OH Leuven,0,0,0.5
+2015-2016,Regular season,7,2015-09-12,Waasland-Bev,Oostende,1,5,0.0
+2015-2016,Regular season,7,2015-09-12,Mechelen,Westerlo,2,2,0.5
+2015-2016,Regular season,7,2015-09-13,Standard Liège,Lokeren,0,1,0.0
+2015-2016,Regular season,7,2015-09-13,Anderlecht,Genk,0,0,0.5
+2015-2016,Regular season,7,2015-09-13,Sint-Truiden,Charleroi,1,1,0.5
+2015-2016,Regular season,8,2015-09-18,Genk,Mechelen,3,1,1.0
+2015-2016,Regular season,8,2015-09-19,Oostende,Kortrijk,1,0,1.0
+2015-2016,Regular season,8,2015-09-19,OH Leuven,Zulte Waregem,2,3,0.0
+2015-2016,Regular season,8,2015-09-19,Westerlo,Sint-Truiden,0,3,0.0
+2015-2016,Regular season,8,2015-09-19,Lokeren,RE Mouscron,1,2,0.0
+2015-2016,Regular season,8,2015-09-20,Gent,Standard Liège,4,1,1.0
+2015-2016,Regular season,8,2015-09-20,Charleroi,Anderlecht,1,1,0.5
+2015-2016,Regular season,8,2015-09-20,Club Brugge,Waasland-Bev,5,1,1.0
+2015-2016,Regular season,9,2015-09-25,Zulte Waregem,Westerlo,4,2,1.0
+2015-2016,Regular season,9,2015-09-26,Waasland-Bev,Gent,1,3,0.0
+2015-2016,Regular season,9,2015-09-26,RE Mouscron,Oostende,2,2,0.5
+2015-2016,Regular season,9,2015-09-26,Mechelen,Charleroi,0,1,0.0
+2015-2016,Regular season,9,2015-09-26,Standard Liège,OH Leuven,2,2,0.5
+2015-2016,Regular season,9,2015-09-27,Lokeren,Club Brugge,0,1,0.0
+2015-2016,Regular season,9,2015-09-27,Anderlecht,Sint-Truiden,1,0,1.0
+2015-2016,Regular season,9,2015-09-27,Kortrijk,Genk,1,0,1.0
+2015-2016,Regular season,10,2015-10-02,Oostende,Lokeren,2,0,1.0
+2015-2016,Regular season,10,2015-10-03,Charleroi,Zulte Waregem,3,0,1.0
+2015-2016,Regular season,10,2015-10-03,OH Leuven,RE Mouscron,1,1,0.5
+2015-2016,Regular season,10,2015-10-03,Westerlo,Kortrijk,1,1,0.5
+2015-2016,Regular season,10,2015-10-03,Sint-Truiden,Waasland-Bev,1,3,0.0
+2015-2016,Regular season,10,2015-10-04,Gent,Club Brugge,4,1,1.0
+2015-2016,Regular season,10,2015-10-04,Genk,Standard Liège,3,1,1.0
+2015-2016,Regular season,10,2015-10-04,Anderlecht,Mechelen,1,1,0.5
+2015-2016,Regular season,11,2015-10-16,RE Mouscron,Gent,1,2,0.0
+2015-2016,Regular season,11,2015-10-17,Standard Liège,Westerlo,1,2,0.0
+2015-2016,Regular season,11,2015-10-17,Lokeren,OH Leuven,1,2,0.0
+2015-2016,Regular season,11,2015-10-17,Waasland-Bev,Genk,0,1,0.0
+2015-2016,Regular season,11,2015-10-17,Mechelen,Sint-Truiden,3,0,1.0
+2015-2016,Regular season,11,2015-10-18,Club Brugge,Oostende,1,0,1.0
+2015-2016,Regular season,11,2015-10-18,Zulte Waregem,Anderlecht,0,4,0.0
+2015-2016,Regular season,11,2015-10-18,Kortrijk,Charleroi,2,0,1.0
+2015-2016,Regular season,12,2015-10-23,Genk,RE Mouscron,0,4,0.0
+2015-2016,Regular season,12,2015-10-24,Mechelen,Zulte Waregem,3,4,0.0
+2015-2016,Regular season,12,2015-10-24,OH Leuven,Waasland-Bev,0,2,0.0
+2015-2016,Regular season,12,2015-10-24,Westerlo,Lokeren,1,2,0.0
+2015-2016,Regular season,12,2015-10-24,Gent,Oostende,2,2,0.5
+2015-2016,Regular season,12,2015-10-25,Anderlecht,Club Brugge,3,1,1.0
+2015-2016,Regular season,12,2015-10-25,Charleroi,Standard Liège,2,3,0.0
+2015-2016,Regular season,12,2015-10-25,Sint-Truiden,Kortrijk,2,1,1.0
+2015-2016,Regular season,13,2015-10-27,Lokeren,Gent,1,2,0.0
+2015-2016,Regular season,13,2015-10-27,Oostende,Genk,3,2,1.0
+2015-2016,Regular season,13,2015-10-27,RE Mouscron,Westerlo,2,2,0.5
+2015-2016,Regular season,13,2015-10-28,Club Brugge,OH Leuven,2,0,1.0
+2015-2016,Regular season,13,2015-10-28,Standard Liège,Mechelen,2,1,1.0
+2015-2016,Regular season,13,2015-10-28,Waasland-Bev,Charleroi,0,1,0.0
+2015-2016,Regular season,13,2015-10-28,Zulte Waregem,Sint-Truiden,4,0,1.0
+2015-2016,Regular season,13,2015-10-29,Kortrijk,Anderlecht,1,1,0.5
+2015-2016,Regular season,14,2015-10-30,Genk,Lokeren,0,2,0.0
+2015-2016,Regular season,14,2015-10-31,OH Leuven,Gent,0,2,0.0
+2015-2016,Regular season,14,2015-10-31,Charleroi,Oostende,1,1,0.5
+2015-2016,Regular season,14,2015-10-31,Mechelen,Waasland-Bev,2,0,1.0
+2015-2016,Regular season,14,2015-10-31,Westerlo,Club Brugge,0,2,0.0
+2015-2016,Regular season,14,2015-11-01,Sint-Truiden,Standard Liège,1,0,1.0
+2015-2016,Regular season,14,2015-11-01,Anderlecht,RE Mouscron,2,0,1.0
+2015-2016,Regular season,14,2015-11-01,Zulte Waregem,Kortrijk,2,2,0.5
+2015-2016,Regular season,15,2015-11-06,RE Mouscron,Zulte Waregem,2,2,0.5
+2015-2016,Regular season,15,2015-11-07,Oostende,OH Leuven,3,0,1.0
+2015-2016,Regular season,15,2015-11-07,Waasland-Bev,Westerlo,2,2,0.5
+2015-2016,Regular season,15,2015-11-07,Lokeren,Sint-Truiden,1,1,0.5
+2015-2016,Regular season,15,2015-11-07,Kortrijk,Mechelen,1,0,1.0
+2015-2016,Regular season,15,2015-11-08,Standard Liège,Anderlecht,1,0,1.0
+2015-2016,Regular season,15,2015-11-08,Club Brugge,Genk,1,0,1.0
+2015-2016,Regular season,15,2015-11-08,Gent,Charleroi,1,3,0.0
+2015-2016,Regular season,16,2015-11-20,Gent,Westerlo,5,0,1.0
+2015-2016,Regular season,16,2015-11-21,Club Brugge,Zulte Waregem,3,0,1.0
+2015-2016,Regular season,16,2015-11-21,Waasland-Bev,Sint-Truiden,2,1,1.0
+2015-2016,Regular season,16,2015-11-21,OH Leuven,Genk,1,3,0.0
+2015-2016,Regular season,16,2015-11-22,Standard Liège,Kortrijk,1,1,0.5
+2015-2016,Regular season,16,2015-11-22,Mechelen,Oostende,2,1,1.0
+2015-2016,Regular season,17,2015-11-27,Zulte Waregem,Standard Liège,2,3,0.0
+2015-2016,Regular season,17,2015-11-28,Genk,Gent,0,1,0.0
+2015-2016,Regular season,17,2015-11-28,Charleroi,Lokeren,1,2,0.0
+2015-2016,Regular season,17,2015-11-28,Kortrijk,Waasland-Bev,3,1,1.0
+2015-2016,Regular season,17,2015-11-28,Sint-Truiden,RE Mouscron,0,1,0.0
+2015-2016,Regular season,17,2015-11-29,Anderlecht,OH Leuven,3,2,1.0
+2015-2016,Regular season,17,2015-11-29,Mechelen,Club Brugge,1,4,0.0
+2015-2016,Regular season,17,2015-11-29,Westerlo,Oostende,0,1,0.0
+2015-2016,Regular season,18,2015-12-04,Gent,Zulte Waregem,2,2,0.5
+2015-2016,Regular season,18,2015-12-05,Oostende,Sint-Truiden,1,2,0.0
+2015-2016,Regular season,18,2015-12-05,RE Mouscron,Mechelen,2,3,0.0
+2015-2016,Regular season,18,2015-12-05,OH Leuven,Westerlo,5,1,1.0
+2015-2016,Regular season,18,2015-12-05,Waasland-Bev,Standard Liège,0,0,0.5
+2015-2016,Regular season,18,2015-12-06,Club Brugge,Charleroi,2,1,1.0
+2015-2016,Regular season,18,2015-12-06,Genk,Anderlecht,0,0,0.5
+2015-2016,Regular season,18,2015-12-06,Lokeren,Kortrijk,3,1,1.0
+2015-2016,Regular season,19,2015-12-11,Westerlo,Genk,0,0,0.5
+2015-2016,Regular season,19,2015-12-12,Charleroi,OH Leuven,2,1,1.0
+2015-2016,Regular season,19,2015-12-12,Mechelen,Lokeren,1,1,0.5
+2015-2016,Regular season,19,2015-12-12,Zulte Waregem,Waasland-Bev,2,1,1.0
+2015-2016,Regular season,19,2015-12-12,Kortrijk,RE Mouscron,1,3,0.0
+2015-2016,Regular season,19,2015-12-13,Standard Liège,Club Brugge,2,0,1.0
+2015-2016,Regular season,19,2015-12-13,Sint-Truiden,Gent,0,2,0.0
+2015-2016,Regular season,19,2015-12-13,Anderlecht,Oostende,1,1,0.5
+2015-2016,Regular season,20,2015-12-18,Lokeren,Zulte Waregem,1,1,0.5
+2015-2016,Regular season,20,2015-12-19,Genk,Sint-Truiden,3,0,1.0
+2015-2016,Regular season,20,2015-12-19,RE Mouscron,Waasland-Bev,0,1,0.0
+2015-2016,Regular season,20,2015-12-19,Westerlo,Charleroi,2,1,1.0
+2015-2016,Regular season,20,2015-12-19,OH Leuven,Mechelen,3,1,1.0
+2015-2016,Regular season,20,2015-12-20,Club Brugge,Anderlecht,1,4,0.0
+2015-2016,Regular season,20,2015-12-20,Oostende,Standard Liège,4,1,1.0
+2015-2016,Regular season,20,2015-12-20,Gent,Kortrijk,3,0,1.0
+2015-2016,Regular season,16,2015-12-22,RE Mouscron,Charleroi,0,1,0.0
+2015-2016,Regular season,16,2015-12-23,Lokeren,Anderlecht,1,1,0.5
+2015-2016,Regular season,21,2015-12-26,Kortrijk,Club Brugge,1,4,0.0
+2015-2016,Regular season,21,2015-12-26,Charleroi,Genk,1,0,1.0
+2015-2016,Regular season,21,2015-12-26,Mechelen,Gent,2,0,1.0
+2015-2016,Regular season,21,2015-12-26,Waasland-Bev,Lokeren,2,3,0.0
+2015-2016,Regular season,21,2015-12-26,Sint-Truiden,OH Leuven,2,2,0.5
+2015-2016,Regular season,21,2015-12-27,Standard Liège,RE Mouscron,3,0,1.0
+2015-2016,Regular season,21,2015-12-27,Anderlecht,Westerlo,2,1,1.0
+2015-2016,Regular season,21,2015-12-27,Zulte Waregem,Oostende,1,0,1.0
+2015-2016,Regular season,22,2016-01-15,Genk,Zulte Waregem,2,1,1.0
+2015-2016,Regular season,22,2016-01-16,Club Brugge,RE Mouscron,3,0,1.0
+2015-2016,Regular season,22,2016-01-16,OH Leuven,Kortrijk,1,0,1.0
+2015-2016,Regular season,22,2016-01-16,Westerlo,Mechelen,3,2,1.0
+2015-2016,Regular season,22,2016-01-16,Charleroi,Sint-Truiden,0,0,0.5
+2015-2016,Regular season,22,2016-01-17,Gent,Anderlecht,2,0,1.0
+2015-2016,Regular season,22,2016-01-17,Lokeren,Standard Liège,0,2,0.0
+2015-2016,Regular season,22,2016-01-17,Oostende,Waasland-Bev,3,3,0.5
+2015-2016,Regular season,23,2016-01-22,Kortrijk,Oostende,2,1,1.0
+2015-2016,Regular season,23,2016-01-23,Mechelen,Genk,1,1,0.5
+2015-2016,Regular season,23,2016-01-23,Sint-Truiden,Westerlo,1,2,0.0
+2015-2016,Regular season,23,2016-01-23,Zulte Waregem,OH Leuven,2,2,0.5
+2015-2016,Regular season,23,2016-01-23,RE Mouscron,Lokeren,1,1,0.5
+2015-2016,Regular season,23,2016-01-24,Anderlecht,Charleroi,2,1,1.0
+2015-2016,Regular season,23,2016-01-24,Standard Liège,Gent,0,3,0.0
+2015-2016,Regular season,23,2016-01-24,Waasland-Bev,Club Brugge,1,2,0.0
+2015-2016,Regular season,24,2016-01-29,Sint-Truiden,Anderlecht,1,2,0.0
+2015-2016,Regular season,24,2016-01-30,OH Leuven,Standard Liège,0,2,0.0
+2015-2016,Regular season,24,2016-01-30,Charleroi,Mechelen,3,2,1.0
+2015-2016,Regular season,24,2016-01-30,Westerlo,Zulte Waregem,1,2,0.0
+2015-2016,Regular season,24,2016-01-30,Genk,Kortrijk,1,0,1.0
+2015-2016,Regular season,24,2016-01-31,Oostende,RE Mouscron,3,3,0.5
+2015-2016,Regular season,24,2016-01-31,Club Brugge,Lokeren,2,1,1.0
+2015-2016,Regular season,24,2016-01-31,Gent,Waasland-Bev,2,1,1.0
+2015-2016,Regular season,25,2016-02-05,Mechelen,Anderlecht,2,2,0.5
+2015-2016,Regular season,25,2016-02-06,RE Mouscron,Genk,0,1,0.0
+2015-2016,Regular season,25,2016-02-06,Waasland-Bev,OH Leuven,2,2,0.5
+2015-2016,Regular season,25,2016-02-06,Kortrijk,Westerlo,1,1,0.5
+2015-2016,Regular season,25,2016-02-06,Zulte Waregem,Charleroi,2,3,0.0
+2015-2016,Regular season,25,2016-02-07,Club Brugge,Gent,1,0,1.0
+2015-2016,Regular season,25,2016-02-07,Standard Liège,Sint-Truiden,1,2,0.0
+2015-2016,Regular season,25,2016-02-07,Lokeren,Oostende,0,1,0.0
+2015-2016,Regular season,26,2016-02-12,Gent,RE Mouscron,2,0,1.0
+2015-2016,Regular season,26,2016-02-13,Charleroi,Kortrijk,1,1,0.5
+2015-2016,Regular season,26,2016-02-13,OH Leuven,Lokeren,3,3,0.5
+2015-2016,Regular season,26,2016-02-13,Anderlecht,Zulte Waregem,3,0,1.0
+2015-2016,Regular season,26,2016-02-13,Genk,Waasland-Bev,6,1,1.0
+2015-2016,Regular season,26,2016-02-14,Oostende,Club Brugge,0,2,0.0
+2015-2016,Regular season,26,2016-02-14,Westerlo,Standard Liège,2,0,1.0
+2015-2016,Regular season,26,2016-02-14,Sint-Truiden,Mechelen,0,3,0.0
+2015-2016,Regular season,27,2016-02-19,Club Brugge,Westerlo,6,0,1.0
+2015-2016,Regular season,27,2016-02-20,Standard Liège,Charleroi,3,0,1.0
+2015-2016,Regular season,27,2016-02-20,RE Mouscron,OH Leuven,3,1,1.0
+2015-2016,Regular season,27,2016-02-20,Kortrijk,Sint-Truiden,3,0,1.0
+2015-2016,Regular season,27,2016-02-20,Lokeren,Genk,0,0,0.5
+2015-2016,Regular season,27,2016-02-21,Oostende,Gent,5,2,1.0
+2015-2016,Regular season,27,2016-02-21,Waasland-Bev,Anderlecht,1,0,1.0
+2015-2016,Regular season,27,2016-02-21,Zulte Waregem,Mechelen,2,3,0.0
+2015-2016,Regular season,28,2016-02-26,Gent,Lokeren,3,1,1.0
+2015-2016,Regular season,28,2016-02-27,OH Leuven,Oostende,4,1,1.0
+2015-2016,Regular season,28,2016-02-27,Westerlo,RE Mouscron,2,2,0.5
+2015-2016,Regular season,28,2016-02-27,Mechelen,Kortrijk,0,2,0.0
+2015-2016,Regular season,28,2016-02-27,Sint-Truiden,Zulte Waregem,1,2,0.0
+2015-2016,Regular season,28,2016-02-28,Genk,Club Brugge,3,2,1.0
+2015-2016,Regular season,28,2016-02-28,Anderlecht,Standard Liège,3,3,0.5
+2015-2016,Regular season,28,2016-02-28,Charleroi,Waasland-Bev,2,3,0.0
+2015-2016,Regular season,29,2016-03-04,Gent,OH Leuven,1,1,0.5
+2015-2016,Regular season,29,2016-03-05,Club Brugge,Sint-Truiden,3,0,1.0
+2015-2016,Regular season,29,2016-03-05,Waasland-Bev,Mechelen,0,0,0.5
+2015-2016,Regular season,29,2016-03-05,Standard Liège,Genk,2,1,1.0
+2015-2016,Regular season,29,2016-03-05,Kortrijk,Zulte Waregem,1,0,1.0
+2015-2016,Regular season,29,2016-03-05,Oostende,Charleroi,2,1,1.0
+2015-2016,Regular season,29,2016-03-05,RE Mouscron,Anderlecht,2,1,1.0
+2015-2016,Regular season,29,2016-03-05,Lokeren,Westerlo,2,1,1.0
+2015-2016,Regular season,30,2016-03-13,Mechelen,Standard Liège,4,0,1.0
+2015-2016,Regular season,30,2016-03-13,Genk,Oostende,4,1,1.0
+2015-2016,Regular season,30,2016-03-13,Zulte Waregem,RE Mouscron,3,0,1.0
+2015-2016,Regular season,30,2016-03-13,Westerlo,Waasland-Bev,1,0,1.0
+2015-2016,Regular season,30,2016-03-13,Sint-Truiden,Lokeren,1,1,0.5
+2015-2016,Regular season,30,2016-03-13,Anderlecht,Kortrijk,3,0,1.0
+2015-2016,Regular season,30,2016-03-13,OH Leuven,Club Brugge,0,1,0.0
+2015-2016,Regular season,30,2016-03-13,Charleroi,Gent,1,1,0.5
+2015-2016,Championship play-off,1,2016-04-01,Gent,Zulte Waregem,1,1,0.5
+2015-2016,Championship play-off,1,2016-04-02,Oostende,Club Brugge,0,1,0.0
+2015-2016,Group stage,1,2016-04-02,Kortrijk,RE Mouscron,0,0,0.5
+2015-2016,Group stage,1,2016-04-02,Sint-Truiden,Mechelen,0,1,0.0
+2015-2016,Group stage,1,2016-04-02,Lokeren,Charleroi,1,0,1.0
+2015-2016,Championship play-off,1,2016-04-03,Anderlecht,Genk,1,0,1.0
+2015-2016,Group stage,1,2016-04-03,Waasland-Bev,Standard Liège,0,1,0.0
+2015-2016,Championship play-off,2,2016-04-08,Genk,Oostende,4,0,1.0
+2015-2016,Championship play-off,2,2016-04-09,Club Brugge,Gent,2,0,1.0
+2015-2016,Group stage,2,2016-04-09,Mechelen,Lokeren,2,1,1.0
+2015-2016,Group stage,2,2016-04-09,RE Mouscron,Waasland-Bev,0,0,0.5
+2015-2016,Group stage,2,2016-04-09,Charleroi,Sint-Truiden,1,1,0.5
+2015-2016,Championship play-off,2,2016-04-10,Zulte Waregem,Anderlecht,1,2,0.0
+2015-2016,Group stage,2,2016-04-10,Standard Liège,Kortrijk,1,1,0.5
+2015-2016,Championship play-off,3,2016-04-15,Gent,Oostende,2,0,1.0
+2015-2016,Championship play-off,3,2016-04-16,Zulte Waregem,Genk,1,2,0.0
+2015-2016,Group stage,3,2016-04-16,Waasland-Bev,Kortrijk,2,3,0.0
+2015-2016,Group stage,3,2016-04-16,Lokeren,Sint-Truiden,1,0,1.0
+2015-2016,Group stage,3,2016-04-16,Mechelen,Charleroi,2,3,0.0
+2015-2016,Championship play-off,3,2016-04-17,Anderlecht,Club Brugge,1,0,1.0
+2015-2016,Group stage,3,2016-04-17,RE Mouscron,Standard Liège,2,0,1.0
+2015-2016,Championship play-off,4,2016-04-19,Oostende,Zulte Waregem,3,3,0.5
+2015-2016,Championship play-off,4,2016-04-20,Genk,Club Brugge,4,2,1.0
+2015-2016,Championship play-off,4,2016-04-21,Gent,Anderlecht,1,1,0.5
+2015-2016,Group stage,4,2016-04-22,Standard Liège,RE Mouscron,4,1,1.0
+2015-2016,Championship play-off,5,2016-04-23,Club Brugge,Zulte Waregem,5,0,1.0
+2015-2016,Group stage,4,2016-04-23,Sint-Truiden,Lokeren,2,2,0.5
+2015-2016,Group stage,4,2016-04-23,Kortrijk,Waasland-Bev,5,0,1.0
+2015-2016,Group stage,4,2016-04-23,Charleroi,Mechelen,4,0,1.0
+2015-2016,Championship play-off,5,2016-04-24,Oostende,Anderlecht,4,2,1.0
+2015-2016,Championship play-off,5,2016-04-24,Genk,Gent,1,2,0.0
+2015-2016,Championship play-off,6,2016-04-29,Zulte Waregem,Oostende,1,2,0.0
+2015-2016,Group stage,5,2016-04-30,Mechelen,Sint-Truiden,1,1,0.5
+2015-2016,Group stage,5,2016-04-30,Charleroi,Lokeren,2,2,0.5
+2015-2016,Group stage,5,2016-04-30,Waasland-Bev,RE Mouscron,1,0,1.0
+2015-2016,Group stage,5,2016-04-30,Kortrijk,Standard Liège,1,0,1.0
+2015-2016,Championship play-off,6,2016-05-01,Anderlecht,Gent,2,0,1.0
+2015-2016,Championship play-off,6,2016-05-01,Club Brugge,Genk,3,1,1.0
+2015-2016,Championship play-off,7,2016-05-06,Genk,Zulte Waregem,2,0,1.0
+2015-2016,Group stage,6,2016-05-07,Standard Liège,Waasland-Bev,2,0,1.0
+2015-2016,Group stage,6,2016-05-07,RE Mouscron,Kortrijk,2,3,0.0
+2015-2016,Group stage,6,2016-05-07,Lokeren,Mechelen,5,1,1.0
+2015-2016,Group stage,6,2016-05-07,Sint-Truiden,Charleroi,0,3,0.0
+2015-2016,Championship play-off,7,2016-05-08,Anderlecht,Oostende,2,1,1.0
+2015-2016,Championship play-off,7,2016-05-08,Gent,Club Brugge,1,4,0.0
+2015-2016,Final,,2016-05-13,Charleroi,Kortrijk,1,0,1.0
+2015-2016,Championship play-off,8,2016-05-14,Oostende,Genk,2,1,1.0
+2015-2016,Championship play-off,8,2016-05-15,Club Brugge,Anderlecht,4,0,1.0
+2015-2016,Championship play-off,8,2016-05-15,Zulte Waregem,Gent,4,2,1.0
+2015-2016,Championship play-off,9,2016-05-19,Zulte Waregem,Club Brugge,0,2,0.0
+2015-2016,Championship play-off,9,2016-05-19,Genk,Anderlecht,5,2,1.0
+2015-2016,Championship play-off,9,2016-05-19,Oostende,Gent,0,1,0.0
+2015-2016,Final,,2016-05-21,Kortrijk,Charleroi,1,2,0.0
+2015-2016,Championship play-off,10,2016-05-22,Gent,Genk,0,0,0.5
+2015-2016,Championship play-off,10,2016-05-22,Club Brugge,Oostende,2,2,0.5
+2015-2016,Championship play-off,10,2016-05-22,Anderlecht,Zulte Waregem,2,0,1.0
+2015-2016,Test-match,,2016-05-26,Charleroi,Genk,2,0,1.0
+2015-2016,Test-match,,2016-05-29,Genk,Charleroi,5,1,1.0

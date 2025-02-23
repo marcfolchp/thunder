@@ -1,0 +1,1 @@
+2025-02-22 18:04:30 - ⚠️ Error al obtener datos: 429 Client Error: Too Many Requests for url: https://fbref.com/en/comps/39/history/Ukrainian-Premier-League-Seasons

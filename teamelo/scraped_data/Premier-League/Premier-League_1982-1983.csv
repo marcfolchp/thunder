@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1982-1983,1,1982-08-28,West Ham,Nott'ham Forest,1,2,0.0
+1982-1983,1,1982-08-28,Stoke City,Arsenal,2,1,1.0
+1982-1983,1,1982-08-28,Coventry City,Southampton,1,0,1.0
+1982-1983,1,1982-08-28,Manchester Utd,Birmingham City,3,0,1.0
+1982-1983,1,1982-08-28,Norwich City,Manchester City,1,2,0.0
+1982-1983,1,1982-08-28,Liverpool,West Brom,2,0,1.0
+1982-1983,1,1982-08-28,Notts County,Swansea City,0,0,0.5
+1982-1983,1,1982-08-28,Tottenham,Luton Town,2,2,0.5
+1982-1983,1,1982-08-28,Watford,Everton,2,0,1.0
+1982-1983,1,1982-08-28,Brighton,Ipswich Town,1,1,0.5
+1982-1983,1,1982-08-28,Aston Villa,Sunderland,1,3,0.0
+1982-1983,2,1982-08-31,Birmingham City,Liverpool,0,0,0.5
+1982-1983,2,1982-08-31,Everton,Aston Villa,5,0,1.0
+1982-1983,2,1982-08-31,Arsenal,Norwich City,1,1,0.5
+1982-1983,2,1982-08-31,Swansea City,Coventry City,2,1,1.0
+1982-1983,2,1982-08-31,Ipswich Town,Tottenham,1,2,0.0
+1982-1983,2,1982-08-31,Luton Town,West Ham,0,2,0.0
+1982-1983,2,1982-08-31,Southampton,Watford,1,4,0.0
+1982-1983,2,1982-09-01,Sunderland,Notts County,1,1,0.5
+1982-1983,2,1982-09-01,West Brom,Brighton,5,0,1.0
+1982-1983,2,1982-09-01,Manchester City,Stoke City,1,0,1.0
+1982-1983,2,1982-09-01,Nott'ham Forest,Manchester Utd,0,3,0.0
+1982-1983,3,1982-09-04,Luton Town,Notts County,5,3,1.0
+1982-1983,3,1982-09-04,Swansea City,Norwich City,4,0,1.0
+1982-1983,3,1982-09-04,Manchester City,Watford,1,0,1.0
+1982-1983,3,1982-09-04,Ipswich Town,Coventry City,1,1,0.5
+1982-1983,3,1982-09-04,Birmingham City,Stoke City,1,4,0.0
+1982-1983,3,1982-09-04,Nott'ham Forest,Brighton,4,0,1.0
+1982-1983,3,1982-09-04,West Brom,Manchester Utd,3,1,1.0
+1982-1983,3,1982-09-04,Sunderland,West Ham,1,0,1.0
+1982-1983,3,1982-09-04,Southampton,Aston Villa,1,0,1.0
+1982-1983,3,1982-09-04,Arsenal,Liverpool,0,2,0.0
+1982-1983,3,1982-09-04,Everton,Tottenham,3,1,1.0
+1982-1983,4,1982-09-07,West Ham,Ipswich Town,1,1,0.5
+1982-1983,4,1982-09-07,Liverpool,Nott'ham Forest,4,3,1.0
+1982-1983,4,1982-09-07,Watford,Swansea City,2,1,1.0
+1982-1983,4,1982-09-07,Notts County,Manchester City,1,0,1.0
+1982-1983,4,1982-09-07,Coventry City,Sunderland,1,0,1.0
+1982-1983,4,1982-09-07,Brighton,Arsenal,1,0,1.0
+1982-1983,4,1982-09-08,Manchester Utd,Everton,2,1,1.0
+1982-1983,4,1982-09-08,Tottenham,Southampton,6,0,1.0
+1982-1983,4,1982-09-08,Stoke City,West Brom,0,3,0.0
+1982-1983,4,1982-09-08,Norwich City,Birmingham City,5,1,1.0
+1982-1983,4,1982-09-08,Aston Villa,Luton Town,4,1,1.0
+1982-1983,5,1982-09-11,Notts County,Everton,1,0,1.0
+1982-1983,5,1982-09-11,Liverpool,Luton Town,3,3,0.5
+1982-1983,5,1982-09-11,Tottenham,Manchester City,1,2,0.0
+1982-1983,5,1982-09-11,Brighton,Sunderland,3,2,1.0
+1982-1983,5,1982-09-11,Norwich City,Southampton,1,1,0.5
+1982-1983,5,1982-09-11,Manchester Utd,Ipswich Town,3,1,1.0
+1982-1983,5,1982-09-11,Watford,West Brom,3,0,1.0
+1982-1983,5,1982-09-11,Stoke City,Swansea City,4,1,1.0
+1982-1983,5,1982-09-11,West Ham,Birmingham City,5,0,1.0
+1982-1983,5,1982-09-11,Aston Villa,Nott'ham Forest,4,1,1.0
+1982-1983,5,1982-09-11,Coventry City,Arsenal,0,2,0.0
+1982-1983,6,1982-09-18,Arsenal,Notts County,2,0,1.0
+1982-1983,6,1982-09-18,Sunderland,Tottenham,0,1,0.0
+1982-1983,6,1982-09-18,Birmingham City,Coventry City,1,0,1.0
+1982-1983,6,1982-09-18,Manchester City,Aston Villa,0,1,0.0
+1982-1983,6,1982-09-18,Swansea City,Liverpool,0,3,0.0
+1982-1983,6,1982-09-18,Nott'ham Forest,Watford,2,0,1.0
+1982-1983,6,1982-09-18,Everton,Norwich City,1,1,0.5
+1982-1983,6,1982-09-18,West Brom,West Ham,1,2,0.0
+1982-1983,6,1982-09-18,Southampton,Manchester Utd,0,1,0.0
+1982-1983,6,1982-09-18,Luton Town,Brighton,5,0,1.0
+1982-1983,6,1982-09-18,Ipswich Town,Stoke City,2,3,0.0
+1982-1983,7,1982-09-25,Stoke City,Luton Town,4,4,0.5
+1982-1983,7,1982-09-25,Coventry City,Everton,4,2,1.0
+1982-1983,7,1982-09-25,Norwich City,West Brom,1,3,0.0
+1982-1983,7,1982-09-25,Manchester Utd,Arsenal,0,0,0.5
+1982-1983,7,1982-09-25,Notts County,Ipswich Town,0,6,0.0
+1982-1983,7,1982-09-25,Liverpool,Southampton,5,0,1.0
+1982-1983,7,1982-09-25,West Ham,Manchester City,4,1,1.0
+1982-1983,7,1982-09-25,Watford,Sunderland,8,0,1.0
+1982-1983,7,1982-09-25,Tottenham,Nott'ham Forest,4,1,1.0
+1982-1983,7,1982-09-25,Aston Villa,Swansea City,2,0,1.0
+1982-1983,7,1982-09-25,Brighton,Birmingham City,1,0,1.0
+1982-1983,8,1982-10-02,Ipswich Town,Liverpool,1,0,1.0
+1982-1983,8,1982-10-02,Luton Town,Manchester Utd,1,1,0.5
+1982-1983,8,1982-10-02,Swansea City,Tottenham,2,0,1.0
+1982-1983,8,1982-10-02,Arsenal,West Ham,2,3,0.0
+1982-1983,8,1982-10-02,Sunderland,Norwich City,4,1,1.0
+1982-1983,8,1982-10-02,Everton,Brighton,2,2,0.5
+1982-1983,8,1982-10-02,Southampton,Notts County,1,0,1.0
+1982-1983,8,1982-10-02,West Brom,Aston Villa,1,0,1.0
+1982-1983,8,1982-10-02,Nott'ham Forest,Stoke City,1,0,1.0
+1982-1983,8,1982-10-02,Manchester City,Coventry City,3,2,1.0
+1982-1983,8,1982-10-02,Birmingham City,Watford,1,1,0.5
+1982-1983,9,1982-10-09,Sunderland,Southampton,1,1,0.5
+1982-1983,9,1982-10-09,Brighton,Swansea City,1,1,0.5
+1982-1983,9,1982-10-09,Manchester Utd,Stoke City,1,0,1.0
+1982-1983,9,1982-10-09,West Ham,Liverpool,3,1,1.0
+1982-1983,9,1982-10-09,West Brom,Nott'ham Forest,2,1,1.0
+1982-1983,9,1982-10-09,Birmingham City,Luton Town,2,3,0.0
+1982-1983,9,1982-10-09,Watford,Norwich City,2,2,0.5
+1982-1983,9,1982-10-09,Ipswich Town,Arsenal,0,1,0.0
+1982-1983,9,1982-10-09,Notts County,Aston Villa,4,1,1.0
+1982-1983,9,1982-10-09,Everton,Manchester City,2,1,1.0
+1982-1983,9,1982-10-09,Tottenham,Coventry City,4,0,1.0
+1982-1983,10,1982-10-16,Manchester City,Sunderland,2,2,0.5
+1982-1983,10,1982-10-16,Norwich City,Tottenham,0,0,0.5
+1982-1983,10,1982-10-16,Nott'ham Forest,Birmingham City,1,1,0.5
+1982-1983,10,1982-10-16,Southampton,West Ham,3,0,1.0
+1982-1983,10,1982-10-16,Aston Villa,Watford,3,0,1.0
+1982-1983,10,1982-10-16,Stoke City,Brighton,3,0,1.0
+1982-1983,10,1982-10-16,Luton Town,Ipswich Town,1,1,0.5
+1982-1983,10,1982-10-16,Swansea City,Everton,0,3,0.0
+1982-1983,10,1982-10-16,Arsenal,West Brom,2,0,1.0
+1982-1983,10,1982-10-16,Coventry City,Notts County,1,0,1.0
+1982-1983,10,1982-10-16,Liverpool,Manchester Utd,0,0,0.5
+1982-1983,11,1982-10-23,Swansea City,Southampton,3,2,1.0
+1982-1983,11,1982-10-23,Everton,Sunderland,3,1,1.0
+1982-1983,11,1982-10-23,Manchester Utd,Manchester City,2,2,0.5
+1982-1983,11,1982-10-23,Birmingham City,Ipswich Town,0,0,0.5
+1982-1983,11,1982-10-23,West Brom,Luton Town,1,0,1.0
+1982-1983,11,1982-10-23,Watford,Coventry City,0,0,0.5
+1982-1983,11,1982-10-23,Norwich City,Aston Villa,1,0,1.0
+1982-1983,11,1982-10-23,Tottenham,Notts County,4,2,1.0
+1982-1983,11,1982-10-23,Stoke City,Liverpool,1,1,0.5
+1982-1983,11,1982-10-23,Nott'ham Forest,Arsenal,3,0,1.0
+1982-1983,11,1982-10-23,Brighton,West Ham,3,1,1.0
+1982-1983,12,1982-10-30,Ipswich Town,West Brom,6,1,1.0
+1982-1983,12,1982-10-30,West Ham,Manchester Utd,3,1,1.0
+1982-1983,12,1982-10-30,Notts County,Watford,3,2,1.0
+1982-1983,12,1982-10-30,Sunderland,Stoke City,2,2,0.5
+1982-1983,12,1982-10-30,Liverpool,Brighton,3,1,1.0
+1982-1983,12,1982-10-30,Southampton,Everton,3,2,1.0
+1982-1983,12,1982-10-30,Manchester City,Swansea City,2,1,1.0
+1982-1983,12,1982-10-30,Arsenal,Birmingham City,0,0,0.5
+1982-1983,12,1982-10-30,Coventry City,Norwich City,2,0,1.0
+1982-1983,12,1982-10-30,Luton Town,Nott'ham Forest,0,2,0.0
+1982-1983,12,1982-10-30,Aston Villa,Tottenham,4,0,1.0
+1982-1983,13,1982-11-06,Manchester City,Southampton,2,0,1.0
+1982-1983,13,1982-11-06,Brighton,Manchester Utd,1,0,1.0
+1982-1983,13,1982-11-06,Luton Town,Arsenal,2,2,0.5
+1982-1983,13,1982-11-06,Tottenham,Watford,0,1,0.0
+1982-1983,13,1982-11-06,Nott'ham Forest,Ipswich Town,2,1,1.0
+1982-1983,13,1982-11-06,Stoke City,West Ham,5,2,1.0
+1982-1983,13,1982-11-06,Swansea City,Sunderland,3,0,1.0
+1982-1983,13,1982-11-06,Norwich City,Notts County,1,2,0.0
+1982-1983,13,1982-11-06,Birmingham City,West Brom,2,1,1.0
+1982-1983,13,1982-11-06,Coventry City,Aston Villa,0,0,0.5
+1982-1983,13,1982-11-06,Everton,Liverpool,0,5,0.0
+1982-1983,14,1982-11-13,Watford,Stoke City,1,0,1.0
+1982-1983,14,1982-11-13,Ipswich Town,Manchester City,1,0,1.0
+1982-1983,14,1982-11-13,Manchester Utd,Tottenham,1,0,1.0
+1982-1983,14,1982-11-13,Notts County,Birmingham City,0,0,0.5
+1982-1983,14,1982-11-13,Sunderland,Luton Town,1,1,0.5
+1982-1983,14,1982-11-13,Arsenal,Everton,1,1,0.5
+1982-1983,14,1982-11-13,West Ham,Norwich City,1,0,1.0
+1982-1983,14,1982-11-13,Southampton,Nott'ham Forest,1,1,0.5
+1982-1983,14,1982-11-13,West Brom,Swansea City,3,3,0.5
+1982-1983,14,1982-11-13,Aston Villa,Brighton,1,0,1.0
+1982-1983,14,1982-11-13,Liverpool,Coventry City,4,0,1.0
+1982-1983,15,1982-11-20,Aston Villa,Manchester Utd,2,1,1.0
+1982-1983,15,1982-11-20,Swansea City,Arsenal,1,2,0.0
+1982-1983,15,1982-11-20,Watford,Brighton,4,1,1.0
+1982-1983,15,1982-11-20,Notts County,Liverpool,1,2,0.0
+1982-1983,15,1982-11-20,Coventry City,Luton Town,4,2,1.0
+1982-1983,15,1982-11-20,Everton,West Brom,0,0,0.5
+1982-1983,15,1982-11-20,Sunderland,Nott'ham Forest,0,1,0.0
+1982-1983,15,1982-11-20,Southampton,Ipswich Town,0,1,0.0
+1982-1983,15,1982-11-20,Manchester City,Birmingham City,0,0,0.5
+1982-1983,15,1982-11-20,Tottenham,West Ham,2,1,1.0
+1982-1983,15,1982-11-20,Norwich City,Stoke City,4,2,1.0
+1982-1983,23,1982-11-23,Coventry City,Ipswich Town,1,1,0.5
+1982-1983,16,1982-11-27,Liverpool,Tottenham,3,0,1.0
+1982-1983,16,1982-11-27,Stoke City,Aston Villa,0,3,0.0
+1982-1983,16,1982-11-27,Arsenal,Watford,2,4,0.0
+1982-1983,16,1982-11-27,Nott'ham Forest,Manchester City,3,0,1.0
+1982-1983,16,1982-11-27,West Brom,Coventry City,2,0,1.0
+1982-1983,16,1982-11-27,West Ham,Everton,2,0,1.0
+1982-1983,16,1982-11-27,Luton Town,Southampton,3,3,0.5
+1982-1983,16,1982-11-27,Ipswich Town,Swansea City,3,1,1.0
+1982-1983,16,1982-11-27,Manchester Utd,Norwich City,3,0,1.0
+1982-1983,16,1982-11-27,Birmingham City,Sunderland,2,1,1.0
+1982-1983,16,1982-11-27,Brighton,Notts County,0,2,0.0
+1982-1983,17,1982-12-04,Southampton,Stoke City,1,0,1.0
+1982-1983,17,1982-12-04,Swansea City,Luton Town,2,0,1.0
+1982-1983,17,1982-12-04,Aston Villa,West Ham,1,0,1.0
+1982-1983,17,1982-12-04,Norwich City,Liverpool,1,0,1.0
+1982-1983,17,1982-12-04,Tottenham,West Brom,1,1,0.5
+1982-1983,17,1982-12-04,Notts County,Nott'ham Forest,3,2,1.0
+1982-1983,17,1982-12-04,Watford,Manchester Utd,0,1,0.0
+1982-1983,17,1982-12-04,Sunderland,Ipswich Town,2,3,0.0
+1982-1983,17,1982-12-04,Everton,Birmingham City,0,0,0.5
+1982-1983,17,1982-12-04,Coventry City,Brighton,2,0,1.0
+1982-1983,17,1982-12-04,Manchester City,Arsenal,2,1,1.0
+1982-1983,18,1982-12-07,Arsenal,Aston Villa,2,1,1.0
+1982-1983,18,1982-12-11,Stoke City,Tottenham,2,0,1.0
+1982-1983,18,1982-12-11,Nott'ham Forest,Swansea City,2,1,1.0
+1982-1983,18,1982-12-11,Brighton,Norwich City,3,0,1.0
+1982-1983,18,1982-12-11,West Brom,Sunderland,3,0,1.0
+1982-1983,18,1982-12-11,Luton Town,Manchester City,3,1,1.0
+1982-1983,18,1982-12-11,Birmingham City,Southampton,0,2,0.0
+1982-1983,18,1982-12-11,Liverpool,Watford,3,1,1.0
+1982-1983,18,1982-12-11,Ipswich Town,Everton,0,2,0.0
+1982-1983,18,1982-12-11,Manchester Utd,Notts County,4,0,1.0
+1982-1983,18,1982-12-11,West Ham,Coventry City,0,3,0.0
+1982-1983,19,1982-12-18,Swansea City,Manchester Utd,0,0,0.5
+1982-1983,19,1982-12-18,Norwich City,Nott'ham Forest,0,1,0.0
+1982-1983,19,1982-12-18,Everton,Luton Town,5,0,1.0
+1982-1983,19,1982-12-18,Tottenham,Birmingham City,2,1,1.0
+1982-1983,19,1982-12-18,Southampton,West Brom,4,1,1.0
+1982-1983,19,1982-12-18,Coventry City,Stoke City,2,0,1.0
+1982-1983,19,1982-12-18,Aston Villa,Liverpool,2,4,0.0
+1982-1983,19,1982-12-18,Sunderland,Arsenal,3,0,1.0
+1982-1983,19,1982-12-18,Notts County,West Ham,1,2,0.0
+1982-1983,19,1982-12-18,Watford,Ipswich Town,2,1,1.0
+1982-1983,19,1982-12-18,Manchester City,Brighton,1,1,0.5
+1982-1983,20,1982-12-27,Stoke City,Everton,1,0,1.0
+1982-1983,20,1982-12-27,Arsenal,Tottenham,2,0,1.0
+1982-1983,20,1982-12-27,Liverpool,Manchester City,5,2,1.0
+1982-1983,20,1982-12-27,Ipswich Town,Norwich City,2,3,0.0
+1982-1983,20,1982-12-27,West Ham,Swansea City,3,2,1.0
+1982-1983,20,1982-12-27,West Brom,Notts County,2,2,0.5
+1982-1983,20,1982-12-27,Birmingham City,Aston Villa,3,0,1.0
+1982-1983,20,1982-12-27,Brighton,Southampton,0,1,0.0
+1982-1983,20,1982-12-27,Luton Town,Watford,1,0,1.0
+1982-1983,20,1982-12-27,Nott'ham Forest,Coventry City,4,2,1.0
+1982-1983,20,1982-12-27,Manchester Utd,Sunderland,0,0,0.5
+1982-1983,21,1982-12-28,Manchester City,West Brom,2,1,1.0
+1982-1983,21,1982-12-28,Tottenham,Brighton,2,0,1.0
+1982-1983,21,1982-12-28,Norwich City,Luton Town,1,0,1.0
+1982-1983,21,1982-12-28,Southampton,Arsenal,2,2,0.5
+1982-1983,21,1982-12-28,Coventry City,Manchester Utd,3,0,1.0
+1982-1983,21,1982-12-28,Sunderland,Liverpool,0,0,0.5
+1982-1983,21,1982-12-28,Everton,Nott'ham Forest,3,1,1.0
+1982-1983,21,1982-12-28,Notts County,Stoke City,4,0,1.0
+1982-1983,21,1982-12-29,Aston Villa,Ipswich Town,1,1,0.5
+1982-1983,21,1982-12-29,Watford,West Ham,2,1,1.0
+1982-1983,21,1982-12-29,Swansea City,Birmingham City,0,0,0.5
+1982-1983,22,1983-01-01,West Brom,Everton,2,2,0.5
+1982-1983,22,1983-01-01,Arsenal,Swansea City,2,1,1.0
+1982-1983,22,1983-01-01,Birmingham City,Manchester City,2,2,0.5
+1982-1983,22,1983-01-01,Nott'ham Forest,Sunderland,0,0,0.5
+1982-1983,22,1983-01-01,West Ham,Tottenham,3,0,1.0
+1982-1983,22,1983-01-01,Luton Town,Coventry City,1,2,0.0
+1982-1983,22,1983-01-01,Brighton,Watford,1,1,0.5
+1982-1983,22,1983-01-01,Manchester Utd,Aston Villa,3,1,1.0
+1982-1983,22,1983-01-01,Ipswich Town,Southampton,2,1,1.0
+1982-1983,22,1983-01-01,Stoke City,Norwich City,1,0,1.0
+1982-1983,22,1983-01-01,Liverpool,Notts County,5,1,1.0
+1982-1983,23,1983-01-03,Watford,Manchester City,2,0,1.0
+1982-1983,23,1983-01-03,Liverpool,Arsenal,3,1,1.0
+1982-1983,23,1983-01-03,Norwich City,Swansea City,1,0,1.0
+1982-1983,23,1983-01-03,Brighton,Nott'ham Forest,1,1,0.5
+1982-1983,23,1983-01-03,Aston Villa,Southampton,2,0,1.0
+1982-1983,23,1983-01-03,Tottenham,Everton,2,1,1.0
+1982-1983,23,1983-01-03,Manchester Utd,West Brom,0,0,0.5
+1982-1983,23,1983-01-03,Stoke City,Birmingham City,1,1,0.5
+1982-1983,37,1983-01-03,Notts County,Sunderland,0,1,0.0
+1982-1983,37,1983-01-04,West Ham,Luton Town,2,3,0.0
+1982-1983,24,1983-01-15,Nott'ham Forest,West Ham,1,0,1.0
+1982-1983,24,1983-01-15,Arsenal,Stoke City,3,0,1.0
+1982-1983,24,1983-01-15,Luton Town,Tottenham,1,1,0.5
+1982-1983,24,1983-01-15,Sunderland,Aston Villa,2,0,1.0
+1982-1983,24,1983-01-15,Southampton,Coventry City,1,1,0.5
+1982-1983,24,1983-01-15,Ipswich Town,Brighton,2,0,1.0
+1982-1983,24,1983-01-15,Manchester City,Norwich City,4,1,1.0
+1982-1983,24,1983-01-15,Birmingham City,Manchester Utd,1,2,0.0
+1982-1983,24,1983-01-15,West Brom,Liverpool,0,1,0.0
+1982-1983,24,1983-01-15,Swansea City,Notts County,2,0,1.0
+1982-1983,24,1983-01-15,Everton,Watford,1,0,1.0
+1982-1983,25,1983-01-22,Aston Villa,Manchester City,1,1,0.5
+1982-1983,25,1983-01-22,Notts County,Arsenal,1,0,1.0
+1982-1983,25,1983-01-22,Norwich City,Everton,0,1,0.0
+1982-1983,25,1983-01-22,Tottenham,Sunderland,1,1,0.5
+1982-1983,25,1983-01-22,Stoke City,Ipswich Town,1,0,1.0
+1982-1983,25,1983-01-22,Brighton,Luton Town,2,4,0.0
+1982-1983,25,1983-01-22,West Ham,West Brom,0,1,0.0
+1982-1983,37,1983-01-22,Liverpool,Birmingham City,1,0,1.0
+1982-1983,37,1983-01-22,Coventry City,Swansea City,0,0,0.5
+1982-1983,37,1983-01-22,Watford,Southampton,2,0,1.0
+1982-1983,37,1983-01-22,Manchester Utd,Nott'ham Forest,2,0,1.0
+1982-1983,26,1983-02-05,Southampton,Norwich City,4,0,1.0
+1982-1983,26,1983-02-05,Manchester City,Tottenham,2,2,0.5
+1982-1983,26,1983-02-05,Ipswich Town,Manchester Utd,1,1,0.5
+1982-1983,26,1983-02-05,Birmingham City,West Ham,3,0,1.0
+1982-1983,26,1983-02-05,Nott'ham Forest,Aston Villa,1,2,0.0
+1982-1983,26,1983-02-05,Everton,Notts County,3,0,1.0
+1982-1983,26,1983-02-05,Luton Town,Liverpool,1,3,0.0
+1982-1983,36,1983-02-05,Sunderland,Coventry City,2,1,1.0
+1982-1983,36,1983-02-05,Arsenal,Brighton,3,1,1.0
+1982-1983,36,1983-02-05,West Brom,Stoke City,1,1,0.5
+1982-1983,36,1983-02-06,Swansea City,Watford,1,3,0.0
+1982-1983,27,1983-02-12,Tottenham,Swansea City,1,0,1.0
+1982-1983,27,1983-02-12,Notts County,Southampton,1,2,0.0
+1982-1983,27,1983-02-12,Coventry City,Manchester City,4,0,1.0
+1982-1983,27,1983-02-12,Liverpool,Ipswich Town,1,0,1.0
+1982-1983,37,1983-02-12,Aston Villa,Everton,2,0,1.0
+1982-1983,37,1983-02-12,Brighton,West Brom,0,0,0.5
+1982-1983,28,1983-02-19,Southampton,Sunderland,2,0,1.0
+1982-1983,28,1983-02-19,Nott'ham Forest,West Brom,0,0,0.5
+1982-1983,36,1983-02-19,Manchester City,Notts County,0,1,0.0
+1982-1983,29,1983-02-26,Everton,Swansea City,2,2,0.5
+1982-1983,29,1983-02-26,Watford,Aston Villa,2,1,1.0
+1982-1983,29,1983-02-26,Ipswich Town,Luton Town,3,0,1.0
+1982-1983,29,1983-02-26,Manchester Utd,Liverpool,1,1,0.5
+1982-1983,29,1983-02-26,Sunderland,Manchester City,3,2,1.0
+1982-1983,29,1983-02-26,Brighton,Stoke City,1,2,0.0
+1982-1983,29,1983-02-26,Birmingham City,Nott'ham Forest,1,1,0.5
+1982-1983,29,1983-02-26,West Ham,Southampton,1,1,0.5
+1982-1983,29,1983-02-26,Notts County,Coventry City,5,1,1.0
+1982-1983,29,1983-02-26,Tottenham,Norwich City,0,0,0.5
+1982-1983,29,1983-02-26,West Brom,Arsenal,0,0,0.5
+1982-1983,28,1983-03-01,Swansea City,Brighton,1,2,0.0
+1982-1983,28,1983-03-02,Stoke City,Manchester Utd,1,0,1.0
+1982-1983,28,1983-03-02,Manchester City,Everton,0,0,0.5
+1982-1983,28,1983-03-02,Norwich City,Watford,3,0,1.0
+1982-1983,30,1983-03-05,Sunderland,Everton,2,1,1.0
+1982-1983,30,1983-03-05,Ipswich Town,Birmingham City,3,1,1.0
+1982-1983,30,1983-03-05,Liverpool,Stoke City,5,1,1.0
+1982-1983,30,1983-03-05,Luton Town,West Brom,0,0,0.5
+1982-1983,30,1983-03-05,Notts County,Tottenham,3,0,1.0
+1982-1983,30,1983-03-05,Southampton,Swansea City,2,1,1.0
+1982-1983,30,1983-03-05,West Ham,Brighton,2,1,1.0
+1982-1983,30,1983-03-05,Manchester City,Manchester Utd,1,2,0.0
+1982-1983,30,1983-03-05,Aston Villa,Norwich City,3,2,1.0
+1982-1983,30,1983-03-05,Coventry City,Watford,0,1,0.0
+1982-1983,30,1983-03-05,Arsenal,Nott'ham Forest,0,0,0.5
+1982-1983,28,1983-03-08,Aston Villa,Notts County,2,0,1.0
+1982-1983,28,1983-03-12,Coventry City,Tottenham,1,1,0.5
+1982-1983,28,1983-03-12,Liverpool,West Ham,3,0,1.0
+1982-1983,31,1983-03-12,Stoke City,Sunderland,0,1,0.0
+1982-1983,31,1983-03-12,West Brom,Ipswich Town,4,1,1.0
+1982-1983,31,1983-03-12,Watford,Notts County,5,3,1.0
+1982-1983,31,1983-03-12,Nott'ham Forest,Luton Town,0,1,0.0
+1982-1983,31,1983-03-12,Swansea City,Manchester City,4,1,1.0
+1982-1983,31,1983-03-12,Birmingham City,Arsenal,2,1,1.0
+1982-1983,31,1983-03-15,Everton,Southampton,2,0,1.0
+1982-1983,27,1983-03-16,Stoke City,Nott'ham Forest,1,0,1.0
+1982-1983,32,1983-03-19,Arsenal,Luton Town,4,1,1.0
+1982-1983,32,1983-03-19,Notts County,Norwich City,2,2,0.5
+1982-1983,32,1983-03-19,Ipswich Town,Nott'ham Forest,2,0,1.0
+1982-1983,32,1983-03-19,West Brom,Birmingham City,2,0,1.0
+1982-1983,32,1983-03-19,Liverpool,Everton,0,0,0.5
+1982-1983,32,1983-03-19,Manchester Utd,Brighton,1,1,0.5
+1982-1983,32,1983-03-19,Southampton,Manchester City,4,1,1.0
+1982-1983,32,1983-03-19,Watford,Tottenham,0,1,0.0
+1982-1983,32,1983-03-19,Sunderland,Swansea City,1,1,0.5
+1982-1983,32,1983-03-19,Aston Villa,Coventry City,4,0,1.0
+1982-1983,32,1983-03-19,West Ham,Stoke City,1,1,0.5
+1982-1983,27,1983-03-22,Watford,Birmingham City,2,1,1.0
+1982-1983,28,1983-03-22,Arsenal,Ipswich Town,2,2,0.5
+1982-1983,31,1983-03-22,Brighton,Liverpool,2,2,0.5
+1982-1983,31,1983-03-22,Manchester Utd,West Ham,2,1,1.0
+1982-1983,31,1983-03-23,Norwich City,Coventry City,1,1,0.5
+1982-1983,31,1983-03-23,Tottenham,Aston Villa,2,0,1.0
+1982-1983,33,1983-03-26,Brighton,Aston Villa,0,0,0.5
+1982-1983,33,1983-03-26,Birmingham City,Notts County,3,0,1.0
+1982-1983,33,1983-03-26,Nott'ham Forest,Southampton,1,2,0.0
+1982-1983,33,1983-03-26,Norwich City,West Ham,1,1,0.5
+1982-1983,33,1983-03-26,Everton,Arsenal,2,3,0.0
+1982-1983,33,1983-03-26,Manchester City,Ipswich Town,0,1,0.0
+1982-1983,33,1983-03-26,Stoke City,Watford,4,0,1.0
+1982-1983,33,1983-03-26,Luton Town,Sunderland,1,3,0.0
+1982-1983,33,1983-03-26,Swansea City,West Brom,2,1,1.0
+1982-1983,34,1983-04-02,Luton Town,Norwich City,0,1,0.0
+1982-1983,34,1983-04-02,Birmingham City,Swansea City,1,1,0.5
+1982-1983,34,1983-04-02,Brighton,Tottenham,2,1,1.0
+1982-1983,34,1983-04-02,Manchester Utd,Coventry City,3,0,1.0
+1982-1983,34,1983-04-02,Arsenal,Southampton,0,0,0.5
+1982-1983,34,1983-04-02,Nott'ham Forest,Everton,2,0,1.0
+1982-1983,34,1983-04-02,Ipswich Town,Aston Villa,1,2,0.0
+1982-1983,34,1983-04-02,West Ham,Watford,2,1,1.0
+1982-1983,34,1983-04-02,Liverpool,Sunderland,1,0,1.0
+1982-1983,34,1983-04-02,West Brom,Manchester City,0,2,0.0
+1982-1983,34,1983-04-02,Stoke City,Notts County,1,0,1.0
+1982-1983,35,1983-04-04,Manchester City,Liverpool,0,4,0.0
+1982-1983,35,1983-04-04,Tottenham,Arsenal,5,0,1.0
+1982-1983,35,1983-04-04,Norwich City,Ipswich Town,0,0,0.5
+1982-1983,35,1983-04-04,Notts County,West Brom,2,1,1.0
+1982-1983,35,1983-04-04,Sunderland,Manchester Utd,0,0,0.5
+1982-1983,35,1983-04-04,Watford,Luton Town,5,2,1.0
+1982-1983,35,1983-04-04,Aston Villa,Birmingham City,1,0,1.0
+1982-1983,35,1983-04-04,Everton,Stoke City,3,1,1.0
+1982-1983,35,1983-04-05,Southampton,Brighton,0,0,0.5
+1982-1983,35,1983-04-05,Coventry City,Nott'ham Forest,1,2,0.0
+1982-1983,35,1983-04-05,Swansea City,West Ham,1,5,0.0
+1982-1983,23,1983-04-09,West Ham,Sunderland,2,1,1.0
+1982-1983,25,1983-04-09,Manchester Utd,Southampton,1,1,0.5
+1982-1983,25,1983-04-09,Liverpool,Swansea City,3,0,1.0
+1982-1983,26,1983-04-09,Arsenal,Coventry City,2,1,1.0
+1982-1983,26,1983-04-09,West Brom,Watford,1,3,0.0
+1982-1983,27,1983-04-09,Brighton,Everton,1,2,0.0
+1982-1983,36,1983-04-09,Birmingham City,Norwich City,0,4,0.0
+1982-1983,36,1983-04-09,Luton Town,Aston Villa,2,1,1.0
+1982-1983,37,1983-04-09,Stoke City,Manchester City,1,0,1.0
+1982-1983,40,1983-04-09,Nott'ham Forest,Tottenham,2,2,0.5
+1982-1983,40,1983-04-09,Ipswich Town,Notts County,0,0,0.5
+1982-1983,28,1983-04-12,Luton Town,Birmingham City,3,1,1.0
+1982-1983,33,1983-04-12,Coventry City,Liverpool,0,0,0.5
+1982-1983,23,1983-04-16,Notts County,Luton Town,1,1,0.5
+1982-1983,25,1983-04-16,Watford,Nott'ham Forest,1,3,0.0
+1982-1983,25,1983-04-16,Coventry City,Birmingham City,0,1,0.0
+1982-1983,26,1983-04-16,Swansea City,Stoke City,1,1,0.5
+1982-1983,27,1983-04-16,Norwich City,Sunderland,2,0,1.0
+1982-1983,37,1983-04-16,Tottenham,Ipswich Town,3,1,1.0
+1982-1983,40,1983-04-16,Manchester City,West Ham,2,0,1.0
+1982-1983,40,1983-04-16,Southampton,Liverpool,3,2,1.0
+1982-1983,26,1983-04-19,Sunderland,Brighton,1,1,0.5
+1982-1983,27,1983-04-19,Aston Villa,West Brom,1,0,1.0
+1982-1983,36,1983-04-19,Everton,Manchester Utd,2,0,1.0
+1982-1983,37,1983-04-20,Norwich City,Arsenal,3,1,1.0
+1982-1983,38,1983-04-23,West Brom,Tottenham,0,1,0.0
+1982-1983,38,1983-04-23,West Ham,Aston Villa,2,0,1.0
+1982-1983,38,1983-04-23,Ipswich Town,Sunderland,4,1,1.0
+1982-1983,38,1983-04-23,Birmingham City,Everton,1,0,1.0
+1982-1983,38,1983-04-23,Luton Town,Swansea City,3,1,1.0
+1982-1983,38,1983-04-23,Liverpool,Norwich City,0,2,0.0
+1982-1983,38,1983-04-23,Stoke City,Southampton,1,1,0.5
+1982-1983,38,1983-04-23,Arsenal,Manchester City,3,0,1.0
+1982-1983,38,1983-04-23,Nott'ham Forest,Notts County,2,1,1.0
+1982-1983,38,1983-04-23,Brighton,Coventry City,1,0,1.0
+1982-1983,38,1983-04-23,Manchester Utd,Watford,2,0,1.0
+1982-1983,39,1983-04-30,Manchester City,Nott'ham Forest,1,2,0.0
+1982-1983,39,1983-04-30,Notts County,Brighton,1,0,1.0
+1982-1983,39,1983-04-30,Tottenham,Liverpool,2,0,1.0
+1982-1983,39,1983-04-30,Norwich City,Manchester Utd,1,1,0.5
+1982-1983,39,1983-04-30,Swansea City,Ipswich Town,1,1,0.5
+1982-1983,39,1983-04-30,Watford,Arsenal,2,1,1.0
+1982-1983,39,1983-04-30,Sunderland,Birmingham City,1,2,0.0
+1982-1983,39,1983-04-30,Southampton,Luton Town,2,2,0.5
+1982-1983,39,1983-04-30,Coventry City,West Brom,0,1,0.0
+1982-1983,39,1983-04-30,Aston Villa,Stoke City,4,0,1.0
+1982-1983,39,1983-04-30,Everton,West Ham,2,0,1.0
+1982-1983,36,1983-05-02,Nott'ham Forest,Liverpool,1,0,1.0
+1982-1983,40,1983-05-02,Everton,Coventry City,1,0,1.0
+1982-1983,40,1983-05-02,Birmingham City,Brighton,1,1,0.5
+1982-1983,40,1983-05-02,Arsenal,Manchester Utd,3,0,1.0
+1982-1983,40,1983-05-02,Sunderland,Watford,2,2,0.5
+1982-1983,40,1983-05-02,Luton Town,Stoke City,0,0,0.5
+1982-1983,40,1983-05-02,Swansea City,Aston Villa,2,1,1.0
+1982-1983,40,1983-05-02,West Brom,Norwich City,1,0,1.0
+1982-1983,36,1983-05-03,Ipswich Town,West Ham,1,2,0.0
+1982-1983,36,1983-05-03,Southampton,Tottenham,1,2,0.0
+1982-1983,41,1983-05-07,Manchester Utd,Swansea City,2,1,1.0
+1982-1983,41,1983-05-07,Liverpool,Aston Villa,1,1,0.5
+1982-1983,41,1983-05-07,Ipswich Town,Watford,3,1,1.0
+1982-1983,41,1983-05-07,Luton Town,Everton,1,5,0.0
+1982-1983,41,1983-05-07,West Brom,Southampton,1,0,1.0
+1982-1983,41,1983-05-07,Stoke City,Coventry City,0,3,0.0
+1982-1983,41,1983-05-07,Birmingham City,Tottenham,2,0,1.0
+1982-1983,41,1983-05-07,Brighton,Manchester City,0,1,0.0
+1982-1983,41,1983-05-07,Nott'ham Forest,Norwich City,2,2,0.5
+1982-1983,41,1983-05-07,Arsenal,Sunderland,0,1,0.0
+1982-1983,41,1983-05-07,West Ham,Notts County,2,0,1.0
+1982-1983,27,1983-05-09,Manchester Utd,Luton Town,3,0,1.0
+1982-1983,27,1983-05-10,West Ham,Arsenal,1,3,0.0
+1982-1983,33,1983-05-11,Tottenham,Manchester Utd,2,0,1.0
+1982-1983,42,1983-05-14,Sunderland,West Brom,1,1,0.5
+1982-1983,42,1983-05-14,Coventry City,West Ham,2,4,0.0
+1982-1983,42,1983-05-14,Manchester City,Luton Town,0,1,0.0
+1982-1983,42,1983-05-14,Everton,Ipswich Town,1,1,0.5
+1982-1983,42,1983-05-14,Aston Villa,Arsenal,2,1,1.0
+1982-1983,42,1983-05-14,Notts County,Manchester Utd,3,2,1.0
+1982-1983,42,1983-05-14,Tottenham,Stoke City,4,1,1.0
+1982-1983,42,1983-05-14,Southampton,Birmingham City,0,1,0.0
+1982-1983,42,1983-05-14,Swansea City,Nott'ham Forest,0,3,0.0
+1982-1983,42,1983-05-14,Norwich City,Brighton,2,1,1.0
+1982-1983,42,1983-05-14,Watford,Liverpool,2,1,1.0

@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1999-2000,1,1999-08-13,MSV Duisburg,Leverkusen,0,0,0.5
+1999-2000,1,1999-08-13,Wolfsburg,1860 Munich,2,1,1.0
+1999-2000,1,1999-08-14,Stuttgart,Werder Bremen,0,0,0.5
+1999-2000,1,1999-08-14,Schalke 04,Arminia,1,1,0.5
+1999-2000,1,1999-08-14,Kaiserslautern,Dortmund,1,0,1.0
+1999-2000,1,1999-08-14,Bayern Munich,Hamburger SV,2,2,0.5
+1999-2000,1,1999-08-14,Eint Frankfurt,Unterhaching,3,0,1.0
+1999-2000,1,1999-08-15,Ulm,Freiburg,1,1,0.5
+1999-2000,1,1999-08-15,Hertha BSC,Hansa Rostock,5,2,1.0
+1999-2000,2,1999-08-20,Arminia,Hertha BSC,1,1,0.5
+1999-2000,2,1999-08-20,Unterhaching,MSV Duisburg,2,0,1.0
+1999-2000,2,1999-08-21,Hamburger SV,Stuttgart,3,0,1.0
+1999-2000,2,1999-08-21,Dortmund,Wolfsburg,2,1,1.0
+1999-2000,2,1999-08-21,1860 Munich,Ulm,4,1,1.0
+1999-2000,2,1999-08-21,Freiburg,Eint Frankfurt,2,3,0.0
+1999-2000,2,1999-08-21,Werder Bremen,Schalke 04,0,1,0.0
+1999-2000,2,1999-08-22,Leverkusen,Bayern Munich,2,0,1.0
+1999-2000,2,1999-08-22,Hansa Rostock,Kaiserslautern,4,2,1.0
+1999-2000,3,1999-08-27,Kaiserslautern,Arminia,0,2,0.0
+1999-2000,3,1999-08-27,Schalke 04,Hamburger SV,1,3,0.0
+1999-2000,3,1999-08-28,Stuttgart,Leverkusen,1,2,0.0
+1999-2000,3,1999-08-28,Hertha BSC,Werder Bremen,1,1,0.5
+1999-2000,3,1999-08-28,Bayern Munich,Unterhaching,1,0,1.0
+1999-2000,3,1999-08-28,Wolfsburg,Hansa Rostock,2,0,1.0
+1999-2000,3,1999-08-28,Freiburg,1860 Munich,3,0,1.0
+1999-2000,3,1999-08-29,Eint Frankfurt,MSV Duisburg,2,2,0.5
+1999-2000,3,1999-08-29,Ulm,Dortmund,0,1,0.0
+1999-2000,4,1999-09-10,Hansa Rostock,Ulm,2,1,1.0
+1999-2000,4,1999-09-10,Arminia,Wolfsburg,0,0,0.5
+1999-2000,4,1999-09-11,Hamburger SV,Hertha BSC,5,1,1.0
+1999-2000,4,1999-09-11,Dortmund,Freiburg,1,1,0.5
+1999-2000,4,1999-09-11,Leverkusen,Schalke 04,3,2,1.0
+1999-2000,4,1999-09-11,Unterhaching,Stuttgart,2,0,1.0
+1999-2000,4,1999-09-11,MSV Duisburg,Bayern Munich,1,2,0.0
+1999-2000,4,1999-09-12,1860 Munich,Eint Frankfurt,2,0,1.0
+1999-2000,4,1999-09-12,Werder Bremen,Kaiserslautern,5,0,1.0
+1999-2000,5,1999-09-17,Freiburg,Hansa Rostock,5,0,1.0
+1999-2000,5,1999-09-17,1860 Munich,Dortmund,0,3,0.0
+1999-2000,5,1999-09-18,Schalke 04,Unterhaching,1,0,1.0
+1999-2000,5,1999-09-18,Hertha BSC,Leverkusen,0,0,0.5
+1999-2000,5,1999-09-18,Stuttgart,MSV Duisburg,4,2,1.0
+1999-2000,5,1999-09-18,Eint Frankfurt,Bayern Munich,1,2,0.0
+1999-2000,5,1999-09-18,Ulm,Arminia,2,0,1.0
+1999-2000,5,1999-09-19,Kaiserslautern,Hamburger SV,2,0,1.0
+1999-2000,5,1999-09-19,Wolfsburg,Werder Bremen,2,7,0.0
+1999-2000,6,1999-09-24,Bayern Munich,Stuttgart,0,1,0.0
+1999-2000,6,1999-09-24,Hamburger SV,Wolfsburg,2,2,0.5
+1999-2000,6,1999-09-25,MSV Duisburg,Schalke 04,1,1,0.5
+1999-2000,6,1999-09-25,Unterhaching,Hertha BSC,1,1,0.5
+1999-2000,6,1999-09-25,Dortmund,Eint Frankfurt,1,0,1.0
+1999-2000,6,1999-09-25,Werder Bremen,Ulm,2,2,0.5
+1999-2000,6,1999-09-25,Hansa Rostock,1860 Munich,0,0,0.5
+1999-2000,6,1999-09-26,Leverkusen,Kaiserslautern,3,1,1.0
+1999-2000,6,1999-09-26,Arminia,Freiburg,2,1,1.0
+1999-2000,7,1999-10-01,Eint Frankfurt,Stuttgart,0,1,0.0
+1999-2000,7,1999-10-01,1860 Munich,Arminia,5,0,1.0
+1999-2000,7,1999-10-02,Hertha BSC,MSV Duisburg,2,1,1.0
+1999-2000,7,1999-10-02,Dortmund,Hansa Rostock,3,0,1.0
+1999-2000,7,1999-10-02,Wolfsburg,Leverkusen,3,1,1.0
+1999-2000,7,1999-10-02,Schalke 04,Bayern Munich,1,1,0.5
+1999-2000,7,1999-10-02,Ulm,Hamburger SV,1,2,0.0
+1999-2000,7,1999-10-03,Kaiserslautern,Unterhaching,4,2,1.0
+1999-2000,7,1999-10-03,Freiburg,Werder Bremen,2,1,1.0
+1999-2000,8,1999-10-15,Leverkusen,Ulm,4,1,1.0
+1999-2000,8,1999-10-15,Arminia,Dortmund,0,2,0.0
+1999-2000,8,1999-10-16,Hamburger SV,Freiburg,2,0,1.0
+1999-2000,8,1999-10-16,Werder Bremen,1860 Munich,1,3,0.0
+1999-2000,8,1999-10-16,Bayern Munich,Hertha BSC,3,1,1.0
+1999-2000,8,1999-10-16,Hansa Rostock,Eint Frankfurt,3,1,1.0
+1999-2000,8,1999-10-16,MSV Duisburg,Kaiserslautern,2,2,0.5
+1999-2000,8,1999-10-17,Unterhaching,Wolfsburg,1,1,0.5
+1999-2000,8,1999-10-17,Stuttgart,Schalke 04,0,2,0.0
+1999-2000,9,1999-10-22,Hansa Rostock,Arminia,2,1,1.0
+1999-2000,9,1999-10-22,Eint Frankfurt,Schalke 04,0,2,0.0
+1999-2000,9,1999-10-23,Ulm,Unterhaching,1,0,1.0
+1999-2000,9,1999-10-23,1860 Munich,Hamburger SV,0,0,0.5
+1999-2000,9,1999-10-23,Freiburg,Leverkusen,0,0,0.5
+1999-2000,9,1999-10-23,Kaiserslautern,Bayern Munich,0,2,0.0
+1999-2000,9,1999-10-23,Hertha BSC,Stuttgart,1,1,0.5
+1999-2000,9,1999-10-24,Dortmund,Werder Bremen,1,3,0.0
+1999-2000,9,1999-10-24,Wolfsburg,MSV Duisburg,1,0,1.0
+1999-2000,10,1999-10-29,Arminia,Eint Frankfurt,1,1,0.5
+1999-2000,10,1999-10-29,Werder Bremen,Hansa Rostock,2,1,1.0
+1999-2000,10,1999-10-30,Hamburger SV,Dortmund,1,1,0.5
+1999-2000,10,1999-10-30,MSV Duisburg,Ulm,0,0,0.5
+1999-2000,10,1999-10-30,Leverkusen,1860 Munich,1,1,0.5
+1999-2000,10,1999-10-30,Bayern Munich,Wolfsburg,5,0,1.0
+1999-2000,10,1999-10-30,Schalke 04,Hertha BSC,1,1,0.5
+1999-2000,10,1999-10-31,Unterhaching,Freiburg,1,0,1.0
+1999-2000,10,1999-10-31,Stuttgart,Kaiserslautern,0,1,0.0
+1999-2000,11,1999-11-05,Freiburg,MSV Duisburg,3,0,1.0
+1999-2000,11,1999-11-05,Hansa Rostock,Hamburger SV,3,3,0.5
+1999-2000,11,1999-11-06,Ulm,Bayern Munich,0,1,0.0
+1999-2000,11,1999-11-06,Wolfsburg,Stuttgart,0,2,0.0
+1999-2000,11,1999-11-06,Dortmund,Leverkusen,1,1,0.5
+1999-2000,11,1999-11-06,1860 Munich,Unterhaching,2,1,1.0
+1999-2000,11,1999-11-06,Eint Frankfurt,Hertha BSC,4,0,1.0
+1999-2000,11,1999-11-07,Arminia,Werder Bremen,2,2,0.5
+1999-2000,11,1999-11-07,Kaiserslautern,Schalke 04,2,1,1.0
+1999-2000,12,1999-11-19,Werder Bremen,Eint Frankfurt,3,1,1.0
+1999-2000,12,1999-11-20,Schalke 04,Wolfsburg,1,1,0.5
+1999-2000,12,1999-11-20,Leverkusen,Hansa Rostock,1,1,0.5
+1999-2000,12,1999-11-20,Bayern Munich,Freiburg,6,1,1.0
+1999-2000,12,1999-11-20,Stuttgart,Ulm,2,0,1.0
+1999-2000,12,1999-11-20,Hertha BSC,Kaiserslautern,0,1,0.0
+1999-2000,12,1999-11-21,MSV Duisburg,1860 Munich,3,0,1.0
+1999-2000,12,1999-11-21,Hamburger SV,Arminia,5,0,1.0
+1999-2000,13,1999-11-26,Freiburg,Stuttgart,0,2,0.0
+1999-2000,13,1999-11-26,Ulm,Schalke 04,1,1,0.5
+1999-2000,13,1999-11-27,Hansa Rostock,Unterhaching,1,1,0.5
+1999-2000,13,1999-11-27,Wolfsburg,Hertha BSC,2,3,0.0
+1999-2000,13,1999-11-27,Arminia,Leverkusen,1,2,0.0
+1999-2000,13,1999-11-27,1860 Munich,Bayern Munich,1,0,1.0
+1999-2000,13,1999-11-28,Dortmund,MSV Duisburg,2,2,0.5
+1999-2000,13,1999-11-28,Eint Frankfurt,Kaiserslautern,0,1,0.0
+1999-2000,13,1999-11-28,Werder Bremen,Hamburger SV,2,1,1.0
+1999-2000,12,1999-12-01,Unterhaching,Dortmund,1,0,1.0
+1999-2000,14,1999-12-03,MSV Duisburg,Hansa Rostock,2,2,0.5
+1999-2000,14,1999-12-03,Hamburger SV,Eint Frankfurt,1,0,1.0
+1999-2000,14,1999-12-04,Stuttgart,1860 Munich,1,3,0.0
+1999-2000,14,1999-12-04,Schalke 04,Freiburg,2,2,0.5
+1999-2000,14,1999-12-04,Hertha BSC,Ulm,3,0,1.0
+1999-2000,14,1999-12-04,Bayern Munich,Dortmund,1,1,0.5
+1999-2000,14,1999-12-04,Leverkusen,Werder Bremen,3,2,1.0
+1999-2000,14,1999-12-05,Unterhaching,Arminia,2,0,1.0
+1999-2000,14,1999-12-05,Kaiserslautern,Wolfsburg,2,2,0.5
+1999-2000,15,1999-12-10,Arminia,MSV Duisburg,0,1,0.0
+1999-2000,15,1999-12-10,Werder Bremen,Unterhaching,2,2,0.5
+1999-2000,15,1999-12-11,1860 Munich,Schalke 04,3,3,0.5
+1999-2000,15,1999-12-11,Freiburg,Hertha BSC,0,1,0.0
+1999-2000,15,1999-12-11,Hansa Rostock,Bayern Munich,0,3,0.0
+1999-2000,15,1999-12-11,Dortmund,Stuttgart,1,1,0.5
+1999-2000,15,1999-12-12,Wolfsburg,Eint Frankfurt,1,0,1.0
+1999-2000,15,1999-12-12,Leverkusen,Hamburger SV,2,2,0.5
+1999-2000,15,1999-12-12,Ulm,Kaiserslautern,3,1,1.0
+1999-2000,16,1999-12-14,Stuttgart,Hansa Rostock,3,1,1.0
+1999-2000,16,1999-12-14,Hertha BSC,1860 Munich,1,1,0.5
+1999-2000,16,1999-12-14,Bayern Munich,Arminia,2,1,1.0
+1999-2000,16,1999-12-14,MSV Duisburg,Werder Bremen,0,1,0.0
+1999-2000,16,1999-12-15,Schalke 04,Dortmund,0,0,0.5
+1999-2000,16,1999-12-15,Wolfsburg,Ulm,1,2,0.0
+1999-2000,16,1999-12-15,Eint Frankfurt,Leverkusen,1,2,0.0
+1999-2000,16,1999-12-15,Unterhaching,Hamburger SV,1,1,0.5
+1999-2000,16,1999-12-15,Kaiserslautern,Freiburg,0,2,0.0
+1999-2000,17,1999-12-17,Arminia,Stuttgart,1,2,0.0
+1999-2000,17,1999-12-17,Werder Bremen,Bayern Munich,0,2,0.0
+1999-2000,17,1999-12-18,Ulm,Eint Frankfurt,3,0,1.0
+1999-2000,17,1999-12-18,Freiburg,Wolfsburg,1,1,0.5
+1999-2000,17,1999-12-18,Leverkusen,Unterhaching,2,1,1.0
+1999-2000,17,1999-12-18,Hamburger SV,MSV Duisburg,6,1,1.0
+1999-2000,17,1999-12-18,1860 Munich,Kaiserslautern,2,1,1.0
+1999-2000,17,1999-12-19,Dortmund,Hertha BSC,4,0,1.0
+1999-2000,17,1999-12-19,Hansa Rostock,Schalke 04,1,0,1.0
+1999-2000,18,2000-02-04,Hansa Rostock,Hertha BSC,0,1,0.0
+1999-2000,18,2000-02-04,Dortmund,Kaiserslautern,0,1,0.0
+1999-2000,18,2000-02-05,Freiburg,Ulm,2,0,1.0
+1999-2000,18,2000-02-05,Arminia,Schalke 04,1,2,0.0
+1999-2000,18,2000-02-05,Werder Bremen,Stuttgart,2,1,1.0
+1999-2000,18,2000-02-05,1860 Munich,Wolfsburg,1,2,0.0
+1999-2000,18,2000-02-05,Leverkusen,MSV Duisburg,3,0,1.0
+1999-2000,18,2000-02-06,Unterhaching,Eint Frankfurt,1,0,1.0
+1999-2000,18,2000-02-06,Hamburger SV,Bayern Munich,0,0,0.5
+1999-2000,19,2000-02-08,Kaiserslautern,Hansa Rostock,2,2,0.5
+1999-2000,19,2000-02-08,Ulm,1860 Munich,3,0,1.0
+1999-2000,19,2000-02-08,Hertha BSC,Arminia,2,0,1.0
+1999-2000,19,2000-02-08,Schalke 04,Werder Bremen,3,1,1.0
+1999-2000,19,2000-02-09,MSV Duisburg,Unterhaching,2,0,1.0
+1999-2000,19,2000-02-09,Eint Frankfurt,Freiburg,2,0,1.0
+1999-2000,19,2000-02-09,Bayern Munich,Leverkusen,4,1,1.0
+1999-2000,19,2000-02-09,Stuttgart,Hamburger SV,1,3,0.0
+1999-2000,19,2000-02-09,Wolfsburg,Dortmund,1,0,1.0
+1999-2000,20,2000-02-11,Werder Bremen,Hertha BSC,4,1,1.0
+1999-2000,20,2000-02-11,Arminia,Kaiserslautern,1,2,0.0
+1999-2000,20,2000-02-12,Hansa Rostock,Wolfsburg,1,1,0.5
+1999-2000,20,2000-02-12,MSV Duisburg,Eint Frankfurt,2,3,0.0
+1999-2000,20,2000-02-12,Dortmund,Ulm,1,1,0.5
+1999-2000,20,2000-02-12,Unterhaching,Bayern Munich,0,2,0.0
+1999-2000,20,2000-02-12,Leverkusen,Stuttgart,1,0,1.0
+1999-2000,20,2000-02-13,Hamburger SV,Schalke 04,3,1,1.0
+1999-2000,20,2000-02-13,1860 Munich,Freiburg,3,1,1.0
+1999-2000,21,2000-02-18,Hertha BSC,Hamburger SV,2,1,1.0
+1999-2000,21,2000-02-18,Schalke 04,Leverkusen,1,1,0.5
+1999-2000,21,2000-02-19,Freiburg,Dortmund,1,1,0.5
+1999-2000,21,2000-02-19,Eint Frankfurt,1860 Munich,3,1,1.0
+1999-2000,21,2000-02-19,Stuttgart,Unterhaching,0,2,0.0
+1999-2000,21,2000-02-19,Kaiserslautern,Werder Bremen,4,3,1.0
+1999-2000,21,2000-02-19,Bayern Munich,MSV Duisburg,4,1,1.0
+1999-2000,21,2000-02-20,Ulm,Hansa Rostock,1,1,0.5
+1999-2000,21,2000-02-20,Wolfsburg,Arminia,2,0,1.0
+1999-2000,22,2000-02-25,Hansa Rostock,Freiburg,1,1,0.5
+1999-2000,22,2000-02-26,Hamburger SV,Kaiserslautern,2,1,1.0
+1999-2000,22,2000-02-26,Leverkusen,Hertha BSC,3,1,1.0
+1999-2000,22,2000-02-26,MSV Duisburg,Stuttgart,1,3,0.0
+1999-2000,22,2000-02-26,Werder Bremen,Wolfsburg,2,2,0.5
+1999-2000,22,2000-02-26,Bayern Munich,Eint Frankfurt,4,1,1.0
+1999-2000,22,2000-02-27,Unterhaching,Schalke 04,3,1,1.0
+1999-2000,22,2000-02-27,Dortmund,1860 Munich,1,1,0.5
+1999-2000,22,2000-02-28,Arminia,Ulm,4,1,1.0
+1999-2000,23,2000-03-03,Wolfsburg,Hamburger SV,4,4,0.5
+1999-2000,23,2000-03-03,Freiburg,Arminia,1,1,0.5
+1999-2000,23,2000-03-04,Hertha BSC,Unterhaching,2,1,1.0
+1999-2000,23,2000-03-04,Schalke 04,MSV Duisburg,3,0,1.0
+1999-2000,23,2000-03-04,Kaiserslautern,Leverkusen,1,3,0.0
+1999-2000,23,2000-03-04,1860 Munich,Hansa Rostock,4,3,1.0
+1999-2000,23,2000-03-04,Stuttgart,Bayern Munich,2,0,1.0
+1999-2000,23,2000-03-05,Eint Frankfurt,Dortmund,1,1,0.5
+1999-2000,23,2000-03-05,Ulm,Werder Bremen,2,1,1.0
+1999-2000,24,2000-03-10,Unterhaching,Kaiserslautern,1,2,0.0
+1999-2000,24,2000-03-10,Stuttgart,Eint Frankfurt,0,2,0.0
+1999-2000,24,2000-03-11,Hamburger SV,Ulm,1,2,0.0
+1999-2000,24,2000-03-11,Arminia,1860 Munich,2,2,0.5
+1999-2000,24,2000-03-11,MSV Duisburg,Hertha BSC,0,0,0.5
+1999-2000,24,2000-03-11,Bayern Munich,Schalke 04,4,1,1.0
+1999-2000,24,2000-03-11,Leverkusen,Wolfsburg,4,1,1.0
+1999-2000,24,2000-03-12,Werder Bremen,Freiburg,5,2,1.0
+1999-2000,24,2000-03-12,Hansa Rostock,Dortmund,1,0,1.0
+1999-2000,25,2000-03-17,Wolfsburg,Unterhaching,2,2,0.5
+1999-2000,25,2000-03-17,Eint Frankfurt,Hansa Rostock,0,0,0.5
+1999-2000,25,2000-03-18,Schalke 04,Stuttgart,3,0,1.0
+1999-2000,25,2000-03-18,Hertha BSC,Bayern Munich,1,1,0.5
+1999-2000,25,2000-03-18,Freiburg,Hamburger SV,0,2,0.0
+1999-2000,25,2000-03-18,Kaiserslautern,MSV Duisburg,3,2,1.0
+1999-2000,25,2000-03-18,Ulm,Leverkusen,1,9,0.0
+1999-2000,25,2000-03-19,1860 Munich,Werder Bremen,1,0,1.0
+1999-2000,25,2000-03-19,Dortmund,Arminia,1,3,0.0
+1999-2000,26,2000-03-24,Unterhaching,Ulm,1,0,1.0
+1999-2000,26,2000-03-24,Arminia,Hansa Rostock,2,2,0.5
+1999-2000,26,2000-03-25,Bayern Munich,Kaiserslautern,2,2,0.5
+1999-2000,26,2000-03-25,MSV Duisburg,Wolfsburg,2,3,0.0
+1999-2000,26,2000-03-25,Stuttgart,Hertha BSC,1,0,1.0
+1999-2000,26,2000-03-25,Leverkusen,Freiburg,1,1,0.5
+1999-2000,26,2000-03-25,Hamburger SV,1860 Munich,2,0,1.0
+1999-2000,26,2000-03-26,Werder Bremen,Dortmund,3,2,1.0
+1999-2000,26,2000-03-26,Schalke 04,Eint Frankfurt,0,0,0.5
+1999-2000,27,2000-03-31,Ulm,MSV Duisburg,0,3,0.0
+1999-2000,27,2000-03-31,Freiburg,Unterhaching,4,3,1.0
+1999-2000,27,2000-04-01,Wolfsburg,Bayern Munich,1,1,0.5
+1999-2000,27,2000-04-01,1860 Munich,Leverkusen,1,2,0.0
+1999-2000,27,2000-04-01,Dortmund,Hamburger SV,0,1,0.0
+1999-2000,27,2000-04-01,Eint Frankfurt,Arminia,2,1,1.0
+1999-2000,27,2000-04-01,Hertha BSC,Schalke 04,2,1,1.0
+1999-2000,27,2000-04-02,Kaiserslautern,Stuttgart,1,2,0.0
+1999-2000,27,2000-04-02,Hansa Rostock,Werder Bremen,1,1,0.5
+1999-2000,28,2000-04-07,Hamburger SV,Hansa Rostock,1,0,1.0
+1999-2000,28,2000-04-07,Unterhaching,1860 Munich,1,1,0.5
+1999-2000,28,2000-04-08,Bayern Munich,Ulm,4,0,1.0
+1999-2000,28,2000-04-08,Schalke 04,Kaiserslautern,1,2,0.0
+1999-2000,28,2000-04-08,Hertha BSC,Eint Frankfurt,1,0,1.0
+1999-2000,28,2000-04-08,Leverkusen,Dortmund,3,1,1.0
+1999-2000,28,2000-04-08,Stuttgart,Wolfsburg,2,5,0.0
+1999-2000,28,2000-04-09,MSV Duisburg,Freiburg,1,2,0.0
+1999-2000,28,2000-04-09,Werder Bremen,Arminia,3,1,1.0
+1999-2000,29,2000-04-11,Wolfsburg,Schalke 04,0,0,0.5
+1999-2000,29,2000-04-11,Kaiserslautern,Hertha BSC,1,2,0.0
+1999-2000,29,2000-04-11,Dortmund,Unterhaching,1,3,0.0
+1999-2000,29,2000-04-11,Ulm,Stuttgart,1,1,0.5
+1999-2000,29,2000-04-12,Hansa Rostock,Leverkusen,1,1,0.5
+1999-2000,29,2000-04-12,1860 Munich,MSV Duisburg,4,1,1.0
+1999-2000,29,2000-04-12,Arminia,Hamburger SV,3,0,1.0
+1999-2000,29,2000-04-12,Freiburg,Bayern Munich,1,2,0.0
+1999-2000,29,2000-04-12,Eint Frankfurt,Werder Bremen,1,0,1.0
+1999-2000,30,2000-04-14,Schalke 04,Ulm,0,0,0.5
+1999-2000,30,2000-04-14,Hertha BSC,Wolfsburg,0,0,0.5
+1999-2000,30,2000-04-15,Hamburger SV,Werder Bremen,0,0,0.5
+1999-2000,30,2000-04-15,Kaiserslautern,Eint Frankfurt,1,0,1.0
+1999-2000,30,2000-04-15,MSV Duisburg,Dortmund,2,2,0.5
+1999-2000,30,2000-04-15,Stuttgart,Freiburg,1,0,1.0
+1999-2000,30,2000-04-15,Bayern Munich,1860 Munich,1,2,0.0
+1999-2000,30,2000-04-16,Unterhaching,Hansa Rostock,1,1,0.5
+1999-2000,30,2000-04-16,Leverkusen,Arminia,4,1,1.0
+1999-2000,31,2000-04-20,Werder Bremen,Leverkusen,1,3,0.0
+1999-2000,31,2000-04-20,Eint Frankfurt,Hamburger SV,3,0,1.0
+1999-2000,31,2000-04-22,Hansa Rostock,MSV Duisburg,3,1,1.0
+1999-2000,31,2000-04-22,Ulm,Hertha BSC,0,1,0.0
+1999-2000,31,2000-04-22,Freiburg,Schalke 04,2,1,1.0
+1999-2000,31,2000-04-22,1860 Munich,Stuttgart,1,1,0.5
+1999-2000,31,2000-04-22,Wolfsburg,Kaiserslautern,3,2,1.0
+1999-2000,31,2000-04-23,Dortmund,Bayern Munich,0,1,0.0
+1999-2000,31,2000-04-23,Arminia,Unterhaching,1,0,1.0
+1999-2000,32,2000-04-27,MSV Duisburg,Arminia,0,3,0.0
+1999-2000,32,2000-04-28,Hertha BSC,Freiburg,0,0,0.5
+1999-2000,32,2000-04-28,Eint Frankfurt,Wolfsburg,4,0,1.0
+1999-2000,32,2000-04-29,Stuttgart,Dortmund,1,2,0.0
+1999-2000,32,2000-04-29,Kaiserslautern,Ulm,6,2,1.0
+1999-2000,32,2000-04-29,Bayern Munich,Hansa Rostock,4,1,1.0
+1999-2000,32,2000-04-29,Schalke 04,1860 Munich,2,2,0.5
+1999-2000,32,2000-04-30,Unterhaching,Werder Bremen,1,0,1.0
+1999-2000,32,2000-04-30,Hamburger SV,Leverkusen,0,2,0.0
+1999-2000,33,2000-05-13,Freiburg,Kaiserslautern,2,1,1.0
+1999-2000,33,2000-05-13,Dortmund,Schalke 04,1,1,0.5
+1999-2000,33,2000-05-13,Werder Bremen,MSV Duisburg,4,0,1.0
+1999-2000,33,2000-05-13,Hamburger SV,Unterhaching,3,0,1.0
+1999-2000,33,2000-05-13,Leverkusen,Eint Frankfurt,4,1,1.0
+1999-2000,33,2000-05-13,Ulm,Wolfsburg,2,0,1.0
+1999-2000,33,2000-05-13,Hansa Rostock,Stuttgart,1,4,0.0
+1999-2000,33,2000-05-13,1860 Munich,Hertha BSC,2,1,1.0
+1999-2000,33,2000-05-13,Arminia,Bayern Munich,0,3,0.0
+1999-2000,34,2000-05-20,Schalke 04,Hansa Rostock,0,2,0.0
+1999-2000,34,2000-05-20,Unterhaching,Leverkusen,2,0,1.0
+1999-2000,34,2000-05-20,Stuttgart,Arminia,3,3,0.5
+1999-2000,34,2000-05-20,Wolfsburg,Freiburg,2,1,1.0
+1999-2000,34,2000-05-20,Hertha BSC,Dortmund,0,3,0.0
+1999-2000,34,2000-05-20,Eint Frankfurt,Ulm,2,1,1.0
+1999-2000,34,2000-05-20,Bayern Munich,Werder Bremen,3,1,1.0
+1999-2000,34,2000-05-20,Kaiserslautern,1860 Munich,1,1,0.5
+1999-2000,34,2000-05-20,MSV Duisburg,Hamburger SV,1,1,0.5

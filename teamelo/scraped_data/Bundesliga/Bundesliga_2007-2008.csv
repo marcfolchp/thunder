@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2007-2008,1,2007-08-10,Stuttgart,Schalke 04,2,2,0.5
+2007-2008,1,2007-08-11,Bochum,Werder Bremen,2,2,0.5
+2007-2008,1,2007-08-11,Wolfsburg,Arminia,1,3,0.0
+2007-2008,1,2007-08-11,Bayern Munich,Hansa Rostock,3,0,1.0
+2007-2008,1,2007-08-11,Hannover 96,Hamburger SV,0,1,0.0
+2007-2008,1,2007-08-11,Eint Frankfurt,Hertha BSC,1,0,1.0
+2007-2008,1,2007-08-11,Leverkusen,Energie Cottbus,0,0,0.5
+2007-2008,1,2007-08-12,Dortmund,MSV Duisburg,1,3,0.0
+2007-2008,1,2007-08-12,Nürnberg,Karlsruher,0,2,0.0
+2007-2008,2,2007-08-17,Karlsruher,Hannover 96,1,2,0.0
+2007-2008,2,2007-08-18,Hansa Rostock,Nürnberg,1,2,0.0
+2007-2008,2,2007-08-18,MSV Duisburg,Wolfsburg,1,3,0.0
+2007-2008,2,2007-08-18,Schalke 04,Dortmund,4,1,1.0
+2007-2008,2,2007-08-18,Arminia,Eint Frankfurt,2,2,0.5
+2007-2008,2,2007-08-18,Hertha BSC,Stuttgart,3,1,1.0
+2007-2008,2,2007-08-18,Werder Bremen,Bayern Munich,0,4,0.0
+2007-2008,2,2007-08-19,Hamburger SV,Leverkusen,1,0,1.0
+2007-2008,2,2007-08-19,Energie Cottbus,Bochum,1,2,0.0
+2007-2008,3,2007-08-24,Bochum,Hamburger SV,2,1,1.0
+2007-2008,3,2007-08-25,Stuttgart,MSV Duisburg,1,0,1.0
+2007-2008,3,2007-08-25,Dortmund,Energie Cottbus,3,0,1.0
+2007-2008,3,2007-08-25,Nürnberg,Werder Bremen,0,1,0.0
+2007-2008,3,2007-08-25,Arminia,Hertha BSC,2,0,1.0
+2007-2008,3,2007-08-25,Leverkusen,Karlsruher,3,0,1.0
+2007-2008,3,2007-08-25,Bayern Munich,Hannover 96,3,0,1.0
+2007-2008,3,2007-08-26,Wolfsburg,Schalke 04,1,1,0.5
+2007-2008,3,2007-08-26,Eint Frankfurt,Hansa Rostock,1,0,1.0
+2007-2008,4,2007-08-31,Schalke 04,Leverkusen,1,1,0.5
+2007-2008,4,2007-09-01,Hannover 96,Bochum,3,2,1.0
+2007-2008,4,2007-09-01,Werder Bremen,Eint Frankfurt,2,1,1.0
+2007-2008,4,2007-09-01,Energie Cottbus,Nürnberg,1,1,0.5
+2007-2008,4,2007-09-01,MSV Duisburg,Arminia,3,0,1.0
+2007-2008,4,2007-09-01,Hansa Rostock,Dortmund,0,1,0.0
+2007-2008,4,2007-09-01,Hertha BSC,Wolfsburg,2,1,1.0
+2007-2008,4,2007-09-02,Hamburger SV,Bayern Munich,1,1,0.5
+2007-2008,4,2007-09-02,Karlsruher,Stuttgart,1,0,1.0
+2007-2008,5,2007-09-14,Dortmund,Werder Bremen,3,0,1.0
+2007-2008,5,2007-09-15,Arminia,Hansa Rostock,4,2,1.0
+2007-2008,5,2007-09-15,Bayern Munich,Schalke 04,1,1,0.5
+2007-2008,5,2007-09-15,Eint Frankfurt,Hamburger SV,2,1,1.0
+2007-2008,5,2007-09-15,Nürnberg,Hannover 96,2,2,0.5
+2007-2008,5,2007-09-15,Stuttgart,Energie Cottbus,3,0,1.0
+2007-2008,5,2007-09-15,Leverkusen,Bochum,2,0,1.0
+2007-2008,5,2007-09-16,MSV Duisburg,Hertha BSC,1,2,0.0
+2007-2008,5,2007-09-16,Wolfsburg,Karlsruher,1,2,0.0
+2007-2008,6,2007-09-21,Bochum,Eint Frankfurt,0,0,0.5
+2007-2008,6,2007-09-22,Energie Cottbus,Wolfsburg,1,2,0.0
+2007-2008,6,2007-09-22,Hertha BSC,Dortmund,3,2,1.0
+2007-2008,6,2007-09-22,Hamburger SV,Nürnberg,1,0,1.0
+2007-2008,6,2007-09-22,Schalke 04,Arminia,3,0,1.0
+2007-2008,6,2007-09-22,Werder Bremen,Stuttgart,4,1,1.0
+2007-2008,6,2007-09-22,Hansa Rostock,MSV Duisburg,2,0,1.0
+2007-2008,6,2007-09-23,Hannover 96,Leverkusen,0,3,0.0
+2007-2008,6,2007-09-23,Karlsruher,Bayern Munich,1,4,0.0
+2007-2008,7,2007-09-25,MSV Duisburg,Schalke 04,0,2,0.0
+2007-2008,7,2007-09-25,Dortmund,Hamburger SV,0,3,0.0
+2007-2008,7,2007-09-25,Hertha BSC,Hansa Rostock,1,3,0.0
+2007-2008,7,2007-09-25,Wolfsburg,Werder Bremen,1,1,0.5
+2007-2008,7,2007-09-26,Stuttgart,Bochum,1,0,1.0
+2007-2008,7,2007-09-26,Arminia,Hannover 96,0,2,0.0
+2007-2008,7,2007-09-26,Bayern Munich,Energie Cottbus,5,0,1.0
+2007-2008,7,2007-09-26,Nürnberg,Leverkusen,1,2,0.0
+2007-2008,7,2007-09-26,Eint Frankfurt,Karlsruher,0,1,0.0
+2007-2008,8,2007-09-28,Schalke 04,Hertha BSC,1,0,1.0
+2007-2008,8,2007-09-29,Leverkusen,Bayern Munich,0,1,0.0
+2007-2008,8,2007-09-29,Karlsruher,Dortmund,3,1,1.0
+2007-2008,8,2007-09-29,Werder Bremen,Arminia,8,1,1.0
+2007-2008,8,2007-09-29,Bochum,Nürnberg,3,3,0.5
+2007-2008,8,2007-09-29,Hamburger SV,Wolfsburg,2,2,0.5
+2007-2008,8,2007-09-29,Hansa Rostock,Stuttgart,2,1,1.0
+2007-2008,8,2007-09-30,Hannover 96,MSV Duisburg,2,1,1.0
+2007-2008,8,2007-09-30,Energie Cottbus,Eint Frankfurt,2,2,0.5
+2007-2008,9,2007-10-05,Dortmund,Bochum,2,1,1.0
+2007-2008,9,2007-10-06,Stuttgart,Hannover 96,0,2,0.0
+2007-2008,9,2007-10-06,Hertha BSC,Energie Cottbus,0,0,0.5
+2007-2008,9,2007-10-06,Wolfsburg,Hansa Rostock,1,0,1.0
+2007-2008,9,2007-10-06,Arminia,Hamburger SV,0,1,0.0
+2007-2008,9,2007-10-06,Schalke 04,Karlsruher,0,2,0.0
+2007-2008,9,2007-10-06,MSV Duisburg,Werder Bremen,1,3,0.0
+2007-2008,9,2007-10-07,Bayern Munich,Nürnberg,3,0,1.0
+2007-2008,9,2007-10-07,Eint Frankfurt,Leverkusen,2,1,1.0
+2007-2008,10,2007-10-19,Energie Cottbus,MSV Duisburg,1,2,0.0
+2007-2008,10,2007-10-20,Bochum,Bayern Munich,1,2,0.0
+2007-2008,10,2007-10-20,Nürnberg,Eint Frankfurt,5,1,1.0
+2007-2008,10,2007-10-20,Hansa Rostock,Schalke 04,1,1,0.5
+2007-2008,10,2007-10-20,Leverkusen,Dortmund,2,2,0.5
+2007-2008,10,2007-10-20,Werder Bremen,Hertha BSC,3,2,1.0
+2007-2008,10,2007-10-20,Hamburger SV,Stuttgart,4,1,1.0
+2007-2008,10,2007-10-21,Hannover 96,Wolfsburg,2,2,0.5
+2007-2008,10,2007-10-21,Karlsruher,Arminia,0,0,0.5
+2007-2008,11,2007-10-26,Eint Frankfurt,Hannover 96,0,0,0.5
+2007-2008,11,2007-10-27,Hansa Rostock,Karlsruher,0,0,0.5
+2007-2008,11,2007-10-27,Schalke 04,Werder Bremen,1,1,0.5
+2007-2008,11,2007-10-27,Wolfsburg,Nürnberg,3,1,1.0
+2007-2008,11,2007-10-27,Hertha BSC,Bochum,2,0,1.0
+2007-2008,11,2007-10-27,Arminia,Energie Cottbus,1,1,0.5
+2007-2008,11,2007-10-27,Stuttgart,Leverkusen,1,0,1.0
+2007-2008,11,2007-10-28,Dortmund,Bayern Munich,0,0,0.5
+2007-2008,11,2007-10-28,MSV Duisburg,Hamburger SV,0,1,0.0
+2007-2008,12,2007-11-02,Energie Cottbus,Schalke 04,1,0,1.0
+2007-2008,12,2007-11-03,Bayern Munich,Eint Frankfurt,0,0,0.5
+2007-2008,12,2007-11-03,Werder Bremen,Hansa Rostock,1,0,1.0
+2007-2008,12,2007-11-03,Hamburger SV,Hertha BSC,2,1,1.0
+2007-2008,12,2007-11-03,Leverkusen,Arminia,4,0,1.0
+2007-2008,12,2007-11-03,Hannover 96,Dortmund,2,1,1.0
+2007-2008,12,2007-11-03,Nürnberg,Stuttgart,0,1,0.0
+2007-2008,12,2007-11-04,Bochum,Wolfsburg,5,3,1.0
+2007-2008,12,2007-11-04,Karlsruher,MSV Duisburg,1,0,1.0
+2007-2008,13,2007-11-09,MSV Duisburg,Bochum,0,2,0.0
+2007-2008,13,2007-11-10,Dortmund,Eint Frankfurt,1,1,0.5
+2007-2008,13,2007-11-10,Stuttgart,Bayern Munich,3,1,1.0
+2007-2008,13,2007-11-10,Hansa Rostock,Energie Cottbus,3,2,1.0
+2007-2008,13,2007-11-10,Schalke 04,Hamburger SV,1,1,0.5
+2007-2008,13,2007-11-10,Werder Bremen,Karlsruher,4,0,1.0
+2007-2008,13,2007-11-10,Hertha BSC,Hannover 96,1,0,1.0
+2007-2008,13,2007-11-11,Arminia,Nürnberg,3,1,1.0
+2007-2008,13,2007-11-11,Wolfsburg,Leverkusen,1,2,0.0
+2007-2008,14,2007-11-23,Karlsruher,Hertha BSC,2,1,1.0
+2007-2008,14,2007-11-24,Eint Frankfurt,Stuttgart,1,4,0.0
+2007-2008,14,2007-11-24,Hannover 96,Schalke 04,2,3,0.0
+2007-2008,14,2007-11-24,Leverkusen,MSV Duisburg,4,1,1.0
+2007-2008,14,2007-11-24,Energie Cottbus,Werder Bremen,0,2,0.0
+2007-2008,14,2007-11-24,Bayern Munich,Wolfsburg,2,1,1.0
+2007-2008,14,2007-11-24,Bochum,Arminia,3,0,1.0
+2007-2008,14,2007-11-25,Nürnberg,Dortmund,2,0,1.0
+2007-2008,14,2007-11-25,Hamburger SV,Hansa Rostock,2,0,1.0
+2007-2008,15,2007-11-30,Hansa Rostock,Hannover 96,0,3,0.0
+2007-2008,15,2007-12-01,Schalke 04,Bochum,1,0,1.0
+2007-2008,15,2007-12-01,Hertha BSC,Leverkusen,0,3,0.0
+2007-2008,15,2007-12-01,Werder Bremen,Hamburger SV,2,1,1.0
+2007-2008,15,2007-12-01,Energie Cottbus,Karlsruher,2,0,1.0
+2007-2008,15,2007-12-01,Wolfsburg,Eint Frankfurt,2,2,0.5
+2007-2008,15,2007-12-01,Stuttgart,Dortmund,1,2,0.0
+2007-2008,15,2007-12-02,MSV Duisburg,Nürnberg,1,0,1.0
+2007-2008,15,2007-12-02,Arminia,Bayern Munich,0,1,0.0
+2007-2008,16,2007-12-07,Dortmund,Arminia,6,1,1.0
+2007-2008,16,2007-12-08,Bayern Munich,MSV Duisburg,0,0,0.5
+2007-2008,16,2007-12-08,Bochum,Karlsruher,2,2,0.5
+2007-2008,16,2007-12-08,Hannover 96,Werder Bremen,4,3,1.0
+2007-2008,16,2007-12-08,Hamburger SV,Energie Cottbus,0,0,0.5
+2007-2008,16,2007-12-08,Stuttgart,Wolfsburg,3,1,1.0
+2007-2008,16,2007-12-08,Eint Frankfurt,Schalke 04,2,2,0.5
+2007-2008,16,2007-12-09,Nürnberg,Hertha BSC,2,1,1.0
+2007-2008,16,2007-12-09,Leverkusen,Hansa Rostock,3,0,1.0
+2007-2008,17,2007-12-14,Energie Cottbus,Hannover 96,5,1,1.0
+2007-2008,17,2007-12-15,Wolfsburg,Dortmund,4,0,1.0
+2007-2008,17,2007-12-15,Schalke 04,Nürnberg,2,1,1.0
+2007-2008,17,2007-12-15,Hertha BSC,Bayern Munich,0,0,0.5
+2007-2008,17,2007-12-15,Werder Bremen,Leverkusen,5,2,1.0
+2007-2008,17,2007-12-15,Arminia,Stuttgart,2,0,1.0
+2007-2008,17,2007-12-15,Karlsruher,Hamburger SV,1,1,0.5
+2007-2008,17,2007-12-16,Hansa Rostock,Bochum,2,0,1.0
+2007-2008,17,2007-12-16,MSV Duisburg,Eint Frankfurt,0,1,0.0
+2007-2008,18,2008-02-01,Hansa Rostock,Bayern Munich,1,2,0.0
+2007-2008,18,2008-02-02,MSV Duisburg,Dortmund,3,3,0.5
+2007-2008,18,2008-02-02,Arminia,Wolfsburg,0,1,0.0
+2007-2008,18,2008-02-02,Energie Cottbus,Leverkusen,2,3,0.0
+2007-2008,18,2008-02-02,Hamburger SV,Hannover 96,1,1,0.5
+2007-2008,18,2008-02-02,Hertha BSC,Eint Frankfurt,0,3,0.0
+2007-2008,18,2008-02-02,Karlsruher,Nürnberg,2,0,1.0
+2007-2008,18,2008-02-03,Werder Bremen,Bochum,1,2,0.0
+2007-2008,18,2008-02-03,Schalke 04,Stuttgart,4,1,1.0
+2007-2008,19,2008-02-08,Eint Frankfurt,Arminia,2,1,1.0
+2007-2008,19,2008-02-09,Nürnberg,Hansa Rostock,1,1,0.5
+2007-2008,19,2008-02-09,Bochum,Energie Cottbus,3,3,0.5
+2007-2008,19,2008-02-09,Hannover 96,Karlsruher,2,2,0.5
+2007-2008,19,2008-02-09,Wolfsburg,MSV Duisburg,2,1,1.0
+2007-2008,19,2008-02-09,Leverkusen,Hamburger SV,1,1,0.5
+2007-2008,19,2008-02-09,Stuttgart,Hertha BSC,1,3,0.0
+2007-2008,19,2008-02-10,Dortmund,Schalke 04,2,3,0.0
+2007-2008,19,2008-02-10,Bayern Munich,Werder Bremen,1,1,0.5
+2007-2008,20,2008-02-15,Schalke 04,Wolfsburg,1,2,0.0
+2007-2008,20,2008-02-16,Hansa Rostock,Eint Frankfurt,1,0,1.0
+2007-2008,20,2008-02-16,Energie Cottbus,Dortmund,0,2,0.0
+2007-2008,20,2008-02-16,Werder Bremen,Nürnberg,2,0,1.0
+2007-2008,20,2008-02-16,Hertha BSC,Arminia,1,0,1.0
+2007-2008,20,2008-02-16,Karlsruher,Leverkusen,2,2,0.5
+2007-2008,20,2008-02-16,MSV Duisburg,Stuttgart,2,3,0.0
+2007-2008,20,2008-02-17,Hamburger SV,Bochum,3,0,1.0
+2007-2008,20,2008-02-17,Hannover 96,Bayern Munich,0,3,0.0
+2007-2008,21,2008-02-22,Bochum,Hannover 96,2,1,1.0
+2007-2008,21,2008-02-23,Dortmund,Hansa Rostock,1,0,1.0
+2007-2008,21,2008-02-23,Stuttgart,Karlsruher,3,1,1.0
+2007-2008,21,2008-02-23,Arminia,MSV Duisburg,0,2,0.0
+2007-2008,21,2008-02-23,Eint Frankfurt,Werder Bremen,1,0,1.0
+2007-2008,21,2008-02-23,Leverkusen,Schalke 04,1,0,1.0
+2007-2008,21,2008-02-23,Wolfsburg,Hertha BSC,0,0,0.5
+2007-2008,21,2008-02-24,Nürnberg,Energie Cottbus,1,1,0.5
+2007-2008,21,2008-02-24,Bayern Munich,Hamburger SV,1,1,0.5
+2007-2008,22,2008-02-29,Hertha BSC,MSV Duisburg,2,0,1.0
+2007-2008,22,2008-03-01,Hannover 96,Nürnberg,2,1,1.0
+2007-2008,22,2008-03-01,Hansa Rostock,Arminia,1,1,0.5
+2007-2008,22,2008-03-01,Karlsruher,Wolfsburg,3,1,1.0
+2007-2008,22,2008-03-01,Werder Bremen,Dortmund,2,0,1.0
+2007-2008,22,2008-03-01,Schalke 04,Bayern Munich,0,1,0.0
+2007-2008,22,2008-03-02,Bochum,Leverkusen,2,0,1.0
+2007-2008,22,2008-03-02,Hamburger SV,Eint Frankfurt,4,1,1.0
+2007-2008,23,2008-03-07,Dortmund,Hertha BSC,1,1,0.5
+2007-2008,23,2008-03-08,Wolfsburg,Energie Cottbus,3,0,1.0
+2007-2008,23,2008-03-08,Eint Frankfurt,Bochum,1,1,0.5
+2007-2008,23,2008-03-08,Stuttgart,Werder Bremen,6,3,1.0
+2007-2008,23,2008-03-08,MSV Duisburg,Hansa Rostock,1,1,0.5
+2007-2008,23,2008-03-08,Arminia,Schalke 04,0,2,0.0
+2007-2008,23,2008-03-08,Bayern Munich,Karlsruher,2,0,1.0
+2007-2008,23,2008-03-09,Leverkusen,Hannover 96,2,0,1.0
+2007-2008,23,2008-03-09,Nürnberg,Hamburger SV,0,0,0.5
+2007-2008,22,2008-03-11,Energie Cottbus,Stuttgart,0,1,0.0
+2007-2008,24,2008-03-14,Schalke 04,MSV Duisburg,2,1,1.0
+2007-2008,24,2008-03-15,Energie Cottbus,Bayern Munich,2,0,1.0
+2007-2008,24,2008-03-15,Bochum,Stuttgart,1,1,0.5
+2007-2008,24,2008-03-15,Hamburger SV,Dortmund,1,0,1.0
+2007-2008,24,2008-03-15,Karlsruher,Eint Frankfurt,0,1,0.0
+2007-2008,24,2008-03-15,Hansa Rostock,Hertha BSC,0,0,0.5
+2007-2008,24,2008-03-15,Hannover 96,Arminia,2,2,0.5
+2007-2008,24,2008-03-16,Leverkusen,Nürnberg,4,1,1.0
+2007-2008,24,2008-03-16,Werder Bremen,Wolfsburg,0,1,0.0
+2007-2008,25,2008-03-20,Eint Frankfurt,Energie Cottbus,2,1,1.0
+2007-2008,25,2008-03-22,Stuttgart,Hansa Rostock,4,1,1.0
+2007-2008,25,2008-03-22,Wolfsburg,Hamburger SV,1,1,0.5
+2007-2008,25,2008-03-22,Dortmund,Karlsruher,1,1,0.5
+2007-2008,25,2008-03-22,MSV Duisburg,Hannover 96,1,1,0.5
+2007-2008,25,2008-03-22,Nürnberg,Bochum,1,1,0.5
+2007-2008,25,2008-03-22,Bayern Munich,Leverkusen,2,1,1.0
+2007-2008,25,2008-03-23,Hertha BSC,Schalke 04,1,2,0.0
+2007-2008,25,2008-03-23,Arminia,Werder Bremen,1,1,0.5
+2007-2008,26,2008-03-28,Hansa Rostock,Wolfsburg,0,1,0.0
+2007-2008,26,2008-03-29,Leverkusen,Eint Frankfurt,0,2,0.0
+2007-2008,26,2008-03-29,Werder Bremen,MSV Duisburg,1,2,0.0
+2007-2008,26,2008-03-29,Bochum,Dortmund,3,3,0.5
+2007-2008,26,2008-03-29,Nürnberg,Bayern Munich,1,1,0.5
+2007-2008,26,2008-03-29,Hamburger SV,Arminia,1,1,0.5
+2007-2008,26,2008-03-29,Karlsruher,Schalke 04,0,0,0.5
+2007-2008,26,2008-03-30,Hannover 96,Stuttgart,0,0,0.5
+2007-2008,26,2008-03-30,Energie Cottbus,Hertha BSC,2,1,1.0
+2007-2008,27,2008-04-04,MSV Duisburg,Energie Cottbus,0,1,0.0
+2007-2008,27,2008-04-05,Eint Frankfurt,Nürnberg,1,3,0.0
+2007-2008,27,2008-04-05,Hertha BSC,Werder Bremen,1,2,0.0
+2007-2008,27,2008-04-05,Wolfsburg,Hannover 96,3,2,1.0
+2007-2008,27,2008-04-05,Arminia,Karlsruher,1,0,1.0
+2007-2008,27,2008-04-05,Stuttgart,Hamburger SV,1,0,1.0
+2007-2008,27,2008-04-05,Schalke 04,Hansa Rostock,1,0,1.0
+2007-2008,27,2008-04-06,Dortmund,Leverkusen,2,1,1.0
+2007-2008,27,2008-04-06,Bayern Munich,Bochum,3,1,1.0
+2007-2008,28,2008-04-12,Karlsruher,Hansa Rostock,1,2,0.0
+2007-2008,28,2008-04-12,Werder Bremen,Schalke 04,5,1,1.0
+2007-2008,28,2008-04-12,Energie Cottbus,Arminia,1,0,1.0
+2007-2008,28,2008-04-12,Bochum,Hertha BSC,1,1,0.5
+2007-2008,28,2008-04-12,Hamburger SV,MSV Duisburg,0,1,0.0
+2007-2008,28,2008-04-12,Hannover 96,Eint Frankfurt,2,1,1.0
+2007-2008,28,2008-04-13,Leverkusen,Stuttgart,3,0,1.0
+2007-2008,28,2008-04-13,Bayern Munich,Dortmund,5,0,1.0
+2007-2008,29,2008-04-15,Schalke 04,Energie Cottbus,5,0,1.0
+2007-2008,29,2008-04-15,Wolfsburg,Bochum,0,1,0.0
+2007-2008,29,2008-04-15,Hertha BSC,Hamburger SV,0,0,0.5
+2007-2008,29,2008-04-15,Hansa Rostock,Werder Bremen,1,2,0.0
+2007-2008,29,2008-04-16,MSV Duisburg,Karlsruher,0,1,0.0
+2007-2008,29,2008-04-16,Stuttgart,Nürnberg,3,0,1.0
+2007-2008,29,2008-04-16,Dortmund,Hannover 96,1,3,0.0
+2007-2008,29,2008-04-16,Arminia,Leverkusen,1,0,1.0
+2007-2008,29,2008-04-16,Eint Frankfurt,Bayern Munich,1,3,0.0
+2007-2008,28,2008-04-20,Nürnberg,Wolfsburg,1,0,1.0
+2007-2008,30,2008-04-25,Eint Frankfurt,Dortmund,1,1,0.5
+2007-2008,30,2008-04-26,Energie Cottbus,Hansa Rostock,2,1,1.0
+2007-2008,30,2008-04-26,Bochum,MSV Duisburg,1,1,0.5
+2007-2008,30,2008-04-26,Karlsruher,Werder Bremen,3,3,0.5
+2007-2008,30,2008-04-26,Nürnberg,Arminia,2,2,0.5
+2007-2008,30,2008-04-26,Hamburger SV,Schalke 04,0,1,0.0
+2007-2008,30,2008-04-26,Hannover 96,Hertha BSC,2,2,0.5
+2007-2008,30,2008-04-27,Bayern Munich,Stuttgart,4,1,1.0
+2007-2008,30,2008-04-27,Leverkusen,Wolfsburg,2,2,0.5
+2007-2008,31,2008-05-02,Dortmund,Nürnberg,0,0,0.5
+2007-2008,31,2008-05-03,Arminia,Bochum,2,0,1.0
+2007-2008,31,2008-05-03,Schalke 04,Hannover 96,1,1,0.5
+2007-2008,31,2008-05-03,Hertha BSC,Karlsruher,3,1,1.0
+2007-2008,31,2008-05-03,Werder Bremen,Energie Cottbus,2,0,1.0
+2007-2008,31,2008-05-03,Hansa Rostock,Hamburger SV,1,3,0.0
+2007-2008,31,2008-05-03,Stuttgart,Eint Frankfurt,4,1,1.0
+2007-2008,31,2008-05-04,MSV Duisburg,Leverkusen,3,2,1.0
+2007-2008,31,2008-05-04,Wolfsburg,Bayern Munich,0,0,0.5
+2007-2008,32,2008-05-06,Dortmund,Stuttgart,3,2,1.0
+2007-2008,32,2008-05-06,Karlsruher,Energie Cottbus,1,1,0.5
+2007-2008,32,2008-05-06,Hannover 96,Hansa Rostock,3,0,1.0
+2007-2008,32,2008-05-06,Bochum,Schalke 04,0,3,0.0
+2007-2008,32,2008-05-07,Eint Frankfurt,Wolfsburg,2,3,0.0
+2007-2008,32,2008-05-07,Bayern Munich,Arminia,2,0,1.0
+2007-2008,32,2008-05-07,Nürnberg,MSV Duisburg,2,0,1.0
+2007-2008,32,2008-05-07,Hamburger SV,Werder Bremen,0,1,0.0
+2007-2008,32,2008-05-07,Leverkusen,Hertha BSC,1,2,0.0
+2007-2008,33,2008-05-10,Energie Cottbus,Hamburger SV,2,0,1.0
+2007-2008,33,2008-05-10,Hansa Rostock,Leverkusen,1,2,0.0
+2007-2008,33,2008-05-10,Wolfsburg,Stuttgart,4,0,1.0
+2007-2008,33,2008-05-10,Werder Bremen,Hannover 96,6,1,1.0
+2007-2008,33,2008-05-10,Karlsruher,Bochum,1,3,0.0
+2007-2008,33,2008-05-10,Schalke 04,Eint Frankfurt,1,0,1.0
+2007-2008,33,2008-05-10,Arminia,Dortmund,2,2,0.5
+2007-2008,33,2008-05-10,MSV Duisburg,Bayern Munich,2,3,0.0
+2007-2008,33,2008-05-10,Hertha BSC,Nürnberg,1,0,1.0
+2007-2008,34,2008-05-17,Nürnberg,Schalke 04,0,2,0.0
+2007-2008,34,2008-05-17,Bayern Munich,Hertha BSC,4,1,1.0
+2007-2008,34,2008-05-17,Hamburger SV,Karlsruher,7,0,1.0
+2007-2008,34,2008-05-17,Bochum,Hansa Rostock,1,2,0.0
+2007-2008,34,2008-05-17,Stuttgart,Arminia,2,2,0.5
+2007-2008,34,2008-05-17,Hannover 96,Energie Cottbus,4,0,1.0
+2007-2008,34,2008-05-17,Dortmund,Wolfsburg,2,4,0.0
+2007-2008,34,2008-05-17,Eint Frankfurt,MSV Duisburg,4,2,1.0
+2007-2008,34,2008-05-17,Leverkusen,Werder Bremen,0,1,0.0

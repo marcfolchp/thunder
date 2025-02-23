@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1990-1991,1,1990-08-08,Dortmund,Stuttgart,0,3,0.0
+1990-1991,1,1990-08-09,Hertha BSC,St Pauli,1,2,0.0
+1990-1991,1,1990-08-10,Nürnberg,Uerdingen,1,1,0.5
+1990-1991,1,1990-08-11,Hamburger SV,Kaiserslautern,1,3,0.0
+1990-1991,1,1990-08-11,Köln,Düsseldorf,1,1,0.5
+1990-1991,1,1990-08-11,Gladbach,Bochum,1,2,0.0
+1990-1991,1,1990-08-11,Bayern Munich,Leverkusen,1,1,0.5
+1990-1991,1,1990-08-11,Wattenscheid,Werder Bremen,2,0,1.0
+1990-1991,1,1990-08-11,Eint Frankfurt,Karlsruher,3,0,1.0
+1990-1991,2,1990-08-14,St Pauli,Bayern Munich,0,0,0.5
+1990-1991,2,1990-08-17,Werder Bremen,Gladbach,3,0,1.0
+1990-1991,2,1990-08-17,Stuttgart,Hertha BSC,4,0,1.0
+1990-1991,2,1990-08-18,Kaiserslautern,Eint Frankfurt,1,1,0.5
+1990-1991,2,1990-08-18,Leverkusen,Nürnberg,2,2,0.5
+1990-1991,2,1990-08-18,Düsseldorf,Hamburger SV,2,1,1.0
+1990-1991,2,1990-08-18,Bochum,Köln,1,0,1.0
+1990-1991,2,1990-08-18,Uerdingen,Wattenscheid,0,2,0.0
+1990-1991,2,1990-08-18,Karlsruher,Dortmund,1,2,0.0
+1990-1991,3,1990-08-24,Dortmund,Kaiserslautern,0,2,0.0
+1990-1991,3,1990-08-24,Hamburger SV,Bochum,1,0,1.0
+1990-1991,3,1990-08-24,Eint Frankfurt,Düsseldorf,5,1,1.0
+1990-1991,3,1990-08-25,Nürnberg,St Pauli,5,2,1.0
+1990-1991,3,1990-08-25,Wattenscheid,Gladbach,1,1,0.5
+1990-1991,3,1990-08-25,Bayern Munich,Stuttgart,2,1,1.0
+1990-1991,3,1990-08-25,Hertha BSC,Karlsruher,1,1,0.5
+1990-1991,3,1990-08-25,Uerdingen,Leverkusen,1,1,0.5
+1990-1991,3,1990-08-25,Köln,Werder Bremen,1,0,1.0
+1990-1991,4,1990-08-31,Kaiserslautern,Hertha BSC,4,3,1.0
+1990-1991,4,1990-09-01,Bochum,Eint Frankfurt,0,0,0.5
+1990-1991,4,1990-09-01,St Pauli,Uerdingen,1,1,0.5
+1990-1991,4,1990-09-01,Gladbach,Köln,2,2,0.5
+1990-1991,4,1990-09-01,Karlsruher,Bayern Munich,2,3,0.0
+1990-1991,4,1990-09-01,Stuttgart,Nürnberg,2,1,1.0
+1990-1991,4,1990-09-01,Werder Bremen,Hamburger SV,3,1,1.0
+1990-1991,4,1990-09-02,Düsseldorf,Dortmund,0,0,0.5
+1990-1991,4,1990-09-04,Leverkusen,Wattenscheid,2,1,1.0
+1990-1991,5,1990-09-07,Dortmund,Bochum,1,0,1.0
+1990-1991,5,1990-09-07,Bayern Munich,Kaiserslautern,4,0,1.0
+1990-1991,5,1990-09-07,Uerdingen,Stuttgart,2,0,1.0
+1990-1991,5,1990-09-08,Hertha BSC,Düsseldorf,0,1,0.0
+1990-1991,5,1990-09-08,Wattenscheid,Köln,0,3,0.0
+1990-1991,5,1990-09-08,Nürnberg,Karlsruher,0,0,0.5
+1990-1991,5,1990-09-08,Eint Frankfurt,Werder Bremen,0,0,0.5
+1990-1991,5,1990-09-08,Hamburger SV,Gladbach,3,0,1.0
+1990-1991,5,1990-09-08,Leverkusen,St Pauli,3,1,1.0
+1990-1991,6,1990-09-14,Kaiserslautern,Nürnberg,3,1,1.0
+1990-1991,6,1990-09-14,St Pauli,Wattenscheid,1,1,0.5
+1990-1991,6,1990-09-14,Karlsruher,Uerdingen,2,0,1.0
+1990-1991,6,1990-09-15,Bochum,Hertha BSC,4,2,1.0
+1990-1991,6,1990-09-15,Stuttgart,Leverkusen,0,2,0.0
+1990-1991,6,1990-09-15,Köln,Hamburger SV,1,0,1.0
+1990-1991,6,1990-09-15,Düsseldorf,Bayern Munich,1,2,0.0
+1990-1991,6,1990-09-15,Gladbach,Eint Frankfurt,1,1,0.5
+1990-1991,6,1990-09-15,Werder Bremen,Dortmund,1,1,0.5
+1990-1991,7,1990-09-21,Wattenscheid,Hamburger SV,0,1,0.0
+1990-1991,7,1990-09-22,Uerdingen,Kaiserslautern,3,7,0.0
+1990-1991,7,1990-09-22,Leverkusen,Karlsruher,1,0,1.0
+1990-1991,7,1990-09-22,Eint Frankfurt,Köln,1,0,1.0
+1990-1991,7,1990-09-22,Hertha BSC,Werder Bremen,0,0,0.5
+1990-1991,7,1990-09-22,St Pauli,Stuttgart,2,2,0.5
+1990-1991,7,1990-09-22,Dortmund,Gladbach,1,1,0.5
+1990-1991,7,1990-09-22,Bayern Munich,Bochum,2,2,0.5
+1990-1991,7,1990-09-23,Nürnberg,Düsseldorf,3,0,1.0
+1990-1991,8,1990-09-28,Kaiserslautern,Leverkusen,2,1,1.0
+1990-1991,8,1990-09-28,Werder Bremen,Bayern Munich,1,0,1.0
+1990-1991,8,1990-09-28,Gladbach,Hertha BSC,2,0,1.0
+1990-1991,8,1990-09-29,Karlsruher,St Pauli,1,1,0.5
+1990-1991,8,1990-09-29,Düsseldorf,Uerdingen,0,2,0.0
+1990-1991,8,1990-09-29,Bochum,Nürnberg,0,0,0.5
+1990-1991,8,1990-09-29,Stuttgart,Wattenscheid,1,4,0.0
+1990-1991,8,1990-09-29,Hamburger SV,Eint Frankfurt,0,1,0.0
+1990-1991,8,1990-09-29,Köln,Dortmund,0,1,0.0
+1990-1991,9,1990-10-05,Uerdingen,Bochum,4,1,1.0
+1990-1991,9,1990-10-06,Dortmund,Hamburger SV,1,1,0.5
+1990-1991,9,1990-10-06,Stuttgart,Karlsruher,2,2,0.5
+1990-1991,9,1990-10-06,Hertha BSC,Köln,0,0,0.5
+1990-1991,9,1990-10-06,Leverkusen,Düsseldorf,1,1,0.5
+1990-1991,9,1990-10-06,Nürnberg,Werder Bremen,2,3,0.0
+1990-1991,9,1990-10-06,St Pauli,Kaiserslautern,1,0,1.0
+1990-1991,9,1990-10-06,Wattenscheid,Eint Frankfurt,1,0,1.0
+1990-1991,9,1990-10-06,Bayern Munich,Gladbach,4,1,1.0
+1990-1991,10,1990-10-12,Karlsruher,Wattenscheid,1,3,0.0
+1990-1991,10,1990-10-13,Gladbach,Nürnberg,2,0,1.0
+1990-1991,10,1990-10-13,Eint Frankfurt,Dortmund,3,1,1.0
+1990-1991,10,1990-10-13,Bochum,Leverkusen,3,1,1.0
+1990-1991,10,1990-10-13,Köln,Bayern Munich,4,0,1.0
+1990-1991,10,1990-10-13,Kaiserslautern,Stuttgart,2,0,1.0
+1990-1991,10,1990-10-13,Düsseldorf,St Pauli,0,0,0.5
+1990-1991,10,1990-10-13,Werder Bremen,Uerdingen,4,3,1.0
+1990-1991,10,1990-10-14,Hamburger SV,Hertha BSC,2,0,1.0
+1990-1991,11,1990-10-19,Wattenscheid,Dortmund,1,1,0.5
+1990-1991,11,1990-10-19,Leverkusen,Werder Bremen,0,0,0.5
+1990-1991,11,1990-10-19,St Pauli,Bochum,3,3,0.5
+1990-1991,11,1990-10-20,Bayern Munich,Hamburger SV,6,1,1.0
+1990-1991,11,1990-10-20,Stuttgart,Düsseldorf,1,1,0.5
+1990-1991,11,1990-10-20,Hertha BSC,Eint Frankfurt,1,0,1.0
+1990-1991,11,1990-10-20,Karlsruher,Kaiserslautern,4,2,1.0
+1990-1991,11,1990-10-20,Uerdingen,Gladbach,1,1,0.5
+1990-1991,11,1990-10-20,Nürnberg,Köln,0,4,0.0
+1990-1991,12,1990-10-26,Werder Bremen,St Pauli,1,0,1.0
+1990-1991,12,1990-10-26,Bochum,Stuttgart,1,1,0.5
+1990-1991,12,1990-10-27,Düsseldorf,Karlsruher,5,2,1.0
+1990-1991,12,1990-10-27,Gladbach,Leverkusen,1,1,0.5
+1990-1991,12,1990-10-27,Eint Frankfurt,Bayern Munich,1,4,0.0
+1990-1991,12,1990-10-27,Hamburger SV,Nürnberg,4,0,1.0
+1990-1991,12,1990-10-27,Dortmund,Hertha BSC,3,1,1.0
+1990-1991,12,1990-10-27,Köln,Uerdingen,3,1,1.0
+1990-1991,12,1990-10-27,Kaiserslautern,Wattenscheid,1,1,0.5
+1990-1991,13,1990-11-09,Wattenscheid,Hertha BSC,3,1,1.0
+1990-1991,13,1990-11-10,Nürnberg,Eint Frankfurt,0,2,0.0
+1990-1991,13,1990-11-10,Bayern Munich,Dortmund,2,3,0.0
+1990-1991,13,1990-11-10,Leverkusen,Köln,2,0,1.0
+1990-1991,13,1990-11-10,St Pauli,Gladbach,1,1,0.5
+1990-1991,13,1990-11-10,Uerdingen,Hamburger SV,0,0,0.5
+1990-1991,13,1990-11-10,Kaiserslautern,Düsseldorf,0,0,0.5
+1990-1991,13,1990-11-10,Karlsruher,Bochum,3,2,1.0
+1990-1991,13,1990-11-10,Stuttgart,Werder Bremen,0,1,0.0
+1990-1991,14,1990-11-16,Dortmund,Nürnberg,0,2,0.0
+1990-1991,14,1990-11-16,Düsseldorf,Wattenscheid,2,1,1.0
+1990-1991,14,1990-11-16,Köln,St Pauli,2,0,1.0
+1990-1991,14,1990-11-17,Hamburger SV,Leverkusen,3,1,1.0
+1990-1991,14,1990-11-17,Hertha BSC,Bayern Munich,0,0,0.5
+1990-1991,14,1990-11-17,Gladbach,Stuttgart,2,0,1.0
+1990-1991,14,1990-11-17,Eint Frankfurt,Uerdingen,4,0,1.0
+1990-1991,14,1990-11-17,Werder Bremen,Karlsruher,2,0,1.0
+1990-1991,14,1990-11-17,Bochum,Kaiserslautern,0,2,0.0
+1990-1991,15,1990-11-24,Stuttgart,Köln,3,2,1.0
+1990-1991,15,1990-11-24,Bayern Munich,Wattenscheid,7,0,1.0
+1990-1991,15,1990-11-24,Uerdingen,Dortmund,1,3,0.0
+1990-1991,15,1990-11-24,Kaiserslautern,Werder Bremen,1,0,1.0
+1990-1991,15,1990-11-24,Leverkusen,Eint Frankfurt,2,2,0.5
+1990-1991,15,1990-11-24,Nürnberg,Hertha BSC,1,4,0.0
+1990-1991,15,1990-11-24,Karlsruher,Gladbach,3,2,1.0
+1990-1991,15,1990-11-25,St Pauli,Hamburger SV,0,2,0.0
+1990-1991,15,1990-12-01,Bochum,Düsseldorf,0,0,0.5
+1990-1991,16,1990-12-07,Dortmund,Leverkusen,1,1,0.5
+1990-1991,16,1990-12-07,Gladbach,Kaiserslautern,2,2,0.5
+1990-1991,16,1990-12-07,Köln,Karlsruher,0,0,0.5
+1990-1991,16,1990-12-08,Wattenscheid,Bochum,0,4,0.0
+1990-1991,16,1990-12-08,Bayern Munich,Nürnberg,1,0,1.0
+1990-1991,16,1990-12-08,Eint Frankfurt,St Pauli,1,1,0.5
+1990-1991,16,1990-12-08,Hertha BSC,Uerdingen,0,0,0.5
+1990-1991,16,1990-12-08,Werder Bremen,Düsseldorf,3,1,1.0
+1990-1991,16,1990-12-08,Hamburger SV,Stuttgart,2,0,1.0
+1990-1991,17,1990-12-14,Bochum,Werder Bremen,1,2,0.0
+1990-1991,17,1990-12-15,St Pauli,Dortmund,0,2,0.0
+1990-1991,17,1990-12-15,Düsseldorf,Gladbach,4,1,1.0
+1990-1991,17,1990-12-15,Uerdingen,Bayern Munich,1,1,0.5
+1990-1991,17,1990-12-16,Stuttgart,Eint Frankfurt,2,1,1.0
+1990-1991,17,1991-02-16,Nürnberg,Wattenscheid,4,2,1.0
+1990-1991,18,1991-02-23,Uerdingen,Nürnberg,0,0,0.5
+1990-1991,18,1991-02-23,Leverkusen,Bayern Munich,1,2,0.0
+1990-1991,18,1991-02-23,Stuttgart,Dortmund,7,0,1.0
+1990-1991,18,1991-02-23,Bochum,Gladbach,3,0,1.0
+1990-1991,18,1991-02-23,Kaiserslautern,Hamburger SV,1,0,1.0
+1990-1991,18,1991-02-26,Werder Bremen,Wattenscheid,1,1,0.5
+1990-1991,18,1991-02-26,Karlsruher,Eint Frankfurt,2,2,0.5
+1990-1991,18,1991-02-27,Düsseldorf,Köln,0,2,0.0
+1990-1991,19,1991-03-01,Wattenscheid,Uerdingen,0,0,0.5
+1990-1991,19,1991-03-02,Köln,Bochum,0,0,0.5
+1990-1991,19,1991-03-02,Eint Frankfurt,Kaiserslautern,4,3,1.0
+1990-1991,19,1991-03-02,Bayern Munich,St Pauli,0,1,0.0
+1990-1991,19,1991-03-02,Nürnberg,Leverkusen,1,0,1.0
+1990-1991,19,1991-03-02,Dortmund,Karlsruher,2,2,0.5
+1990-1991,19,1991-03-02,Hamburger SV,Düsseldorf,1,0,1.0
+1990-1991,19,1991-03-02,Hertha BSC,Stuttgart,0,2,0.0
+1990-1991,19,1991-03-03,Gladbach,Werder Bremen,1,1,0.5
+1990-1991,18,1991-03-05,St Pauli,Hertha BSC,2,2,0.5
+1990-1991,20,1991-03-08,St Pauli,Nürnberg,0,0,0.5
+1990-1991,20,1991-03-08,Werder Bremen,Köln,2,1,1.0
+1990-1991,20,1991-03-09,Karlsruher,Hertha BSC,3,0,1.0
+1990-1991,20,1991-03-09,Stuttgart,Bayern Munich,0,3,0.0
+1990-1991,20,1991-03-09,Gladbach,Wattenscheid,1,1,0.5
+1990-1991,20,1991-03-09,Leverkusen,Uerdingen,1,0,1.0
+1990-1991,20,1991-03-09,Bochum,Hamburger SV,0,1,0.0
+1990-1991,20,1991-03-09,Düsseldorf,Eint Frankfurt,1,0,1.0
+1990-1991,20,1991-03-09,Kaiserslautern,Dortmund,2,2,0.5
+1990-1991,21,1991-03-15,Hamburger SV,Werder Bremen,3,2,1.0
+1990-1991,21,1991-03-15,Bayern Munich,Karlsruher,3,0,1.0
+1990-1991,21,1991-03-15,Wattenscheid,Leverkusen,1,2,0.0
+1990-1991,21,1991-03-16,Dortmund,Düsseldorf,1,1,0.5
+1990-1991,21,1991-03-16,Nürnberg,Stuttgart,0,1,0.0
+1990-1991,21,1991-03-16,Eint Frankfurt,Bochum,1,1,0.5
+1990-1991,21,1991-03-16,Köln,Gladbach,1,3,0.0
+1990-1991,21,1991-03-16,Hertha BSC,Kaiserslautern,0,2,0.0
+1990-1991,21,1991-03-16,Uerdingen,St Pauli,2,0,1.0
+1990-1991,17,1991-03-19,Kaiserslautern,Köln,2,2,0.5
+1990-1991,17,1991-03-19,Karlsruher,Hamburger SV,2,2,0.5
+1990-1991,17,1991-03-19,Leverkusen,Hertha BSC,3,1,1.0
+1990-1991,22,1991-03-22,Stuttgart,Uerdingen,3,1,1.0
+1990-1991,22,1991-03-22,Werder Bremen,Eint Frankfurt,1,1,0.5
+1990-1991,22,1991-03-22,Gladbach,Hamburger SV,1,1,0.5
+1990-1991,22,1991-03-23,Bochum,Dortmund,2,2,0.5
+1990-1991,22,1991-03-23,Köln,Wattenscheid,1,1,0.5
+1990-1991,22,1991-03-23,Kaiserslautern,Bayern Munich,2,1,1.0
+1990-1991,22,1991-03-23,Düsseldorf,Hertha BSC,4,2,1.0
+1990-1991,22,1991-03-23,St Pauli,Leverkusen,1,0,1.0
+1990-1991,22,1991-03-23,Karlsruher,Nürnberg,2,0,1.0
+1990-1991,23,1991-04-02,Hertha BSC,Bochum,2,4,0.0
+1990-1991,23,1991-04-02,Leverkusen,Stuttgart,0,0,0.5
+1990-1991,23,1991-04-02,Nürnberg,Kaiserslautern,1,4,0.0
+1990-1991,23,1991-04-02,Dortmund,Werder Bremen,1,1,0.5
+1990-1991,23,1991-04-02,Bayern Munich,Düsseldorf,0,1,0.0
+1990-1991,23,1991-04-02,Uerdingen,Karlsruher,1,1,0.5
+1990-1991,23,1991-04-03,Eint Frankfurt,Gladbach,5,1,1.0
+1990-1991,23,1991-04-03,Wattenscheid,St Pauli,2,2,0.5
+1990-1991,23,1991-04-03,Hamburger SV,Köln,1,1,0.5
+1990-1991,24,1991-04-05,Düsseldorf,Nürnberg,3,0,1.0
+1990-1991,24,1991-04-05,Werder Bremen,Hertha BSC,6,0,1.0
+1990-1991,24,1991-04-05,Karlsruher,Leverkusen,2,0,1.0
+1990-1991,24,1991-04-06,Gladbach,Dortmund,2,1,1.0
+1990-1991,24,1991-04-06,Stuttgart,St Pauli,2,1,1.0
+1990-1991,24,1991-04-06,Bochum,Bayern Munich,1,2,0.0
+1990-1991,24,1991-04-06,Köln,Eint Frankfurt,2,1,1.0
+1990-1991,24,1991-04-06,Kaiserslautern,Uerdingen,2,0,1.0
+1990-1991,24,1991-04-06,Hamburger SV,Wattenscheid,0,0,0.5
+1990-1991,25,1991-04-12,Wattenscheid,Stuttgart,2,2,0.5
+1990-1991,25,1991-04-12,Hertha BSC,Gladbach,1,1,0.5
+1990-1991,25,1991-04-12,St Pauli,Karlsruher,2,0,1.0
+1990-1991,25,1991-04-13,Leverkusen,Kaiserslautern,2,2,0.5
+1990-1991,25,1991-04-13,Bayern Munich,Werder Bremen,1,1,0.5
+1990-1991,25,1991-04-13,Eint Frankfurt,Hamburger SV,0,6,0.0
+1990-1991,25,1991-04-13,Nürnberg,Bochum,3,2,1.0
+1990-1991,25,1991-04-13,Dortmund,Köln,1,2,0.0
+1990-1991,25,1991-04-13,Uerdingen,Düsseldorf,1,2,0.0
+1990-1991,26,1991-04-16,Karlsruher,Stuttgart,0,0,0.5
+1990-1991,26,1991-04-16,Eint Frankfurt,Wattenscheid,4,0,1.0
+1990-1991,26,1991-04-16,Gladbach,Bayern Munich,1,1,0.5
+1990-1991,26,1991-04-16,Bochum,Uerdingen,0,2,0.0
+1990-1991,26,1991-04-17,Werder Bremen,Nürnberg,0,0,0.5
+1990-1991,26,1991-04-17,Kaiserslautern,St Pauli,1,0,1.0
+1990-1991,26,1991-04-17,Hamburger SV,Dortmund,4,0,1.0
+1990-1991,26,1991-04-17,Düsseldorf,Leverkusen,0,2,0.0
+1990-1991,26,1991-04-17,Köln,Hertha BSC,2,1,1.0
+1990-1991,27,1991-04-19,Wattenscheid,Karlsruher,1,1,0.5
+1990-1991,27,1991-04-20,St Pauli,Düsseldorf,2,3,0.0
+1990-1991,27,1991-04-20,Dortmund,Eint Frankfurt,0,3,0.0
+1990-1991,27,1991-04-20,Leverkusen,Bochum,4,2,1.0
+1990-1991,27,1991-04-20,Nürnberg,Gladbach,2,2,0.5
+1990-1991,27,1991-04-20,Stuttgart,Kaiserslautern,2,2,0.5
+1990-1991,27,1991-04-20,Bayern Munich,Köln,2,2,0.5
+1990-1991,27,1991-04-20,Uerdingen,Werder Bremen,0,0,0.5
+1990-1991,27,1991-04-26,Hertha BSC,Hamburger SV,1,4,0.0
+1990-1991,28,1991-05-03,Bochum,St Pauli,3,0,1.0
+1990-1991,28,1991-05-03,Kaiserslautern,Karlsruher,3,2,1.0
+1990-1991,28,1991-05-04,Werder Bremen,Leverkusen,1,1,0.5
+1990-1991,28,1991-05-04,Dortmund,Wattenscheid,2,2,0.5
+1990-1991,28,1991-05-04,Gladbach,Uerdingen,1,1,0.5
+1990-1991,28,1991-05-04,Köln,Nürnberg,3,1,1.0
+1990-1991,28,1991-05-04,Düsseldorf,Stuttgart,0,4,0.0
+1990-1991,28,1991-05-04,Eint Frankfurt,Hertha BSC,5,1,1.0
+1990-1991,28,1991-05-05,Hamburger SV,Bayern Munich,2,3,0.0
+1990-1991,29,1991-05-10,Karlsruher,Düsseldorf,1,1,0.5
+1990-1991,29,1991-05-10,Stuttgart,Bochum,2,2,0.5
+1990-1991,29,1991-05-10,Leverkusen,Gladbach,2,5,0.0
+1990-1991,29,1991-05-11,Uerdingen,Köln,0,3,0.0
+1990-1991,29,1991-05-11,Hertha BSC,Dortmund,2,2,0.5
+1990-1991,29,1991-05-11,Nürnberg,Hamburger SV,3,1,1.0
+1990-1991,29,1991-05-11,Bayern Munich,Eint Frankfurt,2,0,1.0
+1990-1991,29,1991-05-11,St Pauli,Werder Bremen,0,0,0.5
+1990-1991,29,1991-05-11,Wattenscheid,Kaiserslautern,0,0,0.5
+1990-1991,30,1991-05-17,Werder Bremen,Stuttgart,0,1,0.0
+1990-1991,30,1991-05-17,Eint Frankfurt,Nürnberg,0,1,0.0
+1990-1991,30,1991-05-17,Dortmund,Bayern Munich,2,3,0.0
+1990-1991,30,1991-05-18,Gladbach,St Pauli,1,1,0.5
+1990-1991,30,1991-05-18,Bochum,Karlsruher,0,1,0.0
+1990-1991,30,1991-05-18,Köln,Leverkusen,1,1,0.5
+1990-1991,30,1991-05-18,Hamburger SV,Uerdingen,2,0,1.0
+1990-1991,30,1991-05-18,Hertha BSC,Wattenscheid,2,3,0.0
+1990-1991,30,1991-05-18,Düsseldorf,Kaiserslautern,0,0,0.5
+1990-1991,31,1991-05-24,Nürnberg,Dortmund,1,1,0.5
+1990-1991,31,1991-05-24,Kaiserslautern,Bochum,4,1,1.0
+1990-1991,31,1991-05-24,Uerdingen,Eint Frankfurt,2,3,0.0
+1990-1991,31,1991-05-25,Leverkusen,Hamburger SV,2,2,0.5
+1990-1991,31,1991-05-25,Karlsruher,Werder Bremen,1,1,0.5
+1990-1991,31,1991-05-25,Wattenscheid,Düsseldorf,2,0,1.0
+1990-1991,31,1991-05-25,Bayern Munich,Hertha BSC,7,3,1.0
+1990-1991,31,1991-05-25,Stuttgart,Gladbach,1,1,0.5
+1990-1991,31,1991-05-25,St Pauli,Köln,2,0,1.0
+1990-1991,32,1991-05-30,Eint Frankfurt,Leverkusen,3,1,1.0
+1990-1991,32,1991-05-31,Düsseldorf,Bochum,3,4,0.0
+1990-1991,32,1991-05-31,Dortmund,Uerdingen,1,0,1.0
+1990-1991,32,1991-06-01,Hertha BSC,Nürnberg,2,4,0.0
+1990-1991,32,1991-06-01,Hamburger SV,St Pauli,5,0,1.0
+1990-1991,32,1991-06-01,Werder Bremen,Kaiserslautern,1,2,0.0
+1990-1991,32,1991-06-01,Wattenscheid,Bayern Munich,3,2,1.0
+1990-1991,32,1991-06-01,Gladbach,Karlsruher,2,1,1.0
+1990-1991,32,1991-06-01,Köln,Stuttgart,1,6,0.0
+1990-1991,33,1991-06-08,St Pauli,Eint Frankfurt,1,1,0.5
+1990-1991,33,1991-06-08,Leverkusen,Dortmund,1,2,0.0
+1990-1991,33,1991-06-08,Düsseldorf,Werder Bremen,1,2,0.0
+1990-1991,33,1991-06-08,Kaiserslautern,Gladbach,2,3,0.0
+1990-1991,33,1991-06-08,Bochum,Wattenscheid,0,0,0.5
+1990-1991,33,1991-06-08,Karlsruher,Köln,1,1,0.5
+1990-1991,33,1991-06-08,Uerdingen,Hertha BSC,1,2,0.0
+1990-1991,33,1991-06-08,Stuttgart,Hamburger SV,2,0,1.0
+1990-1991,33,1991-06-08,Nürnberg,Bayern Munich,0,1,0.0
+1990-1991,34,1991-06-15,Wattenscheid,Nürnberg,0,1,0.0
+1990-1991,34,1991-06-15,Hertha BSC,Leverkusen,1,2,0.0
+1990-1991,34,1991-06-15,Köln,Kaiserslautern,2,6,0.0
+1990-1991,34,1991-06-15,Eint Frankfurt,Stuttgart,4,0,1.0
+1990-1991,34,1991-06-15,Gladbach,Düsseldorf,2,0,1.0
+1990-1991,34,1991-06-15,Dortmund,St Pauli,5,2,1.0
+1990-1991,34,1991-06-15,Bayern Munich,Uerdingen,2,2,0.5
+1990-1991,34,1991-06-15,Werder Bremen,Bochum,2,1,1.0
+1990-1991,34,1991-06-15,Hamburger SV,Karlsruher,2,2,0.5

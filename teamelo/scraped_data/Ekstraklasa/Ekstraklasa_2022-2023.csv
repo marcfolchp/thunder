@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022-2023,1,2022-07-15,RKS Raków,Warta Poznań,1,0,1.0
+2022-2023,1,2022-07-15,Zagłębie Lubin,Śląsk Wrocław,0,0,0.5
+2022-2023,1,2022-07-16,Lech Poznań,Stal Mielec,0,2,0.0
+2022-2023,1,2022-07-16,Jagiellonia,Piast Gliwice,2,0,1.0
+2022-2023,1,2022-07-16,Korona Kielce,Legia Warsaw,1,1,0.5
+2022-2023,1,2022-07-17,Radomiak Radom,Miedź Legnica,1,1,0.5
+2022-2023,1,2022-07-17,Wisła Płock,Lechia Gdańsk,3,0,1.0
+2022-2023,1,2022-07-17,Pogoń Szczecin,Widzew Łódź,2,1,1.0
+2022-2023,1,2022-07-18,Górnik Zabrze,Cracovia,0,2,0.0
+2022-2023,2,2022-07-22,Warta Poznań,Wisła Płock,0,4,0.0
+2022-2023,2,2022-07-22,Jagiellonia,Widzew Łódź,0,2,0.0
+2022-2023,2,2022-07-23,Cracovia,Korona Kielce,2,0,1.0
+2022-2023,2,2022-07-23,Legia Warsaw,Zagłębie Lubin,2,0,1.0
+2022-2023,2,2022-07-24,Śląsk Wrocław,Pogoń Szczecin,2,1,1.0
+2022-2023,2,2022-07-25,Stal Mielec,Radomiak Radom,1,1,0.5
+2022-2023,3,2022-07-29,Piast Gliwice,Zagłębie Lubin,0,1,0.0
+2022-2023,3,2022-07-29,Cracovia,Legia Warsaw,3,0,1.0
+2022-2023,3,2022-07-30,Radomiak Radom,Górnik Zabrze,0,3,0.0
+2022-2023,3,2022-07-30,Miedź Legnica,Warta Poznań,1,2,0.0
+2022-2023,3,2022-07-31,Pogoń Szczecin,Jagiellonia,1,0,1.0
+2022-2023,3,2022-07-31,RKS Raków,Stal Mielec,3,2,1.0
+2022-2023,3,2022-07-31,Lech Poznań,Wisła Płock,1,3,0.0
+2022-2023,3,2022-07-31,Widzew Łódź,Lechia Gdańsk,2,3,0.0
+2022-2023,3,2022-08-01,Korona Kielce,Śląsk Wrocław,3,1,1.0
+2022-2023,4,2022-08-05,Stal Mielec,Cracovia,2,0,1.0
+2022-2023,4,2022-08-05,Legia Warsaw,Piast Gliwice,2,0,1.0
+2022-2023,4,2022-08-06,Lechia Gdańsk,Korona Kielce,0,1,0.0
+2022-2023,4,2022-08-06,Jagiellonia,Radomiak Radom,1,2,0.0
+2022-2023,4,2022-08-06,Śląsk Wrocław,Widzew Łódź,0,0,0.5
+2022-2023,4,2022-08-07,Warta Poznań,Pogoń Szczecin,1,2,0.0
+2022-2023,4,2022-08-07,Zagłębie Lubin,Lech Poznań,1,1,0.5
+2022-2023,4,2022-08-07,Górnik Zabrze,RKS Raków,1,0,1.0
+2022-2023,4,2022-08-08,Wisła Płock,Miedź Legnica,4,1,1.0
+2022-2023,5,2022-08-12,Miedź Legnica,Zagłębie Lubin,0,1,0.0
+2022-2023,5,2022-08-12,Widzew Łódź,Legia Warsaw,1,2,0.0
+2022-2023,5,2022-08-13,Cracovia,Piast Gliwice,0,1,0.0
+2022-2023,5,2022-08-13,Górnik Zabrze,Stal Mielec,1,3,0.0
+2022-2023,5,2022-08-13,Pogoń Szczecin,Wisła Płock,2,2,0.5
+2022-2023,5,2022-08-14,Radomiak Radom,Lechia Gdańsk,4,1,1.0
+2022-2023,5,2022-08-14,RKS Raków,Jagiellonia,2,2,0.5
+2022-2023,5,2022-08-14,Lech Poznań,Śląsk Wrocław,0,1,0.0
+2022-2023,5,2022-08-15,Korona Kielce,Warta Poznań,0,1,0.0
+2022-2023,6,2022-08-19,Jagiellonia,Miedź Legnica,2,1,1.0
+2022-2023,6,2022-08-19,Legia Warsaw,Górnik Zabrze,2,2,0.5
+2022-2023,6,2022-08-20,Wisła Płock,Korona Kielce,2,1,1.0
+2022-2023,6,2022-08-20,Śląsk Wrocław,Cracovia,1,1,0.5
+2022-2023,6,2022-08-20,Warta Poznań,Widzew Łódź,0,1,0.0
+2022-2023,6,2022-08-21,Zagłębie Lubin,Radomiak Radom,0,1,0.0
+2022-2023,6,2022-08-21,Piast Gliwice,Stal Mielec,4,0,1.0
+2022-2023,7,2022-08-26,Górnik Zabrze,Jagiellonia,1,1,0.5
+2022-2023,7,2022-08-26,Stal Mielec,Legia Warsaw,0,1,0.0
+2022-2023,7,2022-08-27,Radomiak Radom,Korona Kielce,0,2,0.0
+2022-2023,7,2022-08-27,Miedź Legnica,Lechia Gdańsk,2,1,1.0
+2022-2023,7,2022-08-27,Pogoń Szczecin,Zagłębie Lubin,3,0,1.0
+2022-2023,7,2022-08-27,Widzew Łódź,Wisła Płock,2,1,1.0
+2022-2023,7,2022-08-28,Cracovia,Warta Poznań,0,2,0.0
+2022-2023,7,2022-08-28,Śląsk Wrocław,RKS Raków,1,4,0.0
+2022-2023,7,2022-08-28,Lech Poznań,Piast Gliwice,1,0,1.0
+2022-2023,6,2022-08-31,RKS Raków,Pogoń Szczecin,1,0,1.0
+2022-2023,6,2022-08-31,Lechia Gdańsk,Lech Poznań,0,3,0.0
+2022-2023,8,2022-09-02,Legia Warsaw,Radomiak Radom,1,0,1.0
+2022-2023,8,2022-09-03,Stal Mielec,Śląsk Wrocław,2,0,1.0
+2022-2023,8,2022-09-03,Lechia Gdańsk,Warta Poznań,0,0,0.5
+2022-2023,8,2022-09-03,Cracovia,RKS Raków,3,0,1.0
+2022-2023,8,2022-09-04,Zagłębie Lubin,Jagiellonia,1,1,0.5
+2022-2023,8,2022-09-04,Korona Kielce,Pogoń Szczecin,1,2,0.0
+2022-2023,8,2022-09-04,Lech Poznań,Widzew Łódź,2,0,1.0
+2022-2023,8,2022-09-05,Piast Gliwice,Miedź Legnica,2,1,1.0
+2022-2023,8,2022-09-05,Wisła Płock,Górnik Zabrze,1,1,0.5
+2022-2023,9,2022-09-09,Warta Poznań,Zagłębie Lubin,2,2,0.5
+2022-2023,9,2022-09-09,Widzew Łódź,Cracovia,2,0,1.0
+2022-2023,9,2022-09-10,Śląsk Wrocław,Lechia Gdańsk,2,1,1.0
+2022-2023,9,2022-09-10,Radomiak Radom,Wisła Płock,2,0,1.0
+2022-2023,9,2022-09-10,Górnik Zabrze,Piast Gliwice,3,3,0.5
+2022-2023,9,2022-09-11,Miedź Legnica,Korona Kielce,2,2,0.5
+2022-2023,9,2022-09-11,Pogoń Szczecin,Lech Poznań,2,2,0.5
+2022-2023,9,2022-09-11,RKS Raków,Legia Warsaw,4,0,1.0
+2022-2023,9,2022-09-12,Jagiellonia,Stal Mielec,4,0,1.0
+2022-2023,10,2022-09-16,Piast Gliwice,Śląsk Wrocław,1,1,0.5
+2022-2023,10,2022-09-16,Legia Warsaw,Miedź Legnica,3,2,1.0
+2022-2023,10,2022-09-17,Stal Mielec,Widzew Łódź,0,3,0.0
+2022-2023,10,2022-09-17,Lechia Gdańsk,Jagiellonia,2,2,0.5
+2022-2023,10,2022-09-17,RKS Raków,Radomiak Radom,3,0,1.0
+2022-2023,10,2022-09-17,Cracovia,Pogoń Szczecin,1,1,0.5
+2022-2023,10,2022-09-18,Korona Kielce,Górnik Zabrze,1,2,0.0
+2022-2023,10,2022-09-18,Zagłębie Lubin,Wisła Płock,2,1,1.0
+2022-2023,10,2022-09-18,Warta Poznań,Lech Poznań,0,1,0.0
+2022-2023,11,2022-09-30,Radomiak Radom,Cracovia,0,2,0.0
+2022-2023,11,2022-09-30,Wisła Płock,Piast Gliwice,1,0,1.0
+2022-2023,11,2022-10-01,Górnik Zabrze,Zagłębie Lubin,2,3,0.0
+2022-2023,11,2022-10-01,Lech Poznań,Legia Warsaw,0,0,0.5
+2022-2023,11,2022-10-01,Pogoń Szczecin,Lechia Gdańsk,2,1,1.0
+2022-2023,11,2022-10-02,Miedź Legnica,Stal Mielec,0,2,0.0
+2022-2023,11,2022-10-02,Jagiellonia,Korona Kielce,4,1,1.0
+2022-2023,11,2022-10-02,Widzew Łódź,RKS Raków,0,0,0.5
+2022-2023,11,2022-10-03,Śląsk Wrocław,Warta Poznań,0,2,0.0
+2022-2023,2,2022-10-06,Piast Gliwice,RKS Raków,0,1,0.0
+2022-2023,12,2022-10-07,Stal Mielec,Pogoń Szczecin,4,2,1.0
+2022-2023,12,2022-10-07,Jagiellonia,Wisła Płock,1,1,0.5
+2022-2023,12,2022-10-08,Śląsk Wrocław,Górnik Zabrze,4,1,1.0
+2022-2023,12,2022-10-08,Legia Warsaw,Warta Poznań,1,0,1.0
+2022-2023,12,2022-10-08,Cracovia,Lechia Gdańsk,0,1,0.0
+2022-2023,12,2022-10-09,Zagłębie Lubin,Korona Kielce,1,1,0.5
+2022-2023,12,2022-10-09,Lech Poznań,Radomiak Radom,1,0,1.0
+2022-2023,12,2022-10-10,RKS Raków,Miedź Legnica,1,0,1.0
+2022-2023,12,2022-10-10,Piast Gliwice,Widzew Łódź,1,2,0.0
+2022-2023,13,2022-10-14,Korona Kielce,Stal Mielec,0,2,0.0
+2022-2023,13,2022-10-14,Wisła Płock,Legia Warsaw,2,1,1.0
+2022-2023,13,2022-10-15,Radomiak Radom,Śląsk Wrocław,2,0,1.0
+2022-2023,13,2022-10-15,Lechia Gdańsk,RKS Raków,0,3,0.0
+2022-2023,13,2022-10-15,Warta Poznań,Jagiellonia,2,0,1.0
+2022-2023,13,2022-10-15,Pogoń Szczecin,Piast Gliwice,1,1,0.5
+2022-2023,13,2022-10-16,Miedź Legnica,Cracovia,1,1,0.5
+2022-2023,13,2022-10-16,Widzew Łódź,Zagłębie Lubin,3,0,1.0
+2022-2023,13,2022-10-16,Górnik Zabrze,Lech Poznań,1,2,0.0
+2022-2023,14,2022-10-21,Widzew Łódź,Miedź Legnica,1,0,1.0
+2022-2023,14,2022-10-22,Stal Mielec,Wisła Płock,1,1,0.5
+2022-2023,14,2022-10-22,Legia Warsaw,Pogoń Szczecin,1,1,0.5
+2022-2023,14,2022-10-22,RKS Raków,Korona Kielce,1,0,1.0
+2022-2023,14,2022-10-23,Warta Poznań,Górnik Zabrze,0,0,0.5
+2022-2023,14,2022-10-23,Śląsk Wrocław,Jagiellonia,2,2,0.5
+2022-2023,14,2022-10-23,Cracovia,Lech Poznań,0,0,0.5
+2022-2023,14,2022-10-24,Piast Gliwice,Radomiak Radom,1,2,0.0
+2022-2023,14,2022-10-24,Zagłębie Lubin,Lechia Gdańsk,0,3,0.0
+2022-2023,15,2022-10-28,Miedź Legnica,Pogoń Szczecin,2,4,0.0
+2022-2023,15,2022-10-28,Górnik Zabrze,Widzew Łódź,3,0,1.0
+2022-2023,15,2022-10-29,Korona Kielce,Piast Gliwice,1,1,0.5
+2022-2023,15,2022-10-29,Jagiellonia,Legia Warsaw,2,5,0.0
+2022-2023,15,2022-10-29,Wisła Płock,Śląsk Wrocław,1,2,0.0
+2022-2023,15,2022-10-30,Zagłębie Lubin,Cracovia,0,2,0.0
+2022-2023,15,2022-10-30,Lechia Gdańsk,Stal Mielec,1,0,1.0
+2022-2023,15,2022-10-30,Lech Poznań,RKS Raków,1,2,0.0
+2022-2023,15,2022-10-31,Radomiak Radom,Warta Poznań,2,3,0.0
+2022-2023,16,2022-11-04,Stal Mielec,Zagłębie Lubin,3,0,1.0
+2022-2023,16,2022-11-04,Legia Warsaw,Lechia Gdańsk,2,1,1.0
+2022-2023,16,2022-11-05,Piast Gliwice,Warta Poznań,0,2,0.0
+2022-2023,16,2022-11-05,Cracovia,Jagiellonia,1,0,1.0
+2022-2023,16,2022-11-05,Pogoń Szczecin,Górnik Zabrze,1,4,0.0
+2022-2023,16,2022-11-05,RKS Raków,Wisła Płock,7,1,1.0
+2022-2023,16,2022-11-06,Miedź Legnica,Śląsk Wrocław,1,0,1.0
+2022-2023,16,2022-11-06,Widzew Łódź,Radomiak Radom,1,3,0.0
+2022-2023,16,2022-11-06,Lech Poznań,Korona Kielce,3,2,1.0
+2022-2023,17,2022-11-11,Warta Poznań,Stal Mielec,1,1,0.5
+2022-2023,17,2022-11-11,Wisła Płock,Cracovia,1,0,1.0
+2022-2023,17,2022-11-12,Korona Kielce,Widzew Łódź,0,1,0.0
+2022-2023,17,2022-11-12,Górnik Zabrze,Miedź Legnica,0,3,0.0
+2022-2023,17,2022-11-12,Jagiellonia,Lech Poznań,1,2,0.0
+2022-2023,17,2022-11-12,Zagłębie Lubin,RKS Raków,1,2,0.0
+2022-2023,17,2022-11-13,Radomiak Radom,Pogoń Szczecin,1,2,0.0
+2022-2023,17,2022-11-13,Lechia Gdańsk,Piast Gliwice,1,3,0.0
+2022-2023,17,2022-11-13,Śląsk Wrocław,Legia Warsaw,0,0,0.5
+2022-2023,2,2022-11-18,Lechia Gdańsk,Górnik Zabrze,2,1,1.0
+2022-2023,18,2023-01-27,Miedź Legnica,Radomiak Radom,0,0,0.5
+2022-2023,18,2023-01-27,Stal Mielec,Lech Poznań,0,0,0.5
+2022-2023,18,2023-01-28,Warta Poznań,RKS Raków,1,1,0.5
+2022-2023,18,2023-01-28,Widzew Łódź,Pogoń Szczecin,3,3,0.5
+2022-2023,18,2023-01-28,Śląsk Wrocław,Zagłębie Lubin,0,3,0.0
+2022-2023,18,2023-01-29,Piast Gliwice,Jagiellonia,1,1,0.5
+2022-2023,18,2023-01-29,Legia Warsaw,Korona Kielce,3,2,1.0
+2022-2023,18,2023-01-29,Lechia Gdańsk,Wisła Płock,1,0,1.0
+2022-2023,18,2023-01-30,Cracovia,Górnik Zabrze,2,0,1.0
+2022-2023,2,2023-02-01,Miedź Legnica,Lech Poznań,2,2,0.5
+2022-2023,19,2023-02-03,Widzew Łódź,Jagiellonia,1,1,0.5
+2022-2023,19,2023-02-04,RKS Raków,Piast Gliwice,1,0,1.0
+2022-2023,19,2023-02-04,Górnik Zabrze,Lechia Gdańsk,1,1,0.5
+2022-2023,19,2023-02-04,Zagłębie Lubin,Legia Warsaw,1,2,0.0
+2022-2023,19,2023-02-05,Radomiak Radom,Stal Mielec,1,0,1.0
+2022-2023,19,2023-02-05,Lech Poznań,Miedź Legnica,1,0,1.0
+2022-2023,19,2023-02-05,Pogoń Szczecin,Śląsk Wrocław,0,2,0.0
+2022-2023,19,2023-02-06,Korona Kielce,Cracovia,2,1,1.0
+2022-2023,20,2023-02-10,Stal Mielec,RKS Raków,0,0,0.5
+2022-2023,20,2023-02-10,Lechia Gdańsk,Widzew Łódź,0,0,0.5
+2022-2023,20,2023-02-11,Śląsk Wrocław,Korona Kielce,1,1,0.5
+2022-2023,20,2023-02-11,Wisła Płock,Lech Poznań,0,1,0.0
+2022-2023,20,2023-02-11,Jagiellonia,Pogoń Szczecin,2,0,1.0
+2022-2023,20,2023-02-12,Zagłębie Lubin,Piast Gliwice,0,2,0.0
+2022-2023,20,2023-02-12,Górnik Zabrze,Radomiak Radom,0,0,0.5
+2022-2023,20,2023-02-12,Legia Warsaw,Cracovia,2,2,0.5
+2022-2023,20,2023-02-13,Warta Poznań,Miedź Legnica,1,1,0.5
+2022-2023,21,2023-02-17,Cracovia,Stal Mielec,2,1,1.0
+2022-2023,21,2023-02-17,Widzew Łódź,Śląsk Wrocław,1,0,1.0
+2022-2023,21,2023-02-18,Korona Kielce,Lechia Gdańsk,1,0,1.0
+2022-2023,21,2023-02-18,RKS Raków,Górnik Zabrze,2,0,1.0
+2022-2023,21,2023-02-18,Pogoń Szczecin,Warta Poznań,3,1,1.0
+2022-2023,21,2023-02-19,Miedź Legnica,Wisła Płock,2,1,1.0
+2022-2023,21,2023-02-19,Lech Poznań,Zagłębie Lubin,1,2,0.0
+2022-2023,21,2023-02-19,Piast Gliwice,Legia Warsaw,0,1,0.0
+2022-2023,21,2023-02-20,Radomiak Radom,Jagiellonia,0,0,0.5
+2022-2023,22,2023-02-24,Jagiellonia,RKS Raków,1,2,0.0
+2022-2023,22,2023-02-24,Legia Warsaw,Widzew Łódź,2,2,0.5
+2022-2023,22,2023-02-25,Piast Gliwice,Cracovia,2,1,1.0
+2022-2023,22,2023-02-25,Warta Poznań,Korona Kielce,5,1,1.0
+2022-2023,22,2023-02-25,Lechia Gdańsk,Radomiak Radom,1,3,0.0
+2022-2023,22,2023-02-26,Stal Mielec,Górnik Zabrze,0,1,0.0
+2022-2023,22,2023-02-26,Wisła Płock,Pogoń Szczecin,0,1,0.0
+2022-2023,22,2023-02-26,Śląsk Wrocław,Lech Poznań,2,1,1.0
+2022-2023,22,2023-02-27,Zagłębie Lubin,Miedź Legnica,2,1,1.0
+2022-2023,23,2023-03-03,Stal Mielec,Piast Gliwice,0,2,0.0
+2022-2023,23,2023-03-03,Lech Poznań,Lechia Gdańsk,5,0,1.0
+2022-2023,23,2023-03-04,Widzew Łódź,Warta Poznań,0,2,0.0
+2022-2023,23,2023-03-04,Korona Kielce,Wisła Płock,1,0,1.0
+2022-2023,23,2023-03-04,Górnik Zabrze,Legia Warsaw,0,1,0.0
+2022-2023,23,2023-03-05,Miedź Legnica,Jagiellonia,1,1,0.5
+2022-2023,23,2023-03-05,Pogoń Szczecin,RKS Raków,0,2,0.0
+2022-2023,23,2023-03-05,Cracovia,Śląsk Wrocław,1,1,0.5
+2022-2023,23,2023-03-06,Radomiak Radom,Zagłębie Lubin,0,1,0.0
+2022-2023,19,2023-03-08,Wisła Płock,Warta Poznań,1,0,1.0
+2022-2023,24,2023-03-10,Lechia Gdańsk,Miedź Legnica,4,0,1.0
+2022-2023,24,2023-03-10,RKS Raków,Śląsk Wrocław,4,1,1.0
+2022-2023,24,2023-03-11,Korona Kielce,Radomiak Radom,2,1,1.0
+2022-2023,24,2023-03-11,Zagłębie Lubin,Pogoń Szczecin,0,1,0.0
+2022-2023,24,2023-03-11,Jagiellonia,Górnik Zabrze,2,1,1.0
+2022-2023,24,2023-03-12,Warta Poznań,Cracovia,0,0,0.5
+2022-2023,24,2023-03-12,Piast Gliwice,Lech Poznań,1,1,0.5
+2022-2023,24,2023-03-12,Legia Warsaw,Stal Mielec,2,0,1.0
+2022-2023,24,2023-03-13,Wisła Płock,Widzew Łódź,1,1,0.5
+2022-2023,25,2023-03-17,Górnik Zabrze,Wisła Płock,3,2,1.0
+2022-2023,25,2023-03-17,Radomiak Radom,Legia Warsaw,0,2,0.0
+2022-2023,25,2023-03-18,Śląsk Wrocław,Stal Mielec,1,1,0.5
+2022-2023,25,2023-03-18,Jagiellonia,Zagłębie Lubin,2,2,0.5
+2022-2023,25,2023-03-18,Pogoń Szczecin,Korona Kielce,0,0,0.5
+2022-2023,25,2023-03-18,RKS Raków,Cracovia,4,1,1.0
+2022-2023,25,2023-03-19,Warta Poznań,Lechia Gdańsk,2,0,1.0
+2022-2023,25,2023-03-19,Miedź Legnica,Piast Gliwice,0,1,0.0
+2022-2023,25,2023-03-19,Widzew Łódź,Lech Poznań,1,2,0.0
+2022-2023,26,2023-03-31,Zagłębie Lubin,Warta Poznań,0,0,0.5
+2022-2023,26,2023-03-31,Piast Gliwice,Górnik Zabrze,1,0,1.0
+2022-2023,26,2023-04-01,Korona Kielce,Miedź Legnica,1,0,1.0
+2022-2023,26,2023-04-01,Legia Warsaw,RKS Raków,3,1,1.0
+2022-2023,26,2023-04-01,Lechia Gdańsk,Śląsk Wrocław,0,0,0.5
+2022-2023,26,2023-04-02,Wisła Płock,Radomiak Radom,1,1,0.5
+2022-2023,26,2023-04-02,Cracovia,Widzew Łódź,1,1,0.5
+2022-2023,26,2023-04-02,Lech Poznań,Pogoń Szczecin,2,2,0.5
+2022-2023,26,2023-04-03,Stal Mielec,Jagiellonia,1,1,0.5
+2022-2023,27,2023-04-06,Śląsk Wrocław,Piast Gliwice,0,1,0.0
+2022-2023,27,2023-04-06,Górnik Zabrze,Korona Kielce,1,1,0.5
+2022-2023,27,2023-04-08,Wisła Płock,Zagłębie Lubin,2,0,1.0
+2022-2023,27,2023-04-08,Widzew Łódź,Stal Mielec,0,2,0.0
+2022-2023,27,2023-04-08,Pogoń Szczecin,Cracovia,3,2,1.0
+2022-2023,27,2023-04-08,Lech Poznań,Warta Poznań,2,0,1.0
+2022-2023,27,2023-04-10,Jagiellonia,Lechia Gdańsk,1,0,1.0
+2022-2023,27,2023-04-10,Radomiak Radom,RKS Raków,0,0,0.5
+2022-2023,27,2023-04-10,Miedź Legnica,Legia Warsaw,2,2,0.5
+2022-2023,28,2023-04-14,Warta Poznań,Śląsk Wrocław,3,1,1.0
+2022-2023,28,2023-04-14,Zagłębie Lubin,Górnik Zabrze,0,2,0.0
+2022-2023,28,2023-04-15,Cracovia,Radomiak Radom,3,0,1.0
+2022-2023,28,2023-04-15,Korona Kielce,Jagiellonia,2,1,1.0
+2022-2023,28,2023-04-15,Lechia Gdańsk,Pogoń Szczecin,0,1,0.0
+2022-2023,28,2023-04-16,Piast Gliwice,Wisła Płock,1,0,1.0
+2022-2023,28,2023-04-16,RKS Raków,Widzew Łódź,2,0,1.0
+2022-2023,28,2023-04-16,Legia Warsaw,Lech Poznań,2,2,0.5
+2022-2023,28,2023-04-17,Stal Mielec,Miedź Legnica,1,1,0.5
+2022-2023,29,2023-04-21,Wisła Płock,Jagiellonia,2,4,0.0
+2022-2023,29,2023-04-21,Warta Poznań,Legia Warsaw,1,0,1.0
+2022-2023,29,2023-04-22,Lechia Gdańsk,Cracovia,1,2,0.0
+2022-2023,29,2023-04-22,Miedź Legnica,RKS Raków,0,2,0.0
+2022-2023,29,2023-04-22,Pogoń Szczecin,Stal Mielec,4,2,1.0
+2022-2023,29,2023-04-23,Korona Kielce,Zagłębie Lubin,2,2,0.5
+2022-2023,29,2023-04-23,Widzew Łódź,Piast Gliwice,2,3,0.0
+2022-2023,29,2023-04-23,Górnik Zabrze,Śląsk Wrocław,2,0,1.0
+2022-2023,29,2023-04-24,Radomiak Radom,Lech Poznań,1,1,0.5
+2022-2023,30,2023-04-28,Legia Warsaw,Wisła Płock,2,0,1.0
+2022-2023,30,2023-04-28,RKS Raków,Lechia Gdańsk,4,0,1.0
+2022-2023,30,2023-04-29,Jagiellonia,Warta Poznań,3,1,1.0
+2022-2023,30,2023-04-29,Zagłębie Lubin,Widzew Łódź,2,0,1.0
+2022-2023,30,2023-04-29,Piast Gliwice,Pogoń Szczecin,0,0,0.5
+2022-2023,30,2023-04-30,Śląsk Wrocław,Radomiak Radom,0,1,0.0
+2022-2023,30,2023-04-30,Stal Mielec,Korona Kielce,2,1,1.0
+2022-2023,30,2023-04-30,Lech Poznań,Górnik Zabrze,0,1,0.0
+2022-2023,30,2023-05-01,Cracovia,Miedź Legnica,1,1,0.5
+2022-2023,31,2023-05-05,Jagiellonia,Śląsk Wrocław,1,1,0.5
+2022-2023,31,2023-05-05,Górnik Zabrze,Warta Poznań,2,0,1.0
+2022-2023,31,2023-05-06,Radomiak Radom,Piast Gliwice,0,1,0.0
+2022-2023,31,2023-05-06,Lech Poznań,Cracovia,3,0,1.0
+2022-2023,31,2023-05-06,Lechia Gdańsk,Zagłębie Lubin,1,3,0.0
+2022-2023,31,2023-05-07,Wisła Płock,Stal Mielec,0,0,0.5
+2022-2023,31,2023-05-07,Korona Kielce,RKS Raków,1,0,1.0
+2022-2023,31,2023-05-07,Pogoń Szczecin,Legia Warsaw,2,1,1.0
+2022-2023,31,2023-05-08,Miedź Legnica,Widzew Łódź,0,1,0.0
+2022-2023,32,2023-05-12,Piast Gliwice,Korona Kielce,2,1,1.0
+2022-2023,32,2023-05-12,Legia Warsaw,Jagiellonia,5,1,1.0
+2022-2023,32,2023-05-13,Śląsk Wrocław,Wisła Płock,3,1,1.0
+2022-2023,32,2023-05-13,Cracovia,Zagłębie Lubin,0,1,0.0
+2022-2023,32,2023-05-13,Widzew Łódź,Górnik Zabrze,2,3,0.0
+2022-2023,32,2023-05-14,Stal Mielec,Lechia Gdańsk,0,0,0.5
+2022-2023,32,2023-05-14,Pogoń Szczecin,Miedź Legnica,3,2,1.0
+2022-2023,32,2023-05-14,RKS Raków,Lech Poznań,0,2,0.0
+2022-2023,32,2023-05-15,Warta Poznań,Radomiak Radom,1,2,0.0
+2022-2023,33,2023-05-19,Zagłębie Lubin,Stal Mielec,2,0,1.0
+2022-2023,33,2023-05-19,Korona Kielce,Lech Poznań,0,3,0.0
+2022-2023,33,2023-05-20,Jagiellonia,Cracovia,1,1,0.5
+2022-2023,33,2023-05-20,Górnik Zabrze,Pogoń Szczecin,2,1,1.0
+2022-2023,33,2023-05-20,Lechia Gdańsk,Legia Warsaw,1,0,1.0
+2022-2023,33,2023-05-21,Śląsk Wrocław,Miedź Legnica,4,2,1.0
+2022-2023,33,2023-05-21,Radomiak Radom,Widzew Łódź,3,1,1.0
+2022-2023,33,2023-05-21,Wisła Płock,RKS Raków,1,2,0.0
+2022-2023,33,2023-05-22,Warta Poznań,Piast Gliwice,1,1,0.5
+2022-2023,34,2023-05-27,Pogoń Szczecin,Radomiak Radom,4,0,1.0
+2022-2023,34,2023-05-27,Miedź Legnica,Górnik Zabrze,0,0,0.5
+2022-2023,34,2023-05-27,Legia Warsaw,Śląsk Wrocław,3,1,1.0
+2022-2023,34,2023-05-27,Widzew Łódź,Korona Kielce,0,3,0.0
+2022-2023,34,2023-05-27,Piast Gliwice,Lechia Gdańsk,3,0,1.0
+2022-2023,34,2023-05-27,Stal Mielec,Warta Poznań,1,0,1.0
+2022-2023,34,2023-05-27,RKS Raków,Zagłębie Lubin,1,1,0.5
+2022-2023,34,2023-05-27,Cracovia,Wisła Płock,3,0,1.0
+2022-2023,34,2023-05-27,Lech Poznań,Jagiellonia,2,0,1.0

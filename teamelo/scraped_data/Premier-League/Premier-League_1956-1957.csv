@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1956-1957,1,1956-08-18,Leeds United,Everton,5,1,1.0
+1956-1957,1,1956-08-18,Preston,Tottenham,1,4,0.0
+1956-1957,1,1956-08-18,Arsenal,Cardiff City,0,0,0.5
+1956-1957,1,1956-08-18,Burnley,Chelsea,2,0,1.0
+1956-1957,1,1956-08-18,Wolves,Manchester City,5,1,1.0
+1956-1957,1,1956-08-18,Manchester Utd,Birmingham City,2,2,0.5
+1956-1957,1,1956-08-18,Newcastle Utd,Portsmouth,2,1,1.0
+1956-1957,1,1956-08-18,Aston Villa,Charlton Ath,3,1,1.0
+1956-1957,1,1956-08-18,Sheffield Weds,West Brom,4,2,1.0
+1956-1957,1,1956-08-18,Luton Town,Sunderland,6,2,1.0
+1956-1957,1,1956-08-18,Bolton,Blackpool,4,1,1.0
+1956-1957,2,1956-08-20,Preston,Manchester Utd,1,3,0.0
+1956-1957,2,1956-08-21,Arsenal,Burnley,2,0,1.0
+1956-1957,2,1956-08-22,Manchester City,Tottenham,2,2,0.5
+1956-1957,2,1956-08-22,Luton Town,Wolves,1,0,1.0
+1956-1957,2,1956-08-22,West Brom,Aston Villa,2,0,1.0
+1956-1957,2,1956-08-22,Cardiff City,Newcastle Utd,5,2,1.0
+1956-1957,2,1956-08-22,Sheffield Weds,Chelsea,4,0,1.0
+1956-1957,2,1956-08-22,Everton,Blackpool,2,3,0.0
+1956-1957,2,1956-08-22,Sunderland,Bolton,3,0,1.0
+1956-1957,2,1956-08-22,Birmingham City,Portsmouth,3,1,1.0
+1956-1957,2,1956-08-23,Charlton Ath,Leeds United,1,2,0.0
+1956-1957,3,1956-08-25,Chelsea,Preston,1,0,1.0
+1956-1957,3,1956-08-25,Everton,Bolton,2,2,0.5
+1956-1957,3,1956-08-25,Sunderland,Newcastle Utd,1,2,0.0
+1956-1957,3,1956-08-25,Charlton Ath,Luton Town,1,2,0.0
+1956-1957,3,1956-08-25,Cardiff City,Burnley,3,3,0.5
+1956-1957,3,1956-08-25,Tottenham,Leeds United,5,1,1.0
+1956-1957,3,1956-08-25,Portsmouth,Sheffield Weds,3,1,1.0
+1956-1957,3,1956-08-25,Birmingham City,Arsenal,4,2,1.0
+1956-1957,3,1956-08-25,West Brom,Manchester Utd,2,3,0.0
+1956-1957,3,1956-08-25,Manchester City,Aston Villa,1,1,0.5
+1956-1957,3,1956-08-25,Blackpool,Wolves,3,2,1.0
+1956-1957,4,1956-08-27,Aston Villa,West Brom,0,0,0.5
+1956-1957,4,1956-08-27,Blackpool,Everton,5,2,1.0
+1956-1957,4,1956-08-28,Burnley,Arsenal,3,1,1.0
+1956-1957,4,1956-08-29,Newcastle Utd,Cardiff City,1,0,1.0
+1956-1957,4,1956-08-29,Leeds United,Charlton Ath,4,0,1.0
+1956-1957,4,1956-08-29,Manchester Utd,Preston,3,2,1.0
+1956-1957,4,1956-08-29,Wolves,Luton Town,5,4,1.0
+1956-1957,4,1956-08-29,Tottenham,Manchester City,3,2,1.0
+1956-1957,4,1956-08-29,Portsmouth,Birmingham City,3,4,0.0
+1956-1957,4,1956-09-01,Bolton,Tottenham,1,0,1.0
+1956-1957,4,1956-09-01,Sunderland,Charlton Ath,8,1,1.0
+1956-1957,5,1956-09-01,Preston,Cardiff City,6,0,1.0
+1956-1957,5,1956-09-01,Leeds United,Chelsea,0,0,0.5
+1956-1957,5,1956-09-01,Aston Villa,Blackpool,3,2,1.0
+1956-1957,5,1956-09-01,Manchester Utd,Portsmouth,3,0,1.0
+1956-1957,5,1956-09-01,Wolves,Everton,2,1,1.0
+1956-1957,5,1956-09-01,Burnley,Birmingham City,2,0,1.0
+1956-1957,5,1956-09-01,Arsenal,West Brom,4,1,1.0
+1956-1957,5,1956-09-01,Sheffield Weds,Newcastle Utd,4,0,1.0
+1956-1957,5,1956-09-01,Luton Town,Manchester City,3,2,1.0
+1956-1957,6,1956-09-03,Burnley,Everton,2,1,1.0
+1956-1957,6,1956-09-03,Blackpool,Tottenham,4,1,1.0
+1956-1957,6,1956-09-04,Arsenal,Preston,1,2,0.0
+1956-1957,5,1956-09-05,Bolton,Sunderland,2,1,1.0
+1956-1957,5,1956-09-05,Cardiff City,Sheffield Weds,2,1,1.0
+1956-1957,6,1956-09-05,Manchester City,Leeds United,1,0,1.0
+1956-1957,6,1956-09-05,West Brom,Portsmouth,2,1,1.0
+1956-1957,6,1956-09-05,Luton Town,Aston Villa,0,0,0.5
+1956-1957,6,1956-09-05,Chelsea,Manchester Utd,1,2,0.0
+1956-1957,6,1956-09-05,Birmingham City,Newcastle Utd,6,1,1.0
+1956-1957,6,1956-09-08,Leeds United,Bolton,3,2,1.0
+1956-1957,6,1956-09-08,Tottenham,Wolves,4,1,1.0
+1956-1957,6,1956-09-08,Charlton Ath,Sheffield Weds,4,4,0.5
+1956-1957,7,1956-09-08,Birmingham City,Preston,3,0,1.0
+1956-1957,7,1956-09-08,Cardiff City,Chelsea,1,1,0.5
+1956-1957,7,1956-09-08,Blackpool,Luton Town,4,0,1.0
+1956-1957,7,1956-09-08,Everton,Aston Villa,0,4,0.0
+1956-1957,7,1956-09-08,Manchester City,Sunderland,3,1,1.0
+1956-1957,7,1956-09-08,Portsmouth,Arsenal,2,3,0.0
+1956-1957,7,1956-09-08,Newcastle Utd,Manchester Utd,1,1,0.5
+1956-1957,7,1956-09-08,West Brom,Burnley,2,2,0.5
+1956-1957,8,1956-09-10,Preston,Arsenal,3,0,1.0
+1956-1957,7,1956-09-12,Bolton,Charlton Ath,2,0,1.0
+1956-1957,7,1956-09-12,Wolves,Sunderland,2,2,0.5
+1956-1957,7,1956-09-12,Sheffield Weds,Cardiff City,5,3,1.0
+1956-1957,8,1956-09-12,Leeds United,Manchester City,2,0,1.0
+1956-1957,8,1956-09-12,Everton,Burnley,1,0,1.0
+1956-1957,8,1956-09-15,Aston Villa,Tottenham,2,4,0.0
+1956-1957,8,1956-09-15,Bolton,Cardiff City,2,0,1.0
+1956-1957,8,1956-09-15,Manchester Utd,Sheffield Weds,4,1,1.0
+1956-1957,8,1956-09-15,Sunderland,Blackpool,5,2,1.0
+1956-1957,8,1956-09-15,Luton Town,Everton,2,0,1.0
+1956-1957,8,1956-09-15,Chelsea,Birmingham City,1,0,1.0
+1956-1957,9,1956-09-15,Preston,West Brom,3,2,1.0
+1956-1957,9,1956-09-15,Wolves,Leeds United,1,2,0.0
+1956-1957,9,1956-09-15,Burnley,Portsmouth,1,1,0.5
+1956-1957,9,1956-09-15,Arsenal,Newcastle Utd,0,1,0.0
+1956-1957,9,1956-09-15,Charlton Ath,Manchester City,1,0,1.0
+1956-1957,9,1956-09-19,Chelsea,Sheffield Weds,0,0,0.5
+1956-1957,9,1956-09-20,Charlton Ath,Bolton,2,1,1.0
+1956-1957,9,1956-09-22,West Brom,Chelsea,2,1,1.0
+1956-1957,9,1956-09-22,Leeds United,Aston Villa,1,0,1.0
+1956-1957,9,1956-09-22,Tottenham,Luton Town,5,0,1.0
+1956-1957,9,1956-09-22,Manchester Utd,Manchester City,2,0,1.0
+1956-1957,9,1956-09-22,Birmingham City,Cardiff City,2,1,1.0
+1956-1957,10,1956-09-22,Sheffield Weds,Arsenal,2,4,0.0
+1956-1957,10,1956-09-22,Bolton,Wolves,0,3,0.0
+1956-1957,10,1956-09-22,Portsmouth,Preston,2,2,0.5
+1956-1957,10,1956-09-22,Everton,Sunderland,2,1,1.0
+1956-1957,10,1956-09-22,Newcastle Utd,Burnley,1,1,0.5
+1956-1957,10,1956-09-22,Blackpool,Charlton Ath,3,2,1.0
+1956-1957,10,1956-09-29,Preston,Newcastle Utd,1,0,1.0
+1956-1957,10,1956-09-29,Chelsea,Portsmouth,3,3,0.5
+1956-1957,10,1956-09-29,Sunderland,Tottenham,0,2,0.0
+1956-1957,10,1956-09-29,Wolves,Birmingham City,3,0,1.0
+1956-1957,10,1956-09-29,Aston Villa,Bolton,0,0,0.5
+1956-1957,11,1956-09-29,Manchester City,Blackpool,0,3,0.0
+1956-1957,11,1956-09-29,Luton Town,Leeds United,2,2,0.5
+1956-1957,11,1956-09-29,Arsenal,Manchester Utd,1,2,0.0
+1956-1957,11,1956-09-29,Burnley,Sheffield Weds,4,1,1.0
+1956-1957,11,1956-09-29,Charlton Ath,Everton,1,2,0.0
+1956-1957,11,1956-09-29,Cardiff City,West Brom,0,0,0.5
+1956-1957,11,1956-10-06,Manchester Utd,Charlton Ath,4,2,1.0
+1956-1957,11,1956-10-06,West Brom,Wolves,1,1,0.5
+1956-1957,11,1956-10-06,Chelsea,Tottenham,2,4,0.0
+1956-1957,11,1956-10-06,Portsmouth,Aston Villa,5,1,1.0
+1956-1957,11,1956-10-06,Newcastle Utd,Luton Town,2,2,0.5
+1956-1957,12,1956-10-06,Burnley,Blackpool,2,2,0.5
+1956-1957,12,1956-10-06,Sheffield Weds,Sunderland,3,2,1.0
+1956-1957,12,1956-10-06,Cardiff City,Leeds United,4,1,1.0
+1956-1957,12,1956-10-06,Preston,Everton,0,0,0.5
+1956-1957,12,1956-10-06,Birmingham City,Bolton,0,0,0.5
+1956-1957,12,1956-10-06,Arsenal,Manchester City,7,3,1.0
+1956-1957,12,1956-10-13,Luton Town,Sheffield Weds,2,0,1.0
+1956-1957,12,1956-10-13,Aston Villa,Newcastle Utd,3,1,1.0
+1956-1957,12,1956-10-13,Sunderland,Manchester Utd,1,3,0.0
+1956-1957,12,1956-10-13,Wolves,Portsmouth,6,0,1.0
+1956-1957,13,1956-10-13,Tottenham,Cardiff City,5,0,1.0
+1956-1957,13,1956-10-13,Charlton Ath,Arsenal,1,3,0.0
+1956-1957,13,1956-10-13,Leeds United,Birmingham City,1,1,0.5
+1956-1957,13,1956-10-13,Manchester City,Burnley,0,1,0.0
+1956-1957,13,1956-10-13,Blackpool,Preston,4,0,1.0
+1956-1957,13,1956-10-13,Bolton,West Brom,1,1,0.5
+1956-1957,13,1956-10-13,Everton,Chelsea,0,3,0.0
+1956-1957,13,1956-10-20,Chelsea,Wolves,3,3,0.5
+1956-1957,13,1956-10-20,Manchester Utd,Everton,2,5,0.0
+1956-1957,13,1956-10-20,West Brom,Sunderland,2,0,1.0
+1956-1957,13,1956-10-20,Birmingham City,Luton Town,3,0,1.0
+1956-1957,13,1956-10-20,Newcastle Utd,Manchester City,0,3,0.0
+1956-1957,14,1956-10-20,Portsmouth,Charlton Ath,1,0,1.0
+1956-1957,14,1956-10-20,Sheffield Weds,Blackpool,1,2,0.0
+1956-1957,14,1956-10-20,Arsenal,Tottenham,3,1,1.0
+1956-1957,14,1956-10-20,Preston,Bolton,2,2,0.5
+1956-1957,14,1956-10-20,Burnley,Leeds United,0,0,0.5
+1956-1957,13,1956-10-27,Aston Villa,Birmingham City,3,1,1.0
+1956-1957,14,1956-10-27,Charlton Ath,Newcastle Utd,1,1,0.5
+1956-1957,14,1956-10-27,Sunderland,Portsmouth,3,3,0.5
+1956-1957,14,1956-10-27,Blackpool,Manchester Utd,2,2,0.5
+1956-1957,14,1956-10-27,Wolves,Cardiff City,3,1,1.0
+1956-1957,14,1956-10-27,Luton Town,West Brom,0,1,0.0
+1956-1957,15,1956-10-27,Tottenham,Burnley,2,0,1.0
+1956-1957,15,1956-10-27,Bolton,Chelsea,2,2,0.5
+1956-1957,15,1956-10-27,Leeds United,Preston,1,2,0.0
+1956-1957,15,1956-10-27,Everton,Arsenal,4,0,1.0
+1956-1957,15,1956-10-27,Manchester City,Sheffield Weds,4,2,1.0
+1956-1957,15,1956-11-03,Manchester Utd,Wolves,3,0,1.0
+1956-1957,15,1956-11-03,Portsmouth,Tottenham,2,3,0.0
+1956-1957,15,1956-11-03,Cardiff City,Manchester City,1,1,0.5
+1956-1957,15,1956-11-03,Birmingham City,Blackpool,2,2,0.5
+1956-1957,16,1956-11-03,Arsenal,Aston Villa,2,1,1.0
+1956-1957,16,1956-11-03,Newcastle Utd,Leeds United,2,3,0.0
+1956-1957,16,1956-11-03,West Brom,Everton,3,0,1.0
+1956-1957,16,1956-11-03,Burnley,Luton Town,1,1,0.5
+1956-1957,16,1956-11-03,Preston,Sunderland,6,0,1.0
+1956-1957,16,1956-11-03,Sheffield Weds,Bolton,1,2,0.0
+1956-1957,16,1956-11-03,Chelsea,Charlton Ath,1,3,0.0
+1956-1957,15,1956-11-10,Aston Villa,Burnley,1,0,1.0
+1956-1957,16,1956-11-10,Luton Town,Preston,1,1,0.5
+1956-1957,16,1956-11-10,Manchester City,Birmingham City,3,1,1.0
+1956-1957,16,1956-11-10,Charlton Ath,Cardiff City,0,2,0.0
+1956-1957,16,1956-11-10,Sunderland,Chelsea,1,3,0.0
+1956-1957,16,1956-11-10,Blackpool,West Brom,0,1,0.0
+1956-1957,16,1956-11-10,Tottenham,Newcastle Utd,3,1,1.0
+1956-1957,17,1956-11-10,Wolves,Arsenal,5,2,1.0
+1956-1957,17,1956-11-10,Everton,Portsmouth,2,2,0.5
+1956-1957,17,1956-11-10,Bolton,Manchester Utd,2,0,1.0
+1956-1957,17,1956-11-10,Leeds United,Sheffield Weds,3,1,1.0
+1956-1957,16,1956-11-17,Preston,Aston Villa,3,3,0.5
+1956-1957,17,1956-11-17,Portsmouth,Blackpool,0,0,0.5
+1956-1957,17,1956-11-17,Birmingham City,Charlton Ath,4,2,1.0
+1956-1957,17,1956-11-17,Cardiff City,Sunderland,1,0,1.0
+1956-1957,17,1956-11-17,Newcastle Utd,Everton,0,0,0.5
+1956-1957,17,1956-11-17,Chelsea,Luton Town,4,1,1.0
+1956-1957,18,1956-11-17,Sheffield Weds,Tottenham,4,1,1.0
+1956-1957,18,1956-11-17,Burnley,Wolves,3,0,1.0
+1956-1957,18,1956-11-17,Arsenal,Bolton,3,0,1.0
+1956-1957,18,1956-11-17,Manchester Utd,Leeds United,3,2,1.0
+1956-1957,18,1956-11-17,West Brom,Manchester City,1,1,0.5
+1956-1957,17,1956-11-24,Aston Villa,Chelsea,1,1,0.5
+1956-1957,18,1956-11-24,Sunderland,Birmingham City,0,1,0.0
+1956-1957,18,1956-11-24,Tottenham,Manchester Utd,2,2,0.5
+1956-1957,18,1956-11-24,Luton Town,Cardiff City,3,0,1.0
+1956-1957,18,1956-11-24,Charlton Ath,West Brom,3,2,1.0
+1956-1957,18,1956-11-24,Blackpool,Newcastle Utd,2,3,0.0
+1956-1957,19,1956-11-24,Bolton,Burnley,3,0,1.0
+1956-1957,19,1956-11-24,Everton,Sheffield Weds,1,0,1.0
+1956-1957,19,1956-11-24,Manchester City,Portsmouth,5,1,1.0
+1956-1957,19,1956-11-24,Leeds United,Arsenal,3,3,0.5
+1956-1957,19,1956-11-24,Wolves,Preston,4,3,1.0
+1956-1957,18,1956-12-01,Sheffield Weds,Aston Villa,2,1,1.0
+1956-1957,19,1956-12-01,Newcastle Utd,Wolves,2,1,1.0
+1956-1957,19,1956-12-01,Manchester Utd,Luton Town,3,1,1.0
+1956-1957,19,1956-12-01,Cardiff City,Everton,1,0,1.0
+1956-1957,19,1956-12-01,Chelsea,Blackpool,2,2,0.5
+1956-1957,19,1956-12-01,Birmingham City,Tottenham,0,0,0.5
+1956-1957,20,1956-12-01,Preston,Manchester City,3,1,1.0
+1956-1957,20,1956-12-01,West Brom,Leeds United,0,0,0.5
+1956-1957,20,1956-12-01,Burnley,Charlton Ath,2,1,1.0
+1956-1957,20,1956-12-01,Portsmouth,Bolton,1,1,0.5
+1956-1957,20,1956-12-01,Arsenal,Sunderland,1,1,0.5
+1956-1957,19,1956-12-08,Aston Villa,Manchester Utd,1,3,0.0
+1956-1957,20,1956-12-08,Blackpool,Cardiff City,3,1,1.0
+1956-1957,20,1956-12-08,Everton,Birmingham City,2,0,1.0
+1956-1957,20,1956-12-08,Tottenham,West Brom,2,2,0.5
+1956-1957,21,1956-12-08,Bolton,Newcastle Utd,3,1,1.0
+1956-1957,21,1956-12-08,Wolves,Sheffield Weds,2,1,1.0
+1956-1957,21,1956-12-08,Luton Town,Arsenal,1,2,0.0
+1956-1957,21,1956-12-08,Manchester City,Chelsea,5,4,1.0
+1956-1957,21,1956-12-08,Leeds United,Portsmouth,4,1,1.0
+1956-1957,21,1956-12-08,Charlton Ath,Preston,3,4,0.0
+1956-1957,21,1956-12-08,Sunderland,Burnley,2,1,1.0
+1956-1957,20,1956-12-15,Charlton Ath,Aston Villa,0,2,0.0
+1956-1957,21,1956-12-15,Sunderland,Luton Town,1,0,1.0
+1956-1957,21,1956-12-15,Portsmouth,Newcastle Utd,2,2,0.5
+1956-1957,21,1956-12-15,Birmingham City,Manchester Utd,3,1,1.0
+1956-1957,21,1956-12-15,Manchester City,Wolves,2,3,0.0
+1956-1957,22,1956-12-15,West Brom,Sheffield Weds,1,4,0.0
+1956-1957,22,1956-12-15,Cardiff City,Arsenal,2,3,0.0
+1956-1957,22,1956-12-15,Blackpool,Bolton,4,2,1.0
+1956-1957,22,1956-12-15,Everton,Leeds United,2,1,1.0
+1956-1957,22,1956-12-15,Chelsea,Burnley,2,0,1.0
+1956-1957,22,1956-12-15,Tottenham,Preston,1,1,0.5
+1956-1957,22,1956-12-22,Luton Town,Charlton Ath,4,2,1.0
+1956-1957,22,1956-12-22,Newcastle Utd,Sunderland,6,2,1.0
+1956-1957,22,1956-12-22,Wolves,Blackpool,4,1,1.0
+1956-1957,23,1956-12-22,Burnley,Cardiff City,6,2,1.0
+1956-1957,23,1956-12-22,Arsenal,Birmingham City,4,0,1.0
+1956-1957,21,1956-12-25,Sunderland,Aston Villa,1,0,1.0
+1956-1957,23,1956-12-25,Charlton Ath,Wolves,2,1,1.0
+1956-1957,23,1956-12-25,Tottenham,Everton,6,0,1.0
+1956-1957,23,1956-12-25,West Brom,Newcastle Utd,1,0,1.0
+1956-1957,23,1956-12-25,Manchester City,Bolton,1,3,0.0
+1956-1957,23,1956-12-25,Birmingham City,Sheffield Weds,4,0,1.0
+1956-1957,23,1956-12-25,Blackpool,Leeds United,1,1,0.5
+1956-1957,24,1956-12-25,Burnley,Preston,2,2,0.5
+1956-1957,24,1956-12-25,Chelsea,Arsenal,1,1,0.5
+1956-1957,22,1956-12-26,Manchester Utd,Cardiff City,3,1,1.0
+1956-1957,24,1956-12-26,Leeds United,Blackpool,5,0,1.0
+1956-1957,24,1956-12-26,Bolton,Manchester City,1,0,1.0
+1956-1957,24,1956-12-26,Newcastle Utd,West Brom,5,2,1.0
+1956-1957,24,1956-12-26,Everton,Tottenham,1,1,0.5
+1956-1957,25,1956-12-26,Arsenal,Chelsea,2,0,1.0
+1956-1957,25,1956-12-26,Preston,Burnley,1,0,1.0
+1956-1957,22,1956-12-29,Blackpool,Aston Villa,0,0,0.5
+1956-1957,23,1956-12-29,Manchester City,Luton Town,3,2,1.0
+1956-1957,23,1956-12-29,Portsmouth,Manchester Utd,1,3,0.0
+1956-1957,24,1956-12-29,Everton,Wolves,3,1,1.0
+1956-1957,24,1956-12-29,Charlton Ath,Sunderland,3,2,1.0
+1956-1957,25,1956-12-29,Newcastle Utd,Sheffield Weds,1,2,0.0
+1956-1957,25,1956-12-29,Chelsea,Leeds United,1,1,0.5
+1956-1957,25,1956-12-29,Cardiff City,Preston,2,3,0.0
+1956-1957,25,1956-12-29,Tottenham,Bolton,4,0,1.0
+1956-1957,26,1956-12-29,West Brom,Arsenal,0,2,0.0
+1956-1957,26,1956-12-29,Birmingham City,Burnley,2,0,1.0
+1956-1957,24,1957-01-01,Manchester Utd,Chelsea,3,0,1.0
+1956-1957,25,1957-01-01,Sunderland,Wolves,2,3,0.0
+1956-1957,26,1957-01-01,Newcastle Utd,Birmingham City,3,2,1.0
+1956-1957,23,1957-01-12,Aston Villa,Everton,5,1,1.0
+1956-1957,24,1957-01-12,Luton Town,Blackpool,0,2,0.0
+1956-1957,25,1957-01-12,Chelsea,Cardiff City,1,2,0.0
+1956-1957,25,1957-01-12,Manchester Utd,Newcastle Utd,6,1,1.0
+1956-1957,25,1957-01-12,Sheffield Weds,Charlton Ath,3,1,1.0
+1956-1957,26,1957-01-12,Preston,Birmingham City,1,0,1.0
+1956-1957,26,1957-01-12,Wolves,Tottenham,3,0,1.0
+1956-1957,26,1957-01-12,Bolton,Leeds United,5,3,1.0
+1956-1957,26,1957-01-12,Sunderland,Manchester City,1,1,0.5
+1956-1957,27,1957-01-12,Burnley,West Brom,1,0,1.0
+1956-1957,27,1957-01-12,Arsenal,Portsmouth,1,1,0.5
+1956-1957,24,1957-01-19,Tottenham,Aston Villa,3,0,1.0
+1956-1957,25,1957-01-19,Everton,Luton Town,2,1,1.0
+1956-1957,26,1957-01-19,Sheffield Weds,Manchester Utd,2,1,1.0
+1956-1957,27,1957-01-19,Leeds United,Wolves,0,0,0.5
+1956-1957,27,1957-01-19,West Brom,Preston,0,0,0.5
+1956-1957,27,1957-01-19,Cardiff City,Bolton,2,0,1.0
+1956-1957,27,1957-01-19,Manchester City,Charlton Ath,5,1,1.0
+1956-1957,27,1957-01-19,Blackpool,Sunderland,1,2,0.0
+1956-1957,27,1957-01-19,Birmingham City,Chelsea,0,1,0.0
+1956-1957,28,1957-01-19,Newcastle Utd,Arsenal,3,1,1.0
+1956-1957,28,1957-01-19,Portsmouth,Burnley,1,0,1.0
+1956-1957,25,1957-02-02,Aston Villa,Leeds United,1,1,0.5
+1956-1957,26,1957-02-02,Luton Town,Tottenham,1,3,0.0
+1956-1957,27,1957-02-02,Manchester City,Manchester Utd,2,4,0.0
+1956-1957,27,1957-02-02,Chelsea,West Brom,2,4,0.0
+1956-1957,28,1957-02-02,Preston,Portsmouth,7,1,1.0
+1956-1957,28,1957-02-02,Wolves,Bolton,3,2,1.0
+1956-1957,28,1957-02-02,Charlton Ath,Blackpool,0,4,0.0
+1956-1957,28,1957-02-02,Cardiff City,Birmingham City,1,2,0.0
+1956-1957,28,1957-02-02,Sunderland,Everton,1,1,0.5
+1956-1957,29,1957-02-02,Arsenal,Sheffield Weds,6,3,1.0
+1956-1957,29,1957-02-02,Burnley,Newcastle Utd,3,2,1.0
+1956-1957,26,1957-02-04,Aston Villa,Manchester City,2,2,0.5
+1956-1957,27,1957-02-09,Bolton,Aston Villa,0,0,0.5
+1956-1957,28,1957-02-09,West Brom,Cardiff City,1,2,0.0
+1956-1957,29,1957-02-09,Everton,Charlton Ath,5,0,1.0
+1956-1957,29,1957-02-09,Tottenham,Sunderland,5,2,1.0
+1956-1957,29,1957-02-09,Leeds United,Luton Town,1,2,0.0
+1956-1957,29,1957-02-09,Portsmouth,Chelsea,2,2,0.5
+1956-1957,29,1957-02-09,Birmingham City,Wolves,2,2,0.5
+1956-1957,30,1957-02-09,Newcastle Utd,Preston,1,2,0.0
+1956-1957,30,1957-02-09,Blackpool,Manchester City,4,1,1.0
+1956-1957,30,1957-02-09,Manchester Utd,Arsenal,6,2,1.0
+1956-1957,30,1957-02-09,Sheffield Weds,Burnley,0,0,0.5
+1956-1957,28,1957-02-16,Luton Town,Newcastle Utd,4,1,1.0
+1956-1957,29,1957-02-16,Sunderland,Sheffield Weds,5,2,1.0
+1956-1957,30,1957-02-16,Wolves,Charlton Ath,7,3,1.0
+1956-1957,30,1957-02-16,Leeds United,Cardiff City,3,0,1.0
+1956-1957,28,1957-02-18,Aston Villa,Portsmouth,2,2,0.5
+1956-1957,29,1957-02-18,Charlton Ath,Manchester Utd,1,5,0.0
+1956-1957,30,1957-02-20,Tottenham,Chelsea,3,4,0.0
+1956-1957,30,1957-02-20,Bolton,Birmingham City,3,1,1.0
+1956-1957,29,1957-02-23,West Brom,Luton Town,4,0,1.0
+1956-1957,30,1957-02-23,Sheffield Weds,Manchester City,2,2,0.5
+1956-1957,30,1957-02-23,Manchester Utd,Blackpool,0,2,0.0
+1956-1957,31,1957-02-23,Arsenal,Everton,2,0,1.0
+1956-1957,31,1957-02-23,Chelsea,Bolton,2,2,0.5
+1956-1957,31,1957-02-23,Preston,Leeds United,3,0,1.0
+1956-1957,31,1957-02-23,Cardiff City,Wolves,2,2,0.5
+1956-1957,32,1957-02-23,Newcastle Utd,Charlton Ath,3,1,1.0
+1956-1957,31,1957-02-27,Everton,Preston,1,4,0.0
+1956-1957,31,1957-03-02,Blackpool,Sheffield Weds,3,1,1.0
+1956-1957,32,1957-03-02,Wolves,Chelsea,3,1,1.0
+1956-1957,32,1957-03-02,Bolton,Preston,2,3,0.0
+1956-1957,32,1957-03-02,Leeds United,Tottenham,1,1,0.5
+1956-1957,33,1957-03-02,Manchester City,Newcastle Utd,1,2,0.0
+1956-1957,33,1957-03-02,Charlton Ath,Portsmouth,1,3,0.0
+1956-1957,31,1957-03-06,Everton,Manchester Utd,1,2,0.0
+1956-1957,29,1957-03-09,Manchester Utd,Aston Villa,1,1,0.5
+1956-1957,30,1957-03-09,West Brom,Tottenham,1,1,0.5
+1956-1957,31,1957-03-09,Burnley,Sunderland,2,0,1.0
+1956-1957,31,1957-03-09,Cardiff City,Blackpool,3,4,0.0
+1956-1957,31,1957-03-09,Birmingham City,Everton,1,3,0.0
+1956-1957,32,1957-03-09,Sheffield Weds,Wolves,2,1,1.0
+1956-1957,32,1957-03-09,Arsenal,Luton Town,1,3,0.0
+1956-1957,33,1957-03-09,Preston,Charlton Ath,4,3,1.0
+1956-1957,33,1957-03-09,Newcastle Utd,Bolton,4,0,1.0
+1956-1957,33,1957-03-09,Chelsea,Manchester City,4,2,1.0
+1956-1957,33,1957-03-09,Portsmouth,Leeds United,2,5,0.0
+1956-1957,32,1957-03-11,Leeds United,Burnley,1,1,0.5
+1956-1957,30,1957-03-13,Aston Villa,Cardiff City,4,1,1.0
+1956-1957,31,1957-03-13,Portsmouth,Luton Town,2,2,0.5
+1956-1957,32,1957-03-13,Sunderland,West Brom,1,4,0.0
+1956-1957,33,1957-03-13,Tottenham,Arsenal,1,3,0.0
+1956-1957,35,1957-03-16,Sunderland,Preston,0,0,0.5
+1956-1957,35,1957-03-16,Leeds United,Newcastle Utd,0,0,0.5
+1956-1957,35,1957-03-16,Bolton,Sheffield Weds,3,2,1.0
+1956-1957,35,1957-03-16,Charlton Ath,Chelsea,3,1,1.0
+1956-1957,35,1957-03-16,Blackpool,Birmingham City,3,1,1.0
+1956-1957,35,1957-03-16,Tottenham,Portsmouth,2,0,1.0
+1956-1957,35,1957-03-16,Everton,West Brom,0,1,0.0
+1956-1957,35,1957-03-16,Aston Villa,Arsenal,0,0,0.5
+1956-1957,35,1957-03-16,Wolves,Manchester Utd,1,1,0.5
+1956-1957,35,1957-03-16,Luton Town,Burnley,0,2,0.0
+1956-1957,35,1957-03-16,Manchester City,Cardiff City,4,1,1.0
+1956-1957,33,1957-03-20,Luton Town,Portsmouth,1,0,1.0
+1956-1957,34,1957-03-20,Manchester City,Arsenal,2,3,0.0
+1956-1957,36,1957-03-23,Chelsea,Sunderland,0,2,0.0
+1956-1957,36,1957-03-23,Portsmouth,Everton,3,2,1.0
+1956-1957,36,1957-03-23,Preston,Luton Town,2,0,1.0
+1956-1957,36,1957-03-23,Cardiff City,Charlton Ath,2,3,0.0
+1956-1957,36,1957-03-23,Arsenal,Wolves,0,0,0.5
+1956-1957,36,1957-03-23,Newcastle Utd,Tottenham,2,2,0.5
+1956-1957,36,1957-03-25,Manchester Utd,Bolton,0,2,0.0
+1956-1957,36,1957-03-26,Sheffield Weds,Leeds United,2,3,0.0
+1956-1957,37,1957-03-30,Aston Villa,Preston,2,0,1.0
+1956-1957,37,1957-03-30,Wolves,Burnley,1,2,0.0
+1956-1957,37,1957-03-30,Leeds United,Manchester Utd,1,2,0.0
+1956-1957,37,1957-03-30,Luton Town,Chelsea,0,4,0.0
+1956-1957,37,1957-03-30,Blackpool,Portsmouth,5,0,1.0
+1956-1957,37,1957-03-30,Tottenham,Sheffield Weds,1,1,0.5
+1956-1957,37,1957-03-30,Manchester City,West Brom,2,1,1.0
+1956-1957,37,1957-03-30,Bolton,Arsenal,2,1,1.0
+1956-1957,37,1957-03-30,Everton,Newcastle Utd,2,1,1.0
+1956-1957,37,1957-03-30,Sunderland,Cardiff City,1,1,0.5
+1956-1957,37,1957-03-30,Charlton Ath,Birmingham City,1,0,1.0
+1956-1957,33,1957-04-03,Cardiff City,Aston Villa,1,0,1.0
+1956-1957,34,1957-04-03,Luton Town,Birmingham City,0,0,0.5
+1956-1957,36,1957-04-03,West Brom,Blackpool,1,3,0.0
+1956-1957,38,1957-04-06,Portsmouth,Manchester City,0,1,0.0
+1956-1957,38,1957-04-06,Newcastle Utd,Blackpool,2,1,1.0
+1956-1957,38,1957-04-06,Chelsea,Aston Villa,1,1,0.5
+1956-1957,38,1957-04-06,Preston,Wolves,1,0,1.0
+1956-1957,38,1957-04-06,Sheffield Weds,Everton,2,2,0.5
+1956-1957,38,1957-04-06,Manchester Utd,Tottenham,0,0,0.5
+1956-1957,38,1957-04-06,Cardiff City,Luton Town,0,0,0.5
+1956-1957,38,1957-04-06,Arsenal,Leeds United,1,0,1.0
+1956-1957,38,1957-04-06,West Brom,Charlton Ath,2,2,0.5
+1956-1957,38,1957-04-06,Birmingham City,Sunderland,1,2,0.0
+1956-1957,38,1957-04-06,Burnley,Bolton,1,0,1.0
+1956-1957,34,1957-04-08,Aston Villa,Sunderland,2,2,0.5
+1956-1957,34,1957-04-09,Sheffield Weds,Portsmouth,3,1,1.0
+1956-1957,34,1957-04-10,Birmingham City,Aston Villa,1,2,0.0
+1956-1957,39,1957-04-13,Leeds United,West Brom,0,0,0.5
+1956-1957,39,1957-04-13,Bolton,Portsmouth,1,1,0.5
+1956-1957,39,1957-04-13,Sunderland,Arsenal,1,0,1.0
+1956-1957,39,1957-04-13,Charlton Ath,Burnley,1,2,0.0
+1956-1957,39,1957-04-13,Everton,Cardiff City,0,0,0.5
+1956-1957,39,1957-04-13,Manchester City,Preston,0,2,0.0
+1956-1957,39,1957-04-13,Wolves,Newcastle Utd,2,0,1.0
+1956-1957,39,1957-04-13,Aston Villa,Sheffield Weds,5,0,1.0
+1956-1957,39,1957-04-13,Tottenham,Birmingham City,5,1,1.0
+1956-1957,39,1957-04-13,Luton Town,Manchester Utd,0,2,0.0
+1956-1957,39,1957-04-13,Blackpool,Chelsea,1,0,1.0
+1956-1957,31,1957-04-15,Wolves,West Brom,5,2,1.0
+1956-1957,36,1957-04-15,Burnley,Aston Villa,2,1,1.0
+1956-1957,40,1957-04-19,Arsenal,Blackpool,1,1,0.5
+1956-1957,40,1957-04-19,Preston,Sheffield Weds,1,0,1.0
+1956-1957,40,1957-04-19,Manchester City,Everton,2,4,0.0
+1956-1957,40,1957-04-19,Newcastle Utd,Chelsea,1,2,0.0
+1956-1957,40,1957-04-19,Bolton,Luton Town,2,2,0.5
+1956-1957,40,1957-04-19,Charlton Ath,Tottenham,1,1,0.5
+1956-1957,40,1957-04-19,Burnley,Manchester Utd,1,3,0.0
+1956-1957,40,1957-04-19,Sunderland,Leeds United,2,0,1.0
+1956-1957,40,1957-04-19,Portsmouth,Cardiff City,1,0,1.0
+1956-1957,41,1957-04-20,Chelsea,Everton,5,1,1.0
+1956-1957,41,1957-04-20,Preston,Blackpool,0,0,0.5
+1956-1957,41,1957-04-20,Manchester Utd,Sunderland,4,0,1.0
+1956-1957,41,1957-04-20,Newcastle Utd,Aston Villa,1,2,0.0
+1956-1957,41,1957-04-20,Cardiff City,Tottenham,0,3,0.0
+1956-1957,41,1957-04-20,Portsmouth,Wolves,1,0,1.0
+1956-1957,41,1957-04-20,Burnley,Manchester City,0,3,0.0
+1956-1957,41,1957-04-20,Arsenal,Charlton Ath,3,1,1.0
+1956-1957,41,1957-04-20,Birmingham City,Leeds United,6,2,1.0
+1956-1957,41,1957-04-20,West Brom,Bolton,3,2,1.0
+1956-1957,41,1957-04-20,Sheffield Weds,Luton Town,3,0,1.0
+1956-1957,40,1957-04-22,West Brom,Birmingham City,0,0,0.5
+1956-1957,40,1957-04-22,Aston Villa,Wolves,4,0,1.0
+1956-1957,42,1957-04-22,Blackpool,Arsenal,2,4,0.0
+1956-1957,42,1957-04-22,Sheffield Weds,Preston,3,1,1.0
+1956-1957,42,1957-04-22,Manchester Utd,Burnley,2,0,1.0
+1956-1957,42,1957-04-22,Leeds United,Sunderland,3,1,1.0
+1956-1957,42,1957-04-22,Everton,Manchester City,1,1,0.5
+1956-1957,42,1957-04-22,Luton Town,Bolton,1,0,1.0
+1956-1957,42,1957-04-22,Chelsea,Newcastle Utd,6,2,1.0
+1956-1957,42,1957-04-22,Cardiff City,Portsmouth,0,2,0.0
+1956-1957,42,1957-04-22,Tottenham,Charlton Ath,6,2,1.0
+1956-1957,42,1957-04-23,Wolves,Aston Villa,3,0,1.0
+1956-1957,42,1957-04-23,Birmingham City,West Brom,2,0,1.0
+1956-1957,8,1957-04-27,Aston Villa,Luton Town,1,3,0.0
+1956-1957,8,1957-04-27,Portsmouth,West Brom,0,1,0.0
+1956-1957,8,1957-04-27,Tottenham,Blackpool,2,1,1.0
+1956-1957,23,1957-04-27,Preston,Chelsea,1,0,1.0
+1956-1957,23,1957-04-27,Bolton,Everton,1,1,0.5
+1956-1957,24,1957-04-27,Cardiff City,Manchester Utd,2,3,0.0
+1956-1957,36,1957-04-27,Birmingham City,Manchester City,3,3,0.5
+1956-1957,23,1957-04-29,Manchester Utd,West Brom,1,1,0.5
+1956-1957,25,1957-04-29,Sheffield Weds,Birmingham City,3,0,1.0
+1956-1957,32,1957-04-29,Burnley,Tottenham,1,0,1.0
+1956-1957,31,1957-05-01,Blackpool,Burnley,1,0,1.0
+1956-1957,32,1957-05-01,Portsmouth,Sunderland,3,2,1.0

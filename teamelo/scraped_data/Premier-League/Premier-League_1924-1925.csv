@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1924-1925,1,1924-08-30,Burnley,Cardiff City,0,0,0.5
+1924-1925,1,1924-08-30,Newcastle Utd,Huddersfield,1,3,0.0
+1924-1925,1,1924-08-30,Tottenham,Bolton,3,0,1.0
+1924-1925,1,1924-08-30,Bury,Manchester City,0,2,0.0
+1924-1925,1,1924-08-30,West Brom,Notts County,1,2,0.0
+1924-1925,1,1924-08-30,Leeds United,Sunderland,1,1,0.5
+1924-1925,1,1924-08-30,Birmingham,Everton,2,2,0.5
+1924-1925,1,1924-08-30,Sheffield Utd,Blackburn,2,3,0.0
+1924-1925,1,1924-08-30,Liverpool,Aston Villa,2,4,0.0
+1924-1925,1,1924-08-30,Nott'ham Forest,Arsenal,0,2,0.0
+1924-1925,1,1924-08-30,West Ham,Preston,1,0,1.0
+1924-1925,2,1924-09-01,Notts County,Leeds United,1,0,1.0
+1924-1925,2,1924-09-01,Blackburn,Newcastle Utd,1,1,0.5
+1924-1925,2,1924-09-01,Cardiff City,Sheffield Utd,1,1,0.5
+1924-1925,2,1924-09-01,Bolton,West Brom,1,1,0.5
+1924-1925,2,1924-09-01,Arsenal,Manchester City,1,0,1.0
+1924-1925,2,1924-09-01,Aston Villa,Bury,3,3,0.5
+1924-1925,2,1924-09-02,Huddersfield,Nott'ham Forest,3,0,1.0
+1924-1925,2,1924-09-03,Birmingham,Tottenham,0,2,0.0
+1924-1925,2,1924-09-03,Sunderland,Preston,2,0,1.0
+1924-1925,2,1924-09-06,Arsenal,Liverpool,2,0,1.0
+1924-1925,2,1924-09-06,Preston,Burnley,0,2,0.0
+1924-1925,2,1924-09-06,Blackburn,West Ham,0,1,0.0
+1924-1925,3,1924-09-06,Huddersfield,Sheffield Utd,2,1,1.0
+1924-1925,3,1924-09-06,Cardiff City,Leeds United,3,0,1.0
+1924-1925,3,1924-09-06,Notts County,Tottenham,0,0,0.5
+1924-1925,3,1924-09-06,Manchester City,Nott'ham Forest,4,2,1.0
+1924-1925,3,1924-09-06,Sunderland,Birmingham,4,0,1.0
+1924-1925,3,1924-09-06,Aston Villa,Newcastle Utd,0,0,0.5
+1924-1925,3,1924-09-06,Bolton,Bury,3,3,0.5
+1924-1925,3,1924-09-06,Everton,West Brom,1,0,1.0
+1924-1925,3,1924-09-08,Burnley,Everton,0,0,0.5
+1924-1925,4,1924-09-08,Bury,Aston Villa,4,3,1.0
+1924-1925,4,1924-09-08,Sheffield Utd,Cardiff City,1,0,1.0
+1924-1925,4,1924-09-08,Birmingham,Bolton,1,0,1.0
+1924-1925,4,1924-09-08,Nott'ham Forest,Huddersfield,0,1,0.0
+1924-1925,4,1924-09-08,West Brom,Tottenham,2,0,1.0
+1924-1925,4,1924-09-08,West Ham,Newcastle Utd,0,0,0.5
+1924-1925,4,1924-09-10,Leeds United,Notts County,1,1,0.5
+1924-1925,5,1924-09-10,Newcastle Utd,Blackburn,4,0,1.0
+1924-1925,3,1924-09-13,Liverpool,Manchester City,5,3,1.0
+1924-1925,4,1924-09-13,Burnley,Blackburn,3,5,0.0
+1924-1925,4,1924-09-13,West Ham,Huddersfield,0,0,0.5
+1924-1925,5,1924-09-13,Birmingham,Cardiff City,2,1,1.0
+1924-1925,5,1924-09-13,Leeds United,Preston,4,0,1.0
+1924-1925,5,1924-09-13,Tottenham,Everton,0,0,0.5
+1924-1925,5,1924-09-13,Bolton,Notts County,1,0,1.0
+1924-1925,5,1924-09-13,Nott'ham Forest,Bury,2,0,1.0
+1924-1925,5,1924-09-13,West Brom,Sunderland,2,1,1.0
+1924-1925,5,1924-09-13,Sheffield Utd,Aston Villa,2,2,0.5
+1924-1925,6,1924-09-13,Newcastle Utd,Arsenal,2,2,0.5
+1924-1925,4,1924-09-15,Blackburn,Liverpool,3,1,1.0
+1924-1925,6,1924-09-15,Preston,Cardiff City,1,3,0.0
+1924-1925,6,1924-09-15,Birmingham,Notts County,1,0,1.0
+1924-1925,5,1924-09-17,Manchester City,Arsenal,2,0,1.0
+1924-1925,6,1924-09-17,Leeds United,Everton,1,0,1.0
+1924-1925,7,1924-09-17,Newcastle Utd,West Ham,4,1,1.0
+1924-1925,5,1924-09-20,Burnley,Leeds United,1,1,0.5
+1924-1925,6,1924-09-20,Arsenal,Sheffield Utd,2,0,1.0
+1924-1925,6,1924-09-20,Cardiff City,West Brom,0,1,0.0
+1924-1925,6,1924-09-20,Notts County,Nott'ham Forest,0,0,0.5
+1924-1925,6,1924-09-20,Bury,Liverpool,0,0,0.5
+1924-1925,6,1924-09-20,Everton,Bolton,2,2,0.5
+1924-1925,6,1924-09-20,Sunderland,Tottenham,4,1,1.0
+1924-1925,6,1924-09-20,Aston Villa,West Ham,1,1,0.5
+1924-1925,7,1924-09-20,Huddersfield,Blackburn,0,0,0.5
+1924-1925,7,1924-09-20,Preston,Birmingham,1,0,1.0
+1924-1925,8,1924-09-20,Manchester City,Newcastle Utd,3,1,1.0
+1924-1925,7,1924-09-22,Tottenham,West Brom,0,1,0.0
+1924-1925,7,1924-09-22,Sheffield Utd,West Ham,1,1,0.5
+1924-1925,6,1924-09-27,Liverpool,Nott'ham Forest,3,0,1.0
+1924-1925,7,1924-09-27,Bolton,Sunderland,1,2,0.0
+1924-1925,7,1924-09-27,Blackburn,Aston Villa,1,1,0.5
+1924-1925,7,1924-09-27,Newcastle Utd,Bury,2,2,0.5
+1924-1925,8,1924-09-27,West Ham,Arsenal,1,0,1.0
+1924-1925,8,1924-09-27,Sheffield Utd,Manchester City,0,5,0.0
+1924-1925,8,1924-09-27,Notts County,Everton,3,1,1.0
+1924-1925,8,1924-09-27,West Brom,Preston,1,1,0.5
+1924-1925,8,1924-09-27,Tottenham,Cardiff City,1,1,0.5
+1924-1925,8,1924-09-27,Leeds United,Huddersfield,1,1,0.5
+1924-1925,8,1924-09-27,Birmingham,Burnley,1,0,1.0
+1924-1925,7,1924-09-29,Burnley,Sunderland,1,2,0.0
+1924-1925,8,1924-10-02,Nott'ham Forest,Aston Villa,0,2,0.0
+1924-1925,7,1924-10-04,Everton,Liverpool,0,1,0.0
+1924-1925,8,1924-10-04,Cardiff City,Bolton,1,2,0.0
+1924-1925,8,1924-10-04,Arsenal,Blackburn,1,0,1.0
+1924-1925,8,1924-10-04,Bury,Sheffield Utd,1,0,1.0
+1924-1925,8,1924-10-04,Burnley,West Brom,0,1,0.0
+1924-1925,9,1924-10-04,Leeds United,Birmingham,0,1,0.0
+1924-1925,9,1924-10-04,Manchester City,West Ham,3,1,1.0
+1924-1925,9,1924-10-04,Sunderland,Notts County,0,1,0.0
+1924-1925,9,1924-10-04,Aston Villa,Huddersfield,1,1,0.5
+1924-1925,9,1924-10-04,Preston,Tottenham,0,3,0.0
+1924-1925,10,1924-10-04,Nott'ham Forest,Newcastle Utd,1,1,0.5
+1924-1925,8,1924-10-11,Newcastle Utd,Liverpool,0,0,0.5
+1924-1925,9,1924-10-11,Bolton,Preston,6,1,1.0
+1924-1925,9,1924-10-11,Huddersfield,Arsenal,4,0,1.0
+1924-1925,9,1924-10-11,West Ham,Bury,1,1,0.5
+1924-1925,9,1924-10-11,Everton,Sunderland,0,3,0.0
+1924-1925,9,1924-10-11,Tottenham,Burnley,1,1,0.5
+1924-1925,10,1924-10-11,Blackburn,Manchester City,3,1,1.0
+1924-1925,10,1924-10-11,Notts County,Cardiff City,3,0,1.0
+1924-1925,10,1924-10-11,West Brom,Leeds United,3,1,1.0
+1924-1925,10,1924-10-11,Sheffield Utd,Nott'ham Forest,1,2,0.0
+1924-1925,10,1924-10-11,Birmingham,Aston Villa,1,0,1.0
+1924-1925,10,1924-10-13,Arsenal,Bury,0,1,0.0
+1924-1925,9,1924-10-15,Liverpool,Blackburn,0,0,0.5
+1924-1925,10,1924-10-18,Manchester City,Huddersfield,1,1,0.5
+1924-1925,10,1924-10-18,Liverpool,Sheffield Utd,4,1,1.0
+1924-1925,10,1924-10-18,Burnley,Bolton,0,0,0.5
+1924-1925,11,1924-10-18,Bury,Blackburn,1,1,0.5
+1924-1925,11,1924-10-18,Cardiff City,Everton,2,1,1.0
+1924-1925,11,1924-10-18,Nott'ham Forest,West Ham,2,1,1.0
+1924-1925,11,1924-10-18,Preston,Notts County,0,1,0.0
+1924-1925,11,1924-10-18,Arsenal,Aston Villa,1,1,0.5
+1924-1925,11,1924-10-18,West Brom,Birmingham,1,1,0.5
+1924-1925,11,1924-10-18,Leeds United,Tottenham,1,0,1.0
+1924-1925,12,1924-10-18,Sunderland,Newcastle Utd,1,1,0.5
+1924-1925,11,1924-10-25,Liverpool,Sunderland,3,1,1.0
+1924-1925,11,1924-10-25,West Ham,Burnley,2,0,1.0
+1924-1925,11,1924-10-25,Manchester City,Bolton,2,2,0.5
+1924-1925,12,1924-10-25,Aston Villa,West Brom,1,0,1.0
+1924-1925,12,1924-10-25,Arsenal,Tottenham,1,0,1.0
+1924-1925,12,1924-10-25,Sheffield Utd,Preston,3,0,1.0
+1924-1925,12,1924-10-25,Nott'ham Forest,Everton,0,1,0.0
+1924-1925,12,1924-10-25,Huddersfield,Birmingham,0,1,0.0
+1924-1925,12,1924-10-25,Bury,Notts County,2,1,1.0
+1924-1925,12,1924-10-25,Blackburn,Leeds United,2,3,0.0
+1924-1925,13,1924-10-25,Newcastle Utd,Cardiff City,1,2,0.0
+1924-1925,12,1924-10-29,Everton,Manchester City,3,1,1.0
+1924-1925,12,1924-11-01,Burnley,Sheffield Utd,1,1,0.5
+1924-1925,13,1924-11-01,Birmingham,Blackburn,1,1,0.5
+1924-1925,13,1924-11-01,Tottenham,Aston Villa,1,3,0.0
+1924-1925,13,1924-11-01,West Brom,Huddersfield,1,0,1.0
+1924-1925,13,1924-11-01,Notts County,Manchester City,2,0,1.0
+1924-1925,13,1924-11-01,Sunderland,Nott'ham Forest,3,1,1.0
+1924-1925,13,1924-11-01,Bolton,Arsenal,4,1,1.0
+1924-1925,13,1924-11-01,Everton,Bury,0,0,0.5
+1924-1925,13,1924-11-01,Leeds United,West Ham,2,1,1.0
+1924-1925,14,1924-11-01,Preston,Newcastle Utd,0,1,0.0
+1924-1925,12,1924-11-08,Liverpool,Preston,3,1,1.0
+1924-1925,13,1924-11-08,Newcastle Utd,Burnley,3,0,1.0
+1924-1925,14,1924-11-08,West Ham,Birmingham,0,1,0.0
+1924-1925,14,1924-11-08,Blackburn,West Brom,1,0,1.0
+1924-1925,14,1924-11-08,Manchester City,Everton,2,2,0.5
+1924-1925,14,1924-11-08,Nott'ham Forest,Cardiff City,2,1,1.0
+1924-1925,14,1924-11-08,Huddersfield,Tottenham,1,2,0.0
+1924-1925,14,1924-11-08,Arsenal,Notts County,0,1,0.0
+1924-1925,14,1924-11-08,Bury,Sunderland,3,0,1.0
+1924-1925,14,1924-11-08,Sheffield Utd,Leeds United,1,1,0.5
+1924-1925,14,1924-11-08,Aston Villa,Bolton,2,2,0.5
+1924-1925,15,1924-11-10,Tottenham,Manchester City,1,1,0.5
+1924-1925,13,1924-11-12,Liverpool,Huddersfield,2,3,0.0
+1924-1925,14,1924-11-15,Sunderland,Manchester City,3,2,1.0
+1924-1925,14,1924-11-15,Bolton,Huddersfield,1,0,1.0
+1924-1925,14,1924-11-15,Burnley,Liverpool,2,1,1.0
+1924-1925,15,1924-11-15,Preston,Nott'ham Forest,3,1,1.0
+1924-1925,15,1924-11-15,Leeds United,Newcastle Utd,1,1,0.5
+1924-1925,15,1924-11-15,Everton,Arsenal,2,3,0.0
+1924-1925,15,1924-11-15,Birmingham,Sheffield Utd,1,1,0.5
+1924-1925,15,1924-11-15,Cardiff City,Bury,4,1,1.0
+1924-1925,15,1924-11-15,Notts County,Aston Villa,0,0,0.5
+1924-1925,15,1924-11-15,West Brom,West Ham,4,1,1.0
+1924-1925,16,1924-11-15,Tottenham,Blackburn,5,0,1.0
+1924-1925,15,1924-11-20,Preston,Sunderland,1,2,0.0
+1924-1925,15,1924-11-22,Manchester City,Cardiff City,2,2,0.5
+1924-1925,15,1924-11-22,Nott'ham Forest,Burnley,0,0,0.5
+1924-1925,16,1924-11-22,Newcastle Utd,Birmingham,4,0,1.0
+1924-1925,16,1924-11-22,Aston Villa,Everton,3,1,1.0
+1924-1925,16,1924-11-22,Sheffield Utd,West Brom,2,0,1.0
+1924-1925,16,1924-11-22,Huddersfield,Notts County,0,0,0.5
+1924-1925,16,1924-11-22,Liverpool,Leeds United,1,0,1.0
+1924-1925,16,1924-11-22,Bury,Preston,1,1,0.5
+1924-1925,16,1924-11-22,Arsenal,Sunderland,0,0,0.5
+1924-1925,17,1924-11-22,West Ham,Tottenham,1,1,0.5
+1924-1925,17,1924-11-22,Blackburn,Bolton,0,2,0.0
+1924-1925,16,1924-11-29,Burnley,Bury,4,0,1.0
+1924-1925,17,1924-11-29,Bolton,West Ham,5,0,1.0
+1924-1925,17,1924-11-29,Tottenham,Sheffield Utd,4,1,1.0
+1924-1925,17,1924-11-29,Everton,Huddersfield,0,2,0.0
+1924-1925,17,1924-11-29,Sunderland,Aston Villa,1,1,0.5
+1924-1925,17,1924-11-29,Leeds United,Nott'ham Forest,1,1,0.5
+1924-1925,17,1924-11-29,Cardiff City,Arsenal,1,1,0.5
+1924-1925,17,1924-11-29,Birmingham,Liverpool,5,2,1.0
+1924-1925,18,1924-11-29,Preston,Manchester City,2,3,0.0
+1924-1925,18,1924-11-29,Notts County,Blackburn,0,0,0.5
+1924-1925,18,1924-11-29,West Brom,Newcastle Utd,2,0,1.0
+1924-1925,17,1924-12-06,Liverpool,West Brom,1,1,0.5
+1924-1925,17,1924-12-06,Manchester City,Burnley,3,3,0.5
+1924-1925,18,1924-12-06,Aston Villa,Cardiff City,1,2,0.0
+1924-1925,18,1924-12-06,Bury,Leeds United,1,0,1.0
+1924-1925,18,1924-12-06,West Ham,Notts County,3,0,1.0
+1924-1925,18,1924-12-06,Nott'ham Forest,Birmingham,1,1,0.5
+1924-1925,18,1924-12-06,Sheffield Utd,Bolton,2,0,1.0
+1924-1925,18,1924-12-06,Huddersfield,Sunderland,4,0,1.0
+1924-1925,18,1924-12-06,Arsenal,Preston,4,0,1.0
+1924-1925,19,1924-12-06,Newcastle Utd,Tottenham,1,1,0.5
+1924-1925,19,1924-12-06,Blackburn,Everton,3,0,1.0
+1924-1925,18,1924-12-13,Cardiff City,Huddersfield,2,2,0.5
+1924-1925,18,1924-12-13,Tottenham,Liverpool,1,1,0.5
+1924-1925,18,1924-12-13,Burnley,Arsenal,1,0,1.0
+1924-1925,19,1924-12-13,Birmingham,Bury,0,1,0.0
+1924-1925,19,1924-12-13,Everton,West Ham,1,0,1.0
+1924-1925,19,1924-12-13,Preston,Aston Villa,3,2,1.0
+1924-1925,19,1924-12-13,Leeds United,Manchester City,0,3,0.0
+1924-1925,19,1924-12-13,West Brom,Nott'ham Forest,5,1,1.0
+1924-1925,19,1924-12-13,Notts County,Sheffield Utd,2,0,1.0
+1924-1925,20,1924-12-13,Sunderland,Blackburn,1,0,1.0
+1924-1925,20,1924-12-13,Bolton,Newcastle Utd,3,2,1.0
+1924-1925,19,1924-12-15,Cardiff City,Liverpool,1,3,0.0
+1924-1925,19,1924-12-20,Aston Villa,Burnley,3,0,1.0
+1924-1925,20,1924-12-20,Arsenal,Leeds United,6,1,1.0
+1924-1925,20,1924-12-20,Bury,West Brom,0,2,0.0
+1924-1925,20,1924-12-20,Huddersfield,Preston,1,0,1.0
+1924-1925,20,1924-12-20,Manchester City,Birmingham,2,2,0.5
+1924-1925,20,1924-12-20,West Ham,Sunderland,4,1,1.0
+1924-1925,20,1924-12-20,Nott'ham Forest,Tottenham,1,0,1.0
+1924-1925,20,1924-12-20,Sheffield Utd,Everton,1,1,0.5
+1924-1925,20,1924-12-20,Liverpool,Bolton,0,0,0.5
+1924-1925,21,1924-12-20,Blackburn,Cardiff City,3,1,1.0
+1924-1925,21,1924-12-20,Newcastle Utd,Notts County,1,0,1.0
+1924-1925,20,1924-12-25,Burnley,Huddersfield,1,5,0.0
+1924-1925,21,1924-12-25,Bolton,Nott'ham Forest,1,0,1.0
+1924-1925,21,1924-12-25,West Ham,Cardiff City,3,2,1.0
+1924-1925,21,1924-12-25,Birmingham,Arsenal,2,1,1.0
+1924-1925,21,1924-12-25,Tottenham,Bury,1,1,0.5
+1924-1925,21,1924-12-25,Leeds United,Aston Villa,6,0,1.0
+1924-1925,21,1924-12-25,Manchester City,West Brom,1,2,0.0
+1924-1925,21,1924-12-25,Sunderland,Sheffield Utd,0,1,0.0
+1924-1925,21,1924-12-25,Notts County,Liverpool,1,2,0.0
+1924-1925,22,1924-12-25,Blackburn,Preston,0,1,0.0
+1924-1925,22,1924-12-25,Everton,Newcastle Utd,0,1,0.0
+1924-1925,21,1924-12-26,Huddersfield,Burnley,2,0,1.0
+1924-1925,22,1924-12-26,West Brom,Manchester City,3,1,1.0
+1924-1925,22,1924-12-26,Arsenal,Birmingham,0,1,0.0
+1924-1925,22,1924-12-26,Cardiff City,West Ham,2,1,1.0
+1924-1925,22,1924-12-26,Nott'ham Forest,Bolton,1,1,0.5
+1924-1925,22,1924-12-26,Sheffield Utd,Sunderland,2,1,1.0
+1924-1925,22,1924-12-26,Liverpool,Notts County,1,0,1.0
+1924-1925,22,1924-12-26,Aston Villa,Leeds United,2,1,1.0
+1924-1925,23,1924-12-26,Newcastle Utd,Everton,1,1,0.5
+1924-1925,23,1924-12-26,Preston,Blackburn,3,2,1.0
+1924-1925,23,1924-12-27,Blackburn,Sheffield Utd,2,2,0.5
+1924-1925,23,1924-12-27,Arsenal,Nott'ham Forest,2,1,1.0
+1924-1925,23,1924-12-27,Bolton,Tottenham,3,0,1.0
+1924-1925,23,1924-12-27,Notts County,West Brom,0,2,0.0
+1924-1925,23,1924-12-27,Sunderland,Leeds United,2,1,1.0
+1924-1925,23,1924-12-27,Preston,West Ham,3,2,1.0
+1924-1925,23,1924-12-27,Everton,Birmingham,2,1,1.0
+1924-1925,24,1924-12-27,Huddersfield,Newcastle Utd,0,0,0.5
+1924-1925,22,1925-01-01,Bury,Tottenham,5,2,1.0
+1924-1925,22,1925-01-01,Everton,Burnley,3,2,1.0
+1924-1925,23,1925-01-01,Sunderland,Cardiff City,1,0,1.0
+1924-1925,24,1925-01-01,Bolton,Birmingham,3,0,1.0
+1924-1925,25,1925-01-01,Newcastle Utd,Sheffield Utd,0,0,0.5
+1924-1925,23,1925-01-03,Bury,Bolton,1,0,1.0
+1924-1925,23,1925-01-03,Burnley,Preston,1,0,1.0
+1924-1925,23,1925-01-03,Liverpool,Arsenal,2,1,1.0
+1924-1925,24,1925-01-03,Leeds United,Cardiff City,0,0,0.5
+1924-1925,24,1925-01-03,Nott'ham Forest,Manchester City,0,3,0.0
+1924-1925,24,1925-01-03,West Ham,Blackburn,2,0,1.0
+1924-1925,24,1925-01-03,West Brom,Everton,3,0,1.0
+1924-1925,25,1925-01-03,Sheffield Utd,Huddersfield,1,1,0.5
+1924-1925,25,1925-01-03,Tottenham,Notts County,1,1,0.5
+1924-1925,25,1925-01-03,Birmingham,Sunderland,2,1,1.0
+1924-1925,26,1925-01-03,Newcastle Utd,Aston Villa,4,1,1.0
+1924-1925,24,1925-01-17,Manchester City,Liverpool,5,0,1.0
+1924-1925,24,1925-01-17,Bury,Nott'ham Forest,3,0,1.0
+1924-1925,24,1925-01-17,Blackburn,Burnley,0,3,0.0
+1924-1925,25,1925-01-17,Notts County,Bolton,0,1,0.0
+1924-1925,25,1925-01-17,Huddersfield,West Ham,1,2,0.0
+1924-1925,25,1925-01-17,Sunderland,West Brom,3,0,1.0
+1924-1925,25,1925-01-17,Preston,Leeds United,1,4,0.0
+1924-1925,26,1925-01-17,Cardiff City,Birmingham,1,0,1.0
+1924-1925,26,1925-01-17,Everton,Tottenham,1,0,1.0
+1924-1925,26,1925-01-17,Aston Villa,Sheffield Utd,1,1,0.5
+1924-1925,27,1925-01-17,Arsenal,Newcastle Utd,0,2,0.0
+1924-1925,25,1925-01-21,Aston Villa,Liverpool,1,4,0.0
+1924-1925,25,1925-01-24,Liverpool,Bury,4,0,1.0
+1924-1925,25,1925-01-24,Leeds United,Burnley,0,2,0.0
+1924-1925,26,1925-01-24,Nott'ham Forest,Notts County,0,0,0.5
+1924-1925,26,1925-01-24,West Ham,Aston Villa,2,0,1.0
+1924-1925,26,1925-01-24,West Brom,Cardiff City,1,0,1.0
+1924-1925,26,1925-01-24,Bolton,Everton,1,0,1.0
+1924-1925,27,1925-01-24,Tottenham,Sunderland,1,0,1.0
+1924-1925,27,1925-01-24,Blackburn,Huddersfield,2,3,0.0
+1924-1925,27,1925-01-24,Sheffield Utd,Arsenal,2,1,1.0
+1924-1925,27,1925-01-24,Birmingham,Preston,3,0,1.0
+1924-1925,28,1925-01-24,Newcastle Utd,Manchester City,2,0,1.0
+1924-1925,26,1925-01-31,Manchester City,Bury,0,0,0.5
+1924-1925,27,1925-01-31,Huddersfield,Leeds United,2,0,1.0
+1924-1925,28,1925-02-02,Burnley,Birmingham,3,2,1.0
+1924-1925,27,1925-02-04,Nott'ham Forest,Liverpool,0,1,0.0
+1924-1925,27,1925-02-07,Blackburn,Arsenal,1,0,1.0
+1924-1925,27,1925-02-07,West Brom,Burnley,1,4,0.0
+1924-1925,27,1925-02-07,West Ham,Manchester City,4,0,1.0
+1924-1925,27,1925-02-07,Notts County,Sunderland,4,1,1.0
+1924-1925,27,1925-02-07,Sheffield Utd,Bury,0,1,0.0
+1924-1925,27,1925-02-07,Huddersfield,Aston Villa,4,1,1.0
+1924-1925,27,1925-02-07,Bolton,Cardiff City,3,0,1.0
+1924-1925,28,1925-02-07,Liverpool,Everton,3,1,1.0
+1924-1925,28,1925-02-07,Tottenham,Preston,2,0,1.0
+1924-1925,29,1925-02-07,Newcastle Utd,Nott'ham Forest,4,1,1.0
+1924-1925,29,1925-02-07,Birmingham,Leeds United,0,0,0.5
+1924-1925,28,1925-02-11,Sunderland,Bolton,1,0,1.0
+1924-1925,28,1925-02-11,Cardiff City,Burnley,4,0,1.0
+1924-1925,28,1925-02-11,Bury,Newcastle Utd,0,0,0.5
+1924-1925,28,1925-02-12,Preston,West Brom,1,2,0.0
+1924-1925,28,1925-02-14,Arsenal,Huddersfield,0,5,0.0
+1924-1925,29,1925-02-14,Manchester City,Blackburn,1,3,0.0
+1924-1925,29,1925-02-14,Liverpool,Newcastle Utd,1,1,0.5
+1924-1925,29,1925-02-14,Leeds United,West Brom,0,1,0.0
+1924-1925,29,1925-02-14,Burnley,Tottenham,1,4,0.0
+1924-1925,29,1925-02-14,Nott'ham Forest,Sheffield Utd,2,3,0.0
+1924-1925,29,1925-02-14,Preston,Bolton,1,0,1.0
+1924-1925,29,1925-02-14,Bury,West Ham,4,2,1.0
+1924-1925,29,1925-02-14,Cardiff City,Notts County,1,1,0.5
+1924-1925,30,1925-02-14,Sunderland,Everton,4,1,1.0
+1924-1925,30,1925-02-14,Aston Villa,Birmingham,1,0,1.0
+1924-1925,30,1925-02-21,Bolton,Burnley,5,0,1.0
+1924-1925,30,1925-02-21,Huddersfield,Manchester City,1,1,0.5
+1924-1925,32,1925-02-21,Newcastle Utd,Sunderland,2,0,1.0
+1924-1925,30,1925-02-23,Manchester City,Sheffield Utd,2,1,1.0
+1924-1925,30,1925-02-25,Everton,Cardiff City,1,2,0.0
+1924-1925,30,1925-02-28,Sunderland,Liverpool,3,0,1.0
+1924-1925,30,1925-02-28,Everton,Nott'ham Forest,3,1,1.0
+1924-1925,30,1925-02-28,West Brom,Aston Villa,4,1,1.0
+1924-1925,30,1925-02-28,Leeds United,Blackburn,1,1,0.5
+1924-1925,30,1925-02-28,Notts County,Bury,1,1,0.5
+1924-1925,30,1925-02-28,Tottenham,Arsenal,2,0,1.0
+1924-1925,31,1925-02-28,Preston,Sheffield Utd,0,1,0.0
+1924-1925,31,1925-02-28,Birmingham,Huddersfield,0,1,0.0
+1924-1925,31,1925-02-28,Bolton,Manchester City,4,2,1.0
+1924-1925,31,1925-02-28,Burnley,West Ham,5,4,1.0
+1924-1925,33,1925-02-28,Cardiff City,Newcastle Utd,3,0,1.0
+1924-1925,30,1925-03-07,Manchester City,Notts County,2,1,1.0
+1924-1925,30,1925-03-07,Arsenal,Bolton,1,0,1.0
+1924-1925,31,1925-03-07,Nott'ham Forest,Sunderland,1,1,0.5
+1924-1925,31,1925-03-07,West Ham,Leeds United,0,0,0.5
+1924-1925,31,1925-03-07,Aston Villa,Tottenham,0,1,0.0
+1924-1925,31,1925-03-07,Bury,Everton,1,0,1.0
+1924-1925,34,1925-03-07,Newcastle Utd,Preston,3,1,1.0
+1924-1925,32,1925-03-09,Tottenham,Leeds United,2,1,1.0
+1924-1925,31,1925-03-11,Huddersfield,West Brom,1,1,0.5
+1924-1925,31,1925-03-14,Bolton,Aston Villa,4,0,1.0
+1924-1925,31,1925-03-14,Preston,Liverpool,4,0,1.0
+1924-1925,31,1925-03-14,Notts County,Arsenal,2,1,1.0
+1924-1925,32,1925-03-14,Cardiff City,Nott'ham Forest,2,0,1.0
+1924-1925,32,1925-03-14,West Brom,Blackburn,1,1,0.5
+1924-1925,32,1925-03-14,Burnley,Newcastle Utd,1,3,0.0
+1924-1925,32,1925-03-14,Birmingham,West Ham,1,1,0.5
+1924-1925,32,1925-03-14,Sunderland,Bury,1,1,0.5
+1924-1925,33,1925-03-14,Tottenham,Huddersfield,1,2,0.0
+1924-1925,33,1925-03-14,Leeds United,Sheffield Utd,1,1,0.5
+1924-1925,32,1925-03-16,Sheffield Utd,Liverpool,0,1,0.0
+1924-1925,33,1925-03-16,Birmingham,West Brom,0,0,0.5
+1924-1925,32,1925-03-18,Everton,Notts County,1,0,1.0
+1924-1925,34,1925-03-18,Cardiff City,Tottenham,0,2,0.0
+1924-1925,33,1925-03-19,Blackburn,Bury,0,1,0.0
+1924-1925,32,1925-03-21,Arsenal,Everton,3,1,1.0
+1924-1925,32,1925-03-21,Aston Villa,Notts County,0,0,0.5
+1924-1925,33,1925-03-21,Liverpool,Burnley,3,0,1.0
+1924-1925,33,1925-03-21,Nott'ham Forest,Preston,0,1,0.0
+1924-1925,34,1925-03-21,Bury,Cardiff City,4,1,1.0
+1924-1925,34,1925-03-21,Huddersfield,Bolton,0,0,0.5
+1924-1925,34,1925-03-21,Newcastle Utd,Leeds United,4,1,1.0
+1924-1925,34,1925-03-21,West Ham,West Brom,2,1,1.0
+1924-1925,34,1925-03-21,Sheffield Utd,Birmingham,4,3,1.0
+1924-1925,35,1925-03-21,Manchester City,Sunderland,1,3,0.0
+1924-1925,35,1925-03-21,Blackburn,Tottenham,1,1,0.5
+1924-1925,33,1925-03-23,Arsenal,West Ham,1,2,0.0
+1924-1925,33,1925-03-28,Everton,Aston Villa,2,0,1.0
+1924-1925,34,1925-03-28,Burnley,Nott'ham Forest,0,0,0.5
+1924-1925,34,1925-03-28,Sunderland,Arsenal,2,0,1.0
+1924-1925,35,1925-03-28,Preston,Bury,1,1,0.5
+1924-1925,35,1925-03-28,Birmingham,Newcastle Utd,1,1,0.5
+1924-1925,35,1925-03-28,Leeds United,Liverpool,4,1,1.0
+1924-1925,36,1925-03-28,Tottenham,West Ham,1,1,0.5
+1924-1925,35,1925-03-30,West Brom,Sheffield Utd,2,1,1.0
+1924-1925,34,1925-04-01,Notts County,Preston,1,0,1.0
+1924-1925,35,1925-04-01,Aston Villa,Arsenal,4,0,1.0
+1924-1925,35,1925-04-01,Cardiff City,Manchester City,0,2,0.0
+1924-1925,35,1925-04-02,West Ham,Nott'ham Forest,0,0,0.5
+1924-1925,36,1925-04-02,Blackburn,Birmingham,7,1,1.0
+1924-1925,35,1925-04-04,Aston Villa,Sunderland,1,4,0.0
+1924-1925,35,1925-04-04,Huddersfield,Everton,2,0,1.0
+1924-1925,35,1925-04-04,Blackburn,Notts County,0,2,0.0
+1924-1925,35,1925-04-04,Bury,Burnley,1,0,1.0
+1924-1925,36,1925-04-04,Sheffield Utd,Tottenham,2,0,1.0
+1924-1925,36,1925-04-04,Manchester City,Preston,2,1,1.0
+1924-1925,36,1925-04-04,Nott'ham Forest,Leeds United,4,0,1.0
+1924-1925,36,1925-04-04,Arsenal,Cardiff City,1,1,0.5
+1924-1925,36,1925-04-04,West Ham,Bolton,1,1,0.5
+1924-1925,37,1925-04-04,Liverpool,Birmingham,1,1,0.5
+1924-1925,38,1925-04-04,Newcastle Utd,West Brom,0,1,0.0
+1924-1925,36,1925-04-06,Sheffield Utd,Burnley,4,0,1.0
+1924-1925,36,1925-04-10,Aston Villa,Manchester City,2,1,1.0
+1924-1925,36,1925-04-10,Liverpool,West Ham,2,0,1.0
+1924-1925,37,1925-04-10,Nott'ham Forest,Blackburn,0,2,0.0
+1924-1925,37,1925-04-10,Preston,Everton,1,1,0.5
+1924-1925,37,1925-04-10,Bolton,Leeds United,1,0,1.0
+1924-1925,37,1925-04-10,Bury,Huddersfield,0,1,0.0
+1924-1925,37,1925-04-10,Burnley,Notts County,1,1,0.5
+1924-1925,38,1925-04-10,Tottenham,Birmingham,0,1,0.0
+1924-1925,37,1925-04-11,Cardiff City,Aston Villa,2,1,1.0
+1924-1925,37,1925-04-11,Sunderland,Huddersfield,1,1,0.5
+1924-1925,37,1925-04-11,West Brom,Liverpool,0,0,0.5
+1924-1925,37,1925-04-11,Everton,Blackburn,1,0,1.0
+1924-1925,37,1925-04-11,Preston,Arsenal,2,0,1.0
+1924-1925,38,1925-04-11,Burnley,Manchester City,1,0,1.0
+1924-1925,38,1925-04-11,Leeds United,Bury,1,0,1.0
+1924-1925,38,1925-04-11,Bolton,Sheffield Utd,3,1,1.0
+1924-1925,38,1925-04-11,Notts County,West Ham,4,1,1.0
+1924-1925,39,1925-04-11,Birmingham,Nott'ham Forest,1,1,0.5
+1924-1925,39,1925-04-11,Tottenham,Newcastle Utd,3,0,1.0
+1924-1925,38,1925-04-13,West Ham,Liverpool,0,1,0.0
+1924-1925,38,1925-04-13,West Brom,Arsenal,2,0,1.0
+1924-1925,38,1925-04-13,Cardiff City,Sunderland,2,0,1.0
+1924-1925,38,1925-04-13,Manchester City,Aston Villa,1,0,1.0
+1924-1925,39,1925-04-13,Everton,Preston,0,0,0.5
+1924-1925,39,1925-04-13,Blackburn,Nott'ham Forest,0,0,0.5
+1924-1925,39,1925-04-13,Notts County,Burnley,2,0,1.0
+1924-1925,40,1925-04-13,Sheffield Utd,Newcastle Utd,1,2,0.0
+1924-1925,39,1925-04-14,Huddersfield,Bury,2,0,1.0
+1924-1925,39,1925-04-14,Leeds United,Bolton,2,1,1.0
+1924-1925,39,1925-04-14,Arsenal,West Brom,2,0,1.0
+1924-1925,40,1925-04-14,West Ham,Sheffield Utd,6,2,1.0
+1924-1925,39,1925-04-15,Cardiff City,Blackburn,3,0,1.0
+1924-1925,39,1925-04-18,Aston Villa,Preston,1,0,1.0
+1924-1925,39,1925-04-18,Liverpool,Tottenham,1,0,1.0
+1924-1925,40,1925-04-18,Bury,Birmingham,1,4,0.0
+1924-1925,40,1925-04-18,Huddersfield,Cardiff City,0,0,0.5
+1924-1925,40,1925-04-18,Blackburn,Sunderland,1,1,0.5
+1924-1925,40,1925-04-18,Nott'ham Forest,West Brom,0,1,0.0
+1924-1925,40,1925-04-18,Manchester City,Leeds United,4,2,1.0
+1924-1925,40,1925-04-18,Arsenal,Burnley,5,0,1.0
+1924-1925,41,1925-04-18,Sheffield Utd,Notts County,2,0,1.0
+1924-1925,41,1925-04-18,West Ham,Everton,4,1,1.0
+1924-1925,41,1925-04-18,Newcastle Utd,Bolton,0,1,0.0
+1924-1925,41,1925-04-22,Bolton,Blackburn,6,0,1.0
+1924-1925,40,1925-04-25,Preston,Huddersfield,1,4,0.0
+1924-1925,40,1925-04-25,Bolton,Liverpool,2,0,1.0
+1924-1925,41,1925-04-25,Leeds United,Arsenal,1,0,1.0
+1924-1925,41,1925-04-25,Burnley,Aston Villa,1,1,0.5
+1924-1925,41,1925-04-25,Birmingham,Manchester City,2,1,1.0
+1924-1925,41,1925-04-25,West Brom,Bury,1,1,0.5
+1924-1925,41,1925-04-25,Tottenham,Nott'ham Forest,1,0,1.0
+1924-1925,42,1925-04-25,Sunderland,West Ham,1,1,0.5
+1924-1925,42,1925-04-25,Notts County,Newcastle Utd,2,0,1.0
+1924-1925,42,1925-04-27,Everton,Sheffield Utd,1,1,0.5
+1924-1925,41,1925-04-29,Aston Villa,Blackburn,4,3,1.0
+1924-1925,41,1925-04-29,Notts County,Huddersfield,1,1,0.5
+1924-1925,41,1925-04-29,Liverpool,Cardiff City,1,2,0.0
+1924-1925,42,1925-05-02,Notts County,Birmingham,0,1,0.0
+1924-1925,42,1925-05-02,West Brom,Bolton,0,0,0.5
+1924-1925,42,1925-05-02,Sunderland,Burnley,1,1,0.5
+1924-1925,42,1925-05-02,Bury,Arsenal,2,0,1.0
+1924-1925,42,1925-05-02,Aston Villa,Nott'ham Forest,2,0,1.0
+1924-1925,42,1925-05-02,Cardiff City,Preston,0,0,0.5
+1924-1925,42,1925-05-02,Manchester City,Tottenham,1,0,1.0
+1924-1925,42,1925-05-02,Everton,Leeds United,1,0,1.0
+1924-1925,42,1925-05-02,Huddersfield,Liverpool,1,1,0.5

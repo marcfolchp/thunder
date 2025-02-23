@@ -1,0 +1,343 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-08-09,Galatasaray,Hatayspor,2.0,1.0,1.0
+2024-2025,1,2024-08-10,Kasımpaşa,Konyaspor,2.0,3.0,0.0
+2024-2025,1,2024-08-10,Fenerbahçe,Adana Demirspor,1.0,0.0,1.0
+2024-2025,1,2024-08-10,Antalyaspor,Göztepe,0.0,0.0,0.5
+2024-2025,1,2024-08-11,Sivasspor,Trabzonspor,0.0,0.0,0.5
+2024-2025,1,2024-08-11,Samsunspor,Beşiktaş,0.0,2.0,0.0
+2024-2025,1,2024-08-11,Alanyaspor,Eyüpspor,1.0,1.0,0.5
+2024-2025,1,2024-08-12,Rizespor,Başakşehir,1.0,1.0,0.5
+2024-2025,1,2024-08-12,BB Bodrumspor,Gaziantep FK,0.0,1.0,0.0
+2024-2025,2,2024-08-16,Konyaspor,Galatasaray,1.0,2.0,0.0
+2024-2025,2,2024-08-17,Kayserispor,Sivasspor,1.0,2.0,0.0
+2024-2025,2,2024-08-17,Adana Demirspor,Rizespor,1.0,2.0,0.0
+2024-2025,2,2024-08-17,Göztepe,Fenerbahçe,2.0,2.0,0.5
+2024-2025,2,2024-08-18,Başakşehir,Alanyaspor,4.0,2.0,1.0
+2024-2025,2,2024-08-18,Gaziantep FK,Samsunspor,0.0,1.0,0.0
+2024-2025,2,2024-08-18,Beşiktaş,Antalyaspor,4.0,2.0,1.0
+2024-2025,2,2024-08-19,Hatayspor,Kasımpaşa,1.0,1.0,0.5
+2024-2025,2,2024-08-19,Eyüpspor,BB Bodrumspor,4.0,1.0,1.0
+2024-2025,3,2024-08-23,Alanyaspor,Göztepe,1.0,1.0,0.5
+2024-2025,3,2024-08-24,Sivasspor,Eyüpspor,0.0,1.0,0.0
+2024-2025,3,2024-08-24,BB Bodrumspor,Konyaspor,3.0,1.0,1.0
+2024-2025,3,2024-08-25,Kasımpaşa,Adana Demirspor,2.0,2.0,0.5
+2024-2025,3,2024-08-25,Rizespor,Fenerbahçe,0.0,5.0,0.0
+2024-2025,3,2024-08-25,Antalyaspor,Hatayspor,3.0,2.0,1.0
+2024-2025,4,2024-08-30,Fenerbahçe,Alanyaspor,3.0,0.0,1.0
+2024-2025,4,2024-08-31,Rizespor,Kasımpaşa,0.0,1.0,0.0
+2024-2025,4,2024-08-31,Konyaspor,Kayserispor,0.0,0.0,0.5
+2024-2025,4,2024-08-31,Adana Demirspor,Galatasaray,1.0,5.0,0.0
+2024-2025,4,2024-08-31,Göztepe,BB Bodrumspor,2.0,0.0,1.0
+2024-2025,4,2024-09-01,Başakşehir,Antalyaspor,5.0,2.0,1.0
+2024-2025,4,2024-09-01,Eyüpspor,Trabzonspor,0.0,0.0,0.5
+2024-2025,4,2024-09-01,Beşiktaş,Sivasspor,2.0,0.0,1.0
+2024-2025,4,2024-09-01,Hatayspor,Samsunspor,0.0,3.0,0.0
+2024-2025,5,2024-09-14,Samsunspor,Konyaspor,0.0,1.0,0.0
+2024-2025,5,2024-09-14,Sivasspor,Gaziantep FK,3.0,2.0,1.0
+2024-2025,5,2024-09-14,BB Bodrumspor,Başakşehir,0.0,1.0,0.0
+2024-2025,5,2024-09-14,Galatasaray,Rizespor,5.0,0.0,1.0
+2024-2025,5,2024-09-15,Kayserispor,Eyüpspor,2.0,2.0,0.5
+2024-2025,5,2024-09-15,Kasımpaşa,Fenerbahçe,0.0,2.0,0.0
+2024-2025,5,2024-09-15,Trabzonspor,Beşiktaş,1.0,1.0,0.5
+2024-2025,5,2024-09-15,Alanyaspor,Hatayspor,0.0,0.0,0.5
+2024-2025,5,2024-09-16,Antalyaspor,Adana Demirspor,2.0,1.0,1.0
+2024-2025,3,2024-09-17,Galatasaray,Gaziantep FK,3.0,1.0,1.0
+2024-2025,3,2024-09-18,Samsunspor,Başakşehir,2.0,0.0,1.0
+2024-2025,3,2024-09-19,Trabzonspor,Kayserispor,2.0,2.0,0.5
+2024-2025,6,2024-09-20,Hatayspor,BB Bodrumspor,0.0,1.0,0.0
+2024-2025,6,2024-09-21,Konyaspor,Sivasspor,0.0,0.0,0.5
+2024-2025,6,2024-09-21,Fenerbahçe,Galatasaray,1.0,3.0,0.0
+2024-2025,6,2024-09-22,Rizespor,Samsunspor,0.0,1.0,0.0
+2024-2025,6,2024-09-22,Kasımpaşa,Antalyaspor,0.0,0.0,0.5
+2024-2025,6,2024-09-22,Beşiktaş,Eyüpspor,2.0,1.0,1.0
+2024-2025,6,2024-09-22,Adana Demirspor,Alanyaspor,0.0,2.0,0.0
+2024-2025,6,2024-09-23,Göztepe,Kayserispor,3.0,0.0,1.0
+2024-2025,6,2024-09-23,Gaziantep FK,Trabzonspor,0.0,0.0,0.5
+2024-2025,7,2024-09-27,Sivasspor,Başakşehir,1.0,2.0,0.0
+2024-2025,7,2024-09-28,Samsunspor,Göztepe,4.0,3.0,1.0
+2024-2025,7,2024-09-28,Alanyaspor,Rizespor,1.0,0.0,1.0
+2024-2025,7,2024-09-28,Galatasaray,Kasımpaşa,3.0,3.0,0.5
+2024-2025,7,2024-09-29,Eyüpspor,Gaziantep FK,3.0,2.0,1.0
+2024-2025,7,2024-09-29,Trabzonspor,Konyaspor,3.0,2.0,1.0
+2024-2025,7,2024-09-29,Antalyaspor,Fenerbahçe,0.0,2.0,0.0
+2024-2025,7,2024-09-29,BB Bodrumspor,Adana Demirspor,3.0,1.0,1.0
+2024-2025,7,2024-09-30,Kayserispor,Beşiktaş,0.0,3.0,0.0
+2024-2025,8,2024-10-04,Rizespor,Antalyaspor,2.0,1.0,1.0
+2024-2025,8,2024-10-05,Kasımpaşa,BB Bodrumspor,0.0,0.0,0.5
+2024-2025,8,2024-10-05,Göztepe,Sivasspor,3.0,2.0,1.0
+2024-2025,8,2024-10-05,Başakşehir,Kayserispor,1.0,1.0,0.5
+2024-2025,8,2024-10-05,Hatayspor,Trabzonspor,1.0,1.0,0.5
+2024-2025,8,2024-10-06,Konyaspor,Eyüpspor,2.0,1.0,1.0
+2024-2025,8,2024-10-06,Adana Demirspor,Samsunspor,1.0,3.0,0.0
+2024-2025,8,2024-10-06,Gaziantep FK,Beşiktaş,1.0,1.0,0.5
+2024-2025,8,2024-10-06,Galatasaray,Alanyaspor,1.0,0.0,1.0
+2024-2025,9,2024-10-19,Kayserispor,Gaziantep FK,2.0,2.0,0.5
+2024-2025,9,2024-10-19,Trabzonspor,Başakşehir,1.0,0.0,1.0
+2024-2025,9,2024-10-19,Antalyaspor,Galatasaray,0.0,3.0,0.0
+2024-2025,9,2024-10-19,Eyüpspor,Göztepe,1.0,0.0,1.0
+2024-2025,9,2024-10-20,Sivasspor,Hatayspor,3.0,2.0,1.0
+2024-2025,9,2024-10-20,Beşiktaş,Konyaspor,2.0,0.0,1.0
+2024-2025,9,2024-10-20,Samsunspor,Fenerbahçe,2.0,2.0,0.5
+2024-2025,9,2024-10-20,Alanyaspor,Kasımpaşa,1.0,2.0,0.0
+2024-2025,9,2024-10-21,BB Bodrumspor,Rizespor,0.0,1.0,0.0
+2024-2025,10,2024-10-25,Adana Demirspor,Sivasspor,2.0,4.0,0.0
+2024-2025,10,2024-10-26,Hatayspor,Kayserispor,0.0,1.0,0.0
+2024-2025,10,2024-10-26,Kasımpaşa,Samsunspor,1.0,4.0,0.0
+2024-2025,10,2024-10-26,Göztepe,Trabzonspor,2.0,1.0,1.0
+2024-2025,10,2024-10-27,Gaziantep FK,Konyaspor,3.0,1.0,1.0
+2024-2025,10,2024-10-27,Alanyaspor,Antalyaspor,1.0,2.0,0.0
+2024-2025,10,2024-10-27,Fenerbahçe,BB Bodrumspor,2.0,0.0,1.0
+2024-2025,10,2024-10-28,Başakşehir,Eyüpspor,1.0,1.0,0.5
+2024-2025,10,2024-10-28,Galatasaray,Beşiktaş,2.0,1.0,1.0
+2024-2025,11,2024-11-01,Gaziantep FK,Göztepe,2.0,1.0,1.0
+2024-2025,11,2024-11-02,Sivasspor,Rizespor,2.0,1.0,1.0
+2024-2025,11,2024-11-02,Kayserispor,Adana Demirspor,0.0,0.0,0.5
+2024-2025,11,2024-11-02,Beşiktaş,Kasımpaşa,1.0,3.0,0.0
+2024-2025,11,2024-11-03,Konyaspor,Başakşehir,3.0,2.0,1.0
+2024-2025,11,2024-11-03,Eyüpspor,Hatayspor,2.0,0.0,1.0
+2024-2025,11,2024-11-03,BB Bodrumspor,Alanyaspor,0.0,0.0,0.5
+2024-2025,11,2024-11-03,Trabzonspor,Fenerbahçe,2.0,3.0,0.0
+2024-2025,11,2024-11-04,Samsunspor,Antalyaspor,2.0,0.0,1.0
+2024-2025,12,2024-11-08,Kasımpaşa,Kayserispor,1.0,2.0,0.0
+2024-2025,12,2024-11-09,Antalyaspor,BB Bodrumspor,3.0,2.0,1.0
+2024-2025,12,2024-11-09,Hatayspor,Gaziantep FK,3.0,1.0,1.0
+2024-2025,12,2024-11-09,Rizespor,Trabzonspor,3.0,1.0,1.0
+2024-2025,12,2024-11-09,Adana Demirspor,Eyüpspor,0.0,1.0,0.0
+2024-2025,12,2024-11-10,Göztepe,Konyaspor,2.0,0.0,1.0
+2024-2025,12,2024-11-10,Galatasaray,Samsunspor,3.0,2.0,1.0
+2024-2025,12,2024-11-10,Fenerbahçe,Sivasspor,4.0,0.0,1.0
+2024-2025,12,2024-11-10,Başakşehir,Beşiktaş,0.0,0.0,0.5
+2024-2025,13,2024-11-23,Eyüpspor,Rizespor,1.0,2.0,0.0
+2024-2025,13,2024-11-23,Gaziantep FK,Başakşehir,3.0,0.0,1.0
+2024-2025,13,2024-11-23,Kayserispor,Fenerbahçe,2.0,6.0,0.0
+2024-2025,13,2024-11-23,BB Bodrumspor,Galatasaray,0.0,1.0,0.0
+2024-2025,13,2024-11-24,Sivasspor,Kasımpaşa,0.0,0.0,0.5
+2024-2025,13,2024-11-24,Samsunspor,Alanyaspor,1.0,1.0,0.5
+2024-2025,13,2024-11-24,Konyaspor,Hatayspor,1.0,1.0,0.5
+2024-2025,13,2024-11-24,Beşiktaş,Göztepe,2.0,4.0,0.0
+2024-2025,13,2024-11-25,Trabzonspor,Adana Demirspor,5.0,0.0,1.0
+2024-2025,14,2024-11-29,Antalyaspor,Sivasspor,2.0,1.0,1.0
+2024-2025,14,2024-11-30,Samsunspor,BB Bodrumspor,4.0,0.0,1.0
+2024-2025,14,2024-11-30,Adana Demirspor,Konyaspor,0.0,1.0,0.0
+2024-2025,14,2024-11-30,Alanyaspor,Trabzonspor,2.0,1.0,1.0
+2024-2025,14,2024-11-30,Başakşehir,Göztepe,4.0,1.0,1.0
+2024-2025,14,2024-12-01,Rizespor,Kayserispor,3.0,0.0,1.0
+2024-2025,14,2024-12-01,Galatasaray,Eyüpspor,2.0,2.0,0.5
+2024-2025,14,2024-12-02,Fenerbahçe,Gaziantep FK,3.0,1.0,1.0
+2024-2025,14,2024-12-02,Hatayspor,Beşiktaş,1.0,1.0,0.5
+2024-2025,15,2024-12-06,Trabzonspor,Kasımpaşa,2.0,2.0,0.5
+2024-2025,15,2024-12-07,Konyaspor,Antalyaspor,1.0,1.0,0.5
+2024-2025,15,2024-12-07,Göztepe,Adana Demirspor,3.0,1.0,1.0
+2024-2025,15,2024-12-07,Beşiktaş,Fenerbahçe,1.0,0.0,1.0
+2024-2025,15,2024-12-08,Eyüpspor,Samsunspor,3.0,0.0,1.0
+2024-2025,15,2024-12-08,Kayserispor,Alanyaspor,2.0,0.0,1.0
+2024-2025,15,2024-12-08,Sivasspor,Galatasaray,2.0,3.0,0.0
+2024-2025,15,2024-12-08,Başakşehir,Hatayspor,3.0,0.0,1.0
+2024-2025,15,2024-12-09,Gaziantep FK,Rizespor,1.0,0.0,1.0
+2024-2025,16,2024-12-13,Kasımpaşa,Eyüpspor,2.0,0.0,1.0
+2024-2025,16,2024-12-13,BB Bodrumspor,Sivasspor,2.0,0.0,1.0
+2024-2025,16,2024-12-14,Rizespor,Konyaspor,1.0,1.0,0.5
+2024-2025,16,2024-12-14,Alanyaspor,Gaziantep FK,3.0,0.0,1.0
+2024-2025,16,2024-12-15,Hatayspor,Göztepe,1.0,1.0,0.5
+2024-2025,16,2024-12-15,Antalyaspor,Kayserispor,2.0,0.0,1.0
+2024-2025,16,2024-12-15,Fenerbahçe,Başakşehir,3.0,1.0,1.0
+2024-2025,16,2024-12-16,Adana Demirspor,Beşiktaş,2.0,1.0,1.0
+2024-2025,16,2024-12-16,Galatasaray,Trabzonspor,4.0,3.0,1.0
+2024-2025,17,2024-12-20,Eyüpspor,Fenerbahçe,1.0,1.0,0.5
+2024-2025,17,2024-12-21,Sivasspor,Samsunspor,0.0,0.0,0.5
+2024-2025,17,2024-12-21,Beşiktaş,Alanyaspor,1.0,1.0,0.5
+2024-2025,17,2024-12-22,Gaziantep FK,Antalyaspor,2.0,0.0,1.0
+2024-2025,17,2024-12-22,Kayserispor,Galatasaray,1.0,5.0,0.0
+2024-2025,17,2024-12-22,Göztepe,Rizespor,3.0,0.0,1.0
+2024-2025,17,2024-12-22,Trabzonspor,BB Bodrumspor,1.0,0.0,1.0
+2024-2025,17,2024-12-23,Hatayspor,Adana Demirspor,1.0,3.0,0.0
+2024-2025,17,2024-12-23,Başakşehir,Kasımpaşa,2.0,2.0,0.5
+2024-2025,18,2025-01-03,Rizespor,Beşiktaş,1.0,1.0,0.5
+2024-2025,18,2025-01-03,Alanyaspor,Konyaspor,2.0,1.0,1.0
+2024-2025,18,2025-01-04,Adana Demirspor,Başakşehir,0.0,1.0,0.0
+2024-2025,18,2025-01-04,Antalyaspor,Eyüpspor,1.0,4.0,0.0
+2024-2025,18,2025-01-04,Galatasaray,Göztepe,2.0,1.0,1.0
+2024-2025,18,2025-01-04,Samsunspor,Trabzonspor,2.0,1.0,1.0
+2024-2025,18,2025-01-05,Kasımpaşa,Gaziantep FK,2.0,2.0,0.5
+2024-2025,18,2025-01-05,BB Bodrumspor,Kayserispor,1.0,1.0,0.5
+2024-2025,18,2025-01-05,Fenerbahçe,Hatayspor,2.0,1.0,1.0
+2024-2025,19,2025-01-11,Kayserispor,Samsunspor,0.0,1.0,0.0
+2024-2025,19,2025-01-11,Hatayspor,Rizespor,1.0,2.0,0.0
+2024-2025,19,2025-01-11,Beşiktaş,BB Bodrumspor,2.0,1.0,1.0
+2024-2025,19,2025-01-12,Sivasspor,Alanyaspor,1.0,1.0,0.5
+2024-2025,19,2025-01-12,Trabzonspor,Antalyaspor,5.0,0.0,1.0
+2024-2025,19,2025-01-12,Başakşehir,Galatasaray,1.0,2.0,0.0
+2024-2025,19,2025-01-12,Gaziantep FK,Adana Demirspor,1.0,0.0,1.0
+2024-2025,19,2025-01-13,Konyaspor,Fenerbahçe,2.0,3.0,0.0
+2024-2025,19,2025-01-13,Göztepe,Kasımpaşa,5.0,0.0,1.0
+2024-2025,20,2025-01-17,Hatayspor,Galatasaray,1.0,1.0,0.5
+2024-2025,20,2025-01-18,Başakşehir,Rizespor,2.0,0.0,1.0
+2024-2025,20,2025-01-18,Gaziantep FK,BB Bodrumspor,0.0,0.0,0.5
+2024-2025,20,2025-01-18,Beşiktaş,Samsunspor,0.0,0.0,0.5
+2024-2025,20,2025-01-19,Göztepe,Antalyaspor,1.0,0.0,1.0
+2024-2025,20,2025-01-19,Konyaspor,Kasımpaşa,3.0,3.0,0.5
+2024-2025,20,2025-01-19,Eyüpspor,Alanyaspor,3.0,0.0,1.0
+2024-2025,20,2025-01-19,Adana Demirspor,Fenerbahçe,0.0,4.0,0.0
+2024-2025,20,2025-01-20,Trabzonspor,Sivasspor,4.0,0.0,1.0
+2024-2025,21,2025-01-24,Samsunspor,Gaziantep FK,2.0,1.0,1.0
+2024-2025,21,2025-01-25,Sivasspor,Kayserispor,5.0,2.0,1.0
+2024-2025,21,2025-01-25,Alanyaspor,Başakşehir,5.0,4.0,1.0
+2024-2025,21,2025-01-25,Galatasaray,Konyaspor,1.0,0.0,1.0
+2024-2025,21,2025-01-26,Rizespor,Adana Demirspor,3.0,2.0,1.0
+2024-2025,21,2025-01-26,Antalyaspor,Beşiktaş,1.0,1.0,0.5
+2024-2025,21,2025-01-26,BB Bodrumspor,Eyüpspor,0.0,1.0,0.0
+2024-2025,21,2025-01-26,Fenerbahçe,Göztepe,3.0,2.0,1.0
+2024-2025,21,2025-01-27,Kasımpaşa,Hatayspor,5.0,4.0,1.0
+2024-2025,22,2025-01-31,Eyüpspor,Sivasspor,1.0,0.0,1.0
+2024-2025,22,2025-01-31,Konyaspor,BB Bodrumspor,3.0,1.0,1.0
+2024-2025,22,2025-02-01,Hatayspor,Antalyaspor,2.0,3.0,0.0
+2024-2025,22,2025-02-01,Kayserispor,Trabzonspor,0.0,0.0,0.5
+2024-2025,22,2025-02-01,Başakşehir,Samsunspor,4.0,0.0,1.0
+2024-2025,22,2025-02-02,Adana Demirspor,Kasımpaşa,3.0,5.0,0.0
+2024-2025,22,2025-02-02,Göztepe,Alanyaspor,0.0,1.0,0.0
+2024-2025,22,2025-02-02,Fenerbahçe,Rizespor,3.0,2.0,1.0
+2024-2025,22,2025-02-03,Gaziantep FK,Galatasaray,0.0,1.0,0.0
+2024-2025,23,2025-02-07,Samsunspor,Hatayspor,2.0,0.0,1.0
+2024-2025,23,2025-02-08,Kayserispor,Konyaspor,3.0,2.0,1.0
+2024-2025,23,2025-02-08,Sivasspor,Beşiktaş,0.0,2.0,0.0
+2024-2025,23,2025-02-09,Kasımpaşa,Rizespor,3.0,2.0,1.0
+2024-2025,23,2025-02-09,Alanyaspor,Fenerbahçe,0.0,2.0,0.0
+2024-2025,23,2025-02-09,Galatasaray,Adana Demirspor,3.0,0.0,1.0
+2024-2025,23,2025-02-09,Antalyaspor,Başakşehir,0.0,0.0,0.5
+2024-2025,23,2025-02-10,Trabzonspor,Eyüpspor,1.0,0.0,1.0
+2024-2025,23,2025-02-10,BB Bodrumspor,Göztepe,0.0,0.0,0.5
+2024-2025,24,2025-02-14,Adana Demirspor,Antalyaspor,1.0,1.0,0.5
+2024-2025,24,2025-02-15,Gaziantep FK,Sivasspor,2.0,1.0,1.0
+2024-2025,24,2025-02-15,Başakşehir,BB Bodrumspor,0.0,1.0,0.0
+2024-2025,24,2025-02-15,Beşiktaş,Trabzonspor,2.0,1.0,1.0
+2024-2025,24,2025-02-16,Hatayspor,Alanyaspor,1.0,0.0,1.0
+2024-2025,24,2025-02-16,Eyüpspor,Kayserispor,1.0,1.0,0.5
+2024-2025,24,2025-02-16,Konyaspor,Samsunspor,0.0,1.0,0.0
+2024-2025,24,2025-02-16,Fenerbahçe,Kasımpaşa,3.0,1.0,1.0
+2024-2025,24,2025-02-17,Rizespor,Galatasaray,1.0,2.0,0.0
+2024-2025,25,2025-02-21,Eyüpspor,Beşiktaş,1.0,3.0,0.0
+2024-2025,25,2025-02-21,BB Bodrumspor,Hatayspor,1.0,0.0,1.0
+2024-2025,25,2025-02-22,Sivasspor,Konyaspor,1.0,1.0,0.5
+2024-2025,25,2025-02-22,Antalyaspor,Kasımpaşa,2.0,1.0,1.0
+2024-2025,25,2025-02-22,Samsunspor,Rizespor,2.0,3.0,0.0
+2024-2025,25,2025-02-23,Kayserispor,Göztepe,,,
+2024-2025,25,2025-02-23,Alanyaspor,Adana Demirspor,,,
+2024-2025,25,2025-02-23,Trabzonspor,Gaziantep FK,,,
+2024-2025,25,2025-02-24,Galatasaray,Fenerbahçe,,,
+2024-2025,26,2025-03-01,Adana Demirspor,BB Bodrumspor,,,
+2024-2025,26,2025-03-01,Beşiktaş,Kayserispor,,,
+2024-2025,26,2025-03-02,Rizespor,Alanyaspor,,,
+2024-2025,26,2025-03-02,Kasımpaşa,Galatasaray,,,
+2024-2025,26,2025-03-02,Fenerbahçe,Antalyaspor,,,
+2024-2025,26,2025-03-03,Konyaspor,Trabzonspor,,,
+2024-2025,26,2025-03-03,Gaziantep FK,Eyüpspor,,,
+2024-2025,26,2025-03-03,Başakşehir,Sivasspor,,,
+2024-2025,26,2025-03-03,Göztepe,Samsunspor,,,
+2024-2025,27,2025-03-07,BB Bodrumspor,Kasımpaşa,,,
+2024-2025,27,2025-03-08,Kayserispor,Başakşehir,,,
+2024-2025,27,2025-03-08,Antalyaspor,Rizespor,,,
+2024-2025,27,2025-03-08,Trabzonspor,Hatayspor,,,
+2024-2025,27,2025-03-09,Sivasspor,Göztepe,,,
+2024-2025,27,2025-03-09,Eyüpspor,Konyaspor,,,
+2024-2025,27,2025-03-09,Samsunspor,Adana Demirspor,,,
+2024-2025,27,2025-03-09,Alanyaspor,Galatasaray,,,
+2024-2025,27,2025-03-10,Beşiktaş,Gaziantep FK,,,
+2024-2025,28,2025-03-16,Kasımpaşa,Alanyaspor,,,
+2024-2025,28,2025-03-16,Fenerbahçe,Samsunspor,,,
+2024-2025,28,2025-03-16,Rizespor,BB Bodrumspor,,,
+2024-2025,28,2025-03-16,Başakşehir,Trabzonspor,,,
+2024-2025,28,2025-03-16,Konyaspor,Beşiktaş,,,
+2024-2025,28,2025-03-16,Göztepe,Eyüpspor,,,
+2024-2025,28,2025-03-16,Gaziantep FK,Kayserispor,,,
+2024-2025,28,2025-03-16,Galatasaray,Antalyaspor,,,
+2024-2025,28,2025-03-16,Hatayspor,Sivasspor,,,
+2024-2025,29,2025-03-30,Trabzonspor,Göztepe,,,
+2024-2025,29,2025-03-30,Eyüpspor,Başakşehir,,,
+2024-2025,29,2025-03-30,Samsunspor,Kasımpaşa,,,
+2024-2025,29,2025-03-30,Konyaspor,Gaziantep FK,,,
+2024-2025,29,2025-03-30,Sivasspor,Adana Demirspor,,,
+2024-2025,29,2025-03-30,Kayserispor,Hatayspor,,,
+2024-2025,29,2025-03-30,BB Bodrumspor,Fenerbahçe,,,
+2024-2025,29,2025-03-30,Antalyaspor,Alanyaspor,,,
+2024-2025,29,2025-03-30,Beşiktaş,Galatasaray,,,
+2024-2025,30,2025-04-06,Adana Demirspor,Kayserispor,,,
+2024-2025,30,2025-04-06,Göztepe,Gaziantep FK,,,
+2024-2025,30,2025-04-06,Başakşehir,Konyaspor,,,
+2024-2025,30,2025-04-06,Fenerbahçe,Trabzonspor,,,
+2024-2025,30,2025-04-06,Alanyaspor,BB Bodrumspor,,,
+2024-2025,30,2025-04-06,Hatayspor,Eyüpspor,,,
+2024-2025,30,2025-04-06,Rizespor,Sivasspor,,,
+2024-2025,30,2025-04-06,Kasımpaşa,Beşiktaş,,,
+2024-2025,30,2025-04-06,Antalyaspor,Samsunspor,,,
+2024-2025,31,2025-04-13,Beşiktaş,Başakşehir,,,
+2024-2025,31,2025-04-13,Kayserispor,Kasımpaşa,,,
+2024-2025,31,2025-04-13,Konyaspor,Göztepe,,,
+2024-2025,31,2025-04-13,Gaziantep FK,Hatayspor,,,
+2024-2025,31,2025-04-13,Sivasspor,Fenerbahçe,,,
+2024-2025,31,2025-04-13,Trabzonspor,Rizespor,,,
+2024-2025,31,2025-04-13,Eyüpspor,Adana Demirspor,,,
+2024-2025,31,2025-04-13,BB Bodrumspor,Antalyaspor,,,
+2024-2025,31,2025-04-13,Samsunspor,Galatasaray,,,
+2024-2025,32,2025-04-20,Kasımpaşa,Sivasspor,,,
+2024-2025,32,2025-04-20,Rizespor,Eyüpspor,,,
+2024-2025,32,2025-04-20,Alanyaspor,Samsunspor,,,
+2024-2025,32,2025-04-20,Adana Demirspor,Trabzonspor,,,
+2024-2025,32,2025-04-20,Hatayspor,Konyaspor,,,
+2024-2025,32,2025-04-20,Fenerbahçe,Kayserispor,,,
+2024-2025,32,2025-04-20,Galatasaray,BB Bodrumspor,,,
+2024-2025,32,2025-04-20,Başakşehir,Gaziantep FK,,,
+2024-2025,32,2025-04-20,Göztepe,Beşiktaş,,,
+2024-2025,33,2025-04-27,Konyaspor,Adana Demirspor,,,
+2024-2025,33,2025-04-27,Göztepe,Başakşehir,,,
+2024-2025,33,2025-04-27,Gaziantep FK,Fenerbahçe,,,
+2024-2025,33,2025-04-27,Sivasspor,Antalyaspor,,,
+2024-2025,33,2025-04-27,BB Bodrumspor,Samsunspor,,,
+2024-2025,33,2025-04-27,Eyüpspor,Galatasaray,,,
+2024-2025,33,2025-04-27,Beşiktaş,Hatayspor,,,
+2024-2025,33,2025-04-27,Trabzonspor,Alanyaspor,,,
+2024-2025,33,2025-04-27,Kayserispor,Rizespor,,,
+2024-2025,34,2025-05-04,Kasımpaşa,Trabzonspor,,,
+2024-2025,34,2025-05-04,Rizespor,Gaziantep FK,,,
+2024-2025,34,2025-05-04,Antalyaspor,Konyaspor,,,
+2024-2025,34,2025-05-04,Samsunspor,Eyüpspor,,,
+2024-2025,34,2025-05-04,Galatasaray,Sivasspor,,,
+2024-2025,34,2025-05-04,Alanyaspor,Kayserispor,,,
+2024-2025,34,2025-05-04,Fenerbahçe,Beşiktaş,,,
+2024-2025,34,2025-05-04,Adana Demirspor,Göztepe,,,
+2024-2025,34,2025-05-04,Hatayspor,Başakşehir,,,
+2024-2025,35,2025-05-11,Beşiktaş,Adana Demirspor,,,
+2024-2025,35,2025-05-11,Sivasspor,BB Bodrumspor,,,
+2024-2025,35,2025-05-11,Göztepe,Hatayspor,,,
+2024-2025,35,2025-05-11,Eyüpspor,Kasımpaşa,,,
+2024-2025,35,2025-05-11,Trabzonspor,Galatasaray,,,
+2024-2025,35,2025-05-11,Kayserispor,Antalyaspor,,,
+2024-2025,35,2025-05-11,Başakşehir,Fenerbahçe,,,
+2024-2025,35,2025-05-11,Gaziantep FK,Alanyaspor,,,
+2024-2025,35,2025-05-11,Konyaspor,Rizespor,,,
+2024-2025,36,2025-05-18,Fenerbahçe,Eyüpspor,,,
+2024-2025,36,2025-05-18,Galatasaray,Kayserispor,,,
+2024-2025,36,2025-05-18,BB Bodrumspor,Trabzonspor,,,
+2024-2025,36,2025-05-18,Antalyaspor,Gaziantep FK,,,
+2024-2025,36,2025-05-18,Kasımpaşa,Başakşehir,,,
+2024-2025,36,2025-05-18,Rizespor,Göztepe,,,
+2024-2025,36,2025-05-18,Alanyaspor,Beşiktaş,,,
+2024-2025,36,2025-05-18,Adana Demirspor,Hatayspor,,,
+2024-2025,36,2025-05-18,Samsunspor,Sivasspor,,,
+2024-2025,37,2025-05-25,Eyüpspor,Antalyaspor,,,
+2024-2025,37,2025-05-25,Trabzonspor,Samsunspor,,,
+2024-2025,37,2025-05-25,Beşiktaş,Rizespor,,,
+2024-2025,37,2025-05-25,Kayserispor,BB Bodrumspor,,,
+2024-2025,37,2025-05-25,Göztepe,Galatasaray,,,
+2024-2025,37,2025-05-25,Gaziantep FK,Kasımpaşa,,,
+2024-2025,37,2025-05-25,Hatayspor,Fenerbahçe,,,
+2024-2025,37,2025-05-25,Başakşehir,Adana Demirspor,,,
+2024-2025,37,2025-05-25,Konyaspor,Alanyaspor,,,
+2024-2025,38,2025-06-01,Galatasaray,Başakşehir,,,
+2024-2025,38,2025-06-01,Fenerbahçe,Konyaspor,,,
+2024-2025,38,2025-06-01,Rizespor,Hatayspor,,,
+2024-2025,38,2025-06-01,BB Bodrumspor,Beşiktaş,,,
+2024-2025,38,2025-06-01,Antalyaspor,Trabzonspor,,,
+2024-2025,38,2025-06-01,Alanyaspor,Sivasspor,,,
+2024-2025,38,2025-06-01,Adana Demirspor,Gaziantep FK,,,
+2024-2025,38,2025-06-01,Samsunspor,Kayserispor,,,
+2024-2025,38,2025-06-01,Kasımpaşa,Göztepe,,,

@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,1,2014-07-25,Bohemians 1905,Sparta Prague,1,2,0.0
+2014-2015,1,2014-07-25,Dukla Prague,Baník Ostrava,0,0,0.5
+2014-2015,1,2014-07-26,Příbram,Viktoria Plzeň,2,2,0.5
+2014-2015,1,2014-07-26,Hradec Králové,Teplice,0,0,0.5
+2014-2015,1,2014-07-26,Jablonec,Zbrojovka Brno,2,0,1.0
+2014-2015,1,2014-07-26,Slovácko,Slavia Prague,1,2,0.0
+2014-2015,1,2014-07-27,Vysočina Jihlava,Mladá Boleslav,0,1,0.0
+2014-2015,1,2014-07-27,České Budějovice,Slovan Liberec,1,1,0.5
+2014-2015,2,2014-08-01,Slavia Prague,Baník Ostrava,3,1,1.0
+2014-2015,2,2014-08-02,Slovácko,Bohemians 1905,4,1,1.0
+2014-2015,2,2014-08-02,Zbrojovka Brno,Hradec Králové,3,0,1.0
+2014-2015,2,2014-08-02,Sparta Prague,Vysočina Jihlava,3,0,1.0
+2014-2015,2,2014-08-03,Slovan Liberec,Příbram,0,0,0.5
+2014-2015,2,2014-08-03,Mladá Boleslav,Dukla Prague,0,1,0.0
+2014-2015,2,2014-08-03,Viktoria Plzeň,Jablonec,3,1,1.0
+2014-2015,3,2014-08-08,Vysočina Jihlava,Bohemians 1905,1,2,0.0
+2014-2015,3,2014-08-08,Baník Ostrava,Teplice,1,1,0.5
+2014-2015,3,2014-08-09,Dukla Prague,Zbrojovka Brno,1,1,0.5
+2014-2015,3,2014-08-09,Jablonec,Slovácko,1,1,0.5
+2014-2015,3,2014-08-09,Příbram,Sparta Prague,0,1,0.0
+2014-2015,3,2014-08-10,České Budějovice,Viktoria Plzeň,0,4,0.0
+2014-2015,3,2014-08-10,Hradec Králové,Mladá Boleslav,0,0,0.5
+2014-2015,3,2014-08-10,Slavia Prague,Slovan Liberec,4,1,1.0
+2014-2015,4,2014-08-15,Slovan Liberec,Dukla Prague,0,0,0.5
+2014-2015,4,2014-08-15,Sparta Prague,Baník Ostrava,0,1,0.0
+2014-2015,4,2014-08-16,Zbrojovka Brno,České Budějovice,2,2,0.5
+2014-2015,4,2014-08-16,Bohemians 1905,Jablonec,1,2,0.0
+2014-2015,4,2014-08-16,Mladá Boleslav,Příbram,4,1,1.0
+2014-2015,4,2014-08-16,Slovácko,Vysočina Jihlava,2,0,1.0
+2014-2015,4,2014-08-16,Teplice,Slavia Prague,2,1,1.0
+2014-2015,4,2014-08-17,Viktoria Plzeň,Hradec Králové,4,0,1.0
+2014-2015,5,2014-08-22,Baník Ostrava,Zbrojovka Brno,1,0,1.0
+2014-2015,5,2014-08-22,Teplice,Slovan Liberec,2,2,0.5
+2014-2015,5,2014-08-23,Jablonec,Vysočina Jihlava,2,0,1.0
+2014-2015,5,2014-08-23,Hradec Králové,Slovácko,2,0,1.0
+2014-2015,5,2014-08-23,České Budějovice,Mladá Boleslav,2,1,1.0
+2014-2015,5,2014-08-23,Příbram,Bohemians 1905,2,3,0.0
+2014-2015,5,2014-08-23,Slavia Prague,Viktoria Plzeň,1,0,1.0
+2014-2015,5,2014-08-24,Dukla Prague,Sparta Prague,1,0,1.0
+2014-2015,6,2014-08-29,Zbrojovka Brno,Teplice,1,1,0.5
+2014-2015,6,2014-08-29,Vysočina Jihlava,České Budějovice,0,0,0.5
+2014-2015,6,2014-08-30,Slovan Liberec,Baník Ostrava,6,0,1.0
+2014-2015,6,2014-08-30,Slovácko,Příbram,4,1,1.0
+2014-2015,6,2014-08-30,Bohemians 1905,Hradec Králové,1,1,0.5
+2014-2015,6,2014-08-30,Mladá Boleslav,Slavia Prague,2,1,1.0
+2014-2015,6,2014-08-31,Sparta Prague,Jablonec,2,0,1.0
+2014-2015,6,2014-08-31,Viktoria Plzeň,Dukla Prague,2,1,1.0
+2014-2015,2,2014-09-02,Teplice,České Budějovice,4,0,1.0
+2014-2015,7,2014-09-12,Slavia Prague,Zbrojovka Brno,1,3,0.0
+2014-2015,7,2014-09-13,Příbram,Jablonec,1,4,0.0
+2014-2015,7,2014-09-13,Hradec Králové,Vysočina Jihlava,0,3,0.0
+2014-2015,7,2014-09-13,Dukla Prague,Bohemians 1905,0,1,0.0
+2014-2015,7,2014-09-13,České Budějovice,Slovácko,2,2,0.5
+2014-2015,7,2014-09-13,Baník Ostrava,Mladá Boleslav,1,0,1.0
+2014-2015,7,2014-09-13,Teplice,Sparta Prague,0,0,0.5
+2014-2015,7,2014-09-15,Slovan Liberec,Viktoria Plzeň,1,1,0.5
+2014-2015,8,2014-09-19,Mladá Boleslav,Teplice,3,0,1.0
+2014-2015,8,2014-09-20,Zbrojovka Brno,Slovan Liberec,1,0,1.0
+2014-2015,8,2014-09-20,Slovácko,Dukla Prague,5,1,1.0
+2014-2015,8,2014-09-20,Jablonec,České Budějovice,0,0,0.5
+2014-2015,8,2014-09-20,Vysočina Jihlava,Příbram,0,1,0.0
+2014-2015,8,2014-09-20,Bohemians 1905,Slavia Prague,2,0,1.0
+2014-2015,8,2014-09-21,Viktoria Plzeň,Baník Ostrava,2,0,1.0
+2014-2015,8,2014-09-21,Sparta Prague,Hradec Králové,3,1,1.0
+2014-2015,9,2014-09-26,Teplice,Slovácko,4,0,1.0
+2014-2015,9,2014-09-27,České Budějovice,Příbram,0,3,0.0
+2014-2015,9,2014-09-27,Hradec Králové,Jablonec,0,2,0.0
+2014-2015,9,2014-09-27,Dukla Prague,Vysočina Jihlava,4,1,1.0
+2014-2015,9,2014-09-27,Baník Ostrava,Bohemians 1905,1,0,1.0
+2014-2015,9,2014-09-27,Zbrojovka Brno,Viktoria Plzeň,2,3,0.0
+2014-2015,9,2014-09-27,Slavia Prague,Sparta Prague,0,2,0.0
+2014-2015,9,2014-09-28,Slovan Liberec,Mladá Boleslav,0,0,0.5
+2014-2015,10,2014-10-03,Jablonec,Dukla Prague,6,0,1.0
+2014-2015,10,2014-10-04,Mladá Boleslav,Zbrojovka Brno,5,1,1.0
+2014-2015,10,2014-10-04,Příbram,Hradec Králové,1,0,1.0
+2014-2015,10,2014-10-04,Bohemians 1905,České Budějovice,3,0,1.0
+2014-2015,10,2014-10-04,Vysočina Jihlava,Slavia Prague,1,0,1.0
+2014-2015,10,2014-10-04,Slovácko,Baník Ostrava,1,2,0.0
+2014-2015,10,2014-10-05,Sparta Prague,Slovan Liberec,1,0,1.0
+2014-2015,10,2014-10-05,Viktoria Plzeň,Teplice,1,0,1.0
+2014-2015,11,2014-10-17,Baník Ostrava,Vysočina Jihlava,0,0,0.5
+2014-2015,11,2014-10-18,Teplice,Bohemians 1905,4,1,1.0
+2014-2015,11,2014-10-18,Slovan Liberec,Slovácko,2,2,0.5
+2014-2015,11,2014-10-18,Slavia Prague,Jablonec,1,1,0.5
+2014-2015,11,2014-10-18,Hradec Králové,České Budějovice,2,3,0.0
+2014-2015,11,2014-10-18,Zbrojovka Brno,Sparta Prague,1,3,0.0
+2014-2015,11,2014-10-19,Mladá Boleslav,Viktoria Plzeň,0,3,0.0
+2014-2015,12,2014-10-24,Vysočina Jihlava,Zbrojovka Brno,2,0,1.0
+2014-2015,12,2014-10-24,České Budějovice,Slavia Prague,1,1,0.5
+2014-2015,12,2014-10-24,Bohemians 1905,Slovan Liberec,2,4,0.0
+2014-2015,12,2014-10-25,Jablonec,Teplice,4,2,1.0
+2014-2015,12,2014-10-25,Příbram,Baník Ostrava,3,1,1.0
+2014-2015,12,2014-10-25,Hradec Králové,Dukla Prague,2,4,0.0
+2014-2015,12,2014-10-25,Slovácko,Viktoria Plzeň,0,1,0.0
+2014-2015,12,2014-10-26,Sparta Prague,Mladá Boleslav,1,0,1.0
+2014-2015,11,2014-10-28,Dukla Prague,Příbram,0,0,0.5
+2014-2015,13,2014-10-31,Mladá Boleslav,Bohemians 1905,1,0,1.0
+2014-2015,13,2014-11-01,Dukla Prague,České Budějovice,3,1,1.0
+2014-2015,13,2014-11-01,Baník Ostrava,Hradec Králové,2,1,1.0
+2014-2015,13,2014-11-01,Teplice,Vysočina Jihlava,2,3,0.0
+2014-2015,13,2014-11-01,Zbrojovka Brno,Slovácko,0,1,0.0
+2014-2015,13,2014-11-01,Slavia Prague,Příbram,3,2,1.0
+2014-2015,13,2014-11-01,Viktoria Plzeň,Sparta Prague,2,0,1.0
+2014-2015,13,2014-11-02,Slovan Liberec,Jablonec,0,1,0.0
+2014-2015,14,2014-11-07,Příbram,Teplice,1,1,0.5
+2014-2015,14,2014-11-07,Dukla Prague,Slavia Prague,2,2,0.5
+2014-2015,14,2014-11-08,České Budějovice,Baník Ostrava,1,0,1.0
+2014-2015,14,2014-11-08,Jablonec,Mladá Boleslav,1,0,1.0
+2014-2015,14,2014-11-09,Hradec Králové,Slovan Liberec,0,0,0.5
+2014-2015,14,2014-11-09,Vysočina Jihlava,Viktoria Plzeň,2,1,1.0
+2014-2015,14,2014-11-09,Slovácko,Sparta Prague,0,2,0.0
+2014-2015,14,2014-11-10,Bohemians 1905,Zbrojovka Brno,0,0,0.5
+2014-2015,15,2014-11-21,Mladá Boleslav,Slovácko,2,0,1.0
+2014-2015,15,2014-11-22,Sparta Prague,České Budějovice,4,0,1.0
+2014-2015,15,2014-11-22,Zbrojovka Brno,Příbram,1,0,1.0
+2014-2015,15,2014-11-22,Slovan Liberec,Vysočina Jihlava,2,2,0.5
+2014-2015,15,2014-11-22,Teplice,Dukla Prague,1,0,1.0
+2014-2015,15,2014-11-22,Baník Ostrava,Jablonec,1,2,0.0
+2014-2015,15,2014-11-23,Viktoria Plzeň,Bohemians 1905,2,1,1.0
+2014-2015,15,2014-11-23,Slavia Prague,Hradec Králové,1,1,0.5
+2014-2015,16,2014-11-28,České Budějovice,Teplice,2,0,1.0
+2014-2015,16,2014-11-28,Baník Ostrava,Slavia Prague,0,0,0.5
+2014-2015,16,2014-11-29,Dukla Prague,Mladá Boleslav,0,2,0.0
+2014-2015,16,2014-11-29,Příbram,Slovan Liberec,1,0,1.0
+2014-2015,16,2014-11-29,Hradec Králové,Zbrojovka Brno,2,1,1.0
+2014-2015,16,2014-11-29,Bohemians 1905,Slovácko,1,2,0.0
+2014-2015,16,2014-11-30,Vysočina Jihlava,Sparta Prague,0,2,0.0
+2014-2015,16,2014-11-30,Jablonec,Viktoria Plzeň,1,2,0.0
+2014-2015,17,2015-02-20,Slovácko,Jablonec,1,2,0.0
+2014-2015,17,2015-02-21,Bohemians 1905,Vysočina Jihlava,0,0,0.5
+2014-2015,17,2015-02-21,Mladá Boleslav,Hradec Králové,2,2,0.5
+2014-2015,17,2015-02-21,Zbrojovka Brno,Dukla Prague,0,1,0.0
+2014-2015,17,2015-02-21,Slovan Liberec,Slavia Prague,1,3,0.0
+2014-2015,17,2015-02-21,Teplice,Baník Ostrava,1,0,1.0
+2014-2015,17,2015-02-21,Viktoria Plzeň,České Budějovice,6,0,1.0
+2014-2015,17,2015-02-23,Sparta Prague,Příbram,4,1,1.0
+2014-2015,18,2015-02-27,Dukla Prague,Slovan Liberec,3,1,1.0
+2014-2015,18,2015-02-27,Vysočina Jihlava,Slovácko,0,1,0.0
+2014-2015,18,2015-02-28,Jablonec,Bohemians 1905,3,0,1.0
+2014-2015,18,2015-02-28,Baník Ostrava,Sparta Prague,1,1,0.5
+2014-2015,18,2015-02-28,České Budějovice,Zbrojovka Brno,1,3,0.0
+2014-2015,18,2015-02-28,Příbram,Mladá Boleslav,2,0,1.0
+2014-2015,18,2015-02-28,Slavia Prague,Teplice,2,2,0.5
+2014-2015,18,2015-03-01,Hradec Králové,Viktoria Plzeň,2,3,0.0
+2014-2015,19,2015-03-06,Zbrojovka Brno,Baník Ostrava,0,0,0.5
+2014-2015,19,2015-03-07,Mladá Boleslav,České Budějovice,4,1,1.0
+2014-2015,19,2015-03-07,Slovácko,Hradec Králové,0,1,0.0
+2014-2015,19,2015-03-07,Vysočina Jihlava,Jablonec,1,1,0.5
+2014-2015,19,2015-03-07,Bohemians 1905,Příbram,3,1,1.0
+2014-2015,19,2015-03-07,Slovan Liberec,Teplice,0,2,0.0
+2014-2015,19,2015-03-08,Sparta Prague,Dukla Prague,3,0,1.0
+2014-2015,20,2015-03-13,Slavia Prague,Mladá Boleslav,3,4,0.0
+2014-2015,20,2015-03-14,Teplice,Zbrojovka Brno,0,1,0.0
+2014-2015,20,2015-03-14,Příbram,Slovácko,1,0,1.0
+2014-2015,20,2015-03-14,Baník Ostrava,Slovan Liberec,3,3,0.5
+2014-2015,20,2015-03-14,České Budějovice,Vysočina Jihlava,1,3,0.0
+2014-2015,20,2015-03-14,Jablonec,Sparta Prague,0,0,0.5
+2014-2015,20,2015-03-15,Dukla Prague,Viktoria Plzeň,2,3,0.0
+2014-2015,20,2015-03-15,Hradec Králové,Bohemians 1905,1,0,1.0
+2014-2015,23,2015-03-17,Slovácko,Teplice,2,2,0.5
+2014-2015,19,2015-03-18,Viktoria Plzeň,Slavia Prague,1,0,1.0
+2014-2015,21,2015-03-20,Mladá Boleslav,Baník Ostrava,1,0,1.0
+2014-2015,21,2015-03-21,Jablonec,Příbram,2,0,1.0
+2014-2015,21,2015-03-21,Slovácko,České Budějovice,3,1,1.0
+2014-2015,21,2015-03-21,Vysočina Jihlava,Hradec Králové,2,0,1.0
+2014-2015,21,2015-03-21,Sparta Prague,Teplice,1,0,1.0
+2014-2015,21,2015-03-22,Viktoria Plzeň,Slovan Liberec,2,0,1.0
+2014-2015,21,2015-03-22,Zbrojovka Brno,Slavia Prague,3,0,1.0
+2014-2015,21,2015-03-22,Bohemians 1905,Dukla Prague,0,0,0.5
+2014-2015,22,2015-04-04,Hradec Králové,Sparta Prague,0,3,0.0
+2014-2015,22,2015-04-04,Příbram,Vysočina Jihlava,1,1,0.5
+2014-2015,22,2015-04-04,Teplice,Mladá Boleslav,5,0,1.0
+2014-2015,22,2015-04-04,Dukla Prague,Slovácko,0,0,0.5
+2014-2015,22,2015-04-04,České Budějovice,Jablonec,0,3,0.0
+2014-2015,22,2015-04-04,Slavia Prague,Bohemians 1905,1,1,0.5
+2014-2015,22,2015-04-05,Baník Ostrava,Viktoria Plzeň,0,2,0.0
+2014-2015,22,2015-04-05,Slovan Liberec,Zbrojovka Brno,1,0,1.0
+2014-2015,23,2015-04-10,Jablonec,Hradec Králové,4,0,1.0
+2014-2015,23,2015-04-10,Bohemians 1905,Baník Ostrava,0,2,0.0
+2014-2015,23,2015-04-11,Mladá Boleslav,Slovan Liberec,1,1,0.5
+2014-2015,23,2015-04-11,Vysočina Jihlava,Dukla Prague,1,2,0.0
+2014-2015,23,2015-04-11,Příbram,České Budějovice,1,0,1.0
+2014-2015,23,2015-04-11,Sparta Prague,Slavia Prague,2,1,1.0
+2014-2015,23,2015-04-12,Viktoria Plzeň,Zbrojovka Brno,4,1,1.0
+2014-2015,24,2015-04-18,Baník Ostrava,Slovácko,0,2,0.0
+2014-2015,24,2015-04-18,Dukla Prague,Jablonec,1,0,1.0
+2014-2015,24,2015-04-18,Slavia Prague,Vysočina Jihlava,1,2,0.0
+2014-2015,24,2015-04-18,České Budějovice,Bohemians 1905,2,3,0.0
+2014-2015,24,2015-04-18,Slovan Liberec,Sparta Prague,2,1,1.0
+2014-2015,24,2015-04-19,Zbrojovka Brno,Mladá Boleslav,1,0,1.0
+2014-2015,24,2015-04-19,Hradec Králové,Příbram,2,3,0.0
+2014-2015,24,2015-04-20,Teplice,Viktoria Plzeň,0,0,0.5
+2014-2015,25,2015-04-24,Vysočina Jihlava,Baník Ostrava,2,0,1.0
+2014-2015,25,2015-04-25,Jablonec,Slavia Prague,2,1,1.0
+2014-2015,25,2015-04-25,Bohemians 1905,Teplice,1,0,1.0
+2014-2015,25,2015-04-25,Příbram,Dukla Prague,3,0,1.0
+2014-2015,25,2015-04-25,České Budějovice,Hradec Králové,2,2,0.5
+2014-2015,25,2015-04-25,Slovácko,Slovan Liberec,2,3,0.0
+2014-2015,25,2015-04-25,Viktoria Plzeň,Mladá Boleslav,1,2,0.0
+2014-2015,25,2015-04-26,Sparta Prague,Zbrojovka Brno,4,0,1.0
+2014-2015,26,2015-05-01,Zbrojovka Brno,Vysočina Jihlava,3,2,1.0
+2014-2015,26,2015-05-02,Baník Ostrava,Příbram,0,0,0.5
+2014-2015,26,2015-05-02,Dukla Prague,Hradec Králové,1,0,1.0
+2014-2015,26,2015-05-02,Slovan Liberec,Bohemians 1905,1,1,0.5
+2014-2015,26,2015-05-02,Viktoria Plzeň,Slovácko,4,0,1.0
+2014-2015,26,2015-05-03,Slavia Prague,České Budějovice,2,0,1.0
+2014-2015,26,2015-05-03,Teplice,Jablonec,1,1,0.5
+2014-2015,26,2015-05-03,Mladá Boleslav,Sparta Prague,2,3,0.0
+2014-2015,27,2015-05-08,Slovácko,Zbrojovka Brno,1,1,0.5
+2014-2015,27,2015-05-09,Hradec Králové,Baník Ostrava,1,0,1.0
+2014-2015,27,2015-05-09,České Budějovice,Dukla Prague,1,0,1.0
+2014-2015,27,2015-05-09,Příbram,Slavia Prague,2,1,1.0
+2014-2015,27,2015-05-09,Vysočina Jihlava,Teplice,0,1,0.0
+2014-2015,27,2015-05-09,Sparta Prague,Viktoria Plzeň,0,2,0.0
+2014-2015,27,2015-05-10,Jablonec,Slovan Liberec,2,0,1.0
+2014-2015,27,2015-05-10,Bohemians 1905,Mladá Boleslav,1,1,0.5
+2014-2015,28,2015-05-15,Zbrojovka Brno,Bohemians 1905,0,1,0.0
+2014-2015,28,2015-05-15,Sparta Prague,Slovácko,5,2,1.0
+2014-2015,28,2015-05-17,Teplice,Příbram,1,1,0.5
+2014-2015,28,2015-05-17,Baník Ostrava,České Budějovice,4,3,1.0
+2014-2015,28,2015-05-17,Slovan Liberec,Hradec Králové,2,0,1.0
+2014-2015,28,2015-05-17,Mladá Boleslav,Jablonec,1,1,0.5
+2014-2015,28,2015-05-17,Slavia Prague,Dukla Prague,2,0,1.0
+2014-2015,28,2015-05-18,Viktoria Plzeň,Vysočina Jihlava,2,0,1.0
+2014-2015,29,2015-05-23,Příbram,Zbrojovka Brno,3,2,1.0
+2014-2015,29,2015-05-23,Hradec Králové,Slavia Prague,0,1,0.0
+2014-2015,29,2015-05-23,Dukla Prague,Teplice,5,1,1.0
+2014-2015,29,2015-05-23,České Budějovice,Sparta Prague,1,3,0.0
+2014-2015,29,2015-05-23,Vysočina Jihlava,Slovan Liberec,4,0,1.0
+2014-2015,29,2015-05-23,Jablonec,Baník Ostrava,4,0,1.0
+2014-2015,29,2015-05-23,Slovácko,Mladá Boleslav,1,1,0.5
+2014-2015,29,2015-05-23,Bohemians 1905,Viktoria Plzeň,3,2,1.0
+2014-2015,30,2015-05-30,Sparta Prague,Bohemians 1905,1,1,0.5
+2014-2015,30,2015-05-30,Baník Ostrava,Dukla Prague,1,1,0.5
+2014-2015,30,2015-05-30,Zbrojovka Brno,Jablonec,2,3,0.0
+2014-2015,30,2015-05-30,Teplice,Hradec Králové,1,3,0.0
+2014-2015,30,2015-05-30,Slavia Prague,Slovácko,1,3,0.0
+2014-2015,30,2015-05-30,Slovan Liberec,České Budějovice,5,1,1.0
+2014-2015,30,2015-05-30,Viktoria Plzeň,Příbram,5,2,1.0
+2014-2015,30,2015-05-30,Mladá Boleslav,Vysočina Jihlava,3,0,1.0

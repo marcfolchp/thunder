@@ -1,0 +1,126 @@
+Season,Round,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+1997-1998,First round,1997-09-16,Dep La Coruña,Auxerre,es,fr,1,2,0.0
+1997-1998,First round,1997-09-16,Bordeaux,Aston Villa,fr,eng,0,0,0.5
+1997-1998,First round,1997-09-16,Croatia Zagreb,Grasshopper,hr,ch,4,4,0.5
+1997-1998,First round,1997-09-16,Rapid Wien,Hapoel Petah Tikva FC,at,il,1,0,1.0
+1997-1998,First round,1997-09-16,Atlético Madrid,Leicester City,es,eng,2,1,1.0
+1997-1998,First round,1997-09-16,Schalke 04,Hajduk Split,de,hr,2,0,1.0
+1997-1998,First round,1997-09-16,Inter,Xamax,it,ch,2,0,1.0
+1997-1998,First round,1997-09-16,Bastia,Benfica,fr,pt,1,0,1.0
+1997-1998,First round,1997-09-16,Rotor Volgograd,Örebro,ru,se,2,0,1.0
+1997-1998,First round,1997-09-16,Sion,Spartak Moscow,ch,ru,0,1,0.0
+1997-1998,First round,1997-09-16,Widzew Łódź,Udinese,pl,it,1,0,1.0
+1997-1998,First round,1997-09-16,MTK Budapest,Alania,hu,ru,3,0,1.0
+1997-1998,First round,1997-09-16,AGF,Nantes,dk,fr,2,2,0.5
+1997-1998,First round,1997-09-16,Lyon,Brøndby,fr,dk,4,1,1.0
+1997-1998,First round,1997-09-16,Celtic,Liverpool,sct,eng,2,2,0.5
+1997-1998,First round,1997-09-16,Strasbourg,Rangers,fr,sct,2,1,1.0
+1997-1998,First round,1997-09-16,PAOK,Arsenal,gr,eng,1,0,1.0
+1997-1998,First round,1997-09-16,Vitória Guimarães,Lazio,pt,it,0,4,0.0
+1997-1998,First round,1997-09-16,Sampdoria,Athletic Club,it,es,1,2,0.0
+1997-1998,First round,1997-09-16,Vitesse,Braga,nl,pt,2,1,1.0
+1997-1998,First round,1997-09-16,FC Jazz,1860 Munich,fi,de,0,1,0.0
+1997-1998,First round,1997-09-16,Steaua,Fenerbahçe,ro,tr,0,0,0.5
+1997-1998,First round,1997-09-16,Beitar Jerusalem,Club Brugge,il,be,2,1,1.0
+1997-1998,First round,1997-09-16,Trabzonspor,Bochum,tr,de,2,1,1.0
+1997-1998,First round,1997-09-16,Valladolid,Skonto FC,es,lv,2,0,1.0
+1997-1998,First round,1997-09-16,Twente,Lillestrøm,nl,no,0,1,0.0
+1997-1998,First round,1997-09-16,Mouscron,Metz,be,fr,0,2,0.0
+1997-1998,First round,1997-09-16,OFI Crete,Ferencváros,gr,hu,3,0,1.0
+1997-1998,First round,1997-09-16,NK Maribor,Ajax,si,nl,1,1,0.5
+1997-1998,First round,1997-09-16,Austria Salzburg,Anderlecht,at,be,4,3,1.0
+1997-1998,First round,1997-09-16,Karlsruher,Anorthosis,de,cy,2,1,1.0
+1997-1998,First round,1997-09-16,FC Slavia-Mozyr,FC Dinamo Tbilisi,by,ge,1,1,0.5
+1997-1998,First round,1997-09-30,Anderlecht,Austria Salzburg,be,at,4,2,1.0
+1997-1998,First round,1997-09-30,Fenerbahçe,Steaua,tr,ro,1,2,0.0
+1997-1998,First round,1997-09-30,Grasshopper,Croatia Zagreb,ch,hr,0,5,0.0
+1997-1998,First round,1997-09-30,Metz,Mouscron,fr,be,4,1,1.0
+1997-1998,First round,1997-09-30,Athletic Club,Sampdoria,es,it,2,0,1.0
+1997-1998,First round,1997-09-30,Arsenal,PAOK,eng,gr,1,1,0.5
+1997-1998,First round,1997-09-30,Hapoel Petah Tikva FC,Rapid Wien,il,at,1,1,0.5
+1997-1998,First round,1997-09-30,Club Brugge,Beitar Jerusalem,be,il,3,0,1.0
+1997-1998,First round,1997-09-30,Braga,Vitesse,pt,nl,2,0,1.0
+1997-1998,First round,1997-09-30,Örebro,Rotor Volgograd,se,ru,1,4,0.0
+1997-1998,First round,1997-09-30,Xamax,Inter,ch,it,0,2,0.0
+1997-1998,First round,1997-09-30,Lazio,Vitória Guimarães,it,pt,2,1,1.0
+1997-1998,First round,1997-09-30,Ajax,NK Maribor,nl,si,9,1,1.0
+1997-1998,First round,1997-09-30,Skonto FC,Valladolid,lv,es,1,0,1.0
+1997-1998,First round,1997-09-30,Bochum,Trabzonspor,de,tr,5,3,1.0
+1997-1998,First round,1997-09-30,Rangers,Strasbourg,sct,fr,1,2,0.0
+1997-1998,First round,1997-09-30,Leicester City,Atlético Madrid,eng,es,0,2,0.0
+1997-1998,First round,1997-09-30,Spartak Moscow,Sion,ru,ch,2,2,0.5
+1997-1998,First round,1997-09-30,Liverpool,Celtic,eng,sct,0,0,0.5
+1997-1998,First round,1997-09-30,Brøndby,Lyon,dk,fr,2,3,0.0
+1997-1998,First round,1997-09-30,Ferencváros,OFI Crete,hu,gr,2,1,1.0
+1997-1998,First round,1997-09-30,Benfica,Bastia,pt,fr,0,0,0.5
+1997-1998,First round,1997-09-30,Auxerre,Dep La Coruña,fr,es,0,0,0.5
+1997-1998,First round,1997-09-30,FC Dinamo Tbilisi,FC Slavia-Mozyr,ge,by,1,0,1.0
+1997-1998,First round,1997-09-30,Anorthosis,Karlsruher,cy,de,1,1,0.5
+1997-1998,First round,1997-09-30,Aston Villa,Bordeaux,eng,fr,1,0,1.0
+1997-1998,First round,1997-09-30,Nantes,AGF,fr,dk,0,1,0.0
+1997-1998,First round,1997-09-30,Udinese,Widzew Łódź,it,pl,3,0,1.0
+1997-1998,First round,1997-09-30,Hajduk Split,Schalke 04,hr,de,2,3,0.0
+1997-1998,First round,1997-09-30,1860 Munich,FC Jazz,de,fi,6,1,1.0
+1997-1998,First round,1997-09-30,Alania,MTK Budapest,ru,hu,1,1,0.5
+1997-1998,First round,1997-09-30,Lillestrøm,Twente,no,nl,1,2,0.0
+1997-1998,Second round,1997-10-21,Ajax,Udinese,nl,it,1,0,1.0
+1997-1998,Second round,1997-10-21,Schalke 04,Anderlecht,de,be,1,0,1.0
+1997-1998,Second round,1997-10-21,Athletic Club,Aston Villa,es,eng,0,0,0.5
+1997-1998,Second round,1997-10-21,AGF,Twente,dk,nl,1,1,0.5
+1997-1998,Second round,1997-10-21,Rotor Volgograd,Lazio,ru,it,0,0,0.5
+1997-1998,Second round,1997-10-21,Inter,Lyon,it,fr,1,2,0.0
+1997-1998,Second round,1997-10-21,Metz,Karlsruher,fr,de,0,2,0.0
+1997-1998,Second round,1997-10-21,Atlético Madrid,PAOK,es,gr,5,2,1.0
+1997-1998,Second round,1997-10-21,Braga,FC Dinamo Tbilisi,pt,ge,4,0,1.0
+1997-1998,Second round,1997-10-21,Strasbourg,Liverpool,fr,eng,3,0,1.0
+1997-1998,Second round,1997-10-21,Auxerre,OFI Crete,fr,gr,3,1,1.0
+1997-1998,Second round,1997-10-21,MTK Budapest,Croatia Zagreb,hu,hr,1,0,1.0
+1997-1998,Second round,1997-10-21,Spartak Moscow,Valladolid,ru,es,2,0,1.0
+1997-1998,Second round,1997-10-21,Steaua,Bastia,ro,fr,1,0,1.0
+1997-1998,Second round,1997-10-21,Club Brugge,Bochum,be,de,1,0,1.0
+1997-1998,Second round,1997-10-22,Rapid Wien,1860 Munich,at,de,3,0,1.0
+1997-1998,Second round,1997-11-04,OFI Crete,Auxerre,gr,fr,3,2,1.0
+1997-1998,Second round,1997-11-04,Valladolid,Spartak Moscow,es,ru,1,2,0.0
+1997-1998,Second round,1997-11-04,FC Dinamo Tbilisi,Braga,ge,pt,0,1,0.0
+1997-1998,Second round,1997-11-04,1860 Munich,Rapid Wien,de,at,2,1,1.0
+1997-1998,Second round,1997-11-04,Twente,AGF,nl,dk,0,0,0.5
+1997-1998,Second round,1997-11-04,Lazio,Rotor Volgograd,it,ru,3,0,1.0
+1997-1998,Second round,1997-11-04,Liverpool,Strasbourg,eng,fr,2,0,1.0
+1997-1998,Second round,1997-11-04,Bastia,Steaua,fr,ro,3,2,1.0
+1997-1998,Second round,1997-11-04,PAOK,Atlético Madrid,gr,es,4,4,0.5
+1997-1998,Second round,1997-11-04,Aston Villa,Athletic Club,eng,es,2,1,1.0
+1997-1998,Second round,1997-11-04,Croatia Zagreb,MTK Budapest,hr,hu,2,0,1.0
+1997-1998,Second round,1997-11-04,Karlsruher,Metz,de,fr,1,1,0.5
+1997-1998,Second round,1997-11-04,Udinese,Ajax,it,nl,2,1,1.0
+1997-1998,Second round,1997-11-04,Lyon,Inter,fr,it,1,3,0.0
+1997-1998,Second round,1997-11-05,Anderlecht,Schalke 04,be,de,1,2,0.0
+1997-1998,Second round,1997-11-06,Bochum,Club Brugge,de,be,4,1,1.0
+1997-1998,Third round,1997-11-25,Karlsruher,Spartak Moscow,de,ru,0,0,0.5
+1997-1998,Third round,1997-11-25,Braga,Schalke 04,pt,de,0,0,0.5
+1997-1998,Third round,1997-11-25,Strasbourg,Inter,fr,it,2,0,1.0
+1997-1998,Third round,1997-11-25,Twente,Auxerre,nl,fr,0,1,0.0
+1997-1998,Third round,1997-11-25,Rapid Wien,Lazio,at,it,0,2,0.0
+1997-1998,Third round,1997-11-25,Steaua,Aston Villa,ro,eng,2,1,1.0
+1997-1998,Third round,1997-11-25,Croatia Zagreb,Atlético Madrid,hr,es,1,1,0.5
+1997-1998,Third round,1997-11-25,Ajax,Bochum,nl,de,4,2,1.0
+1997-1998,Third round,1997-12-09,Auxerre,Twente,fr,nl,2,0,1.0
+1997-1998,Third round,1997-12-09,Aston Villa,Steaua,eng,ro,2,0,1.0
+1997-1998,Third round,1997-12-09,Atlético Madrid,Croatia Zagreb,es,hr,1,0,1.0
+1997-1998,Third round,1997-12-09,Spartak Moscow,Karlsruher,ru,de,1,0,1.0
+1997-1998,Third round,1997-12-09,Schalke 04,Braga,de,pt,2,0,1.0
+1997-1998,Third round,1997-12-09,Inter,Strasbourg,it,fr,3,0,1.0
+1997-1998,Third round,1997-12-09,Lazio,Rapid Wien,it,at,1,0,1.0
+1997-1998,Third round,1997-12-11,Bochum,Ajax,de,nl,2,2,0.5
+1997-1998,Quarter-finals,1998-03-03,Lazio,Auxerre,it,fr,1,0,1.0
+1997-1998,Quarter-finals,1998-03-03,Inter,Schalke 04,it,de,1,0,1.0
+1997-1998,Quarter-finals,1998-03-03,Ajax,Spartak Moscow,nl,ru,1,3,0.0
+1997-1998,Quarter-finals,1998-03-03,Atlético Madrid,Aston Villa,es,eng,1,0,1.0
+1997-1998,Quarter-finals,1998-03-17,Spartak Moscow,Ajax,ru,nl,1,0,1.0
+1997-1998,Quarter-finals,1998-03-17,Auxerre,Lazio,fr,it,2,2,0.5
+1997-1998,Quarter-finals,1998-03-17,Aston Villa,Atlético Madrid,eng,es,2,1,1.0
+1997-1998,Quarter-finals,1998-03-17,Schalke 04,Inter,de,it,1,1,0.5
+1997-1998,Semi-finals,1998-03-31,Inter,Spartak Moscow,it,ru,2,1,1.0
+1997-1998,Semi-finals,1998-03-31,Atlético Madrid,Lazio,es,it,0,1,0.0
+1997-1998,Semi-finals,1998-04-14,Lazio,Atlético Madrid,it,es,0,0,0.5
+1997-1998,Semi-finals,1998-04-14,Spartak Moscow,Inter,ru,it,1,2,0.0
+1997-1998,Final,1998-05-06,Inter,Lazio,it,it,3,0,1.0

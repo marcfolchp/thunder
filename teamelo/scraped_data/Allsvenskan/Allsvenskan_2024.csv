@@ -1,0 +1,243 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024,Allsvenskan,1,2024-03-30,Norrköping,Malmö,1,5,0.0
+2024,Allsvenskan,1,2024-03-31,Hammarby,Kalmar,3,1,1.0
+2024,Allsvenskan,1,2024-03-31,GAIS,Brommapojkarna,0,4,0.0
+2024,Allsvenskan,1,2024-03-31,Häcken,Mjällby,0,1,0.0
+2024,Allsvenskan,1,2024-04-01,Göteborg,Djurgården,1,4,0.0
+2024,Allsvenskan,1,2024-04-01,Sirius,Halmstad,3,0,1.0
+2024,Allsvenskan,1,2024-04-01,AIK Stockholm,Västerås,1,0,1.0
+2024,Allsvenskan,1,2024-04-01,Elfsborg,Värnamo,2,2,0.5
+2024,Allsvenskan,2,2024-04-06,Brommapojkarna,AIK Stockholm,2,2,0.5
+2024,Allsvenskan,2,2024-04-06,Mjällby,Norrköping,3,0,1.0
+2024,Allsvenskan,2,2024-04-07,Malmö,Hammarby,2,0,1.0
+2024,Allsvenskan,2,2024-04-07,Halmstad,Göteborg,1,0,1.0
+2024,Allsvenskan,2,2024-04-07,Västerås,Elfsborg,0,1,0.0
+2024,Allsvenskan,2,2024-04-08,Kalmar,Sirius,1,2,0.0
+2024,Allsvenskan,2,2024-04-08,Värnamo,GAIS,1,2,0.0
+2024,Allsvenskan,2,2024-04-08,Djurgården,Häcken,3,3,0.5
+2024,Allsvenskan,3,2024-04-13,Mjällby,AIK Stockholm,1,1,0.5
+2024,Allsvenskan,3,2024-04-13,Västerås,Halmstad,0,1,0.0
+2024,Allsvenskan,3,2024-04-14,Kalmar,Göteborg,0,1,0.0
+2024,Allsvenskan,3,2024-04-14,Norrköping,GAIS,1,0,1.0
+2024,Allsvenskan,3,2024-04-14,Djurgården,Sirius,2,0,1.0
+2024,Allsvenskan,3,2024-04-15,Häcken,Brommapojkarna,4,3,1.0
+2024,Allsvenskan,3,2024-04-15,Värnamo,Malmö,0,4,0.0
+2024,Allsvenskan,3,2024-04-15,Hammarby,Elfsborg,3,0,1.0
+2024,Allsvenskan,4,2024-04-20,Göteborg,Norrköping,1,1,0.5
+2024,Allsvenskan,4,2024-04-20,Sirius,Värnamo,0,1,0.0
+2024,Allsvenskan,4,2024-04-20,Malmö,Västerås,1,0,1.0
+2024,Allsvenskan,4,2024-04-21,AIK Stockholm,Djurgården,2,0,1.0
+2024,Allsvenskan,4,2024-04-21,GAIS,Mjällby,2,1,1.0
+2024,Allsvenskan,4,2024-04-21,Häcken,Hammarby,2,1,1.0
+2024,Allsvenskan,4,2024-04-21,Halmstad,Brommapojkarna,0,2,0.0
+2024,Allsvenskan,4,2024-04-22,Elfsborg,Kalmar,1,2,0.0
+2024,Allsvenskan,5,2024-04-24,AIK Stockholm,Värnamo,2,0,1.0
+2024,Allsvenskan,5,2024-04-24,Göteborg,Häcken,0,1,0.0
+2024,Allsvenskan,5,2024-04-24,Brommapojkarna,Sirius,1,1,0.5
+2024,Allsvenskan,5,2024-04-25,Djurgården,Malmö,0,1,0.0
+2024,Allsvenskan,5,2024-04-25,Norrköping,Elfsborg,4,2,1.0
+2024,Allsvenskan,5,2024-04-25,Kalmar,GAIS,2,3,0.0
+2024,Allsvenskan,5,2024-04-25,Västerås,Mjällby,2,1,1.0
+2024,Allsvenskan,5,2024-04-25,Halmstad,Hammarby,2,1,1.0
+2024,Allsvenskan,6,2024-04-28,Malmö,AIK Stockholm,5,0,1.0
+2024,Allsvenskan,6,2024-04-28,Värnamo,Halmstad,1,3,0.0
+2024,Allsvenskan,6,2024-04-28,Djurgården,GAIS,1,0,1.0
+2024,Allsvenskan,6,2024-04-28,Häcken,Norrköping,1,2,0.0
+2024,Allsvenskan,6,2024-04-29,Elfsborg,Sirius,2,0,1.0
+2024,Allsvenskan,6,2024-04-29,Mjällby,Kalmar,3,2,1.0
+2024,Allsvenskan,6,2024-04-29,Brommapojkarna,Göteborg,0,3,0.0
+2024,Allsvenskan,6,2024-04-29,Hammarby,Västerås,2,1,1.0
+2024,Allsvenskan,7,2024-05-04,Mjällby,Brommapojkarna,1,1,0.5
+2024,Allsvenskan,7,2024-05-04,Kalmar,Halmstad,5,2,1.0
+2024,Allsvenskan,7,2024-05-04,Sirius,Häcken,0,3,0.0
+2024,Allsvenskan,7,2024-05-05,Västerås,Djurgården,0,2,0.0
+2024,Allsvenskan,7,2024-05-05,Elfsborg,Malmö,3,1,1.0
+2024,Allsvenskan,7,2024-05-05,AIK Stockholm,Norrköping,6,2,1.0
+2024,Allsvenskan,7,2024-05-05,Hammarby,Värnamo,1,2,0.0
+2024,Allsvenskan,7,2024-05-06,GAIS,Göteborg,2,1,1.0
+2024,Allsvenskan,8,2024-05-11,Halmstad,Mjällby,1,3,0.0
+2024,Allsvenskan,8,2024-05-11,AIK Stockholm,Sirius,1,3,0.0
+2024,Allsvenskan,8,2024-05-11,GAIS,Västerås,2,0,1.0
+2024,Allsvenskan,8,2024-05-12,Häcken,Kalmar,3,1,1.0
+2024,Allsvenskan,8,2024-05-12,Norrköping,Hammarby,1,2,0.0
+2024,Allsvenskan,8,2024-05-12,Värnamo,Brommapojkarna,1,1,0.5
+2024,Allsvenskan,8,2024-05-12,Djurgården,Elfsborg,2,0,1.0
+2024,Allsvenskan,8,2024-05-13,Göteborg,Malmö,0,3,0.0
+2024,Allsvenskan,9,2024-05-15,Halmstad,Häcken,3,0,1.0
+2024,Allsvenskan,9,2024-05-15,Mjällby,Hammarby,3,0,1.0
+2024,Allsvenskan,9,2024-05-15,Västerås,Värnamo,0,2,0.0
+2024,Allsvenskan,9,2024-05-15,Elfsborg,AIK Stockholm,6,1,1.0
+2024,Allsvenskan,9,2024-05-16,Sirius,Göteborg,2,2,0.5
+2024,Allsvenskan,9,2024-05-16,Malmö,GAIS,1,0,1.0
+2024,Allsvenskan,9,2024-05-16,Brommapojkarna,Djurgården,0,5,0.0
+2024,Allsvenskan,9,2024-05-16,Kalmar,Norrköping,1,1,0.5
+2024,Allsvenskan,10,2024-05-19,Brommapojkarna,Norrköping,2,1,1.0
+2024,Allsvenskan,10,2024-05-19,Hammarby,AIK Stockholm,2,1,1.0
+2024,Allsvenskan,10,2024-05-19,Värnamo,Kalmar,0,2,0.0
+2024,Allsvenskan,10,2024-05-19,GAIS,Elfsborg,2,1,1.0
+2024,Allsvenskan,10,2024-05-20,Djurgården,Halmstad,2,0,1.0
+2024,Allsvenskan,10,2024-05-20,Sirius,Västerås,0,0,0.5
+2024,Allsvenskan,10,2024-05-20,Häcken,Malmö,2,2,0.5
+2024,Allsvenskan,10,2024-05-21,Göteborg,Mjällby,1,0,1.0
+2024,Allsvenskan,11,2024-05-24,Elfsborg,Halmstad,2,0,1.0
+2024,Allsvenskan,11,2024-05-24,Malmö,Kalmar,5,0,1.0
+2024,Allsvenskan,11,2024-05-25,GAIS,Häcken,3,0,1.0
+2024,Allsvenskan,11,2024-05-25,Mjällby,Djurgården,1,3,0.0
+2024,Allsvenskan,11,2024-05-26,Hammarby,Sirius,3,0,1.0
+2024,Allsvenskan,11,2024-05-26,Västerås,Brommapojkarna,1,1,0.5
+2024,Allsvenskan,11,2024-05-27,Norrköping,Värnamo,0,4,0.0
+2024,Allsvenskan,11,2024-05-27,AIK Stockholm,Göteborg,5,2,1.0
+2024,Allsvenskan,17,2024-05-28,Malmö,Elfsborg,2,1,1.0
+2024,Allsvenskan,17,2024-05-29,Mjällby,Häcken,2,1,1.0
+2024,Allsvenskan,12,2024-06-01,Göteborg,Elfsborg,1,0,1.0
+2024,Allsvenskan,12,2024-06-01,Brommapojkarna,Malmö,2,2,0.5
+2024,Allsvenskan,12,2024-06-01,Halmstad,GAIS,4,0,1.0
+2024,Allsvenskan,12,2024-06-01,Sirius,Norrköping,5,1,1.0
+2024,Allsvenskan,12,2024-06-02,Kalmar,Västerås,0,4,0.0
+2024,Allsvenskan,12,2024-06-02,Djurgården,Hammarby,0,3,0.0
+2024,Allsvenskan,12,2024-06-02,Häcken,AIK Stockholm,4,1,1.0
+2024,Allsvenskan,12,2024-06-02,Värnamo,Mjällby,1,2,0.0
+2024,Allsvenskan,13,2024-07-06,Mjällby,Sirius,3,2,1.0
+2024,Allsvenskan,13,2024-07-06,Elfsborg,Brommapojkarna,3,0,1.0
+2024,Allsvenskan,13,2024-07-07,AIK Stockholm,Kalmar,1,2,0.0
+2024,Allsvenskan,13,2024-07-07,Värnamo,Göteborg,2,0,1.0
+2024,Allsvenskan,13,2024-07-07,GAIS,Hammarby,0,0,0.5
+2024,Allsvenskan,13,2024-07-07,Malmö,Halmstad,5,1,1.0
+2024,Allsvenskan,13,2024-07-08,Västerås,Häcken,1,2,0.0
+2024,Allsvenskan,13,2024-07-08,Norrköping,Djurgården,1,3,0.0
+2024,Allsvenskan,14,2024-07-13,Mjällby,Malmö,2,1,1.0
+2024,Allsvenskan,14,2024-07-13,Sirius,GAIS,3,1,1.0
+2024,Allsvenskan,14,2024-07-14,Djurgården,Värnamo,1,0,1.0
+2024,Allsvenskan,14,2024-07-14,Kalmar,Brommapojkarna,0,1,0.0
+2024,Allsvenskan,14,2024-07-14,Häcken,Elfsborg,3,5,0.0
+2024,Allsvenskan,14,2024-07-14,Västerås,Norrköping,2,1,1.0
+2024,Allsvenskan,14,2024-07-15,Hammarby,Göteborg,0,1,0.0
+2024,Allsvenskan,14,2024-07-15,Halmstad,AIK Stockholm,1,2,0.0
+2024,Allsvenskan,15,2024-07-19,Sirius,Malmö,3,4,0.0
+2024,Allsvenskan,15,2024-07-20,Kalmar,Djurgården,2,1,1.0
+2024,Allsvenskan,15,2024-07-20,Värnamo,Häcken,2,2,0.5
+2024,Allsvenskan,15,2024-07-20,Brommapojkarna,Hammarby,0,2,0.0
+2024,Allsvenskan,15,2024-07-21,Norrköping,Halmstad,1,0,1.0
+2024,Allsvenskan,15,2024-07-21,Göteborg,Västerås,1,1,0.5
+2024,Allsvenskan,15,2024-07-21,Elfsborg,Mjällby,3,1,1.0
+2024,Allsvenskan,15,2024-07-22,GAIS,AIK Stockholm,2,0,1.0
+2024,Allsvenskan,16,2024-07-27,Norrköping,Kalmar,2,0,1.0
+2024,Allsvenskan,16,2024-07-27,Malmö,Sirius,0,1,0.0
+2024,Allsvenskan,16,2024-07-27,Göteborg,Brommapojkarna,3,4,0.0
+2024,Allsvenskan,16,2024-07-27,Halmstad,Värnamo,1,0,1.0
+2024,Allsvenskan,16,2024-07-28,Häcken,Västerås,4,0,1.0
+2024,Allsvenskan,16,2024-07-28,Hammarby,Mjällby,3,0,1.0
+2024,Allsvenskan,16,2024-07-28,Elfsborg,Djurgården,1,2,0.0
+2024,Allsvenskan,16,2024-07-29,AIK Stockholm,GAIS,0,1,0.0
+2024,Allsvenskan,17,2024-08-03,GAIS,Norrköping,0,1,0.0
+2024,Allsvenskan,17,2024-08-03,Västerås,AIK Stockholm,1,2,0.0
+2024,Allsvenskan,17,2024-08-03,Brommapojkarna,Halmstad,4,1,1.0
+2024,Allsvenskan,17,2024-08-04,Värnamo,Sirius,2,4,0.0
+2024,Allsvenskan,17,2024-08-04,Djurgården,Göteborg,1,1,0.5
+2024,Allsvenskan,17,2024-08-04,Kalmar,Hammarby,1,4,0.0
+2024,Allsvenskan,18,2024-08-10,Norrköping,Västerås,2,1,1.0
+2024,Allsvenskan,18,2024-08-10,Halmstad,Malmö,0,1,0.0
+2024,Allsvenskan,18,2024-08-10,Göteborg,Värnamo,0,0,0.5
+2024,Allsvenskan,18,2024-08-11,AIK Stockholm,Mjällby,1,0,1.0
+2024,Allsvenskan,18,2024-08-11,Elfsborg,GAIS,2,1,1.0
+2024,Allsvenskan,18,2024-08-11,Sirius,Kalmar,3,1,1.0
+2024,Allsvenskan,18,2024-08-12,Hammarby,Brommapojkarna,3,3,0.5
+2024,Allsvenskan,19,2024-08-17,Malmö,Norrköping,2,1,1.0
+2024,Allsvenskan,19,2024-08-17,Värnamo,Hammarby,0,3,0.0
+2024,Allsvenskan,19,2024-08-17,Göteborg,Sirius,1,1,0.5
+2024,Allsvenskan,19,2024-08-17,Västerås,Kalmar,2,1,1.0
+2024,Allsvenskan,19,2024-08-18,Djurgården,AIK Stockholm,0,2,0.0
+2024,Allsvenskan,19,2024-08-18,Mjällby,Elfsborg,1,1,0.5
+2024,Allsvenskan,19,2024-08-18,Brommapojkarna,Häcken,1,3,0.0
+2024,Allsvenskan,19,2024-08-18,GAIS,Halmstad,3,1,1.0
+2024,Allsvenskan,20,2024-08-24,Kalmar,Malmö,2,2,0.5
+2024,Allsvenskan,20,2024-08-25,Elfsborg,Göteborg,3,1,1.0
+2024,Allsvenskan,20,2024-08-25,Sirius,Djurgården,0,1,0.0
+2024,Allsvenskan,20,2024-08-25,Häcken,Värnamo,1,1,0.5
+2024,Allsvenskan,20,2024-08-25,AIK Stockholm,Brommapojkarna,2,1,1.0
+2024,Allsvenskan,20,2024-08-26,Halmstad,Västerås,0,1,0.0
+2024,Allsvenskan,20,2024-08-26,Norrköping,Mjällby,1,2,0.0
+2024,Allsvenskan,20,2024-08-26,Hammarby,GAIS,0,0,0.5
+2024,Allsvenskan,21,2024-08-31,Värnamo,AIK Stockholm,0,1,0.0
+2024,Allsvenskan,21,2024-08-31,GAIS,Kalmar,1,1,0.5
+2024,Allsvenskan,21,2024-08-31,Västerås,Sirius,1,2,0.0
+2024,Allsvenskan,21,2024-08-31,Mjällby,Halmstad,3,1,1.0
+2024,Allsvenskan,21,2024-09-01,Brommapojkarna,Elfsborg,3,3,0.5
+2024,Allsvenskan,21,2024-09-01,Malmö,Djurgården,4,0,1.0
+2024,Allsvenskan,21,2024-09-01,Göteborg,Hammarby,0,1,0.0
+2024,Allsvenskan,21,2024-09-01,Norrköping,Häcken,3,3,0.5
+2024,Allsvenskan,22,2024-09-14,Västerås,GAIS,2,3,0.0
+2024,Allsvenskan,22,2024-09-15,Djurgården,Mjällby,1,1,0.5
+2024,Allsvenskan,22,2024-09-15,Sirius,Brommapojkarna,3,2,1.0
+2024,Allsvenskan,22,2024-09-15,AIK Stockholm,Malmö,0,0,0.5
+2024,Allsvenskan,22,2024-09-15,Häcken,Göteborg,3,3,0.5
+2024,Allsvenskan,22,2024-09-15,Kalmar,Värnamo,3,1,1.0
+2024,Allsvenskan,22,2024-09-15,Halmstad,Elfsborg,0,1,0.0
+2024,Allsvenskan,22,2024-09-16,Hammarby,Norrköping,1,1,0.5
+2024,Allsvenskan,24,2024-09-18,GAIS,Malmö,0,0,0.5
+2024,Allsvenskan,18,2024-09-19,Häcken,Djurgården,1,2,0.0
+2024,Allsvenskan,24,2024-09-19,Elfsborg,Norrköping,2,2,0.5
+2024,Allsvenskan,23,2024-09-21,Kalmar,AIK Stockholm,0,1,0.0
+2024,Allsvenskan,23,2024-09-21,Brommapojkarna,Mjällby,0,0,0.5
+2024,Allsvenskan,23,2024-09-22,GAIS,Djurgården,3,0,1.0
+2024,Allsvenskan,23,2024-09-22,Värnamo,Västerås,2,0,1.0
+2024,Allsvenskan,23,2024-09-22,Elfsborg,Hammarby,0,0,0.5
+2024,Allsvenskan,23,2024-09-22,Malmö,Häcken,4,0,1.0
+2024,Allsvenskan,23,2024-09-23,Göteborg,Halmstad,1,1,0.5
+2024,Allsvenskan,24,2024-09-25,Djurgården,Brommapojkarna,2,1,1.0
+2024,Allsvenskan,24,2024-09-25,Sirius,AIK Stockholm,0,1,0.0
+2024,Allsvenskan,24,2024-09-25,Mjällby,Värnamo,1,1,0.5
+2024,Allsvenskan,24,2024-09-26,Västerås,Göteborg,1,1,0.5
+2024,Allsvenskan,24,2024-09-26,Hammarby,Häcken,2,0,1.0
+2024,Allsvenskan,24,2024-09-26,Halmstad,Kalmar,2,2,0.5
+2024,Allsvenskan,25,2024-09-29,Värnamo,Djurgården,1,1,0.5
+2024,Allsvenskan,25,2024-09-29,Halmstad,Norrköping,0,0,0.5
+2024,Allsvenskan,25,2024-09-29,AIK Stockholm,Hammarby,1,0,1.0
+2024,Allsvenskan,25,2024-09-29,Häcken,Sirius,2,0,1.0
+2024,Allsvenskan,25,2024-09-29,Malmö,Mjällby,2,0,1.0
+2024,Allsvenskan,25,2024-09-29,Kalmar,Elfsborg,1,3,0.0
+2024,Allsvenskan,25,2024-09-30,Brommapojkarna,Västerås,2,1,1.0
+2024,Allsvenskan,25,2024-09-30,Göteborg,GAIS,2,0,1.0
+2024,Allsvenskan,23,2024-10-03,Norrköping,Sirius,0,2,0.0
+2024,Allsvenskan,26,2024-10-05,Mjällby,Västerås,2,1,1.0
+2024,Allsvenskan,26,2024-10-05,Hammarby,Halmstad,1,0,1.0
+2024,Allsvenskan,26,2024-10-05,Brommapojkarna,GAIS,2,0,1.0
+2024,Allsvenskan,26,2024-10-06,Djurgården,Kalmar,1,1,0.5
+2024,Allsvenskan,26,2024-10-06,AIK Stockholm,Häcken,0,2,0.0
+2024,Allsvenskan,26,2024-10-06,Norrköping,Göteborg,0,2,0.0
+2024,Allsvenskan,26,2024-10-06,Sirius,Elfsborg,4,1,1.0
+2024,Allsvenskan,26,2024-10-06,Malmö,Värnamo,1,1,0.5
+2024,Allsvenskan,27,2024-10-19,Elfsborg,Häcken,1,3,0.0
+2024,Allsvenskan,27,2024-10-19,Västerås,Malmö,1,1,0.5
+2024,Allsvenskan,27,2024-10-19,Halmstad,Sirius,3,1,1.0
+2024,Allsvenskan,27,2024-10-20,Kalmar,Mjällby,0,3,0.0
+2024,Allsvenskan,27,2024-10-20,GAIS,Värnamo,0,0,0.5
+2024,Allsvenskan,27,2024-10-21,Hammarby,Djurgården,2,0,1.0
+2024,Allsvenskan,27,2024-10-21,Norrköping,Brommapojkarna,1,1,0.5
+2024,Allsvenskan,27,2024-10-21,Göteborg,AIK Stockholm,1,2,0.0
+2024,Allsvenskan,28,2024-10-26,Sirius,Hammarby,0,3,0.0
+2024,Allsvenskan,28,2024-10-26,Mjällby,GAIS,1,1,0.5
+2024,Allsvenskan,28,2024-10-26,Brommapojkarna,Kalmar,1,2,0.0
+2024,Allsvenskan,28,2024-10-27,AIK Stockholm,Elfsborg,2,1,1.0
+2024,Allsvenskan,28,2024-10-27,Värnamo,Norrköping,1,2,0.0
+2024,Allsvenskan,28,2024-10-27,Häcken,Halmstad,0,1,0.0
+2024,Allsvenskan,28,2024-10-28,Djurgården,Västerås,2,1,1.0
+2024,Allsvenskan,28,2024-10-28,Malmö,Göteborg,2,1,1.0
+2024,Allsvenskan,29,2024-11-02,Hammarby,Malmö,2,2,0.5
+2024,Allsvenskan,29,2024-11-02,Elfsborg,Västerås,1,0,1.0
+2024,Allsvenskan,29,2024-11-02,Göteborg,Kalmar,1,1,0.5
+2024,Allsvenskan,29,2024-11-03,Brommapojkarna,Värnamo,0,1,0.0
+2024,Allsvenskan,29,2024-11-03,Häcken,GAIS,1,2,0.0
+2024,Allsvenskan,29,2024-11-03,Halmstad,Djurgården,1,0,1.0
+2024,Allsvenskan,29,2024-11-03,Sirius,Mjällby,1,1,0.5
+2024,Allsvenskan,29,2024-11-04,Norrköping,AIK Stockholm,1,0,1.0
+2024,Allsvenskan,30,2024-11-10,Malmö,Brommapojkarna,2,1,1.0
+2024,Allsvenskan,30,2024-11-10,Djurgården,Norrköping,3,1,1.0
+2024,Allsvenskan,30,2024-11-10,Kalmar,Häcken,1,0,1.0
+2024,Allsvenskan,30,2024-11-10,AIK Stockholm,Halmstad,5,1,1.0
+2024,Allsvenskan,30,2024-11-10,Mjällby,Göteborg,1,0,1.0
+2024,Allsvenskan,30,2024-11-10,Värnamo,Elfsborg,0,0,0.5
+2024,Allsvenskan,30,2024-11-10,GAIS,Sirius,2,1,1.0
+2024,Allsvenskan,30,2024-11-10,Västerås,Hammarby,1,0,1.0
+2024,Swedish 1/2 Relegation/Promotion Play-offs (M),,2024-11-21,Landskrona,Värnamo,2,2,0.5
+2024,Swedish 1/2 Relegation/Promotion Play-offs (M),,2024-11-24,Värnamo,Landskrona,1,0,1.0

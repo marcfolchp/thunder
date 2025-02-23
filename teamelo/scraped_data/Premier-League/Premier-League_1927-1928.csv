@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1927-1928,1,1927-08-27,Everton,The Wednesday,4,0,1.0
+1927-1928,1,1927-08-27,Derby County,West Ham,2,3,0.0
+1927-1928,1,1927-08-27,Huddersfield,Newcastle Utd,1,3,0.0
+1927-1928,1,1927-08-27,Tottenham,Birmingham,1,0,1.0
+1927-1928,1,1927-08-27,Sheffield Utd,Liverpool,1,1,0.5
+1927-1928,1,1927-08-27,Cardiff City,Bolton,2,1,1.0
+1927-1928,1,1927-08-27,Aston Villa,Leicester City,0,3,0.0
+1927-1928,1,1927-08-27,Bury,Arsenal,5,1,1.0
+1927-1928,1,1927-08-27,Sunderland,Portsmouth,3,3,0.5
+1927-1928,1,1927-08-27,Blackburn,Burnley,2,1,1.0
+1927-1928,1,1927-08-27,Manchester Utd,Middlesbrough,3,0,1.0
+1927-1928,2,1927-08-29,Leicester City,Sheffield Utd,3,1,1.0
+1927-1928,2,1927-08-29,The Wednesday,Manchester Utd,0,2,0.0
+1927-1928,2,1927-08-29,Birmingham,Huddersfield,3,1,1.0
+1927-1928,2,1927-08-31,Portsmouth,Aston Villa,3,1,1.0
+1927-1928,2,1927-08-31,Arsenal,Burnley,4,1,1.0
+1927-1928,2,1927-08-31,Middlesbrough,Tottenham,3,1,1.0
+1927-1928,2,1927-08-31,Liverpool,Bury,5,1,1.0
+1927-1928,2,1927-09-01,West Ham,Sunderland,2,4,0.0
+1927-1928,3,1927-09-03,The Wednesday,Cardiff City,3,3,0.5
+1927-1928,3,1927-09-03,Middlesbrough,Everton,4,2,1.0
+1927-1928,3,1927-09-03,Burnley,Bury,2,3,0.0
+1927-1928,3,1927-09-03,Newcastle Utd,Tottenham,4,1,1.0
+1927-1928,3,1927-09-03,Arsenal,Sheffield Utd,6,1,1.0
+1927-1928,3,1927-09-03,Birmingham,Manchester Utd,0,0,0.5
+1927-1928,3,1927-09-03,Leicester City,Sunderland,3,3,0.5
+1927-1928,3,1927-09-03,Portsmouth,Derby County,2,2,0.5
+1927-1928,3,1927-09-03,West Ham,Huddersfield,4,2,1.0
+1927-1928,3,1927-09-03,Bolton,Blackburn,3,1,1.0
+1927-1928,3,1927-09-03,Liverpool,Aston Villa,0,0,0.5
+1927-1928,4,1927-09-05,Blackburn,Cardiff City,0,0,0.5
+1927-1928,4,1927-09-05,Derby County,Newcastle Utd,1,1,0.5
+1927-1928,4,1927-09-05,Aston Villa,Portsmouth,7,2,1.0
+1927-1928,4,1927-09-05,Burnley,Arsenal,1,2,0.0
+1927-1928,4,1927-09-05,Sheffield Utd,Leicester City,1,1,0.5
+1927-1928,4,1927-09-05,Bolton,Everton,1,1,0.5
+1927-1928,4,1927-09-07,Manchester Utd,The Wednesday,1,1,0.5
+1927-1928,22,1927-09-07,Sunderland,Birmingham,4,2,1.0
+1927-1928,5,1927-09-10,West Ham,Portsmouth,4,2,1.0
+1927-1928,5,1927-09-10,Tottenham,Huddersfield,2,2,0.5
+1927-1928,5,1927-09-10,Aston Villa,Arsenal,2,2,0.5
+1927-1928,5,1927-09-10,Sunderland,Liverpool,2,1,1.0
+1927-1928,5,1927-09-10,Sheffield Utd,Burnley,5,2,1.0
+1927-1928,5,1927-09-10,Blackburn,The Wednesday,3,1,1.0
+1927-1928,5,1927-09-10,Cardiff City,Middlesbrough,1,1,0.5
+1927-1928,5,1927-09-10,Everton,Birmingham,5,2,1.0
+1927-1928,5,1927-09-10,Derby County,Leicester City,2,1,1.0
+1927-1928,5,1927-09-10,Bury,Bolton,1,0,1.0
+1927-1928,5,1927-09-10,Manchester Utd,Newcastle Utd,1,7,0.0
+1927-1928,2,1927-09-12,Cardiff City,Blackburn,1,1,0.5
+1927-1928,4,1927-09-12,Tottenham,Middlesbrough,4,2,1.0
+1927-1928,2,1927-09-14,Newcastle Utd,Derby County,4,3,1.0
+1927-1928,2,1927-09-14,Everton,Bolton,2,2,0.5
+1927-1928,6,1927-09-17,Arsenal,Sunderland,2,1,1.0
+1927-1928,6,1927-09-17,Newcastle Utd,Everton,2,2,0.5
+1927-1928,6,1927-09-17,Birmingham,Cardiff City,1,3,0.0
+1927-1928,6,1927-09-17,Portsmouth,Tottenham,3,0,1.0
+1927-1928,6,1927-09-17,Liverpool,Derby County,5,2,1.0
+1927-1928,6,1927-09-17,Middlesbrough,Blackburn,2,0,1.0
+1927-1928,6,1927-09-17,Bury,Sheffield Utd,1,0,1.0
+1927-1928,6,1927-09-17,Leicester City,West Ham,2,3,0.0
+1927-1928,6,1927-09-17,Burnley,Aston Villa,4,2,1.0
+1927-1928,6,1927-09-17,The Wednesday,Bolton,3,0,1.0
+1927-1928,6,1927-09-17,Huddersfield,Manchester Utd,4,2,1.0
+1927-1928,4,1927-09-19,Bury,Liverpool,5,2,1.0
+1927-1928,22,1927-09-19,Blackburn,Manchester Utd,3,0,1.0
+1927-1928,42,1927-09-22,Tottenham,Leicester City,2,1,1.0
+1927-1928,7,1927-09-24,West Ham,Liverpool,3,1,1.0
+1927-1928,7,1927-09-24,Manchester Utd,Tottenham,3,0,1.0
+1927-1928,7,1927-09-24,Bolton,Middlesbrough,0,0,0.5
+1927-1928,7,1927-09-24,Derby County,Arsenal,4,0,1.0
+1927-1928,7,1927-09-24,Blackburn,Birmingham,4,4,0.5
+1927-1928,7,1927-09-24,Everton,Huddersfield,2,2,0.5
+1927-1928,7,1927-09-24,Cardiff City,Newcastle Utd,3,1,1.0
+1927-1928,7,1927-09-24,Sheffield Utd,The Wednesday,1,1,0.5
+1927-1928,7,1927-09-24,Sunderland,Burnley,2,3,0.0
+1927-1928,7,1927-09-24,Portsmouth,Leicester City,2,0,1.0
+1927-1928,7,1927-09-24,Aston Villa,Bury,1,0,1.0
+1927-1928,8,1927-10-01,Burnley,Derby County,4,2,1.0
+1927-1928,8,1927-10-01,Tottenham,Everton,1,3,0.0
+1927-1928,8,1927-10-01,Liverpool,Portsmouth,8,2,1.0
+1927-1928,8,1927-10-01,Leicester City,Manchester Utd,1,0,1.0
+1927-1928,8,1927-10-01,Birmingham,Bolton,1,1,0.5
+1927-1928,8,1927-10-01,Arsenal,West Ham,2,2,0.5
+1927-1928,8,1927-10-01,Sheffield Utd,Aston Villa,0,3,0.0
+1927-1928,8,1927-10-01,Bury,Sunderland,5,3,1.0
+1927-1928,8,1927-10-01,Newcastle Utd,Blackburn,0,1,0.0
+1927-1928,8,1927-10-01,Huddersfield,Cardiff City,8,2,1.0
+1927-1928,8,1927-10-01,Middlesbrough,The Wednesday,3,3,0.5
+1927-1928,9,1927-10-08,Leicester City,Liverpool,1,1,0.5
+1927-1928,9,1927-10-08,Portsmouth,Arsenal,2,3,0.0
+1927-1928,9,1927-10-08,Blackburn,Huddersfield,1,1,0.5
+1927-1928,9,1927-10-08,Aston Villa,Middlesbrough,5,1,1.0
+1927-1928,9,1927-10-08,Bolton,Newcastle Utd,1,2,0.0
+1927-1928,9,1927-10-08,Everton,Manchester Utd,5,2,1.0
+1927-1928,9,1927-10-08,Sunderland,Sheffield Utd,0,1,0.0
+1927-1928,9,1927-10-08,Derby County,Bury,5,2,1.0
+1927-1928,9,1927-10-08,The Wednesday,Birmingham,2,3,0.0
+1927-1928,9,1927-10-08,Cardiff City,Tottenham,2,1,1.0
+1927-1928,9,1927-10-08,West Ham,Burnley,2,0,1.0
+1927-1928,10,1927-10-15,Everton,Liverpool,1,1,0.5
+1927-1928,10,1927-10-15,Sheffield Utd,Derby County,1,0,1.0
+1927-1928,10,1927-10-15,Aston Villa,Sunderland,4,2,1.0
+1927-1928,10,1927-10-15,Burnley,Portsmouth,2,0,1.0
+1927-1928,10,1927-10-15,Manchester Utd,Cardiff City,2,2,0.5
+1927-1928,10,1927-10-15,Tottenham,Blackburn,1,1,0.5
+1927-1928,10,1927-10-15,Bury,West Ham,3,1,1.0
+1927-1928,10,1927-10-15,Arsenal,Leicester City,2,2,0.5
+1927-1928,10,1927-10-15,Birmingham,Middlesbrough,3,2,1.0
+1927-1928,10,1927-10-15,Newcastle Utd,The Wednesday,4,3,1.0
+1927-1928,10,1927-10-15,Huddersfield,Bolton,1,0,1.0
+1927-1928,11,1927-10-22,Bolton,Liverpool,2,1,1.0
+1927-1928,11,1927-10-22,Huddersfield,Aston Villa,1,1,0.5
+1927-1928,11,1927-10-22,Middlesbrough,Burnley,2,3,0.0
+1927-1928,11,1927-10-22,Everton,West Ham,7,0,1.0
+1927-1928,11,1927-10-22,The Wednesday,Arsenal,1,1,0.5
+1927-1928,11,1927-10-22,Birmingham,Bury,2,2,0.5
+1927-1928,11,1927-10-22,Tottenham,Sunderland,3,1,1.0
+1927-1928,11,1927-10-22,Newcastle Utd,Sheffield Utd,1,0,1.0
+1927-1928,11,1927-10-22,Manchester Utd,Derby County,5,0,1.0
+1927-1928,11,1927-10-22,Cardiff City,Portsmouth,3,1,1.0
+1927-1928,11,1927-10-22,Blackburn,Leicester City,0,0,0.5
+1927-1928,12,1927-10-29,Leicester City,Cardiff City,4,1,1.0
+1927-1928,12,1927-10-29,Burnley,The Wednesday,3,1,1.0
+1927-1928,12,1927-10-29,Arsenal,Bolton,1,2,0.0
+1927-1928,12,1927-10-29,West Ham,Manchester Utd,1,2,0.0
+1927-1928,12,1927-10-29,Portsmouth,Everton,1,3,0.0
+1927-1928,12,1927-10-29,Aston Villa,Newcastle Utd,3,0,1.0
+1927-1928,12,1927-10-29,Bury,Middlesbrough,1,4,0.0
+1927-1928,12,1927-10-29,Sheffield Utd,Birmingham,3,1,1.0
+1927-1928,12,1927-10-29,Liverpool,Blackburn,4,2,1.0
+1927-1928,12,1927-10-29,Sunderland,Huddersfield,3,0,1.0
+1927-1928,12,1927-10-29,Derby County,Tottenham,1,1,0.5
+1927-1928,13,1927-11-05,Huddersfield,Derby County,2,1,1.0
+1927-1928,13,1927-11-05,Birmingham,Aston Villa,1,1,0.5
+1927-1928,13,1927-11-05,Tottenham,West Ham,5,3,1.0
+1927-1928,13,1927-11-05,The Wednesday,Bury,4,0,1.0
+1927-1928,13,1927-11-05,Blackburn,Arsenal,4,1,1.0
+1927-1928,13,1927-11-05,Bolton,Burnley,7,1,1.0
+1927-1928,13,1927-11-05,Middlesbrough,Sheffield Utd,3,0,1.0
+1927-1928,13,1927-11-05,Manchester Utd,Portsmouth,2,0,1.0
+1927-1928,13,1927-11-05,Cardiff City,Liverpool,1,1,0.5
+1927-1928,13,1927-11-05,Everton,Leicester City,7,1,1.0
+1927-1928,13,1927-11-05,Newcastle Utd,Sunderland,3,1,1.0
+1927-1928,14,1927-11-12,Leicester City,Bolton,4,2,1.0
+1927-1928,14,1927-11-12,Sheffield Utd,Huddersfield,1,7,0.0
+1927-1928,14,1927-11-12,Portsmouth,Blackburn,2,2,0.5
+1927-1928,14,1927-11-12,Burnley,Birmingham,2,1,1.0
+1927-1928,14,1927-11-12,Liverpool,The Wednesday,5,2,1.0
+1927-1928,14,1927-11-12,Arsenal,Middlesbrough,3,1,1.0
+1927-1928,14,1927-11-12,Sunderland,Manchester Utd,4,1,1.0
+1927-1928,14,1927-11-12,West Ham,Cardiff City,2,0,1.0
+1927-1928,14,1927-11-12,Derby County,Everton,0,3,0.0
+1927-1928,14,1927-11-12,Bury,Newcastle Utd,1,4,0.0
+1927-1928,14,1927-11-12,Aston Villa,Tottenham,1,2,0.0
+1927-1928,15,1927-11-19,Manchester Utd,Aston Villa,5,1,1.0
+1927-1928,15,1927-11-19,Cardiff City,Derby County,4,4,0.5
+1927-1928,15,1927-11-19,Birmingham,Arsenal,1,1,0.5
+1927-1928,15,1927-11-19,Blackburn,West Ham,1,0,1.0
+1927-1928,15,1927-11-19,The Wednesday,Leicester City,1,2,0.0
+1927-1928,15,1927-11-19,Everton,Sunderland,0,1,0.0
+1927-1928,15,1927-11-19,Middlesbrough,Liverpool,1,1,0.5
+1927-1928,15,1927-11-19,Tottenham,Sheffield Utd,2,2,0.5
+1927-1928,15,1927-11-19,Huddersfield,Bury,3,0,1.0
+1927-1928,15,1927-11-19,Newcastle Utd,Burnley,1,1,0.5
+1927-1928,15,1927-11-19,Bolton,Portsmouth,3,1,1.0
+1927-1928,16,1927-11-26,Aston Villa,Blackburn,2,0,1.0
+1927-1928,16,1927-11-26,Sunderland,Bolton,1,1,0.5
+1927-1928,16,1927-11-26,Bury,Everton,2,3,0.0
+1927-1928,16,1927-11-26,Portsmouth,Birmingham,2,2,0.5
+1927-1928,16,1927-11-26,Leicester City,Newcastle Utd,3,0,1.0
+1927-1928,16,1927-11-26,West Ham,Middlesbrough,4,5,0.0
+1927-1928,16,1927-11-26,Sheffield Utd,Cardiff City,3,4,0.0
+1927-1928,16,1927-11-26,Derby County,The Wednesday,4,6,0.0
+1927-1928,16,1927-11-26,Liverpool,Huddersfield,4,2,1.0
+1927-1928,16,1927-11-26,Burnley,Manchester Utd,4,0,1.0
+1927-1928,17,1927-12-03,Middlesbrough,Portsmouth,5,1,1.0
+1927-1928,17,1927-12-03,Manchester Utd,Bury,0,1,0.0
+1927-1928,17,1927-12-03,Everton,Sheffield Utd,0,0,0.5
+1927-1928,17,1927-12-03,Blackburn,Sunderland,0,0,0.5
+1927-1928,17,1927-12-03,The Wednesday,West Ham,2,0,1.0
+1927-1928,17,1927-12-03,Cardiff City,Aston Villa,2,1,1.0
+1927-1928,17,1927-12-03,Huddersfield,Arsenal,2,1,1.0
+1927-1928,17,1927-12-03,Newcastle Utd,Liverpool,1,1,0.5
+1927-1928,17,1927-12-03,Tottenham,Burnley,5,0,1.0
+1927-1928,17,1927-12-03,Birmingham,Leicester City,0,2,0.0
+1927-1928,18,1927-12-10,Arsenal,Newcastle Utd,4,1,1.0
+1927-1928,18,1927-12-10,Derby County,Blackburn,6,0,1.0
+1927-1928,18,1927-12-10,Leicester City,Middlesbrough,3,3,0.5
+1927-1928,18,1927-12-10,Aston Villa,Everton,2,3,0.0
+1927-1928,18,1927-12-10,Sunderland,Cardiff City,0,2,0.0
+1927-1928,18,1927-12-10,Bury,Tottenham,1,2,0.0
+1927-1928,18,1927-12-10,Portsmouth,The Wednesday,0,0,0.5
+1927-1928,18,1927-12-10,Burnley,Huddersfield,0,1,0.0
+1927-1928,18,1927-12-10,West Ham,Bolton,2,0,1.0
+1927-1928,18,1927-12-10,Liverpool,Birmingham,2,3,0.0
+1927-1928,18,1927-12-10,Sheffield Utd,Manchester Utd,2,1,1.0
+1927-1928,19,1927-12-17,Birmingham,West Ham,1,2,0.0
+1927-1928,19,1927-12-17,Newcastle Utd,Portsmouth,1,3,0.0
+1927-1928,19,1927-12-17,The Wednesday,Sunderland,0,0,0.5
+1927-1928,19,1927-12-17,Blackburn,Sheffield Utd,1,0,1.0
+1927-1928,19,1927-12-17,Everton,Burnley,4,1,1.0
+1927-1928,19,1927-12-17,Cardiff City,Bury,0,1,0.0
+1927-1928,19,1927-12-17,Tottenham,Liverpool,3,1,1.0
+1927-1928,19,1927-12-17,Manchester Utd,Arsenal,4,1,1.0
+1927-1928,19,1927-12-17,Middlesbrough,Derby County,3,3,0.5
+1927-1928,19,1927-12-17,Huddersfield,Leicester City,3,1,1.0
+1927-1928,19,1927-12-17,Bolton,Aston Villa,3,1,1.0
+1927-1928,20,1927-12-24,Derby County,Birmingham,4,1,1.0
+1927-1928,20,1927-12-24,Portsmouth,Huddersfield,2,1,1.0
+1927-1928,20,1927-12-24,Burnley,Cardiff City,2,1,1.0
+1927-1928,20,1927-12-24,Aston Villa,The Wednesday,5,4,1.0
+1927-1928,20,1927-12-24,Arsenal,Everton,3,2,1.0
+1927-1928,20,1927-12-24,Liverpool,Manchester Utd,2,0,1.0
+1927-1928,20,1927-12-24,Leicester City,Tottenham,6,1,1.0
+1927-1928,20,1927-12-24,Bury,Blackburn,2,3,0.0
+1927-1928,20,1927-12-24,Sheffield Utd,Bolton,4,3,1.0
+1927-1928,20,1927-12-24,Sunderland,Middlesbrough,1,0,1.0
+1927-1928,20,1927-12-24,West Ham,Newcastle Utd,5,2,1.0
+1927-1928,21,1927-12-26,Everton,Cardiff City,2,1,1.0
+1927-1928,21,1927-12-26,Bolton,Tottenham,4,1,1.0
+1927-1928,21,1927-12-26,Birmingham,Sunderland,1,1,0.5
+1927-1928,21,1927-12-26,Derby County,Aston Villa,5,0,1.0
+1927-1928,21,1927-12-26,Huddersfield,The Wednesday,1,0,1.0
+1927-1928,21,1927-12-26,Sheffield Utd,West Ham,6,2,1.0
+1927-1928,21,1927-12-26,Manchester Utd,Blackburn,1,1,0.5
+1927-1928,21,1927-12-26,Leicester City,Burnley,5,0,1.0
+1927-1928,21,1927-12-26,Bury,Portsmouth,4,0,1.0
+1927-1928,21,1927-12-26,Middlesbrough,Newcastle Utd,1,1,0.5
+1927-1928,22,1927-12-27,The Wednesday,Huddersfield,0,5,0.0
+1927-1928,22,1927-12-27,Burnley,Leicester City,5,1,1.0
+1927-1928,22,1927-12-27,Portsmouth,Bury,1,0,1.0
+1927-1928,22,1927-12-27,Newcastle Utd,Middlesbrough,3,3,0.5
+1927-1928,22,1927-12-27,Aston Villa,Derby County,0,1,0.0
+1927-1928,22,1927-12-27,Cardiff City,Everton,2,0,1.0
+1927-1928,22,1927-12-27,West Ham,Sheffield Utd,1,1,0.5
+1927-1928,22,1927-12-27,Liverpool,Arsenal,0,2,0.0
+1927-1928,23,1927-12-31,Leicester City,Aston Villa,3,0,1.0
+1927-1928,23,1927-12-31,Newcastle Utd,Huddersfield,2,3,0.0
+1927-1928,23,1927-12-31,Middlesbrough,Manchester Utd,1,2,0.0
+1927-1928,23,1927-12-31,Burnley,Blackburn,3,1,1.0
+1927-1928,23,1927-12-31,West Ham,Derby County,2,2,0.5
+1927-1928,23,1927-12-31,Birmingham,Tottenham,3,2,1.0
+1927-1928,23,1927-12-31,Liverpool,Sheffield Utd,2,1,1.0
+1927-1928,23,1927-12-31,Arsenal,Bury,3,1,1.0
+1927-1928,23,1927-12-31,The Wednesday,Everton,1,2,0.0
+1927-1928,23,1927-12-31,Bolton,Cardiff City,2,1,1.0
+1927-1928,4,1928-01-02,Sunderland,West Ham,3,2,1.0
+1927-1928,16,1928-01-02,Arsenal,Tottenham,1,1,0.5
+1927-1928,17,1928-01-02,Bolton,Derby County,1,3,0.0
+1927-1928,36,1928-01-02,Sheffield Utd,Portsmouth,3,1,1.0
+1927-1928,36,1928-01-02,Bury,Leicester City,2,1,1.0
+1927-1928,36,1928-01-02,Middlesbrough,Huddersfield,3,1,1.0
+1927-1928,36,1928-01-02,Newcastle Utd,Birmingham,1,1,0.5
+1927-1928,38,1928-01-02,Liverpool,Burnley,2,2,0.5
+1927-1928,38,1928-01-02,Blackburn,Everton,4,2,1.0
+1927-1928,24,1928-01-07,Everton,Middlesbrough,3,1,1.0
+1927-1928,24,1928-01-07,Sheffield Utd,Arsenal,6,4,1.0
+1927-1928,24,1928-01-07,Bury,Burnley,2,0,1.0
+1927-1928,24,1928-01-07,Tottenham,Newcastle Utd,5,2,1.0
+1927-1928,24,1928-01-07,Aston Villa,Liverpool,3,4,0.0
+1927-1928,24,1928-01-07,Manchester Utd,Birmingham,1,1,0.5
+1927-1928,24,1928-01-07,Sunderland,Leicester City,2,2,0.5
+1927-1928,24,1928-01-07,Blackburn,Bolton,1,6,0.0
+1927-1928,24,1928-01-07,Derby County,Portsmouth,2,2,0.5
+1927-1928,24,1928-01-07,Cardiff City,The Wednesday,1,1,0.5
+1927-1928,24,1928-01-07,Huddersfield,West Ham,5,2,1.0
+1927-1928,25,1928-01-21,The Wednesday,Blackburn,4,1,1.0
+1927-1928,25,1928-01-21,Huddersfield,Tottenham,4,2,1.0
+1927-1928,25,1928-01-21,Bolton,Bury,2,1,1.0
+1927-1928,25,1928-01-21,Portsmouth,West Ham,2,1,1.0
+1927-1928,25,1928-01-21,Leicester City,Derby County,4,0,1.0
+1927-1928,25,1928-01-21,Burnley,Sheffield Utd,5,3,1.0
+1927-1928,25,1928-01-21,Birmingham,Everton,2,2,0.5
+1927-1928,25,1928-01-21,Arsenal,Aston Villa,0,3,0.0
+1927-1928,25,1928-01-21,Liverpool,Sunderland,2,5,0.0
+1927-1928,25,1928-01-21,Newcastle Utd,Manchester Utd,4,1,1.0
+1927-1928,25,1928-01-21,Middlesbrough,Cardiff City,1,2,0.0
+1927-1928,27,1928-02-04,Arsenal,Derby County,3,4,0.0
+1927-1928,27,1928-02-04,Burnley,Sunderland,3,0,1.0
+1927-1928,27,1928-02-04,Liverpool,West Ham,1,3,0.0
+1927-1928,27,1928-02-04,Birmingham,Blackburn,2,1,1.0
+1927-1928,27,1928-02-04,Middlesbrough,Bolton,2,5,0.0
+1927-1928,27,1928-02-04,Bury,Aston Villa,0,0,0.5
+1927-1928,27,1928-02-04,Tottenham,Manchester Utd,4,1,1.0
+1927-1928,27,1928-02-04,Huddersfield,Everton,4,1,1.0
+1927-1928,27,1928-02-04,Newcastle Utd,Cardiff City,2,0,1.0
+1927-1928,27,1928-02-04,The Wednesday,Sheffield Utd,3,3,0.5
+1927-1928,27,1928-02-04,Leicester City,Portsmouth,6,2,1.0
+1927-1928,22,1928-02-06,Tottenham,Bolton,1,2,0.0
+1927-1928,26,1928-02-08,Aston Villa,Burnley,3,1,1.0
+1927-1928,28,1928-02-11,Everton,Tottenham,2,5,0.0
+1927-1928,28,1928-02-11,Cardiff City,Huddersfield,4,0,1.0
+1927-1928,28,1928-02-11,Bolton,Birmingham,3,2,1.0
+1927-1928,28,1928-02-11,West Ham,Arsenal,2,2,0.5
+1927-1928,28,1928-02-11,Blackburn,Newcastle Utd,1,0,1.0
+1927-1928,28,1928-02-11,The Wednesday,Middlesbrough,2,3,0.0
+1927-1928,28,1928-02-11,Derby County,Burnley,3,4,0.0
+1927-1928,28,1928-02-11,Portsmouth,Liverpool,1,0,1.0
+1927-1928,28,1928-02-11,Sunderland,Bury,1,0,1.0
+1927-1928,28,1928-02-11,Aston Villa,Sheffield Utd,1,0,1.0
+1927-1928,28,1928-02-11,Manchester Utd,Leicester City,5,2,1.0
+1927-1928,26,1928-02-15,Derby County,Liverpool,2,3,0.0
+1927-1928,23,1928-02-18,Portsmouth,Sunderland,3,5,0.0
+1927-1928,29,1928-02-18,Burnley,West Ham,0,0,0.5
+1927-1928,29,1928-02-18,Bury,Derby County,3,0,1.0
+1927-1928,29,1928-02-18,Newcastle Utd,Bolton,2,2,0.5
+1927-1928,26,1928-02-22,Cardiff City,Birmingham,2,1,1.0
+1927-1928,26,1928-02-23,Blackburn,Middlesbrough,3,0,1.0
+1927-1928,30,1928-02-25,Liverpool,Everton,3,3,0.5
+1927-1928,30,1928-02-25,Leicester City,Arsenal,3,2,1.0
+1927-1928,30,1928-02-25,Portsmouth,Burnley,1,0,1.0
+1927-1928,30,1928-02-25,The Wednesday,Newcastle Utd,0,0,0.5
+1927-1928,30,1928-02-25,Sunderland,Aston Villa,2,3,0.0
+1927-1928,30,1928-02-25,Cardiff City,Manchester Utd,2,0,1.0
+1927-1928,30,1928-02-25,Bolton,Huddersfield,0,1,0.0
+1927-1928,30,1928-02-25,West Ham,Bury,1,2,0.0
+1927-1928,30,1928-02-25,Blackburn,Tottenham,2,1,1.0
+1927-1928,30,1928-02-25,Middlesbrough,Birmingham,1,1,0.5
+1927-1928,30,1928-02-25,Derby County,Sheffield Utd,2,1,1.0
+1927-1928,26,1928-02-29,Bolton,The Wednesday,2,0,1.0
+1927-1928,31,1928-03-03,Burnley,Middlesbrough,1,1,0.5
+1927-1928,31,1928-03-03,Liverpool,Bolton,4,2,1.0
+1927-1928,31,1928-03-03,Bury,Birmingham,2,3,0.0
+1927-1928,31,1928-03-03,West Ham,Everton,0,0,0.5
+1927-1928,31,1928-03-03,Portsmouth,Cardiff City,3,0,1.0
+1927-1928,29,1928-03-05,Tottenham,Cardiff City,1,0,1.0
+1927-1928,21,1928-03-07,Arsenal,Liverpool,6,3,1.0
+1927-1928,26,1928-03-07,Manchester Utd,Huddersfield,0,0,0.5
+1927-1928,29,1928-03-07,Birmingham,The Wednesday,1,0,1.0
+1927-1928,32,1928-03-10,Bolton,Arsenal,1,1,0.5
+1927-1928,32,1928-03-10,Blackburn,Liverpool,2,1,1.0
+1927-1928,32,1928-03-10,The Wednesday,Burnley,5,0,1.0
+1927-1928,32,1928-03-10,Cardiff City,Leicester City,3,0,1.0
+1927-1928,32,1928-03-10,Middlesbrough,Bury,6,1,1.0
+1927-1928,32,1928-03-10,Tottenham,Derby County,1,2,0.0
+1927-1928,32,1928-03-10,Huddersfield,Sunderland,4,2,1.0
+1927-1928,32,1928-03-10,Manchester Utd,West Ham,1,1,0.5
+1927-1928,32,1928-03-10,Birmingham,Sheffield Utd,4,1,1.0
+1927-1928,32,1928-03-10,Newcastle Utd,Aston Villa,7,5,1.0
+1927-1928,32,1928-03-10,Everton,Portsmouth,0,0,0.5
+1927-1928,26,1928-03-12,West Ham,Leicester City,4,0,1.0
+1927-1928,26,1928-03-12,Sheffield Utd,Bury,3,1,1.0
+1927-1928,26,1928-03-14,Sunderland,Arsenal,5,1,1.0
+1927-1928,29,1928-03-14,Manchester Utd,Everton,1,0,1.0
+1927-1928,29,1928-03-14,Huddersfield,Blackburn,3,1,1.0
+1927-1928,33,1928-03-17,Bury,The Wednesday,4,2,1.0
+1927-1928,33,1928-03-17,Sheffield Utd,Middlesbrough,4,1,1.0
+1927-1928,33,1928-03-17,Burnley,Bolton,2,2,0.5
+1927-1928,33,1928-03-17,Leicester City,Everton,1,0,1.0
+1927-1928,33,1928-03-17,Derby County,Huddersfield,0,0,0.5
+1927-1928,33,1928-03-17,Arsenal,Blackburn,3,2,1.0
+1927-1928,33,1928-03-17,West Ham,Tottenham,1,1,0.5
+1927-1928,33,1928-03-17,Portsmouth,Manchester Utd,1,0,1.0
+1927-1928,33,1928-03-17,Aston Villa,Birmingham,1,1,0.5
+1927-1928,33,1928-03-17,Sunderland,Newcastle Utd,1,1,0.5
+1927-1928,33,1928-03-17,Liverpool,Cardiff City,1,2,0.0
+1927-1928,26,1928-03-19,Tottenham,Portsmouth,0,3,0.0
+1927-1928,29,1928-03-21,Middlesbrough,Aston Villa,0,0,0.5
+1927-1928,34,1928-03-24,Bolton,Leicester City,3,3,0.5
+1927-1928,34,1928-03-24,Cardiff City,West Ham,1,5,0.0
+1927-1928,34,1928-03-24,Tottenham,Aston Villa,2,1,1.0
+1927-1928,34,1928-03-24,Everton,Derby County,2,2,0.5
+1927-1928,34,1928-03-24,Newcastle Utd,Bury,2,3,0.0
+1927-1928,34,1928-03-24,The Wednesday,Liverpool,4,0,1.0
+1927-1928,34,1928-03-24,Birmingham,Burnley,4,0,1.0
+1927-1928,29,1928-03-28,Arsenal,Portsmouth,0,2,0.0
+1927-1928,31,1928-03-28,Sunderland,Tottenham,0,0,0.5
+1927-1928,31,1928-03-28,Derby County,Manchester Utd,5,0,1.0
+1927-1928,35,1928-03-31,Sheffield Utd,Tottenham,3,1,1.0
+1927-1928,35,1928-03-31,Portsmouth,Bolton,1,0,1.0
+1927-1928,35,1928-03-31,Liverpool,Middlesbrough,1,1,0.5
+1927-1928,35,1928-03-31,Aston Villa,Manchester Utd,3,1,1.0
+1927-1928,35,1928-03-31,Derby County,Cardiff City,7,1,1.0
+1927-1928,35,1928-03-31,Leicester City,The Wednesday,2,2,0.5
+1927-1928,35,1928-03-31,West Ham,Blackburn,4,3,1.0
+1927-1928,35,1928-03-31,Burnley,Newcastle Utd,5,1,1.0
+1927-1928,35,1928-03-31,Bury,Huddersfield,2,3,0.0
+1927-1928,35,1928-03-31,Arsenal,Birmingham,2,2,0.5
+1927-1928,35,1928-03-31,Sunderland,Everton,0,2,0.0
+1927-1928,36,1928-04-06,Sunderland,Derby County,0,1,0.0
+1927-1928,36,1928-04-06,Burnley,Liverpool,2,2,0.5
+1927-1928,36,1928-04-06,West Ham,Aston Villa,0,0,0.5
+1927-1928,36,1928-04-06,Everton,Blackburn,4,1,1.0
+1927-1928,36,1928-04-06,Bolton,Manchester Utd,3,2,1.0
+1927-1928,36,1928-04-06,Tottenham,The Wednesday,1,3,0.0
+1927-1928,36,1928-04-06,Arsenal,Cardiff City,3,0,1.0
+1927-1928,37,1928-04-07,Everton,Bury,1,1,0.5
+1927-1928,37,1928-04-07,Huddersfield,Liverpool,2,4,0.0
+1927-1928,37,1928-04-07,Manchester Utd,Burnley,4,3,1.0
+1927-1928,37,1928-04-07,Cardiff City,Sheffield Utd,2,2,0.5
+1927-1928,37,1928-04-07,Middlesbrough,West Ham,2,2,0.5
+1927-1928,37,1928-04-07,Blackburn,Aston Villa,0,1,0.0
+1927-1928,37,1928-04-07,Newcastle Utd,Leicester City,1,5,0.0
+1927-1928,37,1928-04-07,Birmingham,Portsmouth,2,0,1.0
+1927-1928,37,1928-04-07,Tottenham,Arsenal,2,0,1.0
+1927-1928,37,1928-04-07,The Wednesday,Derby County,2,2,0.5
+1927-1928,37,1928-04-07,Bolton,Sunderland,1,2,0.0
+1927-1928,4,1928-04-09,Huddersfield,Birmingham,2,0,1.0
+1927-1928,38,1928-04-09,Leicester City,Bury,2,2,0.5
+1927-1928,38,1928-04-09,Aston Villa,West Ham,1,0,1.0
+1927-1928,38,1928-04-09,Derby County,Sunderland,1,0,1.0
+1927-1928,38,1928-04-09,Portsmouth,Sheffield Utd,4,1,1.0
+1927-1928,38,1928-04-09,Manchester Utd,Bolton,2,1,1.0
+1927-1928,38,1928-04-09,Cardiff City,Arsenal,2,2,0.5
+1927-1928,38,1928-04-10,Huddersfield,Middlesbrough,2,4,0.0
+1927-1928,38,1928-04-10,Birmingham,Newcastle Utd,0,2,0.0
+1927-1928,38,1928-04-10,The Wednesday,Tottenham,4,2,1.0
+1927-1928,39,1928-04-14,Aston Villa,Cardiff City,3,1,1.0
+1927-1928,39,1928-04-14,Derby County,Bolton,1,0,1.0
+1927-1928,39,1928-04-14,Arsenal,Huddersfield,0,0,0.5
+1927-1928,39,1928-04-14,Burnley,Tottenham,2,2,0.5
+1927-1928,39,1928-04-14,Leicester City,Birmingham,3,0,1.0
+1927-1928,39,1928-04-14,Liverpool,Newcastle Utd,0,0,0.5
+1927-1928,39,1928-04-14,Portsmouth,Middlesbrough,4,1,1.0
+1927-1928,39,1928-04-14,Sheffield Utd,Everton,1,3,0.0
+1927-1928,39,1928-04-14,Bury,Manchester Utd,4,3,1.0
+1927-1928,39,1928-04-14,West Ham,The Wednesday,1,2,0.0
+1927-1928,39,1928-04-14,Sunderland,Blackburn,1,0,1.0
+1927-1928,29,1928-04-16,Sheffield Utd,Sunderland,5,1,1.0
+1927-1928,26,1928-04-18,Everton,Newcastle Utd,3,0,1.0
+1927-1928,34,1928-04-18,Middlesbrough,Arsenal,2,2,0.5
+1927-1928,40,1928-04-21,Cardiff City,Sunderland,3,1,1.0
+1927-1928,40,1928-04-21,Birmingham,Liverpool,2,0,1.0
+1927-1928,40,1928-04-21,Everton,Aston Villa,3,2,1.0
+1927-1928,40,1928-04-21,Bolton,West Ham,4,0,1.0
+1927-1928,40,1928-04-21,The Wednesday,Portsmouth,2,0,1.0
+1927-1928,40,1928-04-21,Newcastle Utd,Arsenal,1,1,0.5
+1927-1928,40,1928-04-21,Manchester Utd,Sheffield Utd,2,3,0.0
+1927-1928,40,1928-04-21,Tottenham,Bury,1,4,0.0
+1927-1928,40,1928-04-21,Middlesbrough,Leicester City,1,1,0.5
+1927-1928,31,1928-04-23,Sheffield Utd,Newcastle Utd,1,1,0.5
+1927-1928,34,1928-04-24,Blackburn,Portsmouth,6,0,1.0
+1927-1928,29,1928-04-25,Liverpool,Leicester City,1,1,0.5
+1927-1928,34,1928-04-25,Manchester Utd,Sunderland,2,1,1.0
+1927-1928,40,1928-04-25,Huddersfield,Burnley,1,2,0.0
+1927-1928,40,1928-04-26,Blackburn,Derby County,3,2,1.0
+1927-1928,41,1928-04-28,Bury,Cardiff City,3,0,1.0
+1927-1928,41,1928-04-28,Sheffield Utd,Blackburn,2,3,0.0
+1927-1928,41,1928-04-28,Arsenal,Manchester Utd,0,1,0.0
+1927-1928,41,1928-04-28,Derby County,Middlesbrough,2,1,1.0
+1927-1928,41,1928-04-28,Portsmouth,Newcastle Utd,0,1,0.0
+1927-1928,41,1928-04-28,Leicester City,Huddersfield,1,2,0.0
+1927-1928,41,1928-04-28,Aston Villa,Bolton,2,2,0.5
+1927-1928,41,1928-04-28,Sunderland,The Wednesday,2,3,0.0
+1927-1928,41,1928-04-28,Liverpool,Tottenham,2,0,1.0
+1927-1928,41,1928-04-28,Burnley,Everton,3,5,0.0
+1927-1928,41,1928-04-28,West Ham,Birmingham,3,3,0.5
+1927-1928,31,1928-04-30,Leicester City,Blackburn,6,0,1.0
+1927-1928,34,1928-04-30,Huddersfield,Sheffield Utd,0,1,0.0
+1927-1928,31,1928-05-02,Aston Villa,Huddersfield,3,0,1.0
+1927-1928,31,1928-05-02,Arsenal,The Wednesday,1,1,0.5
+1927-1928,42,1928-05-05,Birmingham,Derby County,2,1,1.0
+1927-1928,42,1928-05-05,Manchester Utd,Liverpool,6,1,1.0
+1927-1928,42,1928-05-05,Everton,Arsenal,3,3,0.5
+1927-1928,42,1928-05-05,The Wednesday,Aston Villa,2,0,1.0
+1927-1928,42,1928-05-05,Cardiff City,Burnley,3,2,1.0
+1927-1928,42,1928-05-05,Bolton,Sheffield Utd,1,1,0.5
+1927-1928,42,1928-05-05,Newcastle Utd,West Ham,3,1,1.0
+1927-1928,42,1928-05-05,Middlesbrough,Sunderland,0,3,0.0
+1927-1928,42,1928-05-05,Huddersfield,Portsmouth,4,1,1.0
+1927-1928,42,1928-05-05,Blackburn,Bury,0,1,0.0

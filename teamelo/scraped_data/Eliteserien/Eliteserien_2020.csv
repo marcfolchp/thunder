@@ -1,0 +1,242 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020,Eliteserien,1,2020-06-16,Stabæk,Mjøndalen,0,0,0.5
+2020,Eliteserien,1,2020-06-16,Viking,Bodø/Glimt,2,4,0.0
+2020,Eliteserien,1,2020-06-16,Aalesund,Molde,1,4,0.0
+2020,Eliteserien,1,2020-06-16,Rosenborg,Kristiansund,0,0,0.5
+2020,Eliteserien,1,2020-06-16,Odd,Sandefjord,1,2,0.0
+2020,Eliteserien,1,2020-06-16,Sarpsborg 08,Vålerenga,0,1,0.0
+2020,Eliteserien,1,2020-06-17,Start,Strømsgodset,2,2,0.5
+2020,Eliteserien,1,2020-06-17,Haugesund,Brann,1,2,0.0
+2020,Eliteserien,2,2020-06-20,Mjøndalen,Sarpsborg 08,1,0,1.0
+2020,Eliteserien,2,2020-06-20,Molde,Rosenborg,1,0,1.0
+2020,Eliteserien,2,2020-06-21,Sandefjord,Start,2,2,0.5
+2020,Eliteserien,2,2020-06-21,Vålerenga,Stabæk,2,2,0.5
+2020,Eliteserien,2,2020-06-21,Kristiansund,Aalesund,7,2,1.0
+2020,Eliteserien,2,2020-06-21,Bodø/Glimt,Haugesund,6,1,1.0
+2020,Eliteserien,2,2020-06-21,Strømsgodset,Odd,1,0,1.0
+2020,Eliteserien,2,2020-06-21,Brann,Viking,3,0,1.0
+2020,Eliteserien,3,2020-06-24,Start,Molde,2,3,0.0
+2020,Eliteserien,3,2020-06-24,Stabæk,Sandefjord,2,0,1.0
+2020,Eliteserien,3,2020-06-24,Aalesund,Brann,2,2,0.5
+2020,Eliteserien,3,2020-06-24,Viking,Mjøndalen,1,1,0.5
+2020,Eliteserien,3,2020-06-24,Haugesund,Kristiansund,2,2,0.5
+2020,Eliteserien,3,2020-06-24,Odd,Vålerenga,4,1,1.0
+2020,Eliteserien,3,2020-06-25,Sarpsborg 08,Strømsgodset,2,3,0.0
+2020,Eliteserien,3,2020-06-25,Rosenborg,Bodø/Glimt,2,3,0.0
+2020,Eliteserien,4,2020-06-27,Start,Odd,0,5,0.0
+2020,Eliteserien,4,2020-06-27,Vålerenga,Viking,2,1,1.0
+2020,Eliteserien,4,2020-06-28,Strømsgodset,Aalesund,1,1,0.5
+2020,Eliteserien,4,2020-06-28,Mjøndalen,Kristiansund,1,2,0.0
+2020,Eliteserien,4,2020-06-28,Bodø/Glimt,Sarpsborg 08,2,1,1.0
+2020,Eliteserien,4,2020-06-28,Sandefjord,Haugesund,0,1,0.0
+2020,Eliteserien,4,2020-06-28,Molde,Stabæk,4,1,1.0
+2020,Eliteserien,4,2020-06-28,Brann,Rosenborg,1,2,0.0
+2020,Eliteserien,5,2020-07-01,Odd,Bodø/Glimt,0,4,0.0
+2020,Eliteserien,5,2020-07-01,Viking,Sandefjord,2,0,1.0
+2020,Eliteserien,5,2020-07-01,Stabæk,Strømsgodset,2,0,1.0
+2020,Eliteserien,5,2020-07-01,Aalesund,Mjøndalen,1,3,0.0
+2020,Eliteserien,5,2020-07-01,Haugesund,Start,1,0,1.0
+2020,Eliteserien,5,2020-07-01,Rosenborg,Vålerenga,1,1,0.5
+2020,Eliteserien,5,2020-07-02,Kristiansund,Molde,2,2,0.5
+2020,Eliteserien,5,2020-07-02,Sarpsborg 08,Brann,0,1,0.0
+2020,Eliteserien,6,2020-07-04,Start,Viking,1,1,0.5
+2020,Eliteserien,6,2020-07-04,Vålerenga,Aalesund,2,2,0.5
+2020,Eliteserien,6,2020-07-05,Odd,Haugesund,0,0,0.5
+2020,Eliteserien,6,2020-07-05,Molde,Mjøndalen,2,1,1.0
+2020,Eliteserien,6,2020-07-05,Sandefjord,Sarpsborg 08,0,3,0.0
+2020,Eliteserien,6,2020-07-05,Bodø/Glimt,Brann,5,0,1.0
+2020,Eliteserien,6,2020-07-05,Strømsgodset,Kristiansund,2,2,0.5
+2020,Eliteserien,6,2020-07-05,Stabæk,Rosenborg,0,3,0.0
+2020,Eliteserien,7,2020-07-11,Haugesund,Molde,0,3,0.0
+2020,Eliteserien,7,2020-07-11,Rosenborg,Strømsgodset,3,0,1.0
+2020,Eliteserien,7,2020-07-12,Mjøndalen,Vålerenga,0,1,0.0
+2020,Eliteserien,7,2020-07-12,Kristiansund,Stabæk,1,2,0.0
+2020,Eliteserien,7,2020-07-12,Sarpsborg 08,Start,1,0,1.0
+2020,Eliteserien,7,2020-07-12,Aalesund,Bodø/Glimt,1,6,0.0
+2020,Eliteserien,7,2020-07-12,Viking,Odd,1,2,0.0
+2020,Eliteserien,7,2020-07-12,Brann,Sandefjord,3,1,1.0
+2020,Eliteserien,8,2020-07-15,Bodø/Glimt,Kristiansund,2,1,1.0
+2020,Eliteserien,8,2020-07-15,Molde,Viking,5,0,1.0
+2020,Eliteserien,8,2020-07-15,Strømsgodset,Mjøndalen,2,1,1.0
+2020,Eliteserien,8,2020-07-15,Sandefjord,Aalesund,1,0,1.0
+2020,Eliteserien,8,2020-07-15,Vålerenga,Haugesund,1,0,1.0
+2020,Eliteserien,8,2020-07-15,Odd,Brann,1,0,1.0
+2020,Eliteserien,8,2020-07-16,Stabæk,Sarpsborg 08,1,1,0.5
+2020,Eliteserien,8,2020-07-16,Start,Rosenborg,0,0,0.5
+2020,Eliteserien,9,2020-07-18,Mjøndalen,Bodø/Glimt,2,3,0.0
+2020,Eliteserien,9,2020-07-18,Haugesund,Viking,0,2,0.0
+2020,Eliteserien,9,2020-07-19,Sarpsborg 08,Odd,2,0,1.0
+2020,Eliteserien,9,2020-07-19,Aalesund,Stabæk,1,3,0.0
+2020,Eliteserien,9,2020-07-19,Strømsgodset,Molde,0,4,0.0
+2020,Eliteserien,9,2020-07-19,Kristiansund,Vålerenga,0,0,0.5
+2020,Eliteserien,9,2020-07-19,Rosenborg,Sandefjord,2,1,1.0
+2020,Eliteserien,9,2020-07-19,Brann,Start,1,1,0.5
+2020,Eliteserien,10,2020-07-25,Odd,Aalesund,3,2,1.0
+2020,Eliteserien,10,2020-07-25,Brann,Kristiansund,1,1,0.5
+2020,Eliteserien,10,2020-07-26,Bodø/Glimt,Molde,3,1,1.0
+2020,Eliteserien,10,2020-07-26,Vålerenga,Strømsgodset,2,0,1.0
+2020,Eliteserien,10,2020-07-26,Sandefjord,Mjøndalen,1,0,1.0
+2020,Eliteserien,10,2020-07-26,Start,Stabæk,0,0,0.5
+2020,Eliteserien,10,2020-07-26,Viking,Sarpsborg 08,3,0,1.0
+2020,Eliteserien,10,2020-07-26,Haugesund,Rosenborg,1,0,1.0
+2020,Eliteserien,11,2020-07-29,Sarpsborg 08,Haugesund,0,0,0.5
+2020,Eliteserien,11,2020-07-29,Mjøndalen,Odd,0,2,0.0
+2020,Eliteserien,11,2020-07-29,Aalesund,Start,3,2,1.0
+2020,Eliteserien,11,2020-07-29,Strømsgodset,Brann,3,1,1.0
+2020,Eliteserien,11,2020-07-29,Kristiansund,Sandefjord,3,1,1.0
+2020,Eliteserien,11,2020-07-29,Molde,Vålerenga,4,1,1.0
+2020,Eliteserien,11,2020-07-30,Stabæk,Bodø/Glimt,2,2,0.5
+2020,Eliteserien,11,2020-07-30,Rosenborg,Viking,3,0,1.0
+2020,Eliteserien,12,2020-08-01,Sandefjord,Molde,2,1,1.0
+2020,Eliteserien,12,2020-08-01,Brann,Vålerenga,1,2,0.0
+2020,Eliteserien,12,2020-08-02,Sarpsborg 08,Aalesund,4,0,1.0
+2020,Eliteserien,12,2020-08-02,Start,Mjøndalen,3,0,1.0
+2020,Eliteserien,12,2020-08-02,Viking,Kristiansund,1,2,0.0
+2020,Eliteserien,12,2020-08-02,Haugesund,Stabæk,3,1,1.0
+2020,Eliteserien,12,2020-08-02,Bodø/Glimt,Strømsgodset,3,2,1.0
+2020,Eliteserien,12,2020-08-02,Odd,Rosenborg,2,1,1.0
+2020,Eliteserien,17,2020-08-05,Molde,Start,5,0,1.0
+2020,Eliteserien,13,2020-08-08,Vålerenga,Bodø/Glimt,2,2,0.5
+2020,Eliteserien,13,2020-08-09,Stabæk,Odd,0,1,0.0
+2020,Eliteserien,13,2020-08-09,Strømsgodset,Sandefjord,3,4,0.0
+2020,Eliteserien,13,2020-08-09,Mjøndalen,Haugesund,1,0,1.0
+2020,Eliteserien,13,2020-08-09,Kristiansund,Start,3,2,1.0
+2020,Eliteserien,13,2020-08-09,Aalesund,Viking,2,2,0.5
+2020,Eliteserien,13,2020-08-09,Rosenborg,Sarpsborg 08,5,1,1.0
+2020,Eliteserien,13,2020-08-10,Molde,Brann,1,2,0.0
+2020,Eliteserien,14,2020-08-15,Sarpsborg 08,Molde,2,1,1.0
+2020,Eliteserien,14,2020-08-16,Brann,Mjøndalen,0,1,0.0
+2020,Eliteserien,14,2020-08-16,Odd,Kristiansund,2,1,1.0
+2020,Eliteserien,14,2020-08-16,Sandefjord,Bodø/Glimt,1,2,0.0
+2020,Eliteserien,14,2020-08-16,Haugesund,Strømsgodset,2,3,0.0
+2020,Eliteserien,14,2020-08-16,Viking,Stabæk,3,3,0.5
+2020,Eliteserien,14,2020-08-16,Rosenborg,Aalesund,3,2,1.0
+2020,Eliteserien,14,2020-08-17,Start,Vålerenga,2,1,1.0
+2020,Eliteserien,15,2020-08-22,Molde,Odd,2,0,1.0
+2020,Eliteserien,15,2020-08-22,Vålerenga,Sandefjord,2,1,1.0
+2020,Eliteserien,15,2020-08-22,Kristiansund,Sarpsborg 08,4,1,1.0
+2020,Eliteserien,15,2020-08-22,Bodø/Glimt,Start,6,0,1.0
+2020,Eliteserien,15,2020-08-22,Strømsgodset,Viking,0,2,0.0
+2020,Eliteserien,15,2020-08-22,Aalesund,Haugesund,1,3,0.0
+2020,Eliteserien,15,2020-08-22,Mjøndalen,Rosenborg,0,2,0.0
+2020,Eliteserien,15,2020-08-24,Stabæk,Brann,0,2,0.0
+2020,Eliteserien,16,2020-08-29,Haugesund,Vålerenga,2,1,1.0
+2020,Eliteserien,16,2020-08-29,Brann,Strømsgodset,1,1,0.5
+2020,Eliteserien,16,2020-08-30,Start,Aalesund,1,0,1.0
+2020,Eliteserien,16,2020-08-30,Odd,Mjøndalen,6,1,1.0
+2020,Eliteserien,16,2020-08-30,Rosenborg,Stabæk,2,2,0.5
+2020,Eliteserien,16,2020-08-30,Sarpsborg 08,Bodø/Glimt,0,3,0.0
+2020,Eliteserien,16,2020-08-30,Sandefjord,Kristiansund,0,2,0.0
+2020,Eliteserien,16,2020-08-30,Viking,Molde,3,2,1.0
+2020,Eliteserien,17,2020-09-12,Kristiansund,Viking,3,5,0.0
+2020,Eliteserien,17,2020-09-12,Stabæk,Haugesund,2,1,1.0
+2020,Eliteserien,17,2020-09-13,Mjøndalen,Sandefjord,0,2,0.0
+2020,Eliteserien,17,2020-09-13,Aalesund,Sarpsborg 08,0,1,0.0
+2020,Eliteserien,17,2020-09-13,Strømsgodset,Rosenborg,3,3,0.5
+2020,Eliteserien,17,2020-09-13,Bodø/Glimt,Odd,6,1,1.0
+2020,Eliteserien,17,2020-09-13,Vålerenga,Brann,5,1,1.0
+2020,Eliteserien,18,2020-09-19,Vålerenga,Molde,2,1,1.0
+2020,Eliteserien,18,2020-09-19,Sarpsborg 08,Mjøndalen,2,0,1.0
+2020,Eliteserien,18,2020-09-20,Rosenborg,Haugesund,2,1,1.0
+2020,Eliteserien,18,2020-09-20,Start,Kristiansund,1,2,0.0
+2020,Eliteserien,18,2020-09-20,Viking,Aalesund,5,2,1.0
+2020,Eliteserien,18,2020-09-20,Sandefjord,Strømsgodset,0,0,0.5
+2020,Eliteserien,18,2020-09-20,Brann,Bodø/Glimt,1,3,0.0
+2020,Eliteserien,18,2020-09-20,Odd,Stabæk,2,0,1.0
+2020,Eliteserien,19,2020-09-26,Molde,Sandefjord,0,1,0.0
+2020,Eliteserien,19,2020-09-26,Strømsgodset,Sarpsborg 08,0,0,0.5
+2020,Eliteserien,19,2020-09-27,Kristiansund,Brann,1,1,0.5
+2020,Eliteserien,19,2020-09-27,Stabæk,Start,2,0,1.0
+2020,Eliteserien,19,2020-09-27,Aalesund,Rosenborg,1,2,0.0
+2020,Eliteserien,19,2020-09-27,Haugesund,Odd,4,4,0.5
+2020,Eliteserien,19,2020-09-27,Mjøndalen,Viking,1,2,0.0
+2020,Eliteserien,19,2020-09-27,Bodø/Glimt,Vålerenga,2,0,1.0
+2020,Eliteserien,20,2020-10-03,Sarpsborg 08,Stabæk,4,0,1.0
+2020,Eliteserien,20,2020-10-03,Vålerenga,Mjøndalen,4,1,1.0
+2020,Eliteserien,20,2020-10-04,Viking,Strømsgodset,2,2,0.5
+2020,Eliteserien,20,2020-10-04,Start,Haugesund,5,1,1.0
+2020,Eliteserien,20,2020-10-04,Bodø/Glimt,Sandefjord,2,1,1.0
+2020,Eliteserien,20,2020-10-04,Brann,Molde,1,2,0.0
+2020,Eliteserien,20,2020-10-04,Aalesund,Kristiansund,1,2,0.0
+2020,Eliteserien,20,2020-10-04,Rosenborg,Odd,4,1,1.0
+2020,Eliteserien,21,2020-10-17,Mjøndalen,Brann,2,0,1.0
+2020,Eliteserien,21,2020-10-17,Molde,Bodø/Glimt,4,2,1.0
+2020,Eliteserien,21,2020-10-18,Kristiansund,Rosenborg,0,0,0.5
+2020,Eliteserien,21,2020-10-18,Haugesund,Sarpsborg 08,2,0,1.0
+2020,Eliteserien,21,2020-10-18,Strømsgodset,Start,1,1,0.5
+2020,Eliteserien,21,2020-10-18,Stabæk,Aalesund,4,0,1.0
+2020,Eliteserien,21,2020-10-18,Sandefjord,Vålerenga,0,3,0.0
+2020,Eliteserien,22,2020-10-24,Start,Sandefjord,0,1,0.0
+2020,Eliteserien,22,2020-10-24,Brann,Stabæk,1,1,0.5
+2020,Eliteserien,22,2020-10-25,Sarpsborg 08,Rosenborg,1,2,0.0
+2020,Eliteserien,22,2020-10-25,Aalesund,Odd,0,3,0.0
+2020,Eliteserien,22,2020-10-25,Vålerenga,Kristiansund,1,1,0.5
+2020,Eliteserien,22,2020-10-25,Molde,Strømsgodset,2,1,1.0
+2020,Eliteserien,22,2020-10-25,Bodø/Glimt,Mjøndalen,2,0,1.0
+2020,Eliteserien,22,2020-10-27,Viking,Haugesund,0,1,0.0
+2020,Eliteserien,23,2020-10-31,Odd,Sarpsborg 08,1,1,0.5
+2020,Eliteserien,23,2020-10-31,Haugesund,Aalesund,0,1,0.0
+2020,Eliteserien,23,2020-11-01,Mjøndalen,Molde,1,3,0.0
+2020,Eliteserien,23,2020-11-01,Stabæk,Viking,1,1,0.5
+2020,Eliteserien,23,2020-11-01,Rosenborg,Start,1,0,1.0
+2020,Eliteserien,23,2020-11-01,Sandefjord,Brann,3,3,0.5
+2020,Eliteserien,23,2020-11-01,Kristiansund,Bodø/Glimt,2,3,0.0
+2020,Eliteserien,23,2020-11-01,Strømsgodset,Vålerenga,0,2,0.0
+2020,Eliteserien,21,2020-11-04,Odd,Viking,3,0,1.0
+2020,Eliteserien,24,2020-11-07,Mjøndalen,Strømsgodset,3,0,1.0
+2020,Eliteserien,24,2020-11-07,Brann,Haugesund,1,2,0.0
+2020,Eliteserien,24,2020-11-08,Viking,Rosenborg,3,0,1.0
+2020,Eliteserien,24,2020-11-08,Molde,Kristiansund,2,2,0.5
+2020,Eliteserien,24,2020-11-08,Sandefjord,Stabæk,0,0,0.5
+2020,Eliteserien,24,2020-11-08,Start,Sarpsborg 08,3,2,1.0
+2020,Eliteserien,24,2020-11-08,Bodø/Glimt,Aalesund,7,0,1.0
+2020,Eliteserien,24,2020-11-08,Vålerenga,Odd,2,0,1.0
+2020,Eliteserien,25,2020-11-21,Stabæk,Molde,0,3,0.0
+2020,Eliteserien,25,2020-11-21,Aalesund,Vålerenga,1,1,0.5
+2020,Eliteserien,25,2020-11-22,Haugesund,Sandefjord,3,2,1.0
+2020,Eliteserien,25,2020-11-22,Kristiansund,Mjøndalen,1,0,1.0
+2020,Eliteserien,25,2020-11-22,Odd,Start,1,2,0.0
+2020,Eliteserien,25,2020-11-22,Sarpsborg 08,Viking,1,2,0.0
+2020,Eliteserien,25,2020-11-22,Strømsgodset,Bodø/Glimt,1,2,0.0
+2020,Eliteserien,25,2020-11-24,Rosenborg,Brann,2,3,0.0
+2020,Eliteserien,26,2020-11-28,Viking,Start,4,1,1.0
+2020,Eliteserien,26,2020-11-28,Brann,Aalesund,3,1,1.0
+2020,Eliteserien,26,2020-11-29,Kristiansund,Strømsgodset,2,1,1.0
+2020,Eliteserien,26,2020-11-29,Mjøndalen,Stabæk,0,1,0.0
+2020,Eliteserien,26,2020-11-29,Molde,Haugesund,3,1,1.0
+2020,Eliteserien,26,2020-11-29,Bodø/Glimt,Rosenborg,5,1,1.0
+2020,Eliteserien,26,2020-11-29,Vålerenga,Sarpsborg 08,1,1,0.5
+2020,Eliteserien,27,2020-12-02,Sarpsborg 08,Kristiansund,1,1,0.5
+2020,Eliteserien,27,2020-12-02,Haugesund,Mjøndalen,1,1,0.5
+2020,Eliteserien,27,2020-12-02,Viking,Brann,2,0,1.0
+2020,Eliteserien,27,2020-12-02,Start,Bodø/Glimt,1,1,0.5
+2020,Eliteserien,27,2020-12-02,Aalesund,Sandefjord,0,1,0.0
+2020,Eliteserien,27,2020-12-02,Stabæk,Vålerenga,1,1,0.5
+2020,Eliteserien,28,2020-12-06,Bodø/Glimt,Stabæk,5,2,1.0
+2020,Eliteserien,28,2020-12-06,Sandefjord,Viking,2,2,0.5
+2020,Eliteserien,28,2020-12-06,Brann,Sarpsborg 08,1,1,0.5
+2020,Eliteserien,28,2020-12-06,Strømsgodset,Haugesund,2,2,0.5
+2020,Eliteserien,28,2020-12-06,Mjøndalen,Start,1,0,1.0
+2020,Eliteserien,28,2020-12-06,Molde,Aalesund,2,1,1.0
+2020,Eliteserien,28,2020-12-07,Vålerenga,Rosenborg,1,0,1.0
+2020,Eliteserien,28,2020-12-09,Kristiansund,Odd,4,3,1.0
+2020,Eliteserien,29,2020-12-09,Haugesund,Bodø/Glimt,0,4,0.0
+2020,Eliteserien,29,2020-12-09,Sarpsborg 08,Sandefjord,0,0,0.5
+2020,Eliteserien,29,2020-12-09,Aalesund,Strømsgodset,1,4,0.0
+2020,Eliteserien,29,2020-12-09,Start,Brann,1,1,0.5
+2020,Eliteserien,29,2020-12-10,Viking,Vålerenga,2,2,0.5
+2020,Eliteserien,29,2020-12-10,Rosenborg,Mjøndalen,1,0,1.0
+2020,Eliteserien,26,2020-12-13,Sandefjord,Odd,1,1,0.5
+2020,Eliteserien,27,2020-12-13,Rosenborg,Molde,3,1,1.0
+2020,Eliteserien,29,2020-12-13,Stabæk,Kristiansund,2,2,0.5
+2020,Eliteserien,29,2020-12-16,Odd,Molde,1,4,0.0
+2020,Eliteserien,30,2020-12-19,Molde,Sarpsborg 08,5,0,1.0
+2020,Eliteserien,27,2020-12-19,Odd,Strømsgodset,1,3,0.0
+2020,Eliteserien,30,2020-12-19,Bodø/Glimt,Viking,3,0,1.0
+2020,Eliteserien,30,2020-12-22,Kristiansund,Haugesund,1,3,0.0
+2020,Eliteserien,30,2020-12-22,Sandefjord,Rosenborg,0,0,0.5
+2020,Eliteserien,30,2020-12-22,Mjøndalen,Aalesund,3,0,1.0
+2020,Eliteserien,30,2020-12-22,Brann,Odd,2,1,1.0
+2020,Eliteserien,30,2020-12-22,Strømsgodset,Stabæk,0,4,0.0
+2020,Eliteserien,30,2020-12-22,Vålerenga,Start,4,0,1.0
+2020,Norwegian 1/2 Relegation/Promotion Playoffs,,2020-12-28,Mjøndalen,Sogndal,3,2,1.0

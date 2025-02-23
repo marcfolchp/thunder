@@ -1,0 +1,313 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,Eredivisie,1,2021-08-13,Go Ahead Eag,Heerenveen,0,1,0.0
+2021-2022,Eredivisie,1,2021-08-14,RKC Waalwijk,AZ Alkmaar,1,0,1.0
+2021-2022,Eredivisie,1,2021-08-14,Heracles Almelo,PSV Eindhoven,0,2,0.0
+2021-2022,Eredivisie,1,2021-08-14,Fortuna Sittard,Twente,2,1,1.0
+2021-2022,Eredivisie,1,2021-08-14,Ajax,NEC Nijmegen,5,0,1.0
+2021-2022,Eredivisie,1,2021-08-15,Cambuur,Groningen,1,2,0.0
+2021-2022,Eredivisie,1,2021-08-15,Zwolle,Vitesse,0,1,0.0
+2021-2022,Eredivisie,1,2021-08-15,Utrecht,Sparta R'dam,4,0,1.0
+2021-2022,Eredivisie,1,2021-08-15,Willem II,Feyenoord,0,4,0.0
+2021-2022,Eredivisie,2,2021-08-20,NEC Nijmegen,Zwolle,2,0,1.0
+2021-2022,Eredivisie,2,2021-08-21,Heerenveen,RKC Waalwijk,3,2,1.0
+2021-2022,Eredivisie,2,2021-08-21,Sparta R'dam,Heracles Almelo,1,1,0.5
+2021-2022,Eredivisie,2,2021-08-21,PSV Eindhoven,Cambuur,4,1,1.0
+2021-2022,Eredivisie,2,2021-08-21,Groningen,Utrecht,0,0,0.5
+2021-2022,Eredivisie,2,2021-08-22,Twente,Ajax,1,1,0.5
+2021-2022,Eredivisie,2,2021-08-22,Feyenoord,Go Ahead Eag,2,0,1.0
+2021-2022,Eredivisie,2,2021-08-22,Vitesse,Willem II,0,3,0.0
+2021-2022,Eredivisie,3,2021-08-27,Fortuna Sittard,RKC Waalwijk,2,2,0.5
+2021-2022,Eredivisie,3,2021-08-28,Cambuur,Twente,2,0,1.0
+2021-2022,Eredivisie,3,2021-08-28,PSV Eindhoven,Groningen,5,2,1.0
+2021-2022,Eredivisie,3,2021-08-28,Go Ahead Eag,Sparta R'dam,2,0,1.0
+2021-2022,Eredivisie,3,2021-08-28,Willem II,Zwolle,1,0,1.0
+2021-2022,Eredivisie,3,2021-08-29,Utrecht,Feyenoord,3,1,1.0
+2021-2022,Eredivisie,3,2021-08-29,Heracles Almelo,NEC Nijmegen,0,1,0.0
+2021-2022,Eredivisie,3,2021-08-29,Ajax,Vitesse,5,0,1.0
+2021-2022,Eredivisie,3,2021-08-29,Heerenveen,AZ Alkmaar,1,3,0.0
+2021-2022,Eredivisie,4,2021-09-11,Twente,Utrecht,1,0,1.0
+2021-2022,Eredivisie,4,2021-09-11,Cambuur,Go Ahead Eag,5,2,1.0
+2021-2022,Eredivisie,4,2021-09-11,Zwolle,Ajax,0,2,0.0
+2021-2022,Eredivisie,4,2021-09-11,AZ Alkmaar,PSV Eindhoven,0,3,0.0
+2021-2022,Eredivisie,4,2021-09-12,NEC Nijmegen,Willem II,0,0,0.5
+2021-2022,Eredivisie,4,2021-09-12,Groningen,Heerenveen,1,1,0.5
+2021-2022,Eredivisie,4,2021-09-12,Sparta R'dam,Fortuna Sittard,3,1,1.0
+2021-2022,Eredivisie,4,2021-09-12,RKC Waalwijk,Vitesse,1,2,0.0
+2021-2022,Eredivisie,5,2021-09-17,Sparta R'dam,NEC Nijmegen,1,1,0.5
+2021-2022,Eredivisie,5,2021-09-18,Heerenveen,Fortuna Sittard,1,0,1.0
+2021-2022,Eredivisie,5,2021-09-18,Willem II,Groningen,2,1,1.0
+2021-2022,Eredivisie,5,2021-09-18,Ajax,Cambuur,9,0,1.0
+2021-2022,Eredivisie,5,2021-09-18,Utrecht,RKC Waalwijk,2,2,0.5
+2021-2022,Eredivisie,5,2021-09-19,Go Ahead Eag,Zwolle,1,0,1.0
+2021-2022,Eredivisie,5,2021-09-19,PSV Eindhoven,Feyenoord,0,4,0.0
+2021-2022,Eredivisie,5,2021-09-19,Heracles Almelo,AZ Alkmaar,3,2,1.0
+2021-2022,Eredivisie,5,2021-09-19,Vitesse,Twente,1,4,0.0
+2021-2022,Eredivisie,6,2021-09-21,Fortuna Sittard,Ajax,0,5,0.0
+2021-2022,Eredivisie,6,2021-09-21,RKC Waalwijk,Willem II,1,2,0.0
+2021-2022,Eredivisie,6,2021-09-22,Go Ahead Eag,PSV Eindhoven,1,2,0.0
+2021-2022,Eredivisie,6,2021-09-22,NEC Nijmegen,Utrecht,0,3,0.0
+2021-2022,Eredivisie,6,2021-09-22,Groningen,Vitesse,0,1,0.0
+2021-2022,Eredivisie,6,2021-09-22,Feyenoord,Heerenveen,3,1,1.0
+2021-2022,Eredivisie,6,2021-09-22,Zwolle,Sparta R'dam,1,1,0.5
+2021-2022,Eredivisie,6,2021-09-23,Cambuur,Heracles Almelo,2,1,1.0
+2021-2022,Eredivisie,6,2021-09-23,Twente,AZ Alkmaar,3,1,1.0
+2021-2022,Eredivisie,7,2021-09-25,Willem II,PSV Eindhoven,2,1,1.0
+2021-2022,Eredivisie,7,2021-09-25,Vitesse,Fortuna Sittard,1,1,0.5
+2021-2022,Eredivisie,7,2021-09-25,Ajax,Groningen,3,0,1.0
+2021-2022,Eredivisie,7,2021-09-25,Feyenoord,NEC Nijmegen,5,3,1.0
+2021-2022,Eredivisie,7,2021-09-25,Utrecht,Zwolle,5,1,1.0
+2021-2022,Eredivisie,7,2021-09-26,Sparta R'dam,Cambuur,0,4,0.0
+2021-2022,Eredivisie,7,2021-09-26,Heerenveen,Twente,2,3,0.0
+2021-2022,Eredivisie,7,2021-09-26,AZ Alkmaar,Go Ahead Eag,5,0,1.0
+2021-2022,Eredivisie,7,2021-09-26,Heracles Almelo,RKC Waalwijk,1,0,1.0
+2021-2022,Eredivisie,8,2021-10-01,Groningen,Twente,1,1,0.5
+2021-2022,Eredivisie,8,2021-10-02,RKC Waalwijk,Go Ahead Eag,1,1,0.5
+2021-2022,Eredivisie,8,2021-10-02,Heracles Almelo,Willem II,3,2,1.0
+2021-2022,Eredivisie,8,2021-10-02,Zwolle,Heerenveen,0,1,0.0
+2021-2022,Eredivisie,8,2021-10-02,Fortuna Sittard,NEC Nijmegen,1,3,0.0
+2021-2022,Eredivisie,8,2021-10-03,Ajax,Utrecht,0,1,0.0
+2021-2022,Eredivisie,8,2021-10-03,Cambuur,AZ Alkmaar,1,3,0.0
+2021-2022,Eredivisie,8,2021-10-03,Vitesse,Feyenoord,2,1,1.0
+2021-2022,Eredivisie,8,2021-10-03,PSV Eindhoven,Sparta R'dam,2,1,1.0
+2021-2022,Eredivisie,9,2021-10-16,Feyenoord,RKC Waalwijk,2,2,0.5
+2021-2022,Eredivisie,9,2021-10-16,Heerenveen,Ajax,0,2,0.0
+2021-2022,Eredivisie,9,2021-10-16,Go Ahead Eag,Heracles Almelo,4,2,1.0
+2021-2022,Eredivisie,9,2021-10-16,Fortuna Sittard,Cambuur,1,0,1.0
+2021-2022,Eredivisie,9,2021-10-16,PSV Eindhoven,Zwolle,3,1,1.0
+2021-2022,Eredivisie,9,2021-10-17,AZ Alkmaar,Utrecht,5,1,1.0
+2021-2022,Eredivisie,9,2021-10-17,NEC Nijmegen,Vitesse,0,1,0.0
+2021-2022,Eredivisie,9,2021-10-17,Sparta R'dam,Groningen,1,1,0.5
+2021-2022,Eredivisie,9,2021-10-17,Twente,Willem II,1,1,0.5
+2021-2022,Eredivisie,10,2021-10-22,Willem II,Fortuna Sittard,1,1,0.5
+2021-2022,Eredivisie,10,2021-10-23,Utrecht,Heerenveen,2,1,1.0
+2021-2022,Eredivisie,10,2021-10-23,Zwolle,Heracles Almelo,1,0,1.0
+2021-2022,Eredivisie,10,2021-10-23,RKC Waalwijk,Sparta R'dam,1,0,1.0
+2021-2022,Eredivisie,10,2021-10-24,Twente,NEC Nijmegen,1,2,0.0
+2021-2022,Eredivisie,10,2021-10-24,Vitesse,Go Ahead Eag,1,2,0.0
+2021-2022,Eredivisie,10,2021-10-24,Cambuur,Feyenoord,2,3,0.0
+2021-2022,Eredivisie,10,2021-10-24,Ajax,PSV Eindhoven,5,0,1.0
+2021-2022,Eredivisie,10,2021-10-24,Groningen,AZ Alkmaar,2,0,1.0
+2021-2022,Eredivisie,11,2021-10-30,PSV Eindhoven,Twente,5,2,1.0
+2021-2022,Eredivisie,11,2021-10-30,Heracles Almelo,Ajax,0,0,0.5
+2021-2022,Eredivisie,11,2021-10-30,Heerenveen,Vitesse,1,2,0.0
+2021-2022,Eredivisie,11,2021-10-30,AZ Alkmaar,Zwolle,3,2,1.0
+2021-2022,Eredivisie,11,2021-10-31,Sparta R'dam,Feyenoord,0,1,0.0
+2021-2022,Eredivisie,11,2021-10-31,NEC Nijmegen,Groningen,3,0,1.0
+2021-2022,Eredivisie,11,2021-10-31,RKC Waalwijk,Cambuur,0,1,0.0
+2021-2022,Eredivisie,11,2021-10-31,Utrecht,Willem II,5,1,1.0
+2021-2022,Eredivisie,11,2021-10-31,Go Ahead Eag,Fortuna Sittard,4,3,1.0
+2021-2022,Eredivisie,12,2021-11-05,Twente,Heracles Almelo,1,0,1.0
+2021-2022,Eredivisie,12,2021-11-06,NEC Nijmegen,Heerenveen,1,1,0.5
+2021-2022,Eredivisie,12,2021-11-06,Willem II,Sparta R'dam,0,3,0.0
+2021-2022,Eredivisie,12,2021-11-06,Zwolle,Cambuur,1,2,0.0
+2021-2022,Eredivisie,12,2021-11-07,Groningen,RKC Waalwijk,1,1,0.5
+2021-2022,Eredivisie,12,2021-11-07,Fortuna Sittard,PSV Eindhoven,1,4,0.0
+2021-2022,Eredivisie,12,2021-11-07,Vitesse,Utrecht,2,1,1.0
+2021-2022,Eredivisie,12,2021-11-07,Feyenoord,AZ Alkmaar,1,0,1.0
+2021-2022,Eredivisie,12,2021-11-07,Ajax,Go Ahead Eag,0,0,0.5
+2021-2022,Eredivisie,13,2021-11-20,PSV Eindhoven,Vitesse,2,0,1.0
+2021-2022,Eredivisie,13,2021-11-20,Sparta R'dam,Twente,0,1,0.0
+2021-2022,Eredivisie,13,2021-11-20,AZ Alkmaar,NEC Nijmegen,1,1,0.5
+2021-2022,Eredivisie,13,2021-11-20,Heracles Almelo,Fortuna Sittard,3,1,1.0
+2021-2022,Eredivisie,13,2021-11-21,Go Ahead Eag,Groningen,0,1,0.0
+2021-2022,Eredivisie,13,2021-11-21,Heerenveen,Willem II,2,1,1.0
+2021-2022,Eredivisie,13,2021-11-21,Feyenoord,Zwolle,4,0,1.0
+2021-2022,Eredivisie,13,2021-11-21,RKC Waalwijk,Ajax,0,5,0.0
+2021-2022,Eredivisie,13,2021-11-21,Cambuur,Utrecht,2,1,1.0
+2021-2022,Eredivisie,14,2021-11-26,NEC Nijmegen,Cambuur,2,3,0.0
+2021-2022,Eredivisie,14,2021-11-27,Fortuna Sittard,Groningen,1,4,0.0
+2021-2022,Eredivisie,14,2021-11-27,Zwolle,RKC Waalwijk,0,0,0.5
+2021-2022,Eredivisie,14,2021-11-27,Willem II,Go Ahead Eag,0,1,0.0
+2021-2022,Eredivisie,14,2021-11-28,Sparta R'dam,Ajax,0,1,0.0
+2021-2022,Eredivisie,14,2021-11-28,Utrecht,Heracles Almelo,1,0,1.0
+2021-2022,Eredivisie,14,2021-11-28,Twente,Feyenoord,0,0,0.5
+2021-2022,Eredivisie,14,2021-11-28,Heerenveen,PSV Eindhoven,1,1,0.5
+2021-2022,Eredivisie,14,2021-11-28,Vitesse,AZ Alkmaar,0,0,0.5
+2021-2022,Eredivisie,4,2021-12-01,Feyenoord,Heracles Almelo,2,1,1.0
+2021-2022,Eredivisie,2,2021-12-02,AZ Alkmaar,Fortuna Sittard,2,1,1.0
+2021-2022,Eredivisie,15,2021-12-02,Ajax,Willem II,5,0,1.0
+2021-2022,Eredivisie,15,2021-12-03,Groningen,Zwolle,1,1,0.5
+2021-2022,Eredivisie,15,2021-12-04,PSV Eindhoven,Utrecht,4,1,1.0
+2021-2022,Eredivisie,15,2021-12-04,Cambuur,Vitesse,1,6,0.0
+2021-2022,Eredivisie,15,2021-12-04,Heracles Almelo,Heerenveen,0,1,0.0
+2021-2022,Eredivisie,15,2021-12-05,RKC Waalwijk,NEC Nijmegen,2,1,1.0
+2021-2022,Eredivisie,15,2021-12-05,AZ Alkmaar,Sparta R'dam,3,1,1.0
+2021-2022,Eredivisie,15,2021-12-05,Go Ahead Eag,Twente,1,2,0.0
+2021-2022,Eredivisie,15,2021-12-05,Feyenoord,Fortuna Sittard,5,0,1.0
+2021-2022,Eredivisie,16,2021-12-10,Willem II,Cambuur,1,3,0.0
+2021-2022,Eredivisie,16,2021-12-11,Utrecht,Go Ahead Eag,0,0,0.5
+2021-2022,Eredivisie,16,2021-12-11,Heerenveen,Sparta R'dam,0,0,0.5
+2021-2022,Eredivisie,16,2021-12-11,Zwolle,Fortuna Sittard,0,1,0.0
+2021-2022,Eredivisie,16,2021-12-12,Twente,RKC Waalwijk,2,1,1.0
+2021-2022,Eredivisie,16,2021-12-12,Vitesse,Heracles Almelo,2,1,1.0
+2021-2022,Eredivisie,16,2021-12-12,Groningen,Feyenoord,1,1,0.5
+2021-2022,Eredivisie,16,2021-12-12,Ajax,AZ Alkmaar,1,2,0.0
+2021-2022,Eredivisie,16,2021-12-12,NEC Nijmegen,PSV Eindhoven,1,2,0.0
+2021-2022,Eredivisie,17,2021-12-18,Fortuna Sittard,Utrecht,2,2,0.5
+2021-2022,Eredivisie,17,2021-12-18,Sparta R'dam,Vitesse,2,2,0.5
+2021-2022,Eredivisie,17,2021-12-18,Heracles Almelo,Groningen,4,2,1.0
+2021-2022,Eredivisie,17,2021-12-18,AZ Alkmaar,Willem II,4,1,1.0
+2021-2022,Eredivisie,17,2021-12-18,Zwolle,Twente,1,3,0.0
+2021-2022,Eredivisie,17,2021-12-19,Cambuur,Heerenveen,1,2,0.0
+2021-2022,Eredivisie,17,2021-12-19,Feyenoord,Ajax,0,2,0.0
+2021-2022,Eredivisie,17,2021-12-19,Go Ahead Eag,NEC Nijmegen,0,2,0.0
+2021-2022,Eredivisie,17,2021-12-19,RKC Waalwijk,PSV Eindhoven,1,4,0.0
+2021-2022,Eredivisie,18,2021-12-21,Vitesse,Zwolle,1,0,1.0
+2021-2022,Eredivisie,18,2021-12-21,AZ Alkmaar,Groningen,1,0,1.0
+2021-2022,Eredivisie,18,2021-12-22,Heerenveen,Feyenoord,0,3,0.0
+2021-2022,Eredivisie,18,2021-12-22,Willem II,NEC Nijmegen,0,1,0.0
+2021-2022,Eredivisie,18,2021-12-22,Heracles Almelo,Cambuur,1,1,0.5
+2021-2022,Eredivisie,18,2021-12-22,Ajax,Fortuna Sittard,5,0,1.0
+2021-2022,Eredivisie,18,2021-12-22,Utrecht,Twente,1,1,0.5
+2021-2022,Eredivisie,18,2021-12-23,PSV Eindhoven,Go Ahead Eag,2,0,1.0
+2021-2022,Eredivisie,18,2021-12-23,Sparta R'dam,RKC Waalwijk,1,1,0.5
+2021-2022,Eredivisie,19,2022-01-14,Zwolle,Willem II,2,0,1.0
+2021-2022,Eredivisie,19,2022-01-15,NEC Nijmegen,Heracles Almelo,0,0,0.5
+2021-2022,Eredivisie,19,2022-01-15,Twente,Heerenveen,2,0,1.0
+2021-2022,Eredivisie,19,2022-01-15,Feyenoord,Vitesse,0,1,0.0
+2021-2022,Eredivisie,19,2022-01-15,Go Ahead Eag,RKC Waalwijk,0,2,0.0
+2021-2022,Eredivisie,19,2022-01-16,Utrecht,Ajax,0,3,0.0
+2021-2022,Eredivisie,19,2022-01-16,Groningen,PSV Eindhoven,0,1,0.0
+2021-2022,Eredivisie,19,2022-01-16,Cambuur,Sparta R'dam,1,1,0.5
+2021-2022,Eredivisie,19,2022-01-16,Fortuna Sittard,AZ Alkmaar,1,2,0.0
+2021-2022,Eredivisie,20,2022-01-22,Vitesse,Groningen,1,3,0.0
+2021-2022,Eredivisie,20,2022-01-22,AZ Alkmaar,Cambuur,0,0,0.5
+2021-2022,Eredivisie,20,2022-01-22,Heerenveen,Zwolle,0,1,0.0
+2021-2022,Eredivisie,20,2022-01-22,Willem II,Twente,0,1,0.0
+2021-2022,Eredivisie,20,2022-01-23,NEC Nijmegen,Feyenoord,1,4,0.0
+2021-2022,Eredivisie,20,2022-01-23,PSV Eindhoven,Ajax,1,2,0.0
+2021-2022,Eredivisie,20,2022-01-23,Heracles Almelo,Go Ahead Eag,1,1,0.5
+2021-2022,Eredivisie,20,2022-01-23,Sparta R'dam,Utrecht,0,3,0.0
+2021-2022,Eredivisie,20,2022-01-23,RKC Waalwijk,Fortuna Sittard,2,1,1.0
+2021-2022,Eredivisie,21,2022-02-05,Utrecht,Cambuur,3,2,1.0
+2021-2022,Eredivisie,21,2022-02-05,Fortuna Sittard,Heerenveen,2,0,1.0
+2021-2022,Eredivisie,21,2022-02-05,Zwolle,NEC Nijmegen,1,1,0.5
+2021-2022,Eredivisie,21,2022-02-05,PSV Eindhoven,AZ Alkmaar,1,2,0.0
+2021-2022,Eredivisie,21,2022-02-05,Twente,Vitesse,3,0,1.0
+2021-2022,Eredivisie,21,2022-02-06,Feyenoord,Sparta R'dam,4,0,1.0
+2021-2022,Eredivisie,21,2022-02-06,Groningen,Go Ahead Eag,2,1,1.0
+2021-2022,Eredivisie,21,2022-02-06,Willem II,RKC Waalwijk,3,1,1.0
+2021-2022,Eredivisie,21,2022-02-06,Ajax,Heracles Almelo,3,0,1.0
+2021-2022,Eredivisie,22,2022-02-11,Heracles Almelo,Utrecht,1,0,1.0
+2021-2022,Eredivisie,22,2022-02-12,Groningen,Fortuna Sittard,0,1,0.0
+2021-2022,Eredivisie,22,2022-02-12,Cambuur,Zwolle,3,4,0.0
+2021-2022,Eredivisie,22,2022-02-12,Vitesse,PSV Eindhoven,0,5,0.0
+2021-2022,Eredivisie,22,2022-02-13,Go Ahead Eag,AZ Alkmaar,1,4,0.0
+2021-2022,Eredivisie,22,2022-02-13,Sparta R'dam,Willem II,1,0,1.0
+2021-2022,Eredivisie,22,2022-02-13,RKC Waalwijk,Feyenoord,0,2,0.0
+2021-2022,Eredivisie,22,2022-02-13,Heerenveen,NEC Nijmegen,0,1,0.0
+2021-2022,Eredivisie,22,2022-02-13,Ajax,Twente,5,0,1.0
+2021-2022,Eredivisie,23,2022-02-19,NEC Nijmegen,RKC Waalwijk,1,1,0.5
+2021-2022,Eredivisie,23,2022-02-19,Willem II,Ajax,0,1,0.0
+2021-2022,Eredivisie,23,2022-02-19,AZ Alkmaar,Heracles Almelo,2,1,1.0
+2021-2022,Eredivisie,23,2022-02-20,Zwolle,Groningen,1,1,0.5
+2021-2022,Eredivisie,23,2022-02-20,Feyenoord,Cambuur,3,1,1.0
+2021-2022,Eredivisie,23,2022-02-20,Twente,Go Ahead Eag,2,2,0.5
+2021-2022,Eredivisie,23,2022-02-20,Utrecht,Vitesse,1,1,0.5
+2021-2022,Eredivisie,23,2022-02-20,PSV Eindhoven,Heerenveen,3,1,1.0
+2021-2022,Eredivisie,24,2022-02-25,RKC Waalwijk,Twente,1,2,0.0
+2021-2022,Eredivisie,24,2022-02-26,Heracles Almelo,Zwolle,2,0,1.0
+2021-2022,Eredivisie,24,2022-02-26,Groningen,Willem II,1,0,1.0
+2021-2022,Eredivisie,24,2022-02-26,Cambuur,Fortuna Sittard,2,1,1.0
+2021-2022,Eredivisie,24,2022-02-27,AZ Alkmaar,Feyenoord,2,1,1.0
+2021-2022,Eredivisie,24,2022-02-27,Vitesse,NEC Nijmegen,4,1,1.0
+2021-2022,Eredivisie,24,2022-02-27,Sparta R'dam,PSV Eindhoven,1,2,0.0
+2021-2022,Eredivisie,24,2022-02-27,Go Ahead Eag,Ajax,2,1,1.0
+2021-2022,Eredivisie,24,2022-02-27,Heerenveen,Utrecht,1,2,0.0
+2021-2022,Eredivisie,25,2022-03-05,Willem II,Heerenveen,0,0,0.5
+2021-2022,Eredivisie,25,2022-03-05,Go Ahead Eag,Utrecht,1,1,0.5
+2021-2022,Eredivisie,25,2022-03-05,Feyenoord,Groningen,1,1,0.5
+2021-2022,Eredivisie,25,2022-03-06,PSV Eindhoven,Heracles Almelo,3,1,1.0
+2021-2022,Eredivisie,25,2022-03-06,Twente,Cambuur,1,0,1.0
+2021-2022,Eredivisie,25,2022-03-06,NEC Nijmegen,AZ Alkmaar,1,3,0.0
+2021-2022,Eredivisie,25,2022-03-06,Ajax,RKC Waalwijk,3,2,1.0
+2021-2022,Eredivisie,25,2022-03-06,Fortuna Sittard,Zwolle,0,1,0.0
+2021-2022,Eredivisie,26,2022-03-11,Cambuur,Ajax,2,3,0.0
+2021-2022,Eredivisie,26,2022-03-12,Sparta R'dam,Go Ahead Eag,1,0,1.0
+2021-2022,Eredivisie,26,2022-03-12,Groningen,NEC Nijmegen,4,3,1.0
+2021-2022,Eredivisie,26,2022-03-12,RKC Waalwijk,Heerenveen,0,0,0.5
+2021-2022,Eredivisie,26,2022-03-13,Fortuna Sittard,Willem II,1,0,1.0
+2021-2022,Eredivisie,26,2022-03-13,Utrecht,PSV Eindhoven,0,1,0.0
+2021-2022,Eredivisie,26,2022-03-13,Heracles Almelo,Vitesse,0,0,0.5
+2021-2022,Eredivisie,26,2022-03-13,Zwolle,Feyenoord,1,2,0.0
+2021-2022,Eredivisie,26,2022-03-13,AZ Alkmaar,Twente,0,1,0.0
+2021-2022,Eredivisie,27,2022-03-18,Heerenveen,Heracles Almelo,2,0,1.0
+2021-2022,Eredivisie,27,2022-03-19,Go Ahead Eag,Cambuur,3,0,1.0
+2021-2022,Eredivisie,27,2022-03-19,Twente,Zwolle,1,0,1.0
+2021-2022,Eredivisie,27,2022-03-19,NEC Nijmegen,Sparta R'dam,0,0,0.5
+2021-2022,Eredivisie,27,2022-03-20,Utrecht,Groningen,1,3,0.0
+2021-2022,Eredivisie,27,2022-03-20,Ajax,Feyenoord,3,2,1.0
+2021-2022,Eredivisie,27,2022-03-20,Vitesse,RKC Waalwijk,1,2,0.0
+2021-2022,Eredivisie,27,2022-03-20,PSV Eindhoven,Fortuna Sittard,5,0,1.0
+2021-2022,Eredivisie,27,2022-03-20,Willem II,AZ Alkmaar,2,2,0.5
+2021-2022,Eredivisie,28,2022-04-02,Groningen,Ajax,1,3,0.0
+2021-2022,Eredivisie,28,2022-04-02,Twente,PSV Eindhoven,3,3,0.5
+2021-2022,Eredivisie,28,2022-04-02,RKC Waalwijk,Utrecht,1,1,0.5
+2021-2022,Eredivisie,28,2022-04-02,AZ Alkmaar,Vitesse,3,1,1.0
+2021-2022,Eredivisie,28,2022-04-02,Feyenoord,Willem II,2,0,1.0
+2021-2022,Eredivisie,28,2022-04-03,Zwolle,Go Ahead Eag,0,1,0.0
+2021-2022,Eredivisie,28,2022-04-03,Sparta R'dam,Heerenveen,1,1,0.5
+2021-2022,Eredivisie,28,2022-04-03,Fortuna Sittard,Heracles Almelo,0,2,0.0
+2021-2022,Eredivisie,28,2022-04-03,Cambuur,NEC Nijmegen,1,2,0.0
+2021-2022,Eredivisie,29,2022-04-08,Go Ahead Eag,Willem II,4,0,1.0
+2021-2022,Eredivisie,29,2022-04-09,Utrecht,Fortuna Sittard,1,1,0.5
+2021-2022,Eredivisie,29,2022-04-09,Ajax,Sparta R'dam,2,1,1.0
+2021-2022,Eredivisie,29,2022-04-09,NEC Nijmegen,Twente,0,2,0.0
+2021-2022,Eredivisie,29,2022-04-10,Heerenveen,Groningen,3,1,1.0
+2021-2022,Eredivisie,29,2022-04-10,Vitesse,Cambuur,1,0,1.0
+2021-2022,Eredivisie,29,2022-04-10,PSV Eindhoven,RKC Waalwijk,2,0,1.0
+2021-2022,Eredivisie,29,2022-04-10,Heracles Almelo,Feyenoord,1,4,0.0
+2021-2022,Eredivisie,29,2022-04-10,Zwolle,AZ Alkmaar,2,1,1.0
+2021-2022,Eredivisie,23,2022-04-16,Fortuna Sittard,Sparta R'dam,3,0,1.0
+2021-2022,Eredivisie,25,2022-04-19,Vitesse,Sparta R'dam,0,1,0.0
+2021-2022,Eredivisie,30,2022-04-22,Twente,Sparta R'dam,2,0,1.0
+2021-2022,Eredivisie,30,2022-04-23,NEC Nijmegen,Ajax,0,1,0.0
+2021-2022,Eredivisie,30,2022-04-23,AZ Alkmaar,Heerenveen,2,1,1.0
+2021-2022,Eredivisie,30,2022-04-23,RKC Waalwijk,Zwolle,0,2,0.0
+2021-2022,Eredivisie,30,2022-04-23,Cambuur,PSV Eindhoven,1,2,0.0
+2021-2022,Eredivisie,30,2022-04-24,Willem II,Vitesse,1,0,1.0
+2021-2022,Eredivisie,30,2022-04-24,Feyenoord,Utrecht,2,1,1.0
+2021-2022,Eredivisie,30,2022-04-24,Groningen,Heracles Almelo,0,1,0.0
+2021-2022,Eredivisie,30,2022-04-24,Fortuna Sittard,Go Ahead Eag,1,0,1.0
+2021-2022,Eredivisie,31,2022-04-29,Utrecht,NEC Nijmegen,1,0,1.0
+2021-2022,Eredivisie,31,2022-04-30,Ajax,Zwolle,3,0,1.0
+2021-2022,Eredivisie,31,2022-04-30,Heracles Almelo,Twente,1,1,0.5
+2021-2022,Eredivisie,31,2022-04-30,Sparta R'dam,AZ Alkmaar,1,1,0.5
+2021-2022,Eredivisie,31,2022-05-01,Heerenveen,Cambuur,3,3,0.5
+2021-2022,Eredivisie,31,2022-05-01,Go Ahead Eag,Vitesse,1,2,0.0
+2021-2022,Eredivisie,31,2022-05-01,PSV Eindhoven,Willem II,4,2,1.0
+2021-2022,Eredivisie,31,2022-05-01,Fortuna Sittard,Feyenoord,1,3,0.0
+2021-2022,Eredivisie,31,2022-05-01,RKC Waalwijk,Groningen,3,1,1.0
+2021-2022,Eredivisie,32,2022-05-06,Cambuur,RKC Waalwijk,1,1,0.5
+2021-2022,Eredivisie,32,2022-05-07,Twente,Fortuna Sittard,1,2,0.0
+2021-2022,Eredivisie,32,2022-05-07,Zwolle,Utrecht,1,1,0.5
+2021-2022,Eredivisie,32,2022-05-07,Willem II,Heracles Almelo,2,0,1.0
+2021-2022,Eredivisie,32,2022-05-07,Groningen,Sparta R'dam,1,2,0.0
+2021-2022,Eredivisie,32,2022-05-08,NEC Nijmegen,Go Ahead Eag,1,0,1.0
+2021-2022,Eredivisie,32,2022-05-08,AZ Alkmaar,Ajax,2,2,0.5
+2021-2022,Eredivisie,32,2022-05-08,Vitesse,Heerenveen,1,2,0.0
+2021-2022,Eredivisie,32,2022-05-08,Feyenoord,PSV Eindhoven,2,2,0.5
+2021-2022,Eredivisie,33,2022-05-11,Go Ahead Eag,Feyenoord,0,1,0.0
+2021-2022,Eredivisie,33,2022-05-11,Utrecht,AZ Alkmaar,2,2,0.5
+2021-2022,Eredivisie,33,2022-05-11,PSV Eindhoven,NEC Nijmegen,3,2,1.0
+2021-2022,Eredivisie,33,2022-05-11,Cambuur,Willem II,1,1,0.5
+2021-2022,Eredivisie,33,2022-05-11,Fortuna Sittard,Vitesse,1,2,0.0
+2021-2022,Eredivisie,33,2022-05-11,RKC Waalwijk,Heracles Almelo,2,0,1.0
+2021-2022,Eredivisie,33,2022-05-11,Ajax,Heerenveen,5,0,1.0
+2021-2022,Eredivisie,33,2022-05-11,Sparta R'dam,Zwolle,2,0,1.0
+2021-2022,Eredivisie,33,2022-05-11,Twente,Groningen,3,0,1.0
+2021-2022,Eredivisie,34,2022-05-15,Heerenveen,Go Ahead Eag,3,1,1.0
+2021-2022,Eredivisie,34,2022-05-15,Groningen,Cambuur,2,3,0.0
+2021-2022,Eredivisie,34,2022-05-15,AZ Alkmaar,RKC Waalwijk,1,3,0.0
+2021-2022,Eredivisie,34,2022-05-15,Vitesse,Ajax,2,2,0.5
+2021-2022,Eredivisie,34,2022-05-15,Feyenoord,Twente,1,2,0.0
+2021-2022,Eredivisie,34,2022-05-15,Zwolle,PSV Eindhoven,1,2,0.0
+2021-2022,Eredivisie,34,2022-05-15,Heracles Almelo,Sparta R'dam,1,3,0.0
+2021-2022,Eredivisie,34,2022-05-15,Willem II,Utrecht,3,0,1.0
+2021-2022,Eredivisie,34,2022-05-15,NEC Nijmegen,Fortuna Sittard,0,1,0.0
+2021-2022,Semi-finals,,2022-05-19,Heerenveen,AZ Alkmaar,3,2,1.0
+2021-2022,Semi-finals,,2022-05-19,Utrecht,Vitesse,3,1,1.0
+2021-2022,Semi-finals,,2022-05-22,AZ Alkmaar,Heerenveen,2,0,1.0
+2021-2022,Semi-finals,,2022-05-22,Vitesse,Utrecht,3,0,1.0
+2021-2022,Finals,,2022-05-26,Vitesse,AZ Alkmaar,2,1,1.0
+2021-2022,Finals,,2022-05-29,AZ Alkmaar,Vitesse,6,1,1.0

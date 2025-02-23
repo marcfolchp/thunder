@@ -1,0 +1,421 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1987-1988,1,1987-08-15,Oxford United,Portsmouth,4,2,1.0
+1987-1988,1,1987-08-15,West Ham,QPR,0,3,0.0
+1987-1988,1,1987-08-15,Southampton,Manchester Utd,2,2,0.5
+1987-1988,1,1987-08-15,Watford,Wimbledon,1,0,1.0
+1987-1988,1,1987-08-15,Charlton Ath,Nott'ham Forest,1,2,0.0
+1987-1988,1,1987-08-15,Coventry City,Tottenham,2,1,1.0
+1987-1988,1,1987-08-15,Everton,Norwich City,1,0,1.0
+1987-1988,1,1987-08-15,Derby County,Luton Town,1,0,1.0
+1987-1988,1,1987-08-15,Arsenal,Liverpool,1,2,0.0
+1987-1988,1,1987-08-15,Chelsea,Sheffield Weds,2,1,1.0
+1987-1988,2,1987-08-18,Luton Town,Coventry City,0,1,0.0
+1987-1988,2,1987-08-18,Portsmouth,Chelsea,0,3,0.0
+1987-1988,2,1987-08-18,Sheffield Weds,Oxford United,1,1,0.5
+1987-1988,2,1987-08-18,Wimbledon,Everton,1,1,0.5
+1987-1988,2,1987-08-19,Manchester Utd,Arsenal,0,0,0.5
+1987-1988,2,1987-08-19,Tottenham,Newcastle Utd,3,1,1.0
+1987-1988,2,1987-08-19,QPR,Derby County,1,1,0.5
+1987-1988,2,1987-08-19,Norwich City,Southampton,0,1,0.0
+1987-1988,2,1987-08-19,Nott'ham Forest,Watford,1,0,1.0
+1987-1988,3,1987-08-22,Nott'ham Forest,Everton,0,0,0.5
+1987-1988,3,1987-08-22,Luton Town,West Ham,2,2,0.5
+1987-1988,3,1987-08-22,Manchester Utd,Watford,2,0,1.0
+1987-1988,3,1987-08-22,Wimbledon,Oxford United,1,1,0.5
+1987-1988,3,1987-08-22,QPR,Arsenal,2,0,1.0
+1987-1988,3,1987-08-22,Sheffield Weds,Newcastle Utd,0,1,0.0
+1987-1988,3,1987-08-22,Tottenham,Chelsea,1,0,1.0
+1987-1988,3,1987-08-22,Portsmouth,Southampton,2,2,0.5
+1987-1988,3,1987-08-22,Norwich City,Coventry City,3,1,1.0
+1987-1988,4,1987-08-29,West Ham,Norwich City,2,0,1.0
+1987-1988,4,1987-08-29,Everton,Sheffield Weds,4,0,1.0
+1987-1988,4,1987-08-29,Charlton Ath,Manchester Utd,1,3,0.0
+1987-1988,4,1987-08-29,Newcastle Utd,Nott'ham Forest,0,1,0.0
+1987-1988,4,1987-08-29,Coventry City,Liverpool,1,4,0.0
+1987-1988,4,1987-08-29,Watford,Tottenham,1,1,0.5
+1987-1988,4,1987-08-29,Chelsea,Luton Town,3,0,1.0
+1987-1988,4,1987-08-29,Derby County,Wimbledon,0,1,0.0
+1987-1988,4,1987-08-29,Arsenal,Portsmouth,6,0,1.0
+1987-1988,4,1987-08-29,Southampton,QPR,0,1,0.0
+1987-1988,5,1987-08-31,Luton Town,Arsenal,1,1,0.5
+1987-1988,5,1987-08-31,Manchester Utd,Chelsea,3,1,1.0
+1987-1988,5,1987-08-31,Sheffield Weds,Coventry City,0,3,0.0
+1987-1988,5,1987-08-31,Portsmouth,West Ham,2,1,1.0
+1987-1988,5,1987-09-01,Tottenham,Oxford United,3,0,1.0
+1987-1988,5,1987-09-01,Norwich City,Newcastle Utd,1,1,0.5
+1987-1988,5,1987-09-01,Wimbledon,Charlton Ath,4,1,1.0
+1987-1988,5,1987-09-02,Nott'ham Forest,Southampton,3,3,0.5
+1987-1988,5,1987-09-02,QPR,Everton,1,0,1.0
+1987-1988,6,1987-09-05,Coventry City,Manchester Utd,0,0,0.5
+1987-1988,6,1987-09-05,Newcastle Utd,Wimbledon,1,2,0.0
+1987-1988,6,1987-09-05,Watford,Norwich City,0,1,0.0
+1987-1988,6,1987-09-05,Southampton,Sheffield Weds,1,1,0.5
+1987-1988,6,1987-09-05,Everton,Tottenham,0,0,0.5
+1987-1988,6,1987-09-05,Oxford United,Luton Town,2,5,0.0
+1987-1988,6,1987-09-05,Derby County,Portsmouth,0,0,0.5
+1987-1988,6,1987-09-05,West Ham,Liverpool,1,1,0.5
+1987-1988,6,1987-09-05,Chelsea,Nott'ham Forest,4,3,1.0
+1987-1988,6,1987-09-05,Charlton Ath,QPR,0,1,0.0
+1987-1988,7,1987-09-12,Norwich City,Derby County,1,2,0.0
+1987-1988,7,1987-09-12,Luton Town,Everton,2,1,1.0
+1987-1988,7,1987-09-12,Portsmouth,Charlton Ath,1,1,0.5
+1987-1988,7,1987-09-12,Manchester Utd,Newcastle Utd,2,2,0.5
+1987-1988,7,1987-09-12,Sheffield Weds,Watford,2,3,0.0
+1987-1988,7,1987-09-12,QPR,Chelsea,3,1,1.0
+1987-1988,7,1987-09-12,Liverpool,Oxford United,2,0,1.0
+1987-1988,7,1987-09-12,Wimbledon,West Ham,1,1,0.5
+1987-1988,7,1987-09-12,Nott'ham Forest,Arsenal,0,1,0.0
+1987-1988,7,1987-09-12,Tottenham,Southampton,2,1,1.0
+1987-1988,2,1987-09-15,Liverpool,Charlton Ath,3,2,1.0
+1987-1988,8,1987-09-19,Chelsea,Norwich City,1,0,1.0
+1987-1988,8,1987-09-19,Oxford United,QPR,2,0,1.0
+1987-1988,8,1987-09-19,Coventry City,Nott'ham Forest,0,3,0.0
+1987-1988,8,1987-09-19,Derby County,Sheffield Weds,2,2,0.5
+1987-1988,8,1987-09-19,Watford,Portsmouth,0,0,0.5
+1987-1988,8,1987-09-19,Arsenal,Wimbledon,3,0,1.0
+1987-1988,8,1987-09-19,Everton,Manchester Utd,2,1,1.0
+1987-1988,8,1987-09-19,Charlton Ath,Luton Town,1,0,1.0
+1987-1988,8,1987-09-19,West Ham,Tottenham,0,1,0.0
+1987-1988,8,1987-09-20,Newcastle Utd,Liverpool,1,4,0.0
+1987-1988,9,1987-09-26,QPR,Luton Town,2,0,1.0
+1987-1988,9,1987-09-26,Sheffield Weds,Charlton Ath,2,0,1.0
+1987-1988,9,1987-09-26,Portsmouth,Wimbledon,2,1,1.0
+1987-1988,9,1987-09-26,Everton,Coventry City,1,2,0.0
+1987-1988,9,1987-09-26,Manchester Utd,Tottenham,1,0,1.0
+1987-1988,9,1987-09-26,Arsenal,West Ham,1,0,1.0
+1987-1988,9,1987-09-26,Watford,Chelsea,0,3,0.0
+1987-1988,9,1987-09-26,Derby County,Oxford United,0,1,0.0
+1987-1988,9,1987-09-26,Norwich City,Nott'ham Forest,0,2,0.0
+1987-1988,9,1987-09-26,Newcastle Utd,Southampton,2,1,1.0
+1987-1988,3,1987-09-29,Liverpool,Derby County,4,0,1.0
+1987-1988,10,1987-10-03,Coventry City,Watford,1,0,1.0
+1987-1988,10,1987-10-03,Liverpool,Portsmouth,4,0,1.0
+1987-1988,10,1987-10-03,Wimbledon,QPR,1,2,0.0
+1987-1988,10,1987-10-03,Charlton Ath,Arsenal,0,3,0.0
+1987-1988,10,1987-10-03,Chelsea,Newcastle Utd,2,2,0.5
+1987-1988,10,1987-10-03,Oxford United,Norwich City,3,0,1.0
+1987-1988,10,1987-10-03,Southampton,Everton,0,4,0.0
+1987-1988,10,1987-10-03,West Ham,Derby County,1,1,0.5
+1987-1988,10,1987-10-03,Tottenham,Sheffield Weds,2,0,1.0
+1987-1988,10,1987-10-03,Luton Town,Manchester Utd,1,1,0.5
+1987-1988,11,1987-10-10,Norwich City,Tottenham,2,1,1.0
+1987-1988,11,1987-10-10,Portsmouth,Luton Town,3,1,1.0
+1987-1988,11,1987-10-10,Sheffield Weds,Manchester Utd,2,4,0.0
+1987-1988,11,1987-10-10,Arsenal,Oxford United,2,0,1.0
+1987-1988,11,1987-10-10,Derby County,Nott'ham Forest,0,1,0.0
+1987-1988,11,1987-10-10,Everton,Chelsea,4,1,1.0
+1987-1988,11,1987-10-10,West Ham,Charlton Ath,1,1,0.5
+1987-1988,12,1987-10-17,Liverpool,QPR,4,0,1.0
+1987-1988,12,1987-10-17,Manchester Utd,Norwich City,2,1,1.0
+1987-1988,12,1987-10-17,Oxford United,West Ham,1,2,0.0
+1987-1988,12,1987-10-17,Chelsea,Coventry City,1,0,1.0
+1987-1988,12,1987-10-17,Southampton,Watford,1,0,1.0
+1987-1988,12,1987-10-17,Luton Town,Wimbledon,2,0,1.0
+1987-1988,12,1987-10-17,Newcastle Utd,Everton,1,1,0.5
+1987-1988,12,1987-10-17,Charlton Ath,Derby County,0,1,0.0
+1987-1988,12,1987-10-17,Nott'ham Forest,Sheffield Weds,3,0,1.0
+1987-1988,12,1987-10-18,Tottenham,Arsenal,1,2,0.0
+1987-1988,11,1987-10-20,Coventry City,Southampton,2,3,0.0
+1987-1988,13,1987-10-24,Southampton,Chelsea,3,0,1.0
+1987-1988,13,1987-10-24,Nott'ham Forest,Tottenham,3,0,1.0
+1987-1988,13,1987-10-24,QPR,Portsmouth,2,1,1.0
+1987-1988,13,1987-10-24,Arsenal,Derby County,2,1,1.0
+1987-1988,13,1987-10-24,Oxford United,Charlton Ath,2,1,1.0
+1987-1988,13,1987-10-24,Coventry City,Newcastle Utd,1,3,0.0
+1987-1988,13,1987-10-24,Luton Town,Liverpool,0,1,0.0
+1987-1988,13,1987-10-24,Sheffield Weds,Norwich City,1,0,1.0
+1987-1988,13,1987-10-24,Everton,Watford,2,0,1.0
+1987-1988,13,1987-10-25,West Ham,Manchester Utd,1,1,0.5
+1987-1988,14,1987-10-31,Norwich City,QPR,1,1,0.5
+1987-1988,14,1987-10-31,Watford,West Ham,1,2,0.0
+1987-1988,14,1987-10-31,Chelsea,Oxford United,2,1,1.0
+1987-1988,14,1987-10-31,Portsmouth,Sheffield Weds,1,2,0.0
+1987-1988,14,1987-10-31,Derby County,Coventry City,2,0,1.0
+1987-1988,14,1987-10-31,Newcastle Utd,Arsenal,0,1,0.0
+1987-1988,14,1987-10-31,Charlton Ath,Southampton,1,1,0.5
+1987-1988,14,1987-10-31,Tottenham,Wimbledon,0,3,0.0
+1987-1988,14,1987-10-31,Manchester Utd,Nott'ham Forest,2,2,0.5
+1987-1988,14,1987-11-01,Liverpool,Everton,2,0,1.0
+1987-1988,15,1987-11-03,Arsenal,Chelsea,3,1,1.0
+1987-1988,11,1987-11-04,Wimbledon,Liverpool,1,1,0.5
+1987-1988,15,1987-11-04,Portsmouth,Tottenham,0,0,0.5
+1987-1988,15,1987-11-07,Oxford United,Coventry City,1,0,1.0
+1987-1988,15,1987-11-07,Luton Town,Newcastle Utd,4,0,1.0
+1987-1988,15,1987-11-07,West Ham,Sheffield Weds,0,1,0.0
+1987-1988,15,1987-11-07,Wimbledon,Southampton,2,0,1.0
+1987-1988,15,1987-11-07,QPR,Watford,0,0,0.5
+1987-1988,15,1987-11-07,Charlton Ath,Norwich City,2,0,1.0
+1987-1988,16,1987-11-14,Everton,West Ham,3,1,1.0
+1987-1988,16,1987-11-14,Newcastle Utd,Derby County,0,0,0.5
+1987-1988,16,1987-11-14,Watford,Charlton Ath,2,1,1.0
+1987-1988,16,1987-11-14,Norwich City,Arsenal,2,4,0.0
+1987-1988,16,1987-11-14,Nott'ham Forest,Portsmouth,5,0,1.0
+1987-1988,16,1987-11-14,Sheffield Weds,Luton Town,0,2,0.0
+1987-1988,16,1987-11-14,Tottenham,QPR,1,1,0.5
+1987-1988,16,1987-11-14,Coventry City,Wimbledon,3,3,0.5
+1987-1988,16,1987-11-14,Southampton,Oxford United,3,0,1.0
+1987-1988,16,1987-11-15,Manchester Utd,Liverpool,1,1,0.5
+1987-1988,17,1987-11-21,Portsmouth,Everton,0,1,0.0
+1987-1988,17,1987-11-21,Arsenal,Southampton,0,1,0.0
+1987-1988,17,1987-11-21,West Ham,Nott'ham Forest,3,2,1.0
+1987-1988,17,1987-11-21,QPR,Newcastle Utd,1,1,0.5
+1987-1988,17,1987-11-21,Oxford United,Watford,1,1,0.5
+1987-1988,17,1987-11-21,Liverpool,Norwich City,0,0,0.5
+1987-1988,17,1987-11-21,Charlton Ath,Coventry City,2,2,0.5
+1987-1988,17,1987-11-21,Luton Town,Tottenham,2,0,1.0
+1987-1988,17,1987-11-21,Wimbledon,Manchester Utd,2,1,1.0
+1987-1988,17,1987-11-22,Derby County,Chelsea,2,0,1.0
+1987-1988,5,1987-11-24,Liverpool,Watford,4,0,1.0
+1987-1988,18,1987-11-28,Tottenham,Liverpool,0,2,0.0
+1987-1988,18,1987-11-28,Chelsea,Wimbledon,1,1,0.5
+1987-1988,18,1987-11-28,Watford,Arsenal,2,0,1.0
+1987-1988,18,1987-11-28,Newcastle Utd,Charlton Ath,2,1,1.0
+1987-1988,18,1987-11-28,Everton,Oxford United,0,0,0.5
+1987-1988,18,1987-11-28,Norwich City,Portsmouth,0,1,0.0
+1987-1988,18,1987-11-28,Southampton,Derby County,1,2,0.0
+1987-1988,18,1987-11-28,Sheffield Weds,QPR,3,1,1.0
+1987-1988,18,1987-11-28,Coventry City,West Ham,0,0,0.5
+1987-1988,19,1987-12-05,Wimbledon,Nott'ham Forest,1,1,0.5
+1987-1988,19,1987-12-05,Oxford United,Newcastle Utd,1,3,0.0
+1987-1988,19,1987-12-05,Arsenal,Sheffield Weds,3,1,1.0
+1987-1988,19,1987-12-05,Luton Town,Norwich City,1,2,0.0
+1987-1988,19,1987-12-05,QPR,Manchester Utd,0,2,0.0
+1987-1988,19,1987-12-05,Charlton Ath,Everton,0,0,0.5
+1987-1988,19,1987-12-05,West Ham,Southampton,2,1,1.0
+1987-1988,19,1987-12-05,Portsmouth,Coventry City,0,0,0.5
+1987-1988,19,1987-12-05,Derby County,Watford,1,1,0.5
+1987-1988,19,1987-12-06,Liverpool,Chelsea,2,1,1.0
+1987-1988,20,1987-12-12,Newcastle Utd,Portsmouth,1,1,0.5
+1987-1988,20,1987-12-12,Sheffield Weds,Wimbledon,1,0,1.0
+1987-1988,20,1987-12-12,Manchester Utd,Oxford United,3,1,1.0
+1987-1988,20,1987-12-12,Everton,Derby County,3,0,1.0
+1987-1988,20,1987-12-12,Chelsea,West Ham,1,1,0.5
+1987-1988,20,1987-12-12,Southampton,Liverpool,2,2,0.5
+1987-1988,20,1987-12-12,Watford,Luton Town,0,1,0.0
+1987-1988,20,1987-12-13,Coventry City,Arsenal,0,0,0.5
+1987-1988,20,1987-12-13,Nott'ham Forest,QPR,4,0,1.0
+1987-1988,20,1987-12-13,Tottenham,Charlton Ath,0,1,0.0
+1987-1988,21,1987-12-18,Luton Town,Southampton,2,2,0.5
+1987-1988,21,1987-12-18,QPR,Coventry City,1,2,0.0
+1987-1988,21,1987-12-18,Wimbledon,Norwich City,1,0,1.0
+1987-1988,21,1987-12-19,Arsenal,Everton,1,1,0.5
+1987-1988,21,1987-12-19,West Ham,Newcastle Utd,2,1,1.0
+1987-1988,21,1987-12-19,Oxford United,Nott'ham Forest,0,2,0.0
+1987-1988,21,1987-12-19,Liverpool,Sheffield Weds,1,0,1.0
+1987-1988,21,1987-12-19,Portsmouth,Manchester Utd,1,2,0.0
+1987-1988,21,1987-12-20,Charlton Ath,Chelsea,2,2,0.5
+1987-1988,21,1987-12-20,Derby County,Tottenham,1,2,0.0
+1987-1988,22,1987-12-26,Everton,Luton Town,2,0,1.0
+1987-1988,22,1987-12-26,Charlton Ath,Portsmouth,2,1,1.0
+1987-1988,22,1987-12-26,Southampton,Tottenham,2,1,1.0
+1987-1988,22,1987-12-26,Arsenal,Nott'ham Forest,0,2,0.0
+1987-1988,22,1987-12-26,Watford,Sheffield Weds,1,3,0.0
+1987-1988,22,1987-12-26,Newcastle Utd,Manchester Utd,1,0,1.0
+1987-1988,22,1987-12-26,Oxford United,Liverpool,0,3,0.0
+1987-1988,22,1987-12-26,Derby County,Norwich City,1,2,0.0
+1987-1988,22,1987-12-26,Chelsea,QPR,1,1,0.5
+1987-1988,22,1987-12-26,West Ham,Wimbledon,1,2,0.0
+1987-1988,23,1987-12-28,Tottenham,West Ham,2,1,1.0
+1987-1988,23,1987-12-28,Liverpool,Newcastle Utd,4,0,1.0
+1987-1988,23,1987-12-28,Norwich City,Chelsea,3,0,1.0
+1987-1988,23,1987-12-28,QPR,Oxford United,3,2,1.0
+1987-1988,23,1987-12-28,Manchester Utd,Everton,2,1,1.0
+1987-1988,23,1987-12-28,Luton Town,Charlton Ath,1,0,1.0
+1987-1988,23,1987-12-28,Wimbledon,Arsenal,3,1,1.0
+1987-1988,23,1987-12-28,Portsmouth,Watford,1,1,0.5
+1987-1988,23,1987-12-28,Sheffield Weds,Derby County,2,1,1.0
+1987-1988,23,1987-12-28,Nott'ham Forest,Coventry City,4,1,1.0
+1987-1988,24,1988-01-01,Liverpool,Coventry City,4,0,1.0
+1987-1988,24,1988-01-01,Portsmouth,Arsenal,1,1,0.5
+1987-1988,24,1988-01-01,Norwich City,West Ham,4,1,1.0
+1987-1988,24,1988-01-01,Luton Town,Chelsea,3,0,1.0
+1987-1988,24,1988-01-01,Nott'ham Forest,Newcastle Utd,0,2,0.0
+1987-1988,24,1988-01-01,QPR,Southampton,3,0,1.0
+1987-1988,24,1988-01-01,Wimbledon,Derby County,2,1,1.0
+1987-1988,24,1988-01-01,Manchester Utd,Charlton Ath,0,0,0.5
+1987-1988,24,1988-01-01,Tottenham,Watford,2,1,1.0
+1987-1988,24,1988-01-01,Sheffield Weds,Everton,1,0,1.0
+1987-1988,25,1988-01-02,Newcastle Utd,Sheffield Weds,2,2,0.5
+1987-1988,25,1988-01-02,Oxford United,Wimbledon,2,5,0.0
+1987-1988,25,1988-01-02,Arsenal,QPR,0,0,0.5
+1987-1988,25,1988-01-02,Chelsea,Tottenham,0,0,0.5
+1987-1988,25,1988-01-02,Watford,Manchester Utd,0,1,0.0
+1987-1988,25,1988-01-02,West Ham,Luton Town,1,1,0.5
+1987-1988,25,1988-01-03,Everton,Nott'ham Forest,1,0,1.0
+1987-1988,25,1988-01-03,Southampton,Portsmouth,0,2,0.0
+1987-1988,26,1988-01-16,Tottenham,Coventry City,2,2,0.5
+1987-1988,26,1988-01-16,Nott'ham Forest,Charlton Ath,2,2,0.5
+1987-1988,26,1988-01-16,Wimbledon,Watford,1,2,0.0
+1987-1988,26,1988-01-16,Manchester Utd,Southampton,0,2,0.0
+1987-1988,26,1988-01-16,Portsmouth,Oxford United,2,2,0.5
+1987-1988,26,1988-01-16,Liverpool,Arsenal,2,0,1.0
+1987-1988,26,1988-01-16,Norwich City,Everton,0,3,0.0
+1987-1988,26,1988-01-16,Luton Town,Derby County,1,0,1.0
+1987-1988,26,1988-01-16,QPR,West Ham,0,1,0.0
+1987-1988,26,1988-01-16,Sheffield Weds,Chelsea,3,0,1.0
+1987-1988,27,1988-01-23,Southampton,Norwich City,0,0,0.5
+1987-1988,27,1988-01-23,Watford,Nott'ham Forest,0,0,0.5
+1987-1988,27,1988-01-23,Charlton Ath,Liverpool,0,2,0.0
+1987-1988,27,1988-01-23,Chelsea,Portsmouth,0,0,0.5
+1987-1988,27,1988-01-23,Newcastle Utd,Tottenham,2,0,1.0
+1987-1988,27,1988-01-24,Arsenal,Manchester Utd,1,2,0.0
+1987-1988,28,1988-02-06,Liverpool,West Ham,0,0,0.5
+1987-1988,28,1988-02-06,Norwich City,Watford,0,0,0.5
+1987-1988,28,1988-02-06,QPR,Charlton Ath,2,0,1.0
+1987-1988,28,1988-02-06,Portsmouth,Derby County,2,1,1.0
+1987-1988,28,1988-02-06,Luton Town,Oxford United,7,4,1.0
+1987-1988,28,1988-02-06,Manchester Utd,Coventry City,1,0,1.0
+1987-1988,28,1988-02-06,Nott'ham Forest,Chelsea,3,2,1.0
+1987-1988,28,1988-02-06,Wimbledon,Newcastle Utd,0,0,0.5
+1987-1988,28,1988-02-06,Sheffield Weds,Southampton,2,1,1.0
+1987-1988,15,1988-02-10,Derby County,Manchester Utd,1,2,0.0
+1987-1988,29,1988-02-13,Coventry City,Sheffield Weds,3,0,1.0
+1987-1988,29,1988-02-13,Arsenal,Luton Town,2,1,1.0
+1987-1988,29,1988-02-13,Oxford United,Tottenham,0,0,0.5
+1987-1988,29,1988-02-13,West Ham,Portsmouth,1,1,0.5
+1987-1988,29,1988-02-13,Watford,Liverpool,1,4,0.0
+1987-1988,29,1988-02-13,Newcastle Utd,Norwich City,1,3,0.0
+1987-1988,29,1988-02-13,Southampton,Nott'ham Forest,1,1,0.5
+1987-1988,29,1988-02-13,Charlton Ath,Wimbledon,1,1,0.5
+1987-1988,29,1988-02-13,Chelsea,Manchester Utd,1,2,0.0
+1987-1988,29,1988-02-13,Everton,QPR,2,0,1.0
+1987-1988,25,1988-02-20,Coventry City,Norwich City,0,0,0.5
+1987-1988,30,1988-02-20,Charlton Ath,Sheffield Weds,3,1,1.0
+1987-1988,30,1988-02-20,Oxford United,Derby County,0,0,0.5
+1987-1988,30,1988-02-23,Tottenham,Manchester Utd,1,1,0.5
+1987-1988,31,1988-02-27,Newcastle Utd,Chelsea,3,1,1.0
+1987-1988,31,1988-02-27,Watford,Coventry City,0,1,0.0
+1987-1988,31,1988-02-27,Arsenal,Charlton Ath,4,0,1.0
+1987-1988,31,1988-02-27,Everton,Southampton,1,0,1.0
+1987-1988,31,1988-02-27,QPR,Wimbledon,1,0,1.0
+1987-1988,31,1988-02-27,Portsmouth,Liverpool,0,2,0.0
+1987-1988,31,1988-02-27,Derby County,West Ham,1,0,1.0
+1987-1988,31,1988-02-27,Sheffield Weds,Tottenham,0,3,0.0
+1987-1988,30,1988-03-01,Southampton,Newcastle Utd,1,1,0.5
+1987-1988,42,1988-03-01,Tottenham,Derby County,0,0,0.5
+1987-1988,32,1988-03-05,West Ham,Oxford United,1,1,0.5
+1987-1988,32,1988-03-05,Watford,Southampton,0,1,0.0
+1987-1988,32,1988-03-05,Sheffield Weds,Nott'ham Forest,0,1,0.0
+1987-1988,32,1988-03-05,Wimbledon,Luton Town,2,0,1.0
+1987-1988,32,1988-03-05,Norwich City,Manchester Utd,1,0,1.0
+1987-1988,32,1988-03-05,Derby County,Charlton Ath,1,1,0.5
+1987-1988,32,1988-03-05,QPR,Liverpool,0,1,0.0
+1987-1988,32,1988-03-05,Everton,Newcastle Utd,1,0,1.0
+1987-1988,32,1988-03-05,Coventry City,Chelsea,3,3,0.5
+1987-1988,32,1988-03-06,Arsenal,Tottenham,2,1,1.0
+1987-1988,28,1988-03-09,Tottenham,Everton,2,1,1.0
+1987-1988,33,1988-03-12,Charlton Ath,West Ham,3,0,1.0
+1987-1988,33,1988-03-12,Manchester Utd,Sheffield Weds,4,1,1.0
+1987-1988,33,1988-03-12,Tottenham,Norwich City,1,3,0.0
+1987-1988,33,1988-03-12,Chelsea,Everton,0,0,0.5
+1987-1988,33,1988-03-12,Southampton,Coventry City,1,2,0.0
+1987-1988,27,1988-03-15,Coventry City,Luton Town,4,0,1.0
+1987-1988,25,1988-03-16,Derby County,Liverpool,1,1,0.5
+1987-1988,31,1988-03-16,Norwich City,Oxford United,4,2,1.0
+1987-1988,41,1988-03-16,QPR,Nott'ham Forest,2,1,1.0
+1987-1988,34,1988-03-19,Wimbledon,Tottenham,3,0,1.0
+1987-1988,34,1988-03-19,Coventry City,Derby County,0,3,0.0
+1987-1988,34,1988-03-19,Sheffield Weds,Portsmouth,1,0,1.0
+1987-1988,34,1988-03-19,Southampton,Charlton Ath,0,1,0.0
+1987-1988,34,1988-03-19,West Ham,Watford,1,0,1.0
+1987-1988,34,1988-03-19,Nott'ham Forest,Manchester Utd,0,0,0.5
+1987-1988,34,1988-03-19,Oxford United,Chelsea,4,4,0.5
+1987-1988,34,1988-03-19,QPR,Norwich City,3,0,1.0
+1987-1988,34,1988-03-19,Arsenal,Newcastle Utd,1,1,0.5
+1987-1988,34,1988-03-20,Everton,Liverpool,1,0,1.0
+1987-1988,33,1988-03-26,Liverpool,Wimbledon,2,1,1.0
+1987-1988,35,1988-03-26,Derby County,Arsenal,0,0,0.5
+1987-1988,35,1988-03-26,Chelsea,Southampton,0,1,0.0
+1987-1988,35,1988-03-26,Norwich City,Sheffield Weds,0,3,0.0
+1987-1988,35,1988-03-26,Tottenham,Nott'ham Forest,1,1,0.5
+1987-1988,35,1988-03-26,Manchester Utd,West Ham,3,1,1.0
+1987-1988,35,1988-03-26,Watford,Everton,1,2,0.0
+1987-1988,35,1988-03-26,Newcastle Utd,Coventry City,2,2,0.5
+1987-1988,35,1988-03-26,Portsmouth,QPR,0,1,0.0
+1987-1988,35,1988-03-26,Charlton Ath,Oxford United,0,0,0.5
+1987-1988,27,1988-03-29,Everton,Wimbledon,2,2,0.5
+1987-1988,30,1988-03-29,Chelsea,Watford,1,1,0.5
+1987-1988,33,1988-03-29,Luton Town,Portsmouth,4,1,1.0
+1987-1988,33,1988-03-30,Nott'ham Forest,Derby County,2,1,1.0
+1987-1988,33,1988-03-30,Oxford United,Arsenal,0,0,0.5
+1987-1988,36,1988-04-01,Watford,QPR,0,1,0.0
+1987-1988,36,1988-04-02,Coventry City,Oxford United,1,0,1.0
+1987-1988,36,1988-04-02,Sheffield Weds,West Ham,2,1,1.0
+1987-1988,36,1988-04-02,Tottenham,Portsmouth,0,1,0.0
+1987-1988,36,1988-04-02,Southampton,Wimbledon,2,2,0.5
+1987-1988,36,1988-04-02,Norwich City,Charlton Ath,2,0,1.0
+1987-1988,36,1988-04-02,Chelsea,Arsenal,1,1,0.5
+1987-1988,36,1988-04-02,Nott'ham Forest,Liverpool,2,1,1.0
+1987-1988,36,1988-04-02,Newcastle Utd,Luton Town,4,0,1.0
+1987-1988,36,1988-04-02,Manchester Utd,Derby County,4,1,1.0
+1987-1988,37,1988-04-04,Portsmouth,Nott'ham Forest,0,1,0.0
+1987-1988,37,1988-04-04,Charlton Ath,Watford,1,0,1.0
+1987-1988,37,1988-04-04,Arsenal,Norwich City,2,0,1.0
+1987-1988,37,1988-04-04,West Ham,Everton,0,0,0.5
+1987-1988,37,1988-04-04,Oxford United,Southampton,0,0,0.5
+1987-1988,37,1988-04-04,Derby County,Newcastle Utd,2,1,1.0
+1987-1988,37,1988-04-04,Liverpool,Manchester Utd,3,3,0.5
+1987-1988,37,1988-04-04,QPR,Tottenham,2,0,1.0
+1987-1988,37,1988-04-05,Luton Town,Sheffield Weds,2,2,0.5
+1987-1988,37,1988-04-05,Wimbledon,Coventry City,1,2,0.0
+1987-1988,38,1988-04-09,Coventry City,Charlton Ath,0,0,0.5
+1987-1988,38,1988-04-09,Watford,Oxford United,3,0,1.0
+1987-1988,38,1988-04-09,Newcastle Utd,QPR,1,1,0.5
+1987-1988,38,1988-04-09,Chelsea,Derby County,1,0,1.0
+1987-1988,38,1988-04-09,Southampton,Arsenal,4,2,1.0
+1987-1988,38,1988-04-09,Everton,Portsmouth,2,1,1.0
+1987-1988,11,1988-04-12,Newcastle Utd,Watford,3,0,1.0
+1987-1988,30,1988-04-12,West Ham,Arsenal,0,1,0.0
+1987-1988,31,1988-04-12,Manchester Utd,Luton Town,3,0,1.0
+1987-1988,15,1988-04-13,Liverpool,Nott'ham Forest,5,0,1.0
+1987-1988,27,1988-04-13,Oxford United,Sheffield Weds,0,3,0.0
+1987-1988,27,1988-04-13,Derby County,QPR,0,2,0.0
+1987-1988,39,1988-04-15,Arsenal,Watford,0,1,0.0
+1987-1988,30,1988-04-19,Coventry City,Everton,1,2,0.0
+1987-1988,30,1988-04-19,Wimbledon,Portsmouth,2,2,0.5
+1987-1988,30,1988-04-19,Luton Town,QPR,2,1,1.0
+1987-1988,33,1988-04-19,Watford,Newcastle Utd,1,1,0.5
+1987-1988,38,1988-04-20,Nott'ham Forest,West Ham,0,0,0.5
+1987-1988,38,1988-04-20,Norwich City,Liverpool,0,0,0.5
+1987-1988,39,1988-04-23,Liverpool,Tottenham,1,0,1.0
+1987-1988,39,1988-04-23,Wimbledon,Chelsea,2,2,0.5
+1987-1988,39,1988-04-23,QPR,Sheffield Weds,1,1,0.5
+1987-1988,39,1988-04-23,Charlton Ath,Newcastle Utd,2,0,1.0
+1987-1988,39,1988-04-23,West Ham,Coventry City,1,1,0.5
+1987-1988,39,1988-04-23,Portsmouth,Norwich City,2,2,0.5
+1987-1988,39,1988-04-23,Derby County,Southampton,2,0,1.0
+1987-1988,39,1988-04-23,Oxford United,Everton,1,1,0.5
+1987-1988,40,1988-04-30,Nott'ham Forest,Wimbledon,0,0,0.5
+1987-1988,40,1988-04-30,Everton,Charlton Ath,1,1,0.5
+1987-1988,40,1988-04-30,Manchester Utd,QPR,2,1,1.0
+1987-1988,40,1988-04-30,Norwich City,Luton Town,2,2,0.5
+1987-1988,40,1988-04-30,Chelsea,Liverpool,1,1,0.5
+1987-1988,40,1988-04-30,Southampton,West Ham,2,1,1.0
+1987-1988,40,1988-04-30,Sheffield Weds,Arsenal,3,3,0.5
+1987-1988,40,1988-04-30,Newcastle Utd,Oxford United,3,1,1.0
+1987-1988,40,1988-04-30,Watford,Derby County,1,1,0.5
+1987-1988,40,1988-04-30,Coventry City,Portsmouth,1,0,1.0
+1987-1988,41,1988-05-02,Derby County,Everton,0,0,0.5
+1987-1988,41,1988-05-02,Liverpool,Southampton,1,1,0.5
+1987-1988,41,1988-05-02,Charlton Ath,Tottenham,1,1,0.5
+1987-1988,41,1988-05-02,West Ham,Chelsea,4,1,1.0
+1987-1988,41,1988-05-02,Portsmouth,Newcastle Utd,1,2,0.0
+1987-1988,41,1988-05-02,Luton Town,Watford,2,1,1.0
+1987-1988,41,1988-05-02,Oxford United,Manchester Utd,0,2,0.0
+1987-1988,41,1988-05-02,Arsenal,Coventry City,1,1,0.5
+1987-1988,41,1988-05-03,Wimbledon,Sheffield Weds,1,1,0.5
+1987-1988,30,1988-05-04,Nott'ham Forest,Norwich City,2,0,1.0
+1987-1988,38,1988-05-04,Tottenham,Luton Town,2,1,1.0
+1987-1988,42,1988-05-07,Nott'ham Forest,Oxford United,5,3,1.0
+1987-1988,42,1988-05-07,Everton,Arsenal,1,2,0.0
+1987-1988,42,1988-05-07,Chelsea,Charlton Ath,1,1,0.5
+1987-1988,42,1988-05-07,Norwich City,Wimbledon,0,1,0.0
+1987-1988,42,1988-05-07,Sheffield Weds,Liverpool,1,5,0.0
+1987-1988,42,1988-05-07,Southampton,Luton Town,1,1,0.5
+1987-1988,42,1988-05-07,Coventry City,QPR,0,0,0.5
+1987-1988,42,1988-05-07,Manchester Utd,Portsmouth,4,1,1.0
+1987-1988,42,1988-05-07,Newcastle Utd,West Ham,2,1,1.0
+1987-1988,35,1988-05-09,Liverpool,Luton Town,1,1,0.5
+1987-1988,38,1988-05-09,Manchester Utd,Wimbledon,2,1,1.0
+1987-1988,18,1988-05-13,Luton Town,Nott'ham Forest,1,1,0.5
+1987-1988,39,1988-05-15,Nott'ham Forest,Luton Town,1,1,0.5

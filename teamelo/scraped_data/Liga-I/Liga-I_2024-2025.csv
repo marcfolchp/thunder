@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-07-12,Farul Constanța,Unirea Slobozia,0.0,1.0,0.0
+2024-2025,1,2024-07-12,Hermannstadt,CS U Craiova,0.0,0.0,0.5
+2024-2025,1,2024-07-13,Sepsi,Poli Iași,1.0,0.0,1.0
+2024-2025,1,2024-07-13,UTA Arad,Rapid București,1.0,1.0,0.5
+2024-2025,1,2024-07-13,FCSB,Universitatea Cluj,1.0,1.0,0.5
+2024-2025,1,2024-07-14,CFR Cluj,Dinamo,3.0,2.0,1.0
+2024-2025,1,2024-07-15,Botoșani,Oțelul Galați,2.0,3.0,0.0
+2024-2025,1,2024-07-15,Petrolul Ploiești,SCM Gloria Buzău,0.0,0.0,0.5
+2024-2025,2,2024-07-19,Poli Iași,Botoșani,1.0,0.0,1.0
+2024-2025,2,2024-07-19,Unirea Slobozia,FCSB,2.0,2.0,0.5
+2024-2025,2,2024-07-20,CS U Craiova,UTA Arad,4.0,2.0,1.0
+2024-2025,2,2024-07-20,Rapid București,CFR Cluj,2.0,2.0,0.5
+2024-2025,2,2024-07-21,Universitatea Cluj,Hermannstadt,3.0,1.0,1.0
+2024-2025,2,2024-07-21,Dinamo,Petrolul Ploiești,4.0,1.0,1.0
+2024-2025,2,2024-07-22,SCM Gloria Buzău,Sepsi,1.0,2.0,0.0
+2024-2025,2,2024-07-22,Oțelul Galați,Farul Constanța,0.0,0.0,0.5
+2024-2025,3,2024-07-26,Hermannstadt,Unirea Slobozia,1.0,1.0,0.5
+2024-2025,3,2024-07-26,FCSB,Oțelul Galați,0.0,2.0,0.0
+2024-2025,3,2024-07-27,Poli Iași,SCM Gloria Buzău,1.0,2.0,0.0
+2024-2025,3,2024-07-27,Sepsi,Dinamo,1.0,1.0,0.5
+2024-2025,3,2024-07-28,Farul Constanța,Botoșani,0.0,1.0,0.0
+2024-2025,3,2024-07-28,CFR Cluj,CS U Craiova,0.0,2.0,0.0
+2024-2025,3,2024-07-29,UTA Arad,Universitatea Cluj,0.0,0.0,0.5
+2024-2025,3,2024-07-29,Petrolul Ploiești,Rapid București,1.0,0.0,1.0
+2024-2025,4,2024-08-02,Oțelul Galați,Hermannstadt,1.0,0.0,1.0
+2024-2025,4,2024-08-02,Dinamo,SCM Gloria Buzău,4.0,1.0,1.0
+2024-2025,4,2024-08-03,Farul Constanța,Poli Iași,2.0,0.0,1.0
+2024-2025,4,2024-08-04,CS U Craiova,Petrolul Ploiești,0.0,0.0,0.5
+2024-2025,4,2024-08-04,CFR Cluj,Universitatea Cluj,2.0,3.0,0.0
+2024-2025,4,2024-08-05,Unirea Slobozia,UTA Arad,0.0,1.0,0.0
+2024-2025,4,2024-08-05,Rapid București,Sepsi,2.0,2.0,0.5
+2024-2025,5,2024-08-09,FCSB,Farul Constanța,3.0,2.0,1.0
+2024-2025,5,2024-08-10,Hermannstadt,Botoșani,2.0,1.0,1.0
+2024-2025,5,2024-08-10,UTA Arad,Oțelul Galați,1.0,1.0,0.5
+2024-2025,5,2024-08-10,SCM Gloria Buzău,Rapid București,1.0,1.0,0.5
+2024-2025,5,2024-08-11,Sepsi,CS U Craiova,1.0,2.0,0.0
+2024-2025,5,2024-08-11,CFR Cluj,Unirea Slobozia,3.0,0.0,1.0
+2024-2025,5,2024-08-12,Petrolul Ploiești,Universitatea Cluj,0.0,0.0,0.5
+2024-2025,5,2024-08-12,Poli Iași,Dinamo,2.0,2.0,0.5
+2024-2025,6,2024-08-16,Unirea Slobozia,Petrolul Ploiești,1.0,2.0,0.0
+2024-2025,6,2024-08-16,CS U Craiova,SCM Gloria Buzău,5.0,1.0,1.0
+2024-2025,6,2024-08-17,Botoșani,UTA Arad,1.0,0.0,1.0
+2024-2025,6,2024-08-17,FCSB,Poli Iași,0.0,1.0,0.0
+2024-2025,6,2024-08-18,Rapid București,Dinamo,1.0,1.0,0.5
+2024-2025,6,2024-08-19,Universitatea Cluj,Sepsi,3.0,0.0,1.0
+2024-2025,6,2024-08-19,Farul Constanța,Hermannstadt,3.0,2.0,1.0
+2024-2025,7,2024-08-23,Petrolul Ploiești,Oțelul Galați,0.0,0.0,0.5
+2024-2025,7,2024-08-23,Poli Iași,Rapid București,1.0,2.0,0.0
+2024-2025,7,2024-08-24,Sepsi,Unirea Slobozia,0.0,1.0,0.0
+2024-2025,7,2024-08-24,Dinamo,CS U Craiova,2.0,1.0,1.0
+2024-2025,7,2024-08-25,CFR Cluj,Botoșani,3.0,0.0,1.0
+2024-2025,7,2024-08-25,Hermannstadt,FCSB,2.0,0.0,1.0
+2024-2025,7,2024-08-26,SCM Gloria Buzău,Universitatea Cluj,0.0,2.0,0.0
+2024-2025,7,2024-08-26,UTA Arad,Farul Constanța,1.0,1.0,0.5
+2024-2025,8,2024-08-30,Oțelul Galați,Sepsi,2.0,0.0,1.0
+2024-2025,8,2024-08-31,Hermannstadt,Poli Iași,6.0,2.0,1.0
+2024-2025,8,2024-08-31,CS U Craiova,Rapid București,1.0,1.0,0.5
+2024-2025,8,2024-09-01,Botoșani,Petrolul Ploiești,0.0,2.0,0.0
+2024-2025,8,2024-09-01,Farul Constanța,CFR Cluj,0.0,3.0,0.0
+2024-2025,8,2024-09-01,FCSB,UTA Arad,2.0,0.0,1.0
+2024-2025,8,2024-09-02,Unirea Slobozia,SCM Gloria Buzău,2.0,1.0,1.0
+2024-2025,8,2024-09-02,Universitatea Cluj,Dinamo,1.0,0.0,1.0
+2024-2025,9,2024-09-13,Sepsi,Botoșani,3.0,0.0,1.0
+2024-2025,9,2024-09-13,Dinamo,Unirea Slobozia,1.0,0.0,1.0
+2024-2025,9,2024-09-14,SCM Gloria Buzău,Oțelul Galați,0.0,0.0,0.5
+2024-2025,9,2024-09-14,Petrolul Ploiești,Farul Constanța,1.0,1.0,0.5
+2024-2025,9,2024-09-15,Poli Iași,CS U Craiova,2.0,0.0,1.0
+2024-2025,9,2024-09-15,CFR Cluj,FCSB,2.0,2.0,0.5
+2024-2025,9,2024-09-16,UTA Arad,Hermannstadt,1.0,1.0,0.5
+2024-2025,9,2024-09-16,Rapid București,Universitatea Cluj,0.0,2.0,0.0
+2024-2025,10,2024-09-20,Botoșani,SCM Gloria Buzău,3.0,3.0,0.5
+2024-2025,10,2024-09-20,Oțelul Galați,Dinamo,1.0,1.0,0.5
+2024-2025,10,2024-09-21,Hermannstadt,CFR Cluj,0.0,0.0,0.5
+2024-2025,10,2024-09-21,FCSB,Petrolul Ploiești,1.0,1.0,0.5
+2024-2025,10,2024-09-22,Farul Constanța,Sepsi,2.0,1.0,1.0
+2024-2025,10,2024-09-22,Universitatea Cluj,CS U Craiova,1.0,1.0,0.5
+2024-2025,10,2024-09-23,UTA Arad,Poli Iași,0.0,0.0,0.5
+2024-2025,10,2024-09-23,Unirea Slobozia,Rapid București,1.0,2.0,0.0
+2024-2025,11,2024-09-27,Petrolul Ploiești,Hermannstadt,4.0,1.0,1.0
+2024-2025,11,2024-09-27,Dinamo,Botoșani,2.0,2.0,0.5
+2024-2025,11,2024-09-28,Poli Iași,Universitatea Cluj,1.0,0.0,1.0
+2024-2025,11,2024-09-28,CFR Cluj,UTA Arad,1.0,3.0,0.0
+2024-2025,11,2024-09-28,Rapid București,Oțelul Galați,0.0,0.0,0.5
+2024-2025,11,2024-09-29,SCM Gloria Buzău,Farul Constanța,1.0,0.0,1.0
+2024-2025,11,2024-09-29,Sepsi,FCSB,0.0,1.0,0.0
+2024-2025,11,2024-09-30,CS U Craiova,Unirea Slobozia,3.0,0.0,1.0
+2024-2025,12,2024-10-04,UTA Arad,Petrolul Ploiești,3.0,1.0,1.0
+2024-2025,12,2024-10-04,Farul Constanța,Dinamo,1.0,1.0,0.5
+2024-2025,12,2024-10-05,Unirea Slobozia,Universitatea Cluj,2.0,2.0,0.5
+2024-2025,12,2024-10-05,CFR Cluj,Poli Iași,2.0,1.0,1.0
+2024-2025,12,2024-10-05,Oțelul Galați,CS U Craiova,1.0,1.0,0.5
+2024-2025,12,2024-10-06,Hermannstadt,Sepsi,0.0,4.0,0.0
+2024-2025,12,2024-10-06,Botoșani,Rapid București,2.0,0.0,1.0
+2024-2025,12,2024-10-06,FCSB,SCM Gloria Buzău,3.0,2.0,1.0
+2024-2025,13,2024-10-18,SCM Gloria Buzău,Hermannstadt,3.0,0.0,1.0
+2024-2025,13,2024-10-18,Universitatea Cluj,Oțelul Galați,2.0,0.0,1.0
+2024-2025,13,2024-10-19,Sepsi,UTA Arad,1.0,0.0,1.0
+2024-2025,13,2024-10-19,Petrolul Ploiești,CFR Cluj,0.0,0.0,0.5
+2024-2025,13,2024-10-20,CS U Craiova,Botoșani,0.0,0.0,0.5
+2024-2025,13,2024-10-20,Dinamo,FCSB,0.0,2.0,0.0
+2024-2025,13,2024-10-21,Poli Iași,Unirea Slobozia,1.0,0.0,1.0
+2024-2025,13,2024-10-21,Rapid București,Farul Constanța,5.0,0.0,1.0
+2024-2025,14,2024-10-25,CFR Cluj,Sepsi,3.0,3.0,0.5
+2024-2025,14,2024-10-26,UTA Arad,SCM Gloria Buzău,1.0,0.0,1.0
+2024-2025,14,2024-10-26,Petrolul Ploiești,Poli Iași,3.0,1.0,1.0
+2024-2025,14,2024-10-26,Hermannstadt,Dinamo,0.0,2.0,0.0
+2024-2025,14,2024-10-27,Oțelul Galați,Unirea Slobozia,0.0,2.0,0.0
+2024-2025,14,2024-10-27,FCSB,Rapid București,0.0,0.0,0.5
+2024-2025,14,2024-10-28,Botoșani,Universitatea Cluj,1.0,2.0,0.0
+2024-2025,14,2024-10-28,Farul Constanța,CS U Craiova,3.0,2.0,1.0
+2024-2025,15,2024-11-01,SCM Gloria Buzău,CFR Cluj,0.0,1.0,0.0
+2024-2025,15,2024-11-02,Sepsi,Petrolul Ploiești,1.0,1.0,0.5
+2024-2025,15,2024-11-02,Dinamo,UTA Arad,1.0,0.0,1.0
+2024-2025,15,2024-11-03,Poli Iași,Oțelul Galați,2.0,1.0,1.0
+2024-2025,15,2024-11-03,Universitatea Cluj,Farul Constanța,1.0,1.0,0.5
+2024-2025,15,2024-11-03,CS U Craiova,FCSB,1.0,1.0,0.5
+2024-2025,15,2024-11-04,Unirea Slobozia,Botoșani,1.0,0.0,1.0
+2024-2025,15,2024-11-04,Rapid București,Hermannstadt,1.0,0.0,1.0
+2024-2025,16,2024-11-08,Oțelul Galați,Botoșani,0.0,0.0,0.5
+2024-2025,16,2024-11-08,Dinamo,CFR Cluj,1.0,1.0,0.5
+2024-2025,16,2024-11-09,Poli Iași,Sepsi,1.0,2.0,0.0
+2024-2025,16,2024-11-09,CS U Craiova,Hermannstadt,3.0,1.0,1.0
+2024-2025,16,2024-11-09,Rapid București,UTA Arad,2.0,0.0,1.0
+2024-2025,16,2024-11-10,Unirea Slobozia,Farul Constanța,0.0,1.0,0.0
+2024-2025,16,2024-11-10,Universitatea Cluj,FCSB,1.0,2.0,0.0
+2024-2025,16,2024-11-11,SCM Gloria Buzău,Petrolul Ploiești,0.0,1.0,0.0
+2024-2025,6,2024-11-11,Oțelul Galați,CFR Cluj,0.0,1.0,0.0
+2024-2025,4,2024-11-21,Botoșani,FCSB,1.0,0.0,1.0
+2024-2025,17,2024-11-22,Sepsi,SCM Gloria Buzău,2.0,0.0,1.0
+2024-2025,17,2024-11-22,Farul Constanța,Oțelul Galați,0.0,1.0,0.0
+2024-2025,17,2024-11-23,Hermannstadt,Universitatea Cluj,2.0,1.0,1.0
+2024-2025,17,2024-11-23,CFR Cluj,Rapid București,1.0,1.0,0.5
+2024-2025,17,2024-11-24,FCSB,Unirea Slobozia,3.0,0.0,1.0
+2024-2025,17,2024-11-24,Petrolul Ploiești,Dinamo,0.0,1.0,0.0
+2024-2025,17,2024-11-25,Botoșani,Poli Iași,1.0,1.0,0.5
+2024-2025,17,2024-11-25,UTA Arad,CS U Craiova,1.0,2.0,0.0
+2024-2025,18,2024-11-29,Botoșani,Farul Constanța,0.0,0.0,0.5
+2024-2025,18,2024-11-29,Rapid București,Petrolul Ploiești,1.0,1.0,0.5
+2024-2025,18,2024-11-30,Unirea Slobozia,Hermannstadt,1.0,2.0,0.0
+2024-2025,18,2024-11-30,SCM Gloria Buzău,Poli Iași,2.0,0.0,1.0
+2024-2025,18,2024-11-30,Dinamo,Sepsi,1.0,1.0,0.5
+2024-2025,18,2024-12-01,CS U Craiova,CFR Cluj,0.0,2.0,0.0
+2024-2025,18,2024-12-02,Universitatea Cluj,UTA Arad,0.0,1.0,0.0
+2024-2025,18,2024-12-02,Oțelul Galați,FCSB,1.0,4.0,0.0
+2024-2025,19,2024-12-06,Sepsi,Rapid București,2.0,0.0,1.0
+2024-2025,19,2024-12-07,SCM Gloria Buzău,Dinamo,0.0,1.0,0.0
+2024-2025,19,2024-12-07,Petrolul Ploiești,CS U Craiova,1.0,1.0,0.5
+2024-2025,19,2024-12-08,UTA Arad,Unirea Slobozia,3.0,4.0,0.0
+2024-2025,19,2024-12-08,Poli Iași,Farul Constanța,2.0,2.0,0.5
+2024-2025,19,2024-12-08,FCSB,Botoșani,2.0,1.0,1.0
+2024-2025,19,2024-12-09,Hermannstadt,Oțelul Galați,1.0,0.0,1.0
+2024-2025,19,2024-12-09,Universitatea Cluj,CFR Cluj,3.0,2.0,1.0
+2024-2025,20,2024-12-13,Botoșani,Hermannstadt,1.0,2.0,0.0
+2024-2025,20,2024-12-13,Dinamo,Poli Iași,2.0,0.0,1.0
+2024-2025,20,2024-12-14,Oțelul Galați,UTA Arad,1.0,1.0,0.5
+2024-2025,20,2024-12-14,CS U Craiova,Sepsi,2.0,1.0,1.0
+2024-2025,20,2024-12-14,Universitatea Cluj,Petrolul Ploiești,4.0,1.0,1.0
+2024-2025,20,2024-12-15,Unirea Slobozia,CFR Cluj,1.0,1.0,0.5
+2024-2025,20,2024-12-15,Farul Constanța,FCSB,1.0,1.0,0.5
+2024-2025,20,2024-12-16,Rapid București,SCM Gloria Buzău,2.0,0.0,1.0
+2024-2025,21,2024-12-20,Sepsi,Universitatea Cluj,0.0,0.0,0.5
+2024-2025,21,2024-12-21,Hermannstadt,Farul Constanța,0.0,0.0,0.5
+2024-2025,21,2024-12-21,SCM Gloria Buzău,CS U Craiova,0.0,2.0,0.0
+2024-2025,21,2024-12-22,Petrolul Ploiești,Unirea Slobozia,2.0,1.0,1.0
+2024-2025,21,2024-12-22,CFR Cluj,Oțelul Galați,3.0,2.0,1.0
+2024-2025,21,2024-12-22,Dinamo,Rapid București,0.0,0.0,0.5
+2024-2025,21,2024-12-23,UTA Arad,Botoșani,2.0,0.0,1.0
+2024-2025,21,2024-12-23,Poli Iași,FCSB,0.0,2.0,0.0
+2024-2025,22,2025-01-17,Unirea Slobozia,Sepsi,3.0,2.0,1.0
+2024-2025,22,2025-01-17,FCSB,Hermannstadt,1.0,1.0,0.5
+2024-2025,22,2025-01-18,Universitatea Cluj,SCM Gloria Buzău,2.0,1.0,1.0
+2024-2025,22,2025-01-18,Oțelul Galați,Petrolul Ploiești,0.0,0.0,0.5
+2024-2025,22,2025-01-19,Botoșani,CFR Cluj,1.0,1.0,0.5
+2024-2025,22,2025-01-19,CS U Craiova,Dinamo,1.0,1.0,0.5
+2024-2025,22,2025-01-20,Farul Constanța,UTA Arad,1.0,1.0,0.5
+2024-2025,22,2025-01-20,Rapid București,Poli Iași,2.0,1.0,1.0
+2024-2025,23,2025-01-24,SCM Gloria Buzău,Unirea Slobozia,3.0,0.0,1.0
+2024-2025,23,2025-01-24,Dinamo,Universitatea Cluj,0.0,0.0,0.5
+2024-2025,23,2025-01-25,Poli Iași,Hermannstadt,0.0,2.0,0.0
+2024-2025,23,2025-01-25,Rapid București,CS U Craiova,1.0,0.0,1.0
+2024-2025,23,2025-01-26,Sepsi,Oțelul Galați,2.0,0.0,1.0
+2024-2025,23,2025-01-26,UTA Arad,FCSB,0.0,1.0,0.0
+2024-2025,23,2025-01-27,Petrolul Ploiești,Botoșani,3.0,1.0,1.0
+2024-2025,23,2025-01-27,CFR Cluj,Farul Constanța,3.0,1.0,1.0
+2024-2025,24,2025-01-31,Hermannstadt,UTA Arad,0.0,0.0,0.5
+2024-2025,24,2025-01-31,Unirea Slobozia,Dinamo,1.0,3.0,0.0
+2024-2025,24,2025-02-01,Botoșani,Sepsi,0.0,0.0,0.5
+2024-2025,24,2025-02-01,Oțelul Galați,SCM Gloria Buzău,2.0,1.0,1.0
+2024-2025,24,2025-02-01,Universitatea Cluj,Rapid București,2.0,1.0,1.0
+2024-2025,24,2025-02-02,CS U Craiova,Poli Iași,4.0,1.0,1.0
+2024-2025,24,2025-02-02,FCSB,CFR Cluj,1.0,1.0,0.5
+2024-2025,24,2025-02-03,Farul Constanța,Petrolul Ploiești,2.0,1.0,1.0
+2024-2025,25,2025-02-04,SCM Gloria Buzău,Botoșani,0.0,2.0,0.0
+2024-2025,25,2025-02-04,Rapid București,Unirea Slobozia,2.0,1.0,1.0
+2024-2025,25,2025-02-04,Dinamo,Oțelul Galați,1.0,0.0,1.0
+2024-2025,25,2025-02-05,CFR Cluj,Hermannstadt,1.0,0.0,1.0
+2024-2025,25,2025-02-05,CS U Craiova,Universitatea Cluj,1.0,0.0,1.0
+2024-2025,25,2025-02-06,Poli Iași,UTA Arad,0.0,1.0,0.0
+2024-2025,25,2025-02-06,Sepsi,Farul Constanța,1.0,0.0,1.0
+2024-2025,25,2025-02-06,Petrolul Ploiești,FCSB,0.0,0.0,0.5
+2024-2025,26,2025-02-07,Botoșani,Dinamo,1.0,1.0,0.5
+2024-2025,26,2025-02-08,Unirea Slobozia,CS U Craiova,0.0,1.0,0.0
+2024-2025,26,2025-02-08,Oțelul Galați,Rapid București,1.0,1.0,0.5
+2024-2025,26,2025-02-09,Hermannstadt,Petrolul Ploiești,1.0,1.0,0.5
+2024-2025,26,2025-02-09,Universitatea Cluj,Poli Iași,2.0,2.0,0.5
+2024-2025,26,2025-02-09,FCSB,Sepsi,3.0,0.0,1.0
+2024-2025,26,2025-02-10,Farul Constanța,SCM Gloria Buzău,1.0,0.0,1.0
+2024-2025,26,2025-02-10,UTA Arad,CFR Cluj,1.0,4.0,0.0
+2024-2025,27,2025-02-14,Sepsi,Hermannstadt,2.0,3.0,0.0
+2024-2025,27,2025-02-14,CS U Craiova,Oțelul Galați,2.0,1.0,1.0
+2024-2025,27,2025-02-15,Petrolul Ploiești,UTA Arad,0.0,1.0,0.0
+2024-2025,27,2025-02-15,Dinamo,Farul Constanța,0.0,2.0,0.0
+2024-2025,27,2025-02-16,Poli Iași,CFR Cluj,1.0,1.0,0.5
+2024-2025,27,2025-02-16,SCM Gloria Buzău,FCSB,0.0,2.0,0.0
+2024-2025,27,2025-02-17,Universitatea Cluj,Unirea Slobozia,3.0,2.0,1.0
+2024-2025,27,2025-02-17,Rapid București,Botoșani,1.0,0.0,1.0
+2024-2025,28,2025-02-21,Hermannstadt,SCM Gloria Buzău,2.0,1.0,1.0
+2024-2025,28,2025-02-21,Oțelul Galați,Universitatea Cluj,0.0,1.0,0.0
+2024-2025,28,2025-02-22,Botoșani,CS U Craiova,,,0.5
+2024-2025,28,2025-02-22,CFR Cluj,Petrolul Ploiești,,,0.5
+2024-2025,28,2025-02-23,Unirea Slobozia,Poli Iași,,,0.5
+2024-2025,28,2025-02-23,FCSB,Dinamo,,,0.5
+2024-2025,28,2025-02-24,UTA Arad,Sepsi,,,0.5
+2024-2025,28,2025-02-24,Farul Constanța,Rapid București,,,0.5
+2024-2025,29,2025-02-28,Unirea Slobozia,Oțelul Galați,,,0.5
+2024-2025,29,2025-02-28,Sepsi,CFR Cluj,,,0.5
+2024-2025,29,2025-03-01,Universitatea Cluj,Botoșani,,,0.5
+2024-2025,29,2025-03-01,CS U Craiova,Farul Constanța,,,0.5
+2024-2025,29,2025-03-02,Poli Iași,Petrolul Ploiești,,,0.5
+2024-2025,29,2025-03-02,Rapid București,FCSB,,,0.5
+2024-2025,29,2025-03-03,SCM Gloria Buzău,UTA Arad,,,0.5
+2024-2025,29,2025-03-03,Dinamo,Hermannstadt,,,0.5
+2024-2025,30,2025-03-08,Petrolul Ploiești,Sepsi,,,0.5
+2024-2025,30,2025-03-08,UTA Arad,Dinamo,,,0.5
+2024-2025,30,2025-03-08,Hermannstadt,Rapid București,,,0.5
+2024-2025,30,2025-03-08,Oțelul Galați,Poli Iași,,,0.5
+2024-2025,30,2025-03-08,Farul Constanța,Universitatea Cluj,,,0.5
+2024-2025,30,2025-03-08,CFR Cluj,SCM Gloria Buzău,,,0.5
+2024-2025,30,2025-03-08,FCSB,CS U Craiova,,,0.5
+2024-2025,30,2025-03-08,Botoșani,Unirea Slobozia,,,0.5

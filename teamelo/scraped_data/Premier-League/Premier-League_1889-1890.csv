@@ -1,0 +1,133 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1889-1890,1,1889-09-07,Wolves,Notts County,2,0,1.0
+1889-1890,1,1889-09-07,Stoke,Derby County,1,1,0.5
+1889-1890,1,1889-09-07,Everton,Blackburn,3,2,1.0
+1889-1890,1,1889-09-07,Aston Villa,Burnley,2,2,0.5
+1889-1890,1,1889-09-14,Bolton,Accrington,2,4,0.0
+1889-1890,1,1889-09-14,Preston,Stoke,10,0,1.0
+1889-1890,2,1889-09-14,Derby County,West Brom,3,1,1.0
+1889-1890,2,1889-09-14,Blackburn,Wolves,4,3,1.0
+1889-1890,2,1889-09-14,Everton,Burnley,2,1,1.0
+1889-1890,2,1889-09-14,Aston Villa,Notts County,1,1,0.5
+1889-1890,3,1889-09-16,Wolves,Everton,2,1,1.0
+1889-1890,2,1889-09-21,Aston Villa,Preston,5,3,1.0
+1889-1890,3,1889-09-21,Notts County,West Brom,1,2,0.0
+1889-1890,3,1889-09-21,Blackburn,Derby County,4,2,1.0
+1889-1890,3,1889-09-21,Burnley,Accrington,2,2,0.5
+1889-1890,4,1889-09-21,Bolton,Everton,3,4,0.0
+1889-1890,3,1889-09-28,Burnley,Preston,0,3,0.0
+1889-1890,4,1889-09-28,Accrington,Blackburn,2,2,0.5
+1889-1890,4,1889-09-28,West Brom,Aston Villa,3,0,1.0
+1889-1890,4,1889-09-28,Derby County,Notts County,2,0,1.0
+1889-1890,4,1889-09-28,Stoke,Wolves,2,1,1.0
+1889-1890,5,1889-09-28,Everton,Bolton,3,0,1.0
+1889-1890,5,1889-09-30,Everton,Wolves,1,1,0.5
+1889-1890,4,1889-10-05,Preston,West Brom,5,0,1.0
+1889-1890,5,1889-10-05,Notts County,Stoke,3,1,1.0
+1889-1890,5,1889-10-05,Burnley,Aston Villa,2,6,0.0
+1889-1890,6,1889-10-05,Wolves,Accrington,2,1,1.0
+1889-1890,7,1889-10-05,Derby County,Everton,2,2,0.5
+1889-1890,5,1889-10-12,Bolton,Preston,2,6,0.0
+1889-1890,6,1889-10-12,Aston Villa,Derby County,7,1,1.0
+1889-1890,6,1889-10-12,Burnley,West Brom,1,2,0.0
+1889-1890,6,1889-10-12,Accrington,Notts County,1,8,0.0
+1889-1890,7,1889-10-12,Wolves,Stoke,2,2,0.5
+1889-1890,5,1889-10-19,Stoke,Bolton,0,1,0.0
+1889-1890,6,1889-10-19,Derby County,Preston,2,1,1.0
+1889-1890,7,1889-10-19,Blackburn,Aston Villa,7,0,1.0
+1889-1890,7,1889-10-19,Accrington,Burnley,2,2,0.5
+1889-1890,8,1889-10-19,West Brom,Wolves,1,4,0.0
+1889-1890,8,1889-10-19,Notts County,Everton,4,3,1.0
+1889-1890,6,1889-10-26,Blackburn,Burnley,7,1,1.0
+1889-1890,6,1889-10-26,Bolton,Notts County,0,4,0.0
+1889-1890,7,1889-10-26,Preston,Wolves,0,2,0.0
+1889-1890,8,1889-10-26,Derby County,Stoke,2,0,1.0
+1889-1890,8,1889-10-26,Aston Villa,West Brom,1,0,1.0
+1889-1890,9,1889-10-26,Everton,Accrington,2,2,0.5
+1889-1890,8,1889-11-02,Blackburn,Preston,3,4,0.0
+1889-1890,9,1889-11-02,Notts County,Burnley,1,1,0.5
+1889-1890,10,1889-11-02,Aston Villa,Wolves,2,1,1.0
+1889-1890,10,1889-11-02,Everton,Stoke,8,0,1.0
+1889-1890,7,1889-11-04,West Brom,Bolton,6,3,1.0
+1889-1890,8,1889-11-09,Bolton,Blackburn,3,2,1.0
+1889-1890,9,1889-11-09,West Brom,Derby County,2,3,0.0
+1889-1890,9,1889-11-09,Preston,Accrington,3,1,1.0
+1889-1890,10,1889-11-09,Notts County,Aston Villa,1,1,0.5
+1889-1890,11,1889-11-09,Stoke,Everton,1,2,0.0
+1889-1890,11,1889-11-09,Burnley,Wolves,1,2,0.0
+1889-1890,10,1889-11-11,Stoke,Preston,1,2,0.0
+1889-1890,9,1889-11-16,Blackburn,Notts County,9,1,1.0
+1889-1890,10,1889-11-16,Accrington,Derby County,6,1,1.0
+1889-1890,11,1889-11-16,Everton,Preston,1,5,0.0
+1889-1890,11,1889-11-16,Bolton,Aston Villa,2,0,1.0
+1889-1890,11,1889-11-16,Stoke,West Brom,1,3,0.0
+1889-1890,10,1889-11-23,Blackburn,Accrington,3,2,1.0
+1889-1890,11,1889-11-23,West Brom,Burnley,6,1,1.0
+1889-1890,12,1889-11-23,Preston,Bolton,3,1,1.0
+1889-1890,12,1889-11-23,Aston Villa,Everton,1,2,0.0
+1889-1890,12,1889-11-23,Derby County,Wolves,3,3,0.5
+1889-1890,11,1889-11-30,Blackburn,West Brom,5,0,1.0
+1889-1890,11,1889-11-30,Bolton,Derby County,7,1,1.0
+1889-1890,13,1889-11-30,Preston,Burnley,6,0,1.0
+1889-1890,13,1889-11-30,Accrington,Aston Villa,4,2,1.0
+1889-1890,12,1889-12-07,Bolton,West Brom,7,0,1.0
+1889-1890,13,1889-12-07,Wolves,Burnley,9,1,1.0
+1889-1890,14,1889-12-07,Aston Villa,Stoke,6,1,1.0
+1889-1890,14,1889-12-07,Preston,Blackburn,1,1,0.5
+1889-1890,14,1889-12-07,Everton,Notts County,5,3,1.0
+1889-1890,14,1889-12-14,Notts County,Wolves,0,2,0.0
+1889-1890,12,1889-12-21,West Brom,Accrington,4,1,1.0
+1889-1890,13,1889-12-21,Blackburn,Bolton,7,1,1.0
+1889-1890,13,1889-12-21,Notts County,Derby County,3,1,1.0
+1889-1890,15,1889-12-21,Wolves,Aston Villa,1,1,0.5
+1889-1890,15,1889-12-21,Preston,Everton,1,2,0.0
+1889-1890,14,1889-12-23,Stoke,Blackburn,0,3,0.0
+1889-1890,16,1889-12-25,Preston,Aston Villa,3,2,1.0
+1889-1890,14,1889-12-26,Derby County,Bolton,3,2,1.0
+1889-1890,16,1889-12-26,Wolves,Blackburn,2,4,0.0
+1889-1890,17,1889-12-26,West Brom,Preston,2,2,0.5
+1889-1890,17,1889-12-26,Aston Villa,Accrington,1,2,0.0
+1889-1890,14,1889-12-28,Accrington,Stoke,2,1,1.0
+1889-1890,16,1889-12-28,Blackburn,Everton,2,4,0.0
+1889-1890,17,1889-12-28,Wolves,West Brom,1,1,0.5
+1889-1890,18,1889-12-28,Derby County,Aston Villa,5,0,1.0
+1889-1890,18,1890-01-01,Accrington,Wolves,6,3,1.0
+1889-1890,18,1890-01-03,Stoke,Accrington,7,1,1.0
+1889-1890,15,1890-01-04,Accrington,Bolton,3,1,1.0
+1889-1890,15,1890-01-04,West Brom,Notts County,4,2,1.0
+1889-1890,16,1890-01-04,Derby County,Burnley,4,1,1.0
+1889-1890,17,1890-01-04,Blackburn,Stoke,8,0,1.0
+1889-1890,18,1890-01-04,Wolves,Preston,0,1,0.0
+1889-1890,15,1890-01-11,Burnley,Stoke,1,3,0.0
+1889-1890,16,1890-01-11,Notts County,Bolton,3,5,0.0
+1889-1890,18,1890-01-11,West Brom,Blackburn,3,2,1.0
+1889-1890,19,1890-01-11,Preston,Derby County,5,0,1.0
+1889-1890,20,1890-01-25,Aston Villa,Bolton,1,2,0.0
+1889-1890,20,1890-01-25,Wolves,Derby County,2,1,1.0
+1889-1890,19,1890-02-01,Derby County,Blackburn,4,0,1.0
+1889-1890,17,1890-02-08,Accrington,West Brom,0,0,0.5
+1889-1890,18,1890-02-08,Burnley,Everton,0,1,0.0
+1889-1890,18,1890-02-08,Bolton,Stoke,5,0,1.0
+1889-1890,20,1890-02-15,Derby County,Accrington,2,3,0.0
+1889-1890,20,1890-02-18,Notts County,Blackburn,1,1,0.5
+1889-1890,19,1890-02-22,Accrington,Everton,5,3,1.0
+1889-1890,21,1890-02-22,Burnley,Blackburn,1,2,0.0
+1889-1890,21,1890-02-24,Bolton,Wolves,4,1,1.0
+1889-1890,20,1890-03-01,Preston,Notts County,4,3,1.0
+1889-1890,20,1890-03-01,Burnley,Bolton,7,0,1.0
+1889-1890,20,1890-03-08,Everton,West Brom,5,1,1.0
+1889-1890,21,1890-03-08,Burnley,Derby County,2,0,1.0
+1889-1890,20,1890-03-10,Stoke,Burnley,3,4,0.0
+1889-1890,19,1890-03-13,Notts County,Accrington,3,1,1.0
+1889-1890,20,1890-03-15,West Brom,Stoke,2,1,1.0
+1889-1890,21,1890-03-15,Accrington,Preston,2,2,0.5
+1889-1890,21,1890-03-15,Burnley,Notts County,3,0,1.0
+1889-1890,21,1890-03-15,Everton,Derby County,3,0,1.0
+1889-1890,22,1890-03-15,Wolves,Bolton,5,1,1.0
+1889-1890,21,1890-03-17,Stoke,Aston Villa,1,1,0.5
+1889-1890,22,1890-03-17,Bolton,Burnley,2,2,0.5
+1889-1890,22,1890-03-22,West Brom,Everton,4,1,1.0
+1889-1890,21,1890-03-24,Stoke,Notts County,1,1,0.5
+1889-1890,22,1890-03-27,Notts County,Preston,0,1,0.0
+1889-1890,22,1890-03-31,Aston Villa,Blackburn,3,0,1.0
+1889-1890,19,1890-04-01,Everton,Aston Villa,7,0,1.0

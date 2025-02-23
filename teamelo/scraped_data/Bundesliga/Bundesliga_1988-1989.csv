@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1988-1989,1,1988-07-22,Mannheim,Leverkusen,1,1,0.5
+1988-1989,1,1988-07-22,Dortmund,Stuttgart,1,2,0.0
+1988-1989,1,1988-07-23,St Pauli,Nürnberg,0,1,0.0
+1988-1989,1,1988-07-23,S'gart Kickers,Bochum,1,2,0.0
+1988-1989,1,1988-07-23,Köln,Uerdingen,1,1,0.5
+1988-1989,1,1988-07-23,Werder Bremen,Hamburger SV,2,1,1.0
+1988-1989,1,1988-07-23,Hannover 96,Karlsruher,2,3,0.0
+1988-1989,1,1988-07-23,Bayern Munich,Eint Frankfurt,3,0,1.0
+1988-1989,1,1988-07-23,Gladbach,Kaiserslautern,4,1,1.0
+1988-1989,2,1988-07-29,Hamburger SV,Dortmund,0,0,0.5
+1988-1989,2,1988-07-29,Stuttgart,Hannover 96,2,1,1.0
+1988-1989,2,1988-07-30,Nürnberg,Köln,0,2,0.0
+1988-1989,2,1988-07-30,Eint Frankfurt,S'gart Kickers,1,2,0.0
+1988-1989,2,1988-07-30,Kaiserslautern,Werder Bremen,0,0,0.5
+1988-1989,2,1988-07-30,Leverkusen,Gladbach,3,1,1.0
+1988-1989,2,1988-07-30,Uerdingen,Mannheim,0,0,0.5
+1988-1989,2,1988-07-30,Bochum,St Pauli,0,0,0.5
+1988-1989,2,1988-07-30,Karlsruher,Bayern Munich,2,2,0.5
+1988-1989,3,1988-08-12,Dortmund,Kaiserslautern,1,1,0.5
+1988-1989,3,1988-08-13,S'gart Kickers,Karlsruher,1,3,0.0
+1988-1989,3,1988-08-13,Uerdingen,Nürnberg,3,2,1.0
+1988-1989,3,1988-08-13,St Pauli,Eint Frankfurt,2,0,1.0
+1988-1989,3,1988-08-13,Werder Bremen,Leverkusen,3,1,1.0
+1988-1989,3,1988-08-13,Mannheim,Gladbach,4,1,1.0
+1988-1989,3,1988-08-13,Hannover 96,Hamburger SV,2,3,0.0
+1988-1989,3,1988-08-16,Köln,Bochum,1,0,1.0
+1988-1989,4,1988-08-19,Karlsruher,St Pauli,3,1,1.0
+1988-1989,4,1988-08-19,Eint Frankfurt,Köln,1,0,1.0
+1988-1989,4,1988-08-20,Leverkusen,Dortmund,2,0,1.0
+1988-1989,4,1988-08-20,Hamburger SV,Bayern Munich,0,1,0.0
+1988-1989,4,1988-08-20,Nürnberg,Mannheim,1,0,1.0
+1988-1989,4,1988-08-20,Kaiserslautern,Hannover 96,0,0,0.5
+1988-1989,4,1988-08-20,Stuttgart,S'gart Kickers,4,0,1.0
+1988-1989,4,1988-08-20,Bochum,Uerdingen,1,1,0.5
+1988-1989,4,1988-08-20,Gladbach,Werder Bremen,4,1,1.0
+1988-1989,5,1988-08-26,Uerdingen,Eint Frankfurt,4,1,1.0
+1988-1989,5,1988-08-26,St Pauli,Stuttgart,2,1,1.0
+1988-1989,5,1988-08-27,Dortmund,Gladbach,0,0,0.5
+1988-1989,5,1988-08-27,S'gart Kickers,Hamburger SV,2,0,1.0
+1988-1989,5,1988-08-27,Nürnberg,Bochum,3,1,1.0
+1988-1989,5,1988-08-27,Bayern Munich,Kaiserslautern,5,1,1.0
+1988-1989,5,1988-08-27,Köln,Karlsruher,6,1,1.0
+1988-1989,5,1988-08-27,Hannover 96,Leverkusen,2,2,0.5
+1988-1989,5,1988-08-27,Mannheim,Werder Bremen,1,1,0.5
+1988-1989,6,1988-09-02,Gladbach,Hannover 96,2,0,1.0
+1988-1989,6,1988-09-03,Karlsruher,Uerdingen,0,1,0.0
+1988-1989,6,1988-09-03,Hamburger SV,St Pauli,1,1,0.5
+1988-1989,6,1988-09-03,Bochum,Mannheim,2,2,0.5
+1988-1989,6,1988-09-03,Leverkusen,Bayern Munich,1,1,0.5
+1988-1989,6,1988-09-03,Eint Frankfurt,Nürnberg,1,0,1.0
+1988-1989,6,1988-09-03,Stuttgart,Köln,2,0,1.0
+1988-1989,6,1988-09-03,Kaiserslautern,S'gart Kickers,6,0,1.0
+1988-1989,7,1988-09-09,St Pauli,Kaiserslautern,1,1,0.5
+1988-1989,7,1988-09-10,Köln,Hamburger SV,1,2,0.0
+1988-1989,7,1988-09-10,Nürnberg,Karlsruher,1,3,0.0
+1988-1989,7,1988-09-10,Hannover 96,Werder Bremen,2,2,0.5
+1988-1989,7,1988-09-10,S'gart Kickers,Leverkusen,1,3,0.0
+1988-1989,7,1988-09-10,Bayern Munich,Gladbach,3,0,1.0
+1988-1989,7,1988-09-10,Mannheim,Dortmund,0,3,0.0
+1988-1989,7,1988-09-10,Bochum,Eint Frankfurt,1,0,1.0
+1988-1989,7,1988-09-10,Uerdingen,Stuttgart,0,0,0.5
+1988-1989,8,1988-09-13,Eint Frankfurt,Mannheim,0,0,0.5
+1988-1989,8,1988-09-13,Dortmund,Hannover 96,4,0,1.0
+1988-1989,8,1988-09-13,Leverkusen,St Pauli,2,2,0.5
+1988-1989,8,1988-09-13,Karlsruher,Bochum,1,3,0.0
+1988-1989,8,1988-09-13,Hamburger SV,Uerdingen,3,0,1.0
+1988-1989,8,1988-09-13,Werder Bremen,Bayern Munich,2,2,0.5
+1988-1989,8,1988-09-13,Stuttgart,Nürnberg,4,0,1.0
+1988-1989,8,1988-09-13,Kaiserslautern,Köln,1,1,0.5
+1988-1989,8,1988-09-13,Gladbach,S'gart Kickers,1,1,0.5
+1988-1989,9,1988-10-03,Nürnberg,Hamburger SV,1,4,0.0
+1988-1989,10,1988-10-07,Dortmund,S'gart Kickers,1,1,0.5
+1988-1989,10,1988-10-08,Gladbach,Köln,1,0,1.0
+1988-1989,10,1988-10-08,Leverkusen,Uerdingen,2,2,0.5
+1988-1989,10,1988-10-08,Kaiserslautern,Nürnberg,2,1,1.0
+1988-1989,10,1988-10-08,Hamburger SV,Bochum,3,1,1.0
+1988-1989,10,1988-10-08,Hannover 96,Bayern Munich,0,0,0.5
+1988-1989,10,1988-10-08,Werder Bremen,St Pauli,0,0,0.5
+1988-1989,10,1988-10-08,Karlsruher,Mannheim,2,1,1.0
+1988-1989,10,1988-10-08,Stuttgart,Eint Frankfurt,2,0,1.0
+1988-1989,9,1988-10-12,Bayern Munich,Dortmund,1,1,0.5
+1988-1989,9,1988-10-15,St Pauli,Gladbach,1,1,0.5
+1988-1989,11,1988-10-21,S'gart Kickers,Hannover 96,0,1,0.0
+1988-1989,11,1988-10-22,Nürnberg,Leverkusen,1,1,0.5
+1988-1989,11,1988-10-22,Uerdingen,Gladbach,0,0,0.5
+1988-1989,11,1988-10-22,Mannheim,Bayern Munich,0,3,0.0
+1988-1989,11,1988-10-22,Eint Frankfurt,Hamburger SV,0,1,0.0
+1988-1989,11,1988-10-22,Karlsruher,Stuttgart,2,0,1.0
+1988-1989,11,1988-10-22,Bochum,Kaiserslautern,2,0,1.0
+1988-1989,11,1988-10-22,Köln,Werder Bremen,2,0,1.0
+1988-1989,11,1988-10-22,St Pauli,Dortmund,1,0,1.0
+1988-1989,12,1988-10-27,Leverkusen,Bochum,1,1,0.5
+1988-1989,12,1988-10-29,Dortmund,Köln,0,4,0.0
+1988-1989,12,1988-10-29,Bayern Munich,S'gart Kickers,3,0,1.0
+1988-1989,12,1988-10-29,Hamburger SV,Karlsruher,1,1,0.5
+1988-1989,12,1988-10-29,Kaiserslautern,Eint Frankfurt,3,0,1.0
+1988-1989,12,1988-10-29,Gladbach,Nürnberg,1,1,0.5
+1988-1989,12,1988-10-29,Stuttgart,Mannheim,2,0,1.0
+1988-1989,12,1988-10-29,Hannover 96,St Pauli,2,2,0.5
+1988-1989,12,1988-10-29,Werder Bremen,Uerdingen,3,1,1.0
+1988-1989,9,1988-11-01,Bochum,Stuttgart,1,0,1.0
+1988-1989,13,1988-11-04,Bochum,Gladbach,1,2,0.0
+1988-1989,13,1988-11-05,Karlsruher,Kaiserslautern,4,1,1.0
+1988-1989,13,1988-11-05,Köln,Hannover 96,1,0,1.0
+1988-1989,13,1988-11-05,Nürnberg,Werder Bremen,0,1,0.0
+1988-1989,13,1988-11-05,Stuttgart,Hamburger SV,4,2,1.0
+1988-1989,13,1988-11-05,Eint Frankfurt,Leverkusen,1,1,0.5
+1988-1989,13,1988-11-05,Uerdingen,Dortmund,0,0,0.5
+1988-1989,13,1988-11-05,St Pauli,Bayern Munich,0,0,0.5
+1988-1989,13,1988-11-05,Mannheim,S'gart Kickers,2,2,0.5
+1988-1989,14,1988-11-12,Bayern Munich,Köln,2,0,1.0
+1988-1989,14,1988-11-12,Gladbach,Eint Frankfurt,2,1,1.0
+1988-1989,14,1988-11-12,Dortmund,Nürnberg,4,0,1.0
+1988-1989,14,1988-11-12,Werder Bremen,Bochum,2,0,1.0
+1988-1989,14,1988-11-12,Kaiserslautern,Stuttgart,6,1,1.0
+1988-1989,14,1988-11-12,S'gart Kickers,St Pauli,2,2,0.5
+1988-1989,14,1988-11-12,Hannover 96,Uerdingen,0,5,0.0
+1988-1989,14,1988-11-12,Leverkusen,Karlsruher,1,0,1.0
+1988-1989,14,1988-11-12,Hamburger SV,Mannheim,5,1,1.0
+1988-1989,3,1988-11-15,Bayern Munich,Stuttgart,3,3,0.5
+1988-1989,9,1988-11-16,Mannheim,Hannover 96,1,1,0.5
+1988-1989,9,1988-11-16,S'gart Kickers,Werder Bremen,0,6,0.0
+1988-1989,9,1988-11-16,Uerdingen,Kaiserslautern,3,1,1.0
+1988-1989,9,1988-11-16,Eint Frankfurt,Karlsruher,1,0,1.0
+1988-1989,9,1988-11-16,Köln,Leverkusen,3,0,1.0
+1988-1989,15,1988-11-19,Stuttgart,Leverkusen,0,0,0.5
+1988-1989,15,1988-11-19,Eint Frankfurt,Werder Bremen,0,0,0.5
+1988-1989,15,1988-11-19,Nürnberg,Hannover 96,1,0,1.0
+1988-1989,15,1988-11-19,Bochum,Dortmund,2,2,0.5
+1988-1989,15,1988-11-19,Kaiserslautern,Hamburger SV,0,0,0.5
+1988-1989,15,1988-11-19,Köln,S'gart Kickers,5,1,1.0
+1988-1989,15,1988-11-19,Uerdingen,Bayern Munich,1,3,0.0
+1988-1989,15,1988-11-19,St Pauli,Mannheim,2,1,1.0
+1988-1989,16,1988-11-25,Werder Bremen,Karlsruher,3,1,1.0
+1988-1989,16,1988-11-26,Hannover 96,Bochum,3,2,1.0
+1988-1989,16,1988-11-26,S'gart Kickers,Uerdingen,3,1,1.0
+1988-1989,16,1988-11-26,Leverkusen,Hamburger SV,1,2,0.0
+1988-1989,16,1988-11-26,Gladbach,Stuttgart,2,2,0.5
+1988-1989,16,1988-11-26,St Pauli,Köln,0,1,0.0
+1988-1989,16,1988-11-26,Bayern Munich,Nürnberg,1,0,1.0
+1988-1989,16,1988-11-26,Dortmund,Eint Frankfurt,6,0,1.0
+1988-1989,16,1988-11-27,Mannheim,Kaiserslautern,0,4,0.0
+1988-1989,6,1988-11-29,Werder Bremen,Dortmund,2,0,1.0
+1988-1989,17,1988-12-02,Köln,Mannheim,1,0,1.0
+1988-1989,17,1988-12-02,Kaiserslautern,Leverkusen,0,0,0.5
+1988-1989,17,1988-12-03,Karlsruher,Dortmund,0,0,0.5
+1988-1989,17,1988-12-03,Nürnberg,S'gart Kickers,3,3,0.5
+1988-1989,17,1988-12-03,Uerdingen,St Pauli,0,0,0.5
+1988-1989,17,1988-12-03,Bochum,Bayern Munich,0,0,0.5
+1988-1989,17,1988-12-03,Stuttgart,Werder Bremen,3,3,0.5
+1988-1989,17,1988-12-03,Eint Frankfurt,Hannover 96,1,0,1.0
+1988-1989,18,1989-02-18,Eint Frankfurt,Bayern Munich,2,2,0.5
+1988-1989,18,1989-02-18,Karlsruher,Hannover 96,2,0,1.0
+1988-1989,18,1989-02-18,Uerdingen,Köln,1,1,0.5
+1988-1989,18,1989-02-18,Kaiserslautern,Gladbach,0,0,0.5
+1988-1989,18,1989-02-18,Leverkusen,Mannheim,3,0,1.0
+1988-1989,18,1989-02-18,Stuttgart,Dortmund,1,3,0.0
+1988-1989,18,1989-02-18,Nürnberg,St Pauli,5,3,1.0
+1988-1989,18,1989-02-18,Hamburger SV,Werder Bremen,2,0,1.0
+1988-1989,15,1989-02-22,Karlsruher,Gladbach,2,2,0.5
+1988-1989,19,1989-02-25,Dortmund,Hamburger SV,2,2,0.5
+1988-1989,19,1989-02-25,Gladbach,Leverkusen,2,0,1.0
+1988-1989,19,1989-02-25,Bayern Munich,Karlsruher,3,2,1.0
+1988-1989,19,1989-02-25,Mannheim,Uerdingen,3,3,0.5
+1988-1989,19,1989-02-25,Werder Bremen,Kaiserslautern,1,0,1.0
+1988-1989,19,1989-02-25,Hannover 96,Stuttgart,2,0,1.0
+1988-1989,19,1989-02-25,Köln,Nürnberg,1,1,0.5
+1988-1989,19,1989-02-25,St Pauli,Bochum,1,0,1.0
+1988-1989,19,1989-02-25,S'gart Kickers,Eint Frankfurt,0,1,0.0
+1988-1989,20,1989-03-04,Eint Frankfurt,St Pauli,1,1,0.5
+1988-1989,20,1989-03-04,Gladbach,Mannheim,1,1,0.5
+1988-1989,20,1989-03-04,Kaiserslautern,Dortmund,3,2,1.0
+1988-1989,20,1989-03-04,Karlsruher,S'gart Kickers,1,0,1.0
+1988-1989,20,1989-03-04,Bochum,Köln,1,3,0.0
+1988-1989,20,1989-03-04,Stuttgart,Bayern Munich,1,2,0.0
+1988-1989,20,1989-03-04,Leverkusen,Werder Bremen,1,0,1.0
+1988-1989,20,1989-03-04,Nürnberg,Uerdingen,1,0,1.0
+1988-1989,20,1989-03-04,Hamburger SV,Hannover 96,4,1,1.0
+1988-1989,21,1989-03-10,Hannover 96,Kaiserslautern,0,0,0.5
+1988-1989,21,1989-03-10,Werder Bremen,Gladbach,2,0,1.0
+1988-1989,21,1989-03-11,Bayern Munich,Hamburger SV,1,0,1.0
+1988-1989,21,1989-03-11,Köln,Eint Frankfurt,3,2,1.0
+1988-1989,21,1989-03-11,Dortmund,Leverkusen,2,1,1.0
+1988-1989,21,1989-03-11,S'gart Kickers,Stuttgart,0,2,0.0
+1988-1989,21,1989-03-11,Mannheim,Nürnberg,2,1,1.0
+1988-1989,21,1989-03-11,St Pauli,Karlsruher,1,0,1.0
+1988-1989,21,1989-03-11,Uerdingen,Bochum,3,1,1.0
+1988-1989,22,1989-03-17,Hamburger SV,S'gart Kickers,3,0,1.0
+1988-1989,22,1989-03-18,Eint Frankfurt,Uerdingen,0,2,0.0
+1988-1989,22,1989-03-18,Werder Bremen,Mannheim,2,1,1.0
+1988-1989,22,1989-03-18,Gladbach,Dortmund,1,1,0.5
+1988-1989,22,1989-03-18,Karlsruher,Köln,0,0,0.5
+1988-1989,22,1989-03-18,Leverkusen,Hannover 96,3,1,1.0
+1988-1989,22,1989-03-18,Bochum,Nürnberg,1,0,1.0
+1988-1989,22,1989-03-18,Kaiserslautern,Bayern Munich,1,1,0.5
+1988-1989,22,1989-03-19,Stuttgart,St Pauli,2,1,1.0
+1988-1989,18,1989-03-21,Bochum,S'gart Kickers,2,1,1.0
+1988-1989,23,1989-03-23,St Pauli,Hamburger SV,1,2,0.0
+1988-1989,23,1989-03-25,Hannover 96,Gladbach,0,1,0.0
+1988-1989,23,1989-03-25,Dortmund,Werder Bremen,3,1,1.0
+1988-1989,23,1989-03-25,Uerdingen,Karlsruher,0,3,0.0
+1988-1989,23,1989-03-25,S'gart Kickers,Kaiserslautern,2,0,1.0
+1988-1989,23,1989-03-25,Mannheim,Bochum,2,2,0.5
+1988-1989,23,1989-03-25,Köln,Stuttgart,3,0,1.0
+1988-1989,23,1989-03-25,Nürnberg,Eint Frankfurt,1,1,0.5
+1988-1989,23,1989-03-25,Bayern Munich,Leverkusen,2,0,1.0
+1988-1989,24,1989-03-31,Eint Frankfurt,Bochum,1,1,0.5
+1988-1989,24,1989-04-01,Hamburger SV,Köln,0,1,0.0
+1988-1989,24,1989-04-01,Karlsruher,Nürnberg,1,1,0.5
+1988-1989,24,1989-04-01,Leverkusen,S'gart Kickers,1,3,0.0
+1988-1989,24,1989-04-01,Stuttgart,Uerdingen,2,2,0.5
+1988-1989,24,1989-04-01,Dortmund,Mannheim,1,2,0.0
+1988-1989,24,1989-04-01,Kaiserslautern,St Pauli,1,0,1.0
+1988-1989,24,1989-04-01,Werder Bremen,Hannover 96,1,0,1.0
+1988-1989,24,1989-04-01,Gladbach,Bayern Munich,2,1,1.0
+1988-1989,25,1989-04-07,St Pauli,Leverkusen,2,0,1.0
+1988-1989,25,1989-04-07,Hannover 96,Dortmund,1,5,0.0
+1988-1989,25,1989-04-08,Nürnberg,Stuttgart,1,0,1.0
+1988-1989,25,1989-04-08,Uerdingen,Hamburger SV,0,2,0.0
+1988-1989,25,1989-04-08,S'gart Kickers,Gladbach,3,0,1.0
+1988-1989,25,1989-04-08,Bayern Munich,Werder Bremen,0,0,0.5
+1988-1989,25,1989-04-08,Bochum,Karlsruher,2,0,1.0
+1988-1989,25,1989-04-08,Mannheim,Eint Frankfurt,1,0,1.0
+1988-1989,25,1989-04-08,Köln,Kaiserslautern,2,2,0.5
+1988-1989,26,1989-04-13,Hannover 96,Mannheim,0,2,0.0
+1988-1989,26,1989-04-14,Stuttgart,Bochum,3,1,1.0
+1988-1989,26,1989-04-14,Kaiserslautern,Uerdingen,2,0,1.0
+1988-1989,26,1989-04-15,Leverkusen,Köln,0,0,0.5
+1988-1989,26,1989-04-15,Werder Bremen,S'gart Kickers,4,0,1.0
+1988-1989,26,1989-04-15,Dortmund,Bayern Munich,1,1,0.5
+1988-1989,26,1989-04-15,Hamburger SV,Nürnberg,3,2,1.0
+1988-1989,26,1989-04-15,Karlsruher,Eint Frankfurt,1,3,0.0
+1988-1989,26,1989-04-15,Gladbach,St Pauli,2,2,0.5
+1988-1989,17,1989-04-20,Hamburger SV,Gladbach,1,2,0.0
+1988-1989,27,1989-04-29,Bayern Munich,Hannover 96,4,0,1.0
+1988-1989,27,1989-04-29,Bochum,Hamburger SV,2,1,1.0
+1988-1989,27,1989-04-29,S'gart Kickers,Dortmund,1,2,0.0
+1988-1989,27,1989-04-29,St Pauli,Werder Bremen,1,3,0.0
+1988-1989,27,1989-04-29,Mannheim,Karlsruher,2,0,1.0
+1988-1989,27,1989-04-29,Eint Frankfurt,Stuttgart,1,3,0.0
+1988-1989,27,1989-04-29,Köln,Gladbach,3,1,1.0
+1988-1989,27,1989-04-29,Uerdingen,Leverkusen,3,1,1.0
+1988-1989,27,1989-04-29,Nürnberg,Kaiserslautern,1,1,0.5
+1988-1989,28,1989-05-05,Leverkusen,Nürnberg,3,0,1.0
+1988-1989,28,1989-05-05,Kaiserslautern,Bochum,3,0,1.0
+1988-1989,28,1989-05-06,Gladbach,Uerdingen,3,0,1.0
+1988-1989,28,1989-05-06,Werder Bremen,Köln,1,2,0.0
+1988-1989,28,1989-05-06,Bayern Munich,Mannheim,1,0,1.0
+1988-1989,28,1989-05-06,Dortmund,St Pauli,0,0,0.5
+1988-1989,28,1989-05-06,Hamburger SV,Eint Frankfurt,2,1,1.0
+1988-1989,28,1989-05-06,Stuttgart,Karlsruher,2,0,1.0
+1988-1989,28,1989-05-06,Hannover 96,S'gart Kickers,3,4,0.0
+1988-1989,29,1989-05-12,Mannheim,Stuttgart,3,4,0.0
+1988-1989,29,1989-05-12,Eint Frankfurt,Kaiserslautern,3,2,1.0
+1988-1989,29,1989-05-13,Karlsruher,Hamburger SV,2,2,0.5
+1988-1989,29,1989-05-13,S'gart Kickers,Bayern Munich,2,0,1.0
+1988-1989,29,1989-05-13,St Pauli,Hannover 96,1,1,0.5
+1988-1989,29,1989-05-13,Köln,Dortmund,2,0,1.0
+1988-1989,29,1989-05-13,Nürnberg,Gladbach,0,0,0.5
+1988-1989,29,1989-05-13,Uerdingen,Werder Bremen,2,1,1.0
+1988-1989,29,1989-05-16,Bochum,Leverkusen,2,4,0.0
+1988-1989,30,1989-05-19,Werder Bremen,Nürnberg,2,1,1.0
+1988-1989,30,1989-05-19,S'gart Kickers,Mannheim,1,3,0.0
+1988-1989,30,1989-05-20,Kaiserslautern,Karlsruher,1,2,0.0
+1988-1989,30,1989-05-20,Hannover 96,Köln,2,2,0.5
+1988-1989,30,1989-05-20,Hamburger SV,Stuttgart,2,1,1.0
+1988-1989,30,1989-05-20,Leverkusen,Eint Frankfurt,2,2,0.5
+1988-1989,30,1989-05-20,Gladbach,Bochum,2,0,1.0
+1988-1989,30,1989-05-20,Bayern Munich,St Pauli,2,1,1.0
+1988-1989,30,1989-05-20,Dortmund,Uerdingen,4,2,1.0
+1988-1989,31,1989-05-23,Stuttgart,Kaiserslautern,3,1,1.0
+1988-1989,31,1989-05-25,Mannheim,Hamburger SV,0,0,0.5
+1988-1989,31,1989-05-25,Karlsruher,Leverkusen,2,3,0.0
+1988-1989,31,1989-05-25,Eint Frankfurt,Gladbach,1,1,0.5
+1988-1989,31,1989-05-25,Nürnberg,Dortmund,1,1,0.5
+1988-1989,31,1989-05-25,St Pauli,S'gart Kickers,1,0,1.0
+1988-1989,31,1989-05-25,Bochum,Werder Bremen,0,1,0.0
+1988-1989,31,1989-05-25,Köln,Bayern Munich,1,3,0.0
+1988-1989,31,1989-05-25,Uerdingen,Hannover 96,7,3,1.0
+1988-1989,32,1989-06-02,Mannheim,St Pauli,2,1,1.0
+1988-1989,32,1989-06-03,Hannover 96,Nürnberg,2,2,0.5
+1988-1989,32,1989-06-03,Leverkusen,Stuttgart,0,0,0.5
+1988-1989,32,1989-06-03,Hamburger SV,Kaiserslautern,1,1,0.5
+1988-1989,32,1989-06-03,Dortmund,Bochum,2,1,1.0
+1988-1989,32,1989-06-03,Werder Bremen,Eint Frankfurt,2,0,1.0
+1988-1989,32,1989-06-03,Bayern Munich,Uerdingen,5,0,1.0
+1988-1989,32,1989-06-03,Gladbach,Karlsruher,1,1,0.5
+1988-1989,32,1989-06-06,S'gart Kickers,Köln,0,0,0.5
+1988-1989,33,1989-06-10,Stuttgart,Gladbach,2,1,1.0
+1988-1989,33,1989-06-10,Kaiserslautern,Mannheim,0,3,0.0
+1988-1989,33,1989-06-10,Karlsruher,Werder Bremen,1,0,1.0
+1988-1989,33,1989-06-10,Hamburger SV,Leverkusen,1,1,0.5
+1988-1989,33,1989-06-10,Uerdingen,S'gart Kickers,1,3,0.0
+1988-1989,33,1989-06-10,Eint Frankfurt,Dortmund,2,1,1.0
+1988-1989,33,1989-06-10,Köln,St Pauli,4,2,1.0
+1988-1989,33,1989-06-10,Bochum,Hannover 96,1,3,0.0
+1988-1989,33,1989-06-10,Nürnberg,Bayern Munich,2,1,1.0
+1988-1989,34,1989-06-17,Hannover 96,Eint Frankfurt,1,1,0.5
+1988-1989,34,1989-06-17,Werder Bremen,Stuttgart,3,0,1.0
+1988-1989,34,1989-06-17,S'gart Kickers,Nürnberg,1,0,1.0
+1988-1989,34,1989-06-17,Bayern Munich,Bochum,5,0,1.0
+1988-1989,34,1989-06-17,Gladbach,Hamburger SV,0,4,0.0
+1988-1989,34,1989-06-17,Leverkusen,Kaiserslautern,0,1,0.0
+1988-1989,34,1989-06-17,St Pauli,Uerdingen,5,1,1.0
+1988-1989,34,1989-06-17,Dortmund,Karlsruher,3,2,1.0
+1988-1989,34,1989-06-17,Mannheim,Köln,2,1,1.0

@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1996-1997,1,1996-08-16,Gladbach,Arminia,0,0,0.5
+1996-1997,1,1996-08-16,St Pauli,Bayern Munich,1,2,0.0
+1996-1997,1,1996-08-17,Hansa Rostock,Karlsruher,2,2,0.5
+1996-1997,1,1996-08-17,1860 Munich,Hamburger SV,2,1,1.0
+1996-1997,1,1996-08-17,Stuttgart,Schalke 04,4,0,1.0
+1996-1997,1,1996-08-17,Freiburg,Werder Bremen,3,2,1.0
+1996-1997,1,1996-08-17,Bochum,MSV Duisburg,1,0,1.0
+1996-1997,1,1996-08-17,Leverkusen,Dortmund,4,2,1.0
+1996-1997,1,1996-08-18,Düsseldorf,Köln,0,3,0.0
+1996-1997,2,1996-08-20,Werder Bremen,Hansa Rostock,1,1,0.5
+1996-1997,2,1996-08-20,Hamburger SV,Freiburg,5,1,1.0
+1996-1997,2,1996-08-20,Arminia,St Pauli,1,2,0.0
+1996-1997,2,1996-08-20,Schalke 04,Gladbach,0,0,0.5
+1996-1997,2,1996-08-21,Bayern Munich,Bochum,1,1,0.5
+1996-1997,2,1996-08-21,Dortmund,Düsseldorf,4,0,1.0
+1996-1997,2,1996-08-21,MSV Duisburg,Leverkusen,1,3,0.0
+1996-1997,2,1996-08-21,Köln,1860 Munich,1,0,1.0
+1996-1997,3,1996-08-23,Hansa Rostock,Hamburger SV,0,1,0.0
+1996-1997,3,1996-08-23,St Pauli,Schalke 04,4,4,0.5
+1996-1997,3,1996-08-24,1860 Munich,Dortmund,1,3,0.0
+1996-1997,3,1996-08-24,Stuttgart,Werder Bremen,2,1,1.0
+1996-1997,3,1996-08-24,Freiburg,Köln,1,3,0.0
+1996-1997,3,1996-08-24,Leverkusen,Düsseldorf,0,1,0.0
+1996-1997,3,1996-08-24,Bochum,Arminia,1,1,0.5
+1996-1997,3,1996-08-24,Gladbach,Karlsruher,1,3,0.0
+1996-1997,3,1996-08-25,MSV Duisburg,Bayern Munich,0,4,0.0
+1996-1997,4,1996-08-27,Dortmund,Freiburg,3,1,1.0
+1996-1997,4,1996-08-27,Hamburger SV,Stuttgart,0,4,0.0
+1996-1997,4,1996-08-27,Werder Bremen,Gladbach,1,0,1.0
+1996-1997,4,1996-08-27,Schalke 04,Bochum,1,1,0.5
+1996-1997,4,1996-08-28,Karlsruher,St Pauli,4,0,1.0
+1996-1997,4,1996-08-28,Düsseldorf,1860 Munich,0,0,0.5
+1996-1997,4,1996-08-28,Köln,Hansa Rostock,0,2,0.0
+1996-1997,4,1996-08-28,Bayern Munich,Leverkusen,4,2,1.0
+1996-1997,4,1996-08-28,Arminia,MSV Duisburg,1,1,0.5
+1996-1997,5,1996-09-06,Freiburg,Düsseldorf,1,2,0.0
+1996-1997,5,1996-09-06,Gladbach,Hamburger SV,3,0,1.0
+1996-1997,5,1996-09-07,St Pauli,Werder Bremen,0,3,0.0
+1996-1997,5,1996-09-07,MSV Duisburg,Schalke 04,0,1,0.0
+1996-1997,5,1996-09-07,Leverkusen,1860 Munich,3,0,1.0
+1996-1997,5,1996-09-07,Bayern Munich,Arminia,1,0,1.0
+1996-1997,5,1996-09-07,Hansa Rostock,Dortmund,0,1,0.0
+1996-1997,5,1996-09-07,Bochum,Karlsruher,3,1,1.0
+1996-1997,5,1996-09-08,Stuttgart,Köln,4,0,1.0
+1996-1997,6,1996-09-13,Düsseldorf,Hansa Rostock,0,2,0.0
+1996-1997,6,1996-09-13,Werder Bremen,Bochum,5,1,1.0
+1996-1997,6,1996-09-14,1860 Munich,Freiburg,4,0,1.0
+1996-1997,6,1996-09-14,Köln,Gladbach,4,0,1.0
+1996-1997,6,1996-09-14,Schalke 04,Bayern Munich,1,1,0.5
+1996-1997,6,1996-09-14,Karlsruher,MSV Duisburg,1,0,1.0
+1996-1997,6,1996-09-14,Dortmund,Stuttgart,1,1,0.5
+1996-1997,6,1996-09-14,Arminia,Leverkusen,0,1,0.0
+1996-1997,6,1996-09-15,Hamburger SV,St Pauli,3,0,1.0
+1996-1997,2,1996-09-17,Karlsruher,Stuttgart,0,2,0.0
+1996-1997,7,1996-09-20,MSV Duisburg,Werder Bremen,3,2,1.0
+1996-1997,7,1996-09-20,Hansa Rostock,1860 Munich,2,4,0.0
+1996-1997,7,1996-09-21,Stuttgart,Düsseldorf,0,2,0.0
+1996-1997,7,1996-09-21,Arminia,Schalke 04,0,1,0.0
+1996-1997,7,1996-09-21,Gladbach,Dortmund,5,1,1.0
+1996-1997,7,1996-09-21,Bochum,Hamburger SV,3,1,1.0
+1996-1997,7,1996-09-21,St Pauli,Köln,0,0,0.5
+1996-1997,7,1996-09-21,Bayern Munich,Karlsruher,1,0,1.0
+1996-1997,7,1996-09-22,Leverkusen,Freiburg,5,3,1.0
+1996-1997,8,1996-09-27,Karlsruher,Arminia,5,2,1.0
+1996-1997,8,1996-09-27,Köln,Bochum,2,0,1.0
+1996-1997,8,1996-09-28,Werder Bremen,Bayern Munich,3,0,1.0
+1996-1997,8,1996-09-28,Freiburg,Hansa Rostock,1,0,1.0
+1996-1997,8,1996-09-28,1860 Munich,Stuttgart,2,5,0.0
+1996-1997,8,1996-09-28,Hamburger SV,MSV Duisburg,1,1,0.5
+1996-1997,8,1996-09-28,Schalke 04,Leverkusen,1,2,0.0
+1996-1997,8,1996-09-28,Düsseldorf,Gladbach,1,0,1.0
+1996-1997,8,1996-09-29,Dortmund,St Pauli,2,1,1.0
+1996-1997,9,1996-10-04,Stuttgart,Freiburg,4,2,1.0
+1996-1997,9,1996-10-04,Leverkusen,Hansa Rostock,4,1,1.0
+1996-1997,9,1996-10-04,Bochum,Dortmund,1,0,1.0
+1996-1997,9,1996-10-05,Schalke 04,Karlsruher,0,1,0.0
+1996-1997,9,1996-10-05,Bayern Munich,Hamburger SV,2,1,1.0
+1996-1997,9,1996-10-05,Gladbach,1860 Munich,1,0,1.0
+1996-1997,9,1996-10-05,St Pauli,Düsseldorf,3,0,1.0
+1996-1997,9,1996-10-05,MSV Duisburg,Köln,3,0,1.0
+1996-1997,9,1996-10-05,Arminia,Werder Bremen,3,1,1.0
+1996-1997,10,1996-10-11,Freiburg,Gladbach,1,0,1.0
+1996-1997,10,1996-10-11,1860 Munich,St Pauli,4,2,1.0
+1996-1997,10,1996-10-12,Hansa Rostock,Stuttgart,2,2,0.5
+1996-1997,10,1996-10-12,Köln,Bayern Munich,2,4,0.0
+1996-1997,10,1996-10-12,Hamburger SV,Arminia,2,2,0.5
+1996-1997,10,1996-10-12,Dortmund,MSV Duisburg,2,0,1.0
+1996-1997,10,1996-10-12,Werder Bremen,Schalke 04,3,0,1.0
+1996-1997,10,1996-10-12,Karlsruher,Leverkusen,1,1,0.5
+1996-1997,10,1996-10-13,Düsseldorf,Bochum,2,2,0.5
+1996-1997,11,1996-10-18,Bochum,1860 Munich,2,2,0.5
+1996-1997,11,1996-10-18,Leverkusen,Stuttgart,0,0,0.5
+1996-1997,11,1996-10-19,Arminia,Köln,1,4,0.0
+1996-1997,11,1996-10-19,Karlsruher,Werder Bremen,1,3,0.0
+1996-1997,11,1996-10-19,Schalke 04,Hamburger SV,2,0,1.0
+1996-1997,11,1996-10-19,Gladbach,Hansa Rostock,2,0,1.0
+1996-1997,11,1996-10-19,St Pauli,Freiburg,2,0,1.0
+1996-1997,11,1996-10-19,MSV Duisburg,Düsseldorf,0,0,0.5
+1996-1997,11,1996-10-20,Bayern Munich,Dortmund,0,0,0.5
+1996-1997,12,1996-10-25,Hansa Rostock,St Pauli,3,1,1.0
+1996-1997,12,1996-10-25,Werder Bremen,Leverkusen,1,1,0.5
+1996-1997,12,1996-10-26,Düsseldorf,Bayern Munich,0,2,0.0
+1996-1997,12,1996-10-26,Stuttgart,Gladbach,5,0,1.0
+1996-1997,12,1996-10-26,Hamburger SV,Karlsruher,2,0,1.0
+1996-1997,12,1996-10-26,Dortmund,Arminia,5,0,1.0
+1996-1997,12,1996-10-26,Köln,Schalke 04,3,1,1.0
+1996-1997,12,1996-10-26,1860 Munich,MSV Duisburg,1,1,0.5
+1996-1997,12,1996-10-27,Freiburg,Bochum,0,1,0.0
+1996-1997,13,1996-11-01,Bochum,Hansa Rostock,1,0,1.0
+1996-1997,13,1996-11-01,Bayern Munich,1860 Munich,1,1,0.5
+1996-1997,13,1996-11-02,Arminia,Düsseldorf,1,0,1.0
+1996-1997,13,1996-11-02,St Pauli,Stuttgart,2,1,1.0
+1996-1997,13,1996-11-02,Schalke 04,Dortmund,1,3,0.0
+1996-1997,13,1996-11-02,Leverkusen,Gladbach,3,0,1.0
+1996-1997,13,1996-11-02,MSV Duisburg,Freiburg,1,4,0.0
+1996-1997,13,1996-11-02,Werder Bremen,Hamburger SV,0,0,0.5
+1996-1997,13,1996-11-03,Karlsruher,Köln,4,1,1.0
+1996-1997,14,1996-11-15,Köln,Werder Bremen,4,1,1.0
+1996-1997,14,1996-11-15,Gladbach,St Pauli,0,0,0.5
+1996-1997,14,1996-11-16,Düsseldorf,Schalke 04,1,3,0.0
+1996-1997,14,1996-11-16,Hamburger SV,Leverkusen,0,2,0.0
+1996-1997,14,1996-11-16,1860 Munich,Arminia,1,3,0.0
+1996-1997,14,1996-11-16,Dortmund,Karlsruher,1,1,0.5
+1996-1997,14,1996-11-16,Stuttgart,Bochum,3,1,1.0
+1996-1997,14,1996-11-16,Freiburg,Bayern Munich,0,0,0.5
+1996-1997,14,1996-11-17,Hansa Rostock,MSV Duisburg,0,1,0.0
+1996-1997,15,1996-11-22,Karlsruher,Düsseldorf,2,0,1.0
+1996-1997,15,1996-11-22,Bochum,Gladbach,2,0,1.0
+1996-1997,15,1996-11-23,Bayern Munich,Hansa Rostock,2,1,1.0
+1996-1997,15,1996-11-23,St Pauli,Leverkusen,3,1,1.0
+1996-1997,15,1996-11-23,Arminia,Freiburg,2,0,1.0
+1996-1997,15,1996-11-23,Köln,Hamburger SV,2,2,0.5
+1996-1997,15,1996-11-23,Werder Bremen,Dortmund,0,4,0.0
+1996-1997,15,1996-11-23,Schalke 04,1860 Munich,4,1,1.0
+1996-1997,15,1996-11-24,MSV Duisburg,Stuttgart,3,1,1.0
+1996-1997,16,1996-11-29,Dortmund,Hamburger SV,1,1,0.5
+1996-1997,16,1996-11-30,1860 Munich,Karlsruher,1,1,0.5
+1996-1997,16,1996-11-30,Hansa Rostock,Arminia,3,1,1.0
+1996-1997,16,1996-11-30,Freiburg,Schalke 04,2,3,0.0
+1996-1997,16,1996-11-30,Leverkusen,Köln,4,2,1.0
+1996-1997,16,1996-11-30,Gladbach,MSV Duisburg,0,1,0.0
+1996-1997,16,1996-11-30,Düsseldorf,Werder Bremen,4,1,1.0
+1996-1997,16,1996-12-01,Stuttgart,Bayern Munich,1,1,0.5
+1996-1997,17,1996-12-06,Karlsruher,Freiburg,3,0,1.0
+1996-1997,17,1996-12-06,Schalke 04,Hansa Rostock,2,0,1.0
+1996-1997,17,1996-12-06,Bochum,Leverkusen,2,2,0.5
+1996-1997,17,1996-12-06,Werder Bremen,1860 Munich,1,1,0.5
+1996-1997,17,1996-12-07,Bayern Munich,Gladbach,1,0,1.0
+1996-1997,17,1996-12-07,Arminia,Stuttgart,2,0,1.0
+1996-1997,17,1996-12-07,Köln,Dortmund,1,3,0.0
+1996-1997,17,1996-12-07,Hamburger SV,Düsseldorf,2,1,1.0
+1996-1997,17,1996-12-07,MSV Duisburg,St Pauli,1,0,1.0
+1996-1997,18,1997-02-14,Dortmund,Leverkusen,3,1,1.0
+1996-1997,18,1997-02-14,Köln,Düsseldorf,2,0,1.0
+1996-1997,18,1997-02-15,Werder Bremen,Freiburg,1,0,1.0
+1996-1997,18,1997-02-15,Bayern Munich,St Pauli,3,0,1.0
+1996-1997,18,1997-02-15,MSV Duisburg,Bochum,1,1,0.5
+1996-1997,18,1997-02-15,Schalke 04,Stuttgart,1,0,1.0
+1996-1997,18,1997-02-15,Hamburger SV,1860 Munich,2,3,0.0
+1996-1997,18,1997-02-15,Karlsruher,Hansa Rostock,1,1,0.5
+1996-1997,18,1997-02-16,Arminia,Gladbach,0,2,0.0
+1996-1997,19,1997-02-21,Düsseldorf,Dortmund,2,0,1.0
+1996-1997,19,1997-02-21,Freiburg,Hamburger SV,0,4,0.0
+1996-1997,19,1997-02-21,St Pauli,Arminia,2,3,0.0
+1996-1997,19,1997-02-22,Hansa Rostock,Werder Bremen,0,1,0.0
+1996-1997,19,1997-02-22,Stuttgart,Karlsruher,1,0,1.0
+1996-1997,19,1997-02-22,Gladbach,Schalke 04,0,0,0.5
+1996-1997,19,1997-02-22,Bochum,Bayern Munich,1,1,0.5
+1996-1997,19,1997-02-22,Leverkusen,MSV Duisburg,1,0,1.0
+1996-1997,19,1997-02-22,1860 Munich,Köln,2,1,1.0
+1996-1997,20,1997-02-28,Schalke 04,St Pauli,0,0,0.5
+1996-1997,20,1997-02-28,Arminia,Bochum,3,1,1.0
+1996-1997,20,1997-03-01,Düsseldorf,Leverkusen,0,0,0.5
+1996-1997,20,1997-03-01,Karlsruher,Gladbach,1,1,0.5
+1996-1997,20,1997-03-01,Bayern Munich,MSV Duisburg,5,2,1.0
+1996-1997,20,1997-03-01,Dortmund,1860 Munich,4,1,1.0
+1996-1997,20,1997-03-01,Werder Bremen,Stuttgart,2,2,0.5
+1996-1997,20,1997-03-01,Köln,Freiburg,1,0,1.0
+1996-1997,20,1997-03-02,Hamburger SV,Hansa Rostock,1,1,0.5
+1996-1997,21,1997-03-07,Bochum,Schalke 04,0,1,0.0
+1996-1997,21,1997-03-07,Hansa Rostock,Köln,0,0,0.5
+1996-1997,21,1997-03-08,Freiburg,Dortmund,1,2,0.0
+1996-1997,21,1997-03-08,1860 Munich,Düsseldorf,3,0,1.0
+1996-1997,21,1997-03-08,St Pauli,Karlsruher,2,4,0.0
+1996-1997,21,1997-03-08,MSV Duisburg,Arminia,0,0,0.5
+1996-1997,21,1997-03-08,Gladbach,Werder Bremen,4,1,1.0
+1996-1997,21,1997-03-08,Stuttgart,Hamburger SV,4,1,1.0
+1996-1997,21,1997-03-09,Leverkusen,Bayern Munich,5,2,1.0
+1996-1997,22,1997-03-11,Hamburger SV,Gladbach,2,1,1.0
+1996-1997,22,1997-03-11,Köln,Stuttgart,1,5,0.0
+1996-1997,22,1997-03-11,Schalke 04,MSV Duisburg,4,0,1.0
+1996-1997,22,1997-03-11,Karlsruher,Bochum,2,3,0.0
+1996-1997,22,1997-03-11,Werder Bremen,St Pauli,2,1,1.0
+1996-1997,22,1997-03-12,1860 Munich,Leverkusen,3,0,1.0
+1996-1997,22,1997-03-12,Arminia,Bayern Munich,2,0,1.0
+1996-1997,22,1997-03-12,Dortmund,Hansa Rostock,3,0,1.0
+1996-1997,22,1997-03-12,Düsseldorf,Freiburg,2,1,1.0
+1996-1997,23,1997-03-14,St Pauli,Hamburger SV,2,2,0.5
+1996-1997,23,1997-03-14,MSV Duisburg,Karlsruher,2,2,0.5
+1996-1997,23,1997-03-15,Hansa Rostock,Düsseldorf,3,1,1.0
+1996-1997,23,1997-03-15,Gladbach,Köln,2,1,1.0
+1996-1997,23,1997-03-15,Freiburg,1860 Munich,2,2,0.5
+1996-1997,23,1997-03-15,Stuttgart,Dortmund,4,1,1.0
+1996-1997,23,1997-03-15,Leverkusen,Arminia,1,0,1.0
+1996-1997,23,1997-03-15,Bayern Munich,Schalke 04,3,0,1.0
+1996-1997,23,1997-03-16,Bochum,Werder Bremen,3,2,1.0
+1996-1997,24,1997-03-21,Düsseldorf,Stuttgart,0,4,0.0
+1996-1997,24,1997-03-21,Werder Bremen,MSV Duisburg,0,2,0.0
+1996-1997,24,1997-03-22,Köln,St Pauli,0,1,0.0
+1996-1997,24,1997-03-22,Dortmund,Gladbach,1,3,0.0
+1996-1997,24,1997-03-22,Schalke 04,Arminia,0,0,0.5
+1996-1997,24,1997-03-22,Hamburger SV,Bochum,2,2,0.5
+1996-1997,24,1997-03-22,1860 Munich,Hansa Rostock,2,0,1.0
+1996-1997,24,1997-03-22,Freiburg,Leverkusen,1,2,0.0
+1996-1997,24,1997-03-23,Karlsruher,Bayern Munich,0,2,0.0
+1996-1997,25,1997-03-27,Stuttgart,1860 Munich,1,1,0.5
+1996-1997,25,1997-03-27,St Pauli,Dortmund,0,1,0.0
+1996-1997,25,1997-03-27,MSV Duisburg,Hamburger SV,1,1,0.5
+1996-1997,25,1997-03-27,Bochum,Köln,2,2,0.5
+1996-1997,25,1997-03-29,Leverkusen,Schalke 04,2,0,1.0
+1996-1997,25,1997-03-29,Arminia,Karlsruher,1,2,0.0
+1996-1997,25,1997-03-29,Hansa Rostock,Freiburg,3,1,1.0
+1996-1997,25,1997-03-29,Bayern Munich,Werder Bremen,1,0,1.0
+1996-1997,25,1997-03-29,Gladbach,Düsseldorf,2,0,1.0
+1996-1997,26,1997-04-04,1860 Munich,Gladbach,3,0,1.0
+1996-1997,26,1997-04-04,Köln,MSV Duisburg,2,5,0.0
+1996-1997,26,1997-04-05,Karlsruher,Schalke 04,0,0,0.5
+1996-1997,26,1997-04-05,Hansa Rostock,Leverkusen,1,0,1.0
+1996-1997,26,1997-04-05,Werder Bremen,Arminia,2,1,1.0
+1996-1997,26,1997-04-05,Düsseldorf,St Pauli,2,0,1.0
+1996-1997,26,1997-04-05,Hamburger SV,Bayern Munich,0,3,0.0
+1996-1997,26,1997-04-05,Dortmund,Bochum,2,0,1.0
+1996-1997,26,1997-04-06,Freiburg,Stuttgart,1,1,0.5
+1996-1997,16,1997-04-09,St Pauli,Bochum,2,1,1.0
+1996-1997,27,1997-04-11,Arminia,Hamburger SV,1,1,0.5
+1996-1997,27,1997-04-11,Leverkusen,Karlsruher,3,1,1.0
+1996-1997,27,1997-04-12,Schalke 04,Werder Bremen,1,1,0.5
+1996-1997,27,1997-04-12,MSV Duisburg,Dortmund,3,2,1.0
+1996-1997,27,1997-04-12,Gladbach,Freiburg,4,3,1.0
+1996-1997,27,1997-04-12,Bayern Munich,Köln,3,2,1.0
+1996-1997,27,1997-04-12,Stuttgart,Hansa Rostock,5,1,1.0
+1996-1997,27,1997-04-12,St Pauli,1860 Munich,0,0,0.5
+1996-1997,27,1997-04-13,Bochum,Düsseldorf,3,1,1.0
+1996-1997,28,1997-04-18,Düsseldorf,MSV Duisburg,1,1,0.5
+1996-1997,28,1997-04-18,Hansa Rostock,Gladbach,1,0,1.0
+1996-1997,28,1997-04-19,Dortmund,Bayern Munich,1,1,0.5
+1996-1997,28,1997-04-19,Köln,Arminia,2,5,0.0
+1996-1997,28,1997-04-19,Hamburger SV,Schalke 04,1,0,1.0
+1996-1997,28,1997-04-19,Freiburg,St Pauli,4,0,1.0
+1996-1997,28,1997-04-19,Werder Bremen,Karlsruher,1,0,1.0
+1996-1997,28,1997-04-19,1860 Munich,Bochum,0,1,0.0
+1996-1997,28,1997-04-20,Stuttgart,Leverkusen,1,2,0.0
+1996-1997,29,1997-04-24,St Pauli,Hansa Rostock,0,1,0.0
+1996-1997,29,1997-04-25,Leverkusen,Werder Bremen,2,1,1.0
+1996-1997,29,1997-04-25,MSV Duisburg,1860 Munich,2,3,0.0
+1996-1997,29,1997-04-26,Gladbach,Stuttgart,0,1,0.0
+1996-1997,29,1997-04-26,Bayern Munich,Düsseldorf,5,0,1.0
+1996-1997,29,1997-04-26,Karlsruher,Hamburger SV,3,1,1.0
+1996-1997,29,1997-04-26,Bochum,Freiburg,3,2,1.0
+1996-1997,29,1997-04-26,Schalke 04,Köln,1,1,0.5
+1996-1997,29,1997-04-26,Arminia,Dortmund,2,0,1.0
+1996-1997,30,1997-05-02,Hansa Rostock,Bochum,0,0,0.5
+1996-1997,30,1997-05-02,Düsseldorf,Arminia,1,2,0.0
+1996-1997,30,1997-05-03,Freiburg,MSV Duisburg,2,0,1.0
+1996-1997,30,1997-05-03,Hamburger SV,Werder Bremen,3,2,1.0
+1996-1997,30,1997-05-03,Stuttgart,St Pauli,3,0,1.0
+1996-1997,30,1997-05-03,Köln,Karlsruher,4,1,1.0
+1996-1997,30,1997-05-03,Gladbach,Leverkusen,2,2,0.5
+1996-1997,30,1997-05-03,Dortmund,Schalke 04,1,0,1.0
+1996-1997,30,1997-05-04,1860 Munich,Bayern Munich,3,3,0.5
+1996-1997,31,1997-05-09,Werder Bremen,Köln,3,2,1.0
+1996-1997,31,1997-05-09,MSV Duisburg,Hansa Rostock,0,1,0.0
+1996-1997,31,1997-05-10,Schalke 04,Düsseldorf,0,1,0.0
+1996-1997,31,1997-05-10,Bayern Munich,Freiburg,0,0,0.5
+1996-1997,31,1997-05-10,Karlsruher,Dortmund,1,1,0.5
+1996-1997,31,1997-05-10,Bochum,Stuttgart,2,1,1.0
+1996-1997,31,1997-05-10,Arminia,1860 Munich,2,3,0.0
+1996-1997,31,1997-05-10,St Pauli,Gladbach,1,3,0.0
+1996-1997,31,1997-05-11,Leverkusen,Hamburger SV,5,0,1.0
+1996-1997,32,1997-05-16,Düsseldorf,Karlsruher,0,3,0.0
+1996-1997,32,1997-05-16,Hansa Rostock,Bayern Munich,0,3,0.0
+1996-1997,32,1997-05-17,Stuttgart,MSV Duisburg,0,2,0.0
+1996-1997,32,1997-05-17,Hamburger SV,Köln,0,4,0.0
+1996-1997,32,1997-05-17,Gladbach,Bochum,6,2,1.0
+1996-1997,32,1997-05-17,1860 Munich,Schalke 04,2,1,1.0
+1996-1997,32,1997-05-17,Leverkusen,St Pauli,3,0,1.0
+1996-1997,32,1997-05-17,Dortmund,Werder Bremen,2,1,1.0
+1996-1997,32,1997-05-18,Freiburg,Arminia,2,1,1.0
+1996-1997,33,1997-05-24,MSV Duisburg,Gladbach,4,2,1.0
+1996-1997,33,1997-05-24,Bayern Munich,Stuttgart,4,2,1.0
+1996-1997,33,1997-05-24,Hamburger SV,Dortmund,2,1,1.0
+1996-1997,33,1997-05-24,Karlsruher,1860 Munich,3,0,1.0
+1996-1997,33,1997-05-24,Arminia,Hansa Rostock,1,3,0.0
+1996-1997,33,1997-05-24,Köln,Leverkusen,4,0,1.0
+1996-1997,33,1997-05-24,Schalke 04,Freiburg,0,2,0.0
+1996-1997,33,1997-05-24,Werder Bremen,Düsseldorf,1,0,1.0
+1996-1997,33,1997-05-24,Bochum,St Pauli,6,0,1.0
+1996-1997,34,1997-05-31,Leverkusen,Bochum,2,0,1.0
+1996-1997,34,1997-05-31,Stuttgart,Arminia,4,2,1.0
+1996-1997,34,1997-05-31,Gladbach,Bayern Munich,2,2,0.5
+1996-1997,34,1997-05-31,Dortmund,Köln,2,1,1.0
+1996-1997,34,1997-05-31,1860 Munich,Werder Bremen,0,3,0.0
+1996-1997,34,1997-05-31,Hansa Rostock,Schalke 04,0,1,0.0
+1996-1997,34,1997-05-31,St Pauli,MSV Duisburg,0,2,0.0
+1996-1997,34,1997-05-31,Freiburg,Karlsruher,1,1,0.5
+1996-1997,34,1997-05-31,Düsseldorf,Hamburger SV,1,1,0.5

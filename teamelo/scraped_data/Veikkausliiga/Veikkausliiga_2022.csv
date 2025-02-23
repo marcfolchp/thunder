@@ -1,0 +1,170 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022,Regular season,1,2022-04-02,HJK,FC Honka,1,0,1.0
+2022,Regular season,1,2022-04-02,SJK,HIFK,2,1,1.0
+2022,Regular season,1,2022-04-02,VPS,AC Oulu,2,2,0.5
+2022,Regular season,1,2022-04-02,KuPS,Inter Turku,2,1,1.0
+2022,Regular season,1,2022-04-02,Haka,Ilves,2,1,1.0
+2022,Regular season,1,2022-04-02,IFK Mariehamn,Lahti,0,0,0.5
+2022,Regular season,2,2022-04-07,FC Honka,Haka,3,2,1.0
+2022,Regular season,2,2022-04-08,Lahti,VPS,0,5,0.0
+2022,Regular season,2,2022-04-08,SJK,HJK,0,1,0.0
+2022,Regular season,2,2022-04-09,Inter Turku,AC Oulu,2,1,1.0
+2022,Regular season,2,2022-04-09,HIFK,IFK Mariehamn,1,1,0.5
+2022,Regular season,2,2022-04-09,Ilves,KuPS,1,2,0.0
+2022,Regular season,3,2022-04-15,KuPS,SJK,2,0,1.0
+2022,Regular season,3,2022-04-17,Inter Turku,Haka,0,2,0.0
+2022,Regular season,3,2022-04-17,AC Oulu,Ilves,2,2,0.5
+2022,Regular season,3,2022-04-18,HIFK,Lahti,0,3,0.0
+2022,Regular season,3,2022-04-18,IFK Mariehamn,FC Honka,1,1,0.5
+2022,Regular season,3,2022-04-18,VPS,HJK,0,1,0.0
+2022,Regular season,4,2022-04-22,Lahti,KuPS,0,1,0.0
+2022,Regular season,4,2022-04-22,Haka,HIFK,2,1,1.0
+2022,Regular season,4,2022-04-23,HJK,Inter Turku,1,4,0.0
+2022,Regular season,4,2022-04-23,Ilves,VPS,3,2,1.0
+2022,Regular season,4,2022-04-24,IFK Mariehamn,AC Oulu,2,1,1.0
+2022,Regular season,4,2022-04-25,FC Honka,SJK,5,1,1.0
+2022,Regular season,5,2022-04-28,HIFK,HJK,0,2,0.0
+2022,Regular season,5,2022-04-29,Ilves,SJK,3,1,1.0
+2022,Regular season,5,2022-04-29,Lahti,FC Honka,0,2,0.0
+2022,Regular season,5,2022-04-29,KuPS,VPS,3,1,1.0
+2022,Regular season,5,2022-04-29,AC Oulu,Haka,3,0,1.0
+2022,Regular season,5,2022-04-29,Inter Turku,IFK Mariehamn,4,0,1.0
+2022,Regular season,6,2022-05-03,Inter Turku,HJK,0,1,0.0
+2022,Regular season,6,2022-05-07,SJK,Lahti,1,2,0.0
+2022,Regular season,6,2022-05-07,AC Oulu,HIFK,1,1,0.5
+2022,Regular season,6,2022-05-07,Haka,VPS,0,2,0.0
+2022,Regular season,6,2022-05-07,FC Honka,Inter Turku,2,1,1.0
+2022,Regular season,6,2022-05-08,HJK,Ilves,2,1,1.0
+2022,Regular season,7,2022-05-08,IFK Mariehamn,KuPS,1,1,0.5
+2022,Regular season,7,2022-05-12,KuPS,Haka,2,1,1.0
+2022,Regular season,7,2022-05-12,Lahti,HJK,1,1,0.5
+2022,Regular season,7,2022-05-13,VPS,SJK,0,1,0.0
+2022,Regular season,7,2022-05-13,AC Oulu,FC Honka,2,1,1.0
+2022,Regular season,7,2022-05-14,Inter Turku,HIFK,2,2,0.5
+2022,Regular season,8,2022-05-15,Ilves,IFK Mariehamn,1,0,1.0
+2022,Regular season,8,2022-05-17,AC Oulu,KuPS,0,3,0.0
+2022,Regular season,8,2022-05-17,HJK,Lahti,3,2,1.0
+2022,Regular season,8,2022-05-17,Haka,SJK,1,1,0.5
+2022,Regular season,8,2022-05-19,VPS,Inter Turku,1,2,0.0
+2022,Regular season,8,2022-05-20,FC Honka,Ilves,0,0,0.5
+2022,Regular season,9,2022-05-21,SJK,IFK Mariehamn,1,0,1.0
+2022,Regular season,9,2022-05-22,Lahti,AC Oulu,0,2,0.0
+2022,Regular season,9,2022-05-22,HJK,Haka,4,1,1.0
+2022,Regular season,9,2022-05-23,HIFK,KuPS,0,1,0.0
+2022,Regular season,9,2022-05-28,AC Oulu,SJK,1,0,1.0
+2022,Regular season,9,2022-05-28,Haka,Lahti,1,1,0.5
+2022,Regular season,10,2022-05-28,Inter Turku,Ilves,2,2,0.5
+2022,Regular season,10,2022-05-29,HIFK,FC Honka,1,2,0.0
+2022,Regular season,10,2022-05-29,KuPS,HJK,0,0,0.5
+2022,Regular season,10,2022-05-29,IFK Mariehamn,VPS,1,3,0.0
+2022,Regular season,10,2022-06-18,Haka,IFK Mariehamn,3,2,1.0
+2022,Regular season,10,2022-06-18,FC Honka,KuPS,2,0,1.0
+2022,Regular season,11,2022-06-18,Ilves,Lahti,3,2,1.0
+2022,Regular season,11,2022-06-18,HJK,AC Oulu,0,1,0.0
+2022,Regular season,11,2022-06-18,SJK,Inter Turku,1,1,0.5
+2022,Regular season,11,2022-06-18,HIFK,VPS,1,5,0.0
+2022,Regular season,11,2022-06-22,Ilves,HIFK,0,1,0.0
+2022,Regular season,11,2022-06-22,Inter Turku,Lahti,5,1,1.0
+2022,Regular season,12,2022-06-22,KuPS,AC Oulu,2,1,1.0
+2022,Regular season,12,2022-06-22,VPS,FC Honka,0,1,0.0
+2022,Regular season,12,2022-06-22,SJK,Haka,2,2,0.5
+2022,Regular season,12,2022-06-22,IFK Mariehamn,HJK,2,1,1.0
+2022,Regular season,12,2022-07-02,FC Honka,IFK Mariehamn,1,1,0.5
+2022,Regular season,12,2022-07-02,AC Oulu,VPS,0,6,0.0
+2022,Regular season,13,2022-07-02,HJK,KuPS,1,1,0.5
+2022,Regular season,13,2022-07-02,Lahti,Inter Turku,2,1,1.0
+2022,Regular season,13,2022-07-04,HIFK,Ilves,0,1,0.0
+2022,Regular season,13,2022-07-09,HIFK,Haka,0,2,0.0
+2022,Regular season,13,2022-07-09,VPS,IFK Mariehamn,1,3,0.0
+2022,Regular season,13,2022-07-10,KuPS,Lahti,4,0,1.0
+2022,Regular season,14,2022-07-10,SJK,FC Honka,3,2,1.0
+2022,Regular season,14,2022-07-11,Ilves,AC Oulu,0,2,0.0
+2022,Regular season,14,2022-07-15,FC Honka,Lahti,5,0,1.0
+2022,Regular season,14,2022-07-16,HJK,VPS,3,1,1.0
+2022,Regular season,14,2022-07-16,IFK Mariehamn,HIFK,1,1,0.5
+2022,Regular season,14,2022-07-17,SJK,Ilves,3,3,0.5
+2022,Regular season,15,2022-07-18,Haka,Inter Turku,3,2,1.0
+2022,Regular season,15,2022-07-23,Ilves,HJK,1,2,0.0
+2022,Regular season,15,2022-07-23,VPS,Haka,3,3,0.5
+2022,Regular season,15,2022-07-23,AC Oulu,IFK Mariehamn,3,1,1.0
+2022,Regular season,15,2022-07-24,KuPS,HIFK,5,1,1.0
+2022,Regular season,15,2022-07-24,Lahti,SJK,1,3,0.0
+2022,Regular season,16,2022-07-25,Inter Turku,FC Honka,0,1,0.0
+2022,Regular season,16,2022-07-29,Lahti,Ilves,1,1,0.5
+2022,Regular season,16,2022-07-30,FC Honka,VPS,4,0,1.0
+2022,Regular season,16,2022-07-30,HJK,IFK Mariehamn,1,0,1.0
+2022,Regular season,16,2022-07-31,Haka,KuPS,2,1,1.0
+2022,Regular season,16,2022-07-31,SJK,AC Oulu,3,2,1.0
+2022,Regular season,17,2022-08-01,HIFK,Inter Turku,0,3,0.0
+2022,Regular season,17,2022-08-06,VPS,Ilves,3,0,1.0
+2022,Regular season,17,2022-08-06,Inter Turku,SJK,1,0,1.0
+2022,Regular season,17,2022-08-06,IFK Mariehamn,Haka,2,0,1.0
+2022,Regular season,17,2022-08-07,KuPS,FC Honka,1,1,0.5
+2022,Regular season,17,2022-08-07,AC Oulu,HJK,1,1,0.5
+2022,Regular season,18,2022-08-08,Lahti,HIFK,0,0,0.5
+2022,Regular season,18,2022-08-12,Haka,AC Oulu,3,2,1.0
+2022,Regular season,18,2022-08-13,Inter Turku,VPS,1,1,0.5
+2022,Regular season,18,2022-08-13,Ilves,FC Honka,0,4,0.0
+2022,Regular season,18,2022-08-14,KuPS,IFK Mariehamn,1,0,1.0
+2022,Regular season,18,2022-08-15,HIFK,SJK,0,2,0.0
+2022,Regular season,19,2022-08-20,VPS,Lahti,2,3,0.0
+2022,Regular season,19,2022-08-20,SJK,KuPS,2,1,1.0
+2022,Regular season,19,2022-08-21,AC Oulu,Inter Turku,0,3,0.0
+2022,Regular season,19,2022-08-21,Haka,HJK,0,3,0.0
+2022,Regular season,19,2022-08-21,IFK Mariehamn,Ilves,1,5,0.0
+2022,Regular season,19,2022-08-22,FC Honka,HIFK,4,1,1.0
+2022,Regular season,20,2022-08-26,Lahti,IFK Mariehamn,0,2,0.0
+2022,Regular season,20,2022-08-27,Ilves,Haka,2,3,0.0
+2022,Regular season,20,2022-08-27,FC Honka,AC Oulu,2,2,0.5
+2022,Regular season,20,2022-08-27,Inter Turku,KuPS,1,2,0.0
+2022,Regular season,20,2022-08-28,VPS,HIFK,1,1,0.5
+2022,Regular season,20,2022-08-28,HJK,SJK,1,0,1.0
+2022,Regular season,21,2022-09-01,Haka,FC Honka,2,1,1.0
+2022,Regular season,21,2022-09-03,SJK,VPS,2,0,1.0
+2022,Regular season,21,2022-09-03,KuPS,Ilves,0,0,0.5
+2022,Regular season,21,2022-09-04,AC Oulu,Lahti,0,0,0.5
+2022,Regular season,21,2022-09-04,IFK Mariehamn,Inter Turku,2,3,0.0
+2022,Regular season,21,2022-09-05,HJK,HIFK,2,1,1.0
+2022,Regular season,22,2022-09-11,FC Honka,HJK,1,2,0.0
+2022,Regular season,22,2022-09-11,Lahti,Haka,0,1,0.0
+2022,Regular season,22,2022-09-11,VPS,KuPS,0,1,0.0
+2022,Regular season,22,2022-09-11,HIFK,AC Oulu,1,6,0.0
+2022,Regular season,22,2022-09-11,IFK Mariehamn,SJK,2,0,1.0
+2022,Regular season,22,2022-09-11,Ilves,Inter Turku,1,1,0.5
+2022,Relegation round,1,2022-09-18,Ilves,VPS,2,3,0.0
+2022,Relegation round,1,2022-09-18,AC Oulu,HIFK,4,1,1.0
+2022,Relegation round,1,2022-09-18,IFK Mariehamn,Lahti,6,0,1.0
+2022,Championship round,3,2022-09-18,HJK,SJK,2,1,1.0
+2022,Championship round,1,2022-09-28,Inter Turku,Haka,0,1,0.0
+2022,Championship round,1,2022-09-28,SJK,KuPS,3,1,1.0
+2022,Relegation round,2,2022-09-28,HIFK,Ilves,1,5,0.0
+2022,Relegation round,2,2022-09-28,Lahti,VPS,0,2,0.0
+2022,Relegation round,2,2022-09-28,IFK Mariehamn,AC Oulu,2,4,0.0
+2022,Championship round,1,2022-09-29,FC Honka,HJK,3,1,1.0
+2022,Relegation round,3,2022-10-02,Ilves,IFK Mariehamn,2,3,0.0
+2022,Championship round,2,2022-10-02,KuPS,FC Honka,3,2,1.0
+2022,Championship round,2,2022-10-02,Haka,SJK,2,0,1.0
+2022,Relegation round,3,2022-10-02,VPS,HIFK,4,0,1.0
+2022,Relegation round,3,2022-10-02,AC Oulu,Lahti,2,1,1.0
+2022,Championship round,2,2022-10-02,HJK,Inter Turku,3,0,1.0
+2022,Championship round,3,2022-10-05,KuPS,Haka,0,0,0.5
+2022,Championship round,3,2022-10-06,FC Honka,Inter Turku,2,1,1.0
+2022,Relegation round,4,2022-10-08,HIFK,IFK Mariehamn,2,3,0.0
+2022,Relegation round,4,2022-10-08,VPS,AC Oulu,2,1,1.0
+2022,Championship round,4,2022-10-09,KuPS,Inter Turku,2,0,1.0
+2022,Relegation round,4,2022-10-09,Ilves,Lahti,1,0,1.0
+2022,Championship round,4,2022-10-09,Haka,HJK,0,1,0.0
+2022,Championship round,4,2022-10-10,SJK,FC Honka,0,0,0.5
+2022,Relegation round,5,2022-10-16,AC Oulu,Ilves,0,2,0.0
+2022,Relegation round,5,2022-10-16,IFK Mariehamn,VPS,2,2,0.5
+2022,Relegation round,5,2022-10-16,Lahti,HIFK,6,1,1.0
+2022,Championship round,5,2022-10-16,FC Honka,Haka,1,1,0.5
+2022,Championship round,5,2022-10-16,HJK,KuPS,0,1,0.0
+2022,Championship round,5,2022-10-16,Inter Turku,SJK,1,0,1.0
+2022,Quarter-finals,,2022-10-19,Inter Turku,VPS,1,5,0.0
+2022,Quarter-finals,,2022-10-19,SJK,AC Oulu,0,1,0.0
+2022,Finnish 1/2 Relegation/Promotion Play-off,,2022-10-20,TPS,Lahti,1,1,0.5
+2022,Semi-final,,2022-10-22,AC Oulu,VPS,0,1,0.0
+2022,Finnish 1/2 Relegation/Promotion Play-off,,2022-10-23,Lahti,TPS,2,1,1.0
+2022,Final,,2022-10-26,VPS,Haka,0,3,0.0
+2022,Final,,2022-10-30,Haka,VPS,1,2,0.0

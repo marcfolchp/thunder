@@ -1,0 +1,243 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,Regular season,1,2020-09-11,Aris,PAS Lamia,3,1,1.0
+2020-2021,Regular season,1,2020-09-11,PAOK,Larissa,1,0,1.0
+2020-2021,Regular season,1,2020-09-12,OFI Crete,Panetolikos,1,1,0.5
+2020-2021,Regular season,1,2020-09-13,Atromitos,Volos NFC,0,2,0.0
+2020-2021,Regular season,1,2020-09-13,Asteras Tripoli,Panathinaikos,1,0,1.0
+2020-2021,Regular season,2,2020-09-18,PAOK,Atromitos,1,1,0.5
+2020-2021,Regular season,2,2020-09-18,Olympiacos,Asteras Tripoli,3,0,1.0
+2020-2021,Regular season,2,2020-09-19,Panetolikos,AEK Athens,0,2,0.0
+2020-2021,Regular season,2,2020-09-20,PAS Lamia,OFI Crete,1,2,0.0
+2020-2021,Regular season,2,2020-09-20,Volos NFC,Aris,0,1,0.0
+2020-2021,Regular season,3,2020-09-26,Volos NFC,PAOK,0,0,0.5
+2020-2021,Regular season,3,2020-09-26,Olympiacos,Panetolikos,2,0,1.0
+2020-2021,Regular season,3,2020-09-27,Aris,PAS Giannina,2,2,0.5
+2020-2021,Regular season,3,2020-09-27,OFI Crete,Atromitos,2,2,0.5
+2020-2021,Regular season,3,2020-09-27,AEK Athens,PAS Lamia,3,0,1.0
+2020-2021,Regular season,3,2020-09-28,Larissa,Panathinaikos,1,1,0.5
+2020-2021,Regular season,4,2020-10-03,Panetolikos,Asteras Tripoli,1,1,0.5
+2020-2021,Regular season,4,2020-10-04,Panathinaikos,Aris,0,1,0.0
+2020-2021,Regular season,4,2020-10-04,Apollon Smyrnis,Larissa,1,0,1.0
+2020-2021,Regular season,4,2020-10-04,PAOK,OFI Crete,3,0,1.0
+2020-2021,Regular season,4,2020-10-04,PAS Giannina,Olympiacos,1,1,0.5
+2020-2021,Regular season,4,2020-10-04,Atromitos,AEK Athens,1,0,1.0
+2020-2021,Regular season,4,2020-10-05,PAS Lamia,Volos NFC,1,2,0.0
+2020-2021,Regular season,5,2020-10-17,Volos NFC,PAS Giannina,2,1,1.0
+2020-2021,Regular season,5,2020-10-17,Aris,Apollon Smyrnis,1,0,1.0
+2020-2021,Regular season,5,2020-10-17,Olympiacos,Atromitos,4,0,1.0
+2020-2021,Regular season,5,2020-10-18,OFI Crete,Panathinaikos,2,2,0.5
+2020-2021,Regular season,5,2020-10-18,Larissa,Asteras Tripoli,1,3,0.0
+2020-2021,Regular season,5,2020-10-18,AEK Athens,PAOK,1,1,0.5
+2020-2021,Regular season,5,2020-10-19,PAS Lamia,Panetolikos,0,0,0.5
+2020-2021,Regular season,1,2020-10-21,Apollon Smyrnis,PAS Giannina,1,2,0.0
+2020-2021,Regular season,6,2020-10-24,Panathinaikos,Volos NFC,1,1,0.5
+2020-2021,Regular season,6,2020-10-25,Asteras Tripoli,OFI Crete,1,0,1.0
+2020-2021,Regular season,6,2020-10-25,PAS Giannina,AEK Athens,0,1,0.0
+2020-2021,Regular season,6,2020-10-26,Atromitos,Panetolikos,2,0,1.0
+2020-2021,Regular season,7,2020-10-31,Olympiacos,Apollon Smyrnis,2,0,1.0
+2020-2021,Regular season,7,2020-10-31,Atromitos,PAS Giannina,0,2,0.0
+2020-2021,Regular season,7,2020-10-31,Volos NFC,Larissa,1,1,0.5
+2020-2021,Regular season,7,2020-10-31,PAS Lamia,Panathinaikos,0,2,0.0
+2020-2021,Regular season,7,2020-11-01,Aris,Asteras Tripoli,1,0,1.0
+2020-2021,Regular season,7,2020-11-01,Panetolikos,PAOK,1,3,0.0
+2020-2021,Regular season,7,2020-11-01,AEK Athens,OFI Crete,2,1,1.0
+2020-2021,Regular season,2,2020-11-03,Panathinaikos,Apollon Smyrnis,1,0,1.0
+2020-2021,Regular season,2,2020-11-04,PAS Giannina,Larissa,1,2,0.0
+2020-2021,Regular season,8,2020-11-07,PAS Giannina,Panetolikos,0,0,0.5
+2020-2021,Regular season,8,2020-11-07,Panathinaikos,Atromitos,0,1,0.0
+2020-2021,Regular season,8,2020-11-08,OFI Crete,Olympiacos,0,2,0.0
+2020-2021,Regular season,8,2020-11-08,Apollon Smyrnis,PAOK,1,3,0.0
+2020-2021,Regular season,9,2020-11-21,PAS Lamia,Asteras Tripoli,2,2,0.5
+2020-2021,Regular season,9,2020-11-21,Atromitos,Apollon Smyrnis,2,2,0.5
+2020-2021,Regular season,9,2020-11-21,Olympiacos,Panathinaikos,1,0,1.0
+2020-2021,Regular season,9,2020-11-22,AEK Athens,Larissa,4,1,1.0
+2020-2021,Regular season,9,2020-11-22,Panetolikos,Aris,0,1,0.0
+2020-2021,Regular season,9,2020-11-22,PAOK,PAS Giannina,2,1,1.0
+2020-2021,Regular season,9,2020-11-23,Volos NFC,OFI Crete,1,4,0.0
+2020-2021,Regular season,3,2020-11-25,Asteras Tripoli,Apollon Smyrnis,0,0,0.5
+2020-2021,Regular season,10,2020-11-28,Larissa,Atromitos,0,0,0.5
+2020-2021,Regular season,10,2020-11-28,Aris,Olympiacos,1,2,0.0
+2020-2021,Regular season,10,2020-11-29,Panathinaikos,Panetolikos,2,1,1.0
+2020-2021,Regular season,10,2020-11-29,OFI Crete,PAS Giannina,2,1,1.0
+2020-2021,Regular season,10,2020-11-29,PAS Lamia,PAOK,0,2,0.0
+2020-2021,Regular season,10,2020-11-29,Asteras Tripoli,AEK Athens,1,2,0.0
+2020-2021,Regular season,10,2020-11-30,Apollon Smyrnis,Volos NFC,3,3,0.5
+2020-2021,Regular season,6,2020-12-02,Larissa,Aris,0,3,0.0
+2020-2021,Regular season,11,2020-12-05,Atromitos,Aris,2,2,0.5
+2020-2021,Regular season,11,2020-12-05,Olympiacos,Volos NFC,4,1,1.0
+2020-2021,Regular season,11,2020-12-06,OFI Crete,Apollon Smyrnis,0,2,0.0
+2020-2021,Regular season,11,2020-12-06,PAS Giannina,PAS Lamia,2,0,1.0
+2020-2021,Regular season,11,2020-12-06,PAOK,Asteras Tripoli,2,0,1.0
+2020-2021,Regular season,11,2020-12-06,AEK Athens,Panathinaikos,1,2,0.0
+2020-2021,Regular season,11,2020-12-07,Panetolikos,Larissa,2,1,1.0
+2020-2021,Regular season,8,2020-12-09,Asteras Tripoli,Volos NFC,1,1,0.5
+2020-2021,Regular season,12,2020-12-12,Larissa,OFI Crete,0,1,0.0
+2020-2021,Regular season,12,2020-12-12,Panathinaikos,PAS Giannina,2,0,1.0
+2020-2021,Regular season,12,2020-12-13,PAS Lamia,Olympiacos,0,6,0.0
+2020-2021,Regular season,12,2020-12-13,Apollon Smyrnis,AEK Athens,3,4,0.0
+2020-2021,Regular season,12,2020-12-13,Volos NFC,Panetolikos,0,0,0.5
+2020-2021,Regular season,12,2020-12-13,Aris,PAOK,1,0,1.0
+2020-2021,Regular season,12,2020-12-14,Asteras Tripoli,Atromitos,2,0,1.0
+2020-2021,Regular season,1,2020-12-16,AEK Athens,Olympiacos,1,1,0.5
+2020-2021,Regular season,13,2020-12-19,Panetolikos,Apollon Smyrnis,0,1,0.0
+2020-2021,Regular season,13,2020-12-19,OFI Crete,Aris,0,3,0.0
+2020-2021,Regular season,13,2020-12-20,Olympiacos,Larissa,5,1,1.0
+2020-2021,Regular season,13,2020-12-20,PAOK,Panathinaikos,2,1,1.0
+2020-2021,Regular season,13,2020-12-21,PAS Giannina,Asteras Tripoli,2,2,0.5
+2020-2021,Regular season,13,2020-12-21,AEK Athens,Volos NFC,2,2,0.5
+2020-2021,Regular season,14,2021-01-03,Panetolikos,OFI Crete,2,1,1.0
+2020-2021,Regular season,14,2021-01-03,Panathinaikos,Asteras Tripoli,0,0,0.5
+2020-2021,Regular season,14,2021-01-03,Larissa,PAOK,1,1,0.5
+2020-2021,Regular season,14,2021-01-03,PAS Giannina,Apollon Smyrnis,1,3,0.0
+2020-2021,Regular season,14,2021-01-03,Olympiacos,AEK Athens,3,0,1.0
+2020-2021,Regular season,14,2021-01-04,Volos NFC,Atromitos,1,0,1.0
+2020-2021,Regular season,14,2021-01-04,PAS Lamia,Aris,2,0,1.0
+2020-2021,Regular season,15,2021-01-06,Apollon Smyrnis,Panathinaikos,0,1,0.0
+2020-2021,Regular season,15,2021-01-06,Larissa,PAS Giannina,0,0,0.5
+2020-2021,Regular season,15,2021-01-06,AEK Athens,Panetolikos,1,0,1.0
+2020-2021,Regular season,15,2021-01-06,Asteras Tripoli,Olympiacos,0,4,0.0
+2020-2021,Regular season,15,2021-01-07,OFI Crete,PAS Lamia,2,0,1.0
+2020-2021,Regular season,15,2021-01-07,Aris,Volos NFC,2,0,1.0
+2020-2021,Regular season,15,2021-01-07,Atromitos,PAOK,3,2,1.0
+2020-2021,Regular season,16,2021-01-09,Panetolikos,Olympiacos,1,2,0.0
+2020-2021,Regular season,16,2021-01-10,PAOK,Volos NFC,3,1,1.0
+2020-2021,Regular season,16,2021-01-10,Atromitos,OFI Crete,0,0,0.5
+2020-2021,Regular season,16,2021-01-10,Apollon Smyrnis,Asteras Tripoli,0,1,0.0
+2020-2021,Regular season,16,2021-01-10,Panathinaikos,Larissa,2,0,1.0
+2020-2021,Regular season,16,2021-01-11,PAS Giannina,Aris,0,0,0.5
+2020-2021,Regular season,16,2021-01-11,PAS Lamia,AEK Athens,0,1,0.0
+2020-2021,Regular season,6,2021-01-13,PAOK,Olympiacos,1,1,0.5
+2020-2021,Regular season,13,2021-01-14,Atromitos,PAS Lamia,2,1,1.0
+2020-2021,Regular season,8,2021-01-14,Aris,AEK Athens,0,1,0.0
+2020-2021,Regular season,17,2021-01-16,Asteras Tripoli,Panetolikos,2,0,1.0
+2020-2021,Regular season,17,2021-01-16,Larissa,Apollon Smyrnis,0,1,0.0
+2020-2021,Regular season,17,2021-01-17,Olympiacos,PAS Giannina,1,0,1.0
+2020-2021,Regular season,17,2021-01-17,Volos NFC,PAS Lamia,1,1,0.5
+2020-2021,Regular season,17,2021-01-17,OFI Crete,PAOK,0,3,0.0
+2020-2021,Regular season,17,2021-01-17,Aris,Panathinaikos,0,1,0.0
+2020-2021,Regular season,17,2021-01-17,AEK Athens,Atromitos,2,1,1.0
+2020-2021,Regular season,18,2021-01-23,Asteras Tripoli,Larissa,1,0,1.0
+2020-2021,Regular season,18,2021-01-23,Apollon Smyrnis,Aris,0,1,0.0
+2020-2021,Regular season,18,2021-01-23,Panathinaikos,OFI Crete,2,0,1.0
+2020-2021,Regular season,18,2021-01-24,Atromitos,Olympiacos,0,1,0.0
+2020-2021,Regular season,18,2021-01-24,Panetolikos,PAS Lamia,0,0,0.5
+2020-2021,Regular season,18,2021-01-24,PAS Giannina,Volos NFC,0,1,0.0
+2020-2021,Regular season,18,2021-01-24,PAOK,AEK Athens,2,2,0.5
+2020-2021,Regular season,19,2021-01-26,OFI Crete,Asteras Tripoli,0,1,0.0
+2020-2021,Regular season,19,2021-01-26,Aris,Larissa,1,0,1.0
+2020-2021,Regular season,19,2021-01-27,Volos NFC,Panathinaikos,0,2,0.0
+2020-2021,Regular season,19,2021-01-27,PAS Lamia,Apollon Smyrnis,1,0,1.0
+2020-2021,Regular season,19,2021-01-27,AEK Athens,PAS Giannina,0,2,0.0
+2020-2021,Regular season,19,2021-01-27,Olympiacos,PAOK,3,0,1.0
+2020-2021,Regular season,19,2021-01-28,Panetolikos,Atromitos,1,1,0.5
+2020-2021,Regular season,20,2021-01-30,Larissa,Volos NFC,0,0,0.5
+2020-2021,Regular season,20,2021-01-30,Asteras Tripoli,Aris,2,1,1.0
+2020-2021,Regular season,20,2021-01-30,Panathinaikos,PAS Lamia,0,0,0.5
+2020-2021,Regular season,20,2021-01-31,OFI Crete,AEK Athens,0,2,0.0
+2020-2021,Regular season,20,2021-01-31,PAOK,Panetolikos,5,0,1.0
+2020-2021,Regular season,20,2021-01-31,PAS Giannina,Atromitos,0,1,0.0
+2020-2021,Regular season,20,2021-01-31,Apollon Smyrnis,Olympiacos,1,3,0.0
+2020-2021,Regular season,21,2021-02-06,Atromitos,Panathinaikos,2,3,0.0
+2020-2021,Regular season,21,2021-02-07,PAOK,Apollon Smyrnis,2,2,0.5
+2020-2021,Regular season,21,2021-02-07,Volos NFC,Asteras Tripoli,0,1,0.0
+2020-2021,Regular season,21,2021-02-07,Olympiacos,OFI Crete,3,0,1.0
+2020-2021,Regular season,21,2021-02-07,AEK Athens,Aris,0,2,0.0
+2020-2021,Regular season,21,2021-02-08,Panetolikos,PAS Giannina,1,2,0.0
+2020-2021,Regular season,22,2021-02-13,Asteras Tripoli,PAS Lamia,0,0,0.5
+2020-2021,Regular season,22,2021-02-13,Apollon Smyrnis,Atromitos,2,1,1.0
+2020-2021,Regular season,22,2021-02-14,Aris,Panetolikos,0,0,0.5
+2020-2021,Regular season,22,2021-02-14,OFI Crete,Volos NFC,1,2,0.0
+2020-2021,Regular season,22,2021-02-14,Panathinaikos,Olympiacos,2,1,1.0
+2020-2021,Regular season,22,2021-02-15,PAS Giannina,PAOK,0,2,0.0
+2020-2021,Regular season,22,2021-02-15,Larissa,AEK Athens,2,4,0.0
+2020-2021,Regular season,6,2021-02-18,Apollon Smyrnis,PAS Lamia,0,1,0.0
+2020-2021,Regular season,23,2021-02-20,Atromitos,Larissa,1,1,0.5
+2020-2021,Regular season,23,2021-02-20,AEK Athens,Asteras Tripoli,2,2,0.5
+2020-2021,Regular season,23,2021-02-21,PAOK,PAS Lamia,4,0,1.0
+2020-2021,Regular season,23,2021-02-21,Volos NFC,Apollon Smyrnis,2,0,1.0
+2020-2021,Regular season,23,2021-02-21,PAS Giannina,OFI Crete,1,0,1.0
+2020-2021,Regular season,23,2021-02-21,Olympiacos,Aris,1,1,0.5
+2020-2021,Regular season,23,2021-02-22,Panetolikos,Panathinaikos,1,0,1.0
+2020-2021,Regular season,8,2021-02-24,Larissa,PAS Lamia,0,1,0.0
+2020-2021,Regular season,24,2021-02-27,Apollon Smyrnis,OFI Crete,2,1,1.0
+2020-2021,Regular season,24,2021-02-27,Asteras Tripoli,PAOK,2,1,1.0
+2020-2021,Regular season,24,2021-02-28,Aris,Atromitos,3,0,1.0
+2020-2021,Regular season,24,2021-02-28,Larissa,Panetolikos,1,0,1.0
+2020-2021,Regular season,24,2021-02-28,PAS Lamia,PAS Giannina,0,0,0.5
+2020-2021,Regular season,24,2021-02-28,Panathinaikos,AEK Athens,1,1,0.5
+2020-2021,Regular season,24,2021-03-01,Volos NFC,Olympiacos,1,2,0.0
+2020-2021,Regular season,25,2021-03-06,OFI Crete,Larissa,2,3,0.0
+2020-2021,Regular season,25,2021-03-06,Atromitos,Asteras Tripoli,1,1,0.5
+2020-2021,Regular season,25,2021-03-06,PAS Giannina,Panathinaikos,1,0,1.0
+2020-2021,Regular season,25,2021-03-07,Olympiacos,PAS Lamia,3,0,1.0
+2020-2021,Regular season,25,2021-03-07,Panetolikos,Volos NFC,1,0,1.0
+2020-2021,Regular season,25,2021-03-07,PAOK,Aris,2,2,0.5
+2020-2021,Regular season,25,2021-03-08,AEK Athens,Apollon Smyrnis,2,0,1.0
+2020-2021,Regular season,21,2021-03-10,PAS Lamia,Larissa,2,1,1.0
+2020-2021,Regular season,26,2021-03-14,PAS Lamia,Atromitos,0,0,0.5
+2020-2021,Regular season,26,2021-03-14,Larissa,Olympiacos,1,3,0.0
+2020-2021,Regular season,26,2021-03-14,Volos NFC,AEK Athens,1,0,1.0
+2020-2021,Regular season,26,2021-03-14,Panathinaikos,PAOK,2,1,1.0
+2020-2021,Regular season,26,2021-03-14,Asteras Tripoli,PAS Giannina,0,1,0.0
+2020-2021,Regular season,26,2021-03-14,Apollon Smyrnis,Panetolikos,1,0,1.0
+2020-2021,Regular season,26,2021-03-14,Aris,OFI Crete,1,0,1.0
+2020-2021,Relegation round,1,2021-03-20,Apollon Smyrnis,Larissa,0,2,0.0
+2020-2021,Relegation round,1,2021-03-20,Volos NFC,OFI Crete,0,0,0.5
+2020-2021,Relegation round,1,2021-03-20,PAS Giannina,Atromitos,1,0,1.0
+2020-2021,Relegation round,1,2021-03-20,Panetolikos,PAS Lamia,0,3,0.0
+2020-2021,Championship round,1,2021-03-21,Asteras Tripoli,Panathinaikos,2,2,0.5
+2020-2021,Championship round,1,2021-03-21,Olympiacos,Aris,1,0,1.0
+2020-2021,Championship round,1,2021-03-21,PAOK,AEK Athens,3,1,1.0
+2020-2021,Relegation round,2,2021-04-03,Atromitos,Apollon Smyrnis,1,1,0.5
+2020-2021,Relegation round,2,2021-04-03,OFI Crete,PAS Giannina,2,1,1.0
+2020-2021,Relegation round,2,2021-04-03,PAS Lamia,Volos NFC,1,1,0.5
+2020-2021,Relegation round,2,2021-04-03,Larissa,Panetolikos,1,1,0.5
+2020-2021,Championship round,2,2021-04-04,Panathinaikos,PAOK,3,0,1.0
+2020-2021,Championship round,2,2021-04-04,Aris,Asteras Tripoli,2,0,1.0
+2020-2021,Championship round,2,2021-04-04,AEK Athens,Olympiacos,1,5,0.0
+2020-2021,Relegation round,3,2021-04-10,Volos NFC,Panetolikos,3,1,1.0
+2020-2021,Relegation round,3,2021-04-10,Apollon Smyrnis,OFI Crete,0,0,0.5
+2020-2021,Relegation round,3,2021-04-10,Atromitos,Larissa,0,1,0.0
+2020-2021,Championship round,3,2021-04-11,Aris,AEK Athens,1,3,0.0
+2020-2021,Championship round,3,2021-04-11,Asteras Tripoli,PAOK,1,1,0.5
+2020-2021,Championship round,3,2021-04-11,Olympiacos,Panathinaikos,3,1,1.0
+2020-2021,Relegation round,3,2021-04-12,PAS Giannina,PAS Lamia,1,2,0.0
+2020-2021,Relegation round,4,2021-04-17,OFI Crete,Atromitos,1,1,0.5
+2020-2021,Relegation round,4,2021-04-17,Panetolikos,Apollon Smyrnis,1,0,1.0
+2020-2021,Relegation round,4,2021-04-17,Volos NFC,PAS Giannina,1,1,0.5
+2020-2021,Championship round,4,2021-04-18,Panathinaikos,Aris,1,2,0.0
+2020-2021,Championship round,4,2021-04-18,AEK Athens,Asteras Tripoli,3,1,1.0
+2020-2021,Championship round,4,2021-04-18,PAOK,Olympiacos,2,0,1.0
+2020-2021,Relegation round,4,2021-04-19,PAS Lamia,Larissa,0,0,0.5
+2020-2021,Championship round,5,2021-04-21,Olympiacos,Asteras Tripoli,1,0,1.0
+2020-2021,Championship round,5,2021-04-21,Aris,PAOK,0,1,0.0
+2020-2021,Championship round,5,2021-04-21,AEK Athens,Panathinaikos,1,1,0.5
+2020-2021,Relegation round,5,2021-04-24,PAS Giannina,Panetolikos,0,1,0.0
+2020-2021,Relegation round,5,2021-04-24,Larissa,OFI Crete,0,1,0.0
+2020-2021,Relegation round,5,2021-04-24,Atromitos,PAS Lamia,0,0,0.5
+2020-2021,Championship round,6,2021-04-25,PAOK,Panathinaikos,0,0,0.5
+2020-2021,Championship round,6,2021-04-25,Asteras Tripoli,Aris,1,1,0.5
+2020-2021,Championship round,6,2021-04-25,Olympiacos,AEK Athens,2,0,1.0
+2020-2021,Relegation round,5,2021-04-26,Apollon Smyrnis,Volos NFC,0,0,0.5
+2020-2021,Championship round,7,2021-05-05,Aris,Olympiacos,1,1,0.5
+2020-2021,Championship round,7,2021-05-05,Panathinaikos,Asteras Tripoli,2,2,0.5
+2020-2021,Championship round,7,2021-05-05,AEK Athens,PAOK,1,2,0.0
+2020-2021,Relegation round,6,2021-05-08,PAS Lamia,OFI Crete,0,2,0.0
+2020-2021,Relegation round,6,2021-05-08,Volos NFC,Larissa,3,1,1.0
+2020-2021,Relegation round,6,2021-05-08,Panetolikos,Atromitos,1,3,0.0
+2020-2021,Championship round,8,2021-05-09,PAOK,Aris,2,0,1.0
+2020-2021,Championship round,8,2021-05-09,Asteras Tripoli,Olympiacos,0,0,0.5
+2020-2021,Championship round,8,2021-05-09,Panathinaikos,AEK Athens,0,1,0.0
+2020-2021,Championship round,9,2021-05-12,Asteras Tripoli,AEK Athens,1,1,0.5
+2020-2021,Championship round,9,2021-05-12,Olympiacos,PAOK,1,0,1.0
+2020-2021,Championship round,9,2021-05-12,Aris,Panathinaikos,0,0,0.5
+2020-2021,Relegation round,7,2021-05-15,Atromitos,Volos NFC,1,0,1.0
+2020-2021,Relegation round,7,2021-05-15,Apollon Smyrnis,PAS Lamia,0,1,0.0
+2020-2021,Relegation round,7,2021-05-15,OFI Crete,Panetolikos,2,2,0.5
+2020-2021,Relegation round,7,2021-05-15,Larissa,PAS Giannina,2,0,1.0
+2020-2021,Championship round,10,2021-05-16,PAOK,Asteras Tripoli,0,1,0.0
+2020-2021,Championship round,10,2021-05-16,AEK Athens,Aris,0,0,0.5
+2020-2021,Championship round,10,2021-05-16,Panathinaikos,Olympiacos,1,4,0.0
+2020-2021,Relegation round,6,2021-05-19,PAS Giannina,Apollon Smyrnis,0,2,0.0
+2020-2021,Greek 1/2 Relegation/Promotion Playoffs,,2021-05-26,Xanthi,Panetolikos,2,1,1.0
+2020-2021,Greek 1/2 Relegation/Promotion Playoffs,,2021-05-30,Panetolikos,Xanthi,1,0,1.0

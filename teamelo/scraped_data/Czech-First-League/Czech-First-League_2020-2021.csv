@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,1,2020-08-21,Viktoria Plzeň,Opava,3,1,1.0
+2020-2021,1,2020-08-22,Příbram,Teplice,1,3,0.0
+2020-2021,1,2020-08-22,Sigma Olomouc,Slovan Liberec,1,0,1.0
+2020-2021,1,2020-08-22,Fastav Zlín,Slovácko,1,2,0.0
+2020-2021,1,2020-08-22,Zbrojovka Brno,Sparta Prague,1,4,0.0
+2020-2021,1,2020-08-23,Jablonec,FK Pardubice,1,0,1.0
+2020-2021,1,2020-08-23,Karviná,Baník Ostrava,0,0,0.5
+2020-2021,1,2020-08-23,České Budĕjov.,Slavia Prague,0,6,0.0
+2020-2021,1,2020-08-23,Bohemians 1905,Mladá Boleslav,4,0,1.0
+2020-2021,2,2020-08-28,Baník Ostrava,České Budĕjov.,2,2,0.5
+2020-2021,2,2020-08-29,Opava,Karviná,1,2,0.0
+2020-2021,2,2020-08-29,Mladá Boleslav,Fastav Zlín,1,3,0.0
+2020-2021,2,2020-08-29,Slovácko,Jablonec,1,1,0.5
+2020-2021,2,2020-08-29,Slavia Prague,Příbram,3,0,1.0
+2020-2021,2,2020-08-30,FK Pardubice,Teplice,2,1,1.0
+2020-2021,2,2020-08-30,Zbrojovka Brno,Bohemians 1905,0,0,0.5
+2020-2021,2,2020-08-30,Slovan Liberec,Viktoria Plzeň,4,1,1.0
+2020-2021,2,2020-08-30,Sparta Prague,Sigma Olomouc,3,0,1.0
+2020-2021,3,2020-09-11,Sigma Olomouc,Bohemians 1905,3,0,1.0
+2020-2021,3,2020-09-12,Příbram,Opava,1,1,0.5
+2020-2021,3,2020-09-12,České Budĕjov.,Slovan Liberec,0,2,0.0
+2020-2021,3,2020-09-12,Teplice,Slovácko,0,2,0.0
+2020-2021,3,2020-09-12,Jablonec,Baník Ostrava,2,0,1.0
+2020-2021,3,2020-09-12,FK Pardubice,Slavia Prague,1,1,0.5
+2020-2021,3,2020-09-13,Karviná,Sparta Prague,2,5,0.0
+2020-2021,3,2020-09-13,Fastav Zlín,Zbrojovka Brno,3,1,1.0
+2020-2021,3,2020-09-13,Viktoria Plzeň,Mladá Boleslav,2,1,1.0
+2020-2021,4,2020-09-18,Slavia Prague,Teplice,5,1,1.0
+2020-2021,4,2020-09-19,Opava,České Budĕjov.,0,0,0.5
+2020-2021,4,2020-09-19,Baník Ostrava,FK Pardubice,3,0,1.0
+2020-2021,4,2020-09-19,Bohemians 1905,Viktoria Plzeň,1,4,0.0
+2020-2021,4,2020-09-20,Slovan Liberec,Karviná,1,1,0.5
+2020-2021,4,2020-09-20,Zbrojovka Brno,Sigma Olomouc,2,4,0.0
+2020-2021,4,2020-09-20,Sparta Prague,Fastav Zlín,3,1,1.0
+2020-2021,4,2020-09-21,Mladá Boleslav,Jablonec,2,0,1.0
+2020-2021,5,2020-09-26,Karviná,Mladá Boleslav,0,0,0.5
+2020-2021,5,2020-09-26,Teplice,Baník Ostrava,2,1,1.0
+2020-2021,5,2020-09-26,Fastav Zlín,Sigma Olomouc,0,1,0.0
+2020-2021,5,2020-09-26,Slavia Prague,Slovácko,3,0,1.0
+2020-2021,5,2020-09-27,FK Pardubice,Slovan Liberec,3,0,1.0
+2020-2021,5,2020-09-27,Jablonec,Opava,4,1,1.0
+2020-2021,5,2020-09-27,Viktoria Plzeň,Zbrojovka Brno,4,1,1.0
+2020-2021,5,2020-09-27,Příbram,Sparta Prague,1,3,0.0
+2020-2021,6,2020-10-02,Slovácko,FK Pardubice,0,1,0.0
+2020-2021,6,2020-10-03,Zbrojovka Brno,Karviná,0,2,0.0
+2020-2021,6,2020-10-03,Mladá Boleslav,České Budĕjov.,2,2,0.5
+2020-2021,6,2020-10-03,Opava,Teplice,2,1,1.0
+2020-2021,6,2020-10-03,Sparta Prague,Jablonec,2,1,1.0
+2020-2021,6,2020-10-04,Bohemians 1905,Fastav Zlín,2,0,1.0
+2020-2021,6,2020-10-04,Sigma Olomouc,Viktoria Plzeň,2,2,0.5
+2020-2021,6,2020-10-04,Slovan Liberec,Příbram,3,0,1.0
+2020-2021,6,2020-10-04,Baník Ostrava,Slavia Prague,0,1,0.0
+2020-2021,7,2020-11-06,Jablonec,Zbrojovka Brno,0,1,0.0
+2020-2021,7,2020-11-07,FK Pardubice,Opava,1,0,1.0
+2020-2021,7,2020-11-07,České Budĕjov.,Fastav Zlín,1,2,0.0
+2020-2021,7,2020-11-07,Slovácko,Sigma Olomouc,0,0,0.5
+2020-2021,7,2020-11-07,Příbram,Baník Ostrava,0,4,0.0
+2020-2021,7,2020-11-08,Teplice,Slovan Liberec,1,2,0.0
+2020-2021,7,2020-11-08,Karviná,Bohemians 1905,2,1,1.0
+2020-2021,7,2020-11-08,Slavia Prague,Mladá Boleslav,1,0,1.0
+2020-2021,7,2020-11-08,Viktoria Plzeň,Sparta Prague,3,1,1.0
+2020-2021,4,2020-11-14,Slovácko,Příbram,5,1,1.0
+2020-2021,8,2020-11-20,Slovan Liberec,Jablonec,1,3,0.0
+2020-2021,8,2020-11-21,Mladá Boleslav,FK Pardubice,4,1,1.0
+2020-2021,8,2020-11-21,Sigma Olomouc,Karviná,3,0,1.0
+2020-2021,8,2020-11-21,Bohemians 1905,Teplice,2,0,1.0
+2020-2021,8,2020-11-21,Opava,Slavia Prague,0,6,0.0
+2020-2021,8,2020-11-22,Zbrojovka Brno,Příbram,1,1,0.5
+2020-2021,8,2020-11-22,Fastav Zlín,Viktoria Plzeň,1,0,1.0
+2020-2021,8,2020-11-22,Sparta Prague,České Budĕjov.,2,4,0.0
+2020-2021,5,2020-11-25,České Budĕjov.,Bohemians 1905,2,1,1.0
+2020-2021,9,2020-11-27,FK Pardubice,Sigma Olomouc,1,1,0.5
+2020-2021,9,2020-11-28,Příbram,Mladá Boleslav,2,1,1.0
+2020-2021,9,2020-11-28,Slovácko,Opava,3,1,1.0
+2020-2021,9,2020-11-28,Karviná,Fastav Zlín,0,2,0.0
+2020-2021,9,2020-11-28,České Budĕjov.,Viktoria Plzeň,0,0,0.5
+2020-2021,9,2020-11-29,Teplice,Sparta Prague,0,1,0.0
+2020-2021,9,2020-11-29,Slavia Prague,Zbrojovka Brno,1,1,0.5
+2020-2021,10,2020-12-04,Fastav Zlín,Jablonec,0,2,0.0
+2020-2021,10,2020-12-05,Opava,Baník Ostrava,1,2,0.0
+2020-2021,10,2020-12-05,Bohemians 1905,FK Pardubice,1,1,0.5
+2020-2021,10,2020-12-05,Sigma Olomouc,Příbram,1,1,0.5
+2020-2021,10,2020-12-05,Viktoria Plzeň,Karviná,0,1,0.0
+2020-2021,10,2020-12-06,Zbrojovka Brno,České Budĕjov.,1,3,0.0
+2020-2021,10,2020-12-06,Mladá Boleslav,Teplice,0,2,0.0
+2020-2021,10,2020-12-06,Sparta Prague,Slavia Prague,0,3,0.0
+2020-2021,10,2020-12-07,Slovan Liberec,Slovácko,1,1,0.5
+2020-2021,9,2020-12-08,Jablonec,Bohemians 1905,2,1,1.0
+2020-2021,11,2020-12-11,Baník Ostrava,Bohemians 1905,1,0,1.0
+2020-2021,11,2020-12-12,Příbram,Fastav Zlín,1,0,1.0
+2020-2021,11,2020-12-12,Opava,Mladá Boleslav,2,2,0.5
+2020-2021,11,2020-12-12,České Budĕjov.,Karviná,1,1,0.5
+2020-2021,11,2020-12-12,FK Pardubice,Zbrojovka Brno,2,1,1.0
+2020-2021,11,2020-12-12,Teplice,Sigma Olomouc,1,1,0.5
+2020-2021,11,2020-12-12,Jablonec,Viktoria Plzeň,3,2,1.0
+2020-2021,11,2020-12-13,Slovácko,Sparta Prague,1,2,0.0
+2020-2021,11,2020-12-13,Slavia Prague,Slovan Liberec,3,0,1.0
+2020-2021,12,2020-12-15,Karviná,Jablonec,2,2,0.5
+2020-2021,12,2020-12-15,Mladá Boleslav,Baník Ostrava,1,3,0.0
+2020-2021,12,2020-12-15,Sigma Olomouc,České Budĕjov.,1,1,0.5
+2020-2021,12,2020-12-15,Bohemians 1905,Příbram,2,1,1.0
+2020-2021,12,2020-12-15,Viktoria Plzeň,Teplice,7,0,1.0
+2020-2021,12,2020-12-16,Slovan Liberec,Opava,2,0,1.0
+2020-2021,12,2020-12-16,Zbrojovka Brno,Slovácko,2,1,1.0
+2020-2021,12,2020-12-16,Sparta Prague,FK Pardubice,2,0,1.0
+2020-2021,13,2020-12-18,Baník Ostrava,Sigma Olomouc,1,1,0.5
+2020-2021,13,2020-12-19,Příbram,Karviná,0,1,0.0
+2020-2021,13,2020-12-19,Jablonec,České Budĕjov.,2,1,1.0
+2020-2021,13,2020-12-19,Slovan Liberec,Mladá Boleslav,3,0,1.0
+2020-2021,13,2020-12-20,Teplice,Zbrojovka Brno,1,0,1.0
+2020-2021,13,2020-12-20,FK Pardubice,Fastav Zlín,0,0,0.5
+2020-2021,13,2020-12-20,Slovácko,Viktoria Plzeň,4,0,1.0
+2020-2021,13,2020-12-20,Slavia Prague,Bohemians 1905,2,1,1.0
+2020-2021,14,2020-12-22,Sigma Olomouc,Jablonec,1,3,0.0
+2020-2021,14,2020-12-22,Sparta Prague,Slovan Liberec,1,1,0.5
+2020-2021,14,2020-12-23,Mladá Boleslav,Slovácko,2,3,0.0
+2020-2021,14,2020-12-23,Fastav Zlín,Teplice,2,3,0.0
+2020-2021,14,2020-12-23,Zbrojovka Brno,Baník Ostrava,0,1,0.0
+2020-2021,14,2020-12-23,Karviná,FK Pardubice,0,2,0.0
+2020-2021,14,2020-12-23,Viktoria Plzeň,Slavia Prague,0,1,0.0
+2020-2021,15,2021-01-15,Teplice,Jablonec,0,5,0.0
+2020-2021,15,2021-01-16,Opava,Fastav Zlín,0,0,0.5
+2020-2021,15,2021-01-16,Mladá Boleslav,Zbrojovka Brno,1,1,0.5
+2020-2021,15,2021-01-16,Slovan Liberec,Bohemians 1905,1,1,0.5
+2020-2021,15,2021-01-16,Slovácko,Karviná,2,0,1.0
+2020-2021,15,2021-01-16,Slavia Prague,Sigma Olomouc,3,1,1.0
+2020-2021,15,2021-01-17,FK Pardubice,České Budĕjov.,0,2,0.0
+2020-2021,15,2021-01-17,Příbram,Viktoria Plzeň,0,0,0.5
+2020-2021,15,2021-01-17,Baník Ostrava,Sparta Prague,0,0,0.5
+2020-2021,8,2021-01-20,Baník Ostrava,Slovácko,1,2,0.0
+2020-2021,14,2021-01-20,České Budĕjov.,Příbram,2,1,1.0
+2020-2021,13,2021-01-20,Opava,Sparta Prague,0,3,0.0
+2020-2021,16,2021-01-22,Zbrojovka Brno,Slovan Liberec,0,3,0.0
+2020-2021,16,2021-01-23,Sigma Olomouc,Opava,4,1,1.0
+2020-2021,16,2021-01-23,Bohemians 1905,Slovácko,1,3,0.0
+2020-2021,16,2021-01-23,Fastav Zlín,Baník Ostrava,1,1,0.5
+2020-2021,16,2021-01-23,Karviná,Slavia Prague,1,3,0.0
+2020-2021,16,2021-01-24,České Budĕjov.,Teplice,2,0,1.0
+2020-2021,16,2021-01-24,Jablonec,Příbram,2,1,1.0
+2020-2021,16,2021-01-24,Viktoria Plzeň,FK Pardubice,2,0,1.0
+2020-2021,16,2021-01-24,Sparta Prague,Mladá Boleslav,1,0,1.0
+2020-2021,9,2021-01-27,Baník Ostrava,Slovan Liberec,1,0,1.0
+2020-2021,14,2021-01-27,Bohemians 1905,Opava,0,0,0.5
+2020-2021,12,2021-01-27,Fastav Zlín,Slavia Prague,2,6,0.0
+2020-2021,17,2021-01-30,Teplice,Karviná,2,2,0.5
+2020-2021,17,2021-01-30,Slovácko,České Budĕjov.,0,0,0.5
+2020-2021,17,2021-01-30,FK Pardubice,Příbram,1,0,1.0
+2020-2021,17,2021-01-30,Sparta Prague,Bohemians 1905,0,1,0.0
+2020-2021,17,2021-01-31,Opava,Zbrojovka Brno,0,2,0.0
+2020-2021,17,2021-01-31,Baník Ostrava,Viktoria Plzeň,0,2,0.0
+2020-2021,17,2021-01-31,Slavia Prague,Jablonec,3,0,1.0
+2020-2021,17,2021-02-02,Mladá Boleslav,Sigma Olomouc,1,1,0.5
+2020-2021,18,2021-02-05,České Budĕjov.,Baník Ostrava,1,0,1.0
+2020-2021,18,2021-02-06,Bohemians 1905,Zbrojovka Brno,2,1,1.0
+2020-2021,18,2021-02-06,Karviná,Opava,3,1,1.0
+2020-2021,18,2021-02-06,Viktoria Plzeň,Slovan Liberec,0,2,0.0
+2020-2021,18,2021-02-07,Teplice,FK Pardubice,0,1,0.0
+2020-2021,18,2021-02-07,Příbram,Slavia Prague,3,3,0.5
+2020-2021,18,2021-02-07,Sigma Olomouc,Sparta Prague,2,3,0.0
+2020-2021,19,2021-02-12,Slovácko,Teplice,2,0,1.0
+2020-2021,19,2021-02-13,Zbrojovka Brno,Fastav Zlín,0,0,0.5
+2020-2021,19,2021-02-13,Opava,Příbram,0,0,0.5
+2020-2021,19,2021-02-13,Slavia Prague,FK Pardubice,3,0,1.0
+2020-2021,19,2021-02-14,Mladá Boleslav,Viktoria Plzeň,2,2,0.5
+2020-2021,19,2021-02-14,Baník Ostrava,Jablonec,2,1,1.0
+2020-2021,19,2021-02-14,Bohemians 1905,Sigma Olomouc,0,0,0.5
+2020-2021,19,2021-02-14,Slovan Liberec,České Budĕjov.,0,0,0.5
+2020-2021,19,2021-02-14,Sparta Prague,Karviná,4,3,1.0
+2020-2021,17,2021-02-17,Slovan Liberec,Fastav Zlín,1,0,1.0
+2020-2021,20,2021-02-19,Jablonec,Mladá Boleslav,1,1,0.5
+2020-2021,20,2021-02-20,Příbram,Slovácko,1,4,0.0
+2020-2021,20,2021-02-20,FK Pardubice,Baník Ostrava,3,2,1.0
+2020-2021,20,2021-02-20,Sigma Olomouc,Zbrojovka Brno,1,0,1.0
+2020-2021,20,2021-02-20,Fastav Zlín,Sparta Prague,0,3,0.0
+2020-2021,20,2021-02-21,Viktoria Plzeň,Bohemians 1905,3,1,1.0
+2020-2021,20,2021-02-21,Karviná,Slovan Liberec,1,1,0.5
+2020-2021,20,2021-02-21,České Budĕjov.,Opava,0,1,0.0
+2020-2021,20,2021-02-21,Teplice,Slavia Prague,1,1,0.5
+2020-2021,18,2021-02-24,Jablonec,Slovácko,0,3,0.0
+2020-2021,18,2021-02-24,Fastav Zlín,Mladá Boleslav,2,1,1.0
+2020-2021,21,2021-02-26,Slovan Liberec,FK Pardubice,4,1,1.0
+2020-2021,21,2021-02-27,Opava,Jablonec,0,1,0.0
+2020-2021,21,2021-02-27,Baník Ostrava,Teplice,1,1,0.5
+2020-2021,21,2021-02-27,Bohemians 1905,České Budĕjov.,1,1,0.5
+2020-2021,21,2021-02-27,Zbrojovka Brno,Viktoria Plzeň,0,1,0.0
+2020-2021,21,2021-02-28,Sigma Olomouc,Fastav Zlín,0,1,0.0
+2020-2021,21,2021-02-28,Mladá Boleslav,Karviná,2,0,1.0
+2020-2021,21,2021-02-28,Slovácko,Slavia Prague,2,3,0.0
+2020-2021,22,2021-03-06,Příbram,Slovan Liberec,0,2,0.0
+2020-2021,22,2021-03-06,Fastav Zlín,Bohemians 1905,0,0,0.5
+2020-2021,22,2021-03-06,Teplice,Opava,3,1,1.0
+2020-2021,22,2021-03-06,Viktoria Plzeň,Sigma Olomouc,1,0,1.0
+2020-2021,22,2021-03-07,České Budĕjov.,Mladá Boleslav,1,3,0.0
+2020-2021,22,2021-03-07,Karviná,Zbrojovka Brno,1,1,0.5
+2020-2021,22,2021-03-07,Slavia Prague,Baník Ostrava,2,1,1.0
+2020-2021,21,2021-03-09,Sparta Prague,Příbram,4,0,1.0
+2020-2021,23,2021-03-12,Slovan Liberec,Teplice,2,1,1.0
+2020-2021,23,2021-03-13,Opava,FK Pardubice,1,0,1.0
+2020-2021,23,2021-03-13,Baník Ostrava,Příbram,5,0,1.0
+2020-2021,23,2021-03-13,Fastav Zlín,České Budĕjov.,3,0,1.0
+2020-2021,23,2021-03-14,Bohemians 1905,Karviná,2,0,1.0
+2020-2021,23,2021-03-14,Zbrojovka Brno,Jablonec,1,2,0.0
+2020-2021,23,2021-03-14,Mladá Boleslav,Slavia Prague,0,3,0.0
+2020-2021,24,2021-03-19,FK Pardubice,Mladá Boleslav,2,2,0.5
+2020-2021,24,2021-03-20,Příbram,Zbrojovka Brno,1,1,0.5
+2020-2021,24,2021-03-20,Karviná,Sigma Olomouc,0,1,0.0
+2020-2021,24,2021-03-20,Jablonec,Slovan Liberec,2,1,1.0
+2020-2021,24,2021-03-21,Slovácko,Baník Ostrava,2,1,1.0
+2020-2021,24,2021-03-21,Teplice,Bohemians 1905,1,1,0.5
+2020-2021,24,2021-03-21,České Budĕjov.,Sparta Prague,0,0,0.5
+2020-2021,24,2021-03-21,Slavia Prague,Opava,4,0,1.0
+2020-2021,25,2021-04-02,Bohemians 1905,Jablonec,0,0,0.5
+2020-2021,25,2021-04-03,Sigma Olomouc,FK Pardubice,0,1,0.0
+2020-2021,25,2021-04-03,Opava,Slovácko,1,2,0.0
+2020-2021,25,2021-04-03,Slovan Liberec,Baník Ostrava,0,0,0.5
+2020-2021,25,2021-04-03,Sparta Prague,Teplice,7,2,1.0
+2020-2021,25,2021-04-04,Fastav Zlín,Karviná,1,2,0.0
+2020-2021,25,2021-04-04,Mladá Boleslav,Příbram,0,0,0.5
+2020-2021,25,2021-04-04,Viktoria Plzeň,České Budĕjov.,2,1,1.0
+2020-2021,25,2021-04-04,Zbrojovka Brno,Slavia Prague,0,0,0.5
+2020-2021,23,2021-04-06,Sigma Olomouc,Slovácko,0,0,0.5
+2020-2021,26,2021-04-09,FK Pardubice,Bohemians 1905,0,2,0.0
+2020-2021,26,2021-04-10,Jablonec,Fastav Zlín,3,1,1.0
+2020-2021,26,2021-04-10,Karviná,Viktoria Plzeň,1,1,0.5
+2020-2021,26,2021-04-10,Příbram,Sigma Olomouc,0,2,0.0
+2020-2021,26,2021-04-10,Baník Ostrava,Opava,3,0,1.0
+2020-2021,26,2021-04-10,Slovácko,Slovan Liberec,1,0,1.0
+2020-2021,26,2021-04-11,České Budĕjov.,Zbrojovka Brno,0,2,0.0
+2020-2021,26,2021-04-11,Teplice,Mladá Boleslav,1,3,0.0
+2020-2021,26,2021-04-11,Slavia Prague,Sparta Prague,2,0,1.0
+2020-2021,22,2021-04-13,FK Pardubice,Slovácko,3,1,1.0
+2020-2021,24,2021-04-14,Viktoria Plzeň,Fastav Zlín,2,0,1.0
+2020-2021,22,2021-04-14,Jablonec,Sparta Prague,1,0,1.0
+2020-2021,27,2021-04-16,Bohemians 1905,Baník Ostrava,1,1,0.5
+2020-2021,27,2021-04-17,Mladá Boleslav,Opava,2,0,1.0
+2020-2021,27,2021-04-17,Karviná,České Budĕjov.,3,0,1.0
+2020-2021,27,2021-04-17,Sigma Olomouc,Teplice,1,1,0.5
+2020-2021,27,2021-04-17,Viktoria Plzeň,Jablonec,1,1,0.5
+2020-2021,27,2021-04-18,Zbrojovka Brno,FK Pardubice,1,2,0.0
+2020-2021,27,2021-04-18,Fastav Zlín,Příbram,0,1,0.0
+2020-2021,27,2021-04-18,Slovan Liberec,Slavia Prague,0,1,0.0
+2020-2021,27,2021-04-18,Sparta Prague,Slovácko,1,0,1.0
+2020-2021,28,2021-04-20,České Budĕjov.,Sigma Olomouc,2,2,0.5
+2020-2021,28,2021-04-20,Baník Ostrava,Mladá Boleslav,2,1,1.0
+2020-2021,28,2021-04-20,Jablonec,Karviná,3,0,1.0
+2020-2021,28,2021-04-21,Teplice,Viktoria Plzeň,0,1,0.0
+2020-2021,28,2021-04-21,Opava,Slovan Liberec,0,2,0.0
+2020-2021,28,2021-04-21,Příbram,Bohemians 1905,1,4,0.0
+2020-2021,28,2021-04-21,Slovácko,Zbrojovka Brno,4,2,1.0
+2020-2021,28,2021-04-21,FK Pardubice,Sparta Prague,2,2,0.5
+2020-2021,28,2021-04-21,Slavia Prague,Fastav Zlín,2,1,1.0
+2020-2021,29,2021-04-24,Sigma Olomouc,Baník Ostrava,0,2,0.0
+2020-2021,29,2021-04-24,České Budĕjov.,Jablonec,0,2,0.0
+2020-2021,29,2021-04-24,Mladá Boleslav,Slovan Liberec,0,1,0.0
+2020-2021,29,2021-04-24,Viktoria Plzeň,Slovácko,2,1,1.0
+2020-2021,29,2021-04-25,Karviná,Příbram,0,1,0.0
+2020-2021,29,2021-04-25,Fastav Zlín,FK Pardubice,0,4,0.0
+2020-2021,29,2021-04-25,Zbrojovka Brno,Teplice,0,0,0.5
+2020-2021,29,2021-04-25,Sparta Prague,Opava,4,2,1.0
+2020-2021,29,2021-04-25,Bohemians 1905,Slavia Prague,0,0,0.5
+2020-2021,30,2021-05-01,Příbram,České Budĕjov.,0,1,0.0
+2020-2021,30,2021-05-01,Opava,Bohemians 1905,1,1,0.5
+2020-2021,30,2021-05-01,Slovácko,Mladá Boleslav,0,1,0.0
+2020-2021,30,2021-05-01,Baník Ostrava,Zbrojovka Brno,1,1,0.5
+2020-2021,30,2021-05-02,FK Pardubice,Karviná,2,2,0.5
+2020-2021,30,2021-05-02,Jablonec,Sigma Olomouc,3,1,1.0
+2020-2021,30,2021-05-02,Teplice,Fastav Zlín,0,0,0.5
+2020-2021,30,2021-05-02,Slovan Liberec,Sparta Prague,2,2,0.5
+2020-2021,30,2021-05-02,Slavia Prague,Viktoria Plzeň,5,1,1.0
+2020-2021,31,2021-05-07,Jablonec,Teplice,4,1,1.0
+2020-2021,31,2021-05-08,Fastav Zlín,Opava,1,1,0.5
+2020-2021,31,2021-05-08,Viktoria Plzeň,Příbram,3,3,0.5
+2020-2021,31,2021-05-08,Zbrojovka Brno,Mladá Boleslav,2,3,0.0
+2020-2021,31,2021-05-08,Bohemians 1905,Slovan Liberec,3,0,1.0
+2020-2021,31,2021-05-09,České Budĕjov.,FK Pardubice,2,0,1.0
+2020-2021,31,2021-05-09,Karviná,Slovácko,0,2,0.0
+2020-2021,31,2021-05-09,Sigma Olomouc,Slavia Prague,0,1,0.0
+2020-2021,31,2021-05-09,Sparta Prague,Baník Ostrava,3,1,1.0
+2020-2021,23,2021-05-12,Sparta Prague,Viktoria Plzeň,3,1,1.0
+2020-2021,32,2021-05-14,Slovan Liberec,Zbrojovka Brno,1,1,0.5
+2020-2021,32,2021-05-15,Opava,Sigma Olomouc,1,2,0.0
+2020-2021,32,2021-05-15,Příbram,Jablonec,1,0,1.0
+2020-2021,32,2021-05-15,Baník Ostrava,Fastav Zlín,4,2,1.0
+2020-2021,32,2021-05-15,Slovácko,Bohemians 1905,1,1,0.5
+2020-2021,32,2021-05-16,FK Pardubice,Viktoria Plzeň,3,0,1.0
+2020-2021,32,2021-05-16,Teplice,České Budĕjov.,2,0,1.0
+2020-2021,32,2021-05-16,Mladá Boleslav,Sparta Prague,4,5,0.0
+2020-2021,32,2021-05-16,Slavia Prague,Karviná,1,1,0.5
+2020-2021,33,2021-05-23,České Budĕjov.,Slovácko,0,1,0.0
+2020-2021,33,2021-05-23,Jablonec,Slavia Prague,1,1,0.5
+2020-2021,33,2021-05-23,Sigma Olomouc,Mladá Boleslav,0,3,0.0
+2020-2021,33,2021-05-23,Karviná,Teplice,2,0,1.0
+2020-2021,33,2021-05-23,Fastav Zlín,Slovan Liberec,0,0,0.5
+2020-2021,33,2021-05-23,Zbrojovka Brno,Opava,4,1,1.0
+2020-2021,33,2021-05-23,Bohemians 1905,Sparta Prague,1,2,0.0
+2020-2021,33,2021-05-23,Příbram,FK Pardubice,0,1,0.0
+2020-2021,33,2021-05-23,Viktoria Plzeň,Baník Ostrava,4,0,1.0
+2020-2021,34,2021-05-29,Opava,Viktoria Plzeň,1,3,0.0
+2020-2021,34,2021-05-29,Baník Ostrava,Karviná,1,1,0.5
+2020-2021,34,2021-05-29,Slavia Prague,České Budĕjov.,2,1,1.0
+2020-2021,34,2021-05-29,Slovácko,Fastav Zlín,2,0,1.0
+2020-2021,34,2021-05-29,Sparta Prague,Zbrojovka Brno,6,1,1.0
+2020-2021,34,2021-05-29,Slovan Liberec,Sigma Olomouc,1,2,0.0
+2020-2021,34,2021-05-29,Teplice,Příbram,2,2,0.5
+2020-2021,34,2021-05-29,FK Pardubice,Jablonec,0,1,0.0
+2020-2021,34,2021-05-29,Mladá Boleslav,Bohemians 1905,3,1,1.0

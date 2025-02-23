@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1922-1923,1,1922-08-26,Tottenham,Cardiff City,1,1,0.5
+1922-1923,1,1922-08-26,Chelsea,Birmingham,1,1,0.5
+1922-1923,1,1922-08-26,Newcastle Utd,Everton,2,0,1.0
+1922-1923,1,1922-08-26,Sheffield Utd,Manchester City,2,0,1.0
+1922-1923,1,1922-08-26,Oldham Athletic,Stoke,4,1,1.0
+1922-1923,1,1922-08-26,Aston Villa,Blackburn,2,0,1.0
+1922-1923,1,1922-08-26,Middlesbrough,Huddersfield,2,2,0.5
+1922-1923,1,1922-08-26,Preston,Bolton,3,1,1.0
+1922-1923,1,1922-08-26,Burnley,West Brom,3,0,1.0
+1922-1923,1,1922-08-26,Nott'ham Forest,Sunderland,1,0,1.0
+1922-1923,1,1922-08-26,Liverpool,Arsenal,5,2,1.0
+1922-1923,2,1922-08-28,Cardiff City,Aston Villa,3,0,1.0
+1922-1923,2,1922-08-28,West Brom,Preston,2,2,0.5
+1922-1923,2,1922-08-28,Arsenal,Burnley,1,1,0.5
+1922-1923,2,1922-08-28,Birmingham,Newcastle Utd,0,2,0.0
+1922-1923,2,1922-08-28,Huddersfield,Nott'ham Forest,2,1,1.0
+1922-1923,2,1922-08-28,Manchester City,Middlesbrough,2,1,1.0
+1922-1923,2,1922-08-28,Stoke,Chelsea,1,2,0.0
+1922-1923,2,1922-08-30,Sunderland,Liverpool,1,0,1.0
+1922-1923,2,1922-09-02,Manchester City,Sheffield Utd,3,3,0.5
+1922-1923,2,1922-09-02,Cardiff City,Tottenham,2,3,0.0
+1922-1923,2,1922-09-02,Stoke,Oldham Athletic,2,2,0.5
+1922-1923,3,1922-09-02,Bolton,Preston,1,1,0.5
+1922-1923,3,1922-09-02,West Brom,Burnley,2,1,1.0
+1922-1923,3,1922-09-02,Blackburn,Aston Villa,4,2,1.0
+1922-1923,3,1922-09-02,Sunderland,Nott'ham Forest,0,0,0.5
+1922-1923,3,1922-09-02,Arsenal,Liverpool,1,0,1.0
+1922-1923,3,1922-09-02,Birmingham,Chelsea,0,1,0.0
+1922-1923,3,1922-09-02,Everton,Newcastle Utd,3,2,1.0
+1922-1923,3,1922-09-02,Huddersfield,Middlesbrough,0,2,0.0
+1922-1923,3,1922-09-04,Sheffield Utd,Blackburn,1,1,0.5
+1922-1923,3,1922-09-04,Bolton,Oldham Athletic,3,1,1.0
+1922-1923,3,1922-09-04,Tottenham,Everton,2,0,1.0
+1922-1923,4,1922-09-04,Aston Villa,Cardiff City,1,3,0.0
+1922-1923,4,1922-09-04,Burnley,Arsenal,4,1,1.0
+1922-1923,4,1922-09-04,Preston,West Brom,0,0,0.5
+1922-1923,4,1922-09-04,Chelsea,Stoke,3,2,1.0
+1922-1923,4,1922-09-04,Middlesbrough,Manchester City,5,0,1.0
+1922-1923,4,1922-09-04,Nott'ham Forest,Huddersfield,0,1,0.0
+1922-1923,4,1922-09-06,Liverpool,Sunderland,5,1,1.0
+1922-1923,4,1922-09-06,Newcastle Utd,Birmingham,0,0,0.5
+1922-1923,4,1922-09-09,Everton,Blackburn,2,0,1.0
+1922-1923,5,1922-09-09,Bolton,Sunderland,1,1,0.5
+1922-1923,5,1922-09-09,Chelsea,Middlesbrough,1,1,0.5
+1922-1923,5,1922-09-09,Aston Villa,West Brom,2,0,1.0
+1922-1923,5,1922-09-09,Preston,Liverpool,1,3,0.0
+1922-1923,5,1922-09-09,Tottenham,Burnley,1,3,0.0
+1922-1923,5,1922-09-09,Cardiff City,Arsenal,4,1,1.0
+1922-1923,5,1922-09-09,Oldham Athletic,Nott'ham Forest,2,0,1.0
+1922-1923,5,1922-09-09,Manchester City,Birmingham,0,1,0.0
+1922-1923,5,1922-09-09,Newcastle Utd,Sheffield Utd,3,0,1.0
+1922-1923,5,1922-09-09,Stoke,Huddersfield,2,2,0.5
+1922-1923,5,1922-09-11,Oldham Athletic,Bolton,3,1,1.0
+1922-1923,6,1922-09-13,Birmingham,Stoke,2,0,1.0
+1922-1923,5,1922-09-16,Blackburn,Everton,5,1,1.0
+1922-1923,6,1922-09-16,Liverpool,Preston,5,2,1.0
+1922-1923,6,1922-09-16,Arsenal,Cardiff City,2,1,1.0
+1922-1923,6,1922-09-16,West Brom,Aston Villa,3,0,1.0
+1922-1923,6,1922-09-16,Burnley,Tottenham,0,1,0.0
+1922-1923,6,1922-09-16,Sheffield Utd,Newcastle Utd,2,0,1.0
+1922-1923,6,1922-09-16,Huddersfield,Stoke,1,0,1.0
+1922-1923,6,1922-09-16,Middlesbrough,Chelsea,2,1,1.0
+1922-1923,6,1922-09-16,Nott'ham Forest,Oldham Athletic,1,0,1.0
+1922-1923,6,1922-09-16,Sunderland,Bolton,5,1,1.0
+1922-1923,7,1922-09-16,Birmingham,Manchester City,0,1,0.0
+1922-1923,6,1922-09-18,Blackburn,Sheffield Utd,1,0,1.0
+1922-1923,6,1922-09-23,Tottenham,Arsenal,1,2,0.0
+1922-1923,7,1922-09-23,Manchester City,Huddersfield,3,1,1.0
+1922-1923,7,1922-09-23,Newcastle Utd,Preston,3,1,1.0
+1922-1923,7,1922-09-23,Chelsea,Oldham Athletic,4,0,1.0
+1922-1923,7,1922-09-23,Nott'ham Forest,Sheffield Utd,1,0,1.0
+1922-1923,7,1922-09-23,Blackburn,Sunderland,0,0,0.5
+1922-1923,7,1922-09-23,Cardiff City,Everton,0,2,0.0
+1922-1923,7,1922-09-23,Aston Villa,Middlesbrough,2,2,0.5
+1922-1923,7,1922-09-23,Liverpool,Burnley,3,0,1.0
+1922-1923,8,1922-09-23,Stoke,West Brom,0,2,0.0
+1922-1923,8,1922-09-23,Bolton,Birmingham,3,0,1.0
+1922-1923,7,1922-09-30,Arsenal,Tottenham,0,2,0.0
+1922-1923,8,1922-09-30,Oldham Athletic,Chelsea,2,0,1.0
+1922-1923,8,1922-09-30,Preston,Newcastle Utd,1,0,1.0
+1922-1923,8,1922-09-30,Middlesbrough,Aston Villa,2,2,0.5
+1922-1923,8,1922-09-30,Huddersfield,Manchester City,0,0,0.5
+1922-1923,8,1922-09-30,Everton,Cardiff City,3,1,1.0
+1922-1923,8,1922-09-30,Sunderland,Blackburn,4,3,1.0
+1922-1923,8,1922-09-30,Sheffield Utd,Nott'ham Forest,0,0,0.5
+1922-1923,8,1922-09-30,Burnley,Liverpool,2,0,1.0
+1922-1923,9,1922-09-30,West Brom,Stoke,0,1,0.0
+1922-1923,9,1922-09-30,Birmingham,Bolton,2,0,1.0
+1922-1923,9,1922-10-02,Sheffield Utd,Arsenal,2,1,1.0
+1922-1923,9,1922-10-05,Nott'ham Forest,Bolton,1,1,0.5
+1922-1923,9,1922-10-07,Cardiff City,Sunderland,2,4,0.0
+1922-1923,9,1922-10-07,Chelsea,Sheffield Utd,0,0,0.5
+1922-1923,9,1922-10-07,Bolton,Huddersfield,1,0,1.0
+1922-1923,9,1922-10-07,Oldham Athletic,Middlesbrough,0,0,0.5
+1922-1923,9,1922-10-07,Stoke,Manchester City,1,1,0.5
+1922-1923,9,1922-10-07,Newcastle Utd,Burnley,0,2,0.0
+1922-1923,9,1922-10-07,Liverpool,Everton,5,1,1.0
+1922-1923,9,1922-10-07,Aston Villa,Tottenham,2,0,1.0
+1922-1923,10,1922-10-07,Blackburn,Birmingham,1,1,0.5
+1922-1923,10,1922-10-07,Arsenal,West Brom,3,1,1.0
+1922-1923,10,1922-10-07,Nott'ham Forest,Preston,3,0,1.0
+1922-1923,10,1922-10-14,Huddersfield,Bolton,0,2,0.0
+1922-1923,10,1922-10-14,Sunderland,Cardiff City,2,1,1.0
+1922-1923,10,1922-10-14,Manchester City,Stoke,2,1,1.0
+1922-1923,10,1922-10-14,Middlesbrough,Oldham Athletic,2,1,1.0
+1922-1923,10,1922-10-14,Everton,Liverpool,0,1,0.0
+1922-1923,10,1922-10-14,Burnley,Newcastle Utd,0,0,0.5
+1922-1923,10,1922-10-14,Tottenham,Aston Villa,1,2,0.0
+1922-1923,10,1922-10-14,Sheffield Utd,Chelsea,0,2,0.0
+1922-1923,11,1922-10-14,Preston,Nott'ham Forest,2,2,0.5
+1922-1923,11,1922-10-14,Birmingham,Blackburn,1,1,0.5
+1922-1923,11,1922-10-14,West Brom,Arsenal,7,0,1.0
+1922-1923,10,1922-10-21,Tottenham,West Brom,3,1,1.0
+1922-1923,11,1922-10-21,Oldham Athletic,Huddersfield,0,3,0.0
+1922-1923,11,1922-10-21,Middlesbrough,Birmingham,2,1,1.0
+1922-1923,11,1922-10-21,Burnley,Blackburn,3,1,1.0
+1922-1923,11,1922-10-21,Chelsea,Sunderland,1,3,0.0
+1922-1923,11,1922-10-21,Aston Villa,Bolton,2,0,1.0
+1922-1923,11,1922-10-21,Newcastle Utd,Arsenal,1,1,0.5
+1922-1923,11,1922-10-21,Liverpool,Cardiff City,3,1,1.0
+1922-1923,11,1922-10-21,Preston,Manchester City,0,2,0.0
+1922-1923,12,1922-10-21,Sheffield Utd,Stoke,2,0,1.0
+1922-1923,12,1922-10-21,Nott'ham Forest,Everton,2,1,1.0
+1922-1923,11,1922-10-28,West Brom,Tottenham,5,1,1.0
+1922-1923,12,1922-10-28,Arsenal,Newcastle Utd,1,2,0.0
+1922-1923,12,1922-10-28,Cardiff City,Liverpool,3,0,1.0
+1922-1923,12,1922-10-28,Blackburn,Burnley,2,1,1.0
+1922-1923,12,1922-10-28,Bolton,Aston Villa,3,0,1.0
+1922-1923,12,1922-10-28,Birmingham,Middlesbrough,2,0,1.0
+1922-1923,12,1922-10-28,Huddersfield,Oldham Athletic,3,0,1.0
+1922-1923,12,1922-10-28,Sunderland,Chelsea,1,1,0.5
+1922-1923,12,1922-10-28,Manchester City,Preston,2,1,1.0
+1922-1923,13,1922-10-28,Stoke,Sheffield Utd,4,0,1.0
+1922-1923,13,1922-10-28,Everton,Nott'ham Forest,4,2,1.0
+1922-1923,13,1922-11-04,Tottenham,Liverpool,2,4,0.0
+1922-1923,13,1922-11-04,Middlesbrough,Sheffield Utd,3,2,1.0
+1922-1923,13,1922-11-04,Burnley,Nott'ham Forest,8,2,1.0
+1922-1923,13,1922-11-04,Oldham Athletic,Aston Villa,0,2,0.0
+1922-1923,13,1922-11-04,West Brom,Manchester City,2,0,1.0
+1922-1923,13,1922-11-04,Newcastle Utd,Sunderland,2,1,1.0
+1922-1923,13,1922-11-04,Preston,Chelsea,2,0,1.0
+1922-1923,13,1922-11-04,Huddersfield,Blackburn,0,2,0.0
+1922-1923,14,1922-11-04,Everton,Arsenal,1,0,1.0
+1922-1923,14,1922-11-04,Bolton,Stoke,1,1,0.5
+1922-1923,14,1922-11-04,Birmingham,Cardiff City,0,0,0.5
+1922-1923,14,1922-11-11,Chelsea,Preston,0,1,0.0
+1922-1923,14,1922-11-11,Liverpool,Tottenham,0,0,0.5
+1922-1923,14,1922-11-11,Aston Villa,Oldham Athletic,3,0,1.0
+1922-1923,14,1922-11-11,Blackburn,Huddersfield,0,0,0.5
+1922-1923,14,1922-11-11,Manchester City,West Brom,1,1,0.5
+1922-1923,14,1922-11-11,Nott'ham Forest,Burnley,1,0,1.0
+1922-1923,14,1922-11-11,Sunderland,Newcastle Utd,2,0,1.0
+1922-1923,14,1922-11-11,Sheffield Utd,Middlesbrough,4,1,1.0
+1922-1923,15,1922-11-11,Stoke,Bolton,2,0,1.0
+1922-1923,15,1922-11-11,Cardiff City,Birmingham,1,1,0.5
+1922-1923,15,1922-11-11,Arsenal,Everton,1,2,0.0
+1922-1923,15,1922-11-18,Burnley,Chelsea,1,0,1.0
+1922-1923,15,1922-11-18,Preston,Middlesbrough,1,2,0.0
+1922-1923,15,1922-11-18,West Brom,Everton,0,0,0.5
+1922-1923,15,1922-11-18,Tottenham,Newcastle Utd,0,1,0.0
+1922-1923,15,1922-11-18,Liverpool,Aston Villa,3,0,1.0
+1922-1923,15,1922-11-18,Sheffield Utd,Oldham Athletic,2,2,0.5
+1922-1923,15,1922-11-18,Huddersfield,Cardiff City,1,0,1.0
+1922-1923,15,1922-11-18,Manchester City,Bolton,2,0,1.0
+1922-1923,16,1922-11-18,Stoke,Blackburn,1,1,0.5
+1922-1923,16,1922-11-18,Sunderland,Arsenal,3,3,0.5
+1922-1923,16,1922-11-18,Birmingham,Nott'ham Forest,2,0,1.0
+1922-1923,16,1922-11-25,Oldham Athletic,Sheffield Utd,0,2,0.0
+1922-1923,16,1922-11-25,Aston Villa,Liverpool,0,1,0.0
+1922-1923,16,1922-11-25,Everton,West Brom,0,1,0.0
+1922-1923,16,1922-11-25,Newcastle Utd,Tottenham,1,1,0.5
+1922-1923,16,1922-11-25,Chelsea,Burnley,0,1,0.0
+1922-1923,16,1922-11-25,Middlesbrough,Preston,1,1,0.5
+1922-1923,16,1922-11-25,Bolton,Manchester City,2,1,1.0
+1922-1923,16,1922-11-25,Cardiff City,Huddersfield,0,1,0.0
+1922-1923,17,1922-11-25,Nott'ham Forest,Birmingham,1,1,0.5
+1922-1923,17,1922-11-25,Arsenal,Sunderland,2,3,0.0
+1922-1923,17,1922-12-02,Blackburn,Manchester City,0,0,0.5
+1922-1923,17,1922-12-02,Middlesbrough,Burnley,4,1,1.0
+1922-1923,17,1922-12-02,West Brom,Bolton,1,1,0.5
+1922-1923,17,1922-12-02,Sheffield Utd,Aston Villa,1,1,0.5
+1922-1923,17,1922-12-02,Chelsea,Huddersfield,2,2,0.5
+1922-1923,17,1922-12-02,Sunderland,Everton,3,1,1.0
+1922-1923,17,1922-12-02,Liverpool,Newcastle Utd,0,2,0.0
+1922-1923,17,1922-12-02,Preston,Oldham Athletic,5,1,1.0
+1922-1923,17,1922-12-02,Cardiff City,Stoke,2,1,1.0
+1922-1923,18,1922-12-02,Tottenham,Nott'ham Forest,2,1,1.0
+1922-1923,18,1922-12-02,Birmingham,Arsenal,3,2,1.0
+1922-1923,18,1922-12-09,Bolton,West Brom,3,0,1.0
+1922-1923,18,1922-12-09,Stoke,Cardiff City,3,1,1.0
+1922-1923,18,1922-12-09,Everton,Sunderland,1,1,0.5
+1922-1923,18,1922-12-09,Newcastle Utd,Liverpool,0,1,0.0
+1922-1923,18,1922-12-09,Aston Villa,Sheffield Utd,0,1,0.0
+1922-1923,18,1922-12-09,Manchester City,Blackburn,2,1,1.0
+1922-1923,18,1922-12-09,Burnley,Middlesbrough,3,0,1.0
+1922-1923,18,1922-12-09,Huddersfield,Chelsea,3,0,1.0
+1922-1923,18,1922-12-09,Oldham Athletic,Preston,2,1,1.0
+1922-1923,19,1922-12-09,Arsenal,Birmingham,1,0,1.0
+1922-1923,19,1922-12-09,Nott'ham Forest,Tottenham,0,1,0.0
+1922-1923,18,1922-12-16,Blackburn,Bolton,1,0,1.0
+1922-1923,19,1922-12-16,Middlesbrough,Stoke,3,1,1.0
+1922-1923,19,1922-12-16,Chelsea,Tottenham,0,0,0.5
+1922-1923,19,1922-12-16,Burnley,Oldham Athletic,1,1,0.5
+1922-1923,19,1922-12-16,Cardiff City,Manchester City,3,1,1.0
+1922-1923,19,1922-12-16,Sunderland,West Brom,3,2,1.0
+1922-1923,19,1922-12-16,Sheffield Utd,Preston,2,2,0.5
+1922-1923,19,1922-12-16,Aston Villa,Newcastle Utd,1,1,0.5
+1922-1923,19,1922-12-16,Liverpool,Nott'ham Forest,2,1,1.0
+1922-1923,20,1922-12-16,Birmingham,Everton,1,1,0.5
+1922-1923,20,1922-12-16,Arsenal,Huddersfield,1,1,0.5
+1922-1923,19,1922-12-23,Bolton,Blackburn,3,0,1.0
+1922-1923,20,1922-12-23,Stoke,Middlesbrough,0,0,0.5
+1922-1923,20,1922-12-23,Preston,Sheffield Utd,2,3,0.0
+1922-1923,20,1922-12-23,Newcastle Utd,Aston Villa,0,0,0.5
+1922-1923,20,1922-12-23,Manchester City,Cardiff City,5,1,1.0
+1922-1923,20,1922-12-23,Tottenham,Chelsea,3,1,1.0
+1922-1923,20,1922-12-23,Nott'ham Forest,Liverpool,1,3,0.0
+1922-1923,20,1922-12-23,West Brom,Sunderland,1,1,0.5
+1922-1923,20,1922-12-23,Oldham Athletic,Burnley,1,1,0.5
+1922-1923,21,1922-12-23,Everton,Birmingham,2,1,1.0
+1922-1923,21,1922-12-23,Huddersfield,Arsenal,4,0,1.0
+1922-1923,21,1922-12-25,Oldham Athletic,Liverpool,0,2,0.0
+1922-1923,21,1922-12-25,Chelsea,Nott'ham Forest,2,2,0.5
+1922-1923,21,1922-12-25,Burnley,Aston Villa,1,1,0.5
+1922-1923,21,1922-12-25,Blackburn,Preston,1,1,0.5
+1922-1923,21,1922-12-25,Everton,Manchester City,0,0,0.5
+1922-1923,21,1922-12-25,Newcastle Utd,Middlesbrough,1,1,0.5
+1922-1923,22,1922-12-25,Bolton,Arsenal,4,1,1.0
+1922-1923,22,1922-12-25,Tottenham,Sheffield Utd,2,1,1.0
+1922-1923,22,1922-12-25,Birmingham,Huddersfield,0,0,0.5
+1922-1923,21,1922-12-26,Stoke,Sunderland,1,2,0.0
+1922-1923,21,1922-12-26,Cardiff City,West Brom,3,0,1.0
+1922-1923,22,1922-12-26,Preston,Blackburn,1,0,1.0
+1922-1923,22,1922-12-26,Liverpool,Oldham Athletic,2,1,1.0
+1922-1923,22,1922-12-26,Middlesbrough,Newcastle Utd,1,1,0.5
+1922-1923,22,1922-12-26,Nott'ham Forest,Chelsea,0,4,0.0
+1922-1923,22,1922-12-26,Manchester City,Everton,2,1,1.0
+1922-1923,22,1922-12-26,Aston Villa,Burnley,3,1,1.0
+1922-1923,23,1922-12-26,Arsenal,Bolton,5,0,1.0
+1922-1923,23,1922-12-26,Huddersfield,Birmingham,4,0,1.0
+1922-1923,23,1922-12-26,Sheffield Utd,Tottenham,2,0,1.0
+1922-1923,22,1922-12-27,West Brom,Cardiff City,3,0,1.0
+1922-1923,23,1922-12-30,Nott'ham Forest,Newcastle Utd,0,1,0.0
+1922-1923,23,1922-12-30,Middlesbrough,Tottenham,2,0,1.0
+1922-1923,23,1922-12-30,Everton,Huddersfield,0,3,0.0
+1922-1923,23,1922-12-30,Manchester City,Oldham Athletic,3,2,1.0
+1922-1923,23,1922-12-30,Bolton,Cardiff City,0,0,0.5
+1922-1923,23,1922-12-30,Aston Villa,Preston,1,0,1.0
+1922-1923,23,1922-12-30,Chelsea,Liverpool,0,0,0.5
+1922-1923,23,1922-12-30,Blackburn,West Brom,5,1,1.0
+1922-1923,23,1922-12-30,Sheffield Utd,Burnley,2,1,1.0
+1922-1923,24,1922-12-30,Sunderland,Birmingham,5,3,1.0
+1922-1923,24,1922-12-30,Arsenal,Stoke,3,0,1.0
+1922-1923,23,1923-01-01,Everton,Tottenham,3,1,1.0
+1922-1923,23,1923-01-01,Sunderland,Stoke,2,0,1.0
+1922-1923,24,1923-01-01,Newcastle Utd,Oldham Athletic,1,0,1.0
+1922-1923,25,1923-01-01,Blackburn,Arsenal,0,5,0.0
+1922-1923,25,1923-01-02,Bolton,Nott'ham Forest,4,2,1.0
+1922-1923,24,1923-01-06,Liverpool,Chelsea,1,0,1.0
+1922-1923,24,1923-01-06,West Brom,Blackburn,3,0,1.0
+1922-1923,24,1923-01-06,Burnley,Sheffield Utd,1,4,0.0
+1922-1923,24,1923-01-06,Preston,Aston Villa,3,2,1.0
+1922-1923,24,1923-01-06,Huddersfield,Everton,1,0,1.0
+1922-1923,24,1923-01-06,Tottenham,Middlesbrough,2,0,1.0
+1922-1923,24,1923-01-06,Cardiff City,Bolton,1,0,1.0
+1922-1923,25,1923-01-06,Birmingham,Sunderland,1,2,0.0
+1922-1923,25,1923-01-06,Oldham Athletic,Manchester City,0,3,0.0
+1922-1923,25,1923-01-06,Newcastle Utd,Nott'ham Forest,1,0,1.0
+1922-1923,26,1923-01-06,Stoke,Arsenal,1,0,1.0
+1922-1923,25,1923-01-20,Burnley,Preston,2,0,1.0
+1922-1923,25,1923-01-20,Nott'ham Forest,Aston Villa,3,1,1.0
+1922-1923,25,1923-01-20,Chelsea,Newcastle Utd,3,0,1.0
+1922-1923,25,1923-01-20,Everton,Stoke,4,0,1.0
+1922-1923,25,1923-01-20,Sunderland,Huddersfield,1,1,0.5
+1922-1923,25,1923-01-20,Middlesbrough,Liverpool,0,2,0.0
+1922-1923,25,1923-01-20,Blackburn,Cardiff City,3,1,1.0
+1922-1923,26,1923-01-20,Bolton,Sheffield Utd,1,1,0.5
+1922-1923,26,1923-01-20,Oldham Athletic,Tottenham,0,3,0.0
+1922-1923,26,1923-01-20,Birmingham,West Brom,0,2,0.0
+1922-1923,27,1923-01-20,Arsenal,Manchester City,1,0,1.0
+1922-1923,26,1923-01-22,Blackburn,Stoke,1,5,0.0
+1922-1923,26,1923-01-27,Aston Villa,Nott'ham Forest,4,0,1.0
+1922-1923,26,1923-01-27,Preston,Burnley,3,1,1.0
+1922-1923,26,1923-01-27,Liverpool,Middlesbrough,2,0,1.0
+1922-1923,26,1923-01-27,Huddersfield,Sunderland,0,1,0.0
+1922-1923,26,1923-01-27,Newcastle Utd,Chelsea,0,0,0.5
+1922-1923,26,1923-01-27,Cardiff City,Blackburn,5,0,1.0
+1922-1923,27,1923-01-27,Tottenham,Oldham Athletic,3,0,1.0
+1922-1923,27,1923-01-27,West Brom,Birmingham,1,0,1.0
+1922-1923,27,1923-01-27,Stoke,Everton,4,1,1.0
+1922-1923,27,1923-01-27,Sheffield Utd,Bolton,2,2,0.5
+1922-1923,28,1923-01-27,Manchester City,Arsenal,0,0,0.5
+1922-1923,27,1923-02-03,Aston Villa,Manchester City,2,0,1.0
+1922-1923,28,1923-02-03,Oldham Athletic,Birmingham,2,0,1.0
+1922-1923,29,1923-02-03,Nott'ham Forest,Arsenal,2,1,1.0
+1922-1923,27,1923-02-07,Liverpool,West Brom,2,0,1.0
+1922-1923,27,1923-02-08,Preston,Stoke,4,2,1.0
+1922-1923,27,1923-02-10,Blackburn,Tottenham,1,0,1.0
+1922-1923,27,1923-02-10,Sunderland,Middlesbrough,2,1,1.0
+1922-1923,27,1923-02-10,Bolton,Burnley,2,1,1.0
+1922-1923,27,1923-02-10,Everton,Chelsea,3,1,1.0
+1922-1923,28,1923-02-10,Stoke,Preston,4,2,1.0
+1922-1923,28,1923-02-10,West Brom,Liverpool,0,0,0.5
+1922-1923,28,1923-02-10,Cardiff City,Newcastle Utd,5,0,1.0
+1922-1923,28,1923-02-10,Huddersfield,Sheffield Utd,2,1,1.0
+1922-1923,28,1923-02-10,Manchester City,Aston Villa,1,1,0.5
+1922-1923,29,1923-02-10,Birmingham,Oldham Athletic,2,3,0.0
+1922-1923,30,1923-02-10,Arsenal,Nott'ham Forest,2,0,1.0
+1922-1923,28,1923-02-14,Chelsea,Everton,3,1,1.0
+1922-1923,28,1923-02-14,Tottenham,Blackburn,2,0,1.0
+1922-1923,29,1923-02-14,Newcastle Utd,West Brom,2,0,1.0
+1922-1923,28,1923-02-17,Middlesbrough,Everton,2,4,0.0
+1922-1923,28,1923-02-17,Burnley,Manchester City,2,0,1.0
+1922-1923,29,1923-02-17,Chelsea,Arsenal,0,0,0.5
+1922-1923,29,1923-02-17,Liverpool,Blackburn,3,0,1.0
+1922-1923,29,1923-02-17,Preston,Huddersfield,1,0,1.0
+1922-1923,29,1923-02-17,Sheffield Utd,Birmingham,7,1,1.0
+1922-1923,29,1923-02-17,Tottenham,Bolton,0,1,0.0
+1922-1923,29,1923-02-17,Aston Villa,Stoke,6,0,1.0
+1922-1923,30,1923-02-17,Oldham Athletic,Sunderland,0,0,0.5
+1922-1923,31,1923-02-17,Nott'ham Forest,Cardiff City,3,2,1.0
+1922-1923,29,1923-02-24,Manchester City,Burnley,1,0,1.0
+1922-1923,30,1923-02-24,Arsenal,Chelsea,3,1,1.0
+1922-1923,30,1923-02-24,Stoke,Aston Villa,1,1,0.5
+1922-1923,31,1923-02-24,Sunderland,Oldham Athletic,2,0,1.0
+1922-1923,29,1923-02-28,Everton,Middlesbrough,5,3,1.0
+1922-1923,30,1923-02-28,Newcastle Utd,Cardiff City,3,1,1.0
+1922-1923,30,1923-03-03,Tottenham,Manchester City,3,1,1.0
+1922-1923,30,1923-03-03,Middlesbrough,Arsenal,2,0,1.0
+1922-1923,30,1923-03-03,Preston,Birmingham,2,3,0.0
+1922-1923,30,1923-03-03,Burnley,Stoke,3,2,1.0
+1922-1923,30,1923-03-03,Liverpool,Bolton,3,0,1.0
+1922-1923,30,1923-03-03,Sheffield Utd,Sunderland,3,1,1.0
+1922-1923,31,1923-03-03,Aston Villa,Huddersfield,2,1,1.0
+1922-1923,31,1923-03-03,Chelsea,Cardiff City,1,1,0.5
+1922-1923,31,1923-03-03,Newcastle Utd,Blackburn,5,1,1.0
+1922-1923,32,1923-03-03,Oldham Athletic,Everton,1,0,1.0
+1922-1923,32,1923-03-03,Nott'ham Forest,West Brom,0,4,0.0
+1922-1923,31,1923-03-10,Stoke,Burnley,0,1,0.0
+1922-1923,31,1923-03-10,Arsenal,Middlesbrough,3,0,1.0
+1922-1923,31,1923-03-10,Birmingham,Preston,1,0,1.0
+1922-1923,32,1923-03-10,Blackburn,Newcastle Utd,1,1,0.5
+1922-1923,32,1923-03-10,Huddersfield,Aston Villa,3,5,0.0
+1922-1923,32,1923-03-10,Cardiff City,Chelsea,6,1,1.0
+1922-1923,33,1923-03-10,Everton,Oldham Athletic,0,0,0.5
+1922-1923,33,1923-03-10,West Brom,Nott'ham Forest,0,0,0.5
+1922-1923,31,1923-03-12,Birmingham,Sheffield Utd,4,2,1.0
+1922-1923,31,1923-03-12,Blackburn,Liverpool,1,0,1.0
+1922-1923,32,1923-03-12,Burnley,Bolton,2,1,1.0
+1922-1923,31,1923-03-14,Manchester City,Tottenham,3,0,1.0
+1922-1923,33,1923-03-14,West Brom,Newcastle Utd,2,1,1.0
+1922-1923,32,1923-03-17,Cardiff City,Middlesbrough,2,0,1.0
+1922-1923,32,1923-03-17,Everton,Sheffield Utd,5,1,1.0
+1922-1923,32,1923-03-17,Stoke,Tottenham,0,0,0.5
+1922-1923,32,1923-03-17,Manchester City,Liverpool,1,0,1.0
+1922-1923,32,1923-03-17,Sunderland,Preston,2,2,0.5
+1922-1923,33,1923-03-17,West Brom,Chelsea,0,0,0.5
+1922-1923,33,1923-03-17,Birmingham,Aston Villa,1,0,1.0
+1922-1923,33,1923-03-17,Huddersfield,Burnley,2,0,1.0
+1922-1923,34,1923-03-17,Blackburn,Nott'ham Forest,2,0,1.0
+1922-1923,34,1923-03-17,Bolton,Newcastle Utd,1,0,1.0
+1922-1923,34,1923-03-17,Arsenal,Oldham Athletic,2,0,1.0
+1922-1923,33,1923-03-21,Huddersfield,Preston,2,0,1.0
+1922-1923,33,1923-03-24,Middlesbrough,Cardiff City,0,1,0.0
+1922-1923,33,1923-03-24,Tottenham,Stoke,3,1,1.0
+1922-1923,33,1923-03-24,Liverpool,Manchester City,2,0,1.0
+1922-1923,34,1923-03-24,Preston,Sunderland,2,0,1.0
+1922-1923,34,1923-03-24,Burnley,Huddersfield,0,2,0.0
+1922-1923,34,1923-03-24,Aston Villa,Birmingham,3,0,1.0
+1922-1923,35,1923-03-24,Nott'ham Forest,Blackburn,1,0,1.0
+1922-1923,35,1923-03-24,Oldham Athletic,Arsenal,0,0,0.5
+1922-1923,34,1923-03-30,Bolton,Everton,0,2,0.0
+1922-1923,34,1923-03-30,Nott'ham Forest,Middlesbrough,2,1,1.0
+1922-1923,34,1923-03-30,Liverpool,Sheffield Utd,2,1,1.0
+1922-1923,35,1923-03-30,Burnley,Cardiff City,1,5,0.0
+1922-1923,35,1923-03-30,Sunderland,Manchester City,2,0,1.0
+1922-1923,35,1923-03-30,Oldham Athletic,Newcastle Utd,0,0,0.5
+1922-1923,35,1923-03-30,Aston Villa,Chelsea,1,0,1.0
+1922-1923,35,1923-03-30,Tottenham,Preston,1,1,0.5
+1922-1923,34,1923-03-31,West Brom,Sheffield Utd,4,0,1.0
+1922-1923,35,1923-03-31,Sunderland,Tottenham,2,0,1.0
+1922-1923,35,1923-03-31,Manchester City,Chelsea,3,0,1.0
+1922-1923,35,1923-03-31,Bolton,Middlesbrough,1,1,0.5
+1922-1923,35,1923-03-31,Birmingham,Liverpool,0,1,0.0
+1922-1923,36,1923-03-31,Cardiff City,Preston,1,0,1.0
+1922-1923,36,1923-03-31,Huddersfield,Newcastle Utd,2,0,1.0
+1922-1923,36,1923-03-31,Everton,Burnley,1,0,1.0
+1922-1923,36,1923-03-31,Arsenal,Aston Villa,2,0,1.0
+1922-1923,37,1923-03-31,Stoke,Nott'ham Forest,0,1,0.0
+1922-1923,37,1923-03-31,Blackburn,Oldham Athletic,1,0,1.0
+1922-1923,35,1923-04-02,West Brom,Huddersfield,0,2,0.0
+1922-1923,36,1923-04-02,Middlesbrough,Nott'ham Forest,4,0,1.0
+1922-1923,36,1923-04-02,Everton,Bolton,1,1,0.5
+1922-1923,36,1923-04-02,Sheffield Utd,Liverpool,4,1,1.0
+1922-1923,37,1923-04-02,Chelsea,Aston Villa,1,1,0.5
+1922-1923,37,1923-04-02,Preston,Tottenham,2,0,1.0
+1922-1923,37,1923-04-02,Cardiff City,Burnley,2,2,0.5
+1922-1923,37,1923-04-02,Manchester City,Sunderland,1,0,1.0
+1922-1923,37,1923-04-02,Stoke,Birmingham,0,0,0.5
+1922-1923,38,1923-04-02,Arsenal,Blackburn,1,1,0.5
+1922-1923,36,1923-04-03,Huddersfield,West Brom,4,1,1.0
+1922-1923,36,1923-04-07,Sheffield Utd,West Brom,3,1,1.0
+1922-1923,37,1923-04-07,Newcastle Utd,Huddersfield,1,0,1.0
+1922-1923,37,1923-04-07,Liverpool,Birmingham,0,0,0.5
+1922-1923,37,1923-04-07,Middlesbrough,Bolton,1,2,0.0
+1922-1923,37,1923-04-07,Chelsea,Manchester City,1,1,0.5
+1922-1923,37,1923-04-07,Tottenham,Sunderland,0,1,0.0
+1922-1923,38,1923-04-07,Burnley,Everton,0,1,0.0
+1922-1923,38,1923-04-07,Aston Villa,Arsenal,1,1,0.5
+1922-1923,38,1923-04-07,Oldham Athletic,Blackburn,1,0,1.0
+1922-1923,38,1923-04-07,Preston,Cardiff City,3,0,1.0
+1922-1923,39,1923-04-07,Nott'ham Forest,Stoke,0,1,0.0
+1922-1923,37,1923-04-09,Sheffield Utd,Huddersfield,0,2,0.0
+1922-1923,38,1923-04-11,Sunderland,Sheffield Utd,3,5,0.0
+1922-1923,38,1923-04-11,Bolton,Tottenham,0,2,0.0
+1922-1923,38,1923-04-14,Bolton,Chelsea,1,1,0.5
+1922-1923,38,1923-04-14,Blackburn,Middlesbrough,2,0,1.0
+1922-1923,38,1923-04-14,Huddersfield,Liverpool,0,0,0.5
+1922-1923,38,1923-04-14,Stoke,Newcastle Utd,1,0,1.0
+1922-1923,39,1923-04-14,Cardiff City,Sheffield Utd,1,0,1.0
+1922-1923,39,1923-04-14,Birmingham,Tottenham,2,1,1.0
+1922-1923,39,1923-04-14,Everton,Aston Villa,2,1,1.0
+1922-1923,39,1923-04-14,Arsenal,Preston,1,1,0.5
+1922-1923,39,1923-04-14,Sunderland,Burnley,3,1,1.0
+1922-1923,39,1923-04-14,West Brom,Oldham Athletic,1,0,1.0
+1922-1923,40,1923-04-14,Manchester City,Nott'ham Forest,1,1,0.5
+1922-1923,39,1923-04-16,Newcastle Utd,Bolton,1,0,1.0
+1922-1923,40,1923-04-16,Sheffield Utd,Everton,0,1,0.0
+1922-1923,39,1923-04-18,Middlesbrough,Sunderland,2,0,1.0
+1922-1923,39,1923-04-18,Bolton,Liverpool,1,1,0.5
+1922-1923,39,1923-04-21,Chelsea,Bolton,3,0,1.0
+1922-1923,40,1923-04-21,Oldham Athletic,West Brom,0,0,0.5
+1922-1923,40,1923-04-21,Tottenham,Birmingham,2,0,1.0
+1922-1923,40,1923-04-21,Liverpool,Huddersfield,1,1,0.5
+1922-1923,40,1923-04-21,Aston Villa,Everton,3,0,1.0
+1922-1923,40,1923-04-21,Newcastle Utd,Stoke,1,0,1.0
+1922-1923,40,1923-04-21,Burnley,Sunderland,2,0,1.0
+1922-1923,40,1923-04-21,Middlesbrough,Blackburn,1,2,0.0
+1922-1923,40,1923-04-21,Preston,Arsenal,1,2,0.0
+1922-1923,41,1923-04-21,Nott'ham Forest,Manchester City,2,0,1.0
+1922-1923,41,1923-04-21,Sheffield Utd,Cardiff City,0,0,0.5
+1922-1923,40,1923-04-25,Chelsea,West Brom,2,2,0.5
+1922-1923,42,1923-04-25,Cardiff City,Nott'ham Forest,3,1,1.0
+1922-1923,41,1923-04-28,West Brom,Middlesbrough,1,0,1.0
+1922-1923,41,1923-04-28,Birmingham,Burnley,1,0,1.0
+1922-1923,41,1923-04-28,Everton,Preston,1,0,1.0
+1922-1923,41,1923-04-28,Manchester City,Newcastle Utd,0,0,0.5
+1922-1923,41,1923-04-28,Sunderland,Aston Villa,2,0,1.0
+1922-1923,41,1923-04-28,Cardiff City,Oldham Athletic,2,0,1.0
+1922-1923,41,1923-04-28,Blackburn,Chelsea,0,0,0.5
+1922-1923,41,1923-04-28,Stoke,Liverpool,0,0,0.5
+1922-1923,41,1923-04-28,Huddersfield,Tottenham,1,0,1.0
+1922-1923,42,1923-04-28,Arsenal,Sheffield Utd,2,0,1.0
+1922-1923,42,1923-05-05,Preston,Everton,2,2,0.5
+1922-1923,42,1923-05-05,Chelsea,Blackburn,1,1,0.5
+1922-1923,42,1923-05-05,Middlesbrough,West Brom,0,1,0.0
+1922-1923,42,1923-05-05,Tottenham,Huddersfield,0,0,0.5
+1922-1923,42,1923-05-05,Aston Villa,Sunderland,1,0,1.0
+1922-1923,42,1923-05-05,Burnley,Birmingham,0,2,0.0
+1922-1923,42,1923-05-05,Liverpool,Stoke,1,0,1.0
+1922-1923,42,1923-05-05,Newcastle Utd,Manchester City,3,1,1.0
+1922-1923,42,1923-05-05,Oldham Athletic,Cardiff City,3,1,1.0

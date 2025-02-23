@@ -1,0 +1,309 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2018-2019,Bundesliga,1,2018-08-24,Bayern Munich,Hoffenheim,3,1,1.0
+2018-2019,Bundesliga,1,2018-08-25,Düsseldorf,Augsburg,1,2,0.0
+2018-2019,Bundesliga,1,2018-08-25,Hertha BSC,Nürnberg,1,0,1.0
+2018-2019,Bundesliga,1,2018-08-25,Werder Bremen,Hannover 96,1,1,0.5
+2018-2019,Bundesliga,1,2018-08-25,Wolfsburg,Schalke 04,2,1,1.0
+2018-2019,Bundesliga,1,2018-08-25,Freiburg,Eint Frankfurt,0,2,0.0
+2018-2019,Bundesliga,1,2018-08-25,Gladbach,Leverkusen,2,0,1.0
+2018-2019,Bundesliga,1,2018-08-26,Mainz 05,Stuttgart,1,0,1.0
+2018-2019,Bundesliga,1,2018-08-26,Dortmund,RB Leipzig,4,1,1.0
+2018-2019,Bundesliga,2,2018-08-31,Hannover 96,Dortmund,0,0,0.5
+2018-2019,Bundesliga,2,2018-09-01,Augsburg,Gladbach,1,1,0.5
+2018-2019,Bundesliga,2,2018-09-01,Nürnberg,Mainz 05,1,1,0.5
+2018-2019,Bundesliga,2,2018-09-01,Hoffenheim,Freiburg,3,1,1.0
+2018-2019,Bundesliga,2,2018-09-01,Eint Frankfurt,Werder Bremen,1,2,0.0
+2018-2019,Bundesliga,2,2018-09-01,Leverkusen,Wolfsburg,1,3,0.0
+2018-2019,Bundesliga,2,2018-09-01,Stuttgart,Bayern Munich,0,3,0.0
+2018-2019,Bundesliga,2,2018-09-02,RB Leipzig,Düsseldorf,1,1,0.5
+2018-2019,Bundesliga,2,2018-09-02,Schalke 04,Hertha BSC,0,2,0.0
+2018-2019,Bundesliga,3,2018-09-14,Dortmund,Eint Frankfurt,3,1,1.0
+2018-2019,Bundesliga,3,2018-09-15,Wolfsburg,Hertha BSC,2,2,0.5
+2018-2019,Bundesliga,3,2018-09-15,RB Leipzig,Hannover 96,3,2,1.0
+2018-2019,Bundesliga,3,2018-09-15,Bayern Munich,Leverkusen,3,1,1.0
+2018-2019,Bundesliga,3,2018-09-15,Düsseldorf,Hoffenheim,2,1,1.0
+2018-2019,Bundesliga,3,2018-09-15,Mainz 05,Augsburg,2,1,1.0
+2018-2019,Bundesliga,3,2018-09-15,Gladbach,Schalke 04,2,1,1.0
+2018-2019,Bundesliga,3,2018-09-16,Werder Bremen,Nürnberg,1,1,0.5
+2018-2019,Bundesliga,3,2018-09-16,Freiburg,Stuttgart,3,3,0.5
+2018-2019,Bundesliga,4,2018-09-21,Stuttgart,Düsseldorf,0,0,0.5
+2018-2019,Bundesliga,4,2018-09-22,Hertha BSC,Gladbach,4,2,1.0
+2018-2019,Bundesliga,4,2018-09-22,Wolfsburg,Freiburg,1,3,0.0
+2018-2019,Bundesliga,4,2018-09-22,Nürnberg,Hannover 96,2,0,1.0
+2018-2019,Bundesliga,4,2018-09-22,Hoffenheim,Dortmund,1,1,0.5
+2018-2019,Bundesliga,4,2018-09-22,Augsburg,Werder Bremen,2,3,0.0
+2018-2019,Bundesliga,4,2018-09-22,Schalke 04,Bayern Munich,0,2,0.0
+2018-2019,Bundesliga,4,2018-09-23,Leverkusen,Mainz 05,1,0,1.0
+2018-2019,Bundesliga,4,2018-09-23,Eint Frankfurt,RB Leipzig,1,1,0.5
+2018-2019,Bundesliga,5,2018-09-25,Werder Bremen,Hertha BSC,3,1,1.0
+2018-2019,Bundesliga,5,2018-09-25,Bayern Munich,Augsburg,1,1,0.5
+2018-2019,Bundesliga,5,2018-09-25,Freiburg,Schalke 04,1,0,1.0
+2018-2019,Bundesliga,5,2018-09-25,Hannover 96,Hoffenheim,1,3,0.0
+2018-2019,Bundesliga,5,2018-09-26,Düsseldorf,Leverkusen,1,2,0.0
+2018-2019,Bundesliga,5,2018-09-26,Gladbach,Eint Frankfurt,3,1,1.0
+2018-2019,Bundesliga,5,2018-09-26,RB Leipzig,Stuttgart,2,0,1.0
+2018-2019,Bundesliga,5,2018-09-26,Dortmund,Nürnberg,7,0,1.0
+2018-2019,Bundesliga,5,2018-09-26,Mainz 05,Wolfsburg,0,0,0.5
+2018-2019,Bundesliga,6,2018-09-28,Hertha BSC,Bayern Munich,2,0,1.0
+2018-2019,Bundesliga,6,2018-09-29,Hoffenheim,RB Leipzig,1,2,0.0
+2018-2019,Bundesliga,6,2018-09-29,Wolfsburg,Gladbach,2,2,0.5
+2018-2019,Bundesliga,6,2018-09-29,Schalke 04,Mainz 05,1,0,1.0
+2018-2019,Bundesliga,6,2018-09-29,Stuttgart,Werder Bremen,2,1,1.0
+2018-2019,Bundesliga,6,2018-09-29,Nürnberg,Düsseldorf,3,0,1.0
+2018-2019,Bundesliga,6,2018-09-29,Leverkusen,Dortmund,2,4,0.0
+2018-2019,Bundesliga,6,2018-09-30,Eint Frankfurt,Hannover 96,4,1,1.0
+2018-2019,Bundesliga,6,2018-09-30,Augsburg,Freiburg,4,1,1.0
+2018-2019,Bundesliga,7,2018-10-05,Werder Bremen,Wolfsburg,2,0,1.0
+2018-2019,Bundesliga,7,2018-10-06,Mainz 05,Hertha BSC,0,0,0.5
+2018-2019,Bundesliga,7,2018-10-06,Hannover 96,Stuttgart,3,1,1.0
+2018-2019,Bundesliga,7,2018-10-06,Dortmund,Augsburg,4,3,1.0
+2018-2019,Bundesliga,7,2018-10-06,Düsseldorf,Schalke 04,0,2,0.0
+2018-2019,Bundesliga,7,2018-10-06,Bayern Munich,Gladbach,0,3,0.0
+2018-2019,Bundesliga,7,2018-10-07,Freiburg,Leverkusen,0,0,0.5
+2018-2019,Bundesliga,7,2018-10-07,Hoffenheim,Eint Frankfurt,1,2,0.0
+2018-2019,Bundesliga,7,2018-10-07,RB Leipzig,Nürnberg,6,0,1.0
+2018-2019,Bundesliga,8,2018-10-19,Eint Frankfurt,Düsseldorf,7,1,1.0
+2018-2019,Bundesliga,8,2018-10-20,Wolfsburg,Bayern Munich,1,3,0.0
+2018-2019,Bundesliga,8,2018-10-20,Stuttgart,Dortmund,0,4,0.0
+2018-2019,Bundesliga,8,2018-10-20,Leverkusen,Hannover 96,2,2,0.5
+2018-2019,Bundesliga,8,2018-10-20,Augsburg,RB Leipzig,0,0,0.5
+2018-2019,Bundesliga,8,2018-10-20,Nürnberg,Hoffenheim,1,3,0.0
+2018-2019,Bundesliga,8,2018-10-20,Schalke 04,Werder Bremen,0,2,0.0
+2018-2019,Bundesliga,8,2018-10-21,Hertha BSC,Freiburg,1,1,0.5
+2018-2019,Bundesliga,8,2018-10-21,Gladbach,Mainz 05,4,0,1.0
+2018-2019,Bundesliga,9,2018-10-26,Freiburg,Gladbach,3,1,1.0
+2018-2019,Bundesliga,9,2018-10-27,Mainz 05,Bayern Munich,1,2,0.0
+2018-2019,Bundesliga,9,2018-10-27,Dortmund,Hertha BSC,2,2,0.5
+2018-2019,Bundesliga,9,2018-10-27,Düsseldorf,Wolfsburg,0,3,0.0
+2018-2019,Bundesliga,9,2018-10-27,Hannover 96,Augsburg,1,2,0.0
+2018-2019,Bundesliga,9,2018-10-27,Hoffenheim,Stuttgart,4,0,1.0
+2018-2019,Bundesliga,9,2018-10-28,Nürnberg,Eint Frankfurt,1,1,0.5
+2018-2019,Bundesliga,9,2018-10-28,RB Leipzig,Schalke 04,0,0,0.5
+2018-2019,Bundesliga,9,2018-10-28,Werder Bremen,Leverkusen,2,6,0.0
+2018-2019,Bundesliga,10,2018-11-02,Stuttgart,Eint Frankfurt,0,3,0.0
+2018-2019,Bundesliga,10,2018-11-03,Augsburg,Nürnberg,2,2,0.5
+2018-2019,Bundesliga,10,2018-11-03,Wolfsburg,Dortmund,0,1,0.0
+2018-2019,Bundesliga,10,2018-11-03,Bayern Munich,Freiburg,1,1,0.5
+2018-2019,Bundesliga,10,2018-11-03,Leverkusen,Hoffenheim,1,4,0.0
+2018-2019,Bundesliga,10,2018-11-03,Schalke 04,Hannover 96,3,1,1.0
+2018-2019,Bundesliga,10,2018-11-03,Hertha BSC,RB Leipzig,0,3,0.0
+2018-2019,Bundesliga,10,2018-11-04,Gladbach,Düsseldorf,3,0,1.0
+2018-2019,Bundesliga,10,2018-11-04,Mainz 05,Werder Bremen,2,1,1.0
+2018-2019,Bundesliga,11,2018-11-09,Hannover 96,Wolfsburg,2,1,1.0
+2018-2019,Bundesliga,11,2018-11-10,Werder Bremen,Gladbach,1,3,0.0
+2018-2019,Bundesliga,11,2018-11-10,Freiburg,Mainz 05,1,3,0.0
+2018-2019,Bundesliga,11,2018-11-10,Hoffenheim,Augsburg,2,1,1.0
+2018-2019,Bundesliga,11,2018-11-10,Düsseldorf,Hertha BSC,4,1,1.0
+2018-2019,Bundesliga,11,2018-11-10,Nürnberg,Stuttgart,0,2,0.0
+2018-2019,Bundesliga,11,2018-11-10,Dortmund,Bayern Munich,3,2,1.0
+2018-2019,Bundesliga,11,2018-11-11,RB Leipzig,Leverkusen,3,0,1.0
+2018-2019,Bundesliga,11,2018-11-11,Eint Frankfurt,Schalke 04,3,0,1.0
+2018-2019,Bundesliga,12,2018-11-23,Leverkusen,Stuttgart,2,0,1.0
+2018-2019,Bundesliga,12,2018-11-24,Mainz 05,Dortmund,1,2,0.0
+2018-2019,Bundesliga,12,2018-11-24,Augsburg,Eint Frankfurt,1,3,0.0
+2018-2019,Bundesliga,12,2018-11-24,Wolfsburg,RB Leipzig,1,0,1.0
+2018-2019,Bundesliga,12,2018-11-24,Bayern Munich,Düsseldorf,3,3,0.5
+2018-2019,Bundesliga,12,2018-11-24,Hertha BSC,Hoffenheim,3,3,0.5
+2018-2019,Bundesliga,12,2018-11-24,Schalke 04,Nürnberg,5,2,1.0
+2018-2019,Bundesliga,12,2018-11-25,Freiburg,Werder Bremen,1,1,0.5
+2018-2019,Bundesliga,12,2018-11-25,Gladbach,Hannover 96,4,1,1.0
+2018-2019,Bundesliga,13,2018-11-30,Düsseldorf,Mainz 05,0,1,0.0
+2018-2019,Bundesliga,13,2018-12-01,Hannover 96,Hertha BSC,0,2,0.0
+2018-2019,Bundesliga,13,2018-12-01,Werder Bremen,Bayern Munich,1,2,0.0
+2018-2019,Bundesliga,13,2018-12-01,Stuttgart,Augsburg,1,0,1.0
+2018-2019,Bundesliga,13,2018-12-01,Dortmund,Freiburg,2,0,1.0
+2018-2019,Bundesliga,13,2018-12-01,Hoffenheim,Schalke 04,1,1,0.5
+2018-2019,Bundesliga,13,2018-12-02,RB Leipzig,Gladbach,2,0,1.0
+2018-2019,Bundesliga,13,2018-12-02,Eint Frankfurt,Wolfsburg,1,2,0.0
+2018-2019,Bundesliga,13,2018-12-03,Nürnberg,Leverkusen,1,1,0.5
+2018-2019,Bundesliga,14,2018-12-07,Werder Bremen,Düsseldorf,3,1,1.0
+2018-2019,Bundesliga,14,2018-12-08,Wolfsburg,Hoffenheim,2,2,0.5
+2018-2019,Bundesliga,14,2018-12-08,Schalke 04,Dortmund,1,2,0.0
+2018-2019,Bundesliga,14,2018-12-08,Bayern Munich,Nürnberg,3,0,1.0
+2018-2019,Bundesliga,14,2018-12-08,Freiburg,RB Leipzig,3,0,1.0
+2018-2019,Bundesliga,14,2018-12-08,Leverkusen,Augsburg,1,0,1.0
+2018-2019,Bundesliga,14,2018-12-08,Hertha BSC,Eint Frankfurt,1,0,1.0
+2018-2019,Bundesliga,14,2018-12-09,Mainz 05,Hannover 96,1,1,0.5
+2018-2019,Bundesliga,14,2018-12-09,Gladbach,Stuttgart,3,0,1.0
+2018-2019,Bundesliga,15,2018-12-14,Nürnberg,Wolfsburg,0,2,0.0
+2018-2019,Bundesliga,15,2018-12-15,Hannover 96,Bayern Munich,0,4,0.0
+2018-2019,Bundesliga,15,2018-12-15,Hoffenheim,Gladbach,0,0,0.5
+2018-2019,Bundesliga,15,2018-12-15,Düsseldorf,Freiburg,2,0,1.0
+2018-2019,Bundesliga,15,2018-12-15,Augsburg,Schalke 04,1,1,0.5
+2018-2019,Bundesliga,15,2018-12-15,Stuttgart,Hertha BSC,2,1,1.0
+2018-2019,Bundesliga,15,2018-12-15,Dortmund,Werder Bremen,2,1,1.0
+2018-2019,Bundesliga,15,2018-12-16,RB Leipzig,Mainz 05,4,1,1.0
+2018-2019,Bundesliga,15,2018-12-16,Eint Frankfurt,Leverkusen,2,1,1.0
+2018-2019,Bundesliga,16,2018-12-18,Gladbach,Nürnberg,2,0,1.0
+2018-2019,Bundesliga,16,2018-12-18,Düsseldorf,Dortmund,2,1,1.0
+2018-2019,Bundesliga,16,2018-12-18,Wolfsburg,Stuttgart,2,0,1.0
+2018-2019,Bundesliga,16,2018-12-18,Hertha BSC,Augsburg,2,2,0.5
+2018-2019,Bundesliga,16,2018-12-19,Schalke 04,Leverkusen,1,2,0.0
+2018-2019,Bundesliga,16,2018-12-19,Mainz 05,Eint Frankfurt,2,2,0.5
+2018-2019,Bundesliga,16,2018-12-19,Freiburg,Hannover 96,1,1,0.5
+2018-2019,Bundesliga,16,2018-12-19,Werder Bremen,Hoffenheim,1,1,0.5
+2018-2019,Bundesliga,16,2018-12-19,Bayern Munich,RB Leipzig,1,0,1.0
+2018-2019,Bundesliga,17,2018-12-21,Dortmund,Gladbach,2,1,1.0
+2018-2019,Bundesliga,17,2018-12-22,Hannover 96,Düsseldorf,0,1,0.0
+2018-2019,Bundesliga,17,2018-12-22,Nürnberg,Freiburg,0,1,0.0
+2018-2019,Bundesliga,17,2018-12-22,Stuttgart,Schalke 04,1,3,0.0
+2018-2019,Bundesliga,17,2018-12-22,Leverkusen,Hertha BSC,3,1,1.0
+2018-2019,Bundesliga,17,2018-12-22,RB Leipzig,Werder Bremen,3,2,1.0
+2018-2019,Bundesliga,17,2018-12-22,Eint Frankfurt,Bayern Munich,0,3,0.0
+2018-2019,Bundesliga,17,2018-12-23,Augsburg,Wolfsburg,2,3,0.0
+2018-2019,Bundesliga,17,2018-12-23,Hoffenheim,Mainz 05,1,1,0.5
+2018-2019,Bundesliga,18,2019-01-18,Hoffenheim,Bayern Munich,1,3,0.0
+2018-2019,Bundesliga,18,2019-01-19,Hannover 96,Werder Bremen,0,1,0.0
+2018-2019,Bundesliga,18,2019-01-19,Eint Frankfurt,Freiburg,3,1,1.0
+2018-2019,Bundesliga,18,2019-01-19,Augsburg,Düsseldorf,1,2,0.0
+2018-2019,Bundesliga,18,2019-01-19,Leverkusen,Gladbach,0,1,0.0
+2018-2019,Bundesliga,18,2019-01-19,Stuttgart,Mainz 05,2,3,0.0
+2018-2019,Bundesliga,18,2019-01-19,RB Leipzig,Dortmund,0,1,0.0
+2018-2019,Bundesliga,18,2019-01-20,Nürnberg,Hertha BSC,1,3,0.0
+2018-2019,Bundesliga,18,2019-01-20,Schalke 04,Wolfsburg,2,1,1.0
+2018-2019,Bundesliga,19,2019-01-25,Hertha BSC,Schalke 04,2,2,0.5
+2018-2019,Bundesliga,19,2019-01-26,Wolfsburg,Leverkusen,0,3,0.0
+2018-2019,Bundesliga,19,2019-01-26,Gladbach,Augsburg,2,0,1.0
+2018-2019,Bundesliga,19,2019-01-26,Mainz 05,Nürnberg,2,1,1.0
+2018-2019,Bundesliga,19,2019-01-26,Dortmund,Hannover 96,5,1,1.0
+2018-2019,Bundesliga,19,2019-01-26,Freiburg,Hoffenheim,2,4,0.0
+2018-2019,Bundesliga,19,2019-01-26,Werder Bremen,Eint Frankfurt,2,2,0.5
+2018-2019,Bundesliga,19,2019-01-27,Bayern Munich,Stuttgart,4,1,1.0
+2018-2019,Bundesliga,19,2019-01-27,Düsseldorf,RB Leipzig,0,4,0.0
+2018-2019,Bundesliga,20,2019-02-01,Hannover 96,RB Leipzig,0,3,0.0
+2018-2019,Bundesliga,20,2019-02-02,Hertha BSC,Wolfsburg,0,1,0.0
+2018-2019,Bundesliga,20,2019-02-02,Eint Frankfurt,Dortmund,1,1,0.5
+2018-2019,Bundesliga,20,2019-02-02,Leverkusen,Bayern Munich,3,1,1.0
+2018-2019,Bundesliga,20,2019-02-02,Hoffenheim,Düsseldorf,1,1,0.5
+2018-2019,Bundesliga,20,2019-02-02,Nürnberg,Werder Bremen,1,1,0.5
+2018-2019,Bundesliga,20,2019-02-02,Schalke 04,Gladbach,0,2,0.0
+2018-2019,Bundesliga,20,2019-02-03,Augsburg,Mainz 05,3,0,1.0
+2018-2019,Bundesliga,20,2019-02-03,Stuttgart,Freiburg,2,2,0.5
+2018-2019,Bundesliga,21,2019-02-08,Mainz 05,Leverkusen,1,5,0.0
+2018-2019,Bundesliga,21,2019-02-09,Gladbach,Hertha BSC,0,3,0.0
+2018-2019,Bundesliga,21,2019-02-09,Freiburg,Wolfsburg,3,3,0.5
+2018-2019,Bundesliga,21,2019-02-09,Dortmund,Hoffenheim,3,3,0.5
+2018-2019,Bundesliga,21,2019-02-09,Hannover 96,Nürnberg,2,0,1.0
+2018-2019,Bundesliga,21,2019-02-09,RB Leipzig,Eint Frankfurt,0,0,0.5
+2018-2019,Bundesliga,21,2019-02-09,Bayern Munich,Schalke 04,3,1,1.0
+2018-2019,Bundesliga,21,2019-02-10,Werder Bremen,Augsburg,4,0,1.0
+2018-2019,Bundesliga,21,2019-02-10,Düsseldorf,Stuttgart,3,0,1.0
+2018-2019,Bundesliga,22,2019-02-15,Augsburg,Bayern Munich,2,3,0.0
+2018-2019,Bundesliga,22,2019-02-16,Hoffenheim,Hannover 96,3,0,1.0
+2018-2019,Bundesliga,22,2019-02-16,Schalke 04,Freiburg,0,0,0.5
+2018-2019,Bundesliga,22,2019-02-16,Wolfsburg,Mainz 05,3,0,1.0
+2018-2019,Bundesliga,22,2019-02-16,Stuttgart,RB Leipzig,1,3,0.0
+2018-2019,Bundesliga,22,2019-02-16,Hertha BSC,Werder Bremen,1,1,0.5
+2018-2019,Bundesliga,22,2019-02-17,Eint Frankfurt,Gladbach,1,1,0.5
+2018-2019,Bundesliga,22,2019-02-17,Leverkusen,Düsseldorf,2,0,1.0
+2018-2019,Bundesliga,22,2019-02-18,Nürnberg,Dortmund,0,0,0.5
+2018-2019,Bundesliga,23,2019-02-22,Werder Bremen,Stuttgart,1,1,0.5
+2018-2019,Bundesliga,23,2019-02-23,Mainz 05,Schalke 04,3,0,1.0
+2018-2019,Bundesliga,23,2019-02-23,Bayern Munich,Hertha BSC,1,0,1.0
+2018-2019,Bundesliga,23,2019-02-23,Freiburg,Augsburg,5,1,1.0
+2018-2019,Bundesliga,23,2019-02-23,Gladbach,Wolfsburg,0,3,0.0
+2018-2019,Bundesliga,23,2019-02-23,Düsseldorf,Nürnberg,2,1,1.0
+2018-2019,Bundesliga,23,2019-02-24,Hannover 96,Eint Frankfurt,0,3,0.0
+2018-2019,Bundesliga,23,2019-02-24,Dortmund,Leverkusen,3,2,1.0
+2018-2019,Bundesliga,23,2019-02-25,RB Leipzig,Hoffenheim,1,1,0.5
+2018-2019,Bundesliga,24,2019-03-01,Augsburg,Dortmund,2,1,1.0
+2018-2019,Bundesliga,24,2019-03-02,Leverkusen,Freiburg,2,0,1.0
+2018-2019,Bundesliga,24,2019-03-02,Nürnberg,RB Leipzig,0,1,0.0
+2018-2019,Bundesliga,24,2019-03-02,Eint Frankfurt,Hoffenheim,3,2,1.0
+2018-2019,Bundesliga,24,2019-03-02,Hertha BSC,Mainz 05,2,1,1.0
+2018-2019,Bundesliga,24,2019-03-02,Schalke 04,Düsseldorf,0,4,0.0
+2018-2019,Bundesliga,24,2019-03-02,Gladbach,Bayern Munich,1,5,0.0
+2018-2019,Bundesliga,24,2019-03-03,Stuttgart,Hannover 96,5,1,1.0
+2018-2019,Bundesliga,24,2019-03-03,Wolfsburg,Werder Bremen,1,1,0.5
+2018-2019,Bundesliga,25,2019-03-08,Werder Bremen,Schalke 04,4,2,1.0
+2018-2019,Bundesliga,25,2019-03-09,RB Leipzig,Augsburg,0,0,0.5
+2018-2019,Bundesliga,25,2019-03-09,Freiburg,Hertha BSC,2,1,1.0
+2018-2019,Bundesliga,25,2019-03-09,Dortmund,Stuttgart,3,1,1.0
+2018-2019,Bundesliga,25,2019-03-09,Bayern Munich,Wolfsburg,6,0,1.0
+2018-2019,Bundesliga,25,2019-03-09,Mainz 05,Gladbach,0,1,0.0
+2018-2019,Bundesliga,25,2019-03-10,Hoffenheim,Nürnberg,2,1,1.0
+2018-2019,Bundesliga,25,2019-03-10,Hannover 96,Leverkusen,2,3,0.0
+2018-2019,Bundesliga,25,2019-03-11,Düsseldorf,Eint Frankfurt,0,3,0.0
+2018-2019,Bundesliga,26,2019-03-15,Gladbach,Freiburg,1,1,0.5
+2018-2019,Bundesliga,26,2019-03-16,Augsburg,Hannover 96,3,1,1.0
+2018-2019,Bundesliga,26,2019-03-16,Schalke 04,RB Leipzig,0,1,0.0
+2018-2019,Bundesliga,26,2019-03-16,Wolfsburg,Düsseldorf,5,2,1.0
+2018-2019,Bundesliga,26,2019-03-16,Stuttgart,Hoffenheim,1,1,0.5
+2018-2019,Bundesliga,26,2019-03-16,Hertha BSC,Dortmund,2,3,0.0
+2018-2019,Bundesliga,26,2019-03-17,Leverkusen,Werder Bremen,1,3,0.0
+2018-2019,Bundesliga,26,2019-03-17,Eint Frankfurt,Nürnberg,1,0,1.0
+2018-2019,Bundesliga,26,2019-03-17,Bayern Munich,Mainz 05,6,0,1.0
+2018-2019,Bundesliga,27,2019-03-29,Hoffenheim,Leverkusen,4,1,1.0
+2018-2019,Bundesliga,27,2019-03-30,Düsseldorf,Gladbach,3,1,1.0
+2018-2019,Bundesliga,27,2019-03-30,Freiburg,Bayern Munich,1,1,0.5
+2018-2019,Bundesliga,27,2019-03-30,Nürnberg,Augsburg,3,0,1.0
+2018-2019,Bundesliga,27,2019-03-30,Werder Bremen,Mainz 05,3,1,1.0
+2018-2019,Bundesliga,27,2019-03-30,Dortmund,Wolfsburg,2,0,1.0
+2018-2019,Bundesliga,27,2019-03-30,RB Leipzig,Hertha BSC,5,0,1.0
+2018-2019,Bundesliga,27,2019-03-31,Hannover 96,Schalke 04,0,1,0.0
+2018-2019,Bundesliga,27,2019-03-31,Eint Frankfurt,Stuttgart,3,0,1.0
+2018-2019,Bundesliga,28,2019-04-05,Mainz 05,Freiburg,5,0,1.0
+2018-2019,Bundesliga,28,2019-04-06,Wolfsburg,Hannover 96,3,1,1.0
+2018-2019,Bundesliga,28,2019-04-06,Leverkusen,RB Leipzig,2,4,0.0
+2018-2019,Bundesliga,28,2019-04-06,Hertha BSC,Düsseldorf,1,2,0.0
+2018-2019,Bundesliga,28,2019-04-06,Stuttgart,Nürnberg,1,1,0.5
+2018-2019,Bundesliga,28,2019-04-06,Schalke 04,Eint Frankfurt,1,2,0.0
+2018-2019,Bundesliga,28,2019-04-06,Bayern Munich,Dortmund,5,0,1.0
+2018-2019,Bundesliga,28,2019-04-07,Augsburg,Hoffenheim,0,4,0.0
+2018-2019,Bundesliga,28,2019-04-07,Gladbach,Werder Bremen,1,1,0.5
+2018-2019,Bundesliga,29,2019-04-12,Nürnberg,Schalke 04,1,1,0.5
+2018-2019,Bundesliga,29,2019-04-13,RB Leipzig,Wolfsburg,2,0,1.0
+2018-2019,Bundesliga,29,2019-04-13,Werder Bremen,Freiburg,2,1,1.0
+2018-2019,Bundesliga,29,2019-04-13,Stuttgart,Leverkusen,0,1,0.0
+2018-2019,Bundesliga,29,2019-04-13,Hannover 96,Gladbach,0,1,0.0
+2018-2019,Bundesliga,29,2019-04-13,Dortmund,Mainz 05,2,1,1.0
+2018-2019,Bundesliga,29,2019-04-14,Hoffenheim,Hertha BSC,2,0,1.0
+2018-2019,Bundesliga,29,2019-04-14,Düsseldorf,Bayern Munich,1,4,0.0
+2018-2019,Bundesliga,29,2019-04-14,Eint Frankfurt,Augsburg,1,3,0.0
+2018-2019,Bundesliga,30,2019-04-20,Bayern Munich,Werder Bremen,1,0,1.0
+2018-2019,Bundesliga,30,2019-04-20,Leverkusen,Nürnberg,2,0,1.0
+2018-2019,Bundesliga,30,2019-04-20,Mainz 05,Düsseldorf,3,1,1.0
+2018-2019,Bundesliga,30,2019-04-20,Augsburg,Stuttgart,6,0,1.0
+2018-2019,Bundesliga,30,2019-04-20,Gladbach,RB Leipzig,1,2,0.0
+2018-2019,Bundesliga,30,2019-04-20,Schalke 04,Hoffenheim,2,5,0.0
+2018-2019,Bundesliga,30,2019-04-21,Freiburg,Dortmund,0,4,0.0
+2018-2019,Bundesliga,30,2019-04-21,Hertha BSC,Hannover 96,0,0,0.5
+2018-2019,Bundesliga,30,2019-04-22,Wolfsburg,Eint Frankfurt,1,1,0.5
+2018-2019,Bundesliga,31,2019-04-26,Augsburg,Leverkusen,1,4,0.0
+2018-2019,Bundesliga,31,2019-04-27,Dortmund,Schalke 04,2,4,0.0
+2018-2019,Bundesliga,31,2019-04-27,Düsseldorf,Werder Bremen,4,1,1.0
+2018-2019,Bundesliga,31,2019-04-27,Hannover 96,Mainz 05,1,0,1.0
+2018-2019,Bundesliga,31,2019-04-27,Eint Frankfurt,Hertha BSC,0,0,0.5
+2018-2019,Bundesliga,31,2019-04-27,RB Leipzig,Freiburg,2,1,1.0
+2018-2019,Bundesliga,31,2019-04-27,Stuttgart,Gladbach,1,0,1.0
+2018-2019,Bundesliga,31,2019-04-28,Hoffenheim,Wolfsburg,1,4,0.0
+2018-2019,Bundesliga,31,2019-04-28,Nürnberg,Bayern Munich,1,1,0.5
+2018-2019,Bundesliga,32,2019-05-03,Mainz 05,RB Leipzig,3,3,0.5
+2018-2019,Bundesliga,32,2019-05-04,Hertha BSC,Stuttgart,3,1,1.0
+2018-2019,Bundesliga,32,2019-05-04,Wolfsburg,Nürnberg,2,0,1.0
+2018-2019,Bundesliga,32,2019-05-04,Bayern Munich,Hannover 96,3,1,1.0
+2018-2019,Bundesliga,32,2019-05-04,Gladbach,Hoffenheim,2,2,0.5
+2018-2019,Bundesliga,32,2019-05-04,Werder Bremen,Dortmund,2,2,0.5
+2018-2019,Bundesliga,32,2019-05-05,Schalke 04,Augsburg,0,0,0.5
+2018-2019,Bundesliga,32,2019-05-05,Freiburg,Düsseldorf,1,1,0.5
+2018-2019,Bundesliga,32,2019-05-05,Leverkusen,Eint Frankfurt,6,1,1.0
+2018-2019,Bundesliga,33,2019-05-11,Nürnberg,Gladbach,0,4,0.0
+2018-2019,Bundesliga,33,2019-05-11,Hoffenheim,Werder Bremen,0,1,0.0
+2018-2019,Bundesliga,33,2019-05-11,Hannover 96,Freiburg,3,0,1.0
+2018-2019,Bundesliga,33,2019-05-11,Leverkusen,Schalke 04,1,1,0.5
+2018-2019,Bundesliga,33,2019-05-11,RB Leipzig,Bayern Munich,0,0,0.5
+2018-2019,Bundesliga,33,2019-05-11,Stuttgart,Wolfsburg,3,0,1.0
+2018-2019,Bundesliga,33,2019-05-11,Augsburg,Hertha BSC,3,4,0.0
+2018-2019,Bundesliga,33,2019-05-11,Dortmund,Düsseldorf,3,2,1.0
+2018-2019,Bundesliga,33,2019-05-12,Eint Frankfurt,Mainz 05,0,2,0.0
+2018-2019,Bundesliga,34,2019-05-18,Bayern Munich,Eint Frankfurt,5,1,1.0
+2018-2019,Bundesliga,34,2019-05-18,Hertha BSC,Leverkusen,1,5,0.0
+2018-2019,Bundesliga,34,2019-05-18,Schalke 04,Stuttgart,0,0,0.5
+2018-2019,Bundesliga,34,2019-05-18,Düsseldorf,Hannover 96,2,1,1.0
+2018-2019,Bundesliga,34,2019-05-18,Mainz 05,Hoffenheim,4,2,1.0
+2018-2019,Bundesliga,34,2019-05-18,Gladbach,Dortmund,0,2,0.0
+2018-2019,Bundesliga,34,2019-05-18,Werder Bremen,RB Leipzig,2,1,1.0
+2018-2019,Bundesliga,34,2019-05-18,Wolfsburg,Augsburg,8,1,1.0
+2018-2019,Bundesliga,34,2019-05-18,Freiburg,Nürnberg,5,1,1.0
+2018-2019,German 1/2 Relegation/Promotion Playoffs,,2019-05-23,Stuttgart,Union Berlin,2,2,0.5
+2018-2019,German 1/2 Relegation/Promotion Playoffs,,2019-05-27,Union Berlin,Stuttgart,0,0,0.5

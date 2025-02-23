@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1899-1900,1,1899-09-02,Nott'ham Forest,Preston,3,1,1.0
+1899-1900,1,1899-09-02,Everton,Sheffield Utd,1,2,0.0
+1899-1900,1,1899-09-02,Derby County,Notts County,0,1,0.0
+1899-1900,1,1899-09-02,Blackburn,Manchester City,4,3,1.0
+1899-1900,1,1899-09-02,Sunderland,Aston Villa,0,1,0.0
+1899-1900,1,1899-09-02,Glossop NE,Burnley,2,0,1.0
+1899-1900,1,1899-09-02,Bury,Wolves,3,0,1.0
+1899-1900,1,1899-09-02,West Brom,Newcastle Utd,1,1,0.5
+1899-1900,1,1899-09-02,Stoke,Liverpool,3,2,1.0
+1899-1900,2,1899-09-04,Aston Villa,Glossop NE,9,0,1.0
+1899-1900,2,1899-09-09,Wolves,Nott'ham Forest,2,2,0.5
+1899-1900,2,1899-09-09,Burnley,Stoke,2,2,0.5
+1899-1900,2,1899-09-09,Newcastle Utd,Everton,2,0,1.0
+1899-1900,2,1899-09-09,Aston Villa,West Brom,0,2,0.0
+1899-1900,2,1899-09-09,Manchester City,Derby County,4,0,1.0
+1899-1900,2,1899-09-09,Liverpool,Sunderland,0,2,0.0
+1899-1900,2,1899-09-09,Notts County,Bury,2,2,0.5
+1899-1900,2,1899-09-09,Sheffield Utd,Blackburn,3,0,1.0
+1899-1900,3,1899-09-09,Preston,Glossop NE,1,0,1.0
+1899-1900,3,1899-09-16,Blackburn,Newcastle Utd,2,3,0.0
+1899-1900,3,1899-09-16,Stoke,Preston,3,1,1.0
+1899-1900,3,1899-09-16,West Brom,Liverpool,2,0,1.0
+1899-1900,3,1899-09-16,Notts County,Wolves,0,0,0.5
+1899-1900,3,1899-09-16,Bury,Manchester City,1,4,0.0
+1899-1900,3,1899-09-16,Everton,Aston Villa,1,2,0.0
+1899-1900,3,1899-09-16,Derby County,Sheffield Utd,0,1,0.0
+1899-1900,3,1899-09-16,Sunderland,Burnley,2,1,1.0
+1899-1900,4,1899-09-16,Glossop NE,Nott'ham Forest,3,0,1.0
+1899-1900,4,1899-09-18,Stoke,Wolves,1,3,0.0
+1899-1900,4,1899-09-23,Newcastle Utd,Derby County,2,0,1.0
+1899-1900,4,1899-09-23,Aston Villa,Blackburn,3,1,1.0
+1899-1900,4,1899-09-23,Sheffield Utd,Bury,4,0,1.0
+1899-1900,4,1899-09-23,Burnley,West Brom,2,0,1.0
+1899-1900,4,1899-09-23,Liverpool,Everton,1,2,0.0
+1899-1900,4,1899-09-23,Nott'ham Forest,Stoke,1,0,1.0
+1899-1900,4,1899-09-23,Manchester City,Notts County,5,1,1.0
+1899-1900,4,1899-09-23,Preston,Sunderland,0,1,0.0
+1899-1900,5,1899-09-23,Wolves,Glossop NE,4,0,1.0
+1899-1900,5,1899-09-30,Everton,Burnley,2,0,1.0
+1899-1900,5,1899-09-30,Derby County,Aston Villa,2,0,1.0
+1899-1900,5,1899-09-30,Sunderland,Nott'ham Forest,1,0,1.0
+1899-1900,5,1899-09-30,Bury,Newcastle Utd,2,1,1.0
+1899-1900,5,1899-09-30,Notts County,Sheffield Utd,1,2,0.0
+1899-1900,5,1899-09-30,West Brom,Preston,1,0,1.0
+1899-1900,5,1899-09-30,Blackburn,Liverpool,2,0,1.0
+1899-1900,5,1899-09-30,Manchester City,Wolves,1,1,0.5
+1899-1900,6,1899-09-30,Stoke,Glossop NE,1,0,1.0
+1899-1900,6,1899-10-02,Sheffield Utd,Sunderland,2,2,0.5
+1899-1900,6,1899-10-05,Notts County,Liverpool,2,1,1.0
+1899-1900,6,1899-10-07,Burnley,Blackburn,1,0,1.0
+1899-1900,6,1899-10-07,Liverpool,Derby County,0,2,0.0
+1899-1900,6,1899-10-07,Preston,Everton,1,1,0.5
+1899-1900,6,1899-10-07,Newcastle Utd,Notts County,6,0,1.0
+1899-1900,6,1899-10-07,Aston Villa,Bury,2,1,1.0
+1899-1900,6,1899-10-07,Nott'ham Forest,West Brom,6,1,1.0
+1899-1900,6,1899-10-07,Sheffield Utd,Manchester City,3,0,1.0
+1899-1900,7,1899-10-07,Glossop NE,Sunderland,0,2,0.0
+1899-1900,7,1899-10-07,Wolves,Stoke,0,2,0.0
+1899-1900,7,1899-10-14,Everton,Nott'ham Forest,2,1,1.0
+1899-1900,7,1899-10-14,Blackburn,Preston,3,0,1.0
+1899-1900,7,1899-10-14,Bury,Liverpool,2,1,1.0
+1899-1900,7,1899-10-14,Derby County,Burnley,4,1,1.0
+1899-1900,7,1899-10-14,Manchester City,Newcastle Utd,1,0,1.0
+1899-1900,8,1899-10-14,Notts County,Aston Villa,1,4,0.0
+1899-1900,8,1899-10-14,Sunderland,Stoke,3,0,1.0
+1899-1900,8,1899-10-14,Sheffield Utd,Wolves,5,2,1.0
+1899-1900,8,1899-10-14,West Brom,Glossop NE,3,3,0.5
+1899-1900,8,1899-10-21,Newcastle Utd,Sheffield Utd,0,0,0.5
+1899-1900,8,1899-10-21,Burnley,Bury,1,0,1.0
+1899-1900,8,1899-10-21,Preston,Derby County,0,0,0.5
+1899-1900,8,1899-10-21,Glossop NE,Everton,1,1,0.5
+1899-1900,8,1899-10-21,Nott'ham Forest,Blackburn,3,2,1.0
+1899-1900,9,1899-10-21,Stoke,West Brom,1,0,1.0
+1899-1900,9,1899-10-21,Aston Villa,Manchester City,2,1,1.0
+1899-1900,9,1899-10-21,Liverpool,Notts County,3,1,1.0
+1899-1900,9,1899-10-28,Newcastle Utd,Wolves,0,1,0.0
+1899-1900,9,1899-10-28,West Brom,Sunderland,1,0,1.0
+1899-1900,9,1899-10-28,Bury,Preston,2,0,1.0
+1899-1900,9,1899-10-28,Notts County,Burnley,6,1,1.0
+1899-1900,9,1899-10-28,Derby County,Nott'ham Forest,2,2,0.5
+1899-1900,9,1899-10-28,Stoke,Everton,1,1,0.5
+1899-1900,10,1899-10-28,Manchester City,Liverpool,0,1,0.0
+1899-1900,10,1899-10-28,Sheffield Utd,Aston Villa,2,1,1.0
+1899-1900,9,1899-11-04,Stoke,Blackburn,2,0,1.0
+1899-1900,10,1899-11-04,Nott'ham Forest,Bury,2,2,0.5
+1899-1900,10,1899-11-04,Wolves,West Brom,2,0,1.0
+1899-1900,10,1899-11-04,Sunderland,Everton,1,0,1.0
+1899-1900,10,1899-11-04,Burnley,Manchester City,2,0,1.0
+1899-1900,11,1899-11-04,Aston Villa,Newcastle Utd,2,1,1.0
+1899-1900,11,1899-11-04,Liverpool,Sheffield Utd,2,2,0.5
+1899-1900,11,1899-11-04,Preston,Notts County,4,3,1.0
+1899-1900,11,1899-11-06,West Brom,Sheffield Utd,1,2,0.0
+1899-1900,10,1899-11-11,Derby County,Stoke,2,0,1.0
+1899-1900,10,1899-11-11,Blackburn,Sunderland,1,2,0.0
+1899-1900,11,1899-11-11,Manchester City,Preston,3,1,1.0
+1899-1900,11,1899-11-11,Bury,Glossop NE,2,1,1.0
+1899-1900,11,1899-11-11,Notts County,Nott'ham Forest,1,2,0.0
+1899-1900,11,1899-11-11,Everton,West Brom,1,3,0.0
+1899-1900,11,1899-11-11,Sheffield Utd,Burnley,0,0,0.5
+1899-1900,12,1899-11-11,Aston Villa,Wolves,0,0,0.5
+1899-1900,12,1899-11-11,Newcastle Utd,Liverpool,1,1,0.5
+1899-1900,13,1899-11-13,Stoke,Aston Villa,0,2,0.0
+1899-1900,11,1899-11-18,Glossop NE,Notts County,0,0,0.5
+1899-1900,12,1899-11-18,Preston,Sheffield Utd,0,1,0.0
+1899-1900,12,1899-11-18,Burnley,Newcastle Utd,1,3,0.0
+1899-1900,14,1899-11-18,Liverpool,Aston Villa,3,3,0.5
+1899-1900,11,1899-11-25,Blackburn,Everton,3,1,1.0
+1899-1900,11,1899-11-25,Derby County,West Brom,4,1,1.0
+1899-1900,12,1899-11-25,Bury,Sunderland,2,0,1.0
+1899-1900,12,1899-11-25,Sheffield Utd,Nott'ham Forest,3,0,1.0
+1899-1900,12,1899-11-25,Manchester City,Glossop NE,4,1,1.0
+1899-1900,13,1899-11-25,Newcastle Utd,Preston,0,0,0.5
+1899-1900,14,1899-11-25,Liverpool,Wolves,1,1,0.5
+1899-1900,14,1899-11-25,Notts County,Stoke,1,3,0.0
+1899-1900,15,1899-11-25,Aston Villa,Burnley,2,0,1.0
+1899-1900,12,1899-12-02,Wolves,Blackburn,4,0,1.0
+1899-1900,12,1899-12-02,Everton,Derby County,3,0,1.0
+1899-1900,13,1899-12-02,Sunderland,Notts County,5,0,1.0
+1899-1900,13,1899-12-02,Glossop NE,Sheffield Utd,2,2,0.5
+1899-1900,13,1899-12-02,West Brom,Bury,0,1,0.0
+1899-1900,13,1899-12-02,Nott'ham Forest,Newcastle Utd,1,0,1.0
+1899-1900,14,1899-12-02,Burnley,Liverpool,2,1,1.0
+1899-1900,15,1899-12-02,Stoke,Manchester City,1,0,1.0
+1899-1900,16,1899-12-02,Preston,Aston Villa,0,5,0.0
+1899-1900,13,1899-12-09,Derby County,Blackburn,0,2,0.0
+1899-1900,14,1899-12-09,Manchester City,Sunderland,2,1,1.0
+1899-1900,14,1899-12-09,Bury,Everton,4,1,1.0
+1899-1900,14,1899-12-09,Aston Villa,Nott'ham Forest,2,2,0.5
+1899-1900,15,1899-12-09,Notts County,West Brom,1,2,0.0
+1899-1900,15,1899-12-09,Burnley,Wolves,0,1,0.0
+1899-1900,16,1899-12-09,Liverpool,Preston,1,0,1.0
+1899-1900,16,1899-12-09,Sheffield Utd,Stoke,1,0,1.0
+1899-1900,14,1899-12-16,Derby County,Wolves,0,2,0.0
+1899-1900,14,1899-12-16,Blackburn,Bury,3,2,1.0
+1899-1900,14,1899-12-16,Glossop NE,Aston Villa,1,0,1.0
+1899-1900,15,1899-12-16,Everton,Notts County,0,2,0.0
+1899-1900,15,1899-12-16,Sunderland,Sheffield Utd,1,1,0.5
+1899-1900,15,1899-12-16,Nott'ham Forest,Liverpool,1,0,1.0
+1899-1900,16,1899-12-16,West Brom,Manchester City,0,0,0.5
+1899-1900,16,1899-12-16,Preston,Burnley,1,1,0.5
+1899-1900,17,1899-12-16,Stoke,Newcastle Utd,2,2,0.5
+1899-1900,15,1899-12-23,Liverpool,Glossop NE,5,2,1.0
+1899-1900,15,1899-12-23,Notts County,Blackburn,5,1,1.0
+1899-1900,16,1899-12-23,Newcastle Utd,Sunderland,2,4,0.0
+1899-1900,16,1899-12-23,Burnley,Nott'ham Forest,2,2,0.5
+1899-1900,16,1899-12-23,Manchester City,Everton,1,2,0.0
+1899-1900,16,1899-12-23,Bury,Derby County,1,1,0.5
+1899-1900,17,1899-12-23,Sheffield Utd,West Brom,1,1,0.5
+1899-1900,17,1899-12-23,Wolves,Preston,1,3,0.0
+1899-1900,18,1899-12-23,Aston Villa,Stoke,4,1,1.0
+1899-1900,16,1899-12-25,Derby County,Liverpool,3,2,1.0
+1899-1900,17,1899-12-25,Everton,Stoke,2,0,1.0
+1899-1900,17,1899-12-25,Bury,Nott'ham Forest,2,1,1.0
+1899-1900,17,1899-12-25,Manchester City,Sheffield Utd,1,2,0.0
+1899-1900,17,1899-12-26,Derby County,Glossop NE,4,1,1.0
+1899-1900,17,1899-12-26,Wolves,Sunderland,1,0,1.0
+1899-1900,18,1899-12-26,West Brom,Everton,0,0,0.5
+1899-1900,20,1899-12-26,Stoke,Burnley,3,0,1.0
+1899-1900,18,1899-12-27,Nott'ham Forest,Manchester City,2,0,1.0
+1899-1900,16,1899-12-30,Manchester City,Blackburn,1,1,0.5
+1899-1900,17,1899-12-30,Burnley,Glossop NE,3,1,1.0
+1899-1900,18,1899-12-30,Wolves,Bury,1,0,1.0
+1899-1900,18,1899-12-30,Aston Villa,Sunderland,4,2,1.0
+1899-1900,18,1899-12-30,Notts County,Derby County,0,0,0.5
+1899-1900,19,1899-12-30,Newcastle Utd,West Brom,4,2,1.0
+1899-1900,19,1899-12-30,Sheffield Utd,Everton,5,0,1.0
+1899-1900,19,1899-12-30,Preston,Nott'ham Forest,3,0,1.0
+1899-1900,21,1899-12-30,Liverpool,Stoke,0,0,0.5
+1899-1900,17,1900-01-01,Blackburn,Burnley,2,0,1.0
+1899-1900,19,1900-01-01,Bury,Aston Villa,2,0,1.0
+1899-1900,19,1900-01-01,Sunderland,Wolves,1,2,0.0
+1899-1900,20,1900-01-01,Everton,Preston,1,0,1.0
+1899-1900,18,1900-01-06,Glossop NE,Preston,0,2,0.0
+1899-1900,19,1900-01-06,Derby County,Manchester City,0,0,0.5
+1899-1900,20,1900-01-06,Nott'ham Forest,Wolves,0,0,0.5
+1899-1900,20,1900-01-06,Bury,Notts County,0,1,0.0
+1899-1900,20,1900-01-06,Sunderland,Liverpool,1,0,1.0
+1899-1900,20,1900-01-06,West Brom,Aston Villa,0,2,0.0
+1899-1900,21,1900-01-06,Everton,Newcastle Utd,3,2,1.0
+1899-1900,18,1900-01-13,Newcastle Utd,Blackburn,4,1,1.0
+1899-1900,19,1900-01-13,Nott'ham Forest,Glossop NE,5,0,1.0
+1899-1900,20,1900-01-13,Sheffield Utd,Derby County,1,1,0.5
+1899-1900,21,1900-01-13,Liverpool,West Brom,2,0,1.0
+1899-1900,21,1900-01-13,Manchester City,Bury,2,2,0.5
+1899-1900,21,1900-01-13,Wolves,Notts County,2,2,0.5
+1899-1900,21,1900-01-13,Burnley,Sunderland,3,1,1.0
+1899-1900,22,1900-01-13,Preston,Stoke,3,0,1.0
+1899-1900,22,1900-01-13,Aston Villa,Everton,1,1,0.5
+1899-1900,19,1900-01-20,Blackburn,Aston Villa,0,4,0.0
+1899-1900,20,1900-01-20,Glossop NE,Wolves,2,3,0.0
+1899-1900,21,1900-01-20,Derby County,Newcastle Utd,2,1,1.0
+1899-1900,22,1900-01-20,Stoke,Nott'ham Forest,0,0,0.5
+1899-1900,22,1900-01-20,Bury,Sheffield Utd,2,1,1.0
+1899-1900,22,1900-01-20,Sunderland,Preston,1,0,1.0
+1899-1900,22,1900-01-20,West Brom,Burnley,2,0,1.0
+1899-1900,22,1900-01-20,Notts County,Manchester City,1,1,0.5
+1899-1900,23,1900-01-20,Everton,Liverpool,3,1,1.0
+1899-1900,20,1900-02-03,Liverpool,Blackburn,3,1,1.0
+1899-1900,21,1900-02-03,Glossop NE,Stoke,1,2,0.0
+1899-1900,22,1900-02-03,Aston Villa,Derby County,3,2,1.0
+1899-1900,23,1900-02-03,Newcastle Utd,Bury,2,1,1.0
+1899-1900,23,1900-02-03,Wolves,Manchester City,1,1,0.5
+1899-1900,23,1900-02-03,Preston,West Brom,5,2,1.0
+1899-1900,23,1900-02-03,Sheffield Utd,Notts County,1,1,0.5
+1899-1900,24,1900-02-03,Burnley,Everton,3,1,1.0
+1899-1900,23,1900-02-17,Burnley,Derby County,1,2,0.0
+1899-1900,25,1900-02-17,Nott'ham Forest,Everton,4,2,1.0
+1899-1900,26,1900-02-17,Aston Villa,Notts County,6,2,1.0
+1899-1900,22,1900-02-24,Sunderland,Glossop NE,0,0,0.5
+1899-1900,21,1900-02-27,Glossop NE,Blackburn,4,2,1.0
+1899-1900,22,1900-03-03,Blackburn,Glossop NE,2,2,0.5
+1899-1900,22,1900-03-03,Wolves,Newcastle Utd,1,1,0.5
+1899-1900,24,1900-03-03,Preston,Bury,1,0,1.0
+1899-1900,24,1900-03-03,Nott'ham Forest,Derby County,4,1,1.0
+1899-1900,24,1900-03-03,Sunderland,West Brom,3,1,1.0
+1899-1900,25,1900-03-03,Liverpool,Manchester City,5,2,1.0
+1899-1900,25,1900-03-03,Burnley,Notts County,3,0,1.0
+1899-1900,27,1900-03-03,Aston Villa,Sheffield Utd,1,1,0.5
+1899-1900,23,1900-03-05,Blackburn,Nott'ham Forest,2,1,1.0
+1899-1900,24,1900-03-10,Blackburn,Stoke,3,0,1.0
+1899-1900,25,1900-03-10,West Brom,Wolves,3,2,1.0
+1899-1900,26,1900-03-10,Everton,Sunderland,1,0,1.0
+1899-1900,26,1900-03-10,Sheffield Utd,Liverpool,1,2,0.0
+1899-1900,26,1900-03-10,Manchester City,Burnley,1,0,1.0
+1899-1900,26,1900-03-10,Notts County,Preston,3,0,1.0
+1899-1900,28,1900-03-10,Newcastle Utd,Aston Villa,3,2,1.0
+1899-1900,25,1900-03-14,Bury,Burnley,1,1,0.5
+1899-1900,25,1900-03-14,Newcastle Utd,Glossop NE,1,0,1.0
+1899-1900,25,1900-03-17,Stoke,Derby County,1,1,0.5
+1899-1900,26,1900-03-17,Nott'ham Forest,Notts County,0,3,0.0
+1899-1900,26,1900-03-17,Glossop NE,Bury,0,0,0.5
+1899-1900,27,1900-03-17,Liverpool,Newcastle Utd,2,0,1.0
+1899-1900,27,1900-03-17,Wolves,Everton,2,1,1.0
+1899-1900,27,1900-03-19,West Brom,Stoke,4,0,1.0
+1899-1900,29,1900-03-19,Manchester City,Aston Villa,0,2,0.0
+1899-1900,26,1900-03-21,Sunderland,Derby County,2,0,1.0
+1899-1900,25,1900-03-24,Blackburn,West Brom,2,0,1.0
+1899-1900,26,1900-03-24,Sheffield Utd,Preston,1,0,1.0
+1899-1900,27,1900-03-24,Notts County,Glossop NE,0,0,0.5
+1899-1900,27,1900-03-24,Derby County,Sunderland,2,0,1.0
+1899-1900,28,1900-03-24,Newcastle Utd,Burnley,2,0,1.0
+1899-1900,28,1900-03-24,Everton,Wolves,0,1,0.0
+1899-1900,30,1900-03-24,Aston Villa,Liverpool,1,0,1.0
+1899-1900,27,1900-03-26,Sheffield Utd,Newcastle Utd,3,1,1.0
+1899-1900,28,1900-03-26,Stoke,Sunderland,1,2,0.0
+1899-1900,26,1900-03-31,Everton,Blackburn,0,0,0.5
+1899-1900,27,1900-03-31,Sunderland,Bury,1,0,1.0
+1899-1900,27,1900-03-31,Nott'ham Forest,Sheffield Utd,4,0,1.0
+1899-1900,28,1900-03-31,Glossop NE,Manchester City,0,2,0.0
+1899-1900,28,1900-03-31,West Brom,Derby County,0,0,0.5
+1899-1900,28,1900-03-31,Preston,Newcastle Utd,4,1,1.0
+1899-1900,29,1900-03-31,Stoke,Notts County,1,0,1.0
+1899-1900,29,1900-03-31,Wolves,Liverpool,0,1,0.0
+1899-1900,31,1900-03-31,Burnley,Aston Villa,1,2,0.0
+1899-1900,27,1900-04-02,West Brom,Blackburn,1,0,1.0
+1899-1900,29,1900-04-04,Derby County,Preston,2,0,1.0
+1899-1900,28,1900-04-07,Bury,West Brom,1,0,1.0
+1899-1900,28,1900-04-07,Blackburn,Wolves,2,1,1.0
+1899-1900,28,1900-04-07,Newcastle Utd,Nott'ham Forest,3,1,1.0
+1899-1900,29,1900-04-07,Sheffield Utd,Glossop NE,4,0,1.0
+1899-1900,30,1900-04-07,Manchester City,Stoke,1,0,1.0
+1899-1900,30,1900-04-07,Derby County,Everton,2,1,1.0
+1899-1900,30,1900-04-07,Notts County,Sunderland,3,1,1.0
+1899-1900,30,1900-04-07,Liverpool,Burnley,0,1,0.0
+1899-1900,32,1900-04-07,Aston Villa,Preston,3,1,1.0
+1899-1900,29,1900-04-09,Liverpool,Bury,2,0,1.0
+1899-1900,29,1900-04-09,Manchester City,Nott'ham Forest,2,0,1.0
+1899-1900,29,1900-04-13,Blackburn,Sheffield Utd,3,3,0.5
+1899-1900,30,1900-04-13,Bury,Stoke,0,1,0.0
+1899-1900,30,1900-04-13,Newcastle Utd,Manchester City,0,0,0.5
+1899-1900,31,1900-04-13,Glossop NE,Derby County,1,3,0.0
+1899-1900,30,1900-04-14,Blackburn,Derby County,2,0,1.0
+1899-1900,30,1900-04-14,Nott'ham Forest,Aston Villa,1,1,0.5
+1899-1900,31,1900-04-14,Glossop NE,Newcastle Utd,0,0,0.5
+1899-1900,31,1900-04-14,West Brom,Notts County,0,0,0.5
+1899-1900,31,1900-04-14,Everton,Bury,2,0,1.0
+1899-1900,31,1900-04-14,Sunderland,Manchester City,3,1,1.0
+1899-1900,31,1900-04-14,Wolves,Burnley,3,0,1.0
+1899-1900,32,1900-04-14,Stoke,Sheffield Utd,1,1,0.5
+1899-1900,32,1900-04-14,Preston,Liverpool,1,3,0.0
+1899-1900,31,1900-04-16,West Brom,Nott'ham Forest,8,0,1.0
+1899-1900,31,1900-04-16,Sunderland,Blackburn,1,0,1.0
+1899-1900,32,1900-04-16,Notts County,Newcastle Utd,0,0,0.5
+1899-1900,32,1900-04-16,Everton,Glossop NE,4,1,1.0
+1899-1900,32,1900-04-16,Preston,Manchester City,0,2,0.0
+1899-1900,32,1900-04-16,Stoke,Bury,2,0,1.0
+1899-1900,34,1900-04-16,Wolves,Aston Villa,0,1,0.0
+1899-1900,32,1900-04-17,Nott'ham Forest,Sunderland,1,3,0.0
+1899-1900,33,1900-04-17,Wolves,Sheffield Utd,1,2,0.0
+1899-1900,32,1900-04-21,Burnley,Preston,0,1,0.0
+1899-1900,33,1900-04-21,Liverpool,Nott'ham Forest,1,0,1.0
+1899-1900,33,1900-04-21,Notts County,Everton,2,2,0.5
+1899-1900,33,1900-04-21,Wolves,Derby County,3,0,1.0
+1899-1900,33,1900-04-21,Manchester City,West Brom,4,0,1.0
+1899-1900,34,1900-04-21,Newcastle Utd,Stoke,2,2,0.5
+1899-1900,33,1900-04-23,Burnley,Sheffield Utd,1,0,1.0
+1899-1900,33,1900-04-24,Glossop NE,West Brom,1,1,0.5
+1899-1900,32,1900-04-25,Bury,Blackburn,2,0,1.0
+1899-1900,33,1900-04-28,Preston,Wolves,2,0,1.0
+1899-1900,33,1900-04-28,Blackburn,Notts County,2,0,1.0
+1899-1900,34,1900-04-28,Glossop NE,Liverpool,1,2,0.0
+1899-1900,34,1900-04-28,Sunderland,Newcastle Utd,1,2,0.0
+1899-1900,34,1900-04-28,Nott'ham Forest,Burnley,4,0,1.0
+1899-1900,34,1900-04-28,Everton,Manchester City,4,0,1.0
+1899-1900,34,1900-04-28,Derby County,Bury,3,0,1.0
+1899-1900,34,1900-04-30,Preston,Blackburn,2,0,1.0

@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023,1,2023-04-01,Malmö,Kalmar,1,0,1.0
+2023,1,2023-04-01,Djurgården,Brommapojkarna,3,1,1.0
+2023,1,2023-04-02,Hammarby,Degerfors,3,1,1.0
+2023,1,2023-04-02,Norrköping,Sirius,1,1,0.5
+2023,1,2023-04-02,Göteborg,Värnamo,0,1,0.0
+2023,1,2023-04-02,Halmstad,AIK Stockholm,2,1,1.0
+2023,1,2023-04-03,Mjällby,Varberg,2,2,0.5
+2023,1,2023-04-03,Elfsborg,Häcken,0,2,0.0
+2023,2,2023-04-08,Brommapojkarna,Malmö,1,2,0.0
+2023,2,2023-04-08,Degerfors,Halmstad,3,1,1.0
+2023,2,2023-04-09,Häcken,Hammarby,3,1,1.0
+2023,2,2023-04-09,Kalmar,Göteborg,2,0,1.0
+2023,2,2023-04-09,Sirius,Djurgården,0,0,0.5
+2023,2,2023-04-10,Värnamo,Mjällby,0,1,0.0
+2023,2,2023-04-10,AIK Stockholm,Norrköping,0,3,0.0
+2023,2,2023-04-10,Varberg,Elfsborg,0,0,0.5
+2023,3,2023-04-15,Elfsborg,Brommapojkarna,5,0,1.0
+2023,3,2023-04-15,Häcken,Kalmar,1,3,0.0
+2023,3,2023-04-16,AIK Stockholm,Hammarby,2,0,1.0
+2023,3,2023-04-16,Norrköping,Värnamo,2,1,1.0
+2023,3,2023-04-16,Halmstad,Djurgården,2,0,1.0
+2023,3,2023-04-16,Mjällby,Degerfors,2,0,1.0
+2023,3,2023-04-17,Varberg,Sirius,1,1,0.5
+2023,3,2023-04-17,Göteborg,Malmö,0,1,0.0
+2023,4,2023-04-22,Hammarby,Varberg,2,0,1.0
+2023,4,2023-04-22,Degerfors,Elfsborg,1,2,0.0
+2023,4,2023-04-23,Kalmar,Halmstad,2,0,1.0
+2023,4,2023-04-23,Djurgården,Göteborg,1,0,1.0
+2023,4,2023-04-23,Sirius,Häcken,1,4,0.0
+2023,4,2023-04-24,Värnamo,AIK Stockholm,1,0,1.0
+2023,4,2023-04-24,Brommapojkarna,Mjällby,2,0,1.0
+2023,4,2023-04-24,Malmö,Norrköping,3,0,1.0
+2023,5,2023-04-29,AIK Stockholm,Sirius,0,0,0.5
+2023,5,2023-04-29,Mjällby,Elfsborg,0,1,0.0
+2023,5,2023-04-29,Häcken,Värnamo,3,1,1.0
+2023,5,2023-04-29,Halmstad,Brommapojkarna,0,2,0.0
+2023,5,2023-04-30,Malmö,Hammarby,4,2,1.0
+2023,5,2023-04-30,Varberg,Kalmar,0,0,0.5
+2023,5,2023-04-30,Degerfors,Djurgården,2,1,1.0
+2023,5,2023-05-01,Göteborg,Norrköping,1,1,0.5
+2023,6,2023-05-03,Häcken,Djurgården,4,1,1.0
+2023,6,2023-05-03,Mjällby,AIK Stockholm,0,0,0.5
+2023,6,2023-05-03,Elfsborg,Halmstad,6,1,1.0
+2023,6,2023-05-03,Kalmar,Sirius,2,2,0.5
+2023,6,2023-05-04,Varberg,Malmö,0,6,0.0
+2023,6,2023-05-04,Norrköping,Hammarby,2,0,1.0
+2023,6,2023-05-04,Värnamo,Brommapojkarna,0,1,0.0
+2023,6,2023-05-04,Göteborg,Degerfors,6,0,1.0
+2023,7,2023-05-07,Malmö,AIK Stockholm,3,1,1.0
+2023,7,2023-05-07,Halmstad,Häcken,1,0,1.0
+2023,7,2023-05-08,Degerfors,Norrköping,0,2,0.0
+2023,7,2023-05-08,Brommapojkarna,Göteborg,0,0,0.5
+2023,7,2023-05-08,Sirius,Elfsborg,3,4,0.0
+2023,7,2023-05-08,Djurgården,Kalmar,3,1,1.0
+2023,7,2023-05-09,Hammarby,Mjällby,0,0,0.5
+2023,7,2023-05-09,Värnamo,Varberg,3,1,1.0
+2023,8,2023-05-13,Häcken,Degerfors,6,1,1.0
+2023,8,2023-05-13,Varberg,Norrköping,1,3,0.0
+2023,8,2023-05-14,Hammarby,Djurgården,4,3,1.0
+2023,8,2023-05-14,Elfsborg,Värnamo,2,0,1.0
+2023,8,2023-05-14,Mjällby,Sirius,3,0,1.0
+2023,8,2023-05-14,Halmstad,Malmö,0,1,0.0
+2023,8,2023-05-14,Kalmar,Brommapojkarna,1,3,0.0
+2023,8,2023-05-15,AIK Stockholm,Göteborg,2,2,0.5
+2023,9,2023-05-20,Degerfors,AIK Stockholm,2,1,1.0
+2023,9,2023-05-21,Malmö,Häcken,2,2,0.5
+2023,9,2023-05-21,Brommapojkarna,Varberg,2,1,1.0
+2023,9,2023-05-21,Djurgården,Mjällby,2,0,1.0
+2023,9,2023-05-21,Göteborg,Hammarby,1,1,0.5
+2023,9,2023-05-21,Sirius,Halmstad,1,2,0.0
+2023,9,2023-05-22,Värnamo,Kalmar,0,1,0.0
+2023,9,2023-05-22,Norrköping,Elfsborg,1,2,0.0
+2023,18,2023-05-24,Djurgården,Häcken,1,0,1.0
+2023,18,2023-05-25,Degerfors,Hammarby,2,2,0.5
+2023,10,2023-05-27,Mjällby,Halmstad,0,2,0.0
+2023,10,2023-05-27,Brommapojkarna,Sirius,1,2,0.0
+2023,10,2023-05-28,Djurgården,AIK Stockholm,1,0,1.0
+2023,10,2023-05-28,Kalmar,Norrköping,2,1,1.0
+2023,10,2023-05-28,Elfsborg,Malmö,3,0,1.0
+2023,10,2023-05-29,Degerfors,Varberg,1,1,0.5
+2023,10,2023-05-29,Hammarby,Värnamo,0,2,0.0
+2023,10,2023-05-29,Häcken,Göteborg,4,1,1.0
+2023,11,2023-06-03,Göteborg,Mjällby,0,1,0.0
+2023,11,2023-06-03,Norrköping,Brommapojkarna,0,2,0.0
+2023,11,2023-06-04,AIK Stockholm,Kalmar,1,1,0.5
+2023,11,2023-06-04,Halmstad,Hammarby,0,0,0.5
+2023,11,2023-06-04,Sirius,Värnamo,2,0,1.0
+2023,11,2023-06-04,Elfsborg,Djurgården,1,1,0.5
+2023,11,2023-06-05,Varberg,Häcken,0,2,0.0
+2023,11,2023-06-05,Malmö,Degerfors,5,0,1.0
+2023,12,2023-06-09,Hammarby,Brommapojkarna,2,1,1.0
+2023,12,2023-06-10,Kalmar,Degerfors,2,1,1.0
+2023,12,2023-06-10,Värnamo,Malmö,1,3,0.0
+2023,12,2023-06-10,Varberg,Halmstad,1,2,0.0
+2023,12,2023-06-11,AIK Stockholm,Elfsborg,1,2,0.0
+2023,12,2023-06-11,Sirius,Göteborg,2,0,1.0
+2023,12,2023-06-11,Häcken,Mjällby,3,0,1.0
+2023,12,2023-06-11,Djurgården,Norrköping,2,2,0.5
+2023,13,2023-07-01,Degerfors,Värnamo,0,2,0.0
+2023,13,2023-07-01,Brommapojkarna,AIK Stockholm,0,2,0.0
+2023,13,2023-07-01,Malmö,Sirius,3,0,1.0
+2023,13,2023-07-02,Norrköping,Häcken,2,2,0.5
+2023,13,2023-07-02,Halmstad,Göteborg,0,0,0.5
+2023,13,2023-07-02,Djurgården,Varberg,2,0,1.0
+2023,13,2023-07-03,Mjällby,Kalmar,1,1,0.5
+2023,13,2023-07-03,Elfsborg,Hammarby,2,0,1.0
+2023,14,2023-07-08,AIK Stockholm,Häcken,1,2,0.0
+2023,14,2023-07-08,Värnamo,Djurgården,1,2,0.0
+2023,14,2023-07-08,Brommapojkarna,Degerfors,1,2,0.0
+2023,14,2023-07-09,Malmö,Mjällby,1,2,0.0
+2023,14,2023-07-09,Sirius,Hammarby,1,2,0.0
+2023,14,2023-07-09,Kalmar,Elfsborg,0,4,0.0
+2023,14,2023-07-10,Norrköping,Halmstad,1,2,0.0
+2023,14,2023-07-10,Göteborg,Varberg,1,2,0.0
+2023,15,2023-07-15,Halmstad,Värnamo,2,2,0.5
+2023,15,2023-07-15,Häcken,Brommapojkarna,4,2,1.0
+2023,15,2023-07-15,Degerfors,Sirius,0,3,0.0
+2023,15,2023-07-16,Hammarby,Kalmar,3,1,1.0
+2023,15,2023-07-16,Elfsborg,Göteborg,1,1,0.5
+2023,15,2023-07-16,Mjällby,Norrköping,1,2,0.0
+2023,15,2023-07-17,Djurgården,Malmö,2,0,1.0
+2023,15,2023-07-17,Varberg,AIK Stockholm,1,2,0.0
+2023,16,2023-07-21,Brommapojkarna,Hammarby,1,0,1.0
+2023,16,2023-07-22,Djurgården,Elfsborg,0,4,0.0
+2023,16,2023-07-22,Värnamo,Häcken,1,0,1.0
+2023,16,2023-07-23,AIK Stockholm,Malmö,0,0,0.5
+2023,16,2023-07-23,Norrköping,Degerfors,1,0,1.0
+2023,16,2023-07-23,Göteborg,Halmstad,0,0,0.5
+2023,16,2023-07-23,Kalmar,Varberg,1,0,1.0
+2023,16,2023-07-24,Sirius,Mjällby,2,3,0.0
+2023,17,2023-07-29,Häcken,Elfsborg,3,1,1.0
+2023,17,2023-07-29,Degerfors,Brommapojkarna,2,0,1.0
+2023,17,2023-07-29,Halmstad,Varberg,0,5,0.0
+2023,17,2023-07-30,Mjällby,Djurgården,0,1,0.0
+2023,17,2023-07-30,Hammarby,Norrköping,2,1,1.0
+2023,17,2023-07-30,Göteborg,Kalmar,2,0,1.0
+2023,17,2023-07-31,Malmö,Värnamo,3,1,1.0
+2023,17,2023-07-31,Sirius,AIK Stockholm,0,1,0.0
+2023,18,2023-08-05,Brommapojkarna,Värnamo,0,2,0.0
+2023,18,2023-08-06,Elfsborg,Sirius,1,0,1.0
+2023,18,2023-08-06,Kalmar,AIK Stockholm,1,1,0.5
+2023,18,2023-08-07,Malmö,Halmstad,3,0,1.0
+2023,18,2023-08-07,Norrköping,Göteborg,3,0,1.0
+2023,18,2023-08-07,Varberg,Mjällby,0,3,0.0
+2023,19,2023-08-12,AIK Stockholm,Brommapojkarna,2,2,0.5
+2023,19,2023-08-13,Göteborg,Djurgården,2,1,1.0
+2023,19,2023-08-13,Sirius,Kalmar,3,0,1.0
+2023,19,2023-08-13,Hammarby,Elfsborg,1,0,1.0
+2023,19,2023-08-13,Halmstad,Norrköping,1,3,0.0
+2023,19,2023-08-13,Häcken,Varberg,2,0,1.0
+2023,19,2023-08-14,Mjällby,Malmö,1,0,1.0
+2023,19,2023-08-14,Värnamo,Degerfors,0,1,0.0
+2023,20,2023-08-19,Degerfors,Göteborg,1,2,0.0
+2023,20,2023-08-19,Brommapojkarna,Halmstad,3,1,1.0
+2023,20,2023-08-19,Varberg,Värnamo,0,3,0.0
+2023,20,2023-08-20,Häcken,Sirius,3,2,1.0
+2023,20,2023-08-20,Malmö,Djurgården,0,0,0.5
+2023,20,2023-08-20,Kalmar,Hammarby,0,0,0.5
+2023,20,2023-08-20,Elfsborg,Mjällby,2,0,1.0
+2023,20,2023-08-21,Norrköping,AIK Stockholm,3,1,1.0
+2023,21,2023-08-27,Brommapojkarna,Kalmar,2,3,0.0
+2023,21,2023-08-27,Värnamo,Halmstad,0,0,0.5
+2023,21,2023-08-27,Mjällby,Hammarby,0,3,0.0
+2023,21,2023-08-27,Djurgården,Degerfors,4,1,1.0
+2023,21,2023-08-27,Göteborg,Häcken,4,2,1.0
+2023,21,2023-08-28,AIK Stockholm,Varberg,3,0,1.0
+2023,21,2023-08-28,Elfsborg,Norrköping,3,2,1.0
+2023,21,2023-08-28,Sirius,Malmö,1,3,0.0
+2023,22,2023-09-02,Halmstad,Sirius,2,1,1.0
+2023,22,2023-09-02,Värnamo,Elfsborg,1,0,1.0
+2023,22,2023-09-03,Degerfors,Häcken,1,0,1.0
+2023,22,2023-09-03,Hammarby,AIK Stockholm,4,2,1.0
+2023,22,2023-09-03,Kalmar,Mjällby,0,2,0.0
+2023,22,2023-09-03,Malmö,Göteborg,2,2,0.5
+2023,22,2023-09-03,Varberg,Brommapojkarna,4,3,1.0
+2023,22,2023-09-03,Norrköping,Djurgården,0,2,0.0
+2023,23,2023-09-16,Sirius,Varberg,7,0,1.0
+2023,23,2023-09-16,Göteborg,Brommapojkarna,1,0,1.0
+2023,23,2023-09-16,Djurgården,Värnamo,1,2,0.0
+2023,23,2023-09-17,Hammarby,Malmö,1,3,0.0
+2023,23,2023-09-17,Elfsborg,Kalmar,0,3,0.0
+2023,23,2023-09-17,Häcken,Halmstad,3,2,1.0
+2023,23,2023-09-18,Norrköping,Mjällby,0,2,0.0
+2023,23,2023-09-18,AIK Stockholm,Degerfors,2,0,1.0
+2023,24,2023-09-23,Degerfors,Malmö,1,2,0.0
+2023,24,2023-09-23,Brommapojkarna,Norrköping,2,2,0.5
+2023,24,2023-09-24,AIK Stockholm,Djurgården,2,0,1.0
+2023,24,2023-09-24,Mjällby,Göteborg,0,1,0.0
+2023,24,2023-09-24,Varberg,Hammarby,0,1,0.0
+2023,24,2023-09-24,Kalmar,Häcken,1,0,1.0
+2023,24,2023-09-25,Halmstad,Elfsborg,0,1,0.0
+2023,24,2023-09-25,Värnamo,Sirius,0,1,0.0
+2023,25,2023-09-30,Djurgården,Halmstad,1,0,1.0
+2023,25,2023-09-30,Norrköping,Kalmar,1,0,1.0
+2023,25,2023-10-01,Sirius,Degerfors,3,2,1.0
+2023,25,2023-10-01,Häcken,AIK Stockholm,2,0,1.0
+2023,25,2023-10-01,Mjällby,Värnamo,2,3,0.0
+2023,25,2023-10-01,Hammarby,Göteborg,1,1,0.5
+2023,25,2023-10-02,Elfsborg,Varberg,2,1,1.0
+2023,25,2023-10-02,Malmö,Brommapojkarna,2,1,1.0
+2023,26,2023-10-07,AIK Stockholm,Mjällby,1,0,1.0
+2023,26,2023-10-07,Halmstad,Degerfors,0,0,0.5
+2023,26,2023-10-07,Göteborg,Sirius,0,1,0.0
+2023,26,2023-10-08,Värnamo,Norrköping,2,1,1.0
+2023,26,2023-10-08,Brommapojkarna,Elfsborg,0,3,0.0
+2023,26,2023-10-08,Kalmar,Malmö,1,0,1.0
+2023,26,2023-10-08,Varberg,Djurgården,0,1,0.0
+2023,26,2023-10-08,Hammarby,Häcken,2,2,0.5
+2023,27,2023-10-21,Degerfors,Kalmar,1,3,0.0
+2023,27,2023-10-21,Sirius,Brommapojkarna,3,2,1.0
+2023,27,2023-10-22,Djurgården,Hammarby,0,0,0.5
+2023,27,2023-10-22,Halmstad,Mjällby,1,1,0.5
+2023,27,2023-10-22,Malmö,Varberg,5,0,1.0
+2023,27,2023-10-22,Häcken,Norrköping,4,1,1.0
+2023,27,2023-10-23,Värnamo,Göteborg,3,1,1.0
+2023,27,2023-10-23,Elfsborg,AIK Stockholm,3,0,1.0
+2023,28,2023-10-28,Brommapojkarna,Djurgården,1,2,0.0
+2023,28,2023-10-28,Varberg,Degerfors,1,1,0.5
+2023,28,2023-10-29,Mjällby,Häcken,2,1,1.0
+2023,28,2023-10-29,Norrköping,Malmö,0,1,0.0
+2023,28,2023-10-29,Kalmar,Värnamo,1,3,0.0
+2023,28,2023-10-29,AIK Stockholm,Halmstad,1,1,0.5
+2023,28,2023-10-30,Hammarby,Sirius,2,2,0.5
+2023,28,2023-10-30,Göteborg,Elfsborg,1,2,0.0
+2023,29,2023-11-04,Värnamo,Hammarby,0,0,0.5
+2023,29,2023-11-04,Djurgården,Sirius,2,4,0.0
+2023,29,2023-11-05,Häcken,Malmö,4,2,1.0
+2023,29,2023-11-05,Halmstad,Kalmar,3,0,1.0
+2023,29,2023-11-05,Elfsborg,Degerfors,2,2,0.5
+2023,29,2023-11-05,Mjällby,Brommapojkarna,1,2,0.0
+2023,29,2023-11-06,Norrköping,Varberg,4,3,1.0
+2023,29,2023-11-06,Göteborg,AIK Stockholm,1,1,0.5
+2023,30,2023-11-12,Sirius,Norrköping,2,0,1.0
+2023,30,2023-11-12,Kalmar,Djurgården,2,1,1.0
+2023,30,2023-11-12,Malmö,Elfsborg,1,0,1.0
+2023,30,2023-11-12,Degerfors,Mjällby,1,2,0.0
+2023,30,2023-11-12,Brommapojkarna,Häcken,2,1,1.0
+2023,30,2023-11-12,AIK Stockholm,Värnamo,3,1,1.0
+2023,30,2023-11-12,Varberg,Göteborg,1,2,0.0
+2023,30,2023-11-12,Hammarby,Halmstad,2,2,0.5

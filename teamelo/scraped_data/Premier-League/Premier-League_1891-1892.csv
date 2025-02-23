@@ -1,0 +1,183 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1891-1892,1,1891-09-05,Sunderland,Wolves,5,2,1.0
+1891-1892,1,1891-09-05,Stoke,Derby County,2,1,1.0
+1891-1892,1,1891-09-05,Darwen,Bolton,1,2,0.0
+1891-1892,1,1891-09-05,West Brom,Everton,4,0,1.0
+1891-1892,1,1891-09-05,Aston Villa,Blackburn,5,1,1.0
+1891-1892,1,1891-09-05,Accrington,Burnley,1,0,1.0
+1891-1892,1,1891-09-05,Notts County,Preston,2,0,1.0
+1891-1892,2,1891-09-07,Everton,Darwen,5,3,1.0
+1891-1892,2,1891-09-07,Burnley,Preston,2,0,1.0
+1891-1892,2,1891-09-12,Aston Villa,West Brom,5,1,1.0
+1891-1892,2,1891-09-12,Preston,Sunderland,3,1,1.0
+1891-1892,2,1891-09-12,Derby County,Accrington,3,1,1.0
+1891-1892,2,1891-09-12,Stoke,Wolves,1,3,0.0
+1891-1892,2,1891-09-12,Blackburn,Notts County,5,4,1.0
+1891-1892,3,1891-09-12,Bolton,Darwen,1,0,1.0
+1891-1892,3,1891-09-14,Wolves,Accrington,5,0,1.0
+1891-1892,3,1891-09-19,Burnley,Stoke,4,1,1.0
+1891-1892,3,1891-09-19,Everton,Blackburn,3,1,1.0
+1891-1892,3,1891-09-19,Derby County,Notts County,3,0,1.0
+1891-1892,3,1891-09-19,West Brom,Wolves,4,3,1.0
+1891-1892,3,1891-09-19,Preston,Aston Villa,0,1,0.0
+1891-1892,3,1891-09-19,Bolton,Sunderland,4,3,1.0
+1891-1892,4,1891-09-19,Darwen,Accrington,5,2,1.0
+1891-1892,4,1891-09-21,Preston,Burnley,5,1,1.0
+1891-1892,4,1891-09-26,Notts County,Stoke,1,1,0.5
+1891-1892,4,1891-09-26,Wolves,Derby County,1,3,0.0
+1891-1892,4,1891-09-26,Bolton,Preston,3,0,1.0
+1891-1892,5,1891-09-26,Accrington,Everton,1,1,0.5
+1891-1892,5,1891-09-26,Blackburn,Burnley,3,3,0.5
+1891-1892,4,1891-09-28,Aston Villa,Sunderland,5,3,1.0
+1891-1892,5,1891-09-28,Wolves,Darwen,2,2,0.5
+1891-1892,5,1891-10-01,Notts County,Bolton,2,0,1.0
+1891-1892,4,1891-10-03,West Brom,Blackburn,2,2,0.5
+1891-1892,5,1891-10-03,Sunderland,Everton,2,1,1.0
+1891-1892,5,1891-10-03,Derby County,Aston Villa,4,2,1.0
+1891-1892,6,1891-10-03,Darwen,Stoke,9,3,1.0
+1891-1892,6,1891-10-03,Bolton,Accrington,3,4,0.0
+1891-1892,7,1891-10-03,Preston,Wolves,2,0,1.0
+1891-1892,6,1891-10-10,Blackburn,Wolves,2,0,1.0
+1891-1892,6,1891-10-10,Stoke,Burnley,3,0,1.0
+1891-1892,6,1891-10-10,Everton,Preston,1,1,0.5
+1891-1892,6,1891-10-10,Notts County,West Brom,4,0,1.0
+1891-1892,6,1891-10-10,Aston Villa,Bolton,1,2,0.0
+1891-1892,7,1891-10-10,Accrington,Darwen,1,1,0.5
+1891-1892,6,1891-10-17,West Brom,Sunderland,2,5,0.0
+1891-1892,7,1891-10-17,Burnley,Aston Villa,4,1,1.0
+1891-1892,7,1891-10-17,Bolton,Everton,1,0,1.0
+1891-1892,7,1891-10-17,Derby County,Stoke,3,3,0.5
+1891-1892,7,1891-10-17,Wolves,Notts County,2,1,1.0
+1891-1892,8,1891-10-17,Darwen,Blackburn,3,5,0.0
+1891-1892,7,1891-10-24,Sunderland,West Brom,4,0,1.0
+1891-1892,8,1891-10-24,Derby County,Everton,0,3,0.0
+1891-1892,8,1891-10-24,Stoke,Aston Villa,2,3,0.0
+1891-1892,8,1891-10-24,Bolton,Burnley,2,0,1.0
+1891-1892,8,1891-10-24,Accrington,Wolves,3,2,1.0
+1891-1892,8,1891-10-24,Blackburn,Preston,2,4,0.0
+1891-1892,9,1891-10-24,Notts County,Darwen,5,0,1.0
+1891-1892,8,1891-10-31,Derby County,Wolves,2,1,1.0
+1891-1892,9,1891-10-31,Preston,Everton,4,0,1.0
+1891-1892,9,1891-10-31,Sunderland,Accrington,4,1,1.0
+1891-1892,9,1891-10-31,West Brom,Notts County,2,2,0.5
+1891-1892,9,1891-10-31,Bolton,Blackburn,4,2,1.0
+1891-1892,9,1891-10-31,Darwen,Aston Villa,1,5,0.0
+1891-1892,9,1891-11-02,West Brom,Bolton,0,2,0.0
+1891-1892,9,1891-11-07,Wolves,Burnley,0,0,0.5
+1891-1892,9,1891-11-07,Stoke,Preston,0,1,0.0
+1891-1892,9,1891-11-07,Blackburn,Sunderland,3,1,1.0
+1891-1892,10,1891-11-07,Everton,West Brom,4,3,1.0
+1891-1892,10,1891-11-07,Aston Villa,Notts County,5,1,1.0
+1891-1892,10,1891-11-07,Accrington,Bolton,0,3,0.0
+1891-1892,10,1891-11-09,Stoke,Blackburn,0,1,0.0
+1891-1892,10,1891-11-14,Sunderland,Derby County,7,1,1.0
+1891-1892,11,1891-11-14,Notts County,Wolves,2,2,0.5
+1891-1892,11,1891-11-14,Darwen,Everton,3,1,1.0
+1891-1892,11,1891-11-14,West Brom,Aston Villa,0,3,0.0
+1891-1892,11,1891-11-14,Burnley,Accrington,2,1,1.0
+1891-1892,11,1891-11-14,Bolton,Stoke,1,1,0.5
+1891-1892,12,1891-11-14,Preston,Blackburn,3,2,1.0
+1891-1892,11,1891-11-21,Sunderland,Burnley,2,1,1.0
+1891-1892,12,1891-11-21,Derby County,Darwen,7,0,1.0
+1891-1892,12,1891-11-21,Accrington,Notts County,2,0,1.0
+1891-1892,12,1891-11-21,West Brom,Preston,1,2,0.0
+1891-1892,12,1891-11-21,Wolves,Everton,5,1,1.0
+1891-1892,12,1891-11-21,Aston Villa,Stoke,2,1,1.0
+1891-1892,13,1891-11-21,Blackburn,Bolton,4,0,1.0
+1891-1892,13,1891-11-28,Everton,Aston Villa,5,1,1.0
+1891-1892,13,1891-11-28,Stoke,Sunderland,1,3,0.0
+1891-1892,13,1891-11-28,Burnley,West Brom,3,2,1.0
+1891-1892,13,1891-11-28,Notts County,Accrington,9,0,1.0
+1891-1892,13,1891-11-28,Darwen,Derby County,2,0,1.0
+1891-1892,14,1891-11-28,Wolves,Blackburn,6,1,1.0
+1891-1892,15,1891-11-28,Preston,Bolton,4,0,1.0
+1891-1892,12,1891-12-05,Derby County,Preston,1,2,0.0
+1891-1892,14,1891-12-05,West Brom,Accrington,3,1,1.0
+1891-1892,14,1891-12-05,Stoke,Darwen,5,1,1.0
+1891-1892,14,1891-12-05,Blackburn,Everton,2,2,0.5
+1891-1892,14,1891-12-05,Aston Villa,Burnley,6,1,1.0
+1891-1892,14,1891-12-05,Sunderland,Notts County,4,0,1.0
+1891-1892,16,1891-12-05,Bolton,Wolves,3,0,1.0
+1891-1892,14,1891-12-12,Burnley,Blackburn,3,0,1.0
+1891-1892,15,1891-12-12,Sunderland,Darwen,7,0,1.0
+1891-1892,15,1891-12-12,Everton,Wolves,2,1,1.0
+1891-1892,15,1891-12-12,Stoke,Bolton,0,1,0.0
+1891-1892,15,1891-12-12,West Brom,Derby County,4,2,1.0
+1891-1892,15,1891-12-12,Preston,Notts County,6,0,1.0
+1891-1892,15,1891-12-19,Derby County,Burnley,0,1,0.0
+1891-1892,15,1891-12-19,Stoke,Accrington,3,1,1.0
+1891-1892,15,1891-12-19,Wolves,Aston Villa,2,0,1.0
+1891-1892,16,1891-12-19,Bolton,West Brom,1,1,0.5
+1891-1892,16,1891-12-19,Notts County,Blackburn,2,2,0.5
+1891-1892,15,1891-12-25,Everton,Sunderland,0,4,0.0
+1891-1892,16,1891-12-25,Blackburn,Darwen,4,0,1.0
+1891-1892,17,1891-12-25,Preston,Stoke,3,2,1.0
+1891-1892,16,1891-12-26,Wolves,Sunderland,1,3,0.0
+1891-1892,16,1891-12-26,Blackburn,Accrington,2,2,0.5
+1891-1892,16,1891-12-26,Aston Villa,Darwen,7,0,1.0
+1891-1892,17,1891-12-26,West Brom,Burnley,1,0,1.0
+1891-1892,19,1891-12-26,Derby County,Bolton,3,2,1.0
+1891-1892,17,1891-12-28,Aston Villa,Everton,3,4,0.0
+1891-1892,18,1891-12-28,Wolves,West Brom,2,1,1.0
+1891-1892,18,1892-01-01,Darwen,Preston,0,4,0.0
+1891-1892,20,1892-01-01,Bolton,Derby County,3,1,1.0
+1891-1892,17,1892-01-02,Accrington,Preston,1,3,0.0
+1891-1892,17,1892-01-02,Everton,Burnley,1,1,0.5
+1891-1892,18,1892-01-02,Wolves,Stoke,4,1,1.0
+1891-1892,18,1892-01-02,Notts County,Aston Villa,5,2,1.0
+1891-1892,20,1892-01-02,Blackburn,Derby County,0,2,0.0
+1891-1892,18,1892-01-04,Accrington,Aston Villa,3,2,1.0
+1891-1892,18,1892-01-09,Notts County,Everton,1,3,0.0
+1891-1892,19,1892-01-09,Accrington,Stoke,3,0,1.0
+1891-1892,19,1892-01-09,Preston,West Brom,1,0,1.0
+1891-1892,19,1892-01-09,Burnley,Darwen,9,0,1.0
+1891-1892,20,1892-01-09,Aston Villa,Derby County,6,0,1.0
+1891-1892,20,1892-01-23,Accrington,West Brom,4,2,1.0
+1891-1892,19,1892-02-06,Stoke,Notts County,1,3,0.0
+1891-1892,21,1892-02-06,Derby County,West Brom,1,1,0.5
+1891-1892,19,1892-02-13,Burnley,Everton,1,0,1.0
+1891-1892,20,1892-02-20,Notts County,Derby County,2,1,1.0
+1891-1892,20,1892-02-27,Darwen,Notts County,2,3,0.0
+1891-1892,21,1892-02-27,Accrington,Blackburn,1,0,1.0
+1891-1892,17,1892-03-01,Sunderland,Bolton,4,1,1.0
+1891-1892,21,1892-03-01,Darwen,Wolves,1,4,0.0
+1891-1892,22,1892-03-01,Notts County,Burnley,5,1,1.0
+1891-1892,21,1892-03-05,Preston,Derby County,3,0,1.0
+1891-1892,21,1892-03-05,Blackburn,Aston Villa,4,3,1.0
+1891-1892,21,1892-03-05,Burnley,Bolton,1,2,0.0
+1891-1892,21,1892-03-05,Everton,Stoke,1,0,1.0
+1891-1892,22,1892-03-05,Accrington,Sunderland,3,5,0.0
+1891-1892,19,1892-03-12,Sunderland,Preston,4,1,1.0
+1891-1892,22,1892-03-12,Stoke,Everton,0,1,0.0
+1891-1892,22,1892-03-12,Blackburn,West Brom,3,2,1.0
+1891-1892,23,1892-03-12,Aston Villa,Accrington,12,2,1.0
+1891-1892,20,1892-03-19,Derby County,Sunderland,0,1,0.0
+1891-1892,23,1892-03-19,Blackburn,Stoke,5,3,1.0
+1891-1892,24,1892-03-19,Everton,Accrington,3,0,1.0
+1891-1892,22,1892-03-26,Burnley,Wolves,1,1,0.5
+1891-1892,23,1892-03-26,Bolton,Notts County,2,0,1.0
+1891-1892,23,1892-03-26,Sunderland,Aston Villa,2,1,1.0
+1891-1892,25,1892-03-26,Derby County,Blackburn,1,1,0.5
+1891-1892,22,1892-04-02,Darwen,Burnley,2,6,0.0
+1891-1892,23,1892-04-02,Wolves,Preston,3,0,1.0
+1891-1892,24,1892-04-02,Sunderland,Stoke,4,1,1.0
+1891-1892,24,1892-04-02,Bolton,Aston Villa,1,2,0.0
+1891-1892,25,1892-04-02,Accrington,Derby County,1,1,0.5
+1891-1892,23,1892-04-04,West Brom,Darwen,12,0,1.0
+1891-1892,24,1892-04-09,Notts County,Sunderland,1,0,1.0
+1891-1892,25,1892-04-11,West Brom,Stoke,2,2,0.5
+1891-1892,24,1892-04-15,Everton,Derby County,1,2,0.0
+1891-1892,25,1892-04-15,Burnley,Notts County,1,0,1.0
+1891-1892,26,1892-04-15,Preston,Accrington,4,1,1.0
+1891-1892,24,1892-04-16,Darwen,West Brom,1,1,0.5
+1891-1892,24,1892-04-16,Sunderland,Blackburn,6,1,1.0
+1891-1892,25,1892-04-16,Aston Villa,Preston,3,1,1.0
+1891-1892,25,1892-04-16,Burnley,Derby County,2,4,0.0
+1891-1892,25,1892-04-16,Wolves,Bolton,1,2,0.0
+1891-1892,26,1892-04-16,Everton,Notts County,4,0,1.0
+1891-1892,25,1892-04-18,Preston,Darwen,4,0,1.0
+1891-1892,26,1892-04-18,Everton,Bolton,2,5,0.0
+1891-1892,26,1892-04-18,Aston Villa,Wolves,3,6,0.0
+1891-1892,26,1892-04-23,Darwen,Sunderland,1,7,0.0
+1891-1892,26,1892-04-23,Stoke,West Brom,1,0,1.0
+1891-1892,26,1892-04-30,Burnley,Sunderland,1,2,0.0

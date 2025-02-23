@@ -1,0 +1,196 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023-2024,Regular season,1,2023-07-28,LASK,Rapid Wien,1,1,0.5
+2023-2024,Regular season,1,2023-07-29,Hartberg,SC Austria Lustenau,2,2,0.5
+2023-2024,Regular season,1,2023-07-29,Wolfsberger AC,Blau-Weiß Linz,2,1,1.0
+2023-2024,Regular season,1,2023-07-29,WSG Tirol,SK Austria Klagenfurt,1,3,0.0
+2023-2024,Regular season,1,2023-07-29,SCR Altach,RB Salzburg,0,2,0.0
+2023-2024,Regular season,1,2023-07-30,Austria Wien,Sturm Graz,0,3,0.0
+2023-2024,Regular season,2,2023-08-05,Rapid Wien,SCR Altach,4,0,1.0
+2023-2024,Regular season,2,2023-08-05,Sturm Graz,LASK,2,0,1.0
+2023-2024,Regular season,2,2023-08-06,RB Salzburg,WSG Tirol,3,0,1.0
+2023-2024,Regular season,2,2023-08-06,SC Austria Lustenau,Austria Wien,0,2,0.0
+2023-2024,Regular season,2,2023-08-06,Blau-Weiß Linz,Hartberg,3,3,0.5
+2023-2024,Regular season,2,2023-08-09,SK Austria Klagenfurt,Wolfsberger AC,2,2,0.5
+2023-2024,Regular season,3,2023-08-12,Sturm Graz,SK Austria Klagenfurt,0,0,0.5
+2023-2024,Regular season,3,2023-08-12,Wolfsberger AC,SC Austria Lustenau,1,1,0.5
+2023-2024,Regular season,3,2023-08-12,LASK,Blau-Weiß Linz,2,0,1.0
+2023-2024,Regular season,3,2023-08-13,Rapid Wien,Hartberg,0,1,0.0
+2023-2024,Regular season,3,2023-08-13,RB Salzburg,Austria Wien,2,0,1.0
+2023-2024,Regular season,3,2023-08-13,SCR Altach,WSG Tirol,1,0,1.0
+2023-2024,Regular season,4,2023-08-19,SC Austria Lustenau,Sturm Graz,0,1,0.0
+2023-2024,Regular season,4,2023-08-19,WSG Tirol,LASK,1,1,0.5
+2023-2024,Regular season,4,2023-08-19,SK Austria Klagenfurt,SCR Altach,1,1,0.5
+2023-2024,Regular season,4,2023-08-20,Austria Wien,Wolfsberger AC,0,0,0.5
+2023-2024,Regular season,4,2023-08-20,Hartberg,RB Salzburg,1,5,0.0
+2023-2024,Regular season,4,2023-08-20,Blau-Weiß Linz,Rapid Wien,0,5,0.0
+2023-2024,Regular season,5,2023-08-26,Wolfsberger AC,RB Salzburg,1,2,0.0
+2023-2024,Regular season,5,2023-08-26,Sturm Graz,Blau-Weiß Linz,4,1,1.0
+2023-2024,Regular season,5,2023-08-26,SC Austria Lustenau,SCR Altach,0,3,0.0
+2023-2024,Regular season,5,2023-08-27,Hartberg,SK Austria Klagenfurt,0,3,0.0
+2023-2024,Regular season,5,2023-08-27,LASK,Austria Wien,2,0,1.0
+2023-2024,Regular season,5,2023-08-27,Rapid Wien,WSG Tirol,1,1,0.5
+2023-2024,Regular season,6,2023-09-02,Wolfsberger AC,Hartberg,0,3,0.0
+2023-2024,Regular season,6,2023-09-02,WSG Tirol,Blau-Weiß Linz,2,4,0.0
+2023-2024,Regular season,6,2023-09-02,SCR Altach,Sturm Graz,1,2,0.0
+2023-2024,Regular season,6,2023-09-03,LASK,SC Austria Lustenau,2,0,1.0
+2023-2024,Regular season,6,2023-09-03,Austria Wien,SK Austria Klagenfurt,2,2,0.5
+2023-2024,Regular season,6,2023-09-03,RB Salzburg,Rapid Wien,2,0,1.0
+2023-2024,Regular season,7,2023-09-16,Blau-Weiß Linz,SCR Altach,1,1,0.5
+2023-2024,Regular season,7,2023-09-16,SK Austria Klagenfurt,LASK,1,3,0.0
+2023-2024,Regular season,7,2023-09-16,Sturm Graz,RB Salzburg,2,2,0.5
+2023-2024,Regular season,7,2023-09-17,SC Austria Lustenau,WSG Tirol,2,3,0.0
+2023-2024,Regular season,7,2023-09-17,Hartberg,Austria Wien,2,1,1.0
+2023-2024,Regular season,7,2023-09-17,Rapid Wien,Wolfsberger AC,3,3,0.5
+2023-2024,Regular season,8,2023-09-23,SK Austria Klagenfurt,SC Austria Lustenau,1,0,1.0
+2023-2024,Regular season,8,2023-09-23,WSG Tirol,Wolfsberger AC,2,3,0.0
+2023-2024,Regular season,8,2023-09-23,RB Salzburg,Blau-Weiß Linz,0,1,0.0
+2023-2024,Regular season,8,2023-09-24,SCR Altach,Austria Wien,2,1,1.0
+2023-2024,Regular season,8,2023-09-24,LASK,Hartberg,0,0,0.5
+2023-2024,Regular season,8,2023-09-24,Rapid Wien,Sturm Graz,1,1,0.5
+2023-2024,Regular season,9,2023-09-30,Blau-Weiß Linz,SK Austria Klagenfurt,0,0,0.5
+2023-2024,Regular season,9,2023-09-30,SC Austria Lustenau,RB Salzburg,0,4,0.0
+2023-2024,Regular season,9,2023-09-30,Wolfsberger AC,LASK,2,1,1.0
+2023-2024,Regular season,9,2023-10-01,Hartberg,SCR Altach,0,0,0.5
+2023-2024,Regular season,9,2023-10-01,Sturm Graz,WSG Tirol,1,0,1.0
+2023-2024,Regular season,9,2023-10-01,Austria Wien,Rapid Wien,0,0,0.5
+2023-2024,Regular season,10,2023-10-07,SC Austria Lustenau,Rapid Wien,0,5,0.0
+2023-2024,Regular season,10,2023-10-07,Austria Wien,Blau-Weiß Linz,4,0,1.0
+2023-2024,Regular season,10,2023-10-07,Hartberg,WSG Tirol,3,0,1.0
+2023-2024,Regular season,10,2023-10-08,LASK,SCR Altach,1,0,1.0
+2023-2024,Regular season,10,2023-10-08,Wolfsberger AC,Sturm Graz,1,2,0.0
+2023-2024,Regular season,10,2023-10-08,SK Austria Klagenfurt,RB Salzburg,2,2,0.5
+2023-2024,Regular season,11,2023-10-21,RB Salzburg,LASK,0,1,0.0
+2023-2024,Regular season,11,2023-10-21,Sturm Graz,Hartberg,2,1,1.0
+2023-2024,Regular season,11,2023-10-21,Blau-Weiß Linz,SC Austria Lustenau,0,0,0.5
+2023-2024,Regular season,11,2023-10-22,SCR Altach,Wolfsberger AC,0,0,0.5
+2023-2024,Regular season,11,2023-10-22,WSG Tirol,Austria Wien,0,2,0.0
+2023-2024,Regular season,11,2023-10-22,Rapid Wien,SK Austria Klagenfurt,2,3,0.0
+2023-2024,Regular season,12,2023-10-28,Blau-Weiß Linz,Wolfsberger AC,2,0,1.0
+2023-2024,Regular season,12,2023-10-28,RB Salzburg,SCR Altach,3,0,1.0
+2023-2024,Regular season,12,2023-10-28,SK Austria Klagenfurt,WSG Tirol,1,0,1.0
+2023-2024,Regular season,12,2023-10-29,SC Austria Lustenau,Hartberg,0,4,0.0
+2023-2024,Regular season,12,2023-10-29,Sturm Graz,Austria Wien,0,1,0.0
+2023-2024,Regular season,12,2023-10-29,Rapid Wien,LASK,3,3,0.5
+2023-2024,Regular season,13,2023-11-04,WSG Tirol,RB Salzburg,0,2,0.0
+2023-2024,Regular season,13,2023-11-04,Wolfsberger AC,SK Austria Klagenfurt,4,0,1.0
+2023-2024,Regular season,13,2023-11-04,Austria Wien,SC Austria Lustenau,1,0,1.0
+2023-2024,Regular season,13,2023-11-05,SCR Altach,Rapid Wien,0,2,0.0
+2023-2024,Regular season,13,2023-11-05,Hartberg,Blau-Weiß Linz,3,2,1.0
+2023-2024,Regular season,13,2023-11-05,LASK,Sturm Graz,3,1,1.0
+2023-2024,Regular season,14,2023-11-11,Hartberg,Rapid Wien,1,0,1.0
+2023-2024,Regular season,14,2023-11-11,SC Austria Lustenau,Wolfsberger AC,2,3,0.0
+2023-2024,Regular season,14,2023-11-11,WSG Tirol,SCR Altach,5,1,1.0
+2023-2024,Regular season,14,2023-11-12,SK Austria Klagenfurt,Sturm Graz,0,3,0.0
+2023-2024,Regular season,14,2023-11-12,Blau-Weiß Linz,LASK,2,0,1.0
+2023-2024,Regular season,14,2023-11-12,Austria Wien,RB Salzburg,0,0,0.5
+2023-2024,Regular season,15,2023-11-25,LASK,WSG Tirol,1,0,1.0
+2023-2024,Regular season,15,2023-11-25,Sturm Graz,SC Austria Lustenau,2,0,1.0
+2023-2024,Regular season,15,2023-11-25,RB Salzburg,Hartberg,3,2,1.0
+2023-2024,Regular season,15,2023-11-26,SCR Altach,SK Austria Klagenfurt,0,1,0.0
+2023-2024,Regular season,15,2023-11-26,Wolfsberger AC,Austria Wien,1,0,1.0
+2023-2024,Regular season,15,2023-11-26,Rapid Wien,Blau-Weiß Linz,1,0,1.0
+2023-2024,Regular season,16,2023-12-03,Blau-Weiß Linz,Sturm Graz,1,1,0.5
+2023-2024,Regular season,16,2023-12-03,RB Salzburg,Wolfsberger AC,1,0,1.0
+2023-2024,Regular season,16,2023-12-03,Austria Wien,LASK,0,0,0.5
+2023-2024,Regular season,16,2023-12-04,SK Austria Klagenfurt,Hartberg,1,1,0.5
+2023-2024,Regular season,16,2023-12-05,WSG Tirol,Rapid Wien,1,2,0.0
+2023-2024,Regular season,16,2023-12-05,SCR Altach,SC Austria Lustenau,3,0,1.0
+2023-2024,Regular season,17,2023-12-09,Rapid Wien,RB Salzburg,0,1,0.0
+2023-2024,Regular season,17,2023-12-09,SC Austria Lustenau,LASK,1,3,0.0
+2023-2024,Regular season,17,2023-12-09,SK Austria Klagenfurt,Austria Wien,2,2,0.5
+2023-2024,Regular season,17,2023-12-10,Blau-Weiß Linz,WSG Tirol,1,2,0.0
+2023-2024,Regular season,17,2023-12-10,Hartberg,Wolfsberger AC,2,0,1.0
+2023-2024,Regular season,17,2023-12-10,Sturm Graz,SCR Altach,1,0,1.0
+2023-2024,Regular season,18,2024-02-09,RB Salzburg,Sturm Graz,1,1,0.5
+2023-2024,Regular season,18,2024-02-10,SCR Altach,Blau-Weiß Linz,1,1,0.5
+2023-2024,Regular season,18,2024-02-10,Austria Wien,Hartberg,3,1,1.0
+2023-2024,Regular season,18,2024-02-11,WSG Tirol,SC Austria Lustenau,0,2,0.0
+2023-2024,Regular season,18,2024-02-11,Wolfsberger AC,Rapid Wien,0,2,0.0
+2023-2024,Regular season,18,2024-02-11,LASK,SK Austria Klagenfurt,2,2,0.5
+2023-2024,Regular season,19,2024-02-17,Austria Wien,SCR Altach,2,1,1.0
+2023-2024,Regular season,19,2024-02-17,Wolfsberger AC,WSG Tirol,4,1,1.0
+2023-2024,Regular season,19,2024-02-17,Blau-Weiß Linz,RB Salzburg,1,1,0.5
+2023-2024,Regular season,19,2024-02-18,SC Austria Lustenau,SK Austria Klagenfurt,0,1,0.0
+2023-2024,Regular season,19,2024-02-18,Hartberg,LASK,0,0,0.5
+2023-2024,Regular season,19,2024-02-18,Sturm Graz,Rapid Wien,1,1,0.5
+2023-2024,Regular season,20,2024-02-24,LASK,Wolfsberger AC,0,1,0.0
+2023-2024,Regular season,20,2024-02-24,SCR Altach,Hartberg,1,2,0.0
+2023-2024,Regular season,20,2024-02-24,RB Salzburg,SC Austria Lustenau,7,0,1.0
+2023-2024,Regular season,20,2024-02-25,WSG Tirol,Sturm Graz,0,2,0.0
+2023-2024,Regular season,20,2024-02-25,SK Austria Klagenfurt,Blau-Weiß Linz,2,0,1.0
+2023-2024,Regular season,20,2024-02-25,Rapid Wien,Austria Wien,3,0,1.0
+2023-2024,Regular season,21,2024-03-03,RB Salzburg,SK Austria Klagenfurt,1,0,1.0
+2023-2024,Regular season,21,2024-03-03,Rapid Wien,SC Austria Lustenau,1,1,0.5
+2023-2024,Regular season,21,2024-03-03,Blau-Weiß Linz,Austria Wien,1,2,0.0
+2023-2024,Regular season,21,2024-03-03,WSG Tirol,Hartberg,1,0,1.0
+2023-2024,Regular season,21,2024-03-03,SCR Altach,LASK,0,0,0.5
+2023-2024,Regular season,21,2024-03-03,Sturm Graz,Wolfsberger AC,4,0,1.0
+2023-2024,Regular season,22,2024-03-09,LASK,RB Salzburg,0,1,0.0
+2023-2024,Regular season,22,2024-03-10,Wolfsberger AC,SCR Altach,1,1,0.5
+2023-2024,Regular season,22,2024-03-10,SC Austria Lustenau,Blau-Weiß Linz,2,0,1.0
+2023-2024,Regular season,22,2024-03-10,SK Austria Klagenfurt,Rapid Wien,1,1,0.5
+2023-2024,Regular season,22,2024-03-10,Hartberg,Sturm Graz,1,1,0.5
+2023-2024,Regular season,22,2024-03-10,Austria Wien,WSG Tirol,2,0,1.0
+2023-2024,Championship round,1,2024-03-15,Rapid Wien,LASK,0,0,0.5
+2023-2024,Relegation round,1,2024-03-16,SCR Altach,Austria Wien,1,1,0.5
+2023-2024,Relegation round,1,2024-03-16,Blau-Weiß Linz,SC Austria Lustenau,0,0,0.5
+2023-2024,Relegation round,1,2024-03-16,WSG Tirol,Wolfsberger AC,1,1,0.5
+2023-2024,Championship round,1,2024-03-17,SK Austria Klagenfurt,Sturm Graz,0,4,0.0
+2023-2024,Championship round,1,2024-03-17,RB Salzburg,Hartberg,5,1,1.0
+2023-2024,Relegation round,2,2024-03-29,Austria Wien,Blau-Weiß Linz,0,0,0.5
+2023-2024,Relegation round,2,2024-03-30,Wolfsberger AC,SCR Altach,0,0,0.5
+2023-2024,Relegation round,2,2024-03-30,SC Austria Lustenau,WSG Tirol,1,2,0.0
+2023-2024,Championship round,2,2024-03-31,Hartberg,Rapid Wien,0,3,0.0
+2023-2024,Championship round,2,2024-03-31,LASK,SK Austria Klagenfurt,1,0,1.0
+2023-2024,Championship round,2,2024-03-31,Sturm Graz,RB Salzburg,0,1,0.0
+2023-2024,Relegation round,3,2024-04-05,SCR Altach,WSG Tirol,0,0,0.5
+2023-2024,Relegation round,3,2024-04-06,Austria Wien,SC Austria Lustenau,1,1,0.5
+2023-2024,Relegation round,3,2024-04-06,Blau-Weiß Linz,Wolfsberger AC,0,0,0.5
+2023-2024,Championship round,3,2024-04-07,Sturm Graz,LASK,1,0,1.0
+2023-2024,Championship round,3,2024-04-07,SK Austria Klagenfurt,Hartberg,2,2,0.5
+2023-2024,Championship round,3,2024-04-07,RB Salzburg,Rapid Wien,1,1,0.5
+2023-2024,Championship round,4,2024-04-12,LASK,RB Salzburg,3,1,1.0
+2023-2024,Relegation round,4,2024-04-13,SC Austria Lustenau,SCR Altach,0,1,0.0
+2023-2024,Relegation round,4,2024-04-13,WSG Tirol,Blau-Weiß Linz,2,1,1.0
+2023-2024,Relegation round,4,2024-04-13,Wolfsberger AC,Austria Wien,0,1,0.0
+2023-2024,Championship round,4,2024-04-14,Hartberg,Sturm Graz,1,3,0.0
+2023-2024,Championship round,4,2024-04-14,Rapid Wien,SK Austria Klagenfurt,1,1,0.5
+2023-2024,Championship round,5,2024-04-19,Sturm Graz,Rapid Wien,1,0,1.0
+2023-2024,Relegation round,5,2024-04-20,Austria Wien,WSG Tirol,3,0,1.0
+2023-2024,Relegation round,5,2024-04-20,SCR Altach,Blau-Weiß Linz,2,2,0.5
+2023-2024,Relegation round,5,2024-04-20,Wolfsberger AC,SC Austria Lustenau,1,1,0.5
+2023-2024,Championship round,5,2024-04-21,LASK,Hartberg,1,3,0.0
+2023-2024,Championship round,5,2024-04-21,RB Salzburg,SK Austria Klagenfurt,4,2,1.0
+2023-2024,Relegation round,6,2024-04-23,SC Austria Lustenau,Wolfsberger AC,1,2,0.0
+2023-2024,Relegation round,6,2024-04-23,WSG Tirol,Austria Wien,1,0,1.0
+2023-2024,Relegation round,6,2024-04-23,Blau-Weiß Linz,SCR Altach,2,1,1.0
+2023-2024,Championship round,6,2024-04-24,SK Austria Klagenfurt,RB Salzburg,4,3,1.0
+2023-2024,Championship round,6,2024-04-24,Hartberg,LASK,1,2,0.0
+2023-2024,Championship round,6,2024-04-24,Rapid Wien,Sturm Graz,1,3,0.0
+2023-2024,Relegation round,7,2024-04-26,Austria Wien,SCR Altach,2,2,0.5
+2023-2024,Relegation round,7,2024-04-27,Wolfsberger AC,Blau-Weiß Linz,0,2,0.0
+2023-2024,Relegation round,7,2024-04-27,WSG Tirol,SC Austria Lustenau,0,0,0.5
+2023-2024,Championship round,7,2024-04-28,Hartberg,SK Austria Klagenfurt,3,2,1.0
+2023-2024,Championship round,7,2024-04-28,LASK,Rapid Wien,5,0,1.0
+2023-2024,Championship round,7,2024-04-28,RB Salzburg,Sturm Graz,2,2,0.5
+2023-2024,Relegation round,8,2024-05-03,SC Austria Lustenau,Austria Wien,2,0,1.0
+2023-2024,Relegation round,8,2024-05-04,SCR Altach,Wolfsberger AC,0,1,0.0
+2023-2024,Relegation round,8,2024-05-04,Blau-Weiß Linz,WSG Tirol,3,2,1.0
+2023-2024,Championship round,8,2024-05-05,Sturm Graz,Hartberg,1,1,0.5
+2023-2024,Championship round,8,2024-05-05,SK Austria Klagenfurt,LASK,0,2,0.0
+2023-2024,Championship round,8,2024-05-05,Rapid Wien,RB Salzburg,2,0,1.0
+2023-2024,Relegation round,9,2024-05-11,SC Austria Lustenau,Blau-Weiß Linz,1,0,1.0
+2023-2024,Relegation round,9,2024-05-11,Austria Wien,Wolfsberger AC,0,4,0.0
+2023-2024,Relegation round,9,2024-05-11,WSG Tirol,SCR Altach,0,1,0.0
+2023-2024,Championship round,9,2024-05-12,LASK,Sturm Graz,2,2,0.5
+2023-2024,Championship round,9,2024-05-12,Hartberg,RB Salzburg,1,5,0.0
+2023-2024,Championship round,9,2024-05-12,SK Austria Klagenfurt,Rapid Wien,0,1,0.0
+2023-2024,Relegation round,10,2024-05-18,Blau-Weiß Linz,Austria Wien,1,2,0.0
+2023-2024,Relegation round,10,2024-05-18,Wolfsberger AC,WSG Tirol,3,1,1.0
+2023-2024,Relegation round,10,2024-05-18,SCR Altach,SC Austria Lustenau,2,2,0.5
+2023-2024,Championship round,10,2024-05-19,Rapid Wien,Hartberg,0,3,0.0
+2023-2024,Championship round,10,2024-05-19,Sturm Graz,SK Austria Klagenfurt,2,0,1.0
+2023-2024,Championship round,10,2024-05-19,RB Salzburg,LASK,7,1,1.0
+2023-2024,Semi-final,,2024-05-21,Wolfsberger AC,Austria Wien,1,2,0.0
+2023-2024,Finals,,2024-05-24,Austria Wien,Hartberg,2,1,1.0
+2023-2024,Finals,,2024-05-28,Hartberg,Austria Wien,0,1,0.0

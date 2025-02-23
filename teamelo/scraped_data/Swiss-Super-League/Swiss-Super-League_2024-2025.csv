@@ -1,0 +1,199 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-07-20,Yverdon-Sport,Zürich,0.0,2.0,0.0
+2024-2025,1,2024-07-20,Lugano,Grasshopper,2.0,1.0,1.0
+2024-2025,1,2024-07-20,FC Winterthur,St. Gallen,1.0,0.0,1.0
+2024-2025,1,2024-07-21,Young Boys,Sion,1.0,2.0,0.0
+2024-2025,1,2024-07-21,Luzern,Servette FC,1.0,2.0,0.0
+2024-2025,1,2024-07-21,Lausanne-Sport,Basel,3.0,2.0,1.0
+2024-2025,5,2024-07-24,Servette FC,Young Boys,3.0,1.0,1.0
+2024-2025,2,2024-07-27,Sion,Lausanne-Sport,4.0,0.0,1.0
+2024-2025,2,2024-07-27,Grasshopper,Luzern,2.0,2.0,0.5
+2024-2025,2,2024-07-27,Basel,Lugano,1.0,2.0,0.0
+2024-2025,2,2024-07-28,Servette FC,Yverdon-Sport,3.0,2.0,1.0
+2024-2025,2,2024-07-28,St. Gallen,Young Boys,4.0,0.0,1.0
+2024-2025,2,2024-07-28,Zürich,FC Winterthur,4.0,2.0,1.0
+2024-2025,3,2024-08-03,Grasshopper,Basel,0.0,3.0,0.0
+2024-2025,3,2024-08-03,Lugano,Servette FC,3.0,1.0,1.0
+2024-2025,3,2024-08-03,Luzern,Sion,1.0,0.0,1.0
+2024-2025,3,2024-08-04,Lausanne-Sport,St. Gallen,3.0,4.0,0.0
+2024-2025,3,2024-08-04,Young Boys,Zürich,2.0,2.0,0.5
+2024-2025,3,2024-08-04,FC Winterthur,Yverdon-Sport,0.0,0.0,0.5
+2024-2025,4,2024-08-10,Sion,FC Winterthur,2.0,0.0,1.0
+2024-2025,4,2024-08-10,Yverdon-Sport,Young Boys,2.0,2.0,0.5
+2024-2025,4,2024-08-11,St. Gallen,Grasshopper,1.0,0.0,1.0
+2024-2025,4,2024-08-11,Zürich,Lausanne-Sport,2.0,0.0,1.0
+2024-2025,4,2024-08-11,Servette FC,Basel,0.0,6.0,0.0
+2024-2025,4,2024-08-11,Lugano,Luzern,2.0,3.0,0.0
+2024-2025,5,2024-08-24,Luzern,FC Winterthur,3.0,0.0,1.0
+2024-2025,5,2024-08-24,Grasshopper,Sion,3.0,1.0,1.0
+2024-2025,5,2024-08-25,Basel,Yverdon-Sport,2.0,0.0,1.0
+2024-2025,6,2024-08-31,Yverdon-Sport,Grasshopper,2.0,1.0,1.0
+2024-2025,6,2024-08-31,Sion,Basel,1.0,1.0,0.5
+2024-2025,6,2024-08-31,Young Boys,Lausanne-Sport,1.0,1.0,0.5
+2024-2025,6,2024-09-01,FC Winterthur,Servette FC,0.0,1.0,0.0
+2024-2025,6,2024-09-01,Lugano,St. Gallen,1.0,1.0,0.5
+2024-2025,6,2024-09-01,Zürich,Luzern,1.0,1.0,0.5
+2024-2025,5,2024-09-18,Lausanne-Sport,Lugano,1.0,2.0,0.0
+2024-2025,7,2024-09-21,St. Gallen,Luzern,2.0,3.0,0.0
+2024-2025,7,2024-09-21,Grasshopper,Servette FC,2.0,2.0,0.5
+2024-2025,7,2024-09-21,Basel,Zürich,0.0,2.0,0.0
+2024-2025,7,2024-09-22,Lausanne-Sport,Yverdon-Sport,3.0,1.0,1.0
+2024-2025,7,2024-09-22,FC Winterthur,Young Boys,1.0,4.0,0.0
+2024-2025,7,2024-09-22,Sion,Lugano,0.0,0.0,0.5
+2024-2025,5,2024-09-24,St. Gallen,Zürich,4.0,1.0,1.0
+2024-2025,8,2024-09-28,Servette FC,Lausanne-Sport,1.0,0.0,1.0
+2024-2025,8,2024-09-28,Yverdon-Sport,St. Gallen,1.0,0.0,1.0
+2024-2025,8,2024-09-28,Young Boys,Grasshopper,0.0,1.0,0.0
+2024-2025,8,2024-09-29,Zürich,Sion,1.0,0.0,1.0
+2024-2025,8,2024-09-29,Luzern,Basel,1.0,0.0,1.0
+2024-2025,8,2024-09-29,Lugano,FC Winterthur,2.0,1.0,1.0
+2024-2025,9,2024-10-05,Sion,Yverdon-Sport,1.0,1.0,0.5
+2024-2025,9,2024-10-05,Luzern,Lausanne-Sport,2.0,2.0,0.5
+2024-2025,9,2024-10-05,FC Winterthur,Grasshopper,1.0,0.0,1.0
+2024-2025,9,2024-10-06,Zürich,Lugano,1.0,1.0,0.5
+2024-2025,9,2024-10-06,Basel,Young Boys,1.0,0.0,1.0
+2024-2025,9,2024-10-06,St. Gallen,Servette FC,1.0,1.0,0.5
+2024-2025,10,2024-10-19,Grasshopper,Zürich,1.0,2.0,0.0
+2024-2025,10,2024-10-19,Young Boys,Luzern,2.0,1.0,1.0
+2024-2025,10,2024-10-19,Servette FC,Sion,3.0,0.0,1.0
+2024-2025,10,2024-10-20,Yverdon-Sport,Lugano,2.0,0.0,1.0
+2024-2025,10,2024-10-20,Lausanne-Sport,FC Winterthur,2.0,0.0,1.0
+2024-2025,10,2024-10-20,Basel,St. Gallen,2.0,1.0,1.0
+2024-2025,11,2024-10-26,FC Winterthur,Basel,1.0,6.0,0.0
+2024-2025,11,2024-10-26,Lausanne-Sport,Grasshopper,3.0,0.0,1.0
+2024-2025,11,2024-10-26,Luzern,Yverdon-Sport,2.0,3.0,0.0
+2024-2025,11,2024-10-27,Sion,St. Gallen,2.0,2.0,0.5
+2024-2025,11,2024-10-27,Lugano,Young Boys,2.0,0.0,1.0
+2024-2025,11,2024-10-27,Zürich,Servette FC,1.0,3.0,0.0
+2024-2025,12,2024-10-29,Yverdon-Sport,Lausanne-Sport,0.0,3.0,0.0
+2024-2025,12,2024-10-30,Young Boys,Basel,3.0,2.0,1.0
+2024-2025,12,2024-10-30,Sion,Zürich,0.0,2.0,0.0
+2024-2025,12,2024-10-30,St. Gallen,FC Winterthur,2.0,2.0,0.5
+2024-2025,12,2024-10-31,Grasshopper,Lugano,1.0,1.0,0.5
+2024-2025,12,2024-10-31,Servette FC,Luzern,2.0,2.0,0.5
+2024-2025,13,2024-11-02,Basel,FC Winterthur,5.0,0.0,1.0
+2024-2025,13,2024-11-02,Zürich,Young Boys,0.0,0.0,0.5
+2024-2025,13,2024-11-02,St. Gallen,Sion,1.0,1.0,0.5
+2024-2025,13,2024-11-03,Lausanne-Sport,Servette FC,1.0,0.0,1.0
+2024-2025,13,2024-11-03,Luzern,Grasshopper,2.0,0.0,1.0
+2024-2025,13,2024-11-03,Lugano,Yverdon-Sport,2.0,0.0,1.0
+2024-2025,14,2024-11-09,Yverdon-Sport,Basel,1.0,4.0,0.0
+2024-2025,14,2024-11-09,FC Winterthur,Lausanne-Sport,1.0,0.0,1.0
+2024-2025,14,2024-11-09,Servette FC,Zürich,1.0,1.0,0.5
+2024-2025,14,2024-11-10,Sion,Luzern,4.0,2.0,1.0
+2024-2025,14,2024-11-10,Grasshopper,St. Gallen,1.0,2.0,0.0
+2024-2025,14,2024-11-10,Young Boys,Lugano,2.0,1.0,1.0
+2024-2025,15,2024-11-23,Grasshopper,FC Winterthur,1.0,1.0,0.5
+2024-2025,15,2024-11-23,Luzern,Young Boys,1.0,1.0,0.5
+2024-2025,15,2024-11-23,Lausanne-Sport,Sion,1.0,0.0,1.0
+2024-2025,15,2024-11-24,Lugano,Zürich,4.0,1.0,1.0
+2024-2025,15,2024-11-24,Basel,Servette FC,3.0,1.0,1.0
+2024-2025,15,2024-11-24,St. Gallen,Yverdon-Sport,0.0,0.0,0.5
+2024-2025,16,2024-11-30,Yverdon-Sport,Luzern,0.0,1.0,0.0
+2024-2025,16,2024-11-30,Basel,Lausanne-Sport,1.0,1.0,0.5
+2024-2025,16,2024-11-30,Zürich,Grasshopper,1.0,1.0,0.5
+2024-2025,16,2024-12-01,FC Winterthur,Sion,1.0,3.0,0.0
+2024-2025,16,2024-12-01,Young Boys,St. Gallen,3.0,1.0,1.0
+2024-2025,16,2024-12-01,Servette FC,Lugano,3.0,0.0,1.0
+2024-2025,17,2024-12-07,Sion,Young Boys,3.0,1.0,1.0
+2024-2025,17,2024-12-07,Grasshopper,Yverdon-Sport,1.0,1.0,0.5
+2024-2025,17,2024-12-07,Luzern,Lugano,1.0,4.0,0.0
+2024-2025,17,2024-12-08,Lausanne-Sport,Zürich,3.0,0.0,1.0
+2024-2025,17,2024-12-08,Servette FC,FC Winterthur,1.0,1.0,0.5
+2024-2025,17,2024-12-08,St. Gallen,Basel,1.0,1.0,0.5
+2024-2025,18,2024-12-14,FC Winterthur,Luzern,3.0,4.0,0.0
+2024-2025,18,2024-12-14,Yverdon-Sport,Sion,0.0,1.0,0.0
+2024-2025,18,2024-12-14,Basel,Grasshopper,0.0,1.0,0.0
+2024-2025,18,2024-12-15,Young Boys,Servette FC,2.0,1.0,1.0
+2024-2025,18,2024-12-15,Lugano,Lausanne-Sport,1.0,4.0,0.0
+2024-2025,18,2024-12-15,Zürich,St. Gallen,0.0,2.0,0.0
+2024-2025,19,2025-01-18,Sion,Grasshopper,0.0,1.0,0.0
+2024-2025,19,2025-01-18,Young Boys,FC Winterthur,0.0,0.0,0.5
+2024-2025,19,2025-01-18,Servette FC,St. Gallen,1.0,1.0,0.5
+2024-2025,19,2025-01-19,Zürich,Yverdon-Sport,1.0,0.0,1.0
+2024-2025,19,2025-01-19,Lugano,Basel,2.0,2.0,0.5
+2024-2025,19,2025-01-19,Lausanne-Sport,Luzern,0.0,0.0,0.5
+2024-2025,20,2025-01-25,Grasshopper,Young Boys,0.0,0.0,0.5
+2024-2025,20,2025-01-25,Yverdon-Sport,Servette FC,0.0,0.0,0.5
+2024-2025,20,2025-01-25,FC Winterthur,Lugano,2.0,3.0,0.0
+2024-2025,20,2025-01-26,St. Gallen,Lausanne-Sport,3.0,2.0,1.0
+2024-2025,20,2025-01-26,Basel,Sion,4.0,1.0,1.0
+2024-2025,20,2025-01-26,Luzern,Zürich,3.0,1.0,1.0
+2024-2025,21,2025-02-01,Lausanne-Sport,Young Boys,1.0,2.0,0.0
+2024-2025,21,2025-02-01,Lugano,Sion,3.0,2.0,1.0
+2024-2025,21,2025-02-01,Servette FC,Grasshopper,1.0,1.0,0.5
+2024-2025,21,2025-02-02,Luzern,St. Gallen,2.0,0.0,1.0
+2024-2025,21,2025-02-02,Yverdon-Sport,FC Winterthur,3.0,0.0,1.0
+2024-2025,21,2025-02-02,Zürich,Basel,0.0,1.0,0.0
+2024-2025,22,2025-02-04,Grasshopper,Lausanne-Sport,2.0,2.0,0.5
+2024-2025,22,2025-02-04,Sion,Servette FC,3.0,3.0,0.5
+2024-2025,22,2025-02-05,Young Boys,Yverdon-Sport,6.0,1.0,1.0
+2024-2025,22,2025-02-05,St. Gallen,Lugano,2.0,1.0,1.0
+2024-2025,22,2025-02-06,FC Winterthur,Zürich,0.0,2.0,0.0
+2024-2025,22,2025-02-06,Basel,Luzern,2.0,1.0,1.0
+2024-2025,23,2025-02-08,Lausanne-Sport,Yverdon-Sport,4.0,1.0,1.0
+2024-2025,23,2025-02-08,Lugano,Grasshopper,1.0,1.0,0.5
+2024-2025,23,2025-02-08,Young Boys,Sion,5.0,1.0,1.0
+2024-2025,23,2025-02-09,Servette FC,Basel,2.0,1.0,1.0
+2024-2025,23,2025-02-09,Luzern,FC Winterthur,3.0,2.0,1.0
+2024-2025,23,2025-02-09,Zürich,St. Gallen,1.0,2.0,0.0
+2024-2025,24,2025-02-15,Sion,Zürich,2.0,1.0,1.0
+2024-2025,24,2025-02-15,Lugano,Luzern,2.0,0.0,1.0
+2024-2025,24,2025-02-15,FC Winterthur,Young Boys,1.0,0.0,1.0
+2024-2025,24,2025-02-16,Yverdon-Sport,St. Gallen,1.0,0.0,1.0
+2024-2025,24,2025-02-16,Grasshopper,Servette FC,1.0,2.0,0.0
+2024-2025,24,2025-02-16,Basel,Lausanne-Sport,1.0,1.0,0.5
+2024-2025,25,2025-02-22,Lausanne-Sport,Grasshopper,2.0,2.0,0.5
+2024-2025,25,2025-02-22,Zürich,Yverdon-Sport,2.0,1.0,1.0
+2024-2025,25,2025-02-22,St. Gallen,Basel,2.0,2.0,0.5
+2024-2025,25,2025-02-23,Luzern,Sion,,,
+2024-2025,25,2025-02-23,Young Boys,Lugano,,,
+2024-2025,25,2025-02-23,Servette FC,FC Winterthur,,,
+2024-2025,26,2025-03-01,FC Winterthur,St. Gallen,,,
+2024-2025,26,2025-03-01,Basel,Sion,,,
+2024-2025,26,2025-03-01,Lausanne-Sport,Servette FC,,,
+2024-2025,26,2025-03-02,Lugano,Zürich,,,
+2024-2025,26,2025-03-02,Yverdon-Sport,Luzern,,,
+2024-2025,26,2025-03-02,Grasshopper,Young Boys,,,
+2024-2025,27,2025-03-08,Yverdon-Sport,FC Winterthur,,,
+2024-2025,27,2025-03-08,Young Boys,Lausanne-Sport,,,
+2024-2025,27,2025-03-08,St. Gallen,Grasshopper,,,
+2024-2025,27,2025-03-09,Zürich,Servette FC,,,
+2024-2025,27,2025-03-09,Sion,Lugano,,,
+2024-2025,27,2025-03-09,Luzern,Basel,,,
+2024-2025,28,2025-03-15,Servette FC,Yverdon-Sport,,,
+2024-2025,28,2025-03-15,St. Gallen,Lausanne-Sport,,,
+2024-2025,28,2025-03-15,Zürich,Luzern,,,
+2024-2025,28,2025-03-16,Grasshopper,Sion,,,
+2024-2025,28,2025-03-16,Basel,Young Boys,,,
+2024-2025,28,2025-03-16,Lugano,FC Winterthur,,,
+2024-2025,29,2025-03-29,Sion,Yverdon-Sport,,,
+2024-2025,29,2025-03-29,Young Boys,St. Gallen,,,
+2024-2025,29,2025-03-29,Lugano,Servette FC,,,
+2024-2025,29,2025-03-30,FC Winterthur,Basel,,,
+2024-2025,29,2025-03-30,Grasshopper,Zürich,,,
+2024-2025,29,2025-03-30,Lausanne-Sport,Luzern,,,
+2024-2025,30,2025-04-01,Yverdon-Sport,Lugano,,,
+2024-2025,30,2025-04-01,Servette FC,Young Boys,,,
+2024-2025,30,2025-04-02,Sion,FC Winterthur,,,
+2024-2025,30,2025-04-02,Zürich,Lausanne-Sport,,,
+2024-2025,30,2025-04-03,Basel,Grasshopper,,,
+2024-2025,30,2025-04-03,Luzern,St. Gallen,,,
+2024-2025,31,2025-04-05,FC Winterthur,Zürich,,,
+2024-2025,31,2025-04-05,Lausanne-Sport,Sion,,,
+2024-2025,31,2025-04-05,Young Boys,Yverdon-Sport,,,
+2024-2025,31,2025-04-06,St. Gallen,Servette FC,,,
+2024-2025,31,2025-04-06,Basel,Lugano,,,
+2024-2025,31,2025-04-06,Grasshopper,Luzern,,,
+2024-2025,32,2025-04-12,Yverdon-Sport,Grasshopper,,,
+2024-2025,32,2025-04-12,FC Winterthur,Lausanne-Sport,,,
+2024-2025,32,2025-04-12,Zürich,Basel,,,
+2024-2025,32,2025-04-13,Lugano,St. Gallen,,,
+2024-2025,32,2025-04-13,Luzern,Young Boys,,,
+2024-2025,32,2025-04-13,Sion,Servette FC,,,
+2024-2025,33,2025-04-19,Grasshopper,FC Winterthur,,,
+2024-2025,33,2025-04-19,St. Gallen,Sion,,,
+2024-2025,33,2025-04-19,Lausanne-Sport,Lugano,,,
+2024-2025,33,2025-04-19,Basel,Yverdon-Sport,,,
+2024-2025,33,2025-04-19,Young Boys,Zürich,,,
+2024-2025,33,2025-04-19,Servette FC,Luzern,,,

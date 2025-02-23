@@ -1,0 +1,206 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2012-2013,Group stage,1,2012-09-20,Udinese,Anzhi,it,ru,1,1,0.5
+2012-2013,Group stage,1,2012-09-20,Dnipro,PSV Eindhoven,ua,nl,2,0,1.0
+2012-2013,Group stage,1,2012-09-20,AEL Limassol,Gladbach,cy,de,0,0,0.5
+2012-2013,Group stage,1,2012-09-20,Bordeaux,Club Brugge,fr,be,4,0,1.0
+2012-2013,Group stage,1,2012-09-20,Rapid Wien,Rosenborg,at,no,1,2,0.0
+2012-2013,Group stage,1,2012-09-20,Levante,Helsingborg,es,se,1,0,1.0
+2012-2013,Group stage,1,2012-09-20,Marítimo,Newcastle Utd,pt,eng,0,0,0.5
+2012-2013,Group stage,1,2012-09-20,Genk,Videoton,be,hu,3,0,1.0
+2012-2013,Group stage,1,2012-09-20,Stuttgart,Steaua,de,ro,2,2,0.5
+2012-2013,Group stage,1,2012-09-20,Sporting CP,Basel,pt,ch,0,0,0.5
+2012-2013,Group stage,1,2012-09-20,Young Boys,Liverpool,ch,eng,3,5,0.0
+2012-2013,Group stage,1,2012-09-20,NK Maribor,Panathinaikos,si,gr,3,0,1.0
+2012-2013,Group stage,1,2012-09-20,FC Copenhagen,Molde,dk,no,2,1,1.0
+2012-2013,Group stage,1,2012-09-20,Twente,Hannover 96,nl,de,2,2,0.5
+2012-2013,Group stage,1,2012-09-20,Leverkusen,Metalist Kharkiv,de,ua,0,0,0.5
+2012-2013,Group stage,1,2012-09-20,Partizan,Neftçi,rs,az,0,0,0.5
+2012-2013,Group stage,1,2012-09-20,Viktoria Plzeň,Académica,cz,pt,3,1,1.0
+2012-2013,Group stage,1,2012-09-20,Athletic Club,Kiryat Shmona,es,il,1,1,0.5
+2012-2013,Group stage,1,2012-09-20,Fenerbahçe,Marseille,tr,fr,2,2,0.5
+2012-2013,Group stage,1,2012-09-20,Inter,Rubin Kazan,it,ru,2,2,0.5
+2012-2013,Group stage,1,2012-09-20,Tottenham,Lazio,eng,it,0,0,0.5
+2012-2013,Group stage,1,2012-09-20,Lyon,Sparta Prague,fr,cz,2,1,1.0
+2012-2013,Group stage,1,2012-09-20,Hapoel Tel Aviv,Atlético Madrid,il,es,0,3,0.0
+2012-2013,Group stage,1,2012-09-20,Napoli,AIK Stockholm,it,se,4,0,1.0
+2012-2013,Group stage,2,2012-10-04,Neftçi,Inter,az,it,1,3,0.0
+2012-2013,Group stage,2,2012-10-04,Videoton,Sporting CP,hu,pt,3,0,1.0
+2012-2013,Group stage,2,2012-10-04,AIK Stockholm,Dnipro,se,ua,2,3,0.0
+2012-2013,Group stage,2,2012-10-04,Atlético Madrid,Viktoria Plzeň,es,cz,1,0,1.0
+2012-2013,Group stage,2,2012-10-04,Académica,Hapoel Tel Aviv,pt,il,1,1,0.5
+2012-2013,Group stage,2,2012-10-04,Newcastle Utd,Bordeaux,eng,fr,3,0,1.0
+2012-2013,Group stage,2,2012-10-04,Liverpool,Udinese,eng,it,2,3,0.0
+2012-2013,Group stage,2,2012-10-04,Lazio,NK Maribor,it,si,1,0,1.0
+2012-2013,Group stage,2,2012-10-04,Rosenborg,Leverkusen,no,de,0,1,0.0
+2012-2013,Group stage,2,2012-10-04,Anzhi,Young Boys,ru,ch,2,0,1.0
+2012-2013,Group stage,2,2012-10-04,Rubin Kazan,Partizan,ru,rs,2,0,1.0
+2012-2013,Group stage,2,2012-10-04,Panathinaikos,Tottenham,gr,eng,1,1,0.5
+2012-2013,Group stage,2,2012-10-04,Steaua,FC Copenhagen,ro,dk,1,0,1.0
+2012-2013,Group stage,2,2012-10-04,Marseille,AEL Limassol,fr,cy,5,1,1.0
+2012-2013,Group stage,2,2012-10-04,Club Brugge,Marítimo,be,pt,2,0,1.0
+2012-2013,Group stage,2,2012-10-04,PSV Eindhoven,Napoli,nl,it,3,0,1.0
+2012-2013,Group stage,2,2012-10-04,Molde,Stuttgart,no,de,2,0,1.0
+2012-2013,Group stage,2,2012-10-04,Kiryat Shmona,Lyon,il,fr,3,4,0.0
+2012-2013,Group stage,2,2012-10-04,Helsingborg,Twente,se,nl,2,2,0.5
+2012-2013,Group stage,2,2012-10-04,Metalist Kharkiv,Rapid Wien,ua,at,2,0,1.0
+2012-2013,Group stage,2,2012-10-04,Basel,Genk,ch,be,2,2,0.5
+2012-2013,Group stage,2,2012-10-04,Sparta Prague,Athletic Club,cz,es,3,1,1.0
+2012-2013,Group stage,2,2012-10-04,Hannover 96,Levante,de,es,2,1,1.0
+2012-2013,Group stage,2,2012-10-04,Gladbach,Fenerbahçe,de,tr,2,4,0.0
+2012-2013,Group stage,3,2012-10-25,Hapoel Tel Aviv,Viktoria Plzeň,il,cz,1,2,0.0
+2012-2013,Group stage,3,2012-10-25,Videoton,Basel,hu,ch,2,1,1.0
+2012-2013,Group stage,3,2012-10-25,Gladbach,Marseille,de,fr,2,0,1.0
+2012-2013,Group stage,3,2012-10-25,Rubin Kazan,Neftçi,ru,az,1,0,1.0
+2012-2013,Group stage,3,2012-10-25,Genk,Sporting CP,be,pt,2,1,1.0
+2012-2013,Group stage,3,2012-10-25,Young Boys,Udinese,ch,it,3,1,1.0
+2012-2013,Group stage,3,2012-10-25,Rapid Wien,Leverkusen,at,de,0,4,0.0
+2012-2013,Group stage,3,2012-10-25,Panathinaikos,Lazio,gr,it,1,1,0.5
+2012-2013,Group stage,3,2012-10-25,Dnipro,Napoli,ua,it,3,1,1.0
+2012-2013,Group stage,3,2012-10-25,Inter,Partizan,it,rs,1,0,1.0
+2012-2013,Group stage,3,2012-10-25,Liverpool,Anzhi,eng,ru,1,0,1.0
+2012-2013,Group stage,3,2012-10-25,Lyon,Athletic Club,fr,es,2,1,1.0
+2012-2013,Group stage,3,2012-10-25,PSV Eindhoven,AIK Stockholm,nl,se,1,1,0.5
+2012-2013,Group stage,3,2012-10-25,Sparta Prague,Kiryat Shmona,cz,il,3,1,1.0
+2012-2013,Group stage,3,2012-10-25,Steaua,Molde,ro,no,2,0,1.0
+2012-2013,Group stage,3,2012-10-25,Marítimo,Bordeaux,pt,fr,1,1,0.5
+2012-2013,Group stage,3,2012-10-25,Levante,Twente,es,nl,3,0,1.0
+2012-2013,Group stage,3,2012-10-25,Rosenborg,Metalist Kharkiv,no,ua,1,2,0.0
+2012-2013,Group stage,3,2012-10-25,NK Maribor,Tottenham,si,eng,1,1,0.5
+2012-2013,Group stage,3,2012-10-25,Stuttgart,FC Copenhagen,de,dk,0,0,0.5
+2012-2013,Group stage,3,2012-10-25,Atlético Madrid,Académica,es,pt,2,1,1.0
+2012-2013,Group stage,3,2012-10-25,Helsingborg,Hannover 96,se,de,1,2,0.0
+2012-2013,Group stage,3,2012-10-25,AEL Limassol,Fenerbahçe,cy,tr,0,1,0.0
+2012-2013,Group stage,3,2012-10-25,Newcastle Utd,Club Brugge,eng,be,1,0,1.0
+2012-2013,Group stage,4,2012-11-08,Athletic Club,Lyon,es,fr,2,3,0.0
+2012-2013,Group stage,4,2012-11-08,Udinese,Young Boys,it,ch,2,3,0.0
+2012-2013,Group stage,4,2012-11-08,Twente,Levante,nl,es,0,0,0.5
+2012-2013,Group stage,4,2012-11-08,Basel,Videoton,ch,hu,1,0,1.0
+2012-2013,Group stage,4,2012-11-08,FC Copenhagen,Stuttgart,dk,de,0,2,0.0
+2012-2013,Group stage,4,2012-11-08,Anzhi,Liverpool,ru,eng,1,0,1.0
+2012-2013,Group stage,4,2012-11-08,Kiryat Shmona,Sparta Prague,il,cz,1,1,0.5
+2012-2013,Group stage,4,2012-11-08,Tottenham,NK Maribor,eng,si,3,1,1.0
+2012-2013,Group stage,4,2012-11-08,Marseille,Gladbach,fr,de,2,2,0.5
+2012-2013,Group stage,4,2012-11-08,Metalist Kharkiv,Rosenborg,ua,no,3,1,1.0
+2012-2013,Group stage,4,2012-11-08,Molde,Steaua,no,ro,1,2,0.0
+2012-2013,Group stage,4,2012-11-08,Club Brugge,Newcastle Utd,be,eng,2,2,0.5
+2012-2013,Group stage,4,2012-11-08,Neftçi,Rubin Kazan,az,ru,0,1,0.0
+2012-2013,Group stage,4,2012-11-08,Sporting CP,Genk,pt,be,1,1,0.5
+2012-2013,Group stage,4,2012-11-08,Lazio,Panathinaikos,it,gr,3,0,1.0
+2012-2013,Group stage,4,2012-11-08,Fenerbahçe,AEL Limassol,tr,cy,2,0,1.0
+2012-2013,Group stage,4,2012-11-08,Napoli,Dnipro,it,ua,4,2,1.0
+2012-2013,Group stage,4,2012-11-08,Leverkusen,Rapid Wien,de,at,3,0,1.0
+2012-2013,Group stage,4,2012-11-08,Hannover 96,Helsingborg,de,se,3,2,1.0
+2012-2013,Group stage,4,2012-11-08,Académica,Atlético Madrid,pt,es,2,0,1.0
+2012-2013,Group stage,4,2012-11-08,Partizan,Inter,rs,it,1,3,0.0
+2012-2013,Group stage,4,2012-11-08,AIK Stockholm,PSV Eindhoven,se,nl,1,0,1.0
+2012-2013,Group stage,4,2012-11-08,Bordeaux,Marítimo,fr,pt,1,0,1.0
+2012-2013,Group stage,4,2012-11-08,Viktoria Plzeň,Hapoel Tel Aviv,cz,il,4,0,1.0
+2012-2013,Group stage,5,2012-11-22,Rosenborg,Rapid Wien,no,at,3,2,1.0
+2012-2013,Group stage,5,2012-11-22,Newcastle Utd,Marítimo,eng,pt,1,1,0.5
+2012-2013,Group stage,5,2012-11-22,Basel,Sporting CP,ch,pt,3,0,1.0
+2012-2013,Group stage,5,2012-11-22,Panathinaikos,NK Maribor,gr,si,1,0,1.0
+2012-2013,Group stage,5,2012-11-22,Hannover 96,Twente,de,nl,0,0,0.5
+2012-2013,Group stage,5,2012-11-22,Club Brugge,Bordeaux,be,fr,1,2,0.0
+2012-2013,Group stage,5,2012-11-22,Marseille,Fenerbahçe,fr,tr,0,1,0.0
+2012-2013,Group stage,5,2012-11-22,Helsingborg,Levante,se,es,1,3,0.0
+2012-2013,Group stage,5,2012-11-22,Molde,FC Copenhagen,no,dk,1,2,0.0
+2012-2013,Group stage,5,2012-11-22,Steaua,Stuttgart,ro,de,1,5,0.0
+2012-2013,Group stage,5,2012-11-22,Académica,Viktoria Plzeň,pt,cz,1,1,0.5
+2012-2013,Group stage,5,2012-11-22,Atlético Madrid,Hapoel Tel Aviv,es,il,1,0,1.0
+2012-2013,Group stage,5,2012-11-22,Videoton,Genk,hu,be,0,1,0.0
+2012-2013,Group stage,5,2012-11-22,AIK Stockholm,Napoli,se,it,1,2,0.0
+2012-2013,Group stage,5,2012-11-22,Sparta Prague,Lyon,cz,fr,1,1,0.5
+2012-2013,Group stage,5,2012-11-22,Liverpool,Young Boys,eng,ch,2,2,0.5
+2012-2013,Group stage,5,2012-11-22,Metalist Kharkiv,Leverkusen,ua,de,2,0,1.0
+2012-2013,Group stage,5,2012-11-22,Neftçi,Partizan,az,rs,1,1,0.5
+2012-2013,Group stage,5,2012-11-22,PSV Eindhoven,Dnipro,nl,ua,1,2,0.0
+2012-2013,Group stage,5,2012-11-22,Rubin Kazan,Inter,ru,it,3,0,1.0
+2012-2013,Group stage,5,2012-11-22,Lazio,Tottenham,it,eng,0,0,0.5
+2012-2013,Group stage,5,2012-11-22,Anzhi,Udinese,ru,it,2,0,1.0
+2012-2013,Group stage,5,2012-11-22,Gladbach,AEL Limassol,de,cy,2,0,1.0
+2012-2013,Group stage,5,2012-11-28,Kiryat Shmona,Athletic Club,il,es,0,2,0.0
+2012-2013,Group stage,6,2012-12-06,FC Copenhagen,Steaua,dk,ro,1,1,0.5
+2012-2013,Group stage,6,2012-12-06,Athletic Club,Sparta Prague,es,cz,0,0,0.5
+2012-2013,Group stage,6,2012-12-06,Young Boys,Anzhi,ch,ru,3,1,1.0
+2012-2013,Group stage,6,2012-12-06,Fenerbahçe,Gladbach,tr,de,0,3,0.0
+2012-2013,Group stage,6,2012-12-06,Udinese,Liverpool,it,eng,0,1,0.0
+2012-2013,Group stage,6,2012-12-06,NK Maribor,Lazio,si,it,1,4,0.0
+2012-2013,Group stage,6,2012-12-06,Napoli,PSV Eindhoven,it,nl,1,3,0.0
+2012-2013,Group stage,6,2012-12-06,Levante,Hannover 96,es,de,2,2,0.5
+2012-2013,Group stage,6,2012-12-06,AEL Limassol,Marseille,cy,fr,3,0,1.0
+2012-2013,Group stage,6,2012-12-06,Stuttgart,Molde,de,no,0,1,0.0
+2012-2013,Group stage,6,2012-12-06,Genk,Basel,be,ch,0,0,0.5
+2012-2013,Group stage,6,2012-12-06,Rapid Wien,Metalist Kharkiv,at,ua,1,0,1.0
+2012-2013,Group stage,6,2012-12-06,Twente,Helsingborg,nl,se,1,3,0.0
+2012-2013,Group stage,6,2012-12-06,Leverkusen,Rosenborg,de,no,1,0,1.0
+2012-2013,Group stage,6,2012-12-06,Tottenham,Panathinaikos,eng,gr,3,1,1.0
+2012-2013,Group stage,6,2012-12-06,Inter,Neftçi,it,az,2,2,0.5
+2012-2013,Group stage,6,2012-12-06,Hapoel Tel Aviv,Académica,il,pt,2,0,1.0
+2012-2013,Group stage,6,2012-12-06,Partizan,Rubin Kazan,rs,ru,1,1,0.5
+2012-2013,Group stage,6,2012-12-06,Bordeaux,Newcastle Utd,fr,eng,2,0,1.0
+2012-2013,Group stage,6,2012-12-06,Dnipro,AIK Stockholm,ua,se,4,0,1.0
+2012-2013,Group stage,6,2012-12-06,Marítimo,Club Brugge,pt,be,2,1,1.0
+2012-2013,Group stage,6,2012-12-06,Viktoria Plzeň,Atlético Madrid,cz,es,1,0,1.0
+2012-2013,Group stage,6,2012-12-06,Lyon,Kiryat Shmona,fr,il,2,0,1.0
+2012-2013,Group stage,6,2012-12-07,Sporting CP,Videoton,pt,hu,2,1,1.0
+2012-2013,Round of 32,,2013-02-14,Tottenham,Lyon,eng,fr,2,1,1.0
+2012-2013,Round of 32,,2013-02-14,Inter,CFR Cluj,it,ro,2,0,1.0
+2012-2013,Round of 32,,2013-02-14,Ajax,Steaua,nl,ro,2,0,1.0
+2012-2013,Round of 32,,2013-02-14,Gladbach,Lazio,de,it,3,3,0.5
+2012-2013,Round of 32,,2013-02-14,Sparta Prague,Chelsea,cz,eng,0,1,0.0
+2012-2013,Round of 32,,2013-02-14,Leverkusen,Benfica,de,pt,0,1,0.0
+2012-2013,Round of 32,,2013-02-14,Stuttgart,Genk,de,be,1,1,0.5
+2012-2013,Round of 32,,2013-02-14,Dynamo Kyiv,Bordeaux,ua,fr,1,1,0.5
+2012-2013,Round of 32,,2013-02-14,BATE Borisov,Fenerbahçe,by,tr,0,0,0.5
+2012-2013,Round of 32,,2013-02-14,Napoli,Viktoria Plzeň,it,cz,0,3,0.0
+2012-2013,Round of 32,,2013-02-14,Anzhi,Hannover 96,ru,de,3,1,1.0
+2012-2013,Round of 32,,2013-02-14,Atlético Madrid,Rubin Kazan,es,ru,0,2,0.0
+2012-2013,Round of 32,,2013-02-14,Zenit,Liverpool,ru,eng,2,0,1.0
+2012-2013,Round of 32,,2013-02-14,Levante,Olympiacos,es,gr,3,0,1.0
+2012-2013,Round of 32,,2013-02-14,Newcastle Utd,Metalist Kharkiv,eng,ua,0,0,0.5
+2012-2013,Round of 32,,2013-02-14,Basel,Dnipro,ch,ua,2,0,1.0
+2012-2013,Round of 32,,2013-02-21,Fenerbahçe,BATE Borisov,tr,by,1,0,1.0
+2012-2013,Round of 32,,2013-02-21,Genk,Stuttgart,be,de,0,2,0.0
+2012-2013,Round of 32,,2013-02-21,Dnipro,Basel,ua,ch,1,1,0.5
+2012-2013,Round of 32,,2013-02-21,Liverpool,Zenit,eng,ru,3,1,1.0
+2012-2013,Round of 32,,2013-02-21,Olympiacos,Levante,gr,es,0,1,0.0
+2012-2013,Round of 32,,2013-02-21,Steaua,Ajax,ro,nl,2,0,1.0
+2012-2013,Round of 32,,2013-02-21,Benfica,Leverkusen,pt,de,2,1,1.0
+2012-2013,Round of 32,,2013-02-21,Bordeaux,Dynamo Kyiv,fr,ua,1,0,1.0
+2012-2013,Round of 32,,2013-02-21,CFR Cluj,Inter,ro,it,0,3,0.0
+2012-2013,Round of 32,,2013-02-21,Lyon,Tottenham,fr,eng,1,1,0.5
+2012-2013,Round of 32,,2013-02-21,Hannover 96,Anzhi,de,ru,1,1,0.5
+2012-2013,Round of 32,,2013-02-21,Viktoria Plzeň,Napoli,cz,it,2,0,1.0
+2012-2013,Round of 32,,2013-02-21,Rubin Kazan,Atlético Madrid,ru,es,0,1,0.0
+2012-2013,Round of 32,,2013-02-21,Lazio,Gladbach,it,de,2,0,1.0
+2012-2013,Round of 32,,2013-02-21,Metalist Kharkiv,Newcastle Utd,ua,eng,0,1,0.0
+2012-2013,Round of 32,,2013-02-21,Chelsea,Sparta Prague,eng,cz,1,1,0.5
+2012-2013,Round of 16,,2013-03-07,Viktoria Plzeň,Fenerbahçe,cz,tr,0,1,0.0
+2012-2013,Round of 16,,2013-03-07,Anzhi,Newcastle Utd,ru,eng,0,0,0.5
+2012-2013,Round of 16,,2013-03-07,Benfica,Bordeaux,pt,fr,1,0,1.0
+2012-2013,Round of 16,,2013-03-07,Basel,Zenit,ch,ru,2,0,1.0
+2012-2013,Round of 16,,2013-03-07,Steaua,Chelsea,ro,eng,1,0,1.0
+2012-2013,Round of 16,,2013-03-07,Tottenham,Inter,eng,it,3,0,1.0
+2012-2013,Round of 16,,2013-03-07,Levante,Rubin Kazan,es,ru,0,0,0.5
+2012-2013,Round of 16,,2013-03-07,Stuttgart,Lazio,de,it,0,2,0.0
+2012-2013,Round of 16,,2013-03-14,Fenerbahçe,Viktoria Plzeň,tr,cz,1,1,0.5
+2012-2013,Round of 16,,2013-03-14,Zenit,Basel,ru,ch,1,0,1.0
+2012-2013,Round of 16,,2013-03-14,Bordeaux,Benfica,fr,pt,2,3,0.0
+2012-2013,Round of 16,,2013-03-14,Lazio,Stuttgart,it,de,3,1,1.0
+2012-2013,Round of 16,,2013-03-14,Inter,Tottenham,it,eng,4,1,1.0
+2012-2013,Round of 16,,2013-03-14,Chelsea,Steaua,eng,ro,3,1,1.0
+2012-2013,Round of 16,,2013-03-14,Rubin Kazan,Levante,ru,es,2,0,1.0
+2012-2013,Round of 16,,2013-03-14,Newcastle Utd,Anzhi,eng,ru,1,0,1.0
+2012-2013,Quarter-finals,,2013-04-04,Chelsea,Rubin Kazan,eng,ru,3,1,1.0
+2012-2013,Quarter-finals,,2013-04-04,Fenerbahçe,Lazio,tr,it,2,0,1.0
+2012-2013,Quarter-finals,,2013-04-04,Benfica,Newcastle Utd,pt,eng,3,1,1.0
+2012-2013,Quarter-finals,,2013-04-04,Tottenham,Basel,eng,ch,2,2,0.5
+2012-2013,Quarter-finals,,2013-04-11,Lazio,Fenerbahçe,it,tr,1,1,0.5
+2012-2013,Quarter-finals,,2013-04-11,Rubin Kazan,Chelsea,ru,eng,3,2,1.0
+2012-2013,Quarter-finals,,2013-04-11,Newcastle Utd,Benfica,eng,pt,1,1,0.5
+2012-2013,Quarter-finals,,2013-04-11,Basel,Tottenham,ch,eng,2,2,0.5
+2012-2013,Semi-finals,,2013-04-25,Fenerbahçe,Benfica,tr,pt,1,0,1.0
+2012-2013,Semi-finals,,2013-04-25,Basel,Chelsea,ch,eng,1,2,0.0
+2012-2013,Semi-finals,,2013-05-02,Chelsea,Basel,eng,ch,3,1,1.0
+2012-2013,Semi-finals,,2013-05-02,Benfica,Fenerbahçe,pt,tr,3,1,1.0
+2012-2013,Final,,2013-05-15,Benfica,Chelsea,pt,eng,1,2,0.0

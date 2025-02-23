@@ -1,0 +1,319 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2014-2015,Super League Greece,1,2014-08-23,OFI Crete,Panetolikos,1.0,0.0,1.0
+2014-2015,Super League Greece,1,2014-08-23,Kerkyra,Panthrakikos,2.0,1.0,1.0
+2014-2015,Super League Greece,1,2014-08-23,Olympiacos,Niki Volos,3.0,1.0,1.0
+2014-2015,Super League Greece,1,2014-08-24,PAOK,AEL Kalloni,1.0,1.0,0.5
+2014-2015,Super League Greece,1,2014-08-24,Atromitos,Platanias,1.0,0.0,1.0
+2014-2015,Super League Greece,1,2014-08-24,PAS Giannina,Asteras Tripoli,3.0,1.0,1.0
+2014-2015,Super League Greece,1,2014-08-24,Veria,Skoda Xanthi,3.0,2.0,1.0
+2014-2015,Super League Greece,1,2014-08-24,Levadiakos,Panathinaikos,1.0,1.0,0.5
+2014-2015,Super League Greece,1,2014-08-25,Panionios,Ergotelis,2.0,1.0,1.0
+2014-2015,Super League Greece,2,2014-08-30,AEL Kalloni,Ergotelis,2.0,0.0,1.0
+2014-2015,Super League Greece,2,2014-08-30,Panthrakikos,PAS Giannina,1.0,1.0,0.5
+2014-2015,Super League Greece,2,2014-08-30,Panetolikos,Olympiacos,1.0,1.0,0.5
+2014-2015,Super League Greece,2,2014-08-31,Skoda Xanthi,Kerkyra,0.0,0.0,0.5
+2014-2015,Super League Greece,2,2014-08-31,Platanias,PAOK,0.0,4.0,0.0
+2014-2015,Super League Greece,2,2014-08-31,Asteras Tripoli,Levadiakos,2.0,1.0,1.0
+2014-2015,Super League Greece,2,2014-08-31,Niki Volos,Atromitos,0.0,1.0,0.0
+2014-2015,Super League Greece,2,2014-08-31,Panathinaikos,Panionios,2.0,1.0,1.0
+2014-2015,Super League Greece,2,2014-09-01,OFI Crete,Veria,0.0,1.0,0.0
+2014-2015,Super League Greece,3,2014-09-13,Veria,Kerkyra,2.0,1.0,1.0
+2014-2015,Super League Greece,3,2014-09-13,PAOK,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,3,2014-09-13,Olympiacos,OFI Crete,3.0,0.0,1.0
+2014-2015,Super League Greece,3,2014-09-14,Panionios,Asteras Tripoli,2.0,1.0,1.0
+2014-2015,Super League Greece,3,2014-09-14,PAS Giannina,Skoda Xanthi,2.0,2.0,0.5
+2014-2015,Super League Greece,3,2014-09-14,Atromitos,Panetolikos,0.0,0.0,0.5
+2014-2015,Super League Greece,3,2014-09-14,Levadiakos,Panthrakikos,1.0,1.0,0.5
+2014-2015,Super League Greece,3,2014-09-14,AEL Kalloni,Panathinaikos,1.0,0.0,1.0
+2014-2015,Super League Greece,3,2014-09-15,Ergotelis,Platanias,0.0,3.0,0.0
+2014-2015,Super League Greece,4,2014-09-20,Skoda Xanthi,Levadiakos,2.0,0.0,1.0
+2014-2015,Super League Greece,4,2014-09-20,OFI Crete,Atromitos,1.0,0.0,1.0
+2014-2015,Super League Greece,4,2014-09-20,Olympiacos,Veria,3.0,0.0,1.0
+2014-2015,Super League Greece,4,2014-09-21,Asteras Tripoli,AEL Kalloni,1.0,0.0,1.0
+2014-2015,Super League Greece,4,2014-09-21,Niki Volos,Ergotelis,1.0,4.0,0.0
+2014-2015,Super League Greece,4,2014-09-21,Panthrakikos,Panionios,1.0,0.0,1.0
+2014-2015,Super League Greece,4,2014-09-21,Kerkyra,PAS Giannina,2.0,0.0,1.0
+2014-2015,Super League Greece,4,2014-09-21,Platanias,Panathinaikos,2.0,3.0,0.0
+2014-2015,Super League Greece,4,2014-09-22,Panetolikos,PAOK,0.0,1.0,0.0
+2014-2015,Super League Greece,5,2014-09-27,Platanias,Asteras Tripoli,0.0,1.0,0.0
+2014-2015,Super League Greece,5,2014-09-27,Panionios,Skoda Xanthi,1.0,1.0,0.5
+2014-2015,Super League Greece,5,2014-09-27,Atromitos,Olympiacos,1.0,0.0,1.0
+2014-2015,Super League Greece,5,2014-09-28,Panathinaikos,Niki Volos,1.0,0.0,1.0
+2014-2015,Super League Greece,5,2014-09-28,Veria,PAS Giannina,2.0,0.0,1.0
+2014-2015,Super League Greece,5,2014-09-28,Ergotelis,Panetolikos,1.0,1.0,0.5
+2014-2015,Super League Greece,5,2014-09-28,Levadiakos,Kerkyra,2.0,3.0,0.0
+2014-2015,Super League Greece,5,2014-09-28,PAOK,OFI Crete,4.0,0.0,1.0
+2014-2015,Super League Greece,5,2014-09-29,AEL Kalloni,Panthrakikos,2.0,0.0,1.0
+2014-2015,Super League Greece,7,2014-10-18,Niki Volos,Panthrakikos,1.0,0.0,1.0
+2014-2015,Super League Greece,7,2014-10-18,Asteras Tripoli,Panetolikos,1.0,1.0,0.5
+2014-2015,Super League Greece,7,2014-10-18,Ergotelis,Olympiacos,2.0,3.0,0.0
+2014-2015,Super League Greece,7,2014-10-19,Panathinaikos,OFI Crete,1.0,2.0,0.0
+2014-2015,Super League Greece,7,2014-10-19,AEL Kalloni,Kerkyra,1.0,0.0,1.0
+2014-2015,Super League Greece,7,2014-10-19,Platanias,Skoda Xanthi,1.0,0.0,1.0
+2014-2015,Super League Greece,7,2014-10-19,Veria,Levadiakos,2.0,1.0,1.0
+2014-2015,Super League Greece,7,2014-10-19,PAOK,Atromitos,2.0,1.0,1.0
+2014-2015,Super League Greece,7,2014-10-20,Panionios,PAS Giannina,0.0,1.0,0.0
+2014-2015,Super League Greece,8,2014-10-25,PAS Giannina,AEL Kalloni,0.0,0.0,0.5
+2014-2015,Super League Greece,8,2014-10-25,Levadiakos,Panionios,1.0,0.0,1.0
+2014-2015,Super League Greece,8,2014-10-25,Atromitos,Ergotelis,1.0,1.0,0.5
+2014-2015,Super League Greece,8,2014-10-26,OFI Crete,Asteras Tripoli,2.0,3.0,0.0
+2014-2015,Super League Greece,8,2014-10-26,Panetolikos,Panthrakikos,3.0,1.0,1.0
+2014-2015,Super League Greece,8,2014-10-26,Kerkyra,Platanias,1.0,2.0,0.0
+2014-2015,Super League Greece,8,2014-10-26,PAOK,Veria,4.0,1.0,1.0
+2014-2015,Super League Greece,8,2014-10-26,Olympiacos,Panathinaikos,1.0,0.0,1.0
+2014-2015,Super League Greece,8,2014-10-27,Skoda Xanthi,Niki Volos,2.0,0.0,1.0
+2014-2015,Super League Greece,9,2014-11-01,Platanias,PAS Giannina,0.0,0.0,0.5
+2014-2015,Super League Greece,9,2014-11-01,Veria,Panionios,2.0,2.0,0.5
+2014-2015,Super League Greece,9,2014-11-01,Asteras Tripoli,Olympiacos,0.0,0.0,0.5
+2014-2015,Super League Greece,9,2014-11-02,Ergotelis,PAOK,0.0,2.0,0.0
+2014-2015,Super League Greece,9,2014-11-02,Niki Volos,Kerkyra,0.0,0.0,0.5
+2014-2015,Super League Greece,9,2014-11-02,Panthrakikos,OFI Crete,0.0,0.0,0.5
+2014-2015,Super League Greece,9,2014-11-02,Panetolikos,Skoda Xanthi,5.0,2.0,1.0
+2014-2015,Super League Greece,9,2014-11-02,Panathinaikos,Atromitos,2.0,0.0,1.0
+2014-2015,Super League Greece,9,2014-11-03,AEL Kalloni,Levadiakos,0.0,0.0,0.5
+2014-2015,Super League Greece,10,2014-11-08,Ergotelis,Veria,2.0,2.0,0.5
+2014-2015,Super League Greece,10,2014-11-08,Kerkyra,Panetolikos,1.0,2.0,0.0
+2014-2015,Super League Greece,10,2014-11-08,Skoda Xanthi,OFI Crete,2.0,1.0,1.0
+2014-2015,Super League Greece,10,2014-11-09,Olympiacos,Panthrakikos,5.0,1.0,1.0
+2014-2015,Super League Greece,10,2014-11-09,PAS Giannina,Niki Volos,4.0,0.0,1.0
+2014-2015,Super League Greece,10,2014-11-09,Levadiakos,Platanias,0.0,0.0,0.5
+2014-2015,Super League Greece,10,2014-11-09,Panionios,AEL Kalloni,0.0,2.0,0.0
+2014-2015,Super League Greece,10,2014-11-09,PAOK,Panathinaikos,1.0,2.0,0.0
+2014-2015,Super League Greece,10,2014-11-10,Atromitos,Asteras Tripoli,4.0,3.0,1.0
+2014-2015,Super League Greece,12,2014-11-29,AEL Kalloni,Platanias,0.0,0.0,0.5
+2014-2015,Super League Greece,12,2014-11-29,Levadiakos,Panetolikos,0.0,0.0,0.5
+2014-2015,Super League Greece,12,2014-11-29,Atromitos,Skoda Xanthi,2.0,0.0,1.0
+2014-2015,Super League Greece,12,2014-11-30,Kerkyra,Olympiacos,0.0,4.0,0.0
+2014-2015,Super League Greece,12,2014-11-30,PAOK,Panthrakikos,3.0,2.0,1.0
+2014-2015,Super League Greece,12,2014-11-30,Panionios,Niki Volos,2.0,1.0,1.0
+2014-2015,Super League Greece,12,2014-11-30,Ergotelis,Asteras Tripoli,1.0,4.0,0.0
+2014-2015,Super League Greece,12,2014-11-30,PAS Giannina,OFI Crete,3.0,0.0,1.0
+2014-2015,Super League Greece,12,2014-11-30,Panathinaikos,Veria,2.0,1.0,1.0
+2014-2015,Super League Greece,6,2014-12-03,Panthrakikos,Platanias,1.0,0.0,1.0
+2014-2015,Super League Greece,6,2014-12-03,Atromitos,Veria,0.0,0.0,0.5
+2014-2015,Super League Greece,6,2014-12-03,Skoda Xanthi,AEL Kalloni,2.0,1.0,1.0
+2014-2015,Super League Greece,6,2014-12-03,PAS Giannina,Levadiakos,0.0,4.0,0.0
+2014-2015,Super League Greece,6,2014-12-03,Kerkyra,Panionios,1.0,0.0,1.0
+2014-2015,Super League Greece,6,2014-12-03,Olympiacos,PAOK,1.0,2.0,0.0
+2014-2015,Super League Greece,6,2014-12-04,Niki Volos,Asteras Tripoli,0.0,2.0,0.0
+2014-2015,Super League Greece,6,2014-12-04,Panetolikos,Panathinaikos,0.0,1.0,0.0
+2014-2015,Super League Greece,6,2014-12-04,OFI Crete,Ergotelis,1.0,0.0,1.0
+2014-2015,Super League Greece,13,2014-12-06,Veria,Platanias,2.0,0.0,1.0
+2014-2015,Super League Greece,13,2014-12-06,Kerkyra,Atromitos,1.0,1.0,0.5
+2014-2015,Super League Greece,13,2014-12-06,Olympiacos,PAS Giannina,2.0,2.0,0.5
+2014-2015,Super League Greece,13,2014-12-07,Skoda Xanthi,PAOK,4.0,2.0,1.0
+2014-2015,Super League Greece,13,2014-12-07,OFI Crete,Levadiakos,0.0,2.0,0.0
+2014-2015,Super League Greece,13,2014-12-07,Panetolikos,Panionios,2.0,1.0,1.0
+2014-2015,Super League Greece,13,2014-12-07,Niki Volos,AEL Kalloni,2.0,0.0,1.0
+2014-2015,Super League Greece,13,2014-12-07,Asteras Tripoli,Panathinaikos,1.0,1.0,0.5
+2014-2015,Super League Greece,13,2014-12-08,Panthrakikos,Ergotelis,0.0,0.0,0.5
+2014-2015,Super League Greece,14,2014-12-13,Platanias,Niki Volos,3.0,1.0,1.0
+2014-2015,Super League Greece,14,2014-12-13,AEL Kalloni,Panetolikos,0.0,0.0,0.5
+2014-2015,Super League Greece,14,2014-12-13,Levadiakos,Olympiacos,1.0,2.0,0.0
+2014-2015,Super League Greece,14,2014-12-14,Panionios,OFI Crete,2.0,0.0,1.0
+2014-2015,Super League Greece,14,2014-12-14,Asteras Tripoli,Veria,2.0,0.0,1.0
+2014-2015,Super League Greece,14,2014-12-14,PAOK,Kerkyra,2.0,1.0,1.0
+2014-2015,Super League Greece,14,2014-12-14,PAS Giannina,Atromitos,1.0,0.0,1.0
+2014-2015,Super League Greece,14,2014-12-14,Ergotelis,Skoda Xanthi,0.0,2.0,0.0
+2014-2015,Super League Greece,14,2014-12-14,Panathinaikos,Panthrakikos,4.0,0.0,1.0
+2014-2015,Super League Greece,15,2014-12-17,Panthrakikos,Asteras Tripoli,1.0,1.0,0.5
+2014-2015,Super League Greece,15,2014-12-17,Kerkyra,Ergotelis,3.0,1.0,1.0
+2014-2015,Super League Greece,15,2014-12-17,OFI Crete,AEL Kalloni,1.0,1.0,0.5
+2014-2015,Super League Greece,15,2014-12-17,Veria,Niki Volos,2.0,0.0,1.0
+2014-2015,Super League Greece,15,2014-12-17,Atromitos,Levadiakos,1.0,0.0,1.0
+2014-2015,Super League Greece,15,2014-12-17,Panetolikos,Platanias,1.0,0.0,1.0
+2014-2015,Super League Greece,15,2014-12-17,Olympiacos,Panionios,2.0,0.0,1.0
+2014-2015,Super League Greece,15,2014-12-18,PAS Giannina,PAOK,3.0,0.0,1.0
+2014-2015,Super League Greece,15,2014-12-18,Skoda Xanthi,Panathinaikos,4.0,2.0,1.0
+2014-2015,Super League Greece,16,2014-12-20,Panthrakikos,Veria,1.0,1.0,0.5
+2014-2015,Super League Greece,16,2014-12-20,Platanias,OFI Crete,1.0,0.0,1.0
+2014-2015,Super League Greece,16,2014-12-20,AEL Kalloni,Olympiacos,0.0,5.0,0.0
+2014-2015,Super League Greece,16,2014-12-21,Panionios,Atromitos,2.0,2.0,0.5
+2014-2015,Super League Greece,16,2014-12-21,Ergotelis,PAS Giannina,1.0,0.0,1.0
+2014-2015,Super League Greece,16,2014-12-21,Niki Volos,Panetolikos,0.0,3.0,0.0
+2014-2015,Super League Greece,16,2014-12-21,Asteras Tripoli,Skoda Xanthi,2.0,1.0,1.0
+2014-2015,Super League Greece,16,2014-12-21,Levadiakos,PAOK,1.0,2.0,0.0
+2014-2015,Super League Greece,16,2014-12-22,Panathinaikos,Kerkyra,2.0,0.0,1.0
+2014-2015,Super League Greece,17,2015-01-03,Veria,Panetolikos,1.0,3.0,0.0
+2014-2015,Super League Greece,17,2015-01-03,OFI Crete,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,17,2015-01-03,Kerkyra,Asteras Tripoli,1.0,0.0,1.0
+2014-2015,Super League Greece,17,2015-01-03,PAOK,Panionios,3.0,2.0,1.0
+2014-2015,Super League Greece,17,2015-01-04,Olympiacos,Platanias,2.0,1.0,1.0
+2014-2015,Super League Greece,17,2015-01-04,Atromitos,AEL Kalloni,0.0,0.0,0.5
+2014-2015,Super League Greece,17,2015-01-04,Levadiakos,Ergotelis,1.0,1.0,0.5
+2014-2015,Super League Greece,17,2015-01-05,PAS Giannina,Panathinaikos,0.0,0.0,0.5
+2014-2015,Super League Greece,17,2015-01-05,Skoda Xanthi,Panthrakikos,0.0,0.0,0.5
+2014-2015,Super League Greece,11,2015-01-10,Veria,AEL Kalloni,1.0,1.0,0.5
+2014-2015,Super League Greece,11,2015-01-10,Platanias,Panionios,3.0,0.0,1.0
+2014-2015,Super League Greece,11,2015-01-10,Asteras Tripoli,PAOK,3.0,0.0,1.0
+2014-2015,Super League Greece,11,2015-01-11,Panetolikos,PAS Giannina,0.0,0.0,0.5
+2014-2015,Super League Greece,11,2015-01-11,Niki Volos,Levadiakos,0.0,3.0,0.0
+2014-2015,Super League Greece,11,2015-01-11,OFI Crete,Kerkyra,3.0,2.0,1.0
+2014-2015,Super League Greece,11,2015-01-11,Panathinaikos,Ergotelis,5.0,0.0,1.0
+2014-2015,Super League Greece,11,2015-01-11,Panthrakikos,Atromitos,1.0,1.0,0.5
+2014-2015,Super League Greece,11,2015-01-11,Skoda Xanthi,Olympiacos,1.0,3.0,0.0
+2014-2015,Super League Greece,18,2015-01-14,Panthrakikos,Kerkyra,1.0,0.0,1.0
+2014-2015,Super League Greece,18,2015-01-14,Panathinaikos,Levadiakos,1.0,0.0,1.0
+2014-2015,Super League Greece,18,2015-01-14,Asteras Tripoli,PAS Giannina,2.0,2.0,0.5
+2014-2015,Super League Greece,18,2015-01-14,Skoda Xanthi,Veria,2.0,2.0,0.5
+2014-2015,Super League Greece,18,2015-01-14,Panetolikos,OFI Crete,3.0,1.0,1.0
+2014-2015,Super League Greece,18,2015-01-14,AEL Kalloni,PAOK,1.0,2.0,0.0
+2014-2015,Super League Greece,18,2015-01-15,Niki Volos,Olympiacos,0.0,3.0,0.0
+2014-2015,Super League Greece,18,2015-01-15,Platanias,Atromitos,0.0,0.0,0.5
+2014-2015,Super League Greece,19,2015-01-17,Veria,OFI Crete,4.0,1.0,1.0
+2014-2015,Super League Greece,19,2015-01-17,Kerkyra,Skoda Xanthi,0.0,0.0,0.5
+2014-2015,Super League Greece,19,2015-01-17,Atromitos,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,19,2015-01-17,Panionios,Panathinaikos,1.0,1.0,0.5
+2014-2015,Super League Greece,19,2015-01-18,Levadiakos,Asteras Tripoli,3.0,1.0,1.0
+2014-2015,Super League Greece,19,2015-01-18,PAS Giannina,Panthrakikos,2.0,2.0,0.5
+2014-2015,Super League Greece,19,2015-01-18,PAOK,Platanias,1.0,0.0,1.0
+2014-2015,Super League Greece,19,2015-01-18,Olympiacos,Panetolikos,2.0,0.0,1.0
+2014-2015,Super League Greece,19,2015-01-19,Ergotelis,AEL Kalloni,3.0,3.0,0.5
+2014-2015,Super League Greece,20,2015-01-24,Skoda Xanthi,PAS Giannina,1.0,1.0,0.5
+2014-2015,Super League Greece,20,2015-01-24,Panthrakikos,Levadiakos,1.0,0.0,1.0
+2014-2015,Super League Greece,20,2015-01-24,Asteras Tripoli,Panionios,2.0,0.0,1.0
+2014-2015,Super League Greece,20,2015-01-24,Kerkyra,Veria,4.0,0.0,1.0
+2014-2015,Super League Greece,20,2015-01-24,Panathinaikos,AEL Kalloni,1.0,0.0,1.0
+2014-2015,Super League Greece,20,2015-01-24,OFI Crete,Olympiacos,0.0,3.0,0.0
+2014-2015,Super League Greece,20,2015-01-25,Niki Volos,PAOK,0.0,3.0,0.0
+2014-2015,Super League Greece,20,2015-01-26,Panetolikos,Atromitos,1.0,1.0,0.5
+2014-2015,Super League Greece,20,2015-01-26,Platanias,Ergotelis,1.0,2.0,0.0
+2014-2015,Super League Greece,21,2015-01-31,Panionios,Panthrakikos,2.0,1.0,1.0
+2014-2015,Super League Greece,21,2015-01-31,AEL Kalloni,Asteras Tripoli,1.0,0.0,1.0
+2014-2015,Super League Greece,21,2015-01-31,PAOK,Panetolikos,1.0,2.0,0.0
+2014-2015,Super League Greece,21,2015-02-01,Panathinaikos,Platanias,3.0,0.0,1.0
+2014-2015,Super League Greece,21,2015-02-01,PAS Giannina,Kerkyra,2.0,1.0,1.0
+2014-2015,Super League Greece,21,2015-02-01,Atromitos,OFI Crete,3.0,0.0,1.0
+2014-2015,Super League Greece,21,2015-02-01,Levadiakos,Skoda Xanthi,1.0,2.0,0.0
+2014-2015,Super League Greece,21,2015-02-01,Ergotelis,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,21,2015-02-01,Veria,Olympiacos,0.0,2.0,0.0
+2014-2015,Super League Greece,22,2015-02-04,Kerkyra,Levadiakos,0.0,0.0,0.5
+2014-2015,Super League Greece,22,2015-02-04,Panetolikos,Ergotelis,4.0,0.0,1.0
+2014-2015,Super League Greece,22,2015-02-04,OFI Crete,PAOK,3.0,1.0,1.0
+2014-2015,Super League Greece,22,2015-02-04,PAS Giannina,Veria,4.0,1.0,1.0
+2014-2015,Super League Greece,22,2015-02-04,Asteras Tripoli,Platanias,1.0,0.0,1.0
+2014-2015,Super League Greece,22,2015-02-04,Skoda Xanthi,Panionios,1.0,1.0,0.5
+2014-2015,Super League Greece,22,2015-02-04,Olympiacos,Atromitos,2.0,1.0,1.0
+2014-2015,Super League Greece,22,2015-02-05,Niki Volos,Panathinaikos,0.0,3.0,0.0
+2014-2015,Super League Greece,22,2015-02-05,Panthrakikos,AEL Kalloni,3.0,2.0,1.0
+2014-2015,Super League Greece,23,2015-02-07,Levadiakos,PAS Giannina,1.0,2.0,0.0
+2014-2015,Super League Greece,23,2015-02-07,Ergotelis,OFI Crete,3.0,2.0,1.0
+2014-2015,Super League Greece,23,2015-02-07,Veria,Atromitos,1.0,1.0,0.5
+2014-2015,Super League Greece,23,2015-02-08,Panionios,Kerkyra,0.0,0.0,0.5
+2014-2015,Super League Greece,23,2015-02-08,Asteras Tripoli,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,23,2015-02-08,Panathinaikos,Panetolikos,1.0,0.0,1.0
+2014-2015,Super League Greece,23,2015-02-08,Platanias,Panthrakikos,2.0,0.0,1.0
+2014-2015,Super League Greece,23,2015-02-08,PAOK,Olympiacos,0.0,0.0,0.5
+2014-2015,Super League Greece,23,2015-02-09,AEL Kalloni,Skoda Xanthi,2.0,2.0,0.5
+2014-2015,Super League Greece,24,2015-02-14,Panetolikos,Asteras Tripoli,2.0,0.0,1.0
+2014-2015,Super League Greece,24,2015-02-14,Panthrakikos,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,24,2015-02-14,PAS Giannina,Panionios,1.0,3.0,0.0
+2014-2015,Super League Greece,24,2015-02-14,Olympiacos,Ergotelis,3.0,0.0,1.0
+2014-2015,Super League Greece,24,2015-02-15,OFI Crete,Panathinaikos,2.0,3.0,0.0
+2014-2015,Super League Greece,24,2015-02-15,Kerkyra,AEL Kalloni,2.0,0.0,1.0
+2014-2015,Super League Greece,24,2015-02-15,Levadiakos,Veria,0.0,2.0,0.0
+2014-2015,Super League Greece,24,2015-02-15,Atromitos,PAOK,4.0,0.0,1.0
+2014-2015,Super League Greece,24,2015-02-16,Skoda Xanthi,Platanias,0.0,0.0,0.5
+2014-2015,Super League Greece,18,2015-02-18,Ergotelis,Panionios,2.0,2.0,0.5
+2014-2015,Super League Greece,25,2015-02-21,Panthrakikos,Panetolikos,0.0,0.0,0.5
+2014-2015,Super League Greece,25,2015-02-21,Niki Volos,Skoda Xanthi,0.0,3.0,0.0
+2014-2015,Super League Greece,25,2015-02-21,AEL Kalloni,PAS Giannina,1.0,0.0,1.0
+2014-2015,Super League Greece,25,2015-02-21,Veria,PAOK,1.0,3.0,0.0
+2014-2015,Super League Greece,25,2015-02-22,Asteras Tripoli,OFI Crete,6.0,1.0,1.0
+2014-2015,Super League Greece,25,2015-02-22,Platanias,Kerkyra,1.0,1.0,0.5
+2014-2015,Super League Greece,25,2015-02-22,Panionios,Levadiakos,1.0,0.0,1.0
+2014-2015,Super League Greece,25,2015-02-22,Panathinaikos,Olympiacos,2.0,1.0,1.0
+2014-2015,Super League Greece,25,2015-02-23,Ergotelis,Atromitos,1.0,2.0,0.0
+2014-2015,Super League Greece,26,2015-03-01,Kerkyra,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,27,2015-03-07,Veria,Ergotelis,0.0,1.0,0.0
+2014-2015,Super League Greece,27,2015-03-07,Asteras Tripoli,Atromitos,1.0,0.0,1.0
+2014-2015,Super League Greece,27,2015-03-08,Niki Volos,PAS Giannina,0.0,3.0,0.0
+2014-2015,Super League Greece,27,2015-03-08,AEL Kalloni,Panionios,1.0,0.0,1.0
+2014-2015,Super League Greece,27,2015-03-08,Panetolikos,Kerkyra,0.0,1.0,0.0
+2014-2015,Super League Greece,27,2015-03-08,OFI Crete,Skoda Xanthi,0.0,1.0,0.0
+2014-2015,Super League Greece,27,2015-03-08,Panathinaikos,PAOK,4.0,3.0,1.0
+2014-2015,Super League Greece,27,2015-03-09,Platanias,Levadiakos,1.0,3.0,0.0
+2014-2015,Super League Greece,28,2015-03-14,Ergotelis,Panathinaikos,0.0,2.0,0.0
+2014-2015,Super League Greece,28,2015-03-14,Atromitos,Panthrakikos,2.0,0.0,1.0
+2014-2015,Super League Greece,28,2015-03-14,PAOK,Asteras Tripoli,0.0,0.0,0.5
+2014-2015,Super League Greece,28,2015-03-15,PAS Giannina,Panetolikos,0.0,0.0,0.5
+2014-2015,Super League Greece,28,2015-03-15,Levadiakos,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,28,2015-03-15,Kerkyra,OFI Crete,4.0,1.0,1.0
+2014-2015,Super League Greece,28,2015-03-15,Panionios,Platanias,0.0,0.0,0.5
+2014-2015,Super League Greece,28,2015-03-15,AEL Kalloni,Veria,4.0,1.0,1.0
+2014-2015,Super League Greece,28,2015-03-15,Olympiacos,Skoda Xanthi,2.0,0.0,1.0
+2014-2015,Super League Greece,26,2015-03-18,OFI Crete,Panthrakikos,0.0,1.0,0.0
+2014-2015,Super League Greece,26,2015-03-18,PAS Giannina,Platanias,1.0,0.0,1.0
+2014-2015,Super League Greece,26,2015-03-18,Levadiakos,AEL Kalloni,3.0,0.0,1.0
+2014-2015,Super League Greece,26,2015-03-18,Skoda Xanthi,Panetolikos,3.0,0.0,1.0
+2014-2015,Super League Greece,26,2015-03-18,Panionios,Veria,4.0,2.0,1.0
+2014-2015,Super League Greece,26,2015-03-18,PAOK,Ergotelis,1.0,0.0,1.0
+2014-2015,Super League Greece,26,2015-03-18,Atromitos,Panathinaikos,2.0,0.0,1.0
+2014-2015,Super League Greece,26,2015-03-19,Olympiacos,Asteras Tripoli,2.0,0.0,1.0
+2014-2015,Super League Greece,29,2015-03-21,OFI Crete,PAS Giannina,0.0,3.0,0.0
+2014-2015,Super League Greece,29,2015-03-21,Niki Volos,Panionios,0.0,3.0,0.0
+2014-2015,Super League Greece,29,2015-03-21,Panetolikos,Levadiakos,0.0,1.0,0.0
+2014-2015,Super League Greece,29,2015-03-21,Panthrakikos,PAOK,3.0,1.0,1.0
+2014-2015,Super League Greece,29,2015-03-22,Skoda Xanthi,Atromitos,1.0,0.0,1.0
+2014-2015,Super League Greece,29,2015-03-22,Olympiacos,Kerkyra,3.0,0.0,1.0
+2014-2015,Super League Greece,29,2015-03-22,Asteras Tripoli,Ergotelis,2.0,1.0,1.0
+2014-2015,Super League Greece,29,2015-03-22,Veria,Panathinaikos,1.0,0.0,1.0
+2014-2015,Super League Greece,29,2015-03-23,Platanias,AEL Kalloni,1.0,0.0,1.0
+2014-2015,Super League Greece,30,2015-04-04,Platanias,Veria,1.0,0.0,1.0
+2014-2015,Super League Greece,30,2015-04-04,AEL Kalloni,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,30,2015-04-04,Panathinaikos,Asteras Tripoli,2.0,2.0,0.5
+2014-2015,Super League Greece,30,2015-04-05,Panionios,Panetolikos,3.0,0.0,1.0
+2014-2015,Super League Greece,30,2015-04-05,Ergotelis,Panthrakikos,2.0,1.0,1.0
+2014-2015,Super League Greece,30,2015-04-05,PAOK,Skoda Xanthi,2.0,1.0,1.0
+2014-2015,Super League Greece,30,2015-04-05,Levadiakos,OFI Crete,3.0,0.0,1.0
+2014-2015,Super League Greece,30,2015-04-05,PAS Giannina,Olympiacos,3.0,1.0,1.0
+2014-2015,Super League Greece,30,2015-04-06,Atromitos,Kerkyra,2.0,1.0,1.0
+2014-2015,Super League Greece,31,2015-04-11,Niki Volos,Platanias,0.0,3.0,0.0
+2014-2015,Super League Greece,27,2015-04-15,Panthrakikos,Olympiacos,1.0,3.0,0.0
+2014-2015,Super League Greece,31,2015-04-18,Panetolikos,AEL Kalloni,2.0,0.0,1.0
+2014-2015,Super League Greece,31,2015-04-18,Skoda Xanthi,Ergotelis,0.0,1.0,0.0
+2014-2015,Super League Greece,31,2015-04-18,Kerkyra,PAOK,0.0,1.0,0.0
+2014-2015,Super League Greece,31,2015-04-19,Panthrakikos,Panathinaikos,2.0,1.0,1.0
+2014-2015,Super League Greece,31,2015-04-19,OFI Crete,Panionios,0.0,3.0,0.0
+2014-2015,Super League Greece,31,2015-04-19,Atromitos,PAS Giannina,1.0,1.0,0.5
+2014-2015,Super League Greece,31,2015-04-19,Olympiacos,Levadiakos,4.0,0.0,1.0
+2014-2015,Super League Greece,31,2015-04-20,Veria,Asteras Tripoli,4.0,0.0,1.0
+2014-2015,Super League Greece,32,2015-04-25,AEL Kalloni,OFI Crete,3.0,0.0,1.0
+2014-2015,Super League Greece,32,2015-04-25,Panathinaikos,Skoda Xanthi,2.0,0.0,1.0
+2014-2015,Super League Greece,32,2015-04-26,PAOK,PAS Giannina,1.0,1.0,0.5
+2014-2015,Super League Greece,32,2015-04-26,Niki Volos,Veria,0.0,3.0,0.0
+2014-2015,Super League Greece,32,2015-04-26,Platanias,Panetolikos,2.0,0.0,1.0
+2014-2015,Super League Greece,32,2015-04-26,Levadiakos,Atromitos,2.0,1.0,1.0
+2014-2015,Super League Greece,32,2015-04-26,Asteras Tripoli,Panthrakikos,2.0,1.0,1.0
+2014-2015,Super League Greece,32,2015-04-26,Panionios,Olympiacos,2.0,2.0,0.5
+2014-2015,Super League Greece,32,2015-04-27,Ergotelis,Kerkyra,1.0,2.0,0.0
+2014-2015,Super League Greece,33,2015-05-03,Veria,Panthrakikos,0.0,1.0,0.0
+2014-2015,Super League Greece,33,2015-05-03,Panetolikos,Niki Volos,3.0,0.0,1.0
+2014-2015,Super League Greece,33,2015-05-03,PAS Giannina,Ergotelis,0.0,0.0,0.5
+2014-2015,Super League Greece,33,2015-05-03,Atromitos,Panionios,3.0,1.0,1.0
+2014-2015,Super League Greece,33,2015-05-03,Olympiacos,AEL Kalloni,5.0,0.0,1.0
+2014-2015,Super League Greece,33,2015-05-03,Kerkyra,Panathinaikos,1.0,1.0,0.5
+2014-2015,Super League Greece,33,2015-05-03,Skoda Xanthi,Asteras Tripoli,0.0,0.0,0.5
+2014-2015,Super League Greece,33,2015-05-03,PAOK,Levadiakos,1.0,0.0,1.0
+2014-2015,Super League Greece,33,2015-05-03,OFI Crete,Platanias,0.0,3.0,0.0
+2014-2015,Super League Greece,34,2015-05-10,Platanias,Olympiacos,1.0,1.0,0.5
+2014-2015,Super League Greece,34,2015-05-10,Panionios,PAOK,0.0,0.0,0.5
+2014-2015,Super League Greece,34,2015-05-10,AEL Kalloni,Atromitos,1.0,1.0,0.5
+2014-2015,Super League Greece,34,2015-05-10,Ergotelis,Levadiakos,0.0,2.0,0.0
+2014-2015,Super League Greece,34,2015-05-10,Panathinaikos,PAS Giannina,3.0,1.0,1.0
+2014-2015,Super League Greece,34,2015-05-10,Panthrakikos,Skoda Xanthi,2.0,0.0,1.0
+2014-2015,Super League Greece,34,2015-05-10,Niki Volos,OFI Crete,,,
+2014-2015,Super League Greece,34,2015-05-10,Asteras Tripoli,Kerkyra,2.0,0.0,1.0
+2014-2015,Super League Greece,34,2015-05-10,Panetolikos,Veria,2.0,0.0,1.0
+2014-2015,European competition play-offs,1,2015-05-20,Asteras Tripoli,Panathinaikos,0.0,4.0,0.0
+2014-2015,European competition play-offs,1,2015-05-20,Atromitos,PAOK,1.0,1.0,0.5
+2014-2015,European competition play-offs,2,2015-05-24,PAOK,Asteras Tripoli,0.0,0.0,0.5
+2014-2015,European competition play-offs,2,2015-05-24,Panathinaikos,Atromitos,2.0,0.0,1.0
+2014-2015,European competition play-offs,3,2015-05-27,Atromitos,Asteras Tripoli,0.0,0.0,0.5
+2014-2015,European competition play-offs,3,2015-05-27,PAOK,Panathinaikos,0.0,1.0,0.0
+2014-2015,European competition play-offs,4,2015-05-31,Asteras Tripoli,Atromitos,1.0,0.0,1.0
+2014-2015,European competition play-offs,4,2015-05-31,Panathinaikos,PAOK,2.0,0.0,1.0
+2014-2015,European competition play-offs,5,2015-06-03,Panathinaikos,Asteras Tripoli,0.0,0.0,0.5
+2014-2015,European competition play-offs,5,2015-06-03,PAOK,Atromitos,0.0,1.0,0.0
+2014-2015,European competition play-offs,6,2015-06-07,Atromitos,Panathinaikos,2.0,0.0,1.0
+2014-2015,European competition play-offs,6,2015-06-07,Asteras Tripoli,PAOK,1.0,0.0,1.0

@@ -1,0 +1,383 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2020-2021,Ligue 1,1,2020-08-21,Bordeaux,Nantes,0,0,0.5
+2020-2021,Ligue 1,1,2020-08-22,Dijon,Angers,0,1,0.0
+2020-2021,Ligue 1,1,2020-08-22,Lille,Rennes,1,1,0.5
+2020-2021,Ligue 1,1,2020-08-23,Monaco,Reims,2,2,0.5
+2020-2021,Ligue 1,1,2020-08-23,Nîmes,Brest,4,0,1.0
+2020-2021,Ligue 1,1,2020-08-23,Lorient,Strasbourg,3,1,1.0
+2020-2021,Ligue 1,1,2020-08-23,Nice,Lens,2,1,1.0
+2020-2021,Ligue 1,2,2020-08-28,Lyon,Dijon,4,1,1.0
+2020-2021,Ligue 1,2,2020-08-29,Rennes,Montpellier,2,1,1.0
+2020-2021,Ligue 1,2,2020-08-29,Strasbourg,Nice,0,2,0.0
+2020-2021,Ligue 1,2,2020-08-30,Reims,Lille,0,1,0.0
+2020-2021,Ligue 1,2,2020-08-30,Metz,Monaco,0,1,0.0
+2020-2021,Ligue 1,2,2020-08-30,Saint-Étienne,Lorient,2,0,1.0
+2020-2021,Ligue 1,2,2020-08-30,Nantes,Nîmes,2,1,1.0
+2020-2021,Ligue 1,2,2020-08-30,Angers,Bordeaux,0,2,0.0
+2020-2021,Ligue 1,2,2020-08-30,Brest,Marseille,2,3,0.0
+2020-2021,Ligue 1,2,2020-09-10,Lens,Paris S-G,1,0,1.0
+2020-2021,Ligue 1,3,2020-09-11,Bordeaux,Lyon,0,0,0.5
+2020-2021,Ligue 1,3,2020-09-12,Montpellier,Nice,3,1,1.0
+2020-2021,Ligue 1,3,2020-09-12,Saint-Étienne,Strasbourg,2,0,1.0
+2020-2021,Ligue 1,3,2020-09-13,Lille,Metz,1,0,1.0
+2020-2021,Ligue 1,3,2020-09-13,Lorient,Lens,2,3,0.0
+2020-2021,Ligue 1,3,2020-09-13,Angers,Reims,1,0,1.0
+2020-2021,Ligue 1,3,2020-09-13,Nîmes,Rennes,2,4,0.0
+2020-2021,Ligue 1,3,2020-09-13,Dijon,Brest,0,2,0.0
+2020-2021,Ligue 1,3,2020-09-13,Monaco,Nantes,2,1,1.0
+2020-2021,Ligue 1,3,2020-09-13,Paris S-G,Marseille,0,1,0.0
+2020-2021,Ligue 1,1,2020-09-15,Montpellier,Lyon,2,1,1.0
+2020-2021,Ligue 1,1,2020-09-16,Paris S-G,Metz,1,0,1.0
+2020-2021,Ligue 1,1,2020-09-17,Marseille,Saint-Étienne,0,2,0.0
+2020-2021,Ligue 1,4,2020-09-18,Lyon,Nîmes,0,0,0.5
+2020-2021,Ligue 1,4,2020-09-19,Lens,Bordeaux,2,1,1.0
+2020-2021,Ligue 1,4,2020-09-19,Rennes,Monaco,2,1,1.0
+2020-2021,Ligue 1,4,2020-09-20,Nice,Paris S-G,0,3,0.0
+2020-2021,Ligue 1,4,2020-09-20,Montpellier,Angers,4,1,1.0
+2020-2021,Ligue 1,4,2020-09-20,Strasbourg,Dijon,1,0,1.0
+2020-2021,Ligue 1,4,2020-09-20,Metz,Reims,2,1,1.0
+2020-2021,Ligue 1,4,2020-09-20,Brest,Lorient,3,2,1.0
+2020-2021,Ligue 1,4,2020-09-20,Nantes,Saint-Étienne,2,2,0.5
+2020-2021,Ligue 1,4,2020-09-20,Marseille,Lille,1,1,0.5
+2020-2021,Ligue 1,5,2020-09-25,Lille,Nantes,2,0,1.0
+2020-2021,Ligue 1,5,2020-09-26,Saint-Étienne,Rennes,0,3,0.0
+2020-2021,Ligue 1,5,2020-09-26,Marseille,Metz,1,1,0.5
+2020-2021,Ligue 1,5,2020-09-27,Bordeaux,Nice,0,0,0.5
+2020-2021,Ligue 1,5,2020-09-27,Monaco,Strasbourg,3,2,1.0
+2020-2021,Ligue 1,5,2020-09-27,Angers,Brest,3,2,1.0
+2020-2021,Ligue 1,5,2020-09-27,Dijon,Montpellier,2,2,0.5
+2020-2021,Ligue 1,5,2020-09-27,Nîmes,Lens,1,1,0.5
+2020-2021,Ligue 1,5,2020-09-27,Lorient,Lyon,1,1,0.5
+2020-2021,Ligue 1,5,2020-09-27,Reims,Paris S-G,0,2,0.0
+2020-2021,Ligue 1,6,2020-10-02,Paris S-G,Angers,6,1,1.0
+2020-2021,Ligue 1,6,2020-10-03,Lens,Saint-Étienne,2,0,1.0
+2020-2021,Ligue 1,6,2020-10-03,Nice,Nantes,2,1,1.0
+2020-2021,Ligue 1,6,2020-10-04,Montpellier,Nîmes,0,1,0.0
+2020-2021,Ligue 1,6,2020-10-04,Bordeaux,Dijon,3,0,1.0
+2020-2021,Ligue 1,6,2020-10-04,Brest,Monaco,1,0,1.0
+2020-2021,Ligue 1,6,2020-10-04,Metz,Lorient,3,1,1.0
+2020-2021,Ligue 1,6,2020-10-04,Strasbourg,Lille,0,3,0.0
+2020-2021,Ligue 1,6,2020-10-04,Rennes,Reims,2,2,0.5
+2020-2021,Ligue 1,6,2020-10-04,Lyon,Marseille,1,1,0.5
+2020-2021,Ligue 1,7,2020-10-16,Dijon,Rennes,1,1,0.5
+2020-2021,Ligue 1,7,2020-10-16,Nîmes,Paris S-G,0,4,0.0
+2020-2021,Ligue 1,7,2020-10-17,Reims,Lorient,1,3,0.0
+2020-2021,Ligue 1,7,2020-10-17,Marseille,Bordeaux,3,1,1.0
+2020-2021,Ligue 1,7,2020-10-18,Strasbourg,Lyon,2,3,0.0
+2020-2021,Ligue 1,7,2020-10-18,Angers,Metz,1,1,0.5
+2020-2021,Ligue 1,7,2020-10-18,Nantes,Brest,3,1,1.0
+2020-2021,Ligue 1,7,2020-10-18,Monaco,Montpellier,1,1,0.5
+2020-2021,Ligue 1,7,2020-10-18,Saint-Étienne,Nice,1,3,0.0
+2020-2021,Ligue 1,7,2020-10-18,Lille,Lens,4,0,1.0
+2020-2021,Ligue 1,8,2020-10-23,Rennes,Angers,1,2,0.0
+2020-2021,Ligue 1,8,2020-10-24,Lorient,Marseille,0,1,0.0
+2020-2021,Ligue 1,8,2020-10-24,Paris S-G,Dijon,4,0,1.0
+2020-2021,Ligue 1,8,2020-10-25,Montpellier,Reims,0,4,0.0
+2020-2021,Ligue 1,8,2020-10-25,Brest,Strasbourg,0,3,0.0
+2020-2021,Ligue 1,8,2020-10-25,Bordeaux,Nîmes,2,0,1.0
+2020-2021,Ligue 1,8,2020-10-25,Metz,Saint-Étienne,2,0,1.0
+2020-2021,Ligue 1,8,2020-10-25,Nice,Lille,1,1,0.5
+2020-2021,Ligue 1,8,2020-10-25,Lyon,Monaco,4,1,1.0
+2020-2021,Ligue 1,9,2020-10-31,Rennes,Brest,2,1,1.0
+2020-2021,Ligue 1,9,2020-10-31,Nantes,Paris S-G,0,3,0.0
+2020-2021,Ligue 1,9,2020-11-01,Saint-Étienne,Montpellier,0,1,0.0
+2020-2021,Ligue 1,9,2020-11-01,Angers,Nice,0,3,0.0
+2020-2021,Ligue 1,9,2020-11-01,Dijon,Lorient,0,0,0.5
+2020-2021,Ligue 1,9,2020-11-01,Reims,Strasbourg,2,1,1.0
+2020-2021,Ligue 1,9,2020-11-01,Nîmes,Metz,0,1,0.0
+2020-2021,Ligue 1,9,2020-11-01,Monaco,Bordeaux,4,0,1.0
+2020-2021,Ligue 1,9,2020-11-01,Lille,Lyon,1,1,0.5
+2020-2021,Ligue 1,10,2020-11-06,Strasbourg,Marseille,0,1,0.0
+2020-2021,Ligue 1,10,2020-11-07,Bordeaux,Montpellier,0,2,0.0
+2020-2021,Ligue 1,10,2020-11-07,Paris S-G,Rennes,3,0,1.0
+2020-2021,Ligue 1,10,2020-11-08,Brest,Lille,3,2,1.0
+2020-2021,Ligue 1,10,2020-11-08,Metz,Dijon,1,1,0.5
+2020-2021,Ligue 1,10,2020-11-08,Lorient,Nantes,0,2,0.0
+2020-2021,Ligue 1,10,2020-11-08,Nîmes,Angers,1,5,0.0
+2020-2021,Ligue 1,10,2020-11-08,Lens,Reims,4,4,0.5
+2020-2021,Ligue 1,10,2020-11-08,Nice,Monaco,1,2,0.0
+2020-2021,Ligue 1,10,2020-11-08,Lyon,Saint-Étienne,2,1,1.0
+2020-2021,Ligue 1,11,2020-11-20,Rennes,Bordeaux,0,1,0.0
+2020-2021,Ligue 1,11,2020-11-20,Monaco,Paris S-G,3,2,1.0
+2020-2021,Ligue 1,11,2020-11-21,Brest,Saint-Étienne,4,1,1.0
+2020-2021,Ligue 1,11,2020-11-22,Nantes,Metz,1,1,0.5
+2020-2021,Ligue 1,11,2020-11-22,Reims,Nîmes,0,1,0.0
+2020-2021,Ligue 1,11,2020-11-22,Dijon,Lens,0,1,0.0
+2020-2021,Ligue 1,11,2020-11-22,Montpellier,Strasbourg,4,3,1.0
+2020-2021,Ligue 1,11,2020-11-22,Angers,Lyon,0,1,0.0
+2020-2021,Ligue 1,11,2020-11-22,Lille,Lorient,4,0,1.0
+2020-2021,Ligue 1,8,2020-11-25,Lens,Nantes,1,1,0.5
+2020-2021,Ligue 1,12,2020-11-27,Strasbourg,Rennes,1,1,0.5
+2020-2021,Ligue 1,12,2020-11-28,Marseille,Nantes,3,1,1.0
+2020-2021,Ligue 1,12,2020-11-28,Paris S-G,Bordeaux,2,2,0.5
+2020-2021,Ligue 1,12,2020-11-29,Lyon,Reims,3,0,1.0
+2020-2021,Ligue 1,12,2020-11-29,Lens,Angers,1,3,0.0
+2020-2021,Ligue 1,12,2020-11-29,Monaco,Nîmes,3,0,1.0
+2020-2021,Ligue 1,12,2020-11-29,Metz,Brest,0,2,0.0
+2020-2021,Ligue 1,12,2020-11-29,Lorient,Montpellier,0,1,0.0
+2020-2021,Ligue 1,12,2020-11-29,Nice,Dijon,1,3,0.0
+2020-2021,Ligue 1,12,2020-11-29,Saint-Étienne,Lille,1,1,0.5
+2020-2021,Ligue 1,13,2020-12-04,Nîmes,Marseille,0,2,0.0
+2020-2021,Ligue 1,13,2020-12-05,Rennes,Lens,0,2,0.0
+2020-2021,Ligue 1,13,2020-12-05,Montpellier,Paris S-G,1,3,0.0
+2020-2021,Ligue 1,13,2020-12-06,Lille,Monaco,2,1,1.0
+2020-2021,Ligue 1,13,2020-12-06,Angers,Lorient,2,0,1.0
+2020-2021,Ligue 1,13,2020-12-06,Bordeaux,Brest,1,0,1.0
+2020-2021,Ligue 1,13,2020-12-06,Dijon,Saint-Étienne,0,0,0.5
+2020-2021,Ligue 1,13,2020-12-06,Nantes,Strasbourg,0,4,0.0
+2020-2021,Ligue 1,13,2020-12-06,Reims,Nice,0,0,0.5
+2020-2021,Ligue 1,13,2020-12-06,Metz,Lyon,1,3,0.0
+2020-2021,Ligue 1,14,2020-12-11,Saint-Étienne,Angers,0,0,0.5
+2020-2021,Ligue 1,14,2020-12-12,Marseille,Monaco,2,1,1.0
+2020-2021,Ligue 1,14,2020-12-12,Lens,Montpellier,2,3,0.0
+2020-2021,Ligue 1,14,2020-12-13,Nice,Rennes,0,1,0.0
+2020-2021,Ligue 1,14,2020-12-13,Lorient,Nîmes,3,0,1.0
+2020-2021,Ligue 1,14,2020-12-13,Brest,Reims,2,1,1.0
+2020-2021,Ligue 1,14,2020-12-13,Strasbourg,Metz,2,2,0.5
+2020-2021,Ligue 1,14,2020-12-13,Nantes,Dijon,1,1,0.5
+2020-2021,Ligue 1,14,2020-12-13,Lille,Bordeaux,2,1,1.0
+2020-2021,Ligue 1,14,2020-12-13,Paris S-G,Lyon,0,1,0.0
+2020-2021,Ligue 1,15,2020-12-16,Dijon,Lille,0,2,0.0
+2020-2021,Ligue 1,15,2020-12-16,Reims,Nantes,3,2,1.0
+2020-2021,Ligue 1,15,2020-12-16,Angers,Strasbourg,0,2,0.0
+2020-2021,Ligue 1,15,2020-12-16,Montpellier,Metz,0,2,0.0
+2020-2021,Ligue 1,15,2020-12-16,Nîmes,Nice,0,2,0.0
+2020-2021,Ligue 1,15,2020-12-16,Monaco,Lens,0,3,0.0
+2020-2021,Ligue 1,15,2020-12-16,Paris S-G,Lorient,2,0,1.0
+2020-2021,Ligue 1,15,2020-12-16,Rennes,Marseille,2,1,1.0
+2020-2021,Ligue 1,15,2020-12-16,Bordeaux,Saint-Étienne,1,2,0.0
+2020-2021,Ligue 1,15,2020-12-16,Lyon,Brest,2,2,0.5
+2020-2021,Ligue 1,16,2020-12-19,Metz,Lens,2,0,1.0
+2020-2021,Ligue 1,16,2020-12-19,Marseille,Reims,1,1,0.5
+2020-2021,Ligue 1,16,2020-12-19,Nice,Lyon,1,4,0.0
+2020-2021,Ligue 1,16,2020-12-20,Brest,Montpellier,2,2,0.5
+2020-2021,Ligue 1,16,2020-12-20,Strasbourg,Bordeaux,0,2,0.0
+2020-2021,Ligue 1,16,2020-12-20,Saint-Étienne,Nîmes,2,2,0.5
+2020-2021,Ligue 1,16,2020-12-20,Dijon,Monaco,0,1,0.0
+2020-2021,Ligue 1,16,2020-12-20,Nantes,Angers,1,1,0.5
+2020-2021,Ligue 1,16,2020-12-20,Lorient,Rennes,0,3,0.0
+2020-2021,Ligue 1,16,2020-12-20,Lille,Paris S-G,0,0,0.5
+2020-2021,Ligue 1,17,2020-12-23,Lens,Brest,2,1,1.0
+2020-2021,Ligue 1,17,2020-12-23,Bordeaux,Reims,1,3,0.0
+2020-2021,Ligue 1,17,2020-12-23,Rennes,Metz,1,0,1.0
+2020-2021,Ligue 1,17,2020-12-23,Nîmes,Dijon,1,3,0.0
+2020-2021,Ligue 1,17,2020-12-23,Nice,Lorient,2,2,0.5
+2020-2021,Ligue 1,17,2020-12-23,Montpellier,Lille,2,3,0.0
+2020-2021,Ligue 1,17,2020-12-23,Paris S-G,Strasbourg,4,0,1.0
+2020-2021,Ligue 1,17,2020-12-23,Lyon,Nantes,3,0,1.0
+2020-2021,Ligue 1,17,2020-12-23,Monaco,Saint-Étienne,2,2,0.5
+2020-2021,Ligue 1,17,2020-12-23,Angers,Marseille,2,1,1.0
+2020-2021,Ligue 1,18,2021-01-06,Strasbourg,Nîmes,5,0,1.0
+2020-2021,Ligue 1,18,2021-01-06,Nantes,Rennes,0,0,0.5
+2020-2021,Ligue 1,18,2021-01-06,Brest,Nice,2,0,1.0
+2020-2021,Ligue 1,18,2021-01-06,Metz,Bordeaux,0,0,0.5
+2020-2021,Ligue 1,18,2021-01-06,Lorient,Monaco,2,5,0.0
+2020-2021,Ligue 1,18,2021-01-06,Reims,Dijon,0,0,0.5
+2020-2021,Ligue 1,18,2021-01-06,Saint-Étienne,Paris S-G,1,1,0.5
+2020-2021,Ligue 1,18,2021-01-06,Lille,Angers,1,2,0.0
+2020-2021,Ligue 1,18,2021-01-06,Lyon,Lens,3,2,1.0
+2020-2021,Ligue 1,18,2021-01-06,Marseille,Montpellier,3,1,1.0
+2020-2021,Ligue 1,19,2021-01-09,Monaco,Angers,3,0,1.0
+2020-2021,Ligue 1,19,2021-01-09,Nîmes,Lille,0,1,0.0
+2020-2021,Ligue 1,19,2021-01-09,Metz,Nice,1,1,0.5
+2020-2021,Ligue 1,19,2021-01-09,Paris S-G,Brest,3,0,1.0
+2020-2021,Ligue 1,19,2021-01-09,Montpellier,Nantes,1,1,0.5
+2020-2021,Ligue 1,19,2021-01-09,Bordeaux,Lorient,2,1,1.0
+2020-2021,Ligue 1,19,2021-01-09,Rennes,Lyon,2,2,0.5
+2020-2021,Ligue 1,19,2021-01-09,Lens,Strasbourg,0,1,0.0
+2020-2021,Ligue 1,19,2021-01-09,Dijon,Marseille,0,0,0.5
+2020-2021,Ligue 1,19,2021-01-09,Reims,Saint-Étienne,3,1,1.0
+2020-2021,Ligue 1,20,2021-01-15,Montpellier,Monaco,2,3,0.0
+2020-2021,Ligue 1,20,2021-01-16,Marseille,Nîmes,1,2,0.0
+2020-2021,Ligue 1,20,2021-01-16,Angers,Paris S-G,0,1,0.0
+2020-2021,Ligue 1,20,2021-01-17,Brest,Rennes,1,2,0.0
+2020-2021,Ligue 1,20,2021-01-17,Strasbourg,Saint-Étienne,1,0,1.0
+2020-2021,Ligue 1,20,2021-01-17,Nice,Bordeaux,0,3,0.0
+2020-2021,Ligue 1,20,2021-01-17,Nantes,Lens,1,1,0.5
+2020-2021,Ligue 1,20,2021-01-17,Lille,Reims,2,1,1.0
+2020-2021,Ligue 1,20,2021-01-17,Lyon,Metz,0,1,0.0
+2020-2021,Ligue 1,9,2021-01-20,Marseille,Lens,0,1,0.0
+2020-2021,Ligue 1,21,2021-01-22,Paris S-G,Montpellier,4,0,1.0
+2020-2021,Ligue 1,21,2021-01-23,Lens,Nice,0,1,0.0
+2020-2021,Ligue 1,21,2021-01-23,Monaco,Marseille,3,1,1.0
+2020-2021,Ligue 1,21,2021-01-24,Bordeaux,Angers,2,1,1.0
+2020-2021,Ligue 1,21,2021-01-24,Metz,Nantes,2,0,1.0
+2020-2021,Ligue 1,21,2021-01-24,Reims,Brest,1,0,1.0
+2020-2021,Ligue 1,21,2021-01-24,Dijon,Strasbourg,1,1,0.5
+2020-2021,Ligue 1,21,2021-01-24,Rennes,Lille,0,1,0.0
+2020-2021,Ligue 1,21,2021-01-24,Saint-Étienne,Lyon,0,5,0.0
+2020-2021,Ligue 1,20,2021-01-27,Lorient,Dijon,3,2,1.0
+2020-2021,Ligue 1,22,2021-01-29,Lyon,Bordeaux,2,1,1.0
+2020-2021,Ligue 1,22,2021-01-30,Montpellier,Lens,1,2,0.0
+2020-2021,Ligue 1,22,2021-01-31,Nice,Saint-Étienne,0,1,0.0
+2020-2021,Ligue 1,22,2021-01-31,Lorient,Paris S-G,3,2,1.0
+2020-2021,Ligue 1,22,2021-01-31,Strasbourg,Reims,0,1,0.0
+2020-2021,Ligue 1,22,2021-01-31,Angers,Nîmes,3,1,1.0
+2020-2021,Ligue 1,22,2021-01-31,Brest,Metz,2,4,0.0
+2020-2021,Ligue 1,22,2021-01-31,Lille,Dijon,1,0,1.0
+2020-2021,Ligue 1,22,2021-01-31,Nantes,Monaco,1,2,0.0
+2020-2021,Ligue 1,23,2021-02-03,Reims,Angers,0,0,0.5
+2020-2021,Ligue 1,23,2021-02-03,Rennes,Lorient,1,1,0.5
+2020-2021,Ligue 1,23,2021-02-03,Bordeaux,Lille,0,3,0.0
+2020-2021,Ligue 1,23,2021-02-03,Strasbourg,Brest,2,2,0.5
+2020-2021,Ligue 1,23,2021-02-03,Metz,Montpellier,1,1,0.5
+2020-2021,Ligue 1,23,2021-02-03,Lens,Marseille,2,2,0.5
+2020-2021,Ligue 1,23,2021-02-03,Paris S-G,Nîmes,3,0,1.0
+2020-2021,Ligue 1,23,2021-02-03,Saint-Étienne,Nantes,1,1,0.5
+2020-2021,Ligue 1,23,2021-02-03,Dijon,Lyon,0,1,0.0
+2020-2021,Ligue 1,23,2021-02-03,Monaco,Nice,2,1,1.0
+2020-2021,Ligue 1,24,2021-02-06,Lorient,Reims,1,0,1.0
+2020-2021,Ligue 1,24,2021-02-06,Lyon,Strasbourg,3,0,1.0
+2020-2021,Ligue 1,24,2021-02-06,Lens,Rennes,0,0,0.5
+2020-2021,Ligue 1,24,2021-02-07,Brest,Bordeaux,2,1,1.0
+2020-2021,Ligue 1,24,2021-02-07,Montpellier,Dijon,4,2,1.0
+2020-2021,Ligue 1,24,2021-02-07,Nîmes,Monaco,3,4,0.0
+2020-2021,Ligue 1,24,2021-02-07,Nice,Angers,3,0,1.0
+2020-2021,Ligue 1,24,2021-02-07,Saint-Étienne,Metz,1,0,1.0
+2020-2021,Ligue 1,24,2021-02-07,Nantes,Lille,0,2,0.0
+2020-2021,Ligue 1,24,2021-02-07,Marseille,Paris S-G,0,2,0.0
+2020-2021,Ligue 1,25,2021-02-13,Paris S-G,Nice,2,1,1.0
+2020-2021,Ligue 1,25,2021-02-13,Reims,Lens,1,1,0.5
+2020-2021,Ligue 1,25,2021-02-13,Lyon,Montpellier,1,2,0.0
+2020-2021,Ligue 1,25,2021-02-14,Monaco,Lorient,2,2,0.5
+2020-2021,Ligue 1,25,2021-02-14,Metz,Strasbourg,1,2,0.0
+2020-2021,Ligue 1,25,2021-02-14,Angers,Nantes,1,3,0.0
+2020-2021,Ligue 1,25,2021-02-14,Dijon,Nîmes,0,2,0.0
+2020-2021,Ligue 1,25,2021-02-14,Rennes,Saint-Étienne,0,2,0.0
+2020-2021,Ligue 1,25,2021-02-14,Lille,Brest,0,0,0.5
+2020-2021,Ligue 1,25,2021-02-14,Bordeaux,Marseille,0,0,0.5
+2020-2021,Ligue 1,11,2021-02-17,Marseille,Nice,3,2,1.0
+2020-2021,Ligue 1,26,2021-02-19,Brest,Lyon,2,3,0.0
+2020-2021,Ligue 1,26,2021-02-20,Saint-Étienne,Reims,1,1,0.5
+2020-2021,Ligue 1,26,2021-02-20,Nantes,Marseille,1,1,0.5
+2020-2021,Ligue 1,26,2021-02-21,Montpellier,Rennes,2,1,1.0
+2020-2021,Ligue 1,26,2021-02-21,Nice,Metz,1,2,0.0
+2020-2021,Ligue 1,26,2021-02-21,Strasbourg,Angers,0,0,0.5
+2020-2021,Ligue 1,26,2021-02-21,Lens,Dijon,2,1,1.0
+2020-2021,Ligue 1,26,2021-02-21,Nîmes,Bordeaux,2,0,1.0
+2020-2021,Ligue 1,26,2021-02-21,Lorient,Lille,1,4,0.0
+2020-2021,Ligue 1,26,2021-02-21,Paris S-G,Monaco,0,2,0.0
+2020-2021,Ligue 1,21,2021-02-24,Nîmes,Lorient,1,0,1.0
+2020-2021,Ligue 1,27,2021-02-26,Rennes,Nice,1,2,0.0
+2020-2021,Ligue 1,27,2021-02-27,Bordeaux,Metz,1,2,0.0
+2020-2021,Ligue 1,27,2021-02-27,Dijon,Paris S-G,0,4,0.0
+2020-2021,Ligue 1,27,2021-02-28,Monaco,Brest,2,0,1.0
+2020-2021,Ligue 1,27,2021-02-28,Nîmes,Nantes,1,1,0.5
+2020-2021,Ligue 1,27,2021-02-28,Lorient,Saint-Étienne,2,1,1.0
+2020-2021,Ligue 1,27,2021-02-28,Reims,Montpellier,0,0,0.5
+2020-2021,Ligue 1,27,2021-02-28,Angers,Lens,2,2,0.5
+2020-2021,Ligue 1,27,2021-02-28,Lille,Strasbourg,1,1,0.5
+2020-2021,Ligue 1,27,2021-02-28,Marseille,Lyon,1,1,0.5
+2020-2021,Ligue 1,28,2021-03-03,Nice,Nîmes,2,1,1.0
+2020-2021,Ligue 1,28,2021-03-03,Lyon,Rennes,1,0,1.0
+2020-2021,Ligue 1,28,2021-03-03,Metz,Angers,0,1,0.0
+2020-2021,Ligue 1,28,2021-03-03,Saint-Étienne,Lens,2,3,0.0
+2020-2021,Ligue 1,28,2021-03-03,Brest,Dijon,3,1,1.0
+2020-2021,Ligue 1,28,2021-03-03,Bordeaux,Paris S-G,0,1,0.0
+2020-2021,Ligue 1,28,2021-03-03,Strasbourg,Monaco,1,0,1.0
+2020-2021,Ligue 1,28,2021-03-03,Lille,Marseille,2,0,1.0
+2020-2021,Ligue 1,28,2021-03-03,Nantes,Reims,1,2,0.0
+2020-2021,Ligue 1,28,2021-03-03,Montpellier,Lorient,1,1,0.5
+2020-2021,Ligue 1,22,2021-03-10,Marseille,Rennes,1,0,1.0
+2020-2021,Ligue 1,29,2021-03-12,Reims,Lyon,1,1,0.5
+2020-2021,Ligue 1,29,2021-03-13,Angers,Saint-Étienne,0,1,0.0
+2020-2021,Ligue 1,29,2021-03-13,Marseille,Brest,3,1,1.0
+2020-2021,Ligue 1,29,2021-03-14,Nîmes,Montpellier,1,1,0.5
+2020-2021,Ligue 1,29,2021-03-14,Rennes,Strasbourg,1,0,1.0
+2020-2021,Ligue 1,29,2021-03-14,Lens,Metz,2,2,0.5
+2020-2021,Ligue 1,29,2021-03-14,Lorient,Nice,1,1,0.5
+2020-2021,Ligue 1,29,2021-03-14,Dijon,Bordeaux,1,3,0.0
+2020-2021,Ligue 1,29,2021-03-14,Monaco,Lille,0,0,0.5
+2020-2021,Ligue 1,29,2021-03-14,Paris S-G,Nantes,1,2,0.0
+2020-2021,Ligue 1,30,2021-03-19,Saint-Étienne,Monaco,0,4,0.0
+2020-2021,Ligue 1,30,2021-03-20,Metz,Rennes,1,3,0.0
+2020-2021,Ligue 1,30,2021-03-20,Nice,Marseille,3,0,1.0
+2020-2021,Ligue 1,30,2021-03-21,Strasbourg,Lens,1,2,0.0
+2020-2021,Ligue 1,30,2021-03-21,Dijon,Reims,0,1,0.0
+2020-2021,Ligue 1,30,2021-03-21,Nantes,Lorient,1,1,0.5
+2020-2021,Ligue 1,30,2021-03-21,Montpellier,Bordeaux,3,1,1.0
+2020-2021,Ligue 1,30,2021-03-21,Brest,Angers,0,0,0.5
+2020-2021,Ligue 1,30,2021-03-21,Lille,Nîmes,1,2,0.0
+2020-2021,Ligue 1,30,2021-03-21,Lyon,Paris S-G,2,4,0.0
+2020-2021,Ligue 1,31,2021-04-03,Monaco,Metz,4,0,1.0
+2020-2021,Ligue 1,31,2021-04-03,Paris S-G,Lille,0,1,0.0
+2020-2021,Ligue 1,31,2021-04-03,Lens,Lyon,1,1,0.5
+2020-2021,Ligue 1,31,2021-04-04,Angers,Montpellier,1,1,0.5
+2020-2021,Ligue 1,31,2021-04-04,Nantes,Nice,1,2,0.0
+2020-2021,Ligue 1,31,2021-04-04,Reims,Rennes,2,2,0.5
+2020-2021,Ligue 1,31,2021-04-04,Lorient,Brest,1,0,1.0
+2020-2021,Ligue 1,31,2021-04-04,Bordeaux,Strasbourg,2,3,0.0
+2020-2021,Ligue 1,31,2021-04-04,Nîmes,Saint-Étienne,0,2,0.0
+2020-2021,Ligue 1,31,2021-04-04,Marseille,Dijon,2,0,1.0
+2020-2021,Ligue 1,32,2021-04-09,Metz,Lille,0,2,0.0
+2020-2021,Ligue 1,32,2021-04-10,Strasbourg,Paris S-G,1,4,0.0
+2020-2021,Ligue 1,32,2021-04-10,Montpellier,Marseille,3,3,0.5
+2020-2021,Ligue 1,32,2021-04-11,Rennes,Nantes,1,0,1.0
+2020-2021,Ligue 1,32,2021-04-11,Saint-Étienne,Bordeaux,4,1,1.0
+2020-2021,Ligue 1,32,2021-04-11,Lens,Lorient,4,1,1.0
+2020-2021,Ligue 1,32,2021-04-11,Brest,Nîmes,1,1,0.5
+2020-2021,Ligue 1,32,2021-04-11,Nice,Reims,0,0,0.5
+2020-2021,Ligue 1,32,2021-04-11,Monaco,Dijon,3,0,1.0
+2020-2021,Ligue 1,32,2021-04-11,Lyon,Angers,3,0,1.0
+2020-2021,Ligue 1,33,2021-04-16,Lille,Montpellier,1,1,0.5
+2020-2021,Ligue 1,33,2021-04-17,Angers,Rennes,0,3,0.0
+2020-2021,Ligue 1,33,2021-04-17,Marseille,Lorient,3,2,1.0
+2020-2021,Ligue 1,33,2021-04-18,Paris S-G,Saint-Étienne,3,2,1.0
+2020-2021,Ligue 1,33,2021-04-18,Brest,Lens,1,1,0.5
+2020-2021,Ligue 1,33,2021-04-18,Dijon,Nice,2,0,1.0
+2020-2021,Ligue 1,33,2021-04-18,Nîmes,Strasbourg,1,1,0.5
+2020-2021,Ligue 1,33,2021-04-18,Reims,Metz,0,0,0.5
+2020-2021,Ligue 1,33,2021-04-18,Bordeaux,Monaco,0,3,0.0
+2020-2021,Ligue 1,33,2021-04-18,Nantes,Lyon,1,2,0.0
+2020-2021,Ligue 1,34,2021-04-23,Reims,Marseille,1,3,0.0
+2020-2021,Ligue 1,34,2021-04-24,Saint-Étienne,Brest,1,2,0.0
+2020-2021,Ligue 1,34,2021-04-24,Metz,Paris S-G,1,3,0.0
+2020-2021,Ligue 1,34,2021-04-25,Nice,Montpellier,3,1,1.0
+2020-2021,Ligue 1,34,2021-04-25,Strasbourg,Nantes,1,2,0.0
+2020-2021,Ligue 1,34,2021-04-25,Rennes,Dijon,5,1,1.0
+2020-2021,Ligue 1,34,2021-04-25,Lens,Nîmes,2,1,1.0
+2020-2021,Ligue 1,34,2021-04-25,Lorient,Bordeaux,4,1,1.0
+2020-2021,Ligue 1,34,2021-04-25,Angers,Monaco,0,1,0.0
+2020-2021,Ligue 1,34,2021-04-25,Lyon,Lille,2,3,0.0
+2020-2021,Ligue 1,35,2021-04-30,Marseille,Strasbourg,1,1,0.5
+2020-2021,Ligue 1,35,2021-05-01,Paris S-G,Lens,2,1,1.0
+2020-2021,Ligue 1,35,2021-05-01,Lille,Nice,2,0,1.0
+2020-2021,Ligue 1,35,2021-05-02,Bordeaux,Rennes,1,0,1.0
+2020-2021,Ligue 1,35,2021-05-02,Dijon,Metz,1,5,0.0
+2020-2021,Ligue 1,35,2021-05-02,Lorient,Angers,2,0,1.0
+2020-2021,Ligue 1,35,2021-05-02,Nîmes,Reims,2,2,0.5
+2020-2021,Ligue 1,35,2021-05-02,Brest,Nantes,1,4,0.0
+2020-2021,Ligue 1,35,2021-05-02,Montpellier,Saint-Étienne,1,2,0.0
+2020-2021,Ligue 1,35,2021-05-02,Monaco,Lyon,2,3,0.0
+2020-2021,Ligue 1,36,2021-05-07,Lens,Lille,0,3,0.0
+2020-2021,Ligue 1,36,2021-05-08,Nantes,Bordeaux,3,0,1.0
+2020-2021,Ligue 1,36,2021-05-08,Lyon,Lorient,4,1,1.0
+2020-2021,Ligue 1,36,2021-05-09,Saint-Étienne,Marseille,1,0,1.0
+2020-2021,Ligue 1,36,2021-05-09,Nice,Brest,3,2,1.0
+2020-2021,Ligue 1,36,2021-05-09,Angers,Dijon,3,0,1.0
+2020-2021,Ligue 1,36,2021-05-09,Strasbourg,Montpellier,2,3,0.0
+2020-2021,Ligue 1,36,2021-05-09,Metz,Nîmes,0,3,0.0
+2020-2021,Ligue 1,36,2021-05-09,Reims,Monaco,0,1,0.0
+2020-2021,Ligue 1,36,2021-05-09,Rennes,Paris S-G,1,1,0.5
+2020-2021,Ligue 1,37,2021-05-16,Montpellier,Brest,0,0,0.5
+2020-2021,Ligue 1,37,2021-05-16,Monaco,Rennes,2,1,1.0
+2020-2021,Ligue 1,37,2021-05-16,Dijon,Nantes,0,4,0.0
+2020-2021,Ligue 1,37,2021-05-16,Nice,Strasbourg,0,2,0.0
+2020-2021,Ligue 1,37,2021-05-16,Lorient,Metz,2,1,1.0
+2020-2021,Ligue 1,37,2021-05-16,Bordeaux,Lens,3,0,1.0
+2020-2021,Ligue 1,37,2021-05-16,Paris S-G,Reims,4,0,1.0
+2020-2021,Ligue 1,37,2021-05-16,Nîmes,Lyon,2,5,0.0
+2020-2021,Ligue 1,37,2021-05-16,Lille,Saint-Étienne,0,0,0.5
+2020-2021,Ligue 1,37,2021-05-16,Marseille,Angers,3,2,1.0
+2020-2021,Ligue 1,38,2021-05-23,Reims,Bordeaux,1,2,0.0
+2020-2021,Ligue 1,38,2021-05-23,Nantes,Montpellier,1,2,0.0
+2020-2021,Ligue 1,38,2021-05-23,Angers,Lille,1,2,0.0
+2020-2021,Ligue 1,38,2021-05-23,Strasbourg,Lorient,1,1,0.5
+2020-2021,Ligue 1,38,2021-05-23,Metz,Marseille,1,1,0.5
+2020-2021,Ligue 1,38,2021-05-23,Rennes,Nîmes,2,0,1.0
+2020-2021,Ligue 1,38,2021-05-23,Saint-Étienne,Dijon,0,1,0.0
+2020-2021,Ligue 1,38,2021-05-23,Lyon,Nice,2,3,0.0
+2020-2021,Ligue 1,38,2021-05-23,Lens,Monaco,0,0,0.5
+2020-2021,Ligue 1,38,2021-05-23,Brest,Paris S-G,0,2,0.0
+2020-2021,French 1/2 Relegation/Promotion Playoff,,2021-05-27,Toulouse,Nantes,1,2,0.0
+2020-2021,French 1/2 Relegation/Promotion Playoff,,2021-05-30,Nantes,Toulouse,0,1,0.0

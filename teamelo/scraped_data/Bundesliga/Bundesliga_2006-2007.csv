@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2006-2007,1,2006-08-11,Bayern Munich,Dortmund,2,0,1.0
+2006-2007,1,2006-08-12,Gladbach,Energie Cottbus,2,0,1.0
+2006-2007,1,2006-08-12,Leverkusen,AA Aachen,3,0,1.0
+2006-2007,1,2006-08-12,Stuttgart,Nürnberg,0,3,0.0
+2006-2007,1,2006-08-12,Schalke 04,Eint Frankfurt,1,1,0.5
+2006-2007,1,2006-08-12,Hamburger SV,Arminia,1,1,0.5
+2006-2007,1,2006-08-12,Mainz 05,Bochum,2,1,1.0
+2006-2007,1,2006-08-13,Hannover 96,Werder Bremen,2,4,0.0
+2006-2007,1,2006-08-13,Wolfsburg,Hertha BSC,0,0,0.5
+2006-2007,2,2006-08-18,Nürnberg,Gladbach,1,0,1.0
+2006-2007,2,2006-08-19,Werder Bremen,Leverkusen,2,1,1.0
+2006-2007,2,2006-08-19,Eint Frankfurt,Wolfsburg,0,0,0.5
+2006-2007,2,2006-08-19,Hertha BSC,Hannover 96,4,0,1.0
+2006-2007,2,2006-08-19,Energie Cottbus,Hamburger SV,2,2,0.5
+2006-2007,2,2006-08-19,AA Aachen,Schalke 04,0,1,0.0
+2006-2007,2,2006-08-19,Dortmund,Mainz 05,1,1,0.5
+2006-2007,2,2006-08-20,Bochum,Bayern Munich,1,2,0.0
+2006-2007,2,2006-08-20,Arminia,Stuttgart,2,3,0.0
+2006-2007,3,2006-08-25,Schalke 04,Werder Bremen,2,0,1.0
+2006-2007,3,2006-08-26,Hannover 96,AA Aachen,0,3,0.0
+2006-2007,3,2006-08-26,Stuttgart,Dortmund,1,3,0.0
+2006-2007,3,2006-08-26,Bochum,Energie Cottbus,0,1,0.0
+2006-2007,3,2006-08-26,Leverkusen,Wolfsburg,1,1,0.5
+2006-2007,3,2006-08-26,Bayern Munich,Nürnberg,0,0,0.5
+2006-2007,3,2006-08-26,Gladbach,Arminia,1,0,1.0
+2006-2007,3,2006-08-27,Mainz 05,Eint Frankfurt,1,1,0.5
+2006-2007,3,2006-08-27,Hamburger SV,Hertha BSC,1,1,0.5
+2006-2007,4,2006-09-15,Wolfsburg,Hannover 96,1,2,0.0
+2006-2007,4,2006-09-16,Energie Cottbus,Mainz 05,2,0,1.0
+2006-2007,4,2006-09-16,Werder Bremen,Stuttgart,2,3,0.0
+2006-2007,4,2006-09-16,Dortmund,Hamburger SV,1,0,1.0
+2006-2007,4,2006-09-16,AA Aachen,Gladbach,4,2,1.0
+2006-2007,4,2006-09-16,Arminia,Bayern Munich,2,1,1.0
+2006-2007,4,2006-09-16,Nürnberg,Bochum,1,1,0.5
+2006-2007,4,2006-09-17,Hertha BSC,Schalke 04,2,0,1.0
+2006-2007,4,2006-09-17,Eint Frankfurt,Leverkusen,3,1,1.0
+2006-2007,5,2006-09-22,Gladbach,Dortmund,1,0,1.0
+2006-2007,5,2006-09-23,Hannover 96,Leverkusen,1,1,0.5
+2006-2007,5,2006-09-23,Mainz 05,Hertha BSC,1,1,0.5
+2006-2007,5,2006-09-23,Bayern Munich,AA Aachen,2,1,1.0
+2006-2007,5,2006-09-23,Schalke 04,Wolfsburg,2,0,1.0
+2006-2007,5,2006-09-23,Stuttgart,Eint Frankfurt,1,1,0.5
+2006-2007,5,2006-09-23,Hamburger SV,Werder Bremen,1,1,0.5
+2006-2007,5,2006-09-24,Energie Cottbus,Nürnberg,1,1,0.5
+2006-2007,5,2006-09-24,Bochum,Arminia,2,1,1.0
+2006-2007,6,2006-09-29,Dortmund,Hannover 96,2,2,0.5
+2006-2007,6,2006-09-30,Werder Bremen,Gladbach,3,0,1.0
+2006-2007,6,2006-09-30,Nürnberg,Mainz 05,1,1,0.5
+2006-2007,6,2006-09-30,AA Aachen,Bochum,2,1,1.0
+2006-2007,6,2006-09-30,Arminia,Energie Cottbus,3,1,1.0
+2006-2007,6,2006-09-30,Eint Frankfurt,Hamburger SV,2,2,0.5
+2006-2007,6,2006-09-30,Wolfsburg,Bayern Munich,1,0,1.0
+2006-2007,6,2006-10-01,Leverkusen,Schalke 04,3,1,1.0
+2006-2007,6,2006-10-01,Hertha BSC,Stuttgart,2,2,0.5
+2006-2007,7,2006-10-13,Mainz 05,AA Aachen,1,3,0.0
+2006-2007,7,2006-10-14,Stuttgart,Leverkusen,3,0,1.0
+2006-2007,7,2006-10-14,Bochum,Werder Bremen,0,6,0.0
+2006-2007,7,2006-10-14,Hamburger SV,Schalke 04,1,2,0.0
+2006-2007,7,2006-10-14,Bayern Munich,Hertha BSC,4,2,1.0
+2006-2007,7,2006-10-14,Hannover 96,Eint Frankfurt,1,1,0.5
+2006-2007,7,2006-10-14,Gladbach,Wolfsburg,3,1,1.0
+2006-2007,7,2006-10-15,Energie Cottbus,Dortmund,2,3,0.0
+2006-2007,7,2006-10-15,Nürnberg,Arminia,1,1,0.5
+2006-2007,8,2006-10-20,Dortmund,Bochum,1,1,0.5
+2006-2007,8,2006-10-21,Wolfsburg,Stuttgart,1,1,0.5
+2006-2007,8,2006-10-21,Arminia,Mainz 05,1,0,1.0
+2006-2007,8,2006-10-21,Schalke 04,Hannover 96,2,1,1.0
+2006-2007,8,2006-10-21,Werder Bremen,Bayern Munich,3,1,1.0
+2006-2007,8,2006-10-21,AA Aachen,Energie Cottbus,1,2,0.0
+2006-2007,8,2006-10-21,Hertha BSC,Gladbach,2,1,1.0
+2006-2007,8,2006-10-22,Eint Frankfurt,Nürnberg,2,2,0.5
+2006-2007,8,2006-10-22,Leverkusen,Hamburger SV,1,2,0.0
+2006-2007,9,2006-10-27,Mainz 05,Werder Bremen,1,6,0.0
+2006-2007,9,2006-10-28,Gladbach,Leverkusen,0,2,0.0
+2006-2007,9,2006-10-28,Nürnberg,Dortmund,1,1,0.5
+2006-2007,9,2006-10-28,Bochum,Wolfsburg,0,1,0.0
+2006-2007,9,2006-10-28,Hamburger SV,Hannover 96,0,0,0.5
+2006-2007,9,2006-10-28,Bayern Munich,Eint Frankfurt,2,0,1.0
+2006-2007,9,2006-10-28,Energie Cottbus,Hertha BSC,2,0,1.0
+2006-2007,9,2006-10-29,Arminia,AA Aachen,5,1,1.0
+2006-2007,9,2006-10-29,Stuttgart,Schalke 04,3,0,1.0
+2006-2007,10,2006-11-03,Hannover 96,Bochum,0,2,0.0
+2006-2007,10,2006-11-04,AA Aachen,Stuttgart,2,4,0.0
+2006-2007,10,2006-11-04,Hertha BSC,Nürnberg,2,1,1.0
+2006-2007,10,2006-11-04,Wolfsburg,Hamburger SV,1,0,1.0
+2006-2007,10,2006-11-04,Dortmund,Arminia,1,1,0.5
+2006-2007,10,2006-11-04,Leverkusen,Mainz 05,1,1,0.5
+2006-2007,10,2006-11-04,Werder Bremen,Energie Cottbus,1,1,0.5
+2006-2007,10,2006-11-05,Eint Frankfurt,Gladbach,1,0,1.0
+2006-2007,10,2006-11-05,Schalke 04,Bayern Munich,2,2,0.5
+2006-2007,11,2006-11-07,Stuttgart,Hamburger SV,2,0,1.0
+2006-2007,11,2006-11-07,Dortmund,AA Aachen,0,0,0.5
+2006-2007,11,2006-11-07,Mainz 05,Wolfsburg,1,2,0.0
+2006-2007,11,2006-11-07,Nürnberg,Werder Bremen,1,2,0.0
+2006-2007,11,2006-11-08,Energie Cottbus,Eint Frankfurt,0,1,0.0
+2006-2007,11,2006-11-08,Bochum,Leverkusen,1,3,0.0
+2006-2007,11,2006-11-08,Arminia,Hertha BSC,2,2,0.5
+2006-2007,11,2006-11-08,Bayern Munich,Hannover 96,0,1,0.0
+2006-2007,11,2006-11-08,Gladbach,Schalke 04,0,2,0.0
+2006-2007,12,2006-11-10,Werder Bremen,Dortmund,1,3,0.0
+2006-2007,12,2006-11-11,Leverkusen,Bayern Munich,2,3,0.0
+2006-2007,12,2006-11-11,Eint Frankfurt,Arminia,0,3,0.0
+2006-2007,12,2006-11-11,Schalke 04,Mainz 05,4,0,1.0
+2006-2007,12,2006-11-11,Hertha BSC,Bochum,3,3,0.5
+2006-2007,12,2006-11-11,Wolfsburg,Energie Cottbus,0,0,0.5
+2006-2007,12,2006-11-11,Hamburger SV,Gladbach,1,1,0.5
+2006-2007,12,2006-11-12,AA Aachen,Nürnberg,1,1,0.5
+2006-2007,12,2006-11-12,Hannover 96,Stuttgart,1,2,0.0
+2006-2007,13,2006-11-17,Bochum,Eint Frankfurt,4,3,1.0
+2006-2007,13,2006-11-18,Dortmund,Hertha BSC,1,2,0.0
+2006-2007,13,2006-11-18,Bayern Munich,Stuttgart,2,1,1.0
+2006-2007,13,2006-11-18,AA Aachen,Werder Bremen,2,2,0.5
+2006-2007,13,2006-11-18,Energie Cottbus,Schalke 04,2,4,0.0
+2006-2007,13,2006-11-18,Mainz 05,Hamburger SV,0,0,0.5
+2006-2007,13,2006-11-18,Nürnberg,Leverkusen,3,2,1.0
+2006-2007,13,2006-11-19,Arminia,Wolfsburg,0,0,0.5
+2006-2007,13,2006-11-19,Gladbach,Hannover 96,0,1,0.0
+2006-2007,14,2006-11-24,Schalke 04,Bochum,2,1,1.0
+2006-2007,14,2006-11-25,Hertha BSC,AA Aachen,2,1,1.0
+2006-2007,14,2006-11-25,Werder Bremen,Arminia,3,0,1.0
+2006-2007,14,2006-11-25,Hannover 96,Mainz 05,1,0,1.0
+2006-2007,14,2006-11-25,Hamburger SV,Bayern Munich,1,2,0.0
+2006-2007,14,2006-11-25,Wolfsburg,Nürnberg,1,1,0.5
+2006-2007,14,2006-11-25,Eint Frankfurt,Dortmund,1,1,0.5
+2006-2007,14,2006-11-26,Stuttgart,Gladbach,1,0,1.0
+2006-2007,14,2006-11-26,Leverkusen,Energie Cottbus,3,1,1.0
+2006-2007,15,2006-12-01,Mainz 05,Stuttgart,0,0,0.5
+2006-2007,15,2006-12-02,Arminia,Leverkusen,0,0,0.5
+2006-2007,15,2006-12-02,Energie Cottbus,Hannover 96,0,1,0.0
+2006-2007,15,2006-12-02,Bayern Munich,Gladbach,1,1,0.5
+2006-2007,15,2006-12-02,Dortmund,Wolfsburg,1,0,1.0
+2006-2007,15,2006-12-02,Werder Bremen,Hertha BSC,3,1,1.0
+2006-2007,15,2006-12-02,Bochum,Hamburger SV,2,1,1.0
+2006-2007,15,2006-12-03,Nürnberg,Schalke 04,0,0,0.5
+2006-2007,15,2006-12-03,AA Aachen,Eint Frankfurt,2,3,0.0
+2006-2007,16,2006-12-08,Leverkusen,Hertha BSC,2,1,1.0
+2006-2007,16,2006-12-09,Bayern Munich,Energie Cottbus,2,1,1.0
+2006-2007,16,2006-12-09,Eint Frankfurt,Werder Bremen,2,6,0.0
+2006-2007,16,2006-12-09,Stuttgart,Bochum,1,0,1.0
+2006-2007,16,2006-12-09,Gladbach,Mainz 05,1,1,0.5
+2006-2007,16,2006-12-09,Hannover 96,Arminia,1,1,0.5
+2006-2007,16,2006-12-09,Hamburger SV,Nürnberg,0,0,0.5
+2006-2007,16,2006-12-10,Wolfsburg,AA Aachen,1,2,0.0
+2006-2007,16,2006-12-10,Schalke 04,Dortmund,3,1,1.0
+2006-2007,17,2006-12-15,Bochum,Gladbach,2,0,1.0
+2006-2007,17,2006-12-16,AA Aachen,Hamburger SV,3,3,0.5
+2006-2007,17,2006-12-16,Hertha BSC,Eint Frankfurt,1,0,1.0
+2006-2007,17,2006-12-16,Mainz 05,Bayern Munich,0,4,0.0
+2006-2007,17,2006-12-16,Nürnberg,Hannover 96,3,1,1.0
+2006-2007,17,2006-12-16,Energie Cottbus,Stuttgart,0,0,0.5
+2006-2007,17,2006-12-16,Arminia,Schalke 04,0,1,0.0
+2006-2007,17,2006-12-17,Dortmund,Leverkusen,1,2,0.0
+2006-2007,17,2006-12-17,Werder Bremen,Wolfsburg,2,1,1.0
+2006-2007,18,2007-01-26,Dortmund,Bayern Munich,3,2,1.0
+2006-2007,18,2007-01-27,Energie Cottbus,Gladbach,3,1,1.0
+2006-2007,18,2007-01-27,Eint Frankfurt,Schalke 04,1,3,0.0
+2006-2007,18,2007-01-27,Bochum,Mainz 05,0,1,0.0
+2006-2007,18,2007-01-27,Hertha BSC,Wolfsburg,2,1,1.0
+2006-2007,18,2007-01-27,Arminia,Hamburger SV,1,1,0.5
+2006-2007,18,2007-01-27,Nürnberg,Stuttgart,4,1,1.0
+2006-2007,18,2007-01-28,Werder Bremen,Hannover 96,3,0,1.0
+2006-2007,18,2007-01-28,AA Aachen,Leverkusen,2,3,0.0
+2006-2007,19,2007-01-30,Stuttgart,Arminia,3,2,1.0
+2006-2007,19,2007-01-30,Wolfsburg,Eint Frankfurt,2,2,0.5
+2006-2007,19,2007-01-30,Bayern Munich,Bochum,0,0,0.5
+2006-2007,19,2007-01-30,Gladbach,Nürnberg,0,0,0.5
+2006-2007,19,2007-01-31,Hannover 96,Hertha BSC,5,0,1.0
+2006-2007,19,2007-01-31,Schalke 04,AA Aachen,2,1,1.0
+2006-2007,19,2007-01-31,Leverkusen,Werder Bremen,0,2,0.0
+2006-2007,19,2007-01-31,Mainz 05,Dortmund,1,0,1.0
+2006-2007,19,2007-01-31,Hamburger SV,Energie Cottbus,1,1,0.5
+2006-2007,20,2007-02-02,Nürnberg,Bayern Munich,3,0,1.0
+2006-2007,20,2007-02-03,Wolfsburg,Leverkusen,3,2,1.0
+2006-2007,20,2007-02-03,Hertha BSC,Hamburger SV,2,1,1.0
+2006-2007,20,2007-02-03,Energie Cottbus,Bochum,0,0,0.5
+2006-2007,20,2007-02-03,AA Aachen,Hannover 96,1,4,0.0
+2006-2007,20,2007-02-03,Arminia,Gladbach,0,2,0.0
+2006-2007,20,2007-02-03,Eint Frankfurt,Mainz 05,0,0,0.5
+2006-2007,20,2007-02-04,Werder Bremen,Schalke 04,0,2,0.0
+2006-2007,20,2007-02-04,Dortmund,Stuttgart,0,1,0.0
+2006-2007,21,2007-02-09,Hannover 96,Wolfsburg,2,2,0.5
+2006-2007,21,2007-02-10,Gladbach,AA Aachen,0,0,0.5
+2006-2007,21,2007-02-10,Schalke 04,Hertha BSC,2,0,1.0
+2006-2007,21,2007-02-10,Hamburger SV,Dortmund,3,0,1.0
+2006-2007,21,2007-02-10,Leverkusen,Eint Frankfurt,2,2,0.5
+2006-2007,21,2007-02-10,Mainz 05,Energie Cottbus,4,1,1.0
+2006-2007,21,2007-02-10,Stuttgart,Werder Bremen,4,1,1.0
+2006-2007,21,2007-02-11,Bayern Munich,Arminia,1,0,1.0
+2006-2007,21,2007-02-11,Bochum,Nürnberg,0,2,0.0
+2006-2007,22,2007-02-16,Eint Frankfurt,Stuttgart,0,4,0.0
+2006-2007,22,2007-02-17,Leverkusen,Hannover 96,0,1,0.0
+2006-2007,22,2007-02-17,Wolfsburg,Schalke 04,2,2,0.5
+2006-2007,22,2007-02-17,Hertha BSC,Mainz 05,1,2,0.0
+2006-2007,22,2007-02-17,Dortmund,Gladbach,1,0,1.0
+2006-2007,22,2007-02-17,AA Aachen,Bayern Munich,1,0,1.0
+2006-2007,22,2007-02-17,Werder Bremen,Hamburger SV,0,2,0.0
+2006-2007,22,2007-02-18,Nürnberg,Energie Cottbus,1,0,1.0
+2006-2007,22,2007-02-18,Arminia,Bochum,1,3,0.0
+2006-2007,23,2007-02-23,Stuttgart,Hertha BSC,0,0,0.5
+2006-2007,23,2007-02-24,Hannover 96,Dortmund,4,2,1.0
+2006-2007,23,2007-02-24,Mainz 05,Nürnberg,2,1,1.0
+2006-2007,23,2007-02-24,Bochum,AA Aachen,2,2,0.5
+2006-2007,23,2007-02-24,Bayern Munich,Wolfsburg,2,1,1.0
+2006-2007,23,2007-02-24,Hamburger SV,Eint Frankfurt,3,1,1.0
+2006-2007,23,2007-02-24,Energie Cottbus,Arminia,2,1,1.0
+2006-2007,23,2007-02-25,Gladbach,Werder Bremen,2,2,0.5
+2006-2007,23,2007-02-25,Schalke 04,Leverkusen,0,1,0.0
+2006-2007,24,2007-03-02,Schalke 04,Hamburger SV,0,2,0.0
+2006-2007,24,2007-03-03,Arminia,Nürnberg,3,2,1.0
+2006-2007,24,2007-03-03,Wolfsburg,Gladbach,1,0,1.0
+2006-2007,24,2007-03-03,Hertha BSC,Bayern Munich,2,3,0.0
+2006-2007,24,2007-03-03,Werder Bremen,Bochum,3,0,1.0
+2006-2007,24,2007-03-03,Eint Frankfurt,Hannover 96,2,0,1.0
+2006-2007,24,2007-03-03,Leverkusen,Stuttgart,3,1,1.0
+2006-2007,24,2007-03-04,Dortmund,Energie Cottbus,2,3,0.0
+2006-2007,24,2007-03-04,AA Aachen,Mainz 05,2,1,1.0
+2006-2007,25,2007-03-09,Nürnberg,Eint Frankfurt,2,2,0.5
+2006-2007,25,2007-03-10,Hannover 96,Schalke 04,1,1,0.5
+2006-2007,25,2007-03-10,Mainz 05,Arminia,1,0,1.0
+2006-2007,25,2007-03-10,Energie Cottbus,AA Aachen,0,2,0.0
+2006-2007,25,2007-03-10,Gladbach,Hertha BSC,3,1,1.0
+2006-2007,25,2007-03-10,Bochum,Dortmund,2,0,1.0
+2006-2007,25,2007-03-10,Stuttgart,Wolfsburg,0,0,0.5
+2006-2007,25,2007-03-11,Bayern Munich,Werder Bremen,1,1,0.5
+2006-2007,25,2007-03-11,Hamburger SV,Leverkusen,0,0,0.5
+2006-2007,26,2007-03-16,Hertha BSC,Energie Cottbus,0,1,0.0
+2006-2007,26,2007-03-17,Dortmund,Nürnberg,0,0,0.5
+2006-2007,26,2007-03-17,AA Aachen,Arminia,2,0,1.0
+2006-2007,26,2007-03-17,Wolfsburg,Bochum,3,1,1.0
+2006-2007,26,2007-03-17,Hannover 96,Hamburger SV,0,0,0.5
+2006-2007,26,2007-03-17,Eint Frankfurt,Bayern Munich,1,0,1.0
+2006-2007,26,2007-03-17,Schalke 04,Stuttgart,1,0,1.0
+2006-2007,26,2007-03-18,Leverkusen,Gladbach,1,0,1.0
+2006-2007,26,2007-03-18,Werder Bremen,Mainz 05,2,0,1.0
+2006-2007,27,2007-03-30,Arminia,Dortmund,1,0,1.0
+2006-2007,27,2007-03-31,Nürnberg,Hertha BSC,2,1,1.0
+2006-2007,27,2007-03-31,Bayern Munich,Schalke 04,2,0,1.0
+2006-2007,27,2007-03-31,Gladbach,Eint Frankfurt,1,1,0.5
+2006-2007,27,2007-03-31,Stuttgart,AA Aachen,3,1,1.0
+2006-2007,27,2007-03-31,Mainz 05,Leverkusen,1,3,0.0
+2006-2007,27,2007-03-31,Energie Cottbus,Werder Bremen,0,0,0.5
+2006-2007,27,2007-04-01,Hamburger SV,Wolfsburg,1,0,1.0
+2006-2007,27,2007-04-01,Bochum,Hannover 96,2,0,1.0
+2006-2007,28,2007-04-07,Schalke 04,Gladbach,2,0,1.0
+2006-2007,28,2007-04-07,Hannover 96,Bayern Munich,1,2,0.0
+2006-2007,28,2007-04-07,Wolfsburg,Mainz 05,3,2,1.0
+2006-2007,28,2007-04-07,Hertha BSC,Arminia,1,1,0.5
+2006-2007,28,2007-04-07,Eint Frankfurt,Energie Cottbus,1,3,0.0
+2006-2007,28,2007-04-07,Hamburger SV,Stuttgart,2,4,0.0
+2006-2007,28,2007-04-07,AA Aachen,Dortmund,1,4,0.0
+2006-2007,28,2007-04-08,Leverkusen,Bochum,1,4,0.0
+2006-2007,28,2007-04-08,Werder Bremen,Nürnberg,1,0,1.0
+2006-2007,29,2007-04-13,Gladbach,Hamburger SV,0,1,0.0
+2006-2007,29,2007-04-14,Arminia,Eint Frankfurt,2,4,0.0
+2006-2007,29,2007-04-14,Bochum,Hertha BSC,1,3,0.0
+2006-2007,29,2007-04-14,Stuttgart,Hannover 96,2,1,1.0
+2006-2007,29,2007-04-14,Mainz 05,Schalke 04,0,3,0.0
+2006-2007,29,2007-04-14,Energie Cottbus,Wolfsburg,3,2,1.0
+2006-2007,29,2007-04-14,Nürnberg,AA Aachen,1,0,1.0
+2006-2007,29,2007-04-15,Dortmund,Werder Bremen,0,2,0.0
+2006-2007,29,2007-04-15,Bayern Munich,Leverkusen,2,1,1.0
+2006-2007,30,2007-04-20,Werder Bremen,AA Aachen,3,1,1.0
+2006-2007,30,2007-04-21,Schalke 04,Energie Cottbus,2,0,1.0
+2006-2007,30,2007-04-21,Wolfsburg,Arminia,2,3,0.0
+2006-2007,30,2007-04-21,Leverkusen,Nürnberg,2,0,1.0
+2006-2007,30,2007-04-21,Hertha BSC,Dortmund,0,1,0.0
+2006-2007,30,2007-04-21,Eint Frankfurt,Bochum,0,3,0.0
+2006-2007,30,2007-04-21,Stuttgart,Bayern Munich,2,0,1.0
+2006-2007,30,2007-04-22,Hamburger SV,Mainz 05,2,2,0.5
+2006-2007,30,2007-04-22,Hannover 96,Gladbach,1,0,1.0
+2006-2007,31,2007-04-27,Bochum,Schalke 04,2,1,1.0
+2006-2007,31,2007-04-28,Dortmund,Eint Frankfurt,2,0,1.0
+2006-2007,31,2007-04-28,Bayern Munich,Hamburger SV,1,2,0.0
+2006-2007,31,2007-04-28,Nürnberg,Wolfsburg,1,1,0.5
+2006-2007,31,2007-04-28,Gladbach,Stuttgart,0,1,0.0
+2006-2007,31,2007-04-28,AA Aachen,Hertha BSC,0,4,0.0
+2006-2007,31,2007-04-28,Mainz 05,Hannover 96,1,2,0.0
+2006-2007,31,2007-04-29,Arminia,Werder Bremen,3,2,1.0
+2006-2007,31,2007-04-29,Energie Cottbus,Leverkusen,2,1,1.0
+2006-2007,32,2007-05-04,Hannover 96,Energie Cottbus,2,0,1.0
+2006-2007,32,2007-05-05,Hamburger SV,Bochum,0,3,0.0
+2006-2007,32,2007-05-05,Eint Frankfurt,AA Aachen,4,0,1.0
+2006-2007,32,2007-05-05,Stuttgart,Mainz 05,2,0,1.0
+2006-2007,32,2007-05-05,Wolfsburg,Dortmund,0,2,0.0
+2006-2007,32,2007-05-05,Schalke 04,Nürnberg,1,0,1.0
+2006-2007,32,2007-05-05,Gladbach,Bayern Munich,1,1,0.5
+2006-2007,32,2007-05-06,Leverkusen,Arminia,1,2,0.0
+2006-2007,32,2007-05-06,Hertha BSC,Werder Bremen,1,4,0.0
+2006-2007,33,2007-05-12,Hertha BSC,Leverkusen,2,3,0.0
+2006-2007,33,2007-05-12,Nürnberg,Hamburger SV,0,2,0.0
+2006-2007,33,2007-05-12,Mainz 05,Gladbach,3,0,1.0
+2006-2007,33,2007-05-12,Energie Cottbus,Bayern Munich,0,3,0.0
+2006-2007,33,2007-05-12,Arminia,Hannover 96,3,1,1.0
+2006-2007,33,2007-05-12,AA Aachen,Wolfsburg,2,2,0.5
+2006-2007,33,2007-05-12,Bochum,Stuttgart,2,3,0.0
+2006-2007,33,2007-05-12,Werder Bremen,Eint Frankfurt,1,2,0.0
+2006-2007,33,2007-05-12,Dortmund,Schalke 04,2,0,1.0
+2006-2007,34,2007-05-19,Stuttgart,Energie Cottbus,2,1,1.0
+2006-2007,34,2007-05-19,Leverkusen,Dortmund,2,1,1.0
+2006-2007,34,2007-05-19,Bayern Munich,Mainz 05,5,2,1.0
+2006-2007,34,2007-05-19,Wolfsburg,Werder Bremen,0,2,0.0
+2006-2007,34,2007-05-19,Gladbach,Bochum,0,2,0.0
+2006-2007,34,2007-05-19,Schalke 04,Arminia,2,1,1.0
+2006-2007,34,2007-05-19,Hannover 96,Nürnberg,0,3,0.0
+2006-2007,34,2007-05-19,Hamburger SV,AA Aachen,4,0,1.0
+2006-2007,34,2007-05-19,Eint Frankfurt,Hertha BSC,1,2,0.0

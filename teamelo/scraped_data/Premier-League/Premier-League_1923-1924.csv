@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1923-1924,1,1923-08-25,Tottenham,Preston,2,0,1.0
+1923-1924,1,1923-08-25,Notts County,Burnley,2,1,1.0
+1923-1924,1,1923-08-25,Birmingham,Aston Villa,3,0,1.0
+1923-1924,1,1923-08-25,Cardiff City,Bolton,3,2,1.0
+1923-1924,1,1923-08-25,Everton,Nott'ham Forest,2,1,1.0
+1923-1924,1,1923-08-25,Manchester City,Sheffield Utd,2,1,1.0
+1923-1924,1,1923-08-25,Arsenal,Newcastle Utd,1,4,0.0
+1923-1924,1,1923-08-25,Huddersfield,Middlesbrough,1,0,1.0
+1923-1924,1,1923-08-25,West Brom,Liverpool,2,0,1.0
+1923-1924,1,1923-08-25,Sunderland,West Ham,0,0,0.5
+1923-1924,1,1923-08-25,Blackburn,Chelsea,3,0,1.0
+1923-1924,2,1923-08-27,West Ham,Arsenal,1,0,1.0
+1923-1924,2,1923-08-27,Chelsea,Tottenham,0,1,0.0
+1923-1924,2,1923-08-27,Cardiff City,Sunderland,2,1,1.0
+1923-1924,2,1923-08-27,Sheffield Utd,Bolton,0,0,0.5
+1923-1924,2,1923-08-27,Nott'ham Forest,West Brom,1,1,0.5
+1923-1924,2,1923-08-27,Preston,Huddersfield,1,3,0.0
+1923-1924,2,1923-08-27,Burnley,Everton,2,2,0.5
+1923-1924,2,1923-08-29,Aston Villa,Manchester City,2,0,1.0
+1923-1924,2,1923-08-29,Middlesbrough,Notts County,2,3,0.0
+1923-1924,2,1923-08-29,Liverpool,Birmingham,6,2,1.0
+1923-1924,2,1923-08-29,Newcastle Utd,Blackburn,2,1,1.0
+1923-1924,3,1923-09-01,Preston,Tottenham,2,2,0.5
+1923-1924,3,1923-09-01,Middlesbrough,Huddersfield,2,0,1.0
+1923-1924,3,1923-09-01,West Ham,Sunderland,0,1,0.0
+1923-1924,3,1923-09-01,Bolton,Cardiff City,2,2,0.5
+1923-1924,3,1923-09-01,Nott'ham Forest,Everton,1,0,1.0
+1923-1924,3,1923-09-01,Newcastle Utd,Arsenal,1,0,1.0
+1923-1924,3,1923-09-01,Liverpool,West Brom,0,0,0.5
+1923-1924,3,1923-09-01,Aston Villa,Birmingham,0,0,0.5
+1923-1924,3,1923-09-01,Burnley,Notts County,1,1,0.5
+1923-1924,3,1923-09-01,Sheffield Utd,Manchester City,3,0,1.0
+1923-1924,3,1923-09-01,Chelsea,Blackburn,2,0,1.0
+1923-1924,4,1923-09-03,Tottenham,Chelsea,0,1,0.0
+1923-1924,4,1923-09-03,Everton,Burnley,3,3,0.5
+1923-1924,4,1923-09-03,West Brom,Nott'ham Forest,3,2,1.0
+1923-1924,4,1923-09-03,Bolton,Sheffield Utd,4,2,1.0
+1923-1924,4,1923-09-04,Huddersfield,Preston,4,0,1.0
+1923-1924,4,1923-09-05,Sunderland,Cardiff City,0,3,0.0
+1923-1924,4,1923-09-05,Birmingham,Liverpool,2,1,1.0
+1923-1924,4,1923-09-05,Manchester City,Aston Villa,1,2,0.0
+1923-1924,4,1923-09-08,West Brom,Arsenal,4,0,1.0
+1923-1924,4,1923-09-08,Everton,Blackburn,0,0,0.5
+1923-1924,5,1923-09-08,Tottenham,Middlesbrough,2,1,1.0
+1923-1924,5,1923-09-08,Preston,Liverpool,0,1,0.0
+1923-1924,5,1923-09-08,Manchester City,Bolton,1,1,0.5
+1923-1924,5,1923-09-08,Notts County,Huddersfield,1,0,1.0
+1923-1924,5,1923-09-08,Burnley,Nott'ham Forest,2,4,0.0
+1923-1924,5,1923-09-08,Newcastle Utd,Sheffield Utd,2,2,0.5
+1923-1924,5,1923-09-08,Chelsea,Aston Villa,0,0,0.5
+1923-1924,5,1923-09-08,West Ham,Cardiff City,0,0,0.5
+1923-1924,5,1923-09-08,Birmingham,Sunderland,0,2,0.0
+1923-1924,5,1923-09-10,Arsenal,West Ham,4,1,1.0
+1923-1924,6,1923-09-10,Birmingham,Bolton,0,3,0.0
+1923-1924,5,1923-09-12,Newcastle Utd,Bolton,1,0,1.0
+1923-1924,6,1923-09-12,Aston Villa,Everton,1,1,0.5
+1923-1924,5,1923-09-15,Blackburn,Everton,2,0,1.0
+1923-1924,6,1923-09-15,Bolton,Manchester City,0,0,0.5
+1923-1924,6,1923-09-15,Nott'ham Forest,Burnley,0,0,0.5
+1923-1924,6,1923-09-15,Huddersfield,Notts County,0,0,0.5
+1923-1924,6,1923-09-15,Middlesbrough,Tottenham,0,1,0.0
+1923-1924,6,1923-09-15,Aston Villa,Chelsea,0,0,0.5
+1923-1924,6,1923-09-15,Liverpool,Preston,3,1,1.0
+1923-1924,6,1923-09-15,Arsenal,West Brom,1,0,1.0
+1923-1924,6,1923-09-15,Sheffield Utd,Newcastle Utd,2,1,1.0
+1923-1924,6,1923-09-15,Cardiff City,West Ham,1,0,1.0
+1923-1924,7,1923-09-15,Sunderland,Birmingham,1,1,0.5
+1923-1924,6,1923-09-17,Blackburn,Newcastle Utd,2,1,1.0
+1923-1924,8,1923-09-19,Everton,Aston Villa,2,0,1.0
+1923-1924,6,1923-09-22,Notts County,Nott'ham Forest,2,1,1.0
+1923-1924,7,1923-09-22,Chelsea,Sheffield Utd,1,1,0.5
+1923-1924,7,1923-09-22,Burnley,Liverpool,2,0,1.0
+1923-1924,7,1923-09-22,Preston,Aston Villa,2,2,0.5
+1923-1924,7,1923-09-22,Birmingham,Arsenal,0,2,0.0
+1923-1924,7,1923-09-22,Manchester City,Sunderland,4,1,1.0
+1923-1924,7,1923-09-22,West Ham,Middlesbrough,1,1,0.5
+1923-1924,7,1923-09-22,Newcastle Utd,Cardiff City,1,1,0.5
+1923-1924,7,1923-09-22,West Brom,Blackburn,3,3,0.5
+1923-1924,7,1923-09-22,Tottenham,Bolton,0,0,0.5
+1923-1924,9,1923-09-22,Everton,Huddersfield,1,1,0.5
+1923-1924,7,1923-09-29,Nott'ham Forest,Notts County,1,0,1.0
+1923-1924,8,1923-09-29,Arsenal,Birmingham,0,0,0.5
+1923-1924,8,1923-09-29,Aston Villa,Preston,5,1,1.0
+1923-1924,8,1923-09-29,Sheffield Utd,Chelsea,1,0,1.0
+1923-1924,8,1923-09-29,Sunderland,Manchester City,5,2,1.0
+1923-1924,8,1923-09-29,Liverpool,Burnley,1,0,1.0
+1923-1924,8,1923-09-29,Cardiff City,Newcastle Utd,1,0,1.0
+1923-1924,8,1923-09-29,Blackburn,West Brom,4,0,1.0
+1923-1924,8,1923-09-29,Bolton,Tottenham,3,1,1.0
+1923-1924,8,1923-09-29,Middlesbrough,West Ham,0,1,0.0
+1923-1924,10,1923-09-29,Huddersfield,Everton,2,0,1.0
+1923-1924,8,1923-10-04,Notts County,Middlesbrough,1,0,1.0
+1923-1924,9,1923-10-06,Burnley,Aston Villa,1,2,0.0
+1923-1924,9,1923-10-06,Notts County,Tottenham,0,0,0.5
+1923-1924,9,1923-10-06,Sunderland,Bolton,2,2,0.5
+1923-1924,9,1923-10-06,Middlesbrough,Nott'ham Forest,5,2,1.0
+1923-1924,9,1923-10-06,Preston,Sheffield Utd,1,1,0.5
+1923-1924,9,1923-10-06,West Ham,Newcastle Utd,1,0,1.0
+1923-1924,9,1923-10-06,Chelsea,Cardiff City,1,2,0.0
+1923-1924,9,1923-10-06,Manchester City,Arsenal,1,0,1.0
+1923-1924,9,1923-10-06,West Brom,Huddersfield,2,4,0.0
+1923-1924,10,1923-10-06,Birmingham,Blackburn,1,1,0.5
+1923-1924,11,1923-10-06,Everton,Liverpool,1,0,1.0
+1923-1924,10,1923-10-13,Sheffield Utd,Preston,4,0,1.0
+1923-1924,10,1923-10-13,Arsenal,Manchester City,1,2,0.0
+1923-1924,10,1923-10-13,Tottenham,Notts County,1,3,0.0
+1923-1924,10,1923-10-13,Huddersfield,West Brom,0,0,0.5
+1923-1924,10,1923-10-13,Cardiff City,Chelsea,1,1,0.5
+1923-1924,10,1923-10-13,Aston Villa,Burnley,1,1,0.5
+1923-1924,10,1923-10-13,Nott'ham Forest,Middlesbrough,3,1,1.0
+1923-1924,10,1923-10-13,Newcastle Utd,West Ham,0,0,0.5
+1923-1924,10,1923-10-13,Bolton,Sunderland,1,0,1.0
+1923-1924,11,1923-10-13,Blackburn,Birmingham,4,1,1.0
+1923-1924,12,1923-10-13,Liverpool,Everton,1,2,0.0
+1923-1924,11,1923-10-17,Sunderland,Chelsea,2,0,1.0
+1923-1924,11,1923-10-20,Cardiff City,Preston,1,1,0.5
+1923-1924,11,1923-10-20,West Brom,Aston Villa,1,0,1.0
+1923-1924,11,1923-10-20,Bolton,Arsenal,1,2,0.0
+1923-1924,11,1923-10-20,Sheffield Utd,Burnley,2,1,1.0
+1923-1924,11,1923-10-20,Liverpool,Nott'ham Forest,4,2,1.0
+1923-1924,11,1923-10-20,Blackburn,Manchester City,0,1,0.0
+1923-1924,11,1923-10-20,Middlesbrough,Newcastle Utd,1,0,1.0
+1923-1924,12,1923-10-20,Sunderland,Tottenham,1,0,1.0
+1923-1924,12,1923-10-20,Birmingham,Huddersfield,0,1,0.0
+1923-1924,12,1923-10-20,Chelsea,West Ham,0,0,0.5
+1923-1924,13,1923-10-20,Notts County,Everton,1,1,0.5
+1923-1924,12,1923-10-27,Nott'ham Forest,Liverpool,0,1,0.0
+1923-1924,12,1923-10-27,Newcastle Utd,Middlesbrough,3,2,1.0
+1923-1924,12,1923-10-27,Manchester City,Blackburn,3,1,1.0
+1923-1924,12,1923-10-27,Burnley,Sheffield Utd,2,0,1.0
+1923-1924,12,1923-10-27,Arsenal,Bolton,0,0,0.5
+1923-1924,12,1923-10-27,Preston,Cardiff City,3,1,1.0
+1923-1924,12,1923-10-27,Aston Villa,West Brom,4,0,1.0
+1923-1924,13,1923-10-27,Huddersfield,Birmingham,1,0,1.0
+1923-1924,13,1923-10-27,Tottenham,Sunderland,1,1,0.5
+1923-1924,13,1923-10-27,West Ham,Chelsea,2,0,1.0
+1923-1924,14,1923-10-27,Everton,Notts County,3,0,1.0
+1923-1924,13,1923-11-03,Liverpool,Huddersfield,1,1,0.5
+1923-1924,13,1923-11-03,Nott'ham Forest,Tottenham,0,0,0.5
+1923-1924,13,1923-11-03,Blackburn,Burnley,1,1,0.5
+1923-1924,13,1923-11-03,Aston Villa,Notts County,0,0,0.5
+1923-1924,13,1923-11-03,Arsenal,Middlesbrough,2,1,1.0
+1923-1924,13,1923-11-03,Cardiff City,West Brom,3,0,1.0
+1923-1924,13,1923-11-03,Manchester City,Newcastle Utd,1,1,0.5
+1923-1924,14,1923-11-03,Sunderland,Preston,2,1,1.0
+1923-1924,14,1923-11-03,West Ham,Birmingham,4,1,1.0
+1923-1924,14,1923-11-03,Chelsea,Bolton,0,0,0.5
+1923-1924,15,1923-11-03,Sheffield Utd,Everton,4,0,1.0
+1923-1924,14,1923-11-10,Tottenham,Nott'ham Forest,3,0,1.0
+1923-1924,14,1923-11-10,Newcastle Utd,Manchester City,4,1,1.0
+1923-1924,14,1923-11-10,Notts County,Aston Villa,0,1,0.0
+1923-1924,14,1923-11-10,Burnley,Blackburn,1,2,0.0
+1923-1924,14,1923-11-10,Huddersfield,Liverpool,3,1,1.0
+1923-1924,14,1923-11-10,Middlesbrough,Arsenal,0,0,0.5
+1923-1924,14,1923-11-10,West Brom,Cardiff City,2,4,0.0
+1923-1924,15,1923-11-10,Preston,Sunderland,1,2,0.0
+1923-1924,15,1923-11-10,Bolton,Chelsea,4,0,1.0
+1923-1924,15,1923-11-10,Birmingham,West Ham,2,0,1.0
+1923-1924,16,1923-11-10,Everton,Sheffield Utd,2,0,1.0
+1923-1924,15,1923-11-17,Sunderland,Blackburn,5,1,1.0
+1923-1924,15,1923-11-17,Bolton,Huddersfield,3,1,1.0
+1923-1924,15,1923-11-17,Burnley,West Ham,5,1,1.0
+1923-1924,15,1923-11-17,Preston,Newcastle Utd,1,2,0.0
+1923-1924,15,1923-11-17,Nott'ham Forest,Sheffield Utd,1,2,0.0
+1923-1924,15,1923-11-17,Manchester City,Cardiff City,1,1,0.5
+1923-1924,15,1923-11-17,Arsenal,Tottenham,1,1,0.5
+1923-1924,16,1923-11-17,Middlesbrough,Chelsea,2,0,1.0
+1923-1924,16,1923-11-17,Birmingham,Notts County,0,0,0.5
+1923-1924,17,1923-11-17,Aston Villa,Liverpool,0,0,0.5
+1923-1924,17,1923-11-17,Everton,West Brom,2,0,1.0
+1923-1924,16,1923-11-24,West Ham,Burnley,0,0,0.5
+1923-1924,16,1923-11-24,Sheffield Utd,Nott'ham Forest,0,0,0.5
+1923-1924,16,1923-11-24,Newcastle Utd,Preston,3,1,1.0
+1923-1924,16,1923-11-24,Cardiff City,Manchester City,1,1,0.5
+1923-1924,16,1923-11-24,Blackburn,Sunderland,3,2,1.0
+1923-1924,16,1923-11-24,Tottenham,Arsenal,3,0,1.0
+1923-1924,16,1923-11-24,Huddersfield,Bolton,1,0,1.0
+1923-1924,17,1923-11-24,Chelsea,Middlesbrough,2,0,1.0
+1923-1924,17,1923-11-24,Notts County,Birmingham,1,1,0.5
+1923-1924,18,1923-11-24,Liverpool,Aston Villa,0,1,0.0
+1923-1924,18,1923-11-24,West Brom,Everton,5,0,1.0
+1923-1924,17,1923-12-01,Arsenal,Blackburn,2,2,0.5
+1923-1924,17,1923-12-01,Sunderland,Huddersfield,2,1,1.0
+1923-1924,17,1923-12-01,Bolton,West Ham,1,1,0.5
+1923-1924,17,1923-12-01,Burnley,Newcastle Utd,3,2,1.0
+1923-1924,17,1923-12-01,Tottenham,West Brom,0,0,0.5
+1923-1924,17,1923-12-01,Sheffield Utd,Liverpool,1,1,0.5
+1923-1924,17,1923-12-01,Nott'ham Forest,Cardiff City,0,1,0.0
+1923-1924,17,1923-12-01,Manchester City,Notts County,1,0,1.0
+1923-1924,18,1923-12-01,Preston,Chelsea,1,1,0.5
+1923-1924,18,1923-12-01,Everton,Birmingham,2,0,1.0
+1923-1924,19,1923-12-01,Aston Villa,Middlesbrough,0,0,0.5
+1923-1924,18,1923-12-08,Huddersfield,Sunderland,3,2,1.0
+1923-1924,18,1923-12-08,Liverpool,Sheffield Utd,2,3,0.0
+1923-1924,18,1923-12-08,Notts County,Manchester City,2,0,1.0
+1923-1924,18,1923-12-08,Blackburn,Arsenal,2,0,1.0
+1923-1924,18,1923-12-08,West Ham,Bolton,0,1,0.0
+1923-1924,18,1923-12-08,Cardiff City,Nott'ham Forest,4,1,1.0
+1923-1924,18,1923-12-08,West Brom,Tottenham,4,1,1.0
+1923-1924,18,1923-12-08,Newcastle Utd,Burnley,2,0,1.0
+1923-1924,19,1923-12-08,Chelsea,Preston,1,2,0.0
+1923-1924,19,1923-12-08,Birmingham,Everton,0,1,0.0
+1923-1924,20,1923-12-08,Middlesbrough,Aston Villa,0,2,0.0
+1923-1924,19,1923-12-15,Preston,Middlesbrough,4,0,1.0
+1923-1924,19,1923-12-15,Bolton,Notts County,7,1,1.0
+1923-1924,19,1923-12-15,Liverpool,Cardiff City,0,2,0.0
+1923-1924,19,1923-12-15,Tottenham,Blackburn,2,1,1.0
+1923-1924,19,1923-12-15,Sheffield Utd,Aston Villa,2,1,1.0
+1923-1924,19,1923-12-15,Burnley,Chelsea,2,0,1.0
+1923-1924,19,1923-12-15,Arsenal,Huddersfield,1,3,0.0
+1923-1924,19,1923-12-15,Nott'ham Forest,West Ham,2,1,1.0
+1923-1924,20,1923-12-15,Sunderland,Newcastle Utd,3,2,1.0
+1923-1924,20,1923-12-15,West Brom,Birmingham,0,0,0.5
+1923-1924,21,1923-12-15,Manchester City,Everton,2,1,1.0
+1923-1924,20,1923-12-22,Chelsea,Burnley,3,2,1.0
+1923-1924,20,1923-12-22,West Ham,Nott'ham Forest,3,2,1.0
+1923-1924,20,1923-12-22,Huddersfield,Arsenal,6,1,1.0
+1923-1924,20,1923-12-22,Cardiff City,Liverpool,2,0,1.0
+1923-1924,20,1923-12-22,Middlesbrough,Preston,1,2,0.0
+1923-1924,20,1923-12-22,Notts County,Bolton,1,1,0.5
+1923-1924,20,1923-12-22,Blackburn,Tottenham,0,1,0.0
+1923-1924,20,1923-12-22,Aston Villa,Sheffield Utd,2,2,0.5
+1923-1924,21,1923-12-22,Birmingham,West Brom,0,0,0.5
+1923-1924,21,1923-12-22,Newcastle Utd,Sunderland,0,2,0.0
+1923-1924,22,1923-12-22,Everton,Manchester City,6,1,1.0
+1923-1924,21,1923-12-25,Aston Villa,West Ham,1,1,0.5
+1923-1924,21,1923-12-25,Tottenham,Huddersfield,1,0,1.0
+1923-1924,21,1923-12-25,Bolton,West Brom,2,0,1.0
+1923-1924,21,1923-12-25,Blackburn,Preston,2,0,1.0
+1923-1924,21,1923-12-25,Burnley,Middlesbrough,0,0,0.5
+1923-1924,21,1923-12-25,Liverpool,Newcastle Utd,0,1,0.0
+1923-1924,21,1923-12-25,Sheffield Utd,Cardiff City,1,1,0.5
+1923-1924,22,1923-12-25,Nott'ham Forest,Chelsea,2,0,1.0
+1923-1924,21,1923-12-26,Notts County,Arsenal,1,2,0.0
+1923-1924,22,1923-12-26,Preston,Blackburn,0,1,0.0
+1923-1924,22,1923-12-26,Huddersfield,Tottenham,2,1,1.0
+1923-1924,22,1923-12-26,Middlesbrough,Burnley,3,0,1.0
+1923-1924,22,1923-12-26,Birmingham,Manchester City,3,0,1.0
+1923-1924,22,1923-12-26,West Brom,Bolton,0,5,0.0
+1923-1924,22,1923-12-26,West Ham,Aston Villa,1,0,1.0
+1923-1924,22,1923-12-26,Newcastle Utd,Liverpool,2,1,1.0
+1923-1924,22,1923-12-26,Cardiff City,Sheffield Utd,3,1,1.0
+1923-1924,23,1923-12-26,Chelsea,Nott'ham Forest,1,1,0.5
+1923-1924,23,1923-12-26,Everton,Sunderland,2,3,0.0
+1923-1924,22,1923-12-27,Arsenal,Notts County,0,0,0.5
+1923-1924,22,1923-12-29,Manchester City,West Brom,3,3,0.5
+1923-1924,23,1923-12-29,Burnley,Preston,1,0,1.0
+1923-1924,23,1923-12-29,Arsenal,Chelsea,1,0,1.0
+1923-1924,23,1923-12-29,Liverpool,West Ham,2,0,1.0
+1923-1924,23,1923-12-29,Blackburn,Huddersfield,1,0,1.0
+1923-1924,23,1923-12-29,Sheffield Utd,Middlesbrough,0,1,0.0
+1923-1924,23,1923-12-29,Aston Villa,Cardiff City,2,1,1.0
+1923-1924,23,1923-12-29,Tottenham,Birmingham,1,1,0.5
+1923-1924,23,1923-12-29,Sunderland,Notts County,1,1,0.5
+1923-1924,23,1923-12-29,Nott'ham Forest,Newcastle Utd,0,0,0.5
+1923-1924,24,1923-12-29,Bolton,Everton,2,0,1.0
+1923-1924,23,1924-01-01,Manchester City,Tottenham,1,0,1.0
+1923-1924,24,1924-01-01,Bolton,Birmingham,1,1,0.5
+1923-1924,24,1924-01-01,Sheffield Utd,West Ham,0,2,0.0
+1923-1924,24,1924-01-01,Middlesbrough,Cardiff City,0,1,0.0
+1923-1924,24,1924-01-01,Blackburn,Notts County,4,1,1.0
+1923-1924,25,1924-01-01,Liverpool,Chelsea,3,1,1.0
+1923-1924,25,1924-01-01,Sunderland,Everton,3,0,1.0
+1923-1924,26,1924-01-01,Newcastle Utd,Aston Villa,4,1,1.0
+1923-1924,24,1924-01-05,Newcastle Utd,Nott'ham Forest,4,0,1.0
+1923-1924,24,1924-01-05,Preston,Burnley,5,0,1.0
+1923-1924,24,1924-01-05,West Brom,Manchester City,2,1,1.0
+1923-1924,24,1924-01-05,Chelsea,Arsenal,0,0,0.5
+1923-1924,25,1924-01-05,Cardiff City,Aston Villa,0,2,0.0
+1923-1924,25,1924-01-05,West Ham,Liverpool,1,0,1.0
+1923-1924,25,1924-01-05,Middlesbrough,Sheffield Utd,0,1,0.0
+1923-1924,25,1924-01-05,Birmingham,Tottenham,3,2,1.0
+1923-1924,25,1924-01-05,Huddersfield,Blackburn,1,0,1.0
+1923-1924,25,1924-01-05,Notts County,Sunderland,1,2,0.0
+1923-1924,26,1924-01-05,Everton,Bolton,2,2,0.5
+1923-1924,25,1924-01-19,Manchester City,Liverpool,0,1,0.0
+1923-1924,25,1924-01-19,Huddersfield,Chelsea,0,1,0.0
+1923-1924,25,1924-01-19,West Brom,Burnley,0,3,0.0
+1923-1924,25,1924-01-19,Arsenal,Cardiff City,1,2,0.0
+1923-1924,26,1924-01-19,Tottenham,Newcastle Utd,2,0,1.0
+1923-1924,26,1924-01-19,Blackburn,West Ham,0,0,0.5
+1923-1924,26,1924-01-19,Birmingham,Nott'ham Forest,0,2,0.0
+1923-1924,26,1924-01-19,Sunderland,Sheffield Utd,2,2,0.5
+1923-1924,26,1924-01-19,Notts County,Preston,0,0,0.5
+1923-1924,27,1924-01-19,Everton,Middlesbrough,1,0,1.0
+1923-1924,28,1924-01-19,Bolton,Aston Villa,1,0,1.0
+1923-1924,26,1924-01-26,Cardiff City,Arsenal,4,0,1.0
+1923-1924,26,1924-01-26,Liverpool,Manchester City,0,0,0.5
+1923-1924,26,1924-01-26,Burnley,West Brom,4,0,1.0
+1923-1924,26,1924-01-26,Chelsea,Huddersfield,0,1,0.0
+1923-1924,27,1924-01-26,Sheffield Utd,Sunderland,1,1,0.5
+1923-1924,27,1924-01-26,Preston,Notts County,2,1,1.0
+1923-1924,27,1924-01-26,Newcastle Utd,Tottenham,2,2,0.5
+1923-1924,27,1924-01-26,Nott'ham Forest,Birmingham,1,1,0.5
+1923-1924,27,1924-01-26,West Ham,Blackburn,0,1,0.0
+1923-1924,28,1924-01-26,Middlesbrough,Everton,1,1,0.5
+1923-1924,29,1924-01-26,Aston Villa,Bolton,1,0,1.0
+1923-1924,27,1924-02-02,Preston,Nott'ham Forest,3,1,1.0
+1923-1924,28,1924-02-02,Blackburn,Middlesbrough,2,0,1.0
+1923-1924,29,1924-02-06,Everton,Preston,1,1,0.5
+1923-1924,27,1924-02-09,Sheffield Utd,Arsenal,3,1,1.0
+1923-1924,27,1924-02-09,Newcastle Utd,Huddersfield,0,1,0.0
+1923-1924,27,1924-02-09,Middlesbrough,West Brom,0,1,0.0
+1923-1924,27,1924-02-09,Nott'ham Forest,Manchester City,1,2,0.0
+1923-1924,28,1924-02-09,Chelsea,Notts County,0,6,0.0
+1923-1924,28,1924-02-09,Liverpool,Bolton,3,1,1.0
+1923-1924,28,1924-02-09,West Ham,Tottenham,0,0,0.5
+1923-1924,28,1924-02-09,Burnley,Birmingham,1,2,0.0
+1923-1924,28,1924-02-09,Aston Villa,Sunderland,0,1,0.0
+1923-1924,29,1924-02-09,Cardiff City,Blackburn,2,0,1.0
+1923-1924,30,1924-02-09,Preston,Everton,0,1,0.0
+1923-1924,28,1924-02-13,Manchester City,Nott'ham Forest,1,3,0.0
+1923-1924,29,1924-02-13,Sunderland,Aston Villa,2,0,1.0
+1923-1924,28,1924-02-16,Huddersfield,West Ham,1,1,0.5
+1923-1924,28,1924-02-16,Arsenal,Aston Villa,0,1,0.0
+1923-1924,28,1924-02-16,West Brom,Preston,1,2,0.0
+1923-1924,29,1924-02-16,Birmingham,Middlesbrough,2,1,1.0
+1923-1924,29,1924-02-16,Tottenham,Cardiff City,1,1,0.5
+1923-1924,29,1924-02-16,Manchester City,Burnley,2,2,0.5
+1923-1924,29,1924-02-16,Notts County,Newcastle Utd,1,0,1.0
+1923-1924,30,1924-02-16,Bolton,Nott'ham Forest,4,0,1.0
+1923-1924,30,1924-02-16,Sunderland,Liverpool,0,0,0.5
+1923-1924,30,1924-02-16,Blackburn,Sheffield Utd,1,1,0.5
+1923-1924,31,1924-02-16,Everton,Chelsea,2,0,1.0
+1923-1924,30,1924-02-23,Middlesbrough,Birmingham,0,1,0.0
+1923-1924,31,1924-02-23,Sheffield Utd,Blackburn,4,0,1.0
+1923-1924,31,1924-02-23,Nott'ham Forest,Bolton,1,0,1.0
+1923-1924,32,1924-02-23,Chelsea,Everton,1,1,0.5
+1923-1924,29,1924-02-25,Arsenal,Sheffield Utd,1,3,0.0
+1923-1924,29,1924-02-27,Huddersfield,Newcastle Utd,1,1,0.5
+1923-1924,31,1924-02-27,Birmingham,Burnley,2,1,1.0
+1923-1924,29,1924-03-01,West Brom,Chelsea,2,2,0.5
+1923-1924,30,1924-03-01,Arsenal,Liverpool,3,1,1.0
+1923-1924,30,1924-03-01,Tottenham,Sheffield Utd,1,2,0.0
+1923-1924,30,1924-03-01,Notts County,West Ham,1,1,0.5
+1923-1924,30,1924-03-01,Huddersfield,Cardiff City,2,0,1.0
+1923-1924,30,1924-03-01,Bolton,Burnley,0,0,0.5
+1923-1924,30,1924-03-01,Manchester City,Middlesbrough,3,2,1.0
+1923-1924,31,1924-03-01,Sunderland,Nott'ham Forest,1,0,1.0
+1923-1924,32,1924-03-01,Birmingham,Preston,2,0,1.0
+1923-1924,32,1924-03-01,Blackburn,Aston Villa,3,1,1.0
+1923-1924,33,1924-03-01,Everton,Newcastle Utd,2,2,0.5
+1923-1924,31,1924-03-05,Notts County,Chelsea,0,0,0.5
+1923-1924,31,1924-03-08,Sheffield Utd,Tottenham,6,2,1.0
+1923-1924,32,1924-03-08,West Ham,Notts County,1,1,0.5
+1923-1924,32,1924-03-08,Nott'ham Forest,Sunderland,1,2,0.0
+1923-1924,33,1924-03-08,Middlesbrough,Blackburn,2,0,1.0
+1923-1924,33,1924-03-08,Preston,Birmingham,1,0,1.0
+1923-1924,30,1924-03-12,Chelsea,West Brom,0,0,0.5
+1923-1924,31,1924-03-12,Aston Villa,Arsenal,2,1,1.0
+1923-1924,31,1924-03-12,Bolton,Liverpool,4,1,1.0
+1923-1924,31,1924-03-15,Cardiff City,Notts County,0,2,0.0
+1923-1924,31,1924-03-15,Sheffield Utd,Huddersfield,0,1,0.0
+1923-1924,31,1924-03-15,Preston,Manchester City,4,1,1.0
+1923-1924,31,1924-03-15,Newcastle Utd,West Brom,1,1,0.5
+1923-1924,32,1924-03-15,Nott'ham Forest,Arsenal,2,1,1.0
+1923-1924,32,1924-03-15,Aston Villa,Tottenham,0,0,0.5
+1923-1924,33,1924-03-15,Burnley,Sunderland,0,3,0.0
+1923-1924,34,1924-03-15,Middlesbrough,Bolton,1,2,0.0
+1923-1924,34,1924-03-15,Chelsea,Birmingham,1,1,0.5
+1923-1924,34,1924-03-15,West Ham,Everton,2,1,1.0
+1923-1924,34,1924-03-15,Liverpool,Blackburn,0,0,0.5
+1923-1924,32,1924-03-17,Burnley,Manchester City,3,2,1.0
+1923-1924,32,1924-03-19,Preston,West Brom,1,2,0.0
+1923-1924,34,1924-03-19,Liverpool,Sunderland,4,2,1.0
+1923-1924,34,1924-03-19,Newcastle Utd,Notts County,1,2,0.0
+1923-1924,35,1924-03-20,Blackburn,Cardiff City,2,1,1.0
+1923-1924,32,1924-03-22,Huddersfield,Sheffield Utd,1,0,1.0
+1923-1924,33,1924-03-22,Manchester City,Preston,2,2,0.5
+1923-1924,33,1924-03-22,Arsenal,Nott'ham Forest,1,0,1.0
+1923-1924,33,1924-03-22,West Brom,Newcastle Utd,0,0,0.5
+1923-1924,33,1924-03-22,Tottenham,Aston Villa,2,3,0.0
+1923-1924,33,1924-03-22,Notts County,Cardiff City,1,0,1.0
+1923-1924,35,1924-03-22,Sunderland,Burnley,0,1,0.0
+1923-1924,35,1924-03-22,Birmingham,Chelsea,1,0,1.0
+1923-1924,35,1924-03-22,Bolton,Middlesbrough,2,0,1.0
+1923-1924,35,1924-03-22,Everton,West Ham,2,1,1.0
+1923-1924,36,1924-03-22,Blackburn,Liverpool,0,0,0.5
+1923-1924,33,1924-03-27,West Ham,Huddersfield,2,3,0.0
+1923-1924,34,1924-03-29,Cardiff City,Everton,0,0,0.5
+1923-1924,34,1924-03-29,West Ham,West Brom,1,0,1.0
+1923-1924,34,1924-03-29,Liverpool,Tottenham,1,0,1.0
+1923-1924,36,1924-03-29,Preston,Bolton,0,2,0.0
+1923-1924,36,1924-03-29,Middlesbrough,Sunderland,1,3,0.0
+1923-1924,37,1924-03-29,Nott'ham Forest,Blackburn,0,0,0.5
+1923-1924,34,1924-04-01,Burnley,Bolton,1,0,1.0
+1923-1924,34,1924-04-02,Liverpool,Arsenal,0,0,0.5
+1923-1924,34,1924-04-02,Middlesbrough,Manchester City,1,1,0.5
+1923-1924,37,1924-04-02,Newcastle Utd,Everton,3,1,1.0
+1923-1924,38,1924-04-02,Aston Villa,Blackburn,1,0,1.0
+1923-1924,34,1924-04-05,Huddersfield,Aston Villa,1,0,1.0
+1923-1924,35,1924-04-05,Manchester City,Chelsea,1,0,1.0
+1923-1924,35,1924-04-05,Tottenham,Liverpool,1,1,0.5
+1923-1924,35,1924-04-05,Arsenal,Burnley,2,0,1.0
+1923-1924,35,1924-04-05,West Brom,West Ham,0,0,0.5
+1923-1924,35,1924-04-05,Everton,Cardiff City,0,0,0.5
+1923-1924,36,1924-04-05,Birmingham,Newcastle Utd,4,1,1.0
+1923-1924,36,1924-04-05,Notts County,Sheffield Utd,0,2,0.0
+1923-1924,37,1924-04-05,Bolton,Preston,0,0,0.5
+1923-1924,37,1924-04-05,Sunderland,Middlesbrough,3,2,1.0
+1923-1924,39,1924-04-05,Blackburn,Nott'ham Forest,1,1,0.5
+1923-1924,36,1924-04-07,Cardiff City,Tottenham,2,1,1.0
+1923-1924,37,1924-04-07,Sheffield Utd,Notts County,3,1,1.0
+1923-1924,36,1924-04-09,West Brom,Middlesbrough,1,1,0.5
+1923-1924,37,1924-04-09,Newcastle Utd,Birmingham,2,1,1.0
+1923-1924,35,1924-04-12,Huddersfield,Manchester City,1,1,0.5
+1923-1924,36,1924-04-12,Arsenal,Sunderland,2,0,1.0
+1923-1924,37,1924-04-12,Cardiff City,Burnley,2,0,1.0
+1923-1924,38,1924-04-12,Liverpool,Middlesbrough,3,1,1.0
+1923-1924,38,1924-04-12,Nott'ham Forest,Aston Villa,0,0,0.5
+1923-1924,38,1924-04-12,West Ham,Preston,3,1,1.0
+1923-1924,38,1924-04-12,West Brom,Notts County,5,0,1.0
+1923-1924,38,1924-04-12,Newcastle Utd,Chelsea,2,1,1.0
+1923-1924,38,1924-04-12,Sheffield Utd,Birmingham,0,2,0.0
+1923-1924,39,1924-04-12,Tottenham,Everton,2,5,0.0
+1923-1924,40,1924-04-12,Blackburn,Bolton,3,1,1.0
+1923-1924,38,1924-04-14,Cardiff City,Huddersfield,0,0,0.5
+1923-1924,37,1924-04-18,Burnley,Huddersfield,1,1,0.5
+1923-1924,37,1924-04-18,Everton,Arsenal,3,1,1.0
+1923-1924,39,1924-04-18,Chelsea,Liverpool,2,1,1.0
+1923-1924,39,1924-04-18,Manchester City,Birmingham,1,0,1.0
+1923-1924,39,1924-04-18,Sunderland,West Brom,2,0,1.0
+1923-1924,40,1924-04-18,Bolton,Newcastle Utd,0,1,0.0
+1923-1924,41,1924-04-18,Notts County,Blackburn,3,0,1.0
+1923-1924,38,1924-04-19,Sunderland,Arsenal,1,1,0.5
+1923-1924,38,1924-04-19,Manchester City,Huddersfield,1,1,0.5
+1923-1924,39,1924-04-19,Preston,West Ham,2,1,1.0
+1923-1924,39,1924-04-19,Aston Villa,Nott'ham Forest,2,0,1.0
+1923-1924,39,1924-04-19,Burnley,Cardiff City,1,2,0.0
+1923-1924,40,1924-04-19,Notts County,West Brom,1,0,1.0
+1923-1924,40,1924-04-19,Middlesbrough,Liverpool,1,1,0.5
+1923-1924,40,1924-04-19,Birmingham,Sheffield Utd,0,1,0.0
+1923-1924,40,1924-04-19,Chelsea,Newcastle Utd,1,0,1.0
+1923-1924,41,1924-04-19,Everton,Tottenham,4,2,1.0
+1923-1924,42,1924-04-19,Bolton,Blackburn,3,0,1.0
+1923-1924,39,1924-04-21,Arsenal,Everton,0,1,0.0
+1923-1924,39,1924-04-21,Tottenham,Manchester City,4,1,1.0
+1923-1924,40,1924-04-21,Nott'ham Forest,Preston,1,1,0.5
+1923-1924,40,1924-04-21,West Ham,Sheffield Utd,2,2,0.5
+1923-1924,40,1924-04-21,Cardiff City,Middlesbrough,1,0,1.0
+1923-1924,41,1924-04-21,West Brom,Sunderland,3,1,1.0
+1923-1924,41,1924-04-21,Aston Villa,Newcastle Utd,6,1,1.0
+1923-1924,39,1924-04-22,Huddersfield,Burnley,1,0,1.0
+1923-1924,40,1924-04-22,Tottenham,West Ham,0,1,0.0
+1923-1924,40,1924-04-26,West Ham,Manchester City,1,2,0.0
+1923-1924,40,1924-04-26,Preston,Arsenal,0,2,0.0
+1923-1924,40,1924-04-26,Nott'ham Forest,Huddersfield,1,1,0.5
+1923-1924,41,1924-04-26,Sheffield Utd,West Brom,2,0,1.0
+1923-1924,41,1924-04-26,Cardiff City,Birmingham,2,0,1.0
+1923-1924,41,1924-04-26,Burnley,Tottenham,2,2,0.5
+1923-1924,41,1924-04-26,Liverpool,Notts County,1,0,1.0
+1923-1924,42,1924-04-26,Chelsea,Sunderland,4,1,1.0
+1923-1924,41,1924-04-28,Burnley,Arsenal,4,1,1.0
+1923-1924,41,1924-04-30,Aston Villa,Huddersfield,3,1,1.0
+1923-1924,41,1924-04-30,Chelsea,Manchester City,3,1,1.0
+1923-1924,42,1924-05-03,Huddersfield,Nott'ham Forest,3,0,1.0
+1923-1924,42,1924-05-03,Tottenham,Burnley,1,0,1.0
+1923-1924,42,1924-05-03,Arsenal,Preston,1,2,0.0
+1923-1924,42,1924-05-03,West Brom,Sheffield Utd,3,1,1.0
+1923-1924,42,1924-05-03,Birmingham,Cardiff City,0,0,0.5
+1923-1924,42,1924-05-03,Manchester City,West Ham,2,1,1.0
+1923-1924,42,1924-05-03,Notts County,Liverpool,1,2,0.0

@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-07-26,Club Brugge,Mechelen,1.0,1.0,0.5
+2024-2025,1,2024-07-27,Dender,Union SG,0.0,0.0,0.5
+2024-2025,1,2024-07-27,Beerschot,OH Leuven,0.0,0.0,0.5
+2024-2025,1,2024-07-27,Anderlecht,Sint-Truiden,1.0,0.0,1.0
+2024-2025,1,2024-07-28,Genk,Standard Liège,0.0,0.0,0.5
+2024-2025,1,2024-07-28,Kortrijk,Gent,0.0,1.0,0.0
+2024-2025,1,2024-07-28,Charleroi,Antwerp,0.0,1.0,0.0
+2024-2025,1,2024-07-28,Westerlo,Cercle Brugge,3.0,0.0,1.0
+2024-2025,2,2024-08-02,Union SG,Beerschot,3.0,1.0,1.0
+2024-2025,2,2024-08-03,Mechelen,Westerlo,2.0,4.0,0.0
+2024-2025,2,2024-08-03,OH Leuven,Genk,3.0,1.0,1.0
+2024-2025,2,2024-08-03,Sint-Truiden,Charleroi,1.0,4.0,0.0
+2024-2025,2,2024-08-04,Antwerp,Anderlecht,1.0,2.0,0.0
+2024-2025,2,2024-08-04,Cercle Brugge,Kortrijk,1.0,2.0,0.0
+2024-2025,2,2024-08-04,Standard Liège,Club Brugge,1.0,0.0,1.0
+2024-2025,2,2024-08-04,Gent,Dender,1.0,2.0,0.0
+2024-2025,3,2024-08-09,Standard Liège,Mechelen,0.0,0.0,0.5
+2024-2025,3,2024-08-10,Dender,Kortrijk,4.0,1.0,1.0
+2024-2025,3,2024-08-10,Westerlo,Union SG,4.0,3.0,1.0
+2024-2025,3,2024-08-10,Anderlecht,OH Leuven,1.0,1.0,0.5
+2024-2025,3,2024-08-11,Genk,Club Brugge,3.0,2.0,1.0
+2024-2025,3,2024-08-11,Antwerp,Sint-Truiden,6.0,1.0,1.0
+2024-2025,3,2024-08-11,Charleroi,Gent,1.0,0.0,1.0
+2024-2025,3,2024-08-11,Cercle Brugge,Beerschot,4.0,1.0,1.0
+2024-2025,4,2024-08-16,Union SG,Charleroi,1.0,0.0,1.0
+2024-2025,4,2024-08-17,Beerschot,Genk,3.0,4.0,0.0
+2024-2025,4,2024-08-17,Sint-Truiden,Dender,3.0,3.0,0.5
+2024-2025,4,2024-08-17,Mechelen,Anderlecht,1.0,3.0,0.0
+2024-2025,4,2024-08-18,Club Brugge,Antwerp,1.0,0.0,1.0
+2024-2025,4,2024-08-18,OH Leuven,Cercle Brugge,1.0,1.0,0.5
+2024-2025,4,2024-08-18,Kortrijk,Standard Liège,1.0,0.0,1.0
+2024-2025,4,2024-08-18,Gent,Westerlo,4.0,1.0,1.0
+2024-2025,5,2024-08-24,Westerlo,OH Leuven,1.0,1.0,0.5
+2024-2025,5,2024-08-24,Antwerp,Mechelen,0.0,1.0,0.0
+2024-2025,5,2024-08-25,Dender,Club Brugge,1.0,2.0,0.0
+2024-2025,5,2024-08-25,Sint-Truiden,Union SG,0.0,0.0,0.5
+2024-2025,5,2024-08-25,Standard Liège,Beerschot,1.0,0.0,1.0
+2024-2025,5,2024-08-25,Charleroi,Kortrijk,1.0,0.0,1.0
+2024-2025,6,2024-08-30,Genk,Westerlo,1.0,0.0,1.0
+2024-2025,6,2024-08-31,Mechelen,Charleroi,5.0,2.0,1.0
+2024-2025,6,2024-08-31,Beerschot,Dender,1.0,2.0,0.0
+2024-2025,6,2024-08-31,OH Leuven,Standard Liège,2.0,0.0,1.0
+2024-2025,6,2024-09-01,Club Brugge,Cercle Brugge,3.0,0.0,1.0
+2024-2025,6,2024-09-01,Gent,Antwerp,1.0,1.0,0.5
+2024-2025,6,2024-09-01,Union SG,Anderlecht,0.0,0.0,0.5
+2024-2025,6,2024-09-01,Kortrijk,Sint-Truiden,1.0,1.0,0.5
+2024-2025,7,2024-09-13,Dender,Standard Liège,0.0,2.0,0.0
+2024-2025,7,2024-09-14,Cercle Brugge,Genk,2.0,3.0,0.0
+2024-2025,7,2024-09-14,Kortrijk,Club Brugge,0.0,3.0,0.0
+2024-2025,7,2024-09-14,Anderlecht,Westerlo,2.0,2.0,0.5
+2024-2025,7,2024-09-15,Antwerp,Union SG,2.0,0.0,1.0
+2024-2025,7,2024-09-15,Sint-Truiden,OH Leuven,2.0,1.0,1.0
+2024-2025,7,2024-09-15,Charleroi,Beerschot,3.0,0.0,1.0
+2024-2025,7,2024-09-15,Gent,Mechelen,2.0,0.0,1.0
+2024-2025,5,2024-09-17,Anderlecht,Genk,0.0,2.0,0.0
+2024-2025,8,2024-09-20,Standard Liège,Union SG,0.0,0.0,0.5
+2024-2025,8,2024-09-21,Beerschot,Sint-Truiden,0.0,3.0,0.0
+2024-2025,8,2024-09-21,Westerlo,Antwerp,1.0,2.0,0.0
+2024-2025,8,2024-09-21,Anderlecht,Charleroi,0.0,0.0,0.5
+2024-2025,8,2024-09-22,Club Brugge,Gent,2.0,4.0,0.0
+2024-2025,8,2024-09-22,Mechelen,Cercle Brugge,2.0,0.0,1.0
+2024-2025,8,2024-09-22,Genk,Dender,4.0,0.0,1.0
+2024-2025,8,2024-09-22,OH Leuven,Kortrijk,1.0,1.0,0.5
+2024-2025,5,2024-09-26,Cercle Brugge,Gent,2.0,1.0,1.0
+2024-2025,9,2024-09-27,Charleroi,Club Brugge,1.0,1.0,0.5
+2024-2025,9,2024-09-28,Genk,Mechelen,2.0,1.0,1.0
+2024-2025,9,2024-09-28,Standard Liège,Westerlo,1.0,2.0,0.0
+2024-2025,9,2024-09-28,Dender,Anderlecht,1.0,1.0,0.5
+2024-2025,9,2024-09-29,Antwerp,Beerschot,5.0,0.0,1.0
+2024-2025,9,2024-09-29,Union SG,Kortrijk,3.0,0.0,1.0
+2024-2025,9,2024-09-29,Gent,OH Leuven,3.0,0.0,1.0
+2024-2025,9,2024-09-29,Cercle Brugge,Sint-Truiden,1.0,1.0,0.5
+2024-2025,10,2024-10-04,Westerlo,Beerschot,2.0,2.0,0.5
+2024-2025,10,2024-10-05,Mechelen,OH Leuven,5.0,0.0,1.0
+2024-2025,10,2024-10-05,Kortrijk,Genk,2.0,1.0,1.0
+2024-2025,10,2024-10-05,Dender,Charleroi,1.0,0.0,1.0
+2024-2025,10,2024-10-06,Anderlecht,Standard Liège,3.0,0.0,1.0
+2024-2025,10,2024-10-06,Antwerp,Cercle Brugge,3.0,0.0,1.0
+2024-2025,10,2024-10-06,Club Brugge,Union SG,1.0,1.0,0.5
+2024-2025,10,2024-10-06,Sint-Truiden,Gent,1.0,1.0,0.5
+2024-2025,11,2024-10-18,Beerschot,Anderlecht,2.0,1.0,1.0
+2024-2025,11,2024-10-19,Westerlo,Club Brugge,1.0,2.0,0.0
+2024-2025,11,2024-10-19,Cercle Brugge,Dender,0.0,0.0,0.5
+2024-2025,11,2024-10-19,Union SG,Gent,0.0,0.0,0.5
+2024-2025,11,2024-10-20,Genk,Sint-Truiden,3.0,2.0,1.0
+2024-2025,11,2024-10-20,OH Leuven,Antwerp,1.0,1.0,0.5
+2024-2025,11,2024-10-20,Standard Liège,Charleroi,2.0,1.0,1.0
+2024-2025,11,2024-10-20,Mechelen,Kortrijk,3.0,0.0,1.0
+2024-2025,12,2024-10-25,Kortrijk,Beerschot,1.0,0.0,1.0
+2024-2025,12,2024-10-26,Charleroi,OH Leuven,0.0,2.0,0.0
+2024-2025,12,2024-10-26,Dender,Mechelen,2.0,5.0,0.0
+2024-2025,12,2024-10-26,Sint-Truiden,Westerlo,2.0,0.0,1.0
+2024-2025,12,2024-10-27,Club Brugge,Anderlecht,2.0,1.0,1.0
+2024-2025,12,2024-10-27,Antwerp,Standard Liège,3.0,0.0,1.0
+2024-2025,12,2024-10-27,Gent,Genk,0.0,2.0,0.0
+2024-2025,12,2024-10-27,Union SG,Cercle Brugge,1.0,3.0,0.0
+2024-2025,13,2024-11-01,Westerlo,Dender,2.0,0.0,1.0
+2024-2025,13,2024-11-02,Standard Liège,Sint-Truiden,2.0,1.0,1.0
+2024-2025,13,2024-11-02,OH Leuven,Club Brugge,0.0,1.0,0.0
+2024-2025,13,2024-11-02,Mechelen,Union SG,1.0,1.0,0.5
+2024-2025,13,2024-11-03,Genk,Antwerp,2.0,0.0,1.0
+2024-2025,13,2024-11-03,Cercle Brugge,Charleroi,2.0,0.0,1.0
+2024-2025,13,2024-11-03,Anderlecht,Kortrijk,4.0,0.0,1.0
+2024-2025,13,2024-11-03,Beerschot,Gent,0.0,0.0,0.5
+2024-2025,14,2024-11-08,Sint-Truiden,Mechelen,2.0,1.0,1.0
+2024-2025,14,2024-11-09,Kortrijk,Antwerp,1.0,2.0,0.0
+2024-2025,14,2024-11-09,Dender,OH Leuven,1.0,1.0,0.5
+2024-2025,14,2024-11-09,Charleroi,Westerlo,1.0,0.0,1.0
+2024-2025,14,2024-11-10,Cercle Brugge,Anderlecht,0.0,5.0,0.0
+2024-2025,14,2024-11-10,Gent,Standard Liège,5.0,0.0,1.0
+2024-2025,14,2024-11-10,Union SG,Genk,4.0,0.0,1.0
+2024-2025,14,2024-11-10,Beerschot,Club Brugge,2.0,2.0,0.5
+2024-2025,15,2024-11-22,Antwerp,Dender,1.0,1.0,0.5
+2024-2025,15,2024-11-23,Club Brugge,Sint-Truiden,7.0,0.0,1.0
+2024-2025,15,2024-11-23,Standard Liège,Cercle Brugge,1.0,0.0,1.0
+2024-2025,15,2024-11-23,Genk,Charleroi,3.0,0.0,1.0
+2024-2025,15,2024-11-24,Mechelen,Beerschot,3.0,0.0,1.0
+2024-2025,15,2024-11-24,OH Leuven,Union SG,1.0,1.0,0.5
+2024-2025,15,2024-11-24,Anderlecht,Gent,6.0,0.0,1.0
+2024-2025,15,2024-11-24,Westerlo,Kortrijk,4.0,0.0,1.0
+2024-2025,16,2024-11-29,Kortrijk,Mechelen,3.0,1.0,1.0
+2024-2025,16,2024-11-30,Club Brugge,Dender,4.0,1.0,1.0
+2024-2025,16,2024-11-30,Charleroi,Standard Liège,1.0,1.0,0.5
+2024-2025,16,2024-12-01,Sint-Truiden,Genk,2.0,2.0,0.5
+2024-2025,16,2024-12-01,Beerschot,Cercle Brugge,3.0,2.0,1.0
+2024-2025,16,2024-12-01,OH Leuven,Anderlecht,0.0,0.0,0.5
+2024-2025,16,2024-12-01,Union SG,Antwerp,2.0,1.0,1.0
+2024-2025,16,2024-12-01,Westerlo,Gent,2.0,2.0,0.5
+2024-2025,17,2024-12-07,Genk,Kortrijk,3.0,2.0,1.0
+2024-2025,17,2024-12-07,Standard Liège,OH Leuven,1.0,1.0,0.5
+2024-2025,17,2024-12-07,Mechelen,Club Brugge,1.0,2.0,0.0
+2024-2025,17,2024-12-07,Gent,Sint-Truiden,2.0,0.0,1.0
+2024-2025,17,2024-12-08,Antwerp,Charleroi,1.0,3.0,0.0
+2024-2025,17,2024-12-08,Cercle Brugge,Union SG,0.0,0.0,0.5
+2024-2025,17,2024-12-08,Anderlecht,Beerschot,2.0,1.0,1.0
+2024-2025,17,2024-12-08,Dender,Westerlo,1.0,0.0,1.0
+2024-2025,18,2024-12-13,Mechelen,Antwerp,1.0,1.0,0.5
+2024-2025,18,2024-12-14,Beerschot,Standard Liège,0.0,0.0,0.5
+2024-2025,18,2024-12-14,OH Leuven,Charleroi,1.0,0.0,1.0
+2024-2025,18,2024-12-14,Kortrijk,Dender,0.0,3.0,0.0
+2024-2025,18,2024-12-15,Club Brugge,Genk,2.0,0.0,1.0
+2024-2025,18,2024-12-15,Union SG,Westerlo,3.0,1.0,1.0
+2024-2025,18,2024-12-15,Sint-Truiden,Anderlecht,0.0,2.0,0.0
+2024-2025,18,2024-12-15,Gent,Cercle Brugge,1.0,1.0,0.5
+2024-2025,19,2024-12-20,Westerlo,Mechelen,1.0,1.0,0.5
+2024-2025,19,2024-12-21,Charleroi,Sint-Truiden,2.0,1.0,1.0
+2024-2025,19,2024-12-21,Dender,Antwerp,1.0,3.0,0.0
+2024-2025,19,2024-12-21,Beerschot,Kortrijk,2.0,2.0,0.5
+2024-2025,19,2024-12-22,Genk,Anderlecht,2.0,0.0,1.0
+2024-2025,19,2024-12-22,Standard Liège,Gent,0.0,1.0,0.0
+2024-2025,19,2024-12-22,Union SG,Club Brugge,2.0,2.0,0.5
+2024-2025,19,2024-12-22,Cercle Brugge,OH Leuven,1.0,0.0,1.0
+2024-2025,20,2024-12-26,Antwerp,Genk,2.0,2.0,0.5
+2024-2025,20,2024-12-26,Club Brugge,Westerlo,4.0,3.0,1.0
+2024-2025,20,2024-12-26,Kortrijk,Charleroi,0.0,1.0,0.0
+2024-2025,20,2024-12-26,Mechelen,Standard Liège,0.0,0.0,0.5
+2024-2025,20,2024-12-26,Gent,Union SG,1.0,3.0,0.0
+2024-2025,20,2024-12-27,OH Leuven,Beerschot,2.0,0.0,1.0
+2024-2025,20,2024-12-27,Anderlecht,Dender,2.0,3.0,0.0
+2024-2025,20,2024-12-27,Sint-Truiden,Cercle Brugge,1.0,1.0,0.5
+2024-2025,21,2025-01-10,Standard Liège,Kortrijk,1.0,0.0,1.0
+2024-2025,21,2025-01-11,Westerlo,Sint-Truiden,1.0,2.0,0.0
+2024-2025,21,2025-01-11,Genk,OH Leuven,2.0,0.0,1.0
+2024-2025,21,2025-01-11,Charleroi,Union SG,1.0,2.0,0.0
+2024-2025,21,2025-01-12,Beerschot,Antwerp,1.0,1.0,0.5
+2024-2025,21,2025-01-12,Dender,Gent,0.0,0.0,0.5
+2024-2025,21,2025-01-12,Anderlecht,Club Brugge,0.0,3.0,0.0
+2024-2025,21,2025-01-12,Cercle Brugge,Mechelen,1.0,0.0,1.0
+2024-2025,22,2025-01-17,Gent,Charleroi,1.0,1.0,0.5
+2024-2025,22,2025-01-18,Dender,Cercle Brugge,0.0,1.0,0.0
+2024-2025,22,2025-01-18,Mechelen,Genk,1.0,2.0,0.0
+2024-2025,22,2025-01-18,Club Brugge,Beerschot,4.0,2.0,1.0
+2024-2025,22,2025-01-19,Kortrijk,Anderlecht,0.0,2.0,0.0
+2024-2025,22,2025-01-19,Union SG,OH Leuven,1.0,0.0,1.0
+2024-2025,22,2025-01-19,Sint-Truiden,Standard Liège,1.0,2.0,0.0
+2024-2025,22,2025-01-19,Antwerp,Westerlo,3.0,2.0,1.0
+2024-2025,23,2025-01-24,Sint-Truiden,Antwerp,1.0,1.0,0.5
+2024-2025,23,2025-01-25,Westerlo,Genk,1.0,2.0,0.0
+2024-2025,23,2025-01-25,Charleroi,Cercle Brugge,1.0,1.0,0.5
+2024-2025,23,2025-01-25,Club Brugge,Kortrijk,1.0,1.0,0.5
+2024-2025,23,2025-01-26,Standard Liège,Dender,1.0,0.0,1.0
+2024-2025,23,2025-01-26,Beerschot,Union SG,0.0,4.0,0.0
+2024-2025,23,2025-01-26,Anderlecht,Mechelen,4.0,1.0,1.0
+2024-2025,23,2025-01-26,OH Leuven,Gent,0.0,0.0,0.5
+2024-2025,24,2025-01-31,OH Leuven,Mechelen,1.0,0.0,1.0
+2024-2025,24,2025-02-01,Charleroi,Dender,5.0,0.0,1.0
+2024-2025,24,2025-02-01,Cercle Brugge,Standard Liège,1.0,1.0,0.5
+2024-2025,24,2025-02-01,Genk,Beerschot,1.0,0.0,1.0
+2024-2025,24,2025-02-02,Antwerp,Club Brugge,2.0,1.0,1.0
+2024-2025,24,2025-02-02,Union SG,Sint-Truiden,2.0,1.0,1.0
+2024-2025,24,2025-02-02,Gent,Anderlecht,1.0,0.0,1.0
+2024-2025,24,2025-02-02,Kortrijk,Westerlo,1.0,2.0,0.0
+2024-2025,25,2025-02-07,Mechelen,Gent,3.0,3.0,0.5
+2024-2025,25,2025-02-08,Club Brugge,OH Leuven,1.0,0.0,1.0
+2024-2025,25,2025-02-08,Dender,Sint-Truiden,2.0,1.0,1.0
+2024-2025,25,2025-02-08,Genk,Cercle Brugge,2.0,1.0,1.0
+2024-2025,25,2025-02-09,Anderlecht,Antwerp,2.0,0.0,1.0
+2024-2025,25,2025-02-09,Kortrijk,Union SG,1.0,2.0,0.0
+2024-2025,25,2025-02-09,Westerlo,Standard Liège,4.0,2.0,1.0
+2024-2025,25,2025-02-09,Beerschot,Charleroi,1.0,1.0,0.5
+2024-2025,26,2025-02-14,Standard Liège,Genk,1.0,2.0,0.0
+2024-2025,26,2025-02-15,OH Leuven,Dender,3.0,2.0,1.0
+2024-2025,26,2025-02-15,Antwerp,Kortrijk,2.0,1.0,1.0
+2024-2025,26,2025-02-15,Sint-Truiden,Club Brugge,2.0,2.0,0.5
+2024-2025,26,2025-02-16,Gent,Beerschot,3.0,2.0,1.0
+2024-2025,26,2025-02-16,Union SG,Mechelen,0.0,1.0,0.0
+2024-2025,26,2025-02-16,Charleroi,Anderlecht,0.0,1.0,0.0
+2024-2025,26,2025-02-16,Cercle Brugge,Westerlo,1.0,1.0,0.5
+2024-2025,27,2025-02-21,Mechelen,Sint-Truiden,1.0,1.0,0.5
+2024-2025,27,2025-02-22,Dender,Beerschot,,,0.5
+2024-2025,27,2025-02-22,Westerlo,Charleroi,,,0.5
+2024-2025,27,2025-02-22,Antwerp,OH Leuven,,,0.5
+2024-2025,27,2025-02-23,Club Brugge,Standard Liège,,,0.5
+2024-2025,27,2025-02-23,Genk,Gent,,,0.5
+2024-2025,27,2025-02-23,Anderlecht,Union SG,,,0.5
+2024-2025,27,2025-02-23,Kortrijk,Cercle Brugge,,,0.5
+2024-2025,28,2025-02-28,Charleroi,Genk,,,0.5
+2024-2025,28,2025-03-01,Cercle Brugge,Antwerp,,,0.5
+2024-2025,28,2025-03-01,Sint-Truiden,Kortrijk,,,0.5
+2024-2025,28,2025-03-01,Union SG,Dender,,,0.5
+2024-2025,28,2025-03-02,Gent,Club Brugge,,,0.5
+2024-2025,28,2025-03-02,Beerschot,Mechelen,,,0.5
+2024-2025,28,2025-03-02,Standard Liège,Anderlecht,,,0.5
+2024-2025,28,2025-03-02,OH Leuven,Westerlo,,,0.5
+2024-2025,29,2025-03-07,Sint-Truiden,Beerschot,,,0.5
+2024-2025,29,2025-03-08,Kortrijk,OH Leuven,,,0.5
+2024-2025,29,2025-03-08,Charleroi,Mechelen,,,0.5
+2024-2025,29,2025-03-08,Dender,Genk,,,0.5
+2024-2025,29,2025-03-09,Cercle Brugge,Club Brugge,,,0.5
+2024-2025,29,2025-03-09,Westerlo,Anderlecht,,,0.5
+2024-2025,29,2025-03-09,Antwerp,Gent,,,0.5
+2024-2025,29,2025-03-09,Union SG,Standard Liège,,,0.5
+2024-2025,30,2025-03-16,Gent,Kortrijk,,,0.5
+2024-2025,30,2025-03-16,Beerschot,Westerlo,,,0.5
+2024-2025,30,2025-03-16,OH Leuven,Sint-Truiden,,,0.5
+2024-2025,30,2025-03-16,Genk,Union SG,,,0.5
+2024-2025,30,2025-03-16,Club Brugge,Charleroi,,,0.5
+2024-2025,30,2025-03-16,Standard Liège,Antwerp,,,0.5
+2024-2025,30,2025-03-16,Anderlecht,Cercle Brugge,,,0.5
+2024-2025,30,2025-03-16,Mechelen,Dender,,,0.5

@@ -1,0 +1,199 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-08-03,Hearts,Rangers,0.0,0.0,0.5
+2024-2025,1,2024-08-03,Motherwell,Ross County,0.0,0.0,0.5
+2024-2025,1,2024-08-04,Dundee United,Dundee,2.0,2.0,0.5
+2024-2025,1,2024-08-04,St Mirren,Hibernian,3.0,0.0,1.0
+2024-2025,1,2024-08-04,Celtic,Kilmarnock,4.0,0.0,1.0
+2024-2025,1,2024-08-05,St Johnstone,Aberdeen,1.0,2.0,0.0
+2024-2025,2,2024-08-10,Ross County,Dundee United,1.0,1.0,0.5
+2024-2025,2,2024-08-10,Rangers,Motherwell,2.0,1.0,1.0
+2024-2025,2,2024-08-10,Dundee,Hearts,3.0,1.0,1.0
+2024-2025,2,2024-08-11,Hibernian,Celtic,0.0,2.0,0.0
+2024-2025,2,2024-08-11,Kilmarnock,St Johnstone,0.0,3.0,0.0
+2024-2025,2,2024-08-11,Aberdeen,St Mirren,3.0,1.0,1.0
+2024-2025,3,2024-08-24,Hibernian,Dundee,2.0,2.0,0.5
+2024-2025,3,2024-08-24,Dundee United,St Johnstone,2.0,0.0,1.0
+2024-2025,3,2024-08-24,Rangers,Ross County,6.0,0.0,1.0
+2024-2025,3,2024-08-25,St Mirren,Celtic,0.0,3.0,0.0
+2024-2025,3,2024-08-25,Aberdeen,Kilmarnock,2.0,0.0,1.0
+2024-2025,3,2024-08-25,Motherwell,Hearts,3.0,1.0,1.0
+2024-2025,4,2024-08-31,Dundee,St Mirren,2.0,2.0,0.5
+2024-2025,4,2024-08-31,St Johnstone,Motherwell,1.0,2.0,0.0
+2024-2025,4,2024-08-31,Ross County,Aberdeen,0.0,1.0,0.0
+2024-2025,4,2024-09-01,Celtic,Rangers,3.0,0.0,1.0
+2024-2025,4,2024-09-01,Hearts,Dundee United,0.0,1.0,0.0
+2024-2025,4,2024-09-01,Kilmarnock,Hibernian,1.0,1.0,0.5
+2024-2025,5,2024-09-14,St Mirren,Kilmarnock,2.0,2.0,0.5
+2024-2025,5,2024-09-14,Aberdeen,Motherwell,2.0,1.0,1.0
+2024-2025,5,2024-09-14,Ross County,Dundee,2.0,0.0,1.0
+2024-2025,5,2024-09-14,Hibernian,St Johnstone,2.0,0.0,1.0
+2024-2025,5,2024-09-14,Celtic,Hearts,2.0,0.0,1.0
+2024-2025,5,2024-09-15,Dundee United,Rangers,0.0,1.0,0.0
+2024-2025,15,2024-09-21,Ross County,St Johnstone,3.0,3.0,0.5
+2024-2025,15,2024-09-21,St Mirren,Hearts,2.0,1.0,1.0
+2024-2025,6,2024-09-28,Hearts,Ross County,1.0,1.0,0.5
+2024-2025,6,2024-09-28,Kilmarnock,Dundee United,3.0,3.0,0.5
+2024-2025,6,2024-09-28,Motherwell,St Mirren,2.0,1.0,1.0
+2024-2025,6,2024-09-28,Dundee,Aberdeen,1.0,2.0,0.0
+2024-2025,6,2024-09-28,St Johnstone,Celtic,0.0,6.0,0.0
+2024-2025,6,2024-09-29,Rangers,Hibernian,1.0,0.0,1.0
+2024-2025,7,2024-10-05,St Mirren,Dundee United,0.0,1.0,0.0
+2024-2025,7,2024-10-05,Hibernian,Motherwell,1.0,2.0,0.0
+2024-2025,7,2024-10-05,Dundee,Kilmarnock,2.0,3.0,0.0
+2024-2025,7,2024-10-06,Ross County,Celtic,1.0,2.0,0.0
+2024-2025,7,2024-10-06,Aberdeen,Hearts,3.0,2.0,1.0
+2024-2025,7,2024-10-06,Rangers,St Johnstone,2.0,0.0,1.0
+2024-2025,8,2024-10-19,Motherwell,Dundee,0.0,1.0,0.0
+2024-2025,8,2024-10-19,St Johnstone,Ross County,3.0,0.0,1.0
+2024-2025,8,2024-10-19,Hearts,St Mirren,4.0,0.0,1.0
+2024-2025,8,2024-10-19,Celtic,Aberdeen,2.0,2.0,0.5
+2024-2025,8,2024-10-19,Dundee United,Hibernian,3.0,2.0,1.0
+2024-2025,8,2024-10-20,Kilmarnock,Rangers,1.0,0.0,1.0
+2024-2025,9,2024-10-26,Dundee,St Johnstone,1.0,2.0,0.0
+2024-2025,9,2024-10-26,Ross County,Kilmarnock,2.0,1.0,1.0
+2024-2025,9,2024-10-26,Aberdeen,Dundee United,1.0,0.0,1.0
+2024-2025,9,2024-10-27,Hibernian,Hearts,1.0,1.0,0.5
+2024-2025,9,2024-10-27,Rangers,St Mirren,2.0,1.0,1.0
+2024-2025,9,2024-10-27,Motherwell,Celtic,0.0,3.0,0.0
+2024-2025,10,2024-10-30,Hearts,Kilmarnock,1.0,2.0,0.0
+2024-2025,10,2024-10-30,Celtic,Dundee,2.0,0.0,1.0
+2024-2025,10,2024-10-30,Ross County,Hibernian,0.0,0.0,0.5
+2024-2025,10,2024-10-30,St Mirren,St Johnstone,3.0,1.0,1.0
+2024-2025,10,2024-10-30,Dundee United,Motherwell,1.0,2.0,0.0
+2024-2025,10,2024-10-30,Aberdeen,Rangers,2.0,1.0,1.0
+2024-2025,11,2024-11-02,St Johnstone,Hearts,1.0,2.0,0.0
+2024-2025,11,2024-11-02,St Mirren,Ross County,0.0,0.0,0.5
+2024-2025,15,2024-11-03,Hibernian,Dundee United,1.0,1.0,0.5
+2024-2025,23,2024-11-03,Dundee,Kilmarnock,3.0,2.0,1.0
+2024-2025,12,2024-11-09,Motherwell,St Johnstone,2.0,1.0,1.0
+2024-2025,12,2024-11-09,Dundee United,Ross County,3.0,0.0,1.0
+2024-2025,12,2024-11-09,Hibernian,St Mirren,1.0,2.0,0.0
+2024-2025,12,2024-11-09,Aberdeen,Dundee,4.0,1.0,1.0
+2024-2025,12,2024-11-10,Kilmarnock,Celtic,0.0,2.0,0.0
+2024-2025,12,2024-11-10,Rangers,Hearts,1.0,0.0,1.0
+2024-2025,13,2024-11-23,St Johnstone,Kilmarnock,1.0,0.0,1.0
+2024-2025,13,2024-11-23,Ross County,Motherwell,2.0,1.0,1.0
+2024-2025,13,2024-11-23,Rangers,Dundee United,1.0,1.0,0.5
+2024-2025,13,2024-11-23,St Mirren,Aberdeen,2.0,1.0,1.0
+2024-2025,13,2024-11-23,Dundee,Hibernian,4.0,1.0,1.0
+2024-2025,13,2024-11-23,Hearts,Celtic,1.0,4.0,0.0
+2024-2025,11,2024-11-26,Hibernian,Aberdeen,3.0,3.0,0.5
+2024-2025,14,2024-11-30,Kilmarnock,Dundee,1.0,1.0,0.5
+2024-2025,14,2024-11-30,Celtic,Ross County,5.0,0.0,1.0
+2024-2025,14,2024-11-30,Motherwell,Hibernian,0.0,3.0,0.0
+2024-2025,14,2024-11-30,Dundee United,St Mirren,2.0,0.0,1.0
+2024-2025,14,2024-12-01,St Johnstone,Rangers,0.0,1.0,0.0
+2024-2025,14,2024-12-01,Hearts,Aberdeen,1.0,1.0,0.5
+2024-2025,15,2024-12-04,Dundee,Motherwell,4.0,1.0,1.0
+2024-2025,15,2024-12-04,Rangers,Kilmarnock,6.0,0.0,1.0
+2024-2025,15,2024-12-04,Aberdeen,Celtic,0.0,1.0,0.0
+2024-2025,16,2024-12-07,Hearts,Dundee,2.0,0.0,1.0
+2024-2025,16,2024-12-07,Dundee United,Kilmarnock,1.0,1.0,0.5
+2024-2025,16,2024-12-07,St Mirren,Motherwell,0.0,1.0,0.0
+2024-2025,16,2024-12-07,Aberdeen,St Johnstone,1.0,1.0,0.5
+2024-2025,16,2024-12-07,Celtic,Hibernian,3.0,0.0,1.0
+2024-2025,16,2024-12-08,Ross County,Rangers,0.0,3.0,0.0
+2024-2025,17,2024-12-14,St Johnstone,St Mirren,2.0,3.0,0.0
+2024-2025,17,2024-12-14,Hibernian,Ross County,3.0,1.0,1.0
+2024-2025,17,2024-12-14,Motherwell,Dundee United,4.0,3.0,1.0
+2024-2025,17,2024-12-15,Kilmarnock,Hearts,1.0,0.0,1.0
+2024-2025,18,2024-12-20,Motherwell,Kilmarnock,1.0,1.0,0.5
+2024-2025,18,2024-12-21,Aberdeen,Hibernian,1.0,3.0,0.0
+2024-2025,18,2024-12-21,Rangers,Dundee,1.0,0.0,1.0
+2024-2025,18,2024-12-21,Ross County,St Mirren,1.0,2.0,0.0
+2024-2025,18,2024-12-22,Dundee United,Celtic,0.0,0.0,0.5
+2024-2025,18,2024-12-22,Hearts,St Johnstone,2.0,1.0,1.0
+2024-2025,19,2024-12-26,Hearts,Hibernian,1.0,2.0,0.0
+2024-2025,19,2024-12-26,St Johnstone,Dundee United,1.0,2.0,0.0
+2024-2025,19,2024-12-26,Kilmarnock,Aberdeen,4.0,0.0,1.0
+2024-2025,19,2024-12-26,Celtic,Motherwell,4.0,0.0,1.0
+2024-2025,19,2024-12-26,Dundee,Ross County,0.0,3.0,0.0
+2024-2025,19,2024-12-26,St Mirren,Rangers,2.0,1.0,1.0
+2024-2025,20,2024-12-29,Celtic,St Johnstone,4.0,0.0,1.0
+2024-2025,20,2024-12-29,St Mirren,Dundee,1.0,2.0,0.0
+2024-2025,20,2024-12-29,Ross County,Hearts,2.0,2.0,0.5
+2024-2025,20,2024-12-29,Motherwell,Rangers,2.0,2.0,0.5
+2024-2025,20,2024-12-29,Hibernian,Kilmarnock,1.0,0.0,1.0
+2024-2025,20,2024-12-29,Dundee United,Aberdeen,1.0,0.0,1.0
+2024-2025,21,2025-01-02,Rangers,Celtic,3.0,0.0,1.0
+2024-2025,21,2025-01-02,St Johnstone,Hibernian,1.0,1.0,0.5
+2024-2025,21,2025-01-02,Hearts,Motherwell,1.0,0.0,1.0
+2024-2025,21,2025-01-02,Aberdeen,Ross County,1.0,2.0,0.0
+2024-2025,21,2025-01-02,Kilmarnock,St Mirren,2.0,0.0,1.0
+2024-2025,21,2025-01-02,Dundee,Dundee United,1.0,2.0,0.0
+2024-2025,22,2025-01-05,Hibernian,Rangers,3.0,3.0,0.5
+2024-2025,22,2025-01-05,Motherwell,Aberdeen,2.0,0.0,1.0
+2024-2025,22,2025-01-05,Celtic,St Mirren,3.0,0.0,1.0
+2024-2025,22,2025-01-05,Dundee United,Hearts,0.0,1.0,0.0
+2024-2025,22,2025-01-05,St Johnstone,Dundee,1.0,3.0,0.0
+2024-2025,22,2025-01-05,Kilmarnock,Ross County,0.0,1.0,0.0
+2024-2025,11,2025-01-08,Kilmarnock,Motherwell,0.0,0.0,0.5
+2024-2025,11,2025-01-08,Celtic,Dundee United,2.0,0.0,1.0
+2024-2025,11,2025-01-09,Dundee,Rangers,1.0,1.0,0.5
+2024-2025,23,2025-01-11,Ross County,Celtic,1.0,4.0,0.0
+2024-2025,23,2025-01-11,St Mirren,Dundee United,0.0,1.0,0.0
+2024-2025,23,2025-01-11,Hibernian,Motherwell,3.0,1.0,1.0
+2024-2025,23,2025-01-12,Aberdeen,Hearts,0.0,0.0,0.5
+2024-2025,23,2025-01-12,Rangers,St Johnstone,3.0,1.0,1.0
+2024-2025,17,2025-01-14,Dundee,Celtic,3.0,3.0,0.5
+2024-2025,17,2025-01-15,Rangers,Aberdeen,3.0,0.0,1.0
+2024-2025,24,2025-01-25,Ross County,Hibernian,1.0,1.0,0.5
+2024-2025,24,2025-01-25,St Johnstone,Motherwell,2.0,1.0,1.0
+2024-2025,24,2025-01-25,Aberdeen,St Mirren,0.0,3.0,0.0
+2024-2025,24,2025-01-25,Hearts,Kilmarnock,3.0,2.0,1.0
+2024-2025,24,2025-01-26,Dundee United,Rangers,1.0,3.0,0.0
+2024-2025,25,2025-02-01,St Mirren,St Johnstone,0.0,1.0,0.0
+2024-2025,25,2025-02-01,Dundee,Hearts,0.0,6.0,0.0
+2024-2025,25,2025-02-01,Hibernian,Aberdeen,2.0,0.0,1.0
+2024-2025,25,2025-02-01,Kilmarnock,Dundee United,1.0,0.0,1.0
+2024-2025,25,2025-02-02,Motherwell,Celtic,1.0,3.0,0.0
+2024-2025,25,2025-02-02,Rangers,Ross County,4.0,0.0,1.0
+2024-2025,24,2025-02-05,Celtic,Dundee,6.0,0.0,1.0
+2024-2025,26,2025-02-15,Celtic,Dundee United,3.0,0.0,1.0
+2024-2025,26,2025-02-15,Dundee,Aberdeen,1.0,2.0,0.0
+2024-2025,26,2025-02-15,Motherwell,Ross County,0.0,3.0,0.0
+2024-2025,26,2025-02-15,Kilmarnock,St Johnstone,3.0,1.0,1.0
+2024-2025,26,2025-02-16,Hearts,Rangers,1.0,3.0,0.0
+2024-2025,26,2025-02-16,St Mirren,Hibernian,0.0,0.0,0.5
+2024-2025,27,2025-02-22,Hibernian,Celtic,2.0,1.0,1.0
+2024-2025,27,2025-02-22,Rangers,St Mirren,0.0,2.0,0.0
+2024-2025,27,2025-02-22,Ross County,Dundee,3.0,1.0,1.0
+2024-2025,27,2025-02-22,Dundee United,Motherwell,1.0,0.0,1.0
+2024-2025,27,2025-02-22,Aberdeen,Kilmarnock,1.0,0.0,1.0
+2024-2025,27,2025-02-23,St Johnstone,Hearts,,,
+2024-2025,28,2025-02-25,Celtic,Aberdeen,,,
+2024-2025,28,2025-02-26,Hearts,St Mirren,,,
+2024-2025,28,2025-02-26,St Johnstone,Ross County,,,
+2024-2025,28,2025-02-26,Dundee United,Hibernian,,,
+2024-2025,28,2025-02-26,Motherwell,Dundee,,,
+2024-2025,28,2025-02-26,Kilmarnock,Rangers,,,
+2024-2025,29,2025-03-01,Rangers,Motherwell,,,
+2024-2025,29,2025-03-01,Dundee,St Johnstone,,,
+2024-2025,29,2025-03-01,Ross County,Kilmarnock,,,
+2024-2025,29,2025-03-01,St Mirren,Celtic,,,
+2024-2025,29,2025-03-02,Hibernian,Hearts,,,
+2024-2025,29,2025-03-02,Aberdeen,Dundee United,,,
+2024-2025,30,2025-03-15,Motherwell,St Mirren,,,
+2024-2025,30,2025-03-15,St Johnstone,Aberdeen,,,
+2024-2025,30,2025-03-15,Kilmarnock,Hibernian,,,
+2024-2025,30,2025-03-15,Hearts,Ross County,,,
+2024-2025,30,2025-03-16,Celtic,Rangers,,,
+2024-2025,30,2025-03-16,Dundee United,Dundee,,,
+2024-2025,31,2025-03-29,Hibernian,St Johnstone,,,
+2024-2025,31,2025-03-29,Ross County,Dundee United,,,
+2024-2025,31,2025-03-29,St Mirren,Kilmarnock,,,
+2024-2025,31,2025-03-29,Aberdeen,Motherwell,,,
+2024-2025,31,2025-03-29,Dundee,Rangers,,,
+2024-2025,31,2025-03-29,Celtic,Hearts,,,
+2024-2025,32,2025-04-05,Rangers,Hibernian,,,
+2024-2025,32,2025-04-05,St Johnstone,Celtic,,,
+2024-2025,32,2025-04-05,Ross County,Aberdeen,,,
+2024-2025,32,2025-04-05,Hearts,Dundee United,,,
+2024-2025,32,2025-04-05,Dundee,St Mirren,,,
+2024-2025,32,2025-04-05,Kilmarnock,Motherwell,,,
+2024-2025,33,2025-04-12,Hibernian,Dundee,,,
+2024-2025,33,2025-04-12,Aberdeen,Rangers,,,
+2024-2025,33,2025-04-12,Motherwell,Hearts,,,
+2024-2025,33,2025-04-12,Dundee United,St Johnstone,,,
+2024-2025,33,2025-04-12,Celtic,Kilmarnock,,,
+2024-2025,33,2025-04-12,St Mirren,Ross County,,,

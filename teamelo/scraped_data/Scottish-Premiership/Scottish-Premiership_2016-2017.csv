@@ -1,0 +1,231 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2016-2017,Regular season,1,2016-08-06,Rangers,Hamilton,1,1,0.5
+2016-2017,Regular season,1,2016-08-06,Partick Thistle,Inverness CT,2,0,1.0
+2016-2017,Regular season,1,2016-08-06,Kilmarnock,Motherwell,1,2,0.0
+2016-2017,Regular season,1,2016-08-06,Ross County,Dundee,1,3,0.0
+2016-2017,Regular season,1,2016-08-07,St Johnstone,Aberdeen,0,0,0.5
+2016-2017,Regular season,1,2016-08-07,Hearts,Celtic,1,2,0.0
+2016-2017,Regular season,2,2016-08-13,Dundee,Rangers,1,2,0.0
+2016-2017,Regular season,2,2016-08-13,Motherwell,St Johnstone,1,2,0.0
+2016-2017,Regular season,2,2016-08-13,Aberdeen,Hearts,0,0,0.5
+2016-2017,Regular season,2,2016-08-13,Inverness CT,Ross County,2,3,0.0
+2016-2017,Regular season,2,2016-08-13,Hamilton,Kilmarnock,1,2,0.0
+2016-2017,Regular season,3,2016-08-19,Dundee,Hamilton,1,1,0.5
+2016-2017,Regular season,3,2016-08-20,St Johnstone,Celtic,2,4,0.0
+2016-2017,Regular season,3,2016-08-20,Hearts,Inverness CT,5,1,1.0
+2016-2017,Regular season,3,2016-08-20,Aberdeen,Partick Thistle,2,1,1.0
+2016-2017,Regular season,3,2016-08-20,Ross County,Kilmarnock,2,0,1.0
+2016-2017,Regular season,3,2016-08-20,Rangers,Motherwell,2,1,1.0
+2016-2017,Regular season,4,2016-08-26,Kilmarnock,Rangers,1,1,0.5
+2016-2017,Regular season,4,2016-08-27,Hamilton,Ross County,1,0,1.0
+2016-2017,Regular season,4,2016-08-27,Motherwell,Dundee,0,0,0.5
+2016-2017,Regular season,4,2016-08-27,Inverness CT,St Johnstone,2,1,1.0
+2016-2017,Regular season,4,2016-08-27,Partick Thistle,Hearts,1,2,0.0
+2016-2017,Regular season,4,2016-08-27,Celtic,Aberdeen,4,1,1.0
+2016-2017,Regular season,5,2016-09-10,Celtic,Rangers,5,1,1.0
+2016-2017,Regular season,5,2016-09-10,Dundee,Kilmarnock,1,1,0.5
+2016-2017,Regular season,5,2016-09-10,Partick Thistle,St Johnstone,0,2,0.0
+2016-2017,Regular season,5,2016-09-10,Hearts,Hamilton,3,1,1.0
+2016-2017,Regular season,5,2016-09-10,Ross County,Motherwell,1,1,0.5
+2016-2017,Regular season,5,2016-09-10,Aberdeen,Inverness CT,1,1,0.5
+2016-2017,Regular season,6,2016-09-17,St Johnstone,Hearts,1,0,1.0
+2016-2017,Regular season,6,2016-09-17,Motherwell,Hamilton,4,2,1.0
+2016-2017,Regular season,6,2016-09-17,Rangers,Ross County,0,0,0.5
+2016-2017,Regular season,6,2016-09-17,Kilmarnock,Partick Thistle,2,2,0.5
+2016-2017,Regular season,6,2016-09-18,Dundee,Aberdeen,1,3,0.0
+2016-2017,Regular season,6,2016-09-18,Inverness CT,Celtic,2,2,0.5
+2016-2017,Regular season,7,2016-09-24,Celtic,Kilmarnock,6,1,1.0
+2016-2017,Regular season,7,2016-09-24,Hearts,Ross County,0,0,0.5
+2016-2017,Regular season,7,2016-09-24,Partick Thistle,Motherwell,1,1,0.5
+2016-2017,Regular season,7,2016-09-24,Inverness CT,Dundee,3,1,1.0
+2016-2017,Regular season,7,2016-09-25,Aberdeen,Rangers,2,1,1.0
+2016-2017,Regular season,7,2016-09-25,Hamilton,St Johnstone,1,1,0.5
+2016-2017,Regular season,8,2016-09-30,Motherwell,Hearts,1,3,0.0
+2016-2017,Regular season,8,2016-10-01,Dundee,Celtic,0,1,0.0
+2016-2017,Regular season,8,2016-10-01,Rangers,Partick Thistle,2,0,1.0
+2016-2017,Regular season,8,2016-10-01,Hamilton,Inverness CT,1,1,0.5
+2016-2017,Regular season,8,2016-10-01,Kilmarnock,Aberdeen,0,4,0.0
+2016-2017,Regular season,8,2016-10-01,Ross County,St Johnstone,0,2,0.0
+2016-2017,Regular season,9,2016-10-14,Inverness CT,Rangers,0,1,0.0
+2016-2017,Regular season,9,2016-10-15,Hearts,Dundee,2,0,1.0
+2016-2017,Regular season,9,2016-10-15,Partick Thistle,Hamilton,2,2,0.5
+2016-2017,Regular season,9,2016-10-15,Celtic,Motherwell,2,0,1.0
+2016-2017,Regular season,9,2016-10-15,Aberdeen,Ross County,4,0,1.0
+2016-2017,Regular season,9,2016-10-15,St Johnstone,Kilmarnock,0,1,0.0
+2016-2017,Regular season,10,2016-10-22,Partick Thistle,Ross County,1,1,0.5
+2016-2017,Regular season,10,2016-10-22,Inverness CT,Kilmarnock,1,1,0.5
+2016-2017,Regular season,10,2016-10-23,St Johnstone,Dundee,2,1,1.0
+2016-2017,Regular season,11,2016-10-25,Hamilton,Aberdeen,1,0,1.0
+2016-2017,Regular season,11,2016-10-26,Rangers,St Johnstone,1,1,0.5
+2016-2017,Regular season,11,2016-10-26,Kilmarnock,Hearts,2,0,1.0
+2016-2017,Regular season,11,2016-10-26,Dundee,Partick Thistle,0,2,0.0
+2016-2017,Regular season,11,2016-10-26,Motherwell,Inverness CT,0,3,0.0
+2016-2017,Regular season,11,2016-10-26,Ross County,Celtic,0,4,0.0
+2016-2017,Regular season,12,2016-10-29,Aberdeen,Celtic,0,1,0.0
+2016-2017,Regular season,12,2016-10-29,Motherwell,Ross County,4,1,1.0
+2016-2017,Regular season,12,2016-10-29,Hamilton,Dundee,0,1,0.0
+2016-2017,Regular season,12,2016-10-29,Rangers,Kilmarnock,3,0,1.0
+2016-2017,Regular season,12,2016-10-29,St Johnstone,Partick Thistle,1,2,0.0
+2016-2017,Regular season,12,2016-10-29,Inverness CT,Hearts,3,3,0.5
+2016-2017,Regular season,13,2016-11-04,Partick Thistle,Aberdeen,1,2,0.0
+2016-2017,Regular season,13,2016-11-05,Dundee,Motherwell,2,0,1.0
+2016-2017,Regular season,13,2016-11-05,Celtic,Inverness CT,3,0,1.0
+2016-2017,Regular season,13,2016-11-05,Hearts,St Johnstone,2,2,0.5
+2016-2017,Regular season,13,2016-11-05,Kilmarnock,Hamilton,0,0,0.5
+2016-2017,Regular season,13,2016-11-06,Ross County,Rangers,1,1,0.5
+2016-2017,Regular season,14,2016-11-18,Kilmarnock,Celtic,0,1,0.0
+2016-2017,Regular season,14,2016-11-19,Motherwell,Partick Thistle,2,0,1.0
+2016-2017,Regular season,14,2016-11-19,Inverness CT,Aberdeen,1,3,0.0
+2016-2017,Regular season,14,2016-11-19,St Johnstone,Ross County,2,4,0.0
+2016-2017,Regular season,14,2016-11-19,Rangers,Dundee,1,0,1.0
+2016-2017,Regular season,14,2016-11-21,Hamilton,Hearts,3,3,0.5
+2016-2017,Regular season,15,2016-11-26,Partick Thistle,Rangers,1,2,0.0
+2016-2017,Regular season,15,2016-11-26,Dundee,Inverness CT,2,1,1.0
+2016-2017,Regular season,15,2016-11-26,Ross County,Hamilton,1,1,0.5
+2016-2017,Regular season,15,2016-11-26,Hearts,Motherwell,3,0,1.0
+2016-2017,Regular season,10,2016-11-30,Hearts,Rangers,2,0,1.0
+2016-2017,Regular season,16,2016-12-03,Motherwell,Celtic,3,4,0.0
+2016-2017,Regular season,16,2016-12-03,Rangers,Aberdeen,2,1,1.0
+2016-2017,Regular season,16,2016-12-03,Kilmarnock,Dundee,2,0,1.0
+2016-2017,Regular season,16,2016-12-03,Hamilton,Partick Thistle,1,1,0.5
+2016-2017,Regular season,16,2016-12-03,Ross County,Hearts,2,2,0.5
+2016-2017,Regular season,16,2016-12-03,St Johnstone,Inverness CT,3,0,1.0
+2016-2017,Regular season,15,2016-12-06,Aberdeen,Kilmarnock,5,1,1.0
+2016-2017,Regular season,17,2016-12-09,Partick Thistle,Celtic,1,4,0.0
+2016-2017,Regular season,17,2016-12-10,Motherwell,Kilmarnock,0,0,0.5
+2016-2017,Regular season,17,2016-12-10,Dundee,Ross County,0,0,0.5
+2016-2017,Regular season,17,2016-12-10,Rangers,Hearts,2,0,1.0
+2016-2017,Regular season,17,2016-12-10,Aberdeen,St Johnstone,0,0,0.5
+2016-2017,Regular season,17,2016-12-10,Inverness CT,Hamilton,1,1,0.5
+2016-2017,Regular season,10,2016-12-13,Celtic,Hamilton,1,0,1.0
+2016-2017,Regular season,18,2016-12-16,Hamilton,Rangers,1,2,0.0
+2016-2017,Regular season,18,2016-12-17,Hearts,Partick Thistle,1,1,0.5
+2016-2017,Regular season,18,2016-12-17,Celtic,Dundee,2,1,1.0
+2016-2017,Regular season,18,2016-12-17,Ross County,Aberdeen,2,1,1.0
+2016-2017,Regular season,18,2016-12-17,St Johnstone,Motherwell,1,1,0.5
+2016-2017,Regular season,18,2016-12-17,Kilmarnock,Inverness CT,1,1,0.5
+2016-2017,Regular season,2,2016-12-20,Celtic,Partick Thistle,1,0,1.0
+2016-2017,Regular season,19,2016-12-23,Motherwell,Aberdeen,1,3,0.0
+2016-2017,Regular season,19,2016-12-23,Ross County,Partick Thistle,1,3,0.0
+2016-2017,Regular season,19,2016-12-23,Kilmarnock,St Johnstone,0,1,0.0
+2016-2017,Regular season,19,2016-12-23,Dundee,Hearts,3,2,1.0
+2016-2017,Regular season,19,2016-12-24,Hamilton,Celtic,0,3,0.0
+2016-2017,Regular season,19,2016-12-24,Rangers,Inverness CT,1,0,1.0
+2016-2017,Regular season,20,2016-12-27,Aberdeen,Hamilton,2,1,1.0
+2016-2017,Regular season,20,2016-12-27,Hearts,Kilmarnock,4,0,1.0
+2016-2017,Regular season,20,2016-12-28,Celtic,Ross County,2,0,1.0
+2016-2017,Regular season,20,2016-12-28,Inverness CT,Motherwell,1,2,0.0
+2016-2017,Regular season,20,2016-12-28,St Johnstone,Rangers,1,1,0.5
+2016-2017,Regular season,20,2016-12-28,Partick Thistle,Dundee,2,0,1.0
+2016-2017,Regular season,21,2016-12-30,Hearts,Aberdeen,0,1,0.0
+2016-2017,Regular season,21,2016-12-31,Rangers,Celtic,1,2,0.0
+2016-2017,Regular season,21,2016-12-31,Hamilton,Motherwell,1,1,0.5
+2016-2017,Regular season,21,2016-12-31,Dundee,St Johnstone,3,0,1.0
+2016-2017,Regular season,21,2016-12-31,Partick Thistle,Kilmarnock,0,0,0.5
+2016-2017,Regular season,21,2016-12-31,Ross County,Inverness CT,3,2,1.0
+2016-2017,Regular season,15,2017-01-25,Celtic,St Johnstone,1,0,1.0
+2016-2017,Regular season,22,2017-01-27,Aberdeen,Dundee,3,0,1.0
+2016-2017,Regular season,22,2017-01-28,Motherwell,Rangers,0,2,0.0
+2016-2017,Regular season,22,2017-01-28,Kilmarnock,Ross County,3,2,1.0
+2016-2017,Regular season,22,2017-01-28,St Johnstone,Hamilton,3,0,1.0
+2016-2017,Regular season,22,2017-01-28,Inverness CT,Partick Thistle,0,0,0.5
+2016-2017,Regular season,22,2017-01-29,Celtic,Hearts,4,0,1.0
+2016-2017,Regular season,23,2017-01-31,Hamilton,Inverness CT,3,0,1.0
+2016-2017,Regular season,23,2017-01-31,Ross County,Motherwell,1,2,0.0
+2016-2017,Regular season,23,2017-02-01,Hearts,Rangers,4,1,1.0
+2016-2017,Regular season,23,2017-02-01,Celtic,Aberdeen,1,0,1.0
+2016-2017,Regular season,23,2017-02-01,Partick Thistle,St Johnstone,0,1,0.0
+2016-2017,Regular season,24,2017-02-04,Motherwell,Hearts,0,3,0.0
+2016-2017,Regular season,24,2017-02-04,Rangers,Ross County,1,1,0.5
+2016-2017,Regular season,24,2017-02-04,Hamilton,Kilmarnock,1,1,0.5
+2016-2017,Regular season,24,2017-02-04,Aberdeen,Partick Thistle,2,0,1.0
+2016-2017,Regular season,24,2017-02-04,Inverness CT,Dundee,2,2,0.5
+2016-2017,Regular season,24,2017-02-05,St Johnstone,Celtic,2,5,0.0
+2016-2017,Regular season,23,2017-02-11,Dundee,Kilmarnock,1,1,0.5
+2016-2017,Regular season,10,2017-02-15,Aberdeen,Motherwell,7,2,1.0
+2016-2017,Regular season,25,2017-02-18,Partick Thistle,Hamilton,2,0,1.0
+2016-2017,Regular season,25,2017-02-18,Ross County,St Johnstone,1,2,0.0
+2016-2017,Regular season,25,2017-02-18,Hearts,Inverness CT,1,1,0.5
+2016-2017,Regular season,25,2017-02-18,Celtic,Motherwell,2,0,1.0
+2016-2017,Regular season,25,2017-02-19,Kilmarnock,Aberdeen,1,2,0.0
+2016-2017,Regular season,25,2017-02-19,Dundee,Rangers,2,1,1.0
+2016-2017,Regular season,26,2017-02-24,Inverness CT,Rangers,2,1,1.0
+2016-2017,Regular season,26,2017-02-25,Partick Thistle,Hearts,2,0,1.0
+2016-2017,Regular season,26,2017-02-25,Celtic,Hamilton,2,0,1.0
+2016-2017,Regular season,26,2017-02-25,Motherwell,Dundee,1,5,0.0
+2016-2017,Regular season,26,2017-02-25,St Johnstone,Kilmarnock,0,2,0.0
+2016-2017,Regular season,26,2017-02-25,Aberdeen,Ross County,1,0,1.0
+2016-2017,Regular season,27,2017-02-28,Hamilton,Aberdeen,1,0,1.0
+2016-2017,Regular season,27,2017-03-01,Dundee,Partick Thistle,0,1,0.0
+2016-2017,Regular season,27,2017-03-01,Inverness CT,Celtic,0,4,0.0
+2016-2017,Regular season,27,2017-03-01,Hearts,Ross County,0,1,0.0
+2016-2017,Regular season,27,2017-03-01,Rangers,St Johnstone,3,2,1.0
+2016-2017,Regular season,27,2017-03-04,Kilmarnock,Motherwell,1,2,0.0
+2016-2017,Regular season,28,2017-03-11,Hearts,Hamilton,4,0,1.0
+2016-2017,Regular season,28,2017-03-11,Partick Thistle,Inverness CT,1,1,0.5
+2016-2017,Regular season,28,2017-03-11,Aberdeen,Motherwell,1,0,1.0
+2016-2017,Regular season,28,2017-03-11,Ross County,Kilmarnock,1,2,0.0
+2016-2017,Regular season,28,2017-03-11,St Johnstone,Dundee,2,0,1.0
+2016-2017,Regular season,28,2017-03-12,Celtic,Rangers,1,1,0.5
+2016-2017,Regular season,29,2017-03-18,Aberdeen,Hearts,2,0,1.0
+2016-2017,Regular season,29,2017-03-18,Rangers,Hamilton,4,0,1.0
+2016-2017,Regular season,29,2017-03-18,Motherwell,St Johnstone,1,2,0.0
+2016-2017,Regular season,29,2017-03-18,Kilmarnock,Partick Thistle,1,1,0.5
+2016-2017,Regular season,29,2017-03-18,Inverness CT,Ross County,1,1,0.5
+2016-2017,Regular season,29,2017-03-19,Dundee,Celtic,1,2,0.0
+2016-2017,Regular season,30,2017-03-31,Dundee,Aberdeen,0,7,0.0
+2016-2017,Regular season,30,2017-04-01,Inverness CT,Kilmarnock,1,1,0.5
+2016-2017,Regular season,30,2017-04-01,Partick Thistle,Ross County,2,1,1.0
+2016-2017,Regular season,30,2017-04-01,Rangers,Motherwell,1,1,0.5
+2016-2017,Regular season,30,2017-04-01,Hamilton,St Johnstone,1,0,1.0
+2016-2017,Regular season,30,2017-04-02,Hearts,Celtic,0,5,0.0
+2016-2017,Regular season,31,2017-04-04,Aberdeen,Inverness CT,1,0,1.0
+2016-2017,Regular season,31,2017-04-04,Ross County,Dundee,2,1,1.0
+2016-2017,Regular season,31,2017-04-05,St Johnstone,Hearts,1,0,1.0
+2016-2017,Regular season,31,2017-04-05,Motherwell,Hamilton,0,0,0.5
+2016-2017,Regular season,31,2017-04-05,Celtic,Partick Thistle,1,1,0.5
+2016-2017,Regular season,31,2017-04-05,Kilmarnock,Rangers,0,0,0.5
+2016-2017,Regular season,32,2017-04-08,Hamilton,Ross County,1,1,0.5
+2016-2017,Regular season,32,2017-04-08,Inverness CT,St Johnstone,0,3,0.0
+2016-2017,Regular season,32,2017-04-08,Celtic,Kilmarnock,3,1,1.0
+2016-2017,Regular season,32,2017-04-08,Hearts,Dundee,1,0,1.0
+2016-2017,Regular season,32,2017-04-08,Partick Thistle,Motherwell,1,0,1.0
+2016-2017,Regular season,32,2017-04-09,Aberdeen,Rangers,0,3,0.0
+2016-2017,Regular season,33,2017-04-14,Kilmarnock,Hearts,0,0,0.5
+2016-2017,Regular season,33,2017-04-15,Dundee,Hamilton,0,2,0.0
+2016-2017,Regular season,33,2017-04-15,Motherwell,Inverness CT,4,2,1.0
+2016-2017,Regular season,33,2017-04-15,St Johnstone,Aberdeen,1,2,0.0
+2016-2017,Regular season,33,2017-04-15,Rangers,Partick Thistle,2,0,1.0
+2016-2017,Regular season,33,2017-04-16,Ross County,Celtic,2,2,0.5
+2016-2017,Relegation round,1,2017-04-28,Ross County,Inverness CT,4,0,1.0
+2016-2017,Championship round,1,2017-04-29,Rangers,Celtic,1,5,0.0
+2016-2017,Championship round,1,2017-04-29,Aberdeen,St Johnstone,0,2,0.0
+2016-2017,Championship round,1,2017-04-29,Hearts,Partick Thistle,2,2,0.5
+2016-2017,Relegation round,1,2017-04-29,Hamilton,Kilmarnock,0,2,0.0
+2016-2017,Relegation round,1,2017-04-29,Motherwell,Dundee,2,3,0.0
+2016-2017,Relegation round,2,2017-05-06,Inverness CT,Hamilton,2,1,1.0
+2016-2017,Championship round,2,2017-05-06,Celtic,St Johnstone,4,1,1.0
+2016-2017,Relegation round,2,2017-05-06,Motherwell,Ross County,0,1,0.0
+2016-2017,Relegation round,2,2017-05-06,Kilmarnock,Dundee,0,1,0.0
+2016-2017,Championship round,2,2017-05-07,Partick Thistle,Rangers,1,2,0.0
+2016-2017,Championship round,2,2017-05-07,Hearts,Aberdeen,1,2,0.0
+2016-2017,Championship round,3,2017-05-12,Aberdeen,Celtic,1,3,0.0
+2016-2017,Championship round,3,2017-05-13,Rangers,Hearts,2,1,1.0
+2016-2017,Championship round,3,2017-05-13,St Johnstone,Partick Thistle,1,0,1.0
+2016-2017,Relegation round,3,2017-05-13,Dundee,Ross County,1,1,0.5
+2016-2017,Relegation round,3,2017-05-13,Kilmarnock,Inverness CT,2,1,1.0
+2016-2017,Relegation round,3,2017-05-13,Hamilton,Motherwell,0,1,0.0
+2016-2017,Relegation round,4,2017-05-16,Motherwell,Kilmarnock,3,1,1.0
+2016-2017,Relegation round,4,2017-05-16,Ross County,Hamilton,3,2,1.0
+2016-2017,Championship round,4,2017-05-17,Rangers,Aberdeen,1,2,0.0
+2016-2017,Championship round,4,2017-05-17,St Johnstone,Hearts,1,0,1.0
+2016-2017,Relegation round,4,2017-05-17,Dundee,Inverness CT,0,2,0.0
+2016-2017,Championship round,4,2017-05-18,Partick Thistle,Celtic,0,5,0.0
+2016-2017,Relegation round,5,2017-05-20,Inverness CT,Motherwell,3,2,1.0
+2016-2017,Relegation round,5,2017-05-20,Hamilton,Dundee,4,0,1.0
+2016-2017,Relegation round,5,2017-05-20,Kilmarnock,Ross County,1,2,0.0
+2016-2017,Championship round,5,2017-05-21,Partick Thistle,Aberdeen,0,6,0.0
+2016-2017,Championship round,5,2017-05-21,St Johnstone,Rangers,1,2,0.0
+2016-2017,Championship round,5,2017-05-21,Celtic,Hearts,2,0,1.0
+2016-2017,Finals,,2017-05-25,Dundee United,Hamilton,0,0,0.5
+2016-2017,Finals,,2017-05-28,Hamilton,Dundee United,1,0,1.0

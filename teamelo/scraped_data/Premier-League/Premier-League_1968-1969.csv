@@ -1,0 +1,462 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1968-1969,1,1968-08-10,Tottenham,Arsenal,1,2,0.0
+1968-1969,1,1968-08-10,QPR,Leicester City,1,1,0.5
+1968-1969,1,1968-08-10,Liverpool,Manchester City,2,1,1.0
+1968-1969,1,1968-08-10,Newcastle Utd,West Ham,1,1,0.5
+1968-1969,1,1968-08-10,Nott'ham Forest,Burnley,2,2,0.5
+1968-1969,1,1968-08-10,Manchester Utd,Everton,2,1,1.0
+1968-1969,1,1968-08-10,West Brom,Sheffield Weds,0,0,0.5
+1968-1969,1,1968-08-10,Southampton,Leeds United,1,3,0.0
+1968-1969,1,1968-08-10,Ipswich Town,Wolves,1,0,1.0
+1968-1969,1,1968-08-10,Stoke City,Sunderland,2,1,1.0
+1968-1969,2,1968-08-13,Arsenal,Leicester City,3,0,1.0
+1968-1969,2,1968-08-13,Everton,Burnley,3,0,1.0
+1968-1969,2,1968-08-14,Sunderland,Ipswich Town,3,0,1.0
+1968-1969,2,1968-08-14,Stoke City,West Ham,0,2,0.0
+1968-1969,2,1968-08-14,Sheffield Weds,Newcastle Utd,1,1,0.5
+1968-1969,2,1968-08-14,Southampton,Liverpool,2,0,1.0
+1968-1969,2,1968-08-14,West Brom,Manchester Utd,3,1,1.0
+1968-1969,2,1968-08-14,Manchester City,Wolves,3,2,1.0
+1968-1969,2,1968-08-14,Leeds United,QPR,4,1,1.0
+1968-1969,2,1968-08-14,Chelsea,Nott'ham Forest,1,1,0.5
+1968-1969,3,1968-08-17,Leicester City,Ipswich Town,1,3,0.0
+1968-1969,3,1968-08-17,Sheffield Weds,Coventry City,3,0,1.0
+1968-1969,3,1968-08-17,Chelsea,West Brom,3,1,1.0
+1968-1969,3,1968-08-17,Leeds United,Stoke City,2,0,1.0
+1968-1969,3,1968-08-17,Wolves,QPR,3,1,1.0
+1968-1969,3,1968-08-17,West Ham,Nott'ham Forest,1,0,1.0
+1968-1969,3,1968-08-17,Manchester City,Manchester Utd,0,0,0.5
+1968-1969,3,1968-08-17,Burnley,Newcastle Utd,1,0,1.0
+1968-1969,3,1968-08-17,Everton,Tottenham,0,2,0.0
+1968-1969,3,1968-08-17,Arsenal,Liverpool,1,1,0.5
+1968-1969,3,1968-08-17,Sunderland,Southampton,1,0,1.0
+1968-1969,4,1968-08-19,West Ham,Everton,1,4,0.0
+1968-1969,4,1968-08-20,QPR,Sunderland,2,2,0.5
+1968-1969,4,1968-08-20,Burnley,Southampton,3,1,1.0
+1968-1969,4,1968-08-20,Ipswich Town,Leeds United,2,3,0.0
+1968-1969,4,1968-08-20,Nott'ham Forest,Sheffield Weds,0,0,0.5
+1968-1969,4,1968-08-20,Liverpool,Stoke City,2,1,1.0
+1968-1969,4,1968-08-21,Wolves,Arsenal,0,0,0.5
+1968-1969,4,1968-08-21,Tottenham,West Brom,1,1,0.5
+1968-1969,4,1968-08-21,Leicester City,Manchester City,3,0,1.0
+1968-1969,4,1968-08-21,Newcastle Utd,Chelsea,3,2,1.0
+1968-1969,4,1968-08-21,Manchester Utd,Coventry City,1,0,1.0
+1968-1969,5,1968-08-24,Newcastle Utd,Everton,0,0,0.5
+1968-1969,5,1968-08-24,Manchester Utd,Chelsea,0,4,0.0
+1968-1969,5,1968-08-24,Stoke City,Leicester City,1,0,1.0
+1968-1969,5,1968-08-24,Coventry City,West Ham,1,2,0.0
+1968-1969,5,1968-08-24,Tottenham,Sheffield Weds,1,2,0.0
+1968-1969,5,1968-08-24,Ipswich Town,Arsenal,1,2,0.0
+1968-1969,5,1968-08-24,Southampton,Wolves,2,1,1.0
+1968-1969,5,1968-08-24,Liverpool,Sunderland,4,1,1.0
+1968-1969,5,1968-08-24,QPR,Manchester City,1,1,0.5
+1968-1969,5,1968-08-24,West Brom,Burnley,3,2,1.0
+1968-1969,6,1968-08-26,West Ham,Burnley,5,0,1.0
+1968-1969,6,1968-08-27,Everton,Liverpool,0,0,0.5
+1968-1969,6,1968-08-27,Arsenal,Manchester City,4,1,1.0
+1968-1969,6,1968-08-27,Ipswich Town,QPR,3,0,1.0
+1968-1969,6,1968-08-27,Coventry City,West Brom,4,2,1.0
+1968-1969,6,1968-08-28,Wolves,Leicester City,1,0,1.0
+1968-1969,6,1968-08-28,Chelsea,Sheffield Weds,1,0,1.0
+1968-1969,6,1968-08-28,Southampton,Stoke City,2,0,1.0
+1968-1969,6,1968-08-28,Manchester Utd,Tottenham,3,1,1.0
+1968-1969,6,1968-08-28,Leeds United,Sunderland,1,1,0.5
+1968-1969,6,1968-08-28,Newcastle Utd,Nott'ham Forest,1,1,0.5
+1968-1969,7,1968-08-31,Arsenal,QPR,2,1,1.0
+1968-1969,7,1968-08-31,Sunderland,Newcastle Utd,1,1,0.5
+1968-1969,7,1968-08-31,Manchester City,Ipswich Town,1,1,0.5
+1968-1969,7,1968-08-31,Everton,Nott'ham Forest,2,1,1.0
+1968-1969,7,1968-08-31,Leeds United,Liverpool,1,0,1.0
+1968-1969,7,1968-08-31,Leicester City,Southampton,3,1,1.0
+1968-1969,7,1968-08-31,Chelsea,Tottenham,2,2,0.5
+1968-1969,7,1968-08-31,West Ham,West Brom,4,0,1.0
+1968-1969,7,1968-08-31,Burnley,Coventry City,1,1,0.5
+1968-1969,7,1968-08-31,Sheffield Weds,Manchester Utd,5,4,1.0
+1968-1969,7,1968-08-31,Wolves,Stoke City,1,1,0.5
+1968-1969,8,1968-09-07,Sheffield Weds,Ipswich Town,2,1,1.0
+1968-1969,8,1968-09-07,Coventry City,Newcastle Utd,2,1,1.0
+1968-1969,8,1968-09-07,Chelsea,Everton,1,1,0.5
+1968-1969,8,1968-09-07,Liverpool,QPR,2,0,1.0
+1968-1969,8,1968-09-07,West Brom,Nott'ham Forest,2,5,0.0
+1968-1969,8,1968-09-07,Stoke City,Manchester City,1,0,1.0
+1968-1969,8,1968-09-07,Sunderland,Leicester City,2,0,1.0
+1968-1969,8,1968-09-07,Tottenham,Burnley,7,0,1.0
+1968-1969,8,1968-09-07,Southampton,Arsenal,1,2,0.0
+1968-1969,8,1968-09-07,Manchester Utd,West Ham,1,1,0.5
+1968-1969,8,1968-09-07,Leeds United,Wolves,2,1,1.0
+1968-1969,1,1968-09-10,Coventry City,Chelsea,0,1,0.0
+1968-1969,9,1968-09-14,Ipswich Town,Liverpool,0,2,0.0
+1968-1969,9,1968-09-14,West Ham,Tottenham,2,2,0.5
+1968-1969,9,1968-09-14,Burnley,Manchester Utd,1,0,1.0
+1968-1969,9,1968-09-14,Leicester City,Leeds United,1,1,0.5
+1968-1969,9,1968-09-14,Newcastle Utd,West Brom,2,3,0.0
+1968-1969,9,1968-09-14,Arsenal,Stoke City,1,0,1.0
+1968-1969,9,1968-09-14,Wolves,Sunderland,1,1,0.5
+1968-1969,9,1968-09-14,QPR,Chelsea,0,4,0.0
+1968-1969,9,1968-09-14,Everton,Sheffield Weds,3,0,1.0
+1968-1969,9,1968-09-14,Manchester City,Southampton,1,1,0.5
+1968-1969,9,1968-09-14,Nott'ham Forest,Coventry City,0,0,0.5
+1968-1969,2,1968-09-17,Coventry City,Tottenham,1,2,0.0
+1968-1969,10,1968-09-21,Manchester Utd,Newcastle Utd,3,1,1.0
+1968-1969,10,1968-09-21,Chelsea,West Ham,1,1,0.5
+1968-1969,10,1968-09-21,Stoke City,QPR,1,1,0.5
+1968-1969,10,1968-09-21,Tottenham,Nott'ham Forest,2,1,1.0
+1968-1969,10,1968-09-21,Southampton,Ipswich Town,2,2,0.5
+1968-1969,10,1968-09-21,Liverpool,Leicester City,4,0,1.0
+1968-1969,10,1968-09-21,Sheffield Weds,Burnley,1,0,1.0
+1968-1969,10,1968-09-21,Coventry City,Everton,2,2,0.5
+1968-1969,10,1968-09-21,Sunderland,Manchester City,0,4,0.0
+1968-1969,10,1968-09-21,West Brom,Wolves,0,0,0.5
+1968-1969,10,1968-09-21,Leeds United,Arsenal,2,0,1.0
+1968-1969,11,1968-09-28,Arsenal,Sunderland,0,0,0.5
+1968-1969,11,1968-09-28,Newcastle Utd,Tottenham,2,2,0.5
+1968-1969,11,1968-09-28,Leicester City,Coventry City,1,1,0.5
+1968-1969,11,1968-09-28,Wolves,Liverpool,0,6,0.0
+1968-1969,11,1968-09-28,Burnley,Chelsea,2,1,1.0
+1968-1969,11,1968-09-28,West Ham,Sheffield Weds,1,1,0.5
+1968-1969,11,1968-09-28,QPR,Southampton,1,1,0.5
+1968-1969,11,1968-09-28,Everton,West Brom,4,0,1.0
+1968-1969,11,1968-09-28,Manchester City,Leeds United,3,1,1.0
+1968-1969,11,1968-09-28,Ipswich Town,Stoke City,3,1,1.0
+1968-1969,12,1968-10-05,Sheffield Weds,Sunderland,1,1,0.5
+1968-1969,12,1968-10-05,West Brom,QPR,3,1,1.0
+1968-1969,12,1968-10-05,Everton,Manchester City,2,0,1.0
+1968-1969,12,1968-10-05,Coventry City,Wolves,0,1,0.0
+1968-1969,12,1968-10-05,Tottenham,Leicester City,3,2,1.0
+1968-1969,12,1968-10-05,Chelsea,Ipswich Town,3,1,1.0
+1968-1969,12,1968-10-05,West Ham,Southampton,0,0,0.5
+1968-1969,12,1968-10-05,Newcastle Utd,Leeds United,0,1,0.0
+1968-1969,12,1968-10-05,Manchester Utd,Arsenal,0,0,0.5
+1968-1969,12,1968-10-05,Burnley,Liverpool,0,4,0.0
+1968-1969,12,1968-10-05,Nott'ham Forest,Stoke City,3,3,0.5
+1968-1969,13,1968-10-08,QPR,Ipswich Town,2,1,1.0
+1968-1969,13,1968-10-08,Burnley,West Ham,3,1,1.0
+1968-1969,13,1968-10-08,Nott'ham Forest,Newcastle Utd,2,4,0.0
+1968-1969,13,1968-10-08,Liverpool,Everton,1,1,0.5
+1968-1969,13,1968-10-09,Sunderland,Leeds United,0,1,0.0
+1968-1969,13,1968-10-09,West Brom,Coventry City,6,1,1.0
+1968-1969,13,1968-10-09,Manchester City,Arsenal,1,1,0.5
+1968-1969,13,1968-10-09,Stoke City,Southampton,1,0,1.0
+1968-1969,13,1968-10-09,Tottenham,Manchester Utd,2,2,0.5
+1968-1969,13,1968-10-09,Sheffield Weds,Chelsea,1,1,0.5
+1968-1969,13,1968-10-09,Leicester City,Wolves,2,0,1.0
+1968-1969,14,1968-10-12,Leeds United,West Ham,2,0,1.0
+1968-1969,14,1968-10-12,Stoke City,Burnley,1,3,0.0
+1968-1969,14,1968-10-12,Liverpool,Manchester Utd,2,0,1.0
+1968-1969,14,1968-10-12,Southampton,Everton,2,5,0.0
+1968-1969,14,1968-10-12,Manchester City,Tottenham,4,0,1.0
+1968-1969,14,1968-10-12,Sunderland,Nott'ham Forest,3,1,1.0
+1968-1969,14,1968-10-12,Ipswich Town,Newcastle Utd,1,4,0.0
+1968-1969,14,1968-10-12,Leicester City,West Brom,0,2,0.0
+1968-1969,14,1968-10-12,Arsenal,Coventry City,2,1,1.0
+1968-1969,14,1968-10-12,QPR,Sheffield Weds,3,2,1.0
+1968-1969,14,1968-10-12,Wolves,Chelsea,1,1,0.5
+1968-1969,15,1968-10-19,Manchester Utd,Southampton,1,2,0.0
+1968-1969,15,1968-10-19,Burnley,Leeds United,5,1,1.0
+1968-1969,15,1968-10-19,West Ham,Sunderland,8,0,1.0
+1968-1969,15,1968-10-19,Coventry City,Manchester City,1,1,0.5
+1968-1969,15,1968-10-19,Chelsea,Leicester City,3,0,1.0
+1968-1969,15,1968-10-19,Nott'ham Forest,Ipswich Town,1,2,0.0
+1968-1969,15,1968-10-19,Everton,Stoke City,2,1,1.0
+1968-1969,15,1968-10-19,West Brom,Arsenal,1,0,1.0
+1968-1969,15,1968-10-19,Newcastle Utd,QPR,3,2,1.0
+1968-1969,15,1968-10-19,Sheffield Weds,Wolves,0,2,0.0
+1968-1969,15,1968-10-19,Tottenham,Liverpool,2,1,1.0
+1968-1969,16,1968-10-26,Southampton,Sheffield Weds,1,1,0.5
+1968-1969,16,1968-10-26,Wolves,Everton,1,2,0.0
+1968-1969,16,1968-10-26,Stoke City,Chelsea,2,0,1.0
+1968-1969,16,1968-10-26,Leeds United,West Brom,0,0,0.5
+1968-1969,16,1968-10-26,Leicester City,Burnley,0,2,0.0
+1968-1969,16,1968-10-26,Manchester City,Nott'ham Forest,3,3,0.5
+1968-1969,16,1968-10-26,QPR,Manchester Utd,2,3,0.0
+1968-1969,16,1968-10-26,Ipswich Town,Tottenham,0,1,0.0
+1968-1969,16,1968-10-26,Liverpool,Newcastle Utd,2,1,1.0
+1968-1969,16,1968-10-26,Sunderland,Coventry City,3,0,1.0
+1968-1969,16,1968-10-26,Arsenal,West Ham,0,0,0.5
+1968-1969,17,1968-11-02,Newcastle Utd,Leicester City,0,0,0.5
+1968-1969,17,1968-11-02,West Ham,QPR,4,3,1.0
+1968-1969,17,1968-11-02,Everton,Sunderland,2,0,1.0
+1968-1969,17,1968-11-02,Chelsea,Manchester City,2,0,1.0
+1968-1969,17,1968-11-02,West Brom,Liverpool,0,0,0.5
+1968-1969,17,1968-11-02,Tottenham,Stoke City,1,1,0.5
+1968-1969,17,1968-11-02,Nott'ham Forest,Wolves,0,0,0.5
+1968-1969,17,1968-11-02,Manchester Utd,Leeds United,0,0,0.5
+1968-1969,17,1968-11-02,Burnley,Ipswich Town,1,0,1.0
+1968-1969,17,1968-11-02,Coventry City,Southampton,1,1,0.5
+1968-1969,18,1968-11-09,Leicester City,Nott'ham Forest,2,2,0.5
+1968-1969,18,1968-11-09,Arsenal,Newcastle Utd,0,0,0.5
+1968-1969,18,1968-11-09,Wolves,West Ham,2,0,1.0
+1968-1969,18,1968-11-09,Liverpool,Chelsea,2,1,1.0
+1968-1969,18,1968-11-09,Southampton,West Brom,2,0,1.0
+1968-1969,18,1968-11-09,Stoke City,Coventry City,0,3,0.0
+1968-1969,18,1968-11-09,Manchester City,Sheffield Weds,0,1,0.0
+1968-1969,18,1968-11-09,Ipswich Town,Everton,2,2,0.5
+1968-1969,18,1968-11-09,QPR,Burnley,0,2,0.0
+1968-1969,18,1968-11-09,Leeds United,Tottenham,0,0,0.5
+1968-1969,18,1968-11-09,Sunderland,Manchester Utd,1,1,0.5
+1968-1969,19,1968-11-16,Newcastle Utd,Manchester City,1,0,1.0
+1968-1969,19,1968-11-16,Nott'ham Forest,Arsenal,0,2,0.0
+1968-1969,19,1968-11-16,Everton,QPR,4,0,1.0
+1968-1969,19,1968-11-16,Burnley,Wolves,1,1,0.5
+1968-1969,19,1968-11-16,Coventry City,Leeds United,0,1,0.0
+1968-1969,19,1968-11-16,Manchester Utd,Ipswich Town,0,0,0.5
+1968-1969,19,1968-11-16,Sheffield Weds,Liverpool,1,2,0.0
+1968-1969,19,1968-11-16,West Ham,Leicester City,4,0,1.0
+1968-1969,19,1968-11-16,West Brom,Stoke City,2,1,1.0
+1968-1969,19,1968-11-16,Tottenham,Sunderland,5,1,1.0
+1968-1969,19,1968-11-23,Arsenal,Chelsea,0,1,0.0
+1968-1969,20,1968-11-23,Liverpool,Coventry City,2,0,1.0
+1968-1969,20,1968-11-23,Stoke City,Manchester Utd,0,0,0.5
+1968-1969,20,1968-11-23,Sunderland,Burnley,2,0,1.0
+1968-1969,20,1968-11-23,Leeds United,Everton,2,1,1.0
+1968-1969,20,1968-11-23,Wolves,Newcastle Utd,5,0,1.0
+1968-1969,20,1968-11-23,Manchester City,West Brom,5,1,1.0
+1968-1969,20,1968-11-23,Ipswich Town,West Ham,2,2,0.5
+1968-1969,20,1968-11-23,QPR,Nott'ham Forest,2,1,1.0
+1968-1969,20,1968-11-23,Southampton,Tottenham,2,1,1.0
+1968-1969,20,1968-11-23,Leicester City,Sheffield Weds,1,1,0.5
+1968-1969,21,1968-11-30,Coventry City,Ipswich Town,0,2,0.0
+1968-1969,21,1968-11-30,Chelsea,Leeds United,1,1,0.5
+1968-1969,21,1968-11-30,Newcastle Utd,Southampton,4,1,1.0
+1968-1969,21,1968-11-30,Everton,Leicester City,7,1,1.0
+1968-1969,21,1968-11-30,Sheffield Weds,Stoke City,2,1,1.0
+1968-1969,21,1968-11-30,West Ham,Manchester City,2,1,1.0
+1968-1969,21,1968-11-30,Burnley,Arsenal,0,1,0.0
+1968-1969,21,1968-11-30,West Brom,Sunderland,3,0,1.0
+1968-1969,21,1968-11-30,Nott'ham Forest,Liverpool,0,1,0.0
+1968-1969,21,1968-11-30,Manchester Utd,Wolves,2,0,1.0
+1968-1969,39,1968-12-03,Liverpool,Southampton,1,0,1.0
+1968-1969,22,1968-12-07,Southampton,Nott'ham Forest,1,1,0.5
+1968-1969,22,1968-12-07,Wolves,Tottenham,2,0,1.0
+1968-1969,22,1968-12-07,Ipswich Town,West Brom,4,1,1.0
+1968-1969,22,1968-12-07,Liverpool,West Ham,2,0,1.0
+1968-1969,22,1968-12-07,Leicester City,Manchester Utd,2,1,1.0
+1968-1969,22,1968-12-07,Leeds United,Sheffield Weds,2,0,1.0
+1968-1969,22,1968-12-07,QPR,Coventry City,0,1,0.0
+1968-1969,22,1968-12-07,Arsenal,Everton,3,1,1.0
+1968-1969,22,1968-12-07,Sunderland,Chelsea,3,2,1.0
+1968-1969,22,1968-12-07,Manchester City,Burnley,7,0,1.0
+1968-1969,22,1968-12-07,Stoke City,Newcastle Utd,1,0,1.0
+1968-1969,23,1968-12-14,Tottenham,Manchester City,1,1,0.5
+1968-1969,23,1968-12-14,Chelsea,Wolves,1,1,0.5
+1968-1969,23,1968-12-14,West Ham,Leeds United,1,1,0.5
+1968-1969,23,1968-12-14,Coventry City,Arsenal,0,1,0.0
+1968-1969,23,1968-12-14,Manchester Utd,Liverpool,1,0,1.0
+1968-1969,23,1968-12-14,Sheffield Weds,QPR,4,0,1.0
+1968-1969,23,1968-12-14,Newcastle Utd,Ipswich Town,2,1,1.0
+1968-1969,23,1968-12-14,Burnley,Stoke City,1,1,0.5
+1968-1969,23,1968-12-14,West Brom,Leicester City,1,1,0.5
+1968-1969,23,1968-12-14,Nott'ham Forest,Sunderland,1,0,1.0
+1968-1969,23,1968-12-14,Everton,Southampton,1,0,1.0
+1968-1969,24,1968-12-21,Manchester City,Coventry City,4,2,1.0
+1968-1969,24,1968-12-21,Leeds United,Burnley,6,1,1.0
+1968-1969,24,1968-12-21,Stoke City,Everton,0,0,0.5
+1968-1969,24,1968-12-21,Ipswich Town,Nott'ham Forest,2,3,0.0
+1968-1969,24,1968-12-21,Wolves,Sheffield Weds,0,3,0.0
+1968-1969,24,1968-12-21,Arsenal,West Brom,2,0,1.0
+1968-1969,24,1968-12-21,Leicester City,Chelsea,1,4,0.0
+1968-1969,24,1968-12-21,Sunderland,West Ham,2,1,1.0
+1968-1969,24,1968-12-21,QPR,Newcastle Utd,1,1,0.5
+1968-1969,24,1968-12-21,Liverpool,Tottenham,1,0,1.0
+1968-1969,24,1968-12-21,Southampton,Manchester Utd,2,0,1.0
+1968-1969,25,1968-12-26,Arsenal,Manchester Utd,3,0,1.0
+1968-1969,25,1968-12-26,QPR,West Brom,0,4,0.0
+1968-1969,25,1968-12-26,Sunderland,Sheffield Weds,0,0,0.5
+1968-1969,25,1968-12-26,Southampton,West Ham,2,2,0.5
+1968-1969,25,1968-12-26,Stoke City,Nott'ham Forest,3,1,1.0
+1968-1969,25,1968-12-26,Manchester City,Everton,1,3,0.0
+1968-1969,25,1968-12-26,Ipswich Town,Chelsea,1,3,0.0
+1968-1969,25,1968-12-26,Leeds United,Newcastle Utd,2,1,1.0
+1968-1969,25,1968-12-26,Liverpool,Burnley,1,1,0.5
+1968-1969,26,1968-12-28,Sheffield Weds,Southampton,0,0,0.5
+1968-1969,26,1968-12-28,Burnley,Leicester City,2,1,1.0
+1968-1969,27,1969-01-11,Leicester City,Newcastle Utd,2,1,1.0
+1968-1969,27,1969-01-11,Southampton,Coventry City,1,0,1.0
+1968-1969,27,1969-01-11,QPR,West Ham,1,1,0.5
+1968-1969,27,1969-01-11,Sunderland,Everton,1,3,0.0
+1968-1969,27,1969-01-11,Manchester City,Chelsea,4,1,1.0
+1968-1969,27,1969-01-11,Ipswich Town,Burnley,2,0,1.0
+1968-1969,27,1969-01-11,Wolves,Nott'ham Forest,1,0,1.0
+1968-1969,27,1969-01-11,Arsenal,Sheffield Weds,2,0,1.0
+1968-1969,27,1969-01-11,Liverpool,West Brom,1,0,1.0
+1968-1969,27,1969-01-11,Leeds United,Manchester Utd,2,1,1.0
+1968-1969,27,1969-01-11,Stoke City,Tottenham,1,1,0.5
+1968-1969,28,1969-01-18,Manchester Utd,Sunderland,4,1,1.0
+1968-1969,28,1969-01-18,Nott'ham Forest,Leicester City,0,0,0.5
+1968-1969,28,1969-01-18,Chelsea,Liverpool,1,2,0.0
+1968-1969,28,1969-01-18,Newcastle Utd,Arsenal,2,1,1.0
+1968-1969,28,1969-01-18,West Brom,Southampton,1,2,0.0
+1968-1969,28,1969-01-18,Sheffield Weds,Manchester City,1,1,0.5
+1968-1969,28,1969-01-18,Tottenham,Leeds United,0,0,0.5
+1968-1969,28,1969-01-18,Everton,Ipswich Town,2,2,0.5
+1968-1969,28,1969-01-18,Burnley,QPR,2,2,0.5
+1968-1969,39,1969-01-24,QPR,Leeds United,0,1,0.0
+1968-1969,26,1969-01-28,Everton,Wolves,4,0,1.0
+1968-1969,21,1969-01-29,Tottenham,QPR,3,2,1.0
+1968-1969,29,1969-02-01,QPR,Everton,0,1,0.0
+1968-1969,29,1969-02-01,Arsenal,Nott'ham Forest,1,1,0.5
+1968-1969,29,1969-02-01,Liverpool,Sheffield Weds,1,0,1.0
+1968-1969,29,1969-02-01,Southampton,Chelsea,5,0,1.0
+1968-1969,29,1969-02-01,Ipswich Town,Manchester Utd,1,0,1.0
+1968-1969,29,1969-02-01,Leeds United,Coventry City,3,0,1.0
+1968-1969,29,1969-02-01,Wolves,Burnley,1,1,0.5
+1968-1969,29,1969-02-01,Stoke City,West Brom,1,1,0.5
+1968-1969,29,1969-02-01,Sunderland,Tottenham,0,0,0.5
+1968-1969,29,1969-02-01,Leicester City,West Ham,1,1,0.5
+1968-1969,38,1969-02-12,Leeds United,Ipswich Town,2,0,1.0
+1968-1969,30,1969-02-15,QPR,Tottenham,1,1,0.5
+1968-1969,30,1969-02-15,Leeds United,Chelsea,1,0,1.0
+1968-1969,30,1969-02-15,Southampton,Newcastle Utd,0,0,0.5
+1968-1969,30,1969-02-15,Wolves,Manchester Utd,2,2,0.5
+1968-1969,30,1969-02-15,Liverpool,Nott'ham Forest,0,2,0.0
+1968-1969,30,1969-02-15,Arsenal,Burnley,2,0,1.0
+1968-1969,34,1969-02-18,Arsenal,Ipswich Town,0,2,0.0
+1968-1969,31,1969-02-22,Tottenham,Wolves,1,1,0.5
+1968-1969,31,1969-02-22,Chelsea,Sunderland,5,1,1.0
+1968-1969,31,1969-02-22,West Ham,Liverpool,1,1,0.5
+1968-1969,5,1969-02-25,Nott'ham Forest,Leeds United,0,2,0.0
+1968-1969,31,1969-02-25,Coventry City,QPR,5,0,1.0
+1968-1969,17,1969-03-01,Sheffield Weds,Arsenal,0,5,0.0
+1968-1969,32,1969-03-01,Wolves,Ipswich Town,1,1,0.5
+1968-1969,32,1969-03-01,Leeds United,Southampton,3,2,1.0
+1968-1969,32,1969-03-01,West Ham,Newcastle Utd,3,1,1.0
+1968-1969,32,1969-03-01,Sunderland,Stoke City,4,1,1.0
+1968-1969,32,1969-03-01,Burnley,Nott'ham Forest,3,1,1.0
+1968-1969,26,1969-03-04,Coventry City,Sunderland,3,1,1.0
+1968-1969,31,1969-03-04,Burnley,Manchester City,2,1,1.0
+1968-1969,41,1969-03-04,Nott'ham Forest,QPR,1,0,1.0
+1968-1969,26,1969-03-05,Chelsea,Stoke City,1,0,1.0
+1968-1969,32,1969-03-05,Sheffield Weds,West Brom,1,0,1.0
+1968-1969,33,1969-03-08,Coventry City,Sheffield Weds,3,0,1.0
+1968-1969,33,1969-03-08,Nott'ham Forest,West Ham,0,1,0.0
+1968-1969,33,1969-03-08,West Brom,Chelsea,0,3,0.0
+1968-1969,33,1969-03-08,Southampton,Sunderland,1,0,1.0
+1968-1969,33,1969-03-08,Newcastle Utd,Burnley,1,0,1.0
+1968-1969,33,1969-03-08,Tottenham,Everton,1,1,0.5
+1968-1969,33,1969-03-08,Stoke City,Leeds United,1,5,0.0
+1968-1969,33,1969-03-08,QPR,Wolves,0,1,0.0
+1968-1969,33,1969-03-08,Manchester Utd,Manchester City,0,1,0.0
+1968-1969,30,1969-03-10,Sunderland,West Brom,0,1,0.0
+1968-1969,32,1969-03-10,Chelsea,Coventry City,2,1,1.0
+1968-1969,32,1969-03-10,Everton,Manchester Utd,0,0,0.5
+1968-1969,31,1969-03-11,Nott'ham Forest,Southampton,1,0,1.0
+1968-1969,35,1969-03-11,Ipswich Town,Manchester City,2,1,1.0
+1968-1969,32,1969-03-12,Leicester City,QPR,2,0,1.0
+1968-1969,34,1969-03-14,West Ham,Coventry City,5,2,1.0
+1968-1969,34,1969-03-15,Wolves,Southampton,0,0,0.5
+1968-1969,34,1969-03-15,Chelsea,Manchester Utd,3,2,1.0
+1968-1969,34,1969-03-15,Leicester City,Stoke City,0,0,0.5
+1968-1969,34,1969-03-15,Sunderland,Liverpool,0,2,0.0
+1968-1969,34,1969-03-15,Burnley,West Brom,2,2,0.5
+1968-1969,34,1969-03-15,Manchester City,QPR,3,1,1.0
+1968-1969,26,1969-03-18,Tottenham,Ipswich Town,2,2,0.5
+1968-1969,28,1969-03-18,Coventry City,Stoke City,1,1,0.5
+1968-1969,26,1969-03-19,Manchester Utd,QPR,8,1,1.0
+1968-1969,41,1969-03-21,West Ham,Ipswich Town,1,3,0.0
+1968-1969,35,1969-03-22,QPR,Arsenal,0,1,0.0
+1968-1969,35,1969-03-22,Manchester Utd,Sheffield Weds,1,0,1.0
+1968-1969,35,1969-03-22,Newcastle Utd,Sunderland,1,1,0.5
+1968-1969,35,1969-03-22,Coventry City,Burnley,4,1,1.0
+1968-1969,35,1969-03-22,Southampton,Leicester City,1,0,1.0
+1968-1969,35,1969-03-22,Stoke City,Wolves,4,1,1.0
+1968-1969,35,1969-03-22,Tottenham,Chelsea,1,0,1.0
+1968-1969,36,1969-03-22,Nott'ham Forest,West Brom,3,0,1.0
+1968-1969,26,1969-03-24,Nott'ham Forest,Manchester City,1,0,1.0
+1968-1969,28,1969-03-24,West Ham,Wolves,3,1,1.0
+1968-1969,32,1969-03-24,Arsenal,Tottenham,1,0,1.0
+1968-1969,41,1969-03-24,Manchester Utd,Stoke City,1,1,0.5
+1968-1969,30,1969-03-25,Ipswich Town,Coventry City,0,0,0.5
+1968-1969,36,1969-03-29,Manchester City,Stoke City,3,1,1.0
+1968-1969,36,1969-03-29,QPR,Liverpool,1,2,0.0
+1968-1969,36,1969-03-29,West Ham,Manchester Utd,0,0,0.5
+1968-1969,36,1969-03-29,Wolves,Leeds United,0,0,0.5
+1968-1969,36,1969-03-29,Arsenal,Southampton,0,0,0.5
+1968-1969,36,1969-03-29,Everton,Chelsea,1,2,0.0
+1968-1969,36,1969-03-29,Burnley,Tottenham,2,2,0.5
+1968-1969,36,1969-03-29,Newcastle Utd,Coventry City,2,0,1.0
+1968-1969,11,1969-03-31,Nott'ham Forest,Manchester Utd,0,1,0.0
+1968-1969,33,1969-03-31,Liverpool,Arsenal,1,1,0.5
+1968-1969,31,1969-04-01,Sheffield Weds,Leeds United,0,0,0.5
+1968-1969,37,1969-04-01,Coventry City,Leicester City,1,0,1.0
+1968-1969,38,1969-04-01,Everton,West Ham,1,0,1.0
+1968-1969,37,1969-04-02,Tottenham,Newcastle Utd,0,1,0.0
+1968-1969,39,1969-04-02,Manchester Utd,West Brom,2,1,1.0
+1968-1969,38,1969-04-04,Manchester City,Leicester City,2,0,1.0
+1968-1969,38,1969-04-04,Chelsea,Newcastle Utd,1,1,0.5
+1968-1969,39,1969-04-04,Ipswich Town,Sunderland,1,0,1.0
+1968-1969,39,1969-04-04,Tottenham,Coventry City,2,0,1.0
+1968-1969,37,1969-04-05,Chelsea,Burnley,2,3,0.0
+1968-1969,37,1969-04-05,West Brom,Everton,1,1,0.5
+1968-1969,37,1969-04-05,Stoke City,Ipswich Town,2,1,1.0
+1968-1969,37,1969-04-05,Liverpool,Wolves,1,0,1.0
+1968-1969,37,1969-04-05,Leeds United,Manchester City,1,0,1.0
+1968-1969,37,1969-04-05,Sunderland,Arsenal,0,0,0.5
+1968-1969,37,1969-04-05,Manchester Utd,Nott'ham Forest,3,1,1.0
+1968-1969,37,1969-04-05,Southampton,QPR,3,2,1.0
+1968-1969,37,1969-04-05,Sheffield Weds,West Ham,1,1,0.5
+1968-1969,38,1969-04-07,Sheffield Weds,Nott'ham Forest,0,1,0.0
+1968-1969,38,1969-04-07,Stoke City,Liverpool,0,0,0.5
+1968-1969,38,1969-04-07,Arsenal,Wolves,3,1,1.0
+1968-1969,38,1969-04-07,West Brom,Tottenham,4,3,1.0
+1968-1969,38,1969-04-07,Sunderland,QPR,0,0,0.5
+1968-1969,38,1969-04-07,Southampton,Burnley,5,1,1.0
+1968-1969,38,1969-04-08,Coventry City,Manchester Utd,2,1,1.0
+1968-1969,39,1969-04-08,Leicester City,Arsenal,0,0,0.5
+1968-1969,39,1969-04-08,Wolves,Manchester City,3,1,1.0
+1968-1969,39,1969-04-08,Nott'ham Forest,Chelsea,1,2,0.0
+1968-1969,39,1969-04-08,West Ham,Stoke City,0,0,0.5
+1968-1969,39,1969-04-08,Burnley,Everton,1,2,0.0
+1968-1969,26,1969-04-09,West Brom,Leeds United,1,1,0.5
+1968-1969,39,1969-04-09,Newcastle Utd,Sheffield Weds,3,2,1.0
+1968-1969,40,1969-04-12,Leicester City,Liverpool,1,2,0.0
+1968-1969,40,1969-04-12,West Ham,Chelsea,0,0,0.5
+1968-1969,40,1969-04-12,Nott'ham Forest,Tottenham,0,2,0.0
+1968-1969,40,1969-04-12,Wolves,West Brom,0,1,0.0
+1968-1969,40,1969-04-12,Arsenal,Leeds United,1,2,0.0
+1968-1969,40,1969-04-12,Newcastle Utd,Manchester Utd,2,0,1.0
+1968-1969,40,1969-04-12,Manchester City,Sunderland,1,0,1.0
+1968-1969,40,1969-04-12,Ipswich Town,Southampton,0,0,0.5
+1968-1969,40,1969-04-12,Burnley,Sheffield Weds,2,0,1.0
+1968-1969,40,1969-04-12,Everton,Coventry City,3,0,1.0
+1968-1969,40,1969-04-12,QPR,Stoke City,2,1,1.0
+1968-1969,34,1969-04-14,Everton,Newcastle Utd,1,1,0.5
+1968-1969,35,1969-04-14,West Brom,West Ham,3,1,1.0
+1968-1969,41,1969-04-14,Chelsea,Arsenal,2,1,1.0
+1968-1969,41,1969-04-14,Sheffield Weds,Leicester City,1,3,0.0
+1968-1969,25,1969-04-15,Wolves,Coventry City,1,1,0.5
+1968-1969,41,1969-04-16,West Brom,Manchester City,2,0,1.0
+1968-1969,42,1969-04-19,West Brom,Newcastle Utd,5,1,1.0
+1968-1969,42,1969-04-19,Manchester Utd,Burnley,2,0,1.0
+1968-1969,42,1969-04-19,Liverpool,Ipswich Town,4,0,1.0
+1968-1969,42,1969-04-19,Sunderland,Wolves,2,0,1.0
+1968-1969,42,1969-04-19,Stoke City,Arsenal,1,3,0.0
+1968-1969,42,1969-04-19,Sheffield Weds,Everton,2,2,0.5
+1968-1969,42,1969-04-19,Tottenham,West Ham,1,0,1.0
+1968-1969,42,1969-04-19,Southampton,Manchester City,3,0,1.0
+1968-1969,42,1969-04-19,Coventry City,Nott'ham Forest,1,1,0.5
+1968-1969,42,1969-04-19,Chelsea,QPR,2,1,1.0
+1968-1969,42,1969-04-19,Leeds United,Leicester City,2,0,1.0
+1968-1969,26,1969-04-21,West Ham,Arsenal,1,2,0.0
+1968-1969,41,1969-04-21,Newcastle Utd,Wolves,4,1,1.0
+1968-1969,30,1969-04-22,Stoke City,Sheffield Weds,1,1,0.5
+1968-1969,41,1969-04-22,Coventry City,Liverpool,0,0,0.5
+1968-1969,41,1969-04-22,Tottenham,Southampton,2,1,1.0
+1968-1969,41,1969-04-22,Everton,Leeds United,0,0,0.5
+1968-1969,31,1969-04-23,West Brom,Ipswich Town,2,2,0.5
+1968-1969,41,1969-04-23,Burnley,Sunderland,1,2,0.0
+1968-1969,35,1969-04-25,Nott'ham Forest,Everton,1,0,1.0
+1968-1969,36,1969-04-25,Ipswich Town,Sheffield Weds,2,0,1.0
+1968-1969,35,1969-04-28,Liverpool,Leeds United,0,0,0.5
+1968-1969,25,1969-04-29,Leicester City,Tottenham,1,0,1.0
+1968-1969,31,1969-04-29,Everton,Arsenal,1,0,1.0
+1968-1969,30,1969-04-30,Manchester City,West Ham,1,1,0.5
+1968-1969,31,1969-04-30,Newcastle Utd,Stoke City,5,0,1.0
+1968-1969,34,1969-04-30,Leeds United,Nott'ham Forest,1,0,1.0
+1968-1969,33,1969-05-03,Ipswich Town,Leicester City,2,1,1.0
+1968-1969,29,1969-05-05,Manchester City,Newcastle Utd,1,0,1.0
+1968-1969,36,1969-05-05,Leicester City,Sunderland,2,1,1.0
+1968-1969,32,1969-05-12,Manchester City,Liverpool,1,0,1.0
+1968-1969,34,1969-05-12,Sheffield Weds,Tottenham,0,0,0.5
+1968-1969,30,1969-05-14,Leicester City,Everton,1,1,0.5
+1968-1969,26,1969-05-17,Newcastle Utd,Liverpool,1,1,0.5
+1968-1969,31,1969-05-17,Manchester Utd,Leicester City,3,2,1.0

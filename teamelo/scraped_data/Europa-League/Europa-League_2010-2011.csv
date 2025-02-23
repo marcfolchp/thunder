@@ -1,0 +1,206 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2010-2011,Group stage,1,2010-09-16,Dynamo Kyiv,BATE Borisov,ua,by,2,2,0.5
+2010-2011,Group stage,1,2010-09-16,Sparta Prague,Palermo,cz,it,3,2,1.0
+2010-2011,Group stage,1,2010-09-16,Sevilla,Paris S-G,es,fr,0,1,0.0
+2010-2011,Group stage,1,2010-09-16,Getafe,Odense,es,dk,2,1,1.0
+2010-2011,Group stage,1,2010-09-16,Liverpool,Steaua,eng,ro,4,1,1.0
+2010-2011,Group stage,1,2010-09-16,Karpaty Lviv,Dortmund,ua,de,3,4,0.0
+2010-2011,Group stage,1,2010-09-16,Lille,Sporting CP,fr,pt,1,2,0.0
+2010-2011,Group stage,1,2010-09-16,Beşiktaş,CSKA Sofia,tr,bg,1,0,1.0
+2010-2011,Group stage,1,2010-09-16,Napoli,Utrecht,it,nl,0,0,0.5
+2010-2011,Group stage,1,2010-09-16,RB Salzburg,Manchester City,at,eng,0,2,0.0
+2010-2011,Group stage,1,2010-09-16,Porto,Rapid Wien,pt,at,3,0,1.0
+2010-2011,Group stage,1,2010-09-16,Anderlecht,Zenit,be,ru,1,3,0.0
+2010-2011,Group stage,1,2010-09-16,Lausanne-Sport,CSKA Moscow,ch,ru,0,3,0.0
+2010-2011,Group stage,1,2010-09-16,Dinamo Zagreb,Villarreal,hr,es,2,0,1.0
+2010-2011,Group stage,1,2010-09-16,AEK Athens,Hajduk Split,gr,hr,3,1,1.0
+2010-2011,Group stage,1,2010-09-16,Levski Sofia,Gent,bg,be,3,2,1.0
+2010-2011,Group stage,1,2010-09-16,Club Brugge,PAOK,be,gr,1,1,0.5
+2010-2011,Group stage,1,2010-09-16,PSV Eindhoven,Sampdoria,nl,it,1,1,0.5
+2010-2011,Group stage,1,2010-09-16,Aris,Atlético Madrid,gr,es,1,0,1.0
+2010-2011,Group stage,1,2010-09-16,AZ Alkmaar,Sheriff Tiraspol,nl,md,2,1,1.0
+2010-2011,Group stage,1,2010-09-16,Juventus,Lech Poznań,it,pl,3,3,0.5
+2010-2011,Group stage,1,2010-09-16,Stuttgart,Young Boys,de,ch,3,0,1.0
+2010-2011,Group stage,1,2010-09-16,Debrecen,Metalist Kharkiv,hu,ua,0,5,0.0
+2010-2011,Group stage,1,2010-09-16,Leverkusen,Rosenborg,de,no,4,0,1.0
+2010-2011,Group stage,2,2010-09-30,CSKA Sofia,Porto,bg,pt,0,1,0.0
+2010-2011,Group stage,2,2010-09-30,Lech Poznań,RB Salzburg,pl,at,2,0,1.0
+2010-2011,Group stage,2,2010-09-30,Sampdoria,Debrecen,it,hu,1,0,1.0
+2010-2011,Group stage,2,2010-09-30,Rosenborg,Aris,no,gr,2,1,1.0
+2010-2011,Group stage,2,2010-09-30,Metalist Kharkiv,PSV Eindhoven,ua,nl,0,2,0.0
+2010-2011,Group stage,2,2010-09-30,Sheriff Tiraspol,Dynamo Kyiv,md,ua,2,0,1.0
+2010-2011,Group stage,2,2010-09-30,BATE Borisov,AZ Alkmaar,by,nl,4,1,1.0
+2010-2011,Group stage,2,2010-09-30,Young Boys,Getafe,ch,es,2,0,1.0
+2010-2011,Group stage,2,2010-09-30,Hajduk Split,Anderlecht,hr,be,1,0,1.0
+2010-2011,Group stage,2,2010-09-30,Paris S-G,Karpaty Lviv,fr,ua,2,0,1.0
+2010-2011,Group stage,2,2010-09-30,Gent,Lille,be,fr,1,1,0.5
+2010-2011,Group stage,2,2010-09-30,Sporting CP,Levski Sofia,pt,bg,5,0,1.0
+2010-2011,Group stage,2,2010-09-30,Dortmund,Sevilla,de,es,0,1,0.0
+2010-2011,Group stage,2,2010-09-30,Palermo,Lausanne-Sport,it,ch,1,0,1.0
+2010-2011,Group stage,2,2010-09-30,CSKA Moscow,Sparta Prague,ru,cz,3,0,1.0
+2010-2011,Group stage,2,2010-09-30,Zenit,AEK Athens,ru,gr,4,2,1.0
+2010-2011,Group stage,2,2010-09-30,Manchester City,Juventus,eng,it,1,1,0.5
+2010-2011,Group stage,2,2010-09-30,Villarreal,Club Brugge,es,be,2,1,1.0
+2010-2011,Group stage,2,2010-09-30,Steaua,Napoli,ro,it,3,3,0.5
+2010-2011,Group stage,2,2010-09-30,Atlético Madrid,Leverkusen,es,de,1,1,0.5
+2010-2011,Group stage,2,2010-09-30,Odense,Stuttgart,dk,de,1,2,0.0
+2010-2011,Group stage,2,2010-09-30,Rapid Wien,Beşiktaş,at,tr,1,2,0.0
+2010-2011,Group stage,2,2010-09-30,Utrecht,Liverpool,nl,eng,0,0,0.5
+2010-2011,Group stage,2,2010-09-30,PAOK,Dinamo Zagreb,gr,hr,1,0,1.0
+2010-2011,Group stage,3,2010-10-21,Villarreal,PAOK,es,gr,1,0,1.0
+2010-2011,Group stage,3,2010-10-21,Zenit,Hajduk Split,ru,hr,2,0,1.0
+2010-2011,Group stage,3,2010-10-21,Karpaty Lviv,Sevilla,ua,es,0,1,0.0
+2010-2011,Group stage,3,2010-10-21,Stuttgart,Getafe,de,es,1,0,1.0
+2010-2011,Group stage,3,2010-10-21,CSKA Sofia,Rapid Wien,bg,at,0,2,0.0
+2010-2011,Group stage,3,2010-10-21,Debrecen,PSV Eindhoven,hu,nl,1,2,0.0
+2010-2011,Group stage,3,2010-10-21,Dortmund,Paris S-G,de,fr,1,1,0.5
+2010-2011,Group stage,3,2010-10-21,Palermo,CSKA Moscow,it,ru,0,3,0.0
+2010-2011,Group stage,3,2010-10-21,Sporting CP,Gent,pt,be,5,1,1.0
+2010-2011,Group stage,3,2010-10-21,Anderlecht,AEK Athens,be,gr,3,0,1.0
+2010-2011,Group stage,3,2010-10-21,Sparta Prague,Lausanne-Sport,cz,ch,3,3,0.5
+2010-2011,Group stage,3,2010-10-21,Young Boys,Odense,ch,dk,4,2,1.0
+2010-2011,Group stage,3,2010-10-21,Napoli,Liverpool,it,eng,0,0,0.5
+2010-2011,Group stage,3,2010-10-21,Beşiktaş,Porto,tr,pt,1,3,0.0
+2010-2011,Group stage,3,2010-10-21,Atlético Madrid,Rosenborg,es,no,3,0,1.0
+2010-2011,Group stage,3,2010-10-21,RB Salzburg,Juventus,at,it,1,1,0.5
+2010-2011,Group stage,3,2010-10-21,Utrecht,Steaua,nl,ro,1,1,0.5
+2010-2011,Group stage,3,2010-10-21,Aris,Leverkusen,gr,de,0,0,0.5
+2010-2011,Group stage,3,2010-10-21,AZ Alkmaar,Dynamo Kyiv,nl,ua,1,2,0.0
+2010-2011,Group stage,3,2010-10-21,Manchester City,Lech Poznań,eng,pl,3,1,1.0
+2010-2011,Group stage,3,2010-10-21,Sheriff Tiraspol,BATE Borisov,md,by,0,1,0.0
+2010-2011,Group stage,3,2010-10-21,Lille,Levski Sofia,fr,bg,1,0,1.0
+2010-2011,Group stage,3,2010-10-21,Dinamo Zagreb,Club Brugge,hr,be,0,0,0.5
+2010-2011,Group stage,3,2010-10-21,Metalist Kharkiv,Sampdoria,ua,it,2,1,1.0
+2010-2011,Group stage,4,2010-11-04,Dynamo Kyiv,AZ Alkmaar,ua,nl,2,0,1.0
+2010-2011,Group stage,4,2010-11-04,Rosenborg,Atlético Madrid,no,es,1,2,0.0
+2010-2011,Group stage,4,2010-11-04,Porto,Beşiktaş,pt,tr,1,1,0.5
+2010-2011,Group stage,4,2010-11-04,Levski Sofia,Lille,bg,fr,2,2,0.5
+2010-2011,Group stage,4,2010-11-04,PSV Eindhoven,Debrecen,nl,hu,3,0,1.0
+2010-2011,Group stage,4,2010-11-04,Rapid Wien,CSKA Sofia,at,bg,1,2,0.0
+2010-2011,Group stage,4,2010-11-04,Paris S-G,Dortmund,fr,de,0,0,0.5
+2010-2011,Group stage,4,2010-11-04,Lech Poznań,Manchester City,pl,eng,3,1,1.0
+2010-2011,Group stage,4,2010-11-04,Leverkusen,Aris,de,gr,1,0,1.0
+2010-2011,Group stage,4,2010-11-04,Club Brugge,Dinamo Zagreb,be,hr,0,2,0.0
+2010-2011,Group stage,4,2010-11-04,PAOK,Villarreal,gr,es,1,0,1.0
+2010-2011,Group stage,4,2010-11-04,Juventus,RB Salzburg,it,at,0,0,0.5
+2010-2011,Group stage,4,2010-11-04,Sevilla,Karpaty Lviv,es,ua,4,0,1.0
+2010-2011,Group stage,4,2010-11-04,Getafe,Stuttgart,es,de,0,3,0.0
+2010-2011,Group stage,4,2010-11-04,Hajduk Split,Zenit,hr,ru,2,3,0.0
+2010-2011,Group stage,4,2010-11-04,Sampdoria,Metalist Kharkiv,it,ua,0,0,0.5
+2010-2011,Group stage,4,2010-11-04,Odense,Young Boys,dk,ch,2,0,1.0
+2010-2011,Group stage,4,2010-11-04,Gent,Sporting CP,be,pt,3,1,1.0
+2010-2011,Group stage,4,2010-11-04,Lausanne-Sport,Sparta Prague,ch,cz,1,3,0.0
+2010-2011,Group stage,4,2010-11-04,AEK Athens,Anderlecht,gr,be,1,1,0.5
+2010-2011,Group stage,4,2010-11-04,Steaua,Utrecht,ro,nl,3,1,1.0
+2010-2011,Group stage,4,2010-11-04,CSKA Moscow,Palermo,ru,it,3,1,1.0
+2010-2011,Group stage,4,2010-11-04,Liverpool,Napoli,eng,it,3,1,1.0
+2010-2011,Group stage,4,2010-11-04,BATE Borisov,Sheriff Tiraspol,by,md,3,1,1.0
+2010-2011,Group stage,5,2010-12-01,Zenit,Anderlecht,ru,be,3,1,1.0
+2010-2011,Group stage,5,2010-12-01,Sporting CP,Lille,pt,fr,1,0,1.0
+2010-2011,Group stage,5,2010-12-01,Odense,Getafe,dk,es,1,1,0.5
+2010-2011,Group stage,5,2010-12-01,Sampdoria,PSV Eindhoven,it,nl,1,2,0.0
+2010-2011,Group stage,5,2010-12-01,Young Boys,Stuttgart,ch,de,4,2,1.0
+2010-2011,Group stage,5,2010-12-01,Rosenborg,Leverkusen,no,de,0,1,0.0
+2010-2011,Group stage,5,2010-12-01,Manchester City,RB Salzburg,eng,at,3,0,1.0
+2010-2011,Group stage,5,2010-12-01,Hajduk Split,AEK Athens,hr,gr,1,3,0.0
+2010-2011,Group stage,5,2010-12-01,Atlético Madrid,Aris,es,gr,2,3,0.0
+2010-2011,Group stage,5,2010-12-01,Metalist Kharkiv,Debrecen,ua,hu,2,1,1.0
+2010-2011,Group stage,5,2010-12-01,Lech Poznań,Juventus,pl,it,1,1,0.5
+2010-2011,Group stage,5,2010-12-01,Gent,Levski Sofia,be,bg,1,0,1.0
+2010-2011,Group stage,5,2010-12-02,Utrecht,Napoli,nl,it,3,3,0.5
+2010-2011,Group stage,5,2010-12-02,Steaua,Liverpool,ro,eng,1,1,0.5
+2010-2011,Group stage,5,2010-12-02,CSKA Moscow,Lausanne-Sport,ru,ch,5,1,1.0
+2010-2011,Group stage,5,2010-12-02,PAOK,Club Brugge,gr,be,1,1,0.5
+2010-2011,Group stage,5,2010-12-02,Dortmund,Karpaty Lviv,de,ua,3,0,1.0
+2010-2011,Group stage,5,2010-12-02,Palermo,Sparta Prague,it,cz,2,2,0.5
+2010-2011,Group stage,5,2010-12-02,Rapid Wien,Porto,at,pt,1,3,0.0
+2010-2011,Group stage,5,2010-12-02,Paris S-G,Sevilla,fr,es,4,2,1.0
+2010-2011,Group stage,5,2010-12-02,Sheriff Tiraspol,AZ Alkmaar,md,nl,1,1,0.5
+2010-2011,Group stage,5,2010-12-02,CSKA Sofia,Beşiktaş,bg,tr,1,2,0.0
+2010-2011,Group stage,5,2010-12-02,BATE Borisov,Dynamo Kyiv,by,ua,1,4,0.0
+2010-2011,Group stage,5,2010-12-02,Villarreal,Dinamo Zagreb,es,hr,3,0,1.0
+2010-2011,Group stage,6,2010-12-15,Karpaty Lviv,Paris S-G,ua,fr,1,1,0.5
+2010-2011,Group stage,6,2010-12-15,Lausanne-Sport,Palermo,ch,it,0,1,0.0
+2010-2011,Group stage,6,2010-12-15,Dinamo Zagreb,PAOK,hr,gr,0,1,0.0
+2010-2011,Group stage,6,2010-12-15,Beşiktaş,Rapid Wien,tr,at,2,0,1.0
+2010-2011,Group stage,6,2010-12-15,Sevilla,Dortmund,es,de,2,2,0.5
+2010-2011,Group stage,6,2010-12-15,Napoli,Steaua,it,ro,1,0,1.0
+2010-2011,Group stage,6,2010-12-15,Club Brugge,Villarreal,be,es,1,2,0.0
+2010-2011,Group stage,6,2010-12-15,Sparta Prague,CSKA Moscow,cz,ru,1,1,0.5
+2010-2011,Group stage,6,2010-12-15,Liverpool,Utrecht,eng,nl,0,0,0.5
+2010-2011,Group stage,6,2010-12-15,Dynamo Kyiv,Sheriff Tiraspol,ua,md,0,0,0.5
+2010-2011,Group stage,6,2010-12-15,Porto,CSKA Sofia,pt,bg,3,1,1.0
+2010-2011,Group stage,6,2010-12-15,AZ Alkmaar,BATE Borisov,nl,by,3,0,1.0
+2010-2011,Group stage,6,2010-12-16,Debrecen,Sampdoria,hu,it,2,0,1.0
+2010-2011,Group stage,6,2010-12-16,Aris,Rosenborg,gr,no,2,0,1.0
+2010-2011,Group stage,6,2010-12-16,AEK Athens,Zenit,gr,ru,0,3,0.0
+2010-2011,Group stage,6,2010-12-16,Getafe,Young Boys,es,ch,1,0,1.0
+2010-2011,Group stage,6,2010-12-16,RB Salzburg,Lech Poznań,at,pl,0,1,0.0
+2010-2011,Group stage,6,2010-12-16,Leverkusen,Atlético Madrid,de,es,1,1,0.5
+2010-2011,Group stage,6,2010-12-16,Levski Sofia,Sporting CP,bg,pt,1,0,1.0
+2010-2011,Group stage,6,2010-12-16,Anderlecht,Hajduk Split,be,hr,2,0,1.0
+2010-2011,Group stage,6,2010-12-16,Lille,Gent,fr,be,3,0,1.0
+2010-2011,Group stage,6,2010-12-16,Stuttgart,Odense,de,dk,5,1,1.0
+2010-2011,Group stage,6,2010-12-16,Juventus,Manchester City,it,eng,1,1,0.5
+2010-2011,Group stage,6,2010-12-16,PSV Eindhoven,Metalist Kharkiv,nl,ua,0,0,0.5
+2010-2011,Round of 32,,2011-02-15,Aris,Manchester City,gr,eng,0,0,0.5
+2010-2011,Round of 32,,2011-02-17,Young Boys,Zenit,ch,ru,2,1,1.0
+2010-2011,Round of 32,,2011-02-17,Lille,PSV Eindhoven,fr,nl,2,2,0.5
+2010-2011,Round of 32,,2011-02-17,Beşiktaş,Dynamo Kyiv,tr,ua,1,4,0.0
+2010-2011,Round of 32,,2011-02-17,Rubin Kazan,Twente,ru,nl,0,2,0.0
+2010-2011,Round of 32,,2011-02-17,Rangers,Sporting CP,sct,pt,1,1,0.5
+2010-2011,Round of 32,,2011-02-17,Benfica,Stuttgart,pt,de,2,1,1.0
+2010-2011,Round of 32,,2011-02-17,BATE Borisov,Paris S-G,by,fr,2,2,0.5
+2010-2011,Round of 32,,2011-02-17,Anderlecht,Ajax,be,nl,0,3,0.0
+2010-2011,Round of 32,,2011-02-17,Lech Poznań,Braga,pl,pt,1,0,1.0
+2010-2011,Round of 32,,2011-02-17,Metalist Kharkiv,Leverkusen,ua,de,0,4,0.0
+2010-2011,Round of 32,,2011-02-17,Napoli,Villarreal,it,es,0,0,0.5
+2010-2011,Round of 32,,2011-02-17,PAOK,CSKA Moscow,gr,ru,0,1,0.0
+2010-2011,Round of 32,,2011-02-17,Sevilla,Porto,es,pt,1,2,0.0
+2010-2011,Round of 32,,2011-02-17,Basel,Spartak Moscow,ch,ru,2,3,0.0
+2010-2011,Round of 32,,2011-02-17,Sparta Prague,Liverpool,cz,eng,0,0,0.5
+2010-2011,Round of 32,,2011-02-22,CSKA Moscow,PAOK,ru,gr,1,1,0.5
+2010-2011,Round of 32,,2011-02-23,Porto,Sevilla,pt,es,0,1,0.0
+2010-2011,Round of 32,,2011-02-24,Leverkusen,Metalist Kharkiv,de,ua,2,0,1.0
+2010-2011,Round of 32,,2011-02-24,Paris S-G,BATE Borisov,fr,by,0,0,0.5
+2010-2011,Round of 32,,2011-02-24,Stuttgart,Benfica,de,pt,0,2,0.0
+2010-2011,Round of 32,,2011-02-24,Twente,Rubin Kazan,nl,ru,2,2,0.5
+2010-2011,Round of 32,,2011-02-24,Sporting CP,Rangers,pt,sct,2,2,0.5
+2010-2011,Round of 32,,2011-02-24,Dynamo Kyiv,Beşiktaş,ua,tr,4,0,1.0
+2010-2011,Round of 32,,2011-02-24,PSV Eindhoven,Lille,nl,fr,3,1,1.0
+2010-2011,Round of 32,,2011-02-24,Villarreal,Napoli,es,it,2,1,1.0
+2010-2011,Round of 32,,2011-02-24,Ajax,Anderlecht,nl,be,2,0,1.0
+2010-2011,Round of 32,,2011-02-24,Zenit,Young Boys,ru,ch,3,1,1.0
+2010-2011,Round of 32,,2011-02-24,Liverpool,Sparta Prague,eng,cz,1,0,1.0
+2010-2011,Round of 32,,2011-02-24,Braga,Lech Poznań,pt,pl,2,0,1.0
+2010-2011,Round of 32,,2011-02-24,Manchester City,Aris,eng,gr,3,0,1.0
+2010-2011,Round of 32,,2011-02-24,Spartak Moscow,Basel,ru,ch,1,1,0.5
+2010-2011,Round of 16,,2011-03-10,PSV Eindhoven,Rangers,nl,sct,0,0,0.5
+2010-2011,Round of 16,,2011-03-10,Benfica,Paris S-G,pt,fr,2,1,1.0
+2010-2011,Round of 16,,2011-03-10,Twente,Zenit,nl,ru,3,0,1.0
+2010-2011,Round of 16,,2011-03-10,Ajax,Spartak Moscow,nl,ru,0,1,0.0
+2010-2011,Round of 16,,2011-03-10,CSKA Moscow,Porto,ru,pt,0,1,0.0
+2010-2011,Round of 16,,2011-03-10,Dynamo Kyiv,Manchester City,ua,eng,2,0,1.0
+2010-2011,Round of 16,,2011-03-10,Leverkusen,Villarreal,de,es,2,3,0.0
+2010-2011,Round of 16,,2011-03-10,Braga,Liverpool,pt,eng,1,0,1.0
+2010-2011,Round of 16,,2011-03-17,Rangers,PSV Eindhoven,sct,nl,0,1,0.0
+2010-2011,Round of 16,,2011-03-17,Villarreal,Leverkusen,es,de,2,1,1.0
+2010-2011,Round of 16,,2011-03-17,Manchester City,Dynamo Kyiv,eng,ua,1,0,1.0
+2010-2011,Round of 16,,2011-03-17,Liverpool,Braga,eng,pt,0,0,0.5
+2010-2011,Round of 16,,2011-03-17,Spartak Moscow,Ajax,ru,nl,3,0,1.0
+2010-2011,Round of 16,,2011-03-17,Paris S-G,Benfica,fr,pt,1,1,0.5
+2010-2011,Round of 16,,2011-03-17,Porto,CSKA Moscow,pt,ru,2,1,1.0
+2010-2011,Round of 16,,2011-03-17,Zenit,Twente,ru,nl,2,0,1.0
+2010-2011,Quarter-finals,,2011-04-07,Villarreal,Twente,es,nl,5,1,1.0
+2010-2011,Quarter-finals,,2011-04-07,Benfica,PSV Eindhoven,pt,nl,4,1,1.0
+2010-2011,Quarter-finals,,2011-04-07,Porto,Spartak Moscow,pt,ru,5,1,1.0
+2010-2011,Quarter-finals,,2011-04-07,Dynamo Kyiv,Braga,ua,pt,1,1,0.5
+2010-2011,Quarter-finals,,2011-04-14,Twente,Villarreal,nl,es,1,3,0.0
+2010-2011,Quarter-finals,,2011-04-14,PSV Eindhoven,Benfica,nl,pt,2,2,0.5
+2010-2011,Quarter-finals,,2011-04-14,Spartak Moscow,Porto,ru,pt,2,5,0.0
+2010-2011,Quarter-finals,,2011-04-14,Braga,Dynamo Kyiv,pt,ua,0,0,0.5
+2010-2011,Semi-finals,,2011-04-28,Benfica,Braga,pt,pt,2,1,1.0
+2010-2011,Semi-finals,,2011-04-28,Porto,Villarreal,pt,es,5,1,1.0
+2010-2011,Semi-finals,,2011-05-05,Braga,Benfica,pt,pt,1,0,1.0
+2010-2011,Semi-finals,,2011-05-05,Villarreal,Porto,es,pt,3,2,1.0
+2010-2011,Final,,2011-05-18,Porto,Braga,pt,pt,1,0,1.0

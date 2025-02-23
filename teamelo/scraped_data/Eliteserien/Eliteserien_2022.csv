@@ -1,0 +1,243 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022,Eliteserien,1,2022-04-02,HamKam,Lillestrøm,2,2,0.5
+2022,Eliteserien,1,2022-04-02,Molde,Vålerenga,1,0,1.0
+2022,Eliteserien,1,2022-04-03,Sarpsborg 08,Viking,0,1,0.0
+2022,Eliteserien,1,2022-04-03,Jerv,Strømsgodset,1,0,1.0
+2022,Eliteserien,1,2022-04-03,Aalesund,Kristiansund,1,0,1.0
+2022,Eliteserien,1,2022-04-03,Haugesund,Sandefjord,1,3,0.0
+2022,Eliteserien,1,2022-04-03,Odd,Tromsø,2,0,1.0
+2022,Eliteserien,1,2022-04-03,Bodø/Glimt,Rosenborg,2,2,0.5
+2022,Eliteserien,2,2022-04-09,Lillestrøm,Jerv,4,0,1.0
+2022,Eliteserien,2,2022-04-10,Rosenborg,Odd,1,0,1.0
+2022,Eliteserien,2,2022-04-10,Sandefjord,Bodø/Glimt,1,2,0.0
+2022,Eliteserien,2,2022-04-10,Tromsø,HamKam,2,1,1.0
+2022,Eliteserien,2,2022-04-10,Vålerenga,Haugesund,2,1,1.0
+2022,Eliteserien,2,2022-04-10,Kristiansund,Sarpsborg 08,2,3,0.0
+2022,Eliteserien,2,2022-04-10,Strømsgodset,Molde,1,3,0.0
+2022,Eliteserien,2,2022-04-10,Viking,Aalesund,1,0,1.0
+2022,Eliteserien,3,2022-04-18,Aalesund,Tromsø,2,2,0.5
+2022,Eliteserien,3,2022-04-18,Jerv,Kristiansund,1,0,1.0
+2022,Eliteserien,3,2022-04-18,HamKam,Sandefjord,3,0,1.0
+2022,Eliteserien,3,2022-04-18,Molde,Lillestrøm,1,2,0.0
+2022,Eliteserien,3,2022-04-18,Haugesund,Strømsgodset,0,1,0.0
+2022,Eliteserien,3,2022-04-18,Sarpsborg 08,Rosenborg,1,1,0.5
+2022,Eliteserien,3,2022-04-18,Odd,Viking,2,1,1.0
+2022,Eliteserien,3,2022-04-18,Bodø/Glimt,Vålerenga,5,1,1.0
+2022,Eliteserien,4,2022-04-23,Odd,Aalesund,2,3,0.0
+2022,Eliteserien,4,2022-04-23,Strømsgodset,Sandefjord,0,5,0.0
+2022,Eliteserien,4,2022-04-24,Vålerenga,Jerv,1,0,1.0
+2022,Eliteserien,4,2022-04-24,Viking,Bodø/Glimt,2,0,1.0
+2022,Eliteserien,4,2022-04-24,Kristiansund,HamKam,2,2,0.5
+2022,Eliteserien,4,2022-04-24,Lillestrøm,Haugesund,1,0,1.0
+2022,Eliteserien,4,2022-04-24,Tromsø,Sarpsborg 08,2,5,0.0
+2022,Eliteserien,4,2022-04-24,Rosenborg,Molde,0,0,0.5
+2022,Eliteserien,15,2022-04-28,Lillestrøm,Aalesund,2,0,1.0
+2022,Eliteserien,16,2022-04-30,Viking,Haugesund,5,1,1.0
+2022,Eliteserien,5,2022-05-07,Sarpsborg 08,Odd,1,0,1.0
+2022,Eliteserien,5,2022-05-07,Molde,Viking,3,4,0.0
+2022,Eliteserien,5,2022-05-08,Jerv,Tromsø,1,1,0.5
+2022,Eliteserien,5,2022-05-08,Strømsgodset,Rosenborg,3,0,1.0
+2022,Eliteserien,5,2022-05-08,Sandefjord,Vålerenga,1,3,0.0
+2022,Eliteserien,5,2022-05-08,Haugesund,Kristiansund,2,0,1.0
+2022,Eliteserien,5,2022-05-08,Bodø/Glimt,Lillestrøm,1,1,0.5
+2022,Eliteserien,5,2022-05-08,HamKam,Aalesund,0,0,0.5
+2022,Eliteserien,18,2022-05-11,Molde,Odd,3,0,1.0
+2022,Eliteserien,12,2022-05-12,Tromsø,Vålerenga,1,0,1.0
+2022,Eliteserien,18,2022-05-12,Viking,Strømsgodset,0,0,0.5
+2022,Eliteserien,6,2022-05-16,Kristiansund,Strømsgodset,0,3,0.0
+2022,Eliteserien,6,2022-05-16,Aalesund,Molde,0,2,0.0
+2022,Eliteserien,6,2022-05-16,Odd,Haugesund,0,4,0.0
+2022,Eliteserien,6,2022-05-16,Lillestrøm,Sarpsborg 08,1,0,1.0
+2022,Eliteserien,6,2022-05-16,Rosenborg,Sandefjord,3,0,1.0
+2022,Eliteserien,6,2022-05-16,Bodø/Glimt,Tromsø,1,1,0.5
+2022,Eliteserien,6,2022-05-16,Viking,Jerv,3,0,1.0
+2022,Eliteserien,6,2022-05-16,Vålerenga,HamKam,1,1,0.5
+2022,Eliteserien,7,2022-05-21,Sandefjord,Lillestrøm,1,4,0.0
+2022,Eliteserien,7,2022-05-21,Molde,Kristiansund,2,1,1.0
+2022,Eliteserien,7,2022-05-22,Tromsø,Viking,1,1,0.5
+2022,Eliteserien,7,2022-05-22,Strømsgodset,Vålerenga,3,2,1.0
+2022,Eliteserien,7,2022-05-22,Haugesund,Bodø/Glimt,1,4,0.0
+2022,Eliteserien,7,2022-05-22,Sarpsborg 08,Aalesund,1,2,0.0
+2022,Eliteserien,7,2022-05-22,Jerv,Odd,0,1,0.0
+2022,Eliteserien,7,2022-05-22,HamKam,Rosenborg,1,1,0.5
+2022,Eliteserien,8,2022-05-25,Viking,HamKam,1,1,0.5
+2022,Eliteserien,8,2022-05-25,Odd,Sandefjord,0,1,0.0
+2022,Eliteserien,8,2022-05-25,Bodø/Glimt,Strømsgodset,2,2,0.5
+2022,Eliteserien,8,2022-05-25,Aalesund,Jerv,2,1,1.0
+2022,Eliteserien,8,2022-05-25,Lillestrøm,Vålerenga,2,0,1.0
+2022,Eliteserien,8,2022-05-26,Rosenborg,Haugesund,3,3,0.5
+2022,Eliteserien,8,2022-05-26,Sarpsborg 08,Molde,1,2,0.0
+2022,Eliteserien,9,2022-05-28,HamKam,Odd,1,2,0.0
+2022,Eliteserien,9,2022-05-28,Strømsgodset,Viking,3,2,1.0
+2022,Eliteserien,9,2022-05-29,Molde,Bodø/Glimt,3,1,1.0
+2022,Eliteserien,9,2022-05-29,Jerv,Sarpsborg 08,0,5,0.0
+2022,Eliteserien,9,2022-05-29,Haugesund,Aalesund,2,2,0.5
+2022,Eliteserien,9,2022-05-29,Tromsø,Lillestrøm,2,2,0.5
+2022,Eliteserien,9,2022-05-29,Vålerenga,Rosenborg,0,4,0.0
+2022,Eliteserien,10,2022-06-18,Sarpsborg 08,Strømsgodset,5,1,1.0
+2022,Eliteserien,10,2022-06-18,Kristiansund,Bodø/Glimt,0,2,0.0
+2022,Eliteserien,10,2022-06-19,Lillestrøm,Rosenborg,3,1,1.0
+2022,Eliteserien,10,2022-06-19,Tromsø,Haugesund,1,1,0.5
+2022,Eliteserien,10,2022-06-19,Odd,Molde,1,2,0.0
+2022,Eliteserien,10,2022-06-19,Jerv,HamKam,1,2,0.0
+2022,Eliteserien,10,2022-06-19,Viking,Sandefjord,1,2,0.0
+2022,Eliteserien,10,2022-06-19,Aalesund,Vålerenga,2,2,0.5
+2022,Eliteserien,11,2022-06-25,Haugesund,Viking,4,2,1.0
+2022,Eliteserien,11,2022-06-25,Rosenborg,Kristiansund,3,1,1.0
+2022,Eliteserien,11,2022-06-26,Strømsgodset,Lillestrøm,3,0,1.0
+2022,Eliteserien,11,2022-06-26,Bodø/Glimt,Aalesund,2,0,1.0
+2022,Eliteserien,11,2022-06-26,HamKam,Sarpsborg 08,3,2,1.0
+2022,Eliteserien,11,2022-06-26,Sandefjord,Tromsø,2,2,0.5
+2022,Eliteserien,11,2022-06-26,Vålerenga,Odd,0,1,0.0
+2022,Eliteserien,12,2022-07-02,Jerv,Haugesund,1,0,1.0
+2022,Eliteserien,12,2022-07-02,Odd,Bodø/Glimt,3,2,1.0
+2022,Eliteserien,12,2022-07-03,Sarpsborg 08,Sandefjord,4,3,1.0
+2022,Eliteserien,12,2022-07-03,Kristiansund,Lillestrøm,1,3,0.0
+2022,Eliteserien,12,2022-07-03,HamKam,Molde,0,0,0.5
+2022,Eliteserien,12,2022-07-03,Aalesund,Strømsgodset,1,0,1.0
+2022,Eliteserien,12,2022-07-03,Viking,Rosenborg,1,1,0.5
+2022,Eliteserien,11,2022-07-06,Molde,Jerv,1,1,0.5
+2022,Eliteserien,13,2022-07-09,Bodø/Glimt,Sarpsborg 08,4,1,1.0
+2022,Eliteserien,13,2022-07-09,Strømsgodset,Odd,0,0,0.5
+2022,Eliteserien,13,2022-07-10,Molde,Tromsø,5,1,1.0
+2022,Eliteserien,13,2022-07-10,Vålerenga,Kristiansund,3,0,1.0
+2022,Eliteserien,13,2022-07-10,Lillestrøm,Viking,0,1,0.0
+2022,Eliteserien,13,2022-07-10,Rosenborg,Jerv,3,2,1.0
+2022,Eliteserien,13,2022-07-10,Haugesund,HamKam,1,1,0.5
+2022,Eliteserien,13,2022-07-12,Sandefjord,Aalesund,2,2,0.5
+2022,Eliteserien,14,2022-07-16,Jerv,Sandefjord,1,2,0.0
+2022,Eliteserien,14,2022-07-16,HamKam,Bodø/Glimt,0,2,0.0
+2022,Eliteserien,14,2022-07-17,Molde,Haugesund,1,0,1.0
+2022,Eliteserien,14,2022-07-17,Viking,Kristiansund,2,1,1.0
+2022,Eliteserien,14,2022-07-17,Sarpsborg 08,Vålerenga,0,1,0.0
+2022,Eliteserien,14,2022-07-17,Odd,Lillestrøm,1,2,0.0
+2022,Eliteserien,14,2022-07-17,Aalesund,Rosenborg,0,0,0.5
+2022,Eliteserien,15,2022-07-23,Bodø/Glimt,Jerv,5,0,1.0
+2022,Eliteserien,15,2022-07-23,Rosenborg,Tromsø,3,0,1.0
+2022,Eliteserien,15,2022-07-24,Sandefjord,Molde,2,3,0.0
+2022,Eliteserien,15,2022-07-24,Vålerenga,Viking,4,2,1.0
+2022,Eliteserien,15,2022-07-24,Kristiansund,Odd,2,2,0.5
+2022,Eliteserien,15,2022-07-24,Haugesund,Sarpsborg 08,3,1,1.0
+2022,Eliteserien,15,2022-07-24,Strømsgodset,HamKam,1,1,0.5
+2022,Eliteserien,9,2022-07-27,Sandefjord,Kristiansund,2,0,1.0
+2022,Eliteserien,16,2022-07-30,Aalesund,Bodø/Glimt,1,2,0.0
+2022,Eliteserien,16,2022-07-30,HamKam,Kristiansund,0,1,0.0
+2022,Eliteserien,16,2022-07-30,Odd,Rosenborg,2,3,0.0
+2022,Eliteserien,16,2022-07-30,Tromsø,Sandefjord,3,0,1.0
+2022,Eliteserien,16,2022-07-30,Jerv,Vålerenga,2,5,0.0
+2022,Eliteserien,16,2022-07-31,Molde,Strømsgodset,3,0,1.0
+2022,Eliteserien,16,2022-07-31,Sarpsborg 08,Lillestrøm,0,2,0.0
+2022,Eliteserien,8,2022-08-03,Kristiansund,Tromsø,1,1,0.5
+2022,Eliteserien,17,2022-08-06,Bodø/Glimt,Odd,7,0,1.0
+2022,Eliteserien,17,2022-08-06,Rosenborg,HamKam,2,1,1.0
+2022,Eliteserien,17,2022-08-07,Strømsgodset,Sarpsborg 08,3,1,1.0
+2022,Eliteserien,17,2022-08-07,Kristiansund,Molde,2,3,0.0
+2022,Eliteserien,17,2022-08-07,Lillestrøm,Tromsø,1,1,0.5
+2022,Eliteserien,17,2022-08-07,Haugesund,Jerv,3,1,1.0
+2022,Eliteserien,17,2022-08-07,Sandefjord,Viking,2,2,0.5
+2022,Eliteserien,17,2022-08-07,Vålerenga,Aalesund,4,0,1.0
+2022,Eliteserien,18,2022-08-12,Sarpsborg 08,Bodø/Glimt,1,4,0.0
+2022,Eliteserien,18,2022-08-12,Sandefjord,Rosenborg,2,5,0.0
+2022,Eliteserien,18,2022-08-13,Aalesund,Haugesund,1,2,0.0
+2022,Eliteserien,18,2022-08-14,Tromsø,Kristiansund,2,1,1.0
+2022,Eliteserien,18,2022-08-14,Jerv,Lillestrøm,1,0,1.0
+2022,Eliteserien,18,2022-08-14,HamKam,Vålerenga,1,1,0.5
+2022,Eliteserien,19,2022-08-20,Odd,Sarpsborg 08,1,0,1.0
+2022,Eliteserien,19,2022-08-20,Bodø/Glimt,HamKam,2,2,0.5
+2022,Eliteserien,19,2022-08-21,Haugesund,Molde,0,1,0.0
+2022,Eliteserien,19,2022-08-21,Vålerenga,Tromsø,1,0,1.0
+2022,Eliteserien,19,2022-08-21,Strømsgodset,Jerv,6,0,1.0
+2022,Eliteserien,19,2022-08-21,Lillestrøm,Sandefjord,3,0,1.0
+2022,Eliteserien,19,2022-08-21,Rosenborg,Aalesund,2,1,1.0
+2022,Eliteserien,20,2022-08-27,Sandefjord,Strømsgodset,2,2,0.5
+2022,Eliteserien,20,2022-08-27,Jerv,Bodø/Glimt,0,2,0.0
+2022,Eliteserien,20,2022-08-28,Molde,Sarpsborg 08,4,1,1.0
+2022,Eliteserien,20,2022-08-28,Viking,Vålerenga,1,2,0.0
+2022,Eliteserien,20,2022-08-28,HamKam,Haugesund,1,0,1.0
+2022,Eliteserien,20,2022-08-28,Lillestrøm,Kristiansund,1,1,0.5
+2022,Eliteserien,20,2022-08-28,Aalesund,Odd,1,1,0.5
+2022,Eliteserien,20,2022-08-28,Tromsø,Rosenborg,4,3,1.0
+2022,Eliteserien,14,2022-08-31,Tromsø,Strømsgodset,1,0,1.0
+2022,Eliteserien,19,2022-08-31,Kristiansund,Viking,2,1,1.0
+2022,Eliteserien,21,2022-09-03,Bodø/Glimt,Molde,1,4,0.0
+2022,Eliteserien,21,2022-09-04,Strømsgodset,Aalesund,1,2,0.0
+2022,Eliteserien,21,2022-09-04,Odd,Jerv,2,1,1.0
+2022,Eliteserien,21,2022-09-04,Kristiansund,Sandefjord,3,1,1.0
+2022,Eliteserien,21,2022-09-04,Rosenborg,Viking,4,1,1.0
+2022,Eliteserien,21,2022-09-04,Haugesund,Tromsø,2,1,1.0
+2022,Eliteserien,21,2022-09-04,Sarpsborg 08,HamKam,2,1,1.0
+2022,Eliteserien,21,2022-09-04,Vålerenga,Lillestrøm,3,1,1.0
+2022,Eliteserien,22,2022-09-10,Sandefjord,Odd,1,3,0.0
+2022,Eliteserien,22,2022-09-10,Lillestrøm,Strømsgodset,2,1,1.0
+2022,Eliteserien,22,2022-09-11,Tromsø,Bodø/Glimt,3,2,1.0
+2022,Eliteserien,22,2022-09-11,HamKam,Viking,1,2,0.0
+2022,Eliteserien,22,2022-09-11,Kristiansund,Vålerenga,3,2,1.0
+2022,Eliteserien,22,2022-09-11,Aalesund,Sarpsborg 08,1,3,0.0
+2022,Eliteserien,22,2022-09-11,Jerv,Molde,2,4,0.0
+2022,Eliteserien,22,2022-09-11,Haugesund,Rosenborg,2,1,1.0
+2022,Eliteserien,23,2022-09-17,Odd,HamKam,2,0,1.0
+2022,Eliteserien,23,2022-09-18,Sarpsborg 08,Jerv,4,3,1.0
+2022,Eliteserien,23,2022-09-18,Strømsgodset,Kristiansund,4,1,1.0
+2022,Eliteserien,23,2022-09-18,Bodø/Glimt,Haugesund,1,1,0.5
+2022,Eliteserien,23,2022-09-18,Viking,Tromsø,2,2,0.5
+2022,Eliteserien,23,2022-09-18,Rosenborg,Lillestrøm,3,1,1.0
+2022,Eliteserien,23,2022-09-18,Vålerenga,Sandefjord,4,0,1.0
+2022,Eliteserien,23,2022-09-18,Molde,Aalesund,3,0,1.0
+2022,Eliteserien,24,2022-10-01,Tromsø,Molde,0,1,0.0
+2022,Eliteserien,24,2022-10-01,Lillestrøm,Bodø/Glimt,1,4,0.0
+2022,Eliteserien,24,2022-10-01,Vålerenga,Strømsgodset,4,0,1.0
+2022,Eliteserien,24,2022-10-02,Sandefjord,Sarpsborg 08,1,1,0.5
+2022,Eliteserien,24,2022-10-02,Haugesund,Odd,2,2,0.5
+2022,Eliteserien,24,2022-10-02,HamKam,Jerv,2,1,1.0
+2022,Eliteserien,24,2022-10-02,Aalesund,Viking,2,1,1.0
+2022,Eliteserien,24,2022-10-02,Kristiansund,Rosenborg,4,4,0.5
+2022,Eliteserien,25,2022-10-08,Sarpsborg 08,Haugesund,4,0,1.0
+2022,Eliteserien,25,2022-10-09,Strømsgodset,Tromsø,1,2,0.0
+2022,Eliteserien,25,2022-10-09,Odd,Kristiansund,1,1,0.5
+2022,Eliteserien,25,2022-10-09,Bodø/Glimt,Sandefjord,4,1,1.0
+2022,Eliteserien,25,2022-10-09,Viking,Lillestrøm,0,3,0.0
+2022,Eliteserien,25,2022-10-09,Molde,HamKam,5,0,1.0
+2022,Eliteserien,25,2022-10-09,Rosenborg,Vålerenga,3,0,1.0
+2022,Eliteserien,26,2022-10-15,Tromsø,Odd,3,2,1.0
+2022,Eliteserien,26,2022-10-15,Rosenborg,Strømsgodset,3,0,1.0
+2022,Eliteserien,26,2022-10-16,Viking,Sarpsborg 08,0,1,0.0
+2022,Eliteserien,26,2022-10-16,Aalesund,HamKam,0,0,0.5
+2022,Eliteserien,26,2022-10-16,Kristiansund,Haugesund,0,1,0.0
+2022,Eliteserien,26,2022-10-16,Sandefjord,Jerv,1,2,0.0
+2022,Eliteserien,26,2022-10-16,Vålerenga,Bodø/Glimt,0,6,0.0
+2022,Eliteserien,26,2022-10-16,Lillestrøm,Molde,0,1,0.0
+2022,Eliteserien,25,2022-10-19,Jerv,Aalesund,0,1,0.0
+2022,Eliteserien,27,2022-10-22,Odd,Vålerenga,2,1,1.0
+2022,Eliteserien,27,2022-10-22,HamKam,Strømsgodset,1,1,0.5
+2022,Eliteserien,27,2022-10-23,Jerv,Viking,2,2,0.5
+2022,Eliteserien,27,2022-10-23,Haugesund,Lillestrøm,0,1,0.0
+2022,Eliteserien,27,2022-10-23,Aalesund,Sandefjord,1,0,1.0
+2022,Eliteserien,27,2022-10-23,Sarpsborg 08,Tromsø,1,1,0.5
+2022,Eliteserien,27,2022-10-23,Bodø/Glimt,Kristiansund,5,0,1.0
+2022,Eliteserien,27,2022-10-23,Molde,Rosenborg,2,1,1.0
+2022,Eliteserien,28,2022-10-29,Vålerenga,Sarpsborg 08,3,3,0.5
+2022,Eliteserien,28,2022-10-29,Strømsgodset,Haugesund,1,2,0.0
+2022,Eliteserien,28,2022-10-30,Lillestrøm,Odd,0,2,0.0
+2022,Eliteserien,28,2022-10-30,Sandefjord,HamKam,1,2,0.0
+2022,Eliteserien,28,2022-10-30,Tromsø,Jerv,2,2,0.5
+2022,Eliteserien,28,2022-10-30,Kristiansund,Aalesund,4,0,1.0
+2022,Eliteserien,28,2022-10-30,Rosenborg,Bodø/Glimt,3,2,1.0
+2022,Eliteserien,28,2022-10-30,Viking,Molde,1,4,0.0
+2022,Eliteserien,29,2022-11-06,Haugesund,Vålerenga,1,1,0.5
+2022,Eliteserien,29,2022-11-06,Odd,Strømsgodset,5,1,1.0
+2022,Eliteserien,29,2022-11-06,Jerv,Rosenborg,2,4,0.0
+2022,Eliteserien,29,2022-11-06,HamKam,Tromsø,1,2,0.0
+2022,Eliteserien,29,2022-11-06,Aalesund,Lillestrøm,2,1,1.0
+2022,Eliteserien,29,2022-11-06,Molde,Sandefjord,2,1,1.0
+2022,Eliteserien,29,2022-11-06,Bodø/Glimt,Viking,5,4,1.0
+2022,Eliteserien,29,2022-11-06,Sarpsborg 08,Kristiansund,2,2,0.5
+2022,Eliteserien,30,2022-11-13,Rosenborg,Sarpsborg 08,2,3,0.0
+2022,Eliteserien,30,2022-11-13,Tromsø,Aalesund,2,2,0.5
+2022,Eliteserien,30,2022-11-13,Sandefjord,Haugesund,2,2,0.5
+2022,Eliteserien,30,2022-11-13,Viking,Odd,1,1,0.5
+2022,Eliteserien,30,2022-11-13,Vålerenga,Molde,1,2,0.0
+2022,Eliteserien,30,2022-11-13,Strømsgodset,Bodø/Glimt,2,4,0.0
+2022,Eliteserien,30,2022-11-13,Kristiansund,Jerv,1,1,0.5
+2022,Eliteserien,30,2022-11-13,Lillestrøm,HamKam,3,1,1.0
+2022,Norwegian 1/2 Relegation/Promotion Play-offs,,2022-11-16,Sandefjord,Kongsvinger,4,0,1.0
+2022,Norwegian 1/2 Relegation/Promotion Play-offs,,2022-11-19,Kongsvinger,Sandefjord,2,1,1.0

@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2009-2010,1,2009-07-31,Heerenveen,Roda JC,0,0,0.5
+2009-2010,1,2009-08-01,Willem II,Vitesse,3,1,1.0
+2009-2010,1,2009-08-01,Sparta R'dam,Twente,0,2,0.0
+2009-2010,1,2009-08-01,Heracles Almelo,AZ Alkmaar,3,2,1.0
+2009-2010,1,2009-08-01,RKC Waalwijk,Utrecht,0,1,0.0
+2009-2010,1,2009-08-02,ADO Den Haag,NAC Breda,1,2,0.0
+2009-2010,1,2009-08-02,Feyenoord,NEC Nijmegen,2,0,1.0
+2009-2010,1,2009-08-02,PSV Eindhoven,VVV-Venlo,3,3,0.5
+2009-2010,1,2009-08-02,Groningen,Ajax,0,2,0.0
+2009-2010,2,2009-08-07,AZ Alkmaar,Sparta R'dam,2,0,1.0
+2009-2010,2,2009-08-07,NEC Nijmegen,Heerenveen,4,1,1.0
+2009-2010,2,2009-08-08,Ajax,RKC Waalwijk,4,1,1.0
+2009-2010,2,2009-08-08,Roda JC,Groningen,1,1,0.5
+2009-2010,2,2009-08-09,Twente,PSV Eindhoven,1,1,0.5
+2009-2010,2,2009-08-09,NAC Breda,Heracles Almelo,0,0,0.5
+2009-2010,2,2009-08-09,Vitesse,Feyenoord,0,0,0.5
+2009-2010,2,2009-08-09,Utrecht,Willem II,1,0,1.0
+2009-2010,2,2009-08-09,VVV-Venlo,ADO Den Haag,2,2,0.5
+2009-2010,3,2009-08-15,RKC Waalwijk,AZ Alkmaar,0,6,0.0
+2009-2010,3,2009-08-15,ADO Den Haag,Twente,0,1,0.0
+2009-2010,3,2009-08-15,Sparta R'dam,Willem II,2,1,1.0
+2009-2010,3,2009-08-15,Heerenveen,Vitesse,1,0,1.0
+2009-2010,3,2009-08-16,Utrecht,VVV-Venlo,2,2,0.5
+2009-2010,3,2009-08-16,Roda JC,NEC Nijmegen,1,0,1.0
+2009-2010,3,2009-08-16,PSV Eindhoven,Ajax,4,3,1.0
+2009-2010,3,2009-08-16,Heracles Almelo,Feyenoord,0,1,0.0
+2009-2010,3,2009-08-16,Groningen,NAC Breda,1,2,0.0
+2009-2010,4,2009-08-22,VVV-Venlo,Groningen,2,2,0.5
+2009-2010,4,2009-08-22,Vitesse,ADO Den Haag,1,3,0.0
+2009-2010,4,2009-08-22,Willem II,Heracles Almelo,0,1,0.0
+2009-2010,4,2009-08-23,PSV Eindhoven,NAC Breda,3,1,1.0
+2009-2010,4,2009-08-23,Twente,RKC Waalwijk,2,1,1.0
+2009-2010,4,2009-08-23,Feyenoord,Roda JC,4,0,1.0
+2009-2010,4,2009-08-23,Heerenveen,AZ Alkmaar,0,2,0.0
+2009-2010,4,2009-08-23,Ajax,Sparta R'dam,0,0,0.5
+2009-2010,5,2009-08-28,RKC Waalwijk,ADO Den Haag,0,2,0.0
+2009-2010,5,2009-08-28,Roda JC,Vitesse,3,4,0.0
+2009-2010,5,2009-08-29,NEC Nijmegen,VVV-Venlo,1,1,0.5
+2009-2010,5,2009-08-29,AZ Alkmaar,Willem II,2,1,1.0
+2009-2010,5,2009-08-29,Utrecht,Sparta R'dam,2,0,1.0
+2009-2010,5,2009-08-30,Heracles Almelo,Ajax,0,3,0.0
+2009-2010,5,2009-08-30,NAC Breda,Heerenveen,2,0,1.0
+2009-2010,5,2009-08-30,Feyenoord,Twente,1,1,0.5
+2009-2010,5,2009-08-30,Groningen,PSV Eindhoven,0,2,0.0
+2009-2010,6,2009-09-12,Twente,Utrecht,3,2,1.0
+2009-2010,6,2009-09-12,PSV Eindhoven,Roda JC,3,0,1.0
+2009-2010,6,2009-09-12,Heerenveen,Groningen,0,1,0.0
+2009-2010,6,2009-09-12,ADO Den Haag,AZ Alkmaar,2,1,1.0
+2009-2010,6,2009-09-13,VVV-Venlo,Heracles Almelo,1,0,1.0
+2009-2010,6,2009-09-13,Vitesse,NEC Nijmegen,2,2,0.5
+2009-2010,6,2009-09-13,Ajax,NAC Breda,6,0,1.0
+2009-2010,6,2009-09-13,Willem II,Feyenoord,2,3,0.0
+2009-2010,6,2009-09-13,Sparta R'dam,RKC Waalwijk,1,0,1.0
+2009-2010,7,2009-09-18,Willem II,Groningen,2,1,1.0
+2009-2010,7,2009-09-19,Heracles Almelo,Sparta R'dam,1,1,0.5
+2009-2010,7,2009-09-19,AZ Alkmaar,NEC Nijmegen,0,1,0.0
+2009-2010,7,2009-09-19,Roda JC,NAC Breda,2,0,1.0
+2009-2010,7,2009-09-19,Vitesse,RKC Waalwijk,3,1,1.0
+2009-2010,7,2009-09-20,Heerenveen,Twente,0,2,0.0
+2009-2010,7,2009-09-20,VVV-Venlo,Ajax,0,4,0.0
+2009-2010,7,2009-09-20,ADO Den Haag,Utrecht,0,1,0.0
+2009-2010,7,2009-09-20,Feyenoord,PSV Eindhoven,1,3,0.0
+2009-2010,8,2009-09-26,Utrecht,AZ Alkmaar,1,0,1.0
+2009-2010,8,2009-09-26,Twente,VVV-Venlo,2,1,1.0
+2009-2010,8,2009-09-26,PSV Eindhoven,Willem II,3,1,1.0
+2009-2010,8,2009-09-26,RKC Waalwijk,Roda JC,4,1,1.0
+2009-2010,8,2009-09-27,NAC Breda,Feyenoord,0,2,0.0
+2009-2010,8,2009-09-27,Groningen,Vitesse,1,0,1.0
+2009-2010,8,2009-09-27,NEC Nijmegen,Heracles Almelo,0,2,0.0
+2009-2010,8,2009-09-27,Ajax,ADO Den Haag,3,0,1.0
+2009-2010,8,2009-09-27,Sparta R'dam,Heerenveen,0,2,0.0
+2009-2010,4,2009-09-30,NEC Nijmegen,Utrecht,1,1,0.5
+2009-2010,9,2009-10-02,Vitesse,Sparta R'dam,2,0,1.0
+2009-2010,9,2009-10-03,AZ Alkmaar,NAC Breda,1,0,1.0
+2009-2010,9,2009-10-03,ADO Den Haag,Groningen,1,1,0.5
+2009-2010,9,2009-10-03,Feyenoord,RKC Waalwijk,3,0,1.0
+2009-2010,9,2009-10-03,Willem II,NEC Nijmegen,1,1,0.5
+2009-2010,9,2009-10-04,Utrecht,PSV Eindhoven,0,0,0.5
+2009-2010,9,2009-10-04,Heerenveen,VVV-Venlo,1,1,0.5
+2009-2010,9,2009-10-04,Heracles Almelo,Twente,1,3,0.0
+2009-2010,9,2009-10-04,Roda JC,Ajax,2,2,0.5
+2009-2010,10,2009-10-17,Twente,AZ Alkmaar,3,2,1.0
+2009-2010,10,2009-10-17,Ajax,Willem II,4,0,1.0
+2009-2010,10,2009-10-17,PSV Eindhoven,Heerenveen,1,0,1.0
+2009-2010,10,2009-10-17,NAC Breda,Vitesse,4,0,1.0
+2009-2010,10,2009-10-18,NEC Nijmegen,ADO Den Haag,1,1,0.5
+2009-2010,10,2009-10-18,VVV-Venlo,Roda JC,1,1,0.5
+2009-2010,10,2009-10-18,Groningen,Utrecht,0,0,0.5
+2009-2010,10,2009-10-18,Sparta R'dam,Feyenoord,2,1,1.0
+2009-2010,10,2009-10-18,RKC Waalwijk,Heracles Almelo,0,1,0.0
+2009-2010,11,2009-10-23,Utrecht,Roda JC,2,1,1.0
+2009-2010,11,2009-10-24,NAC Breda,RKC Waalwijk,1,0,1.0
+2009-2010,11,2009-10-24,Feyenoord,VVV-Venlo,1,0,1.0
+2009-2010,11,2009-10-24,Vitesse,Heracles Almelo,0,2,0.0
+2009-2010,11,2009-10-24,ADO Den Haag,Sparta R'dam,2,3,0.0
+2009-2010,11,2009-10-25,Willem II,Heerenveen,4,1,1.0
+2009-2010,11,2009-10-25,AZ Alkmaar,Ajax,2,4,0.0
+2009-2010,11,2009-10-25,NEC Nijmegen,PSV Eindhoven,0,4,0.0
+2009-2010,11,2009-10-25,Twente,Groningen,4,0,1.0
+2009-2010,12,2009-10-30,VVV-Venlo,NAC Breda,1,1,0.5
+2009-2010,12,2009-10-31,PSV Eindhoven,Vitesse,1,0,1.0
+2009-2010,12,2009-10-31,Heerenveen,ADO Den Haag,3,0,1.0
+2009-2010,12,2009-10-31,Groningen,AZ Alkmaar,0,1,0.0
+2009-2010,12,2009-10-31,Roda JC,Twente,1,2,0.0
+2009-2010,12,2009-11-01,RKC Waalwijk,Willem II,0,1,0.0
+2009-2010,12,2009-11-01,Heracles Almelo,Utrecht,3,1,1.0
+2009-2010,12,2009-11-01,Sparta R'dam,NEC Nijmegen,2,0,1.0
+2009-2010,12,2009-11-01,Ajax,Feyenoord,5,1,1.0
+2009-2010,13,2009-11-06,Groningen,Heracles Almelo,4,1,1.0
+2009-2010,13,2009-11-07,Sparta R'dam,Roda JC,1,2,0.0
+2009-2010,13,2009-11-07,Vitesse,VVV-Venlo,2,0,1.0
+2009-2010,13,2009-11-07,NEC Nijmegen,RKC Waalwijk,0,1,0.0
+2009-2010,13,2009-11-08,Twente,Ajax,1,0,1.0
+2009-2010,13,2009-11-08,Utrecht,Heerenveen,2,3,0.0
+2009-2010,13,2009-11-08,NAC Breda,Willem II,4,0,1.0
+2009-2010,13,2009-11-08,AZ Alkmaar,Feyenoord,1,1,0.5
+2009-2010,13,2009-11-08,ADO Den Haag,PSV Eindhoven,1,5,0.0
+2009-2010,14,2009-11-21,Roda JC,AZ Alkmaar,2,4,0.0
+2009-2010,14,2009-11-21,Twente,Vitesse,1,0,1.0
+2009-2010,14,2009-11-21,NAC Breda,NEC Nijmegen,3,3,0.5
+2009-2010,14,2009-11-21,RKC Waalwijk,Groningen,3,1,1.0
+2009-2010,14,2009-11-22,PSV Eindhoven,Heracles Almelo,4,0,1.0
+2009-2010,14,2009-11-22,Feyenoord,Utrecht,0,0,0.5
+2009-2010,14,2009-11-22,Ajax,Heerenveen,5,1,1.0
+2009-2010,14,2009-11-22,Willem II,ADO Den Haag,1,1,0.5
+2009-2010,14,2009-11-22,VVV-Venlo,Sparta R'dam,5,0,1.0
+2009-2010,15,2009-11-27,Sparta R'dam,PSV Eindhoven,2,3,0.0
+2009-2010,15,2009-11-28,Heracles Almelo,Roda JC,3,2,1.0
+2009-2010,15,2009-11-28,Willem II,Twente,1,3,0.0
+2009-2010,15,2009-11-28,AZ Alkmaar,VVV-Venlo,2,0,1.0
+2009-2010,15,2009-11-28,Heerenveen,RKC Waalwijk,3,1,1.0
+2009-2010,15,2009-11-29,Vitesse,Ajax,1,5,0.0
+2009-2010,15,2009-11-29,ADO Den Haag,Feyenoord,0,2,0.0
+2009-2010,15,2009-11-29,Utrecht,NAC Breda,3,1,1.0
+2009-2010,15,2009-11-29,Groningen,NEC Nijmegen,2,2,0.5
+2009-2010,16,2009-12-04,NAC Breda,Sparta R'dam,2,2,0.5
+2009-2010,16,2009-12-04,AZ Alkmaar,Vitesse,1,2,0.0
+2009-2010,16,2009-12-04,VVV-Venlo,Willem II,2,1,1.0
+2009-2010,16,2009-12-04,Roda JC,ADO Den Haag,1,1,0.5
+2009-2010,16,2009-12-06,Heracles Almelo,Heerenveen,3,1,1.0
+2009-2010,16,2009-12-06,RKC Waalwijk,PSV Eindhoven,0,2,0.0
+2009-2010,16,2009-12-06,NEC Nijmegen,Twente,3,4,0.0
+2009-2010,16,2009-12-06,Feyenoord,Groningen,3,1,1.0
+2009-2010,16,2009-12-06,Utrecht,Ajax,2,0,1.0
+2009-2010,17,2009-12-11,Ajax,NEC Nijmegen,3,0,1.0
+2009-2010,17,2009-12-12,PSV Eindhoven,AZ Alkmaar,1,0,1.0
+2009-2010,17,2009-12-12,VVV-Venlo,RKC Waalwijk,3,0,1.0
+2009-2010,17,2009-12-12,Heerenveen,Feyenoord,0,2,0.0
+2009-2010,17,2009-12-12,Twente,NAC Breda,3,1,1.0
+2009-2010,17,2009-12-13,Vitesse,Utrecht,2,2,0.5
+2009-2010,17,2009-12-13,Willem II,Roda JC,1,3,0.0
+2009-2010,17,2009-12-13,ADO Den Haag,Heracles Almelo,1,4,0.0
+2009-2010,17,2009-12-13,Sparta R'dam,Groningen,2,4,0.0
+2009-2010,18,2009-12-18,Heracles Almelo,VVV-Venlo,1,0,1.0
+2009-2010,18,2009-12-19,AZ Alkmaar,ADO Den Haag,3,0,1.0
+2009-2010,18,2009-12-19,Feyenoord,Willem II,1,0,1.0
+2009-2010,18,2009-12-19,RKC Waalwijk,Sparta R'dam,4,1,1.0
+2009-2010,18,2010-01-17,Utrecht,Twente,0,0,0.5
+2009-2010,18,2010-01-17,NEC Nijmegen,Vitesse,2,1,1.0
+2009-2010,18,2010-01-17,NAC Breda,Ajax,1,1,0.5
+2009-2010,18,2010-01-19,Roda JC,PSV Eindhoven,0,1,0.0
+2009-2010,18,2010-01-20,Groningen,Heerenveen,2,0,1.0
+2009-2010,19,2010-01-22,PSV Eindhoven,NEC Nijmegen,3,0,1.0
+2009-2010,19,2010-01-23,Roda JC,Utrecht,2,0,1.0
+2009-2010,19,2010-01-23,Heracles Almelo,Vitesse,1,2,0.0
+2009-2010,19,2010-01-23,RKC Waalwijk,NAC Breda,0,1,0.0
+2009-2010,19,2010-01-23,Heerenveen,Willem II,4,2,1.0
+2009-2010,19,2010-01-24,Sparta R'dam,ADO Den Haag,0,0,0.5
+2009-2010,19,2010-01-24,VVV-Venlo,Feyenoord,1,1,0.5
+2009-2010,19,2010-01-24,Ajax,AZ Alkmaar,1,0,1.0
+2009-2010,19,2010-01-24,Groningen,Twente,0,0,0.5
+2009-2010,20,2010-01-29,Willem II,RKC Waalwijk,2,1,1.0
+2009-2010,20,2010-01-30,ADO Den Haag,Heerenveen,2,1,1.0
+2009-2010,20,2010-01-30,NAC Breda,VVV-Venlo,2,0,1.0
+2009-2010,20,2010-01-30,NEC Nijmegen,Sparta R'dam,1,0,1.0
+2009-2010,20,2010-01-30,AZ Alkmaar,Groningen,0,1,0.0
+2009-2010,20,2010-01-31,Twente,Roda JC,2,0,1.0
+2009-2010,20,2010-01-31,Feyenoord,Ajax,1,1,0.5
+2009-2010,20,2010-01-31,Utrecht,Heracles Almelo,0,0,0.5
+2009-2010,20,2010-01-31,Vitesse,PSV Eindhoven,0,0,0.5
+2009-2010,21,2010-02-02,NAC Breda,AZ Alkmaar,1,1,0.5
+2009-2010,21,2010-02-02,VVV-Venlo,Heerenveen,3,1,1.0
+2009-2010,21,2010-02-03,Sparta R'dam,Vitesse,1,1,0.5
+2009-2010,21,2010-02-03,Ajax,Roda JC,4,0,1.0
+2009-2010,21,2010-02-03,Groningen,ADO Den Haag,2,0,1.0
+2009-2010,21,2010-02-03,Twente,Heracles Almelo,2,0,1.0
+2009-2010,21,2010-02-03,PSV Eindhoven,Utrecht,2,1,1.0
+2009-2010,21,2010-02-04,RKC Waalwijk,Feyenoord,0,1,0.0
+2009-2010,22,2010-02-05,Willem II,NAC Breda,1,2,0.0
+2009-2010,22,2010-02-06,PSV Eindhoven,ADO Den Haag,2,0,1.0
+2009-2010,22,2010-02-06,Roda JC,Sparta R'dam,2,1,1.0
+2009-2010,22,2010-02-06,Heerenveen,Utrecht,2,0,1.0
+2009-2010,22,2010-02-06,Heracles Almelo,Groningen,4,3,1.0
+2009-2010,22,2010-02-07,Feyenoord,AZ Alkmaar,1,2,0.0
+2009-2010,22,2010-02-07,VVV-Venlo,Vitesse,2,0,1.0
+2009-2010,22,2010-02-07,RKC Waalwijk,NEC Nijmegen,0,1,0.0
+2009-2010,22,2010-02-07,Ajax,Twente,3,0,1.0
+2009-2010,23,2010-02-12,NEC Nijmegen,NAC Breda,4,2,1.0
+2009-2010,23,2010-02-13,AZ Alkmaar,Roda JC,2,0,1.0
+2009-2010,23,2010-02-13,ADO Den Haag,Willem II,3,0,1.0
+2009-2010,23,2010-02-13,Vitesse,Twente,1,2,0.0
+2009-2010,23,2010-02-13,Heerenveen,Ajax,0,2,0.0
+2009-2010,23,2010-02-14,Heracles Almelo,PSV Eindhoven,0,1,0.0
+2009-2010,23,2010-02-14,Sparta R'dam,VVV-Venlo,2,0,1.0
+2009-2010,23,2010-02-14,Groningen,RKC Waalwijk,2,1,1.0
+2009-2010,23,2010-02-14,Utrecht,Feyenoord,0,0,0.5
+2009-2010,21,2010-02-17,NEC Nijmegen,Willem II,2,1,1.0
+2009-2010,24,2010-02-19,Roda JC,Heracles Almelo,2,1,1.0
+2009-2010,24,2010-02-20,NAC Breda,Utrecht,0,2,0.0
+2009-2010,24,2010-02-20,NEC Nijmegen,Groningen,0,2,0.0
+2009-2010,24,2010-02-20,VVV-Venlo,AZ Alkmaar,3,3,0.5
+2009-2010,24,2010-02-20,RKC Waalwijk,Heerenveen,1,2,0.0
+2009-2010,24,2010-02-21,PSV Eindhoven,Sparta R'dam,1,1,0.5
+2009-2010,24,2010-02-21,Feyenoord,ADO Den Haag,2,2,0.5
+2009-2010,24,2010-02-21,Ajax,Vitesse,4,0,1.0
+2009-2010,24,2010-02-21,Twente,Willem II,1,0,1.0
+2009-2010,25,2010-02-26,ADO Den Haag,Roda JC,1,2,0.0
+2009-2010,25,2010-02-27,Heerenveen,Heracles Almelo,1,2,0.0
+2009-2010,25,2010-02-27,Willem II,VVV-Venlo,2,1,1.0
+2009-2010,25,2010-02-27,Vitesse,AZ Alkmaar,0,3,0.0
+2009-2010,25,2010-02-28,Groningen,Feyenoord,2,3,0.0
+2009-2010,25,2010-02-28,Sparta R'dam,NAC Breda,2,2,0.5
+2009-2010,25,2010-02-28,Ajax,Utrecht,4,0,1.0
+2009-2010,25,2010-02-28,PSV Eindhoven,RKC Waalwijk,5,1,1.0
+2009-2010,25,2010-02-28,Twente,NEC Nijmegen,2,1,1.0
+2009-2010,26,2010-03-06,Heracles Almelo,Willem II,3,2,1.0
+2009-2010,26,2010-03-06,NAC Breda,PSV Eindhoven,2,1,1.0
+2009-2010,26,2010-03-06,AZ Alkmaar,Heerenveen,4,1,1.0
+2009-2010,26,2010-03-06,ADO Den Haag,Vitesse,1,1,0.5
+2009-2010,26,2010-03-07,Roda JC,Feyenoord,2,4,0.0
+2009-2010,26,2010-03-07,RKC Waalwijk,Twente,0,1,0.0
+2009-2010,26,2010-03-07,Groningen,VVV-Venlo,1,0,1.0
+2009-2010,26,2010-03-07,Sparta R'dam,Ajax,0,3,0.0
+2009-2010,26,2010-03-07,Utrecht,NEC Nijmegen,1,0,1.0
+2009-2010,27,2010-03-12,Twente,ADO Den Haag,3,1,1.0
+2009-2010,27,2010-03-13,AZ Alkmaar,RKC Waalwijk,6,2,1.0
+2009-2010,27,2010-03-13,NEC Nijmegen,Roda JC,0,2,0.0
+2009-2010,27,2010-03-13,VVV-Venlo,Utrecht,0,1,0.0
+2009-2010,27,2010-03-13,NAC Breda,Groningen,0,3,0.0
+2009-2010,27,2010-03-14,Ajax,PSV Eindhoven,4,1,1.0
+2009-2010,27,2010-03-14,Feyenoord,Heracles Almelo,1,1,0.5
+2009-2010,27,2010-03-14,Vitesse,Heerenveen,0,1,0.0
+2009-2010,27,2010-03-14,Willem II,Sparta R'dam,3,1,1.0
+2009-2010,28,2010-03-19,Heerenveen,NEC Nijmegen,4,1,1.0
+2009-2010,28,2010-03-20,Heracles Almelo,NAC Breda,3,0,1.0
+2009-2010,28,2010-03-20,PSV Eindhoven,Twente,1,1,0.5
+2009-2010,28,2010-03-20,Willem II,Utrecht,0,3,0.0
+2009-2010,28,2010-03-21,Groningen,Roda JC,1,0,1.0
+2009-2010,28,2010-03-21,RKC Waalwijk,Ajax,1,5,0.0
+2009-2010,28,2010-03-21,ADO Den Haag,VVV-Venlo,0,0,0.5
+2009-2010,28,2010-03-21,Sparta R'dam,AZ Alkmaar,0,1,0.0
+2009-2010,29,2010-03-26,NAC Breda,ADO Den Haag,3,0,1.0
+2009-2010,29,2010-03-27,Roda JC,Heerenveen,4,2,1.0
+2009-2010,29,2010-03-27,Vitesse,Willem II,2,1,1.0
+2009-2010,29,2010-03-27,Twente,Sparta R'dam,3,0,1.0
+2009-2010,29,2010-03-27,AZ Alkmaar,Heracles Almelo,3,2,1.0
+2009-2010,29,2010-03-28,Utrecht,RKC Waalwijk,2,0,1.0
+2009-2010,29,2010-03-28,Ajax,Groningen,3,0,1.0
+2009-2010,29,2010-03-28,NEC Nijmegen,Feyenoord,0,0,0.5
+2009-2010,29,2010-03-28,VVV-Venlo,PSV Eindhoven,2,4,0.0
+2009-2010,28,2010-03-31,Feyenoord,Vitesse,2,1,1.0
+2009-2010,30,2010-04-03,Heerenveen,Sparta R'dam,4,1,1.0
+2009-2010,30,2010-04-03,Vitesse,Groningen,3,0,1.0
+2009-2010,30,2010-04-03,VVV-Venlo,Twente,0,2,0.0
+2009-2010,30,2010-04-03,AZ Alkmaar,Utrecht,2,0,1.0
+2009-2010,30,2010-04-03,Roda JC,RKC Waalwijk,5,1,1.0
+2009-2010,30,2010-04-04,Heracles Almelo,NEC Nijmegen,2,0,1.0
+2009-2010,30,2010-04-04,Willem II,PSV Eindhoven,0,1,0.0
+2009-2010,30,2010-04-04,Feyenoord,NAC Breda,0,0,0.5
+2009-2010,30,2010-04-04,ADO Den Haag,Ajax,0,1,0.0
+2009-2010,31,2010-04-09,RKC Waalwijk,Vitesse,4,1,1.0
+2009-2010,31,2010-04-10,Sparta R'dam,Heracles Almelo,1,1,0.5
+2009-2010,31,2010-04-10,NEC Nijmegen,AZ Alkmaar,0,0,0.5
+2009-2010,31,2010-04-10,NAC Breda,Roda JC,1,0,1.0
+2009-2010,31,2010-04-10,Twente,Heerenveen,2,0,1.0
+2009-2010,31,2010-04-11,PSV Eindhoven,Feyenoord,0,0,0.5
+2009-2010,31,2010-04-11,Ajax,VVV-Venlo,7,0,1.0
+2009-2010,31,2010-04-11,Groningen,Willem II,4,0,1.0
+2009-2010,31,2010-04-11,Utrecht,ADO Den Haag,0,2,0.0
+2009-2010,32,2010-04-13,Vitesse,NAC Breda,1,1,0.5
+2009-2010,32,2010-04-13,AZ Alkmaar,Twente,1,0,1.0
+2009-2010,32,2010-04-13,Heracles Almelo,RKC Waalwijk,4,1,1.0
+2009-2010,32,2010-04-14,Feyenoord,Sparta R'dam,3,0,1.0
+2009-2010,32,2010-04-14,Heerenveen,PSV Eindhoven,2,2,0.5
+2009-2010,32,2010-04-14,Roda JC,VVV-Venlo,4,2,1.0
+2009-2010,32,2010-04-14,Utrecht,Groningen,1,1,0.5
+2009-2010,32,2010-04-14,Willem II,Ajax,0,2,0.0
+2009-2010,32,2010-04-14,ADO Den Haag,NEC Nijmegen,2,3,0.0
+2009-2010,33,2010-04-18,Twente,Feyenoord,2,0,1.0
+2009-2010,33,2010-04-18,Ajax,Heracles Almelo,4,0,1.0
+2009-2010,33,2010-04-18,ADO Den Haag,RKC Waalwijk,4,0,1.0
+2009-2010,33,2010-04-18,Heerenveen,NAC Breda,0,0,0.5
+2009-2010,33,2010-04-18,Vitesse,Roda JC,2,5,0.0
+2009-2010,33,2010-04-18,PSV Eindhoven,Groningen,3,1,1.0
+2009-2010,33,2010-04-18,Willem II,AZ Alkmaar,0,3,0.0
+2009-2010,33,2010-04-18,Sparta R'dam,Utrecht,0,3,0.0
+2009-2010,33,2010-04-18,VVV-Venlo,NEC Nijmegen,2,0,1.0
+2009-2010,34,2010-05-02,NAC Breda,Twente,0,2,0.0
+2009-2010,34,2010-05-02,Utrecht,Vitesse,2,2,0.5
+2009-2010,34,2010-05-02,Roda JC,Willem II,3,2,1.0
+2009-2010,34,2010-05-02,AZ Alkmaar,PSV Eindhoven,1,1,0.5
+2009-2010,34,2010-05-02,Feyenoord,Heerenveen,6,2,1.0
+2009-2010,34,2010-05-02,NEC Nijmegen,Ajax,1,4,0.0
+2009-2010,34,2010-05-02,Heracles Almelo,ADO Den Haag,4,2,1.0
+2009-2010,34,2010-05-02,Groningen,Sparta R'dam,3,1,1.0
+2009-2010,34,2010-05-02,RKC Waalwijk,VVV-Venlo,1,2,0.0

@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1992-1993,1,1992-08-14,Nürnberg,Werder Bremen,0,0,0.5
+1992-1993,1,1992-08-14,Kaiserslautern,Köln,1,0,1.0
+1992-1993,1,1992-08-14,Leverkusen,Saarbrücken,1,1,0.5
+1992-1993,1,1992-08-15,Schalke 04,Wattenscheid,3,4,0.0
+1992-1993,1,1992-08-15,Karlsruher,Gladbach,4,2,1.0
+1992-1993,1,1992-08-15,Eint Frankfurt,Dresden,1,1,0.5
+1992-1993,1,1992-08-15,Uerdingen,Bayern Munich,0,3,0.0
+1992-1993,1,1992-08-15,Hamburger SV,Stuttgart,1,1,0.5
+1992-1993,1,1992-08-15,Bochum,Dortmund,2,2,0.5
+1992-1993,2,1992-08-21,Wattenscheid,Uerdingen,1,1,0.5
+1992-1993,2,1992-08-21,Dresden,Hamburger SV,1,1,0.5
+1992-1993,2,1992-08-22,Stuttgart,Nürnberg,3,0,1.0
+1992-1993,2,1992-08-22,Köln,Eint Frankfurt,0,1,0.0
+1992-1993,2,1992-08-22,Gladbach,Bochum,1,1,0.5
+1992-1993,2,1992-08-22,Saarbrücken,Karlsruher,2,0,1.0
+1992-1993,2,1992-08-22,Bayern Munich,Kaiserslautern,1,0,1.0
+1992-1993,2,1992-08-22,Dortmund,Schalke 04,0,2,0.0
+1992-1993,2,1992-08-22,Werder Bremen,Leverkusen,1,1,0.5
+1992-1993,3,1992-08-25,Schalke 04,Gladbach,1,2,0.0
+1992-1993,3,1992-08-25,Hamburger SV,Nürnberg,0,1,0.0
+1992-1993,3,1992-08-25,Uerdingen,Dortmund,0,2,0.0
+1992-1993,3,1992-08-25,Leverkusen,Stuttgart,4,0,1.0
+1992-1993,3,1992-08-26,Dresden,Köln,3,0,1.0
+1992-1993,3,1992-08-26,Karlsruher,Werder Bremen,5,2,1.0
+1992-1993,3,1992-08-26,Kaiserslautern,Wattenscheid,4,1,1.0
+1992-1993,3,1992-08-26,Bochum,Saarbrücken,4,0,1.0
+1992-1993,4,1992-08-28,Nürnberg,Leverkusen,0,1,0.0
+1992-1993,4,1992-08-28,Gladbach,Uerdingen,0,4,0.0
+1992-1993,4,1992-08-29,Wattenscheid,Eint Frankfurt,1,2,0.0
+1992-1993,4,1992-08-29,Köln,Hamburger SV,2,2,0.5
+1992-1993,4,1992-08-29,Stuttgart,Karlsruher,2,1,1.0
+1992-1993,4,1992-08-29,Bayern Munich,Dresden,3,1,1.0
+1992-1993,4,1992-08-29,Saarbrücken,Schalke 04,1,3,0.0
+1992-1993,4,1992-08-29,Dortmund,Kaiserslautern,1,0,1.0
+1992-1993,4,1992-08-29,Werder Bremen,Bochum,3,1,1.0
+1992-1993,5,1992-09-01,Eint Frankfurt,Dortmund,4,1,1.0
+1992-1993,5,1992-09-01,Schalke 04,Werder Bremen,0,0,0.5
+1992-1993,5,1992-09-01,Dresden,Wattenscheid,2,1,1.0
+1992-1993,5,1992-09-01,Kaiserslautern,Gladbach,0,0,0.5
+1992-1993,5,1992-09-01,Karlsruher,Nürnberg,1,1,0.5
+1992-1993,5,1992-09-02,Köln,Bayern Munich,1,3,0.0
+1992-1993,5,1992-09-02,Bochum,Stuttgart,0,0,0.5
+1992-1993,5,1992-09-02,Uerdingen,Saarbrücken,1,1,0.5
+1992-1993,5,1992-09-02,Hamburger SV,Leverkusen,0,0,0.5
+1992-1993,6,1992-09-04,Gladbach,Eint Frankfurt,3,3,0.5
+1992-1993,6,1992-09-04,Dortmund,Dresden,3,0,1.0
+1992-1993,6,1992-09-05,Saarbrücken,Kaiserslautern,2,0,1.0
+1992-1993,6,1992-09-05,Leverkusen,Karlsruher,5,1,1.0
+1992-1993,6,1992-09-05,Werder Bremen,Uerdingen,2,1,1.0
+1992-1993,6,1992-09-05,Bayern Munich,Hamburger SV,4,0,1.0
+1992-1993,6,1992-09-05,Nürnberg,Bochum,2,1,1.0
+1992-1993,6,1992-09-05,Wattenscheid,Köln,4,2,1.0
+1992-1993,6,1992-09-05,Stuttgart,Schalke 04,1,0,1.0
+1992-1993,7,1992-09-18,Hamburger SV,Karlsruher,1,2,0.0
+1992-1993,7,1992-09-18,Bochum,Leverkusen,2,2,0.5
+1992-1993,7,1992-09-18,Dresden,Gladbach,1,0,1.0
+1992-1993,7,1992-09-19,Köln,Dortmund,0,1,0.0
+1992-1993,7,1992-09-19,Uerdingen,Stuttgart,3,3,0.5
+1992-1993,7,1992-09-19,Schalke 04,Nürnberg,0,0,0.5
+1992-1993,7,1992-09-19,Kaiserslautern,Werder Bremen,3,1,1.0
+1992-1993,7,1992-09-19,Eint Frankfurt,Saarbrücken,1,1,0.5
+1992-1993,7,1992-09-19,Bayern Munich,Wattenscheid,1,1,0.5
+1992-1993,8,1992-09-25,Dortmund,Bayern Munich,1,2,0.0
+1992-1993,8,1992-09-25,Saarbrücken,Dresden,1,1,0.5
+1992-1993,8,1992-09-26,Karlsruher,Bochum,1,0,1.0
+1992-1993,8,1992-09-26,Leverkusen,Schalke 04,6,1,1.0
+1992-1993,8,1992-09-26,Gladbach,Köln,1,2,0.0
+1992-1993,8,1992-09-26,Stuttgart,Kaiserslautern,3,1,1.0
+1992-1993,8,1992-09-26,Nürnberg,Uerdingen,2,0,1.0
+1992-1993,8,1992-09-26,Werder Bremen,Eint Frankfurt,0,0,0.5
+1992-1993,8,1992-09-26,Wattenscheid,Hamburger SV,2,2,0.5
+1992-1993,9,1992-10-02,Uerdingen,Leverkusen,2,1,1.0
+1992-1993,9,1992-10-02,Hamburger SV,Bochum,2,0,1.0
+1992-1993,9,1992-10-02,Schalke 04,Karlsruher,2,2,0.5
+1992-1993,9,1992-10-03,Dresden,Werder Bremen,2,3,0.0
+1992-1993,9,1992-10-03,Kaiserslautern,Nürnberg,2,0,1.0
+1992-1993,9,1992-10-03,Köln,Saarbrücken,4,2,1.0
+1992-1993,9,1992-10-03,Wattenscheid,Dortmund,1,3,0.0
+1992-1993,9,1992-10-03,Bayern Munich,Gladbach,2,2,0.5
+1992-1993,9,1992-10-04,Eint Frankfurt,Stuttgart,4,0,1.0
+1992-1993,10,1992-10-16,Karlsruher,Uerdingen,4,0,1.0
+1992-1993,10,1992-10-16,Bochum,Schalke 04,0,1,0.0
+1992-1993,10,1992-10-16,Gladbach,Wattenscheid,4,1,1.0
+1992-1993,10,1992-10-17,Nürnberg,Eint Frankfurt,1,2,0.0
+1992-1993,10,1992-10-17,Werder Bremen,Köln,2,0,1.0
+1992-1993,10,1992-10-17,Saarbrücken,Bayern Munich,1,1,0.5
+1992-1993,10,1992-10-17,Stuttgart,Dresden,4,0,1.0
+1992-1993,10,1992-10-17,Leverkusen,Kaiserslautern,2,0,1.0
+1992-1993,10,1992-10-17,Dortmund,Hamburger SV,3,1,1.0
+1992-1993,11,1992-10-23,Hamburger SV,Schalke 04,1,2,0.0
+1992-1993,11,1992-10-23,Dresden,Nürnberg,1,2,0.0
+1992-1993,11,1992-10-23,Wattenscheid,Saarbrücken,3,1,1.0
+1992-1993,11,1992-10-24,Eint Frankfurt,Leverkusen,2,2,0.5
+1992-1993,11,1992-10-24,Bayern Munich,Werder Bremen,1,3,0.0
+1992-1993,11,1992-10-24,Dortmund,Gladbach,4,1,1.0
+1992-1993,11,1992-10-24,Köln,Stuttgart,3,1,1.0
+1992-1993,11,1992-10-24,Uerdingen,Bochum,2,1,1.0
+1992-1993,11,1992-10-24,Kaiserslautern,Karlsruher,2,3,0.0
+1992-1993,3,1992-10-27,Eint Frankfurt,Bayern Munich,1,1,0.5
+1992-1993,12,1992-10-30,Schalke 04,Uerdingen,1,1,0.5
+1992-1993,12,1992-10-30,Leverkusen,Dresden,0,0,0.5
+1992-1993,12,1992-10-30,Werder Bremen,Wattenscheid,3,0,1.0
+1992-1993,12,1992-10-31,Bochum,Kaiserslautern,1,3,0.0
+1992-1993,12,1992-10-31,Stuttgart,Bayern Munich,2,3,0.0
+1992-1993,12,1992-10-31,Saarbrücken,Dortmund,3,1,1.0
+1992-1993,12,1992-10-31,Nürnberg,Köln,2,1,1.0
+1992-1993,12,1992-10-31,Gladbach,Hamburger SV,0,0,0.5
+1992-1993,12,1992-11-01,Karlsruher,Eint Frankfurt,4,1,1.0
+1992-1993,13,1992-11-13,Dortmund,Werder Bremen,2,2,0.5
+1992-1993,13,1992-11-13,Kaiserslautern,Schalke 04,3,0,1.0
+1992-1993,13,1992-11-13,Dresden,Karlsruher,3,0,1.0
+1992-1993,13,1992-11-14,Bayern Munich,Nürnberg,1,0,1.0
+1992-1993,13,1992-11-14,Gladbach,Saarbrücken,2,5,0.0
+1992-1993,13,1992-11-14,Hamburger SV,Uerdingen,3,0,1.0
+1992-1993,13,1992-11-14,Wattenscheid,Stuttgart,0,0,0.5
+1992-1993,13,1992-11-14,Köln,Leverkusen,1,0,1.0
+1992-1993,13,1992-11-14,Eint Frankfurt,Bochum,4,1,1.0
+1992-1993,14,1992-11-20,Saarbrücken,Hamburger SV,0,3,0.0
+1992-1993,14,1992-11-20,Bochum,Dresden,2,2,0.5
+1992-1993,14,1992-11-20,Nürnberg,Wattenscheid,2,1,1.0
+1992-1993,14,1992-11-21,Werder Bremen,Gladbach,2,0,1.0
+1992-1993,14,1992-11-21,Uerdingen,Kaiserslautern,0,5,0.0
+1992-1993,14,1992-11-21,Karlsruher,Köln,3,1,1.0
+1992-1993,14,1992-11-21,Leverkusen,Bayern Munich,2,4,0.0
+1992-1993,14,1992-11-21,Schalke 04,Eint Frankfurt,0,0,0.5
+1992-1993,14,1992-11-21,Stuttgart,Dortmund,1,0,1.0
+1992-1993,15,1992-11-27,Wattenscheid,Leverkusen,1,3,0.0
+1992-1993,15,1992-11-27,Dresden,Schalke 04,1,0,1.0
+1992-1993,15,1992-11-27,Werder Bremen,Saarbrücken,2,0,1.0
+1992-1993,15,1992-11-28,Kaiserslautern,Hamburger SV,2,2,0.5
+1992-1993,15,1992-11-28,Bayern Munich,Karlsruher,3,3,0.5
+1992-1993,15,1992-11-28,Köln,Bochum,1,0,1.0
+1992-1993,15,1992-11-28,Eint Frankfurt,Uerdingen,1,0,1.0
+1992-1993,15,1992-11-28,Gladbach,Stuttgart,1,1,0.5
+1992-1993,15,1992-11-28,Dortmund,Nürnberg,4,2,1.0
+1992-1993,16,1992-12-04,Uerdingen,Dresden,1,1,0.5
+1992-1993,16,1992-12-04,Hamburger SV,Werder Bremen,0,0,0.5
+1992-1993,16,1992-12-05,Bochum,Bayern Munich,2,2,0.5
+1992-1993,16,1992-12-05,Leverkusen,Dortmund,3,3,0.5
+1992-1993,16,1992-12-05,Nürnberg,Gladbach,0,1,0.0
+1992-1993,16,1992-12-05,Stuttgart,Saarbrücken,2,2,0.5
+1992-1993,16,1992-12-05,Karlsruher,Wattenscheid,2,1,1.0
+1992-1993,16,1992-12-05,Kaiserslautern,Eint Frankfurt,0,2,0.0
+1992-1993,16,1992-12-06,Schalke 04,Köln,1,0,1.0
+1992-1993,17,1992-12-11,Saarbrücken,Nürnberg,0,1,0.0
+1992-1993,17,1992-12-11,Gladbach,Leverkusen,2,2,0.5
+1992-1993,17,1992-12-11,Wattenscheid,Bochum,2,0,1.0
+1992-1993,17,1992-12-12,Dortmund,Karlsruher,3,1,1.0
+1992-1993,17,1992-12-12,Werder Bremen,Stuttgart,1,1,0.5
+1992-1993,17,1992-12-12,Köln,Uerdingen,5,0,1.0
+1992-1993,17,1992-12-12,Bayern Munich,Schalke 04,1,1,0.5
+1992-1993,17,1992-12-12,Dresden,Kaiserslautern,1,3,0.0
+1992-1993,17,1992-12-12,Eint Frankfurt,Hamburger SV,3,3,0.5
+1992-1993,18,1993-02-19,Köln,Kaiserslautern,0,3,0.0
+1992-1993,18,1993-02-19,Werder Bremen,Nürnberg,3,0,1.0
+1992-1993,18,1993-02-19,Wattenscheid,Schalke 04,0,0,0.5
+1992-1993,18,1993-02-20,Dresden,Eint Frankfurt,0,2,0.0
+1992-1993,18,1993-02-20,Saarbrücken,Leverkusen,3,1,1.0
+1992-1993,18,1993-02-20,Dortmund,Bochum,1,0,1.0
+1992-1993,18,1993-02-20,Bayern Munich,Uerdingen,2,0,1.0
+1992-1993,18,1993-02-20,Gladbach,Karlsruher,3,1,1.0
+1992-1993,18,1993-02-20,Stuttgart,Hamburger SV,1,1,0.5
+1992-1993,19,1993-02-26,Bochum,Gladbach,2,1,1.0
+1992-1993,19,1993-02-27,Nürnberg,Stuttgart,3,2,1.0
+1992-1993,19,1993-02-27,Schalke 04,Dortmund,0,0,0.5
+1992-1993,19,1993-02-27,Karlsruher,Saarbrücken,2,2,0.5
+1992-1993,19,1993-02-27,Eint Frankfurt,Köln,2,1,1.0
+1992-1993,19,1993-02-27,Leverkusen,Werder Bremen,2,2,0.5
+1992-1993,19,1993-02-27,Kaiserslautern,Bayern Munich,1,3,0.0
+1992-1993,19,1993-02-27,Uerdingen,Wattenscheid,1,1,0.5
+1992-1993,19,1993-02-28,Hamburger SV,Dresden,1,1,0.5
+1992-1993,20,1993-03-05,Werder Bremen,Karlsruher,3,0,1.0
+1992-1993,20,1993-03-05,Nürnberg,Hamburger SV,1,0,1.0
+1992-1993,20,1993-03-06,Bayern Munich,Eint Frankfurt,1,0,1.0
+1992-1993,20,1993-03-06,Saarbrücken,Bochum,1,1,0.5
+1992-1993,20,1993-03-06,Dortmund,Uerdingen,2,0,1.0
+1992-1993,20,1993-03-06,Wattenscheid,Kaiserslautern,1,0,1.0
+1992-1993,20,1993-03-06,Stuttgart,Leverkusen,0,3,0.0
+1992-1993,20,1993-03-06,Gladbach,Schalke 04,2,0,1.0
+1992-1993,20,1993-03-06,Köln,Dresden,3,1,1.0
+1992-1993,21,1993-03-12,Kaiserslautern,Dortmund,0,0,0.5
+1992-1993,21,1993-03-12,Schalke 04,Saarbrücken,2,2,0.5
+1992-1993,21,1993-03-12,Hamburger SV,Köln,3,0,1.0
+1992-1993,21,1993-03-13,Karlsruher,Stuttgart,1,1,0.5
+1992-1993,21,1993-03-13,Eint Frankfurt,Wattenscheid,4,1,1.0
+1992-1993,21,1993-03-13,Dresden,Bayern Munich,0,0,0.5
+1992-1993,21,1993-03-13,Leverkusen,Nürnberg,2,1,1.0
+1992-1993,21,1993-03-13,Uerdingen,Gladbach,1,3,0.0
+1992-1993,21,1993-03-13,Bochum,Werder Bremen,2,0,1.0
+1992-1993,22,1993-03-19,Nürnberg,Karlsruher,0,0,0.5
+1992-1993,22,1993-03-19,Saarbrücken,Uerdingen,3,3,0.5
+1992-1993,22,1993-03-19,Wattenscheid,Dresden,2,1,1.0
+1992-1993,22,1993-03-20,Leverkusen,Hamburger SV,1,1,0.5
+1992-1993,22,1993-03-20,Stuttgart,Bochum,4,1,1.0
+1992-1993,22,1993-03-20,Bayern Munich,Köln,3,0,1.0
+1992-1993,22,1993-03-20,Werder Bremen,Schalke 04,2,0,1.0
+1992-1993,22,1993-03-20,Gladbach,Kaiserslautern,2,2,0.5
+1992-1993,22,1993-03-21,Dortmund,Eint Frankfurt,3,0,1.0
+1992-1993,23,1993-03-26,Bochum,Nürnberg,4,0,1.0
+1992-1993,23,1993-03-26,Uerdingen,Werder Bremen,0,2,0.0
+1992-1993,23,1993-03-27,Köln,Wattenscheid,3,0,1.0
+1992-1993,23,1993-03-27,Schalke 04,Stuttgart,1,0,1.0
+1992-1993,23,1993-03-27,Kaiserslautern,Saarbrücken,1,1,0.5
+1992-1993,23,1993-03-27,Eint Frankfurt,Gladbach,1,3,0.0
+1992-1993,23,1993-03-27,Dresden,Dortmund,3,0,1.0
+1992-1993,23,1993-03-27,Karlsruher,Leverkusen,1,1,0.5
+1992-1993,23,1993-03-28,Hamburger SV,Bayern Munich,3,1,1.0
+1992-1993,24,1993-04-02,Wattenscheid,Bayern Munich,2,0,1.0
+1992-1993,24,1993-04-02,Gladbach,Dresden,5,1,1.0
+1992-1993,24,1993-04-02,Saarbrücken,Eint Frankfurt,0,0,0.5
+1992-1993,24,1993-04-03,Nürnberg,Schalke 04,1,4,0.0
+1992-1993,24,1993-04-03,Karlsruher,Hamburger SV,1,0,1.0
+1992-1993,24,1993-04-03,Dortmund,Köln,4,1,1.0
+1992-1993,24,1993-04-03,Werder Bremen,Kaiserslautern,1,0,1.0
+1992-1993,24,1993-04-03,Leverkusen,Bochum,3,1,1.0
+1992-1993,24,1993-04-03,Stuttgart,Uerdingen,1,2,0.0
+1992-1993,25,1993-04-08,Schalke 04,Leverkusen,2,1,1.0
+1992-1993,25,1993-04-08,Uerdingen,Nürnberg,2,1,1.0
+1992-1993,25,1993-04-08,Kaiserslautern,Stuttgart,0,0,0.5
+1992-1993,25,1993-04-10,Bochum,Karlsruher,2,2,0.5
+1992-1993,25,1993-04-10,Hamburger SV,Wattenscheid,1,1,0.5
+1992-1993,25,1993-04-10,Bayern Munich,Dortmund,2,0,1.0
+1992-1993,25,1993-04-10,Eint Frankfurt,Werder Bremen,3,0,1.0
+1992-1993,25,1993-04-10,Köln,Gladbach,1,2,0.0
+1992-1993,25,1993-04-10,Dresden,Saarbrücken,0,0,0.5
+1992-1993,26,1993-04-16,Dortmund,Wattenscheid,6,0,1.0
+1992-1993,26,1993-04-16,Nürnberg,Kaiserslautern,0,0,0.5
+1992-1993,26,1993-04-16,Werder Bremen,Dresden,3,0,1.0
+1992-1993,26,1993-04-16,Bochum,Hamburger SV,1,2,0.0
+1992-1993,26,1993-04-17,Gladbach,Bayern Munich,2,2,0.5
+1992-1993,26,1993-04-17,Karlsruher,Schalke 04,0,0,0.5
+1992-1993,26,1993-04-17,Leverkusen,Uerdingen,1,0,1.0
+1992-1993,26,1993-04-17,Stuttgart,Eint Frankfurt,2,2,0.5
+1992-1993,26,1993-04-17,Saarbrücken,Köln,0,3,0.0
+1992-1993,27,1993-04-23,Köln,Werder Bremen,0,0,0.5
+1992-1993,27,1993-04-23,Wattenscheid,Gladbach,3,1,1.0
+1992-1993,27,1993-04-23,Bayern Munich,Saarbrücken,6,0,1.0
+1992-1993,27,1993-04-24,Kaiserslautern,Leverkusen,4,0,1.0
+1992-1993,27,1993-04-24,Schalke 04,Bochum,0,3,0.0
+1992-1993,27,1993-04-24,Eint Frankfurt,Nürnberg,0,0,0.5
+1992-1993,27,1993-04-24,Uerdingen,Karlsruher,1,1,0.5
+1992-1993,27,1993-04-24,Hamburger SV,Dortmund,1,2,0.0
+1992-1993,27,1993-04-24,Dresden,Stuttgart,0,0,0.5
+1992-1993,28,1993-04-26,Werder Bremen,Bayern Munich,4,1,1.0
+1992-1993,28,1993-04-27,Gladbach,Dortmund,0,3,0.0
+1992-1993,28,1993-04-27,Bochum,Uerdingen,4,1,1.0
+1992-1993,28,1993-04-27,Leverkusen,Eint Frankfurt,1,1,0.5
+1992-1993,28,1993-04-27,Karlsruher,Kaiserslautern,1,1,0.5
+1992-1993,28,1993-04-27,Stuttgart,Köln,2,0,1.0
+1992-1993,28,1993-04-27,Saarbrücken,Wattenscheid,0,1,0.0
+1992-1993,28,1993-04-28,Schalke 04,Hamburger SV,0,0,0.5
+1992-1993,28,1993-04-28,Nürnberg,Dresden,0,0,0.5
+1992-1993,29,1993-04-30,Dortmund,Saarbrücken,3,0,1.0
+1992-1993,29,1993-04-30,Eint Frankfurt,Karlsruher,4,1,1.0
+1992-1993,29,1993-04-30,Bayern Munich,Stuttgart,5,3,1.0
+1992-1993,29,1993-05-01,Kaiserslautern,Bochum,3,1,1.0
+1992-1993,29,1993-05-01,Wattenscheid,Werder Bremen,2,2,0.5
+1992-1993,29,1993-05-01,Dresden,Leverkusen,2,0,1.0
+1992-1993,29,1993-05-01,Köln,Nürnberg,2,0,1.0
+1992-1993,29,1993-05-01,Uerdingen,Schalke 04,4,2,1.0
+1992-1993,29,1993-05-01,Hamburger SV,Gladbach,0,2,0.0
+1992-1993,30,1993-05-07,Karlsruher,Dresden,3,1,1.0
+1992-1993,30,1993-05-07,Uerdingen,Hamburger SV,0,2,0.0
+1992-1993,30,1993-05-07,Schalke 04,Kaiserslautern,4,0,1.0
+1992-1993,30,1993-05-08,Leverkusen,Köln,3,0,1.0
+1992-1993,30,1993-05-08,Bochum,Eint Frankfurt,1,0,1.0
+1992-1993,30,1993-05-08,Stuttgart,Wattenscheid,4,1,1.0
+1992-1993,30,1993-05-08,Saarbrücken,Gladbach,0,4,0.0
+1992-1993,30,1993-05-08,Nürnberg,Bayern Munich,0,0,0.5
+1992-1993,30,1993-05-09,Werder Bremen,Dortmund,1,0,1.0
+1992-1993,31,1993-05-14,Kaiserslautern,Uerdingen,2,1,1.0
+1992-1993,31,1993-05-14,Dortmund,Stuttgart,0,4,0.0
+1992-1993,31,1993-05-14,Gladbach,Werder Bremen,3,1,1.0
+1992-1993,31,1993-05-15,Hamburger SV,Saarbrücken,2,0,1.0
+1992-1993,31,1993-05-15,Bayern Munich,Leverkusen,4,1,1.0
+1992-1993,31,1993-05-15,Dresden,Bochum,0,0,0.5
+1992-1993,31,1993-05-15,Wattenscheid,Nürnberg,4,1,1.0
+1992-1993,31,1993-05-15,Eint Frankfurt,Schalke 04,0,3,0.0
+1992-1993,31,1993-05-15,Köln,Karlsruher,2,0,1.0
+1992-1993,32,1993-05-21,Schalke 04,Dresden,2,0,1.0
+1992-1993,32,1993-05-21,Hamburger SV,Kaiserslautern,2,2,0.5
+1992-1993,32,1993-05-21,Saarbrücken,Werder Bremen,0,4,0.0
+1992-1993,32,1993-05-22,Leverkusen,Wattenscheid,3,1,1.0
+1992-1993,32,1993-05-22,Uerdingen,Eint Frankfurt,2,0,1.0
+1992-1993,32,1993-05-22,Nürnberg,Dortmund,1,2,0.0
+1992-1993,32,1993-05-22,Bochum,Köln,0,0,0.5
+1992-1993,32,1993-05-22,Stuttgart,Gladbach,3,2,1.0
+1992-1993,32,1993-05-23,Karlsruher,Bayern Munich,4,2,1.0
+1992-1993,33,1993-05-29,Saarbrücken,Stuttgart,1,4,0.0
+1992-1993,33,1993-05-29,Dortmund,Leverkusen,1,2,0.0
+1992-1993,33,1993-05-29,Werder Bremen,Hamburger SV,5,0,1.0
+1992-1993,33,1993-05-29,Wattenscheid,Karlsruher,0,2,0.0
+1992-1993,33,1993-05-29,Bayern Munich,Bochum,3,1,1.0
+1992-1993,33,1993-05-29,Gladbach,Nürnberg,2,1,1.0
+1992-1993,33,1993-05-29,Köln,Schalke 04,2,1,1.0
+1992-1993,33,1993-05-29,Dresden,Uerdingen,1,1,0.5
+1992-1993,33,1993-05-29,Eint Frankfurt,Kaiserslautern,3,0,1.0
+1992-1993,34,1993-06-05,Karlsruher,Dortmund,3,0,1.0
+1992-1993,34,1993-06-05,Bochum,Wattenscheid,3,1,1.0
+1992-1993,34,1993-06-05,Schalke 04,Bayern Munich,3,3,0.5
+1992-1993,34,1993-06-05,Leverkusen,Gladbach,4,0,1.0
+1992-1993,34,1993-06-05,Nürnberg,Saarbrücken,4,1,1.0
+1992-1993,34,1993-06-05,Kaiserslautern,Dresden,2,0,1.0
+1992-1993,34,1993-06-05,Stuttgart,Werder Bremen,0,3,0.0
+1992-1993,34,1993-06-05,Uerdingen,Köln,0,0,0.5
+1992-1993,34,1993-06-05,Hamburger SV,Eint Frankfurt,1,2,0.0

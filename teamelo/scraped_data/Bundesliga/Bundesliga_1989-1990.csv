@@ -1,0 +1,307 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1989-1990,1,1989-07-28,Kaiserslautern,Gladbach,2,1,1.0
+1989-1990,1,1989-07-28,Uerdingen,Homburg,3,0,1.0
+1989-1990,1,1989-07-29,Düsseldorf,Hamburger SV,1,1,0.5
+1989-1990,1,1989-07-29,Bochum,Köln,0,1,0.0
+1989-1990,1,1989-07-29,Eint Frankfurt,Mannheim,3,1,1.0
+1989-1990,1,1989-07-29,Leverkusen,Dortmund,1,0,1.0
+1989-1990,1,1989-07-29,Bayern Munich,Nürnberg,3,2,1.0
+1989-1990,1,1989-07-29,St Pauli,Werder Bremen,0,0,0.5
+1989-1990,1,1989-07-29,Stuttgart,Karlsruher,2,0,1.0
+1989-1990,2,1989-08-04,Hamburger SV,Eint Frankfurt,1,1,0.5
+1989-1990,2,1989-08-04,Dortmund,St Pauli,3,1,1.0
+1989-1990,2,1989-08-05,Werder Bremen,Düsseldorf,2,2,0.5
+1989-1990,2,1989-08-05,Nürnberg,Leverkusen,2,2,0.5
+1989-1990,2,1989-08-05,Homburg,Kaiserslautern,2,2,0.5
+1989-1990,2,1989-08-05,Gladbach,Bayern Munich,0,0,0.5
+1989-1990,2,1989-08-05,Mannheim,Bochum,3,2,1.0
+1989-1990,2,1989-08-05,Karlsruher,Uerdingen,0,0,0.5
+1989-1990,3,1989-08-08,Düsseldorf,Eint Frankfurt,1,2,0.0
+1989-1990,2,1989-08-09,Köln,Stuttgart,0,0,0.5
+1989-1990,3,1989-08-09,Bayern Munich,Homburg,1,0,1.0
+1989-1990,3,1989-08-11,Kaiserslautern,Karlsruher,5,1,1.0
+1989-1990,3,1989-08-12,Uerdingen,Köln,2,3,0.0
+1989-1990,3,1989-08-12,Bochum,Hamburger SV,3,1,1.0
+1989-1990,3,1989-08-12,St Pauli,Nürnberg,0,1,0.0
+1989-1990,3,1989-08-12,Stuttgart,Mannheim,1,0,1.0
+1989-1990,3,1989-08-12,Leverkusen,Gladbach,0,0,0.5
+1989-1990,3,1989-08-12,Werder Bremen,Dortmund,2,0,1.0
+1989-1990,4,1989-08-15,Homburg,Leverkusen,2,1,1.0
+1989-1990,4,1989-08-15,Gladbach,St Pauli,4,1,1.0
+1989-1990,4,1989-08-15,Mannheim,Uerdingen,1,1,0.5
+1989-1990,4,1989-08-15,Nürnberg,Werder Bremen,1,1,0.5
+1989-1990,4,1989-08-16,Karlsruher,Bayern Munich,3,3,0.5
+1989-1990,4,1989-08-16,Hamburger SV,Stuttgart,1,0,1.0
+1989-1990,4,1989-08-16,Dortmund,Düsseldorf,1,0,1.0
+1989-1990,4,1989-08-16,Köln,Kaiserslautern,4,1,1.0
+1989-1990,4,1989-08-16,Eint Frankfurt,Bochum,4,0,1.0
+1989-1990,5,1989-08-22,Dortmund,Nürnberg,2,1,1.0
+1989-1990,5,1989-08-22,Werder Bremen,Gladbach,0,0,0.5
+1989-1990,5,1989-08-22,St Pauli,Homburg,1,1,0.5
+1989-1990,5,1989-08-23,Kaiserslautern,Mannheim,2,3,0.0
+1989-1990,5,1989-08-23,Leverkusen,Karlsruher,1,1,0.5
+1989-1990,5,1989-08-23,Uerdingen,Hamburger SV,5,2,1.0
+1989-1990,5,1989-08-23,Düsseldorf,Bochum,2,2,0.5
+1989-1990,5,1989-08-23,Bayern Munich,Köln,5,1,1.0
+1989-1990,5,1989-08-23,Stuttgart,Eint Frankfurt,1,1,0.5
+1989-1990,6,1989-08-26,Homburg,Werder Bremen,1,1,0.5
+1989-1990,6,1989-08-26,Nürnberg,Düsseldorf,3,0,1.0
+1989-1990,6,1989-08-26,Mannheim,Bayern Munich,1,0,1.0
+1989-1990,6,1989-08-26,Gladbach,Dortmund,0,0,0.5
+1989-1990,6,1989-08-26,Köln,Leverkusen,1,1,0.5
+1989-1990,6,1989-08-26,Hamburger SV,Kaiserslautern,3,0,1.0
+1989-1990,6,1989-08-26,Karlsruher,St Pauli,0,0,0.5
+1989-1990,6,1989-08-26,Eint Frankfurt,Uerdingen,2,1,1.0
+1989-1990,6,1989-08-26,Bochum,Stuttgart,2,0,1.0
+1989-1990,7,1989-08-31,Bayern Munich,Hamburger SV,4,0,1.0
+1989-1990,7,1989-09-01,Uerdingen,Bochum,3,1,1.0
+1989-1990,7,1989-09-01,Werder Bremen,Karlsruher,4,0,1.0
+1989-1990,7,1989-09-02,Kaiserslautern,Eint Frankfurt,2,1,1.0
+1989-1990,7,1989-09-02,Düsseldorf,Stuttgart,4,2,1.0
+1989-1990,7,1989-09-02,Dortmund,Homburg,3,0,1.0
+1989-1990,7,1989-09-02,Leverkusen,Mannheim,3,0,1.0
+1989-1990,7,1989-09-02,St Pauli,Köln,1,1,0.5
+1989-1990,7,1989-09-02,Nürnberg,Gladbach,2,0,1.0
+1989-1990,8,1989-09-08,Gladbach,Düsseldorf,3,1,1.0
+1989-1990,8,1989-09-09,Eint Frankfurt,Bayern Munich,1,2,0.0
+1989-1990,8,1989-09-09,Hamburger SV,Leverkusen,0,1,0.0
+1989-1990,8,1989-09-09,Stuttgart,Uerdingen,1,0,1.0
+1989-1990,8,1989-09-09,Homburg,Nürnberg,0,1,0.0
+1989-1990,8,1989-09-09,Köln,Werder Bremen,4,2,1.0
+1989-1990,8,1989-09-09,Mannheim,St Pauli,0,1,0.0
+1989-1990,8,1989-09-09,Bochum,Kaiserslautern,2,0,1.0
+1989-1990,8,1989-09-09,Karlsruher,Dortmund,2,1,1.0
+1989-1990,9,1989-09-15,Leverkusen,Eint Frankfurt,2,0,1.0
+1989-1990,9,1989-09-15,Gladbach,Homburg,0,0,0.5
+1989-1990,9,1989-09-16,Düsseldorf,Uerdingen,2,1,1.0
+1989-1990,9,1989-09-16,Werder Bremen,Mannheim,0,1,0.0
+1989-1990,9,1989-09-16,Nürnberg,Karlsruher,2,0,1.0
+1989-1990,9,1989-09-16,Dortmund,Köln,0,0,0.5
+1989-1990,9,1989-09-16,Bayern Munich,Bochum,5,1,1.0
+1989-1990,9,1989-09-16,St Pauli,Hamburger SV,0,0,0.5
+1989-1990,9,1989-09-16,Kaiserslautern,Stuttgart,1,2,0.0
+1989-1990,10,1989-09-19,Karlsruher,Gladbach,0,1,0.0
+1989-1990,10,1989-09-19,Eint Frankfurt,St Pauli,4,1,1.0
+1989-1990,10,1989-09-19,Uerdingen,Kaiserslautern,3,2,1.0
+1989-1990,10,1989-09-19,Homburg,Düsseldorf,1,0,1.0
+1989-1990,10,1989-09-20,Mannheim,Dortmund,2,1,1.0
+1989-1990,10,1989-09-20,Hamburger SV,Werder Bremen,4,0,1.0
+1989-1990,10,1989-09-20,Stuttgart,Bayern Munich,2,1,1.0
+1989-1990,10,1989-09-20,Köln,Nürnberg,2,1,1.0
+1989-1990,10,1989-09-20,Bochum,Leverkusen,0,2,0.0
+1989-1990,11,1989-09-29,St Pauli,Bochum,2,0,1.0
+1989-1990,11,1989-09-30,Homburg,Karlsruher,2,0,1.0
+1989-1990,11,1989-09-30,Werder Bremen,Eint Frankfurt,1,2,0.0
+1989-1990,11,1989-09-30,Nürnberg,Mannheim,2,0,1.0
+1989-1990,11,1989-09-30,Dortmund,Hamburger SV,1,0,1.0
+1989-1990,11,1989-09-30,Bayern Munich,Uerdingen,3,0,1.0
+1989-1990,11,1989-09-30,Leverkusen,Stuttgart,1,1,0.5
+1989-1990,11,1989-09-30,Gladbach,Köln,0,2,0.0
+1989-1990,11,1989-09-30,Düsseldorf,Kaiserslautern,1,1,0.5
+1989-1990,12,1989-10-07,Kaiserslautern,Bayern Munich,0,0,0.5
+1989-1990,12,1989-10-07,Mannheim,Gladbach,4,2,1.0
+1989-1990,12,1989-10-07,Stuttgart,St Pauli,4,0,1.0
+1989-1990,12,1989-10-07,Bochum,Werder Bremen,0,0,0.5
+1989-1990,12,1989-10-07,Köln,Homburg,1,0,1.0
+1989-1990,12,1989-10-07,Karlsruher,Düsseldorf,2,2,0.5
+1989-1990,12,1989-10-07,Hamburger SV,Nürnberg,1,0,1.0
+1989-1990,12,1989-10-07,Uerdingen,Leverkusen,0,2,0.0
+1989-1990,12,1989-10-07,Eint Frankfurt,Dortmund,0,2,0.0
+1989-1990,13,1989-10-13,Dortmund,Bochum,0,1,0.0
+1989-1990,13,1989-10-13,Gladbach,Hamburger SV,1,3,0.0
+1989-1990,13,1989-10-13,Werder Bremen,Stuttgart,6,1,1.0
+1989-1990,13,1989-10-14,Nürnberg,Eint Frankfurt,1,1,0.5
+1989-1990,13,1989-10-14,Karlsruher,Köln,0,0,0.5
+1989-1990,13,1989-10-14,Leverkusen,Kaiserslautern,1,1,0.5
+1989-1990,13,1989-10-14,Homburg,Mannheim,2,1,1.0
+1989-1990,13,1989-10-14,St Pauli,Uerdingen,1,1,0.5
+1989-1990,13,1989-10-14,Düsseldorf,Bayern Munich,1,2,0.0
+1989-1990,14,1989-10-20,Kaiserslautern,St Pauli,1,1,0.5
+1989-1990,14,1989-10-21,Köln,Düsseldorf,1,3,0.0
+1989-1990,14,1989-10-21,Uerdingen,Werder Bremen,0,1,0.0
+1989-1990,14,1989-10-21,Hamburger SV,Homburg,2,0,1.0
+1989-1990,14,1989-10-21,Bayern Munich,Leverkusen,0,1,0.0
+1989-1990,14,1989-10-21,Stuttgart,Dortmund,3,1,1.0
+1989-1990,14,1989-10-21,Mannheim,Karlsruher,0,1,0.0
+1989-1990,14,1989-10-21,Bochum,Nürnberg,3,3,0.5
+1989-1990,14,1989-10-21,Eint Frankfurt,Gladbach,3,0,1.0
+1989-1990,15,1989-10-27,St Pauli,Bayern Munich,0,2,0.0
+1989-1990,15,1989-10-27,Werder Bremen,Kaiserslautern,4,0,1.0
+1989-1990,15,1989-10-28,Gladbach,Bochum,1,2,0.0
+1989-1990,15,1989-10-28,Leverkusen,Düsseldorf,3,3,0.5
+1989-1990,15,1989-10-28,Dortmund,Uerdingen,1,0,1.0
+1989-1990,15,1989-10-28,Mannheim,Köln,2,3,0.0
+1989-1990,15,1989-10-28,Homburg,Eint Frankfurt,2,3,0.0
+1989-1990,15,1989-10-28,Karlsruher,Hamburger SV,2,0,1.0
+1989-1990,15,1989-10-28,Nürnberg,Stuttgart,0,2,0.0
+1989-1990,16,1989-11-03,Düsseldorf,Mannheim,0,0,0.5
+1989-1990,16,1989-11-03,Bochum,Homburg,1,0,1.0
+1989-1990,16,1989-11-03,Leverkusen,St Pauli,1,1,0.5
+1989-1990,16,1989-11-04,Eint Frankfurt,Karlsruher,1,1,0.5
+1989-1990,16,1989-11-04,Kaiserslautern,Dortmund,2,2,0.5
+1989-1990,16,1989-11-04,Bayern Munich,Werder Bremen,1,1,0.5
+1989-1990,16,1989-11-04,Uerdingen,Nürnberg,3,3,0.5
+1989-1990,16,1989-11-04,Hamburger SV,Köln,0,2,0.0
+1989-1990,16,1989-11-04,Stuttgart,Gladbach,4,0,1.0
+1989-1990,17,1989-11-17,St Pauli,Düsseldorf,1,0,1.0
+1989-1990,17,1989-11-17,Nürnberg,Kaiserslautern,0,0,0.5
+1989-1990,17,1989-11-18,Dortmund,Bayern Munich,2,2,0.5
+1989-1990,17,1989-11-18,Homburg,Stuttgart,4,2,1.0
+1989-1990,17,1989-11-18,Werder Bremen,Leverkusen,0,0,0.5
+1989-1990,17,1989-11-18,Gladbach,Uerdingen,0,1,0.0
+1989-1990,17,1989-11-18,Mannheim,Hamburger SV,4,1,1.0
+1989-1990,17,1989-11-18,Karlsruher,Bochum,2,0,1.0
+1989-1990,17,1989-11-18,Köln,Eint Frankfurt,3,5,0.0
+1989-1990,18,1989-11-23,Dortmund,Leverkusen,1,1,0.5
+1989-1990,18,1989-11-25,Homburg,Uerdingen,1,2,0.0
+1989-1990,18,1989-11-25,Gladbach,Kaiserslautern,3,1,1.0
+1989-1990,18,1989-11-25,Werder Bremen,St Pauli,2,1,1.0
+1989-1990,18,1989-11-25,Nürnberg,Bayern Munich,4,0,1.0
+1989-1990,18,1989-11-25,Köln,Bochum,2,0,1.0
+1989-1990,18,1989-11-25,Mannheim,Eint Frankfurt,1,1,0.5
+1989-1990,18,1989-11-25,Karlsruher,Stuttgart,1,0,1.0
+1989-1990,18,1989-11-25,Hamburger SV,Düsseldorf,1,0,1.0
+1989-1990,19,1989-11-30,St Pauli,Dortmund,2,1,1.0
+1989-1990,19,1989-12-01,Leverkusen,Nürnberg,2,0,1.0
+1989-1990,19,1989-12-01,Bochum,Mannheim,2,0,1.0
+1989-1990,19,1989-12-02,Stuttgart,Köln,3,1,1.0
+1989-1990,19,1989-12-02,Eint Frankfurt,Hamburger SV,2,0,1.0
+1989-1990,19,1989-12-02,Uerdingen,Karlsruher,1,0,1.0
+1989-1990,19,1989-12-02,Bayern Munich,Gladbach,2,0,1.0
+1989-1990,19,1989-12-02,Düsseldorf,Werder Bremen,2,1,1.0
+1989-1990,19,1989-12-02,Kaiserslautern,Homburg,3,1,1.0
+1989-1990,20,1989-12-08,Gladbach,Leverkusen,1,1,0.5
+1989-1990,20,1989-12-09,Köln,Uerdingen,0,1,0.0
+1989-1990,20,1989-12-09,Nürnberg,St Pauli,0,1,0.0
+1989-1990,20,1989-12-09,Eint Frankfurt,Düsseldorf,2,0,1.0
+1989-1990,20,1989-12-09,Dortmund,Werder Bremen,4,1,1.0
+1989-1990,20,1989-12-09,Mannheim,Stuttgart,2,1,1.0
+1989-1990,20,1989-12-09,Hamburger SV,Bochum,1,4,0.0
+1989-1990,20,1989-12-09,Karlsruher,Kaiserslautern,0,0,0.5
+1989-1990,20,1989-12-09,Homburg,Bayern Munich,1,3,0.0
+1989-1990,21,1989-12-14,Bochum,Eint Frankfurt,2,2,0.5
+1989-1990,21,1989-12-15,Düsseldorf,Dortmund,1,1,0.5
+1989-1990,21,1989-12-16,Werder Bremen,Nürnberg,4,0,1.0
+1989-1990,21,1989-12-16,Bayern Munich,Karlsruher,4,1,1.0
+1989-1990,21,1989-12-16,Uerdingen,Mannheim,0,2,0.0
+1989-1990,21,1989-12-16,St Pauli,Gladbach,2,1,1.0
+1989-1990,21,1989-12-16,Stuttgart,Hamburger SV,3,0,1.0
+1989-1990,21,1989-12-16,Kaiserslautern,Köln,1,2,0.0
+1989-1990,21,1990-02-17,Leverkusen,Homburg,3,1,1.0
+1989-1990,22,1990-02-23,Köln,Bayern Munich,1,1,0.5
+1989-1990,22,1990-02-23,Homburg,St Pauli,0,2,0.0
+1989-1990,22,1990-02-24,Bochum,Düsseldorf,1,2,0.0
+1989-1990,22,1990-02-24,Mannheim,Kaiserslautern,4,0,1.0
+1989-1990,22,1990-02-24,Karlsruher,Leverkusen,2,1,1.0
+1989-1990,22,1990-02-24,Eint Frankfurt,Stuttgart,5,1,1.0
+1989-1990,22,1990-02-24,Hamburger SV,Uerdingen,6,0,1.0
+1989-1990,22,1990-02-24,Gladbach,Werder Bremen,4,0,1.0
+1989-1990,23,1990-03-02,Werder Bremen,Homburg,0,0,0.5
+1989-1990,23,1990-03-02,St Pauli,Karlsruher,1,1,0.5
+1989-1990,23,1990-03-03,Uerdingen,Eint Frankfurt,1,1,0.5
+1989-1990,23,1990-03-03,Stuttgart,Bochum,1,0,1.0
+1989-1990,23,1990-03-03,Leverkusen,Köln,0,2,0.0
+1989-1990,23,1990-03-03,Düsseldorf,Nürnberg,0,0,0.5
+1989-1990,23,1990-03-03,Dortmund,Gladbach,3,0,1.0
+1989-1990,23,1990-03-03,Bayern Munich,Mannheim,2,0,1.0
+1989-1990,23,1990-03-03,Kaiserslautern,Hamburger SV,1,3,0.0
+1989-1990,24,1990-03-09,Homburg,Dortmund,3,3,0.5
+1989-1990,24,1990-03-09,Gladbach,Nürnberg,3,0,1.0
+1989-1990,24,1990-03-10,Hamburger SV,Bayern Munich,0,3,0.0
+1989-1990,24,1990-03-10,Stuttgart,Düsseldorf,4,0,1.0
+1989-1990,24,1990-03-10,Karlsruher,Werder Bremen,2,1,1.0
+1989-1990,24,1990-03-10,Mannheim,Leverkusen,1,1,0.5
+1989-1990,24,1990-03-10,Bochum,Uerdingen,2,1,1.0
+1989-1990,24,1990-03-10,Köln,St Pauli,1,0,1.0
+1989-1990,24,1990-03-10,Eint Frankfurt,Kaiserslautern,1,1,0.5
+1989-1990,25,1990-03-15,St Pauli,Mannheim,2,1,1.0
+1989-1990,25,1990-03-16,Werder Bremen,Köln,4,0,1.0
+1989-1990,25,1990-03-17,Nürnberg,Homburg,2,0,1.0
+1989-1990,25,1990-03-17,Düsseldorf,Gladbach,0,1,0.0
+1989-1990,25,1990-03-17,Kaiserslautern,Bochum,2,1,1.0
+1989-1990,25,1990-03-17,Dortmund,Karlsruher,2,0,1.0
+1989-1990,25,1990-03-17,Bayern Munich,Eint Frankfurt,1,0,1.0
+1989-1990,25,1990-03-17,Uerdingen,Stuttgart,4,1,1.0
+1989-1990,25,1990-03-17,Leverkusen,Hamburger SV,1,0,1.0
+1989-1990,26,1990-03-23,Eint Frankfurt,Leverkusen,0,3,0.0
+1989-1990,26,1990-03-23,Homburg,Gladbach,1,3,0.0
+1989-1990,26,1990-03-24,Karlsruher,Nürnberg,0,0,0.5
+1989-1990,26,1990-03-24,Mannheim,Werder Bremen,0,0,0.5
+1989-1990,26,1990-03-24,Bochum,Bayern Munich,0,0,0.5
+1989-1990,26,1990-03-24,Köln,Dortmund,1,1,0.5
+1989-1990,26,1990-03-24,Uerdingen,Düsseldorf,0,1,0.0
+1989-1990,26,1990-03-24,Stuttgart,Kaiserslautern,0,1,0.0
+1989-1990,26,1990-03-24,Hamburger SV,St Pauli,0,0,0.5
+1989-1990,27,1990-03-30,Dortmund,Mannheim,2,0,1.0
+1989-1990,27,1990-03-30,Düsseldorf,Homburg,1,0,1.0
+1989-1990,27,1990-03-31,Gladbach,Karlsruher,0,0,0.5
+1989-1990,27,1990-03-31,St Pauli,Eint Frankfurt,2,2,0.5
+1989-1990,27,1990-03-31,Bayern Munich,Stuttgart,3,1,1.0
+1989-1990,27,1990-03-31,Kaiserslautern,Uerdingen,2,1,1.0
+1989-1990,27,1990-03-31,Nürnberg,Köln,1,1,0.5
+1989-1990,27,1990-03-31,Werder Bremen,Hamburger SV,2,1,1.0
+1989-1990,27,1990-03-31,Leverkusen,Bochum,2,1,1.0
+1989-1990,28,1990-04-06,Bochum,St Pauli,3,3,0.5
+1989-1990,28,1990-04-06,Kaiserslautern,Düsseldorf,1,0,1.0
+1989-1990,28,1990-04-07,Eint Frankfurt,Werder Bremen,1,0,1.0
+1989-1990,28,1990-04-07,Karlsruher,Homburg,0,2,0.0
+1989-1990,28,1990-04-07,Köln,Gladbach,3,0,1.0
+1989-1990,28,1990-04-07,Stuttgart,Leverkusen,0,0,0.5
+1989-1990,28,1990-04-07,Uerdingen,Bayern Munich,2,2,0.5
+1989-1990,28,1990-04-07,Mannheim,Nürnberg,1,1,0.5
+1989-1990,28,1990-04-07,Hamburger SV,Dortmund,1,1,0.5
+1989-1990,29,1990-04-11,Dortmund,Eint Frankfurt,0,0,0.5
+1989-1990,29,1990-04-12,Homburg,Köln,0,1,0.0
+1989-1990,29,1990-04-12,Werder Bremen,Bochum,1,1,0.5
+1989-1990,29,1990-04-12,Gladbach,Mannheim,2,0,1.0
+1989-1990,29,1990-04-12,St Pauli,Stuttgart,0,0,0.5
+1989-1990,29,1990-04-12,Nürnberg,Hamburger SV,2,0,1.0
+1989-1990,29,1990-04-12,Düsseldorf,Karlsruher,0,0,0.5
+1989-1990,29,1990-04-12,Leverkusen,Uerdingen,1,1,0.5
+1989-1990,29,1990-04-12,Bayern Munich,Kaiserslautern,3,0,1.0
+1989-1990,22,1990-04-16,Nürnberg,Dortmund,1,3,0.0
+1989-1990,30,1990-04-20,Uerdingen,St Pauli,1,0,1.0
+1989-1990,30,1990-04-20,Kaiserslautern,Leverkusen,2,0,1.0
+1989-1990,30,1990-04-21,Stuttgart,Werder Bremen,3,1,1.0
+1989-1990,30,1990-04-21,Eint Frankfurt,Nürnberg,5,1,1.0
+1989-1990,30,1990-04-21,Bochum,Dortmund,2,3,0.0
+1989-1990,30,1990-04-21,Köln,Karlsruher,0,5,0.0
+1989-1990,30,1990-04-21,Bayern Munich,Düsseldorf,0,0,0.5
+1989-1990,30,1990-04-21,Hamburger SV,Gladbach,3,0,1.0
+1989-1990,30,1990-04-21,Mannheim,Homburg,1,2,0.0
+1989-1990,31,1990-04-27,St Pauli,Kaiserslautern,0,2,0.0
+1989-1990,31,1990-04-27,Homburg,Hamburger SV,0,1,0.0
+1989-1990,31,1990-04-28,Gladbach,Eint Frankfurt,2,1,1.0
+1989-1990,31,1990-04-28,Werder Bremen,Uerdingen,0,0,0.5
+1989-1990,31,1990-04-28,Nürnberg,Bochum,2,1,1.0
+1989-1990,31,1990-04-28,Karlsruher,Mannheim,4,0,1.0
+1989-1990,31,1990-04-28,Düsseldorf,Köln,1,1,0.5
+1989-1990,31,1990-04-28,Dortmund,Stuttgart,2,0,1.0
+1989-1990,31,1990-04-28,Leverkusen,Bayern Munich,0,0,0.5
+1989-1990,32,1990-05-01,Stuttgart,Nürnberg,4,0,1.0
+1989-1990,32,1990-05-01,Köln,Mannheim,6,0,1.0
+1989-1990,32,1990-05-01,Kaiserslautern,Werder Bremen,2,2,0.5
+1989-1990,32,1990-05-01,Bochum,Gladbach,2,1,1.0
+1989-1990,32,1990-05-01,Eint Frankfurt,Homburg,1,1,0.5
+1989-1990,32,1990-05-02,Uerdingen,Dortmund,1,3,0.0
+1989-1990,32,1990-05-02,Bayern Munich,St Pauli,1,0,1.0
+1989-1990,32,1990-05-02,Düsseldorf,Leverkusen,2,0,1.0
+1989-1990,32,1990-05-02,Hamburger SV,Karlsruher,1,0,1.0
+1989-1990,33,1990-05-05,Homburg,Bochum,1,0,1.0
+1989-1990,33,1990-05-05,Werder Bremen,Bayern Munich,2,2,0.5
+1989-1990,33,1990-05-05,Karlsruher,Eint Frankfurt,1,0,1.0
+1989-1990,33,1990-05-05,Köln,Hamburger SV,2,0,1.0
+1989-1990,33,1990-05-05,Dortmund,Kaiserslautern,1,1,0.5
+1989-1990,33,1990-05-05,Gladbach,Stuttgart,3,1,1.0
+1989-1990,33,1990-05-05,St Pauli,Leverkusen,3,0,1.0
+1989-1990,33,1990-05-05,Nürnberg,Uerdingen,1,1,0.5
+1989-1990,33,1990-05-05,Mannheim,Düsseldorf,0,1,0.0
+1989-1990,34,1990-05-12,Eint Frankfurt,Köln,3,1,1.0
+1989-1990,34,1990-05-12,Hamburger SV,Mannheim,1,0,1.0
+1989-1990,34,1990-05-12,Leverkusen,Werder Bremen,1,3,0.0
+1989-1990,34,1990-05-12,Bochum,Karlsruher,2,0,1.0
+1989-1990,34,1990-05-12,Bayern Munich,Dortmund,3,0,1.0
+1989-1990,34,1990-05-12,Düsseldorf,St Pauli,7,0,1.0
+1989-1990,34,1990-05-12,Uerdingen,Gladbach,0,0,0.5
+1989-1990,34,1990-05-12,Kaiserslautern,Nürnberg,0,2,0.0
+1989-1990,34,1990-05-12,Stuttgart,Homburg,2,2,0.5

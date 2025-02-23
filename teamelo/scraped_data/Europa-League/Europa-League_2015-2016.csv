@@ -1,0 +1,206 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2015-2016,Group stage,1,2015-09-17,Bordeaux,Liverpool,fr,eng,1,1,0.5
+2015-2016,Group stage,1,2015-09-17,Ajax,Celtic,nl,sct,2,2,0.5
+2015-2016,Group stage,1,2015-09-17,Rapid Wien,Villarreal,at,es,2,1,1.0
+2015-2016,Group stage,1,2015-09-17,Sion,Rubin Kazan,ch,ru,2,1,1.0
+2015-2016,Group stage,1,2015-09-17,Napoli,Club Brugge,it,be,5,0,1.0
+2015-2016,Group stage,1,2015-09-17,Groningen,Marseille,nl,fr,0,3,0.0
+2015-2016,Group stage,1,2015-09-17,Viktoria Plzeň,Dinamo Minsk,cz,by,2,0,1.0
+2015-2016,Group stage,1,2015-09-17,Slovan Liberec,Braga,cz,pt,0,1,0.0
+2015-2016,Group stage,1,2015-09-17,Midtjylland,Legia Warsaw,dk,pl,1,0,1.0
+2015-2016,Group stage,1,2015-09-17,Dortmund,Krasnodar,de,ru,2,1,1.0
+2015-2016,Group stage,1,2015-09-17,Fenerbahçe,Molde,tr,no,1,3,0.0
+2015-2016,Group stage,1,2015-09-17,Sporting CP,Loko Moscow,pt,ru,1,3,0.0
+2015-2016,Group stage,1,2015-09-17,Tottenham,Qarabağ,eng,az,3,1,1.0
+2015-2016,Group stage,1,2015-09-17,Saint-Étienne,Rosenborg,fr,no,2,2,0.5
+2015-2016,Group stage,1,2015-09-17,Athletic Club,Augsburg,es,de,3,1,1.0
+2015-2016,Group stage,1,2015-09-17,Skënderbeu Korçë,Beşiktaş,al,tr,0,1,0.0
+2015-2016,Group stage,1,2015-09-17,Lech Poznań,Belenenses,pl,pt,0,0,0.5
+2015-2016,Group stage,1,2015-09-17,Partizan,AZ Alkmaar,rs,nl,3,2,1.0
+2015-2016,Group stage,1,2015-09-17,Fiorentina,Basel,it,ch,1,2,0.0
+2015-2016,Group stage,1,2015-09-17,Anderlecht,Monaco,be,fr,1,1,0.5
+2015-2016,Group stage,1,2015-09-17,Qabala,PAOK,az,gr,0,0,0.5
+2015-2016,Group stage,1,2015-09-17,Dnipro,Lazio,ua,it,1,1,0.5
+2015-2016,Group stage,1,2015-09-17,APOEL FC,Schalke 04,cy,de,0,3,0.0
+2015-2016,Group stage,1,2015-09-17,Asteras Tripoli,Sparta Prague,gr,cz,1,1,0.5
+2015-2016,Group stage,2,2015-10-01,Belenenses,Fiorentina,pt,it,0,4,0.0
+2015-2016,Group stage,2,2015-10-01,Sparta Prague,APOEL FC,cz,cy,2,0,1.0
+2015-2016,Group stage,2,2015-10-01,AZ Alkmaar,Athletic Club,nl,es,2,1,1.0
+2015-2016,Group stage,2,2015-10-01,Schalke 04,Asteras Tripoli,de,gr,4,0,1.0
+2015-2016,Group stage,2,2015-10-01,Monaco,Tottenham,fr,eng,1,1,0.5
+2015-2016,Group stage,2,2015-10-01,Basel,Lech Poznań,ch,pl,2,0,1.0
+2015-2016,Group stage,2,2015-10-01,Augsburg,Partizan,de,rs,1,3,0.0
+2015-2016,Group stage,2,2015-10-01,Lazio,Saint-Étienne,it,fr,3,2,1.0
+2015-2016,Group stage,2,2015-10-01,Rosenborg,Dnipro,no,ua,0,1,0.0
+2015-2016,Group stage,2,2015-10-01,Beşiktaş,Sporting CP,tr,pt,1,1,0.5
+2015-2016,Group stage,2,2015-10-01,Loko Moscow,Skënderbeu Korçë,ru,al,2,0,1.0
+2015-2016,Group stage,2,2015-10-01,Celtic,Fenerbahçe,sct,tr,2,2,0.5
+2015-2016,Group stage,2,2015-10-01,Braga,Groningen,pt,nl,1,0,1.0
+2015-2016,Group stage,2,2015-10-01,Liverpool,Sion,eng,ch,1,1,0.5
+2015-2016,Group stage,2,2015-10-01,Club Brugge,Midtjylland,be,dk,1,3,0.0
+2015-2016,Group stage,2,2015-10-01,Legia Warsaw,Napoli,pl,it,0,2,0.0
+2015-2016,Group stage,2,2015-10-01,Molde,Ajax,no,nl,1,1,0.5
+2015-2016,Group stage,2,2015-10-01,Marseille,Slovan Liberec,fr,cz,0,1,0.0
+2015-2016,Group stage,2,2015-10-01,Villarreal,Viktoria Plzeň,es,cz,1,0,1.0
+2015-2016,Group stage,2,2015-10-01,Qarabağ,Anderlecht,az,be,1,0,1.0
+2015-2016,Group stage,2,2015-10-01,Dinamo Minsk,Rapid Wien,by,at,0,1,0.0
+2015-2016,Group stage,2,2015-10-01,Rubin Kazan,Bordeaux,ru,fr,0,0,0.5
+2015-2016,Group stage,2,2015-10-01,PAOK,Dortmund,gr,de,1,1,0.5
+2015-2016,Group stage,2,2015-10-01,Krasnodar,Qabala,ru,az,2,1,1.0
+2015-2016,Group stage,3,2015-10-22,Sporting CP,Skënderbeu Korçë,pt,al,5,1,1.0
+2015-2016,Group stage,3,2015-10-22,Basel,Belenenses,ch,pt,1,2,0.0
+2015-2016,Group stage,3,2015-10-22,Schalke 04,Sparta Prague,de,cz,2,2,0.5
+2015-2016,Group stage,3,2015-10-22,Lazio,Rosenborg,it,no,3,1,1.0
+2015-2016,Group stage,3,2015-10-22,Monaco,Qarabağ,fr,az,1,0,1.0
+2015-2016,Group stage,3,2015-10-22,Anderlecht,Tottenham,be,eng,2,1,1.0
+2015-2016,Group stage,3,2015-10-22,Partizan,Athletic Club,rs,es,0,2,0.0
+2015-2016,Group stage,3,2015-10-22,AZ Alkmaar,Augsburg,nl,de,0,1,0.0
+2015-2016,Group stage,3,2015-10-22,Fiorentina,Lech Poznań,it,pl,1,2,0.0
+2015-2016,Group stage,3,2015-10-22,Loko Moscow,Beşiktaş,ru,tr,1,1,0.5
+2015-2016,Group stage,3,2015-10-22,APOEL FC,Asteras Tripoli,cy,gr,2,1,1.0
+2015-2016,Group stage,3,2015-10-22,Dnipro,Saint-Étienne,ua,fr,0,1,0.0
+2015-2016,Group stage,3,2015-10-22,Qabala,Dortmund,az,de,1,3,0.0
+2015-2016,Group stage,3,2015-10-22,Liverpool,Rubin Kazan,eng,ru,1,1,0.5
+2015-2016,Group stage,3,2015-10-22,Braga,Marseille,pt,fr,3,2,1.0
+2015-2016,Group stage,3,2015-10-22,Slovan Liberec,Groningen,cz,nl,1,1,0.5
+2015-2016,Group stage,3,2015-10-22,Bordeaux,Sion,fr,ch,0,1,0.0
+2015-2016,Group stage,3,2015-10-22,Midtjylland,Napoli,dk,it,1,4,0.0
+2015-2016,Group stage,3,2015-10-22,Molde,Celtic,no,sct,3,1,1.0
+2015-2016,Group stage,3,2015-10-22,Rapid Wien,Viktoria Plzeň,at,cz,3,2,1.0
+2015-2016,Group stage,3,2015-10-22,Villarreal,Dinamo Minsk,es,by,4,0,1.0
+2015-2016,Group stage,3,2015-10-22,Legia Warsaw,Club Brugge,pl,be,1,1,0.5
+2015-2016,Group stage,3,2015-10-22,Fenerbahçe,Ajax,tr,nl,1,0,1.0
+2015-2016,Group stage,3,2015-10-22,PAOK,Krasnodar,gr,ru,0,0,0.5
+2015-2016,Group stage,4,2015-11-05,Celtic,Molde,sct,no,1,2,0.0
+2015-2016,Group stage,4,2015-11-05,Beşiktaş,Loko Moscow,tr,ru,1,1,0.5
+2015-2016,Group stage,4,2015-11-05,Club Brugge,Legia Warsaw,be,pl,1,0,1.0
+2015-2016,Group stage,4,2015-11-05,Napoli,Midtjylland,it,dk,5,0,1.0
+2015-2016,Group stage,4,2015-11-05,Viktoria Plzeň,Rapid Wien,cz,at,1,2,0.0
+2015-2016,Group stage,4,2015-11-05,Groningen,Slovan Liberec,nl,cz,0,1,0.0
+2015-2016,Group stage,4,2015-11-05,Dortmund,Qabala,de,az,4,0,1.0
+2015-2016,Group stage,4,2015-11-05,Marseille,Braga,fr,pt,1,0,1.0
+2015-2016,Group stage,4,2015-11-05,Sion,Bordeaux,ch,fr,1,1,0.5
+2015-2016,Group stage,4,2015-11-05,Ajax,Fenerbahçe,nl,tr,0,0,0.5
+2015-2016,Group stage,4,2015-11-05,Qarabağ,Monaco,az,fr,1,1,0.5
+2015-2016,Group stage,4,2015-11-05,Tottenham,Anderlecht,eng,be,2,1,1.0
+2015-2016,Group stage,4,2015-11-05,Belenenses,Basel,pt,ch,0,2,0.0
+2015-2016,Group stage,4,2015-11-05,Dinamo Minsk,Villarreal,by,es,1,2,0.0
+2015-2016,Group stage,4,2015-11-05,Krasnodar,PAOK,ru,gr,2,1,1.0
+2015-2016,Group stage,4,2015-11-05,Rubin Kazan,Liverpool,ru,eng,0,1,0.0
+2015-2016,Group stage,4,2015-11-05,Rosenborg,Lazio,no,it,0,2,0.0
+2015-2016,Group stage,4,2015-11-05,Athletic Club,Partizan,es,rs,5,1,1.0
+2015-2016,Group stage,4,2015-11-05,Saint-Étienne,Dnipro,fr,ua,3,0,1.0
+2015-2016,Group stage,4,2015-11-05,Augsburg,AZ Alkmaar,de,nl,4,1,1.0
+2015-2016,Group stage,4,2015-11-05,Skënderbeu Korçë,Sporting CP,al,pt,3,0,1.0
+2015-2016,Group stage,4,2015-11-05,Lech Poznań,Fiorentina,pl,it,0,2,0.0
+2015-2016,Group stage,4,2015-11-05,Sparta Prague,Schalke 04,cz,de,1,1,0.5
+2015-2016,Group stage,4,2015-11-05,Asteras Tripoli,APOEL FC,gr,cy,2,0,1.0
+2015-2016,Group stage,5,2015-11-26,Belenenses,Lech Poznań,pt,pl,0,0,0.5
+2015-2016,Group stage,5,2015-11-26,Rubin Kazan,Sion,ru,ch,2,0,1.0
+2015-2016,Group stage,5,2015-11-26,Schalke 04,APOEL FC,de,cy,1,0,1.0
+2015-2016,Group stage,5,2015-11-26,Monaco,Anderlecht,fr,be,0,2,0.0
+2015-2016,Group stage,5,2015-11-26,AZ Alkmaar,Partizan,nl,rs,1,2,0.0
+2015-2016,Group stage,5,2015-11-26,Sparta Prague,Asteras Tripoli,cz,gr,1,0,1.0
+2015-2016,Group stage,5,2015-11-26,Augsburg,Athletic Club,de,es,2,3,0.0
+2015-2016,Group stage,5,2015-11-26,Dinamo Minsk,Viktoria Plzeň,by,cz,1,0,1.0
+2015-2016,Group stage,5,2015-11-26,Basel,Fiorentina,ch,it,2,2,0.5
+2015-2016,Group stage,5,2015-11-26,Krasnodar,Dortmund,ru,de,1,0,1.0
+2015-2016,Group stage,5,2015-11-26,Lazio,Dnipro,it,ua,3,1,1.0
+2015-2016,Group stage,5,2015-11-26,Rosenborg,Saint-Étienne,no,fr,1,1,0.5
+2015-2016,Group stage,5,2015-11-26,Beşiktaş,Skënderbeu Korçë,tr,al,2,0,1.0
+2015-2016,Group stage,5,2015-11-26,Liverpool,Bordeaux,eng,fr,2,1,1.0
+2015-2016,Group stage,5,2015-11-26,Braga,Slovan Liberec,pt,cz,2,1,1.0
+2015-2016,Group stage,5,2015-11-26,Celtic,Ajax,sct,nl,1,2,0.0
+2015-2016,Group stage,5,2015-11-26,Loko Moscow,Sporting CP,ru,pt,2,4,0.0
+2015-2016,Group stage,5,2015-11-26,Legia Warsaw,Midtjylland,pl,dk,1,0,1.0
+2015-2016,Group stage,5,2015-11-26,Marseille,Groningen,fr,nl,2,1,1.0
+2015-2016,Group stage,5,2015-11-26,Club Brugge,Napoli,be,it,0,1,0.0
+2015-2016,Group stage,5,2015-11-26,Villarreal,Rapid Wien,es,at,1,0,1.0
+2015-2016,Group stage,5,2015-11-26,Molde,Fenerbahçe,no,tr,0,2,0.0
+2015-2016,Group stage,5,2015-11-26,Qarabağ,Tottenham,az,eng,0,1,0.0
+2015-2016,Group stage,5,2015-11-26,PAOK,Qabala,gr,az,0,0,0.5
+2015-2016,Group stage,6,2015-12-10,Napoli,Legia Warsaw,it,pl,5,2,1.0
+2015-2016,Group stage,6,2015-12-10,Ajax,Molde,nl,no,1,1,0.5
+2015-2016,Group stage,6,2015-12-10,Rapid Wien,Dinamo Minsk,at,by,2,1,1.0
+2015-2016,Group stage,6,2015-12-10,Midtjylland,Club Brugge,dk,be,1,1,0.5
+2015-2016,Group stage,6,2015-12-10,Viktoria Plzeň,Villarreal,cz,es,3,3,0.5
+2015-2016,Group stage,6,2015-12-10,Bordeaux,Rubin Kazan,fr,ru,2,2,0.5
+2015-2016,Group stage,6,2015-12-10,Slovan Liberec,Marseille,cz,fr,2,4,0.0
+2015-2016,Group stage,6,2015-12-10,Sion,Liverpool,ch,eng,0,0,0.5
+2015-2016,Group stage,6,2015-12-10,Groningen,Braga,nl,pt,0,0,0.5
+2015-2016,Group stage,6,2015-12-10,Dortmund,PAOK,de,gr,0,1,0.0
+2015-2016,Group stage,6,2015-12-10,Fenerbahçe,Celtic,tr,sct,1,1,0.5
+2015-2016,Group stage,6,2015-12-10,Sporting CP,Beşiktaş,pt,tr,3,1,1.0
+2015-2016,Group stage,6,2015-12-10,Tottenham,Monaco,eng,fr,4,1,1.0
+2015-2016,Group stage,6,2015-12-10,Athletic Club,AZ Alkmaar,es,nl,2,2,0.5
+2015-2016,Group stage,6,2015-12-10,Anderlecht,Qarabağ,be,az,2,1,1.0
+2015-2016,Group stage,6,2015-12-10,Lech Poznań,Basel,pl,ch,0,1,0.0
+2015-2016,Group stage,6,2015-12-10,Skënderbeu Korçë,Loko Moscow,al,ru,0,3,0.0
+2015-2016,Group stage,6,2015-12-10,Saint-Étienne,Lazio,fr,it,1,1,0.5
+2015-2016,Group stage,6,2015-12-10,Fiorentina,Belenenses,it,pt,1,0,1.0
+2015-2016,Group stage,6,2015-12-10,Partizan,Augsburg,rs,de,1,3,0.0
+2015-2016,Group stage,6,2015-12-10,Qabala,Krasnodar,az,ru,0,3,0.0
+2015-2016,Group stage,6,2015-12-10,Dnipro,Rosenborg,ua,no,3,0,1.0
+2015-2016,Group stage,6,2015-12-10,Asteras Tripoli,Schalke 04,gr,de,0,4,0.0
+2015-2016,Group stage,6,2015-12-10,APOEL FC,Sparta Prague,cy,cz,1,3,0.0
+2015-2016,Round of 32,,2016-02-16,Fenerbahçe,Loko Moscow,tr,ru,2,0,1.0
+2015-2016,Round of 32,,2016-02-18,Dortmund,Porto,de,pt,2,0,1.0
+2015-2016,Round of 32,,2016-02-18,Anderlecht,Olympiacos,be,gr,1,0,1.0
+2015-2016,Round of 32,,2016-02-18,Fiorentina,Tottenham,it,eng,1,1,0.5
+2015-2016,Round of 32,,2016-02-18,Midtjylland,Manchester Utd,dk,eng,2,1,1.0
+2015-2016,Round of 32,,2016-02-18,Saint-Étienne,Basel,fr,ch,3,2,1.0
+2015-2016,Round of 32,,2016-02-18,Sevilla,Molde,es,no,3,0,1.0
+2015-2016,Round of 32,,2016-02-18,Villarreal,Napoli,es,it,1,0,1.0
+2015-2016,Round of 32,,2016-02-18,Sporting CP,Leverkusen,pt,de,0,1,0.0
+2015-2016,Round of 32,,2016-02-18,Marseille,Athletic Club,fr,es,0,1,0.0
+2015-2016,Round of 32,,2016-02-18,Valencia,Rapid Wien,es,at,6,0,1.0
+2015-2016,Round of 32,,2016-02-18,Augsburg,Liverpool,de,eng,0,0,0.5
+2015-2016,Round of 32,,2016-02-18,Sion,Braga,ch,pt,1,2,0.0
+2015-2016,Round of 32,,2016-02-18,Sparta Prague,Krasnodar,cz,ru,1,0,1.0
+2015-2016,Round of 32,,2016-02-18,Galatasaray,Lazio,tr,it,1,1,0.5
+2015-2016,Round of 32,,2016-02-18,Shakhtar,Schalke 04,ua,de,0,0,0.5
+2015-2016,Round of 32,,2016-02-24,Braga,Sion,pt,ch,2,2,0.5
+2015-2016,Round of 32,,2016-02-25,Liverpool,Augsburg,eng,de,1,0,1.0
+2015-2016,Round of 32,,2016-02-25,Lazio,Galatasaray,it,tr,3,1,1.0
+2015-2016,Round of 32,,2016-02-25,Athletic Club,Marseille,es,fr,1,1,0.5
+2015-2016,Round of 32,,2016-02-25,Leverkusen,Sporting CP,de,pt,3,1,1.0
+2015-2016,Round of 32,,2016-02-25,Schalke 04,Shakhtar,de,ua,0,3,0.0
+2015-2016,Round of 32,,2016-02-25,Loko Moscow,Fenerbahçe,ru,tr,1,1,0.5
+2015-2016,Round of 32,,2016-02-25,Rapid Wien,Valencia,at,es,0,4,0.0
+2015-2016,Round of 32,,2016-02-25,Manchester Utd,Midtjylland,eng,dk,5,1,1.0
+2015-2016,Round of 32,,2016-02-25,Porto,Dortmund,pt,de,0,1,0.0
+2015-2016,Round of 32,,2016-02-25,Tottenham,Fiorentina,eng,it,3,0,1.0
+2015-2016,Round of 32,,2016-02-25,Krasnodar,Sparta Prague,ru,cz,0,3,0.0
+2015-2016,Round of 32,,2016-02-25,Molde,Sevilla,no,es,1,0,1.0
+2015-2016,Round of 32,,2016-02-25,Basel,Saint-Étienne,ch,fr,2,1,1.0
+2015-2016,Round of 32,,2016-02-25,Napoli,Villarreal,it,es,1,1,0.5
+2015-2016,Round of 32,,2016-02-25,Olympiacos,Anderlecht,gr,be,1,2,0.0
+2015-2016,Round of 16,,2016-03-10,Dortmund,Tottenham,de,eng,3,0,1.0
+2015-2016,Round of 16,,2016-03-10,Basel,Sevilla,ch,es,0,0,0.5
+2015-2016,Round of 16,,2016-03-10,Shakhtar,Anderlecht,ua,be,3,1,1.0
+2015-2016,Round of 16,,2016-03-10,Fenerbahçe,Braga,tr,pt,1,0,1.0
+2015-2016,Round of 16,,2016-03-10,Liverpool,Manchester Utd,eng,eng,2,0,1.0
+2015-2016,Round of 16,,2016-03-10,Sparta Prague,Lazio,cz,it,1,1,0.5
+2015-2016,Round of 16,,2016-03-10,Athletic Club,Valencia,es,es,1,0,1.0
+2015-2016,Round of 16,,2016-03-10,Villarreal,Leverkusen,es,de,2,0,1.0
+2015-2016,Round of 16,,2016-03-17,Valencia,Athletic Club,es,es,2,1,1.0
+2015-2016,Round of 16,,2016-03-17,Leverkusen,Villarreal,de,es,0,0,0.5
+2015-2016,Round of 16,,2016-03-17,Lazio,Sparta Prague,it,cz,0,3,0.0
+2015-2016,Round of 16,,2016-03-17,Tottenham,Dortmund,eng,de,1,2,0.0
+2015-2016,Round of 16,,2016-03-17,Braga,Fenerbahçe,pt,tr,4,1,1.0
+2015-2016,Round of 16,,2016-03-17,Manchester Utd,Liverpool,eng,eng,1,1,0.5
+2015-2016,Round of 16,,2016-03-17,Sevilla,Basel,es,ch,3,0,1.0
+2015-2016,Round of 16,,2016-03-17,Anderlecht,Shakhtar,be,ua,0,1,0.0
+2015-2016,Quarter-finals,,2016-04-07,Braga,Shakhtar,pt,ua,1,2,0.0
+2015-2016,Quarter-finals,,2016-04-07,Dortmund,Liverpool,de,eng,1,1,0.5
+2015-2016,Quarter-finals,,2016-04-07,Athletic Club,Sevilla,es,es,1,2,0.0
+2015-2016,Quarter-finals,,2016-04-07,Villarreal,Sparta Prague,es,cz,2,1,1.0
+2015-2016,Quarter-finals,,2016-04-14,Liverpool,Dortmund,eng,de,4,3,1.0
+2015-2016,Quarter-finals,,2016-04-14,Sevilla,Athletic Club,es,es,1,2,0.0
+2015-2016,Quarter-finals,,2016-04-14,Sparta Prague,Villarreal,cz,es,2,4,0.0
+2015-2016,Quarter-finals,,2016-04-14,Shakhtar,Braga,ua,pt,4,0,1.0
+2015-2016,Semi-finals,,2016-04-28,Villarreal,Liverpool,es,eng,1,0,1.0
+2015-2016,Semi-finals,,2016-04-28,Shakhtar,Sevilla,ua,es,2,2,0.5
+2015-2016,Semi-finals,,2016-05-05,Liverpool,Villarreal,eng,es,3,0,1.0
+2015-2016,Semi-finals,,2016-05-05,Sevilla,Shakhtar,es,ua,3,1,1.0
+2015-2016,Final,,2016-05-18,Liverpool,Sevilla,eng,es,1,3,0.0

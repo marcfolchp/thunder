@@ -1,0 +1,183 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2021-2022,Swiss Super League,1,2021-07-24,Luzern,Young Boys,3,4,0.0
+2021-2022,Swiss Super League,1,2021-07-24,Lausanne-Sport,St. Gallen,1,2,0.0
+2021-2022,Swiss Super League,1,2021-07-25,Lugano,Zürich,0,2,0.0
+2021-2022,Swiss Super League,1,2021-07-25,Grasshopper,Basel,0,2,0.0
+2021-2022,Swiss Super League,1,2021-07-25,Sion,Servette FC,1,2,0.0
+2021-2022,Swiss Super League,2,2021-07-31,Zürich,Lausanne-Sport,3,1,1.0
+2021-2022,Swiss Super League,2,2021-07-31,Young Boys,Grasshopper,0,0,0.5
+2021-2022,Swiss Super League,2,2021-08-01,St. Gallen,Luzern,2,2,0.5
+2021-2022,Swiss Super League,2,2021-08-01,Basel,Sion,6,1,1.0
+2021-2022,Swiss Super League,2,2021-08-01,Servette FC,Lugano,0,2,0.0
+2021-2022,Swiss Super League,3,2021-08-07,Sion,Young Boys,1,0,1.0
+2021-2022,Swiss Super League,3,2021-08-07,Grasshopper,Lausanne-Sport,3,1,1.0
+2021-2022,Swiss Super League,3,2021-08-08,Lugano,St. Gallen,2,1,1.0
+2021-2022,Swiss Super League,3,2021-08-08,Basel,Servette FC,5,1,1.0
+2021-2022,Swiss Super League,3,2021-08-08,Luzern,Zürich,1,3,0.0
+2021-2022,Swiss Super League,4,2021-08-21,Zürich,Grasshopper,2,1,1.0
+2021-2022,Swiss Super League,4,2021-08-21,St. Gallen,Sion,1,1,0.5
+2021-2022,Swiss Super League,4,2021-08-22,Lausanne-Sport,Basel,2,2,0.5
+2021-2022,Swiss Super League,4,2021-08-22,Servette FC,Luzern,4,1,1.0
+2021-2022,Swiss Super League,5,2021-08-28,St. Gallen,Zürich,3,3,0.5
+2021-2022,Swiss Super League,5,2021-08-28,Sion,Lugano,3,2,1.0
+2021-2022,Swiss Super League,5,2021-08-29,Luzern,Lausanne-Sport,1,1,0.5
+2021-2022,Swiss Super League,5,2021-08-29,Basel,Young Boys,1,1,0.5
+2021-2022,Swiss Super League,5,2021-08-29,Grasshopper,Servette FC,1,1,0.5
+2021-2022,Swiss Super League,6,2021-09-11,Luzern,Grasshopper,1,1,0.5
+2021-2022,Swiss Super League,6,2021-09-11,Young Boys,Zürich,4,0,1.0
+2021-2022,Swiss Super League,6,2021-09-12,Servette FC,St. Gallen,5,1,1.0
+2021-2022,Swiss Super League,6,2021-09-12,Lausanne-Sport,Sion,1,1,0.5
+2021-2022,Swiss Super League,6,2021-09-12,Lugano,Basel,1,1,0.5
+2021-2022,Swiss Super League,7,2021-09-21,Zürich,Servette FC,2,2,0.5
+2021-2022,Swiss Super League,7,2021-09-22,Lausanne-Sport,Young Boys,1,6,0.0
+2021-2022,Swiss Super League,7,2021-09-22,St. Gallen,Basel,0,2,0.0
+2021-2022,Swiss Super League,7,2021-09-23,Sion,Luzern,1,1,0.5
+2021-2022,Swiss Super League,7,2021-09-23,Lugano,Grasshopper,1,1,0.5
+2021-2022,Swiss Super League,8,2021-09-25,Young Boys,St. Gallen,2,1,1.0
+2021-2022,Swiss Super League,8,2021-09-25,Servette FC,Lausanne-Sport,1,1,0.5
+2021-2022,Swiss Super League,8,2021-09-26,Luzern,Lugano,2,3,0.0
+2021-2022,Swiss Super League,8,2021-09-26,Basel,Zürich,3,1,1.0
+2021-2022,Swiss Super League,8,2021-09-26,Grasshopper,Sion,3,1,1.0
+2021-2022,Swiss Super League,9,2021-10-02,Grasshopper,St. Gallen,5,2,1.0
+2021-2022,Swiss Super League,9,2021-10-02,Lugano,Lausanne-Sport,2,0,1.0
+2021-2022,Swiss Super League,9,2021-10-03,Zürich,Sion,6,2,1.0
+2021-2022,Swiss Super League,9,2021-10-03,Servette FC,Young Boys,0,6,0.0
+2021-2022,Swiss Super League,9,2021-10-03,Basel,Luzern,1,1,0.5
+2021-2022,Swiss Super League,10,2021-10-16,Young Boys,Luzern,1,1,0.5
+2021-2022,Swiss Super League,10,2021-10-16,Zürich,Lugano,1,0,1.0
+2021-2022,Swiss Super League,10,2021-10-17,Lausanne-Sport,Grasshopper,3,1,1.0
+2021-2022,Swiss Super League,10,2021-10-17,Sion,Basel,0,1,0.0
+2021-2022,Swiss Super League,10,2021-10-17,St. Gallen,Servette FC,2,1,1.0
+2021-2022,Swiss Super League,11,2021-10-23,Young Boys,Lausanne-Sport,3,2,1.0
+2021-2022,Swiss Super League,11,2021-10-23,Grasshopper,Zürich,3,3,0.5
+2021-2022,Swiss Super League,11,2021-10-24,Luzern,St. Gallen,2,0,1.0
+2021-2022,Swiss Super League,11,2021-10-24,Servette FC,Sion,1,2,0.0
+2021-2022,Swiss Super League,11,2021-10-24,Basel,Lugano,2,0,1.0
+2021-2022,Swiss Super League,12,2021-10-30,St. Gallen,Young Boys,3,1,1.0
+2021-2022,Swiss Super League,12,2021-10-30,Zürich,Basel,3,3,0.5
+2021-2022,Swiss Super League,12,2021-10-31,Sion,Grasshopper,1,3,0.0
+2021-2022,Swiss Super League,12,2021-10-31,Lugano,Servette FC,2,1,1.0
+2021-2022,Swiss Super League,12,2021-10-31,Lausanne-Sport,Luzern,1,1,0.5
+2021-2022,Swiss Super League,13,2021-11-06,Grasshopper,Young Boys,1,1,0.5
+2021-2022,Swiss Super League,13,2021-11-06,Luzern,Sion,0,1,0.0
+2021-2022,Swiss Super League,13,2021-11-07,Servette FC,Zürich,1,2,0.0
+2021-2022,Swiss Super League,13,2021-11-07,Lausanne-Sport,Lugano,0,2,0.0
+2021-2022,Swiss Super League,13,2021-11-07,Basel,St. Gallen,0,1,0.0
+2021-2022,Swiss Super League,14,2021-11-20,Sion,Zürich,0,1,0.0
+2021-2022,Swiss Super League,14,2021-11-21,St. Gallen,Lausanne-Sport,0,1,0.0
+2021-2022,Swiss Super League,14,2021-11-21,Lugano,Luzern,3,1,1.0
+2021-2022,Swiss Super League,14,2021-11-21,Servette FC,Grasshopper,3,2,1.0
+2021-2022,Swiss Super League,15,2021-11-27,Grasshopper,Lugano,0,1,0.0
+2021-2022,Swiss Super League,15,2021-11-27,Sion,St. Gallen,3,1,1.0
+2021-2022,Swiss Super League,15,2021-11-28,Zürich,Young Boys,1,0,1.0
+2021-2022,Swiss Super League,15,2021-11-28,Lausanne-Sport,Servette FC,0,3,0.0
+2021-2022,Swiss Super League,15,2021-11-28,Luzern,Basel,1,3,0.0
+2021-2022,Swiss Super League,4,2021-12-01,Young Boys,Lugano,3,1,1.0
+2021-2022,Swiss Super League,16,2021-12-04,Zürich,Luzern,4,0,1.0
+2021-2022,Swiss Super League,16,2021-12-04,Young Boys,Servette FC,1,2,0.0
+2021-2022,Swiss Super League,16,2021-12-05,Basel,Lausanne-Sport,1,1,0.5
+2021-2022,Swiss Super League,16,2021-12-05,St. Gallen,Grasshopper,0,4,0.0
+2021-2022,Swiss Super League,16,2021-12-05,Lugano,Sion,2,0,1.0
+2021-2022,Swiss Super League,17,2021-12-11,Lausanne-Sport,Zürich,1,3,0.0
+2021-2022,Swiss Super League,17,2021-12-11,St. Gallen,Lugano,1,1,0.5
+2021-2022,Swiss Super League,17,2021-12-12,Young Boys,Sion,4,3,1.0
+2021-2022,Swiss Super League,17,2021-12-12,Servette FC,Basel,2,2,0.5
+2021-2022,Swiss Super League,17,2021-12-12,Grasshopper,Luzern,1,1,0.5
+2021-2022,Swiss Super League,14,2021-12-15,Young Boys,Basel,1,1,0.5
+2021-2022,Swiss Super League,18,2021-12-18,Zürich,St. Gallen,3,1,1.0
+2021-2022,Swiss Super League,18,2021-12-18,Luzern,Servette FC,0,2,0.0
+2021-2022,Swiss Super League,18,2021-12-19,Lugano,Young Boys,0,5,0.0
+2021-2022,Swiss Super League,18,2021-12-19,Basel,Grasshopper,2,2,0.5
+2021-2022,Swiss Super League,18,2021-12-19,Sion,Lausanne-Sport,2,0,1.0
+2021-2022,Swiss Super League,19,2022-01-29,Zürich,Servette FC,1,0,1.0
+2021-2022,Swiss Super League,19,2022-01-29,Young Boys,Lugano,1,0,1.0
+2021-2022,Swiss Super League,19,2022-01-30,Lausanne-Sport,St. Gallen,1,5,0.0
+2021-2022,Swiss Super League,19,2022-01-30,Sion,Grasshopper,2,0,1.0
+2021-2022,Swiss Super League,19,2022-01-30,Luzern,Basel,0,3,0.0
+2021-2022,Swiss Super League,20,2022-02-05,Servette FC,Lausanne-Sport,1,0,1.0
+2021-2022,Swiss Super League,20,2022-02-05,Grasshopper,Zürich,1,3,0.0
+2021-2022,Swiss Super League,20,2022-02-06,Basel,Sion,3,3,0.5
+2021-2022,Swiss Super League,20,2022-02-06,Lugano,Luzern,2,1,1.0
+2021-2022,Swiss Super League,20,2022-02-06,St. Gallen,Young Boys,3,3,0.5
+2021-2022,Swiss Super League,21,2022-02-12,Lausanne-Sport,Grasshopper,0,2,0.0
+2021-2022,Swiss Super League,21,2022-02-12,St. Gallen,Servette FC,5,1,1.0
+2021-2022,Swiss Super League,21,2022-02-13,Young Boys,Basel,3,1,1.0
+2021-2022,Swiss Super League,21,2022-02-13,Zürich,Lugano,3,0,1.0
+2021-2022,Swiss Super League,21,2022-02-13,Luzern,Sion,1,0,1.0
+2021-2022,Swiss Super League,22,2022-02-19,Lugano,St. Gallen,0,2,0.0
+2021-2022,Swiss Super League,22,2022-02-19,Basel,Lausanne-Sport,3,0,1.0
+2021-2022,Swiss Super League,22,2022-02-20,Sion,Zürich,1,1,0.5
+2021-2022,Swiss Super League,22,2022-02-20,Servette FC,Luzern,1,1,0.5
+2021-2022,Swiss Super League,22,2022-02-20,Grasshopper,Young Boys,2,2,0.5
+2021-2022,Swiss Super League,23,2022-02-26,Young Boys,Sion,3,1,1.0
+2021-2022,Swiss Super League,23,2022-02-26,Lugano,Servette FC,2,0,1.0
+2021-2022,Swiss Super League,23,2022-02-27,St. Gallen,Grasshopper,2,0,1.0
+2021-2022,Swiss Super League,23,2022-02-27,Zürich,Basel,4,2,1.0
+2021-2022,Swiss Super League,23,2022-02-27,Lausanne-Sport,Luzern,1,2,0.0
+2021-2022,Swiss Super League,24,2022-03-01,Servette FC,Young Boys,1,0,1.0
+2021-2022,Swiss Super League,24,2022-03-02,Sion,Lausanne-Sport,1,0,1.0
+2021-2022,Swiss Super League,24,2022-03-02,Luzern,Zürich,0,2,0.0
+2021-2022,Swiss Super League,24,2022-03-03,Basel,St. Gallen,2,2,0.5
+2021-2022,Swiss Super League,24,2022-03-03,Grasshopper,Lugano,1,2,0.0
+2021-2022,Swiss Super League,25,2022-03-05,Young Boys,Luzern,2,2,0.5
+2021-2022,Swiss Super League,25,2022-03-05,Lausanne-Sport,Zürich,0,2,0.0
+2021-2022,Swiss Super League,25,2022-03-06,Lugano,Basel,0,2,0.0
+2021-2022,Swiss Super League,25,2022-03-06,St. Gallen,Sion,1,1,0.5
+2021-2022,Swiss Super League,25,2022-03-06,Grasshopper,Servette FC,2,4,0.0
+2021-2022,Swiss Super League,26,2022-03-12,Zürich,St. Gallen,0,3,0.0
+2021-2022,Swiss Super League,26,2022-03-12,Sion,Lugano,0,3,0.0
+2021-2022,Swiss Super League,26,2022-03-13,Lausanne-Sport,Young Boys,2,2,0.5
+2021-2022,Swiss Super League,26,2022-03-13,Basel,Servette FC,2,0,1.0
+2021-2022,Swiss Super League,26,2022-03-13,Luzern,Grasshopper,1,0,1.0
+2021-2022,Swiss Super League,27,2022-03-19,St. Gallen,Luzern,3,2,1.0
+2021-2022,Swiss Super League,27,2022-03-19,Young Boys,Zürich,1,2,0.0
+2021-2022,Swiss Super League,27,2022-03-20,Servette FC,Sion,2,1,1.0
+2021-2022,Swiss Super League,27,2022-03-20,Grasshopper,Basel,2,4,0.0
+2021-2022,Swiss Super League,27,2022-03-20,Lugano,Lausanne-Sport,3,1,1.0
+2021-2022,Swiss Super League,28,2022-04-02,Zürich,Grasshopper,1,1,0.5
+2021-2022,Swiss Super League,28,2022-04-02,Sion,St. Gallen,0,3,0.0
+2021-2022,Swiss Super League,28,2022-04-03,Luzern,Lugano,2,2,0.5
+2021-2022,Swiss Super League,28,2022-04-03,Basel,Young Boys,2,2,0.5
+2021-2022,Swiss Super League,28,2022-04-03,Lausanne-Sport,Servette FC,4,1,1.0
+2021-2022,Swiss Super League,29,2022-04-09,Young Boys,Lausanne-Sport,2,2,0.5
+2021-2022,Swiss Super League,29,2022-04-09,Grasshopper,Luzern,2,2,0.5
+2021-2022,Swiss Super League,29,2022-04-10,Servette FC,Zürich,1,0,1.0
+2021-2022,Swiss Super League,29,2022-04-10,Lugano,Sion,1,3,0.0
+2021-2022,Swiss Super League,29,2022-04-10,St. Gallen,Basel,2,2,0.5
+2021-2022,Swiss Super League,30,2022-04-16,Zürich,Young Boys,2,1,1.0
+2021-2022,Swiss Super League,30,2022-04-16,Servette FC,Grasshopper,0,1,0.0
+2021-2022,Swiss Super League,30,2022-04-18,Luzern,St. Gallen,3,2,1.0
+2021-2022,Swiss Super League,30,2022-04-18,Sion,Basel,0,0,0.5
+2021-2022,Swiss Super League,30,2022-04-18,Lausanne-Sport,Lugano,4,1,1.0
+2021-2022,Swiss Super League,31,2022-04-23,Zürich,Sion,5,1,1.0
+2021-2022,Swiss Super League,31,2022-04-23,Young Boys,Servette FC,3,1,1.0
+2021-2022,Swiss Super League,31,2022-04-24,St. Gallen,Lugano,3,0,1.0
+2021-2022,Swiss Super League,31,2022-04-24,Basel,Luzern,3,0,1.0
+2021-2022,Swiss Super League,31,2022-04-24,Grasshopper,Lausanne-Sport,3,1,1.0
+2021-2022,Swiss Super League,32,2022-04-30,Lugano,Grasshopper,1,1,0.5
+2021-2022,Swiss Super League,32,2022-04-30,Servette FC,St. Gallen,0,2,0.0
+2021-2022,Swiss Super League,32,2022-05-01,Sion,Young Boys,1,2,0.0
+2021-2022,Swiss Super League,32,2022-05-01,Luzern,Lausanne-Sport,3,0,1.0
+2021-2022,Swiss Super League,32,2022-05-01,Basel,Zürich,0,2,0.0
+2021-2022,Swiss Super League,33,2022-05-07,Lugano,Young Boys,3,1,1.0
+2021-2022,Swiss Super League,33,2022-05-07,St. Gallen,Zürich,1,2,0.0
+2021-2022,Swiss Super League,33,2022-05-08,Grasshopper,Sion,0,1,0.0
+2021-2022,Swiss Super League,33,2022-05-08,Luzern,Servette FC,4,0,1.0
+2021-2022,Swiss Super League,33,2022-05-08,Lausanne-Sport,Basel,0,0,0.5
+2021-2022,Swiss Super League,34,2022-05-10,Young Boys,St. Gallen,4,1,1.0
+2021-2022,Swiss Super League,34,2022-05-11,Sion,Luzern,1,3,0.0
+2021-2022,Swiss Super League,34,2022-05-11,Servette FC,Lugano,2,2,0.5
+2021-2022,Swiss Super League,34,2022-05-12,Basel,Grasshopper,1,1,0.5
+2021-2022,Swiss Super League,34,2022-05-12,Zürich,Lausanne-Sport,2,2,0.5
+2021-2022,Swiss Super League,35,2022-05-19,Lausanne-Sport,Sion,1,2,0.0
+2021-2022,Swiss Super League,35,2022-05-19,Luzern,Young Boys,2,2,0.5
+2021-2022,Swiss Super League,35,2022-05-19,Lugano,Zürich,2,1,1.0
+2021-2022,Swiss Super League,35,2022-05-19,Grasshopper,St. Gallen,3,2,1.0
+2021-2022,Swiss Super League,35,2022-05-19,Servette FC,Basel,0,0,0.5
+2021-2022,Swiss Super League,36,2022-05-22,Basel,Lugano,2,1,1.0
+2021-2022,Swiss Super League,36,2022-05-22,Zürich,Luzern,2,3,0.0
+2021-2022,Swiss Super League,36,2022-05-22,St. Gallen,Lausanne-Sport,4,0,1.0
+2021-2022,Swiss Super League,36,2022-05-22,Young Boys,Grasshopper,3,0,1.0
+2021-2022,Swiss Super League,36,2022-05-22,Sion,Servette FC,3,3,0.5
+2021-2022,Swiss 1/2 Relegation/Promotion Play-offs,,2022-05-26,Schaffhausen,Luzern,2,2,0.5
+2021-2022,Swiss 1/2 Relegation/Promotion Play-offs,,2022-05-29,Luzern,Schaffhausen,2,0,1.0

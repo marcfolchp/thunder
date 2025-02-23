@@ -1,0 +1,243 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2022,Allsvenskan,1,2022-04-02,Hammarby,Helsingborg,2,1,1.0
+2022,Allsvenskan,1,2022-04-02,Häcken,AIK Stockholm,4,2,1.0
+2022,Allsvenskan,1,2022-04-03,Sirius,Sundsvall,2,1,1.0
+2022,Allsvenskan,1,2022-04-03,Göteborg,Värnamo,2,1,1.0
+2022,Allsvenskan,1,2022-04-03,Norrköping,Varberg,0,1,0.0
+2022,Allsvenskan,1,2022-04-03,Kalmar,Malmö,0,1,0.0
+2022,Allsvenskan,1,2022-04-04,Elfsborg,Mjällby,0,2,0.0
+2022,Allsvenskan,1,2022-04-04,Djurgården,Degerfors,3,1,1.0
+2022,Allsvenskan,2,2022-04-09,Sundsvall,Hammarby,1,5,0.0
+2022,Allsvenskan,2,2022-04-09,Degerfors,Häcken,1,2,0.0
+2022,Allsvenskan,2,2022-04-10,Helsingborg,Göteborg,0,1,0.0
+2022,Allsvenskan,2,2022-04-10,Varberg,Kalmar,0,3,0.0
+2022,Allsvenskan,2,2022-04-10,AIK Stockholm,Norrköping,1,0,1.0
+2022,Allsvenskan,2,2022-04-10,Mjällby,Djurgården,1,0,1.0
+2022,Allsvenskan,2,2022-04-11,Värnamo,Sirius,0,0,0.5
+2022,Allsvenskan,2,2022-04-11,Malmö,Elfsborg,1,1,0.5
+2022,Allsvenskan,3,2022-04-15,Hammarby,Mjällby,2,0,1.0
+2022,Allsvenskan,3,2022-04-16,Varberg,Sundsvall,2,0,1.0
+2022,Allsvenskan,3,2022-04-16,Djurgården,Norrköping,2,1,1.0
+2022,Allsvenskan,3,2022-04-17,Kalmar,Degerfors,2,0,1.0
+2022,Allsvenskan,3,2022-04-17,Malmö,AIK Stockholm,3,0,1.0
+2022,Allsvenskan,3,2022-04-17,Häcken,Göteborg,0,2,0.0
+2022,Allsvenskan,3,2022-04-17,Sirius,Helsingborg,1,0,1.0
+2022,Allsvenskan,3,2022-04-17,Elfsborg,Värnamo,4,1,1.0
+2022,Allsvenskan,4,2022-04-20,Mjällby,Sirius,3,0,1.0
+2022,Allsvenskan,4,2022-04-20,Göteborg,Djurgården,1,1,0.5
+2022,Allsvenskan,4,2022-04-20,Norrköping,Häcken,1,1,0.5
+2022,Allsvenskan,4,2022-04-20,AIK Stockholm,Varberg,1,0,1.0
+2022,Allsvenskan,4,2022-04-20,Sundsvall,Kalmar,1,0,1.0
+2022,Allsvenskan,4,2022-04-21,Helsingborg,Elfsborg,1,0,1.0
+2022,Allsvenskan,4,2022-04-21,Degerfors,Hammarby,0,1,0.0
+2022,Allsvenskan,4,2022-04-21,Värnamo,Malmö,0,0,0.5
+2022,Allsvenskan,5,2022-04-24,AIK Stockholm,Djurgården,1,0,1.0
+2022,Allsvenskan,5,2022-04-24,Varberg,Mjällby,0,0,0.5
+2022,Allsvenskan,5,2022-04-24,Helsingborg,Häcken,1,1,0.5
+2022,Allsvenskan,5,2022-04-25,Elfsborg,Sundsvall,3,1,1.0
+2022,Allsvenskan,5,2022-04-25,Värnamo,Degerfors,2,0,1.0
+2022,Allsvenskan,5,2022-04-25,Sirius,Hammarby,0,3,0.0
+2022,Allsvenskan,5,2022-04-25,Malmö,Göteborg,1,0,1.0
+2022,Allsvenskan,5,2022-04-26,Kalmar,Norrköping,1,2,0.0
+2022,Allsvenskan,6,2022-04-30,Djurgården,Sirius,4,0,1.0
+2022,Allsvenskan,6,2022-05-01,Mjällby,Helsingborg,2,1,1.0
+2022,Allsvenskan,6,2022-05-01,Degerfors,Elfsborg,0,6,0.0
+2022,Allsvenskan,6,2022-05-01,Häcken,Varberg,3,1,1.0
+2022,Allsvenskan,6,2022-05-01,Sundsvall,AIK Stockholm,0,2,0.0
+2022,Allsvenskan,6,2022-05-02,Göteborg,Kalmar,1,2,0.0
+2022,Allsvenskan,6,2022-05-02,Norrköping,Värnamo,2,0,1.0
+2022,Allsvenskan,6,2022-05-02,Hammarby,Malmö,0,0,0.5
+2022,Allsvenskan,16,2022-05-05,Djurgården,Helsingborg,2,2,0.5
+2022,Allsvenskan,7,2022-05-07,AIK Stockholm,Göteborg,1,0,1.0
+2022,Allsvenskan,7,2022-05-07,Malmö,Mjällby,2,0,1.0
+2022,Allsvenskan,7,2022-05-08,Kalmar,Hammarby,2,0,1.0
+2022,Allsvenskan,7,2022-05-08,Varberg,Sirius,0,2,0.0
+2022,Allsvenskan,7,2022-05-09,Helsingborg,Norrköping,0,1,0.0
+2022,Allsvenskan,7,2022-05-09,Sundsvall,Degerfors,2,3,0.0
+2022,Allsvenskan,7,2022-05-09,Värnamo,Häcken,1,2,0.0
+2022,Allsvenskan,7,2022-05-09,Elfsborg,Djurgården,0,0,0.5
+2022,Allsvenskan,16,2022-05-11,AIK Stockholm,Malmö,2,0,1.0
+2022,Allsvenskan,8,2022-05-14,Mjällby,Värnamo,1,1,0.5
+2022,Allsvenskan,8,2022-05-14,Sirius,Elfsborg,2,0,1.0
+2022,Allsvenskan,8,2022-05-15,Häcken,Kalmar,3,1,1.0
+2022,Allsvenskan,8,2022-05-15,Hammarby,AIK Stockholm,3,3,0.5
+2022,Allsvenskan,8,2022-05-15,Göteborg,Varberg,1,1,0.5
+2022,Allsvenskan,8,2022-05-15,Norrköping,Sundsvall,5,1,1.0
+2022,Allsvenskan,8,2022-05-15,Degerfors,Helsingborg,2,1,1.0
+2022,Allsvenskan,8,2022-05-16,Djurgården,Malmö,4,0,1.0
+2022,Allsvenskan,9,2022-05-21,AIK Stockholm,Sirius,2,2,0.5
+2022,Allsvenskan,9,2022-05-21,Helsingborg,Värnamo,1,4,0.0
+2022,Allsvenskan,9,2022-05-22,Varberg,Degerfors,2,1,1.0
+2022,Allsvenskan,9,2022-05-22,Hammarby,Norrköping,3,0,1.0
+2022,Allsvenskan,9,2022-05-22,Elfsborg,Göteborg,3,1,1.0
+2022,Allsvenskan,9,2022-05-22,Malmö,Häcken,1,2,0.0
+2022,Allsvenskan,9,2022-05-22,Kalmar,Djurgården,1,0,1.0
+2022,Allsvenskan,9,2022-05-23,Sundsvall,Mjällby,2,0,1.0
+2022,Allsvenskan,10,2022-05-28,Göteborg,Sundsvall,2,0,1.0
+2022,Allsvenskan,10,2022-05-28,Mjällby,Kalmar,1,1,0.5
+2022,Allsvenskan,10,2022-05-28,Häcken,Sirius,4,3,1.0
+2022,Allsvenskan,10,2022-05-29,Djurgården,Varberg,4,0,1.0
+2022,Allsvenskan,10,2022-05-29,Degerfors,Malmö,0,2,0.0
+2022,Allsvenskan,10,2022-05-29,Norrköping,Elfsborg,2,2,0.5
+2022,Allsvenskan,10,2022-05-29,Värnamo,Hammarby,1,0,1.0
+2022,Allsvenskan,10,2022-05-29,Helsingborg,AIK Stockholm,1,2,0.0
+2022,Allsvenskan,11,2022-06-26,Mjällby,Norrköping,1,1,0.5
+2022,Allsvenskan,11,2022-06-26,Degerfors,AIK Stockholm,1,1,0.5
+2022,Allsvenskan,11,2022-06-26,Hammarby,Häcken,2,2,0.5
+2022,Allsvenskan,11,2022-06-26,Sundsvall,Djurgården,2,5,0.0
+2022,Allsvenskan,11,2022-06-27,Elfsborg,Varberg,4,1,1.0
+2022,Allsvenskan,11,2022-06-27,Malmö,Helsingborg,2,1,1.0
+2022,Allsvenskan,11,2022-06-27,Sirius,Göteborg,1,2,0.0
+2022,Allsvenskan,11,2022-06-27,Kalmar,Värnamo,1,0,1.0
+2022,Allsvenskan,12,2022-07-01,Sundsvall,Malmö,2,1,1.0
+2022,Allsvenskan,12,2022-07-02,AIK Stockholm,Mjällby,0,1,0.0
+2022,Allsvenskan,12,2022-07-02,Helsingborg,Kalmar,1,1,0.5
+2022,Allsvenskan,12,2022-07-03,Djurgården,Hammarby,1,0,1.0
+2022,Allsvenskan,12,2022-07-03,Varberg,Värnamo,3,0,1.0
+2022,Allsvenskan,12,2022-07-03,Häcken,Elfsborg,1,1,0.5
+2022,Allsvenskan,12,2022-07-03,Norrköping,Sirius,0,1,0.0
+2022,Allsvenskan,12,2022-07-04,Göteborg,Degerfors,2,0,1.0
+2022,Allsvenskan,13,2022-07-09,Malmö,Varberg,3,0,1.0
+2022,Allsvenskan,13,2022-07-09,Degerfors,Norrköping,1,1,0.5
+2022,Allsvenskan,13,2022-07-10,Elfsborg,AIK Stockholm,2,2,0.5
+2022,Allsvenskan,13,2022-07-10,Mjällby,Häcken,1,2,0.0
+2022,Allsvenskan,13,2022-07-10,Kalmar,Sirius,1,1,0.5
+2022,Allsvenskan,13,2022-07-11,Helsingborg,Djurgården,0,2,0.0
+2022,Allsvenskan,13,2022-07-11,Värnamo,Sundsvall,1,1,0.5
+2022,Allsvenskan,13,2022-07-11,Hammarby,Göteborg,3,0,1.0
+2022,Allsvenskan,14,2022-07-16,Norrköping,Malmö,0,2,0.0
+2022,Allsvenskan,14,2022-07-16,Djurgården,Värnamo,5,0,1.0
+2022,Allsvenskan,14,2022-07-17,Göteborg,Mjällby,1,1,0.5
+2022,Allsvenskan,14,2022-07-17,AIK Stockholm,Kalmar,1,0,1.0
+2022,Allsvenskan,14,2022-07-17,Hammarby,Elfsborg,3,0,1.0
+2022,Allsvenskan,14,2022-07-17,Sirius,Degerfors,2,0,1.0
+2022,Allsvenskan,14,2022-07-18,Varberg,Helsingborg,0,0,0.5
+2022,Allsvenskan,14,2022-07-18,Sundsvall,Häcken,1,5,0.0
+2022,Allsvenskan,15,2022-07-23,Malmö,Sirius,3,1,1.0
+2022,Allsvenskan,15,2022-07-23,Mjällby,Degerfors,2,1,1.0
+2022,Allsvenskan,15,2022-07-24,Värnamo,AIK Stockholm,2,3,0.0
+2022,Allsvenskan,15,2022-07-24,Helsingborg,Sundsvall,1,0,1.0
+2022,Allsvenskan,15,2022-07-24,Kalmar,Elfsborg,1,0,1.0
+2022,Allsvenskan,15,2022-07-24,Häcken,Djurgården,1,2,0.0
+2022,Allsvenskan,15,2022-07-25,Norrköping,Göteborg,0,2,0.0
+2022,Allsvenskan,15,2022-07-25,Varberg,Hammarby,0,3,0.0
+2022,Allsvenskan,16,2022-07-30,Degerfors,Kalmar,2,1,1.0
+2022,Allsvenskan,16,2022-07-30,Sundsvall,Varberg,1,3,0.0
+2022,Allsvenskan,16,2022-07-31,Sirius,Mjällby,0,1,0.0
+2022,Allsvenskan,16,2022-07-31,Elfsborg,Häcken,4,4,0.5
+2022,Allsvenskan,16,2022-07-31,Hammarby,Värnamo,1,2,0.0
+2022,Allsvenskan,16,2022-08-01,Göteborg,Norrköping,2,0,1.0
+2022,Allsvenskan,17,2022-08-06,Norrköping,Degerfors,2,0,1.0
+2022,Allsvenskan,17,2022-08-07,Kalmar,AIK Stockholm,1,0,1.0
+2022,Allsvenskan,17,2022-08-07,Sirius,Malmö,2,1,1.0
+2022,Allsvenskan,17,2022-08-07,Hammarby,Sundsvall,3,0,1.0
+2022,Allsvenskan,17,2022-08-07,Värnamo,Djurgården,0,0,0.5
+2022,Allsvenskan,17,2022-08-07,Mjällby,Elfsborg,1,1,0.5
+2022,Allsvenskan,17,2022-08-08,Häcken,Helsingborg,5,0,1.0
+2022,Allsvenskan,17,2022-08-08,Varberg,Göteborg,0,4,0.0
+2022,Allsvenskan,18,2022-08-13,Helsingborg,Sirius,0,0,0.5
+2022,Allsvenskan,18,2022-08-14,Djurgården,Kalmar,3,2,1.0
+2022,Allsvenskan,18,2022-08-14,AIK Stockholm,Värnamo,2,2,0.5
+2022,Allsvenskan,18,2022-08-14,Malmö,Sundsvall,3,1,1.0
+2022,Allsvenskan,18,2022-08-14,Elfsborg,Norrköping,1,1,0.5
+2022,Allsvenskan,18,2022-08-14,Degerfors,Varberg,1,1,0.5
+2022,Allsvenskan,18,2022-08-15,Häcken,Mjällby,1,0,1.0
+2022,Allsvenskan,18,2022-08-15,Göteborg,Hammarby,0,1,0.0
+2022,Allsvenskan,19,2022-08-20,Varberg,Djurgården,2,2,0.5
+2022,Allsvenskan,19,2022-08-21,Värnamo,Elfsborg,1,1,0.5
+2022,Allsvenskan,19,2022-08-21,Mjällby,Malmö,1,1,0.5
+2022,Allsvenskan,19,2022-08-21,Sundsvall,Helsingborg,1,2,0.0
+2022,Allsvenskan,19,2022-08-21,Norrköping,AIK Stockholm,2,4,0.0
+2022,Allsvenskan,19,2022-08-22,Sirius,Häcken,0,1,0.0
+2022,Allsvenskan,19,2022-08-22,Kalmar,Göteborg,1,0,1.0
+2022,Allsvenskan,19,2022-08-22,Hammarby,Degerfors,5,1,1.0
+2022,Allsvenskan,20,2022-08-27,Häcken,Värnamo,4,1,1.0
+2022,Allsvenskan,20,2022-08-27,Degerfors,Sundsvall,3,1,1.0
+2022,Allsvenskan,20,2022-08-28,Varberg,Norrköping,1,1,0.5
+2022,Allsvenskan,20,2022-08-28,Göteborg,Sirius,2,0,1.0
+2022,Allsvenskan,20,2022-08-28,AIK Stockholm,Hammarby,2,2,0.5
+2022,Allsvenskan,20,2022-08-28,Malmö,Kalmar,0,1,0.0
+2022,Allsvenskan,20,2022-08-28,Helsingborg,Mjällby,0,1,0.0
+2022,Allsvenskan,20,2022-08-29,Djurgården,Elfsborg,2,1,1.0
+2022,Allsvenskan,21,2022-09-04,Häcken,Degerfors,2,2,0.5
+2022,Allsvenskan,21,2022-09-04,Sirius,Djurgården,0,1,0.0
+2022,Allsvenskan,21,2022-09-04,Elfsborg,Malmö,3,2,1.0
+2022,Allsvenskan,21,2022-09-04,AIK Stockholm,Sundsvall,4,0,1.0
+2022,Allsvenskan,21,2022-09-05,Värnamo,Helsingborg,3,2,1.0
+2022,Allsvenskan,21,2022-09-05,Kalmar,Varberg,1,0,1.0
+2022,Allsvenskan,21,2022-09-05,Mjällby,Göteborg,1,4,0.0
+2022,Allsvenskan,21,2022-09-05,Norrköping,Hammarby,4,1,1.0
+2022,Allsvenskan,22,2022-09-10,Sirius,Värnamo,2,3,0.0
+2022,Allsvenskan,22,2022-09-10,Degerfors,Mjällby,0,0,0.5
+2022,Allsvenskan,22,2022-09-11,Hammarby,Djurgården,0,0,0.5
+2022,Allsvenskan,22,2022-09-11,Sundsvall,Elfsborg,0,2,0.0
+2022,Allsvenskan,22,2022-09-11,Varberg,AIK Stockholm,2,0,1.0
+2022,Allsvenskan,22,2022-09-11,Malmö,Norrköping,2,1,1.0
+2022,Allsvenskan,22,2022-09-12,Kalmar,Häcken,1,1,0.5
+2022,Allsvenskan,22,2022-09-12,Göteborg,Helsingborg,1,3,0.0
+2022,Allsvenskan,23,2022-09-17,Häcken,Hammarby,1,1,0.5
+2022,Allsvenskan,23,2022-09-17,Norrköping,Kalmar,2,2,0.5
+2022,Allsvenskan,23,2022-09-17,Värnamo,Varberg,1,0,1.0
+2022,Allsvenskan,23,2022-09-18,Helsingborg,Malmö,1,2,0.0
+2022,Allsvenskan,23,2022-09-18,Elfsborg,Sirius,3,0,1.0
+2022,Allsvenskan,23,2022-09-18,Mjällby,Sundsvall,1,1,0.5
+2022,Allsvenskan,23,2022-09-18,AIK Stockholm,Degerfors,1,1,0.5
+2022,Allsvenskan,23,2022-09-18,Djurgården,Göteborg,3,0,1.0
+2022,Allsvenskan,24,2022-10-01,Malmö,Hammarby,0,0,0.5
+2022,Allsvenskan,24,2022-10-01,Degerfors,Djurgården,3,0,1.0
+2022,Allsvenskan,24,2022-10-02,Sundsvall,Norrköping,1,3,0.0
+2022,Allsvenskan,24,2022-10-02,Varberg,Häcken,1,1,0.5
+2022,Allsvenskan,24,2022-10-02,Sirius,AIK Stockholm,1,1,0.5
+2022,Allsvenskan,24,2022-10-02,Kalmar,Helsingborg,2,0,1.0
+2022,Allsvenskan,24,2022-10-03,Värnamo,Mjällby,2,1,1.0
+2022,Allsvenskan,24,2022-10-03,Göteborg,Elfsborg,1,3,0.0
+2022,Allsvenskan,25,2022-10-08,Degerfors,Sirius,0,0,0.5
+2022,Allsvenskan,25,2022-10-09,Elfsborg,Kalmar,0,2,0.0
+2022,Allsvenskan,25,2022-10-09,Malmö,Värnamo,0,0,0.5
+2022,Allsvenskan,25,2022-10-09,Sundsvall,Göteborg,3,2,1.0
+2022,Allsvenskan,25,2022-10-09,AIK Stockholm,Helsingborg,2,0,1.0
+2022,Allsvenskan,25,2022-10-09,Djurgården,Häcken,0,1,0.0
+2022,Allsvenskan,25,2022-10-10,Norrköping,Mjällby,2,2,0.5
+2022,Allsvenskan,25,2022-10-10,Hammarby,Varberg,5,1,1.0
+2022,Allsvenskan,26,2022-10-14,Elfsborg,Degerfors,1,1,0.5
+2022,Allsvenskan,26,2022-10-15,Helsingborg,Varberg,1,3,0.0
+2022,Allsvenskan,26,2022-10-15,Häcken,Sundsvall,4,1,1.0
+2022,Allsvenskan,26,2022-10-15,Värnamo,Kalmar,1,3,0.0
+2022,Allsvenskan,26,2022-10-15,Sirius,Norrköping,2,0,1.0
+2022,Allsvenskan,26,2022-10-16,Djurgården,AIK Stockholm,1,2,0.0
+2022,Allsvenskan,26,2022-10-16,Mjällby,Hammarby,0,3,0.0
+2022,Allsvenskan,26,2022-10-17,Göteborg,Malmö,2,1,1.0
+2022,Allsvenskan,27,2022-10-19,Varberg,Elfsborg,0,3,0.0
+2022,Allsvenskan,27,2022-10-19,AIK Stockholm,Häcken,1,2,0.0
+2022,Allsvenskan,27,2022-10-19,Sundsvall,Värnamo,1,2,0.0
+2022,Allsvenskan,27,2022-10-19,Norrköping,Helsingborg,2,0,1.0
+2022,Allsvenskan,27,2022-10-20,Hammarby,Sirius,1,1,0.5
+2022,Allsvenskan,27,2022-10-20,Kalmar,Mjällby,1,2,0.0
+2022,Allsvenskan,27,2022-10-20,Malmö,Djurgården,2,3,0.0
+2022,Allsvenskan,27,2022-10-20,Degerfors,Göteborg,3,1,1.0
+2022,Allsvenskan,28,2022-10-23,Elfsborg,Hammarby,2,1,1.0
+2022,Allsvenskan,28,2022-10-23,Helsingborg,Degerfors,1,2,0.0
+2022,Allsvenskan,28,2022-10-23,Häcken,Malmö,2,1,1.0
+2022,Allsvenskan,28,2022-10-24,Mjällby,Varberg,4,1,1.0
+2022,Allsvenskan,28,2022-10-24,Värnamo,Norrköping,1,1,0.5
+2022,Allsvenskan,28,2022-10-24,Sirius,Kalmar,0,0,0.5
+2022,Allsvenskan,28,2022-10-24,Djurgården,Sundsvall,4,0,1.0
+2022,Allsvenskan,28,2022-10-24,Göteborg,AIK Stockholm,1,0,1.0
+2022,Allsvenskan,29,2022-10-29,Degerfors,Värnamo,0,0,0.5
+2022,Allsvenskan,29,2022-10-30,Mjällby,AIK Stockholm,1,2,0.0
+2022,Allsvenskan,29,2022-10-30,Sundsvall,Sirius,2,3,0.0
+2022,Allsvenskan,29,2022-10-30,Göteborg,Häcken,0,4,0.0
+2022,Allsvenskan,29,2022-10-30,Varberg,Malmö,2,5,0.0
+2022,Allsvenskan,29,2022-10-30,Hammarby,Kalmar,4,2,1.0
+2022,Allsvenskan,29,2022-10-31,Elfsborg,Helsingborg,3,0,1.0
+2022,Allsvenskan,29,2022-10-31,Norrköping,Djurgården,0,1,0.0
+2022,Allsvenskan,30,2022-11-06,Häcken,Norrköping,3,3,0.5
+2022,Allsvenskan,30,2022-11-06,AIK Stockholm,Elfsborg,0,1,0.0
+2022,Allsvenskan,30,2022-11-06,Djurgården,Mjällby,0,1,0.0
+2022,Allsvenskan,30,2022-11-06,Värnamo,Göteborg,1,4,0.0
+2022,Allsvenskan,30,2022-11-06,Helsingborg,Hammarby,0,2,0.0
+2022,Allsvenskan,30,2022-11-06,Kalmar,Sundsvall,4,0,1.0
+2022,Allsvenskan,30,2022-11-06,Malmö,Degerfors,2,2,0.5
+2022,Allsvenskan,30,2022-11-06,Sirius,Varberg,2,3,0.0
+2022,Swedish 1/2 Relegation/Promotion Play-offs (M),,2022-11-10,Öster,Varberg,1,2,0.0
+2022,Swedish 1/2 Relegation/Promotion Play-offs (M),,2022-11-13,Varberg,Öster,2,1,1.0

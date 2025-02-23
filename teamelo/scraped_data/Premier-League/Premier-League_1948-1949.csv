@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1948-1949,1,1948-08-21,Aston Villa,Liverpool,2,1,1.0
+1948-1949,1,1948-08-21,Preston,Portsmouth,2,2,0.5
+1948-1949,1,1948-08-21,Burnley,Manchester City,1,0,1.0
+1948-1949,1,1948-08-21,Huddersfield,Arsenal,1,1,0.5
+1948-1949,1,1948-08-21,Everton,Newcastle Utd,3,3,0.5
+1948-1949,1,1948-08-21,Wolves,Birmingham City,2,2,0.5
+1948-1949,1,1948-08-21,Sheffield Utd,Blackpool,3,2,1.0
+1948-1949,1,1948-08-21,Sunderland,Bolton,2,0,1.0
+1948-1949,1,1948-08-21,Stoke City,Charlton Ath,2,2,0.5
+1948-1949,1,1948-08-21,Chelsea,Middlesbrough,1,0,1.0
+1948-1949,1,1948-08-21,Manchester Utd,Derby County,1,2,0.0
+1948-1949,2,1948-08-23,Blackpool,Manchester Utd,0,3,0.0
+1948-1949,2,1948-08-25,Birmingham City,Middlesbrough,0,0,0.5
+1948-1949,2,1948-08-25,Bolton,Aston Villa,3,0,1.0
+1948-1949,2,1948-08-25,Wolves,Sunderland,0,1,0.0
+1948-1949,2,1948-08-25,Portsmouth,Everton,4,0,1.0
+1948-1949,2,1948-08-25,Arsenal,Stoke City,3,0,1.0
+1948-1949,2,1948-08-25,Liverpool,Sheffield Utd,3,3,0.5
+1948-1949,2,1948-08-25,Newcastle Utd,Chelsea,2,2,0.5
+1948-1949,2,1948-08-25,Charlton Ath,Burnley,3,1,1.0
+1948-1949,2,1948-08-25,Manchester City,Preston,3,2,1.0
+1948-1949,2,1948-08-25,Derby County,Huddersfield,4,1,1.0
+1948-1949,3,1948-08-28,Charlton Ath,Huddersfield,3,1,1.0
+1948-1949,3,1948-08-28,Blackpool,Aston Villa,1,0,1.0
+1948-1949,3,1948-08-28,Birmingham City,Chelsea,1,0,1.0
+1948-1949,3,1948-08-28,Manchester City,Stoke City,0,0,0.5
+1948-1949,3,1948-08-28,Arsenal,Manchester Utd,0,1,0.0
+1948-1949,3,1948-08-28,Derby County,Sheffield Utd,2,1,1.0
+1948-1949,3,1948-08-28,Newcastle Utd,Preston,2,5,0.0
+1948-1949,3,1948-08-28,Bolton,Wolves,0,5,0.0
+1948-1949,3,1948-08-28,Portsmouth,Burnley,1,0,1.0
+1948-1949,3,1948-08-28,Middlesbrough,Everton,1,0,1.0
+1948-1949,3,1948-08-28,Liverpool,Sunderland,4,0,1.0
+1948-1949,4,1948-08-30,Stoke City,Arsenal,1,0,1.0
+1948-1949,4,1948-08-30,Aston Villa,Bolton,2,4,0.0
+1948-1949,4,1948-08-30,Sheffield Utd,Liverpool,1,2,0.0
+1948-1949,4,1948-08-31,Burnley,Charlton Ath,0,0,0.5
+1948-1949,4,1948-09-01,Sunderland,Wolves,3,3,0.5
+1948-1949,4,1948-09-01,Manchester Utd,Blackpool,3,4,0.0
+1948-1949,4,1948-09-01,Middlesbrough,Birmingham City,1,1,0.5
+1948-1949,4,1948-09-01,Everton,Portsmouth,0,5,0.0
+1948-1949,4,1948-09-01,Chelsea,Newcastle Utd,2,3,0.0
+1948-1949,4,1948-09-01,Huddersfield,Derby County,1,1,0.5
+1948-1949,4,1948-09-01,Preston,Manchester City,1,3,0.0
+1948-1949,5,1948-09-04,Burnley,Newcastle Utd,0,3,0.0
+1948-1949,5,1948-09-04,Aston Villa,Derby County,1,1,0.5
+1948-1949,5,1948-09-04,Chelsea,Bolton,2,2,0.5
+1948-1949,5,1948-09-04,Stoke City,Portsmouth,0,1,0.0
+1948-1949,5,1948-09-04,Sunderland,Blackpool,2,2,0.5
+1948-1949,5,1948-09-04,Sheffield Utd,Arsenal,1,1,0.5
+1948-1949,5,1948-09-04,Everton,Birmingham City,0,5,0.0
+1948-1949,5,1948-09-04,Charlton Ath,Manchester City,3,2,1.0
+1948-1949,5,1948-09-04,Preston,Middlesbrough,6,1,1.0
+1948-1949,5,1948-09-04,Wolves,Liverpool,0,0,0.5
+1948-1949,5,1948-09-04,Manchester Utd,Huddersfield,4,1,1.0
+1948-1949,6,1948-09-06,Burnley,Preston,1,0,1.0
+1948-1949,6,1948-09-06,Sheffield Utd,Sunderland,2,5,0.0
+1948-1949,6,1948-09-06,Blackpool,Derby County,1,1,0.5
+1948-1949,6,1948-09-06,Bolton,Huddersfield,1,2,0.0
+1948-1949,6,1948-09-08,Everton,Stoke City,2,1,1.0
+1948-1949,6,1948-09-08,Charlton Ath,Chelsea,1,1,0.5
+1948-1949,6,1948-09-08,Arsenal,Liverpool,1,1,0.5
+1948-1949,6,1948-09-08,Wolves,Manchester Utd,3,2,1.0
+1948-1949,6,1948-09-08,Manchester City,Birmingham City,1,0,1.0
+1948-1949,6,1948-09-08,Newcastle Utd,Aston Villa,2,1,1.0
+1948-1949,6,1948-09-08,Portsmouth,Middlesbrough,1,0,1.0
+1948-1949,7,1948-09-11,Birmingham City,Preston,1,0,1.0
+1948-1949,7,1948-09-11,Manchester City,Manchester Utd,0,0,0.5
+1948-1949,7,1948-09-11,Chelsea,Everton,6,0,1.0
+1948-1949,7,1948-09-11,Blackpool,Wolves,1,3,0.0
+1948-1949,7,1948-09-11,Derby County,Sunderland,2,2,0.5
+1948-1949,7,1948-09-11,Portsmouth,Charlton Ath,3,1,1.0
+1948-1949,7,1948-09-11,Middlesbrough,Burnley,4,1,1.0
+1948-1949,7,1948-09-11,Arsenal,Aston Villa,3,1,1.0
+1948-1949,7,1948-09-11,Liverpool,Bolton,0,1,0.0
+1948-1949,7,1948-09-11,Newcastle Utd,Stoke City,2,2,0.5
+1948-1949,7,1948-09-11,Huddersfield,Sheffield Utd,0,0,0.5
+1948-1949,8,1948-09-13,Aston Villa,Newcastle Utd,2,4,0.0
+1948-1949,8,1948-09-13,Stoke City,Everton,1,0,1.0
+1948-1949,8,1948-09-15,Liverpool,Arsenal,0,1,0.0
+1948-1949,8,1948-09-15,Middlesbrough,Portsmouth,1,1,0.5
+1948-1949,8,1948-09-15,Sunderland,Sheffield Utd,2,0,1.0
+1948-1949,8,1948-09-15,Manchester Utd,Wolves,2,0,1.0
+1948-1949,8,1948-09-15,Birmingham City,Manchester City,4,1,1.0
+1948-1949,8,1948-09-15,Preston,Burnley,0,3,0.0
+1948-1949,8,1948-09-15,Huddersfield,Bolton,0,2,0.0
+1948-1949,8,1948-09-15,Derby County,Blackpool,3,1,1.0
+1948-1949,8,1948-09-16,Chelsea,Charlton Ath,2,2,0.5
+1948-1949,9,1948-09-18,Sheffield Utd,Manchester Utd,2,2,0.5
+1948-1949,9,1948-09-18,Aston Villa,Huddersfield,3,3,0.5
+1948-1949,9,1948-09-18,Sunderland,Arsenal,1,1,0.5
+1948-1949,9,1948-09-18,Burnley,Birmingham City,2,2,0.5
+1948-1949,9,1948-09-18,Charlton Ath,Newcastle Utd,0,0,0.5
+1948-1949,9,1948-09-18,Everton,Liverpool,1,1,0.5
+1948-1949,9,1948-09-18,Preston,Chelsea,3,2,1.0
+1948-1949,9,1948-09-18,Stoke City,Middlesbrough,3,0,1.0
+1948-1949,9,1948-09-18,Manchester City,Portsmouth,1,1,0.5
+1948-1949,9,1948-09-18,Wolves,Derby County,2,2,0.5
+1948-1949,9,1948-09-18,Bolton,Blackpool,2,2,0.5
+1948-1949,10,1948-09-25,Everton,Preston,4,1,1.0
+1948-1949,10,1948-09-25,Blackpool,Liverpool,1,0,1.0
+1948-1949,10,1948-09-25,Arsenal,Wolves,3,1,1.0
+1948-1949,10,1948-09-25,Huddersfield,Sunderland,2,0,1.0
+1948-1949,10,1948-09-25,Derby County,Bolton,1,0,1.0
+1948-1949,10,1948-09-25,Newcastle Utd,Manchester City,0,0,0.5
+1948-1949,10,1948-09-25,Chelsea,Burnley,1,0,1.0
+1948-1949,10,1948-09-25,Birmingham City,Stoke City,2,1,1.0
+1948-1949,10,1948-09-25,Middlesbrough,Charlton Ath,2,4,0.0
+1948-1949,10,1948-09-25,Manchester Utd,Aston Villa,3,1,1.0
+1948-1949,10,1948-09-25,Portsmouth,Sheffield Utd,3,0,1.0
+1948-1949,11,1948-10-02,Wolves,Huddersfield,7,1,1.0
+1948-1949,11,1948-10-02,Liverpool,Derby County,0,0,0.5
+1948-1949,11,1948-10-02,Portsmouth,Newcastle Utd,1,0,1.0
+1948-1949,11,1948-10-02,Sunderland,Manchester Utd,2,1,1.0
+1948-1949,11,1948-10-02,Aston Villa,Sheffield Utd,4,3,1.0
+1948-1949,11,1948-10-02,Stoke City,Chelsea,4,3,1.0
+1948-1949,11,1948-10-02,Manchester City,Middlesbrough,1,0,1.0
+1948-1949,11,1948-10-02,Preston,Blackpool,1,3,0.0
+1948-1949,11,1948-10-02,Charlton Ath,Birmingham City,1,1,0.5
+1948-1949,11,1948-10-02,Burnley,Everton,1,0,1.0
+1948-1949,11,1948-10-02,Bolton,Arsenal,1,0,1.0
+1948-1949,12,1948-10-09,Huddersfield,Stoke City,1,3,0.0
+1948-1949,12,1948-10-09,Aston Villa,Portsmouth,1,1,0.5
+1948-1949,12,1948-10-09,Bolton,Birmingham City,0,0,0.5
+1948-1949,12,1948-10-09,Derby County,Preston,1,0,1.0
+1948-1949,12,1948-10-09,Sunderland,Newcastle Utd,1,1,0.5
+1948-1949,12,1948-10-09,Liverpool,Chelsea,1,1,0.5
+1948-1949,12,1948-10-09,Wolves,Middlesbrough,0,3,0.0
+1948-1949,12,1948-10-09,Arsenal,Burnley,3,1,1.0
+1948-1949,12,1948-10-09,Blackpool,Everton,3,0,1.0
+1948-1949,12,1948-10-09,Manchester Utd,Charlton Ath,1,1,0.5
+1948-1949,12,1948-10-09,Sheffield Utd,Manchester City,0,2,0.0
+1948-1949,13,1948-10-16,Charlton Ath,Sheffield Utd,2,1,1.0
+1948-1949,13,1948-10-16,Portsmouth,Sunderland,3,0,1.0
+1948-1949,13,1948-10-16,Newcastle Utd,Wolves,3,1,1.0
+1948-1949,13,1948-10-16,Manchester City,Aston Villa,4,1,1.0
+1948-1949,13,1948-10-16,Preston,Arsenal,1,1,0.5
+1948-1949,13,1948-10-16,Birmingham City,Liverpool,0,1,0.0
+1948-1949,13,1948-10-16,Chelsea,Blackpool,3,3,0.5
+1948-1949,13,1948-10-16,Burnley,Huddersfield,1,2,0.0
+1948-1949,13,1948-10-16,Stoke City,Manchester Utd,2,1,1.0
+1948-1949,13,1948-10-16,Middlesbrough,Bolton,5,0,1.0
+1948-1949,13,1948-10-16,Everton,Derby County,0,1,0.0
+1948-1949,14,1948-10-23,Liverpool,Middlesbrough,4,0,1.0
+1948-1949,14,1948-10-23,Manchester Utd,Burnley,1,1,0.5
+1948-1949,14,1948-10-23,Aston Villa,Charlton Ath,4,3,1.0
+1948-1949,14,1948-10-23,Derby County,Chelsea,2,1,1.0
+1948-1949,14,1948-10-23,Sheffield Utd,Stoke City,2,2,0.5
+1948-1949,14,1948-10-23,Blackpool,Birmingham City,1,0,1.0
+1948-1949,14,1948-10-23,Bolton,Newcastle Utd,1,5,0.0
+1948-1949,14,1948-10-23,Huddersfield,Preston,0,2,0.0
+1948-1949,14,1948-10-23,Sunderland,Manchester City,3,0,1.0
+1948-1949,14,1948-10-23,Wolves,Portsmouth,3,0,1.0
+1948-1949,14,1948-10-23,Arsenal,Everton,5,0,1.0
+1948-1949,15,1948-10-30,Portsmouth,Bolton,0,0,0.5
+1948-1949,15,1948-10-30,Birmingham City,Derby County,0,1,0.0
+1948-1949,15,1948-10-30,Burnley,Sheffield Utd,2,0,1.0
+1948-1949,15,1948-10-30,Stoke City,Aston Villa,4,2,1.0
+1948-1949,15,1948-10-30,Preston,Manchester Utd,1,6,0.0
+1948-1949,15,1948-10-30,Manchester City,Wolves,3,3,0.5
+1948-1949,15,1948-10-30,Everton,Huddersfield,2,0,1.0
+1948-1949,15,1948-10-30,Charlton Ath,Sunderland,4,0,1.0
+1948-1949,15,1948-10-30,Chelsea,Arsenal,0,1,0.0
+1948-1949,15,1948-10-30,Newcastle Utd,Liverpool,1,0,1.0
+1948-1949,15,1948-10-30,Middlesbrough,Blackpool,1,0,1.0
+1948-1949,16,1948-11-06,Sunderland,Stoke City,1,1,0.5
+1948-1949,16,1948-11-06,Blackpool,Newcastle Utd,1,3,0.0
+1948-1949,16,1948-11-06,Huddersfield,Chelsea,3,4,0.0
+1948-1949,16,1948-11-06,Arsenal,Birmingham City,2,0,1.0
+1948-1949,16,1948-11-06,Sheffield Utd,Preston,3,2,1.0
+1948-1949,16,1948-11-06,Manchester Utd,Everton,2,0,1.0
+1948-1949,16,1948-11-06,Liverpool,Portsmouth,3,1,1.0
+1948-1949,16,1948-11-06,Derby County,Middlesbrough,2,0,1.0
+1948-1949,16,1948-11-06,Aston Villa,Burnley,3,1,1.0
+1948-1949,16,1948-11-06,Bolton,Manchester City,5,1,1.0
+1948-1949,16,1948-11-06,Wolves,Charlton Ath,2,0,1.0
+1948-1949,17,1948-11-13,Everton,Sheffield Utd,2,1,1.0
+1948-1949,17,1948-11-13,Manchester City,Liverpool,2,4,0.0
+1948-1949,17,1948-11-13,Charlton Ath,Bolton,1,4,0.0
+1948-1949,17,1948-11-13,Middlesbrough,Arsenal,0,1,0.0
+1948-1949,17,1948-11-13,Stoke City,Wolves,2,1,1.0
+1948-1949,17,1948-11-13,Birmingham City,Huddersfield,1,0,1.0
+1948-1949,17,1948-11-13,Portsmouth,Blackpool,1,1,0.5
+1948-1949,17,1948-11-13,Burnley,Sunderland,3,1,1.0
+1948-1949,17,1948-11-13,Chelsea,Manchester Utd,1,1,0.5
+1948-1949,17,1948-11-13,Newcastle Utd,Derby County,3,0,1.0
+1948-1949,17,1948-11-13,Preston,Aston Villa,0,1,0.0
+1948-1949,18,1948-11-20,Blackpool,Manchester City,1,1,0.5
+1948-1949,18,1948-11-20,Bolton,Stoke City,2,1,1.0
+1948-1949,18,1948-11-20,Aston Villa,Everton,0,1,0.0
+1948-1949,18,1948-11-20,Liverpool,Charlton Ath,1,1,0.5
+1948-1949,18,1948-11-20,Derby County,Portsmouth,1,0,1.0
+1948-1949,18,1948-11-20,Manchester Utd,Birmingham City,3,0,1.0
+1948-1949,18,1948-11-20,Arsenal,Newcastle Utd,0,1,0.0
+1948-1949,18,1948-11-20,Sheffield Utd,Chelsea,2,1,1.0
+1948-1949,18,1948-11-20,Huddersfield,Middlesbrough,0,0,0.5
+1948-1949,18,1948-11-20,Wolves,Burnley,3,0,1.0
+1948-1949,18,1948-11-20,Sunderland,Preston,0,0,0.5
+1948-1949,19,1948-11-27,Chelsea,Aston Villa,2,1,1.0
+1948-1949,19,1948-11-27,Burnley,Bolton,3,0,1.0
+1948-1949,19,1948-11-27,Everton,Sunderland,1,0,1.0
+1948-1949,19,1948-11-27,Newcastle Utd,Huddersfield,2,4,0.0
+1948-1949,19,1948-11-27,Portsmouth,Arsenal,4,1,1.0
+1948-1949,19,1948-11-27,Manchester City,Derby County,2,1,1.0
+1948-1949,19,1948-11-27,Middlesbrough,Manchester Utd,1,4,0.0
+1948-1949,19,1948-11-27,Charlton Ath,Blackpool,0,0,0.5
+1948-1949,19,1948-11-27,Birmingham City,Sheffield Utd,1,2,0.0
+1948-1949,19,1948-11-27,Preston,Wolves,1,1,0.5
+1948-1949,19,1948-11-27,Stoke City,Liverpool,3,0,1.0
+1948-1949,20,1948-12-04,Liverpool,Burnley,1,1,0.5
+1948-1949,20,1948-12-04,Huddersfield,Portsmouth,0,0,0.5
+1948-1949,20,1948-12-04,Blackpool,Stoke City,2,1,1.0
+1948-1949,20,1948-12-04,Aston Villa,Birmingham City,0,3,0.0
+1948-1949,20,1948-12-04,Derby County,Charlton Ath,5,1,1.0
+1948-1949,20,1948-12-04,Manchester Utd,Newcastle Utd,1,1,0.5
+1948-1949,20,1948-12-04,Wolves,Everton,1,0,1.0
+1948-1949,20,1948-12-04,Arsenal,Manchester City,1,1,0.5
+1948-1949,20,1948-12-04,Sunderland,Chelsea,3,0,1.0
+1948-1949,20,1948-12-04,Bolton,Preston,5,3,1.0
+1948-1949,20,1948-12-04,Sheffield Utd,Middlesbrough,1,0,1.0
+1948-1949,21,1948-12-11,Newcastle Utd,Sheffield Utd,3,2,1.0
+1948-1949,21,1948-12-11,Middlesbrough,Aston Villa,6,0,1.0
+1948-1949,21,1948-12-11,Burnley,Blackpool,2,0,1.0
+1948-1949,21,1948-12-11,Charlton Ath,Arsenal,4,3,1.0
+1948-1949,21,1948-12-11,Chelsea,Wolves,4,1,1.0
+1948-1949,21,1948-12-11,Everton,Bolton,1,0,1.0
+1948-1949,21,1948-12-11,Portsmouth,Manchester Utd,2,2,0.5
+1948-1949,21,1948-12-11,Birmingham City,Sunderland,0,0,0.5
+1948-1949,21,1948-12-11,Stoke City,Derby County,4,2,1.0
+1948-1949,21,1948-12-11,Preston,Liverpool,3,2,1.0
+1948-1949,21,1948-12-11,Manchester City,Huddersfield,3,1,1.0
+1948-1949,22,1948-12-18,Newcastle Utd,Everton,1,0,1.0
+1948-1949,22,1948-12-18,Manchester City,Burnley,2,2,0.5
+1948-1949,22,1948-12-18,Charlton Ath,Stoke City,4,1,1.0
+1948-1949,22,1948-12-18,Liverpool,Aston Villa,1,1,0.5
+1948-1949,22,1948-12-18,Portsmouth,Preston,3,1,1.0
+1948-1949,22,1948-12-18,Blackpool,Sheffield Utd,0,3,0.0
+1948-1949,22,1948-12-18,Middlesbrough,Chelsea,1,1,0.5
+1948-1949,22,1948-12-18,Birmingham City,Wolves,0,1,0.0
+1948-1949,22,1948-12-18,Arsenal,Huddersfield,3,0,1.0
+1948-1949,22,1948-12-18,Derby County,Manchester Utd,1,3,0.0
+1948-1949,22,1948-12-18,Bolton,Sunderland,4,1,1.0
+1948-1949,23,1948-12-25,Charlton Ath,Preston,0,0,0.5
+1948-1949,23,1948-12-25,Birmingham City,Newcastle Utd,2,0,1.0
+1948-1949,23,1948-12-25,Manchester Utd,Liverpool,0,0,0.5
+1948-1949,23,1948-12-25,Blackpool,Huddersfield,0,0,0.5
+1948-1949,23,1948-12-25,Burnley,Stoke City,1,3,0.0
+1948-1949,23,1948-12-25,Wolves,Aston Villa,4,0,1.0
+1948-1949,23,1948-12-25,Everton,Manchester City,0,0,0.5
+1948-1949,23,1948-12-25,Sheffield Utd,Bolton,1,1,0.5
+1948-1949,23,1948-12-25,Chelsea,Portsmouth,1,2,0.0
+1948-1949,23,1948-12-25,Arsenal,Derby County,3,3,0.5
+1948-1949,23,1948-12-25,Sunderland,Middlesbrough,1,0,1.0
+1948-1949,24,1948-12-27,Manchester City,Everton,0,0,0.5
+1948-1949,24,1948-12-27,Portsmouth,Chelsea,5,2,1.0
+1948-1949,24,1948-12-27,Newcastle Utd,Birmingham City,1,0,1.0
+1948-1949,24,1948-12-27,Aston Villa,Wolves,5,1,1.0
+1948-1949,24,1948-12-27,Stoke City,Burnley,2,1,1.0
+1948-1949,24,1948-12-27,Huddersfield,Blackpool,1,0,1.0
+1948-1949,24,1948-12-27,Bolton,Sheffield Utd,6,1,1.0
+1948-1949,24,1948-12-27,Middlesbrough,Sunderland,0,0,0.5
+1948-1949,24,1948-12-27,Preston,Charlton Ath,2,3,0.0
+1948-1949,24,1948-12-27,Derby County,Arsenal,2,1,1.0
+1948-1949,24,1948-12-27,Liverpool,Manchester Utd,0,2,0.0
+1948-1949,25,1949-01-01,Aston Villa,Blackpool,2,5,0.0
+1948-1949,25,1949-01-01,Burnley,Portsmouth,2,1,1.0
+1948-1949,25,1949-01-01,Preston,Newcastle Utd,2,1,1.0
+1948-1949,25,1949-01-01,Chelsea,Birmingham City,2,0,1.0
+1948-1949,25,1949-01-01,Wolves,Bolton,2,0,1.0
+1948-1949,25,1949-01-01,Everton,Middlesbrough,3,1,1.0
+1948-1949,25,1949-01-01,Huddersfield,Charlton Ath,1,2,0.0
+1948-1949,25,1949-01-01,Sunderland,Liverpool,0,2,0.0
+1948-1949,25,1949-01-01,Manchester Utd,Arsenal,2,0,1.0
+1948-1949,25,1949-01-01,Stoke City,Manchester City,2,3,0.0
+1948-1949,25,1949-01-01,Sheffield Utd,Derby County,3,1,1.0
+1948-1949,26,1949-01-15,Middlesbrough,Preston,1,0,1.0
+1948-1949,26,1949-01-15,Arsenal,Sheffield Utd,5,3,1.0
+1948-1949,26,1949-01-15,Blackpool,Sunderland,3,3,0.5
+1948-1949,26,1949-01-15,Newcastle Utd,Burnley,1,1,0.5
+1948-1949,26,1949-01-15,Portsmouth,Stoke City,1,0,1.0
+1948-1949,26,1949-01-15,Manchester City,Charlton Ath,0,1,0.0
+1948-1949,27,1949-01-22,Sheffield Utd,Huddersfield,0,0,0.5
+1948-1949,27,1949-01-22,Wolves,Blackpool,2,1,1.0
+1948-1949,27,1949-01-22,Burnley,Middlesbrough,0,0,0.5
+1948-1949,27,1949-01-22,Everton,Chelsea,2,1,1.0
+1948-1949,27,1949-01-22,Sunderland,Derby County,2,1,1.0
+1948-1949,27,1949-01-22,Aston Villa,Arsenal,1,0,1.0
+1948-1949,27,1949-01-22,Bolton,Liverpool,0,3,0.0
+1948-1949,27,1949-01-22,Stoke City,Newcastle Utd,1,1,0.5
+1948-1949,27,1949-01-22,Preston,Birmingham City,0,0,0.5
+1948-1949,27,1949-01-22,Charlton Ath,Portsmouth,0,1,0.0
+1948-1949,27,1949-01-22,Manchester Utd,Manchester City,0,0,0.5
+1948-1949,28,1949-02-05,Newcastle Utd,Charlton Ath,2,0,1.0
+1948-1949,28,1949-02-05,Liverpool,Everton,0,0,0.5
+1948-1949,28,1949-02-05,Derby County,Wolves,3,2,1.0
+1948-1949,28,1949-02-05,Chelsea,Preston,5,3,1.0
+1948-1949,28,1949-02-05,Arsenal,Sunderland,5,0,1.0
+1948-1949,28,1949-02-05,Birmingham City,Burnley,0,0,0.5
+1948-1949,28,1949-02-05,Portsmouth,Manchester City,3,1,1.0
+1948-1949,26,1949-02-12,Birmingham City,Everton,0,0,0.5
+1948-1949,28,1949-02-12,Blackpool,Bolton,1,0,1.0
+1948-1949,28,1949-02-12,Huddersfield,Aston Villa,0,1,0.0
+1948-1949,29,1949-02-19,Burnley,Chelsea,3,0,1.0
+1948-1949,29,1949-02-19,Wolves,Arsenal,1,3,0.0
+1948-1949,29,1949-02-19,Stoke City,Birmingham City,2,1,1.0
+1948-1949,29,1949-02-19,Aston Villa,Manchester Utd,2,1,1.0
+1948-1949,29,1949-02-19,Preston,Everton,3,1,1.0
+1948-1949,29,1949-02-19,Sheffield Utd,Portsmouth,3,1,1.0
+1948-1949,29,1949-02-19,Manchester City,Newcastle Utd,1,0,1.0
+1948-1949,29,1949-02-19,Liverpool,Blackpool,1,1,0.5
+1948-1949,29,1949-02-19,Charlton Ath,Middlesbrough,2,0,1.0
+1948-1949,29,1949-02-19,Sunderland,Huddersfield,0,1,0.0
+1948-1949,29,1949-02-19,Bolton,Derby County,4,0,1.0
+1948-1949,30,1949-02-26,Sheffield Utd,Aston Villa,0,1,0.0
+1948-1949,30,1949-02-26,Everton,Burnley,2,1,1.0
+1948-1949,30,1949-02-26,Birmingham City,Charlton Ath,1,0,1.0
+1948-1949,30,1949-02-26,Blackpool,Preston,2,2,0.5
+1948-1949,30,1949-02-26,Middlesbrough,Manchester City,0,1,0.0
+1948-1949,30,1949-02-26,Arsenal,Bolton,5,0,1.0
+1948-1949,30,1949-02-26,Chelsea,Stoke City,2,2,0.5
+1948-1949,31,1949-03-05,Preston,Derby County,0,0,0.5
+1948-1949,31,1949-03-05,Manchester City,Sheffield Utd,1,0,1.0
+1948-1949,31,1949-03-05,Everton,Blackpool,5,0,1.0
+1948-1949,31,1949-03-05,Charlton Ath,Manchester Utd,2,3,0.0
+1948-1949,31,1949-03-05,Stoke City,Huddersfield,1,3,0.0
+1948-1949,31,1949-03-05,Newcastle Utd,Sunderland,2,1,1.0
+1948-1949,31,1949-03-05,Birmingham City,Bolton,0,0,0.5
+1948-1949,31,1949-03-05,Chelsea,Liverpool,2,1,1.0
+1948-1949,31,1949-03-05,Portsmouth,Aston Villa,3,0,1.0
+1948-1949,31,1949-03-05,Burnley,Arsenal,1,1,0.5
+1948-1949,31,1949-03-05,Middlesbrough,Wolves,4,4,0.5
+1948-1949,32,1949-03-12,Wolves,Newcastle Utd,3,0,1.0
+1948-1949,32,1949-03-12,Liverpool,Birmingham City,1,0,1.0
+1948-1949,32,1949-03-12,Sunderland,Portsmouth,1,4,0.0
+1948-1949,32,1949-03-12,Blackpool,Chelsea,2,1,1.0
+1948-1949,32,1949-03-12,Manchester Utd,Stoke City,3,0,1.0
+1948-1949,32,1949-03-12,Sheffield Utd,Charlton Ath,2,0,1.0
+1948-1949,32,1949-03-12,Bolton,Middlesbrough,4,1,1.0
+1948-1949,32,1949-03-12,Arsenal,Preston,0,0,0.5
+1948-1949,32,1949-03-12,Aston Villa,Manchester City,1,0,1.0
+1948-1949,32,1949-03-12,Derby County,Everton,3,2,1.0
+1948-1949,32,1949-03-12,Huddersfield,Burnley,1,0,1.0
+1948-1949,33,1949-03-19,Everton,Aston Villa,1,3,0.0
+1948-1949,33,1949-03-19,Charlton Ath,Liverpool,2,1,1.0
+1948-1949,33,1949-03-19,Burnley,Wolves,0,0,0.5
+1948-1949,33,1949-03-19,Portsmouth,Derby County,1,0,1.0
+1948-1949,33,1949-03-19,Newcastle Utd,Arsenal,3,2,1.0
+1948-1949,33,1949-03-19,Preston,Sunderland,1,3,0.0
+1948-1949,33,1949-03-19,Birmingham City,Manchester Utd,1,0,1.0
+1948-1949,33,1949-03-19,Manchester City,Blackpool,1,1,0.5
+1948-1949,33,1949-03-19,Middlesbrough,Huddersfield,1,0,1.0
+1948-1949,33,1949-03-19,Stoke City,Bolton,4,0,1.0
+1948-1949,33,1949-03-19,Chelsea,Sheffield Utd,1,0,1.0
+1948-1949,34,1949-03-26,Blackpool,Charlton Ath,0,1,0.0
+1948-1949,34,1949-03-26,Huddersfield,Newcastle Utd,0,2,0.0
+1948-1949,34,1949-03-26,Sheffield Utd,Birmingham City,4,0,1.0
+1948-1949,34,1949-03-26,Liverpool,Stoke City,4,0,1.0
+1948-1949,34,1949-03-26,Aston Villa,Chelsea,1,1,0.5
+1948-1949,34,1949-03-26,Sunderland,Everton,1,1,0.5
+1948-1949,34,1949-03-26,Derby County,Manchester City,2,0,1.0
+1948-1949,34,1949-03-26,Bolton,Burnley,0,1,0.0
+1948-1949,35,1949-04-02,Birmingham City,Arsenal,1,1,0.5
+1948-1949,35,1949-04-02,Middlesbrough,Derby County,1,0,1.0
+1948-1949,35,1949-04-02,Burnley,Aston Villa,1,1,0.5
+1948-1949,35,1949-04-02,Stoke City,Sunderland,0,0,0.5
+1948-1949,35,1949-04-02,Portsmouth,Liverpool,3,2,1.0
+1948-1949,35,1949-04-02,Preston,Sheffield Utd,4,1,1.0
+1948-1949,35,1949-04-02,Newcastle Utd,Blackpool,3,1,1.0
+1948-1949,35,1949-04-02,Chelsea,Huddersfield,5,0,1.0
+1948-1949,35,1949-04-02,Manchester City,Bolton,1,0,1.0
+1948-1949,37,1949-04-02,Charlton Ath,Everton,3,1,1.0
+1948-1949,26,1949-04-06,Huddersfield,Manchester Utd,2,1,1.0
+1948-1949,26,1949-04-06,Liverpool,Wolves,0,0,0.5
+1948-1949,30,1949-04-06,Newcastle Utd,Portsmouth,0,5,0.0
+1948-1949,36,1949-04-09,Manchester Utd,Chelsea,1,1,0.5
+1948-1949,36,1949-04-09,Bolton,Charlton Ath,2,2,0.5
+1948-1949,36,1949-04-09,Sunderland,Burnley,0,0,0.5
+1948-1949,36,1949-04-09,Arsenal,Middlesbrough,1,1,0.5
+1948-1949,36,1949-04-09,Wolves,Stoke City,3,1,1.0
+1948-1949,36,1949-04-09,Blackpool,Portsmouth,1,0,1.0
+1948-1949,36,1949-04-09,Aston Villa,Preston,2,0,1.0
+1948-1949,36,1949-04-09,Sheffield Utd,Everton,1,1,0.5
+1948-1949,36,1949-04-09,Liverpool,Manchester City,0,1,0.0
+1948-1949,36,1949-04-09,Huddersfield,Birmingham City,0,0,0.5
+1948-1949,36,1949-04-09,Derby County,Newcastle Utd,2,4,0.0
+1948-1949,35,1949-04-13,Charlton Ath,Wolves,2,3,0.0
+1948-1949,37,1949-04-15,Burnley,Derby County,3,1,1.0
+1948-1949,37,1949-04-15,Blackpool,Arsenal,1,1,0.5
+1948-1949,37,1949-04-15,Newcastle Utd,Middlesbrough,1,0,1.0
+1948-1949,37,1949-04-15,Bolton,Manchester Utd,0,1,0.0
+1948-1949,37,1949-04-15,Sunderland,Aston Villa,0,0,0.5
+1948-1949,37,1949-04-15,Manchester City,Chelsea,1,0,1.0
+1948-1949,37,1949-04-15,Preston,Stoke City,2,1,1.0
+1948-1949,37,1949-04-15,Liverpool,Huddersfield,0,1,0.0
+1948-1949,37,1949-04-15,Portsmouth,Birmingham City,3,1,1.0
+1948-1949,38,1949-04-16,Chelsea,Derby County,0,3,0.0
+1948-1949,38,1949-04-16,Stoke City,Sheffield Utd,0,1,0.0
+1948-1949,38,1949-04-16,Preston,Huddersfield,2,0,1.0
+1948-1949,38,1949-04-16,Newcastle Utd,Bolton,1,1,0.5
+1948-1949,38,1949-04-16,Burnley,Manchester Utd,0,2,0.0
+1948-1949,38,1949-04-16,Birmingham City,Blackpool,1,1,0.5
+1948-1949,38,1949-04-16,Charlton Ath,Aston Villa,0,2,0.0
+1948-1949,38,1949-04-16,Manchester City,Sunderland,1,1,0.5
+1948-1949,38,1949-04-16,Everton,Arsenal,0,0,0.5
+1948-1949,38,1949-04-16,Portsmouth,Wolves,5,0,1.0
+1948-1949,38,1949-04-16,Middlesbrough,Liverpool,0,1,0.0
+1948-1949,37,1949-04-18,Sheffield Utd,Wolves,1,1,0.5
+1948-1949,39,1949-04-18,Middlesbrough,Newcastle Utd,3,2,1.0
+1948-1949,39,1949-04-18,Stoke City,Preston,2,0,1.0
+1948-1949,39,1949-04-18,Manchester Utd,Bolton,3,0,1.0
+1948-1949,39,1949-04-18,Arsenal,Blackpool,2,0,1.0
+1948-1949,39,1949-04-18,Birmingham City,Portsmouth,3,0,1.0
+1948-1949,39,1949-04-18,Derby County,Burnley,2,0,1.0
+1948-1949,39,1949-04-18,Everton,Charlton Ath,1,1,0.5
+1948-1949,39,1949-04-18,Chelsea,Manchester City,1,1,0.5
+1948-1949,39,1949-04-18,Huddersfield,Liverpool,0,4,0.0
+1948-1949,39,1949-04-19,Wolves,Sheffield Utd,6,0,1.0
+1948-1949,39,1949-04-19,Aston Villa,Sunderland,1,1,0.5
+1948-1949,30,1949-04-21,Manchester Utd,Sunderland,1,2,0.0
+1948-1949,40,1949-04-23,Huddersfield,Everton,1,1,0.5
+1948-1949,40,1949-04-23,Liverpool,Newcastle Utd,1,1,0.5
+1948-1949,40,1949-04-23,Wolves,Manchester City,1,1,0.5
+1948-1949,40,1949-04-23,Sunderland,Charlton Ath,1,0,1.0
+1948-1949,40,1949-04-23,Sheffield Utd,Burnley,0,0,0.5
+1948-1949,40,1949-04-23,Aston Villa,Stoke City,2,1,1.0
+1948-1949,40,1949-04-23,Arsenal,Chelsea,1,2,0.0
+1948-1949,40,1949-04-23,Derby County,Birmingham City,1,0,1.0
+1948-1949,40,1949-04-23,Bolton,Portsmouth,1,2,0.0
+1948-1949,40,1949-04-23,Manchester Utd,Preston,2,2,0.5
+1948-1949,40,1949-04-23,Blackpool,Middlesbrough,1,1,0.5
+1948-1949,26,1949-04-27,Derby County,Aston Villa,2,2,0.5
+1948-1949,28,1949-04-27,Middlesbrough,Stoke City,1,1,0.5
+1948-1949,35,1949-04-27,Everton,Manchester Utd,2,0,1.0
+1948-1949,41,1949-04-27,Manchester City,Arsenal,0,3,0.0
+1948-1949,41,1949-04-30,Charlton Ath,Derby County,1,5,0.0
+1948-1949,41,1949-04-30,Newcastle Utd,Manchester Utd,0,1,0.0
+1948-1949,41,1949-04-30,Chelsea,Sunderland,0,1,0.0
+1948-1949,41,1949-04-30,Burnley,Liverpool,0,2,0.0
+1948-1949,41,1949-04-30,Middlesbrough,Sheffield Utd,3,1,1.0
+1948-1949,41,1949-04-30,Stoke City,Blackpool,3,2,1.0
+1948-1949,41,1949-04-30,Portsmouth,Huddersfield,2,0,1.0
+1948-1949,41,1949-04-30,Birmingham City,Aston Villa,0,1,0.0
+1948-1949,41,1949-04-30,Preston,Bolton,1,1,0.5
+1948-1949,34,1949-05-02,Manchester Utd,Middlesbrough,1,0,1.0
+1948-1949,34,1949-05-02,Wolves,Preston,2,1,1.0
+1948-1949,26,1949-05-04,Bolton,Chelsea,1,1,0.5
+1948-1949,28,1949-05-04,Manchester Utd,Sheffield Utd,3,2,1.0
+1948-1949,30,1949-05-04,Derby County,Liverpool,3,0,1.0
+1948-1949,34,1949-05-04,Arsenal,Portsmouth,3,2,1.0
+1948-1949,41,1949-05-04,Everton,Wolves,1,0,1.0
+1948-1949,30,1949-05-05,Huddersfield,Wolves,4,0,1.0
+1948-1949,42,1949-05-07,Arsenal,Charlton Ath,2,0,1.0
+1948-1949,42,1949-05-07,Sunderland,Birmingham City,1,1,0.5
+1948-1949,42,1949-05-07,Sheffield Utd,Newcastle Utd,0,0,0.5
+1948-1949,42,1949-05-07,Blackpool,Burnley,1,1,0.5
+1948-1949,42,1949-05-07,Manchester Utd,Portsmouth,3,2,1.0
+1948-1949,42,1949-05-07,Liverpool,Preston,0,2,0.0
+1948-1949,42,1949-05-07,Bolton,Everton,1,0,1.0
+1948-1949,42,1949-05-07,Huddersfield,Manchester City,1,0,1.0
+1948-1949,42,1949-05-07,Wolves,Chelsea,1,1,0.5
+1948-1949,42,1949-05-07,Aston Villa,Middlesbrough,1,1,0.5
+1948-1949,42,1949-05-07,Derby County,Stoke City,4,1,1.0

@@ -1,0 +1,183 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2015-2016,1. HNL,1,2015-07-10,Inter Zaprešić,Rijeka,0,0,0.5
+2015-2016,1. HNL,1,2015-07-11,NK Zagreb,Osijek,0,1,0.0
+2015-2016,1. HNL,1,2015-07-11,Istra 1961,Slaven Belupo,3,1,1.0
+2015-2016,1. HNL,1,2015-07-12,Dinamo Zagreb,Hajduk Split,1,1,0.5
+2015-2016,1. HNL,1,2015-07-13,RNK Split,Lokomotiva,2,1,1.0
+2015-2016,1. HNL,2,2015-07-18,Inter Zaprešić,NK Zagreb,1,1,0.5
+2015-2016,1. HNL,2,2015-07-19,Osijek,Dinamo Zagreb,1,1,0.5
+2015-2016,1. HNL,2,2015-07-19,Hajduk Split,RNK Split,0,0,0.5
+2015-2016,1. HNL,2,2015-07-19,Rijeka,Slaven Belupo,3,3,0.5
+2015-2016,1. HNL,2,2015-07-20,Lokomotiva,Istra 1961,6,1,1.0
+2015-2016,1. HNL,3,2015-07-25,Dinamo Zagreb,Inter Zaprešić,5,1,1.0
+2015-2016,1. HNL,3,2015-07-25,RNK Split,Osijek,2,1,1.0
+2015-2016,1. HNL,3,2015-07-26,NK Zagreb,Rijeka,3,3,0.5
+2015-2016,1. HNL,3,2015-07-26,Istra 1961,Hajduk Split,4,1,1.0
+2015-2016,1. HNL,3,2015-07-27,Slaven Belupo,Lokomotiva,2,2,0.5
+2015-2016,1. HNL,4,2015-07-31,NK Zagreb,Dinamo Zagreb,0,2,0.0
+2015-2016,1. HNL,4,2015-08-01,Osijek,Istra 1961,2,2,0.5
+2015-2016,1. HNL,4,2015-08-01,Inter Zaprešić,RNK Split,0,0,0.5
+2015-2016,1. HNL,4,2015-08-02,Hajduk Split,Slaven Belupo,2,2,0.5
+2015-2016,1. HNL,4,2015-08-02,Rijeka,Lokomotiva,3,1,1.0
+2015-2016,1. HNL,5,2015-08-07,RNK Split,NK Zagreb,3,0,1.0
+2015-2016,1. HNL,5,2015-08-08,Istra 1961,Inter Zaprešić,0,0,0.5
+2015-2016,1. HNL,5,2015-08-08,Dinamo Zagreb,Rijeka,0,0,0.5
+2015-2016,1. HNL,5,2015-08-09,Slaven Belupo,Osijek,3,0,1.0
+2015-2016,1. HNL,5,2015-08-10,Lokomotiva,Hajduk Split,1,2,0.0
+2015-2016,1. HNL,6,2015-08-14,Inter Zaprešić,Slaven Belupo,2,1,1.0
+2015-2016,1. HNL,6,2015-08-15,Rijeka,Hajduk Split,0,0,0.5
+2015-2016,1. HNL,6,2015-08-15,Dinamo Zagreb,RNK Split,3,0,1.0
+2015-2016,1. HNL,6,2015-08-16,NK Zagreb,Istra 1961,1,1,0.5
+2015-2016,1. HNL,6,2015-08-17,Osijek,Lokomotiva,0,1,0.0
+2015-2016,1. HNL,7,2015-08-21,Lokomotiva,Inter Zaprešić,1,2,0.0
+2015-2016,1. HNL,7,2015-08-22,RNK Split,Rijeka,0,2,0.0
+2015-2016,1. HNL,7,2015-08-22,Istra 1961,Dinamo Zagreb,1,1,0.5
+2015-2016,1. HNL,7,2015-08-23,Slaven Belupo,NK Zagreb,2,1,1.0
+2015-2016,1. HNL,7,2015-08-23,Hajduk Split,Osijek,3,0,1.0
+2015-2016,1. HNL,8,2015-08-28,NK Zagreb,Lokomotiva,1,2,0.0
+2015-2016,1. HNL,8,2015-08-29,RNK Split,Istra 1961,3,0,1.0
+2015-2016,1. HNL,8,2015-08-29,Dinamo Zagreb,Slaven Belupo,3,0,1.0
+2015-2016,1. HNL,8,2015-08-30,Inter Zaprešić,Hajduk Split,0,2,0.0
+2015-2016,1. HNL,8,2015-08-30,Rijeka,Osijek,5,0,1.0
+2015-2016,1. HNL,9,2015-09-11,Lokomotiva,Dinamo Zagreb,0,4,0.0
+2015-2016,1. HNL,9,2015-09-12,Slaven Belupo,RNK Split,1,1,0.5
+2015-2016,1. HNL,9,2015-09-12,Hajduk Split,NK Zagreb,1,0,1.0
+2015-2016,1. HNL,9,2015-09-13,Osijek,Inter Zaprešić,3,1,1.0
+2015-2016,1. HNL,9,2015-09-13,Istra 1961,Rijeka,0,1,0.0
+2015-2016,1. HNL,10,2015-09-18,Osijek,NK Zagreb,0,0,0.5
+2015-2016,1. HNL,10,2015-09-19,Hajduk Split,Dinamo Zagreb,0,0,0.5
+2015-2016,1. HNL,10,2015-09-19,Rijeka,Inter Zaprešić,0,0,0.5
+2015-2016,1. HNL,10,2015-09-20,Slaven Belupo,Istra 1961,0,0,0.5
+2015-2016,1. HNL,10,2015-09-20,Lokomotiva,RNK Split,1,0,1.0
+2015-2016,1. HNL,11,2015-09-25,Dinamo Zagreb,Osijek,4,1,1.0
+2015-2016,1. HNL,11,2015-09-26,NK Zagreb,Inter Zaprešić,2,3,0.0
+2015-2016,1. HNL,11,2015-09-26,Slaven Belupo,Rijeka,0,0,0.5
+2015-2016,1. HNL,11,2015-09-27,Istra 1961,Lokomotiva,2,1,1.0
+2015-2016,1. HNL,11,2015-09-27,RNK Split,Hajduk Split,0,2,0.0
+2015-2016,1. HNL,12,2015-10-02,Lokomotiva,Slaven Belupo,1,1,0.5
+2015-2016,1. HNL,12,2015-10-03,Osijek,RNK Split,0,1,0.0
+2015-2016,1. HNL,12,2015-10-03,Inter Zaprešić,Dinamo Zagreb,2,2,0.5
+2015-2016,1. HNL,12,2015-10-04,Hajduk Split,Istra 1961,3,0,1.0
+2015-2016,1. HNL,12,2015-10-04,Rijeka,NK Zagreb,4,1,1.0
+2015-2016,1. HNL,13,2015-10-16,Dinamo Zagreb,NK Zagreb,4,1,1.0
+2015-2016,1. HNL,13,2015-10-17,Istra 1961,Osijek,2,1,1.0
+2015-2016,1. HNL,13,2015-10-17,Lokomotiva,Rijeka,1,2,0.0
+2015-2016,1. HNL,13,2015-10-18,Slaven Belupo,Hajduk Split,0,1,0.0
+2015-2016,1. HNL,13,2015-10-18,RNK Split,Inter Zaprešić,1,1,0.5
+2015-2016,1. HNL,14,2015-10-23,Osijek,Slaven Belupo,0,0,0.5
+2015-2016,1. HNL,14,2015-10-24,Inter Zaprešić,Istra 1961,3,0,1.0
+2015-2016,1. HNL,14,2015-10-24,Hajduk Split,Lokomotiva,2,1,1.0
+2015-2016,1. HNL,14,2015-10-25,Rijeka,Dinamo Zagreb,2,1,1.0
+2015-2016,1. HNL,14,2015-10-25,NK Zagreb,RNK Split,1,2,0.0
+2015-2016,1. HNL,15,2015-10-30,RNK Split,Dinamo Zagreb,1,0,1.0
+2015-2016,1. HNL,15,2015-10-31,Lokomotiva,Osijek,2,1,1.0
+2015-2016,1. HNL,15,2015-10-31,Istra 1961,NK Zagreb,0,0,0.5
+2015-2016,1. HNL,15,2015-11-01,Hajduk Split,Rijeka,0,3,0.0
+2015-2016,1. HNL,15,2015-11-01,Slaven Belupo,Inter Zaprešić,4,0,1.0
+2015-2016,1. HNL,16,2015-11-06,Inter Zaprešić,Lokomotiva,1,2,0.0
+2015-2016,1. HNL,16,2015-11-07,Osijek,Hajduk Split,1,0,1.0
+2015-2016,1. HNL,16,2015-11-07,NK Zagreb,Slaven Belupo,2,0,1.0
+2015-2016,1. HNL,16,2015-11-08,Dinamo Zagreb,Istra 1961,1,0,1.0
+2015-2016,1. HNL,16,2015-11-08,Rijeka,RNK Split,2,1,1.0
+2015-2016,1. HNL,17,2015-11-20,Slaven Belupo,Dinamo Zagreb,1,2,0.0
+2015-2016,1. HNL,17,2015-11-21,Osijek,Rijeka,1,1,0.5
+2015-2016,1. HNL,17,2015-11-21,Hajduk Split,Inter Zaprešić,4,0,1.0
+2015-2016,1. HNL,17,2015-11-22,Lokomotiva,NK Zagreb,2,0,1.0
+2015-2016,1. HNL,17,2015-11-22,Istra 1961,RNK Split,1,1,0.5
+2015-2016,1. HNL,18,2015-11-27,Inter Zaprešić,Osijek,0,0,0.5
+2015-2016,1. HNL,18,2015-11-27,RNK Split,Slaven Belupo,2,0,1.0
+2015-2016,1. HNL,18,2015-11-28,NK Zagreb,Hajduk Split,0,2,0.0
+2015-2016,1. HNL,18,2015-11-28,Rijeka,Istra 1961,1,0,1.0
+2015-2016,1. HNL,18,2015-11-29,Dinamo Zagreb,Lokomotiva,3,1,1.0
+2015-2016,1. HNL,19,2015-12-04,Inter Zaprešić,Rijeka,0,0,0.5
+2015-2016,1. HNL,19,2015-12-05,Dinamo Zagreb,Hajduk Split,2,1,1.0
+2015-2016,1. HNL,19,2015-12-05,RNK Split,Lokomotiva,1,1,0.5
+2015-2016,1. HNL,19,2015-12-06,NK Zagreb,Osijek,0,1,0.0
+2015-2016,1. HNL,19,2015-12-06,Istra 1961,Slaven Belupo,0,2,0.0
+2015-2016,1. HNL,20,2015-12-11,Inter Zaprešić,NK Zagreb,2,2,0.5
+2015-2016,1. HNL,20,2015-12-12,Lokomotiva,Istra 1961,3,2,1.0
+2015-2016,1. HNL,20,2015-12-12,Hajduk Split,RNK Split,0,0,0.5
+2015-2016,1. HNL,20,2015-12-13,Osijek,Dinamo Zagreb,0,1,0.0
+2015-2016,1. HNL,20,2015-12-13,Rijeka,Slaven Belupo,1,1,0.5
+2015-2016,1. HNL,21,2015-12-18,NK Zagreb,Rijeka,0,2,0.0
+2015-2016,1. HNL,21,2015-12-19,Dinamo Zagreb,Inter Zaprešić,1,0,1.0
+2015-2016,1. HNL,21,2015-12-19,Istra 1961,Hajduk Split,0,2,0.0
+2015-2016,1. HNL,21,2015-12-20,Slaven Belupo,Lokomotiva,0,3,0.0
+2015-2016,1. HNL,21,2015-12-20,RNK Split,Osijek,1,1,0.5
+2015-2016,1. HNL,22,2016-02-12,Rijeka,Lokomotiva,2,0,1.0
+2015-2016,1. HNL,22,2016-02-13,Osijek,Istra 1961,0,0,0.5
+2015-2016,1. HNL,22,2016-02-13,Hajduk Split,Slaven Belupo,2,0,1.0
+2015-2016,1. HNL,22,2016-02-14,Inter Zaprešić,RNK Split,1,1,0.5
+2015-2016,1. HNL,22,2016-02-14,NK Zagreb,Dinamo Zagreb,1,2,0.0
+2015-2016,1. HNL,23,2016-02-19,RNK Split,NK Zagreb,1,0,1.0
+2015-2016,1. HNL,23,2016-02-20,Lokomotiva,Hajduk Split,2,1,1.0
+2015-2016,1. HNL,23,2016-02-20,Istra 1961,Inter Zaprešić,1,2,0.0
+2015-2016,1. HNL,23,2016-02-21,Slaven Belupo,Osijek,1,0,1.0
+2015-2016,1. HNL,23,2016-02-21,Dinamo Zagreb,Rijeka,3,0,1.0
+2015-2016,1. HNL,24,2016-02-26,Inter Zaprešić,Slaven Belupo,2,1,1.0
+2015-2016,1. HNL,24,2016-02-26,NK Zagreb,Istra 1961,1,1,0.5
+2015-2016,1. HNL,24,2016-02-27,Osijek,Lokomotiva,1,3,0.0
+2015-2016,1. HNL,24,2016-02-27,Rijeka,Hajduk Split,1,0,1.0
+2015-2016,1. HNL,24,2016-02-28,Dinamo Zagreb,RNK Split,1,0,1.0
+2015-2016,1. HNL,25,2016-03-01,Slaven Belupo,NK Zagreb,3,0,1.0
+2015-2016,1. HNL,25,2016-03-01,Hajduk Split,Osijek,2,2,0.5
+2015-2016,1. HNL,25,2016-03-02,Lokomotiva,Inter Zaprešić,1,2,0.0
+2015-2016,1. HNL,25,2016-03-02,RNK Split,Rijeka,1,2,0.0
+2015-2016,1. HNL,25,2016-03-03,Istra 1961,Dinamo Zagreb,0,1,0.0
+2015-2016,1. HNL,26,2016-03-05,NK Zagreb,Lokomotiva,1,3,0.0
+2015-2016,1. HNL,26,2016-03-06,Dinamo Zagreb,Slaven Belupo,2,1,1.0
+2015-2016,1. HNL,26,2016-03-06,Rijeka,Osijek,2,1,1.0
+2015-2016,1. HNL,26,2016-03-07,RNK Split,Istra 1961,1,1,0.5
+2015-2016,1. HNL,26,2016-03-08,Inter Zaprešić,Hajduk Split,0,0,0.5
+2015-2016,1. HNL,27,2016-03-11,Osijek,Inter Zaprešić,1,0,1.0
+2015-2016,1. HNL,27,2016-03-12,Slaven Belupo,RNK Split,0,1,0.0
+2015-2016,1. HNL,27,2016-03-12,Istra 1961,Rijeka,0,1,0.0
+2015-2016,1. HNL,27,2016-03-13,Dinamo Zagreb,Lokomotiva,3,2,1.0
+2015-2016,1. HNL,27,2016-03-13,Hajduk Split,NK Zagreb,1,0,1.0
+2015-2016,1. HNL,28,2016-03-18,Osijek,NK Zagreb,2,0,1.0
+2015-2016,1. HNL,28,2016-03-19,Slaven Belupo,Istra 1961,2,0,1.0
+2015-2016,1. HNL,28,2016-03-19,Rijeka,Inter Zaprešić,4,0,1.0
+2015-2016,1. HNL,28,2016-03-20,Hajduk Split,Dinamo Zagreb,1,0,1.0
+2015-2016,1. HNL,28,2016-03-20,Lokomotiva,RNK Split,1,1,0.5
+2015-2016,1. HNL,29,2016-04-01,NK Zagreb,Inter Zaprešić,0,0,0.5
+2015-2016,1. HNL,29,2016-04-02,Istra 1961,Lokomotiva,0,3,0.0
+2015-2016,1. HNL,29,2016-04-02,Slaven Belupo,Rijeka,0,0,0.5
+2015-2016,1. HNL,29,2016-04-03,Dinamo Zagreb,Osijek,3,0,1.0
+2015-2016,1. HNL,29,2016-04-03,RNK Split,Hajduk Split,0,0,0.5
+2015-2016,1. HNL,30,2016-04-08,Osijek,RNK Split,0,0,0.5
+2015-2016,1. HNL,30,2016-04-09,Lokomotiva,Slaven Belupo,2,0,1.0
+2015-2016,1. HNL,30,2016-04-09,Rijeka,NK Zagreb,3,0,1.0
+2015-2016,1. HNL,30,2016-04-10,Inter Zaprešić,Dinamo Zagreb,0,1,0.0
+2015-2016,1. HNL,30,2016-04-10,Hajduk Split,Istra 1961,3,0,1.0
+2015-2016,1. HNL,31,2016-04-15,RNK Split,Inter Zaprešić,0,0,0.5
+2015-2016,1. HNL,31,2016-04-15,Istra 1961,Osijek,0,0,0.5
+2015-2016,1. HNL,31,2016-04-16,Lokomotiva,Rijeka,0,1,0.0
+2015-2016,1. HNL,31,2016-04-16,Dinamo Zagreb,NK Zagreb,1,0,1.0
+2015-2016,1. HNL,31,2016-04-17,Slaven Belupo,Hajduk Split,0,0,0.5
+2015-2016,1. HNL,32,2016-04-19,NK Zagreb,RNK Split,2,0,1.0
+2015-2016,1. HNL,32,2016-04-19,Rijeka,Dinamo Zagreb,0,0,0.5
+2015-2016,1. HNL,32,2016-04-20,Inter Zaprešić,Istra 1961,3,0,1.0
+2015-2016,1. HNL,32,2016-04-20,Hajduk Split,Lokomotiva,2,0,1.0
+2015-2016,1. HNL,32,2016-04-21,Osijek,Slaven Belupo,0,0,0.5
+2015-2016,1. HNL,33,2016-04-23,Istra 1961,NK Zagreb,1,4,0.0
+2015-2016,1. HNL,33,2016-04-23,RNK Split,Dinamo Zagreb,0,1,0.0
+2015-2016,1. HNL,33,2016-04-24,Hajduk Split,Rijeka,1,2,0.0
+2015-2016,1. HNL,33,2016-04-24,Lokomotiva,Osijek,2,0,1.0
+2015-2016,1. HNL,33,2016-04-25,Slaven Belupo,Inter Zaprešić,4,1,1.0
+2015-2016,1. HNL,34,2016-04-29,Inter Zaprešić,Lokomotiva,3,1,1.0
+2015-2016,1. HNL,34,2016-04-30,NK Zagreb,Slaven Belupo,0,3,0.0
+2015-2016,1. HNL,34,2016-04-30,Dinamo Zagreb,Istra 1961,1,0,1.0
+2015-2016,1. HNL,34,2016-05-01,Osijek,Hajduk Split,2,1,1.0
+2015-2016,1. HNL,34,2016-05-01,Rijeka,RNK Split,0,0,0.5
+2015-2016,1. HNL,35,2016-05-06,Slaven Belupo,Dinamo Zagreb,0,3,0.0
+2015-2016,1. HNL,35,2016-05-07,Lokomotiva,NK Zagreb,2,0,1.0
+2015-2016,1. HNL,35,2016-05-07,Osijek,Rijeka,1,1,0.5
+2015-2016,1. HNL,35,2016-05-08,Istra 1961,RNK Split,0,0,0.5
+2015-2016,1. HNL,35,2016-05-08,Hajduk Split,Inter Zaprešić,0,2,0.0
+2015-2016,1. HNL,36,2016-05-13,Inter Zaprešić,Osijek,4,2,1.0
+2015-2016,1. HNL,36,2016-05-14,NK Zagreb,Hajduk Split,2,3,0.0
+2015-2016,1. HNL,36,2016-05-14,Rijeka,Istra 1961,2,0,1.0
+2015-2016,1. HNL,36,2016-05-14,RNK Split,Slaven Belupo,0,2,0.0
+2015-2016,1. HNL,36,2016-05-14,Lokomotiva,Dinamo Zagreb,0,4,0.0
+2015-2016,Croatian 1/2 Relegation/Promotion Playoffs,,2016-05-29,Šibenik,Istra 1961,1,1,0.5
+2015-2016,Croatian 1/2 Relegation/Promotion Playoffs,,2016-06-01,Istra 1961,Šibenik,1,1,0.5

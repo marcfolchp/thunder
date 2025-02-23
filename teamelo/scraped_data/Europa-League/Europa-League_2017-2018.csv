@@ -1,0 +1,206 @@
+Season,Round,Wk,Date,Home,Away,Home_Country,Away_Country,Home_Goals,Away_Goals,Result
+2017-2018,Group stage,1,2017-09-14,Austria Wien,Milan,at,it,1,5,0.0
+2017-2018,Group stage,1,2017-09-14,Young Boys,Partizan,ch,rs,1,1,0.5
+2017-2018,Group stage,1,2017-09-14,Villarreal,FC Astana,es,kz,3,1,1.0
+2017-2018,Group stage,1,2017-09-14,Fastav Zlín,Sheriff Tiraspol,cz,md,0,0,0.5
+2017-2018,Group stage,1,2017-09-14,Hoffenheim,Braga,de,pt,1,2,0.0
+2017-2018,Group stage,1,2017-09-14,Atalanta,Everton,it,eng,3,0,1.0
+2017-2018,Group stage,1,2017-09-14,Slavia Prague,Maccabi Tel Aviv,cz,il,1,0,1.0
+2017-2018,Group stage,1,2017-09-14,Rijeka,AEK Athens,hr,gr,1,2,0.0
+2017-2018,Group stage,1,2017-09-14,FC Copenhagen,Loko Moscow,dk,ru,0,0,0.5
+2017-2018,Group stage,1,2017-09-14,Apollon Limassol,Lyon,cy,fr,1,1,0.5
+2017-2018,Group stage,1,2017-09-14,Başakşehir,Ludogorets,tr,bg,0,0,0.5
+2017-2018,Group stage,1,2017-09-14,Dynamo Kyiv,Skënderbeu Korçë,ua,al,3,1,1.0
+2017-2018,Group stage,1,2017-09-14,Vitória,RB Salzburg,pt,at,1,1,0.5
+2017-2018,Group stage,1,2017-09-14,FK Vardar,Zenit,mk,ru,0,5,0.0
+2017-2018,Group stage,1,2017-09-14,Zulte Waregem,Nice,be,fr,1,5,0.0
+2017-2018,Group stage,1,2017-09-14,Hertha BSC,Athletic Club,de,es,0,0,0.5
+2017-2018,Group stage,1,2017-09-14,Real Sociedad,Rosenborg,es,no,4,0,1.0
+2017-2018,Group stage,1,2017-09-14,Red Star,BATE Borisov,rs,by,1,1,0.5
+2017-2018,Group stage,1,2017-09-14,Vitesse,Lazio,nl,it,2,3,0.0
+2017-2018,Group stage,1,2017-09-14,Marseille,Konyaspor,fr,tr,1,0,1.0
+2017-2018,Group stage,1,2017-09-14,Arsenal,Köln,eng,de,3,1,1.0
+2017-2018,Group stage,1,2017-09-14,FCSB,Viktoria Plzeň,ro,cz,3,0,1.0
+2017-2018,Group stage,1,2017-09-14,Zorya Luhansk,Östersund,ua,se,0,2,0.0
+2017-2018,Group stage,1,2017-09-14,Be'er Sheva,Lugano,il,ch,2,1,1.0
+2017-2018,Group stage,2,2017-09-28,Östersund,Hertha BSC,se,de,1,0,1.0
+2017-2018,Group stage,2,2017-09-28,Athletic Club,Zorya Luhansk,es,ua,0,1,0.0
+2017-2018,Group stage,2,2017-09-28,Viktoria Plzeň,Be'er Sheva,cz,il,3,1,1.0
+2017-2018,Group stage,2,2017-09-28,Lazio,Zulte Waregem,it,be,2,0,1.0
+2017-2018,Group stage,2,2017-09-28,Köln,Red Star,de,rs,0,1,0.0
+2017-2018,Group stage,2,2017-09-28,Rosenborg,FK Vardar,no,mk,3,1,1.0
+2017-2018,Group stage,2,2017-09-28,Nice,Vitesse,fr,nl,3,0,1.0
+2017-2018,Group stage,2,2017-09-28,RB Salzburg,Marseille,at,fr,1,0,1.0
+2017-2018,Group stage,2,2017-09-28,Lugano,FCSB,ch,ro,1,2,0.0
+2017-2018,Group stage,2,2017-09-28,BATE Borisov,Arsenal,by,eng,2,4,0.0
+2017-2018,Group stage,2,2017-09-28,Konyaspor,Vitória,tr,pt,2,1,1.0
+2017-2018,Group stage,2,2017-09-28,Zenit,Real Sociedad,ru,es,3,1,1.0
+2017-2018,Group stage,2,2017-09-28,Braga,Başakşehir,pt,tr,2,1,1.0
+2017-2018,Group stage,2,2017-09-28,Everton,Apollon Limassol,eng,cy,2,2,0.5
+2017-2018,Group stage,2,2017-09-28,FC Astana,Slavia Prague,kz,cz,1,1,0.5
+2017-2018,Group stage,2,2017-09-28,Milan,Rijeka,it,hr,3,2,1.0
+2017-2018,Group stage,2,2017-09-28,Skënderbeu Korçë,Young Boys,al,ch,1,1,0.5
+2017-2018,Group stage,2,2017-09-28,Lyon,Atalanta,fr,it,1,1,0.5
+2017-2018,Group stage,2,2017-09-28,Partizan,Dynamo Kyiv,rs,ua,2,3,0.0
+2017-2018,Group stage,2,2017-09-28,AEK Athens,Austria Wien,gr,at,2,2,0.5
+2017-2018,Group stage,2,2017-09-28,Maccabi Tel Aviv,Villarreal,il,es,0,0,0.5
+2017-2018,Group stage,2,2017-09-28,Sheriff Tiraspol,FC Copenhagen,md,dk,0,0,0.5
+2017-2018,Group stage,2,2017-09-28,Ludogorets,Hoffenheim,bg,de,2,1,1.0
+2017-2018,Group stage,2,2017-09-28,Loko Moscow,Fastav Zlín,ru,cz,3,0,1.0
+2017-2018,Group stage,3,2017-10-19,Zulte Waregem,Vitesse,be,nl,1,1,0.5
+2017-2018,Group stage,3,2017-10-19,Lugano,Viktoria Plzeň,ch,cz,3,2,1.0
+2017-2018,Group stage,3,2017-10-19,Red Star,Arsenal,rs,eng,0,1,0.0
+2017-2018,Group stage,3,2017-10-19,Östersund,Athletic Club,se,es,2,2,0.5
+2017-2018,Group stage,3,2017-10-19,Marseille,Vitória,fr,pt,2,1,1.0
+2017-2018,Group stage,3,2017-10-19,Nice,Lazio,fr,it,1,3,0.0
+2017-2018,Group stage,3,2017-10-19,Be'er Sheva,FCSB,il,ro,1,2,0.0
+2017-2018,Group stage,3,2017-10-19,FK Vardar,Real Sociedad,mk,es,0,6,0.0
+2017-2018,Group stage,3,2017-10-19,BATE Borisov,Köln,by,de,1,0,1.0
+2017-2018,Group stage,3,2017-10-19,Konyaspor,RB Salzburg,tr,at,0,2,0.0
+2017-2018,Group stage,3,2017-10-19,Zorya Luhansk,Hertha BSC,ua,de,2,1,1.0
+2017-2018,Group stage,3,2017-10-19,Zenit,Rosenborg,ru,no,3,1,1.0
+2017-2018,Group stage,3,2017-10-19,Everton,Lyon,eng,fr,1,2,0.0
+2017-2018,Group stage,3,2017-10-19,Braga,Ludogorets,pt,bg,0,2,0.0
+2017-2018,Group stage,3,2017-10-19,FC Astana,Maccabi Tel Aviv,kz,il,4,0,1.0
+2017-2018,Group stage,3,2017-10-19,Milan,AEK Athens,it,gr,0,0,0.5
+2017-2018,Group stage,3,2017-10-19,Skënderbeu Korçë,Partizan,al,rs,0,0,0.5
+2017-2018,Group stage,3,2017-10-19,Hoffenheim,Başakşehir,de,tr,3,1,1.0
+2017-2018,Group stage,3,2017-10-19,Atalanta,Apollon Limassol,it,cy,3,1,1.0
+2017-2018,Group stage,3,2017-10-19,Villarreal,Slavia Prague,es,cz,2,2,0.5
+2017-2018,Group stage,3,2017-10-19,Fastav Zlín,FC Copenhagen,cz,dk,1,1,0.5
+2017-2018,Group stage,3,2017-10-19,Austria Wien,Rijeka,at,hr,1,3,0.0
+2017-2018,Group stage,3,2017-10-19,Sheriff Tiraspol,Loko Moscow,md,ru,1,1,0.5
+2017-2018,Group stage,3,2017-10-19,Dynamo Kyiv,Young Boys,ua,ch,2,2,0.5
+2017-2018,Group stage,4,2017-11-02,FC Copenhagen,Fastav Zlín,dk,cz,3,0,1.0
+2017-2018,Group stage,4,2017-11-02,Slavia Prague,Villarreal,cz,es,0,2,0.0
+2017-2018,Group stage,4,2017-11-02,Partizan,Skënderbeu Korçë,rs,al,2,0,1.0
+2017-2018,Group stage,4,2017-11-02,Rijeka,Austria Wien,hr,at,1,4,0.0
+2017-2018,Group stage,4,2017-11-02,Lyon,Everton,fr,eng,3,0,1.0
+2017-2018,Group stage,4,2017-11-02,Young Boys,Dynamo Kyiv,ch,ua,0,1,0.0
+2017-2018,Group stage,4,2017-11-02,Maccabi Tel Aviv,FC Astana,il,kz,0,1,0.0
+2017-2018,Group stage,4,2017-11-02,AEK Athens,Milan,gr,it,0,0,0.5
+2017-2018,Group stage,4,2017-11-02,Ludogorets,Braga,bg,pt,1,1,0.5
+2017-2018,Group stage,4,2017-11-02,Apollon Limassol,Atalanta,cy,it,1,1,0.5
+2017-2018,Group stage,4,2017-11-02,Arsenal,Red Star,eng,rs,0,0,0.5
+2017-2018,Group stage,4,2017-11-02,Vitória,Marseille,pt,fr,1,0,1.0
+2017-2018,Group stage,4,2017-11-02,Loko Moscow,Sheriff Tiraspol,ru,md,1,2,0.0
+2017-2018,Group stage,4,2017-11-02,Başakşehir,Hoffenheim,tr,de,1,1,0.5
+2017-2018,Group stage,4,2017-11-02,Viktoria Plzeň,Lugano,cz,ch,4,1,1.0
+2017-2018,Group stage,4,2017-11-02,Rosenborg,Zenit,no,ru,1,1,0.5
+2017-2018,Group stage,4,2017-11-02,RB Salzburg,Konyaspor,at,tr,0,0,0.5
+2017-2018,Group stage,4,2017-11-02,Real Sociedad,FK Vardar,es,mk,3,0,1.0
+2017-2018,Group stage,4,2017-11-02,Lazio,Nice,it,fr,1,0,1.0
+2017-2018,Group stage,4,2017-11-02,Vitesse,Zulte Waregem,nl,be,0,2,0.0
+2017-2018,Group stage,4,2017-11-02,Athletic Club,Östersund,es,se,1,0,1.0
+2017-2018,Group stage,4,2017-11-02,Köln,BATE Borisov,de,by,5,2,1.0
+2017-2018,Group stage,4,2017-11-02,Hertha BSC,Zorya Luhansk,de,ua,2,0,1.0
+2017-2018,Group stage,4,2017-11-02,FCSB,Be'er Sheva,ro,il,1,1,0.5
+2017-2018,Group stage,5,2017-11-23,Köln,Arsenal,de,eng,1,0,1.0
+2017-2018,Group stage,5,2017-11-23,Athletic Club,Hertha BSC,es,de,3,2,1.0
+2017-2018,Group stage,5,2017-11-23,Lugano,Be'er Sheva,ch,il,1,0,1.0
+2017-2018,Group stage,5,2017-11-23,Rosenborg,Real Sociedad,no,es,0,1,0.0
+2017-2018,Group stage,5,2017-11-23,Lazio,Vitesse,it,nl,1,1,0.5
+2017-2018,Group stage,5,2017-11-23,Viktoria Plzeň,FCSB,cz,ro,2,0,1.0
+2017-2018,Group stage,5,2017-11-23,RB Salzburg,Vitória,at,pt,3,0,1.0
+2017-2018,Group stage,5,2017-11-23,Östersund,Zorya Luhansk,se,ua,2,0,1.0
+2017-2018,Group stage,5,2017-11-23,Nice,Zulte Waregem,fr,be,3,1,1.0
+2017-2018,Group stage,5,2017-11-23,Braga,Hoffenheim,pt,de,3,1,1.0
+2017-2018,Group stage,5,2017-11-23,Everton,Atalanta,eng,it,1,5,0.0
+2017-2018,Group stage,5,2017-11-23,Konyaspor,Marseille,tr,fr,1,1,0.5
+2017-2018,Group stage,5,2017-11-23,Zenit,FK Vardar,ru,mk,2,1,1.0
+2017-2018,Group stage,5,2017-11-23,BATE Borisov,Red Star,by,rs,0,0,0.5
+2017-2018,Group stage,5,2017-11-23,Loko Moscow,FC Copenhagen,ru,dk,2,1,1.0
+2017-2018,Group stage,5,2017-11-23,Milan,Austria Wien,it,at,5,1,1.0
+2017-2018,Group stage,5,2017-11-23,Skënderbeu Korçë,Dynamo Kyiv,al,ua,3,2,1.0
+2017-2018,Group stage,5,2017-11-23,Lyon,Apollon Limassol,fr,cy,4,0,1.0
+2017-2018,Group stage,5,2017-11-23,Partizan,Young Boys,rs,ch,2,1,1.0
+2017-2018,Group stage,5,2017-11-23,FC Astana,Villarreal,kz,es,2,3,0.0
+2017-2018,Group stage,5,2017-11-23,AEK Athens,Rijeka,gr,hr,2,2,0.5
+2017-2018,Group stage,5,2017-11-23,Sheriff Tiraspol,Fastav Zlín,md,cz,1,0,1.0
+2017-2018,Group stage,5,2017-11-23,Maccabi Tel Aviv,Slavia Prague,il,cz,0,2,0.0
+2017-2018,Group stage,5,2017-11-23,Ludogorets,Başakşehir,bg,tr,1,2,0.0
+2017-2018,Group stage,6,2017-12-07,Fastav Zlín,Loko Moscow,cz,ru,0,2,0.0
+2017-2018,Group stage,6,2017-12-07,Young Boys,Skënderbeu Korçë,ch,al,2,1,1.0
+2017-2018,Group stage,6,2017-12-07,Villarreal,Maccabi Tel Aviv,es,il,0,1,0.0
+2017-2018,Group stage,6,2017-12-07,Apollon Limassol,Everton,cy,eng,0,3,0.0
+2017-2018,Group stage,6,2017-12-07,FC Copenhagen,Sheriff Tiraspol,dk,md,2,0,1.0
+2017-2018,Group stage,6,2017-12-07,Atalanta,Lyon,it,fr,1,0,1.0
+2017-2018,Group stage,6,2017-12-07,Slavia Prague,FC Astana,cz,kz,0,1,0.0
+2017-2018,Group stage,6,2017-12-07,Austria Wien,AEK Athens,at,gr,0,0,0.5
+2017-2018,Group stage,6,2017-12-07,Hoffenheim,Ludogorets,de,bg,1,1,0.5
+2017-2018,Group stage,6,2017-12-07,Rijeka,Milan,hr,it,2,0,1.0
+2017-2018,Group stage,6,2017-12-07,Dynamo Kyiv,Partizan,ua,rs,4,1,1.0
+2017-2018,Group stage,6,2017-12-07,Arsenal,BATE Borisov,eng,by,6,0,1.0
+2017-2018,Group stage,6,2017-12-07,Vitória,Konyaspor,pt,tr,1,1,0.5
+2017-2018,Group stage,6,2017-12-07,Başakşehir,Braga,tr,pt,2,1,1.0
+2017-2018,Group stage,6,2017-12-07,Vitesse,Nice,nl,fr,1,0,1.0
+2017-2018,Group stage,6,2017-12-07,Real Sociedad,Zenit,es,ru,1,3,0.0
+2017-2018,Group stage,6,2017-12-07,Hertha BSC,Östersund,de,se,1,1,0.5
+2017-2018,Group stage,6,2017-12-07,Zulte Waregem,Lazio,be,it,3,2,1.0
+2017-2018,Group stage,6,2017-12-07,FK Vardar,Rosenborg,mk,no,1,1,0.5
+2017-2018,Group stage,6,2017-12-07,Marseille,RB Salzburg,fr,at,0,0,0.5
+2017-2018,Group stage,6,2017-12-07,Red Star,Köln,rs,de,1,0,1.0
+2017-2018,Group stage,6,2017-12-07,Zorya Luhansk,Athletic Club,ua,es,0,2,0.0
+2017-2018,Group stage,6,2017-12-07,Be'er Sheva,Viktoria Plzeň,il,cz,0,2,0.0
+2017-2018,Group stage,6,2017-12-07,FCSB,Lugano,ro,ch,1,2,0.0
+2017-2018,Round of 32,,2018-02-13,Red Star,CSKA Moscow,rs,ru,0,0,0.5
+2017-2018,Round of 32,,2018-02-16,Dortmund,Atalanta,de,it,3,2,1.0
+2017-2018,Round of 32,,2018-02-15,Marseille,Braga,fr,pt,3,0,1.0
+2017-2018,Round of 32,,2018-02-15,Nice,Loko Moscow,fr,ru,2,3,0.0
+2017-2018,Round of 32,,2018-02-15,Östersund,Arsenal,se,eng,0,3,0.0
+2017-2018,Round of 32,,2018-02-15,Real Sociedad,RB Salzburg,es,at,2,2,0.5
+2017-2018,Round of 32,,2018-02-15,Ludogorets,Milan,bg,it,0,3,0.0
+2017-2018,Round of 32,,2018-02-15,Celtic,Zenit,sct,ru,1,0,1.0
+2017-2018,Round of 32,,2018-02-15,Spartak Moscow,Athletic Club,ru,es,1,3,0.0
+2017-2018,Round of 32,,2018-02-15,Napoli,RB Leipzig,it,de,1,3,0.0
+2017-2018,Round of 32,,2018-02-15,Partizan,Viktoria Plzeň,rs,cz,1,1,0.5
+2017-2018,Round of 32,,2018-02-15,AEK Athens,Dynamo Kyiv,gr,ua,1,1,0.5
+2017-2018,Round of 32,,2018-02-15,FC Copenhagen,Atlético Madrid,dk,es,1,4,0.0
+2017-2018,Round of 32,,2018-02-15,Lyon,Villarreal,fr,es,3,1,1.0
+2017-2018,Round of 32,,2018-02-15,FC Astana,Sporting CP,kz,pt,1,3,0.0
+2017-2018,Round of 32,,2018-02-15,FCSB,Lazio,ro,it,1,0,1.0
+2017-2018,Round of 32,,2018-02-21,CSKA Moscow,Red Star,ru,rs,1,0,1.0
+2017-2018,Round of 32,,2018-02-22,Sporting CP,FC Astana,pt,kz,3,3,0.5
+2017-2018,Round of 32,,2018-02-22,Viktoria Plzeň,Partizan,cz,rs,2,0,1.0
+2017-2018,Round of 32,,2018-02-22,Villarreal,Lyon,es,fr,0,1,0.0
+2017-2018,Round of 32,,2018-02-22,Atlético Madrid,FC Copenhagen,es,dk,1,0,1.0
+2017-2018,Round of 32,,2018-02-22,Loko Moscow,Nice,ru,fr,1,0,1.0
+2017-2018,Round of 32,,2018-02-22,Lazio,FCSB,it,ro,5,1,1.0
+2017-2018,Round of 32,,2018-02-22,RB Leipzig,Napoli,de,it,0,2,0.0
+2017-2018,Round of 32,,2018-02-22,Dynamo Kyiv,AEK Athens,ua,gr,0,0,0.5
+2017-2018,Round of 32,,2018-02-22,Braga,Marseille,pt,fr,1,0,1.0
+2017-2018,Round of 32,,2018-02-22,Arsenal,Östersund,eng,se,1,2,0.0
+2017-2018,Round of 32,,2018-02-22,Zenit,Celtic,ru,sct,3,0,1.0
+2017-2018,Round of 32,,2018-02-22,RB Salzburg,Real Sociedad,at,es,2,1,1.0
+2017-2018,Round of 32,,2018-02-22,Atalanta,Dortmund,it,de,1,1,0.5
+2017-2018,Round of 32,,2018-02-22,Athletic Club,Spartak Moscow,es,ru,1,2,0.0
+2017-2018,Round of 32,,2018-02-22,Milan,Ludogorets,it,bg,1,0,1.0
+2017-2018,Round of 16,,2018-03-08,Dortmund,RB Salzburg,de,at,1,2,0.0
+2017-2018,Round of 16,,2018-03-08,Atlético Madrid,Loko Moscow,es,ru,3,0,1.0
+2017-2018,Round of 16,,2018-03-08,Milan,Arsenal,it,eng,0,2,0.0
+2017-2018,Round of 16,,2018-03-08,Sporting CP,Viktoria Plzeň,pt,cz,2,0,1.0
+2017-2018,Round of 16,,2018-03-08,CSKA Moscow,Lyon,ru,fr,0,1,0.0
+2017-2018,Round of 16,,2018-03-08,RB Leipzig,Zenit,de,ru,2,1,1.0
+2017-2018,Round of 16,,2018-03-08,Marseille,Athletic Club,fr,es,3,1,1.0
+2017-2018,Round of 16,,2018-03-08,Lazio,Dynamo Kyiv,it,ua,2,2,0.5
+2017-2018,Round of 16,,2018-03-15,Loko Moscow,Atlético Madrid,ru,es,1,5,0.0
+2017-2018,Round of 16,,2018-03-15,Viktoria Plzeň,Sporting CP,cz,pt,2,1,1.0
+2017-2018,Round of 16,,2018-03-15,Athletic Club,Marseille,es,fr,1,2,0.0
+2017-2018,Round of 16,,2018-03-15,Dynamo Kyiv,Lazio,ua,it,0,2,0.0
+2017-2018,Round of 16,,2018-03-15,Arsenal,Milan,eng,it,3,1,1.0
+2017-2018,Round of 16,,2018-03-15,Zenit,RB Leipzig,ru,de,1,1,0.5
+2017-2018,Round of 16,,2018-03-15,Lyon,CSKA Moscow,fr,ru,2,3,0.0
+2017-2018,Round of 16,,2018-03-15,RB Salzburg,Dortmund,at,de,0,0,0.5
+2017-2018,Quarter-finals,,2018-04-05,Arsenal,CSKA Moscow,eng,ru,4,1,1.0
+2017-2018,Quarter-finals,,2018-04-05,RB Leipzig,Marseille,de,fr,1,0,1.0
+2017-2018,Quarter-finals,,2018-04-05,Atlético Madrid,Sporting CP,es,pt,2,0,1.0
+2017-2018,Quarter-finals,,2018-04-05,Lazio,RB Salzburg,it,at,4,2,1.0
+2017-2018,Quarter-finals,,2018-04-12,Sporting CP,Atlético Madrid,pt,es,1,0,1.0
+2017-2018,Quarter-finals,,2018-04-12,RB Salzburg,Lazio,at,it,4,1,1.0
+2017-2018,Quarter-finals,,2018-04-12,Marseille,RB Leipzig,fr,de,5,2,1.0
+2017-2018,Quarter-finals,,2018-04-12,CSKA Moscow,Arsenal,ru,eng,2,2,0.5
+2017-2018,Semi-finals,,2018-04-26,Arsenal,Atlético Madrid,eng,es,1,1,0.5
+2017-2018,Semi-finals,,2018-04-26,Marseille,RB Salzburg,fr,at,2,0,1.0
+2017-2018,Semi-finals,,2018-05-03,Atlético Madrid,Arsenal,es,eng,1,0,1.0
+2017-2018,Semi-finals,,2018-05-03,RB Salzburg,Marseille,at,fr,2,1,1.0
+2017-2018,Final,,2018-05-16,Marseille,Atlético Madrid,fr,es,0,3,0.0

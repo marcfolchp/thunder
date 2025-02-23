@@ -1,0 +1,284 @@
+Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2023-2024,Regular season,1,2023-07-14,Pirin Blagoevgrad,Beroe,1,2,0.0
+2023-2024,Regular season,1,2023-07-14,FK Levski 2005,Ludogorets,3,1,1.0
+2023-2024,Regular season,1,2023-07-15,Levski Sofia,CSKA 1948,1,2,0.0
+2023-2024,Regular season,1,2023-07-15,Arda,Cherno More,3,3,0.5
+2023-2024,Regular season,1,2023-07-16,Loko Plovdiv,Botev Plovdiv,1,1,0.5
+2023-2024,Regular season,1,2023-07-16,PFC Hebar Pazardzhik,CSKA Sofia,0,0,0.5
+2023-2024,Regular season,1,2023-07-17,Lokomotiv Sofia,Botev Vratsa,1,0,1.0
+2023-2024,Regular season,1,2023-07-17,Etar,Slavia Sofia,0,1,0.0
+2023-2024,Regular season,2,2023-07-21,CSKA 1948,Pirin Blagoevgrad,3,0,1.0
+2023-2024,Regular season,2,2023-07-21,CSKA Sofia,FK Levski 2005,1,0,1.0
+2023-2024,Regular season,2,2023-07-22,Botev Plovdiv,Levski Sofia,1,3,0.0
+2023-2024,Regular season,2,2023-07-22,Ludogorets,Etar,5,0,1.0
+2023-2024,Regular season,2,2023-07-23,Cherno More,PFC Hebar Pazardzhik,1,0,1.0
+2023-2024,Regular season,2,2023-07-23,Lokomotiv Sofia,Loko Plovdiv,2,4,0.0
+2023-2024,Regular season,2,2023-07-24,Botev Vratsa,Slavia Sofia,2,0,1.0
+2023-2024,Regular season,2,2023-07-24,Beroe,Arda,1,0,1.0
+2023-2024,Regular season,3,2023-07-28,FK Levski 2005,Cherno More,1,3,0.0
+2023-2024,Regular season,3,2023-07-29,PFC Hebar Pazardzhik,Beroe,1,0,1.0
+2023-2024,Regular season,3,2023-07-29,Pirin Blagoevgrad,Botev Plovdiv,0,0,0.5
+2023-2024,Regular season,3,2023-07-30,Levski Sofia,Lokomotiv Sofia,6,0,1.0
+2023-2024,Regular season,3,2023-07-31,Loko Plovdiv,Botev Vratsa,4,0,1.0
+2023-2024,Regular season,4,2023-08-04,Cherno More,Etar,2,1,1.0
+2023-2024,Regular season,4,2023-08-04,Botev Plovdiv,Arda,0,2,0.0
+2023-2024,Regular season,4,2023-08-05,Botev Vratsa,Ludogorets,0,5,0.0
+2023-2024,Regular season,4,2023-08-05,Lokomotiv Sofia,Pirin Blagoevgrad,2,0,1.0
+2023-2024,Regular season,4,2023-08-06,CSKA Sofia,Slavia Sofia,1,1,0.5
+2023-2024,Regular season,4,2023-08-06,Loko Plovdiv,Levski Sofia,2,1,1.0
+2023-2024,Regular season,4,2023-08-07,CSKA 1948,PFC Hebar Pazardzhik,1,1,0.5
+2023-2024,Regular season,4,2023-08-07,Beroe,FK Levski 2005,2,0,1.0
+2023-2024,Regular season,5,2023-08-11,Arda,Lokomotiv Sofia,1,0,1.0
+2023-2024,Regular season,5,2023-08-11,Pirin Blagoevgrad,Loko Plovdiv,0,1,0.0
+2023-2024,Regular season,5,2023-08-12,PFC Hebar Pazardzhik,Botev Plovdiv,1,0,1.0
+2023-2024,Regular season,5,2023-08-12,Slavia Sofia,Cherno More,1,5,0.0
+2023-2024,Regular season,5,2023-08-13,Levski Sofia,Botev Vratsa,1,0,1.0
+2023-2024,Regular season,5,2023-08-13,Ludogorets,CSKA Sofia,3,0,1.0
+2023-2024,Regular season,5,2023-08-14,Etar,Beroe,2,2,0.5
+2023-2024,Regular season,5,2023-08-14,FK Levski 2005,CSKA 1948,1,0,1.0
+2023-2024,Regular season,6,2023-08-18,Lokomotiv Sofia,PFC Hebar Pazardzhik,0,1,0.0
+2023-2024,Regular season,6,2023-08-18,Loko Plovdiv,Arda,1,0,1.0
+2023-2024,Regular season,6,2023-08-19,Beroe,Slavia Sofia,3,0,1.0
+2023-2024,Regular season,6,2023-08-19,Botev Vratsa,CSKA Sofia,0,2,0.0
+2023-2024,Regular season,6,2023-08-20,Botev Plovdiv,FK Levski 2005,1,2,0.0
+2023-2024,Regular season,6,2023-08-20,Cherno More,Ludogorets,1,0,1.0
+2023-2024,Regular season,6,2023-08-21,CSKA 1948,Etar,1,0,1.0
+2023-2024,Regular season,7,2023-08-25,Pirin Blagoevgrad,Botev Vratsa,0,1,0.0
+2023-2024,Regular season,7,2023-08-25,PFC Hebar Pazardzhik,Loko Plovdiv,3,4,0.0
+2023-2024,Regular season,7,2023-08-26,FK Levski 2005,Lokomotiv Sofia,2,0,1.0
+2023-2024,Regular season,7,2023-08-26,CSKA Sofia,Cherno More,1,1,0.5
+2023-2024,Regular season,7,2023-08-27,Etar,Botev Plovdiv,1,2,0.0
+2023-2024,Regular season,7,2023-08-27,Ludogorets,Beroe,5,0,1.0
+2023-2024,Regular season,7,2023-08-28,Slavia Sofia,CSKA 1948,0,2,0.0
+2023-2024,Regular season,8,2023-09-01,Pirin Blagoevgrad,Arda,0,2,0.0
+2023-2024,Regular season,8,2023-09-01,Botev Vratsa,Cherno More,0,1,0.0
+2023-2024,Regular season,8,2023-09-01,Botev Plovdiv,Slavia Sofia,3,1,1.0
+2023-2024,Regular season,8,2023-09-02,Lokomotiv Sofia,Etar,1,3,0.0
+2023-2024,Regular season,8,2023-09-02,Beroe,CSKA Sofia,0,3,0.0
+2023-2024,Regular season,8,2023-09-03,Loko Plovdiv,FK Levski 2005,4,0,1.0
+2023-2024,Regular season,8,2023-09-03,Levski Sofia,PFC Hebar Pazardzhik,1,0,1.0
+2023-2024,Regular season,6,2023-09-14,Levski Sofia,Pirin Blagoevgrad,2,0,1.0
+2023-2024,Regular season,9,2023-09-15,Arda,Botev Vratsa,4,0,1.0
+2023-2024,Regular season,9,2023-09-15,Cherno More,Beroe,2,0,1.0
+2023-2024,Regular season,9,2023-09-16,Slavia Sofia,Lokomotiv Sofia,1,2,0.0
+2023-2024,Regular season,9,2023-09-16,Ludogorets,Botev Plovdiv,2,2,0.5
+2023-2024,Regular season,9,2023-09-17,Etar,Loko Plovdiv,0,1,0.0
+2023-2024,Regular season,9,2023-09-17,CSKA Sofia,CSKA 1948,2,0,1.0
+2023-2024,Regular season,9,2023-09-18,PFC Hebar Pazardzhik,Pirin Blagoevgrad,1,2,0.0
+2023-2024,Regular season,9,2023-09-18,FK Levski 2005,Levski Sofia,2,2,0.5
+2023-2024,Regular season,10,2023-09-22,Botev Vratsa,Beroe,1,0,1.0
+2023-2024,Regular season,10,2023-09-22,CSKA 1948,Cherno More,1,1,0.5
+2023-2024,Regular season,10,2023-09-22,Botev Plovdiv,CSKA Sofia,1,2,0.0
+2023-2024,Regular season,10,2023-09-23,Arda,PFC Hebar Pazardzhik,3,1,1.0
+2023-2024,Regular season,10,2023-09-23,Loko Plovdiv,Slavia Sofia,2,0,1.0
+2023-2024,Regular season,10,2023-09-23,Levski Sofia,Etar,1,0,1.0
+2023-2024,Regular season,10,2023-09-24,Pirin Blagoevgrad,FK Levski 2005,1,0,1.0
+2023-2024,Regular season,10,2023-09-24,Lokomotiv Sofia,Ludogorets,1,3,0.0
+2023-2024,Regular season,11,2023-09-26,Beroe,CSKA 1948,0,0,0.5
+2023-2024,Regular season,11,2023-09-26,Cherno More,Botev Plovdiv,1,0,1.0
+2023-2024,Regular season,11,2023-09-27,PFC Hebar Pazardzhik,Botev Vratsa,1,1,0.5
+2023-2024,Regular season,11,2023-09-27,Slavia Sofia,Levski Sofia,0,2,0.0
+2023-2024,Regular season,11,2023-09-27,Ludogorets,Loko Plovdiv,1,1,0.5
+2023-2024,Regular season,11,2023-09-28,Etar,Pirin Blagoevgrad,0,2,0.0
+2023-2024,Regular season,11,2023-09-28,FK Levski 2005,Arda,1,3,0.0
+2023-2024,Regular season,11,2023-09-28,CSKA Sofia,Lokomotiv Sofia,2,0,1.0
+2023-2024,Regular season,12,2023-09-30,Botev Vratsa,CSKA 1948,1,2,0.0
+2023-2024,Regular season,12,2023-09-30,Botev Plovdiv,Beroe,4,1,1.0
+2023-2024,Regular season,12,2023-10-01,Arda,Etar,3,0,1.0
+2023-2024,Regular season,12,2023-10-01,Lokomotiv Sofia,Cherno More,0,0,0.5
+2023-2024,Regular season,12,2023-10-01,Levski Sofia,Ludogorets,0,1,0.0
+2023-2024,Regular season,12,2023-10-02,PFC Hebar Pazardzhik,FK Levski 2005,0,0,0.5
+2023-2024,Regular season,12,2023-10-02,Pirin Blagoevgrad,Slavia Sofia,1,1,0.5
+2023-2024,Regular season,12,2023-10-02,Loko Plovdiv,CSKA Sofia,0,2,0.0
+2023-2024,Regular season,13,2023-10-06,FK Levski 2005,Botev Vratsa,1,0,1.0
+2023-2024,Regular season,13,2023-10-06,Beroe,Lokomotiv Sofia,0,1,0.0
+2023-2024,Regular season,13,2023-10-07,CSKA Sofia,Levski Sofia,1,1,0.5
+2023-2024,Regular season,13,2023-10-07,Slavia Sofia,Arda,1,0,1.0
+2023-2024,Regular season,13,2023-10-07,Cherno More,Loko Plovdiv,2,2,0.5
+2023-2024,Regular season,13,2023-10-08,Etar,PFC Hebar Pazardzhik,2,5,0.0
+2023-2024,Regular season,13,2023-10-08,CSKA 1948,Botev Plovdiv,1,0,1.0
+2023-2024,Regular season,13,2023-10-08,Ludogorets,Pirin Blagoevgrad,4,0,1.0
+2023-2024,Regular season,14,2023-10-20,FK Levski 2005,Etar,0,0,0.5
+2023-2024,Regular season,14,2023-10-20,Loko Plovdiv,Beroe,1,2,0.0
+2023-2024,Regular season,14,2023-10-21,Botev Vratsa,Botev Plovdiv,3,5,0.0
+2023-2024,Regular season,14,2023-10-21,Lokomotiv Sofia,CSKA 1948,0,0,0.5
+2023-2024,Regular season,14,2023-10-21,Pirin Blagoevgrad,CSKA Sofia,1,2,0.0
+2023-2024,Regular season,14,2023-10-22,PFC Hebar Pazardzhik,Slavia Sofia,1,0,1.0
+2023-2024,Regular season,14,2023-10-22,Levski Sofia,Cherno More,1,0,1.0
+2023-2024,Regular season,14,2023-10-22,Arda,Ludogorets,0,0,0.5
+2023-2024,Regular season,15,2023-10-25,Etar,Botev Vratsa,2,1,1.0
+2023-2024,Regular season,15,2023-10-26,Botev Plovdiv,Lokomotiv Sofia,6,0,1.0
+2023-2024,Regular season,15,2023-10-26,Cherno More,Pirin Blagoevgrad,2,1,1.0
+2023-2024,Regular season,15,2023-10-26,CSKA 1948,Loko Plovdiv,1,1,0.5
+2023-2024,Regular season,15,2023-10-27,Slavia Sofia,FK Levski 2005,2,0,1.0
+2023-2024,Regular season,15,2023-10-27,CSKA Sofia,Arda,0,0,0.5
+2023-2024,Regular season,15,2023-10-27,Beroe,Levski Sofia,2,1,1.0
+2023-2024,Regular season,15,2023-10-29,Ludogorets,PFC Hebar Pazardzhik,3,1,1.0
+2023-2024,Regular season,3,2023-11-01,Etar,CSKA Sofia,0,1,0.0
+2023-2024,Regular season,7,2023-11-01,Arda,Levski Sofia,0,0,0.5
+2023-2024,Regular season,3,2023-11-02,Slavia Sofia,Ludogorets,0,2,0.0
+2023-2024,Regular season,16,2023-11-03,Beroe,Pirin Blagoevgrad,0,0,0.5
+2023-2024,Regular season,16,2023-11-03,Botev Plovdiv,Loko Plovdiv,0,0,0.5
+2023-2024,Regular season,16,2023-11-05,Ludogorets,FK Levski 2005,1,0,1.0
+2023-2024,Regular season,16,2023-11-06,Botev Vratsa,Lokomotiv Sofia,0,2,0.0
+2023-2024,Regular season,16,2023-11-06,Slavia Sofia,Etar,1,0,1.0
+2023-2024,Regular season,16,2023-11-06,CSKA Sofia,PFC Hebar Pazardzhik,3,0,1.0
+2023-2024,Regular season,16,2023-11-07,Cherno More,Arda,1,0,1.0
+2023-2024,Regular season,16,2023-11-07,CSKA 1948,Levski Sofia,1,0,1.0
+2023-2024,Regular season,17,2023-11-10,Slavia Sofia,Botev Vratsa,1,0,1.0
+2023-2024,Regular season,17,2023-11-10,Loko Plovdiv,Lokomotiv Sofia,2,1,1.0
+2023-2024,Regular season,17,2023-11-11,PFC Hebar Pazardzhik,Cherno More,1,1,0.5
+2023-2024,Regular season,17,2023-11-11,Pirin Blagoevgrad,CSKA 1948,2,1,1.0
+2023-2024,Regular season,17,2023-11-11,Arda,Beroe,1,0,1.0
+2023-2024,Regular season,17,2023-11-12,FK Levski 2005,CSKA Sofia,1,4,0.0
+2023-2024,Regular season,17,2023-11-12,Levski Sofia,Botev Plovdiv,1,1,0.5
+2023-2024,Regular season,17,2023-11-12,Etar,Ludogorets,0,4,0.0
+2023-2024,Regular season,18,2023-11-24,Beroe,PFC Hebar Pazardzhik,2,1,1.0
+2023-2024,Regular season,18,2023-11-25,Botev Vratsa,Loko Plovdiv,2,0,1.0
+2023-2024,Regular season,18,2023-11-25,Botev Plovdiv,Pirin Blagoevgrad,3,1,1.0
+2023-2024,Regular season,18,2023-11-25,CSKA Sofia,Etar,2,0,1.0
+2023-2024,Regular season,18,2023-11-26,Cherno More,FK Levski 2005,3,2,1.0
+2023-2024,Regular season,3,2023-11-27,Arda,CSKA 1948,0,3,0.0
+2023-2024,Regular season,18,2023-11-27,Ludogorets,Slavia Sofia,2,3,0.0
+2023-2024,Regular season,18,2023-11-27,Lokomotiv Sofia,Levski Sofia,2,2,0.5
+2023-2024,Regular season,19,2023-12-01,Arda,Botev Plovdiv,0,2,0.0
+2023-2024,Regular season,19,2023-12-01,Slavia Sofia,CSKA Sofia,1,1,0.5
+2023-2024,Regular season,19,2023-12-02,PFC Hebar Pazardzhik,CSKA 1948,1,3,0.0
+2023-2024,Regular season,19,2023-12-02,Etar,Cherno More,1,2,0.0
+2023-2024,Regular season,19,2023-12-02,Levski Sofia,Loko Plovdiv,3,0,1.0
+2023-2024,Regular season,19,2023-12-03,Pirin Blagoevgrad,Lokomotiv Sofia,1,1,0.5
+2023-2024,Regular season,19,2023-12-03,Ludogorets,Botev Vratsa,5,0,1.0
+2023-2024,Regular season,19,2023-12-03,FK Levski 2005,Beroe,1,0,1.0
+2023-2024,Regular season,20,2023-12-09,Lokomotiv Sofia,Arda,0,1,0.0
+2023-2024,Regular season,20,2023-12-09,Cherno More,Slavia Sofia,3,0,1.0
+2023-2024,Regular season,20,2023-12-09,Botev Vratsa,Levski Sofia,0,1,0.0
+2023-2024,Regular season,20,2023-12-10,CSKA 1948,FK Levski 2005,0,3,0.0
+2023-2024,Regular season,20,2023-12-10,Botev Plovdiv,PFC Hebar Pazardzhik,1,0,1.0
+2023-2024,Regular season,20,2023-12-10,CSKA Sofia,Ludogorets,0,1,0.0
+2023-2024,Regular season,20,2023-12-11,Loko Plovdiv,Pirin Blagoevgrad,3,0,1.0
+2023-2024,Regular season,20,2023-12-11,Beroe,Etar,0,0,0.5
+2023-2024,Regular season,18,2023-12-14,CSKA 1948,Arda,1,0,1.0
+2023-2024,Regular season,21,2024-02-16,PFC Hebar Pazardzhik,Lokomotiv Sofia,0,1,0.0
+2023-2024,Regular season,21,2024-02-17,FK Levski 2005,Botev Plovdiv,2,1,1.0
+2023-2024,Regular season,21,2024-02-17,Slavia Sofia,Beroe,3,0,1.0
+2023-2024,Regular season,21,2024-02-17,Pirin Blagoevgrad,Levski Sofia,1,2,0.0
+2023-2024,Regular season,21,2024-02-18,Etar,CSKA 1948,1,1,0.5
+2023-2024,Regular season,21,2024-02-18,Arda,Loko Plovdiv,1,2,0.0
+2023-2024,Regular season,21,2024-02-18,CSKA Sofia,Botev Vratsa,3,0,1.0
+2023-2024,Regular season,21,2024-02-19,Ludogorets,Cherno More,3,1,1.0
+2023-2024,Regular season,22,2024-02-23,Botev Vratsa,Pirin Blagoevgrad,1,2,0.0
+2023-2024,Regular season,22,2024-02-23,Botev Plovdiv,Etar,2,0,1.0
+2023-2024,Regular season,22,2024-02-24,Loko Plovdiv,PFC Hebar Pazardzhik,1,2,0.0
+2023-2024,Regular season,22,2024-02-24,Cherno More,CSKA Sofia,1,0,1.0
+2023-2024,Regular season,22,2024-02-24,Levski Sofia,Arda,4,0,1.0
+2023-2024,Regular season,22,2024-02-25,Lokomotiv Sofia,FK Levski 2005,0,2,0.0
+2023-2024,Regular season,22,2024-02-25,CSKA 1948,Slavia Sofia,1,1,0.5
+2023-2024,Regular season,22,2024-02-26,Beroe,Ludogorets,0,2,0.0
+2023-2024,Regular season,23,2024-03-01,Cherno More,Botev Vratsa,2,1,1.0
+2023-2024,Regular season,23,2024-03-02,Etar,Lokomotiv Sofia,1,2,0.0
+2023-2024,Regular season,23,2024-03-02,FK Levski 2005,Loko Plovdiv,3,1,1.0
+2023-2024,Regular season,23,2024-03-02,Slavia Sofia,Botev Plovdiv,2,2,0.5
+2023-2024,Regular season,23,2024-03-03,CSKA Sofia,Beroe,3,0,1.0
+2023-2024,Regular season,23,2024-03-03,Ludogorets,CSKA 1948,2,0,1.0
+2023-2024,Regular season,23,2024-03-04,Arda,Pirin Blagoevgrad,0,0,0.5
+2023-2024,Regular season,23,2024-03-04,PFC Hebar Pazardzhik,Levski Sofia,0,1,0.0
+2023-2024,Regular season,24,2024-03-08,Loko Plovdiv,Etar,3,0,1.0
+2023-2024,Regular season,24,2024-03-09,Lokomotiv Sofia,Slavia Sofia,1,2,0.0
+2023-2024,Regular season,24,2024-03-09,CSKA 1948,CSKA Sofia,1,2,0.0
+2023-2024,Regular season,24,2024-03-09,Beroe,Cherno More,2,0,1.0
+2023-2024,Regular season,24,2024-03-10,Botev Vratsa,Arda,1,2,0.0
+2023-2024,Regular season,24,2024-03-10,Levski Sofia,FK Levski 2005,0,0,0.5
+2023-2024,Regular season,24,2024-03-10,Botev Plovdiv,Ludogorets,0,2,0.0
+2023-2024,Regular season,24,2024-03-11,Pirin Blagoevgrad,PFC Hebar Pazardzhik,1,1,0.5
+2023-2024,Regular season,25,2024-03-15,Beroe,Botev Vratsa,2,2,0.5
+2023-2024,Regular season,25,2024-03-15,Cherno More,CSKA 1948,2,1,1.0
+2023-2024,Regular season,25,2024-03-16,Slavia Sofia,Loko Plovdiv,1,2,0.0
+2023-2024,Regular season,25,2024-03-16,Etar,Levski Sofia,0,3,0.0
+2023-2024,Regular season,25,2024-03-16,Ludogorets,Lokomotiv Sofia,6,0,1.0
+2023-2024,Regular season,25,2024-03-17,FK Levski 2005,Pirin Blagoevgrad,2,2,0.5
+2023-2024,Regular season,25,2024-03-17,PFC Hebar Pazardzhik,Arda,1,0,1.0
+2023-2024,Regular season,25,2024-03-17,CSKA Sofia,Botev Plovdiv,4,0,1.0
+2023-2024,Regular season,26,2024-03-29,Pirin Blagoevgrad,Etar,2,1,1.0
+2023-2024,Regular season,26,2024-03-29,Arda,FK Levski 2005,1,1,0.5
+2023-2024,Regular season,26,2024-03-29,Levski Sofia,Slavia Sofia,2,0,1.0
+2023-2024,Regular season,26,2024-03-30,Botev Vratsa,PFC Hebar Pazardzhik,3,2,1.0
+2023-2024,Regular season,26,2024-03-30,Loko Plovdiv,Ludogorets,1,2,0.0
+2023-2024,Regular season,26,2024-03-30,Lokomotiv Sofia,CSKA Sofia,0,1,0.0
+2023-2024,Regular season,26,2024-03-31,Botev Plovdiv,Cherno More,0,0,0.5
+2023-2024,Regular season,26,2024-03-31,CSKA 1948,Beroe,0,1,0.0
+2023-2024,Regular season,27,2024-04-02,Etar,Arda,2,1,1.0
+2023-2024,Regular season,27,2024-04-02,Slavia Sofia,Pirin Blagoevgrad,0,0,0.5
+2023-2024,Regular season,27,2024-04-03,FK Levski 2005,PFC Hebar Pazardzhik,3,2,1.0
+2023-2024,Regular season,27,2024-04-03,CSKA Sofia,Loko Plovdiv,1,2,0.0
+2023-2024,Regular season,27,2024-04-03,Ludogorets,Levski Sofia,5,1,1.0
+2023-2024,Regular season,27,2024-04-04,CSKA 1948,Botev Vratsa,0,0,0.5
+2023-2024,Regular season,27,2024-04-04,Beroe,Botev Plovdiv,0,3,0.0
+2023-2024,Regular season,27,2024-04-04,Cherno More,Lokomotiv Sofia,3,0,1.0
+2023-2024,Regular season,28,2024-04-06,PFC Hebar Pazardzhik,Etar,3,0,1.0
+2023-2024,Regular season,28,2024-04-06,Arda,Slavia Sofia,2,1,1.0
+2023-2024,Regular season,28,2024-04-07,Levski Sofia,CSKA Sofia,0,2,0.0
+2023-2024,Regular season,28,2024-04-07,Botev Plovdiv,CSKA 1948,0,0,0.5
+2023-2024,Regular season,28,2024-04-07,Pirin Blagoevgrad,Ludogorets,0,2,0.0
+2023-2024,Regular season,28,2024-04-08,Botev Vratsa,FK Levski 2005,0,0,0.5
+2023-2024,Regular season,28,2024-04-08,Loko Plovdiv,Cherno More,1,0,1.0
+2023-2024,Regular season,28,2024-04-09,Lokomotiv Sofia,Beroe,1,0,1.0
+2023-2024,Regular season,8,2024-04-11,CSKA 1948,Ludogorets,0,1,0.0
+2023-2024,Regular season,29,2024-04-12,Botev Plovdiv,Botev Vratsa,2,0,1.0
+2023-2024,Regular season,29,2024-04-12,CSKA Sofia,Pirin Blagoevgrad,1,2,0.0
+2023-2024,Regular season,29,2024-04-13,Slavia Sofia,PFC Hebar Pazardzhik,3,1,1.0
+2023-2024,Regular season,29,2024-04-13,Cherno More,Levski Sofia,3,1,1.0
+2023-2024,Regular season,29,2024-04-14,Etar,FK Levski 2005,0,0,0.5
+2023-2024,Regular season,29,2024-04-14,Beroe,Loko Plovdiv,2,2,0.5
+2023-2024,Regular season,29,2024-04-15,CSKA 1948,Lokomotiv Sofia,2,1,1.0
+2023-2024,Regular season,29,2024-04-15,Ludogorets,Arda,2,0,1.0
+2023-2024,Regular season,30,2024-04-19,Botev Vratsa,Etar,2,0,1.0
+2023-2024,Regular season,30,2024-04-19,FK Levski 2005,Slavia Sofia,2,0,1.0
+2023-2024,Regular season,30,2024-04-20,Pirin Blagoevgrad,Cherno More,0,0,0.5
+2023-2024,Regular season,30,2024-04-20,PFC Hebar Pazardzhik,Ludogorets,0,3,0.0
+2023-2024,Regular season,30,2024-04-20,Levski Sofia,Beroe,1,0,1.0
+2023-2024,Regular season,30,2024-04-21,Loko Plovdiv,CSKA 1948,1,1,0.5
+2023-2024,Regular season,30,2024-04-21,Lokomotiv Sofia,Botev Plovdiv,0,4,0.0
+2023-2024,Regular season,30,2024-04-21,Arda,CSKA Sofia,2,3,0.0
+2023-2024,Relegation group,1,2024-04-26,Pirin Blagoevgrad,Botev Vratsa,1,2,0.0
+2023-2024,Championship group,1,2024-04-27,CSKA Sofia,Levski Sofia,3,1,1.0
+2023-2024,Europa Conference League group,1,2024-04-27,Botev Plovdiv,Slavia Sofia,0,1,0.0
+2023-2024,Relegation group,1,2024-04-28,PFC Hebar Pazardzhik,Lokomotiv Sofia,0,2,0.0
+2023-2024,Championship group,1,2024-04-28,Ludogorets,FK Levski 2005,3,3,0.5
+2023-2024,Championship group,1,2024-04-28,Cherno More,Loko Plovdiv,1,0,1.0
+2023-2024,Europa Conference League group,1,2024-04-29,CSKA 1948,Arda,1,1,0.5
+2023-2024,Relegation group,1,2024-04-29,Beroe,Etar,3,0,1.0
+2023-2024,Europa Conference League group,2,2024-05-06,Slavia Sofia,Arda,0,0,0.5
+2023-2024,Europa Conference League group,2,2024-05-06,Botev Plovdiv,CSKA 1948,0,0,0.5
+2023-2024,Europa Conference League group,3,2024-05-10,CSKA 1948,Slavia Sofia,0,2,0.0
+2023-2024,Championship group,2,2024-05-10,FK Levski 2005,Loko Plovdiv,4,1,1.0
+2023-2024,Europa Conference League group,3,2024-05-11,Arda,Botev Plovdiv,2,1,1.0
+2023-2024,Championship group,2,2024-05-11,Ludogorets,CSKA Sofia,3,1,1.0
+2023-2024,Relegation group,2,2024-05-12,Beroe,Pirin Blagoevgrad,2,0,1.0
+2023-2024,Championship group,2,2024-05-12,Levski Sofia,Cherno More,0,0,0.5
+2023-2024,Relegation group,2,2024-05-13,Etar,Lokomotiv Sofia,1,1,0.5
+2023-2024,Relegation group,2,2024-05-13,Botev Vratsa,PFC Hebar Pazardzhik,1,0,1.0
+2023-2024,Relegation group,3,2024-05-17,Pirin Blagoevgrad,Etar,2,2,0.5
+2023-2024,Relegation group,3,2024-05-17,Lokomotiv Sofia,Botev Vratsa,1,1,0.5
+2023-2024,Relegation group,3,2024-05-17,PFC Hebar Pazardzhik,Beroe,0,1,0.0
+2023-2024,Championship group,3,2024-05-18,CSKA Sofia,FK Levski 2005,2,2,0.5
+2023-2024,Championship group,3,2024-05-18,Loko Plovdiv,Levski Sofia,1,2,0.0
+2023-2024,Championship group,3,2024-05-19,Cherno More,Ludogorets,4,0,1.0
+2023-2024,Europa Conference League group,4,2024-05-20,Arda,CSKA 1948,0,0,0.5
+2023-2024,Europa Conference League group,4,2024-05-20,Slavia Sofia,Botev Plovdiv,3,1,1.0
+2023-2024,Relegation group,4,2024-05-21,Etar,Botev Vratsa,1,1,0.5
+2023-2024,Relegation group,4,2024-05-21,Beroe,Lokomotiv Sofia,0,3,0.0
+2023-2024,Relegation group,4,2024-05-21,Pirin Blagoevgrad,PFC Hebar Pazardzhik,0,0,0.5
+2023-2024,Championship group,4,2024-05-22,FK Levski 2005,Levski Sofia,0,1,0.0
+2023-2024,Championship group,4,2024-05-22,Ludogorets,Loko Plovdiv,3,0,1.0
+2023-2024,Europa Conference League group,5,2024-05-23,Arda,Slavia Sofia,3,1,1.0
+2023-2024,Europa Conference League group,5,2024-05-23,CSKA 1948,Botev Plovdiv,2,1,1.0
+2023-2024,Championship group,4,2024-05-23,CSKA Sofia,Cherno More,0,1,0.0
+2023-2024,Relegation group,5,2024-05-25,Lokomotiv Sofia,Pirin Blagoevgrad,1,0,1.0
+2023-2024,Relegation group,5,2024-05-25,PFC Hebar Pazardzhik,Etar,3,1,1.0
+2023-2024,Relegation group,5,2024-05-25,Botev Vratsa,Beroe,1,0,1.0
+2023-2024,Championship group,5,2024-05-26,Levski Sofia,Ludogorets,1,0,1.0
+2023-2024,Championship group,5,2024-05-26,Cherno More,FK Levski 2005,3,1,1.0
+2023-2024,Championship group,5,2024-05-26,Loko Plovdiv,CSKA Sofia,1,0,1.0
+2023-2024,Europa Conference League group,6,2024-05-27,Botev Plovdiv,Arda,0,1,0.0
+2023-2024,Europa Conference League group,6,2024-05-27,Slavia Sofia,CSKA 1948,0,2,0.0
+2023-2024,Europa Conference League play-off,,2024-05-31,CSKA Sofia,CSKA 1948,0,2,0.0

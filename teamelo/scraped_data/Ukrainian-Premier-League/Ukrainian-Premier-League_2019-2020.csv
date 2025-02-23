@@ -146,7 +146,7 @@ Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
 2019-2020,Championship round,3,2020-06-06,Shakhtar,Desna Chernihiv,3.0,2.0,1.0
 2019-2020,Relegation round,3,2020-06-07,Olimpik Donetsk,FC Mariupol,2.0,2.0,0.5
 2019-2020,Championship round,3,2020-06-07,Dynamo Kyiv,FC Oleksandriya,5.0,1.0,1.0
-2019-2020,Relegation round,3,2020-06-07,Vorskla Poltava,Karpaty Lviv,,,0.5
+2019-2020,Relegation round,3,2020-06-07,Vorskla Poltava,Karpaty Lviv,,,
 2019-2020,Relegation round,3,2020-06-07,FC Lviv,SK Dnipro-1,1.0,2.0,0.0
 2019-2020,Relegation round,4,2020-06-13,FC Mariupol,Vorskla Poltava,1.0,1.0,0.5
 2019-2020,Championship round,4,2020-06-13,Zorya Luhansk,Dynamo Kyiv,1.0,3.0,0.0
@@ -156,7 +156,7 @@ Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
 2019-2020,Relegation round,5,2020-06-19,FC Mariupol,FC Lviv,3.0,0.0,1.0
 2019-2020,Relegation round,5,2020-06-19,Vorskla Poltava,SK Dnipro-1,2.0,0.0,1.0
 2019-2020,Championship round,5,2020-06-20,Shakhtar,FC Oleksandriya,3.0,2.0,1.0
-2019-2020,Relegation round,5,2020-06-21,Karpaty Lviv,Olimpik Donetsk,,,0.5
+2019-2020,Relegation round,5,2020-06-21,Karpaty Lviv,Olimpik Donetsk,,,
 2019-2020,Championship round,5,2020-06-21,Desna Chernihiv,Zorya Luhansk,1.0,2.0,0.0
 2019-2020,Championship round,5,2020-06-22,Dynamo Kyiv,FK Kolos,2.0,1.0,1.0
 2019-2020,Championship round,6,2020-06-27,FK Kolos,FC Oleksandriya,2.0,1.0,1.0
@@ -172,20 +172,20 @@ Season,Round,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
 2019-2020,Championship round,7,2020-07-05,Desna Chernihiv,FK Kolos,5.0,1.0,1.0
 2019-2020,Championship round,7,2020-07-05,Zorya Luhansk,FC Oleksandriya,2.0,2.0,0.5
 2019-2020,Relegation round,7,2020-07-05,Olimpik Donetsk,SK Dnipro-1,0.0,2.0,0.0
-2019-2020,Relegation round,4,2020-07-08,Karpaty Lviv,SK Dnipro-1,,,0.5
+2019-2020,Relegation round,4,2020-07-08,Karpaty Lviv,SK Dnipro-1,,,
 2019-2020,Championship round,8,2020-07-11,FK Kolos,Zorya Luhansk,0.0,2.0,0.0
 2019-2020,Relegation round,8,2020-07-11,SK Dnipro-1,FC Lviv,3.0,2.0,1.0
 2019-2020,Relegation round,8,2020-07-12,FC Mariupol,Olimpik Donetsk,1.0,4.0,0.0
-2019-2020,Relegation round,8,2020-07-12,Karpaty Lviv,Vorskla Poltava,,,0.5
+2019-2020,Relegation round,8,2020-07-12,Karpaty Lviv,Vorskla Poltava,,,
 2019-2020,Championship round,8,2020-07-12,FC Oleksandriya,Dynamo Kyiv,2.0,2.0,0.5
 2019-2020,Championship round,8,2020-07-12,Desna Chernihiv,Shakhtar,2.0,4.0,0.0
-2019-2020,Relegation round,9,2020-07-15,Karpaty Lviv,SK Dnipro-1,,,0.5
+2019-2020,Relegation round,9,2020-07-15,Karpaty Lviv,SK Dnipro-1,,,
 2019-2020,Championship round,9,2020-07-15,Shakhtar,FK Kolos,2.0,0.0,1.0
 2019-2020,Relegation round,9,2020-07-16,Vorskla Poltava,FC Mariupol,1.0,2.0,0.0
 2019-2020,Relegation round,9,2020-07-16,FC Lviv,Olimpik Donetsk,1.0,5.0,0.0
 2019-2020,Championship round,9,2020-07-16,Desna Chernihiv,FC Oleksandriya,1.0,3.0,0.0
 2019-2020,Championship round,9,2020-07-16,Dynamo Kyiv,Zorya Luhansk,3.0,1.0,1.0
-2019-2020,Relegation round,10,2020-07-19,Olimpik Donetsk,Karpaty Lviv,,,0.5
+2019-2020,Relegation round,10,2020-07-19,Olimpik Donetsk,Karpaty Lviv,,,
 2019-2020,Relegation round,10,2020-07-19,SK Dnipro-1,Vorskla Poltava,3.0,0.0,1.0
 2019-2020,Relegation round,10,2020-07-19,FC Lviv,FC Mariupol,0.0,2.0,0.0
 2019-2020,Championship round,10,2020-07-19,Zorya Luhansk,Desna Chernihiv,1.0,1.0,0.5

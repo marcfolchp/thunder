@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2007-2008,1,2007-08-17,Sporting CP,Académica,4,1,1.0
+2007-2008,1,2007-08-18,Marítimo,Paços,3,1,1.0
+2007-2008,1,2007-08-18,Braga,Porto,1,2,0.0
+2007-2008,1,2007-08-18,Leixões,Benfica,1,1,0.5
+2007-2008,1,2007-08-18,Nacional,Estrela,0,0,0.5
+2007-2008,1,2007-08-19,Vitória,Vitória Setúbal,1,1,0.5
+2007-2008,1,2007-08-19,União de Leiria,Boavista,0,0,0.5
+2007-2008,1,2007-08-20,Naval,Belenenses,1,1,0.5
+2007-2008,2,2007-08-25,Benfica,Vitória,0,0,0.5
+2007-2008,2,2007-08-25,Belenenses,Braga,0,2,0.0
+2007-2008,2,2007-08-26,Porto,Sporting CP,1,0,1.0
+2007-2008,2,2007-08-26,Académica,União de Leiria,1,1,0.5
+2007-2008,2,2007-08-26,Estrela,Naval,3,1,1.0
+2007-2008,2,2007-08-26,Paços,Leixões,1,1,0.5
+2007-2008,2,2007-08-26,Boavista,Marítimo,0,2,0.0
+2007-2008,2,2007-08-27,Vitória Setúbal,Nacional,1,1,0.5
+2007-2008,3,2007-08-31,Leixões,Vitória,2,2,0.5
+2007-2008,3,2007-09-01,Paços,Boavista,1,1,0.5
+2007-2008,3,2007-09-01,Braga,Estrela,2,1,1.0
+2007-2008,3,2007-09-02,Naval,Vitória Setúbal,0,0,0.5
+2007-2008,3,2007-09-02,Nacional,Benfica,0,3,0.0
+2007-2008,3,2007-09-02,União de Leiria,Porto,0,3,0.0
+2007-2008,3,2007-09-02,Sporting CP,Belenenses,1,0,1.0
+2007-2008,3,2007-09-02,Marítimo,Académica,2,0,1.0
+2007-2008,4,2007-09-14,Vitória Setúbal,Braga,3,1,1.0
+2007-2008,4,2007-09-15,Benfica,Naval,3,0,1.0
+2007-2008,4,2007-09-15,Boavista,Leixões,0,0,0.5
+2007-2008,4,2007-09-15,Porto,Marítimo,1,0,1.0
+2007-2008,4,2007-09-16,Estrela,Sporting CP,0,2,0.0
+2007-2008,4,2007-09-16,Académica,Paços,1,0,1.0
+2007-2008,4,2007-09-16,Belenenses,União de Leiria,2,1,1.0
+2007-2008,4,2007-09-17,Vitória,Nacional,1,0,1.0
+2007-2008,5,2007-09-21,Naval,Vitória,1,4,0.0
+2007-2008,5,2007-09-23,Paços,Porto,0,2,0.0
+2007-2008,5,2007-09-23,Braga,Benfica,0,0,0.5
+2007-2008,5,2007-09-23,União de Leiria,Estrela,0,0,0.5
+2007-2008,5,2007-09-23,Boavista,Académica,0,0,0.5
+2007-2008,5,2007-09-23,Leixões,Nacional,1,1,0.5
+2007-2008,5,2007-09-23,Marítimo,Belenenses,2,0,1.0
+2007-2008,5,2007-09-23,Sporting CP,Vitória Setúbal,2,2,0.5
+2007-2008,6,2007-09-29,Benfica,Sporting CP,0,0,0.5
+2007-2008,6,2007-09-29,Porto,Boavista,2,0,1.0
+2007-2008,6,2007-09-30,Estrela,Marítimo,1,1,0.5
+2007-2008,6,2007-09-30,Vitória Setúbal,União de Leiria,2,0,1.0
+2007-2008,6,2007-09-30,Vitória,Braga,1,0,1.0
+2007-2008,6,2007-09-30,Nacional,Naval,2,0,1.0
+2007-2008,6,2007-09-30,Belenenses,Paços,1,0,1.0
+2007-2008,6,2007-10-01,Académica,Leixões,1,1,0.5
+2007-2008,7,2007-10-06,Sporting CP,Vitória,3,0,1.0
+2007-2008,7,2007-10-07,Marítimo,Vitória Setúbal,0,0,0.5
+2007-2008,7,2007-10-07,União de Leiria,Benfica,1,2,0.0
+2007-2008,7,2007-10-07,Académica,Porto,0,1,0.0
+2007-2008,7,2007-10-07,Leixões,Naval,0,1,0.0
+2007-2008,7,2007-10-08,Braga,Nacional,1,0,1.0
+2007-2008,7,2007-10-08,Boavista,Belenenses,2,4,0.0
+2007-2008,7,2007-10-08,Paços,Estrela,2,1,1.0
+2007-2008,8,2007-10-26,Vitória,União de Leiria,2,1,1.0
+2007-2008,8,2007-10-27,Vitória Setúbal,Paços,3,1,1.0
+2007-2008,8,2007-10-27,Nacional,Sporting CP,0,0,0.5
+2007-2008,8,2007-10-27,Belenenses,Académica,0,0,0.5
+2007-2008,8,2007-10-28,Benfica,Marítimo,2,1,1.0
+2007-2008,8,2007-10-28,Estrela,Boavista,0,0,0.5
+2007-2008,8,2007-10-28,Naval,Braga,1,1,0.5
+2007-2008,8,2007-10-28,Porto,Leixões,3,0,1.0
+2007-2008,9,2007-11-02,Porto,Belenenses,1,1,0.5
+2007-2008,9,2007-11-03,Paços,Benfica,1,2,0.0
+2007-2008,9,2007-11-03,Leixões,Braga,3,0,1.0
+2007-2008,9,2007-11-04,Sporting CP,Naval,4,1,1.0
+2007-2008,9,2007-11-04,Académica,Estrela,3,3,0.5
+2007-2008,9,2007-11-04,Boavista,Vitória Setúbal,3,3,0.5
+2007-2008,9,2007-11-04,União de Leiria,Nacional,1,3,0.0
+2007-2008,9,2007-11-05,Marítimo,Vitória,0,1,0.0
+2007-2008,10,2007-11-09,Belenenses,Leixões,1,1,0.5
+2007-2008,10,2007-11-11,Vitória Setúbal,Académica,3,1,1.0
+2007-2008,10,2007-11-11,Nacional,Marítimo,0,2,0.0
+2007-2008,10,2007-11-11,Vitória,Paços,0,0,0.5
+2007-2008,10,2007-11-11,Benfica,Boavista,6,1,1.0
+2007-2008,10,2007-11-11,Estrela,Porto,2,2,0.5
+2007-2008,10,2007-11-11,Braga,Sporting CP,3,0,1.0
+2007-2008,10,2007-11-11,Naval,União de Leiria,1,0,1.0
+2007-2008,11,2007-11-23,União de Leiria,Braga,0,0,0.5
+2007-2008,11,2007-11-24,Académica,Benfica,1,3,0.0
+2007-2008,11,2007-11-25,Belenenses,Estrela,0,0,0.5
+2007-2008,11,2007-11-25,Leixões,Sporting CP,1,1,0.5
+2007-2008,11,2007-11-25,Marítimo,Naval,0,1,0.0
+2007-2008,11,2007-11-25,Porto,Vitória Setúbal,2,0,1.0
+2007-2008,11,2007-11-25,Paços,Nacional,1,0,1.0
+2007-2008,11,2007-11-26,Boavista,Vitória,3,2,1.0
+2007-2008,12,2007-11-30,Vitória Setúbal,Belenenses,1,1,0.5
+2007-2008,12,2007-12-01,Benfica,Porto,0,1,0.0
+2007-2008,12,2007-12-02,Estrela,Leixões,2,0,1.0
+2007-2008,12,2007-12-02,Braga,Marítimo,2,1,1.0
+2007-2008,12,2007-12-02,Nacional,Boavista,2,0,1.0
+2007-2008,12,2007-12-02,Naval,Paços,2,1,1.0
+2007-2008,12,2007-12-02,Sporting CP,União de Leiria,1,1,0.5
+2007-2008,12,2007-12-03,Vitória,Académica,2,1,1.0
+2007-2008,13,2007-12-14,Paços,Braga,0,2,0.0
+2007-2008,13,2007-12-15,Porto,Vitória,2,0,1.0
+2007-2008,13,2007-12-15,Belenenses,Benfica,1,0,1.0
+2007-2008,13,2007-12-16,Estrela,Vitória Setúbal,0,1,0.0
+2007-2008,13,2007-12-16,Marítimo,Sporting CP,1,2,0.0
+2007-2008,13,2007-12-16,Boavista,Naval,2,0,1.0
+2007-2008,13,2007-12-16,Académica,Nacional,1,0,1.0
+2007-2008,13,2007-12-16,Leixões,União de Leiria,2,1,1.0
+2007-2008,14,2007-12-20,Benfica,Estrela,3,0,1.0
+2007-2008,14,2007-12-21,Nacional,Porto,1,0,1.0
+2007-2008,14,2007-12-22,Sporting CP,Paços,2,1,1.0
+2007-2008,14,2007-12-22,Naval,Académica,0,1,0.0
+2007-2008,14,2007-12-22,Vitória,Belenenses,1,0,1.0
+2007-2008,14,2007-12-23,Leixões,Vitória Setúbal,1,1,0.5
+2007-2008,14,2007-12-23,Braga,Boavista,0,0,0.5
+2007-2008,14,2007-12-23,União de Leiria,Marítimo,1,2,0.0
+2007-2008,15,2008-01-04,Académica,Braga,3,3,0.5
+2007-2008,15,2008-01-05,Vitória Setúbal,Benfica,1,1,0.5
+2007-2008,15,2008-01-05,Boavista,Sporting CP,2,0,1.0
+2007-2008,15,2008-01-06,Estrela,Vitória,4,1,1.0
+2007-2008,15,2008-01-06,Marítimo,Leixões,2,1,1.0
+2007-2008,15,2008-01-06,Porto,Naval,1,0,1.0
+2007-2008,15,2008-01-06,Paços,União de Leiria,2,1,1.0
+2007-2008,15,2008-01-07,Belenenses,Nacional,1,1,0.5
+2007-2008,16,2008-01-11,Paços,Marítimo,3,1,1.0
+2007-2008,16,2008-01-12,Porto,Braga,4,0,1.0
+2007-2008,16,2008-01-12,Benfica,Leixões,0,0,0.5
+2007-2008,16,2008-01-13,Académica,Sporting CP,1,1,0.5
+2007-2008,16,2008-01-13,Estrela,Nacional,0,1,0.0
+2007-2008,16,2008-01-13,Vitória Setúbal,Vitória,0,1,0.0
+2007-2008,16,2008-01-13,Belenenses,Naval,0,3,0.0
+2007-2008,16,2008-01-13,Boavista,União de Leiria,3,1,1.0
+2007-2008,17,2008-01-25,Braga,Belenenses,1,1,0.5
+2007-2008,17,2008-01-26,Vitória,Benfica,1,3,0.0
+2007-2008,17,2008-01-27,Nacional,Vitória Setúbal,0,0,0.5
+2007-2008,17,2008-01-27,Leixões,Paços,1,0,1.0
+2007-2008,17,2008-01-27,Sporting CP,Porto,2,0,1.0
+2007-2008,17,2008-01-27,União de Leiria,Académica,3,1,1.0
+2007-2008,17,2008-01-27,Naval,Estrela,1,1,0.5
+2007-2008,17,2008-01-28,Marítimo,Boavista,2,0,1.0
+2007-2008,18,2008-02-01,Estrela,Braga,1,1,0.5
+2007-2008,18,2008-02-02,Benfica,Nacional,0,0,0.5
+2007-2008,18,2008-02-02,Porto,União de Leiria,4,0,1.0
+2007-2008,18,2008-02-03,Vitória,Leixões,2,1,1.0
+2007-2008,18,2008-02-03,Académica,Marítimo,1,0,1.0
+2007-2008,18,2008-02-03,Belenenses,Sporting CP,1,0,1.0
+2007-2008,18,2008-02-03,Boavista,Paços,4,3,1.0
+2007-2008,18,2008-02-04,Vitória Setúbal,Naval,1,2,0.0
+2007-2008,19,2008-02-15,Marítimo,Porto,0,3,0.0
+2007-2008,19,2008-02-16,Leixões,Boavista,2,2,0.5
+2007-2008,19,2008-02-16,Paços,Académica,1,1,0.5
+2007-2008,19,2008-02-17,Naval,Benfica,0,2,0.0
+2007-2008,19,2008-02-17,Sporting CP,Estrela,2,0,1.0
+2007-2008,19,2008-02-17,Nacional,Vitória,1,0,1.0
+2007-2008,19,2008-02-17,Braga,Vitória Setúbal,2,3,0.0
+2007-2008,19,2008-02-17,União de Leiria,Belenenses,1,2,0.0
+2007-2008,20,2008-02-22,Vitória,Naval,1,0,1.0
+2007-2008,20,2008-02-23,Porto,Paços,3,0,1.0
+2007-2008,20,2008-02-23,Estrela,União de Leiria,4,2,1.0
+2007-2008,20,2008-02-23,Belenenses,Marítimo,1,3,0.0
+2007-2008,20,2008-02-24,Benfica,Braga,1,1,0.5
+2007-2008,20,2008-02-24,Vitória Setúbal,Sporting CP,1,0,1.0
+2007-2008,20,2008-02-24,Nacional,Leixões,1,0,1.0
+2007-2008,20,2008-02-24,Académica,Boavista,1,1,0.5
+2007-2008,21,2008-02-29,Braga,Vitória,0,0,0.5
+2007-2008,21,2008-03-01,Boavista,Porto,0,0,0.5
+2007-2008,21,2008-03-01,Leixões,Académica,2,2,0.5
+2007-2008,21,2008-03-01,União de Leiria,Vitória Setúbal,0,2,0.0
+2007-2008,21,2008-03-02,Naval,Nacional,1,1,0.5
+2007-2008,21,2008-03-02,Sporting CP,Benfica,1,1,0.5
+2007-2008,21,2008-03-02,Marítimo,Estrela,1,1,0.5
+2007-2008,21,2008-03-03,Paços,Belenenses,1,2,0.0
+2007-2008,22,2008-03-07,Vitória Setúbal,Marítimo,1,0,1.0
+2007-2008,22,2008-03-08,Nacional,Braga,0,1,0.0
+2007-2008,22,2008-03-08,Estrela,Paços,1,0,1.0
+2007-2008,22,2008-03-09,Porto,Académica,1,0,1.0
+2007-2008,22,2008-03-09,Vitória,Sporting CP,2,0,1.0
+2007-2008,22,2008-03-09,Benfica,União de Leiria,2,2,0.5
+2007-2008,22,2008-03-09,Naval,Leixões,2,1,1.0
+2007-2008,22,2008-03-10,Belenenses,Boavista,2,3,0.0
+2007-2008,23,2008-03-14,União de Leiria,Vitória,0,1,0.0
+2007-2008,23,2008-03-15,Leixões,Porto,1,2,0.0
+2007-2008,23,2008-03-15,Académica,Belenenses,0,0,0.5
+2007-2008,23,2008-03-16,Marítimo,Benfica,1,1,0.5
+2007-2008,23,2008-03-16,Paços,Vitória Setúbal,2,1,1.0
+2007-2008,23,2008-03-16,Braga,Naval,3,0,1.0
+2007-2008,23,2008-03-16,Boavista,Estrela,2,1,1.0
+2007-2008,23,2008-03-17,Sporting CP,Nacional,4,1,1.0
+2007-2008,24,2008-03-28,Vitória,Marítimo,1,0,1.0
+2007-2008,24,2008-03-30,Nacional,União de Leiria,2,0,1.0
+2007-2008,24,2008-03-30,Benfica,Paços,4,1,1.0
+2007-2008,24,2008-03-30,Braga,Leixões,0,0,0.5
+2007-2008,24,2008-03-30,Estrela,Académica,3,1,1.0
+2007-2008,24,2008-03-30,Naval,Sporting CP,1,4,0.0
+2007-2008,24,2008-03-30,Belenenses,Porto,1,2,0.0
+2007-2008,24,2008-03-31,Vitória Setúbal,Boavista,3,1,1.0
+2007-2008,25,2008-04-04,Paços,Vitória,2,2,0.5
+2007-2008,25,2008-04-05,Porto,Estrela,6,0,1.0
+2007-2008,25,2008-04-05,Académica,Vitória Setúbal,0,0,0.5
+2007-2008,25,2008-04-06,Marítimo,Nacional,1,0,1.0
+2007-2008,25,2008-04-06,União de Leiria,Naval,0,2,0.0
+2007-2008,25,2008-04-06,Sporting CP,Braga,2,0,1.0
+2007-2008,25,2008-04-06,Boavista,Benfica,0,0,0.5
+2007-2008,25,2008-04-07,Leixões,Belenenses,1,2,0.0
+2007-2008,26,2008-04-11,Benfica,Académica,0,3,0.0
+2007-2008,26,2008-04-12,Vitória,Boavista,1,0,1.0
+2007-2008,26,2008-04-12,Estrela,Belenenses,0,2,0.0
+2007-2008,26,2008-04-12,Vitória Setúbal,Porto,1,2,0.0
+2007-2008,26,2008-04-13,Naval,Marítimo,0,3,0.0
+2007-2008,26,2008-04-13,Sporting CP,Leixões,2,0,1.0
+2007-2008,26,2008-04-13,Nacional,Paços,1,2,0.0
+2007-2008,26,2008-04-14,Braga,União de Leiria,0,1,0.0
+2007-2008,27,2008-04-18,Académica,Vitória,0,0,0.5
+2007-2008,27,2008-04-19,Marítimo,Braga,4,1,1.0
+2007-2008,27,2008-04-20,Leixões,Estrela,0,0,0.5
+2007-2008,27,2008-04-20,Paços,Naval,2,2,0.5
+2007-2008,27,2008-04-20,União de Leiria,Sporting CP,4,1,1.0
+2007-2008,27,2008-04-20,Boavista,Nacional,1,0,1.0
+2007-2008,27,2008-04-20,Porto,Benfica,2,0,1.0
+2007-2008,27,2008-04-21,Belenenses,Vitória Setúbal,5,0,1.0
+2007-2008,28,2008-04-25,Braga,Paços,2,1,1.0
+2007-2008,28,2008-04-26,Benfica,Belenenses,2,0,1.0
+2007-2008,28,2008-04-27,Sporting CP,Marítimo,2,1,1.0
+2007-2008,28,2008-04-27,Naval,Boavista,1,0,1.0
+2007-2008,28,2008-04-27,Vitória,Porto,0,5,0.0
+2007-2008,28,2008-04-27,União de Leiria,Leixões,1,3,0.0
+2007-2008,28,2008-04-27,Nacional,Académica,0,3,0.0
+2007-2008,28,2008-04-28,Vitória Setúbal,Estrela,0,0,0.5
+2007-2008,29,2008-05-03,Porto,Nacional,0,3,0.0
+2007-2008,29,2008-05-04,Boavista,Braga,0,0,0.5
+2007-2008,29,2008-05-04,Marítimo,União de Leiria,2,0,1.0
+2007-2008,29,2008-05-04,Académica,Naval,1,1,0.5
+2007-2008,29,2008-05-04,Belenenses,Vitória,1,1,0.5
+2007-2008,29,2008-05-04,Paços,Sporting CP,0,1,0.0
+2007-2008,29,2008-05-04,Estrela,Benfica,0,0,0.5
+2007-2008,29,2008-05-04,Vitória Setúbal,Leixões,2,0,1.0
+2007-2008,30,2008-05-10,Naval,Porto,0,2,0.0
+2007-2008,30,2008-05-10,Braga,Académica,2,1,1.0
+2007-2008,30,2008-05-10,Nacional,Belenenses,1,2,0.0
+2007-2008,30,2008-05-11,Vitória,Estrela,4,0,1.0
+2007-2008,30,2008-05-11,Leixões,Marítimo,0,1,0.0
+2007-2008,30,2008-05-11,União de Leiria,Paços,1,1,0.5
+2007-2008,30,2008-05-11,Benfica,Vitória Setúbal,3,0,1.0
+2007-2008,30,2008-05-11,Sporting CP,Boavista,2,1,1.0

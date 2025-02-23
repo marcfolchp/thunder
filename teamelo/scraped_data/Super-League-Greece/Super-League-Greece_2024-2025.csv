@@ -1,0 +1,183 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2024-2025,1,2024-08-17,PAOK,Panserraikos,3.0,2.0,1.0
+2024-2025,1,2024-08-17,Volos NFC,Olympiacos,0.0,2.0,0.0
+2024-2025,1,2024-08-18,Levadiakos,Kallithea,0.0,0.0,0.5
+2024-2025,1,2024-08-18,Panathinaikos,Asteras Tripoli,0.0,1.0,0.0
+2024-2025,1,2024-08-18,Atromitos,Aris,1.0,1.0,0.5
+2024-2025,1,2024-08-18,AEK Athens,OFI Crete,3.0,0.0,1.0
+2024-2025,1,2024-08-19,Panetolikos,PAS Lamia,0.0,1.0,0.0
+2024-2025,2,2024-08-24,OFI Crete,Atromitos,1.0,1.0,0.5
+2024-2025,2,2024-08-24,Panserraikos,Aris,0.0,1.0,0.0
+2024-2025,2,2024-08-24,AEK Athens,PAS Lamia,1.0,1.0,0.5
+2024-2025,2,2024-08-25,Asteras Tripoli,Volos NFC,0.0,1.0,0.0
+2024-2025,2,2024-08-25,PAOK,Panetolikos,2.0,0.0,1.0
+2024-2025,2,2024-08-25,Panathinaikos,Levadiakos,1.0,0.0,1.0
+2024-2025,2,2024-08-26,Olympiacos,Kallithea,2.0,1.0,1.0
+2024-2025,3,2024-08-31,PAS Lamia,Olympiacos,0.0,3.0,0.0
+2024-2025,3,2024-08-31,Aris,Asteras Tripoli,1.0,1.0,0.5
+2024-2025,3,2024-08-31,Panetolikos,Panserraikos,3.0,0.0,1.0
+2024-2025,3,2024-09-01,Levadiakos,AEK Athens,0.0,3.0,0.0
+2024-2025,3,2024-09-01,Volos NFC,OFI Crete,1.0,3.0,0.0
+2024-2025,3,2024-09-01,Atromitos,PAOK,1.0,2.0,0.0
+2024-2025,3,2024-09-01,Kallithea,Panathinaikos,2.0,2.0,0.5
+2024-2025,4,2024-09-14,PAS Lamia,Kallithea,0.0,0.0,0.5
+2024-2025,4,2024-09-14,Asteras Tripoli,Atromitos,1.0,2.0,0.0
+2024-2025,4,2024-09-15,Panserraikos,Levadiakos,2.0,2.0,0.5
+2024-2025,4,2024-09-15,Olympiacos,Panetolikos,0.0,0.0,0.5
+2024-2025,4,2024-09-15,PAOK,Panathinaikos,0.0,0.0,0.5
+2024-2025,4,2024-09-15,OFI Crete,Aris,3.0,2.0,1.0
+2024-2025,4,2024-09-16,AEK Athens,Volos NFC,2.0,0.0,1.0
+2024-2025,5,2024-09-21,Volos NFC,PAOK,1.0,4.0,0.0
+2024-2025,5,2024-09-21,Aris,Olympiacos,2.0,1.0,1.0
+2024-2025,5,2024-09-21,Panetolikos,Asteras Tripoli,1.0,1.0,0.5
+2024-2025,5,2024-09-22,Levadiakos,OFI Crete,1.0,1.0,0.5
+2024-2025,5,2024-09-22,Panathinaikos,Panserraikos,3.0,1.0,1.0
+2024-2025,5,2024-09-22,Atromitos,PAS Lamia,4.0,2.0,1.0
+2024-2025,5,2024-09-22,Kallithea,AEK Athens,0.0,0.0,0.5
+2024-2025,6,2024-09-28,Volos NFC,Kallithea,1.0,1.0,0.5
+2024-2025,6,2024-09-28,Asteras Tripoli,Levadiakos,1.0,1.0,0.5
+2024-2025,6,2024-09-29,OFI Crete,Panetolikos,1.0,2.0,0.0
+2024-2025,6,2024-09-29,Olympiacos,Atromitos,2.0,0.0,1.0
+2024-2025,6,2024-09-29,PAOK,Aris,0.0,1.0,0.0
+2024-2025,6,2024-09-29,AEK Athens,Panathinaikos,2.0,0.0,1.0
+2024-2025,6,2024-09-30,PAS Lamia,Panserraikos,1.0,2.0,0.0
+2024-2025,7,2024-10-05,Atromitos,Volos NFC,1.0,2.0,0.0
+2024-2025,7,2024-10-05,Panetolikos,AEK Athens,1.0,0.0,1.0
+2024-2025,7,2024-10-05,Aris,PAS Lamia,2.0,0.0,1.0
+2024-2025,7,2024-10-06,Panserraikos,OFI Crete,2.0,3.0,0.0
+2024-2025,7,2024-10-06,Kallithea,Asteras Tripoli,1.0,3.0,0.0
+2024-2025,7,2024-10-06,Levadiakos,PAOK,0.0,2.0,0.0
+2024-2025,7,2024-10-06,Panathinaikos,Olympiacos,0.0,0.0,0.5
+2024-2025,8,2024-10-19,Volos NFC,Panserraikos,0.0,1.0,0.0
+2024-2025,8,2024-10-19,Atromitos,Panetolikos,0.0,2.0,0.0
+2024-2025,8,2024-10-19,PAS Lamia,Asteras Tripoli,0.0,0.0,0.5
+2024-2025,8,2024-10-20,Olympiacos,Levadiakos,2.0,2.0,0.5
+2024-2025,8,2024-10-20,OFI Crete,Panathinaikos,0.0,1.0,0.0
+2024-2025,8,2024-10-20,Aris,Kallithea,2.0,0.0,1.0
+2024-2025,8,2024-10-20,AEK Athens,PAOK,1.0,1.0,0.5
+2024-2025,9,2024-10-26,Panetolikos,Volos NFC,0.0,1.0,0.0
+2024-2025,9,2024-10-26,Levadiakos,PAS Lamia,2.0,2.0,0.5
+2024-2025,9,2024-10-26,Panserraikos,AEK Athens,1.0,0.0,1.0
+2024-2025,9,2024-10-27,Asteras Tripoli,Olympiacos,1.0,0.0,1.0
+2024-2025,9,2024-10-27,Panathinaikos,Aris,1.0,1.0,0.5
+2024-2025,9,2024-10-27,PAOK,OFI Crete,1.0,2.0,0.0
+2024-2025,9,2024-10-27,Kallithea,Atromitos,0.0,3.0,0.0
+2024-2025,10,2024-11-02,Olympiacos,Panserraikos,2.0,1.0,1.0
+2024-2025,10,2024-11-02,Kallithea,Panetolikos,1.0,1.0,0.5
+2024-2025,10,2024-11-03,Aris,Levadiakos,3.0,1.0,1.0
+2024-2025,10,2024-11-03,Volos NFC,Panathinaikos,0.0,1.0,0.0
+2024-2025,10,2024-11-03,PAS Lamia,PAOK,1.0,2.0,0.0
+2024-2025,10,2024-11-03,Atromitos,AEK Athens,0.0,1.0,0.0
+2024-2025,10,2024-11-04,Asteras Tripoli,OFI Crete,3.0,0.0,1.0
+2024-2025,11,2024-11-09,Panetolikos,Aris,2.0,1.0,1.0
+2024-2025,11,2024-11-09,Panserraikos,Atromitos,2.0,3.0,0.0
+2024-2025,11,2024-11-09,AEK Athens,Asteras Tripoli,3.0,0.0,1.0
+2024-2025,11,2024-11-10,OFI Crete,Kallithea,2.0,2.0,0.5
+2024-2025,11,2024-11-10,Levadiakos,Volos NFC,3.0,2.0,1.0
+2024-2025,11,2024-11-10,Panathinaikos,PAS Lamia,1.0,0.0,1.0
+2024-2025,11,2024-11-10,PAOK,Olympiacos,2.0,3.0,0.0
+2024-2025,12,2024-11-22,Kallithea,Panserraikos,1.0,2.0,0.0
+2024-2025,12,2024-11-23,PAS Lamia,OFI Crete,1.0,1.0,0.5
+2024-2025,12,2024-11-23,Aris,Volos NFC,0.0,1.0,0.0
+2024-2025,12,2024-11-24,Panetolikos,Panathinaikos,1.0,2.0,0.0
+2024-2025,12,2024-11-24,Asteras Tripoli,PAOK,1.0,2.0,0.0
+2024-2025,12,2024-11-24,Olympiacos,AEK Athens,4.0,1.0,1.0
+2024-2025,12,2024-11-25,Atromitos,Levadiakos,2.0,1.0,1.0
+2024-2025,13,2024-11-30,Volos NFC,PAS Lamia,0.0,0.0,0.5
+2024-2025,13,2024-11-30,Levadiakos,Panetolikos,1.0,1.0,0.5
+2024-2025,13,2024-11-30,AEK Athens,Aris,4.0,0.0,1.0
+2024-2025,13,2024-12-01,Panserraikos,Asteras Tripoli,2.0,1.0,1.0
+2024-2025,13,2024-12-01,OFI Crete,Olympiacos,0.0,2.0,0.0
+2024-2025,13,2024-12-01,PAOK,Kallithea,2.0,2.0,0.5
+2024-2025,13,2024-12-01,Panathinaikos,Atromitos,1.0,1.0,0.5
+2024-2025,14,2024-12-07,Olympiacos,Volos NFC,3.0,0.0,1.0
+2024-2025,14,2024-12-07,Aris,Atromitos,2.0,1.0,1.0
+2024-2025,14,2024-12-08,Panserraikos,PAOK,1.0,4.0,0.0
+2024-2025,14,2024-12-08,OFI Crete,AEK Athens,1.0,2.0,0.0
+2024-2025,14,2024-12-08,Asteras Tripoli,Panathinaikos,0.0,1.0,0.0
+2024-2025,14,2024-12-08,PAS Lamia,Panetolikos,0.0,1.0,0.0
+2024-2025,14,2024-12-09,Kallithea,Levadiakos,2.0,4.0,0.0
+2024-2025,15,2024-12-14,PAS Lamia,AEK Athens,0.0,1.0,0.0
+2024-2025,15,2024-12-14,Atromitos,OFI Crete,0.0,0.0,0.5
+2024-2025,15,2024-12-14,Volos NFC,Asteras Tripoli,2.0,1.0,1.0
+2024-2025,15,2024-12-15,Aris,Panserraikos,1.0,0.0,1.0
+2024-2025,15,2024-12-15,Levadiakos,Panathinaikos,0.0,1.0,0.0
+2024-2025,15,2024-12-15,Panetolikos,PAOK,0.0,1.0,0.0
+2024-2025,15,2024-12-16,Kallithea,Olympiacos,1.0,1.0,0.5
+2024-2025,16,2024-12-21,Olympiacos,PAS Lamia,1.0,0.0,1.0
+2024-2025,16,2024-12-22,Panserraikos,Panetolikos,0.0,0.0,0.5
+2024-2025,16,2024-12-22,Panathinaikos,Kallithea,1.0,0.0,1.0
+2024-2025,16,2024-12-22,PAOK,Atromitos,3.0,0.0,1.0
+2024-2025,16,2024-12-22,AEK Athens,Levadiakos,1.0,1.0,0.5
+2024-2025,16,2024-12-23,Asteras Tripoli,Aris,2.0,1.0,1.0
+2024-2025,16,2024-12-23,OFI Crete,Volos NFC,4.0,0.0,1.0
+2024-2025,17,2025-01-04,Kallithea,PAS Lamia,2.0,1.0,1.0
+2024-2025,17,2025-01-05,Levadiakos,Panserraikos,1.0,0.0,1.0
+2024-2025,17,2025-01-05,Aris,OFI Crete,0.0,2.0,0.0
+2024-2025,17,2025-01-05,Volos NFC,AEK Athens,2.0,4.0,0.0
+2024-2025,17,2025-01-05,Atromitos,Asteras Tripoli,0.0,1.0,0.0
+2024-2025,17,2025-01-05,Panathinaikos,PAOK,2.0,1.0,1.0
+2024-2025,17,2025-01-06,Panetolikos,Olympiacos,0.0,2.0,0.0
+2024-2025,18,2025-01-11,Olympiacos,Aris,2.0,1.0,1.0
+2024-2025,18,2025-01-12,Panserraikos,Panathinaikos,2.0,2.0,0.5
+2024-2025,18,2025-01-12,PAS Lamia,Atromitos,0.0,3.0,0.0
+2024-2025,18,2025-01-12,PAOK,Volos NFC,1.0,2.0,0.0
+2024-2025,18,2025-01-12,AEK Athens,Kallithea,2.0,0.0,1.0
+2024-2025,18,2025-01-13,OFI Crete,Levadiakos,0.0,0.0,0.5
+2024-2025,18,2025-01-13,Asteras Tripoli,Panetolikos,2.0,0.0,1.0
+2024-2025,19,2025-01-18,Kallithea,Volos NFC,2.0,0.0,1.0
+2024-2025,19,2025-01-19,Atromitos,Olympiacos,1.0,2.0,0.0
+2024-2025,19,2025-01-19,Levadiakos,Asteras Tripoli,1.0,2.0,0.0
+2024-2025,19,2025-01-19,Panetolikos,OFI Crete,1.0,0.0,1.0
+2024-2025,19,2025-01-19,Aris,PAOK,0.0,0.0,0.5
+2024-2025,19,2025-01-19,Panathinaikos,AEK Athens,1.0,0.0,1.0
+2024-2025,19,2025-01-20,Panserraikos,PAS Lamia,2.0,0.0,1.0
+2024-2025,20,2025-01-24,Volos NFC,Atromitos,0.0,1.0,0.0
+2024-2025,20,2025-01-25,Asteras Tripoli,Kallithea,1.0,0.0,1.0
+2024-2025,20,2025-01-25,OFI Crete,Panserraikos,3.0,2.0,1.0
+2024-2025,20,2025-01-25,AEK Athens,Panetolikos,1.0,0.0,1.0
+2024-2025,20,2025-01-26,PAS Lamia,Aris,0.0,2.0,0.0
+2024-2025,20,2025-01-26,PAOK,Levadiakos,1.0,0.0,1.0
+2024-2025,20,2025-01-26,Olympiacos,Panathinaikos,1.0,1.0,0.5
+2024-2025,21,2025-02-01,Panathinaikos,OFI Crete,3.0,2.0,1.0
+2024-2025,21,2025-02-01,Panserraikos,Volos NFC,1.0,1.0,0.5
+2024-2025,21,2025-02-02,Levadiakos,Olympiacos,0.0,1.0,0.0
+2024-2025,21,2025-02-02,Kallithea,Aris,0.0,1.0,0.0
+2024-2025,21,2025-02-02,PAOK,AEK Athens,1.0,2.0,0.0
+2024-2025,21,2025-02-02,Panetolikos,Atromitos,0.0,1.0,0.0
+2024-2025,21,2025-02-03,Asteras Tripoli,PAS Lamia,1.0,0.0,1.0
+2024-2025,22,2025-02-08,Volos NFC,Panetolikos,0.0,1.0,0.0
+2024-2025,22,2025-02-08,OFI Crete,PAOK,0.0,5.0,0.0
+2024-2025,22,2025-02-09,Olympiacos,Asteras Tripoli,1.0,1.0,0.5
+2024-2025,22,2025-02-09,Aris,Panathinaikos,2.0,0.0,1.0
+2024-2025,22,2025-02-09,AEK Athens,Panserraikos,5.0,0.0,1.0
+2024-2025,22,2025-02-10,Atromitos,Kallithea,1.0,2.0,0.0
+2024-2025,22,2025-02-10,PAS Lamia,Levadiakos,0.0,2.0,0.0
+2024-2025,23,2025-02-15,OFI Crete,Asteras Tripoli,2.0,1.0,1.0
+2024-2025,23,2025-02-15,AEK Athens,Atromitos,2.0,1.0,1.0
+2024-2025,23,2025-02-16,Levadiakos,Aris,4.0,1.0,1.0
+2024-2025,23,2025-02-16,Panserraikos,Olympiacos,0.0,4.0,0.0
+2024-2025,23,2025-02-16,Panathinaikos,Volos NFC,2.0,1.0,1.0
+2024-2025,23,2025-02-16,PAOK,PAS Lamia,7.0,0.0,1.0
+2024-2025,23,2025-02-16,Panetolikos,Kallithea,2.0,0.0,1.0
+2024-2025,24,2025-02-22,Kallithea,OFI Crete,,,
+2024-2025,24,2025-02-22,Atromitos,Panserraikos,,,
+2024-2025,24,2025-02-22,Volos NFC,Levadiakos,,,
+2024-2025,24,2025-02-23,Aris,Panetolikos,,,
+2024-2025,24,2025-02-23,PAS Lamia,Panathinaikos,,,
+2024-2025,24,2025-02-23,Asteras Tripoli,AEK Athens,,,
+2024-2025,24,2025-02-23,Olympiacos,PAOK,,,
+2024-2025,25,2025-03-01,AEK Athens,Olympiacos,,,
+2024-2025,25,2025-03-01,OFI Crete,PAS Lamia,,,
+2024-2025,25,2025-03-01,Panathinaikos,Panetolikos,,,
+2024-2025,25,2025-03-01,Panserraikos,Kallithea,,,
+2024-2025,25,2025-03-01,Levadiakos,Atromitos,,,
+2024-2025,25,2025-03-01,PAOK,Asteras Tripoli,,,
+2024-2025,25,2025-03-01,Volos NFC,Aris,,,
+2024-2025,26,2025-03-09,Atromitos,Panathinaikos,,,
+2024-2025,26,2025-03-09,Asteras Tripoli,Panserraikos,,,
+2024-2025,26,2025-03-09,Aris,AEK Athens,,,
+2024-2025,26,2025-03-09,Kallithea,PAOK,,,
+2024-2025,26,2025-03-09,Olympiacos,OFI Crete,,,
+2024-2025,26,2025-03-09,PAS Lamia,Volos NFC,,,
+2024-2025,26,2025-03-09,Panetolikos,Levadiakos,,,

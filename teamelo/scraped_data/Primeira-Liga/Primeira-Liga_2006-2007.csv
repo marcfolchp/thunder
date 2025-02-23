@@ -1,0 +1,241 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+2006-2007,1,2006-08-25,Porto,União de Leiria,2,1,1.0
+2006-2007,1,2006-08-26,Sporting CP,Boavista,3,2,1.0
+2006-2007,1,2006-08-26,Beira-Mar,Aves,2,2,0.5
+2006-2007,1,2006-08-26,Braga,Paços,2,1,1.0
+2006-2007,1,2006-08-27,Vitória Setúbal,Académica,1,1,0.5
+2006-2007,1,2006-08-27,Naval,Estrela,2,0,1.0
+2006-2007,1,2006-08-28,Marítimo,Nacional,1,0,1.0
+2006-2007,2,2006-09-08,Aves,Braga,0,1,0.0
+2006-2007,2,2006-09-09,Boavista,Benfica,3,0,1.0
+2006-2007,2,2006-09-09,Nacional,Sporting CP,0,1,0.0
+2006-2007,2,2006-09-10,Académica,Naval,1,2,0.0
+2006-2007,2,2006-09-10,União de Leiria,Beira-Mar,2,2,0.5
+2006-2007,2,2006-09-10,Paços,Marítimo,2,1,1.0
+2006-2007,2,2006-09-10,Belenenses,Vitória Setúbal,2,0,1.0
+2006-2007,2,2006-09-10,Estrela,Porto,0,3,0.0
+2006-2007,3,2006-09-16,Sporting CP,Paços,0,1,0.0
+2006-2007,3,2006-09-17,Naval,Porto,0,2,0.0
+2006-2007,3,2006-09-17,Marítimo,Aves,0,0,0.5
+2006-2007,3,2006-09-17,Benfica,Nacional,1,0,1.0
+2006-2007,3,2006-09-17,Académica,Belenenses,1,1,0.5
+2006-2007,3,2006-09-17,Beira-Mar,Estrela,2,0,1.0
+2006-2007,3,2006-09-18,Braga,União de Leiria,0,1,0.0
+2006-2007,3,2006-09-19,Vitória Setúbal,Boavista,1,0,1.0
+2006-2007,4,2006-09-22,Paços,Benfica,1,1,0.5
+2006-2007,4,2006-09-22,Porto,Beira-Mar,3,0,1.0
+2006-2007,4,2006-09-23,Aves,Sporting CP,0,2,0.0
+2006-2007,4,2006-09-23,Estrela,Braga,0,0,0.5
+2006-2007,4,2006-09-23,Belenenses,Naval,0,0,0.5
+2006-2007,4,2006-09-24,Boavista,Académica,2,2,0.5
+2006-2007,4,2006-09-24,Nacional,Vitória Setúbal,1,0,1.0
+2006-2007,4,2006-09-24,União de Leiria,Marítimo,1,0,1.0
+2006-2007,5,2006-09-29,Naval,Beira-Mar,2,1,1.0
+2006-2007,5,2006-09-30,Belenenses,Boavista,0,2,0.0
+2006-2007,5,2006-10-01,Benfica,Aves,4,1,1.0
+2006-2007,5,2006-10-01,Académica,Nacional,1,3,0.0
+2006-2007,5,2006-10-01,Marítimo,Estrela,2,1,1.0
+2006-2007,5,2006-10-02,Vitória Setúbal,Paços,1,1,0.5
+2006-2007,5,2006-10-02,Sporting CP,União de Leiria,2,0,1.0
+2006-2007,5,2006-10-02,Braga,Porto,2,1,1.0
+2006-2007,6,2006-10-13,Beira-Mar,Braga,0,3,0.0
+2006-2007,6,2006-10-14,Porto,Marítimo,3,0,1.0
+2006-2007,6,2006-10-14,União de Leiria,Benfica,0,4,0.0
+2006-2007,6,2006-10-15,Aves,Vitória Setúbal,1,2,0.0
+2006-2007,6,2006-10-15,Nacional,Belenenses,2,1,1.0
+2006-2007,6,2006-10-15,Paços,Académica,1,1,0.5
+2006-2007,6,2006-10-15,Estrela,Sporting CP,0,1,0.0
+2006-2007,6,2006-10-16,Boavista,Naval,0,1,0.0
+2006-2007,7,2006-10-20,Belenenses,Paços,2,0,1.0
+2006-2007,7,2006-10-21,Boavista,Nacional,0,4,0.0
+2006-2007,7,2006-10-22,Benfica,Estrela,3,1,1.0
+2006-2007,7,2006-10-22,Vitória Setúbal,União de Leiria,1,2,0.0
+2006-2007,7,2006-10-22,Marítimo,Beira-Mar,2,1,1.0
+2006-2007,7,2006-10-22,Académica,Aves,2,0,1.0
+2006-2007,7,2006-10-22,Sporting CP,Porto,1,1,0.5
+2006-2007,7,2006-10-23,Naval,Braga,1,1,0.5
+2006-2007,8,2006-10-27,Beira-Mar,Sporting CP,3,3,0.5
+2006-2007,8,2006-10-28,União de Leiria,Académica,2,0,1.0
+2006-2007,8,2006-10-28,Porto,Benfica,3,2,1.0
+2006-2007,8,2006-10-29,Nacional,Naval,1,1,0.5
+2006-2007,8,2006-10-29,Aves,Belenenses,0,1,0.0
+2006-2007,8,2006-10-29,Estrela,Vitória Setúbal,1,0,1.0
+2006-2007,8,2006-10-29,Braga,Marítimo,1,4,0.0
+2006-2007,8,2006-10-30,Paços,Boavista,2,0,1.0
+2006-2007,9,2006-11-03,Belenenses,União de Leiria,0,1,0.0
+2006-2007,9,2006-11-04,Boavista,Aves,2,1,1.0
+2006-2007,9,2006-11-05,Naval,Marítimo,0,1,0.0
+2006-2007,9,2006-11-05,Académica,Estrela,2,0,1.0
+2006-2007,9,2006-11-05,Benfica,Beira-Mar,3,0,1.0
+2006-2007,9,2006-11-05,Nacional,Paços,5,1,1.0
+2006-2007,9,2006-11-06,Sporting CP,Braga,3,0,1.0
+2006-2007,9,2006-11-06,Vitória Setúbal,Porto,0,3,0.0
+2006-2007,10,2006-11-17,Beira-Mar,Vitória Setúbal,1,1,0.5
+2006-2007,10,2006-11-18,Braga,Benfica,3,1,1.0
+2006-2007,10,2006-11-18,Porto,Académica,2,1,1.0
+2006-2007,10,2006-11-19,União de Leiria,Boavista,0,0,0.5
+2006-2007,10,2006-11-19,Paços,Naval,1,1,0.5
+2006-2007,10,2006-11-19,Aves,Nacional,3,1,1.0
+2006-2007,10,2006-11-19,Marítimo,Sporting CP,0,1,0.0
+2006-2007,10,2006-11-20,Estrela,Belenenses,1,0,1.0
+2006-2007,11,2006-11-24,Boavista,Estrela,1,1,0.5
+2006-2007,11,2006-11-25,Benfica,Marítimo,2,1,1.0
+2006-2007,11,2006-11-26,Naval,Sporting CP,0,1,0.0
+2006-2007,11,2006-11-26,Nacional,União de Leiria,2,1,1.0
+2006-2007,11,2006-11-26,Académica,Beira-Mar,3,1,1.0
+2006-2007,11,2006-11-26,Belenenses,Porto,0,1,0.0
+2006-2007,11,2006-11-26,Paços,Aves,2,0,1.0
+2006-2007,11,2006-11-27,Vitória Setúbal,Braga,1,2,0.0
+2006-2007,12,2006-12-01,Sporting CP,Benfica,0,2,0.0
+2006-2007,12,2006-12-02,Beira-Mar,Belenenses,1,2,0.0
+2006-2007,12,2006-12-02,Porto,Boavista,2,0,1.0
+2006-2007,12,2006-12-03,Braga,Académica,4,2,1.0
+2006-2007,12,2006-12-03,Aves,Naval,2,0,1.0
+2006-2007,12,2006-12-03,Estrela,Nacional,2,0,1.0
+2006-2007,12,2006-12-03,União de Leiria,Paços,0,0,0.5
+2006-2007,12,2006-12-04,Marítimo,Vitória Setúbal,1,0,1.0
+2006-2007,13,2006-12-08,Belenenses,Braga,2,0,1.0
+2006-2007,13,2006-12-09,Boavista,Beira-Mar,3,0,1.0
+2006-2007,13,2006-12-10,Vitória Setúbal,Sporting CP,0,3,0.0
+2006-2007,13,2006-12-10,Académica,Marítimo,1,2,0.0
+2006-2007,13,2006-12-10,Paços,Estrela,1,1,0.5
+2006-2007,13,2006-12-10,Naval,Benfica,0,0,0.5
+2006-2007,13,2006-12-10,Aves,União de Leiria,0,1,0.0
+2006-2007,13,2006-12-11,Nacional,Porto,1,2,0.0
+2006-2007,14,2006-12-15,Marítimo,Belenenses,1,4,0.0
+2006-2007,14,2006-12-16,Benfica,Vitória Setúbal,3,0,1.0
+2006-2007,14,2006-12-16,Sporting CP,Académica,1,0,1.0
+2006-2007,14,2006-12-17,Beira-Mar,Nacional,1,1,0.5
+2006-2007,14,2006-12-17,Estrela,Aves,1,0,1.0
+2006-2007,14,2006-12-17,Naval,União de Leiria,2,1,1.0
+2006-2007,14,2006-12-17,Porto,Paços,4,0,1.0
+2006-2007,14,2006-12-18,Braga,Boavista,2,2,0.5
+2006-2007,1,2006-12-23,Benfica,Belenenses,4,0,1.0
+2006-2007,15,2007-01-12,Boavista,Marítimo,1,1,0.5
+2006-2007,15,2007-01-13,Nacional,Braga,0,0,0.5
+2006-2007,15,2007-01-13,Belenenses,Sporting CP,0,0,0.5
+2006-2007,15,2007-01-14,Vitória Setúbal,Naval,0,3,0.0
+2006-2007,15,2007-01-14,União de Leiria,Estrela,0,0,0.5
+2006-2007,15,2007-01-14,Aves,Porto,0,2,0.0
+2006-2007,15,2007-01-14,Paços,Beira-Mar,1,0,1.0
+2006-2007,15,2007-01-15,Académica,Benfica,0,2,0.0
+2006-2007,16,2007-01-26,União de Leiria,Porto,1,0,1.0
+2006-2007,16,2007-01-27,Paços,Braga,3,2,1.0
+2006-2007,16,2007-01-27,Belenenses,Benfica,1,2,0.0
+2006-2007,16,2007-01-28,Aves,Beira-Mar,0,0,0.5
+2006-2007,16,2007-01-28,Estrela,Naval,0,0,0.5
+2006-2007,16,2007-01-28,Boavista,Sporting CP,1,1,0.5
+2006-2007,16,2007-01-28,Académica,Vitória Setúbal,0,1,0.0
+2006-2007,16,2007-01-29,Nacional,Marítimo,3,2,1.0
+2006-2007,17,2007-02-02,Benfica,Boavista,0,0,0.5
+2006-2007,17,2007-02-03,Sporting CP,Nacional,5,1,1.0
+2006-2007,17,2007-02-03,Porto,Estrela,0,1,0.0
+2006-2007,17,2007-02-04,Beira-Mar,União de Leiria,1,0,1.0
+2006-2007,17,2007-02-04,Marítimo,Paços,1,1,0.5
+2006-2007,17,2007-02-04,Naval,Académica,0,1,0.0
+2006-2007,17,2007-02-04,Vitória Setúbal,Belenenses,0,1,0.0
+2006-2007,17,2007-02-04,Braga,Aves,1,0,1.0
+2006-2007,18,2007-02-16,Porto,Naval,4,0,1.0
+2006-2007,18,2007-02-17,Boavista,Vitória Setúbal,1,1,0.5
+2006-2007,18,2007-02-17,Paços,Sporting CP,1,1,0.5
+2006-2007,18,2007-02-18,União de Leiria,Braga,1,0,1.0
+2006-2007,18,2007-02-18,Nacional,Benfica,0,2,0.0
+2006-2007,18,2007-02-18,Aves,Marítimo,1,1,0.5
+2006-2007,18,2007-02-18,Estrela,Beira-Mar,2,2,0.5
+2006-2007,18,2007-02-19,Belenenses,Académica,1,2,0.0
+2006-2007,19,2007-02-23,Sporting CP,Aves,0,0,0.5
+2006-2007,19,2007-02-24,Naval,Belenenses,2,3,0.0
+2006-2007,19,2007-02-24,Académica,Boavista,0,2,0.0
+2006-2007,19,2007-02-25,Marítimo,União de Leiria,2,1,1.0
+2006-2007,19,2007-02-25,Beira-Mar,Porto,0,5,0.0
+2006-2007,19,2007-02-25,Vitória Setúbal,Nacional,1,1,0.5
+2006-2007,19,2007-02-25,Benfica,Paços,3,1,1.0
+2006-2007,19,2007-02-25,Braga,Estrela,2,1,1.0
+2006-2007,20,2007-03-02,Paços,Vitória Setúbal,1,0,1.0
+2006-2007,20,2007-03-03,Porto,Braga,1,0,1.0
+2006-2007,20,2007-03-04,Nacional,Académica,4,0,1.0
+2006-2007,20,2007-03-04,União de Leiria,Sporting CP,0,0,0.5
+2006-2007,20,2007-03-04,Beira-Mar,Naval,1,3,0.0
+2006-2007,20,2007-03-04,Aves,Benfica,0,1,0.0
+2006-2007,20,2007-03-04,Estrela,Marítimo,1,0,1.0
+2006-2007,20,2007-03-05,Boavista,Belenenses,0,0,0.5
+2006-2007,21,2007-03-09,Naval,Boavista,1,1,0.5
+2006-2007,21,2007-03-10,Belenenses,Nacional,2,0,1.0
+2006-2007,21,2007-03-10,Sporting CP,Estrela,3,1,1.0
+2006-2007,21,2007-03-11,Vitória Setúbal,Aves,1,1,0.5
+2006-2007,21,2007-03-11,Braga,Beira-Mar,0,0,0.5
+2006-2007,21,2007-03-11,Académica,Paços,0,2,0.0
+2006-2007,21,2007-03-11,Marítimo,Porto,1,2,0.0
+2006-2007,21,2007-03-12,Benfica,União de Leiria,2,0,1.0
+2006-2007,22,2007-03-16,Nacional,Boavista,2,0,1.0
+2006-2007,22,2007-03-17,Porto,Sporting CP,0,1,0.0
+2006-2007,22,2007-03-18,Paços,Belenenses,0,2,0.0
+2006-2007,22,2007-03-18,Beira-Mar,Marítimo,2,2,0.5
+2006-2007,22,2007-03-18,União de Leiria,Vitória Setúbal,1,1,0.5
+2006-2007,22,2007-03-18,Aves,Académica,2,2,0.5
+2006-2007,22,2007-03-19,Estrela,Benfica,0,1,0.0
+2006-2007,22,2007-03-20,Braga,Naval,2,1,1.0
+2006-2007,23,2007-03-31,Belenenses,Aves,1,0,1.0
+2006-2007,23,2007-03-31,Boavista,Paços,3,1,1.0
+2006-2007,23,2007-04-01,Académica,União de Leiria,0,0,0.5
+2006-2007,23,2007-04-01,Vitória Setúbal,Estrela,2,0,1.0
+2006-2007,23,2007-04-01,Benfica,Porto,1,1,0.5
+2006-2007,23,2007-04-01,Naval,Nacional,0,0,0.5
+2006-2007,23,2007-04-01,Marítimo,Braga,1,2,0.0
+2006-2007,23,2007-04-02,Sporting CP,Beira-Mar,2,0,1.0
+2006-2007,24,2007-04-06,Porto,Vitória Setúbal,5,1,1.0
+2006-2007,24,2007-04-07,Braga,Sporting CP,0,1,0.0
+2006-2007,24,2007-04-07,União de Leiria,Belenenses,0,1,0.0
+2006-2007,24,2007-04-07,Marítimo,Naval,1,1,0.5
+2006-2007,24,2007-04-07,Aves,Boavista,1,0,1.0
+2006-2007,24,2007-04-07,Estrela,Académica,3,3,0.5
+2006-2007,24,2007-04-07,Paços,Nacional,2,1,1.0
+2006-2007,24,2007-04-09,Beira-Mar,Benfica,2,2,0.5
+2006-2007,25,2007-04-13,Sporting CP,Marítimo,4,0,1.0
+2006-2007,25,2007-04-14,Belenenses,Estrela,3,0,1.0
+2006-2007,25,2007-04-14,Académica,Porto,1,2,0.0
+2006-2007,25,2007-04-15,Naval,Paços,1,1,0.5
+2006-2007,25,2007-04-15,Vitória Setúbal,Beira-Mar,1,3,0.0
+2006-2007,25,2007-04-15,Nacional,Aves,3,4,0.0
+2006-2007,25,2007-04-15,Boavista,União de Leiria,1,1,0.5
+2006-2007,25,2007-04-16,Benfica,Braga,0,0,0.5
+2006-2007,26,2007-04-20,Estrela,Boavista,2,1,1.0
+2006-2007,26,2007-04-21,Marítimo,Benfica,0,3,0.0
+2006-2007,26,2007-04-22,Sporting CP,Naval,4,0,1.0
+2006-2007,26,2007-04-22,Beira-Mar,Académica,0,1,0.0
+2006-2007,26,2007-04-22,Braga,Vitória Setúbal,0,0,0.5
+2006-2007,26,2007-04-22,Porto,Belenenses,3,1,1.0
+2006-2007,26,2007-04-22,União de Leiria,Nacional,1,0,1.0
+2006-2007,26,2007-04-22,Aves,Paços,0,1,0.0
+2006-2007,27,2007-04-27,Paços,União de Leiria,0,0,0.5
+2006-2007,27,2007-04-28,Belenenses,Beira-Mar,2,0,1.0
+2006-2007,27,2007-04-28,Boavista,Porto,2,1,1.0
+2006-2007,27,2007-04-29,Naval,Aves,0,1,0.0
+2006-2007,27,2007-04-29,Nacional,Estrela,1,0,1.0
+2006-2007,27,2007-04-29,Benfica,Sporting CP,1,1,0.5
+2006-2007,27,2007-04-29,Vitória Setúbal,Marítimo,1,1,0.5
+2006-2007,27,2007-04-30,Académica,Braga,0,1,0.0
+2006-2007,28,2007-05-04,Beira-Mar,Boavista,1,0,1.0
+2006-2007,28,2007-05-05,Benfica,Naval,2,1,1.0
+2006-2007,28,2007-05-05,Porto,Nacional,2,0,1.0
+2006-2007,28,2007-05-05,Marítimo,Académica,0,0,0.5
+2006-2007,28,2007-05-06,Sporting CP,Vitória Setúbal,3,1,1.0
+2006-2007,28,2007-05-06,Estrela,Paços,1,0,1.0
+2006-2007,28,2007-05-06,Braga,Belenenses,2,1,1.0
+2006-2007,28,2007-05-06,União de Leiria,Aves,3,1,1.0
+2006-2007,29,2007-05-12,Belenenses,Marítimo,2,0,1.0
+2006-2007,29,2007-05-12,Boavista,Braga,0,1,0.0
+2006-2007,29,2007-05-13,Académica,Sporting CP,0,2,0.0
+2006-2007,29,2007-05-13,Aves,Estrela,0,1,0.0
+2006-2007,29,2007-05-13,Paços,Porto,1,1,0.5
+2006-2007,29,2007-05-13,Vitória Setúbal,Benfica,0,1,0.0
+2006-2007,29,2007-05-13,Nacional,Beira-Mar,3,0,1.0
+2006-2007,29,2007-05-13,União de Leiria,Naval,2,2,0.5
+2006-2007,30,2007-05-19,Marítimo,Boavista,1,2,0.0
+2006-2007,30,2007-05-20,Naval,Vitória Setúbal,1,2,0.0
+2006-2007,30,2007-05-20,Beira-Mar,Paços,1,1,0.5
+2006-2007,30,2007-05-20,Braga,Nacional,1,1,0.5
+2006-2007,30,2007-05-20,Estrela,União de Leiria,1,1,0.5
+2006-2007,30,2007-05-20,Sporting CP,Belenenses,4,0,1.0
+2006-2007,30,2007-05-20,Porto,Aves,4,1,1.0
+2006-2007,30,2007-05-20,Benfica,Académica,2,0,1.0

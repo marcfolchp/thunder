@@ -1,0 +1,3 @@
+2025-02-23 02:51:15 - 🔄 Actualizando temporada más reciente para Eliteserien: 2025
+2025-02-23 02:51:15 - 🔎 Iniciando scraping para Eliteserien temporada 2025...
+2025-02-23 02:51:15 - ⚠️ Se encontraron 240 filas con valores de 'Score' inválidos: [<NA>]

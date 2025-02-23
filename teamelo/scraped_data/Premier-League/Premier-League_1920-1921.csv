@@ -1,0 +1,463 @@
+Season,Wk,Date,Home,Away,Home_Goals,Away_Goals,Result
+1920-1921,1,1920-08-28,Burnley,Bradford City,1,4,0.0
+1920-1921,1,1920-08-28,Sheffield Utd,Sunderland,1,1,0.5
+1920-1921,1,1920-08-28,Aston Villa,Arsenal,5,0,1.0
+1920-1921,1,1920-08-28,Newcastle Utd,West Brom,1,1,0.5
+1920-1921,1,1920-08-28,Derby County,Chelsea,0,0,0.5
+1920-1921,1,1920-08-28,Liverpool,Manchester City,4,2,1.0
+1920-1921,1,1920-08-28,Middlesbrough,Oldham Athletic,1,2,0.0
+1920-1921,1,1920-08-28,Manchester Utd,Bolton,2,3,0.0
+1920-1921,1,1920-08-28,Bradford PA,Everton,3,3,0.5
+1920-1921,1,1920-08-28,Preston,Huddersfield,0,1,0.0
+1920-1921,1,1920-08-28,Tottenham,Blackburn,1,2,0.0
+1920-1921,2,1920-08-30,Bradford City,Sheffield Utd,4,0,1.0
+1920-1921,2,1920-08-30,Oldham Athletic,Blackburn,1,0,1.0
+1920-1921,2,1920-08-30,Derby County,Tottenham,2,2,0.5
+1920-1921,2,1920-08-30,Manchester City,Aston Villa,3,1,1.0
+1920-1921,2,1920-08-30,Arsenal,Manchester Utd,2,0,1.0
+1920-1921,2,1920-08-30,Huddersfield,Burnley,1,0,1.0
+1920-1921,2,1920-08-30,Middlesbrough,Preston,0,0,0.5
+1920-1921,2,1920-09-01,Chelsea,Bolton,1,0,1.0
+1920-1921,2,1920-09-01,West Brom,Liverpool,1,1,0.5
+1920-1921,2,1920-09-01,Sunderland,Bradford PA,5,1,1.0
+1920-1921,2,1920-09-01,Everton,Newcastle Utd,3,1,1.0
+1920-1921,3,1920-09-04,Manchester City,Liverpool,3,2,1.0
+1920-1921,3,1920-09-04,Bolton,Manchester Utd,1,1,0.5
+1920-1921,3,1920-09-04,Blackburn,Tottenham,1,1,0.5
+1920-1921,3,1920-09-04,Oldham Athletic,Middlesbrough,3,3,0.5
+1920-1921,3,1920-09-04,Chelsea,Derby County,1,1,0.5
+1920-1921,3,1920-09-04,Arsenal,Aston Villa,0,1,0.0
+1920-1921,3,1920-09-04,Bradford City,Burnley,2,0,1.0
+1920-1921,3,1920-09-04,Huddersfield,Preston,1,0,1.0
+1920-1921,3,1920-09-04,Sunderland,Sheffield Utd,3,1,1.0
+1920-1921,3,1920-09-04,Everton,Bradford PA,1,1,0.5
+1920-1921,3,1920-09-04,West Brom,Newcastle Utd,0,0,0.5
+1920-1921,4,1920-09-06,Tottenham,Derby County,2,0,1.0
+1920-1921,4,1920-09-06,Liverpool,West Brom,0,0,0.5
+1920-1921,4,1920-09-06,Preston,Middlesbrough,2,0,1.0
+1920-1921,4,1920-09-06,Aston Villa,Manchester City,3,1,1.0
+1920-1921,4,1920-09-06,Burnley,Huddersfield,3,0,1.0
+1920-1921,4,1920-09-06,Bolton,Chelsea,3,1,1.0
+1920-1921,4,1920-09-06,Sheffield Utd,Bradford City,4,1,1.0
+1920-1921,4,1920-09-06,Manchester Utd,Arsenal,1,1,0.5
+1920-1921,4,1920-09-08,Bradford PA,Sunderland,1,1,0.5
+1920-1921,4,1920-09-08,Newcastle Utd,Everton,2,0,1.0
+1920-1921,5,1920-09-11,Aston Villa,Tottenham,4,2,1.0
+1920-1921,5,1920-09-11,Derby County,Everton,2,4,0.0
+1920-1921,5,1920-09-11,Blackburn,Sunderland,2,0,1.0
+1920-1921,5,1920-09-11,Manchester Utd,Chelsea,3,1,1.0
+1920-1921,5,1920-09-11,Bradford PA,Sheffield Utd,2,0,1.0
+1920-1921,5,1920-09-11,Bolton,West Brom,3,0,1.0
+1920-1921,5,1920-09-11,Arsenal,Manchester City,2,1,1.0
+1920-1921,5,1920-09-11,Liverpool,Oldham Athletic,5,2,1.0
+1920-1921,5,1920-09-11,Huddersfield,Bradford City,1,0,1.0
+1920-1921,5,1920-09-11,Newcastle Utd,Preston,4,2,1.0
+1920-1921,5,1920-09-11,Burnley,Middlesbrough,2,1,1.0
+1920-1921,6,1920-09-15,Bolton,Aston Villa,5,0,1.0
+1920-1921,6,1920-09-18,Middlesbrough,Burnley,0,0,0.5
+1920-1921,6,1920-09-18,Sunderland,Blackburn,2,0,1.0
+1920-1921,6,1920-09-18,Everton,Derby County,3,1,1.0
+1920-1921,6,1920-09-18,Bradford City,Huddersfield,0,2,0.0
+1920-1921,6,1920-09-18,Oldham Athletic,Liverpool,0,0,0.5
+1920-1921,6,1920-09-18,Manchester City,Arsenal,3,1,1.0
+1920-1921,6,1920-09-18,Sheffield Utd,Bradford PA,2,0,1.0
+1920-1921,6,1920-09-18,West Brom,Bolton,2,1,1.0
+1920-1921,6,1920-09-18,Chelsea,Manchester Utd,1,2,0.0
+1920-1921,6,1920-09-18,Preston,Newcastle Utd,3,2,1.0
+1920-1921,7,1920-09-18,Tottenham,Aston Villa,1,2,0.0
+1920-1921,6,1920-09-20,Blackburn,Oldham Athletic,5,1,1.0
+1920-1921,7,1920-09-22,Everton,Sheffield Utd,3,0,1.0
+1920-1921,7,1920-09-25,Bradford PA,Bradford City,1,2,0.0
+1920-1921,7,1920-09-25,Newcastle Utd,Sheffield Utd,3,0,1.0
+1920-1921,7,1920-09-25,Derby County,West Brom,1,1,0.5
+1920-1921,7,1920-09-25,Bolton,Manchester City,3,0,1.0
+1920-1921,7,1920-09-25,Liverpool,Preston,6,0,1.0
+1920-1921,7,1920-09-25,Arsenal,Middlesbrough,2,2,0.5
+1920-1921,7,1920-09-25,Manchester Utd,Tottenham,0,1,0.0
+1920-1921,7,1920-09-25,Huddersfield,Sunderland,0,0,0.5
+1920-1921,7,1920-09-25,Burnley,Chelsea,4,0,1.0
+1920-1921,8,1920-09-25,Blackburn,Everton,0,0,0.5
+1920-1921,8,1920-09-25,Aston Villa,Oldham Athletic,3,0,1.0
+1920-1921,8,1920-10-02,Middlesbrough,Arsenal,2,1,1.0
+1920-1921,8,1920-10-02,Tottenham,Manchester Utd,4,1,1.0
+1920-1921,8,1920-10-02,Bradford City,Bradford PA,2,1,1.0
+1920-1921,8,1920-10-02,Chelsea,Burnley,1,1,0.5
+1920-1921,8,1920-10-02,Preston,Liverpool,2,3,0.0
+1920-1921,8,1920-10-02,Manchester City,Bolton,3,1,1.0
+1920-1921,8,1920-10-02,Sunderland,Huddersfield,2,1,1.0
+1920-1921,8,1920-10-02,Sheffield Utd,Newcastle Utd,0,3,0.0
+1920-1921,8,1920-10-02,West Brom,Derby County,3,0,1.0
+1920-1921,9,1920-10-02,Everton,Blackburn,2,1,1.0
+1920-1921,9,1920-10-02,Oldham Athletic,Aston Villa,1,1,0.5
+1920-1921,10,1920-10-04,Sheffield Utd,Everton,2,0,1.0
+1920-1921,9,1920-10-09,Tottenham,Chelsea,5,0,1.0
+1920-1921,9,1920-10-09,Bradford PA,Burnley,1,3,0.0
+1920-1921,9,1920-10-09,Huddersfield,Everton,0,1,0.0
+1920-1921,9,1920-10-09,Newcastle Utd,Sunderland,6,1,1.0
+1920-1921,9,1920-10-09,Derby County,Manchester City,3,0,1.0
+1920-1921,9,1920-10-09,Blackburn,West Brom,5,1,1.0
+1920-1921,9,1920-10-09,Middlesbrough,Bradford City,2,1,1.0
+1920-1921,9,1920-10-09,Arsenal,Bolton,0,0,0.5
+1920-1921,9,1920-10-09,Manchester Utd,Oldham Athletic,4,1,1.0
+1920-1921,9,1920-10-09,Liverpool,Sheffield Utd,2,2,0.5
+1920-1921,10,1920-10-09,Aston Villa,Preston,1,0,1.0
+1920-1921,10,1920-10-16,Manchester City,Derby County,0,0,0.5
+1920-1921,10,1920-10-16,West Brom,Blackburn,1,1,0.5
+1920-1921,10,1920-10-16,Bradford City,Middlesbrough,0,1,0.0
+1920-1921,10,1920-10-16,Bolton,Arsenal,1,1,0.5
+1920-1921,10,1920-10-16,Everton,Huddersfield,0,0,0.5
+1920-1921,10,1920-10-16,Burnley,Bradford PA,1,0,1.0
+1920-1921,10,1920-10-16,Chelsea,Tottenham,0,4,0.0
+1920-1921,10,1920-10-16,Sheffield Utd,Liverpool,0,1,0.0
+1920-1921,10,1920-10-16,Sunderland,Newcastle Utd,0,2,0.0
+1920-1921,10,1920-10-16,Oldham Athletic,Manchester Utd,2,2,0.5
+1920-1921,11,1920-10-16,Preston,Aston Villa,6,1,1.0
+1920-1921,11,1920-10-23,Middlesbrough,Bolton,4,1,1.0
+1920-1921,11,1920-10-23,Tottenham,Burnley,1,2,0.0
+1920-1921,11,1920-10-23,Huddersfield,West Brom,5,1,1.0
+1920-1921,11,1920-10-23,Manchester Utd,Preston,1,0,1.0
+1920-1921,11,1920-10-23,Bradford City,Sunderland,2,2,0.5
+1920-1921,11,1920-10-23,Blackburn,Manchester City,0,2,0.0
+1920-1921,11,1920-10-23,Derby County,Arsenal,1,1,0.5
+1920-1921,11,1920-10-23,Chelsea,Oldham Athletic,1,1,0.5
+1920-1921,11,1920-10-23,Newcastle Utd,Bradford PA,2,1,1.0
+1920-1921,11,1920-10-23,Liverpool,Everton,1,0,1.0
+1920-1921,12,1920-10-23,Aston Villa,Sheffield Utd,4,0,1.0
+1920-1921,12,1920-10-30,Preston,Manchester Utd,0,0,0.5
+1920-1921,12,1920-10-30,West Brom,Huddersfield,3,0,1.0
+1920-1921,12,1920-10-30,Arsenal,Derby County,2,0,1.0
+1920-1921,12,1920-10-30,Oldham Athletic,Chelsea,1,2,0.0
+1920-1921,12,1920-10-30,Manchester City,Blackburn,0,0,0.5
+1920-1921,12,1920-10-30,Bolton,Middlesbrough,6,2,1.0
+1920-1921,12,1920-10-30,Burnley,Tottenham,2,0,1.0
+1920-1921,12,1920-10-30,Sunderland,Bradford City,0,0,0.5
+1920-1921,12,1920-10-30,Everton,Liverpool,0,3,0.0
+1920-1921,12,1920-10-30,Bradford PA,Newcastle Utd,0,2,0.0
+1920-1921,13,1920-10-30,Sheffield Utd,Aston Villa,0,0,0.5
+1920-1921,13,1920-11-06,Blackburn,Arsenal,2,2,0.5
+1920-1921,13,1920-11-06,Newcastle Utd,Burnley,1,2,0.0
+1920-1921,13,1920-11-06,Bradford City,Everton,2,2,0.5
+1920-1921,13,1920-11-06,Huddersfield,Manchester City,0,1,0.0
+1920-1921,13,1920-11-06,Derby County,Bolton,0,0,0.5
+1920-1921,13,1920-11-06,Middlesbrough,Sunderland,2,0,1.0
+1920-1921,13,1920-11-06,Manchester Utd,Sheffield Utd,2,1,1.0
+1920-1921,13,1920-11-06,Tottenham,Oldham Athletic,5,1,1.0
+1920-1921,13,1920-11-06,Chelsea,Preston,1,1,0.5
+1920-1921,13,1920-11-06,Liverpool,Bradford PA,0,1,0.0
+1920-1921,14,1920-11-06,Aston Villa,West Brom,0,0,0.5
+1920-1921,14,1920-11-13,Arsenal,Blackburn,2,0,1.0
+1920-1921,14,1920-11-13,Sunderland,Middlesbrough,1,2,0.0
+1920-1921,14,1920-11-13,Preston,Chelsea,0,1,0.0
+1920-1921,14,1920-11-13,Burnley,Newcastle Utd,3,1,1.0
+1920-1921,14,1920-11-13,Sheffield Utd,Manchester Utd,0,0,0.5
+1920-1921,14,1920-11-13,Oldham Athletic,Tottenham,2,5,0.0
+1920-1921,14,1920-11-13,Bolton,Derby County,1,0,1.0
+1920-1921,14,1920-11-13,Bradford PA,Liverpool,1,3,0.0
+1920-1921,14,1920-11-13,Everton,Bradford City,2,2,0.5
+1920-1921,14,1920-11-13,Manchester City,Huddersfield,3,2,1.0
+1920-1921,15,1920-11-13,West Brom,Aston Villa,2,1,1.0
+1920-1921,15,1920-11-20,Oldham Athletic,Burnley,2,2,0.5
+1920-1921,15,1920-11-20,Newcastle Utd,Liverpool,2,0,1.0
+1920-1921,15,1920-11-20,Manchester Utd,Manchester City,1,1,0.5
+1920-1921,15,1920-11-20,Huddersfield,Arsenal,0,4,0.0
+1920-1921,15,1920-11-20,Blackburn,Bolton,2,2,0.5
+1920-1921,15,1920-11-20,Middlesbrough,Derby County,1,0,1.0
+1920-1921,15,1920-11-20,Tottenham,Preston,1,2,0.0
+1920-1921,16,1920-11-20,Aston Villa,Bradford PA,4,1,1.0
+1920-1921,17,1920-11-20,Everton,Sunderland,1,1,0.5
+1920-1921,17,1920-11-20,Chelsea,Sheffield Utd,2,1,1.0
+1920-1921,15,1920-11-27,West Brom,Bradford City,2,0,1.0
+1920-1921,16,1920-11-27,Bolton,Blackburn,2,1,1.0
+1920-1921,16,1920-11-27,Preston,Tottenham,4,1,1.0
+1920-1921,16,1920-11-27,Derby County,Middlesbrough,0,1,0.0
+1920-1921,16,1920-11-27,Manchester City,Manchester Utd,3,0,1.0
+1920-1921,16,1920-11-27,Arsenal,Huddersfield,2,0,1.0
+1920-1921,16,1920-11-27,Burnley,Oldham Athletic,7,1,1.0
+1920-1921,16,1920-11-27,Liverpool,Newcastle Utd,0,1,0.0
+1920-1921,17,1920-11-27,Bradford PA,Aston Villa,4,0,1.0
+1920-1921,18,1920-11-27,Sunderland,Everton,0,2,0.0
+1920-1921,18,1920-11-27,Sheffield Utd,Chelsea,0,1,0.0
+1920-1921,16,1920-12-04,Bradford City,Manchester City,1,2,0.0
+1920-1921,17,1920-12-04,Oldham Athletic,Preston,0,2,0.0
+1920-1921,17,1920-12-04,Manchester Utd,Bradford PA,5,1,1.0
+1920-1921,17,1920-12-04,Chelsea,Arsenal,1,2,0.0
+1920-1921,17,1920-12-04,Middlesbrough,Everton,3,1,1.0
+1920-1921,17,1920-12-04,Blackburn,Derby County,2,0,1.0
+1920-1921,17,1920-12-04,Liverpool,Burnley,0,0,0.5
+1920-1921,17,1920-12-04,Huddersfield,Bolton,0,0,0.5
+1920-1921,17,1920-12-04,West Brom,Sunderland,4,1,1.0
+1920-1921,18,1920-12-04,Newcastle Utd,Aston Villa,2,1,1.0
+1920-1921,19,1920-12-04,Tottenham,Sheffield Utd,4,1,1.0
+1920-1921,17,1920-12-11,Manchester City,Bradford City,1,0,1.0
+1920-1921,18,1920-12-11,Burnley,Liverpool,1,0,1.0
+1920-1921,18,1920-12-11,Sunderland,West Brom,3,0,1.0
+1920-1921,18,1920-12-11,Derby County,Blackburn,0,1,0.0
+1920-1921,18,1920-12-11,Bradford PA,Manchester Utd,2,4,0.0
+1920-1921,18,1920-12-11,Bolton,Huddersfield,3,1,1.0
+1920-1921,18,1920-12-11,Arsenal,Chelsea,1,1,0.5
+1920-1921,18,1920-12-11,Preston,Oldham Athletic,4,0,1.0
+1920-1921,18,1920-12-11,Everton,Middlesbrough,2,1,1.0
+1920-1921,19,1920-12-11,Aston Villa,Newcastle Utd,0,0,0.5
+1920-1921,20,1920-12-11,Sheffield Utd,Tottenham,1,1,0.5
+1920-1921,19,1920-12-18,Sunderland,Manchester City,1,0,1.0
+1920-1921,19,1920-12-18,Chelsea,Bradford PA,4,1,1.0
+1920-1921,19,1920-12-18,Burnley,Preston,2,0,1.0
+1920-1921,19,1920-12-18,Tottenham,Bolton,5,2,1.0
+1920-1921,19,1920-12-18,Manchester Utd,Newcastle Utd,2,0,1.0
+1920-1921,19,1920-12-18,Blackburn,Middlesbrough,3,2,1.0
+1920-1921,19,1920-12-18,Bradford City,Arsenal,3,1,1.0
+1920-1921,19,1920-12-18,Huddersfield,Derby County,2,0,1.0
+1920-1921,20,1920-12-18,Liverpool,Aston Villa,4,1,1.0
+1920-1921,21,1920-12-18,West Brom,Everton,1,2,0.0
+1920-1921,21,1920-12-18,Oldham Athletic,Sheffield Utd,0,0,0.5
+1920-1921,20,1920-12-25,Burnley,Sheffield Utd,6,0,1.0
+1920-1921,20,1920-12-25,Manchester City,West Brom,4,0,1.0
+1920-1921,20,1920-12-25,Blackburn,Preston,2,2,0.5
+1920-1921,20,1920-12-25,Chelsea,Liverpool,1,1,0.5
+1920-1921,20,1920-12-25,Bolton,Sunderland,6,2,1.0
+1920-1921,20,1920-12-25,Everton,Arsenal,2,4,0.0
+1920-1921,20,1920-12-25,Oldham Athletic,Bradford PA,1,0,1.0
+1920-1921,20,1920-12-25,Newcastle Utd,Tottenham,1,1,0.5
+1920-1921,20,1920-12-25,Bradford City,Derby County,2,2,0.5
+1920-1921,20,1920-12-25,Middlesbrough,Huddersfield,2,0,1.0
+1920-1921,21,1920-12-25,Aston Villa,Manchester Utd,3,4,0.0
+1920-1921,21,1920-12-27,West Brom,Manchester City,2,2,0.5
+1920-1921,21,1920-12-27,Arsenal,Everton,1,1,0.5
+1920-1921,21,1920-12-27,Bradford PA,Oldham Athletic,2,1,1.0
+1920-1921,21,1920-12-27,Huddersfield,Middlesbrough,0,1,0.0
+1920-1921,21,1920-12-27,Tottenham,Newcastle Utd,2,0,1.0
+1920-1921,21,1920-12-27,Preston,Blackburn,4,2,1.0
+1920-1921,21,1920-12-27,Derby County,Bradford City,1,1,0.5
+1920-1921,21,1920-12-27,Sheffield Utd,Burnley,1,1,0.5
+1920-1921,21,1920-12-27,Sunderland,Bolton,0,0,0.5
+1920-1921,21,1920-12-27,Liverpool,Chelsea,2,1,1.0
+1920-1921,22,1920-12-27,Manchester Utd,Aston Villa,1,3,0.0
+1920-1921,24,1920-12-29,Sheffield Utd,Huddersfield,1,1,0.5
+1920-1921,22,1921-01-01,Manchester City,Sunderland,3,1,1.0
+1920-1921,22,1921-01-01,Arsenal,Bradford City,1,2,0.0
+1920-1921,22,1921-01-01,Derby County,Huddersfield,2,1,1.0
+1920-1921,22,1921-01-01,Bradford PA,Chelsea,0,2,0.0
+1920-1921,22,1921-01-01,Middlesbrough,Blackburn,1,1,0.5
+1920-1921,22,1921-01-01,Newcastle Utd,Manchester Utd,6,3,1.0
+1920-1921,22,1921-01-01,Bolton,Tottenham,1,0,1.0
+1920-1921,22,1921-01-01,Preston,Burnley,0,3,0.0
+1920-1921,23,1921-01-01,Aston Villa,Liverpool,0,2,0.0
+1920-1921,24,1921-01-01,Everton,West Brom,2,2,0.5
+1920-1921,25,1921-01-01,Sheffield Utd,Oldham Athletic,3,0,1.0
+1920-1921,23,1921-01-15,Preston,Derby County,2,1,1.0
+1920-1921,23,1921-01-15,Bradford PA,Huddersfield,1,1,0.5
+1920-1921,23,1921-01-15,Oldham Athletic,Bolton,0,0,0.5
+1920-1921,23,1921-01-15,Liverpool,Sunderland,0,0,0.5
+1920-1921,23,1921-01-15,Chelsea,Manchester City,2,1,1.0
+1920-1921,23,1921-01-15,Burnley,Blackburn,4,1,1.0
+1920-1921,23,1921-01-15,Manchester Utd,West Brom,1,4,0.0
+1920-1921,23,1921-01-15,Newcastle Utd,Bradford City,4,0,1.0
+1920-1921,23,1921-01-15,Tottenham,Arsenal,2,1,1.0
+1920-1921,23,1921-01-15,Sheffield Utd,Middlesbrough,1,1,0.5
+1920-1921,24,1921-01-15,Aston Villa,Everton,1,3,0.0
+1920-1921,24,1921-01-22,Bolton,Oldham Athletic,1,1,0.5
+1920-1921,24,1921-01-22,Manchester City,Chelsea,1,0,1.0
+1920-1921,24,1921-01-22,Middlesbrough,Sheffield Utd,2,2,0.5
+1920-1921,24,1921-01-22,Bradford City,Newcastle Utd,1,1,0.5
+1920-1921,24,1921-01-22,Sunderland,Liverpool,2,1,1.0
+1920-1921,24,1921-01-22,Huddersfield,Bradford PA,0,0,0.5
+1920-1921,24,1921-01-22,West Brom,Manchester Utd,0,2,0.0
+1920-1921,24,1921-01-22,Arsenal,Tottenham,3,2,1.0
+1920-1921,24,1921-01-22,Blackburn,Burnley,1,3,0.0
+1920-1921,24,1921-01-22,Derby County,Preston,1,1,0.5
+1920-1921,25,1921-01-22,Everton,Aston Villa,1,1,0.5
+1920-1921,25,1921-01-29,Arsenal,Sunderland,1,2,0.0
+1920-1921,25,1921-01-29,Middlesbrough,West Brom,0,1,0.0
+1920-1921,25,1921-02-03,Tottenham,Bradford PA,2,0,1.0
+1920-1921,24,1921-02-05,Bolton,Bradford City,1,1,0.5
+1920-1921,25,1921-02-05,Everton,Manchester City,3,0,1.0
+1920-1921,25,1921-02-05,Manchester Utd,Liverpool,1,1,0.5
+1920-1921,25,1921-02-05,Chelsea,Newcastle Utd,2,0,1.0
+1920-1921,25,1921-02-05,Sheffield Utd,Preston,1,0,1.0
+1920-1921,25,1921-02-05,Derby County,Oldham Athletic,3,3,0.5
+1920-1921,26,1921-02-05,Bradford PA,Tottenham,1,1,0.5
+1920-1921,26,1921-02-05,West Brom,Middlesbrough,0,1,0.0
+1920-1921,26,1921-02-05,Sunderland,Arsenal,5,1,1.0
+1920-1921,26,1921-02-05,Burnley,Aston Villa,7,1,1.0
+1920-1921,26,1921-02-05,Huddersfield,Blackburn,0,0,0.5
+1920-1921,26,1921-02-07,Preston,Sheffield Utd,2,0,1.0
+1920-1921,25,1921-02-09,Bradford City,West Brom,1,1,0.5
+1920-1921,26,1921-02-09,Newcastle Utd,Chelsea,1,0,1.0
+1920-1921,26,1921-02-09,Liverpool,Manchester Utd,2,0,1.0
+1920-1921,27,1921-02-09,Aston Villa,Burnley,0,0,0.5
+1920-1921,27,1921-02-10,Blackburn,Huddersfield,1,2,0.0
+1920-1921,27,1921-02-12,Burnley,Derby County,2,1,1.0
+1920-1921,27,1921-02-12,Chelsea,West Brom,3,0,1.0
+1920-1921,27,1921-02-12,Tottenham,Manchester City,2,0,1.0
+1920-1921,27,1921-02-12,Preston,Bolton,1,2,0.0
+1920-1921,27,1921-02-12,Liverpool,Bradford City,2,1,1.0
+1920-1921,27,1921-02-12,Oldham Athletic,Arsenal,1,1,0.5
+1920-1921,27,1921-02-12,Newcastle Utd,Huddersfield,1,0,1.0
+1920-1921,27,1921-02-12,Bradford PA,Middlesbrough,3,0,1.0
+1920-1921,27,1921-02-12,Manchester Utd,Everton,1,2,0.0
+1920-1921,28,1921-02-12,Aston Villa,Sunderland,1,5,0.0
+1920-1921,30,1921-02-12,Sheffield Utd,Blackburn,1,1,0.5
+1920-1921,27,1921-02-14,Oldham Athletic,Derby County,2,1,1.0
+1920-1921,27,1921-02-16,Bradford City,Bolton,2,2,0.5
+1920-1921,28,1921-02-19,Arsenal,Oldham Athletic,2,2,0.5
+1920-1921,28,1921-02-19,Bradford City,Liverpool,0,0,0.5
+1920-1921,28,1921-02-19,Middlesbrough,Bradford PA,2,1,1.0
+1920-1921,31,1921-02-19,Blackburn,Sheffield Utd,1,1,0.5
+1920-1921,27,1921-02-23,Manchester City,Everton,2,0,1.0
+1920-1921,28,1921-02-23,Derby County,Burnley,0,0,0.5
+1920-1921,28,1921-02-23,Huddersfield,Newcastle Utd,1,3,0.0
+1920-1921,28,1921-02-23,West Brom,Tottenham,3,1,1.0
+1920-1921,29,1921-02-23,Sunderland,Aston Villa,0,1,0.0
+1920-1921,28,1921-02-26,Manchester Utd,Sunderland,3,0,1.0
+1920-1921,28,1921-02-26,Chelsea,Everton,0,1,0.0
+1920-1921,28,1921-02-26,Preston,Arsenal,0,1,0.0
+1920-1921,28,1921-02-26,Oldham Athletic,Manchester City,2,0,1.0
+1920-1921,29,1921-02-26,Liverpool,Huddersfield,4,1,1.0
+1920-1921,29,1921-02-26,Burnley,Bolton,3,1,1.0
+1920-1921,29,1921-02-26,Newcastle Utd,Middlesbrough,2,0,1.0
+1920-1921,29,1921-02-26,Tottenham,West Brom,1,0,1.0
+1920-1921,29,1921-02-26,Bradford PA,Blackburn,1,1,0.5
+1920-1921,29,1921-02-26,Sheffield Utd,Derby County,0,1,0.0
+1920-1921,30,1921-02-26,Aston Villa,Bradford City,1,2,0.0
+1920-1921,29,1921-03-05,Manchester City,Oldham Athletic,3,1,1.0
+1920-1921,29,1921-03-05,Sunderland,Manchester Utd,2,3,0.0
+1920-1921,30,1921-03-05,Blackburn,Bradford PA,1,0,1.0
+1920-1921,30,1921-03-05,Huddersfield,Liverpool,1,2,0.0
+1920-1921,30,1921-03-05,Derby County,Sheffield Utd,1,1,0.5
+1920-1921,30,1921-03-05,Bolton,Burnley,1,1,0.5
+1920-1921,30,1921-03-05,Middlesbrough,Newcastle Utd,0,0,0.5
+1920-1921,31,1921-03-07,Bradford City,Aston Villa,3,0,1.0
+1920-1921,30,1921-03-09,Everton,Manchester Utd,2,0,1.0
+1920-1921,30,1921-03-09,Manchester City,Tottenham,2,0,1.0
+1920-1921,29,1921-03-12,Preston,Manchester City,0,1,0.0
+1920-1921,29,1921-03-12,Chelsea,Sunderland,3,1,1.0
+1920-1921,31,1921-03-12,Manchester Utd,Bradford City,1,1,0.5
+1920-1921,31,1921-03-12,Burnley,Arsenal,1,0,1.0
+1920-1921,31,1921-03-12,Bradford PA,Derby County,2,1,1.0
+1920-1921,31,1921-03-12,Liverpool,Middlesbrough,0,0,0.5
+1920-1921,31,1921-03-12,Newcastle Utd,Blackburn,1,2,0.0
+1920-1921,31,1921-03-12,Oldham Athletic,West Brom,0,3,0.0
+1920-1921,31,1921-03-12,Tottenham,Everton,2,0,1.0
+1920-1921,32,1921-03-12,Aston Villa,Huddersfield,0,0,0.5
+1920-1921,34,1921-03-12,Sheffield Utd,Bolton,2,2,0.5
+1920-1921,30,1921-03-14,West Brom,Chelsea,1,1,0.5
+1920-1921,31,1921-03-19,Sunderland,Chelsea,1,0,1.0
+1920-1921,32,1921-03-19,Derby County,Bradford PA,1,0,1.0
+1920-1921,32,1921-03-19,West Brom,Oldham Athletic,0,0,0.5
+1920-1921,32,1921-03-19,Arsenal,Burnley,1,1,0.5
+1920-1921,32,1921-03-19,Bradford City,Manchester Utd,1,1,0.5
+1920-1921,32,1921-03-19,Blackburn,Newcastle Utd,3,3,0.5
+1920-1921,32,1921-03-19,Middlesbrough,Liverpool,0,1,0.0
+1920-1921,33,1921-03-19,Huddersfield,Aston Villa,1,0,1.0
+1920-1921,35,1921-03-19,Bolton,Sheffield Utd,2,2,0.5
+1920-1921,33,1921-03-25,Liverpool,Tottenham,1,1,0.5
+1920-1921,33,1921-03-25,Bolton,Everton,4,2,1.0
+1920-1921,33,1921-03-25,Sunderland,Derby County,3,0,1.0
+1920-1921,33,1921-03-25,Blackburn,Bradford City,2,3,0.0
+1920-1921,33,1921-03-25,Preston,Bradford PA,3,3,0.5
+1920-1921,33,1921-03-25,Manchester City,Middlesbrough,2,1,1.0
+1920-1921,33,1921-03-25,Burnley,Manchester Utd,1,0,1.0
+1920-1921,33,1921-03-25,Newcastle Utd,Oldham Athletic,1,2,0.0
+1920-1921,31,1921-03-26,West Brom,Preston,0,3,0.0
+1920-1921,33,1921-03-26,Sunderland,Tottenham,0,1,0.0
+1920-1921,34,1921-03-26,Huddersfield,Manchester Utd,5,2,1.0
+1920-1921,34,1921-03-26,Manchester City,Burnley,3,0,1.0
+1920-1921,34,1921-03-26,Bradford City,Chelsea,1,1,0.5
+1920-1921,34,1921-03-26,Middlesbrough,Aston Villa,1,4,0.0
+1920-1921,34,1921-03-26,Everton,Oldham Athletic,5,2,1.0
+1920-1921,34,1921-03-26,Bolton,Bradford PA,2,0,1.0
+1920-1921,34,1921-03-26,Derby County,Newcastle Utd,0,1,0.0
+1920-1921,34,1921-03-26,Blackburn,Liverpool,1,1,0.5
+1920-1921,36,1921-03-26,Arsenal,Sheffield Utd,2,6,0.0
+1920-1921,33,1921-03-28,Arsenal,West Brom,2,1,1.0
+1920-1921,35,1921-03-28,Everton,Bolton,2,3,0.0
+1920-1921,35,1921-03-28,Tottenham,Liverpool,1,0,1.0
+1920-1921,35,1921-03-28,Aston Villa,Chelsea,3,0,1.0
+1920-1921,35,1921-03-28,Middlesbrough,Manchester City,3,1,1.0
+1920-1921,35,1921-03-28,Bradford PA,Preston,1,3,0.0
+1920-1921,35,1921-03-28,Manchester Utd,Burnley,0,3,0.0
+1920-1921,35,1921-03-28,Derby County,Sunderland,0,1,0.0
+1920-1921,35,1921-03-28,Oldham Athletic,Newcastle Utd,0,0,0.5
+1920-1921,34,1921-03-29,West Brom,Arsenal,3,4,0.0
+1920-1921,35,1921-03-29,Bradford City,Blackburn,3,4,0.0
+1920-1921,36,1921-03-29,Chelsea,Aston Villa,5,1,1.0
+1920-1921,37,1921-03-29,Huddersfield,Sheffield Utd,1,0,1.0
+1920-1921,33,1921-04-02,Preston,West Brom,2,1,1.0
+1920-1921,35,1921-04-02,Tottenham,Sunderland,0,0,0.5
+1920-1921,36,1921-04-02,Burnley,Manchester City,2,1,1.0
+1920-1921,36,1921-04-02,Newcastle Utd,Derby County,0,1,0.0
+1920-1921,36,1921-04-02,Liverpool,Blackburn,2,0,1.0
+1920-1921,36,1921-04-02,Manchester Utd,Huddersfield,2,0,1.0
+1920-1921,36,1921-04-02,Chelsea,Bradford City,3,1,1.0
+1920-1921,36,1921-04-02,Oldham Athletic,Everton,0,1,0.0
+1920-1921,36,1921-04-02,Bradford PA,Bolton,2,1,1.0
+1920-1921,37,1921-04-02,Aston Villa,Middlesbrough,0,1,0.0
+1920-1921,38,1921-04-02,Sheffield Utd,Arsenal,1,1,0.5
+1920-1921,34,1921-04-04,Bolton,Preston,3,0,1.0
+1920-1921,36,1921-04-06,Everton,Chelsea,5,1,1.0
+1920-1921,35,1921-04-09,Everton,Preston,0,1,0.0
+1920-1921,36,1921-04-09,Bradford City,Tottenham,1,0,1.0
+1920-1921,37,1921-04-09,Derby County,Liverpool,0,0,0.5
+1920-1921,37,1921-04-09,Sunderland,Oldham Athletic,1,1,0.5
+1920-1921,37,1921-04-09,West Brom,Burnley,2,0,1.0
+1920-1921,37,1921-04-09,Arsenal,Bradford PA,2,1,1.0
+1920-1921,37,1921-04-09,Huddersfield,Chelsea,2,0,1.0
+1920-1921,37,1921-04-09,Bolton,Newcastle Utd,3,1,1.0
+1920-1921,37,1921-04-09,Middlesbrough,Manchester Utd,2,4,0.0
+1920-1921,38,1921-04-09,Blackburn,Aston Villa,0,1,0.0
+1920-1921,39,1921-04-09,Manchester City,Sheffield Utd,2,1,1.0
+1920-1921,36,1921-04-16,Preston,Everton,1,0,1.0
+1920-1921,37,1921-04-16,Tottenham,Bradford City,2,0,1.0
+1920-1921,38,1921-04-16,Burnley,West Brom,1,1,0.5
+1920-1921,38,1921-04-16,Bradford PA,Arsenal,0,1,0.0
+1920-1921,38,1921-04-16,Newcastle Utd,Bolton,1,0,1.0
+1920-1921,38,1921-04-16,Liverpool,Derby County,1,1,0.5
+1920-1921,38,1921-04-16,Manchester Utd,Middlesbrough,0,1,0.0
+1920-1921,38,1921-04-16,Chelsea,Huddersfield,1,1,0.5
+1920-1921,38,1921-04-16,Oldham Athletic,Sunderland,2,1,1.0
+1920-1921,39,1921-04-16,Aston Villa,Blackburn,3,0,1.0
+1920-1921,40,1921-04-16,Sheffield Utd,Manchester City,1,1,0.5
+1920-1921,37,1921-04-20,Manchester City,Preston,5,1,1.0
+1920-1921,38,1921-04-23,Sunderland,Preston,2,2,0.5
+1920-1921,39,1921-04-23,Bradford City,Oldham Athletic,1,3,0.0
+1920-1921,39,1921-04-23,Arsenal,Newcastle Utd,1,1,0.5
+1920-1921,39,1921-04-23,Bolton,Liverpool,1,0,1.0
+1920-1921,39,1921-04-23,Manchester City,Bradford PA,1,0,1.0
+1920-1921,39,1921-04-23,Middlesbrough,Chelsea,0,0,0.5
+1920-1921,39,1921-04-23,Blackburn,Manchester Utd,2,0,1.0
+1920-1921,39,1921-04-23,Everton,Burnley,1,1,0.5
+1920-1921,40,1921-04-23,Derby County,Aston Villa,2,3,0.0
+1920-1921,41,1921-04-23,West Brom,Sheffield Utd,1,1,0.5
+1920-1921,38,1921-04-25,Huddersfield,Tottenham,2,0,1.0
+1920-1921,39,1921-04-25,Arsenal,Preston,2,1,1.0
+1920-1921,39,1921-04-27,Everton,Tottenham,0,0,0.5
+1920-1921,40,1921-04-30,Oldham Athletic,Bradford City,2,0,1.0
+1920-1921,40,1921-04-30,Liverpool,Bolton,2,3,0.0
+1920-1921,40,1921-04-30,Bradford PA,Manchester City,1,2,0.0
+1920-1921,40,1921-04-30,Chelsea,Middlesbrough,1,1,0.5
+1920-1921,40,1921-04-30,Tottenham,Huddersfield,1,0,1.0
+1920-1921,40,1921-04-30,Preston,Sunderland,1,1,0.5
+1920-1921,40,1921-04-30,Burnley,Everton,1,1,0.5
+1920-1921,40,1921-04-30,Newcastle Utd,Arsenal,1,0,1.0
+1920-1921,40,1921-04-30,Manchester Utd,Blackburn,0,1,0.0
+1920-1921,41,1921-04-30,Aston Villa,Derby County,1,0,1.0
+1920-1921,42,1921-04-30,Sheffield Utd,West Brom,0,2,0.0
+1920-1921,41,1921-05-02,Derby County,Manchester Utd,1,1,0.5
+1920-1921,41,1921-05-02,West Brom,Bradford PA,0,1,0.0
+1920-1921,41,1921-05-02,Huddersfield,Oldham Athletic,3,1,1.0
+1920-1921,41,1921-05-02,Arsenal,Liverpool,0,0,0.5
+1920-1921,41,1921-05-02,Middlesbrough,Tottenham,1,0,1.0
+1920-1921,41,1921-05-02,Manchester City,Newcastle Utd,3,1,1.0
+1920-1921,41,1921-05-02,Bradford City,Preston,6,2,1.0
+1920-1921,41,1921-05-02,Blackburn,Chelsea,0,0,0.5
+1920-1921,41,1921-05-02,Sunderland,Burnley,1,0,1.0
+1920-1921,42,1921-05-07,Oldham Athletic,Huddersfield,1,2,0.0
+1920-1921,42,1921-05-07,Bradford PA,West Brom,0,3,0.0
+1920-1921,42,1921-05-07,Liverpool,Arsenal,3,0,1.0
+1920-1921,42,1921-05-07,Tottenham,Middlesbrough,2,2,0.5
+1920-1921,42,1921-05-07,Manchester Utd,Derby County,3,0,1.0
+1920-1921,42,1921-05-07,Newcastle Utd,Manchester City,1,1,0.5
+1920-1921,42,1921-05-07,Preston,Bradford City,1,1,0.5
+1920-1921,42,1921-05-07,Burnley,Sunderland,2,2,0.5
+1920-1921,42,1921-05-07,Chelsea,Blackburn,1,2,0.0
+1920-1921,42,1921-05-07,Aston Villa,Bolton,2,0,1.0
