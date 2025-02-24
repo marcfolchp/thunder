@@ -1,0 +1,5 @@
+- competition (competition_id, competition_name)
+- countries (country_id, country_name, country_code)
+- teams (team_id, team_name, team_country)
+- matches (match_id, date, competition_id, home_teamid, away_teamid, home_countryid, away_countryid, home_elo, away_elo, home_score, away_score, result)
+- elos (team_id, country_id, match_id, date, pre_match_elo, post_match_elo)
