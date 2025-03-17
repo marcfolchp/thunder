@@ -1,0 +1,30 @@
+si queremos introducir copas del rey y otras competiciones únicas a un país, pues se le puede seguir dando una importancia X, y siempre ponderada por el coeficiente de su liga.
+es a dir, si sabent que un partit de champions té un I de 50, i un partit domestic te un I d'entre 1 i 10 (10 * per el coeficient, aixo es de moment una idea), doncs podriem 
+asignar a la copa del rey un I de 15 (per exemple), i multiplicarho pel seu coeficient.
+
+60: champions post quarts de final (inc.)
+50: champions pre quarts de final
+40: europa post quarts de final (inc.)
+35: europa pre quarts de final
+25: champions pre grups/lliga (qualis, etc.)
+20: conference post quarts de final (inc.)
+20: europa pre grups/lliga (qualis, etc.)
+15: conference pre quarts de final
+15: conference pre grups/lliga
+*(1-10): partits de lliga X coeficient de lliga
+
+*falta per implementar
+
+potser?
+
+80: champions post quarts de final (inc.)
+70: champions pre quarts de final
+60: europa post quarts de final (inc.)
+50: europa pre quarts de final
+40: conference post quarts de final (inc.)
+30: conference pre quarts de final
+(1-25): competicions domestiques (Copa del Rey, FA Cup, etc.) X coeficient de lliga
+20: champions pre grups/lliga (qualis, etc.)
+18: europa pre grups/lliga (qualis, etc.)
+15: conference pre grups/lliga (qualis, etc.)
+(1-10): partits de lliga X coeficient de lliga
