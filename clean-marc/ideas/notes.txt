@@ -28,3 +28,5 @@ potser?
 18: europa pre grups/lliga (qualis, etc.)
 15: conference pre grups/lliga (qualis, etc.)
 (1-10): partits de lliga X coeficient de lliga
+
+pel coeficient de lliga, hem de tenir algo preparat per quan un pais no juga en x numero d'anys i poder restar-li punts o algo per l'estil.
